@@ -1,0 +1,344 @@
+DAT
+id=qid::label=str::text=lstr::
+6114::$$$message_0054_0000_0000$$$::Ela corta facilmente o homem de vermelho.[lr]::
+6115::$$$message_0054_0000_0001$$$::Saber levanta o braço, pronta para[line2][lr]::
+6116::$$$message_0054_0000_0002$$$::Mas antes que ela possa arrancar sua cabeça, uma feitiçaria incrivelmente poderosa o faz desaparecer.::
+6117::$$$message_0054_0001_0000$$$::Saber não para.[lr]::
+6118::$$$message_0054_0001_0001$$$::Ela corre direto para a pessoa parada atrás do homem de vermelho...[lr]::
+6119::$$$message_0054_0001_0002$$$::...e anula sem esforço a potente feitiçaria que eles lançaram.::
+6120::$$$message_0054_0002_0000$$$::"O qu...!?"[lr]::
+6121::$$$message_0054_0002_0001$$$::Eu sabia que ela era forte, mas isso é simplesmente irreal.[lr]::
+6122::$$$message_0054_0002_0002$$$::Isso foi um tipo de feitiçaria de intervenção muito além de qualquer coisa que eu seja capaz de fazer.::
+6123::$$$message_0054_0003_0000$$$::Meu velho talvez pudesse lançar algo com um pouco de peso, mas não tenho certeza se mesmo um mago de primeira linha poderia lançar algo tão poderoso de improviso assim.[lr]::
+6124::$$$message_0054_0003_0001$$$::Mesmo assim, Saber anula a feitiçaria como se fosse [font italic=true]nada[font italic=false].::
+6125::$$$message_0054_0004_0000$$$::O inimigo deve ser um mago, o que significa que o resultado desta partida está decidido.[lr]::
+6126::$$$message_0054_0004_0001$$$::O ataque do mago não funciona em Saber, e Saber avança sobre eles impiedosamente.::
+6127::$$$message_0054_0005_0000$$$::O mago cai para trás com um baque.[lr]::
+6128::$$$message_0054_0005_0001$$$::O inimigo milagrosamente desvia do ataque de Saber, mas não consegue mais se mover.[lr]::
+6129::$$$message_0054_0005_0002$$$::Saber encurrala o inimigo, e aponta sua espada invisível para eles.::
+6130::$$$message_0054_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
+6131::$$$message_0054_0006_0001$$$::Minha mente congela.[lr]::
+6132::$$$message_0054_0006_0002$$$::Talvez seja um vislumbre momentâneo do luar,[lr]::
+6133::$$$message_0054_0006_0003$$$::mas eu vejo então que Saber está atacando um humano.[lr]::
+6134::$$$message_0054_0006_0004$$$::Eu não posso dizer quem é especificamente, mas a imagem de Saber matando alguém, seu sangue manchando suas mãos, de repente preenche minha mente.::
+6135::$$$message_0054_0007_0000$$$::[font italic=true]...[font italic=false][lr]::
+6136::$$$message_0054_0007_0001$$$::Saber avança.[lr]::
+6137::$$$message_0054_0007_0002$$$::Ela vai cortar a garganta deles com aquela espada invisível.::
+6138::$$$message_0054_0008_0000$$$::"SABER, PARE!"[lr]::
+6139::$$$message_0054_0008_0001$$$::Eu grito o mais alto que posso.[lr]::
+6140::$$$message_0054_0008_0002$$$::Sua lâmina para abruptamente.[lr]::
+6141::$$$message_0054_0008_0003$$$::Provavelmente é melhor para minha sanidade que eu não possa ver sua espada.[lr]::
+6142::$$$message_0054_0008_0004$$$::Mas a ponta daquela espada invisível ainda não está molhada com o sangue de seu oponente.::
+6143::$$$message_0054_0009_0000$$$::"Pare. Eu imploro, Saber."[lr]::
+6144::$$$message_0054_0009_0001$$$::Eu a encaro enquanto falo.[lr]::
+6145::$$$message_0054_0009_0002$$$::Se vou pará-la, preciso me preparar para dar tudo de mim para fazer isso.::
+6146::$$$message_0054_0010_0000$$$::"Por que você está me parando, Shirou? Ela é a Mestra do Archer. Eu devo dar um fim nela aqui e agora."[lr]::
+6147::$$$message_0054_0010_0001$$$::Não, Saber não tem absolutamente nenhuma intenção de parar.[lr]::
+6148::$$$message_0054_0010_0002$$$::Ela só parou porque eu mandei, mas ela ainda mantém sua espada pronta.::
+6149::$$$message_0054_0011_0000$$$::"E-eu estou te dizendo, espere. Você continua me chamando de Mestre, mas eu ainda não entendo o que está acontecendo. Se você vai se dirigir a mim dessa forma, então não seria certo se explicar primeiro!?" ::
+6150::$$$message_0054_0012_0000$$$::"..."::
+6151::$$$message_0054_0013_0000$$$::Saber não responde.[lr]::
+6152::$$$message_0054_0013_0001$$$::Ela apenas fica lá, me encarando.::
+6153::$$$message_0054_0014_0000$$$::"Nós estamos fazendo isso errado, Saber. Eu nem sei quem você é. Mas eu vou ouvir se você me disser, então, por favor, não faça isso."::
+6154::$$$message_0054_0015_0000$$$::"..."[lr]::
+6155::$$$message_0054_0015_0001$$$::Saber fica em silêncio.[lr]::
+6156::$$$message_0054_0015_0002$$$::Ela ainda segura sua espada para o oponente, e me encara, seus lábios curvados em insatisfação.::
+6157::$$$message_0054_0016_0000$$$::"O que você quer dizer com 'não faça isso'?[lr]::
+6158::$$$message_0054_0016_0001$$$::"Isso é uma expressão da sua crença idealista de que as pessoas não devem ferir desnecessariamente umas às outras?"::
+6159::$$$message_0054_0017_0000$$$::"Eh...?"[lr]::
+6160::$$$message_0054_0017_0001$$$::Não ferir desnecessariamente?[lr]::
+6161::$$$message_0054_0017_0002$$$::Bem, sim, é melhor evitar conflito o máximo possível, mas eu não sou tão coração mole a ponto de sentir pena de alguém que está me atacando.::
+6162::$$$message_0054_0018_0000$$$::"Então você está dizendo que ninguém deve tirar a vida de outro, mesmo que seja um inimigo, correto? Eu não obedecerei tal ordem. Os inimigos devem ser derrotados. Se você ainda deseja me parar, então use seu Selo de Comando para me ordenar."::
+6163::$$$message_0054_0019_0000$$$::"Hã? Estou falando de você. Uma garota não deveria sair balançando espadas por aí, especialmente se já está ferida.[lr]::
+6164::$$$message_0054_0019_0001$$$::"...Ah, espere. Eu nem sei se isso é uma espada, para começo de conversa. Uh, enfim... você não deveria estar fazendo isso!"::
+6165::$$$message_0054_0020_0000$$$::[font italic=true]...[font italic=false][lr]::
+6166::$$$message_0054_0020_0001$$$::Naquele momento, a boca de Saber se abre em silêncio chocado.::
+6167::$$$message_0054_0021_0000$$$::Eu não sei quanto tempo passa com ela parada ali daquele jeito.[lr]::
+6168::$$$message_0054_0021_0001$$$::"Então, estou me perguntando quando a Saber aqui vai abaixar a espada dela."[lr]::
+6169::$$$message_0054_0021_0002$$$::A pessoa que tinha caído no chão fala do nada.::
+6170::$$$message_0054_0022_0000$$$::"!!!"[lr]::
+6171::$$$message_0054_0022_0001$$$::Saber instintivamente agarra sua espada.::
+6172::$$$message_0054_0023_0000$$$::"Desista. Eu nunca abaixaria minha espada na frente de um inimigo."[lr]::
+6173::$$$message_0054_0023_0001$$$::"Mesmo que seu Mestre esteja mandando?[lr]::
+6174::$$$message_0054_0023_0002$$$::É mesmo? Eu não sabia que Servos, especialmente Sabers, desafiavam seus Mestres."::
+6175::$$$message_0054_0024_0000$$$::[font italic=true]...[font italic=false][lr]::
+6176::$$$message_0054_0024_0001$$$::Saber range os dentes...[lr]::
+6177::$$$message_0054_0024_0002$$$::...mas ela abaixa sua espada, afrouxando um pouco o aperto.[lr]::
+6178::$$$message_0054_0024_0003$$$::Ela deve ter guardado a espada ou algo assim, porque de repente parece muito menos hostil.::
+6179::$$$message_0054_0025_0000$$$::"Okay. Então eu posso levantar agora, certo?"[lr]::
+6180::$$$message_0054_0025_0001$$$::Quem quer que estivesse no chão finalmente se levanta.[lr]::
+6181::$$$message_0054_0025_0002$$$::Eles agem com ousadia, enquanto batem a poeira do traseiro.[lr]::
+6182::$$$message_0054_0025_0003$$$::...Espere um minuto.::
+6183::$$$message_0054_0026_0000$$$::Aquela é...::
+6184::$$$message_0054_0027_0000$$$::"V-você é a Tohsaka!?"[lr]::
+6185::$$$message_0054_0027_0001$$$::"Sim. Boa noite, Emiya."[lr]::
+6186::$$$message_0054_0027_0002$$$::Rin Tohsaka responde com o maior sorriso no rosto.::
+6187::$$$message_0054_0028_0000$$$::"Ah... um..."[lr]::
+6188::$$$message_0054_0028_0001$$$::Isso é inacreditável.[lr]::
+6189::$$$message_0054_0028_0002$$$::Eu não sei mais o que pensar. O jeito que ela me cumprimenta tão casualmente me faz questionar se tudo o que aconteceu foi real.::
+6190::$$$message_0054_0029_0000$$$::"Uh... um, bem... então foi você quem lançou aquela feitiçaria mais cedo, o que faz de você..." [lr]::
+6191::$$$message_0054_0029_0001$$$::"Uma maga. Bem, somos praticamente iguais, então acho que não faz sentido esconder mais."::
+6192::$$$message_0054_0030_0000$$$::"Guh."[lr]::
+6193::$$$message_0054_0030_0001$$$::Ouvir ela ser tão direta sobre isso me faz parecer o idiota aqui.[lr]::
+6194::$$$message_0054_0030_0002$$$::"Enfim, vamos conversar lá dentro. Aposto que você não tem ideia do que está acontecendo, certo, Emiya?"[lr]::
+6195::$$$message_0054_0030_0003$$$::Enquanto ela diz isso, ela caminha em direção à entrada da minha casa.::
+6196::$$$message_0054_0031_0000$$$::"Eh? Espere, Tohsaka! O que diabos você está pensando?"[lr]::
+6197::$$$message_0054_0031_0001$$$::Naquele momento...[lr]::
+6198::$$$message_0054_0031_0002$$$::...quando Tohsaka se vira, seu sorriso mudou para algo completamente diferente.::
+6199::$$$message_0054_0032_0000$$$::"Não seja bobo. Estou pensando em muitas coisas. E é por isso que estou me oferecendo para conversar.[lr]::
+6200::$$$message_0054_0032_0001$$$::"Emiya, eu sei que você está surpreso com todas as coisas que acabaram de acontecer, mas às vezes você só tem que aceitar certas coisas ou vai acabar morto. Esta, a propósito, é uma dessas vezes."[lr]::
+6201::$$$message_0054_0032_0002$$$::Ela me encara, e posso ver animosidade real em seus olhos.::
+6202::$$$message_0054_0033_0000$$$::"..."[lr]::
+6203::$$$message_0054_0033_0001$$$::"Estou feliz que você entende. Agora, vamos entrar."[lr]::
+6204::$$$message_0054_0033_0002$$$::Tohsaka atravessa o portão.::
+6205::$$$message_0054_0034_0000$$$::"Ela parece muito irritada."[lr]::
+6206::$$$message_0054_0034_0001$$$::Bem, eu não a culpo.[lr]::
+6207::$$$message_0054_0034_0002$$$::Apenas um momento atrás, ela tinha uma espada apontada para ela, e ela estava prestes a morrer.::
+6208::$$$message_0054_0035_0000$$$::"Mas ainda assim..."[lr]::
+6209::$$$message_0054_0035_0001$$$::Talvez seja minha imaginação, mas acho que a Tohsaka na escola e a que vejo agora são pessoas completamente diferentes.::
+6210::$$$message_0054_0036_0000$$$::E isso é muito estranho.[lr]::
+6211::$$$message_0054_0036_0001$$$::Rin Tohsaka, a garota mais popular da escola... a garota que eu admiro... está andando na minha frente.[lr]::
+6212::$$$message_0054_0036_0002$$$::Enquanto uma garota loira chamada Saber, que se autodenomina Serva, está me seguindo silenciosamente.::
+6213::$$$message_0054_0037_0000$$$::"..."[lr]::
+6214::$$$message_0054_0037_0001$$$::Hm.[lr]::
+6215::$$$message_0054_0037_0002$$$::O corredor parece estar em uma dimensão diferente.::
+6216::$$$message_0054_0038_0000$$$::Mas não posso ficar covarde para sempre.[lr]::
+6217::$$$message_0054_0038_0001$$$::Posso ainda estar em treinamento, mas ainda sou um mago.[lr]::
+6218::$$$message_0054_0038_0002$$$::Tohsaka, que aparentemente é uma colega maga, é audaciosa, então eu tenho que me manter firme também, ou então vou parecer estúpido.::
+6219::$$$message_0054_0039_0000$$$::Embora, eu não consiga pensar em nada tão significativo aqui.[lr]::
+6220::$$$message_0054_0039_0001$$$::Tipo... Saber, ainda me seguindo.[lr]::
+6221::$$$message_0054_0039_0002$$$::Ela continua me chamando de Mestre, e nós formamos algum tipo de contrato... o que provavelmente a torna um tipo de familiar.::
+6222::$$$message_0054_0040_0000$$$::Eu ouvi dizer que um familiar é um assistente que os magos usam.[lr]::
+6223::$$$message_0054_0040_0001$$$::A maioria dos magos transfere uma parte de seu próprio corpo para outra coisa, e então a usa como seu duplo.::
+6224::$$$message_0054_0041_0000$$$::Mas tipicamente eles são pequenos animais.[lr]::
+6225::$$$message_0054_0041_0001$$$::Coisas como gatos e cachorros são simplesmente mais fáceis de controlar.[lr]::
+6226::$$$message_0054_0041_0002$$$::Alguns magos usam humanos, mas para fazer isso, eles precisam de uma quantidade incrível de energia mágica para alimentar constantemente o humano para controlá-los.::
+6227::$$$message_0054_0042_0000$$$::Fazer isso exigiria que um mago usasse mais da metade de sua própria energia mágica apenas para sustentar o familiar.[lr]::
+6228::$$$message_0054_0042_0001$$$::Então não é exatamente eficiente.[lr]::
+6229::$$$message_0054_0042_0002$$$::Familiares deveriam ser ferramentas para ajudar os magos.[lr]::
+6230::$$$message_0054_0042_0003$$$::É por isso que eles geralmente usam pequenos animais, que podem ser controlados com o mínimo de esforço, e assim não são um fardo.[lr]::
+6231::$$$message_0054_0042_0004$$$::...Pelo menos foi o que me ensinaram.::
+6232::$$$message_0054_0043_0000$$$::"Hm? Algo errado, Shirou?"[lr]::
+6233::$$$message_0054_0043_0001$$$::"Uh, não. Nada."[lr]::
+6234::$$$message_0054_0043_0002$$$::Saber obviamente parece humana. E ela é claramente superior ao seu Mestre, ou seja, eu.[lr]::
+6235::$$$message_0054_0043_0003$$$::Eu não tenho energia mágica suficiente para restringir alguém, muito menos os Circuitos de Magia para controlar familiares, em primeiro lugar.::
+6236::$$$message_0054_0044_0000$$$::"..."[lr]::
+6237::$$$message_0054_0044_0001$$$::O que significa que Saber não é nada como um familiar.[lr]::
+6238::$$$message_0054_0044_0002$$$::Ela se autodenominou Serva.[lr]::
+6239::$$$message_0054_0044_0003$$$::Eu não sei o que ela é, mas aquele homem chamado Lancer, e o homem de vermelho que Tohsaka tem a reboque são provavelmente todos iguais.::
+6240::$$$message_0054_0045_0000$$$::O que significa que Tohsaka também pode ser chamada de Mestra.[lr]::
+6241::$$$message_0054_0045_0001$$$::Eu já vi o suficiente das habilidades de feitiçaria dela.[lr]::
+6242::$$$message_0054_0045_0002$$$::Eu sou menos que um novato, mas com base no que vi, Tohsaka provavelmente vale por três magos... embora realmente não faça muito sentido comparar qualquer mago a alguém como eu, que só pode fazer Fortalecimento.::
+6243::$$$message_0054_0046_0000$$$::O que está claro é que Rin Tohsaka é uma maga excepcional.[lr]::
+6244::$$$message_0054_0046_0001$$$::Em terras espiritualmente fortes, existem linhagens de famílias de magos que supervisionam uma determinada área.[lr]::
+6245::$$$message_0054_0046_0002$$$::A família Emiya veio durante a geração de Kiritsugu, então nossa família é essencialmente de fora.[lr]::
+6246::$$$message_0054_0046_0003$$$::É por isso que eu não sabia que Tohsaka vinha de uma família de magos, e acho que Tohsaka também não sabia que eu vinha de uma.::
+6247::$$$message_0054_0047_0000$$$::...Existem vários magos nesta cidade que eu não conheço.[lr]::
+6248::$$$message_0054_0047_0001$$$::Se aquele cara, Lancer, é o familiar de outro mago também, isso significa que eu me meti no meio de algum tipo de luta entre magos.::
+6249::$$$message_0054_0048_0000$$$::"Uau. Este lugar é mais espaçoso do que o esperado. E o estilo japonês desta sala é único.[lr]::
+6250::$$$message_0054_0048_0001$$$::"Ah, Emiya, esta é a sala de estar?"[lr]::
+6251::$$$message_0054_0048_0002$$$::"..."[lr]::
+6252::$$$message_0054_0048_0003$$$::Eu realmente deveria parar de pensar por agora.[lr]::
+6253::$$$message_0054_0048_0004$$$::Agora é a hora de prestar atenção ao que Tohsaka tem a dizer.::
+6254::$$$message_0054_0049_0000$$$::Eu acendo as luzes.[lr]::
+6255::$$$message_0054_0049_0001$$$::Já passa da uma da manhã.::
+6256::$$$message_0054_0050_0000$$$::"Uau, está tão frio aqui! Ei, as janelas estão todas quebradas!"[lr]::
+6257::$$$message_0054_0050_0001$$$::"Isso não é minha culpa. Aquele cara, o Lancer, me atacou. Eu realmente não tive tempo de me preocupar com as janelas."[lr]::
+6258::$$$message_0054_0050_0002$$$::"Entendo. Então você estava lutando com aquele cara sozinho até invocar a Saber?"[lr]::
+6259::$$$message_0054_0050_0003$$$::"Eu diria que fui mais um saco de pancadas do que um oponente, na verdade."::
+6260::$$$message_0054_0051_0000$$$::"Huh. Então você não tenta bancar o durão. Entendo. Então você é realmente exatamente como eu pensei."[lr]::
+6261::$$$message_0054_0051_0001$$$::Eu não sei o que é tão divertido para ela, mas Tohsaka caminha até a janela quebrada.::
+6262::$$$message_0054_0052_0000$$$::"Hm?"[lr]::
+6263::$$$message_0054_0052_0001$$$::Tohsaka pega um pedaço de vidro quebrado. Ela o encara por um segundo...[lr]::
+6264::$$$message_0054_0052_0002$$$::"Minuten vor Schweißen."[lr]::
+6265::$$$message_0054_0052_0003$$$::Ela corta a ponta do dedo e deixa uma única gota de sangue cair na janela.::
+6266::$$$message_0054_0053_0000$$$::"Gh[line2]!?"[lr]::
+6267::$$$message_0054_0053_0001$$$::Que tipo de feitiçaria é essa?[lr]::
+6268::$$$message_0054_0053_0002$$$::A janela estilhaçada começa a se remontar, retornando ao seu estado original e intacto em meros segundos.::
+6269::$$$message_0054_0054_0000$$$::"Tohsaka, o que você acabou de fazer[line2]"[lr]::
+6270::$$$message_0054_0054_0001$$$::"Apenas uma pequena demonstração. Não é realmente um agradecimento adequado por me salvar lá atrás, mas acho que devo pelo menos ser graciosa." ::
+6271::$$$message_0054_0055_0000$$$::"Bem, tenho certeza que você teria consertado sem minha ajuda, já que fazer isso desta forma é apenas um desperdício de energia mágica. Eu sei que você poderia simplesmente ter substituído as janelas, mas prefiro não conversar no frio."[lr]::
+6272::$$$message_0054_0055_0001$$$::Ela diz tudo isso como se fosse a coisa mais normal do mundo.[lr]::
+6273::$$$message_0054_0055_0002$$$::As habilidades dela estão... além da minha compreensão.::
+6274::$$$message_0054_0056_0000$$$::"Isso é incrível, Tohsaka. Eu não consigo fazer nada parecido, então agradeço por consertar."::
+6275::$$$message_0054_0057_0000$$$::"O quê? Você não consegue fazer isso? Não, não pode ser.[lr]::
+6276::$$$message_0054_0057_0001$$$::"Lidar com vidro é uma das habilidades mais básicas. Consertar vidro quebrado é como um exame de admissão para qualquer escola."::
+6277::$$$message_0054_0058_0000$$$::"É mesmo? Eu só sei o que meu velho me ensinou, então não sei bem o que você consideraria o básico."[lr]::
+6278::$$$message_0054_0058_0001$$$::"Hã!?"[lr]::
+6279::$$$message_0054_0058_0002$$$::Tohsaka para abruptamente.[lr]::
+6280::$$$message_0054_0058_0003$$$::Droga. Parece que eu disse algo que não devia.::
+6281::$$$message_0054_0059_0000$$$::"Espere um minuto. Você está me dizendo que não é nem mesmo um mago completo com sua própria oficina para gerenciar?"[lr]::
+6282::$$$message_0054_0059_0001$$$::"Hã? Eu não tenho uma oficina."[lr]::
+6283::$$$message_0054_0059_0002$$$::Bem, na verdade eu tenho o galpão que uso para treinar, mas acho que chamar aquilo de oficina só deixaria a Tohsaka mais brava.::
+6284::$$$message_0054_0060_0000$$$::"Espere, não me diga. Você não sabe como lidar com os Cinco Grandes Elementos, ou fazer um Caminho Mágico?"[lr]::
+6285::$$$message_0054_0060_0001$$$::Eu apenas concordo com a cabeça.[lr]::
+6286::$$$message_0054_0060_0002$$$::"..."[lr]::
+6287::$$$message_0054_0060_0003$$$::Uau, isso é assustador.[lr]::
+6288::$$$message_0054_0060_0004$$$::Por mais bonita que seja, ela fica... intensa quando fica quieta.::
+6289::$$$message_0054_0061_0000$$$::"Então você é o quê? Um completo amador?"[lr]::
+6290::$$$message_0054_0061_0001$$$::"Não exatamente, não. Eu posso pelo menos fazer alguma feitiçaria de Fortalecimento."[lr]::
+6291::$$$message_0054_0061_0002$$$::"Fortalecimento... Meio inútil, se quer saber. Então você não sabe mais nada?"[lr]::
+6292::$$$message_0054_0061_0003$$$::Tohsaka apenas me encara.[lr]::
+6293::$$$message_0054_0061_0004$$$::"Honestamente? Provavelmente não."[lr]::
+6294::$$$message_0054_0061_0005$$$::O olhar dela é tão intenso, que não consigo deixar de ser vago na minha resposta."::
+6295::$$$message_0054_0062_0000$$$::"Eu simplesmente não entendo como alguém como [font italic=true]ele[font italic=false] acabou invocando a Saber."[lr]::
+6296::$$$message_0054_0062_0001$$$::Ela suspira, desapontada.[lr]::
+6297::$$$message_0054_0062_0002$$$::"Hmph."[lr]::
+6298::$$$message_0054_0062_0003$$$::Eu não gosto muito disso.[lr]::
+6299::$$$message_0054_0062_0004$$$::Não é como se eu estivesse brincando aqui.[lr]::
+6300::$$$message_0054_0062_0005$$$::Claro, eu não sou um mago completo, mas esse não é o problema aqui.::
+6301::$$$message_0054_0063_0000$$$::"Tudo bem. O que está feito está feito, então não adianta reclamar agora. Mais importante, eu te devo uma e preciso te pagar."[lr]::
+6302::$$$message_0054_0063_0001$$$::Tohsaka respira fundo.::
+6303::$$$message_0054_0064_0000$$$::"Então vamos começar.[lr]::
+6304::$$$message_0054_0064_0001$$$::"Deixe-me começar perguntando: Você realmente não sabe nada sobre a posição em que está aqui?"[lr]::
+6305::$$$message_0054_0064_0002$$$::[font italic=true]...[font italic=false][lr]::
+6306::$$$message_0054_0064_0003$$$::Eu concordo com a cabeça.::
+6307::$$$message_0054_0065_0000$$$::"Eu sabia. Era bem óbvio, mas eu só queria checar. Seria um desperdício de tempo se eu explicasse tudo isso para alguém que já soubesse de tudo[line2]como um pouco de gordura mental extra.[lr]::
+6308::$$$message_0054_0065_0001$$$::"Hm?"[lr]::
+6309::$$$message_0054_0065_0002$$$::Essa foi uma... maneira muito estranha de dizer isso, mas sinto que se eu bancar o esperto com ela, ela vai me bater.::
+6310::$$$message_0054_0066_0000$$$::"Vou direto ao ponto. Emiya, você foi selecionado como um Mestre."[lr]::
+6311::$$$message_0054_0066_0001$$$::"Vê essas marcas sagradas na sua mão? Elas variam de pessoa para pessoa, mas geralmente ficam nas costas da mão ou no braço, e deve haver três traços de Selos de Comando gravados aí. Eles são a marca que prova que você é um Mestre."[lr]::
+6312::$$$message_0054_0066_0002$$$::"Costas da minha mão... Ah, você quer dizer isso."::
+6313::$$$message_0054_0067_0000$$$::"Certo. Cuide bem disso, já que são feitiços que controlam Servos. Eles são chamados de Selos de Comando, e contanto que você os tenha, pode dar ordens ao seu Servo."::
+6314::$$$message_0054_0068_0000$$$::"O que quer dizer com, contanto que eu os tenha?"[lr]::
+6315::$$$message_0054_0068_0001$$$::"Selos de Comando são ordens absolutas. Você já deve ter percebido que os Servos têm livre arbítrio, mas essas gravuras em sua mão anulam a vontade deles e os forçam a obedecer."::
+6316::$$$message_0054_0069_0000$$$::"Não há necessidade de cantar nenhum tipo de encantamento. Eles ativam quando você pensa em usá-los.[lr]::
+6317::$$$message_0054_0069_0001$$$::"Mas cada vez que você usa um, você perde um traço. Então tente se limitar a usar apenas dois.[lr]::
+6318::$$$message_0054_0069_0002$$$::"Enfim, apenas tome cuidado. Tenho quase certeza que você morrerá no momento em que ficar sem Selos de Comando."::
+6319::$$$message_0054_0070_0000$$$::"Eh? Eu vou morrer...?"[lr]::
+6320::$$$message_0054_0070_0001$$$::"Sim. Mestres derrotando Mestres é basicamente como uma Guerra do Santo Graal funciona. E o Mestre que derrotar os outros seis é recompensado com o Santo Graal."::
+6321::$$$message_0054_0071_0000$$$::"O... quê?"[lr]::
+6322::$$$message_0054_0071_0001$$$::E-espere um segundo.[lr]::
+6323::$$$message_0054_0071_0002$$$::Eu não entendo o que diabos a Tohsaka está dizendo.[lr]::
+6324::$$$message_0054_0071_0003$$$::Mestres derrotando Mestres?[lr]::
+6325::$$$message_0054_0071_0004$$$::E então eles recebem o Santo Graal... E o Santo Graal é O Santo Graal!?::
+6326::$$$message_0054_0072_0000$$$::"Ainda não entendeu? Olha, você basicamente foi arrastado para um jogo.[lr]::
+6327::$$$message_0054_0072_0001$$$::"Chama-se Guerra do Santo Graal, e é uma batalha entre sete Mestres. É uma luta entre magos que não terminará até que reste apenas um Mestre.[lr]::
+6328::$$$message_0054_0072_0002$$$::Tohsaka fala sobre isso como se fosse a coisa mais normal do mundo.::
+6329::$$$message_0054_0073_0000$$$::[font italic=true]...[font italic=false][lr]::
+6330::$$$message_0054_0073_0001$$$::Tudo o que ela diz gira em minha cabeça.[lr]::
+6331::$$$message_0054_0073_0002$$$::Eu fui escolhido como um Mestre.[lr]::
+6332::$$$message_0054_0073_0003$$$::Tohsaka afirma ser uma Mestra.[lr]::
+6333::$$$message_0054_0073_0004$$$::Familiares chamados Servos.[lr]::
+6334::$$$message_0054_0073_0005$$$::E...[lr]::
+6335::$$$message_0054_0073_0006$$$::A Guerra do Santo Graal, uma batalha até a morte entre sete magos.::
+6336::$$$message_0054_0074_0000$$$::"Okay, espere. Do que diabos você está falando?"[lr]::
+6337::$$$message_0054_0074_0001$$$::"Eu entendo sua confusão, mas estou apenas lhe dizendo a verdade aqui.[lr]::
+6338::$$$message_0054_0074_0002$$$::"E tenho certeza que você entende lá no fundo que não está em posição de fugir de tudo isso, já que quase foi morto por um Servo não uma, mas duas vezes."::
+6339::$$$message_0054_0075_0000$$$::[font italic=true]...[font italic=false][lr]::
+6340::$$$message_0054_0075_0001$$$::Isso...[lr]::
+6341::$$$message_0054_0075_0002$$$::Verdade, aquele cara, Lancer, quase me matou.::
+6342::$$$message_0054_0076_0000$$$::"Ah, certo. Você não foi [font italic=true]quase[font italic=false] morto. Você [font italic=true]foi[font italic=false] morto. Estou impressionada que você conseguiu voltar dessa."[lr]::
+6343::$$$message_0054_0076_0001$$$::[font italic=true]...[font italic=false][lr]::
+6344::$$$message_0054_0076_0002$$$::O comentário de Tohsaka é o prego final no caixão.::
+6345::$$$message_0054_0077_0000$$$::Ela está absolutamente certa.[lr]::
+6346::$$$message_0054_0077_0001$$$::Aquele cara me matou. Eu morri.[lr]::
+6347::$$$message_0054_0077_0002$$$::Não houve chance de eu convencê-lo a não fazer isso, nem de demovê-lo, e eu estava lá apenas para morrer.[lr]::
+6348::$$$message_0054_0077_0003$$$::É por isso que...[lr]::
+6349::$$$message_0054_0077_0004$$$::Eu desistir deste incompreensível jogo de morte não significa que os outros farão o mesmo.::
+6350::$$$message_0054_0078_0000$$$::[font italic=true]...[font italic=false][lr]::
+6351::$$$message_0054_0078_0001$$$::"Entendeu? Okay, vou te contar um pouco mais.[lr]::
+6352::$$$message_0054_0078_0002$$$::"Eu não sei por que há uma Guerra do Santo Graal, em primeiro lugar.[lr]::
+6353::$$$message_0054_0078_0003$$$::"Mas o que eu sei é que, a cada poucas décadas, sete Mestres são selecionados e eles recebem Servos."::
+6354::$$$message_0054_0079_0000$$$::"Eu também sou uma das Mestras escolhidas. É por isso que formei um contrato com um Servo, e você formou um com a Saber.[lr]::
+6355::$$$message_0054_0079_0001$$$::"Pense em um Servo como um familiar dado a você pelo Santo Graal para usar para vencer a Guerra do Santo Graal.[lr]::
+6356::$$$message_0054_0079_0002$$$::"E como Mestres, precisamos trabalhar com nossos Servos para nos livrarmos dos outros Mestres."::
+6357::$$$message_0054_0080_0000$$$::"..."[lr]::
+6358::$$$message_0054_0080_0001$$$::Tohsaka explica as coisas com naturalidade, mas parece totalmente irreal para mim.[lr]::
+6359::$$$message_0054_0080_0002$$$::Mas uma coisa que ela mencionou levanta uma questão.::
+6360::$$$message_0054_0081_0000$$$::"Espere. Você diz que a Saber é um familiar, mas eu não acho que ela seja.[lr]::
+6361::$$$message_0054_0081_0001$$$::"Familiares geralmente são gatos ou pássaros. Claro, há quem use fantasmas, mas a Saber tem um corpo físico. Além disso, ela não parece um familiar para mim."::
+6362::$$$message_0054_0082_0000$$$::Eu dou uma olhada para a Saber.[lr]::
+6363::$$$message_0054_0082_0001$$$::Ela ficou quieta o tempo todo.[lr]::
+6364::$$$message_0054_0082_0002$$$::Saber parece completamente humana para mim.[lr]::
+6365::$$$message_0054_0082_0003$$$::Eu não sei quem ela é, mas ela parece ser uma garota da mesma idade que eu.::
+6366::$$$message_0054_0083_0000$$$::"Um familiar... Bem, Servos podem estar nessa categoria, mas estão em um nível diferente. Veja, aquela garota ali é uma Revestidora de Fantasmas, considerada uma das mais fortes de todos os familiares."[lr]::
+6367::$$$message_0054_0083_0001$$$::"Uma Revestidora de Fantasmas? Então isso significa que ela realmente é um fantasma?"::
+6368::$$$message_0054_0084_0000$$$::O espírito de um humano... alguém que morreu há muito tempo.[lr]::
+6369::$$$message_0054_0084_0001$$$::Os pensamentos residuais de uma pessoa de habilidade excepcional, que permanece neste mundo mesmo após sua morte.[lr]::
+6370::$$$message_0054_0084_0002$$$::Mas isso não faz sentido.[lr]::
+6371::$$$message_0054_0084_0003$$$::Fantasmas não possuem um corpo físico. Fantasmas só podem ferir outros fantasmas.[lr]::
+6372::$$$message_0054_0084_0004$$$::Então, como eu, que possuo um corpo, pude ser morto por um espírito?::
+6373::$$$message_0054_0085_0000$$$::"Um fantasma... Bem, eles são semelhantes, mas a Saber vai te matar se você continuar pensando assim.[lr]::
+6374::$$$message_0054_0085_0001$$$::"Servos são heróis encarnados do passado... Então eles são um tipo de espírito muito além dos humanos."[lr]::
+6375::$$$message_0054_0085_0002$$$::"Hã? Heróis encarnados do passado?"[lr]::
+6376::$$$message_0054_0085_0003$$$::"Isso mesmo. Quer sejam da história ou do mundo moderno, esses espíritos de heróis lendários mortos são invocados e se materializam aqui."::
+6377::$$$message_0054_0086_0000$$$::"Bem, o papel do Mestre é apenas invocá-los, e o Santo Graal é o que ajuda na materialização.[lr]::
+6378::$$$message_0054_0086_0001$$$::"De jeito nenhum um mero mago poderia dar forma a espíritos, então precisamos contar com um artefato poderoso."::
+6379::$$$message_0054_0087_0000$$$::"Espere um minuto. Você está dizendo que um herói do passado é... O QUÊ!?"[lr]::
+6380::$$$message_0054_0087_0001$$$::Eu olho para a Saber.[lr]::
+6381::$$$message_0054_0087_0002$$$::Então ela é uma heroína do passado também!?[lr]::
+6382::$$$message_0054_0087_0003$$$::Bem, claro... ninguém na era moderna se vestiria como ela. Mas ainda assim...::
+6383::$$$message_0054_0088_0000$$$::"Mas isso é impossível. Eu nunca ouvi falar de feitiçaria assim."[lr]::
+6384::$$$message_0054_0088_0001$$$::"Claro que não. Isso não é feitiçaria. Apenas pense nisso como um fenômeno trazido pelo Santo Graal. Senão, não haveria como uma alma ser recriada e atualizada."[lr]::
+6385::$$$message_0054_0088_0002$$$::"Uma recriação de uma alma? Isso significa que esses Servos são diferentes de fantasmas?"::
+6386::$$$message_0054_0089_0000$$$::"Não. Uma vez que algo[line2]sejam humanos, um animal, ou mesmo maquinário[line2]alcança algo grande, eles são removidos do ciclo de reencarnação e sublimados em algo de rank mais alto. Você nem aprendeu sobre isso?[lr]::
+6387::$$$message_0054_0089_0001$$$::"Isso é o que são Espíritos Heroicos.[lr]::
+6388::$$$message_0054_0089_0002$$$::"Dito de outra forma, eles são como pseudo-deuses que são todos adorados de uma forma ou de outra."::
+6389::$$$message_0054_0090_0000$$$::"Sessões espíritas, médiuns e outras feitiçarias comuns que lidam com espíritos apenas pegam emprestado alguns dos poderes do espírito para realizar milagres.[lr]::
+6390::$$$message_0054_0090_0001$$$::"Mas Servos são os próprios Espíritos Heroicos, usados como familiares.[lr]::
+6391::$$$message_0054_0090_0002$$$::"É por isso que eles tipicamente te acompanham em forma espiritual, mas se materializam quando é hora de lutar, se forem necessários."::
+6392::$$$message_0054_0091_0000$$$::"Hm. Então eles podem alternar entre a forma espiritual e ser corpóreos.[lr]::
+6393::$$$message_0054_0091_0001$$$::"Eu não vejo seu Servo agora, então isso significa que ele está em forma espiritual agora?"[lr]::
+6394::$$$message_0054_0091_0002$$$::"Não. Ele está curando sua ferida no meu círculo de invocação agora.[lr]::
+6395::$$$message_0054_0091_0003$$$::"Lembre-se, a Saber o feriu mais cedo. Se eu o tivesse feito recuar um segundo depois, aquele golpe o teria aniquilado."::
+6396::$$$message_0054_0092_0000$$$::"Escute. Apenas Servos em forma espiritual podem derrotar outros Servos em forma espiritual. Nós podemos atacá-los quando estão materializados, então talvez possamos derrotá-los assim.[lr]::
+6397::$$$message_0054_0092_0001$$$::"Mas você percebeu que todos os Servos são monstruosamente fortes, certo? É por isso que devemos deixar os monstros lidarem com os monstros enquanto os Mestres ficam para trás e servem de suporte."::
+6398::$$$message_0054_0093_0000$$$::"...Gr."[lr]::
+6399::$$$message_0054_0093_0001$$$::A explicação de Tohsaka me irrita.[lr]::
+6400::$$$message_0054_0093_0002$$$::Eu não sei como são os outros Servos, mas chamar Servos de monstros não parece uma descrição justa da Saber.::
+6401::$$$message_0054_0094_0000$$$::"Enfim, humanos que se tornam Mestres usam seu Servo invocado para derrotar os outros Mestres.[lr]::
+6402::$$$message_0054_0094_0001$$$::"Você pelo menos entendeu isso?"::
+6403::$$$message_0054_0095_0000$$$::"Na teoria, sim. Mas ainda não estou convencido.[lr]::
+6404::$$$message_0054_0095_0001$$$::"Primeiro de tudo, que tipo de mente doentia pensou em fazer isso, em primeiro lugar?"::
+6405::$$$message_0054_0096_0000$$$::"Isso eu não sei, nem poderia responder mesmo se soubesse. Esse tipo de pergunta deve ser feita à pessoa que supervisiona a Guerra do Santo Graal.[lr]::
+6406::$$$message_0054_0096_0001$$$::"A única coisa que posso te dizer é que você realmente não tem escolha a não ser lutar, e usar bem o seu Servo, porque eles são poderosos."::
+6407::$$$message_0054_0097_0000$$$::Enquanto Tohsaka diz isso, ela se vira para Saber.::
+6408::$$$message_0054_0098_0000$$$::"Saber, depois de conversar com Emiya, parece que você não está em sua forma completa... você está incompleta, já que foi invocada por um mago aprendiz que não tem ideia do que significa ser um Mestre.::
+6409::$$$message_0054_0099_0000$$$::"Sim, você está correta que não estou em minha forma completa.[lr]::
+6410::$$$message_0054_0099_0001$$$::"Shirou não tem energia mágica suficiente para me materializar completamente, o que significa que reverter para a forma espiritual e reabastecer energia mágica são difíceis."::
+6411::$$$message_0054_0100_0000$$$::"Estou surpresa. Sua situação é pior do que eu esperava, e eu não pensei que você seria tão honesta comigo sobre isso. Eu estava, na verdade, apenas tentando sutilmente descobrir sua fraqueza."::
+6412::$$$message_0054_0101_0000$$$::"Estou relutante em revelar minha fraqueza a um inimigo, mas também não acho que posso enganá-la. Não adianta esconder nossa situação de você.[lr]::
+6413::$$$message_0054_0101_0001$$$::"Assim, é melhor para nós se você souber nossas circunstâncias, e der a Shirou um melhor entendimento da situação."::
+6414::$$$message_0054_0102_0000$$$::"Exatamente. Que perspicaz da sua parte. Argh! Eu ainda não acredito! Se ao menos eu fosse a Mestra da Saber, eu já teria praticamente vencido isso!"::
+6415::$$$message_0054_0103_0000$$$::"Tohsaka, você está dizendo que não sou adequado para ser o Mestre dela?"[lr]::
+6416::$$$message_0054_0103_0001$$$::"Obviamente não, seu maldito farsante!"[lr]::
+6417::$$$message_0054_0103_0002$$$::Uau. Alguém com coração poderia ter suavizado esse golpe um pouco.::
+6418::$$$message_0054_0104_0000$$$::"O quê? Você tem mais perguntas?"[lr]::
+6419::$$$message_0054_0104_0001$$$::Mas ela não percebe o quão dolorosas são suas palavras.[lr]::
+6420::$$$message_0054_0104_0002$$$::Minha imagem dela como a estudante de honra perfeita na escola lentamente desmorona.[lr]::
+6421::$$$message_0054_0104_0003$$$::Issei com certeza estava certo sobre ela... Ela é diabolicamente implacável.::
+6422::$$$message_0054_0105_0000$$$::"Okay, agora que estamos em um bom ponto, vamos indo."[lr]::
+6423::$$$message_0054_0105_0001$$$::Tohsaka anuncia isso secamente.[lr]::
+6424::$$$message_0054_0105_0002$$$::Mas é... meio estranho.::
+6425::$$$message_0054_0106_0000$$$::"O quê? Ir? Onde?"[lr]::
+6426::$$$message_0054_0106_0001$$$::"Eu te disse. Vamos ver o cara que sabe tudo sobre o jogo... a Guerra do Santo Graal em que você foi envolvido. Você quer saber por que acontece, certo?"::
+6427::$$$message_0054_0107_0000$$$::"Sim, claro. Mas aonde estamos indo? Já é tarde, e se for muito longe[line2]"[lr]::
+6428::$$$message_0054_0107_0001$$$::"Tudo bem. Ele está apenas na próxima cidade, e podemos voltar para casa antes do amanhecer. Além disso, amanhã é domingo, então não importa se ficarmos acordados até tarde."::
+6429::$$$message_0054_0108_0000$$$::"Uh, esse não é o problema aqui."[lr]::
+6430::$$$message_0054_0108_0001$$$::Tanta coisa aconteceu hoje, e estou totalmente exausto. Eu só quero descansar e organizar meus pensamentos.::
+6431::$$$message_0054_0109_0000$$$::"O quê, você não quer ir? Tudo bem por mim, mas e você, Saber?"[lr]::
+6432::$$$message_0054_0109_0001$$$::Por alguma razão, Tohsaka está pedindo a opinião da Saber.[lr]::
+6433::$$$message_0054_0109_0002$$$::"Espere. A Saber não tem nada a ver com isso. Não a pressione."::
+6434::$$$message_0054_0110_0000$$$::"Oh, já agindo como um Mestre, é? Você não gosta que eu fale com a Saber?"[lr]::
+6435::$$$message_0054_0110_0001$$$::"N-não é isso! É só que se tudo o que você disse sobre tudo isso for verdade, então isso significaria que a Saber é uma heroína do passado. Isso significa que ela não saberia nada sobre a era moderna.[lr]::
+6436::$$$message_0054_0110_0002$$$::"É por isso que[line2]"::
+6437::$$$message_0054_0111_0000$$$::"Shirou. Você está incorreto. Servos podem se adaptar a qualquer época, desde que sejam invocados em um mundo humano. Então eu estou muito ciente desta era."[lr]::
+6438::$$$message_0054_0111_0001$$$::"Eh? Você está? Sério?"[lr]::
+6439::$$$message_0054_0111_0002$$$::"Claro. Esta não é a primeira vez que sou invocada para esta era."::
+6440::$$$message_0054_0112_0000$$$::"O qu..."[lr]::
+6441::$$$message_0054_0112_0001$$$::"Sério? Quais são as chances?"[lr]::
+6442::$$$message_0054_0112_0002$$$::Ah, ei, a Tohsaka está surpresa também.[lr]::
+6443::$$$message_0054_0112_0003$$$::Isso deve significar que o que a Saber disse é pelo menos um tanto incomum.::
+6444::$$$message_0054_0113_0000$$$::"Shirou, eu concordo com ela. Você carece de conhecimento como Mestre. Como sua Serva contratada, eu preferiria que você fosse mais forte."[lr]::
+6445::$$$message_0054_0113_0001$$$::Saber me encara silenciosamente.[lr]::
+6446::$$$message_0054_0113_0002$$$::O olhar em seu rosto me diz que ela está dizendo isso pelo meu bem, não pela sua própria segurança.::
+6447::$$$message_0054_0114_0000$$$::"Tudo bem. Acho que tenho que ir, não é?[lr]::
+6448::$$$message_0054_0114_0001$$$::"Então, onde é esse lugar, Tohsaka? Nós ainda podemos... voltar aqui de lá, certo?"[lr]::
+6449::$$$message_0054_0114_0002$$$::"Claro que podemos. Nosso destino é a Igreja Kotomine, logo na próxima cidade. É onde o padre falso[line2]aquele que supervisiona toda essa batalha[line2]mora."::
+6450::$$$message_0054_0115_0000$$$::Tohsaka abre um sorriso travesso.[lr]::
+6451::$$$message_0054_0115_0001$$$::É o olhar de alguém que está se divertindo me provocando, já que eu não tenho ideia do que está acontecendo.[lr]::
+6452::$$$message_0054_0115_0002$$$::"..."[lr]::
+6453::$$$message_0054_0115_0003$$$::Pelo menos é o que eu acho.[lr]::
+6454::$$$message_0054_0115_0004$$$::Estou começando a acreditar que Tohsaka tem um lado realmente desagradável.::
+

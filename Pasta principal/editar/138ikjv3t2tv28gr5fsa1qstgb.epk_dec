@@ -1,0 +1,181 @@
+DAT
+id=qid::label=str::text=lstr::
+8409::$$$message_0083_0000_0000$$$::Estou preocupado com a Sakura.[lr]::
+8410::$$$message_0083_0000_0001$$$::Não vai adiantar nada eu me preocupar com ela, mas eu deveria pelo menos checar para ver se ela se animou.::
+8411::$$$message_0083_0001_0000$$$::Eu ando pelo corredor do primeiro ano, que fica no quarto andar.[lr]::
+8412::$$$message_0083_0001_0001$$$::Não há estudantes andando pelo corredor, e há apenas um punhado de estudantes pela sala de aula.[lr]::
+8413::$$$message_0083_0001_0002$$$::Eles estão ou em seus clubes ou indo para casa.::
+8414::$$$message_0083_0002_0000$$$::"Droga. A Sakura provavelmente está no clube dela também."[lr]::
+8415::$$$message_0083_0002_0001$$$::Bem, eu já vim até aqui.[lr]::
+8416::$$$message_0083_0002_0002$$$::Eu poderia muito bem checar a sala da Sakura, e depois que eu ver que não há ninguém lá, eu vou para o trabalho.::
+8417::$$$message_0083_0003_0000$$$::"Vejamos."[lr]::
+8418::$$$message_0083_0003_0001$$$::Eu espio dentro da sala 1-B.[lr]::
+8419::$$$message_0083_0003_0002$$$::A sala de aula está tingida de vermelho pela luz do sol poente entrando pelas janelas. Está silencioso, dando a impressão de que não há ninguém lá dentro.::
+8420::$$$message_0083_0004_0000$$$::Não parece haver ninguém na sala de aula.[lr]::
+8421::$$$message_0083_0004_0001$$$::Todos os alunos foram para seus respectivos destinos.[lr]::
+8422::$$$message_0083_0004_0002$$$::[font italic=true]...[font italic=false][lr]::
+8423::$$$message_0083_0004_0003$$$::Exceto por uma única sombra solitária que permaneceu dentro da sala de aula encharcada de vermelho. ::
+8424::$$$message_0083_0005_0000$$$::"Sakura."[lr]::
+8425::$$$message_0083_0005_0001$$$::Eu entro no mundo tingido de carmesim e digo o nome dela.::
+8426::$$$message_0083_0006_0000$$$::"...Senpai?"[lr]::
+8427::$$$message_0083_0006_0001$$$::Seu longo cabelo está cobrindo seu rosto, mas ela parece ainda mais cansada do que esta manhã.::
+8428::$$$message_0083_0007_0000$$$::"Algo errado? Você precisa de algo da nossa sala?"[lr]::
+8429::$$$message_0083_0007_0001$$$::"Não, eu não vim checar sua sala. Eu só estava preocupado com você, já que você parecia abatida esta manhã."::
+8430::$$$message_0083_0008_0000$$$::"..."[lr]::
+8431::$$$message_0083_0008_0001$$$::O rosto de Sakura fica, se possível, ainda mais abatido.[lr]::
+8432::$$$message_0083_0008_0002$$$::Ela obviamente não está bem.::
+8433::$$$message_0083_0009_0000$$$::"Sakura, você deveria ir para casa se não se sente bem. Eu posso pelo menos te acompanhar até o cruzamento, então vamos para casa."::
+8434::$$$message_0083_0010_0000$$$::"...Não, está tudo bem. Eu não estou doente.[lr]::
+8435::$$$message_0083_0010_0001$$$::Eu vou para o meu clube como sempre, então eu janto com você depois do meu clube.[lr]::
+8436::$$$message_0083_0010_0002$$$::...Não há nada de errado. Então, por favor, não se preocupe."[lr]::
+8437::$$$message_0083_0010_0003$$$::Ela pega sua bolsa e começa a andar tão rapidamente que é quase como se estivesse tentando fugir.::
+8438::$$$message_0083_0011_0000$$$::"Boba. Você não parece bem o suficiente para dizer isso. Apenas não vá ao seu clube hoje. Além disso, você não será capaz de puxar seu arco corretamente, do jeito que você está agora."[lr]::
+8439::$$$message_0083_0011_0001$$$::Eu agarro a mão de Sakura enquanto ela tenta passar por mim.::
+8440::$$$message_0083_0012_0000$$$::"Oh..."[lr]::
+8441::$$$message_0083_0012_0001$$$::Um "baque" alto ecoa pela sala de aula.[lr]::
+8442::$$$message_0083_0012_0002$$$::Sakura quase cai, embora eu só tenha tentado agarrar sua mão.[lr]::
+8443::$$$message_0083_0012_0003$$$::"Ei...!"[lr]::
+8444::$$$message_0083_0012_0004$$$::Eu rapidamente puxo o braço de Sakura.[lr]::
+8445::$$$message_0083_0012_0005$$$::Enquanto puxo Sakura com tanta firmeza, descubro que ela é surpreendentemente leve.::
+8446::$$$message_0083_0013_0000$$$::"V-você me deu um susto. Você tem certeza que está tudo bem?[lr]::
+8447::$$$message_0083_0013_0001$$$::Você não colocou nenhum peso em seu passo."[lr]::
+8448::$$$message_0083_0013_0002$$$::"..."[lr]::
+8449::$$$message_0083_0013_0003$$$::Sakura desvia os olhos se desculpando.[lr]::
+8450::$$$message_0083_0013_0004$$$::Honestamente, o que deu nela hoje?::
+8451::$$$message_0083_0014_0000$$$::"Você não vai ao seu clube hoje. Eu também não vou ao trabalho, então vamos apenas para casa."[lr]::
+8452::$$$message_0083_0014_0001$$$::"..."[lr]::
+8453::$$$message_0083_0014_0002$$$::Sakura não responde, ficando quieta.[lr]::
+8454::$$$message_0083_0014_0003$$$::Ela não solta minha mão, nem parece que vai me ouvir.::
+8455::$$$message_0083_0015_0000$$$::"O que está acontecendo, Sakura? Você sabe que não está em condições de ir ao seu clube hoje."[lr]::
+8456::$$$message_0083_0015_0001$$$::"...V-você está certo. Mas meu irmão está esperando."[lr]::
+8457::$$$message_0083_0015_0002$$$::"É por isso que eu preciso ir," ela adiciona quase inaudivelmente.::
+8458::$$$message_0083_0016_0000$$$::[font italic=true]...[font italic=false][lr]::
+8459::$$$message_0083_0016_0001$$$::Droga.[lr]::
+8460::$$$message_0083_0016_0002$$$::Eu nunca tenho uma resposta para esse olhar.[lr]::
+8461::$$$message_0083_0016_0003$$$::Ouvi dizer que as circunstâncias da família Matou são... complicadas, e eu não posso realmente me colocar no meio de Shinji e Sakura.::
+8462::$$$message_0083_0017_0000$$$::Não importa o quanto eu considere Sakura minha família, as pessoas na casa Matou são sua família de verdade.[lr]::
+8463::$$$message_0083_0017_0001$$$::Como um estranho, minhas palavras não serão ouvidas. Qualquer coisa que eu dissesse pareceria apenas intromissão desnecessária.::
+8464::$$$message_0083_0018_0000$$$::"Então você ainda vai passar no clube, Sakura?"[lr]::
+8465::$$$message_0083_0018_0001$$$::"Eh? Ah, sim. Eu percebo que não estou em condições de puxar um arco."::
+8466::$$$message_0083_0019_0000$$$::"Sim. Então você só vai lá para salvar as aparências para o Shinji." [lr]::
+8467::$$$message_0083_0019_0001$$$::Eu puxo uma cadeira e me sento nela.[lr]::
+8468::$$$message_0083_0019_0002$$$::Então eu puxo outra cadeira da mesa vizinha.::
+8469::$$$message_0083_0020_0000$$$::"Um... Senpai?"[lr]::
+8470::$$$message_0083_0020_0001$$$::"Apenas sente-se. Eu não vou mais te impedir de ir ao clube, mas apenas descanse um minuto, okay? Você pode dizer ao Shinji que está atrasada porque eu te segurei."::
+8471::$$$message_0083_0021_0000$$$::"E-eu não posso dizer isso! Se eu fizer, meu irmão pode fazer algo com você... de novo..."::
+8472::$$$message_0083_0022_0000$$$::"O Shinji me dando trabalho não é novidade.[lr]::
+8473::$$$message_0083_0022_0001$$$::"Não se preocupe com isso. Aposto que torna a vida dele mais fácil se ele tiver algo novo para reclamar.[lr]::
+8474::$$$message_0083_0022_0002$$$::"Além disso, dizer a ele que eu te segurei não seria uma mentira descarada. É absolutamente verdade. Não há nada para se sentir culpada."[lr]::
+8475::$$$message_0083_0022_0003$$$::Eu gesticulo para Sakura se sentar.::
+8476::$$$message_0083_0023_0000$$$::"..."[lr]::
+8477::$$$message_0083_0023_0001$$$::Sakura relutantemente senta na cadeira.::
+8478::$$$message_0083_0024_0000$$$::"Bom. Agora espere um minuto. Vou roubar um pouco de chá da sala do conselho estudantil. Fique aí até eu voltar."::
+8479::$$$message_0083_0025_0000$$$::"Eh? Roubar chá? Você não vai se meter em encrenca por isso?"::
+8480::$$$message_0083_0026_0000$$$::"Só se um professor me pegar. Estou acostumado com coisas assim. Não será um problema, desde que eu não encontre um professor, então apenas sente-se e relaxe."[lr]::
+8481::$$$message_0083_0026_0001$$$::"E-eu não posso fazer isso! Especialmente sabendo que você vai fazer algo arriscado. Senpai, por favor, não se preocupe em pegar chá para mim!"::
+8482::$$$message_0083_0027_0000$$$::"E eu continuo dizendo que não é arriscado. Apenas sente-se aí, okay? Beber chá na sala de aula é bom para você de vez em quando."[lr]::
+8483::$$$message_0083_0027_0001$$$::"Oh."::
+8484::$$$message_0083_0028_0000$$$::Eu pulo para o corredor.[lr]::
+8485::$$$message_0083_0028_0001$$$::A sala do conselho estudantil não é tão longe.[lr]::
+8486::$$$message_0083_0028_0002$$$::Vou pegar um jogo de chá inteiro bem rápido para surpreender a Sakura.::
+8487::$$$message_0083_0029_0000$$$::...O tempo passa.[lr]::
+8488::$$$message_0083_0029_0001$$$::Sakura e eu bebemos chá na sala de aula, o que parece ridículo, mas olhamos pela janela, pois não temos nada melhor para fazer.[lr]::
+8489::$$$message_0083_0029_0002$$$::Os últimos raios do pôr do sol se filtram pela janela, ardendo um pouco meus olhos.::
+8490::$$$message_0083_0030_0000$$$::"..."[lr]::
+8491::$$$message_0083_0030_0001$$$::Sakura olha para o pôr do sol, sua expressão vaga.[lr]::
+8492::$$$message_0083_0030_0002$$$::Eu não tenho muito a dizer, então sigo Sakura e fico de boca fechada.::
+8493::$$$message_0083_0031_0000$$$::Como não há conversa, o tempo passa devagar.[lr]::
+8494::$$$message_0083_0031_0001$$$::Sakura geralmente não é muito falante, e não é incomum para ela apenas encarar o nada.[lr]::
+8495::$$$message_0083_0031_0002$$$::Ela parece estar mais à vontade quando está sozinha.[lr]::
+8496::$$$message_0083_0031_0003$$$::Parando para pensar, Sakura prefere ficar sozinha.[lr]::
+8497::$$$message_0083_0031_0004$$$::Não é que ela queira ficar longe da agitação, mas parece que ela quer se isolar das pessoas ao seu redor, e ela muitas vezes escolhe olhar para fora em vez de manter sua atenção dentro.::
+8498::$$$message_0083_0032_0000$$$::...O que provavelmente é por isso que ela ficou sozinha na sala de aula hoje.[lr]::
+8499::$$$message_0083_0032_0001$$$::Sakura não se esforça para interagir com as pessoas.[lr]::
+8500::$$$message_0083_0032_0002$$$::Fuji-nee e eu somos as exceções.[lr]::
+8501::$$$message_0083_0032_0003$$$::E se eu não fosse conhecido do Shinji, Sakura não teria que interagir comigo de forma alguma.::
+8502::$$$message_0083_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+8503::$$$message_0083_0033_0001$$$::Eu dou uma espiada na Sakura.[lr]::
+8504::$$$message_0083_0033_0002$$$::Quatro anos atrás, quando Shinji me apresentou a ela, Sakura parecia mais uma garotinha.[lr]::
+8505::$$$message_0083_0033_0003$$$::Antes que eu percebesse, ela era minha caloura, e até começou a vir à minha casa para ajudar nas tarefas domésticas, e sua aparência infantil começou a desaparecer.::
+8506::$$$message_0083_0034_0000$$$::Sakura se tornou bonita.[lr]::
+8507::$$$message_0083_0034_0001$$$::Bem, ela era bonita desde o início, mas acho que diria que ela ficou... bonita [font italic=true]demais[font italic=false].[lr]::
+8508::$$$message_0083_0034_0002$$$::Além disso, ela é sensata, e tão gentil.[lr]::
+8509::$$$message_0083_0034_0003$$$::Com todas essas ótimas qualidades, não é de admirar que tantas pessoas digam que ela é uma beleza comparável a Rin Tohsaka.::
+8510::$$$message_0083_0035_0000$$$::"..."[lr]::
+8511::$$$message_0083_0035_0001$$$::Mas há algo que eu simplesmente não entendo.[lr]::
+8512::$$$message_0083_0035_0002$$$::Sakura está frequentemente sozinha.[lr]::
+8513::$$$message_0083_0035_0003$$$::Ela não parece ter amigos do clube de kyudou, e dado que ela estava sozinha na sala de aula depois da escola, ela pode não ter amigos em sua classe também.::
+8514::$$$message_0083_0036_0000$$$::Agora que penso sobre isso, eu só conheço a Sakura do clube de kyudou e a Sakura na minha casa.[lr]::
+8515::$$$message_0083_0036_0001$$$::Eu não sei o que a Sakura faz ou como ela age quando está na escola, ou na casa da família Matou.::
+8516::$$$message_0083_0037_0000$$$::"..."[lr]::
+8517::$$$message_0083_0037_0001$$$::Justo quando percebo isso, e enquanto continuo a encarar o céu avermelhado...[lr]::
+8518::$$$message_0083_0037_0002$$$::"Senpai, você se lembra?"[lr]::
+8519::$$$message_0083_0037_0003$$$::Sakura pergunta, sem tirar os olhos da janela.::
+8520::$$$message_0083_0038_0000$$$::"Lembrar do quê?"[lr]::
+8521::$$$message_0083_0038_0001$$$::"De muito tempo atrás. Quando eu ainda não te conhecia."[lr]::
+8522::$$$message_0083_0038_0002$$$::"Então, antes de você e eu nos conhecermos?"::
+8523::$$$message_0083_0039_0000$$$::"Sim. Quatro anos atrás, quando eu tinha acabado de começar a escola.[lr]::
+8524::$$$message_0083_0039_0001$$$::Eu ainda não tinha me acostumado com a escola, e enquanto eu estava andando sem rumo pelo corredor, eu vi algo muito estranho."::
+8525::$$$message_0083_0040_0000$$$::"Eu realmente não sei como as coisas se desenrolaram naquela época, honestamente...[lr]::
+8526::$$$message_0083_0040_0001$$$::"Mas foi depois da escola, e os membros da equipe de atletismo já tinham saído. No entanto, havia uma pessoa ainda lá fora correndo. E enquanto eu continuava a observar, ele começou a fazer salto em altura."::
+8527::$$$message_0083_0041_0000$$$::Ela ri baixinho.[lr]::
+8528::$$$message_0083_0041_0001$$$::Deve ser uma memória querida para a Sakura, a julgar por aquele sorriso feliz.::
+8529::$$$message_0083_0042_0000$$$::"A escola inteira estava pintada de vermelho pelo pôr do sol, e era bonito, mas também me fazia sentir solitária.[lr]::
+8530::$$$message_0083_0042_0001$$$::"E todo esse tempo, essa pessoa continuou a praticar sozinha. Ela corria, pulava, deixava a vara cair, e repetia esse passo. Não havia ninguém por perto, e ela claramente não conseguia de fato alcançar a altura que estava tentando. Mas ela continuava tentando mesmo assim."::
+8531::$$$message_0083_0043_0000$$$::"Não era uma questão de tentar, porque aquela vara era muito mais alta do que essa pessoa.[lr]::
+8532::$$$message_0083_0043_0001$$$::"Até eu podia dizer que era impossível, e essa pessoa devia saber disso também."::
+8533::$$$message_0083_0044_0000$$$::"O quê?"[lr]::
+8534::$$$message_0083_0044_0001$$$::Eu entendo a história, mas não tenho certeza aonde ela quer chegar.[lr]::
+8535::$$$message_0083_0044_0002$$$::Eu não acho que a prática solo exaustiva depois da escola seja tão estranha.::
+8536::$$$message_0083_0045_0000$$$::"Eu era uma garota má naquele momento. Algo estava me incomodando, e eu queria descontar minha raiva em alguém. Então eu estava observando essa pessoa, e o tempo todo eu estava desejando que ela falhasse, que desistisse... e eu queria ver o momento em que sua determinação falhasse.[lr]::
+8537::$$$message_0083_0045_0001$$$::"Mas não aconteceu.[lr]::
+8538::$$$message_0083_0045_0002$$$::"Eu vi essa pessoa tentar fazer o impossível muitas vezes, a ponto de sua tenacidade se tornar assustadora. Ela nunca reclamou uma vez."::
+8539::$$$message_0083_0046_0000$$$::"Huh. Ela devia estar desesperada. Talvez houvesse seletivas no dia seguinte, e ela precisasse ser capaz de alcançar aquela altura para passar."::
+8540::$$$message_0083_0047_0000$$$::"Não, não era isso. Veja bem, ela nem era membro do clube de atletismo."[lr]::
+8541::$$$message_0083_0047_0001$$$::Huh.[lr]::
+8542::$$$message_0083_0047_0002$$$::Mas por que a Sakura está rindo?::
+8543::$$$message_0083_0048_0000$$$::"E então, eu percebi algo enquanto observava. Não importava o que essa pessoa estava fazendo. Ela apenas encontrou algo que não conseguia fazer hoje, e era teimosa o suficiente para não desistir.[lr]::
+8Z44::$$$message_0083_0048_0001$$$::"E assim, depois que o sol se pôs, essa pessoa guardou todo o equipamento sozinha e foi para casa. Ela devia estar exausta, mas saiu calmamente, como se nada tivesse acontecido."::
+8545::$$$message_0083_0049_0000$$$::"Eu não entendo. Se ela foi embora, ela deve ter conseguido, certo? Qual era a altura daquela vara, afinal?"::
+8546::$$$message_0083_0050_0000$$$::"Hehe. Bem, a questão é que ela não conseguiu, afinal. Ela finalmente concluiu que não conseguia pular depois de três horas tentando."[lr]::
+8547::$$$message_0083_0050_0001$$$::"Uau, não é exatamente um final feliz."::
+8548::$$$message_0083_0051_0000$$$::"Sim. Essa pessoa foi tão séria que eu até me preocupei com ela.[lr]::
+8549::$$$message_0083_0051_0001$$$::"E eu imaginei que ela devia ser confiável.[lr]::
+8550::$$$message_0083_0051_0002$$$::"Mas isso também me fez sentir inquieta e solitária."[lr]::
+8551::$$$message_0083_0051_0003$$$::Sakura soa tão solitária enquanto diz isso, e temo que ela possa ser totalmente engolida pela sala de aula vermelha.::
+8552::$$$message_0083_0052_0000$$$::"Huh. Bem, agora que você me contou a história toda... do que se trata, Sakura?"[lr]::
+8553::$$$message_0083_0052_0001$$$::"Não, tudo bem se você não entender. Eu só estava te contando como me senti quando vi. Mas tenho a sensação de que aquele foi apenas um dia típico para aquela pessoa."[lr]::
+8554::$$$message_0083_0052_0002$$$::Sakura sorri calorosamente, parecendo ter saído de seu humor sombrio de antes.::
+8555::$$$message_0083_0053_0000$$$::"..."[lr]::
+8556::$$$message_0083_0053_0001$$$::Só então...[lr]::
+8557::$$$message_0083_0053_0002$$$::Eu posso ser denso, mas percebo de quem ela está falando.[lr]::
+8558::$$$message_0083_0053_0003$$$::Eu realmente não me lembro disso acontecendo, mas se é uma história de quatro anos atrás, deve ter sido um pouco depois que meu velho morreu.[lr]::
+8559::$$$message_0083_0053_0004$$$::Eu fazia algumas coisas bem imprudentes todos os dias, então acho que a história da Sakura é apenas um exemplo disso.::
+8560::$$$message_0083_0054_0000$$$::"Uh... Sakura. Não me diga que essa pessoa é..."[lr]::
+8561::$$$message_0083_0054_0001$$$::"Sim. A história é sobre um veterano. Na verdade, ele está na sala comigo agora.[lr]::
+8562::$$$message_0083_0054_0002$$$::"Você era um pouco menor naquela época, então pensei que estivesse na mesma série que eu."[lr]::
+8563::$$$message_0083_0054_0003$$$::Ugh.[lr]::
+8564::$$$message_0083_0054_0004$$$::Eu realmente gostaria que ela não mencionasse minha altura quando eu era mais jovem.[lr]::
+8565::$$$message_0083_0054_0005$$$::Claro, eu não sou tão alto mesmo agora, mas eu ainda tive um estirão.::
+8566::$$$message_0083_0055_0000$$$::"É o que eu quero dizer. Eu te conhecia, mesmo naquela época."[lr]::
+8567::$$$message_0083_0055_0001$$$::"E-entendo. Essa é nova para mim."[lr]::
+8568::$$$message_0083_0055_0002$$$::Eu desvio o olhar, envergonhado por ela ter me visto em um momento tão estranho.::
+8569::$$$message_0083_0056_0000$$$::E então...[lr]::
+8570::$$$message_0083_0056_0001$$$::"Bem, nós dois vimos a mesma coisa naquela época."[lr]::
+8571::$$$message_0083_0056_0002$$$::Sakura gesticula como se estivesse rezando, e não tenho certeza se entendo aonde ela quer chegar.::
+8Pos72::$$$message_0083_0057_0000$$$::"Hã?"[lr]::
+8573::$$$message_0083_0057_0001$$$::Eu pergunto, me sentindo preocupado.[lr]::
+8574::$$$message_0083_0057_0002$$$::Mas naquele momento, o sino familiar da escola soa, como se para negar minha curiosidade.::
+8575::$$$message_0083_0058_0000$$$::"Ei, o sino tocou."[lr]::
+8576::$$$message_0083_0058_0001$$$::Já se passaram trinta minutos desde que a fiz ficar na sala de aula comigo. São quatro e meia.[lr]::
+8577::$$$message_0083_0058_0002$$$::"Acho que te segurar por mais tempo não seria bom. Eu vou limpar para que você possa ir. Você se sente melhor, certo?"::
+8578::$$$message_0083_0059_0000$$$::"Sim, me sinto muito melhor graças a você. Por favor, aguarde ansiosamente pelo jantar esta noite."[lr]::
+8579::$$$message_0083_0059_0001$$$::Sakura se levanta.[lr]::
+8580::$$$message_0083_0059_0002$$$::Ela não parece estar forçando; ela realmente parece melhor.::
+8581::$$$message_0083_0060_0000$$$::"Ah, desculpe, Sakura. Na verdade, preciso trabalhar hoje à noite. Vou me atrasar, então você não precisa se preocupar em ir lá em casa hoje à noite."[lr]::
+8582::$$$message_0083_0060_0001$$$::"Entendido. Então eu vou apenas fazer o jantar e deixar para você."[lr]::
+8583::$$$message_0083_0060_0002$$$::Sakura se curva rapidamente e sai.::
+8584::$$$message_0083_0061_0000$$$::"Oh, bem."[lr]::
+8585::$$$message_0083_0061_0001$$$::Fuji-nee deve estar na minha casa, então ela deve ser capaz de levar Sakura para casa quando for a hora.[lr]::
+8586::$$$message_0083_0061_0002$$$::Meu sustento está em jogo também, então é melhor eu ir logo para o trabalho.::
+

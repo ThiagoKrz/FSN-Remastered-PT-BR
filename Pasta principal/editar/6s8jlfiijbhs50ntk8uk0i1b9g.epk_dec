@@ -1,0 +1,88 @@
+DAT
+id=qid::label=str::text=lstr::
+26700::$$$message_0228_0000_0000$$$::Eu volto para o meu próprio quarto.[lr]::
+26701::$$$message_0228_0000_0001$$$::O quarto ao lado do meu, separado por uma única porta de correr, é o quarto da Saber.::
+26702::$$$message_0228_0001_0000$$$::"Saber, você está acordada?"[lr]::
+26703::$$$message_0228_0001_0001$$$::"Estou. Algum problema, Mestre?"[lr]::
+26704::$$$message_0228_0001_0002$$$::Saber abre a porta de correr.::
+26705::$$$message_0228_0002_0000$$$::"...Uh."[lr]::
+26706::$$$message_0228_0002_0001$$$::Eu tento controlar as batidas do meu coração enquanto ela se aproxima.[lr]::
+26707::$$$message_0228_0002_0002$$$::...Calma. Eu só vou falar com ela como um Mestre.::
+26708::$$$message_0228_0003_0000$$$::"Shirou. Você não parece bem. Sua ferida se abriu?"[lr]::
+26709::$$$message_0228_0003_0001$$$::"Uh... não, não é isso. Estou me sentindo bem melhor. Na verdade, como você está?"::
+26710::$$$message_0228_0004_0000$$$::"Estou bem. Pode levar mais algum tempo para me curar completamente no meu estado atual, mas ainda estou bem acima da média. Devo estar em pé de igualdade na batalha, desde que não seja contra o Berserker."::
+26711::$$$message_0228_0005_0000$$$::Não sinto nenhuma pretensão nela.[lr]::
+26712::$$$message_0228_0005_0001$$$::Ela está simplesmente afirmando a verdade.::
+26713::$$$message_0228_0006_0000$$$::"..."[lr]::
+26714::$$$message_0228_0006_0001$$$::Eu não tenho nenhuma resposta para dar.[lr]::
+26715::$$$message_0228_0006_0002$$$::As palavras de Saber podem ser encorajadoras para um Mestre, mas eu ainda não quero que uma garota de aparência delicada como ela lute.::
+26716::$$$message_0228_0007_0000$$$::"Hum... quero te perguntar uma coisa. Você não tem outros objetivos além de lutar? Já que você está aqui no mundo moderno, não há coisas que você gostaria de fazer?"::
+26717::$$$message_0228_0008_0000$$$::"Outros... objetivos? Não há mais nada. Servos são invocados para lutar, isso é tudo.[lr]::
+26718::$$$message_0228_0008_0001$$$::"Qualquer outra coisa é fútil. Você levantou uma irrelevância."::
+26719::$$$message_0228_0009_0000$$$::Eu imaginei.[lr]::
+26720::$$$message_0228_0009_0001$$$::Estou tentando dizer a alguém para não lutar quando é sua única razão de estar aqui.[lr]::
+26721::$$$message_0228_0009_0002$$$::Não é que eu quisesse dizer isso a ela.[lr]::
+26722::$$$message_0228_0009_0003$$$::Mas é que... falta humanidade à Saber.[lr]::
+26723::$$$message_0228_0009_0004$$$::Isso pode ser suficiente se lutar for tudo o que ela vai fazer. Mas ela está bem na minha frente, parecendo um ser humano real.::
+26724::$$$message_0228_0010_0000$$$::Então não parece certo ela apenas lutar.[lr]::
+26725::$$$message_0228_0010_0001$$$::Se a Saber vai estar aqui, ela deveria pelo menos fazer algo que goste, ou tudo parecerá ter sido em vão.::
+26726::$$$message_0228_0011_0000$$$::"Ei, Saber. Servos deveriam ser Espíritos Heroicos do passado, certo? Então..."[lr]::
+26727::$$$message_0228_0011_0001$$$::Eu estava prestes a perguntar como ela era antes de se tornar quem é agora, mas me seguro.::
+26728::$$$message_0228_0012_0000$$$::[font italic=true]"...Não posso lhe dizer meu Nome Verdadeiro."[font italic=false][r][wsay canskip=1]::
+26729::$$$message_0228_0012_0001$$$::Durante o dia, Saber disse que isso seria um segredo entre nós dois.[lr]::
+26730::$$$message_0228_0012_0002$$$::Então eu não ficaria surpreso se a Saber se recusasse a me contar qualquer coisa sobre seu passado.::
+26731::$$$message_0228_0013_0000$$$::"Shirou? Não é educado parar no meio da frase. Se a pergunta for importante o suficiente, eu responderei."[lr]::
+26732::$$$message_0228_0013_0001$$$::"Não... esquece. Eu estava prestes a fazer uma pergunta idiota."::
+26733::$$$message_0228_0014_0000$$$::Eu desvio o olhar para tentar mudar de assunto.[lr]::
+26734::$$$message_0228_0014_0001$$$::Foi realmente uma pergunta estúpida.[lr]::
+26735::$$$message_0228_0014_0002$$$::Eu pensei que não estava interessado na identidade da Saber, e a Saber tem se recusado a me contar porque não é seguro.[lr]::
+26736::$$$message_0228_0014_0003$$$::Trazer à tona algo assim só provaria que sou um Mestre ruim, remoendo coisas sem importância.::
+26737::$$$message_0228_0015_0000$$$::"..."[lr]::
+26738::$$$message_0228_0015_0001$$$::Mas sobre o que mais posso falar com ela, então? [lr]::
+26739::$$$message_0228_0015_0002$$$::Se não posso perguntar sobre sua identidade, os únicos outros tópicos restantes seriam sobre mim.[lr]::
+26740::$$$message_0228_0015_0003$$$::...Isso seria ainda mais inútil.::
+26741::$$$message_0228_0016_0000$$$::"...Hm."[lr]::
+26742::$$$message_0228_0016_0001$$$::Estou me agarrando a qualquer coisa aqui.[lr]::
+26743::$$$message_0228_0016_0002$$$::Se não posso perguntar sobre sua identidade, terei apenas que perguntar sobre o que a Saber gosta, o que ela quer comer no café da manhã de amanhã... Não me importo se ela vai me olhar estranho. Estou pronto para fazer todas as perguntas fúteis que eu quiser!::
+26744::$$$message_0228_0017_0000$$$::"Shirou. Se você não tem perguntas, posso eu perguntar algo?"[lr]::
+26745::$$$message_0228_0017_0001$$$::"Eh...? Sim, claro. O que é?"::
+26746::$$$message_0228_0018_0000$$$::"É sobre a noite passada. Você foi ferido tentando me salvar do ataque do Berserker. Você se lembra disso?"::
+26747::$$$message_0228_0019_0000$$$::"Lembro, mas... o quê? Você vai continuar me menosprezando como fez esta manhã? Eu entendo que foi uma decisão precipitada da minha parte, então não me lembre. Isso me deixa enjoado."::
+26748::$$$message_0228_0020_0000$$$::"Eu me sinto da mesma forma. Mas havia algo que eu gostaria de lhe perguntar para me ajudar a entendê-lo melhor como pessoa.[lr]::
+26749::$$$message_0228_0020_0001$$$::"Shirou, por que você tentou enfrentar o Berserker?[lr]::
+26750::$$$message_0228_0020_0002$$$::"Você não sabia o que aconteceria se chegasse perto?"::
+26751::$$$message_0228_0021_0000$$$::"Bem, eu..."[lr]::
+26752::$$$message_0228_0021_0001$$$::Claro que eu sabia.[lr]::
+26753::$$$message_0228_0021_0002$$$::Eu sabia que chegar perto daquela coisa definitivamente seria o meu fim.[lr]::
+26754::$$$message_0228_0021_0003$$$::Ainda assim, tentei salvar a Saber não por alguma crença tolamente otimista de que conseguiria.::
+26755::$$$message_0228_0022_0000$$$::Eu apenas... tentei salvá-la.[lr]::
+26756::$$$message_0228_0022_0001$$$::Eu não me importava com o que aconteceria depois.[lr]::
+26757::$$$message_0228_0022_0002$$$::Salvar a Saber era minha prioridade máxima naquele momento.::
+26758::$$$message_0228_0023_0000$$$::Sequer...[lr]::
+26759::$$$message_0228_0023_0001$$$::O medo de não ser capaz de salvar a Saber era maior do que meu medo de ser morto.::
+26760::$$$message_0228_0024_0000$$$::"Desculpe, eu esqueci o porquê.[lr]::
+26761::$$$message_0228_0024_0001$$$::"Aconteceu tudo tão rápido, então não me lembro bem o que estava pensando na hora. Eu provavelmente estava apenas abalado. Senão, eu não teria feito um movimento tão suicida."::
+26762::$$$message_0228_0025_0000$$$::Em vez de dizer a ela a verdade, apenas digo algo para tentar me livrar da situação.[lr]::
+26763::$$$message_0228_0025_0001$$$::Eu provavelmente fiz isso por causa do quão seriamente a Saber estava olhando para mim.::
+26764::$$$message_0228_0026_0000$$$::"Então você fez isso sem querer."[lr]::
+26765::$$$message_0228_0026_0001$$$::"Não foi sem querer. Eu disse que estava abalado.[lr]::
+26766::$$$message_0228_0026_0002$$$::"Se algo assim acontecesse de novo, tenho certeza que eu ficaria apenas tremendo."::
+26767::$$$message_0228_0027_0000$$$::"Você pode estar certo. Essa é uma resposta humana normal. Nenhum humano jogaria fora sua própria vida para tentar salvar os outros.[lr]::
+26768::$$$message_0228_0027_0001$$$::"Mesmo aqueles que mais tarde são chamados de heróis não são exceção."::
+26769::$$$message_0228_0028_0000$$$::"É por isso que, se eu encontrar tal pessoa, sei que falta algo a ela.[lr]::
+26770::$$$message_0228_0028_0001$$$::"E se essa pessoa continuasse a agir dessa forma, a única coisa que a esperaria seria a tragédia."[lr]::
+26771::$$$message_0228_0028_0002$$$::[font italic=true]...[font italic=false][lr]::
+26772::$$$message_0228_0028_0003$$$::Seus olhos verde-profundos estão tentando me dizer algo.::
+26773::$$$message_0228_0029_0000$$$::E ainda assim...[lr]::
+26774::$$$message_0228_0029_0001$$$::"Corta essa, Saber. Eu disse que estava apenas confuso. Tenho medo de morrer também, então não é como se eu pudesse agir como um santo.[lr]::
+26775::$$$message_0228_0029_0002$$$::"Se algo assim acontecesse de novo, vou priorizar a mim mesmo em vez de você."[lr]::
+26776::$$$message_0228_0029_0003$$$::Eu tento mascarar minha ansiedade apenas cuspindo um monte de besteiras cruéis.::
+26777::$$$message_0228_0030_0000$$$::"Isso é um alívio. Se tudo isso foi um mal-entendido da minha parte, então não deve haver problema. Sim, você é um covarde. Contanto que não escolha seguir o caminho errado, você deve se tornar um mago adequado."[lr]::
+26778::$$$message_0228_0030_0001$$$::"Ei. Eu realmente pareço um covarde para você?"::
+26779::$$$message_0228_0031_0000$$$::"Sim, bastante. Especialmente quando você se esforça ao máximo para aceitar a situação em que está colocado. Você não sabe que tal prudência às vezes é chamada de covardia? Não é diferente de dizer que aquele que não conhece o medo nunca pode se tornar um homem sábio."::
+26780::$$$message_0228_0032_0000$$$::Ela parece aliviada.[lr]::
+26781::$$$message_0228_0032_0001$$$::Saber até sorri ao dizer isso.::
+26782::$$$message_0228_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+26783::$$$message_0228_0033_0001$$$::Deve ser por causa do quão adorável e elegante tudo o que ela faz é.[lr]::
+26784::$$$message_0228_0033_0002$$$::Não consigo pensar em mais nada para dizer, então Saber e eu passamos o resto do nosso tempo sozinhos no meu quarto sem graça.::
+

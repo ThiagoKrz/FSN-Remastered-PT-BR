@@ -1,0 +1,137 @@
+DAT
+id=qid::label=str::text=lstr::
+9256::$$$message_0092_0000_0000$$$::Eu prometi encontrar a Tohsaka.[lr]::
+9257::$$$message_0092_0000_0001$$$::Pode ter sido ela me ditando, mas ela provavelmente tem algo para conversar.::
+9258::$$$message_0092_0001_0000$$$::Eu compro o almoço e vou para o terraço.[lr]::
+9259::$$$message_0092_0001_0001$$$::O terraço geralmente fica lotado de outros estudantes quando está mais quente, mas fica deserto no frio do inverno.::
+9260::$$$message_0092_0002_0000$$$::Embora o inverno em Fuyuki seja comparativamente mais quente, o terraço fica insuportavelmente frio.[lr]::
+9261::$$$message_0092_0002_0001$$$::Então, as únicas pessoas expostas ao vento frio somos eu e...[lr]::
+9262::$$$message_0092_0002_0002$$$::"Você está atrasado! Qual foi a demora!?"[lr]::
+9263::$$$message_0092_0002_0003$$$::...Tohsaka, tremendo nas sombras.::
+9264::$$$message_0092_0003_0000$$$::"Desculpe o atraso. Me senti mal, então trouxe algo para compensar, mas acho que você não precisa."[lr]::
+9265::$$$message_0092_0003_0001$$$::Eu mostro a ela o café quente enlatado que comprei, e o coloco de volta no bolso.::
+9266::$$$message_0092_0004_0000$$$::"Ugh... Você pode parecer simples, mas é bem atencioso."[lr]::
+9267::$$$message_0092_0004_0001$$$::"Eu fiz isso porque quis. E vamos lá, vá um pouco mais para lá.[lr]::
+9268::$$$message_0092_0004_0002$$$::"Aqui venta mais, e as pessoas podem nos ver."::
+9269::$$$message_0092_0005_0000$$$::Eu entrego a ela o café enlatado enquanto sigo para os fundos, onde não serei visto.[lr]::
+9270::$$$message_0092_0005_0001$$$::Não seremos tão conspícuos aqui, e não há como alguém do quarto andar nos ver.::
+9271::$$$message_0092_0006_0000$$$::"Obrigada. Da próxima vez, prefiro chá. E gosto de chá com leite instantâneo. Fora isso, você não receberá nenhum agradecimento meu, então esteja avisado."[lr]::
+9272::$$$message_0092_0006_0001$$$::"Entendido. Se eu lembrar da próxima vez, claro. Então, por que me chamou aqui? Considerando que estamos nos encontrando onde não há mais ninguém por perto, presumo que queira falar sobre você-sabe-o-quê."::
+9273::$$$message_0092_0007_0000$$$::"C-claro. Sobre o que mais falaríamos além disso?"[lr]::
+9274::$$$message_0092_0007_0001$$$::"É, você tem razão. E então, o que foi?"[lr]::
+9275::$$$message_0092_0007_0002$$$::"Por que você está agindo tão indiferente?"::
+9276::$$$message_0092_0008_0000$$$::"Hã? Bem, está frio. Quero que você seja breve.[lr]::
+9277::$$$message_0092_0008_0001$$$::"Você não está com frio também, Tohsaka?"[lr]::
+9278::$$$message_0092_0008_0002$$$::"O quê!? Claro que estou! Eu estava planejando acabar com isso bem rápido também!"::
+9279::$$$message_0092_0009_0000$$$::Sim. Eu imaginei.[lr]::
+9280::$$$message_0092_0009_0001$$$::Eu estava apenas constatando o óbvio, então ela realmente não precisa gritar comigo desse jeito.::
+9281::$$$message_0092_0010_0000$$$::"...Bem, tudo bem.[lr]::
+9282::$$$message_0092_0010_0001$$$::"Então vou direto ao ponto. Shirou, o que você estava pensando em fazer depois da escola?"[lr]::
+9283::$$$message_0092_0010_0002$$$::"Depois da escola? Eu realmente não tenho planos, honestamente. Se precisar ajudar o conselho estudantil, eu ajudo, mas se não, vou para o meu trabalho de meio período."::
+9284::$$$message_0092_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
+9285::$$$message_0092_0011_0001$$$::"Por que está parecendo tão confusa? Se tem algo a dizer, apenas me diga. Vou tentar resolver."::
+9286::$$$message_0092_0012_0000$$$::"Honestamente... Posso não me importar com o que realmente acontece com você, mas acho que vou te dar um aviso. Nós [font italic=true]formamos[font italic=false] uma aliança, e você é muito inexperiente como mago."[lr]::
+9287::$$$message_0092_0012_0001$$$::"Isso de novo? Estou cansado de ouvir o quão inexperiente sou como mago. Na verdade, sou sensível a isso, então não me zoe."::
+9288::$$$message_0092_0013_0000$$$::"Não estou zombando. Só quero apontar o quão ignorante você é, porque parece não perceber que há um Campo de Força montado ao redor da escola." [lr]::
+9289::$$$message_0092_0013_0001$$$::[font italic=true]O quê?[font italic=false][lr]::
+9290::$$$message_0092_0013_0002$$$::Um Campo de Força na escola...?::
+9291::$$$message_0092_0014_0000$$$::"Espere aí. Um Campo de Força na escola... Isso significa..."[lr]::
+9292::$$$message_0092_0014_0001$$$::"Acertou. É um Campo de Força montado por algum outro Mestre.[lr]::
+9293::$$$message_0092_0014_0002$$$::"Foi lançado sobre uma área ampla, e se for ativado, vai praticamente cercar todo o terreno da escola."::
+9294::$$$message_0092_0015_0000$$$::"A intenção é roubar a carne e o sangue de todas as pessoas dentro do Campo de Força. Parece que ainda está em seus estágios iniciais, mas você não notou como todos parecem apáticos?"::
+9295::$$$message_0092_0016_0000$$$::[font italic=true]...[font italic=false][lr]::
+9296::$$$message_0092_0016_0001$$$::Agora que ela menciona, eu me senti um pouco estranho dois dias atrás, mas foi por isso?[lr]::
+9297::$$$message_0092_0016_0002$$$::Mas isso significa...::
+9298::$$$message_0092_0017_0000$$$::"Isso significa que há um Mestre... na escola...?"[lr]::
+9299::$$$message_0092_0017_0001$$$::"Exatamente. Temos um inimigo à espreita aqui. Entendeu agora, Emiya? Se você não estiver preparado, você vai morrer."::
+9300::$$$message_0092_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
+9301::$$$message_0092_0018_0001$$$::Meu comportamento relaxado desaparece e eu fico tenso.[lr]::
+9302::$$$message_0092_0018_0002$$$::"Então você sabe quem é esse Mestre, Tohsaka?"::
+9303::$$$message_0092_0019_0000$$$::"Não. Tenho algumas ideias, mas não tenho provas concretas. Bem, na verdade eu sei que há outro mago nesta escola, mas um mago não é necessariamente um Mestre.[lr]::
+9304::$$$message_0092_0019_0001$$$::"Há casos em que amadores se tornam Mestres, como você, então não posso ter certeza."::
+9305::$$$message_0092_0020_0000$$$::"Hm. Eu ainda sou um mago e não um completo amador e... ei, espere aí! Você acabou de dizer que há outro mago nesta escola!?" ::
+9306::$$$message_0092_0021_0000$$$::"Sim. Mas não sinto nenhuma indicação de que seja um Mestre. Eu verifiquei imediatamente, mas ele não tinha Selos de Comando e não senti a presença de um Servo.[lr]::
+9307::$$$message_0092_0021_0001$$$::"Se ele está escondendo muito bem, é outra história, mas tenho quase certeza que não é um Mestre."::
+9308::$$$message_0092_0022_0000$$$::"É por isso que acho que o Mestre aqui é alguém que sabe apenas um pouco de feitiçaria, como você.[lr]::
+9309::$$$message_0092_0022_0001$$$::"Eu tenho sentido um pouco de energia mágica além da nossa aqui recentemente. Esse deve ser o Mestre inimigo, mas..."[lr]::
+9310::$$$message_0092_0022_0002$$$::Mas não é o suficiente para rastrear.::
+9311::$$$message_0092_0023_0000$$$::"Um Mestre que não é um mago, huh? Você deve ter muita certeza se está trazendo isso à tona.[lr]::
+9312::$$$message_0092_0023_0001$$$::"Eu acredito em você, mas... eu não sabia que havia tantos magos na nossa escola."::
+9313::$$$message_0092_0024_0000$$$::"Na verdade, não são tantos. Somos apenas eu e esse outro mago.[lr]::
+9314::$$$message_0092_0024_0001$$$::"Você sabe como os magos valorizam sua linhagem, certo? Se duas famílias criassem raízes em uma cidade pequena como esta área, elas não poderiam deixar de se conhecer."::
+9315::$$$message_0092_0025_0000$$$::"É o que acontece? Mas eu não sabia nada sobre sua família." ::
+9316::$$$message_0092_0026_0000$$$::"Sua casa é uma exceção. Seu pai deve ter se afastado da Associação e sido uma espécie de lobo solitário. Ele provavelmente se estabeleceu aqui porque simplesmente gostou, mas esta cidade está sob a jurisdição da família Tohsaka."[lr]::
+9317::$$$message_0092_0026_0001$$$::"Se tivéssemos descoberto, teríamos tirado tudo dele, então acho que ele estava escondido para evitar exatamente isso."::
+9318::$$$message_0092_0027_0000$$$::"O qu... o que diabos você quer dizer com tirar tudo dele?"::
+9319::$$$message_0092_0028_0000$$$::"Heh. Curioso? Eu virei cobrar de você assim que estiver devidamente treinado, então aguarde ansiosamente!"[lr]::
+9320::$$$message_0092_0028_0001$$$::"Nossa, que fachada você monta.[lr]::
+9321::$$$message_0092_0028_0002$$$::"Que bela aluna de honra você é, sua impostora."::
+9322::$$$message_0092_0029_0000$$$::"Oh, há algo de errado com isso? Manter as aparências faz parte da descrição do trabalho de um mago.[lr]::
+9323::$$$message_0092_0029_0001$$$::"Porque, sabe, eu sou a herdeira da família Tohsaka, então tenho que agir como a aluna de honra perfeita ou não seria capaz de encarar meu pai no céu."::
+9324::$$$message_0092_0030_0000$$$::"O quê? Seu pai?"[lr]::
+9325::$$$message_0092_0030_0001$$$::"Ele morreu quando eu era jovem. Bem, ele viveu uma vida longa e plena, então não estou realmente tão triste com isso."::
+9326::$$$message_0092_0031_0000$$$::[font italic=true]...[font italic=false][lr]::
+9327::$$$message_0092_0031_0001$$$::Tohsaka sorri, como se dissesse que é assim mesmo quando se tem um mago como pai.[lr]::
+9328::$$$message_0092_0031_0002$$$::Mas...::
+9329::$$$message_0092_0032_0000$$$::"Isso é mentira. Você fica triste quando alguém morre. Ainda mais se essa pessoa for seu pai. Dizer que não há o que fazer porque alguém é um mago não é desculpa para simplesmente ignorar isso." [lr]::
+9330::$$$message_0092_0032_0001$$$::"...Bem, você está certo.[lr]::
+9331::$$$message_0092_0032_0002$$$::"Eu realmente não posso argumentar contra isso. Você está absolutamente certo."::
+9332::$$$message_0092_0033_0000$$$::Enquanto diz isso, Tohsaka abre o café enlatado que estava usando como aquecedor de mãos até agora.[lr]::
+9333::$$$message_0092_0033_0001$$$::Ela bebe seu café em pequenos goles.[lr]::
+9334::$$$message_0092_0033_0002$$$::Eu honestamente esperava que ela desse um grande gole, mas ela é bem feminina quando se trata de coisas assim.::
+9335::$$$message_0092_0034_0000$$$::"De volta ao assunto.[lr]::
+9336::$$$message_0092_0034_0001$$$::"Existem apenas dois magos em Fuyuki.[lr]::
+9337::$$$message_0092_0034_0002$$$::"Os outros Mestres são de fora, ou são irregulares que foram escolhidos para serem Mestres porque sabem apenas um pouco de feitiçaria."::
+9338::$$$message_0092_0035_0000$$$::É mesmo?[lr]::
+9339::$$$message_0092_0035_0001$$$::Então, de acordo com Tohsaka, eu sou bastante irregular.::
+9340::$$$message_0092_0036_0000$$$::"Entendi. Mas se há um Mestre que mal começou a aprender feitiçaria, ele provavelmente não seria capaz de criar um Campo de Força como este."::
+9341::$$$message_0092_0037_0000$$$::"Pode não ser o Mestre. O Servo pode ter montado o Campo de Força."[lr]::
+9342::$$$message_0092_0037_0001$$$::"Servos não podem escolher seus Mestres. Se um Servo acaba com um Mestre como você, sua única chance de vencer seria se eles mesmos bolarem as estratégias."::
+9343::$$$message_0092_0038_0000$$$::"Provavelmente. Odeio pensar dessa forma, mas não posso argumentar."::
+9344::$$$message_0092_0039_0000$$$::"Bom. Gosto quando você é tão receptivo.[lr]::
+9345::$$$message_0092_0039_0001$$$::"Então, sobre este Campo de Força. É bem avançado.[lr]::
+9346::$$$message_0092_0039_0002$$$::"Está praticamente no nível da Magia, e se houvesse um mago aqui que pudesse criar algo assim, ele não seria capaz de esconder sua presença ou energia mágica. Então, acredito que este Campo de Força é obra de um Servo."::
+9347::$$$message_0092_0040_0000$$$::"Obra de um Servo, huh? Isso deve significar que o Mestre não é tão perigoso."::
+9348::$$$message_0092_0041_0000$$$::"Não necessariamente. Sendo magos ou não, seja quem for, eles não conhecem as regras adequadas. Eles são quase certamente do tipo que tentam matar imediatamente qualquer Mestre que encontram."::
+9349::$$$message_0092_0042_0000$$$::"Hã? Não conhece as regras? As regras da Guerra do Santo Graal?"[lr]::
+9350::$$$message_0092_0042_0001$$$::"Não, regras de apenas ser um ser humano. Se estão fazendo seu Servo criar um Campo de Força como este, eles simplesmente não sabem o certo do errado."::
+9351::$$$message_0092_0043_0000$$$::"Escute, Shirou. Assim que este Campo de Força for concluído e ativado, ele dissolverá e absorverá todos lá dentro.[lr]::
+9352::$$$message_0092_0043_0001$$$::"Pense nisso como se estivessem na barriga de alguma criatura.[lr]::
+9353::$$$message_0092_0043_0002$$$::"Ou melhor, nós podemos não ser afetados por isso porque estamos nos protegendo com energia mágica, mas qualquer um que não possua energia mágica enfraquecerá e morrerá sem saber."::
+9354::$$$message_0092_0044_0000$$$::"Isso está muito além de apenas envolver cidadãos comuns.[lr]::
+9355::$$$message_0092_0044_0001$$$::"No momento em que este Campo de Força for ativado, todos nesta escola morrerão. Você entende? Há um Mestre nesta escola que está disposto a fazer um Campo de Força [font italic=true]tão[font italic=false] horrível."::
+9356::$$$message_0092_0045_0000$$$::"..."[lr]::
+9357::$$$message_0092_0045_0001$$$::Minha visão fica turva momentaneamente.[lr]::
+9358::$$$message_0092_0045_0002$$$::Eu respiro fundo para ter certeza de que compreendo totalmente o que Tohsaka está tentando dizer.::
+9359::$$$message_0092_0046_0000$$$::Mas para por aí.[lr]::
+9360::$$$message_0092_0046_0001$$$::Tento imaginar o pior resultado possível, mesmo que minhas imaginações fiquem aquém, e guardo essa imagem no fundo do meu coração e aceito a posição em que fui colocado.::
+9361::$$$message_0092_0047_0000$$$::"Entendi o que você está tentando dizer.[lr]::
+9362::$$$message_0092_0047_0001$$$::"Então, Tohsaka... não podemos tentar destruir este Campo de Força?"::
+9363::$$$message_0092_0048_0000$$$::"Eu tentei, mas foi impossível. Encontrei todas as fontes dele, mas não consigo destruí-las. A única coisa que posso fazer é enfraquecer temporariamente as fontes para atrasar a ativação de tudo."::
+9364::$$$message_0092_0049_0000$$$::"Então, contanto que você esteja aqui, o Campo de Força não pode ser totalmente formado?"::
+9365::$$$message_0092_0050_0000$$$::"Eu só posso esperar, mas isso é otimismo. O Campo de Força já está montado, e a energia mágica necessária para ativá-lo está se acumulando gradualmente. De acordo com a estimativa do Archer, tudo estará pronto em cerca de oito dias."::
+9366::$$$message_0092_0051_0000$$$::Quando estiver pronto, ou o Mestre ou o Servo transformarão esta escola em um inferno."[lr]::
+9367::$$$message_0092_0051_0001$$$::"Então, antes que isso aconteça..."::
+9368::$$$message_0092_0052_0000$$$::"Precisamos derrotar o Mestre à espreita nesta escola.[lr]::
+9369::$$$message_0092_0052_0001$$$::"Mas será desafiador encontrá-los. Estamos praticamente à mercê deles desde o momento em que o Campo de Força foi formado. O Mestre só precisa esperar até que esteja pronto para ser ativado. Eles não precisam se dar a conhecer até então. Então, a única chance que temos é..."::
+9370::$$$message_0092_0053_0000$$$::"Quando eles saírem, certo?"[lr]::
+9371::$$$message_0092_0053_0001$$$::"Bingo. Então você deve ficar quieto até lá. Você terá que lutar quer queira quer não quando a hora chegar, e seria estúpido deixar o inimigo te encontrar, se você fosse procurar o Mestre sozinho."::
+9372::$$$message_0092_0054_0000$$$::O som metálico do sino da escola ecoa pelo terraço congelado.[lr]::
+9373::$$$message_0092_0054_0001$$$::A hora do almoço acabou.::
+9374::$$$message_0092_0055_0000$$$::"Isso é tudo que tenho por agora. Tenho um lugar para ir hoje, então vá para casa sozinho. Tente não pegar nenhum desvio."[lr]::
+9375::$$$message_0092_0055_0001$$$::Tohsaka se despede com um casual, "Tchau."::
+9376::$$$message_0092_0056_0000$$$::[font italic=true]...[font italic=false][lr]::
+9377::$$$message_0092_0056_0001$$$::Isso não me parece certo.[lr]::
+9378::$$$message_0092_0056_0002$$$::Saber que os Mestres podem atacar outros Mestres é o suficiente para me deixar ansioso, mas...::
+9379::$$$message_0092_0057_0000$$$::"Um Campo de Força ao redor da escola...?"[lr]::
+9380::$$$message_0092_0057_0001$$$::Mas agora há uma possibilidade de que pessoas inocentes possam ser arrastadas para isso também?[lr]::
+9381::$$$message_0092_0057_0002$$$::Isso não é o que Mestres fazem... isso é apenas o que um assassino em massa faz.[lr]::
+9382::$$$message_0092_0057_0003$$$::Então eu preciso encontrar quem quer que tenha montado este Campo de Força antes que seja ativado... encontrá-los e destruí-los completamente.::
+9383::$$$message_0092_0058_0000$$$::[font italic=true]"Alegre-se, Shirou Emiya. Seu desejo..."[font italic=false][r][wsay canskip=1]::
+9384::$$$message_0092_0058_0001$$$::"...Ungh."[lr]::
+9385::$$$message_0092_0058_0002$$$::Eu balanço minha cabeça, tentando ignorar as palavras que surgem na minha mente.[lr]::
+9386::$$$message_0092_0058_0003$$$::Eu nunca desejei isso.[lr]::
+9387::$$$message_0092_0058_0004$$$::Desejar que "vilões" apareçam para que eu possa derrotá-los não é o que eu faço.::
+9388::$$$message_0092_0059_0000$$$::A aula do fim do dia termina, e os alunos começam a sair da sala.[lr]::
+9389::$$$message_0092_0059_0001$$$::Normalmente eu iria para a sala do conselho estudantil, mas decido ir para casa, já que Tohsaka me disse para fazer isso.::
+

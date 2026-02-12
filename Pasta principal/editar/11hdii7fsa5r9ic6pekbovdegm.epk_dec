@@ -1,0 +1,151 @@
+DAT
+id=qid::label=str::text=lstr::
+7812::$$$message_0076_0000_0000$$$::"É, eu ainda tenho tempo, então vou fazer mais alguma coisa."[lr]::
+7813::$$$message_0076_0000_0001$$$::Eu abro a geladeira.[lr]::
+7814::$$$message_0076_0000_0002$$$::Tudo que restou são alguns pepinos e algumas batatas.::
+7815::$$$message_0076_0001_0000$$$::"Hmm... Eu poderia cortar e salgar os pepinos ou cortar as batatas e serví-las com vinagre..."[lr]::
+7816::$$$message_0076_0001_0001$$$::Mas ambas as opções são coisas que eu posso fazer em alguns minutos, e elas são melhores quando servidas na hora.[lr]::
+7817::$$$message_0076_0001_0002$$$::Ainda vai levar meia hora pra Sakura e a Fuji-nee chegarem, eu devia preparar um prato um pouco antes disso.::
+7818::$$$message_0076_0002_0000$$$::"Hmph..."[lr]::
+7819::$$$message_0076_0002_0001$$$::Nesse caso, eu não tenho como fazer muito uso desse tempo livre.[lr]::
+7820::$$$message_0076_0002_0002$$$::Tem alguma coisa que eu possa fazer em trinta minutos...?[lr]::
+7821::$$$message_0076_0002_0003$$$::"Tem um pouco de frango, então..."[lr]::
+7822::$$$message_0076_0002_0004$$$::Eu podia cozinhar alguns pequenos rolos de carne recheados com vegetais ou algo assim.::
+7823::$$$message_0076_0003_0000$$$::Eu corto e amacio a carne.[lr]::
+7824::$$$message_0076_0003_0001$$$::O amaciador de carne é certamente maligno à primeira vista. Ele é como um martelo, mas é achatado de todos os lados e cada um deles tem vários espinhos.::
+7825::$$$message_0076_0004_0000$$$::Se fosse maior, daria um belo instrumento de tortura.[lr]::
+7826::$$$message_0076_0004_0001$$$::Eu amacio a carne com o objeto assustador, coloco algumas cenouras e feijão vermelho dentro dela, então a enrolo e a cozinho na panela, e pra terminar a asso em vinho.::
+7827::$$$message_0076_0005_0000$$$::"Hã!? Espera, o que eu estou fazendo...!?"[lr]::
+7828::$$$message_0076_0005_0001$$$::Naquele instante, eu recuperei a minha sanidade.[lr]::
+7829::$$$message_0076_0005_0002$$$::Eu estava tentando fazer um acompanhamento já que o sanma já era o prato principal.[lr]::
+7830::$$$message_0076_0005_0003$$$::Então por que eu estou fazendo outro prato principal...!?::
+7831::$$$message_0076_0006_0000$$$::"Francamente... Que descuido, cozinhando só pra passar o tempo."[lr]::
+7832::$$$message_0076_0006_0001$$$::"Eh? Você estava cozinhando só pra passar o tempo, Senpai?"[lr]::
+7833::$$$message_0076_0006_0002$$$::"Sim. É só que, eu estava tentando fazer um acompanhamento, mas antes de eu perceber eu já estava usando a faca. Bom, hábitos como esse podem ser assustadores... Mas isso é só uma desculpa, claro."::
+7834::$$$message_0076_0007_0000$$$::"Mas tem algum problema nisso? É meio grande pra um café da manhã, mas já que você fez, eu não acho que haverão sobras."[lr]::
+7835::$$$message_0076_0007_0001$$$::"Você acha? Não, esse não é o problema.[lr]::
+7836::$$$message_0076_0007_0002$$$:: Não existe necessidade de haverem dois sóis no céu. Eu terei que pedir que um deles se retire."[lr]::
+7837::$$$message_0076_0007_0003$$$::"Quê!? Você não vai comer isso, Senpai?"::
+7838::$$$message_0076_0008_0000$$$::"Eu vou. Eu não pretendia, mas vou fazer uma marmita pra hoje. Dessa forma não haverão desperdícios."[lr]::
+7839::$$$message_0076_0008_0001$$$::"Uau... Senpai, você já vai fazer o seu almoço?"[lr]::
+7840::$$$message_0076_0008_0002$$$::"Quase, mas acho que pelo menos consigo..."[lr]::
+7841::$$$message_0076_0009_0000$$$::E então...[lr]::
+7842::$$$message_0076_0009_0001$$$::...eu finalmente percebo que tem alguém atrás de mim.::
+7843::$$$message_0076_0010_0000$$$::"Bom dia, Senpai. Vim te incomodar de novo hoje."[lr]::
+7844::$$$message_0076_0010_0001$$$::A Sakura me cumprimenta com um sorriso.[lr]::
+7845::$$$message_0076_0010_0002$$$::Não é incomum ela vir pra cozinha a essa hora.[lr]::
+7846::$$$message_0076_0010_0003$$$::Ela sempre toca a campainha ao entrar, mas eu nem sempre ouço, como hoje por exemplo.::
+7847::$$$message_0076_0011_0000$$$::"B-bom dia, Sakura. O café está pronto, então você pode ir pra sala de estar relaxar, tem chá pronto lá."[lr]::
+7848::$$$message_0076_0011_0001$$$::Eu respondo ela ainda encarando a frigideira.[lr]::
+7849::$$$message_0076_0011_0002$$$::Na mesa há um bule, uma chaleira, e alguns petiscos.::
+7850::$$$message_0076_0012_0000$$$::"Ah, tudo bem. A manhã de hoje está perfeita também, Senpai."[lr]::
+7851::$$$message_0076_0012_0001$$$::A voz dela transborda animação, como se ela estivesse feliz com alguma coisa.[lr]::
+7852::$$$message_0076_0012_0002$$$::Mas ela entra na cozinha ao invés de ir pra mesa...::
+7853::$$$message_0076_0012_0003$$$::::
+7854::$$$message_0076_0013_0000$$$::"Senpai, você está fazendo o almoço, certo?"[lr]::
+7855::$$$message_0076_0013_0001$$$::"Hm? É, eu acabei nessa situação. Rolo de carne é um bom prato principal pro almoço, então eu pensei em fazer alguns acompanhamentos."[lr]::
+7856::$$$message_0076_0013_0002$$$::"Então, se importa se eu ajudar? Eu vou fazer o meu, então..."[lr]::
+7857::$$$message_0076_0013_0003$$$::"Não, espera. Se você não se importar de ter a mesma coisa, eu posso te dar alguns dos meus."[lr]::
+7858::$$$message_0076_0013_0004$$$::"[line3]Sim. Eu estava assistindo e queria alguns dos seus."[lr]::
+7859::$$$message_0076_0013_0005$$$::"Beleza. Você pode fazer o arroz então, Sakura? Nós não temos o suficiente pra dois. É pra ter uma panela de arroz rápida por ali"[lr]::
+7860::$$$message_0076_0013_0006$$$::"Sim, vou cuidar disso. Fico feliz em ajudar."::
+7861::$$$message_0076_0014_0000$$$::Eu ouço os sons dos seus passos e dela amarrando o seu avental.[lr]::
+7862::$$$message_0076_0014_0001$$$::"Senpai, nós vamos cozinhar duas medidas de arroz, certo?"[lr]::
+7863::$$$message_0076_0014_0002$$$::"Hmm, eu acho que vai ser o suficiente."[lr]::
+7864::$$$message_0076_0014_0003$$$::Com movimentos rápidos, a Sakura vem me ajudar na cozinha.::
+7865::$$$message_0076_0015_0000$$$::"Bom dia! O aroma está esplêndido essa manhã também!"[lr]::
+7866::$$$message_0076_0015_0001$$$::Um pouco após as seis e meia, ela chega.[lr]::
+7867::$$$message_0076_0015_0002$$$::Como de costume, a Fuji-nee chega trinta minutos após a Sakura.::
+7868::$$$message_0076_0016_0000$$$::"Bom dia, Sensei. Por favor aguarde um pouco mais pro café."[lr]::
+7869::$$$message_0076_0016_0001$$$::"Tudo bem, eu espero. ...Ah, Sakura-chan, você está fazendo o café da manhã com o Shirou?"[lr]::
+7870::$$$message_0076_0016_0002$$$::"Não, o Senpai fez o café sozinho. Nós estamos fazendo o almoço agora."::
+7871::$$$message_0076_0017_0000$$$::A voz da Sakura está realmente alegre.[lr]::
+7872::$$$message_0076_0017_0001$$$::Nós não estamos fazendo nada que seja particularmente divertido, então eu não sei com o que ela está tão feliz.::
+7873::$$$message_0076_0018_0000$$$::"Entendi, mas é claro que você ia estar de bom humor. Está cozinhando e está com o Shirou, quantas coisas divertidas, não? Okay, nós não temos muito tempo mas não se apressem."[lr]::
+7874::$$$message_0076_0018_0001$$$::Rindo, a Fuji-nee se senta na mesa e se serve um chá.::
+7875::$$$message_0076_0019_0000$$$::"Sigh... Ela ainda deve estar sonhando. O que tem de divertido em cozinhar antes da escola?"[lr]::
+7876::$$$message_0076_0019_0001$$$::Eu coloco a frigideira de volta na prateleira.[lr]::
+7877::$$$message_0076_0019_0002$$$::A comida está pronta, tudo que resta é fazer as marmitas.::
+7878::$$$message_0076_0020_0000$$$::"Foi mal, Sakura. Eu fiz você trabalhar antes do seu treino matinal.[lr]::
+7879::$$$message_0076_0020_0001$$$:: Eu queria que você apenas relaxasse já que você fez tudo ontem."[lr]::
+7880::$$$message_0076_0020_0002$$$::"Hã? Não se preocupe com isso. Como a Fujimura-sensei disse, eu acho divertido cozinhar."::
+7881::$$$message_0076_0021_0000$$$::Ela ri com um belo sorriso em seu rosto.[lr]::
+7882::$$$message_0076_0021_0001$$$::Bom, eu sei que ela gosta de cozinhar... mas ainda assim, deve ser difícil pra ela acordar às cinco da manhã pra fazer o almoço.[lr]::
+7883::$$$message_0076_0021_0002$$$::Além disso, ela vem aqui pra fazer a janta com frequência.[lr]::
+7884::$$$message_0076_0021_0003$$$::Se eu fizer ela cozinhar de manhã também, ela pode acabar ficando sem tempo livre algum.::
+7885::$$$message_0076_0022_0000$$$::"Ufa... Eu sou grato pela ajuda, mas você devia descansar, Sakura. Você devia dormir mais de manhã, e depois da aula você devia ir se divertir por aí. Você não precisa vir me ajudar com a casa."::
+7886::$$$message_0076_0023_0000$$$::"Sim, mas eu estou descansando no momento. Você fez o café da manhã hoje, e eu consegui uma parte do seu almoço também."::
+7887::$$$message_0076_0024_0000$$$::Novamente, aquele belo sorriso e aquele belo riso.[lr]::
+7888::$$$message_0076_0024_0001$$$::Sigh...[lr]::
+7889::$$$message_0076_0024_0002$$$::Faz um ano e meio desde que a Sakura começou a vir me ajudar. Agora, ela continua vindo não importa o que eu diga.::
+7890::$$$message_0076_0025_0000$$$::"Não é a mesma coisa. Você tem a sua própria vida pra viver, não pode ficar só cuidando de mim e da Fuji-nee. Se você ficar de babá pra nós, não vai poder fazer as coisas que você realmente quer fazer."::
+7891::$$$message_0076_0026_0000$$$::"Ahaha, tudo bem quanto a isso também. Meus únicos hobbies são arco e flecha e cozinhar. Pra falar a verdade, o meu objetivo é superar você como cozinheira, e eu acho que estou quase conseguindo."[lr]::
+7892::$$$message_0076_0026_0001$$$::Ela estufa o seu peito altivamente.[lr]::
+7893::$$$message_0076_0026_0002$$$::Gah...[lr]::
+7894::$$$message_0076_0026_0003$$$::Eu quero responder, mas é verdade que ela está quase me superando.::
+7895::$$$message_0076_0027_0000$$$::"Então por favor não se preocupe quanto a isso. Eu gosto de cozinhar aqui, e eu me divirto melhorando.[lr]::
+7896::$$$message_0076_0027_0001$$$:: Estar te ajudando é uma retribuição por ter me apresentado esse enorme prazer, e é um benefício próprio também."::
+7897::$$$message_0076_0028_0000$$$::"Hm... Isso significa que você está roubando um pouco da minha habilidade a cada dia que passa, Sakura?"[lr]::
+7898::$$$message_0076_0028_0001$$$::"Exato. Eu melhoro rapidamente só de te ajudar. Então esteja preparado porque eu vou te fazer admitir a derrota um dia."[lr]::
+7899::$$$message_0076_0028_0002$$$::Whoa.[lr]::
+7900::$$$message_0076_0028_0003$$$::Eu não consigo acreditar que ela disse isso tão abertamente!::
+7901::$$$message_0076_0029_0000$$$::"Fala sério... Se eu soubesse disso, eu nunca teria te ensinado a cozinhar. Você nunca sequer tinha ouvido falar em óleo antes de vir aqui, mas agora você está na minha espreita, como uma inimiga tentando me derrotar, qual é.[lr]::
+7902::$$$message_0076_0029_0001$$$:: Você não consegue ficar satisfeita só cozinhando?"::
+7903::$$$message_0076_0030_0000$$$::"Mas é claro que eu estou tentando te derrotar. Você não pode ser melhor do que eu."[lr]::
+7904::$$$message_0076_0030_0001$$$::"...?"[lr]::
+7905::$$$message_0076_0030_0002$$$::Eu não sei o que há de tão ruim nisso, mas nós deveríamos começar a arrumar a mesa pro café.::
+7906::$$$message_0076_0031_0000$$$::"Beleza."[lr]::
+7907::$$$message_0076_0031_0001$$$::Eu vou e checo o sanma que estava cozinhando.[lr]::
+7908::$$$message_0076_0031_0002$$$::Fazendo um furo no já bem grelhado estômago, eu verifico o quão bem cozido ele está.::
+7909::$$$message_0076_0032_0000$$$::"Acho que está bom. Aqui, Sakura, pode levar isso pra mesa?"[lr]::
+7910::$$$message_0076_0032_0001$$$::"Sim, obrigada por se esforçar fazendo esse prato, Senpai."::
+7911::$$$message_0076_0033_0000$$$::Eu entrego o prato com o sanma pra Sakura.[lr]::
+7912::$$$message_0076_0033_0001$$$::E então, como se tivesse se lembrado de algo importante, ela trava no lugar.::
+7913::$$$message_0076_0033_0002$$$::::
+7914::$$$message_0076_0034_0000$$$::"Sakura? O que foi, esqueceu algo em casa?"[lr]::
+7915::$$$message_0076_0034_0001$$$::Ela pode parecer astuta, mas na verdade ela se esquece muito das coisas.[lr]::
+7916::$$$message_0076_0034_0002$$$::Não é incomum ela se lembrar de algo e simplesmente parar desse jeito,[lr]::
+7917::$$$message_0076_0034_0003$$$::Mas... parece que esse não é o caso hoje.::
+7918::$$$message_0076_0035_0000$$$::"Sakura...?"[lr]::
+7919::$$$message_0076_0035_0001$$$::"..."[lr]::
+7920::$$$message_0076_0035_0002$$$::Ela não me responde.[lr]::
+7921::$$$message_0076_0035_0003$$$::Ela apenas encara a minha mão inexpressivamente, como se estivesse em estado de transe, e então...::
+7922::$$$message_0076_0036_0000$$$::"Senpai... o que é esse hematoma na sua mão?"[lr]::
+7923::$$$message_0076_0036_0001$$$::...ela me faz uma pergunta estranha.::
+7924::$$$message_0076_0037_0000$$$::"Hã?"[lr]::
+7925::$$$message_0076_0037_0001$$$::Eu olho pra mão à qual ela estava se referindo.::
+7926::$$$message_0076_0038_0000$$$::"Ué...? Tem razão, eu estou com um hematoma nela. Que estranho, eu não me lembro de ter batido ela nem nada do tipo."::
+7927::$$$message_0076_0039_0000$$$::Há um hematoma nas costas da minha mão esquerda por algum motivo.[lr]::
+7928::$$$message_0076_0039_0001$$$::É um vergão bem impressionante, ele parece ter sido causado por algum tipo de corte.[lr]::
+7929::$$$message_0076_0039_0002$$$::É bem assustador ver isso na minha mão.[lr]::
+7930::$$$message_0076_0039_0003$$$::A Sakura está bem quieta, talvez ela não esteja se sentindo bem.::
+7931::$$$message_0076_0040_0000$$$::"Desculpa por isso, mas pode cuidar do resto? Eu vou passar algo nisso."[lr]::
+7932::$$$message_0076_0040_0001$$$::Eu deixo a Sakura cuidando da cozinha e vou pro dojo.[lr]::
+7933::$$$message_0076_0040_0002$$$::Eu não sei se fiz isso enquanto dormia, mas eu tenho que tratar disso.::
+7934::$$$message_0076_0041_0000$$$::"..."[lr]::
+7935::$$$message_0076_0041_0001$$$::Mas por algum motivo, a imagem da Sakura cabisbaixa me deixa desconfortável e preocupado.::
+7936::$$$message_0076_0041_0002$$$::::
+7937::$$$message_0076_0042_0000$$$::"Eu vou indo então."[lr]::
+7938::$$$message_0076_0042_0001$$$::"Sakura, tem certeza de que está bem? Não seria melhor faltar o treino matinal se a sua condição física não está das melhores?"::
+7939::$$$message_0076_0043_0000$$$::"Não, eu estou bem. É só uma dorzinha de cabeça, nada com que você precise se preocupar. Eu não estou tão mal assim, é só a sua imaginação, na verdade eu estou muito bem hoje."[lr]::
+7940::$$$message_0076_0043_0001$$$::Ela me diz isso com um sorriso no rosto, mas qualquer um consegue perceber logo de relance que ela está só blefando.::
+7941::$$$message_0076_0044_0000$$$::"[line3]'Muito bem', é? Mesmo você não tendo conseguido comer nada?"[lr]::
+7942::$$$message_0076_0044_0001$$$::"Ah..."[lr]::
+7943::$$$message_0076_0044_0002$$$::Desconfortável com o que eu disse, ela desvia o olhar.::
+7944::$$$message_0076_0045_0000$$$::Sem erguer a cabeça, ela responde:[lr]::
+7945::$$$message_0076_0045_0001$$$::"Me dê licença por favor... Você é quem devia estar descansando, Senpai."[lr]::
+7946::$$$message_0076_0045_0002$$$::E com isso, ela parte.::
+7947::$$$message_0076_0046_0000$$$::Eu limpo a mesa do café.[lr]::
+7948::$$$message_0076_0046_0001$$$::Mas em um dos pratos da cozinha, a comida está intocada.::
+7949::$$$message_0076_0047_0000$$$::"Honestamente, o que deu nessa Sakura tão de repente?"[lr]::
+7950::$$$message_0076_0047_0001$$$::Ela estava de tão bom humor, mas depois de ver o meu machucado, ela ficou quieta e começou a cometer um monte de erros.::
+7951::$$$message_0076_0048_0000$$$::Ela encheu demais o chá, encharcou os omeletes com shoyu, e se sentou na mesa ainda vestindo o seu avental.[lr]::
+7952::$$$message_0076_0048_0001$$$::E acima disso tudo, ela não comeu nada e foi pálida pra escola.::
+7953::$$$message_0076_0049_0000$$$::"Talvez ela tenha pego um resfriado ou algo assim."[lr]::
+7954::$$$message_0076_0049_0001$$$::Eu resmungo pra mim mesmo enquanto limpo tudo.[lr]::
+7955::$$$message_0076_0049_0002$$$::É a primeira vez que eu vejo a Sakura desse jeito.[lr]::
+7956::$$$message_0076_0049_0003$$$::Eu conheci ela durante o verão quatro anos atrás, e ela começou a vir aqui ajudar um ano e meio atrás.[lr]::
+7957::$$$message_0076_0049_0004$$$::Nesse tempo todo, eu nunca vi ela parecer tão mal.::
+7958::$$$message_0076_0050_0000$$$::"..."[lr]::
+7959::$$$message_0076_0050_0001$$$::A Fuji-nee vai estar no dojo de arco e flecha, então não acho que haverão problemas por lá. Mas ainda assim acho que devo checar como ela está depois da escola ou qualquer hora dessas...::
+
