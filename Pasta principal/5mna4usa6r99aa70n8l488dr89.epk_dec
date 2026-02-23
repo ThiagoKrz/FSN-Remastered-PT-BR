@@ -1,0 +1,56 @@
+DAT
+id=qid::label=str::text=lstr::
+25331::$$$message_0220_0000_0000$$$::Estamos saindo do tópico. Então, quais são seus próximos passos?[lr]::
+25332::$$$message_0220_0000_0001$$$::Você diz que não vai matar pessoas, então você vai só ficar parado e assistir os outros Mestres fazerem sabe-se lá o quê?"::
+25333::$$$message_0220_0001_0000$$$::...Retiro o que eu disse.[lr]::
+25334::$$$message_0220_0001_0001$$$::Ela não é só distorcida, ela é uma idiota que tá fazendo de tudo pra me encurralar, e tudo isso com um sorriso.::
+25335::$$$message_0220_0002_0000$$$::"Se chegar a esse ponto, eu vou lá pra pará-los. O Mestre não vai ter muito o que fazer contanto que o Servo dele tenha sido derrotado, certo?"[lr]::
+25336::$$$message_0220_0002_0001$$$::"Inacreditável. Então você não vai tentar derrotar nenhum dos outros Mestres, a menos que eles pretendam fazer coisas ruins.[lr]::
+25337::$$$message_0220_0002_0002$$$::Você ao menos se escuta?"::
+25338::$$$message_0220_0003_0000$$$::"É. Eu sei que são só palavras bonitas. Mas eu não consigo pensar em mais nada. Eu não vou mudar meus princípios, não importa o que você diga."::
+25339::$$$message_0220_0004_0000$$$::"Hmm. Só tem um problema. Quer que eu desenhe pra você?"[lr]::
+25340::$$$message_0220_0004_0001$$$::Eu posso [font italic=true]ver[font italic=false] as engrenagens girando na cabeça dela. Ela tá tramando alguma.[lr]::
+25341::$$$message_0220_0004_0002$$$::Mas eu prometi ouvir, então eu preciso escutá-la.::
+25342::$$$message_0220_0005_0000$$$::"S-sim?"[lr]::
+25343::$$$message_0220_0005_0001$$$::"Você se lembra da Mestra de ontem? A garotinha que casualmente ordenou que o Servo dela matasse nós dois?"[lr]::
+25344::$$$message_0220_0005_0002$$$::[font italic=true]...[font italic=false][lr]::
+25345::$$$message_0220_0005_0003$$$::Como eu posso esquecer? Ela nos atacou no caminho pra casa sem nenhum aviso.::
+25346::$$$message_0220_0006_0000$$$::"Ela [font italic=true]com certeza[font italic=false] vai voltar e nos matar. Tenho certeza que até você já percebeu isso."[lr]::
+25347::$$$message_0220_0006_0001$$$::[font italic=true]...[font italic=false][lr]::
+25348::$$$message_0220_0006_0002$$$::Ah... é.[lr]::
+25349::$$$message_0220_0006_0003$$$::Aquela garota também é uma Mestra.::
+25350::$$$message_0220_0007_0000$$$::Ela sabe que a Tohsaka e eu somos Mestres, então ela com certeza virá atrás de nós uma hora ou outra.[lr]::
+25351::$$$message_0220_0007_0001$$$::Pode ser hoje ou amanhã, mas nós já assinamos nossas sentenças de morte.[lr]::
+25352::$$$message_0220_0007_0002$$$::Eu não tenho chance de parar aquele monstro.::
+25353::$$$message_0220_0008_0000$$$::"O Servo dela, Berserker, tá em um nível totalmente diferente.[lr]::
+25354::$$$message_0220_0008_0001$$$::Sendo um Mestre tão inexperiente como você é, você não é páreo praquela coisa. E você tá aí dizendo que vai se proteger não fazendo nada. Você [font italic=true]não[font italic=false] vai conseguir se defender."::
+25355::$$$message_0220_0009_0000$$$::"Olha quem fala. Você também não tem chance contra aquela coisa."::
+25356::$$$message_0220_0010_0000$$$::"Não numa luta direta. Aquele é o Servo supremo de combate corpo-a-corpo. Provavelmente não há ninguém que possa se igualar a ele, mesmo entre todos os heróis dos mitos e lendas. Se o Berserker me atacar, não há escapatória."::
+25357::$$$message_0220_0011_0000$$$::"...Isso vale pra mim também. Tenho certeza de que não sobrevivo ao próximo round com aquela coisa."::
+25358::$$$message_0220_0012_0000$$$::Minha mão se move inconscientemente para o meu estômago.[lr]::
+25359::$$$message_0220_0012_0001$$$::A ferida tá fechada.[lr]::
+25360::$$$message_0220_0012_0002$$$::Provavelmente não é nem justo chamar isso de ferida. É o lugar onde uma espada gigantesca quase me matou instantaneamente.[lr]::
+25361::$$$message_0220_0012_0003$$$::Eu não consigo espantar a onda súbita de náusea que cresce em mim quando imagino a próxima vez que eu posso provar aquela lâmina.::
+25362::$$$message_0220_0013_0000$$$::"Aí está. Você entende que ficar sentado por aí, sem fazer nada e esperando a Guerra do Santo Graal acabar não é uma opção?"::
+25363::$$$message_0220_0014_0000$$$::"...É, eu sei disso agora. Mas Tohsaka, eu não tenho certeza de onde você quer chegar.[lr]::
+25364::$$$message_0220_0014_0001$$$::Tenho certeza de que você não tá aqui só pra tirar sarro da minha desgraça inevitável... ou tá?"::
+25365::$$$message_0220_0015_0000$$$::"Por que tipo de sádica você me toma!?[lr]::
+25366::$$$message_0220_0015_0001$$$::Depois de tudo que eu disse, você ainda não entendeu a dica? Eu tô perguntando se você quer formar uma equipe."::
+25367::$$$message_0220_0016_0000$$$::"Hm?"[lr]::
+25368::$$$message_0220_0016_0001$$$::Hm? Hã? Como é? Uh... o quê?[lr]::
+25369::$$$message_0220_0016_0002$$$::Se eu levar essas palavras ao pé da letra, isso significa...::
+25370::$$$message_0220_0017_0000$$$::"[font italic=true]V-você[font italic=false] quer formar uma equipe [font italic=true]comigo[font italic=false], Tohsaka!?"[lr]::
+25371::$$$message_0220_0017_0001$$$::"Sim. Meu Archer ainda tá se recuperando de uma ferida grave. Isso vai levar um tempo, mas enquanto isso, eu não tô completamente fora da luta.[lr]::
+25372::$$$message_0220_0017_0002$$$::E embora sua Serva seja soberba, o Mestre dela a tá puxando pra baixo, fazendo ela ser metade do que poderia. Entende? Junte nós dois e você tem um todo."::
+25373::$$$message_0220_0018_0000$$$::"Ei, eu não sou [font italic=true]tão[font italic=false] ruim como mago assim."[lr]::
+25374::$$$message_0220_0018_0001$$$::"Eu contei três vezes em que você quase morreu. Você é a primeira pessoa que eu conheço que passou por isso em um único dia."::
+25375::$$$message_0220_0019_0000$$$::"Urgh. Mas..."[lr]::
+25376::$$$message_0220_0019_0001$$$::"Eu vou fazer valer a pena pra você. Eu te dou um desconto por ter machucado o Archer, e te ensino o que você precisa saber pra ser um Mestre. Ah, e se tivermos tempo, eu posso até te dar umas dicas sobre seu magus. Fechado?"::
+25377::$$$message_0220_0020_0000$$$::Ugh.[lr]::
+25378::$$$message_0220_0020_0001$$$::[font italic=true]É[font italic=false] uma proposta atraente.[lr]::
+25379::$$$message_0220_0020_0002$$$::Eu não sei quase nada, e a Tohsaka parece mesmo bem informada.::
+25380::$$$message_0220_0021_0000$$$::E eu gostaria de evitar lutar com ela, se eu puder.::
+25381::$$$message_0220_0022_0000$$$::"Emiya? Tô esperando sua resposta."[lr]::
+25382::$$$message_0220_0022_0001$$$::Ela me apressa pra fazer uma escolha.[lr]::
+25383::$$$message_0220_0022_0002$$$::Eu...[lr]::
+

@@ -1,0 +1,415 @@
+DAT
+id=qid::label=str::text=lstr::
+5702::$$$message_0053_0000_0000$$$::"Ah...!"[lr]::
+5703::$$$message_0053_0000_0001$$$::Eu acordo de repente.[lr]::
+5704::$$$message_0053_0000_0002$$$::Eu me sinto enjoado, e meu corpo inteiro dói. Toda vez que meu coração bate, uma dor aguda apunhala minha cabeça.::
+5705::$$$message_0053_0001_0000$$$::"O que... aconteceu?"[lr]::
+5706::$$$message_0053_0001_0001$$$::Minha dor de cabeça intensa me impede de lembrar de qualquer coisa.[lr]::
+5707::$$$message_0053_0001_0002$$$::Meu corpo está frio e rígido, provavelmente porque estou dormindo no corredor há muito tempo.[lr]::
+5708::$$$message_0053_0001_0003$$$::A única coisa que consigo descobrir é que a área do peito do meu uniforme está rasgada, e meu sangue mancha o chão do corredor.::
+5709::$$$message_0053_0002_0000$$$::"...Tsc."[lr]::
+5710::$$$message_0053_0002_0001$$$::Minha cabeça parece nebulosa enquanto me levanto.[lr]::
+5711::$$$message_0053_0002_0002$$$::O local onde eu estava deitado parece uma cena de assassinato.::
+5712::$$$message_0053_0003_0000$$$::"Droga... sério..."[lr]::
+5713::$$$message_0053_0003_0001$$$::    Meu peito foi esfaqueado?::
+5714::$$$message_0053_0004_0000$$$::"Hnn... haah... ng."[lr]::
+5715::$$$message_0053_0004_0001$$$::Eu luto contra uma onda de náusea enquanto vou para uma sala de aula próxima.[lr]::
+5716::$$$message_0053_0004_0002$$$::Cambaleando, abro um armário e pego um pano e um balde.::
+5717::$$$message_0053_0005_0000$$$::"Huh... que diabos estou fazendo...?"[lr]::
+5718::$$$message_0053_0005_0001$$$::Ainda estou confuso.[lr]::
+5719::$$$message_0053_0005_0002$$$::Eu encontrei algo inacreditável, então aquilo me assassinou... Mas aqui estou eu, ainda tentando limpar minha própria bagunça. Quão estúpido eu posso ser?::
+5720::$$$message_0053_0006_0000$$$::"Hnn... hnn... Droga, não está saindo."[lr]::
+5721::$$$message_0053_0006_0001$$$::Eu esfrego o chão com um pano que encontrei.[lr]::
+5722::$$$message_0053_0006_0002$$$::Eu consigo limpar o sangue, apesar da incrível fraqueza em todo o meu corpo, então junto tudo que está espalhado pelo chão e enfio nos bolsos.[lr]::
+5723::$$$message_0053_0006_0003$$$::Esta pode ser minha maneira de esconder qualquer evidência.[lr]::
+5724::$$$message_0053_0006_0004$$$::Eu devo estar fazendo coisas tão estúpidas porque minha cabeça está toda nebulosa.::
+5725::$$$message_0053_0007_0000$$$::"Ah..."[lr]::
+5726::$$$message_0053_0007_0001$$$::Eu guardo o pano e o balde, e cambaleio para fora da escola como um zumbi.[lr]::
+5727::$$$message_0053_0007_0002$$$::Meu corpo esquenta a cada passo que dou.[lr]::
+5728::$$$message_0053_0007_0003$$$::Está tão frio lá fora, mas meu corpo parece estar em chamas.::
+5729::$$$message_0053_0008_0000$$$::Quando chego em casa, a data mudou.[lr]::
+5730::$$$message_0053_0008_0001$$$::Não há ninguém em casa.[lr]::
+5731::$$$message_0053_0008_0002$$$::Sakura e até Fuji-nee saíram há muito tempo.::
+5732::$$$message_0053_0009_0000$$$::"...Ah... Gh... Hnn..."[lr]::
+5733::$$$message_0053_0009_0001$$$::Eu desmorono no chão.[lr]::
+5734::$$$message_0053_0009_0002$$$::Deitar no chão é o que me deixa finalmente relaxar um pouco.[lr]::
+5735::$$$message_0053_0009_0003$$$::"..."[lr]::
+5736::$$$message_0053_0009_0004$$$::Eu inspiro profundamente.::
+5737::$$$message_0053_0010_0000$$$::Meu coração parece que racha toda vez que meu peito se expande para puxar o ar.[lr]::
+5738::$$$message_0053_0010_0001$$$::Na verdade, é o oposto.[lr]::
+5739::$$$message_0053_0010_0002$$$::Não é que meu coração esteja rachando.[lr]::
+5740::$$$message_0053_0010_0003$$$::O buraco no meu coração foi apenas remendado, então expandir meu peito abre a ferida.::
+5741::$$$message_0053_0011_0000$$$::"Então eu realmente quase fui morto."[lr]::
+5742::$$$message_0053_0011_0001$$$::Isso também não é verdade.[lr]::
+5743::$$$message_0053_0011_0002$$$::Eu não fui quase morto. Eu [font italic=true]fui[font italic=false] morto.[lr]::
+5744::$$$message_0053_0011_0003$$$::Mas alguém me salvou, e agora estou vivo.::
+5745::$$$message_0053_0012_0000$$$::"Quem será que foi? Eu realmente gostaria de agradecê-los."[lr]::
+5746::$$$message_0053_0012_0001$$$::Se eles estavam na área, significa que poderiam estar envolvidos com as pessoas lutando.[lr]::
+5747::$$$message_0053_0012_0002$$$::Mas ainda não muda o fato de que me salvaram. Então eu preciso agradecê-los adequadamente um dia.::
+5748::$$$message_0053_0013_0000$$$::"Ah... ngh...!"[lr]::
+5749::$$$message_0053_0013_0001$$$::No momento em que baixo minha guarda, a dor retorna.[lr]::
+5750::$$$message_0053_0013_0002$$$::Ao mesmo tempo, a náusea me atinge.::
+5751::$$$message_0053_0013_0003$$$::"Ah... ha... unnngh!"[lr]::
+5752::$$$message_0053_0013_0004$$$::Eu me sento para conter a náusea.[lr]::
+5753::$$$message_0053_0013_0005$$$::"Ng... fu... hn..."[lr]::
+5754::$$$message_0053_0013_0006$$$::Eu coloco minha mão no meu peito nu, onde o uniforme está rasgado.[lr]::
+5755::$$$message_0053_0013_0007$$$::Eu posso ter sido salvo, mas meu peito foi, de fato, perfurado.::
+5756::$$$message_0053_0013_0008$$$::Aquela sensação.[lr]::
+5757::$$$message_0053_0013_0009$$$::A agonia da ponta da lança perfurando meu peito não é algo que eu possa esquecer facilmente.::
+5758::$$$message_0053_0013_0010$$$::"Droga... Vou ter pesadelos com isso por um tempo."[lr]::
+5759::$$$message_0053_0013_0011$$$::Quando fecho meus olhos, sinto a lança me atingir novamente.[lr]::
+5760::$$$message_0053_0013_0012$$$::Eu tento afastar essa ilusão, e faço todo o esforço para recuperar minha compostura.::
+5761::$$$message_0053_0013_0013$$$::"Bom, estou me acalmando."[lr]::
+5762::$$$message_0053_0013_0014$$$::Isso deve ser graças ao meu treinamento noturno.[lr]::
+5763::$$$message_0053_0013_0015$$$::Meus pensamentos clareiam enquanto respiro lenta e profundamente. A febre e a náusea diminuem um pouco.::
+5764::$$$message_0053_0014_0000$$$::"Então, sobre o que aconteceu..."[lr]::
+5765::$$$message_0053_0014_0001$$$::O homem de azul e o homem de vermelho.[lr]::
+5766::$$$message_0053_0014_0002$$$::Eles pareciam humanos, mas eu sei que não são.::
+5767::$$$message_0053_0015_0000$$$::Eles poderiam ser fantasmas de algum tipo.[lr]::
+5768::$$$message_0053_0015_0001$$$::Mas eu nunca ouvi falar de fantasmas tendo formas que lhes permitam interagir com humanos dessa forma.[lr]::
+5769::$$$message_0053_0015_0002$$$::E a coisa estava falando, o que torna um pouco mais difícil acreditar que era um fantasma, se tinha vontade própria.[lr]::
+5770::$$$message_0053_0015_0003$$$::Pelo que ouvi, os únicos espíritos que possuem corpos físicos são os tipos elementais, mas eu pensei que elementais não parecessem humanos.::
+5771::$$$message_0053_0016_0000$$$::"Bem, esse não é o problema aqui."[lr]::
+5772::$$$message_0053_0016_0001$$$::Há um problema mais fundamental.::
+5773::$$$message_0053_0017_0000$$$::Aqueles dois estavam tentando se matar.[lr]::
+5774::$$$message_0053_0017_0001$$$::E houve um roubo e um assassinato em uma casa próxima.[lr]::
+5775::$$$message_0053_0017_0002$$$::Coisas estranhas como essa têm atormentado Fuyuki ultimamente.::
+5776::$$$message_0053_0018_0000$$$::"..."[lr]::
+5777::$$$message_0053_0018_0001$$$::Com tudo isso em mente, a única conclusão a que posso chegar é que a situação está fora do meu controle.::
+5778::$$$message_0053_0019_0000$$$::"Se ao menos o velho estivesse vivo agora..."[lr]::
+5779::$$$message_0053_0019_0001$$$::Acho que foi meio choramingas, mas vou culpar a ferida remendada no peito que ainda parece tão crua.::
+5780::$$$message_0053_0020_0000$$$::"Idiota. Eu já decidi fazer o que posso... mesmo que eu não entenda o que está acontecendo."[lr]::
+5781::$$$message_0053_0020_0001$$$::Eu posso reclamar mais tarde.[lr]::
+5782::$$$message_0053_0020_0002$$$::Primeiro de tudo, preciso decidir se devo me envolver ou não.[lr]::
+5783::$$$message_0053_0020_0003$$$::"!?"::
+5784::$$$message_0053_0021_0000$$$::O sino no telhado da casa toca.[lr]::
+5785::$$$message_0053_0021_0001$$$::Não importa o que digam, esta casa ainda é a casa de um mago.[lr]::
+5786::$$$message_0053_0021_0002$$$::Um Campo de Força está montado ao redor dela, e se houver um intruso na área, um alarme toca.::
+5787::$$$message_0053_0022_0000$$$::"Um ladrão a esta hora?"[lr]::
+5788::$$$message_0053_0022_0001$$$::Eu me repreendo pela minha própria idiotice.[lr]::
+5789::$$$message_0053_0022_0002$$$::Claro que não é um ladrão.::
+5790::$$$message_0053_0023_0000$$$::Dado o momento, logo após aquele incidente estranho...[lr]::
+5791::$$$message_0053_0023_0001$$$::Há definitivamente um intruso.[lr]::
+5792::$$$message_0053_0023_0002$$$::Não é um ladrão. É um assassino. Eles estão aqui para tirar uma vida, não propriedade.[lr]::
+5793::$$$message_0053_0023_0003$$$::Porque aquele homem disse ele mesmo: [lr]::
+5794::$$$message_0053_0023_0004$$$::[font italic=true]"Você viu o que viu, então você tem que morrer."[font italic=false]::
+5795::$$$message_0053_0024_0000$$$::"..."[lr]::
+5796::$$$message_0053_0024_0001$$$::A casa está em silêncio mortal.[lr]::
+5797::$$$message_0053_0024_0002$$$::Aquela mesma intenção assassina que senti na escola se aproxima pela escuridão silenciosa.::
+5798::$$$message_0053_0025_0000$$$::"...!"[lr]::
+5799::$$$message_0053_0025_0001$$$::Eu engulo em seco.[lr]::
+5800::$$$message_0053_0025_0002$$$::Um arrepio percorre minha espinha como agulhas.[lr]::
+5801::$$$message_0053_0025_0003$$$::Não é ilusão e não é minha imaginação... Eu sei que no momento em que eu sair desta sala, serei esfaqueado novamente.::
+5802::$$$message_0053_0026_0000$$$::"...Nngh!"[lr]::
+5803::$$$message_0053_0026_0001$$$::Eu tento desesperadamente conter meu grito.[lr]::
+5804::$$$message_0053_0026_0002$$$::No instante em que eu gritar, o assassino vai simplesmente pular e me matar.::
+5805::$$$message_0053_0027_0000$$$::E isso seria apenas uma repetição do que aconteceu antes.[lr]::
+5806::$$$message_0053_0027_0001$$$::Eu não estou preparado, e vou ser empalado novamente.::
+5807::$$$message_0053_0028_0000$$$::"...Hnnn... haah... ghh..."[lr]::
+5808::$$$message_0053_0028_0001$$$::Minha respiração fica ofegante assim que esse pensamento cruza minha mente.[lr]::
+5809::$$$message_0053_0028_0002$$$::Estou com raiva.[lr]::
+5810::$$$message_0053_0028_0003$$$::Estou com raiva de mim mesmo por estar com medo, e estou com raiva por ter me colocado em uma situação onde perderei minha vida tão facilmente depois que ela foi salva hoje mesmo.::
+5811::$$$message_0053_0029_0000$$$::"...Ngh."[lr]::
+5812::$$$message_0053_0029_0001$$$::Eu ranjo meus dentes e seguro minha mão firmemente sobre meu peito ferido para me conter.::
+5813::$$$message_0053_0030_0000$$$::Eu preciso me acostumar com isso.[lr]::
+5814::$$$message_0053_0030_0001$$$::Esta é a segunda vez.[lr]::
+5815::$$$message_0053_0030_0002$$$::Esta é a segunda vez que estou prestes a morrer.[lr]::
+5816::$$$message_0053_0030_0003$$$::Só isso me motiva a não morrer tão pateticamente quanto da última vez. Afinal, eu não sou um mago?[lr]::
+5817::$$$message_0053_0030_0004$$$::E se eu não consigo nem me defender disso, para que serviram meus oito anos de treinamento!?::
+5818::$$$message_0053_0031_0000$$$::"Certo. Pode vir."[lr]::
+5819::$$$message_0053_0031_0001$$$::Eu não vou mais me agonizar com coisas complicadas.[lr]::
+5820::$$$message_0053_0031_0002$$$::Agora eu só preciso afugentar quem quer que esteja aqui.::
+5821::$$$message_0053_0032_0000$$$::"Eu preciso encontrar uma arma."[lr]::
+5822::$$$message_0053_0032_0001$$$::Eu posso me chamar de mago, mas a única coisa que posso fazer é reforçar algo que possa funcionar como uma arma.[lr]::
+5823::$$$message_0053_0032_0002$$$::Você precisa de uma arma para lutar, afinal.[lr]::
+5824::$$$message_0053_0032_0003$$$::Há muitas coisas que podem funcionar como arma no depósito, mas não estou nem perto de lá.[lr]::
+5825::$$$message_0053_0032_0004$$$::Se eu sair da sala de estar e for emboscado, vou apenas me expor e será uma repetição do que aconteceu antes.::
+5826::$$$message_0053_0033_0000$$$::Não vai ser fácil, mas tenho que encontrar uma arma aqui.[lr]::
+5827::$$$message_0053_0033_0001$$$::Algo longo e fino seria bom. A arma de escolha do meu oponente é uma lança, então uma faca seria quase inútil.[lr]::
+5828::$$$message_0053_0033_0002$$$::Uma espada de madeira seria o melhor, mas obviamente não tenho uma por aí.[lr]::
+5829::$$$message_0053_0033_0003$$$::Algo por aqui que possa ser adequado como arma...::
+5830::$$$message_0053_0034_0000$$$::"Uau... só tem o pôster que a Fuji-nee deixou..."[lr]::
+5831::$$$message_0053_0034_0001$$$::Não posso deixar de me sentir totalmente desanimado.[lr]::
+5832::$$$message_0053_0034_0002$$$::Mas o desespero me deixa ainda mais determinado.[lr]::
+5833::$$$message_0053_0034_0003$$$::A situação está tão ruim que não pode piorar.[lr]::
+5834::$$$message_0053_0034_0004$$$::Então tudo o que me resta a fazer é avançar até não ter mais energia.::
+5835::$$$message_0053_0035_0000$$$::"Trace, on."[lr]::
+5836::$$$message_0053_0035_0001$$$::Eu digo meu encantamento e injeto energia mágica no pôster enrolado de sessenta centímetros.[lr]::
+5837::$$$message_0053_0035_0002$$$::Eu tento imbuir o máximo de energia mágica que posso no pôster para solidificá-lo, já que ele precisa funcionar como uma arma para enfrentar aquela lança.::
+5838::$$$message_0053_0036_0000$$$::"Composição, analisar."[lr]::
+5839::$$$message_0053_0036_0001$$$::Eu foco minha consciência. [lr]::
+5840::$$$message_0053_0036_0002$$$::A energia mágica permeia o pôster, como se eu estivesse manchando suas fibras com meu próprio sangue.::
+5841::$$$message_0053_0037_0000$$$::"Composição, reforçar."[lr]::
+5842::$$$message_0053_0037_0001$$$::Eu sinto que cheguei ao fim.[lr]::
+5843::$$$message_0053_0037_0002$$$::Logo antes que a energia mágica se espalhe pelo pôster e transborde, eu digo...[lr]::
+5844::$$$message_0053_0037_0003$$$::"Trace, off."[lr]::
+5845::$$$message_0053_0037_0004$$$::Eu corto minha conexão com o pôster. Eu tremo de excitação.::
+5846::$$$message_0053_0038_0000$$$::O pôster está duro como aço.[lr]::
+5847::$$$message_0053_0038_0001$$$::Mas seu peso continua o mesmo de antes. Ficou ótimo para uma espada improvisada às pressas.::
+5848::$$$message_0053_0039_0000$$$::"Eu... consegui..."[lr]::
+5849::$$$message_0053_0039_0001$$$::Há quanto tempo minha feitiçaria de Fortalecimento não dava certo?[lr]::
+5850::$$$message_0053_0039_0002$$$::Minha feitiçaria não funciona desde que Kiritsugu morreu, e ela ter sucesso em um momento como este parece irônico.::
+5851::$$$message_0053_0040_0000$$$::"De qualquer forma, agora eu posso..."[lr]::
+5852::$$$message_0053_0040_0001$$$::Eu talvez consiga me defender.[lr]::
+5853::$$$message_0053_0040_0002$$$::Eu pelo menos tenho alguma disciplina em esgrima.[lr]::
+5854::$$$message_0053_0040_0003$$$::Eu agarro o pôster com as duas mãos e fico no meio da sala de estar.::
+5855::$$$message_0053_0041_0000$$$::Se eu ficar aqui, estou morto, mas acho que também não consigo sair da mansão.[lr]::
+5856::$$$message_0053_0041_0001$$$::Então eu só preciso ir para o galpão e fazer uma arma mais forte lá.::
+5857::$$$message_0053_0042_0000$$$::"...Ufa."[lr]::
+5858::$$$message_0053_0042_0001$$$::Assim que começo a tentar me animar...[lr]::
+5859::$$$message_0053_0042_0002$$$::"...!!!"[lr]::
+5860::$$$message_0053_0042_0003$$$::Cada pelo do meu corpo se arrepia.::
+5861::$$$message_0053_0043_0000$$$::Não tenho certeza de quando ele entrou.[lr]::
+5862::$$$message_0053_0043_0001$$$::Mas o cara cai do teto, direto em minha direção.::
+5863::$$$message_0053_0044_0000$$$::"O qu... eh!?"[lr]::
+5864::$$$message_0053_0044_0001$$$::Um flash prateado atinge minha cabeça de cima.[lr]::
+5865::$$$message_0053_0044_0002$$$::Eu só posso supor que ele veio pelo teto, e ele desce sobre mim, com a intenção de espetar minha cabeça.[lr]::
+5866::$$$message_0053_0044_0003$$$::"Por... quê!!!"[lr]::
+5867::$$$message_0053_0044_0004$$$::Eu rolo para frente em um desvio frenético.::
+5868::$$$message_0053_0045_0000$$$::O homem pousa com graça desumana enquanto eu rolo desajeitadamente para fora do caminho.[lr]::
+5869::$$$message_0053_0045_0001$$$::Eu paro rapidamente e me levanto, com a espada improvisada pronta.::
+5870::$$$message_0053_0046_0000$$$::[font italic=true]...[font italic=false][lr]::
+5871::$$$message_0053_0046_0001$$$::O cara se vira preguiçosamente, parecendo entediado.::
+5872::$$$message_0053_0047_0000$$$::"Você está tornando tudo isso meio chato. Eu estava tentando ser legal, pensando que doeria muito mais se você me visse te matar."[lr]::
+5873::$$$message_0053_0047_0001$$$::Ele muda a lança para a outra mão em um movimento lento e fluido.::
+5874::$$$message_0053_0048_0000$$$::[font italic=true]...[font italic=false][lr]::
+5875::$$$message_0053_0048_0001$$$::Eu não sei por que, mas ele não parece tão agressivo quanto na escola.[lr]::
+5876::$$$message_0053_0048_0002$$$::O que... pode me dar uma chance de escapar dele.::
+5877::$$$message_0053_0049_0000$$$::"Não acredito que tenho que matar o mesmo humano duas vezes. Acho que o mundo dos vivos é um moedor de carne, não importa a era."[lr]::
+5878::$$$message_0053_0049_0001$$$::Ele está... reclamando sozinho, como se eu nem estivesse aqui.::
+5879::$$$message_0053_0050_0000$$$::[font italic=true]...[font italic=false][lr]::
+5880::$$$message_0053_0050_0001$$$::Eu lentamente recuo para fora da sala.[lr]::
+5881::$$$message_0053_0050_0002$$$::Apenas mais três metros até eu alcançar a janela.[lr]::
+5882::$$$message_0053_0050_0003$$$::Vou sair correndo, e então são apenas cerca de vinte metros até o galpão quando eu chegar ao quintal.[lr]::
+5883::$$$message_0053_0050_0004$$$::Então eu deveria rapidamente...::
+5884::$$$message_0053_0051_0000$$$::"Até mais. Não fique vagando por aí, garoto."[lr]::
+5885::$$$message_0053_0051_0001$$$::Ele diz isso quase distraidamente,[lr]::
+5886::$$$message_0053_0051_0002$$$::como se fosse apenas um pensamento posterior.::
+5887::$$$message_0053_0052_0000$$$::"...Gah!"[lr]::
+5888::$$$message_0053_0052_0001$$$::A dor dispara pelo meu braço direito.[lr]::
+5889::$$$message_0053_0052_0002$$$::"...?"[lr]::
+5890::$$$message_0053_0052_0003$$$::Tudo acontece em um instante.[lr]::
+5891::$$$message_0053_0052_0004$$$::Ele lança sua lança para frente, nem mesmo me dando tempo para reagir.::
+5892::$$$message_0053_0053_0000$$$::Eu deveria ter morrido pela segunda vez ali mesmo.[lr]::
+5893::$$$message_0053_0053_0001$$$::A espada improvisada em minha mão me poupou desse destino.[lr]::
+5894::$$$message_0053_0053_0002$$$::Ele provavelmente pensou que eu estava apenas segurando um papel enrolado.[lr]::
+5895::$$$message_0053_0053_0003$$$::Ele atacou como se eu não estivesse segurando nada, mas a espada de papel reforçado desviou o ataque, então apenas arranhou meu braço.::
+5896::$$$message_0053_0054_0000$$$::"Huh... Truque interessante você tem aí, garoto."[lr]::
+5897::$$$message_0053_0054_0001$$$::Sua expressão fica vazia.[lr]::
+5898::$$$message_0053_0054_0002$$$::Sua atitude casual de antes desaparece inteiramente. Ele me observa agora como um animal selvagem observando sua presa.::
+5899::$$$message_0053_0055_0000$$$::"...Ah..."[lr]::
+5900::$$$message_0053_0055_0001$$$::Droga. Eu estava claramente errado, pensando que as coisas ficariam bem.[lr]::
+5901::$$$message_0053_0055_0002$$$::Essa coisa diante de mim é algum tipo de demônio, livre da lógica.[lr]::
+5902::$$$message_0053_0055_0003$$$::Eu percebo claramente que baixar minha guarda mesmo por um segundo foi além de ridículo.::
+5903::$$$message_0053_0056_0000$$$::Isso mesmo.[lr]::
+5904::$$$message_0053_0056_0001$$$::Por mais desesperadora que a situação esteja, eu deveria ter corrido para a janela logo após qualquer milagre que me permitiu desviar de seu golpe de cima.::
+5905::$$$message_0053_0057_0000$$$::"Eu pensei que você fosse apenas um garoto, mas consigo sentir um pouco de energia mágica de você. Então é assim que você está vivo mesmo depois de eu ter esfaqueado seu coração."[lr]::
+5906::$$$message_0053_0057_0001$$$::A ponta de sua lança aponta para mim.::
+5907::$$$message_0053_0058_0000$$$::[font italic=true]...[font italic=false][lr]::
+5908::$$$message_0053_0058_0001$$$::Eu não posso bloquear isso.[lr]::
+5909::$$$message_0053_0058_0002$$$::Não há como eu conseguir bloquear esse ataque rápido.[lr]::
+5910::$$$message_0053_0058_0003$$$::Eu poderia pelo menos ter me preparado se ele tivesse uma espada, não importa o quão rápido ele pudesse ser com ela.[lr]::
+5911::$$$message_0053_0058_0004$$$::Mas ele está segurando uma lança.[lr]::
+5912::$$$message_0053_0058_0005$$$::Uma espada é uma linha inteira, mas uma lança é apenas um ponto.[lr]::
+5913::$$$message_0053_0058_0006$$$::Como eu deveria bloquear um ponto, quando não consigo nem ver o quão rápido ele se move?::
+5914::$$$message_0053_0059_0000$$$::"Certo. Vou me divertir um pouco."[lr]::
+5915::$$$message_0053_0059_0001$$$::O homem abaixa sua postura.[lr]::
+5916::$$$message_0053_0059_0002$$$::Em um flash...[lr]::
+5917::$$$message_0053_0059_0003$$$::...a lança balança lateralmente.::
+5918::$$$message_0053_0060_0000$$$::Eu instintivamente aparo o golpe direcionado ao meu rosto.::
+5919::$$$message_0053_0061_0000$$$::"Gngh...!?"[lr]::
+5920::$$$message_0053_0061_0001$$$::"Bom garoto. Vamos lá, aí vem outro."::
+5921::$$$message_0053_0062_0000$$$::É um [font italic=true]ciclone[font italic=false].[lr]::
+5922::$$$message_0053_0062_0001$$$::Não tenho certeza de como ele está movendo sua lança nesta sala pequena, mas ela traça um belo arco sem sequer tocar as paredes.[lr]::
+5923::$$$message_0053_0062_0002$$$::"...Aaah!"[lr]::
+5924::$$$message_0053_0062_0003$$$::O próximo golpe vem do lado oposto, mirando no meu torso.::
+5925::$$$message_0053_0063_0000$$$::"Ga... agh!!!???"[lr]::
+5926::$$$message_0053_0063_0001$$$::A força do golpe curva minha espada improvisada enquanto tento aparar.[lr]::
+5927::$$$message_0053_0063_0002$$$::Monstruoso...! Isso é um martelo que ele está balançando!?[lr]::
+5928::$$$message_0053_0063_0003$$$::Droga... a dormência em meus braços está me dizendo que eles podem estar quebrados!::
+5929::$$$message_0053_0064_0000$$$::"Gh... por quê!!!"[lr]::
+5930::$$$message_0053_0064_0001$$$::"Hmmm?"[lr]::
+5931::$$$message_0053_0064_0002$$$::Eu instintivamente balanço minha espada.[lr]::
+5932::$$$message_0053_0064_0003$$$::Ele deve estar zombando de mim com o jeito que ele continua batendo sua lança na minha espada sem recuar.::
+5933::$$$message_0053_0065_0000$$$::"Gngh...!"[lr]::
+5934::$$$message_0053_0065_0001$$$::A dormência se espalha pelos meus braços depois de atacar.[lr]::
+5935::$$$message_0053_0065_0002$$$::Minha espada improvisada se curva ainda mais, e a lança do homem muda de trajetória ligeiramente.::
+5936::$$$message_0053_0066_0000$$$::"Você é um caso perdido. Eu te dei uma oportunidade, mas você a desperdiçou. Mas, pensando bem, acho que esperar uma boa luta de um mago é pedir demais."::
+5937::$$$message_0053_0067_0000$$$::Ele se move como se isso fosse apenas um jogo.[lr]::
+5938::$$$message_0053_0067_0001$$$::Tanta confiança... Ele estava me deixando dar um golpe nele depois que ele deu alguns golpes em mim.[lr]::
+5939::$$$message_0053_0067_0002$$$::Eu desperdicei minha única oportunidade como nada mais do que um paliativo.[lr]::
+5940::$$$message_0053_0067_0003$$$::Então ele não vê sentido em continuar isso.::
+5941::$$$message_0053_0068_0000$$$::"Que decepção você se revelou. 'Kay, hora de morrer, garoto."[lr]::
+5942::$$$message_0053_0068_0001$$$::O homem prepara sua lança novamente.[lr]::
+5943::$$$message_0053_0068_0002$$$::"Não tire conclusões precipitadas!"[lr]::
+5944::$$$message_0053_0068_0003$$$::Durante aquela abertura microscópica...[lr]::
+5945::$$$message_0053_0068_0004$$$::"Diga o que quiser, idiota!!!"[lr]::
+5946::$$$message_0053_0068_0005$$$::Eu não me viro para olhar; eu apenas pulo para trás através da janela.::
+5947::$$$message_0053_0069_0000$$$::"Hnn... hnn..."[lr]::
+5948::$$$message_0053_0069_0001$$$::Minhas costas estilhaçam a janela, e eu rolo para o quintal.[lr]::
+5949::$$$message_0053_0069_0002$$$::Eu rolo algumas vezes, me levanto de um salto, e...[lr]::
+5950::$$$message_0053_0069_0003$$$::"Ha... ah!"[lr]::
+5951::$$$message_0053_0069_0004$$$::Eu cegamente faço meu próximo movimento...[lr]::
+5952::$$$message_0053_0069_0005$$$::Eu giro meu corpo inteiro e balanço para trás!::
+5953::$$$message_0053_0070_0000$$$::"Hmn!"[lr]::
+5954::$$$message_0053_0070_0001$$$::Eu consigo desviar a lança do homem para o lado e ele hesita por um instante.[lr]::
+5955::$$$message_0053_0070_0002$$$::Eu sabia.[lr]::
+5956::$$$message_0053_0070_0003$$$::Se eu pulasse pela janela, ele teria que me perseguir.[lr]::
+5957::$$$message_0053_0070_0004$$$::E ele me alcançaria e me mataria antes que eu tivesse a chance de me levantar.::
+5958::$$$message_0053_0071_0000$$$::Então eu esperei seu golpe fatal, e balancei minha espada para o lado com toda a minha força.[lr]::
+5959::$$$message_0053_0071_0001$$$::Foi um movimento arriscado. Ele teria me matado se eu estivesse um segundo atrasado, e eu estaria morto do mesmo jeito se estivesse adiantado. Mas sabendo da incrível diferença em nossa habilidade, eu imaginei que não havia como eu estar adiantado.::
+5960::$$$message_0053_0072_0000$$$::A única coisa que eu tinha que fazer era me levantar o mais rápido que pudesse e aparar o ataque que eu sabia que viria nas minhas costas.[lr]::
+5961::$$$message_0053_0072_0001$$$::A aposta compensa e meu golpe desvia sua lança.::
+5962::$$$message_0053_0073_0000$$$::"Ha... ah!"[lr]::
+5963::$$$message_0053_0073_0001$$$::Eu rapidamente me reposiciono.[lr]::
+5964::$$$message_0053_0073_0002$$$::Agora eu só preciso correr para o galpão enquanto ele ainda está confuso...[lr]::
+5965::$$$message_0053_0073_0003$$$::"Voe."::
+5966::$$$message_0053_0074_0000$$$::"Hã?"[lr]::
+5967::$$$message_0053_0074_0001$$$::Ele não está mais segurando a lança agora, e está bem na minha frente.[lr]::
+5968::$$$message_0053_0074_0002$$$::Ele gira no lugar em um chute rodado.::
+5969::$$$message_0053_0075_0000$$$::[font italic=true]...[font italic=false][lr]::
+5970::$$$message_0053_0075_0001$$$::O cenário passa voando.[lr]::
+5971::$$$message_0053_0075_0002$$$::Meu peito fica dormente onde ele me chutou. Eu não consigo respirar.[lr]::
+5972::$$$message_0053_0075_0003$$$::A maior surpresa? Eu estou realmente [font italic=true]voando[font italic=false] pelo ar.[lr]::
+5973::$$$message_0053_0075_0004$$$::Eu nunca pensei que um cara me chutando me mandaria para o ar como uma bola.::
+5974::$$$message_0053_0076_0000$$$::"Gngh!"[lr]::
+5975::$$$message_0053_0076_0001$$$::Eu caio com força nas minhas costas.[lr]::
+5976::$$$message_0053_0076_0002$$$::Eu bato em uma parede, o impacto provavelmente quebrando minhas costas, e deslizo para o chão.::
+5977::$$$message_0053_0077_0000$$$::"Ah...!"[lr]::
+5978::$$$message_0053_0077_0001$$$::Eu não consigo respirar.[lr]::
+5979::$$$message_0053_0077_0002$$$::Minha visão fica turva.[lr]::
+5980::$$$message_0053_0077_0003$$$::Por um golpe de sorte, ele me jogou no galpão que eu queria alcançar. Eu me encosto na parede, tentando me reerguer.::
+5981::$$$message_0053_0078_0000$$$::"Haah... haah..."[lr]::
+5982::$$$message_0053_0078_0001$$$::Eu tento rastrear o homem através dos olhos turvos.[lr]::
+5983::$$$message_0053_0078_0002$$$::Ele me chutou a quase vinte metros de distância.[lr]::
+5984::$$$message_0053_0078_0003$$$::O cara pega sua lança e corre direto para mim.::
+5985::$$$message_0053_0079_0000$$$::"Gngh!"[lr]::
+5986::$$$message_0053_0079_0001$$$::Eu vou morrer.[lr]::
+5987::$$$message_0053_0079_0002$$$::Não há nada que eu possa fazer agora.[lr]::
+5988::$$$message_0053_0079_0003$$$::Ele vai me alcançar.[lr]::
+5989::$$$message_0053_0079_0004$$$::Se eu não quero morrer, preciso me levantar e aparar seu... golpe...::
+5990::$$$message_0053_0080_0000$$$::[font italic=true]...[font italic=false][lr]::
+5991::$$$message_0053_0080_0001$$$::A ponta da lança avança.[lr]::
+5992::$$$message_0053_0080_0002$$$::Eu não consigo nem olhar para trás para ele. Meu corpo, à beira do colapso, praticamente saúda a lança.::
+5993::$$$message_0053_0081_0000$$$::"Tsc! Fique de pé, se você é homem!"[lr]::
+5994::$$$message_0053_0081_0001$$$::Que sorte estúpida.[lr]::
+5995::$$$message_0053_0081_0002$$$::Meus joelhos cedem; Eu não consigo me sustentar.[lr]::
+5996::$$$message_0053_0081_0003$$$::A lança passa por cima da minha cabeça e empala violentamente a porta pesada do galpão, abrindo-a.::
+5997::$$$message_0053_0082_0000$$$::"Ah..."[lr]::
+5998::$$$message_0053_0082_0001$$$::E esta é minha última chance.[lr]::
+5999::$$$message_0053_0082_0002$$$::Se ao menos eu pudesse entrar no galpão, deveria haver algo que eu possa usar como arma...!::
+6000::$$$message_0053_0083_0000$$$::"Ungh...!"[lr]::
+6001::$$$message_0053_0083_0001$$$::Eu me arrasto para dentro do galpão de quatro.[lr]::
+6002::$$$message_0053_0083_0002$$$::Nesse momento...[lr]::
+6003::$$$message_0053_0083_0003$$$::"Isso acaba agora!"[lr]::
+6004::$$$message_0053_0083_0004$$$::Ele lança a lança em mim.::
+6005::$$$message_0053_0084_0000$$$::"Malditooooo sejaaaa!"[lr]::
+6006::$$$message_0053_0084_0001$$$::Eu bloqueio.[lr]::
+6007::$$$message_0053_0084_0002$$$::Eu abro o pôster enrolado para criar um escudo de uso único.::
+6008::$$$message_0053_0085_0000$$$::"Hm!?"[lr]::
+6009::$$$message_0053_0085_0001$$$::O impacto faz um som surdo.[lr]::
+6010::$$$message_0053_0085_0002$$$::O pôster, desenrolado, provavelmente não é tão forte.[lr]::
+6011::$$$message_0053_0085_0003$$$::Ele bloqueia a lança, mas se rasga, voltando a ser um pedaço de papel normal.::
+6012::$$$message_0053_0086_0000$$$::"Ah... gngh!"[lr]::
+6013::$$$message_0053_0086_0001$$$::O impacto da lança me joga contra a parede.::
+6014::$$$message_0053_0087_0000$$$::"...Ah... zch...!"[lr]::
+6015::$$$message_0053_0087_0001$$$::Eu caio sentado, e tento fazer meu coração bater de novo depois que parece que está tentando parar.[lr]::
+6016::$$$message_0053_0087_0002$$$::No momento em que levanto minha cabeça para tentar pegar algo para usar como arma...[lr]::
+6017::$$$message_0053_0087_0003$$$::"Acabou. Mas esse seu último movimento me surpreendeu, garoto."[lr]::
+6018::$$$message_0053_0087_0004$$$::O homem aponta sua lança na frente do meu rosto.::
+6019::$$$message_0053_0088_0000$$$::"..."[lr]::
+6020::$$$message_0053_0088_0001$$$::Eu não posso fazer mais nada agora.[lr]::
+6021::$$$message_0053_0088_0002$$$::Sua lança está apontada diretamente para o meu coração.[lr]::
+6022::$$$message_0053_0088_0003$$$::Eu conheço essa sensação.[lr]::
+6023::$$$message_0053_0088_0004$$$::É o cheiro da morte, assaltando minhas narinas, me lembrando da dor que senti algumas horas atrás.::
+6024::$$$message_0053_0089_0000$$$::"Sinceramente, eu não entendo. Você é rápido de raciocínio, mas sua feitiçaria é uma merda completa. Você tem potencial, mas talvez seja jovem demais."::
+6025::$$$message_0053_0090_0000$$$::Eu não ouço a voz do homem.[lr]::
+6026::$$$message_0053_0090_0001$$$::Minha atenção está focada na arma apontada para mim.[lr]::
+6027::$$$message_0053_0090_0002$$$::Obviamente.[lr]::
+6028::$$$message_0053_0090_0003$$$::No momento em que ele atacar, estou morto.[lr]::
+6029::$$$message_0053_0090_0004$$$::O que mais há para pensar a esta altura?::
+6030::$$$message_0053_0091_0000$$$::"Duvido, mas talvez você fosse o sétimo.[lr]::
+6031::$$$message_0053_0091_0001$$$::De qualquer forma, este é o fim para você."[lr]::
+6032::$$$message_0053_0091_0002$$$::Seu braço se move.[lr]::
+6033::$$$message_0053_0091_0003$$$::Eu não consegui ver seus movimentos antes, mas agora vejo cada um deles em câmera lenta.::
+6034::$$$message_0053_0092_0000$$$::Há um feixe de luz prateada.[lr]::
+6035::$$$message_0053_0092_0001$$$::A ponta parece estar sendo atraída para o meu coração.[lr]::
+6036::$$$message_0053_0092_0002$$$::Sangue vai jorrar da ferida em apenas um segundo...[lr]::
+6037::$$$message_0053_0092_0003$$$::Eu conheço essa sensação.[lr]::
+6038::$$$message_0053_0092_0004$$$::Aquela sensação de ferro perfurando meu corpo.[lr]::
+6039::$$$message_0053_0092_0005$$$::Aquele gosto de sangue que vai subir pela minha garganta.[lr]::
+6040::$$$message_0053_0092_0006$$$::Aquela sensação do mundo ao meu redor desaparecendo. [lr]::
+6041::$$$message_0053_0092_0007$$$::Eu experimentei tudo isso hoje cedo.[lr]::
+6042::$$$message_0053_0092_0008$$$::E agora vou ter que experimentar de novo? Sério?[lr]::
+6043::$$$message_0053_0092_0009$$$::Eu não entendo. Por que eu tenho que ser o único a passar por isso?::
+6044::$$$message_0053_0093_0000$$$::Isso é palhaçada.[lr]::
+6045::$$$message_0053_0093_0001$$$:: Não. Eu não posso morrer em vão em um lugar como este.[lr]::
+6046::$$$message_0053_0093_0002$$$::Eu fui salvo. Se eu fui salvo, não posso simplesmente morrer assim.[lr]::
+6047::$$$message_0053_0093_0003$$$::Eu preciso viver para cumprir minhas obrigações. Não serei capaz de fazer isso se estiver morto.::
+6048::$$$message_0053_0094_0000$$$::A lança ainda vai me empalar.[lr]::
+6049::$$$message_0053_0094_0001$$$::A ponta vai rasgar minha carne, quebrar minhas costelas, e perfurar meu coração.::
+6050::$$$message_0053_0095_0000$$$::[font italic=true]...[font italic=false][lr]::
+6051::$$$message_0053_0095_0001$$$::Estou com raiva.[lr]::
+6052::$$$message_0053_0095_0002$$$::Não deveria ser tão fácil matar pessoas assim.[lr]::
+6S53::$$$message_0053_0095_0003$$$::Eu vou morrer, e isso é palhaçada.[lr]::
+6054::$$$message_0053_0095_0004$$$::Eu vou morrer duas vezes em um único dia.[lr]::
+6055::$$$message_0053_0095_0005$$$::[font italic=true]Tudo[font italic=false] é uma palhaçada! Eu vou morrer e nem tive a oportunidade de ter [font italic=true]medo[font italic=false] dessa bagunça toda!::
+6056::$$$message_0053_0096_0000$$$::"Nem fodendo! Eu...!"[lr]::
+6057::$$$message_0053_0096_0001$$$::Eu não vou me deixar...[lr]::
+6058::$$$message_0053_0096_0002$$$::...morrer sem sentido...[lr]::
+6059::$$$message_0053_0096_0003$$$::...para gente como VOCÊ!!!!!!::
+6060::$$$message_0053_0097_0000$$$::"Eh?"[lr]::
+6061::$$$message_0053_0097_0001$$$::"Eh?" é absolutamente a palavra certa para este momento.[lr]::
+6062::$$$message_0053_0097_0002$$$::"O quê...!?"[lr]::
+6063::$$$message_0053_0097_0003$$$::Como mágica...::
+6064::$$$message_0053_0098_0000$$$::Uma figura aparece de uma luz brilhante que brilha atrás de mim.[lr]::
+6065::$$$message_0053_0098_0001$$$::Eu não consigo pensar.[lr]::
+6066::$$$message_0053_0098_0002$$$::Tudo o que sei é que a figura é uma garota.::
+6067::$$$message_0053_0099_0000$$$::Eu ouço um som agudo.[lr]::
+6068::$$$message_0053_0099_0001$$$::E no momento em que a figura aparece, ela afasta a lança pressionada contra meu coração, e se coloca entre mim e o homem sem perder o ritmo.[lr]::
+6069::$$$message_0053_0099_0002$$$::"Você está de [font italic=true]brincadeira!?[font italic=false] O sétimo Servo!?"[lr]::
+6070::$$$message_0053_0099_0003$$$::Ele tenta recuperar a compostura depois que sua lança é afastada enquanto a garota brande... [font italic=true]algo[font italic=false] em sua mão.::
+6071::$$$message_0053_0100_0000$$$::Faíscas voam.[lr]::
+6072::$$$message_0053_0100_0001$$$::Metal duro se choca e faíscas voam novamente.[lr]::
+6073::$$$message_0053_0100_0002$$$::O homem bate o pé depois de bloquear o ataque da mulher.[lr]::
+6074::$$$message_0053_0100_0003$$$::"Kngh!"[lr]::
+6075::$$$message_0053_0100_0004$$$::Ele deve ter percebido que está em desvantagem, porque ele salta para fora do depósito com agilidade bestial.[lr]::
+6076::$$$message_0053_0100_0005$$$::Ela deve intimidá-lo, mas ela se vira silenciosamente para mim.::
+6077::$$$message_0053_0101_0000$$$::O vento está forte hoje.[lr]::
+6078::$$$message_0053_0101_0001$$$::As nuvens se afastam e a lua brilha por um breve instante.[lr]::
+6079::$$$message_0053_0101_0002$$$::O luar prateado brilha dentro do galpão, iluminando a garota, que parece uma cavaleira.::
+6080::$$$message_0053_0102_0000$$$::[font italic=true]...[font italic=false][lr]::
+6081::$$$message_0053_0102_0001$$$::Estou sem palavras.[lr]::
+6082::$$$message_0053_0102_0002$$$::E não é porque estou confuso com todas as coisas que acabaram de acontecer.[lr]::
+6083::$$$message_0053_0102_0003$$$::A garota diante de mim é tão espantosamente bonita que fico sem palavras.::
+6084::$$$message_0053_0103_0000$$$::[font italic=true]...[font italic=false][lr]::
+6085::$$$message_0053_0103_0001$$$::Os olhos da garota, como joias preciosas, me encaram sem emoção.[lr]::
+6086::$$$message_0053_0103_0002$$$::"Eu lhe pergunto, você é meu Mestre?"[lr]::
+6087::$$$message_0053_0103_0003$$$::Sua voz soa tão... valente.::
+6088::$$$message_0053_0104_0000$$$::"Eh... Mes... tre?"[lr]::
+6089::$$$message_0053_0104_0001$$$::Eu só consigo repetir suas palavras de volta para ela.[lr]::
+6090::$$$message_0053_0104_0002$$$::Eu não entendo o que ela está dizendo, nem sei quem ela é.[lr]::
+6091::$$$message_0053_0104_0003$$$::Tudo o que sei é que esta garota esbelta e de aparência delicada é semelhante ao homem lá fora.::
+6092::$$$message_0053_0105_0000$$$::"..."[lr]::
+6093::$$$message_0053_0105_0001$$$::Ela não diz nada, continuando a me olhar em silêncio.[lr]::
+6094::$$$message_0053_0105_0002$$$::Eu não sei como descrevê-la...[lr]::
+6095::$$$message_0053_0105_0003$$$::Ela é... especial. Tão especial que esqueço totalmente o homem lá fora, mesmo que ele possa atacar a qualquer momento.::
+6096::$$$message_0053_0106_0000$$$::O tempo parece ter parado.[lr]::
+6097::$$$message_0053_0106_0001$$$::Até o medo da morte que senti momentos atrás desaparece, e há apenas a garota parada diante de mim.::
+6098::$$$message_0053_0107_0000$$$::"Serva, Saber. Eu vim em resposta à sua invocação.[lr]::
+6099::$$$message_0053_0107_0001$$$::"Mestre, por favor, me dê suas ordens."[lr]::
+6100::$$$message_0053_0107_0002$$$::É a segunda vez que ela fala.[lr]::
+6101::$$$message_0053_0107_0003$$$::E no momento em que ouço a palavra "Mestre", e o nome "Saber" ecoa em meus ouvidos...::
+6102::$$$message_0053_0108_0000$$$::"Ungh!"[lr]::
+6103::$$$message_0053_0108_0001$$$::A dor dispara pela minha mão esquerda.[lr]::
+6104::$$$message_0053_0108_0002$$$::Está quente, como se estivesse sendo marcado por um ferro.::
+6105::$$$message_0053_0109_0000$$$::Eu inconscientemente pressiono as costas da minha mão esquerda.[lr]::
+6106::$$$message_0053_0109_0001$$$::Tomando isso como um sinal, a garota silenciosamente acena com sua bela cabeça.::
+6107::$$$message_0053_0110_0000$$$::"De agora em diante, minha espada cria seu destino e nossos destinos estarão entrelaçados.[lr]::
+6108::$$$message_0053_0110_0001$$$::    E assim, nosso contrato está formado."::
+6109::$$$message_0053_0111_0000$$$::"O qu... contrato? Para quê!?"[lr]::
+6110::$$$message_0053_0111_0001$$$::Eu ainda sou um mago em treinamento, então entendo o que essas palavras significam.[lr]::
+6111::$$$message_0053_0111_0002$$$::Mas a garota não responde à minha pergunta; ela simplesmente desvia o olhar com a mesma graça que mostrou quando assentiu.::
+6112::$$$message_0053_0112_0000$$$::Ela se vira para a porta arruinada do galpão.[lr]::
+6113::$$$message_0053_0112_0001$$$::Lá fora, o homem prepara sua lança.::
+
