@@ -25,13 +25,13 @@ id=qid::label=str::text=lstr::
 27266::$$$message_0234_0006_0000$$$::O tempo parou.[lr]::
 27267::$$$message_0234_0006_0001$$$::Uma cena que provavelmente não durou sequer um segundo.[lr]::
 27268::$$$message_0234_0006_0002$$$::Mas...[lr]::
-27269::$$$message_0234_0006_0003$$$::Tenho certeza que, esta visão, certamente lembrarei vividamente mesmo se eu for mandado para o inferno.::
+27269::$$$message_0234_0006_0003$$$::Tenho certeza de que guardarei esta visão na alma, mesmo que eu seja lançado nas profundezas do inferno.
 27270::$$$message_0234_0007_0000$$$::O rosto ligeiramente virado.[lr]::
 27271::$$$message_0234_0007_0001$$$::Seus olhos verde puro plenamente calmos.[lr]::
 27272::$$$message_0234_0007_0002$$$::O instante que se torna uma eternidade.[lr]::
 27273::$$$message_0234_0007_0003$$$::Suas características vestes azuis balançam com o vento.::
 27274::$$$message_0234_0008_0000$$$::      [line4]Um fraco raio de luz azul adentra o galpão.[lr]::
-27275::$$$message_0234_0008_0001$$$::             O cabelo dourado brilha sob o luar.::
+27275::$$$message_0234_0008_0001$$$::             Seu cabelo dourado brilha sob o luar.::
 27276::$$$message_0234_0009_0000$$$::                                        Esta é uma história de dez anos atrás.::
 27277::$$$message_0234_0010_0000$$$::...alguém nostálgico.[lr]::
 27278::$$$message_0234_0010_0001$$$::Um homem alto de feições profundas, que, até onde sei, jamais contou uma piada, está acariciando a minha cabeça.[lr]::
@@ -39,7 +39,7 @@ id=qid::label=str::text=lstr::
 27280::$$$message_0234_0010_0003$$$::Acho que ele não sabe o quanto de força usar. Então, para ser mais precisa: ele está agarrando a minha cabeça e balançando-a para os lados.::
 27281::$$$message_0234_0011_0000$$$::Isto é de se esperar.[lr]::
 27282::$$$message_0234_0011_0001$$$::Afinal, esta é primeira vez que ele acariciou a minha cabeça.::
-27283::$$$message_0234_0012_0000$$$::"Então estou indo. Sabe o que fazer a partir daqui, certo?"::
+27283::$$$message_0234_0012_0000$$$::"Então, estou indo. Sabe o que fazer a partir daqui, certo?"::
 27284::$$$message_0234_0012_0001$$$::Eu respondi à voz profunda com um "sim" educado.[lr]::
 27285::$$$message_0234_0012_0002$$$::O homem acariciando a minha cabeça acena com a dele uma vez, me solta, e se levanta.::
 27286::$$$message_0234_0012_0003$$$::Então, era isso...[lr]::
@@ -64,7 +64,7 @@ id=qid::label=str::text=lstr::
 27305::$$$message_0234_0017_0000$$$::Novamente...[lr]::
 27306::$$$message_0234_0017_0001$$$::...ele acariciou minha cabeça, e partiu.[lr]::
 27307::$$$message_0234_0017_0002$$$::Esta foi a última vez.[lr]::
-27308::$$$message_0234_0017_0003$$$::A última vez que vi o homem que entrou na Guerra do Santo Graal como um Mestre e morreu. O homem que era meu professor e meu pai.::
+27308::$$$message_0234_0017_0003$$$::A última vez que vi o homem que entrou na Guerra do Santo Graal como um Mestre e morreu. O homem que era meu professor, e meu pai.::
 27309::$$$message_0234_0018_0000$$$::                                              "Se cuida, papai."::
 27310::$$$message_0234_0019_0000$$$::Despeço-me educadamente.[lr]::
 27311::$$$message_0234_0019_0001$$$::Sabia que estava à beira de chorar, mas não derramei lágrimas.::
@@ -116,9 +116,9 @@ id=qid::label=str::text=lstr::
 27357::$$$message_0234_0028_0001$$$::Eu encaro o despertador por vários segundos.[lr]::
 27358::$$$message_0234_0028_0002$$$::Desligando ele, decido levantar-me da cama.::
 27359::$$$message_0234_0029_0000$$$::Passando pelo corredor frio, eu entro na fria sala de estar.[lr]::
-27360::$$$message_0234_0029_0001$$$::São sete horas e é a última manhã de janeiro.[lr]::
+27360::$$$message_0234_0029_0001$$$::São sete horas, e é a última manhã de janeiro.[lr]::
 27361::$$$message_0234_0029_0002$$$::O inverno daqui de Fuyuki é geralmente bem quente, mas o frio desta manhã faz jus à estação do ano.[lr]::
-27362::$$$message_0234_0029_0003$$$::Consigo ver minha respiração até mesmo dentro de casa, mas pelo menos não tem mais ninguém em casa, então mais frio que isto não fica.::
+27362::$$$message_0234_0029_0003$$$::Consigo ver minha respiração até mesmo dentro de casa, mas pelo menos não tem mais ninguém por aqui, então mais frio que isto não fica.::
 27363::$$$message_0234_0030_0000$$$::"Aquecedor, aquecedor..."[lr]::
 27364::$$$message_0234_0030_0001$$$::Ligo o aquecedor e dirijo-me ao banheiro.[lr]::
 27365::$$$message_0234_0030_0002$$$::Nestas horas, viver sozinha é inconveniente.[lr]::
@@ -126,7 +126,7 @@ id=qid::label=str::text=lstr::
 27367::$$$message_0234_0031_0000$$$::Eu lavo o meu rosto na pia.[lr]::
 27368::$$$message_0234_0031_0001$$$::Escovo meus longos cabelos, e me arrumo.[lr]::
 27369::$$$message_0234_0031_0002$$$::Uma manhã fria, uma pia gelada.[lr]::
-27370::$$$message_0234_0031_0003$$$::Acho que a única vantagem seria a água gelada acabando completamente com o seu sono.::
+27370::$$$message_0234_0031_0003$$$::Acho que a única vantagem seria a água gelada acabando completamente com o sono.::
 27371::$$$message_0234_0032_0000$$$::Amarro a minha fita e estou pronta.[lr]::
 27372::$$$message_0234_0032_0001$$$::Tudo que tenho que fazer agora é tomar meu café da manhã e sair.[lr]::
 27373::$$$message_0234_0032_0002$$$::Olhando para o relógio, vejo que só se passou um pouco das sete, e sinto-me um pouco desapontada.::
@@ -246,8 +246,8 @@ id=qid::label=str::text=lstr::
 27487::$$$message_0234_0066_0001$$$::Enquanto bebemos chá quente, nos preparamos para as aulas de hoje.[lr]::
 27488::$$$message_0234_0066_0002$$$::Acompanhando o dojo deserto neste inverno, este chá quente torna-se realmente delicioso.::
 27489::$$$message_0234_0067_0000$$$::"Bom, eu vou direto ao ponto. Como está indo, Tohsaka? Já encontrou um parceiro confiável?"[lr]::
-27490::$$$message_0234_0067_0001$$$::E então,[lr]::
-27491::$$$message_0234_0067_0002$$$::como não tem ninguém por perto, Ayako vem na cara dura e me faz uma pergunta ridícula.::
+27490::$$$message_0234_0067_0001$$$::E então...[lr]::
+27491::$$$message_0234_0067_0002$$$::Como não tem ninguém por perto, Ayako vem na cara dura e me faz uma pergunta ridícula.::
 27492::$$$message_0234_0068_0000$$$::"Huh, esse é um jeito bem direto de se perguntar...[lr]::
 27493::$$$message_0234_0068_0001$$$::Julgando pelo tom da sua voz... Você já encontrou o seu?"[lr]::
 27494::$$$message_0234_0068_0002$$$::"Sem comentários. Eu vou manter isso em segredo até você me contar, Tohsaka. E então? Olhando para sua cara cansada, eu sinto que estou certa."::
@@ -275,7 +275,7 @@ id=qid::label=str::text=lstr::
 27516::$$$message_0234_0076_0000$$$::Ela ri.[lr]::
 27517::$$$message_0234_0076_0001$$$::Honestamente...[lr]::
 27518::$$$message_0234_0076_0002$$$::Ela está tão séria quanto a isso. Mitsuzuri Ayako é uma pessoa tão difícil de se lidar.::
-27519::$$$message_0234_0077_0000$$$::Apesar que... eu também mal posso esperar para ganhar da Ayako, então nenhuma de nós é uma pessoa com quem você quer ter que lidar.::
+27519::$$$message_0234_0077_0000$$$::Apesar que... eu também mal posso esperar para ganhar da Ayako, então nenhuma de nós é uma pessoa com quem seja bom lidar.::
 27520::$$$message_0234_0078_0000$$$::"Entendo. Mas, Mitsuzuri-san? Tudo bem se divertir, mas você tem que cuidar para não interpretar seus objetivos de forma errada. Você sabe que esse não é o único objetivo da competição, não sabe?"::
 27521::$$$message_0234_0079_0000$$$::"Eu sei. Eu não posso chamar isso de uma vitória completa a não ser que eu te derrote com um relacionamento do qual você realmente sinta inveja.[lr]::
 27522::$$$message_0234_0079_0001$$$::...Bom, esse é o maior problema para nós. Não importa o quão bom seja o garoto, não faz sentido se não formos capazes de amá-lo."::
@@ -306,7 +306,7 @@ id=qid::label=str::text=lstr::
 27547::$$$message_0234_0088_0000$$$::"Então, por que não entra para algum clube, Tohsaka? Não vou aceitar mentiras como não ter capacidade física. Ainda estou me doendo por ter perdido para você em todos os aspectos no exame físico do ano passado."::
 27548::$$$message_0234_0089_0000$$$::"Ué? Mas você ganhou de mim em capacidade pulmonar. E em peso também."[lr]::
 27549::$$$message_0234_0089_0001$$$::"Ahahaha! Isso mesmo, sou três quilos mais pesada do que você![lr]::
-27550::$$$message_0234_0089_0002$$$::...Ei... ser mais pesada não é algo para se ficar feliz, sua raposa!"[lr]::
+27550::$$$message_0234_0089_0002$$$::...Ei... ser mais pesada não é algo para se ficar feliz, sua Tanuki!"[lr]::
 27551::$$$message_0234_0089_0003$$$::Ela bate as mãos na mesa.::
 27552::$$$message_0234_0090_0000$$$::"Cuidado, você pode derrubar o chá, Mitsuzuri-san. Você é a capitã, tem que cuidar bem do dojo."[lr]::
 27553::$$$message_0234_0090_0001$$$::"Cala a boca. Sou sua rival antes de ser capitã deste lugar.[lr]::
@@ -344,7 +344,7 @@ id=qid::label=str::text=lstr::
 27585::$$$message_0234_0100_0002$$$::Esse cara sorridente é Matou Shinji, da turma 2-C.[lr]::
 27586::$$$message_0234_0100_0003$$$::Ele é o vice-capitão do Clube de Arco e Flecha e dono do coração de metade das garotas desta escola.::
 27587::$$$message_0234_0101_0000$$$::Um tipo de ídolo, boa aparência, boas notas, sociável, e gentil com as garotas.[lr]::
-27588::$$$message_0234_0101_0001$$$::Não sei muito sobre isso, e o que sei ouvi de colegas de classe.::
+27588::$$$message_0234_0101_0001$$$::Não sei muito sobre, e o que sei ouvi de colegas de classe.::
 27589::$$$message_0234_0102_0000$$$::"Mesmo? Sinto interromper o seu bom humor, mas está se esquecendo de uma palavra, Matou-kun. É uma palavra importante, então acho que você não deveria esquecê-la."[lr]::
 27590::$$$message_0234_0102_0001$$$::"Hm? Como assim esquecendo de uma palavra?"[lr]::
 27591::$$$message_0234_0102_0002$$$::"Está se esquecendo da palavra 'vice-', [font italic=true]vice-capitão[font italic=false]. Deveria tomar cuidado. Não faz diferença você ser o capitão ou o vice, mas se você insistir demais, as pessoas podem acabar pensando que está aflito com isso, não é mesmo?"::
@@ -356,7 +356,7 @@ id=qid::label=str::text=lstr::
 27597::$$$message_0234_0104_0001$$$::"Prefiro não ficar. Não quero interromper o treino."[lr]::
 27598::$$$message_0234_0104_0002$$$::"Não tem problema. Se alguém te incomodar simplesmente tiro essa pessoa daqui, então fique para assistir um pouco."[lr]::
 27599::$$$message_0234_0104_0003$$$::"...estou dizendo que não quero incomodar.[lr]::
-27600::$$$message_0234_0104_0004$$$::E além disso, não é como se eu estivesse interessada em arco e flecha.[lr]::
+27600::$$$message_0234_0104_0004$$$::E além disso, não é como se eu estivesse interessada em arco e flecha. [lr]::
 27601::$$$message_0234_0104_0005$$$::Não gosto de assistir pessoas que não conheço praticando."::
 27602::$$$message_0234_0105_0000$$$::"Hm? Como é, Tohsaka? Você não tem interesse algum em arco e flecha?[lr]::
 27603::$$$message_0234_0105_0001$$$::Uhm... Então é por isso que estava nos assistindo depois da aula até tarde."[lr]::
@@ -399,7 +399,7 @@ id=qid::label=str::text=lstr::
 27640::$$$message_0234_0120_0001$$$::Felizmente, ela não é a professora responsável pela minha turma.[lr]::
 27641::$$$message_0234_0120_0002$$$::Ela é a professora de inglês.[lr]::
 27642::$$$message_0234_0120_0003$$$::E embora tenha uma cara tão gentil, ela é faixa preta em kendo, e também ouvi dizer que era respeitada como a "Tigresa de Fuyuki" quando ainda era uma estudante.::
-27643::$$$message_0234_0121_0000$$$::Apesar que... isso é meio estranho.[lr]::
+27643::$$$message_0234_0121_0000$$$::Na verdade... isso é meio estranho.[lr]::
 27644::$$$message_0234_0121_0001$$$::Normalmente alguém apelidado de tigre deveria ser temido ao invés de respeitado?[lr]::
 27645::$$$message_0234_0121_0002$$$::Aparentemente de bom humor, ela se dirige ao dojo de arco e flecha.[lr]::
 27646::$$$message_0234_0121_0003$$$::Por algum motivo ela é responsável pelo clube de arco e flecha e não pelo clube de kendo.::
@@ -415,7 +415,7 @@ id=qid::label=str::text=lstr::
 27656::$$$message_0234_0124_0001$$$::O Presidente Estudantil faz uma cara descontente.[lr]::
 27657::$$$message_0234_0124_0002$$$::Por algum motivo parece que sou inimiga dele.[lr]::
 27658::$$$message_0234_0124_0003$$$::Eu realmente não sei o porquê.[lr]::
-27659::$$$message_0234_0124_0004$$$::Talvez seja porque eu tenha dito: "Ignore os templos, eles são chatos." em uma reunião para planejar uma viagem da escola.::
+27659::$$$message_0234_0124_0004$$$::Talvez seja porque eu tenha dito: "Ignore os templos, eles são chatos.", em uma reunião para planejar uma viagem da escola.::
 27660::$$$message_0234_0125_0000$$$::"Permita-me fazer uma pergunta. Você tem ficado na escola até tarde da noite recentemente, Tohsaka?"[lr]::
 27661::$$$message_0234_0125_0001$$$::"Não. Você deveria saber que eu sempre vou embora direto, Ryuudou-kun."[lr]::
 27662::$$$message_0234_0125_0002$$$::"Mas é claro. Esse é meu trabalho como presidente estudantil, naturalmente sei sobre todos."::
@@ -431,7 +431,7 @@ id=qid::label=str::text=lstr::
 27672::$$$message_0234_0128_0002$$$::"Eu sei disso. Por isso pretendia lidar com esse assunto eu mesmo."::
 27673::$$$message_0234_0129_0000$$$::"Issei, os reparos estão feitos."[lr]::
 27674::$$$message_0234_0129_0001$$$::[line4]E então...[lr]::
-27675::$$$message_0234_0129_0002$$$::Aparece um garoto que não esperava encontrar aqui.::
+27675::$$$message_0234_0129_0002$$$::Aparece um garoto que eu não esperava encontrar aqui.::
 27676::$$$message_0234_0130_0000$$$::"Ah, desculpe. Eu que pedi o favor e acabei deixando tudo para você, Emiya. Perdoe-me."[lr]::
 27677::$$$message_0234_0130_0001$$$::"Não se preocupe com isso. Então, onde fica o próximo? Não temos muito tempo."[lr]::
 27678::$$$message_0234_0130_0002$$$::"Sim, o próximo fica na sala de AV. Parece que está com mau funcionamento já faz um tempo, e ele finalmente morreu."[lr]::
@@ -497,7 +497,7 @@ id=qid::label=str::text=lstr::
 27738::$$$message_0234_0153_0000$$$::De qualquer modo, não é bom para a Saegusa-san ficar vendo isso.[lr]::
 27739::$$$message_0234_0153_0001$$$::Ela está entrando em pânico vendo a Makidera continuamente falando mal de mim.::
 27740::$$$message_0234_0154_0000$$$::"Não se preocupe, Saegusa-san.[lr]::
-27741::$$$message_0234_0154_0001$$$::E Makidera-san? Fui eu quem pagou, e foram crepes, não taiyaki. Você devia dar um jeito nesse seu hábito de mudar inconscientemente alterar os fatos, ou eu posso ter que reconsiderar da próxima vez, okay?"[lr]::
+27741::$$$message_0234_0154_0001$$$::E Makidera-san? Fui eu quem pagou, [l][r]e foram crepes, não taiyaki. Você devia dar um jeito nesse seu hábito de mudar inconscientemente alterar os fatos, ou eu posso ter que reconsiderar da próxima vez, okay?"[lr]::
 27742::$$$message_0234_0154_0002$$$::"Geh. Aquele sorriso é realmente assustador."[lr]::
 27743::$$$message_0234_0154_0003$$$::A Makidera se esconde atrás da tampa da sua lancheira.[lr]::
 27744::$$$message_0234_0154_0004$$$::Dando adeus para as três, eu saio da sala.::
@@ -505,19 +505,19 @@ id=qid::label=str::text=lstr::
 27746::$$$message_0234_0155_0001$$$::E então...[lr]::
 27747::$$$message_0234_0155_0002$$$::"Cara, qual é! Não tem tanta diferença entre um crepe e um taiyaki, os dois são só doces embrulhados em uma massa!"[lr]::
 27748::$$$message_0234_0155_0003$$$::...ouço a Makidera falar algo que garota alguma jamais deveria dizer.::
-27749::$$$message_0234_0156_0000$$$::"Ta-taiyaki e crepe... a mesma coisa...!?"[lr]::
+27749::$$$message_0234_0156_0000$$$::"T-Taiyaki e crepe... a mesma coisa...!?"[lr]::
 27750::$$$message_0234_0156_0001$$$::Ela é mesmo uma garota? Doces são todos iguais pra ela?[lr]::
 27751::$$$message_0234_0156_0002$$$::Talvez ela simplesmente tenha papilas gustativas convenientes que são incapazes de diferenciar um crepe de 500 ienes de um taiyaki de 80 ienes...![lr][r]Maldita Makidera Kaede... poderia ter economizado 420 ienes se eu só tivesse te comprado um taiyaki...!::
 27752::$$$message_0234_0157_0000$$$::"...por que estou me irritando com isso?"[lr]::
 27753::$$$message_0234_0157_0001$$$::Acho que ainda estou cansada de ontem à noite.[lr]::
-27754::$$$message_0234_0157_0002$$$::Comer na cafeteria seria muito empenho, então vou só pegar uma bebida e um pão para comer na cobertura.::
+27754::$$$message_0234_0157_0002$$$::Comer na cafeteria seria muito cansativo, então vou só pegar uma bebida e um pão para comer na cobertura.::
 27755::$$$message_0234_0158_0000$$$::Compro meu almoço e vou para a cobertura vazia.[lr]::
 27756::$$$message_0234_0158_0001$$$::É um lugar conveniente já que nenhum aluno se aproxima de lá no inverno.[lr]::
 27757::$$$message_0234_0158_0002$$$::É simplesmente frio demais para comer aqui, mas um preço justo a se pagar se for conseguir almoçar sem precisar me preocupar com outras pessoas.::
 27758::$$$message_0234_0159_0000$$$::"Bom, o almoço vem primeiro."[lr]::
 27759::$$$message_0234_0159_0001$$$::Começo a comer meu sanduíche de tomate e a beber minha limonada quente.[lr]::
 27760::$$$message_0234_0159_0002$$$::É um almoço simples, mas conseguir comê-lo neste lugar pacífico deixa-o delicioso.::
-27761::$$$message_0234_0160_0000$$$::"[line5]Phew."[lr]::
+27761::$$$message_0234_0160_0000$$$::"[line5]Ufa."[lr]::
 27762::$$$message_0234_0160_0001$$$::Termino meu sanduíche e bebo minha limonada quente para umedecer meus lábios.[lr]::
 27763::$$$message_0234_0160_0002$$$::Estou um pouco cansada...[lr]::
 27764::$$$message_0234_0160_0003$$$::É difícil manter o equilíbrio entre evitar socializar e ser uma estudante prestigiada.::
@@ -542,7 +542,7 @@ id=qid::label=str::text=lstr::
 27783::$$$message_0234_0167_0001$$$::"Sim. Aconteceu uma coisa entre mim e o Matou-kun esta manhã, então irei embora antes que se torne um problema."[lr]::
 27784::$$$message_0234_0167_0002$$$::"Haha, bem que eu desconfiava. O Matou estava de bem mal humorado esta manhã, imaginei você fosse a causa."[lr]::
 27785::$$$message_0234_0167_0003$$$::"Entendo. Te causei algum problema, Mitsuzuri-san?"[lr]::
-27786::$$$message_0234_0167_0004$$$::"O Matou atormentar calouros não é coisa nova, e acho que esse tipo de coisa vai ser um bom treino mental para ele. "::
+27786::$$$message_0234_0167_0004$$$::"Que nada, o Matou atormentar calouros não é coisa nova, e acho que esse tipo de coisa vai ser um bom treino mental para ele. "::
 27787::$$$message_0234_0168_0000$$$::"Entendo, que bom. Farei algo para compensar isso alguma outra hora."[lr]::
 27788::$$$message_0234_0168_0001$$$::"Tudo bem. Não ligue para isso e venha de novo!"::
 27789::$$$message_0234_0169_0000$$$::Vou direto para casa.[lr]::
@@ -605,7 +605,7 @@ id=qid::label=str::text=lstr::
 27845::$$$message_0234_0185_0004$$$::Já que esta vai ser minha primeira e última chance, eu não posso cometer erros.::
 27846::$$$message_0234_0186_0000$$$::"[line3]Recue perante a destruição, encrave os quatro extremos e crie o círculo de invocação à sua volta... certo."::
 27847::$$$message_0234_0187_0000$$$::Eu encravo o círculo no chão do porão.[lr]::
-27848::$$$message_0234_0187_0001$$$::Você não precisa de um ritual de larga escala para invocar um Servo.[lr]::
+27848::$$$message_0234_0187_0001$$$::Não é necessário um ritual de larga escala para invocar um Servo.[lr]::
 27849::$$$message_0234_0187_0002$$$::Servos são convocados pelo Santo Graal.[lr]::
 27850::$$$message_0234_0187_0003$$$::Como a prioridade do Mestre é manter o Servo neste mundo fornecendo-o suficiente energia mágica, o Santo Graal cuida da invocação.::
 27851::$$$message_0234_0188_0000$$$::"Base de ferro e prata. Pedra como fundação e o Grão-Duque dos contratos. Como ancestral, meu grande mestre Schweinorg.[lr]::
@@ -767,7 +767,7 @@ id=qid::label=str::text=lstr::
 28008::$$$message_0234_0228_0003$$$::Posiciono-me para atacar dependendo de sua resposta.::
 28009::$$$message_0234_0229_0000$$$::"[line3]Você é uma senhorita persistente. Não chegaremos a lugar algum deste jeito.[lr]::
 28010::$$$message_0234_0229_0001$$$::Acho que não tem jeito. Vamos dizer que eu seja seu Servo. Nesse caso, seria você a minha Mestra? Só hipoteticamente."::
-28011::$$$message_0234_0230_0000$$$::"C-claro...! Se você é o Servo invocado por mim, quem seria sua Mestra além de mim...?!"[lr]::
+28011::$$$message_0234_0230_0000$$$::"C-Claro...! Se você é o Servo invocado por mim, quem seria sua Mestra além de mim...?!"[lr]::
 28012::$$$message_0234_0230_0001$$$::De algum jeito esfrio minha cabeça e encaro este cara rude.::
 28013::$$$message_0234_0231_0000$$$::"Ah, entendo. Bom, vamos supor que isso seja verdade.[lr]::
 28014::$$$message_0234_0231_0001$$$::Então, onde está a prova de que você é a minha Mestra?"[lr]::
@@ -783,7 +783,7 @@ id=qid::label=str::text=lstr::
 28024::$$$message_0234_0233_0002$$$::O Servo na mobília parece confuso, e então...[lr]::
 28025::$$$message_0234_0233_0003$$$::"Haa... Está falando sério, senhorita?"[lr]::
 28026::$$$message_0234_0233_0004$$$::...seu rosto enche-se de descontentamento.::
-28027::$$$message_0234_0234_0000$$$::"O-o que quer dizer com isso?"[lr]::
+28027::$$$message_0234_0234_0000$$$::"O-O que quer dizer com isso?"[lr]::
 28028::$$$message_0234_0234_0001$$$::"Estou falando do seu modo de pensar. Então você é uma Mestra por ter um Selo de Comando? Um Selo de Comando é apenas uma ferramenta que governa o Servo.[lr]::
 28029::$$$message_0234_0234_0002$$$::Fala sério... Você age como um Mestre só por causa disso?[lr]::
 28030::$$$message_0234_0234_0003$$$::O que eu queria ver é, se você é digna da minha jura de lealdade."::
@@ -846,7 +846,7 @@ id=qid::label=str::text=lstr::
 28087::$$$message_0234_0253_0001$$$::É isso que significa obediência incondicional. Coisas que o próprio Servo é incapaz, são as três cristalizações de uma grande taumaturgia que permite-o até mesmo superar os limites de seu próprio corpo. Bom, apenas duas agora."::
 28088::$$$message_0234_0254_0000$$$::"E-eu sei disso. Não tem problema, ainda temos dois, e a ordem que te dei também não é inútil."::
 28089::$$$message_0234_0255_0000$$$::"Bom... isto foi certamente um engano meu.[lr]::
-28090::$$$message_0234_0255_0001$$$::O Selo de Comando não são tão eficazes em ordens amplas demais.[lr]::
+28090::$$$message_0234_0255_0001$$$::Os Selos de Comando não são tão eficazes em ordens amplas demais.[lr]::
 28091::$$$message_0234_0255_0002$$$::Ordens amplas e duradouras como 'proteja-me durante a guerra' e 'vença esta batalha' têm seus efeitos enfraquecidos. A ordem durará por um bom tempo, mas como a dor é pouca, alguns Servos serão capazes de desobedecê-los."::
 28092::$$$message_0234_0256_0000$$$::"Em contraste, uma única e simples ordem como 'dê tudo de si no próximo golpe' ou 'não quebre aquele vidro' é absoluta. Até mesmo o Servo mais poderoso terá dificuldade para desobedecê-la.[lr]::
 28093::$$$message_0234_0256_0001$$$::...então, acho que deste jeito consegue imaginar o que eu gostaria de dizer, Mestra."::
