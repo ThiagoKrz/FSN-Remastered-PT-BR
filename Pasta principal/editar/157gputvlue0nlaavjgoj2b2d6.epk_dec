@@ -1,86 +1,85 @@
 DAT
 id=qid::label=str::text=lstr::
-6455::$$$message_0055_0000_0000$$$::Eu não vou fugir.[lr]::
-6456::$$$message_0055_0000_0001$$$::Para ser honesto, toda essa Guerra do Santo Graal e coisas de Mestre não parecem reais para mim.[lr]::
-6457::$$$message_0055_0000_0002$$$::Mas se minhas únicas escolhas são lutar ou fugir, eu nunca vou fugir.[lr]::
-6458::$$$message_0055_0000_0003$$$::Até o padre me disse...[lr]::
-6459::$$$message_0055_0000_0004$$$::...que eu deveria estar preparado se sou um mago. ::
-6460::$$$message_0055_0001_0000$$$::É por isso que preciso decidir.[lr]::
-6461::$$$message_0055_0001_0001$$$::Shirou Emiya é um mago, mesmo que ainda não seja um completo.[lr]::
-6462::$$$message_0055_0001_0002$$$::Eu sempre admirei Kiritsugu Emiya, e decidi seguir seus passos para ser um herói da justiça, então eu preciso...::
-6463::$$$message_0055_0002_0000$$$::"...Eu vou lutar como um Mestre.[lr]::
-6464::$$$message_0055_0002_0001$$$::"Se você está me dizendo que a causa do incêndio de dez anos atrás foi a Guerra do Santo Graal, então não posso deixar algo assim acontecer de novo."::
-6465::$$$message_0055_0003_0000$$$::O padre me dá um sorriso satisfeito, como se gostasse da minha resposta.::
+6455::$$$message_0055_0000_0000$$$::I'm not going to run away.[lr]::
+6456::$$$message_0055_0000_0001$$$::To be honest, all this Holy Grail War and Master stuff doesn't feel real to me.[lr]::
+6457::$$$message_0055_0000_0002$$$::But if my only choices are to fight or run, I'll never run away.[lr]::
+6458::$$$message_0055_0000_0003$$$::Even the priest told me...[lr]::
+6459::$$$message_0055_0000_0004$$$::...that I should be prepared if I'm a mage. ::
+6460::$$$message_0055_0001_0000$$$::That's why I need to decide.[lr]::
+6461::$$$message_0055_0001_0001$$$::Shirou Emiya is a mage, even if not yet a full-fledged one.[lr]::
+6462::$$$message_0055_0001_0002$$$::I've always admired Kiritsugu Emiya, and I decided to follow in his footsteps to be a champion of justice, so I need to...::
+6463::$$$message_0055_0002_0000$$$::"...I will fight as a Master.[lr]::
+6464::$$$message_0055_0002_0001$$$::If you're telling me that the cause of the fire ten years ago was the Holy Grail War, then I can't let something like that happen again."::
+6465::$$$message_0055_0003_0000$$$::The priest gives me a satisfied smile, as if he likes my answer.::
 6466::$$$message_0055_0004_0000$$$::[font italic=true]...[font italic=false][lr]::
-6467::$$$message_0055_0004_0001$$$::Eu respiro fundo.[lr]::
-6468::$$$message_0055_0004_0002$$$::Eu parei de hesitar.[lr]::
-6469::$$$message_0055_0004_0003$$$::Um homem disse que vai lutar.[lr]::
-6470::$$$message_0055_0004_0004$$$::A única coisa a fazer de agora em diante é avançar, de cabeça erguida, para que eu possa viver de acordo com isso.::
-6471::$$$message_0055_0005_0000$$$::"Então eu o reconhecerei como Mestre da Saber.[lr]::
-6472::$$$message_0055_0005_0001$$$::"E a partir deste momento, a Guerra do Santo Graal foi aceita.[lr]::
-6473::$$$message_0055_0005_0002$$$::"De agora em diante, até que reste apenas um Mestre, batalhas de feitiçaria são permitidas. Cada participante deve colocar seus esforços totais na competição, de acordo com seus próprios princípios."::
-6474::$$$message_0055_0006_0000$$$::A voz do padre ecoa pesadamente pela capela.[lr]::
-6475::$$$message_0055_0006_0001$$$::A declaração é totalmente sem sentido.[lr]::
-6476::$$$message_0055_0006_0002$$$::Apenas Tohsaka e eu estamos aqui para ouvi-la, de qualquer maneira.[lr]::
-6477::$$$message_0055_0006_0003$$$::Ele apenas tocou um sino metafórico para dar início às coisas como uma formalidade, eu acho.::
-6478::$$$message_0055_0007_0000$$$::"Então é isso. Mas antes de ir para casa, se importa de responder a uma pergunta, Kirei?"[lr]::
-6479::$$$message_0055_0007_0001$$$::"Eu não me importo. Esta pode ser a última. Então tentarei responder o máximo que puder."::
-6480::$$$message_0055_0008_0000$$$::"Então, sem restrições. Já que você é o supervisor, provavelmente tem informações sobre todos os outros Mestres. Estou seguindo as regras da Associação, então você deve ser capaz de divulgar isso para mim."::
-6481::$$$message_0055_0009_0000$$$::"Bem, não tenho certeza do que fazer. Eu realmente quero lhe dizer, mas na verdade não sei os detalhes.[lr]::
-6482::$$$message_0055_0009_0001$$$::"O que eu sei é que não há muitos magos legítimos desta vez, como é o caso de Shirou Emiya. Eu só conheço dois Mestres. Ou melhor, com a inclusão de Shirou Emiya, eu conheço três."::
-6483::$$$message_0055_0010_0000$$$::"É mesmo? Mas você pelo menos sabe a ordem em que os Servos foram invocados.[lr]::
-6484::$$$message_0055_0010_0001$$$::"Você [font italic=true]é[font italic=false] o supervisor."[lr]::
-6485::$$$message_0055_0010_0002$$$::"Hm. Bem, o primeiro foi Berserker. O segundo foi Caster. Não houve muita diferença depois disso. Archer foi invocado alguns dias atrás, enquanto Saber foi invocada algumas horas atrás."::
-6486::$$$message_0055_0011_0000$$$::"Entendo. Então isso significa..."[lr]::
-6487::$$$message_0055_0011_0001$$$::"Significa que a Guerra do Santo Graal começou oficialmente.[lr]::
-6488::$$$message_0055_0011_0002$$$::"Rin. Até que a Guerra do Santo Graal termine, você não tem permissão para pôr os pés nesta igreja. A única vez que você será permitida será..."::
-6489::$$$message_0055_0012_0000$$$::"Se eu perdesse meu Servo e pedisse santuário, certo? Caso contrário, seremos penalizados se procurarmos sua ajuda."::
-6490::$$$message_0055_0013_0000$$$::"Correto. É provável que você vença, mas a Igreja não ignoraria simplesmente quaisquer marcas contra você. Eles não hesitarão em tomar o Santo Graal de você por qualquer motivo idiota. Esse seria o pior resultado possível para mim."[lr]::
-6491::$$$message_0055_0013_0001$$$::"Você é um maldito padre fraudulento. Um homem da Igreja do lado da Associação de Magos."::
-6492::$$$message_0055_0014_0000$$$::"Eu simplesmente sirvo a Deus. Eu não sirvo à Igreja."[lr]::
-6493::$$$message_0055_0014_0001$$$::"Ouça só você. É por isso que você é uma fraude."::
-6494::$$$message_0055_0015_0000$$$::Tohsaka vira as costas para o padre.[lr]::
-6495::$$$message_0055_0015_0001$$$::Sem dizer adeus, ela segue em direção à saída.::
-6496::$$$message_0055_0016_0000$$$::"Ei, isso... está tudo bem, Tohsaka? Ele não é seu sênior? Você não deveria..."[lr]::
-6497::$$$message_0055_0016_0001$$$::Ela não deveria ter... um pouco mais a dizer do que isso?::
-6498::$$$message_0055_0017_0000$$$::"Está tudo bem. Na verdade, estou aliviada por poder cortar os laços com ele de uma vez por todas. Você deveria sair daqui também. Você não tem mais negócios aqui."[lr]::
-6499::$$$message_0055_0017_0001$$$::Tohsaka atravessa a capela sem parar, e sai da igreja.::
-6500::$$$message_0055_0018_0000$$$::Eu suspiro, e sigo Tohsaka.[lr]::
-6501::$$$message_0055_0018_0001$$$::Mas então.[lr]::
+6467::$$$message_0055_0004_0001$$$::I take a deep breath.[lr]::
+6468::$$$message_0055_0004_0002$$$::I'm done wavering.[lr]::
+6469::$$$message_0055_0004_0003$$$::A man has said he's going to fight.[lr]::
+6470::$$$message_0055_0004_0004$$$::The only thing to do from now on is move forward, head held high, so I can live up to that.::
+6471::$$$message_0055_0005_0000$$$::"Then I shall acknowledge you as Saber's Master.[lr]::
+6472::$$$message_0055_0005_0001$$$::And as of this moment, the Holy Grail War has been accepted.[lr]::
+6473::$$$message_0055_0005_0002$$$::From here on, until only one Master remains, magecraft battles are permitted. Each participant shall put their full efforts into the competition, in accordance with their own principles."::
+6474::$$$message_0055_0006_0000$$$::The priest's voice echoes heavily through the chapel.[lr]::
+6475::$$$message_0055_0006_0001$$$::The declaration is utterly meaningless.[lr]::
+6476::$$$message_0055_0006_0002$$$::Only Tohsaka and I are here to hear it anyway.[lr]::
+6477::$$$message_0055_0006_0003$$$::He just rang a metaphorical bell to kick things off as a formality, I guess.::
+6478::$$$message_0055_0007_0000$$$::"Then that's that. But before I go home, care to answer a question, Kirei?"[lr]::
+6479::$$$message_0055_0007_0001$$$::"I don't mind. This may be the final one. So I shall try to answer as much as I can."::
+6480::$$$message_0055_0008_0000$$$::"Then no holds barred. Since you're the overseer, you probably have information on all the other Masters. I'm following the Association's rules, so you should be able to disclose that to me."::
+6481::$$$message_0055_0009_0000$$$::"Well, I'm not sure what to do. I really do want to tell you, but I actually do not know the details.[lr]::
+6482::$$$message_0055_0009_0001$$$::What I do know is that there aren't many legitimate mages this time around, as is the case with Shirou Emiya. I only know two Masters. Or rather, with the inclusion of Shirou Emiya, I know three."::
+6483::$$$message_0055_0010_0000$$$::"Is that so? But you at least know the order the Servants were summoned in.[lr]::
+6484::$$$message_0055_0010_0001$$$::You [font italic=true]are[font italic=false] the overseer."[lr]::
+6485::$$$message_0055_0010_0002$$$::"Hm. Well, the first was Berserker. The second was Caster. There was not much difference after that. Archer was summoned a few days back, while Saber was summoned a few hours ago."::
+6486::$$$message_0055_0011_0000$$$::"I see. Then that means..."[lr]::
+6487::$$$message_0055_0011_0001$$$::"It means the Holy Grail War has officially started.[lr]::
+6488::$$$message_0055_0011_0002$$$::Rin. Until the Holy Grail War concludes, you are not permitted to set foot in this church. The only time you will be allowed would be..."::
+6489::$$$message_0055_0012_0000$$$::"If I lost my Servant and asked for sanctuary, right? Otherwise we'll get penalized if we seek for your help."::
+6490::$$$message_0055_0013_0000$$$::"Correct. You are likely to win, but the Church would not simply ignore any marks against you. They will not hesitate to take the Holy Grail from you for whatever asinine reason. That would be the worst possible outcome for me."[lr]::
+6491::$$$message_0055_0013_0001$$$::"You're such a freaking fraud of a priest. A man from the Church siding with the Mage's Association."::
+6492::$$$message_0055_0014_0000$$$::"I simply serve God. I do not serve the Church."[lr]::
+6493::$$$message_0055_0014_0001$$$::"Listen to you. This is why you're a fraud."::
+6494::$$$message_0055_0015_0000$$$::Tohsaka turns her back on the priest.[lr]::
+6495::$$$message_0055_0015_0001$$$::Without saying goodbye, she makes her way toward the exit.::
+6496::$$$message_0055_0016_0000$$$::"Hey, is that...okay to do, Tohsaka? Isn't he your senior? Shouldn't you..."[lr]::
+6497::$$$message_0055_0016_0001$$$::Shouldn't she have...a little more to say than that?::
+6498::$$$message_0055_0017_0000$$$::"It's fine. I'm actually relieved that I can sever ties with him once and for all. You should get out of here too. You don't have any more business here."[lr]::
+6499::$$$message_0055_0017_0001$$$::Tohsaka cuts through the chapel without stopping, and leaves the church.::
+6500::$$$message_0055_0018_0000$$$::I sigh, and follow Tohsaka.[lr]::
+6501::$$$message_0055_0018_0001$$$::But then.[lr]::
 6502::$$$message_0055_0018_0002$$$::"Gh[line2]!?"[lr]::
-6503::$$$message_0055_0018_0003$$$::Eu sinto algo e me viro.[lr]::
-6504::$$$message_0055_0018_0004$$$::Não sei quando ele alcançou, mas o padre está logo atrás de mim, olhando para mim.::
-6505::$$$message_0055_0019_0000$$$::"O-o quê? Você tem mais alguma coisa a me dizer?"[lr]::
-6506::$$$message_0055_0019_0001$$$::Estou falando grosso, mas dou um passo para trás.[lr]::
-6507::$$$message_0055_0019_0002$$$::...Esse padre me assusta pra caramba.[lr]::
-6508::$$$message_0055_0019_0003$$$::Eu não sei o que é. Talvez ele simplesmente não me agrade. Seja o que for, não consigo gostar dele.::
-6509::$$$message_0055_0020_0000$$$::"Vou para casa se você não tem nada!"[lr]::
-6510::$$$message_0055_0020_0001$$$::Eu sigo para a saída, tentando escapar de seu olhar.::
-6511::$$$message_0055_0021_0000$$$::Mas naquele momento...[lr]::
-6512::$$$message_0055_0021_0001$$$::"Alegre-se, meu rapaz. Seu desejo finalmente se tornará realidade."[lr]::
-6513::$$$message_0055_0021_0002$$$::O padre fala como se fosse algum tipo de oráculo divino.::
-6514::$$$message_0055_0022_0000$$$::Essas palavras...[lr]::
-6515::$$$message_0055_0022_0001$$$::Não são um reflexo dos meus verdadeiros sentimentos[line2]as verdadeiras intenções de Shirou Emiya[line2]das quais eu nem estava ciente?::
-6516::$$$message_0055_0023_0000$$$::"O que você está dizendo?"[lr]::
-6517::$$$message_0055_0023_0001$$$::"Tenho certeza que você já sabe. Sem um mal para lutar, seu desejo nunca será concedido. Mesmo que você não queira admitir, um herói da justiça requer um vilão para derrotar."::
+6503::$$$message_0055_0018_0003$$$::I sense something and turn around.[lr]::
+6504::$$$message_0055_0018_0004$$$::I don't know when he caught up, but the priest is right behind me, looking down at me.::
+6505::$$$message_0055_0019_0000$$$::"Wh-what? You got something else to say to me?"[lr]::
+6506::$$$message_0055_0019_0001$$$::I'm talking big, but I take a step back.[lr]::
+6507::$$$message_0055_0019_0002$$$::...This priest scares the hell out of me.[lr]::
+6508::$$$message_0055_0019_0003$$$::I don't know what it is. Maybe he just rubs me the wrong way. Whatever it is, I can't make myself like him.::
+6509::$$$message_0055_0020_0000$$$::"I'm going home if you've got nothing!"[lr]::
+6510::$$$message_0055_0020_0001$$$::I head to the exit, trying to escape his stare.::
+6511::$$$message_0055_0021_0000$$$::But at that moment...[lr]::
+6512::$$$message_0055_0021_0001$$$::"Rejoice, my boy. Your wish will finally come true."[lr]::
+6513::$$$message_0055_0021_0002$$$::The priest speaks like he's some kind of divine oracle.::
+6514::$$$message_0055_0022_0000$$$::Those words...[lr]::
+6515::$$$message_0055_0022_0001$$$::Aren't they a reflection of my true feelings[line2]Shirou Emiya's true intentions[line2]that I wasn't even aware of?::
+6516::$$$message_0055_0023_0000$$$::"What're you saying?"[lr]::
+6517::$$$message_0055_0023_0001$$$::"I am sure you know already. Without an evil to fight, your wish will never be granted. Even if you don't want to admit it, a hero of justice requires a villain to defeat."::
 6518::$$$message_0055_0024_0000$$$::"...Ngh."[lr]::
-6519::$$$message_0055_0024_0001$$$::Tudo ao meu redor parece escurecer.[lr]::
-6520::$$$message_0055_0024_0002$$$::O padre diz...[lr]::
-6521::$$$message_0055_0024_0003$$$::...que o maior desejo de Shirou Emiya e seu desejo mais feio são dois lados da mesma moeda.::
-6522::$$$message_0055_0025_0000$$$::Isso mesmo. Meu desejo de proteger algo...[lr]::
-6523::$$$message_0055_0025_0001$$$::...significa que também estou desejando algo [font italic=true]do qual[font italic=false] proteger as pessoas.::
-6524::$$$message_0055_0026_0000$$$::"Ora... seu..."[lr]::
-6525::$$$message_0055_0026_0001$$$::Mas eu nunca desejaria algo assim.[lr]::
-6526::$$$message_0055_0026_0002$$$::Eu nem me lembro de ter desejado isso.[lr]::
-6527::$$$message_0055_0026_0003$$$::Um desejo tão instável...[lr]::
-6528::$$$message_0055_0026_0004$$$::...significa apenas que o que estou aspirando é contraditório.[lr]::
-6529::$$$message_0055_0026_0005$$$::No entanto, o padre menciona isso.[lr]::
-6530::$$$message_0055_0026_0006$$$::Como se dissesse: "Que bom que você tem um inimigo agora."::
-6531::$$$message_0055_0027_0000$$$::"Você não precisa amenizar. Seu conflito é apenas natural para um ser humano."[lr]::
+6519::$$$message_0055_0024_0001$$$::Everything around me seems to go dark.[lr]::
+6520::$$$message_0055_0024_0002$$$::The priest says...[lr]::
+6521::$$$message_0055_0024_0003$$$::Shirou Emiya's greatest wish and his ugliest wish are two sides of the same coin.::
+6522::$$$message_0055_0025_0000$$$::That's right. My wish to protect something...[lr]::
+6523::$$$message_0055_0025_0001$$$::...means that I'm also wishing for something to protect people [font italic=true]from[font italic=false].::
+6524::$$$message_0055_0026_0000$$$::"Why...you..."[lr]::
+6525::$$$message_0055_0026_0001$$$::But I would never wish for something like that.[lr]::
+6526::$$$message_0055_0026_0002$$$::I don't even remember ever desiring that.[lr]::
+6527::$$$message_0055_0026_0003$$$::A wish so unstable...[lr]::
+6528::$$$message_0055_0026_0004$$$::...just means that what I'm aspiring to is contradictory.[lr]::
+6529::$$$message_0055_0026_0005$$$::Yet the priest brings it up.[lr]::
+6530::$$$message_0055_0026_0006$$$::As if to say, "Good thing you have an enemy now."::
+6531::$$$message_0055_0027_0000$$$::"You needn't sugarcoat it. Your conflict is only natural for a human being."[lr]::
 6532::$$$message_0055_0027_0001$$$::"..."[lr]::
-6533::$$$message_0055_0027_0002$$$::Eu tento afastar as palavras do padre e saio.::
-6534::$$$message_0055_0028_0000$$$::"Adeus, Shirou Emiya.[lr]::
-6535::$$$message_0055_0028_0001$$$::"Este será meu aviso final: tenha cuidado no caminho para casa.[lr]::
-6536::$$$message_0055_0028_0002$$$::"O mundo como você o conhece está prestes a mudar.[lr]::
-6537::$$$message_0055_0028_0003$$$::"Você matará ou será morto, pois agora você é um Mestre."::
-
+6533::$$$message_0055_0027_0002$$$::I try to shake off the priest's words and head outside.::
+6534::$$$message_0055_0028_0000$$$::"Farewell, Shirou Emiya.[lr]::
+6535::$$$message_0055_0028_0001$$$::This will be my final warning: be careful on your way home.[lr]::
+6536::$$$message_0055_0028_0002$$$::The world as you know it is about to change.[lr]::
+6537::$$$message_0055_0028_0003$$$::You will kill or be killed, for you are a Master now."::Ԃ

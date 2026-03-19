@@ -1,12 +1,12 @@
 DAT
 id=qid::label=str::text=lstr::
-2::$$$flowtext_0000_0000_0001$$$::Vou ajudar a Sakura.::
-3::$$$flowtext_0000_0000_0002$$$::Vou cuidar das minhas tarefas.::
-7::$$$flowtext_0000_0003_0001$$$::Vou ajudar o Conselho Estudantil.::
-8::$$$flowtext_0000_0003_0002$$$::Vou ao meu trabalho de meio-período.::
-14::$$$flowtext_0000_0008_0001$$$::Vou levar a Sakura para casa.::
-15::$$$flowtext_0000_0008_0002$$$::Vou passar o tempo com a Fuji-nee.::
-16::$$$flowtext_0000_0008_0003$$$::Vou descansar.::
+2::$$$flowtext_0000_0000_0001$$$::I'll go help Sakura.::
+3::$$$flowtext_0000_0000_0002$$$::I'll take care of my daily tasks.::
+7::$$$flowtext_0000_0003_0001$$$::I'll help the student council.::
+8::$$$flowtext_0000_0003_0002$$$::I'll go to my part-time job.::
+14::$$$flowtext_0000_0008_0001$$$::I'll walk Sakura home.::
+15::$$$flowtext_0000_0008_0002$$$::I'll hang out with Fuji-nee.::
+16::$$$flowtext_0000_0008_0003$$$::I'll rest.::
 26::$$$flowtext_0001_0002_0001$$$::The reason to fight...I want to know why she seeks the Holy Grail.::
 27::$$$flowtext_0001_0002_0002$$$::I want to know more about Saber before she became a Servant.::
 28::$$$flowtext_0001_0002_0003$$$::I need a trump card. It'd be nice to have some sort of secret blade technique or something.::
@@ -261,19 +261,19 @@ id=qid::label=str::text=lstr::
 975::$$$flowtext_0038_0002_0002$$$::We'll go to Shinto.::
 79029::$$$message_0000_0113_9001$$$::As the king drifts to her eternal rest, a hush falls over the forest.::
 79030::$$$message_0001_0035_9000$$$::Light pours in through the crack in the door.[lr]::
-79031::$$$message_0002_0000_9000$$$::Certo, preciso ajudar a Sakura.[lr]::
+79031::$$$message_0002_0000_9000$$$::Right, I need to help Sakura.[lr]::
 79032::$$$message_0003_0000_9000$$$::There's a respectable dojo built within the Emiya house.[lr]::
-79008::$$$message_0004_0000_9000$$$::Issei, você está aí?[lr]::
-79033::$$$message_0005_0003_9000$$$::"Você realmente me ajudou hoje. Vou te recompensar por isso."[lr]::
-79034::$$$message_0006_0010_9001$$$::...de alguma forma terminamos o inventário em duas horas.::
-79035::$$$message_0007_0000_9000$$$::O café da manhã está alinhado ordenadamente na mesa.[lr]::
-79036::$$$message_0008_0006_9000$$$::"É melhor invocar um logo, ou você vai morrer, irmãozão."::
-79037::$$$message_0009_0000_9000$$$::Nós relaxamos depois do jantar, e são quase nove horas.::
-79038::$$$message_0010_0000_9000$$$::Bem, pode ser bom ver como a Fuji-nee está.[lr]::
-79039::$$$message_0011_0000_9001$$$::Eu deveria fazer uma pequena pausa antes do meu treino noturno.::
-79040::$$$message_0012_0000_9000$$$::Eu ainda não agradeci a Sakura por cozinhar o jantar, então eu deveria falar com ela.::
-79041::$$$message_0013_0041_9000$$$::"Boa noite, Senpai. Obrigada por me acompanhar até em casa."[lr]::
-79042::$$$message_0014_0000_9000$$$::E é assim que meu dia termina.[lr]::
+79008::$$$message_0004_0000_9000$$$::Issei, are you in?[lr]::
+79033::$$$message_0005_0003_9000$$$::"You really helped me out today. I'll repay you for this, so don't hesitate to ask me if anything comes up."[lr]::
+79034::$$$message_0006_0010_9001$$$::...we somehow finished the inventory in two hours.::
+79035::$$$message_0007_0000_9000$$$::Breakfast is lined up neatly on the table.[lr]::
+79036::$$$message_0008_0006_9000$$$::"You'd better summon one soon, or you'll die, big brother."::
+79037::$$$message_0009_0000_9000$$$::We relax after dinner, and it's almost nine o'clock.::
+79038::$$$message_0010_0000_9000$$$::Well, it might be good to see how Fuji-nee's doing, sort of a way to get in some light after-meal exercise.[lr]::
+79039::$$$message_0011_0000_9001$$$::I should take a little break before my evening training.::
+79040::$$$message_0012_0000_9000$$$::I haven't thanked Sakura for cooking dinner yet, so I should talk to Sakura.::
+79041::$$$message_0013_0041_9000$$$::"Good night, Senpai. Thank you for walking me home."[lr]::
+79042::$$$message_0014_0000_9000$$$::And that is how my day ends.[lr]::
 79043::$$$message_0015_0000_9000$$$::   I wouldn't want anyone to get sad, if I can help it.[lr]::
 79044::$$$message_0016_0004_9002$$$::"Shirou? I have my hands full, so just come on in, it's fine."[lr]::
 79045::$$$message_0017_0063_9000$$$::Saber is so beautiful when she does that kind of thing.[lr]::
@@ -300,22 +300,22 @@ id=qid::label=str::text=lstr::
 79066::$$$message_0038_0000_9000$$$::"Okay. Try to Strengthen this lamp for starters.[lr]::
 79067::$$$message_0039_0011_9000$$$::"I suppose you must be here to take another bath, but I am doing so at the moment. I would appreciate if you could wait until later."::
 79068::$$$message_0040_0006_9000$$$::"Pardon my intrusion. I heard you were not feeling well, so I came to visit, Emiya."[lr]::
-79009::$$$message_0041_0004_9001$$$::Ela apara sua lança, e rebate seus outros ataques sucessivos, empurrando-o para trás a cada ataque.::
-79069::$$$message_0042_0029_9003$$$::O som de suas armas se chocando é a única coisa que me convence de que os dois estão realmente lutando até a morte.::
-79070::$$$message_0043_0000_9000$$$::Caminhamos pela cidade a noite.[lr]::
-79071::$$$message_0044_0000_9000$$$::Eu não posso concordar com isso.[lr]::
-79072::$$$message_0045_0042_9015$$$::"Então, vamos lá. Mate-os, Berserker."[lr]::
-79073::$$$message_0046_0008_9000$$$::"Oooh, ele está fugindo. O irmãozão é tão fofo, pensando que pode fugir do Berserker."::
-79074::$$$message_0047_0000_9000$$$::Eu me recuso a abandonar alguém quando está por baixo.[lr]::
-79075::$$$message_0048_0000_9000$$$::Estou em um incêndio.[lr]::
-79076::$$$message_0049_0000_9000$$$::Logo depois que Fuji-nee sai, eu tranco tudo e Sakura e eu saímos também.::
-79077::$$$message_0050_0000_9000$$$::Logo depois que Fuji-nee sai, eu tranco tudo e Sakura e eu saímos também.::
-79078::$$$message_0051_0000_9000$$$::Olá!!! Estão todos bem?::
-79079::$$$message_0052_0000_9000$$$::Há um som rastejante.[lr]::
-79080::$$$message_0053_0103_9002$$$::"Eu lhe pergunto, você é meu Mestre?"[lr]::
-79081::$$$message_0054_0066_9000$$$::"Vou direto ao ponto. Emiya, você foi selecionado como um Mestre."[lr]::
-79082::$$$message_0055_0000_9000$$$::Eu não vou fugir.[lr]::
-79083::$$$message_0056_0000_9000$$$::Olá!!! Eu sou Taiga Fujimura, a instrutora do Tiger Dojo!::
+79009::$$$message_0041_0004_9001$$$::She parries his spear, and knocks away his other successive attacks, driving him back with each attack.::
+79069::$$$message_0042_0029_9003$$$::The sound of their clashing weapons is the only thing convincing me the two of them are actually fighting to the death.::
+79070::$$$message_0043_0000_9000$$$::We walk through town at night.[lr]::
+79071::$$$message_0044_0000_9000$$$::I can't go along with this.[lr]::
+79072::$$$message_0045_0042_9015$$$::"Then here we go. Kill them, Berserker."[lr]::
+79073::$$$message_0046_0008_9000$$$::"Oooh, he's running away. Brother is so cute, thinking he can run away from Berserker."::
+79074::$$$message_0047_0000_9000$$$::I refuse to abandon someone when they're down.[lr]::
+79075::$$$message_0048_0000_9000$$$::I'm in a fire.[lr]::
+79076::$$$message_0049_0000_9000$$$::Soon after Fuji-nee leaves, I lock up and Sakura and I leave as well.::
+79077::$$$message_0050_0000_9000$$$::Soon after Fuji-nee leaves, I lock up and Sakura and I leave as well.::
+79078::$$$message_0051_0000_9000$$$::Hello!!! Is everyone doing good?::
+79079::$$$message_0052_0000_9000$$$::There's a slithering sound.[lr]::
+79080::$$$message_0053_0103_9002$$$::"I ask of you, are you my Master?"[lr]::
+79081::$$$message_0054_0066_9000$$$::"Let me get straight to the point. Emiya, you've been selected as a Master.[lr]::
+79082::$$$message_0055_0000_9000$$$::I'm not going to run away.[lr]::
+79083::$$$message_0056_0000_9000$$$::Hello!!! I'm Taiga Fujimura, the instructor for Tiger Dojo, a segment of the game that sweeps your sorry dead ass back up and gets you back on your feet... The segment of everyone's dreams!::
 79084::$$$message_0057_0000_9000$$$::The sounds of clashing shinai echo through the dojo.[lr]::
 79085::$$$message_0058_0000_9000$$$::I should call Tohsaka back.[lr]::
 79086::$$$message_0059_0000_9000$$$::I'll just wait here quietly.[lr]::
@@ -333,31 +333,31 @@ id=qid::label=str::text=lstr::
 79096::$$$message_0071_0000_9000$$$::I'm dreaming.[lr]::
 79097::$$$message_0072_0000_9000$$$::Good evening! This is Tiger Dojo, your friendly segment chock full of hints for those who love dying all the time!::
 79098::$$$message_0073_0000_9000$$$::Hold it right there, Tiger! You ate the cake from Fleur I hid in the fridge, didn't you!?::
-79099::$$$message_0074_0001_9001$$$::Essa é a única coisa que aparece na minha cabeça.[lr]::
-79100::$$$message_0075_0005_9000$$$::"Cheguei... Ah, é só você, Fuji-nee."[lr]::
-79101::$$$message_0076_0000_9000$$$::"Já que tenho tempo, talvez eu faça outro prato."[lr]::
-79102::$$$message_0077_0026_9001$$$::Parece alguém que eu conheço.::
-79103::$$$message_0078_0000_9000$$$::"Acho que vou suar um pouco, já que tenho tanto tempo."[lr]::
-79104::$$$message_0079_0000_9000$$$::"Acho que vou suar um pouco, já que tenho tanto tempo."[lr]::
-79105::$$$message_0080_0003_9002$$$::"E aí. Bom dia, Emiya."[lr]::
-79106::$$$message_0081_0051_9001$$$::Parece alguém que eu conheço.::
-79107::$$$message_0082_0000_9000$$$::As aulas terminam, e é hora de ir para casa.[lr]::[lr]::
-79108::$$$message_0083_0004_9003$$$::Exceto por uma única sombra solitária. ::
-79109::$$$message_0084_0000_9000$$$::Eu acordo na escuridão.[lr]::
-79110::$$$message_0085_0006_9000$$$::É um homem velho, e eu não o reconheço.[lr]::
-79111::$$$message_0086_0000_9000$$$::"Bom dia, Senpai. Você terminou de preparar o café da manhã?"[lr]::
-79112::$$$message_0087_0000_9000$$$::As aulas terminam, e é hora de ir para casa.[lr]::[lr]::
-79113::$$$message_0088_0000_9000$$$::Eu sinto o brilho quente do sol.[lr]::
-79114::$$$message_0090_0019_9000$$$::"PFFFT! O QUE QUER DIZER COM FICANDO COM VOCÊ!!!???"::
+79099::$$$message_0074_0001_9001$$$::I have no idea why, but that's the only thing that pops into my head.[lr]::
+79100::$$$message_0075_0005_9000$$$::"I'm home... Oh, it's just you, Fuji-nee."[lr]::
+79101::$$$message_0076_0000_9000$$$::"Since I have some time, maybe I'll make another dish."[lr]::
+79102::$$$message_0077_0026_9001$$$::It looks like someone I know.::
+79103::$$$message_0078_0000_9000$$$::"Guess I'll work up a quick sweat if I have so much time."[lr]::
+79104::$$$message_0079_0000_9000$$$::"Guess I'll work up a quick sweat if I have so much time."[lr]::
+79105::$$$message_0080_0003_9002$$$::"Heya. Morning, Emiya."[lr]::
+79106::$$$message_0081_0051_9001$$$::It looks like someone I know.::
+79107::$$$message_0082_0000_9000$$$::Classes end, and it's time to go home.[lr]::
+79108::$$$message_0083_0004_9003$$$::Except for one lone shadow that remained inside the red-soaked classroom. ::
+79109::$$$message_0084_0000_9000$$$::I awake to darkness.[lr]::
+79110::$$$message_0085_0006_9000$$$::He's an old man, and I don't recognize him.[lr]::
+79111::$$$message_0086_0000_9000$$$::"Good morning, Senpai. Did you finish preparing breakfast already?"[lr]::
+79112::$$$message_0087_0000_9000$$$::Classes end, and it's time to go home.[lr]::
+79113::$$$message_0088_0000_9000$$$::I feel the warm glow of the sun.[lr]::
+79114::$$$message_0090_0019_9000$$$::"PFFFT! WHAT DO YOU MEAN, STAYING WITH YOU!!!???"::
 79115::$$$message_0091_0061_9000$$$::    It's lunchtime.[lr]::
-79116::$$$message_0092_0001_9000$$$::Eu compro o almoço e vou para o terraço.[lr]::
-79117::$$$message_0093_0023_9000$$$::"Parado aí mesmo. Você tem coragem, fugindo quando me vê."::
-79118::$$$message_0094_0003_9000$$$::"Você voltou, Mestre."::
-79119::$$$message_0095_0000_9001$$$::Eu deveria perguntar sobre o primeiro Servo que encontrei... Lancer.[lr]::
-79120::$$$message_0096_0000_9001$$$::Eu devia perguntar sobre o Servo da Tohsaka... o Archer.[lr]::
-79121::$$$message_0097_0000_9001$$$::Eu deveria perguntar sobre o Servo que sobrepujou a Saber... Berserker.[lr]::
-79122::$$$message_0098_0025_9002$$$::Todos se curvam e agradecem a Tohsaka por cozinhar, depois começam a comer.::
-79123::$$$message_0099_0031_9000$$$::"Ei, Fuji-nee, isso é ridículo!"[lr]::
+79116::$$$message_0092_0001_9000$$$::I buy lunch and head to the rooftop.[lr]::
+79117::$$$message_0093_0023_9000$$$::"Hold it right there. You've got guts, running away when you see me."::
+79118::$$$message_0094_0003_9000$$$::"You are back, Master."::
+79119::$$$message_0095_0000_9001$$$::I should ask about the very first Servant I encountered...Lancer.[lr]::
+79120::$$$message_0096_0000_9001$$$::I should ask about Tohsaka's Servant...Archer.[lr]::
+79121::$$$message_0097_0000_9001$$$::I should ask about the Servant who overwhelmed Saber...Berserker.[lr]::
+79122::$$$message_0098_0025_9002$$$::Everyone bows and thanks Tohsaka for cooking, then starts eating.::
+79123::$$$message_0099_0031_9000$$$::"Whoa, Fuji-nee, this is ridiculous!"[lr]::
 79124::$$$message_0100_0008_9002$$$::"Oh it's you. Looking for something, Emiya?"[lr]::
 79125::$$$message_0101_0000_9001$$$::I won't be a part of that.[lr]::
 79126::$$$message_0103_0000_9000$$$::"Rider. Was what Shinji said earlier true?"[lr]::
@@ -368,7 +368,7 @@ id=qid::label=str::text=lstr::
 79012::$$$message_0108_0022_9004$$$::The man appears before her, lacking any trace of enmity, but leaves not a single opening for an attack.::
 79131::$$$message_0109_0000_9001$$$::I wake up to a searing pain in my chest.[lr]::
 79132::$$$message_0110_0000_9001$$$::When I reach Ryudou Temple, I'm greeted by the sound of air rushing at me like a typhoon.::
-79133::$$$message_0111_0000_9000$$$::Uma noite se passou.[lr]::
+79133::$$$message_0111_0000_9000$$$::A night passed.[lr]::
 79134::$$$message_0112_0021_9000$$$::"Hah! I didn't lose! Tohsaka, you're such a meanie!!!"[lr]::
 79135::$$$message_0113_0000_9000$$$::The blades cross.[lr]::
 79136::$$$message_0114_0000_9000$$$::You imbecile!::
@@ -447,7 +447,7 @@ id=qid::label=str::text=lstr::
 79027::$$$message_0187_0000_9000$$$::It hurts it hurts it hurts::
 79206::$$$message_0188_0000_9001$$$::The answer her Master arrived at.::
 78997::$$$message_0189_0000_9000$$$::"What is the problem? Why do you hesitate? ..::
-79207::$$$message_0190_0033_9000$$$::Artoria sought the Holy Grail.[lr]::
+79207::$$$message_0190_0033_9000$$$::Altria sought the Holy Grail.[lr]::
 79208::$$$message_0191_0000_9000$$$::Hey there! How are you all!?[lr]::
 79209::$$$message_0192_0000_9000$$$::Osu! Haiya! This is Tiger Dojo...a place that asks wandering sheep like yourselves to reflect on their actions!::
 79210::$$$message_0193_0000_9000$$$::Being unarmed at the most crucial moment...[lr]::
@@ -472,25 +472,25 @@ id=qid::label=str::text=lstr::
 79226::$$$message_0213_0000_9000$$$::"It's done.[lr]::
 79227::$$$message_0214_0026_9000$$$::"Please, just sit on this bench. I will hear what you have to say once you have done so."::
 79228::$$$message_0215_0000_9000$$$::Heya! This is Tiger Dojo, your one-stop shop for peace and respite, here to help those suffering from a terminal case of deadness!::
-79229::$$$message_0216_0000_9000$$$::Inverno, cinco anos atrás.::
-79230::$$$message_0217_0000_9000$$$::Não adianta conversar até eu entender minha própria situação.[lr]::
-79231::$$$message_0218_0000_9002$$$::"Okay, eu quero ouvir sobre as coisas sérias primeiro. Diga-me por que você ainda está por aqui."::
-79232::$$$message_0219_0000_9001$$$::Uh... acho que nenhum dos tópicos é bom.::
-79233::$$$message_0220_0000_9000$$$::Estamos saindo do tópico. Então, quais são seus próximos passos?[lr]::
-79234::$$$message_0221_0011_9001$$$::"É, eu devo ir falar com a Saber primeiro."::
-79235::$$$message_0222_0024_9000$$$::...ela se senta, como se sempre pertencesse ali.::
-79236::$$$message_0223_0000_9000$$$::Estou preocupado com a Saber, ela se machucou bastante.::
-79237::$$$message_0224_0000_9000$$$::   Acho que preciso perguntar o nome verdadeiro dela.::
-79238::$$$message_0225_0000_9000$$$::Acho que vou perguntar sobre essas roupas que ela está usando.::
-79239::$$$message_0226_0011_9000$$$::"Isso não é aceitável, Shirou. Um Servo deve proteger seu Mestre o tempo todo."[lr]::
-79240::$$$message_0227_0017_9000$$$::"Se vocês duas não se importam, quero falar sobre o que faremos a partir de agora."[lr]::
-79241::$$$message_0228_0000_9000$$$::Eu volto para o meu próprio quarto.[lr]::
-79242::$$$message_0229_0000_9000$$$::E então a noite cai.[lr]::
-79243::$$$message_0230_0000_9000$$$::Além disso, não tenho muita escolha.[lr]::
+79229::$$$message_0216_0000_9000$$$::Winter, five years ago.::
+79230::$$$message_0217_0000_9000$$$::There's no point in talking until I understand my own situation.[lr]::
+79231::$$$message_0218_0000_9002$$$::"Okay, I want to hear about the serious stuff first. Tell me why you're still hanging around."::
+79232::$$$message_0219_0000_9001$$$::Uh...I don't think either topic is good.::
+79233::$$$message_0220_0000_9000$$$::We're getting off topic. So, what's next for you?[lr]::
+79234::$$$message_0221_0011_9001$$$::"Yeah, I should go and talk to Saber first."::
+79235::$$$message_0222_0024_9000$$$::...she sits, as if she's always belonged there.::
+79236::$$$message_0223_0000_9000$$$::I'm worried about Saber; she was hurt pretty bad.::
+79237::$$$message_0224_0000_9000$$$::   I think I need to ask about her real name.::
+79238::$$$message_0225_0000_9000$$$::I should ask about those clothes she's wearing.::
+79239::$$$message_0226_0011_9000$$$::"That will not do, Shirou. A Servant must protect their Master at all times. Masters are most vulnerable when they are asleep, so I must be in the room with you to protect you."[lr]::
+79240::$$$message_0227_0017_9000$$$::"If you two don't mind, I want to talk about what we do from here."[lr]::
+79241::$$$message_0228_0000_9000$$$::I go back to my own room.[lr]::
+79242::$$$message_0229_0000_9000$$$::And then night falls.[lr]::
+79243::$$$message_0230_0000_9000$$$::Besides, I don't have much choice.[lr]::
 79244::$$$message_0232_0000_9000$$$::Okay, good work![lr]::
-79245::$$$message_0234_0188_9000$$$::"Pelos elementos, prata e ferro."[lr]::
-79246::$$$message_0235_0050_9003$$$::"Então, 'Rin'. Sim, a sonoridade combina muito bem com você."[lr]::
-79247::$$$message_0236_0249_9001$$$::O vento sopra.[lr]::
+79245::$$$message_0234_0188_9000$$$::"For the elements, silver and iron. For the foundation, stone and the Archduke of Pacts. For the ancestor, my great master, Schweinorg.[lr]::
+79246::$$$message_0235_0050_9003$$$::"Then, 'Rin.' Yes, the sound of that suits you very well."[lr]::
+79247::$$$message_0236_0249_9001$$$::The wind blows.[lr]::
 79248::$$$message_0240_0073_9001$$$::I don't know how long I walked.[lr]::
 79249::$$$message_0241_0099_9000$$$::"Hey, what are you standing there for, Shirou!?[lr]::
 79250::$$$message_0242_0104_9000$$$::"Hey, Shirou. What's your answer?"[lr]::
@@ -532,7 +532,7 @@ id=qid::label=str::text=lstr::
 79286::$$$message_0279_0042_9002$$$::Saber, already clad in silver, charges towards Kuzuki like a gust of wind.::
 79287::$$$message_0280_0000_9000$$$::"...Damn it. Now there's no way Kuzuki will come out from the temple."[lr]::
 79288::$$$message_0281_0000_9000$$$::Hi, is everyone doing well? This is the 19th Tiger Dojo, where we save Shirou who has died a disappointing death after letting his guard down for just a moment!::
-79289::$$$message_0282_0000_9000$$$::Inverno, cinco anos atrás.::
+79289::$$$message_0282_0000_9000$$$::Winter, five years ago.::
 79290::$$$message_0283_0000_9000$$$::I have to go see what happened to Saber.[lr]::
 79291::$$$message_0284_0000_9000$$$::I'll go help Sakura out.[lr]::
 79292::$$$message_0285_0000_9000$$$::    I'll go wake Fuji-nee up.[lr]::
@@ -975,7 +975,7 @@ id=qid::label=str::text=lstr::
 79002::$$$message_0725_0035_9000$$$::"Whew. Well, if she knows Kiritsugu, then we'll just have to let her stay. ..::
 79711::$$$message_0726_0007_9000$$$::"I must say, I didn't expect you to bring me an injured person the very same day I offered to help you."[lr]::
 79003::$$$message_0727_0032_9001$$$::"You are my Master. It is troubling if you take such actions. Combat is my territory, so please stay behind me and out of the direct line of fire. I cannot protect you when you go out on your own, apparently determined to die in vain as you so nearly did."::
-79712::$$$message_0728_0000_9000$$$::Inverno, cinco anos atrás.::
+79712::$$$message_0728_0000_9000$$$::Winter, five years ago.::
 1::$$$flowtext_0000_0000_0000$$$::Day 1: Remembering ten years ago ~ Morning / Rebirth::
 4::$$$flowtext_0000_0001_0000$$$::Day 1: Morning chores / Sakura Matou (I)::
 5::$$$flowtext_0000_0002_0000$$$::Day 1: Morning training / Dojo view::
@@ -1703,14 +1703,13 @@ id=qid::label=str::text=lstr::
 984::$$$flowtext_0039_0000_0000$$$::January 31st::
 985::$$$flowtext_0039_0001_0000$$$::February 1st::
 986::$$$flowtext_0039_0002_0000$$$::February 2nd::
-987::$$$flowtext_0040_0000_0000$$$::Fate / Final Verdadeiro::
-988::$$$flowtext_0040_0001_0000$$$::Unlimited Blade Works / Final Verdadeiro::
-989::$$$flowtext_0040_0002_0000$$$::Unlimited Blade Works / Final Bom::
-990::$$$flowtext_0040_0003_0000$$$::Heaven's Feel / Final Normal::
-991::$$$flowtext_0040_0004_0000$$$::Heaven's Feel / Final Verdadeiro::
+987::$$$flowtext_0040_0000_0000$$$::Fate / True End::
+988::$$$flowtext_0040_0001_0000$$$::Unlimited Blade Works / True End::
+989::$$$flowtext_0040_0002_0000$$$::Unlimited Blade Works / Good End::
+990::$$$flowtext_0040_0003_0000$$$::Heaven's Feel / Normal End::
+991::$$$flowtext_0040_0004_0000$$$::Heaven's Feel / True End::
 992::$$$flowtext_0040_0005_0000$$$::Mini Theater 1::
 993::$$$flowtext_0040_0006_0000$$$::Mini Theater 2::
 994::$$$flowtext_0040_0007_0000$$$::Mini Theater 3::
 995::$$$flowtext_0040_0008_0000$$$::Tiger Dojo Special::
-996::$$$flowtext_0040_0009_0000$$$::Last Episode::�P
-
+996::$$$flowtext_0040_0009_0000$$$::Last Episode::�P

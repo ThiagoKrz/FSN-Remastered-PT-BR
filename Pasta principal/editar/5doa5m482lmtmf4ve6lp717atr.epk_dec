@@ -1,40 +1,40 @@
 DAT
 id=qid::label=str::text=lstr::
-9644::$$$message_0096_0000_0000$$$::Aquele cara...[lr]::
-9645::$$$message_0096_0000_0001$$$::Eu devia perguntar sobre o Servo da Tohsaka... o Archer.[lr]::
-9646::$$$message_0096_0000_0002$$$::A Saber o derrotou com um único golpe, mas foi um ataque surpresa, e a verdadeira força dele ainda é um mistério.::
-9647::$$$message_0096_0001_0000$$$::"Ei, Saber. Sobre o Archer... você notou algo de estranho nele?"::
+9644::$$$message_0096_0000_0000$$$::That guy...[lr]::
+9645::$$$message_0096_0000_0001$$$::I should ask about Tohsaka's Servant...Archer.[lr]::
+9646::$$$message_0096_0000_0002$$$::Saber defeated him in a single attack, though she did surprise him, so I have no idea how powerful he is.::
+9647::$$$message_0096_0001_0000$$$::"Hey Saber. I want to know more about Archer... Did you notice anything about him?"::
 9648::$$$message_0096_0002_0000$$$::"Archer?[lr]::
-9649::$$$message_0096_0002_0001$$$::...Não, eu sei tanto quanto você.[lr]::
-9650::$$$message_0096_0002_0002$$$::Parece que sou superior em um confronto direto, mas não cheguei a experimentar suas habilidades reais ou seu Fantasma Nobre.[lr]::
-9651::$$$message_0096_0002_0003$$$::Ele não é o tipo de oponente que devemos subestimar só porque o vencemos uma vez."::
-9652::$$$message_0096_0003_0000$$$::"É, eu sei. Foi tudo muito rápido.[lr]::
-9653::$$$message_0096_0003_0001$$$::Mas, sabe..."::
-9654::$$$message_0096_0003_0002$$$::Naquela hora...[lr]::
-9655::$$$message_0096_0003_0003$$$::Quando a Saber o atacou, senti algo estranho naquele momento.::
-9656::$$$message_0096_0004_0000$$$::Daria para dizer que foi um ataque surpresa que, na verdade, não foi.[lr]::
-9657::$$$message_0096_0004_0001$$$::Aquele cavaleiro vermelho parece ter sentido a presença da Saber antes do golpe.[lr]::
-9658::$$$message_0096_0004_0002$$$::Mas ele congelou ao vê-la, e por isso não conseguiu reagir ao ataque.::
-9659::$$$message_0096_0005_0000$$$::"Ei, Saber. Você acha que ele te conhece? Sinto que ele recebeu aquele golpe porque ficou surpreso ao ver [font italic=true]você[font italic=false], e não pelo ataque em si."::
-9660::$$$message_0096_0006_0000$$$::"...Entendo. É uma possibilidade compreensível.[lr]::
-9661::$$$message_0096_0006_0001$$$::Como ele é da classe Archer, espera-se que seja inferior a mim no combate corpo a corpo.[lr]::
-9662::$$$message_0096_0006_0002$$$::Mas, ainda assim, ele estava fraco demais naquele instante.[lr]::
-9663::$$$message_0096_0006_0003$$$::Acredito que ele não foi capaz de usar seu poder total devido a algum fator externo..."::
-9664::$$$message_0096_0007_0000$$$::"Não é? E eu o vi lutar contra o Lancer. O Archer não foi para a ofensiva, mas a defesa dele era de outro mundo. Para ele ter deixado seu primeiro golpe acertar, só posso assumir que algo estava errado."::
-9665::$$$message_0096_0008_0000$$$::"...Quer dizer que ele pegou leve comigo?"[lr]::
-9666::$$$message_0096_0008_0001$$$::Ela parece mais irritada com a ideia de ele ter se contido do que satisfeita com a vitória rápida. Saber encara o vazio, como se olhasse para o inimigo ausente.::
-9667::$$$message_0096_0009_0000$$$::"Ótimo. Assim que nossa colaboração com a Rin terminar, farei com que ele se arrependa de ter me insultado dessa forma."[lr]::
-9668::$$$message_0096_0009_0001$$$::"Ei! Uh, bem... não acho que ele tenha feito por mal, então não precisa guardar rancor..."[lr]::
-9669::$$$message_0096_0009_0002$$$::Acabo me vendo na posição de defender o Archer.::
-9670::$$$message_0096_0010_0000$$$::"...? Está dizendo que as ações dele são perdoáveis? Você parece estar protegendo o Archer. ...É difícil de acreditar, mas você por acaso preferia ter o Archer como seu Servo?"::
-9671::$$$message_0096_0011_0000$$$::"N-Nem ferrando! Para falar a verdade, eu nem gosto dele. Nunca trocamos uma palavra, mas só de vê-lo de longe, meu instinto me diz que a gente não se daria bem."::
-9672::$$$message_0096_0012_0000$$$::"Fico feliz em ouvir isso. Estive me preocupando desnecessariamente. É um alívio, Shirou."[lr]::
-9673::$$$message_0096_0012_0001$$$::"...Puxa. Eu é que estou surpreso agora. Mas por que você está tão aliviada? É bom eu não gostar do Archer?"::
-9674::$$$message_0096_0013_0000$$$::"...Você tem razão. É um sentimento estranho de se ter.[lr]::
-9675::$$$message_0096_0013_0001$$$::Ah, deve ser por causa da nossa compatibilidade. Sou um Servo especializado em combate corpo a corpo, enquanto o Archer se foca em ataques à distância.[lr]::
-9676::$$$message_0096_0013_0002$$$::Se você fosse compatível com ele, significaria que não seria compatível comigo. Se esse fosse o caso, não conseguiríamos utilizar nossos poderes plenamente."::
-9677::$$$message_0096_0014_0000$$$::A Saber assente, concluindo que esse deve ser o motivo de seu alívio.[lr]::
-9678::$$$message_0096_0014_0001$$$::"Entendi. Acho que faz sentido..."[lr]::
-9679::$$$message_0096_0014_0002$$$::De qualquer forma, ainda não temos informações concretas sobre o Archer.[lr]::
-9680::$$$message_0096_0014_0003$$$::Não sabemos que herói ele foi, nem que tipo de Fantasma Nobre ele esconde.::
+9649::$$$message_0096_0002_0001$$$::...No, no more than what you did.[lr]::
+9650::$$$message_0096_0002_0002$$$::His basic combat abilities may be a bit better than mine, but I have not experienced his Noble Phantasm or his combat skills.[lr]::
+9651::$$$message_0096_0002_0003$$$::But I can tell you that we should not be confident around him simply because we beat him once."::
+9652::$$$message_0096_0003_0000$$$::"Yeah. Well, it did happen really, really quickly.[lr]::
+9653::$$$message_0096_0003_0001$$$::And that guy...I can't put a finger on it, but..."[lr]::
+9654::$$$message_0096_0003_0002$$$::In that moment...[lr]::
+9655::$$$message_0096_0003_0003$$$::When Saber attacked him, I had this uncanny feeling.::
+9656::$$$message_0096_0004_0000$$$::Like it was a surprise attack, but it wasn't.[lr]::
+9657::$$$message_0096_0004_0001$$$::That red knight looked like he had already sensed Saber's presence.[lr]::
+9658::$$$message_0096_0004_0002$$$::But he froze the moment he saw Saber, so he couldn't react to Saber's onslaught.::
+9659::$$$message_0096_0005_0000$$$::"Hey, Saber. Maybe he knows you. I have a feeling it wasn't the surprise attack that made the blow land, but just him being surprised at seeing [font italic=true]you[font italic=false]."::
+9660::$$$message_0096_0006_0000$$$::"...I see. That would make more sense.[lr]::
+9661::$$$message_0096_0006_0001$$$::Being a bowman, it is natural that he would be inferior to me in single combat.[lr]::
+9662::$$$message_0096_0006_0002$$$::But he was considerably weaker even than that.[lr]::
+9663::$$$message_0096_0006_0003$$$::It occurred to me that something may have prevented him from using his full potential..."::
+9664::$$$message_0096_0007_0000$$$::"Right? And I've actually seen him and Lancer fight. Archer might not have gone on the offensive, but his defense was incredible. So I assume there was something wrong with him since your attack hit him so easily."::
+9665::$$$message_0096_0008_0000$$$::"So you are trying to say that he took it easy on me."[lr]::
+9666::$$$message_0096_0008_0001$$$::Rather than being upset by an easy victory, she seems to be more bothered that he might have taken it easy on her. Saber glares at an unseen enemy.::
+9667::$$$message_0096_0009_0000$$$::"Very well. Once your alliance with Rin is over, I shall make him regret that insult."[lr]::
+9668::$$$message_0096_0009_0001$$$::"Wait! I, uh...don't think he went easy on you on purpose, and I don't think there's a real need to hate him."[lr]::
+9669::$$$message_0096_0009_0002$$$::I suddenly find myself defending Archer.::
+9670::$$$message_0096_0010_0000$$$::"Oh? Are you saying Archer's actions are to be forgiven? Rather, you seem to be defending him out of sheer good will. I do not want to believe it to be true, but I must ask: Do you prefer Archer to me as your Servant?"::
+9671::$$$message_0096_0011_0000$$$::"Th-that's impossible! I'll have you know that he rubs me the wrong way! I've never talked to him before, but I [font italic=true]know[font italic=false] that he and I wouldn't get along, even just from seeing him at a distance."::
+9672::$$$message_0096_0012_0000$$$::"That is a relief. I knew there was no cause for concern, but I am relieved to hear it said."[lr]::
+9673::$$$message_0096_0012_0001$$$::"Okay... You took me by surprise too. But why are you so relieved by that, Saber? Is me hating Archer a good thing?"::
+9674::$$$message_0096_0013_0000$$$::"You are right. It certainly is a strange thing for me to dwell upon.[lr]::
+9675::$$$message_0096_0013_0001$$$::Well, it is probably a matter of our compatibility in battle. My specialty as a Servant lies in melee combat, while Archer specializes in ranged combat.[lr]::
+9676::$$$message_0096_0013_0002$$$::If you were to be more compatible with Archer, that would mean you wouldn't be compatible with me. If that was the case, none of us would be able to play to each other's strengths."::
+9677::$$$message_0096_0014_0000$$$::Saber nods, convinced that that must be the reason for her relief.[lr]::
+9678::$$$message_0096_0014_0001$$$::"Huh. I guess so."[lr]::
+9679::$$$message_0096_0014_0002$$$::Either way, we have absolutely no information on Archer.[lr]::
+9680::$$$message_0096_0014_0003$$$::We still don't know which hero he is, what age he's from, or what kind of Noble Phantasm he possesses.::
 
