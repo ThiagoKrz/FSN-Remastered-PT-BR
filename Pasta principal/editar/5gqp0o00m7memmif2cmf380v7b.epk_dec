@@ -1,81 +1,81 @@
 DAT
 id=qid::label=str::text=lstr::
-73832::$$$message_0679_0000_0000$$$::Ah... Haah, haah, hah...::
-73833::$$$message_0679_0001_0000$$$::Her lungs are on fire.[lr]::
-73834::$$$message_0679_0001_0001$$$::Her heart's been drumming a warning signal for some time from within the confines of her chest.[lr]::
-73835::$$$message_0679_0001_0002$$$::[font italic=true]Ba-dump, ba-dump, squeeze, ba-dump.[font italic=false][lr]::
-73836::$$$message_0679_0001_0003$$$::It cries out in protest as it vomits blood through her body, like an old man groaning that he's on his last legs.::
-73837::$$$message_0679_0002_0000$$$::Ah... Haah, haah, hah...::
-73838::$$$message_0679_0003_0000$$$::Her throat is in pain.[lr]::
-73839::$$$message_0679_0003_0001$$$::Each breath feels like swallowing thorns.[lr]::
-73840::$$$message_0679_0003_0002$$$::It's so terrifying, she can't breathe.[lr]::
-73841::$$$message_0679_0003_0003$$$::She's low on oxygen, but she suicidally stops herself from breathing.::
-73842::$$$message_0679_0004_0000$$$::Ah... Haah, haah, hah...::
-73843::$$$message_0679_0005_0000$$$::Without oxygen, her arms and legs can't move very well.[lr]::
-73844::$$$message_0679_0005_0001$$$::She's made it this far on unsteady legs, but she could collapse at any time.::
-73845::$$$message_0679_0006_0000$$$::Ngh... Fuh, khh...!::
-73846::$$$message_0679_0007_0000$$$::The thought gives her a burst of strength.[lr]::
-73847::$$$message_0679_0007_0001$$$::She can't let herself fall here.[lr]::
-73848::$$$message_0679_0007_0002$$$::It would defeat the whole point of sneaking out.[lr]::
-73849::$$$message_0679_0007_0003$$$::She[line2]I'm going to settle my own unfinished business right here, right now.[lr]::
-73850::$$$message_0679_0007_0004$$$::She can't stop, even if she and the old man who turned her into a Master end up killing each other.::
-73851::$$$message_0679_0008_0000$$$::Whew... Whew, haah...::
-73852::$$$message_0679_0009_0000$$$::...She gets her breath under control.[lr]::
-73853::$$$message_0679_0009_0001$$$::It's going to be all right. This won't be that hard.[lr]::
-73854::$$$message_0679_0009_0002$$$::It might be for anyone else, but not for her.[lr]::
-73855::$$$message_0679_0009_0003$$$::She just needs to look the old man in the face like she does when they're eating together, shake her head, and say "no."[lr]::
-73856::$$$message_0679_0009_0004$$$::Then...then his schemes will come to an end.::
-73857::$$$message_0679_0010_0000$$$::...She doesn't consider what will happen to her after she denies the fiend's will.[lr]::
-73858::$$$message_0679_0010_0001$$$::If she does, she won't be able to go through with it.[lr]::
-73859::$$$message_0679_0010_0002$$$::So she doesn't think too hard about it.[lr]::
-73860::$$$message_0679_0010_0003$$$::Fortunately, her memories are becoming less clear by the second.[lr]::
-73861::$$$message_0679_0010_0004$$$::The fear isn't so bad, since she won't even remember what's going to happen next.::
-73862::$$$message_0679_0011_0000$$$::It's been several days since she was back in her house.[lr]::
-73863::$$$message_0679_0011_0001$$$::She walks through the dark rooms, using the walls for support.[lr]::
-73864::$$$message_0679_0011_0002$$$::She searches her scattered memory, but she can't remember a time when this house was ever bright.[lr]::
-73865::$$$message_0679_0011_0003$$$::The house is the same as usual.[lr]::
-73866::$$$message_0679_0011_0004$$$::It's wicked, corrupt, and sticky like it always is.[lr]::
-73867::$$$message_0679_0011_0005$$$::But...::
-73868::$$$message_0679_0012_0000$$$::"No... Why?"[r][wsay canskip=1]::
-73869::$$$message_0679_0012_0001$$$::This isn't what she expected.[lr]::
-73870::$$$message_0679_0012_0002$$$::Her grandfather isn't here.[lr]::
-73871::$$$message_0679_0012_0003$$$::She can't sense any of the bugs in the building.::
-73872::$$$message_0679_0013_0000$$$::"...Hah... Ah, aahh..."[lr]::
-73873::$$$message_0679_0013_0001$$$::She looks through the empty rooms, trying to support her failing body.[lr]::
-73874::$$$message_0679_0013_0002$$$::This is strange.[lr]::
-73875::$$$message_0679_0013_0003$$$::This is strange.[lr]::
-73876::$$$message_0679_0013_0004$$$::This is strange.[lr]::
-73877::$$$message_0679_0013_0005$$$::The old man isn't in the Matou mansion.[lr]::
-73878::$$$message_0679_0013_0006$$$::His laughing voice isn't in the basement.::
-73879::$$$message_0679_0014_0000$$$::"No... Why..."[lr]::
-73880::$$$message_0679_0014_0001$$$::It doesn't make sense.[lr]::
-73881::$$$message_0679_0014_0002$$$::Zouken Matou[line2]Grandfather wants to take me back.[lr]::
-73882::$$$message_0679_0014_0003$$$::I thought that he wouldn't make a move as long as I was at the Emiya house.[lr]::
-73883::$$$message_0679_0014_0004$$$::So now is his best chance.[lr]::
-73884::$$$message_0679_0014_0005$$$::If I'm alone, he should show up and try to turn me into a Holy Grail.[lr]::
-73885::$$$message_0679_0014_0006$$$::So...where is he?::
-73886::$$$message_0679_0015_0000$$$::"Ah... haah... haah... ah..."[lr]::
-73887::$$$message_0679_0015_0001$$$::...Her consciousness grows faint.[lr]::
-73888::$$$message_0679_0015_0002$$$::...That won't do.[lr]::
-73889::$$$message_0679_0015_0003$$$::She needs to find Zouken Matou before she falls asleep. Before Shirou Emiya acts.[lr]::
-73890::$$$message_0679_0015_0004$$$::She needs to find him and end this.[lr]::
-73891::$$$message_0679_0015_0005$$$::It would all be over if she met him, so why... Why isn't he here today of all days!?::
-73892::$$$message_0679_0016_0000$$$::"I know...but...!"[lr]::
-73893::$$$message_0679_0016_0001$$$::Of course he's aware.[lr]::
-73894::$$$message_0679_0016_0002$$$::He's always watching me. No matter how far I am or where I hide, he'll always find me.[lr]::
-73895::$$$message_0679_0016_0003$$$::He could easily capture me right now and make me do what he wants.[lr]::
-73896::$$$message_0679_0016_0004$$$::He won't care whether I want to or not.[lr]::
-73897::$$$message_0679_0016_0005$$$::He's always treated me as nothing but a tool.::
-73898::$$$message_0679_0017_0000$$$::"But...why..."[lr]::
-73899::$$$message_0679_0017_0001$$$::There's no way he's unaware.[lr]::
-73900::$$$message_0679_0017_0002$$$::It doesn't matter that the priest reduced the number of worms in my body.[lr]::
-73901::$$$message_0679_0017_0003$$$::...They were just insurance.[lr]::
-73902::$$$message_0679_0017_0004$$$::That old man has other ways of tracking me.[lr]::
-73903::$$$message_0679_0017_0005$$$::Of knowing my physical condition. He's even listening to my heartbeat.[lr]::
-73904::$$$message_0679_0017_0006$$$::He knows that I left Rider and came here alone.[lr]::
-73905::$$$message_0679_0017_0007$$$::After all, he's always[line2]::
-73906::$$$message_0679_0018_0000$$$::"Sakura."[lr]::
-73907::$$$message_0679_0018_0001$$$::A voice comes from behind her.[lr]::
-73908::$$$message_0679_0018_0002$$$::It's...[lr]::
+73832::$$$message_0679_0000_0000$$$::Ah[w l=4][line4]haa, haa ha[w l=4][line4]::
+73833::$$$message_0679_0001_0000$$$::Meu peito dói.[lr]::
+73834::$$$message_0679_0001_0001$$$::Meu coração tem me enviado um sinal de perigo já faz algum tempo.[lr]::
+73835::$$$message_0679_0001_0002$$$::Thump, thump, splat, thump.[lr]::
+73836::$$$message_0679_0001_0003$$$::O coração jorra sangue para o resto do corpo intensamente, como se estivesse dizendo que vai [block len=3] se eu me mexer mais.::
+73837::$$$message_0679_0002_0000$$$::Ah[w l=4][line4]haa, haa, ha[w l=4][line4]::
+73838::$$$message_0679_0003_0000$$$::Minha garganta dói.[lr]::
+73839::$$$message_0679_0003_0001$$$::Eu sinto como se estivesse engolindo agulhas a cada respiração.[lr]::
+73840::$$$message_0679_0003_0002$$$::Então é muito assustador respirar.[lr]::
+73841::$$$message_0679_0003_0003$$$::Eu já estou com falta de oxigênio, então intencionalmente limitar minha respiração é como suicídio.::
+73842::$$$message_0679_0004_0000$$$::Ah[w l=4][line4]haa, haa ha[w l=4][line4]::
+73843::$$$message_0679_0005_0000$$$::Meus membros não se movem porque lhes falta oxigênio.[lr]::
+73844::$$$message_0679_0005_0001$$$::Eu cheguei até aqui caminhando desniveladamente, mas eu posso cair inconsciente a qualquer momento.::
+73845::$$$message_0679_0006_0000$$$::[w l=4][line4]Fuh, kuh...!::
+73846::$$$message_0679_0007_0000$$$::Esse pensamento revitaliza minha força.[lr]::
+73847::$$$message_0679_0007_0001$$$::Eu não posso cair aqui.[lr]::
+73848::$$$message_0679_0007_0002$$$::Sair escondido teria sido inútil.[lr]::
+73849::$$$message_0679_0007_0003$$$::Eu preciso decidir minha luta.[lr]::
+73850::$$$message_0679_0007_0004$$$::Eu preciso parar aquele velho que me fez um mestre, mesmo que isso custe a minha vida.::
+73851::$$$message_0679_0008_0000$$$::[w l=4][line4]Haa[w l=4][line4]Haa, ha[w l=4][line4]::
+73852::$$$message_0679_0009_0000$$$::...Eu acalmo minha respiração.[lr]::
+73853::$$$message_0679_0009_0001$$$::Tá tudo bem, não é difícil.[lr]::
+73854::$$$message_0679_0009_0002$$$::Talvez seja difícil para os outros, mas não é para mim.[lr]::
+73855::$$$message_0679_0009_0003$$$::Eu só tenho que olhar para ele, assim como eu faço toda noite no jantar, e balançar minha cabeça.[lr]::
+73856::$$$message_0679_0009_0004$$$::E[w l=3][line3]o esquema daquele velho vai acabar.::
+73857::$$$message_0679_0010_0000$$$::...Eu não penso sobre o que vai acontecer comigo depois que eu desobedecer aquele monstro.[lr]::
+73858::$$$message_0679_0010_0001$$$::Se eu fizer isso, eu não vou conseguir seguir em frente.[lr]::
+73859::$$$message_0679_0010_0002$$$::Então eu paro de pensar muito.[lr]::
+73860::$$$message_0679_0010_0003$$$::Felizmente, a memória na minha cabeça é vaga.[lr]::
+73861::$$$message_0679_0010_0004$$$::Eu não vou me lembrar do que eu tô fazendo agora no próximo instante, então o medo é relativamente pequeno.::
+73862::$$$message_0679_0011_0000$$$::Eu caminho pela minha casa, que eu não visito faz alguns dias.[lr]::
+73863::$$$message_0679_0011_0001$$$::Uma casa sombria.[lr]::
+73864::$$$message_0679_0011_0002$$$::Eu procuro pelas minhas memórias bagunçadas, mas eu não consigo lembrar dessa casa ser tão clara.[lr]::
+73865::$$$message_0679_0011_0003$$$::É como sempre.[lr]::
+73866::$$$message_0679_0011_0004$$$::É úmida, degenerada, e pegajosa como sempre.[lr]::
+73867::$$$message_0679_0011_0005$$$::Mas[w l=4][line4]::
+73868::$$$message_0679_0012_0000$$$::"Sem chance[w l=4][line4]por quê?"[lr]::
+73869::$$$message_0679_0012_0001$$$::Mas não é como eu esperava.[lr]::
+73870::$$$message_0679_0012_0002$$$::A presença do avô não está na casa.[lr]::
+73871::$$$message_0679_0012_0003$$$::A presença das minhocas não pode ser sentida em lugar algum.::
+73872::$$$message_0679_0013_0000$$$::"...Haa[w l=4][line4]ah, ahh..."[lr]::
+73873::$$$message_0679_0013_0001$$$::Eu me seguro e olho ao redor da sala de estar vazia.[lr]::
+73874::$$$message_0679_0013_0002$$$::Tem algo errado.[lr]::
+73875::$$$message_0679_0013_0003$$$::Tem algo errado.[lr]::
+73876::$$$message_0679_0013_0004$$$::Tem algo errado.[lr]::
+73877::$$$message_0679_0013_0005$$$::O velho homem não está na casa.[lr]::
+73878::$$$message_0679_0013_0006$$$::A sua risada não vem do porão.::
+73879::$$$message_0679_0014_0000$$$::"...Sem chance... Por quê?"[lr]::
+73880::$$$message_0679_0014_0001$$$::Não faz qualquer sentido.[lr]::
+73881::$$$message_0679_0014_0002$$$::Meu avô[w l=3][line3]Matou Zouken me quer de volta.[lr]::
+73882::$$$message_0679_0014_0003$$$::Mas ele não conseguiu fazer nada até agora porque eu estava na casa dos Emiya.[lr]::
+73883::$$$message_0679_0014_0004$$$::Então agora seria a sua melhor chance.[lr]::
+73884::$$$message_0679_0014_0005$$$::Ele vai definitivamente vir e tentar me transformar no Santo Graal se eu estiver sozinha.[lr]::
+73885::$$$message_0679_0014_0006$$$::Então por que ele não aparece?::
+73886::$$$message_0679_0015_0000$$$::"Ah... haa... haa... ah[w l=4][line4]"[lr]::
+73887::$$$message_0679_0015_0001$$$::...Minha consciência está se esvaindo.[lr]::
+73888::$$$message_0679_0015_0002$$$::...Isso é ruim.[lr]::
+73889::$$$message_0679_0015_0003$$$::Eu tenho que ver Matou Zouken antes que eu caia no sono, antes que Emiya Shirou entre em ação.[lr]::
+73890::$$$message_0679_0015_0004$$$::Eu tenho que ver ele e acabar com isso agora.[lr]::
+73891::$$$message_0679_0015_0005$$$::Vai tudo acabar assim que eu ver ele, então por que ele não está aparecendo hoje[w l=3][line3]!?::
+73892::$$$message_0679_0016_0000$$$::"...Ele devia saber...!"[lr]::
+73893::$$$message_0679_0016_0001$$$::Certo, não tem como ele não saber.[lr]::
+73894::$$$message_0679_0016_0002$$$::Ele sempre está me observando. Ele consegue me encontrar, independente de onde eu me esconda ou o quão longe eu vá.[lr]::
+73895::$$$message_0679_0016_0003$$$::Ele sabe que ele pode fácilmente me capturar e me controlar.[lr]::
+73896::$$$message_0679_0016_0004$$$::...Ele nunca considera a possibilidade que eu talvez resista.[lr]::
+73897::$$$message_0679_0016_0005$$$::Ele só me trata como uma ferramenta.::
+73898::$$$message_0679_0017_0000$$$::"......Então... Por quê?"[lr]::
+73899::$$$message_0679_0017_0001$$$::Não tem como ele não saber.[lr]::
+73900::$$$message_0679_0017_0002$$$::Não deveria importar que o padre removeu parte do meu encravamento de minhoca.[lr]::
+73901::$$$message_0679_0017_0003$$$::...Porque era só uma garantia.[lr]::
+73902::$$$message_0679_0017_0004$$$::Ele está observando minhas ações com um método mais confiável.[lr]::
+73903::$$$message_0679_0017_0005$$$::Ele sabe minha condição atual. Ele está até ouvindo as batidas do meu coração.[lr]::
+73904::$$$message_0679_0017_0006$$$::Ele sabe que eu estou sozinha aqui e que eu deixei a Rider para trás.[lr]::
+73905::$$$message_0679_0017_0007$$$::Porque ele está[w l=4][line4]::
+73906::$$$message_0679_0018_0000$$$::"[w l=4][line4]Sakura."[lr]::
+73907::$$$message_0679_0018_0001$$$::Uma voz vem por trás de mim.[lr]::
+73908::$$$message_0679_0018_0002$$$::E...[lr]::
 73909::$$$message_0679_0018_0003$$$::"...Nii-san?"[lr]::
-73910::$$$message_0679_0018_0004$$$::The instant she turns to face her brother's voice...:���
+73910::$$$message_0679_0018_0004$$$::No instante em que ela se vira para a voz do irmão...::

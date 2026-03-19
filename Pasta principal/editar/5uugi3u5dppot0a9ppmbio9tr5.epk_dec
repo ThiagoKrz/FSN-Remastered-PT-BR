@@ -1,89 +1,89 @@
 DAT
 id=qid::label=str::text=lstr::
-76940::$$$message_0714_0000_0000$$$::"Oh, right. Sakura, this is Illya.[lr]::
-76941::$$$message_0714_0000_0001$$$::Her Berserker got taken out, but we managed to save her. She's going to be staying with us like Tohsaka, so try to get along."[lr]::
-76942::$$$message_0714_0000_0002$$$::I introduce Sakura and Illya to each other.::
-76943::$$$message_0714_0001_0000$$$::"Hi, Sakura. I heard you're a daughter of the Makiris, but I won't hold that against you. You seem like you know Shirou, so I'll give you special treatment."[lr]::
-76944::$$$message_0714_0001_0001$$$::"...Okay. Then I'll treat you the same way."::
-76945::$$$message_0714_0002_0000$$$::"Hm?"[lr]::
-76946::$$$message_0714_0002_0001$$$::That's the extent of their greetings.[lr]::
-76947::$$$message_0714_0002_0002$$$::Illya leaves Tohsaka and walks to the living room.[lr]::
-76948::$$$message_0714_0002_0003$$$::As she does...[lr]::
-76949::$$$message_0714_0002_0004$$$::[font italic=true]...[font italic=false][lr]::
-76950::$$$message_0714_0002_0005$$$::I see Sakura watching her with somewhat cold eyes.::
-76951::$$$message_0714_0003_0000$$$::Dinner comes and goes like a sudden storm.[lr]::
-76952::$$$message_0714_0003_0001$$$::...Okay, to call it a storm would be misleading.[lr]::
-76953::$$$message_0714_0003_0002$$$::It was more like a doldrum where you lose track of time because there's no wind, and then it ends before you know it.[lr]::
-76954::$$$message_0714_0003_0003$$$::Anyway, it was a dinner fraught with tension.::
-76955::$$$message_0714_0004_0000$$$::"Should I make dinner, then? It'll be like having soba noodles for housewarming."[lr]::
-76956::$$$message_0714_0004_0001$$$::With that, Tohsaka starts cooking on her own, and I'm forced to admit that she's better at it than me. Sakura's Western-style cooking might barely measure up.::
-76957::$$$message_0714_0005_0000$$$::"T-Tohsaka-senpai, you're good at cooking."[lr]::
-76958::$$$message_0714_0005_0001$$$::Sakura was stunned, but she still ended up eating the food too.[lr]::
-76959::$$$message_0714_0005_0002$$$::I was so stressed out by everything happening, like Tohsaka's home cooking, eating together with Tohsaka, and Sakura looking downtrodden, not to mention the awkward vibe between her and Illya, that I couldn't really move much.::
-76960::$$$message_0714_0006_0000$$$::As a result, I couldn't enjoy Tohsaka's excellent cooking, and spent the hour being reminded of what a flawless overachiever Rin Tohsaka is.::
-76961::$$$message_0714_0007_0000$$$::    And then...[lr]::
-76962::$$$message_0714_0007_0001$$$::"I've got some stuff to prep in my room, so I'll turn in for the night.[lr]::
-76963::$$$message_0714_0007_0002$$$::We can hash out the details tomorrow morning. Get some rest, everyone."[lr]::
-76964::$$$message_0714_0007_0003$$$::She even washes all the dishes until they're spotless before she excuses herself.::
-76965::$$$message_0714_0008_0000$$$::"I'm going to my room, too. Everyone's tired after the forest today, so we'd better sleep early."[lr]::
-76966::$$$message_0714_0008_0001$$$::I don't know if that was a dig at Sakura, but Illya leaves without looking at her.::
-76967::$$$message_0714_0009_0000$$$::"...Haah. Seriously, what is going on..."[lr]::
-76968::$$$message_0714_0009_0001$$$::In a sense, everything's going just as Tohsaka predicted, although Illya's attitude has been weird.[lr]::
-76969::$$$message_0714_0009_0002$$$::The way she's treating Sakura is similar to the icy demeanor she had when we first met.::
-76970::$$$message_0714_0010_0000$$$::"Why is Illya being so gruff with her when it's their first time meeting? The Einzberns and Makiris must not get along."::
-76971::$$$message_0714_0011_0000$$$::According to Kotomine, the Einzberns, Makiris, and Tohsakas were prestigious mage families that founded the Holy Grail War.[lr]::
-76972::$$$message_0714_0011_0001$$$::Apparently, the Einzberns had the most authority, so maybe Illya thinks of Tohsaka and Sakura as beneath her.::
-76973::$$$message_0714_0012_0000$$$::"...Haah. I hope she doesn't give you the wrong impression, Sakura. Illya can be difficult when she's in a bad mood, but I'm sure you'll get along once you talk to her.[lr]::
-76974::$$$message_0714_0012_0001$$$::She's just shy towards strangers[line2]hey, Sakura?"[lr]::
-76975::$$$message_0714_0012_0002$$$::Sakura doesn't answer.[lr]::
-76976::$$$message_0714_0012_0003$$$::I watch her head waver, until she falls limply backward[line2]::
+76940::$$$message_0714_0000_0000$$$::"Ah é mesmo. Sakura, essa é a Illya.[lr]::
+76941::$$$message_0714_0000_0001$$$::O Berserker foi derrotado, mas nós conseguimos salvar a Illya. Assim como a Tohsaka, ela também vai morar aqui, então dê a ela boas vindas."[lr]::
+76942::$$$message_0714_0000_0002$$$::Eu apresento a Illya para a Sakura, e a Sakura para a Illya.::
+76943::$$$message_0714_0001_0000$$$::"Olá, Sakura. Ouvi dizer que você é filha dos Makiri, mas não irei te menosprezar. Parece que você é uma conhecida do Shirou, então vou te tratar especialmente como um ser humano."[lr]::
+76944::$$$message_0714_0001_0001$$$::"...Tem razão. Então agirei da mesma forma."::
+76945::$$$message_0714_0002_0000$$$::"...?"[lr]::
+76946::$$$message_0714_0002_0001$$$::E a apresentação delas termina desse jeito.[lr]::
+76947::$$$message_0714_0002_0002$$$::A Illya vai com a Tohsaka até a sala de estar.[lr]::
+76948::$$$message_0714_0002_0003$$$::E...[lr]::
+76949::$$$message_0714_0002_0004$$$::"[w l=8][line8]"[lr]::
+76950::$$$message_0714_0002_0005$$$::A Sakura fica olhando para ela com um olhar frio.::
+76951::$$$message_0714_0003_0000$$$::O jantar começou como uma tempestade.[lr]::
+76952::$$$message_0714_0003_0001$$$::...Não, não é correto usar o termo tempestade.[lr]::
+76953::$$$message_0714_0003_0002$$$::Parecia mais uma brisa calma. Já que não tinha vento, eu não percebi o tempo passando, e o jantar terminou assim.[lr]::
+76954::$$$message_0714_0003_0003$$$::A atmosfera estava dolorosamente tensa.::
+76955::$$$message_0714_0004_0000$$$::"Eu vou preparar o jantar. Será como comer macarrão para celebrar um evento importante."[lr]::
+76956::$$$message_0714_0004_0001$$$::E assim, a Tohsaka preparou o jantar por conta própria. Eu odeio admitir, mas estava melhor que o meu. A Sakura deve estar empatada com ela em comida ocidental, que é a sua especialidade.::
+76957::$$$message_0714_0005_0000$$$::"[w l=4][line4]T-Tohsaka-Senpai, você cozinha bem."[lr]::
+76958::$$$message_0714_0005_0001$$$::A Sakura ficou em choque, e começou a comer em silêncio.[lr]::
+76959::$$$message_0714_0005_0002$$$::Eu não consegui fazer mais nada porque estava preocupado com várias coisas, como a comida da Tohsaka, o fato de eu estar comendo a comida feita pela Tohsaka, o desânimo da Sakura, a tensão da Illya e a tensão da Sakura.::
+76960::$$$message_0714_0006_0000$$$::Como resultado, eu não percebi o quão boa estava a comida da Tohsaka. Eu só percebi o quanto a Tohsaka era perfeita depois do jantar.::
+76961::$$$message_0714_0007_0000$$$::[w l=4][line4]E então.[lr]::
+76962::$$$message_0714_0007_0001$$$::"Eu tenho que arrumar o meu quarto, então estou indo.[lr]::
+76963::$$$message_0714_0007_0002$$$::Vou te passar os detalhes amanhã de manhã, então é melhor você descansar por hoje."[lr]::
+76964::$$$message_0714_0007_0003$$$::A Tohsaka lava a louça de um jeito impecável, e então sai da sala de estar.::
+76965::$$$message_0714_0008_0000$$$::"Eu também estou indo para o meu quarto. Todo mundo que esteve na floresta está cansado. O seu corpo não vai durar muito se você não dormir um pouco."[lr]::
+76966::$$$message_0714_0008_0001$$$::...Deve ter sido uma indireta para a Sakura, que ficou em casa o dia inteiro. A Illya fala sem olhar para a Sakura e se levanta.::
+76967::$$$message_0714_0009_0000$$$::"...Cara, o que ela tem?"[lr]::
+76968::$$$message_0714_0009_0001$$$::Eu já esperava isso da Tohsaka, mas a Illya está agindo de maneira estranha.[lr]::
+76969::$$$message_0714_0009_0002$$$::Ela está sendo fria com a Sakura, assim como ela agia comigo quando nos encontramos pela primeira vez.::
+76970::$$$message_0714_0010_0000$$$::"Por que a Illya está sendo tão agressiva com a Sakura? Será que os Einzbern e os Makiri não se dão bem?"::
+76971::$$$message_0714_0011_0000$$$::De acordo com o Kotomine, os Einzbern, os Makiri e os Tohsaka são famílias nobres de magos que criaram a Guerra do Santo Graal.[lr]::
+76972::$$$message_0714_0011_0001$$$::Parece que os Einzberns são de um nível mais elevado, então do ponto de vista da Illya, a Sakura e a Tohsaka devem estar abaixo dela.::
+76973::$$$message_0714_0012_0000$$$::"...Cara. Não tire conclusões precipitadas, Sakura. A Illya só está dizendo isso porque está de mal-humor, mas vocês vão se dar bem quando começarem a conversar.[lr]::
+76974::$$$message_0714_0012_0001$$$::Ela só é meio tímida... Sakura?"[lr]::
+76975::$$$message_0714_0012_0002$$$::A Sakura não responde.[lr]::
+76976::$$$message_0714_0012_0003$$$::Ela balança a cabeça para frente e para trás, e começa a cair aos poucos[w l=4][line4]::
 76977::$$$message_0714_0013_0000$$$::"Sakura...!"[lr]::
-76978::$$$message_0714_0013_0001$$$::I catch her by the shoulders.::
-76979::$$$message_0714_0014_0000$$$::"...Huh, Senpai? What's wrong? Why are you making such a scary face?"[lr]::
-76980::$$$message_0714_0014_0001$$$::...Sakura didn't even realize it.[lr]::
-76981::$$$message_0714_0014_0002$$$::She's asking me what's happening, as if she wasn't about to faint.::
-76982::$$$message_0714_0015_0000$$$::"...No, it's nothing."[lr]::
-76983::$$$message_0714_0015_0001$$$::I let go of her shoulders.[lr]::
+76978::$$$message_0714_0013_0001$$$::Eu seguro os ombros dela e a impeço de cair.::
+76979::$$$message_0714_0014_0000$$$::"...Hã, Senpai? Por que está fazendo essa cara?"[lr]::
+76980::$$$message_0714_0014_0001$$$::...A Sakura não percebeu.[lr]::
+76981::$$$message_0714_0014_0002$$$::Ela me olha como se nada tivesse acontecido, sem fazer ideia de que quase caiu no chão.::
+76982::$$$message_0714_0015_0000$$$::"Não, não é nada demais."[lr]::
+76983::$$$message_0714_0015_0001$$$::Eu a solto.[lr]::
 76984::$$$message_0714_0015_0002$$$::"Ah..."[lr]::
-76985::$$$message_0714_0015_0003$$$::Looks like that was enough to make her notice.::
-76986::$$$message_0714_0016_0000$$$::"...I'm sorry. I was a little tired, so I fell asleep."[lr]::
-76987::$$$message_0714_0016_0001$$$::She apologizes for something she doesn't even understand.::
-76988::$$$message_0714_0017_0000$$$::"...Yeah. I bet you haven't had much rest for the last two days. You heard Tohsaka. Let's just go to sleep. You don't need to make yourself stay awake."::
-76989::$$$message_0714_0018_0000$$$::"R-right. I'll take you up on that, then. I should feel better tomorrow if I get a good night's sleep.[lr]::
-76990::$$$message_0714_0018_0001$$$::Since Tohsaka-senpai took care of us tonight, I'll make breakfast tomorrow morning. I'll cook the things you like for breakfast."::
-76991::$$$message_0714_0019_0000$$$::She stands up with a mischievous grin.[lr]::
-76992::$$$message_0714_0019_0001$$$::...Her gait is steady.[lr]::
-76993::$$$message_0714_0019_0002$$$::Accompanying her to her bedroom would backfire right now.[lr]::
-76994::$$$message_0714_0019_0003$$$::If Sakura's trying to convince me that she's okay, then I should believe her.::
-76995::$$$message_0714_0020_0000$$$::"All right. Go ahead and show her who's boss.[lr]::
-76996::$$$message_0714_0020_0001$$$::You're our last line of defense, Sakura. To be honest, we need to hit back at Tohsaka, or we're done for."[lr]::
-76997::$$$message_0714_0020_0002$$$::"You can count on me. I'll knock her out in one punch!"::
-76998::$$$message_0714_0021_0000$$$::That sounds promising... Mm, I'll do what little I can to help, too.[lr]::
-76999::$$$message_0714_0021_0001$$$::Let's sleep early tonight, then meet up in the kitchen at six in the morning?"[lr]::
-77000::$$$message_0714_0021_0002$$$::"Yes. I'll be waiting, Senpai."::
-77001::$$$message_0714_0022_0000$$$::Sakura gives me a polite bow, and then leaves for the side hallway.[lr]::
-77002::$$$message_0714_0022_0001$$$::Just before she's gone...[lr]::
-77003::$$$message_0714_0022_0002$$$::"...Um, Senpai. Please don't tell my sister what happened just earlier."[lr]::
-77004::$$$message_0714_0022_0003$$$::She says in a strained voice, without turning around.::
-77005::$$$message_0714_0023_0000$$$::"Yeah. You just dozed off. It isn't worth mentioning."[lr]::
-77006::$$$message_0714_0023_0001$$$::"...Right. Good night, Senpai."[lr]::
-77007::$$$message_0714_0023_0002$$$::She slides the door shut.[lr]::
-77008::$$$message_0714_0023_0003$$$::Sakura goes off to the guesthouse without looking back.::
-77009::$$$message_0714_0024_0000$$$::[font italic=true]...[font italic=false][lr]::
-77010::$$$message_0714_0024_0001$$$::She must mean her fainting spell.[lr]::
-77011::$$$message_0714_0024_0002$$$::Sakura isn't recovering as well as she hopes.[lr]::
-77012::$$$message_0714_0024_0003$$$::Kotomine said that she only has days left.[lr]::
-77013::$$$message_0714_0024_0004$$$::Regardless of what Zouken wants to do with her, she isn't stable.::
-77014::$$$message_0714_0025_0000$$$::That's why she's been trying to put on a strong front.[lr]::
-77015::$$$message_0714_0025_0001$$$::She'll be fine.[lr]::
-77016::$$$message_0714_0025_0002$$$::That's what she insists on telling us because she doesn't want us to worry.::
-77017::$$$message_0714_0026_0000$$$::"Her sister, huh?"[lr]::
-77018::$$$message_0714_0026_0001$$$::Sakura never refers to Tohsaka that way except when we're alone.[lr]::
-77019::$$$message_0714_0026_0002$$$::And then only when something's weighing on her mind.[lr]::
-77020::$$$message_0714_0026_0003$$$::...When she can't stop herself from wishing for help, she calls Tohsaka her big sister.[lr]::
-77021::$$$message_0714_0026_0004$$$::Their complicated family background is what led to a wall being built between sisters.::
-77022::$$$message_0714_0027_0000$$$::If we can destroy that wall, then they can go back to being regular siblings.[lr]::
-77023::$$$message_0714_0027_0001$$$::I think that might be the best thing I can do for Sakura.::
-77024::$$$message_0714_0028_0000$$$::"...Yeah. They're off to a rocky start, but there's still hope."[lr]::
-77025::$$$message_0714_0028_0001$$$::No one saw this situation coming, but it might turn out to be a good chance to tear down that wall.::
+76985::$$$message_0714_0015_0003$$$::E graças a isso, ela finalmente percebe.::
+76986::$$$message_0714_0016_0000$$$::"...Sinto muito. Eu adormeci porque estou um pouco cansada."[lr]::
+76987::$$$message_0714_0016_0001$$$::Ela se desculpa por algo que ela nem sabia que aconteceu.::
+76988::$$$message_0714_0017_0000$$$::"...Bem, só se passou um dia desde a cirurgia. Você também deveria descansar, Sakura. Vamos seguir o conselho da Tohsaka e dormir por hoje. Nós não precisamos nos esforçar para ficar acordado."::
+76989::$$$message_0714_0018_0000$$$::"V-Você tem razão. Irei seguir o conselho dela com prazer. Eu vou me sentir bem melhor amanhã se tiver uma boa noite de sono.[lr]::
+76990::$$$message_0714_0018_0001$$$::Amanhã eu vou preparar o café da manhã, já que a Tohsaka-Senpai fez o jantar de hoje. Irei me vingar dela preparando o café da manhã do jeito que você me treinou."::
+76991::$$$message_0714_0019_0000$$$::A Sakura sorri brincando e se levanta.[lr]::
+76992::$$$message_0714_0019_0001$$$::...Parece que ela consegue ficar de pé sozinha.[lr]::
+76993::$$$message_0714_0019_0002$$$::Eu não preciso acompanhá-la até o quarto de hóspedes.[lr]::
+76994::$$$message_0714_0019_0003$$$::A Sakura parece estar bem, então eu tenho que acreditar nela.::
+76995::$$$message_0714_0020_0000$$$::"Isso mesmo. Mostre para a Tohsaka como é que se faz.[lr]::
+76996::$$$message_0714_0020_0001$$$::Você é a nossa última esperança. Nós estaremos encurralados se você não conseguir contra-atacar."[lr]::
+76997::$$$message_0714_0020_0002$$$::"Sim, pode deixar comigo. Com certeza eu vou acabar com ela!"::
+76998::$$$message_0714_0021_0000$$$::"Fico feliz de poder contar contigo. ...Vou tentar te ajudar do jeito que der.[lr]::
+76999::$$$message_0714_0021_0001$$$::Vamos dormir mais cedo hoje e nos encontrar na cozinha às 6 da manhã. Está bom para você?"[lr]::
+77000::$$$message_0714_0021_0002$$$::"Sim. Estarei te esperando, Senpai."::
+77001::$$$message_0714_0022_0000$$$::A Sakura se curva e anda até a varanda.[lr]::
+77002::$$$message_0714_0022_0001$$$::......E então.[lr]::
+77003::$$$message_0714_0022_0002$$$::"[w l=3][line3]Ei, Senpai. Por favor, não conte para a Nee-san sobre o que aconteceu agora há pouco."[lr]::
+77004::$$$message_0714_0022_0003$$$::A Sakura fala com uma voz tensa sem se virar de costas.::
+77005::$$$message_0714_0023_0000$$$::"Eu sei. Você só estava com sono, não é nada tão importante que eu precise contar para a Tohsaka."[lr]::
+77006::$$$message_0714_0023_0001$$$::"[w l=4][line4]Está bem. Boa noite, Senpai."[lr]::
+77007::$$$message_0714_0023_0002$$$::...Ela fecha a porta.[lr]::
+77008::$$$message_0714_0023_0003$$$::A Sakura sai sem olhar para trás.::
+77009::$$$message_0714_0024_0000$$$::"[w l=8][line8]"[lr]::
+77010::$$$message_0714_0024_0001$$$::A Sakura deve estar falando sobre aquela hora em que ela quase desmaiou.[lr]::
+77011::$$$message_0714_0024_0002$$$::Ela não se recuperou tanto quanto pensa.[lr]::
+77012::$$$message_0714_0024_0003$$$::O Kotomine disse que ela só vai durar mais alguns dias.[lr]::
+77013::$$$message_0714_0024_0004$$$::Mesmo ignorando o que o Zouken irá fazer com a Sakura, ela ainda está instável.::
+77014::$$$message_0714_0025_0000$$$::É por isso que a Sakura está fingindo que está bem.[lr]::
+77015::$$$message_0714_0025_0001$$$::Como se ela estivesse dizendo...[lr]::
+77016::$$$message_0714_0025_0002$$$::Que nós não precisamos nos preocupar.::
+77017::$$$message_0714_0026_0000$$$::"...Nee-san, hã?"[lr]::
+77018::$$$message_0714_0026_0001$$$::A Sakura só diz essa palavra quando está sozinha comigo.[lr]::
+77019::$$$message_0714_0026_0002$$$::E apenas quando ela está com medo.[lr]::
+77020::$$$message_0714_0026_0003$$$::...A Sakura chama a Tohsaka de "Nee-san" quando não consegue mais reprimir os seus gritos de socorro.[lr]::
+77021::$$$message_0714_0026_0004$$$::Existe uma parede entre elas por conta do jeito que elas acabaram crescendo.::
+77022::$$$message_0714_0027_0000$$$::Elas podem conseguir voltar a ser irmãs normais se essa parede for destruída.[lr]::
+77023::$$$message_0714_0027_0001$$$::Essa pode ser a melhor coisa que eu posso fazer pela Sakura nesse momento.::
+77024::$$$message_0714_0028_0000$$$::"...Sim. Elas estão meio sem jeito, mas ainda há esperança."[lr]::
+77025::$$$message_0714_0028_0001$$$::Essa situação acabou complicando as coisas, mas talvez essa seja uma boa oportunidade afinal.::
 

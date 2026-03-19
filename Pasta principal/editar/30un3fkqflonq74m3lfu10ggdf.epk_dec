@@ -1,44 +1,44 @@
 DAT
 id=qid::label=str::text=lstr::
-12334::$$$message_0123_0000_0000$$$::I hope I'm wrong, but...[lr]::
-12335::$$$message_0123_0000_0001$$$::Tohsaka won't be stingy about her gems, will she...?::
-12336::$$$message_0123_0001_0000$$$::"Wait a sec. I just want to be sure here... You're not going to hold back, right? I know jewels are expensive, but your life is worth a lot more."::
-12337::$$$message_0123_0002_0000$$$::"Hmph. Easy for you to say. You don't know the state of my finances. You'd probably lose your mind if you found out how much even one of these is worth."::
-12338::$$$message_0123_0003_0000$$$::"Ha. I'd never lose my mind over money![lr]::
-12339::$$$message_0123_0003_0001$$$::Fine. If you're so adamant, then I'll help with it. I just have to pay for half the value of the jewels you use, right?"[lr]::
-12340::$$$message_0123_0003_0002$$$::"Really? A man doesn't go back on his word?"::
-12341::$$$message_0123_0004_0000$$$::"Nope. I have some savings, and I can earn money if I don't have enough. I'm having you use weapons you've accumulated over a lot of time, so I should help out too."::
-12342::$$$message_0123_0005_0000$$$::...Okay, I might be making this offer out of pride.[lr]::
-12343::$$$message_0123_0005_0001$$$::I guess I want Tohsaka to see me in a positive light, no matter what.::
-12344::$$$message_0123_0006_0000$$$::"Hey, what? That's a really, really weird look..."[lr]::
-12345::$$$message_0123_0006_0001$$$::"Well yes. I'm happy about it, and now I have something to look forward to.[lr]::
-12346::$$$message_0123_0006_0002$$$::By the way, Emiya. Aren't you curious how much one of these gems is worth?"::
-12347::$$$message_0123_0007_0000$$$::"Well, I suppose it's about a hundred thousand yen or something."[lr]::
-12348::$$$message_0123_0007_0001$$$::"No, no. That would get you a cheap throwaway gem at best."[lr]::
-12349::$$$message_0123_0007_0002$$$::"Maybe two hundred thousand yen?"[lr]::
-12350::$$$message_0123_0007_0003$$$::"Not going up by much there. Still wrong."[lr]::
-12351::$$$message_0123_0007_0004$$$::"Okay, how about two hundred fifty thousand yen?"::
-12352::$$$message_0123_0008_0000$$$::"You know, what you usually do when you're guessing prices is...you add zeroes.[lr]::
-12353::$$$message_0123_0008_0001$$$::Why are you not going up past the hundred thousands?"[lr]::
-12354::$$$message_0123_0008_0002$$$::"Gh... I kind of didn't want to say it, but three hundred thousand?"::
-12355::$$$message_0123_0009_0000$$$::"Again, I ask: Why do you refuse to go up another digit?"[lr]::
-12356::$$$message_0123_0009_0001$$$::"Ah...um...could it be a million yen...?"[lr]::
-12357::$$$message_0123_0009_0002$$$::The ground is falling away at my feet.::
-12358::$$$message_0123_0010_0000$$$::"Close. Add another zero."[lr]::
-12359::$$$message_0123_0010_0001$$$::...And I am about to fall right into the bowels of hell itself.::
-12360::$$$message_0123_0011_0000$$$::That's astronomical.[lr]::
-12361::$$$message_0123_0011_0001$$$::I've never heard a number so devastating before. If I were to turn that number into points of damage, I could beat any video game boss in a heartbeat.::
-12362::$$$message_0123_0011_0002$$$::"What's wrong? You look pale, Emiya."[lr]::
-12363::$$$message_0123_0011_0003$$$::"Uh...no, I'm fine. I can calculate fine."                                                                                                                                                                                                                                                                                                                                                                                  [lr]::
-12364::$$$message_0123_0011_0004$$$::Oh, I can calculate all right. And it's hurting more than math ever should.::
-12365::$$$message_0123_0012_0000$$$::"Oh really? Then I'll ask you one more time: I can use my gems, right? I won't hold back. It'll be spectacular. Are you good with that?"[lr]::
-12366::$$$message_0123_0012_0001$$$::...Ugh.[lr]::
-12367::$$$message_0123_0012_0002$$$::I fight back the desire to tell Tohsaka to use them sparingly.::
-12368::$$$message_0123_0013_0000$$$::"Tohsaka...I'm going to be in your debt."[lr]::
-12369::$$$message_0123_0013_0001$$$::I try to sound as brave as I can.[lr]::
-12370::$$$message_0123_0013_0002$$$::"Of course. I won't charge you interest, so you can spend all your life paying me back."[lr]::
-12371::$$$message_0123_0013_0003$$$::Tohsaka...clearly isn't joking.::
-12372::$$$message_0123_0014_0000$$$::Even if I spent my whole life working to do it, I'd never be able to pay that back.[lr]::
-12373::$$$message_0123_0014_0001$$$::Huh.[lr]::
-12374::$$$message_0123_0014_0002$$$::I'd rather not think about it, but I think Tohsaka is going to be in charge of my life from now on.::
+12334::$$$message_0123_0000_0000$$$::...Eu não quero pensar que seja o caso, mas...[lr]::
+12335::$$$message_0123_0000_0001$$$::A Tohsaka não vai querer economizar as suas joias, vai...?::
+12336::$$$message_0123_0001_0000$$$::"Espera aí. Eu vou dizer isso mais uma vez: não se segure, Tohsaka. Eu sei que as joias são caras, mas elas não podem substituir a sua vida, certo?"::
+12337::$$$message_0123_0002_0000$$$::"Heh. Você só diz essas coisas irresponsáveis porque não sabe sobre os meus assuntos financeiros. Eu aposto que você iria desmaiar se soubesse quanto vale uma coisa dessas."::
+12338::$$$message_0123_0003_0000$$$::"[line2]Ei. Eu não vou perder o equilíbrio só por causa de uma conversa sobre dinheiro.[lr]::
+12339::$$$message_0123_0003_0001$$$::...Está bem. Se você diz isso, então eu também vou tomar responsabilidade. Vou pagar por metade das joias que você for usar."[lr]::
+12340::$$$message_0123_0003_0002$$$::"É sério? Um homem não voltaria atrás de uma promessa dessas, sabia?"::
+12341::$$$message_0123_0004_0000$$$::"Sem problema. Eu tenho um pouco de dinheiro guardado, e eu vou trabalhar para te pagar o resto se não for o suficiente. Você vai usar uma arma que esteve guardando esse tempo todo, então eu preciso ser sincero."::
+12342::$$$message_0123_0005_0000$$$::...Bem, é mais ser teimoso do que sincero.[lr]::
+12343::$$$message_0123_0005_0001$$$::Acho que eu quero me mostrar para a Tohsaka.::
+12344::$$$message_0123_0006_0000$$$::"...Ei, o que foi? Você está com um sorriso bem torto no rosto, Tohsaka."[lr]::
+12345::$$$message_0123_0006_0001$$$::"Sim, é porque eu estou feliz, e também porque eu achei a ideia um pouco divertida.[lr]::
+12346::$$$message_0123_0006_0002$$$::Aliás, Emiya-kun. Você não precisa saber quanto custa uma dessas joias?"::
+12347::$$$message_0123_0007_0000$$$::"[line2]Bem, não é apenas 100.000 ienes, certo?"[lr]::
+12348::$$$message_0123_0007_0001$$$::"Claro que não. Seria mais ou menos esse valor se fosse uma joia para se usar só uma vez."[lr]::
+12349::$$$message_0123_0007_0002$$$::"...Então, por volta de 200.000 ienes?"[lr]::
+12350::$$$message_0123_0007_0003$$$::"Esse foi um aumento estranho. Mas também não é isso."[lr]::
+12351::$$$message_0123_0007_0004$$$::"...E-então, uns 250.000 ienes?"::
+12352::$$$message_0123_0008_0000$$$::"Olha só. Não era para você já ter passado para o próximo dígito?[lr]::
+12353::$$$message_0123_0008_0001$$$::Por que você não sai da casa dos seis dígitos?"[lr]::
+12354::$$$message_0123_0008_0002$$$::"Guh... Eu não queria dizer isso, mas... 300.000 ienes, talvez?"::
+12355::$$$message_0123_0009_0000$$$::"Eu já te falei. Por que você não tenta um valor com sete dígitos?"[lr]::
+12356::$$$message_0123_0009_0001$$$::"Agh... não me diga que é 1.000.000 de ienes?"[lr]::
+12357::$$$message_0123_0009_0002$$$::Eu estou com vontade de pular da ponte depois de ter perguntado isso.::
+12358::$$$message_0123_0010_0000$$$::"Quase lá. Mais um dígito."[lr]::
+12359::$$$message_0123_0010_0001$$$::Mas o que está abaixo de mim é um buraco que me leva direto para o inferno.::
+12360::$$$message_0123_0011_0000$$$::É um valor astronômico.[lr]::
+12361::$$$message_0123_0011_0001$$$::Eu não consigo imaginar um número tão grande assim... se você convertesse em pontos de dano, isso mataria qualquer chefão inimigo.::
+12362::$$$message_0123_0011_0002$$$::"Qual o problema? Você parece meio pálido, Emiya-kun."[lr]::
+12363::$$$message_0123_0011_0003$$$::"Ah[line2]não, eu estou bem, eu consigo fazer as contas sem problema."[lr]::
+12364::$$$message_0123_0011_0004$$$::Só que nesse caso isso será usado contra mim.::
+12365::$$$message_0123_0012_0000$$$::"É mesmo? Então eu vou te perguntar só para garantir, mas eu posso usar as minhas joias à vontade, não é? Eu não vou economizar nenhuma delas. Vou usá-las sem pensar duas vezes."[lr]::
+12366::$$$message_0123_0012_0001$$$::...![lr]::
+12367::$$$message_0123_0012_0002$$$::Eu engulo as minhas palavras, tentando dizer para que ela as use com moderação se puder.::
+12368::$$$message_0123_0013_0000$$$::"[line2]Tohsaka, posso ficar te devendo?"[lr]::
+12369::$$$message_0123_0013_0001$$$::Eu tento mostrar o máximo de coragem que consigo.[lr]::
+12370::$$$message_0123_0013_0002$$$::"Mas é claro! Eu não vou ser interesseira, então você pode ficar a vida toda me pagando de volta."[lr]::
+12371::$$$message_0123_0013_0003$$$::A Tohsaka-san responde com um tom bem sério.::
+12372::$$$message_0123_0014_0000$$$::Ei, eu não vou conseguir devolver uma quantia tão grande assim mesmo se ficasse pagando pelo resto da vida.[lr]::
+12373::$$$message_0123_0014_0001$$$::...Cara.[lr]::
+12374::$$$message_0123_0014_0002$$$::Eu não quero pensar muito sobre isso, mas sinto que a Tohsaka está controlando a minha vida agora...::
 

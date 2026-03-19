@@ -1,83 +1,83 @@
 DAT
 id=qid::label=str::text=lstr::
-6567::$$$message_0057_0000_0000$$$::The sounds of clashing shinai echo through the dojo.[lr]::
-6568::$$$message_0057_0000_0001$$$::Each bout goes essentially the same as they had the days before.::
-6569::$$$message_0057_0001_0000$$$::Saber casually sweeps my desperate strikes aside and counterattacks far, far more effectively.[lr]::
-6570::$$$message_0057_0001_0001$$$::I barely manage to block and continually strike back, only for Saber to riposte...and I lose. Every time.::
-6571::$$$message_0057_0002_0000$$$::"Ha...haaa...hah...haaa!"[lr]::
-6572::$$$message_0057_0002_0001$$$::I stop, breathing heavily, shoulders heaving.[lr]::
-6573::$$$message_0057_0002_0002$$$::Wiping sweat from my brow, I work to get my breathing under control.::
-6574::$$$message_0057_0003_0000$$$::"Why are you resting? You would not have given up so quickly yesterday. Come. Attack me. Quickly!"::
-6575::$$$message_0057_0004_0000$$$::"Uh...hold on. I need to catch my breath. A little break, please."::
-6576::$$$message_0057_0005_0000$$$::"This is so unlike you. If you will not attack, then I will come at you. You do not mind, do you?"[lr]::
-6577::$$$message_0057_0005_0001$$$::Saber stares down at her poor student.[lr]::
-6578::$$$message_0057_0005_0002$$$::My body just won't listen, no matter how she looks at me.::
-6579::$$$message_0057_0006_0000$$$::"...What has gotten into you, Shirou? You are like a different person than you were these past days.[lr]::
-6580::$$$message_0057_0006_0001$$$::The way you struck at me so fiercely and determinedly amazed me, but today I feel nothing of that strength."::
-6581::$$$message_0057_0007_0000$$$::"I know that, I really do. I just can't do almost anything today."[lr]::
-6582::$$$message_0057_0007_0001$$$::My situation has drastically changed since yesterday.::
-6583::$$$message_0057_0008_0000$$$::"Is your body still burning? That is no excuse for your movements becoming sluggish. You must cool your head and refresh your mindset."::
-6584::$$$message_0057_0009_0000$$$::"Well, before I do that, can you do something about THAT, first?"[lr]::
-6585::$$$message_0057_0009_0001$$$::I point toward our audience, standing by the wall.::
-6586::$$$message_0057_0010_0000$$$::"What? Don't mind me; just continue your training."::
-6587::$$$message_0057_0011_0000$$$::"..."[lr]::
-6588::$$$message_0057_0011_0001$$$::Tohsaka doesn't get it.[lr]::
-6589::$$$message_0057_0011_0002$$$::I can't concentrate on fighting Saber with her staring at me like that.::
-6590::$$$message_0057_0012_0000$$$::"Is Rin a distraction? That is only further proof of your need for training.[lr]::
-6591::$$$message_0057_0012_0001$$$::Very well then. I shall make it so that you need not worry about observers."[wsay canskip=1]::
-6592::$$$message_0057_0013_0000$$$::"Whoa, hold up, Saber! I still haven't caught my breath[line2]"[lr]::
-6593::$$$message_0057_0013_0001$$$::"That will not be an issue. Breathing is something you will simply adjust to during battle."[lr]::
-6594::$$$message_0057_0013_0002$$$::Saber suddenly vanishes.::
-6595::$$$message_0057_0014_0000$$$::"Gh[line2]!?"[lr]::
-6596::$$$message_0057_0014_0001$$$::The moment I realize I'm in danger and raise my shinai to guard my face, Saber strikes me right on the head.::
-6597::$$$message_0057_0015_0000$$$::It was a rough morning.[lr]::
-6598::$$$message_0057_0015_0001$$$::After getting knocked out, I stopped worrying about Tohsaka watching. My focus went entirely to blocking Saber's attacks, and the next thing I knew, it was lunchtime.::
-6599::$$$message_0057_0016_0000$$$::"Seriously, you are so...composed.[lr]::
-6600::$$$message_0057_0016_0001$$$::Three hours of fighting Shirou, and you aren't the least bit ruffled. You're usually pretty quiet, but you're much more so in battle. You're almost robotic."::
-6601::$$$message_0057_0017_0000$$$::I'm not sure if it's because she enjoyed seeing me getting knocked around, but Tohsaka is in a good mood.[lr]::
-6602::$$$message_0057_0017_0001$$$::The two are resting in the living room.[lr]::
-6603::$$$message_0057_0017_0002$$$::As for me, I'm preparing lunch by myself as punishment for my lax approach to training this morning.[lr]::
-6604::$$$message_0057_0017_0003$$$::...Unbelievable.[lr]::
-6605::$$$message_0057_0017_0004$$$::I want to just make something easy, like cold somen noodles.::
-6606::$$$message_0057_0018_0000$$$::"Robotic, you say? You may be correct. It is not something I have ever been conscious of, but perhaps I shut off my emotions while I wield a blade. My approach should not change, whether in true battle or simple practice."::
-6607::$$$message_0057_0019_0000$$$::"Oh? What, is that a mindset you employ as a woman wielding a sword? Are you trying to use your mental state to compensate for your inferior physique?"::
-6608::$$$message_0057_0020_0000$$$::"No, Rin. Maintaining one's composure is a key part of battle. It matters not whether you are man or woman.[lr]::
-6609::$$$message_0057_0020_0001$$$::I believe you also shut off your emotions in battle, Rin. I know you are the type who can do so."::
-6610::$$$message_0057_0021_0000$$$::"Hmph. You don't have to just blurt it out, you know. Well, it's true, but...[lr]::
-6611::$$$message_0057_0021_0001$$$::But you and I are different. What I try to shut off is my tendency to be too soft. I don't see things in such logical, abstract terms as you do."::
-6612::$$$message_0057_0022_0000$$$::"It appears that way. Which is why you are so showy and splendid.[lr]::
-6613::$$$message_0057_0022_0001$$$::You are able to maintain your feminine grace, even in battle."::
-6614::$$$message_0057_0023_0000$$$::"Are you being sarcastic? I can't come near you in terms of grace. I don't mind admitting it since Shirou is out of earshot, but I was amazed by how beautiful you are the first moment I saw you."[lr]::
-6615::$$$message_0057_0023_0001$$$::...Uh, I [font italic=true]can[font italic=false] hear you, Tohsaka.::
-6616::$$$message_0057_0024_0000$$$::"You mistake me, then. If you see grace in me, then you are simply seeing the elegance associated with the Saber class, rather than my physical appearance."::
-6617::$$$message_0057_0025_0000$$$::"That's not true. I really thought that, as a woman, I couldn't even begin to compete with you. I wouldn't have been so shocked otherwise."::
-6618::$$$message_0057_0026_0000$$$::"...And that is where you are mistaken. I have never thought of myself as a woman, and I have never been treated as one.[lr]::
-6619::$$$message_0057_0026_0001$$$::I therefore cannot be so elegant as you seem to believe."::
-6620::$$$message_0057_0027_0000$$$::Saber's words bring the conversation to an end.[lr]::
-6621::$$$message_0057_0027_0001$$$::[font italic=true]...[font italic=false][lr]::
-6622::$$$message_0057_0027_0002$$$::As I listen in, kitchen knife in hand, I find myself getting irritated by what Saber's saying.::
-6623::$$$message_0057_0028_0000$$$::"I've always wondered...what does she think she is?"[lr]::
-6624::$$$message_0057_0028_0001$$$::I chop the chicken a bit harder than I need to.[lr]::
-6625::$$$message_0057_0028_0002$$$::For some reason, I'm annoyed.::
-6626::$$$message_0057_0029_0000$$$::[font italic=true]I have never thought of myself as a woman.[font italic=false]::
-6627::$$$message_0057_0030_0000$$$::"Hmph. Not that it has anything to do with me...!"[lr]::
-6628::$$$message_0057_0030_0001$$$::I slam my knife down onto the cutting board as if it were a hammer.[lr]::
-6629::$$$message_0057_0030_0002$$$::It doesn't help me feel any better.::
-6630::$$$message_0057_0031_0000$$$::"So this is today's task.[lr]::
-6631::$$$message_0057_0031_0001$$$::I brought more than yesterday, and it seems like you're body's calmed down, so you'll probably get it right this time."::
-6632::$$$message_0057_0032_0000$$$::I have no idea how she carried them here, but Tohsaka reveals about forty lamps.::
-6633::$$$message_0057_0033_0000$$$::"I'm going to step outside for a bit. I'll be back in a little while, so I expect you to be done by the time I'm back."[lr]::
-6634::$$$message_0057_0033_0001$$$::Tohsaka leaves her room.::
-6635::$$$message_0057_0034_0000$$$::"...Hnnn..."[lr]::
-6636::$$$message_0057_0034_0001$$$::All right.[lr]::
-6637::$$$message_0057_0034_0002$$$::It's only been a night, but I hope I can succeed at least a couple of times.::
-6638::$$$message_0057_0035_0000$$$::"Phew...I think I got half done."[lr]::
-6639::$$$message_0057_0035_0001$$$::I took an hour to work on Strengthening about twenty lamps.[lr]::
-6640::$$$message_0057_0035_0002$$$::Half of them shattered, and nothing at all happened to the other half.[lr]::
-6641::$$$message_0057_0035_0003$$$::Of those that didn't change, maybe five looked like they'd been infused with magical energy. Now for the remaining twenty...::
-6642::$$$message_0057_0036_0000$$$::"Hold on. Wouldn't five be enough for a test?"[lr]::
-6643::$$$message_0057_0036_0001$$$::All the lamps look to be antiques.[lr]::
-6644::$$$message_0057_0036_0002$$$::I'd feel bad about breaking more of them.::
-6645::$$$message_0057_0037_0000$$$::"...Hm."[lr]::
-6646::$$$message_0057_0037_0001$$$::Yeah...[lr]::
-�
+6567::$$$message_0057_0000_0000$$$::Eu ouço o barulho das shinais batendo uma na outra.[lr]::
+6568::$$$message_0057_0000_0001$$$::A nossa luta é a mesma de sempre.::
+6569::$$$message_0057_0001_0000$$$::Eu ataco igual a um desesperado, a Saber se defende sem nenhum esforço, e ela me contra-ataca com golpes duas vezes mais precisos do que os meus.[lr]::
+6570::$$$message_0057_0001_0001$$$::Eu tento me defender, ataco com mais força ainda, mas sempre acabo perdendo no final[line2]e assim, nós repetimos a mesma partida de novo e de novo.::
+6571::$$$message_0057_0002_0000$$$::"Ha[line2]Haa, haa, hah."[lr]::
+6572::$$$message_0057_0002_0001$$$::Eu paro de lutar e respiro fundo.[lr]::
+6573::$$$message_0057_0002_0002$$$::Eu limpo o suor da minha testa e tento controlar a minha respiração.::
+6574::$$$message_0057_0003_0000$$$::"Por que você parou de repente? Ontem você não tinha desistido tão rápido. Venha, pode me atacar."::
+6575::$$$message_0057_0004_0000$$$::"Não[line2]espera aí. Eu preciso recuperar meu o fôlego. Vamos descansar um pouco."::
+6576::$$$message_0057_0005_0000$$$::"Que história é essa? Se você não vier me atacar, eu vou até você. Tem certeza que prefere assim?"[lr]::
+6577::$$$message_0057_0005_0001$$$::A Saber está encarando o seu aluno mal criado.[lr]::
+6578::$$$message_0057_0005_0002$$$::Mas não adianta ela me encarar desse jeito, porque eu não vou conseguir mexer o meu corpo do jeito que quero.::
+6579::$$$message_0057_0006_0000$$$::"...Ah. Qual é o problema, Shirou? Você parece uma pessoa diferente de ontem.[lr]::
+6580::$$$message_0057_0006_0001$$$::Eu até fiquei impressionada com os seus golpes, mas hoje não estou sentindo nenhuma energia vindo de você."::
+6581::$$$message_0057_0007_0000$$$::"...Eu sei, mas... Não estou conseguindo fazer mais do que isso."[lr]::
+6582::$$$message_0057_0007_0001$$$::Bem, é que de ontem para hoje a situação mudou completamente.::
+6583::$$$message_0057_0008_0000$$$::"O seu corpo ainda está quente? Não adianta você treinar se isso estiver te atrapalhando. Por favor, descanse um pouco e tente relaxar."::
+6584::$$$message_0057_0009_0000$$$::"[line2]Não. Na verdade, você precisa dar um jeito naquilo."[lr]::
+6585::$$$message_0057_0009_0001$$$::Eu aponto para a pessoa encostada na parede que está nos assistindo.::
+6586::$$$message_0057_0010_0000$$$::"O que foi? Não se preocupem comigo. Podem continuar com o treinamento."::
+6587::$$$message_0057_0011_0000$$$::"......"[lr]::
+6588::$$$message_0057_0011_0001$$$::A Tohsaka não entende mesmo, não é?[lr]::
+6589::$$$message_0057_0011_0002$$$::Quando ela fica olhando para mim desse jeito, eu não consigo me concentrar na minha luta contra a Saber.::
+6590::$$$message_0057_0012_0000$$$::"A Rin está te atrapalhando? Isso só prova que você precisa de mais treinamento.[lr]::
+6591::$$$message_0057_0012_0001$$$::...Está bem. Já que é assim, eu vou fazer com que você deixe de se preocupar com outras pessoas que estejam te observando."[wsay canskip=1]::
+6592::$$$message_0057_0013_0000$$$::"Ei, espera Saber, eu ainda não recuperei o meu fô[line2]"[lr]::
+6593::$$$message_0057_0013_0001$$$::"Não tem problema. Você precisa aprender a lidar com isso durante uma batalha."[lr]::
+6594::$$$message_0057_0013_0002$$$::A Saber some da minha vista.::
+6595::$$$message_0057_0014_0000$$$::"[line2]!"[lr]::
+6596::$$$message_0057_0014_0001$$$::Assim que eu percebo que estou em perigo e cubro o meu rosto, a shinai da Saber me acerta em cheio na cabeça.::
+6597::$$$message_0057_0015_0000$$$::...E assim, o treinamento de hoje foi rigoroso.[lr]::
+6598::$$$message_0057_0015_0001$$$::Depois que fui nocauteado, eu deixei de me preocupar com a Tohsaka me observando. Já que eu fiquei o tempo todo concentrado em me defender dos ataques da Saber, a hora do almoço chegou mais rápido do que o esperado.::
+6599::$$$message_0057_0016_0000$$$::"Mas olha só, a Saber é uma pessoa bem tranquila.[lr]::
+6600::$$$message_0057_0016_0001$$$::Você ficou lutando três horas contra o Shirou e não espremeu sequer uma sobrancelha. Você já não fala muito, mas quando está em batalha, fala menos ainda. Parece até que você vira uma máquina."::
+6601::$$$message_0057_0017_0000$$$::Parece que a Tohsaka está de bom humor por ter me visto tomar uma surra várias vezes.[lr]::
+6602::$$$message_0057_0017_0001$$$::As duas estão descansando na sala de estar.[lr]::
+6603::$$$message_0057_0017_0002$$$::Enquanto isso, como punição por não ter lutado a sério hoje de manhã, eu tive que ir preparar o almoço sem a ajuda de ninguém.[lr]::
+6604::$$$message_0057_0017_0003$$$::...Que droga.[lr]::
+6605::$$$message_0057_0017_0004$$$::Eu estou com vontade de preparar uma coisa rápida como uma macarronada só para me livrar logo disso.::
+6606::$$$message_0057_0018_0000$$$::"Uma máquina...? Entendo. Talvez eu nunca tenha pensado isso, mas posso estar desligando as minhas emoções enquanto uso a espada. O mesmo deve acontecer durante o treinamento."::
+6607::$$$message_0057_0019_0000$$$::"Hmm. Será que é porque você está segurando uma espada mesmo sendo uma garota? Ou seja, porque você precisa compensar o seu físico inferior com a sua força de vontade?"::
+6608::$$$message_0057_0020_0000$$$::"Isso não é verdade, Rin. O mais importante é sempre estar calmo durante uma batalha, não interessa se você é homem ou mulher.[lr]::
+6609::$$$message_0057_0020_0001$$$::Você também precisa esconder as suas emoções durante a batalha, Rin. Eu sei que você é capaz de fazer isso."::
+6610::$$$message_0057_0021_0000$$$::"Hm... você vai mesmo direto ao ponto. Bem, apesar que eu concordo contigo.[lr]::
+6611::$$$message_0057_0021_0001$$$::Mas o seu estilo é diferente do meu. Eu posso até esconder a minha gentileza, mas não consigo ser tão direta quanto você."::
+6612::$$$message_0057_0022_0000$$$::"Parece que sim. Deve ser por isso que você é tão bela.[lr]::
+6613::$$$message_0057_0022_0001$$$::Você consegue manter a sua elegância de mulher mesmo durante a batalha."::
+6614::$$$message_0057_0023_0000$$$::"Espera, isso foi sarcasmo? Eu não consigo te derrotar em beleza. ...Eu vou dizer isso porque o Shirou não está nos ouvindo, mas quando te vi pela primeira vez, a sua beleza me deixou impressionada."[lr]::
+6615::$$$message_0057_0023_0001$$$::...Não Tohsaka, você está enganada. Eu consigo te ouvir muito bem daqui da cozinha.::
+6616::$$$message_0057_0024_0000$$$::"[line2]Você deve estar se confundido. Se eu pareço ser bonita para você, deve ser apenas porque a classe Saber é atraente para as pessoas."::
+6617::$$$message_0057_0025_0000$$$::"Não é isso. Eu senti como se tivesse perdido como uma mulher. ...Do contrário, eu não teria ficado tão surpresa assim."::
+6618::$$$message_0057_0026_0000$$$::"...Como eu já disse, você deve estar se confundido. Eu nunca me enxerguei como mulher, e também nunca fui tratada como uma.[lr]::
+6619::$$$message_0057_0026_0001$$$::Não é possível que eu seja tão bonita assim."::
+6620::$$$message_0057_0027_0000$$$::O comentário da Saber interrompe a conversa.[lr]::
+6621::$$$message_0057_0027_0001$$$::"[line5]"[lr]::
+6622::$$$message_0057_0027_0002$$$::Enquanto uso a faca de cozinha, eu fico irritado com o que ela disse.::
+6623::$$$message_0057_0028_0000$$$::"...Eu estive pensando nisso já faz um tempo, mas quem ela pensa que é, afinal?"[lr]::
+6624::$$$message_0057_0028_0001$$$::Eu faço um corte profundo no frango.[lr]::
+6625::$$$message_0057_0028_0002$$$::Por algum motivo, eu estou ficando irritado.::
+6626::$$$message_0057_0029_0000$$$::[line2]Eu nunca me enxerguei como mulher::
+6627::$$$message_0057_0030_0000$$$::"[line2]Heh. Enfim, isso não é da minha conta...!"[lr]::
+6628::$$$message_0057_0030_0001$$$::Eu cravo a faca na tábua de madeira com força.[lr]::
+6629::$$$message_0057_0030_0002$$$::Mas isso não faz eu me sentir nem um pouco melhor.::
+6630::$$$message_0057_0031_0000$$$::"Essa é a sua tarefa de hoje.[lr]::
+6631::$$$message_0057_0031_0001$$$::Já que hoje você está mais calmo e nós temos mais lâmpadas, acho que dessa vez você vai conseguir."::
+6632::$$$message_0057_0032_0000$$$::Eu não sei de onde ela arranjou tudo isso, mas a Tohsaka trouxe umas quarenta lâmpadas.::
+6633::$$$message_0057_0033_0000$$$::"Eu vou dar uma saída. Vai levar um tempo até eu voltar, então vê se termina enquanto isso."[lr]::
+6634::$$$message_0057_0033_0001$$$::A Tohsaka se despede e sai do quarto.::
+6635::$$$message_0057_0034_0000$$$::"[line2]Ah."[lr]::
+6636::$$$message_0057_0034_0001$$$::Bem.[lr]::
+6637::$$$message_0057_0034_0002$$$::Já que a noite de ontem não deu nenhum resultado, hoje eu tenho que conseguir pelo menos uma ou duas vezes.::
+6638::$$$message_0057_0035_0000$$$::"...Ufa. Por enquanto, já foi metade."[lr]::
+6639::$$$message_0057_0035_0001$$$::Eu levei uma hora para tentar 'fortalecer' vinte lâmpadas.[lr]::
+6640::$$$message_0057_0035_0002$$$::Metade delas quebrou, e a outra metade ficou igual.[lr]::
+6641::$$$message_0057_0035_0003$$$::Mas entre as lâmpadas que não quebraram, cinco delas tinham energia mágica no seu interior. Agora eu só tenho que testar as outras vinte que sobraram, mas[line2]::
+6642::$$$message_0057_0036_0000$$$::"......Espera. Será que essas cinco lâmpadas já não valem?"[lr]::
+6643::$$$message_0057_0036_0001$$$::As lâmpadas que a Tohsaka trouxe até aqui parecem ser antigas e caras.[lr]::
+6644::$$$message_0057_0036_0002$$$::Eu me sentiria mal se acabasse quebrando mais alguma.::
+6645::$$$message_0057_0037_0000$$$::"Hm."[lr]::
+6646::$$$message_0057_0037_0001$$$::Está bem, acho que é melhor eu[line2][lr]::
+�

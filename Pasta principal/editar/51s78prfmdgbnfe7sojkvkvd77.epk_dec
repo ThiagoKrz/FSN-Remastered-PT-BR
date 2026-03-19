@@ -1,50 +1,50 @@
 DAT
 id=qid::label=str::text=lstr::
-66829::$$$message_0618_0000_0000$$$::                                        Time to make a final choice.::
-66830::$$$message_0618_0001_0000$$$::It's clear who will win this battle.[lr]::
-66831::$$$message_0618_0001_0001$$$::No, it would be more accurate to say that it was decided long ago.[lr]::
-66832::$$$message_0618_0001_0002$$$::This conclusion was ordained from the moment I lost her.::
-66833::$$$message_0618_0002_0000$$$::[font italic=true]"But Shirou, choosing to go after it is the most difficult path of all.[font italic=false][lr]::
-66834::$$$message_0618_0002_0001$$$::[font italic=true]Please keep that in mind."[font italic=false]::
-66835::$$$message_0618_0003_0000$$$::The girl who fought by your side and acted as your sword until the very end said that.[lr]::
-66836::$$$message_0618_0003_0001$$$::On the night you parted ways,[lr]::
-66837::$$$message_0618_0003_0002$$$::you promised her that you'd go on fighting by yourself to put a stop to the Shadow and this war.::
-66838::$$$message_0618_0004_0000$$$::You went through hell.[lr]::
-66839::$$$message_0618_0004_0001$$$::You survived it for a reason.[lr]::
-66840::$$$message_0618_0004_0002$$$::You're still alive for a reason.[lr]::
-66841::$$$message_0618_0004_0003$$$::You didn't miraculously survive while everyone else died.[lr]::
-66842::$$$message_0618_0004_0004$$$::They all gave up their lives so that one person might live.::
-66843::$$$message_0618_0005_0000$$$::You hated that.[lr]::
-66844::$$$message_0618_0005_0001$$$::To break that reality, you told yourself that you had to become a righteous hero who saves everyone.::
-66845::$$$message_0618_0006_0000$$$::You don't know what his tears meant.[lr]::
-66846::$$$message_0618_0006_0001$$$::He destroyed the Holy Grail, rejected what he'd been fighting for, and desperately dug through the rubble to find a survivor.[lr]::
-66847::$$$message_0618_0006_0002$$$::No matter what he was thinking, his tears saved you and showed you a new path.::
-66848::$$$message_0618_0007_0000$$$::It became a lonely path.[lr]::
-66849::$$$message_0618_0007_0001$$$::He showed you a dream as he walked ahead of you, and then he died.[lr]::
-66850::$$$message_0618_0007_0002$$$::[font italic=true]"Good. That's a relief."[font italic=false][r][wsay canskip=1]::
-66851::$$$message_0618_0007_0003$$$::Kiritsugu Emiya took the sins he never atoned for to his grave.::
-66852::$$$message_0618_0008_0000$$$::   He couldn't save anyone,[lr]::
-66853::$$$message_0618_0008_0001$$$::so he wanted you to become someone who could save others.::
-66854::$$$message_0618_0009_0000$$$::                                [font italic=true]"If you are going to deny everything you are...[font italic=false][lr]::
-66855::$$$message_0618_0009_0001$$$::                                [font italic=true]you will be judged for that sin."[font italic=false]::
-66856::$$$message_0618_0010_0000$$$::...You know that.[lr]::
-66857::$$$message_0618_0010_0001$$$::You've spent your entire life trying to redeem yourself.[lr]::
-66858::$$$message_0618_0010_0002$$$::You've killed yourself for the last ten years, believing in that idea.[lr]::
-66859::$$$message_0618_0010_0003$$$::Your dead self just keeps nibbling away at your living self, like worms eating a corpse.::
-66860::$$$message_0618_0011_0000$$$::And this is the embodiment of your sin.[lr]::
-66861::$$$message_0618_0011_0001$$$::It's pointless to mourn a saint.[lr]::
-66862::$$$message_0618_0011_0002$$$::As long as Archer's arm is attached to you, it will devour you and force you to atone.[lr]::
-66863::$$$message_0618_0011_0003$$$::It will bring you a ghastly fate worse than death.::
-66864::$$$message_0618_0012_0000$$$::Yes.[lr]::
-66865::$$$message_0618_0012_0001$$$::Even if you were to lose your life that hangs by a thread, you will not simply die.[lr]::
-66866::$$$message_0618_0012_0002$$$::And yet, why...::
-66867::$$$message_0618_0013_0000$$$::[font italic=true]"You know as well as I do that you can only choose to save one person, not everyone."[font italic=false]::
-66868::$$$message_0618_0014_0000$$$::For a long, long time that girl searched for her father with only vengeance in her heart.[lr]::
-66869::$$$message_0618_0014_0001$$$::When you asked her to move in with you, she smiled sadly.[lr]::
-66870::$$$message_0618_0014_0002$$$::She told you it wasn't possible.[lr]::
-66871::$$$message_0618_0014_0003$$$::The two of us cannot live long together.[lr]::
-66872::$$$message_0618_0014_0004$$$::And that's why...::
-66873::$$$message_0618_0015_0000$$$::                                          [font italic=true]"Bye. It's been fun, big brother."[font italic=false]::
-66874::$$$message_0618_0016_0000$$$::                                        [line16].::
-66875::$$$message_0618_0017_0000$$$::This is the final choice.[lr]::
-66876::$$$message_0618_0017_0001$$$::Will you...[lr]:�"D
+66829::$$$message_0618_0000_0000$$$::[w l=3][line3]Vamos fazer a decisão final.::
+66830::$$$message_0618_0001_0000$$$::O resultado da batalha está decidido.[lr]::
+66831::$$$message_0618_0001_0001$$$::Ou mais precisamente, foi decidido muito tempo atrás.[lr]::
+66832::$$$message_0618_0001_0002$$$::Esse fim foi determinado desde quando você perdeu a Saber.::
+66833::$$$message_0618_0002_0000$$$::'...Mas Shirou. Se opor a aquela coisa é ir pelo caminho mais difícil.[lr]::
+66834::$$$message_0618_0002_0001$$$::Por favor mantenha isso em mente.'::
+66835::$$$message_0618_0003_0000$$$::Isso foi dito pela garota que lutou com você como sua espada até o fim.[lr]::
+66836::$$$message_0618_0003_0001$$$::A noite que você partiu com ela.[lr]::
+66837::$$$message_0618_0003_0002$$$::Você prometeu continuar lutando sozinho, parar a sombra, acabar com a guerra.::
+66838::$$$message_0618_0004_0000$$$::Havia inferno.[lr]::
+66839::$$$message_0618_0004_0001$$$::Tem de existir um significado de por que você sobreviveu aquele inferno.[lr]::
+66840::$$$message_0618_0004_0002$$$::Tem de existir um significado de por que você deve continuar vivendo.[lr]::
+66841::$$$message_0618_0004_0003$$$::Não é que você milagrosamente sobreviveu enquanto todos morreram.[lr]::
+66842::$$$message_0618_0004_0004$$$::É meramente que uma pessoa foi salva pelo sacrifício de todas as outras.::
+66843::$$$message_0618_0005_0000$$$::Você odiava isso.[lr]::
+66844::$$$message_0618_0005_0001$$$::Para passar pela realidade, tudo que você pode fazer foi se tornar um super herói que poderia salvar qualquer um.::
+66845::$$$message_0618_0006_0000$$$::Eu não sei o que eram aquelas lágrimas.[lr]::
+66846::$$$message_0618_0006_0001$$$::Ele destruiu o Santo Graal, negou sua batalha porque era errado, e frenéticamente procurou por sobreviventes.[lr]::
+66847::$$$message_0618_0006_0002$$$::Não importa quais eram as intenções dele, suas lágrimas salvaram você, e você foi capaz de começar a caminhar um novo caminho com ele.::
+66848::$$$message_0618_0007_0000$$$::Mas você foi deixado sozinho nesse caminho.[lr]::
+66849::$$$message_0618_0007_0001$$$::O homem que liderava morreu, deixando o sonho com você.[lr]::
+66850::$$$message_0618_0007_0002$$$::'Sim[w l=3][line3]Eu tô aliviado.'[lr]::
+66851::$$$message_0618_0007_0003$$$::Emiya Kiritsugu engoliu os pecados que ele não conseguiu perdoar e deixou esse mundo.::
+66852::$$$message_0618_0008_0000$$$::[w l=3][line3]Ele não conseguiu salvar ninguém.[lr]::
+66853::$$$message_0618_0008_0001$$$::Então ele queria que você fosse capaz de salvar alguém.::
+66854::$$$message_0618_0009_0000$$$::'Se você negasse tudo que você fez.[lr]::
+66855::$$$message_0618_0009_0001$$$::O crime irá julgar você[w l=3][line3]'::
+66856::$$$message_0618_0010_0000$$$::...Eu sei.[lr]::
+66857::$$$message_0618_0010_0001$$$::Eu sei o que isso significa, e eu tenho que pagar pelos meus pecados usando toda minha vida.[lr]::
+66858::$$$message_0618_0010_0002$$$::Eu matei meu eu em que eu acreditei por dez anos.[lr]::
+66859::$$$message_0618_0010_0003$$$::O eu que foi morto irá se alimentar de mim.::
+66860::$$$message_0618_0011_0000$$$::E essa é a encarnação do crime.[lr]::
+66861::$$$message_0618_0011_0001$$$::O escudo de um santo é inútil.[lr]::
+66862::$$$message_0618_0011_0002$$$::O braço do Archer irá me comer, me forçando a pagar pelos meus pecados.[lr]::
+66863::$$$message_0618_0011_0003$$$::Ele irá me trazer um fim pior que a morte.::
+66864::$$$message_0618_0012_0000$$$::Isso mesmo.[lr]::
+66865::$$$message_0618_0012_0001$$$::É só um braço. Agora que você sobreviveu, você não irá morrer mesmo se o cortar fora.[lr]::
+66866::$$$message_0618_0012_0002$$$::Então por quê?::
+66867::$$$message_0618_0013_0000$$$::'Você sabe também, certo? Você não pode escolher tudo, e você só pode salvar um.'::
+66868::$$$message_0618_0014_0000$$$::Uma garota que esperava pelo seu pai, mas viveu procurando vingança.[lr]::
+66869::$$$message_0618_0014_0001$$$::Ela quase chorou, mas sorriu e engoliu suas palavras para que pudessemos viver juntos.[lr]::
+66870::$$$message_0618_0014_0002$$$::Dizendo que nós não podiamos fazer algo assim.[lr]::
+66871::$$$message_0618_0014_0003$$$::Nós não podemos viver juntos.[lr]::
+66872::$$$message_0618_0014_0004$$$::Então...::
+66873::$$$message_0618_0015_0000$$$::'[w l=3][line3]Adeus. Foi divertido, Onii-chan.'::
+66874::$$$message_0618_0016_0000$$$::[line12].::
+66875::$$$message_0618_0017_0000$$$::Essa é sua decisão final.[lr]::
+66876::$$$message_0618_0017_0001$$$::Você vai...[lr]::

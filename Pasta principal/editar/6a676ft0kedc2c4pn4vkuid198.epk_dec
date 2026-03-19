@@ -1,109 +1,109 @@
 DAT
 id=qid::label=str::text=lstr::
-26845::$$$message_0230_0000_0000$$$::Besides, I don't have much choice.[lr]::
-26846::$$$message_0230_0000_0001$$$::There's too much I don't know, and I have no experience as a mage.[lr]::
-26847::$$$message_0230_0000_0002$$$::If Tohsaka is offering to help me, however temporary, it's an offer I can't turn down.::
-26848::$$$message_0230_0001_0000$$$::"All right. I'll take your offer, Tohsaka. Honestly, I'd really appreciate your help."::
-26849::$$$message_0230_0002_0000$$$::"Then that settles it. Let's shake on it. We're allies until we defeat Berserker."[lr]::
-26850::$$$message_0230_0002_0001$$$::"Oh...right. Yeah, I guess that should be the arrangement. I guess I don't have control over the timing, but it'll probably help to know the timeline."::
-26851::$$$message_0230_0003_0000$$$::I shake the offered hand.[lr]::
-26852::$$$message_0230_0003_0001$$$::...I'm a little perplexed.[lr]::
-26853::$$$message_0230_0003_0002$$$::Tohsaka's hand is so soft; it reminds me she's a girl.[lr]::
-26854::$$$message_0230_0003_0003$$$::My hand, in comparison, is covered with scratches and it seems a poor match for hers.::
-26855::$$$message_0230_0004_0000$$$::[font italic=true]...[font italic=false][lr]::
-26856::$$$message_0230_0004_0001$$$::The moment I think that, I find myself getting embarrassed. I quickly pull my hand back.::
-26857::$$$message_0230_0005_0000$$$::"What's wrong? Are you changing your mind about working with me?"[lr]::
-26858::$$$message_0230_0005_0001$$$::"Uh, it's not that. I really appreciate that I'm going to be able to work with you. That was more, uh, a personal thing, so don't worry about it."::
-26859::$$$message_0230_0006_0000$$$::Tohsaka looks at me strangely.[lr]::
-26860::$$$message_0230_0006_0001$$$::"Ohhh."[lr]::
-26861::$$$message_0230_0006_0002$$$::Her face turns mischievous.::
-26862::$$$message_0230_0007_0000$$$::"Wh-what? I might dissolve our agreement if you say something stupid. I'm serious. I really will!"[lr]::
-26863::$$$message_0230_0007_0001$$$::"Was that the first time you held a girl's hand?[lr]::
-26864::$$$message_0230_0007_0002$$$::I thought you had a lot of friends. I didn't realize you were so shy, Shirou."::
-26865::$$$message_0230_0008_0000$$$::"W-wrong! That's not true...!"[lr]::
-26866::$$$message_0230_0008_0001$$$::There's no way in hell I can could say I got embarrassed because it was [font italic=true]her[font italic=false]...and yeah, fine, I haven't really touched a girl so intimately before, but...::
-26867::$$$message_0230_0009_0000$$$::And no, Fuji-nee doesn't count.[lr]::
-26868::$$$message_0230_0009_0001$$$::She's more like something from a different planet than someone of a different gender.[lr]::
-26869::$$$message_0230_0009_0002$$$::"...Hey, hold on."[lr]::
-26870::$$$message_0230_0009_0003$$$::What'd Tohsaka just say?::
-26871::$$$message_0230_0010_0000$$$::"Ahaha, you really do wear your feelings on your sleeve. Fine. I'll let it go. I wouldn't want you sulking if I pushed your buttons too much."::
-26872::$$$message_0230_0011_0000$$$::"Then here's my deposit. Consider it a proof of my alliance with you."[lr]::
-26873::$$$message_0230_0011_0001$$$::I don't know where she'd been keeping it, but she tugs out a giant book and slaps it on the table.::
-26874::$$$message_0230_0012_0000$$$::It looks like a diary.[lr]::
-26875::$$$message_0230_0012_0001$$$::There's no title, and the cover is wine red.[lr]::
-26876::$$$message_0230_0012_0002$$$::It seems to be Tohsaka's trademark color.::
-26877::$$$message_0230_0013_0000$$$::"This was my father's, but I don't need it anymore, so I'll give it to you. It's not the kind of thing a full-fledged Master needs, but I figure you might benefit from it."[lr]::
-26878::$$$message_0230_0013_0001$$$::Tohsaka gestures for me to flip through it.::
-26879::$$$message_0230_0014_0000$$$::"...Okay, thanks."[lr]::
-26880::$$$message_0230_0014_0001$$$::I open to a random page.::
-26881::$$$message_0230_0015_0000$$$::And then...[lr]::
-26882::$$$message_0230_0015_0001$$$::There's nothing written on the pages, but a strange image suddenly pops into my head.::
-26883::$$$message_0230_0016_0000$$$::"Huh? Tohsaka, what is this?"[lr]::
-26884::$$$message_0230_0016_0001$$$::"It's a chart that records each Servant's abilities. You know there are certain rules in a Holy Grail War, right? That applies to Servants, too."::
-26885::$$$message_0230_0017_0000$$$::"First of all, only seven Heroic Spirits get summoned.[lr]::
-26886::$$$message_0230_0017_0001$$$::The seven can only be summoned after they are assigned to one of the predetermined classes the Holy Grail has prepared in advance. Instead of summoning the Heroic Spirits themselves, the Holy Grail creates a vessel close to each Heroic Spirit, and then summons the spirit into it."::
-26887::$$$message_0230_0018_0000$$$::"You know how séances and mediums work by calling on the spirit and drawing them into the caster's body so the spirit can communicate, right? It's like that.[lr]::
-26888::$$$message_0230_0018_0001$$$::In order to summon spirits from different ages, you need a sort of container."::
-26889::$$$message_0230_0019_0000$$$::"Classes...oh, so that's why Saber's called Saber!"[lr]::
-26890::$$$message_0230_0019_0001$$$::"Exactly. Remember that Heroic Spirits need to conceal their identities. That's why you never say their real name. So, their summoned class then serves as their name."::
-26891::$$$message_0230_0020_0000$$$::"The classes are: [r]::
-26892::$$$message_0230_0020_0001$$$::Saber,[lr]::
-26893::$$$message_0230_0020_0002$$$::Lancer,[lr]::
-26894::$$$message_0230_0020_0003$$$::Archer,[lr]::
-26895::$$$message_0230_0020_0004$$$::Rider,[lr]::
-26896::$$$message_0230_0020_0005$$$::Caster,[lr]::
-26897::$$$message_0230_0020_0006$$$::Assassin,[lr]::
-26898::$$$message_0230_0020_0007$$$::and Berserker. A total of seven."::
-26899::$$$message_0230_0021_0000$$$::"The class lineup may differ depending on the Holy Grail War, but we have a classic lineup in this war. The common belief is that Saber is the most powerful. [lr]::
-26900::$$$message_0230_0021_0001$$$::Each class has its own unique characteristics, but each Servant's abilities differ according to the summoned Heroic Spirit's rank, so be mindful of that."::
-26901::$$$message_0230_0022_0000$$$::"A Heroic Spirit's rank... You mean how strong they were in life?"::
-26902::$$$message_0230_0023_0000$$$::"That's part of it, but their abilities are also dependent on their notability.[lr]::
-26903::$$$message_0230_0023_0001$$$::What they did or what kind of weapon they wielded may not change, but their basic abilities will change depending on how famous they were in their time.[lr]::
-26904::$$$message_0230_0023_0002$$$::Heroic Spirits are like gods, so they become more powerful the more people worship them."::
-26905::$$$message_0230_0024_0000$$$::"I guess you could say their essence becomes more potent. It's similar to divine spirits falling in rank to elementals if they lose devout followers. Similarly, a hero forgotten by the people doesn't have much power.[lr]::
-26906::$$$message_0230_0024_0001$$$::Although, a hero who was powerful to begin with should retain at least some power and abilities, whether they were unknown or forgotten."::
-26907::$$$message_0230_0025_0000$$$::"Then if the hero is well-known and their legend was extraordinary..."[lr]::
-26908::$$$message_0230_0025_0001$$$::"They would be a rank A Servant, yeah.[lr]::
-26909::$$$message_0230_0025_0002$$$::And that's why Berserker might be one of the strongest ever.[lr]::
-26910::$$$message_0230_0025_0003$$$::He's the most famous hero from Greek mythology.[lr]::
-26911::$$$message_0230_0025_0004$$$::Heroes from the Age of Gods already have special Noble Phantasms to begin with, and there's not much we can do if the heroes themselves are strong."::
-26912::$$$message_0230_0026_0000$$$::"Tohsaka...what the heck's a Noble Phantasm?"[lr]::
-26913::$$$message_0230_0026_0001$$$::"A Noble Phantasm is a Servant's iconic item which they used during their lifetime. Heroes and magical swords, or sacred swords, come as a set, right? It's basically their armament."[lr]::
-26914::$$$message_0230_0026_0002$$$::"Huh? Weapon? Like Saber's invisible sword?"::
-26915::$$$message_0230_0027_0000$$$::"Something like that. I don't know what the story with that sword is, but whatever Saber's wielding is definitely her Noble Phantasm.[lr]::
-26916::$$$message_0230_0027_0001$$$::I don't think I need to even say this, but heroes can't remain in their legend with just their name alone.[lr]::
-26917::$$$message_0230_0027_0002$$$::Each hero has a weapon that is sort of their trademark.[lr]::
-26918::$$$message_0230_0027_0003$$$::And that is the crystallization of the people's desire for a miracle...their Noble Phantasm."::
-26919::$$$message_0230_0028_0000$$$::"Hm, so it's a powerful magical item."::
-26920::$$$message_0230_0029_0000$$$::"Exactly. Simply put, Heroic Spirits are no match for powerful magecraft or Mystics.[lr]::
-26921::$$$message_0230_0029_0001$$$::But when their Noble Phantasms come into play, it's a whole different story.[lr]::
-26922::$$$message_0230_0029_0002$$$::Heroic Spirits who wield Noble Phantasms can defeat even elementals several ranks higher than them.[lr]::
-26923::$$$message_0230_0029_0003$$$::This is because most are sacred or magical swords that appear in legend, and they are close to the level of Magic."::
-26924::$$$message_0230_0030_0000$$$::"Swords that can kill dragons, the most powerful species of Phantasmals...shoes that allow the wearer to travel thousands of miles...or even magical swords that can kill deities...[lr]::
-26925::$$$message_0230_0030_0001$$$::Whatever they may be, now you understand that the armaments Heroic Spirits wield are on an entirely different level, so much so that you might wonder why they aren't invincible.[lr]::
-26926::$$$message_0230_0030_0002$$$::It's no exaggeration to say that battles between Servants are ultimately battles between their Noble Phantasms."::
-26927::$$$message_0230_0031_0000$$$::"So what you're saying is that these Servants, who are Heroic Spirits, will most definitely have at least one Noble Phantasm."::
-26928::$$$message_0230_0032_0000$$$::"Yes. And as a general rule, one Heroic Spirit can only wield one Noble Phantasm.[lr]::
-26929::$$$message_0230_0032_0001$$$::They're usually swords or spears. Have you ever heard of the legendary Chinese sword, the Hazanken...the mountain-cutting sword? You can only swing it once, but it's a magecraft item said to destroy an entire mountain in one swing. I think it's like that."::
-26930::$$$message_0230_0033_0000$$$::"But, Noble Phantasms are a kind of miracle activated only when their True Names are spoken, so they can't be used casually."::
-26931::$$$message_0230_0034_0000$$$::"Huh? It activates when the weapon's name is spoken, right? Why would that make it so hard to use?"::
-26932::$$$message_0230_0035_0000$$$::"Don't you not realize that saying the weapon's name also tells you which hero the Servant is?[lr]::
-26933::$$$message_0230_0035_0001$$$::The heroes and their magical swords are a set, so if you know their weapon's name, you will also know its wielder's name. If that happens, you'll then know their strengths and weaknesses."::
-26934::$$$message_0230_0036_0000$$$::"I see. Yeah, you make a good point."[lr]::
-26935::$$$message_0230_0036_0001$$$::Now that I think back, when Lancer used his Noble Phantasm, Saber immediately figured out his identity.[lr]::
-26936::$$$message_0230_0036_0002$$$::Something about Ireland's Child of Light...::
-26937::$$$message_0230_0037_0000$$$::"Hmmm..."[lr]::
-26938::$$$message_0230_0037_0001$$$::Okay, so...[lr]::
-26939::$$$message_0230_0037_0002$$$::Servants are separated by classes, and each of them are Heroic Spirits suited to that class.::
-26940::$$$message_0230_0038_0000$$$::They're all concealing their identities.[lr]::
-26941::$$$message_0230_0038_0001$$$::And the weapons that they wield are the most powerful aces they've got up their sleeve, but they can't use it freely, or they would wind up revealing their identity.::
-26942::$$$message_0230_0039_0000$$$::"That's all I can tell you about Servants.[lr]::
-26943::$$$message_0230_0039_0001$$$::If you want more details, just look in that book. Flip through it when you have the time. Once you get used to it, you should be able to identify Servants intuitively without the book."[lr]::
-26944::$$$message_0230_0039_0002$$$::With that, Tohsaka stands up.::
-26945::$$$message_0230_0040_0000$$$::"Okay, well I'm heading home."[lr]::
-26946::$$$message_0230_0040_0001$$$::"Eh? Yeah, thanks."[lr]::
-26947::$$$message_0230_0040_0002$$$::I'm still sitting on the floor, so I look up at Tohsaka as she gets ready to leave.::
-26948::$$$message_0230_0041_0000$$$::"Don't get confused about things just because we formed an alliance. You and me? We're going to fight eventually. When all the other Masters have been defeated, or even if they're still alive, we're bound to fight. No matter what.[lr]::
-26949::$$$message_0230_0041_0001$$$::You're better off not seeing me as human, Emiya."::
-26950::$$$message_0230_0042_0000$$$::After making [font italic=true]very[font italic=false] clear where we stand, Tohsaka leaves for her home.::
+26845::$$$message_0230_0000_0000$$$::  ...não havia escolha desde o começo.::
+26846::$$$message_0230_0000_0001$$$::  Há muitas coisas que desconheço, e sou inexperiente como mago.::
+26847::$$$message_0230_0000_0002$$$::  Mesmo se for temporário, se a Tohsaka vai me dar uma mão, não acho que há opção melhor.::
+26848::$$$message_0230_0001_0000$$$::  "[line3]Tudo bem. Vou aceitar a oferta, Tohsaka. Honestamente, vai me ajudar muito se você fizer isso."::
+26849::$$$message_0230_0002_0000$$$::  "Então está decidido. Vamos apertar as mãos. Por ora, faremos uma trégua até derrotarmos o Berserker."::
+26850::$$$message_0230_0002_0001$$$::  "Ah... entendo. Então vai ser assim, hein? Acho que não tenho escolha, mas é um acordo fácil de entender."::
+26851::$$$message_0230_0003_0000$$$::  Eu aperto a mão dela.::
+26852::$$$message_0230_0003_0001$$$::  ...Estou um pouco perplexo.::
+26853::$$$message_0230_0003_0002$$$::  No instante em que sinto a mão suave da Tohsaka, percebo que ela é uma garota.::
+26854::$$$message_0230_0003_0003$$$::  Em comparação, minha mão coberta de cicatrizes por ficar mexendo em máquinas parece totalmente inadequada.::
+26855::$$$message_0230_0004_0000$$$::  "[line3]"::
+26856::$$$message_0230_0004_0001$$$::  No instante em que penso nisso, puxo minha mão de volta, morrendo de vergonha.::
+26857::$$$message_0230_0005_0000$$$::  "O que foi? Desistiu de cooperar comigo de última hora?"::
+26858::$$$message_0230_0005_0001$$$::  "[line3]Não, não é isso. Ajuda muito poder me aliar a você. Não foi por isso, então não se preocupe."::
+26859::$$$message_0230_0006_0000$$$::  Ela faz uma cara de quem não entendeu nada...::
+26860::$$$message_0230_0006_0001$$$::  "Ahhhhh."::
+26861::$$$message_0230_0006_0002$$$::  E logo em seguida abre um sorriso malicioso.::
+26862::$$$message_0230_0007_0000$$$::  "O-O que foi? Vou desfazer o acordo se você disser algo estúpido. Eu vou mesmo!"::
+26863::$$$message_0230_0007_0001$$$::  "Foi a primeira vez que você segurou a mão de uma garota?"::
+26864::$$$message_0230_0007_0002$$$::  "Você parece ter muitos amigos, mas, na verdade, é bem tímido, Shirou."::
+26865::$$$message_0230_0008_0000$$$::  "N-Não! Não é isso, é que..."::
+26866::$$$message_0230_0008_0001$$$::  Estou apenas envergonhado porque era a Tohsaka... mas nunca poderei admitir isso, e certamente nunca toquei em uma garota com tanta firmeza antes.::
+26867::$$$message_0230_0009_0000$$$::  ...Bem, a Fuji-nee é uma exceção.::
+26868::$$$message_0230_0009_0001$$$::  Ela é mais como alguém de um planeta diferente do que alguém do sexo oposto.::
+26869::$$$message_0230_0009_0002$$$::  "[line3]Ei, espera."::
+26870::$$$message_0230_0009_0003$$$::  Não teve algo estranho no que ela acabou de dizer...?::
+26871::$$$message_0230_0010_0000$$$::  "Ahaha, você realmente deixa tudo estampado na cara, como eu ouvi dizerem. Bem, não vou te pressionar agora. Seria um problema se eu tirasse sarro e você ficasse emburrado."::
+26872::$$$message_0230_0011_0000$$$::  "Então, aqui está o seu depósito. Considere isso uma prova da nossa aliança."::
+26873::$$$message_0230_0011_0001$$$::  A Tohsaka coloca um livro sobre a mesa.::
+26874::$$$message_0230_0012_0000$$$::  Parece um diário.::
+26875::$$$message_0230_0012_0001$$$::  Não tem título e a capa é de um tom vermelho-vinho.::
+26876::$$$message_0230_0012_0002$$$::  ...Uma cor que combina perfeitamente com a Tohsaka.::
+26877::$$$message_0230_0013_0000$$$::  "Era do meu pai, mas vou te dar porque não preciso mais dele. Não é algo que um Mestre completo precise, mas achei que seria útil para você."::
+26878::$$$message_0230_0013_0001$$$::  O olhar da Tohsaka me incentiva a dar uma olhada.::
+26879::$$$message_0230_0014_0000$$$::  "...Então, com licença."::
+26880::$$$message_0230_0014_0001$$$::  Abro em uma página qualquer.::
+26881::$$$message_0230_0015_0000$$$::  [line3]E então.::
+26882::$$$message_0230_0015_0001$$$::  Não há nada escrito no livro, mas uma imagem estranha surge de repente na minha mente.::
+26883::$$$message_0230_0016_0000$$$::  "...!?? Tohsaka, o que é isso?"::
+26884::$$$message_0230_0016_0001$$$::  "É o status de cada Servo. Você já sabe que a Guerra do Santo Graal tem uma série de regras, certo? O mesmo vale para os Servos."::
+26885::$$$message_0230_0017_0000$$$::  "Primeiramente, apenas sete Espíritos Heroicos são invocados."::
+26886::$$$message_0230_0017_0001$$$::  "Esses sete só podem ser trazidos se ocuparem uma das classes predeterminadas que o Santo Graal preparou. Em vez de trazer o Espírito Heroico puro, cria-se um molde de classe compatível e ele é invocado nele."::
+26887::$$$message_0230_0018_0000$$$::  "Sabe as magias espirituais que baixam espíritos no corpo do invocador? É parecido."::
+26888::$$$message_0230_0018_0001$$$::  "Para invocar um espírito de uma era diferente, é muito mais fácil preparar um recipiente com antecedência."::
+26889::$$$message_0230_0019_0000$$$::  "Classe... Ah, é por isso que a Saber é a Saber!"::
+26890::$$$message_0230_0019_0001$$$::  "Exato. Eu já te disse que Espíritos Heroicos precisam esconder suas habilidades, certo? É por isso que eles nunca revelam seus nomes verdadeiros. Naturalmente, a classe em que foram invocados vira o nome deles."::
+26891::$$$message_0230_0020_0000$$$::  "As sete classes preparadas são:"::
+26892::$$$message_0230_0020_0001$$$::  Saber,::
+26893::$$$message_0230_0020_0002$$$::  Lancer,::
+26894::$$$message_0230_0020_0003$$$::  Archer,::
+26895::$$$message_0230_0020_0004$$$::  Rider,::
+26896::$$$message_0230_0020_0005$$$::  Caster,::
+26897::$$$message_0230_0020_0006$$$::  Assassin,::
+26898::$$$message_0230_0020_0007$$$::  e Berserker.::
+26899::$$$message_0230_0021_0000$$$::  "Pode haver uma mudança ou outra em cada Guerra, mas desta vez temos a escalação básica. O consenso geral é que Saber é a melhor classe."::
+26900::$$$message_0230_0021_0001$$$::  "Cada classe tem suas particularidades, mas o poder real de cada Servo varia conforme o rank do Espírito Heroico que foi invocado."::
+26901::$$$message_0230_0022_0000$$$::  "Rank do Espírito Heroico... você quer dizer o quão fortes eles eram quando estavam vivos?"::
+26902::$$$message_0230_0023_0000$$$::  "Isso também, mas o que realmente impulsiona as habilidades deles é a popularidade."::
+26903::$$$message_0230_0023_0001$$$::  "Os feitos e as armas que tiveram em vida não mudam, mas seus atributos básicos flutuam de acordo com o quão famosos eles são nesta era."::
+26904::$$$message_0230_0023_0002$$$::  "Espíritos Heroicos são como divindades: eles ficam mais fortes conforme as pessoas os idolatram."::
+26905::$$$message_0230_0024_0000$$$::  "Dá para dizer que isso solidifica a presença deles. É o mesmo que espíritos divinos perdendo poder e virando elementais quando perdem a fé dos seguidores. Heróis esquecidos não têm muita força."::
+26906::$$$message_0230_0024_0001$$$::  "Mas, claro, se o herói já era absurdamente poderoso originalmente, ele mantém um nível alto mesmo sendo desconhecido."::
+26907::$$$message_0230_0025_0000$$$::  "...Então, se for um herói que todo mundo conhece e sua lenda for extraordinária[line3]"::
+26908::$$$message_0230_0025_0001$$$::  "Ele certamente seria um Servo de Rank A."::
+26909::$$$message_0230_0025_0002$$$::  "O Berserker deve ser o mais forte nesse quesito também."::
+26910::$$$message_0230_0025_0003$$$::  "Afinal, ele é o herói mais famoso de toda a mitologia grega."::
+26911::$$$message_0230_0025_0004$$$::  "Heróis da Era dos Deuses possuem Fantasmas Nobres especiais só por causa disso, e se o herói em si já é um monstro, não há muito o que possamos fazer."::
+26912::$$$message_0230_0026_0000$$$::  "...Tohsaka. Uma pergunta: o que exatamente é um 'Fantasma Nobre'?"::
+26913::$$$message_0230_0026_0001$$$::  "É o símbolo que o Servo portou durante a vida. Heróis e suas espadas sagradas ou demoníacas vêm sempre em conjunto, certo? Em resumo, são as armas deles."::
+26914::$$$message_0230_0026_0002$$$::  "...? Armas... tipo a espada invisível da Saber?"::
+26915::$$$message_0230_0027_0000$$$::  "Sim. Não sei qual é a história por trás dela, mas certamente é o Fantasma Nobre dela."::
+26916::$$$message_0230_0027_0001$$$::  "Não preciso nem dizer, mas heróis não entram para as lendas apenas com seus nomes."::
+26917::$$$message_0230_0027_0002$$$::  "Cada um deles possui uma arma que se tornou sua marca registrada."::
+26918::$$$message_0230_0027_0003$$$::  "Essa arma suprema, o Fantasma Nobre, é a cristalização do desejo das pessoas por um milagre."::
+26919::$$$message_0230_0028_0000$$$::  "Entendi... Em termos leigos, é um item mágico superpoderoso?"::
+26920::$$$message_0230_0029_0000$$$::  "Exato. Sendo bem direta, os heróis em si não conseguem competir com magias de alto nível ou Mistérios divinos."::
+26921::$$$message_0230_0029_0001$$$::  "Mas a história muda completamente quando os Fantasmas Nobres entram em cena."::
+26922::$$$message_0230_0029_0002$$$::  "Heróis empunhando seus Fantasmas Nobres conseguem derrotar até mesmo espíritos de ranks muito superiores."::
+26923::$$$message_0230_0029_0003$$$::  "Isso porque a maioria das espadas sagradas e demoníacas das lendas chega perto do nível da 'Magia' verdadeira."::
+26924::$$$message_0230_0030_0000$$$:: "Espadas que matam dragões (a raça fantasiosa mais forte), calçados que correm por todo o mundo e até espadas demoníacas capazes de matar deuses."::
+26925::$$$message_0230_0030_0001$$$:: "Enfim, as armas dos heróis são tão absurdas que você se pergunta como eles não são onipotentes."::
+26926::$$$message_0230_0030_0002$$$:: "Não é exagero dizer que a batalha entre Servos se resume, no fim, à batalha entre seus Fantasmas Nobres."::
+26927::$$$message_0230_0031_0000$$$::  "...Então, todo Servo que é um Espírito Heroico tem pelo menos um Fantasma Nobre?"::
+26928::$$$message_0230_0032_0000$$$::  "Sim. Como regra geral, um herói costuma ter apenas um Fantasma Nobre."::
+26929::$$$message_0230_0032_0001$$$::  "Geralmente é algo como uma espada ou lança. Tem aquela arma lendária da China, a Hazanken, a espada que corta montanhas, sabe? Você só pode balançá-la uma vez, mas é uma arma mágica tão forte que um golpe destrói uma montanha inteira. É por aí."::
+26930::$$$message_0230_0033_0000$$$::  "Porém, Fantasmas Nobres são milagres que exigem a liberação do seu Nome Verdadeiro para serem ativados. Não é algo que eles possam usar toda hora."::
+26931::$$$message_0230_0034_0000$$$::  "...? É ativado apenas dizendo o nome da arma, certo? Por que eles não poderiam usar com facilidade?"::
+26932::$$$message_0230_0035_0000$$$::  "Pense bem: se você sabe o nome da arma, você descobre na hora quem é o herói."::
+26933::$$$message_0230_0035_0001$$$::  "Herói e arma são um conjunto inseparável. Assim que o nome da arma é revelado, a identidade do dono vem junto. E aí, o inimigo passa a conhecer todas as suas habilidades e fraquezas."::
+26934::$$$message_0230_0036_0000$$$::  "Entendi. Realmente, faz todo sentido."::
+26935::$$$message_0230_0036_0001$$$::  A Saber conseguiu deduzir a identidade do Lancer assim que ele usou seu Fantasma Nobre.::
+26936::$$$message_0230_0036_0002$$$::  Algo sobre ser o "Filho da Luz" da Irlanda...::
+26937::$$$message_0230_0037_0000$$$::  "[line3]Hm."::
+26938::$$$message_0230_0037_0001$$$::  Então, resumindo tudo...::
+26939::$$$message_0230_0037_0002$$$::  Servos são divididos em classes, e cada uma delas abriga um Espírito Heroico correspondente.::
+26940::$$$message_0230_0038_0000$$$::  Esses Espíritos Heroicos escondem suas verdadeiras identidades.::
+26941::$$$message_0230_0038_0001$$$::  Suas armas são seus maiores trunfos, mas eles não podem usá-las levianamente, pois isso revela quem eles são.::
+26942::$$$message_0230_0039_0000$$$::  "Isso conclui a aula sobre Servos por hoje."::
+26943::$$$message_0230_0039_0001$$$::  "Você pode aprender os detalhes lendo esse livro, então dê uma olhada quando tiver tempo. Se você se esforçar, um dia conseguirá identificar um Servo por instinto, sem precisar de manual."::
+26944::$$$message_0230_0039_0002$$$::  Dizendo isso, a Tohsaka se levanta.::
+26945::$$$message_0230_0040_0000$$$::  "Bom, agora eu vou para casa."::
+26946::$$$message_0230_0040_0001$$$::  "Hã? Ah, obrigado pelo livro."::
+26947::$$$message_0230_0040_0002$$$::  Eu olho para a Tohsaka, que já está de saída.::
+26948::$$$message_0230_0041_0000$$$::  "Não entenda errado. Mesmo cooperando agora, por causa das nossas posições, teremos que lutar um dia. Seja quando todos os outros Mestres caírem ou enquanto estiverem vivos, esse fato não muda."::
+26949::$$$message_0230_0041_0001$$$::  "Então[line3]será mais fácil para você se não me enxergar como humana, Emiya-kun."::
+26950::$$$message_0230_0042_0000$$$::  Deixando nossa posição competitiva bem clara, a Tohsaka finalmente vai embora.::
 

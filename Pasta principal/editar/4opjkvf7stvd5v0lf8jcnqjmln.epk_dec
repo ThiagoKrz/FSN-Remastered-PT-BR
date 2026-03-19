@@ -1,52 +1,52 @@
 DAT
 id=qid::label=str::text=lstr::
-6943::$$$message_0064_0000_0000$$$::   I have no chance of winning against a Servant.[lr]::
-6944::$$$message_0064_0000_0001$$$::If I fight, I'm dead.[lr]::
-6945::$$$message_0064_0000_0002$$$::The only thing I can do is beat Shinji to force Rider to retreat.::
+6943::$$$message_0064_0000_0000$$$::[line2]Eu posso até não ter chance de derrotar um Servo.[lr]::
+6944::$$$message_0064_0000_0001$$$::Se tentasse enfrentar a Rider, com certeza eu seria morto.[lr]::
+6945::$$$message_0064_0000_0002$$$::Mas em compensação, eu posso atacar o Shinji para que ela seja obrigada a recuar...!::
 6946::$$$message_0064_0001_0000$$$::"Hah...!"[lr]::
-6947::$$$message_0064_0001_0001$$$::I kick off the hallway floor, refusing to let Rider intimidate me.[lr]::
-6948::$$$message_0064_0001_0002$$$::Six more meters to Shinji.[lr]::
-6949::$$$message_0064_0001_0003$$$::If I can just slip by Rider, I can get to Shinji...::
-6950::$$$message_0064_0002_0000$$$::The Servant in black blocks my way.[lr]::
-6951::$$$message_0064_0002_0001$$$::I focus my concentration and brace to meet her every strike.[lr]::
-6952::$$$message_0064_0002_0002$$$::   I aim to the left.[lr]::
-6953::$$$message_0064_0002_0003$$$::Her left fist twitches the slightest bit, letting me avoid the first blow. I try slipping through the opening between Rider and the wall so I can charge at Shinji.::
-6954::$$$message_0064_0003_0000$$$::Rider vanishes.::
-6955::$$$message_0064_0004_0000$$$::"...Eh?"[lr]::
-6956::$$$message_0064_0004_0001$$$::My plan goes up in smoke.[lr]::
-6957::$$$message_0064_0004_0002$$$::The path is wide open before me, and Rider is nowhere to be seen.::
-6958::$$$message_0064_0005_0000$$$::   This is bad.[lr]::
-6959::$$$message_0064_0005_0001$$$::I have to stop.[lr]::
-6960::$$$message_0064_0005_0002$$$::I screwed up. Saber kept warning me about this, but I just didn't get it.[lr]::
-6961::$$$message_0064_0005_0003$$$::I shouldn't go forward.[lr]::
-6962::$$$message_0064_0005_0004$$$::I shouldn't confront Rider.[lr]::
-6963::$$$message_0064_0005_0005$$$::Even if it's just a single blow, I shouldn't have even [font italic=true]thought[font italic=false] of dodging it...!::
-6964::$$$message_0064_0006_0000$$$::I feel something behind me.[lr]::
-6965::$$$message_0064_0006_0001$$$::Rider hangs from the ceiling behind me. She slices through the back of my neck in a smooth, crescent arc.::
-6966::$$$message_0064_0007_0000$$$::"Hyu...fgh...!"[lr]::
-6967::$$$message_0064_0007_0001$$$::Air hisses from my neck.[lr]::
-6968::$$$message_0064_0007_0002$$$::Rider's skills are truly beautiful.[lr]::
-6969::$$$message_0064_0007_0003$$$::The move was so graceful, like caressing a daffodil.[lr]::
-6970::$$$message_0064_0007_0004$$$::A touch from her fingers, so delicate it would not make a single ripple in still water, plucks my life from me.::
-6971::$$$message_0064_0007_0005$$$::"Hmph. Too easy.[lr]::
-6972::$$$message_0064_0007_0006$$$::He's like a bug on display, the way you skewered him from behind."[lr]::
-6973::$$$message_0064_0007_0007$$$::"I held back. He will survive, with treatment."[lr]::
-6974::$$$message_0064_0007_0008$$$::"Who put you in charge? Nobody told you to go easy on him. Sheesh, you're just a Servant. It's not your place to tell your master what you [font italic=true]think[font italic=false]."::
-6975::$$$message_0064_0007_0009$$$::Blood flows from the wound.[lr]::
-6976::$$$message_0064_0007_0010$$$::No matter how I try, I can't breathe. My throat just rattles and wheezes.::
-6977::$$$message_0064_0008_0000$$$::"Then you have no intention of saving this young man?"[lr]::
-6978::$$$message_0064_0008_0001$$$::"Nope. Besides, I don't know any healing magecraft. Guy's good as dead. Just put him out of his misery, Rider."[lr]::
-6979::$$$message_0064_0008_0002$$$::"Understood. My Bounded Field will not have him, then. He will quench my thirst himself."::
-6980::$$$message_0064_0009_0000$$$::I hear the heavy sound of chains approaching.[lr]::
-6981::$$$message_0064_0009_0001$$$::Something lifts me up.[lr]::
-6982::$$$message_0064_0009_0002$$$::"...Ah..."[lr]::
-6983::$$$message_0064_0009_0003$$$::She gazes toward my bloody neck.[lr]::
-6984::$$$message_0064_0009_0004$$$::The dark Servant slowly parts her lips...[lr]::
-6985::$$$message_0064_0009_0005$$$::...and sinks her teeth into my neck, as if kissing it.::
-6986::$$$message_0064_0010_0000$$$::    My blood... She's sucking my blood...[lr]::
-6987::$$$message_0064_0010_0001$$$::Rider is drinking all the blood I have left...down to the very last drop.::
-6988::$$$message_0064_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
-6989::$$$message_0064_0011_0001$$$::I begin to lose consciousness.[lr]::
-6990::$$$message_0064_0011_0002$$$::Bloodsucking is almost like euthanasia.[lr]::
-6991::$$$message_0064_0011_0003$$$::I feel no pain, and as if slowly dissolving in the spider's venom, I...::
-�
+6947::$$$message_0064_0001_0001$$$::Sem me sentir intimidado pela pressão da Rider, eu começo a correr.[lr]::
+6948::$$$message_0064_0001_0002$$$::Eu só estou a seis metros do Shinji.[lr]::
+6949::$$$message_0064_0001_0003$$$::Se eu conseguir desviar de apenas um ataque dela, já vou chegar até ele...!::
+6950::$$$message_0064_0002_0000$$$::O Servo vestido de preto fica parado no meio do caminho.[lr]::
+6951::$$$message_0064_0002_0001$$$::Eu concentro todos os meus cinco sentidos para prestar atenção em cada movimento que ela fizer, para que assim eu possa reagir ao ataque dela a tempo.[lr]::
+6952::$$$message_0064_0002_0002$$$::[line2]Ela vai tentar me atacar pela esquerda.[lr]::
+6953::$$$message_0064_0002_0003$$$::Ela fez um pequeno movimento com o punho esquerdo. Eu vou fazer de tudo para desviar do primeiro ataque da Rider, passar direto pelo espaço deixado entre ela e a parede, e então alcançar o Shinji.::
+6954::$$$message_0064_0003_0000$$$::Ela desaparece.::
+6955::$$$message_0064_0004_0000$$$::"[line3]Eh...?"[lr]::
+6956::$$$message_0064_0004_0001$$$::O meu plano de passar correndo entre ela e a parede vai por água abaixo.[lr]::
+6957::$$$message_0064_0004_0002$$$::A Rider some do meu campo de visão em um piscar de olhos, e agora o caminho entre mim e o Shinji está completamente vazio.::
+6958::$$$message_0064_0005_0000$$$::[line2]Isso é péssimo.[lr]::
+6959::$$$message_0064_0005_0001$$$::Eu tenho parar de correr.[lr]::
+6960::$$$message_0064_0005_0002$$$::Eu estraguei tudo. A Saber me avisou tantas vezes, mas eu cometi esse erro mesmo assim.[lr]::
+6961::$$$message_0064_0005_0003$$$::Eu não posso avançar mais do que isso.[lr]::
+6962::$$$message_0064_0005_0004$$$::Eu não tenho como enfrentar a Rider de jeito nenhum.[lr]::
+6963::$$$message_0064_0005_0005$$$::Mesmo que eu só precise desviar de um único ataque da Rider, eu nunca deveria ter bolado um plano em que fosse necessário se esquivar do ataque de um Servo...!::
+6964::$$$message_0064_0006_0000$$$::Eu sinto o impacto vindo atrás de mim.[lr]::
+6965::$$$message_0064_0006_0001$$$::A Rider, se agarrando no teto igual a uma aranha, esfaqueia a minha nuca com um ataque em formato de meia-lua.::
+6966::$$$message_0064_0007_0000$$$::"Phew[line2]buh..."[lr]::
+6967::$$$message_0064_0007_0001$$$::O oxigênio está vazando do meu pescoço.[lr]::
+6968::$$$message_0064_0007_0002$$$::O movimento que a Rider fez com o braço foi muito elegante.[lr]::
+6969::$$$message_0064_0007_0003$$$::Foi tão bonito quanto ver alguém encostar em uma flor de narciso.[lr]::
+6970::$$$message_0064_0007_0004$$$::Depois de fazer um movimento com os dedos tão delicado que não causaria nem ondas na água, ela tira a minha vida.::
+6971::$$$message_0064_0007_0005$$$::"Hmph, meus parabéns.[lr]::
+6972::$$$message_0064_0007_0006$$$::Com esse buraco aí atrás, você está parecendo uma cobaia de cirurgia."[lr]::
+6973::$$$message_0064_0007_0007$$$::"Eu peguei leve com ele. Você ainda pode salvar esse garoto se usar magia de cura."[lr]::
+6974::$$$message_0064_0007_0008$$$::"...Escuta aqui, que ideia é essa de sair decidindo as coisas sozinha? Quem te mandou pegar leve com ele? ...Nossa, e você ainda tem coragem de dar sugestões pro seu próprio Mestre!"::
+6975::$$$message_0064_0007_0009$$$::[line2]O meu sangue escorre pelo chão.[lr]::
+6976::$$$message_0064_0007_0010$$$::Não importa o quanto eu mexa os meus pulmões, não consigo capturar o ar para dentro do meu corpo, e a minha garganta fica se contorcendo em vão.::
+6977::$$$message_0064_0008_0000$$$::"Nesse caso, você não pretende salvar esse garoto?"[lr]::
+6978::$$$message_0064_0008_0001$$$::"Não. Afinal, eu nem consigo usar magia de cura. Ele vai morrer de qualquer jeito, então deixe-o assim mesmo, Rider."[lr]::
+6979::$$$message_0064_0008_0002$$$::"[line2]Entendido. Eu não vou absorvê-lo com o meu Campo de Separação. Vou matar a minha sede diretamente."::
+6980::$$$message_0064_0009_0000$$$::Eu ouço um barulho de metal sendo arrastado pelo chão.[lr]::
+6981::$$$message_0064_0009_0001$$$::...O meu corpo é levantado.[lr]::
+6982::$$$message_0064_0009_0002$$$::"...Ah."[lr]::
+6983::$$$message_0064_0009_0003$$$::...Ela está encarando o meu pescoço cheio de sangue.[lr]::
+6984::$$$message_0064_0009_0004$$$::O Servo vestido de preto abre a boca com cuidado, e então...[lr]::
+6985::$$$message_0064_0009_0005$$$::...Morde o meu pescoço, como se estivesse o beijando.::
+6986::$$$message_0064_0010_0000$$$::[line2]O sangue do meu corpo está sendo sugado.[lr]::
+6987::$$$message_0064_0010_0001$$$::O meu sangue já escasso é sugado pela Rider, sem deixar sobrar uma gota sequer.::
+6988::$$$message_0064_0011_0000$$$::"[line5]"[lr]::
+6989::$$$message_0064_0011_0001$$$::Eu começo a perder a consciência.[lr]::
+6990::$$$message_0064_0011_0002$$$::...Essa drenagem de sangue é como se fosse uma morte induzida.[lr]::
+6991::$$$message_0064_0011_0003$$$::Não estou sentindo dor. Como se estivesse sendo derretido pelo veneno de uma aranha, eu[line2]::
+�

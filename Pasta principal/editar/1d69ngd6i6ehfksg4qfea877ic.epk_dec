@@ -1,51 +1,51 @@
 DAT
 id=qid::label=str::text=lstr::
-65738::$$$message_0607_0000_0000$$$::It's an earnest plea, not a warning.::
-65739::$$$message_0607_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
-65740::$$$message_0607_0001_0001$$$::I squeeze my wrapped left arm.[lr]::
-65741::$$$message_0607_0001_0002$$$::It's true that I don't want to take this off.[lr]::
-65742::$$$message_0607_0001_0003$$$::But that means...::
-65743::$$$message_0607_0002_0000$$$::"How am I going to copy Archer's magecraft, then?[lr]::
-65744::$$$message_0607_0002_0001$$$::I won't be able to draw out its structure unless I undo the shroud, right?"::
-65745::$$$message_0607_0003_0000$$$::"Of course. We're going to keep the risks in mind and just barely loosen the holy shroud's restraints. It won't fully undo the seal, and it should reduce the feedback from his arm."[lr]::
-65746::$$$message_0607_0003_0001$$$::"...Right, when you were talking about taking off the shroud earlier..."::
-65747::$$$message_0607_0004_0000$$$::"I meant that we'd just slightly loosen it.[lr]::
-65748::$$$message_0607_0004_0001$$$::But it's still a big deal, so I wanted to make sure you were ready."::
-65749::$$$message_0607_0005_0000$$$::"It's something we have to do eventually, anyway.[lr]::
-65750::$$$message_0607_0005_0001$$$::You don't want to keep your arm wrapped up forever, do you? You won't get anywhere if you can't at least take it off and put it back on yourself. What if it accidentally comes off in the bath, for example?"[lr]::
-65751::$$$message_0607_0005_0002$$$::"Oh. Yeah, good point."::
-65752::$$$message_0607_0006_0000$$$::"Right? So we should teach you to bear the feedback of loosening the shroud, at least.[lr]::
-65753::$$$message_0607_0006_0001$$$::It looks like your body's adapting to the ward I applied yesterday and the magic resistance is working. Illya will protect your mind, so I think we should have about five minutes to work with."::
-65754::$$$message_0607_0007_0000$$$::"So you mean...you want the two of us to restrain Archer's arm?"::
-65755::$$$message_0607_0008_0000$$$::"Not exactly. I'm only going to be protecting your mind, while it's your job to endure the backflow from Archer's arm.[lr]::
-65756::$$$message_0607_0008_0001$$$::You need to draw out Archer's experience, so you'll have to accept and endure it instead of blocking it out."::
-65757::$$$message_0607_0009_0000$$$::...I see.[lr]::
-65758::$$$message_0607_0009_0001$$$::If Illya blocks the magical energy flow from Archer's arm, I won't be able to learn his magecraft.[lr]::
-65759::$$$message_0607_0009_0002$$$::Even if it's toxic to me, I can't learn what it contains unless I taste it myself.::
-65760::$$$message_0607_0010_0000$$$::"...All right. Then I'll loosen the shroud, and do my best to endure the backflow from the arm."::
-65761::$$$message_0607_0011_0000$$$::"Yeah. When you do it, close your eyes and direct your mind inwards.[lr]::
-65762::$$$message_0607_0011_0001$$$::It should be easy, like when you're opening your Magic Circuits.[lr]::
-65763::$$$message_0607_0011_0002$$$::You just need to experience Archer's Projection method. Let it sink into your body, but don't try to understand it."::
-65764::$$$message_0607_0012_0000$$$::"...Sorry, I need to step away for a bit.[lr]::
-65765::$$$message_0607_0012_0001$$$::Take care of him, Illya. I'll be right back, so train him in the meantime."[lr]::
-65766::$$$message_0607_0012_0002$$$::And with that, Tohsaka suddenly leaves the dojo,[lr]::
-65767::$$$message_0607_0012_0003$$$::though not with any urgency.::
-65768::$$$message_0607_0013_0000$$$::"What's up with her?"[lr]::
-65769::$$$message_0607_0013_0001$$$::"Who knows. She probably forgot something.[lr]::
-65770::$$$message_0607_0013_0002$$$::Anyway, Shirou, you have something to do, don't you?[lr]::
-65771::$$$message_0607_0013_0003$$$::I think it's foolish to loosen the binds, and I'm against it. But I did promise to help you. We'll finish this before Rin gets back."::
-65772::$$$message_0607_0014_0000$$$::Illya goes behind me and places a cool hand on my back.::
+65738::$$$message_0607_0000_0000$$$::Isso soa mais como um pedido do que um aviso.::
+65739::$$$message_0607_0001_0000$$$::"[w l=8][line8]"[lr]::
+65740::$$$message_0607_0001_0001$$$::Eu aperto o meu braço esquerdo que está coberto pelo pano vermelho.[lr]::
+65741::$$$message_0607_0001_0002$$$::Eu também não quero tirá-lo.[lr]::
+65742::$$$message_0607_0001_0003$$$::Mas[w l=4][line4]::
+65743::$$$message_0607_0002_0000$$$::"...Então, e quanto a imitar a magia do Archer?[lr]::
+65744::$$$message_0607_0002_0001$$$::Eu não vou ser capaz de absorver a magia dele a menos que remova isso, não é?"::
+65745::$$$message_0607_0003_0000$$$::"Correto. Por isso, eu vou te fazer afrouxar um pouco o Manto. Isso não vai quebrar o selo, e a reação do braço será menor, não é?"[lr]::
+65746::$$$message_0607_0003_0001$$$::".........É mesmo. Então o que você queria dizer mais cedo com remover esse pano era..."::
+65747::$$$message_0607_0004_0000$$$::"Sim. Eu quis dizer apenas afrouxar o pano de leve.[lr]::
+65748::$$$message_0607_0004_0001$$$::Mas isso continua sendo algo bem sério. Foi por isso que eu testei a sua determinação."::
+65749::$$$message_0607_0005_0000$$$::"De qualquer forma, você acabaria tendo que fazer isso.[lr]::
+65750::$$$message_0607_0005_0001$$$::Você não quer manter esse pano para sempre, quer? Você não vai conseguir lidar com isso no futuro a menos que possa pelo menos colocá-lo de volta no lugar. Como por exemplo quando você for tomar um banho, ou quando o nó desamarrar por algum motivo."[lr]::
+65751::$$$message_0607_0005_0002$$$::"Ah[w l=3][line3]é mesmo. Você tem razão."::
+65752::$$$message_0607_0006_0000$$$::"Não é? Você deve pelo menos se acostumar ao que acontece ao afrouxar o pano.[lr]::
+65753::$$$message_0607_0006_0001$$$::O encravamento de ontem parece ter se familiarizado com o seu corpo, e a sua resistência mágica aumentou. A Illya vai proteger a sua consciência, então eu acho que você vai conseguir mantê-lo desamarrado por cerca de cinco minutos."::
+65754::$$$message_0607_0007_0000$$$::"Illya...? Então você quer que eu e ela suprimamos o braço do Archer juntos?"::
+65755::$$$message_0607_0008_0000$$$::"Não é bem assim. Eu irei apenas proteger a sua mente, portanto a sua função é suportar o refluxo do Archer.[lr]::
+65756::$$$message_0607_0008_0001$$$::Já que o objetivo é recuperar a experiência dele, você precisa suportar, e não bloquear."::
+65757::$$$message_0607_0009_0000$$$::...Ah.[lr]::
+65758::$$$message_0607_0009_0001$$$::Se a Illya cortar o fluxo de energia mágica do Archer, eu não serei capaz de aprender as técnicas dele.[lr]::
+65759::$$$message_0607_0009_0002$$$::Mesmo que seja um veneno para mim, eu preciso prová-lo para entender o seu conteúdo.::
+65760::$$$message_0607_0010_0000$$$::"...Está bem. Então eu preciso afrouxar o pano e suportar o refluxo do braço, não é?"::
+65761::$$$message_0607_0011_0000$$$::"Sim. Tenha certeza de fechar os olhos e se concentrar.[lr]::
+65762::$$$message_0607_0011_0001$$$::É como abrir o Circuito Mágico, então deve ser fácil, não é?[lr]::
+65763::$$$message_0607_0011_0002$$$::O seu corpo só precisa experimentar a técnica de projeção do Archer. Não se preocupe em tentar entendê-la."::
+65764::$$$message_0607_0012_0000$$$::"[w l=4][line4]Sinto muito, mas eu vou sair por alguns minutos.[lr]::
+65765::$$$message_0607_0012_0001$$$::Deixarei o resto por sua conta, Illya. Por favor, treine o Shirou enquanto eu estiver fora."[lr]::
+65766::$$$message_0607_0012_0002$$$::De repente, a Tohsaka se levanta e sai com calma do dojô.::
+65767::$$$message_0607_0012_0003$$$::embora não com qualquer urgência.::
+65768::$$$message_0607_0013_0000$$$::"......? O que deu nela?"[lr]::
+65769::$$$message_0607_0013_0001$$$::"Eu não sei. Acho que ela esqueceu alguma coisa.[lr]::
+65770::$$$message_0607_0013_0002$$$::Mas você tem coisas a fazer, Shirou.[lr]::
+65771::$$$message_0607_0013_0003$$$::Eu sou contra essa ideia idiota de afrouxar o Manto, mas já que você prometeu a ela, eu irei te ajudar. Vamos terminar com isso antes dela voltar."::
+65772::$$$message_0607_0014_0000$$$::A Illya vem atrás de mim e coloca sua mão gelada nas minhas costas.::
 65773::$$$message_0607_0015_0000$$$::"Illya...?"[lr]::
-65774::$$$message_0607_0015_0001$$$::"Just close your eyes. Do that meditation you're so good at.[lr]::
-65775::$$$message_0607_0015_0002$$$::Once you open your Magic Circuits, I'll protect your mind, and then loosen the holy shroud.[lr]::
-65776::$$$message_0607_0015_0003$$$::I'll handle the timing, so just be ready to deal with the magical energy flow. You'll need to try as hard as you can to hang on, because the feedback from the arm will consume you."::
-65777::$$$message_0607_0016_0000$$$::I nod, and slowly close my eyes.::
-65778::$$$message_0607_0017_0000$$$::...Quickly and quietly, I still my mind and create different nerves inside my body.[lr]::
-65779::$$$message_0607_0017_0001$$$::In just a few days, it's become much easier to create my pseudo-nerves.[lr]::
-65780::$$$message_0607_0017_0002$$$::Then, just as I complete the line of light running down my back...::
-65781::$$$message_0607_0018_0000$$$::"It was a needless warning, Shirou.[lr]::
-65782::$$$message_0607_0018_0001$$$::Rin only knows about your human pain of having a Heroic Spirit's arm attached. She doesn't understand what it really means, or what's going to happen to you.[lr]::
-65783::$$$message_0607_0018_0002$$$::But she can't help what she doesn't know.[lr]::
-65784::$$$message_0607_0018_0003$$$::After all, I'm the only person in the whole world who knows your relationship to Archer."::
-65785::$$$message_0607_0019_0000$$$::Illya says something strange in a voice I can't quite hear.::
+65774::$$$message_0607_0015_0001$$$::"Apenas feche os olhos e comece a meditar.[lr]::
+65775::$$$message_0607_0015_0002$$$::Eu irei proteger a sua mente e afrouxar o Manto assim que o Circuito Mágico for aberto.[lr]::
+65776::$$$message_0607_0015_0003$$$::Eu vou cronometrar o tempo, e você só precisará suportar o refluxo de energia mágica. Tenha certeza de fazer esforços desesperados, ou a reação com certeza vai te consumir."::
+65777::$$$message_0607_0016_0000$$$::Eu aceno de volta e fecho os olhos.::
+65778::$$$message_0607_0017_0000$$$::...Eu concentro os meus sentidos em silêncio e crio outro nervo dentro de mim.[lr]::
+65779::$$$message_0607_0017_0001$$$::Essa etapa tem ficado muito mais fácil nos últimos dias.[lr]::
+65780::$$$message_0607_0017_0002$$$::Assim que eu termino de criar a linha de luz que atravessa as minhas costas...::
+65781::$$$message_0607_0018_0000$$$::"Eu vou te dar um aviso desnecessário, Shirou.[lr]::
+65782::$$$message_0607_0018_0001$$$::A Rin conhece apenas a dor de ter o braço de um Espírito Heroico transplantado em você. Ela não sabe o que isso vai te causar. Ela não faz ideia do que isso vai fazer contigo.[lr]::
+65783::$$$message_0607_0018_0002$$$::Mas não há o que fazer.[lr]::
+65784::$$$message_0607_0018_0003$$$::Eu sou a única nesse mundo que sabe sobre a relação entre você e o Archer."::
+65785::$$$message_0607_0019_0000$$$::A Illya está dizendo algo com uma voz baixa demais para eu conseguir ouvir.::
 

@@ -1,35 +1,35 @@
 DAT
 id=qid::label=str::text=lstr::
-76235::$$$message_0706_0000_0000$$$::"...So hot."[lr]::
-76236::$$$message_0706_0000_0001$$$::I open my eyes. I can't sleep.[lr]::
-76237::$$$message_0706_0000_0002$$$::My pajamas are heavy with sweat. I kick off the covers.[lr]::
-76238::$$$message_0706_0000_0003$$$::I wipe my forehead, finding that it's slick with enough sweat to soak a kitchen rag.::
-76239::$$$message_0706_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
-76240::$$$message_0706_0001_0001$$$::...I can't think straight.[lr]::
-76241::$$$message_0706_0001_0002$$$::Did the summer-like heat cook my brain?[lr]::
-76242::$$$message_0706_0001_0003$$$::I think as hard as I can, but I can't tell what, when, or where this is.::
-76243::$$$message_0706_0001_0004$$$::[font italic=true]...[font italic=false][lr]::
-76244::$$$message_0706_0001_0005$$$::I go out into the yard.[lr]::
-76245::$$$message_0706_0001_0006$$$::I just want to cool off my burning body.[lr]::
-76246::$$$message_0706_0001_0007$$$::...Was the room hot, or was it just me?[lr]::
-76247::$$$message_0706_0001_0008$$$::Thinking is a pain, so I'll sleep in the shed tonight.[lr]::
-76248::$$$message_0706_0001_0009$$$::It's cold in there.[lr]::
-76249::$$$message_0706_0001_0010$$$::It doesn't matter whether it's hot or[line2]::
-76250::$$$message_0706_0002_0000$$$::"Guh... Argh...!"[lr]::
-76251::$$$message_0706_0002_0001$$$::Suddenly, stabbing pain drives me to my knees.[lr]::
-76252::$$$message_0706_0002_0002$$$::"...Argh..."[lr]::
-76253::$$$message_0706_0002_0003$$$::I keel over, panting hard.::
-76254::$$$message_0706_0003_0000$$$::...I'm awake.[lr]::
-76255::$$$message_0706_0003_0001$$$::I clutch my left arm, the source of the heat and pain.[lr]::
-76256::$$$message_0706_0003_0002$$$::It's wrapped in a holy shroud.[lr]::
-76257::$$$message_0706_0003_0003$$$::The red cloth locks the arm up tight.[lr]::
-76258::$$$message_0706_0003_0004$$$::I can move it, but it's wrapped so tightly the blood is cut off.[lr]::
-76259::$$$message_0706_0003_0005$$$::Then, I wonder if it's the cloth that's hurting my arm.::
-76260::$$$message_0706_0004_0000$$$::"Maybe it'll actually go back to normal if I take this off."[lr]::
-76261::$$$message_0706_0004_0001$$$::It's a terribly enticing delusion.[lr]::
-76262::$$$message_0706_0004_0002$$$::I haven't even seen what's under the red cloth yet.[lr]::
-76263::$$$message_0706_0004_0003$$$::It's not that I don't believe what the priest said, but what if he's wrong?::
-76264::$$$message_0706_0005_0000$$$::Nothing's that wrong with my arm. Maybe if I unwrap it, it'll just be the same old arm I've always known.[lr]::
-76265::$$$message_0706_0005_0001$$$::It can't possibly be made of steel.[lr]::
-76266::$$$message_0706_0005_0002$$$::The only reason I can't move it is because it's bound up so tightly. If I unwrap it, I'm sure...[lr]::
+76235::$$$message_0706_0000_0000$$$::"[w l=8][line8], Está muito quente."[lr]::
+76236::$$$message_0706_0000_0001$$$::Eu acordo.[lr]::
+76237::$$$message_0706_0000_0002$$$::O meu pijama está molhado de suor, e o meu futon foi chutado para longe.[lr]::
+76238::$$$message_0706_0000_0003$$$::Eu passo a mão na minha testa e percebo que está molhada de suor.::
+76239::$$$message_0706_0001_0000$$$::"[w l=8][line8]"[lr]::
+76240::$$$message_0706_0001_0001$$$::...Eu não consigo pensar direito.[lr]::
+76241::$$$message_0706_0001_0002$$$::O meu cérebro pode acabar fritando com esse calor de verão.[lr]::
+76242::$$$message_0706_0001_0003$$$::Não consigo me concentrar sobre que horas são ou onde estou, não importa o quanto eu pense.::
+76243::$$$message_0706_0001_0004$$$::"[w l=8][line8]"[lr]::
+76244::$$$message_0706_0001_0005$$$::Eu saio para o quintal.[lr]::
+76245::$$$message_0706_0001_0006$$$::Mais do que tudo, eu quero esfriar o meu corpo.[lr]::
+76246::$$$message_0706_0001_0007$$$::...Não sei se o calor está vindo do meu quarto ou do meu corpo.[lr]::
+76247::$$$message_0706_0001_0008$$$::Eu estou cansado demais para pensar, então vou dormir no depósito hoje.[lr]::
+76248::$$$message_0706_0001_0009$$$::Pelo menos aquele lugar é frio.[lr]::
+76249::$$$message_0706_0001_0010$$$::Não interessa se está quente ou...::
+76250::$$$message_0706_0002_0000$$$::"Guh[w l=4][line4], ah[w l=4][line4]!"[lr]::
+76251::$$$message_0706_0002_0001$$$::Uma dor aguda e inesperada me faz cair de joelhos.[lr]::
+76252::$$$message_0706_0002_0002$$$::"[w l=4][line4]. Ai[w l=4][line4]"[lr]::
+76253::$$$message_0706_0002_0003$$$::Eu fico de joelhos, respirando com dificuldade.::
+76254::$$$message_0706_0003_0000$$$::...Eu me levanto.[lr]::
+76255::$$$message_0706_0003_0001$$$::Eu aperto o meu braço esquerdo, a fonte da dor e do calor.[lr]::
+76256::$$$message_0706_0003_0002$$$::O Manto ainda está o cobrindo.[lr]::
+76257::$$$message_0706_0003_0003$$$::O pano vermelho está restringindo o meu braço.[lr]::
+76258::$$$message_0706_0003_0004$$$::Eu consigo mexê-lo, mas está amarrado tão forte que a circulação está lenta.[lr]::
+76259::$$$message_0706_0003_0005$$$::Talvez esse pano seja a causa da dor.::
+76260::$$$message_0706_0004_0000$$$::"Talvez se eu tirar esse pano, o meu braço esteja como era antes."[lr]::
+76261::$$$message_0706_0004_0001$$$::A ideia imprudente parece ser muito atraente.[lr]::
+76262::$$$message_0706_0004_0002$$$::Em primeiro lugar, eu nunca vi o que está debaixo desse pano vermelho.[lr]::
+76263::$$$message_0706_0004_0003$$$::Não é que eu não confie naquele padre, mas tenho certeza de que ele também comete erros.::
+76264::$$$message_0706_0005_0000$$$::Talvez não haja nada de errado com o meu braço, e o meu braço verdadeiro vai estar ali se eu arrancar esse pano.[lr]::
+76265::$$$message_0706_0005_0001$$$::O meu braço não é de aço.[lr]::
+76266::$$$message_0706_0005_0002$$$::O pano só está deixando o meu braço rígido, então se eu removê-lo[w l=4][line4][lr]::
 

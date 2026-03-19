@@ -1,381 +1,381 @@
 DAT
 id=qid::label=str::text=lstr::
 1::$$$message_0000_0000_0000$$$::I hear a creaking sound.[lr]::
-2::$$$message_0000_0000_0001$$$::It's the old, heavy, rusted door of the shed opening.::
-3::$$$message_0000_0001_0000$$$::Light pours in through the crack in the door.[lr]::
+2::$$$message_0000_0000_0001$$$::É a porta velha, pesada e enferrujada do galpão se abrindo.::
+3::$$$message_0000_0001_0000$$$::A luz entra pela fresta da porta.[lr]::
 4::$$$message_0000_0001_0001$$$::[font italic=true]...[font italic=false][lr]::
 5::$$$message_0000_0001_0002$$$::It's enough to wake me up.::
-6::$$$message_0000_0002_0000$$$::"Senpai, are you awake?"[lr]::
-7::$$$message_0000_0002_0001$$$::I don't even need to look to know who's approaching.[lr]::
-8::$$$message_0000_0002_0002$$$::It must be that time already.[lr]::
-9::$$$message_0000_0002_0003$$$::I take a deep breath and open my eyes.::
+6::$$$message_0000_0002_0000$$$::"[w l=4][line4]Está acordado, Senpai?"[lr]::
+7::$$$message_0000_0002_0001$$$::Nem preciso olhar para saber quem está se aproximando.[lr]::
+8::$$$message_0000_0002_0002$$$::Já deve ser essa hora.[lr]::
+9::$$$message_0000_0002_0003$$$::Respiro fundo e abro os olhos.::
 10::$$$message_0000_0003_0000$$$::"Good morning, Senpai. It's time already."[lr]::
-11::$$$message_0000_0003_0001$$$::"Hn. I see that. Morning, Sakura. Thanks for waking me up."::
+11::$$$message_0000_0003_0001$$$::"Hn. Entendo. Bom dia, Sakura. Obrigado por me acordar."::
 12::$$$message_0000_0004_0000$$$::"It's nothing. I knew you'd wake up anyway, so I didn't need to do anything."::
-13::$$$message_0000_0005_0000$$$::"Got it. So how come you came all the way out here to wake me up?"[lr]::
-14::$$$message_0000_0005_0001$$$::"It's no trouble. I just wanted to wake you up this morning, so I woke up half an hour earlier than usual. Today is a special day, after all."::
+13::$$$message_0000_0005_0000$$$::"Entendi. Então, por que você veio até aqui para me acordar?"[lr]::
+14::$$$message_0000_0005_0001$$$::"Não é problema. Eu só queria te acordar esta manhã, então acordei meia hora mais cedo do que o normal. Afinal, hoje é um dia especial."::
 15::$$$message_0000_0006_0000$$$::"Oh..."[lr]::
 16::$$$message_0000_0006_0001$$$::Then I remember.[lr]::
-17::$$$message_0000_0006_0002$$$::That's right. It [font italic=true]is[font italic=false] a special day.::
-18::$$$message_0000_0007_0000$$$::"Sakura. I don't think I even need to ask, but Fuji-nee's not here yet, right?"[lr]::
-19::$$$message_0000_0007_0001$$$::"No. Ms. Fujimura is not here yet. Oh, but Illya is already here."::
+17::$$$message_0000_0006_0002$$$::Isso mesmo. É [font italic=true]é[font italic=false] um dia especial.::
+18::$$$message_0000_0007_0000$$$::"Sakura. Acho que nem preciso perguntar, mas Fuji-nee ainda não chegou, certo?"[lr]::
+19::$$$message_0000_0007_0001$$$::"Não. A Sra. Fujimura ainda não está aqui. Ah, mas Illya já está aqui."::
 20::$$$message_0000_0008_0000$$$::I knew it.[lr]::
-21::$$$message_0000_0008_0001$$$::If Illya's here, then that can mean only one thing.::
-22::$$$message_0000_0009_0000$$$::"Crap. Sorry Sakura, but I need you to take care of breakfast this morning. I'm going to go and wake Fuji-nee up."[lr]::
+21::$$$message_0000_0008_0001$$$::Se Illya está aqui, isso só pode significar uma coisa.::
+22::$$$message_0000_0009_0000$$$::"Merda. Desculpe Sakura, mas preciso que você cuide do café da manhã esta manhã. Vou acordar Fuji-nee."[lr]::
 23::$$$message_0000_0009_0001$$$::"Oh, okay. Good idea, Senpai."::
-24::$$$message_0000_0010_0000$$$::Luckily I was up late last night, so I'm still in my work clothes.[lr]::
+24::$$$message_0000_0010_0000$$$::Felizmente fiquei acordado até tarde ontem à noite, então ainda estou com minhas roupas de trabalho.[lr]::
 25::$$$message_0000_0010_0001$$$::I'm glad I don't need to change to head out.::
-26::$$$message_0000_0011_0000$$$::"I'll be back in ten minutes. You're in charge of the house until then."[lr]::
+26::$$$message_0000_0011_0000$$$::"Estarei de volta em dez minutos. Você é o responsável pela casa até então."[lr]::
 27::$$$message_0000_0011_0001$$$::"Yes, you can count on me."::
 28::$$$message_0000_0012_0000$$$::"Hey, Shirou's awake."[lr]::
-29::$$$message_0000_0012_0001$$$::"Yeah, I just woke up. I'm going to go wake Fuji-nee up, so go help Sakura with breakfast."[lr]::
-30::$$$message_0000_0012_0002$$$::I pat Illya on the shoulder and head to the front entrance.::
-31::$$$message_0000_0013_0000$$$::"She beat me to it! Argh! I said I was going to wake Shirou up, Sakura!!!"[lr]::
-32::$$$message_0000_0013_0001$$$::Illya fumes at Sakura as she stomps over to the shed.[lr]::
-33::$$$message_0000_0013_0002$$$::This sort of thing is hardly unusual anymore.::
+29::$$$message_0000_0012_0001$$$::"Sim, acabei de acordar. Vou acordar Fuji-nee, então vá ajudar Sakura com o café da manhã."[lr]::
+30::$$$message_0000_0012_0002$$$::Dou um tapinha no ombro de Illya e vou para a entrada da frente.::
+31::$$$message_0000_0013_0000$$$::"Ela chegou antes de mim! Argh! Eu disse que ia acordar o Shirou, Sakura!!!"[lr]::
+32::$$$message_0000_0013_0001$$$::Illya fica furiosa com Sakura enquanto ela vai até o galpão.[lr]::
+33::$$$message_0000_0013_0002$$$::Esse tipo de coisa não é mais incomum.::
 34::$$$message_0000_0014_0000$$$::Illya said she wasn't going to return to her home country, so I talked to Fuji-nee about taking her in.[lr]::
-35::$$$message_0000_0014_0001$$$::She was vehemently opposed, and suggested that she would take in Illya at her house.[lr]::
-36::$$$message_0000_0014_0002$$$::Since then, Illya has been staying at the Fujimura house. And, of course, she's been coming over, with Fuji-nee, mornings and nights.[lr]::
-37::$$$message_0000_0014_0003$$$::It goes without saying that they're coming for breakfast and dinner.[lr]::
-38::$$$message_0000_0014_0004$$$::The two have been living together for two months now, and they're practically joined at the hip.::
-39::$$$message_0000_0015_0000$$$::When I pass near the shed wall...[lr]::
-40::$$$message_0000_0015_0001$$$::I hear Sakura and Illya talking.::
-41::$$$message_0000_0016_0000$$$::Illya is pretty blunt, so I thought she wouldn't get along with Sakura, but that doesn't seem to be the case.[lr]::
-42::$$$message_0000_0016_0001$$$::They're like an odd couple... Illya is energetic, while Sakura is more laid-back. It seems they get along, in spite of their differences.[lr]::
-43::$$$message_0000_0016_0002$$$::In fact, Sakura has regained her usual cheer thanks to Illya.::
-44::$$$message_0000_0017_0000$$$::Ever since Sakura's older brother, Shinji, disappeared and was listed as missing, she'd stopped smiling.[lr]::
-45::$$$message_0000_0017_0001$$$::She must have sensed that he had something to do with the mass coma incident at school.[lr]::
+35::$$$message_0000_0014_0001$$$::Ela se opôs veementemente e sugeriu que acolheria Illya em sua casa.[lr]::
+36::$$$message_0000_0014_0002$$$::Desde então, Illya está hospedada na casa dos Fujimura. E, claro, ela vem com Fuji-nee, de manhã e à noite.[lr]::
+37::$$$message_0000_0014_0003$$$::Nem é preciso dizer que eles vêm tomar café da manhã e jantar.[lr]::
+38::$$$message_0000_0014_0004$$$::Os dois moram juntos há dois meses e estão praticamente unidos pelo quadril.::
+39::$$$message_0000_0015_0000$$$::Quando passo perto da parede do galpão...[lr]::
+40::$$$message_0000_0015_0001$$$::Eu ouço Sakura e Illya conversando.::
+41::$$$message_0000_0016_0000$$$::Illya é bem franca, então pensei que ela não se daria bem com Sakura, mas não parece ser o caso.[lr]::
+42::$$$message_0000_0016_0001$$$::Eles são como um casal estranho... Illya é enérgica, enquanto Sakura é mais descontraída. Parece que eles se dão bem, apesar das diferenças.[lr]::
+43::$$$message_0000_0016_0002$$$::Na verdade, Sakura recuperou sua alegria habitual graças a Illya.::
+44::$$$message_0000_0017_0000$$$::Desde que o irmão mais velho de Sakura, Shinji, desapareceu e foi listado como desaparecido, ela parou de sorrir.[lr]::
+45::$$$message_0000_0017_0001$$$::Ela deve ter percebido que ele teve algo a ver com o incidente do coma em massa na escola.[lr]::
 46::$$$message_0000_0017_0002$$$::Fretting over Shinji, Sakura shut herself away.::
-47::$$$message_0000_0018_0000$$$::It was Illya who forced her to get over it, and Sakura is her normal, cheerful self whenever she's with Illya.[lr]::
+47::$$$message_0000_0018_0000$$$::Foi Illya quem a forçou a superar isso, e Sakura continua normal e alegre sempre que está com Illya.[lr]::
 48::$$$message_0000_0018_0001$$$::"Yep. Sakura's smiling again."[lr]::
-49::$$$message_0000_0018_0002$$$::I'm truly happy about that.[lr]::
-50::$$$message_0000_0018_0003$$$::Sakura's most herself when she's smiling that gentle smile of hers.::
-51::$$$message_0000_0019_0000$$$::"Ugggh. Illya's so mean. I even offered her a little extra pocket money to wake me up, no matter what."[lr]::
-52::$$$message_0000_0019_0001$$$::Fuji-nee is in tears as she shovels breakfast into her mouth.::
-53::$$$message_0000_0020_0000$$$::"I had no choice. If I waited for you to wake up, I would be late, and I worked enough to earn my pay. If you want me to work harder, then you should just raise my allowance rather than giving me a little extra sometimes."::
-54::$$$message_0000_0021_0000$$$::"Hnnngh. I know you get money from Grandfather too. Why is this child such a miser?[lr]::
-55::$$$message_0000_0021_0001$$$::Nobody will like you if you're so stingy at such a young age."::
-56::$$$message_0000_0022_0000$$$::"That's okay. As long as the person I like doesn't think like that, I don't care what anyone else thinks. Oh, by the way, Taiga, I want the money you borrowed the other day back. It was payday five days ago, right?"::
-57::$$$message_0000_0023_0000$$$::"Eh? H-how do you know that!?"[lr]::
-58::$$$message_0000_0023_0001$$$::"Raiga told me. I can give you the details of the conversation if you like."::
+49::$$$message_0000_0018_0002$$$::Estou realmente feliz com isso.[lr]::
+50::$$$message_0000_0018_0003$$$::Sakura é mais ela mesma quando sorri com aquele sorriso gentil dela.::
+51::$$$message_0000_0019_0000$$$::"Ugggh. Illya é tão má. Até ofereci a ela uma mesada extra para me acordar, não importa o que acontecesse."[lr]::
+52::$$$message_0000_0019_0001$$$::Fuji-nee está chorando enquanto coloca o café da manhã na boca.::
+53::$$$message_0000_0020_0000$$$::"Eu não tive escolha. Se eu esperasse você acordar, chegaria atrasado e trabalhei o suficiente para ganhar meu salário. Se você quer que eu trabalhe mais, então deveria apenas aumentar minha mesada em vez de me dar um pouco mais às vezes."::
+54::$$$message_0000_0021_0000$$$::"Hnnngh. Eu sei que você também recebe dinheiro do avô. Por que essa criança é tão avarenta?[lr]::
+55::$$$message_0000_0021_0001$$$::Ninguém vai gostar de você se você for tão mesquinho em tão tenra idade."::
+56::$$$message_0000_0022_0000$$$::"Tudo bem. Contanto que a pessoa de quem eu gosto não pense assim, não me importo com o que os outros pensam. Ah, a propósito, Taiga, quero o dinheiro que você pegou emprestado outro dia de volta. Foi dia de pagamento há cinco dias, certo? "::
+57::$$$message_0000_0023_0000$$$::"Eh? C-como você sabe disso!?"[lr]::
+58::$$$message_0000_0023_0001$$$::"Raiga me contou. Posso lhe dar os detalhes da conversa, se quiser."::
 59::$$$message_0000_0024_0000$$$::Illya grins wryly.[lr]::
-60::$$$message_0000_0024_0001$$$::Unlike her more friendly relationship with Sakura, Illya and Taiga are practically cats and dogs.[lr]::
-61::$$$message_0000_0024_0002$$$::Illya gets really mean with Fuji-nee. Even her smile reminds me of a certain someone's smirk.::
+60::$$$message_0000_0024_0001$$$::Ao contrário de seu relacionamento mais amigável com Sakura, Illya e Taiga são praticamente cães e gatos.[lr]::
+61::$$$message_0000_0024_0002$$$::Illya fica muito malvada com Fuji-nee. Até o sorriso dela me lembra o sorriso malicioso de uma certa pessoa.::
 62::$$$message_0000_0025_0000$$$::"You've got until tomorrow. If you can't pay me back, I'll take it out of your allowance, Taiga."[lr]::
-63::$$$message_0000_0025_0001$$$::"What!? I-I can't believe Grandfather told you about that!"::
-64::$$$message_0000_0026_0000$$$::"Yep. I'm with him all day. Raiga even said I'm cuter than you, Taiga."[lr]::
-65::$$$message_0000_0026_0001$$$::"Whaaa...!? What have you done, Shirou!? This girl is the DEVIL! She's going to take over the whole Fujimura group!"::
+63::$$$message_0000_0025_0001$$$::"O quê!? E-eu não posso acreditar que o vovô lhe contou sobre isso!"::
+64::$$$message_0000_0026_0000$$$::"Sim. Estou com ele o dia todo. Raiga até disse que sou mais fofo que você, Taiga."[lr]::
+65::$$$message_0000_0026_0001$$$::"O quê...!? O que você fez, Shirou!? Essa garota é o DIABO! Ela vai dominar todo o grupo Fujimura!"::
 66::$$$message_0000_0027_0000$$$::[font italic=true]...[font italic=false][lr]::
 67::$$$message_0000_0027_0001$$$::Uh, more importantly...[lr]::
-68::$$$message_0000_0027_0002$$$::Why does a grown woman still get an allowance from her grandfather?::
-69::$$$message_0000_0028_0000$$$::"See you later, Shirou. You're coming home early today, right? Then I'll wait here, so come home quick."[lr]::
-70::$$$message_0000_0028_0001$$$::"Yep. I'll try. Take care of the house, Illya."::
-71::$$$message_0000_0029_0000$$$::"Hmph. She might as well just live in this house, for all I care...dummy."[lr]::
+68::$$$message_0000_0027_0002$$$::Por que uma mulher adulta ainda recebe mesada do avô?::
+69::$$$message_0000_0028_0000$$$::"Até mais, Shirou. Você vem para casa mais cedo hoje, certo? Então vou esperar aqui, então volte para casa rápido."[lr]::
+70::$$$message_0000_0028_0001$$$::"Sim. Vou tentar. Cuide da casa, Illya."::
+71::$$$message_0000_0029_0000$$$::"Hmph. Ela poderia muito bem morar nesta casa, pelo que me importa... idiota."[lr]::
 72::$$$message_0000_0029_0001$$$::Fuji-nee sulks as she hides behind my back.[lr]::
 73::$$$message_0000_0029_0002$$$::"Yeah, yeah. Buck up, Taiga. Don't give Shirou such a hard time."::
 74::$$$message_0000_0030_0000$$$::Illya shrugs off Taiga's comment.[lr]::
 75::$$$message_0000_0030_0001$$$::Looks like Fuji-nee isn't really in a position to push back against Illya.::
-76::$$$message_0000_0031_0000$$$::"Well, I'm going ahead. Don't dawdle and wind up late for school, Shirou."[lr]::
-77::$$$message_0000_0031_0001$$$::Fuji-nee lets out an engine roar and disappears like a speeding bullet.::
+76::$$$message_0000_0031_0000$$$::"Bem, estou indo em frente. Não perca tempo e acabe atrasado para a escola, Shirou."[lr]::
+77::$$$message_0000_0031_0001$$$::Fuji-nee solta o rugido do motor e desaparece como uma bala em alta velocidade.::
 78::$$$message_0000_0032_0000$$$::She got her driver's license last month.[lr]::
-79::$$$message_0000_0032_0001$$$::Since then, she's been late for school a lot less often, but now she has a new nickname: Rocket Tiger...er, Rocket Diver. She's the only one who doesn't know about it.::
+79::$$$message_0000_0032_0001$$$::Desde então, ela chega atrasada à escola com muito menos frequência, mas agora ela tem um novo apelido: Rocket Tiger... er, Rocket Diver. Ela é a única que não sabe disso.::
 80::$$$message_0000_0033_0000$$$::"Whew."[lr]::
-81::$$$message_0000_0033_0001$$$::I stretch and take a deep breath.[lr]::
+81::$$$message_0000_0033_0001$$$::Eu me espreguiço e respiro fundo.[lr]::
 82::$$$message_0000_0033_0002$$$::Sakura already left for school.[lr]::
-83::$$$message_0000_0033_0003$$$::She ate a pretty big bowl of rice this morning, so she must be pretty driven today.[lr]::
-84::$$$message_0000_0033_0004$$$::Today is a big day for the kyudo club.[lr]::
-85::$$$message_0000_0033_0005$$$::Now that she's the vice captain, Sakura must be really determined and enthusiastic today.::
-86::$$$message_0000_0034_0000$$$::"All right. I should..."[lr]::
+83::$$$message_0000_0033_0003$$$::Ela comeu uma tigela bem grande de arroz esta manhã, então deve estar bastante motivada hoje.[lr]::
+84::$$$message_0000_0033_0004$$$::Hoje é um grande dia para o clube de kyudo.[lr]::
+85::$$$message_0000_0033_0005$$$::Agora que ela é a vice-capitã, Sakura deve estar realmente determinada e entusiasmada hoje.::
+86::$$$message_0000_0034_0000$$$::"Tudo bem. Eu deveria..."[lr]::
 87::$$$message_0000_0034_0001$$$::Go to school too.[lr]::
-88::$$$message_0000_0034_0002$$$::Today is April seventh.[lr]::
-89::$$$message_0000_0034_0003$$$::Schools are starting the new school year, and the season has gone from the cold of winter to spring.::
+88::$$$message_0000_0034_0002$$$::Hoje é sete de abril.[lr]::
+89::$$$message_0000_0034_0003$$$::As escolas estão iniciando o novo ano letivo e a estação passou do frio do inverno para a primavera.::
 90::$$$message_0000_0035_0000$$$::It's been two months.[lr]::
-91::$$$message_0000_0035_0001$$$::I feel like a lot has changed since she left, but the changes all seem minor.::
-92::$$$message_0000_0036_0000$$$::Winter is over and it's finally spring.[lr]::
-93::$$$message_0000_0036_0001$$$::That's the only thing that's changed.[lr]::
-94::$$$message_0000_0036_0002$$$::I might have grown and matured, but I'm not a different person or anything.[lr]::
-95::$$$message_0000_0036_0003$$$::So, not that much has changed.[lr]::
-96::$$$message_0000_0036_0004$$$::Shirou Emiya is still clumsily stumbling along in Kiritsugu's footsteps.::
-97::$$$message_0000_0037_0000$$$::"Morning, Emiya. Fancy running into you in the morning."[lr]::
-98::$$$message_0000_0037_0001$$$::"Hey there. Nice weather we have today, Tohsaka."[lr]::
+91::$$$message_0000_0035_0001$$$::Sinto que muita coisa mudou desde que ela saiu, mas todas as mudanças parecem pequenas.::
+92::$$$message_0000_0036_0000$$$::O inverno acabou e finalmente é primavera.[lr]::
+93::$$$message_0000_0036_0001$$$::Essa é a única coisa que mudou.[lr]::
+94::$$$message_0000_0036_0002$$$::Posso ter crescido e amadurecido, mas não sou uma pessoa diferente nem nada.[lr]::
+95::$$$message_0000_0036_0003$$$::Então, não mudou muita coisa.[lr]::
+96::$$$message_0000_0036_0004$$$::Shirou Emiya ainda segue desajeitadamente os passos de Kiritsugu.::
+97::$$$message_0000_0037_0000$$$::"Bom dia, Emiya. Gostaria de encontrar você pela manhã."[lr]::
+98::$$$message_0000_0037_0001$$$::"Olá. Bom tempo hoje, Tohsaka."[lr]::
 99::$$$message_0000_0037_0002$$$::I wave in greeting.::
-100::$$$message_0000_0038_0000$$$::"But is this really a coincidence? We run into each other almost every day.[lr]::
-101::$$$message_0000_0038_0001$$$::Well sure, we never ran into each other that often before."[lr]::
+100::$$$message_0000_0038_0000$$$::"Mas isso é realmente uma coincidência? Nos encontramos quase todos os dias.[lr]::
+101::$$$message_0000_0038_0001$$$::Bem, claro, nunca nos encontramos com tanta frequência antes."[lr]::
 102::$$$message_0000_0038_0002$$$::"Run into each other?"::
-103::$$$message_0000_0039_0000$$$::Tohsaka narrows her eyes and glares at me, unhappy about how I phrased that.[lr]::
-104::$$$message_0000_0039_0001$$$::I don't think getting angry so early in the morning is good for you.::
-105::$$$message_0000_0040_0000$$$::"Tohsaka, did you start leaving your house earlier? You always arrived later. You were never early or late to school."::
-106::$$$message_0000_0041_0000$$$::"That's not true. It was just a coincidence that we never saw each other.[lr]::
-107::$$$message_0000_0041_0001$$$::Did you know your house and mine are in opposite directions? So if we woke up at a normal time and walked down the hill at the same time, we would naturally meet up here." ::
+103::$$$message_0000_0039_0000$$$::Tohsaka estreita os olhos e olha para mim, infeliz com a forma como eu expressei isso.[lr]::
+104::$$$message_0000_0039_0001$$$::Não acho que ficar com raiva tão cedo pela manhã seja bom para você.::
+105::$$$message_0000_0040_0000$$$::"Tohsaka, você começou a sair de casa mais cedo? Você sempre chegava mais tarde. Você nunca chegava cedo ou atrasado para a escola."::
+106::$$$message_0000_0041_0000$$$::"Isso não é verdade. Foi apenas uma coincidência que nunca nos vimos.[lr]::
+107::$$$message_0000_0041_0001$$$::Você sabia que sua casa e a minha estão em direções opostas? Então, se acordássemos em um horário normal e descêssemos a colina ao mesmo tempo, naturalmente nos encontraríamos aqui."::
 108::$$$message_0000_0042_0000$$$::"Huh.[lr]::
-109::$$$message_0000_0042_0001$$$::That's news to me. Then I guess that's not so surprising[line2]"[lr]::
+109::$$$message_0000_0042_0001$$$::Isso é novidade para mim. Então acho que isso não é tão surpreendente[line2]"[lr]::
 110::$$$message_0000_0042_0002$$$::Wait a minute.[lr]::
-111::$$$message_0000_0042_0003$$$::That's only possible if our daily schedules are the same.[lr]::
-112::$$$message_0000_0042_0004$$$::For Tohsaka to reach this intersection at this hour, she'd have to wake up at six in the morning.[lr]::
-113::$$$message_0000_0042_0005$$$::But that's...::
+111::$$$message_0000_0042_0003$$$::Isso só é possível se nossas programações diárias forem iguais.[lr]::
+112::$$$message_0000_0042_0004$$$::Para Tohsaka chegar a este cruzamento a esta hora, ela teria que acordar às seis da manhã.[lr]::
+113::$$$message_0000_0042_0005$$$::Mas isso significa[line2]::
 114::$$$message_0000_0043_0000$$$::"Tohsaka. You must be exhausted."[lr]::
-115::$$$message_0000_0043_0001$$$::I just come right out and say it.::
-116::$$$message_0000_0044_0000$$$::"What are you talking about? I'm not tired, and I'm not pushing myself either.[lr]::
-117::$$$message_0000_0044_0001$$$::Why would you say that?"::
+115::$$$message_0000_0043_0001$$$::Eu simplesmente digo isso.::
+116::$$$message_0000_0044_0000$$$::"Do que você está falando? Não estou cansado e também não estou me esforçando.[lr]::
+117::$$$message_0000_0044_0001$$$::Por que você diria isso?"::
 118::$$$message_0000_0045_0000$$$::"Well, because you're not a morning person.[lr]::
 119::$$$message_0000_0045_0001$$$::If you go to school while you're half asleep, your Goody Two-shoes front might collapse. You'd be a goner if you fell asleep in class.[lr]::
-120::$$$message_0000_0045_0002$$$::If someone woke you up, you'd go berserk and they'd see your true, terrifying face."[lr]::
-121::$$$message_0000_0045_0003$$$::Like, "Who dares disturb my slumber" kind of terrifying.::
-122::$$$message_0000_0046_0000$$$::"I-I would never do something like that! I would never make a mistake like that just because I woke up thirty minutes earlier!"[lr]::
+120::$$$message_0000_0045_0002$$$::Se alguém te acordasse, você ficaria furioso e eles veriam seu rosto verdadeiro e assustador."[lr]::
+121::$$$message_0000_0045_0003$$$::Tipo, "Quem se atreve a perturbar meu sono" é meio assustador.::
+122::$$$message_0000_0046_0000$$$::"E-eu nunca faria algo assim! Eu nunca cometeria um erro como esse só porque acordei trinta minutos antes!"[lr]::
 123::$$$message_0000_0046_0001$$$::"Oh. So you did wake up earlier than usual."::
 124::$$$message_0000_0047_0000$$$::"Grrr.[lr]::
-125::$$$message_0000_0047_0001$$$::Oh, come on! It doesn't matter what time I get up! If you have time for trivial questions like that, then get to school!"[lr]::
-126::$$$message_0000_0047_0002$$$::Tohsaka huffs and looks away.[lr]::
-127::$$$message_0000_0047_0003$$$::She has a point, so I'm going to let this go and just resume our walk to school.::
-128::$$$message_0000_0048_0000$$$::We walk up the hill.[lr]::
-129::$$$message_0000_0048_0001$$$::The townscape below has bloomed into a springtime scene.[lr]::
-130::$$$message_0000_0048_0002$$$::The breeze is pleasant, and the leaves of the cherry blossom tree planted near school dance on the wind from time to time.[lr]::
+125::$$$message_0000_0047_0001$$$::Ah, vamos! Não importa a que horas eu acordo! Se você tiver tempo para perguntas triviais como essa, vá para a escola!"[lr]::
+126::$$$message_0000_0047_0002$$$::A Tohsaka desvia o olhar.[lr]::
+127::$$$message_0000_0047_0003$$$::Ela tem razão, então vou deixar isso de lado e simplesmente retomar nossa caminhada para a escola.::
+128::$$$message_0000_0048_0000$$$::Subimos o morro.[lr]::
+129::$$$message_0000_0048_0001$$$::A paisagem urbana abaixo floresceu em uma cena de primavera.[lr]::
+130::$$$message_0000_0048_0002$$$::A brisa é agradável e as folhas da cerejeira plantada perto da escola dançam com o vento de vez em quando.[lr]::
 131::$$$message_0000_0048_0003$$$::It makes me smile.::
-132::$$$message_0000_0049_0000$$$::"Hey. Are you mostly going to your job this week?[lr]::
-133::$$$message_0000_0049_0001$$$::Not that it matters to me since it's your time and all, but you're not overworking yourself, are you?"[lr]::
+132::$$$message_0000_0049_0000$$$::"Ei. Você vai trabalhar principalmente esta semana?[lr]::
+133::$$$message_0000_0049_0001$$$::Não que isso importe para mim, já que é a sua hora e tudo mais, mas você não está se esforçando demais, está?"[lr]::
 134::$$$message_0000_0049_0002$$$::"Eh? No, I got a day off today.[lr]::
-135::$$$message_0000_0049_0003$$$::I heard the kyudo club was holding a welcome party for the new members, so I figured I'd bring Illya to hang out."::
+135::$$$message_0000_0049_0003$$$::Ouvi dizer que o clube de kyudo estava realizando uma festa de boas-vindas para os novos membros, então resolvi trazer Illya para sair."::
 136::$$$message_0000_0050_0000$$$::"Whoa. You've got guts. You don't even bat an eye at bringing Illya to school... You're something else."::
-137::$$$message_0000_0051_0000$$$::"Huh? Is that bad? Illya seemed bored, so I thought this would be a good distraction."[lr]::
-138::$$$message_0000_0051_0001$$$::"It's bad. Anyway, I might swing by too. Hard to be bored with Illya around, and most of all, it's too dangerous to just ignore this."::
-139::$$$message_0000_0052_0000$$$::I'm grateful to hear her say that.[lr]::
+137::$$$message_0000_0051_0000$$$::"Huh? Isso é ruim? Illya parecia entediada, então pensei que isso seria uma boa distração."[lr]::
+138::$$$message_0000_0051_0001$$$::"É ruim. De qualquer forma, eu também posso passar por aqui. É difícil ficar entediado com Illya por perto e, acima de tudo, é muito perigoso simplesmente ignorar isso."::
+139::$$$message_0000_0052_0000$$$::Estou grato por ouvi-la dizer isso.[lr]::
 140::$$$message_0000_0052_0001$$$::Tohsaka understands Illya much better than Sakura or I do.[lr]::
-141::$$$message_0000_0052_0002$$$::It's not just that she periodically checks in on Illya's health. Tohsaka and Illya are both proper mages.[lr]::
-142::$$$message_0000_0052_0003$$$::Illya still doesn't fully understand that she needs to hide the fact that she's a mage, so Tohsaka's been a great mentor for her in that regard.::
+141::$$$message_0000_0052_0002$$$::Não é só que ela verifica periodicamente a saúde de Illya. Tohsaka e Illya são ambos magos de verdade.[lr]::
+142::$$$message_0000_0052_0003$$$::Illya ainda não entende completamente que precisa esconder o fato de que é uma maga, então Tohsaka tem sido um grande mentor para ela nesse aspecto.::
 143::$$$message_0000_0053_0000$$$::[font italic=true]...[font italic=false][lr]::
-144::$$$message_0000_0053_0001$$$::And so, things are starting to settle in their respective places.[lr]::
-145::$$$message_0000_0053_0002$$$::The new priest the Church dispatched has already repaired most of the damage from the Holy Grail War, and we've more or less gone back into our ordinary lives.[lr]::
-146::$$$message_0000_0053_0003$$$::There are things lost that we can never get back, yes.[lr]::
-147::$$$message_0000_0053_0004$$$::But the wounds are slowly healing, and I should be glad to know that some of the regrets I felt before are slowly fading.::
-148::$$$message_0000_0054_0000$$$::"But that was unexpected."[lr]::
+144::$$$message_0000_0053_0001$$$::E assim, as coisas estão começando a se acomodar em seus respectivos lugares.[lr]::
+145::$$$message_0000_0053_0002$$$::O novo padre que a Igreja enviou já reparou a maior parte dos danos da Guerra do Santo Graal e voltamos mais ou menos às nossas vidas normais.[lr]::
+146::$$$message_0000_0053_0003$$$::Há coisas perdidas que nunca poderemos recuperar, sim.[lr]::
+147::$$$message_0000_0053_0004$$$::Mas as feridas estão cicatrizando lentamente e eu ficaria feliz em saber que alguns dos arrependimentos que senti antes estão desaparecendo lentamente.::
+148::$$$message_0000_0054_0000$$$::"Mas isso foi inesperado."[lr]::
 149::$$$message_0000_0054_0001$$$::Tohsaka mutters under her breath.[lr]::
-150::$$$message_0000_0054_0002$$$::She looks down at the town, her tone serious.::
-151::$$$message_0000_0055_0000$$$::"Huh? What was unexpected?"[lr]::
+150::$$$message_0000_0054_0002$$$::Ela olha para a cidade, seu tom sério.::
+151::$$$message_0000_0055_0000$$$::"Huh? O que foi inesperado?"[lr]::
 152::$$$message_0000_0055_0001$$$::"Well, I thought you'd be depressed.[lr]::
-153::$$$message_0000_0055_0002$$$::I was worried it would take a while for you to recover from all this."::
-154::$$$message_0000_0056_0000$$$::She's talking about...the girl who's not with me now.[lr]::
-155::$$$message_0000_0056_0001$$$::It's been two months, and this is the first time we've brought up the golden-haired girl.::
-156::$$$message_0000_0057_0000$$$::"Yeah. I didn't think I'd be able to recover from it either. I was going out of my mind just thinking what might happen afterward."[lr]::
-157::$$$message_0000_0057_0001$$$::"But when it actually happened, you acted the same as always. You didn't seem depressed. You were even acting like nothing happened the next day."::
-158::$$$message_0000_0058_0000$$$::"That's when I started to get worried about whether you were really okay or not. I can't really explain it, but it felt like you were going to die in some freak accident the next day or something."::
-159::$$$message_0000_0059_0000$$$::"Freaking...[font italic=true]what[font italic=false]? How does me seeming fine end with me dead?"::
-160::$$$message_0000_0060_0000$$$::"Things like that happen. A person just accidentally achieves their lifelong goal, then keels over and dies.[lr]::
-161::$$$message_0000_0060_0001$$$::The moment they think they don't need to live anymore, a car runs them over, or they just fall down a set of stairs."::
+153::$$$message_0000_0055_0002$$$::Eu estava preocupado que demoraria um pouco para você se recuperar de tudo isso."::
+154::$$$message_0000_0056_0000$$$::Ela está falando sobre...a garota que não está comigo agora.[lr]::
+155::$$$message_0000_0056_0001$$$::Já se passaram dois meses e esta é a primeira vez que mencionamos a garota de cabelos dourados.::
+156::$$$message_0000_0057_0000$$$::"Sim. Eu também não achei que seria capaz de me recuperar disso. Eu estava enlouquecendo só de pensar no que poderia acontecer depois."[lr]::
+157::$$$message_0000_0057_0001$$$::"Mas quando isso realmente aconteceu, você agiu como sempre. Você não parecia deprimido. Você estava até agindo como se nada tivesse acontecido no dia seguinte."::
+158::$$$message_0000_0058_0000$$$::"Foi quando comecei a ficar preocupado se você estava realmente bem ou não. Não consigo explicar, mas parecia que você ia morrer em algum acidente estranho no dia seguinte ou algo assim."::
+159::$$$message_0000_0059_0000$$$::"Maldito...[font italic=true]o que[font italic=false]? Como é que o fato de eu parecer bem acabar comigo morto?"::
+160::$$$message_0000_0060_0000$$$::"Coisas assim acontecem. Uma pessoa acidentalmente atinge seu objetivo de vida, depois desmaia e morre.[lr]::
+161::$$$message_0000_0060_0001$$$::No momento em que pensam que não precisam mais viver, um carro os atropela ou eles simplesmente caem de uma escada."::
 162::$$$message_0000_0061_0000$$$::Huh.[lr]::
-163::$$$message_0000_0061_0001$$$::That's...a little hard to get my head around.[lr]::
+163::$$$message_0000_0061_0001$$$::Isso é... um pouco difícil de entender.[lr]::
 164::$$$message_0000_0061_0002$$$::I guess she's talking about dying after living a full life, or resting in peace, maybe.::
-165::$$$message_0000_0062_0000$$$::"That's why I was worried that was going to happen. You know, there are times it's more normal to get spectacularly depressed."[lr]::
-166::$$$message_0000_0062_0001$$$::"What? Would you have comforted me if I got all depressed?"::
-167::$$$message_0000_0063_0000$$$::"Of course not. I would have kicked you in the butt and made you get over it in a day. I was just disappointed I didn't get the chance."[lr]::
+165::$$$message_0000_0062_0000$$$::"É por isso que fiquei preocupado que isso pudesse acontecer. Você sabe, há momentos em que é mais normal ficar espetacularmente deprimido."[lr]::
+166::$$$message_0000_0062_0001$$$::"O quê? Você teria me confortado se eu ficasse deprimido?"::
+167::$$$message_0000_0063_0000$$$::"Claro que não. Eu teria chutado sua bunda e feito você superar isso em um dia. Fiquei desapontado por não ter tido a chance."[lr]::
 168::$$$message_0000_0063_0001$$$::She turns away, displeased.[lr]::
 169::$$$message_0000_0063_0002$$$::It's so funny, I can't help bursting into laughter.::
-170::$$$message_0000_0064_0000$$$::"What? Was that funny?"[lr]::
-171::$$$message_0000_0064_0001$$$::"No. Your tough-as-nails line was just so [font italic=true]you[font italic=false], it was a relief."::
-172::$$$message_0000_0065_0000$$$::We continue walking, enjoying the spring sunshine.[lr]::
-173::$$$message_0000_0065_0001$$$::The hilly road is long, and it looks as if it continues into the endless blue sky.[lr]::
+170::$$$message_0000_0064_0000$$$::"O quê? Isso foi engraçado?"[lr]::
+171::$$$message_0000_0064_0001$$$::"Não. Sua frase dura foi tão [font italic=true]você[font italic=false], foi um alívio."::
+172::$$$message_0000_0065_0000$$$::Continuamos caminhando aproveitando o sol da primavera.[lr]::
+173::$$$message_0000_0065_0001$$$::A estrada montanhosa é longa e parece que continua no infinito céu azul.[lr]::
 174::$$$message_0000_0065_0002$$$::Then, she brings something else up, surprisingly casually.::
-175::$$$message_0000_0066_0000$$$::"So you don't have any regrets? You know, about Saber being gone."[lr]::
-176::$$$message_0000_0066_0001$$$::Her eyes are on the sky as she speaks.::
-177::$$$message_0000_0067_0000$$$::"Yeah...I don't have any regrets... Probably."[lr]::
-178::$$$message_0000_0067_0001$$$::I'm not trying to put up a front. I even surprise myself with how at peace I sound.::
-179::$$$message_0000_0068_0000$$$::Nothing was left unsaid, so I don't regret anything.[lr]::
-180::$$$message_0000_0068_0001$$$::Everything went into the moment we said goodbye.[lr]::
-181::$$$message_0000_0068_0002$$$::What I wanted to do...[lr]::
-182::$$$message_0000_0068_0003$$$::What she dreamed...[lr]::
-183::$$$message_0000_0068_0004$$$::Maybe we were both stubborn, and maybe I really should have grabbed her hand and made her dream come true.::
-184::$$$message_0000_0069_0000$$$::But there was something we both felt was beautiful, and we both desperately tried to protect it until the very end.[lr]::
-185::$$$message_0000_0069_0001$$$::I have no regrets.[lr]::
+175::$$$message_0000_0066_0000$$$::"Então você não se arrepende? Você sabe, sobre a partida de Saber."[lr]::
+176::$$$message_0000_0066_0001$$$::Seus olhos estão voltados para o céu enquanto ela fala.::
+177::$$$message_0000_0067_0000$$$::"Sim... não me arrependo... Provavelmente."[lr]::
+178::$$$message_0000_0067_0001$$$::Não estou tentando fingir. Eu até me surpreendo com a forma como pareço em paz.::
+179::$$$message_0000_0068_0000$$$::Nada ficou por dizer, então não me arrependo de nada.[lr]::
+180::$$$message_0000_0068_0001$$$::Tudo aconteceu no momento em que nos despedimos.[lr]::
+181::$$$message_0000_0068_0002$$$::O que eu queria fazer...[lr]::
+182::$$$message_0000_0068_0003$$$::O que ela sonhou...[lr]::
+183::$$$message_0000_0068_0004$$$::Talvez nós dois fôssemos teimosos, e talvez eu realmente devesse ter agarrado a mão dela e realizado seu sonho.::
+184::$$$message_0000_0069_0000$$$::Mas havia algo que ambos considerávamos lindo e ambos tentamos desesperadamente protegê-lo até o fim.[lr]::
+185::$$$message_0000_0069_0001$$$::Não me arrependo.[lr]::
 186::$$$message_0000_0069_0002$$$::As she properly ended her time...[lr]::
 187::$$$message_0000_0069_0003$$$::I can't let myself be stuck in those memories forever.::
-188::$$$message_0000_0070_0000$$$::"Huh. So you've already settled the matter for yourself.[lr]::
-189::$$$message_0000_0070_0001$$$::So that's why you're not depressed, and you're just going to drown in your memories."::
-190::$$$message_0000_0071_0000$$$::"Yeah. But I still dream about her. I'm going to remember her for the rest of my life.[lr]::
-191::$$$message_0000_0071_0001$$$::One day, my memories of her will fade, and I'll forget her voice and her mannerisms.[lr]::
-192::$$$message_0000_0071_0002$$$::But still...I'll never forget what happened, or that I loved her." ::
+188::$$$message_0000_0070_0000$$$::"Huh. Então você já resolveu o assunto sozinho.[lr]::
+189::$$$message_0000_0070_0001$$$::Então é por isso que você não está deprimido e simplesmente vai se afogar em suas memórias."::
+190::$$$message_0000_0071_0000$$$::"Sim. Mas ainda sonho com ela. Vou me lembrar dela pelo resto da minha vida.[lr]::
+191::$$$message_0000_0071_0001$$$::Um dia, minhas memórias dela irão desaparecer e eu esquecerei sua voz e seus maneirismos.[lr]::
+192::$$$message_0000_0071_0002$$$::Mas ainda assim... nunca esquecerei o que aconteceu, ou que a amei."::
 193::$$$message_0000_0072_0000$$$::Tohsaka doesn't say a thing.[lr]::
 194::$$$message_0000_0072_0001$$$::But for some reason, she looks elated. She's practically skipping now.::
-195::$$$message_0000_0073_0000$$$::"What's going on, Tohsaka? What's the rush? Did something happen?"::
+195::$$$message_0000_0073_0000$$$::"O que está acontecendo, Tohsaka? Qual é a pressa? Aconteceu alguma coisa?"::
 196::$$$message_0000_0074_0000$$$::"Nothing. I just want to get to school quickly.[lr]::
 197::$$$message_0000_0074_0001$$$::So come on! Hurry, Shirou! I'll leave you behind if you're too slow!"[lr]::
-198::$$$message_0000_0074_0002$$$::She turns around and starts to run up the hill.::
-199::$$$message_0000_0075_0000$$$::"What the hell? Why would she push herself when she's not a morning person?"[lr]::
-200::$$$message_0000_0075_0001$$$::I grumble, then sling my bag onto my shoulder and run to catch up.[lr]::
-201::$$$message_0000_0075_0002$$$::It's only seven-thirty in the morning.[lr]::
-202::$$$message_0000_0075_0003$$$::It's too early for students who aren't involved in any club activities, but I guess there's nothing wrong with getting to school early.::
-203::$$$message_0000_0076_0000$$$::I run up the hilly road that seems to stretch into the sky, and I reach the school earlier than usual.::
-204::$$$message_0000_0077_0000$$$::Today is the first day of the school year.[lr]::
+198::$$$message_0000_0074_0002$$$::Ela se vira e começa a subir a colina correndo.::
+199::$$$message_0000_0075_0000$$$::"Que diabos? Por que ela se esforçaria se não é uma pessoa matinal?"[lr]::
+200::$$$message_0000_0075_0001$$$::Resmungo, coloco minha bolsa no ombro e corro para alcançá-la.[lr]::
+201::$$$message_0000_0075_0002$$$::São apenas sete e meia da manhã.[lr]::
+202::$$$message_0000_0075_0003$$$::É muito cedo para os alunos que não estão envolvidos em nenhuma atividade do clube, mas acho que não há nada de errado em chegar cedo à escola.::
+203::$$$message_0000_0076_0000$$$::Subo correndo a estrada montanhosa que parece se estender até o céu e chego à escola mais cedo do que de costume.::
+204::$$$message_0000_0077_0000$$$::Hoje é o primeiro dia do ano letivo.[lr]::
 205::$$$message_0000_0077_0001$$$::If I want to celebrate, I need to shake off old memories.[lr]::
-206::$$$message_0000_0077_0002$$$::Remnants of my memory will never go away.[lr]::
-207::$$$message_0000_0077_0003$$$::But I still need to go on, even if the emptiness in my heart makes me cry...::
-208::$$$message_0000_0078_0000$$$::The blue sky is off in the distance.[lr]::
+206::$$$message_0000_0077_0002$$$::Resquícios da minha memória nunca irão embora.[lr]::
+207::$$$message_0000_0077_0003$$$::Mas ainda preciso continuar, mesmo que o vazio em meu coração me faça chorar...::
+208::$$$message_0000_0078_0000$$$::O céu azul está distante.[lr]::
 209::$$$message_0000_0078_0001$$$::It feels so close...[lr]::
-210::$$$message_0000_0078_0002$$$::...but even if I reached out, I could never grasp it.::
-211::$$$message_0000_0079_0000$$$::I've looked to the stars before.[lr]::
-212::$$$message_0000_0079_0001$$$::There are unreachable stars and unfulfilled wishes.[lr]::
+210::$$$message_0000_0078_0002$$$::...mas mesmo que eu estendesse a mão, nunca conseguiria entender.::
+211::$$$message_0000_0079_0000$$$::Já olhei para as estrelas antes.[lr]::
+212::$$$message_0000_0079_0001$$$::Existem estrelas inalcançáveis ​​e desejos não realizados.[lr]::
 213::$$$message_0000_0079_0002$$$::Nothing of [font italic=true]ours[font italic=false] remains behind.[lr]::
-214::$$$message_0000_0079_0003$$$::So, someday, my memories of her, even the image of her face will disappear.[lr]::
+214::$$$message_0000_0079_0003$$$::Então, algum dia, minhas lembranças dela, até a imagem do rosto dela irão desaparecer.[lr]::
 215::$$$message_0000_0079_0004$$$::[font italic=true]...[font italic=false][lr]::
-216::$$$message_0000_0079_0005$$$::And yet...[lr]::
-217::$$$message_0000_0079_0006$$$::Even if I can't ever reach her, something will remain in our hearts.::
-218::$$$message_0000_0080_0000$$$::There may be nothing physical left, but we both shared time together and looked up at the same things.[lr]::
-219::$$$message_0000_0080_0001$$$::If I can remember that...I can believe that we're still together, even across such a great distance.[lr]::
-220::$$$message_0000_0080_0002$$$::Some things are bound to disappear, but others never will.::
+216::$$$message_0000_0079_0005$$$::Porém.[lr]::
+217::$$$message_0000_0079_0006$$$::Mesmo que eu nunca consiga alcançá-la, algo permanecerá em nossos corações.::
+218::$$$message_0000_0080_0000$$$::Pode não haver mais nada físico, mas nós dois compartilhamos um tempo juntos e olhamos para as mesmas coisas.[lr]::
+219::$$$message_0000_0080_0001$$$::Se me lembro disso... posso acreditar que ainda estamos juntos, mesmo a uma distância tão grande.[lr]::
+220::$$$message_0000_0080_0002$$$::Algumas coisas estão fadadas a desaparecer, mas outras nunca.::
 221::$$$message_0000_0081_0000$$$::So I'm going to keep running.[lr]::
-222::$$$message_0000_0081_0001$$$::If I push far enough, I might one day reach what I was aiming for.::
-223::$$$message_0000_0082_0000$$$::The new beginnings of spring...after the end of a harsh winter.[lr]::
-224::$$$message_0000_0082_0001$$$::I head up the hill under the same blue sky she looked up and saw.::
-225::$$$message_0000_0083_0000$$$::The battle is over.[lr]::
-226::$$$message_0000_0083_0001$$$::This is her final battlefield...the battle that split her country in half, and ended with the king's victory.::
+222::$$$message_0000_0081_0001$$$::Se eu for longe o suficiente, um dia poderei alcançar o que almejei.::
+223::$$$message_0000_0082_0000$$$::Os novos começos da primavera...após o fim de um inverno rigoroso.[lr]::
+224::$$$message_0000_0082_0001$$$::Subo a colina sob o mesmo céu azul que ela olhou e viu.::
+225::$$$message_0000_0083_0000$$$::A batalha acabou.[lr]::
+226::$$$message_0000_0083_0001$$$::Este é o seu último campo de batalha... a batalha que dividiu o seu país ao meio e terminou com a vitória do rei.::
 227::$$$message_0000_0084_0000$$$::"Haaah...ha...haaa...ha!"[lr]::
-228::$$$message_0000_0084_0001$$$::The knight runs to her.[lr]::
-229::$$$message_0000_0084_0002$$$::The battle is over. The bloodred sunset has faded, and now the darkness of night covers the battlefield.[lr]::
-230::$$$message_0000_0084_0003$$$::The hill is littered with corpses and curses. All that resentment tries to drag the survivors down with it.::
-231::$$$message_0000_0085_0000$$$::Through it all, the knight runs, breathless.[lr]::
-232::$$$message_0000_0085_0001$$$::He grips his horse's reins as the wounded white steed does its best to keep up.[lr]::
-233::$$$message_0000_0085_0002$$$::The knight and the white horse are the only survivors.[lr]::
-234::$$$message_0000_0085_0003$$$::Draped over the horse's back is the wounded king.::
-235::$$$message_0000_0086_0000$$$::"Your Majesty! King Arthur...this way!"[lr]::
-236::$$$message_0000_0086_0001$$$::The knight must be wounded himself, but he runs with all his might.[lr]::
-237::$$$message_0000_0086_0002$$$::The king he serves is on the verge of death.[lr]::
-238::$$$message_0000_0086_0003$$$::Even after defeating the rival king in single combat, his king sustained a fatal wound.[lr]::
-239::$$$message_0000_0086_0004$$$::The knight knows there is no hope here.[lr]::
-240::$$$message_0000_0086_0005$$$::His king will die soon.::
-241::$$$message_0000_0087_0000$$$::"Please stay with me! If we manage to reach that forest, you shall...!"[lr]::
+228::$$$message_0000_0084_0001$$$::O cavaleiro corre até ela.[lr]::
+229::$$$message_0000_0084_0002$$$::A batalha acabou. O pôr do sol vermelho-sangue desapareceu e agora a escuridão da noite cobre o campo de batalha.[lr]::
+230::$$$message_0000_0084_0003$$$::A colina está repleta de cadáveres e maldições. Todo esse ressentimento tenta arrastar consigo os sobreviventes.::
+231::$$$message_0000_0085_0000$$$::No meio de tudo isso, o cavaleiro corre, sem fôlego.[lr]::
+232::$$$message_0000_0085_0001$$$::Ele segura as rédeas do cavalo enquanto o corcel branco ferido faz o possível para acompanhá-lo.[lr]::
+233::$$$message_0000_0085_0002$$$::O cavaleiro e o cavalo branco são os únicos sobreviventes.[lr]::
+234::$$$message_0000_0085_0003$$$::Pendurado nas costas do cavalo está o rei ferido.::
+235::$$$message_0000_0086_0000$$$::"Vossa Majestade! Rei Arthur... por aqui!"[lr]::
+236::$$$message_0000_0086_0001$$$::O próprio cavaleiro deve estar ferido, mas corre com todas as suas forças.[lr]::
+237::$$$message_0000_0086_0002$$$::O rei a quem ele serve está à beira da morte.[lr]::
+238::$$$message_0000_0086_0003$$$::Mesmo depois de derrotar o rei rival em combate individual, seu rei sofreu um ferimento fatal.[lr]::
+239::$$$message_0000_0086_0004$$$::O cavaleiro sabe que não há esperança aqui.[lr]::
+240::$$$message_0000_0086_0005$$$::Seu rei morrerá em breve.::
+241::$$$message_0000_0087_0000$$$::"Por favor, fique comigo! Se conseguirmos chegar àquela floresta, você deverá...!"[lr]::
 242::$$$message_0000_0087_0001$$$::He calls desperately to his king.[lr]::
-243::$$$message_0000_0087_0002$$$::Or perhaps the knight truly believes...[lr]::
-244::$$$message_0000_0087_0003$$$::...that his king is immortal.[lr]::
-245::$$$message_0000_0087_0004$$$::So long as they have the guidance of the sacred sword, the king will never perish.::
+243::$$$message_0000_0087_0002$$$::Ou talvez o cavaleiro realmente acredite...[lr]::
+244::$$$message_0000_0087_0003$$$::...que seu rei é imortal.[lr]::
+245::$$$message_0000_0087_0004$$$::Enquanto eles tiverem a orientação da espada sagrada, o rei nunca perecerá.::
 246::$$$message_0000_0088_0000$$$::"Ha...haaa...ha...ha...ha!"[lr]::
-247::$$$message_0000_0088_0001$$$::With labored breathing, the knight crosses the mountain of corpses and heads to a forest that has not yet been stained in blood.[lr]::
+247::$$$message_0000_0088_0001$$$::Com a respiração difícil, o cavaleiro atravessa a montanha de cadáveres e segue para uma floresta que ainda não foi manchada de sangue.[lr]::
 248::$$$message_0000_0088_0002$$$::He knows of his king's immortality.[lr]::
-249::$$$message_0000_0088_0003$$$::So he believes that if he can only escape this cursed battlefield and lead the king somewhere pure, the king's wounds will be healed.::
+249::$$$message_0000_0088_0003$$$::Então ele acredita que se conseguir escapar deste campo de batalha amaldiçoado e levar o rei a algum lugar puro, as feridas do rei serão curadas.::
 250::$$$message_0000_0089_0000$$$::Or rather...he hopes.[lr]::
-251::$$$message_0000_0089_0001$$$::Unlike the other knights, he always believed in his king.[lr]::
-252::$$$message_0000_0089_0002$$$::The king had always been isolated at court, shunned by the knights, and feared by the people.[lr]::
-253::$$$message_0000_0089_0003$$$::But the knight was proud of the young king, who never revealed any personal feelings, no matter the situation, and always remained idealistic.::
-254::$$$message_0000_0090_0000$$$::The knight did not serve his country.[lr]::
-255::$$$message_0000_0090_0001$$$::And that is why he entrusted his sword to his king, strove to aid his king, and rose to the position of the king's personal guard despite his young age.[lr]::
-256::$$$message_0000_0090_0002$$$::The king whose true face can never be seen.[lr]::
-257::$$$message_0000_0090_0003$$$::The boy tried to be fair and selfless, and did not allow his personal feelings to interfere with his duties.[lr]::
-258::$$$message_0000_0090_0004$$$::Rather, he hoped that if he could someday get close enough, he could see his king's real face.::
-259::$$$message_0000_0091_0000$$$::That is his greatest desire.[lr]::
-260::$$$message_0000_0091_0001$$$::He wants so much to see his king's true face...not the stern countenance the king bore on the battlefield, but his king's true face...a smiling, laughing, [font italic=true]human[font italic=false] face.[lr]::
-261::$$$message_0000_0091_0002$$$::That moment would surely come in court, when the king is relieved of all duty.[lr]::
-262::$$$message_0000_0091_0003$$$::Even the most perfect king cannot be on edge all the time.::
-263::$$$message_0000_0092_0000$$$::The knight was proved wrong, though.[lr]::
-264::$$$message_0000_0092_0001$$$::What he learned defied his expectations.[lr]::
-265::$$$message_0000_0092_0002$$$::He reached the rank of imperial guard and stood guard at the king's side.[lr]::
-266::$$$message_0000_0092_0003$$$::He guarded the king more closely than any knight, and always observed the king's behavior.[lr]::
-267::$$$message_0000_0092_0004$$$::But the moment he wished for never came.[lr]::
+251::$$$message_0000_0089_0001$$$::Ao contrário dos outros cavaleiros, ele sempre acreditou em seu rei.[lr]::
+252::$$$message_0000_0089_0002$$$::O rei sempre foi isolado na corte, evitado pelos cavaleiros e temido pelo povo.[lr]::
+253::$$$message_0000_0089_0003$$$::Mas o cavaleiro orgulhava-se do jovem rei, que nunca revelava quaisquer sentimentos pessoais, independentemente da situação, e sempre se manteve idealista.::
+254::$$$message_0000_0090_0000$$$::O cavaleiro não serviu ao seu país.[lr]::
+255::$$$message_0000_0090_0001$$$::E é por isso que ele confiou sua espada ao seu rei, se esforçou para ajudá-lo e ascendeu à posição de guarda pessoal do rei, apesar de sua tenra idade.[lr]::
+256::$$$message_0000_0090_0002$$$::O rei cuja verdadeira face nunca pode ser vista.[lr]::
+257::$$$message_0000_0090_0003$$$::O menino tentou ser justo e altruísta e não permitiu que seus sentimentos pessoais interferissem em seus deveres.[lr]::
+258::$$$message_0000_0090_0004$$$::Em vez disso, ele esperava que, se algum dia conseguisse chegar perto o suficiente, pudesse ver o verdadeiro rosto de seu rei.::
+259::$$$message_0000_0091_0000$$$::Esse é o seu maior desejo.[lr]::
+260::$$$message_0000_0091_0001$$$::Ele deseja tanto ver a verdadeira face de seu rei... não o semblante severo que o rei exibia no campo de batalha, mas a verdadeira face de seu rei... um rosto sorridente, risonho, [font italic=true]humano[font italic=false].[lr]::
+261::$$$message_0000_0091_0002$$$::Esse momento certamente chegaria no tribunal, quando o rei fosse dispensado de todos os deveres.[lr]::
+262::$$$message_0000_0091_0003$$$::Mesmo o rei mais perfeito não pode ficar nervoso o tempo todo.::
+263::$$$message_0000_0092_0000$$$::No entanto, provou-se que o cavaleiro estava errado.[lr]::
+264::$$$message_0000_0092_0001$$$::O que ele aprendeu superou suas expectativas.[lr]::
+265::$$$message_0000_0092_0002$$$::Ele alcançou o posto de guarda imperial e ficou de guarda ao lado do rei.[lr]::
+266::$$$message_0000_0092_0003$$$::Ele protegia o rei mais de perto do que qualquer cavaleiro e sempre observava o comportamento do rei.[lr]::
+267::$$$message_0000_0092_0004$$$::Mas o momento que ele desejou nunca chegou.[lr]::
 268::$$$message_0000_0092_0005$$$::His king never smiled.::
 269::$$$message_0000_0093_0000$$$::"Ha...haaa...ha...ha...ha!"[lr]::
-270::$$$message_0000_0093_0001$$$::Why does that make him so angry?[lr]::
-271::$$$message_0000_0093_0002$$$::The king should radiate glory, having achieved such success.[lr]::
-272::$$$message_0000_0093_0003$$$::But never once did the king seem at ease, even for a moment.[lr]::
+270::$$$message_0000_0093_0001$$$::Por que isso o deixa tão irritado?[lr]::
+271::$$$message_0000_0093_0002$$$::O rei deveria irradiar glória, tendo alcançado tal sucesso.[lr]::
+272::$$$message_0000_0093_0003$$$::Mas nunca o rei pareceu à vontade, nem por um momento.[lr]::
 273::$$$message_0000_0093_0004$$$::He couldn't stand it.[lr]::
-274::$$$message_0000_0093_0005$$$::He wanted to believe this shouldn't happen.[lr]::
-275::$$$message_0000_0093_0006$$$::And so he wished for his king to be rewarded with light.::
-276::$$$message_0000_0094_0000$$$::That has yet to be accomplished.[lr]::
-277::$$$message_0000_0094_0001$$$::The king still remains solitary.[lr]::
-278::$$$message_0000_0094_0002$$$::And so the knight refuses to accept his king's death.[lr]::
-279::$$$message_0000_0094_0003$$$::It cannot end here.[lr]::
-280::$$$message_0000_0094_0004$$$::If it does, this great king will never be rewarded.::
-281::$$$message_0000_0095_0000$$$::"Your Majesty, please stay here. I will summon reinforcements right away."[lr]::
-282::$$$message_0000_0095_0001$$$::Once they reach the forest, the knight leans his king's body against a large tree.[lr]::
-283::$$$message_0000_0095_0002$$$::It is a race against time.[lr]::
-284::$$$message_0000_0095_0003$$$::Even riding hard on horseback, it will take half a day to bring back the troops they left at the harbor.[lr]::
-285::$$$message_0000_0095_0004$$$::Any who see the king now would know that the king will not last until dawn.::
-286::$$$message_0000_0096_0000$$$::"Please, hold on until then. I promise I will bring our troops back here."[lr]::
-287::$$$message_0000_0096_0001$$$::The knight bows to his half-conscious king, and returns to his white steed.[lr]::
+274::$$$message_0000_0093_0005$$$::Ele queria acreditar que isso não deveria acontecer.[lr]::
+275::$$$message_0000_0093_0006$$$::E então ele desejou que seu rei fosse recompensado com luz.::
+276::$$$message_0000_0094_0000$$$::Isso ainda não foi conseguido.[lr]::
+277::$$$message_0000_0094_0001$$$::O rei ainda permanece solitário.[lr]::
+278::$$$message_0000_0094_0002$$$::E então o cavaleiro se recusa a aceitar a morte de seu rei.[lr]::
+279::$$$message_0000_0094_0003$$$::Não pode terminar aqui.[lr]::
+280::$$$message_0000_0094_0004$$$::Se isso acontecer, este grande rei nunca será recompensado.::
+281::$$$message_0000_0095_0000$$$::"Vossa Majestade, por favor, fique aqui. Vou convocar reforços imediatamente."[lr]::
+282::$$$message_0000_0095_0001$$$::Assim que chegam à floresta, o cavaleiro encosta o corpo de seu rei em uma grande árvore.[lr]::
+283::$$$message_0000_0095_0002$$$::É uma corrida contra o tempo.[lr]::
+284::$$$message_0000_0095_0003$$$::Mesmo cavalgando forte, levará meio dia para trazer de volta as tropas que deixaram no porto.[lr]::
+285::$$$message_0000_0095_0004$$$::Qualquer um que veja o rei agora saberá que o rei não durará até o amanhecer.::
+286::$$$message_0000_0096_0000$$$::"Por favor, espere até lá. Prometo que trarei nossas tropas de volta aqui."[lr]::
+287::$$$message_0000_0096_0001$$$::O cavaleiro se curva diante de seu rei semiconsciente e retorna para seu corcel branco.[lr]::
 288::$$$message_0000_0096_0002$$$::"...Bedivere."[lr]::
 289::$$$message_0000_0096_0003$$$::Before he can leave...[lr]::
-290::$$$message_0000_0096_0004$$$::...the king he thought unconscious calls out to him.::
-291::$$$message_0000_0097_0000$$$::"Your Majesty!? Have you woken up!?"[lr]::
-292::$$$message_0000_0097_0001$$$::"Yes... I was having a dream."[lr]::
-293::$$$message_0000_0097_0002$$$::The king's voice is faint.[lr]::
-294::$$$message_0000_0097_0003$$$::But there is warmth in it.::
+290::$$$message_0000_0096_0004$$$::...o rei que ele pensava estar inconsciente o chama.::
+291::$$$message_0000_0097_0000$$$::"Vossa Majestade!? Você acordou!?"[lr]::
+292::$$$message_0000_0097_0001$$$::"Sim... eu estava tendo um sonho."[lr]::
+293::$$$message_0000_0097_0002$$$::A voz do rei está fraca.[lr]::
+294::$$$message_0000_0097_0003$$$::Mas há calor nisso.::
 295::$$$message_0000_0098_0000$$$::"A dream...sire?"[lr]::
-296::$$$message_0000_0098_0001$$$::The knight's voice is imploring.[lr]::
-297::$$$message_0000_0098_0002$$$::The king's life is balanced on the tip of a blade. The darkness will surely take his king if the knight does not respond.[lr]::
-298::$$$message_0000_0098_0003$$$::"Yes. I have not had many dreams, so it was valuable experience."[lr]::
-299::$$$message_0000_0098_0004$$$::"That is wonderful. Please, have a pleasant rest. I will call for reinforcements while you do."::
+296::$$$message_0000_0098_0001$$$::A voz do cavaleiro implora.[lr]::
+297::$$$message_0000_0098_0002$$$::A vida do rei está equilibrada na ponta de uma lâmina. A escuridão certamente levará seu rei se o cavaleiro não responder.[lr]::
+298::$$$message_0000_0098_0003$$$::"Sim. Não tive muitos sonhos, então foi uma experiência valiosa."[lr]::
+299::$$$message_0000_0098_0004$$$::"Isso é maravilhoso. Por favor, tenha um descanso agradável. Vou pedir reforços enquanto você faz isso."::
 300::$$$message_0000_0099_0000$$$::"..."[lr]::
 301::$$$message_0000_0099_0001$$$::A faint gasp.[lr]::
-302::$$$message_0000_0099_0002$$$::The knight's words must have been unexpected.::
-303::$$$message_0000_0100_0000$$$::"Your...Majesty? Have I said something to offend...?"[lr]::
-304::$$$message_0000_0100_0001$$$::"No, you only surprised me. Can you still dream after you've woken? Are you saying I will return to that same dream after I close my eyes?"[lr]::
-305::$$$message_0000_0100_0002$$$::Now it's the knight's turn to be surprised.[lr]::
-306::$$$message_0000_0100_0003$$$::For a moment, he is at a loss for words. At length, he responds, though he knows there is no truth to what he says.::
-307::$$$message_0000_0101_0000$$$::"Yes. If you truly desire it, you will indeed return to the same dream. I have experienced it myself."[lr]::
+302::$$$message_0000_0099_0002$$$::As palavras do cavaleiro devem ter sido inesperadas.::
+303::$$$message_0000_0100_0000$$$::"Vossa...Majestade? Eu disse algo que ofendeu...?"[lr]::
+304::$$$message_0000_0100_0001$$$::"Não, você só me surpreendeu. Você ainda consegue sonhar depois de acordar? Você está dizendo que voltarei ao mesmo sonho depois de fechar os olhos?"[lr]::
+305::$$$message_0000_0100_0002$$$::Agora é a vez do cavaleiro se surpreender.[lr]::
+306::$$$message_0000_0100_0003$$$::Por um momento, ele fica sem palavras. Por fim, ele responde, embora saiba que não há verdade no que diz.::
+307::$$$message_0000_0101_0000$$$::"Sim. Se você realmente deseja isso, você realmente retornará ao mesmo sonho. Eu mesmo experimentei."[lr]::
 308::$$$message_0000_0101_0001$$$::It's not possible.[lr]::
-309::$$$message_0000_0101_0002$$$::A dream is a fleeting thing...not something to return to.[lr]::
-310::$$$message_0000_0101_0003$$$::Even so, the knight lies to his king.[lr]::
-311::$$$message_0000_0101_0004$$$::It is the first and last time he will do such a thing.::
-312::$$$message_0000_0102_0000$$$::"I see. You are quite knowledgeable, Bedivere."[lr]::
-313::$$$message_0000_0102_0001$$$::The king's soft voice is admirable.[lr]::
-314::$$$message_0000_0102_0002$$$::The king's head remains tilted down, not looking up at the knight.[lr]::
-315::$$$message_0000_0102_0003$$$::The king breathes so softly that it can be barely audible.[lr]::
+309::$$$message_0000_0101_0002$$$::Um sonho é uma coisa passageira... não é algo para onde voltar.[lr]::
+310::$$$message_0000_0101_0003$$$::Mesmo assim, o cavaleiro mente para seu rei.[lr]::
+311::$$$message_0000_0101_0004$$$::É a primeira e última vez que ele fará tal coisa.::
+312::$$$message_0000_0102_0000$$$::"Entendo. Você é bastante experiente, Bedivere."[lr]::
+313::$$$message_0000_0102_0001$$$::A voz suave do rei é admirável.[lr]::
+314::$$$message_0000_0102_0002$$$::A cabeça do rei permanece inclinada para baixo, sem olhar para o cavaleiro.[lr]::
+315::$$$message_0000_0102_0003$$$::O rei respira tão suavemente que quase não se ouve.[lr]::
 316::$$$message_0000_0102_0004$$$::"Bedivere. Take my sword."[lr]::
-317::$$$message_0000_0102_0005$$$::The knight receives his king's final order.::
-318::$$$message_0000_0103_0000$$$::"Listen. Pass through the forest and travel over that bloody hill. Beyond that, you will find a lake. Throw my sword into it."[lr]::
-319::$$$message_0000_0103_0001$$$::"What!? Your Majesty...that would mean...!"[lr]::
-320::$$$message_0000_0103_0002$$$::The knight knows what that means.[lr]::
-321::$$$message_0000_0103_0003$$$::The sword in the lake.[lr]::
-322::$$$message_0000_0103_0004$$$::To relinquish the sword that had protected the king and served as proof of kingship...would mean the end of his king.::
-323::$$$message_0000_0104_0000$$$::"Go. Once you have fulfilled my order, return here and tell me what you saw."[lr]::
-324::$$$message_0000_0104_0001$$$::The king does not take back orders.[lr]::
-325::$$$message_0000_0104_0002$$$::The knight takes the sacred sword and goes over the hill...his indecision weighing heavily on him.::
-326::$$$message_0000_0105_0000$$$::And so...[lr]::
-327::$$$message_0000_0105_0001$$$::Three times, the knight hesitates to follow his king's command.[lr]::
-328::$$$message_0000_0105_0002$$$::The lake looms in front of him.[lr]::
-329::$$$message_0000_0105_0003$$$::But he cannot throw the sword away.[lr]::
-330::$$$message_0000_0105_0004$$$::Doing so means his king will disappear.[lr]::
-331::$$$message_0000_0105_0005$$$::The knight's unwillingness to part with his king stays his hand, and so he returns to his king.::
-332::$$$message_0000_0106_0000$$$::Once again, the king orders him to throw the sword into the lake.[lr]::
-333::$$$message_0000_0106_0001$$$::When the knight lies and claims he's thrown the sword into the lake as ordered, his king simply replies, "Do as I have commanded you."[lr]::
-334::$$$message_0000_0106_0002$$$::To defy the king's order is a great sin for a knight.[lr]::
-335::$$$message_0000_0106_0003$$$::But he has already done so twice.[lr]::
-336::$$$message_0000_0106_0004$$$::Each time he stands before the lake, he hesitates at the thought of losing his king.::
+317::$$$message_0000_0102_0005$$$::O cavaleiro recebe a ordem final do seu rei.::
+318::$$$message_0000_0103_0000$$$::"Ouça. Passe pela floresta e atravesse aquela maldita colina. Além disso, você encontrará um lago. Jogue minha espada nele."[lr]::
+319::$$$message_0000_0103_0001$$$::"O quê!? Sua Majestade... isso significaria...!"[lr]::
+320::$$$message_0000_0103_0002$$$::O cavaleiro sabe o que isso significa.[lr]::
+321::$$$message_0000_0103_0003$$$::A espada no lago.[lr]::
+322::$$$message_0000_0103_0004$$$::Abandonar a espada que protegeu o rei e serviu como prova de realeza... significaria o fim de seu rei.::
+323::$$$message_0000_0104_0000$$$::"Vá. Depois de atender meu pedido, volte aqui e me conte o que viu."[lr]::
+324::$$$message_0000_0104_0001$$$::O rei não retira ordens.[lr]::
+325::$$$message_0000_0104_0002$$$::O cavaleiro pega a espada sagrada e desce a colina...sua indecisão pesa sobre ele.::
+326::$$$message_0000_0105_0000$$$::Então.[lr]::
+327::$$$message_0000_0105_0001$$$::Três vezes, o cavaleiro hesita em seguir o comando de seu rei.[lr]::
+328::$$$message_0000_0105_0002$$$::O lago surge à sua frente.[lr]::
+329::$$$message_0000_0105_0003$$$::Mas ele não pode jogar a espada fora.[lr]::
+330::$$$message_0000_0105_0004$$$::Fazer isso significa que seu rei desaparecerá.[lr]::
+331::$$$message_0000_0105_0005$$$::A relutância do cavaleiro em se separar de seu rei detém sua mão e então ele retorna para seu rei.::
+332::$$$message_0000_0106_0000$$$::Mais uma vez, o rei ordena que ele jogue a espada no lago.[lr]::
+333::$$$message_0000_0106_0001$$$::Quando o cavaleiro mente e afirma que jogou a espada no lago conforme ordenado, seu rei simplesmente responde: "Faça o que ordenei."[lr]::
+334::$$$message_0000_0106_0002$$$::Desafiar a ordem do rei é um grande pecado para um cavaleiro.[lr]::
+335::$$$message_0000_0106_0003$$$::Mas ele já fez isso duas vezes.[lr]::
+336::$$$message_0000_0106_0004$$$::Cada vez que ele fica diante do lago, ele hesita com a ideia de perder seu rei.::
 337::$$$message_0000_0107_0000$$$::No more.[lr]::
-338::$$$message_0000_0107_0001$$$::When the knight realizes he cannot alter his king's decision, on his third visit, he hurls the sword into the lake.[lr]::
-339::$$$message_0000_0107_0002$$$::The sacred sword returns to the lake.[lr]::
-340::$$$message_0000_0107_0003$$$::A white hand emerges from the water and catches the blade, and the sacred sword vanishes from the world.::
+338::$$$message_0000_0107_0001$$$::Quando o cavaleiro percebe que não pode alterar a decisão do rei, em sua terceira visita, ele atira a espada no lago.[lr]::
+339::$$$message_0000_0107_0002$$$::A espada sagrada retorna ao lago.[lr]::
+340::$$$message_0000_0107_0003$$$::Uma mão branca emerge da água e pega a lâmina, e a espada sagrada desaparece do mundo.::
 341::$$$message_0000_0108_0000$$$::[font italic=true]...[font italic=false][lr]::
-342::$$$message_0000_0108_0001$$$::And the knight finally accepts it.[lr]::
-343::$$$message_0000_0108_0002$$$::The end of his king.[lr]::
-344::$$$message_0000_0108_0003$$$::The responsibilities that had so long burdened the knight finally come to an end.::
-345::$$$message_0000_0109_0000$$$::By the third time he crosses the hill, the first rays of morning light touch the forest.[lr]::
-346::$$$message_0000_0109_0001$$$::The ruins of the battlefield now distant.[lr]::
-347::$$$message_0000_0109_0002$$$::There is no trace of the bloody battle. Only a thin haze covers the hill.::
-348::$$$message_0000_0110_0000$$$::"I've thrown the sword into the lake. It is back in the hands of the Lady of the Lake."[lr]::
-349::$$$message_0000_0110_0001$$$::At the knight's words, the king's eyes open.[lr]::
-350::$$$message_0000_0110_0002$$$::"I see. Then you must stand proud. You have obeyed your king's command."::
-351::$$$message_0000_0111_0000$$$::The knight gives a silent nod to that voice, knowing the speaker is on the brink of death.[lr]::
+342::$$$message_0000_0108_0001$$$::E o cavaleiro finalmente aceita.[lr]::
+343::$$$message_0000_0108_0002$$$::O fim de seu rei.[lr]::
+344::$$$message_0000_0108_0003$$$::As responsabilidades que por tanto tempo pesaram sobre o cavaleiro finalmente chegaram ao fim.::
+345::$$$message_0000_0109_0000$$$::Na terceira vez que ele atravessa o morro, os primeiros raios de luz da manhã tocam a floresta.[lr]::
+346::$$$message_0000_0109_0001$$$::As ruínas do campo de batalha agora distantes.[lr]::
+347::$$$message_0000_0109_0002$$$::Não há vestígios da batalha sangrenta. Apenas uma névoa fina cobre a colina.::
+348::$$$message_0000_0110_0000$$$::"Joguei a espada no lago. Ela está de volta nas mãos da Senhora do Lago."[lr]::
+349::$$$message_0000_0110_0001$$$::Ao ouvir as palavras do cavaleiro, os olhos do rei se abrem.[lr]::
+350::$$$message_0000_0110_0002$$$::"Entendo. Então você deve ficar orgulhoso. Você obedeceu à ordem do seu rei."::
+351::$$$message_0000_0111_0000$$$::O cavaleiro acena silenciosamente para aquela voz, sabendo que quem fala está à beira da morte.[lr]::
 352::$$$message_0000_0111_0001$$$::It's all over.[lr]::
-353::$$$message_0000_0111_0002$$$::Turmoil will continue to grip the nation. The wars will not end. The day of ruin will come soon.[lr]::
-354::$$$message_0000_0111_0003$$$::But the king's battle is over.[lr]::
-355::$$$message_0000_0111_0004$$$::Because he...or rather, she fulfilled her role till the very end.::
-356::$$$message_0000_0112_0000$$$::The light fades.[lr]::
-357::$$$message_0000_0112_0001$$$::With everything done, the last of the strength that kept her going is spent.[lr]::
+353::$$$message_0000_0111_0002$$$::A turbulência continuará a dominar a nação. As guerras não terminarão. O dia da ruína chegará em breve.[lr]::
+354::$$$message_0000_0111_0003$$$::Mas a batalha do rei acabou.[lr]::
+355::$$$message_0000_0111_0004$$$::Porque ele... ou melhor, ela cumpriu o seu papel até ao fim.::
+356::$$$message_0000_0112_0000$$$::A luz desaparece.[lr]::
+357::$$$message_0000_0112_0001$$$::Com tudo feito, a última força que a manteve em movimento foi gasta.[lr]::
 358::$$$message_0000_0112_0002$$$::"I must apologize, Bedivere.[lr]::
-359::$$$message_0000_0112_0003$$$::This sleep will...be a...long one..."[lr]::
+359::$$$message_0000_0112_0003$$$::Este sono será... longo..."[lr]::
 360::$$$message_0000_0112_0004$$$::She closes her eyes...[lr]::
 361::$$$message_0000_0112_0005$$$::Slowly...as if going to sleep...::
-362::$$$message_0000_0113_0000$$$::The morning light spills through the treetops.[lr]::
-363::$$$message_0000_0113_0001$$$::As the king drifts to her eternal rest, a hush falls over the forest.::
+362::$$$message_0000_0113_0000$$$::A luz da manhã se espalha pelas copas das árvores.[lr]::
+363::$$$message_0000_0113_0001$$$::Enquanto o rei segue para seu descanso eterno, um silêncio cai sobre a floresta.::
 364::$$$message_0000_0114_0000$$$::[font italic=true]...[font italic=false][lr]::
-365::$$$message_0000_0114_0001$$$::The knight continues his vigil over the fallen king.[lr]::
-366::$$$message_0000_0114_0002$$$::The king he wished for.[lr]::
-367::$$$message_0000_0114_0003$$$::The solitary king, attended by only a single knight.[lr]::
-368::$$$message_0000_0114_0004$$$::And he finally sees the look he hoped for on his king's face: [lr]::
+365::$$$message_0000_0114_0001$$$::O cavaleiro continua sua vigília sobre o rei caído.[lr]::
+366::$$$message_0000_0114_0002$$$::O rei que ele desejava.[lr]::
+367::$$$message_0000_0114_0003$$$::O rei solitário, assistido por apenas um único cavaleiro.[lr]::
+368::$$$message_0000_0114_0004$$$::E ele finalmente vê a expressão que esperava no rosto de seu rei: [lr]::
 369::$$$message_0000_0114_0005$$$::A peaceful sleep.[lr]::
-370::$$$message_0000_0114_0006$$$::In her last moments, the king finally finds the peace that had so long eluded her.::
-371::$$$message_0000_0115_0000$$$::The knight is overjoyed.[lr]::
-372::$$$message_0000_0115_0001$$$::The knight thanks whoever gave his king such comfort, and watches the king with a sense of pride.::
-373::$$$message_0000_0116_0000$$$::                             The heavens are distant, and the clear sky is blue.[lr]::
-374::$$$message_0000_0116_0001$$$::                             The battle is truly over.::
-375::$$$message_0000_0117_0000$$$::"Are you watching, King Arthur?"[lr]::
-376::$$$message_0000_0117_0001$$$::His words ride the wind.[lr]::
-377::$$$message_0000_0117_0002$$$::The sleeping king appears to sink into the endless blue.[lr]::
+370::$$$message_0000_0114_0006$$$::Em seus últimos momentos, o rei finalmente encontra a paz que há tanto tempo lhe escapava.::
+371::$$$message_0000_0115_0000$$$::O cavaleiro está radiante.[lr]::
+372::$$$message_0000_0115_0001$$$::O cavaleiro agradece a quem deu tanto conforto ao seu rei e observa o rei com orgulho.::
+373::$$$message_0000_0116_0000$$$::Os céus estão distantes e o céu claro é azul.[lr]::
+374::$$$message_0000_0116_0001$$$::A batalha realmente acabou.::
+375::$$$message_0000_0117_0000$$$::"Você está assistindo, Rei Arthur?"[lr]::
+376::$$$message_0000_0117_0001$$$::Suas palavras viajam com o vento.[lr]::
+377::$$$message_0000_0117_0002$$$::O rei adormecido parece afundar no azul infinito.[lr]::
 378::$$$message_0000_0117_0003$$$::"May your dream...continue..."[lr]::
-379::$$$message_0000_0117_0004$$$::A distant dream takes her.::�>
+379::$$$message_0000_0117_0004$$$::A distant dream takes her.::�>

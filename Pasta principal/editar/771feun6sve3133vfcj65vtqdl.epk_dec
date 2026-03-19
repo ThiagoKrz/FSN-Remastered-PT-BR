@@ -1,152 +1,152 @@
 DAT
 id=qid::label=str::text=lstr::
-60361::$$$message_0549_0000_0000$$$::I arrive at my house.[lr]::
-60362::$$$message_0549_0000_0001$$$::It's well past 1:00 AM.::
-60363::$$$message_0549_0001_0000$$$::"Guoh."[lr]::
-60364::$$$message_0549_0001_0001$$$::A brief coughing fit makes me cover my mouth, and I notice a little blood on my hand.[lr]::
-60365::$$$message_0549_0001_0002$$$::It still hurts where Assassin punched me, and my back stings where it hit the wall.[lr]::
-60366::$$$message_0549_0001_0003$$$::I don't know what the internal damage is like, but my back is probably bruised.[lr]::
-60367::$$$message_0549_0001_0004$$$::Before, I would heal from light injuries right away, but now they don't heal at all.::
-60368::$$$message_0549_0002_0000$$$::"Oh, right. I'm back to normal."[lr]::
-60369::$$$message_0549_0002_0001$$$::My pact with Saber let me heal from all injuries on my own.::
-60370::$$$message_0549_0003_0000$$$::That's gone now.[lr]::
-60371::$$$message_0549_0003_0001$$$::Even a small wound could prove fatal.::
+60361::$$$message_0549_0000_0000$$$::Volto ao lar.[lr]::
+60362::$$$message_0549_0000_0001$$$::Já passaram das uma.::
+60363::$$$message_0549_0001_0000$$$::"[w l=4][line4]Guh."[lr]::
+60364::$$$message_0549_0001_0001$$$::Coloco minha mão sobre a boca enquanto tusso sangue.[lr]::
+60365::$$$message_0549_0001_0002$$$::Meu estômago ainda dói por conta do ataque de Assassin. E minhas costas ainda queimam da pancada contra a parede.[lr]::
+60366::$$$message_0549_0001_0003$$$::Não sei o quão machucado estou na barriga, mas aposto que minhas costas estão só arranhadas.[lr]::
+60367::$$$message_0549_0001_0004$$$::As feridas que eram curadas rapidamente agora não se curam mais.::
+60368::$$$message_0549_0002_0000$$$::"[w l=4][line4]É. voltei a ser como antes."[lr]::
+60369::$$$message_0549_0002_0001$$$::Quando eu tinha um contrato com a Saber, as feridas se curavam sozinhas.::
+60370::$$$message_0549_0003_0000$$$::Mas isto se foi.[lr]::
+60371::$$$message_0549_0003_0001$$$::Até um ferimento leve pode ser fatal agora.::
 60372::$$$message_0549_0004_0000$$$::"Senpai."[lr]::
-60373::$$$message_0549_0004_0001$$$::Someone calls me.[lr]::
-60374::$$$message_0549_0004_0002$$$::Sakura's standing in the hallway just past the front door.::
-60375::$$$message_0549_0005_0000$$$::"...Sakura? What's wrong? It's the middle of the night. Did I wake you up?"::
-60376::$$$message_0549_0006_0000$$$::"I'm up late because I couldn't fall sleep. I saw your shoes were gone, so I wondered if you went out."[lr]::
-60377::$$$message_0549_0006_0001$$$::"Yeah, I just went out for a walk."::
-60378::$$$message_0549_0007_0000$$$::...Oh, right. The lights were on when I got back.[lr]::
-60379::$$$message_0549_0007_0001$$$::Has she been here the whole time?::
-60380::$$$message_0549_0008_0000$$$::"Sakura, were you waiting here the whole time?"[lr]::
-60381::$$$message_0549_0008_0001$$$::"Huh? N-no, I wasn't.[lr]::
-60382::$$$message_0549_0008_0002$$$::I...just needed to use the bathroom and happened to pass by the entrance.::
-60383::$$$message_0549_0009_0000$$$::"..."[lr]::
-60384::$$$message_0549_0009_0001$$$::She was definitely waiting for me.[lr]::
-60385::$$$message_0549_0009_0002$$$::It's been just under 3 hours since Saber and I set out.[lr]::
-60386::$$$message_0549_0009_0003$$$::Maybe Sakura noticed me leaving right away and waited here the entire time.::
-60387::$$$message_0549_0010_0000$$$::"A-anyway, Senpai, would you like some tea!?[lr]::
-60388::$$$message_0549_0010_0001$$$::I know it's late, but I think you'll feel better if you can relax with some warm tea!"::
-60389::$$$message_0549_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
-60390::$$$message_0549_0011_0001$$$::My eyes widen.[lr]::
-60391::$$$message_0549_0011_0002$$$::Suddenly, Sakura is uncharacteristically forceful.[lr]::
-60392::$$$message_0549_0011_0003$$$::...I must be in pretty bad shape if she's this worried about me.::
-60393::$$$message_0549_0012_0000$$$::"Yeah, thanks. It's good to be back. Sorry for going out without telling you."[lr]::
-60394::$$$message_0549_0012_0001$$$::I take off my shoes and go inside.[lr]::
-60395::$$$message_0549_0012_0002$$$::I keep a hand on my hurting stomach and head for the living room.::
-60396::$$$message_0549_0013_0000$$$::Sakura steps in front of me.[lr]::
-60397::$$$message_0549_0013_0001$$$::"Welcome home, Senpai."[lr]::
-60398::$$$message_0549_0013_0002$$$::She replies, sounding somehow relieved.::
-60399::$$$message_0549_0014_0000$$$::"Ouch."[lr]::
-60400::$$$message_0549_0014_0001$$$::I jump up from the seat cushion my butt is on.[lr]::
-60401::$$$message_0549_0014_0002$$$::The antiseptic drenching my back burns something fierce.[lr]::
-60402::$$$message_0549_0014_0003$$$::It even makes a sizzling sound, making me feel like I'm being roasted over coals.::
-60403::$$$message_0549_0015_0000$$$::"That hurts, Sakura. I don't need the antiseptic, so just dress the wounds with gauze."::
-60404::$$$message_0549_0016_0000$$$::"I can't do that! Your back is all red, so I have to disinfect it! Of course it hurts, with injuries that bad. Just hold on a little longer."::
-60405::$$$message_0549_0017_0000$$$::"Ow!"[lr]::
-60406::$$$message_0549_0017_0001$$$::...Oof. I wonder if she's this tough on injured people thanks to the kyudo club, or Fuji-nee.::
-60407::$$$message_0549_0018_0000$$$::"Does it hurt anywhere else, Senpai?"[lr]::
-60408::$$$message_0549_0018_0001$$$::"Mmm... No, I only got hurt on my back and stomach. That's all."::
-60409::$$$message_0549_0019_0000$$$::"Okay. Then I'll just tape some gauze over it."[lr]::
-60410::$$$message_0549_0019_0001$$$::Sakura wields the first-aid kit with practiced efficiency.[lr]::
-60411::$$$message_0549_0019_0002$$$::Her face is stern as she works, and I don't feel like I can interrupt her.::
-60412::$$$message_0549_0020_0000$$$::"Whew."[lr]::
-60413::$$$message_0549_0020_0001$$$::Now, then...[lr]::
-60414::$$$message_0549_0020_0002$$$::If you're wondering how this happened, it's because I accidentally threw up the tea as soon as it hit my stomach.[lr]::
-60415::$$$message_0549_0020_0003$$$::I'd planned on hiding it, but Sakura found out.::
-60416::$$$message_0549_0021_0000$$$::Then, she pouted until I confessed that I got injured, and now she's treating my wounds.[lr]::
-60417::$$$message_0549_0021_0001$$$::Of course, she wasn't this aggressive as soon as I got home.::
-60418::$$$message_0549_0022_0000$$$::"Eh? Y-your stomach got injured!?"[lr]::
-60419::$$$message_0549_0022_0001$$$::When I showed Sakura my abdomen,[lr]::
-60420::$$$message_0549_0022_0002$$$::she blushed so furiously she couldn't even begin to render first aid.::
-60421::$$$message_0549_0023_0000$$$::"Are you sure, Sakura? I can do it myself, so you don't have to make yourself do that. Plus, my back is worse."[lr]::
-60422::$$$message_0549_0023_0001$$$::"I-it's okay! I'll do it! Please, let me!"[lr]::
-60423::$$$message_0549_0023_0002$$$::She became so flustered that I was worried she would swoon before she could even treat my back.::
-60424::$$$message_0549_0024_0000$$$::"S-S-S-Senpai, um, please take off your shirt."[lr]::
-60425::$$$message_0549_0024_0001$$$::I didn't want to stop Sakura when she's trying so hard, and I couldn't have treated my back on my own.[lr]::
-60426::$$$message_0549_0024_0002$$$::So, with all that in mind, I took off my shirt and let her work on my back.::
-60427::$$$message_0549_0025_0000$$$::My back is scratched all over, and for a while, Sakura didn't do anything.[lr]::
-60428::$$$message_0549_0025_0001$$$::After staring at each other for a few minutes, she gulped and announced that she'd start giving me first aid.::
-60429::$$$message_0549_0026_0000$$$::[font italic=true]...[font italic=false][lr]::
-60430::$$$message_0549_0026_0001$$$::That was 20 minutes ago.[lr]::
-60431::$$$message_0549_0026_0002$$$::It's now past two in the morning.[lr]::
-60432::$$$message_0549_0026_0003$$$::Sakura's diligent care is almost finished.::
-60433::$$$message_0549_0027_0000$$$::"There, I'm done. I brought you a new shirt, so go ahead and put it on."[lr]::
-60434::$$$message_0549_0027_0001$$$::"Huh? Oh, you're finished already? Thanks, Sakura."::
-60435::$$$message_0549_0028_0000$$$::"No, thank you for your patience."[lr]::
-60436::$$$message_0549_0028_0001$$$::I put on a fresh shirt and take a deep breath.[lr]::
-60437::$$$message_0549_0028_0002$$$::I can't do much about the bruise on my stomach, but my back pain feels a little better.[lr]::
-60438::$$$message_0549_0028_0003$$$::I'll sleep on my stomach tonight. Hopefully it won't hurt as much tomorrow.::
-60439::$$$message_0549_0029_0000$$$::"I'd better get to bed, then. Sorry for making you stay up so late."[lr]::
-60440::$$$message_0549_0029_0001$$$::"Huh? N-no, it wasn't any trouble, but..."[lr]::
-60441::$$$message_0549_0029_0002$$$::Sakura looks down.[lr]::
-60442::$$$message_0549_0029_0003$$$::She looks like she wants to say something, but can't.::
-60443::$$$message_0549_0030_0000$$$::"Sakura? Did something happen while I was gone?"[lr]::
-60444::$$$message_0549_0030_0001$$$::"...Um, Senpai, did Saber go home?"::
-60445::$$$message_0549_0031_0000$$$::[font italic=true]...[font italic=false][lr]::
-60446::$$$message_0549_0031_0001$$$::I go dizzy for a second.[lr]::
-60447::$$$message_0549_0031_0002$$$::"Did Saber go home?"[r][wsay canskip=1]::
-60448::$$$message_0549_0031_0003$$$::Hearing it out loud from someone else finally drives the hammer home.::
-60449::$$$message_0549_0032_0000$$$::"Yeah. Something urgent came up, so she had to leave. She won't be coming back."::
-60450::$$$message_0549_0033_0000$$$::I push through the dizziness, steady my breathing, and answer calmly.[lr]::
-60451::$$$message_0549_0033_0001$$$::Sakura has doubts, I'm sure.[lr]::
-60452::$$$message_0549_0033_0002$$$::Saber was just here four hours ago, so she must think something happened.[lr]::
-60453::$$$message_0549_0033_0003$$$::So I need to be calmer than anyone and act like everything's fine.::
-60454::$$$message_0549_0034_0000$$$::"Saber was talking about you earlier tonight. She said that you're too hard on yourself, and that you should lighten up."::
-60455::$$$message_0549_0035_0000$$$::"...She did? We just made up, so I'm sorry that we couldn't say goodbye."[lr]::
-60456::$$$message_0549_0035_0001$$$::   I can't even nod.[lr]::
-60457::$$$message_0549_0035_0002$$$::Saber disappeared before she could say farewell to anyone.::
-60458::$$$message_0549_0036_0000$$$::...It pains my heart so much I want to throw up.[lr]::
-60459::$$$message_0549_0036_0001$$$::For only six days, we worked together.[lr]::
-60460::$$$message_0549_0036_0002$$$::For only six days, we were partners.[lr]::
-60461::$$$message_0549_0036_0003$$$::For only six days...she swore to be my sword, and how did I repay her?::
-60462::$$$message_0549_0037_0000$$$::"But I'm glad to hear that. You've just been getting hurt since she arrived. Now everything can go back to normal."[lr]::
-60463::$$$message_0549_0037_0001$$$::"Huh?"::
-60464::$$$message_0549_0038_0000$$$::"Isn't that right? I won't ask what you've been up to, but you were going out at night for Saber, weren't you?[lr]::
-60465::$$$message_0549_0038_0001$$$::Now that she's gone home, you won't have to be in danger anymore."::
-60466::$$$message_0549_0039_0000$$$::"No. Saber might be gone, but I'm still going to go on my nighttime walks... Um, I wasn't going with her. I asked her to come with me."::
-60467::$$$message_0549_0040_0000$$$::I stand up.[lr]::
-60468::$$$message_0549_0040_0001$$$::I feel less tense now that the first aid is finished.[lr]::
-60469::$$$message_0549_0040_0002$$$::I suddenly feel sleepy.::
-60470::$$$message_0549_0041_0000$$$::"Eh? Sen...pai...?"[lr]::
-60471::$$$message_0549_0041_0001$$$::"Good night, Sakura.[lr]::
-60472::$$$message_0549_0041_0002$$$::About that[line2]I'm probably going to be out of the house from tomorrow, so make yourself at home like always.[lr]::
-60473::$$$message_0549_0041_0003$$$::Make sure you get enough sleep, and don't worry about me coming home late. I don't want you waiting in the entrance all night again."::
-60474::$$$message_0549_0042_0000$$$::"......Okay. Good night, Senpai."::
-60475::$$$message_0549_0043_0000$$$::I can rest my body now.[lr]::
-60476::$$$message_0549_0043_0001$$$::...I didn't notice before, but I'm seriously exhausted.[lr]::
-60477::$$$message_0549_0043_0002$$$::Just lying down on my stomach is enough to make my body and mind sleepy.::
-60478::$$$message_0549_0044_0000$$$::[font italic=true]...[font italic=false][lr]::
-60479::$$$message_0549_0044_0001$$$::Before I pass out, I stare into the dark, hardening my resolve.[lr]::
-60480::$$$message_0549_0044_0002$$$::What defeated Saber? What am I supposed to fight?[lr]::
-60481::$$$message_0549_0044_0003$$$::I need to get that through my head right now.::
-60482::$$$message_0549_0045_0000$$$::[font italic=true]...[font italic=false][lr]::
-60483::$$$message_0549_0045_0001$$$::...The memory makes my chest creak.[lr]::
-60484::$$$message_0549_0045_0002$$$::I tremble slightly, feeling a frustration that goes beyond anger or fear. I feel like my heart's going to break.::
-60485::$$$message_0549_0046_0000$$$::"Who...I have to fight."[lr]::
-60486::$$$message_0549_0046_0001$$$::That Shadow.[lr]::
-60487::$$$message_0549_0046_0002$$$::That thing out there indiscriminately attacking people.[lr]::
-60488::$$$message_0549_0046_0003$$$::The black shape that even Saber and Archer were afraid of.::
-60489::$$$message_0549_0047_0000$$$::...I didn't see it happen, but I'm pretty sure of it.[lr]::
-60490::$$$message_0549_0047_0001$$$::Saber lost to that thing.[lr]::
-60491::$$$message_0549_0047_0002$$$::Assassin couldn't have beaten her.[lr]::
-60492::$$$message_0549_0047_0003$$$::If anything back there could have defeated her, it had to have been that Shadow.::
-60493::$$$message_0549_0048_0000$$$::"..."[lr]::
-60494::$$$message_0549_0048_0001$$$::I'll defeat the thing that beat Saber.[lr]::
-60495::$$$message_0549_0048_0002$$$::It isn't my only enemy. I need to deal with Zouken and Assassin, too.[lr]::
-60496::$$$message_0549_0048_0003$$$::Zouken said that he had no more use for me since I'm no longer a Master.[lr]::
-60497::$$$message_0549_0048_0004$$$::But as long as I fight in the Holy Grail War and pursue the Shadow, Zouken is sure to appear.::
-60498::$$$message_0549_0049_0000$$$::[font italic=true]...[font italic=false][lr]::
-60499::$$$message_0549_0049_0001$$$::...My body trembles.[lr]::
-60500::$$$message_0549_0049_0002$$$::Saber isn't here anymore.[lr]::
-60501::$$$message_0549_0049_0003$$$::Without her miraculous healing, I only have my half-baked magecraft to protect me.[lr]::
-60502::$$$message_0549_0049_0004$$$::I know how foolish and suicidal that is.::
-60503::$$$message_0549_0050_0000$$$::"But I've decided to fight. I'm going to be a man who does what's right."[lr]::
-60504::$$$message_0549_0050_0001$$$::I lost Saber to do that.[lr]::
-60505::$$$message_0549_0050_0002$$$::It's why I've been following in Kiritsugu's footsteps ever since the fire.::
-60506::$$$message_0549_0051_0000$$$::The only choice I have is to stop this war, so that the tragedy can never happen again.[lr]::
-60507::$$$message_0549_0051_0001$$$::...And that's why this is the last night I'm allowed to tremble like this.[lr]::
-60508::$$$message_0549_0051_0002$$$::In the morning, once my injuries have healed...[lr]::
-60509::$$$message_0549_0051_0003$$$::I have to become a stronger version of myself that she would be proud of.::
+60373::$$$message_0549_0004_0001$$$::Então.[lr]::
+60374::$$$message_0549_0004_0002$$$::Quando chego pelo corredor, encontro a Sakura me esperando.::
+60375::$$$message_0549_0005_0000$$$::"......Sakura? Por que está de pé tão tarde? Te acordei?"::
+60376::$$$message_0549_0006_0000$$$::"Não, só não conseguia dormir. Percebi que seus sapatos não estavam aqui, então queria saber para onde você foi."[lr]::
+60377::$$$message_0549_0006_0001$$$::"Ah, só fui dar uma volta."::
+60378::$$$message_0549_0007_0000$$$::...pensando bem, a luz estava acesa quando cheguei.[lr]::
+60379::$$$message_0549_0007_0001$$$::Então a Sakura esteve me esperando este tempo todo?::
+60380::$$$message_0549_0008_0000$$$::"Sakura. Esteve me esperando este tempo todo?"[lr]::
+60381::$$$message_0549_0008_0001$$$::"Huh[w l=3][line3]? N-Não, não é verdade.[lr]::
+60382::$$$message_0549_0008_0002$$$::Levantei para ir ao banheiro, e acabei por estar aqui quando você chegou."::
+60383::$$$message_0549_0009_0000$$$::"......"[lr]::
+60384::$$$message_0549_0009_0001$$$::Ela estava me esperando.[lr]::
+60385::$$$message_0549_0009_0002$$$::Faz três horas desde que Saber e eu fomos embora.[lr]::
+60386::$$$message_0549_0009_0003$$$::Talvez ela notou imediatamente e nos esperou aqui esse tempo todo.::
+60387::$$$message_0549_0010_0000$$$::"E-Enfim, quer chá!?[lr]::
+60388::$$$message_0549_0010_0001$$$::Já está um pouco tarde, mas vai te ajudar a se animar se você tomar chá quente e relaxar!"::
+60389::$$$message_0549_0011_0000$$$::"[w l=8][line8]"[lr]::
+60390::$$$message_0549_0011_0001$$$::Estou surpreso.[lr]::
+60391::$$$message_0549_0011_0002$$$::Sakura está mesmo se forçando agora.[lr]::
+60392::$$$message_0549_0011_0003$$$::...devo parecer terrível se ela está se forçando tanto.::
+60393::$$$message_0549_0012_0000$$$::"[w l=4][line4]Sim, por favor. Cheguei. Me desculpa ter saído sem avisar."[lr]::
+60394::$$$message_0549_0012_0001$$$::Tiro os sapatos e vou para o corredor.[lr]::
+60395::$$$message_0549_0012_0002$$$::Seguro meu estômago dolorido e vou para a sala de estar.::
+60396::$$$message_0549_0013_0000$$$::Com ela em minha frente...[lr]::
+60397::$$$message_0549_0013_0001$$$::"...sim. Bem vindo, Senpai."[lr]::
+60398::$$$message_0549_0013_0002$$$::Sakura parece aliviada.::
+60399::$$$message_0549_0014_0000$$$::"Aí!"[lr]::
+60400::$$$message_0549_0014_0001$$$::Eu reclamo de dor, mas deito na almofada e aguento-o.[lr]::
+60401::$$$message_0549_0014_0002$$$::O desinfetante continua queimando minhas costas.[lr]::
+60402::$$$message_0549_0014_0003$$$::O barulho borbulante que ele faz parecer que estão queimando minhas costas.::
+60403::$$$message_0549_0015_0000$$$::"Doeu, Sakura. Acho que é desinfetante o bastante. Só limpar a ferida e colocar um curativo."::
+60404::$$$message_0549_0016_0000$$$::"Não! Precisamos desinfetá-la direito pois suas costas estão toda vermelha! E é normal que doa. Você chegou com um ferimento tão grande, então aguente."::
+60405::$$$message_0549_0017_0000$$$::"Aí!"[lr]::
+60406::$$$message_0549_0017_0001$$$::...é por conta do clube de arco ou por que a Fuji-Nee é impiedosa com os feridos?::
+60407::$$$message_0549_0018_0000$$$::"Dói em mais algum lugar, Senpai?"[lr]::
+60408::$$$message_0549_0018_0001$$$::"Mm...? Não, só machuquei o estômago e as costas. O resto está bom."::
+60409::$$$message_0549_0019_0000$$$::"Entendo. Então só resta colocar um curativo e prendê-lo."[lr]::
+60410::$$$message_0549_0019_0001$$$::A Sakura lida com kit de primeiros socorros com facilidade.[lr]::
+60411::$$$message_0549_0019_0002$$$::Ela parece tão concentrada que não quero interrompê-la.::
+60412::$$$message_0549_0020_0000$$$::"[w l=8][line8]Ufa."[lr]::
+60413::$$$message_0549_0020_0001$$$::Bem.[lr]::
+60414::$$$message_0549_0020_0002$$$::Vamos explicar por que isto está aconteceu. É porque vomitei o chá que bebi por ele ter queimado meu estômago.[lr]::
+60415::$$$message_0549_0020_0003$$$::Não queria que a Sakura descobrisse, mas isso entregou tudo.::
+60416::$$$message_0549_0021_0000$$$::Não tive escolha além de contar o quão mal eu estava, e agora ela está cuidando de mim.[lr]::
+60417::$$$message_0549_0021_0001$$$::Bem, ela não foi tão cruel assim.::
+60418::$$$message_0549_0022_0000$$$::"Eh[w l=3][line3]você machucou seu estômago...!?"[lr]::
+60419::$$$message_0549_0022_0001$$$::Quando mostrei-o para ela...[lr]::
+60420::$$$message_0549_0022_0002$$$::...ela ficou tão vermelha que não conseguiu cuidar de mim.::
+60421::$$$message_0549_0023_0000$$$::"Tudo bem com isso, Sakura? Posso cuidar de mim, então fique tranquila. Além disso, minhas costas estão piores."[lr]::
+60422::$$$message_0549_0023_0001$$$::"T-Tudo bem! Eu farei! Me deixa fazer!"[lr]::
+60423::$$$message_0549_0023_0002$$$::Ela estava tão envergonhada que eu meio que esperava que ela desmaíasse quando visse o ferimento em minhas costas.::
+60424::$$$message_0549_0024_0000$$$::"S-S-Senpai, tire sua camisa, por favor."[lr]::
+60425::$$$message_0549_0024_0001$$$::Não quis impedir a Sakura, pois não conseguiria cuidar das costas sozinho.[lr]::
+60426::$$$message_0549_0024_0002$$$::Fiz o que ela pediu e deixei ela cuidar de mim.::
+60427::$$$message_0549_0025_0000$$$::Mesmo assim, foi tão ruim que ela não conseguiu fazer nada por um tempo.[lr]::
+60428::$$$message_0549_0025_0001$$$::Ela encarou-a por uns minutos e começou a cuidar de mim depois de engolir.[lr]::
+60429::$$$message_0549_0026_0000$$$::"[w l=8][line8]"[lr]::
+60430::$$$message_0549_0026_0001$$$::Isso foi há vinte minutos.[lr]::
+60431::$$$message_0549_0026_0002$$$::Já se passaram das duas.[lr]::
+60432::$$$message_0549_0026_0003$$$::A tratamento cuidadoso da Sakura está prestes a acabar.::
+60433::$$$message_0549_0027_0000$$$::"[w l=3][line3]Okay, acabei. Aqui está uma nova camisa, então coloque-a."[lr]::
+60434::$$$message_0549_0027_0001$$$::"Huh...? Mas já? Obrigado, Sakura."::
+60435::$$$message_0549_0028_0000$$$::"De nada. Obrigado pela paciência."[lr]::
+60436::$$$message_0549_0028_0001$$$::Coloco uma nova camisa e respiro fundo.[lr]::
+60437::$$$message_0549_0028_0002$$$::...Não tenho para fazer sobre o meu estômago, mas minhas costas estão muito melhores.[lr]::
+60438::$$$message_0549_0028_0003$$$::Dormirei com a cara para baixo, e torcer para estar melhor amanhã.::
+60439::$$$message_0549_0029_0000$$$::"Bem. Vamos dormir. Me desculpa te deixar acordada até tarde."[lr]::
+60440::$$$message_0549_0029_0001$$$::"Eh[w l=3][line3]não, tudo bem, mas..."[lr]::
+60441::$$$message_0549_0029_0002$$$::Sakura abaixa a cabeça.[lr]::
+60442::$$$message_0549_0029_0003$$$::Parece que ela quer dizer algo, mas não pode.::
+60443::$$$message_0549_0030_0000$$$::"Sakura? Algo aconteceu enquanto eu estava fora?"[lr]::
+60444::$$$message_0549_0030_0001$$$::"......Um... Senpai, a Saber-san foi pra casa?"::
+60445::$$$message_0549_0031_0000$$$::"[w l=8][line8]"[lr]::
+60446::$$$message_0549_0031_0001$$$::Fico tonto por um instante.[lr]::
+60447::$$$message_0549_0031_0002$$$::'a Saber-san foi pra casa?'[r][wsay canskip=1]::
+60448::$$$message_0549_0031_0003$$$::Quando ouço essas palavras vindo de outra pessoa, a realidade do fato me acerta.::
+60449::$$$message_0549_0032_0000$$$::"[w l=4][line4]Sim. Sei que foi repentino, mas ela foi pra casa. Ela não vai mais voltar."::
+60450::$$$message_0549_0033_0000$$$::Aguento a tontura e respondo calmamente.[lr]::
+60451::$$$message_0549_0033_0001$$$::...não é como se fosse uma pergunta idiota.[lr]::
+60452::$$$message_0549_0033_0002$$$::Claro que ela pensaria que algo aconteceu se Saber, que estava aqui há quatro horas atrás, sumiu.[lr]::
+60453::$$$message_0549_0033_0003$$$::Mas tenho que colocar uma cara séria e agir como se nada tivesse acontecido.::
+60454::$$$message_0549_0034_0000$$$::"Saber estava falando sobre ti antes de ir embora. Ela disse que você deveria pegar leve porque você é do tipo que pensa demais."::
+60455::$$$message_0549_0035_0000$$$::"...entendo. Queria poder ter dado tchau pra ela, já que fizemos as pazes."[lr]::
+60456::$$$message_0549_0035_0001$$$::[w l=3][line3]Nem mesmo posso concordar com isso.[lr]::
+60457::$$$message_0549_0035_0002$$$::Saber se foi antes que eu pudesse dizer adeus.::
+60458::$$$message_0549_0036_0000$$$::...o fato deixa meu coração tão pesado que me faz querer vomitar.[lr]::
+60459::$$$message_0549_0036_0001$$$::Minha colaborada por meros seis dias.[lr]::
+60460::$$$message_0549_0036_0002$$$::Minha parceira por meros seis dias.[lr]::
+60461::$$$message_0549_0036_0003$$$::Como posso retribuir a ela[w l=3][line3]aquela quem foi minha espada por mero seis dias?::
+60462::$$$message_0549_0037_0000$$$::"Mas fico feliz. Desde que ela chegou, você se machucava toda hora. Agora tudo pode voltar ao normal."[lr]::
+60463::$$$message_0549_0037_0001$$$::"Que?"::
+60464::$$$message_0549_0038_0000$$$::"Não é verdade? Não vou perguntar o que vocês fizeram, mas você estava saindo para ajudar a Saber-san, né?[lr]::
+60465::$$$message_0549_0038_0001$$$::Agora que ela se foi, você não precisa mais correr riscos."::
+60466::$$$message_0549_0039_0000$$$::"Você está enganada. Vou continuar saindo a noite, mesmo sem a Saber. ...Um, não era eu quem estava ajudando-a, ela quem me ajudava."::
+60467::$$$message_0549_0040_0000$$$::Me levanto.[lr]::
+60468::$$$message_0549_0040_0001$$$::Minha tensão se foi agora que acabaram os cuidados.[lr]::
+60469::$$$message_0549_0040_0002$$$::Estou ficando bem cansado.::
+60470::$$$message_0549_0041_0000$$$::"Eh[w l=4][line4]Senpai?"[lr]::
+60471::$$$message_0549_0041_0001$$$::"Boa noite, Sakura.[lr]::
+60472::$$$message_0549_0041_0002$$$::E falando nisso... sairei bem mais a partir de amanhã, mas pode usar a casa como sempre usou.[lr]::
+60473::$$$message_0549_0041_0003$$$::Chegarei tarde, como hoje, mas não quero que se preocupe com isso, pode ir dormir. Por favor, não fique na porta me esperando igual hoje."::
+60474::$$$message_0549_0042_0000$$$::"............okay. Boa noite, Senpai."::
+60475::$$$message_0549_0043_0000$$$::Desncaso meu corpo.[lr]::
+60476::$$$message_0549_0043_0001$$$::...não senti até agora, mas estou exausto.[lr]::
+60477::$$$message_0549_0043_0002$$$::A sonolência me pega assim que deito.::
+60478::$$$message_0549_0044_0000$$$::"[w l=8][line8]"[lr]::
+60479::$$$message_0549_0044_0001$$$::Mas antes que eu possa dormir, encaro a escuridão para me preparar.[lr]::
+60480::$$$message_0549_0044_0002$$$::Contra o que a Saber perdeu, e com o que eu devo lutar contra...[lr]::
+60481::$$$message_0549_0044_0003$$$::Preciso aceitá-los aqui e agora.::
+60482::$$$message_0549_0045_0000$$$::"[w l=8][line8]"[lr]::
+60483::$$$message_0549_0045_0001$$$::...dói só de pensar.[lr]::
+60484::$$$message_0549_0045_0002$$$::Meu corpo está tremendo, e minha mente prestes a perder contra o medo e o ódio.::
+60485::$$$message_0549_0046_0000$$$::"[w l=4][line4]Com o que tenho que lutar contra..."[lr]::
+60486::$$$message_0549_0046_0001$$$::Aquela sombra.[lr]::
+60487::$$$message_0549_0046_0002$$$::Aquela "coisa" que ataca as pessoas sem discriminação.[lr]::
+60488::$$$message_0549_0046_0003$$$::Aquela sombra negra que até Archer e Saber temem.::
+60489::$$$message_0549_0047_0000$$$::...sei com certeza, embora não tenha visto.[lr]::
+60490::$$$message_0549_0047_0001$$$::Foi ela quem derrotou a Saber.[lr]::
+60491::$$$message_0549_0047_0002$$$::Assassin não poderia derrotá-la.[lr]::
+60492::$$$message_0549_0047_0003$$$::Então se havia algo no templo que poderia derrotá-la, é aquela sombra.::
+60493::$$$message_0549_0048_0000$$$::"[w l=7][line7]"[lr]::
+60494::$$$message_0549_0048_0001$$$::Tenho que derrotar a coisa que derrotou a Saber.[lr]::
+60495::$$$message_0549_0048_0002$$$::E ainda por cima, tenho que lidar com Matou Zouken e Assassin.[lr]::
+60496::$$$message_0549_0048_0003$$$::Zouken disse que eu não servia nenhum próposito agora que não sou mais um Mestre.[lr]::
+60497::$$$message_0549_0048_0004$$$::Mas enquanto eu estiver na Guerra do Santo Graal e buscar pela sombra, Zouken continuará me assombrando.::
+60498::$$$message_0549_0049_0000$$$::"[w l=8][line8]"[lr]::
+60499::$$$message_0549_0049_0001$$$::Um calafrio percorre meu corpo.[lr]::
+60500::$$$message_0549_0049_0002$$$::A Saber não está mais comigo.[lr]::
+60501::$$$message_0549_0049_0003$$$::Não tenho o milagre que cura minhas feridas, e a única arma que tenho é a magia de um mago meia-boca.[lr]::
+60502::$$$message_0549_0049_0004$$$::Sei que é uma escolha imprudente e suícida.::
+60503::$$$message_0549_0050_0000$$$::"[w l=4][line4]Mas decidi lutar. Disse que me tornaria um superherói."[lr]::
+60504::$$$message_0549_0050_0001$$$::Perdi a Saber por conta disso.[lr]::
+60505::$$$message_0549_0050_0002$$$::Segui os passos de Kiritsugu desde aquela fogo por conta disso.::
+60506::$$$message_0549_0051_0000$$$::Minha única opção é parar a guerra para que tal desastre não aconteça de novo.[lr]::
+60507::$$$message_0549_0051_0001$$$::...então está será a única noite que tremerei de medo.[lr]::
+60508::$$$message_0549_0051_0002$$$::Quando minha ferida melhorar e a manhar chegar...[lr]::
+60509::$$$message_0549_0051_0003$$$::Terei que agir bravamente para que a garota que desapareceu possa ter orgulho de mim.::
 

@@ -1,18 +1,18 @@
 DAT
 id=qid::label=str::text=lstr::
-73616::$$$message_0676_0000_0000$$$::[font italic=true]...[font italic=false][lr]::
-73617::$$$message_0676_0000_0001$$$::Wait.[lr]::
-73618::$$$message_0676_0000_0002$$$::They're going to take the Einzbern Grail...?[lr]::
-73619::$$$message_0676_0000_0003$$$::"...!"::
-73620::$$$message_0676_0001_0000$$$::I run.[lr]::
-73621::$$$message_0676_0001_0001$$$::I don't care about Zouken's cackling.[lr]::
-73622::$$$message_0676_0001_0002$$$::He's just watching me from a safe location, anyway.[lr]::
-73623::$$$message_0676_0001_0003$$$::No, never mind that old bastard's rambling...::
-73624::$$$message_0676_0002_0000$$$::"Hurry, Shirou Emiya![lr]::
-73625::$$$message_0676_0002_0001$$$::Sakura has already been Darkened. If she catches Illyasviel, she will devour her without mercy...!"[r][wsay canskip=1]::
-73626::$$$message_0676_0002_0002$$$::"...!"::
-73627::$$$message_0676_0003_0000$$$::I run as fast as I can. I don't care if my legs give out.[lr]::
-73628::$$$message_0676_0003_0001$$$::"Be safe, Illya!!!"[lr]::
-73629::$$$message_0676_0003_0002$$$::It takes twenty minutes to get home from the mansion at a full sprint.[lr]::
-73630::$$$message_0676_0003_0003$$$::I run back to Illya as fast as I can, glaring up at the overcast sky.::
+73616::$$$message_0676_0000_0000$$$::"[w l=8][line8]"[lr]::
+73617::$$$message_0676_0000_0001$$$::Espera.[lr]::
+73618::$$$message_0676_0000_0002$$$::Roubar o Santo Graal dos Einzbern...?[lr]::
+73619::$$$message_0676_0000_0003$$$::"[w l=4][line4]!"::
+73620::$$$message_0676_0001_0000$$$::Eu corro.[lr]::
+73621::$$$message_0676_0001_0001$$$::Eu não me importo com a risada.[lr]::
+73622::$$$message_0676_0001_0002$$$::Eu tenho certeza de que ele está me assistindo de um lugar seguro.[lr]::
+73623::$$$message_0676_0001_0003$$$::Não há tempo para ficar ouvindo as baboseiras de um velho[w l=4][line4]::
+73624::$$$message_0676_0002_0000$$$::"Isso mesmo. Se apresse, Emiya Shirou![lr]::
+73625::$$$message_0676_0002_0001$$$::Sakura já escureceu. Assim que ela capturar a Illyasviel, ela irá consumí-la sem piedade...!"[lr]::
+73626::$$$message_0676_0002_0002$$$::"[w l=4][line4]!"::
+73627::$$$message_0676_0003_0000$$$::Eu chuto o chão forte o bastante para arrancar a minha perna fora.[lr]::
+73628::$$$message_0676_0003_0001$$$::"Por favor esteja bem, Illya[w l=4][line4]!"[lr]::
+73629::$$$message_0676_0003_0002$$$::Vou levar vinte minutos para chegar em casa, mesmo se eu correr em velocidade máxima.[lr]::
+73630::$$$message_0676_0003_0003$$$::Eu olho para o céu cinza e corro freneticamente de volta a Illya.::
 

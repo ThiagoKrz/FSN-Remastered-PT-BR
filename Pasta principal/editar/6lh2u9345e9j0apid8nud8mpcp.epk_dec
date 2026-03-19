@@ -1,29 +1,30 @@
 DAT
 id=qid::label=str::text=lstr::
-61887::$$$message_0566_0000_0000$$$::   Let's patrol Miyama.[lr]::
-61888::$$$message_0566_0000_0001$$$::I do want to secure our home turf, but more importantly, Miyama doesn't have as many people as Shinto.[lr]::
-61889::$$$message_0566_0000_0002$$$::I'm worried about what might happen to the helpless residents if they run into a Servant lurking in the night. They might fall victim without anyone even knowing they're gone.::
-61890::$$$message_0566_0001_0000$$$::"We'll check out the neighborhoods tonight... This is Tohsaka's territory, so it isn't easy for other Masters to operate here, but I just want to be careful."[lr]::
-61891::$$$message_0566_0001_0001$$$::"Understood. I have already ascertained that there are no enemies nearby, so let us investigate the hills yonder."::
-61892::$$$message_0566_0002_0000$$$::By yonder, she must mean the European-style neighborhoods.[lr]::
-61893::$$$message_0566_0002_0001$$$::Saber must have taken it upon herself to check out the area around our house while I was at school yesterday.::
-61894::$$$message_0566_0003_0000$$$::"Shirou? Aren't we going out on patrol?"[lr]::
-61895::$$$message_0566_0003_0001$$$::"Y-yeah. Come with me, Saber."::
-61896::$$$message_0566_0004_0000$$$::I turn off the living room lights.[lr]::
-61897::$$$message_0566_0004_0001$$$::So as not to wake Sakura, I slip out of the house as quietly as I can.::
-61898::$$$message_0566_0005_0000$$$::...We fail to turn up anything out of the ordinary in Miyama.[lr]::
-61899::$$$message_0566_0005_0001$$$::I went to the Matou house just in case, but the grounds were quiet, and we couldn't pick up any traces of Servants or magical energy.::
-61900::$$$message_0566_0006_0000$$$::"...Nothing seems particularly amiss. It has been one day since Caster was eliminated. I suppose the other Masters must be monitoring the situation as well."[lr]::
-61901::$$$message_0566_0006_0001$$$::"...Yeah. I hope so."::
-61902::$$$message_0566_0007_0000$$$::According to Saber, most of the magical threads that Caster had spread throughout town have disappeared.[lr]::
-61903::$$$message_0566_0007_0001$$$::There isn't a Master draining magical energy from people in the city anymore.[lr]::
-61904::$$$message_0566_0007_0002$$$::So...what is this vague sense of anxiety?::
-61905::$$$message_0566_0008_0000$$$::The town is quiet.[lr]::
-61906::$$$message_0566_0008_0001$$$::Not a soul is out on the streets.[lr]::
-61907::$$$message_0566_0008_0002$$$::It was quiet yesterday night too, but the town feels so cold and devoid of life that it's like looking at a still painting.::
-61908::$$$message_0566_0009_0000$$$::"Let us return, Shirou. There is nothing of note here.[lr]::
-61909::$$$message_0566_0009_0001$$$::You seem unwell, so you should rest tonight."[lr]::
-61910::$$$message_0566_0009_0002$$$::"Ah...yeah, you're right. It's almost midnight, too. Let's head back."[lr]::
-61911::$$$message_0566_0009_0003$$$::At Saber's urging, we take the path back up the hill.::
-61912::$$$message_0566_0010_0000$$$::...It's a quiet town.[lr]::
-61913::$$$message_0566_0010_0001$$$::The dark sky smothers everything, as if the moon were frozen solid.:yg
+61887::$$$message_0566_0000_0000$$$::[w l=3][line3]Patrulharemos a cidade de Miyama.[lr]::
+61888::$$$message_0566_0000_0001$$$::É porque quero assegurar meu território, mas também, a cidade de Miyama não é tão populada como Shinto.[lr]::
+61889::$$$message_0566_0000_0002$$$::Temo que Servos terão mais liberdade de matar inocentes sem ninguém notar.::
+61890::$$$message_0566_0001_0000$$$::"Olharemos o distrito residencial por agora. ...sei que esta área é o território da Tohsaka e que outros Mestres não poderam fazer nada tão facilmente, mas queremos nos certificar."[lr]::
+61891::$$$message_0566_0001_0001$$$::"Entendido. Já verifiquei que não há inimigos por aqui, mas vamos patrulhar a colina oposta."::
+61892::$$$message_0566_0002_0000$$$::Ela deve estar se referindo ao bairro ocidental.[lr]::
+61893::$$$message_0566_0002_0001$$$::Parece que ela patrulhou a cidade enquanto eu estava na escola ontem.::
+61894::$$$message_0566_0003_0000$$$::"Shirou? Não estamos indo?"[lr]::
+61895::$$$message_0566_0003_0001$$$::"A-Ah, sim. Então me siga por favor, Saber."::
+61896::$$$message_0566_0004_0000$$$::Apago a luz da sala de estar.[lr]::
+61897::$$$message_0566_0004_0001$$$::Saimos em silêncio para não acordar a Sakura.::
+61898::$$$message_0566_0005_0000$$$::...não notamos nada de errado na cidade de Miyama.[lr]::
+61899::$$$message_0566_0005_0001$$$::Fomos a casa dos Matou, mas estava quieto, e não sentimos a presença de energia mágica nem de um Servo.::
+61900::$$$message_0566_0006_0000$$$::"...não venho nada de anormal. Faz um dia que Caster foi eliminada. Acredito que os demais Mestres estão de olho."[lr]::
+61901::$$$message_0566_0006_0001$$$::"...sim. Espero que sim."::
+61902::$$$message_0566_0007_0000$$$::De acordo com a Saber, a energia de Caster, que permeava Shinto, está sumindo.[lr]::
+61903::$$$message_0566_0007_0001$$$::Não há tantos Mestres que sugaram energia mágica de inocentes agora.::
+61904::$$$message_0566_0007_0002$$$::Mas[w l=3][line3]o que é esse desconforto vago?::
+61905::$$$message_0566_0008_0000$$$::A cidade está quieta.[lr]::
+61906::$$$message_0566_0008_0001$$$::Este lugar está deserto.[lr]::
+61907::$$$message_0566_0008_0002$$$::Parecia quieto ontem também, mas hoje está desolado, quase como se estivessemos preso em uma fotografia.::
+61908::$$$message_0566_0009_0000$$$::"Vamos voltar, Shirou. Não há nada de errado nesta área.[lr]::
+61909::$$$message_0566_0009_0001$$$::Você parece estar mal também, então vamos voltar e descansar por hoje."[lr]::
+61910::$$$message_0566_0009_0002$$$::"S-Sim, tem razão. É quase meia-noite, então vamos voltar."[lr]::
+61911::$$$message_0566_0009_0003$$$::Incitado pela Saber, subimos a colina.::
+61912::$$$message_0566_0010_0000$$$::...a cidade está quieta.[lr]::
+61913::$$$message_0566_0010_0001$$$::O céu escuro sufoca tudo, como se a lua tivesse congelado por completo.::
+g

@@ -1,43 +1,43 @@
 DAT
 id=qid::label=str::text=lstr::
-59151::$$$message_0534_0000_0000$$$::"...How about the park from yesterday? People say that criminals often return to the scene of the crime, so maybe..."::
-59152::$$$message_0534_0001_0000$$$::"The Shadow might appear once again?[lr]::
-59153::$$$message_0534_0001_0001$$$::Master. Even if we were fortunate enough to encounter it, what could we possibly do? While I would be glad to defeat it there, on the off chance that it escapes, it will become doubly hard to locate in the future. I do not believe this course of action addresses our fundamental concerns."::
-59154::$$$message_0534_0002_0000$$$::"Oof."[lr]::
-59155::$$$message_0534_0002_0001$$$::Saber's right.[lr]::
-59156::$$$message_0534_0002_0002$$$::We still have no idea what the Shadow is.[lr]::
-59157::$$$message_0534_0002_0003$$$::Right now, I should investigate what it is and where it came from, instead of hoping to run into it on the street.::
-59158::$$$message_0534_0003_0000$$$::"...Then let's go to Ryudou Temple. Now that I think back on it, Caster was acting weird back then, too. There might be something we haven't found yet over there."::
-59159::$$$message_0534_0004_0000$$$::"Yes. That mountain brims with an ominous aura. It feels like the most spiritually developed region of this town. [lr]::
-59160::$$$message_0534_0004_0001$$$::It bears investigating regardless."[lr]::
-59161::$$$message_0534_0004_0002$$$::"Sounds like a plan. Let's go."::
-59162::$$$message_0534_0005_0000$$$::We head from the yard to the front door.[lr]::
-59163::$$$message_0534_0005_0001$$$::It'll take an hour to get to Ryudou Temple if we hurry. The sooner we leave the better, but...::
+59151::$$$message_0534_0000_0000$$$::"...eu diria que é o parque de ontem. Dizem que o criminoso sempre volta a cena do crime[w l=4][line4]"::
+59152::$$$message_0534_0001_0000$$$::"Está tentando dizer que a sombra voltará lá?[lr]::
+59153::$$$message_0534_0001_0001$$$::Mestre. Mesmo se formos sortudos o bastante de encontrarmos ela lá, o que faríamos? Seria bom derrotá-la lá, mas será mais difícil encontrá-la se a deixarmos escapar. Acredito que seu plano não soluciona o problema principal."::
+59154::$$$message_0534_0002_0000$$$::"Ugh."[lr]::
+59155::$$$message_0534_0002_0001$$$::Ela tem razão.[lr]::
+59156::$$$message_0534_0002_0002$$$::Não sabemos o que a sombra é.[lr]::
+59157::$$$message_0534_0002_0003$$$::Então não devemos ir atrás dela, mas sim tentar descobrir o que ela é, e de onde vem.::
+59158::$$$message_0534_0003_0000$$$::"...melhor o Templo Ryuudou então. Noteique a Caster estava agindo estranho. Acho que há algo lá."::
+59159::$$$message_0534_0004_0000$$$::"Sim. Aquela montanha está repleta de presença sinistra. Aquele terreno é o foco espiritual desta cidade.[lr]::
+59160::$$$message_0534_0004_0001$$$::Vale a pena investigar, independentemente da presença da sombra lá."[lr]::
+59161::$$$message_0534_0004_0002$$$::"Então está decidido. Vamos."::
+59162::$$$message_0534_0005_0000$$$::Andamos até o portão.[lr]::
+59163::$$$message_0534_0005_0001$$$::Podemos chegar ao templo em uma hora, se corrermos. Não temos tempo a perder, mas[w l=4][line4]::
 59164::$$$message_0534_0006_0000$$$::"Saber?"[lr]::
-59165::$$$message_0534_0006_0001$$$::Saber is looking at the guesthouse.[lr]::
-59166::$$$message_0534_0006_0002$$$::Her gaze is focused on the room where Sakura is sleeping.::
-59167::$$$message_0534_0007_0000$$$::"...Shirou. I need to speak to you before we set out. Erm, it's regarding our conversation this morning."[lr]::
-59168::$$$message_0534_0007_0001$$$::"This morning? About Sakura?"::
-59169::$$$message_0534_0008_0000$$$::"Yes. Sakura has too guilty a conscience. She tends to fixate on immediately redressing her mistakes, instead of considering how to improve in the future."::
-59170::$$$message_0534_0009_0000$$$::She's referring to their argument last night.[lr]::
-59171::$$$message_0534_0009_0001$$$::Saber said that Sakura was correct and that she shouldn't dwell on the matter further.[lr]::
-59172::$$$message_0534_0009_0002$$$::But Sakura insisted that she was wrong and kept apologizing to Saber, which only spurred Saber to apologize back to her.::
-59173::$$$message_0534_0010_0000$$$::Sakura and Saber.[lr]::
-59174::$$$message_0534_0010_0001$$$::Is Saber worried about how they interpret things differently?::
-59175::$$$message_0534_0011_0000$$$::"What do you mean?"[lr]::
-59176::$$$message_0534_0011_0001$$$::"She blames herself too much. She cares more about regretting her actions than correcting her mistakes. So, she ends up cementing her guilt instead of attempting to restore her honor. For better or worse, she is too severe on herself."::
-59177::$$$message_0534_0012_0000$$$::Saber looks pained.[lr]::
-59178::$$$message_0534_0012_0001$$$::It's as if the words aren't directed at Sakura, but at herself.::
-59179::$$$message_0534_0013_0000$$$::"...I felt it keenly last night. When she is with you, she is special in a way that she isn't at other times. Only when she is with you does she seem free of her guilt."::
-59180::$$$message_0534_0014_0000$$$::So that's why Saber's worried.[lr]::
-59181::$$$message_0534_0014_0001$$$::She thinks that Sakura needs to have more pride in herself.::
-59182::$$$message_0534_0015_0000$$$::"...I see. Sakura is pretty timid. I'll look out for her, too."[lr]::
-59183::$$$message_0534_0015_0001$$$::Come to think of it, it isn't good to make a girl her age constantly do house chores.[lr]::
-59184::$$$message_0534_0015_0002$$$::Sakura says that she enjoys just being here, but she should have fun outside the house, too.::
-59185::$$$message_0534_0016_0000$$$::"Thanks for caring, Saber.[lr]::
-59186::$$$message_0534_0016_0001$$$::I'm really happy to see you think of Sakura, even when she isn't related to the Holy Grail War."::
-59187::$$$message_0534_0017_0000$$$::"...Think nothing of it. I can be hard on myself, just as she is. That is why I cannot help but relate to how she feels."::
-59188::$$$message_0534_0018_0000$$$::"Ah. Wait, Saber. I'll go with you."[lr]::
-59189::$$$message_0534_0018_0001$$$::We head for the door together.[lr]::
-59190::$$$message_0534_0018_0002$$$::In the night ruled by silence, we leave the house, taking care not to wake Sakura.::
+59165::$$$message_0534_0006_0001$$$::A Saber está olhando para o edifício anexo.[lr]::
+59166::$$$message_0534_0006_0002$$$::Ela está olhando para o quarto da Sakura, onde ela deve estar dormindo agora.::
+59167::$$$message_0534_0007_0000$$$::"...Shirou. Tenho algo para discutir com você. É sobre a conversa de hoje de manhã."[lr]::
+59168::$$$message_0534_0007_0001$$$::"...? Sobre a Sakura?"::
+59169::$$$message_0534_0008_0000$$$::"Sim. A consciência culpada da Sakura é pesada depois. Ela tem o hábito de tentar reparar seus pecados no presente ao invés do futuro."::
+59170::$$$message_0534_0009_0000$$$::...ela deve estar falando da briga de ontem.[lr]::
+59171::$$$message_0534_0009_0001$$$::Saber disse que a Sakura tinha razão, então a Sakura não deveria se preocupar.[lr]::
+59172::$$$message_0534_0009_0002$$$::Mas a Sakura disse que ela ainda tinha culpa, e então pediu desculpa à Saber, e fez a Saber se desculpar com ela.::
+59173::$$$message_0534_0010_0000$$$::Sakura e Saber.[lr]::
+59174::$$$message_0534_0010_0001$$$::Saber deve estar preocupada com as diferenças em seus processos de pensamento.::
+59175::$$$message_0534_0011_0000$$$::"...como assim?"[lr]::
+59176::$$$message_0534_0011_0001$$$::"...a Sakura coloca culpa demais em si. Ela se pune por seus erros ao invés de corrigí-los. Ela se marca com sua desonra, ao invés de trabalhar em recuperar sua honra. Ela se sobrecarrega de um jeito bom e ruim."::
+59177::$$$message_0534_0012_0000$$$::...ela diz com desgosto.[lr]::
+59178::$$$message_0534_0012_0001$$$::Parece que ela está falando mais de si do que da Sakura.::
+59179::$$$message_0534_0013_0000$$$::"...ficou claro para mim noite passada. Ela é especial quando está contigo, mas acredito que ela age diferente em outros contextos. A Sakura só se liberta da culpa enquanto está contigo."::
+59180::$$$message_0534_0014_0000$$$::Essa é a fonte de sua preocupação.[lr]::
+59181::$$$message_0534_0014_0001$$$::A Sakura deveria conseguir viver orgulhosa sem precisar de outra pessoa.::
+59182::$$$message_0534_0015_0000$$$::"...entendo. A Sakura é mesmo muito tímida. Terei cuidado."[lr]::
+59183::$$$message_0534_0015_0001$$$::Agora que a Saber diz, não é bom para uma garota da idade dela ficar sempre ocupada com afazeres de casa.[lr]::
+59184::$$$message_0534_0015_0002$$$::Ela diz que é divertido ficar aqui, mas ela deveria sair um pouco mais de vez em quando.::
+59185::$$$message_0534_0016_0000$$$::"...obrigado por se preocupar com a Sakura, Saber.[lr]::
+59186::$$$message_0534_0016_0001$$$::Fico feliz que você esteja preocupado com ela mesmo que não tenha a ver com a Guerra do Santo Graal."::
+59187::$$$message_0534_0017_0000$$$::"...não. Também carrego culpa, então não me parecia algo a se ignorar."::
+59188::$$$message_0534_0018_0000$$$::"Ah[w l=3][line3]espera, Saber. Vamos juntos."[lr]::
+59189::$$$message_0534_0018_0001$$$::Vamos até o portão juntos.[lr]::
+59190::$$$message_0534_0018_0002$$$::Saímos para fora em silêncio, tentando não acordar a Sakura.::
 

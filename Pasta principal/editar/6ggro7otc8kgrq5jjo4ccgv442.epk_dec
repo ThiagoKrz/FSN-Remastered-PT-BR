@@ -1,43 +1,43 @@
 DAT
 id=qid::label=str::text=lstr::
-74622::$$$message_0683_0000_0000$$$::"...Phew."[lr]::
-74623::$$$message_0683_0000_0001$$$::I set down my empty bowl with a [font italic=true]clink[font italic=false].[lr]::
-74624::$$$message_0683_0000_0002$$$::But all of the side dishes on the table are still untouched.[lr]::
-74625::$$$message_0683_0000_0003$$$::It took all my effort just to focus on my soup and rice, so I didn't even notice the other food.::
-74626::$$$message_0683_0001_0000$$$::Sorry, Sakura. But I'm at my wits' end.[lr]::
-74627::$$$message_0683_0001_0001$$$::I need some time away in my room to cool my head.::
-74628::$$$message_0683_0002_0000$$$::"...Um, Senpai? Is breakfast not to your liking?"[lr]::
-74629::$$$message_0683_0002_0001$$$::"...Oof."[lr]::
-74630::$$$message_0683_0002_0002$$$::The tactical retreat ends in failure.[lr]::
-74631::$$$message_0683_0002_0003$$$::My escape route was cut off before I knew it.::
-74632::$$$message_0683_0003_0000$$$::"..."[lr]::
-74633::$$$message_0683_0003_0001$$$::I silently hold out my rice bowl.::
-74634::$$$message_0683_0004_0000$$$::"Oh, you want seconds! I made a lot, so be sure to eat it all!"[lr]::
-74635::$$$message_0683_0004_0001$$$::Sakura returns my bowl with an extra-large helping of rice, and breakfast resumes.::
-74636::$$$message_0683_0005_0000$$$::"..."[lr]::
-74637::$$$message_0683_0005_0001$$$::...Oh, well. I'll just have to deal with this.[lr]::
-74638::$$$message_0683_0005_0002$$$::I'm already the only one blushing, so I can't let every single thing Sakura does throw me for a loop.::
-74639::$$$message_0683_0006_0000$$$::Still, though...[lr]::
-74640::$$$message_0683_0006_0001$$$::"Wait, Sakura. Don't we have a problem here?"::
-74641::$$$message_0683_0007_0000$$$::"Hm? What problem, Senpai?"[lr]::
-74642::$$$message_0683_0007_0001$$$::She looks at me in puzzlement.[lr]::
-74643::$$$message_0683_0007_0002$$$::In other words,[lr]::
-74644::$$$message_0683_0007_0003$$$::Sakura doesn't see a problem with Rider sitting silently next to us.::
-74645::$$$message_0683_0008_0000$$$::"I mean..."[lr]::
-74646::$$$message_0683_0008_0001$$$::I glance at Rider.[lr]::
-74647::$$$message_0683_0008_0002$$$::She seems to notice the imbalance I'm getting at.[lr]::
-74648::$$$message_0683_0008_0003$$$::"There's no need to concern yourself with me. Continue your meal."[lr]::
-74649::$$$message_0683_0008_0004$$$::She urges, just as gracefully as Sakura.::
-74650::$$$message_0683_0009_0000$$$::"Huh? Are you worried about her?"[lr]::
-74651::$$$message_0683_0009_0001$$$::"It appears so. It's true we have come into conflict several times.[lr]::
-74652::$$$message_0683_0009_0002$$$::He must be uncomfortable sharing a table with an enemy."::
-74653::$$$message_0683_0010_0000$$$::"That's not true. Senpai doesn't hold it against you, Rider."[lr]::
-74654::$$$message_0683_0010_0001$$$::[font italic=true]...[font italic=false][lr]::
-74655::$$$message_0683_0010_0002$$$::...Well, this is a pickle.[lr]::
-74656::$$$message_0683_0010_0003$$$::I don't resent Rider, but she's on the A-list of people I'm bad at dealing with.::
-74657::$$$message_0683_0011_0000$$$::"...Perhaps.[lr]::
-74658::$$$message_0683_0011_0001$$$::It seems he's having trouble eating because I am here. I can take my leave if I am being a nuisance."[lr]::
-74659::$$$message_0683_0011_0002$$$::"I'm telling you, it isn't like that. You don't mind if Rider joins us, do you, Senpai?"::
-74660::$$$message_0683_0012_0000$$$::"..."[lr]::
-74661::$$$message_0683_0012_0001$$$::I'm in a tough spot.[lr]::
-74662::$$$message_0683_0012_0002$$$::But, I'll say...[lr]::�
+74622::$$$message_0683_0000_0000$$$::"[w l=4][line4]Ufa."[lr]::
+74623::$$$message_0683_0000_0001$$$::Eu coloco a tigela vazia na mesa.[lr]::
+74624::$$$message_0683_0000_0002$$$::Mas ainda nem toquei nos acompanhamentos.[lr]::
+74625::$$$message_0683_0000_0003$$$::Eu só consegui comer o arroz e a sopa de missô. Eu nem quero pensar em comer mais alguma coisa.::
+74626::$$$message_0683_0001_0000$$$::Mas não há o que fazer. Me perdoe, Sakura.[lr]::
+74627::$$$message_0683_0001_0001$$$::Eu quero sair daqui para ter uma chance de conseguir me acalmar.::
+74628::$$$message_0683_0002_0000$$$::"...Senpai. Uh, você não gostou do café da manhã de hoje?"[lr]::
+74629::$$$message_0683_0002_0001$$$::"[w l=7][line7]Ugh."[lr]::
+74630::$$$message_0683_0002_0002$$$::A retirada estratégica falhou.[lr]::
+74631::$$$message_0683_0002_0003$$$::Parece que fui o único que não percebeu que não há saída.::
+74632::$$$message_0683_0003_0000$$$::"......"[lr]::
+74633::$$$message_0683_0003_0001$$$::Eu dou a tigela para ela em silêncio.::
+74634::$$$message_0683_0004_0000$$$::"Ah, quer repetir!? Eu fiz bastante, então coma por favor."[lr]::
+74635::$$$message_0683_0004_0001$$$::...Eu pego a tigela cheia e continuo a tomar o café da manhã.::
+74636::$$$message_0683_0005_0000$$$::"[w l=6][line6]"[lr]::
+74637::$$$message_0683_0005_0001$$$::...Acho que não tenho escolha. Eu tenho que me preparar.[lr]::
+74638::$$$message_0683_0005_0002$$$::Eu vou ter que lidar com o fato de que estou corando, e não vou mais inventar desculpas por ficar olhando todos os gestos que a Sakura fizer.::
+74639::$$$message_0683_0006_0000$$$::Mas ainda assim...[lr]::
+74640::$$$message_0683_0006_0001$$$::"[w l=3][line3]Sakura. Ela não é um problema?"::
+74641::$$$message_0683_0007_0000$$$::"...? O que quer dizer com isso, Senpai?"[lr]::
+74642::$$$message_0683_0007_0001$$$::Ela olha surpresa para mim.[lr]::
+74643::$$$message_0683_0007_0002$$$::Em outras palavras...[lr]::
+74644::$$$message_0683_0007_0003$$$::Parece que a presença da Rider sentada ao lado dela em silêncio não a incomoda.::
+74645::$$$message_0683_0008_0000$$$::"Bem, quero dizer..."[lr]::
+74646::$$$message_0683_0008_0001$$$::Eu olho para a Rider.[lr]::
+74647::$$$message_0683_0008_0002$$$::Ela deve ter percebido que está chamando a atenção.[lr]::
+74648::$$$message_0683_0008_0003$$$::"Você não precisa se preocupar comigo. Por favor, vá em frente e coma."[lr]::
+74649::$$$message_0683_0008_0004$$$::Ela é tão elegante quanto a Sakura.::
+74650::$$$message_0683_0009_0000$$$::"Huh? Você estava se sentindo desconfortável por causa dela, Senpai?"[lr]::
+74651::$$$message_0683_0009_0001$$$::"Parece que sim. Nós já lutamos várias vezes, afinal de contas.[lr]::
+74652::$$$message_0683_0009_0002$$$::Creio que seja desconfortável ter o seu inimigo sentado na mesma mesa junto com você."::
+74653::$$$message_0683_0010_0000$$$::"Isso não é verdade. O Senpai não guardou nenhum ressentimento contra você."[lr]::
+74654::$$$message_0683_0010_0001$$$::"[w l=8][line8]"[lr]::
+74655::$$$message_0683_0010_0002$$$::...Isso é problemático.[lr]::
+74656::$$$message_0683_0010_0003$$$::Eu não guardo nenhum ressentimento, mas ela tem um rank de A+ no atributo "pessoas que não consigo me dar bem".::
+74657::$$$message_0683_0011_0000$$$::"...O que eu devo fazer?[lr]::
+74658::$$$message_0683_0011_0001$$$::Parece que ele não está comendo tanto por minha causa. Eu posso sair da sala caso eu esteja atrapalhando."[lr]::
+74659::$$$message_0683_0011_0002$$$::"Estou dizendo que isso não é verdade! Você não liga se a Rider ficar aqui, não é, Senpai?"::
+74660::$$$message_0683_0012_0000$$$::"......"[lr]::
+74661::$$$message_0683_0012_0001$$$::Estou encurralado.[lr]::
+74662::$$$message_0683_0012_0002$$$::Estou encurralado, então vou dizer que[w l=4][line4][lr]::

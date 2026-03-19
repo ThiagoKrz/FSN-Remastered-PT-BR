@@ -1,164 +1,164 @@
 DAT
 id=qid::label=str::text=lstr::
-48611::$$$message_0422_0000_0000$$$::   The summit is close.[lr]::
-48612::$$$message_0422_0000_0001$$$::We'll arrive at the back of the temple grounds once we climb this hill.[lr]::
-48613::$$$message_0422_0000_0002$$$::There should be a large pond there, untouched by humans.::
-48614::$$$message_0422_0001_0000$$$::"I see it! We're almost there!"[lr]::
-48615::$$$message_0422_0001_0001$$$::Tohsaka climbs the slope, pushing the branches aside.[lr]::
-48616::$$$message_0422_0001_0002$$$::I watch her back, keeping an eye on our surroundings.[lr]::
-48617::$$$message_0422_0001_0003$$$::And then...[lr]::
-48618::$$$message_0422_0001_0004$$$::Just as the slope levels out onto flat ground, we come face to face with it.::
-48619::$$$message_0422_0002_0000$$$::"What.........is that?"[lr]::
-48620::$$$message_0422_0002_0001$$$::It's a squirming hunk of flesh.[lr]::
-48621::$$$message_0422_0002_0002$$$::The thing enshrined in the center of the pond seems to writhe and beg for help as it spews rotting, black liquid around it.::
-48622::$$$message_0422_0002_0003$$$::How big is that thing?[lr]::
-48623::$$$message_0422_0002_0004$$$::The flesh hunk is slowly getting bigger. It looks like a floating island.[lr]::
-48624::$$$message_0422_0002_0005$$$::The pond water looks muddy and sticky, as if there's an oil spill.::
-48625::$$$message_0422_0002_0006$$$::"No way. That's the Holy Grail?"[lr]::
-48626::$$$message_0422_0002_0007$$$::I avert my gaze, feeling uncomfortable.[lr]::
-48627::$$$message_0422_0002_0008$$$::We had been breathing in that thing's exhaust as we went through the forest.[lr]::
-48628::$$$message_0422_0002_0009$$$::It endlessly spews out magical energy, polluting the pond.[lr]::
-48629::$$$message_0422_0002_0010$$$::Its blood isn't colorless magical energy at all.[lr]::
-48630::$$$message_0422_0002_0011$$$::That dark stuff is a visible curse.::
-48631::$$$message_0422_0003_0000$$$::"Kurgh, ngh."[lr]::
-48632::$$$message_0422_0003_0001$$$::Even looking at the black mud gives me chills.[lr]::
-48633::$$$message_0422_0003_0002$$$::The curse breaches my retinas.[lr]::
-48634::$$$message_0422_0003_0003$$$::It hammers a single, cold command into my brain.::
-48635::$$$message_0422_0004_0000$$$::"No one said anything about this. How are we supposed to..."[lr]::
-48636::$$$message_0422_0004_0001$$$::...stop it?[lr]::
-48637::$$$message_0422_0004_0002$$$::The flesh hunk is about thirty meters away.[lr]::
-48638::$$$message_0422_0004_0003$$$::The pond is shallow, so walking through the water shouldn't pose a problem.[lr]::
-48639::$$$message_0422_0004_0004$$$::But pushing our way through the black mud would be suicide.::
-48640::$$$message_0422_0005_0000$$$::It's a curse that erodes the mind just by looking at it.[lr]::
-48641::$$$message_0422_0005_0001$$$::If we go into it, we'll be weakened and drown before we even walk a meter.::
-48642::$$$message_0422_0006_0000$$$::"...That thing's about to explode.[lr]::
-48643::$$$message_0422_0006_0001$$$::I don't know if it always looked like that, but it's way too small to be a host. Whatever's inside is about to break the vessel and come pouring out."::
-48644::$$$message_0422_0007_0000$$$::"It'll break the vessel? Then..."[lr]::
-48645::$$$message_0422_0007_0001$$$::"If Shinji's the Holy Grail, then it'll destroy him. See up there? There's a humanoid shape at the back of the mountain. You should be able to make it out."::
+48611::$$$message_0422_0000_0000$$$::[line3]O topo da montanha está próximo.[lr]::
+48612::$$$message_0422_0000_0001$$$::Nós vamos chegar nos fundos do templo assim que a gente subir essa montanha.[lr]::
+48613::$$$message_0422_0000_0002$$$::Eu acho que tem um grande lago lá.::
+48614::$$$message_0422_0001_0000$$$::"Eu enxergo daqui. A gente tá quase lá...!"[lr]::
+48615::$$$message_0422_0001_0001$$$::A Tohsaka força o caminho dela pelos galhos e corre até o morro.[lr]::
+48616::$$$message_0422_0001_0002$$$::Eu continuo observando nossos arredores enquanto eu sigo a Tohsaka.[lr]::
+48617::$$$message_0422_0001_0003$$$::E então...[lr]::
+48618::$$$message_0422_0001_0004$$$::"isso" nos cumprimenta no instante que a gente chega da montanha até o nível térreo.::
+48619::$$$message_0422_0002_0000$$$::"[line11]O que... é isso?"[lr]::
+48620::$$$message_0422_0002_0001$$$::Um amontoado de carne está se contorcendo.[lr]::
+48621::$$$message_0422_0002_0002$$$::A coisa no meio do lago cospe sangue preto e treme como se pedindo por ajuda.::
+48622::$$$message_0422_0002_0003$$$::Quão grande é aquela coisa?[lr]::
+48623::$$$message_0422_0002_0004$$$::Já tão grande quanto uma ilha, a pilha de carne está lentamente se expandindo.[lr]::
+48624::$$$message_0422_0002_0005$$$::A limpa água agora está suja e pegajosa como alcatrão de carvão.::
+48625::$$$message_0422_0002_0006$$$::"Sem chance[line4]isso é o santo graal?"[lr]::
+48626::$$$message_0422_0002_0007$$$::Eu evito olhar, incapaz de observar isso diretamente.[lr]::
+48627::$$$message_0422_0002_0008$$$::O ar na montanha é a respiração dessa coisa.[lr]::
+48628::$$$message_0422_0002_0009$$$::A energia mágica que fluí infinitamente está fazendo aquele amontoado de carne explodir, e o sangue negro está poluíndo o lago.[lr]::
+48629::$$$message_0422_0002_0010$$$::O sangue não é só uma energia sem cor.[lr]::
+48630::$$$message_0422_0002_0011$$$::A coisa negra é uma maldição visível.::
+48631::$$$message_0422_0003_0000$$$::"Kuh[line4]!"[lr]::
+48632::$$$message_0422_0003_0001$$$::Só de olhar para a lama preta eu sinto calafrios.[lr]::
+48633::$$$message_0422_0003_0002$$$::A maldição escoa profundamente no meu cérebro pelos meus olhos, me mandando...[lr]::
+48634::$$$message_0422_0003_0003$$$::E isso é tudo.::
+48635::$$$message_0422_0004_0000$$$::"[line4]Que diabos... Como que nós[line3]"[lr]::
+48636::$$$message_0422_0004_0001$$$::Paramos algo assim?[lr]::
+48637::$$$message_0422_0004_0002$$$::A distância é de aproximadamente trinta metros.[lr]::
+48638::$$$message_0422_0004_0003$$$::Mas o lago é raso, e seria muito mais fácil caminhar nele.[lr]::
+48639::$$$message_0422_0004_0004$$$::Mas[line3]é suicídio entrar nessa lama.::
+48640::$$$message_0422_0005_0000$$$::Só olhar pra essa maldição é o suficiente pra desmaiar alguém.[lr]::
+48641::$$$message_0422_0005_0001$$$::Eu vou enfraquecer e afundar nessa lama se eu caminhar um metro nela.::
+48642::$$$message_0422_0006_0000$$$::"[line3]Essa coisa tá prestes a explodir.[lr]::
+48643::$$$message_0422_0006_0001$$$::Eu não sei se tinha esse formato desde o começo, mas eu aposto que o receptáculo original era muito pequeno. Ele não conseguiu conter a coisa dentro e está prestes a quebrar o receptáculo."::
+48644::$$$message_0422_0007_0000$$$::"'Quebrar o receptáculo'... Você quer dizer..."[lr]::
+48645::$$$message_0422_0007_0001$$$::"Se o Shinji é o santo graal, isso significaria que ele seria destruído. Você consegue enxergar? Tem algo com o formato de um humano nisso, certo? Eu acho que você vai conseguir ver."::
 48646::$$$message_0422_0008_0000$$$::"Huh...?"[lr]::
-48647::$$$message_0422_0008_0001$$$::I follow Tohsaka's line of sight.[lr]::
-48648::$$$message_0422_0008_0002$$$::Within the rotting and growing flesh hunk,[lr]::
-48649::$$$message_0422_0008_0003$$$::I do see something that looks vaguely human.::
-48650::$$$message_0422_0009_0000$$$::...Is he getting crucified?[lr]::
-48651::$$$message_0422_0009_0001$$$::Torn clothes and a naked body. Ugly muscles ripple under the skin, connecting the body to the flesh hunk.[lr]::
-48652::$$$message_0422_0009_0002$$$::It's like...the shape is different. It's a bizarre image, like a bunch of grapes shaped into a human form.::
-48653::$$$message_0422_0010_0000$$$::"...It's Shinji. I can't see his face, but that definitely looks like him."[lr]::
-48654::$$$message_0422_0010_0001$$$::"I see. Is he alive?"[lr]::
-48655::$$$message_0422_0010_0002$$$::[font italic=true]...[font italic=false]::
-48656::$$$message_0422_0011_0000$$$::...I don't know.[lr]::
-48657::$$$message_0422_0011_0001$$$::He isn't dead, but I don't know if I can call that "alive."[lr]::
-48658::$$$message_0422_0011_0002$$$::"...His body's still breathing, at least."[lr]::
-48659::$$$message_0422_0011_0003$$$::I can't say that I see anything like human limbs.::
-48660::$$$message_0422_0012_0000$$$::"I knew it. This Holy Grail was originally humanoid. So it would need a human component to function.[lr]::
-48661::$$$message_0422_0012_0001$$$::Shinji turned out like that because he wasn't a suitable part, but the Holy Grail basically needs a living host to function."::
-48662::$$$message_0422_0013_0000$$$::"But it's about to explode. You said it's going to break Shinji, who is the core."::
-48663::$$$message_0422_0014_0000$$$::"It's going to happen one way or another... If it does, there won't be any Holy Grail. All we'll get is that unknown stuff spilling out of the hole opened by the Holy Grail."::
-48664::$$$message_0422_0015_0000$$$::"Meaning that there's still time.[lr]::
-48665::$$$message_0422_0015_0001$$$::The Holy Grail is active, but it won't break as long as it doesn't return to its original wish-granting form.[lr]::
-48666::$$$message_0422_0015_0002$$$::That Goldy said he was only going to open the hole.[lr]::
-48667::$$$message_0422_0015_0003$$$::His objective is to activate the Holy Grail and then destroy its vessel. If he does that..."::
-48668::$$$message_0422_0016_0000$$$::"Then that mud will pour out infinitely, on a whole different level."::
-48669::$$$message_0422_0017_0000$$$::There's no time to consider it.[lr]::
-48670::$$$message_0422_0017_0001$$$::We'll pull Shinji out of the flesh hunk and stop the Holy Grail...!::
-48671::$$$message_0422_0018_0000$$$::"Tohsaka, can you do anything about that mud? It looks like we could walk on it if we freeze it."::
-48672::$$$message_0422_0019_0000$$$::"Nope. That would work for water, but that's magical energy processed into curses. Even a freezing specialist would have a hard time freezing magecraft given form."::
-48673::$$$message_0422_0020_0000$$$::"Oh. Then..."[lr]::
-48674::$$$message_0422_0020_0001$$$::We'll just have to pray for good luck.[lr]::
-48675::$$$message_0422_0020_0002$$$::The only option is to cross the pond before the curse corrupts us, and extract Shinji.::
-48676::$$$message_0422_0021_0000$$$::"Hold on, are you going in just like that!? Don't do it! It'll consume you while you're in the middle of it!"::
-48677::$$$message_0422_0022_0000$$$::"I won't know that until I try, and there's no more time. Saber should be fighting right now. We can't afford to hesitate...!"[lr]::
-48678::$$$message_0422_0022_0001$$$::I whirl around and move to protect Tohsaka.::
-48679::$$$message_0422_0023_0000$$$::"Well, this is a surprise.[lr]::
-48680::$$$message_0422_0023_0001$$$::To think I'd have to look at your disfigured faces three times, mongrels."::
-48681::$$$message_0422_0024_0000$$$::Gilgamesh sneers at us.[lr]::
-48682::$$$message_0422_0024_0001$$$::He appeared by the pond instead of the Temple, as if he predicted our moves.::
-48683::$$$message_0422_0025_0000$$$::"Gilgamesh!? Then who's Saber fighting right now!?"::
-48684::$$$message_0422_0026_0000$$$::Tohsaka's words indicate that Saber's engaged with some other enemy at the moment.[lr]::
-48685::$$$message_0422_0026_0001$$$::I don't know who that might be or how she ended up fighting them.::
-48686::$$$message_0422_0027_0000$$$::There's no time to consider that right now.[lr]::
-48687::$$$message_0422_0027_0001$$$::We're facing the worst person possible.[lr]::
-48688::$$$message_0422_0027_0002$$$::This is the strongest Servant whom we were supposed to take down as a trio.[lr]::
-48689::$$$message_0422_0027_0003$$$::And now he's here, looking at us without Saber.::
-48690::$$$message_0422_0028_0000$$$::"Oh, Saber isn't here? ...How dull. I guess I'll just kill you."[lr]::
-48691::$$$message_0422_0028_0001$$$::A terrible chill oozes from the sea of mud, while bloodlust radiates from the man in front of us.[lr]::
-48692::$$$message_0422_0028_0002$$$::Noble Phantasms hang ready in wait behind him.[lr]::
-48693::$$$message_0422_0028_0003$$$::One wrong move, and he'll skewer us.::
-48694::$$$message_0422_0029_0000$$$::"Hm. No, that would be uninspired.[lr]::
-48695::$$$message_0422_0029_0001$$$::Normally, I would never suggest this, but I will make an exception. You are my guests, so I'll grant you a slight extension on your lives."::
-48696::$$$message_0422_0030_0000$$$::"...An extension?"[lr]::
-48697::$$$message_0422_0030_0001$$$::My fingers tense up, and I glare at the enemy.[lr]::
-48698::$$$message_0422_0030_0002$$$::   My Magic Circuits are open.[lr]::
-48699::$$$message_0422_0030_0003$$$::I've lined up fourteen blueprints, as many as I can manage.[lr]::
-48700::$$$message_0422_0030_0004$$$::If he snaps his fingers, I'll replicate as many swords as I can.[lr]::
-48701::$$$message_0422_0030_0005$$$::That should at least let Tohsaka get away[line2]::
-48702::$$$message_0422_0031_0000$$$::"What, you need me to spell it out for you?[lr]::
-48703::$$$message_0422_0031_0001$$$::I'll allow you to be a scarecrow until the cocoon hatches. It's lonely watching over that thing by myself.[lr]::
-48704::$$$message_0422_0031_0002$$$::If you bear witness to its fate, then your lives will have had meaning."::
-48705::$$$message_0422_0031_0003$$$::"...!"[lr]::
-48706::$$$message_0422_0031_0004$$$::How can I listen to that?[lr]::
-48707::$$$message_0422_0031_0005$$$::Our objective is to stop the Holy Grail.[lr]::
-48708::$$$message_0422_0031_0006$$$::If there's still time, then we need to rescue Shinji from that flesh hunk!::
-48709::$$$message_0422_0031_0007$$$::"Yeah? Sorry, but we[line2]"[lr]::
-48710::$$$message_0422_0031_0008$$$::"We're not playing along with your games. We're going to that flesh hunk and putting a stop to your Holy Grail."::
-48711::$$$message_0422_0031_0009$$$::Before I can finish, Tohsaka takes the initiative[lr]::
-48712::$$$message_0422_0031_0010$$$::and stares down Gilgamesh.::
-48713::$$$message_0422_0031_0011$$$::"Really, now?"[lr]::
-48714::$$$message_0422_0031_0012$$$::His lips twist into a smile.[lr]::
-48715::$$$message_0422_0031_0013$$$::That laugh sounds like when someone decides to kill the person in front of them.::
-48716::$$$message_0422_0031_0014$$$::"W-wait Tohsaka! That's...!"[lr]::
-48717::$$$message_0422_0031_0015$$$::"I want you to hold him off here.[lr]::
-48718::$$$message_0422_0031_0016$$$::I know it's reckless, but you need to hold him off until Saber gets here. I'm going to take responsibility and pull Shinji out."::
-48719::$$$message_0422_0031_0017$$$::"What!? What do you mean, pull him out?"[lr]::
-48720::$$$message_0422_0031_0018$$$::"I know what you're thinking. But that guy is still Sakura's older brother, and I can't just let him die. Besides, isn't it your credo to save everyone you can save?"::
-48721::$$$message_0422_0031_0019$$$::Tohsaka starts to run toward the dark lake.[lr]::
-48722::$$$message_0422_0031_0020$$$::Is she going to go into that mud as-is!?::
-48723::$$$message_0422_0031_0021$$$::"Ku...hahaha hahahahaha!!![lr]::
-48724::$$$message_0422_0031_0022$$$::What is this ridiculousness? Are you trying to kill me with laughter!?"[lr]::
-48725::$$$message_0422_0031_0023$$$::That guy...[lr]::
-48726::$$$message_0422_0031_0024$$$::He laughs condescendingly at Tohsaka's determination.::
-48727::$$$message_0422_0031_0025$$$::"You...what's so funny!?"[lr]::
-48728::$$$message_0422_0031_0026$$$::"What's that? Isn't it funny to you too, mongrel?"[lr]::
-48729::$$$message_0422_0031_0027$$$::You're a bunch of third-rates. Go through that curse? Do you think a lowly human could walk through it when even Servants can't withstand that whirlpool of curses?"::
-48730::$$$message_0422_0031_0028$$$::"Don't underestimate me. I can handle curses like nothing.[lr]::
-48731::$$$message_0422_0031_0029$$$::Besides, I'm no half-spirit like you guys. I'm a human with flesh and bones, so I'm not going to let that thing engulf me!"::
-48732::$$$message_0422_0031_0030$$$::She's obviously bluffing, but Tohsaka might actually be able to get across if she says so.[lr]::
-48733::$$$message_0422_0031_0031$$$::Like she said, Rin Tohsaka isn't so weak as to lose to a curse like that.::
-48734::$$$message_0422_0031_0032$$$::"I see. Then do as you wish.[lr]::
-48735::$$$message_0422_0031_0033$$$::Though...I won't allow it!"[lr]::
-48736::$$$message_0422_0031_0034$$$::"Trace..."[lr]::
-48737::$$$message_0422_0031_0035$$$::A sword shoots forward.[lr]::
-48738::$$$message_0422_0031_0036$$$::The sword flies toward Tohsaka's defenseless back to skewer her...::
-48739::$$$message_0422_0032_0000$$$::"...Off!"[lr]::
-48740::$$$message_0422_0032_0001$$$::But it's instantly deflected by my Kanshou when I step in.::
-48741::$$$message_0422_0032_0002$$$::"Haaa...fuh...!"[lr]::
-48742::$$$message_0422_0032_0003$$$::I breathe heavily.[lr]::
-48743::$$$message_0422_0032_0004$$$::I made it... Although I had prepared myself, this was the first time I had been able to Project so quickly.[lr]::
-48744::$$$message_0422_0032_0005$$$::It must be thanks to Tohsaka's magical energy.[lr]::
-48745::$$$message_0422_0032_0006$$$::At this rate, we might be able to...::
-48746::$$$message_0422_0032_0007$$$::"Why you..."[lr]::
-48747::$$$message_0422_0032_0008$$$::Murderous rage fills his red eyes.[lr]::
-48748::$$$message_0422_0032_0009$$$::My Projection triggers him to get serious.[lr]::
-48749::$$$message_0422_0032_0010$$$::The Noble Phantasms behind his back increase in number.::
-48750::$$$message_0422_0032_0011$$$::"Shirou..."[lr]::
-48751::$$$message_0422_0032_0012$$$::Behind me, I hear Tohsaka's concerned voice.[lr]::
-48752::$$$message_0422_0032_0013$$$::I don't look back and I keep my eyes on the enemy with my Kanshou at the ready.::
-48753::$$$message_0422_0032_0014$$$::"Tohsaka. Go get Shinji."[lr]::
-48754::$$$message_0422_0032_0015$$$::That's all I say to her.[lr]::
-48755::$$$message_0422_0032_0016$$$::"Leave it to me. I'll bring him back in no time!"[lr]::
-48756::$$$message_0422_0032_0017$$$::I hear the sound of splashing water.[lr]::
-48757::$$$message_0422_0032_0018$$$::Tohsaka jumps into the sea of mud without hesitation.::
-48758::$$$message_0422_0032_0019$$$::"Phew..."[lr]::
-48759::$$$message_0422_0032_0020$$$::Then I'm going to protect her.[lr]::
-48760::$$$message_0422_0032_0021$$$::I won't allow a single Noble Phantasm to reach Tohsaka.::
-48761::$$$message_0422_0032_0022$$$::"You need to deal with me. If you want to get to Tohsaka, you'll have to beat me first."[lr]::
-48762::$$$message_0422_0032_0023$$$::I take a step forward.[lr]::
-48763::$$$message_0422_0032_0024$$$::This must have ticked him off.[lr]::
-48764::$$$message_0422_0032_0025$$$::The golden Servant takes his eyes away from Tohsaka and focuses on me.::
-48765::$$$message_0422_0032_0026$$$::"That girl will die anyway.[lr]::
-48766::$$$message_0422_0032_0027$$$::Dealing my hand in her death was just my way of showing mercy."[lr]::
-48767::$$$message_0422_0032_0028$$$::A swarm of Noble Phantasms point toward me.[lr]::
-48768::$$$message_0422_0032_0029$$$::He ignites his murderous intent like a sharp blade...::
-48769::$$$message_0422_0032_0030$$$::"But it seems I need to teach you a lesson before that.[lr]::
-48770::$$$message_0422_0032_0031$$$::You filthy fake.[lr]::
-48771::$$$message_0422_0032_0032$$$::You will learn the difference between real and fake!"[lr]::
-48772::$$$message_0422_0032_0033$$$::He deploys his own treasures without reserve.:�Pi
+48647::$$$message_0422_0008_0001$$$::Eu olho pra onde a Tohsaka tá olhando.[lr]::
+48648::$$$message_0422_0008_0002$$$::Dentro da pilha de carne em expansão...[lr]::
+48649::$$$message_0422_0008_0003$$$::Eu certamente vejo algo com o formato de um humano.::
+48650::$$$message_0422_0009_0000$$$::....Ele parece ter sido crucificado.[lr]::
+48651::$$$message_0422_0009_0001$$$::As roupas dele foram rasgadas, deixando ele pelado. Visível na pele dele, os vasos sanguíneos se contorcem como centopéias, conectando ele a carne.[lr]::
+48652::$$$message_0422_0009_0002$$$::...Parece bizarro, como se videiras tomaram uma forma humana.::
+48653::$$$message_0422_0010_0000$$$::"[line3]Shinji. Eu não consigo ver o rosto dele, mas eu tenho certeza daquele [r]físico[line3]"[lr]::
+48654::$$$message_0422_0010_0001$$$::"Entendo. Então, ele tá vivo?"[lr]::
+48655::$$$message_0422_0010_0002$$$::"[line8]"::
+48656::$$$message_0422_0011_0000$$$::...Eu não sei dizer.[lr]::
+48657::$$$message_0422_0011_0001$$$::Ele não tá morto. Mas eu não tô otimista o suficiente pra dizer que ele tá vivo nessa condição.[lr]::
+48658::$$$message_0422_0011_0002$$$::"...Ele tá respirando. O corpo dele tá..."[lr]::
+48659::$$$message_0422_0011_0003$$$::Eu não consigo nem dizer que ele tem membros humanos de certa foma.::
+48660::$$$message_0422_0012_0000$$$::"Foi o que eu pensei. Então o santo graal dessa vez é em forma humana. Então isso significa que é operado usando uma pessoa, certo?[lr]::
+48661::$$$message_0422_0012_0001$$$::Eu acho que o Shinji acabou se tornando assim porque ele é incompatível, mas o santo graal não vai funcionar a não ser que o hospedeiro esteja vivo."::
+48662::$$$message_0422_0013_0000$$$::"[line3]Mas aquela coisa tá prestes a explodir. Vai destruir o Shinji, certo?"::
+48663::$$$message_0422_0014_0000$$$::"Isso é porque não tem o que fazer. ...O santo graal não vai mais existir se isso acontecer. Essa coisa estranha vai fluir pra fora de um portão que o santo graal abrir."::
+48664::$$$message_0422_0015_0000$$$::"Mas a gente pode chegar a tempo.[lr]::
+48665::$$$message_0422_0015_0001$$$::O santo graal foi ativado, mas não tá na sua verdadeira forma, nem tá quebrado.[lr]::
+48666::$$$message_0422_0015_0002$$$::O douradinho só quer abrir o portão.[lr]::
+48667::$$$message_0422_0015_0003$$$::O objetivo dele é ativar o santo graal e destruir o receptáculo. Se ele fizer isso[line4]"::
+48668::$$$message_0422_0016_0000$$$::"Aquela lama misteriosa vai fluir pra fora infinitamente[line4]"::
+48669::$$$message_0422_0017_0000$$$::[line4]Não há tempo pra pensar.[lr]::
+48670::$$$message_0422_0017_0001$$$::A gente tem que tirar o Shinji daquela coisa e parar o santo graal...!::
+48671::$$$message_0422_0018_0000$$$::"Tohsaka. Você pode fazer algo sobre essa lama? Parece que a gente pode caminhar nela se a gente congelar ela."::
+48672::$$$message_0422_0019_0000$$$::"Isso é impossível. Eu consigo fazer se for só água, mas essa coisa é uma maldição feita de energia mágica. Até um mago especializado em congelar teria dificuldade congelando energia mágica que tomou forma."::
+48673::$$$message_0422_0020_0000$$$::"[line4]Entendi. Então..."[lr]::
+48674::$$$message_0422_0020_0001$$$::Eu acho que eu vou só rezar e correr por isso.[lr]::
+48675::$$$message_0422_0020_0002$$$::Eu vou cruzar o lago antes de ser amaldiçoado e resgatar o Shinji.::
+48676::$$$message_0422_0021_0000$$$::"Ei, você vai ir assim!? É impossível! Isso vai te engolir!"::
+48677::$$$message_0422_0022_0000$$$::"Você nunca vai saber sem tentar. A gente não tem tempo. A Saber deve tar lutando agora mesmo. A gente não pode hesitar aqui[line4]!?"[lr]::
+48678::$$$message_0422_0022_0001$$$::Eu rapidamente me viro, me movendo pra proteger a Tohsaka.::
+48679::$$$message_0422_0023_0000$$$::"Isso é surpreendente.[lr]::
+48680::$$$message_0422_0023_0001$$$::Eu não achei que veria sua cara uma terceira vez, vira-lata."::
+48681::$$$message_0422_0024_0000$$$::Uma risada.[lr]::
+48682::$$$message_0422_0024_0001$$$::Ele aparece ali como se soubesse do nosso plano.::
+48683::$$$message_0422_0025_0000$$$::"Gilgamesh[line4]!? Sem chance! Então quem que a Saber tá enfrentando...!?"::
+48684::$$$message_0422_0026_0000$$$::Parece que a Saber tá enfrentando alguém pelo que a Tohsaka tá falando.[lr]::
+48685::$$$message_0422_0026_0001$$$::Mas eu não consigo dizer quem ela tá enfrentando, e nem como ela tá indo.::
+48686::$$$message_0422_0027_0000$$$::Não[line3]essa não é a hora de pensar em coisas assim.[lr]::
+48687::$$$message_0422_0027_0001$$$::Aquele na nossa frente é o pior inimigo possível.[lr]::
+48688::$$$message_0422_0027_0002$$$::Ele é o servo mais forte, aquele que nós três planejamos derrotar juntos.[lr]::
+48689::$$$message_0422_0027_0003$$$::Mas só eu e a Tohsaka encaramos ele agora.::
+48690::$$$message_0422_0028_0000$$$::"Ah, a Saber não está aqui? ...Que chato. Nesse caso, eu acho que vou me conter com matar só vocês dois."[lr]::
+48691::$$$message_0422_0028_0001$$$::Frieza emana do mar de lama, e o homem a minha frente dá uma intenção de assassinato.[lr]::
+48692::$$$message_0422_0028_0002$$$::Ele já tem o fantasma nobre pronto atrás dele.[lr]::
+48693::$$$message_0422_0028_0003$$$::Eu vou ser perfurado no instante que eu descuidadamente der um passo.::
+48694::$$$message_0422_0029_0000$$$::"Hm[line3]não, isso vai ser muito chato.[lr]::
+48695::$$$message_0422_0029_0001$$$::Eu normalmente não permito algo assim, mas eu farei uma exceção só para vocês dois, só dessa vez. Vocês dois são convidados especiais. Eu irei lhes dar um breve período de graça."::
+48696::$$$message_0422_0030_0000$$$::"......Período de graça?"[lr]::
+48697::$$$message_0422_0030_0001$$$::Eu cerro meu punho enquanto encaro o inimigo.[lr]::
+48698::$$$message_0422_0030_0002$$$::[line3]Meu circuito mágico está aberto.[lr]::
+48699::$$$message_0422_0030_0003$$$::Eu consigo formar 14 diagramas na minha cabeça.[lr]::
+48700::$$$message_0422_0030_0004$$$::Eu vou reproduzir as espadas dele assim que ele estalar os dedos.[lr]::
+48701::$$$message_0422_0030_0005$$$::Eu devo conseguir deixar a Tohsaka escapar[line3]::
+48702::$$$message_0422_0031_0000$$$::"O quê, eu tenho que te contar?[lr]::
+48703::$$$message_0422_0031_0001$$$::Eu estou falando para vocês dois ficarem ai até o casulo rachar. Seria muito solitário se eu fosse o único a observar isso.[lr]::
+48704::$$$message_0422_0031_0002$$$::Ver isso inteiro vai dar significado a vida de vocês."::
+48705::$$$message_0422_0031_0003$$$::"[line8]!"[lr]::
+48706::$$$message_0422_0031_0004$$$::Eu não consigo ouvir ele.[lr]::
+48707::$$$message_0422_0031_0005$$$::Nosso objetivo é parar o santo graal.[lr]::
+48708::$$$message_0422_0031_0006$$$::Se nós ainda conseguirmos fazer isso, nós temos que pegar o Shinji de volta[line4]!::
+48709::$$$message_0422_0031_0007$$$::"Entendi. Me desculpa, mas[line4]"[lr]::
+48710::$$$message_0422_0031_0008$$$::"Eu não vou fazer como você mandar. Eu vou subir ali e parar seu santo graal agora mesmo."::
+48711::$$$message_0422_0031_0009$$$::Então.[lr]::
+48712::$$$message_0422_0031_0010$$$::A Tohsaka encara o Gilgamesh por trás.::
+48713::$$$message_0422_0031_0011$$$::"[line4]Ah?"[lr]::
+48714::$$$message_0422_0031_0012$$$::Ele sorri.[lr]::
+48715::$$$message_0422_0031_0013$$$::Ele sorri como quando ele decide matar aquele na sua frente.::
+48716::$$$message_0422_0031_0014$$$::"E-Espera, Tohsaka. Isso é[line4]!"[lr]::
+48717::$$$message_0422_0031_0015$$$::"Você pode parar ele aqui, Shirou?[lr]::
+48718::$$$message_0422_0031_0016$$$::...Eu sei que é irracional, mas por favor segura ele até a Saber chegar aqui. Eu vou tirar o Shinji pra fora."::
+48719::$$$message_0422_0031_0017$$$::"O quê[line4]tirar o Shinji pra fora?"[lr]::
+48720::$$$message_0422_0031_0018$$$::"Eu sei. Ele ainda é o irmão da Sakura, e eu não posso deixar ele morrer a minha frente. ...E você acredita em salvar qualquer um que possa ser salvo, certo?"::
+48721::$$$message_0422_0031_0019$$$::A Tohsaka corre até o lago preto.[lr]::
+48722::$$$message_0422_0031_0020$$$::Ela vai entrar naquela lama[line3]!?::
+48723::$$$message_0422_0031_0021$$$::"Kuh[line4]haha, hahahahahahaha!!!![lr]::
+48724::$$$message_0422_0031_0022$$$::Que ridículo! Você está tentando me matar de rir!?"[lr]::
+48725::$$$message_0422_0031_0023$$$::Ele ri, como se para desmerecer a determinação da Tohsaka.::
+48726::$$$message_0422_0031_0024$$$::"O que é tão engraçado...!?"[lr]::
+48727::$$$message_0422_0031_0025$$$::"Ah, não é engraçado para você, vira-lata?[lr]::
+48728::$$$message_0422_0031_0026$$$::Passar por essa maldição? Você acha que um mero humano pode passar por algo que nem um Servo aguenta!?"::
+48729::$$$message_0422_0031_0027$$$::"[line3]Heh, não me subestima. Eu não sou tão fraca a ponto de ser contaminada por essa maldição.[lr]::
+48730::$$$message_0422_0031_0028$$$::E eu não sou meio espírito que nem vocês. Eu sou totalmente humana, então eu não vou deixar essa maldição me afogar...!"::
+48731::$$$message_0422_0031_0029$$$::É um blefe óbvio, mas eu tenho certeza que a Tohsaka vai chegar ao outro lado.[lr]::
+48732::$$$message_0422_0031_0030$$$::Como ela disse, Tohsaka Rin não é tão fraca ao ponto de perder para essa maldição.::
+48733::$$$message_0422_0031_0031$$$::"Entendo. Então faça como quiser.[lr]::
+48734::$$$message_0422_0031_0032$$$::[line3]Mas eu não permitirei algo assim."[lr]::
+48735::$$$message_0422_0031_0033$$$::"[line4]Trace-"[lr]::
+48736::$$$message_0422_0031_0034$$$::Uma espada é atirada.[lr]::
+48737::$$$message_0422_0031_0035$$$::A espada voa pelo ar para perfurar as costas indefesas da Tohsaka[line4]::
+48738::$$$message_0422_0031_0036$$$::A espada voa em direção às costas indefesas de Tohsaka para espetá-la...::
+48739::$$$message_0422_0032_0000$$$::"[line4]Off...!"[lr]::
+48740::$$$message_0422_0032_0001$$$::E é cortada pela Kanshou.::
+48741::$$$message_0422_0032_0002$$$::"Hah, ha[line4]!"[lr]::
+48742::$$$message_0422_0032_0003$$$::Eu respiro pesadamente.[lr]::
+48743::$$$message_0422_0032_0004$$$::Eu consegui[line3]mesmo estando preparado, essa é a projeção mais rápida que eu já fiz.[lr]::
+48744::$$$message_0422_0032_0005$$$::É provavelmente graças a energia mágica da Tohsaka.[lr]::
+48745::$$$message_0422_0032_0006$$$::Com isso, eu talvez consiga[line4]::
+48746::$$$message_0422_0032_0007$$$::"[line4]Você."[lr]::
+48747::$$$message_0422_0032_0008$$$::Raiva assassina preenche os olhos vermelhos dele.[lr]::
+48748::$$$message_0422_0032_0009$$$::...A projeção fez ele sério.[lr]::
+48749::$$$message_0422_0032_0010$$$::Os fantasmas nobres atrás dele aumentam em números.::
+48750::$$$message_0422_0032_0011$$$::"[line4]Shirou."[lr]::
+48751::$$$message_0422_0032_0012$$$::Eu ouço a voz preocupada da Tohsaka.[lr]::
+48752::$$$message_0422_0032_0013$$$::Eu não me viro, mas encaro meu inimigo com a Kanshou em mão.::
+48753::$$$message_0422_0032_0014$$$::"Tohsaka. Eu vou deixar o Shinji com você."[lr]::
+48754::$$$message_0422_0032_0015$$$::Isso é tudo que eu digo.[lr]::
+48755::$$$message_0422_0032_0016$$$::"[line3]Tudo bem. Eu vou trazer ele de volta agora mesmo!"[lr]::
+48756::$$$message_0422_0032_0017$$$::Eu ouço um som de respingo.[lr]::
+48757::$$$message_0422_0032_0018$$$::A Tohsaka entra na lama sem hesitação.::
+48758::$$$message_0422_0032_0019$$$::"[line8]Ufa."[lr]::
+48759::$$$message_0422_0032_0020$$$::Então eu vou proteger ela.[lr]::
+48760::$$$message_0422_0032_0021$$$::Eu não vou deixar um único fantasma nobre passar por mim.::
+48761::$$$message_0422_0032_0022$$$::"Eu sou seu inimigo. Me derrote se você quiser atacar a Tohsaka."[lr]::
+48762::$$$message_0422_0032_0023$$$::Eu dou um passo para frente.[lr]::
+48763::$$$message_0422_0032_0024$$$::Isso deve ter dado nos nervos dele.[lr]::
+48764::$$$message_0422_0032_0025$$$::O servo dourado tira seus olhos da Tohsaka e olha pra mim.::
+48765::$$$message_0422_0032_0026$$$::"[line3]Ha, aquela garota vai morrer de qualquer jeito.[lr]::
+48766::$$$message_0422_0032_0027$$$::Foi por compaixão que eu tentei matar ela[line3]"[lr]::
+48767::$$$message_0422_0032_0028$$$::Os fantasmas nobres apontam para mim.[lr]::
+48768::$$$message_0422_0032_0029$$$::Ele deixa sair um intenção de assassinato afiada.::
+48769::$$$message_0422_0032_0030$$$::"Mas parece que eu preciso lhe ensinar uma lição antes.[lr]::
+48770::$$$message_0422_0032_0031$$$::[line3]Sua fraude miserável.[lr]::
+48771::$$$message_0422_0032_0032$$$::Eu irei lhe ensinar a diferença entre uma falsificação e o [r]real[line4]!"[lr]::
+48772::$$$message_0422_0032_0033$$$::He deploys his own treasures without reserve.:�Pi

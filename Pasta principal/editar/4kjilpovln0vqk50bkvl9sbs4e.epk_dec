@@ -1,114 +1,114 @@
 DAT
 id=qid::label=str::text=lstr::
-67087::$$$message_0622_0000_0000$$$::We get through the forest.[lr]::
-67088::$$$message_0622_0000_0001$$$::We're in a circular clearing in the vast sea of trees.[lr]::
-67089::$$$message_0622_0000_0002$$$::The castle I saw through Illya's "eyes" towers over the forest, just as I remember.::
-67090::$$$message_0622_0001_0000$$$::There's no sign of anyone around.[lr]::
-67091::$$$message_0622_0001_0001$$$::It's strange that there's no guards on the castle walls, to say nothing of the castle, but I can't turn back now just because this might be a trap.::
-67092::$$$message_0622_0002_0000$$$::"Kotomine. Can we get to the second floor from that tree?"[lr]::
-67093::$$$message_0622_0002_0001$$$::Even if they know we're here, it would be suicide to go through the front door.[lr]::
-67094::$$$message_0622_0002_0002$$$::I need to do whatever I can to get inside, even if it might not work.::
-67095::$$$message_0622_0003_0000$$$::"Let me see...[lr]::
-67096::$$$message_0622_0003_0001$$$::I was thinking we could infiltrate via the aqueduct, but this enemy is not so easily approached.[lr]::
-67097::$$$message_0622_0003_0002$$$::They will detect us as soon as we enter the castle. We should take the most direct path to where Illyasviel is being held and extract her whether she agrees or not. But..."::
-67098::$$$message_0622_0004_0000$$$::The priest thinks aloud as he gazes up at the castle.[lr]::
-67099::$$$message_0622_0004_0001$$$::He narrows his eyes, seeming to peer through the walls, and examines each window carefully.::
-67100::$$$message_0622_0005_0000$$$::"...What a surprise. We seem to be underestimated, Emiya."[lr]::
-67101::$$$message_0622_0005_0001$$$::Kotomine smirks.[lr]::
-67102::$$$message_0622_0005_0002$$$::"Huh?"[lr]::
-67103::$$$message_0622_0005_0003$$$::I doubt my ears. This might be the first time I've ever heard him sound so delighted.::
-67104::$$$message_0622_0006_0000$$$::"W-what is it, Kotomine? Did you find something?"[lr]::
-67105::$$$message_0622_0006_0001$$$::"I did.[lr]::
-67106::$$$message_0622_0006_0002$$$::...By the way, do you have any rock climbing experience, Shirou Emiya?"::
-67107::$$$message_0622_0007_0000$$$::"...Are you serious?"[lr]::
-67108::$$$message_0622_0007_0001$$$::"Of course, I am talking about free climbing. It is a sheer wall with no overhangs, and plenty of footholds. It will be easy to scale it without any equipment. Like a walk in the park, compared to climbing a wall of ice."[lr]::
-67109::$$$message_0622_0007_0002$$$::"Wait[line2]"[lr]::
-67110::$$$message_0622_0007_0003$$$::Kotomine places his hand on the castle wall without waiting for my opinion.::
-67111::$$$message_0622_0008_0000$$$::"Wha..."[lr]::
-67112::$$$message_0622_0008_0001$$$::Then he just starts climbing it, sticking to the surface like a spider.[lr]::
-67113::$$$message_0622_0008_0002$$$::He isn't going very fast, but his ascent is sure and steady.::
-67114::$$$message_0622_0009_0000$$$::"What are you doing? If you're not sure where to step, then copy me. I know you're strong enough to climb a mere four stories.[lr]::
-67115::$$$message_0622_0009_0001$$$::Oh, and leave the Black Key. You can pick it up on the way back."[lr]::
-67116::$$$message_0622_0009_0002$$$::With that, the priest keeps climbing.::
-67117::$$$message_0622_0010_0000$$$::"...Is that guy being serious?"[lr]::
-67118::$$$message_0622_0010_0001$$$::I drop the sword Kotomine lent me and approach the wall.[lr]::
-67119::$$$message_0622_0010_0002$$$::...He must have picked an easier section of the wall to climb. The surface is uneven, and I find a place to grab on to.::
-67120::$$$message_0622_0011_0000$$$::Free climbing is about more than just muscle strength.[lr]::
-67121::$$$message_0622_0011_0001$$$::You need to judge whether your next handhold is safe or not, whether a depression is deep enough to support your weight, whether you can use it to make it to the next step.[lr]::
-67122::$$$message_0622_0011_0002$$$::And when climbing a nearly vertical wall, you're basically making it up as you go along.[lr]::
-67123::$$$message_0622_0011_0003$$$::You could be a meter from your destination, but if you can't find your next handhold, you'll have to go all the way back down to the ground and try a new route.::
-67124::$$$message_0622_0012_0000$$$::Finding your way to the goal...[lr]::
-67125::$$$message_0622_0012_0001$$$::Only experienced climbers have the skill to constantly scan two to three steps ahead while scaling a wall.[lr]::
-67126::$$$message_0622_0012_0002$$$::And I'm definitely not experienced, so all I can do is try to imitate Kotomine.[lr]::
-67127::$$$message_0622_0012_0003$$$::One slight misstep or failure to judge my strength could send me careening to the ground.::
-67128::$$$message_0622_0013_0000$$$::"...I can't believe him. Who would make a beginner do this?"[lr]::
-67129::$$$message_0622_0013_0001$$$::I grumble while I climb.[lr]::
-67130::$$$message_0622_0013_0002$$$::...It's a crazy plan, but not totally reckless.[lr]::
-67131::$$$message_0622_0013_0003$$$::Normally, you'd only climb walls like these when you're more than halfway to a mountain summit.::
-67132::$$$message_0622_0014_0000$$$::And climbers need to worry about more than just climbing.[lr]::
-67133::$$$message_0622_0014_0001$$$::Just as the deep ocean is an inaccessible abyss to humans, high altitudes are also sacred ground that we can't enter.::
-67134::$$$message_0622_0015_0000$$$::At 6000 meters above sea level, oxygen becomes critically thin, and untrained climbers can't last more than a few hours.[lr]::
-67135::$$$message_0622_0015_0001$$$::They'll suffer from nausea and dizziness, which will progress to cerebral edema before culminating in death.[lr]::
-67136::$$$message_0622_0015_0002$$$::A mountain peak is an airless hell that becomes harsher the higher you go.::
-67137::$$$message_0622_0016_0000$$$::Plus, the extreme cold[line2]even the slightest scratch on frostbitten skin will lead to necrosis.[lr]::
-67138::$$$message_0622_0016_0001$$$::Climbing in such extreme conditions means you have to worry about your bodily functions steadily declining as you ascend.[lr]::
-67139::$$$message_0622_0016_0002$$$::Compared to the harrowing ordeal that real climbers face, scaling a castle wall doesn't sound impossible at all.::
-67140::$$$message_0622_0017_0000$$$::"Or so you'd think, but..."[lr]::
-67141::$$$message_0622_0017_0001$$$::...It's still hard.[lr]::
-67142::$$$message_0622_0017_0002$$$::All I can use are the very tips of my fingers.[lr]::
-67143::$$$message_0622_0017_0003$$$::I cautiously scout out the thinnest of lips or crevices I can use to support my entire body weight.[lr]::
-67144::$$$message_0622_0017_0004$$$::He's asking me...to keep up with him...on a climb only an expert could do...!::
-67145::$$$message_0622_0018_0000$$$::"Hm? Wait, she moved. She's on a lower floor than I thought. Emiya, go down and enter through a third story window."[lr]::
-67146::$$$message_0622_0018_0001$$$::"Don't ask...the impossible..."[lr]::
-67147::$$$message_0622_0018_0002$$$::Do I look like a lizard to you!?::
-67148::$$$message_0622_0019_0000$$$::"Kotomine, I found a window! How do I get inside!?"[lr]::
-67149::$$$message_0622_0019_0001$$$::"I don't care. Break it."[lr]::
-67150::$$$message_0622_0019_0002$$$::"Rrgh! You fake priest, if I'd known about this..."[lr]::
-67151::$$$message_0622_0019_0003$$$::It would have been way easier to climb a tree to get inside, you moron!::
-67152::$$$message_0622_0020_0000$$$::"Guh...!"[lr]::
-67153::$$$message_0622_0020_0001$$$::I break into the castle.[lr]::
-67154::$$$message_0622_0020_0002$$$::I shatter a window and dive through it, all in the same motion.[lr]::
-67155::$$$message_0622_0020_0003$$$::I hang from a wall with both hands and swing my body like a pendulum to bust through the window with my legs.::
-67156::$$$message_0622_0021_0000$$$::"Haaah...!"[lr]::
-67157::$$$message_0622_0021_0001$$$::I roll on the floor...and onto an extravagant carpet.[lr]::
-67158::$$$message_0622_0021_0002$$$::By the time I swung my legs down, most of my body was already falling.[lr]::
-67159::$$$message_0622_0021_0003$$$::If I'd been even a tiny bit late kicking in the window, I might have kicked off the stone wall instead and fallen three stories on my back.::
-67160::$$$message_0622_0022_0000$$$::"Crap, anyone would die from a three-story fall on their head..."[lr]::
-67161::$$$message_0622_0022_0001$$$::Breaking the glass with my legs and rolling into the shards was dangerous, but I chalk it up as an acceptable risk.[lr]::
-67162::$$$message_0622_0022_0002$$$::"...Shirou?"[lr]::
-67163::$$$message_0622_0022_0003$$$::For an instant...[lr]::
-67164::$$$message_0622_0022_0004$$$::All worldly trifles vanish from my mind.::
-67165::$$$message_0622_0023_0000$$$::"Illya."[lr]::
-67166::$$$message_0622_0023_0001$$$::I even forget that I'm deep in enemy territory.[lr]::
-67167::$$$message_0622_0023_0002$$$::I recall the events from my backyard.[lr]::
-67168::$$$message_0622_0023_0003$$$::Illya said farewell to me with such a forced smile.::
-67169::$$$message_0622_0024_0000$$$::"...I can't believe this. Why did you come, Shirou? I said that your role in this is over. Are you still going to waste your effort?"[lr]::
-67170::$$$message_0622_0024_0001$$$::Her voice is stony.[lr]::
-67171::$$$message_0622_0024_0002$$$::She's making the same cold expression she did when we first met.::
-67172::$$$message_0622_0025_0000$$$::[font italic=true]...[font italic=false][lr]::
-67173::$$$message_0622_0025_0001$$$::I'm used to it.[lr]::
-67174::$$$message_0622_0025_0002$$$::I should be used to seeing her like this, but...::
-67175::$$$message_0622_0026_0000$$$::"Don't you get it? You can let me take care of Sakura. It's my role, so you need to go home."[lr]::
-67176::$$$message_0622_0026_0001$$$::"Don't say it's your job to clean up this mess, idiot."[lr]::
-67177::$$$message_0622_0026_0002$$$::I lose my patience and slap Illya's cheek.::
-67178::$$$message_0622_0027_0000$$$::"Wha... H-how rude! No gentleman would slap a lady's cheek! D-don't think you can get away with this just because it's you, Shirou!"[lr]::
-67179::$$$message_0622_0027_0001$$$::"You're the one who needs to apologize, stupid Illya! If you were a boy I'd give you a good punch, you little delinquent!"::
-67180::$$$message_0622_0028_0000$$$::My blank mind suddenly flares with irritation, even though I'm happy to see Illya.::
-67181::$$$message_0622_0029_0000$$$::"Huh!? I didn't do anything wrong! I went along with Sakura to fulfill my duty. It's the best way to resolve this, and you don't have a say in[line2]"::
-67182::$$$message_0622_0030_0000$$$::"Shut up! I don't care![lr]::
-67183::$$$message_0622_0030_0001$$$::Look, I don't know anything about your role or your duty. I'm just here to take a misbehaving girl home.[lr]::
-67184::$$$message_0622_0030_0002$$$::You can't fool me, no matter how tough you try to act. As long as any part of you doesn't want to do this, I'm taking you home!"::
-67185::$$$message_0622_0031_0000$$$::"Wha... I'm not acting! I'm here because I want to be. My body was created as a Holy Grail. I don't want to be a key for them, but if the Holy Grail can be utilized, even Sakura[line2]"::
-67186::$$$message_0622_0032_0000$$$::"That's the definition of acting tough![lr]::
-67187::$$$message_0622_0032_0001$$$::Who cares about the Holy Grail!? You're Illya. If you want to keep being yourself, forget about all that. Don't sacrifice yourself for anything or anyone else!"::
-67188::$$$message_0622_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
-67189::$$$message_0622_0033_0001$$$::I look away.[lr]::
-67190::$$$message_0622_0033_0002$$$::Illya bites her lip for a second.[lr]::
-67191::$$$message_0622_0033_0003$$$::"...You too, Shirou."[lr]::
-67192::$$$message_0622_0033_0004$$$::She whispers something I didn't quite hear.::
-67193::$$$message_0622_0034_0000$$$::"...Fine. Let's say I don't want to be here. So what? We can't win against Sakura. We can't even run away.[lr]::
-67194::$$$message_0622_0034_0001$$$::It's impossible to take me away from this castle. That's why Zouken's letting me do as I please.[lr]::
-67195::$$$message_0622_0034_0002$$$::He might let you leave on your own, but there's no way you're getting out of this forest with me."::
-67196::$$$message_0622_0035_0000$$$::Her scarlet eyes urge me to leave.[lr]::
-67197::$$$message_0622_0035_0001$$$::I...[lr]::
+67087::$$$message_0622_0000_0000$$$::Nós chegamos a clareira.[lr]::
+67088::$$$message_0622_0000_0001$$$::Um espaço circular vazio dentro da vasta floresta.[lr]::
+67089::$$$message_0622_0000_0002$$$::O castelo que eu vi pelos olhos ad Illya está ali, assim como eu lembrava.::
+67090::$$$message_0622_0001_0000$$$::Não há ninguém ao redor.[lr]::
+67091::$$$message_0622_0001_0001$$$::É estranho que não haja vigilantes, mas eu não posso recuar mesmo se for uma armadilha.::
+67092::$$$message_0622_0002_0000$$$::"Kotomine. Nós podemos subir no segundo andar por aquela árvore?"[lr]::
+67093::$$$message_0622_0002_0001$$$::Mesmo se eles não souberem que nós estamos aqui, seria suicídio entrar pela porta da frente.[lr]::
+67094::$$$message_0622_0002_0002$$$::Talvez seja inútil, mas eu tenho que fazer tudo que eu puder.::
+67095::$$$message_0622_0003_0000$$$::"...Certo.[lr]::
+67096::$$$message_0622_0003_0001$$$::Se nós quisermos entrar sorrateiramente, deveriamos usar um caminho d'água, mas eles não são do tipo que cairiam em métodos tão longos assim.[lr]::
+67097::$$$message_0622_0003_0002$$$::Eles vão provavelmente perceber nossa infiltração assim que entrarmos no castelo. Eu gostaria de ir diretamente até onde Illyasviel está sendo mantida captiva e escapar imediatamente, mas[w l=4][line4]"::
+67098::$$$message_0622_0004_0000$$$::O padre olha para o castelo, ponderando.[lr]::
+67099::$$$message_0622_0004_0001$$$::...Ele estremece sua visão como se tentando olhar através da árvore, encarando cada janela.::
+67100::$$$message_0622_0005_0000$$$::"[w l=3][line3]Mas que surpresa. Parece que eles realmente não nos levam a sério, Emiya."[lr]::
+67101::$$$message_0622_0005_0001$$$::Uma voz alegre.[lr]::
+67102::$$$message_0622_0005_0002$$$::"O quê?"[lr]::
+67103::$$$message_0622_0005_0003$$$::Eu nunca ouvi esse tom vindo dele antes, então eu duvido do que eu ouvi por um segundo.::
+67104::$$$message_0622_0006_0000$$$::"O-O quê, Kotomine? Você encontrou algo?"[lr]::
+67105::$$$message_0622_0006_0001$$$::"Eu encontrei.[lr]::
+67106::$$$message_0622_0006_0002$$$::[w l=3][line3]Deixe-me perguntar. Você tem experiência em escalar montanhas, Emiya Shirou?"::
+67107::$$$message_0622_0007_0000$$$::"............Não me fala..."[lr]::
+67108::$$$message_0622_0007_0001$$$::"Eu digo escalada livre, obviamente. É vertical, mas não há nada lhe segurando e não há lugares o suficiente para segurar. Nós podemos manter os pés firmes. Será fácil escalar esta parede sem ferramentar. Comparado a uma parede de gelo, isto é como caminhar por uma rua."[lr]::
+67109::$$$message_0622_0007_0002$$$::"Esp[w l=4][line4]"[lr]::
+67110::$$$message_0622_0007_0003$$$::O Kotomine pressiona as mãos na parade antes que eu consiga pará-lo.::
+67111::$$$message_0622_0008_0000$$$::"Quê[w l=4][line4]"[lr]::
+67112::$$$message_0622_0008_0001$$$::Ele pressiona seu corpo contra a parede e começa a escalar.[lr]::
+67113::$$$message_0622_0008_0002$$$::Ele vai devagar, mas eu vejo o quão estável ele é.::
+67114::$$$message_0622_0009_0000$$$::"O que você está fazendo? Se você não conseguir encontrar pontos, me copie. Você não é fraco ao ponto de que quatro andares são demais para você.[lr]::
+67115::$$$message_0622_0009_0001$$$::[w l=3][line3]Ah, e deixe a Black Key. Nós podemos pegá-la na volta."[lr]::
+67116::$$$message_0622_0009_0002$$$::O padre continua a escalar enquanto fala.::
+67117::$$$message_0622_0010_0000$$$::"[w l=3][line3]Ele está sério."[lr]::
+67118::$$$message_0622_0010_0001$$$::Eu jogo longe a espada e subo na parede.[lr]::
+67119::$$$message_0622_0010_0002$$$::...Ele deve ter pegado uma seção fácil de escalar. As pedras são bem ásperas, então eu consigo as segurar.::
+67120::$$$message_0622_0011_0000$$$::Você não usa só sua força para escalar.[lr]::
+67121::$$$message_0622_0011_0001$$$::Saber se seu próximo ponto é seguro, saber se um pequeno ponto suportará seu peso, saber se há outro ponto depois que você se mover...[lr]::
+67122::$$$message_0622_0011_0002$$$::Uma escalada vertical é como um quebra cabeças de improvisação.[lr]::
+67123::$$$message_0622_0011_0003$$$::Mesmo se o objetivo estiver a um metro, você tem que voltar e tentar uma nova rota se você não encontrar o ponto seguinte.::
+67124::$$$message_0622_0012_0000$$$::Uma rota até o destino.[lr]::
+67125::$$$message_0622_0012_0001$$$::A técnica de pensar dois ou três passos a frente só vem com experiência.[lr]::
+67126::$$$message_0622_0012_0002$$$::Essa é a experiência que eu não tenho, então eu tenho que copiar exatamente o que o Kotomine faz.[lr]::
+67127::$$$message_0622_0012_0003$$$::Eu vou cair instantâneamente se eu errar o alvo por alguns centímetros ou apertar o apoio com a força errada.::
+67128::$$$message_0622_0013_0000$$$::"[w l=4][line4]Eu não consigo acreditar. Você deixa um amador fazer algo assim?"[lr]::
+67129::$$$message_0622_0013_0001$$$::Eu reclamo enquanto escalo.[lr]::
+67130::$$$message_0622_0013_0002$$$::...Bom, é ridículo, mas não é totalmente descuidado.[lr]::
+67131::$$$message_0622_0013_0003$$$::Normalmente, alguém escala assim próximo ao topo da montanha.::
+67132::$$$message_0622_0014_0000$$$::A parede não é a única coisa que o escalador enfrenta.[lr]::
+67133::$$$message_0622_0014_0001$$$::Assim como o mar profundo é um santuário que humanos não conseguem violar, lugares altos também são um lugar sagrado.::
+67134::$$$message_0622_0015_0000$$$::Não há oxigênio o suficiente acima da altura de seis mil metros, e pessoas sem treinamento não podem ficar por mais de algumas horas.[lr]::
+67135::$$$message_0622_0015_0001$$$::Náusea, tontura e edema cerebral por causa da falta de oxigênio, e finalmente, morte.[lr]::
+67136::$$$message_0622_0015_0002$$$::Esse é um inferno que piora conforme você sobe.::
+67137::$$$message_0622_0016_0000$$$::E frio intenso. Sua pele descoberta congelaria, e até um pequeno arranhão se tornaria uma necrose.[lr]::
+67138::$$$message_0622_0016_0001$$$::Escalada é feito em ambientes extremos assim.[lr]::
+67139::$$$message_0622_0016_0002$$$::Comparado a isso, meramente escalar uma parede é fácil.::
+67140::$$$message_0622_0017_0000$$$::"[w l=4][line4]Mas mesmo assim[w l=4][line4]"[lr]::
+67141::$$$message_0622_0017_0001$$$::...Ainda é difícil.[lr]::
+67142::$$$message_0622_0017_0002$$$::Eu só consigo usar as pontas dos meus dedos.[lr]::
+67143::$$$message_0622_0017_0003$$$::Eu tenho que por meu peso aqui e apoiar meu corpo usando um pequeno apoio de pé.[lr]::
+67144::$$$message_0622_0017_0004$$$::Eu não consigo me manter com ele a não ser que eu treine cada centímetro do meu corpo...!::
+67145::$$$message_0622_0018_0000$$$::"Hm...? Espera, ela se moveu. Eu pensei que seria acima, mas na verdade está abaixo. Emiya, desça até a janela do terceiro andar e olhe dentro."[lr]::
+67146::$$$message_0622_0018_0001$$$::"Ei[w l=3][line3]você tá maluco?!"[lr]::
+67147::$$$message_0622_0018_0002$$$::Eu não sou uma aranha, então eu não consigo fazer algo assim[w l=4][line4]::
+67148::$$$message_0622_0019_0000$$$::"Kotomine, tem uma janela...! Como eu posso entrar!?"[lr]::
+67149::$$$message_0622_0019_0001$$$::"Eu não ligo, quebre ela."[lr]::
+67150::$$$message_0622_0019_0002$$$::"...! Você é uma fraude, se eu soubesse que ia ser assim..."[lr]::
+67151::$$$message_0622_0019_0003$$$::Teria sido tão mais fácil se nós tivéssemos entrado usando aquela árvore[w l=4][line4]!::
+67152::$$$message_0622_0020_0000$$$::"......!"[lr]::
+67153::$$$message_0622_0020_0001$$$::Eu pulo dentro do castelo.[lr]::
+67154::$$$message_0622_0020_0002$$$::Eu quebro a janela e pulo para dentro usando o mesmo movimento.[lr]::
+67155::$$$message_0622_0020_0003$$$::Eu agarro a parede com as duas mãos, balanço meu corpo na janela, e chuto meu caminho para dentro.::
+67156::$$$message_0622_0021_0000$$$::"Ha[w l=4][line4]ah......!"[lr]::
+67157::$$$message_0622_0021_0001$$$::Eu rolo pelo carpete visívelmente caro.[lr]::
+67158::$$$message_0622_0021_0002$$$::Meu corpo estava caindo quando eu balancei minhas pernas.[lr]::
+67159::$$$message_0622_0021_0003$$$::Se eu tivesse chutado um pouco mais tarde, eu teria acertado a parede e caído de pescoço no chão.::
+67160::$$$message_0622_0022_0000$$$::"Droga, eu morreria se eu caisse de cabeça do terceiro andar..."[lr]::
+67161::$$$message_0622_0022_0001$$$::É perigoso chutar uma janela e rolar enquanto espalhando cacos de vidro, mas não é pior do que eu esperava.[lr]::
+67162::$$$message_0622_0022_0002$$$::"......Shirou?"[lr]::
+67163::$$$message_0622_0022_0003$$$::[w l=3][line3]No instante que eu levanto minha cabeça...[lr]::
+67164::$$$message_0622_0022_0004$$$::Todas as questões irrelevantes escapam da minha mente.::
+67165::$$$message_0622_0023_0000$$$::"[w l=4][line4]Illya."[lr]::
+67166::$$$message_0622_0023_0001$$$::Eu esqueço que estou em território inimigo.[lr]::
+67167::$$$message_0622_0023_0002$$$::Eu relembro o que aconteceu no quintal.[lr]::
+67168::$$$message_0622_0023_0003$$$::Illya me deus adeus com um sorriso falso.::
+67169::$$$message_0622_0024_0000$$$::"[w l=4][line4]Inacreditável. Por que você veio, Shirou? Não há nada que você possa fazer agora. Você vai desperdiçar seu esforço de novo?"[lr]::
+67170::$$$message_0622_0024_0001$$$::Uma voz fria.[lr]::
+67171::$$$message_0622_0024_0002$$$::Illya mostra uma cara fria.::
+67172::$$$message_0622_0025_0000$$$::"[w l=8][line8]"[lr]::
+67173::$$$message_0622_0025_0001$$$::Eu estou acostumado.[lr]::
+67174::$$$message_0622_0025_0002$$$::Eu estou acostumado a ver essa cara nela, mas...::
+67175::$$$message_0622_0026_0000$$$::"Você ainda não entendeu? Você pode deixar a Sakura comigo. Essa é minha função, então você pode ir para casa e..."[lr]::
+67176::$$$message_0622_0026_0001$$$::"Idiota. Não fala que lidar com as consequências é sua função."[lr]::
+67177::$$$message_0622_0026_0002$$$::Eu dou um tapa na sua bochecha, incapaz de a perdoar.::
+67178::$$$message_0622_0027_0000$$$::"Quê[w l=4][line4] C-Como ousa...! Um cavalheiro não deveria dar um tapa na bochecha de uma dama! E-Eu não vou te perdoar se você fizer algo assim comigo!"[lr]::
+67179::$$$message_0622_0027_0001$$$::"Sou eu quem não vai te perdoar, idiota...! Eu estaria te espancando se você fosse um cara, sua garota má...!"::
+67180::$$$message_0622_0028_0000$$$::Eu tô feliz em poder ver ela, mas eu tô muito bravo.::
+67181::$$$message_0622_0029_0000$$$::"O-O que!? Eu não fiz nada pra te irritar! Eu fui com a Sakura realizar minha função! Era a melhor decisão que eu podia fazer, então você não tem o direito de reclamar[w l=4][line4]"::
+67182::$$$message_0622_0030_0000$$$::"Cala boca, eu não ligo pra isso...![lr]::
+67183::$$$message_0622_0030_0001$$$::Olha, eu não sei sobre sua função. Eu só vim trazer de volta uma garota má que fugiu egoísticamente.[lr]::
+67184::$$$message_0622_0030_0002$$$::Eu não vou ser enganado, não importa o quanto você blefe e finja que está bem. Enquanto você não quiser estar aqui, eu vou trazer você pra casa...!"::
+67185::$$$message_0622_0031_0000$$$::"Quê[w l=4][line4] Q-Quem tá blefando!? Eu não estou odiando. Esse corpo foi feito para ser o Santo Graal. Eu não gosto de virar a chave para eles, mas se eu puder usar o poder do Santo Graal, a Sakura vai..."::
+67186::$$$message_0622_0032_0000$$$::"Isso é chamado de blefe, sua idiota![lr]::
+67187::$$$message_0622_0032_0001$$$::......Olha, eu não ligo pro Santo Graal. Illya é a Illya. Se você quiser ficar como você mesma, só ignora tudo isso. Não sacrifica sua vida por outra pessoa...!"::
+67188::$$$message_0622_0033_0000$$$::"[w l=8][line8]"[lr]::
+67189::$$$message_0622_0033_0001$$$::Ela desvia o olhar.[lr]::
+67190::$$$message_0622_0033_0002$$$::Ela morde seu lábio e...[lr]::
+67191::$$$message_0622_0033_0003$$$::"Isso vale pra você também, Shirou[w l=7][line7]"[lr]::
+67192::$$$message_0622_0033_0004$$$::...Murmura algo que eu não consigo ouvir.::
+67193::$$$message_0622_0034_0000$$$::"...Tudo bem. Vamos dizer que eu não goste disso. E daí? Nós não podemos derrotar a Sakura nem conseguimos fugir dela.[lr]::
+67194::$$$message_0622_0034_0001$$$::É impossível me tirar do castelo. É por isso que o Zouken está me deixando andar livremente.[lr]::
+67195::$$$message_0622_0034_0002$$$::Ele vai te ignorar por agora, mas você não vai conseguir sair da floresta se você estiver comigo."::
+67196::$$$message_0622_0035_0000$$$::Seus olhos vermelhos me rejeitando, falando para eu voltar.[lr]::
+67197::$$$message_0622_0035_0001$$$::Eu[w l=4][line4][lr]::
 

@@ -1,30 +1,30 @@
 DAT
 id=qid::label=str::text=lstr::
-11990::$$$message_0119_0000_0000$$$::"...Ungh!"[lr]::
-11991::$$$message_0119_0000_0001$$$::There's no time for me to hesitate.[lr]::
-11992::$$$message_0119_0000_0002$$$::I can't possibly fight like this, so I need to be careful until I've recovered.::
-11993::$$$message_0119_0001_0000$$$::"Hmph...there!"[lr]::
-11994::$$$message_0119_0001_0001$$$::I put my wrists together to make it look like I'm tied up.::
-11995::$$$message_0119_0002_0000$$$::"Guh...!"[lr]::
-11996::$$$message_0119_0002_0001$$$::The door opens.[lr]::
-11997::$$$message_0119_0002_0002$$$::Could it be Illya? Or someone else from the castle?[lr]::
-11998::$$$message_0119_0002_0003$$$::I just need to remain sitting here, looking like I'm bound up, right up to the very last moment when the person comes into the room and[line2]::
-11999::$$$message_0119_0003_0000$$$::"Are you all right, Shirou!?"[lr]::
-12000::$$$message_0119_0003_0001$$$::[font italic=true]...[font italic=false][lr]::
-12001::$$$message_0119_0003_0002$$$::My eyes widen.[lr]::
-12002::$$$message_0119_0003_0003$$$::For a moment, I genuinely think I'm just hallucinating out of sheer, desperate hope.::
-12003::$$$message_0119_0004_0000$$$::"I see you are tied up.[lr]::
-12004::$$$message_0119_0004_0001$$$::I will untie you, so please stay[line2]"[lr]::
-12005::$$$message_0119_0004_0002$$$::"Oh, uh...the ropes are loose."[lr]::
-12006::$$$message_0119_0004_0003$$$::I bring my hands out front.::
-12007::$$$message_0119_0005_0000$$$::"I do not understand. Were you not held captive here?"::
-12008::$$$message_0119_0006_0000$$$::"Well, uh...I kind of got free, and then I heard someone coming as I was trying to get away, so I pretended to still be tied up."::
-12009::$$$message_0119_0007_0000$$$::"I see. You were trying to trick your enemy into lowering their guard to give yourself the best possible chance of escape."[lr]::
-12010::$$$message_0119_0007_0001$$$::Saber looks impressed.[lr]::
-12011::$$$message_0119_0007_0002$$$::I am...not going to tell her that I hadn't managed to think any farther than that.::
-12012::$$$message_0119_0008_0000$$$::"By the way...you're Saber, right!? You're not some illusion. You're the REAL Saber?"[lr]::
-12013::$$$message_0119_0008_0001$$$::I stand up and touch Saber.::
-12014::$$$message_0119_0009_0000$$$::"Oh!? S-Shirou, please stop. If you touch me like that..."[lr]::
-12015::$$$message_0119_0009_0001$$$::"Yep, you're real...b-but how did you get here!?"::
-12016::$$$message_0119_0010_0000$$$::"Wh-why? I should hardly need to tell you. Servants need not explain their need to protect their Masters. It is my duty to come to your aid, knowing you have been captured."::
-12017::$$$message_0119_0011_0000$$$::"Uh...well... But how did you know I got captured? Or actually, why are you here, Saber? This is Illya's hideout. You shouldn't be coming anywhere near here right now."�'�
+11990::$$$message_0119_0000_0000$$$::"[line2]!"[lr]::
+11991::$$$message_0119_0000_0001$$$::Eu não tenho tempo para ficar pensando.[lr]::
+11992::$$$message_0119_0000_0002$$$::Não tenho chance de vencer com o meu corpo nesse estado, então eu deveria evitar de lutar até que me recuperar...!::
+11993::$$$message_0119_0001_0000$$$::"Certo...!"[lr]::
+11994::$$$message_0119_0001_0001$$$::Eu cruzo os braços e finjo que estou amarrado.::
+11995::$$$message_0119_0002_0000$$$::"...!"[lr]::
+11996::$$$message_0119_0002_0001$$$::A porta se abre.[lr]::
+11997::$$$message_0119_0002_0002$$$::Será que é a Illya ou outra pessoa de dentro do castelo?[lr]::
+11998::$$$message_0119_0002_0003$$$::Enfim, logo antes dessa pessoa entrar no quarto, eu dou um jeito de sentar na cadeira e colocar os braços atrás das costas[line2]::
+11999::$$$message_0119_0003_0000$$$::"[line2]Você está bem, Shirou...!?"[lr]::
+12000::$$$message_0119_0003_0001$$$::"[line3]"[lr]::
+12001::$$$message_0119_0003_0002$$$::Eu estou chocado.[lr]::
+12002::$$$message_0119_0003_0003$$$::Eu me pergunto se isso não passa de uma ilusão aconchegante.::
+12003::$$$message_0119_0004_0000$$$::"Vejo que eles te amarraram.[lr]::
+12004::$$$message_0119_0004_0001$$$::Eu já vou te soltar, então[line2]"[lr]::
+12005::$$$message_0119_0004_0002$$$::"Ah, não. A corda não está amarrada..."[lr]::
+12006::$$$message_0119_0004_0003$$$::Eu tiro os braços das minhas costas e mostro para ela.::
+12007::$$$message_0119_0005_0000$$$::"...Eu não entendi. Você não estava sendo mantido em cativeiro aqui...?"::
+12008::$$$message_0119_0006_0000$$$::"...Bem, é que... eu dei um jeito de me soltar e estava prestes a fugir. Mas alguém veio até aqui, então eu fingi que ainda estava preso..."::
+12009::$$$message_0119_0007_0000$$$::"[line2]Entendi. Você tentou pegar o seu inimigo desprevenido para aumentar as chances de escapar."[lr]::
+12010::$$$message_0119_0007_0001$$$::A Saber está impressionada.[lr]::
+12011::$$$message_0119_0007_0002$$$::...Bem, é melhor eu não mencionar a parte em que eu não sabia o que fazer depois.::
+12012::$$$message_0119_0008_0000$$$::"Saber, você é mesmo a Saber, não é!? Não é uma ilusão, certo...?"[lr]::
+12013::$$$message_0119_0008_0001$$$::Eu me levanto e toco na Saber.::
+12014::$$$message_0119_0009_0000$$$::"...!! S-Shirou, espera. Se você me tocar assim..."[lr]::
+12015::$$$message_0119_0009_0001$$$::"Sim, você é real[line2]ah, mas por que está aqui?"::
+12016::$$$message_0119_0010_0000$$$::"E-Eu nem preciso te explicar uma coisa dessas. Um Servo não precisa de um motivo para proteger o seu Mestre. É completamente esperado que eu viesse te salvar, já que você foi sequestrado."::
+12017::$$$message_0119_0011_0000$$$::"Ah... bem... mas como você soube que eu fui capturado? Ou melhor, por que você está aqui, Saber? Este é o esconderijo da Illya. Você não deveria chegar nem perto daqui agora."::

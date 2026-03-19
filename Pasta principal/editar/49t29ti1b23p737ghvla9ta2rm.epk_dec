@@ -1,44 +1,44 @@
 DAT
 id=qid::label=str::text=lstr::
-31202::$$$message_0250_0000_0000$$$::   That's the best choice we have.[lr]::
-31203::$$$message_0250_0000_0001$$$::If Shinji's Servant set up the Bounded Field, I just need to call for Saber...!::
-31204::$$$message_0250_0001_0000$$$::"Tohsaka, I'm calling for Saber...! Teach me how to use the Command Spell."[lr]::
-31205::$$$message_0250_0001_0001$$$::"Huh... H-hold on. If you're calling for Saber, I'll also[line2]"::
-31206::$$$message_0250_0002_0000$$$::"You used yours yesterday. So it's my turn now.[lr]::
-31207::$$$message_0250_0002_0001$$$::You can call Archer if calling Saber isn't enough! So, how do I use it!?"::
-31208::$$$message_0250_0003_0000$$$::"...Concentrate on your left hand. You should close your eyes.[lr]::
-31209::$$$message_0250_0003_0001$$$::Imagine the shape of your Command Spell in your head and release it. Give a command while you release it."::
-31210::$$$message_0250_0004_0000$$$::I close my eyes.[lr]::
-31211::$$$message_0250_0004_0001$$$::I can't take my time.[lr]::
-31212::$$$message_0250_0004_0002$$$::So I clear my thoughts as much as possible, [lr]::
-31213::$$$message_0250_0004_0003$$$::concentrate on my second Command Spell...[lr]::
-31214::$$$message_0250_0004_0004$$$::"...I'm counting on you. Come, Saber!!!"[lr]::
-31215::$$$message_0250_0004_0005$$$::and release the second mark.::
-31216::$$$message_0250_0005_0000$$$::"Agh..."[lr]::
-31217::$$$message_0250_0005_0001$$$::The back of my left hand burns.[lr]::
-31218::$$$message_0250_0005_0002$$$::Simultaneously, a sudden mass forms. A knight in silver emerges from a space distortion next to me.::
+31202::$$$message_0250_0000_0000$$$::[line3]Essa é a melhor opção que a gente tem.[lr]::
+31203::$$$message_0250_0000_0001$$$::Se o servo do Shinji criou esse campo de separação, a gente só precisa chamar a Saber[line3]!::
+31204::$$$message_0250_0001_0000$$$::"Tohsaka, eu vou chamar a Saber...! Me ensina a usar um selo de comando."[lr]::
+31205::$$$message_0250_0001_0001$$$::"Eh[line3]e-espera, se você vai chamar a Saber, eu também [r]vou[line4]"::
+31206::$$$message_0250_0002_0000$$$::"Você usou seu selo de comando ontem. Então é minha vez hoje.[lr]::
+31207::$$$message_0250_0002_0001$$$::A gente pode chamar o Archer se a Saber não conseguir lidar com a situação sozinha! Então, como eu uso o selo de comando!?"::
+31208::$$$message_0250_0003_0000$$$::"...Concentra na sua mão esquerda. É melhor se você fechar seus olhos.[lr]::
+31209::$$$message_0250_0003_0001$$$::Imagina o formato do seu selo de comando e solta ele. Dá uma ordem enquanto você solta ele, obviamente."::
+31210::$$$message_0250_0004_0000$$$::Eu fecho meus olhos.[lr]::
+31211::$$$message_0250_0004_0001$$$::Eu não consigo gastar muito tempo.[lr]::
+31212::$$$message_0250_0004_0002$$$::Eu elimino quaisquer pensamentos na minha cabeça o mais rápido possível,[lr]::
+31213::$$$message_0250_0004_0003$$$::concentrando no meu segundo selo de comando.[lr]::
+31214::$$$message_0250_0004_0004$$$::"[line4]Por favor. Vem, Saber[line4]!!!!"[lr]::
+31215::$$$message_0250_0004_0005$$$::...E eu solto o selo de comando sem hesitar.::
+31216::$$$message_0250_0005_0000$$$::"[line4]!"[lr]::
+31217::$$$message_0250_0005_0001$$$::Minha mão queima.[lr]::
+31218::$$$message_0250_0005_0002$$$::Ao mesmo tempo, eu sinto um peso não natural bem do meu lado[line3]e um cavaleiro em prata emerge do pesado "abismo".::
 31219::$$$message_0250_0006_0000$$$::"Saber...!"[lr]::
-31220::$$$message_0250_0006_0001$$$::"I have come in response to your summons. [lr]::
-31221::$$$message_0250_0006_0002$$$::What is the situation, Master...? It is grave enough for you to use your Command Spell?"::
-31222::$$$message_0250_0007_0000$$$::"...It's just as it looks. The Servant set up a Bounded Field.[lr]::
-31223::$$$message_0250_0007_0001$$$::I want to eliminate her as soon as possible."[lr]::
-31224::$$$message_0250_0007_0002$$$::"Understood. I certainly feel the presence of the Servant on this floor."::
-31225::$$$message_0250_0008_0000$$$::"This floor...!? The Servant's on the fourth floor!?"[lr]::
-31226::$$$message_0250_0008_0001$$$::"There is no doubt. What about it, Rin?"::
-31227::$$$message_0250_0009_0000$$$::"Huh... No, I'm sure that's the case if you say so, but I'm confused. I can feel the origin of the Bounded Field on the first floor. I'm sure your ability to detect Servants is superior to mine, but I'm pretty good at detecting traces of magecraft at least."::
-31228::$$$message_0250_0010_0000$$$::"Huh...? Are you saying that the Servant is on this floor even though they set up the field on the first floor, Tohsaka?"[lr]::
-31229::$$$message_0250_0010_0001$$$::"Uh... I can't say for sure, but that's what I feel.[lr]::
-31230::$$$message_0250_0010_0002$$$::I'm positive the field's source is on the first floor."::
-31231::$$$message_0250_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
-31232::$$$message_0250_0011_0001$$$::So we have to choose between the two, huh?[lr]::
-31233::$$$message_0250_0011_0002$$$::If Shinji placed the Servant on this floor, then one must definitely be a trap.[lr]::
-31234::$$$message_0250_0011_0003$$$::If we make the wrong choice, we will be sacrificing everybody in this school...::
-31235::$$$message_0250_0012_0000$$$::"Rin. What happened to Archer? If he were here, then we could make a more accurate analysis."[lr]::
-31236::$$$message_0250_0012_0001$$$::"He's not answering me! This Bounded Field has completely cut us off from the rest of the world. I have no other choice but to use my Command Spell or wait for him to sense our situation and come."::
-31237::$$$message_0250_0013_0000$$$::[font italic=true]...[font italic=false][lr]::
-31238::$$$message_0250_0013_0001$$$::Tohsaka and Saber glare at each other.[lr]::
-31239::$$$message_0250_0013_0002$$$::This isn't the place for it, though.[lr]::
-31240::$$$message_0250_0013_0003$$$::...Think.[lr]::
-31241::$$$message_0250_0013_0004$$$::Tohsaka has lost her composure.[lr]::
-31242::$$$message_0250_0013_0005$$$::The best thing we can do right now is...::
+31220::$$$message_0250_0006_0001$$$::"Eu vim em resposta ao seu chamado.[lr]::
+31221::$$$message_0250_0006_0002$$$::Qual é a situação, mestre...? É grave o suficiente para você usar seu selo de comando, certo?"::
+31222::$$$message_0250_0007_0000$$$::"[line3]É exatamente como parece. Um servo ativou esse campo de separação.[lr]::
+31223::$$$message_0250_0007_0001$$$::Eu quero remover esse campo de separação o mais rápido possível."[lr]::
+31224::$$$message_0250_0007_0002$$$::"Eu entendo. Eu certamente sinto a presença de um servo nesse andar."::
+31225::$$$message_0250_0008_0000$$$::"Nesse andar...!? O servo no quarto andar!?"[lr]::
+31226::$$$message_0250_0008_0001$$$::"Eu tenho certeza. ...Qual o problema, Rin?"::
+31227::$$$message_0250_0009_0000$$$::"Huh[line3]não, eu tenho certeza que esse é o caso se você diz, mas isso é muito estranho. Eu consigo sentir que a origem do campo de separação é no primeiro andar. Eu tenho certeza que sua habilidade de detectar um servo é superior a minha, mas minha habilidade de detectar taumaturgia é boa também."::
+31228::$$$message_0250_0010_0000$$$::"...? Então você está dizendo que o servo está neste andar mesmo o campo de separação estando preparado no primeiro andar?"[lr]::
+31229::$$$message_0250_0010_0001$$$::"Uh... Eu não posso dizer com certeza, mas é isso que eu sinto.[lr]::
+31230::$$$message_0250_0010_0002$$$::A origem do campo de separação tem que ser no primeiro andar."::
+31231::$$$message_0250_0011_0000$$$::"[line8]"[lr]::
+31232::$$$message_0250_0011_0001$$$::Então tem duas alternativas, huh?[lr]::
+31233::$$$message_0250_0011_0002$$$::Se o Shinji preparou pro servo dele vir pra esse andar, um tem que ser uma armadilha.[lr]::
+31234::$$$message_0250_0011_0003$$$::Todo mundo nessa escola vai pagar o preço se nós fizermos a escolha errada[line4]::
+31235::$$$message_0250_0012_0000$$$::"Rin. Onde está o Archer? Nós podemos fazer uma análise melhor se ele estiver aqui."[lr]::
+31236::$$$message_0250_0012_0001$$$::"Ele não tá me respondendo! Esse campo de separação nos cortou totalmente do mundo exterior. Eu tenho que usar meu selo de comando ou a gente vai ter que esperar até ele detectar isso e vir aqui."::
+31237::$$$message_0250_0013_0000$$$::"[line8]"[lr]::
+31238::$$$message_0250_0013_0001$$$::A Tohsaka e a Saber olham severamente uma para outra.[lr]::
+31239::$$$message_0250_0013_0002$$$::Mas agora não é a hora de fazer isso.[lr]::
+31240::$$$message_0250_0013_0003$$$::...Pensa.[lr]::
+31241::$$$message_0250_0013_0004$$$::A Tohsaka não tem a postura calma dela.[lr]::
+31242::$$$message_0250_0013_0005$$$::A melhor coisa que a gente pode fazer agora é[line4]::
 

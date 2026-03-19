@@ -1,29 +1,29 @@
 DAT
 id=qid::label=str::text=lstr::
-40041::$$$message_0343_0000_0000$$$::I run in a hurry.[lr]::
-40042::$$$message_0343_0000_0001$$$::I hear another set of footsteps.[lr]::
-40043::$$$message_0343_0000_0002$$$::Saber is following behind me.::
-40044::$$$message_0343_0001_0000$$$::"You're late. You have some nerve making a girl wait."[lr]::
-40045::$$$message_0343_0001_0001$$$::I don't have any nerve.[lr]::
-40046::$$$message_0343_0001_0002$$$::It seems it's already been decided that we're going on a date without my consultation.::
-40047::$$$message_0343_0002_0000$$$::"Wait, hold on...! Why are we going out!?"[lr]::
-40048::$$$message_0343_0002_0001$$$::Because I feel like it. You don't mind right? It's not like we're doing anything during the day. I won't let you run away now.::
-40049::$$$message_0343_0003_0000$$$::"Er... Well, I don't mind, but... Yeah, what about Archer!? He must be against something like this!"::
-40050::$$$message_0343_0004_0000$$$::"I left Archer. I bet he's sleeping at my house right now."::
-40051::$$$message_0343_0005_0000$$$::[font italic=true]...[font italic=false][lr]::
-40052::$$$message_0343_0005_0001$$$::...I can't win.[lr]::
-40053::$$$message_0343_0005_0002$$$::I can't talk down Tohsaka on my own.[lr]::
-40054::$$$message_0343_0005_0003$$$::If anyone can stop her, um...::
-40055::$$$message_0343_0006_0000$$$::"That's right, Saber! What about Saber?"[lr]::
-40056::$$$message_0343_0006_0001$$$::"Saber is fine, she can accompany us." [lr]::
-40057::$$$message_0343_0006_0002$$$::Defeated.[lr]::
-40058::$$$message_0343_0006_0003$$$::All my cards are trumped with just one sentence.::
-40059::$$$message_0343_0007_0000$$$::"Have you accepted it now? Then let's hurry. We're going to forget our duties as Masters and have fun."[lr]::
-40060::$$$message_0343_0007_0001$$$::"Huh... Hey, wait I said, idiot...!"[lr]::
-40061::$$$message_0343_0007_0002$$$::There's no time to be confused.[lr]::
-40062::$$$message_0343_0007_0003$$$::Tohsaka grabs my hand and runs out the door.::
-40063::$$$message_0343_0008_0000$$$::"Ugh...!"[lr]::
-40064::$$$message_0343_0008_0001$$$::...It seems like I have no choice but to give up.[lr]::
-40065::$$$message_0343_0008_0002$$$::Tohsaka seems so energetic that I don't think I can compete with her, and I know she'll just argue me down even if I protest. And I don't know why, but Saber is following us without a complaint.[lr]::
-40066::$$$message_0343_0008_0003$$$::...And well, besides...[lr]::
-40067::$$$message_0343_0008_0004$$$::See. It's a really nice day out today.:d�
+40041::$$$message_0343_0000_0000$$$::Eu saio correndo.[lr]::
+40042::$$$message_0343_0000_0001$$$::Eu consigo ouvir alguns passos atrás de mim.[lr]::
+40043::$$$message_0343_0000_0002$$$::A Saber está me seguindo.::
+40044::$$$message_0343_0001_0000$$$::"Está atrasado! Você tem muita coragem para fazer uma garota esperar."[lr]::
+40045::$$$message_0343_0001_0001$$$::Ei, eu não sou tão relaxado assim![lr]::
+40046::$$$message_0343_0001_0002$$$::Ela simplesmente decidiu que nós vamos ter um encontro sem perguntar a minha opinião.::
+40047::$$$message_0343_0002_0000$$$::"Espera aí, calma...! Por que nós estamos saindo para nos divertir!?"[lr]::
+40048::$$$message_0343_0002_0001$$$::"Por que eu estou com vontade. Você não se importa, não é? Nós não estamos fazendo nada na parte do dia mesmo. Eu não vou te deixar fugir agora."::
+40049::$$$message_0343_0003_0000$$$::"[line3]Eu não me importo, mas[line3]é mesmo, e quanto ao Archer!? Tenho certeza que ele vai ser contra!"::
+40050::$$$message_0343_0004_0000$$$::"Eu deixei o Archer sozinho. A essa hora, ele deve estar dormindo lá em casa."::
+40051::$$$message_0343_0005_0000$$$::"[line8]"[lr]::
+40052::$$$message_0343_0005_0001$$$::...Eu não tenho como vencê-la.[lr]::
+40053::$$$message_0343_0005_0002$$$::Não vou conseguir fazer a Tohsaka mudar de ideia sem ajuda.[lr]::
+40054::$$$message_0343_0005_0003$$$::Se existe alguém que pode impedi-la, essa pessoa é[line4]::
+40055::$$$message_0343_0006_0000$$$::"É mesmo, a Saber! E quanto à Saber!?"[lr]::
+40056::$$$message_0343_0006_0001$$$::"A Saber pode vir com a gente."[lr]::
+40057::$$$message_0343_0006_0002$$$::Fui derrotado.[lr]::
+40058::$$$message_0343_0006_0003$$$::As minhas últimas esperanças foram destruídas com apenas uma frase.::
+40059::$$$message_0343_0007_0000$$$::"Já acabou? Então anda logo. Vamos esquecer que somos Mestres e nos divertir até dizer chega."[lr]::
+40060::$$$message_0343_0007_0001$$$::"Hã[line3]espera, sua idiota...!"[lr]::
+40061::$$$message_0343_0007_0002$$$::Eu não tive tempo nem para ficar confuso.[lr]::
+40062::$$$message_0343_0007_0003$$$::A Tohsaka segura a minha mão e me arrasta para fora de casa.::
+40063::$$$message_0343_0008_0000$$$::"[line3].........!"[lr]::
+40064::$$$message_0343_0008_0001$$$::...Parece que eu não tenho escolha.[lr]::
+40065::$$$message_0343_0008_0002$$$::Ela está tão animada que não vou conseguir fazê-la mudar de ideia. Mesmo se eu discutisse com a Tohsaka, tenho certeza de que ela me venceria em qualquer argumento. Além do mais, por algum motivo a Saber está nos seguindo sem reclamar de nada.[lr]::
+40066::$$$message_0343_0008_0003$$$::...Enfim, que seja.[lr]::
+40067::$$$message_0343_0008_0004$$$::See. It's a really nice day out today.:d�

@@ -1,105 +1,105 @@
 DAT
 id=qid::label=str::text=lstr::
-55672::$$$message_0494_0000_0000$$$::[font italic=true]...[font italic=false][lr]::
-55673::$$$message_0494_0000_0001$$$::I wait for Tohsaka by the school gate.[lr]::
-55674::$$$message_0494_0000_0002$$$::The sky is all gray, and it looks like it's about to rain.[lr]::
-55675::$$$message_0494_0000_0003$$$::Not to mention this chilly wind. It's going to be a cold night if there's wind.::
-55676::$$$message_0494_0001_0000$$$::"What're you thinking about?"[lr]::
-55677::$$$message_0494_0001_0001$$$::   I return to reality.[lr]::
-55678::$$$message_0494_0001_0002$$$::Tohsaka's here.[lr]::
-55679::$$$message_0494_0001_0003$$$::Her shoulders are slightly heaving, like she ran here.::
-55680::$$$message_0494_0002_0000$$$::"I was just thinking it's gonna rain."[lr]::
-55681::$$$message_0494_0002_0001$$$::"Yeah. Looks like it'll just be a drizzle. We need to patrol tonight, so I hope it doesn't come down too hard."::
+55672::$$$message_0494_0000_0000$$$::"[w l=8][line8]"[lr]::
+55673::$$$message_0494_0000_0001$$$::Eu fico esperando pela Tohsaka no portão da frente.[lr]::
+55674::$$$message_0494_0000_0002$$$::O céu está cinza, parece que vai chover a qualquer minuto.[lr]::
+55675::$$$message_0494_0000_0003$$$::O vento está gelado. Essa vai ser uma noite fria se chover.::
+55676::$$$message_0494_0001_0000$$$::"No que você está pensando?"[lr]::
+55677::$$$message_0494_0001_0001$$$::[w l=3][line3]E então.[lr]::
+55678::$$$message_0494_0001_0002$$$::Quando eu me dou conta, a Tohsaka aparece na minha frente.[lr]::
+55679::$$$message_0494_0001_0003$$$::Ela deve ter vindo até aqui correndo, já que está mexendo os ombros para cima e para baixo.::
+55680::$$$message_0494_0002_0000$$$::"Nada demais. Só estava pensando que talvez vá chover mais tarde."[lr]::
+55681::$$$message_0494_0002_0001$$$::"Ah, o clima? Acho que só vai chuviscar. Temos que fazer uma patrulha hoje à noite, seria um problema se chovesse muito."::
 55682::$$$message_0494_0003_0000$$$::...Hm.[lr]::
-55683::$$$message_0494_0003_0001$$$::From the sound of that, Tohsaka expects us to go on patrol tonight.[lr]::
-55684::$$$message_0494_0003_0002$$$::I'd like that too, but I should check in on Sakura at home before that.::
-55685::$$$message_0494_0004_0000$$$::"About that, Tohsaka[line2]"[lr]::
-55686::$$$message_0494_0004_0001$$$::"I know. We're allies now, so I'm going to pound some skills into you. We'll make a proper mage out of you yet."::
-55687::$$$message_0494_0005_0000$$$::With a bold declaration, Tohsaka starts down the path home.[lr]::
-55688::$$$message_0494_0005_0001$$$::...Uh oh.[lr]::
-55689::$$$message_0494_0005_0002$$$::If you smile at me like that, how am I supposed to say I need to go home early today...?::
-55690::$$$message_0494_0006_0000$$$::We take the long path up the hill, south of the intersection.[lr]::
-55691::$$$message_0494_0006_0001$$$::We're coming up on the neighborhood with European houses.[lr]::
-55692::$$$message_0494_0006_0002$$$::Tohsaka's house is situated at the top of the hill, much higher than Sakura's.::
-55693::$$$message_0494_0007_0000$$$::"Wow..."[lr]::
-55694::$$$message_0494_0007_0001$$$::So this is the Tohsaka mansion.[lr]::
-55695::$$$message_0494_0007_0002$$$::How do I put it... Sakura's house is big, but this one really grabs the eye with its European feel.::
-55696::$$$message_0494_0008_0000$$$::...It also feels cold and heartless, somehow.[lr]::
-55697::$$$message_0494_0008_0001$$$::The air around the entire top of the hill feels like it rejects visitors.::
-55698::$$$message_0494_0009_0000$$$::"What are you stopping for? This is my house."[lr]::
-55699::$$$message_0494_0009_0001$$$::"Uh... Yeah, I know. I'm just a little overwhelmed."::
-55700::$$$message_0494_0010_0000$$$::"...Yeah. It's different from your place. I'm sure even you, with your dull magical senses, can feel how cold it is."[lr]::
-55701::$$$message_0494_0010_0001$$$::Tohsaka continues walking with a bored tone.::
-55702::$$$message_0494_0011_0000$$$::"Come on, hurry up. I didn't set any traps, so you don't need to hesitate."[lr]::
-55703::$$$message_0494_0011_0001$$$::Tohsaka beckons me in from her front door.::
-55704::$$$message_0494_0012_0000$$$::"...'Hesitating' isn't quite what this place makes me want to do."[lr]::
-55705::$$$message_0494_0012_0001$$$::Grumbling, I steel myself and step through the threshold.::
-55706::$$$message_0494_0013_0000$$$::...It does feel cold, but my mind is elsewhere.[lr]::
-55707::$$$message_0494_0013_0001$$$::She has no idea what a big deal it is for a guy to get invited over to Rin Tohsaka's house.[lr]::
-55708::$$$message_0494_0013_0002$$$::...She wouldn't understand even if I explained. At best, she would just laugh at me.::
-55709::$$$message_0494_0014_0000$$$::    On top of that...::
-55710::$$$message_0494_0015_0000$$$::"W-why are we doing this in your bedroom instead of the parlor!?"::
-55711::$$$message_0494_0016_0000$$$::After showing me the parlor, Tohsaka took me up to her room like it was the most natural thing.::
-55712::$$$message_0494_0017_0000$$$::"Because all my tools are here, obviously.[lr]::
-55713::$$$message_0494_0017_0001$$$::The parlor is for drinking tea, and that's not why you're here."[lr]::
-55714::$$$message_0494_0017_0002$$$::"Ah...oof. Well, yeah, but..."[lr]::
-55715::$$$message_0494_0017_0003$$$::I wish she'd remember that I'm a same-age member of the opposite sex.::
-55716::$$$message_0494_0018_0000$$$::"? Anyway, just sit wherever. I'm going to consecrate you with sage and cards, so tell me now if you can't handle either of those."::
-55717::$$$message_0494_0019_0000$$$::Tohsaka opens a box next to her bed.[lr]::
-55718::$$$message_0494_0019_0001$$$::It's filled with treasures straight out of an adventure movie.::
-55719::$$$message_0494_0020_0000$$$::"Um... Guess I'll have to use Grandmaster Kischur's agate... Oh, I'm out of sage. Go downstairs and grab me two or three sprigs, Archer."[lr]::
-55720::$$$message_0494_0020_0001$$$::"Scarlet sage, right? ...I don't think you need to go to such lengths to identify him."::
-55721::$$$message_0494_0021_0000$$$::"That's my decision. Go rest downstairs after you bring it. We have an alliance now, so you don't need to guard my every step."[lr]::
-55722::$$$message_0494_0021_0001$$$::"You're right. He doesn't have the guts to lay a hand on you. I'll prepare for tonight."::
-55723::$$$message_0494_0022_0000$$$::That must have been Archer.[lr]::
-55724::$$$message_0494_0022_0001$$$::I couldn't sense his enormous magical energy at all. Maybe it's reduced while he's in spirit form.::
-55725::$$$message_0494_0023_0000$$$::"Wow. I didn't even notice he was in the same room."[lr]::
-55726::$$$message_0494_0023_0001$$$::"That's how it is when he's in spirit form. Even if he takes physical form, his energy won't leak out as long as he's in the mansion. Isolating your magical energy from the outside is one of the most basic steps of building an atelier."::
-55727::$$$message_0494_0024_0000$$$::"Huh. Does that go for the Makiri[line2]I mean, the Matous, too?"[lr]::
-55728::$$$message_0494_0024_0001$$$::"Yeah, though they don't need to hide it, so if there's anything they'd need to hide, it isn't the magical energy of the atelier, but of the mage itself."::
-55729::$$$message_0494_0025_0000$$$::"One way or another, I hide his magical energy. I was going to bring Archer to school, but he isn't in top condition right now so I leave him at home during the day."::
-55730::$$$message_0494_0026_0000$$$::Tohsaka rummages around in her treasure chest while making a troubled expression.[lr]::
-55731::$$$message_0494_0026_0001$$$::...It looks like she can't find what she's looking for. Is she actually really disorganized?::
-55732::$$$message_0494_0027_0000$$$::"...Honestly, he should be able to heal his injuries easily, so why won't the wound Saber gave him heal? All I can think of is that they must have some connection... Hey, why can't I find anything in here besides the Grandmaster's jewels? Normally, these wouldn't appear at all, dang it!"::
-55733::$$$message_0494_0028_0000$$$::She literally throws herself into her search.[lr]::
-55734::$$$message_0494_0028_0001$$$::...The chest looks small, but it's apparently deep enough to swallow Tohsaka whole.::
-55735::$$$message_0494_0029_0000$$$::"Haah..."[lr]::
-55736::$$$message_0494_0029_0001$$$::Anyway, there's nothing to grit my teeth for at the moment.[lr]::
-55737::$$$message_0494_0029_0002$$$::At most, I can pray that Tohsaka finds whatever she's looking for. I absently look around the room.::
-55738::$$$message_0494_0030_0000$$$::"...?"[lr]::
-55739::$$$message_0494_0030_0001$$$::And I see...[lr]::
-55740::$$$message_0494_0030_0002$$$::...something incredible.::
-55741::$$$message_0494_0031_0000$$$::   It's a photograph.[lr]::
-55742::$$$message_0494_0031_0001$$$::I find it on a bookshelf no higher than my waist, in the corner of the room.[lr]::
-55743::$$$message_0494_0031_0002$$$::The photo is on top, like it was forgotten there.[lr]::
-55744::$$$message_0494_0031_0003$$$::Dust comes off when I touch it, indicating that it's been here for a while.::
-55745::$$$message_0494_0032_0000$$$::"She doesn't clean...? No, of course not. She just doesn't touch this photo."[lr]::
-55746::$$$message_0494_0032_0001$$$::Maybe Tohsaka doesn't like looking at pictures from her childhood.[lr]::
-55747::$$$message_0494_0032_0002$$$::...But then she wouldn't leave this out here. It's something important that she doesn't want to touch, I guess.::
-55748::$$$message_0494_0033_0000$$$::"...Still, though."[lr]::
-55749::$$$message_0494_0033_0001$$$::People sure do change.[lr]::
-55750::$$$message_0494_0033_0002$$$::In the picture, Tohsaka is five or six years old, and she's, well, totally adorable.::
-55751::$$$message_0494_0034_0000$$$::"...So her hair's always been long. Wait, huh?"[lr]::
-55752::$$$message_0494_0034_0001$$$::In the photo, Tohsaka's wearing the same style she does now.[lr]::
-55753::$$$message_0494_0034_0002$$$::But one difference catches my eye.::
-55754::$$$message_0494_0035_0000$$$::"Thanks for waiting, I'm ready. This is gonna hurt a little, but don't worry[line2]what's wrong, Emiya?"::
-55755::$$$message_0494_0036_0000$$$::"Oh. Tohsaka, this..."[lr]::
-55756::$$$message_0494_0036_0001$$$::I hold out the photo I found.::
-55757::$$$message_0494_0037_0000$$$::"Oh, this is an old picture. I left it in the corner. What about it?"[lr]::
-55758::$$$message_0494_0037_0001$$$::"Um, well...it's nothing, really, but..."::
-55759::$$$message_0494_0038_0000$$$::I hesitate to bring it up, since it doesn't matter.[lr]::
-55760::$$$message_0494_0038_0001$$$::I really don't need to ask her this, but something about it stands out to me.::
-55761::$$$message_0494_0039_0000$$$::"Oh, that. You noticed my ribbons are different."[lr]::
-55762::$$$message_0494_0039_0001$$$::[font italic=true]...[font italic=false][lr]::
-55763::$$$message_0494_0039_0002$$$::I nod.::
-55764::$$$message_0494_0040_0000$$$::"Well, of course they are. We girls have lots of accessories to keep our hair up. Do you think I wouldn't change my favorite ribbon after ten years?"::
-55765::$$$message_0494_0041_0000$$$::Oh.[lr]::
-55766::$$$message_0494_0041_0001$$$::That does make sense, now that she mentions it.[lr]::
-55767::$$$message_0494_0041_0002$$$::What am I getting so hung up on some ribbon for?::
-55768::$$$message_0494_0042_0000$$$::"Just kidding. I wish I could say that, but hair ties are special. Hair is a final trump card for female mages. Bindings are suitable as tools of magecraft, and there aren't a lot of things that can replace them."[lr]::
-55769::$$$message_0494_0042_0001$$$::"Huh. So is your ribbon some kind of magical item?"::
-55770::$$$message_0494_0043_0000$$$::"Yeah. Tying one's hair also means bottling up one's magical energy. The Tohsakas don't have Mystic Eyes, but we can at least store spare magical energy in our hair.[lr]::
-55771::$$$message_0494_0043_0001$$$::So, since I control my body, it's best if I make my own hair ties."::
-55772::$$$message_0494_0044_0000$$$::"That right there is the first ribbon I ever made. It was my favorite, but I had reasons to part with it.[lr]::
-55773::$$$message_0494_0044_0001$$$::...Anyway, that's enough small talk. I'm going to start the consecration, so have a seat in this chair."::
-
+55683::$$$message_0494_0003_0001$$$::Parece que a Tohsaka já tem planos de patrulhar pela cidade hoje à noite.[lr]::
+55684::$$$message_0494_0003_0002$$$::Eu não me importo de ir com ela, mas antes disso gostaria de passar em casa para ver se a Sakura está bem.::
+55685::$$$message_0494_0004_0000$$$::"Tohsaka, sobre isso..."[lr]::
+55686::$$$message_0494_0004_0001$$$::"Eu sei. Eu vou te treinar como a sua aliada, então esteja preparado. Farei você virar um mago de verdade."::
+55687::$$$message_0494_0005_0000$$$::Com essas palavras confiantes, a Tohsaka começa a andar pela rua.[lr]::
+55688::$$$message_0494_0005_0001$$$::...Droga.[lr]::
+55689::$$$message_0494_0005_0002$$$::Eu não consigo tocar no assunto com ela sorrindo desse jeito.::
+55690::$$$message_0494_0006_0000$$$::Nós fazemos a longa caminhada indo pela subida, ao sul da interseção.[lr]::
+55691::$$$message_0494_0006_0001$$$::Essa área residencial está cheia de casas de estilo ocidental.[lr]::
+55692::$$$message_0494_0006_0002$$$::A casa da Tohsaka fica no topo dessa subida, depois da casa da Sakura.::
+55693::$$$message_0494_0007_0000$$$::"Uau[w l=4][line4]"[lr]::
+55694::$$$message_0494_0007_0001$$$::Então essa é a casa da Tohsaka.[lr]::
+55695::$$$message_0494_0007_0002$$$::A casa da Sakura é maior, mas essa se parece mais com uma mansão ocidental.::
+55696::$$$message_0494_0008_0000$$$::...E de certa forma, ela parece fria.[lr]::
+55697::$$$message_0494_0008_0001$$$::Existe um ar ao redor da casa que parece rejeitar qualquer um que se aproxime desse lugar.::
+55698::$$$message_0494_0009_0000$$$::"Por que você parou de repente? A minha casa é por aqui."[lr]::
+55699::$$$message_0494_0009_0001$$$::"S[w l=3][line3]Sim, eu sei. É que eu me senti meio intimidado."::
+55700::$$$message_0494_0010_0000$$$::"...Ah, sim. A minha casa é diferente da sua. Até alguém que não conhece nada sobre energia mágica sente que essa casa passa um ar de frieza."[lr]::
+55701::$$$message_0494_0010_0001$$$::A Tohsaka entra na casa, falando em um tom entediado.::
+55702::$$$message_0494_0011_0000$$$::"Ei, pode vir. Eu não tenho nenhuma armadilha ativada, não precisa ficar com medo."[lr]::
+55703::$$$message_0494_0011_0001$$$::Ela acena para mim da porta da frente.::
+55704::$$$message_0494_0012_0000$$$::"......Não é isso. Não é por causa da atmosfera que eu estou com receio de entrar aí."[lr]::
+55705::$$$message_0494_0012_0001$$$::Depois de dizer isso para mim mesmo, eu junto minha coragem e entro na casa.::
+55706::$$$message_0494_0013_0000$$$::...De fato, esse lugar tem uma atmosfera fria, mas não é com isso que eu estou preocupado.[lr]::
+55707::$$$message_0494_0013_0001$$$::O problema é que ela não faz ideia do que significa para um garoto entrar na casa da Tohsaka Rin.[lr]::
+55708::$$$message_0494_0013_0002$$$::...Bem, tenho certeza que ela não entenderia mesmo se eu tentasse explicar. No máximo, ela iria apenas rir de mim.::
+55709::$$$message_0494_0014_0000$$$::[w l=4][line4]Espera aí.::
+55710::$$$message_0494_0015_0000$$$::"P-Por que nós estamos no seu quarto ao invés da sala!?"::
+55711::$$$message_0494_0016_0000$$$::Sem a menor preocupação, ela me faz passar direto pela sala de estar e entrar no quarto dela.::
+55712::$$$message_0494_0017_0000$$$::"É porque aqui tem mais instrumentos preparados.[lr]::
+55713::$$$message_0494_0017_0001$$$::A sala serve mais para tomar chá, mas nós não viemos aqui para isso, não é mesmo?"[lr]::
+55714::$$$message_0494_0017_0002$$$::"Ah[w l=4][line4]Bem. Você... tem razão, mas..."[lr]::
+55715::$$$message_0494_0017_0003$$$::Hm, gostaria que ela me visse como um garoto da mesma idade.::
+55716::$$$message_0494_0018_0000$$$::"...? Pode se sentar onde quiser. Eu vou usar sálvias e cartas para te consagrar, mas me avise se você se sentir desconfortável."::
+55717::$$$message_0494_0019_0000$$$::A Tohsaka abre a caixa que fica perto da cama dela.[lr]::
+55718::$$$message_0494_0019_0001$$$::Parece um daqueles baús de tesouros de um filme de aventura.::
+55719::$$$message_0494_0020_0000$$$::"Humm... Ágata de Kischur não vai servir para isso. ...Ah, eu estou sem sálvia. Archer, você pode ir lá embaixo e trazer um pouco mais para mim?"[lr]::
+55720::$$$message_0494_0020_0001$$$::"Sálvia escarlate, não é? ...Bem, eu não acho que você precisa ir tão longe para distinguir esse cara."::
+55721::$$$message_0494_0021_0000$$$::"Eu faço o que quiser. Pode ficar lá embaixo descansando depois disso. Eu e ele fizemos um pacto, então você não precisa ficar me protegendo."[lr]::
+55722::$$$message_0494_0021_0001$$$::"[w l=3][line3]É verdade. Duvido que ele tenha coragem de te trair. Eu vou me preparar para hoje à noite."::
+55723::$$$message_0494_0022_0000$$$::Esse deve ser o Archer.[lr]::
+55724::$$$message_0494_0022_0001$$$::A sua presença deve ser mínima na forma espiritual. Eu não senti muita energia mágica vindo dele.::
+55725::$$$message_0494_0023_0000$$$::"...Eu estou surpreso. Não tinha percebido que o Archer estava aqui no quarto."[lr]::
+55726::$$$message_0494_0023_0001$$$::"Ele fica assim quando está na forma espiritual. Mesmo se o Archer tomar forma física, a energia mágica dele não vai vazar para fora de casa se ele permanecer aqui dentro. É fundamental que a oficina de um mago consiga esconder a sua energia mágica."::
+55727::$$$message_0494_0024_0000$$$::"Ah. Então na casa da família Makiri... ou melhor, da família Matou, também funciona assim?"[lr]::
+55728::$$$message_0494_0024_0001$$$::"Isso mesmo. Mas aquele lugar já não precisa mais esconder energia mágica. Se eles estão escondendo alguma energia mágica, seria a energia vazando do mago em si, e não da casa."::
+55729::$$$message_0494_0025_0000$$$::"Bem, de qualquer forma, não é difícil esconder a energia mágica. Eu levaria o Archer comigo para a escola também, mas já que não está totalmente recuperado, estou deixando ele descansar."::
+55730::$$$message_0494_0026_0000$$$::A Tohsaka vasculha o baú enquanto faz uma cara preocupada.[lr]::
+55731::$$$message_0494_0026_0001$$$::...Parece que ela não está conseguindo achar o que está procurando. Será que ela é do tipo que não mantém as suas coisas organizadas?::
+55732::$$$message_0494_0027_0000$$$::"...Fala sério, porque o ferimento que ele recebeu da Saber não se cura igual aos outros? Tenho certeza que eles tinham algum tipo de conexão... Droga, por que eu fui encontrar a joia do meu mestre logo agora? Eu nunca consigo achá-la quando estou precisando, maldição!"::
+55733::$$$message_0494_0028_0000$$$::Ela se inclina e continua vasculhando o baú.[lr]::
+55734::$$$message_0494_0028_0001$$$::...Aquele baú parece pequeno, mas parece ser grande o suficiente para caber a Tohsaka dentro.::
+55735::$$$message_0494_0029_0000$$$::"[w l=4][line4]Cara."[lr]::
+55736::$$$message_0494_0029_0001$$$::Estou sem nada para fazer.[lr]::
+55737::$$$message_0494_0029_0002$$$::Não tenho outra escolha a não ser rezar para que ela consiga achar o que está procurando, ou então ficar olhando sem rumo pelo quarto dela[w l=4][line4]::
+55738::$$$message_0494_0030_0000$$$::"......?"[lr]::
+55739::$$$message_0494_0030_0001$$$::E então.[lr]::
+55740::$$$message_0494_0030_0002$$$::Eu vejo uma coisa.::
+55741::$$$message_0494_0031_0000$$$::[w l=3][line3]É uma fotografia.[lr]::
+55742::$$$message_0494_0031_0001$$$::Há uma estante de livros no canto do quarto que chega até na minha cintura.[lr]::
+55743::$$$message_0494_0031_0002$$$::Nela está uma foto que parece ter sido esquecida.[lr]::
+55744::$$$message_0494_0031_0003$$$::Cai poeira quando eu a pego, e consigo ver que ela esteve abandonada ali por muito tempo.::
+55745::$$$message_0494_0032_0000$$$::"...Não é como se a Tohsaka nunca limpasse. Parece que ela nunca tocou nessa fotografia."[lr]::
+55746::$$$message_0494_0032_0001$$$::Será que ela não gosta de se ver quando era criança?[lr]::
+55747::$$$message_0494_0032_0002$$$::...Não, se fosse isso, a Tohsaka iria deixar essa fotografia guardada. Talvez a foto seja importante para ela, mas não quer tocá-la...::
+55748::$$$message_0494_0033_0000$$$::"......Mesmo assim..."[lr]::
+55749::$$$message_0494_0033_0001$$$::Como as pessoas mudam.[lr]::
+55750::$$$message_0494_0033_0002$$$::A Tohsaka parece ter cinco ou seis anos nessa foto, e ela está bem bonitinha.::
+55751::$$$message_0494_0034_0000$$$::"...Então ela também tinha cabelo comprido naquela época... Hã?"[lr]::
+55752::$$$message_0494_0034_0001$$$::A menina nessa foto parece igual a ela, só que mais nova.[lr]::
+55753::$$$message_0494_0034_0002$$$::Por conta disso, eu percebo a única coisa que está diferente.::
+55754::$$$message_0494_0035_0000$$$::"Obrigada por esperar, já estou pronta. Isso vai doer um pouco, mas não precisa ficar preocupado... Hã, o que foi, Emiya-kun?"::
+55755::$$$message_0494_0036_0000$$$::"Ah. Isso aqui, Tohsaka."[lr]::
+55756::$$$message_0494_0036_0001$$$::Eu mostro a ela a foto que encontrei.::
+55757::$$$message_0494_0037_0000$$$::"Ah, essa é uma foto antiga. Eu sempre deixo ela no canto do quarto, tem algo errado com ela?"[lr]::
+55758::$$$message_0494_0037_0001$$$::"Hã? Bem, não tem nada de errado, mas..."::
+55759::$$$message_0494_0038_0000$$$::Não é nada muito importante, então eu fico indeciso se deveria tocar no assunto ou não.[lr]::
+55760::$$$message_0494_0038_0001$$$::Eu não precisava perguntar sobre isso, mas é algo que chamou a minha atenção.::
+55761::$$$message_0494_0039_0000$$$::"Ah, já entendi. Você quer saber porque eu estou usando uma fita diferente no cabelo, não é?"[lr]::
+55762::$$$message_0494_0039_0001$$$::"[w l=8][line8]"[lr]::
+55763::$$$message_0494_0039_0002$$$::Eu aceno com a cabeça.::
+55764::$$$message_0494_0040_0000$$$::"Isso é simples. Eu sou uma garota, tenho várias fitas. Por mais que essa seja a minha favorita, acha que eu usaria a mesma fita por mais de dez anos?"::
+55765::$$$message_0494_0041_0000$$$::Ah.[lr]::
+55766::$$$message_0494_0041_0001$$$::Ela tem razão.[lr]::
+55767::$$$message_0494_0041_0002$$$::Era só uma fita qualquer. Por que eu fiquei tão curioso sobre ela?::
+55768::$$$message_0494_0042_0000$$$::"Estou brincando. Era isso o que eu queria dizer, mas fitas são especiais. É o último recurso para um mago. É um item mágico conveniente, portanto não há substitutos para ele."[lr]::
+55769::$$$message_0494_0042_0001$$$::"...Uau. Então aquela fita é uma espécie de item mágico?"::
+55770::$$$message_0494_0043_0000$$$::"Sim. Prender o cabelo é uma maneira de manter a energia mágica no lugar. Já que a minha família não possui olhos místicos, nós precisamos pelo menos preservar a nossa reserva de energia mágica do cabelo.[lr]::
+55771::$$$message_0494_0043_0001$$$::Como isso é uma coisa que controla o seu corpo, é melhor que seja feita por você mesmo, não acha?"::
+55772::$$$message_0494_0044_0000$$$::"Aquela foi a primeira fita que eu fiz. Era a minha favorita, mas me separei dela por vários motivos.[lr]::
+55773::$$$message_0494_0044_0001$$$::...Bem, vamos deixar esse assunto de lado. Vou começar a sua consagração, então sente naquela cadeira[w l=3][line3]"::
+

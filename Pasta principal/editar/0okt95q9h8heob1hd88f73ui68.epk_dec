@@ -1,106 +1,106 @@
 DAT
 id=qid::label=str::text=lstr::
-75357::$$$message_0694_0000_0000$$$::I hear the sound of wind.[lr]::
-75358::$$$message_0694_0000_0001$$$::The thing running through the forest and making the trees shake creates a familiar-sounding wind.::
-75359::$$$message_0694_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
-75360::$$$message_0694_0001_0001$$$::The tremors gradually grow stronger.[lr]::
-75361::$$$message_0694_0001_0002$$$::...We're nearing their source.[lr]::
-75362::$$$message_0694_0001_0003$$$::It's probably just beyond this forest.[lr]::
-75363::$$$message_0694_0001_0004$$$::We're almost upon it. Just beyond this dense, overlapping wall of trees, a battle of epic proportions is happening...::
-75364::$$$message_0694_0002_0000$$$::"!"[lr]::
-75365::$$$message_0694_0002_0001$$$::I skid to a halt.[lr]::
-75366::$$$message_0694_0002_0002$$$::Right before I come into a clearing, I stop as fast as I can and hide.::
+75357::$$$message_0694_0000_0000$$$::O barulho de vento.[lr]::
+75358::$$$message_0694_0000_0001$$$::O vento percorrendo a floresta e balançando as árvores é algo que eu já tinha ouvido antes.::
+75359::$$$message_0694_0001_0000$$$::"[w l=8][line8]"[lr]::
+75360::$$$message_0694_0001_0001$$$::Os tremores estão ficando mais intensos.[lr]::
+75361::$$$message_0694_0001_0002$$$::...Estamos chegando perto da fonte.[lr]::
+75362::$$$message_0694_0001_0003$$$::Provavelmente está do outro lado do próximo bosque.[lr]::
+75363::$$$message_0694_0001_0004$$$::A batalha para decidir o mais forte está acontecendo logo atrás daquelas árvores densas[w l=4][line4]::
+75364::$$$message_0694_0002_0000$$$::"...!"[lr]::
+75365::$$$message_0694_0002_0001$$$::Os meus pés param.[lr]::
+75366::$$$message_0694_0002_0002$$$::Um segundo antes de sair na clareira, eu derrapo até parar e me escondo.::
 75367::$$$message_0694_0003_0000$$$::"Berserker...!?"[lr]::
-75368::$$$message_0694_0003_0001$$$::Tohsaka takes cover behind a tree too, and we behold the disastrous spectacle in the clearing.::
-75369::$$$message_0694_0004_0000$$$::   The clearing is literally a battlefield.[lr]::
-75370::$$$message_0694_0004_0001$$$::Three Servants are clashing weapons.[lr]::
-75371::$$$message_0694_0004_0002$$$::One is Berserker, the dark giant.[lr]::
-75372::$$$message_0694_0004_0003$$$::The second is the white skull-masked Assassin.[lr]::
-75373::$$$message_0694_0004_0004$$$::And the third...the third is...::
-75374::$$$message_0694_0005_0000$$$::"...Wait. That's...no way."[lr]::
-75375::$$$message_0694_0005_0001$$$::Tohsaka's voice is shaking.[lr]::
-75376::$$$message_0694_0005_0002$$$::[font italic=true]...[font italic=false][lr]::
-75377::$$$message_0694_0005_0003$$$::...I can't quite hear it.[lr]::
-75378::$$$message_0694_0005_0004$$$::She's whispering right next to me, but the words don't enter my brain.::
-75379::$$$message_0694_0006_0000$$$::The third Servant.[lr]::
-75380::$$$message_0694_0006_0001$$$::It's my first time seeing the third combatant, clad in black plate armor and visor.[lr]::
-75381::$$$message_0694_0006_0002$$$::At the same time...[lr]::
-75382::$$$message_0694_0006_0003$$$::"It...can't be..."[lr]::
-75383::$$$message_0694_0006_0004$$$::...it immediately calls to mind someone I know well.::
-75384::$$$message_0694_0007_0000$$$::"[wacky len=9]!"[lr]::
-75385::$$$message_0694_0007_0001$$$::The dark giant raises a war cry.[lr]::
-75386::$$$message_0694_0007_0002$$$::He cleaves through the air with enough force to split a mountain, making the earth explode.::
-75387::$$$message_0694_0008_0000$$$::[font italic=true]...[font italic=false][lr]::
-75388::$$$message_0694_0008_0001$$$::The third combatant doesn't shy away from the flying rock and gravel.[lr]::
-75389::$$$message_0694_0008_0002$$$::The black-armored Servant breezes past Berserker's greatsword and earthen assault, as if it's the source of this raging wind.::
+75368::$$$message_0694_0003_0001$$$::A Tohsaka também se esconde atrás de uma árvore e observa a cena desastrosa na clareira.::
+75369::$$$message_0694_0004_0000$$$::[w l=3][line3]O lugar virou literalmente um campo de batalha.[lr]::
+75370::$$$message_0694_0004_0001$$$::Há três Servos lutando.[lr]::
+75371::$$$message_0694_0004_0002$$$::Um é o gigante negro, o Berserker.[lr]::
+75372::$$$message_0694_0004_0003$$$::Outro é o assassino usando uma máscara branca de caveira, o Assassin.[lr]::
+75373::$$$message_0694_0004_0004$$$::E o último[w l=4][line4]a última é...::
+75374::$$$message_0694_0005_0000$$$::"...Ei. Aquela é...?"[lr]::
+75375::$$$message_0694_0005_0001$$$::A voz da Tohsaka está trêmula.[lr]::
+75376::$$$message_0694_0005_0002$$$::"[w l=8][line8]"[lr]::
+75377::$$$message_0694_0005_0003$$$::Eu não consigo ouvi-la direito.[lr]::
+75378::$$$message_0694_0005_0004$$$::Apesar dela estar do meu lado, por algum motivo, o seu sussurro não fica registrado na minha memória.::
+75379::$$$message_0694_0006_0000$$$::O terceiro Servo.[lr]::
+75380::$$$message_0694_0006_0001$$$::É a primeira vez que eu vejo essa garota de armadura negra.[lr]::
+75381::$$$message_0694_0006_0002$$$::Mas...[lr]::
+75382::$$$message_0694_0006_0003$$$::"[w l=4][line4]Não é possível..."[lr]::
+75383::$$$message_0694_0006_0004$$$::Ela me lembra alguém que conheço muito bem.::
+75384::$$$message_0694_0007_0000$$$::"[wacky len=9][w l=4][line4]!"[lr]::
+75385::$$$message_0694_0007_0001$$$::O gigante negro ruge.[lr]::
+75386::$$$message_0694_0007_0002$$$::Um ataque poderoso o bastante para partir uma montanha ao meio atravessa o ar, destruindo o chão.::
+75387::$$$message_0694_0008_0000$$$::"[w l=8][line8]"[lr]::
+75388::$$$message_0694_0008_0001$$$::Nem mesmo os destroços voando a fazem recuar.[lr]::
+75389::$$$message_0694_0008_0002$$$::A fonte desse vento furioso deve ser aquela espadachim de armadura preta. A silhueta de preto passa pelos destroços, passa pela espada do Berserker, e ataca o corpo indefeso do gigante.::
 75390::$$$message_0694_0009_0000$$$::"[wacky len=12]"[lr]::
-75391::$$$message_0694_0009_0001$$$::The roars of anguish belong to the giant.[lr]::
-75392::$$$message_0694_0009_0002$$$::He possesses a steel body that renders all attacks ineffective.[lr]::
-75393::$$$message_0694_0009_0003$$$::And the black swordsman easily slices it open.[lr]::
-75394::$$$message_0694_0009_0004$$$::A sword paints Berserker's flank in black, the inky light threatening to swallow him whole.::
-75395::$$$message_0694_0010_0000$$$::"No, Berserker! Run! If that gets you, you won't be able to come back to me! You don't have to fight anymore!"[lr]::
-75396::$$$message_0694_0010_0001$$$::Illya's voice is tearful.::
-75397::$$$message_0694_0011_0000$$$::"It's futile. Now that he's been ensnared, there is no escape."[lr]::
-75398::$$$message_0694_0011_0001$$$::Rather than two versus one, it seems even three opponents is too much for a great hero to overcome."[lr]::
-75399::$$$message_0694_0011_0002$$$::Zouken must be the one cackling.::
-75400::$$$message_0694_0012_0000$$$::The two Masters, Illya and Zouken, face each other from behind the protection of their Servants.::
-75401::$$$message_0694_0013_0000$$$::In front of Zouken is Assassin, who seems to have lost to Berserker.[lr]::
-75402::$$$message_0694_0013_0001$$$::Berserker is in front of Illya. His entire body is being corroded by something black.::
-75403::$$$message_0694_0014_0000$$$::...A dark swamp surrounds his feet.[lr]::
-75404::$$$message_0694_0014_0001$$$::The ground isn't made of earth, but some bottomless pit of mud hampering his movements.[lr]::
-75405::$$$message_0694_0014_0002$$$::On top of that, black vines from the swamp trap his arms and legs.::
-75406::$$$message_0694_0015_0000$$$::...I know those.[lr]::
-75407::$$$message_0694_0015_0001$$$::They definitely belong to the Shadow.[lr]::
-75408::$$$message_0694_0015_0002$$$::But for an instant...[lr]::
-75409::$$$message_0694_0015_0003$$$::"..."[lr]::
-75410::$$$message_0694_0015_0004$$$::I feel like I'm looking at someone I know well.::
-75411::$$$message_0694_0016_0000$$$::"...!"[lr]::
-75412::$$$message_0694_0016_0001$$$::The duel reaches a new pitch, bringing me back to my senses.[lr]::
-75413::$$$message_0694_0016_0002$$$::...It's a desperate situation.[lr]::
-75414::$$$message_0694_0016_0003$$$::Berserker is strong.[lr]::
-75415::$$$message_0694_0016_0004$$$::He's fighting the black swordsman evenly, even as the Shadow tries to swallow him.::
-75416::$$$message_0694_0017_0000$$$::But he's at his limit.[lr]::
-75417::$$$message_0694_0017_0001$$$::The black swordsman easily runs forward and slashes Berserker.[lr]::
-75418::$$$message_0694_0017_0002$$$::Even if he's at least as strong as his opponent, Berserker's freedom of movement is stripped away as the fight drags on.[lr]::
-75419::$$$message_0694_0017_0003$$$::Meaning...[lr]::
-75420::$$$message_0694_0017_0004$$$::That the scales will only tip further in the swordsman's favor with each passing second.::
-75421::$$$message_0694_0018_0000$$$::"Hm. This outcome is clear.[lr]::
-75422::$$$message_0694_0018_0001$$$::Take care of the rest, Assassin. It is too risky for me to remain here any longer. Once it consumes Berserker, capture and bring back the Einzbern girl."[lr]::
-75423::$$$message_0694_0018_0002$$$::Zouken blends into the mist.[lr]::
-75424::$$$message_0694_0018_0003$$$::He's departing the forest, leaving Assassin behind.::
-75425::$$$message_0694_0019_0000$$$::"...Take heed. It consumes everything it sees.[lr]::
-75426::$$$message_0694_0019_0001$$$::Especially any dense sources of magical energy. Be careful not to let the Einzbern girl be taken, too."::
-75427::$$$message_0694_0020_0000$$$::His presence grows faint along with his physical form.[lr]::
-75428::$$$message_0694_0020_0001$$$::Zouken is gone.[lr]::
-75429::$$$message_0694_0020_0002$$$::Only Assassin and Berserker remain,[lr]::
-75430::$$$message_0694_0020_0003$$$::as well as the black swordsman, holding their weapon aloft.::
-75431::$$$message_0694_0021_0000$$$::"No. You'll die too, Berserker. Just run!"[lr]::
-75432::$$$message_0694_0021_0001$$$::Illya whimpers in an emotionless daze.[lr]::
+75391::$$$message_0694_0009_0001$$$::O grito de dor é do gigante.[lr]::
+75392::$$$message_0694_0009_0002$$$::O seu corpo de aço é capaz de anular quase qualquer tipo de ataque.[lr]::
+75393::$$$message_0694_0009_0003$$$::Mas a espadachim de preto o corta como se não fosse nada.[lr]::
+75394::$$$message_0694_0009_0004$$$::A espada pinta um dos lados do gigante de preto, assim como a escuridão consume a luz.::
+75395::$$$message_0694_0010_0000$$$::"Não, fuja, Berserker...! Você não vai conseguir voltar se ela te derrotar...! Você não precisa lutar mais, então rápido...!"[lr]::
+75396::$$$message_0694_0010_0001$$$::A Illya fala como se estivesse chorando.::
+75397::$$$message_0694_0011_0000$$$::"É inútil. Você não pode fugir depois de ser cercado por eles.[lr]::
+75398::$$$message_0694_0011_0001$$$::Talvez se fosse dois contra um, mas até mesmo o maior dos heróis irá perder numa luta de três contra um."[lr]::
+75399::$$$message_0694_0011_0002$$$::O Matou Zouken dá risada.::
+75400::$$$message_0694_0012_0000$$$::Os dois Mestres, Illya e Zouken, se confrontam enquanto os seus Servos ficam diante deles, agindo como seus escudos.::
+75401::$$$message_0694_0013_0000$$$::Na frente do Zouken está o Assassin, que deve ter sido derrotado pelo Berserker.[lr]::
+75402::$$$message_0694_0013_0001$$$::Na frente da Illya está o Berserker, com todo o seu corpo coberto de preto.::
+75403::$$$message_0694_0014_0000$$$::...O chão abaixo dele virou uma poça negra.[lr]::
+75404::$$$message_0694_0014_0001$$$::Não é mais um chão de terra, mas sim um pântano sem fundo, que sela os seus movimentos.[lr]::
+75405::$$$message_0694_0014_0002$$$::Não apenas isso, mas há tentáculos negros saindo desse pântano, restringindo os braços e pernas do gigante.::
+75406::$$$message_0694_0015_0000$$$::...Eu sei o que é aquilo.[lr]::
+75407::$$$message_0694_0015_0001$$$::Aquilo tem que ser a "sombra negra".[lr]::
+75408::$$$message_0694_0015_0002$$$::Mas por um instante...[lr]::
+75409::$$$message_0694_0015_0003$$$::"........."[lr]::
+75410::$$$message_0694_0015_0004$$$::Parece ser algo que eu conheço.::
+75411::$$$message_0694_0016_0000$$$::"[w l=4][line4]!"[lr]::
+75412::$$$message_0694_0016_0001$$$::O barulho ensurdecedor da batalha me traz de volta à realidade.[lr]::
+75413::$$$message_0694_0016_0002$$$::...A situação é desesperadora.[lr]::
+75414::$$$message_0694_0016_0003$$$::O Berserker é forte.[lr]::
+75415::$$$message_0694_0016_0004$$$::Apesar da sombra estar quase o engolindo, ele ainda enfrenta a espadachim.::
+75416::$$$message_0694_0017_0000$$$::Mas ele está no seu limite.[lr]::
+75417::$$$message_0694_0017_0001$$$::A espadachim de preto avança e corta o Berserker.[lr]::
+75418::$$$message_0694_0017_0002$$$::Mesmo que eles estejam igualados em força, os movimentos do Berserker estão sendo restringidos cada vez mais a cada segundo que passa.[lr]::
+75419::$$$message_0694_0017_0003$$$::...Por isso...[lr]::
+75420::$$$message_0694_0017_0004$$$::Quanto mais tempo eles lutarem, maior será a vantagem da espadachim.::
+75421::$$$message_0694_0018_0000$$$::"[w l=4][line4]Hm, a batalha está decidida.[lr]::
+75422::$$$message_0694_0018_0001$$$::Deixo o resto por sua conta, Assassin. Será perigoso para mim continuar aqui. Capture a menina dos Einzbern assim que o Berserker for consumido e volte até mim."[lr]::
+75423::$$$message_0694_0018_0002$$$::A sua silhueta começa a ficar obscura.[lr]::
+75424::$$$message_0694_0018_0003$$$::Ele desaparece na floresta, deixando o Assassin para trás.::
+75425::$$$message_0694_0019_0000$$$::"...Ouça bem. Aquela coisa engole tudo o que vê.[lr]::
+75426::$$$message_0694_0019_0001$$$::Ainda mais se for um amontoado de energia mágica. Certifique-se de não deixar a menina dos Einzbern ser engolida."::
+75427::$$$message_0694_0020_0000$$$::...A sua presença, assim como a sua silhueta, desaparecem.[lr]::
+75428::$$$message_0694_0020_0001$$$::O Zouken foi embora.[lr]::
+75429::$$$message_0694_0020_0002$$$::Os únicos que continuaram aqui foram o Assassin e o Berserker.[lr]::
+75430::$$$message_0694_0020_0003$$$::E a espadachim de preto, levantando a sua espada.::
+75431::$$$message_0694_0021_0000$$$::"[w l=4][line4]Não. Até mesmo você vai morrer, Berserker. Então fuja, Berserker."[lr]::
+75432::$$$message_0694_0021_0001$$$::A Illya murmura numa voz sem emoção.[lr]::
 75433::$$$message_0694_0021_0002$$$::"[wacky len=12]"[lr]::
-75434::$$$message_0694_0021_0003$$$::Did he hear it?[lr]::
-75435::$$$message_0694_0021_0004$$$::The dark giant roars and advances.::
-75436::$$$message_0694_0022_0000$$$::"Wha..."[lr]::
-75437::$$$message_0694_0022_0001$$$::His charge just looks like a tornado to me.[lr]::
+75434::$$$message_0694_0021_0003$$$::O que será que ele entendeu?[lr]::
+75435::$$$message_0694_0021_0004$$$::O gigante avança com um rugido.::
+75436::$$$message_0694_0022_0000$$$::"O q[w l=4][line4]"[lr]::
+75437::$$$message_0694_0022_0001$$$::Ele avança como uma tempestade.[lr]::
 75438::$$$message_0694_0022_0002$$$::"[wacky len=12]"[lr]::
-75439::$$$message_0694_0022_0003$$$::Berserker kicks his way out of the ground, free of the black Shadow that had swallowed him up to the waist, and charges.::
-75440::$$$message_0694_0023_0000$$$::What he's doing is inconceivable.[lr]::
-75441::$$$message_0694_0023_0001$$$::Not only was he being constricted by the mud at his feet. The Shadow also had him entirely bound.[lr]::
-75442::$$$message_0694_0023_0002$$$::He couldn't move.[lr]::
-75443::$$$message_0694_0023_0003$$$::His body was getting eaten by the Shadow, meaning Berserker couldn't take a single step.::
-75444::$$$message_0694_0024_0000$$$::So he decided to tear himself free.[lr]::
-75445::$$$message_0694_0024_0001$$$::With one hand, he grabbed the Shadow that latched to his chest and tore it off with a ripping sound.[lr]::
-75446::$$$message_0694_0024_0002$$$::[line3]He literally tore his body open wherever the Shadow had grabbed him, exposing his innards.::
-75447::$$$message_0694_0025_0000$$$::His massive physique is swift.[lr]::
-75448::$$$message_0694_0025_0001$$$::This time, his attack is sure to crush the black swordsman.[lr]::
-75449::$$$message_0694_0025_0002$$$::This will likely be the last blow.[lr]::
-75450::$$$message_0694_0025_0003$$$::With his body ripped apart and on the verge of death, he'll make absolutely sure to kill his enemy.::
-75451::$$$message_0694_0026_0000$$$::                             And the swordsman answers the assault...[lr]::
-75452::$$$message_0694_0026_0001$$$::                             ...with their greatest attack.::
-75453::$$$message_0694_0027_0000$$$::"No! Stop, Berserker!"[lr]::
-75454::$$$message_0694_0027_0001$$$::Illya runs.[lr]::
-75455::$$$message_0694_0027_0002$$$::She starts running desperately towards Berserker, as if she can't see the spreading Shadow at his feet.::
-75456::$$$message_0694_0027_0003$$$::"Illya...!"[lr]::
-75457::$$$message_0694_0027_0004$$$::Even if I go, there's nothing I can do.[lr]::
-75458::$$$message_0694_0027_0005$$$::I don't have a chance of winning against the Shadow or the swordsman.[lr]::
-75459::$$$message_0694_0027_0006$$$::But still...::
+75439::$$$message_0694_0022_0003$$$::O Berserker avança, chutando a sombra negra que o engoliu até os joelhos.::
+75440::$$$message_0694_0023_0000$$$::É um ato impossível.[lr]::
+75441::$$$message_0694_0023_0001$$$::A lama abaixo dele não é a única coisa que está o prendendo, já que a sombra negra se espalhou por todo o seu corpo.[lr]::
+75442::$$$message_0694_0023_0002$$$::Ele não pode mais avançar.[lr]::
+75443::$$$message_0694_0023_0003$$$::O Berserker não consegue nem dar um passo a frente com o seu corpo preso pela sombra negra.::
+75444::$$$message_0694_0024_0000$$$::Por esse motivo, ele cortou o próprio corpo.[lr]::
+75445::$$$message_0694_0024_0001$$$::Ele pegou o seu peito e arrancou a sombra negra, dando um rugido.[lr]::
+75446::$$$message_0694_0024_0002$$$::[w l=3][line3]Ele arrancou sua própria carne junto com a sombra, chegando ao ponto de expor os seus ossos.::
+75447::$$$message_0694_0025_0000$$$::O gigante explode em movimento.[lr]::
+75448::$$$message_0694_0025_0001$$$::Com a força de um redemoinho, o próximo golpe com certeza irá destruir a espadachim de preto.[lr]::
+75449::$$$message_0694_0025_0002$$$::Esse será o seu ataque final.[lr]::
+75450::$$$message_0694_0025_0003$$$::Ele cortou o seu próprio corpo e está executando esse ataque à beira da morte. Não tem como esse golpe não ser fatal.::
+75451::$$$message_0694_0026_0000$$$::E em resposta...[lr]::
+75452::$$$message_0694_0026_0001$$$::A espadachim o enfrenta usando o seu ataque mais poderoso.::
+75453::$$$message_0694_0027_0000$$$::"Não[w l=4][line4]pare, Berserker...!"[lr]::
+75454::$$$message_0694_0027_0001$$$::A Illya começa a correr.[lr]::
+75455::$$$message_0694_0027_0002$$$::Ela corre freneticamente até o Berserker, como se não estivesse vendo a sombra expandindo nos pés dele.::
+75456::$$$message_0694_0027_0003$$$::"Illya......!"[lr]::
+75457::$$$message_0694_0027_0004$$$::Mesmo se eu sair de onde estou escondido, não vou poder fazer nada.[lr]::
+75458::$$$message_0694_0027_0005$$$::Eu não tenho a menor chance de vencer aquela sombra ou aquela espadachim.[lr]::
+75459::$$$message_0694_0027_0006$$$::Mas mesmo assim[w l=4][line4]::
 

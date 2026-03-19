@@ -1,10 +1,10 @@
 DAT
 id=qid::label=str::text=lstr::
-43017::$$$message_0379_0000_0000$$$::I won't help her.[lr]::
-43018::$$$message_0379_0000_0001$$$::There's certain death waiting for me if I go help her.[lr]::
-43019::$$$message_0379_0000_0002$$$::If I'm human and if I'm alive, I can't choose any other option.::
-43020::$$$message_0379_0001_0000$$$::    But, still...::
-43021::$$$message_0379_0002_0000$$$::"Ah... AGHHHHHHHHHHHHHH!!!"[lr]::
-43022::$$$message_0379_0002_0001$$$::More than my heart, my body doesn't stop.[lr]::
-43023::$$$message_0379_0002_0002$$$::   I can't run away.[lr]::
-43024::$$$message_0379_0002_0003$$$::I'll die if I go out, but I'll live the rest of my life like a corpse if I run away here...!:\\�
+43017::$$$message_0379_0000_0000$$$::Eu não vou ajudá-la.[lr]::
+43018::$$$message_0379_0000_0001$$$::Se eu tentar ajudá-la, tenho certeza de que vou morrer.[lr]::
+43019::$$$message_0379_0000_0002$$$::Já que eu sou humano e não quero morrer, não posso fazer nada por ela.::
+43020::$$$message_0379_0001_0000$$$::[line4]Mesmo assim.::
+43021::$$$message_0379_0002_0000$$$::"Ah[line4]Ahhhhhhhhhhhhhhhhhhhhhh!"[lr]::
+43022::$$$message_0379_0002_0001$$$::O meu corpo se mexe por conta própria.[lr]::
+43023::$$$message_0379_0002_0002$$$::[line3]Eu não posso fugir.[lr]::
+43024::$$$message_0379_0002_0003$$$::Vou morrer se sair, mas vou viver o resto da vida como um cadáver se fugir aqui...!::

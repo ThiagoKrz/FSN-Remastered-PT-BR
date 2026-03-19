@@ -1,117 +1,117 @@
 DAT
 id=qid::label=str::text=lstr::
-3813::$$$message_0040_0000_0000$$$::We finish eating lunch, then continue our training in the afternoon.[lr]::
-3814::$$$message_0040_0000_0001$$$::I keep crossing blades with Saber, never getting tired of it.[lr]::
-3815::$$$message_0040_0000_0002$$$::We keep training, and only plan to stop when Tohsaka and Fuji-nee come home.[lr]::
-3816::$$$message_0040_0000_0003$$$::But our training is interrupted by the sound of the doorbell.::
-3817::$$$message_0040_0001_0000$$$::"Shirou. It appears you have a visitor."[lr]::
-3818::$$$message_0040_0001_0001$$$::"Yeah, I heard it. I'm going to go get the door, so you stay here, Saber."[lr]::
-3819::$$$message_0040_0001_0002$$$::"No. It could potentially be an unwanted visitor, so I will accompany you, just in case."[lr]::
-3820::$$$message_0040_0001_0003$$$::"...Hm."[lr]::
-3821::$$$message_0040_0001_0004$$$::Saber has a point.::
-3822::$$$message_0040_0002_0000$$$::But while she's right, if the visitor is just a neighbor, they might get suspicious of Saber.[lr]::
-3823::$$$message_0040_0002_0001$$$::The neighbors do think I'm the only one living here.[lr]::
-3824::$$$message_0040_0002_0002$$$::Then again...::
-3825::$$$message_0040_0003_0000$$$::"Well, guess I'll deal with that if it happens."[lr]::
-3826::$$$message_0040_0003_0001$$$::Sakura and Fuji-nee already come and go freely, so there's no point in me worrying about the neighbors.::
-3827::$$$message_0040_0004_0000$$$::"All right. Come with me then, Saber. But if the visitor [font italic=true]is[font italic=false] just an ordinary person, keep quiet."[lr]::
-3828::$$$message_0040_0004_0001$$$::"I know. I am supposed to be your distant relative, correct?"[lr]::
-3829::$$$message_0040_0004_0002$$$::"Yep. That's our story."::
-3830::$$$message_0040_0005_0000$$$::"Okay, coming!"[lr]::
-3831::$$$message_0040_0005_0001$$$::I rush to the entrance amid the sounds of incessant ringing.::
-3832::$$$message_0040_0006_0000$$$::"Pardon my intrusion. I heard you were not feeling well, so I came to visit, Emiya."[lr]::
-3833::$$$message_0040_0006_0001$$$::Oh.[lr]::
-3834::$$$message_0040_0006_0002$$$::It's not an enemy or a neighbor. It's a friend from school.::
-3835::$$$message_0040_0007_0000$$$::"Oh it's just you, Issei."[lr]::
-3836::$$$message_0040_0007_0001$$$::"That's a pretty rude greeting. Is that really how you should receive a friend visiting out of concern for you?"[lr]::
-3837::$$$message_0040_0007_0002$$$::Even as Issei complains, he hands me a paper bag.::
-3838::$$$message_0040_0008_0000$$$::"Hm? What's this? Apples?"[lr]::
-3839::$$$message_0040_0008_0001$$$::"A get well soon gift. Considering you hardly ever catch a cold and skip school, I thought I should at least bring something to make you feel better."::
-3840::$$$message_0040_0009_0000$$$::"...Hm."[lr]::
-3841::$$$message_0040_0009_0001$$$::I'm grateful for his concern, but unfortunately I didn't take a day off because I'm sick.[lr]::
-3842::$$$message_0040_0009_0002$$$::And besides, a bag full of apples doesn't seem appropriate for a young guy like him to bring as a get well soon gift.::
-3843::$$$message_0040_0010_0000$$$::"What's wrong, Emiya? Did you not like fruit?"[lr]::
-3844::$$$message_0040_0010_0001$$$::"No, I do. It's a little complicated, but I really appreciate the sentiment."[lr]::
-3845::$$$message_0040_0010_0002$$$::I bow to him to show my appreciation.::
-3846::$$$message_0040_0011_0000$$$::"Emiya. This may be a silly question, but who is the woman standing behind you?"[lr]::
+3813::$$$message_0040_0000_0000$$$::Mesmo depois do almoço, fazemos a mesma coisa.[lr]::
+3814::$$$message_0040_0000_0001$$$::Eu inteiramente troco golpes com a Saber.[lr]::
+3815::$$$message_0040_0000_0002$$$::O treinamento que deveria continuar até a Tohsaka ou a Fuji-Nee chegar em casa é...[lr]::
+3816::$$$message_0040_0000_0003$$$::...interrompido pela campainha me avisando que um visitante está aqui.::
+3817::$$$message_0040_0001_0000$$$::"Shirou, parece que alguém chegou."[lr]::
+3818::$$$message_0040_0001_0001$$$::"Sim, eu ouvi. Eu vou lá, então me espere aqui."[lr]::
+3819::$$$message_0040_0001_0002$$$::"...não. Há a chance de ser um visitante indesejado. Irei te acompanhar, só pra garantir."[lr]::
+3820::$$$message_0040_0001_0003$$$::"[line3]Hm."[lr]::
+3821::$$$message_0040_0001_0004$$$::O que ela diz é plausível.::
+3822::$$$message_0040_0002_0000$$$::...é, mas se o visitante for um vizinho, há chances dele desconfiar da Saber.[lr]::
+3823::$$$message_0040_0002_0001$$$::Porque supostamente deveria ser só eu morando aqui.[lr]::
+3824::$$$message_0040_0002_0002$$$::Mas....::
+3825::$$$message_0040_0003_0000$$$::"Bem, o que será será."[lr]::
+3826::$$$message_0040_0003_0001$$$::A Sakura e a Fuji-Nee vêm aqui frequentemente, então não devo começar a me preocupar com minha imagem agora.::
+3827::$$$message_0040_0004_0000$$$::"Certo, vamos, Saber. Mas fique quieta se o visitante for uma pessoa normal."[lr]::
+3828::$$$message_0040_0004_0001$$$::"Eu sei. Serei sua parente distante, correto?"[lr]::
+3829::$$$message_0040_0004_0002$$$::"Sim, vai servir."::
+3830::$$$message_0040_0005_0000$$$::"Sim, estou indo!"[lr]::
+3831::$$$message_0040_0005_0001$$$::Correndo por causa da campainha, abro a porta de entrada.::
+3832::$$$message_0040_0006_0000$$$::"Licença. Ouvi dizer que você não está bem, então vim ver como você está, Emiya."[lr]::
+3833::$$$message_0040_0006_0001$$$::Ao invés disso.[lr]::
+3834::$$$message_0040_0006_0002$$$::O visitante não é algum inimigo ou vizinho, mas um amigo da escola.::
+3835::$$$message_0040_0007_0000$$$::"Ah, é só você, Issei."[lr]::
+3836::$$$message_0040_0007_0001$$$::"É rude dizer isso. Seria isso uma atitude apropriada a ser ter com um amigo que veio te ver?"[lr]::
+3837::$$$message_0040_0007_0002$$$::Reclamando, ele me entrega uma sacola de papel.::
+3838::$$$message_0040_0008_0000$$$::"Hm? O que é isso? Maças?"[lr]::
+3839::$$$message_0040_0008_0001$$$::"É um presente de melhore-logo. Quando a pessoa que normalmente nunca fica doente falta na escola, eu devo trazer algo pra ela."::
+3840::$$$message_0040_0009_0000$$$::"[line2]Hm."[lr]::
+3841::$$$message_0040_0009_0001$$$::E sou grato pela preocupação, mas não faltei porque estou doente.[lr]::
+3842::$$$message_0040_0009_0002$$$::...e também, parece errado um jovem trazer um pacote de maças pra um amigo doente.::
+3843::$$$message_0040_0010_0000$$$::"Que foi, Emiya? Não gosta de fruta?"[lr]::
+3844::$$$message_0040_0010_0001$$$::"Ah, eu gosto delas. É complicado, mas vou aceitar suas boas intenções."[lr]::
+3845::$$$message_0040_0010_0002$$$::Eu me curvo em apreciação.::
+3846::$$$message_0040_0011_0000$$$::"...Emiya. Isso é uma questão repentina, mas quem é essa mulher atrás de você?"[lr]::
 3847::$$$message_0040_0011_0001$$$::"Huh?"[lr]::
-3848::$$$message_0040_0011_0002$$$::Saber is standing just behind me.::
-3849::$$$message_0040_0012_0000$$$::"Oh..."[lr]::
-3850::$$$message_0040_0012_0001$$$::I get it. Issei must have locked eyes with Saber when I bowed to him.::
-3851::$$$message_0040_0013_0000$$$::"I've not seen her before... Why is a woman like her at your house?"[lr]::
-3852::$$$message_0040_0013_0001$$$::Issei gazes intently at Saber.[lr]::
-3853::$$$message_0040_0013_0002$$$::He's extremely shy, and always cold to new people and people he doesn't like.::
-3854::$$$message_0040_0014_0000$$$::"Uh, well, her name's Saber and..."[lr]::
-3855::$$$message_0040_0014_0001$$$::"I am Shirou's distant relative. I got to know the former master of this house, Kiritsugu, when he was visiting overseas.[lr]::
-3856::$$$message_0040_0014_0002$$$::I came here the other day to do some sightseeing, and I was allowed to stay here, given my connections with the family."::
-3857::$$$message_0040_0015_0000$$$::"...Huh?"[lr]::
-3858::$$$message_0040_0015_0001$$$::Saber makes the story sound pretty convincing.::
-3859::$$$message_0040_0016_0000$$$::"So you are an acquaintance of Emiya's father, I see. I hear he loved traveling, so it's no surprise he'd befriend someone like you in his travels."[lr]::
-3860::$$$message_0040_0016_0001$$$::"...WHAT!?"[lr]::
-3861::$$$message_0040_0016_0002$$$::Issei, who's supposed to be extremely bashful around strangers, accepts the story so easily.::
-3862::$$$message_0040_0017_0000$$$::"I see. I understand the situation now, Emiya.[lr]::
-3863::$$$message_0040_0017_0001$$$::Your 'sickness' was just an excuse. You've been showing her around, haven't you?"::
-3864::$$$message_0040_0018_0000$$$::"OH. I, uh...yeah, let's say that."[lr]::
-3865::$$$message_0040_0018_0001$$$::Well, in broad terms, nothing I've said is entirely untrue...I think.::
-3866::$$$message_0040_0019_0000$$$::"Then you won't mind if I come on in. Go prepare some tea for me in appreciation for what I've done for you here. I'd also be happy to tell you about what has happened these past two days at school."[lr]::
-3867::$$$message_0040_0019_0001$$$::Issei takes off his shoes and steps up into the house. ::
-3868::$$$message_0040_0020_0000$$$::"What do you mean, in appreciation? I'm still kind of busy, you know.[lr]::
-3869::$$$message_0040_0020_0001$$$::We can chat another time."[lr]::
-3870::$$$message_0040_0020_0002$$$::"What are you talking about? You were the one who abandoned your bike outside our place."::
-3871::$$$message_0040_0021_0000$$$::"Oh right...I did leave a bike up in Ryudou Temple."[lr]::
-3872::$$$message_0040_0021_0001$$$::"Right? And I brought back your bike.[lr]::
-3873::$$$message_0040_0021_0002$$$::I'm busy as well, and yet I didn't go to the student council room. Instead, I went straight home, then brought your bike back here. Are you saying you cannot even offer me some tea after that?"::
-3874::$$$message_0040_0022_0000$$$::"...Ugh."[lr]::
-3875::$$$message_0040_0022_0001$$$::He [font italic=true]did[font italic=false] do me a favor.[lr]::
-3876::$$$message_0040_0022_0002$$$::I might have three bikes, but out of the three, the one I left at Ryudou Temple is the most expensive. And my favorite.::
-3877::$$$message_0040_0023_0000$$$::"Sorry Saber, can we take a little break?"[lr]::
-3878::$$$message_0040_0023_0001$$$::Saber nods silently.::
-3879::$$$message_0040_0024_0000$$$::"Thanks. Then you and Issei can head to the living room. I'll prepare some tea. Japanese tea for Issei, black tea for Saber."::
-3880::$$$message_0040_0025_0000$$$::"A-am I also joining? I do not think that is appropriate. Surely you would not be able to have a casual conversations with your friend from school if I am present."::
-3881::$$$message_0040_0026_0000$$$::"That's not true. Right, Issei?"[lr]::
-3882::$$$message_0040_0026_0001$$$::"Mhm. Girls may be chatty, but I do not mind you, Saber. A woman as humble as you is a precious asset, like cultural heritage."::
-3883::$$$message_0040_0027_0000$$$::"Hear that? Okay, so go on ahead."[lr]::
-3884::$$$message_0040_0027_0001$$$::"Uh...yes. I understand, but..."::
-3885::$$$message_0040_0028_0000$$$::"What. Is something else bothering you?"[lr]::
-3886::$$$message_0040_0028_0001$$$::"If you are to prepare tea, I would like Japanese tea as well. I do not mind green tea."[lr]::
-3887::$$$message_0040_0028_0002$$$::Saber is fairly opinionated for some reason.[lr]::
-3888::$$$message_0040_0028_0003$$$::It's odd, hearing her say that in her usual tone.::
-3889::$$$message_0040_0029_0000$$$::After about an hour of meaningless chatter, Issei decides to head home.[lr]::
-3890::$$$message_0040_0029_0001$$$::Most of the small talk in the living room was about school, and I asked a few sly questions to find out if anything unusual was going on, but it seems like business as usual.::
-3891::$$$message_0040_0030_0000$$$::"I'll see you. Will you be absent tomorrow too, Emiya?"[lr]::
-3892::$$$message_0040_0030_0001$$$::"Yeah. I'm not going to school this week. Saber needs to be with me tomorrow too."::
-3893::$$$message_0040_0031_0000$$$::"Hm. Well, it shouldn't be much of an issue if you are with her. There are a few suspicious aspects to this, but I've elected not to ask about any of it."[lr]::
-3894::$$$message_0040_0031_0001$$$::Issei nods as if satisfied.[lr]::
-3895::$$$message_0040_0031_0002$$$::Now that I think about it, how could such a shy guy warm so quickly and easily to Saber?::
-3896::$$$message_0040_0032_0000$$$::"Hey, Issei. For this being your first time meeting Saber, you seem to be in a good mood... What's up with that?"[lr]::
-3897::$$$message_0040_0032_0001$$$::"What a strange thing to ask. I grew up in a temple, so is it really that odd for me to be able to see the good and bad in someone? I do not know her background, but I saw that her spirit and soul are pure. She cannot possibly be a bad person."::
-3898::$$$message_0040_0033_0000$$$::"Huh. I didn't know you could tell that kinda thing. I'm a little impressed."[lr]::
-3899::$$$message_0040_0033_0001$$$::"I normally can't, but even an amateur like me can tell when her spirit is on full display like that.[lr]::
-3900::$$$message_0040_0033_0002$$$::Even a monk in training will notice the holy presence of a divinity standing right beside them. Simply put, Saber is just that beautiful and pure."::
-3901::$$$message_0040_0034_0000$$$::Well that's rare.[lr]::
-3902::$$$message_0040_0034_0001$$$::Issei's praising a girl.::
-3903::$$$message_0040_0035_0000$$$::"Got it. So you have taken a liking to Saber too."[lr]::
-3904::$$$message_0040_0035_0001$$$::That's good.[lr]::
-3905::$$$message_0040_0035_0002$$$::I was worried Issei wouldn't like her because all she did was listen to us talking.::
-3906::$$$message_0040_0036_0000$$$::"Of course. She's a good person. It would be hard to dislike her."[lr]::
-3907::$$$message_0040_0036_0001$$$::"Yeah. And I know she's a good person, even if she might a bit aloof. Saber's always like that, so don't take that to mean she doesn't like you, Issei."::
-3908::$$$message_0040_0037_0000$$$::"Eh? She's aloof?"[lr]::
-3909::$$$message_0040_0037_0001$$$::"Yeah. I've never seen her laugh before, and even when you and I were laughing pretty hard, she just kept looking stern."[lr]::
-3910::$$$message_0040_0037_0002$$$::"Actually, she was smiling pretty often."[lr]::
-3911::$$$message_0040_0037_0003$$$::"...Eh?"::
-3912::$$$message_0040_0038_0000$$$::That's ridiculous.[lr]::
-3913::$$$message_0040_0038_0001$$$::Sure, I've seen the occasional warm expression on Saber's face.[lr]::
-3914::$$$message_0040_0038_0002$$$::But I've never seen her actually smile or laugh before.::
-3915::$$$message_0040_0039_0000$$$::"You're kidding me. I can't imagine seeing Saber laughing out loud."[lr]::
-3916::$$$message_0040_0039_0001$$$::"No, it's not like that.[lr]::
-3917::$$$message_0040_0039_0002$$$::She was smiling when she saw you smile. Didn't you notice?"[lr]::
-3918::$$$message_0040_0039_0003$$$::    Huh?[lr]::
-3919::$$$message_0040_0039_0004$$$::She was smiling when she saw me laugh?::
-3920::$$$message_0040_0040_0000$$$::"Um...was she doing that to make fun of me?"[lr]::
-3921::$$$message_0040_0040_0001$$$::"Interesting. That's a pretty strange interpretation.[lr]::
-3922::$$$message_0040_0040_0002$$$::But you know what, you really shouldn't worry yourself over something like that. Everything begins with questioning yourself, KAH!"::
-3923::$$$message_0040_0041_0000$$$::Issei, priest's son that he is, ends with his usual catchphrase, and leaves my house, laughing.[lr]::
-3924::$$$message_0040_0041_0001$$$::"Mh...what's with him?"[lr]::
-3925::$$$message_0040_0041_0002$$$::He leaves me with his cryptic comments.[lr]::
-3926::$$$message_0040_0041_0003$$$::Idiot. At least he could've said goodbye.::
+3848::$$$message_0040_0011_0002$$$::Dito isso, me viro.[lr]::
+3849::$$$message_0040_0012_0000$$$::"Ah[line2]"[lr]::
+3850::$$$message_0040_0012_0001$$$::Entendi. Issei deve ter visto a Saber quando eu me curvei.::
+3851::$$$message_0040_0013_0000$$$::"...não é alguém que eu vi antes. Por que tal mulher está em sua casa?"[lr]::
+3852::$$$message_0040_0013_0001$$$::O Issei olha rudemente para a Saber.[lr]::
+3853::$$$message_0040_0013_0002$$$::Ele é muito tímido na frente de estranhos e pode ser muito frio com estranhos ou pessoas que ele não gosta.::
+3854::$$$message_0040_0014_0000$$$::"Uh, bem, ela se chama Saber e, um..."[lr]::
+3855::$$$message_0040_0014_0001$$$::"Sou uma parente distante do Shirou. Fui tratada gentilmente pelo mestre desta casa, Kiritsugu, quando ele estava em meu país.[lr]::
+3856::$$$message_0040_0014_0002$$$::Vim visitar aqui o outro dia, e estou ficando aqui graças a minha relação com ele."::
+3857::$$$message_0040_0015_0000$$$::"[line4]Huh?"[lr]::
+3858::$$$message_0040_0015_0001$$$::A Saber suavemente entrega uma história convincente.::
+3859::$$$message_0040_0016_0000$$$::"Então você é uma conhecida do pai do Emiya? Ouvi dizer que ele amava viajar. Tenho certeza que ele teve a chance de conhecer alguém como você."[lr]::
+3860::$$$message_0040_0016_0001$$$::"[line5]Que!?"[lr]::
+3861::$$$message_0040_0016_0002$$$::Ryuudou Issei, quem deveria ser tímido com estranhos, facilmente aceita isso.::
+3862::$$$message_0040_0017_0000$$$::"Entendo. Entendo sua situação, Emiya.[lr]::
+3863::$$$message_0040_0017_0001$$$::Sua doença é uma desculpa e você estava mostrando o lugar pra ela, né?"::
+3864::$$$message_0040_0018_0000$$$::"Uh[line2]sim. Acho que poderia dizer isso."[lr]::
+3865::$$$message_0040_0018_0001$$$::...sim, acho que não estou mentido, na escala cósmica.::
+3866::$$$message_0040_0019_0000$$$::"Então você não vai ligar se eu me meter no meu. Me arranje um pouco de chá em apreciação por ter trazer de volta. Vamos conversar sobre o que aconteceu na escola nesses últimos dois dias."[lr]::
+3867::$$$message_0040_0019_0001$$$::O Issei entra, tirando seu sapatos.::
+3868::$$$message_0040_0020_0000$$$::"...? Como assim apreciação? Estou ocupado, sabia?[lr]::
+3869::$$$message_0040_0020_0001$$$::Vamos conversar uma outra hora."[lr]::
+3870::$$$message_0040_0020_0002$$$::"Como assim? Você deixou sua bike do lado de fora da minha casa, sabia?"::
+3871::$$$message_0040_0021_0000$$$::"Ah... é, deixei minha bike no Templo Ryuudou."[lr]::
+3872::$$$message_0040_0021_0001$$$::"Sim. Então eu te trouxe sua bike.[lr]::
+3873::$$$message_0040_0021_0002$$$::Embora eu estivesse ocupado, eu fui direto pra casa sem ligar pro conselho estudantil e vim aqui. Está me dizendo que não pode me dar nem um pouco de chá por isso?"::
+3874::$$$message_0040_0022_0000$$$::"[line2]Ugh."[lr]::
+3875::$$$message_0040_0022_0001$$$::Foi certamente útil.[lr]::
+3876::$$$message_0040_0022_0002$$$::Embora eu tenha 3 bicicletas, a que eu deixei no Templo Ryuudou é a mais cara e minha favorita.::
+3877::$$$message_0040_0023_0000$$$::"...desculpa, Saber. Podemos fazer uma pequena pausa?"[lr]::
+3878::$$$message_0040_0023_0001$$$::A Saber concorda silenciosamente.::
+3879::$$$message_0040_0024_0000$$$::"Desculpa. Poderiam ir pra sala de estar? Vou preparar um pouco de chá. Chá japonês para o Issei e chá inglês pra Saber, né?"::
+3880::$$$message_0040_0025_0000$$$::"Que... V-Vou participar também? N-não sei se é uma boa ideia. Acho que você não vai conseguir falar livremente com seu amigo se eu estiver aqui."::
+3881::$$$message_0040_0026_0000$$$::"Não é verdade. Certo, Issei?"[lr]::
+3882::$$$message_0040_0026_0001$$$::"Certo. Garotas são barraqueiras, mas a Saber-san é perfeita. Mulheres humildes fazem parte da nossa herança cultural."::
+3883::$$$message_0040_0027_0000$$$::"Viu. Então vá em frente."[lr]::
+3884::$$$message_0040_0027_0001$$$::"Uh... sim. Entendi, mas Shirou..."::
+3885::$$$message_0040_0028_0000$$$::"Que foi? Há algo mais?"[lr]::
+3886::$$$message_0040_0028_0001$$$::"Posso ter chá japonês também? Eu não odeio chá japonês."[lr]::
+3887::$$$message_0040_0028_0002$$$::Por algum motivo, a Saber diz isso claramente.[lr]::
+3888::$$$message_0040_0028_0003$$$::Isso parece meio estranho, ela dizendo isso de modo usual.::
+3889::$$$message_0040_0029_0000$$$::Conversamos sobre coisas sem sentido por uma hora, então o Issei decidi ir pra casa.[lr]::
+3890::$$$message_0040_0029_0001$$$::A conversa que tivemos na sala foi principalmente sobre a escola, e perguntei tentativamente se algo estranho estava acontecendo, mas parece que a escola continua como de costume.::
+3891::$$$message_0040_0030_0000$$$::"Até depois. Vai faltar amanhã também?"[lr]::
+3892::$$$message_0040_0030_0001$$$::"Sim, não posso ir essa semana. Tenho que ficar com a Saber amanhã de novo."::
+3893::$$$message_0040_0031_0000$$$::"Entendo. Bem, não deve haver problemas se você estiver com essa garota. Há aspectos suspeitos, mas eles nem mesmo precisam ser considerados."[lr]::
+3894::$$$message_0040_0031_0001$$$::Issei concorda com si mesmo.[lr]::
+3895::$$$message_0040_0031_0002$$$::...parando pra pensar, como é possível pra esse cara, tímido ao redor de estranhos, não odiar a Saber?::
+3896::$$$message_0040_0032_0000$$$::"Ei Issei. Você estava de bom humor mesmo sendo a primeira vez que você conheceu a Saber. Qual que é a dessa?"[lr]::
+3897::$$$message_0040_0032_0001$$$::"Como assim? Cresci num templo. O que eu faria se não pudesse distinguir o bem do mal? Não sei as origens dela, mas seu espírito é puro. Ela não pode ser uma má pessoa."::
+3898::$$$message_0040_0033_0000$$$::"Uau. Então você consegue perceber esse tipo de coisa? Estou impressionado."[lr]::
+3899::$$$message_0040_0033_0001$$$::"...bem, não posso normalmente. Mas até mesmo um um amador poderia dizer se for tão grande.[lr]::
+3900::$$$message_0040_0033_0002$$$::Mesmo um monge em treinamento notaria dividade se um Buddha sentasse do lado dele. Em outras palavras, a Saber-san é bela."::
+3901::$$$message_0040_0034_0000$$$::...isso é raro.[lr]::
+3902::$$$message_0040_0034_0001$$$::O Issei está louvando uma mulher.::
+3903::$$$message_0040_0035_0000$$$::"Entendo. Então você gosta da Saber também."[lr]::
+3904::$$$message_0040_0035_0001$$$::Isso é bom.[lr]::
+3905::$$$message_0040_0035_0002$$$::Fiquei preocupado do Issei não gostar dela já que tudo que ela fez foi sentar e ouvir silenciosamente.::
+3906::$$$message_0040_0036_0000$$$::"Claro. Ela é uma boa menina. É difícil não gostar dela."[lr]::
+3907::$$$message_0040_0036_0001$$$::"Sim. Entendo que ela é uma boa menina, mas ela é um pouco antissocial, né? Ela é sempre assim, então não quer dizer que ela não goste de você."::
+3908::$$$message_0040_0037_0000$$$::"Huh? Ela é antissocial?"[lr]::
+3909::$$$message_0040_0037_0001$$$::"Ela é. Ela não riu ainda. Ela não riu ainda. Ela sempre fez uma cara preocupada, mesmo enquanto estávamos rindo e conversando sobre a Fuji-Nee."[lr]::
+3910::$$$message_0040_0037_0002$$$::"Não, ela estava sorrindo bastante."[lr]::
+3911::$$$message_0040_0037_0003$$$::"[line2]Huh?"::
+3912::$$$message_0040_0038_0000$$$::Isso é ridículo.[lr]::
+3913::$$$message_0040_0038_0001$$$::É verdade que a Saber parece em paz algumas vezes.[lr]::
+3914::$$$message_0040_0038_0002$$$::Mas quando eu nunca vi o sorriso dela uma única vez...!?::
+3915::$$$message_0040_0039_0000$$$::"Você está mentindo. Não consigo imaginar a Saber rolando de rir."[lr]::
+3916::$$$message_0040_0039_0001$$$::"...não, não assim.[lr]::
+3917::$$$message_0040_0039_0002$$$::Ela estava sorrindo quando ela te viu sorrindo. Não percebeu?"[lr]::
+3918::$$$message_0040_0039_0003$$$::[line3]?[lr]::
+3919::$$$message_0040_0039_0004$$$::Ela estava sorrindo enquanto eu sorria...?::
+3920::$$$message_0040_0040_0000$$$::"...um. Quer dizer que ela estava rindo de mim...?"[lr]::
+3921::$$$message_0040_0040_0001$$$::"[line2]Entendo, você interpreta as coisas de maneira estranha.[lr]::
+3922::$$$message_0040_0040_0002$$$::Mas você deveria se atormentar nesse problema. Tudo começa com se questionando. Kah!"::
+3923::$$$message_0040_0041_0000$$$::Com seu comentário habitual, ele vai embora rindo.[lr]::
+3924::$$$message_0040_0041_0001$$$::"Hm[line2]o que ele quis dizer com isso?"[lr]::
+3925::$$$message_0040_0041_0002$$$::Ele vai embora, deixando com comentários sugestivos.[lr]::
+3926::$$$message_0040_0041_0003$$$::Pelo menos diga tchau pra mim, idiota.::
 7

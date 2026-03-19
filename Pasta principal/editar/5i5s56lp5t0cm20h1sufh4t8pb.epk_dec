@@ -1,130 +1,130 @@
 DAT
 id=qid::label=str::text=lstr::
-51081::$$$message_0440_0000_0000$$$::...While Saber's not looking, I'll sneak out for a bit.[lr]::
-51082::$$$message_0440_0000_0001$$$::If I go to the student council room, Issei may be there, and it might not be bad to start planning strategies for next month's finals.::
-51083::$$$message_0440_0001_0000$$$::"All right. I'm going to go to the student council room. Fuji-nee, do you know if Issei is here?"[lr]::
-51084::$$$message_0440_0001_0001$$$::"Ryudou? Hmm, I'm not sure. At the very least, I haven't seen him."::
-51085::$$$message_0440_0002_0000$$$::"I see. Then, I'll come back if he's not there. Tell Sakura I said hi."[lr]::
-51086::$$$message_0440_0002_0001$$$::"Right-o. You prefer the girls over your pals? You're still such a boy, aren't you?"::
-51087::$$$message_0440_0003_0000$$$::"...Mrgh."[lr]::
-51088::$$$message_0440_0003_0001$$$::...I want to object, but if I do, Saber will take notice.[lr]::
-51089::$$$message_0440_0003_0002$$$::I'll let Fuji-nee win this time and sneak out of here.::
-51090::$$$message_0440_0004_0000$$$::"Where are you going, Shirou? And why is your gait suddenly so different?"[lr]::
+51081::$$$message_0440_0000_0000$$$::...Vou fugir um pouco.[lr]::
+51082::$$$message_0440_0000_0001$$$::O Issei deve estar lá se eu for até a sala do conselho estudantil, e não seria má ideia começar a pensar em estratégias para o exame final do mês que vem.::
+51083::$$$message_0440_0001_0000$$$::"Tudo bem. Vou até a sala do conselho estudantil. Sabe se o Issei está lá, Fuji-Nee?"[lr]::
+51084::$$$message_0440_0001_0001$$$::"Ryuudou-kun? Hmm... não sei. Pelo menos, não vi ele."::
+51085::$$$message_0440_0002_0000$$$::"Entendi. Bem, vou voltar se ele não estiver lá. Diga a Sakura que dou meus parabéns a ela."[lr]::
+51086::$$$message_0440_0002_0001$$$::"Tudo bem. Mas você está escolhendo um amigo ao invés de uma amiga? Parece que você é ainda um garoto, huh?"::
+51087::$$$message_0440_0003_0000$$$::"[line4]Hm."[lr]::
+51088::$$$message_0440_0003_0001$$$::...Quero protestar, mas a Saber vai notar se eu fizer.[lr]::
+51089::$$$message_0440_0003_0002$$$::Vou deixar a Fuji-Nee ganhar desta vez, e sair silenciosamente.::
+51090::$$$message_0440_0004_0000$$$::"Você está agindo suspeito. Para onde vai, Shirou?"[lr]::
 51091::$$$message_0440_0004_0001$$$::"Gah."::
-51092::$$$message_0440_0005_0000$$$::So much for trying to sneak out.[lr]::
-51093::$$$message_0440_0005_0001$$$::I tried to leave without Saber noticing, but whatever trick she used, she beat me to it.::
-51094::$$$message_0440_0006_0000$$$::"S-Saber. Well, this is[line2]you know. I just remembered something I had to do..."[lr]::
-51095::$$$message_0440_0006_0001$$$::"Just now, hmm? I believe that your only business here was to deliver lunch."::
-51096::$$$message_0440_0007_0000$$$::"Uh, um... Well, it's minor business. I didn't think it was something worth telling you."[lr]::
-51097::$$$message_0440_0007_0001$$$::"I see. If it is minor business, then there is certainly no need to let me know. You do have your own life after all."::
-51098::$$$message_0440_0008_0000$$$::Man, I'm glad she's so understanding.[lr]::
-51099::$$$message_0440_0008_0001$$$::...I'm glad, but is it because of my guilty conscience that she looks angry somehow?::
-51100::$$$message_0440_0009_0000$$$::"...Um. So, can you wait here, Saber?[lr]::
-51101::$$$message_0440_0009_0001$$$::I'll be back in an hour[line2]"::
-51102::$$$message_0440_0010_0000$$$::"But, that was your life until yesterday.[lr]::
-51103::$$$message_0440_0010_0001$$$::You must act as a Master starting today. No matter what kind of business it is, it is my duty to accompany you until I determine that it is safe.[lr]::
-51104::$$$message_0440_0010_0002$$$::So then...do you have any objections to my opinions, Shirou?"::
-51105::$$$message_0440_0011_0000$$$::Oh I do, most definitely, but I can't think of anything that would convince Saber.::
-51106::$$$message_0440_0012_0000$$$::"...Fine. Have it your way. Let's go, Saber. I'll just show you around school or whatever."[lr]::
-51107::$$$message_0440_0012_0001$$$::I drop my shoulders, give in, and extend the invitation.[lr]::
-51108::$$$message_0440_0012_0002$$$::"Yes. It would be helpful if you did so."[lr]::
-51109::$$$message_0440_0012_0003$$$::So, the blonde foreigner follows me without a question.::
-51110::$$$message_0440_0013_0000$$$::[font italic=true]...[font italic=false][lr]::
-51111::$$$message_0440_0013_0001$$$::Now...[lr]::
-51112::$$$message_0440_0013_0002$$$::How should I explain this to Issei...?::
-51113::$$$message_0440_0014_0000$$$::"Gaaah."[lr]::
-51114::$$$message_0440_0014_0001$$$::...This sucks.[lr]::
-51115::$$$message_0440_0014_0002$$$::The student council room is unlocked today, of all days.::
-51116::$$$message_0440_0015_0000$$$::"The noises you make are certainly telling. You must really want to hide things from me, Shirou."[lr]::
-51117::$$$message_0440_0015_0001$$$::...And of course she sees right through me.[lr]::
-51118::$$$message_0440_0015_0002$$$::It must be her insight as a swordsman, but it seems like no amount of acting will cut it.::
-51119::$$$message_0440_0016_0000$$$::"I'm not trying to hide anything, I just don't want a commotion... Well, Issei being here must be some kind of fate, so I'll introduce you to him."[lr]::
-51120::$$$message_0440_0016_0001$$$::Also, if it's the student council room, no one will see us, and we can kill time until the kyudo club finishes practice.::
-51121::$$$message_0440_0017_0000$$$::"Issei...? Is that a friend of yours?"[lr]::
-51122::$$$message_0440_0017_0001$$$::"Yeah. He's this school's...uh, he's something like the leader of its security force, a paragon that strives for organizational harmony."::
-51123::$$$message_0440_0018_0000$$$::"A security leader? I see, perhaps I could learn something interesting from him."[lr]::
-51124::$$$message_0440_0018_0001$$$::"Maybe. He's a clever guy, so he might get along with you."::
-51125::$$$message_0440_0019_0000$$$::"Hey, we're coming in, Issei...!"[lr]::
-51126::$$$message_0440_0019_0001$$$::I open the door with force.[lr]::
-51127::$$$message_0440_0019_0002$$$::...Then...[lr]::
-51128::$$$message_0440_0019_0003$$$::There is an unexpected person in the student council room.::
-51129::$$$message_0440_0020_0000$$$::I gulp.[lr]::
-51130::$$$message_0440_0020_0001$$$::The one in the student council room was not Issei, but Mr. Kuzuki, the teacher in charge of the student council.::
-51131::$$$message_0440_0021_0000$$$::"Excuse me. Mr. Kuzuki, is Issei here?"[lr]::
-51132::$$$message_0440_0021_0001$$$::"No, I have not seen him today. Do you have some business with the student council, Emiya?"[lr]::
-51133::$$$message_0440_0021_0002$$$::"No, not so much the student council, but Issei specifically. I wanted to start preparing for the finals."::
-51134::$$$message_0440_0022_0000$$$::"I see. Then, you should try waiting here for a while. It is possible that he has or will flee his home out of boredom, I suppose."[lr]::
-51135::$$$message_0440_0022_0001$$$::"It's okay for me to stay in the student council room?"[lr]::
-51136::$$$message_0440_0022_0002$$$::"It should be fine. If it were an issue for you to be here, we would have had problems much earlier."::
-51137::$$$message_0440_0023_0000$$$::"I will leave it up to you to lock up. Leave the key on my desk."[lr]::
-51138::$$$message_0440_0023_0001$$$::Mr. Kuzuki leaves his instructions and exits the room.::
-51139::$$$message_0440_0024_0000$$$::...I wonder if he was being considerate.[lr]::
-51140::$$$message_0440_0024_0001$$$::According to Issei, Mr. Kuzuki is actually far more sensitive than he appears.[lr]::
-51141::$$$message_0440_0024_0002$$$::While waiting for Issei in the student council room, he must've thought that I'd be able to relax more by myself instead of with a teacher.::
-51142::$$$message_0440_0025_0000$$$::"...Hm?"[lr]::
-51143::$$$message_0440_0025_0001$$$::[font italic=true]...[font italic=false][lr]::
-51144::$$$message_0440_0025_0002$$$::Then...[lr]::
-51145::$$$message_0440_0025_0003$$$::As Mr. Kuzuki goes out to the hallway, he bumps into Saber, who has been waiting behind me.::
-51146::$$$message_0440_0026_0000$$$::"M-Mr. Kuzuki! She's an acquaintance of mine, and um, she might come here next year so she came to visit the school...!"::
-51147::$$$message_0440_0027_0000$$$::I panic and make up an excuse.[lr]::
-51148::$$$message_0440_0027_0001$$$::But it's gotta be the flimsiest thing ever.[lr]::
-51149::$$$message_0440_0027_0002$$$::Even if they're a prospective student, we are not allowed to bring outsiders into the school without permission.[lr]::
-51150::$$$message_0440_0027_0003$$$::If it was Fuji-nee, I could somehow get by, but there's no way I can convince the teacher in charge of the student council with an excuse like this...::
-51151::$$$message_0440_0028_0000$$$::"...I see. We have never had a new student from a foreign country before. An unexpected development, but not unwelcome."[lr]::
-51152::$$$message_0440_0028_0001$$$::"...Huh?"::
-51153::$$$message_0440_0029_0000$$$::...At least that's what I thought.[lr]::
-51154::$$$message_0440_0029_0001$$$::Mr. Kuzuki gazes at Saber in admiration as I come to the conclusion that he's actually really okay.::
-51155::$$$message_0440_0030_0000$$$::"If she comes to our school, she will not go unnoticed.[lr]::
-51156::$$$message_0440_0030_0001$$$::Emiya, look out for her. Next year, you will be a third year. It is your duty to look out for your juniors."::
-51157::$$$message_0440_0031_0000$$$::"Uh... Yes. Thank you, Mr. Kuzuki."[lr]::
-51158::$$$message_0440_0031_0001$$$::"Sure. The curfew on weekends is five. Go home before the gates close."::
-51159::$$$message_0440_0032_0000$$$::He leaves for the teachers' office.[lr]::
-51160::$$$message_0440_0032_0001$$$::Saber watched him until he could not be seen anymore.::
-51161::$$$message_0440_0033_0000$$$::"Saber? Is there something wrong with Mr. Kuzuki?"[lr]::
-51162::$$$message_0440_0033_0001$$$::"...No, not in particular. At first, I thought that he was no ordinary person, but the more that I look at him, he is. I can assure you that he is not a Master."::
-51163::$$$message_0440_0034_0000$$$::"..."[lr]::
-51164::$$$message_0440_0034_0001$$$::I'm a bit tired.[lr]::
-51165::$$$message_0440_0034_0002$$$::Saber determines whether someone is a Master or not every time she meets someone.::
-51166::$$$message_0440_0035_0000$$$::"That's good. If Mr. Kuzuki was a mage, then I would be surprised too... But, what do you mean by that? Did you feel something special from him?"::
-51167::$$$message_0440_0036_0000$$$::"No, I did not feel anything special in particular. It is just that his breathing was too natural and controlled.[lr]::
-51168::$$$message_0440_0036_0001$$$::...To be honest, I was amazed. There were no unnecessary movements in his steps, and I have never seen someone as skilled as he is."::
-51169::$$$message_0440_0037_0000$$$::Saber seems to seriously be amazed.[lr]::
-51170::$$$message_0440_0037_0001$$$::But, if Saber's that amazed, then isn't he already super suspicious at that point...!?::
-51171::$$$message_0440_0038_0000$$$::"Hold on, Saber. So if Mr. Kuzuki were to fight, then doesn't that mean he would be super strong!?"[lr]::
-51172::$$$message_0440_0038_0001$$$::"Hmm? Your teacher? Yes, I would say so.[lr]::
-51173::$$$message_0440_0038_0002$$$::If we're speaking of physical prowess alone, then he would be roughly your level. In battle, I would not think he is any more significant than a normal person."::
-51174::$$$message_0440_0039_0000$$$::She looks at me in wonder.[lr]::
-51175::$$$message_0440_0039_0001$$$::But, I'm the one wondering.[lr]::
-51176::$$$message_0440_0039_0002$$$::He's someone so good that Saber was amazed, so what does it mean that he's just a normal person...?::
-51177::$$$message_0440_0040_0000$$$::"As I said, I was amazed at his breathing.[lr]::
-51178::$$$message_0440_0040_0001$$$::It was ideal for his body. What was impressive was that singular thing."::
-51179::$$$message_0440_0041_0000$$$::Then...[lr]::
-51180::$$$message_0440_0041_0001$$$::While sipping on the tea from the student council's storage, Saber explains things that I don't quite understand.::
-51181::$$$message_0440_0042_0000$$$::"You're just talking about breathing, right? If that's ideal, so what?"[lr]::
-51182::$$$message_0440_0042_0001$$$::"It will not only heavily affect your physical capabilities, but how you interact with nature. Western mages don't emphasize this, but in Eastern paradigms, breathing and walking form is a high level concept that cannot be learned by instruction alone."::
-51183::$$$message_0440_0043_0000$$$::"To take in outside air, you think of a clear image of connecting the outer and inner world within your body. To my understanding, to breathe in is to take in god, and to breathe out is to release god.[lr]::
-51184::$$$message_0440_0043_0001$$$::This 'correct method of breathing' is a secret technique at any given school, and perhaps only one person per generation would be expected to master it."::
-51185::$$$message_0440_0044_0000$$$::"To put it another way, those who cast spells using magecraft are merely mages.[lr]::
-51186::$$$message_0440_0044_0001$$$::But if one's breathing, walking, build, and their existence itself can fulfill a divine will, then that person is themself a Magic Circuit that far surpasses any mage."::
-51187::$$$message_0440_0045_0000$$$::"Oh... I think there is a Shinto belief about that.[lr]::
-51188::$$$message_0440_0045_0001$$$::Something like they repel the evil with just their footsteps or by clapping their hands."::
-51189::$$$message_0440_0046_0000$$$::"Yes. Those embodiments are something that you spend a lifetime to acquire.[lr]::
-51190::$$$message_0440_0046_0001$$$::However, there are rare cases where some are born with the correct way of breathing or walking. As stated, their bodies themselves are Magic Circuits."::
-51191::$$$message_0440_0047_0000$$$::"As they are abnormal, from when they are young, they will be famed as prodigies or children of god. Normally they would be claimed by mages, but some may go unnoticed.[lr]::
-51192::$$$message_0440_0047_0001$$$::Such people hold Mystics that surpass a mage, without even knowing the existence of magecraft. But..."::
-51193::$$$message_0440_0048_0000$$$::"But? Is Mr. Kuzuki one of those natural-born geniuses?"[lr]::
-51194::$$$message_0440_0048_0001$$$::"No. I do not feel such power from him. [lr]::
-51195::$$$message_0440_0048_0002$$$::...Well, this contradicts what I was saying, but I believe his breathing and walking techniques were acquired through training after birth."::
-51196::$$$message_0440_0049_0000$$$::"...I cannot believe this either, but he is not a mage, nor does he carry the scent of blood on him.[lr]::
-51197::$$$message_0440_0049_0001$$$::But, err, it seems as though his daily exercise may just be that perfect for him."::
-51198::$$$message_0440_0050_0000$$$::"...???"[lr]::
-51199::$$$message_0440_0050_0001$$$::What does that mean?[lr]::
-51200::$$$message_0440_0050_0002$$$::Mr. Kuzuki has been living purely and honestly both mentally and physically?::
-51201::$$$message_0440_0051_0000$$$::"Saber. So, Mr. Kuzuki is..."[lr]::
-51202::$$$message_0440_0051_0001$$$::"It means that he is an ideal person to have as a teacher. As a person, he is not extraordinary.[lr]::
-51203::$$$message_0440_0051_0002$$$::However, it just means that he is an object of envy for someone like me who cannot breathe correctly even with training."::
-51204::$$$message_0440_0052_0000$$$::...Surprisingly, this shocks me more.[lr]::
-51205::$$$message_0440_0052_0001$$$::Even Saber, who can do anything, envies other people...::
-51206::$$$message_0440_0053_0000$$$::...In the end, Issei never came.[lr]::
-51207::$$$message_0440_0053_0001$$$::It's almost time to leave school, so I decide to lock up and go back to the archery range. ::
+51092::$$$message_0440_0005_0000$$$::Acho que ser discreto não adianta.[lr]::
+51093::$$$message_0440_0005_0001$$$::Tentei sair discretamente, mas a Saber está me esperando do lado de fora.::
+51094::$$$message_0440_0006_0000$$$::"S-Saber. Um, bem, lembrei que tinha algo pra fazer..."[lr]::
+51095::$$$message_0440_0006_0001$$$::"Fazer, huh? Acredito que você só tinha o lanche pra entregar aqui."::
+51096::$$$message_0440_0007_0000$$$::"Uh, um... é nada demais. Pensei que não precisasse te contar, então não contei."[lr]::
+51097::$$$message_0440_0007_0001$$$::"Entendo. Se não é nada demais, certamente não precisa me contar. Você tem sua vida afinal."::
+51098::$$$message_0440_0008_0000$$$::Estou feliz por ela ser tão compreensiva.[lr]::
+51099::$$$message_0440_0008_0001$$$::...Feliz, mas talvez seja pela minha culpa que ela parece irritada?::
+51100::$$$message_0440_0009_0000$$$::"...Um. Então, pode esperar aqui?[lr]::
+51101::$$$message_0440_0009_0001$$$::Volto em uma hora[line4]"::
+51102::$$$message_0440_0010_0000$$$::"Mas essa era sua vida até ontem.[lr]::
+51103::$$$message_0440_0010_0001$$$::Você deve agir como Mestre a partir de hoje. Logo, devo te acompanhar até determinar que não há risco, não importa o quão pequeno seja o assunto.[lr]::
+51104::$$$message_0440_0010_0002$$$::[line3]Enfim, alguma objeção, Shirou?"::
+51105::$$$message_0440_0011_0000$$$::Tenho, mas não tenho desculpas para convencer a Saber.::
+51106::$$$message_0440_0012_0000$$$::"...Cara. Tudo bem, vamos, Saber. Vou te mostrar a escola."[lr]::
+51107::$$$message_0440_0012_0001$$$::Eu jogo meus ombros, desisto e chamo ela.[lr]::
+51108::$$$message_0440_0012_0002$$$::"Sim, ajudaria se você fizesse isso."[lr]::
+51109::$$$message_0440_0012_0003$$$::Então, a garota estrangeira e cabelos loiros me segue como se fosse algo normal.::
+51110::$$$message_0440_0013_0000$$$::"[line8]"[lr]::
+51111::$$$message_0440_0013_0001$$$::Bem.[lr]::
+51112::$$$message_0440_0013_0002$$$::Como vou explicar isso pro Issei...?::
+51113::$$$message_0440_0014_0000$$$::"Gah."[lr]::
+51114::$$$message_0440_0014_0001$$$::...Cara.[lr]::
+51115::$$$message_0440_0014_0002$$$::A porta do conselho estudantil está destrancada, logo hoje.::
+51116::$$$message_0440_0015_0000$$$::"Esse é o segundo 'gah' que eu ouvi. Realmente parece que você está tentando me esconder algo."[lr]::
+51117::$$$message_0440_0015_0001$$$::...E ainda por cima, ela consegue ver meu desgosto.[lr]::
+51118::$$$message_0440_0015_0002$$$::Não sei se é conhecimento dela como espadachim, mas não acho que possa enganar ela.::
+51119::$$$message_0440_0016_0000$$$::"Só não queria causar uma grande comoção ao invés de esconder as coisas. ...Bem, acho que é o destino o Issei estar aqui. Vou te apresentar a ele."[lr]::
+51120::$$$message_0440_0016_0001$$$::A sala do conselho não vai ter outros alunos, e poderemos matar tempo até o clube de arquearia acabar.::
+51121::$$$message_0440_0017_0000$$$::"Issei...? Ele é um amigo seu?"[lr]::
+51122::$$$message_0440_0017_0001$$$::"Sim. Ele é o líder... Deixa eu ver[line4] o líder da força tarefa de defesa da escola, um homem de aço almejando uma estrutura devidamente organizada."::
+51123::$$$message_0440_0018_0000$$$::"[line3]Um líder de uma força tarefa de defesa, huh? Talvez eu ouça histórias interessantes dele."[lr]::
+51124::$$$message_0440_0018_0001$$$::"Talvez. Ele é um cara teimoso, então talvez você se dê bem com ele."::
+51125::$$$message_0440_0019_0000$$$::"Ei, estou entrando, Issei[line2]"[lr]::
+51126::$$$message_0440_0019_0001$$$::Abro a porta.[lr]::
+51127::$$$message_0440_0019_0002$$$::...Então.[lr]::
+51128::$$$message_0440_0019_0003$$$::Há uma pessoa inesperada na sala do conselho.::
+51129::$$$message_0440_0020_0000$$$::Eu engulo.[lr]::
+51130::$$$message_0440_0020_0001$$$::A pessoa na sala não é o Issei, mas sim o Kuzuki-Sensei, o professor encarregado do conselho estudantil.::
+51131::$$$message_0440_0021_0000$$$::"Com licença. O Issei está aqui hoje, Kuzuki-Sensei?"[lr]::
+51132::$$$message_0440_0021_0001$$$::"Não, não vi ele hoje. Tem algo a tratar aqui, Emiya?"[lr]::
+51133::$$$message_0440_0021_0002$$$::"Não, é mais com o Issei mesmo. Queria começar a me preparar para as provas finais."::
+51134::$$$message_0440_0022_0000$$$::"Entendo. Então você deveria tentar esperar aqui. Conhecendo ele, ele pode resolver fugir do tédio de casa e vir aqui."[lr]::
+51135::$$$message_0440_0022_0001$$$::"Posso ficar na sala do conselho estudantil?"[lr]::
+51136::$$$message_0440_0022_0002$$$::"Não deve ser problema. Se fosse, algo já teria acontecido."::
+51137::$$$message_0440_0023_0000$$$::"Vou confiar em você pra trancar aqui. Coloque a chave na minha mesa quando acabar."[lr]::
+51138::$$$message_0440_0023_0001$$$::Com isso, Kuzuki-Sensei deixa a sala do conselho.::
+51139::$$$message_0440_0024_0000$$$::...Acho que ele estava sendo amigável.[lr]::
+51140::$$$message_0440_0024_0001$$$::De acordo com o Issei, o Kuzuki-Sensei parece frio, mas na verdade ele tem uma personalidade delicada.[lr]::
+51141::$$$message_0440_0024_0002$$$::Ele deve ter achado que seria esquisito pra mim esperar na sala do conselho com um professor.::
+51142::$$$message_0440_0025_0000$$$::"......Hm?"[lr]::
+51143::$$$message_0440_0025_0001$$$::"[line8]"[lr]::
+51144::$$$message_0440_0025_0002$$$::Então.[lr]::
+51145::$$$message_0440_0025_0003$$$::Enquanto o Kuzuki-Sensei deixa a sala, ele esbarra na Saber, que está esperando atrás de mim.::
+51146::$$$message_0440_0026_0000$$$::"...! S-Sensei! Ela é minha conhecida, e pode vir aqui ano que vem, então ela veio visitar a escola...!"::
+51147::$$$message_0440_0027_0000$$$::Rapidamente invento uma desculpa.[lr]::
+51148::$$$message_0440_0027_0001$$$::Mas essa desculpa é inútil.[lr]::
+51149::$$$message_0440_0027_0002$$$::Mesmo se ela for uma aluna em potêncial, não posso trazer gente de fora pra escola.[lr]::
+51150::$$$message_0440_0027_0003$$$::A Fuji-Nee não liga, mas não acho que o encarregado do conselho estudantil vá fazer vista grossa pra isso[line4]::
+51151::$$$message_0440_0028_0000$$$::"...Entendo. Ela será nossa primeira aluna estrangeira. Inesperado, mas devo ficar feliz que haverá uma mudança."[lr]::
+51152::$$$message_0440_0028_0001$$$::"[line4]Huh?"::
+51153::$$$message_0440_0029_0000$$$::...Um.[lr]::
+51154::$$$message_0440_0029_0001$$$::Acho que o Kuzuki-Sensei é mais compreensível do que pensei, enquanto ele observa a Saber admirado.::
+51155::$$$message_0440_0030_0000$$$::"Ela não será ignorada quando entrar nesta escola.[lr]::
+51156::$$$message_0440_0030_0001$$$::Se você é um conhecido dela, tem que ser mais considerativo. Você será um veterano no ano que vêm. Precisa cuidar dos alunos mais novos."::
+51157::$$$message_0440_0031_0000$$$::"Ah[line3]sim. Obrigado, Sensei."[lr]::
+51158::$$$message_0440_0031_0001$$$::"O toque de recolher aos fins de semana é às 5. Vá pra casa antes que os portões fechem."::
+51159::$$$message_0440_0032_0000$$$::Ele vai para a sala dos professores.[lr]::
+51160::$$$message_0440_0032_0001$$$::A Saber observa ele ir.::
+51161::$$$message_0440_0033_0000$$$::"Saber? Há algo de errado com o Kuzuki-Sensei?"[lr]::
+51162::$$$message_0440_0033_0001$$$::"...Não, nada em particular. Primeiramente, parecia que ele não era um cara qualquer, mas quanto mais olho pra ele, mais ordinário ele parece. Posso declarar que ele não é um Mestre."::
+51163::$$$message_0440_0034_0000$$$::"......"[lr]::
+51164::$$$message_0440_0034_0001$$$::Estou um pouco surpreso.[lr]::
+51165::$$$message_0440_0034_0002$$$::Parece que a Saber está checando se as pessoas são Mestres ou não sempre que conhecemos alguém.::
+51166::$$$message_0440_0035_0000$$$::"Isso é bom. Ficaria surpreso se o Kuzuki-Sensei fosse um mago. Mas como assim, ele não é ordinário? Sentiu algo especial nele?"::
+51167::$$$message_0440_0036_0000$$$::"Não, não havia nada especial nele. Mas sua respiração é natural e controlada demais.[lr]::
+51168::$$$message_0440_0036_0001$$$::...Sendo sincera, estava admirando ele. Não havia movimentos desperdiçados em seus passos. Não acho que vi alguém tão bom quanto ele ."::
+51169::$$$message_0440_0037_0000$$$::A Saber está elogiando bastante ele.[lr]::
+51170::$$$message_0440_0037_0001$$$::Mas se ele é tão bom, não é suspeito!?::
+51171::$$$message_0440_0038_0000$$$::"Espera. Está dizendo que o Kuzuki-Sensei é forte em uma luta?"[lr]::
+51172::$$$message_0440_0038_0001$$$::"Huh? Aquela pessoa? Hmm, se for ele...[lr]::
+51173::$$$message_0440_0038_0002$$$::Acredito que ele é tão forte quanto você, fisicamente. Em uma batalha real... acredito que ele vai se sair tão bem quando um homem ordinário qualquer."::
+51174::$$$message_0440_0039_0000$$$::A Saber olha para mim maravilhada.[lr]::
+51175::$$$message_0440_0039_0001$$$::Mas sou eu quem está pensando.[lr]::
+51176::$$$message_0440_0039_0002$$$::O Kuzuki-Sensei conseguiu a admiração da Saber, então o que ela quer dizer com ele ser uma pessoa ordinária?::
+51177::$$$message_0440_0040_0000$$$::"Eu admirei sua respiração.[lr]::
+51178::$$$message_0440_0040_0001$$$::Aquela respiração é ideal para um ser humano. Admirei apenas aquilo."::
+51179::$$$message_0440_0041_0000$$$::Então.[lr]::
+51180::$$$message_0440_0041_0001$$$::Enquanto tomamos chá que fervemos aqui, a Saber explica de um modo estranho.::
+51181::$$$message_0440_0042_0000$$$::"Fala de 'respirar' respirar? O que tem de tão especial se for ideal?"[lr]::
+51182::$$$message_0440_0042_0001$$$::"Vai afetar sua habilidade física tanto quanto sua interação com a natureza. Magos ocidentais não ligam para isso, mas técnicas orientais tratam respiração e caminhada como habilidades superiores que não podem ser ensinadas."::
+51183::$$$message_0440_0043_0000$$$::"O ibuki, inalar o ar externo, é uma clara imagem de conexão com o mundo exterior e seu corpo interior. Ouvi dizer que respirar é receber Deus, e expirar é soltar Deus.[lr]::
+51184::$$$message_0440_0043_0001$$$::Esse 'jeito correto de respirar' é uma técnica secreta de toda escola, e alguém pode ter certeza que apenas um aluno por geração irá aprendê-lá."::
+51185::$$$message_0440_0044_0000$$$::"[line3]Em outras palavras, a pessoa que invoca o feitiço para fazer magia é apenas um mago.[lr]::
+51186::$$$message_0440_0044_0001$$$::Mas se a respiração, movimentação, e a existência em si puder fazer atos divinos, aquela pessoa é um Circuito Mágico puro que ultrapassa os magos."::
+51187::$$$message_0440_0045_0000$$$::"Ah... Acho que há algo assim no Xintoísmo.[lr]::
+51188::$$$message_0440_0045_0001$$$::Como eliminar o mal com passos ou bater de palmas."::
+51189::$$$message_0440_0046_0000$$$::"Sim, alguém passa uma vida inteira treinando esses ensinamentos.[lr]::
+51190::$$$message_0440_0046_0001$$$::Mas há raros casos onde esse alguém nasce com o jeito correto de respirar ou andar. Essas pessoas são Circuitos Mágicos propriamente ditos."::
+51191::$$$message_0440_0047_0000$$$::"Enquanto elas são anormais, terão a fama de prodígios e serão reivindicadas por magos. Mas há alguns que crescem sem chamar a atenção de ninguém.[lr]::
+51192::$$$message_0440_0047_0001$$$::Essas pessoas tem em si mistérios divinos que ultrapassam a magia, sem nem conhecer magia. Mas[line4]"::
+51193::$$$message_0440_0048_0000$$$::"Mas? Então o Kuzuki-Sensei tem um talento natural?"[lr]::
+51194::$$$message_0440_0048_0001$$$::"Não. Não sinto isso nele.[lr]::
+51195::$$$message_0440_0048_0002$$$::...Um, isso é contraditório, mas acredito que suas técnicas de respiração e caminhada foram adquiridas por treinamento."::
+51196::$$$message_0440_0049_0000$$$::"Não posso acreditar, mas ele não é um mago.[lr]::
+51197::$$$message_0440_0049_0001$$$::Acredito que seu treinamento diário afetou ele perfeitamente."::
+51198::$$$message_0440_0050_0000$$$::"......???"[lr]::
+51199::$$$message_0440_0050_0001$$$::Como assim?[lr]::
+51200::$$$message_0440_0050_0002$$$::Quer dizer que o Kuzuki-Sensei está vivendo uma vida pura e honesta?::
+51201::$$$message_0440_0051_0000$$$::"Saber. Então o Kuzuki-Sensei é..."[lr]::
+51202::$$$message_0440_0051_0001$$$::"Significa que ele é um professor ideal. Uma pessoa como ele não é rara.[lr]::
+51203::$$$message_0440_0051_0002$$$::Significa que ele é admirável para alguém como eu que não consegue respirar perfeitamente mesmo treinando."::
+51204::$$$message_0440_0052_0000$$$::A Saber suspira com tristeza.[lr]::
+51205::$$$message_0440_0052_0001$$$::...Embora isso é ainda mais surpreendente pra mim.[lr]::
+51206::$$$message_0440_0053_0000$$$::No final das contas, o Issei nunca veio.[lr]::
+51207::$$$message_0440_0053_0001$$$::A escola está quase fechando, então trancamos a sala e voltamos para o clube de arquearia.::
 

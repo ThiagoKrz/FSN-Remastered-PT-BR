@@ -1,44 +1,44 @@
 DAT
 id=qid::label=str::text=lstr::
-7086::$$$message_0066_0000_0000$$$::"...Please come."::
-7087::$$$message_0066_0001_0000$$$::I murmur those words like a prayer.[lr]::
-7088::$$$message_0066_0001_0001$$$::My life doesn't matter anymore.[lr]::
-7089::$$$message_0066_0001_0002$$$::But to put a stop to this savage brutality...[lr]::
-7090::$$$message_0066_0001_0003$$$::"No...COME...SABER!!!"[lr]::
-7091::$$$message_0066_0001_0004$$$::I muster up all my strength and call for my blade.[lr]::
-7092::$$$message_0066_0001_0005$$$::One of my Command Spell strokes disappears.[lr]::
-7093::$$$message_0066_0001_0006$$$::At that very moment, the space around me begins to waver.::
-7094::$$$message_0066_0002_0000$$$::So [font italic=true]this[font italic=false] is magic.[lr]::
-7095::$$$message_0066_0002_0001$$$::Saber, clad in her silver armor, bursts through the ripples in space and time to appear before me.::
-7096::$$$message_0066_0003_0000$$$::"Gah...ha...!"[lr]::
-7097::$$$message_0066_0003_0001$$$::My back slams into the ground.::
-7098::$$$message_0066_0004_0000$$$::"Ah...ha...aaahhhh...!"[lr]::
-7099::$$$message_0066_0004_0001$$$::I stop breathing.[lr]::
-7100::$$$message_0066_0004_0002$$$::The force of impact jars every bone and organ in my body.[lr]::
-7101::$$$message_0066_0004_0003$$$::Several ribs crack, or probably break outright.::
-7102::$$$message_0066_0005_0000$$$::"Ah...hh...ggh!"[lr]::
-7103::$$$message_0066_0005_0001$$$::And yet...[lr]::
-7104::$$$message_0066_0005_0002$$$::...my body is intact. My bloody arms are still attached.::
-7105::$$$message_0066_0006_0000$$$::"Shirou!"[lr]::
-7106::$$$message_0066_0006_0001$$$::Saber runs to me.[lr]::
-7107::$$$message_0066_0006_0002$$$::Forcing my numb limbs to move, I push to my feet to show her that I'm all right.::
-7108::$$$message_0066_0007_0000$$$::"There's no time to explain. You understand what's happening, right, Saber?"[lr]::
-7109::$$$message_0066_0007_0001$$$::"Please wait, Shirou. I do understand, but first, your body must[line2]"[lr]::
-7110::$$$message_0066_0007_0002$$$::"Take care of Rider. Only you can beat her."::
-7111::$$$message_0066_0008_0000$$$::"I cannot. Treating you is my first priority. You will not survive these wounds."[lr]::
-7112::$$$message_0066_0008_0001$$$::"No. There's something else that needs doing first."[lr]::
-7113::$$$message_0066_0008_0002$$$::We need to beat Shinji and Rider. As quickly as possible.[lr]::
-7114::$$$message_0066_0008_0003$$$::Nothing is more important.::
-7115::$$$message_0066_0009_0000$$$::"But if I do that..."[lr]::
-7116::$$$message_0066_0009_0001$$$::Saber is focused only on me.[lr]::
-7117::$$$message_0066_0009_0002$$$::I'd be lying if I said I wasn't happy about that.[lr]::
-7118::$$$message_0066_0009_0003$$$::But there's no time to argue.[lr]::
-7119::$$$message_0066_0009_0004$$$::If Saber doesn't want to listen, I just need to use my second Command Spell.::
-7120::$$$message_0066_0010_0000$$$::"...Hn."[lr]::
-7121::$$$message_0066_0010_0001$$$::She must have understood my resolve.[lr]::
-7122::$$$message_0066_0010_0002$$$::Saber reluctantly accepts my decision.::
-7123::$$$message_0066_0011_0000$$$::"Understood. Master, your orders."[lr]::
-7124::$$$message_0066_0011_0001$$$::"Defeat Rider. I'll handle Shinji."[lr]::
-7125::$$$message_0066_0011_0002$$$::Saber does not hesitate.[lr]::
-7126::$$$message_0066_0011_0003$$$::She nods and, without another word, turns toward the school building like a whirlwind.[lr]::
+7086::$$$message_0066_0000_0000$$$::"[line3]Venha aqui."::
+7087::$$$message_0066_0001_0000$$$::Eu sussurro como se estivesse rezando para ela aparecer.[lr]::
+7088::$$$message_0066_0001_0001$$$::Eu não estou preocupado com a minha vida.[lr]::
+7089::$$$message_0066_0001_0002$$$::Mas sim com impedir o que está causando todo esse desastre...::
+7090::$$$message_0066_0001_0003$$$::"Não[line2]APAREÇA, SABER!!!!"[lr]::
+7091::$$$message_0066_0001_0004$$$::Eu grito com todas as minhas forças para chamar a minha espada.[lr]::
+7092::$$$message_0066_0001_0005$$$::Um dos meus Selos de Comando desaparece.[lr]::
+7093::$$$message_0066_0001_0006$$$::E logo em seguida, o ar começa a tremer.::
+7094::$$$message_0066_0002_0000$$$::Isso só pode ter sido feitiçaria.[lr]::
+7095::$$$message_0066_0002_0001$$$::Porque a Saber acabou de aparecer com a sua armadura prateada, como se tivesse quebrado o espaço-tempo.::
+7096::$$$message_0066_0003_0000$$$::"Gah...!"[lr]::
+7097::$$$message_0066_0003_0001$$$::Eu caio de costas no chão.::
+7098::$$$message_0066_0004_0000$$$::"Ah[line2]ha, ah...!"[lr]::
+7099::$$$message_0066_0004_0001$$$::Eu paro de respirar.[lr]::
+7100::$$$message_0066_0004_0002$$$::Os meus órgãos vão explodir com o impacto da queda.[lr]::
+7101::$$$message_0066_0004_0003$$$::Algumas das minhas costelas devem ter quebrado ou no mínimo rachado.::
+7102::$$$message_0066_0005_0000$$$::"Ah[line2]"[lr]::
+7103::$$$message_0066_0005_0001$$$::Mas mesmo assim.[lr]::
+7104::$$$message_0066_0005_0002$$$::O meu corpo não explodiu em pedaços, e os meus braços cheios de sangue ainda estão no lugar.::
+7105::$$$message_0066_0006_0000$$$::"Shirou...!"[lr]::
+7106::$$$message_0066_0006_0001$$$::...A Saber vem correndo até mim.[lr]::
+7107::$$$message_0066_0006_0002$$$::Forçando os meus braços e pernas dormentes, eu me levanto para mostrar que está tudo bem.::
+7108::$$$message_0066_0007_0000$$$::"Eu não tenho tempo para explicar. Você entende a situação, Saber?"[lr]::
+7109::$$$message_0066_0007_0001$$$::"Espera, Shirou. Eu entendo a situação, mas antes o seu corpo precisa[line2]"[lr]::
+7110::$$$message_0066_0007_0002$$$::"Vá atrás da Rider. Só você consegue derrotá-la."::
+7111::$$$message_0066_0008_0000$$$::"Não, os seus ferimentos são mais importantes. Se você continuar assim, vai acabar morrendo."[lr]::
+7112::$$$message_0066_0008_0001$$$::"[line2]Nada disso. Há uma coisa que precisa ser feita primeiro."[lr]::
+7113::$$$message_0066_0008_0002$$$::Esqueça os meus ferimentos, porque nós temos que derrotar o Shinji e a Rider o mais rápido possível.[lr]::
+7114::$$$message_0066_0008_0003$$$::Essa deve ser a nossa a prioridade máxima.::
+7115::$$$message_0066_0009_0000$$$::"Mas isso é..."[lr]::
+7116::$$$message_0066_0009_0001$$$::A Saber insiste em falar dos ferimentos do meu corpo.[lr]::
+7117::$$$message_0066_0009_0002$$$::...Para ser sincero, eu até fico feliz que ela esteja preocupada comigo.[lr]::
+7118::$$$message_0066_0009_0003$$$::Mas nós não temos tempo para ficar discutindo.[lr]::
+7119::$$$message_0066_0009_0004$$$::Se a Saber não for atrás da Rider, eu serei obrigado a usar o meu segundo Selo de Comando.::
+7120::$$$message_0066_0010_0000$$$::"...!"[lr]::
+7121::$$$message_0066_0010_0001$$$::Ela deve ter sentido o quanto eu estou determinado.[lr]::
+7122::$$$message_0066_0010_0002$$$::A Saber finalmente aceita a minha decisão.::
+7123::$$$message_0066_0011_0000$$$::"Entendido. Mestre, me dê a ordem."[lr]::
+7124::$$$message_0066_0011_0001$$$::"Derrote a Rider. Eu vou cuidar do Shinji."[lr]::
+7125::$$$message_0066_0011_0002$$$::Dessa vez, a Saber não está mais insegura.[lr]::
+7126::$$$message_0066_0011_0003$$$::Ela acena com a cabeça e corre até o colégio feito uma tempestade.[lr]::
 
