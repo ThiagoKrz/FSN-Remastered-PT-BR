@@ -373,7 +373,7 @@ id=qid::label=str::string=lstr::
 26030::m_wpn_ownr_14::Archer::
 26031::m_wpn_name_15::Alabarda Incinerante do Céu::
 26032::m_wpn_ownr_15::???::
-26033::m_wpn_name_16::Chave Negra::
+26033::m_wpn_name_16::Black Key::
 26034::m_wpn_ownr_16::Kirei Kotomine::
 26035::m_wpn_name_17::Espada de Bambu Tigre::
 26036::m_wpn_ownr_17::Taiga Fujimura::
@@ -1113,7 +1113,7 @@ id=qid::label=str::string=lstr::
 100439::40_prof_01a_03::187cm::
 100440::40_prof_01a_04::78kg::
 100441::40_skiil_01a::Clarividência: C::
-100442::40_skiil_01b::Feitiçaria: C-::
+100442::40_skiil_01b::Magia: C-::
 100443::40_skiil_01c::Olho da Mente (Ver.): B::
 100444::40_abi_02a::Resistência Mágica: C::
 100445::40_deta_02a::Cú Chulainn::
@@ -1304,7 +1304,7 @@ id=qid::label=str::string=lstr::
 100630::41_atrus_06a_01::Rule Breaker::
 100631::41_atrus_06a_02::Todas as Magias Devem Ser Quebradas::
 100632::41_atrus_06a_03::Rank: C::
-100633::41_atrus_06a_04::Tipo NP: Anti-Feitiçaria::
+100633::41_atrus_06a_04::Tipo NP: Anti-Magia::
 100634::41_atrus_06a_05::Alcance: 1::
 100635::41_atrus_06a_06::Máx. alvos: 1 pessoa::
 100636::41_atrus_07a_01::Breaker Gorgon::
@@ -1393,7 +1393,7 @@ id=qid::label=str::string=lstr::
 100719::50_name_13a::Espada Joia Zelretch::
 100720::50_name_14a::Kanshou e Bakuya::
 100721::50_name_15a::Alabarda Incinerante do Céu::
-100722::50_name_16a::Chave Negra::
+100722::50_name_16a::Black Key::
 100723::50_name_17a::Espada de Bambu Tigre::
 100724::50_slash_00a::/::
 100725::50_title_00a_01::Menu de Armas::

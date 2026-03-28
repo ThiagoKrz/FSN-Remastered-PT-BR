@@ -19,14 +19,14 @@ id=qid::label=str::text=lstr::
 44717::$$$message_0397_0005_0001$$$::Ele vai perceber isso assim que eu Projetar uma das espadas do Archer. Não tem como eu Projetar rápido o suficiente e não tenho energia mágica para isso."[lr]::
 44718::$$$message_0397_0005_0002$$$::"Isso só se a sua feitiçaria continuar a mesma de antes.[lr]::
 44719::$$$message_0397_0005_0003$$$::Mas você se lembra de qual é o Fantasma Nobre do Archer, certo?[lr]::
-44720::$$$message_0397_0005_0004$$$::Aquela feitiçaria... Contanto que você consiga dominar aquele Mármore de Realidade, você terá uma chance contra o Gilgamesh."::
+44720::$$$message_0397_0005_0004$$$::Aquela feitiçaria... Contanto que você consiga dominar aquela Projeção de Realidade, você terá uma chance contra o Gilgamesh."::
 44721::$$$message_0397_0006_0000$$$::A Tohsaka olha para mim com grandes expectativas.[lr]::
 44722::$$$message_0397_0006_0001$$$::Infelizmente, não posso corresponder às expectativas dela.::
-44723::$$$message_0397_0007_0000$$$::"De jeito nenhum. O Mármore de Realidade é proibido até mesmo entre as magias mais perigosas, certo? Além disso, não sei como fazer, e não tenho nem uma fração da energia mágica necessária de quando o Archer criou o mundo dele."::
+44723::$$$message_0397_0007_0000$$$::"De jeito nenhum. Projeção de Realidade é proibido até mesmo entre as magias mais perigosas, certo? Além disso, não sei como fazer, e não tenho nem uma fração da energia mágica necessária de quando o Archer criou o mundo dele."::
 44724::$$$message_0397_0008_0000$$$::"Eu sei que seria difícil.[lr]::
-44725::$$$message_0397_0008_0001$$$::No entanto, você já deveria saber como fazê-lo. Isso porque toda a sua feitiçaria se origina dele. Seja o Reforço ou a Projeção, são apenas subprodutos do seu Mármore de Realidade.[lr]::
+44725::$$$message_0397_0008_0001$$$::No entanto, você já deveria saber como fazê-lo. Isso porque toda a sua feitiçaria se origina dele. Seja o Reforço ou a Projeção, são apenas subprodutos do sua Projeção de Realidade.[lr]::
 44726::$$$message_0397_0008_0002$$$::Contanto que você tenha energia mágica suficiente, tenho certeza de que até você ficará surpreso em como as engrenagens se encaixam sozinhas."::
-44727::$$$message_0397_0009_0000$$$::"Mesmo que seja esse o caso, ainda não muda o impossível. Eu não tenho a energia mágica para erguer ou sustentar o Mármore de Realidade. [lr]::
+44727::$$$message_0397_0009_0000$$$::"Mesmo que seja esse o caso, ainda não muda o impossível. Eu não tenho a energia mágica para erguer ou sustentar a Projeção de Realidade. [lr]::
 44728::$$$message_0397_0009_0001$$$::Tenho certeza que o Archer passou a vida inteira fortalecendo seus Circuitos Mágicos, mas eu não tenho o que ele tem..."::
 44729::$$$message_0397_0010_0000$$$::"Eu entendo.[lr]::
 44730::$$$message_0397_0010_0001$$$::Mas o Gilgamesh também disse isso, lembra? Um verdadeiro mago compensaria o que lhe falta buscando de outro lugar."::
@@ -46,9 +46,9 @@ id=qid::label=str::text=lstr::
 44744::$$$message_0397_0016_0000$$$::"Bem... para ser sincera, esse é um problema entre mim e você.[lr]::
 44745::$$$message_0397_0016_0001$$$::Existe uma maneira de conectar as reservas de energia mágica de dois magos para fazer isso funcionar."::
 44746::$$$message_0397_0017_0000$$$::"...Então seria como criar um caminho para a energia mágica fluir entre nós?"[lr]::
-44747::$$$message_0397_0017_0001$$$::"Isso. Mesmo se você não tiver energia mágica suficiente para o seu Mármore de Realidade, eu tenho.[lr]::
+44747::$$$message_0397_0017_0001$$$::"Isso. Mesmo se você não tiver energia mágica suficiente para sua Projeção de Realidade, eu tenho.[lr]::
 44748::$$$message_0397_0017_0002$$$::Você vai usar a minha energia mágica para lutar contra o Gilgamesh, e a Saber e eu vamos destruir o Santo Graal durante esse tempo. Eu tenho a Saber comigo, então devemos ficar bem do nosso lado, mesmo se eu ficar com pouca energia mágica."::
-44749::$$$message_0397_0018_0000$$$::Se eu puder usar meu Mármore de Realidade para segurar o Gilgamesh, sem outros Servos e Mestres, o Santo Graal fica totalmente desprotegido.[lr]::
+44749::$$$message_0397_0018_0000$$$::Se eu puder usar minha Projeção de Realidade para segurar o Gilgamesh, sem outros Servos e Mestres, o Santo Graal fica totalmente desprotegido.[lr]::
 44750::$$$message_0397_0018_0001$$$::Sendo a Tohsaka uma maga e tendo a Saber ao seu lado, nossa chance de sucesso é alta o suficiente.::
 44751::$$$message_0397_0019_0000$$$::"...Mas isso traz outro problema, a parte difícil é o passo antes disso. Eu não sei como criar um caminho para a energia mágica fluir."[lr]::
 44752::$$$message_0397_0019_0001$$$::"Disso eu estou ciente. Caberá a mim pensar em uma forma."::
@@ -75,11 +75,11 @@ id=qid::label=str::text=lstr::
 44773::$$$message_0397_0026_0000$$$::Bem na minha cara.[lr]::
 44774::$$$message_0397_0026_0001$$$::Ela acabou jogando a minha determinação de volta na minha cara.::
 44775::$$$message_0397_0027_0000$$$::"P-por que?"[lr]::
-44776::$$$message_0397_0027_0001$$$::"Olha. O motivo pelo qual sequer estamos falando sobre tudo isso é para que possamos usar o seu Mármore de Realidade, certo? Então, por que iríamos querer enfraquecer o seu circuito?[lr]::
-44777::$$$message_0397_0027_0002$$$::Usar o Mármore de Realidade só é possível quando exercemos totalmente todos os nossos Circuitos Mágicos."[lr]::
+44776::$$$message_0397_0027_0001$$$::"Olha. O motivo pelo qual sequer estamos falando sobre tudo isso é para que possamos usar sua Projeção de Realidade, certo? Então, por que iríamos querer enfraquecer o seu circuito?[lr]::
+44777::$$$message_0397_0027_0002$$$::Usar a Projeção de Realidade só é possível quando exercemos totalmente todos os nossos Circuitos Mágicos."[lr]::
 44778::$$$message_0397_0027_0003$$$::"..."::
 44779::$$$message_0397_0028_0000$$$::...Entendo.[lr]::
-44780::$$$message_0397_0028_0001$$$::Eu sou aquele que vai usar o Mármore de Realidade. Eu mal serei capaz de criar uma fantasia grande o suficiente para corroer o próprio mundo quando eu exercer totalmente meus Circuitos Mágicos.[lr]::
+44780::$$$message_0397_0028_0001$$$::Eu sou aquele que vai usar a Projeção de Realidade. Eu mal serei capaz de criar uma fantasia grande o suficiente para corroer o próprio mundo quando eu exercer totalmente meus Circuitos Mágicos.[lr]::
 44781::$$$message_0397_0028_0002$$$::Se eu fosse transplantar alguns dos meus Circuitos Mágicos para a Tohsaka para criar um caminho, então eu não teria circuitos suficientes para realizar a minha feitiçaria, o que anularia o propósito de tudo.::
 44782::$$$message_0397_0029_0000$$$::"Entendeu?[lr]::
 44783::$$$message_0397_0029_0001$$$::Isso seria como gastar todo esse esforço apenas para nos tornar mais fracos, Shirou."[lr]::
@@ -202,7 +202,7 @@ id=qid::label=str::text=lstr::
 44900::$$$message_0397_0059_0000$$$::"..."[lr]::
 44901::$$$message_0397_0059_0001$$$::Enquanto viro as costas para ela, respiro fundo para me acalmar.[lr]::
 44902::$$$message_0397_0059_0002$$$::Eu vou receber o Emblema Mágico dela, e criar um caminho entre nós.[lr]::
-44903::$$$message_0397_0059_0003$$$::A energia mágica dela passará através dele, e me permitirá ativar o Mármore de Realidade para derrotar aquele Servo.[lr]::
+44903::$$$message_0397_0059_0003$$$::A energia mágica dela passará através dele, e me permitirá ativar a Projeção de Realidade para derrotar aquele Servo.[lr]::
 44904::$$$message_0397_0059_0004$$$::Este é simplesmente um processo nesta longa e perigosa luta.[lr]::
 44905::$$$message_0397_0059_0005$$$::Eu devo ser capaz de suprimir pensamentos desnecessários apenas reafirmando esse fato para mim mesmo.::
 44906::$$$message_0397_0060_0000$$$::"..."[lr]::
@@ -464,9 +464,9 @@ id=qid::label=str::text=lstr::
 45162::$$$message_0397_0131_0001$$$::O Emblema Mágico... ou melhor, o circuito se assimilará lentamente ao seu corpo e você não sentirá mais nada em cerca de meio ano."[lr]::
 45163::$$$message_0397_0131_0002$$$::"É mesmo? Então isso significa..."::
 45164::$$$message_0397_0132_0000$$$::"O transplante foi concluído. É basicamente um caminho de mão única de mim para você, então não é possível que você me envie a sua energia mágica. Tudo o que eu posso fazer agora por você é lhe enviar a minha energia mágica.[lr]::
-45165::$$$message_0397_0132_0001$$$::Tudo depende de você agora. Nós garantimos a energia mágica necessária para criar o Mármore de Realidade, tudo o que resta é[line2]"::
+45165::$$$message_0397_0132_0001$$$::Tudo depende de você agora. Nós garantimos a energia mágica necessária para criar a Projeção de Realidade, tudo o que resta é[line2]"::
 45166::$$$message_0397_0133_0000$$$::É o meu problema.[lr]::
-45167::$$$message_0397_0133_0001$$$::Tudo que eu preciso fazer é ativar totalmente meu Circuito Mágico e criar o Mármore de Realidade com sucesso.::
+45167::$$$message_0397_0133_0001$$$::Tudo que eu preciso fazer é ativar totalmente meu Circuito Mágico e criar a Projeção de Realidade com sucesso.::
 45168::$$$message_0397_0134_0000$$$::"...Você tem razão. Obrigado, Tohsaka. Farei bom uso do seu Emblema Mágico."[lr]::
 45169::$$$message_0397_0134_0001$$$::"É bom que faça. Além disso, não espere que eu vá me desculpar. Você não está me devendo apenas uma, me deve um trilhão, é o equivalente a uma vida inteira de dívidas."[lr]::
 45170::$$$message_0397_0134_0002$$$::"Hahaha, nisso você tem razão.[lr]::
