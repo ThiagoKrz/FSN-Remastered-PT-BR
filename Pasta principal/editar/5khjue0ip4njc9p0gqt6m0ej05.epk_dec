@@ -11,7 +11,7 @@ id=qid::label=str::text=lstr::
 64153::$$$message_0590_0003_0000$$$::...Não há resposta.[lr]::
 64154::$$$message_0590_0003_0001$$$::O seu trabalho já deve estar feito agora que eu concordei.[lr]::
 64155::$$$message_0590_0003_0002$$$::Antes que eu perceba, o Assassin desapareceu.::
-64156::$$$message_0590_0004_0000$$$::[w l=3][line3]Eu saio escondido de casa e vou para a residência dos Matou.[lr]::
+64156::$$$message_0590_0004_0000$$$::[w l=3][line3]Eu saio escondido de casa e vou para a residência dos Matous.[lr]::
 64157::$$$message_0590_0004_0001$$$::O céu está cheio de nuvens.[lr]::
 64158::$$$message_0590_0004_0002$$$::Talvez seja por causa do céu escuro, mas a casa está repleta de um ar sinistro.::
 64159::$$$message_0590_0005_0000$$$::Eu entro sem tocar a campainha.[lr]::
@@ -44,7 +44,7 @@ id=qid::label=str::text=lstr::
 64186::$$$message_0590_0013_0002$$$::Por que ele está falando sobre o Santo Gral...?::
 64187::$$$message_0590_0014_0000$$$::"Espera. O que você quer dizer com a Sakura sendo o Santo Graal? O que você fez com ela...!?"::
 64188::$$$message_0590_0015_0000$$$::"Eu modifiquei o corpo dela para obter o Santo Graal e fazer meu desejo se tornar realidade.[lr]::
-64189::$$$message_0590_0015_0001$$$::Foi tudo pelo maior desejo dos Makiri, de dar forma à alma, a verdadeira imortalidade. É por isso que eu dei para Sakura as funções do um Santo Graal após a guerra dez anos atrás."::
+64189::$$$message_0590_0015_0001$$$::Foi tudo pelo maior desejo dos Makiris, de dar forma à alma, a verdadeira imortalidade. É por isso que eu dei para Sakura as funções do um Santo Graal após a guerra dez anos atrás."::
 64190::$$$message_0590_0016_0000$$$::"O quê[w l=4][line4]você deu pra ela as funções do Santo Graal...?"::
 64191::$$$message_0590_0017_0000$$$::"Sim. Você deve ter ouvido como a Guerra do Santo Graal terminou dez anos atrás.[lr]::
 64192::$$$message_0590_0017_0001$$$::Seu pai, Emiya Kiritsugu, destruiu o Santo Graal que estava completo através do ritual que conhecemos como Guerra do Santo Graal.[lr]::
@@ -61,23 +61,23 @@ id=qid::label=str::text=lstr::
 64203::$$$message_0590_0020_0003$$$::É apenas uma cópia do Santo Graal que a família Einzbern cria.[lr]::
 64204::$$$message_0590_0020_0004$$$::Bem, eu não tenho tanta habilidade quanto eles, por isso eu fiz um oitavo do meu próprio jeito."::
 64205::$$$message_0590_0021_0000$$$::Ele ri.[lr]::
-64206::$$$message_0590_0021_0001$$$::...Copiando os Einzbern?[lr]::
+64206::$$$message_0590_0021_0001$$$::...Copiando os Einzberns?[lr]::
 64207::$$$message_0590_0021_0002$$$::Tudo o que ele fez foi pegar um pedaço de um produto já finalizado e implantar dentro da Sakura...!::
 64208::$$$message_0590_0022_0000$$$::"...Seu desgraçado! Você não conseguiu criar um Santo Graal, por isso usou um ser humano pra criar uma imitação...!?"::
 64209::$$$message_0590_0023_0000$$$::"Experimento. É apenas um experimento, herdeiro dos Emiya.[lr]::
 64210::$$$message_0590_0023_0001$$$::Esse experimento é meramente o primeiro passo. Meu plano original era mudá-la lentamente para algo parecido com o Santo Graal ao longo de várias décadas.[lr]::
-64211::$$$message_0590_0023_0002$$$::Era para ser o primeiro passo em direção ao Santo Graal dos Makiri que vive como um ser humano mas que ainda possui a função de coletar almas."::
+64211::$$$message_0590_0023_0002$$$::Era para ser o primeiro passo em direção ao Santo Graal dos Makiris que vive como um ser humano mas que ainda possui a função de coletar almas."::
 64212::$$$message_0590_0024_0000$$$::"Sakura[w l=4][line4]é um experimento...?"::
 64213::$$$message_0590_0025_0000$$$::"Obviamente. A Sakura foi entregue à família Matou por esse motivo.[lr]::
 64214::$$$message_0590_0025_0001$$$::Dar uma filha à família Matou significa nos dar um meio de alcançar o nosso objetivo. Tohsaka estava ciente disso. Nós temos o mesmo objetivo. Iremos nos transformar em monstros para alcançar a imortalidade."::
 64215::$$$message_0590_0026_0000$$$::"Imortalidade...?[lr]::
 64216::$$$message_0590_0026_0001$$$::Você e o pai da Tohsaka usaram a Sakura para uma coisa ridícula dessas...!?"::
 64217::$$$message_0590_0027_0000$$$::"É claro. A Guerra do Santo Graal sempre foi um ritual dedicado a esse fim. Só cooperamos por causa disso, e eu sou o único que ainda continua vivo.[lr]::
-64218::$$$message_0590_0027_0001$$$::Usar a sucessora dos Matou para alcançar o nosso objetivo no futuro distante."::
+64218::$$$message_0590_0027_0001$$$::Usar a sucessora dos Matous para alcançar o nosso objetivo no futuro distante."::
 64219::$$$message_0590_0028_0000$$$::"Mas o destino pode ser um tanto irônico.[lr]::
 64220::$$$message_0590_0028_0001$$$::A Sakura foi preparada para ser um Santo Graal inadaptável, mas ela mostrou um crescimento surpreendente.[lr]::
 64221::$$$message_0590_0028_0002$$$::Ah, acho que estou ficando velho. Eu nunca imaginei que a Sakura teria tanto talento. Não só ela consegue viver mesmo tendo coletado tantos Servos, mas ela ainda retém o seu senso de ser a Matou Sakura.[lr]::
-64222::$$$message_0590_0028_0003$$$::[w l=3][line3]Ela é um verdadeiro Santo Graal, assim como o dos Einzbern, o qual pensei que era impossível criar um igual."::
+64222::$$$message_0590_0028_0003$$$::[w l=3][line3]Ela é um verdadeiro Santo Graal, assim como o dos Einzberns, o qual pensei que era impossível criar um igual."::
 64223::$$$message_0590_0029_0000$$$::"......!"[lr]::
 64224::$$$message_0590_0029_0001$$$::Não consigo mais me segurar.[lr]::
 64225::$$$message_0590_0029_0002$$$::Eu não sou paciente o suficiente para continuar ouvindo as coisas absurdas vindas desse monstro.[lr]::
@@ -203,7 +203,7 @@ id=qid::label=str::text=lstr::
 64345::$$$message_0590_0065_0001$$$::"Isso é o que eu queria discutir. Queria lhe informar sobre a sua situação atual. Queria lhe dizer que você está protegendo o maior dos desastres."[lr]::
 64346::$$$message_0590_0065_0002$$$::Me sinto prestes a vomitar.::
 64347::$$$message_0590_0066_0000$$$::"[w l=8][line8]"[lr]::
-64348::$$$message_0590_0066_0001$$$::"Sakura irá perceber se for a filha dos Tohsaka ou eu. Mas ela vai prontamente entregar sua vida se for você."[lr]::
+64348::$$$message_0590_0066_0001$$$::"Sakura irá perceber se for a filha dos Tohsakas ou eu. Mas ela vai prontamente entregar sua vida se for você."[lr]::
 64349::$$$message_0590_0066_0002$$$::Não consigo respirar.::
 64350::$$$message_0590_0067_0000$$$::"[w l=8][line8]"[lr]::
 64351::$$$message_0590_0067_0001$$$::"[w l=3][line3]Acabar com uma vida para salvar milhares.[lr]::

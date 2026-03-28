@@ -33,7 +33,7 @@ id=qid::label=str::text=lstr::
 75490::$$$message_0695_0008_0000$$$::Na frente deles está um mago enrugado.[lr]::
 75491::$$$message_0695_0008_0001$$$::Ao lado dele está o Assassin, usando uma máscara branca de caveira.[lr]::
 75492::$$$message_0695_0008_0002$$$::Matou Zouken.[lr]::
-75493::$$$message_0695_0008_0003$$$::Ela percebe de cara que ele é o mago dos Makiri que lhe informaram quando ela saiu de seu país natal.::
+75493::$$$message_0695_0008_0003$$$::Ela percebe de cara que ele é o mago dos Makiris que lhe informaram quando ela saiu de seu país natal.::
 75494::$$$message_0695_0009_0000$$$::"[w l=3][line3]Matou Zouken. Então uma pessoa que não foi escolhida pelo Santo Graal está agindo como Mestre?"[lr]::
 75495::$$$message_0695_0009_0001$$$::Ela desce no chão e confronta o velho.[lr]::
 75496::$$$message_0695_0009_0002$$$::Não há medo em seus olhos.[lr]::
@@ -50,10 +50,10 @@ id=qid::label=str::text=lstr::
 75507::$$$message_0695_0012_0002$$$::E os Servos são apenas ferramentas usadas para abrir o portão[w l=3][line3]::
 75508::$$$message_0695_0013_0000$$$::"...Hah. Não é você que está envenenado pela desilusão, Zouken?[lr]::
 75509::$$$message_0695_0013_0001$$$::O Santo Graal que vira o recipiente não tem vontade própria, mas o Graal Maior que escolhe os Mestres tem. Vocês tentaram preencher o Santo Graal invocando espíritos heroicos porque o protótipo está aqui, nessa terra.[lr]::
-75510::$$$message_0695_0013_0002$$$::[w l=3][line3]Bem, tenho certeza que o sangue dos Makiri entrou em declínio porque você, um dos envolvidos, esqueceu de uma coisa dessas."[lr]::
+75510::$$$message_0695_0013_0002$$$::[w l=3][line3]Bem, tenho certeza que o sangue dos Makiris entrou em declínio porque você, um dos envolvidos, esqueceu de uma coisa dessas."[lr]::
 75511::$$$message_0695_0013_0003$$$::Sua voz é fria.[lr]::
 75512::$$$message_0695_0013_0004$$$::O velho aceita o seu desprezo com uma risada.::
-75513::$$$message_0695_0014_0000$$$::"Ah, não precisa se preocupar. O declínio dos Makiri acaba agora. Está quase tudo completo. O plano era me envolver no próximo ritual, mas eu fui abençoado com ótimas peças de jogo. O meu maior desejo está prestes a se realizar."[lr]::
+75513::$$$message_0695_0014_0000$$$::"Ah, não precisa se preocupar. O declínio dos Makiris acaba agora. Está quase tudo completo. O plano era me envolver no próximo ritual, mas eu fui abençoado com ótimas peças de jogo. O meu maior desejo está prestes a se realizar."[lr]::
 75514::$$$message_0695_0014_0001$$$::"Entendo. Então faça como quiser. Não estou interessada em você. Eu não gosto que haja outros recipientes além de mim, mas você vai falhar de qualquer jeito. Eu não vou te incomodar, então por que não volta para o buraco de onde você saiu?"::
 75515::$$$message_0695_0015_0000$$$::"Você não precisa me dizer isso. A luz do Sol é dolorosa nesse meu corpo velho, por isso vou voltar para o meu covil assim que eu resolver o meu assunto aqui.[lr]::
 75516::$$$message_0695_0015_0001$$$::Mas[w l=3][line3]eu fico preocupado quando as coisas dão certo demais desse jeito. Eu irei pegar o seu corpo, só como precaução. O meu maior desejo vai praticamente estar realizado se eu te capturar aqui."::
@@ -116,7 +116,7 @@ id=qid::label=str::text=lstr::
 75573::$$$message_0695_0029_0002$$$::Os olhos do mago perdem o foco, como se estivesse olhando para o céu distante.[lr]::
 75574::$$$message_0695_0029_0003$$$::"[w l=3][line3]Hah, falou muito bem para uma marionete. Então a imitação da Justeaze já está impressa em você."[lr]::
 75575::$$$message_0695_0029_0004$$$::Ele distorce o seu rosto com o ódio e encara a menina branca.::
-75576::$$$message_0695_0030_0000$$$::"[w l=4][line4]Chega de conversa. Já brincamos o bastante. Eu preciso do seu corpo, mas não da sua mente. Eu, Makiri Zouken, vou pegar o Santo Graal dos Einzbern."[lr]::
+75576::$$$message_0695_0030_0000$$$::"[w l=4][line4]Chega de conversa. Já brincamos o bastante. Eu preciso do seu corpo, mas não da sua mente. Eu, Makiri Zouken, vou pegar o Santo Graal dos Einzberns."[lr]::
 75577::$$$message_0695_0030_0001$$$::"[w l=8][line8]"[lr]::
 75578::$$$message_0695_0030_0002$$$::A sombra do velho rasteja pelo chão.[lr]::
 75579::$$$message_0695_0030_0003$$$::...Com isso, a pressão na menina aumenta.::

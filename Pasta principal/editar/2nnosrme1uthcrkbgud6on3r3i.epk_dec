@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 28242::$$$message_0235_0000_0000$$$::[line3]A Guerra do Santo Graal.[l][r]::
 28243::$$$message_0235_0000_0001$$$::É um grande ritual, um que vem sido realizado por centenas de anos.[l][r]::
-28244::$$$message_0235_0000_0002$$$::Enquanto parte do ritual, não há outro caminho para sobreviver a não ser eliminar aos outros seis participantes.::
+28244::$$$message_0235_0000_0002$$$::Enquanto parte do ritual, não há outro caminho para sobreviver a não ser eliminar os outros seis participantes.::
 28245::$$$message_0235_0001_0000$$$::É dito que o Santo Graal está nas terras de Fuyuki, e que muitos magos lutaram entre si aqui no passado.[l][r]::
 28246::$$$message_0235_0001_0001$$$::Todos tinham um único propósito: obter a relíquia onipotente chamada de Santo Graal.::
 28247::$$$message_0235_0002_0000$$$::Contudo, a origem dele é desconhecida.[l][r]::
@@ -36,10 +36,10 @@ id=qid::label=str::text=lstr::
 28275::$$$message_0235_0009_0000$$$::Essa marca de energia mágica concentrada é algo temporário.[l][r]::
 28276::$$$message_0235_0009_0001$$$::Ela é consumida a cada uso, e como a aparência indica, cada segmento equivale a um comando.[l][r]::
 28277::$$$message_0235_0009_0002$$$::Em outras palavras, ele pode ser usado apenas três vezes.[l][r]::
-28278::$$$message_0235_0009_0003$$$::Um Mestre que perdeu todos os seus três Selos de Comando será incapaz de controlar seu Servo e morrerá.::
+28278::$$$message_0235_0009_0003$$$::Um Mestre que perdeu todos os seus três Selos de Comando será incapaz de controlar seu Servo, e já pode ser considerado como morto.::
 28279::$$$message_0235_0010_0000$$$::Portanto...[l][r]::
-28280::$$$message_0235_0010_0001$$$::...o Selo de Comando é algo que deve ser protegido e é tão valioso quanto a própria vida de um.[l][r]::
-28281::$$$message_0235_0010_0002$$$::Minha cabeça dói quando penso que gastei um logo no começo, mas deixo por aí sabendo que ele não foi completamente inútil.[l][r]::
+28280::$$$message_0235_0010_0001$$$::...o Selo de Comando é algo que deve ser protegido e é tão valioso quanto a sua própria vida.[l][r]::
+28281::$$$message_0235_0010_0002$$$::Minha cabeça dói quando penso que gastei um logo no começo, mas considero uma vitória saber que ele não foi completamente inútil.[l][r]::
 28282::$$$message_0235_0010_0003$$$::Ainda mais porque não seria estranho um Servo trair seu Mestre.[l][r]::
 28283::$$$message_0235_0010_0004$$$::Eu tenho sorte por ter sido capaz de acorrentá-lo usando apenas um dos três.::
 28284::$$$message_0235_0011_0000$$$::Bom, essa é a ideia geral da coisa.[l][r]::
@@ -71,7 +71,7 @@ id=qid::label=str::text=lstr::
 28310::$$$message_0235_0017_0003$$$::Ele é um cara grosseiro que não tem respeito por aquele que lhe invocou, e acima disso, sua Mestra.[l][r]::
 28311::$$$message_0235_0017_0004$$$::Além dele não saber quem é.[l][r]::
 28312::$$$message_0235_0017_0005$$$::Ai, eu já estou ficando com dor de cabeça...::
-28313::$$$message_0235_0018_0000$$$::"Terei de sobreviver sem o Fantasma Nobre dele até as suas memórias voltarem. Não tem como nós o usarmos se ele não se lembra dele."[l][r]::
+28313::$$$message_0235_0018_0000$$$::"Teremos que sobreviver sem a arma secreta dele até que suas memórias voltem. Não tem como usarmos algo que ele nem se lembra."[l][r]::
 28314::$$$message_0235_0018_0001$$$::Servos por si só são familiares poderosos, mas o que realmente torna-os os mais poderosos é o fato de que todos possuem um poderoso "golpe secreto".[l][r]::
 28315::$$$message_0235_0018_0002$$$::O problema é: o Archer diz que não se lembra do dele.::
 28316::$$$message_0235_0019_0000$$$::"[line3]Bom, parte da culpa também é minha, então é tentar conviver com isso."::
@@ -81,8 +81,8 @@ id=qid::label=str::text=lstr::
 28320::$$$message_0235_0020_0003$$$::Parece que temos um monte de problemas pela frente...[line2]::
 28321::$$$message_0235_0021_0000$$$::"Uau... Devo repensar minha opinião sobre ele."[l][r]::
 28322::$$$message_0235_0021_0001$$$::A sala de estar está exatamente como era antes.[l][r]::
-28323::$$$message_0235_0021_0002$$$::Estava esperando que ele apenas limpasse os seixos, então estou impressionada dele ter feito tudo isto.::
-28324::$$$message_0235_0022_0000$$$::Ele deve ter se sentido mal por ter feito tamanha bagunça,[line2]senão não teria feito tudo isso.[l][r]::
+28323::$$$message_0235_0021_0002$$$::Estava esperando que ele apenas limpasse os destroços, então estou impressionada dele ter feito tudo isto.::
+28324::$$$message_0235_0022_0000$$$::Ele deve ter se sentido mal por ter feito tamanha bagunça[line2]caso contrário, ele não teria feito tudo isso.[l][r]::
 28325::$$$message_0235_0022_0001$$$::Talvez ele seja um cara admirável, ou talvez só seja um cara legal.[line2]::
 28326::$$$message_0235_0023_0000$$$::"O sol já nasceu faz um tempo. Você é negligente demais."[l][r]::
 28327::$$$message_0235_0023_0001$$$::"..."[l][r]::
@@ -111,15 +111,15 @@ id=qid::label=str::text=lstr::
 28350::$$$message_0235_0029_0003$$$::Eu ficaria brava, mas o chá está tão gostoso que a felicidade não me deixa reclamar.::
 28351::$$$message_0235_0030_0000$$$::"Hmm. Hm."[l][r]::
 28352::$$$message_0235_0030_0001$$$::"Ei... Do que você está rindo?"[l][r]::
-28353::$$$message_0235_0030_0002$$$::"Bom, até perguntaria o que achou dele, mas acho que não preciso vendo uma reação dessas."[l][r]::
+28353::$$$message_0235_0030_0002$$$::"Bom, até perguntaria o que achou dele, mas acho que não preciso, vendo uma reação dessas."[l][r]::
 28354::$$$message_0235_0030_0003$$$::"[line4]!"[l][r]::
 28355::$$$message_0235_0030_0004$$$::Eu bato a xícara na mesa.::
 28356::$$$message_0235_0031_0000$$$::"Não o desperdice. Você deveria aproveitá-lo enquanto está quente. Posso sumir se eu estiver te distraindo."[l][r]::
 28357::$$$message_0235_0031_0001$$$::"Está bom assim, mas já estou satisfeita. Não me tornei uma Mestra para que alguém me servisse chá. Além disso, não há necessidade de você fazer qualquer coisa que não seja ordenado."::
 28358::$$$message_0235_0032_0000$$$::"Compreendo. Certamente não formei um contrato com você para lhe fazer chá ou a limpeza. Se é o que deseja, serei mais cuidadoso daqui em diante."[l][r]::
 28359::$$$message_0235_0032_0001$$$::"Exatamente. O que eu preciso é de um familiar poderoso.[l][r]::
-28360::$$$message_0235_0032_0002$$$:: Eu nunca ouvi falar de um Servo que faz serviço doméstico, e não preciso de um assim."::
-28361::$$$message_0235_0033_0000$$$::"Hm? O que quer dizer com não precisa?"[l][r]::
+28360::$$$message_0235_0032_0002$$$:: Eu nunca ouvi falar de um Servo que faz serviço doméstico, e não necessariamente preciso de um."::
+28361::$$$message_0235_0033_0000$$$::"Hm? O que quer dizer com 'não necessariamente'?"[l][r]::
 28362::$$$message_0235_0033_0001$$$::"Nada. Interprete como preferir.[l][r]::
 28363::$$$message_0235_0033_0002$$$:: Mais importante que isso, já se lembrou de quem você é?"::
 28364::$$$message_0235_0034_0000$$$::Archer balança a cabeça para os lados.[l][r]::
@@ -133,11 +133,11 @@ id=qid::label=str::text=lstr::
 28372::$$$message_0235_0037_0000$$$::"Ah, então é isso que você quis dizer.[l][r]::
 28373::$$$message_0235_0037_0001$$$:: Não será um problema. Certamente precisarei de outras roupas, mas apenas quando tomar forma.[l][r]::
 28374::$$$message_0235_0037_0002$$$:: Servos são espíritos afinal de contas. Nós usamos nossa forma espiritual quando fora de batalha para reduzir o peso sobre nossos Mestres."::
-28375::$$$message_0235_0038_0000$$$::"Ah, é mesmo. Você ainda é um espírito heroico mesmo que já tenha sido invocado. Como é a energia mágica do Mestre que dá forma ao espírito, se eu cortar essa energia mágica..."::
+28375::$$$message_0235_0038_0000$$$::"Ah, é mesmo. Você ainda é um Espírito Heroico mesmo que já tenha sido invocado. Como é a energia mágica do Mestre que dá forma ao espírito, se eu cortar essa energia mágica..."::
 28376::$$$message_0235_0039_0000$$$::"Naturalmente, voltaríamos para a nossa forma espiritual.[l][r]::
-28377::$$$message_0235_0039_0001$$$:: Um Servo nesse estado é como um espírito guardião. Não podemos ser vistos por ninguém além do Mestre com quem estamos conectados pela linha de ley.[l][r]::
+28377::$$$message_0235_0039_0001$$$:: Um Servo nesse estado é como um espírito guardião. Não podemos ser vistos por ninguém além do Mestre com quem estamos conectados pela linha ley.[l][r]::
 28378::$$$message_0235_0039_0002$$$:: Ainda somos capazes de falar mesmo assim, então pode ficar tranquila quanto a isso."::
-28379::$$$message_0235_0040_0000$$$::"Uau, que conveniente. Isso deve dificultar a procura pelos outros Mestres."[l][r]::
+28379::$$$message_0235_0040_0000$$$::"Uau, que conveniente. Isso deve dificultar a procura dos outros Mestres."[l][r]::
 28380::$$$message_0235_0040_0001$$$::"Sim. Mas magos são capazes de sentir outros magos, não? Da mesma maneira, Servos são capazes de sentir outros Servos.[l][r]::
 28381::$$$message_0235_0040_0002$$$:: Um Servo com conhecimentos mágicos seria capaz de sentir outros Servos mesmo à longa distância."::
 28382::$$$message_0235_0041_0000$$$::É como o Archer disse.[l][r]::
@@ -165,7 +165,7 @@ id=qid::label=str::text=lstr::
 28404::$$$message_0235_0045_0003$$$::Parando para pensar...[l][r]::
 28405::$$$message_0235_0045_0004$$$::Ele ainda não se dirigiu a mim pelo meu nome.::
 28406::$$$message_0235_0046_0000$$$::"[line3]Ah. Droga... nomes."[l][r]::
-28407::$$$message_0235_0046_0001$$$::"Parece que percebeu. Bom, não demorou tanto. Então Mestra, qual é o seu nome? Como devo me dirigir a você de agora em diante?"[l][r]::
+28407::$$$message_0235_0046_0001$$$::"Parece que percebeu. Bom, não demorou tanto. Então, Mestra, qual é o seu nome? Como devo me dirigir a você de agora em diante?"[l][r]::
 28408::$$$message_0235_0046_0002$$$::Archer pergunta emburrado.::
 28409::$$$message_0235_0047_0000$$$::[line4]Droga. Ele realmente é uma boa pessoa.[l][r]::
 28410::$$$message_0235_0047_0001$$$::Não tem como negar isso.[l][r]::
@@ -240,27 +240,27 @@ id=qid::label=str::text=lstr::
 28479::$$$message_0235_0067_0000$$$::"Você parece ter percebido. É isso mesmo, foi aqui que a última Guerra do Santo Graal terminou. Eu não sei os detalhes, mas a última guerra acabou aqui, e este lugar ficou assim desde então."[l][r]::
 28480::$$$message_0235_0067_0001$$$::"[line3]Entendo. Deve ser por isso que este lugar está repleto de rancor."::
 28481::$$$message_0235_0068_0000$$$::"Hmm. Você consegue sentir esse tipo de coisas?"[l][r]::
-28482::$$$message_0235_0068_0001$$$::"Servos são espíritos. Somos seres similares a obsessões que tomaram forma e rancores. Portanto, somos sensíveis a tais 'restos' como nós. Haviam lugares na cidade com fortes arrependimentos, mas aqui está em um nível completamente diferente. Para nós, este lugar é como uma Realidade Interior."[l][r]::
+28482::$$$message_0235_0068_0001$$$::"Servos são espíritos. Somos seres similares a obsessões que tomaram forma e rancores. Portanto, somos sensíveis a tais 'restos' como nós. Haviam lugares na cidade com fortes arrependimentos, mas aqui está em um nível completamente diferente. Para nós, este lugar é como uma Projeção de Realidade."[l][r]::
 28483::$$$message_0235_0068_0002$$$::Tohsaka murmura baixinho.[l][r]::
 28484::$$$message_0235_0068_0003$$$::O Archer usa um termo incomum sem dar tom à sua voz.::
-28485::$$$message_0235_0069_0000$$$::[line4]Realidade Interior.[l][r]::
-28486::$$$message_0235_0069_0001$$$::Uma das taumaturgias consideradas o auge da taumaturgia, dita ser extremamente próxima da feitiçaria.[l][r]::
-28487::$$$message_0235_0069_0002$$$::Por centenas de anos, uma "barreira mágica" tem sido o campo defensivo que protege um mago.[l][r]::
+28485::$$$message_0235_0069_0000$$$::[line4]Projeção de Realidade.[l][r]::
+28486::$$$message_0235_0069_0001$$$::Algo considerado o auge da magia, dita ser extremamente próxima de Magia Verdadeira.[l][r]::
+28487::$$$message_0235_0069_0002$$$::Por centenas de anos, um "Campo Limitado" tem sido o campo defensivo que protege um mago.[l][r]::
 28488::$$$message_0235_0069_0003$$$::Simplificando, é como uma versão mágica do sistema de segurança de uma casa.::
-28489::$$$message_0235_0070_0000$$$::Uma barreira mágica é algo aplicado em uma área existente ou construção para se proteger de inimigos.[l][r]::
+28489::$$$message_0235_0070_0000$$$::Um Campo Limitado é algo aplicado em uma área existente ou construção para se proteger de inimigos.[l][r]::
 28490::$$$message_0235_0070_0001$$$::Mas é meramente uma transformação aplicada "em algo que já existe".::
-28491::$$$message_0235_0071_0000$$$::Uma Realidade Interior é diferente.[l][r]::
-28492::$$$message_0235_0071_0001$$$::Uma Realidade Interior é uma imagem que corrói a realidade.[l][r]::
-28493::$$$message_0235_0071_0002$$$::O mundo imaginário de um mago - uma barreira mágica que sobrepõe-se à realidade, permitindo que a alma do mago tome forma. Isso é o que chamamos de uma Realidade Interior.[l][r]::
-28494::$$$message_0235_0071_0003$$$::Em outras palavras, é uma taumaturgia de alto alcance que distorce, ou melhor, recria o mundo da maneira que o mago desejar.::
+28491::$$$message_0235_0071_0000$$$::Uma Projeção de Realidade é diferente.[l][r]::
+28492::$$$message_0235_0071_0001$$$::Uma Projeção de Realidade é uma imagem que corrói a realidade.[l][r]::
+28493::$$$message_0235_0071_0002$$$::O mundo imaginário de um mago - um Campo Limitado que sobrepõe-se à realidade, permitindo que a mente do mago tome forma. Isso é o que chamamos de uma Projeção de Realidade.[l][r]::
+28494::$$$message_0235_0071_0003$$$::Em outras palavras, é uma magia de alto alcance que distorce, ou melhor, recria o mundo da maneira que o mago desejar.::
 28495::$$$message_0235_0072_0000$$$::"Rin? No que está pensando?"[l][r]::
 28496::$$$message_0235_0072_0001$$$::"Hm? Em nada, eu só fiquei surpresa.[l][r]::
-28497::$$$message_0235_0072_0002$$$:: Só achei incomum um Archer usar o termo 'Realidade Interior'."[l][r]::
+28497::$$$message_0235_0072_0002$$$:: Só achei incomum um Archer usar o termo 'Projeção de Realidade'."[l][r]::
 28498::$$$message_0235_0072_0003$$$::"É tão estranho assim que eu o conheça?"::
-28499::$$$message_0235_0073_0000$$$::"Mas é claro. A Realidade Interior é o tabu dos tabus, o princípio secreto dos princípios secretos. Não faz sentido algum um Archer saber sobre isso."[l][r]::
-28500::$$$message_0235_0073_0001$$$::"Não é mesmo?", assim pergunto usando meus olhos.[l][r]::
+28499::$$$message_0235_0073_0000$$$::"Mas é claro. A Projeção de Realidade é o tabu dos tabus entre os magos, o princípio secreto dos princípios secretos. Não faz sentido algum um Archer saber sobre isso."[l][r]::
+28500::$$$message_0235_0073_0001$$$::"Não é mesmo?" Eu pergunto com o meu olhar.[l][r]::
 28501::$$$message_0235_0073_0002$$$::E então o sinto soltar um forte suspiro ao meu lado.::
-28502::$$$message_0235_0074_0000$$$::"Rin, um herói é alguém capaz de usar tanto armas quanto taumaturgia.[l][r]::
+28502::$$$message_0235_0074_0000$$$::"Rin, um herói é alguém capaz de usar tanto armas quanto magia.[l][r]::
 28503::$$$message_0235_0074_0001$$$:: Tudo bem você pensar que um Archer use apenas arcos, mas por favor, não seja tão otimista ao pensar nas habilidades dos outros Servos."[l][r]::
 28504::$$$message_0235_0074_0002$$$::Ugh.[l][r]::
 28505::$$$message_0235_0074_0003$$$::Parando para pensar, ele está certo.::
@@ -270,7 +270,7 @@ id=qid::label=str::text=lstr::
 28509::$$$message_0235_0076_0001$$$::A-adestrar... é como se você estivesse falando de algum tipo de cavalo que tem hábitos estranhos!::
 28510::$$$message_0235_0077_0000$$$::"Ah, perdoe-me. Eu não quis dizer que você é um cavalo desobediente, apenas falei a impressão que você dá aos outros."[l][r]::
 28511::$$$message_0235_0077_0001$$$::"Ei, isso é ainda pio... ai!?"[l][r]::
-28512::$$$message_0235_0077_0002$$$::Meu braço direito começa a doer repentinamente..::
+28512::$$$message_0235_0077_0002$$$::Meu braço direito começa a doer repentinamente...::
 28513::$$$message_0235_0078_0000$$$::"[line4]Rin?"[l][r]::
 28514::$$$message_0235_0078_0001$$$::"Fique quieto por um segundo, Archer."[l][r]::
 28515::$$$message_0235_0078_0002$$$::Minha mão direita, precisamente onde o Selo de Comando está, começou a doer.[l][r]::
@@ -301,7 +301,7 @@ id=qid::label=str::text=lstr::
 28540::$$$message_0235_0085_0004$$$:: Deixe que esses fracotes nos sigam."[l][r]::
 28541::$$$message_0235_0085_0005$$$::Ele diz, tentando conter o riso.::
 28542::$$$message_0235_0086_0000$$$::Bom, não é como se eu tivesse gostado da resposta dele, mas nós decidimos continuar andando pela cidade.::
-28543::$$$message_0235_0087_0000$$$::Nós passamos pelos lugares importantes, arrastando nosso observador por aí. Jantamos no caminho, e concluímos nosso passeio.[l][r]::
+28543::$$$message_0235_0087_0000$$$::Nós passamos pelos lugares importantes, despistando nosso observador por aí. Jantamos no caminho, e concluímos nosso passeio.[l][r]::
 28544::$$$message_0235_0087_0001$$$::Estivemos andando por um bom tempo, e agora são sete horas.[l][r]::
 28545::$$$message_0235_0087_0002$$$::A esta hora da noite, nosso próximo destino deve nos dar a melhor vista da cidade.::
 28546::$$$message_0235_0088_0000$$$::Um vento forte.[l][r]::
@@ -317,7 +317,7 @@ id=qid::label=str::text=lstr::
 28556::$$$message_0235_0091_0001$$$::"Não, eu não consigo ver a cidade vizinha daqui. No máximo, consigo ver até a ponte. Desta distância, consigo contar os azulejos nela."::
 28557::$$$message_0235_0092_0000$$$::"Sem chance, os azulejos da ponte...!?"[l][r]::
 28558::$$$message_0235_0092_0001$$$::Isso não é simplesmente bom. A visão dele poderia rivalizar um daqueles telescópios que as pessoas usam nos telhados.::
-28559::$$$message_0235_0093_0000$$$::"Estou surpresa. A classe Archer realmente é feita por arqueiros."[l][r]::
+28559::$$$message_0235_0093_0000$$$::"Estou surpresa. A classe Archer realmente é composta por arqueiros."[l][r]::
 28560::$$$message_0235_0093_0001$$$::"Rin... Eu espero estar errado, mas por acaso você está tirando sarro de mim?"[l][r]::
 28561::$$$message_0235_0093_0002$$$::"Mas é claro que não. É só que mesmo sendo um Archer, você não parece ser um arqueiro."[l][r]::
 28562::$$$message_0235_0093_0003$$$::"Lhe questionarei mais sobre essa sua preocupante pretensiosidade quando chegarmos em casa."::
@@ -333,7 +333,7 @@ id=qid::label=str::text=lstr::
 28572::$$$message_0235_0096_0001$$$::Assim como percebi mais cedo que estava sendo observada, mas não fui capaz de ver o observador.::
 28573::$$$message_0235_0097_0000$$$::"[line3]Bom, no mínimo posso assumir que ao menos uma pessoa tem sua base em Shinto."[l][r]::
 28574::$$$message_0235_0097_0001$$$::Eu forço minhas vistas e olho para baixo.[l][r]::
-28575::$$$message_0235_0097_0002$$$::Existem sete mestres no total.[l][r]::
+28575::$$$message_0235_0097_0002$$$::Existem sete Mestres no total.[l][r]::
 28576::$$$message_0235_0097_0003$$$::Ainda não sei quem são eles e nem que Servos eles possuem.[l][r]::
 28577::$$$message_0235_0097_0004$$$::No momento, assumo que todos estão andando pela cidade coletando informações uns sobre os outros.::
 28578::$$$message_0235_0098_0000$$$::"[line3]?"[l][r]::
@@ -404,7 +404,7 @@ id=qid::label=str::text=lstr::
 28643::$$$message_0235_0116_0001$$$::"..."[l][r]::
 28644::$$$message_0235_0116_0002$$$::Um breve silêncio.[l][r]::
 28645::$$$message_0235_0116_0003$$$::O silêncio do Kirei cria tanta pressão que consegue te estressar até pelo telefone.::
-28646::$$$message_0235_0117_0000$$$::"Entendido. E agora? Você devia vir me ver ao menos uma vez. Tenho algo para lhe dar que recebi de seus pais. Eles me disseram para apenas lhe entregar isso caso se tornasse uma Mestra antes de uma adulta."::
+28646::$$$message_0235_0117_0000$$$::"Entendido. E agora? Você devia vir me ver ao menos uma vez. Tenho algo para lhe dar que recebi de seus pais. Eles me disseram para apenas lhe entregar isso caso se tornasse uma Mestra antes de se tornar uma adulta."::
 28647::$$$message_0235_0118_0000$$$::"Ah, está falando do testamento do meu pai? Eu já o decifrei e consegui o objeto, está tudo bem. Eu vou te visitar se me der vontade. Adeus."[l][r]::
 28648::$$$message_0235_0118_0001$$$::"Espere, Rin. Se você é agora uma Mestra..."[l][r]::
 28649::$$$message_0235_0118_0002$$$::Eu desligo, ignorando o que ele ia dizer.[l][r]::
@@ -414,5 +414,5 @@ id=qid::label=str::text=lstr::
 28653::$$$message_0235_0119_0002$$$::Ao acordar, será uma manhã completamente diferente.[l][r]::
 28654::$$$message_0235_0119_0003$$$::Dez anos atrás...[l][r]::
 28655::$$$message_0235_0119_0004$$$::A Guerra do Santo Graal, onde meu pai competiu como um Mestre e foi derrotado.[l][r]::
-28656::$$$message_0235_0119_0005$$$::Eu agora, estou prestes a entrar nessa mesma batalha...::
+28656::$$$message_0235_0119_0005$$$::Agora, estou prestes a entrar nessa mesma batalha...::
 

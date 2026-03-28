@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 65209::$$$message_0599_0007_0003$$$::Não consigo dizer qual de nós dois é o mais velho.::
 65210::$$$message_0599_0008_0000$$$::"Ok. Posso te perguntar uma coisa, Illya?"[lr]::
 65211::$$$message_0599_0008_0001$$$::"Tudo bem, te contarei qualquer coisa. O que você quer saber?"::
-65212::$$$message_0599_0009_0000$$$::"...O Santo Graal. Me conte sobre o Santo Graal dos Einzbern."[lr]::
+65212::$$$message_0599_0009_0000$$$::"...O Santo Graal. Me conte sobre o Santo Graal dos Einzberns."[lr]::
 65213::$$$message_0599_0009_0001$$$::"...Entendi, então você descobriu, huh? Tinha duas coisas que eu queria que você não descobrisse, e essa era uma delas."::
 65214::$$$message_0599_0010_0000$$$::"[w l=4][line4]Illya. Então..."[lr]::
 65215::$$$message_0599_0010_0001$$$::"Sim, eu sou o Santo Graal. Eu não sou humana. Eu sou um homúnculo criado para esse propósito."::
@@ -44,7 +44,7 @@ id=qid::label=str::text=lstr::
 65225::$$$message_0599_0014_0000$$$::Illya soa como se não estivesse interessada.[lr]::
 65226::$$$message_0599_0014_0001$$$::Mas[w l=3][line3]essa é a primeira vez que ouço que o Santo Graal coleta Servos.::
 65227::$$$message_0599_0015_0000$$$::"Bom, é mais recuperar do que coletar.[lr]::
-65228::$$$message_0599_0015_0001$$$::Servos são invocados pelo Santo Graal. Por isso é natural eles retornarem para o Santo Graal após serem derrotados. Eu sou o único Santo Graal dos Einzbern, por isso eu deveria ter coletado todos eles."::
+65228::$$$message_0599_0015_0001$$$::Servos são invocados pelo Santo Graal. Por isso é natural eles retornarem para o Santo Graal após serem derrotados. Eu sou o único Santo Graal dos Einzberns, por isso eu deveria ter coletado todos eles."::
 65229::$$$message_0599_0016_0000$$$::"...Mas parece que tem mais alguém funcionando como um Santo Graal.[lr]::
 65230::$$$message_0599_0016_0001$$$::Ela pegou a Caster e o Lancer quando eu percebi, e seu poder de absorção era maior.[lr]::
 65231::$$$message_0599_0016_0002$$$::Por isso ela pegou a maioria dos Servos.[lr]::

@@ -3,7 +3,7 @@ id=qid::label=str::text=lstr::
 76940::$$$message_0714_0000_0000$$$::"Ah é mesmo. Sakura, essa é a Illya.[lr]::
 76941::$$$message_0714_0000_0001$$$::O Berserker foi derrotado, mas nós conseguimos salvar a Illya. Assim como a Tohsaka, ela também vai morar aqui, então dê a ela boas vindas."[lr]::
 76942::$$$message_0714_0000_0002$$$::Eu apresento a Illya para a Sakura, e a Sakura para a Illya.::
-76943::$$$message_0714_0001_0000$$$::"Olá, Sakura. Ouvi dizer que você é filha dos Makiri, mas não irei te menosprezar. Parece que você é uma conhecida do Shirou, então vou te tratar especialmente como um ser humano."[lr]::
+76943::$$$message_0714_0001_0000$$$::"Olá, Sakura. Ouvi dizer que você é filha dos Makiris, mas não irei te menosprezar. Parece que você é uma conhecida do Shirou, então vou te tratar especialmente como um ser humano."[lr]::
 76944::$$$message_0714_0001_0001$$$::"...Tem razão. Então agirei da mesma forma."::
 76945::$$$message_0714_0002_0000$$$::"...?"[lr]::
 76946::$$$message_0714_0002_0001$$$::E a apresentação delas termina desse jeito.[lr]::
@@ -30,8 +30,8 @@ id=qid::label=str::text=lstr::
 76967::$$$message_0714_0009_0000$$$::"...Cara, o que ela tem?"[lr]::
 76968::$$$message_0714_0009_0001$$$::Eu já esperava isso da Tohsaka, mas a Illya está agindo de maneira estranha.[lr]::
 76969::$$$message_0714_0009_0002$$$::Ela está sendo fria com a Sakura, assim como ela agia comigo quando nos encontramos pela primeira vez.::
-76970::$$$message_0714_0010_0000$$$::"Por que a Illya está sendo tão agressiva com a Sakura? Será que os Einzbern e os Makiri não se dão bem?"::
-76971::$$$message_0714_0011_0000$$$::De acordo com o Kotomine, os Einzbern, os Makiri e os Tohsaka são famílias nobres de magos que criaram a Guerra do Santo Graal.[lr]::
+76970::$$$message_0714_0010_0000$$$::"Por que a Illya está sendo tão agressiva com a Sakura? Será que os Einzberns e os Makiris não se dão bem?"::
+76971::$$$message_0714_0011_0000$$$::De acordo com o Kotomine, os Einzberns, os Makiris e os Tohsakas são famílias nobres de magos que criaram a Guerra do Santo Graal.[lr]::
 76972::$$$message_0714_0011_0001$$$::Parece que os Einzberns são de um nível mais elevado, então do ponto de vista da Illya, a Sakura e a Tohsaka devem estar abaixo dela.::
 76973::$$$message_0714_0012_0000$$$::"...Cara. Não tire conclusões precipitadas, Sakura. A Illya só está dizendo isso porque está de mal-humor, mas vocês vão se dar bem quando começarem a conversar.[lr]::
 76974::$$$message_0714_0012_0001$$$::Ela só é meio tímida... Sakura?"[lr]::

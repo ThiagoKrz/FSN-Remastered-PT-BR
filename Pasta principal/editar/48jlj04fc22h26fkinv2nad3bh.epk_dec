@@ -1,549 +1,551 @@
 DAT
 id=qid::label=str::text=lstr::
-44701::$$$message_0397_0000_0000$$$::"...Tohsaka. Não fica brava e me ouve.[lr]::
-44702::$$$message_0397_0000_0001$$$::Eu vou lutar..."[lr]::
-44703::$$$message_0397_0000_0002$$$::"Você vai lutar com ele, certo? [lr]::
-44704::$$$message_0397_0000_0003$$$::...Ah, então você percebeu também, huh? O inimigo natural do Gilgamesh é a taumaturgia do Archer."::
-44705::$$$message_0397_0001_0000$$$::"Huh?"[lr]::
-44706::$$$message_0397_0001_0001$$$::Eu abro minha boca em surpresa.::
-44707::$$$message_0397_0002_0000$$$::"Huh? ......[wait canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]Você disse que ia lutar com ele sem ter percebido isso?"[lr]::
-44708::$$$message_0397_0002_0001$$$::"Uh[line3]eu não tinha prova nenhuma, mas eu pensei que talvez eu tivesse a melhor sorte contra ele."::
-44709::$$$message_0397_0003_0000$$$::".....Ah. Eu não sei quem te falou isso, mas você tá certo.[lr]::
-44710::$$$message_0397_0003_0001$$$::O que faz o Gilgamesh tão forte é o número de fantasmas nobres que ele tem. Mas colocando isso de outra forma, é possível se equiparar a ele se você tiver o mesmo número de fantasmas nobres."[lr]::
-44711::$$$message_0397_0003_0002$$$::"[line4]O mesmo número de fantasmas nobres..."[lr]::
-44712::$$$message_0397_0003_0003$$$::Isso significa que eu preciso reproduzir todos os fantasmas nobres que ele tirar pra fora.::
-44713::$$$message_0397_0004_0000$$$::"...Isso mesmo. Ele tava chamando vocês de falsificadores. Isso é provavelmente porque ele viu vocês como uma ameaça. Espírito heroico Emiya seria um adversário completo pra ele."[lr]::
-44714::$$$message_0397_0004_0001$$$::"[line8]"[lr]::
+44701::$$$message_0397_0000_0000$$$::"...Tohsaka, prometa que não vai ficar brava.[lr]::
+44702::$$$message_0397_0000_0001$$$::Mas eu estava pensando que... talvez eu devesse..."[lr]::
+44703::$$$message_0397_0000_0002$$$::"Enfrentar o Gilgamesh, certo?[lr]::
+44704::$$$message_0397_0000_0003$$$::...Estou surpresa que você tenha notado. A única coisa que pode bater de frente com o Fantasma Nobre do Gilgamesh... é a feitiçaria do Archer."::
+44705::$$$message_0397_0001_0000$$$::"Hã?"[lr]::
+44706::$$$message_0397_0001_0001$$$::Meu queixo caiu.::
+44707::$$$message_0397_0002_0000$$$::"Como assim 'hã'? [wait canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]Não me diga que... você estava pensando em uma loucura dessas sem nem perceber a parte mais importante?"[lr]::
+44708::$$$message_0397_0002_0001$$$::"Bem... não diria isso. Eu não tinha provas concretas, mas tive o pressentimento de que talvez eu tivesse a melhor chance contra ele..."::
+44709::$$$message_0397_0003_0000$$$::"...Hmmm, entendo. Não sei quem te deu essa ideia, mas você não estava errado.[lr]::
+44710::$$$message_0397_0003_0001$$$::O que faz do Gilgamesh o Servo mais poderoso é a quantidade de seus Fantasmas Nobres. Seguindo essa mesma linha de raciocínio, quem possuir a mesma quantidade de Fantasmas Nobres pode potencialmente lutar de igual para igual com ele."[lr]::
+44711::$$$message_0397_0003_0002$$$::"...A mesma quantidade de Fantasmas Nobres."[lr]::
+44712::$$$message_0397_0003_0003$$$::Basicamente, eu só preciso copiar cada uma das armas dele assim que ele as disparar.::
+44713::$$$message_0397_0004_0000$$$::"...Isso mesmo. Eu sei que ele zomba de vocês e os chama de falsificadores, mas tenho certeza de que é só porque ele vê vocês dois como ameaças. Ele não tem escolha a não ser admitir que o Espírito Heroico Emiya pode lutar no mesmo nível que ele."[lr]::
+44714::$$$message_0397_0004_0001$$$::"..."[lr]::
 44715::$$$message_0397_0004_0002$$$::Isso é verdade, mas...::
-44716::$$$message_0397_0005_0000$$$::"Talvez. Mas isso é impossível.[lr]::
-44717::$$$message_0397_0005_0001$$$::Eu mal consigo projetar uma das espadas do Archer. Eu não consigo me manter com os fantasmas nobres dele, e eu não tenho energia mágica o suficiente pra fazer isso."[lr]::
-44718::$$$message_0397_0005_0002$$$::"Isso é se a sua taumaturgia for bem como era até agora.[lr]::
-44719::$$$message_0397_0005_0003$$$::Mas você se lembra do que era o fantasma nobre do Archer, certo?[lr]::
-44720::$$$message_0397_0005_0004$$$::Você pode lidar com o Gilgamesh se você usar aquela taumaturgia[line3]aquela realidade interior."::
-44721::$$$message_0397_0006_0000$$$::A Tohsaka me encara.[lr]::
-44722::$$$message_0397_0006_0001$$$::Mas eu não posso alcançar as expectativas dela.::
-44723::$$$message_0397_0007_0000$$$::"Isso é impossível. A realidade interior é uma taumaturgia proibida. Eu não sei como usar, e o Archer usou energia mágica inúmeras vezes mais do que eu sou capaz de produzir."::
-44724::$$$message_0397_0008_0000$$$::"Sim, eu sei que é impossível.[lr]::
-44725::$$$message_0397_0008_0001$$$::Mas você deve saber como usar porque toda sua taumaturgia tá enraizada nisso. 'Fortalecimento' e 'projeção' ambos vêm da sua realidade interior.[lr]::
-44726::$$$message_0397_0008_0002$$$::Eu tenho certeza que vai ser mamão com açúcar assim que você tiver a energia mágica necessária."::
-44727::$$$message_0397_0009_0000$$$::"......Tudo bem. Vamos dizer que esse é o caso. Mas ainda é impossível. Eu não tenho a energia mágica pra preparar o campo de separação ou manter ele.[lr]::
-44728::$$$message_0397_0009_0001$$$::Ele deve ter treinado seu circuito mágico por muito tempo, mas eu não tenho a energia mágica[line4]"::
-44729::$$$message_0397_0010_0000$$$::"Eu sei.[lr]::
-44730::$$$message_0397_0010_0001$$$::O Gilgamesh falou isso também, certo? Magos pegam de outro lugar se eles não consegue suprir sozinhos."::
-44731::$$$message_0397_0011_0000$$$::"Mas eu não tenho nenhuma forma de pegar energia mágica de outro lugar. Eu não coleto ela em pedras como você faz.[lr]::
-44732::$$$message_0397_0011_0001$$$::...Espera. Você tá falando pra eu usar aquelas pedras?"[lr]::
-44733::$$$message_0397_0011_0002$$$::Eu não tenho o elemento mágico, então eu não acho que conseguiria fazer isso.::
-44734::$$$message_0397_0012_0000$$$::"Se isso funcionasse, eu já teria feito isso. Mas eu sou a única que consegue converter minhas pedras, então isso tá fora.[lr]::
-44735::$$$message_0397_0012_0001$$$::...Mas o único jeito é esse.[lr]::
-44736::$$$message_0397_0012_0002$$$::Tem vários procedimentos para se usar a energia mágica de outra pessoa como a sua, mas a única coisa coisa que a gente pode fazer agora é essa, então[line3]"::
-44737::$$$message_0397_0013_0000$$$::"...Ei, Tohsaka. Você pode ao menos me contar o que você tá pensando? Eu não consigo participar em uma discussão assim."[lr]::
-44738::$$$message_0397_0013_0001$$$::"Huh? [wait canskip=0 time=600][chgfg textoff=0 time=300 storage=凛私服14a(中)]N-Não tem chance alguma de eu te contar isso!"::
-44739::$$$message_0397_0014_0000$$$::...Hmpf.[lr]::
-44740::$$$message_0397_0014_0001$$$::Parece que ela pensou em algo que ela não pode me contar.::
-44741::$$$message_0397_0015_0000$$$::"N-Não é nada.[lr]::
-44742::$$$message_0397_0015_0001$$$::Eu consigo pensar em vários métodos, mas só acontece que eu escolhi um improvável..."[lr]::
-44743::$$$message_0397_0015_0002$$$::"Entendi, Então, alguma boa ideia?"::
-44744::$$$message_0397_0016_0000$$$::"Sim... Pra ser honesto, é sobre eu e você.[lr]::
-44745::$$$message_0397_0016_0001$$$::Um método de conectar dois magos com reservas de energia mágica."::
-44746::$$$message_0397_0017_0000$$$::"...Você vai fazer um caminho entre a gente pra me emprestar energia mágica?"[lr]::
-44747::$$$message_0397_0017_0001$$$::"Certo. Mesmo que você não tenha energia mágica o suficiente pra usar uma realidade interior, eu tenho.[lr]::
-44748::$$$message_0397_0017_0002$$$::Eu vou fazer você lutar com o Gilgamesh usando a minha energia mágica. Enquanto isso, a Saber e eu vamos destruir o santo graal. Eu vou ter a Saber, então mesmo que minha energia mágica acabe, eu ainda sou capaz de lutar."::
-44749::$$$message_0397_0018_0000$$$::Se eu conseguir restringir o Gilgamesh com minha realidade interior, enquanto não houverem outros mestres ou servos restantes, o santo graal vai estar aberto.[lr]::
-44750::$$$message_0397_0018_0001$$$::Com um mago como a Tohsaka, e também a Saber, nossa chance de sucesso talvez seja bem alta.::
-44751::$$$message_0397_0019_0000$$$::"...Mas mesmo assim. Chegar lá vai ser difícil. Eu não sei como fazer um caminho assim."[lr]::
-44752::$$$message_0397_0019_0001$$$::"Eu sei. Descobrir isso é meu trabalho."::
-44753::$$$message_0397_0020_0000$$$::A Tohsaka começa a pensar profundamente por algum motivo.[lr]::
-44754::$$$message_0397_0020_0001$$$::Ela não parece muito feliz.::
-44755::$$$message_0397_0021_0000$$$::"Quando é sobre métodos de criar um caminho, eu posso contar em uma mão os que permitem a transferência imediata de energia mágica.[lr]::
-44756::$$$message_0397_0021_0001$$$::A mais efetiva é transplantar circuitos mágicos."::
-44757::$$$message_0397_0022_0000$$$::[line2]Transplantar circuitos mágicos?[lr]::
-44758::$$$message_0397_0022_0001$$$::Circuitos mágicos são como um segundo sistema nervoso, e poderiam ser chamados de o próprio mago.[lr]::
-44759::$$$message_0397_0022_0002$$$::O mecanismo de um mago que é usado para operar mana.[lr]::
-44760::$$$message_0397_0022_0003$$$::Vamos supor que chegue a hora quando um futuro descendente descobre mistérios. Para que eles tenham a habilidade básica para usar essa teoria, essa "herança de vida" é dada entre gerações.[lr]::
-44761::$$$message_0397_0022_0004$$$::Você pode dizer que é como sangue e osso que fortalece com a acumulação.::
-44762::$$$message_0397_0023_0000$$$::"...Por circuitos mágicos , você quer dizer os dentro da gente?"[lr]::
-44763::$$$message_0397_0023_0001$$$::"Certo. Não tem caminho mais confiável que o feito quando dois magos transplantam a essência um do outro.[lr]::
-44764::$$$message_0397_0023_0002$$$::Quando parte do circuito da outra pessoa vira seu, é fácil transferir energia mágica por isso."::
-44765::$$$message_0397_0024_0000$$$::A breve explicação dela contém um pouco de culpa também.[lr]::
-44766::$$$message_0397_0024_0001$$$::...Isso é natural. Se nós fizermos algo tão drástico quanto transplantar circuitos mágicos, não há como saber o que pode acontecer.[lr]::
-44767::$$$message_0397_0024_0002$$$::Uma pessoa que dá seus circuitos mágicos está desistindo de seu status como um mago.[lr]::
-44768::$$$message_0397_0024_0003$$$::Mas se isso for resolver as coisas, então eu não vou hesitar.::
-44769::$$$message_0397_0025_0000$$$::"Tudo bem. Vamos transferir meu circuito mágico."[lr]::
-44770::$$$message_0397_0025_0001$$$::".................."[lr]::
-44771::$$$message_0397_0025_0002$$$::"O-O quê, Tohsaka?"[lr]::
-44772::$$$message_0397_0025_0003$$$::"Eu estou grata, mas não. Não tem motivo."::
-44773::$$$message_0397_0026_0000$$$::E logo assim.[lr]::
-44774::$$$message_0397_0026_0001$$$::Eu tinha me preparado, mas ela rapidamente rejeita minha sugestão.::
-44775::$$$message_0397_0027_0000$$$::"P-Por quê?"[lr]::
-44776::$$$message_0397_0027_0001$$$::"Olha. Em primeiro lugar, a razão pela qual a gente tá transferindo energia mágica é pra que você consiga usar sua realidade interior, certo? Então por que que a gente tiraria os seus circuitos?[lr]::
-44777::$$$message_0397_0027_0002$$$::Só com a minha energia mágica e todos os seus circuitos mágicos que você vai ser capaz de materializar aquela realidade interior."[lr]::
-44778::$$$message_0397_0027_0003$$$::"[line6]"::
-44779::$$$message_0397_0028_0000$$$::...Entendi.[lr]::
-44780::$$$message_0397_0028_0001$$$::Sou eu que vou usar a realidade interior. Para dar forma a aquela imensa ilusão que corrói o mundo, eu preciso abrir completamente meus circuitos mágicos.[lr]::
-44781::$$$message_0397_0028_0002$$$::Transplantando esses circuitos para Tohsaka para fazer um caminho e consequentemente não ter circuitos o suficiente pra realizar taumaturgia seria carroça na frente dos bois.::
+44716::$$$message_0397_0005_0000$$$::"Pode até ser o caso, mas há um limite.[lr]::
+44717::$$$message_0397_0005_0001$$$::Ele vai perceber isso assim que eu Projetar uma das espadas do Archer. Não tem como eu Projetar rápido o suficiente e não tenho energia mágica para isso."[lr]::
+44718::$$$message_0397_0005_0002$$$::"Isso só se a sua feitiçaria continuar a mesma de antes.[lr]::
+44719::$$$message_0397_0005_0003$$$::Mas você se lembra de qual é o Fantasma Nobre do Archer, certo?[lr]::
+44720::$$$message_0397_0005_0004$$$::Aquela feitiçaria... Contanto que você consiga dominar aquele Mármore de Realidade, você terá uma chance contra o Gilgamesh."::
+44721::$$$message_0397_0006_0000$$$::A Tohsaka olha para mim com grandes expectativas.[lr]::
+44722::$$$message_0397_0006_0001$$$::Infelizmente, não posso corresponder às expectativas dela.::
+44723::$$$message_0397_0007_0000$$$::"De jeito nenhum. O Mármore de Realidade é proibido até mesmo entre as magias mais perigosas, certo? Além disso, não sei como fazer, e não tenho nem uma fração da energia mágica necessária de quando o Archer criou o mundo dele."::
+44724::$$$message_0397_0008_0000$$$::"Eu sei que seria difícil.[lr]::
+44725::$$$message_0397_0008_0001$$$::No entanto, você já deveria saber como fazê-lo. Isso porque toda a sua feitiçaria se origina dele. Seja o Reforço ou a Projeção, são apenas subprodutos do seu Mármore de Realidade.[lr]::
+44726::$$$message_0397_0008_0002$$$::Contanto que você tenha energia mágica suficiente, tenho certeza de que até você ficará surpreso em como as engrenagens se encaixam sozinhas."::
+44727::$$$message_0397_0009_0000$$$::"Mesmo que seja esse o caso, ainda não muda o impossível. Eu não tenho a energia mágica para erguer ou sustentar o Mármore de Realidade. [lr]::
+44728::$$$message_0397_0009_0001$$$::Tenho certeza que o Archer passou a vida inteira fortalecendo seus Circuitos Mágicos, mas eu não tenho o que ele tem..."::
+44729::$$$message_0397_0010_0000$$$::"Eu entendo.[lr]::
+44730::$$$message_0397_0010_0001$$$::Mas o Gilgamesh também disse isso, lembra? Um verdadeiro mago compensaria o que lhe falta buscando de outro lugar."::
+44731::$$$message_0397_0011_0000$$$::"Me escuta, eu não sou habilidoso o suficiente para tentar drenar energia mágica de outros lugares, e não sei armazenar minha energia mágica em joias como você.[lr]::
+44732::$$$message_0397_0011_0001$$$::...Espera, você está me pedindo para usar aquelas joias?"[lr]::
+44733::$$$message_0397_0011_0002$$$::Claro, eu não acho que ela concordaria com isso, visto que não tenho nenhum treinamento em feitiçaria para poder utilizar essas joias.::
+44734::$$$message_0397_0012_0000$$$::"Se isso funcionasse, eu já teria te dado as joias. Além disso, só eu sou capaz de converter aquelas joias em energia, então não, isso não funcionaria.[lr]::
+44735::$$$message_0397_0012_0001$$$::...Mas, talvez essa seja a nossa única abordagem.[lr]::
+44736::$$$message_0397_0012_0002$$$::Há muitos passos que precisamos tomar para transformar a energia mágica de outra pessoa na sua própria, mas acho que essa é a única opção que nos resta considerando a nossa situação..."::
+44737::$$$message_0397_0013_0000$$$::"...Ei, Tohsaka. Você se importa em compartilhar o que está na sua cabeça? Eu não posso ajudar se você não me disser o que está acontecendo."[lr]::
+44738::$$$message_0397_0013_0001$$$::"O que? [wait canskip=0 time=600][chgfg textoff=0 time=300 storage=凛私服14a(中)]N-não tem como eu te contar sobre uma coisa dessas!"::
+44739::$$$message_0397_0014_0000$$$::...Hmmm.[lr]::
+44740::$$$message_0397_0014_0001$$$::Parece que ela está pensando em algo que é difícil de me contar.::
+44741::$$$message_0397_0015_0000$$$::"N-não é nada.[lr]::
+44742::$$$message_0397_0015_0001$$$::Existem algumas opções, mas eu simplesmente fiz um processo de eliminação e descartei aquelas com baixa chance de sucesso..."[lr]::
+44743::$$$message_0397_0015_0002$$$::"É mesmo? Então isso significa que você tem um bom plano agora?"::
+44744::$$$message_0397_0016_0000$$$::"Bem... para ser sincera, esse é um problema entre mim e você.[lr]::
+44745::$$$message_0397_0016_0001$$$::Existe uma maneira de conectar as reservas de energia mágica de dois magos para fazer isso funcionar."::
+44746::$$$message_0397_0017_0000$$$::"...Então seria como criar um caminho para a energia mágica fluir entre nós?"[lr]::
+44747::$$$message_0397_0017_0001$$$::"Isso. Mesmo se você não tiver energia mágica suficiente para o seu Mármore de Realidade, eu tenho.[lr]::
+44748::$$$message_0397_0017_0002$$$::Você vai usar a minha energia mágica para lutar contra o Gilgamesh, e a Saber e eu vamos destruir o Santo Graal durante esse tempo. Eu tenho a Saber comigo, então devemos ficar bem do nosso lado, mesmo se eu ficar com pouca energia mágica."::
+44749::$$$message_0397_0018_0000$$$::Se eu puder usar meu Mármore de Realidade para segurar o Gilgamesh, sem outros Servos e Mestres, o Santo Graal fica totalmente desprotegido.[lr]::
+44750::$$$message_0397_0018_0001$$$::Sendo a Tohsaka uma maga e tendo a Saber ao seu lado, nossa chance de sucesso é alta o suficiente.::
+44751::$$$message_0397_0019_0000$$$::"...Mas isso traz outro problema, a parte difícil é o passo antes disso. Eu não sei como criar um caminho para a energia mágica fluir."[lr]::
+44752::$$$message_0397_0019_0001$$$::"Disso eu estou ciente. Caberá a mim pensar em uma forma."::
+44753::$$$message_0397_0020_0000$$$::A Tohsaka está pensando em alguma coisa.[lr]::
+44754::$$$message_0397_0020_0001$$$::Mas ela não parece otimista a respeito.::
+44755::$$$message_0397_0021_0000$$$::"Sobre criar um caminho, há apenas um punhado de métodos que são imediatos e podem permitir a passagem de energia mágica.[lr]::
+44756::$$$message_0397_0021_0001$$$::O mais eficaz seria transplantar nossos Circuitos Mágicos um no outro."::
+44757::$$$message_0397_0022_0000$$$::...Transplantar nossos Circuitos Mágicos um no outro?[lr]::
+44758::$$$message_0397_0022_0001$$$::Os Circuitos Mágicos são pseudo-nervos secundários que se pode dizer que definem um mago.[lr]::
+44759::$$$message_0397_0022_0002$$$::Usando *od* para exercer influência sobre *mana*, é o mecanismo central de um mago.[lr]::
+44760::$$$message_0397_0022_0003$$$::É uma "herança viva" para garantir que a linhagem de alguém possa ter a fundação necessária para realizar o grande trabalho da família quando alcançarem o auge.[lr]::
+44761::$$$message_0397_0022_0004$$$::Pode-se dizer que é como o sangue e os ossos de uma pessoa, que se fortalecem com o passar do tempo.::
+44762::$$$message_0397_0023_0000$$$::"...Circuitos Mágicos, como os que estão em você e em mim?"[lr]::
+44763::$$$message_0397_0023_0001$$$::"Sim. Se transplantarmos nossas essências como magos um no outro, isso garantiria um caminho.[lr]::
+44764::$$$message_0397_0023_0002$$$::Não há maneira mais fácil de transferir sua energia mágica para outra pessoa quando você tem parte do circuito dela como seu próprio."::
+44765::$$$message_0397_0024_0000$$$::A explicação dela é curta e simples, mas contém um senso de culpa.[lr]::
+44766::$$$message_0397_0024_0001$$$::...É claro que conteria. Eu não consigo nem começar a imaginar as consequências de fazer algo tão insano quanto transplantar seus Circuitos Mágicos para outra pessoa.[lr]::
+44767::$$$message_0397_0024_0002$$$::Para uma pessoa oferecer seus próprios Circuitos Mágicos para serem transplantados, isso também significa que ela está abrindo mão de sua integridade como mago.[lr]::
+44768::$$$message_0397_0024_0003$$$::Mas isso torna tudo mais fácil.::
+44769::$$$message_0397_0025_0000$$$::"Ok, eu vou te dar os meus Circuitos Mágicos."[lr]::
+44770::$$$message_0397_0025_0001$$$::"..."[lr]::
+44771::$$$message_0397_0025_0002$$$::"O-o que foi, Tohsaka?"[lr]::
+44772::$$$message_0397_0025_0003$$$::"Fico feliz que você pense assim, mas isso não tem sentido."::
+44773::$$$message_0397_0026_0000$$$::Bem na minha cara.[lr]::
+44774::$$$message_0397_0026_0001$$$::Ela acabou jogando a minha determinação de volta na minha cara.::
+44775::$$$message_0397_0027_0000$$$::"P-por que?"[lr]::
+44776::$$$message_0397_0027_0001$$$::"Olha. O motivo pelo qual sequer estamos falando sobre tudo isso é para que possamos usar o seu Mármore de Realidade, certo? Então, por que iríamos querer enfraquecer o seu circuito?[lr]::
+44777::$$$message_0397_0027_0002$$$::Usar o Mármore de Realidade só é possível quando exercemos totalmente todos os nossos Circuitos Mágicos."[lr]::
+44778::$$$message_0397_0027_0003$$$::"..."::
+44779::$$$message_0397_0028_0000$$$::...Entendo.[lr]::
+44780::$$$message_0397_0028_0001$$$::Eu sou aquele que vai usar o Mármore de Realidade. Eu mal serei capaz de criar uma fantasia grande o suficiente para corroer o próprio mundo quando eu exercer totalmente meus Circuitos Mágicos.[lr]::
+44781::$$$message_0397_0028_0002$$$::Se eu fosse transplantar alguns dos meus Circuitos Mágicos para a Tohsaka para criar um caminho, então eu não teria circuitos suficientes para realizar a minha feitiçaria, o que anularia o propósito de tudo.::
 44782::$$$message_0397_0029_0000$$$::"Entendeu?[lr]::
-44783::$$$message_0397_0029_0001$$$::Isso significaria gastar tempo e esforço só pra diminuir nosso potencial de vitória, Shirou."[lr]::
-44784::$$$message_0397_0029_0002$$$::"Desculpa, eu não tinha pensado tão longe."[lr]::
-44785::$$$message_0397_0029_0003$$$::"Tá tudo bem, você não precisa se desculpar. Eu meio que esperei essa resposta. ...Bom, eu não esperava ela imediatamente."::
-44786::$$$message_0397_0030_0000$$$::"...Então você vai transferir seu circuito mágico pra mim?"[lr]::
-44787::$$$message_0397_0030_0001$$$::Mas isso é...[lr]::
-44788::$$$message_0397_0030_0002$$$::"...Certamente, transferir meu circuito pra você garantiria nosso potencial de luta mais que o contrário.[lr]::
-44789::$$$message_0397_0030_0003$$$::Mas sou eu que estou realizando o ritual de transferência. Diminuir meu número de circuitos enquanto eu uso eles faria o processo inteiro instável.[lr]::
-44790::$$$message_0397_0030_0004$$$::Eu poderia garantir a segurança se fosse algo como um ritual de contrato com um familiar, mas fazer isso pra um caminho entre magos seria muito fora do comum."::
-44791::$$$message_0397_0031_0000$$$::"...Então você tá dizendo que isso poderia destruir nós dois?"[lr]::
-44792::$$$message_0397_0031_0001$$$::"Certo, seria fora de questão eu pegar seus circuitos mágicos, e dar meus circuitos mágicos pra você seria um grande erro.[lr]::
-44793::$$$message_0397_0031_0002$$$::Então[line3]"[lr]::
-44794::$$$message_0397_0031_0003$$$::"Então?"[lr]::
-44795::$$$message_0397_0031_0004$$$::"Eu vou implantar meu encravamento mágico em você."::
-44796::$$$message_0397_0032_0000$$$::[line3]Um encravamento mágico.[lr]::
-44797::$$$message_0397_0032_0001$$$::A história de uma linhagem sanguínea, onde todos os segredos e mistérios estão escritos.[lr]::
-44798::$$$message_0397_0032_0002$$$::Se circuitos mágicos são sangue e osso, então o encravamento mágico seria a carne.::
-44799::$$$message_0397_0033_0000$$$::Um encravamento mágico é a taumaturgia recebendo formato.[lr]::
-44800::$$$message_0397_0033_0001$$$::A prova da existência de um mago, enquanto o chefe da família gasta uma vida inteira dando uma forma intangível a taumaturgia.[lr]::
-44801::$$$message_0397_0033_0002$$$::Como o herdeiro do encravamento mágico, a Tohsaka pode usar taumaturgia que recebeu formato graças aos últimos chefes da família.::
-44802::$$$message_0397_0034_0000$$$::"...Mas isso é[line3]"[lr]::
-44803::$$$message_0397_0034_0001$$$::"Se eu for dar algo, é muito mais fácil se for o encravamento mágico. Afinal, ao contrário de circuitos mágicos, ele existe para ser passado adiante.[lr]::
-44804::$$$message_0397_0034_0002$$$::...Bom, não é realmente uma parte de mim do jeito que os circuitos mágicos são, mas é feito pela linhagem Tohsaka. Vai funcionar bem o suficiente como um caminho."::
+44783::$$$message_0397_0029_0001$$$::Isso seria como gastar todo esse esforço apenas para nos tornar mais fracos, Shirou."[lr]::
+44784::$$$message_0397_0029_0002$$$::"Me desculpe, eu não pensei tão longe assim."[lr]::
+44785::$$$message_0397_0029_0003$$$::"Tudo bem, não precisa se desculpar. Eu imaginei que você chegaria a uma conclusão dessas. Só não esperava que você fosse dizer isso tão rápido."::
+44786::$$$message_0397_0030_0000$$$::"...Então, nós transplantamos os seus Circuitos Mágicos para mim?"[lr]::
+44787::$$$message_0397_0030_0001$$$::Mas isso também significa...[lr]::
+44788::$$$message_0397_0030_0002$$$::"...É verdade que, em vez de transplantar o seu circuito para mim, o inverso garantiria melhor as nossas chances.[lr]::
+44789::$$$message_0397_0030_0003$$$::No entanto, sou eu quem vai realizar o ritual do transplante. Tirar uma parte do circuito enquanto o utilizo não pode garantir a estabilidade do próprio ritual. [lr]::
+44790::$$$message_0397_0030_0004$$$::Minha mente ficaria mais tranquila se isso fosse algo padronizado, como o ritual que realizamos para formar contratos com nossos familiares. Mas criar um caminho de energia mágica entre dois magos não é algo que acontece todos os dias."::
+44791::$$$message_0397_0031_0000$$$::"...Então isso pode acabar mal para nós dois?"[lr]::
+44792::$$$message_0397_0031_0001$$$::"Certo. Eu não posso pegar o seu Circuito Mágico e, infelizmente, eu te dar o meu Circuito Mágico também é incorreto.[lr]::
+44793::$$$message_0397_0031_0002$$$::E é por isso..."[lr]::
+44794::$$$message_0397_0031_0003$$$::"É por isso...?"[lr]::
+44795::$$$message_0397_0031_0004$$$::"Eu vou transplantar o meu Emblema Mágico para você."::
+44796::$$$message_0397_0032_0000$$$::Emblema Mágico.[lr]::
+44797::$$$message_0397_0032_0001$$$::Ele registra os segredos e artes ocultas da família de um mago; é a história deles.[lr]::
+44798::$$$message_0397_0032_0002$$$::Se os Circuitos Mágicos são o sangue e os ossos de um mago, então poder-se-ia dizer que o emblema é o músculo deles.::
+44799::$$$message_0397_0033_0000$$$::Um Emblema Mágico é a feitiçaria tomando forma.[lr]::
+44800::$$$message_0397_0033_0001$$$::Através do trabalho de vida do mago que lidera a família naquela geração, o que deveria não ter forma ganha forma. É a prova da existência de um mago.[lr]::
+44801::$$$message_0397_0033_0002$$$::Tendo a Tohsaka herdado o emblema da sua família, ela consegue executar a feitiçaria que os chefes da família da sua geração criaram.::
+44802::$$$message_0397_0034_0000$$$::"...Espera, mas isso significa[line2]"[lr]::
+44803::$$$message_0397_0034_0001$$$::"É muito mais fácil dar um Emblema Mágico a alguém. Ao contrário dos Circuitos Mágicos, os emblemas foram feitos para serem passados para outros.[lr]::
+44804::$$$message_0397_0034_0002$$$::...Bem, embora não me defina tanto quanto os meus Circuitos Mágicos, o emblema ainda foi criado pela família Tohsaka, então deve ser suficiente para o nosso propósito."::
 44805::$$$message_0397_0035_0000$$$::"...Você tem certeza?"[lr]::
-44806::$$$message_0397_0035_0001$$$::"Sim eu tenho. A taumaturgia que faz o encravamento, bom, vai virar inútil, mas eu vou ser capaz de converter em um receptor.[lr]::
-44807::$$$message_0397_0035_0002$$$::Ah, ou você tá perguntando sobre a taxa de sucesso? Se eu sou capaz de transplantar o encravamento mágico pra alguém fora da família?"::
-44808::$$$message_0397_0036_0000$$$::"......Sim. Eu tô preocupado com isso também, eu acho."[lr]::
-44809::$$$message_0397_0036_0001$$$::"Não se preocupa, deixa comigo. Eu vou te apoiar, e você, a Saber e eu vamos vencer o santo graal.[lr]::
-44810::$$$message_0397_0036_0002$$$::Sim, já tá decidido, então dessa vez com certeza não tem como eu errar num momento crucial."::
-44811::$$$message_0397_0037_0000$$$::Ela se afirma alegremente, com um radiante sorriso.[lr]::
-44812::$$$message_0397_0037_0001$$$::"[line6]"[lr]::
-44813::$$$message_0397_0037_0002$$$::Com isso, eu sabia que era errado eu estar preocupado.::
-44814::$$$message_0397_0038_0000$$$::Porque ela está removendo o encravamento mágico dela.[lr]::
-44815::$$$message_0397_0038_0001$$$::Com as próprias mãos, ela vai apagar o maior desejo da linhagem dela.[lr]::
-44816::$$$message_0397_0038_0002$$$::[line3]Esse fato...[lr]::
-44817::$$$message_0397_0038_0003$$$::A Tohsaka facilmente ri sem demonstrar arrependimento, e eu vi essa força várias vezes até agora.::
-44818::$$$message_0397_0039_0000$$$::"O-O quê? Qual é a do olhar simpático repentino.[lr]::
-44819::$$$message_0397_0039_0001$$$::T-Tem algo de errado com a minha cara?"[lr]::
-44820::$$$message_0397_0039_0002$$$::"Huh? ...Ah. Sim, é o mesmo que quando a gente foi pra igreja pela primeira vez. Como que eu falo isso... Seus pontos são difíceis de entender."[lr]::
-44821::$$$message_0397_0039_0003$$$::"...Que jeito grosso de falar isso.[lr]::
-44822::$$$message_0397_0039_0004$$$::Isso me lembra. Eu tava fazendo uma cara estranha lá atrás também?"::
-44823::$$$message_0397_0040_0000$$$::Aquela fatídica noite quando eu invoquei a Saber.[lr]::
-44824::$$$message_0397_0040_0001$$$::Quando eu estava me sentindo mal na igreja, a expressão que a Tohsaka mostrava era de preocupação sincera com alguém que não era nada além de um inimigo me ajudou mais do que eu consigo dizer.[lr]::
-44825::$$$message_0397_0040_0002$$$::Eu não tenho propriedade pra falar isso, mas a Tohsaka acabou sendo uma pessoa mais legal que a média.::
-44826::$$$message_0397_0041_0000$$$::"Bom, foi uma cara bem estranha.[lr]::
-44827::$$$message_0397_0041_0001$$$::Naquela vez, eu ainda pensava de você como uma estudante prestigiada. Eu não sabia que você conseguia fazer aquele tipo de cara."[lr]::
-44828::$$$message_0397_0041_0002$$$::"...Hmpf. Claro, eu sou uma mulher cruel que finge ignorância. Desculpa por ser difícil de entender."::
-44829::$$$message_0397_0042_0000$$$::Mas foi isso que me salvou.[lr]::
-44830::$$$message_0397_0042_0001$$$::Ela tem um coração mole, mas uma realista, com um coração forte que joga pra longe a única fraqueza dela.[lr]::
-44831::$$$message_0397_0042_0002$$$::...Ela engole as dúvidas e dores dentro dela e se move magnificamente, o suficiente pra encantar aqueles ao redor dela.::
-44832::$$$message_0397_0043_0000$$$::"Então. Isso é tudo bem, mas por que você tá me encarando?"[lr]::
-44833::$$$message_0397_0043_0001$$$::"Huh? Ah, entendi. Parece que eu tava cativado por um segundo. É um pouco tarde pra dizer isso, mas eu tava pensando, deve ser porque você é assim que eu me apaixonei por você."[lr]::
-44834::$$$message_0397_0043_0002$$$::"[line3]"::
-44835::$$$message_0397_0044_0000$$$::Então eu não posso perder também.[lr]::
-44836::$$$message_0397_0044_0001$$$::A Tohsaka generosamente, calmamente disse que ela ia transferir o encravamento mágico dela pra mim, então eu vou responder com minha máxima confiança pelo bem dela.::
-44837::$$$message_0397_0045_0000$$$::"[shock time=300 vmax=20 count=-4]O q... Essa não é a hora de falar sobre me a-a-amar, mas[line3]mas eu não me importo em ouvir, sabe..."[lr]::
-44838::$$$message_0397_0045_0001$$$::Os punhos da Tohsaka estão cerrados.[lr]::
-44839::$$$message_0397_0045_0002$$$::Ótimo. Ela tá cheia de espírito de luta, então ela tem que perceber o quão preparado eu tô.::
-44840::$$$message_0397_0046_0000$$$::"Sim, eu sei. A gente não tem tempo pra papo furado agora.[lr]::
-44841::$$$message_0397_0046_0001$$$::Então, vamos se apressar e começar o transplante. O que a gente precisa fazer exatamente, Tohsaka?"[lr]::
-44842::$$$message_0397_0046_0002$$$::"Huh?"[lr]::
-44843::$$$message_0397_0046_0003$$$::A boca dela escancara.[lr]::
-44844::$$$message_0397_0046_0004$$$::...Isso é estranho. Eu falei algo estranho agora?::
-44845::$$$message_0397_0047_0000$$$::"............"[lr]::
-44846::$$$message_0397_0047_0001$$$::"Algo errado? Você lembrou de algo inconveniente?"[lr]::
-44847::$$$message_0397_0047_0002$$$::Por exemplo, algum tipo de problema que significa que o ritual vai falhar se a gente fizer ele a essa hora.[clfg textoff=0 time=10 storage=凛私服12c(中)]::
-44848::$$$message_0397_0047_0003$$$::Me virando ostensivamente,[se storage=se512.wav] a Tohsaka puxa alguns objetos pequenos pra fora da mala dela.[lr]::
-44849::$$$message_0397_0047_0004$$$::"Tudo bem. Primeiro, toma isso. É como um analgésico."[lr]::
-44850::$$$message_0397_0047_0005$$$::"T-Tudo bem."[lr]::
-44851::$$$message_0397_0047_0006$$$::Eu coloco a pílula na minha boca.[lr]::
-44852::$$$message_0397_0048_0000$$$::Eu espero assim por cinco minutos.[lr]::
-44853::$$$message_0397_0048_0001$$$::Depois de terminar as preparações, a Tohsaka senta na cama.::
-44854::$$$message_0397_0048_0002$$$::"O-okay."[lr]::
-44855::$$$message_0397_0048_0003$$$::Coloquei a pastilha na boca.[lr]::
-44856::$$$message_0397_0048_0004$$$::Tohsaka apaga a luz da sala e começa a desenhar algum tipo de padrão no chão.::
-44857::$$$message_0397_0049_0000$$$::"Então, Tohsaka. O que eu faço?"[lr]::
-44858::$$$message_0397_0049_0001$$$::"[line6]"[lr]::
-44859::$$$message_0397_0050_0000$$$::"O que, é algo difícil de falar? Eu tô preparado, sabe. Não importa o quão absurdo seja, você não pode me surpreender."[lr]::
-44860::$$$message_0397_0050_0001$$$::É isso que significa confiar nela.[lr]::
-44861::$$$message_0397_0050_0002$$$::A Tohsaka balança a cabeça se reafirmando, e então,[lr]::
-44862::$$$message_0397_0050_0003$$$::"...Isso é difícil de dizer, mas...[lr]::
-44863::$$$message_0397_0051_0000$$$::"..........."[lr]::
-44864::$$$message_0397_0051_0001$$$::Ei, não pega nenhuma ideia errada! Eu só falei pra você tirar suas roupas![lr]::
-44865::$$$message_0397_0051_0002$$$::E-Eu vou tirar as minhas também, então é justo!"[lr]::
-44866::$$$message_0397_0051_0003$$$::Ela grita comigo. "Entendi", eu penso, retirando minha expectativa estranha.::
-44867::$$$message_0397_0051_0004$$$::Just take off your clothes."[lr]::
-44868::$$$message_0397_0051_0005$$$::Com nervosismo em seu tom, ela me deu uma ordem com a qual não estou acostumada.::
-44869::$$$message_0397_0051_0006$$$::"...Huh? Você tá tirando as suas roupas também...?"[lr]::
-44870::$$$message_0397_0051_0007$$$::Eu não acho que isso deixa muito espaço pra ideias estranhas ou mal-entendidos.::
+44806::$$$message_0397_0035_0001$$$::"Tenho certeza. Bem, a feitiçaria que foi cristalizada no emblema provavelmente se tornará inútil, mas pelo menos eu poderei transformá-lo em um receptor de energia mágica.[lr]::
+44807::$$$message_0397_0035_0002$$$::Ou você está falando sobre a taxa de sucesso? Tipo, se é possível transplantar o Emblema Mágico para alguém fora da linhagem da minha família?"::
+44808::$$$message_0397_0036_0000$$$::"...É, essa parte me preocupa também, mas..."[lr]::
+44809::$$$message_0397_0036_0001$$$::"Não se preocupe, deixe comigo. Eu vou te dar cobertura, e nós vamos pegar aquele Santo Graal com você, eu e a Saber, nós três.[lr]::
+44810::$$$message_0397_0036_0002$$$::Isso mesmo, já tomamos a nossa decisão. Eu vou superar o meu maior fracasso com tudo que eu tenho."::
+44811::$$$message_0397_0037_0000$$$::Ela afirma confiantemente com um sorriso brilhante.[lr]::
+44812::$$$message_0397_0037_0001$$$::"..."[lr]::
+44813::$$$message_0397_0037_0002$$$::Não há mais nada que precise ser dito.::
+44814::$$$message_0397_0038_0000$$$::Remover o seu Emblema Mágico.[lr]::
+44815::$$$message_0397_0038_0001$$$::Isso é o mesmo que atrasar o desejo supremo da sua família com as suas próprias mãos.[lr]::
+44816::$$$message_0397_0038_0002$$$::...Eu já vi isso tantas vezes.[lr]::
+44817::$$$message_0397_0038_0003$$$::O fato de que ela conseguiu superar essa verdade com um simples sorriso e com tanta determinação é a sua força, e eu já vi isso tantas vezes.::
+44818::$$$message_0397_0039_0000$$$::"O-o que foi? Por que você está sorrindo assim?[lr]::
+44819::$$$message_0397_0039_0001$$$::T-tem alguma coisa estranha no meu rosto?"[lr]::
+44820::$$$message_0397_0039_0002$$$::"O que? ...Ummm. Certo, é igual a quando fomos para a igreja. Eu não sei como dizer isso, mas é difícil saber do que gostar em você."[lr]::
+44821::$$$message_0397_0039_0003$$$::"...Isso foi rude.[lr]::
+44822::$$$message_0397_0039_0004$$$::Isso me lembra, meu rosto estava estranho naquela hora?"::
+44823::$$$message_0397_0040_0000$$$::A noite fatídica em que invoquei a Saber.[lr]::
+44824::$$$message_0397_0040_0001$$$::A Tohsaka pareceu seriamente preocupada comigo, alguém que é apenas o inimigo dela, quando passei mal na igreja. Eu nunca vou esquecer o quanto aquela expressão me salvou. [lr]::
+44825::$$$message_0397_0040_0002$$$::Não posso falar muito sobre os outros, mas a Tohsaka era uma pessoa muito gentil, provavelmente a mais legal que já conheci.::
+44826::$$$message_0397_0041_0000$$$::"Bem, sim, estava estranho.[lr]::
+44827::$$$message_0397_0041_0001$$$::Naquela época eu só te via como uma santinha na escola, então não pensei que você faria uma cara daquelas."[lr]::
+44828::$$$message_0397_0041_0002$$$::"...Que seja. É isso mesmo, sou apenas uma mulher fria como um iceberg. Desculpa se não deixei isso mais óbvio antes."::
+44829::$$$message_0397_0042_0000$$$::Sim, mas eu fui salvo por ela.[lr]::
+44830::$$$message_0397_0042_0001$$$::Ela é gentil, porém realista, e possui o coração de aço de quem está disposta a descartar a sua fraqueza em um piscar de olhos.[lr]::
+44831::$$$message_0397_0042_0002$$$::...Ela esconde suas hesitações e problemas no seu coração, e sempre mostra o lado elegante dela para todos, seguindo em frente no seu próprio caminho com graciosidade.::
+44832::$$$message_0397_0043_0000$$$::"E daí? Tudo bem o que você pensa de mim, mas por que você ainda está me encarando?"[lr]::
+44833::$$$message_0397_0043_0001$$$::"O que? Oh, acho que fiquei cativado por você. Sei que pode ser tarde demais, mas talvez eu tenha me apaixonado por causa do seu charme."[lr]::
+44834::$$$message_0397_0043_0002$$$::"...!"::
+44835::$$$message_0397_0044_0000$$$::Então eu não posso perder.[lr]::
+44836::$$$message_0397_0044_0001$$$::Ela está disposta a transplantar o seu Emblema Mágico para mim sem hesitação e arrependimento. Então eu devo retribuir a sua gentileza com a minha própria confiança.::
+44837::$$$message_0397_0045_0000$$$::"[shock time=300 vmax=20 count=-4]O-o que você quer dizer com a-apaixonado por mim? Agora não é hora para isso, mas pelo menos eu posso ouvir o que mais você tem a dizer..."[lr]::
+44838::$$$message_0397_0045_0001$$$::A Tohsaka está se preparando.[lr]::
+44839::$$$message_0397_0045_0002$$$::Fico feliz. Parece que ela está preparada e notou a minha determinação.::
+44840::$$$message_0397_0046_0000$$$::"É, eu entendo. Estamos com pouco tempo, então provavelmente não devíamos perder tempo com conversa fiada, certo?[lr]::
+44841::$$$message_0397_0046_0001$$$::Vamos lá, vamos começar o transplante. Mais especificamente, o que eu devo fazer, Tohsaka?"[lr]::
+44842::$$$message_0397_0046_0002$$$::"Hã?"[lr]::
+44843::$$$message_0397_0046_0003$$$::A boca dela está escancarada.[lr]::
+44844::$$$message_0397_0046_0004$$$::...Isso é estranho. Eu disse alguma coisa engraçada?::
+44845::$$$message_0397_0047_0000$$$::"..."[lr]::
+44846::$$$message_0397_0047_0001$$$::"O que foi agora? Você acabou de pensar em algo com o qual devêssemos nos preocupar?"[lr]::
+44847::$$$message_0397_0047_0002$$$::Por exemplo, algum tipo de mau agouro que nos impeça de realizar o ritual em uma determinada hora do dia.[clfg textoff=0 time=10 storage=凛私服12c(中)]::
+44848::$$$message_0397_0047_0003$$$::"...Nada. Eu só estou com dor de cabeça agora.[lr]::
+44849::$$$message_0397_0047_0004$$$::Achei que já deveria estar acostumada, mas subestimei o quanto você é ruim de timing.[lr]::
+44850::$$$message_0397_0047_0005$$$::...Hmph, tudo bem, já que não é a primeira vez que você é assim. O que você disse... Bem, não foi exatamente ruim, então vou deixar você passar impune por enquanto."[lr]::
+44851::$$$message_0397_0047_0006$$$::"???"::
+44852::$$$message_0397_0048_0000$$$::Ela balança o corpo e se vira de costas para mim, [se storage=se512]e então começa a tirar vários itens de sua bolsa.[lr]::
+44853::$$$message_0397_0048_0001$$$::"Aqui, pegue isso. Pense nisto apenas como um analgésico."[lr]::
+44854::$$$message_0397_0048_0002$$$::"O-ok."[lr]::
+44855::$$$message_0397_0048_0003$$$::Eu coloco a pastilha na boca.[lr]::
+44856::$$$message_0397_0048_0004$$$::A Tohsaka apaga a luz do quarto, e começa a desenhar algum tipo de padrão no chão.::
+44857::$$$message_0397_0049_0000$$$::Cerca de cinco minutos se passaram.[lr]::
+44858::$$$message_0397_0049_0001$$$::Após a preparação estar completa, a Tohsaka se senta na cama.::
+44859::$$$message_0397_0050_0000$$$::"Ok, Tohsaka. O que eu devo fazer agora?"[lr]::
+44860::$$$message_0397_0050_0001$$$::"..."[lr]::
+44861::$$$message_0397_0050_0002$$$::Não parece que ela não ouviu a minha pergunta.[lr]::
+44862::$$$message_0397_0050_0003$$$::Mas a Tohsaka está com uma estranha expressão de preocupação no rosto.::
+44863::$$$message_0397_0051_0000$$$::"O que está acontecendo? É algo que você não pode me contar? Eu estou preparado para qualquer coisa, então isso não vai me abalar, a menos que seja algo realmente surpreendente."[lr]::
+44864::$$$message_0397_0051_0001$$$::Isso é o que eu quis dizer com confiança.[lr]::
+44865::$$$message_0397_0051_0002$$$::A Tohsaka balança a cabeça afirmativamente.[lr]::
+44866::$$$message_0397_0051_0003$$$::"...Tudo bem, é difícil para mim dizer isso, mas...[lr]::
+44867::$$$message_0397_0051_0004$$$::Apenas tire suas roupas."[lr]::
+44868::$$$message_0397_0051_0005$$$::Com nervosismo em seu tom, ela me deu uma ordem à qual não estou acostumado.::
+44869::$$$message_0397_0051_0006$$$::"..."[lr]::
+44870::$$$message_0397_0051_0007$$$::Vamos analisar a situação.[lr]::
 44871::$$$message_0397_0051_0008$$$::As luzes estão apagadas.[lr]::
-44872::$$$message_0397_0051_0009$$$::Tohsaka está sentada na cama com a cabeça baixa, claramente nervosa.[lr]::
-44873::$$$message_0397_0051_0010$$$::...Por que só estou percebendo isso agora? O corpo macio de Tohsaka e suas pernas flexíveis penduradas acima do chão a fazem parecer muito sedutora.[lr]::
-44874::$$$message_0397_0051_0011$$$::Então.[lr]::
-44875::$$$message_0397_0051_0012$$$::She's asking me to take off my clothes.::
-44876::$$$message_0397_0052_0000$$$::".............."[lr]::
-44877::$$$message_0397_0052_0001$$$::"E-Eu falei pra não me entender errado! A gente precisa tirar nossas roupas pra deixar mais fácil a transferência de calor corporal, não tem outro significado nisso![lr]::
-44878::$$$message_0397_0052_0002$$$::Entendeu? Pra transplantar o encravamento mágico, a gente precisa entrar num estado de alta simpatia. Então a gente tem que tirar o máximo de coisas extras possíveis, certo?"[lr]::
-44879::$$$message_0397_0052_0003$$$::"A-Ah, entendi."::
-44880::$$$message_0397_0053_0000$$$::Isso mesmo.[lr]::
-44881::$$$message_0397_0053_0001$$$::Eu não sei o que é um transplante de encravamento mágico, mas "transplante" provavelmente significa algo como um transplante médico, então a gente precisaria expor nossa pele.[lr]::
-44882::$$$message_0397_0054_0000$$$::A parte assustadora é que ela provavelmente iria.[lr]::
-44883::$$$message_0397_0054_0001$$$::Eu tiro minha camisa. ...Ela me tratou várias vezes, mas eu ainda tô um pouco envergonhado.[lr]::
-44884::$$$message_0397_0054_0002$$$::Eu ouço uma respiração profunda na escuridão, provavelmente da Tohsaka.::
-44885::$$$message_0397_0054_0003$$$::"O-Oh, ok. Isso faz sentido."::
-44886::$$$message_0397_0055_0000$$$::"...Então, próximo. Shirou, olha pro outro lado por um minuto."[lr]::
-44887::$$$message_0397_0055_0001$$$::"Entendi, então você vai tirar a roupa também, Tohsaka."[lr]::
-44888::$$$message_0397_0055_0002$$$::"............."[lr]::
-44889::$$$message_0397_0055_0003$$$::Ela não responde.[lr]::
-44890::$$$message_0397_0056_0000$$$::"..........."::
-44891::$$$message_0397_0056_0001$$$::Tirando minha blusa... Já pedi para ela cuidar dos meus ferimentos algumas vezes, mas ainda é um pouco constrangedor.[lr]::
+44872::$$$message_0397_0051_0009$$$::A Tohsaka está sentada na cama de cabeça baixa, claramente nervosa.[lr]::
+44873::$$$message_0397_0051_0010$$$::...Por que eu só estou percebendo isso agora? O corpo aparentemente macio da Tohsaka, e suas pernas flexíveis balançando acima do chão estão a fazendo parecer muito sedutora.[lr]::
+44874::$$$message_0397_0051_0011$$$::E...[lr]::
+44875::$$$message_0397_0051_0012$$$::Ela está me pedindo para tirar as minhas roupas.::
+44876::$$$message_0397_0052_0000$$$::"..."[lr]::
+44877::$$$message_0397_0052_0001$$$::"E-ei, você aí! Não tenha uma ideia errada! Eu só estou mandando você tirar a roupa![lr]::
+44878::$$$message_0397_0052_0002$$$::E-eu também vou tirar a minha roupa, então é justo!"[lr]::
+44879::$$$message_0397_0052_0003$$$::Eu guardei a minha fantasia esquisita depois que ela gritou comigo.::
+44880::$$$message_0397_0053_0000$$$::"...Espera? Você... vai tirar... a sua roupa também?"[lr]::
+44881::$$$message_0397_0053_0001$$$::Eu não sei de que outra forma interpretar o que ela disse a não ser tomar isso exatamente como é.::
+44882::$$$message_0397_0054_0000$$$::"..."[lr]::
+44883::$$$message_0397_0054_0001$$$::"E-eu te disse para não distorcer as minhas palavras! Eu te pedi para tirar a roupa para podermos sentir o calor do corpo um do outro diretamente! Mais nada![lr]::
+44884::$$$message_0397_0054_0002$$$::Escuta! Nós devemos sincronizar altamente os nossos sentidos para realizarmos o transplante do Emblema Mágico. Para que isso aconteça, nós temos que nos livrar do máximo de interferência possível."[lr]::
+44885::$$$message_0397_0054_0003$$$::"A-Ah, ok. Faz sentido."::
+44886::$$$message_0397_0055_0000$$$::Claro.[lr]::
+44887::$$$message_0397_0055_0001$$$::Eu não sei bem como é um transplante de Emblema Mágico, mas pelo que parece, poderia ser semelhante a um transplante médico. Eu acho que você não operaria um paciente quando ele está totalmente vestido.[lr]::
+44888::$$$message_0397_0055_0002$$$::"Você poderia ter me dito isso desde o início... Ummm, eu só preciso tirar a parte de cima, certo?"[lr]::
+44889::$$$message_0397_0055_0003$$$::"C-claro! Eu vou jogar o aquecedor em você se você ousar tirar as calças!"::
+44890::$$$message_0397_0056_0000$$$::É assustador pensar no que ela pode realmente fazer.[lr]::
+44891::$$$message_0397_0056_0001$$$::Tirar a parte de cima... Ela já cuidou dos meus ferimentos algumas vezes, mas ainda parece um pouco constrangedor.[lr]::
 44892::$$$message_0397_0056_0002$$$::"..."[lr]::
-44893::$$$message_0397_0056_0003$$$::Posso ouvir Tohsaka respirando fundo no escuro.::
-44894::$$$message_0397_0057_0000$$$::"[line6]"[lr]::
-44895::$$$message_0397_0057_0001$$$::Enquanto eu tô virado, eu respiro fundo pra me manter calmo.[lr]::
-44896::$$$message_0397_0057_0002$$$::Eu vou tomar o encravamento mágico da Tohsaka, e criar um caminho entre nós.[lr]::
-44897::$$$message_0397_0057_0003$$$::Eu vou emprestar a energia mágica da Tohsaka pra poder invocar a realidade interior e derrotar aquele servo.[lr]::
-44898::$$$message_0397_0057_0004$$$::Então isso é só parte do processo dessa longa e árdua batalha.[lr]::
-44899::$$$message_0397_0058_0000$$$::"[line6]"[lr]::
-44900::$$$message_0397_0059_0000$$$::"......Hmpf."[lr]::
-44901::$$$message_0397_0059_0001$$$::Então.[lr]::
-44902::$$$message_0397_0059_0002$$$::Eu sei que é grosseria, mas eu não intencionalmente franzo minhas sobrancelhas.::
-44903::$$$message_0397_0059_0003$$$::Sua energia mágica passará por ele e me permitirá ativar o Mármore da Realidade para derrotar aquele Servo.[lr]::
-44904::$$$message_0397_0059_0004$$$::Este é simplesmente um processo nesta luta longa e perigosa.[lr]::
-44905::$$$message_0397_0059_0005$$$::Eu deveria ser capaz de suprimir pensamentos desnecessários apenas reafirmando esse fato para mim mesmo.::
-44906::$$$message_0397_0060_0000$$$::"Tohsaka. O que é esse estado de despido pela metade?"[lr]::
-44907::$$$message_0397_0060_0001$$$::A Tohsaka tirou as roupas dela.[lr]::
-44908::$$$message_0397_0060_0002$$$::Mas não parece que ela colocou qualquer esforço nisso.::
-44909::$$$message_0397_0060_0003$$$::I turn around slowly to face Tohsaka.::
-44910::$$$message_0397_0061_0000$$$::"O-O quê?! Você tá dizendo que tá desapontado?!"[lr]::
-44911::$$$message_0397_0061_0001$$$::"...É mais como se o equilíbrio estivesse errado... O ponto é, eu tirei minha camisa, então é desproporcional se você só fizer isso. Se não é simétrico eu não posso me acalmar."[lr]::
-44912::$$$message_0397_0061_0002$$$::"Urk. ...Entendi, eu só tenho que deixar as duas pernas de fora. ...Nunca soube que esse cara era tão maníaco..."::
-44913::$$$message_0397_0062_0000$$$::".............."[lr]::
-44914::$$$message_0397_0062_0001$$$::...Bom.[lr]::
-44915::$$$message_0397_0062_0002$$$::Provavelmente é melhor se eu não questionar sobre o que ela tá falando.::
-44916::$$$message_0397_0063_0000$$$::"Eu não me importo. Mas se você tá realizando o ritual. Se isso é o suficiente pra isso funcionar, eu não vou reclamar."[lr]::
-44917::$$$message_0397_0063_0001$$$::"...Bom, seria mais difícil se eu não tirasse... Mas tipo, seria um desperdício se eu mostrasse tudo..."[lr]::
-44918::$$$message_0397_0063_0002$$$::A Tohsaka murmura pra si mesma.[lr]::
-44919::$$$message_0397_0064_0000$$$::"...Tudo bem Shirou, pode se virar de novo."[lr]::
-44920::$$$message_0397_0064_0001$$$::Eu me viro enquanto ela murmura.[lr]::
-44921::$$$message_0397_0064_0002$$$::Dessa vez o barulho das roupas da Tohsaka demora mais.[lr]::
-44922::$$$message_0397_0065_0000$$$::"...A-Assim é melhor, Shirou?"[lr]::
-44923::$$$message_0397_0065_0001$$$::A voz da Tohsaka tá tremendo.[lr]::
-44924::$$$message_0397_0065_0002$$$::Eu dou uma boa olhada nela.::
-44925::$$$message_0397_0065_0003$$$::Felizmente, estou precisando de tudo para manter a calma, então não tenho mais energia para discutir com Tohsaka.::
-44926::$$$message_0397_0066_0000$$$::"[line6]"[lr]::
-44927::$$$message_0397_0066_0001$$$::A luz da lâmpada levemente ilumina o corpo dela.[lr]::
-44928::$$$message_0397_0066_0002$$$::Os finos ombros e pescoço dela. As linhas da clavícula dela são belamente desenhadas.::
-44929::$$$message_0397_0066_0003$$$::Mais uma vez, lembro-me que este é um ritual sério.[lr]::
-44930::$$$message_0397_0066_0004$$$::Mesmo que Tohsaka esteja em sua forma mais exposta e indefesa, meu estado frenético arruinará tudo isso.::
-44931::$$$message_0397_0067_0000$$$::".....Como está? Tá satisfeito agora?"[lr]::
-44932::$$$message_0397_0067_0001$$$::Eu tô aliviado que a Tohsaka é assertiva até quando ela é tão linda.[lr]::
-44933::$$$message_0397_0067_0002$$$::Meu rosto relaxa, e eu talvez sorria sem querer.::
-44934::$$$message_0397_0068_0000$$$::"Sem reclamações aqui. Na verdade, isso talvez seja mais difícil."[lr]::
-44935::$$$message_0397_0068_0001$$$::Eu escondo minha cara com uma mão e dou uma profunda respirada.[lr]::
-44936::$$$message_0397_0068_0002$$$::Meu rosto está provavelmente vermelho, então eu vou parecer nervoso a não ser que eu esconda.::
-44937::$$$message_0397_0069_0000$$$::"Hmpf. Depois de ver essa cara eu acho que vou chamar isso de empate.[lr]::
-44938::$$$message_0397_0069_0001$$$::...Tudo bem, Shirou, vem aqui."::
-44939::$$$message_0397_0069_0002$$$::Tento relaxar minha expressão, pois sinto que posso ter, sem saber, aberto um sorriso.::
-44940::$$$message_0397_0070_0000$$$::A Tohsaka me chama da cama.[lr]::
-44941::$$$message_0397_0070_0001$$$::...Nós sentamos um do lado do outro. A cama pula suavemente sob nosso peso.::
-44942::$$$message_0397_0070_0002$$$::Se eu não esconder pelo menos meu rosto, que provavelmente está vermelho como uma maçã agora, vou perder a compostura.::
-44943::$$$message_0397_0071_0000$$$::"........."[lr]::
-44944::$$$message_0397_0071_0001$$$::"........."[lr]::
-44945::$$$message_0397_0072_0000$$$::"Eu tô começando. Eu vou colocar isso no seu peito."[lr]::
-44946::$$$message_0397_0072_0001$$$::Ela estende o braço esquerdo dela, onde está o encravamento mágico.[lr]::
-44947::$$$message_0397_0073_0000$$$::"Depois de nós simpatizarmos, eu vou transplantar o encravamento mágico nos seus circuitos mágicos.[lr]::
-44948::$$$message_0397_0073_0001$$$::O circuito mágico é parte do corpo de outra pessoa[line3]eu vou transplantar algo exterior dentro de você, então seu corpo talvez rejeite ele."[lr]::
-44949::$$$message_0397_0073_0002$$$::"Eu entendo. Eu estou acostumado com esse tipo de caos."::
-44950::$$$message_0397_0073_0003$$$::...Tohsaka vai iniciar o ritual de transplante da Crista Mágica.[lr]::
-44951::$$$message_0397_0073_0004$$$::Eu me forço a me acalmar antes desse encontro íntimo.[lr]::
-44952::$$$message_0397_0073_0005$$$::Minha consciência está ficando mais clara à medida que foco minha mente.::
-44953::$$$message_0397_0074_0000$$$::É isso que sempre significou treinar meus circuitos mágicos para mim.[lr]::
-44954::$$$message_0397_0074_0001$$$::Forçar um nervo exterior dentro de mim e controlar ele[line3]embora eu não tenha certeza se o encravamento mágico é o mesmo tipo de coisa.::
-44955::$$$message_0397_0074_0002$$$::...Quando comecei a receber energia mágica, o padrão na parte superior do meu braço exposto começou a brilhar levemente.::
-44956::$$$message_0397_0075_0000$$$::"Isso mesmo. Você tá acostumado a fazer coisas absurdas com seu corpo, não é."[lr]::
-44957::$$$message_0397_0075_0001$$$::A Tohsaka solta uma risada, como se relembrando meu método de treino absurdo fizesse ela se acalmar.[lr]::
-44958::$$$message_0397_0075_0002$$$::Porém.::
-44959::$$$message_0397_0076_0000$$$::"Dito isso, se você fizer algo estranho eu vou te matar."[lr]::
-44960::$$$message_0397_0076_0001$$$::Ela repentinamente estreita seus olhos e me encara.[lr]::
-44961::$$$message_0397_0077_0000$$$::Ela se aproxima de mim, nossos ombros quase colidindo.[lr]::
-44962::$$$message_0397_0077_0001$$$::É como se eu estivesse abraçando a mão esquerda da Tohsaka com meu peito.[lr]::
-44963::$$$message_0397_0077_0002$$$::A respiração da Tohsaka está na nuca do meu pescoço.[lr]::
-44964::$$$message_0397_0078_0000$$$::'Asas a fora, engendrem.[lr]::
-44965::$$$message_0397_0078_0001$$$::Restrição do encravamento, primeiro, sexagésima, suspender.'::
-44966::$$$message_0397_0078_0002$$$::"...O que você quer dizer com estranho?"[lr]::
+44893::$$$message_0397_0056_0003$$$::Eu posso ouvir a Tohsaka respirando fundo no escuro.::
+44894::$$$message_0397_0057_0000$$$::"...Ok, agora para o próximo passo. Shirou, vire-se."[lr]::
+44895::$$$message_0397_0057_0001$$$::"Certo, esqueci que você tem que tirar a sua roupa também."[lr]::
+44896::$$$message_0397_0057_0002$$$::"..."[lr]::
+44897::$$$message_0397_0057_0003$$$::Sem resposta.[lr]::
+44898::$$$message_0397_0057_0004$$$::Tomando o silêncio dela como uma afirmação, eu me viro silenciosamente.::
+44899::$$$message_0397_0058_0000$$$::"..."::
+44900::$$$message_0397_0059_0000$$$::"..."[lr]::
+44901::$$$message_0397_0059_0001$$$::Enquanto viro as costas para ela, respiro fundo para me acalmar.[lr]::
+44902::$$$message_0397_0059_0002$$$::Eu vou receber o Emblema Mágico dela, e criar um caminho entre nós.[lr]::
+44903::$$$message_0397_0059_0003$$$::A energia mágica dela passará através dele, e me permitirá ativar o Mármore de Realidade para derrotar aquele Servo.[lr]::
+44904::$$$message_0397_0059_0004$$$::Este é simplesmente um processo nesta longa e perigosa luta.[lr]::
+44905::$$$message_0397_0059_0005$$$::Eu devo ser capaz de suprimir pensamentos desnecessários apenas reafirmando esse fato para mim mesmo.::
+44906::$$$message_0397_0060_0000$$$::"..."[lr]::
+44907::$$$message_0397_0060_0001$$$::"...Você pode se virar agora, Shirou."[lr]::
+44908::$$$message_0397_0060_0002$$$::Meu coração dispara.[lr]::
+44909::$$$message_0397_0060_0003$$$::Eu me viro lentamente para encarar a Tohsaka.::
+44910::$$$message_0397_0061_0000$$$::"...Ummm?"[lr]::
+44911::$$$message_0397_0061_0001$$$::Eu solto um som.[lr]::
+44912::$$$message_0397_0061_0002$$$::Pode parecer rude, mas eu estou incomodado com o que estou vendo.::
+44913::$$$message_0397_0062_0000$$$::"Diga, Tohsaka... Por que você está tirando a roupa com tanta relutância?"[lr]::
+44914::$$$message_0397_0062_0001$$$::A Tohsaka tirou algumas roupas.[lr]::
+44915::$$$message_0397_0062_0002$$$::Mas, pela maneira como ela as removeu, eu não sinto nenhuma determinação nela.::
+44916::$$$message_0397_0063_0000$$$::"O-o que!? Você tem algum problema comigo!?"[lr]::
+44917::$$$message_0397_0063_0001$$$::"...Não é exatamente um problema em si, mas não é simétrico. Basicamente, eu tirei tudo o que estava vestindo na parte de cima, mas você tirou apenas essa quantidade de roupa. A proporção simplesmente não bate. Tem que ser relativamente igual entre nós."[lr]::
+44918::$$$message_0397_0063_0002$$$::"...T-Tá bom, eu também vou tirar as minhas meias... Puxa, ele é mais maníaco do que eu pensava."::
+44919::$$$message_0397_0064_0000$$$::"..."[lr]::
+44920::$$$message_0397_0064_0001$$$::...Bem.[lr]::
+44921::$$$message_0397_0064_0002$$$::Eu não deveria insistir no que estamos falando.::
+44922::$$$message_0397_0065_0000$$$::"Tudo bem. Você é quem está realizando o ritual, então contanto que o ritual possa ser bem-sucedido, eu não vou reclamar."[lr]::
+44923::$$$message_0397_0065_0001$$$::"...Digo, o ritual será mais difícil se estivermos com mais roupas... Mas, é um desperdício se eu simplesmente te mostrar tudo agora..."[lr]::
+44924::$$$message_0397_0065_0002$$$::A Tohsaka está murmurando para si mesma.[lr]::
+44925::$$$message_0397_0065_0003$$$::Felizmente, está sendo necessário tudo em mim para manter a calma, então eu não tenho energia de sobra para discutir com a Tohsaka.::
+44926::$$$message_0397_0066_0000$$$::"...Certo então, Shirou, vire-se de novo."[lr]::
+44927::$$$message_0397_0066_0001$$$::Ela sussurra para mim, e eu me viro imediatamente.[lr]::
+44928::$$$message_0397_0066_0002$$$::Desta vez, o som das roupas da Tohsaka farfalhando dura um pouco mais do que antes.[lr]::
+44929::$$$message_0397_0066_0003$$$::Mais uma vez, eu lembro a mim mesmo que este é um ritual sério.[lr]::
+44930::$$$message_0397_0066_0004$$$::Mesmo se a Tohsaka estiver em sua forma mais exposta e indefesa, eu ficar frenético arruinará tudo isso.::
+44931::$$$message_0397_0067_0000$$$::"...E-e agora, Shirou?"[lr]::
+44932::$$$message_0397_0067_0001$$$::A voz da Tohsaka treme.[lr]::
+44933::$$$message_0397_0067_0002$$$::Eu olho lentamente sobre o corpo da Tohsaka.::
+44934::$$$message_0397_0068_0000$$$::"..."[lr]::
+44935::$$$message_0397_0068_0001$$$::Eu posso ver vagamente a silhueta suave do seu corpo sob a luz fraca da lâmpada.[lr]::
+44936::$$$message_0397_0068_0002$$$::Seus ombros, pescoço e clavícula formam a silhueta mais bela.::
+44937::$$$message_0397_0069_0000$$$::"...E então? Está feliz agora?"[lr]::
+44938::$$$message_0397_0069_0001$$$::Estou aliviado que, mesmo parecendo tão linda, ela ainda seja a mesma Tohsaka ríspida. [lr]::
+44939::$$$message_0397_0069_0002$$$::Tento relaxar a minha expressão, pois sinto que devo ter sorrido sem perceber. ::
+44940::$$$message_0397_0070_0000$$$::"Muito. Na verdade, isso está tornando a situação um pouco difícil para mim."[lr]::
+44941::$$$message_0397_0070_0001$$$::Cubro o rosto com as mãos e respiro fundo.[lr]::
+44942::$$$message_0397_0070_0002$$$::Se eu não esconder pelo menos o meu rosto, que provavelmente está vermelho como uma maçã agora, perderei a compostura.::
+44943::$$$message_0397_0071_0000$$$::"Hmmm. Já que eu posso te ver assim, estamos quites.[lr]::
+44944::$$$message_0397_0071_0001$$$::...Shirou, venha cá."::
+44945::$$$message_0397_0072_0000$$$::A Tohsaka faz um gesto, chamando-me para me juntar a ela na cama.[lr]::
+44946::$$$message_0397_0072_0001$$$::...Nós sentamos frente a frente na cama. A cama afunda, reagindo ao nosso peso.::
+44947::$$$message_0397_0073_0000$$$::"..."[lr]::
+44948::$$$message_0397_0073_0001$$$::"..."[lr]::
+44949::$$$message_0397_0073_0002$$$::Sem dizer uma palavra, nós dois respiramos fundo.[lr]::
+44950::$$$message_0397_0073_0003$$$::...A Tohsaka vai começar o ritual de transplante do Emblema Mágico.[lr]::
+44951::$$$message_0397_0073_0004$$$::Eu me forço a me acalmar diante deste encontro íntimo.[lr]::
+44952::$$$message_0397_0073_0005$$$::A minha consciência está ficando mais clara enquanto foco a minha mente.::
+44953::$$$message_0397_0074_0000$$$::"Vou começar agora. Shirou, segure isso contra o seu peito."[lr]::
+44954::$$$message_0397_0074_0001$$$::Ela estende a mão esquerda com o Emblema Mágico.[lr]::
+44955::$$$message_0397_0074_0002$$$::...Conforme comecei a receber a energia mágica, o padrão na área superior do meu braço exposto começou a brilhar fracamente.::
+44956::$$$message_0397_0075_0000$$$::"Depois que nos sincronizarmos, eu transplantarei o meu Emblema Mágico para o seu Circuito Mágico.[lr]::
+44957::$$$message_0397_0075_0001$$$::Em última análise, o Emblema Mágico é parte do corpo de outra pessoa... tê-lo transplantado para você é o mesmo que colocar um objeto estranho dentro de você, então é possível que o seu corpo mostre sinais de rejeição."[lr]::
+44958::$$$message_0397_0075_0002$$$::"Eu entendo. Estou acostumado com coisas difíceis como essa."::
+44959::$$$message_0397_0076_0000$$$::Isso não é diferente de como eu estava treinando para usar o meu Circuito Mágico.[lr]::
+44960::$$$message_0397_0076_0001$$$::Ativar um sistema nervoso estranho enquanto aprendo a controlá-lo... Não sei se será a mesma experiência com um Emblema Mágico.::
+44961::$$$message_0397_0077_0000$$$::"Parece que você está. Eu ouvi dizer que você tem a tendência de esgotar o seu corpo."[lr]::
+44962::$$$message_0397_0077_0001$$$::Talvez porque isso a tenha lembrado do meu treinamento incomum, mas a Tohsaka solta uma pequena risada.[lr]::
+44963::$$$message_0397_0077_0002$$$::No entanto...::
+44964::$$$message_0397_0078_0000$$$::"É isso. Se você fizer qualquer coisa esquisita agora mesmo, eu te mato."[lr]::
+44965::$$$message_0397_0078_0001$$$::Ela me encara com os olhos semicerrados.[lr]::
+44966::$$$message_0397_0078_0002$$$::"...O que você quer dizer com esquisita?"[lr]::
 44967::$$$message_0397_0078_0003$$$::"..."[lr]::
-44968::$$$message_0397_0078_0004$$$::She ignored me.::
-44969::$$$message_0397_0079_0000$$$::Minha respiração treme enquanto ela fala seu encantamento.[lr]::
-44970::$$$message_0397_0079_0001$$$::Eu posso sentir a energia mágica passando pelo corpo da Tohsaka pela mão dela.[lr]::
-44971::$$$message_0397_0079_0002$$$::Os finos dedos dela estão no meu peito. Minha batida do coração, e o pulso da Tohsaka.::
-44972::$$$message_0397_0079_0003$$$::But then I realize she isn't just breathing...::
-44973::$$$message_0397_0080_0000$$$::'Grave o juramento.[lr]::
-44974::$$$message_0397_0080_0001$$$::Um, dois, três, quatro, cinco, seis, não contando.'::
+44968::$$$message_0397_0078_0004$$$::Ela me ignorou.::
+44969::$$$message_0397_0079_0000$$$::Eu diminuo a distância entre nós a ponto de nossos ombros estarem praticamente se esbarrando.[lr]::
+44970::$$$message_0397_0079_0001$$$::Parece que estou abraçando a mão esquerda da Tohsaka.[lr]::
+44971::$$$message_0397_0079_0002$$$::Consigo sentir a respiração da Tohsaka no meu pescoço.[lr]::
+44972::$$$message_0397_0079_0003$$$::Mas então percebo que ela não está apenas respirando...::
+44973::$$$message_0397_0080_0000$$$::"Gib dem wandernden Vogel das Trinkwasser,[r]::
+44974::$$$message_0397_0080_0001$$$::der vom langen Weg kommt.[lr]::
 44975::$$$message_0397_0080_0002$$$::Benutz den Vogelrahmen, in dem der[r]::
 44976::$$$message_0397_0080_0003$$$::Schlüssel nicht angewendet wird."::
-44977::$$$message_0397_0081_0000$$$::Eu fecho meus olhos e tento aprofundar minha respiração.[lr]::
-44978::$$$message_0397_0081_0001$$$::...O pulso e as ondas se sobressaltam. A Tohsaka está unindo eles, e eu mantenho o ritmo.[lr]::
-44979::$$$message_0397_0081_0002$$$::...Eu unifico minha mente, e mantenho minha mente limpa quando eu faço quando treino. Isso é tudo que eu consigo fazer, já que eu não tenho experiência em simpatizar.::
-44980::$$$message_0397_0082_0000$$$::'Pequeno e grande[lr]::
-44981::$$$message_0397_0082_0001$$$::Grande e pequeno.[lr]::
-44982::$$$message_0397_0082_0002$$$::Asas abertas, originadas.'::
+44977::$$$message_0397_0081_0000$$$::A respiração dela treme enquanto ela profere o encantamento.[lr]::
+44978::$$$message_0397_0081_0001$$$::Consigo sentir a energia mágica preenchendo o corpo dela através de sua mão esquerda.[lr]::
+44979::$$$message_0397_0081_0002$$$::Seus dedos delicados estão colocados no meu peito. Através deles eu consigo sentir a pulsação dela em sincronia com os meus próprios batimentos cardíacos.::
+44980::$$$message_0397_0082_0000$$$::"Ich spinne den Regenbogen in neuem ::
+44981::$$$message_0397_0082_0001$$$::selbst.[lr]::
+44982::$$$message_0397_0082_0002$$$::Heites Wetter, Regen, Wind, Schnee, ::
 44983::$$$message_0397_0082_0003$$$::Krieg, Ende, ununterbrochen."::
-44984::$$$message_0397_0083_0000$$$::Meus olhos estão fechados tão firmemente que é como se tivessem sido costurados.[lr]::
-44985::$$$message_0397_0083_0001$$$::Meu olfato enfraquece, e minha língua não sente nada.[lr]::
-44986::$$$message_0397_0083_0002$$$::Os sentidos do meu corpo estão[flicker time=300 count=1] ficando confusos. Eu não consigo perceber se estou sentado ou de pé.[lr]::
-44987::$$$message_0397_0084_0000$$$::Eu alucino alguém apertando meu coração.[lr]::
-44988::$$$message_0397_0084_0001$$$::Eu me imagino apertando o coração de alguém.[lr]::
-44989::$$$message_0397_0084_0002$$$::Eu aperto com meus dedos para checar o sentimentos da palma sendo transmitida para mim[line2][lr]::
-44990::$$$message_0397_0084_0003$$$::".....Ngh!"::
-44991::$$$message_0397_0085_0000$$$::Meus ouvidos ainda funcionam, e eu ouço aquela voz.[lr]::
-44992::$$$message_0397_0085_0001$$$::Não, meu corpo está tão confuso que eu não consigo dizer se esse foi meu próprio corpo, ou se eu acabei de ouvir a voz da Tohsaka.::
-44993::$$$message_0397_0085_0002$$$::Os sentidos do meu corpo [flicker time=300 count=1] estão ficando distorcidos. Não consigo dizer claramente se estou sentado ou em pé.[lr]::
-44994::$$$message_0397_0085_0003$$$::Em contraste, posso sentir intimamente o calor da pele de Tohsaka. [flicker time=300 count=2]Meu próprio batimento cardíaco e o pulso de Tohsaka, não consigo mais dizer qual é qual.::
-44995::$$$message_0397_0086_0000$$$::"Hah..... tch.... ufa....."[lr]::
-44996::$$$message_0397_0086_0001$$$::...Essa respiração soa como alguém que está sentido dor.[lr]::
-44997::$$$message_0397_0086_0002$$$::Eu sei que não é minha própria respiração que eu estou ouvindo, então eu ouço cuidadosamente.::
+44984::$$$message_0397_0083_0000$$$::Fecho os olhos para me concentrar ainda mais.[lr]::
+44985::$$$message_0397_0083_0001$$$::...Meus batimentos cardíacos estão sincronizando com a pulsação da energia mágica dela. Ela está ajustando sua pulsação para combinar com a minha, enquanto eu mantenho um ritmo constante.[lr]::
+44986::$$$message_0397_0083_0002$$$::...Foco minha mente e a mantenho em um estado sereno como faço durante o meu próprio treinamento. Isso é a única coisa que posso fazer, já que nunca vivenciei a sincronização e não tenho noção de como é.::
+44987::$$$message_0397_0084_0000$$$::"Nimm an, ohne anderer Meinung zu sein, ohne zu fallen.[lr]::
+44988::$$$message_0397_0084_0001$$$::Es nimmt an, ohne zu fürchten, ohne zu zweifeln.[lr]::
+44989::$$$message_0397_0084_0002$$$::Sieg im Freund, der auf eine Reise ::
+44990::$$$message_0397_0084_0003$$$::entfernt geht."::
+44991::$$$message_0397_0085_0000$$$::Minhas pálpebras estão fechadas como se tivessem sido costuradas.[lr]::
+44992::$$$message_0397_0085_0001$$$::Meu olfato está enfraquecendo e meu paladar está sumindo.[lr]::
+44993::$$$message_0397_0085_0002$$$::Os sentidos do meu corpo [flicker time=300 count=1]estão ficando distorcidos. Não consigo distinguir claramente se estou sentado ou em pé.[lr]::
+44994::$$$message_0397_0085_0003$$$::Em contraste, consigo sentir intimamente o calor da pele da Tohsaka. [flicker time=300 count=2]Meus próprios batimentos e o pulso da Tohsaka, eu já não sei dizer qual é qual.::
+44995::$$$message_0397_0086_0000$$$::Uma dor fantasma como se alguém estivesse segurando o meu coração.[lr]::
+44996::$$$message_0397_0086_0001$$$::Uma experiência fantasma, como se eu estivesse segurando o coração de alguém.[lr]::
+44997::$$$message_0397_0086_0002$$$::Mexo meus dedos tentando identificar essa sensação que tenho na palma da mão.[lr]::
 44998::$$$message_0397_0086_0003$$$::"...Nngh!"::
-44999::$$$message_0397_0087_0000$$$::'Ei, leva isso a sério, Shirou.'::
-45000::$$$message_0397_0087_0001$$$::Espere, meus sentidos estão confusos. Não sei dizer se foi meu corpo que toquei ou se foi a voz de Tohsaka que ouvi.::
-45001::$$$message_0397_0088_0000$$$::Eu levo uma bronca de dentro de mim.[lr]::
-45002::$$$message_0397_0088_0001$$$::Eu tento perguntas o que isso significa, o que tá acontecendo.::
-45003::$$$message_0397_0088_0002$$$::Mesmo sabendo que não é minha própria respiração que estou ouvindo, não posso deixar de ouvi-la.::
-45004::$$$message_0397_0089_0000$$$::'Esse é o estágio inicial da simpatização, então nossos sentidos estão trocando de lugares e indo a loucura.[lr]::
-45005::$$$message_0397_0090_0000$$$::Isso é tudo que eu ouço antes de repentinamente perder minha visão de mim mesmo.[lr]::
-45006::$$$message_0397_0090_0001$$$::Eu sinto como se meu corpo tivesse virado papel que está sendo sobrado.[lr]::
-45007::$$$message_0397_0091_0000$$$::[line3]Eu estou flutuando.[lr]::
-45008::$$$message_0397_0091_0001$$$::Eu estou caindo mas flutuando, e o mundo está passando por mim em alta velocidade.[lr]::
-45009::$$$message_0397_0092_0000$$$::[line6]Ah.[lr]::
-45010::$$$message_0397_0092_0001$$$::Eu percebo que meus braços já foram dobrados.[lr]::
-45011::$$$message_0397_0092_0002$$$::Isso é preocupante. Eu me livrei do excesso das coisas e as coisas que eu não preciso aqui, mas é um problema se eu não tenho meus membros. Eu não consigo me reconhecer.[lr]::
-45012::$$$message_0397_0092_0003$$$::Então a primeira coisa que eu deveria fazer não deve ser afirmar o mundo, mas criar hipóteses sobre minha própria forma.::
-45013::$$$message_0397_0092_0004$$$::Embora haja um limite de quantas vezes você pode dobrar uma superfície bidimensional, não importa quanta área ela tenha, meu corpo continua dobrando para dentro.[lr]::
-45014::$$$message_0397_0092_0005$$$::Minha visão fica azul, mas estava vermelha antes de eu ser dobrado.::
-45015::$$$message_0397_0093_0000$$$::Eu cerro minhas duas mãos.[lr]::
-45016::$$$message_0397_0093_0001$$$::Mesmo que só hipoteticamente, eu reconheço meu próprio eu.[lr]::
-45017::$$$message_0397_0093_0002$$$::Não há topo ou fundo. Não há céu ou terra. Eu estou flutuando em uma azul esfera celestial.[lr]::
-45018::$$$message_0397_0094_0000$$$::O tempo está passando lá fora.[lr]::
-45019::$$$message_0397_0094_0001$$$::O exterior está inteiramente cheio deste mar azul.[lr]::
-45020::$$$message_0397_0094_0002$$$::Não há nada dentro da esfera celestial.[lr]::
-45021::$$$message_0397_0094_0003$$$::Em outras palavras[line3]da perspectiva do mar azul, essa própria esfera é o céu.::
-45022::$$$message_0397_0095_0000$$$::Um ovo do mundo.[lr]::
-45023::$$$message_0397_0095_0001$$$::Essa esfera sempre esteve coberta por uma casca?[lr]::
-45024::$$$message_0397_0095_0002$$$::Ou o exterior e o interior foram trocados?[lr]::
-45025::$$$message_0397_0095_0003$$$::Esse tudo é nascido do nada, ou o nada é forçado para fora por tudo?[lr]::
-45026::$$$message_0397_0096_0000$$$::O tempo continua a virar.[lr]::
-45027::$$$message_0397_0096_0001$$$::Uma coisa intangível que tomou forma com o passar de muitos meses e anos.[lr]::
-45028::$$$message_0397_0096_0002$$$::Não há forma repetida, e não há vida diferente.[lr]::
-45029::$$$message_0397_0096_0003$$$::Um fenômeno compartilhado por tudo.[lr]::
-45030::$$$message_0397_0097_0000$$$::Cada caso raro...[lr]::
-45031::$$$message_0397_0097_0001$$$::Demonstra um ótimo efeito.[lr]::
-45032::$$$message_0397_0097_0002$$$::[line3]Lindo. Eles são assim como peixes atravessando o mar.::
-45033::$$$message_0397_0097_0003$$$::O vazio dá origem a todos? Ou o vazio vaza de todos?[lr]::
+44999::$$$message_0397_0087_0000$$$::Minha audição ainda funciona, acabei de ouvir um som.[lr]::
+45000::$$$message_0397_0087_0001$$$::Espera, meus sentidos estão confusos. Não consigo dizer se aquilo foi o meu corpo que toquei ou se foi a voz da Tohsaka que eu ouvi.::
+45001::$$$message_0397_0088_0000$$$::"Hah...ngh...phew..."[lr]::
+45002::$$$message_0397_0088_0001$$$::...os suspiros que escapam da boca dela são sofridos.[lr]::
+45003::$$$message_0397_0088_0002$$$::Mesmo sabendo que não é a minha própria respiração que estou ouvindo, eu não consigo evitar de escutá-la.::
+45004::$$$message_0397_0089_0000$$$::"Ei, tente se recompor, Shirou."::
+45005::$$$message_0397_0090_0000$$$::Uma voz de dentro de mim acabou de gritar comigo.[lr]::
+45006::$$$message_0397_0090_0001$$$::Tento perguntar o que está acontecendo e o que vai acontecer.::
+45007::$$$message_0397_0091_0000$$$::"Nós estamos apenas na primeira fase da sincronização. É por isso que nossos sentidos foram trocados e estão todos misturados.[lr]::
+45008::$$$message_0397_0091_0001$$$::O verdadeiro desafio está por vir. Se você não se concentrar, será arrastado pelos nossos sentidos compartilhados[line2]"::
+45009::$$$message_0397_0092_0000$$$::Isso foi o máximo que consegui ouvir antes de me perder de repente.[lr]::
+45010::$$$message_0397_0092_0001$$$::Parece que meu corpo se transformou em papel e está sendo rapidamente dobrado.[lr]::
+45011::$$$message_0397_0092_0002$$$::Lentamente, o papel que é o meu corpo está sendo cuidadosamente guardado. Mas, como o tempo parou para o mundo ao redor, do lado de fora provavelmente parece que tudo isso está acontecendo na velocidade da luz.[lr]::
+45012::$$$message_0397_0092_0003$$$::Não há limite para este processo repetido de acumulação e contração.[lr]::
+45013::$$$message_0397_0092_0004$$$::Mesmo que haja um limite para o número de vezes que você pode dobrar uma superfície bidimensional, por mais área que tenha, o meu corpo continua a se dobrar para dentro.[lr]::
+45014::$$$message_0397_0092_0005$$$::Minha visão fica azul, embora antes de eu ser dobrado fosse vermelha.::
+45015::$$$message_0397_0093_0000$$$::...Estou flutuando.[lr]::
+45016::$$$message_0397_0093_0001$$$::Estou caindo e flutuando ao mesmo tempo, e o mundo está passando por mim em uma velocidade rápida.[lr]::
+45017::$$$message_0397_0093_0002$$$::Tento estender a mão para me familiarizar neste mundo onde a aceleração e o término existem simultaneamente.::
+45018::$$$message_0397_0094_0000$$$::...Ah.[lr]::
+45019::$$$message_0397_0094_0001$$$::Acabei de perceber que os meus braços já foram dobrados, então não há nada com que eu possa alcançar.[lr]::
+45020::$$$message_0397_0094_0002$$$::Agora isso é um problema. Eu já cortei as coisas que considerei desnecessárias para este lugar, mas não achei que perderia meus braços e pernas. Se isso continuar, perderei a minha noção de mim mesmo.[lr]::
+45021::$$$message_0397_0094_0003$$$::É por isso que a primeira coisa que preciso fazer não é confirmar o mundo, mas assumir a minha própria forma.::
+45022::$$$message_0397_0095_0000$$$::Aperto as minhas mãos.[lr]::
+45023::$$$message_0397_0095_0001$$$::Embora temporariamente, certamente alcancei um senso de mim mesmo.[lr]::
+45024::$$$message_0397_0095_0002$$$::Estou flutuando em uma esfera celeste azul. Não há para cima nem para baixo, não há céu nem terra.[lr]::
+45025::$$$message_0397_0095_0003$$$::Está quieto. Não estou falando de som, mas do meu atual estado finito de serenidade.::
+45026::$$$message_0397_0096_0000$$$::O tempo está fluindo do lado de fora.[lr]::
+45027::$$$message_0397_0096_0001$$$::O mar azul preenche o lado de fora.[lr]::
+45028::$$$message_0397_0096_0002$$$::Não há nada dentro da esfera celeste.[lr]::
+45029::$$$message_0397_0096_0003$$$::Isso significa que essa esfera celeste é o céu para o mar azul.::
+45030::$$$message_0397_0097_0000$$$::O Ovo do Mundo.[lr]::
+45031::$$$message_0397_0097_0001$$$::A esfera celeste está sendo coberta de conchas?[lr]::
+45032::$$$message_0397_0097_0002$$$::Ou a esfera celeste está virada do avesso?[lr]::
+45033::$$$message_0397_0097_0003$$$::O vazio dá à luz a tudo? Ou o vazio se infiltra em tudo?[lr]::
 45034::$$$message_0397_0097_0004$$$::A esfera celeste continua a girar enquanto invertida.::
-45035::$$$message_0397_0098_0000$$$::Não há vontade neste mundo completo.[lr]::
-45036::$$$message_0397_0098_0001$$$::Não há persistência ou defesa, não há simbiose ou antagonismo.[lr]::
-45037::$$$message_0397_0098_0002$$$::Tudo que vem aqui é tomado com vontade.[lr]::
-45038::$$$message_0397_0098_0003$$$::Se eu sou a substância estrangeira vinda para explorar isso...[lr]::
-45039::$$$message_0397_0098_0004$$$::Então eles vão responder naturalmente.::
-45040::$$$message_0397_0099_0000$$$::Um longo tempo passa.[lr]::
-45041::$$$message_0397_0099_0001$$$::A montagem do encravamento desenha o a imagem da substância estrangeira.[lr]::
-45042::$$$message_0397_0099_0002$$$::Mas o que requer cuidado é...::
-45043::$$$message_0397_0100_0000$$$::'[line6]'[lr]::
-45044::$$$message_0397_0100_0001$$$::Isso inverte.[lr]::
-45045::$$$message_0397_0100_0002$$$::Eu vejo uma ilusão.[lr]::
-45046::$$$message_0397_0100_0003$$$::Um passado escondido passa, um que não é o meu.::
-45047::$$$message_0397_0100_0004$$$::Eles irão, é claro, responder a isso.::
-45048::$$$message_0397_0101_0000$$$::Eu vejo uma memória antiga.[lr]::
-45049::$$$message_0397_0101_0001$$$::A manhã do adeus com uma certa pessoa. As memórias de outra pessoa, de ser mandada para uma casa de feriado longe de Fuyuki por causa do início do conflito.::
-45050::$$$message_0397_0101_0002$$$::But, you must be careful.::
-45051::$$$message_0397_0102_0000$$$::[line3]O que requer cuidado é...[lr]::
-45052::$$$message_0397_0102_0001$$$::Não importa qual seja a vontade por trás da reação...[lr]::
-45053::$$$message_0397_0102_0002$$$::Para a consciência humana, o processo que está sendo carregado não é nada além de punição divina.::
-45054::$$$message_0397_0102_0003$$$::A hidden past not of my own passes me.::
-45055::$$$message_0397_0103_0000$$$::'[line6]'[lr]::
-45056::$$$message_0397_0103_0001$$$::Neste corpo que não possui necessidade de olhos ou um cérebro, eu me sinto tonto.[lr]::
-45057::$$$message_0397_0104_0000$$$::Eu retorno para uma memória antiga.[lr]::
-45058::$$$message_0397_0104_0001$$$::A manhã da partida de uma certa pessoa.[lr]::
-45059::$$$message_0397_0104_0002$$$::A memória de outra pessoa, de ver alguém que nunca mais poderia segurar a mão dela de novo dizer adeus.::
-45060::$$$message_0397_0105_0000$$$::'[line4]'[lr]::
-45061::$$$message_0397_0105_0001$$$::As linhas do encravamento mágico nadam ao meu redor.[lr]::
-45062::$$$message_0397_0105_0002$$$::Elas rodopiam ao redor, procurando pela isca que apareceu.[lr]::
-45063::$$$message_0397_0106_0000$$$::A transformação é gradual.[lr]::
-45064::$$$message_0397_0106_0001$$$::O tempo cerca a mim como um espiral, e passa por dentro de mim...[lr]::
-45065::$$$message_0397_0106_0002$$$::'[line8]'[lr]::
-45066::$$$message_0397_0107_0000$$$::Pessoas: duas.[lr]::
-45067::$$$message_0397_0107_0001$$$::Estação: inverno.[lr]::
-45068::$$$message_0397_0107_0002$$$::Título: Despedida.::
+45035::$$$message_0397_0098_0000$$$::Aqui, o tempo é eterno.[lr]::
+45036::$$$message_0397_0098_0001$$$::O disforme ganha forma ao longo de uma eternidade.[lr]::
+45037::$$$message_0397_0098_0002$$$::Nada partilha a mesma forma, e não há vidas diferentes umas das outras.[lr]::
+45038::$$$message_0397_0098_0003$$$::É um fenômeno comum a todas as coisas.[lr]::
+45039::$$$message_0397_0098_0004$$$::Formas comuns congregam-se, e assim dão forma a diferentes leis.::
+45040::$$$message_0397_0099_0000$$$::Cada ocorrência rara,[lr]::
+45041::$$$message_0397_0099_0001$$$::também representa cada grande resultado.[lr]::
+45042::$$$message_0397_0099_0002$$$::...Bonito. Assim como peixes atravessando o vasto mar.::
+45043::$$$message_0397_0100_0000$$$::A vontade não existe neste mundo completo.[lr]::
+45044::$$$message_0397_0100_0001$$$::Este mundo não cria persistência ou preservação, nem simbiose ou hostilidade. [lr]::
+45045::$$$message_0397_0100_0002$$$::Este lugar recebe visitantes.[lr]::
+45046::$$$message_0397_0100_0003$$$::Se um objeto estranho cai aqui para ser explorado.[lr]::
+45047::$$$message_0397_0100_0004$$$::Eles irão, é claro, responder a ele.::
+45048::$$$message_0397_0101_0000$$$::O tremendo fluxo do tempo está vacilando.[lr]::
+45049::$$$message_0397_0101_0001$$$::O coletivo de Emblemas Mágicos sente a intenção do objeto estranho.[lr]::
+45050::$$$message_0397_0101_0002$$$::Mas, você deve tomar cuidado.::
+45051::$$$message_0397_0102_0000$$$::"..."[lr]::
+45052::$$$message_0397_0102_0001$$$::Meus sentidos estão subvertidos.[lr]::
+45053::$$$message_0397_0102_0002$$$::Estou vendo ilusões.[lr]::
+45054::$$$message_0397_0102_0003$$$::Um passado oculto que não é o meu, passa por mim.::
+45055::$$$message_0397_0103_0000$$$::Era uma lembrança antiga.[lr]::
+45056::$$$message_0397_0103_0001$$$::Uma lembrança de outra pessoa. Uma lembrança de despedida de alguém de manhã. Uma lembrança de ser colocada em uma mansão longe de Fuyuki após o início da batalha.::
+45057::$$$message_0397_0104_0000$$$::Você deve tomar cuidado.[lr]::
+45058::$$$message_0397_0104_0001$$$::Não importa que tipo de resposta a qual intenção.[lr]::
+45059::$$$message_0397_0104_0002$$$::Qualquer processo conduzido por eles só pode ser percebido pelos humanos como punição divina.::
+45060::$$$message_0397_0105_0000$$$::"..."[lr]::
+45061::$$$message_0397_0105_0001$$$::Em um corpo que não precisa de globos oculares e cérebro, eu estou ficando tonto.[lr]::
+45062::$$$message_0397_0105_0002$$$::Informações estão passando por mim.::
+45063::$$$message_0397_0106_0000$$$::Estou vendo velhas memórias.[lr]::
+45064::$$$message_0397_0106_0001$$$::Partindo de um certo alguém de manhã.[lr]::
+45065::$$$message_0397_0106_0002$$$::A lembrança de uma pessoa que viu sua pessoa amada ir embora sabendo que ela nunca mais seguraria as mãos dele. ::
+45066::$$$message_0397_0107_0000$$$::"..."[lr]::
+45067::$$$message_0397_0107_0001$$$::Linhas dos Emblemas Mágicos estão nadando ao meu redor.[lr]::
+45068::$$$message_0397_0107_0002$$$::Me cercando, como se estivessem procurando uma isca.[lr]::
 45069::$$$message_0397_0107_0003$$$::...Não há nada que eu possa fazer.[lr]::
-45070::$$$message_0397_0107_0004$$$::Bem, para começar, não há nada que uma isca possa fazer.[lr]::
-45071::$$$message_0397_0107_0005$$$::Isto não resultará em nada a menos que eu observe e aceite tudo assim.::
-45072::$$$message_0397_0108_0000$$$::Um buquê é oferecido.[lr]::
-45073::$$$message_0397_0108_0001$$$::Uma jovem garota está de pé frente a um túmulo.[lr]::
-45074::$$$message_0397_0108_0002$$$::Atrás dela está um imponente padre.[lr]::
-45075::$$$message_0397_0108_0003$$$::Nenhuma palavra é proferida.[lr]::
-45076::$$$message_0397_0109_0000$$$::Substância estrangeira adicionada.[lr]::
-45077::$$$message_0397_0109_0001$$$::Uma espada em espiral torcendo o corpo.[lr]::
-45078::$$$message_0397_0109_0002$$$::Como um vicioso tordo.[lr]::
-45079::$$$message_0397_0110_0000$$$::Eu observo um horrível fato.[lr]::
-45080::$$$message_0397_0110_0001$$$::Felizmente, minha habilidade de sentir dor foi dobrada.[lr]::
-45081::$$$message_0397_0110_0002$$$::Como se fosse da conta de outra pessoa, eu me observo ser trancado, preso, desmembrado, desmontado, e brincado com.[lr]::
-45082::$$$message_0397_0110_0003$$$::Carne é facilmente rasgada.[lr]::
-45083::$$$message_0397_0110_0004$$$::Ossos são facilmente talhados.[lr]::
-45084::$$$message_0397_0111_0000$$$::É como se um braço tivesse virado a perna de um inseto[lr]::
-45085::$$$message_0397_0111_0001$$$::parece[lr]::
-45086::$$$message_0397_0111_0002$$$::nojento.::
-45087::$$$message_0397_0111_0003$$$::O transplante da crista já começou.::
-45088::$$$message_0397_0112_0000$$$::Essa é a dor dela, também.[lr]::
-45089::$$$message_0397_0112_0001$$$::A dor que eu um dia ouvi a respeito, de carregar um encravamento mágico.[lr]::
-45090::$$$message_0397_0112_0002$$$::Eu sinto respeito por ela.[lr]::
-45091::$$$message_0397_0112_0003$$$::Ela segura esse nível de desconforto, talvez muito mais repulsivamente, com um brilhante sorriso.[lr]::
-45092::$$$message_0397_0112_0004$$$::Não parece nem um pouco desconfortável.[lr]::
-45093::$$$message_0397_0112_0005$$$::Se eu pensar nisso, o que há de temer?::
-45094::$$$message_0397_0113_0000$$$::'[line6]'[lr]::
-45095::$$$message_0397_0113_0001$$$::Eu toco em um lugar ainda mais profundo.[lr]::
-45096::$$$message_0397_0113_0002$$$::Nas memórias dela cheias de nada além de despedidas, havia uma.[lr]::
-45097::$$$message_0397_0114_0000$$$::Alguém estava correndo no campus escolar.[lr]::
-45098::$$$message_0397_0114_0001$$$::Um salto com vara.[lr]::
-45099::$$$message_0397_0114_0002$$$::Ele corre até a barra, repetidamente.::
-45100::$$$message_0397_0114_0003$$$::Ela abriga esse tipo de desconforto, ou melhor, horror, que é várias vezes mais repulsivo dentro de seu corpo, mas ainda assim consegue rir assim.[lr]::
-45101::$$$message_0397_0114_0004$$$::She doesn't feel any disgust.[lr]::
-45102::$$$message_0397_0114_0005$$$::Quando você pensa assim, do que há para ter medo?::
-45103::$$$message_0397_0115_0000$$$::Ela estava assistindo.[lr]::
-45104::$$$message_0397_0115_0001$$$::Sem motivo algum, até o sol se por.[lr]::
-45105::$$$message_0397_0115_0002$$$::Se questionando qual o sentido em fazer algo assim.[lr]::
-45106::$$$message_0397_0115_0003$$$::Parecendo traído de alguma forma, parecendo como se ela estivesse vendo algo precioso, ela encarou a cena por um longo tempo.::
-45107::$$$message_0397_0116_0000$$$::Isso é tudo que tem sobre essa história.[lr]::
-45108::$$$message_0397_0116_0001$$$::Uma ocorrência pós-aula que poderia acontecer em qualquer lugar.[lr]::
-45109::$$$message_0397_0116_0002$$$::Mas para ela, era uma indelével memória de infância, algo parecido com uma revolução.[lr]::
-45110::$$$message_0397_0117_0000$$$::O tempo retorna ao exterior.[lr]::
-45111::$$$message_0397_0117_0001$$$::O mundo está retornando a conclusão.[lr]::
-45112::$$$message_0397_0117_0002$$$::Minha consciência, solidificada por ter sido dobrada tão firmemente, começa a desaparecer.[lr]::
-45113::$$$message_0397_0117_0003$$$::Como uma bolha estourando na superfície do mar.[lr]::
-45114::$$$message_0397_0118_0000$$$::"........., tch."[lr]::
-45115::$$$message_0397_0118_0001$$$::...Meu corpo se sente pesado.[lr]::
-45116::$$$message_0397_0118_0002$$$::Ainda meio sonolento, eu abro meus olhos e olho ao redor aleatoriamente.::
-45117::$$$message_0397_0118_0003$$$::...Faintly.[lr]::
-45118::$$$message_0397_0118_0004$$$::Era uma visão familiar também para mim, uma visão de tempos passados.::
-45119::$$$message_0397_0119_0000$$$::"..., ..."[lr]::
-45120::$$$message_0397_0119_0001$$$::Minha consciência esclarece.[lr]::
-45121::$$$message_0397_0119_0002$$$::Eu estou deitado olhando para cima na cama sem minha camisa.[lr]::
-45122::$$$message_0397_0119_0003$$$::Meu ombro esquerdo está quente e suado.[lr]::
-45123::$$$message_0397_0119_0004$$$::Quando eu tento secar com minha mão, dói como uma queimadura.[lr]::
-45124::$$$message_0397_0120_0000$$$::"É isso mesmo, Tohsaka, funcionou[line2]?!"[lr]::
-45125::$$$message_0397_0120_0001$$$::Quanto tempo se passou?[lr]::
-45126::$$$message_0397_0120_0002$$$::Talvez eu tenha desmaiado e dormi e já tenham passado várias horas[line2]::
-45127::$$$message_0397_0121_0000$$$::"[line6], huh."[lr]::
-45128::$$$message_0397_0121_0001$$$::Então ela tá aqui.[lr]::
-45129::$$$message_0397_0121_0002$$$::Ótimo, eu pensei que eu dorm... Pera.::
+45070::$$$message_0397_0107_0004$$$::Bem, para começo de conversa não há nada que uma isca possa fazer.[lr]::
+45071::$$$message_0397_0107_0005$$$::Isso não dará em nada a menos que eu observe e aceite tudo como é.::
+45072::$$$message_0397_0108_0000$$$::A mudança é sempre tão lenta.[lr]::
+45073::$$$message_0397_0108_0001$$$::O tempo me cerca em espiral, atravessando meu corpo,[lr]::
+45074::$$$message_0397_0108_0002$$$::"..."[lr]::
+45075::$$$message_0397_0108_0003$$$::Ele começa a me corroer, como se tivesse devorando o vazio.::
+45076::$$$message_0397_0109_0000$$$::Personagens: Dois[lr]::
+45077::$$$message_0397_0109_0001$$$::Estação: Inverno[lr]::
+45078::$$$message_0397_0109_0002$$$::Nome: Despedida::
+45079::$$$message_0397_0110_0000$$$::Flores estão sendo ofertadas.[lr]::
+45080::$$$message_0397_0110_0001$$$::Uma jovem em pé em frente ao túmulo.[lr]::
+45081::$$$message_0397_0110_0002$$$::Um padre em pé, elevando-se atrás da jovem.[lr]::
+45082::$$$message_0397_0110_0003$$$::Não há palavras.[lr]::
+45083::$$$message_0397_0110_0004$$$::A garota está determinada a enterrar a sua própria tristeza novamente hoje.::
+45084::$$$message_0397_0111_0000$$$::Substâncias estranhas estão invadindo.[lr]::
+45085::$$$message_0397_0111_0001$$$::Lâminas espiraladas estão se aproximando do corpo.[lr]::
+45086::$$$message_0397_0111_0002$$$::É como um bulbul malicioso.[lr]::
+45087::$$$message_0397_0111_0003$$$::O transplante do emblema começou.::
+45088::$$$message_0397_0112_0000$$$::Eu observo a terrível realidade.[lr]::
+45089::$$$message_0397_0112_0001$$$::Felizmente, a minha função para sentir dor ainda está dobrada.[lr]::
+45090::$$$message_0397_0112_0002$$$::Eu me vejo sendo algemado, amarrado, cortado, desmembrado, comprimido e tratado como brinquedo... mas parece que é outra pessoa.[lr]::
+45091::$$$message_0397_0112_0003$$$::Oh, como é fácil cortar a carne?[lr]::
+45092::$$$message_0397_0112_0004$$$::Oh, como é fácil raspar o osso?[lr]::
+45093::$$$message_0397_0112_0005$$$::A única coisa restante parecia uma alma sendo eternamente atormentada.::
+45094::$$$message_0397_0113_0000$$$::                Um dos meus braços se transformou no de um inseto.[lr]::
+45095::$$$message_0397_0113_0001$$$::                                                Ou assim parece.[lr]::
+45096::$$$message_0397_0113_0002$$$::                                                                          Que... repugnante.::
+45097::$$$message_0397_0114_0000$$$::Esse também é o sofrimento dela.[lr]::
+45098::$$$message_0397_0114_0001$$$::Um tipo de dor que ouvi dizer que reside dentro do Emblema Mágico.[lr]::
+45099::$$$message_0397_0114_0002$$$::Eu a respeito.[lr]::
+45100::$$$message_0397_0114_0003$$$::Ela abriga esse tipo de desconforto, ou melhor, horror, que é várias vezes mais repulsivo dentro do seu corpo, e ainda assim consegue rir daquele jeito.[lr]::
+45101::$$$message_0397_0114_0004$$$::Ela não sente nenhum nojo.[lr]::
+45102::$$$message_0397_0114_0005$$$::Quando você pensa assim, o que há a temer?::
+45103::$$$message_0397_0115_0000$$$::"..."[lr]::
+45104::$$$message_0397_0115_0001$$$::De repente, entrei em contato com um local em particular muito profundo.[lr]::
+45105::$$$message_0397_0115_0002$$$::Isso está misturado com lembranças de despedidas e partidas.[lr]::
+45106::$$$message_0397_0115_0003$$$::Foi um encontro que ficou gravado no coração dela.::
+45107::$$$message_0397_0116_0000$$$::Alguém estava correndo no pátio da escola.[lr]::
+45108::$$$message_0397_0116_0001$$$::É salto em altura.[lr]::
+45109::$$$message_0397_0116_0002$$$::Alguém corria em direção à barra sem parar.::
+45110::$$$message_0397_0117_0000$$$::Ela ficou ali em pé, assistindo a tudo.[lr]::
+45111::$$$message_0397_0117_0001$$$::Era sem sentido, mas ele continuou tentando até o pôr do sol.[lr]::
+45112::$$$message_0397_0117_0002$$$::Ela pensou consigo mesma: "Qual o sentido disso?"[lr]::
+45113::$$$message_0397_0117_0003$$$::Ainda assim ela continuou assistindo, como se tivesse sido traída por algo, como se tivesse acabado de testemunhar algo precioso.::
+45114::$$$message_0397_0118_0000$$$::Foi isso.[lr]::
+45115::$$$message_0397_0118_0001$$$::Uma cena pós-escola comum em qualquer lugar.[lr]::
+45116::$$$message_0397_0118_0002$$$::Mas para ela, foi uma visão que desencadeou uma revolução em seu coração.[lr]::
+45117::$$$message_0397_0118_0003$$$::...Fração.[lr]::
+45118::$$$message_0397_0118_0004$$$::Era uma visão familiar a mim também, uma visão dos dias idos.::
+45119::$$$message_0397_0119_0000$$$::O tempo está voltando ao mundo exterior.[lr]::
+45120::$$$message_0397_0119_0001$$$::O mundo está voltando completamente.[lr]::
+45121::$$$message_0397_0119_0002$$$::A forte autoconsciência que obtive em troca do meu corpo dobrado está se evaporando.[lr]::
+45122::$$$message_0397_0119_0003$$$::Como a espuma desaparecendo na superfície do mar.[lr]::
+45123::$$$message_0397_0119_0004$$$::Eu fui separado do mundo interior ao acolher uma substância estranha em meu braço.::
+45124::$$$message_0397_0120_0000$$$::"...Ugh."[lr]::
+45125::$$$message_0397_0120_0001$$$::...Meu corpo está pesado.[lr]::
+45126::$$$message_0397_0120_0002$$$::Abro os meus olhos ainda meio adormecido e tento compreender meus arredores vagamente.::
+45127::$$$message_0397_0121_0000$$$::"..."[lr]::
+45128::$$$message_0397_0121_0001$$$::Minha consciência está voltando.[lr]::
+45129::$$$message_0397_0121_0002$$$::Estou deitado na cama de barriga para cima, com a metade superior do corpo despida.[lr]::
 45130::$$$message_0397_0121_0003$$$::Meu ombro esquerdo está queimando e suando.[lr]::
-45131::$$$message_0397_0121_0004$$$::Quando tento enxugar o suor, dói como se estivesse queimando.[lr]::
-45132::$$$message_0397_0121_0005$$$::...Achei que estava vendo mais dedos. É óbvio que não sou o mesmo de antes.::
-45133::$$$message_0397_0122_0000$$$::...Eu acho que eu tô sendo encarado aqui.::
+45131::$$$message_0397_0121_0004$$$::Quando eu tento limpar o suor a dor vem, como se ele estivesse sofrendo uma queimadura.[lr]::
+45132::$$$message_0397_0121_0005$$$::...Achei que eu estivesse vendo mais dedos. É óbvio que não sou o mesmo "eu" de antes.::
+45133::$$$message_0397_0122_0000$$$::"A propósito, Tohsaka, o ritual foi um sucesso?"[lr]::
 45134::$$$message_0397_0122_0001$$$::Quantas horas se passaram desde então?[lr]::
-45135::$$$message_0397_0122_0002$$$::Não me diga, acabei desmaiando e dormindo enquanto o tempo passava?::
-45136::$$$message_0397_0123_0000$$$::"...Tohsaka? Funcionou?"[lr]::
-45137::$$$message_0397_0123_0001$$$::"...Óbvio que funcionou. Tão bem que ninguém pode reclamar. Tão perfeitamente que não vão haver consequências. Tão sem falhas que até o Kirei, que se especializa nessas coisas, teria dado um elogio como 'muito bem feito, pela minha discípula'."[lr]::
-45138::$$$message_0397_0123_0002$$$::"A-Ahh[line3]"::
-45139::$$$message_0397_0124_0000$$$::A-Acho que isso significa que tudo funcionou bem.[lr]::
-45140::$$$message_0397_0125_0000$$$::"[line6]"[lr]::
-45141::$$$message_0397_0125_0001$$$::...Parece que a situação ficou meio má.[lr]::
-45142::$$$message_0397_0125_0002$$$::Eu preciso perceber porque ela se sente assim e acalmar ela o mais rápido possível, mas um estudante indigno como eu, não consigo nem perceber o que minha mestra está brava a respeito.::
-45143::$$$message_0397_0126_0000$$$::"Ow..."[lr]::
-45144::$$$message_0397_0126_0001$$$::Meu ombro pulsa de dor.[lr]::
-45145::$$$message_0397_0126_0002$$$::É uma sensação estranha, como um profundo corte combinado com uma queimadura.::
-45146::$$$message_0397_0126_0003$$$::She's really, really angry.[lr]::
-45147::$$$message_0397_0126_0004$$$::Posso sentir a tensão entre nós... Ela está claramente de mau humor com alguma coisa.::
-45148::$$$message_0397_0127_0000$$$::"Uah[line3]"[lr]::
-45149::$$$message_0397_0127_0001$$$::Não tem dúvidas sobre isso.[lr]::
-45150::$$$message_0397_0127_0002$$$::Um design está marcado no meu ombro esquerdo.[lr]::
-45151::$$$message_0397_0128_0000$$$::"Tohsaka, isso é..."[lr]::
-45152::$$$message_0397_0128_0001$$$::"Sim. É o encravamento mágico que eu transplantei pra você. É só um circuito sem um traço da taumaturgia original agora, porém."[lr]::
-45153::$$$message_0397_0128_0002$$$::"Entendi,... mas isso é incrível. Eu pensei que iria doer mais, mas não dói nem um pouco. É só um pouco pesado."::
-45154::$$$message_0397_0129_0000$$$::"Você vai se acostumar logo. É só um caminho pra transferir energia mágica, então não deve ter muito efeito no corpo.[lr]::
-45155::$$$message_0397_0129_0001$$$::O encravamento... não, o circuito vai imitar seu corpo, então daqui meio ano você não vai sentir nada."[lr]::
-45156::$$$message_0397_0129_0002$$$::"Entendi. Então isso significa...?"::
-45157::$$$message_0397_0129_0003$$$::Parece o Crista Mágico de Tohsaka e emite uma leve luz azul.::
-45158::$$$message_0397_0130_0000$$$::"A transferência está completa. É fundamentalmente só um caminho de mim para você, então você não pode mandar energia mágica pra mim. A esse ponto, eu só posso te enviar minha energia mágica.[lr]::
-45159::$$$message_0397_0130_0001$$$::Daqui pra frente, tudo depende dos seus esforços. Nós resolvemos o problema da energia mágica pra criar a realidade interior, então a única coisa restante é[line3]"::
-45160::$$$message_0397_0130_0002$$$::"Entendo... Bem, isso com certeza é alguma coisa. Eu pensei que iria doer, mas na verdade não dói nada. Na verdade, meu braço só parece um pouco mais pesado do que antes."::
-45161::$$$message_0397_0131_0000$$$::Eu.[lr]::
-45162::$$$message_0397_0131_0001$$$::Tudo que resta é eu ativar todos meus circuitos mágicos e corretamente criar a realidade interior.::
+45135::$$$message_0397_0122_0002$$$::Não me diga que eu acabei desmaiando e dormindo enquanto o tempo passava?::
+45136::$$$message_0397_0123_0000$$$::"...Graças a Deus."[lr]::
+45137::$$$message_0397_0123_0001$$$::Tohsaka, você ainda está aí.[lr]::
+45138::$$$message_0397_0123_0002$$$::É um alívio. Tive certeza de que tinha dormido demais e... Hmm?::
+45139::$$$message_0397_0124_0000$$$::...Estou imaginando coisas ou ela está me fuzilando com o olhar?::
+45140::$$$message_0397_0125_0000$$$::"...Ummm, Tohsaka? Foi um sucesso?"[lr]::
+45141::$$$message_0397_0125_0001$$$::"...Mas é claro que foi um sucesso. Foi um sucesso estrondoso. Foi tão bem sucedido que não há a menor pista de efeitos colaterais. Foi feito de forma tão perfeita que até o Kirei me elogiaria com aquela cara de cínico dele."[lr]::
+45142::$$$message_0397_0125_0002$$$::"A-Ah, que bom..."::
+45143::$$$message_0397_0126_0000$$$::T-Tenho certeza de que isso deve ser uma grande conquista.[lr]::
+45144::$$$message_0397_0126_0001$$$::Mas, de alguma forma, a Tohsaka não está orgulhosa disso e não parece a sua usual "ela" arrogante.[lr]::
+45145::$$$message_0397_0126_0002$$$::Na verdade, ela está com raiva.[lr]::
+45146::$$$message_0397_0126_0003$$$::Ela está com muita, muita raiva.[lr]::
+45147::$$$message_0397_0126_0004$$$::Eu posso sentir a tensão entre nós... Ela está claramente aborrecida com alguma coisa.::
+45148::$$$message_0397_0127_0000$$$::"..."[lr]::
+45149::$$$message_0397_0127_0001$$$::...Não sei o porquê, mas parece que algo deu errado.[lr]::
+45150::$$$message_0397_0127_0002$$$::Sinto que precisaria ler a mente dela agora mesmo e acalmá-la, mas sou tão mau aluno que não consigo pensar em nenhum motivo para a Tohsaka estar brava.::
+45151::$$$message_0397_0128_0000$$$::"...Toh..."[lr]::
+45152::$$$message_0397_0128_0001$$$::Essa dor persistente no meu braço esquerdo.[lr]::
+45153::$$$message_0397_0128_0002$$$::Um sentimento estranho que é como uma mistura de dor aguda de cortes profundos com a dor ardente de uma queimadura.::
+45154::$$$message_0397_0129_0000$$$::"Uou..."[lr]::
+45155::$$$message_0397_0129_0001$$$::Sem a menor dúvida.[lr]::
+45156::$$$message_0397_0129_0002$$$::Um selo detalhadamente projetado está gravado em meu braço esquerdo.[lr]::
+45157::$$$message_0397_0129_0003$$$::Parece o Emblema Mágico da Tohsaka e emite uma fraca luz azul.::
+45158::$$$message_0397_0130_0000$$$::"Tohsaka, isso é...?"[lr]::
+45159::$$$message_0397_0130_0001$$$::"Sim, este é o Emblema Mágico que transplantei. Ele já se tornou parte do seu circuito e qualquer traço de sua feitiçaria original não se vê em lugar nenhum."[lr]::
+45160::$$$message_0397_0130_0002$$$::"Entendo... Bem, isso é bem incrível. Achei que fosse doer, mas não dói nem um pouco. O máximo que sinto é o meu braço um pouco mais pesado do que antes."::
+45161::$$$message_0397_0131_0000$$$::"Você vai se acostumar logo. Já que seu único propósito é conectar a nossa energia mágica, ele não deve ter nenhum efeito no corpo humano.[lr]::
+45162::$$$message_0397_0131_0001$$$::O Emblema Mágico... ou melhor, o circuito se assimilará lentamente ao seu corpo e você não sentirá mais nada em cerca de meio ano."[lr]::
 45163::$$$message_0397_0131_0002$$$::"É mesmo? Então isso significa..."::
-45164::$$$message_0397_0132_0000$$$::"...Sim. Obrigado, Tohsaka. Eu sou grato pelo encravamento mágico."[lr]::
-45165::$$$message_0397_0132_0001$$$::"Óbvio. Eu não vou deixar você se desculpar. Se você colocasse em dinheiro, seria na casa dos trilhões, então tomaria a sua vida inteira me pagando de volta."[lr]::
-45166::$$$message_0397_0133_0000$$$::"..........Você viu, não viu."[lr]::
-45167::$$$message_0397_0133_0001$$$::"Huh?"[lr]::
-45168::$$$message_0397_0134_0000$$$::"P-Pera, eu fiz algo?!"[lr]::
-45169::$$$message_0397_0134_0001$$$::"Como eu falei. Você viu, não viu, sua besta."[lr]::
-45170::$$$message_0397_0134_0002$$$::"B-[shock time=400 vmax=30 count=-3]Besta?!"[lr]::
-45171::$$$message_0397_0134_0003$$$::Sem chance, eu realmente fiz algo que faria eu merecer ser chamado assim?![lr]::
-45172::$$$message_0397_0135_0000$$$::"S-Sim. Em primeiro lugar, meus olhos não funcionaram durante o ritual, ou pelo menos a maioria do que eu vi era branco. Tudo que eu vi foram imagens que pareciam circuitos mágicos e[line3]"::
-45173::$$$message_0397_0135_0001$$$::"Eh?"[lr]::
+45164::$$$message_0397_0132_0000$$$::"O transplante foi concluído. É basicamente um caminho de mão única de mim para você, então não é possível que você me envie a sua energia mágica. Tudo o que eu posso fazer agora por você é lhe enviar a minha energia mágica.[lr]::
+45165::$$$message_0397_0132_0001$$$::Tudo depende de você agora. Nós garantimos a energia mágica necessária para criar o Mármore de Realidade, tudo o que resta é[line2]"::
+45166::$$$message_0397_0133_0000$$$::É o meu problema.[lr]::
+45167::$$$message_0397_0133_0001$$$::Tudo que eu preciso fazer é ativar totalmente meu Circuito Mágico e criar o Mármore de Realidade com sucesso.::
+45168::$$$message_0397_0134_0000$$$::"...Você tem razão. Obrigado, Tohsaka. Farei bom uso do seu Emblema Mágico."[lr]::
+45169::$$$message_0397_0134_0001$$$::"É bom que faça. Além disso, não espere que eu vá me desculpar. Você não está me devendo apenas uma, me deve um trilhão, é o equivalente a uma vida inteira de dívidas."[lr]::
+45170::$$$message_0397_0134_0002$$$::"Hahaha, nisso você tem razão.[lr]::
+45171::$$$message_0397_0134_0003$$$::Ah. E por que você estava tão brava até agora?"::
+45172::$$$message_0397_0135_0000$$$::"...Você viu, não foi?"[lr]::
+45173::$$$message_0397_0135_0001$$$::"Hã?"[lr]::
 45174::$$$message_0397_0135_0002$$$::O que eu vi exatamente?[lr]::
-45175::$$$message_0397_0135_0003$$$::...N-não me diga que quando pensei que tinha apagado durante o ritual, meu corpo realmente agiu por conta própria e fez algo com Tohsaka!?::
-45176::$$$message_0397_0136_0000$$$::Ah.[lr]::
-45177::$$$message_0397_0136_0001$$$::...Isso significa que a Tohsaka tava falando disso?[lr]::
-45178::$$$message_0397_0136_0002$$$::As ilusões que eu vi.[lr]::
-45179::$$$message_0397_0136_0003$$$::Não é incomum ver visões das profundezas da mente de alguém quando num estado de simpatização.[lr]::
-45180::$$$message_0397_0136_0004$$$::Deve ser a mesma coisa que eu ver os sonhos da Saber, ou do espírito heroico Emiya.::
-45181::$$$message_0397_0137_0000$$$::Eu bato no meu joelho entendendo.[lr]::
-45182::$$$message_0397_0138_0000$$$::"...........Hmpf."[lr]::
-45183::$$$message_0397_0138_0001$$$::"É isso, Tohsaka. Você teve um sonho estranho, certo?[lr]::
-45184::$$$message_0397_0138_0002$$$::Tinha um cara no campus da escola que tava fazendo um salto com vara que nem um idiota, e você assistiu ele o tempo inteiro até o sol se por. Sobre o que era iss[line2][wsay canskip=1],[playstop time=200 nowait=1][se storage=se605.wav][dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=3.3 time=200 cy=301 mag=1.2 my=0 storage=m02タイガーぱんち rot=-0.0 accel=0][quake time=1500 vmax=30 hmax=10][wdash canskip=0][say storage=rin1508s_shi_0691] gwah?!"::
+45175::$$$message_0397_0135_0003$$$::...N-não me diga que quando eu pensei que tinha apagado durante o ritual, meu corpo na verdade agiu sozinho e fez algo com a Tohsaka!?::
+45176::$$$message_0397_0136_0000$$$::"E-espera um pouco, eu fiz alguma coisa!?"[lr]::
+45177::$$$message_0397_0136_0001$$$::"Não se faça de inocente! Você viu, seu animal!"[lr]::
+45178::$$$message_0397_0136_0002$$$::"A-[shock time=400 vmax=30 count=-3]animal!?"[lr]::
+45179::$$$message_0397_0136_0003$$$::Impossível! Eu cheguei a fazer algo tão grotesco que ela usou essa palavra para me descrever!?[lr]::
+45180::$$$message_0397_0136_0004$$$::Espera, não tem como isso ter acontecido. A cama está arrumada, e além disso, eu não estaria vivo se algo do tipo tivesse acontecido.::
+45181::$$$message_0397_0137_0000$$$::"A-agora eu me lembro. Em primeiro lugar, meus olhos não estavam funcionando durante o ritual, então eu realmente não conseguia ver nada além do que se parecia com o Circuito Mágico e[line2]"::
+45182::$$$message_0397_0138_0000$$$::Ah.[lr]::
+45183::$$$message_0397_0138_0001$$$::...Talvez seja sobre isso que a Tohsaka estava falando?[lr]::
+45184::$$$message_0397_0138_0002$$$::Uma ilusão que eu vi por um breve momento.[lr]::
 45185::$$$message_0397_0138_0003$$$::No estado em que estávamos compartilhando nossos sentidos devido à sincronização, é possível que pudéssemos ver imagens da mente um do outro.[lr]::
-45186::$$$message_0397_0138_0004$$$::Não seria muito diferente de quando eu vi o sonho de Saber ou o sonho de Heroic Spirit Emiya.::
-45187::$$$message_0397_0139_0000$$$::Antes de conseguir terminar, um travesseiro me acerta na cara.[lr]::
-45188::$$$message_0397_0139_0001$$$::É como um corte combinado com uma balançada completa.[lr]::
-45189::$$$message_0397_0140_0000$$$::"Gah, hah[line3]"[lr]::
-45190::$$$message_0397_0140_0001$$$::Só tem um problema.[lr]::
-45191::$$$message_0397_0140_0002$$$::O travesseiro normalmente fofo tem um impacto e danos tão fortes que é como se tivesse cheio de água.::
-45192::$$$message_0397_0141_0000$$$::"Ei, Tohsaka, o quê...!"[lr]::
-45193::$$$message_0397_0141_0001$$$::"Cala boca, cala boca, cala bocaaaaa!!"::
-45194::$$$message_0397_0141_0002$$$::Um ataque crítico do qual até Sabre e Fuji-nee ficariam orgulhosos!::
-45195::$$$message_0397_0142_0000$$$::Ela me persegue com o travesseiro.[lr]::
-45196::$$$message_0397_0142_0001$$$::A Tohsaka me acerta repetidamente com ataques a cabeça com o travesseiro no estado imodesto dela.::
-45197::$$$message_0397_0142_0002$$$::É o fato de que um travesseiro normal e macio pode causar o impacto e danificar como se estivesse cheio de água ou algo assim.::
-45198::$$$message_0397_0143_0000$$$::"Ai, ai, ai, você colocou energia mágica nessa coisa?![lr]::
-45199::$$$message_0397_0143_0001$$$::Só para com isso! Isso é estranho, o que tem de errado com você?!"[lr]::
-45200::$$$message_0397_0144_0000$$$::Eu grito surpreso, e recebo um ataque direto na cara pela abertura na minha guarda.[lr]::
-45201::$$$message_0397_0144_0001$$$::"Ah."[lr]::
-45202::$$$message_0397_0145_0000$$$::Combinado com a fatiga da transferência, eu sou derrubado.[lr]::
-45203::$$$message_0397_0145_0001$$$::A Tohsaka ainda deve estar brava, já que ela segura a nuca do meu pescoço e me arrasta pelo chão.::
-45204::$$$message_0397_0145_0002$$$::"Cale a boca seu animal! Como você ousa espiar o segredo de alguém e simplesmente agir como se nada tivesse acontecido!"[lr]::
-45205::$$$message_0397_0145_0003$$$::"Ai... ahh... e-espere um minuto, isso é um segredo para você!?"::
-45206::$$$message_0397_0146_0000$$$::"[line3]Hmpf. Tá tudo bem. Eu vou olhar as suas memórias vergonhosas da próxima vez. Eu não vou pegar leve com você quando a hora chegar mesmo que você se curve a mim. Isso mesmo."[lr]::
-45207::$$$message_0397_0146_0001$$$::"Qualquer coisa menos isso... Pera, será que..."::
-45208::$$$message_0397_0146_0002$$$::"Eek."[lr]::
-45209::$$$message_0397_0146_0003$$$::Esse foi um golpe de travesseiro rápido e poderoso.::
-45210::$$$message_0397_0147_0000$$$::Eu não consegui perguntar afinal.[lr]::
-45211::$$$message_0397_0147_0001$$$::Ela me empurra pra fora do quarto pelo pescoço.::
-45212::$$$message_0397_0148_0000$$$::"Emiya-kun? Garotas tem muita preparação a fazer, então você se importa em voltar pro seu próprio quarto?"[lr]::
-45213::$$$message_0397_0148_0001$$$::Com esse sorriso malvado dela[line3]A Tohsaka bate na porta.[lr]::
-45214::$$$message_0397_0149_0000$$$::"...Não seja estúpida. Garotos tem muita coisa pra fazer também."[lr]::
-45215::$$$message_0397_0149_0001$$$::Eu me levanto, ainda aguentando minha cabeça tonta.[lr]::
-45216::$$$message_0397_0150_0000$$$::"...Ah enfim. Se ela tá brava sobre isso, deve ter um significado especial."[lr]::
-45217::$$$message_0397_0150_0001$$$::Murmurando algo estúpido, eu volto pro meu quarto.::
-45218::$$$message_0397_0150_0002$$$::...Jogado no corredor assim, olho fixamente para a porta.::
-45219::$$$message_0397_0151_0000$$$::Aquilo foi provavelmente só uma desculpa pra Tohsaka me expulsar, mas é verdade que não tem tempo.[lr]::
-45220::$$$message_0397_0151_0001$$$::A data já mudou.[lr]::
-45221::$$$message_0397_0151_0002$$$::Tem provavelmente menos de uma hora pra gente ir até o templo.::
-45222::$$$message_0397_0151_0003$$$::Não fui capaz de perguntar a Tohsaka o que aquela cena que vi significava para ela.::
-45223::$$$message_0397_0152_0000$$$::"Hm[line4]sim, isso é..."[lr]::
-45224::$$$message_0397_0152_0001$$$::Eu fecho meus olhos e sinto a energia mágica inundando dentro de mim.[lr]::
-45225::$$$message_0397_0153_0000$$$::Se a capacidade mágica de Emiya Shirou é 20 ou 30, ela sempre tem 500 de energia mágica.[lr]::
-45226::$$$message_0397_0153_0001$$$::......Eu tenho  certeza que duraria anos pra encher a capacidade inteira dela, mas eu aposto que a capacidade máxima dela chegaria a mil.::
-45227::$$$message_0397_0153_0002$$$::Provavelmente falta menos de uma hora antes de irmos para o templo.::
-45228::$$$message_0397_0154_0000$$$::"......Eu tô espantado. Ela realmente é incrível."[lr]::
-45229::$$$message_0397_0154_0001$$$::Isso me faz perceber a grandiosidade dela de novo.[lr]::
-45230::$$$message_0397_0154_0002$$$::Bom, ela tá exausta agora mesmo e a maioria dos magos só mantém 80 porcento da energia mágica deles, então a Tohsaka tem por volta de 400 de energia mágica agora mesmo.::
-45231::$$$message_0397_0155_0000$$$::Mas isso ainda é uma grande quantidade.[lr]::
-45232::$$$message_0397_0155_0001$$$::Eu uso mais ou menos duas de energia mágica pra usar taumaturgia de fortalecimento uma vez, [lr]::
-45233::$$$message_0397_0156_0000$$$::"......Bom, um veículo barato vai aquecer demais mesmo que tenha gasolina o suficiente."[lr]::
-45234::$$$message_0397_0156_0001$$$::Mas isso aumentou meu poder grandemente.[lr]::
-45235::$$$message_0397_0156_0002$$$::Eu talvez seja capaz de derrotar aquele rei dos heróis com isso.::
-45236::$$$message_0397_0157_0000$$$::Tudo que sobrou é[line4][lr]::
-45237::$$$message_0397_0157_0001$$$::"[line3]Só falta uma hora.  Eu deveria descansar meu corpo até então."[lr]::
-45238::$$$message_0397_0157_0002$$$::Eu vou descansar e recuperar minha energia física e mental para a batalha final no Templo Ryuudou.[lr]::
-45239::$$$message_0397_0157_0003$$$::......Tudo está preparado.[lr]::
-45240::$$$message_0397_0158_0000$$$::"...Bem, um veículo barato superaquecerá, não importa quanto combustível haja..."[lr]::
-45241::$$$message_0397_0158_0001$$$::Mas ainda aumentou tremendamente meu poder.[lr]::
-45242::$$$message_0397_0158_0002$$$::Posso até ter uma chance de vencer aquele Rei dos Heróis assim.::
-45243::$$$message_0397_0159_0000$$$::Tudo o que resta é...[lr]::
-45244::$$$message_0397_0159_0001$$$::"...Falta mais uma hora. Devo descansar meu corpo até lá."[lr]::
-45245::$$$message_0397_0159_0002$$$::Vou descansar meu corpo e recuperar minha força física e mental para a batalha final no Templo Ryudou.[lr]::
-45246::$$$message_0397_0159_0003$$$::...Tudo está definido.[lr]::
-45247::$$$message_0397_0159_0004$$$::Também enfrentarei a última noite com o corpo totalmente preparado, por causa da Tohsaka, já que ela me deu seu Brasão Mágico e se abriu comigo...::
+45186::$$$message_0397_0138_0004$$$::Não seria muito diferente de quando eu vi o sonho da Saber ou o sonho do Espírito Heroico Emiya.::
+45187::$$$message_0397_0139_0000$$$::Agora faz sentido.[lr]::
+45188::$$$message_0397_0139_0001$$$::Se esse é o caso, então a única coisa que eu vi com a qual ela se importaria é aquela cena no pátio da escola durante o pôr do sol, algo que não vi em meus outros sonhos.::
+45189::$$$message_0397_0140_0000$$$::"...Entendi."[lr]::
+45190::$$$message_0397_0140_0001$$$::"Deve ser isso. Tohsaka, você teve um sonho esquisito, não teve?[lr]::
+45191::$$$message_0397_0140_0002$$$::Em algum pátio de escola em algum lugar, você ficou olhando para um idiota que não desistia do salto em altura até o anoitecer. Sobre o que e[line2][wsay canskip=1], [playstop time=200 nowait=1][se storage=se605][dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=3.3 time=200 cy=301 mag=1.2 my=0 storage=m02タイガーぱんち rot=-0.0 accel=0][quake time=1500 vmax=30 hmax=10][wdash canskip=0][say storage=rin1508s_shi_0691]uou!"::
+45192::$$$message_0397_0141_0000$$$::Fui atingido por um travesseiro antes que pudesse terminar minha frase.[lr]::
+45193::$$$message_0397_0141_0001$$$::Foi um golpe ágil e forte.[lr]::
+45194::$$$message_0397_0141_0002$$$::Um ataque crítico que faria até a Saber e a Fuji-nee ficarem com orgulho!::
+45195::$$$message_0397_0142_0000$$$::"Guh...hah..."[lr]::
+45196::$$$message_0397_0142_0001$$$::Há um outro problema.[lr]::
+45197::$$$message_0397_0142_0002$$$::É o fato de que um travesseiro normal e fofo pode causar o mesmo impacto e estrago de um travesseiro recheado com água ou algo do tipo.::
+45198::$$$message_0397_0143_0000$$$::"...Tohsaka, o que é isso..!?"[lr]::
+45199::$$$message_0397_0143_0001$$$::"Cala a boca cala a boca CALA A BOCA!"::
+45200::$$$message_0397_0144_0000$$$::Ela continua a me bater com o travesseiro.[lr]::
+45201::$$$message_0397_0144_0001$$$::Parecendo exatamente como quando iniciou o ritual, Tohsaka continua seu massacre de travesseiradas.::
+45202::$$$message_0397_0145_0000$$$::"Ai, ai! Você carregou isso aí com energia mágica!?[lr]::
+45203::$$$message_0397_0145_0001$$$::Você pode dar um tempo e me dizer qual o seu problema!?"[lr]::
+45204::$$$message_0397_0145_0002$$$::"Cala a boca, seu animal! Como ousa bisbilhotar no segredo dos outros e ainda agir como se nada tivesse acontecido!"[lr]::
+45205::$$$message_0397_0145_0003$$$::"Ai...ahh... e-espera um pouco, isso era segredo pra você!?"::
+45206::$$$message_0397_0146_0000$$$::Quando eu me mostrei surpreso com a resposta dela, ela viu uma abertura e me acertou no rosto.[lr]::
+45207::$$$message_0397_0146_0001$$$::"Oh."[lr]::
+45208::$$$message_0397_0146_0002$$$::"Iik."[lr]::
+45209::$$$message_0397_0146_0003$$$::Aquilo foi um ágil e poderoso "uppercut" de travesseiro.::
+45210::$$$message_0397_0147_0000$$$::Talvez também seja pelo cansaço do transplante, mas eu fui jogado no chão acidentalmente de novo.[lr]::
+45211::$$$message_0397_0147_0001$$$::A Tohsaka ainda devia estar brava porque ela me agarrou pela nuca e começou a me arrastar pelo chão.::
+45212::$$$message_0397_0148_0000$$$::"...Hmph. Tudo bem, grave bem esse momento. Um dia, eu darei uma espiadinha nas suas memórias constrangedoras e será tarde demais para pedir perdão."[lr]::
+45213::$$$message_0397_0148_0001$$$::"Por favor, me perdoa... Ei, o que você tá fazendo..."::
+45214::$$$message_0397_0149_0000$$$::Ela não quer me escutar.[lr]::
+45215::$$$message_0397_0149_0001$$$::Ela me segura pela nuca e me joga para fora do quarto.::
+45216::$$$message_0397_0150_0000$$$::"Sr. Emiya? Só para constar, uma garota tem muito o que fazer para se arrumar, então se importaria de ir para o seu quarto?"[lr]::
+45217::$$$message_0397_0150_0001$$$::Com aquele seu sorrisinho maquiavélico... A Tohsaka bate a porta.[lr]::
+45218::$$$message_0397_0150_0002$$$::...Jogado para o corredor parecendo um idiota, eu encaro a porta sem reação.::
+45219::$$$message_0397_0151_0000$$$::"...Isso é ridículo. Rapazes também tem muitas coisas para fazer."[lr]::
+45220::$$$message_0397_0151_0001$$$::Eu seguro a minha cabeça que está girando e me levanto.[lr]::
+45221::$$$message_0397_0151_0002$$$::Pensei em retrucar algo para a Tohsaka do outro lado, mas acho que é melhor não.[lr]::
+45222::$$$message_0397_0151_0003$$$::Eu não consegui perguntar à Tohsaka qual era o significado da cena que eu vi.::
+45223::$$$message_0397_0152_0000$$$::"...Bem. Se ela está tão zangada, deve significar algo especial."[lr]::
+45224::$$$message_0397_0152_0001$$$::Resmungando besteiras para mim mesmo, eu volto ao meu quarto.::
+45225::$$$message_0397_0153_0000$$$::Aquilo devia ser apenas uma desculpa para a Tohsaka me chutar dali, mas é verdade que o tempo é curto.[lr]::
+45226::$$$message_0397_0153_0001$$$::Já passou de meia-noite.[lr]::
+45227::$$$message_0397_0153_0002$$$::Nós temos menos de uma hora antes de irmos para o templo.::
+45228::$$$message_0397_0154_0000$$$::"Hm... Certo, isso é..."[lr]::
+45229::$$$message_0397_0154_0001$$$::Fecho os olhos e sinto a energia mágica da Tohsaka jorrando dentro de mim.[lr]::
+45230::$$$message_0397_0154_0002$$$::A Tohsaka não está me abastecendo conscientemente, e ainda sim, sinto a energia preenchendo o meu corpo.::
+45231::$$$message_0397_0155_0000$$$::Se a minha capacidade máxima de energia mágica é uns vinte ou trinta, então ela sempre carrega algo como 500 de energia mágica.[lr]::
+45232::$$$message_0397_0155_0001$$$::...Tenho certeza de que deve demorar anos para acumular tudo isso, mas se alguém lhe fornecesse, ela conseguiria atingir a capacidade de 1000.::
+45233::$$$message_0397_0156_0000$$$::"...É impressionante. Ela é realmente incrível."[lr]::
+45234::$$$message_0397_0156_0001$$$::Isso apenas reconfirma. Ou melhor, eu só estou me tocando disso agora.[lr]::
+45235::$$$message_0397_0156_0002$$$::Bem, as reservas dela baixaram, e os magos tendem a guardar oitenta por cento do seu poder mágico, então a Tohsaka está com mais ou menos uns 400 agora.::
+45236::$$$message_0397_0157_0000$$$::E mesmo assim, isso é uma imensa quantia de energia mágica.[lr]::
+45237::$$$message_0397_0157_0001$$$::Eu gasto em torno de duas unidades de energia mágica em feitiços de Reforço.[lr]::
+45238::$$$message_0397_0157_0002$$$::A Projeção gasta umas cinco por vez.[lr]::
+45239::$$$message_0397_0157_0003$$$::Usando esse exemplo, a Projeção que eu só usaria no máximo seis vezes, passaria para trinta, e talvez até sessenta com a ajuda da Tohsaka.::
+45240::$$$message_0397_0158_0000$$$::"...Bem, um veículo barato vai esquentar não importa a quantia de combustível que ele tiver..."[lr]::
+45241::$$$message_0397_0158_0001$$$::Mas isso aumentou tremendamente o meu poder.[lr]::
+45242::$$$message_0397_0158_0002$$$::Com isso, eu devo ter alguma chance de vitória até contra o Rei dos Heróis.::
+45243::$$$message_0397_0159_0000$$$::Tudo que me resta é...[lr]::
+45244::$$$message_0397_0159_0001$$$::"...Falta só uma hora. É bom eu deixar meu corpo descansar até a hora chegar."[lr]::
+45245::$$$message_0397_0159_0002$$$::Preciso recarregar as energias mentais e físicas para a batalha final no Templo Ryudou.[lr]::
+45246::$$$message_0397_0159_0003$$$::...O jogo virou a nosso favor.[lr]::
+45247::$$$message_0397_0159_0004$$$::Encararei a última noite nas minhas melhores condições, pelo meu bem e pelo da Tohsaka, já que ela me deu o seu Emblema Mágico e se abriu inteiramente para mim...::
+
+

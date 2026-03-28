@@ -25,7 +25,7 @@ id=qid::label=str::text=lstr::
 27266::$$$message_0234_0006_0000$$$::O tempo parou.[lr]::
 27267::$$$message_0234_0006_0001$$$::Uma cena que provavelmente não durou sequer um segundo.[lr]::
 27268::$$$message_0234_0006_0002$$$::Mas...[lr]::
-27269::$$$message_0234_0006_0003$$$::Tenho certeza de que guardarei esta visão na alma, mesmo que eu seja lançado nas profundezas do inferno.
+27269::$$$message_0234_0006_0003$$$::Tenho certeza de que guardarei esta visão na alma, mesmo que eu seja lançado nas profundezas do inferno.::
 27270::$$$message_0234_0007_0000$$$::O rosto ligeiramente virado.[lr]::
 27271::$$$message_0234_0007_0001$$$::Seus olhos verde puro plenamente calmos.[lr]::
 27272::$$$message_0234_0007_0002$$$::O instante que se torna uma eternidade.[lr]::
@@ -41,14 +41,14 @@ id=qid::label=str::text=lstr::
 27282::$$$message_0234_0011_0001$$$::Afinal, esta é primeira vez que ele acariciou a minha cabeça.::
 27283::$$$message_0234_0012_0000$$$::"Então, estou indo. Sabe o que fazer a partir daqui, certo?"::
 27284::$$$message_0234_0012_0001$$$::Eu respondi à voz profunda com um "sim" educado.[lr]::
-27285::$$$message_0234_0012_0002$$$::O homem acariciando a minha cabeça acena com a dele uma vez, me solta, e se levanta.::
+27285::$$$message_0234_0012_0002$$$::O homem acariciando a minha cabeça acena uma vez, me solta, e se levanta.::
 27286::$$$message_0234_0012_0003$$$::Então, era isso...[lr]::
 27287::$$$message_0234_0012_0004$$$::Se eu soubesse que este era o nosso último momento juntos, teria feito ele rir com as minhas melhores piadas.[lr]::
 27288::$$$message_0234_0012_0005$$$::Eu havia praticado muito elas, na esperança de conseguir tirar um sorriso da cara fechada dele.[lr]::
-27289::$$$message_0234_0012_0006$$$::Acho que pode-se dizer que estava triste por não ter conseguido contar nenhuma delas.::
+27289::$$$message_0234_0012_0006$$$::Acho que pode-se dizer que eu estava triste por não ter conseguido contar nenhuma delas.::
 27290::$$$message_0234_0012_0007$$$::"Faça empréstimos com a Associação até tornar-se adulta. Deixarei que decida o que fazer depois disso. Sendo você, deverá ser capaz de cuidar de si mesma."::
 27291::$$$message_0234_0013_0000$$$::Mesmo tendo dito tais coisas, acho que ele ainda estava preocupado.[lr]::
-27292::$$$message_0234_0013_0001$$$::Ele me contou sobre as joias da família, as relíquias herdadas do Mestre, e ensinou-me como administrar o porão.[lr]::
+27292::$$$message_0234_0013_0001$$$::Ele me contou sobre as joias da família, as relíquias herdadas do Mestre, e ensinou-me como administrar a oficina do porão.[lr]::
 27293::$$$message_0234_0013_0002$$$::Enquanto contava-me todas as coisas que ainda não sabia,[lr]::
 27294::$$$message_0234_0013_0003$$$::eu percebi mesmo sendo uma criança.[lr]::
 27295::$$$message_0234_0013_0004$$$::[line3]Que muito provavelmente... ele não iria voltar.::
@@ -118,7 +118,7 @@ id=qid::label=str::text=lstr::
 27359::$$$message_0234_0029_0000$$$::Passando pelo corredor frio, eu entro na fria sala de estar.[lr]::
 27360::$$$message_0234_0029_0001$$$::São sete horas, e é a última manhã de janeiro.[lr]::
 27361::$$$message_0234_0029_0002$$$::O inverno daqui de Fuyuki é geralmente bem quente, mas o frio desta manhã faz jus à estação do ano.[lr]::
-27362::$$$message_0234_0029_0003$$$::Consigo ver minha respiração até mesmo dentro de casa, mas pelo menos não tem mais ninguém por aqui, então mais frio que isto não fica.::
+27362::$$$message_0234_0029_0003$$$::Consigo ver minha respiração até mesmo dentro de casa. E como não tem mais ninguém por aqui, é mais frio ainda.::
 27363::$$$message_0234_0030_0000$$$::"Aquecedor, aquecedor..."[lr]::
 27364::$$$message_0234_0030_0001$$$::Ligo o aquecedor e dirijo-me ao banheiro.[lr]::
 27365::$$$message_0234_0030_0002$$$::Nestas horas, viver sozinha é inconveniente.[lr]::
@@ -134,38 +134,38 @@ id=qid::label=str::text=lstr::
 27375::$$$message_0234_0033_0001$$$::De qualquer modo, eu jamais faria algo tão indelicado como ir correndo para a escola.[lr]::
 27376::$$$message_0234_0033_0002$$$::É costume da família Tohsaka agir com compostura e elegância o tempo todo.::
 27377::$$$message_0234_0034_0000$$$::De fato, levar um costume desses a sério deve significar que a minha família foi originada da mais alta classe.[lr]::
-27378::$$$message_0234_0034_0001$$$::Possuir esta velha mansão de estilo ocidental é a prova. Acima disso, a família Tohsaka descende de um Bruxo capaz de usar "Magia".[lr]::
+27378::$$$message_0234_0034_0001$$$::Possuir esta velha mansão de estilo ocidental é a prova. Acima disso, a família Tohsaka descende de um Feiticeiro capaz de usar "Magia".[lr]::
 27379::$$$message_0234_0034_0002$$$::Se tratando de idade, minha família carrega uma história ancestral nas costas.::
 27380::$$$message_0234_0035_0000$$$::"Bom, isso não é algo de que eu possa me gabar..."[lr]::
 27381::$$$message_0234_0035_0001$$$::Na verdade, sequer posso falar abertamente sobre isso.[lr]::
 27382::$$$message_0234_0035_0002$$$::[line3]Ah, aliás. Eu, Tohsaka Rin, sou uma maga.[lr]::
 27383::$$$message_0234_0035_0003$$$::Para quem sequer eu poderia me gabar sobre isso?::
-27384::$$$message_0234_0036_0000$$$::Taumaturgia é exatamente o que aparenta ser... taumaturgia.[lr]::
+27384::$$$message_0234_0036_0000$$$::Magia é exatamente o que aparenta ser... magia.[lr]::
 27385::$$$message_0234_0036_0001$$$::Não me importo de você pensar em abracadabra ou coisas parecidas.[lr]::
 27386::$$$message_0234_0036_0002$$$::Você pode simplesmente pensar em nós como pessoas que fazem coisas estranhas usando feitiços.::
 27387::$$$message_0234_0037_0000$$$::Apesar que, não é como se nós voássemos por aí em vassouras ou fizéssemos estrelas aparecerem balançando uma varinha.[lr]::
 27388::$$$message_0234_0037_0001$$$::Bom... poderíamos fazer algo parecido, mas não nos damos ao trabalho porque é algo meio inútil.[lr]::
 27389::$$$message_0234_0037_0002$$$::Somos basicamente hereges que se escondem do mundo.[lr]::
-27390::$$$message_0234_0037_0003$$$::Somos proibidos de nos exibirmos, e mesmo que não fôssemos, preferiríamos ficar em casa estudando taumaturgia.::
-27391::$$$message_0234_0038_0000$$$::Por sinal, a palavra "bruxo" está completamente incorreta.[lr]::
-27392::$$$message_0234_0038_0001$$$::Para ser precisa, só existem cinco bruxos no mundo.[lr]::
-27393::$$$message_0234_0038_0002$$$::Coisas que ninguém é capaz de fazer, coisas além das capacidades da ciência moderna... Aqueles capazes de realizar tais "milagres" são quem chamamos de bruxos.::
-27394::$$$message_0234_0039_0000$$$::Milagres que jamais podem ser realizados, independente do tempo ou esforço... esses chamamos de magia.[lr]::
-27395::$$$message_0234_0039_0001$$$::Aquelas coisas que são misteriosas, porém realizáveis com tempo e esforço... esses chamamos de taumaturgia.[lr]::
-27396::$$$message_0234_0039_0002$$$::Por isso, o que eu faço não é nada mais do que taumaturgia, e não magia.[lr]::
+27390::$$$message_0234_0037_0003$$$::Somos proibidos de nos exibirmos, e mesmo que não fôssemos, preferiríamos ficar em casa estudando magia.::
+27391::$$$message_0234_0038_0000$$$::Por sinal, a palavra "Feiticeiro" está completamente incorreta.[lr]::
+27392::$$$message_0234_0038_0001$$$::Para ser precisa, só existem cinco Feiticeiros no mundo.[lr]::
+27393::$$$message_0234_0038_0002$$$::Coisas que ninguém é capaz de fazer, coisas além das capacidades da ciência moderna... Aqueles capazes de realizar tais "milagres" são quem chamamos de Feiticeiros.::
+27394::$$$message_0234_0039_0000$$$::Mistérios que jamais podem ser realizados, independente do tempo ou esforço... esses chamamos de Magia Verdadeira.[lr]::
+27395::$$$message_0234_0039_0001$$$::Aquelas coisas que são misteriosas, porém realizáveis com tempo e esforço... esses chamamos de magia.[lr]::
+27396::$$$message_0234_0039_0002$$$::Por isso, os Mistérios que eu uso são apenas magia, e não Magia Verdadeira.[lr]::
 27397::$$$message_0234_0039_0003$$$::É complicado, mas é assim que as coisas são, apenas aceite isso e siga em frente.::
 27398::$$$message_0234_0040_0000$$$::Para falar a verdade, o mundo moderno não reconhece a existência dos magos.[lr]::
 27399::$$$message_0234_0040_0001$$$::Como nós acreditamos, controlamos, e aprendemos coisas que são imensuráveis, nossa existência é incompatível com o mundo moderno.[lr]::
 27400::$$$message_0234_0040_0002$$$::Porque é tudo meio sem sentido.[lr]::
-27401::$$$message_0234_0040_0003$$$::Ir para uma escola normal e tornar-se um adulto normal traz muito mais felicidade do que estudar taumaturgia.::
+27401::$$$message_0234_0040_0003$$$::Ir para uma escola normal e tornar-se um adulto normal traz muito mais felicidade do que estudar magia.::
 27402::$$$message_0234_0041_0000$$$::A tecnologia humana é incrível.[lr]::
-27403::$$$message_0234_0041_0001$$$::Nos últimos séculos, ela tem avançado além da taumaturgia.[lr]::
+27403::$$$message_0234_0041_0001$$$::Nos últimos séculos, ela tem avançado além da magia.[lr]::
 27404::$$$message_0234_0041_0002$$$::Nada é impossível para os humanos.[lr]::
-27405::$$$message_0234_0041_0003$$$::Os milagres antes inalcançáveis sem o uso de taumaturgia são agora "ferramentas", e nem um pouco milagrosas.::
-27406::$$$message_0234_0042_0000$$$::[line3]Ainda assim, taumaturgia tem seus pontos positivos.[lr]::
+27405::$$$message_0234_0041_0003$$$::Os milagres antes inalcançáveis sem o uso de magia são agora "ferramentas", e nem um pouco milagrosas.::
+27406::$$$message_0234_0042_0000$$$::[line3]Ainda assim, magia tem seus pontos positivos.[lr]::
 27407::$$$message_0234_0042_0001$$$::Assim como existem coisas possíveis apenas através da ciência,[lr]::
-27408::$$$message_0234_0042_0002$$$::existem também coisas possíveis apenas através da taumaturgia.[lr]::
-27409::$$$message_0234_0042_0003$$$::Foi o mestre da família Tohsaka que disse que, se a ciência está caminhando em direção ao futuro, a taumaturgia está caminhando em direção ao passado.[lr]::
+27408::$$$message_0234_0042_0002$$$::existem também coisas possíveis apenas através dos Mistérios.[lr]::
+27409::$$$message_0234_0042_0003$$$::Foi o mestre da família Tohsaka que disse que, se a ciência está caminhando em direção ao futuro, a magia está caminhando em direção ao passado.[lr]::
 27410::$$$message_0234_0042_0004$$$::Algo sobre o passado e o futuro levarem ao mesmo lugar, sobre tudo sempre seguir rumo ao ponto zero.[lr]::
 27411::$$$message_0234_0042_0005$$$::Vamos deixar toda essa discussão complicada de lado, podemos desfrutar dela quando estivermos velhos.::
 27412::$$$message_0234_0043_0000$$$::Terminando o meu café da manhã, pego a minha mochila.[lr]::
@@ -175,9 +175,9 @@ id=qid::label=str::text=lstr::
 27416::$$$message_0234_0044_0001$$$::Não, isso seria uma atenuação. Este pingente está em um nível completamente diferente.[lr]::
 27417::$$$message_0234_0044_0002$$$::Eu o encontrei depois de decodificar o testamento do meu pai noite passada. Ele contém o equivalente a dez anos da minha energia mágica.[lr]::
 27418::$$$message_0234_0044_0003$$$::O testamento dizia que havia uma relíquia para mim, e essa joia pode muito bem ser ela.::
-27419::$$$message_0234_0045_0000$$$::Nós, os magos Tohsaka, somos hábeis na transformação de poder. Nós colocamos nossa energia mágica em joias sempre que temos tempo livre.[lr]::
+27419::$$$message_0234_0045_0000$$$::Nós, os magos Tohsakas, somos hábeis na transformação de poder. Nós colocamos nossa energia mágica em joias sempre que temos tempo livre.[lr]::
 27420::$$$message_0234_0045_0001$$$::Para simplificar, nós somos as armas e as joias a munição.[lr]::
-27421::$$$message_0234_0045_0002$$$::A única outra coisa que posso dizer ter recebido do meu pai é o Encravamento Mágico da família Tohsaka cravado no meu braço esquerdo.[lr]::
+27421::$$$message_0234_0045_0002$$$::A única outra coisa que posso dizer ter recebido do meu pai é o Brasão Mágico da família Tohsaka cravado no meu braço esquerdo.[lr]::
 27422::$$$message_0234_0045_0003$$$::Essencialmente, esta é a prova de sucessão, e é como uma tatuagem que condensa toda a herança mágica da família Tohsaka.::
 27423::$$$message_0234_0046_0000$$$::"Não começou ainda, mas acho que não faz mal ser cuidadosa..."[lr]::
 27424::$$$message_0234_0046_0001$$$::Eu coloco o pingente, que agora pode-se dizer ser o memento de meu pai, em meu bolso.::
@@ -185,7 +185,7 @@ id=qid::label=str::text=lstr::
 27426::$$$message_0234_0047_0001$$$::São sete e meia.[lr]::
 27427::$$$message_0234_0047_0002$$$::É melhor eu ir ou me atrasarei para a escola.::
 27428::$$$message_0234_0048_0000$$$::"[font italic=true]Schlie[szlig]ung. Verfahren Drei.[font italic=false]"[lr]::
-27429::$$$message_0234_0048_0001$$$::Eu rapidamente recito o encantamento e uso minha taumaturgia.[lr]::
+27429::$$$message_0234_0048_0001$$$::Eu rapidamente recito o encantamento e uso minha magia.[lr]::
 27430::$$$message_0234_0048_0002$$$::Sendo uma maga, não posso negligenciar precauções da minha casa durante a minha ausência.[lr]::
 27431::$$$message_0234_0048_0003$$$::Mesmo que nunca tenha havido um ladrão, criança perdida, ou sequer um gato de rua.[lr]::
 27432::$$$message_0234_0048_0004$$$::E também acho que os vizinhos nunca vieram cumprimentar...::
@@ -193,7 +193,7 @@ id=qid::label=str::text=lstr::
 27434::$$$message_0234_0049_0001$$$::Eu olho para a mansão com a qual me acostumei com o passar dos anos.[lr]::
 27435::$$$message_0234_0049_0002$$$::Fuyuki é certamente uma cidade estranha com tantas casas ocidentais neste lado da cidade, e com uma área cheia de casas orientais logo após a interseção.::
 27436::$$$message_0234_0050_0000$$$::Acho que é porque muitas famílias estrangeiras vieram viver aqui muito tempo atrás, mas ainda assim, eu não vejo muitos estrangeiros por aqui.[lr]::
-27437::$$$message_0234_0050_0001$$$::Tem um cemitério de estrangeiros na nova cidade cruzando o rio, mas ele só contém os túmulos da primeira geração das famílias.::
+27437::$$$message_0234_0050_0001$$$::Tem um cemitério de estrangeiros em Shinto, a nova cidade cruzando o rio, mas ele só contém os túmulos da primeira geração das famílias.::
 27438::$$$message_0234_0051_0000$$$::"Talvez a terra do Japão não fosse compatível com eles."[lr]::
 27439::$$$message_0234_0051_0001$$$::Irei para a igreja perguntar ao padre alguma hora dessas.[lr]::
 27440::$$$message_0234_0051_0002$$$::Sendo aquele padre, com certeza saberá dessas várias coisas desinteressantes.::
@@ -260,7 +260,7 @@ id=qid::label=str::text=lstr::
 27501::$$$message_0234_0072_0000$$$::"[line4]Nós realmente somos parecidas."[lr]::
 27502::$$$message_0234_0072_0001$$$::"Sim. Eu te avisei que teríamos este tipo de relacionamento quando nos conhecemos."[lr]::
 27503::$$$message_0234_0072_0002$$$::Sim, de fato ela me avisou.[lr]::
-27504::$$$message_0234_0072_0003$$$::Certamente fiquei surpresa quando no nosso primeiro encontro ela disse: "Nós provavelmente vamos acabar tendo um relacionamento de 'matar ou morrer'".::
+27504::$$$message_0234_0072_0003$$$::Certamente fiquei surpresa quando no nosso primeiro encontro ela disse: "Nós provavelmente vamos acabar tendo um relacionamento de 'matar ou morrer.'"[lr]::
 27505::$$$message_0234_0072_0004$$$::Fiquei genuinamente surpresa por ter alguém dizendo isso de cara.::
 27506::$$$message_0234_0073_0000$$$::Ou em outras palavras:[lr]::
 27507::$$$message_0234_0073_0001$$$::"Se não dermos tudo que temos uma contra a outra, nunca realmente seremos amigas",[lr]::
@@ -300,7 +300,7 @@ id=qid::label=str::text=lstr::
 27541::$$$message_0234_0086_0001$$$::"Exatamente. Você é quem disse que somos parecidas.[lr]::
 27542::$$$message_0234_0086_0002$$$::...Ah, são quase sete... Vamos terminar a conversa secreta aqui. Nunca se sabe quando alguém pode aparecer do nada, e deveríamos agir como boas alunas."[lr]::
 27543::$$$message_0234_0086_0003$$$::"Ora essa, eu nunca soube que você tinha tão bons modos, Mitsuzuri. Valeu a pena acordar cedo só para ouvir isso."::
-27544::$$$message_0234_0087_0000$$$::"Hmph, não tanto quanto você. Meus bons modos são nada comparados aos seus. Você se finge tanto que parece ser uma Tohsaka Rin completamente diferente."[lr]::
+27544::$$$message_0234_0087_0000$$$::"Hmph, não tanto quanto você. Meus bons modos não são nada comparados aos seus. Você se finge tanto que parece ser uma Tohsaka Rin completamente diferente."[lr]::
 27545::$$$message_0234_0087_0001$$$::Ela suspira exageradamente.[lr]::
 27546::$$$message_0234_0087_0002$$$::Ambos os chás que ela fez acabaram, e é minha vez de fazer mais.::
 27547::$$$message_0234_0088_0000$$$::"Então, por que não entra para algum clube, Tohsaka? Não vou aceitar mentiras como não ter capacidade física. Ainda estou me doendo por ter perdido para você em todos os aspectos no exame físico do ano passado."::
@@ -310,7 +310,7 @@ id=qid::label=str::text=lstr::
 27551::$$$message_0234_0089_0003$$$::Ela bate as mãos na mesa.::
 27552::$$$message_0234_0090_0000$$$::"Cuidado, você pode derrubar o chá, Mitsuzuri-san. Você é a capitã, tem que cuidar bem do dojo."[lr]::
 27553::$$$message_0234_0090_0001$$$::"Cala a boca. Sou sua rival antes de ser capitã deste lugar.[lr]::
-27554::$$$message_0234_0090_0002$$$::Naturalmente, se não tiver outros membros por aqui, eu vou ir atrás de você."[lr]::
+27554::$$$message_0234_0090_0002$$$::Naturalmente, se não tiver outros membros por aqui, eu vou ir atrás de você."::
 27555::$$$message_0234_0091_0000$$$::Ela me encara com os olhos estreitos.[lr]::
 27556::$$$message_0234_0091_0001$$$::Essa garota tem sua própria noção de beleza e sempre diz:[lr]::
 27557::$$$message_0234_0091_0002$$$::"Pessoas bonitas têm que fazer algum tipo de arte marcial."[lr]::
@@ -328,7 +328,7 @@ id=qid::label=str::text=lstr::
 27569::$$$message_0234_0095_0002$$$::"Não entenderia nada. Assistir de longe tudo bem, mas espectadores não deveriam ficar no dojo, não é mesmo?"::
 27570::$$$message_0234_0096_0000$$$::Assim que me levanto, alguém entra no dojo.::
 27571::$$$message_0234_0097_0000$$$::"Bom dia, Capitã."[lr]::
-27572::$$$message_0234_0097_0001$$$::"Ah, bom dia Matou. Está sozinha hoje?"[lr]::
+27572::$$$message_0234_0097_0001$$$::"Ah, bom dia, Matou. Está sozinha hoje?"[lr]::
 27573::$$$message_0234_0097_0002$$$::"Sim... Me desculpe por não ter conseguido ser de ajuda."[lr]::
 27574::$$$message_0234_0097_0003$$$::"Nah, tudo bem, tudo bem. Não adianta querer forçar se a pessoa em si não quer vir."[lr]::
 27575::$$$message_0234_0097_0004$$$::Ayako se dirige ao membro que acabou de entrar.::
@@ -388,12 +388,12 @@ id=qid::label=str::text=lstr::
 27629::$$$message_0234_0115_0001$$$::Já passou das sete, mas não vejo ninguém nos corredores.::
 27630::$$$message_0234_0116_0000$$$::"Ah, Tohsaka-san."[lr]::
 27631::$$$message_0234_0116_0001$$$::"Bom dia, Fujimura-sensei."[lr]::
-27632::$$$message_0234_0116_0002$$$::"Sim, bom dia, Tohsaka-san. A sensei está tão feliz por você ter me cumprimentado certinho."::
+27632::$$$message_0234_0116_0002$$$::"Sim, bom dia, Tohsaka-san. A Sensei está tão feliz por você ter me cumprimentado certinho."::
 27633::$$$message_0234_0117_0000$$$::A estranha mulher parece estar chorando de felicidade.[lr]::
 27634::$$$message_0234_0117_0001$$$::É difícil de acreditar, mas esta pessoa extremamente amigável e alegre é uma professora de inglês nesta escola.::
 27635::$$$message_0234_0118_0000$$$::"Uh, Sensei... existe uma maneira errada de te cumprimentar?"[lr]::
 27636::$$$message_0234_0118_0001$$$::"É claro que existe. Os alunos do primeiro ano me cumprimentam corretamente, mas os mais velhos nunca me cumprimentam usando o meu sobrenome. Você não deve seguir o exemplo deles, okay?"::
-27637::$$$message_0234_0119_0000$$$::"Sei... Eu não entendi muito bem, mas não serei rude com você, sensei."[lr]::
+27637::$$$message_0234_0119_0000$$$::"Sei... Eu não entendi muito bem, mas não serei rude com você, Sensei."[lr]::
 27638::$$$message_0234_0119_0001$$$::"Boa menina. Gostaria que todos fossem bons como você, Tohsaka-san."::
 27639::$$$message_0234_0120_0000$$$::A Fujimura-sensei acena em despedida e segue seu caminho.[lr]::
 27640::$$$message_0234_0120_0001$$$::Felizmente, ela não é a professora responsável pela minha turma.[lr]::
@@ -415,17 +415,17 @@ id=qid::label=str::text=lstr::
 27656::$$$message_0234_0124_0001$$$::O Presidente Estudantil faz uma cara descontente.[lr]::
 27657::$$$message_0234_0124_0002$$$::Por algum motivo parece que sou inimiga dele.[lr]::
 27658::$$$message_0234_0124_0003$$$::Eu realmente não sei o porquê.[lr]::
-27659::$$$message_0234_0124_0004$$$::Talvez seja porque eu tenha dito: "Ignore os templos, eles são chatos.", em uma reunião para planejar uma viagem da escola.::
+27659::$$$message_0234_0124_0004$$$::Talvez seja porque eu tenha dito: "Ignore os templos, eles são chatos" em uma reunião para planejar uma viagem da escola.::
 27660::$$$message_0234_0125_0000$$$::"Permita-me fazer uma pergunta. Você tem ficado na escola até tarde da noite recentemente, Tohsaka?"[lr]::
 27661::$$$message_0234_0125_0001$$$::"Não. Você deveria saber que eu sempre vou embora direto, Ryuudou-kun."[lr]::
 27662::$$$message_0234_0125_0002$$$::"Mas é claro. Esse é meu trabalho como presidente estudantil, naturalmente sei sobre todos."::
 27663::$$$message_0234_0126_0000$$$::"Entendo. Então você não precisa nem perguntar, não é mesmo? Não sei por que está perguntando, mas não pega mal o conselho estudantil depender dos outros para fazer seu trabalho?[lr]::
 27664::$$$message_0234_0126_0001$$$::Você devia coletar informações por si só. Não dependa em pessoas de fora como eu."[lr]::
 27665::$$$message_0234_0126_0002$$$::"Idiota, onde você é uma pessoa de fora!?[lr]::
-27666::$$$message_0234_0126_0003$$$::Não pense que não sei dos maus atos que você cometeu com nosso tesoureiro, sua raposa!"::
+27666::$$$message_0234_0126_0003$$$::Não pense que não sei dos maus atos que você cometeu com nossa tesoureira, sua raposa!"::
 27667::$$$message_0234_0127_0000$$$::"Ah, quanta rudez. Eu estava meramente investigando quanto cada clube deveria receber porque a Mitsuzuri-san me pediu.[lr]::
 27668::$$$message_0234_0127_0001$$$::Acho que é completamente normal os alunos quererem saber onde o orçamento deles está sendo usado."[lr]::
-27669::$$$message_0234_0127_0002$$$::"C-como ferir a psique do nosso tesoureiro a ponto dele não vir para a escola por uma semana pode ser 'completamente normal' para algum aluno? Como sempre, estou impressionado com a sua forma de pensar."::
+27669::$$$message_0234_0127_0002$$$::"O quê? Como ferir emocionalmente nossa tesoureira, a ponto dela não vir para a escola por uma semana, pode ser algo normal para algum aluno? Como sempre, você age com um senso moral terrível."::
 27670::$$$message_0234_0128_0000$$$::"O mesmo vale para você. Você devia ficar de olho naqueles sob sua responsabilidade.[lr]::
 27671::$$$message_0234_0128_0001$$$::Não é justo favorecer os clubes não esportivos."[lr]::
 27672::$$$message_0234_0128_0002$$$::"Eu sei disso. Por isso pretendia lidar com esse assunto eu mesmo."::
@@ -437,7 +437,7 @@ id=qid::label=str::text=lstr::
 27678::$$$message_0234_0130_0002$$$::"Sim, o próximo fica na sala de AV. Parece que está com mau funcionamento já faz um tempo, e ele finalmente morreu."[lr]::
 27679::$$$message_0234_0130_0003$$$::"Não tem como ser reparado se estiver morto. Seria mais rápido comprar um novo."::
 27680::$$$message_0234_0131_0000$$$::"Verdade, mas ajudaria se você pudesse dar uma olhada. Pode estar morto para mim, mas apenas se fingindo para você."[lr]::
-27681::$$$message_0234_0131_0001$$$::"Entendi. Bom, então vamos dar uma tentada."::
+27681::$$$message_0234_0131_0001$$$::"Entendi. Bom, eu vou tentar."::
 27682::$$$message_0234_0132_0000$$$::O Presidente Estudantil sai junto com o outro aluno.[lr]::
 27683::$$$message_0234_0132_0001$$$::"[line8]"[lr]::
 27684::$$$message_0234_0132_0002$$$::Meus pensamentos pararam com este súbito evento.::
@@ -449,10 +449,10 @@ id=qid::label=str::text=lstr::
 27690::$$$message_0234_0134_0002$$$::Emiya... aquele é Emiya Shirou, da turma 2-C.::
 27691::$$$message_0234_0135_0000$$$::"Tudo bem, mas..."[lr]::
 27692::$$$message_0234_0135_0001$$$::Como posso dizer isso...?[lr]::
-27693::$$$message_0234_0135_0002$$$::Eu só acho difícil dizer se um garoto que fica bem segurando uma chave de fenda é útil ou assustador.::
+27693::$$$message_0234_0135_0002$$$::Eu só acho difícil dizer se um garoto tão acostumado com uma chave de fenda é útil ou assustador.::
 27694::$$$message_0234_0136_0000$$$::São sete e meia da manhã e não tem ninguém na sala 2-A.[lr]::
-27695::$$$message_0234_0136_0001$$$::"Fazer o que, acho que vou estudando."[lr]::
-27696::$$$message_0234_0136_0002$$$::Vou para a minha carteira e trabalho em alguns exercícios de matemática. Faltam trinta minutos para aula começar, acho que será uma revisão entediante até meus colegas de classe chegarem.::
+27695::$$$message_0234_0136_0001$$$::Vou para a minha carteira e trabalho em alguns exercícios de matemática.[lr]::
+27696::$$$message_0234_0136_0002$$$::Faltam trinta minutos para a aula começar, acho que será uma revisão entediante até meus colegas de classe chegarem.::
 27697::$$$message_0234_0137_0000$$$::O quarto período acaba e o animado intervalo começa.[lr]::
 27698::$$$message_0234_0137_0001$$$::Nossa escola tem uma cafeteria, mas metade dos alunos ficam em suas salas.::
 27699::$$$message_0234_0138_0000$$$::Na verdade, a maioria dos que ficam são garotas.[lr]::
@@ -474,15 +474,15 @@ id=qid::label=str::text=lstr::
 27715::$$$message_0234_0144_0001$$$::A expressão da Saegusa-san revela a sua surpresa.[lr]::
 27716::$$$message_0234_0144_0002$$$::A presença dela realmente me relaxa, mas não posso me dar ao luxo de ficar me divertindo assim.[lr]::
 27717::$$$message_0234_0144_0003$$$::Se eu continuar conversando com pessoas desse jeito, estou destinada a revelar como sou de verdade.::
-27718::$$$message_0234_0145_0000$$$::"Bom, estou indo para cafeteria. Bom almoço, Saegusa-san."[lr]::
+27718::$$$message_0234_0145_0000$$$::"Bom, estou indo para a cafeteria. Bom almoço, Saegusa-san."[lr]::
 27719::$$$message_0234_0145_0001$$$::"Sim. Para você também, Tohsaka-san."[lr]::
-27720::$$$message_0234_0145_0002$$$::Trocamos uma despedida calorosa e assim ela retorna para seu grupo de garotas.::
+27720::$$$message_0234_0145_0002$$$::Trocamos uma despedida amigável e assim ela retorna para seu grupo de garotas.::
 27721::$$$message_0234_0146_0000$$$::Parece que ela está comendo com a Makidera-san e a Himuro-san.[lr]::
 27722::$$$message_0234_0146_0001$$$::Ah sim, Saegusa-san é a administradora do time de corrida.[lr]::
 27723::$$$message_0234_0146_0002$$$::Makidera e Himuro-san são as membros promissoras do time.[lr]::
 27724::$$$message_0234_0146_0003$$$::A Makidera é uma amiga com quem eu saio às vezes para olhar vitrines, mas não conheço muito bem a Himuro-san.::
 27725::$$$message_0234_0147_0000$$$::"Ah, foi rejeitada, Yukicchi? Eu não te disse que a Tohsaka não ia trazer almoço? Se quer comer com ela, vai ter que fazer comida para ela também."[lr]::
-27726::$$$message_0234_0147_0001$$$::"Maki, nesse caso, não podemos só ir para cafeteria também?"::
+27726::$$$message_0234_0147_0001$$$::"Maki, nesse caso, não podemos só ir para a cafeteria também?"::
 27727::$$$message_0234_0148_0000$$$::"Sem chance. Não tem espaço suficiente naquele lugar para pessoas que trazem marmita. E mesmo se nós sentássemos com a Tohsaka, os olhares dos homens seriam super irritantes.[lr]::
 27728::$$$message_0234_0148_0001$$$::Igual nas últimas férias! Nós saímos juntas, mas ela foi a única que conseguiu atenção. Você não odeia pessoas que têm que ficar exibindo a beleza desse jeito?"::
 27729::$$$message_0234_0149_0000$$$::A Makidera fala sem pensar enquanto as garotas se reúnem ao redor da mesa da Saegusa-san.[lr]::
@@ -491,13 +491,13 @@ id=qid::label=str::text=lstr::
 27732::$$$message_0234_0150_0001$$$::Em contraste com a barulhenta Makidera, Himuro é do tipo calma e estável.::
 27733::$$$message_0234_0151_0000$$$::"Ack, droga, a Tohsaka ouviu aquilo? Ugh, ela está me encarando...!"[lr]::
 27734::$$$message_0234_0151_0001$$$::"E-ela não está te encarando, eu acho..."::
-27735::$$$message_0234_0152_0000$$$::"Ela está. Ela é mais assustadora quando está sorrindo. Qual é, pega leve, Tohsaka. Estamos falando de nós. Eu te comprei taiyaki, lembra?"[lr]::
+27735::$$$message_0234_0152_0000$$$::"Ela está! Ela é mais assustadora quando está sorrindo. Qual é, pega leve, Tohsaka, nós somos amigas. Eu te comprei taiyaki, lembra?"[lr]::
 27736::$$$message_0234_0152_0001$$$::Ela balança seus hashis, estufando suas bochechas com ar.[lr]::
 27737::$$$message_0234_0152_0002$$$::Saber que o hobby dessa garota é colecionar sinos de vento só prova que o mundo é um lugar complexo demais.::
 27738::$$$message_0234_0153_0000$$$::De qualquer modo, não é bom para a Saegusa-san ficar vendo isso.[lr]::
 27739::$$$message_0234_0153_0001$$$::Ela está entrando em pânico vendo a Makidera continuamente falando mal de mim.::
 27740::$$$message_0234_0154_0000$$$::"Não se preocupe, Saegusa-san.[lr]::
-27741::$$$message_0234_0154_0001$$$::E Makidera-san? Fui eu quem pagou, [l][r]e foram crepes, não taiyaki. Você devia dar um jeito nesse seu hábito de mudar inconscientemente alterar os fatos, ou eu posso ter que reconsiderar da próxima vez, okay?"[lr]::
+27741::$$$message_0234_0154_0001$$$::E Makidera-san? Fui eu quem pagou, e foram crepes, não taiyaki. Você devia dar um jeito nesse seu hábito de alterar os fatos sem perceber, ou eu posso ter que reconsiderar da próxima vez, entendeu?"[lr]::
 27742::$$$message_0234_0154_0002$$$::"Geh. Aquele sorriso é realmente assustador."[lr]::
 27743::$$$message_0234_0154_0003$$$::A Makidera se esconde atrás da tampa da sua lancheira.[lr]::
 27744::$$$message_0234_0154_0004$$$::Dando adeus para as três, eu saio da sala.::
@@ -507,12 +507,12 @@ id=qid::label=str::text=lstr::
 27748::$$$message_0234_0155_0003$$$::...ouço a Makidera falar algo que garota alguma jamais deveria dizer.::
 27749::$$$message_0234_0156_0000$$$::"T-Taiyaki e crepe... a mesma coisa...!?"[lr]::
 27750::$$$message_0234_0156_0001$$$::Ela é mesmo uma garota? Doces são todos iguais pra ela?[lr]::
-27751::$$$message_0234_0156_0002$$$::Talvez ela simplesmente tenha papilas gustativas convenientes que são incapazes de diferenciar um crepe de 500 ienes de um taiyaki de 80 ienes...![lr][r]Maldita Makidera Kaede... poderia ter economizado 420 ienes se eu só tivesse te comprado um taiyaki...!::
+27751::$$$message_0234_0156_0002$$$::Talvez ela simplesmente tenha papilas gustativas convenientes, incapazes de diferenciar um crepe de 500 ienes do Very Very Berry com o de um taiyaki de 80 ienes do Edomaeya![lr][r]Maldita Makidera Kaede... eu poderia ter economizado 420 ienes se tivesse comprado um taiyaki!::
 27752::$$$message_0234_0157_0000$$$::"...por que estou me irritando com isso?"[lr]::
 27753::$$$message_0234_0157_0001$$$::Acho que ainda estou cansada de ontem à noite.[lr]::
-27754::$$$message_0234_0157_0002$$$::Comer na cafeteria seria muito cansativo, então vou só pegar uma bebida e um pão para comer na cobertura.::
-27755::$$$message_0234_0158_0000$$$::Compro meu almoço e vou para a cobertura vazia.[lr]::
-27756::$$$message_0234_0158_0001$$$::É um lugar conveniente já que nenhum aluno se aproxima de lá no inverno.[lr]::
+27754::$$$message_0234_0157_0002$$$::Comer na cafeteria seria muito cansativo, então vou só pegar uma bebida e um pão para comer no terraço.::
+27755::$$$message_0234_0158_0000$$$::Compro meu almoço e vou para o terraço vazio.[lr]::
+27756::$$$message_0234_0158_0001$$$::É um lugar conveniente, já que nenhum aluno vem até aqui durante o inverno.[lr]::
 27757::$$$message_0234_0158_0002$$$::É simplesmente frio demais para comer aqui, mas um preço justo a se pagar se for conseguir almoçar sem precisar me preocupar com outras pessoas.::
 27758::$$$message_0234_0159_0000$$$::"Bom, o almoço vem primeiro."[lr]::
 27759::$$$message_0234_0159_0001$$$::Começo a comer meu sanduíche de tomate e a beber minha limonada quente.[lr]::
@@ -522,24 +522,24 @@ id=qid::label=str::text=lstr::
 27763::$$$message_0234_0160_0002$$$::Estou um pouco cansada...[lr]::
 27764::$$$message_0234_0160_0003$$$::É difícil manter o equilíbrio entre evitar socializar e ser uma estudante prestigiada.::
 27765::$$$message_0234_0161_0000$$$::É vaidade minha... não, é minha convicção que devo ser a melhor estudante.[lr]::
-27766::$$$message_0234_0161_0001$$$::Eu quero ser a melhor se for para ser uma estudante, e não consigo sequer pensar em desonrar o nome dos Tohsaka.[lr]::
+27766::$$$message_0234_0161_0001$$$::Eu quero ser a melhor se for para ser uma estudante, e não consigo sequer pensar em desonrar o nome dos Tohsakas.[lr]::
 27767::$$$message_0234_0161_0002$$$::É por isso que Tohsaka Rin é uma aluna perfeita, sem nenhuma falha aos olhos alheios.::
 27768::$$$message_0234_0162_0000$$$::Mas ao mesmo tempo tenho um trabalho perigoso como maga, então não devo me associar com pessoas normais.[lr]::
 27769::$$$message_0234_0162_0001$$$::Normalmente, qualquer mago que tem sua identidade descoberta não tem outra escolha porém eliminar a testemunha.[lr]::
 27770::$$$message_0234_0162_0002$$$::...não quero fazer isso.[lr]::
 27771::$$$message_0234_0162_0003$$$::Então, inevitavelmente, minha vida social tornou-se bem escassa.::
 27772::$$$message_0234_0163_0000$$$::Eu só saio com a Makidera aos fins de semana, e tento recusar convites de pessoas amigáveis como os da Saegusa-san.[lr]::
-27773::$$$message_0234_0163_0001$$$::Apesar de eu ser a principal aluna prestigiada da escola, vivo tentando não tornar-me importante para ninguém.[lr]::
+27773::$$$message_0234_0163_0001$$$::Apesar de eu ser a principal aluna prestigiada da escola, vivo tentando não me tornar importante para ninguém.[lr]::
 27774::$$$message_0234_0163_0002$$$::Mas às vezes acabo pensando como este estilo de vida é chato quando estou fatigada como agora.::
 27775::$$$message_0234_0164_0000$$$::"Ah, já está na hora?"[lr]::
 27776::$$$message_0234_0164_0001$$$::Termino minha limonada quente e levanto-me.[lr]::
-27777::$$$message_0234_0164_0002$$$::Pararei de ser sentimentalista por aqui e voltarei a ser a Tohsaka Rin de sempre ao descer as escadas.::
+27777::$$$message_0234_0164_0002$$$::Vou parar de ser sentimentalista por aqui e voltarei a ser a Tohsaka Rin de sempre ao descer as escadas.::
 27778::$$$message_0234_0165_0000$$$::"E aqui acaba a aula. Os responsáveis pelos deveres de hoje, terminem o relatório do dia e chequem as fechaduras.[lr]::
 27779::$$$message_0234_0165_0001$$$::Aqueles entre vocês que não têm atividades de clube devem ir direto para casa."::
 27780::$$$message_0234_0166_0000$$$::O professor responsável pela turma 2-A sai da sala após repetir sua frase de sempre.[lr]::
 27781::$$$message_0234_0166_0001$$$::Até onde sei, essa frase não mudou desde o começo do ano.::
 27782::$$$message_0234_0167_0000$$$::"Tohsaka, já está indo embora?"[lr]::
-27783::$$$message_0234_0167_0001$$$::"Sim. Aconteceu uma coisa entre mim e o Matou-kun esta manhã, então irei embora antes que se torne um problema."[lr]::
+27783::$$$message_0234_0167_0001$$$::"Sim. Aconteceu uma coisa entre mim e o Matou-kun esta manhã, então vou embora antes que se torne um problema."[lr]::
 27784::$$$message_0234_0167_0002$$$::"Haha, bem que eu desconfiava. O Matou estava de bem mal humorado esta manhã, imaginei você fosse a causa."[lr]::
 27785::$$$message_0234_0167_0003$$$::"Entendo. Te causei algum problema, Mitsuzuri-san?"[lr]::
 27786::$$$message_0234_0167_0004$$$::"Que nada, o Matou atormentar calouros não é coisa nova, e acho que esse tipo de coisa vai ser um bom treino mental para ele. "::
@@ -563,14 +563,14 @@ id=qid::label=str::text=lstr::
 27804::$$$message_0234_0173_0001$$$::A não ser, é claro, que não planeje participar desta Guerra do Santo Graal. Se valoriza sua vida, venha logo se proteger na igreja."::
 27805::$$$message_0234_0174_0000$$$::A mensagem acaba ali.[lr]::
 27806::$$$message_0234_0174_0001$$$::Suas palavras são concisas.[lr]::
-27807::$$$message_0234_0174_0002$$$::Ele está dizendo-me que, prepare-se hoje se vai participar, caso contrário desista logo pois estou sendo um estorvo.::
+27807::$$$message_0234_0174_0002$$$::"Prepare-se hoje se vai participar. Caso contrário, desista logo, pois está sendo um estorvo."::
 27808::$$$message_0234_0175_0000$$$::"Hmph, você não precisa me dizer isso."[lr]::
 27809::$$$message_0234_0175_0001$$$::Bom, não tem jeito agora que está assim.[lr]::
 27810::$$$message_0234_0175_0002$$$::Hoje é o máximo que o prazo pode ser estendido.[lr]::
 27811::$$$message_0234_0175_0003$$$::Felizmente consegui decodificar o testamento do meu pai ontem à noite.[lr]::
 27812::$$$message_0234_0175_0004$$$::Meus preparos estão concluídos.[lr]::
 27813::$$$message_0234_0175_0005$$$::Tudo que resta é... sim, obter a qualificação para entrar nesta batalha...::
-27814::$$$message_0234_0176_0000$$$::"A Guerra do Santo Graal... uma batalha até a morte pelo primeiro e único Santo Graal. Um ritual transmitido por centenas de anos, né?"[lr]::
+27814::$$$message_0234_0176_0000$$$::"A Guerra do Santo Graal... uma batalha até a morte pelo primeiro e único Santo Graal. Um ritual realizado por centenas de anos, né?"[lr]::
 27815::$$$message_0234_0176_0001$$$::Os magos que participam da Guerra do Santo Graal são chamados de Mestres.[lr]::
 27816::$$$message_0234_0176_0002$$$::Não é bem uma classificação, é algo mais para indicar "aquele que está no controle".::
 27817::$$$message_0234_0177_0000$$$::Há uma condição para participar da Guerra do Santo Graal.[lr]::
@@ -587,7 +587,7 @@ id=qid::label=str::text=lstr::
 27827::$$$message_0234_0179_0005$$$::Como filha da família Tohsaka que vem protegendo esta cidade através das gerações, eu não vou perder para magos de outros lugares.::
 27828::$$$message_0234_0180_0000$$$::Mas dito isso... não dá para simplesmente querer navegar pelos mares sem uma bússola. Ou talvez deveria dizer que há limites para viver sem planejamento?::
 27829::$$$message_0234_0181_0000$$$::"Servos são atraídos por símbolos.[lr]::
-27830::$$$message_0234_0181_0001$$$::Se quiser invocar um Servo forte, precisará de algo que tenha conexão com dito Servo."[lr]::
+27830::$$$message_0234_0181_0001$$$::Se quiser invocar um Servo forte, precisará de algo que tenha conexão com esse Servo."[lr]::
 27831::$$$message_0234_0181_0002$$$::Em outras palavras, uma espada, armadura, talismã, osso de tal Servo, ou algo assim... algo extremamente valioso.::
 27832::$$$message_0234_0182_0000$$$::"Eu esperava que tivesse algo assim no testamento do meu pai, mas... não, isso também é um belo trunfo. Mesmo assim..."[lr]::
 27833::$$$message_0234_0182_0001$$$::O pingente que encontrei noite passada no porão é um dos melhores artefatos na sua classe.[lr]::
@@ -599,7 +599,7 @@ id=qid::label=str::text=lstr::
 27839::$$$message_0234_0184_0002$$$::Vai ter que ser na base da tentativa.[lr]::
 27840::$$$message_0234_0184_0003$$$::Vou lidar perfeitamente com a invocação hoje à noite e vou conseguir o Saber à força!::
 27841::$$$message_0234_0185_0000$$$::Tarde da noite.[lr]::
-27842::$$$message_0234_0185_0001$$$::O relógio está prestes a marcar duas horas.[lr]::
+27842::$$$message_0234_0185_0001$$$::O relógio está prestes a marcar duas da manhã.[lr]::
 27843::$$$message_0234_0185_0002$$$::Este é o meu melhor momento.[lr]::
 27844::$$$message_0234_0185_0003$$$::O pico da minha energia mágica é exatamente às duas da manhã.[lr]::
 27845::$$$message_0234_0185_0004$$$::Já que esta vai ser minha primeira e última chance, eu não posso cometer erros.::
@@ -607,9 +607,9 @@ id=qid::label=str::text=lstr::
 27847::$$$message_0234_0187_0000$$$::Eu encravo o círculo no chão do porão.[lr]::
 27848::$$$message_0234_0187_0001$$$::Não é necessário um ritual de larga escala para invocar um Servo.[lr]::
 27849::$$$message_0234_0187_0002$$$::Servos são convocados pelo Santo Graal.[lr]::
-27850::$$$message_0234_0187_0003$$$::Como a prioridade do Mestre é manter o Servo neste mundo fornecendo-o suficiente energia mágica, o Santo Graal cuida da invocação.::
-27851::$$$message_0234_0188_0000$$$::"Base de ferro e prata. Pedra como fundação e o Grão-Duque dos contratos. Como ancestral, meu grande mestre Schweinorg.[lr]::
-27852::$$$message_0234_0188_0001$$$::Um muro para os ventos descendentes. Com os quatro portões fechados, agora avante arrebentai a coroa e circulado seja o caminho dividido que leva ao reino."::
+27850::$$$message_0234_0187_0003$$$::Como a prioridade do Mestre é manter o Servo neste mundo fornecendo-o energia mágica, o Santo Graal cuida da invocação.::
+27851::$$$message_0234_0188_0000$$$::"Base de ferro e prata. Pedra como fundação e o Grão-Duque dos Contratos. Como ancestral, meu grande mestre Schweinorg.[lr]::
+27852::$$$message_0234_0188_0001$$$::Um muro para os ventos descendentes. Os quatro portões se fecham. Tu surgirás da coroa e seguirás o caminho dividido que leva ao reino."::
 27853::$$$message_0234_0189_0000$$$::Ainda assim, concentro-me ao máximo.[lr]::
 27854::$$$message_0234_0189_0001$$$::Eu desenho o círculo mágico, normalmente feito de sangue, com minhas joias derretidas.[lr]::
 27855::$$$message_0234_0189_0002$$$::Estou usando metade das joias que estive guardando, então também não posso falhar por motivos financeiros.::
@@ -623,7 +623,7 @@ id=qid::label=str::text=lstr::
 27863::$$$message_0234_0192_0002$$$::Sinto como se o conteúdo do meu corpo estivesse sendo trocado.[lr]::
 27864::$$$message_0234_0192_0003$$$::Os nervos se invertem em circuitos transmitindo energia mágica.[lr]::
 27865::$$$message_0234_0192_0004$$$::A partir daqui, Tohsaka Rin não é mais humana.[lr]::
-27866::$$$message_0234_0192_0005$$$::Devo tornar-me uma ferramenta apenas em prol da taumaturgia.::
+27866::$$$message_0234_0192_0005$$$::Devo tornar-me uma ferramenta apenas em prol de alcançar os Mistérios.::
 27867::$$$message_0234_0193_0000$$$::...estou derretendo pelas pontas dos meus dedos...[lr]::
 27868::$$$message_0234_0193_0001$$$::Não, estou sendo preenchida pelas pontas dos meus dedos.[lr]::
 27869::$$$message_0234_0193_0002$$$::A mana que estou absorvendo é tão concentrada que os sentidos originais do meu corpo estão sendo pintados de outra cor.[lr]::
@@ -633,7 +633,7 @@ id=qid::label=str::text=lstr::
 27873::$$$message_0234_0194_0002$$$::Ele é absorvido pelo meu corpo, que se tornou um circuito, e transformado em uma forma diferente de energia mágica.[lr]::
 27874::$$$message_0234_0194_0003$$$::O corpo de um mago é nada mais que um circuito.[lr]::
 27875::$$$message_0234_0194_0004$$$::Um circuito para conectar o espiritual e o real.[lr]::
-27876::$$$message_0234_0194_0005$$$::Chamamos de taumaturgia as várias ocorrências místicas de que ele tornou-se real.::
+27876::$$$message_0234_0194_0005$$$::Chamamos de magia aquilo que se resulta dos Mistérios que produzimos.::
 27877::$$$message_0234_0195_0000$$$::Meu corpo está ardendo em chamas...[lr]::
 27878::$$$message_0234_0195_0001$$$::Uma ilusão de estar crescendo chifres na minha testa.[lr]::
 27879::$$$message_0234_0195_0002$$$::Uma ilusão de estar crescendo asas das minhas costas.[lr]::
@@ -648,27 +648,27 @@ id=qid::label=str::text=lstr::
 27888::$$$message_0234_0197_0001$$$::No fim desta dor, à beira da eliminação, existe um lugar chamado "conexão".[lr]::
 27889::$$$message_0234_0197_0002$$$::"..."[lr]::
 27890::$$$message_0234_0197_0003$$$::Uma dor corre através do meu braço esquerdo...[lr]::
-27891::$$$message_0234_0197_0004$$$::O Encravamento Mágico ativa-se e começa a ajudar-me independentemente, e desnecessariamente viola ainda mais meus nervos.::
+27891::$$$message_0234_0197_0004$$$::O Brasão Mágico se ativa e me ajuda de forma autônoma, invadindo meus nervos ainda mais.::
 27892::$$$message_0234_0198_0000$$$::A mana do ar é coletada em meu sangue.[lr]::
 27893::$$$message_0234_0198_0001$$$::Se isso é ferro em brasa,[lr]::
-27894::$$$message_0234_0198_0002$$$::então o Encravamento Mágico em si é como um nervo feito de espinhos.[lr]::
+27894::$$$message_0234_0198_0002$$$::então o Brasão Mágico em si é como um nervo feito de espinhos.[lr]::
 27895::$$$message_0234_0198_0003$$$::Ele corre através do meu corpo como uma centopeia com presas.::
 27897::$$$message_0234_0199_0000$$$::"..."[lr]::
 27898::$$$message_0234_0199_0001$$$::Perco-me dentro dessa dor.[lr]::
 27899::$$$message_0234_0199_0002$$$::E ao mesmo tempo, sinto que alcancei meu objetivo.[lr]::
 27900::$$$message_0234_0199_0003$$$::Minha audição que tornou-se sensível consegue ouvir o som do relógio na sala de estar.[lr]::
 27901::$$$message_0234_0199_0004$$$::Mais dez segundos até duas da manhã.[lr]::
-27902::$$$message_0234_0199_0005$$$::O poder que preenche meu todo está perfeito e não há mais hesitações.::
+27902::$$$message_0234_0199_0005$$$::O poder que preenche meu corpo está perfeito e não há mais hesitações.::
 27903::$$$message_0234_0200_0000$$$::"[line8]Aqui proclamo."[lr]::
 27904::$$$message_0234_0200_0001$$$::Vamos começar.[lr]::
 27905::$$$message_0234_0200_0002$$$::Pego a mana que absorvi e torno-a em energia mágica "fixa".[lr]::
 27906::$$$message_0234_0200_0003$$$::E agora...[lr]::
 27907::$$$message_0234_0200_0004$$$::...apenas tenho que esvaziar a mana de dentro deste corpo para ligar o motor chamado círculo de invocação.::
 27908::$$$message_0234_0201_0000$$$::"[line4]Aqui proclamo.[lr]::
-27909::$$$message_0234_0201_0001$$$::Nascido de mi arbítrio, ó vosso corpo. Nascido de vossa espada, ó mi destino.[lr]::
-27910::$$$message_0234_0201_0002$$$::Se tu escutares o chamado do Santo Graal e curvares perante à minha vontade e justiça, então responda-me."::
+27909::$$$message_0234_0201_0001$$$::Meu arbítrio cria o vosso corpo. Vossa espada cria meu destino.[lr]::
+27910::$$$message_0234_0201_0002$$$::Se escutares o chamado do Santo Graal e curvares perante à minha vontade e justiça, então responda-me."::
 27911::$$$message_0234_0202_0000$$$::Minha visão se fecha.[lr]::
-27912::$$$message_0234_0202_0001$$$::O quinto elemento, dito ser imperceptível ao olho humano, está perante a mim.[lr]::
+27912::$$$message_0234_0202_0001$$$::O Quinto Fator, dito ser imperceptível ao olho humano, está perante a mim.[lr]::
 27913::$$$message_0234_0202_0002$$$::Então, temendo ser destruída por ele, minha visão se desliga por si só.::
 27914::$$$message_0234_0203_0000$$$::"Aqui faço um juramento.[lr]::
 27915::$$$message_0234_0203_0001$$$::Tornar-me-ei a infinidade de tudo aquilo que é bom.[lr]::
@@ -689,8 +689,8 @@ id=qid::label=str::text=lstr::
 27930::$$$message_0234_0207_0005$$$::...ouço uma explosão vinda da sala de estar.::
 27931::$$$message_0234_0208_0000$$$::"POR QUÊÊÊÊÊÊÊÊÊÊ!?"[lr]::
 27932::$$$message_0234_0208_0001$$$::Eu corro.[lr]::
-27933::$$$message_0234_0208_0002$$$::Eu continuo a correr sem pensar.[lr]::
-27934::$$$message_0234_0208_0003$$$::Eu corro pelas escadas do porão até a sala de estar.::
+27933::$$$message_0234_0208_0002$$$::Continuo a correr sem pensar.[lr]::
+27934::$$$message_0234_0208_0003$$$::Corro pelas escadas do porão até a sala de estar.::
 27935::$$$message_0234_0209_0000$$$::"A porta emperrou!?"[lr]::
 27936::$$$message_0234_0209_0001$$$::A porta da sala de estar está torta.[lr]::
 27937::$$$message_0234_0209_0002$$$::Não adianta girar a maçaneta.[lr]::
@@ -703,7 +703,7 @@ id=qid::label=str::text=lstr::
 27944::$$$message_0234_0211_0000$$$::A sala de estar está uma completa bagunça.[lr]::
 27945::$$$message_0234_0211_0001$$$::Cheia de entulho que deve ter caído do teto, e tem um homem pretensiosamente sentado na mobília.[lr]::
 27946::$$$message_0234_0211_0002$$$::"..."[lr]::
-27947::$$$message_0234_0211_0003$$$::Sem dúvidas, aquilo é a causa dessa bagunça.::
+27947::$$$message_0234_0211_0003$$$::Sem dúvidas, ele deve ser algum tipo de criminoso.::
 27948::$$$message_0234_0212_0000$$$::"..."[lr]::
 27949::$$$message_0234_0212_0001$$$::Mas tem uma coisa mais importante que isso.[lr]::
 27950::$$$message_0234_0212_0002$$$::O relógio da parede ainda está marcando as horas, tendo escapado da destruição.[lr]::
@@ -716,20 +716,20 @@ id=qid::label=str::text=lstr::
 27957::$$$message_0234_0213_0002$$$::Ela é: cometer os maiores erros nos momentos mais importantes...::
 27958::$$$message_0234_0214_0000$$$::"Bom, não adianta chorar sobre leite derramado. Devo refletir."[lr]::
 27959::$$$message_0234_0214_0001$$$::Estou irritada com a minha própria estupidez.[lr]::
-27960::$$$message_0234_0214_0002$$$::E irritada como estou, eu encaro o homem ali sentado como se fosse alguém importante.::
+27960::$$$message_0234_0214_0002$$$::E irritada como estou, eu encaro o homem que se sentava como se fosse alguém importante.::
 27961::$$$message_0234_0215_0000$$$::"Então. O que é você?"[lr]::
 27962::$$$message_0234_0215_0001$$$::"Essas são suas primeiras palavras? Acho que fui entregue a uma Mestra terrível."[lr]::
 27963::$$$message_0234_0215_0002$$$::O homem de vermelho encolhe seus ombros exageradamente.[lr]::
-27964::$$$message_0234_0215_0003$$$::"Talvez é isto que podemos chamar de azar.", ele adiciona.[lr]::
+27964::$$$message_0234_0215_0003$$$::"Talvez é isto que podemos chamar de azar," ele adiciona.[lr]::
 27965::$$$message_0234_0215_0004$$$::Eu declaro...[lr]::
 27966::$$$message_0234_0215_0005$$$::Esse cara tem uma personalidade distorcida.::
 27967::$$$message_0234_0216_0000$$$::"..."[lr]::
 27968::$$$message_0234_0216_0001$$$::Mas, esse seria o Servo?[lr]::
 27969::$$$message_0234_0216_0002$$$::Achei que era algo sem forma já que o chamam de familiar, mas é essencialmente um humano.::
-27970::$$$message_0234_0217_0000$$$::Não, isso está errado...[lr]::
+27970::$$$message_0234_0217_0000$$$::Não, não é só um humano...[lr]::
 27971::$$$message_0234_0217_0001$$$::Só de estar aqui já consigo dizer que essa coisa tem uma quantia absurda de energia mágica.[lr]::
-27972::$$$message_0234_0217_0002$$$::Não engane-se pela aparência.[lr]::
-27973::$$$message_0234_0217_0003$$$::Isso é certamente uma existência muito além dos humanos, um "fantasma" que alcançou o nível dos espíritos como um humano.::
+27972::$$$message_0234_0217_0002$$$::Não se engane pela aparência.[lr]::
+27973::$$$message_0234_0217_0003$$$::Isso é certamente uma existência muito além dos humanos, um "fantasma" em forma de humano que alcançou o nível dos Elementais.::
 27974::$$$message_0234_0218_0000$$$::"..."[lr]::
 27975::$$$message_0234_0218_0001$$$::Não posso ficar impressionada para sempre.[lr]::
 27976::$$$message_0234_0218_0002$$$::Aquela coisa é minha.[lr]::
@@ -738,21 +738,21 @@ id=qid::label=str::text=lstr::
 27979::$$$message_0234_0219_0001$$$::"Isso é o que eu gostaria de perguntar. Você é a minha Mestra? Esta é a primeira vez que fui invocado de forma tão grosseira, então ainda não consegui entender a situação para ser honesto."::
 27980::$$$message_0234_0220_0000$$$::"Esta é a minha primeira vez também. Terei que recusar esse tipo de pergunta."[lr]::
 27981::$$$message_0234_0220_0001$$$::"Entendo. Mas quando fui invocado, você não estava à minha frente. Explique-me o que está acontecendo."[lr]::
-27982::$$$message_0234_0220_0002$$$::"Sério? Não fique de gracinha achando que vou cair nessa, você não é um pintinho que só consegue determinar quem é seu Mestre ao abrir seus olhos."::
+27982::$$$message_0234_0220_0002$$$::"Sério? Você não é um passarinho. Não fique de gracinha, como se só entendesse quem é seu Mestre caso ele esteja lá no momento que você abrir os olhos."::
 27983::$$$message_0234_0221_0000$$$::O Servo desconhecido franze sua testa.[lr]::
 27984::$$$message_0234_0221_0001$$$::É uma resposta um tanto quanto vaga, não sei dizer se ele está bravo com a minha reclamação ou impressionado com o quão certa estou.::
-27985::$$$message_0234_0222_0000$$$::"Bom, de qualquer modo, o que estou perguntando é: você é de ninguém porém meu Servo, certo?[lr]::
+27985::$$$message_0234_0222_0000$$$::"Bom, de qualquer modo, o que estou perguntando é: você é o meu Servo, e o de mais ninguém, certo?[lr]::
 27986::$$$message_0234_0222_0001$$$::Não tenho a obrigação de responder nenhuma outra pergunta até esclarecermos isso."[lr]::
 27987::$$$message_0234_0222_0002$$$::"É isso que você diz depois de falhar na sua invocação? Acho que há outras coisas que deveriam ser ditas nesta situação."::
-27988::$$$message_0234_0223_0000$$$::"Não há mais nada para ser dito. Temos que claramente determinar quem é o mestre primeiro."[lr]::
+27988::$$$message_0234_0223_0000$$$::"Não há mais nada para ser dito. Temos que claramente determinar a relação de Mestre e Servo primeiro."[lr]::
 27989::$$$message_0234_0223_0001$$$::"[line3]Hm."[lr]::
 27990::$$$message_0234_0223_0002$$$::O Servo ergue uma sobrancelha.[lr]::
 27991::$$$message_0234_0223_0003$$$::A invocação imperfeita talvez seja a causa, mas este cara não está nem tentando esconder seu descontentamento comigo.::
-27992::$$$message_0234_0224_0000$$$::"Hm. Então temos que decidir quem é o mestre, é? Suas ações estão repletas de erros, mas sua boca é aparentemente um pouco melhor.[lr]::
+27992::$$$message_0234_0224_0000$$$::"Hm. Temos que decidir a relação de Mestre e Servo, é? Suas ações estão repletas de erros, mas você pelo menos sabe como argumentar.[lr]::
 27993::$$$message_0234_0224_0001$$$::[line3]Sim, certamente concordo com sua opinião. Será difícil de lidar com o outro ao menos que deixemos claro quem é o mais forte e o mais fraco."[lr]::
 27994::$$$message_0234_0224_0002$$$::O Servo sentado na mobília olha pensativo para mim.::
 27995::$$$message_0234_0225_0000$$$::"Quem é o mais fraco...?"[lr]::
-27996::$$$message_0234_0225_0001$$$::"Sim. Eu sou um Servo, então aceitarei essa relação Mestre-Servo já que fui invocado. Mas isso é só de acordo com o contrato, certo?[lr]::
+27996::$$$message_0234_0225_0001$$$::"Sim. Eu sou um Servo, então aceitarei essa relação Mestre e Servo já que fui invocado. Mas isso é só de acordo com o contrato, certo?[lr]::
 27997::$$$message_0234_0225_0002$$$::Quem é superior e se o outro é digno de se lutar lado a lado, isso é outra história.[lr]::
 27998::$$$message_0234_0225_0003$$$::[line3]Então? És uma maga digna de ser minha Mestra, senhorita?"::
 27999::$$$message_0234_0226_0000$$$::Esse Servo presunçoso.[lr]::
@@ -820,7 +820,7 @@ id=qid::label=str::text=lstr::
 28061::$$$message_0234_0244_0001$$$::Não vou mais me segurar. Até parece que vou ter simpatia por um cara distorcido desses!::
 28062::$$$message_0234_0245_0000$$$::"Que... você não vai...!?"[lr]::
 28063::$$$message_0234_0245_0001$$$::"Exatamente o que você está pensando, escória insolente![lr]::
-28064::$$$message_0234_0245_0002$$$::Vertrag! Ein neuer Nagel.  Ein neues Gesetz.  Ein neues Verbrechen[line3]![r](Eu declaro ao Selo de Comando! Por ordem do Santo Graal, force a lei de obediência sobre este, meu Servo!)"::
+28064::$$$message_0234_0245_0002$$$::Vertrag! Ein neuer Nagel.  Ein neues Gesetz.  Ein neues Verbrechen[line3]![r](Eu declaro ao Selo de Comando! Por ordem do Santo Graal, force a lei de obediência sobre meu Servo!)"::
 28065::$$$message_0234_0246_0000$$$::"Idio...! Espere, está falando sério, Mestra!? Quem usaria um Selo de Comando por algo assim...!?"[lr]::
 28066::$$$message_0234_0246_0001$$$::"Calado![lr]::
 28067::$$$message_0234_0246_0002$$$::Escute aqui, você é o meu Servo! De você eu exijo nada além de obediência absoluta, entendeu!?"::
@@ -839,11 +839,11 @@ id=qid::label=str::text=lstr::
 28080::$$$message_0234_0250_0000$$$::"Certo... Agora entendo sua personalidade, Mestra."[lr]::
 28081::$$$message_0234_0250_0001$$$::Como exatamente isso é "absolutamente obediente"?::
 28082::$$$message_0234_0251_0000$$$::"Apenas para ter certeza... você entende a preciosidade que é o Selo de Comando, não entende, Mestra?"[lr]::
-28083::$$$message_0234_0251_0001$$$::"E-eu sei. É o direito de dar ao seu Servo três ordens, certo? O que tem ele?"::
+28083::$$$message_0234_0251_0001$$$::"E-eu sei. É o direito de dar ao seu Servo três ordens, certo? O que tem isso?"::
 28084::$$$message_0234_0252_0000$$$::"Sigh... Veja bem, o Selo de Comando força o Servo a agir de acordo com uma ordem.[lr]::
 28085::$$$message_0234_0252_0001$$$::Ele não meramente contém suas ações, mas também as fortalece."::
 28086::$$$message_0234_0253_0000$$$::"Por exemplo, sou incapaz de instantaneamente me teleportar para longe. Mas, se com o Selo de Comando você me ordenar para tal, assumindo que tenhamos energia mágica o suficiente, coisas assim tornam-se possíveis.[lr]::
-28087::$$$message_0234_0253_0001$$$::É isso que significa obediência incondicional. Coisas que o próprio Servo é incapaz, são as três cristalizações de uma grande taumaturgia que permite-o até mesmo superar os limites de seu próprio corpo. Bom, apenas duas agora."::
+28087::$$$message_0234_0253_0001$$$::É isso que significa obediência incondicional. Coisas que o próprio Servo é incapaz, são as três cristalizações de uma Grande Magia que permite-o até mesmo superar os limites de seu próprio corpo. Bom, apenas duas agora."::
 28088::$$$message_0234_0254_0000$$$::"E-eu sei disso. Não tem problema, ainda temos dois, e a ordem que te dei também não é inútil."::
 28089::$$$message_0234_0255_0000$$$::"Bom... isto foi certamente um engano meu.[lr]::
 28090::$$$message_0234_0255_0001$$$::Os Selos de Comando não são tão eficazes em ordens amplas demais.[lr]::
@@ -852,7 +852,7 @@ id=qid::label=str::text=lstr::
 28093::$$$message_0234_0256_0001$$$::...então, acho que deste jeito consegue imaginar o que eu gostaria de dizer, Mestra."::
 28094::$$$message_0234_0257_0000$$$::"Sim. consigo. Basicamente uma ordem ampla e duradoura é insignificante, certo?[lr]::
 28095::$$$message_0234_0257_0001$$$::Se o efeito é fraco, Servos podem ir contra a ordem. É melhor dar uma única ordem absoluta do que uma fraca, não?"::
-28096::$$$message_0234_0258_0000$$$::"Exato. Basicamente, o Selo de Comando é um método para realizar milagres além de nossas habilidades. Usá-lo de maneira estúpida como para ordens que podem ser alcançadas através de outros métodos é imperdoável.[lr]::
+28096::$$$message_0234_0258_0000$$$::"Exato. Basicamente, o Selo de Comando é um método para realizar milagres além de nossas habilidades. Usá-lo de maneira estúpida, como para ordens que podem ser alcançadas através de outros métodos, é imperdoável.[lr]::
 28097::$$$message_0234_0258_0001$$$::O Selo de Comando que acabou de usar é exatamente isso. Se eu vou ou não lhe obedecer é algo que poderíamos ter resolvido através de uma discussão. Algo como 'obedeça completamente todas as minhas ordens' está além de até mesmo uma centena de Selos de Comando."::
 28098::$$$message_0234_0259_0000$$$::"Uhm... Então o Selo de Comando que acabei de usar foi inútil?"[lr]::
 28099::$$$message_0234_0259_0001$$$::"Normalmente, a resposta seria sim. Mas parece que suas habilidades como maga estão em um nível completamente diferente."[lr]::
@@ -863,7 +863,7 @@ id=qid::label=str::text=lstr::
 28104::$$$message_0234_0260_0001$$$::Ei, você. Diga-me exatamente o que pensa no momento."[lr]::
 28105::$$$message_0234_0260_0002$$$::Eu tenho um bom pressentimento, então eu o pergunto diretamente.::
 28106::$$$message_0234_0261_0000$$$::"Sim, é isso que quis dizer com um engano meu.[lr]::
-28107::$$$message_0234_0261_0001$$$::Aquele Selo de Comando deveria apenas ter mudado minha atitude para 'bom, irei respeitar um pouco as opiniões da minha Mestra'.[lr]::
+28107::$$$message_0234_0261_0001$$$::Aquele Selo de Comando deveria apenas ter mudado minha atitude para: 'Bom, irei respeitar um pouco as opiniões da minha Mestra'.[lr]::
 28108::$$$message_0234_0261_0002$$$::Mas no momento, sinto fortemente as suas palavras. Se eu for contra você, vejamos... sinto que meus parâmetros caem um nível.[lr]::
 28109::$$$message_0234_0261_0003$$$::Em outras palavras, é como se meu corpo ficasse pesado quando me coloco contra a sua vontade."[lr]::
 28110::$$$message_0234_0261_0004$$$::O Servo encolhe seus ombros como se isso fosse um saco.::
@@ -880,7 +880,7 @@ id=qid::label=str::text=lstr::
 28121::$$$message_0234_0264_0002$$$::"Você mudou seu tom bem rápido..."[lr]::
 28122::$$$message_0234_0264_0003$$$::"Bom, foi um equívoco, mas não um indesejado. Possuindo tanto talento, não tenho objeções quanto à sua participação nesta batalha."::
 28123::$$$message_0234_0265_0000$$$::"Hã...?"[lr]::
-28124::$$$message_0234_0265_0001$$$::Uh... ele parece estar dizendo que encontrou um mestre poderoso, então...[lr]::
+28124::$$$message_0234_0265_0001$$$::Uh... ele parece estar dizendo que encontrou um Mestre poderoso, então...[lr]::
 28125::$$$message_0234_0265_0002$$$::"Então você me aceita como Mestra mesmo sem um Selo de Comando?"::
 28126::$$$message_0234_0266_0000$$$::"É claro. Eu estava incerto por ter sido recentemente invocado, mas agora estamos completamente conectados. Se realmente é uma maga, deve ser capaz de sentir a conexão do contrato."::
 28127::$$$message_0234_0267_0000$$$::"Contrato...?"[lr]::
@@ -895,7 +895,7 @@ id=qid::label=str::text=lstr::
 28136::$$$message_0234_0269_0003$$$::"H-hmph! Me elogiar agora não vai adiantar de nada."[lr]::
 28137::$$$message_0234_0269_0004$$$::Um pouco envergonhada, eu desvio o meu olhar.::
 28138::$$$message_0234_0270_0000$$$::Não esperava por isso...[lr]::
-28139::$$$message_0234_0270_0001$$$::Estou o forçando a me obedecer usando o Selo de Comando, mas para um Servo, uma existência superior aos humanos, me aceitar honestamente como sua Mestra....::
+28139::$$$message_0234_0270_0001$$$::Estou o forçando a me obedecer usando o Selo de Comando. Mas para um Servo, uma existência superior aos humanos, me aceitar honestamente como sua Mestra....::
 28140::$$$message_0234_0271_0000$$$::"E então? Que Servo é você?"[lr]::
 28141::$$$message_0234_0271_0001$$$::Eu me recomponho e finalmente chego ao ponto.[lr]::
 28142::$$$message_0234_0271_0002$$$::"Você não consegue dizer pela minha aparência? Ah, excelente."[lr]::
@@ -918,7 +918,7 @@ id=qid::label=str::text=lstr::
 28159::$$$message_0234_0275_0001$$$::Isso é inesperado...[lr]::
 28160::$$$message_0234_0275_0002$$$::O Servo desconhecido parece desapontado pela minha fixação ao Saber.::
 28161::$$$message_0234_0276_0000$$$::"O quê? Por acaso te irritei, Archer?"[lr]::
-28162::$$$message_0234_0276_0001$$$::"Irritou. Definitivamente lhe mostrarei o quão sortuda é."::
+28162::$$$message_0234_0276_0001$$$::"Irritou. Observe. Definitivamente lhe mostrarei o quão sortuda é."::
 28163::$$$message_0234_0277_0000$$$::O Archer protesta com olhos estreitados.[lr]::
 28164::$$$message_0234_0277_0001$$$::Ele tem um ar de valentão, mas seu comportamento é puro e infantil.[lr]::
 28165::$$$message_0234_0277_0002$$$::Olha...[lr]::
@@ -929,14 +929,14 @@ id=qid::label=str::text=lstr::
 28170::$$$message_0234_0278_0003$$$::Apesar que, provavelmente não vou ficar satisfeito mesmo se você se desculpar."[lr]::
 28171::$$$message_0234_0278_0004$$$::E de novo ele faz esse sorriso nojento.[lr]::
 28172::$$$message_0234_0278_0005$$$::Huh, pelo jeito sua personalidade é realmente distorcida.::
-28173::$$$message_0234_0279_0000$$$::"Bom, que seja. Mas e então, que espírito heroico você é?"[lr]::
-28174::$$$message_0234_0279_0001$$$::""[lr]::
+28173::$$$message_0234_0279_0000$$$::"Bom, que seja. Mas então, que Espírito Heroico você é?"[lr]::
+28174::$$$message_0234_0279_0001$$$::"..."[lr]::
 28175::$$$message_0234_0279_0002$$$::O Archer não responde.[lr]::
 28176::$$$message_0234_0279_0003$$$::Seu tom sarcástico desaparece, e ele coloca uma expressão séria em sua face.::
 28177::$$$message_0234_0280_0000$$$::"Archer? Sua Mestra está te fazendo uma pergunta."[lr]::
 28178::$$$message_0234_0280_0001$$$::"Isso é... um segredo."[lr]::
 28179::$$$message_0234_0280_0002$$$::"Hã...?"[lr]::
-28180::$$$message_0234_0280_0003$$$::"Eu não posso responder à sua pergunta sobre quem sou, porque..."[lr]::
+28180::$$$message_0234_0280_0003$$$::"Eu não posso responder a sua pergunta sobre quem sou, porque..."[lr]::
 28181::$$$message_0234_0280_0004$$$::"Ei. Vou ficar brava se for por um motivo idiota."::
 28182::$$$message_0234_0281_0000$$$::"[line7]É..."[lr]::
 28183::$$$message_0234_0281_0001$$$::Ah, aquela cara de novo.[lr]::
@@ -947,10 +947,10 @@ id=qid::label=str::text=lstr::
 28188::$$$message_0234_0282_0001$$$::"Eu não quis insultá-la, Mestra.[lr]::
 28189::$$$message_0234_0282_0002$$$::Mas é isso que você ganha por falhar na sua invocação. Parece que minha memória está confusa. Eu sei quem sou, mas coisas como meu nome e origem estão um pouco vagas... Bom, tais detalhes são triviais, não precisamos nos preocupar quanto a isso."::
 28190::$$$message_0234_0283_0000$$$::"Não precisamos nos preocupar? É claro que precisamos![lr]::
-28191::$$$message_0234_0283_0001$$$::Se eu não souber que espírito heroico você é, não tenho como saber o quão forte é!"[lr]::
+28191::$$$message_0234_0283_0001$$$::Se eu não souber que Espírito Heroico você é, não tenho como saber o quão forte é!"[lr]::
 28192::$$$message_0234_0283_0002$$$::"Ah, isso não é um problema. É algo trivial."[lr]::
 28193::$$$message_0234_0283_0003$$$::"Trivial, você diz? Como posso planejar algo quando não sei o quão forte meu parceiro é!? Não tem como lutarmos desse jeito!"::
-28194::$$$message_0234_0284_0000$$$::"Como assim? Sou um Servo invocado pela senhorita. Naturalmente, eu sou o mais poderoso."[lr]::
+28194::$$$message_0234_0284_0000$$$::"Como assim? Sou um Servo invocado por você. Naturalmente, eu sou o mais poderoso."[lr]::
 28195::$$$message_0234_0284_0001$$$::Ele fala sem hesitar.[lr]::
 28196::$$$message_0234_0284_0002$$$::O cavaleiro de vermelho olha para mim com absoluta confiança e fé.::
 28197::$$$message_0234_0285_0000$$$::"Que..."[lr]::
@@ -961,7 +961,7 @@ id=qid::label=str::text=lstr::
 28202::$$$message_0234_0286_0001$$$::Meu rosto está quente.[lr]::
 28203::$$$message_0234_0286_0002$$$::Haaa. Definitivamente estou corando.[lr]::
 28204::$$$message_0234_0286_0003$$$::Por que sou tão fraca contra coisas inesperadas?::
-28205::$$$message_0234_0287_0000$$$::"Bom, que seja... Sua verdadeira identidade tornaria-se irrelevante se simplesmente ninguém souber. Dizem que, para enganar seus inimigos, primeiro engane seus aliados..."[lr]::
+28205::$$$message_0234_0287_0000$$$::"Bom, que seja... Pelo menos ninguém vai saber quem você é. Dizem que, para enganar seus inimigos, primeiro engane seus aliados..."[lr]::
 28206::$$$message_0234_0287_0001$$$::Digo isso para esconder meu constrangimento, virando-me de costas para o Archer.[lr]::
 28207::$$$message_0234_0287_0002$$$::Bom, eu posso descobrir a capacidade do Archer com o tempo.[lr]::
 28208::$$$message_0234_0287_0003$$$::Por hora, tenho outra prioridade.::
@@ -976,7 +976,7 @@ id=qid::label=str::text=lstr::
 28217::$$$message_0234_0289_0003$$$::Surpreso, ele fica sem reagir por dez segundos.[lr]::
 28218::$$$message_0234_0289_0004$$$::Após recuperar seus pensamentos, ele pega a vassoura, pronto para reclamar.::
 28219::$$$message_0234_0290_0000$$$::"Um momento. O que pensa que um Servo é?"[lr]::
-28220::$$$message_0234_0290_0001$$$::"Um familiar, correto? Ele é um pouco insolente, então é difícil de controlá-lo."[lr]::
+28220::$$$message_0234_0290_0001$$$::"Um familiar, correto? Mas um pouco insolente, então é difícil de controlar."[lr]::
 28221::$$$message_0234_0290_0002$$$::"..."[lr]::
 28222::$$$message_0234_0290_0003$$$::Ele engole suas palavras.[lr]::
 28223::$$$message_0234_0290_0004$$$::Não pretendo retirar o que disse, e ainda tenho uma carta na manga.::
@@ -997,6 +997,6 @@ id=qid::label=str::text=lstr::
 28238::$$$message_0234_0296_0000$$$::Incluindo a mim agora, existem seis.[lr]::
 28239::$$$message_0234_0296_0001$$$::Assim que o último invocar um Servo, o sétimo que ainda não é um Mestre, a Guerra do Santo Graal começará.::
 28240::$$$message_0234_0297_0000$$$::Em um futuro não tão distante.[lr]::
-28241::$$$message_0234_0297_0001$$$::A minha batalha por qual esperei por dez anos, está finalmente prestes a começar...::
+28241::$$$message_0234_0297_0001$$$::A minha batalha por qual esperei dez anos, está finalmente prestes a começar...::
 
 

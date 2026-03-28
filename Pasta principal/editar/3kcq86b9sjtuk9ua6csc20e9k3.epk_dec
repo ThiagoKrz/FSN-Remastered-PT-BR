@@ -125,15 +125,15 @@ id=qid::label=str::text=lstr::
 62672::$$$message_0577_0044_0001$$$::"...A minha magia não é igual à da Nee-san. Não existe um limite pré-determinado em como você usa a sua magia.[lr]::
 62673::$$$message_0577_0044_0002$$$::A magia do Senpai é para conquistar alguma coisa e criar um fenômeno. Não existe um objetivo restrito que foi determinado desde o início."::
 62674::$$$message_0577_0045_0000$$$::"Hm... Você tem razão. Fortalecimento é uma das poucas coisas que eu posso fazer, mas você pode usar um objeto fortalecido para fazer todo tipo de coisa."::
-62675::$$$message_0577_0046_0000$$$::"...Mas a magia da família Matou é diferente. A magia dos Matou é limitada em 'roubar dos outros'.[lr]::
+62675::$$$message_0577_0046_0000$$$::"...Mas a magia da família Matou é diferente. A magia dos Matous é limitada em 'roubar dos outros'.[lr]::
 62676::$$$message_0577_0046_0001$$$::Não há nenhuma outra utilidade para ela. Ela apenas se alimenta da dor das outras pessoas, e não há um ensinamento para devolver a felicidade para elas."::
 62677::$$$message_0577_0047_0000$$$::"........."[lr]::
 62678::$$$message_0577_0047_0001$$$::Eu não posso simplesmente acenar para isso.[lr]::
-62679::$$$message_0577_0047_0002$$$::Eu não sei que tipo de magia foi ensinada para ela na casa dos Matou.[lr]::
+62679::$$$message_0577_0047_0002$$$::Eu não sei que tipo de magia foi ensinada para ela na casa dos Matous.[lr]::
 62680::$$$message_0577_0047_0003$$$::A magia que ensinaram é uma heresia, e a Sakura tem vergonha disso.::
 62681::$$$message_0577_0048_0000$$$::...O problema entre a Sakura e a Tohsaka é a diferença na magia de suas famílias.[lr]::
-62682::$$$message_0577_0048_0001$$$::Quanto mais a Sakura odeia a magia dos Matou, mais ela se despreza[w l=4][line4]::
-62683::$$$message_0577_0049_0000$$$::"Então você odeia a magia dos Matou?"[lr]::
+62682::$$$message_0577_0048_0001$$$::Quanto mais a Sakura odeia a magia dos Matous, mais ela se despreza[w l=4][line4]::
+62683::$$$message_0577_0049_0000$$$::"Então você odeia a magia dos Matous?"[lr]::
 62684::$$$message_0577_0049_0001$$$::"Senpai. Perguntar isso é o mesmo que perguntar se uma pessoa odeia respirar."[lr]::
 62685::$$$message_0577_0050_0000$$$::"Eu não gosto nem odeio. Só não pude viver sem ela.[lr]::
 62686::$$$message_0577_0050_0001$$$::Eu fui adotada pelos Matou por esse único motivo. Se eu não pudesse virar a sucessora deles, eu teria morrido."[lr]::
@@ -161,7 +161,7 @@ id=qid::label=str::text=lstr::
 62708::$$$message_0577_0058_0001$$$::Ela é a primeira pessoa depois do Kiritsugu que me viu treinando magia.[lr]::
 62709::$$$message_0577_0058_0002$$$::Eu pratiquei na frente da Tohsaka nesses últimos dias, mas isso é diferente do treinamento que faço no depósito.::
 62710::$$$message_0577_0059_0000$$$::Por isso, a opinião da Sakura é como um teste.[lr]::
-62711::$$$message_0577_0059_0001$$$::A Sakura é uma maga dos Matou, quem sabe eu consiga uma boa [r]nota[w l=4][line4]::
+62711::$$$message_0577_0059_0001$$$::A Sakura é uma maga dos Matous, quem sabe eu consiga uma boa [r]nota[w l=4][line4]::
 62712::$$$message_0577_0060_0000$$$::"Hmm. Acho que vou usar o meu direito de permanecer em silêncio. Eu não sou a Nee-san, mas acho que seria terrível dar uma nota."[lr]::
 62713::$$$message_0577_0060_0001$$$::"Ugh[w l=4][line4]isso significa que eu recebi uma nota vermelha?"[lr]::
 62714::$$$message_0577_0060_0002$$$::"Ahaha, digamos que seja uma nota vermelha bem ruim."::
@@ -188,7 +188,7 @@ id=qid::label=str::text=lstr::
 62735::$$$message_0577_0069_0000$$$::"Espera[w l=8][line8]"[lr]::
 62736::$$$message_0577_0069_0001$$$::É-É realmente constrangedor você falar uma coisa dessas olhando nos meus olhos.::
 62737::$$$message_0577_0070_0000$$$::"S[w l=3][line3]Sua idiota, você não vai ganhar nada de mim me bajulando![lr]::
-62738::$$$message_0577_0070_0001$$$::E-Em primeiro lugar, a Tohsaka é a mais forte! E eu não sei que tipo de maga você é, mas você é a sucessora dos Matou, e também tem a Rider...!"::
+62738::$$$message_0577_0070_0001$$$::E-Em primeiro lugar, a Tohsaka é a mais forte! E eu não sei que tipo de maga você é, mas você é a sucessora dos Matous, e também tem a Rider...!"::
 62739::$$$message_0577_0071_0000$$$::"Não, você é forte, Senpai. Não por conta do seu Circuito Mágico ou do seu talento, mas porque a sua mente é pura.[lr]::
 62740::$$$message_0577_0071_0001$$$::...Eu sabia disso desde a primeira vez em que te conheci.[lr]::
 62741::$$$message_0577_0071_0002$$$::Eu sabia que você nunca trairia alguém."::

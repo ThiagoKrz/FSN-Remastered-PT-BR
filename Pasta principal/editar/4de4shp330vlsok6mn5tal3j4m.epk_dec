@@ -40,7 +40,7 @@ id=qid::label=str::text=lstr::
 1916::$$$message_0016_0016_0000$$$::"Tiros mágicos são tiros mágicos. É um tiro carregado de energia mágica.[lr]::
 1917::$$$message_0016_0016_0001$$$::Nunca ouviu falar que os pensamentos das pessoas tendem a entrar em joias? Na prática, joias são alvos fáceis para transferir energia mágica, mas parece que minha família é mais compatível com isso do que as outras."::
 1918::$$$message_0016_0017_0000$$$::"Transferir energia mágica... bem, por exemplo, você tem vitalidade extra sobrando se não fizer nada o dia todo, não é? Estou armazenando esse poder extra nas joias.[lr]::
-1919::$$$message_0016_0017_0001$$$::Você continua fazendo isso por dias, meses, e anos, e isso transforma as próprias joias em 'magica'."::
+1919::$$$message_0016_0017_0001$$$::Você continua fazendo isso por dias, meses, e anos, e isso transforma as próprias joias em 'mágica'."::
 1920::$$$message_0016_0018_0000$$$::"Mas então, as joias tem capacidade limitada e não posso controlar energia mágica fora de mim.[lr]::
 1921::$$$message_0016_0018_0001$$$::A energia mágica dentro das joias são apenas uma ignição para ativar instantaneamente uma magia de larga escala."::
 1922::$$$message_0016_0019_0000$$$::"...? Um, então você está colocando sua energia mágica nas joias como uma reserva?"[lr]::
@@ -51,7 +51,7 @@ id=qid::label=str::text=lstr::
 1927::$$$message_0016_0022_0001$$$::Por que os outros magos não fazem algo tão útil?"[lr]::
 1928::$$$message_0016_0023_0000$$$::"A habilidade de guardar energia mágica em algo fora de si é única.[lr]::
 1929::$$$message_0016_0023_0001$$$::Até mesmo sua habilidade de reforçar é colocar energia mágica em algo, certo? Normalmente, qualquer coisa que você bota sua energia muda de algum modo e usa essa energia. O efeito da magia é instantâneo e não permanente, correto?"::
-1930::$$$message_0016_0024_0000$$$::"Então minha familia faz de um modo que não é instantâneo, e inteligentemente botamos energia magica na joia para que seja permanente, mas... outros magos podem fazer o mesmo com seus corpos.[lr]::
+1930::$$$message_0016_0024_0000$$$::"Então minha familia faz de um modo que não é instantâneo, e inteligentemente botamos energia mágica na joia para que seja permanente, mas... outros magos podem fazer o mesmo com seus corpos.[lr]::
 1931::$$$message_0016_0024_0001$$$::Isso é o Encravamento Mágico[line2]a reserva mágica que todos os magos tem."::
 1932::$$$message_0016_0025_0000$$$::"Encravamento Mágico... Ah, quer dizer aquele segredo que os pais passam para seus filhos. Não entendo tão bem já que não tenho um."::
 1933::$$$message_0016_0026_0000$$$::"Espera. O que você disse?"[lr]::
@@ -79,7 +79,7 @@ id=qid::label=str::text=lstr::
 1955::$$$message_0016_0036_0000$$$::"Okay. Magos sem uma longa história... como você, Shirou... usam algo que já tem forma pra fazer energia mágica.[lr]::
 1956::$$$message_0016_0036_0001$$$::É um método estabelecido como processo nos tempos antigos, utilizando oferendas e rituais para fazer contato com os mistérios divinos."::
 1957::$$$message_0016_0037_0000$$$::"Eles preparam um preço a se pagar já que os poderes deles não são o bastante. Isso é chamado de constructo formal.[lr]::
-1958::$$$message_0016_0037_0001$$$::Desse jeito, a magia pode ser ativada mesmo se a energia magica do feiticeiro é insuficiente. Isso porque a energia magica usada vem não do feiticeiro mas de algum outro lugar, então o feiticeiro somente precisa fazer o ritual."::
+1958::$$$message_0016_0037_0001$$$::Desse jeito, a magia pode ser ativada mesmo se a energia mágica do feiticeiro é insuficiente. Isso porque a energia mágica usada vem não do feiticeiro mas de algum outro lugar, então o feiticeiro somente precisa fazer o ritual."::
 1959::$$$message_0016_0038_0000$$$::"...mas, bem, você não pode fazer isso sem o conhecimento. É impossível pra você neste momento, e enfim, um método tão sangrento não combina contigo."::
 1960::$$$message_0016_0039_0000$$$::"...certo. E não quero sacrificar uma galinha ou ficar uma noite inteira rezando num circulo mágico."::
 1961::$$$message_0016_0040_0000$$$::"Certo?[lr]::

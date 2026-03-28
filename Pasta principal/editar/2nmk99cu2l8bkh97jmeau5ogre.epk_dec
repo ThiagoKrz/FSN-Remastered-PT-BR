@@ -92,13 +92,13 @@ id=qid::label=str::text=lstr::
 54822::$$$message_0486_0035_0002$$$::Você já havia percebido, não é mesmo?"::
 54823::$$$message_0486_0036_0000$$$::"...Sim. Eu sabia que havia alguma coisa errada.[lr]::
 54824::$$$message_0486_0036_0001$$$::Não tem como alguém da família Matou ser escolhido como Mestre. A linhagem sanguínea deles ficou fraca, portanto, um mago não poderia nascer na família deles."::
-54825::$$$message_0486_0037_0000$$$::"Por isso não deveria ser possível o Shinji, um dos membros dos Matou, virar um Mestre. Mas a Rider foi invocada, e uma pessoa da família Matou foi escolhida como Mestre."::
+54825::$$$message_0486_0037_0000$$$::"Por isso não deveria ser possível o Shinji, um dos membros dos Matous, virar um Mestre. Mas a Rider foi invocada, e uma pessoa da família Matou foi escolhida como Mestre."::
 54826::$$$message_0486_0038_0000$$$::"...Sim. Antes eu achava que Matou Zouken tinha te invocado e confiado você ao Shinji.[lr]::
 54827::$$$message_0486_0038_0001$$$::Mas na verdade, é muito mais simples do que isso. O Zouken não precisou fazer nada. Porque a pessoa mais apropriada na família Matou para ser um Mestre é[w l=3][line3]"::
 54828::$$$message_0486_0039_0000$$$::A Tohsaka não está olhando para a Rider.[lr]::
 54829::$$$message_0486_0039_0001$$$::Ela está olhando apenas para a...[lr]::
 54830::$$$message_0486_0039_0002$$$::"[w l=3][line3]A sucessora legítima da família Matou.[lr]::
-54831::$$$message_0486_0039_0003$$$::A maga dessa geração da linhagem dos Matou. É você, Sakura.""[lr]::
+54831::$$$message_0486_0039_0003$$$::A maga dessa geração da linhagem dos Matous. É você, Sakura.""[lr]::
 54832::$$$message_0486_0039_0004$$$::"......"[lr]::
 54833::$$$message_0486_0039_0005$$$::Ela está olhando diretamente para a Sakura.::
 54834::$$$message_0486_0040_0000$$$::"[w l=8][line8]Hã?"[lr]::
@@ -152,7 +152,7 @@ id=qid::label=str::text=lstr::
 54882::$$$message_0486_0059_0001$$$::"É, eu sei, eu sei.[lr]::
 54883::$$$message_0486_0059_0002$$$::Por isso, Sakura[w l=4][line4]você continua."::
 54884::$$$message_0486_0060_0000$$$::"Hã...?"[lr]::
-54885::$$$message_0486_0060_0001$$$::"Lute contra eles no meu lugar![shock time=400 hmax=30 count=-3] Olhe, Sakura, o Emiya e a Tohsaka são nossos inimigos. Você é a sucessora dos Matou, então já sabe o que fazer...!"::
+54885::$$$message_0486_0060_0001$$$::"Lute contra eles no meu lugar![shock time=400 hmax=30 count=-3] Olhe, Sakura, o Emiya e a Tohsaka são nossos inimigos. Você é a sucessora dos Matous, então já sabe o que fazer...!"::
 54886::$$$message_0486_0061_0000$$$::"Shinji[w l=3][line3]você não ouviu nada do que eu falei?[lr]::
 54887::$$$message_0486_0061_0001$$$::A Sakura não vai lutar, e você não tem mais direito de ser um Mestre. Não vamos te atacar já que você não tem mais a Rider. Apenas fique escondido até a Guerra do Santo Graal terminar."::
 54888::$$$message_0486_0062_0000$$$::"Eu não falei com você! [w l=3][line3]Vamos, Sakura. Eu estou te pedindo. Você vai me obedecer como sempre, não vai?"::

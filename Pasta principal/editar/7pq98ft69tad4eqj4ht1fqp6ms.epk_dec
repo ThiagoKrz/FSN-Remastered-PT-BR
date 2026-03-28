@@ -2,8 +2,8 @@ DAT
 id=qid::label=str::text=lstr::
 72864::$$$message_0668_0000_0000$$$::[w l=4][line4]Tudo está desmoronando.[lr]::
 72865::$$$message_0668_0000_0001$$$::O colapso é definitivo.[lr]::
-72866::$$$message_0668_0000_0002$$$::A busca que levou mil anos para os Einzbern.[lr]::
-72867::$$$message_0668_0000_0003$$$::O desejo sincero que levou quinhentos anos para os Makiri.[lr]::
+72866::$$$message_0668_0000_0002$$$::A busca que levou mil anos para os Einzberns.[lr]::
+72867::$$$message_0668_0000_0003$$$::O desejo sincero que levou quinhentos anos para os Makiris.[lr]::
 72868::$$$message_0668_0000_0004$$$::O mundo contínuo que nunca foi completado está prestes a acabar.::
 72869::$$$message_0668_0001_0000$$$::"Ah[w l=4][line4]Ah, ohhhhhhh."[lr]::
 72870::$$$message_0668_0001_0001$$$::Em meio ao caos, ele ainda está consciente.::
@@ -42,13 +42,13 @@ id=qid::label=str::text=lstr::
 72903::$$$message_0668_0014_0000$$$::[w l=4][line4]Eu não quero morrer[w l=4][line4]::
 72904::$$$message_0668_0015_0000$$$::Mas não foi por causa disso.[lr]::
 72905::$$$message_0668_0015_0001$$$::Não é que eles não se adaptaram ao solo japonês.[lr]::
-72906::$$$message_0668_0015_0002$$$::Os Makiri não morreram por causa de um fator externo.[lr]::
+72906::$$$message_0668_0015_0002$$$::Os Makiris não morreram por causa de um fator externo.[lr]::
 72907::$$$message_0668_0015_0003$$$::Eles apenas desistiram.::
 72908::$$$message_0668_0016_0000$$$::Se passaram trezentos anos desde o início da sua busca.[lr]::
 72909::$$$message_0668_0016_0001$$$::Trezentos anos foi seu limite.[lr]::
 72910::$$$message_0668_0016_0002$$$::A família morreu na geração do Zouken.[lr]::
 72911::$$$message_0668_0016_0003$$$::O sofrimento começou ali, e o velho não pôde fazer nada além de negar a verdade.[lr]::
-72912::$$$message_0668_0016_0004$$$::A vida do Matou Zouken foi um protesto desesperado contra o fim da linhagem dos Makiri.::
+72912::$$$message_0668_0016_0004$$$::A vida do Matou Zouken foi um protesto desesperado contra o fim da linhagem dos Makiris.::
 72913::$$$message_0668_0017_0000$$$::[w l=4][line4]Eu não quero morrer[w l=4][line4][lr]::
 72914::$$$message_0668_0017_0001$$$::Eu não quero morrer, eu não quero morrer, eu não quero morrer, eu não quero morrer, eu não quero morrer, eu não quero morrer, eu não quero morrer, eu não quero morrer, eu não quero morrer eu não quero morrer eu não quero morrer eu não quero morrer......!!!!!::
 72915::$$$message_0668_0018_0000$$$::"Ah, ohh, ohhhhhhh......!!!!"[lr]::
@@ -70,7 +70,7 @@ id=qid::label=str::text=lstr::
 72931::$$$message_0668_0022_0002$$$::Ele olha para a menina surpreso.[lr]::
 72932::$$$message_0668_0022_0003$$$::...O velho não a enxerga.[lr]::
 72933::$$$message_0668_0022_0004$$$::Uma mulher no fundo das suas memórias.[lr]::
-72934::$$$message_0668_0022_0005$$$::A santa dourada dos Einzbern, que permaneceu em sua mente sem desvanecer.[lr]::
+72934::$$$message_0668_0022_0005$$$::A santa dourada dos Einzberns, que permaneceu em sua mente sem desvanecer.[lr]::
 72935::$$$message_0668_0022_0006$$$::[w l=3][line3]Duzentos anos atrás.[lr]::
 72936::$$$message_0668_0022_0007$$$::Sua parceira se sacrificou para criar o Santo Graal Maior.::
 72937::$$$message_0668_0023_0000$$$::"[w l=8][line8]"[lr]::
@@ -136,9 +136,9 @@ id=qid::label=str::text=lstr::
 72997::$$$message_0668_0036_0005$$$::[w l=3][line3]E...[lr]::
 72998::$$$message_0668_0036_0006$$$::O velho aceita que tudo está além do seu alcance.::
 72999::$$$message_0668_0037_0000$$$::"Então é isso.[lr]::
-73000::$$$message_0668_0037_0001$$$::Meu desejo, minha dor, a missão dos Makiri... tudo termina aqui."[lr]::
+73000::$$$message_0668_0037_0001$$$::Meu desejo, minha dor, a missão dos Makiris... tudo termina aqui."[lr]::
 73001::$$$message_0668_0037_0002$$$::Esse fim estava determinado desde o início.[lr]::
-73002::$$$message_0668_0037_0003$$$::Isso é tudo o que a jornada dos Makiri pode realizar, não importa onde terminasse.::
+73002::$$$message_0668_0037_0003$$$::Isso é tudo o que a jornada dos Makiris pode realizar, não importa onde terminasse.::
 73003::$$$message_0668_0038_0000$$$::"Ha[w l=4][line4]Haha, hahaha."[lr]::
 73004::$$$message_0668_0038_0001$$$::Mas.[lr]::
 73005::$$$message_0668_0038_0002$$$::De forma alguma é um fim miserável para uma vida cheia de dor.::
