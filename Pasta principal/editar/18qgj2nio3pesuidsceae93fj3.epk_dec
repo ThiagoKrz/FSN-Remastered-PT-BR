@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 3813::$$$message_0040_0000_0000$$$::Mesmo depois do almoço, fazemos a mesma coisa.[lr]::
 3814::$$$message_0040_0000_0001$$$::Eu inteiramente troco golpes com a Saber.[lr]::
-3815::$$$message_0040_0000_0002$$$::O treinamento que deveria continuar até a Tohsaka ou a Fuji-Nee chegar em casa é...[lr]::
+3815::$$$message_0040_0000_0002$$$::O treinamento que deveria continuar até a Tohsaka ou a Fuji-nee chegar em casa é...[lr]::
 3816::$$$message_0040_0000_0003$$$::...interrompido pela campainha me avisando que um visitante está aqui.::
 3817::$$$message_0040_0001_0000$$$::"Shirou, parece que alguém chegou."[lr]::
 3818::$$$message_0040_0001_0001$$$::"Sim, eu ouvi. Eu vou lá, então me espere aqui."[lr]::
@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 3823::$$$message_0040_0002_0001$$$::Porque supostamente deveria ser só eu morando aqui.[lr]::
 3824::$$$message_0040_0002_0002$$$::Mas....::
 3825::$$$message_0040_0003_0000$$$::"Bem, o que será será."[lr]::
-3826::$$$message_0040_0003_0001$$$::A Sakura e a Fuji-Nee vêm aqui frequentemente, então não devo começar a me preocupar com minha imagem agora.::
+3826::$$$message_0040_0003_0001$$$::A Sakura e a Fuji-nee vêm aqui frequentemente, então não devo começar a me preocupar com minha imagem agora.::
 3827::$$$message_0040_0004_0000$$$::"Certo, vamos, Saber. Mas fique quieta se o visitante for uma pessoa normal."[lr]::
 3828::$$$message_0040_0004_0001$$$::"Eu sei. Serei sua parente distante, correto?"[lr]::
 3829::$$$message_0040_0004_0002$$$::"Sim, vai servir."::
@@ -96,7 +96,7 @@ id=qid::label=str::text=lstr::
 3906::$$$message_0040_0036_0000$$$::"Claro. Ela é uma boa menina. É difícil não gostar dela."[lr]::
 3907::$$$message_0040_0036_0001$$$::"Sim. Entendo que ela é uma boa menina, mas ela é um pouco antissocial, né? Ela é sempre assim, então não quer dizer que ela não goste de você."::
 3908::$$$message_0040_0037_0000$$$::"Huh? Ela é antissocial?"[lr]::
-3909::$$$message_0040_0037_0001$$$::"Ela é. Ela não riu ainda. Ela não riu ainda. Ela sempre fez uma cara preocupada, mesmo enquanto estávamos rindo e conversando sobre a Fuji-Nee."[lr]::
+3909::$$$message_0040_0037_0001$$$::"Ela é. Ela não riu ainda. Ela não riu ainda. Ela sempre fez uma cara preocupada, mesmo enquanto estávamos rindo e conversando sobre a Fuji-nee."[lr]::
 3910::$$$message_0040_0037_0002$$$::"Não, ela estava sorrindo bastante."[lr]::
 3911::$$$message_0040_0037_0003$$$::"[line2]Huh?"::
 3912::$$$message_0040_0038_0000$$$::Isso é ridículo.[lr]::

@@ -42,7 +42,7 @@ id=qid::label=str::text=lstr::
 6726::$$$message_0060_0016_0001$$$::...Eu conheço o Shinji já faz cinco anos, mas nunca tinha o visto tão animado assim.::
 6727::$$$message_0060_0017_0000$$$::"Shinji, você..."[lr]::
 6728::$$$message_0060_0017_0001$$$::"Enfim, eu estou te esperando aqui no colégio. Seja rápido, Emiya. Se sair de casa agora, você deve chegar durante o sexto tempo. É a aula da Fujimura, ela não vai ligar se você chegar atrasado."::
-6729::$$$message_0060_0018_0000$$$::"Não, a Fuji-Nee também vai reclamar comigo se eu chegar atrasado. Além do mais, se eu chegar no sexto período, vou acabar levando uma bronca maior do que se tivesse faltado o dia inteiro."::
+6729::$$$message_0060_0018_0000$$$::"Não, a Fuji-nee também vai reclamar comigo se eu chegar atrasado. Além do mais, se eu chegar no sexto período, vou acabar levando uma bronca maior do que se tivesse faltado o dia inteiro."::
 6730::$$$message_0060_0019_0000$$$::"Isso é problema seu. Ah, e se você contar para a Tohsaka, a nossa amizade termina aqui. Eu ignorei o que você esteve fazendo com a Sakura durante todo esse tempo. Só que no fim das contas, você não vai deixar o seu amigo na mão, vai?"[wsay canskip=1]::
 6731::$$$message_0060_0020_0000$$$::A nossa conversa acabou.[lr]::
 6732::$$$message_0060_0020_0001$$$::O telefone está repetindo aquele barulho chato de ligação encerrada.::
@@ -175,7 +175,7 @@ id=qid::label=str::text=lstr::
 6859::$$$message_0060_0043_0000$$$::"Pare com isso! Você tem ideia do que está fazendo?"::
 6860::$$$message_0060_0044_0000$$$::"...Você já está me irritando. Acha que pode me dar ordens, hein?[lr]::
 6861::$$$message_0060_0044_0001$$$::Esse poder é meu. Sou eu que decido se vou pará-lo ou não. Se você quer tanto assim que eu pare, por que não se ajoelha e começa a implorar? Nossa, você e a Fujimura não sabem se colocar no seus lugares."::
-6862::$$$message_0060_0045_0000$$$::"[line2]Ei, o que a Fuji-Nee tem a ver com isso?"::
+6862::$$$message_0060_0045_0000$$$::"[line2]Ei, o que a Fuji-nee tem a ver com isso?"::
 6863::$$$message_0060_0046_0000$$$::"Hã? Ah sim, a Fujimura? Acontece que quando eu ativei o Campo de Separação, ela ainda conseguia se mexer muito bem. Os alunos estavam caindo no chão um atrás do outro, mas ela estava se aguentando em pé, sabia?[lr]::
 6864::$$$message_0060_0046_0001$$$::Foi quando ela veio até mim pedindo para eu chamar uma ambulância. Incrível, você não acha que ela é uma professora exemplar?"::
 6865::$$$message_0060_0047_0000$$$::"Mas eu não estava com a menor vontade de chamar uma ambulância. Mesmo assim, a Fujimura se agarrou e mim e continuou insistindo, até que eu perdi a paciência e dei um chute nela. Depois disso, ela não se mexeu mais![lr]::
@@ -203,4 +203,4 @@ id=qid::label=str::text=lstr::
 6887::$$$message_0060_0052_0000$$$::"[line5]"[lr]::
 6888::$$$message_0060_0052_0001$$$::Eu não sei que magia é essa.[lr]::
 6889::$$$message_0060_0052_0002$$$::Há três sombras.[lr]::
-6890::$$$message_0060_0052_0003$$$::Se é só isso, eu...[lr]:�.
+6890::$$$message_0060_0052_0003$$$::Se é só isso, eu...[lr]::

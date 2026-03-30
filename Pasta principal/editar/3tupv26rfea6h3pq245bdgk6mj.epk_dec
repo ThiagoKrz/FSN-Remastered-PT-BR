@@ -57,7 +57,7 @@ id=qid::label=str::text=lstr::
 51860::$$$message_0447_0020_0000$$$::"Cheguei. É um pouco cedo demais, mas estou de volta.[lr]::
 51861::$$$message_0447_0020_0001$$$::A Sakura está aqui, Rider?"[lr]::
 51862::$$$message_0447_0020_0002$$$::"[w l=3][line3]Sim. A Sakura está esperando no quarto dela, e a Taiga está esperando na sala de estar."::
-51863::$$$message_0447_0021_0000$$$::"Ah, a Fujimura-Sensei está aqui tambem? ...Ah, deve ser normal já que agora é férias de primavera. Então com licença. Devo ir à sala de estar?"[lr]::
+51863::$$$message_0447_0021_0000$$$::"Ah, a Fujimura-sensei está aqui tambem? ...Ah, deve ser normal já que agora é férias de primavera. Então com licença. Devo ir à sala de estar?"[lr]::
 51864::$$$message_0447_0021_0001$$$::"Sim. Irei buscar a Sakura."[lr]::
 51865::$$$message_0447_0021_0002$$$::Eu vou para o corredor.[lr]::
 51866::$$$message_0447_0021_0003$$$::Eu olho de relance pra Rider enquanto seguimos para a sala de estar.::
@@ -102,13 +102,13 @@ id=qid::label=str::text=lstr::
 51905::$$$message_0447_0037_0001$$$::Acho que ela está escolhendo a pessoa errada para o trabalho.[lr]::
 51906::$$$message_0447_0037_0002$$$::...Bom, arco e flecha tem essa imagem durona, então talvez seja bom apelar para as meninas mostrando o quão fácil é. ...Mas o irmão da Ayako, huh? Nem sabia que ela tinha um.::
 51907::$$$message_0447_0038_0000$$$::"Então, como é a vida lá? Estão pegando no seu pé por você ser japonesa? Sabe, as pessoas da Faculdade de Artes fazem amizade apenas competindo."::
-51908::$$$message_0447_0039_0000$$$::"Isso é apenas um estereótipo, Fujimura-Sensei. Ninguém que ama artes tem uma visão tão estreita assim."[lr]::
+51908::$$$message_0447_0039_0000$$$::"Isso é apenas um estereótipo, Fujimura-sensei. Ninguém que ama artes tem uma visão tão estreita assim."[lr]::
 51909::$$$message_0447_0039_0001$$$::"Ah, teehee. Levei um sermão."::
 51910::$$$message_0447_0040_0000$$$::...Eu não posso falar pra ela que eles só se importam consigo mesmos.[lr]::
-51911::$$$message_0447_0040_0001$$$::E pra piorar, as preocupações da Fujimura-Sensei estão 100% corretas por conta do departamento onde eu estou, mas é melhor eu ficar calada.::
+51911::$$$message_0447_0040_0001$$$::E pra piorar, as preocupações da Fujimura-sensei estão 100% corretas por conta do departamento onde eu estou, mas é melhor eu ficar calada.::
 51912::$$$message_0447_0041_0000$$$::...Espera.[lr]::
-51913::$$$message_0447_0041_0001$$$::Fujimura-Sensei está olhando pra mim e sorrindo.::
-51914::$$$message_0447_0042_0000$$$::"[w l=3][line3]O que foi, Fujimura-Sensei?"[lr]::
+51913::$$$message_0447_0041_0001$$$::Fujimura-sensei está olhando pra mim e sorrindo.::
+51914::$$$message_0447_0042_0000$$$::"[w l=3][line3]O que foi, Fujimura-sensei?"[lr]::
 51915::$$$message_0447_0042_0001$$$::"Hm? Só estava pensando que você ficou mais bonita. Você parece mais madura agora. Você encontrou algum bom pretendente lá?"::
 51916::$$$message_0447_0043_0000$$$::"[w l=8][line8]"[lr]::
 51917::$$$message_0447_0043_0001$$$::...Por que a conversa sempre termina nisso quando duas mulheres estão conversando? E ela é perspicaz também.::
@@ -148,14 +148,14 @@ id=qid::label=str::text=lstr::
 51951::$$$message_0447_0054_0003$$$::Afinal de contas, ela tem olhos místicos da petrificação.[lr]::
 51952::$$$message_0447_0054_0004$$$::Aposto que as suas roupas vão virar pedra se ela ficar brava com você.::
 51953::$$$message_0447_0055_0000$$$::...Ah.[lr]::
-51954::$$$message_0447_0055_0001$$$::Por que a Fujimura-Sensei não parece bem?::
-51955::$$$message_0447_0056_0000$$$::"Fujimura-Sensei?"[lr]::
+51954::$$$message_0447_0055_0001$$$::Por que a Fujimura-sensei não parece bem?::
+51955::$$$message_0447_0056_0000$$$::"Fujimura-sensei?"[lr]::
 51956::$$$message_0447_0056_0001$$$::"Eh? Ah, o que foi? Desculpa, eu não estava prestando atenção."::
 51957::$$$message_0447_0057_0000$$$::"Não é nada... você estava tão quieta que eu fiquei preocupada."[lr]::
 51958::$$$message_0447_0057_0001$$$::"Ah, sim...[lr]::
 51959::$$$message_0447_0057_0002$$$::Vendo vocês duas conversando me fez lembrar do Shirou. Seria melhor pra ele se ele estivesse aqui agora, mas ele está perdendo o momento que mais importa."::
 51960::$$$message_0447_0058_0000$$$::"Puxa, o Shirou está atrasado. Quando que ele vai chegar em casa?"[lr]::
-51961::$$$message_0447_0058_0001$$$::Fujimura-Sensei olha pela janela segurando uma caneca na mão.[lr]::
+51961::$$$message_0447_0058_0001$$$::Fujimura-sensei olha pela janela segurando uma caneca na mão.[lr]::
 51962::$$$message_0447_0058_0002$$$::Ela está olhando para o distante.[lr]::
 51963::$$$message_0447_0058_0003$$$::Ela está olhando para o céu azul e limpo.::
 51964::$$$message_0447_0059_0000$$$::"Ah, o clima ficou meio desconfortável.[lr]::
@@ -163,7 +163,7 @@ id=qid::label=str::text=lstr::
 51966::$$$message_0447_0059_0002$$$::"Isso não é verdade. Fico feliz em ver você falando sobre o Senpai."::
 51967::$$$message_0447_0060_0000$$$::"Ah, você não pode mais falar isso, Sakura-chan. O Shirou não é mais o seu Senpai.[lr]::
 51968::$$$message_0447_0060_0001$$$::...Bom, de qualquer forma, estou com vontade de me exercitar. Vou ir treinar um pouco com uma shinai no dojo."[lr]::
-51969::$$$message_0447_0060_0002$$$::Talvez a Fujimura-Sensei esteja sendo delicada.::
+51969::$$$message_0447_0060_0002$$$::Talvez a Fujimura-sensei esteja sendo delicada.::
 51970::$$$message_0447_0061_0000$$$::[w l=3][line3]Bom.[lr]::
 51971::$$$message_0447_0061_0001$$$::Fico feliz de saber que ela está pensando na gente, mas agora eu não sei como começar uma conversa.::
 51972::$$$message_0447_0062_0000$$$::"...Ah que seja. Não preciso me preocupar com coisas assim.[lr]::
@@ -299,7 +299,7 @@ id=qid::label=str::text=lstr::
 52102::$$$message_0447_0114_0001$$$::"Não. Nós conseguimos nos formar juntos, graças a você."::
 52103::$$$message_0447_0115_0000$$$::Entendi.[lr]::
 52104::$$$message_0447_0115_0001$$$::Então não há mais nada que eu possa fazer.[lr]::
-52105::$$$message_0447_0115_0002$$$::...Bom, ele não precisava da nossa ajuda de qualquer jeito, mas eu consegui inventar algumas desculpas do porquê ele faltou da escola por um ano para enganar a Fujimura-Sensei.::
+52105::$$$message_0447_0115_0002$$$::...Bom, ele não precisava da nossa ajuda de qualquer jeito, mas eu consegui inventar algumas desculpas do porquê ele faltou da escola por um ano para enganar a Fujimura-sensei.::
 52106::$$$message_0447_0116_0000$$$::Então.[lr]::
 52107::$$$message_0447_0116_0001$$$::Se você me perguntasse o motivo dele ainda estar vivo, eu tenho que dizer que é magia.::
 52108::$$$message_0447_0117_0000$$$::O corpo do Emiya Shirou foi destruído.[lr]::

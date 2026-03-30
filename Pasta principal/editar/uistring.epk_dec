@@ -1113,7 +1113,7 @@ id=qid::label=str::string=lstr::
 100439::40_prof_01a_03::187cm::
 100440::40_prof_01a_04::78kg::
 100441::40_skiil_01a::Clarividência: C::
-100442::40_skiil_01b::Feitiçaria: C-::
+100442::40_skiil_01b::Magia: C-::
 100443::40_skiil_01c::Olho da Mente (Ver.): B::
 100444::40_abi_02a::Resistência Mágica: C::
 100445::40_deta_02a::Cú Chulainn::
@@ -1304,7 +1304,7 @@ id=qid::label=str::string=lstr::
 100630::41_atrus_06a_01::Rule Breaker::
 100631::41_atrus_06a_02::Todas as Magias Devem Ser Quebradas::
 100632::41_atrus_06a_03::Rank: C::
-100633::41_atrus_06a_04::Tipo NP: Anti-Feitiçaria::
+100633::41_atrus_06a_04::Tipo NP: Anti-Magia::
 100634::41_atrus_06a_05::Alcance: 1::
 100635::41_atrus_06a_06::Máx. alvos: 1 pessoa::
 100636::41_atrus_07a_01::Breaker Gorgon::
@@ -2060,4 +2060,5 @@ id=qid::label=str::string=lstr::
 101405::g_rned_font01-2::Caminhe em direção ao futuro.::
 101406::g_rned_font01-3::Viva dias ocupados sem bússola para guiá-lo.::
 101407::g_rned_font01-4::Depois de viajar para países exóticos distantes...::
-101408::g_rned_font01-5::Você retornará para onde pertence, em um dia ensolarado.::�
+101408::g_rned_font01-5::Você retornará para onde pertence, em um dia ensolarado.::
+

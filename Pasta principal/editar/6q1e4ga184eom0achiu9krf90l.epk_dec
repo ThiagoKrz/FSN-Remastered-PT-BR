@@ -1,14 +1,14 @@
 DAT
 id=qid::label=str::text=lstr::
-8239::$$$message_0081_0000_0000$$$::Ainda preocupado com a conversa que tive esta manhã, me dirigi ao clube de tiro com arco sem perceber.[lr]::
+8239::$$$message_0081_0000_0000$$$::Ainda preocupado com a conversa que tive esta manhã, vou ao clube de arco e flecha sem perceber.[lr]::
 8240::$$$message_0081_0000_0001$$$::"Caramba, o que eu tô fazendo?"[lr]::
 8241::$$$message_0081_0000_0002$$$::De acordo com a Mitsuzuri, a Tohsaka Rin vem bastante aqui.[lr]::
 8242::$$$message_0081_0000_0003$$$::Bem, não me importo tanto com isso, mas sei que o Shinji ficando irritado com ela vai ser um problema.::
 8243::$$$message_0081_0001_0000$$$::"...O Shinji não para quando ele fica nervoso...."[lr]::
-8244::$$$message_0081_0001_0001$$$::Seria ruim caso ele ficasse violento por ela o ter recusado.[lr]::
-8245::$$$message_0081_0001_0002$$$::...Não sei o porquê de ser ruim, simplesmente é.[lr] Sinto-me mal imaginando isso, então tenho que impedir acontecer.::
+8244::$$$message_0081_0001_0001$$$::Seria ruim caso ele ficasse violento por ela o ter rejeitado.[lr]::
+8245::$$$message_0081_0001_0002$$$::...Não sei o porquê de ser ruim, simplesmente é. Sinto-me mal imaginando isso, então tenho que impedir acontecer.::
 8246::$$$message_0081_0002_0000$$$::"Oh, A Tohsaka não está lá."[lr]::
-8247::$$$message_0081_0002_0001$$$::A Tohsaka não está por lá.[lr]::
+8247::$$$message_0081_0002_0001$$$::A Tohsaka não está em nenhum lugar por aqui.[lr]::
 8248::$$$message_0081_0002_0002$$$::As preocupações da Mitsuzuri foram desnecessárias.::
 8249::$$$message_0081_0003_0000$$$::"Oh, quem não está lá?"[lr]::
 8250::$$$message_0081_0003_0001$$$::"...!!"::
@@ -19,11 +19,11 @@ id=qid::label=str::text=lstr::
 8255::$$$message_0081_0005_0002$$$::Então, quem não está lá?"[lr]::
 8256::$$$message_0081_0005_0003$$$::"Tohsaka. Ouvi que ela teve uma discussão com o Shinji ontem, então vim ver como as coisas estavam."::
 8257::$$$message_0081_0006_0000$$$::"Oh, uau, isto é suspeito. Você deu seus motivos sem que eu perguntasse. Só perguntei quem não estava aqui."::
-8258::$$$message_0081_0007_0000$$$::"...! O-O quê? O que eu faço ou deixo de fazer não devia te preocupar."::
+8258::$$$message_0081_0007_0000$$$::"...! O-O quê? Qual o problema? O que eu faço ou deixo de fazer não devia te preocupar."::
 8259::$$$message_0081_0008_0000$$$::"Sim, é verdade. Mas é inútil, Emiya. A Tohsaka não vai estar aqui, porque ela cabulou hoje."[lr]::
 8260::$$$message_0081_0008_0001$$$::"O quê?"[lr]::
 8261::$$$message_0081_0008_0002$$$::Cabulou... Então, ela faltou aula hoje?::
-8262::$$$message_0081_0009_0000$$$::"Entendo, ela faltou... Espera, Issei. Como você sabe que ela fez isso? Não acho que ela faria tal coisa."[lr]::
+8262::$$$message_0081_0009_0000$$$::"Entendo, ela faltou... Espera, Issei. Como você sabe que a Tohsaka fez isso? Não acho que ela faria tal coisa."[lr]::
 8263::$$$message_0081_0009_0001$$$::"É claro que ela o faria. Duvido que tenha ficado resfriada e, no meu ver, ela é do mal. Você será devorado se deixar a aparência dela enganá-lo, Emiya."::
 8264::$$$message_0081_0010_0000$$$::"Hm."[lr]::
 8265::$$$message_0081_0010_0001$$$::Por algum motivo, as palavras do Issei me irritam.[lr]::
@@ -33,44 +33,44 @@ id=qid::label=str::text=lstr::
 8269::$$$message_0081_0012_0001$$$::"...!"[lr]::
 8270::$$$message_0081_0012_0002$$$::A-Atrás da Tohsaka!? Quem disse isso!?::
 8271::$$$message_0081_0013_0000$$$::"N-Não tire conclusões precipitadas! Só achei que seria ruim se o Shinji causasse problemas de novo."::
-8272::$$$message_0081_0014_0000$$$::"Então você estava planejando impedir que o Shinji atacasse a Tohsaka, huh? Você está fazendo um papel não recompensador de novo. ...Eu não me importo, mas você tem um gosto ruim, Emiya."::
+8272::$$$message_0081_0014_0000$$$::"Então você estava planejando impedir que o Shinji atacasse a Tohsaka, huh? Você está fazendo um papel não recompensador de novo. Eu não me importo, mas você tem um gosto ruim, Emiya."::
 8273::$$$message_0081_0015_0000$$$::"Como é não recompensador se eu sequer o fiz? Mas, Issei, você não disse algo estranho?"[lr]::
 8274::$$$message_0081_0015_0001$$$::"Huh? Você quer dizer sobre a parte da ir atrás da Tohsaka ser algo ruim?"::
 8275::$$$message_0081_0016_0000$$$::"É. Mesmo a Tohsaka sendo muito popular, nunca ouvi nenhum rumor ruim sobre ela."[lr]::
 8276::$$$message_0081_0016_0001$$$::"Sim, nenhum. E é exatamente isso o que eu não gosto sobre ela."::
 8277::$$$message_0081_0017_0000$$$::"O que você não gosta sobre ela?"[lr]::
-8278::$$$message_0081_0017_0001$$$::"Tudo. A mulher é uma cobra, garota de escola e um monstro. Eu só não gosto dela pessoalmente. Não vou chegar a falar nada ruim sobre, mas você deveria tentar odiá-la também."::
+8278::$$$message_0081_0017_0001$$$::"Tudo. A mulher é uma cobra, sirigaita e um monstro. Eu só não gosto dela por instinto. Não vou chegar a falar nada ruim sobre, mas você deveria tentar odiá-la também."::
 8279::$$$message_0081_0018_0000$$$::"Issei, você não diz sempre que não devemos falar mal das pessoas pelas costas?"[lr]::
 8280::$$$message_0081_0018_0001$$$::"Idiota, isto não conta como falar mal pelas costas. Estou falando para que ela possa ouvir também."::
-8281::$$$message_0081_0019_0000$$$::Ah, não é à toa que sinto os olhos de alguém no dojo de tiro com arco.[lr]::
+8281::$$$message_0081_0019_0000$$$::Ah, não é à toa que sinto os olhos de alguém no dojo de arco e flecha.[lr]::
 8282::$$$message_0081_0019_0001$$$::...Graças a Deus.[lr]::
-8283::$$$message_0081_0019_0002$$$::Estou tão feliz que a Tohsaka tenha faltado hoje.::
+8283::$$$message_0081_0019_0002$$$::A Tohsaka ter faltado hoje foi melhor.::
 8284::$$$message_0081_0020_0000$$$::"Por favor, Issei. Restrinja-se a falar por trás das pessoas."[lr]::
 8285::$$$message_0081_0020_0001$$$::"Certo, se você diz.[lr]::
 8286::$$$message_0081_0020_0002$$$::Mas eu não estava insultando ela. Só estava dizendo que estou de olho nela. Isso deve estar dentro dos meus direitos."::
 8287::$$$message_0081_0021_0000$$$::"Mas você estava dizendo coisas como monstro e cobra..."[lr]::
-8288::$$$message_0081_0021_0001$$$::...E acho que o termo "garota de escola" é discriminação.::
+8288::$$$message_0081_0021_0001$$$::...E acho que o termo "sirigaita" é discriminação.::
 8289::$$$message_0081_0022_0000$$$::"Não, foram elogios. Há cobras e monstros bons também.[lr]::
 8290::$$$message_0081_0022_0001$$$::Só apliquei os termos para descrever a Tohsaka."[lr]::
 8291::$$$message_0081_0022_0002$$$::"Katsu."[lr]::
 8292::$$$message_0081_0022_0003$$$::Issei sorri.::
 8293::$$$message_0081_0023_0000$$$::"Bem, eu vou me retirar. Estou voltando para a sala do conselho estudantil, mas você vai trabalhar, não é? Não deve ter tempo para matar por aí assim."::
-8294::$$$message_0081_0024_0000$$$::Deve estar se sentindo melhor agora que disse tudo o que queria, ele sai calmamente.[lr]::
-8295::$$$message_0081_0024_0001$$$::O conheço já faz 2 anos, mas ainda não entendo sua personalidade.::
+8294::$$$message_0081_0024_0000$$$::Ele sai calmamente, deve estar se sentindo melhor agora que disse tudo o que queria.[lr]::
+8295::$$$message_0081_0024_0001$$$::Conheço ele já faz 2 anos, mas ainda não entendo sua personalidade.::
 8296::$$$message_0081_0025_0000$$$::Vinte minutos depois de pegar o ônibus na escola,[lr]::
 8297::$$$message_0081_0025_0001$$$::eu chego na cidade vizinha, Shinto, do outro lado da ponte.::
 8298::$$$message_0081_0026_0000$$$::"...Oh, não são cinco horas ainda? Acho que tenho tempo."[lr]::
 8299::$$$message_0081_0026_0001$$$::A Cidade de Miyama é um distrito residencial, então não há trabalhos de meio período lá. Mas há vários em Shinto, a cidade vizinha que está em desenvolvimento.[lr]::
 8300::$$$message_0081_0026_0002$$$::A escola aprova que os estudantes trabalhem em meio período, então eu arranjo alguns bicos fáceis.::
 8301::$$$message_0081_0027_0000$$$::Prefiro trabalho físico e que acabe o mais rápido possível.[lr]::
-8302::$$$message_0081_0027_0001$$$::É como matar dois coelhos com uma cajadada só, já que defino meu corpo enquanto sou pago por isso.::
+8302::$$$message_0081_0027_0001$$$::É como matar dois coelhos com uma cajadada só, já que treino meu corpo enquanto sou pago por isso.::
 8303::$$$message_0081_0028_0000$$$::O trabalho de hoje é um simples carregamento das cinco às oito.[lr]::
-8304::$$$message_0081_0028_0001$$$::Mesmo que sejam só três horas, há seis horas de trabalho a fazer. Eles fazem você trabalhar sem um minuto de descanso.::
+8304::$$$message_0081_0028_0001$$$::Mesmo que sejam só três horas, é o equivalente de seis horas de trabalho a fazer. Eles fazem você trabalhar sem um minuto de descanso.::
 8305::$$$message_0081_0029_0000$$$::Então eu devo descansar quando posso, mesmo que só por dez minutos.[lr]::
 8306::$$$message_0081_0029_0001$$$::É um desperdício de energia andar por aí até dar a hora do trabalho, então acho que vou descansar no parque.::
 8307::$$$message_0081_0030_0000$$$::Esse parque entre os prédios é como um grande campo.[lr]::
 8308::$$$message_0081_0030_0001$$$::Um parque deveria ser cheio de pessoas como famílias e namorados no final de semana, mas está vazio aqui.[lr]::
-8309::$$$message_0081_0030_0002$$$::[line3]Esse lugar sempre foi deserto.::
+8309::$$$message_0081_0030_0002$$$::[line3]Na verdade, não importa a hora. Esse lugar sempre foi deserto.::
 8310::$$$message_0081_0031_0000$$$::"Esse lugar é sempre o mesmo."[lr]::
 8311::$$$message_0081_0031_0001$$$::Estou um pouco triste.[lr]::
 8312::$$$message_0081_0031_0002$$$::O chão totalmente negligenciado parece horrível comparado ao redor bem organizado.[lr]::
@@ -86,7 +86,7 @@ id=qid::label=str::text=lstr::
 8322::$$$message_0081_0033_0004$$$::E que pessoas morreram tentando salvar as outras.::
 8323::$$$message_0081_0034_0000$$$::"Me pergunto o porquê...?"[lr]::
 8324::$$$message_0081_0034_0001$$$::Por exemplo, um adulto tentou salvar uma criança da casa que estava queimando. Ele salvou a criança, mas morreu no lugar dela.[lr]::
-8325::$$$message_0081_0034_0002$$$::Houve pessoas que tiveram suas gargantas queimadas, mas algumas pessoas deram o pouco de água que tinham para um dos que haviam se queimado, e os outros morreram.[lr]::
+8325::$$$message_0081_0034_0002$$$::Houve pessoas que tiveram suas gargantas queimadas, mas outros deram o pouco de água que tinham para um dos que haviam se queimado, enquanto pessoas na mesma situação morriam.[lr]::
 8326::$$$message_0081_0034_0003$$$::Lembro-me que havia alguém correndo sozinho para fugir do fogo o mais rápido possível, e todos pelos quais ele passou no caminho morreram.::
 8327::$$$message_0081_0035_0000$$$::E também...[lr]::
 8328::$$$message_0081_0035_0001$$$::Pessoas que morreram porque cederam algo que necessitavam para sobreviver, apenas para salvar estranhos que sequer conheciam.::
@@ -95,14 +95,14 @@ id=qid::label=str::text=lstr::
 8331::$$$message_0081_0036_0002$$$::Me deixa nervoso saber que aqueles que deram o seu melhor foram sacrificados.[lr]::
 8332::$$$message_0081_0036_0003$$$::Sou ganancioso por querer um final onde todos estão seguros e felizes?[lr]::
 8333::$$$message_0081_0036_0004$$$::Tudo que eu queria era ver as pessoas relaxarem tranquilamente, então por que não consegui algo tão simples?::
-8334::$$$message_0081_0037_0000$$$::'Isso é difícil. O que você quer é salvar a todos.'::
+8334::$$$message_0081_0037_0000$$$::'Isso é difícil. Shirou, o que você está dizendo, é que você quer é salvar a todos.'::
 8335::$$$message_0081_0038_0000$$$::O Kiritsugu me respondeu assim quando perguntei isso a ele.[lr]::
 8336::$$$message_0081_0038_0001$$$::É claro, como criança, eu neguei isso.[lr]::
 8337::$$$message_0081_0038_0002$$$::Porque o Kiritsugu me salvou. Eu achava que ele era um mago que podia fazer qualquer coisa.[lr]::
 8338::$$$message_0081_0038_0003$$$::Achava que ele era um super-herói que não podia ignorar as pessoas em perigo, que as salvava sem querer algo em troca.[lr]::
 8339::$$$message_0081_0038_0004$$$::Então, eu acreditava que o Kiritsugu podia ter salvado a todos naquela hora.::
 8340::$$$message_0081_0039_0000$$$::Quando eu lhe disse isso, ele fez uma expressão incomodada e disse algo de que me lembro até hoje:::
-8341::$$$message_0081_0040_0000$$$::'Shirou, salvar uma pessoa significa não salvar outra. Olha, um super-herói só pode salvar as pessoas ao seu alcance. É óbvio, mas isso que é ser um super-herói.'::
+8341::$$$message_0081_0040_0000$$$::'Shirou, salvar uma pessoa significa não salvar outra. Olha, ser salvo por um super-herói só significa que você foi um dos poucos que o herói conseguiu alcançar. É óbvio, mas isso que é ser um super-herói.'::
 8342::$$$message_0081_0041_0000$$$::Eu entendo isso.[lr]::
 8343::$$$message_0081_0041_0001$$$::É bem óbvio, agora que ele disse.[lr]::
 8344::$$$message_0081_0041_0002$$$::Vamos supor que há um ladrão e alguns reféns, e que o ladrão planeja matar os reféns.[lr]::
@@ -120,8 +120,8 @@ id=qid::label=str::text=lstr::
 8356::$$$message_0081_0044_0003$$$::Você tem que ajudar, não importa o quão impossível seja.[lr]::
 8357::$$$message_0081_0044_0004$$$::Não posso aguentar estranhos morrendo ao meu redor daquele jeito.::
 8358::$$$message_0081_0045_0000$$$::Então, se eu estivesse lá há dez anos, mesmo que fosse impossível, eu teria entrado naquele incêndio e...[lr]::
-8359::$$$message_0081_0045_0001$$$::"Eu provavelmente morreria em vão."[lr]::
-8360::$$$message_0081_0045_0002$$$::Isto é certeza.[lr]::
+8359::$$$message_0081_0045_0001$$$::"Eu teria morrido em vão, com certeza."[lr]::
+8360::$$$message_0081_0045_0002$$$::Isto é um fato.[lr]::
 8361::$$$message_0081_0045_0003$$$::Caramba, eu não tenho jeito.::
 8362::$$$message_0081_0046_0000$$$::"Gah, já são cinco horas."[lr]::
 8363::$$$message_0081_0046_0001$$$::O sino das cinco toca.[lr]::
@@ -129,10 +129,10 @@ id=qid::label=str::text=lstr::
 8365::$$$message_0081_0047_0000$$$::Quando meu trabalho terminou, o sol já havia se posto.[lr]::
 8366::$$$message_0081_0047_0001$$$::Falta um pouco pras oito.[lr]::
 8367::$$$message_0081_0047_0002$$$::Terminei dez minutos mais cedo porque trabalhei demais.[lr]::
-8368::$$$message_0081_0047_0003$$$::Parece que eu trabalhei freneticamente já que fui para aquele lugar antes do trabalho.::
+8368::$$$message_0081_0047_0003$$$::Talvez seja porque eu parei no parque antes. Aquilo deve ter me motivado a se esforçar freneticamente.::
 8369::$$$message_0081_0048_0000$$$::Aqui na frente da estação, a noite apenas começou.[lr]::
-8370::$$$message_0081_0048_0001$$$::Há várias pessoas e um fluxo constante de carros na rua.[lr] Os prédios ainda estão acesos, e só de olhar para eles, sinto como se estivesse vendo um grande festival de iluminação.::
-8371::$$$message_0081_0049_0000$$$::"Acho que não tenho que comprar algo pra Fuji-Nee."[lr]::
+8370::$$$message_0081_0048_0001$$$::Há várias pessoas e um fluxo constante de carros na rua. Os prédios ainda estão acesos, e só de olhar para eles, sinto como se estivesse vendo um grande festival de iluminação.::
+8371::$$$message_0081_0049_0000$$$::"Acho que não tenho que comprar algo pra Fuji-nee."[lr]::
 8372::$$$message_0081_0049_0001$$$::Eu ando enquanto olho em direção ao prédio iluminado.[lr]::
 8373::$$$message_0081_0049_0002$$$::É o maior prédio em Shinto, então não posso ver o topo direito.[lr]::
 8374::$$$message_0081_0049_0003$$$::Apenas olho vagamente para o prédio, aproveitando o cenário noturno...[lr]::
@@ -142,8 +142,8 @@ id=qid::label=str::text=lstr::
 8378::$$$message_0081_0050_0001$$$::Eu paro e olho o telhado.[lr]::
 8379::$$$message_0081_0050_0002$$$::Eu foco meus olhos, olhando para algo tão pequeno quanto um grão de arroz.::
 8380::$$$message_0081_0051_0000$$$::"[line6]"[lr]::
-8381::$$$message_0081_0051_0001$$$::Parece com alguém que eu conheço.::
-8382::$$$message_0081_0052_0000$$$::Por que ela está lá?[lr] O que ela poderia estar fazendo ali?[lr]::
+8381::$$$message_0081_0051_0001$$$::Parece alguém que eu conheço.::
+8382::$$$message_0081_0052_0000$$$::Por que ela está lá? O que ela poderia estar fazendo ali?[lr]::
 8383::$$$message_0081_0052_0001$$$::Com seu longo cabelo balançando ao vento e fazendo nada,[lr]::
 8384::$$$message_0081_0052_0002$$$::ela olha para a cidade abaixo.::
 8385::$$$message_0081_0053_0000$$$::"......"[lr]::
@@ -166,4 +166,5 @@ id=qid::label=str::text=lstr::
 8402::$$$message_0081_0056_0001$$$::Não há tantas garotas com aparência tão indiscreta, e além disso, não sou burro o bastante para confundir a garota que admiro secretamente.::
 8403::$$$message_0081_0057_0000$$$::"...Entendo. Mas ainda..."[lr]::
 8404::$$$message_0081_0057_0001$$$::Bem, é...[lr]::
-8405::$$$message_0081_0057_0002$$$::A Tohsaka com certeza tem costumes estranhos.NT�
+8405::$$$message_0081_0057_0002$$$::A Tohsaka com certeza tem costumes estranhos.::
+

@@ -2,11 +2,11 @@ DAT
 id=qid::label=str::text=lstr::
 61174::$$$message_0560_0000_0000$$$::"Ah, certo."[lr]::
 61175::$$$message_0560_0000_0001$$$::Há um pouco de dorayaki, e panquecas com pasta de feijão, que comprei por impulso.[lr]::
-61176::$$$message_0560_0000_0002$$$::Nos meus esforços para impedir a Fuji-Nee de encontrá-los, escondi-os tão bem que até mesmo eu esqueci deles.::
+61176::$$$message_0560_0000_0002$$$::Nos meus esforços para impedir a Fuji-nee de encontrá-los, escondi-os tão bem que até mesmo eu esqueci deles.::
 61177::$$$message_0560_0001_0000$$$::"Senpai? O que você está fazendo, abrindo a geladeira?"[lr]::
 61178::$$$message_0560_0001_0001$$$::"Bem, estava pensando em retribuir o favor pra você."::
 61179::$$$message_0560_0002_0000$$$::Olho bem no fundo, atrás dos vegetais.[lr]::
-61180::$$$message_0560_0002_0001$$$::Graças aos anos de prática em esconder coisas da Fuji-Nee, escondi os doces onde eu pudesse encontrá-los antes de vencerem.::
+61180::$$$message_0560_0002_0001$$$::Graças aos anos de prática em esconder coisas da Fuji-nee, escondi os doces onde eu pudesse encontrá-los antes de vencerem.::
 61181::$$$message_0560_0003_0000$$$::"...Huh? Por que tem uma sacola do Edomaeya no compartimento de vegetais?"[lr]::
 61182::$$$message_0560_0003_0001$$$::A Sakura olha para a sacola surpresa e ansiosa.::
 61183::$$$message_0560_0004_0000$$$::Falando nisso, Edomaeya é uma barraca que vende dorayaki, taiyaki, e takoyaki.[lr]::
@@ -14,7 +14,7 @@ id=qid::label=str::text=lstr::
 61185::$$$message_0560_0004_0002$$$::E ainda, a Sakura ama muito a comida de lá.::
 61186::$$$message_0560_0005_0000$$$::"H-Há bastante aí. Pensei que eram batatas."::
 61187::$$$message_0560_0006_0000$$$::"Foi assim que os camuflei. Imaginei que esqueceria deles, então os coloquei onde seriam achados quando acabassem nossas cenouras."[lr]::
-61188::$$$message_0560_0006_0001$$$::Eu tiro a bomba relógio contra a Fuji-Nee.::
+61188::$$$message_0560_0006_0001$$$::Eu tiro a bomba relógio contra a Fuji-nee.::
 61189::$$$message_0560_0007_0000$$$::"Então vamos comer eles como bobagens. Ah, ou devemos fazer um lanchinho de meio de tarde?[lr]::
 61190::$$$message_0560_0007_0001$$$::Acabamos de comer, então vocês duas devem estar cheias."[lr]::
 61191::$$$message_0560_0007_0002$$$::Coloco a sacola de papel na bandeja para não esquecer dela.::
@@ -79,4 +79,4 @@ id=qid::label=str::text=lstr::
 61250::$$$message_0560_0028_0000$$$::Embora eu tenha acabado de me recuperar, não podemos pender tempo.[lr]::
 61251::$$$message_0560_0028_0001$$$::Habilidade mágica não melhora com só um dia de treinamento, mas habilidade física deve ser outra história.[lr]::
 61252::$$$message_0560_0028_0002$$$::Não seria problema treinar até a hora de jantar.::
-%H��
+�

@@ -66,7 +66,7 @@ id=qid::label=str::text=lstr::
 55600::$$$message_0493_0026_0000$$$::"U-Um... onde você está indo, Senpai? Nós precisamos tomar café da manhã antes de ir para a escola."::
 55601::$$$message_0493_0027_0000$$$::A Sakura ainda não percebeu a situação.[lr]::
 55602::$$$message_0493_0027_0001$$$::Ela devia estar se sentindo toda animada por causa da febre.::
-55603::$$$message_0493_0028_0000$$$::"Você não vai para a escola. Hoje você vai ficar descansando no seu quarto. Pode deixar que eu vou avisá-los. Vou me encontrar com a Fuji-Nee durante a aula, daí eu aviso a ela."::
+55603::$$$message_0493_0028_0000$$$::"Você não vai para a escola. Hoje você vai ficar descansando no seu quarto. Pode deixar que eu vou avisá-los. Vou me encontrar com a Fuji-nee durante a aula, daí eu aviso a ela."::
 55604::$$$message_0493_0029_0000$$$::"Eh[w l=4][line4]Eu vou faltar aula hoje?"[lr]::
 55605::$$$message_0493_0029_0001$$$::"Sim. Quem mais iria? Eu estou... na verdade, eu estou machucado, mas vou ficar bem. Não preciso ficar em casa."[lr]::
 55606::$$$message_0493_0029_0002$$$::"[w l=8][line8]"::
@@ -107,7 +107,7 @@ id=qid::label=str::text=lstr::
 55641::$$$message_0493_0042_0001$$$::...Eu não posso trocar a roupa da Sakura e nem secá-la.::
 55642::$$$message_0493_0043_0000$$$::A respiração da Sakura ficou mais calma depois que ela se deitou na cama. Ela deve ficar melhor assim que tomar o remédio para febre.[lr]::
 55643::$$$message_0493_0043_0001$$$::Quando ela puder andar novamente, eu poderei levá-la ao hospital para conseguir os medicamentos.::
-55644::$$$message_0493_0044_0000$$$::"Sakura. Eu vou buscar alguém para tomar conta de você, então durma por enquanto. Você está acostumada com as empregadas da Fuji-Nee, não está?"[lr]::
+55644::$$$message_0493_0044_0000$$$::"Sakura. Eu vou buscar alguém para tomar conta de você, então durma por enquanto. Você está acostumada com as empregadas da Fuji-nee, não está?"[lr]::
 55645::$$$message_0493_0044_0001$$$::"[w l=8][line8]"[lr]::
 55646::$$$message_0493_0044_0002$$$::Ela não responde.[lr]::
 55647::$$$message_0493_0044_0003$$$::A respiração da Sakura ainda soa dolorosa, mas parece que agora ela está dormindo.::
@@ -127,11 +127,12 @@ id=qid::label=str::text=lstr::
 55661::$$$message_0493_0048_0001$$$::Mas quando eu estou saindo...::
 55662::$$$message_0493_0049_0000$$$::"......Porque eu tenho que proteger o Senpai."::
 55663::$$$message_0493_0050_0000$$$::Ela diz isso com uma voz enfraquecida pela febre.::
-55664::$$$message_0493_0051_0000$$$::Eu passo pela casa da Fuji-Nee no caminho da escola para pedir que uma das empregadas vá até lá em casa.[lr]::
-55665::$$$message_0493_0051_0001$$$::Às vezes eu me esqueço disso pois a Fuji-Nee não é do tipo que usa roupas elegantes, mas a família Fujimura é uma das mais ricas da região.::
+55664::$$$message_0493_0051_0000$$$::Eu passo pela casa da Fuji-nee no caminho da escola para pedir que uma das empregadas vá até lá em casa.[lr]::
+55665::$$$message_0493_0051_0001$$$::Às vezes eu me esqueço disso pois a Fuji-nee não é do tipo que usa roupas elegantes, mas a família Fujimura é uma das mais ricas da região.::
 55666::$$$message_0493_0052_0000$$$::Eles têm dezenas de pessoas assustadoras que dizem ser funcionários da empresa, mesmo eles não sendo uma empresa propriamente dita.[lr]::
 55667::$$$message_0493_0052_0001$$$::Muitos deles vivem em casas externas, portanto eles são considerados uma família grande.[lr]::
 55668::$$$message_0493_0052_0002$$$::Eles possuem várias empregadas, então certamente uma delas deve estar livre para ir até a minha casa.::
 55669::$$$message_0493_0053_0000$$$::[w l=3][line3]E assim.[lr]::
 55670::$$$message_0493_0053_0001$$$::Eu busquei uma das empregadas que ficam à disposição em caso de emergência. Era ela que cuidava da minha casa antes da Sakura começar a me visitar.[lr]::
-55671::$$$message_0493_0053_0002$$$::Ela já conhece a Sakura, portanto eu posso confiar nessa empregada para cuidar dela.::s��
+55671::$$$message_0493_0053_0002$$$::Ela já conhece a Sakura, portanto eu posso confiar nessa empregada para cuidar dela.::
++

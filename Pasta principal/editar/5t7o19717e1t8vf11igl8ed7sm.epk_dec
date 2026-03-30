@@ -6,15 +6,15 @@ id=qid::label=str::text=lstr::
 37436::$$$message_0320_0001_0001$$$::"Você tá errado. A Sakura-chan me deixou no comando, então eu vou cozinhar hoje. Eu vou cozinhar pra nós três, então você pode ir acordar a Saber-chan?"::
 37437::$$$message_0320_0002_0000$$$::"[line8]"[lr]::
 37438::$$$message_0320_0002_0001$$$::Uau, eu tô surpreso.[lr]::
-37439::$$$message_0320_0002_0002$$$::Eu não sei sobre a escolha de comida dela, mas a Fuji-Nee tá agindo como uma mulher, huh?::
+37439::$$$message_0320_0002_0002$$$::Eu não sei sobre a escolha de comida dela, mas a Fuji-nee tá agindo como uma mulher, huh?::
 37440::$$$message_0320_0003_0000$$$::"Sim. Você deve conseguir cozinhar se você for tão velha assim. Huh...? Por que você tá cozinhando arroz, Fuji-nee? Você não precisa de arroz como okonomiyaki."::
 37441::$$$message_0320_0004_0000$$$::"Nós precisamos. Eu tô fazendo kani-tama, então vai ser só um omelete se a gente não fizer arroz."[lr]::
-37442::$$$message_0320_0004_0001$$$::A Fuji-Nee quebra um ovo enquanto ela fala isso.[lr]::
+37442::$$$message_0320_0004_0001$$$::A Fuji-nee quebra um ovo enquanto ela fala isso.[lr]::
 37443::$$$message_0320_0004_0002$$$::O ovo cai na farinha que ela tem mexido.::
 37444::$$$message_0320_0005_0000$$$::"[line8]"[lr]::
 37445::$$$message_0320_0005_0001$$$::...Eu tô surpreso.[lr]::
-37446::$$$message_0320_0005_0002$$$::Parece que kani-tama e okonomiyaki são a mesma coisa na cabeça da Fuji-Nee.::
-37447::$$$message_0320_0006_0000$$$::"[line3]Fuji-Nee. Eu sei que você vai perceber seu erro em alguns minutos, mas eu vou te falar agora."[lr]::
+37446::$$$message_0320_0005_0002$$$::Parece que kani-tama e okonomiyaki são a mesma coisa na cabeça da Fuji-nee.::
+37447::$$$message_0320_0006_0000$$$::"[line3]Fuji-nee. Eu sei que você vai perceber seu erro em alguns minutos, mas eu vou te falar agora."[lr]::
 37448::$$$message_0320_0006_0001$$$::"Uh... Q-Quê? Tudo bem, me conta."[lr]::
 37449::$$$message_0320_0006_0002$$$::Ela deve pensar que tem algo errado também.[lr]::
 37450::$$$message_0320_0006_0003$$$::Ela olha pra mim com respeito.::
@@ -22,7 +22,7 @@ id=qid::label=str::text=lstr::
 37452::$$$message_0320_0007_0001$$$::Eu claramente falo pra ela.::
 37453::$$$message_0320_0008_0000$$$::"Hmm... não é o mesmo colocar omelete ou okonomiyaki no arroz, chefe de cozinha?"[lr]::
 37454::$$$message_0320_0008_0001$$$::"Não. Em primeiro lugar, eu não sou um chefe de cozinha. Nós vamos dar a Saber a impressão errada de comida japonesa, então vamos refazer isso."[lr]::
-37455::$$$message_0320_0008_0002$$$::Eu tomo a bacia da Fuji-Nee.::
+37455::$$$message_0320_0008_0002$$$::Eu tomo a bacia da Fuji-nee.::
 37456::$$$message_0320_0009_0000$$$::"Eh[line3]n-não! Eu mexi isso, então a gente não pode jogar fora!"::
 37457::$$$message_0320_0010_0000$$$::"Não, eu vou fazer alguns aperitivos com isso mais tarde, então isso vai pra geladeira.[lr]::
 37458::$$$message_0320_0010_0001$$$::Você vai quebrar cinco ovos e mexer eles bem. Ah, os caranguejos e brotos de bambu tão prontos? Então eu vou fazer o molho. Eu vou deixar você cozinhar.[lr]::
@@ -36,4 +36,5 @@ id=qid::label=str::text=lstr::
 37466::$$$message_0320_0013_0000$$$::"Ehehe. Você tem dignidade na cozinha."[lr]::
 37467::$$$message_0320_0013_0001$$$::Dizendo isso, ela abre o refrigerador.[lr]::
 37468::$$$message_0320_0013_0002$$$::"Hm..."[lr]::
-37469::$$$message_0320_0013_0003$$$::Bom, fico feliz em ouvir isso, mas é algo bom isso só ser assim na cozinha?::Q?�
+37469::$$$message_0320_0013_0003$$$::Bom, fico feliz em ouvir isso, mas é algo bom isso só ser assim na cozinha?::
+

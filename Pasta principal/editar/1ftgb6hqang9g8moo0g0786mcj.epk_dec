@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 8122::$$$message_0080_0000_0000$$$::São quase sete e meia.[lr]::
 8123::$$$message_0080_0000_0001$$$::A Sakura e a Fuji-nee já foram pro treino matinal do clube.[lr]::
-8124::$$$message_0080_0000_0002$$$::Eu fui mais cedo pra escola ontem porque o Issei me pediu por ajuda, mas eu saio de casa no horário de sempre hoje.::
+8124::$$$message_0080_0000_0002$$$::Eu fui mais cedo pra escola ontem porque o Issei pediu ajuda, mas eu saio de casa no horário de sempre hoje.::
 8125::$$$message_0080_0001_0000$$$::Eu me deparo com uma cena incomum ao chegar na interseção.[lr]::
 8126::$$$message_0080_0001_0001$$$::Vários carros da polícia estão estacionados em frente a uma casa.[lr]::
 8127::$$$message_0080_0001_0002$$$::Algo deve ter acontecido. Está uma barulheira e tem uma multidão cercando a área.::
@@ -10,9 +10,9 @@ id=qid::label=str::text=lstr::
 8129::$$$message_0080_0002_0001$$$::Eu estou curioso, mas não consigo dizer o que está acontecendo com tanta gente rodeando a casa.[lr]::
 8130::$$$message_0080_0002_0002$$$::Eu não tenho muito tempo, então devia dar prioridade à escola.::
 8131::$$$message_0080_0003_0000$$$::Eu chego na escola dez minutos antes do sinal tocar.[lr]::
-8132::$$$message_0080_0003_0001$$$::E entro pelo portão principal com tempo de sobra, como sempre faço...[lr]::
+8132::$$$message_0080_0003_0001$$$::Entro pelo portão principal com tempo de sobra, como sempre faço...[lr]::
 8133::$$$message_0080_0003_0002$$$::"Eaí. Bom dia, Emiya."[lr]::
-8134::$$$message_0080_0003_0003$$$::E então, eu esbarro com uma estudante familiar.::
+8134::$$$message_0080_0003_0003$$$::E então esbarro com uma estudante familiar.::
 8135::$$$message_0080_0004_0000$$$::"O quê, você ainda não se trocou, Mitsuzuri? Está quase na hora da aula começar, você não devia perder tempo me dando oi."::
 8136::$$$message_0080_0005_0000$$$::"Ahahaha! Tem razão. Você é frio como sempre, Emiya!"[lr]::
 8137::$$$message_0080_0005_0001$$$::Ela ri como se isso fosse realmente engraçado.[lr]::
@@ -20,11 +20,11 @@ id=qid::label=str::text=lstr::
 8139::$$$message_0080_0005_0003$$$::Ela era minha colega de classe no primeiro ano, e agora ela é a capitã do clube de arco e flecha.::
 8140::$$$message_0080_0006_0000$$$::Ela é bem perspicaz, e todos esperavam que ela fosse se tornar a capitã desde o primeiro ano.[lr]::
 8141::$$$message_0080_0006_0001$$$::Bom, em outras palavras: a idade mental dela é maior do que a sua verdadeira idade. Ela é do tipo "onee-san", e todos contam com ela desde que ela estava no primeiro ano...[lr]::
-8142::$$$message_0080_0006_0002$$$::Apesar de que, ela fica brava quando dizem isso. De acordo com ela, ela não é tão velha assim.::
+8142::$$$message_0080_0006_0002$$$::Apesar dela ficar brava quando dizem isso. Ela diz que não é tão velha assim.::
 8143::$$$message_0080_0007_0000$$$::"Hã? Você estava pensando mal de mim?"[lr]::
 8144::$$$message_0080_0007_0001$$$::"Nem em sonhos eu faria isso. Eu só estava objetivamente pensando sobre a verdade. Se bem que, fica a seu critério ficar brava ou não por isso."::
 8145::$$$message_0080_0008_0000$$$::"Ah, não diga. Essa foi boa. Você respondeu honestamente, mas nunca revelou no que estava pensando.[lr]::
-8146::$$$message_0080_0008_0001$$$::Você não deixa a sua guarda baixa como o Shinji, Emiya."[lr]::
+8146::$$$message_0080_0008_0001$$$::Emiya, você não deixa a sua guarda baixa como o Shinji."[lr]::
 8147::$$$message_0080_0008_0002$$$::"Shinji? O que o Shinji tem a ver com isso?"::
 8148::$$$message_0080_0009_0000$$$::"É porque vocês são amigos.[lr]::
 8149::$$$message_0080_0009_0001$$$::É o único amigo homem que ele tem, correto? E você pode ter se esquecido, mas eu sou a capitã do clube de arco e flecha. Não acha que é natural eu ligar o estudante problemático atual com o estudante problemático que nos deixou?" ::
@@ -38,29 +38,29 @@ id=qid::label=str::text=lstr::
 8157::$$$message_0080_0013_0000$$$::Ela suspira seriamente.[lr]::
 8158::$$$message_0080_0013_0001$$$::É raro ela fazer uma cara dessas, mas ainda mais do que isso, eu não posso ignorar o que ela acabou de dizer.::
 8159::$$$message_0080_0014_0000$$$::"Como assim? Um aluno saiu do clube? Por quê?"[lr]::
-8160::$$$message_0080_0014_0001$$$::"O Shinji descontou a raiva nele. Ele chamou um monte de alunas daqui e fez o garoto, que mal tinha começado a manejar um arco, atirar. Ele riu do garoto até ele acertar o alvo."[lr]::
+8160::$$$message_0080_0014_0001$$$::"O Shinji descontou a raiva nele. Ele chamou um monte de alunas daqui e fez o garoto, que mal tinha começado a manejar um arco, atirar. Ele riu até o garoto acertar o alvo."[lr]::
 8161::$$$message_0080_0014_0002$$$::"Hã!? E você deixou aquele idiota fazer isso!?"::
-8162::$$$message_0080_0015_0000$$$::"Mas é claro que não!... Mas o capitão da equipe é ocupado, sabe? Eu não posso estar sempre no dojo, você sabe disso."::
+8162::$$$message_0080_0015_0000$$$::"Mas é claro que não! Mas o capitão da equipe é ocupado, sabe? Eu não posso estar sempre no dojo, você sabe disso."::
 8163::$$$message_0080_0016_0000$$$::"Isso é verdade... Mas no que o Shinji estava pensando? Ele ensina de maneira bem severa, mas ele não é do tipo que faz piada dos outros desse jeito."::
-8164::$$$message_0080_0017_0000$$$::"Eu estou surpresa.. Você realmente é assim, Emiya."[lr]::
+8164::$$$message_0080_0017_0000$$$::"Eu estou surpresa... Você realmente é assim, Emiya."[lr]::
 8165::$$$message_0080_0017_0001$$$::"Hm, o que quer dizer com isso? Você estava pensando mal de mim?"::
 8166::$$$message_0080_0018_0000$$$::"Ah, eu só estava objetivamente pensando sobre a verdade. Fica a seu critério ficar bravo ou não por isso."[lr]::
-8167::$$$message_0080_0018_0001$$$::"Pare de me copiar...[lr]::
+8167::$$$message_0080_0018_0001$$$::"Sua... Usando minhas próprias palavras contra mim.[lr]::
 8168::$$$message_0080_0018_0002$$$::Tudo bem, mas e quanto ao Shinji? Por que ele agiu desse jeito?"::
 8169::$$$message_0080_0019_0000$$$::"Hmm, até onde eu sei, foi porque a Tohsaka rejeitou ele de uma forma bem pesada ou algo assim."[lr]::
-8170::$$$message_0080_0019_0001$$$::"Hã? Por Tohsaka, você quer dizer aquela Tohsaka?"::
+8170::$$$message_0080_0019_0001$$$::"Hã? A Tohsaka, você quer dizer aquela Tohsaka?"::
 8171::$$$message_0080_0020_0000$$$::"Não tem mais nenhuma Tohsaka na nossa escola.[lr]::
 8172::$$$message_0080_0020_0001$$$::Eu estou falando da estudante prestigiada na turma 2-A, a Perfeitinha, Tohsaka Rin."[lr]::
-8173::$$$message_0080_0020_0002$$$::"Eu acho que nunca ouvi esse apelido antes..."::
+8173::$$$message_0080_0020_0002$$$::"Acho que nunca ouvi esse apelido antes..."::
 8174::$$$message_0080_0021_0000$$$::É a primeira vez que o ouço, mas acho que concordo com ele.[lr]::
 8175::$$$message_0080_0021_0001$$$::Sendo a Tohsaka, eu consigo entender até mesmo o Shinji sendo rejeitado, e pra piorar...[lr]::
 8176::$$$message_0080_0021_0002$$$::...se foi a Tohsaka, eu consigo ver ela rejeitando ele sem piedade alguma.::
 8177::$$$message_0080_0022_0000$$$::"De qualquer forma, o Shinji está assim desde ontem.[lr]::
 8178::$$$message_0080_0022_0001$$$::É por isso que eu tive que ficar de olho no dojo até agora."[lr]::
 8179::$$$message_0080_0022_0002$$$::"O temperamento do Shinji é desagradável. Eu sei que é difícil, mas continue dando o melhor de si, Mitsuzuri."::
-8180::$$$message_0080_0023_0000$$$::"Okay, okay. Mas o Shinji não sabe quando parar, entende? Eu sinto que ele vai fazer algo realmente terrível se for rejeitado de novo por ela."[lr]::
+8180::$$$message_0080_0023_0000$$$::"Okay, okay. Mas o Shinji não sabe quando parar, entende? Eu sinto que ele vai fazer algo realmente terrível se for rejeitado de novo pela Tohsaka."[lr]::
 8181::$$$message_0080_0023_0001$$$::"Não, nem mesmo o Shinji se aproximaria de alguém que já o rejeitou. Ele é bom nesse tipo de coisa."::
-8182::$$$message_0080_0024_0000$$$::"Mas ele não tem muita escolha se a pessoa que o rejeitou chegar perto dele. Eu não sei por que, mas a Tohsaka vem visitar o dojo com bastante frequência. Você não sabe disso porque saiu do clube."::
+8182::$$$message_0080_0024_0000$$$::"Mas ele não tem muita escolha se a pessoa que o rejeitou chegar perto dele. Não sei o motivo, mas a Tohsaka vem visitar o dojo com bastante frequência. Você não sabe disso porque saiu do clube."::
 8183::$$$message_0080_0025_0000$$$::"Hm?"[lr]::
 8184::$$$message_0080_0025_0001$$$::É a primeira vez que ouço sobre isso.[lr]::
 8185::$$$message_0080_0025_0002$$$::A Tohsaka Rin não é participante de nenhum clube por motivos pessoais. Eu achava que ela fosse direto pra casa já que ela recusou até a recomendação de se juntar ao conselho estudantil.::
@@ -78,13 +78,13 @@ id=qid::label=str::text=lstr::
 8197::$$$message_0080_0029_0002$$$::Mas existem alguns estudantes antiquados que trazem os seus próprios almoços. Dois desses por acaso são eu e o presidente do conselho estudantil que está na minha frente.::
 8198::$$$message_0080_0030_0000$$$::"Emiya, poderia me dar um pouco desse frango frito? Meu almoço está desesperadamente carente de carne."[lr]::
 8199::$$$message_0080_0030_0001$$$::"Hm, claro, mas por que o seu almoço é tão simples, Issei? Você vive em um templo, mas não há ensinamentos que proíbam o consumo de carne ou álcool, não é?"::
-8200::$$$message_0080_0031_0000$$$::"Tal anacronismo é coisa do meu pai.[lr]::
-8201::$$$message_0080_0031_0001$$$::'Nada de comidas luxuosas para jovens sacerdotes' ele diz, e também que eu devia trabalhar pra conseguir o que quero. Estou considerando fugir de casa e me juntar ao circo."[lr]::
+8200::$$$message_0080_0031_0000$$$::"Isso já seria anacronismo. É só o jeito que meu pai pensa.[lr]::
+8201::$$$message_0080_0031_0001$$$::'Nada de comidas luxuosas para jovens sacerdotes,' ele diz, e também que eu devia trabalhar pra conseguir o que quero. Estou considerando fugir de casa e me juntar ao circo."[lr]::
 8202::$$$message_0080_0031_0002$$$::"Ah, é bem a cara dele."::
-8203::$$$message_0080_0032_0000$$$::O pai do Issei é o sacerdote do Templo Ryuudou, um cara corajoso que é amigo do pai da Fuji-nee.[lr]::
+8203::$$$message_0080_0032_0000$$$::O pai do Issei é o sacerdote do Templo Ryuudou, um cara corajoso que é amigo do avô da Fuji-nee.[lr]::
 8204::$$$message_0080_0032_0001$$$::Você não tem como esperar uma personalidade normal de alguém que é amigo de um chefe da Yakuza.::
 8205::$$$message_0080_0033_0000$$$::"Tudo bem, eu vou te dar um na esperança de ser reembolsado por isso um dia."[lr]::
-8206::$$$message_0080_0033_0001$$$::Eu alcanço o meu almoço pra ele.[lr]::
+8206::$$$message_0080_0033_0001$$$::Eu estendo o meu almoço pra ele.[lr]::
 8207::$$$message_0080_0033_0002$$$::"Obrigado. Isso também é parte do meu treinamento religioso."[lr]::
 8208::$$$message_0080_0033_0003$$$::Ele faz uma profunda reverência.[lr]::
 8209::$$$message_0080_0033_0004$$$::Como posso dizer isso...? Eu nunca sei o que dizer quando ele age dessa forma, me lembrando que ele é filho de um sacerdote.::
@@ -96,10 +96,10 @@ id=qid::label=str::text=lstr::
 8215::$$$message_0080_0036_0001$$$::Uma arma longa? Ele deve estar se referindo a algo como uma espada.[lr]::
 8216::$$$message_0080_0036_0002$$$::Foi um homicídio... então isso quer dizer que a irmã mais velha e os pais foram mortos.::
 8217::$$$message_0080_0037_0000$$$::Eu imagino a cena...[lr]::
-8218::$$$message_0080_0037_0001$$$::Alguém invadindo no meio da noite. Uma violência injusta. Uma pilhagem unilateral. Pais retalhados. A irmã morta sem nem saber o que estava acontecendo. Ao lado, a criança coberta pelo sangue da família.::
+8218::$$$message_0080_0037_0001$$$::Alguém invadindo no meio da noite. Uma violência injusta. Uma pilhagem unilateral. Pais retalhados. A irmã morta sem nem saber o que estava acontecendo. Nas sombras, a criança coberta pelo sangue da família.::
 8219::$$$message_0080_0038_0000$$$::"Issei, sabe se já capturaram o assassino?"[lr]::
 8220::$$$message_0080_0038_0001$$$::"Parece que não. Acidentes causados por falhas nas construções em Shinto, e assassinatos aqui. Não é pra menos que eles estão adiantando o toque de recolher na esc... O que foi, Emiya? Se engasgou com a comida?"::
-8221::$$$message_0080_0039_0000$$$::"Hm? Não é nada. Por que a pergunta?"[lr]::
+8221::$$$message_0080_0039_0000$$$::"Hm? Não é nada. Por que a pergunta repentina?"[lr]::
 8222::$$$message_0080_0039_0001$$$::"Não... Eu só estava surpreso com a terrível expressão no seu rosto. Me desculpe, eu não devia ter falado sobre isso durante o almoço."::
 8223::$$$message_0080_0040_0000$$$::O Issei tenta suavizar o clima se desculpando.[lr]::
 8224::$$$message_0080_0040_0001$$$::Eu não tenho problemas com esse assunto, mas eu realmente estava com uma cara tão ruim assim...?::
@@ -107,13 +107,14 @@ id=qid::label=str::text=lstr::
 8226::$$$message_0080_0041_0001$$$::"Com licença, o Ryuudou está aqui?"[lr]::
 8227::$$$message_0080_0041_0002$$$::"Hã? Ah, estou sim. O que foi, Sensei?"[lr]::
 8228::$$$message_0080_0041_0003$$$::O Issei se dirige ao Kuzuki, que acabou de entrar na sala.[lr]::
-8229::$$$message_0080_0041_0004$$$::Deve ser uma conversa simples sobre o conselho estudantil já que o Issei parece bem tranquilo.::
+8229::$$$message_0080_0041_0004$$$::Deve ser uma conversa simples sobre o conselho estudantil, já que o Issei parece bem tranquilo.::
 8230::$$$message_0080_0042_0000$$$::"Uau..."[lr]::
 8231::$$$message_0080_0042_0001$$$::Isso não é algo que se vê todo dia.[lr]::
-8232::$$$message_0080_0042_0002$$$::Apesar de não parecer, o Issei é bem tímido. O mesmo cara que traça uma linha entre si e os seus colegas de classe e até mesmo professores, está falando casualmente com o Kuzuki.::
+8232::$$$message_0080_0042_0002$$$::Apesar de não parecer, o Issei é bem tímido. O mesmo cara que traça uma linha entre si, seus colegas de classe, e até mesmo professores, está falando casualmente com o Kuzuki.::
 8233::$$$message_0080_0043_0000$$$::"Talvez eles se deem bem por ambos serem sérios."[lr]::
 8234::$$$message_0080_0043_0001$$$::Kuzuki Souichirou, o professor responsável pela turma 2-A é uma pessoa séria e teimosa.[lr]::
 8235::$$$message_0080_0043_0002$$$::Isso provavelmente ajuda ele a se dar bem com o Issei, que é alguém que valoriza a ordem e a disciplina.::
 8236::$$$message_0080_0044_0000$$$::"..."[lr]::
 8237::$$$message_0080_0044_0001$$$::Os dois continuam a conversar.[lr]::
-8238::$$$message_0080_0044_0002$$$::E em todo esse tempo, eu não consigo tirar a história dos assassinatos da minha cabeça.::��
+8238::$$$message_0080_0044_0002$$$::E em todo esse tempo, eu não consigo tirar a história dos assassinatos da minha cabeça.::
+

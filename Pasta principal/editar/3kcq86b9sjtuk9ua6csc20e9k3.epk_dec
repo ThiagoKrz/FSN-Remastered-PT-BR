@@ -153,7 +153,7 @@ id=qid::label=str::text=lstr::
 62700::$$$message_0577_0056_0002$$$::Eu espero que sim.[lr]::
 62701::$$$message_0577_0056_0003$$$::Eu estou melhorando, mesmo que bem lentamente.[lr]::
 62702::$$$message_0577_0056_0004$$$::Se eu não tiver percebido a presença da Sakura recentemente, significa que não melhorei nada.::
-62703::$$$message_0577_0057_0000$$$::"...Foi no verão passado. No dia que a Fujimura-Sensei comprou uma melancia."[lr]::
+62703::$$$message_0577_0057_0000$$$::"...Foi no verão passado. No dia que a Fujimura-sensei comprou uma melancia."[lr]::
 62704::$$$message_0577_0057_0001$$$::"[w l=4][line4]Entendo, ainda bem."[lr]::
 62705::$$$message_0577_0057_0002$$$::Eu suspiro aliviado.[lr]::
 62706::$$$message_0577_0057_0003$$$::Acho que posso me desculpar se isso aconteceu meio ano atrás.::
@@ -246,4 +246,5 @@ id=qid::label=str::text=lstr::
 62793::$$$message_0577_0090_0002$$$::Eu vi a Sakura adormecer tranquilamente, mas não consigo ficar aliviado de jeito nenhum.::
 62794::$$$message_0577_0091_0000$$$::Então por favor[w l=3][line3]continue aqui e fique em guarda contra mim.::
 62795::$$$message_0577_0092_0000$$$::...Acho que foi o que ela disse de forma inconsciente...[lr]::
-62796::$$$message_0577_0092_0001$$$::...Logo antes de dormir.�;�
+62796::$$$message_0577_0092_0001$$$::...Logo antes de dormir.::
+

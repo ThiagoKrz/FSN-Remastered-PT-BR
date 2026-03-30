@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 61085::$$$message_0556_0003_0001$$$::Mas se vocês se acalmarem, conseguirei inventar uma desculpa...::
 61086::$$$message_0556_0004_0000$$$::"Não, você não entende...! Concordei com sua decisão de ir a escola ontem, mas não posso te perdoar desta vez. Parece que você já está bem melhor. Treinarei você até o jantar!"[lr]::
 61087::$$$message_0556_0004_0001$$$::A Saber empurra a Sakura de lado e chega mais perto.::
-61088::$$$message_0556_0005_0000$$$::"Sim, o dojo está limpo, então use-o! Eu ouvi o quão boa a Saber-chan é da Fujimura-Sensei, então sei que você vai gostar!"[lr]::
+61088::$$$message_0556_0005_0000$$$::"Sim, o dojo está limpo, então use-o! Eu ouvi o quão boa a Saber-chan é da Fujimura-sensei, então sei que você vai gostar!"[lr]::
 61089::$$$message_0556_0005_0001$$$::A Sakura empurra a Saber de lado e ruge para mim.::
 61090::$$$message_0556_0006_0000$$$::"Uh[w l=4][line4]ugh."[lr]::
 61091::$$$message_0556_0006_0001$$$::...não consigo fazer isso. Só jogarei lenha na fogueira se pisar na bola aqui. A Saber pode até mesmo querer quebrar nosso contrato.[lr]::
@@ -26,4 +26,5 @@ id=qid::label=str::text=lstr::
 61099::$$$message_0556_0007_0002$$$::As duas se retiram juntas.::
 61100::$$$message_0556_0008_0000$$$::".........cara. Me pergunto se conseguirei jantar hoje."[lr]::
 61101::$$$message_0556_0008_0001$$$::Mas não sei o que elas fariam se eu não fosse com elas.[lr]::
-61102::$$$message_0556_0008_0002$$$::...acho que terei que pagar meus pecados no dojo...:��$
+61102::$$$message_0556_0008_0002$$$::...acho que terei que pagar meus pecados no dojo...::
+

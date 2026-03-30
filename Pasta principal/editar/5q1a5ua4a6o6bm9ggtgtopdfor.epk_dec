@@ -58,16 +58,16 @@ id=qid::label=str::text=lstr::
 35988::$$$message_0300_0016_0004$$$::Parece sério, então eu vou ficar aqui até o almoço acabar[line4]::
 35989::$$$message_0300_0017_0000$$$::"Huh? Alguém tá aí, Issei."[lr]::
 35990::$$$message_0300_0017_0001$$$::"Eu não ligo. Fala pra eles que o conselho estudantil não tá aberto hoje."[lr]::
-35991::$$$message_0300_0017_0002$$$::"Eu posso dizer isso se você quiser... Mas eu acho que é o Kuzuki-Sensei."[lr]::
+35991::$$$message_0300_0017_0002$$$::"Eu posso dizer isso se você quiser... Mas eu acho que é o Kuzuki-sensei."[lr]::
 35992::$$$message_0300_0017_0003$$$::"[line4]. Hm, Isso é ruim."::
 35993::$$$message_0300_0018_0000$$$::O Issei lentamente se levanta e abre a porta.[lr]::
 35994::$$$message_0300_0018_0001$$$::"Ryuudou. É sobre o clube de arco e flecha dessa manhã[line4]"[lr]::
-35995::$$$message_0300_0018_0002$$$::O Kuzuki-Sensei para suas palavras depois de me ver.[lr]::
+35995::$$$message_0300_0018_0002$$$::O Kuzuki-sensei para suas palavras depois de me ver.[lr]::
 35996::$$$message_0300_0018_0003$$$::Kuzuki Souichirou é o professor da classe 2-A e também cuida do conselho estudantil.  Ele é um professor bem estrito e frio.::
 35997::$$$message_0300_0019_0000$$$::"Huh...? Então ela não foi nem pra casa?"[lr]::
 35998::$$$message_0300_0019_0001$$$::"Correto. Nós provavelmente vamos chamar a polícia. Eu acredito que você saiba, mas não espalhe o rumor."::
 35999::$$$message_0300_0020_0000$$$::"[line3]Eu sei. E sobre o Matou? O estudante do clube de arco e flecha disse que ele viu ela e o Matou juntos."[lr]::
-36000::$$$message_0300_0020_0001$$$::"É o mesmo para ele também. Matou Shinji está ausente hoje e a casa dele está vazia. A irmã dele, Matou Sakura, estava dormindo na casa da Fujimura-Sensei na última noite, então ela não sabe de nada."::
+36000::$$$message_0300_0020_0001$$$::"É o mesmo para ele também. Matou Shinji está ausente hoje e a casa dele está vazia. A irmã dele, Matou Sakura, estava dormindo na casa da Fujimura-sensei na última noite, então ela não sabe de nada."::
 36001::$$$message_0300_0021_0000$$$::...O Issei e o Kuzuki tão falando sobre coisas assustadoras.[lr]::
 36002::$$$message_0300_0021_0001$$$::Resumindo o que eles disseram, parece que uma estudante está desaparecida desde ontem a noite, e o Shinji foi o último a falar com essa estudante[line4]::
 36003::$$$message_0300_0022_0000$$$::"Desculpa interromper. Eu tenho certeza que o toque de recolher da escola vai ser posto em um horário mais cedo agora."[lr]::
@@ -122,4 +122,5 @@ id=qid::label=str::text=lstr::
 36052::$$$message_0300_0039_0002$$$::Não parece ter ninguém dentro, então é inútil ficar aqui.::
 36053::$$$message_0300_0040_0000$$$::"...Eu acho que vou falar com o Issei. Ele deve ter alguma nova informação."[lr]::
 36054::$$$message_0300_0040_0001$$$::Já fazem três horas desde o almoço.[lr]::
-36055::$$$message_0300_0040_0002$$$::É possível que ela já tenha sido encontrada e não tenha acontecido nada de errado.: dJ
+36055::$$$message_0300_0040_0002$$$::É possível que ela já tenha sido encontrada e não tenha acontecido nada de errado.::
+
