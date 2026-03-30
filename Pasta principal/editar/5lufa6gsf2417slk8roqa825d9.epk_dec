@@ -32,7 +32,7 @@ id=qid::label=str::text=lstr::
 39602::$$$message_0339_0009_0000$$$::"Ah, eu achei que você não tivesse ideia do que estava fazendo, mas parece que você entende a situação em que se encontra."[lr]::
 39603::$$$message_0339_0009_0001$$$::A Caster abre um sorriso mais uma vez.[lr]::
 39604::$$$message_0339_0009_0002$$$::...O braço dela.[lr]::
-39605::$$$message_0339_0009_0003$$$::O braço da Caster, que estava agarrando a Fuji-nee, é lentamente apontado na minha direção.::
+39605::$$$message_0339_0009_0003$$$::O braço da Caster, que estava agarrando a Fuji-Nee, é lentamente apontado na minha direção.::
 39606::$$$message_0339_0010_0000$$$::"...! Sua covarde, você vai matar o Shirou mesmo que ele não esteja resistindo!?"[lr]::
 39607::$$$message_0339_0010_0001$$$::"Claro que não. Eu não vou tirar a vida dele. Vou apenas roubar os direitos dele como Mestre. Parece que você só tem mais um, mas me entregue esse seu Selo de Comando.[lr]::
 39608::$$$message_0339_0010_0002$$$::Você não quer se juntar a mim, mas ainda pretende salvar essa mulher.[lr]::
@@ -59,7 +59,7 @@ id=qid::label=str::text=lstr::
 39629::$$$message_0339_0018_0002$$$::A Caster deve ser capaz de cortar o meu braço esquerdo com apenas uma palavra.::
 39630::$$$message_0339_0019_0000$$$::"[line3]Shirou, não faça isso...!"[lr]::
 39631::$$$message_0339_0019_0001$$$::"Qual é o seu problema...!? Você não precisa ir tão longe para salvar outra pessoa!"[lr]::
-39632::$$$message_0339_0019_0002$$$::"Preciso sim. Se o preço para salvar a Fuji-nee for apenas perder um braço, eu nem tenho que pensar duas vezes."[lr]::
+39632::$$$message_0339_0019_0002$$$::"Preciso sim. Se o preço para salvar a Fuji-Nee for apenas perder um braço, eu nem tenho que pensar duas vezes."[lr]::
 39633::$$$message_0339_0019_0003$$$::Eu aponto o meu braço esquerdo na direção da Caster.::
 39634::$$$message_0339_0020_0000$$$::"...Muito bem. Venha para cá, Emiya Shirou.[lr]::
 39635::$$$message_0339_0020_0001$$$::Eu não sei o que você está planejando, mas o meu dedo é mais rápido do que qualquer ataque surpresa que você possa tentar."[lr]::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 39643::$$$message_0339_0023_0000$$$::"Haha. Ahaha, ahahahahahaha......!![lr]::
 39644::$$$message_0339_0023_0001$$$::Estou impressionada. Você é uma pessoa bem educada! Está bem, em respeito à sua honestidade, eu vou soltar essa mulher!"[lr]::
 39645::$$$message_0339_0023_0002$$$::O manto dela flutua.[lr]::
-39646::$$$message_0339_0023_0003$$$::A Caster segura a Fuji-nee com a mão esquerda e retira uma adaga estranha com a mão direita.::
+39646::$$$message_0339_0023_0003$$$::A Caster segura a Fuji-Nee com a mão esquerda e retira uma adaga estranha com a mão direita.::
 39647::$$$message_0339_0024_0000$$$::"Inacreditável. Eu não precisaria ter todo esse trabalho se soubesse que seria tão fácil assim![lr]::
 39648::$$$message_0339_0024_0001$$$::Você é um rapaz bem idiota. Você me irrita, é uma pessoa de bom coração que merece morrer...!"[lr]::
 39649::$$$message_0339_0024_0002$$$::Ela balança a sua adaga.[lr]::
@@ -123,16 +123,16 @@ id=qid::label=str::text=lstr::
 39693::$$$message_0339_0039_0000$$$::"Sim, eu a transformei no meu familiar. Agora, tudo está dentro do planejado.[lr]::
 39694::$$$message_0339_0039_0001$$$::O Emiya Shirou deixou de ser um Mestre, e agora a Saber é minha.[lr]::
 39695::$$$message_0339_0039_0002$$$::Já que ela está do meu lado, eu não preciso ter medo de mais nada. Nem mesmo o Berserker poderá me impedir. Dessa vez, eu que vou atacá-los...!"[lr]::
-39696::$$$message_0339_0039_0003$$$::A Caster dá risada e segura a Fuji-nee.::
+39696::$$$message_0339_0039_0003$$$::A Caster dá risada e segura a Fuji-Nee.::
 39697::$$$message_0339_0040_0000$$$::"Aqui, eu vou te devolvê-la. Ela é importante para você, não é mesmo? Então se esforce para que ela não morra."[lr]::
-39698::$$$message_0339_0040_0001$$$::O corpo da Fuji-nee começa a levitar.[lr]::
+39698::$$$message_0339_0040_0001$$$::O corpo da Fuji-Nee começa a levitar.[lr]::
 39699::$$$message_0339_0040_0002$$$::Ela atravessa o ar como se estivesse sendo empurrada por um braço invisível.::
-39700::$$$message_0339_0041_0000$$$::"Fuji-nee...!"[lr]::
+39700::$$$message_0339_0041_0000$$$::"Fuji-Nee...!"[lr]::
 39701::$$$message_0339_0041_0001$$$::Eu a seguro sem deixá-la cair no chão.::
-39702::$$$message_0339_0042_0000$$$::"Fuji-nee...! Você está bem, Fuji-nee...!?"[lr]::
+39702::$$$message_0339_0042_0000$$$::"Fuji-Nee...! Você está bem, Fuji-Nee...!?"[lr]::
 39703::$$$message_0339_0042_0001$$$::Ela não responde.[lr]::
 39704::$$$message_0339_0042_0002$$$::Mas o corpo dela está quente.[lr]::
-39705::$$$message_0339_0042_0003$$$::A Fuji-nee está desmaiada, mas ela continua respirando e não possui nenhum ferimento.::
+39705::$$$message_0339_0042_0003$$$::A Fuji-Nee está desmaiada, mas ela continua respirando e não possui nenhum ferimento.::
 39706::$$$message_0339_0043_0000$$$::"[line8]"[lr]::
 39707::$$$message_0339_0043_0001$$$::Eu suspiro de alívio.[lr]::
 39708::$$$message_0339_0043_0002$$$::"Satisfeito agora? Já que eu prometi, vou poupar a vida dessa mulher. Além disso... Sim, eu vou deixá-lo viver também.[lr]::
@@ -170,7 +170,7 @@ id=qid::label=str::text=lstr::
 39740::$$$message_0339_0051_0004$$$::Se continuar assim, a espada vai cortar as artérias do meu pescoço e eu vou morrer.::
 39741::$$$message_0339_0052_0000$$$::"Ha, ah[line4]!!!!!"[lr]::
 39742::$$$message_0339_0052_0001$$$::Isso... não é bom.[lr]::
-39743::$$$message_0339_0052_0002$$$::Eu ainda estou com a Fuji-nee em meus braços.[lr]::
+39743::$$$message_0339_0052_0002$$$::Eu ainda estou com a Fuji-Nee em meus braços.[lr]::
 39744::$$$message_0339_0052_0003$$$::E a Tohsaka também está atrás de mim[line4]!::
 39745::$$$message_0339_0053_0000$$$::"...Que pena. Quanto desperdício. Eu tinha interesse em você, mas..."[lr]::
 39746::$$$message_0339_0053_0001$$$::Bem distante...[lr]::
@@ -192,7 +192,7 @@ id=qid::label=str::text=lstr::
 39762::$$$message_0339_0059_0001$$$::"Ah[line4]espera, Tohsaka[line4]"[lr]::
 39763::$$$message_0339_0059_0002$$$::Eu começo a correr, sendo puxado pela Tohsaka.::
 39764::$$$message_0339_0060_0000$$$::...O ferimento no meu ombro está tão quente que não consigo pensar direito.[lr]::
-39765::$$$message_0339_0060_0001$$$::Mas eu estou com a Fuji-nee em meus braços e já aceitei que preciso fugir daqui.[lr]::
+39765::$$$message_0339_0060_0001$$$::Mas eu estou com a Fuji-Nee em meus braços e já aceitei que preciso fugir daqui.[lr]::
 39766::$$$message_0339_0060_0002$$$::...Aliás.[lr]::
 39767::$$$message_0339_0060_0003$$$::Eu não tenho outra escolha a não ser aceitar isso.::
 39768::$$$message_0339_0061_0000$$$::"Sa... ber..."[lr]::

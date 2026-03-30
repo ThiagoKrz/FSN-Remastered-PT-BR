@@ -6,7 +6,7 @@ id=qid::label=str::text=lstr::
 36950::$$$message_0313_0003_0000$$$::"Eu estou surpresa com isso também. Mas aparentemente o Shirou possui um professor diferente, então não é graças a mim."[lr]::
 36951::$$$message_0313_0003_0001$$$::Nós estamos bebendo chá pós refeição.::
 36952::$$$message_0313_0004_0000$$$::"[line8]"[lr]::
-36953::$$$message_0313_0004_0001$$$::É bom que a Fuji-nee e a Saber tão se dando bem.[lr]::
+36953::$$$message_0313_0004_0001$$$::É bom que a Fuji-Nee e a Saber tão se dando bem.[lr]::
 36954::$$$message_0313_0004_0002$$$::Eu não quero interromper, então eu vou silenciosamente beber chá e descansar meu corpo que tá cansado de treinar com a Saber.::
 36955::$$$message_0313_0005_0000$$$::"Ele tem dois professores? Isso significa que ele tá te traíndo?"::
 36956::$$$message_0313_0006_0000$$$::"Parece que ele não está consciente disso. Mas eu decidi tolerar já que o resultado é bom.[lr]::
@@ -16,7 +16,7 @@ id=qid::label=str::text=lstr::
 36960::$$$message_0313_0009_0000$$$::Ela balança a cabeça emocionalmente e toma um gole de chá.[lr]::
 36961::$$$message_0313_0009_0001$$$::Então.[lr]::
 36962::$$$message_0313_0009_0002$$$::"Não, já faz um tempo desde a última vez que a gente praticou kendo aqui. Aquele lugar não era usado pra kendo antes de você chegar."[lr]::
-36963::$$$message_0313_0009_0003$$$::A Fuji-nee corrige a Saber enquanto morde uma bolacha.::
+36963::$$$message_0313_0009_0003$$$::A Fuji-Nee corrige a Saber enquanto morde uma bolacha.::
 36964::$$$message_0313_0010_0000$$$::"Não era...? Você não usou a shinai no dojo, Shirou?"[lr]::
 36965::$$$message_0313_0010_0001$$$::A Saber me encara com surpresa.::
 36966::$$$message_0313_0011_0000$$$::"Hã? Bom, não. Eu não usei desde quando meu pai morreu."[lr]::
@@ -25,11 +25,11 @@ id=qid::label=str::text=lstr::
 36969::$$$message_0313_0012_0001$$$::A Tigresa Fujimura mastiga a bolacha enquanto descansa a cabeça na mesa.::
 36970::$$$message_0313_0013_0000$$$::"[line8]"[lr]::
 36971::$$$message_0313_0013_0001$$$::Eu tenho um mal pressentimento sobre isso.[lr]::
-36972::$$$message_0313_0013_0002$$$::Quando a Fuji-nee age assim, a conversa sempre vira [r]algo[line3]::
+36972::$$$message_0313_0013_0002$$$::Quando a Fuji-Nee age assim, a conversa sempre vira [r]algo[line3]::
 36973::$$$message_0313_0014_0000$$$::"Ah, eu me pergunto por quê. Ele gostava tanto de kendo antigamente, mas agora ele só é um chato agora. Eu não posso dizer que ele tinha um talento com espadas, mas ele era bom em arco e flecha. Mas ele desistiu, sabe?"::
-36974::$$$message_0313_0015_0000$$$::"[line3]Como eu pensei. Fuji-nee, para de falar sobre o passado. Isso é só bem triste."[lr]::
+36974::$$$message_0313_0015_0000$$$::"[line3]Como eu pensei. Fuji-Nee, para de falar sobre o passado. Isso é só bem triste."[lr]::
 36975::$$$message_0313_0015_0001$$$::Eu encaro ela.::
-36976::$$$message_0313_0016_0000$$$::A Fuji-nee fica emburrada e come a bolacha.[lr]::
+36976::$$$message_0313_0016_0000$$$::A Fuji-Nee fica emburrada e come a bolacha.[lr]::
 36977::$$$message_0313_0016_0001$$$::Ufa.[lr]::
 36978::$$$message_0313_0016_0002$$$::Parece que ela terminou agora.::
 36979::$$$message_0313_0017_0000$$$::"Ah. A infância do Shirou, hm?"[lr]::
@@ -51,8 +51,8 @@ id=qid::label=str::text=lstr::
 36995::$$$message_0313_0023_0000$$$::"Mas ele iria tentar fazer algo sempre que visse alguém com problemas, e o Shirou tava sempre tentando imitar o Kiritsugu-san.[lr]::
 36996::$$$message_0313_0023_0001$$$::O Shirou era mais único que o Kiritsugu-san, então ele ia bater nos valentões, dizendo que coisas más são más.[lr]::
 36997::$$$message_0313_0023_0002$$$::Sim, o Shirou tem tentado ser um super herói desde então."::
-36998::$$$message_0313_0024_0000$$$::A Fuji-nee alegremente fala sobre coisas entediantes.[lr]::
-36999::$$$message_0313_0024_0001$$$::E do lado da Fuji-nee...[lr]::
+36998::$$$message_0313_0024_0000$$$::A Fuji-Nee alegremente fala sobre coisas entediantes.[lr]::
+36999::$$$message_0313_0024_0001$$$::E do lado da Fuji-Nee...[lr]::
 37000::$$$message_0313_0024_0002$$$::"...? Por que você tenta ser um super herói?"[lr]::
 37001::$$$message_0313_0024_0003$$$::A Saber me pergunta algo natural.::
 37002::$$$message_0313_0025_0000$$$::"[line3]Bom. É difícil explicar. Eu acho que é porque eu admiro eles."[lr]::
@@ -92,7 +92,7 @@ id=qid::label=str::text=lstr::
 37036::$$$message_0313_0035_0001$$$::Uma insegurança que eu mesmo não entendo...[lr]::
 37037::$$$message_0313_0035_0002$$$::Um medo sem forma, uma náusea atacando...[lr]::
 37038::$$$message_0313_0035_0003$$$::Eu corro pro meu quarto, aguentando a dor de cabeça.::
-37039::$$$message_0313_0036_0000$$$::A Fuji-nee foi pra casa, dizendo que ela tinha trabalho a fazer hoje.[lr]::
+37039::$$$message_0313_0036_0000$$$::A Fuji-Nee foi pra casa, dizendo que ela tinha trabalho a fazer hoje.[lr]::
 37040::$$$message_0313_0036_0001$$$::A Saber tá dormindo no quarto do lado que nem ontem.::
 37041::$$$message_0313_0037_0000$$$::"[line8]"[lr]::
 37042::$$$message_0313_0037_0001$$$::Eu não consigo dormir hoje também, então eu encaro a escuridão.[lr]::
@@ -143,4 +143,4 @@ id=qid::label=str::text=lstr::
 37087::$$$message_0313_0051_0000$$$::Eu desesperadamente rejeito as palavras que vem a minha mente.[lr]::
 37088::$$$message_0313_0051_0001$$$::Ele me disse para me afogar nos meus ideais e morrer.[lr]::
 37089::$$$message_0313_0051_0002$$$::Palavras sinistras, como se ele pudesse prever o meu próprio destino...::
-�
+￝�

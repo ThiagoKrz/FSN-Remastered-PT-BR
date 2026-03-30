@@ -1,6 +1,6 @@
 DAT
 id=qid::label=str::text=lstr::
-26700::$$$message_0228_0000_0000$$$::Volto para o meu quarto.[lr]::
+26700::$$$message_0228_0000_0000$$$::Volto para o meu quarto.::
 26701::$$$message_0228_0000_0001$$$::Do outro lado da porta, separado por esta pequena divisória, fica o quarto da Saber.::
 26702::$$$message_0228_0001_0000$$$::"...Saber, você está acordada?"[lr]::
 26703::$$$message_0228_0001_0001$$$::"Estou acordada. Aconteceu algo, Mestre?"[lr]::
@@ -84,5 +84,4 @@ id=qid::label=str::text=lstr::
 26781::$$$message_0228_0032_0001$$$::Saber diz isso com um leve sorriso.::
 26782::$$$message_0228_0033_0000$$$::"[line5]"::
 26783::$$$message_0228_0033_0001$$$::Esse gesto é tão amável e elegante...::
-26784::$$$message_0228_0033_0002$$$::Por causa disso, não consigo pensar em mais nada para dizer, e acabamos ficando no quarto juntos por um tempo em silêncio.::
-
+26784::$$$message_0228_0033_0002$$$::Por causa disso, não consigo pensar em mais nada para dizer, e acabamos ficando no quarto juntos por um tempo em silêncio.:X|?

@@ -9,17 +9,17 @@ id=qid::label=str::text=lstr::
 58086::$$$message_0519_0001_0003$$$::Ouço a voz da Sakura na entrada.[lr]::
 58087::$$$message_0519_0001_0004$$$::Acho melhor aproveitar a situação e perguntar pra ela agora.::
 58088::$$$message_0519_0002_0000$$$::"Ah, olá, Senpai. Está preparando as coisas para fazer a janta?"[lr]::
-58089::$$$message_0519_0002_0001$$$::"Sim. Vou cozinhar sozinho, então pode relaxar. Mas por favor cuide da Fuji-nee. Ela perdeu a confiança em si porque a Saber acabou com ela. Tente acabar com ela e chame ela para jogar algo, tipo baralho."::
-58090::$$$message_0519_0003_0000$$$::"Ah, que terrível, Senpai. Hoje foi um dia difícil pra Fujimura-sensei."[lr]::
+58089::$$$message_0519_0002_0001$$$::"Sim. Vou cozinhar sozinho, então pode relaxar. Mas por favor cuide da Fuji-Nee. Ela perdeu a confiança em si porque a Saber acabou com ela. Tente acabar com ela e chame ela para jogar algo, tipo baralho."::
+58090::$$$message_0519_0003_0000$$$::"Ah, que terrível, Senpai. Hoje foi um dia difícil pra Fujimura-Sensei."[lr]::
 58091::$$$message_0519_0003_0001$$$::"...ah sim, ela comentou algo assim. Então jogue shogi com ela."::
-58092::$$$message_0519_0004_0000$$$::"Shogi, huh? Okay, a Fujimura-sensei é mestre nisso.[lr]::
+58092::$$$message_0519_0004_0000$$$::"Shogi, huh? Okay, a Fujimura-Sensei é mestre nisso.[lr]::
 58093::$$$message_0519_0004_0001$$$::Ela ganha de mim mesmo quando ela me dá vantagem."::
 58094::$$$message_0519_0005_0000$$$::A Sakura está de bom humor.[lr]::
 58095::$$$message_0519_0005_0001$$$::Seu hematoma parece estar melhorando, e sua tristeza de mais cedo parece ter desaparecido.[lr]::
 58096::$$$message_0519_0005_0002$$$::Sim, é uma boa hora para perguntar.::
 58097::$$$message_0519_0006_0000$$$::"Então, Sakura. Sei que é meio repentino, mas poderia ficar aqui a partir de hoje a noite?"[lr]::
 58098::$$$message_0519_0006_0001$$$::"Huh[w l=4][line4]? Ficar aqui...?"[lr]::
-58099::$$$message_0519_0006_0002$$$::"Estou te dizendo para não voltar a casa dos Matous por um tempo. Vamos ver... quero que fique aqui por uma semana. Ah, já tenho aprovação da Fuji-nee."::
+58099::$$$message_0519_0006_0002$$$::"Estou te dizendo para não voltar a casa dos Matous por um tempo. Vamos ver... quero que fique aqui por uma semana. Ah, já tenho aprovação da Fuji-Nee."::
 58100::$$$message_0519_0007_0000$$$::"......"[lr]::
 58101::$$$message_0519_0007_0001$$$::O rosto dela endurece.[lr]::
 58102::$$$message_0519_0007_0002$$$::Ela olha no fundo dos meus olhos.::
@@ -33,7 +33,7 @@ id=qid::label=str::text=lstr::
 58110::$$$message_0519_0010_0001$$$::Não posso lhe dizer.[lr]::
 58111::$$$message_0519_0010_0002$$$::Não posso contar que o Shinji é um Mestre, e todo o resto seria mentira.[lr]::
 58112::$$$message_0519_0010_0003$$$::Todos tem seus segredos.[lr]::
-58113::$$$message_0519_0010_0004$$$::Eu sou um rapaz, então há vários segredos que não posso contar para a Fuji-nee nem pra Sakura.::
+58113::$$$message_0519_0010_0004$$$::Eu sou um rapaz, então há vários segredos que não posso contar para a Fuji-Nee nem pra Sakura.::
 58114::$$$message_0519_0011_0000$$$::...há várias coisas que não podem ser ditas, nem mesmo para as pessoas mais importantes a sua volta.[lr]::
 58115::$$$message_0519_0011_0001$$$::Mas é por isso que também não posso mentir.[lr]::
 58116::$$$message_0519_0011_0002$$$::A Sakura é uma pessoa importante para mim, é parte da família, então não posso mentir.::

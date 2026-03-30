@@ -5,7 +5,7 @@ id=qid::label=str::text=lstr::
 58180::$$$message_0521_0000_0002$$$::Então não há problema.[lr]::
 58181::$$$message_0521_0000_0003$$$::Algo tão mundano que não poderia causar um problema.::
 58182::$$$message_0521_0001_0000$$$::Mas...::
-58183::$$$message_0521_0002_0000$$$::"...Um, Fujimura-sensei. Preciso discutir algo com você..."[lr]::
+58183::$$$message_0521_0002_0000$$$::"...Um, Fujimura-Sensei. Preciso discutir algo com você..."[lr]::
 58184::$$$message_0521_0002_0001$$$::"O que é? Vá em frente e me pergunte."[lr]::
 58185::$$$message_0521_0002_0002$$$::"Um... bem......"::
 58186::$$$message_0521_0003_0000$$$::"Ah, sim. Você precisa de algo pra vestir.  Hmm, acho que tenho alguns uniformes escolares em casa. Posso te dar algumas de minhas roupas se você não se importar. Ah, or você preferiria ir pra casa buscar algumas roupas?"[lr]::
@@ -31,16 +31,16 @@ id=qid::label=str::text=lstr::
 58206::$$$message_0521_0010_0000$$$::"Ah, é? Então te contarei algo. A Sakura-chan mede 85-E. Incrível, né? 13 centimetros maior do que ano passado.[lr]::
 58207::$$$message_0521_0010_0001$$$::Aposto que você percebeu também. O quão sexy ela é e o quanto você quer tocá-la."::
 58208::$$$message_0521_0011_0000$$$::"You[w l=4][line4]!"[lr]::
-58209::$$$message_0521_0011_0001$$$::"F-Fujimura-sensei[w l=4][line4]![lr]::
+58209::$$$message_0521_0011_0001$$$::"F-Fujimura-Sensei[w l=4][line4]![lr]::
 58210::$$$message_0521_0011_0002$$$::Por que você está contando isso pra ele assim!?"[lr]::
 58211::$$$message_0521_0011_0003$$$::"Huh? Huh? Kyaaaaa!?"::
-58212::$$$message_0521_0012_0000$$$::Fuji-nee caí contra o ataque da Sakura.[lr]::
-58213::$$$message_0521_0012_0001$$$::Sua cara está vermelha e ela tenta cobrir a boca da Fuji-nee.::
+58212::$$$message_0521_0012_0000$$$::Fuji-Nee caí contra o ataque da Sakura.[lr]::
+58213::$$$message_0521_0012_0001$$$::Sua cara está vermelha e ela tenta cobrir a boca da Fuji-Nee.::
 58214::$$$message_0521_0013_0000$$$::...Sakura...[lr]::
 58215::$$$message_0521_0013_0001$$$::Entendo que você quer calá-la, mas se continuar, vai acabar matando ela...::
 58216::$$$message_0521_0014_0000$$$::"Haa, haa, haa[w l=3][line3]Uau, não esperava que você fosse tão forte, Sakura-chan. Estou surpresa que você parou minha respiração assim."[lr]::
-58217::$$$message_0521_0014_0001$$$::"Geez! Pense no que fez, Fujimura-sensei!"[lr]::
-58218::$$$message_0521_0014_0002$$$::A Sakura se afasta da Fuji-nee.[lr]::
+58217::$$$message_0521_0014_0001$$$::"Geez! Pense no que fez, Fujimura-Sensei!"[lr]::
+58218::$$$message_0521_0014_0002$$$::A Sakura se afasta da Fuji-Nee.[lr]::
 58219::$$$message_0521_0014_0003$$$::[w l=4][line4]Naturalmente...[lr]::
 58220::$$$message_0521_0014_0004$$$::Nossos olhos se encontram.::
 58221::$$$message_0521_0015_0000$$$::"Ah."[lr]::
@@ -67,19 +67,19 @@ id=qid::label=str::text=lstr::
 58242::$$$message_0521_0022_0000$$$::"Ah, quer dizer que não quer ser um fracassado?"[lr]::
 58243::$$$message_0521_0022_0001$$$::"Claro que não. A Sakura é irmão do Shinji. Se a irmã de amigo ficar aqui, tenho que tomar conta dela."::
 58244::$$$message_0521_0023_0000$$$::"Que...? Ah, entendo. Pensei que você fosse denso, mas isso tem culpa também, huh?"[lr]::
-58245::$$$message_0521_0023_0001$$$::Fuji-nee suspira.[lr]::
+58245::$$$message_0521_0023_0001$$$::Fuji-Nee suspira.[lr]::
 58246::$$$message_0521_0023_0002$$$::Isso é preocupante.::
 58247::$$$message_0521_0024_0000$$$::"Sakura-chan tem muito trabalho a frente."[lr]::
 58248::$$$message_0521_0024_0001$$$::"Ei, onde você vai?"[lr]::
 58249::$$$message_0521_0024_0002$$$::"Até o vestuário. Preciso pegar umas roupas pra ela. Você pode ir até o anexo preparar um quarto pra ela. Pega um lenço novo pra ela, okay?"[lr]::
-58250::$$$message_0521_0024_0003$$$::A Fuji-nee vai embora após me dar uma ordem.::
+58250::$$$message_0521_0024_0003$$$::A Fuji-Nee vai embora após me dar uma ordem.::
 58251::$$$message_0521_0025_0000$$$::"...Heh. Fique aqui, Saber. Vou preparar a sala de hóspedes."[lr]::
 58252::$$$message_0521_0025_0001$$$::Saio após a Saber concordar.::
 58253::$$$message_0521_0026_0000$$$::Arrumo a cama e checo os móveis.[lr]::
 58254::$$$message_0521_0026_0001$$$::Decidi que a Sakura usasse o quarto de hóspedes que não é usado normalmente.[lr]::
 58255::$$$message_0521_0026_0002$$$::Esse quarto é mais apropriado pra ela, e a porta pode ser trancada.[lr]::
 58256::$$$message_0521_0026_0003$$$::...a Sakura é uma garota, então é melhor assim.::
-58257::$$$message_0521_0027_0000$$$::"...bem, não é como se a Fuji-nee me tivesse feito escolher esse quarto."[lr]::
+58257::$$$message_0521_0027_0000$$$::"...bem, não é como se a Fuji-Nee me tivesse feito escolher esse quarto."[lr]::
 58258::$$$message_0521_0027_0001$$$::Arrumo a cama.[lr]::
 58259::$$$message_0521_0027_0002$$$::Essa cama nunca foi usada.[lr]::
 58260::$$$message_0521_0027_0003$$$::No momento em que penso que a Sakura dormirá aqui essa noite...::

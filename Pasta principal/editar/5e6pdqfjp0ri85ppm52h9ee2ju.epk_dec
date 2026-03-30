@@ -8,12 +8,12 @@ id=qid::label=str::text=lstr::
 51274::$$$message_0442_0002_0000$$$::"Até mais. Tenho coisas pra resolver na sala dos professores."[lr]::
 51275::$$$message_0442_0002_0001$$$::Com a chave em mãos, a capitã do clube de arquearia vai embora.::
 51276::$$$message_0442_0003_0000$$$::[line3]Estamos no portão da frente.[lr]::
-51277::$$$message_0442_0003_0001$$$::Fuji-nee, Sakura, Saber, e eu vamos embora com os demais.::
+51277::$$$message_0442_0003_0001$$$::Fuji-Nee, Sakura, Saber, e eu vamos embora com os demais.::
 51278::$$$message_0442_0004_0000$$$::"Até, Sensei!"[lr]::
 51279::$$$message_0442_0004_0001$$$::"Não perturbe o Emiya, Tigresa!"[lr]::
 51280::$$$message_0442_0004_0002$$$::Começamos a descer a colina com essas vozes de fundo.::
 51281::$$$message_0442_0005_0000$$$::Continuamos andando.[lr]::
-51282::$$$message_0442_0005_0001$$$::A Sakura e a Fuji-nee estão ao meu lado, e a Saber está atrás de nós.::
+51282::$$$message_0442_0005_0001$$$::A Sakura e a Fuji-Nee estão ao meu lado, e a Saber está atrás de nós.::
 51283::$$$message_0442_0006_0000$$$::"[line3]Hm? Por que essa garota está nos seguindo?"[lr]::
 51284::$$$message_0442_0006_0001$$$::...Então.[lr]::
 51285::$$$message_0442_0006_0002$$$::Parece que ela só notou agora.::
@@ -27,17 +27,17 @@ id=qid::label=str::text=lstr::
 51293::$$$message_0442_0009_0001$$$::"Kiritsugu-san? Então ela veio visitar o Kiritsugu-san?"::
 51294::$$$message_0442_0010_0000$$$::"Sim. Ela vai ficar em casa por um tempo, então dê-em as boas vindas a ela."[lr]::
 51295::$$$message_0442_0010_0001$$$::""[line4]Huh?""::
-51296::$$$message_0442_0011_0000$$$::A Sakura e a Fuji-nee tem a mesma reação ao mesmo tempo.[lr]::
+51296::$$$message_0442_0011_0000$$$::A Sakura e a Fuji-Nee tem a mesma reação ao mesmo tempo.[lr]::
 51297::$$$message_0442_0011_0001$$$::Bem, é normal elas estarem surpresas.::
 51298::$$$message_0442_0012_0000$$$::"Espera[line4]Shirou, você estará morando com [r]ela[line4]!?"::
 51299::$$$message_0442_0013_0000$$$::"Não. A Saber só vai ficar por uns tempos. Estou apenas deixando ela ficar aqui, como um hotel. Não é nada demais, não?"::
 51300::$$$message_0442_0014_0000$$$::"...Um. Ela se chama Saber-san, Senpai?"::
 51301::$$$message_0442_0015_0000$$$::"Sim, sei que é um nome estranho. Acho que ela tem alguns aspectos estranhos, considerando que ela não está acostumada com o Japão. ...Ah, ela pode ser meio direta, mas ela é muito bondosa. Me ajudaria se as duas se tornassem amigas, Sakura."::
 51302::$$$message_0442_0016_0000$$$::"............Okay. Tudo bem, mas..."[lr]::
-51303::$$$message_0442_0016_0001$$$::A Sakura desvia o olhar de mim e olha para a Fuji-nee pedindo socorro.::
-51304::$$$message_0442_0017_0000$$$::"Fujimura-sensei. Vai permitir a estadia da Saber-san?"::
+51303::$$$message_0442_0016_0001$$$::A Sakura desvia o olhar de mim e olha para a Fuji-Nee pedindo socorro.::
+51304::$$$message_0442_0017_0000$$$::"Fujimura-Sensei. Vai permitir a estadia da Saber-san?"::
 51305::$$$message_0442_0018_0000$$$::"Hmm. Não posso aprovar isso como professora, mas não posso ignorar alguém que veio a espera do Kiritsugu-san. ...Ela parece responsável, então acho que não vai acontecer nada. Certo, Shirou?"[lr]::
-51306::$$$message_0442_0018_0001$$$::A Fuji-nee olha para mim e pergunta algo desrespeitoso.::
+51306::$$$message_0442_0018_0001$$$::A Fuji-Nee olha para mim e pergunta algo desrespeitoso.::
 51307::$$$message_0442_0019_0000$$$::"C-Claro. Ela é minha convidada se for convidada de meu pai. Não posso ser mal exemplo com ela. Primeiro, ela é como minha minha irmã."[lr]::
 51308::$$$message_0442_0019_0001$$$::"Hmm. Quantos anos ela tem? Ela parece ser mais nova que a Sakura-chan."::
 51309::$$$message_0442_0020_0000$$$::"Huh? Um, acho que sim."[lr]::
@@ -50,10 +50,10 @@ id=qid::label=str::text=lstr::
 51316::$$$message_0442_0023_0001$$$::...Ugh, meu rosto está quente, aposto que tô todo vermelho.::
 51317::$$$message_0442_0024_0000$$$::"Hm. Você está dizendo a verdade, mas pode ser possível no futuro, huh?"[lr]::
 51318::$$$message_0442_0024_0001$$$::...Não sei o que ela leu em mim.[lr]::
-51319::$$$message_0442_0024_0002$$$::A Fuji-nee cruzas os braços e fica quieta como se estivesse ponderando algo.::
+51319::$$$message_0442_0024_0002$$$::A Fuji-Nee cruzas os braços e fica quieta como se estivesse ponderando algo.::
 51320::$$$message_0442_0025_0000$$$::Resumindo, a estadia da Saber foi aprovada.::
 51321::$$$message_0442_0026_0000$$$::"Acho que não tem problema. Vai ser bom se consideramos isso uma estadia domiciliar. Esse lugar tem muito quarto vazio, sabe?"::
-51322::$$$message_0442_0027_0000$$$::Fuji-nee se decide.[lr]::
+51322::$$$message_0442_0027_0000$$$::Fuji-Nee se decide.[lr]::
 51323::$$$message_0442_0027_0001$$$::A Sakura estava quieta até agora, mas...[lr]::
 51324::$$$message_0442_0027_0002$$$::"Okay. Não é algo que posso protestar."[lr]::
 51325::$$$message_0442_0027_0003$$$::...Parece que ela entendeu.::
@@ -77,12 +77,12 @@ id=qid::label=str::text=lstr::
 51343::$$$message_0442_0033_0003$$$::Pensando bem... Será que tem algum motivo da Sakura não vir me ajudar hoje?::
 51344::$$$message_0442_0034_0000$$$::"Bem, Acabou o jantar, acho que é hora já."[lr]::
 51345::$$$message_0442_0034_0001$$$::Já passou das 9.[lr]::
-51346::$$$message_0442_0035_0000$$$::"Fuji-nee. Pode levar a Sakura pra casa se você for embora?"[lr]::
+51346::$$$message_0442_0035_0000$$$::"Fuji-Nee. Pode levar a Sakura pra casa se você for embora?"[lr]::
 51347::$$$message_0442_0035_0001$$$::Eu chamo ela enquanto lavo os pratos na cozinha.[lr]::
 51348::$$$message_0442_0035_0002$$$::"[line8]"[lr]::
 51349::$$$message_0442_0035_0003$$$::Não há resposta.[lr]::
-51350::$$$message_0442_0035_0004$$$::A Fuji-nee está vendo TV como se eu não tivesse aqui.::
-51351::$$$message_0442_0036_0000$$$::"...Oláaaa? Não me ouviu, Fujimura-sensei?"[lr]::
+51350::$$$message_0442_0035_0004$$$::A Fuji-Nee está vendo TV como se eu não tivesse aqui.::
+51351::$$$message_0442_0036_0000$$$::"...Oláaaa? Não me ouviu, Fujimura-Sensei?"[lr]::
 51352::$$$message_0442_0036_0001$$$::Vou para a sala de estar e bato na cabeça dela.[lr]::
 51353::$$$message_0442_0036_0002$$$::Então.[lr]::
 51354::$$$message_0442_0036_0003$$$::"Desculpa, mas não posso. Não vou poder levar a Sakura-chan pra casa por uns tempos."::
@@ -92,7 +92,7 @@ id=qid::label=str::text=lstr::
 51358::$$$message_0442_0037_0003$$$::Fuji-nee makes another sneak attack on me.::
 51359::$$$message_0442_0038_0000$$$::"[line8]Com licença?"[lr]::
 51360::$$$message_0442_0038_0001$$$::"Que tal ficar também, Sakura-chan? Posso falar com seus pais se quiser. Vai ser mais divertido se todos ficarem aqui, né?"::
-51361::$$$message_0442_0039_0000$$$::"Ah...... S-Sim, por favor! Você é incrível, Fujimura-sensei!"[lr]::
+51361::$$$message_0442_0039_0000$$$::"Ah...... S-Sim, por favor! Você é incrível, Fujimura-Sensei!"[lr]::
 51362::$$$message_0442_0039_0001$$$::Espera.[lr]::
 51363::$$$message_0442_0039_0002$$$::Por que a Sakura está tão entusiasmada?::
 51364::$$$message_0442_0040_0000$$$::"Tudo bem. Podemos usar a sala do tatami lá trás! Há futons o bastante para todos nós! Tudo bem por você, né, Saber-chan?"[lr]::
@@ -100,18 +100,18 @@ id=qid::label=str::text=lstr::
 51366::$$$message_0442_0041_0000$$$::"......"[lr]::
 51367::$$$message_0442_0041_0001$$$::A Saber está me olhando com um pedido de socorro.::
 51368::$$$message_0442_0042_0000$$$::"...Vai ser um problema, Shirou. Estou aqui para te proteger. Não posso fazer isso se estiver no mesmo quarto que elas. E não sei como lidar com elas."::
-51369::$$$message_0442_0043_0000$$$::"...Desculpa. Não posso impedir Fuji-nee.[lr]::
-51370::$$$message_0442_0043_0001$$$::Parece que a Fuji-nee está usando isso como moeda de troca.[lr]::
+51369::$$$message_0442_0043_0000$$$::"...Desculpa. Não posso impedir Fuji-Nee.[lr]::
+51370::$$$message_0442_0043_0001$$$::Parece que a Fuji-Nee está usando isso como moeda de troca.[lr]::
 51371::$$$message_0442_0043_0002$$$::Ela provavelmente vai mudar de ideia sobre você ficar se eu recusar. Vamos acabar dormindo na rua se isso acontecer."::
 51372::$$$message_0442_0044_0000$$$::"...Isso seria um problema também. O Campo de Separação aqui é excelente. Esse local é uma boa base. Você está bem preparado aqui para qualquer ataque surpresa."::
 51373::$$$message_0442_0045_0000$$$::"...Entendo. Então por favor aguente firme por este motivo. Podemos nós encontrar aqui rapidamente enquanto estivermos aqui.[lr]::
-51374::$$$message_0442_0045_0001$$$::...Um, é trabalhoso dar atenção a Fuji-nee, mas apenas diga que não entende Japonês se ela te incomodar."::
+51374::$$$message_0442_0045_0001$$$::...Um, é trabalhoso dar atenção a Fuji-Nee, mas apenas diga que não entende Japonês se ela te incomodar."::
 51375::$$$message_0442_0046_0000$$$::"Ei, pare de sussurrar aí.[lr]::
 51376::$$$message_0442_0046_0001$$$::Venha, Saber-chan. Shirou é um rapaz, então ele pode ficar sozinho, certo?"[lr]::
-51377::$$$message_0442_0046_0002$$$::A Fuji-nee puxa a Saber pra ela.::
+51377::$$$message_0442_0046_0002$$$::A Fuji-Nee puxa a Saber pra ela.::
 51378::$$$message_0442_0047_0000$$$::"[line8]"[lr]::
 51379::$$$message_0442_0047_0001$$$::Está decidido.[lr]::
-51380::$$$message_0442_0047_0002$$$::A estadia da Saber foi aprovada, a Fuji-nee vai ficar e a Sakura vai fazer companhia pra ambas também.[lr]::
+51380::$$$message_0442_0047_0002$$$::A estadia da Saber foi aprovada, a Fuji-Nee vai ficar e a Sakura vai fazer companhia pra ambas também.[lr]::
 51381::$$$message_0442_0047_0003$$$::A população aqui subiu drasticamente em um único dia.[lr]::
 51382::$$$message_0442_0047_0004$$$::...Hm, pensando bem, isso realmente é comparável a um hotel.::
 

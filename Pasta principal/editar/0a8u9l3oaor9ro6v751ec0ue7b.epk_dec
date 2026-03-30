@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 36337::$$$message_0303_0003_0003$$$::A opinião honesta dele, reduzindo espíritos heroicos a meros limpadores.::
 36338::$$$message_0303_0004_0000$$$::"Ah. Bem vindo, Senpai."[lr]::
 36339::$$$message_0303_0004_0001$$$::Mesmo ela estando cozinhando, ela sai pra me cumprimentar.[lr]::
-36340::$$$message_0303_0005_0000$$$::"Eu acabei de começar a preparar. Mas eu não acho que preciso da sua ajuda. Nós vamos ter sopa hoje a noite devido ao pedido da Fujimura-sensei."::
+36340::$$$message_0303_0005_0000$$$::"Eu acabei de começar a preparar. Mas eu não acho que preciso da sua ajuda. Nós vamos ter sopa hoje a noite devido ao pedido da Fujimura-Sensei."::
 36341::$$$message_0303_0006_0000$$$::"Entendi. Com certeza não tem nada que eu possa ajudar com."[lr]::
 36342::$$$message_0303_0006_0001$$$::Olhando, eu vejo que tudo já foi cortado.[lr]::
 36343::$$$message_0303_0006_0002$$$::Sabendo do quão boa a Sakura é, eu aposto que tudo que falta fazer é cozinhar.::
@@ -24,8 +24,8 @@ id=qid::label=str::text=lstr::
 36348::$$$message_0303_0009_0000$$$::...Se a Sakura tá hesitando em dizer isso, deve significar que a Saber tá muito brava.[lr]::
 36349::$$$message_0303_0009_0001$$$::É natural porém, já que eu quebrei nossa promessa de que eu chegaria antes de escurecer.::
 36350::$$$message_0303_0010_0000$$$::"Ah, bem vindo a casa, Shirou. A Saber-chan tava muito brava. Ela disse que queria falar com você no dojo depois que você chegasse em casa."[lr]::
-36351::$$$message_0303_0010_0001$$$::A Fuji-nee diz algo muito assustador enquanto mastiga uma tangerina.::
-36352::$$$message_0303_0011_0000$$$::"[line3]Fuji-nee. Você não contou coisas estranhas pra Saber, certo? ...Uhm, tipo uma pessoa que quebra uma promessa tem que ser punido recebendo porradas com uma shinai..."::
+36351::$$$message_0303_0010_0001$$$::A Fuji-Nee diz algo muito assustador enquanto mastiga uma tangerina.::
+36352::$$$message_0303_0011_0000$$$::"[line3]Fuji-Nee. Você não contou coisas estranhas pra Saber, certo? ...Uhm, tipo uma pessoa que quebra uma promessa tem que ser punido recebendo porradas com uma shinai..."::
 36353::$$$message_0303_0012_0000$$$::"Eu contei pra ela. Eu falei pra ela que ela não precisa se segurar."[lr]::
 36354::$$$message_0303_0012_0001$$$::"[line8]"[lr]::
 36355::$$$message_0303_0012_0002$$$::Entendi.[lr]::
@@ -38,11 +38,11 @@ id=qid::label=str::text=lstr::
 36362::$$$message_0303_0016_0001$$$::Por sinal, sobre a Mitsuzuri. Você sabe se ela tá em casa ou não?"::
 36363::$$$message_0303_0017_0000$$$::"Huh? Como você sabe disso? Eu achava que as notícias ainda não tinham escapado."[lr]::
 36364::$$$message_0303_0017_0001$$$::"Eu ouvi sobre ela na sala do conselho estudantil. Então, como que tá? Alguém encontrou a Mitsuzuri?"::
-36365::$$$message_0303_0018_0000$$$::Eu encaro a Fuji-nee.[lr]::
-36366::$$$message_0303_0018_0001$$$::A Fuji-nee é uma professora, mesmo que ela não pareça uma.[lr]::
+36365::$$$message_0303_0018_0000$$$::Eu encaro a Fuji-Nee.[lr]::
+36366::$$$message_0303_0018_0001$$$::A Fuji-Nee é uma professora, mesmo que ela não pareça uma.[lr]::
 36367::$$$message_0303_0018_0002$$$::Ela se mantém quieta sobre coisas que ela não devia falar sobre, e eu tenho certeza que ela mentiria pra consolar alguém.[lr]::
 36368::$$$message_0303_0018_0003$$$::Então eu tenho que encarar ela pra perceber qualquer mudança enquanto eu pergunto sobre a Mitsuzuri.::
-36369::$$$message_0303_0019_0000$$$::"Então, Fuji-nee. Nada mudou?"[lr]::
+36369::$$$message_0303_0019_0000$$$::"Então, Fuji-Nee. Nada mudou?"[lr]::
 36370::$$$message_0303_0019_0001$$$::"...Eu acho que não tem o que fazer. Você parece que vai correr se eu ficar quieta, e não é como se isso fosse um segredo.[lr]::
 36371::$$$message_0303_0019_0002$$$::Mas esse é um caso especial, sabe? Eu só tô te falando isso porque você é amigo dela."::
 36372::$$$message_0303_0020_0000$$$::"Eu sei. Eu aprecio isso, então me fala logo."[lr]::
@@ -76,4 +76,4 @@ id=qid::label=str::text=lstr::
 36400::$$$message_0303_0030_0001$$$::Eu abaixo minha cabeça e me desculpo.[lr]::
 36401::$$$message_0303_0030_0002$$$::[line3]Então.[lr]::
 36402::$$$message_0303_0030_0003$$$::"...Tudo bem. Eu vou fazer como você quiser."[lr]::
-36403::$$$message_0303_0030_0004$$$::Sakura assente e concorda tão baixo que a voz dela se mistura ao som do ensopado fervendo.::
+36403::$$$message_0303_0030_0004$$$::Sakura assente e concorda tão baixo que a voz dela se mistura ao som do ensopado fervendo��5

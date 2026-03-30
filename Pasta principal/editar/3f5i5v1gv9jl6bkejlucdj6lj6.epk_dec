@@ -33,7 +33,7 @@ id=qid::label=str::text=lstr::
 61960::$$$message_0568_0011_0000$$$::"...Um, você tem uma chamada. Ela está te esperando."[lr]::
 61961::$$$message_0568_0011_0001$$$::A Sakura se afasta do telefone.[lr]::
 61962::$$$message_0568_0011_0002$$$::"Uma chamada...? A essa hora?"[lr]::
-61963::$$$message_0568_0011_0003$$$::Seria a Fuji-nee...? Talvez ela quer que eu leve algo que ela esqueceu, ou talvez ela quer me contar uma piada que ela acabou de inventar.::
+61963::$$$message_0568_0011_0003$$$::Seria a Fuji-Nee...? Talvez ela quer que eu leve algo que ela esqueceu, ou talvez ela quer me contar uma piada que ela acabou de inventar.::
 61964::$$$message_0568_0012_0000$$$::"Certo. Alô.[lr]::
 61965::$$$message_0568_0012_0001$$$::Emiya falando[w l=4][line4]"::
 61966::$$$message_0568_0013_0000$$$::"Nada de 'Emiya falando'!![lr]::
@@ -93,7 +93,7 @@ id=qid::label=str::text=lstr::
 62020::$$$message_0568_0031_0001$$$::Pondero sobre seu comportamento enquanto faço chá para nós três.::
 62021::$$$message_0568_0032_0000$$$::Quando terminamos nosso treinamento, o céu já estava tingido de vermelho.::
 62022::$$$message_0568_0033_0000$$$::"Acabei de preparar o hamachi. Também precisamos de abóbora e tomate, certo??"[lr]::
-62023::$$$message_0568_0033_0001$$$::"Ah, já cuidei disso. Estou colocando o molho nele antes de cozinhá-lo... Ah, pode pegar as tigelas já que estarei fazendo creme de ovo salgado? A Fuji-nee saiu ontem e comprou uns carangueijos."::
+62023::$$$message_0568_0033_0001$$$::"Ah, já cuidei disso. Estou colocando o molho nele antes de cozinhá-lo... Ah, pode pegar as tigelas já que estarei fazendo creme de ovo salgado? A Fuji-Nee saiu ontem e comprou uns carangueijos."::
 62024::$$$message_0568_0034_0000$$$::"Ah, pasta de peixe sabor carangueijo? Gosto dela porque é saborosa e apetitosa."[lr]::
 62025::$$$message_0568_0034_0001$$$::A Sakura pega as tigelas e coloca-as no balcão.[lr]::
 62026::$$$message_0568_0034_0002$$$::Estou fazendo o jantar em agradecimento a tudo que ela fez hoje.::
@@ -143,5 +143,4 @@ id=qid::label=str::text=lstr::
 62070::$$$message_0568_0049_0002$$$::"Aah, gostei desse tom. Certo, vamos continuar de onde paramos, Emiya."::
 62071::$$$message_0568_0050_0000$$$::Eu aperto os punhos.[lr]::
 62072::$$$message_0568_0050_0001$$$::Não consigo me segurar.[lr]::
-62073::$$$message_0568_0050_0002$$$::Eu[w l=4][line4][lr]::
-
+62073::$$$message_0568_0050_0002$$$::Eu[w l=4][line4][lr]:b

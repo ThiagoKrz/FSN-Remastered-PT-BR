@@ -51,9 +51,9 @@ id=qid::label=str::text=lstr::
 40280::$$$message_0347_0012_0000$$$::"...Sim. De alguma forma, ele ainda está vivo. Até ontem, os ferimentos dele estavam se curando sozinhos, mas agora não está melhorando nem um pouco. Ele deve ter perdido os poderes de cura da Saber depois que o contrato foi desfeito.[lr]::
 40281::$$$message_0347_0012_0001$$$::Mas ele não corre risco de vida. Por sorte, nenhum órgão vital foi atingido, então ele deve conseguir se levantar e comer daqui a uns três dias."::
 40282::$$$message_0347_0013_0000$$$::"Não, eu não estava falando dele. Me referi à outra pessoa."[lr]::
-40283::$$$message_0347_0013_0001$$$::"Hã? Ah, a Fujimura-sensei? Eu a deixei dormindo no quarto de visitantes. A Caster lançou uma magia de sono nela, mas o seu estado de saúde está muito bom. Eu já cuidei dela, então ela vai ficar bem mesmo se tiver que dormir por uma semana."::
+40283::$$$message_0347_0013_0001$$$::"Hã? Ah, a Fujimura-Sensei? Eu a deixei dormindo no quarto de visitantes. A Caster lançou uma magia de sono nela, mas o seu estado de saúde está muito bom. Eu já cuidei dela, então ela vai ficar bem mesmo se tiver que dormir por uma semana."::
 40284::$$$message_0347_0014_0000$$$::"[line4]Entendo. Mas se depender da magia da Caster, ela pode acabar virando uma bela adormecida. Os feitiços daquela mulher se parecem mais com maldições. A melhor maneira de garantir que o feitiço será desfeito é matando a Caster."[lr]::
-40285::$$$message_0347_0014_0001$$$::"Tem razão. De qualquer forma, o Santo Graal não vai durar por muito tempo. Nós temos que derrotar a Caster o mais rápido possível, e se eu conheço bem a Fujimura-sensei, aposto que ela vai acabar acordando sozinha."[lr]::
+40285::$$$message_0347_0014_0001$$$::"Tem razão. De qualquer forma, o Santo Graal não vai durar por muito tempo. Nós temos que derrotar a Caster o mais rápido possível, e se eu conheço bem a Fujimura-Sensei, aposto que ela vai acabar acordando sozinha."[lr]::
 40286::$$$message_0347_0014_0002$$$::O Archer acena com a cabeça.[lr]::
 40287::$$$message_0347_0014_0003$$$::E depois de uma pequena pausa na conversa...::
 40288::$$$message_0347_0015_0000$$$::"O mais importante é derrotar a Caster. Mesmo que haja um Mestre a menos, a Saber ainda está nesse mundo. ...Nós não podemos perder tempo, Rin."[lr]::
@@ -80,5 +80,4 @@ id=qid::label=str::text=lstr::
 40309::$$$message_0347_0018_0006$$$::Ele nem precisa responder.[lr]::
 40310::$$$message_0347_0018_0007$$$::O cavaleiro de roupa vermelha acena com a cabeça e vai atrás da sua Mestra.::
 40311::$$$message_0347_0019_0000$$$::Ainda há nuvens cinzas no céu.[lr]::
-40312::$$$message_0347_0019_0001$$$::Uma noite sem Lua. Ela sai com o Archer para procurar pelo seu alvo.::
-
+40312::$$$message_0347_0019_0001$$$::Uma noite sem Lua. Ela sai com o Archer para procurar pelo seu alvo.::o

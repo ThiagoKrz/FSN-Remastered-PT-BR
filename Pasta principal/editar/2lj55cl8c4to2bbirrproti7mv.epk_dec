@@ -56,11 +56,11 @@ id=qid::label=str::text=lstr::
 39827::$$$message_0340_0017_0001$$$::As luzes estão apagadas.[lr]::
 39828::$$$message_0340_0017_0002$$$::Debaixo do céu cinzento, dentro da sala escura estão...[lr]::
 39829::$$$message_0340_0017_0003$$$::"Ah. Eu só pretendia levá-la comigo, mas você chegou bem na hora, rapaz."[lr]::
-39830::$$$message_0340_0017_0004$$$::...a Fuji-nee, desmaiada, e um inimigo chamado Caster.::
+39830::$$$message_0340_0017_0004$$$::...a Fuji-Nee, desmaiada, e um inimigo chamado Caster.::
 39831::$$$message_0340_0018_0000$$$::"Caster...!"[lr]::
 39832::$$$message_0340_0018_0001$$$::Eu ouço a voz da Saber atrás de mim.[lr]::
 39833::$$$message_0340_0018_0002$$$::Elas param assim que avistam a Caster.[lr]::
-39834::$$$message_0340_0018_0003$$$::Provavelmente porque a Fuji-nee está sendo mantida como refém.[lr]::
+39834::$$$message_0340_0018_0003$$$::Provavelmente porque a Fuji-Nee está sendo mantida como refém.[lr]::
 39835::$$$message_0340_0018_0004$$$::A Caster vai disparar uma magia nela se a Saber ou a Tohsaka decidirem atacá-la.::
 39836::$$$message_0340_0019_0000$$$::Ela fará isso mais rápido do que qualquer um de nós.[lr]::
 39837::$$$message_0340_0019_0001$$$::Mesmo se a Saber correr até ela,[lr]::
@@ -128,9 +128,9 @@ id=qid::label=str::text=lstr::
 39899::$$$message_0340_0040_0002$$$::O calor retorna para acalmar a minha mente.::
 39900::$$$message_0340_0041_0000$$$::"Agora, me dê a sua resposta, Emiya Shirou.[lr]::
 39901::$$$message_0340_0041_0001$$$::Você não tem chance de vencer. Você irá, junto com a Saber, me obedecer?"::
-39902::$$$message_0340_0042_0000$$$::"[line4]Largue a Fuji-nee."::
+39902::$$$message_0340_0042_0000$$$::"[line4]Largue a Fuji-Nee."::
 39903::$$$message_0340_0043_0000$$$::"...Será que você não ouviu? Eu te disse para ficar sob o meu comando."::
-39904::$$$message_0340_0044_0000$$$::"Cala a boca. Largue a Fuji-nee."[lr]::
+39904::$$$message_0340_0044_0000$$$::"Cala a boca. Largue a Fuji-Nee."[lr]::
 39905::$$$message_0340_0044_0001$$$::Não sobrou mais nada.[lr]::
 39906::$$$message_0340_0044_0002$$$::Eu não tenho nada para oferecê-la.::
 39907::$$$message_0340_0045_0000$$$::"[line8]"[lr]::
@@ -144,7 +144,7 @@ id=qid::label=str::text=lstr::
 39915::$$$message_0340_0048_0000$$$::"...Estou bastante decepcionada. Eu realmente gostava de você.[lr]::
 39916::$$$message_0340_0048_0001$$$::Eu poderia ter compartilhado o Santo Graal contigo se você tivesse se juntado a mim."::
 39917::$$$message_0340_0049_0000$$$::"Isso não interessa. Eu decidi lutar para impedir pessoas como você. O Santo Graal não tem nada a ver com isso.[lr]::
-39918::$$$message_0340_0049_0001$$$::Apenas deixe a Fuji-nee em paz."::
+39918::$$$message_0340_0049_0001$$$::Apenas deixe a Fuji-Nee em paz."::
 39919::$$$message_0340_0050_0000$$$::Eu encaro a Caster.[lr]::
 39920::$$$message_0340_0050_0001$$$::Depois de receber o meu olhar cheio de ódio, a Caster[line4][lr]::
 39921::$$$message_0340_0050_0002$$$::"Fufu[line4]ahaha, ahahahahaha!"[lr]::

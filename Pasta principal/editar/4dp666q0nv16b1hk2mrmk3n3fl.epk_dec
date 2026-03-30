@@ -8,7 +8,7 @@ id=qid::label=str::text=lstr::
 31248::$$$message_0251_0002_0000$$$::"Shirou, o que a Rin disse?"[lr]::
 31249::$$$message_0251_0002_0001$$$::"Ela disse que a escola vai funcionar normalmente. Então a gente vai pra escola amanhã e procurar pelo mestre da Caster."::
 31250::$$$message_0251_0003_0000$$$::"...Entendo. Então ninguém naquela construção sofreu seriamente?"[lr]::
-31251::$$$message_0251_0003_0001$$$::"Exceto alguns. Ah, eu acho que a Fuji-nee não vai vir pra casa porque ela tá ocupada com uma reunião de funcionários ou algo assim."::
+31251::$$$message_0251_0003_0001$$$::"Exceto alguns. Ah, eu acho que a Fuji-Nee não vai vir pra casa porque ela tá ocupada com uma reunião de funcionários ou algo assim."::
 31252::$$$message_0251_0004_0000$$$::"Isso é bom. Conhecendo a Taiga, eu tenho certeza que ela estaria sentando na mesa do café da manhã como se nada houvesse acontecido."[lr]::
 31253::$$$message_0251_0004_0001$$$::Sim, isso é um alívio para mim também.[lr]::
 31254::$$$message_0251_0004_0002$$$::Bom, como a energia dela é extraordinária, eu parei de me preocupar com ela quando eu ouvi que todos estavam bem.::
@@ -72,5 +72,4 @@ id=qid::label=str::text=lstr::
 31312::$$$message_0251_0027_0001$$$::Eu suspiro e puxo o cobertor pra cima da minha cabeça.[lr]::
 31313::$$$message_0251_0027_0002$$$::...Bom...[lr]::
 31314::$$$message_0251_0027_0003$$$::Eu acho que tem algo errado comigo...[lr]::
-31315::$$$message_0251_0027_0004$$$::...Por pensar que eu quero apoiar uma garota perfeita assim.::
-
+31315::$$$message_0251_0027_0004$$$::...Por pensar que eu quero apoiar uma garota perfeita assim.::}

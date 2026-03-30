@@ -63,12 +63,12 @@ id=qid::label=str::text=lstr::
 34579::$$$message_0279_0017_0001$$$::...Para checar a verdadeira identidade de Kuzuki Souichirou, a quem a Caster está protegendo.::
 34580::$$$message_0279_0018_0000$$$::"Então? Tem algo que você quer me perguntar?"[lr]::
 34581::$$$message_0279_0018_0001$$$::Ele fala no seu tom normal.[lr]::
-34582::$$$message_0279_0018_0002$$$::Eu não sinto a presença de um mago vinda do Kuzuki-sensei.[lr]::
+34582::$$$message_0279_0018_0002$$$::Eu não sinto a presença de um mago vinda do Kuzuki-Sensei.[lr]::
 34583::$$$message_0279_0018_0003$$$::Não, eu nem sinto o desejo dele de vencer a Guerra do Santo Graal.[lr]::
 34584::$$$message_0279_0018_0004$$$::Então[line4]::
 34585::$$$message_0279_0019_0000$$$::"Kuzuki. Você tá sendo controlado pela Caster?"[lr]::
-34586::$$$message_0279_0019_0001$$$::É possível que o Kuzuki-sensei esteja sendo controlado pela Caster como o Archer disse.[lr]::
-34587::$$$message_0279_0019_0002$$$::Eu não posso lutar contra o Kuzuki-sensei até eu entender isso.::
+34586::$$$message_0279_0019_0001$$$::É possível que o Kuzuki-Sensei esteja sendo controlado pela Caster como o Archer disse.[lr]::
+34587::$$$message_0279_0019_0002$$$::Eu não posso lutar contra o Kuzuki-Sensei até eu entender isso.::
 34588::$$$message_0279_0020_0000$$$::"[line4]"[lr]::
 34589::$$$message_0279_0020_0001$$$::A Caster emite uma vontade de matar.[lr]::
 34590::$$$message_0279_0020_0002$$$::Isso por si só me fala que essa pergunta é além do limite pra ela.::
@@ -76,7 +76,7 @@ id=qid::label=str::text=lstr::
 34592::$$$message_0279_0021_0001$$$::As palavras dela não são uma ameaça.[lr]::
 34593::$$$message_0279_0021_0002$$$::Mas...[lr]::
 34594::$$$message_0279_0021_0003$$$::"Espera. Por que você pergunta isso, Emiya?"[lr]::
-34595::$$$message_0279_0021_0004$$$::Kuzuki-sensei para ela da sua maneira normal.::
+34595::$$$message_0279_0021_0004$$$::Kuzuki-Sensei para ela da sua maneira normal.::
 34596::$$$message_0279_0022_0000$$$::"Há de existir razão por trás da sua pergunta. Me conte."[lr]::
 34597::$$$message_0279_0022_0001$$$::"[line8]"[lr]::
 34598::$$$message_0279_0022_0002$$$::...Minha garganta tá seca.[lr]::
@@ -99,7 +99,7 @@ id=qid::label=str::text=lstr::
 34615::$$$message_0279_0028_0001$$$::Eu não acho que é uma mentira. O Kuzuki Souichirou é direto como quando ele tá dando aula.::
 34616::$$$message_0279_0029_0000$$$::"[line6]Ufa."[lr]::
 34617::$$$message_0279_0029_0001$$$::Eu respiro em alívio, enquanto observo a Caster.[lr]::
-34618::$$$message_0279_0029_0002$$$::O Kuzuki-sensei é uma vítima se ele estiver sendo controlado pela Caster.[lr]::
+34618::$$$message_0279_0029_0002$$$::O Kuzuki-Sensei é uma vítima se ele estiver sendo controlado pela Caster.[lr]::
 34619::$$$message_0279_0029_0003$$$::Então tudo o que falta é derrotar a Caster[line4]::
 34620::$$$message_0279_0030_0000$$$::"Mas Emiya. O que a Caster tá fazendo é tão mau assim?"[lr]::
 34621::$$$message_0279_0030_0001$$$::[line3]Mas ainda.[lr]::

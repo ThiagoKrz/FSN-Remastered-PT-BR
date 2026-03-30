@@ -141,7 +141,7 @@ id=qid::label=str::text=lstr::
 30047::$$$message_0241_0037_0001$$$::"Eu tô! Eu tava esperando aqui desde quando você não acordou depois daquilo!"[lr]::
 30048::$$$message_0241_0037_0002$$$::Ela me lança um olhar severo.::
 30049::$$$message_0241_0038_0000$$$::"Huh[line5]você tava ficando na minha casa!?"::
-30050::$$$message_0241_0039_0000$$$::"Sim. Eu tive que cuidar das suas feridas, e eu tive que convencer a Fujimura-sensei e a Sakura. Eu não posso te largar e ir pra casa sozinha."[lr]::
+30050::$$$message_0241_0039_0000$$$::"Sim. Eu tive que cuidar das suas feridas, e eu tive que convencer a Fujimura-Sensei e a Sakura. Eu não posso te largar e ir pra casa sozinha."[lr]::
 30051::$$$message_0241_0039_0001$$$::"Ah[line3]você tem razão. ...Me desculpa, Tohsaka. Eu te causei problemas de novo."::
 30052::$$$message_0241_0040_0000$$$::"...Não se preocupa em me agradecer. Não foi tão problemático. E além disso, você é o maior contribuidor pra nossa vitória. Toma isso como sua recompensa. Nós vamos deixar passar por hoje."::
 30053::$$$message_0241_0041_0000$$$::Ela fala enquanto olha pro outro lado.[lr]::
@@ -306,4 +306,4 @@ id=qid::label=str::text=lstr::
 30212::$$$message_0241_0102_0000$$$::O sol já se levantou.[lr]::
 30213::$$$message_0241_0102_0001$$$::Mesmo que eu não seja capaz de mudar sozinho, eu tenho certeza que nós dois conseguimos mudar um pouco.::
 30214::$$$message_0241_0103_0000$$$::[line3]Nós acabamos de começar a caminhar meu caminho.[lr]::
-30215::$$$message_0241_0103_0001$$$::Eu vou dar meu melhor e caminhar, junto a essa confiável parceira minha[line3]::
+30215::$$$message_0241_0103_0001$$$::Eu vou dar meu melhor e caminhar, junto a essa confiável parceira minha[line3]vR#

@@ -173,7 +173,7 @@ id=qid::label=str::text=lstr::
 28827::$$$message_0236_0059_0004$$$::De repente,[lr]::
 28828::$$$message_0236_0059_0005$$$::uma terceira voz ressoa, como se planejasse me impedir de apagar o Campo Limitado.::
 28829::$$$message_0236_0060_0000$$$::"[line4]!"[lr]::
-28830::$$$message_0236_0060_0001$$$::Rapidamente levanto e me viro.[lr]::
+28830::$$$message_0236_0060_0001$$$::Rapidamente levanto-me e me viro.[lr]::
 28831::$$$message_0236_0060_0002$$$::No topo da caixa d'água.[lr]::
 28832::$$$message_0236_0060_0003$$$::A dez metros de mim, um homem está olhando para mim de cima dela.::
 28833::$$$message_0236_0061_0000$$$::Um azul ultramarino profundo que se mistura com a noite.[lr]::
@@ -182,10 +182,10 @@ id=qid::label=str::text=lstr::
 28836::$$$message_0236_0061_0003$$$::O homem de azul olha para mim com tranquilidade, mesmo nesta situação. Como se ele já me conhecesse por uma década.::
 28837::$$$message_0236_0062_0000$$$::"[line3]Isto é coisa sua?"::
 28838::$$$message_0236_0063_0000$$$::"Não. Truques de mágica são para os magos. Nós apenas seguimos ordens de quando e onde lutar. Não é mesmo, camarada invisível?"::
-28839::$$$message_0236_0064_0000$$$::"[line4]!"[lr]::
+28839::$$$message_0236_0064_0000$$$::"[line4]!"::
 28840::$$$message_0236_0064_0001$$$::Sua voz é casual, mas está repleta de intenção assassina.[lr]::
 28841::$$$message_0236_0064_0002$$$::Esse cara consegue ver o Archer...!::
-28842::$$$message_0236_0065_0000$$$::"Como pensei, um Servo...!"[lr]::
+28842::$$$message_0236_0065_0000$$$::"Como pensei, um Servo...!"::
 28843::$$$message_0236_0065_0001$$$::"Isso mesmo. Já que sabe disso, senhorita, estou correto em considerá-la como minha inimiga?"[lr]::
 28844::$$$message_0236_0065_0002$$$::"..."[lr]::
 28845::$$$message_0236_0065_0003$$$::Minha espinha congela.[lr]::
@@ -261,7 +261,7 @@ id=qid::label=str::text=lstr::
 29015::$$$message_0236_0083_0001$$$:: Serei educado e esperarei até lá."[lr]::
 29016::$$$message_0236_0083_0002$$$::"..."[lr]::
 29017::$$$message_0236_0083_0003$$$::Ele não responde.[lr]::
-29018::$$$message_0236_0083_0004$$$::"Não há palavras a serem trocadas entre inimigos."[lr]::
+29018::$$$message_0236_0083_0004$$$::"Não há palavras a serem trocadas entre inimigos".[lr]::
 29019::$$$message_0236_0083_0005$$$::Suas costas sólidas como ferro parecem declarar isso.::
 29020::$$$message_0236_0084_0000$$$::"..."[lr]::
 29021::$$$message_0236_0084_0001$$$::O que me faz perceber...[lr]::
@@ -300,7 +300,7 @@ id=qid::label=str::text=lstr::
 29054::$$$message_0236_0093_0000$$$::Estocadas tão rápidas que até mesmo as imagens residuais parecem estar embaçadas.[lr]::
 29055::$$$message_0236_0093_0001$$$::Seus golpes repelem o Archer e o forçam a recuar, podendo cada um deles ser o golpe final.[lr]::
 29056::$$$message_0236_0093_0002$$$::Contudo, mesmo que seja um arqueiro, o Archer ainda é um Servo.[lr]::
-29057::$$$message_0236_0093_0003$$$::Um ataque qualquer não vai finalizá-lo...!::
+29057::$$$message_0236_0093_0003$$$::Um ataque qualquer não vai finalizá-lo...![lr]::
 29058::$$$message_0236_0094_0000$$$::"Ha[line4]!"[lr]::
 29059::$$$message_0236_0094_0001$$$::Tendo repelido o golpe direcionado à sua testa, o Archer se aproxima com mais velocidade do que o Lancer.::
 29060::$$$message_0236_0095_0000$$$::[line3]Baseando-se na forma, é normal pensar que o ataque principal de uma lança é uma estocada, mas na verdade sua maior força são os seus giros.[lr]::
@@ -365,7 +365,7 @@ id=qid::label=str::text=lstr::
 29119::$$$message_0236_0109_0003$$$::Mas Servos são diferentes.[lr]::
 29120::$$$message_0236_0109_0004$$$::Eles são os seres mais poderosos que existem.[lr]::
 29121::$$$message_0236_0109_0005$$$::Seria impossível até mesmo para os Feiticeiros, dos quais existem apenas cinco neste mundo, formar um contrato com um deles.::
-29122::$$$message_0236_0110_0000$$$::A invocação é difícil, mas não porque as habilidades do Servo superam as de um mago.[lr]::
+29122::$$$message_0236_0110_0000$$$::A invocação é difícil, mas não porque as habilidades do Servo superem as de um mago.[lr]::
 29123::$$$message_0236_0110_0001$$$::É porque Servos em si são existências muito superiores à magia.::
 29124::$$$message_0236_0111_0000$$$::Permita-me explicar.[lr]::
 29125::$$$message_0236_0111_0001$$$::Servos são heróis do passado.[lr]::
@@ -409,7 +409,7 @@ id=qid::label=str::text=lstr::
 29163::$$$message_0236_0120_0007$$$::O guerreiro enlouquecido, Berserker.[lr]::
 29164::$$$message_0236_0120_0008$$$::Apenas os Espíritos Heroicos compatíveis com essas classes são invocados no presente para obedecerem a seus Mestres e tornarem-se Servos.::
 29165::$$$message_0236_0121_0000$$$::Esse é o Sistema de Servos.[lr]::
-29166::$$$message_0236_0121_0001$$$::Para conquistar o "milagre" inalcançável para os humanos, um Espírito Heroico além do controle humano é invocado e forçado a fazer um contrato.[lr]::
+29166::$$$message_0236_0121_0001$$$::Para conquistar o "milagre" inalcançável para os humanos, um espírito heroico além do controle humano é invocado e forçado a fazer um contrato.[lr]::
 29167::$$$message_0236_0121_0002$$$::A competição suprema, realizada somente aqui, a Guerra do Santo Graal[line4]!::
 29168::$$$message_0236_0122_0000$$$::"[line4]!"[lr]::
 29169::$$$message_0236_0122_0001$$$::Um impacto estrondoso acontece.[lr]::
@@ -543,7 +543,7 @@ id=qid::label=str::text=lstr::
 29297::$$$message_0236_0156_0004$$$::"..."[lr]::
 29298::$$$message_0236_0156_0005$$$::Por um instante...[lr]::
 29299::$$$message_0236_0156_0006$$$::...meus pensamentos congelam.::
-29300::$$$message_0236_0157_0000$$$::"Siga ele, Archer! Eu te alcanço o mais rápido que conseguir...!"[lr]::
+29300::$$$message_0236_0157_0000$$$::"Siga-o, Archer! Eu te alcanço o mais rápido que conseguir...!"[lr]::
 29301::$$$message_0236_0157_0001$$$::"..."[lr]::
 29302::$$$message_0236_0157_0002$$$::O Archer imediatamente vai atrás do Lancer.::
 29303::$$$message_0236_0158_0000$$$::"Merda, que burrice minha...!"[lr]::
@@ -660,36 +660,36 @@ id=qid::label=str::text=lstr::
 29414::$$$message_0236_0185_0003$$$::Antes, eu só sabia na teoria como seria uma luta entre Servos, mas agora acabei de presenciar uma.::
 29415::$$$message_0236_0186_0000$$$::"Lancer, né...? Eu entrei em pânico quando ele estava prestes a usar o seu Fantasma Nobre, mas eu teria descoberto a sua identidade se ele o tivesse usado..."::
 29416::$$$message_0236_0187_0000$$$::O jeito mais fácil de derrotar um Servo é descobrindo a sua identidade.[lr]::
-29417::$$$message_0236_0187_0001$$$::Deixando de lado por agora o idiota que nem sequer sabe quem é, o maior ponto fraco de um Servo é a sua verdadeira identidade.[lr]::
+29417::$$$message_0236_0187_0001$$$::Deixando de lado por agora o idiota que nem sequer sabe quem é, o maior ponto fraco de um Servo é o seu "verdadeiro nome".[lr]::
 29418::$$$message_0236_0187_0002$$$::Descobrir o nome de um Servo, em outras palavras, a sua identidade, te permite ter uma ideia de que tipo de Fantasma Nobre ele deve possuir.::
 29419::$$$message_0236_0188_0000$$$::Isso é óbvio, mas como os Servos são Espíritos Heroicos, eles têm uma lenda associada a eles.[lr]::
 29420::$$$message_0236_0188_0001$$$::Descobrindo qual é a lenda deles, você deve ser capaz de descobrir a maioria das suas habilidades.[lr]::
-29421::$$$message_0236_0188_0002$$$::Servos são chamados pelo nome das suas classes exatamente porque querem esconder seus Nomes Verdadeiros.[lr]::
+29421::$$$message_0236_0188_0002$$$::Servos são chamados pelo nome das suas classes exatamente porque querem esconder seus nomes verdadeiros.[lr]::
 29422::$$$message_0236_0188_0003$$$::Quanto mais famoso um herói é, mais pessoas sabem sobre suas armas e suas fraquezas.::
-29423::$$$message_0236_0189_0000$$$::Um Espírito Heroico que se torna um Servo jamais revela a sua verdadeira identidade.[lr]::
+29423::$$$message_0236_0189_0000$$$::Um espírito heroico que se torna um Servo jamais revela a sua verdadeira identidade.[lr]::
 29424::$$$message_0236_0189_0001$$$::Os únicos que sabem as suas identidades são seus Mestres.[lr]::
 29425::$$$message_0236_0189_0002$$$::É até subentendido que os Mestres devem esconder a identidade de seus Servos enquanto tentam descobrir as identidades dos Servos dos outros.::
-29426::$$$message_0236_0190_0000$$$::Contando com esta, estamos na quinta Guerra do Santo Graal.[lr]::
-29427::$$$message_0236_0190_0001$$$::A qualidade do Servo é determinada pelo seu nível como Espírito Heroico.[lr]::
+29426::$$$message_0236_0190_0000$$$::Esta é a quinta Guerra do Santo Graal.[lr]::
+29427::$$$message_0236_0190_0001$$$::A qualidade do Servo é determinada pelo seu nível como espírito heroico.[lr]::
 29428::$$$message_0236_0190_0002$$$::Heróis mais famosos e heróis com armas melhores são obviamente mais fortes.::
 29429::$$$message_0236_0191_0000$$$::Mas é difícil invocar tais Espíritos Heroicos.[lr]::
-29430::$$$message_0236_0191_0001$$$::Para invocar um Espírito Heroico específico, é necessário ter uma conexão com ele, algo como uma arma que ele usou enquanto vivo.[lr]::
+29430::$$$message_0236_0191_0001$$$::Para invocar um espírito heroico específico, é necessário ter uma conexão com ele, algo como uma arma que ele usou enquanto vivo.[lr]::
 29431::$$$message_0236_0191_0002$$$::Até mesmo a Associação dos Magos possui poucas dessas.[lr]::
-29432::$$$message_0236_0191_0003$$$::Então a invocação geralmente trará um Espírito Heroico que combine com o Mestre, como eu fiz.::
-29433::$$$message_0236_0192_0000$$$::Basicamente, a força de um Servo é determinada pelo nível do Espírito Heroico.[lr]::
+29432::$$$message_0236_0191_0003$$$::Então a invocação geralmente trará um espírito heroico que combine com o Mestre, como eu fiz.::
+29433::$$$message_0236_0192_0000$$$::Basicamente, a força de um Servo é determinada pelo nível do espírito heroico.[lr]::
 29434::$$$message_0236_0192_0001$$$::Mas não é assim tão simples. Até mesmo os Espíritos Heroicos mais poderosos podem ter dificuldades dependendo da classe em que são colocados.[lr]::
 29435::$$$message_0236_0192_0002$$$::Cada classe tem suas habilidades especiais, criando a possibilidade de um Servo mais fraco derrotar um mais forte.::
-29436::$$$message_0236_0193_0000$$$::Cada uma das sete classes possui diferentes habilidades extras. Dependendo da sua afinidade com tal habilidade, um oponente mais forte pode muito bem ser derrotado.[lr]::
-29437::$$$message_0236_0193_0001$$$::Por exemplo, é dito que um herói infame já derrotou um grande herói em cada uma das quatro guerras anteriores.[lr]::
+29436::$$$message_0236_0193_0000$$$::Cada uma das sete classes possui diferentes habilidades extras, dependendo da sua afinidade com tal habilidade, um oponente mais forte pode muito bem ser derrotado.[lr]::
+29437::$$$message_0236_0193_0001$$$::Por exemplo, um herói infame já derrotou um grande herói quatro vezes no passado.[lr]::
 29438::$$$message_0236_0193_0002$$$::Até onde eu sei, o Servo mais poderoso é o Saber.::
 29439::$$$message_0236_0194_0000$$$::Em todas as últimas quatro guerras, Saber participou da batalha final.[lr]::
-29440::$$$message_0236_0194_0001$$$::Dizem que as três classes cavaleiras, Saber, Lancer, e Archer, possuem uma Resistência Mágica incrível.[lr]::
+29440::$$$message_0236_0194_0001$$$::Dizem que as três classes cavaleiras, Saber, Lancer, e Archer, possuem uma resistência mágica incrível.[lr]::
 29441::$$$message_0236_0194_0002$$$::Em outras palavras, magia é praticamente inútil contra eles.::
-29442::$$$message_0236_0195_0000$$$::Isso porque eles são guerreiros que lutaram durante a era dos mitos, quando a magia era prevalente.[lr]::
+29442::$$$message_0236_0195_0000$$$::Isso porque eles são guerreiros que lutaram durante a era dos mitos, quando a magia era usada.[lr]::
 29443::$$$message_0236_0195_0001$$$::Magia usada pelos magos de hoje provavelmente desapareceriam só de encostar em seus corpos.[lr]::
 29444::$$$message_0236_0195_0002$$$::Em geral, é por isso que essas três classes são consideradas as melhores.::
 29445::$$$message_0236_0196_0000$$$::Outro que vale a pena mencionar é o Servo Berserker.[lr]::
-29446::$$$message_0236_0196_0001$$$::O Espírito Heroico invocado nessa classe perde a sua sanidade.[lr]::
+29446::$$$message_0236_0196_0001$$$::O espírito heroico invocado nessa classe perde a sua sanidade.[lr]::
 29447::$$$message_0236_0196_0002$$$::Assim como o nome sugere, ele se torna um guerreiro enlouquecido, uma mera marionete controlada por seu Mestre. O benefício disso é o "fortalecimento" do Servo, tornando-o muito mais poderoso do que quando era vivo.::
 29448::$$$message_0236_0197_0000$$$::Contudo, quanto mais poderoso o Servo se torna, maior o fardo imposto sobre o Mestre.[lr]::
 29449::$$$message_0236_0197_0001$$$::No passado, os Mestres que invocaram um Berserker não foram capazes de controlar seus Servos frenéticos, destruindo a si mesmos por falta de energia mágica.[lr]::
@@ -708,7 +708,7 @@ id=qid::label=str::text=lstr::
 29462::$$$message_0236_0202_0001$$$::É, não é como se tudo fosse ocorrer como eu espero.[lr]::
 29463::$$$message_0236_0202_0002$$$::Não tem o que fazer quanto a isso.[lr]::
 29464::$$$message_0236_0202_0003$$$::Vamos considerar o que aconteceu esta noite como a taxa pelas lições que aprendemos.::
-29465::$$$message_0236_0203_0000$$$::"Você parece para baixo, Mestra. Onde está o seu ânimo de sempre? Não me diga que ficou assustada com aquela luta. Se me der a ordem, posso enfrentar o Lancer novamente agora mesmo."::
+29465::$$$message_0236_0203_0000$$$::"Você parece para baixo, Mestra. Onde está o seu ânimo de sempre? Não me diga que ficou assustada com aquela luta. Se me der a ordem, posso enfrentar o Lancer novamente agora mesmo."[lr]::
 29466::$$$message_0236_0204_0000$$$::O Archer parece protestar em silêncio, dizendo que é o que deveríamos fazer.[lr]::
 29467::$$$message_0236_0204_0001$$$::Entendo...[lr]::
 29468::$$$message_0236_0204_0002$$$::Acho que eu realmente pareço estar deprimida.::
@@ -733,8 +733,8 @@ id=qid::label=str::text=lstr::
 29387::$$$message_0236_0210_0001$$$::[font italic=true]...[font italic=false][lr]::
 29388::$$$message_0236_0210_0002$$$::Ele me pergunta com uma expressão séria.::
 29389::$$$message_0236_0211_0000$$$::Ah, entendi.[lr]::
-29390::$$$message_0236_0211_0001$$$::O desejo do Mestre, depois que ele obtém o Santo Graal, não é algo irrelevante para o Servo.[lr]::
-29391::$$$message_0236_0211_0002$$$::Mas isso é estranho. Meu pai disse que Servos também possuem desejos, só que isso é assunto deles.[lr]::
+29390::$$$message_0236_0211_0001$$$::O desejo do Mestre depois que ele obtém o Santo Graal não é totalmente irrelevante para o Servo.[lr]::
+29391::$$$message_0236_0211_0002$$$::Mas isso é estranho. Meu pai disse que Servos também possuem desejos, mas esses pertencem a eles.[lr]::
 29392::$$$message_0236_0211_0003$$$::Não acho que o Archer deve se preocupar por eu não possuir um.::
 29393::$$$message_0236_0212_0000$$$::"Muito bem, já que você não tem um desejo específico, por que não pedir por algo ambíguo? Algo como governar o mundo?"[lr]::
 29394::$$$message_0236_0212_0001$$$::"Por que eu pediria isso? O mundo já é meu."::
@@ -746,7 +746,7 @@ id=qid::label=str::text=lstr::
 29400::$$$message_0236_0215_0000$$$::"Ridículo. O Santo Graal possui o poder de garantir desejos, o poder para conquistar o mundo. Você está dizendo que está lutando por ele, mas ainda assim não possui um desejo?"[lr]::
 29401::$$$message_0236_0215_0001$$$::"Mas conquistar o mundo seria uma dor de cabeça, e desejar uma coisa dessas parece uma idiotice. Você parece não ter muita imaginação."[lr]::
 29402::$$$message_0236_0215_0002$$$::"Eu não entendo... Então pelo que você luta?"::
-29403::$$$message_0236_0216_0000$$$::"Luto porque há uma batalha para ser lutada, Archer. E ainda pegarei tudo que eu conseguir pegar. Não sei sobre essa coisa do Santo Graal, mas eu posso simplesmente usá-lo quando encontrar algo que quiser, não? Os desesjos dos humanos são inacabáveis enquanto estiverem vivo."[lr]::
+29403::$$$message_0236_0216_0000$$$::"Luto porque há uma batalha para ser lutada, Archer. E ainda pegarei tudo que eu conseguir pegar. Não sei sobre essa coisa do Santo Graal, mas eu posso simplesmente usá-lo quando encontrar algo que quiser, não? Humanos, seus desejos são inacabáveis enquanto estiverem vivo."[lr]::
 29404::$$$message_0236_0216_0001$$$::"[line3]Então, isso quer dizer que você..."[lr]::
 29405::$$$message_0236_0216_0002$$$::"Sim. Eu estou lutando para vencer, Archer."::
 29406::$$$message_0236_0217_0000$$$::[font italic=true]...[font italic=false][lr]::
@@ -754,25 +754,25 @@ id=qid::label=str::text=lstr::
 29408::$$$message_0236_0217_0002$$$::Talvez ele tenha ficado desapontado com as minhas opiniões, mas ele parece ter finalmente relaxado.::
 29409::$$$message_0236_0218_0000$$$::"Eu desisto. Você é definitivamente a Mestra perfeita para mim."[lr]::
 29410::$$$message_0236_0218_0001$$$::[line3]Ugh.[lr]::
-29411::$$$message_0236_0218_0002$$$::Eu tenho problemas para lidar com este tipo de comentário. Gostaria que ele parasse de dizer este tipo de coisas...::
+29411::$$$message_0236_0218_0002$$$::Eu tenho problemas para lidar com este tipo de comentário. Eu gostaria que ele parasse de dizer este tipo de coisas...::
 29412::$$$message_0236_0219_0000$$$::"Uhm... Um Servo não tem o direito de escolher o seu Mestre, mas vou perguntar por curiosidade. Por que sou a Mestra perfeita para você?"[lr]::
 29413::$$$message_0236_0219_0001$$$::"Não é óbvio? Você é certamente o Mestre mais poderoso.[lr]::
 29414::$$$message_0236_0219_0002$$$:: Ninguém seria um Mestre melhor para servir do que você."[lr]::
 29415::$$$message_0236_0219_0003$$$::"Ah, obrigada. Não soa como bajulação vindo de você."[lr]::
 29416::$$$message_0236_0219_0004$$$::Eu olho para o lado porque estou com vergonha...::
-29417::$$$message_0236_0220_0000$$$::Eu tenho dificuldade em lidar com o Archer que, mesmo sendo tão cínico, fala com sinceridade como fez agora.[lr]::
+29417::$$$message_0236_0220_0000$$$::Eu tenho dificuldade em lidar com o Archer porque mesmo sendo tão cínico, ele fala com sinceridade como fez agora.[lr]::
 29418::$$$message_0236_0220_0001$$$::Mas, bom... Estou honestamente feliz por ele confiar em mim.[lr]::
 29419::$$$message_0236_0220_0002$$$::Eu confio no Archer e ele confia em mim.[lr]::
 29420::$$$message_0236_0220_0003$$$::Não acho que isso seja algo ruim.::
 29421::$$$message_0236_0221_0000$$$::"Bom, vamos descansar. Mesmo que o sétimo Mestre vá aparecer, não vai ser exatamente agora... Um segundo... Rin, o que aconteceu com aquela sua joia?"[lr]::
 29422::$$$message_0236_0221_0001$$$::"Está falando do meu pingente? Ah, eu esqueci ele. Mas já que ele está sem energia, não é como se servisse para muita coisa, não?"::
 29423::$$$message_0236_0222_0000$$$::"Isso é verdade, mas... bom, se você diz..."[lr]::
-29424::$$$message_0236_0222_0001$$$::"Sim. Ele é um memento do meu pai, mas não é como se fosse a minha única lembrança dele."[lr]::
+29424::$$$message_0236_0222_0001$$$::"Ele é um memento do meu pai, mas não é como se fosse a minha única lembrança dele."[lr]::
 29425::$$$message_0236_0222_0002$$$::"[line3]Isso não é bom. Você não precisa ser tão forte, Rin."[lr]::
 29426::$$$message_0236_0222_0003$$$::Dizendo isso,[lr]::
 29427::$$$message_0236_0222_0004$$$::ele me oferece o pingente que deixei na escola.::
 29428::$$$message_0236_0223_0000$$$::"Ah... Você voltou para buscá-lo pra mim."[lr]::
-29429::$$$message_0236_0223_0001$$$::"Não se esqueça dele de novo... Ele combina com você, Rin."[lr]::
+29429::$$$message_0236_0223_0001$$$::"Não se esqueça dele de novo... Ele só fica bem em você, Rin."[lr]::
 29430::$$$message_0236_0223_0002$$$::Como se estivesse envergonhado, ele vira seu rosto para o lado ao me entregar o pingente.::
 29431::$$$message_0236_0224_0000$$$::"[line3]Sei... Bom, obrigada."[lr]::
 29432::$$$message_0236_0224_0001$$$::Eu o aceito.[lr]::
@@ -786,24 +786,24 @@ id=qid::label=str::text=lstr::
 29440::$$$message_0236_0226_0000$$$::"[line3]Espera um minuto."[lr]::
 29441::$$$message_0236_0226_0001$$$::Algo estala na minha cabeça.[lr]::
 29442::$$$message_0236_0226_0002$$$::Eu não estava pensando direito antes por causa do meu arrependimento, mas agora que estou calma, percebo que me esqueci de algo.::
-29443::$$$message_0236_0227_0000$$$::Ele nos viu, então vai ser perigoso deixá-lo solto sem ajustar as memórias dele.[lr]::
+29443::$$$message_0236_0227_0000$$$::Ele nos viu, então vai ser perigoso deixar ele solto sem ajustar as memórias dele.[lr]::
 29444::$$$message_0236_0227_0001$$$::O Lancer priorizou eliminar a testemunha sobre a nossa batalha.[lr]::
-29445::$$$message_0236_0227_0002$$$::E se o Lancer pensa da mesma forma que o seu Mestre.[lr]::
+29445::$$$message_0236_0227_0002$$$::Ele deve pensar da mesma forma que o seu Mestre.[lr]::
 29446::$$$message_0236_0227_0003$$$::Então... se esse Mestre descobrir que a testemunha que eles mataram não morreu, o que ele faria?::
 29447::$$$message_0236_0228_0000$$$::"[line3]Ele não permitiria que essa pessoa continuasse viva..."[lr]::
 29448::$$$message_0236_0228_0001$$$::Eu me levanto do sofá.[lr]::
 29449::$$$message_0236_0228_0002$$$::Já se passaram três horas desde então...[lr]::
-29450::$$$message_0236_0228_0003$$$::Posso não chegar a tempo, mas...[lr]::
-29451::$$$message_0236_0228_0004$$$::depois de tudo que eu fiz, não posso deixar isso acontecer[line3]!::
+29450::$$$message_0236_0228_0003$$$::Eu posso não chegar a tempo, mas...[lr]::
+29451::$$$message_0236_0228_0004$$$::depois de tudo que eu fiz, eu tenho que chegar a tempo[line3]!::
 29452::$$$message_0236_0229_0000$$$::Eu corro pela escuridão.[lr]::
 29453::$$$message_0236_0229_0001$$$::Felizmente, eu sei onde ele mora.[lr]::
-29454::$$$message_0236_0229_0002$$$::Não, eu não pesquisei isso. Conheço uma pessoa que vai lá com frequência, mas pessoalmente nunca estive lá.::
+29454::$$$message_0236_0229_0002$$$::Não, eu não pesquisei isso, eu só tenho um conhecido que vai lá com frequência, pessoalmente nunca estive lá.::
 29455::$$$message_0236_0230_0000$$$::"Honestamente... Isso não é problema seu..."[lr]::
 29456::$$$message_0236_0230_0001$$$::O Archer não tem intenção alguma de cooperar.[lr]::
-29457::$$$message_0236_0230_0002$$$::Ele era contra eu salvar aquele cara à beira da morte, e ele é contra eu estar indo ajudá-lo agora.::
+29457::$$$message_0236_0230_0002$$$::Ele era contra eu salvar aquele cara quando ele estava morrendo, e ele é contra eu estar indo ajudá-lo agora.::
 29458::$$$message_0236_0231_0000$$$::[line4]É meia-noite.[lr]::
 29459::$$$message_0236_0231_0001$$$::Sob o nublado céu noturno, nós chegamos na casa oriental.::
-29460::$$$message_0236_0232_0000$$$::Não há sinal de vida nesta casa, que fica no canto do distrito residencial.[lr]::
+29460::$$$message_0236_0232_0000$$$::Não há ninguém à vista nesta casa no canto do distrito residencial.[lr]::
 29461::$$$message_0236_0232_0001$$$::Não há muitas casas ao redor dela, e ninguém para vir ajudar caso algo aconteça.::
 29462::$$$message_0236_0233_0000$$$::[font italic=true]...[font italic=false][lr]::
 29463::$$$message_0236_0233_0001$$$::Eu consigo ver a fumaça branca da minha respiração.[lr]::
@@ -811,12 +811,12 @@ id=qid::label=str::text=lstr::
 29465::$$$message_0236_0233_0003$$$::Ele deve ficar mais forte em breve já que as nuvens começaram a passar mais rápido.[lr]::
 29466::$$$message_0236_0233_0004$$$::A supostamente quente Fuyuki me dá arrepios na espinha, resultando em meu corpo começar a tremer.::
 29467::$$$message_0236_0234_0000$$$::Mesmo que Fuyuki seja considerada uma cidade com temperatura agradável no inverno, ainda é frio na colina.::
-29468::$$$message_0236_0235_0000$$$::O ar ao redor deste lugar está congelando.[lr]::
+29468::$$$message_0236_0235_0000$$$::O ar ao redor deste lugar está congelado.[lr]::
 29469::$$$message_0236_0235_0001$$$::Eu aguço a minha audição dentro da fria atmosfera.[lr]::
 29470::$$$message_0236_0235_0002$$$::E nessa sensação congelada, eu sinto levemente a presença de um inimigo.::
 29471::$$$message_0236_0236_0000$$$::"Ele está aqui... o Servo de antes...!"[lr]::
 29472::$$$message_0236_0236_0001$$$::Eu mordo meu beiço.[lr]::
-29473::$$$message_0236_0236_0002$$$::Sinto a sua presença do outro lado desse muro.[lr]::
+29473::$$$message_0236_0236_0002$$$::Eu sinto a sua presença do outro lado desse muro.[lr]::
 29474::$$$message_0236_0236_0003$$$::O Lancer já está dentro da casa e está prestes a matar a mesma pessoa, que acabou de chegar em casa sem entender o que aconteceu, uma segunda vez.::
 29475::$$$message_0236_0237_0000$$$::"Eu vou ter que pular lá dentro e acabar com ele... Eu me preocupo com os detalhes quando estiver lá[line3]!"[lr]::
 29476::$$$message_0236_0237_0001$$$::E quando eu estou prestes a mandar o Archer entrar na casa...[lr]::
@@ -857,7 +857,7 @@ id=qid::label=str::text=lstr::
 29511::$$$message_0236_0244_0001$$$::Mas dessa vez eu reajo a tempo.[lr]::
 29512::$$$message_0236_0244_0002$$$::Quando o Servo inimigo estava prestes a arrancar a cabeça do Archer com a sua espada, eu o forço a desaparecer.[lr]::
 29513::$$$message_0236_0244_0003$$$::Minha mão direita dói.[lr]::
-29514::$$$message_0236_0244_0004$$$::Tendo sido uma ordem extrema, um dos Selos de Comando desaparece da minha mão.::
+29514::$$$message_0236_0244_0004$$$::Tendo sido um comando, um dos Selos de Comando desaparece da minha mão.::
 29515::$$$message_0236_0245_0000$$$::Agora só resta um...[lr]::
 29516::$$$message_0236_0245_0001$$$::Mas é melhor assim.[lr]::
 29517::$$$message_0236_0245_0002$$$::Comparado com deixar o Archer morrer, eu prefiro muito mais perder um ou dois Selos de Comando...::
@@ -867,11 +867,11 @@ id=qid::label=str::text=lstr::
 29521::$$$message_0236_0246_0003$$$::Eu tiro um topázio embutido com magias de vento do meu bolso, e então, eu descarrego toda a energia mágica contida nele sem processá-la!::
 29522::$$$message_0236_0247_0000$$$::Essa coisa, capaz de arremessar uma casa para longe sem deixar rastros, é um conjunto de magias de vento que eu estoquei com o tempo.[lr]::
 29523::$$$message_0236_0247_0001$$$::É uma das dez joias em que eu venho colocando minha energia mágica por dezessete anos seguidos.[lr]::
-29524::$$$message_0236_0247_0002$$$::Estou usando toda a energia mágica armazenada nela, então mesmo que não o derrote, deve ser possível ao menos atrasá-lo.::
+29524::$$$message_0236_0247_0002$$$::Estou usando toda a energia mágica armazenada nela, então mesmo que não a derrote, deve ser possível ao menos atrasá-la.::
 29525::$$$message_0236_0247_0003$$$::Não... nem isso sequer.[lr]::
 29526::$$$message_0236_0247_0004$$$::Ela não fez nada.[lr]::
 29527::$$$message_0236_0247_0005$$$::O turbilhão de vento que instantaneamente despedaça tudo que toca desaparece como um truque de mágica barato ao tocar o Servo.[lr]::
-29528::$$$message_0236_0247_0006$$$::Que Resistência Mágica incrível...[lr]::
+29528::$$$message_0236_0247_0006$$$::Que resistência mágica incrível...[lr]::
 29529::$$$message_0236_0247_0007$$$::A mera energia mágica de um mago não tem como ferir esse Servo...!?::
 29530::$$$message_0236_0248_0000$$$::[line3]Então, é isso.[lr]::
 29531::$$$message_0236_0248_0001$$$::Ele não pode ser ferido por magia, e eu perdi a proteção do Archer. Não tenho como enfrentar este Servo.[lr]::
@@ -898,12 +898,12 @@ id=qid::label=str::text=lstr::
 29552::$$$message_0236_0256_0001$$$::Eu olho para a lua, aceitando a minha morte.[lr]::
 29553::$$$message_0236_0256_0002$$$::Não há como fugir ou implorar pela minha vida.[lr]::
 29554::$$$message_0236_0256_0003$$$::Eu morrerei aqui. A Guerra do Santo Graal da Tohsaka Rin acabará no terceiro dia.[lr]::
-29555::$$$message_0236_0256_0004$$$::Você poderia pensar que só há desgraça e arrependimentos, e que eu desapareceria guardando rancor pelo meu inimigo.::
+29555::$$$message_0236_0256_0004$$$::Só há desgraça e arrependimentos, e eu provavelmente vou desaparecer guardando rancor pelo meu inimigo.::
 29556::$$$message_0236_0257_0000$$$::[line3]Mas ainda assim, eu não sinto nada.[lr]::
 29557::$$$message_0236_0257_0001$$$::Realmente deve ter algo de errado comigo...[lr]::
-29558::$$$message_0236_0257_0002$$$::Mesmo que esteja prestes a morrer, eu me sinto cativada.[lr]::
+29558::$$$message_0236_0257_0002$$$::Mesmo que esteja prestes a morrer, eu a adoro novamente.[lr]::
 29559::$$$message_0236_0257_0003$$$::É isso mesmo.[lr]::
-29560::$$$message_0236_0257_0004$$$::Pode ser algo frustrante.::
+29560::$$$message_0236_0257_0004$$$::Se quer saber qual é o meu arrependimento, aqui está ele.::
 29561::$$$message_0236_0258_0000$$$::Mas acho que é inevitável.[lr]::
 29562::$$$message_0236_0258_0001$$$::[line3]Porque ela é o Servo mais poderoso.[lr]::
 29563::$$$message_0236_0258_0002$$$::Porque a sua imagem é simplesmente tão cruel, tão infinitamente valente, e tão linda...::
