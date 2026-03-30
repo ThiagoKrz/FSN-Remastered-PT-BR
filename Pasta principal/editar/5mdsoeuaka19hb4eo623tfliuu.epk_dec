@@ -11,10 +11,10 @@ id=qid::label=str::text=lstr::
 53448::$$$message_0462_0003_0000$$$::"E meu avô desmaiou.[lr]::
 53449::$$$message_0462_0003_0001$$$::Ela estava tipo, 'Estou de cama, então não acha que deve se aquietar?'[lr]::
 53450::$$$message_0462_0003_0002$$$::Não foi rude? Ele me faz parecer uma nuvem vagante."::
-53451::$$$message_0462_0004_0000$$$::Fuji-Nee reclama enquanto come.[lr]::
+53451::$$$message_0462_0004_0000$$$::Fuji-nee reclama enquanto come.[lr]::
 53452::$$$message_0462_0004_0001$$$::Parece que ela não veio noite passada pois seu avô desmaiou.::
 53453::$$$message_0462_0005_0000$$$::"...? Senpai, o que seria isso?"[lr]::
-53454::$$$message_0462_0005_0001$$$::"É uma descrição da Fuji-Nee. Uma pessoa avoada sem um caráter definitivo."[lr]::
+53454::$$$message_0462_0005_0001$$$::"É uma descrição da Fuji-nee. Uma pessoa avoada sem um caráter definitivo."[lr]::
 53455::$$$message_0462_0005_0002$$$::Respondo sem hesitar.::
 53456::$$$message_0462_0006_0000$$$::"Está errado! Uma nuvem vagante é um vagabundo![lr]::
 53457::$$$message_0462_0006_0001$$$::É como chamam uma pessoa que faz nada além de vagabundear por aí perturbando os outros."::
@@ -29,7 +29,7 @@ id=qid::label=str::text=lstr::
 53466::$$$message_0462_0010_0001$$$::"Yup. E não pode usar roupas. Você e seu oponente se agarram praticamente pelados."::
 53467::$$$message_0462_0011_0000$$$::"P-Pelados...!?"[lr]::
 53468::$$$message_0462_0011_0001$$$::"Yup. Bem, seu ponto fraco é coberto por um mawashi. Ah, isso é uma tanga de lutador de sumô, já que a mencionei. Se não entendeu, pergunte ao Shirou sobre. Ele sabe mais do que eu."[lr]::
-53469::$$$message_0462_0011_0002$$$::A Fuji-Nee diz algo absurdo enquanto bebe sua sopa de miso.::
+53469::$$$message_0462_0011_0002$$$::A Fuji-nee diz algo absurdo enquanto bebe sua sopa de miso.::
 53470::$$$message_0462_0012_0000$$$::"Entendo. Então, Shirou. O que é essa tanga?"[lr]::
 53471::$$$message_0462_0012_0001$$$::"[w l=8][line8]"[lr]::
 53472::$$$message_0462_0012_0002$$$::É fácil de explicar, mas estou um pouco hesitante de falar sobre.[lr]::
@@ -41,27 +41,27 @@ id=qid::label=str::text=lstr::
 53478::$$$message_0462_0014_0001$$$::E primeramente, isso aconteceu há anos!"::
 53479::$$$message_0462_0015_0000$$$::"Ahahaha, verdade. Você continuava perdendo por seu pequeno na época. Meu avô te pediu para tentar outro esporte porque você não desistiria até ganhar, então ele te fez começar tiro com arco."::
 53480::$$$message_0462_0016_0000$$$::"......"[lr]::
-53481::$$$message_0462_0016_0001$$$::A Fuji-Nee está rindo alegre.[lr]::
+53481::$$$message_0462_0016_0001$$$::A Fuji-nee está rindo alegre.[lr]::
 53482::$$$message_0462_0016_0002$$$::...cara.[lr]::
-53483::$$$message_0462_0016_0003$$$::A Fuji-Nee está animada hoje, então ela está mais barulhenta do que o normal.::
-53484::$$$message_0462_0017_0000$$$::"Ei, Fuji-Nee. Está quase na hora. Você vai ser atrasar a não ser que saia antes das sete."[lr]::
+53483::$$$message_0462_0016_0003$$$::A Fuji-nee está animada hoje, então ela está mais barulhenta do que o normal.::
+53484::$$$message_0462_0017_0000$$$::"Ei, Fuji-nee. Está quase na hora. Você vai ser atrasar a não ser que saia antes das sete."[lr]::
 53485::$$$message_0462_0017_0001$$$::"Huh? Ah, tudo bem. As atividades matinais de clubes estão canceladas a partir de hoje. ...bem, ainda tenho que sair cedo por conta de uma reunião de professores."::
 53486::$$$message_0462_0018_0000$$$::"Huh? O treinamento matinal do clube de tiro com arco também está cancelado?"[lr]::
 53487::$$$message_0462_0018_0001$$$::"Yup. Ah, entendo. Não ouviu comentarem, huh? Houve um incidente ontem, e algumas pessoas na equipe de corrida se ferriram durante o treinamento. Acho que é por falta de dormir, então as praticas matinais serão canceladas por um tempo."::
 53488::$$$message_0462_0019_0000$$$::"...entendo. Mas cancelaram todas por conta de uma pessoa machucada?[lr]::
 53489::$$$message_0462_0019_0001$$$::Falta de dormir é culpa da[w l=3][line3]"[lr]::
 53490::$$$message_0462_0019_0002$$$::Culpa da própria pessoa, a não ser que...::
-53491::$$$message_0462_0020_0000$$$::"Fuji-Nee. Quantas pessoas se feriram?"[lr]::
+53491::$$$message_0462_0020_0000$$$::"Fuji-nee. Quantas pessoas se feriram?"[lr]::
 53492::$$$message_0462_0020_0001$$$::"...Hmm. Cerca de dez à vinte alunos."[lr]::
 53493::$$$message_0462_0020_0002$$$::"T-Tantos assim?[lr]::
 53494::$$$message_0462_0020_0003$$$::E as pessoas no clube de tiro com arco?"::
 53495::$$$message_0462_0021_0000$$$::"Bem, ninguém do nosso clube se feriu, mas algumas pessoas pareciam cansadas ontem.[lr]::
 53496::$$$message_0462_0021_0001$$$::...e anda perigoso esses dias, né? Não podemos ignorar o cansaço mental que isso pode estar causando, então acho que a escola está tentando aliviar o peso. Não sei se os clubes são um, mas de fato eles te cansam fisicamente."[lr]::
-53497::$$$message_0462_0021_0002$$$::Fuji-Nee dá os ombros e estica a sua tigela.::
+53497::$$$message_0462_0021_0002$$$::Fuji-nee dá os ombros e estica a sua tigela.::
 53498::$$$message_0462_0022_0000$$$::"Posso comer mais uma, Sakura-chan? Quero-a meio cheia."[lr]::
 53499::$$$message_0462_0022_0001$$$::"Claro. Você não está comendo muito hoje, Sensei."[lr]::
 53500::$$$message_0462_0022_0002$$$::"Sim. Meu estômago dói pois sei que há muito trabalho me esperando na escola, então estou sem fome."::
-53501::$$$message_0462_0023_0000$$$::A Fuji-Nee finge que vai chorar.[lr]::
+53501::$$$message_0462_0023_0000$$$::A Fuji-nee finge que vai chorar.[lr]::
 53502::$$$message_0462_0023_0001$$$::Hmm.[lr]::
 53503::$$$message_0462_0023_0002$$$::Parece que a tigresa na nossa casa quer que acreditemos que duas tigelas e meia não é o normal dela.::
 53504::$$$message_0462_0024_0000$$$::"Em contrapartida, você está radiando energia, Sakura-chan. Já é sua segunda tigela cheia."[lr]::

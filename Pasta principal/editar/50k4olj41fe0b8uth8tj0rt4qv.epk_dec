@@ -36,21 +36,21 @@ id=qid::label=str::text=lstr::
 34068::$$$message_0275_0011_0003$$$::"Huh? Tem alguém na porta, Issei."[lr]::
 34069::$$$message_0275_0011_0004$$$::"Hm? Nesse horário?"[lr]::
 34070::$$$message_0275_0011_0005$$$::O Issei lentamente vai até a porta.::
-34071::$$$message_0275_0012_0000$$$::O visitante é o Kuzuki-Sensei, que é o encarregado pelo conselho estudantil.[lr]::
-34072::$$$message_0275_0012_0001$$$::Eu vejo o Kuzuki-Sensei bastante por aqui, mas aposto que é "O Emiya fica bastante na sala do conselho estudantil" do ponto de vista dele.::
+34071::$$$message_0275_0012_0000$$$::O visitante é o Kuzuki-sensei, que é o encarregado pelo conselho estudantil.[lr]::
+34072::$$$message_0275_0012_0001$$$::Eu vejo o Kuzuki-sensei bastante por aqui, mas aposto que é "O Emiya fica bastante na sala do conselho estudantil" do ponto de vista dele.::
 34073::$$$message_0275_0013_0000$$$::"[line8]"[lr]::
 34074::$$$message_0275_0013_0001$$$::Eu silenciosamente almoço meu frango.[lr]::
-34075::$$$message_0275_0013_0002$$$::Não deve haver nada importante hoje, já que o Issei e o Kuzuki-Sensei só estão conversando.::
+34075::$$$message_0275_0013_0002$$$::Não deve haver nada importante hoje, já que o Issei e o Kuzuki-sensei só estão conversando.::
 34076::$$$message_0275_0014_0000$$$::"[line8]"[lr]::
 34077::$$$message_0275_0014_0001$$$::Nhom.[lr]::
 34078::$$$message_0275_0014_0002$$$::Nhom, nhom.::
 34079::$$$message_0275_0015_0000$$$::"Sensei, já está quase na hora."[lr]::
 34080::$$$message_0275_0015_0001$$$::"Hm. Entendo. Me desculpe por tomar seu tempo. Eu acredito que eu não precise falar, mas não esqueça de trancar esse lugar. E tome cuidado pra sair da escola na hora certa."[lr]::
 34081::$$$message_0275_0015_0002$$$::"Sim, sim. Eu sei."[lr]::
-34082::$$$message_0275_0015_0003$$$::O Kuzuki-Sensei sai e o Issei volta de bom humor.::
+34082::$$$message_0275_0015_0003$$$::O Kuzuki-sensei sai e o Issei volta de bom humor.::
 34083::$$$message_0275_0016_0000$$$::"[line8]"[lr]::
 34084::$$$message_0275_0016_0001$$$::...Uau, eu acabei de ver algo raro.[lr]::
-34085::$$$message_0275_0016_0002$$$::É realmente raro ver o Kuzuki-Sensei conversando sobre coisas desnecessárias com um estudante.[lr]::
+34085::$$$message_0275_0016_0002$$$::É realmente raro ver o Kuzuki-sensei conversando sobre coisas desnecessárias com um estudante.[lr]::
 34086::$$$message_0275_0016_0003$$$::E com o tímido Issei.[lr]::
 34087::$$$message_0275_0016_0004$$$::...Ah. Eles talvez se dêem bem já que ambos são teimosos, mas ainda é estranho.::
 34088::$$$message_0275_0017_0000$$$::"Ei, Issei."[lr]::
@@ -58,12 +58,12 @@ id=qid::label=str::text=lstr::
 34090::$$$message_0275_0017_0002$$$::"Eu tenho me perguntado já faz um tempo, mas você se dá bem com o Kuzuki?"[lr]::
 34091::$$$message_0275_0017_0003$$$::Ah, ele tá surpreso.::
 34092::$$$message_0275_0018_0000$$$::"[line3]Não, tudo bem se você não quiser responder. Eu só achei que fosse o caso, não precisa se preocupar."[lr]::
-34093::$$$message_0275_0018_0001$$$::"Ah, não. Eu só percebi que eu não te falei sobre isso. É natural que a gente se dê bem. O Kuzuki-Sensei é como um irmão pra mim."[lr]::
+34093::$$$message_0275_0018_0001$$$::"Ah, não. Eu só percebi que eu não te falei sobre isso. É natural que a gente se dê bem. O Kuzuki-sensei é como um irmão pra mim."[lr]::
 34094::$$$message_0275_0018_0002$$$::"[line7]Huh?"[lr]::
-34095::$$$message_0275_0018_0003$$$::O Kuzuki-Sensei é como o irmão do Issei?::
+34095::$$$message_0275_0018_0003$$$::O Kuzuki-sensei é como o irmão do Issei?::
 34096::$$$message_0275_0019_0000$$$::"Pera. O que isso significa?"[lr]::
 34097::$$$message_0275_0019_0001$$$::"Eu tô te falando que ele é como meu irmão mais velho.[lr]::
-34098::$$$message_0275_0019_0002$$$::O Souichirou[line3]Kuzuki-Sensei tem ficado na minha casa já fazem três anos. Ele é tão inocente como você pode ver, mas ele tem um coração sincero. Ele tá vivendo sob o mesmo teto que eu, e é alguém que eu respeito como pessoa. É natural respeitar ele como meu irmão mais velho."::
+34098::$$$message_0275_0019_0002$$$::O Souichirou[line3]Kuzuki-sensei tem ficado na minha casa já fazem três anos. Ele é tão inocente como você pode ver, mas ele tem um coração sincero. Ele tá vivendo sob o mesmo teto que eu, e é alguém que eu respeito como pessoa. É natural respeitar ele como meu irmão mais velho."::
 34099::$$$message_0275_0020_0000$$$::"[line5]O Kuzuki vive no Templo Ryuudou[line4]?"[lr]::
 34100::$$$message_0275_0020_0001$$$::Parece que eu fui acertado na cabeça com um martelo.[lr]::
 34101::$$$message_0275_0020_0002$$$::Mas eu me mantenho calmo e peço pro Issei continuar.::
@@ -73,20 +73,20 @@ id=qid::label=str::text=lstr::
 34105::$$$message_0275_0022_0001$$$::Um segundo choque.[lr]::
 34106::$$$message_0275_0022_0002$$$::"Issei. Você não chamaria ela de uma mulher estranha nesse caso, certo?"[lr]::
 34107::$$$message_0275_0022_0003$$$::Eu tento ao máximo discordar com uma cabeça tonta.::
-34108::$$$message_0275_0023_0000$$$::"Uma mulher estranha é uma mulher estranha.  Mesmo que ela seja a esposa do Kuzuki-Sensei, isso é tudo que eu posso falar sobre ela, já que eu não sei nem o nome dela."[lr]::
+34108::$$$message_0275_0023_0000$$$::"Uma mulher estranha é uma mulher estranha.  Mesmo que ela seja a esposa do Kuzuki-sensei, isso é tudo que eu posso falar sobre ela, já que eu não sei nem o nome dela."[lr]::
 34109::$$$message_0275_0023_0001$$$::O Issei para a conversa como se estivesse bravo.::
 34110::$$$message_0275_0024_0000$$$::"[line8]"[lr]::
 34111::$$$message_0275_0024_0001$$$::...E-Enfim.[lr]::
 34112::$$$message_0275_0024_0002$$$::Isso é algo que eu não posso ignorar.[lr]::
 34113::$$$message_0275_0024_0003$$$::Kuzuki Souichirou está vindo do Templo Ryuudou, e tem uma mulher que está no Templo Ryuudou.[lr]::
-34114::$$$message_0275_0024_0004$$$::Eu ouvi que a esposa do Kuzuki-Sensei apareceu um mês atrás.[lr]::
+34114::$$$message_0275_0024_0004$$$::Eu ouvi que a esposa do Kuzuki-sensei apareceu um mês atrás.[lr]::
 34115::$$$message_0275_0024_0005$$$::Se essa é a Caster, então ai estão todas as nossas respostas[line4]::
 34116::$$$message_0275_0025_0000$$$::"Então, foi isso que eu ouvi."[lr]::
 34117::$$$message_0275_0025_0001$$$::"[line8]"[lr]::
 34118::$$$message_0275_0025_0002$$$::Na sala depois da aula...[lr]::
-34119::$$$message_0275_0025_0003$$$::A gente não tem nem mais dez minutos antes de ter que voltar pra casa, mas eu falo pra Tohsaka sobre o Kuzuki-Sensei.::
+34119::$$$message_0275_0025_0003$$$::A gente não tem nem mais dez minutos antes de ter que voltar pra casa, mas eu falo pra Tohsaka sobre o Kuzuki-sensei.::
 34120::$$$message_0275_0026_0000$$$::"O que você acha? Considerando o caso do Issei, eu não acho que a gente deveria suspeitar ele só porque ele é do Templo Ryuudou."::
-34121::$$$message_0275_0027_0000$$$::"...Kuzuki-Sensei, huh? Ele não é nem um mago, sem falar que ele não tem a presença de um Mestre."[lr]::
+34121::$$$message_0275_0027_0000$$$::"...Kuzuki-sensei, huh? Ele não é nem um mago, sem falar que ele não tem a presença de um Mestre."[lr]::
 34122::$$$message_0275_0027_0001$$$::Eu não acho que ela tá me ouvindo, já que a Tohsaka tá falando sozinha.::
 34123::$$$message_0275_0028_0000$$$::"Ele não é um mago...? Isso é bom. Eu acho que podemos descartar ele do caso."[lr]::
 34124::$$$message_0275_0028_0001$$$::"Por quê? Alguém tão suspeito como ele tem que ser um Mestre."[lr]::

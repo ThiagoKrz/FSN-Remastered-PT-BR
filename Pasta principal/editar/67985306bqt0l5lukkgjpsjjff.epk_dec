@@ -3,10 +3,10 @@ id=qid::label=str::text=lstr::
 50116::$$$message_0433_0000_0000$$$::"Tô indo[line4]!"[lr]::
 50117::$$$message_0433_0000_0001$$$::Eu corro até a porta.[lr]::
 50118::$$$message_0433_0000_0002$$$::É raro ter alguém visitando a essa hora.[lr]::
-50119::$$$message_0433_0000_0003$$$::A Fuji-Nee não toca a campainha, e ela tem uma chave própria.[lr]::
+50119::$$$message_0433_0000_0003$$$::A Fuji-nee não toca a campainha, e ela tem uma chave própria.[lr]::
 50120::$$$message_0433_0000_0004$$$::Eu não tenho muitos convidados, e como não tem muitas casas em volta, eu não tenho muitos vizinhos.::
 50121::$$$message_0433_0001_0000$$$::"...Quem que pode ser?"[lr]::
-50122::$$$message_0433_0001_0001$$$::Bom, não é ninguém hostil já que o campo de separação do meu pai não tá tocando, então eu aposto que é alguém da casa da Fuji-Nee.::
+50122::$$$message_0433_0001_0001$$$::Bom, não é ninguém hostil já que o campo de separação do meu pai não tá tocando, então eu aposto que é alguém da casa da Fuji-nee.::
 50123::$$$message_0433_0002_0000$$$::"Quem é?"[lr]::
 50124::$$$message_0433_0002_0001$$$::Eu abro a porta.[lr]::
 50125::$$$message_0433_0002_0002$$$::Então.[lr]::
@@ -91,10 +91,10 @@ id=qid::label=str::text=lstr::
 50204::$$$message_0433_0035_0001$$$::É estranho não ficar nervoso quando é uma garota da minha idade, principalmente se for a Tohsaka.::
 50205::$$$message_0433_0036_0000$$$::Eu tenho participado da reunião normalmente, freneticamente me lembrando que nós dois somos Mestres.[lr]::
 50206::$$$message_0433_0036_0001$$$::É de dar dó, mas eu fiquei nervoso a reunião inteira, e eu não sei quantos copos de chá eu bebi.::
-50207::$$$message_0433_0037_0000$$$::"Mas isso não é estranho? A Saber é uma garota também, e pelo que eu ouvi, a Sakura e a Fujimura-Sensei vem aqui também, certo? Então não devia ser diferente comigo."::
+50207::$$$message_0433_0037_0000$$$::"Mas isso não é estranho? A Saber é uma garota também, e pelo que eu ouvi, a Sakura e a Fujimura-sensei vem aqui também, certo? Então não devia ser diferente comigo."::
 50208::$$$message_0433_0038_0000$$$::"......"[lr]::
 50209::$$$message_0433_0038_0001$$$::Não é![lr]::
-50210::$$$message_0433_0038_0002$$$::A Saber e a Tohsaka são diferentes, a Fuji-Nee e a Tohsaka são diferentes, e a Sakura e a Tohsaka são diferentes.[lr]::
+50210::$$$message_0433_0038_0002$$$::A Saber e a Tohsaka são diferentes, a Fuji-nee e a Tohsaka são diferentes, e a Sakura e a Tohsaka são diferentes.[lr]::
 50211::$$$message_0433_0038_0003$$$::Acima de tudo, eu consigo lidar com a Saber porque ela é alguém que luta ao meu lado.::
 50212::$$$message_0433_0039_0000$$$::"...Heh, só vai pra casa. A gente vai jantar agora. O Archer tá te esperando na sua casa também, certo?"[lr]::
 50213::$$$message_0433_0039_0001$$$::"Ah. Eu não posso ir pra casa enquanto a gente não tiver decidido nada ainda.[lr]::
@@ -107,8 +107,8 @@ id=qid::label=str::text=lstr::
 50220::$$$message_0433_0041_0003$$$::Eu engulo minhas palavras.::
 50221::$$$message_0433_0042_0000$$$::"Shirou. Ela tem um bom ponto. Não há problema mesmo que ela fique aqui."[lr]::
 50222::$$$message_0433_0042_0001$$$::E pra fazer as coisas piores, a Saber tá do lado da Tohsaka.::
-50223::$$$message_0433_0043_0000$$$::"[line4]Tudo bem. Mas eu não vou ser responsabilizado se você não gostar da comida daqui. E a Fuji-Nee[line3]Fujimura-Sensei vai vir, então você tem que convencer ela."::
-50224::$$$message_0433_0044_0000$$$::"Eu sei, eu sei. Eu já sei o quão bom você é pelo almoço que você faz, e eu também sei sobre a Fujimura-Sensei. Eu tô sabendo disso, então não se preocupa."::
+50223::$$$message_0433_0043_0000$$$::"[line4]Tudo bem. Mas eu não vou ser responsabilizado se você não gostar da comida daqui. E a Fuji-nee[line3]Fujimura-sensei vai vir, então você tem que convencer ela."::
+50224::$$$message_0433_0044_0000$$$::"Eu sei, eu sei. Eu já sei o quão bom você é pelo almoço que você faz, e eu também sei sobre a Fujimura-sensei. Eu tô sabendo disso, então não se preocupa."::
 50225::$$$message_0433_0045_0000$$$::"[line4]Heh, eu não vou ser responsabilizado mesmo se você se arrepender mais tarde."[lr]::
 50226::$$$message_0433_0045_0001$$$::Eu viro a cabeça pra trás e vou pra cozinha.::
 50227::$$$message_0433_0046_0000$$$::[line4]Então.[lr]::

@@ -43,10 +43,10 @@ id=qid::label=str::text=lstr::
 50757::$$$message_0438_0016_0001$$$::Fico tonto.[lr]::
 50758::$$$message_0438_0016_0002$$$::Ela é a mais forte neste único aspecto.[lr]::
 50759::$$$message_0438_0016_0003$$$::Ela simplesmente descarta todos os eventos caóticos da noite passada e me faz sentir que é só mais um dia qualquer.::
-50760::$$$message_0438_0017_0000$$$::"...Que? Desculpa, mas estou ocupado agora, Fuji-Nee."[lr]::
+50760::$$$message_0438_0017_0000$$$::"...Que? Desculpa, mas estou ocupado agora, Fuji-nee."[lr]::
 50761::$$$message_0438_0017_0001$$$::"Ei, também estou ocupada. Dei meu dia de folga para ensinar meus alunos."[lr]::
 50762::$$$message_0438_0017_0002$$$::É muito estranho.[lr]::
-50763::$$$message_0438_0017_0003$$$::Sinto que a Fuji-Nee está na minha frente, estufando o peito com orgulho.::
+50763::$$$message_0438_0017_0003$$$::Sinto que a Fuji-nee está na minha frente, estufando o peito com orgulho.::
 50764::$$$message_0438_0018_0000$$$::"Entendo. Então acho que não é hora de conversar. Não há ladrões ou incêndios por aqui. Pode descansar tranquila e voltar pro clube."[lr]::
 50765::$$$message_0438_0018_0001$$$::Tento cortar a conversa.::
 50766::$$$message_0438_0019_0000$$$::"E-Espera! Estou te ligando, então seria terrível se você desligasse sem me ouvir!"[lr]::
@@ -62,7 +62,7 @@ id=qid::label=str::text=lstr::
 50776::$$$message_0438_0021_0002$$$::...Bem, temos sobras do almoço, e a omelete é fácil de fazer.::
 50777::$$$message_0438_0022_0000$$$::"Acabei[line4]Saber, pode ficar de olho na casa um pouco?[lr]::
 50778::$$$message_0438_0022_0001$$$::Vou ficar fora por um tempo."[lr]::
-50779::$$$message_0438_0022_0002$$$::Carrego o lanche empacotado da Fuji-Nee e saio pro corredor.[lr]::
+50779::$$$message_0438_0022_0002$$$::Carrego o lanche empacotado da Fuji-nee e saio pro corredor.[lr]::
 50780::$$$message_0438_0022_0003$$$::A Saber me segue por algum motivo.::
 50781::$$$message_0438_0023_0000$$$::Coloco meus sapatos.[lr]::
 50782::$$$message_0438_0023_0001$$$::Quando olho ao meu lado...[lr]::
@@ -158,7 +158,7 @@ id=qid::label=str::text=lstr::
 50872::$$$message_0438_0058_0000$$$::"Ah[line3]Sim. Não ligo se for conveniente pra você."[lr]::
 50873::$$$message_0438_0058_0001$$$::"Tudo bem, então vamos com isso. Sim... você teria conhecido eles cedo ou tarde, então não importa se eu te introduzir agora para eles."::
 50874::$$$message_0438_0059_0000$$$::Certo.[lr]::
-50875::$$$message_0438_0059_0001$$$::A Saber acabaria conhecendo a Sakura e a Fuji-Nee se ela estiver em casa.::
+50875::$$$message_0438_0059_0001$$$::A Saber acabaria conhecendo a Sakura e a Fuji-nee se ela estiver em casa.::
 50876::$$$message_0438_0060_0000$$$::"Ah sim. Esqueci de perguntar, mas onde você arranjou essas roupas?"[lr]::
 50877::$$$message_0438_0060_0001$$$::"A Rin me deu elas. Ela disse que eu precisaria de roupas normais já que não posso me transformar em espírito."::
 50878::$$$message_0438_0061_0000$$$::"[line4]"[lr]::
@@ -190,7 +190,7 @@ id=qid::label=str::text=lstr::
 50904::$$$message_0438_0074_0001$$$::"[line8]"[lr]::
 50905::$$$message_0438_0074_0002$$$::Uma pessoa que conheço bem aparece bem na hora.[lr]::
 50906::$$$message_0438_0074_0003$$$::Mitsuzuri Ayako, capitã do clube de arco e flecha, até mesmo descobriu por que eu estou aqui assim que me viu.::
-50907::$$$message_0438_0075_0000$$$::"Estou aqui para entregar o almoço dela, como adivinhou. A Fuji-Nee está?"::
+50907::$$$message_0438_0075_0000$$$::"Estou aqui para entregar o almoço dela, como adivinhou. A Fuji-nee está?"::
 50908::$$$message_0438_0076_0000$$$::"Sim. Cara, você nos salvou. Estávamos preocupados porque ela estava com fome e ficando dramática. O refeitório está fechado, então estávamos pensando em comprar comida pra ela em algum lugar."::
 50909::$$$message_0438_0077_0000$$$::"Sério? Espera, estava pensando em ir ao Toyoetsu sozinha?"[lr]::
 50910::$$$message_0438_0077_0001$$$::"Onde mais eu iria? Estamos sem dinheiro, então não posso gastar com comida de emergência."::
@@ -198,7 +198,7 @@ id=qid::label=str::text=lstr::
 50912::$$$message_0438_0078_0001$$$::Falando nisso, Toyoetsu é o nome do supermercado no distrito de lojas.[lr]::
 50913::$$$message_0438_0078_0002$$$::No clube de arco e flecha, qualquer um descansando é enviado numa corrida ao mercado como exercício.[lr]::
 50914::$$$message_0438_0078_0003$$$::...É um costume contraditório porque embora descansar o braço seja um exercício, você tem que carregar muitas sacolas na volta.::
-50915::$$$message_0438_0079_0000$$$::"...Quanto azar. Aqui está o almoço. Meio atrasado, mas pegue e entregue pra Fuji-Nee."[lr]::
+50915::$$$message_0438_0079_0000$$$::"...Quanto azar. Aqui está o almoço. Meio atrasado, mas pegue e entregue pra Fuji-nee."[lr]::
 50916::$$$message_0438_0079_0001$$$::Seguro a sacola.::
 50917::$$$message_0438_0080_0000$$$::"Uau, uma caixa de três camadas. Faz um tempo desde que vi uma dessas. Você é bom em fazer coisas pequenas e complexas."[lr]::
 50918::$$$message_0438_0080_0001$$$::Não sei porque ela está feliz, mas ela sorri.::
@@ -207,15 +207,15 @@ id=qid::label=str::text=lstr::
 50921::$$$message_0438_0081_0002$$$::O mundo da culinária é profundo, considerando como um curry com batatas inteiras era tão gostoso.::
 50922::$$$message_0438_0082_0000$$$::...Bem, enfim.[lr]::
 50923::$$$message_0438_0082_0001$$$::Mitsuzuri apenas olha dentro da bolsa, mas não a pega.::
-50924::$$$message_0438_0083_0000$$$::"Ei, pega a sacola. Não tem um problema lá com a Fuji-Nee ficando selvagem?"::
+50924::$$$message_0438_0083_0000$$$::"Ei, pega a sacola. Não tem um problema lá com a Fuji-nee ficando selvagem?"::
 50925::$$$message_0438_0084_0000$$$::"Sim. Se você pensar por esse lado, você devia entrar logo e dar o almoço pra ela.[lr]::
-50926::$$$message_0438_0084_0001$$$::Primeiramente, você deveria saber que ela ficaria brava se eu fizesse isso. Não quero tomar bronca da Fujimura-Sensei, então entre."[lr]::
+50926::$$$message_0438_0084_0001$$$::Primeiramente, você deveria saber que ela ficaria brava se eu fizesse isso. Não quero tomar bronca da Fujimura-sensei, então entre."[lr]::
 50927::$$$message_0438_0084_0002$$$::Ela aponta pro clube com seu queixo.::
 50928::$$$message_0438_0085_0000$$$::"......"[lr]::
 50929::$$$message_0438_0085_0001$$$::Ela tem razão. Ficaria sinistro depois se eu não fosse ver ela.[lr]::
 50930::$$$message_0438_0085_0002$$$::Não estou aqui para praticar tiro com arco, então posso ir pra casa assim que der o almoço pra ela.::
 50931::$$$message_0438_0086_0000$$$::Desisto e entro dentro do clube.[lr]::
-50932::$$$message_0438_0086_0001$$$::"Mas Mitsuzuri, você deveria checar se a Fuji-Nee tem ou não almoço já que você esteve aqui por tanto tempo. Seria ruim se a professora começasse a atacar os lanches dos alunos."::
+50932::$$$message_0438_0086_0001$$$::"Mas Mitsuzuri, você deveria checar se a Fuji-nee tem ou não almoço já que você esteve aqui por tanto tempo. Seria ruim se a professora começasse a atacar os lanches dos alunos."::
 50933::$$$message_0438_0087_0000$$$::"Bem, estive um pouco cansada de manhã. Estou muito ocupada ultimamente, então não tenho tanto tampo pra desperdiçar. Enfim, não adianta reclamar pra você[line4]"::
 50934::$$$message_0438_0088_0000$$$::Então, ela repentinamente se aproxima e sussurra em meu ouvido.[lr]::
 50935::$$$message_0438_0088_0001$$$::"...Então, quem é ela? Ela é linda. Conhece ela?"[lr]::
@@ -230,7 +230,7 @@ id=qid::label=str::text=lstr::
 50944::$$$message_0438_0091_0002$$$::A Saber me segue silenciosamente junto da Mitsuzuri.::
 50945::$$$message_0438_0092_0000$$$::Entramos no campo de tiro.[lr]::
 50946::$$$message_0438_0092_0001$$$::...O campo é tão barulhento quanto um campo de guerra, já que é logo depois do almoço.::
-50947::$$$message_0438_0093_0000$$$::"Fujimura-Sensei[line2]! Misaki-san está dizendo que vai morrer de dor de barriga! O quão velho era aquele biscoito!?"[lr]::
+50947::$$$message_0438_0093_0000$$$::"Fujimura-sensei[line2]! Misaki-san está dizendo que vai morrer de dor de barriga! O quão velho era aquele biscoito!?"[lr]::
 50948::$$$message_0438_0093_0001$$$::"É só o lado dela doendo! Comi e estou ótima, então dê um pouco de chá de alga pra ela!"::
 50949::$$$message_0438_0094_0000$$$::"Taiga-Sensei! Vou praticar, então pode mover o forno? Está frio no canto do campo!"[lr]::
 50950::$$$message_0438_0094_0001$$$::"Tudo bem. Já que tem coragem, corra ao redor do campo três vezes de shorts. Vá ganhar um pouco de caráter."::
@@ -255,12 +255,12 @@ id=qid::label=str::text=lstr::
 50969::$$$message_0438_0101_0002$$$::"Senpai...!?"[lr]::
 50970::$$$message_0438_0101_0003$$$::A Sakura encosta o arco em sua mão e corre até mim.::
 50971::$$$message_0438_0102_0000$$$::"Senpai! P-Por que você veio aqui hoje? Um, poderia ser que, um..."[lr]::
-50972::$$$message_0438_0102_0001$$$::"Sim, trouxe o almoço da Fuji-Nee.[lr]::
+50972::$$$message_0438_0102_0001$$$::"Sim, trouxe o almoço da Fuji-nee.[lr]::
 50973::$$$message_0438_0102_0002$$$::Me desculpa, mas poderia entregar pra doida ali?"::
 50974::$$$message_0438_0103_0000$$$::"Ah[line4]Ah sim... ela estava chamando alguém...[lr]::
 50975::$$$message_0438_0103_0001$$$::"?"[lr]::
 50976::$$$message_0438_0103_0002$$$::Não sei pra onde a alegria dela foi, os ombros dela caíram.::
-50977::$$$message_0438_0104_0000$$$::"É isso. A Fuji-Nee está dando ordem absurdas porque ela está com fome, não? Pode ser tarde demais, mas deixe ela comer isso já que eu fiz.[lr]::
+50977::$$$message_0438_0104_0000$$$::"É isso. A Fuji-nee está dando ordem absurdas porque ela está com fome, não? Pode ser tarde demais, mas deixe ela comer isso já que eu fiz.[lr]::
 50978::$$$message_0438_0104_0001$$$::Ah, me desculpa chegar tarde ontem a noite, e obrigado por fazer o jantar."::
 50979::$$$message_0438_0105_0000$$$::"...Sim. Fico feliz por você ter dito isso, mas..."[lr]::
 50980::$$$message_0438_0105_0001$$$::Ela olha atrás de mim.[lr]::
@@ -273,14 +273,14 @@ id=qid::label=str::text=lstr::
 50987::$$$message_0438_0108_0000$$$::"T-Tem razão! Vou comer um pouco. Um, vai ficar aqui o dia todo?"::
 50988::$$$message_0438_0109_0000$$$::"Sim. Já que estou aqui, vou ficar até o fim da aula. Pulei a janta ontem, então vou cozinhar hoje. Venha comer conosco."::
 50989::$$$message_0438_0110_0000$$$::"[line3]Sim, será um prazer. Então vou falar com a Sensei. Senpai, por favor não largue o almoço aqui e fuja, okay?"::
-50990::$$$message_0438_0111_0000$$$::A Sakura vai até a Fuji-Nee com pressa.[lr]::
+50990::$$$message_0438_0111_0000$$$::A Sakura vai até a Fuji-nee com pressa.[lr]::
 50991::$$$message_0438_0111_0001$$$::Quando eu olho ao redor, a Mitsuzuri está explicando coisas para os alunos que estão ficando curiosos com a Saber.::
 50992::$$$message_0438_0112_0000$$$::[line3]Bem.[lr]::
 50993::$$$message_0438_0112_0001$$$::Fiz minha parte.::
 50994::$$$message_0438_0113_0000$$$::"Estou cheia agora. O açúcar está fluindo pro meu cérebro, então estamos finalmente em paz agora."::
 50995::$$$message_0438_0114_0000$$$::A sala de descanso.[lr]::
-50996::$$$message_0438_0114_0001$$$::A Fuji-Nee está comendo pasta de feijão doce enquanto toma chá.[lr]::
-50997::$$$message_0438_0114_0002$$$::A única coisa audível é o som das flechas. A Fuji-Nee está calma agora.::
+50996::$$$message_0438_0114_0001$$$::A Fuji-nee está comendo pasta de feijão doce enquanto toma chá.[lr]::
+50997::$$$message_0438_0114_0002$$$::A única coisa audível é o som das flechas. A Fuji-nee está calma agora.::
 50998::$$$message_0438_0115_0000$$$::"Sensei. Vou ao campo agora, então com licença."[lr]::
 50999::$$$message_0438_0115_0001$$$::"Tudo bem. Ah, pode dizer pra Mitsuzuri-san vir aqui? Preciso falar com ela."::
 51000::$$$message_0438_0116_0000$$$::"Okay. Por favor fique a vontade, Senpai. Se puder, me ajudaria se você me ensinasse."[lr]::

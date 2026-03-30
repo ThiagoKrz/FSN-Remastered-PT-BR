@@ -15,7 +15,7 @@ id=qid::label=str::text=lstr::
 62175::$$$message_0572_0005_0000$$$::"Então, Shirou. Você tem uma recompensa por eu ser uma Serva tão dedicada?"[lr]::
 62176::$$$message_0572_0005_0001$$$::A Saber faz um pedido fofo com os olhos cheios de expectativas.::
 62177::$$$message_0572_0006_0000$$$::"Ah[w l=4][line4]Entendo. Um minuto, Saber."[lr]::
-62178::$$$message_0572_0006_0001$$$::Eu percebo que ela quer algo para comer com o chá, então pego os biscoitos que a Fuji-Nee comprou pra ela.::
+62178::$$$message_0572_0006_0001$$$::Eu percebo que ela quer algo para comer com o chá, então pego os biscoitos que a Fuji-nee comprou pra ela.::
 62179::$$$message_0572_0007_0000$$$::"[w l=8][line8]"[lr]::
 62180::$$$message_0572_0007_0001$$$::Eu desligo meu Circuito Mágico.[lr]::
 62181::$$$message_0572_0007_0002$$$::Suspiro aliviado depois que o graveto flamejante saí de minha espinha.::
@@ -38,7 +38,7 @@ id=qid::label=str::text=lstr::
 62198::$$$message_0572_0012_0001$$$::Minha mente desliga.[lr]::
 62199::$$$message_0572_0012_0002$$$::...a Sakura está vestindo algo que não reconheço.[lr]::
 62200::$$$message_0572_0012_0003$$$::Isso me pega desprevenido.[lr]::
-62201::$$$message_0572_0012_0004$$$::Deve ser as roupas que a Fuji-Nee separou pra ela, mas vê-la em outra roupa sem ser seu uniforme me pega de surpresa.::
+62201::$$$message_0572_0012_0004$$$::Deve ser as roupas que a Fuji-nee separou pra ela, mas vê-la em outra roupa sem ser seu uniforme me pega de surpresa.::
 62202::$$$message_0572_0013_0000$$$::"...Um, Senpai?"[lr]::
 62203::$$$message_0572_0013_0001$$$::"Ah[w l=3][line3]Sim, ainda acordado. Tudo bem, Sakura? Está frio aqui fora."[lr]::
 62204::$$$message_0572_0013_0002$$$::"Sim, minha febre já passou quase toda. Vim aqui fora tomar um ar e ouvi algo, então pensei que fosse você."::
@@ -53,7 +53,7 @@ id=qid::label=str::text=lstr::
 62213::$$$message_0572_0017_0001$$$::...ótimo, parece que ela está bem melhor. Que alivio.::
 62214::$$$message_0572_0018_0000$$$::"Está quente. Então dava pra consertar."[lr]::
 62215::$$$message_0572_0018_0001$$$::"De algum jeito. Eu quase não tentei já que era tão velho."::
-62216::$$$message_0572_0019_0000$$$::"É verdade. Você ficou bravo e disse que preferiria consertar o VHS que a Fujimura-Sensei cortou ao meio.[lr]::
+62216::$$$message_0572_0019_0000$$$::"É verdade. Você ficou bravo e disse que preferiria consertar o VHS que a Fujimura-sensei cortou ao meio.[lr]::
 62217::$$$message_0572_0019_0001$$$::Mas você não conseguiu jogá-lo fora, né?"::
 62218::$$$message_0572_0020_0000$$$::"...bem, parece que esse fogão não é o único teimoso."[lr]::
 62219::$$$message_0572_0020_0001$$$::Estava quebrado, mas parecia que dava para consertar, então não consegui largar de mão.::
@@ -101,12 +101,12 @@ id=qid::label=str::text=lstr::
 62261::$$$message_0572_0038_0001$$$::"Huh? Ah, estava distraído. Falando sozinho, então pode ficar tranquila."::
 62262::$$$message_0572_0039_0000$$$::"...Okay. Tudo bem, mas, um... Posso te perguntar algo incomodante?"[lr]::
 62263::$$$message_0572_0039_0001$$$::"...? Okay, o que?"::
-62264::$$$message_0572_0040_0000$$$::"...ouvi da Fujimura-Sensei. É verdade que você foi adotado pelos Emiya?"[lr]::
-62265::$$$message_0572_0040_0001$$$::"[w l=3][line3]Huh? Nunca te contei? Sou adotado, como a Fuji-Nee te disse."::
+62264::$$$message_0572_0040_0000$$$::"...ouvi da Fujimura-sensei. É verdade que você foi adotado pelos Emiya?"[lr]::
+62265::$$$message_0572_0040_0001$$$::"[w l=3][line3]Huh? Nunca te contei? Sou adotado, como a Fuji-nee te disse."::
 62266::$$$message_0572_0041_0000$$$::"U-Um, Senpai? Isso significa..."[lr]::
 62267::$$$message_0572_0041_0001$$$::"Bem, é verdade, e é nada que devo esconder. Por que está me perguntando sobre isso?"::
 62268::$$$message_0572_0042_0000$$$::"...não se importa com isso? Você foi adotado numa família de estranhos, então, um... não havia coisas que você não gostava?"::
-62269::$$$message_0572_0043_0000$$$::"Ah, será que Fuji-Nee te deu uma impressão errada?[lr]::
+62269::$$$message_0572_0043_0000$$$::"Ah, será que Fuji-nee te deu uma impressão errada?[lr]::
 62270::$$$message_0572_0043_0001$$$::...bem, poderia parecer assim quando vim aqui pela primeira vez, mas não foi difícil para mim, e não havia nada que eu não gostasse."[lr]::
 62271::$$$message_0572_0043_0002$$$::"Então foi divertido para você, Senpai?"::
 62272::$$$message_0572_0044_0000$$$::[w l=4][line4]Hm.[lr]::
@@ -120,7 +120,7 @@ id=qid::label=str::text=lstr::
 62280::$$$message_0572_0046_0000$$$::Nunca tive tempo para ponderar se eu estava me divertindo.::
 62281::$$$message_0572_0046_0001$$$::Nunca tive o luxo de considerar essa questão.::
 62282::$$$message_0572_0047_0000$$$::"Hmm, não sei. Não sei se foi divertido ou não. Eu só queria ser como meu pai."::
-62283::$$$message_0572_0048_0000$$$::"Quer dizer ser um superherói, como a Fujimura-Sensei disse?"[lr]::
+62283::$$$message_0572_0048_0000$$$::"Quer dizer ser um superherói, como a Fujimura-sensei disse?"[lr]::
 62284::$$$message_0572_0048_0001$$$::A Sakura pergunta, timidamente.[lr]::
 62285::$$$message_0572_0048_0002$$$::Para isso...[lr]::
 62286::$$$message_0572_0048_0003$$$::"[w l=4][line4]Sim. É tão estranho?"[lr]::

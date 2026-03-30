@@ -2,13 +2,13 @@ DAT
 id=qid::label=str::text=lstr::
 51081::$$$message_0440_0000_0000$$$::...Vou fugir um pouco.[lr]::
 51082::$$$message_0440_0000_0001$$$::O Issei deve estar lá se eu for até a sala do conselho estudantil, e não seria má ideia começar a pensar em estratégias para o exame final do mês que vem.::
-51083::$$$message_0440_0001_0000$$$::"Tudo bem. Vou até a sala do conselho estudantil. Sabe se o Issei está lá, Fuji-Nee?"[lr]::
+51083::$$$message_0440_0001_0000$$$::"Tudo bem. Vou até a sala do conselho estudantil. Sabe se o Issei está lá, Fuji-nee?"[lr]::
 51084::$$$message_0440_0001_0001$$$::"Ryuudou-kun? Hmm... não sei. Pelo menos, não vi ele."::
 51085::$$$message_0440_0002_0000$$$::"Entendi. Bem, vou voltar se ele não estiver lá. Diga a Sakura que dou meus parabéns a ela."[lr]::
 51086::$$$message_0440_0002_0001$$$::"Tudo bem. Mas você está escolhendo um amigo ao invés de uma amiga? Parece que você é ainda um garoto, huh?"::
 51087::$$$message_0440_0003_0000$$$::"[line4]Hm."[lr]::
 51088::$$$message_0440_0003_0001$$$::...Quero protestar, mas a Saber vai notar se eu fizer.[lr]::
-51089::$$$message_0440_0003_0002$$$::Vou deixar a Fuji-Nee ganhar desta vez, e sair silenciosamente.::
+51089::$$$message_0440_0003_0002$$$::Vou deixar a Fuji-nee ganhar desta vez, e sair silenciosamente.::
 51090::$$$message_0440_0004_0000$$$::"Você está agindo suspeito. Para onde vai, Shirou?"[lr]::
 51091::$$$message_0440_0004_0001$$$::"Gah."::
 51092::$$$message_0440_0005_0000$$$::Acho que ser discreto não adianta.[lr]::
@@ -49,53 +49,53 @@ id=qid::label=str::text=lstr::
 51127::$$$message_0440_0019_0002$$$::...Então.[lr]::
 51128::$$$message_0440_0019_0003$$$::Há uma pessoa inesperada na sala do conselho.::
 51129::$$$message_0440_0020_0000$$$::Eu engulo.[lr]::
-51130::$$$message_0440_0020_0001$$$::A pessoa na sala não é o Issei, mas sim o Kuzuki-Sensei, o professor encarregado do conselho estudantil.::
-51131::$$$message_0440_0021_0000$$$::"Com licença. O Issei está aqui hoje, Kuzuki-Sensei?"[lr]::
+51130::$$$message_0440_0020_0001$$$::A pessoa na sala não é o Issei, mas sim o Kuzuki-sensei, o professor encarregado do conselho estudantil.::
+51131::$$$message_0440_0021_0000$$$::"Com licença. O Issei está aqui hoje, Kuzuki-sensei?"[lr]::
 51132::$$$message_0440_0021_0001$$$::"Não, não vi ele hoje. Tem algo a tratar aqui, Emiya?"[lr]::
 51133::$$$message_0440_0021_0002$$$::"Não, é mais com o Issei mesmo. Queria começar a me preparar para as provas finais."::
 51134::$$$message_0440_0022_0000$$$::"Entendo. Então você deveria tentar esperar aqui. Conhecendo ele, ele pode resolver fugir do tédio de casa e vir aqui."[lr]::
 51135::$$$message_0440_0022_0001$$$::"Posso ficar na sala do conselho estudantil?"[lr]::
 51136::$$$message_0440_0022_0002$$$::"Não deve ser problema. Se fosse, algo já teria acontecido."::
 51137::$$$message_0440_0023_0000$$$::"Vou confiar em você pra trancar aqui. Coloque a chave na minha mesa quando acabar."[lr]::
-51138::$$$message_0440_0023_0001$$$::Com isso, Kuzuki-Sensei deixa a sala do conselho.::
+51138::$$$message_0440_0023_0001$$$::Com isso, Kuzuki-sensei deixa a sala do conselho.::
 51139::$$$message_0440_0024_0000$$$::...Acho que ele estava sendo amigável.[lr]::
-51140::$$$message_0440_0024_0001$$$::De acordo com o Issei, o Kuzuki-Sensei parece frio, mas na verdade ele tem uma personalidade delicada.[lr]::
+51140::$$$message_0440_0024_0001$$$::De acordo com o Issei, o Kuzuki-sensei parece frio, mas na verdade ele tem uma personalidade delicada.[lr]::
 51141::$$$message_0440_0024_0002$$$::Ele deve ter achado que seria esquisito pra mim esperar na sala do conselho com um professor.::
 51142::$$$message_0440_0025_0000$$$::"......Hm?"[lr]::
 51143::$$$message_0440_0025_0001$$$::"[line8]"[lr]::
 51144::$$$message_0440_0025_0002$$$::Então.[lr]::
-51145::$$$message_0440_0025_0003$$$::Enquanto o Kuzuki-Sensei deixa a sala, ele esbarra na Saber, que está esperando atrás de mim.::
+51145::$$$message_0440_0025_0003$$$::Enquanto o Kuzuki-sensei deixa a sala, ele esbarra na Saber, que está esperando atrás de mim.::
 51146::$$$message_0440_0026_0000$$$::"...! S-Sensei! Ela é minha conhecida, e pode vir aqui ano que vem, então ela veio visitar a escola...!"::
 51147::$$$message_0440_0027_0000$$$::Rapidamente invento uma desculpa.[lr]::
 51148::$$$message_0440_0027_0001$$$::Mas essa desculpa é inútil.[lr]::
 51149::$$$message_0440_0027_0002$$$::Mesmo se ela for uma aluna em potêncial, não posso trazer gente de fora pra escola.[lr]::
-51150::$$$message_0440_0027_0003$$$::A Fuji-Nee não liga, mas não acho que o encarregado do conselho estudantil vá fazer vista grossa pra isso[line4]::
+51150::$$$message_0440_0027_0003$$$::A Fuji-nee não liga, mas não acho que o encarregado do conselho estudantil vá fazer vista grossa pra isso[line4]::
 51151::$$$message_0440_0028_0000$$$::"...Entendo. Ela será nossa primeira aluna estrangeira. Inesperado, mas devo ficar feliz que haverá uma mudança."[lr]::
 51152::$$$message_0440_0028_0001$$$::"[line4]Huh?"::
 51153::$$$message_0440_0029_0000$$$::...Um.[lr]::
-51154::$$$message_0440_0029_0001$$$::Acho que o Kuzuki-Sensei é mais compreensível do que pensei, enquanto ele observa a Saber admirado.::
+51154::$$$message_0440_0029_0001$$$::Acho que o Kuzuki-sensei é mais compreensível do que pensei, enquanto ele observa a Saber admirado.::
 51155::$$$message_0440_0030_0000$$$::"Ela não será ignorada quando entrar nesta escola.[lr]::
 51156::$$$message_0440_0030_0001$$$::Se você é um conhecido dela, tem que ser mais considerativo. Você será um veterano no ano que vêm. Precisa cuidar dos alunos mais novos."::
 51157::$$$message_0440_0031_0000$$$::"Ah[line3]sim. Obrigado, Sensei."[lr]::
 51158::$$$message_0440_0031_0001$$$::"O toque de recolher aos fins de semana é às 5. Vá pra casa antes que os portões fechem."::
 51159::$$$message_0440_0032_0000$$$::Ele vai para a sala dos professores.[lr]::
 51160::$$$message_0440_0032_0001$$$::A Saber observa ele ir.::
-51161::$$$message_0440_0033_0000$$$::"Saber? Há algo de errado com o Kuzuki-Sensei?"[lr]::
+51161::$$$message_0440_0033_0000$$$::"Saber? Há algo de errado com o Kuzuki-sensei?"[lr]::
 51162::$$$message_0440_0033_0001$$$::"...Não, nada em particular. Primeiramente, parecia que ele não era um cara qualquer, mas quanto mais olho pra ele, mais ordinário ele parece. Posso declarar que ele não é um Mestre."::
 51163::$$$message_0440_0034_0000$$$::"......"[lr]::
 51164::$$$message_0440_0034_0001$$$::Estou um pouco surpreso.[lr]::
 51165::$$$message_0440_0034_0002$$$::Parece que a Saber está checando se as pessoas são Mestres ou não sempre que conhecemos alguém.::
-51166::$$$message_0440_0035_0000$$$::"Isso é bom. Ficaria surpreso se o Kuzuki-Sensei fosse um mago. Mas como assim, ele não é ordinário? Sentiu algo especial nele?"::
+51166::$$$message_0440_0035_0000$$$::"Isso é bom. Ficaria surpreso se o Kuzuki-sensei fosse um mago. Mas como assim, ele não é ordinário? Sentiu algo especial nele?"::
 51167::$$$message_0440_0036_0000$$$::"Não, não havia nada especial nele. Mas sua respiração é natural e controlada demais.[lr]::
 51168::$$$message_0440_0036_0001$$$::...Sendo sincera, estava admirando ele. Não havia movimentos desperdiçados em seus passos. Não acho que vi alguém tão bom quanto ele ."::
 51169::$$$message_0440_0037_0000$$$::A Saber está elogiando bastante ele.[lr]::
 51170::$$$message_0440_0037_0001$$$::Mas se ele é tão bom, não é suspeito!?::
-51171::$$$message_0440_0038_0000$$$::"Espera. Está dizendo que o Kuzuki-Sensei é forte em uma luta?"[lr]::
+51171::$$$message_0440_0038_0000$$$::"Espera. Está dizendo que o Kuzuki-sensei é forte em uma luta?"[lr]::
 51172::$$$message_0440_0038_0001$$$::"Huh? Aquela pessoa? Hmm, se for ele...[lr]::
 51173::$$$message_0440_0038_0002$$$::Acredito que ele é tão forte quanto você, fisicamente. Em uma batalha real... acredito que ele vai se sair tão bem quando um homem ordinário qualquer."::
 51174::$$$message_0440_0039_0000$$$::A Saber olha para mim maravilhada.[lr]::
 51175::$$$message_0440_0039_0001$$$::Mas sou eu quem está pensando.[lr]::
-51176::$$$message_0440_0039_0002$$$::O Kuzuki-Sensei conseguiu a admiração da Saber, então o que ela quer dizer com ele ser uma pessoa ordinária?::
+51176::$$$message_0440_0039_0002$$$::O Kuzuki-sensei conseguiu a admiração da Saber, então o que ela quer dizer com ele ser uma pessoa ordinária?::
 51177::$$$message_0440_0040_0000$$$::"Eu admirei sua respiração.[lr]::
 51178::$$$message_0440_0040_0001$$$::Aquela respiração é ideal para um ser humano. Admirei apenas aquilo."::
 51179::$$$message_0440_0041_0000$$$::Então.[lr]::
@@ -112,15 +112,15 @@ id=qid::label=str::text=lstr::
 51190::$$$message_0440_0046_0001$$$::Mas há raros casos onde esse alguém nasce com o jeito correto de respirar ou andar. Essas pessoas são Circuitos Mágicos propriamente ditos."::
 51191::$$$message_0440_0047_0000$$$::"Enquanto elas são anormais, terão a fama de prodígios e serão reivindicadas por magos. Mas há alguns que crescem sem chamar a atenção de ninguém.[lr]::
 51192::$$$message_0440_0047_0001$$$::Essas pessoas tem em si mistérios divinos que ultrapassam a magia, sem nem conhecer magia. Mas[line4]"::
-51193::$$$message_0440_0048_0000$$$::"Mas? Então o Kuzuki-Sensei tem um talento natural?"[lr]::
+51193::$$$message_0440_0048_0000$$$::"Mas? Então o Kuzuki-sensei tem um talento natural?"[lr]::
 51194::$$$message_0440_0048_0001$$$::"Não. Não sinto isso nele.[lr]::
 51195::$$$message_0440_0048_0002$$$::...Um, isso é contraditório, mas acredito que suas técnicas de respiração e caminhada foram adquiridas por treinamento."::
 51196::$$$message_0440_0049_0000$$$::"Não posso acreditar, mas ele não é um mago.[lr]::
 51197::$$$message_0440_0049_0001$$$::Acredito que seu treinamento diário afetou ele perfeitamente."::
 51198::$$$message_0440_0050_0000$$$::"......???"[lr]::
 51199::$$$message_0440_0050_0001$$$::Como assim?[lr]::
-51200::$$$message_0440_0050_0002$$$::Quer dizer que o Kuzuki-Sensei está vivendo uma vida pura e honesta?::
-51201::$$$message_0440_0051_0000$$$::"Saber. Então o Kuzuki-Sensei é..."[lr]::
+51200::$$$message_0440_0050_0002$$$::Quer dizer que o Kuzuki-sensei está vivendo uma vida pura e honesta?::
+51201::$$$message_0440_0051_0000$$$::"Saber. Então o Kuzuki-sensei é..."[lr]::
 51202::$$$message_0440_0051_0001$$$::"Significa que ele é um professor ideal. Uma pessoa como ele não é rara.[lr]::
 51203::$$$message_0440_0051_0002$$$::Significa que ele é admirável para alguém como eu que não consegue respirar perfeitamente mesmo treinando."::
 51204::$$$message_0440_0052_0000$$$::A Saber suspira com tristeza.[lr]::

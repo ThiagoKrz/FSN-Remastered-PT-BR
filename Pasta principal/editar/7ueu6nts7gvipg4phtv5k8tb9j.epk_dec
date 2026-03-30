@@ -30,7 +30,7 @@ id=qid::label=str::text=lstr::
 7582::$$$message_0071_0010_0000$$$::"Ugh... desculpa, eu vou tentar dormir no meu quarto de agora em diante."[lr]::
 7583::$$$message_0071_0010_0001$$$::"Já que você entendeu, não tem problema.[lr]::
 7584::$$$message_0071_0010_0002$$$::Aliás, Shirou. A Taiga estava te chamando mais cedo."::
-7585::$$$message_0071_0011_0000$$$::"A Fuji-Nee? Por que ela está precisando de mim?"[lr]::
+7585::$$$message_0071_0011_0000$$$::"A Fuji-nee? Por que ela está precisando de mim?"[lr]::
 7586::$$$message_0071_0011_0001$$$::"Deve ser por conta do café da manhã. Já passou da hora de comê-lo."[lr]::
 7587::$$$message_0071_0011_0002$$$::"Eh[line2]nossa, já são mais de sete horas...!? Essa não, eu dormi demais...!"::
 7588::$$$message_0071_0012_0000$$$::"Parece que sim. Você raramente é o último a levantar. O treinamento com a Rin ontem à noite deve ter te deixado exausto."[lr]::
@@ -39,23 +39,23 @@ id=qid::label=str::text=lstr::
 7591::$$$message_0071_0013_0000$$$::"Desculpa por te fazer vir me acordar, mas você poderia ir se adiantando? Eu vou trocar de roupa e já vou para a cozinha."[lr]::
 7592::$$$message_0071_0013_0001$$$::"Claro. Nesse caso, eu vou tentar acalmar a Taiga o máximo que puder."::
 7593::$$$message_0071_0014_0000$$$::A Saber sai do galpão sem pressa.[lr]::
-7594::$$$message_0071_0014_0001$$$::Mas, acalmar a Fuji-Nee...? A Saber se adaptou rápido com o que acontece aqui em casa.::
+7594::$$$message_0071_0014_0001$$$::Mas, acalmar a Fuji-nee...? A Saber se adaptou rápido com o que acontece aqui em casa.::
 7595::$$$message_0071_0015_0000$$$::Eu vou correndo até a cozinha.[lr]::
-7596::$$$message_0071_0015_0001$$$::Eu ignoro os xingamentos da Fuji-Nee e dou um jeito de preparar o café da manhã em cinco minutos.::
+7596::$$$message_0071_0015_0001$$$::Eu ignoro os xingamentos da Fuji-nee e dou um jeito de preparar o café da manhã em cinco minutos.::
 7597::$$$message_0071_0016_0000$$$::"Aqui está. Não falta muito tempo até a aula começar, então tentem comer rápido."[lr]::
 7598::$$$message_0071_0016_0001$$$::Eu coloco o café em cima da mesa.[lr]::
 7599::$$$message_0071_0016_0002$$$::"Quê[line2]"[lr]::
 7600::$$$message_0071_0016_0003$$$::Quando então.::
 7601::$$$message_0071_0017_0000$$$::"Mas o que é isso!!?"[normal][lr]::
-7602::$$$message_0071_0017_0001$$$::A Fuji-Nee explode de raiva.::
+7602::$$$message_0071_0017_0001$$$::A Fuji-nee explode de raiva.::
 7603::$$$message_0071_0018_0000$$$::"Que porcaria é essa!? Só tem torrada! Shirou, por que você só fez isso para o café da manhã...!?"::
 7604::$$$message_0071_0019_0000$$$::"...Olha só, hoje eu dormi até mais tarde, então não tive tempo de preparar nada melhor. Uma refeição com pão costuma ser assim mesmo. É quase a mesma coisa, só que sem os ovos e a salada."::
 7605::$$$message_0071_0020_0000$$$::"'Quase a mesma coisa' o caramba![lr]::
 7606::$$$message_0071_0020_0001$$$::Vocês não acham, meninas!?"[lr]::
-7607::$$$message_0071_0020_0002$$$::A Fuji-Nee pergunta para a Tohsaka e a Saber, que estão comendo sem dizer nada.[lr]::
+7607::$$$message_0071_0020_0002$$$::A Fuji-nee pergunta para a Tohsaka e a Saber, que estão comendo sem dizer nada.[lr]::
 7608::$$$message_0071_0020_0003$$$::Mas ela não deveria ficar muito otimista.[lr]::
-7609::$$$message_0071_0020_0004$$$::Elas não são tão mesquinhas quanto a Fuji-Nee. Essas duas não vão concordar com ela.::
-7610::$$$message_0071_0021_0000$$$::"...Tem razão. Eu posso não ser a Fujimura-Sensei, mas não dá para perdoar tanta preguiça assim. Esse café da manhã foi um insulto ao pão."[lr]::
+7609::$$$message_0071_0020_0004$$$::Elas não são tão mesquinhas quanto a Fuji-nee. Essas duas não vão concordar com ela.::
+7610::$$$message_0071_0021_0000$$$::"...Tem razão. Eu posso não ser a Fujimura-sensei, mas não dá para perdoar tanta preguiça assim. Esse café da manhã foi um insulto ao pão."[lr]::
 7611::$$$message_0071_0021_0001$$$::...Ei, espera aí.[lr]::
 7612::$$$message_0071_0021_0002$$$::Eu achei que você nem estivesse acostumada a comer café da manhã!::
 7613::$$$message_0071_0022_0000$$$::".........Aff."[lr]::
@@ -65,7 +65,7 @@ id=qid::label=str::text=lstr::
 7617::$$$message_0071_0024_0000$$$::"Está bem. Se eu tiver que escolher entre chegar atrasada e ficar com fome, eu prefiro comer o meu café."[lr]::
 7618::$$$message_0071_0024_0001$$$::"Não faça isso! Que tipo de professora prefere chegar atrasada...!? Vamos, termine de comer e se arrume logo para a escola. Não me faça dizer isso de novo, mas eu não vou preparar nenhum outro café da manhã."::
 7619::$$$message_0071_0025_0000$$$::"Hmmm. Que droga, tem vezes em que você é rigoroso demais. Se continuar falando igual a um velhote, vai acabar envelhecendo rapidinho."::
-7620::$$$message_0071_0026_0000$$$::"Você não precisa me dizer isso. Eu já sou obrigado a agir como um velho quando você está por perto, Fuji-Nee."[lr]::
+7620::$$$message_0071_0026_0000$$$::"Você não precisa me dizer isso. Eu já sou obrigado a agir como um velho quando você está por perto, Fuji-nee."[lr]::
 7621::$$$message_0071_0026_0001$$$::Depois de dizer isso, eu começo a comer a minha torrada.[lr]::
 7622::$$$message_0071_0026_0002$$$::...Pior que ela tem razão.[lr]::
 7623::$$$message_0071_0026_0003$$$::Com tantas pessoas na mesa, é um pouco triste o café da manhã só ter torrada.::

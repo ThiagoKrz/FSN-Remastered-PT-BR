@@ -147,9 +147,9 @@ id=qid::label=str::text=lstr::
 60853::$$$message_0554_0044_0001$$$::"...? Não, nada disso. Só meu corpo parece pesado e quente. É estranho?"::
 60854::$$$message_0554_0045_0000$$$::"Hmm... acho que devemos ficar felizes por nada doer.[lr]::
 60855::$$$message_0554_0045_0001$$$::Mas também, você pode não ter notado a dor porque você é do tipo que só aguenta. ...vou preparar alguns outros remédios, só por garantia."::
-60856::$$$message_0554_0046_0000$$$::A Fuji-Nee pega remédio para resfriado e pastilhas para tosse do kit de primeiros socorros.[lr]::
+60856::$$$message_0554_0046_0000$$$::A Fuji-nee pega remédio para resfriado e pastilhas para tosse do kit de primeiros socorros.[lr]::
 60857::$$$message_0554_0046_0001$$$::Ela é boa em tratar ferimentos, mas acho que ela não está acostumada em cuidar de gente doente.::
-60858::$$$message_0554_0047_0000$$$::"Obrigado, Fuji-Nee. E me desculpa, acho que não consigo fazer o café."[lr]::
+60858::$$$message_0554_0047_0000$$$::"Obrigado, Fuji-nee. E me desculpa, acho que não consigo fazer o café."[lr]::
 60859::$$$message_0554_0047_0001$$$::"Não diga idiotices. O que você acha que é mais importante, a comida ou você? Ainda bem que a Saber-chan veio me chamar. Eu ficaria bem brava se você tentasse fazer o café assim."::
 60860::$$$message_0554_0048_0000$$$::Ela está bem brava.[lr]::
 60861::$$$message_0554_0048_0001$$$::...e certíssima. Isso devia ser óbvio.::
@@ -169,8 +169,8 @@ id=qid::label=str::text=lstr::
 60875::$$$message_0554_0054_0000$$$::"...?"[lr]::
 60876::$$$message_0554_0054_0001$$$::Eu olho confuso pra Sakura.[lr]::
 60877::$$$message_0554_0054_0002$$$::"[w l=4][line4]Ah."[lr]::
-60878::$$$message_0554_0054_0003$$$::E finalmente percebo o que a Fuji-Nee quis dizer.::
-60879::$$$message_0554_0055_0000$$$::"V-V-V-V-V-V-Você é besta!? Eu só dei um pouco de remédio pra ela...! Nem brinque com isso, Fuji-Nee! Que rude com a Sakura...!"[lr]::
+60878::$$$message_0554_0054_0003$$$::E finalmente percebo o que a Fuji-nee quis dizer.::
+60879::$$$message_0554_0055_0000$$$::"V-V-V-V-V-V-Você é besta!? Eu só dei um pouco de remédio pra ela...! Nem brinque com isso, Fuji-nee! Que rude com a Sakura...!"[lr]::
 60880::$$$message_0554_0055_0001$$$::Posso notar minha cara ficando vermelha.[lr]::
 60881::$$$message_0554_0055_0002$$$::Minha temperatura sobe mais um grau.::
 60882::$$$message_0554_0056_0000$$$::"Brincadeira. Sei que você não é homem o bastante pra isso."[lr]::
@@ -182,11 +182,11 @@ id=qid::label=str::text=lstr::
 60888::$$$message_0554_0059_0000$$$::Saber concorda silenciosamente.[lr]::
 60889::$$$message_0554_0059_0001$$$::...sou só eu, ou eu senti um calafrio pelo corpo?::
 60890::$$$message_0554_0060_0000$$$::"Bem, só escute o que a Saber-chan disser até voltarmos. Te comprarei algo nutritivo para o jantar, então descanse hoje e melhore desse resfriado logo."::
-60891::$$$message_0554_0061_0000$$$::A Fuji-Nee sorri para mim enquanto pede o impossível.[lr]::
+60891::$$$message_0554_0061_0000$$$::A Fuji-nee sorri para mim enquanto pede o impossível.[lr]::
 60892::$$$message_0554_0061_0001$$$::"...?"[lr]::
 60893::$$$message_0554_0061_0002$$$::Noto a Sakura atrás dela, parecendo que quer dizer algo.::
 60894::$$$message_0554_0062_0000$$$::"Estamos saindo. Espere pelo o meu souvenir!"[lr]::
-60895::$$$message_0554_0062_0001$$$::A Fuji-Nee acena e vai embora.::
+60895::$$$message_0554_0062_0001$$$::A Fuji-nee acena e vai embora.::
 60896::$$$message_0554_0063_0000$$$::"......ufa."[lr]::
 60897::$$$message_0554_0063_0001$$$::Assim que vejo ela ir embora, volto pro futon.[lr]::
 60898::$$$message_0554_0063_0002$$$::Só andei até a entrada, mas até voltar, estou tão cansado que praticamente capoto na cama.[lr]::
@@ -218,7 +218,7 @@ id=qid::label=str::text=lstr::
 60924::$$$message_0554_0071_0002$$$::"...???"[lr]::
 60925::$$$message_0554_0071_0003$$$::Não entendo.[lr]::
 60926::$$$message_0554_0072_0000$$$::"U-Um. Acho que você ficou doente por minha causa."[lr]::
-60927::$$$message_0554_0072_0001$$$::"Que? Você acreditou no papo da Fuji-Nee? Relaxa, não é verdade. Eu façó caminhadas a noite, deve ter sido isso."::
+60927::$$$message_0554_0072_0001$$$::"Que? Você acreditou no papo da Fuji-nee? Relaxa, não é verdade. Eu façó caminhadas a noite, deve ter sido isso."::
 60928::$$$message_0554_0073_0000$$$::"A-Ainda não me importo. ...estou bem, então quero faltar e cuidar de você para mostrar minha gratidão pelo o que você fez por mim ontem...!"[lr]::
 60929::$$$message_0554_0074_0000$$$::"[w l=4][line4]Hmm."[lr]::
 60930::$$$message_0554_0074_0001$$$::Acho que ela se sente culpada por meu resfriado.::
