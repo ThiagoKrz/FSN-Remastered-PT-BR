@@ -1,204 +1,204 @@
 DAT
 id=qid::label=str::text=lstr::
-11272::$$$message_0113_0000_0000$$$::Os pontos das espadas cruzam.[lr]::
-11273::$$$message_0113_0000_0001$$$::As espadas são balançadas inúmeras vezes.[lr]::
-11274::$$$message_0113_0000_0002$$$::Golpes numerosos.[lr]::
-11275::$$$message_0113_0000_0003$$$::A espada e a katana se repelem, soltando faísca.::
-11276::$$$message_0113_0001_0000$$$::[line2]Uma sessão de mais de dezenas de golpes não muda a posição dos dois.[lr]::
-11277::$$$message_0113_0001_0001$$$::Assassin, posicionada acima, não recua nem um passo,[lr]::
-11278::$$$message_0113_0001_0002$$$::e a Saber, tentando subir as escadas, não consegue se aproximar e inutilmente gasta tempo e espirito.::
+11272::$$$message_0113_0000_0000$$$::As pontas das lâminas se cruzam.[lr]::
+11273::$$$message_0113_0000_0001$$$::As lâminas são brandidas uma e outra vez.[lr]::
+11274::$$$message_0113_0000_0002$$$::Golpes sobre golpes.[lr]::
+11275::$$$message_0113_0000_0003$$$::A espada e a katana se chocam, espalhando faíscas.::
+11276::$$$message_0113_0001_0000$$$::[line2]Mesmo após dezenas de trocas, a posição de nenhum dos dois se altera.[lr]::
+11277::$$$message_0113_0001_0001$$$::Assassin, postado acima, não recua um passo,[lr]::
+11278::$$$message_0113_0001_0002$$$::e Saber, tentando subir os degraus, não consegue se aproximar, apenas desperdiçando tempo e vigor.::
 11279::$$$message_0113_0002_0000$$$::"Haa[line2]!"[lr]::
-11280::$$$message_0113_0002_0001$$$::A Saber avança novamente.[lr]::
-11281::$$$message_0113_0002_0002$$$::O Assassin balança sua longa espada sem dificuldade e se defende completamente do ataque dela.::
-11282::$$$message_0113_0003_0000$$$::Não, não é tão simples quando defender.[lr]::
-11283::$$$message_0113_0003_0001$$$::Se a espada da Saber é como um relâmpago, a espada do Assassin é como um furacão.[lr]::
-11284::$$$message_0113_0003_0002$$$::Embora ela não se equipare com a Saber em velocidade ou poder, sua elasticidade evita todos os ataques da Saber.[lr]::
-11285::$$$message_0113_0003_0003$$$::E o contragolpe aumenta em velocidade e voa em direção ao pescoço da Saber como um vendaval.::
-11286::$$$message_0113_0004_0000$$$::[line2]Quando a Saber pisa de novo tentando evitar o ataque, a espada que ela desviou vem até ela em instantes.[lr]::
-11287::$$$message_0113_0004_0001$$$::Em contraste com o caminho direto que a espada da Saber pega, a espada do Assassin toma um caminho curvado.[lr]::
-11288::$$$message_0113_0004_0002$$$::A espada do Assassin é graciosa, mas já que se move em um arco, ela não pega a rota mais curta.[lr]::
-11289::$$$message_0113_0004_0003$$$::Então ele não deveria conseguir chegar a tempo contra a espada da Saber se movendo em linha reta, mas há algo no Assassin que reduz essa diferença pra zero.::
+11280::$$$message_0113_0002_0001$$$::Saber avança mais uma vez.[lr]::
+11281::$$$message_0113_0002_0002$$$::Assassin maneja sua katana longa sem esforço e barra por completo o avanço dela.::
+11282::$$$message_0113_0003_0000$$$::Não, não é algo tão simples quanto apenas se defender.[lr]::
+11283::$$$message_0113_0003_0001$$$::Se a espada de Saber é um relâmpago, a de Assassin é um vendaval.[lr]::
+11284::$$$message_0113_0003_0002$$$::Embora não se iguale a Saber em velocidade ou força, a trajetória flexível de sua lâmina desvia todos os golpes dela.[lr]::
+11285::$$$message_0113_0003_0003$$$::E a lâmina devolvida ganha velocidade, varrendo em direção ao pescoço de Saber como uma rajada.::
+11286::$$$message_0113_0004_0000$$$::[line2]Mesmo quando Saber pisa à frente após esquivar por um triz, a katana que ela julgou ter evitado retorna sem lhe dar um instante de folga.[lr]::
+11287::$$$message_0113_0004_0001$$$::Em contraste com a trajetória reta da espada de Saber, a espada de Assassin desenha uma curva.[lr]::
+11288::$$$message_0113_0004_0002$$$::A espada de Assassin é graciosa, mas, por descrever um arco, não segue a rota mais curta.[lr]::
+11289::$$$message_0113_0004_0003$$$::Então não deveria conseguir acompanhar a espada de Saber, que avança em linha reta, e ainda assim há algo em Assassin capaz de reduzir essa diferença a zero.::
 11290::$$$message_0113_0005_0000$$$::"Kuh[line3]!"[lr]::
 11291::$$$message_0113_0005_0001$$$::A investida para.[lr]::
-11292::$$$message_0113_0005_0002$$$::Sua espada não vai conseguir chegar a tempo contra o contra ataque da espada dele.[lr]::
-11293::$$$message_0113_0005_0003$$$::Ela dá um passo pra trás, sabendo que o único jeito de evitar é recuando.::
-11294::$$$message_0113_0006_0000$$$::A esgrima do Assassin é fascinantemente linda. Mas ao mesmo tempo, é rápida demais para acompanhar.[lr]::
-11295::$$$message_0113_0006_0001$$$::Seria essa contradição causada pela habilidade do Assassin ou pela posição desfavorável de atacar alguém em terreno firme?[lr]::
-11296::$$$message_0113_0006_0002$$$::Sem uma resposta definitiva, ela desvia da espada perseguindo ela e defende o ponto tentando perfurar seu pescoço.::
+11292::$$$message_0113_0005_0002$$$::Sua espada não alcançará a tempo o contra-ataque da lâmina dele.[lr]::
+11293::$$$message_0113_0005_0003$$$::Ela recua por instinto. Para evitar, não há outro jeito senão puxar o corpo para trás.::
+11294::$$$message_0113_0006_0000$$$::A esgrima de Assassin é bela a ponto de prender o olhar. Mas, ao mesmo tempo, rápida demais para ser acompanhada.[lr]::
+11295::$$$message_0113_0006_0001$$$::Essa contradição vem da técnica de Assassin ou da desvantagem de enfrentar um inimigo acima de si?[lr]::
+11296::$$$message_0113_0006_0002$$$::Sem chegar a uma resposta, ela desvia da katana que a persegue e rebate com a espada a ponta que vem perfurar seu pescoço.::
 11297::$$$message_0113_0007_0000$$$::"[line2]!"[lr]::
-11298::$$$message_0113_0007_0001$$$::Quando ela percebe, ela já recuou mais alguns degraus.[lr]::
-11299::$$$message_0113_0007_0002$$$::É uma espada tão longa.[lr]::
-11300::$$$message_0113_0007_0003$$$::Deveria ser fácil acertar ele assim que ela defende-a, mas de algum jeito, ela não consegue fazer isso.::
-11301::$$$message_0113_0008_0000$$$::As habilidades excelentes do oponente e o terreno definitivamente desvantajoso.[lr]::
-11302::$$$message_0113_0008_0001$$$::A Saber morde os lábios, pensando que ela não teria tanto problema com essa espada longa em terreno plano.::
-11303::$$$message_0113_0009_0000$$$::"[line2]É realmente difícil lutar contra. Não imaginei que uma espada invisível seria tão problemática."[lr]::
-11304::$$$message_0113_0009_0001$$$::O Assassin não se mexe.[lr]::
-11305::$$$message_0113_0009_0002$$$::Para ele, é apenas uma batalha de defensa.[lr]::
-11306::$$$message_0113_0009_0003$$$::Ele não tem necessidade de perseguir a Saber recuando sem motivo nem largar sua vantagem de terreno firme.::
-11307::$$$message_0113_0010_0000$$$::"...Hmm. Acredito que está é a primeira vez que você viu uma katana, né?[lr]::
-11308::$$$message_0113_0010_0001$$$::Minha espada é uma heresia, e vai cortar a cabeça de qualquer um de habilidade medíocre. Fico feliz que você tenha bloqueado-a tanto, Saber."::
-11309::$$$message_0113_0011_0000$$$::"E ainda por cima, sua investida é maravilhosa. Você consegue fazer tanto com um corpo tão pequeno. Seu corpo realmente é bem treinado."[lr]::
-11310::$$$message_0113_0011_0001$$$::Como ele não tem necessidade de atacar, o Assassin observa a Saber calmamente.::
-11311::$$$message_0113_0012_0000$$$::Sua espada balança, perdendo força.[lr]::
-11312::$$$message_0113_0012_0001$$$::Ela não pode avançar como se tivesse uma abertura.[lr]::
-11313::$$$message_0113_0012_0002$$$::Não há posturas para esse homem.[lr]::
-11314::$$$message_0113_0012_0003$$$::Ele só pode usar essa espada longa se ele puder a balançar de qualquer posição.::
-11315::$$$message_0113_0013_0000$$$::"Que? Não pode ser que isso é o fim. Aquela espada invisível não foi mero show, foi?"[lr]::
-11316::$$$message_0113_0013_0001$$$::"Hah, pode parar com essa imprudência[line2]!"::
-11317::$$$message_0113_0014_0000$$$::A espada e a katana batem.[lr]::
-11318::$$$message_0113_0014_0001$$$::"[line2]Tudo bem, estou certo...!"[lr]::
-11319::$$$message_0113_0014_0002$$$::A espada longa para em um espaço vazio.[lr]::
-11320::$$$message_0113_0014_0003$$$::O Assassin sorri e olha para sua espada bloqueando a espada invisível, defletindo sua espada e[line2][lr]::
-11321::$$$message_0113_0014_0004$$$::A Saber se defende do ataque ao seu pescoço.::
-11322::$$$message_0113_0015_0000$$$::"......!"[lr]::
-11323::$$$message_0113_0015_0001$$$::Até a Saber sabe.[lr]::
-11324::$$$message_0113_0015_0002$$$::Que é por causa de sua espada invisível que ela conseguiu bloquear as técnicas desconhecidas do Assassin.[lr]::
-11325::$$$message_0113_0015_0003$$$::A espada invisível confunde os sentidos de seu oponente tanto em ofensiva quanto defensiva.::
-11326::$$$message_0113_0016_0000$$$::Por isso que o Assassin não seguia-a tanto.[lr]::
-11327::$$$message_0113_0016_0001$$$::Enquanto ele não souber o tamanho da espada da Saber, é perigoso para o Assassin se aproximar dela.[lr]::
-11328::$$$message_0113_0016_0002$$$::Se o Assassin decidir atacar a Saber, vai ser quando[line2]::
+11298::$$$message_0113_0007_0001$$$::Quando percebe, já recuou mais alguns degraus.[lr]::
+11299::$$$message_0113_0007_0002$$$::É uma katana longa demais.[lr]::
+11300::$$$message_0113_0007_0003$$$::Bastaria apará-la uma vez para entrar em sua guarda, e ainda assim, por algum motivo, ela não consegue fazer isso.::
+11301::$$$message_0113_0008_0000$$$::A técnica excepcional do inimigo e um terreno absolutamente desfavorável.[lr]::
+11302::$$$message_0113_0008_0001$$$::Saber morde os lábios, pensando que não teria tanta dificuldade contra aquela katana longa se estivessem em terreno plano.::
+11303::$$$message_0113_0009_0000$$$::"[line2]É realmente difícil lutar assim. Não imaginei que uma espada invisível seria tão problemática."[lr]::
+11304::$$$message_0113_0009_0001$$$::Assassin não se move.[lr]::
+11305::$$$message_0113_0009_0002$$$::Para ele, não passa de uma batalha defensiva.[lr]::
+11306::$$$message_0113_0009_0003$$$::Não há necessidade de perseguir Saber à força, nem de abrir mão da vantagem de estar acima.::
+11307::$$$message_0113_0010_0000$$$::"...Hmm. Pelo visto, esta deve ser a primeira vez que vê uma katana, não?[lr]::
+11308::$$$message_0113_0010_0001$$$::Minha espada é herética, sabe, e contra um adversário de habilidaade medíocre bastaria um golpe para arrancar-lhe a cabeça. Que você a tenha defendido até aqui me alegra, Saber."::
+11309::$$$message_0113_0011_0000$$$::"Além disso, sua investida é esplêndida. Fazer tanto com um corpo tão pequeno... sem dúvida, seu corpo inteiro foi forjado ao extremo."[lr]::
+11310::$$$message_0113_0011_0001$$$::Talvez justamente por não precisar atacar, Assassin observa Saber com serenidade.::
+11311::$$$message_0113_0012_0000$$$::A ponta de sua lâmina oscila, sem firmeza.[lr]::
+11312::$$$message_0113_0012_0001$$$::Mas ela não pode avançar tomando isso como brecha.[lr]::
+11313::$$$message_0113_0012_0002$$$::Aquele homem não tem postura fixa.[lr]::
+11314::$$$message_0113_0012_0003$$$::Se não fosse capaz de brandir aquela katana longa a partir de qualquer posição, jamais poderia manejá-la assim.::
+11315::$$$message_0113_0013_0000$$$::"O que foi? Não me diga que acabou. Essa espada invisível não é só enfeite, é?[lr]::
+11316::$$$message_0113_0013_0001$$$::"Hah, cale essa boca[line2]!":: 
+11317::$$$message_0113_0014_0000$$$::Espada e katana colidem.[lr]::
+11318::$$$message_0113_0014_0001$$$::"[line2]Isso, acertei...!"[lr]::
+11319::$$$message_0113_0014_0002$$$::A katana longa para no vazio.[lr]::
+11320::$$$message_0113_0014_0003$$$::Assassin sorri ao ver sua espada deter a lâmina invisível, desvia o golpe e[line2][lr]::
+11321::$$$message_0113_0014_0004$$$::Saber consegue aparar o corte que veio buscar seu pescoço.::
+11322::$$$message_0113_0015_0000$$$::"...!"[lr]::
+11323::$$$message_0113_0015_0001$$$::Até Saber sabe.[lr]::
+11324::$$$message_0113_0015_0002$$$::Foi graças a sua espada invisível que ela conseguiu bloquear as técnicas incomuns de Assassin.[lr]::
+11325::$$$message_0113_0015_0003$$$::A espada invisível confunde os sentidos do oponente, tanto ao atacar quanto ao defender.::
+11326::$$$message_0113_0016_0000$$$::É por isso que Assassin não avança fundo demais.[lr]::
+11327::$$$message_0113_0016_0001$$$::Enquanto não souber o alcance da espada de Saber, é perigoso demais se aproximar dela.[lr]::
+11328::$$$message_0113_0016_0002$$$::Se Assassin decidir partir para matar Saber, será quando[line2]::
 11329::$$$message_0113_0017_0000$$$::"Hah...!"[lr]::
-11330::$$$message_0113_0017_0001$$$::A Saber tenta esmagar a cabeça do Assassin.[lr]::
-11331::$$$message_0113_0017_0002$$$::Esse golpe....[lr]::
-11332::$$$message_0113_0017_0003$$$::...foi perfeitamente desviado pelo Assassin, que meramente recua um pouco.::
-11333::$$$message_0113_0018_0000$$$::"...tudo bem, entendi agora. Essa lamina tem aproximadamente do tamanho de três Shaku (noventa centímetros) de altura e quatro sols (doze centímetros) de largura. O formato... hmmm... como seu nome, Saber, é uma espada ocidental tipica."[lr]::
-11334::$$$message_0113_0018_0001$$$::Ele comenta calmamente, mas não precisa ser dito como seu julgamento é bom.[lr]::
-11335::$$$message_0113_0018_0002$$$::Os golpes da Saber são rápidos demais para serem notados mesmo se a espada possa ser vista.[lr]::
-11336::$$$message_0113_0018_0003$$$::Mas ele não apenas defende-se contra a espada, mas também descobriu o seu formato[line2]::
-11337::$$$message_0113_0019_0000$$$::"Não consigo acreditar. Você mediu minha espada sem usar magia nem trocando golpes comigo."::
-11338::$$$message_0113_0020_0000$$$::"Ah, está surpresa? Mas isso é só performance de rua. Como sou um usuário de espada pouco ortodoxo, só posso melhorar tais habilidades."::
-11339::$$$message_0113_0021_0000$$$::"[line2]Entendo. Seu jeito de lutar não foi encarar meus golpes, mas sim defleti-los. Vejo que o termo pouco ortodoxo vem do quão covarde tu és."::
-11340::$$$message_0113_0022_0000$$$::"Ha[line2]Não, não. Desculpe minha grosseria ao não travar laminas com você.[lr]::
-11341::$$$message_0113_0022_0001$$$::Tenho esta espada longa. Ela vai quebrar se eu lutar com sua espada. Deve ser seu estilo competir em forçá, mas eu não posso. Não posso travar laminas com você e competir em força."::
+11330::$$$message_0113_0017_0001$$$::Saber tenta esmagar a cabeça de Assassin.[lr]::
+11331::$$$message_0113_0017_0002$$$::Aquele golpe...[lr]::
+11332::$$$message_0113_0017_0003$$$::...Assassin o evita por completo apenas recuando um passo.::
+11333::$$$message_0113_0018_0000$$$::"...Muito bem, agora já tenho uma boa noção. A lâmina mede pouco mais de três shaku, e a largura deve rondar quatro sun. O formato... hmm, como convém ao nome Saber, é o de uma espada ocidental típica."[lr]::
+11334::$$$message_0113_0018_0001$$$::Ele fala com tranquilidade, mas nem é preciso dizer o quão absurdo é esse discernimento.[lr]::
+11335::$$$message_0113_0018_0002$$$::Os golpes de Saber são rápidos demais para serem acompanhados, mesmo que a espada estivesse visível.[lr]::
+11336::$$$message_0113_0018_0003$$$::E ainda assim, ele não só bloqueou a espada invisível, como também apreendeu sua forma[line2]::
+11337::$$$message_0113_0019_0000$$$::"Inacreditável. Você mediu minha espada sem usar magia, e sem sequer termos trocado golpes de verdade."::
+11338::$$$message_0113_0020_0000$$$::"Oh, está surpresa? Mas isso não passa de um truque de saltimbanco. Por ser um espadachim herege, acabei ficando bom em artifícios desse tipo."::
+11339::$$$message_0113_0021_0000$$$::"[line2]Entendo. Seu modo de lutar não era receber meus golpes de frente, mas apenas desviá-los. Então o título de espadachim herege vem dessa sua postura covarde?"::
+11340::$$$message_0113_0022_0000$$$::"Ha[line2]Não, não, perdoe a descortesia de não cruzar lâminas de frente com você.[lr]::
+11341::$$$message_0113_0022_0001$$$::Afinal, esta é uma katana longa. Se eu travasse golpes com sua espada, quebraria sem falta. Para você, força bruta talvez seja o básico, mas comigo não funciona assim. Não posso cruzar lâminas com a sua e disputar força."::
 11342::$$$message_0113_0023_0000$$$::"[line5]"[lr]::
-11343::$$$message_0113_0023_0001$$$::"A Katana é tal espada.[lr]::
-11344::$$$message_0113_0023_0002$$$::Espada ocidentais cortam com sua força e poder.[lr]::
-11345::$$$message_0113_0023_0003$$$::Mas nossas laminas cortam com velocidade e técnica.[lr]::
-11346::$$$message_0113_0023_0004$$$::Não é surpresa que nossos estilos de luta sejam incompatíveis, não?"::
-11347::$$$message_0113_0024_0000$$$::"Mas bem... é um pouco chato.[lr]::
-11348::$$$message_0113_0024_0001$$$::Agora é uma boa hora, Saber. Pare de esconder seus poderes."[lr]::
+11343::$$$message_0113_0023_0001$$$::"Katana é esse tipo de arma.[lr]::
+11344::$$$message_0113_0023_0002$$$::Espadas ocidentais abatem as coisas com peso e força.[lr]::
+11345::$$$message_0113_0023_0003$$$::Já nossas lâminas cortam com velocidade e técnica.[lr]::
+11346::$$$message_0113_0023_0004$$$::Não é natural que nossos estilos de combate não se encaixem?"::
+11347::$$$message_0113_0024_0000$$$::"Mas, bem... assim perde um pouco da graça.[lr]::
+11348::$$$message_0113_0024_0001$$$::Já está na hora, Saber. Pare de esconder o jogo."[lr]::
 11349::$$$message_0113_0024_0002$$$::"...Assassin, está dizendo que estou pegando leve com você?"[lr]::
-11350::$$$message_0113_0024_0003$$$::"Está dizendo que não está? Não sei suas intenções, mas você está pegando leve comigo lutando com sua bainha. Está me dizendo que não sou digno de lutar a sério?"::
+11350::$$$message_0113_0024_0003$$$::"Vai dizer que não está? Não sei qual é sua intenção, mas lutar com a espada ainda na bainha é um insulto. Está dizendo que eu não sou digno de ver sua força de verdade?"::
 11351::$$$message_0113_0025_0000$$$::"[line5]"[lr]::
-11352::$$$message_0113_0025_0001$$$::"Hm. Parece que você não vai concordar com meu pedido.[lr]::
-11353::$$$message_0113_0025_0002$$$::[line2]Ótimo, então vai ser assim. Se você não quer fazer, mostrarei minha técnica secreta primeiro."[lr]::
+11352::$$$message_0113_0025_0001$$$::"Hmm. Então essa é a sua cara. Não pretende ceder.[lr]::
+11353::$$$message_0113_0025_0002$$$::[line2]Pois bem, então ficamos por aqui. Se vai continuar se contendo, mostrarei antes a minha técnica secreta."[lr]::
 11354::$$$message_0113_0025_0003$$$::Dizendo isso...[lr]::
-11355::$$$message_0113_0025_0004$$$::O espadachim com a espada longa vem até a Saber.::
+11355::$$$message_0113_0025_0004$$$::o espadachim da katana longa desce, indo parar ao lado de Saber.::
 11356::$$$message_0113_0026_0000$$$::"Que[line2]?"[lr]::
-11357::$$$message_0113_0026_0001$$$::Entregar sua vantagem de estar acima é o mesmo que perder para o Assassin.[lr]::
-11358::$$$message_0113_0026_0002$$$::O Assassin é certamente um espadachim habilidoso, mas só com as condições geográficas atuais.::
-11359::$$$message_0113_0027_0000$$$::Se eles lutarem no mesmo nível, seria possível pra Saber repelir o ataque do Assassin e cortar seu pescoço.[lr]::
-11360::$$$message_0113_0027_0001$$$::Mas o Assassin sabe disso também.[lr]::
-11361::$$$message_0113_0027_0002$$$::Então por que[line2]?::
-11362::$$$message_0113_0028_0000$$$::"Se prepare. Ou você vai morrer, Saber."[lr]::
-11363::$$$message_0113_0028_0001$$$::Os instintos da Saber reagem a voz.[lr]::
-11364::$$$message_0113_0028_0002$$$::[line2]Ele está dizendo a verdade.[lr]::
-11365::$$$message_0113_0028_0003$$$::Não existe vantagem alguma para a Saber se o Assassin descer.[lr]::
-11366::$$$message_0113_0028_0004$$$::Os instintos dela que levaram-a por inúmeras batalhas avisam ela do seu erro.::
+11357::$$$message_0113_0026_0001$$$::Para Assassin, abrir mão da vantagem de estar acima equivale a aceitar a derrota.[lr]::
+11358::$$$message_0113_0026_0002$$$::Assassin é, sem dúvida, um espadachim excelente, mas apenas porque o terreno lhe favorecia.::
+11359::$$$message_0113_0027_0000$$$::Se os dois lutarem no mesmo nível, Saber é perfeitamente capaz de repelir a katana de Assassin e, no embalo, arrancar sua cabeça.[lr]::
+11360::$$$message_0113_0027_0001$$$::E Assassin certamente sabe disso.[lr]::
+11361::$$$message_0113_0027_0002$$$::Mesmo assim, por quê[line2]?::
+11362::$$$message_0113_0028_0000$$$::"Assuma a guarda. Do contrário, morrerá, Saber."[lr]::
+11363::$$$message_0113_0028_0001$$$::Os instintos de Saber reagem àquela voz.[lr]::
+11364::$$$message_0113_0028_0002$$$::[line2]É a verdade.[lr]::
+11365::$$$message_0113_0028_0003$$$::O fato de Assassin ter descido não a colocou em vantagem alguma.[lr]::
+11366::$$$message_0113_0028_0004$$$::A intuição que a guiou por incontáveis batalhas a alerta para o próprio erro.::
 11367::$$$message_0113_0029_0000$$$::"Ku[line2]!"[lr]::
-11368::$$$message_0113_0029_0001$$$::Ela prepara sua espada imediatamente.[lr]::
-11369::$$$message_0113_0029_0002$$$::Não há tempo pra hesitar.[lr]::
-11370::$$$message_0113_0029_0003$$$::Ela só pode atacar com sua espada antes do Assassin balançar a dele[line2]!::
+11368::$$$message_0113_0029_0001$$$::Ela ergue de pronto a espada invisível.[lr]::
+11369::$$$message_0113_0029_0002$$$::Não há tempo para hesitar.[lr]::
+11370::$$$message_0113_0029_0003$$$::Basta golpear antes que Assassin balance sua katana[line2]!::
 11371::$$$message_0113_0030_0000$$$::"Fu[line2]"[lr]::
-11372::$$$message_0113_0030_0001$$$::Há três metros de distância entre eles.[lr]::
-11373::$$$message_0113_0030_0002$$$::Com a Saber tentando investir, o Assassin se prepara.[lr]::
-11374::$$$message_0113_0030_0003$$$::Essa...[lr]::
+11372::$$$message_0113_0030_0001$$$::Menos de três metros separam os dois.[lr]::
+11373::$$$message_0113_0030_0002$$$::Saber avança; Assassin assume a guarda.[lr]::
+11374::$$$message_0113_0030_0003$$$::Aquela era...[lr]::
 11375::$$$message_0113_0031_0000$$$::"Técnica secreta[line5]"[lr]::
-11376::$$$message_0113_0031_0001$$$::A Saber avança.[lr]::
-11377::$$$message_0113_0031_0002$$$::A espada longa é inútil.[lr]::
-11378::$$$message_0113_0031_0003$$$::Enquanto ela estiver dentro do alcance, seu tamanho irá falhar.[lr]::
+11376::$$$message_0113_0031_0001$$$::Saber investe.[lr]::
+11377::$$$message_0113_0031_0002$$$::A katana longa já não significa nada.[lr]::
+11378::$$$message_0113_0031_0003$$$::Uma vez dentro da guarda, o comprimento da arma joga contra ele.[lr]::
 11379::$$$message_0113_0031_0004$$$::Mas.[lr]::
 11380::$$$message_0113_0031_0005$$$::"[line4]Tsubame-Gaeshi"[lr]::
-11381::$$$message_0113_0031_0006$$$::Tal lógica não existe com esse espadachim.::
-11382::$$$message_0113_0032_0000$$$::O raio acerta.[lr]::
-11383::$$$message_0113_0032_0001$$$::Um golpe maligno que ataca com uma velocidade oprimindo a Saber[line2]!::
+11381::$$$message_0113_0031_0006$$$::Esse tipo de lógica simplesmente não se aplica diante daquele espadachim.::
+11382::$$$message_0113_0032_0000$$$::Um relâmpago cai.[lr]::
+11383::$$$message_0113_0032_0001$$$::Mais veloz até que a espada de Saber, o golpe demoníaco desaba numa única linha reta[line2]!::
 11384::$$$message_0113_0033_0000$$$::"[line2]!"[lr]::
-11385::$$$message_0113_0033_0001$$$::Mas não é como se a Saber não conseguisse bloquear tal ataque.[lr]::
-11386::$$$message_0113_0033_0002$$$::Ela move sua espada atacante em defesa, e repele o ataque poderoso do Assassin...!::
+11385::$$$message_0113_0033_0001$$$::Mas um golpe desse nível não é algo que Saber não possa deter.[lr]::
+11386::$$$message_0113_0033_0002$$$::Ela faz girar a espada erguida para a defesa e repele o golpe total de Assassin...!::
 11387::$$$message_0113_0034_0000$$$::"Consegui...!"[lr]::
-11388::$$$message_0113_0034_0001$$$::Até mesmo o Assassin vai ter uma abertura se tal ataque for repelido.[lr]::
-11389::$$$message_0113_0034_0002$$$::No pequeno instante em que ela tenta cortar o estômago do Assassin...[lr]::
+11388::$$$message_0113_0034_0001$$$::Mesmo Assassin abrirá uma brecha depois de ter um golpe desses repelido.[lr]::
+11389::$$$message_0113_0034_0002$$$::No instante, menor que um segundo, em que ela vai varrer o abdômen de Assassin...[lr]::
 11390::$$$message_0113_0034_0003$$$::"[line2]Ah"[lr]::
-11391::$$$message_0113_0034_0004$$$::Neste instante, a Saber confia em seus instintos e rola nos degraus de pedra.::
+11391::$$$message_0113_0034_0004$$$::Naquele exato instante, confiando apenas nos instintos, Saber se joga pelos degraus de pedra.::
 11392::$$$message_0113_0035_0000$$$::Ela rola como se estivesse fugindo.[lr]::
-11393::$$$message_0113_0035_0001$$$::Ela nem mesmo tenta amaciar a queda.[lr]::
-11394::$$$message_0113_0035_0002$$$::A Saber gira seu corpo freneticamente e rola as escadas sem parar.::
+11393::$$$message_0113_0035_0001$$$::Nem tenta amortecer a queda.[lr]::
+11394::$$$message_0113_0035_0002$$$::Saber apenas derruba o corpo com desespero e rola escada abaixo sem perder o embalo.::
 11395::$$$message_0113_0036_0000$$$::"Ku[line2]!"[lr]::
-11396::$$$message_0113_0036_0001$$$::A Saber para de rolar e levanta de volta.[lr]::
-11397::$$$message_0113_0036_0002$$$::Ela olha para o espadachim parado calmamente.::
-11398::$$$message_0113_0037_0000$$$::"Ah. Você desviou da minha habilidade secreta. Como esperado da Saber, você é diferente de uma andorinha."::
-11399::$$$message_0113_0038_0000$$$::"[line2]Não acredito, não pode ser..."[lr]::
-11400::$$$message_0113_0038_0001$$$::"Não, não é nada demais. É só algo que pensei considerando em como acertar andorinhas."[lr]::
-11401::$$$message_0113_0038_0002$$$::Ele levanta sua espada um pouco.[lr]::
-11402::$$$message_0113_0038_0003$$$::Como se[line2]tivesse traçando o movimento da técnica que inspirou medo na Saber.::
-11403::$$$message_0113_0039_0000$$$::"Pode ver, Saber?[lr]::
-11404::$$$message_0113_0039_0001$$$::Andorinhas desviam da espada sentindo o vento. Não importa o quão rápido sua espada seja. Você não pode balançar uma espada sem sacudir o ar, certo? As andorinhas sentem essa vibração e mudam a direção do voo.[lr]::
-11405::$$$message_0113_0039_0002$$$::Então ninguém conseguia matar andorinhas com um só golpe, não importa qual seja. Uma espada é só uma linha reta afinal, é normal que ela não consiga apreender a andorinha, que pode mover verticalmente e horizontalmente."::
-11406::$$$message_0113_0040_0000$$$::"Logo você só pode fazer elas desistirem da sua rota de escape.[lr]::
-11407::$$$message_0113_0040_0001$$$::Use um golpe pra atacar e o segundo golpe pra pegar a andorinha fujona enquanto ela lê o vento.[lr]::
-11408::$$$message_0113_0040_0002$$$::Mas elas são rápidas. O segundo golpe não chega a tempo com essa espada longa. Se eu quisesse pegar elas, teria que realizar ambos ataques ao mesmo tempo. Mas tal coisa é impossível.[lr]::
-11409::$$$message_0113_0040_0003$$$::Aceitei que tal coisa era impossível, mas[line3]"::
-11410::$$$message_0113_0041_0000$$$::"[line3]Infelizmente, não tinha nada para fazer.[lr]::
-11411::$$$message_0113_0041_0001$$$::Dizem que a determinação é a chave para o sucesso, mas quando eu percebi, já estava assim.[lr]::
-11412::$$$message_0113_0041_0002$$$::A ideia sem valor de matar uma andorinha virou uma técnica secreta que cria uma prisão com vários golpes."::
-11413::$$$message_0113_0042_0000$$$::Na mente dela, a Saber discorda das palavras do Assassin.[lr]::
-11414::$$$message_0113_0042_0001$$$::Estão erradas.[lr]::
-11415::$$$message_0113_0042_0002$$$::Essa técnica não é tão simples assim.[lr]::
-11416::$$$message_0113_0042_0003$$$::Quase ao mesmo tempo? Não.[lr]::
-11417::$$$message_0113_0042_0004$$$::Os dois golpes vieram exatamente ao mesmo tempo.[lr]::
-11418::$$$message_0113_0042_0005$$$::A espada do Assassin[line2]Sasaki Kojirou duplicou sua existência por um instante.::
-11419::$$$message_0113_0043_0000$$$::"Fenômeno de refração multidimensional... Kischur Zelretch... Um Servo que alcançou o nível de um Fantasma Nobre com mera habilidade[line3]"[lr]::
-11420::$$$message_0113_0043_0001$$$::Esse fato é o que deve ser admirado.[lr]::
-11421::$$$message_0113_0043_0002$$$::Aquele único golpe deixou claro.[lr]::
-11422::$$$message_0113_0043_0003$$$::Sasaki Kojirou não tem um Fantasma Nobre que espíritos heroicos tem.[lr]::
-11423::$$$message_0113_0043_0004$$$::Ele só tem sua técnica demoníaca, possível graças as suas habilidades quase-divinas.[lr]::
-11424::$$$message_0113_0043_0005$$$::É impossível[line2]mas esse mero humano está igualado aos espíritos heroicos armados com Fantasma Nobres[line2]!::
-11425::$$$message_0113_0044_0000$$$::"Mas a base foi ruim. A Tsubame-Gaeshi originalmente tinha três cortes. Se esse lugar fosse um pouco maior, eu poderia ter adicionado um corte vertical também."[lr]::
-11426::$$$message_0113_0044_0001$$$::"...assumi que sim. Não seria tão efetivo sem isso.[lr]::
-11427::$$$message_0113_0044_0002$$$::Se tudo acontece ao mesmo tempo, o segundo golpe precisa ser mais lento. Para compensar isso, deve-se ter um terceiro ataque vertical, para impedir que o oponente desvie de lado."::
-11428::$$$message_0113_0045_0000$$$::"Você entende rápido. Deve ser por isso que você conseguiu desviar da minha técnica secreta.[lr]::
-11429::$$$message_0113_0045_0001$$$::[line2]Hah, você é maravilhosa, Saber.[lr]::
-11430::$$$message_0113_0045_0002$$$::Me amaldiçoei por ter sido invocado neste mundo, mas isso acaba hoje. Se eu conseguir lutar com alguém que eu possa usar minhas habilidades secretas totalmente, valerá a pena ter sido invocado[line3]"::
-11431::$$$message_0113_0046_0000$$$::O Assassin prepara sua espada mais uma vez e desce as escadas.[lr]::
-11432::$$$message_0113_0046_0001$$$::Ele deve estar atrás do pescoço da Saber.[lr]::
-11433::$$$message_0113_0046_0002$$$::A Saber não está confiante de que vai conseguir desviar desta técnica novamente.[lr]::
-11434::$$$message_0113_0046_0003$$$::Como o Gae Bolg do Lancer, a Tsubame-Gaeshi do Assassin é algo que não pode ser permitida de começar.::
-11435::$$$message_0113_0047_0000$$$::Não, diferente da Gae Bolg, que permite você achar uma contra medida ao saber que vai acertar o coração, não existe contra medidas possíveis para a técnica secreta do Assassin mesmo sabendo dela.[lr]::
-11436::$$$message_0113_0047_0001$$$::Se há uma contra medida, é impedí-lo de usar.[lr]::
-11437::$$$message_0113_0047_0002$$$::Para derrotar ela, ela deve atacar ele com o golpe mais forte antes que ele use essa técnica[line2]::
-11438::$$$message_0113_0048_0000$$$::"...entendo. Certamente, você é alguém com quem não devo pegar leve."[lr]::
-11439::$$$message_0113_0048_0001$$$::Ela abaixa os braços.[lr]::
-11440::$$$message_0113_0048_0002$$$::Ela abaixa a espada como se estivesse colocando-a no chão. Ela olha pro Assassin, vindo em sua direção.[lr]::
-11441::$$$message_0113_0048_0003$$$::"Hm...? Então você está pronta pra usá-la?"::
-11442::$$$message_0113_0049_0000$$$::O Assassin para de descer e se prepara para a morte certeira.[lr]::
-11443::$$$message_0113_0049_0001$$$::A Saber olha pra ele bravamente.[lr]::
-11444::$$$message_0113_0049_0002$$$::"[line2]Eu também não tenho nada a dizer.[lr]::
-11445::$$$message_0113_0049_0003$$$::Aguentará meu ataque, Servo Assassin...!?"[lr]::
-11446::$$$message_0113_0049_0004$$$::A Saber solta seus bloqueios.::
-11447::$$$message_0113_0050_0000$$$::O ar treme.[lr]::
-11448::$$$message_0113_0050_0001$$$::Como se estivesse respondendo sua vontade, a espada irrompe com uma quantidade massiva de vento.::
+11396::$$$message_0113_0036_0001$$$::Saber interrompe a queda e torna a se levantar.[lr]::
+11397::$$$message_0113_0036_0002$$$::À sua frente está apenas o espadachim da katana longa, parado com absoluta calma.::
+11398::$$$message_0113_0037_0000$$$::"Oh. Esquivou-se da minha técnica secreta. Como esperado de Saber, está muito acima de uma andorinha."::
+11399::$$$message_0113_0038_0000$$$::"[line2]Inacreditável... não me diga que aquilo foi..."[lr]::
+11400::$$$message_0113_0038_0001$$$::"Não, não é nada demais. Foi só algo que me ocorreu, certa vez, ao pensar em como cortar uma andorinha."[lr]::
+11401::$$$message_0113_0038_0002$$$::Ele ergue a katana de leve.[lr]::
+11402::$$$message_0113_0038_0003$$$::Como se[line2]refizesse o movimento daquela técnica demoníaca que fez Saber estremecer.::
+11403::$$$message_0113_0039_0000$$$::"Está vendo, Saber?[lr]::
+11404::$$$message_0113_0039_0001$$$::As andorinhas evitam a lâmina lendo o vento. Não importa se o golpe é rápido ou lento. Não se pode brandir uma espada sem fazer o ar vibrar, certo? Elas captam essa vibração e mudam a direção do voo.[lr]::
+11405::$$$message_0113_0039_0002$$$::Por isso, não havia golpe capaz de abater uma andorinha. No fim, uma espada não passa de uma linha única. É natural que não alcance uma andorinha, que cruza o céu na vertical e na horizontal."::
+11406::$$$message_0113_0040_0000$$$::"Então bastava cercar sua rota de fuga.[lr]::
+11407::$$$message_0113_0040_0001$$$::Com o primeiro golpe, ataco a andorinha; com o segundo, cerco a rota de escape da ave, que terá lido o vento e tentado evitar o corte.[lr]::
+11408::$$$message_0113_0040_0002$$$::Mas elas são rápidas. Com esta katana longa, o segundo golpe jamais chegaria a tempo. Se eu quisesse consumar o feito, teria de executar ambos quase ao mesmo tempo. Só que tal coisa está além das mãos humanas.[lr]::
+11409::$$$message_0113_0040_0003$$$::Eu sabia que era impossível, mas[line3]"::
+11410::$$$message_0113_0041_0000$$$::"[line3]por infelicidade, eu não tinha mais nada para fazer.[lr]::
+11411::$$$message_0113_0041_0001$$$::Dizem que uma única obsessão pode alcançar até o domínio dos deuses; quando percebi, já era assim.[lr]::
+11412::$$$message_0113_0041_0002$$$::A ideia tola de cortar uma andorinha acabou se tornando uma técnica secreta: uma prisão feita de múltiplos golpes."::
+11413::$$$message_0113_0042_0000$$$::No íntimo, Saber balança a cabeça diante das palavras de Assassin.[lr]::
+11414::$$$message_0113_0042_0001$$$::Não.[lr]::
+11415::$$$message_0113_0042_0002$$$::Aquela técnica não era algo tão simples assim.[lr]::
+11416::$$$message_0113_0042_0003$$$::Quase ao mesmo tempo? Nem pensar.[lr]::
+11417::$$$message_0113_0042_0004$$$::Os dois golpes vieram exatamente no mesmo instante.[lr]::
+11418::$$$message_0113_0042_0005$$$::A espada de Assassin[line2]Sasaki Kojirou existiu em duplicidade por um único momento.::
+11419::$$$message_0113_0043_0000$$$::"Fenômeno de refração multidimensional... Kischur Zelretch. Um Servo que, sem usar magia, alcançou apenas com a espada o domínio de um Fantasma Nobre[line3]"[lr]::
+11420::$$$message_0113_0043_0001$$$::É isso, precisamente, o que há de admirável.[lr]::
+11421::$$$message_0113_0043_0002$$$::Aquele único golpe deixou tudo claro.[lr]::
+11422::$$$message_0113_0043_0003$$$::Sasaki Kojirou não possui um Fantasma Nobre como os demais Espíritos Heroicos.[lr]::
+11423::$$$message_0113_0043_0004$$$::O que ele tem é apenas uma espada demoníaca, forjada por uma habilidade que alcançou o reino do divino.[lr]::
+11424::$$$message_0113_0043_0005$$$::E, ainda assim[line2]esse homem, sendo apenas humano, se iguala a Espíritos Heroicos armados com Fantasmas Nobres[line2]!::
+11425::$$$message_0113_0044_0000$$$::"Mas o terreno era ruim. O Tsubame-Gaeshi, por natureza, descreve três trajetórias. Se houvesse só um pouco mais de espaço, eu teria acrescentado também um golpe lateral."[lr]::
+11426::$$$message_0113_0044_0001$$$::"...Era o que eu imaginava. Do contrário, estaria incompleto.[lr]::
+11427::$$$message_0113_0044_0002$$$::Se tudo ocorre ao mesmo tempo, a trajetória circular do segundo golpe inevitavelmente se atrasa. Para compensar isso, deve haver um terceiro golpe de varredura, impedindo a fuga lateral do oponente."::
+11428::$$$message_0113_0045_0000$$$::"Você compreende depressa. Não é à toa que conseguiu evitar minha técnica secreta.[lr]::
+11429::$$$message_0113_0045_0001$$$::[line2]Ha, magnífica, Saber.[lr]::
+11430::$$$message_0113_0045_0002$$$::Amaldiçoei ter sido invocado a este mundo vulgar, mas isso termina hoje. Se posso travar um duelo que em vida jamais me foi concedido, e brandir minha técnica secreta até o fim, então minha invocação teve valor[line3]"::
+11431::$$$message_0113_0046_0000$$$::Assassin reergue a katana e desce os degraus.[lr]::
+11432::$$$message_0113_0046_0001$$$::Seu alvo deve ser o pescoço de Saber.[lr]::
+11433::$$$message_0113_0046_0002$$$::Saber não tem confiança alguma de que conseguiria evitar aquela técnica uma segunda vez.[lr]::
+11434::$$$message_0113_0046_0003$$$::Assim como o Gae Bolg de Lancer, o Tsubame-Gaeshi de Assassin é algo que não se pode deixar ser desferido.::
+11435::$$$message_0113_0047_0000$$$::Não, diferente do Gae Bolg, contra o qual ainda é possível reagir se se souber que visa o coração, a técnica secreta de Assassin quase não deixa resposta, mesmo quando se conhece sua natureza.[lr]::
+11436::$$$message_0113_0047_0001$$$::Se existe uma contramedida, é apenas uma: impedi-lo de usar.[lr]::
+11437::$$$message_0113_0047_0002$$$::Para vencê-lo, resta a ela acertar o golpe mais poderoso antes que ele possa recorrer a essa técnica[line2]!::
+11438::$$$message_0113_0048_0000$$$::"...Entendo. Pelo visto, você realmente não é alguém contra quem eu possa pegar leve."[lr]::
+11439::$$$message_0113_0048_0001$$$::Ela baixa os braços.[lr]::
+11440::$$$message_0113_0048_0002$$$::Abaixa a espada invisível como se fosse cravá-la no chão e encara Assassin, que se aproxima.[lr]::
+11441::$$$message_0113_0048_0003$$$::"Hmm...? Então enfim decidiu usar, Saber?"::
+11442::$$$message_0113_0049_0000$$$::Assassin interrompe a descida e assume mais uma vez a postura do golpe fatal.[lr]::
+11443::$$$message_0113_0049_0001$$$::Saber o encara, firme.[lr]::
+11444::$$$message_0113_0049_0002$$$::"[line2]A falta de insatisfação é mútua.[lr]::
+11445::$$$message_0113_0049_0003$$$::Consegue suportar meu golpe, Servo Assassin...!?"[lr]::
+11446::$$$message_0113_0049_0004$$$::Saber desfaz o próprio selo.::
+11447::$$$message_0113_0050_0000$$$::O ar estremece.[lr]::
+11448::$$$message_0113_0050_0001$$$::Como se respondesse a vontade dela, a espada expele uma massa imensa de vento.::
 11449::$$$message_0113_0051_0000$$$::"Mm[line2]!"[lr]::
-11450::$$$message_0113_0051_0001$$$::O Assassin recua um pouco.[lr]::
-11451::$$$message_0113_0051_0002$$$::A pressão do vento lançada da Saber é extraordinária.[lr]::
-11452::$$$message_0113_0051_0003$$$::Não apenas o Assassin, mas até mesmo as outras árvores firmes da floresta estão tremendo e rangindo.::
-11453::$$$message_0113_0052_0000$$$::Uma correnteza de vento idêntica a uma explosão.[lr]::
-11454::$$$message_0113_0052_0001$$$::O ar preso é solto e explode para frente.[lr]::
-11455::$$$message_0113_0052_0002$$$::Esse vendaval que facilmente empurraria uma pessoa está vindo da espada da Saber.::
-11456::$$$message_0113_0053_0000$$$::Esse é o poder de sua espada.[lr]::
-11457::$$$message_0113_0053_0001$$$::"Ar Invisível" é uma espada com vento selado nela.[lr]::
-11458::$$$message_0113_0053_0002$$$::A espada que se cobre com ar comprimido muda a refração da luz para deixá-la invisível.[lr]::
-11459::$$$message_0113_0053_0003$$$::Então esse fenômeno ocorre quando o vento é solto.[lr]::
-11460::$$$message_0113_0053_0004$$$::O vento solto procura escapar e emite-se caoticamente ao redor.::
-11461::$$$message_0113_0054_0000$$$::[line2]Nesse instante.[lr]::
-11462::$$$message_0113_0054_0001$$$::É a magia comandante da espada que deixa ela manipular livremente o vendaval.[lr]::
-11463::$$$message_0113_0054_0002$$$::Com a Saber possuindo quantidades incríveis de energia mágica, ela deve conseguir manter este campo de separação por alguns minutos.[lr]::
-11464::$$$message_0113_0054_0003$$$::Como prova, sua espada ainda está invisível embora ela tenha soltado todo esse vento.::
-11465::$$$message_0113_0055_0000$$$::"...Hm. É como um tornado, mas[line3]"[lr]::
-11466::$$$message_0113_0055_0001$$$::O poder do vendaval não se abate.[lr]::
-11467::$$$message_0113_0055_0002$$$::O vento saindo da espada da Saber está prestes a engolir o Assassin.::
-11468::$$$message_0113_0056_0000$$$::"[line2]Não pode ser só isso, Descobrirei o que está por trás disso, Saber...!"[lr]::
-11469::$$$message_0113_0056_0001$$$::O Assassin avança contra o vendaval cegante[lr]::
+11450::$$$message_0113_0051_0001$$$::Assassin recua um pouco.[lr]::
+11451::$$$message_0113_0051_0002$$$::A pressão de vento liberada por Saber é fora do comum.[lr]::
+11452::$$$message_0113_0051_0003$$$::Não apenas Assassin, até as árvores grossas e robustas ao redor do portão tremem e rangem.::
+11453::$$$message_0113_0052_0000$$$::Era uma corrente de ar próxima de uma explosão.[lr]::
+11454::$$$message_0113_0052_0001$$$::O ar aprisionado é libertado e se espalha violentamente em todas as direções.[lr]::
+11455::$$$message_0113_0052_0002$$$::Um vendaval capaz de lançar longe uma ou duas pessoas é expelido da espada de Saber.::
+11456::$$$message_0113_0053_0000$$$::Esse é o poder da espada dela.[lr]::
+11457::$$$message_0113_0053_0001$$$::Ar Invisível é, como o nome diz, uma espada que sela o vento.[lr]::
+11458::$$$message_0113_0053_0002$$$::A espada envolta por ar comprimido altera o ângulo de refração da luz e a faz parecer invisível.[lr]::
+11459::$$$message_0113_0053_0003$$$::Ao libertar esse vento, esse é o fenômeno que se produz.[lr]::
+11460::$$$message_0113_0053_0004$$$::O ar liberado busca uma rota de fuga e se dispersa ao redor de forma caótica.::
+11461::$$$message_0113_0054_0000$$$::[line2]Nesse intervalo.[lr]::
+11462::$$$message_0113_0054_0001$$$::O feitiço de contenção lançado sobre sua espada permite que ela manipule livremente o vendaval.[lr]::
+11463::$$$message_0113_0054_0002$$$::Com a quantidade colossal de energia mágica que possui, Saber provavelmente conseguiria manter esse Campo Limitado por alguns minutos.[lr]::
+11464::$$$message_0113_0054_0003$$$::A prova disso é que, mesmo tendo liberado todo esse vento, sua espada continua invisível.::
+11465::$$$message_0113_0055_0000$$$::"...Hmm. Quase um tufão, eu diria, mas[line3]"[lr]::
+11466::$$$message_0113_0055_0001$$$::A força do vendaval não diminui.[lr]::
+11467::$$$message_0113_0055_0002$$$::O vento lançado da espada de Saber agora ergue a cabeça, prestes a engolir Assassin.::
+11468::$$$message_0113_0056_0000$$$::"[line2]Isso não pode ser tudo. Quero ver o que há além disso, Saber...!"[lr]::
+11469::$$$message_0113_0056_0001$$$::Assassin avança contra o vendaval cegante.[lr]::
 11470::$$$message_0113_0056_0002$$$::"[line5]"[lr]::
-11471::$$$message_0113_0056_0003$$$::Os braços da Saber se movem.[lr]::
-11472::$$$message_0113_0056_0004$$$::Para atacar o Assassin que está calmamente avançando neste vento forte que impede aproximação, a espada foleada no vento ruge e[line3]::
+11471::$$$message_0113_0056_0003$$$::Os braços de Saber se movem.[lr]::
+11472::$$$message_0113_0056_0004$$$::Para interceptar Assassin, que segue adiante com calma mesmo dentro do vendaval capaz de barrar qualquer aproximação, a espada envolta em vento ruge e[line3]::
 

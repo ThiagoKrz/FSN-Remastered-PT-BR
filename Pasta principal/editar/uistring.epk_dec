@@ -141,6 +141,9 @@ id=qid::label=str::string=lstr::
 11045::m_cnft_fig_fd::Fade-in do Texto::
 11046::m_cnft_read_fd::Fade-out do Texto::
 11047::m_cnft_tx_wait::Espera (Auto)::
+11048::m_cnft_shdw::Sombra de texto::::
+11049::m_cnft_shdw_t::ON::::
+11050::m_cnft_shdw_f::OFF::::
 12001::m_cnfs_tab::Som::
 12002::m_cnfs_master::Volume Principal::
 12004::m_cnfs_balance::Mixagem de Volume::
@@ -1113,7 +1116,7 @@ id=qid::label=str::string=lstr::
 100439::40_prof_01a_03::187cm::
 100440::40_prof_01a_04::78kg::
 100441::40_skiil_01a::Clarividência: C::
-100442::40_skiil_01b::Magia: C-::
+100442::40_skiil_01b::Feitiçaria: C-::
 100443::40_skiil_01c::Olho da Mente (Ver.): B::
 100444::40_abi_02a::Resistência Mágica: C::
 100445::40_deta_02a::Cú Chulainn::
@@ -1304,7 +1307,7 @@ id=qid::label=str::string=lstr::
 100630::41_atrus_06a_01::Rule Breaker::
 100631::41_atrus_06a_02::Todas as Magias Devem Ser Quebradas::
 100632::41_atrus_06a_03::Rank: C::
-100633::41_atrus_06a_04::Tipo NP: Anti-Magia::
+100633::41_atrus_06a_04::Tipo NP: Anti-Feitiçaria::
 100634::41_atrus_06a_05::Alcance: 1::
 100635::41_atrus_06a_06::Máx. alvos: 1 pessoa::
 100636::41_atrus_07a_01::Breaker Gorgon::

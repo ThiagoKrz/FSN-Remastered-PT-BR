@@ -32,11 +32,11 @@ id=qid::label=str::text=lstr::
 9285::$$$message_0092_0011_0001$$$::"...Por que essa cara de espanto total? Se tem algo a dizer, fale. Eu tento corrigir se for o caso."::
 9286::$$$message_0092_0012_0000$$$::"...Puxa vida. Eu não deveria me importar com o que acontece com você, mas vou te dar um aviso. Estamos cooperando agora, e você é verde demais como mago."::
 9287::$$$message_0092_0012_0001$$$::"Isso de novo? Já ouvi que sou inexperiente umas mil vezes hoje. Eu já sei, não precisa ficar me provocando."::
-9288::$$$message_0092_0013_0000$$$::"Não estou te provocando. Só estou dizendo que você é lerdo porque parece não ter notado o campo de separação ao redor desta escola."::
+9288::$$$message_0092_0013_0000$$$::"Não estou te provocando. Só estou dizendo que você é lerdo porque parece não ter notado o Campo Limitado ao redor desta escola."::
 9289::$$$message_0092_0013_0001$$$::"[line3]?"::
-9290::$$$message_0092_0013_0002$$$::Um campo de separação na escola......?::
-9291::$$$message_0092_0014_0000$$$::"Espera. Um campo de separação aqui... Isso quer dizer que..."::
-9292::$$$message_0092_0014_0001$$$::"É um campo de separação feito por outro Mestre."::
+9290::$$$message_0092_0013_0002$$$::Um Campo Limitado na escola......?::
+9291::$$$message_0092_0014_0000$$$::"Espera. Um Campo Limitado aqui... Isso quer dizer que..."::
+9292::$$$message_0092_0014_0001$$$::"É um Campo Limitado feito por outro Mestre."::
 9293::$$$message_0092_0014_0002$$$::"Está posicionado de forma tão ampla que vai cercar praticamente a escola inteira."::
 9294::$$$message_0092_0015_0000$$$::"Esse tipo de barreira serve para drenar o sangue e a vida dos humanos lá dentro. Ainda está em fase de preparação, mas você não notou que todo mundo anda meio aéreo?"::
 9295::$$$message_0092_0016_0000$$$::"[line5]"::
@@ -84,12 +84,12 @@ id=qid::label=str::text=lstr::
 9337::$$$message_0092_0034_0002$$$::"Outros Mestres devem ter vindo de fora, ou são 'esquisitões' escolhidos por saberem o mínimo de magia."::
 9338::$$$message_0092_0035_0000$$$::Entendo.::
 9339::$$$message_0092_0035_0001$$$::De acordo com ela, eu também sou um desses esquisitões.::
-9340::$$$message_0092_0036_0000$$$::"Entendi. Mas se é um Mestre que mal conhece magia, não seria impossível para ele criar um campo de separação desses?"::
+9340::$$$message_0092_0036_0000$$$::"Entendi. Mas se é um Mestre que mal conhece magia, não seria impossível para ele criar um Campo Limitado desses?"::
 9341::$$$message_0092_0037_0000$$$::"Talvez não tenha sido o Mestre, mas sim o Servo."::
 9342::$$$message_0092_0037_0001$$$::"Servos não escolhem seus Mestres. Se um Servo termina com alguém como você, ele só vai vencer se planejar muito bem sozinho."::
 9343::$$$message_0092_0038_0000$$$::"...É. Por mais irritante que seja, não posso discordar."::
 9344::$$$message_0092_0039_0000$$$::"Que bom que você é honesto."::
-9345::$$$message_0092_0039_0001$$$::"Voltando ao campo de separação... ele é realmente complexo."::
+9345::$$$message_0092_0039_0001$$$::"Voltando ao Campo Limitado... ele é realmente complexo."::
 9346::$$$message_0092_0039_0002$$$::"Está quase no nível de Magia real. Se um mago humano criasse algo assim, seria impossível esconder sua energia mágica. Por isso, acredito ser obra de um Servo."::
 9347::$$$message_0092_0040_0000$$$::"...Ação de um Servo, hein? Então esse Mestre talvez não seja tão perigoso?"::
 9348::$$$message_0092_0041_0000$$$::"Claro que é. Mago ou não, ele não segue as regras. É do tipo que vai tentar matar qualquer Mestre que encontrar logo de cara."::
@@ -106,7 +106,7 @@ id=qid::label=str::text=lstr::
 9359::$$$message_0092_0046_0000$$$::[line3]É isso.::
 9360::$$$message_0092_0046_0001$$$::Mesmo que meu entendimento seja incompleto, imagino a pior possibilidade e gravo essa imagem em mim, aceitando a gravidade da situação.::
 9361::$$$message_0092_0047_0000$$$::"Entendi."::
-9362::$$$message_0092_0047_0001$$$::"[line3]Então, Tohsaka. Você consegue destruir esse campo de separação?"::
+9362::$$$message_0092_0047_0001$$$::"[line3]Então, Tohsaka. Você consegue destruir esse Campo Limitado?"::
 9363::$$$message_0092_0048_0000$$$::"Eu tentei, mas sem sucesso. Descobri todos os pontos de origem, mas não posso destruí-los. Só consigo enfraquecê-los temporariamente para atrasar a ativação."::
 9364::$$$message_0092_0049_0000$$$::"Hm... então ele não vai ativar enquanto você estiver aqui cuidando disso?"::
 9365::$$$message_0092_0050_0000$$$::"...Seria bom, mas é puro otimismo. A estrutura já está pronta e a energia está se acumulando aos poucos. Segundo o Archer, deve ficar pronto em uns oito dias."::
@@ -123,7 +123,7 @@ id=qid::label=str::text=lstr::
 9376::$$$message_0092_0056_0000$$$::"[line5]"::
 9377::$$$message_0092_0056_0001$$$::Não tem como eu me sentir bem com isso.::
 9378::$$$message_0092_0056_0002$$$::Descobrir que essa "guerra" não se restringe aos Mestres acabou com qualquer paz de espírito que eu tinha.::
-9379::$$$message_0092_0057_0000$$$::"Um campo de separação na escola[line3]?"::
+9379::$$$message_0092_0057_0000$$$::"Um Campo Limitado na escola[line3]?"::
 9380::$$$message_0092_0057_0001$$$::Ele planeja sacrificar tantas pessoas inocentes assim?::
 9381::$$$message_0092_0057_0002$$$::Isso não é coisa de Mestre, é coisa de um assassino em massa.::
 9382::$$$message_0092_0057_0003$$$::Eu tenho que encontrá-lo antes que a barreira ative. Encontrá-lo e... derrotá-lo de uma vez por todas.::

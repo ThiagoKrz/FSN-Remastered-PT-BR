@@ -10,22 +10,22 @@ id=qid::label=str::text=lstr::
 55407::$$$message_0491_0001_0003$$$::Quanto tempo já se passou?::
 55408::$$$message_0491_0002_0000$$$::"A operação foi concluída. Não há mais nada que eu possa fazer."[lr]::
 55409::$$$message_0491_0002_0001$$$::Quebrando o silêncio profundo, Kotomine Kirei aparece.::
-55410::$$$message_0491_0003_0000$$$::"Eh[w l=4][line4]ei, Kirei. O que houve com o seu Encravamento Mágico?"[lr]::
+55410::$$$message_0491_0003_0000$$$::"Eh[w l=4][line4]ei, Kirei. O que houve com o seu Brasão Mágico?"[lr]::
 55411::$$$message_0491_0003_0001$$$::"Hm, você percebeu? Como pode ver, eu usei tudo no tratamento da Matou Sakura."[lr]::
 55412::$$$message_0491_0003_0002$$$::"[w l=3][line3]V-Você usou tudo?"[lr]::
 55413::$$$message_0491_0003_0003$$$::A Tohsaka está surpresa.::
 55414::$$$message_0491_0004_0000$$$::"......?"[lr]::
 55415::$$$message_0491_0004_0001$$$::Eu não entendi.[lr]::
-55416::$$$message_0491_0004_0002$$$::Tudo que eu sei é que alguma coisa aconteceu com o Encravamento Mágico do Kotomine, e a Tohsaka está surpresa por causa disso.::
-55417::$$$message_0491_0005_0000$$$::"V-Você entende o que isso significa? Estamos falando de um Encravamento Mágico![lr]::
+55416::$$$message_0491_0004_0002$$$::Tudo que eu sei é que alguma coisa aconteceu com o Brasão Mágico do Kotomine, e a Tohsaka está surpresa por causa disso.::
+55417::$$$message_0491_0005_0000$$$::"V-Você entende o que isso significa? Estamos falando de um Brasão Mágico![lr]::
 55418::$$$message_0491_0005_0001$$$::Por que algo que levou gerações para ser feito simplesmente desapareceu em algumas horas...!?"::
-55419::$$$message_0491_0006_0000$$$::"Não havia o que fazer. O Encravamento Mágico que eu recebi do meu pai não é permanente igual ao que você tem. É do tipo consumível, que vai acabando quanto mais eu uso. Nós nunca fomos uma família de magos para início de conversa.[lr]::
+55419::$$$message_0491_0006_0000$$$::"Não havia o que fazer. O Brasão Mágico que eu recebi do meu pai não é permanente igual ao que você tem. É do tipo consumível, que vai acabando quanto mais eu uso. Nós nunca fomos uma família de magos para início de conversa.[lr]::
 55420::$$$message_0491_0006_0001$$$::Imagine como se fosse um Selo de Comando de qualidade inferior."::
 55421::$$$message_0491_0007_0000$$$::"[w l=4][line4]Então você realmente..."[lr]::
-55422::$$$message_0491_0007_0001$$$::"Sim. Eu usei tudo para o tratamento. Era a extração de uma infecção de onze anos. Não deveria ser surpresa nenhuma eu precisar gastar todo o meu Encravamento Mágico."::
+55422::$$$message_0491_0007_0001$$$::"Sim. Eu usei tudo para o tratamento. Era a extração de uma infecção de onze anos. Não deveria ser surpresa nenhuma eu precisar gastar todo o meu Brasão Mágico."::
 55423::$$$message_0491_0008_0000$$$::"[w l=8][line8]"[lr]::
 55424::$$$message_0491_0008_0001$$$::...Nós ficamos de boca aberta.[lr]::
-55425::$$$message_0491_0008_0002$$$::O padre está dizendo que usou todo o seu Encravamento Mágico para tratar a Sakura.[lr]::
+55425::$$$message_0491_0008_0002$$$::O padre está dizendo que usou todo o seu Brasão Mágico para tratar a Sakura.[lr]::
 55426::$$$message_0491_0008_0003$$$::A expressão da Tohsaka me diz o quão valioso isso era.[lr]::
 55427::$$$message_0491_0008_0004$$$::O Kotomine sacrificou toda a sua fortuna pela Sakura.::
 55428::$$$message_0491_0009_0000$$$::"...Kotomine."[lr]::
@@ -47,7 +47,7 @@ id=qid::label=str::text=lstr::
 55444::$$$message_0491_0015_0002$$$::Mas não estou surpreso ou confuso.[lr]::
 55445::$$$message_0491_0015_0003$$$::Eu já tomei a minha decisão.[lr]::
 55446::$$$message_0491_0015_0004$$$::Eu escolhi continuar ao lado da Sakura, não importa o que aconteça, não importa em que estado ela esteja.::
-55447::$$$message_0491_0016_0000$$$::"Entendo. Então só resta uma coisa a se fazer. Sinto muito por você ter usado o seu Encravamento Mágico."::
+55447::$$$message_0491_0016_0000$$$::"Entendo. Então só resta uma coisa a se fazer. Sinto muito por você ter usado o seu Brasão Mágico."::
 55448::$$$message_0491_0017_0000$$$::A Tohsaka começa a andar.[lr]::
 55449::$$$message_0491_0017_0001$$$::Eu entendo na hora o que ela pretende fazer.[lr]::
 55450::$$$message_0491_0017_0002$$$::"Ei, pare, Tohsaka...!"[lr]::

@@ -1,114 +1,114 @@
 DAT
 id=qid::label=str::text=lstr::
 21162::$$$message_0190_0000_0000$$$::"[line2]Ugh."[lr]::
-21163::$$$message_0190_0000_0001$$$::Eu paro de andar.[lr]::
-21164::$$$message_0190_0000_0002$$$::Eu sinto que o meu corpo já está no limite.::
-21165::$$$message_0190_0001_0000$$$::"Shirou, vamos descansar aqui mesmo. Você não pode continuar andando nesse estado."[lr]::
-21166::$$$message_0190_0001_0001$$$::"[line2]É... mesmo. Desse jeito... eu só estou... te dando mais trabalho..."[lr]::
-21167::$$$message_0190_0001_0002$$$::Eu me afasto da Saber e me sento na grama.::
+21163::$$$message_0190_0000_0001$$$::As minhas pernas param.[lr]::
+21164::$$$message_0190_0000_0002$$$::Desde que saímos da igreja, meu corpo vinha aguentando como podia, mas agora está gritando que chegou ao limite.::
+21165::$$$message_0190_0001_0000$$$::"Shirou, vamos descansar aqui. Seu corpo não vai aguentar mais do que isso."[lr]::
+21166::$$$message_0190_0001_0001$$$::"[line2]É... mesmo. Desse jeito... eu só vou continuar... te dando trabalho..."[lr]::
+21167::$$$message_0190_0001_0002$$$::Afasto-me do ombro de Saber e me sento na grama.::
 21168::$$$message_0190_0002_0000$$$::"[line2]!"[lr]::
-21169::$$$message_0190_0002_0001$$$::Eu ainda estou com aquele ferimento no meu peito.[lr]::
-21170::$$$message_0190_0002_0002$$$::Ele já parou de sangrar, mas o buraco ainda está aqui.::
-21171::$$$message_0190_0003_0000$$$::"...Que coisa nojenta..."[lr]::
+21169::$$$message_0190_0002_0001$$$::O ferimento no meu peito ainda está lá.[lr]::
+21170::$$$message_0190_0002_0002$$$::O sangramento parou, mas o buraco no meu peito continua aberto.::
+21171::$$$message_0190_0003_0000$$$::"...Que sensação horrível..."[lr]::
 21172::$$$message_0190_0003_0001$$$::Por mais que não esteja mais sentido dor, eu tenho um buraco no meu corpo.[lr]::
 21173::$$$message_0190_0003_0002$$$::Só de olhar para ele já me faz passar mal e pensar como eu ainda estou vivo.::
-21174::$$$message_0190_0004_0000$$$::"Shirou, me deixe ver o seu ferimento."[lr]::
+21174::$$$message_0190_0004_0000$$$::"Shirou, me deixe ver o seu ferimento."::
 21175::$$$message_0190_0005_0000$$$::"Ah[line2]não, está tudo bem..."[lr]::
-21176::$$$message_0190_0005_0001$$$::"Com licença[line2]isso vai doer um pouco, mas por favor aguente firme."[lr]::
-21177::$$$message_0190_0005_0002$$$::O dedo da Saber desliza sobre o meu peito.[lr]::
+21176::$$$message_0190_0005_0001$$$::"Com licença[line2]vai doer um pouco, mas por favor aguente firme."[lr]::
+21177::$$$message_0190_0005_0002$$$::Os dedos de Saber deslizam sobre o meu peito.[lr]::
 21178::$$$message_0190_0005_0003$$$::[line2]E então.[lr]::
-21179::$$$message_0190_0005_0004$$$::Eu não sei por que ela está fazendo isso, mas a Saber enfia a mão dela na minha ferida[line2]::
+21179::$$$message_0190_0005_0004$$$::Sem que eu entenda o que pretende fazer, Saber põe a mão sobre o ferimento no meu peito e a afunda dentro do meu corpo[line2]::
 21180::$$$message_0190_0006_0000$$$::"Agh[line2]!! [line2]!!"[lr]::
 21181::$$$message_0190_0006_0001$$$::O meu corpo pula para trás.[lr]::
 21182::$$$message_0190_0006_0002$$$::A mão da Saber invade o meu corpo sem piedade, e então[line2][lr]::
 21183::$$$message_0190_0006_0003$$$::"O que você[line2]!?"[lr]::
-21184::$$$message_0190_0006_0004$$$::Ela está enfiando as suas mãos dentro do meu corpo.[lr]::
-21185::$$$message_0190_0006_0005$$$::Isso deveria doer.[sestop time=3000 nowait=1 storage=se029.wav][seloop storage=se069.wav volume=70][lr]::
-21186::$$$message_0190_0006_0006$$$::Deveria doer, mas[line2]::
+21184::$$$message_0190_0006_0004$$$::Ela está tocando meus órgãos com as próprias mãos.[lr]::
+21185::$$$message_0190_0006_0005$$$::Não tem como isso não doer.[sestop time=3000 nowait=1 storage=se029][seloop storage=se069 volume=70][lr]::
+21186::$$$message_0190_0006_0006$$$::Não tem como não doer, mas[line2]::
 21187::$$$message_0190_0007_0000$$$::"Hã[line2]?"[lr]::
-21188::$$$message_0190_0007_0001$$$::Não está doendo.[lr]::
+21188::$$$message_0190_0007_0001$$$::Não dói nada.[lr]::
 21189::$$$message_0190_0007_0002$$$::Na verdade, parece que a dor está sumindo de todos os lugares que a Saber toca.::
-21190::$$$message_0190_0008_0000$$$::"Terminei, Shirou. Eu reabasteci a energia mágica da bainha, então o seu ferimento deve ficar curado em menos de um dia."[lr]::
-21191::$$$message_0190_0008_0001$$$::Depois de tirar as mãos do meu peito, a Saber fica aliviada.::
+21190::$$$message_0190_0008_0000$$$::"Terminei, Shirou. Reabasteci a magia da bainha, então em meio dia seu ferimento já deverá estar curado."[lr]::
+21191::$$$message_0190_0008_0001$$$::Ela tira a mão do meu peito e suspira, aliviada.::
 21192::$$$message_0190_0009_0000$$$::"Bainha[line2]?"[lr]::
 21193::$$$message_0190_0009_0001$$$::Eu não entendi nada.::
-21194::$$$message_0190_0010_0000$$$::"Saber. O que você quer dizer com 'bainha'? Não sei se você já mencionou isso antes, mas por acaso você está falando da sua própria bainha?"::
+21194::$$$message_0190_0010_0000$$$::"Saber. O que você quer dizer com 'bainha'? Acho que você mencionou isso antes também... mas, por acaso, está falando da sua bainha?"::
 21195::$$$message_0190_0011_0000$$$::A bainha da Saber.[lr]::
 21196::$$$message_0190_0011_0001$$$::A bainha da espada Excalibur.[lr]::
 21197::$$$message_0190_0011_0002$$$::A bainha da espada dela não é o Ar Invisível.[lr]::
-21198::$$$message_0190_0011_0003$$$::De acordo com a lenda, a bainha da Excalibur era um Fantasma Nobre que deixava o seu dono imortal.::
-21199::$$$message_0190_0012_0000$$$::Mas a Saber não deveria estar com essa bainha.[lr]::
+21198::$$$message_0190_0011_0003$$$::A lendária bainha da Excalibur é um Fantasma Nobre defensivo que torna seu portador imortal.::
+21199::$$$message_0190_0012_0000$$$::Mas ela não deveria tê-la consigo.[lr]::
 21200::$$$message_0190_0012_0001$$$::O Rei Arthur morreu na Batalha de Camlann justamente porque a sua bainha foi perdida para sempre.[lr]::
-21201::$$$message_0190_0012_0002$$$::Ela não deveria ter mais a sua bainha[line2]::
-21202::$$$message_0190_0013_0000$$$::"Sim. A minha bainha está dentro do seu corpo. Foi culpa minha só ter percebido isso ontem à noite."[lr]::
+21201::$$$message_0190_0012_0002$$$::Então não faz sentido que Saber esteja com a bainha da Excalibur agora[line2]::
+21202::$$$message_0190_0013_0000$$$::"Sim. A minha bainha está dentro do seu corpo. Só ter percebido isso na noite passada foi uma falha minha."[lr]::
 21203::$$$message_0190_0013_0001$$$::"Dentro do meu corpo...? Impossível. Isso não faz o menor sentido."::
 21204::$$$message_0190_0014_0000$$$::"Será mesmo? É mais simples do que parece. Shirou, você me invocou. Eu fui ingênua em acreditar que você tinha me invocado só por coincidência."::
-21205::$$$message_0190_0015_0000$$$::"Para invocar um espírito heroico, o mago precisa ter um símbolo que possua alguma relação com esse espírito. Já que você não é um mago experiente e nem sabia sobre o que eram os Mestres, você precisava ter uma ligação forte comigo para compensar essas desvantagens.[lr]::
-21206::$$$message_0190_0015_0001$$$::E essa ligação comigo é a minha bainha[line2]a bainha perdida da Excalibur."::
-21207::$$$message_0190_0016_0000$$$::"Ah[line2]bem, isso até pode ser verdade...[lr]::
+21205::$$$message_0190_0015_0000$$$::"Para invocar um Espírito Heroico, é preciso possuir algum símbolo ligado a esse Espírito Heroico. Como você não tinha nem conhecimento de que era um Mestre, nem experiência como mago, precisava ter alguma conexão extraordinária comigo.[lr]::
+21206::$$$message_0190_0015_0001$$$::E essa conexão era a minha bainha[line2]a bainha perdida da Excalibur."::
+21207::$$$message_0190_0016_0000$$$::"Ah[line2]bem, isso até pode fazer sentido...[lr]::
 21208::$$$message_0190_0016_0001$$$::Mas por que ela estaria dentro do meu corpo?"::
-21209::$$$message_0190_0017_0000$$$::"...Provavelmente o Kiritsugu a colocou dentro de você.[lr]::
-21210::$$$message_0190_0017_0001$$$::O Emiya Kiritsugu usou a bainha da Excalibur como catalisador para me invocar na guerra passada. Essa bainha é um Fantasma Nobre que cura os ferimentos do seu dono. Ele deve ter pensado que ficar com ela seria mais útil do que me devolvê-la."::
-21211::$$$message_0190_0018_0000$$$::"Eu já tenho poderes de cura e não morro tão fácil assim.[lr]::
-21212::$$$message_0190_0018_0001$$$::Mas se o Mestre, que pode morrer facilmente, tiver essa bainha, ele terá mais chances de sobreviver à Guerra do Santo Graal."[lr]::
+21209::$$$message_0190_0017_0000$$$::"...Acredito que isso foi obra do Kiritsugu.[lr]::
+21210::$$$message_0190_0017_0001$$$::Na guerra anterior, Emiya Kiritsugu me invocou usando a bainha da Excalibur como catalisador. Como essa bainha é um Fantasma Nobre que cura os ferimentos do seu portador, Kiritsugu deve ter julgado que seria mais vantajoso mantê-la consigo do que devolvê-la a mim."::
+21211::$$$message_0190_0018_0000$$$::"Eu já sou capaz de me curar sozinha, o que torna difícil me matar.[lr]::
+21212::$$$message_0190_0018_0001$$$::Se o Mestre, que é mais vulnerável, carregasse a bainha, suas chances de vencer a guerra aumentariam."[lr]::
 21213::$$$message_0190_0018_0002$$$::"...Então, o meu pai sobreviveu à guerra passada porque ele podia se curar igual a mim...?"::
-21214::$$$message_0190_0019_0000$$$::"Provavelmente sim. E depois da batalha, depois que eu desapareci.[lr]::
-21215::$$$message_0190_0019_0001$$$::O Kiritsugu caminhou pelos campos queimados até encontrar uma criança que estava à beira da morte. Ele não tinha nenhum poder de cura próprio, e mesmo se tivesse, eu acho que seria tarde demais para usá-lo.[lr]::
-21216::$$$message_0190_0019_0002$$$::...Por isso, esse deve ter sido o único jeito de salvar aquela criança."::
+21214::$$$message_0190_0019_0000$$$::"Muito provavelmente. E, quando a guerra terminou e eu desapareci...[lr]::
+21215::$$$message_0190_0019_0001$$$::Kiritsugu vagou pelos escombros em chamas e encontrou uma criança à beira da morte. Kiritsugu não tinha poderes de cura, e provavelmente, mesmo que tivesse, já era tarde demais.[lr]::
+21216::$$$message_0190_0019_0002$$$::...Por isso, só havia um único meio de salvar aquela criança."::
 21217::$$$message_0190_0020_0000$$$::"[line4]"[lr]::
 21218::$$$message_0190_0020_0001$$$::Sem perceber, eu acabo encostando a mão em meu peito.[lr]::
 21219::$$$message_0190_0020_0002$$$::...Naquele dia, dez anos atrás...[lr]::
 21220::$$$message_0190_0020_0003$$$::Eu aceitei a minha morte enquanto olhava para os céus.[lr]::
 21221::$$$message_0190_0020_0004$$$::O meu corpo inteiro estava queimado. Talvez a minha pele já tinha até virado cinzas.::
-21222::$$$message_0190_0021_0000$$$::Quando o Kiritsugu encontrou uma criança à beira da morte, ele precisou usar tudo o que tinha em mãos para salvá-la.[lr]::
-21223::$$$message_0190_0021_0001$$$::A bainha da espada sagrada que protege a vida do seu dono.[lr]::
-21224::$$$message_0190_0021_0002$$$::Ele deve ter implantado a bainha dentro do corpo dessa criança para conseguir salvar a vida dela.::
+21222::$$$message_0190_0021_0000$$$::Quando Kiritsugu encontrou uma criança que mal ainda respirava, ele só podia recorrer à única coisa que tinha consigo.[lr]::
+21223::$$$message_0190_0021_0001$$$::A bainha da espada sagrada, que protege a vida de seu portador.[lr]::
+21224::$$$message_0190_0021_0002$$$::Ao implantar a bainha em mim, ele salvou a criança que estava à beira da morte.::
 21225::$$$message_0190_0022_0000$$$::"...Então, é verdade...?"[lr]::
-21226::$$$message_0190_0022_0001$$$::"Sim. Ela foi quebrada em pedaços e não tem mais o seu formato original, mas com certeza a minha bainha está dentro do seu corpo. Você esteve se curando esse tempo todo graças a ela."::
-21227::$$$message_0190_0023_0000$$$::"[line2]M-Mas teve uma vez em que eu quase morri. Uma lança perfurou o meu corpo na escola e[line2]"[lr]::
+21226::$$$message_0190_0022_0001$$$::"Sim. Ela foi desmontada e já não preserva a forma original, mas, sem dúvida, a minha bainha está dentro do seu corpo. Essa é a fonte da sua capacidade de cura."::
+21227::$$$message_0190_0023_0000$$$::"[line2]M-Mas... eu quase morri uma vez. Quando Lancer me perfurou na escola, e[line2]"[lr]::
 21228::$$$message_0190_0023_0001$$$::...Ah, é mesmo.[lr]::
-21229::$$$message_0190_0023_0002$$$::Alguém tinha me salvado naquela hora.[lr]::
-21230::$$$message_0190_0023_0003$$$::Quando eu recuperei a consciência, ninguém estava mais lá, e só o que eu encontrei por perto foi uma joia.[lr]::
-21231::$$$message_0190_0023_0004$$$::Eu levei essa joia para casa porque achava que era uma coisa importante, mas... será que ela está guardada lá até agora...?::
-21232::$$$message_0190_0024_0000$$$::"Isso foi antes que nós fizemos o contrato, não é mesmo?[lr]::
+21229::$$$message_0190_0023_0002$$$::Naquela hora, alguém me salvou.[lr]::
+21230::$$$message_0190_0023_0003$$$::Quando recobrei a consciência, já não havia ninguém ali... só uma pedra caída ao meu lado.[lr]::
+21231::$$$message_0190_0023_0004$$$::Achei que aquilo devia ser importante e a trouxe para casa. Será que ela ainda está lá?::
+21232::$$$message_0190_0024_0000$$$::"Isso foi antes de você e eu formarmos um contrato, não foi?[lr]::
 21233::$$$message_0190_0024_0001$$$::A bainha é o meu Fantasma Nobre. Ela só vai ativar seu poder de Fantasma Nobre se tiver energia mágica direcionada para ela. Você só consegue a imortalidade se fizer um contrato comigo."::
-21234::$$$message_0190_0025_0000$$$::"...Bem, a bainha ainda deve proteger a vida do seu dono se tiver alguma energia mágica dentro dela, mas o seu poder de cura será fraco. Com certeza implantar a bainha em uma pessoa que está morrendo é o único jeito de salvar a vida dela."::
-21235::$$$message_0190_0026_0000$$$::"...Entendi. Bem... Me desculpa, Saber. Pela sua bainha ter sido usada para uma coisa dessas..."::
-21236::$$$message_0190_0027_0000$$$::"Por favor, não diga uma coisa dessas. Você é o meu Mestre, então não tem problema em usar uma coisa que é minha.[lr]::
-21237::$$$message_0190_0027_0001$$$::Além do mais[line2]Eu fiquei feliz em descobrir sobre isso. Eu não pude salvar ninguém daquela tragédia, mas salvei a sua vida."::
+21234::$$$message_0190_0025_0000$$$::"...Ainda assim, enquanto houver ao menos um pouco de magia nela, a bainha pode ser capaz de proteger a vida do portador. Mas isso seria fraco. Para salvar um ser humano à beira da morte, deve ter sido necessário fundir a bainha ao seu corpo."::
+21235::$$$message_0190_0026_0000$$$::"...Entendi. Bem... desculpa, Saber. Eu me sinto mal por estar usando a sua bainha para uma coisa dessas."::
+21236::$$$message_0190_0027_0000$$$::"O que está dizendo? Você é o meu Mestre. É perfeitamente natural que use o que é meu.[lr]::
+21237::$$$message_0190_0027_0001$$$::Além disso[line2]eu fiquei feliz quando descobri a verdade. Mesmo não tendo conseguido salvar ninguém naquele desastre, a minha bainha ao menos salvou a sua vida."::
 21238::$$$message_0190_0028_0000$$$::"[line5]!"[lr]::
 21239::$$$message_0190_0028_0001$$$::O sorriso dela é tão alegre que eu tive que olhar para outra direção.::
 21240::$$$message_0190_0029_0000$$$::"[line2]Shirou? O seu ferimento ainda está doendo?"[lr]::
 21241::$$$message_0190_0029_0001$$$::"Não, não é nada disso! Não se preocupe. Não tem nada de errado com você!"[lr]::
-21242::$$$message_0190_0029_0002$$$::Eu escondo o meu rosto envergonhado e fecho a boca.[lr]::
-21243::$$$message_0190_0029_0003$$$::Eu não vou me machucar se ficar calado, mas essa situação é bem constrangedora.::
+21242::$$$message_0190_0029_0002$$$::Escondo o rosto corado com a mão e fico em silêncio.[lr]::
+21243::$$$message_0190_0029_0003$$$::...Que situação constrangedora.[lr]::
 21244::$$$message_0190_0029_0004$$$::Não falar não significa dor, mas isso é realmente estranho.::
 21245::$$$message_0190_0030_0000$$$::...Por quanto tempo nós dois ficamos assim?[lr]::
 21246::$$$message_0190_0030_0001$$$::Quando eu estava começando a me acalmar.[lr]::
 21247::$$$message_0190_0030_0002$$$::A Saber diz em voz baixa,[lr]::
-21248::$$$message_0190_0030_0003$$$::"O Kiritsugu tinha razão. Ele nunca me traiu."[lr]::
-21249::$$$message_0190_0030_0004$$$::Ela diz isso como se estivesse arrependida do seu passado.::
+21248::$$$message_0190_0030_0003$$$::"Kiritsugu estava certo. Então... ele não me traiu."[lr]::
+21249::$$$message_0190_0030_0004$$$::A voz dela pesa de arrependimento.::
 21250::$$$message_0190_0031_0000$$$::"...Saber?"[lr]::
-21251::$$$message_0190_0031_0001$$$::"Aquele Santo Graal não era o que eu imaginava. ...Aliás, eu nunca precisei do Santo Graal para início de conversa. O Kiritsugu deve ter percebido isso."::
+21251::$$$message_0190_0031_0001$$$::"Eu nunca deveria ter buscado aquele Santo Graal. Não... desde o princípio, eu nunca precisei do Santo Graal. Kiritsugu deve ter percebido isso."::
 21252::$$$message_0190_0032_0000$$$::...O sussurro dela se parece mais com uma confissão.[lr]::
 21253::$$$message_0190_0032_0001$$$::A Saber pede desculpas para uma pessoa com quem não pode mais se desculpar.[lr]::
 21254::$$$message_0190_0032_0002$$$::E ela olha para mim para se desfazer do desejo que ela manteve guardado durante tanto tempo.[lr]::
 21255::$$$message_0190_0032_0003$$$::A Saber não diz nada.[lr]::
 21256::$$$message_0190_0032_0004$$$::Mas o meu coração entende o que ela está sentindo só de ficar do seu lado.::
-21257::$$$message_0190_0033_0000$$$::...A Arturia queria o Santo Graal.[lr]::
-21258::$$$message_0190_0033_0001$$$::Um rei solitário precisava acreditar que poderia evitar a ruína do seu reino se tivesse o Santo Graal.[lr]::
+21257::$$$message_0190_0033_0000$$$::...Artoria buscou o Santo Graal.[lr]::
+21258::$$$message_0190_0033_0001$$$::Um rei solitário que não teve escolha senão acreditar que, sem o Santo Graal, não poderia evitar a ruína.[lr]::
 21259::$$$message_0190_0033_0002$$$::[line2]E se.[lr]::
-21260::$$$message_0190_0033_0003$$$::Uma menina com esse desejo tivesse a chance de refazer a seleção do rei?::
+21260::$$$message_0190_0033_0003$$$::Ela desejou refazer tudo desde o momento em que arrancou a espada da pedra...::
 21261::$$$message_0190_0034_0000$$$::"Saber, sobre isso..."[lr]::
-21262::$$$message_0190_0034_0001$$$::"...Eu já sabia. Eu sabia que não podia refazer as coisas.[lr]::
+21262::$$$message_0190_0034_0001$$$::"...Eu sabia desde o começo. Sabia que não podia simplesmente refazer tudo.[lr]::
 21263::$$$message_0190_0034_0002$$$::Eu sabia disso, mas mesmo assim continuei tentando me enganar."::
-21264::$$$message_0190_0035_0000$$$::...Mas tudo isso vai acabar.[lr]::
-21265::$$$message_0190_0035_0001$$$::A sua longa batalha vai finalmente chegar ao final[line2]::
-21266::$$$message_0190_0036_0000$$$::"Obrigada, Shirou. Eu finalmente entendi qual é o caminho que devo seguir.[lr]::
-21267::$$$message_0190_0036_0001$$$::...Sim. Eu e o Santo Graal somos só sonhos que não devem existir."::
-21268::$$$message_0190_0037_0000$$$::Ela sussurra que ainda gostaria de ser perdoada.[lr]::
-21269::$$$message_0190_0037_0001$$$::O seu desejo foi um erro. Ela ficou ansiosa para que chegasse um dia que nunca deveria ser desejado, mas...[lr]::
-21270::$$$message_0190_0037_0002$$$::Essa fraqueza foi só um sonho passageiro que uma menina teve.::
+21264::$$$message_0190_0035_0000$$$::Mas isso termina aqui.[lr]::
+21265::$$$message_0190_0035_0001$$$::A longa batalha dela agora pode, enfim[line2]::
+21266::$$$message_0190_0036_0000$$$::"Obrigada, Shirou. Graças a você, finalmente entendi qual caminho devo seguir.[lr]::
+21267::$$$message_0190_0036_0001$$$::...Sim. Tanto o Santo Graal quanto eu somos apenas sonhos que não deveriam existir."::
+21268::$$$message_0190_0037_0000$$$::Ainda assim, ela murmura que gostaria de ser perdoada.[lr]::
+21269::$$$message_0190_0037_0001$$$::Ela jamais deveria ter desejado aquilo... e, durante todo esse tempo, nunca foi capaz de alcançá-lo...[lr]::
+21270::$$$message_0190_0037_0002$$$::Essa fraqueza não passou de um sonho passageiro de uma garota.::
 21271::$$$message_0190_0038_0000$$$::"[line4]"[lr]::
 21272::$$$message_0190_0038_0001$$$::O que eu deveria sentir depois de ouvir o que ela acabou de dizer?[lr]::
 21273::$$$message_0190_0038_0002$$$::A resposta da Saber é maravilhosa.[lr]::
@@ -117,14 +117,14 @@ id=qid::label=str::text=lstr::
 21276::$$$message_0190_0038_0005$$$::[line2]E agora.[lr]::
 21277::$$$message_0190_0038_0006$$$::A Saber escolheu seguir o seu juramento até o final.::
 21278::$$$message_0190_0039_0000$$$::"[line5]"[lr]::
-21279::$$$message_0190_0039_0001$$$::Ela nem precisa me explicar o que isso quer dizer.[lr]::
-21280::$$$message_0190_0039_0002$$$::Ela não vai mais ficar indecisa.[lr]::
-21281::$$$message_0190_0039_0003$$$::E eu acho isso perfeito.[lr]::
-21282::$$$message_0190_0039_0004$$$::Uma noite escura. No momento em que vi a imagem da Saber sendo refletida pela luz da Lua[line2]eu já me apaixonei por ela.::
+21279::$$$message_0190_0039_0001$$$::Nem é preciso que ela me diga o que isso significa.[lr]::
+21280::$$$message_0190_0039_0002$$$::Ela nunca mais vacilará.[lr]::
+21281::$$$message_0190_0039_0003$$$::E eu sinto que sua figura jamais foi tão bela.[lr]::
+21282::$$$message_0190_0039_0004$$$::Naquela noite escura... no instante em que a vi sob a luz da lua e fiquei cativado por sua aparência...[line2]eu a amei desde o começo.::
 21283::$$$message_0190_0040_0000$$$::Por isso.[lr]::
-21284::$$$message_0190_0040_0001$$$::Não importa o que aconteça, só nos resta uma coisa a fazer.::
+21284::$$$message_0190_0040_0001$$$::Não importa o que exista daqui para frente, só há uma coisa a fazer.::
 21285::$$$message_0190_0041_0000$$$::"[line2]Saber. Vamos destruir o Santo Graal."[lr]::
-21286::$$$message_0190_0041_0001$$$::Eu digo isso, ignorando o meu egoísmo e o meu apego por ela.::
+21286::$$$message_0190_0041_0001$$$::Corto qualquer apego restante, afasto meu egoísmo e digo o que precisava ser dito.::
 21287::$$$message_0190_0042_0000$$$::"[line2]Sim. Eu imaginei que você fosse chegar nessa conclusão, Mestre."::
 21288::$$$message_0190_0043_0000$$$::A Saber concorda comigo.[lr]::
 21289::$$$message_0190_0043_0001$$$::...Eu não consigo sorrir para ela.[lr]::
@@ -134,6 +134,6 @@ id=qid::label=str::text=lstr::
 21293::$$$message_0190_0044_0001$$$::Eu fico de pé.[lr]::
 21294::$$$message_0190_0044_0002$$$::Agora que está decidido, nós não temos tempo para descansar.[lr]::
 21295::$$$message_0190_0044_0003$$$::Já sabemos quem são os nossos inimigos e o que nós devemos fazer.::
-21296::$$$message_0190_0045_0000$$$::Não temos tempo a perder.[lr]::
-21297::$$$message_0190_0045_0001$$$::Hoje, nós vamos colocar um fim nessa longa batalha antes do nascer do Sol[line2]::
-�
+21296::$$$message_0190_0045_0000$$$::Sem mais desvios.[lr]::
+21297::$$$message_0190_0045_0001$$$::Hoje... vamos pôr fim a essa longa batalha antes que o amanhã chegue[line2]::
+

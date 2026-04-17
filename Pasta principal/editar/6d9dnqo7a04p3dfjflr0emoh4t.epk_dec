@@ -9,11 +9,11 @@ id=qid::label=str::text=lstr::
 18758::$$$message_0178_0002_0000$$$::"...É verdade que a minha energia mágica vai aumentar se eu tiver a minha bainha de volta.[lr]::
 18759::$$$message_0178_0002_0001$$$::Mas mesmo assim, eu não posso garantir que vou conseguir derrotar o Gilgamesh. Além disso[line2]o que você vai fazer sem a bainha?[lr]::
 18760::$$$message_0178_0002_0002$$$::Se ela for tirada do seu corpo, você vai[line2]"::
-18761::$$$message_0178_0003_0000$$$::Eu não vou mais conseguir me curar na próxima vez em que ficar ferido.[lr]::
+18761::$$$message_0178_0003_0000$$$::Mesmo que eu me fira, não vou mais me recuperar.[lr]::
 18762::$$$message_0178_0003_0001$$$::Mas isso não tem problema.[lr]::
 18763::$$$message_0178_0003_0002$$$::Eu estive dependendo demais desse meu corpo sem perceber.[lr]::
 18764::$$$message_0178_0003_0003$$$::As pessoas morrem quando elas são mortas.[lr]::
-18765::$$$message_0178_0003_0004$$$::Eu não posso deixar que uma coisa dessas fique me protegendo para sempre.::
+18765::$$$message_0178_0003_0004$$$::Não posso chegar até aqui e continuar sendo poupado de uma coisa tão óbvia.::
 18766::$$$message_0178_0004_0000$$$::"Fique com a bainha, Saber. Nós precisamos dela para vencer."[lr]::
 18767::$$$message_0178_0004_0001$$$::"[line5]"::
 18768::$$$message_0178_0005_0000$$$::A Saber morde o lábio com força, sem dizer nada.[lr]::
@@ -30,18 +30,18 @@ id=qid::label=str::text=lstr::
 18779::$$$message_0178_0007_0000$$$::...O meu trabalho é fácil.[lr]::
 18780::$$$message_0178_0007_0001$$$::Remover a bainha é parecido com os passos da magia de 'projeção'.[lr]::
 18781::$$$message_0178_0007_0002$$$::A bainha da espada sagrada está misturada com o meu corpo.[lr]::
-18782::$$$message_0178_0007_0003$$$::Eu só tenho que juntar todos os pedaços e deixá-la na sua forma original de volta.::
+18782::$$$message_0178_0007_0003$$$::Só tenho que juntar todos os pedaços e deixá-la na sua forma original de volta.::
 18783::$$$message_0178_0008_0000$$$::Claro, essa é apenas a ideia.[lr]::
 18784::$$$message_0178_0008_0001$$$::Com deixá-la na sua forma original, quero dizer que a energia mágica vai assumir o formato da bainha.::
 18785::$$$message_0178_0009_0000$$$::Mas quem vai removê-la mesmo é a Saber.[lr]::
 18786::$$$message_0178_0009_0001$$$::O acúmulo de energia mágica vai ganhar forma nas mãos dela.[lr]::
-18787::$$$message_0178_0009_0002$$$::Eu só estou dando uma ajuda.[lr]::
-18788::$$$message_0178_0009_0003$$$::Como se estivesse criando do zero...[lr]::
-18789::$$$message_0178_0009_0004$$$::Eu coleto os pedaços da bainha que estão espalhados pelo meu corpo e a reproduzo com cuidado para que fique perfeita[line2]::
-18790::$$$message_0178_0010_0000$$$::"[line5]!"[lr]::
-18791::$$$message_0178_0010_0001$$$::...O meu corpo está em chamas.[lr]::
-18792::$$$message_0178_0010_0002$$$::A projeção está muito acima do meu nível.[lr]::
-18793::$$$message_0178_0010_0003$$$::Eu consigo sentir que essa magia destrói o meu corpo a cada vez que eu a uso.[lr]::
+18787::$$$message_0178_0009_0002$$$::O que eu devo fazer é só ajudá-la nisso.[lr]::
+18788::$$$message_0178_0009_0003$$$::Como se estivesse criando algo a partir do nada.[lr]::
+18789::$$$message_0178_0009_0004$$$::Reproduzir a bainha da espada sagrada, espalhada em pedaços, com precisão e cuidado absolutos, sem um único erro[line4]::
+18790::$$$message_0178_0010_0000$$$::"[line8]!"[lr]::
+18791::$$$message_0178_0010_0001$$$::...Meu corpo está em chamas.[lr]::
+18792::$$$message_0178_0010_0002$$$::A projeção, por si só, já está além do que eu consigo suportar.[lr]::
+18793::$$$message_0178_0010_0003$$$::É uma magia que, toda vez que usada, corrói meu corpo com certeza.[lr]::
 18794::$$$message_0178_0010_0004$$$::Ela acaba com os meus nervos, queima a minha pele, esmaga o meu cérebro, e me transforma em um vegetal...[lr]::
 18795::$$$message_0178_0010_0005$$$::Mas esse é a única carta que eu tenho na manga, e também é o único jeito de ajudar a Saber.::
 18796::$$$message_0178_0011_0000$$$::...Eu começo a imaginar.[lr]::
@@ -55,17 +55,17 @@ id=qid::label=str::text=lstr::
 18804::$$$message_0178_0014_0002$$$::...Uma coisa que estava me deixando preso há muito tempo sai do meu corpo.::
 18805::$$$message_0178_0015_0000$$$::"Incrível... ficou ótimo, Shirou! Ninguém mais conseguiria reproduzí-la de um jeito tão perfeito assim...!"[lr]::
 18806::$$$message_0178_0015_0001$$$::Pela maneira que a Saber está feliz, eu devo ter conseguido reproduzir a bainha sem nenhum defeito.::
-18807::$$$message_0178_0016_0000$$$::"[line2]"[lr]::
-18808::$$$message_0178_0016_0001$$$::O meu corpo está queimando, e eu acabo caindo sentado.::
-18809::$$$message_0178_0017_0000$$$::"Shirou...! Você está suando muito! Eu vou buscar uma toalha agora mesmo...!"[lr]::
-18810::$$$message_0178_0017_0001$$$::...A Saber sai correndo para a casa.[lr]::
-18811::$$$message_0178_0017_0002$$$::Eu suspiro enquanto ouço os passos dela.[lr]::
-18812::$$$message_0178_0017_0003$$$::Eu também tive a impressão de que a bainha ficou perfeita.[lr]::
-18813::$$$message_0178_0017_0004$$$::Ela ficou de um jeito impecável.[lr]::
-18814::$$$message_0178_0017_0005$$$::Acho que nenhuma projeção que eu fizer no futuro vai ficar tão perfeita como essa.::
-18815::$$$message_0178_0018_0000$$$::"...Adeus. Obrigado por tudo o que você fez por mim."[lr]::
-18816::$$$message_0178_0018_0001$$$::Eu me despeço daquilo que fez parte do meu corpo durante uma boa parte da minha vida.[lr]::
-18817::$$$message_0178_0018_0002$$$::[line2]A bainha dourada que costumava protegê-la.[lr]::
-18818::$$$message_0178_0018_0003$$$::Eu nunca vou me esquecer dela.[lr]::
-18819::$$$message_0178_0018_0004$$$::Mesmo que a bainha tenha deixado o meu corpo, a imagem dela ficará guardada no meu coração para sempre.::
+18807::$$$message_0178_0016_0000$$$::"[line8]"[lr]::
+18808::$$$message_0178_0016_0001$$$::Tonto pelo calor residual do corpo, eu me sento no chão com um baque.::
+18809::$$$message_0178_0017_0000$$$::"Shirou...! Você está encharcado de suor! Vou buscar alguma coisa para te enxugar agora mesmo...!"[lr]::
+18810::$$$message_0178_0017_0001$$$::...Saber sai correndo em direção à mansão.[lr]::
+18811::$$$message_0178_0017_0002$$$::Ouvindo os passos dela se afastarem, solto um longo suspiro.[lr]::
+18812::$$$message_0178_0017_0003$$$::A sensação de acerto em cheio é a mesma para mim.[lr]::
+18813::$$$message_0178_0017_0004$$$::Aquilo foi perfeito.[lr]::
+18814::$$$message_0178_0017_0005$$$::Por mais projeções que eu faça daqui para frente, nenhuma reprodução vai superar esta.::
+18815::$$$message_0178_0018_0000$$$::"...Até mais. Obrigado por tudo até agora."[lr]::
+18816::$$$message_0178_0018_0001$$$::Eu me despeço daquilo que foi minha outra metade.[lr]::
+18817::$$$message_0178_0018_0002$$$::[line2]A bainha dourada que continuou protegendo-a.[lr]::
+18818::$$$message_0178_0018_0003$$$::Eu jamais vou esquecê-la.[lr]::
+18819::$$$message_0178_0018_0004$$$::Mesmo que tenha saído deste corpo, sua forma foi gravada neste peito para sempre.:
 

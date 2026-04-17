@@ -4,29 +4,30 @@ id=qid::label=str::text=lstr::
 11961::$$$message_0118_0000_0001$$$::É tarde demais para se esconder agora, e eu também não tenho mais tempo a perder.[lr]::
 11962::$$$message_0118_0000_0002$$$::Eu preciso sair daqui o mais rápido possível e ir para casa ver a Saber.::
 11963::$$$message_0118_0001_0000$$$::[line2]A porta se abre.[lr]::
-11964::$$$message_0118_0001_0001$$$::Estando perto da porta e com as costas coladas na parede, eu me preparo para a patrulha entrar no quarto.::
+11964::$$$message_0118_0001_0001$$$::Com as costas coladas na parede ao lado da porta, eu me preparo para a patrulha entrar.[lr]::
 11965::$$$message_0118_0002_0000$$$::"[line5]?"[lr]::
-11966::$$$message_0118_0002_0001$$$::A patrulha simplesmente abre a porta e não entra.[lr]::
+11966::$$$message_0118_0002_0001$$$::A patrulha abre a porta, mas não entra.[lr]::
 11967::$$$message_0118_0002_0002$$$::...Espera aí.[lr]::
-11968::$$$message_0118_0002_0003$$$::Você pode ver a cadeira olhando pela entrada.[lr]::
-11969::$$$message_0118_0002_0004$$$::E como eu não estou mais amarrado nela, eles já não deveriam ter percebido qual é a situação[line2]!?::
+11968::$$$message_0118_0002_0003$$$::Dá pra ver a cadeira só pela entrada.[lr]::
+11969::$$$message_0118_0002_0004$$$::E como eu não estou mais preso nela, ele não vai perceber a situação só de olhar[line2]!?::
 11970::$$$message_0118_0003_0000$$$::"...!"[lr]::
-11971::$$$message_0118_0003_0001$$$::Isso é ruim.[lr]::
-11972::$$$message_0118_0003_0002$$$::Se eles chamarem reforços agora, vai ser mais difícil de escapar.[lr]::
-11973::$$$message_0118_0003_0003$$$::Eu vou ter tomar a iniciativa e sair para enfrentar a patrulha[line2]!::
-11974::$$$message_0118_0004_0000$$$::Eu dou um salto da parede até a porta.[lr]::
+11971::$$$message_0118_0003_0001$$$::Droga.[lr]::
+11972::$$$message_0118_0003_0002$$$::Se ele chamar reforços agora, vai ficar muito mais difícil escapar.[lr]::
+11973::$$$message_0118_0003_0003$$$::Não tem escolha, eu vou ter que sair e derrubar ele[line2]!::
+11974::$$$message_0118_0004_0000$$$::Eu me lanço da parede em direção à porta.[lr]::
 11975::$$$message_0118_0004_0001$$$::[line2]E então.[lr]::
-11976::$$$message_0118_0004_0002$$$::A patrulha deve ter percebido que eu estava me escondendo, já que eles entram no quarto assim que eu dou o pulo.::
+11976::$$$message_0118_0004_0002$$$::A patrulha já devia ter percebido que eu estava escondido, porque entra no quarto no exato momento em que eu avanço.::
 11977::$$$message_0118_0005_0000$$$::"Kuh, seu...!"[lr]::
-11978::$$$message_0118_0005_0001$$$::Não posso parar agora.[lr]::
-11979::$$$message_0118_0005_0002$$$::Quem quer que seja essa pessoa, eu vou bater nela e sair desse quarto à força[line2]![lr]::
-11980::$$$message_0118_0005_0003$$$::"Não se mexa...! Eu não vou tirar a sua vida se você... hã, Shirou...?"::
+11978::$$$message_0118_0005_0001$$$::Não dá pra parar agora.[lr]::
+11979::$$$message_0118_0005_0002$$$::Seja quem for, eu vou derrubar e sair daqui à força[line2]![lr]::
+11980::$$$message_0118_0005_0003$$$::"Não se mexa...! Se obedecer, talvez eu poupe sua vida... hã, Shirou...?":::
 11981::$$$message_0118_0006_0000$$$::"[line5]"[lr]::
-11982::$$$message_0118_0006_0001$$$::O meu corpo paralisa.[lr]::
-11983::$$$message_0118_0006_0002$$$::...A minha mente fica em branco.[lr]::
-11984::$$$message_0118_0006_0003$$$::A pessoa que eu deveria ir salvar está bem na minha frente.::
-11985::$$$message_0118_0007_0000$$$::"S-Saber...? Por que você está aqui?"::
-11986::$$$message_0118_0008_0000$$$::"E-Eu nem preciso te explicar uma coisa dessas. Um Servo não precisa de um motivo para proteger o seu Mestre. É completamente esperado que eu viesse te salvar, já que você foi sequestrado."::
+11982::$$$message_0118_0006_0001$$$::Meu corpo paralisa.[lr]::
+11983::$$$message_0118_0006_0002$$$::...Minha mente fica em branco.[lr]::
+11984::$$$message_0118_0006_0003$$$::A pessoa que eu deveria ir salvar... está bem na minha frente.::
+11985::$$$message_0118_0007_0000$$$::"S-Saber...? Por que você está aqui?":::
+12045::$$$message_0120_0006_0001$$$::"N-Não deveria nem precisar perguntar. Um Servo não precisa de motivo para proteger seu Mestre. Se você foi capturado, é natural que eu venha resgatá-lo.":: 
 11987::$$$message_0118_0009_0000$$$::"Um... bem, eu estou perguntando como você sabia que eu fui sequestrado.[lr]::
 11988::$$$message_0118_0009_0001$$$::Aliás, mais importante do que isso, por que você está aqui?[lr]::
-11989::$$$message_0118_0009_0002$$$::Este é o esconderijo da Illya. Você não deveria chegar nem perto daqui agora."::
+11989::$$$message_0118_0009_0002$$$::Esse é o esconderijo da Illya. Não é um lugar onde você deveria estar agora."::
+

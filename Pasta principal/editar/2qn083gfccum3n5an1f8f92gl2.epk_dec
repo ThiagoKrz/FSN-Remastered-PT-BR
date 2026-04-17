@@ -6,10 +6,10 @@ id=qid::label=str::text=lstr::
 16823::$$$message_0154_0001_0001$$$::"Eh...?"[lr]::
 16824::$$$message_0154_0001_0002$$$::"Mas é claro. Seria um absurdo deixar a Illyasviel ficar aqui."[lr]::
 16825::$$$message_0154_0001_0003$$$::"Shirou...?"::
-16826::$$$message_0154_0002_0000$$$::Ela fica preocupada e olha para mim.[lr]::
+16826::$$$message_0154_0002_0000$$$::Com olhos de preocupação ela me encara.[lr]::
 16827::$$$message_0154_0002_0001$$$::"Não[line2]você discorda delas, não é Shirou? Você não vai me abandonar, certo...?"[lr]::
 16828::$$$message_0154_0002_0002$$$::"[line2]"[lr]::
-16829::$$$message_0154_0002_0003$$$::Eu ponho a minha mão em cima do meu coração que está sentindo remorso.::
+16829::$$$message_0154_0002_0003$$$::Ponho a minha mão em cima do meu coração que está sentindo remorso.::
 16830::$$$message_0154_0003_0000$$$::"...Não. Você deve ir para a igreja.[lr]::
 16831::$$$message_0154_0003_0001$$$::Aquele lugar é bem mais seguro do que aqui."[lr]::
 16832::$$$message_0154_0003_0002$$$::Pelo menos eu mantenho o contato visual enquanto falo isso para ela.[lr]::
@@ -21,7 +21,7 @@ id=qid::label=str::text=lstr::
 16838::$$$message_0154_0006_0001$$$::A Illya chora feito uma criança.[lr]::
 16839::$$$message_0154_0006_0002$$$::...Não, não é isso.[lr]::
 16840::$$$message_0154_0006_0003$$$::Ela é uma criança.[lr]::
-16841::$$$message_0154_0006_0004$$$::Eu já deveria ter percebido isso, mas me esqueci no momento mais importante.::
+16841::$$$message_0154_0006_0004$$$::Já deveria ter percebido isso, mas me esqueci no momento mais importante.::
 16842::$$$message_0154_0007_0000$$$::[line2]É mesmo.[lr]::
 16843::$$$message_0154_0007_0001$$$::Se me importo de verdade com a Illya, eu não posso entregá-la para uma pessoa qualquer[line2]::
 16844::$$$message_0154_0008_0000$$$::"Você tem um castelo enorme daqueles, mas ainda prefere ficar aqui...? Esse lugar é menor do que a testa de um gato se comparado com o castelo Einzbern."::
@@ -30,7 +30,7 @@ id=qid::label=str::text=lstr::
 16847::$$$message_0154_0009_0002$$$::...Uh.[lr]::
 16848::$$$message_0154_0009_0003$$$::Com quem de nós ela está sendo grosseira?::
 16849::$$$message_0154_0010_0000$$$::"Não é verdade, Shirou? Eu posso ficar aqui, não posso...?"::
-16850::$$$message_0154_0011_0000$$$::Ela me olha como se estivesse me implorando.[lr]::
+16850::$$$message_0154_0011_0000$$$::Illya me olha como se estivesse me implorando.[lr]::
 16851::$$$message_0154_0011_0001$$$::...Isso me lembra uma coisa de muito tempo atrás.[lr]::
 16852::$$$message_0154_0011_0002$$$::É mesmo, o meu pai vivia dizendo que as garotas precisam ser protegidas.::
 16853::$$$message_0154_0012_0000$$$::"[line2]Tem razão, eu retiro o que disse.[lr]::
@@ -49,3 +49,4 @@ id=qid::label=str::text=lstr::
 16866::$$$message_0154_0018_0000$$$::"Ah... eu sei disso, mas[line2]"[lr]::
 16867::$$$message_0154_0018_0001$$$::A Saber pensa no que dizer.[lr]::
 16868::$$$message_0154_0018_0002$$$::Pelo menos ela entende que a Illya pode ser atacada pelos outros Mestres se for abandonada.::
+

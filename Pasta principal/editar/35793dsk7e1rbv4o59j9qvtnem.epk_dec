@@ -1,303 +1,304 @@
 DAT
 id=qid::label=str::text=lstr::
-13275::$$$message_0131_0000_0000$$$::"E-Eu é que deveria estar perguntando! O que você estava fazendo?[lr]::
-13276::$$$message_0131_0000_0001$$$::Eu te disse tantas vezes para não sair de casa sozinho, mas mesmo assim você foi sequestrado pela Illyasviel fácil demais, e ainda trazido até um lugar desses...!"::
-13277::$$$message_0131_0001_0000$$$::"Você não tem maturidade para ser um Mestre. Eu não vou te perdoar até que você se desculpe de uma forma apropriada."::
-13278::$$$message_0131_0002_0000$$$::"Ugh... Eu admito que fui desleixado. Mas Saber, por que está aqui?[lr]::
-13279::$$$message_0131_0002_0001$$$::Você não consegue se mover direito, não é? O que você tem na cabeça para vir até o castelo da Illya nessas condições?"::
-13280::$$$message_0131_0003_0000$$$::"Não, o que você tem na cabeça?[lr]::
-13281::$$$message_0131_0003_0001$$$::O dever de um Servo é proteger o seu Mestre. Você foi sequestrado, então não interessa se esse é o castelo da Illyasviel."::
+13275::$$$message_0131_0000_0000$$$::"N-Não, eu é que devia te perguntar isso! O que você estava pensando?[lr]::
+13276::$$$message_0131_0000_0001$$$::Eu falei tantas vezes pra você não agir sozinho, mas mesmo assim você deixou a Illyasviel te sequestrar com a maior facilidade e ainda foi trazido pra um lugar desses...!"::
+13277::$$$message_0131_0001_0000$$$::"Você falhou como Mestre. Não vou ficar satisfeita enquanto não receber algum tipo de pedido de desculpas por isso."::
+13278::$$$message_0131_0002_0000$$$::"Ugh... tá, eu fui descuidado. Mas como assim você tá aqui, Saber?[lr]::
+13279::$$$message_0131_0002_0001$$$::Você mal consegue se mexer, não consegue? Então o que passou pela sua cabeça pra vir até a base da Illya nesse estado!?"::
+13280::$$$message_0131_0003_0000$$$::"Eu é que pergunto o que passou pela sua cabeça.[lr]::
+13281::$$$message_0131_0003_0001$$$::É dever de um Servo proteger seu Mestre. Se Shirou foi capturado, não importa nem se este é o castelo da Illyasviel."::
 13282::$$$message_0131_0004_0000$$$::"[line5]"[lr]::
-13283::$$$message_0131_0004_0001$$$::A Saber diz isso de forma clara.[lr]::
-13284::$$$message_0131_0004_0002$$$::...A aparência dela é a mesma de antes.[lr]::
-13285::$$$message_0131_0004_0003$$$::Ela está diferente de quando estava desmaiada, fraca e sentindo dor.::
-13286::$$$message_0131_0005_0000$$$::"...Shirou? Por que você ficou quieto de repente? Eles te machucaram enquanto você esteve preso aqui...!?"[lr]::
-13287::$$$message_0131_0005_0001$$$::"Ah... não, nada disso. Eu estou bem. O que importa é que estou feliz em ver que você está bem."::
-13288::$$$message_0131_0006_0000$$$::...Eu realmente recuperei a calma.[lr]::
-13289::$$$message_0131_0006_0001$$$::Eu fiquei surpreso porque a Saber veio até aqui, mas estou aliviado por ela ter voltado ao normal.[lr]::
-13290::$$$message_0131_0006_0002$$$::Isso pode ser um preconceito egoísta da minha parte.[lr]::
-13291::$$$message_0131_0006_0003$$$::Mas eu acho que a Saber costuma agir assim.::
-13292::$$$message_0131_0007_0000$$$::"...Me desculpe, Saber. Eu não sei se entendi direito, mas você veio até aqui para me salvar, certo?"::
-13293::$$$message_0131_0008_0000$$$::"Ah... sim. É de se esperar que um Servo venha salvar o seu Mestre."[lr]::
-13294::$$$message_0131_0008_0001$$$::"Obrigado. Você é um amor de pessoa."::
-13295::$$$message_0131_0009_0000$$$::[line2]Eu estou feliz.[lr]::
-13296::$$$message_0131_0009_0001$$$::Os nossos problemas acabaram.[lr]::
-13297::$$$message_0131_0009_0002$$$::Agora só falta fugir junto com a Saber e[line2][lr]::
-13298::$$$message_0131_0009_0003$$$::...Ei.[lr]::
-13299::$$$message_0131_0009_0004$$$::Por que os meus olhos estão vendo a Tohsaka...?::
+13283::$$$message_0131_0004_0001$$$::A Saber responde sem hesitar.[lr]::
+13284::$$$message_0131_0004_0002$$$::...Ela está exatamente como antes.[lr]::
+13285::$$$message_0131_0004_0003$$$::Não é a mesma Saber de ontem à noite, fraca, sofrendo e adormecida.:: 
+13286::$$$message_0131_0005_0000$$$::"...Shirou? O que foi? Por que ficou quieto de repente? N-não me diga que te machucaram enquanto você estava preso...!?"[lr]::
+13287::$$$message_0131_0005_0001$$$::"Ah... não, não é isso. Não se preocupa comigo. Só fiquei feliz de ver que você parece melhor."::
+13288::$$$message_0131_0006_0000$$$::...Sinto um alívio de verdade.[lr]::
+13289::$$$message_0131_0006_0001$$$::Fiquei surpreso de ver a Saber aqui, mas mais do que isso, fiquei feliz de ver que ela continua sendo ela mesma.[lr]::
+13290::$$$message_0131_0006_0002$$$::Eu sei que é egoísmo pensar assim,[lr]::
+13291::$$$message_0131_0006_0003$$$::...mas é assim que a Saber deve ser.:: 
+13292::$$$message_0131_0007_0000$$$::"...Desculpa, Saber. Eu ainda não entendi tudo direito, mas você veio me salvar, né?"::
+13293::$$$message_0131_0008_0000$$$::"Ah... sim. É natural que um Servo venha salvar o seu Mestre."[lr]::
+13294::$$$message_0131_0008_0001$$$::"Obrigado. Fiquei mesmo feliz que você veio."::
+13295::$$$message_0131_0009_0000$$$::[line2]Ainda bem.[lr]::
+13296::$$$message_0131_0009_0001$$$::Agora já não tem mais problema.[lr]::
+13297::$$$message_0131_0009_0002$$$::Só falta sair daqui com a Saber e[line2][lr]::
+13298::$$$message_0131_0009_0003$$$::...Espera.[lr]::
+13299::$$$message_0131_0009_0004$$$::Por que eu tô vendo a Tohsaka...?:: 
 13300::$$$message_0131_0010_0000$$$::"T-Tohsaka...?"[lr]::
-13301::$$$message_0131_0010_0001$$$::Ummm.[lr]::
-13302::$$$message_0131_0010_0002$$$::Ela está mesmo aqui? De verdade?::
-13303::$$$message_0131_0011_0000$$$::"Você parece estar melhor do que eu pensava. Talvez a gente não precisasse ter vindo, huh?"::
-13304::$$$message_0131_0012_0000$$$::"Foi o que eu te disse, Rin. Você deveria ter abandonado o Emiya Shirou.[lr]::
-13305::$$$message_0131_0012_0001$$$::Esse cara só causa problemas para as pessoas em volta dele e sobrevive no final. Nós perdemos uma boa chance. Ele já poderia estar morto se você tivesse se esquecido dele."::
-13306::$$$message_0131_0013_0000$$$::"...Eu não vou tolerar isso, Archer.[lr]::
-13307::$$$message_0131_0013_0001$$$::Fui eu que pedi por ajuda, mas você não tem o direito de insultar o Shirou."::
-13308::$$$message_0131_0014_0000$$$::"[line2]Então essa é a sua atitude agora que sabe que o seu Mestre está bem, huh? O Mestre e o Servo são iguaizinhos. Aposto que você não dá valor aos seus aliados.[lr]::
-13309::$$$message_0131_0014_0001$$$::...Bem, uma hora nós vamos lutar entre si. Vai ser mais fácil se não tivermos sentimentos uns pelos outros."::
+13301::$$$message_0131_0010_0001$$$::Hã...[lr]::
+13302::$$$message_0131_0010_0002$$$::Ela tá mesmo aqui? De verdade?:: 
+13303::$$$message_0131_0011_0000$$$::"Você parece bem melhor do que eu imaginei. Talvez nem precisássemos ter vindo."::
+13304::$$$message_0131_0012_0000$$$::"Foi o que eu te disse, Rin. Devia ter deixado Emiya Shirou onde estava.[lr]::
+13305::$$$message_0131_0012_0001$$$::Homens desse tipo só causam problema pros outros e, no fim, sobrevivem sozinhos. Essa era a oportunidade perfeita. Se o tivesse largado, ele teria morrido por conta própria."::
+13306::$$$message_0131_0013_0000$$$::"...Não vou deixar isso passar, Archer.[lr]::
+13307::$$$message_0131_0013_0001$$$::Fui eu que pedi sua ajuda, mas isso não te dá o direito de insultar o Shirou."::
+13308::$$$message_0131_0014_0000$$$::"[line2]Hmph. Então agora que seu Mestre está salvo, é assim? Se o Mestre é desse jeito, o Servo também seria. Pelo visto vocês não têm a menor gratidão por quem os ajuda.[lr]::
+13309::$$$message_0131_0014_0001$$$::...Bem, de qualquer forma um dia vamos acabar lutando entre nós. Talvez seja até mais fácil se ninguém criar apego."::
 13310::$$$message_0131_0015_0000$$$::"......"[lr]::
-13311::$$$message_0131_0015_0001$$$::A Saber fica em silêncio, como se ele tivesse tocado em um assunto delicado.[lr]::
-13312::$$$message_0131_0015_0002$$$::...Esse cara... ele também não se dá bem com a Saber?::
-13313::$$$message_0131_0015_0003$$$::Ele não é apenas hostil comigo. Ele trata Saber da mesma maneira.::
-13314::$$$message_0131_0016_0000$$$::"Já chega. Você ainda se lembra da situação em que estamos, não é?[lr]::
-13315::$$$message_0131_0016_0001$$$::Não temos tempo para ficar conversando. Nós precisamos sair daqui antes que a Illyasviel volte."::
-13316::$$$message_0131_0017_0000$$$::"...? Espera um pouco.[lr]::
-13317::$$$message_0131_0017_0001$$$::Vocês vieram até aqui sabendo que esse é o castelo da Illya? Aliás, mais importante do que isso[line2]"[lr]::
-13318::$$$message_0131_0017_0002$$$::A Illya saiu daqui para ir matá-los.[lr]::
-13319::$$$message_0131_0017_0003$$$::Então.... isso quer dizer que a Illya e a Tohsaka se desencontraram?::
-13320::$$$message_0131_0018_0000$$$::"[line2]Ainda bem. Parece que a Illya está indo para a minha casa agora. Se vocês não tivessem vindo até aqui, acho que iriam acabar lutando com ela."::
-13321::$$$message_0131_0019_0000$$$::"Sim, é o que parece. Eu confirmei que a Illya e o Berserker estavam de saída. ...Bem, nós não teríamos invadido o castelo se não fosse por isso."::
-13322::$$$message_0131_0020_0000$$$::...Entendi. Então a Tohsaka tomou medidas drásticas porque sabia que a Illya tinha deixado o castelo.[lr]::
-13323::$$$message_0131_0020_0001$$$::Ela agiu da forma mais direta possível, mas dessa vez essa acabou sendo a melhor opção.::
-13324::$$$message_0131_0021_0000$$$::"Enfim, vamos deixar a conversa para depois. Eu vim preparada quando soube que essa é a base da família Einzbern, mas seria ótimo se não tivermos que nos encontrar com eles.[lr]::
-13325::$$$message_0131_0021_0001$$$::Nós não temos chance contra o Berserker com a Saber nesse estado."[lr]::
-13326::$$$message_0131_0021_0002$$$::A Tohsaka fica entre mim e a Saber.::
-13327::$$$message_0131_0022_0000$$$::"...Tohsaka. O que quer dizer com o estado da Saber?[lr]::
-13328::$$$message_0131_0022_0001$$$::Ela parece ter voltado ao normal."::
-13329::$$$message_0131_0023_0000$$$::"Olha só. Coisas convenientes assim não acontecem nunca.[lr]::
-13330::$$$message_0131_0023_0001$$$::A Saber não está nem um pouco recuperada. Você não consegue perceber só de olhar que ela mal consegue ficar de pé?"[lr]::
-13331::$$$message_0131_0023_0002$$$::"Rin...! Você prometeu que não iria falar sobre isso...!"::
-13332::$$$message_0131_0024_0000$$$::"Me desculpe, mas eu sou obrigada a falar. Não é bom esconder isso, e não é algo que ele não iria descobrir cedo ou tarde."[lr]::
+13311::$$$message_0131_0015_0001$$$::Como se ele tivesse acertado em cheio, a Saber fica em silêncio.[lr]::
+13312::$$$message_0131_0015_0002$$$::...Esse cara.[lr]::
+13313::$$$message_0131_0015_0003$$$::Então não sou só eu. Ele também se dá mal com a Saber.:: 
+13314::$$$message_0131_0016_0000$$$::"Chega. Não vai me dizer que esqueceu em que situação estamos, Archer.[lr]::
+13315::$$$message_0131_0016_0001$$$::Não temos tempo pra conversa. Precisamos sair daqui antes que a Illyasviel volte."::
+13316::$$$message_0131_0017_0000$$$::"...? Espera aí.[lr]::
+13317::$$$message_0131_0017_0001$$$::Vocês vieram até aqui sabendo que esse era o castelo da Illya? Não, mais do que isso[line2]"[lr]::
+13318::$$$message_0131_0017_0002$$$::A Illya saiu daqui dizendo que ia matar a Tohsaka e a Saber.[lr]::
+13319::$$$message_0131_0017_0003$$$::Então... isso quer dizer que a Illya e a Tohsaka se desencontraram?:: 
+13320::$$$message_0131_0018_0000$$$::"[line2]Ainda bem. Acho que a Illya tá indo pra minha casa agora. Se vocês não tivessem vindo até aqui, acabariam tendo que lutar com ela lá."::
+13321::$$$message_0131_0019_0000$$$::"Sim, parece que foi isso mesmo. Eu confirmei que a Illya e o Berserker tinham saído. ...Bem, se não fosse assim, a gente nem teria se infiltrado até aqui."::
+13322::$$$message_0131_0020_0000$$$::...Entendi. Então a Tohsaka só tomou uma medida tão drástica porque confirmou que a Illya tinha saído do castelo.[lr]::
+13323::$$$message_0131_0020_0001$$$::Como sempre, ela foi ousada. Mas dessa vez essa ousadia acabou jogando a nosso favor.:: 
+13324::$$$message_0131_0021_0000$$$::"Enfim, conversamos depois. Quando soube que aqui era a base dos Einzbern, eu vim preparada. Mas, se der pra evitar topar com eles, melhor ainda.[lr]::
+13325::$$$message_0131_0021_0001$$$::E com a Saber desse jeito, a gente não tem a menor chance contra o Berserker."[lr]::
+13326::$$$message_0131_0021_0002$$$::"Anda, anda, se afastem", e a Tohsaka nos separa.:: 
+13327::$$$message_0131_0022_0000$$$::"...Tohsaka. O que você quer dizer com 'desse jeito'?[lr]::
+13328::$$$message_0131_0022_0001$$$::Ela tá com cor no rosto e parece a mesma de sempre."::
+13329::$$$message_0131_0023_0000$$$::"Ah, por favor. Como se as coisas fossem se resolver de um jeito tão conveniente.[lr]::
+13330::$$$message_0131_0023_0001$$$::A Saber não se recuperou nem um pouco. Não dá pra ver só de olhar que ficar de pé já é o limite dela?"[lr]::
+13331::$$$message_0131_0023_0002$$$::"Rin...! Você tinha prometido que ia ficar calada sobre isso...!"::
+13332::$$$message_0131_0024_0000$$$::"Desculpa, mas esquece isso. Ficar calada só piora tudo, e além do mais isso não é o tipo de coisa que dá pra esconder pra sempre."[lr]::
 13333::$$$message_0131_0024_0001$$$::"...Eu sei, mas[line2]"[lr]::
-13334::$$$message_0131_0024_0002$$$::Ela hesita em dizer algo com um olhar doloroso.[lr]::
-13335::$$$message_0131_0024_0003$$$::Isso me faz perceber que ela realmente não se recuperou nem um pouco.::
-13336::$$$message_0131_0025_0000$$$::"[line2]Saber. O que ela disse é verdade?"[lr]::
-13337::$$$message_0131_0025_0001$$$::"...Sim. O que a Rin disse é verdade. É vergonhoso dizer isso, mas eu não posso lutar como a Saber agora. Eu só posso servir como o seu escudo."::
-13338::$$$message_0131_0026_0000$$$::"Huh, foi o que eu pensei. Você não nos deu ouvidos e veio com a gente mesmo sem poder se armar.[lr]::
-13339::$$$message_0131_0026_0001$$$::Aposto que ela só queria proteger o seu Mestre ao invés de lutar."::
-13340::$$$message_0131_0027_0000$$$::"Quê[line2]?"[lr]::
-13341::$$$message_0131_0027_0001$$$::Eu paro de respirar.[lr]::
-13342::$$$message_0131_0027_0002$$$::Como assim?[lr]::
-13343::$$$message_0131_0028_0000$$$::"...Me perdoe, Shirou. Eu sei que sou um fracasso como um Servo com o meu corpo nessas condições. Mas eu ainda posso ser o seu escudo. Tenho certeza de que você está decepcionado, mas por favor aceite isso por enquanto[line2]"::
-13344::$$$message_0131_0029_0000$$$::[line2]Já chega![lr]::
-13345::$$$message_0131_0029_0001$$$::Por que você sempre tem ideias idiotas como essa[line2]!?::
-13346::$$$message_0131_0030_0000$$$::"Não brinque comigo, é claro que eu não estou decepcionado contigo...![lr]::
+13334::$$$message_0131_0024_0002$$$::Ela hesita, visivelmente abatida.[lr]::
+13335::$$$message_0131_0024_0003$$$::E aí eu entendo que a condição dela não melhorou em absolutamente nada.:: 
+13336::$$$message_0131_0025_0000$$$::"[line2]Saber. Isso que ela disse... é verdade?"[lr]::
+13337::$$$message_0131_0025_0001$$$::"...Sim. A Rin está certa. É vergonhoso admitir, mas no meu estado atual eu não posso lutar como Saber. No máximo, posso servir como seu escudo."::
+13338::$$$message_0131_0026_0000$$$::"Hmph. Era o que eu imaginava. Você tá tão debilitada que nem consegue vestir a armadura, e mesmo assim insistiu em vir junto.[lr]::
+13339::$$$message_0131_0026_0001$$$::Deve ter pensado em proteger o seu Mestre, já que não podia lutar."::
+13340::$$$message_0131_0027_0000$$$::"Qu[line2]..."[lr]::
+13341::$$$message_0131_0027_0001$$$::Fraca a ponto de não conseguir nem se armar...[lr]::
+13342::$$$message_0131_0027_0002$$$::E, em vez de lutar, virar meu escudo...? Que tipo de absurdo é esse?:: 
+13343::$$$message_0131_0028_0000$$$::"...Me desculpe, Shirou. Eu sei que, com esse corpo, sou um fracasso como Servo. Mas ainda posso ao menos servir de escudo. Sei que você não vai gostar disso, mas por enquanto é o que[line2]"::
+13344::$$$message_0131_0029_0000$$$::[line2]Por isso mesmo.[lr]::
+13345::$$$message_0131_0029_0001$$$::Por que você só pensa em se sacrificar, Saber[line2]!?:: 
+13346::$$$message_0131_0030_0000$$$::"Tá de sacanagem, é óbvio que eu não aceito isso...![lr]::
 13347::$$$message_0131_0030_0001$$$::Tohsaka, por que você trouxe a Saber até aqui!?[lr]::
-13348::$$$message_0131_0030_0002$$$::Você não percebe que ela é mais importante do que eu...!?"::
-13349::$$$message_0131_0031_0000$$$::"Q-Que foi? Eu também fui contra ela vir! Mas a Saber não quis me dar ouvidos, e ela era a única que sabia onde você estava. Eu tinha noção que isso era perigoso, mas ainda precisava da ajuda dela!"::
+13348::$$$message_0131_0030_0002$$$::Você não percebeu que, agora, a Saber é muito mais importante do que eu...!?"::
+13349::$$$message_0131_0031_0000$$$::"Q-Que foi? Eu também fui contra! Mas a Saber não quis me ouvir, e além disso só a Saber podia descobrir onde você estava! Eu sabia muito bem que era perigoso, mas mesmo assim a Saber era necessária!"::
 13350::$$$message_0131_0032_0000$$$::"Mas mesmo assim[line2]"[lr]::
-13351::$$$message_0131_0032_0001$$$::Eu começo a gritar com ela por ter trazido a Saber, mas resolvo parar.[lr]::
-13352::$$$message_0131_0032_0002$$$::...Quem sou eu para criticar a Tohsaka?[lr]::
-13353::$$$message_0131_0032_0003$$$::Tudo isso aconteceu porque eu fui sequestrado.[lr]::
-13354::$$$message_0131_0032_0004$$$::A Tohsaka e a Saber só fizeram o que elas acharam que era melhor.::
-13355::$$$message_0131_0033_0000$$$::"...Não tem problema em ficar discutindo, mas é melhor você parar por aqui, Rin.[lr]::
-13356::$$$message_0131_0033_0001$$$::Um mestre vai perceber que houve alterações em seu lar. Não temos tempo para ficar explicando as coisas."::
-13357::$$$message_0131_0034_0000$$$::"...Tem razão. A Illyasviel já deve estar voltando para cá.[lr]::
-13358::$$$message_0131_0034_0001$$$::[line2]Muito bem. Vamos deixar a conversa para depois. Nós temos que sair desse castelo primeiro. Tudo bem para você, Shirou?"::
-13359::$$$message_0131_0035_0000$$$::"Shirou, nós temos que..."[lr]::
-13360::$$$message_0131_0035_0001$$$::"[line2]Bem, mas..."[lr]::
-13361::$$$message_0131_0035_0002$$$::Se a Saber estiver como ontem à noite, não vai ser difícil para ela até mesmo conseguir andar?[lr]::
-13362::$$$message_0131_0035_0003$$$::Eu não posso deixá-la se esforçar muito nessas condições.::
-13363::$$$message_0131_0036_0000$$$::"...Sinceramente, parece que você me subestima demais."[lr]::
+13351::$$$message_0131_0032_0001$$$::Eu ia gritar que ela não devia ter trazido a Saber, mas me contenho.[lr]::
+13352::$$$message_0131_0032_0002$$$::...Eu não tenho direito de culpar a Tohsaka.[lr]::
+13353::$$$message_0131_0032_0003$$$::A causa de tudo isso foi eu ter sido capturado.[lr]::
+13354::$$$message_0131_0032_0004$$$::A Tohsaka e a Saber só fizeram o que acharam certo.:: 
+13355::$$$message_0131_0033_0000$$$::"...Discutir até vai, mas chega por aqui, Rin.[lr]::
+13356::$$$message_0131_0033_0001$$$::Se é uma Mestre, ela vai notar qualquer anormalidade na própria casa. Não temos tempo pra ficar explicando tudo com calma."::
+13357::$$$message_0131_0034_0000$$$::"...Tem razão. A essa altura a Illyasviel já deve estar voltando correndo pra cá.[lr]::
+13358::$$$message_0131_0034_0001$$$::[line2]Tudo bem, a conversa fica pra depois. Agora o mais importante é sair desse castelo. Tudo bem pra você, Shirou?"::
+13359::$$$message_0131_0035_0000$$$::"Shirou, nós também..."[lr]::
+13360::$$$message_0131_0035_0001$$$::"[line2]É, mas..."[lr]::
+13361::$$$message_0131_0035_0002$$$::Se a Saber ainda está como ontem à noite, até andar deve ser difícil pra ela, não?[lr]::
+13362::$$$message_0131_0035_0003$$$::Não posso fazer ela se forçar ainda mais nessas condições.:: 
+13363::$$$message_0131_0036_0000$$$::"...Francamente. Pelo visto você me subestima demais."[lr]::
 13364::$$$message_0131_0036_0001$$$::"Hã, Saber...?"::
-13365::$$$message_0131_0037_0000$$$::"Mesmo sem o fornecimento de energia mágica, eu ainda posso lutar melhor do que você, Shirou. Para mim, é você quem parece que está prestes a sumir.[lr]::
-13366::$$$message_0131_0037_0001$$$::...Acho que a Rin não percebeu, mas a sua energia mágica está fora de ordem, não está?"::
-13367::$$$message_0131_0038_0000$$$::"Ah... não, isso não é nada demais. Vai ficar tudo bem se eu aguentar firme.[lr]::
-13368::$$$message_0131_0038_0001$$$::Eu, eh[line2]estou bem, é sério."::
-13369::$$$message_0131_0039_0000$$$::"Então eu também estou. É doloroso, mas não é nada insuportável.[lr]::
-13370::$$$message_0131_0039_0001$$$::Talvez as coisas estejam acontecendo rápido demais para você entender, mas por enquanto vamos seguir a Rin. Se quiser conversar, é melhor fazer isso quando estivermos em casa."[lr]::
-13371::$$$message_0131_0039_0002$$$::A Saber me diz para irmos andando.::
+13365::$$$message_0131_0037_0000$$$::"Mesmo com a energia mágica no fim, eu ainda luto melhor do que você, Shirou. Pra mim, é você quem parece que vai desaparecer a qualquer momento.[lr]::
+13366::$$$message_0131_0037_0001$$$::...A Rin parece não ter percebido, mas a energia mágica no seu corpo não está desnorteada?"::
+13367::$$$message_0131_0038_0000$$$::"Ah... não, isso não é nada demais. É o tipo de coisa que dá pra aguentar firme.[lr]::
+13368::$$$message_0131_0038_0001$$$::Eu... eu tô totalmente bem. Sério."::
+13369::$$$message_0131_0039_0000$$$::"Então estamos iguais. Eu também estou sofrendo, mas não é nada que eu não consiga suportar.[lr]::
+13370::$$$message_0131_0039_0001$$$::Talvez tudo tenha acontecido de repente demais pra você entender a situação, mas por enquanto vamos seguir a Rin. Se for pra conversar, isso pode esperar até voltarmos pra casa."[lr]::
+13371::$$$message_0131_0039_0002$$$::"Vamos", a Saber me apressa.:: 
 13372::$$$message_0131_0040_0000$$$::"[line5]"[lr]::
 13373::$$$message_0131_0040_0001$$$::...Nossa.[lr]::
-13374::$$$message_0131_0040_0002$$$::Eu nem consigo mais ficar preocupado depois dela ter dito isso com essa cara.::
-13375::$$$message_0131_0041_0000$$$::"...Tem razão. Eu tenho várias coisas para conversar, mas vou deixar para quando chegarmos em casa com segurança."[lr]::
-13376::$$$message_0131_0041_0001$$$::...Sim, é sobre o corpo da Saber, e sobre agradecê-la por ter vindo me salvar.[lr]::
-13377::$$$message_0131_0041_0002$$$::[line2]Eu não deveria perguntá-la agora sobre o sonho que vi enquanto dormia.::
+13374::$$$message_0131_0040_0002$$$::Depois de ouvir isso com essa expressão dela, eu nem consigo mais me preocupar.:: 
+13375::$$$message_0131_0041_0000$$$::"...Tem razão. Tenho um monte de coisas pra falar, mas é melhor deixar pra quando a gente estiver em casa, em segurança."[lr]::
+13376::$$$message_0131_0041_0001$$$::...Sim, sobre o estado da Saber e também pra agradecer por ela ter vindo me salvar.[lr]::
+13377::$$$message_0131_0041_0002$$$::[line2]E definitivamente não é hora de perguntar sobre o sonho que eu tive enquanto dormia.::
 13378::$$$message_0131_0042_0000$$$::"[line2]Certo. Vamos, Saber."[lr]::
-13379::$$$message_0131_0042_0001$$$::Depois de acenar, eu sigo em frente determinação.::
-13380::$$$message_0131_0043_0000$$$::...Eu estou suando a cada passo que dou, mas não posso reclamar.[lr]::
-13381::$$$message_0131_0043_0001$$$::A Saber se deu o trabalho de vir até aqui com o corpo enfraquecido dela.::
-13382::$$$message_0131_0044_0000$$$::"[line5]Uau."[lr]::
-13383::$$$message_0131_0044_0001$$$::Eu dou um suspiro assim que nós saímos do quarto.[lr]::
-13384::$$$message_0131_0044_0002$$$::Isso daqui é... um corredor?[lr]::
-13385::$$$message_0131_0045_0000$$$::"Ei, isso não é hora de ficar impressionado. Mesmo que a saia do castelo, ainda tem uma floresta enorme lá fora. Se não sairmos logo, vai acabar amanhecendo."::
-13386::$$$message_0131_0046_0000$$$::"Uma floresta enorme[line2]? Então é verdade que esse lugar está em cima de uma montanha? Essa floresta fica mesmo a algumas horas de carro da Cidade de Miyama?"::
-13387::$$$message_0131_0047_0000$$$::"Sim, esse é o castelo secreto da família Einzbern.[lr]::
-13388::$$$message_0131_0047_0001$$$::Assim que sairmos daqui, nós vamos passar algumas horas atravessando a floresta. Agora está de noite, então nós só vamos conseguir sair pela manhã."::
-13389::$$$message_0131_0048_0000$$$::A Tohsaka atravessa o corredor sem pensar duas vezes.[lr]::
-13390::$$$message_0131_0048_0001$$$::Acho que ela está indo em direção à entrada dos fundos por onde invadiu o castelo.::
-13391::$$$message_0131_0049_0000$$$::"...Eu já sabia que estava de noite, mas... por quanto tempo eu fiquei preso aqui?"[lr]::
-13392::$$$message_0131_0049_0001$$$::Para mim foi apenas metade de um dia, mas pode ter sido mais do que isso.::
-13393::$$$message_0131_0050_0000$$$::"Você foi sequestrado pela Illyasviel hoje de manhã. Se passou metade de um dia desde então.[lr]::
-13394::$$$message_0131_0050_0001$$$::...E como já passou de meia-noite, significa que você esteve preso aqui por um dia."::
-13395::$$$message_0131_0051_0000$$$::"Ugh... Entendo. Me sinto vergonhado."[lr]::
-13396::$$$message_0131_0051_0001$$$::"Não, por favor não se sinta assim. Você está a salvo mesmo depois de ter sido sequestrado pela Illyasviel por tanto tempo. Isso só prova que a sua mente não desistiu mesmo com o seu corpo mantido preso aqui."::
-13397::$$$message_0131_0052_0000$$$::"[line2]Bem, talvez você esteja certa."[lr]::
-13398::$$$message_0131_0052_0001$$$::"Sim. A Illyasviel tem a aparência de uma menina, mas ela é um mago da família Einzbern. Você não seria mais si mesmo se tivesse perdido as esperanças.::
-13399::$$$message_0131_0053_0000$$$::...Mas não é como se eu não tivesse considerado essa possibilidade. Eu vim até esse castelo preparada para te encontrar morto na pior das hipóteses."[lr]::
-13400::$$$message_0131_0053_0001$$$::"[line5]"::
-13401::$$$message_0131_0054_0000$$$::"Por isso eu estou feliz por poder te ver de novo.[lr]::
-13402::$$$message_0131_0054_0001$$$::Como o meu Mestre está a salvo, eu também não posso perder."::
-13403::$$$message_0131_0055_0000$$$::...A Saber diz isso com um leve sorriso no rosto.[lr]::
-13404::$$$message_0131_0055_0001$$$::Eu também me sinto assim.[lr]::
-13405::$$$message_0131_0056_0000$$$::"Ei, vocês estão tentando mesmo escapar!?[lr]::
-13406::$$$message_0131_0056_0001$$$::Eu vou deixar vocês para trás se forem muito devagar...!!"[lr]::
-13407::$$$message_0131_0056_0002$$$::A Tohsaka grita com a gente do outro lado do corredor.::
-13408::$$$message_0131_0057_0000$$$::"Droga, não podemos ficar de conversa. Vamos logo, Saber."[lr]::
-13409::$$$message_0131_0057_0001$$$::E assim eu corro, também apressando a Saber.[lr]::
+13379::$$$message_0131_0042_0001$$$::Depois de acenar, eu começo a andar com determinação.:: 
+13380::$$$message_0131_0043_0000$$$::...A cada passo, eu sinto o suor escorrer, mas não posso reclamar.[lr]::
+13381::$$$message_0131_0043_0001$$$::A Saber veio até aqui mesmo com o corpo naquele estado.:: 
+13382::$$$message_0131_0044_0000$$$::"[line5]Nossa..."[lr]::
+13383::$$$message_0131_0044_0001$$$::Eu solto um suspiro assim que saímos do quarto.[lr]::
+13384::$$$message_0131_0044_0002$$$::Isso aqui é... um corredor.:: 
+13385::$$$message_0131_0045_0000$$$::"Ei, não é hora de ficar admirando. Mesmo saindo do castelo, ainda tem uma floresta enorme lá fora. Se a gente demorar, vai amanhecer."::
+13386::$$$message_0131_0046_0000$$$::"Uma floresta enorme[line2]? Então é verdade que isso aqui fica numa montanha? Essa floresta fica mesmo a algumas horas de carro da Cidade de Miyama?"::
+13387::$$$message_0131_0047_0000$$$::"Sim. Esse é o castelo escondido da família Einzbern.[lr]::
+13388::$$$message_0131_0047_0001$$$::Depois que sairmos daqui, vamos levar horas atravessando a floresta. Como já é noite, só devemos sair dela de manhã."::
+13389::$$$message_0131_0048_0000$$$::A Tohsaka segue pelo corredor sem hesitar.[lr]::
+13390::$$$message_0131_0048_0001$$$::Provavelmente está indo pra saída dos fundos por onde entrou.:: 
+13391::$$$message_0131_0049_0000$$$::"...Eu já sabia que era noite, mas... quanto tempo eu fiquei preso aqui?"[lr]::
+13392::$$$message_0131_0049_0001$$$::Pra mim pareceu só meio dia, mas pode ter sido mais do que isso.:: 
+13393::$$$message_0131_0050_0000$$$::"Você foi sequestrado pela Illyasviel hoje de manhã. Já se passou meio dia desde então.[lr]::
+13394::$$$message_0131_0050_0001$$$::...E como já passou da meia-noite, no fim das contas você ficou preso aqui por um dia inteiro."::
+13395::$$$message_0131_0051_0000$$$::"Ugh... entendi. Que vergonha."[lr]::
+13396::$$$message_0131_0051_0001$$$::"Não precisa se sentir assim. Você ficou preso pela Illyasviel esse tempo todo e ainda assim está bem. Isso só mostra que sua mente não cedeu, mesmo com o corpo aprisionado."::
+13397::$$$message_0131_0052_0000$$$::"[line2]...Talvez você tenha razão."[lr]::
+13398::$$$message_0131_0052_0001$$$::"Sim. A Illyasviel parece uma garota, mas é uma maga dos Einzbern. Se você tivesse perdido a vontade de resistir, não seria mais você."::
+13399::$$$message_0131_0053_0000$$$::"...Mas, sinceramente, eu considerei essa possibilidade. Vim até aqui preparada pra te encontrar morto, no pior dos casos."[lr]::
+13400::$$$message_0131_0053_0001$$$::"[line5]":: 
+13401::$$$message_0131_0054_0000$$$::"Por isso fico feliz de poder te ver de novo.[lr]::
+13402::$$$message_0131_0054_0001$$$::Se o meu Mestre está seguro, eu também não posso perder."::
+13403::$$$message_0131_0055_0000$$$::...A Saber diz isso com um leve sorriso.[lr]::
+13404::$$$message_0131_0055_0001$$$::Eu sinto o mesmo.:: 
+13405::$$$message_0131_0056_0000$$$::"Ei! Vocês estão tentando fugir ou não?[lr]::
+13406::$$$message_0131_0056_0001$$$::Se ficarem enrolando, eu vou deixar vocês pra trás...!!"[lr]::
+13407::$$$message_0131_0056_0002$$$::A Tohsaka grita do outro lado do corredor.:: 
+13408::$$$message_0131_0057_0000$$$::"Droga, não dá pra ficar conversando. Vamos logo, Saber."[lr]::
+13409::$$$message_0131_0057_0001$$$::Eu começo a correr, puxando a Saber comigo.[lr]::
 13410::$$$message_0131_0057_0002$$$::...![lr]::
-13411::$$$message_0131_0057_0003$$$::Eu sinto dor e desconforto a cada passo que dou, como se estivessem jorrando água fervente nas minhas veias.[lr]::
-13412::$$$message_0131_0058_0000$$$::Eu vou atrás da Tohsaka forçando o meu corpo dolorido a continuar andando.[lr]::
-13413::$$$message_0131_0058_0001$$$::A Saber está correndo atrás de mim como alguém que escolta uma pessoa doente.[lr]::
-13414::$$$message_0131_0058_0002$$$::...Ela deve estar sentindo dor.[lr]::
-13415::$$$message_0131_0058_0003$$$::A Saber está agindo com firmeza, mas ela não tem condições de se mover como deveria.::
-13416::$$$message_0131_0059_0000$$$::"Saber, se estiver com dor[line2]"[lr]::
-13417::$$$message_0131_0059_0001$$$::Eu paro de perguntar se ela precisa de ajuda.[lr]::
-13418::$$$message_0131_0059_0002$$$::Se tivesse dito isso, a Saber seria teimosa e continuaria correndo por conta própria.::
-13419::$$$message_0131_0060_0000$$$::Por enquanto eu deveria apenas ficar de olho nela.[lr]::
-13420::$$$message_0131_0060_0001$$$::Se a Saber parecer cansada ao ponto de não poder mais inventar desculpas, aí sim eu vou carregá-la.[lr]::
-13421::$$$message_0131_0060_0002$$$::...A Saber é bem complicada.[lr]::
-13422::$$$message_0131_0060_0003$$$::Essa garota teimosa não vai descansar até que eu faça isso para convencê-la.::
-13423::$$$message_0131_0061_0000$$$::[line2]E assim.[lr]::
-13424::$$$message_0131_0061_0001$$$::Seguindo o caminho da Tohsaka, nós chegamos até a saída do castelo.::
+13411::$$$message_0131_0057_0003$$$::A cada passo, sinto dor, como se água fervente estivesse correndo pelas minhas veias.:: 
+13412::$$$message_0131_0058_0000$$$::Eu sigo atrás da Tohsaka, forçando meu corpo a continuar.[lr]::
+13413::$$$message_0131_0058_0001$$$::A Saber corre logo atrás, como se estivesse escoltando alguém ferido.[lr]::
+13414::$$$message_0131_0058_0002$$$::...Ela também deve estar sentindo dor.[lr]::
+13415::$$$message_0131_0058_0003$$$::Ela age normalmente, mas claramente não consegue se mover como deveria.:: 
+13416::$$$message_0131_0059_0000$$$::"Saber, se estiver doendo[line2]"[lr]::
+13417::$$$message_0131_0059_0001$$$::Eu paro antes de terminar a frase.[lr]::
+13418::$$$message_0131_0059_0002$$$::Se eu perguntasse, ela só ignoraria e continuaria correndo.:: 
+13419::$$$message_0131_0060_0000$$$::Por enquanto, o melhor é só ficar de olho nela.[lr]::
+13420::$$$message_0131_0060_0001$$$::Se ela chegar ao ponto de não conseguir mais disfarçar, aí eu carrego ela.:: 
+13421::$$$message_0131_0060_0002$$$::...A Saber é complicada.[lr]::
+13422::$$$message_0131_0060_0003$$$::Ela é teimosa demais pra parar por conta própria.:: 
+13423::$$$message_0131_0061_0000$$$::[line2]E assim,[lr]::
+13424::$$$message_0131_0061_0001$$$::seguindo o caminho da Tohsaka, chegamos até a saída do castelo.:: 
 13425::$$$message_0131_0062_0000$$$::"Essa é a entrada principal, Tohsaka[line2]!?"[lr]::
-13426::$$$message_0131_0062_0001$$$::"...? Por que você está perguntando uma coisa óbvia? É para isso que as entradas servem, não? Esse é o caminho mais rápido para entrar ou sair."[lr]::
-13427::$$$message_0131_0062_0002$$$::A Tohsaka desce as escadas depressa.::
+13426::$$$message_0131_0062_0001$$$::"...? Por que está perguntando algo tão óbvio? É pra isso que servem entradas. Esse é o caminho mais rápido pra entrar e sair."[lr]::
+13427::$$$message_0131_0062_0002$$$::A Tohsaka desce as escadas sem hesitar.:: 
 13428::$$$message_0131_0063_0000$$$::"......"[lr]::
-13429::$$$message_0131_0063_0001$$$::...Bem, eu não posso reclamar.[lr]::
-13430::$$$message_0131_0063_0002$$$::Eu e a Saber descemos as escadas que levam ao saguão.[lr]::
-13431::$$$message_0131_0063_0003$$$::Esse deve ser o salão principal.[lr]::
-13432::$$$message_0131_0063_0004$$$::Então isso quer dizer que a saída está do outro lado do portão.::
-13433::$$$message_0131_0064_0000$$$::"Certo, nós estamos indo bem até aqui. O problema vai ser depois que entrarmos na floresta, mas já que está de noite, nós podemos chegar na estrada principal nos escondendo na escuridão.[lr]::
-13434::$$$message_0131_0064_0001$$$::Vai ser tarde demais quando a Illyasviel voltar e descobrir que você sumiu.[lr]::
-13435::$$$message_0131_0064_0002$$$::Quando ela voltar já vai estar de manhã... O que foi Shirou, por que você está com uma cara tão desanimada?"::
-13436::$$$message_0131_0065_0000$$$::"...Não é nada. Só estava percebendo mais uma vez como você é uma pessoa ousada."::
-13437::$$$message_0131_0066_0000$$$::"...? Você percebe as coisas mais estranhas nos lugares mais aleatórios."[lr]::
-13438::$$$message_0131_0066_0001$$$::...Como por exemplo, invadir o território inimigo pela entrada principal e ainda agir com confiança.::
-13439::$$$message_0131_0067_0000$$$::"Mas enfim. Vamos sair daqui. Eu me lembro do caminho de volta, então nós não vamos nos perder."::
-13440::$$$message_0131_0068_0000$$$::Nós vamos até a entrada.[lr]::
-13441::$$$message_0131_0068_0001$$$::É possível ver um longo corredor que liga o salão principal até o portão.[lr]::
-13442::$$$message_0131_0068_0002$$$::Isso é incrível, o saguão tem cerca de 30 metros de comprimento.[lr]::
-13443::$$$message_0131_0068_0003$$$::...Eu fico pensando como esse lugar é mesmo um castelo. E assim que começo a andar...::
-13444::$$$message_0131_0069_0000$$$::"[line2]Ah, vocês já estão indo embora? Que pena, vocês tiveram tanto trabalho para chegar até aqui..."::
-13445::$$$message_0131_0070_0000$$$::A voz da menina que não deveria estar aqui ecoa pelo saguão, acompanhando uma leve risada.::
+13429::$$$message_0131_0063_0001$$$::...Bom, não posso reclamar.[lr]::
+13430::$$$message_0131_0063_0002$$$::Eu e a Saber descemos atrás dela.[lr]::
+13431::$$$message_0131_0063_0003$$$::Deve ser o salão principal.[lr]::
+13432::$$$message_0131_0063_0004$$$::Ou seja, a saída fica além daquele portão.:: 
+13433::$$$message_0131_0064_0000$$$::"Certo, até aqui tudo bem. O problema é depois que entrarmos na floresta. Mas como esta de noite, dá pra chegar na estrada se escondendo na escuridão.[lr]::
+13434::$$$message_0131_0064_0001$$$::Quando a Illyasviel voltar e perceber que você sumiu, já vai ser tarde.[lr]::
+13435::$$$message_0131_0064_0002$$$::Quando ela voltar já vai estar de manhã... O que foi, Shirou? Por que essa cara?"::
+13436::$$$message_0131_0065_0000$$$::"...Nada. Só estava pensando como você é ousada."::
+13437::$$$message_0131_0066_0000$$$::"...? Você percebe umas coisas bem estranhas."[lr]::
+13438::$$$message_0131_0066_0001$$$::...Tipo invadir território inimigo pela entrada principal e agir como se fosse normal.:: 
+13439::$$$message_0131_0067_0000$$$::"Enfim, vamos. Eu lembro do caminho, então não vamos nos perder."::
+13440::$$$message_0131_0068_0000$$$::Nós seguimos até a entrada.[lr]::
+13441::$$$message_0131_0068_0001$$$::Dá pra ver um corredor longo ligando o salão ao portão.[lr]::
+13442::$$$message_0131_0068_0002$$$::É enorme... deve ter uns 30 metros.[lr]::
+13443::$$$message_0131_0068_0003$$$::...Realmente parece um castelo. E no momento em que começo a andar...::
+13444::$$$message_0131_0069_0000$$$::"[line2]Ah, já vão embora? Que pena. Depois de todo o trabalho que tiveram pra chegar até aqui..."::
+13445::$$$message_0131_0070_0000$$$::A voz de uma garota que não deveria estar aqui ecoa pelo salão, acompanhada de uma risada leve.:: 
 13446::$$$message_0131_0071_0000$$$::"[line2]!"[lr]::
 13447::$$$message_0131_0071_0001$$$::Eu me viro imediatamente.[lr]::
-13448::$$$message_0131_0071_0002$$$::Todos param.[lr]::
-13449::$$$message_0131_0071_0003$$$::Assim que vejo o "inimigo", eu entendo que vou morrer se me virar de costas novamente.::
+13448::$$$message_0131_0071_0002$$$::Todo mundo para.[lr]::
+13449::$$$message_0131_0071_0003$$$::Assim que vejo quem é, entendo que, se virar as costas, eu morro.:: 
 13450::$$$message_0131_0072_0000$$$::"Illya... sviel[line2]"[lr]::
-13451::$$$message_0131_0072_0001$$$::A voz da Tohsaka está tremendo.[lr]::
-13452::$$$message_0131_0072_0002$$$::Do outro lado do saguão.[lr]::
-13453::$$$message_0131_0072_0003$$$::Há uma coisa nas escadas de onde viemos que não deveria estar lá.::
-13454::$$$message_0131_0073_0000$$$::[line2]De certa forma, essa cena é igual a daquela outra vez.[lr]::
-13455::$$$message_0131_0073_0001$$$::A Illya está parada acima de nós com o Berserker logo atrás dela.[lr]::
-13456::$$$message_0131_0073_0002$$$::A presença do Berserker é esmagadora.[lr]::
-13457::$$$message_0131_0073_0003$$$::Agora que posso sentir a força de um Servo, eu consigo perceber o quanto ele é monstruoso.[lr]::
-13458::$$$message_0131_0073_0004$$$::....Que absurdo.[lr]::
-13459::$$$message_0131_0073_0005$$$::O nível dele não pode ser comparado com o da Saber mesmo em sua condição normal.::
-13460::$$$message_0131_0074_0000$$$::...Provavelmente isso nem vai ser uma disputa.[lr]::
-13461::$$$message_0131_0074_0001$$$::Essa coisa não é algo que possa ser derrotado em combate.[lr]::
-13462::$$$message_0131_0074_0002$$$::O único jeito de derrotar o Berserker seria eliminando-o sem lutar contra ele.[lr]::
-13463::$$$message_0131_0074_0003$$$::Em outras palavras.[lr]::
-13464::$$$message_0131_0074_0004$$$::Nós deveríamos ter evitado de nos encontrar se quiséssemos sobreviver.::
-13465::$$$message_0131_0075_0000$$$::"Boa noite. Estou feliz por você ter vindo me visitar, Rin."[lr]::
-13466::$$$message_0131_0075_0001$$$::A voz da Illya está animada.[lr]::
-13467::$$$message_0131_0075_0002$$$::Esse sorriso é o mesmo de oito dias atrás. Uma emoção inocente e impiedosa que mata qualquer inseto que captura.::
+13451::$$$message_0131_0072_0001$$$::A voz da Tohsaka treme.[lr]::
+13452::$$$message_0131_0072_0002$$$::Do outro lado do salão,[lr]::
+13453::$$$message_0131_0072_0003$$$::Há algo nas escadas de onde viemos que não deveria estar ali.:: 
+13454::$$$message_0131_0073_0000$$$::[line2]De certa forma, é igual àquela vez.[lr]::
+13455::$$$message_0131_0073_0001$$$::A Illya está parada acima de nós, com o Berserker atrás dela.[lr]::
+13456::$$$message_0131_0073_0002$$$::A presença dele é esmagadora.[lr]::
+13457::$$$message_0131_0073_0003$$$::Agora que consigo sentir o poder de um Servo, dá pra entender o quão absurdo ele é.[lr]::
+13458::$$$message_0131_0073_0004$$$::...Isso é ridículo.[lr]::
+13459::$$$message_0131_0073_0005$$$::Não dá nem pra comparar com a Saber, mesmo quando ela está em seu estado normal.:: 
+13460::$$$message_0131_0074_0000$$$::...Isso nem é uma luta.[lr]::
+13461::$$$message_0131_0074_0001$$$::Não é algo que possa ser derrotado em combate.[lr]::
+13462::$$$message_0131_0074_0002$$$::A única forma de vencer o Berserker seria derrotá-lo sem enfrentá-lo diretamente.[lr]::
+13463::$$$message_0131_0074_0003$$$::Ou seja,[lr]::
+13464::$$$message_0131_0074_0004$$$::A gente nunca deveria ter deixado isso virar um confronto.:: 
+13465::$$$message_0131_0075_0000$$$::"Boa noite. Fico feliz que tenha vindo me visitar, Rin."[lr]::
+13466::$$$message_0131_0075_0001$$$::A voz da Illya é animada.[lr]::
+13467::$$$message_0131_0075_0002$$$::O sorriso dela é o mesmo de oito dias atrás, inocente e cruel, como alguém que mata um inseto sem pensar duas vezes.:: 
 13468::$$$message_0131_0076_0000$$$::[line2]Agora eu entendi.[lr]::
-13469::$$$message_0131_0076_0001$$$::Nós não vamos conseguir sair daqui.[lr]::
-13470::$$$message_0131_0076_0002$$$::Eu não vou poder impedir a Illya, não importa o que eu faça.[lr]::
-13471::$$$message_0131_0076_0003$$$::Mesmo que eu consiga chamar a atenção dela, isso não significa que todos os outros conseguirão escapar.::
-13472::$$$message_0131_0077_0000$$$::"Qual é o problema? Vai ser chato se vocês não falarem nada. Eu estou dando tempo a vocês, então acho que seria melhor deixarem pelo menos alguma determinação para trás."::
-13473::$$$message_0131_0078_0000$$$::Ela dá uma leve risada.[lr]::
-13474::$$$message_0131_0078_0001$$$::...Mas nós não temos essa mesma compostura.[lr]::
-13475::$$$message_0131_0078_0002$$$::Nós vamos fugir até a entrada se aparecer alguma chance.[lr]::
-13476::$$$message_0131_0078_0003$$$::Mesmo que a gente saiba que uma oportunidade dessas não vai surgir, nós não temos escolha a não ser torcer por uma.::
+13469::$$$message_0131_0076_0001$$$::Não vamos conseguir sair daqui.[lr]::
+13470::$$$message_0131_0076_0002$$$::Não importa o que eu faça, não consigo impedir a Illya.[lr]::
+13471::$$$message_0131_0076_0003$$$::Mesmo que eu chame a atenção dela, isso não garante que os outros vão conseguir escapar.:: 
+13472::$$$message_0131_0077_0000$$$::"Qual é? Vai ser sem graça se vocês ficarem calados. Já que estou dando tempo, pelo menos deixem alguma última palavra."::
+13473::$$$message_0131_0078_0000$$$::Ela dá uma risada leve.[lr]::
+13474::$$$message_0131_0078_0001$$$::...Mas nós não temos essa mesma calma.[lr]::
+13475::$$$message_0131_0078_0002$$$::Se surgir alguma chance, vamos correr até a saída.[lr]::
+13476::$$$message_0131_0078_0003$$$::Mesmo sabendo que essa chance provavelmente não existe, não temos escolha além de acreditar nela.:: 
 13477::$$$message_0131_0079_0000$$$::"...Então, deixa eu te perguntar uma coisa."[lr]::
-13478::$$$message_0131_0079_0001$$$::Mas ainda assim.[lr]::
-13479::$$$message_0131_0079_0002$$$::A Tohsaka dá um passo em direção à Illya.::
-13480::$$$message_0131_0080_0000$$$::"Illyasviel. Eu não senti você voltar, então... você estava se escondendo aqui esse tempo todo?"::
-13481::$$$message_0131_0081_0000$$$::"Isso mesmo. Eu nunca saí para lugar nenhum. Eu só estava observando vocês se fazerem de bobos."[lr]::
-13482::$$$message_0131_0081_0001$$$::"[line2]Entendo. Então quem tinha saído do castelo era uma imitação sua?"::
+13478::$$$message_0131_0079_0001$$$::Mesmo assim,[lr]::
+13479::$$$message_0131_0079_0002$$$::a Tohsaka dá um passo à frente, na direção da Illya.:: 
+13480::$$$message_0131_0080_0000$$$::"Illyasviel. Eu não senti você voltar, então... você esteve escondida aqui esse tempo todo?"::
+13481::$$$message_0131_0081_0000$$$::"Isso mesmo. Eu nunca saí daqui. Só fiquei observando vocês se fazendo de bobos."[lr]::
+13482::$$$message_0131_0081_0001$$$::"[line2]Entendi. Então quem saiu do castelo era uma cópia sua?"::
 13483::$$$message_0131_0082_0000$$$::"Sim. Afinal, eu já sabia que vocês estavam vindo.[lr]::
-13484::$$$message_0131_0082_0001$$$::Eu sou a anfitriã daqui, então eu tenho que dar boas vindas às minhas visitas, não acha?"::
-13485::$$$message_0131_0083_0000$$$::De repente, a figura gigante some de vista.[lr]::
-13486::$$$message_0131_0083_0001$$$::Eu não sei se ele pulou ou se simplesmente se moveu até ali.[lr]::
-13487::$$$message_0131_0083_0002$$$::O Berserker aparece no meio do saguão, formando uma brisa de vento ao seu redor.::
-13488::$$$message_0131_0084_0000$$$::...Nós estamos acabados.[lr]::
-13489::$$$message_0131_0084_0001$$$::Se tentarmos fugir, seremos cortados ao meio assim que nos virarmos de costas.[lr]::
-13490::$$$message_0131_0084_0002$$$::Mas nós seremos mortos por ele do mesmo jeito se ficarmos parados.[lr]::
-13491::$$$message_0131_0084_0003$$$::A única alternativa seria tentar desafiar essa massa de destruição, mesmo sabendo que seria inútil.::
-13492::$$$message_0131_0085_0000$$$::"Isso é tudo o que têm a dizer? Então vamos começar, Berserker."[lr]::
-13493::$$$message_0131_0085_0001$$$::A menina ergue a mão como se estivesse iniciando um ritual, nos olha com menosprezo, e...[lr]::
-13494::$$$message_0131_0085_0002$$$::"[line2]Eu prometo. Hoje não vou deixar ninguém sair daqui."[lr]::
-13495::$$$message_0131_0085_0003$$$::...Ela diz isso ao mesmo tempo com paixão e intenção de matar.::
-13496::$$$message_0131_0086_0000$$$::Os olhos do Berserker ficam iluminados.[lr]::
-13497::$$$message_0131_0086_0001$$$::...O Servo que esteve obedecendo à Illya até agora tem a sua mente libertada e rapidamente nos identifica como inimigos.::
+13484::$$$message_0131_0082_0001$$$::Eu sou a dona deste lugar. Preciso dar boas-vindas às minhas visitas, não acha?"::
+13485::$$$message_0131_0083_0000$$$::De repente, a figura gigante desaparece.[lr]::
+13486::$$$message_0131_0083_0001$$$::Não sei se ele saltou ou simplesmente se moveu até ali.[lr]::
+13487::$$$message_0131_0083_0002$$$::O Berserker surge no meio do salão, levantando uma rajada de vento.:: 
+13488::$$$message_0131_0084_0000$$$::...Acabou.[lr]::
+13489::$$$message_0131_0084_0001$$$::Se tentarmos fugir, vamos ser cortados no instante em que virarmos as costas.[lr]::
+13490::$$$message_0131_0084_0002$$$::Mas também morreremos se ficarmos parados.[lr]::
+13491::$$$message_0131_0084_0003$$$::A única opção é enfrentá-lo, mesmo sabendo que é inútil.:: 
+13492::$$$message_0131_0085_0000$$$::"Isso é tudo o que tem a dizer? Então vamos começar, Berserker."[lr]::
+13493::$$$message_0131_0085_0001$$$::A garota ergue a mão como se iniciasse um ritual, nos olha com desprezo e...[lr]::
+13494::$$$message_0131_0085_0002$$$::"[line2]Eu prometo. Hoje, ninguém vai sair daqui.":: 
+13495::$$$message_0131_0085_0003$$$::...Ela diz isso com um brilho assassino nos olhos.:: 
+13496::$$$message_0131_0086_0000$$$::Os olhos do Berserker brilham.[lr]::
+13497::$$$message_0131_0086_0001$$$::...O Servo, até então sob controle, tem sua mente liberada e nos reconhece como inimigos.:: 
 13498::$$$message_0131_0087_0000$$$::"[line5]"[lr]::
 13499::$$$message_0131_0087_0001$$$::O som de dentes rangendo.[lr]::
 13500::$$$message_0131_0087_0002$$$::"Tohsaka...?"[lr]::
-13501::$$$message_0131_0087_0003$$$::A Tohsaka range os dentes com força, como se estivesse se arrependendo de algo.::
+13501::$$$message_0131_0087_0003$$$::Ela cerra os dentes, como se estivesse se arrependendo.:: 
 13502::$$$message_0131_0088_0000$$$::"...Archer, consegue me ouvir?"[lr]::
-13503::$$$message_0131_0088_0001$$$::Ela sussurra sem se virar para trás.[lr]::
-13504::$$$message_0131_0088_0002$$$::"[line2]Só precisamos de um pouco de tempo. Faça com que ele fique ocupado."[lr]::
-13505::$$$message_0131_0088_0003$$$::Ela ordena que o seu Servo morra.::
+13503::$$$message_0131_0088_0001$$$::Ela fala baixo, sem se virar.[lr]::
+13504::$$$message_0131_0088_0002$$$::"[line2]Só precisamos de tempo. Segure ele.":: 
+13505::$$$message_0131_0088_0003$$$::Ela ordena que seu Servo se mate.:: 
 13506::$$$message_0131_0089_0000$$$::"[line5]"[lr]::
 13507::$$$message_0131_0089_0001$$$::O Archer não responde.[lr]::
-13508::$$$message_0131_0089_0002$$$::"Que absurdo...! Você enlouqueceu, Rin? O Archer não tem chance contra o Berserker sozinho...!"[lr]::
-13509::$$$message_0131_0089_0003$$$::"Nós vamos fugir enquanto você faz isso. Archer, ganhe tempo para que a gente consiga escapar."::
-13510::$$$message_0131_0090_0000$$$::A Tohsaka ignora a Saber e continua a dar as suas instruções.[lr]::
-13511::$$$message_0131_0090_0001$$$::Ela não demonstra emoção em sua voz.::
+13508::$$$message_0131_0089_0002$$$::"Isso é loucura...! Você perdeu a cabeça, Rin? O Archer não tem chance contra o Berserker sozinho...!"[lr]::
+13509::$$$message_0131_0089_0003$$$::"Nós vamos fugir enquanto isso. Archer, ganhe tempo.":: 
+13510::$$$message_0131_0090_0000$$$::A Tohsaka ignora a Saber e continua dando ordens.[lr]::
+13511::$$$message_0131_0090_0001$$$::A voz dela não demonstra emoção.:: 
 13512::$$$message_0131_0091_0000$$$::"[line5]"[lr]::
-13513::$$$message_0131_0091_0001$$$::O Archer, que esteve em silêncio como se considerasse algo, acena silenciosamente e...[lr]::
-13514::$$$message_0131_0091_0002$$$::"Bem pensado. Eu consigo escapar se vocês forem na frente.[lr]::
-13515::$$$message_0131_0091_0003$$$::Afinal, as ações independentes são uma especialidade da classe Archer."[lr]::
-13516::$$$message_0131_0091_0004$$$::...Dá um passo a frente para proteger a Tohsaka.::
+13513::$$$message_0131_0091_0001$$$::O Archer, após ficar em silêncio por um momento, assente e...[lr]::
+13514::$$$message_0131_0091_0002$$$::"Boa ideia. Se vocês forem na frente, eu consigo escapar.[lr]::
+13515::$$$message_0131_0091_0003$$$::Afinal, Ação Independente é a especialidade da classe Archer.":: 
+13516::$$$message_0131_0091_0004$$$::...Ele avança, protegendo a Tohsaka.:: 
 13517::$$$message_0131_0092_0000$$$::O Berserker não se move.[lr]::
-13518::$$$message_0131_0092_0001$$$::Tudo o que ouvimos é a risada da Illya vindo de cima.::
-13519::$$$message_0131_0093_0000$$$::"Eh, estou impressionada. Vocês estão dizendo que um Servo desconhecido como ele é capaz de parar o meu Hércules?[lr]::
-13520::$$$message_0131_0093_0001$$$::Você tem um lado bem fofo, Rin."::
+13518::$$$message_0131_0092_0001$$$::Só se ouve a risada da Illya ecoando acima.:: 
+13519::$$$message_0131_0093_0000$$$::"Oh? Impressionante. Vocês acham mesmo que um Servo como ele pode parar o meu Hércules?[lr]::
+13520::$$$message_0131_0093_0001$$$::Você é até fofa às vezes, Rin.":: 
 13521::$$$message_0131_0094_0000$$$::"[line2]"[lr]::
-13522::$$$message_0131_0094_0001$$$::Nem a Tohsaka, e nem o Archer têm compostura o bastante para respondê-la.[lr]::
-13523::$$$message_0131_0094_0002$$$::Eles sabem disso mais do que qualquer um.::
-13524::$$$message_0131_0095_0000$$$::O Archer dá um passo a frente.[lr]::
-13525::$$$message_0131_0095_0001$$$::Ele está de mãos vazias, como de costume.::
+13522::$$$message_0131_0094_0001$$$::Nem Tohsaka, nem Archer respondem.[lr]::
+13523::$$$message_0131_0094_0002$$$::Eles sabem a verdade melhor do que ninguém.:: 
+13524::$$$message_0131_0095_0000$$$::O Archer dá um passo à frente.[lr]::
+13525::$$$message_0131_0095_0001$$$::Como sempre, está desarmado.:: 
 13526::$$$message_0131_0096_0000$$$::"......"[lr]::
-13527::$$$message_0131_0096_0001$$$::A Tohsaka está olhando para as costas do Archer.[lr]::
-13528::$$$message_0131_0096_0002$$$::...Ela não deve ter mais nada a dizer para ele.[lr]::
-13529::$$$message_0131_0096_0003$$$::A própria Tohsaka deveria saber que a ordem dela não faz sentido.[lr]::
-13530::$$$message_0131_0096_0004$$$::Porque ela pediu para o seu Servo se sacrificar para que nós pudéssemos escapar.::
-13531::$$$message_0131_0097_0000$$$::"...Archer, eu-"[lr]::
-13532::$$$message_0131_0097_0001$$$::A Tohsaka começa a dizer alguma coisa.[lr]::
-13533::$$$message_0131_0097_0002$$$::Mas...[lr]::
-13534::$$$message_0131_0097_0003$$$::"Aliás, Rin. Posso confirmar uma coisa com você?"[lr]::
-13535::$$$message_0131_0097_0004$$$::...O Archer a interrompe com um tom de voz que não combina com a situação.::
-13536::$$$message_0131_0098_0000$$$::"...Tudo bem. O que é?"[lr]::
-13537::$$$message_0131_0098_0001$$$::A Tohsaka olha para o Archer com olhos deprimidos.[lr]::
-13538::$$$message_0131_0098_0002$$$::Ainda virado para o Berserker...::
-13539::$$$message_0131_0099_0000$$$::"Bem. Eu não me importo em ganhar tempo para vocês, mas[line2][r][wsay canskip=1]::
-13540::$$$message_0131_0099_0001$$$::Não tem problema se eu acabar derrotando essa coisa, não é?"[lr]::
-13541::$$$message_0131_0099_0002$$$::...o Archer diz algo inesperado.::
-13542::$$$message_0131_0100_0000$$$::"Archer, você[line2]::
-13543::$$$message_0131_0101_0000$$$::[line2]Sim, você não precisa se segurar.[lr]::
-13544::$$$message_0131_0101_0001$$$::Mostre para ele do que você é feito, Archer!"::
-13545::$$$message_0131_0102_0000$$$::"Entendo. Então eu não vou te decepcionar."[lr]::
-13546::$$$message_0131_0102_0001$$$::O Archer segue em frente.[lr]::
-13547::$$$message_0131_0102_0002$$$::Há apenas dez metros de distância entre ele e o Berserker.[lr]::
-13548::$$$message_0131_0102_0003$$$::Essa coisa deve conseguir anular essa distância em um piscar de olhos.::
-13549::$$$message_0131_0103_0000$$$::"...!! Estão zombando de mim...! Está bem, vá em frente Berserker! Pode esmagar esse cara arrogante em pedaços...!"[lr]::
-13550::$$$message_0131_0103_0001$$$::A Illya diz isso com raiva.[lr]::
-13551::$$$message_0131_0103_0002$$$::A Tohsaka se vira para trás, sem prestar atenção no que está acontecendo.::
-13552::$$$message_0131_0104_0000$$$::"[line2]Vamos embora. Sair daqui já será uma vitória para nós."[lr]::
-13553::$$$message_0131_0104_0001$$$::A Tohsaka segura a minha mão e a mão da Saber e começa a correr.::
+13527::$$$message_0131_0096_0001$$$::A Tohsaka observa as costas dele.[lr]::
+13528::$$$message_0131_0096_0002$$$::...Ela já não tem mais nada a dizer.:: 
+13529::$$$message_0131_0096_0003$$$::Ela mesma sabe que essa ordem não faz sentido.[lr]::
+13530::$$$message_0131_0096_0004$$$::Porque pediu para ele se sacrificar por nós.:: 
+13531::$$$message_0131_0097_0000$$$::"...Archer, eu"[lr]::
+13532::$$$message_0131_0097_0001$$$::Ela tenta dizer algo.[lr]::
+13533::$$$message_0131_0097_0002$$$::Mas...:: 
+13534::$$$message_0131_0097_0003$$$::"Aliás, Rin. Posso confirmar uma coisa?"[lr]::
+13535::$$$message_0131_0097_0004$$$::...Archer a interrompe, num tom inesperadamente calmo.:: 
+13536::$$$message_0131_0098_0000$$$::"...Tudo bem. O que foi?"[lr]::
+13537::$$$message_0131_0098_0001$$$::Ela olha pra ele com um semblante abatido.[lr]::
+13538::$$$message_0131_0098_0002$$$::Ainda de frente para o Berserker...:: 
+13539::$$$message_0131_0099_0000$$$::"Não me importo em ganhar tempo, mas[line2]"[lr]::
+13540::$$$message_0131_0099_0001$$$::"Não tem problema se eu acabar derrotando ele aqui?"[lr]::
+13541::$$$message_0131_0099_0002$$$::...Archer diz algo completamente inesperado.:: 
+13542::$$$message_0131_0100_0000$$$::"Archer, você[line2]":: 
+13543::$$$message_0131_0101_0000$$$::"[line2]Sim. Não precisa se segurar.[lr]::
+13544::$$$message_0131_0101_0001$$$::Mostre do que você é capaz, Archer!":: 
+13545::$$$message_0131_0102_0000$$$::"Entendi. Então não vou decepcionar."[lr]::
+13546::$$$message_0131_0102_0001$$$::Archer avança.[lr]::
+13547::$$$message_0131_0102_0002$$$::A distância entre ele e o Berserker é de apenas dez metros.[lr]::
+13548::$$$message_0131_0102_0003$$$::Uma distância que pode desaparecer em um instante.:: 
+13549::$$$message_0131_0103_0000$$$::"...!! Estão zombando de mim...! Muito bem, Berserker! Esmague esse arrogante...!"[lr]::
+13550::$$$message_0131_0103_0001$$$::Illya grita, irritada.[lr]::
+13551::$$$message_0131_0103_0002$$$::A Tohsaka vira de costas, ignorando a luta.:: 
+13552::$$$message_0131_0104_0000$$$::"[line2]Vamos. Sair daqui já é vitória suficiente.":: 
+13553::$$$message_0131_0104_0001$$$::Ela segura minha mão e a da Saber, e começa a correr.:: 
 13554::$$$message_0131_0105_0000$$$::"[line5]"[lr]::
-13555::$$$message_0131_0105_0001$$$::A Saber segue a Tohsaka sem dizer nada.[lr]::
-13556::$$$message_0131_0105_0002$$$::...Eu começo a correr até o portão, deixando o Archer para trás.[lr]::
-13557::$$$message_0131_0105_0003$$$::Porém, atrás de mim...[lr]::
-13558::$$$message_0131_0105_0004$$$::"Emiya Shirou."[lr]::
-13559::$$$message_0131_0105_0005$$$::Ele me para, ainda estando virado de costas.::
+13555::$$$message_0131_0105_0001$$$::Saber segue em silêncio.[lr]::
+13556::$$$message_0131_0105_0002$$$::...Eu também corro em direção ao portão.:: 
+13557::$$$message_0131_0105_0003$$$::Mas então...[lr]::
+13558::$$$message_0131_0105_0004$$$::"Emiya Shirou.":: 
+13559::$$$message_0131_0105_0005$$$::Ele me chama, ainda de costas.:: 
 13560::$$$message_0131_0106_0000$$$::"[line5]"[lr]::
-13561::$$$message_0131_0106_0001$$$::Eu largo a mão da Tohsaka e volto a minha atenção para ele.[lr]::
-13562::$$$message_0131_0106_0002$$$::No saguão, não muito longe de mim, posso ver as costas de um homem que está encarando o Berserker.::
-13563::$$$message_0131_0107_0000$$$::"[line2]Preste atenção. Você é um forjador, e não um guerreiro."[lr]::
-13564::$$$message_0131_0107_0001$$$::O Berserker parte para cima do Archer.[lr]::
-13565::$$$message_0131_0107_0002$$$::Ele encara o seu inimigo sem se afastar, ainda de mãos vazias.::
-13566::$$$message_0131_0108_0000$$$::"Não fique se preocupando com besteiras. Só há uma coisa que você é capaz de fazer. Portanto, domine essa única coisa."[lr]::
-13567::$$$message_0131_0108_0001$$$::O Archer levanta a sua mão.[lr]::
-13568::$$$message_0131_0108_0002$$$::Eu não sei de onde ele tirou isso, mas agora ele está segurando aquela espada curta.::
-13569::$$$message_0131_0109_0000$$$::"[line2]Não se esqueça disso. Você sempre deve pensar que é o mais forte. Inimigos externos são desnecessários. A única pessoa com quem você deve lutar é contra o seu próprio reflexo."[lr]::
-13570::$$$message_0131_0109_0001$$$::As costas vermelhas somem de vista.[lr]::
-13571::$$$message_0131_0109_0002$$$::O Berserker liberta toda a sua fúria em seu ataque.::
-13572::$$$message_0131_0110_0000$$$::Eu começo a correr sem observar a luta entre os dois.[lr]::
-13573::$$$message_0131_0110_0001$$$::A Tohsaka e a Saber já estão na entrada.[lr]::
+13561::$$$message_0131_0106_0001$$$::Eu solto a mão da Tohsaka e me viro.:: 
+13562::$$$message_0131_0106_0002$$$::No salão, vejo as costas de um homem encarando o Berserker.:: 
+13563::$$$message_0131_0107_0000$$$::"[line2]Preste atenção. Você não é um guerreiro. É alguém que cria.":: 
+13564::$$$message_0131_0107_0001$$$::O Berserker avança.[lr]::
+13565::$$$message_0131_0107_0002$$$::Archer não recua, ainda de mãos vazias.:: 
+13566::$$$message_0131_0108_0000$$$::"Pare de se preocupar com bobagens. Só existe uma coisa que você pode fazer. Então, domine isso.":: 
+13567::$$$message_0131_0108_0001$$$::Archer levanta a mão.[lr]::
+13568::$$$message_0131_0108_0002$$$::Sem que eu perceba, ele já segura uma espada curta.:: 
+13569::$$$message_0131_0109_0000$$$::"[line2]Não esqueça. Sempre pense que você é o mais forte. Inimigos externos não importam. O único adversário que você deve enfrentar é o seu próprio reflexo.":: 
+13570::$$$message_0131_0109_0001$$$::As costas vermelhas desaparecem da minha vista.[lr]::
+13571::$$$message_0131_0109_0002$$$::O Berserker libera toda sua força em um golpe.:: 
+13572::$$$message_0131_0110_0000$$$::Eu começo a correr sem olhar para trás.[lr]::
+13573::$$$message_0131_0110_0001$$$::A Tohsaka e a Saber já estão na saída.[lr]::
 13574::$$$message_0131_0110_0002$$$::[line2]Eu corro sem olhar para trás.[lr]::
-13575::$$$message_0131_0110_0003$$$::As costas vermelhas estão me dizendo para ir de uma vez por todas.::
+13575::$$$message_0131_0110_0003$$$::As costas vermelhas parecem dizer: siga em frente.:: 
+

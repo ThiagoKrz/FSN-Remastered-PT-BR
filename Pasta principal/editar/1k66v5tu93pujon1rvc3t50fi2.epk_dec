@@ -1,75 +1,75 @@
 DAT
 id=qid::label=str::text=lstr::
 2043::$$$message_0017_0000_0000$$$::"Bem, devo pelo menos lavar o chão."[lr]::
-2044::$$$message_0017_0000_0001$$$::Já disse pra Saber vir aqui daqui a pouco.[lr]::
-2045::$$$message_0017_0000_0002$$$::Sempre faço o mínimo de limpeza necessário, mas faz alguns anos desde que tive um torneio com alguém.[lr]::
-2046::$$$message_0017_0000_0003$$$::Seria mal educado para o dojo e para a Saber se eu não limpar o chão pelo menos.::
-2047::$$$message_0017_0001_0000$$$::"...mas cara. Me pergunto o que ela vai fazer eu fazer."::
-2048::$$$message_0017_0002_0000$$$::Lutei com o Kiritsugu algumas vezes com shinais, mas nenhum de nós considerou forma e foi mais como amadores acertando um ao outro.[lr]::
+2044::$$$message_0017_0000_0001$$$::Já disse pra Saber vir aqui depois.[lr]::
+2045::$$$message_0017_0000_0002$$$::Sempre faço o mínimo de limpeza necessário, mas já faz anos que não faço uma manutenção assim.[lr]::
+2046::$$$message_0017_0000_0003$$$::Vai ser falta de consideração com o dojo e com a Saber se eu não der pelo menos uma limpada no chão.::
+2047::$$$message_0017_0001_0000$$$::"...Mas, ainda assim... mesmo chamando isso de treino de espada, o que será que ela vai me mandar fazer?"::
+2048::$$$message_0017_0002_0000$$$::Já troquei golpes com o Kiritsugu algumas vezes usando shinai, mas nem eu nem ele ligávamos muito pra técnica. No fim, era mais uma briga de amadores se acertando.[lr]::
 2049::$$$message_0017_0002_0001$$$::Nunca planejei levar kendo a sério, e só fui ensinado o que fazer se um oponente tiver uma arma longa.::
-2050::$$$message_0017_0003_0000$$$::"...enfim, eu não era bom em usar coisas pra lutar. Estou apenas interessado em fazer e consertar."::
+2050::$$$message_0017_0003_0000$$$::"...Enfim, eu nunca fui bom em usar armas ou ferramentas pra lutar. Acho que meu interesse sempre esteve mais em fazer e consertar coisas."::
 2051::$$$message_0017_0004_0000$$$::Nesse caso, é a primeira vez que estarei estudando luta com espadas de modo sério.[lr]::
 2052::$$$message_0017_0004_0001$$$::Parece que o estilo da Saber é diferente do kendo, mas deve haver algumas similaridades e não deve ser tão confuso ao ponto de eu não entender.::
-2053::$$$message_0017_0005_0000$$$::Eu ouço a porta.[lr]::
-2054::$$$message_0017_0005_0001$$$::A Saber deve ter chegado a tempo.[lr]::
-2055::$$$message_0017_0005_0002$$$::Isso é bom, já que acabei de limpar também.::
-2056::$$$message_0017_0006_0000$$$::"Desculpe por deixar você esperando. Estarei aprendendo a partir de [r]hoje[line3]"[lr]::
+2053::$$$message_0017_0005_0000$$$::Ouço o barulho da porta.[lr]::
+2054::$$$message_0017_0005_0001$$$::A Saber deve ter chegado na hora certa.[lr]::
+2055::$$$message_0017_0005_0002$$$::Ainda bem, eu também acabei de terminar de limpar.::
+2056::$$$message_0017_0006_0000$$$::"Desculpe por deixar você esperando. Hoje, vou treinar aqui com a sua [r]orientação[line3]"[lr]::
 2057::$$$message_0017_0006_0001$$$::"...? Que foi, Shirou? Você parece surpreso com algo."::
-2058::$$$message_0017_0007_0000$$$::"Fazer[line2]o que, estou surpreso porque você ainda está usando essas roupas. Pensei que você estaria com a outra roupa."[lr]::
-2059::$$$message_0017_0007_0001$$$::Estamos treinando com espadas e minha imagem da Saber lutando é naquela armadura, então egoisticamente imaginei aquilo.::
-2060::$$$message_0017_0008_0000$$$::"Entendo. Se você deseja que eu esteja armada, posso ficar. ...Você tem razão, eu não estava pensando.[lr]::
-2061::$$$message_0017_0008_0001$$$::Embora seja uma simples partida, é falta de respeito ao Shirou não usar minha armadura. Me desculpe, trocarei neste instante."::
-2062::$$$message_0017_0009_0000$$$::"Ah[line2]não, não é isso. Tudo bem, foi um mal entendido. Se você me perguntar, eu prefiro essa roupa à armadura."::
-2063::$$$message_0017_0010_0000$$$::"Huh...? Mas essa aparência não te satisfaz, não?"[lr]::
-2064::$$$message_0017_0010_0001$$$::"Satisfaz... bem, certamente não parece que você vai participar de uma partida agora, mas não deve ser problema se for fácil de se mexer. Você ficaria cansada se usasse aquela armadura."::
-2065::$$$message_0017_0011_0000$$$::"Isso é verdade, mas[line2]não seria estranho pra mim usar uma espada com essa aparência?"[lr]::
+2058::$$$message_0017_0007_0000$$$::"Ah[line2]não, estou surpreso porque você ainda está usando essas roupas. Achei que viria com aquela outra."[lr]::
+2059::$$$message_0017_0007_0001$$$::Como é treino de espada, e quando penso na Saber lutando a imagem que me vem é a dela de armadura, acabei presumindo isso sozinho.::
+2060::$$$message_0017_0008_0000$$$::"Entendo. Se você deseja que eu esteja armada, posso ficar. ...Sim, a falha foi minha.[lr]::
+2061::$$$message_0017_0008_0001$$$::Mesmo que seja só um treino, ainda assim continua sendo treino. Me desculpe, trocarei neste instante."::
+2062::$$$message_0017_0009_0000$$$::"Ah[line2]não, não é isso. Foi só um mal entendido. Pra falar a verdade.. eu prefiro você assim do que de armadura."::
+2063::$$$message_0017_0010_0000$$$::"Huh...? Mas, nesse caso, essa roupa não vai te incomodar?"[lr]::
+2064::$$$message_0017_0010_0001$$$::"Não é bem isso...Não to dizendo que seja por causa da roupa, mas se é mais fácil pra você se mover assim, então não tem problema. Se passasse o dia inteiro de armadura, até você ia acabar cansando."::
+2065::$$$message_0017_0011_0000$$$::"Isso é verdade, mas[line2]não seria estranho pra mim usar uma espada com essa roupa?"[lr]::
 2066::$$$message_0017_0011_0001$$$::"Por que? Fica bem em você, então não há nada estranho nisso.[lr]::
-2067::$$$message_0017_0011_0002$$$::Acho que fica melhor em você do que na armadura."::
+2067::$$$message_0017_0011_0002$$$::Acho que você fica melhor assim do que de armadura."::
 2068::$$$message_0017_0012_0000$$$::"...? Não consigo entender. Essas roupas são certamente leves, mas elas não aguentariam uma luta. Acredito que essa roupa não é adequada para a classe Saber."[lr]::
-2069::$$$message_0017_0012_0001$$$::"Não lute nessa roupa, idiota. Você é uma menina. E essas roupas combinam com garotas, então não tem problema."::
+2069::$$$message_0017_0012_0001$$$::"Você não vai lutar com essa roupa, sua idiota. Você é uma garota, Saber. E esse tipo de roupa fica bem em garotas. Então não tem problema."::
 2070::$$$message_0017_0013_0000$$$::Bem.[lr]::
-2071::$$$message_0017_0013_0001$$$::Coloco o trapo que eu estava usando no balde e pego duas shinais da parede.::
+2071::$$$message_0017_0013_0001$$$::Coloco o pano de volta no balde e pego duas shinais da parede.::
 2072::$$$message_0017_0014_0000$$$::"Bem. Então que tipo de treinamento deveríamos fazer? Vou deixar você decidir, então escolha qualquer coisa."[lr]::
 2073::$$$message_0017_0014_0001$$$::Eu jogo uma shinai pra Saber.::
-2074::$$$message_0017_0015_0000$$$::A Saber pega a shinai como se ela tivesse distraída, e olha pra mim.::
+2074::$$$message_0017_0015_0000$$$::Saber pegou a shinai com um ar ausente e ficou me encarando com atenção.::
 2075::$$$message_0017_0016_0000$$$::"...? Que? Não podemos usar shinai?[lr]::
-2076::$$$message_0017_0016_0001$$$::N-não me diga pra usar espadas de madeira sólida[line2]não, espadas de verdade!"[lr]::
+2076::$$$message_0017_0016_0001$$$::N-não me diga pra usar bokutou[line2]não, pior, espadas de verdade, né?!"[lr]::
 2077::$$$message_0017_0016_0002$$$::Que espartano! Isso vai bem além do que eu esperava.::
 2078::$$$message_0017_0017_0000$$$::"Ah[line2]não, não precisamos disso. Já que elas são imitações excelentes para lutas, vamos usar elas."[lr]::
 2079::$$$message_0017_0017_0001$$$::A Saber respira fundo silenciosamente.[lr]::
 2080::$$$message_0017_0017_0002$$$::E ela volta ao normal.::
-2081::$$$message_0017_0018_0000$$$::"Graças a Deus. É muito perigoso lutar com espadas de madeira sólida.[lr]::
+2081::$$$message_0017_0018_0000$$$::"Graças a Deus. É muito perigoso lutar com bokutou.[lr]::
 2082::$$$message_0017_0018_0001$$$::...então, o que eu devo fazer? Devemos começar com exercícios de fortalecimento como balançar a espada quinhentas vezes ou correr?"::
-2083::$$$message_0017_0019_0000$$$::"Acho que não vamos precisar disso. Pelo o que eu vi, sua força é mais do que o suficiente. Se deseja treinar seu corpo ainda mais, isso não seria possível em um dia ou dois."::
-2084::$$$message_0017_0020_0000$$$::"Você é inabilidoso como mago, mas não acho que você seja tão ruim como guerreiro. Você deve ter treinado bastante quando jovem."[lr]::
+2083::$$$message_0017_0019_0000$$$::"Não precisa disso. Pelo o que eu vejo, sua capacidade fisica já está num nivel aceitável. Se fosse para elevar mais o corpo, isso não se conseguiria em um ou dois dias."::
+2084::$$$message_0017_0020_0000$$$::"Você é inabilidoso como mago, mas não acho que seja tão ruim como guerreiro. Da para ver que você se treinou seriamente desde criança."[lr]::
 2085::$$$message_0017_0020_0001$$$::"Uh[line2]bem, era a única coisa em que eu era bom. Você pode treinar seu corpo mesmo se não tiver talento como mago."::
-2086::$$$message_0017_0021_0000$$$::"Deve ser boa fortuna então. O resultado do seu esforço foi não morrer quando o Lancer te atacou."::
-2087::$$$message_0017_0022_0000$$$::"Mas não é algo em que você pode confiar.[lr]::
-2088::$$$message_0017_0022_0001$$$::Humanos tem limites. Seu corpo é como um longa estrada para acabar com esses limites e seria difícil superar eles mesmo.[lr]::
-2089::$$$message_0017_0022_0002$$$::Então a única coisa que te ensinarei é como lutar."::
-2090::$$$message_0017_0023_0000$$$::"...? Como assim 'só lutar'? Do jeito que você disse, não parece que você vai estar me ensinando a lutar."::
+2086::$$$message_0017_0021_0000$$$::"Isso provavelmente o ajudou. Você ter sobrevivido ao ataque do Lancer deve ter sido resultado do seu esforço."::
+2087::$$$message_0017_0022_0000$$$::"Mas não é algo em que você pode servir como arma real.[lr]::
+2088::$$$message_0017_0022_0001$$$::Humanos tem limites. Seu corpo ainda está longe do extremo desses limites, e ultrapassá-los também seria dificil.[lr]::
+2089::$$$message_0017_0022_0002$$$::Por isso, a única coisa que eu vou lhe ensinar é lutar."::
+2090::$$$message_0017_0023_0000$$$::"...? Como assim 'só lutar'? Do jeito que você disse, não está falando de me ensinar ténicas passo a passo."::
 2091::$$$message_0017_0024_0000$$$::"Claro que não. Técnicas de batalhas não podem ser adquiridas da noite pro dia. A única coisa que posso fazer é ter meu Mestre participando de quantas batalhas forem possíveis.[lr]::
 2092::$$$message_0017_0024_0001$$$::Primeiramente, não sou boa em ensinar, então só seria problema se você me pedisse conselhos."::
 2093::$$$message_0017_0025_0000$$$::"[line5]Uh, que?"[lr]::
 2094::$$$message_0017_0025_0001$$$::Quando ela diz isso tão orgulhosamente, eu, como aluno, não sei o que dizer.::
-2095::$$$message_0017_0026_0000$$$::"...um, então, resumindo, vamos só lutar?"[lr]::
-2096::$$$message_0017_0026_0001$$$::"[line3]Sim. É isto, Mestre.[lr]::
+2095::$$$message_0017_0026_0000$$$::"...Tá, então, resumindo, vamos só lutar?"[lr]::
+2096::$$$message_0017_0026_0001$$$::"[line3]Sim. É exatamente isso, Mestre.[lr]::
 2097::$$$message_0017_0026_0002$$$::Sem parar de acertar, e vamos lutar como se tivéssemos tentando matar um ao outro.[lr]::
 2098::$$$message_0017_0026_0003$$$::...deixe-me ver... acredito que você vai entender como é em menos de uma hora."::
 2099::$$$message_0017_0027_0000$$$::A Saber levemente aperta a shinai, pronta pra começar.[lr]::
 2100::$$$message_0017_0027_0001$$$::"...?"[lr]::
-2101::$$$message_0017_0027_0002$$$::Ainda sem entender, sigo o exemplo da Saber e pego a shinai.[lr]::
-2102::$$$message_0017_0027_0003$$$::Assim que faço assim.[lr]::
-2103::$$$message_0017_0027_0004$$$::O mundo vira de ponta cabeça.::
+2101::$$$message_0017_0027_0002$$$::Ainda sem entender bem o que ela quis dizer ,inclino a cabeçca e pego a shinai do mesmo jeito que a Saber.[lr]::
+2102::$$$message_0017_0027_0003$$$::Naquele exato instante,[lr]::
+2103::$$$message_0017_0027_0004$$$::Num golpe perfeito, minha visão apagou e o mundo escureceu.::
 2104::$$$message_0017_0028_0000$$$::Resumindo, a Saber está tentando me ensinar apenas uma coisa.[lr]::
 2105::$$$message_0017_0028_0001$$$::A verdade, de que não importa o que eu faça,[lr]::
 2106::$$$message_0017_0028_0002$$$::não importa qual esquema eu elabore,[lr]::
-2107::$$$message_0017_0028_0003$$$::nunca poderei ganhar de alguém na qual não tenho chance.::
+2107::$$$message_0017_0028_0003$$$::contra alguém que está fora do meu alcance, eu simplesmente não tenho como vencer.::
 2108::$$$message_0017_0029_0000$$$::"[line3]A[line3]Haa, haa, haa... ow[line2]ouch, ouch, isso quebrou, tenho certeza...!"::
-2109::$$$message_0017_0030_0000$$$::"Estaria mais inchado se tivesse quebrado. É um hematoma dos ruins, mas vai melhorar rápido."[lr]::
-2110::$$$message_0017_0030_0001$$$::"...uh, certo. Tudo bem, então vamos continuar."::
-2111::$$$message_0017_0031_0000$$$::"Eh... vamos continuar, Shirou?[lr]::
-2112::$$$message_0017_0031_0001$$$::É só um hematoma, mas não é algo na qual você pode mexer imediatamente."::
+2109::$$$message_0017_0030_0000$$$::"Estaria mais inchado se tivesse quebrado. É um hematoma considerável, mas, no seu caso, deve se recuperar rapidamente"[lr]::
+2110::$$$message_0017_0030_0001$$$::"...uh, entendi. Tudo bem, então vou continuar mais um pouco."::
+2111::$$$message_0017_0031_0000$$$::"Eh... ainda vai continuar, Shirou?[lr]::
+2112::$$$message_0017_0031_0001$$$::Mesmo sendo só um hematoma, não é pra usar o braço assim de imediato."::
 2113::$$$message_0017_0032_0000$$$::"Por que está dizendo isso quando é você quem está arrebentando meu braço?[lr]::
 2114::$$$message_0017_0032_0001$$$::[line2]Tudo bem, se você não está afim, vou pegar essa[line2]"[lr]::
 2115::$$$message_0017_0032_0002$$$::Abertura![lr]::
@@ -77,9 +77,9 @@ id=qid::label=str::text=lstr::
 2117::$$$message_0017_0033_0000$$$::"Por favor, me escute. Você está definitivamente cansado. Treinar vai ser inútil neste estado, então devemos descansar."::
 2118::$$$message_0017_0034_0000$$$::"[line2]Mas... é vergonhoso ser derrotado tão horrivelmente quando você está pegando leve comigo.[lr]::
 2119::$$$message_0017_0034_0001$$$::Tenho que pelo menos fazer você levantar a sobrancelha ou algo assim, se não vou estar muito nervoso pra desmaiar."::
-2120::$$$message_0017_0035_0000$$$::"Se você pediu por surpresa, eu já estou mais do que surpresa. Pensei que você fosse teimoso, mas não pensei que fosse tanto assim."[lr]::
-2121::$$$message_0017_0035_0001$$$::"Desculpa, mas eu só odeio perder."::
-2122::$$$message_0017_0036_0000$$$::"Sim, eu entendo bem o bastante agora. Enfim, vamos descansar, então guarde sua shinai.[lr]::
+2120::$$$message_0017_0035_0000$$$::"Se era pra me surpreender, já foi suficiente. Pensei que você fosse teimoso, mas não achei que fosse tanto assim."[lr]::
+2121::$$$message_0017_0035_0001$$$::"Foi mal. Eu só odeio perder."::
+2122::$$$message_0017_0036_0000$$$::"Sim, isso já está claro o suficiente. Enfim, vamos descansar, então guarde sua shinai.[lr]::
 2123::$$$message_0017_0036_0001$$$::O chão está deslizante de suor. Não estamos imitando uma luta numa situação extrema, e não faz sentido lutar em tal condição fadigada."::
 2124::$$$message_0017_0037_0000$$$::"...por que? Prática de batalha normalmente presume o pior, não? Então..."::
 2125::$$$message_0017_0038_0000$$$::"Isso é ainda mais sem sentido.[lr]::
@@ -97,43 +97,43 @@ id=qid::label=str::text=lstr::
 2137::$$$message_0017_0042_0001$$$::Enquanto meu corpo queima de dor, olho para o relógio.[lr]::
 2138::$$$message_0017_0042_0002$$$::Já passou das onze.[lr]::
 2139::$$$message_0017_0042_0003$$$::Começamos por volta de nove horas, então quer dizer que estivemos fazendo isso por duas horas.::
-2140::$$$message_0017_0043_0000$$$::A primeira hora foi eu apanhando.[lr]::
-2141::$$$message_0017_0043_0001$$$::Os golpes da Saber repentinamente me acertariam e eu desmaiaria de leve.[lr]::
-2142::$$$message_0017_0043_0002$$$::Eu acordaria, e assim que pensasse que teria mais cuidado na próxima, seria derrubado novamente.[lr]::
-2143::$$$message_0017_0043_0003$$$::Enfim, apanhei sem parar. Deve ser porque meu corpo se acostumou ou meu poder veio do ódio, mas posso agora defender o primeiro golpe.::
+2140::$$$message_0017_0043_0000$$$::A primeira hora foi só eu apanhando.[lr]::
+2141::$$$message_0017_0043_0001$$$::Os golpes da Saber repentinamente me acertavam e eu apagava na hora.[lr]::
+2142::$$$message_0017_0043_0002$$$::Eu acordava, pensava que ia tomar mais cuidado... e logo em seguida apagava de novo[lr]::
+2143::$$$message_0017_0043_0003$$$::Enfim, apanhei sem parar. Meu corpo foi se acostumando ou talvez a raiva tenha puxado alguma força oculta e eu comecei a conseguir bloquear o primeiro golpe.::
 2144::$$$message_0017_0044_0000$$$::O problema é o que vem depois.[lr]::
-2145::$$$message_0017_0044_0001$$$::Bem, depois de ter sido demonstrado tal diferença em habilidade, pode um humano simplesmente contra atacar?::
+2145::$$$message_0017_0044_0001$$$::Bem, depois de ter sido demonstrado tal diferença em habilidade, pode um humano simplesmente contra-atacar?::
 2146::$$$message_0017_0045_0000$$$::"...seu demônio."[lr]::
 2147::$$$message_0017_0045_0001$$$::A resposta é, sou nocauteado no instante que dou para trás.[lr]::
 2148::$$$message_0017_0045_0002$$$::Depois disso, é como um rato encurralado por um gato.::
 2149::$$$message_0017_0046_0000$$$::Se vou ser derrubado não importa como eu bloqueie o golpe, tudo que posso fazer é atacar desesperadamente.[lr]::
 2150::$$$message_0017_0046_0001$$$::Mas é claro, é facilmente desviado e sou derrubado. Mas quando me acostumo com isso também...[lr]::
-2151::$$$message_0017_0046_0002$$$::"Droga."[lr]::
+2151::$$$message_0017_0046_0002$$$::"...droga."[lr]::
 2152::$$$message_0017_0046_0003$$$::Começo a ganhar compostura pra pensar nisso, e os instintos me fazem entender que vou morrer assim que o próximo segundo chegar.[lr]::
 2153::$$$message_0017_0046_0004$$$::As pessoas normalmente chamam isso de estar na zona.::
 2154::$$$message_0017_0047_0000$$$::Então, freneticamente entro em modo de defesa.[lr]::
 2155::$$$message_0017_0047_0001$$$::Os instintos que dizem "Serei derrubado se esse golpe acertar" surgem em números. Então, como ser vivo, é natural para mim tentar evitar o golpe.::
-2156::$$$message_0017_0048_0000$$$::Eu desviaria a barragem de ataques da Saber, mas receberia um golpe fatal enquanto aguardasse o surgimento de uma abertura.[lr]::
-2157::$$$message_0017_0048_0001$$$::E então eu levantaria pensando que poderia aguentar mais tempo. De tempos em tempos, eu atacaria pensando que seria melhor atacar já que estou condenado mesmo.::
+2156::$$$message_0017_0048_0000$$$::Eu consigo lidar com os ataques da Saber como uma enxurrada, esperando uma abertura... mas acabo levando um golpe decisivo antes disso.[lr]::
+2157::$$$message_0017_0048_0001$$$::Quando consigo me levantar, penso que talvez aguente mais um pouco… mas, como não dá pra segurar por muito tempo, às vezes parto pro ataque antes de ser derrubado.::
 2158::$$$message_0017_0049_0000$$$::As duas horas foram apenas esse processo se repetindo sem parar.[lr]::
-2159::$$$message_0017_0049_0001$$$::...não sei se consigo ficar mais forte fazendo isso.[lr]::
-2160::$$$message_0017_0049_0002$$$::Acho que essa partida é só uma para me acostumar com a luta.::
-2161::$$$message_0017_0050_0000$$$::Para que eu não entre em panico ou relaxe na frente de um inimigo.[lr]::
+2159::$$$message_0017_0049_0001$$$::...Não sei se isso vai me deixar mais forte.[lr]::
+2160::$$$message_0017_0049_0002$$$::Mas acho que está me ajudando a me acostumar com lutar.::
+2161::$$$message_0017_0050_0000$$$::É um treino pra não me confundir nem relaxar diante de um inimigo.[lr]::
 2162::$$$message_0017_0050_0001$$$::Estou apenas ensinando meu corpo que estou a um erro da morte.::
-2163::$$$message_0017_0051_0000$$$::Mas ainda[line2]se você me perguntar se isso é sem sentido, não é.[lr]::
-2164::$$$message_0017_0051_0001$$$::Como não tenho armas, acredito que essa tenção é a coisa que darei mais valor.::
-2165::$$$message_0017_0052_0000$$$::"Muito bem. Se machucou, Shirou?"::
+2163::$$$message_0017_0051_0000$$$::Mas ainda[line2]se me perguntarem se isso não tem sentido...não tem nada de inútil.[lr]::
+2164::$$$message_0017_0051_0001$$$::Quando eu tiver uma arma de verdade, essa sensação de estar sempre no limite vai ser a coisa mais importante que eu tenho.::
+2165::$$$message_0017_0052_0000$$$::""Bom trabalho. Se machucou em algum lugar, Shirou?"::
 2166::$$$message_0017_0053_0000$$$::Antes que eu perceba, a Saber está bem do meu lado.[lr]::
 2167::$$$message_0017_0053_0001$$$::Estou tão suado que estou pingando no chão, mas a Saber nem está suando.::
 2168::$$$message_0017_0054_0000$$$::"É mais difícil achar algum lugar que não esteja doendo.[lr]::
-2169::$$$message_0017_0054_0001$$$::...você realmente foi impiedosa, Saber. Se as coisas continuarem assim, é na verdade bem mais revigorante."[lr]::
-2170::$$$message_0017_0054_0002$$$::Vou ser honesto aqui. 100 por cento disso é eu sendo um mal perdedor.::
-2171::$$$message_0017_0055_0000$$$::"Sim. Me ajustei ao seu nível, mas tentei não mostrar piedade. Não seria uma luta se eu me desse ao luxo da consideração."::
+2169::$$$message_0017_0054_0001$$$::...você realmente foi impiedosa, Saber. Sendo sincero… até que foi bom você não ter me dado nenhuma brecha."[lr]::
+2170::$$$message_0017_0054_0002$$$::Vou ser honesto aqui. Cem por cento disso é eu sendo um mal perdedor.::
+2171::$$$message_0017_0055_0000$$$::"Sim. Me ajustei ao seu nível, mas tentei não mostrar piedade. Em uma luta real, não existe isso de consideração."::
 2172::$$$message_0017_0056_0000$$$::"Certo. Graças a isso, consigo calmamente lidar com um Doberman solto.[lr]::
 2173::$$$message_0017_0056_0001$$$::...embora, não é bom o bastante se for apenas um Doberman, acho que preciso de mais treino."::
 2174::$$$message_0017_0057_0000$$$::Eu revejo minhas ações.[lr]::
 2175::$$$message_0017_0057_0001$$$::Pensei que treinei meu corpo para ser acima de média, mas ainda é vergonhoso pra mim desistir depois de duas horas de lutar com a Saber.::
-2176::$$$message_0017_0058_0000$$$::"Não, não é verdade. Seus ataques foram feitos com todo seu coração neles e eram poderosos. Algumas vezes, esqueci de como lidar com eles porque você estava tão entusiasmado."[lr]::
+2176::$$$message_0017_0058_0000$$$::"Não, não é verdade. Seus ataques eram diretos e tinham força. Em alguns momentos, você estava tão focado que até me pegou desprevenida"::
 2177::$$$message_0017_0059_0000$$$::"[line3]!"[lr]::
 2178::$$$message_0017_0059_0001$$$::Minha vergonha volta repentinamente.[lr]::
 2179::$$$message_0017_0059_0002$$$::Até agora, eramos pessoas lutando sem qualquer noção de homem ou mulher, mas[line3]não seria isso algum tipo de ataque surpresa?::
@@ -144,10 +144,10 @@ id=qid::label=str::text=lstr::
 2184::$$$message_0017_0061_0001$$$::...espera.[lr]::
 2185::$$$message_0017_0061_0002$$$::Do que eu estou salvo...?::
 2186::$$$message_0017_0062_0000$$$::Estou bebendo a água que a Saber me trouxe.[lr]::
-2187::$$$message_0017_0062_0001$$$::Ainda deve ser hora de descansar já que a Saber está sentada educadamente em pose japonesa.::
-2188::$$$message_0017_0063_0000$$$::...acho que é a Saber é muito linda assim.[lr]::
-2189::$$$message_0017_0063_0001$$$::Não estou pensando que ela é linda na perspectiva de um homem, mas sinto que ela é linda ao olhos de todos.::
-2190::$$$message_0017_0064_0000$$$::Ela se juntou a atmosfera digníssima do dojo, e tem um silêncio livre de conflitos.[lr]::
+2187::$$$message_0017_0062_0001$$$::Ainda deve ser hora de descansar já que a Saber está sentada em seiza, bem alinhada no dojo.::
+2188::$$$message_0017_0063_0000$$$::...Desse jeito, a Saber fica realmente bonita.[lr]::
+2189::$$$message_0017_0063_0001$$$::Não é como homem olhando para uma mulher, é que, como pessoa, ela é bonita.::
+2190::$$$message_0017_0064_0000$$$::E ainda assim... é estranho pensar que essa mesma pessoa é a Saber, um Servo feito para lutar.::
 2191::$$$message_0017_0065_0000$$$::"[line5]"[lr]::
 2192::$$$message_0017_0065_0001$$$::Neste instante, só a Saber e eu estamos aqui.[lr]::
 2193::$$$message_0017_0065_0002$$$::Esta pode ser uma boa oportunidade para puxar conversa, então eu pergunto[line2][lr]::

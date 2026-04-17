@@ -86,8 +86,8 @@ id=qid::label=str::text=lstr::
 9473::$$$message_0093_0033_0003$$$::Ela se desculpa com um olhar mais suave.::
 9474::$$$message_0093_0034_0000$$$::"Uh... não, não precisa se desculpar, mas..."[lr]::
 9475::$$$message_0093_0034_0001$$$::"P-Por que você me chamou no telhado? Era algo importante, não era?"::
-9476::$$$message_0093_0035_0000$$$::"S-Sim. Chamei porque tinha algo a dizer como Mestra. Queria te avisar para ter cuidado, já que há um campo de separação armado nesta escola."::
-9477::$$$message_0093_0036_0000$$$::"Hã...? E-Espera. Campo de separação... você quer dizer, nesta escola!?"::
+9476::$$$message_0093_0035_0000$$$::"S-Sim. Chamei porque tinha algo a dizer como Mestra. Queria te avisar para ter cuidado, já que há um Campo Limitado armado nesta escola."::
+9477::$$$message_0093_0036_0000$$$::"Hã...? E-Espera. Campo Limitado... você quer dizer, nesta escola!?"::
 9478::$$$message_0093_0037_0000$$$::"Sim, parece que você não percebeu, mas há um bem problemático montado aqui."[lr]::
 9479::$$$message_0093_0037_0001$$$::"Ele está espalhado de forma tão aberta que vai rodear praticamente a escola toda."[lr]::
 9480::$$$message_0093_0037_0002$$$::"Esse campo é do tipo que drena sangue e carne dos humanos lá dentro. Ainda está em fase de preparação, mas você não notou que está todo mundo meio desligado?"::
@@ -104,7 +104,7 @@ id=qid::label=str::text=lstr::
 9491::$$$message_0093_0042_0001$$$::"Mas vou deixar passar desta vez. Nada aconteceu hoje, apesar de tudo."::
 9492::$$$message_0093_0043_0000$$$::Tudo bem quando termina bem, hein?[lr]::
 9493::$$$message_0093_0043_0001$$$::Sinto-me um pouco melhor ouvindo isso.::
-9494::$$$message_0093_0044_0000$$$::"...Então. Você sabe quem é o Mestre que montou esse campo de separação, Tohsaka? É alguém da escola?"::
+9494::$$$message_0093_0044_0000$$$::"...Então. Você sabe quem é o Mestre que montou esse Campo Limitado, Tohsaka? É alguém da escola?"::
 9495::$$$message_0093_0045_0000$$$::"Não, não tenho certeza."[lr]::
 9496::$$$message_0093_0045_0001$$$::"Não sinto a presença de nenhum mago além de mim, então pode ser alguém de fora. Mas existem casos de amadores que viram Mestres, né?"[lr]::
 9497::$$$message_0093_0045_0002$$$::"Por isso não posso ter certeza. ...Embora seja provável que seja alguém desta escola."[lr]::
@@ -123,7 +123,7 @@ id=qid::label=str::text=lstr::
 9510::$$$message_0093_0050_0000$$$::[line3]É isso.[lr]::
 9511::$$$message_0093_0050_0001$$$::Mesmo que meu entendimento seja incompleto, imagino a pior possibilidade e gravo essa imagem dentro de mim.::
 9512::$$$message_0093_0051_0000$$$::"Entendi."[lr]::
-9513::$$$message_0093_0051_0001$$$::"[line3]Então, Tohsaka. Você consegue destruir esse campo de separação?"::
+9513::$$$message_0093_0051_0001$$$::"[line3]Então, Tohsaka. Você consegue destruir esse Campo Limitado?"::
 9514::$$$message_0093_0052_0000$$$::"Eu tentei, mas nada feito."[lr]::
 9515::$$$message_0093_0052_0001$$$::"Descobri todas as fontes, mas não posso destruí-lo. Tudo que posso fazer é enfraquecê-las temporariamente para atrasar a ativação."::
 9516::$$$message_0093_0053_0000$$$::"Atrasar a ativação...? Então ele não vai ativar enquanto você estiver aqui cuidando disso?"::

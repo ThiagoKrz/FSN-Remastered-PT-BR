@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 31202::$$$message_0250_0000_0000$$$::[line3]Essa é a melhor opção que a gente tem.[lr]::
-31203::$$$message_0250_0000_0001$$$::Se o servo do Shinji criou esse campo de separação, a gente só precisa chamar a Saber[line3]!::
+31203::$$$message_0250_0000_0001$$$::Se o servo do Shinji criou esse Campo Limitado, a gente só precisa chamar a Saber[line3]!::
 31204::$$$message_0250_0001_0000$$$::"Tohsaka, eu vou chamar a Saber...! Me ensina a usar um selo de comando."[lr]::
 31205::$$$message_0250_0001_0001$$$::"Eh[line3]e-espera, se você vai chamar a Saber, eu também [r]vou[line4]"::
 31206::$$$message_0250_0002_0000$$$::"Você usou seu selo de comando ontem. Então é minha vez hoje.[lr]::
@@ -20,21 +20,21 @@ id=qid::label=str::text=lstr::
 31219::$$$message_0250_0006_0000$$$::"Saber...!"[lr]::
 31220::$$$message_0250_0006_0001$$$::"Eu vim em resposta ao seu chamado.[lr]::
 31221::$$$message_0250_0006_0002$$$::Qual é a situação, mestre...? É grave o suficiente para você usar seu selo de comando, certo?"::
-31222::$$$message_0250_0007_0000$$$::"[line3]É exatamente como parece. Um servo ativou esse campo de separação.[lr]::
-31223::$$$message_0250_0007_0001$$$::Eu quero remover esse campo de separação o mais rápido possível."[lr]::
+31222::$$$message_0250_0007_0000$$$::"[line3]É exatamente como parece. Um servo ativou esse Campo Limitado.[lr]::
+31223::$$$message_0250_0007_0001$$$::Eu quero remover esse Campo Limitado o mais rápido possível."[lr]::
 31224::$$$message_0250_0007_0002$$$::"Eu entendo. Eu certamente sinto a presença de um servo nesse andar."::
 31225::$$$message_0250_0008_0000$$$::"Nesse andar...!? O servo no quarto andar!?"[lr]::
 31226::$$$message_0250_0008_0001$$$::"Eu tenho certeza. ...Qual o problema, Rin?"::
-31227::$$$message_0250_0009_0000$$$::"Huh[line3]não, eu tenho certeza que esse é o caso se você diz, mas isso é muito estranho. Eu consigo sentir que a origem do campo de separação é no primeiro andar. Eu tenho certeza que sua habilidade de detectar um servo é superior a minha, mas minha habilidade de detectar taumaturgia é boa também."::
-31228::$$$message_0250_0010_0000$$$::"...? Então você está dizendo que o servo está neste andar mesmo o campo de separação estando preparado no primeiro andar?"[lr]::
+31227::$$$message_0250_0009_0000$$$::"Huh[line3]não, eu tenho certeza que esse é o caso se você diz, mas isso é muito estranho. Eu consigo sentir que a origem do Campo Limitado é no primeiro andar. Eu tenho certeza que sua habilidade de detectar um servo é superior a minha, mas minha habilidade de detectar taumaturgia é boa também."::
+31228::$$$message_0250_0010_0000$$$::"...? Então você está dizendo que o servo está neste andar mesmo o Campo Limitado estando preparado no primeiro andar?"[lr]::
 31229::$$$message_0250_0010_0001$$$::"Uh... Eu não posso dizer com certeza, mas é isso que eu sinto.[lr]::
-31230::$$$message_0250_0010_0002$$$::A origem do campo de separação tem que ser no primeiro andar."::
+31230::$$$message_0250_0010_0002$$$::A origem do Campo Limitado tem que ser no primeiro andar."::
 31231::$$$message_0250_0011_0000$$$::"[line8]"[lr]::
 31232::$$$message_0250_0011_0001$$$::Então tem duas alternativas, huh?[lr]::
 31233::$$$message_0250_0011_0002$$$::Se o Shinji preparou pro servo dele vir pra esse andar, um tem que ser uma armadilha.[lr]::
 31234::$$$message_0250_0011_0003$$$::Todo mundo nessa escola vai pagar o preço se nós fizermos a escolha errada[line4]::
 31235::$$$message_0250_0012_0000$$$::"Rin. Onde está o Archer? Nós podemos fazer uma análise melhor se ele estiver aqui."[lr]::
-31236::$$$message_0250_0012_0001$$$::"Ele não tá me respondendo! Esse campo de separação nos cortou totalmente do mundo exterior. Eu tenho que usar meu selo de comando ou a gente vai ter que esperar até ele detectar isso e vir aqui."::
+31236::$$$message_0250_0012_0001$$$::"Ele não tá me respondendo! Esse Campo Limitado nos cortou totalmente do mundo exterior. Eu tenho que usar meu selo de comando ou a gente vai ter que esperar até ele detectar isso e vir aqui."::
 31237::$$$message_0250_0013_0000$$$::"[line8]"[lr]::
 31238::$$$message_0250_0013_0001$$$::A Tohsaka e a Saber olham severamente uma para outra.[lr]::
 31239::$$$message_0250_0013_0002$$$::Mas agora não é a hora de fazer isso.[lr]::

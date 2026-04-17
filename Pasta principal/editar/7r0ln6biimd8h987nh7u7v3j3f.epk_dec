@@ -1,45 +1,46 @@
-DAT
+   DAT
 id=qid::label=str::text=lstr::
-12291::$$$message_0122_0000_0000$$$::...Eu me pergunto se está mesmo tudo bem com a Saber.[lr]::
-12292::$$$message_0122_0000_0001$$$::Ela disse que não tem problema em lutar, mas não vai ser meio difícil bater de frente com o Berserker já que ela estava tão fraca há pouco tempo atrás?::
-12293::$$$message_0122_0001_0000$$$::Não, eu estou mais preocupado com o Fantasma Nobre dela.[lr]::
-12294::$$$message_0122_0001_0001$$$::"Eu não vou poder sustentar o meu corpo se usá-lo."[r][wsay canskip=1]::
-12295::$$$message_0122_0001_0002$$$::Foi o que a própria Saber disse.[lr]::
-12296::$$$message_0122_0001_0003$$$::Isso quer dizer que ela vai desaparecer assim que usar aquela espada.::
+12291::$$$message_0122_0000_0000$$$::...Eu me pergunto se a Saber está realmente bem.[lr]::
+12292::$$$message_0122_0000_0001$$$::Ela diz que não há problema para lutar, mas depois de ter ficado tão debilitada, não seria difícil encarar o Berserker de frente assim tão de repente?::
+12293::$$$message_0122_0001_0000$$$::Não, mais do que isso, o que me preocupa é o Fantasma Nobre dela.[lr]::
+12294::$$$message_0122_0001_0001$$$::"Se eu usar, não conseguirei manter meu corpo."[r][wsay canskip=1]::
+12295::$$$message_0122_0001_0002$$$::Foi isso que a Saber disse.[lr]::
+12296::$$$message_0122_0001_0003$$$::Ou seja, no instante em que ela usar aquela espada, a Saber desaparecerá.::
 12297::$$$message_0122_0002_0000$$$::"[line2]Saber"[lr]::
 12298::$$$message_0122_0002_0001$$$::"Sim. O que foi, Shirou?"[lr]::
-12299::$$$message_0122_0002_0002$$$::"...Você pode me prometer uma coisa antes de nós irmos lutar?"[lr]::
-12300::$$$message_0122_0002_0003$$$::"...? Sim, eu não me importo se for algo que possa fazer."::
-12301::$$$message_0122_0003_0000$$$::"...Certo. Bem, eu não quero que você use o seu Fantasma Nobre independente de como as coisas terminarem.[lr]::
-12302::$$$message_0122_0003_0001$$$::Será um problema sério se nós usarmos aquilo perto do chão, e eu não quero que você desapareça mesmo se for para derrotar o Berserker."::
-12303::$$$message_0122_0004_0000$$$::"Sim, eu entendo. Também não tenho a intenção de usar o Fantasma Nobre. Eu não acho que vou conseguir derrotar o Berserker com essa quantidade de energia mágica que tenho, e além do mais, não vou poder obter o Santo Graal se desaparecer."[lr]::
-12304::$$$message_0122_0004_0001$$$::Então é assim que a Saber pensa.[lr]::
-12305::$$$message_0122_0004_0002$$$::Isso me deixa aliviado.::
-12306::$$$message_0122_0005_0000$$$::"Está bem. Você é a mesma Saber de sempre. Me sinto aliviado por você estar tão calma assim."[lr]::
-12307::$$$message_0122_0005_0001$$$::"...Hm. O que você quer dizer com isso, Shirou?"[lr]::
-12308::$$$message_0122_0005_0002$$$::"Não, não quer dizer nada. Vamos sair daqui. A Tohsaka vai reclamar de novo se nós demorarmos muito."::
-12309::$$$message_0122_0006_0000$$$::"Tem razão. Parece que a Rin adora reclamar contigo."[lr]::
-12310::$$$message_0122_0006_0001$$$::...Depois de dizer uma coisa sinistra dessas, a Saber vai até a saída.::
-12311::$$$message_0122_0007_0000$$$::[line2]E então.[lr]::
-12312::$$$message_0122_0007_0001$$$::O corpo da Saber cai para frente como se ela tivesse tropeçado em alguma coisa.[lr]::
-12313::$$$message_0122_0007_0002$$$::"...!!"[lr]::
-12314::$$$message_0122_0007_0003$$$::Eu rapidamente seguro a mão dela.::
-12315::$$$message_0122_0008_0000$$$::"Ei, olha por onde pisa. Há muitos destroços espalhados pelo chão, tenha mais cuidado[line2]"[lr]::
-12316::$$$message_0122_0008_0001$$$::"......"[lr]::
-12317::$$$message_0122_0008_0002$$$::...Ei.[lr]::
-12318::$$$message_0122_0008_0003$$$::O rosto da Saber está vermelho.::
-12319::$$$message_0122_0009_0000$$$::"Saber...? O que foi? Tem alguma coisa errada?"[lr]::
-12320::$$$message_0122_0009_0001$$$::"...Não, não é isso... mas se você segurar a minha mão assim, bem..."[lr]::
-12321::$$$message_0122_0009_0002$$$::Ela fica ainda mais vermelha.[lr]::
-12322::$$$message_0122_0009_0003$$$::...Ela está se parecendo comigo mais cedo.::
-12323::$$$message_0122_0010_0000$$$::"Ah[line5]"[lr]::
-12324::$$$message_0122_0010_0001$$$::Eu também fico com o rosto vermelho.[lr]::
-12325::$$$message_0122_0010_0002$$$::A mão dela está segurando a minha. ...Eu relembro as sensações da Saber e me afasto logo em seguida.::
+12299::$$$message_0122_0002_0002$$$::"...Antes de irmos lutar, você pode me prometer uma coisa?"[lr]::
+12300::$$$message_0122_0002_0003$$$::"...? Sim, se for algo que esteja ao meu alcance."::
+12301::$$$message_0122_0003_0000$$$::"...Certo. Bem... aconteça o que acontecer, eu não quero que você use o seu Fantasma Nobre.[lr]::
+12302::$$$message_0122_0003_0001$$$::Se usar aquilo no chão, vai ser um grande problema... e eu não quero que você desapareça, mesmo que isso signifique derrotar o Berserker."::
+12303::$$$message_0122_0004_0000$$$::"Sim, eu entendo. Eu também não pretendo usar meu Fantasma Nobre. Com a quantidade de energia mágica que tenho agora, não é garantido que eu consiga derrotar o Berserker... e, acima de tudo, se eu desaparecer, não poderei obter o Santo Graal."[lr]::
+12304::$$$message_0122_0004_0001$$$::A Saber responde com firmeza.[lr]::
+12305::$$$message_0122_0004_0002$$$::...E isso, agora, me deixa muito aliviado.::
+12306::$$$message_0122_0005_0000$$$::"Certo... essa é a Saber de sempre. Dá até alívio ver você sendo tão absurdamente calma."[lr]::
+12307::$$$message_0122_0005_0001$$$::"...Hm. O que exatamente você quer dizer com isso, Shirou?"[lr]::
+12308::$$$message_0122_0005_0002$$$::"Nada, nada. Vamos sair daqui. Se fizermos a Tohsaka esperar, ela vai reclamar de novo."::
+12309::$$$message_0122_0006_0000$$$::"De fato. Parece que reclamar com você virou um hobby dela."[lr]::
+12310::$$$message_0122_0006_0001$$$::...E dizendo algo assim meio absurdo, a Saber segue em direção à saída.::
+12311::$$$message_0122_0007_0000$$$::[line2]Mas então.[lr]::
+12312::$$$message_0122_0007_0001$$$::Como se tivesse tropeçado nos escombros, o corpo da Saber se projeta para frente.[lr]::
+12313::$$$message_0122_0007_0002$$$::"—!"[lr]::
+12314::$$$message_0122_0007_0003$$$::Apresso-me e puxo sua mão por trás.::
+12315::$$$message_0122_0008_0000$$$::"Ei, cuidado onde pisa. Está tudo cheio de destroços, você precisa prestar atenção..."[lr]::
+12316::$$$message_0122_0008_0001$$$::"........"[lr]::
+12317::$$$message_0122_0008_0002$$$::...Hm?[lr]::
+12318::$$$message_0122_0008_0003$$$::O rosto da Saber está completamente vermelho.::
+12319::$$$message_0122_0009_0000$$$::"Saber...? O que foi? Aconteceu alguma coisa?"[lr]::
+12320::$$$message_0122_0009_0001$$$::"...Não, não é isso... mas, se você segurar minha mão assim... eu..."[lr]::
+12321::$$$message_0122_0009_0002$$$::O rosto da Saber fica ainda mais vermelho.[lr]::
+12322::$$$message_0122_0009_0003$$$::...De certa forma, ela está igual a mim de alguns instantes atrás.::
+12323::$$$message_0122_0010_0000$$$::"Ah..."[lr]::
+12324::$$$message_0122_0010_0001$$$::Eu também fico vermelho.[lr]::
+12325::$$$message_0122_0010_0002$$$::A sensação da mão dela... relembro vividamente o toque da Saber, e imediatamente solto sua mão.::
 12326::$$$message_0122_0011_0000$$$::"[line5]"[lr]::
 12327::$$$message_0122_0011_0001$$$::"[line5]"[lr]::
-12328::$$$message_0122_0011_0002$$$::Sem sabermos o que dizer, nós simplesmente ficamos parados no mesmo lugar.::
-12329::$$$message_0122_0012_0000$$$::"...V-Vamos para fora. Temos que ir logo, senão não vamos ter muito tempo."[lr]::
-12330::$$$message_0122_0012_0001$$$::"T-Tem razão. Vamos depressa, Shirou."[lr]::
-12331::$$$message_0122_0012_0002$$$::Nós começamos a nos mexer com essa conversa forçada.::
-12332::$$$message_0122_0013_0000$$$::...Assim que sairmos, nós não vamos mais voltar aqui.[lr]::
-12333::$$$message_0122_0013_0001$$$::Olho para as ruínas pela última vez e então volto para o campo de batalha.::
+12328::$$$message_0122_0011_0002$$$::Os dois ficam parados, sem conseguir dizer nada.::
+12329::$$$message_0122_0012_0000$$$::"...V-Vamos sair. Precisamos ir logo, não temos tempo."[lr]::
+12330::$$$message_0122_0012_0001$$$::"S-Sim. Vamos nos apressar, Shirou."[lr]::
+12331::$$$message_0122_0012_0002$$$::E assim, com uma conversa forçada, começamos a andar.::
+12332::$$$message_0122_0013_0000$$$::...Assim que sairmos daqui, provavelmente nunca mais voltaremos.[lr]::
+12333::$$$message_0122_0013_0001$$$::Lanço um último olhar para as ruínas... e sigo em direção ao campo de batalha.::
+

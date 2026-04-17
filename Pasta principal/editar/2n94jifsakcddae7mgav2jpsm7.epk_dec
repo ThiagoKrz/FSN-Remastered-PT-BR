@@ -7,53 +7,53 @@ id=qid::label=str::text=lstr::
 16873::$$$message_0155_0001_0001$$$::A Tohsaka interrompe a nossa conversa enquanto bebe chá de forma elegante.::
 16874::$$$message_0155_0002_0000$$$::"Hã? Ei, o que você quer dizer com isso, Tohsaka?"::
 16875::$$$message_0155_0003_0000$$$::"Estou dizendo que uma pessoa pode fazer contratos com quantos Servos ela quiser contanto que ainda tenha o seu Selo de Comando.[lr]::
-16876::$$$message_0155_0003_0001$$$::Se aparecer um 'Servo disperso' que está sem um Mestre, e se tiver um Mestre com capacidade de energia mágica o suficiente para assimilar esse 'Servo disperso', eles podem formar um contrato à vontade."::
+16876::$$$message_0155_0003_0001$$$::Se aparecer um Servo Errante que está sem um Mestre, e se tiver um Mestre com capacidade de energia mágica o suficiente para assimilar esse Servo Errante, eles podem formar um contrato à vontade."::
 16877::$$$message_0155_0004_0000$$$::"C-Como assim?[lr]::
 16878::$$$message_0155_0004_0001$$$::Quer dizer então que um Mestre habilidoso pode formar contratos com quantos Servos ele quiser?"::
 16879::$$$message_0155_0005_0000$$$::"Não exatamente com quantos ele quiser. O máximo de Servos que o Santo Graal pode invocar é sete, então ele poderia formar até sete contratos.[lr]::
-16880::$$$message_0155_0005_0001$$$::...Mas até mesmo um mago excepcional não teria energia mágica o suficiente para materializar mais de um Servo de uma vez."::
-16881::$$$message_0155_0006_0000$$$::"E mesmo se pudesse, ele estaria cortando a sua energia pela metade. Isso significa que os Servos teriam as suas habilidades enfraquecidas, o que tira o sentido de formar um contrato com mais de um Servo."::
+16880::$$$message_0155_0005_0001$$$::......Mas, por melhor que seja o mago, ele não teria energia mágica suficiente para manter vários Servos materializados."::
+16881::$$$message_0155_0006_0000$$$::"E, mesmo que tivesse, acabaria dividindo sua energia entre eles. Isso enfraqueceria os Servos, então não haveria grande vantagem em firmar contrato com vários ao mesmo tempo."::
 16882::$$$message_0155_0007_0000$$$::...Entendi.[lr]::
 16883::$$$message_0155_0007_0001$$$::Se eu formasse um contrato com a Saber e com o Berserker ao mesmo tempo, os dois teriam que compartilhar a minha energia mágica entre eles, e por isso teriam uma perda considerável em suas habilidades.[lr]::
 16884::$$$message_0155_0007_0002$$$::Então acaba sendo mais eficiente escolher só um Servo para receber toda a minha energia mágica.::
 16885::$$$message_0155_0008_0000$$$::"...Pensando bem, você disse uma vez que os Servos podem trocar de Mestre. Você estava falando disso, não é?"::
 16886::$$$message_0155_0009_0000$$$::"Ah, dessa vez você foi esperto.[lr]::
 16887::$$$message_0155_0009_0001$$$::Como você disse, é dessa forma que os Servos podem trocar de Mestre.[lr]::
-16888::$$$message_0155_0009_0002$$$::Um Servo que fica sem seu Mestre tem um certo tempo de vida antes de sumir. Ou seja, se ele conseguir encontrar um Mestre que esteja precisando de um Servo e ambos formarem um contrato, eles ainda podem voltar para a Guerra do Santo Graal."::
-16889::$$$message_0155_0010_0000$$$::"Por isso que é melhor você tomar cuidado com a Rin. Ela ainda é uma Mestre, então ela pode te matar e roubar a Saber de você, ou ainda formar um contrato com algum Servo em segredo."::
+16888::$$$message_0155_0009_0002$$$::Um Servo que perde seu Mestre ainda tem algum tempo antes de desaparecer. Então, se nesse intervalo ele encontrar um Mestre que esteja procurando um Servo e firmar contrato com ele, volta tudo ao normal."::
+16889::$$$message_0155_0010_0000$$$::"Por isso, Shirou, você não pode baixar a guarda com a Rin. Ela ainda é uma Mestre. Pode te matar e tomar a Saber, ou então firmar novo contrato com algum Servo que ainda esteja por ai."::
 16890::$$$message_0155_0011_0000$$$::"Sei... Então isso também vale para você, Illya."[lr]::
 16891::$$$message_0155_0011_0001$$$::"Heh, não é verdade.[lr]::
 16892::$$$message_0155_0011_0002$$$::...Eu não quero ter outro Servo. O meu Servo sempre vai ser o Berserker..."::
-16893::$$$message_0155_0012_0000$$$::A Illya resmunga com a cabeça abaixada.[lr]::
-16894::$$$message_0155_0012_0001$$$::...Eu consigo entender por que as duas suspiraram.[lr]::
-16895::$$$message_0155_0013_0000$$$::[line2]Isso é uma surpresa agradável.[lr]::
-16896::$$$message_0155_0013_0001$$$::A Illya podia ser uma Mestre fria e impiedosa, mas ela ainda se importava com o seu parceiro.::
+16893::$$$message_0155_0012_0000$$$::Eu não sei que tipo de relação a Illya tinha com o Berserker.[lr]::
+16894::$$$message_0155_0012_0001$$$::...Mas deu para entender que, para aquela garota chamada Illyasviel, aquele Servo era alguém insubstituível.::
+16895::$$$message_0155_0013_0000$$$::[line2]Isso foi inesperado, mas ao mesmo tempo me deixou feliz.[lr]::
+16896::$$$message_0155_0013_0001$$$::Fiquei feliz em saber que, embora fosse impiedosa como Mestre, a Illya ainda valorizava o próprio parceiro.::
 16897::$$$message_0155_0014_0000$$$::"Ah, mas se o Shirou perder eu vou ficar com a Saber.[lr]::
 16898::$$$message_0155_0014_0001$$$::Eu não vou deixar nenhum Mestre vencer a guerra que não seja ele.[lr]::
 16899::$$$message_0155_0014_0002$$$::Mas se o Shirou for derrotado, pode deixar que eu venço no seu lugar."[lr]::
-16900::$$$message_0155_0014_0003$$$::A Illya diz isso para a Saber e a Tohsaka.::
+16900::$$$message_0155_0014_0003$$$::A Illya diz isso toda orgulhosa, bem quando a Saber e a Tohsaka começavam a ficar impressionadas com ela.::
 16901::$$$message_0155_0015_0000$$$::"Não diga uma coisa absurda dessas. Eu sou o Servo do Shirou. Eu não tenho a menor intenção de ser sua."::
 16902::$$$message_0155_0016_0000$$$::"Ah. Tudo bem, eu não me importo.[lr]::
-16903::$$$message_0155_0016_0001$$$::Eu só quero que o Shirou vença no final. Se eu vencesse enquanto você protege ele, daria no mesmo."::
+16903::$$$message_0155_0016_0001$$$::Eu só quero que o Shirou vença. Tanto faz se sou eu quem vence ou se a Saber protege o Shirou. No fim, dá na mesma."::
 16904::$$$message_0155_0017_0000$$$::"[line2]?"[lr]::
-16905::$$$message_0155_0017_0001$$$::A Illya está dizendo umas coisas sem sentido.[lr]::
-16906::$$$message_0155_0017_0002$$$::...Enfim, ela quer que eu ganhe, mas qual o motivo dela querer isso...?[lr]::
+16905::$$$message_0155_0017_0001$$$::A Illya escolheu um jeito estranho de dizer isso.[lr]::
+16906::$$$message_0155_0017_0002$$$::...Não, quer dizer, ela quer que eu vença, mas por que pensa desse jeito...?[lr]::
 16907::$$$message_0155_0017_0003$$$::...Então.[lr]::
 16908::$$$message_0155_0017_0004$$$::A Tohsaka começa a pensar, já que ela também deve ter achado isso estranho.::
 16909::$$$message_0155_0018_0000$$$::"Mas eu me importo! Eu não permitiria uma coisa dessas.[lr]::
 16910::$$$message_0155_0018_0001$$$::Rin, por favor fale com o Shirou sobre isso."[lr]::
 16911::$$$message_0155_0018_0002$$$::"Hã? Desculpa, eu não estava prestando atenção. Poderia repetir, Saber?"[lr]::
 16912::$$$message_0155_0018_0003$$$::"Como eu estava dizendo, nós não podemos deixar que a Illyasviel fique aqui."::
-16913::$$$message_0155_0019_0000$$$::"Ah, era isso? Por que não? Eu acho que não tem problema."[lr]::
+16913::$$$message_0155_0019_0000$$$::"Ah, isso? Se é só para dar abrigo a ela aqui, então não vejo problema."[lr]::
 16914::$$$message_0155_0019_0001$$$::"Hã[line2]?"[lr]::
 16915::$$$message_0155_0019_0002$$$::A Saber congela.[lr]::
-16916::$$$message_0155_0019_0003$$$::Até eu fiquei surpreso com o que ela disse.::
+16916::$$$message_0155_0019_0003$$$::Até eu, que era a favor, fiquei surpreso. Então é natural que a Saber, que era contra, tenha congelado.::
 16917::$$$message_0155_0020_0000$$$::"R-Rin...! Você ficou maluca!?"::
 16918::$$$message_0155_0021_0000$$$::"Não. Se parar para pensar, todas as opções são arriscadas. Não faz diferença se nós abandonarmos a Illya, se a deixarmos aqui, ou então se a entregarmos para a igreja.[lr]::
 16919::$$$message_0155_0021_0001$$$::Aliás, seria até melhor se os outros Mestres viessem aqui atrás dela."::
-16920::$$$message_0155_0022_0000$$$::"No seu estado atual, você é mais forte do que todos os outros Servos juntos. Assim seria mais rápido para acabar com a Guerra do Santo Graal. Você também quer isso, não é Saber?[lr]::
+16920::$$$message_0155_0022_0000$$$::"Do jeito que você está agora, nem se os outros Servos viessem todos juntos conseguiriam te derrotar.[lr]::
 16921::$$$message_0155_0022_0001$$$::Quer dizer, a não ser que você ache que vai perder para os outros Servos."::
-16922::$$$message_0155_0023_0000$$$::"Claro que não. Você deve saber bem do meu estado atual. Enquanto o Shirou for o meu Mestre, eu não devo encontrar derrotas pela frente."::
+16922::$$$message_0155_0023_0000$$$::"Claro que não. Você sabe muito bem em que estado eu me encontro. Enquanto o Shirou for meu Mestre, derrota não existe para mim."::
 16923::$$$message_0155_0024_0000$$$::"Viu só? Então não tem problema em deixarmos a Illya ficar aqui.[lr]::
 16924::$$$message_0155_0024_0001$$$::...E também tem uma coisa que está me preocupando. A decisão do Shirou pode ter sido bem inteligente no fim das contas."::
 16925::$$$message_0155_0025_0000$$$::A Tohsaka fica em silêncio.[lr]::
@@ -70,7 +70,7 @@ id=qid::label=str::text=lstr::
 16936::$$$message_0155_0030_0000$$$::"Ei, vamos voltar para a sala. Se você quer ficar mais forte, pode deixar que eu te ajudo."::
 16937::$$$message_0155_0031_0000$$$::A Illya me segura com as duas mãos e tenta me levar para fora do dojô.[lr]::
 16938::$$$message_0155_0031_0001$$$::Mas eu não posso fazer isso.::
-16939::$$$message_0155_0032_0000$$$::"Não Illya, eu não posso. Treinar faz parte da minha rotina, então eu preciso ficar aqui. Já que não sou um mago experiente, eu tenho que pelo menos aprender a lutar um pouco.[lr]::
+16939::$$$message_0155_0032_0000$$$::"Não, Illya, não posso. Treinar com a espada faz parte da minha rotina, então não posso faltar hoje. Como ainda sou inexperiente como mago, preciso ao menos me tornar capaz de lutar um pouco.[lr]::
 16940::$$$message_0155_0032_0001$$$::E eu preciso treinar para poder te proteger, entendeu?[lr]::
 16941::$$$message_0155_0032_0002$$$::Fui eu que decidi que nós tínhamos que te proteger, então isso é o mínimo que devo fazer."::
 16942::$$$message_0155_0033_0000$$$::"Ah... sim, acho que isso é verdade.[lr]::
@@ -79,16 +79,16 @@ id=qid::label=str::text=lstr::
 16945::$$$message_0155_0034_0001$$$::A Illya puxa a minha mão.::
 16946::$$$message_0155_0035_0000$$$::A Saber está nos observando sem dizer nada.[lr]::
 16947::$$$message_0155_0035_0001$$$::Mas o olhar dela é doloroso.[lr]::
-16948::$$$message_0155_0035_0002$$$::Acho que ela quer deixar claro que ainda não gosta da Illya[line2]::
+16948::$$$message_0155_0035_0002$$$::A Saber ainda não aprovou a presença da Illya aqui. Deve ser por isso que está tão fria com ela desde agora há pouco.[line2]::
 16949::$$$message_0155_0036_0000$$$::Os nossos olhos se encontram.[lr]::
-16950::$$$message_0155_0036_0001$$$::Está bem, vou deixar a Saber convencer a Illya.::
+16950::$$$message_0155_0036_0001$$$::Ótimo momento. Vou pedir a opinião da Saber.::
 16951::$$$message_0155_0037_0000$$$::"Eu já disse que não.[lr]::
 16952::$$$message_0155_0037_0001$$$::Saber, diga a ela que nós dois treinamos no dojô todos os dias."::
 16953::$$$message_0155_0038_0000$$$::"Eu não tenho nada a dizer para ela.[lr]::
 16954::$$$message_0155_0038_0001$$$::Foi você que trouxe a Illyasviel até aqui.[lr]::
 16955::$$$message_0155_0038_0002$$$::É tarefa sua convencê-la, eu não tenho a menor obrigação de fazer isso."::
 16956::$$$message_0155_0039_0000$$$::"[line2]Uh"[lr]::
-16957::$$$message_0155_0039_0001$$$::...Tem alguma coisa errada.[lr]::
+16957::$$$message_0155_0039_0001$$$::...Não sei por quê, mas ela deve estar furiosa.::
 16958::$$$message_0155_0040_0000$$$::"Ah, então a Saber me entende.[lr]::
 16959::$$$message_0155_0040_0001$$$::Você não precisa treinar. Os Servos que sobraram são todos fracos, então você não precisa perder tempo com isso.[lr]::
 16960::$$$message_0155_0040_0002$$$::Vamos, Shirou. Deixa a Saber dar conta dos outros Mestres enquanto nós brincamos lá fora."::
@@ -105,53 +105,53 @@ id=qid::label=str::text=lstr::
 16971::$$$message_0155_0044_0002$$$::Eu devia ter feito isso de uma maneira mais delicada.::
 16972::$$$message_0155_0045_0000$$$::"...Desculpa Illya, eu exagerei. Mas eu não posso deixar de treinar. Desculpa por ter que te deixar sozinha, mas você poderia ficar esperando na sala?"::
 16973::$$$message_0155_0046_0000$$$::"......"[lr]::
-16974::$$$message_0155_0046_0001$$$::A Illya começa a andar sem dizer nada.[lr]::
+16974::$$$message_0155_0046_0001$$$::A Illya vai andando devagar até a entrada e para ao lado da parede.::
 16975::$$$message_0155_0047_0000$$$::"...?"[lr]::
 16976::$$$message_0155_0047_0001$$$::"Tá bom, então eu vou ver vocês treinarem daqui.[lr]::
 16977::$$$message_0155_0047_0002$$$::Assim não tem problema, não é!?"[lr]::
-16978::$$$message_0155_0047_0003$$$::Ela grita e olha para mim.::
-16979::$$$message_0155_0047_0004$$$::She glares our way, pitching a small tantrum.::
-16980::$$$message_0155_0048_0000$$$::"Um[line2]bem, eu não me importo, mas está frio aqui dentro. Na sala tem chá e biscoitos..."::
-16981::$$$message_0155_0049_0000$$$::"Eu vou ficar aqui porque estou afim! Heh, eu não vou deixar a Saber e o Shirou ficarem sozinhos!"[lr]::
+16978::$$$message_0155_0047_0003$$$::Ela solta um 'grr' irritada.::[lr]
+16979::$$$message_0155_0047_0004$$$::E fica nos encarando, fazendo birra.::
+16980::$$$message_0155_0048_0000$$$::"Um[line2]quer dizer, por mim tudo bem, mas o dojô é frio, sabia? Na sala tem chá e até petiscos..."::
+16981::$$$message_0155_0049_0000$$$::"Eu disse que vou ficar aqui, então vou ficar! Hmph! Não vou deixar você e a Saber sozinhos aqui!"[lr]::
 16982::$$$message_0155_0049_0001$$$::Depois de dizer uma coisa estranha, a Illya desvia o olhar.::
 16983::$$$message_0155_0050_0000$$$::"...Bem, você quem sabe. Mas se ficar entediada pode voltar para a sala."[lr]::
-16984::$$$message_0155_0050_0001$$$::Eu não sei o que a Illya quer com isso.[lr]::
-16985::$$$message_0155_0050_0002$$$::Mas acho que agora está resolvido.[lr]::
-16986::$$$message_0155_0051_0000$$$::"Então vamos começar. Eu posso estar fora de forma já que se passaram três dias... Ei, Saber? O que foi? Você parece estar distraída. Está passando mau?"[lr]::
+16984::$$$message_0155_0050_0001$$$::...Bom, tanto faz. Se ficar entediada, pode voltar para a sala.[lr]::
+16985::$$$message_0155_0050_0002$$$::Pelo menos a situação parece ter se acalmado. Pego os dois shinai encostados na parede e me viro para a Saber.::
+16986::$$$message_0155_0051_0000$$$::"Então vamos começar. Já faz três dias, então talvez eu esteja um pouco sem ritmo... Ei, Saber? Você está bem? Parece distraída. Está passando mal?"[lr]::
 16987::$$$message_0155_0051_0001$$$::"Hã[line2]ah, não, não é isso, mas..."[lr]::
 16988::$$$message_0155_0051_0002$$$::A Saber desvia o olhar da Illya e balança a cabeça.::
 16989::$$$message_0155_0052_0000$$$::"Então você está bem, não é? Vamos começar. Toma aqui a sua shinai."[lr]::
-16990::$$$message_0155_0052_0001$$$::"Ah... não, pode jogá-la para mim! Seria um problema se você chegasse perto demais sem tomar cuidado. N-Nós estamos treinando!"::
+16990::$$$message_0155_0052_0001$$$::"Ah... não, basta joga-lo para mim! Não se aproxime tão descuidadamente. N-nós estamos aqui apenas para treinar!"::
 16991::$$$message_0155_0053_0000$$$::"Mas era isso o que eu estava fazendo. De que você está falando, Saber?"[lr]::
 16992::$$$message_0155_0053_0001$$$::Eu jogo a shinai para ela.[lr]::
 16993::$$$message_0155_0053_0002$$$::Afinal, eu nunca consegui atacá-la.[lr]::
-16994::$$$message_0155_0053_0003$$$::Eu nunca consegui me aproximar da Saber antes, então ela não precisa me dizer para não chegar perto sem tomar cuidado.::
+16994::$$$message_0155_0053_0003$$$::Nunca sequer consegui entrar de verdade na guarda da Saber, então é estranho ela me dizer para não me aproximar assim.::
 16995::$$$message_0155_0054_0000$$$::"[line5]"[lr]::
 16996::$$$message_0155_0054_0001$$$::A Saber pega a shinai de forma desajeitada e respira fundo de uma maneira exagerada.::
-16997::$$$message_0155_0055_0000$$$::"Então vamos começar. Vai ser diferente das outras vezes, mas tente se manter calmo, Shirou."[lr]::
+16997::$$$message_0155_0055_0000$$$::"Então, vamos começar. Não será como antes, mas tente manter a calma, Shirou."[lr]::
 16998::$$$message_0155_0055_0001$$$::A Saber diz isso enquanto olha para a Illya.::
 16999::$$$message_0155_0056_0000$$$::"Tudo bem, eu não vou me preocupar com quem está nos assistindo depois que começarmos."[lr]::
 17000::$$$message_0155_0056_0001$$$::Eu preparo a minha shinai e olho para a Saber.[lr]::
 17001::$$$message_0155_0056_0002$$$::Na minha frente vejo uma garota loira, segurando outra shinai.[lr]::
 17002::$$$message_0155_0056_0003$$$::Isso faz com que eu só me concentre nela.::
-17003::$$$message_0155_0057_0000$$$::Depois de treinarmos durante duas horas, nós fazemos a nossa pausa de sempre.[lr]::
-17004::$$$message_0155_0058_0000$$$::"Ufa[line2]haa[line2]Isso... me faz... lembrar. Você... é mesmo... incrível."[lr]::
+17003::$$$message_0155_0057_0000$$$::Depois de treinarmos durante duas horas, nós fazemos a nossa pausa de sempre.::
+17004::$$$message_0155_0058_0000$$$::"Ufa[line2]haa[line2]Isso... me faz... lembrar. Como você é incrível, Saber..."[lr]::
 17005::$$$message_0155_0058_0001$$$::E então, eu bebo água direto de uma chaleira.[lr]::
 17006::$$$message_0155_0058_0002$$$::Só depois de matar a minha sede e limpar o suor do meu pescoço que o meu corpo descansa.::
 17007::$$$message_0155_0059_0000$$$::"Ei, esse foi o treinamento de vocês? Para mim pareceu mais que o Shirou só apanhou."[lr]::
 17008::$$$message_0155_0059_0001$$$::"Ugh[line2]"[lr]::
-17009::$$$message_0155_0059_0002$$$::A Illya diz uma coisa desagradável.::
+17009::$$$message_0155_0059_0002$$$::A Illya fala na lata o que normalmente seria constrangedor dizer.::
 17010::$$$message_0155_0060_0000$$$::"Não é bem assim, Illya. Eu posso estar apanhando agora, mas antes era ainda pior.[lr]::
 17011::$$$message_0155_0060_0001$$$::Aliás, hoje até me saí bem. Eu nem fui nocauteado."::
 17012::$$$message_0155_0061_0000$$$::"Entendo. Mas será que foi por mérito seu? Você perdeu o equilíbrio várias vezes, mas parecia que a Saber sempre ignorava essas chances de propósito..."::
 17013::$$$message_0155_0062_0000$$$::A Illya pensa sobre a luta.[lr]::
 17014::$$$message_0155_0062_0001$$$::...Ela é esperta.[lr]::
 17015::$$$message_0155_0062_0002$$$::Eu também percebi isso.::
-17016::$$$message_0155_0063_0000$$$::Eu não sei se a Saber estava sendo gentil com o meu corpo ou se ela está fora de forma.[lr]::
+17016::$$$message_0155_0063_0000$$$::Ou a Saber estava se contendo por causa de mim, ou então ela mesma não está em plena forma.[lr]::
 17017::$$$message_0155_0063_0001$$$::Mas independente disso, ela não lutou contra mim usando toda a sua força.[lr]::
 17018::$$$message_0155_0063_0002$$$::Bem, a Saber nunca usa toda a sua força em mim, mas mesmo assim ela costuma me atacar sem piedade sempre que eu mostro uma abertura.::
 17019::$$$message_0155_0064_0000$$$::Mas hoje, a Saber não fez isso.[lr]::
-17020::$$$message_0155_0064_0001$$$::Ela não deu nenhum ataque que poderia ter me nocauteado.::
+17020::$$$message_0155_0064_0001$$$::Normalmente, ela avançaria na mesma hora e me apagaria com um golpe seco. Hoje não houve nada disso.::
 17021::$$$message_0155_0065_0000$$$::"...Você também acha? Então será que a Saber pegou leve comigo hoje?"::
 17022::$$$message_0155_0066_0000$$$::"Hmm, não acho que tenha sido isso.[lr]::
 17023::$$$message_0155_0066_0001$$$::A Saber preparava a shinai para dar o ataque final, mas ela sempre mudava de ideia no último segundo.[lr]::
@@ -163,11 +163,11 @@ id=qid::label=str::text=lstr::
 17029::$$$message_0155_0069_0000$$$::"...Nossa. O que aconteceu, Saber? Assim eu não vou conseguir treinar. Você não estava pegando leve comigo, estava?"::
 17030::$$$message_0155_0070_0000$$$::"Não, eu não peguei leve contigo.[lr]::
 17031::$$$message_0155_0070_0001$$$::Eu estava assumindo o papel de um guerreiro um nível acima de você, como sempre faço..."[lr]::
-17032::$$$message_0155_0070_0002$$$::A Saber também deve ter estranhado o treinamento de hoje.::
-17033::$$$message_0155_0070_0003$$$::Saber também tem que ver isso.::
+17032::$$$message_0155_0070_0002$$$::Mas, de algum modo, ela parece insegura ao falar.::
+17033::$$$message_0155_0070_0003$$$::Será que até a própria Saber percebeu que o treino de hoje estava estranho?.::
 17034::$$$message_0155_0071_0000$$$::"...Sim. Eu não consigo te imaginar pegando leve comigo, e eu percebi que você estava lutando a sério.[lr]::
-17035::$$$message_0155_0071_0001$$$::Mas será que hoje você não ficou com um pouco de medo? Você deveria ter vindo diretamente até mim e me acertado."::
-17036::$$$message_0155_0072_0000$$$::"D-diretamente...? Mas isso faria com que eu chegasse muito perto de você. Os nossos corpos poderiam encostrar um no outro dependendo da situação..."::
+17035::$$$message_0155_0071_0001$$$::Mas você não ficou passiva demais? Se você não vier de frente com tudo, isso não vai servir para nada."::
+17036::$$$message_0155_0072_0000$$$::"DD-diretamente...? Mas, se eu fizer isso, vou me aproximar demais do Mestre. Dependendo de como a coisa se desenrolar, nossos corpos podem acabar se tocando..."::
 17037::$$$message_0155_0073_0000$$$::"...? Nós estamos lutando, é claro que vamos acabar nos encostado. Afinal, você costumava me enfrentar sempre que eu chegasse perto demais. Você não era boa em lutar a curta distância?"::
 17038::$$$message_0155_0074_0000$$$::"Eh[line2]Eu fazia isso...!?"::
 17039::$$$message_0155_0075_0000$$$::"Do que você está falando...? Bem, você fazia isso várias vezes.[lr]::
@@ -177,9 +177,9 @@ id=qid::label=str::text=lstr::
 17043::$$$message_0155_0076_0001$$$::A Saber está parada sem acreditar.::
 17044::$$$message_0155_0077_0000$$$::"...?"[lr]::
 17045::$$$message_0155_0077_0001$$$::A Saber está mesmo estranha hoje.[lr]::
-17046::$$$message_0155_0077_0002$$$::Mas eu não tenho a menor ideia do porquê.[lr]::
+17046::$$$message_0155_0077_0002$$$::Se a saúde da Saber estiver ruim, isso é sério. Talvez eu deva falar com a Tohsaka depois.::
 17047::$$$message_0155_0078_0000$$$::Nós voltamos para o treinamento, e ele continua diferente de antes.[lr]::
-17048::$$$message_0155_0078_0001$$$::Nós voltamos a treinar... mas a Saber começou a recuar depois de algumas partidas.::
+17048::$$$message_0155_0078_0001$$$::Nós retomamos o treino, mas continua diferente de antes. Só que, depois de trocar poucos golpes, a Saber abaixa o shinai..::
 17049::$$$message_0155_0079_0000$$$::"...?"[lr]::
 17050::$$$message_0155_0079_0001$$$::Será que esse é um novo jeito dela de treinar?[lr]::
 17051::$$$message_0155_0079_0002$$$::Ela pode me contra-atacar assim que eu abaixar a guarda.::

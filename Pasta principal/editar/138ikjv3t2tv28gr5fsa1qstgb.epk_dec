@@ -37,7 +37,7 @@ id=qid::label=str::text=lstr::
 8443::$$$message_0083_0012_0003$$$::"Ei...!"[lr]::
 8444::$$$message_0083_0012_0004$$$::Eu rapidamente a seguro pelo braço.[lr]::
 8445::$$$message_0083_0012_0005$$$::O seu corpo é surpreendentemente leve, e não acho que seja por eu ter muita força.::
-8446::$$$message_0083_0013_0000$$$::"V-você me assustou... Sakura, você está mesmo bem?[lr]::
+8446::$$$message_0083_0013_0000$$$::"V-Você me assustou... Sakura, você está mesmo bem?[lr]::
 8447::$$$message_0083_0013_0001$$$::Você mal consegue ficar de pé direito."[lr]::
 8448::$$$message_0083_0013_0002$$$::"..."[lr]::
 8449::$$$message_0083_0013_0003$$$::Ela desvia o olhar de modo escusatório.[lr]::
@@ -62,7 +62,7 @@ id=qid::label=str::text=lstr::
 8468::$$$message_0083_0019_0002$$$::E também puxo a cadeira da mesa ao lado da minha.::
 8469::$$$message_0083_0020_0000$$$::"Hm... Senpai?"[lr]::
 8470::$$$message_0083_0020_0001$$$::"Sente-se. Eu não vou tentar te impedir de ir pro clube, mas pelo menos descanse um pouco. Você pode falar pro Shinji que fui eu que fiz você se atrasar."::
-8471::$$$message_0083_0021_0000$$$::"E-eu não posso dizer isso...! Se eu disser, o Nii-san vai..."::
+8471::$$$message_0083_0021_0000$$$::"E-Eu não posso dizer isso...! Se eu disser, o Nii-san vai..."::
 8472::$$$message_0083_0022_0000$$$::"O Shinji mexe comigo o tempo todo.[lr]::
 8473::$$$message_0083_0022_0001$$$::É bom ele ter assunto pra falar sobre todos os dias.[lr]::
 8474::$$$message_0083_0022_0002$$$::E você não devia se sentir culpada falando isso, não é uma mentira."[lr]::
@@ -72,7 +72,7 @@ id=qid::label=str::text=lstr::
 8478::$$$message_0083_0024_0000$$$::"Muito bem. Espere aqui por um tempo, eu vou roubar um chá da sala do conselho estudantil. Você está proibida de se levantar até que eu retorne."::
 8479::$$$message_0083_0025_0000$$$::"Hã...? Senpai, você pode acabar com problemas se fizer isso..."::
 8480::$$$message_0083_0026_0000$$$::"Só se algum professor me pegar... Ei, eu estou acostumado com isso, não haverá problema algum a menos que eu dê de cara com algum professor quando estiver no corredor. Sakura, fique sentada aí me esperando."[lr]::
-8481::$$$message_0083_0026_0001$$$::"E-eu não posso. Eu não posso ficar aqui esperando enquanto você faz algo perigoso, Senpai. E Senpai, eu não me importo com o chá."::
+8481::$$$message_0083_0026_0001$$$::"E-Eu não posso. Eu não posso ficar aqui esperando enquanto você faz algo perigoso, Senpai. E Senpai, eu não me importo com o chá."::
 8482::$$$message_0083_0027_0000$$$::"Eu estou te dizendo que não há perigo algum. Só fique aí sentada. Beber chá na sala de aula deve ser uma boa experiência."[lr]::
 8483::$$$message_0083_0027_0001$$$::"Ah..."::
 8484::$$$message_0083_0028_0000$$$::Eu saio correndo pro corredor.[lr]::
@@ -153,7 +153,7 @@ id=qid::label=str::text=lstr::
 8559::$$$message_0083_0053_0004$$$::Eu fazia algumas coisas bem imprudentes todos os dias, então acho que a história da Sakura é apenas um exemplo disso.::
 8560::$$$message_0083_0054_0000$$$::"Uh... Sakura. Não me diga que essa pessoa é..."[lr]::
 8561::$$$message_0083_0054_0001$$$::"Sim. A história é sobre um veterano. Na verdade, ele está na sala comigo agora.[lr]::
-8562::$$$message_0083_0054_0002$$$::"Você era um pouco menor naquela época, então pensei que estivesse na mesma série que eu."[lr]::
+8562::$$$message_0083_0054_0002$$$::Você era um pouco menor naquela época, então pensei que estivesse na mesma série que eu."[lr]::
 8563::$$$message_0083_0054_0003$$$::Ugh.[lr]::
 8564::$$$message_0083_0054_0004$$$::Eu realmente gostaria que ela não mencionasse minha altura quando eu era mais jovem.[lr]::
 8565::$$$message_0083_0054_0005$$$::Claro, eu não sou tão alto mesmo agora, mas eu ainda tive um estirão.::
@@ -171,7 +171,7 @@ id=qid::label=str::text=lstr::
 8577::$$$message_0083_0058_0002$$$::"Acho que te segurar por mais tempo não seria bom. Eu vou limpar para que você possa ir. Você se sente melhor, certo?"::
 8578::$$$message_0083_0059_0000$$$::"Sim, me sinto muito melhor graças a você. Por favor, aguarde ansiosamente pelo jantar esta noite."[lr]::
 8579::$$$message_0083_0059_0001$$$::Sakura se levanta.[lr]::
-8580::$$$message_0083_0059_0002$$$::Ela não parece estar forçando; ela realmente parece melhor.::
+8580::$$$message_0083_0059_0002$$$::Ela não parece estar forçando, ela realmente parece melhor.::
 8581::$$$message_0083_0060_0000$$$::"Ah, desculpe, Sakura. Na verdade, preciso trabalhar hoje à noite. Vou me atrasar, então você não precisa se preocupar em ir lá em casa hoje à noite."[lr]::
 8582::$$$message_0083_0060_0001$$$::"Entendido. Então eu vou apenas fazer o jantar e deixar para você."[lr]::
 8583::$$$message_0083_0060_0002$$$::Sakura se curva rapidamente e sai.::

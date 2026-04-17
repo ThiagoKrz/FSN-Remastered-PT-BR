@@ -2,22 +2,22 @@ DAT
 id=qid::label=str::text=lstr::
 21782::$$$message_0196_0000_0000$$$::"Sa... ber[line2]"[lr]::
 21783::$$$message_0196_0000_0001$$$::...A Saber não responde.[lr]::
-21784::$$$message_0196_0000_0002$$$::Mas assim que tenta respirar pela boca, ela acaba tossindo sangue.::
+21784::$$$message_0196_0000_0002$$$::Apenas, ao abrir a boca num suspiro ofegante, sangue escapa.::
 21785::$$$message_0196_0001_0000$$$::"[line5]"[lr]::
 21786::$$$message_0196_0001_0001$$$::A minha visão fica vermelha.[lr]::
 21787::$$$message_0196_0001_0002$$$::[line2]O que foi que eu fiz?[lr]::
 21788::$$$message_0196_0001_0003$$$::Eu sabia que isso iria acontecer.[lr]::
-21789::$$$message_0196_0001_0004$$$::Se eu sabia que a Saber não conseguiria derrotar o Gilgamesh, então por que não a impedi de enfrentá-lo, mesmo se tivesse que usar o meu Selo de Comando?::
-21790::$$$message_0196_0002_0000$$$::"Que coisa mais sem graça. Uma vitória completa, hã!?[lr]::
-21791::$$$message_0196_0002_0001$$$::Eu estou decepcionado que você não conseguiu nem se igualar ao meu ataque, Saber. Ah, já entendi. Eu deveria ter pego leve contigo. Afinal, eu estou lutando contra uma mulher e uma criança!"[lr]::
+21789::$$$message_0196_0001_0004$$$::Mesmo sabendo que a Saber não podia derrotar o Gilgamesh... então por que não a impedi de enfrentá-lo, mesmo se tivesse que usar o meu Selo de Comando?::
+21790::$$$message_0196_0002_0000$$$::"Mas que sem graça. Foi uma vitória completa, hein?[lr]::
+21791::$$$message_0196_0002_0001$$$::Nem conseguiu sequer anular meu golpe, que decepção, Saber.. Ah, já entendi. Eu deveria ter pego leve contigo. afinal, era só uma mulher... e uma criança!"[lr]::
 21792::$$$message_0196_0002_0002$$$::Essa risada irritante dele.[lr]::
-21793::$$$message_0196_0002_0003$$$::Eu tenho que tomar a responsabilidade por isso.::
+21793::$$$message_0196_0002_0003$$$::A culpa disso é minha.::
 21794::$$$message_0196_0003_0000$$$::...Eu achei que ela pudesse vencer.[lr]::
 21795::$$$message_0196_0003_0001$$$::Por mais que eu estivesse com um mal pressentimento, eu ainda tinha a esperança de que a Excalibur da Saber fosse derrotá-lo.[lr]::
 21796::$$$message_0196_0003_0002$$$::Foi por isso que eu não ativei o meu Selo de Comando mesmo depois de ter dito para que ela parasse.::
 21797::$$$message_0196_0004_0000$$$::[line2]Eu não levei isso a sério.[lr]::
 21798::$$$message_0196_0004_0001$$$::Se quisesse proteger a Saber de verdade, eu poderia obrigá-la a fugir daqui com o meu Selo de Comando[line2]e depois disso, poderia pensar em várias maneiras de lutar sozinho contra aquele cara.::
-21799::$$$message_0196_0005_0000$$$::"Enfim. Agora, me deixe te levar. Você está toda suja, mas era só uma questão de tempo até que ficasse assim. Eu vou te perdoar por você ter ficado ferida."::
+21799::$$$message_0196_0005_0000$$$::"Enfim. Agora, me deixe te levar. Você está toda suja, mas cedo ou tarde, acabaria assim mesmo. Eu vou te perdoar por você ter ficado ferida."::
 21800::$$$message_0196_0006_0000$$$::A risada se aproxima.[lr]::
 21801::$$$message_0196_0006_0001$$$::"[line2]"[lr]::
 21802::$$$message_0196_0006_0002$$$::A Saber deve ter percebido isso, já que ela abre os olhos devagar.::
@@ -28,79 +28,79 @@ id=qid::label=str::text=lstr::
 21807::$$$message_0196_0008_0000$$$::"Saber...! Saber, Saber...!"[lr]::
 21808::$$$message_0196_0008_0001$$$::"...Ah..."::
 21809::$$$message_0196_0009_0000$$$::A Saber abre a boca.[lr]::
-21810::$$$message_0196_0009_0001$$$::Ela respira como se estivesse pedindo ajuda, e então começa a tossir com dor.::
+21810::$$$message_0196_0009_0001$$$::Ela puxa o ar como se pedisse socorro, e então começa a tossir com dor.::
 21811::$$$message_0196_0010_0000$$$::"...Shirou...? Você... está aí...?"[lr]::
-21812::$$$message_0196_0010_0001$$$::A Saber me chama com uma voz fraca, indicando que ela não consegue me ver.::
+21812::$$$message_0196_0010_0001$$$::A Saber me chama com uma voz fraca, como se nem conseguisse me ver.::
 21813::$$$message_0196_0011_0000$$$::"[line2]Aguenta firme. Eu vou[line2]"[lr]::
-21814::$$$message_0196_0011_0001$$$::Eu não posso dizer que vou ajudá-la.[lr]::
-21815::$$$message_0196_0011_0002$$$::Eu também estou caído no chão, e só consigo mexer o meu braço.[lr]::
-21816::$$$message_0196_0011_0003$$$::Tudo que posso fazer é chamar por ela para tentar acalmá-la.[lr]::
-21817::$$$message_0196_0011_0004$$$::...Será que o ferimento da Saber é tão grave que ela nem consegue ver que eu estou aqui?::
+21814::$$$message_0196_0011_0001$$$::Mas eu não consigo dizer que vou ajudá-lá.[lr]::
+21815::$$$message_0196_0011_0002$$$::Eu também estou caído no chão, e só um dos meus braços ainda se move.[lr]::
+21816::$$$message_0196_0011_0003$$$::Nem ao menos consigo encontrar palavras para tranquilizá-la.[lr]::
+21817::$$$message_0196_0011_0004$$$::...Ou será que ela nem consegue ver o quão patético eu estou??::
 21818::$$$message_0196_0012_0000$$$::"...Ah, entendi. Eu fui derrotada..."[lr]::
-21819::$$$message_0196_0012_0001$$$::Ela diz isso com uma voz macia e olha para mim com olhos sem vida.[lr]::
-21820::$$$message_0196_0012_0002$$$::"[line2]Me perdoe... por favor fuja daqui, Mestre..."[lr]::
-21821::$$$message_0196_0012_0003$$$::Ela diz uma coisa absurda enquanto continua a tossir sangue.::
+21819::$$$message_0196_0012_0001$$$::Ela murmura isso num fio de voz, olhando para mim com olhos sem luz.[lr]::
+21820::$$$message_0196_0012_0002$$$::"[line2]Me perdoe... por favor, fuja daqui, Mestre..."[lr]::
+21821::$$$message_0196_0012_0003$$$::Mesmo tossindo sangue, ainda solta um absurdo desses.::
 21822::$$$message_0196_0013_0000$$$::"[line5]"[lr]::
 21823::$$$message_0196_0013_0001$$$::A minha visão fica vermelha de raiva.[lr]::
 21824::$$$message_0196_0013_0002$$$::Eu fiquei dependendo da Saber sem perceber, e esse foi o resultado?[lr]::
-21825::$$$message_0196_0013_0003$$$::Eu não consegui nem me levantar depois de ter recebido um ataque surpresa?[lr]::
-21826::$$$message_0196_0013_0004$$$::[line2]Eu seguro a minha cabeça com o meu único braço que consigo mexer.[lr]::
+21825::$$$message_0196_0013_0003$$$:::Levei um golpe de surpresa e nem sequer consigo me levantar?[lr]::
+21826::$$$message_0196_0013_0004$$$::[line2]Com o único braço que ainda obedece, agarro a própria cabeça..[lr]::
 21827::$$$message_0196_0013_0005$$$::Eu estou com vontade de me matar.[lr]::
 21828::$$$message_0196_0013_0006$$$::Então eu coloco força na minha mão para tentar esmagar a minha própria cabeça.::
-21829::$$$message_0196_0014_0000$$$::Um martelo dispara o alarme.[lr]::
-21830::$$$message_0196_0014_0001$$$::Dessa vez, ao invés de usar o meu dedo, eu uso esse martelo para esmagar o interruptor que me faz virar um mago.::
+21829::$$$message_0196_0014_0000$$$::O gatilho desce.[lr]::
+21830::$$$message_0196_0014_0001$$$::Em vez de acionar com cuidado, eu simplesmente forço o gatilho que me faz virar um mago.::
 21831::$$$message_0196_0015_0000$$$::"[line2]Nunca mais use isso de novo. A magia de projeção está além do seu limite[line2]"[l]::
 21832::$$$message_0196_0015_0001$$$::Foi o que a Tohsaka disse.[lr]::
-21833::$$$message_0196_0015_0002$$$::Ela disse que usar uma magia que está além do limite de um mago vai destruir os seus nervos e circuitos.::
-21834::$$$message_0196_0016_0000$$$::Qual é o problema?[lr]::
+21833::$$$message_0196_0015_0002$$$::Ela disse que usar magia além dos seus limites destrói os nervos e os circuitos mágicos.::
+21834::$$$message_0196_0016_0000$$$::E daí?[lr]::
 21835::$$$message_0196_0016_0001$$$::Ela é mais importante do que isso. Se eu não puder protegê-la, nem preciso mais desse corpo.[lr]::
 21836::$$$message_0196_0016_0002$$$::Ela já me ajudou tantas vezes...[lr]::
 21837::$$$message_0196_0016_0003$$$::Nunca teve alguém que eu me importei tanto antes.[lr]::
 21838::$$$message_0196_0016_0004$$$::Por isso.[lr]::
-21839::$$$message_0196_0016_0005$$$::Se eu não puder protegê-la, o Emiya Shirou pode morrer aqui mesmo[line2]!::
+21839::$$$message_0196_0016_0005$$$::Se eu não puder protegê-la, então Emiya Shirou pode muito bem morrer aqui mesmo[line2]!::
 21840::$$$message_0196_0017_0000$$$::...Eu ouvi barulhos de metal.[lr]::
-21841::$$$message_0196_0017_0001$$$::Uma energia mágica metálica reforça todos os ossos do meu corpo que estão quebrados.[lr]::
-21842::$$$message_0196_0017_0002$$$::Eu vou dar tudo o que tenho.[lr]::
+21841::$$$message_0196_0017_0001$$$::Os ossos quebrados do meu corpo são reforçados por uma energia mágica rígida, quase metálica.[lr]::
+21842::$$$message_0196_0017_0002$$$::Não tem mais volta.[lr]::
 21843::$$$message_0196_0017_0003$$$::Eu vou fazer com que a minha maior engrenagem gire na velocidade mais rápida possível sem me importar com os meus limites, para que assim consiga criar o máximo de energia mágica possível...!::
 21844::$$$message_0196_0018_0000$$$::"[line5]Gih."[lr]::
 21845::$$$message_0196_0018_0001$$$::A minha coluna fica em chamas e o meu corpo inteiro começa a ferver.[lr]::
-21846::$$$message_0196_0018_0002$$$::Eu mordo a língua para suportar a dor de ter o meu cérebro derretendo.[lr]::
-21847::$$$message_0196_0018_0003$$$::Eu mordo todo o meu músculo rosado.[lr]::
+21846::$$$message_0196_0018_0002$$$::A sensação é de que meu cérebro vai derreter, e eu mordo a lingua para aguentar.[lr]::
+21847::$$$message_0196_0018_0003$$$::Os dentes afundam na carne macia.[lr]::
 21848::$$$message_0196_0018_0004$$$::Se eu conseguir ficar consciente em troca de só fazer um furo na minha língua, então tudo bem.::
 21849::$$$message_0196_0019_0000$$$::"[line2]O quê?"[lr]::
-21850::$$$message_0196_0019_0001$$$::Os passos dele param.[lr]::
-21851::$$$message_0196_0019_0002$$$::Ele também para de rir.::
+21850::$$$message_0196_0019_0001$$$::Os passos param...[lr]::
+21851::$$$message_0196_0019_0002$$$::E a risada dele cessa junto.::
 21852::$$$message_0196_0020_0000$$$::"Quê[line2]Shirou...?[lr]::
 21853::$$$message_0196_0020_0001$$$::O-O que você está fazendo...!? Se você fizer isso, o seu corpo vai...!"[lr]::
 21854::$$$message_0196_0020_0002$$$::Mesmo sem conseguir me ver, ela deve ter percebido o que eu estou fazendo.[lr]::
-21855::$$$message_0196_0020_0003$$$::A Saber grita enquanto tenta se levantar.::
-21856::$$$message_0196_0021_0000$$$::[line2]Isso faz com que o resto das minhas forças sejam ativadas.[lr]::
+21855::$$$message_0196_0020_0003$$$::A Saber grita, tentando à força se levantar.::
+21856::$$$message_0196_0021_0000$$$::[line2]Algo dentro de mim se rompe.[lr]::
 21857::$$$message_0196_0021_0001$$$::Eu fico de pé.[lr]::
-21858::$$$message_0196_0021_0002$$$::O meu corpo, que antes não estava me obedecendo, agora começa a se mover graças à energia mágica que foi concentrada além dos limites.[lr]::
-21859::$$$message_0196_0021_0003$$$::O que acabei de fazer foi como tacar fogo no meu próprio corpo para forçá-lo a correr até a água.::
+21858::$$$message_0196_0021_0002$$$::O meu corpo, que antes não estava me obedecendo, agora começa a se mover a força graças à energia mágica que foi concentrada além dos limites.[lr]::
+21859::$$$message_0196_0021_0003$$$::É como atear fogo ao próprio corpo e correr instintivamente em direção à água para sobreviver.::
 21860::$$$message_0196_0022_0000$$$::Mas eu não me importo.[lr]::
-21861::$$$message_0196_0022_0001$$$::É bem melhor do que ver a Saber ficar ferida.[lr]::
+21861::$$$message_0196_0022_0001$$$::É melhor do que ver a Saber daquele jeito.[lr]::
 21862::$$$message_0196_0022_0002$$$::...Isso mesmo.[lr]::
-21863::$$$message_0196_0022_0003$$$::Com a minha mente prestes a derreter, eu finalmente percebi.[lr]::
-21864::$$$message_0196_0022_0004$$$::Que desde o começo.[lr]::
+21863::$$$message_0196_0022_0003$$$:::Com a mente a beira de se apagar, eu finalmente entendo.[lr]::
+21864::$$$message_0196_0022_0004$$$::Desde o começo.[lr]::
 21865::$$$message_0196_0022_0005$$$::Eu prometi lutar porque não queria vê-la se machucar.::
 21866::$$$message_0196_0023_0000$$$::"Quê[line2]Eu já te disse para fugir, então por quê...!?"::
-21867::$$$message_0196_0024_0000$$$::Eu fico na frente do meu inimigo.[lr]::
-21868::$$$message_0196_0024_0001$$$::A Saber está logo atrás de mim.[lr]::
+21867::$$$message_0196_0024_0000$$$::Eu me coloco entre ele e o caminho.[lr]::
+21868::$$$message_0196_0024_0001$$$::A Saber está caída logo atrás de mim.[lr]::
 21869::$$$message_0196_0024_0002$$$::A partir de agora...[lr]::
-21870::$$$message_0196_0024_0003$$$::Eu não posso mais voltar atrás.::
+21870::$$$message_0196_0024_0003$$$::Não posso mais voltar atrás.::
 21871::$$$message_0196_0025_0000$$$::"Trace, on."[lr]::
 21872::$$$message_0196_0025_0001$$$::...Eu seguro o meu cérebro que está correndo em chamas e coloco a minha mente para funcionar.[lr]::
-21873::$$$message_0196_0025_0002$$$::Eu só estou pensando em uma coisa.[lr]::
-21874::$$$message_0196_0025_0003$$$::Eu vou dividir a projeção em oito etapas para conseguir criar a espada perdida[line2]::
-21875::$$$message_0196_0026_0000$$$::Eu sinto alguma coisa pesada na minha mão esquerda.[lr]::
-21876::$$$message_0196_0026_0001$$$::...Eu nem preciso olhar para ela para confirmar o que é.[lr]::
+21873::$$$message_0196_0025_0002$$$::Só há uma coisa a imaginar.[lr]::
+21874::$$$message_0196_0025_0003$$$::Divido a projeção em oito etapas e recrio a espada perdida[line2]::
+21875::$$$message_0196_0026_0000$$$::Sinto alguma coisa pesada na minha mão esquerda.[lr]::
+21876::$$$message_0196_0026_0001$$$::...Nem preciso olhar para ela para confirmar o que é.[lr]::
 21877::$$$message_0196_0026_0002$$$::A produção da segunda espada foi concluída mais rápido do que nunca.::
 21878::$$$message_0196_0027_0000$$$::"A minha... espada[line2]n-não, isso ainda não é o suficiente. Você sabe que não pode vencê-lo só com isso...![lr]::
 21879::$$$message_0196_0027_0001$$$::Se você consegue se mexer, então por favor fuja daqui[line2]"::
 21880::$$$message_0196_0028_0000$$$::"Não vou fugir. Eu vim até aqui para te levar para casa, então não posso fugir sem você."[lr]::
 21881::$$$message_0196_0028_0001$$$::Eu preparo a minha espada.[lr]::
-21882::$$$message_0196_0028_0002$$$::Eu a seguro, mais pesada do que uma shinai, e então encaro o inimigo.::
+21882::$$$message_0196_0028_0002$$$::Seguro-a com as duas mãos, muito mais pesada que um shinai, e encaro o inimigo.::
 21883::$$$message_0196_0029_0000$$$::"[line2]Pare, Shirou. Esse homem é[line2]"[lr]::
 21884::$$$message_0196_0029_0001$$$::Eu ignoro o que a Saber está dizendo e sigo em frente.::
 21885::$$$message_0196_0030_0000$$$::...Nós estamos a quatro metros de distância.[lr]::
@@ -117,51 +117,51 @@ id=qid::label=str::text=lstr::
 21896::$$$message_0196_0032_0001$$$::Mas eu não sou rápido o suficiente.[lr]::
 21897::$$$message_0196_0032_0002$$$::Se o primeiro ataque foi como uma brisa inesperada, então a próxima sequência de ataques é como uma rajada de vento.[lr]::
 21898::$$$message_0196_0032_0003$$$::"Ha[line2]kuh, guh...!"[lr]::
-21899::$$$message_0196_0032_0004$$$::Eu só consigo ficar desviando os ataques dele com a minha espada.[lr]::
-21900::$$$message_0196_0032_0005$$$::Aliás, eu nem teria sido capaz de bloquear o primeiro ataque sozinho.::
-21901::$$$message_0196_0033_0000$$$::A minha sorte é que eu reproduzi as lembranças da espada junto com ela.[lr]::
-21902::$$$message_0196_0033_0001$$$::Uma espada que passou por várias batalhas e que tem bastante experiência de combate.[lr]::
+21899::$$$message_0196_0032_0004$$$::Só consigo ficar desviando os ataques dele com a minha espada.[lr]::
+21900::$$$message_0196_0032_0005$$$::Na verdade... sozinho, eu nem teria bloqueado o primeiro golpe.::
+21901::$$$message_0196_0033_0000$$$::A espada, junto com sua forma, também reproduziu suas memórias.[lr]::
+21902::$$$message_0196_0033_0001$$$::ma lâmina que atravessou incontáveis batalhas carrega vontade e experiência.[lr]::
 21903::$$$message_0196_0033_0002$$$::Essa espada já deve estar acostumada com ataques como esses.[lr]::
 21904::$$$message_0196_0033_0003$$$::Eu não consigo reagir aos ataques do Gilgamesh, mas essa espada consegue.::
 21905::$$$message_0196_0034_0000$$$::Ou seja, essa espada reage sozinha aos ataques antes mesmo das minhas próprias mãos.[lr]::
 21906::$$$message_0196_0034_0001$$$::Eu só tenho que balançar os meus braços para seguir o ritmo da espada, e com isso acabo conseguindo bloquear os ataques dele.::
 21907::$$$message_0196_0035_0000$$$::"Ha[line2]Haa, guh[line2]!"[lr]::
 21908::$$$message_0196_0035_0001$$$::Mas isso não vai durar por muito tempo.[lr]::
-21909::$$$message_0196_0035_0002$$$::Os meus dedos estão ficando dormentes de tanto balançar a espada, e está ficando cada vez mais difícil de acompanhar o ritmo dela.::
-21910::$$$message_0196_0036_0000$$$::"[line2]Seu vira-latas. Você é mais do que desagradável para a minha vista."[lr]::
+21909::$$$message_0196_0035_0002$$$::A cada golpe, meus dedos ficam dormentes... e está ficando cada vez mais difícil de acompanhar o ritmo da espada.::
+21910::$$$message_0196_0036_0000$$$::"[line2]Seu vira-lata. Você é mais do que desagradável para a minha vista."[lr]::
 21911::$$$message_0196_0036_0001$$$::Ele deve estar odiando a resistência que eu estou fazendo.[lr]::
-21912::$$$message_0196_0036_0002$$$::Ele olha para mim com raiva e recua um pouco.::
+21912::$$$message_0196_0036_0002$$$::Gilgamesh me encara com desprezo e recua pouco.::
 21913::$$$message_0196_0037_0000$$$::"Ah... haa, haa, ha[line2]"[lr]::
-21914::$$$message_0196_0037_0001$$$::...Graças a Deus.[lr]::
+21914::$$$message_0196_0037_0001$$$::...Ainda bem.[lr]::
 21915::$$$message_0196_0037_0002$$$::Se ele não tivesse parado de me atacar, eu só teria durado por mais alguns segundos.[lr]::
-21916::$$$message_0196_0037_0003$$$::Eu respiro fundo para tentar controlar a minha respiração.[lr]::
+21916::$$$message_0196_0037_0003$$$::Respiro fundo para tentar controlar a minha respiração.[lr]::
 21917::$$$message_0196_0037_0004$$$::[line2]E então.::
-21918::$$$message_0196_0038_0000$$$::"Seu imitador nojento. Já que você gosta tanto dessa daí, eu vou te mostrar a verdadeira."[lr]::
+21918::$$$message_0196_0038_0000$$$::"Seu imitador nojento. Já que gosta tanto disso, vou te mostrar o original."[lr]::
 21919::$$$message_0196_0038_0001$$$::Ele saca uma espada.::
 21920::$$$message_0196_0039_0000$$$::"Quê[line2]"[lr]::
 21921::$$$message_0196_0039_0001$$$::Eu... conheço essa espada.[lr]::
 21922::$$$message_0196_0039_0002$$$::Os detalhes em volta dela são diferentes.[lr]::
-21923::$$$message_0196_0039_0003$$$::Mas a sua natureza verdadeira, a ideia da sua criação e a sua alma são parecidas demais com a espada que eu estou usando agora[line2]::
+21923::$$$message_0196_0039_0003$$$::mas sua essência, o conceito por trás dela... até a "alma" são parecidas demais com a espada que eu estou usando agora[line2]::
 21924::$$$message_0196_0040_0000$$$::"Não pode ser[line2]o modelo dessa espada..."::
 21925::$$$message_0196_0041_0000$$$::"Isso mesmo. Mas o poder de Fantasma Nobre dela é incrível.[lr]::
-21926::$$$message_0196_0041_0001$$$::O que você tem é 'a espada presa na pedra', que surgiu da lenda 'a espada da supremacia presa na árvore' do norte da Europa[line2]Mas esse é o modelo original dela, que serviu de base para a seleção sagrada do rei."::
-21927::$$$message_0196_0042_0000$$$::A espada da supremacia presa na árvore[line2]Gram, a espada demoníaca de Siegfried, o herói do norte da Europa[line2]esse é o modelo original dela...?::
+21926::$$$message_0196_0041_0001$$$::O que você tem é 'a espada presa na pedra', que surgiu da lenda nórdica da espada cravada na árvore da soberania do norte da Europa[line2]Mas esse é o modelo original dela, que serviu de base para a seleção sagrada do rei."::
+21927::$$$message_0196_0042_0000$$$::A espada na árvore da soberania...[line2]Gram, a espada demoníaca de Sigurd, o herói do norte da Europa[line2]esse é o modelo original dela...?::
 21928::$$$message_0196_0043_0000$$$::"Os filhos não podem derrotar os seus próprios pais. Uma imitação que fica deteriorada toda vez em que é renovada não tem chance contra o modelo original[line2]!"[lr]::
 21929::$$$message_0196_0043_0001$$$::Uma luz vem na minha direção.[lr]::
 21930::$$$message_0196_0043_0002$$$::A espada percebe melhor do que ninguém que foi esse mesmo ataque que derrotou o Berserker com um único corte.::
 21931::$$$message_0196_0044_0000$$$::"[line2]!"[lr]::
-21932::$$$message_0196_0044_0001$$$::Ela deve estar tentando proteger o seu dono.[lr]::
-21933::$$$message_0196_0044_0002$$$::A espada que está na minha mão vai atrás da espada do inimigo com toda a sua força.[lr]::
+21932::$$$message_0196_0044_0001$$$::Talvez esteja tentando proteger o seu dono.[lr]::
+21933::$$$message_0196_0044_0002$$$::A espada em minha mão avança contra a lâmina do inimigo com toda a sua força.[lr]::
 21934::$$$message_0196_0044_0003$$$::O nome do Fantasma Nobre é Caliburn, a Espada Dourada da Vitória Prometida. Porém...[lr]::
-21935::$$$message_0196_0044_0004$$$::...Ela é totalmente destruída pela espada conhecida como Marduk, o Pecado Original.::
-21936::$$$message_0196_0045_0000$$$::Eu ouço o barulho de alguma coisa deslizando pelo chão.[lr]::
+21935::$$$message_0196_0044_0004$$$::...Ela é despedaçada em um instante diante de Merodach, a espada do pecaddo original.::
+21936::$$$message_0196_0045_0000$$$::Ouço o barulho de alguma coisa deslizando pelo chão.[lr]::
 21937::$$$message_0196_0045_0001$$$::Deslizando.[lr]::
 21938::$$$message_0196_0045_0002$$$::Será que o chão do parque parece estar escorregadio por causa do nível dessa batalha?[lr]::
-21939::$$$message_0196_0045_0003$$$::Eu deslizo pelo chão até finalmente parar.::
+21939::$$$message_0196_0045_0003$$$::Deslizo pelo chão como um pedaço de lixo levado pelo vento... até finalmente parar.::
 21940::$$$message_0196_0046_0000$$$::"Shirou[line2]Shirou, Shirou...!!!!"[lr]::
 21941::$$$message_0196_0046_0001$$$::Essa voz me faz perceber que eu ainda estou vivo.::
 21942::$$$message_0196_0047_0000$$$::"Ah. Saber, você está bem do meu lado."[lr]::
-21943::$$$message_0196_0047_0001$$$::Eu fico aliviado por saber disso.[lr]::
+21943::$$$message_0196_0047_0001$$$::Um alívio imediato me atravessa.[lr]::
 21944::$$$message_0196_0047_0002$$$::Parece que eu fui arremessado para longe, mas não tem problema porque a Saber está bem pertinho de mim.[lr]::
 21945::$$$message_0196_0047_0003$$$::Então agora eu só tenho que me levantar para correr até ela[line2]::
 21946::$$$message_0196_0048_0000$$$::"Hã[line2]?"[lr]::
@@ -169,7 +169,7 @@ id=qid::label=str::text=lstr::
 21948::$$$message_0196_0048_0002$$$::Ele está vermelho.[lr]::
 21949::$$$message_0196_0048_0003$$$::O meu braço está coberto por uma camada vermelha e não está saindo sangue dele.::
 21950::$$$message_0196_0049_0000$$$::"Não se mexa...! Já chega, por favor não se mexa mais, Shirou...!"[lr]::
-21951::$$$message_0196_0049_0001$$$::...Eu estou ouvindo a voz da Saber.[lr]::
+21951::$$$message_0196_0049_0001$$$::...A voz da Saber chega até mim.[lr]::
 21952::$$$message_0196_0049_0002$$$::Parece que o meu corpo ficou ferido.::
 21953::$$$message_0196_0050_0000$$$::Aquele ataque.[lr]::
 21954::$$$message_0196_0050_0001$$$::Eu tenho certeza de que a espada do Gilgamesh me arremessou para longe.[lr]::
@@ -177,13 +177,13 @@ id=qid::label=str::text=lstr::
 21956::$$$message_0196_0050_0003$$$::Agora eu entendi porque a Saber está tão preocupada comigo.::
 21957::$$$message_0196_0051_0000$$$::Eu só consigo mexer a minha mão direita.[lr]::
 21958::$$$message_0196_0051_0001$$$::A minha mão esquerda não se mexe.[lr]::
-21959::$$$message_0196_0051_0002$$$::Afinal, o meu ombro esquerdo não está mais ligado ao meu corpo.::
+21959::$$$message_0196_0051_0002$$$::Na verdade... nem sei em que estado ela está.::
 21960::$$$message_0196_0052_0000$$$::"[line5]Ha."[lr]::
-21961::$$$message_0196_0052_0001$$$::Eu não consigo nem respirar.[lr]::
-21962::$$$message_0196_0052_0002$$$::Do meu ombro esquerdo para baixo, de forma diagonal.[lr]::
-21963::$$$message_0196_0052_0003$$$::Já que o meu corpo foi cortado do meu ombro esquerdo para baixo, ele está separado como se fosse uma peça de lego que não se encaixa.::
-21964::$$$message_0196_0053_0000$$$::Ele se parece com a folha de uma árvore de Nogueira do Japão.[lr]::
-21965::$$$message_0196_0053_0001$$$::Eu recebi um corte do meu ombro até o quadril.[lr]::
+21961::$$$message_0196_0052_0001$$$::Nem consigo respirar direito.[lr]::
+21962::$$$message_0196_0052_0002$$$::Do meu ombro esquerdo para baixo, de forma diagonal...[lr]::
+21963::$$$message_0196_0052_0003$$$::Foi completamento cortado. Meu corpo está separado como se fosse uma peça de lego que não se encaixa.::
+21964::$$$message_0196_0053_0000$$$::Parece até uma folha de ginkgo[lr]::
+21965::$$$message_0196_0053_0001$$$::Fui partido do ombro até o quadril.[lr]::
 21966::$$$message_0196_0053_0002$$$::É estranho que eu ainda esteja vivo.::
 21967::$$$message_0196_0054_0000$$$::...Mas esse milagre deve acabar logo.[lr]::
 21968::$$$message_0196_0054_0001$$$::A minha visão está ficando cada vez mais escura, e eu estou quase perdendo a consciência.[lr]::
@@ -193,7 +193,7 @@ id=qid::label=str::text=lstr::
 21972::$$$message_0196_0056_0000$$$::Ele dá uma risada.[lr]::
 21973::$$$message_0196_0056_0001$$$::[line2]Para ser sincero, eu sou grato por isso.[lr]::
 21974::$$$message_0196_0056_0002$$$::Quanto mais ele me irrita, mais a minha mente continua acordada.::
-21975::$$$message_0196_0057_0000$$$::"Mas agora acabou. Você não foi feito para ser um leão. Eu vou levar aquela mulher comigo."[lr]::
+21975::$$$message_0196_0057_0000$$$::"Mas agora acabou. Você não é digno de um leão. Essa mulher... é minha."[lr]::
 21976::$$$message_0196_0057_0001$$$::O barulho de passos.[lr]::
 21977::$$$message_0196_0057_0002$$$::Esse é o barulho dele andando para levar a Saber de uma vez por todas.::
 

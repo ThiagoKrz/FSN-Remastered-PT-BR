@@ -1,16 +1,16 @@
 DAT
 id=qid::label=str::text=lstr::
-3097::$$$message_0032_0000_0000$$$::[line2]Vamos ir pelo caminho longo.[lr]::
+3097::$$$message_0032_0000_0000$$$::[line2]Vamos pelo caminho longo.[lr]::
 3098::$$$message_0032_0000_0001$$$::É só um desvio de cinco minutos.[lr]::
-3099::$$$message_0032_0000_0002$$$::É só uma vontade, então não preciso me preocupar com desculpas[line2]::
+3099::$$$message_0032_0000_0002$$$::É só um capricho, então não preciso me preocupar com desculpas[line2]::
 3100::$$$message_0032_0001_0000$$$::"[line5]"[lr]::
-3101::$$$message_0032_0001_0001$$$::Eu paro a bicicleta.[lr]::
+3101::$$$message_0032_0001_0001$$$::Paro a bicicleta.[lr]::
 3102::$$$message_0032_0001_0002$$$::Entro no parque com as coisas ainda no cesto.::
-3103::$$$message_0032_0002_0000$$$::"[line2]Por que?"[lr]::
-3104::$$$message_0032_0002_0001$$$::Por que é assim?[lr]::
-3105::$$$message_0032_0002_0002$$$::Foi só uma vontade.[lr]::
-3106::$$$message_0032_0002_0003$$$::Dentro do parque que passei, pensando o quão bom seria ver ela novamente...[lr]::
-3107::$$$message_0032_0002_0004$$$::...está a figura da garota de cabelo prateado.::
+3103::$$$message_0032_0002_0000$$$::"[line2]Por quê?"[lr]::
+3104::$$$message_0032_0002_0001$$$::Por que estou fazendo isso?[lr]::
+3105::$$$message_0032_0002_0002$$$::Foi só um impulso.[lr]::
+3106::$$$message_0032_0002_0003$$$::Eu só pensei que seria bom ver ela de novo...[lr]::
+3107::$$$message_0032_0002_0004$$$::...E lá está ela, uma garota de cabelos prateados, parada sozinha.::
 3108::$$$message_0032_0003_0000$$$::Parece que ela não me notou.[lr]::
 3109::$$$message_0032_0003_0001$$$::Posso ir embora se eu quiser.[lr]::
 3110::$$$message_0032_0003_0002$$$::Mas[line2]se eu fosse fazer tal coisa, não teria vindo para este parque pra começo de conversa.::
@@ -19,11 +19,11 @@ id=qid::label=str::text=lstr::
 3113::$$$message_0032_0005_0001$$$::"Um, só o Shirou."[lr]::
 3114::$$$message_0032_0005_0002$$$::"Eh... sério, Shirou...?"::
 3115::$$$message_0032_0006_0000$$$::"Por que está tão surpresa?[lr]::
-3116::$$$message_0032_0006_0001$$$::Esse lugar fica próximo do distrito de compras, então eu passo aqui de hora em hora. E você? Por que está aqui? Você estava aqui ontem também, então você tem muito tempo em mãos, né?"::
-3117::$$$message_0032_0007_0000$$$::"Na verdade, sim. Vim aqui brincar porque não tinha nada pra fazer, mas a Sella disse que eu não devia ir te ver. Ela disse que não teria graça brincar com você porque eu vou acabar te matando logo mesmo."::
+3116::$$$message_0032_0006_0001$$$::Isso aqui fica perto do distrito de compras, então não é estranho eu passar por aqui. E você? Por que está aqui de novo? Ontem também estava... você tem tanto tempo livre assim?"::
+3117::$$$message_0032_0007_0000$$$::"Sim, na verdade tenho. Não tinha nada pra fazer, então vim aqui brincar, mas a Sella disse que eu não devia te encontrar. Disse que não teria graça brincar com você, já que eu vou acabar te matando logo mesmo."::
 3118::$$$message_0032_0008_0000$$$::"Ah[line2]bem, isso é..."[lr]::
-3119::$$$message_0032_0008_0001$$$::...whoa.[lr]::
-3120::$$$message_0032_0008_0002$$$::Não sei como responder isso. Ela apenas disse algo que realmente me incomoda....::
+3119::$$$message_0032_0008_0001$$$::...Whoa.[lr]::
+3120::$$$message_0032_0008_0002$$$::Não sei como responder isso. Ela apenas disse algo que realmente me incomoda...::
 3121::$$$message_0032_0009_0000$$$::"Mas acho isso errado porque é divertido ficar com você. Então pensei que poderia te ver aqui, e estive esperando todo esse tempo.[lr]::
 3122::$$$message_0032_0009_0001$$$::[line2]Sim. Estou feliz que você veio."::
 3123::$$$message_0032_0010_0000$$$::"...espera. Você não estava mesmo me esperando, estava?"[lr]::
@@ -31,40 +31,40 @@ id=qid::label=str::text=lstr::
 3125::$$$message_0032_0010_0002$$$::Tava pensando por horas o quão seria bom se você viesse."::
 3126::$$$message_0032_0011_0000$$$::"...idiota. Você não gosta do frio, né? Se você quiser me ver, venha me visitar[line2]não, isso seria ruim. Se você encontrasse a Saber, acabaria causando uma briga.[lr]::
 3127::$$$message_0032_0011_0001$$$::Mas ainda, há vários outros jeitos. Você teria conseguido me encontrar se tivesse esperado no distrito como ontem."::
-3128::$$$message_0032_0012_0000$$$::"Não, Não posso fazer isso. Não posso ir te ver por mim mesmo. Ontem foi uma exceção única.[lr]::
+3128::$$$message_0032_0012_0000$$$::"Não posso fazer isso. Não posso ir te ver por mim mesmo. Ontem foi uma exceção única.[lr]::
 3129::$$$message_0032_0012_0001$$$::Então eu só te esperei onde você poderia vir hoje, e acabou funcionando."::
 3130::$$$message_0032_0013_0000$$$::Dizendo isso alegremente, a Illya dá alguns passos como se estivesse dançando.[lr]::
-3131::$$$message_0032_0013_0001$$$::Seu cabelo preteado dançante faz ela parecer com uma fada do inverno real.::
-3132::$$$message_0032_0014_0000$$$::"...entendi, mas por que você queria me ver? Bem, se uma conversa como a de ontem for o bastante, te faço companhia."::
+3131::$$$message_0032_0013_0001$$$::Seu cabelo prateado dançante faz ela parecer com uma fada do inverno real.::
+3132::$$$message_0032_0014_0000$$$::"...Entendi, mas por que você queria me ver? Bem, se uma conversa como a de ontem for o bastante, te faço companhia."::
 3133::$$$message_0032_0015_0000$$$::"Não, não é nada hoje. Só queria te ver, e somos inimigos mesmo. Vou vir te matar quando a Guerra do Santo Graal estiver quase acabando, então vamos falar então."::
 3134::$$$message_0032_0016_0000$$$::Ela diz isso inocentemente.[lr]::
-3135::$$$message_0032_0016_0001$$$::...a anormalidade é insuportável.[lr]::
-3136::$$$message_0032_0016_0002$$$::Não é porque serei morto. Só acho que ela não deveria ser uma Mestra.::
+3135::$$$message_0032_0016_0001$$$::...A anormalidade é insuportável.[lr]::
+3136::$$$message_0032_0016_0002$$$::Não é porque serei morto. É mais porque... alguém como ela não combina com ser uma Mestra.::
 3137::$$$message_0032_0017_0000$$$::"...Illya. Isso é mesmo algo que você quer fazer?[lr]::
 3138::$$$message_0032_0017_0001$$$::Você realmente entrou nesta guerra por vontade própria?"::
-3139::$$$message_0032_0018_0000$$$::"Sim, é isso mesmo. Foi o que meu avô me disse.[lr]::
-3140::$$$message_0032_0018_0001$$$::Sou a mais adequada para ser uma Mestre de todos os Einzberns, e sou dona do grande Santo Graal."::
-3141::$$$message_0032_0019_0000$$$::"...não quer dizer que você está fazendo o que seu avô te mandou fazer? Você não virou Mestra por vontade própria, virou?"::
+3139::$$$message_0032_0018_0000$$$::"Hm? Foi ordem do meu avô.[lr]::
+3140::$$$message_0032_0018_0001$$$::Entre todos os Einzbern, eu sou a mais adequada pra ser Mestra. Afinal, eu tenho um grande Santo Graal."::
+3141::$$$message_0032_0019_0000$$$::"...Quer dizer que você está fazendo o que seu avô te mandou fazer? Você não virou Mestra por vontade própria, virou?"::
 3142::$$$message_0032_0020_0000$$$::"Hmmm... como foi...? Não consigo lembrar tão bem, mas eu fui uma Mestra desde que nasci. Então eles disseram que seria normal se eu lutasse."[lr]::
 3143::$$$message_0032_0020_0001$$$::"[line2]Isso está errado. Se você está lutando só porque te mandaram, pare.[lr]::
 3144::$$$message_0032_0020_0002$$$::Primeiramente, matar não combina contigo, Illya."::
-3145::$$$message_0032_0022_0000$$$::"...hmm. Não parece que você está implorando por sua vida.[lr]::
+3145::$$$message_0032_0022_0000$$$::"...Hmm. Não parece que você está implorando por sua vida.[lr]::
 3146::$$$message_0032_0022_0001$$$::Parece que o Onii-chan realmente se preocupa comigo."::
-3147::$$$message_0032_0023_0000$$$::"...exato. Deixando os outros de lado, não quero alguém como você lutando. Se for possível, quero que você deixe de ser uma Mestra e fique calma."::
+3147::$$$message_0032_0023_0000$$$::"...Exato. Deixando os outros de lado, não quero alguém como você lutando. Se for possível, quero que você deixe de ser uma Mestra e fique calma."::
 3148::$$$message_0032_0024_0000$$$::"Hehe. Vamos ver, se você for meu Servo, eu desisto. Então não vou ter que te matar."::
-3149::$$$message_0032_0025_0000$$$::"C-Co[line2]C-C-Como assim!? Você sabe o significa me dizer para ser um Servo...!?"[lr]::
-3150::$$$message_0032_0025_0001$$$::...não, primeiramente, não posso substituir o Berserker!::
+3149::$$$message_0032_0025_0000$$$::"C-Co[line2]C-C-Como assim!? Você sabe o que significa me dizer para ser um Servo...!?"[lr]::
+3150::$$$message_0032_0025_0001$$$::...Não, primeiramente, não posso substituir o Berserker!::
 3151::$$$message_0032_0026_0000$$$::"Estou dizendo para você parar de lutar. Estou te dizendo pra se livrar do seu Servo, então por que tenho que virar seu familiar?"::
 3152::$$$message_0032_0027_0000$$$::"Não um familiar, eu disse Servo.[lr]::
 3153::$$$message_0032_0027_0001$$$::Servos são pessoas que estão sempre com você, certo? Então tudo que precisa fazer é ficar ao meu lado."::
 3154::$$$message_0032_0028_0000$$$::"Eh[line2]huh?"[lr]::
-3155::$$$message_0032_0028_0001$$$::...espera.[lr]::
-3156::$$$message_0032_0028_0002$$$::Poderia ser, Illya[line2]::
+3155::$$$message_0032_0028_0001$$$::...Espera.[lr]::
+3156::$$$message_0032_0028_0002$$$::Não me diga que a Illya[line2]::
 3157::$$$message_0032_0029_0000$$$::"Deixe-me perguntar algo. O que é um Servo, Illya?"[lr]::
-3158::$$$message_0032_0029_0001$$$::"É meu, né? Meu avô disse que é alguém que está sempre ao meu lado e me protege."[lr]::
+3158::$$$message_0032_0029_0001$$$::"É alguém que é meu, não é? Alguém que fica sempre ao meu lado e me protege. Foi o que meu avô disse."[lr]::
 3159::$$$message_0032_0029_0002$$$::"[line2]"::
-3160::$$$message_0032_0030_0000$$$::...como eu pensei.[lr]::
-3161::$$$message_0032_0030_0001$$$::Servos são apenas isso para a Illya.[lr]::
+3160::$$$message_0032_0030_0000$$$::...Como eu pensei.[lr]::
+3161::$$$message_0032_0030_0001$$$::Para a Illya, Servos são só isso.[lr]::
 3162::$$$message_0032_0030_0002$$$::Selos de Comandos, Mestre, nada disso importa a ela.[lr]::
 3163::$$$message_0032_0030_0003$$$::Para ela, um ser que proteja ela é um Servo.::
 3164::$$$message_0032_0031_0000$$$::"...entendo. Mas ainda não sei se posso fazer isso. Não posso aceitar essa condição, então me dê outra coisa."[lr]::
@@ -79,8 +79,8 @@ id=qid::label=str::text=lstr::
 3173::$$$message_0032_0035_0000$$$::"Shirou idiota! É terrível você envergonhar uma garota!"[lr]::
 3174::$$$message_0032_0035_0001$$$::"Ah... ela se foi..."[lr]::
 3175::$$$message_0032_0035_0002$$$::Ela não me escuta e foge do parque.::
-3176::$$$message_0032_0036_0000$$$::Embora eu fui atrás dela, não consigo encontrá-la.[lr]::
-3177::$$$message_0032_0036_0001$$$::"Geez. Foi igual ontem."[lr]::
+3176::$$$message_0032_0036_0000$$$::Embora eu tenha ido atrás dela, não consigo encontrá-la.[lr]::
+3177::$$$message_0032_0036_0001$$$::"Céus. Foi igual ontem."[lr]::
 3178::$$$message_0032_0036_0002$$$::Eu suspiro e volto para minha bicicleta.::
-3179::$$$message_0032_0037_0000$$$::...mas, bem, se ela for assim, tenho certeza que ela não vai me atacar repentinamente como ela fez na noite em que nós conhecemos.[lr]::
+3179::$$$message_0032_0037_0000$$$::...Mas, bem, se ela for assim, tenho certeza que ela não vai me atacar repentinamente como ela fez na noite em que nós conhecemos.[lr]::
 3180::$$$message_0032_0037_0001$$$::Isso quer dizer que ainda tenho mais um chance pra convencer ela.::

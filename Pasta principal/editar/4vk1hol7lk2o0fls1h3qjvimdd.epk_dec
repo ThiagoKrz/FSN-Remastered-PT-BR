@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 14792::$$$message_0139_0000_0000$$$::Uma colina vermelha repleta de cadáveres debaixo de um céu cinza.[lr]::
 14793::$$$message_0139_0000_0001$$$::As nuvens carregadas se afastando são um sinal de que a batalha terminou.::
-14794::$$$message_0139_0001_0000$$$::...Eu conheço essa cena. Eu já a vi várias vezes.[lr]::
+14794::$$$message_0139_0001_0000$$$::...Eu conheço essa paisagem. Já a vi várias vezes.[lr]::
 14795::$$$message_0139_0001_0001$$$::Essa é uma das batalhas em que a Saber esteve presente.[lr]::
 14796::$$$message_0139_0001_0002$$$::Depois de sair vitoriosa tantas vezes, ela ficou acostumada com os restos dos campos de batalha.[lr]::
 14797::$$$message_0139_0001_0003$$$::Em seguida, ela vai voltar para o seu castelo, as pessoas vão comemorar a sua vitória, e então eles vão se preparar para próxima a batalha.::
@@ -14,58 +14,58 @@ id=qid::label=str::text=lstr::
 14803::$$$message_0139_0003_0001$$$::Apenas uma verdade cruel que não pode ser mudada.::
 14804::$$$message_0139_0004_0000$$$::Ela deixou de ser humana no momento em que removeu a espada da pedra.[lr]::
 14805::$$$message_0139_0004_0001$$$::Depois de ser um lorde feudal como o seu pai, ela se tornou um rei com vários cavaleiros ao seu dispor.[lr]::
-14806::$$$message_0139_0004_0002$$$::Ela ficou conhecida como Rei Arthur, ou Arturia, tendo a sua vida completamente alterada desde então.::
+14806::$$$message_0139_0004_0002$$$::Ela ficou conhecida como Rei Arthur, ou Artoria, tendo a sua vida completamente alterada desde então.::
 14807::$$$message_0139_0005_0000$$$::[line2]Não.[lr]::
 14808::$$$message_0139_0005_0001$$$::Seria melhor dizer que a vida dela acabou.[lr]::
-14809::$$$message_0139_0005_0002$$$::Naquele momento, ela deixou de ser uma menina para se tornar o rei dos cavaleiros, a única existência que lhe era permitida.::
+14809::$$$message_0139_0005_0002$$$::Naquele momento, ela deixou de ser uma menina para se tornar o Rei dos Cavaleiros, a única existência que lhe era permitida.::
 14810::$$$message_0139_0006_0000$$$::Ela agia como se fosse o filho do rei.[lr]::
 14811::$$$message_0139_0006_0001$$$::Pois aquele que governava vários territórios e dava ordens para os cavaleiros precisava ser um homem.[lr]::
 14812::$$$message_0139_0006_0002$$$::Os únicos que sabiam que o rei era uma garota foram o seu pai e o mago.[lr]::
 14813::$$$message_0139_0006_0003$$$::Ela literalmente se vestiu com aço e escondeu essa verdade durante toda a sua vida.::
-14814::$$$message_0139_0007_0000$$$::...Por que eu não percebi o que isso significa?[lr]::
+14814::$$$message_0139_0007_0000$$$::...Como eu nunca percebi o que isso significava?[lr]::
 14815::$$$message_0139_0007_0001$$$::Mesmo estando no cargo mais alto de todos, ela conseguiu manter a sua identidade em segredo.[lr]::
-14816::$$$message_0139_0007_0002$$$::Por ser apenas um espectador, eu não sei que tipo de sofrimento ela deve ter vivido.::
+14816::$$$message_0139_0007_0002$$$::Quanto sofrimento deve ter existido nisso... alguém como eu, observando de longe, jamais poderia compreender.::
 14817::$$$message_0139_0008_0000$$$::...O tempo passa.[lr]::
 14818::$$$message_0139_0008_0001$$$::Essas devem ser as lembranças dos dez anos em que ela governou como rei.[lr]::
 14819::$$$message_0139_0008_0002$$$::Todas elas só têm uma coisa em comum.[lr]::
-14820::$$$message_0139_0008_0003$$$::Seja no trono.[lr]::
-14821::$$$message_0139_0008_0004$$$::Seja no corredor.[lr]::
-14822::$$$message_0139_0008_0005$$$::Ou seja no campo de batalha.[lr]::
-14823::$$$message_0139_0008_0006$$$::Ninguém conversava com ela.[lr]::
-14824::$$$message_0139_0008_0007$$$::Até mesmo a távola redonda, repleta de cavaleiros das histórias de Bravado, entrava em silêncio assim que o rei se aproximava.::
+14820::$$$message_0139_0008_0003$$$::Sentada no trono,[lr]::
+14821::$$$message_0139_0008_0004$$$::Num simples corredor,[lr]::
+14822::$$$message_0139_0008_0005$$$::Ou até mesmo no campo de batalha,[lr]::
+14823::$$$message_0139_0008_0006$$$::Não havia ninguém que falasse com ela.[lr]::
+14824::$$$message_0139_0008_0007$$$::Até mesmo a Távola Redonda, tão cheia de cavaleiros exaltando os próprios feitos, mergulhava em silêncio no instante em que o rei surgia.::
 14825::$$$message_0139_0009_0000$$$::Isso quer dizer uma coisa.[lr]::
-14826::$$$message_0139_0009_0001$$$::Ela era apenas respeitada.[lr]::
-14827::$$$message_0139_0009_0002$$$::Vários cavaleiros desprezavam a Arturia por ter a aparência de uma criança, e eles não aceitavam jurar as suas espadas por ela.::
+14826::$$$message_0139_0009_0001$$$::Ela só era tolerada como um ícone.[lr]::
+14827::$$$message_0139_0009_0002$$$::Vários cavaleiros desprezavam a Artoria por sua aparência juvenil e não aceitavam de bom grado confiar suas espadas a ela.::
 14828::$$$message_0139_0010_0000$$$::Mas como ela removeu a espada que ninguém mais conseguiu arrancar, eles eram forçados obedecê-la pelo menos formalmente.[lr]::
-14829::$$$message_0139_0010_0001$$$::Eles resolveram aceitar essa humilhação pois acreditaram que iria passar.::
-14830::$$$message_0139_0011_0000$$$::Mesmo que tenha removido a espada, ela era apenas uma criança.[lr]::
+14829::$$$message_0139_0010_0001$$$::Eles apenas suportaram aquela humilhação, acreditando que seria algo temporário.::
+14830::$$$message_0139_0011_0000$$$::Mesmo tendo tirado a espada, no fim das contas ela ainda era só uma criança.[lr]::
 14831::$$$message_0139_0011_0001$$$::Mesmo com a ajuda de Merlin, ela não duraria muito até não conseguir mais governar.[lr]::
-14832::$$$message_0139_0011_0002$$$::Quando isso acontecesse, eles só teriam que tomar a espada sagrada de volta e fazer a seleção do rei mais uma vez.[lr]::
+14832::$$$message_0139_0011_0002$$$::Quando isso acontecesse, eles só teriam que tomar a Espada Sagrada de volta e fazer a seleção do rei mais uma vez.[lr]::
 14833::$$$message_0139_0011_0003$$$::Foi isso o que a maioria dos cavaleiros imaginou.::
 14834::$$$message_0139_0012_0000$$$::Mas não foi isso o que aconteceu.[lr]::
-14835::$$$message_0139_0012_0001$$$::O cavaleiro que tinha acabado de virar um adulto foi um rei impecável.[lr]::
+14835::$$$message_0139_0012_0001$$$::A jovem cavaleira, recém-chegada à idade adulta, revelou-se um rei impecável.[lr]::
 14836::$$$message_0139_0012_0002$$$::Ela resolveu os conflitos entre os senhores feudais, e logo em seguida combateu os inimigos invasores.[lr]::
-14837::$$$message_0139_0012_0003$$$::Obviamente, não foi por causa do poder da espada sagrada.[lr]::
-14838::$$$message_0139_0012_0004$$$::A espada sagrada só servia para proteger o rei.[lr]::
+14837::$$$message_0139_0012_0003$$$::Obviamente, não foi por causa do poder da Espada Sagrada.[lr]::
+14838::$$$message_0139_0012_0004$$$::A Espada Sagrada só servia para proteger o rei.[lr]::
 14839::$$$message_0139_0012_0005$$$::Foi o poder do próprio rei que protegeu o país.::
 14840::$$$message_0139_0013_0000$$$::E assim, ela provou para os outros cavaleiros do que era capaz.[lr]::
-14841::$$$message_0139_0013_0001$$$::A proteção da espada sagrada funciona contra as espadas dos inimigos.[lr]::
+14841::$$$message_0139_0013_0001$$$::A proteção da Espada Sagrada funciona contra as espadas dos inimigos.[lr]::
 14842::$$$message_0139_0013_0002$$$::Mas não ajuda a ganhar a confiança das outras pessoas.[lr]::
-14843::$$$message_0139_0013_0003$$$::Ela se esforçou para ser um rei ideal.::
+14843::$$$message_0139_0013_0003$$$::Artoria se consumiu por inteiro para continuar sendo o rei ideal de todos.::
 14844::$$$message_0139_0014_0000$$$::E com isso, os cavaleiros foram obrigados a seguir o seu rei.[lr]::
-14845::$$$message_0139_0014_0001$$$::Eles reprimiram a sua insatisfação contra o rei jovem depois que viram que ele era perfeito.[lr]::
-14846::$$$message_0139_0014_0002$$$::Ela tentou ser um rei ideal.[lr]::
-14847::$$$message_0139_0014_0003$$$::Ela tinha que ser um rei ideal para conseguir apoio.[lr]::
-14848::$$$message_0139_0014_0004$$$::[line2]Não havia mais espaço para Arturia, a humana.::
-14849::$$$message_0139_0015_0000$$$::A menina estava determinada a virar rei.[lr]::
+14845::$$$message_0139_0014_0001$$$::Reprimiram a insatisfação que sentiam em relação ao rei eternamente jovem, convencendo-se de que, sendo perfeito, isso bastava.[lr]::
+14846::$$$message_0139_0014_0002$$$::O ideal que ela perseguia era o do rei perfeito.[lr]::
+14847::$$$message_0139_0014_0003$$$::E a condição para o apoio deles também era essa: um rei ideal.[lr]::
+14848::$$$message_0139_0014_0004$$$::[line2]Não havia ali espaço algum para Artoria como ser humano.::
+14849::$$$message_0139_0015_0000$$$::Uma garota destinada a ser rei.[lr]::
 14850::$$$message_0139_0015_0001$$$::Um grande cavaleiro que removeu a espada, que deixou de envelhecer a partir de então, e que venceu doze grandes batalhas.[lr]::
-14851::$$$message_0139_0015_0002$$$::Quando mais perfeita ela se tornava, mais as pessoas se afastavam.[lr]::
-14852::$$$message_0139_0015_0003$$$::E quanto mais continuava assim, mais ela passava a se isolar.[lr]::
-14853::$$$message_0139_0015_0004$$$::[line2]Essa era a verdadeira identidade dela.::
+14851::$$$message_0139_0015_0002$$$::Quanto mais perfeita se tornava,[lr]::
+14852::$$$message_0139_0015_0003$$$::Mais só lhe restava o isolamento.[lr]::
+14853::$$$message_0139_0015_0004$$$::[line2]Essa era a verdadeira natureza dela.::
 14854::$$$message_0139_0016_0000$$$::Mas mesmo assim, ela se saiu bem.[lr]::
 14855::$$$message_0139_0016_0001$$$::Ou melhor, ela se saiu bem até demais.[lr]::
 14856::$$$message_0139_0016_0002$$$::Ela derrotou os seus inimigos de maneira eficiente e reduziu o número de vítimas durante as batalhas.[lr]::
-14857::$$$message_0139_0016_0003$$$::Uma batalha sempre terá vítimas, não importa que guerra seja.[lr]::
+14857::$$$message_0139_0016_0003$$$::Em qualquer guerra, se é uma guerra, haverá sacrifícios.[lr]::
 14858::$$$message_0139_0016_0004$$$::Por isso, ela acreditou que deveria fazer sacrifícios antes da guerra, para assim preparar o seu exército e derrotar os inimigos de maneira eficiente.::
 14859::$$$message_0139_0017_0000$$$::Ela iria destruir um vilarejo inteiro para preparar o seu exército, derrotar os invasores antes que eles pudessem destruir o território, e em troca salvar dez outros vilarejos.[lr]::
 14860::$$$message_0139_0017_0001$$$::Essa foi a solução que ela pensou como rei, e que de fato era a melhor opção.::
@@ -82,18 +82,17 @@ id=qid::label=str::text=lstr::
 14871::$$$message_0139_0020_0002$$$::Ela ignorava as suas emoções antes de tomar uma decisão, e os cavaleiros reprimiam os seus sentimentos para obedecer ao rei.[lr]::
 14872::$$$message_0139_0020_0003$$$::E depois de vários sacrifícios e vitórias consecutivas, o país ficou estável.::
 14873::$$$message_0139_0021_0000$$$::O preço a se pagar por isso foi uma revolta contra o rei.[lr]::
-14874::$$$message_0139_0021_0001$$$::"O Rei Arthur não tem sentimentos."[lr]::
+14874::$$$message_0139_0021_0001$$$::"O Rei Arthur não entende o coração das pessoas."[lr]::
 14875::$$$message_0139_0021_0002$$$::Foi o que um cavaleiro disse antes abandonar o castelo.[lr]::
 14876::$$$message_0139_0021_0003$$$::...Essa é uma história ridícula.[lr]::
-14877::$$$message_0139_0021_0004$$$::Ninguém queria que o rei fosse humano, mas depois se revoltaram porque ela não tinha emoções humanas.::
+14877::$$$message_0139_0021_0004$$$::Ninguém jamais desejou que ela fosse humana, e ainda assim passaram a odiá-la justamente por ela não ter sentimentos humanos.::
 14878::$$$message_0139_0022_0000$$$::A era do caos continua.[lr]::
 14879::$$$message_0139_0022_0001$$$::Os cavaleiros, que já estavam insatisfeitos com o rei faz um tempo, ficaram ainda mais insatisfeitos depois que esse cavaleiro foi embora.[lr]::
 14880::$$$message_0139_0022_0002$$$::Eles jogaram todos os problemas para cima dela e a encurralaram.::
 14881::$$$message_0139_0023_0000$$$::A ruína estava próxima.[lr]::
-14882::$$$message_0139_0023_0001$$$::Acabaria em morte se ela não conseguisse resolver todos os problemas.[lr]::
-14883::$$$message_0139_0023_0002$$$::E mesmo se ela conseguisse resolvê-los, o resultado ainda seria o mesmo.::
+14882::$$$message_0139_0023_0001$$$::Se ela não resolvesse os problemas que surgiam um após o outro, a morte a esperava.[lr]::
 14884::$$$message_0139_0024_0000$$$::Mas esses detalhes não preocupavam o rei.[lr]::
-14885::$$$message_0139_0024_0001$$$::Ela não vai mudar de comportamento mesmo se for abandonada, sentir medo ou for traída.[lr]::
+14885::$$$message_0139_0024_0001$$$::Mesmo que fosse abandonada, temida ou traída, o coração dela não vacilaria.[lr]::
 14886::$$$message_0139_0024_0002$$$::...Provavelmente porque ela já tinha se decidido há muito tempo.[lr]::
 14887::$$$message_0139_0024_0003$$$::Ela abandonou as suas emoções quando decidiu remover a espada.::
 14888::$$$message_0139_0025_0000$$$::[line2]Uma cena de mais alguns anos atrás.[lr]::
@@ -105,50 +104,50 @@ id=qid::label=str::text=lstr::
 14894::$$$message_0139_0026_0002$$$::Os rugidos dos cavaleiros estão bem distantes e ninguém mais está em volta da espada.[lr]::
 14895::$$$message_0139_0026_0003$$$::O que será que passou pela cabeça da menina?[lr]::
 14896::$$$message_0139_0026_0004$$$::Antes que ela percebesse, um mago desconhecido estava parado atrás dela.::
-14897::$$$message_0139_0027_0000$$$::"Você deveria pensar bem antes de arrancar isto."::
+14897::$$$message_0139_0027_0000$$$::"Antes de pegar isso, é melhor pensar direito."::
 14898::$$$message_0139_0028_0000$$$::Ele disse que não estava tentando assustá-la, mas que estava aconselhando a mudar de ideia.::
-14899::$$$message_0139_0029_0000$$$::"Você não vai ser mais humana depois que tomar posse da espada."::
-14900::$$$message_0139_0030_0000$$$::Além disso, ele disse que todos guardariam rancor contra ela e que teria uma morte horrível.::
+14899::$$$message_0139_0029_0000$$$::"No instante em que tomar essa espada para si, você deixará de ser humana."::
+14900::$$$message_0139_0030_0000$$$::Também disse que todos guardariam rancor contra ela e que teria uma morte horrível.::
 14901::$$$message_0139_0031_0000$$$::É impossível ela não ter ficado assustada.[lr]::
 14902::$$$message_0139_0031_0001$$$::Porque o mago mostrou para ela.[lr]::
-14903::$$$message_0139_0031_0002$$$::O fim que ela mesmo teria que encarar se removesse a espada.::
+14903::$$$message_0139_0031_0002$$$::Mostrou o fim que a aguardava caso sacasse aquela espada.::
 14904::$$$message_0139_0032_0000$$$::"[line2]Não."::
 14905::$$$message_0139_0033_0000$$$::Mas isso só deu mais motivação para a menina.[lr]::
-14906::$$$message_0139_0033_0001$$$::Ela acenou com confiança, mesmo depois de ter visto o seu próprio futuro.[lr]::
-14907::$$$message_0139_0033_0002$$$::O mago pergunta se ela realmente não se importa com isso.::
-14908::$$$message_0139_0034_0000$$$::"[line2]Muitas pessoas estavam sorrindo.[lr]::
-14909::$$$message_0139_0034_0001$$$::Eu não acredito que será um erro."::
+14906::$$$message_0139_0033_0001$$$::Mesmo depois de ver o próprio futuro, ela apenas assentiu com firmeza.[lr]::
+14907::$$$message_0139_0033_0002$$$::O mago tornou a perguntar se era mesmo isso que ela queria.::
+14908::$$$message_0139_0034_0000$$$::"[line2]Havia muitas pessoas sorrindo.[lr]::
+14909::$$$message_0139_0034_0001$$$::Então eu acredito que isso não será um erro.”"::
 14910::$$$message_0139_0035_0000$$$::Ela puxa a espada.[lr]::
 14911::$$$message_0139_0035_0001$$$::O mago vira de costas...[lr]::
 14912::$$$message_0139_0035_0002$$$::"Todo milagre tem um preço. Em troca, você vai perder aquilo que lhe é mais importante."[lr]::
 14913::$$$message_0139_0035_0003$$$::E vai embora depois de dizer essa profecia.::
 14914::$$$message_0139_0036_0000$$$::Isso mesmo.[lr]::
 14915::$$$message_0139_0036_0001$$$::A menina só queria proteger a todos.[lr]::
-14916::$$$message_0139_0036_0002$$$::Mas para isso, ela teria que se livrar da sua própria vontade de 'proteger as pessoas'.[lr]::
-14917::$$$message_0139_0036_0003$$$::...Porque nenhum rei pode proteger o país se tiver emoções humanas.::
-14918::$$$message_0139_0037_0000$$$::Ela aceitou isso e removeu a espada.[lr]::
-14919::$$$message_0139_0037_0001$$$::Ela aceitou isso e prometeu viver como um rei.[lr]::
-14920::$$$message_0139_0037_0002$$$::É por isso que ela não mudaria mesmo se fosse abandonada, sentisse medo ou fosse traída.[lr]::
+14916::$$$message_0139_0036_0002$$$::Mas, para conseguir isso, precisou abandonar justamente o sentimento de "querer proteger as pessoas".[lr]::
+14917::$$$message_0139_0036_0003$$$::...Porque, enquanto conservasse um coração humano, não poderia proteger o reino como rei.::
+14918::$$$message_0139_0037_0000$$$::Mesmo sabendo disso, ela puxou a espada.[lr]::
+14919::$$$message_0139_0037_0001$$$::Mesmo sabendo disso, jurou viver como rei.[lr]::
+14920::$$$message_0139_0037_0002$$$::Por isso, não importava quantas vezes fosse abandonada, temida ou traída, o coração dela não mudaria.[lr]::
 14921::$$$message_0139_0037_0003$$$::Ela abandonou o seu coração.[lr]::
-14922::$$$message_0139_0037_0004$$$::A jovem menina decidiu trocá-lo por proteção.::
+14922::$$$message_0139_0037_0004$$$::A menina escolheu entregá-lo em troca daquilo que queria proteger.::
 14923::$$$message_0139_0038_0000$$$::Quem iria imaginar que ela fez um juramento tão nobre?[lr]::
-14924::$$$message_0139_0038_0001$$$::[line2]Ela escolheu lutar.[lr]::
-14925::$$$message_0139_0038_0002$$$::Não importa o que acontecesse.[lr]::
-14926::$$$message_0139_0038_0003$$$::[line2]Mesmo assim, ela escolheu lutar.[lr]::
+14924::$$$message_0139_0038_0001$$$::[line2]Acontecesse o que acontecesse, não importava o que houvesse adiante,[lr]::
+14925::$$$message_0139_0038_0002$$$::ainda assim ela decidiu lutar.[lr]::
+14926::$$$message_0139_0038_0003$$$::[line2]Mesmo que no fim a aguardasse uma ruína solitária e inevitável.[lr]::
 14927::$$$message_0139_0038_0004$$$::Ainda que a sua ruína fosse solitária e inevitável.::
-14928::$$$message_0139_0039_0000$$$::E foi assim que terminou.[lr]::
+14928::$$$message_0139_0039_0000$$$::E o fim dela foi este.[lr]::
 14929::$$$message_0139_0039_0001$$$::Durante a Batalha de Camlann.[lr]::
 14930::$$$message_0139_0039_0002$$$::Com o país dividido em dois, um cavaleiro tomou o trono quando o Rei Arthur estava ausente, o que levou a uma guerra.[lr]::
-14931::$$$message_0139_0039_0003$$$::A lenda diz que os cavaleiros e a cavalaria foram totalmente destruídos.::
-14932::$$$message_0139_0040_0000$$$::Ela dilacerou os cavaleiros que costumavam lutar ao lado dela e atacou o mesmo território que protegeu no passado.[lr]::
+14931::$$$message_0139_0039_0003$$$::Conta a lenda que essa batalha levou a ruína a cavalaria e o ideal cavaleiresco.::
+14932::$$$message_0139_0040_0000$$$::Ela matou todos os cavaleiros que um dia a serviram e avançou sobre a terra que havia lutado para proteger.[lr]::
 14933::$$$message_0139_0040_0001$$$::Aqueles que ficaram do lado dela nessa batalha foram mortos, e o corpo dela foi gravemente ferido.::
-14934::$$$message_0139_0041_0000$$$::Não havia ninguém por perto.[lr]::
+14934::$$$message_0139_0041_0000$$$::Não havia ninguém ao redor.[lr]::
 14935::$$$message_0139_0041_0001$$$::Isso é normal. Nada mudou.[lr]::
 14936::$$$message_0139_0041_0002$$$::Tudo o que restou no seu coração foi o seu orgulho como rei.[lr]::
 14937::$$$message_0139_0041_0003$$$::Ela já sabia que teria esse fim.[lr]::
-14938::$$$message_0139_0041_0004$$$::Mas mesmo assim seguiu por esse caminho porque acreditava que valeria à pena.::
-14939::$$$message_0139_0042_0000$$$::Ela não se arrependeu do que fez.[lr]::
-14940::$$$message_0139_0042_0001$$$::Aliás, o seu único arrependimento foi ver o país destruído.::
+14938::$$$message_0139_0041_0004$$$::Ainda assim, acreditava que haveria algum sentido, por isso continuou lutando, sem jamais se permitir falhar ou se degradar.::
+14939::$$$message_0139_0042_0000$$$::Ela não tinha arrependimentos.[lr]::
+14940::$$$message_0139_0042_0001$$$::Se tivesse algum, seria apenas ver o país reduzido à ruína.::
 14941::$$$message_0139_0043_0000$$$::Ela ergue os olhos.[lr]::
 14942::$$$message_0139_0043_0001$$$::Talvez ela consiga enxergar o castelo distante a partir dessa colina.[lr]::
 14943::$$$message_0139_0043_0002$$$::Mas tudo o que ela encontra são os restos da batalha, uma floresta densa, e um lago no qual ela precisa retornar.::
@@ -176,7 +175,7 @@ id=qid::label=str::text=lstr::
 14965::$$$message_0139_0051_0000$$$::"[line5]"[lr]::
 14966::$$$message_0139_0051_0001$$$::Sem perceber, eu estou rangendo os dentes.[lr]::
 14967::$$$message_0139_0051_0002$$$::Isso fez um barulho.[lr]::
-14968::$$$message_0139_0051_0003$$$::De alguma forma, eu estou muito irritado.[lr]::
+14968::$$$message_0139_0051_0003$$$::De alguma forma, eu estou muito irritado.::
 14969::$$$message_0139_0052_0000$$$::"[line2]Droga! O que foi aquilo?"[lr]::
 14970::$$$message_0139_0052_0001$$$::Só de lembrar já me deixa furioso.[lr]::
 14971::$$$message_0139_0052_0002$$$::O passado dela, ela mesma não se importando com o que aconteceu, e eu achando que o sonho não foi nada demais.::
@@ -188,8 +187,8 @@ id=qid::label=str::text=lstr::
 14977::$$$message_0139_0054_0002$$$::Ninguém pode negar que aquela vida foi injusta.[lr]::
 14978::$$$message_0139_0054_0003$$$::Esse tipo de vida é errado.[lr]::
 14979::$$$message_0139_0054_0004$$$::Ela só queria o bem das outras pessoas sem pedir nada em troca.[lr]::
-14980::$$$message_0139_0054_0005$$$::Ela se esforçou muito, e mesmo assim ninguém percebeu. Isso me deixa furioso.[lr]::
-14981::$$$message_0139_0054_0006$$$::Isso é injusto demais com ela[line2]::
+14980::$$$message_0139_0054_0005$$$:: E, por mais que tenha se esforçado, ninguém a compreendeu, nem mesmo no fim. Isso... isso me dá uma raiva insuportável.[lr]::
+14981::$$$message_0139_0054_0006$$$:: É injusto demais.[line2]::
 14982::$$$message_0139_0055_0000$$$::"[line5]"[lr]::
 14983::$$$message_0139_0055_0001$$$::...É verdade.[lr]::
 14984::$$$message_0139_0055_0002$$$::Se ela se esforçou mais do que qualquer um, ela deveria ser a mais recompensada.[lr]::
@@ -197,23 +196,23 @@ id=qid::label=str::text=lstr::
 14986::$$$message_0139_0056_0000$$$::"[line5]"[lr]::
 14987::$$$message_0139_0056_0001$$$::...Mas....[lr]::
 14988::$$$message_0139_0056_0002$$$::O que eu posso fazer agora?[lr]::
-14989::$$$message_0139_0056_0003$$$::Será que dizer que ela fez um bom trabalho já é o suficiente?[lr]::
+14989::$$$message_0139_0056_0003$$$::Eu... o quê? Dizer apenas que ela fez um bom trabalho?[lr]::
 14990::$$$message_0139_0056_0004$$$::Devo admirá-la por ter se saído muito bem?[lr]::
 14991::$$$message_0139_0056_0005$$$::É claro que não.[lr]::
 14992::$$$message_0139_0056_0006$$$::Essas palavras não iriam ajudar em nada.::
 14993::$$$message_0139_0057_0000$$$::"...Eu já sei. Só existe uma resposta."[lr]::
 14994::$$$message_0139_0057_0001$$$::...Isso mesmo.[lr]::
 14995::$$$message_0139_0057_0002$$$::Se for para ela ser recompensada, a sua vida precisa ser devolvida.[lr]::
-14996::$$$message_0139_0057_0003$$$::A menina chamada Arturia precisa ser feliz na mesma medida em que ela lutou.::
+14996::$$$message_0139_0057_0003$$$:: Artoria precisa encontrar uma felicidade a altura de todas as batalhas que travou.::
 14997::$$$message_0139_0058_0000$$$::"[line2]Mas, o que eu posso fazer?"[lr]::
 14998::$$$message_0139_0058_0001$$$::A minha linha de raciocínio acaba aqui.[lr]::
-14999::$$$message_0139_0058_0002$$$::Eu não sei como posso deixar as outras pessoas felizes.::
+14999::$$$message_0139_0058_0002$$$::Eu não faço ideia de como tornar alguém feliz.::
 15000::$$$message_0139_0059_0000$$$::...Isso me faz perceber as minhas próprias desilusões.[lr]::
-15001::$$$message_0139_0059_0001$$$::Eu estive tentando ser um super-herói durante a minha vida toda, mas só o que venho fazendo é dar uma ajuda às outras pessoas.[lr]::
-15002::$$$message_0139_0059_0002$$$::Eu acreditava que todos ficariam felizes se eu ajudasse os outros desse jeito.[lr]::
+15001::$$$message_0139_0059_0001$$$::Passei a vida inteira querendo ser um aliado da justiça, mas no máximo só estendi a mão aqui e ali.[lr]::
+15002::$$$message_0139_0059_0002$$$::Acreditando que, se ajudasse os outros, todos ao meu redor acabariam felizes.[lr]::
 15003::$$$message_0139_0059_0003$$$::Ou melhor.[lr]::
 15004::$$$message_0139_0059_0004$$$::Eu não poderia seguir em frente e com orgulho se não acreditasse nisso.::
 15005::$$$message_0139_0060_0000$$$::"[line5]!"[lr]::
-15006::$$$message_0139_0060_0001$$$::...Ajudar e salvar alguém são duas coisas bem diferentes.[lr]::
-15007::$$$message_0139_0060_0002$$$::Eu não consigo pensar em um jeito de recompensar a Saber porque não sei qual é a diferença entre ambos[line2]::
+15006::$$$message_0139_0060_0001$$$::...Ajudar alguém e salvar alguém não são a mesma coisa.[lr]::
+15007::$$$message_0139_0060_0002$$$::E, se eu mesmo não entendo essa diferença, não tenho como recompensar Saber.[line2]::
 

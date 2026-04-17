@@ -1,117 +1,117 @@
 DAT
 id=qid::label=str::text=lstr::
 3813::$$$message_0040_0000_0000$$$::Mesmo depois do almoço, fazemos a mesma coisa.[lr]::
-3814::$$$message_0040_0000_0001$$$::Eu inteiramente troco golpes com a Saber.[lr]::
+3814::$$$message_0040_0000_0001$$$::Continuo trocando golpes com a Saber.[lr]::
 3815::$$$message_0040_0000_0002$$$::O treinamento que deveria continuar até a Tohsaka ou a Fuji-nee chegar em casa é...[lr]::
-3816::$$$message_0040_0000_0003$$$::...interrompido pela campainha me avisando que um visitante está aqui.::
+3816::$$$message_0040_0000_0003$$$::...interrompido pela campainha me avisando que há um visitante.::
 3817::$$$message_0040_0001_0000$$$::"Shirou, parece que alguém chegou."[lr]::
 3818::$$$message_0040_0001_0001$$$::"Sim, eu ouvi. Eu vou lá, então me espere aqui."[lr]::
-3819::$$$message_0040_0001_0002$$$::"...não. Há a chance de ser um visitante indesejado. Irei te acompanhar, só pra garantir."[lr]::
+3819::$$$message_0040_0001_0002$$$::"...Não. Há a chance de ser um visitante indesejado. Irei te acompanhar, só por garantia."[lr]::
 3820::$$$message_0040_0001_0003$$$::"[line3]Hm."[lr]::
 3821::$$$message_0040_0001_0004$$$::O que ela diz é plausível.::
-3822::$$$message_0040_0002_0000$$$::...é, mas se o visitante for um vizinho, há chances dele desconfiar da Saber.[lr]::
+3822::$$$message_0040_0002_0000$$$::...É, mas se o visitante for um vizinho, há chances dele desconfiar da Saber.[lr]::
 3823::$$$message_0040_0002_0001$$$::Porque supostamente deveria ser só eu morando aqui.[lr]::
-3824::$$$message_0040_0002_0002$$$::Mas....::
-3825::$$$message_0040_0003_0000$$$::"Bem, o que será será."[lr]::
+3824::$$$message_0040_0002_0002$$$::Mas...::
+3825::$$$message_0040_0003_0000$$$::"Bem, o que será, será."[lr]::
 3826::$$$message_0040_0003_0001$$$::A Sakura e a Fuji-nee vêm aqui frequentemente, então não devo começar a me preocupar com minha imagem agora.::
 3827::$$$message_0040_0004_0000$$$::"Certo, vamos, Saber. Mas fique quieta se o visitante for uma pessoa normal."[lr]::
 3828::$$$message_0040_0004_0001$$$::"Eu sei. Serei sua parente distante, correto?"[lr]::
-3829::$$$message_0040_0004_0002$$$::"Sim, vai servir."::
+3829::$$$message_0040_0004_0002$$$::"Sim, isso serve."::
 3830::$$$message_0040_0005_0000$$$::"Sim, estou indo!"[lr]::
 3831::$$$message_0040_0005_0001$$$::Correndo por causa da campainha, abro a porta de entrada.::
-3832::$$$message_0040_0006_0000$$$::"Licença. Ouvi dizer que você não está bem, então vim ver como você está, Emiya."[lr]::
+3832::$$$message_0040_0006_0000$$$::"Com licença. Ouvi dizer que você não está bem, então vim ver como você está, Emiya."[lr]::
 3833::$$$message_0040_0006_0001$$$::Ao invés disso.[lr]::
-3834::$$$message_0040_0006_0002$$$::O visitante não é algum inimigo ou vizinho, mas um amigo da escola.::
+3834::$$$message_0040_0006_0002$$$::O visitante não é um inimigo nem um vizinho, mas um amigo da escola.::
 3835::$$$message_0040_0007_0000$$$::"Ah, é só você, Issei."[lr]::
-3836::$$$message_0040_0007_0001$$$::"É rude dizer isso. Seria isso uma atitude apropriada a ser ter com um amigo que veio te ver?"[lr]::
+3836::$$$message_0040_0007_0001$$$::"É rude dizer isso. É essa a atitude a se ter com um amigo que veio te ver?"[lr]::
 3837::$$$message_0040_0007_0002$$$::Reclamando, ele me entrega uma sacola de papel.::
-3838::$$$message_0040_0008_0000$$$::"Hm? O que é isso? Maças?"[lr]::
-3839::$$$message_0040_0008_0001$$$::"É um presente de melhore-logo. Quando a pessoa que normalmente nunca fica doente falta na escola, eu devo trazer algo pra ela."::
+3838::$$$message_0040_0008_0000$$$::"Hm? O que é isso? Maçãs?"[lr]::
+3839::$$$message_0040_0008_0001$$$::"É um presente de melhoras. Quando alguém que quase nunca fica doente falta na escola, é meu dever trazer algo."::
 3840::$$$message_0040_0009_0000$$$::"[line2]Hm."[lr]::
-3841::$$$message_0040_0009_0001$$$::E sou grato pela preocupação, mas não faltei porque estou doente.[lr]::
-3842::$$$message_0040_0009_0002$$$::...e também, parece errado um jovem trazer um pacote de maças pra um amigo doente.::
+3841::$$$message_0040_0009_0001$$$::Sou grato pela preocupação, mas não faltei porque estou doente.[lr]::
+3842::$$$message_0040_0009_0002$$$::...E também, parece estranho um cara trazer um pacote de maçãs pra um amigo.::
 3843::$$$message_0040_0010_0000$$$::"Que foi, Emiya? Não gosta de fruta?"[lr]::
-3844::$$$message_0040_0010_0001$$$::"Ah, eu gosto delas. É complicado, mas vou aceitar suas boas intenções."[lr]::
-3845::$$$message_0040_0010_0002$$$::Eu me curvo em apreciação.::
-3846::$$$message_0040_0011_0000$$$::"...Emiya. Isso é uma questão repentina, mas quem é essa mulher atrás de você?"[lr]::
+3844::$$$message_0040_0010_0001$$$::"Ah, eu gosto. É complicado, mas vou aceitar suas boas intenções."[lr]::
+3845::$$$message_0040_0010_0002$$$::Me curvo em agradecimento.::
+3846::$$$message_0040_0011_0000$$$::"...Emiya. Isso é repentino, mas quem é essa mulher atrás de você?"[lr]::
 3847::$$$message_0040_0011_0001$$$::"Huh?"[lr]::
-3848::$$$message_0040_0011_0002$$$::Dito isso, me viro.[lr]::
+3848::$$$message_0040_0011_0002$$$::Dito isso, me viro.::
 3849::$$$message_0040_0012_0000$$$::"Ah[line2]"[lr]::
-3850::$$$message_0040_0012_0001$$$::Entendi. Issei deve ter visto a Saber quando eu me curvei.::
-3851::$$$message_0040_0013_0000$$$::"...não é alguém que eu vi antes. Por que tal mulher está em sua casa?"[lr]::
-3852::$$$message_0040_0013_0001$$$::O Issei olha rudemente para a Saber.[lr]::
-3853::$$$message_0040_0013_0002$$$::Ele é muito tímido na frente de estranhos e pode ser muito frio com estranhos ou pessoas que ele não gosta.::
+3850::$$$message_0040_0012_0001$$$::Entendi. Issei deve ter visto a Saber quando me curvei.::
+3851::$$$message_0040_0013_0000$$$::"...Não é alguém que eu já tenha visto. Por que essa mulher está em sua casa?"[lr]::
+3852::$$$message_0040_0013_0001$$$::Issei olha friamente para a Saber.[lr]::
+3853::$$$message_0040_0013_0002$$$::Ele é muito tímido com estranhos e pode ser frio com quem não conhece ou não gosta.::
 3854::$$$message_0040_0014_0000$$$::"Uh, bem, ela se chama Saber e, um..."[lr]::
-3855::$$$message_0040_0014_0001$$$::"Sou uma parente distante do Shirou. Fui tratada gentilmente pelo mestre desta casa, Kiritsugu, quando ele estava em meu país.[lr]::
-3856::$$$message_0040_0014_0002$$$::Vim visitar aqui o outro dia, e estou ficando aqui graças a minha relação com ele."::
+3855::$$$message_0040_0014_0001$$$::"Sou uma parente distante do Shirou. Fui tratada gentilmente pelo mestre desta casa, Kiritsugu, quando ele esteve em meu país.[lr]::
+3856::$$$message_0040_0014_0002$$$::Vim visitar este lugar outro dia e estou ficando aqui graças à minha relação com ele."::
 3857::$$$message_0040_0015_0000$$$::"[line4]Huh?"[lr]::
-3858::$$$message_0040_0015_0001$$$::A Saber suavemente entrega uma história convincente.::
-3859::$$$message_0040_0016_0000$$$::"Então você é uma conhecida do pai do Emiya? Ouvi dizer que ele amava viajar. Tenho certeza que ele teve a chance de conhecer alguém como você."[lr]::
-3860::$$$message_0040_0016_0001$$$::"[line5]Que!?"[lr]::
-3861::$$$message_0040_0016_0002$$$::Ryuudou Issei, quem deveria ser tímido com estranhos, facilmente aceita isso.::
+3858::$$$message_0040_0015_0001$$$::Saber entrega calmamente uma história convincente.::
+3859::$$$message_0040_0016_0000$$$::"Então você é uma conhecida do pai do Emiya? Ouvi dizer que ele adorava viajar. Tenho certeza de que conheceu alguém como você."[lr]::
+3860::$$$message_0040_0016_0001$$$::"[line5]Quê!?"[lr]::
+3861::$$$message_0040_0016_0002$$$::Ryuudou Issei, que deveria ser tímido com estranhos, aceita isso facilmente.::
 3862::$$$message_0040_0017_0000$$$::"Entendo. Entendo sua situação, Emiya.[lr]::
 3863::$$$message_0040_0017_0001$$$::Sua doença é uma desculpa e você estava mostrando o lugar pra ela, né?"::
-3864::$$$message_0040_0018_0000$$$::"Uh[line2]sim. Acho que poderia dizer isso."[lr]::
-3865::$$$message_0040_0018_0001$$$::...sim, acho que não estou mentido, na escala cósmica.::
-3866::$$$message_0040_0019_0000$$$::"Então você não vai ligar se eu me meter no meu. Me arranje um pouco de chá em apreciação por ter trazer de volta. Vamos conversar sobre o que aconteceu na escola nesses últimos dois dias."[lr]::
-3867::$$$message_0040_0019_0001$$$::O Issei entra, tirando seu sapatos.::
-3868::$$$message_0040_0020_0000$$$::"...? Como assim apreciação? Estou ocupado, sabia?[lr]::
-3869::$$$message_0040_0020_0001$$$::Vamos conversar uma outra hora."[lr]::
-3870::$$$message_0040_0020_0002$$$::"Como assim? Você deixou sua bike do lado de fora da minha casa, sabia?"::
+3864::$$$message_0040_0018_0000$$$::"Uh[line2]sim. Acho que pode dizer isso."[lr]::
+3865::$$$message_0040_0018_0001$$$::...sim, acho que não estou mentindo, no fim das contas.::
+3866::$$$message_0040_0019_0000$$$::"Então não vai se importar se eu me meter. Me arranje um pouco de chá em agradecimento por ter trazido sua bike de volta. Vamos conversar sobre a escola."[lr]::
+3867::$$$message_0040_0019_0001$$$::Issei entra, tirando seus sapatos.::
+3868::$$$message_0040_0020_0000$$$::"...? Como assim agradecimento? Estou ocupado, sabia?[lr]::
+3869::$$$message_0040_0020_0001$$$::Vamos conversar outra hora."[lr]::
+3870::$$$message_0040_0020_0002$$$::"Como assim? Você deixou sua bike na minha casa, sabia?"::
 3871::$$$message_0040_0021_0000$$$::"Ah... é, deixei minha bike no Templo Ryuudou."[lr]::
-3872::$$$message_0040_0021_0001$$$::"Sim. Então eu te trouxe sua bike.[lr]::
-3873::$$$message_0040_0021_0002$$$::Embora eu estivesse ocupado, eu fui direto pra casa sem ligar pro conselho estudantil e vim aqui. Está me dizendo que não pode me dar nem um pouco de chá por isso?"::
+3872::$$$message_0040_0021_0001$$$::"Sim. Então eu trouxe a sua bike.[lr]::
+3873::$$$message_0040_0021_0002$$$::Mesmo ocupado, fui direto pra casa e vim aqui. Vai me dizer que não pode me dar nem um pouco de chá?"::
 3874::$$$message_0040_0022_0000$$$::"[line2]Ugh."[lr]::
-3875::$$$message_0040_0022_0001$$$::Foi certamente útil.[lr]::
-3876::$$$message_0040_0022_0002$$$::Embora eu tenha 3 bicicletas, a que eu deixei no Templo Ryuudou é a mais cara e minha favorita.::
-3877::$$$message_0040_0023_0000$$$::"...desculpa, Saber. Podemos fazer uma pequena pausa?"[lr]::
-3878::$$$message_0040_0023_0001$$$::A Saber concorda silenciosamente.::
-3879::$$$message_0040_0024_0000$$$::"Desculpa. Poderiam ir pra sala de estar? Vou preparar um pouco de chá. Chá japonês para o Issei e chá inglês pra Saber, né?"::
-3880::$$$message_0040_0025_0000$$$::"Que... V-Vou participar também? N-não sei se é uma boa ideia. Acho que você não vai conseguir falar livremente com seu amigo se eu estiver aqui."::
+3875::$$$message_0040_0022_0001$$$::Foi realmente útil.[lr]::
+3876::$$$message_0040_0022_0002$$$::Das três bicicletas que tenho, essa é a mais cara e minha favorita.::
+3877::$$$message_0040_0023_0000$$$::"...Desculpa, Saber. Podemos fazer uma pequena pausa?"[lr]::
+3878::$$$message_0040_0023_0001$$$::Saber concorda silenciosamente.::
+3879::$$$message_0040_0024_0000$$$::"Desculpa. Podem ir pra sala de estar? Vou preparar chá. Japonês pro Issei e inglês pra Saber, certo?"::
+3880::$$$message_0040_0025_0000$$$::"Q-Que...? Eu também vou participar? N-não sei se é uma boa ideia..."::
 3881::$$$message_0040_0026_0000$$$::"Não é verdade. Certo, Issei?"[lr]::
-3882::$$$message_0040_0026_0001$$$::"Certo. Garotas são barraqueiras, mas a Saber-san é perfeita. Mulheres humildes fazem parte da nossa herança cultural."::
-3883::$$$message_0040_0027_0000$$$::"Viu. Então vá em frente."[lr]::
+3882::$$$message_0040_0026_0001$$$::"Certo. Garotas costumam ser problemáticas, mas Saber-san é perfeita."::
+3883::$$$message_0040_0027_0000$$$::"Viu? Então vá."[lr]::
 3884::$$$message_0040_0027_0001$$$::"Uh... sim. Entendi, mas Shirou..."::
 3885::$$$message_0040_0028_0000$$$::"Que foi? Há algo mais?"[lr]::
-3886::$$$message_0040_0028_0001$$$::"Posso ter chá japonês também? Eu não odeio chá japonês."[lr]::
-3887::$$$message_0040_0028_0002$$$::Por algum motivo, a Saber diz isso claramente.[lr]::
-3888::$$$message_0040_0028_0003$$$::Isso parece meio estranho, ela dizendo isso de modo usual.::
-3889::$$$message_0040_0029_0000$$$::Conversamos sobre coisas sem sentido por uma hora, então o Issei decidi ir pra casa.[lr]::
-3890::$$$message_0040_0029_0001$$$::A conversa que tivemos na sala foi principalmente sobre a escola, e perguntei tentativamente se algo estranho estava acontecendo, mas parece que a escola continua como de costume.::
+3886::$$$message_0040_0028_0001$$$::"Posso tomar chá japonês também? Eu não odeio."[lr]::
+3887::$$$message_0040_0028_0002$$$::Por algum motivo, Saber diz isso seriamente.[lr]::
+3888::$$$message_0040_0028_0003$$$::É estranho ouvir isso dela.::
+3889::$$$message_0040_0029_0000$$$::Conversamos por cerca de uma hora, então Issei decide ir embora.[lr]::
+3890::$$$message_0040_0029_0001$$$::Falamos principalmente sobre a escola, e parece que tudo continua normal.::
 3891::$$$message_0040_0030_0000$$$::"Até depois. Vai faltar amanhã também?"[lr]::
-3892::$$$message_0040_0030_0001$$$::"Sim, não posso ir essa semana. Tenho que ficar com a Saber amanhã de novo."::
-3893::$$$message_0040_0031_0000$$$::"Entendo. Bem, não deve haver problemas se você estiver com essa garota. Há aspectos suspeitos, mas eles nem mesmo precisam ser considerados."[lr]::
-3894::$$$message_0040_0031_0001$$$::Issei concorda com si mesmo.[lr]::
-3895::$$$message_0040_0031_0002$$$::...parando pra pensar, como é possível pra esse cara, tímido ao redor de estranhos, não odiar a Saber?::
-3896::$$$message_0040_0032_0000$$$::"Ei Issei. Você estava de bom humor mesmo sendo a primeira vez que você conheceu a Saber. Qual que é a dessa?"[lr]::
-3897::$$$message_0040_0032_0001$$$::"Como assim? Cresci num templo. O que eu faria se não pudesse distinguir o bem do mal? Não sei as origens dela, mas seu espírito é puro. Ela não pode ser uma má pessoa."::
-3898::$$$message_0040_0033_0000$$$::"Uau. Então você consegue perceber esse tipo de coisa? Estou impressionado."[lr]::
-3899::$$$message_0040_0033_0001$$$::"...bem, não posso normalmente. Mas até mesmo um um amador poderia dizer se for tão grande.[lr]::
-3900::$$$message_0040_0033_0002$$$::Mesmo um monge em treinamento notaria dividade se um Buddha sentasse do lado dele. Em outras palavras, a Saber-san é bela."::
+3892::$$$message_0040_0030_0001$$$::"Sim, não posso ir essa semana."::
+3893::$$$message_0040_0031_0000$$$::"Entendo. Não deve haver problemas com essa garota."[lr]::
+3894::$$$message_0040_0031_0001$$$::Issei concorda consigo mesmo.[lr]::
+3895::$$$message_0040_0031_0002$$$::...como esse cara não odeia a Saber?::
+3896::$$$message_0040_0032_0000$$$::"Ei, Issei. Você estava de bom humor mesmo sendo a primeira vez que conheceu a Saber. Por quê?"[lr]::
+3897::$$$message_0040_0032_0001$$$::"Cresci num templo. Sei distinguir o bem do mal."::
+3898::$$$message_0040_0033_0000$$$::"Uau. Impressionante."[lr]::
+3899::$$$message_0040_0033_0001$$$::"...Mesmo um amador perceberia se fosse tão óbvio."::
+3900::$$$message_0040_0033_0002$$$::"Até um monge notaria divindade se um Buda sentasse ao seu lado."::
 3901::$$$message_0040_0034_0000$$$::...isso é raro.[lr]::
-3902::$$$message_0040_0034_0001$$$::O Issei está louvando uma mulher.::
+3902::$$$message_0040_0034_0001$$$::Issei está elogiando uma mulher.::
 3903::$$$message_0040_0035_0000$$$::"Entendo. Então você gosta da Saber também."[lr]::
 3904::$$$message_0040_0035_0001$$$::Isso é bom.[lr]::
-3905::$$$message_0040_0035_0002$$$::Fiquei preocupado do Issei não gostar dela já que tudo que ela fez foi sentar e ouvir silenciosamente.::
-3906::$$$message_0040_0036_0000$$$::"Claro. Ela é uma boa menina. É difícil não gostar dela."[lr]::
-3907::$$$message_0040_0036_0001$$$::"Sim. Entendo que ela é uma boa menina, mas ela é um pouco antissocial, né? Ela é sempre assim, então não quer dizer que ela não goste de você."::
-3908::$$$message_0040_0037_0000$$$::"Huh? Ela é antissocial?"[lr]::
-3909::$$$message_0040_0037_0001$$$::"Ela é. Ela não riu ainda. Ela não riu ainda. Ela sempre fez uma cara preocupada, mesmo enquanto estávamos rindo e conversando sobre a Fuji-nee."[lr]::
-3910::$$$message_0040_0037_0002$$$::"Não, ela estava sorrindo bastante."[lr]::
+3905::$$$message_0040_0035_0002$$$::Fiquei preocupado que ele não gostasse dela.::
+3906::$$$message_0040_0036_0000$$$::"Claro. Ela é uma boa garota."[lr]::
+3907::$$$message_0040_0036_0001$$$::"Sim, mas ela é meio antissocial, né?"::
+3908::$$$message_0040_0037_0000$$$::"Huh? Antissocial?"[lr]::
+3909::$$$message_0040_0037_0001$$$::"Ela não riu nenhuma vez."::
+3910::$$$message_0040_0037_0002$$$::"Não, ela estava sorrindo."[lr]::
 3911::$$$message_0040_0037_0003$$$::"[line2]Huh?"::
-3912::$$$message_0040_0038_0000$$$::Isso é ridículo.[lr]::
-3913::$$$message_0040_0038_0001$$$::É verdade que a Saber parece em paz algumas vezes.[lr]::
-3914::$$$message_0040_0038_0002$$$::Mas quando eu nunca vi o sorriso dela uma única vez...!?::
-3915::$$$message_0040_0039_0000$$$::"Você está mentindo. Não consigo imaginar a Saber rolando de rir."[lr]::
-3916::$$$message_0040_0039_0001$$$::"...não, não assim.[lr]::
-3917::$$$message_0040_0039_0002$$$::Ela estava sorrindo quando ela te viu sorrindo. Não percebeu?"[lr]::
-3918::$$$message_0040_0039_0003$$$::[line3]?[lr]::
-3919::$$$message_0040_0039_0004$$$::Ela estava sorrindo enquanto eu sorria...?::
-3920::$$$message_0040_0040_0000$$$::"...um. Quer dizer que ela estava rindo de mim...?"[lr]::
-3921::$$$message_0040_0040_0001$$$::"[line2]Entendo, você interpreta as coisas de maneira estranha.[lr]::
-3922::$$$message_0040_0040_0002$$$::Mas você deveria se atormentar nesse problema. Tudo começa com se questionando. Kah!"::
+3912::$$$message_0040_0038_0000$$$::Isso é absurdo.[lr]::
+3913::$$$message_0040_0038_0001$$$::Ela parece calma às vezes.[lr]::
+3914::$$$message_0040_0038_0002$$$::Mas nunca vi ela sorrir...!?::
+3915::$$$message_0040_0039_0000$$$::"Você está mentindo."[lr]::
+3916::$$$message_0040_0039_0001$$$::"...Não desse jeito.[lr]::
+3917::$$$message_0040_0039_0002$$$::Ela sorria quando você sorria."::
+3918::$$$message_0040_0039_0003$$$::[line3]? [lr]::
+3919::$$$message_0040_0039_0004$$$::Ela sorria... por minha causa?::
+3920::$$$message_0040_0040_0000$$$::"...Hm. Quer dizer que ela estava rindo de mim...?"[lr]::
+3921::$$$message_0040_0040_0001$$$::"Você interpreta as coisas de forma estranha.[lr]::
+3922::$$$message_0040_0040_0002$$$::Mas deveria pensar melhor sobre isso."::
 3923::$$$message_0040_0041_0000$$$::Com seu comentário habitual, ele vai embora rindo.[lr]::
-3924::$$$message_0040_0041_0001$$$::"Hm[line2]o que ele quis dizer com isso?"[lr]::
-3925::$$$message_0040_0041_0002$$$::Ele vai embora, deixando com comentários sugestivos.[lr]::
-3926::$$$message_0040_0041_0003$$$::Pelo menos diga tchau pra mim, idiota.::
-7
+3924::$$$message_0040_0041_0001$$$::"Hm... o que ele quis dizer?"[lr]::
+3925::$$$message_0040_0041_0002$$$::Ele vai embora, me deixando com dúvidas.::
+3926::$$$message_0040_0041_0003$$$::Pelo menos se despede, idiota.::
+

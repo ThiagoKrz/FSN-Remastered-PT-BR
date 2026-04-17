@@ -8,7 +8,7 @@ id=qid::label=str::text=lstr::
 61712::$$$message_0564_0001_0001$$$::Uma voz ecoa pelo local que deveria estar desolado.[lr]::
 61713::$$$message_0564_0001_0002$$$::Uma figura fina brilha sob o luar.[lr]::
 61714::$$$message_0564_0001_0003$$$::O homem tonificado com uma lança vermelha é um Servo conhecido como Lancer.::
-61715::$$$message_0564_0002_0000$$$::"Ah, uau. O campo de separação ainda está aqui, mesmo que a Caster tenha morrido?[lr]::
+61715::$$$message_0564_0002_0000$$$::"Ah, uau. O Campo Limitado ainda está aqui, mesmo que a Caster tenha morrido?[lr]::
 61716::$$$message_0564_0002_0001$$$::...não, isso é imperfeito demais. O trabalho dela era muito mais cuidadoso."::
 61717::$$$message_0564_0003_0000$$$::O Lancer olha ao redor do templo.[lr]::
 61718::$$$message_0564_0003_0001$$$::A lança vermelha está em suas mãos.[lr]::
@@ -124,7 +124,7 @@ id=qid::label=str::text=lstr::
 61828::$$$message_0564_0039_0004$$$::Parece com um monstro do mar dos tempo antigos.::
 61829::$$$message_0564_0040_0000$$$::"[w l=7][line7]Mas... o que...?"[lr]::
 61830::$$$message_0564_0040_0001$$$::Lancer não tem para onde fugir.[lr]::
-61831::$$$message_0564_0040_0002$$$::Ele instantamente rabisca suas runas no fundo do lago para criar um campo de separação, mas ele é facilmente penetrado.::
+61831::$$$message_0564_0040_0002$$$::Ele instantamente rabisca suas runas no fundo do lago para criar um Campo Limitado, mas ele é facilmente penetrado.::
 61832::$$$message_0564_0041_0000$$$::Os tentáculos negros se aproximam por todos os lados, e seu território encolhe a cada segundo.[lr]::
 61833::$$$message_0564_0041_0001$$$::A proteção de todas as suas Runas, que podem bloquear até um grande Fantasma Nobre, não reduzem nem por um instante a penetração.[lr]::
 61834::$$$message_0564_0041_0002$$$::Observando o Lancer[w l=4][line4][lr]::

@@ -21,8 +21,8 @@ id=qid::label=str::text=lstr::
 4257::$$$message_0042_0005_0003$$$::Há algumas garotas fazendo um alvoroço atrás dele.::
 4258::$$$message_0042_0006_0000$$$::"Você ainda estava aqui mesmo não tendo compromissos? Ah, já sei, você estava ajudando o conselho estudantil de novo, não? Eu te invejo, Emiya. Você consegue créditos com a escola sem fazer parte de clube algum."[lr]::
 4259::$$$message_0042_0006_0001$$$::"Eu não estava ajudando o conselho estudantil. É natural que um aluno conserte os equipamentos da escola, não acha? Afinal, somos nós quem estamos usando eles."::
-4260::$$$message_0042_0007_0000$$$::"Ha, continue falando assim. Tudo é natural pra você, Emiya. Eu já não te disse que odeio a forma como você age como se fosse um bom garoto?"[lr]::
-4261::$$$message_0042_0007_0001$$$::"Hm? Ah, desculpa, não me lembro disso. Eu achei que fosse só mais uma das coisas que você falou da boca pra fora, então eu não prestei muita atenção."::
+4260::$$$message_0042_0007_0000$$$::"Ha, continue falando assim. Tudo é natural pra você, Emiya. Já não te disse que odeio a forma como você age como se fosse um garoto exemplar?"[lr]::
+4261::$$$message_0042_0007_0001$$$::"Hm? Ah, desculpa, não me lembro disso. Achei que fosse só mais uma das coisas que você falou da boca pra fora, então não prestei muita atenção."::
 4262::$$$message_0042_0008_0000$$$::"Tsc..![lr]::
 4263::$$$message_0042_0008_0001$$$::Heh, que seja. Então você pretende consertar tudo nessa escola, Emiya?"[lr]::
 4264::$$$message_0042_0008_0002$$$::"Consertar tudo seria impossível. O máximo que consigo é cuidar dos problemas mais aparentes."::
@@ -31,54 +31,54 @@ id=qid::label=str::text=lstr::
 4267::$$$message_0042_0009_0002$$$::Você costumava ser um membro do clube, então seja útil pra nós também ao invés de só ficar ajudando o conselho."::
 4268::$$$message_0042_0010_0000$$$::"Mas hein? Espera aí, Senpai. A Fujimura-sensei não mandou você fazer isso?"[lr]::
 4269::$$$message_0042_0010_0001$$$::"Isso mesmo. Você vai levar um sermão amanhã se não fizer isso direito."[lr]::
-4270::$$$message_0042_0010_0002$$$::"Mas a loja vai fechar até a limpeza acabar se for pra começar agora. Tudo bem deixar isso pra ele, não?"[lr]::
-4271::$$$message_0042_0010_0003$$$::"Eu não sei. E além disso, alguém que não faz parte do clube não saberia como cuidar de tudo."[lr]::
+4270::$$$message_0042_0010_0002$$$::"Mas a loja vai fechar se ele for pra começar agora. Tudo bem deixar isso pro outro garoto, não?"[lr]::
+4271::$$$message_0042_0010_0003$$$::"Que maldade. E além disso, alguém que não faz parte do clube não saberia como cuidar de tudo."[lr]::
 4272::$$$message_0042_0010_0004$$$::"Tem certeza disso? O Shinji disse que aquele cara costumava ser membro do clube, se for assim podemos deixar ele cuidar de tudo."::
-4273::$$$message_0042_0011_0000$$$::Elas estão fazendo um alvoroço atrás do Shinji.[lr]::
-4274::$$$message_0042_0011_0001$$$::Parece que elas são membras do clube de arco e flecha, mas elas devem ter sido recrutadas recentemente pelo Shinji já que não as conheço.::
+4273::$$$message_0042_0011_0000$$$::As garotas estão fazendo um alvoroço atrás do Shinji.[lr]::
+4274::$$$message_0042_0011_0001$$$::Parece que elas participam do clube de arco e flecha, mas devem ter sido recrutadas recentemente pelo Shinji, já que não as conheço.::
 4275::$$$message_0042_0012_0000$$$::"Bom, deixarei isso nas suas mãos. A chave está no lugar de sempre, então sinta-se à vontade. Você não se importa, não é, Emiya?"[lr]::
-4276::$$$message_0042_0012_0001$$$::"Não, tudo bem. Eu tenho um tempo livre, e não é ruim ajudar de vez em quando."[lr]::
+4276::$$$message_0042_0012_0001$$$::"Não, tudo bem. Tenho um tempo livre, e não é ruim ajudar de vez em quando."[lr]::
 4277::$$$message_0042_0012_0002$$$::"Hahaha, obrigado! Vamos, garotas. Ele disse que cuidará das tarefas chatas pra gente!"::
-4278::$$$message_0042_0013_0000$$$::"Ah, espera aí Senpai! Ah sim, por favor cuide da limpeza, Senpai."::
+4278::$$$message_0042_0013_0000$$$::"Ah, espera aí, Senpai! Ah sim, por favor cuide da limpeza, Senpai."::
 4279::$$$message_0042_0014_0000$$$::Eu termino tranquilamente a limpeza por conhecer bem o lugar.[lr]::
 4280::$$$message_0042_0014_0001$$$::Demorou um pouco porque dojo é bem grande, mas foi divertido limpar um lugar que eu usava até um ano e meio atrás.::
-4281::$$$message_0042_0015_0000$$$::Eu peguei um arco pensando que não teria problema atirar só uma vez, mas decidi não fazer isso já que ele não era meu.[lr]::
-4282::$$$message_0042_0015_0001$$$::Se eu sentir vontade um dia, eu posso simplesmente vir aqui com o meu próprio arco.::
+4281::$$$message_0042_0015_0000$$$::Peguei um arco pensando que não teria problema atirar só uma vez, mas decidi não fazer isso já que ele não era meu.[lr]::
+4282::$$$message_0042_0015_0001$$$::Se eu sentir vontade um dia, posso simplesmente vir aqui com o meu próprio arco.::
 4283::$$$message_0042_0016_0000$$$::Quando olho pro relógio, vejo que já passou e muito do toque de recolher.[lr]::
 4284::$$$message_0042_0016_0001$$$::Já se passou um pouco das sete. Os portões já devem estar fechados, então não adianta querer me apressar.::
 4285::$$$message_0042_0017_0000$$$::Mas ainda assim...[lr]::
-4286::$$$message_0042_0017_0001$$$::O dojo foi sempre tão sujo assim? Há diversos lugares que parecem mau cuidados.::
+4286::$$$message_0042_0017_0001$$$::O dojo foi sempre tão sujo assim? Há diversos lugares que parecem malcuidados.::
 4287::$$$message_0042_0018_0000$$$::"Bom, pra quem já fez tudo isso, uma hora ou duas a mais não vão machucar."[lr]::
-4288::$$$message_0042_0018_0001$$$::Eu comecei a limpeza, então eu vou terminá-la.::
+4288::$$$message_0042_0018_0001$$$::Eu comecei a limpeza, então vou terminá-la.::
 4289::$$$message_0042_0019_0000$$$::Está ventando.[lr]::
 4290::$$$message_0042_0019_0001$$$::O frio é tanto que minhas bochechas estão ficando dormentes.[lr]::
 4291::$$$message_0042_0019_0002$$$::Fuyuki geralmente não é fria durante o inverno, mas justo hoje está frio pra caramba.::
 4292::$$$message_0042_0020_0000$$$::"..."[lr]::
-4293::$$$message_0042_0020_0001$$$::Minha respiração forma uma nuvem branca no ar.[lr]::
+4293::$$$message_0042_0020_0001$$$::Minha respiração forma uma nuvem branca no ar.::
 4294::$$$message_0042_0021_0000$$$::"Não é pra menos que está escuro... a lua está escondida atrás das nuvens."[lr]::
 4295::$$$message_0042_0021_0001$$$::Quando olho pra cima, não há luz alguma no céu.[lr]::
 4296::$$$message_0042_0021_0002$$$::As nuvens estão se movendo rapidamente devido aos fortes ventos.[lr]::
 4297::$$$message_0042_0021_0003$$$::Já passou do toque de recolher e não há sinal algum de vida na escola agora vazia.::
-4298::$$$message_0042_0022_0000$$$::O silêncio faz parecer que apenas o frio preenche esse lugar.[lr]::
+4298::$$$message_0042_0022_0000$$$::O lugar está silencioso. E parece estar mais frio do que qualquer outra parte da cidade..[lr]::
 4299::$$$message_0042_0022_0001$$$::"Hm...?"[lr]::
 4300::$$$message_0042_0022_0002$$$::Eu...[lr]::
 4301::$$$message_0042_0022_0003$$$::Eu acho que acabei de ouvir alguma coisa.::
 4302::$$$message_0042_0023_0000$$$::"[line3]Eu certamente ouvi alguma coisa. O barulho está vindo do pátio...?"[lr]::
 4303::$$$message_0042_0023_0001$$$::Nesta noite...[lr]::
 4304::$$$message_0042_0023_0002$$$::O som que quebrou o silêncio sob o céu congelado me chamou a atenção.[lr]::
-4305::$$$message_0042_0023_0003$$$::Eu sigo em direção à sua origem para investigá-lo.::
-4306::$$$message_0042_0024_0000$$$::Eu vou até o pátio da escola.[lr]::
+4305::$$$message_0042_0023_0003$$$::Sigo em direção à sua origem para investigá-lo.::
+4306::$$$message_0042_0024_0000$$$::Vou até o pátio da escola.[lr]::
 4307::$$$message_0042_0024_0001$$$::"Pessoas...?"[lr]::
 4308::$$$message_0042_0024_0002$$$::Bom, de longe se parecem com pessoas.[lr]::
 4309::$$$message_0042_0024_0003$$$::A noite está escura e não há luz alguma.[lr]::
 4310::$$$message_0042_0024_0004$$$::Se eu quiser saber mais, vou ter que me aproximar.::
-4311::$$$message_0042_0025_0000$$$::Eu consigo ouvir melhor os sons agora.[lr]::
+4311::$$$message_0042_0025_0000$$$::Consigo ouvir melhor os sons agora.[lr]::
 4312::$$$message_0042_0025_0001$$$::Esse é o barulho de metal colidindo contra metal.[lr]::
 4313::$$$message_0042_0025_0002$$$::Parece uma luta.::
-4314::$$$message_0042_0026_0000$$$::"Mas que estupidez... No que diabos eu estou pensando...?"[lr]::
+4314::$$$message_0042_0026_0000$$$::"Mas que estupidez... No que eu sequer estou pensando...?"[lr]::
 4315::$$$message_0042_0026_0001$$$::Claramente estou sendo estúpido. Quem iria lutar no pátio com armas assim?::
 4316::$$$message_0042_0027_0000$$$::[line3]Naquele instante...[lr]::
-4317::$$$message_0042_0027_0001$$$::Eu não sei se foi pelos meus instintos terem percebido o perigo, mas eu me escondi a medida que me aproximava. Se isso foi algo bom, eu não sei dizer.[lr]::
+4317::$$$message_0042_0027_0001$$$::Não sei se foi pelos meus instintos terem percebido o perigo, mas me escondi enquanto me aproximava. Se isso foi algo bom, eu não sei dizer.[lr]::
 4318::$$$message_0042_0027_0002$$$::Mas de qualquer forma, assim que alcanço uma árvore grande o suficiente pra me esconder, eu olho melhor pra fonte do barulho...[lr]::
 4319::$$$message_0042_0027_0003$$$::A minha mente para completamente.::
 4320::$$$message_0042_0028_0000$$$::"[line4]Quê..."[lr]::
@@ -86,7 +86,7 @@ id=qid::label=str::text=lstr::
 4322::$$$message_0042_0028_0002$$$::Um homem de vermelho e um homem de azul.[lr]::
 4323::$$$message_0042_0028_0003$$$::Eles estão perigosamente armados, e assim como a sua presença ameaçadora indica, eles estão realmente atacando um ao outro.::
 4324::$$$message_0042_0029_0000$$$::Eu não consigo entender.[lr]::
-4325::$$$message_0042_0029_0001$$$::Eu não consigo acompanhá-los com meus olhos.[lr]::
+4325::$$$message_0042_0029_0001$$$::Não consigo acompanhá-los com meus olhos.[lr]::
 4326::$$$message_0042_0029_0002$$$::Frente aos movimentos impossíveis deles, o meu cérebro não consegue processar normalmente as informações que recebe.[lr]::
 4327::$$$message_0042_0029_0003$$$::Mas o som das armas deles colidindo me diz que eles estão tentando matar um ao outro.::
 4328::$$$message_0042_0030_0000$$$::"..."[lr]::
@@ -107,12 +107,12 @@ id=qid::label=str::text=lstr::
 4343::$$$message_0042_0030_0015$$$::Eu me recordo do assassinato de ontem.[lr]::
 4344::$$$message_0042_0030_0016$$$::Disseram que a família foi morta por uma arma longa e afiada, algo como uma espada.::
 4345::$$$message_0042_0030_0017$$$::"...!"[lr]::
-4346::$$$message_0042_0030_0018$$$::Eu não devia continuar a assistir isso.[lr]::
-4347::$$$message_0042_0030_0019$$$::Mas o meu corpo não escuta os meus comandos e eu nem sequer consigo respirar.[lr]::
-4348::$$$message_0042_0030_0020$$$::Eu quero sair correndo,[lr]::
+4346::$$$message_0042_0030_0018$$$::Não devo continuar assistindo isso.[lr]::
+4347::$$$message_0042_0030_0019$$$::Mas meu corpo não escuta os meus comandos e nem sequer consigo respirar.[lr]::
+4348::$$$message_0042_0030_0020$$$::Quero sair correndo,[lr]::
 4349::$$$message_0042_0030_0021$$$::mas o meu juízo me diz que vou ser visto assim que começar a correr.::
 4350::$$$message_0042_0030_0022$$$::Acima desse meu conflito interno, o meu corpo está simplesmente paralisado...[lr]::
-4351::$$$message_0042_0030_0023$$$::Mesmo estando a mais de quarenta metros de distância, eu não consigo respirar direito e sinto-me como se houvesse uma lança apontada para as minhas costas.::
+4351::$$$message_0042_0030_0023$$$::Mesmo estando a mais de quarenta metros de distância, não consigo respirar direito e sinto-me como se houvesse uma lança apontada para as minhas costas.::
 4352::$$$message_0042_0030_0024$$$::"..."[lr]::
 4353::$$$message_0042_0030_0025$$$::O som parou.[lr]::
 4354::$$$message_0042_0030_0026$$$::Os dois se separam e ficam um de frente ao outro se encarando.[lr]::
@@ -132,87 +132,87 @@ id=qid::label=str::text=lstr::
 4368::$$$message_0042_0034_0002$$$::O cara de vermelho vai morrer.[lr]::
 4369::$$$message_0042_0034_0003$$$::É um golpe com uma quantia absurda de energia mágica concentrada. Não tem como ele sobreviver àquilo.::
 4370::$$$message_0042_0035_0000$$$::Ele vai morrer.[lr]::
-4371::$$$message_0042_0035_0001$$$::Ele não é humano, então algo meramente semelhante a um humano vai morrer.[lr]::
+4371::$$$message_0042_0035_0001$$$::Apesar de não ser humano, aquele cara que parece humano vai morrer.[lr]::
 4372::$$$message_0042_0035_0002$$$::Isso é...::
 4373::$$$message_0042_0036_0000$$$::Isso é...::
 4374::$$$message_0042_0037_0000$$$::Isso é... algo que eu posso simplesmente ignorar?::
-4375::$$$message_0042_0038_0000$$$::Essa dúvida livra a minha mente das algemas que a prendiam a eles.[lr]::
-4376::$$$message_0042_0038_0001$$$::As amarras em meu corpo desaparecem, e no instante em que eu respiro fundo...[lr]::
+4375::$$$message_0042_0038_0000$$$::Essa dúvida livra a minha mente das algemas que me prendiam.[lr]::
+4376::$$$message_0042_0038_0001$$$::As amarras em meu corpo desaparecem, e no instante em que respiro fundo...[lr]::
 4377::$$$message_0042_0038_0002$$$::"Quem está aí!?"[lr]::
-4378::$$$message_0042_0038_0003$$$::O cara de azul olha pra mim que estou escondido.::
+4378::$$$message_0042_0038_0003$$$::O cara de azul encara onde eu estava me escondendo.::
 4379::$$$message_0042_0039_0000$$$::"...!"[lr]::
 4380::$$$message_0042_0039_0001$$$::O corpo do cara de azul se abaixa.[lr]::
 4381::$$$message_0042_0039_0002$$$::Apenas esse movimento já me diz que eu sou o alvo dele agora.::
 4382::$$$message_0042_0040_0000$$$::...![lr]::
 4383::$$$message_0042_0040_0001$$$::Minhas pernas automaticamente começam a correr.[lr]::
-4384::$$$message_0042_0040_0002$$$::Eu enfim percebo que essa foi uma ação pra escapar da morte, e redireciono toda a energia do meu corpo pras minhas pernas.::
-4385::$$$message_0042_0041_0000$$$::Eu não sei o quão rápido eu corri, mas quando me dei por mim, vejo que estou dentro do prédio da escola.::
-4386::$$$message_0042_0042_0000$$$::"O que diabos... seu idiota."[lr]::
-4387::$$$message_0042_0042_0001$$$::Ofegante, eu me arrependo das minhas ações.[lr]::
-4388::$$$message_0042_0042_0002$$$::Eu devia ter corrido pra cidade pra fugir.[lr]::
-4389::$$$message_0042_0042_0003$$$::O que diabos eu estou fazendo, correndo pra um lugar deserto como esse?::
+4384::$$$message_0042_0040_0002$$$::Quando percebi que foi um reflexo pra continuar vivo, concentrei toda a minha energia em fugir.::
+4385::$$$message_0042_0041_0000$$$::Não sei o quão rápido eu corri, mas quando me dei conta, percebi que estou dentro do prédio da escola.::
+4386::$$$message_0042_0042_0000$$$::"E agora... seu idiota."[lr]::
+4387::$$$message_0042_0042_0001$$$::Ofegante, me arrependo das minhas ações.[lr]::
+4388::$$$message_0042_0042_0002$$$::Eu devia ter fugido até a cidade.[lr]::
+4389::$$$message_0042_0042_0003$$$::Quem seria maluco o suficiente pra correr até um lugar deserto como esse?::
 4390::$$$message_0042_0043_0000$$$::Pra uma escola ainda por cima. Não tinha lugar melhor do que esse pra me esconder?[lr]::
-4391::$$$message_0042_0043_0001$$$::De qualquer forma, por que eu estou achando que vou ser morto se eu não escapar?::
+4391::$$$message_0042_0043_0001$$$::De qualquer forma, por que estou achando que vou ser morto se eu não escapar?::
 4392::$$$message_0042_0044_0000$$$::"Haa... haa... haa..."[lr]::
 4393::$$$message_0042_0044_0001$$$::Meu coração dói de tanto correr.[lr]::
 4394::$$$message_0042_0044_0002$$$::Me virando pra trás, não consigo sentir presença alguma me perseguindo.[lr]::
 4395::$$$message_0042_0044_0003$$$::O único som audível é o dos meus passos.::
 4396::$$$message_0042_0045_0000$$$::"Ah... haa... haa..."[lr]::
-4397::$$$message_0042_0045_0001$$$::Se é assim, eu posso finalmente descansar.[lr]::
-4398::$$$message_0042_0045_0002$$$::Eu paro, incapaz de dar mais um passo sequer, envio oxigênio para o meu coração acelerado, e finalmente percebo que estou seguro.::
-4399::$$$message_0042_0046_0000$$$::"Haa... haa... o que diabos foi aquilo...?"[lr]::
+4397::$$$message_0042_0045_0001$$$::Se é assim, posso finalmente descansar.[lr]::
+4398::$$$message_0042_0045_0002$$$::Eu paro, incapaz de dar mais um passo sequer, tentando acalmar meu coração acelerado, e finalmente percebo que estou seguro.::
+4399::$$$message_0042_0046_0000$$$::"Haa... haa... o que eu acabei de presenciar...?"[lr]::
 4400::$$$message_0042_0046_0001$$$::Me recordo da cena de agora enquanto recupero o fôlego.[lr]::
 4401::$$$message_0042_0046_0002$$$::De qualquer modo, estou certo de que não era algo que eu deveria ter visto.::
 4402::$$$message_0042_0047_0000$$$::Duas coisas que se pareciam com humanos estavam lutando no pátio da escola.[lr]::
 4403::$$$message_0042_0047_0001$$$::Isso é tudo de que consigo me lembrar.[lr]::
 4404::$$$message_0042_0047_0002$$$::Mas eu vi mais alguma coisa de relance.[lr]::
 4405::$$$message_0042_0047_0003$$$::"Não havia mais uma pessoa lá...?"[lr]::
-4406::$$$message_0042_0047_0004$$$::Porém eu não consigo me lembrar de como ela era.[lr]::
-4407::$$$message_0042_0047_0005$$$::Pra ser sincero, eu não tinha compostura o suficiente pra olhar pra algo que não fossem aqueles dois lutando.::
+4406::$$$message_0042_0047_0004$$$::Mas não consigo me lembrar de como ela era.[lr]::
+4407::$$$message_0042_0047_0005$$$::Pra ser sincero, eu não tinha compostura o suficiente pra prestar atenção em algo que não fossem aqueles dois lutando.::
 4408::$$$message_0042_0048_0000$$$::"Mas... de qualquer modo..."[lr]::
 4409::$$$message_0042_0048_0001$$$::"'A perseguição acabou', estou certo?"[lr]::
 4410::$$$message_0042_0048_0002$$$::A voz vem bem da minha frente.::
 4411::$$$message_0042_0049_0000$$$::"Eae. Você correu até que pra bem longe."::
 4412::$$$message_0042_0050_0000$$$::"..."[lr]::
 4413::$$$message_0042_0050_0001$$$::Não consigo respirar[lr]::
-4414::$$$message_0042_0050_0002$$$::O meu cérebro para, e mesmo eu não conseguindo pensar...[lr]::
+4414::$$$message_0042_0050_0002$$$::O meu cérebro para, e mesmo não conseguindo pensar...[lr]::
 4415::$$$message_0042_0050_0003$$$::...eu vagamente entendo que vou morrer.::
 4416::$$$message_0042_0051_0000$$$::"Você sabe melhor do que ninguém que não tem como fugir, certo? Pessoas que estão pra morrer geralmente percebem esse fato. Você não precisa se sentir envergonhado por isso."[lr]::
 4417::$$$message_0042_0051_0001$$$::E com isso,[lr]::
 4418::$$$message_0042_0051_0002$$$::ele ergue a lança com naturalidade.::
-4419::$$$message_0042_0052_0000$$$::"Você simplesmente teve azar, garoto. Bom, você nos viu, então morra."[lr]::
+4419::$$$message_0042_0052_0000$$$::"Foi simplesmente azar, garoto. Já que nos viu, você precisa morrer."[lr]::
 4420::$$$message_0042_0052_0001$$$::A lança do homem de azul impiedosamente perfura o coração de Emiya Shirou.::
 4421::$$$message_0042_0053_0000$$$::Nem tive tempo pra desviar dela.[lr]::
-4422::$$$message_0042_0053_0001$$$::Todo o treinamento que eu fiz foi em vão.[lr]::
+4422::$$$message_0042_0053_0001$$$::Todo o treinamento que fiz foi em vão.[lr]::
 4423::$$$message_0042_0053_0002$$$::Eu sabia que eu ia ser morto.[lr]::
-4424::$$$message_0042_0053_0003$$$::Eu sabia que eu ia ser perfurado por aquela lança, e ainda assim eu não consegui mover um músculo sequer.::
+4424::$$$message_0042_0053_0003$$$::Eu sabia que eu ia ser perfurado por aquela lança, e mesmo assim não consegui mover um músculo sequer.::
 4425::$$$message_0042_0054_0000$$$::"Ah... ah."[lr]::
 4426::$$$message_0042_0054_0001$$$::O mundo se distorce...[lr]::
 4427::$$$message_0042_0054_0002$$$::O calor desaparece do meu corpo...[lr]::
 4428::$$$message_0042_0054_0003$$$::O tato da ponta dos meus dedos desaparece...[lr]::
 4429::$$$message_0042_0054_0004$$$::"Guh..."[lr]::
 4430::$$$message_0042_0054_0005$$$::Eu vomito sangue, mas apenas uma vez.::
-4431::$$$message_0042_0055_0000$$$::Mais sangue devia ter saído nisso, mas eu vomito apenas uma vez.[lr]::
+4431::$$$message_0042_0055_0000$$$::Mais sangue devia ter saído nisso, mas só vomito uma vez.[lr]::
 4432::$$$message_0042_0055_0001$$$::Talvez a lança daquele cara seja especial.[lr]::
-4433::$$$message_0042_0055_0002$$$::O sangue lentamente coagula, e o coração que deveria ter explodido para de funcionar após ser perfurado apenas uma vez.::
+4433::$$$message_0042_0055_0002$$$::O sangue lentamente coagula, e o coração que deveria ter explodido para de funcionar após ser perfurado pela lança.::
 4434::$$$message_0042_0056_0000$$$::"..."[lr]::
-4435::$$$message_0042_0056_0001$$$::Eu não consigo enxergar bem.[lr]::
-4436::$$$message_0042_0056_0002$$$::Os meus sentidos deixaram de existir.[lr]::
-4437::$$$message_0042_0056_0003$$$::Eu me sinto como uma água-viva flutuando no mar escuro durante a noite.[lr]::
-4438::$$$message_0042_0056_0004$$$::Eu já não consigo mais sentir dor alguma.[lr]::
-4439::$$$message_0042_0056_0005$$$::O mundo está branco, e apenas eu estou negro.[lr]::
+4435::$$$message_0042_0056_0001$$$::Não consigo enxergar bem.[lr]::
+4436::$$$message_0042_0056_0002$$$::Meus sentidos deixaram de existir.[lr]::
+4437::$$$message_0042_0056_0003$$$::Me sinto como uma água-viva flutuando no mar escuro durante a noite.[lr]::
+4438::$$$message_0042_0056_0004$$$::Já não consigo mais sentir dor alguma.[lr]::
+4439::$$$message_0042_0056_0005$$$::O mundo está claro, e apenas eu estou no escuro.[lr]::
 4440::$$$message_0042_0056_0006$$$::Portanto, não é bem como se eu estivesse me sentindo morto,[lr]::
 4441::$$$message_0042_0056_0007$$$::é mais como se o mundo ao meu redor tivesse desaparecido.::
 4442::$$$message_0042_0057_0000$$$::Eu conheço isso...[lr]::
 4443::$$$message_0042_0057_0001$$$::Senti isso dez anos atrás.[lr]::
 4444::$$$message_0042_0057_0002$$$::É assim que as pessoas se sentem quando estão morrendo.::
 4445::$$$message_0042_0058_0000$$$::"Os mortos não contam histórias. É natural que os fracos morram, mas..."[lr]::
-4446::$$$message_0042_0058_0001$$$::Eu não consigo focar a minha visão...::
+4446::$$$message_0042_0058_0001$$$::Não consigo focar a minha visão...::
 4447::$$$message_0042_0059_0000$$$::"Francamente, você realmente me faz fazer uns trabalhos bem desagradáveis. Um herói agindo desse jeito só pode ser piada."[lr]::
-4448::$$$message_0042_0059_0001$$$::...eu apenas consigo ouvir uma voz.::
-4449::$$$message_0042_0060_0000$$$::"Eu sei, não tenho reclamações. Eu vi o Servo da garota, então vou ser obediente e voltar."[lr]::
+4448::$$$message_0042_0059_0001$$$::...só consigo ouvir uma voz.::
+4449::$$$message_0042_0060_0000$$$::"Eu sei, não tenho reclamações. Consegui ver o Servo da garota, então vou ser obediente e voltar."[lr]::
 4450::$$$message_0042_0060_0001$$$::Uma voz repleta de irritação.[lr]::
-4451::$$$message_0042_0060_0002$$$::E depois disso, eu ouço passos correndo através do corredor.::
+4451::$$$message_0042_0060_0002$$$::E depois disso, ouço passos correndo através do corredor.::
 4452::$$$message_0042_0061_0000$$$::"Archer, né? Eu quero terminar a nossa batalha, mas eu tenho que seguir o plano do meu Mestre... Sério, eu realmente não gosto dele."[lr]::
 4453::$$$message_0042_0061_0001$$$::A voz que eu ouvia desaparece de repente.[lr]::
 4454::$$$message_0042_0061_0002$$$::Acho que ele pulou pra fora da janela ou algo assim.[lr]::
@@ -220,25 +220,25 @@ id=qid::label=str::text=lstr::
 4456::$$$message_0042_0062_0000$$$::Ouço passos se aproximando, e então parando.[lr]::
 4457::$$$message_0042_0062_0001$$$::Nesse curto período de tempo...[lr]::
 4458::$$$message_0042_0062_0002$$$::...mais passos se tornam audíveis.[lr]::
-4459::$$$message_0042_0062_0003$$$::Eu não consigo mais... ouvir... muito... bem...::
+4459::$$$message_0042_0062_0003$$$::Não consigo mais... ouvir... muito... bem...::
 4460::$$$message_0042_0063_0000$$$::"Siga-o, Archer... O Lancer provavelmente retornará para o seu Mestre. Se não conseguirmos pelo menos descobrir a cara dele, isto tudo terá sido em vão."::
 4461::$$$message_0042_0064_0000$$$::De quem era aquela voz...?[lr]::
-4462::$$$message_0042_0064_0001$$$::A minha mente está se deteriorando. Eu tento me concentrar, mas não consigo me lembrar de nada.[lr]::
+4462::$$$message_0042_0064_0001$$$::A minha mente está se deteriorando. Tento me concentrar, mas não consigo me lembrar de nada.[lr]::
 4463::$$$message_0042_0064_0002$$$::Nesse momento, a minha respiração está barulhenta demais.[lr]::
-4464::$$$message_0042_0064_0003$$$::Os meus pulmões ainda devem estar vivos.[lr]::
+4464::$$$message_0042_0064_0003$$$::Os meus pulmões ainda devem estar funcionando.[lr]::
 4465::$$$message_0042_0064_0004$$$::A respiração saindo da minha boca é tão estrondosa quanto um furacão.::
 4466::$$$message_0042_0065_0000$$$::"É incrível ele ainda não estar morto."::
-4467::$$$message_0042_0066_0000$$$::Eu sinto que alguém está olhando pro meu rosto.[lr]::
+4467::$$$message_0042_0066_0000$$$::Sinto que alguém está olhando pro meu rosto.[lr]::
 4468::$$$message_0042_0066_0001$$$::Talvez a minha respiração estivesse alta demais já que a pessoa tentou fechar a minha boca...::
 4469::$$$message_0042_0067_0000$$$::"Sem essa... Por que tinha que ser você?"[lr]::
 4470::$$$message_0042_0067_0001$$$::Eu ouço a pessoa cerrando os seus dentes,[lr]::
 4471::$$$message_0042_0067_0002$$$::e então ela me toca sem hesitar.::
 4472::$$$message_0042_0068_0000$$$::"Reforjar o órgão danificado e usá-lo como substituto, e no processo restaurar o coração danificado...? Se eu conseguir, vou ser instantaneamente aceita na Torre do Relógio..."[lr]::
 4473::$$$message_0042_0068_0001$$$::A voz dessa pessoa está repleta de sofrimento.[lr]::
-4474::$$$message_0042_0068_0002$$$::E então, a minha mente para de se deteriorar.::
+4474::$$$message_0042_0068_0002$$$::Em seguida, a minha mente enfraquecida para por completo.::
 4475::$$$message_0042_0069_0000$$$::"..."[lr]::
 4476::$$$message_0042_0069_0001$$$::Os meus sentidos retornaram para o meu corpo.[lr]::
-4477::$$$message_0042_0069_0002$$$::Lentamente... pouco a pouco... como uma gota d'água escorrendo por uma folha, eu volto a sentir o meu corpo.::
+4477::$$$message_0042_0069_0002$$$::Lentamente... pouco a pouco... como uma gota d'água escorrendo por uma folha, volto a sentir o meu corpo.::
 4478::$$$message_0042_0070_0000$$$::"..."[lr]::
 4479::$$$message_0042_0070_0001$$$::Tem algo pingando...[lr]::
 4480::$$$message_0042_0070_0002$$$::O que está acontecendo?[lr]::
@@ -247,7 +247,7 @@ id=qid::label=str::text=lstr::
 4483::$$$message_0042_0071_0001$$$::Parando pra notar, o lugar onde aquela pessoa pôs a mão sobre está extremamente quente.[lr]::
 4484::$$$message_0042_0071_0002$$$::Deve estar tão quente que o sangue congelado derreteu e voltou a fluir.::
 4485::$$$message_0042_0072_0000$$$::"Haa."[lr]::
-4486::$$$message_0042_0072_0001$$$::Eu sinto alguém se sentando e respirando fundo.[lr]::
+4486::$$$message_0042_0072_0001$$$::Sinto alguém se sentando e respirando fundo.[lr]::
 4487::$$$message_0042_0072_0002$$$::"Eu tô exausta..."[lr]::
 4488::$$$message_0042_0072_0003$$$::Ouço algo caindo.[lr]::
 4489::$$$message_0042_0072_0004$$$::"Bom, acho que não tinha outro jeito... Me perdoe, pai. A sua filha é terrivelmente insensível."::
@@ -255,6 +255,6 @@ id=qid::label=str::text=lstr::
 4491::$$$message_0042_0073_0001$$$::A pessoa diz aquilo pra debochar de si mesma, e deixa o local.::
 4492::$$$message_0042_0074_0000$$$::"..."[lr]::
 4493::$$$message_0042_0074_0001$$$::O meu coração volta a funcionar.[lr]::
-4494::$$$message_0042_0074_0002$$$::E então, a minha mente por sua vez, para.[lr]::
-4495::$$$message_0042_0074_0003$$$::Esse não é o sono da morte...[lr]::
-4496::$$$message_0042_0074_0004$$$::É um sono de descanso, um sono pra recuperar as minhas energias e poder despertar novamente.::
+4494::$$$message_0042_0074_0002$$$::Acho que estou prestes a desmaiar.[lr]::
+4495::$$$message_0042_0074_0003$$$::Mas não vai ser um sono da morte...[lr]::
+4496::$$$message_0042_0074_0004$$$::É um sono de descanso, para recuperar as minhas energias e despertar novamente.::

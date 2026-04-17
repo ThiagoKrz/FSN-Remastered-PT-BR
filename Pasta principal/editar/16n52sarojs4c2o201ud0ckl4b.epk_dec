@@ -1,39 +1,40 @@
 DAT
 id=qid::label=str::text=lstr::
-18715::$$$message_0177_0000_0000$$$::Eu vou fortalecer a Saber bem aqui onde ela foi invocada.[lr]::
-18716::$$$message_0177_0000_0001$$$::Eu não tenho certeza se isso vai dar certo, mas acho que a essa altura vale à pena tentar qualquer coisa.::
-18717::$$$message_0177_0001_0000$$$::"Usar a magia de fortalecimento em mim...?"[lr]::
-18718::$$$message_0177_0001_0001$$$::"Sim. Eu sei que é difícil injetar energia mágica em humanos, ainda mais se não for em si mesmo. Mas eu não consegui ter nenhuma outra ideia. O que posso tentar fazer é te deixar mais forte."::
-18719::$$$message_0177_0002_0000$$$::...Então.[lr]::
-18720::$$$message_0177_0002_0001$$$::Mesmo se tentasse criar uma arma nova usando a magia de "projeção", ela não seria mais poderosa do que a Excalibur.[lr]::
-18721::$$$message_0177_0002_0002$$$::E já que o Fantasma Nobre do Gilgamesh é mais poderoso do que essa espada sagrada, seria inútil criar uma arma nova para a Saber.[lr]::
-18722::$$$message_0177_0002_0003$$$::Por isso, eu não tenho outra escolha a não ser tentar deixá-la mais forte.::
-18723::$$$message_0177_0003_0000$$$::"Há pouca chance de dar certo e eu posso acabar te fazendo passar mal, mas quero tentar mesmo assim.[lr]::
-18724::$$$message_0177_0003_0001$$$::...Por favor, me desculpe por estar te tratando como um objeto que vai ser fortalecido."::
-18725::$$$message_0177_0004_0000$$$::"Você não precisa pedir desculpas. Eu estou bem com isso.[lr]::
-18726::$$$message_0177_0004_0001$$$::Já que esse é o seu plano, eu fico feliz em oferecer o meu corpo."[lr]::
-18727::$$$message_0177_0004_0002$$$::...A Saber concorda com o meu plano e em seguida segura a minha mão.::
-18728::$$$message_0177_0005_0000$$$::"Eu confio no meu Mestre. Eu vou enfraquecer a minha resistência à magia por um tempo, então aproveite para injetar a sua energia mágica enquanto isso."[lr]::
-18729::$$$message_0177_0005_0001$$$::A Saber se inclina na minha direção enquanto continua segurando a minha mão.::
-18730::$$$message_0177_0006_0000$$$::"[line2]Sim. Aguente só um pouquinho, Saber."[lr]::
-18731::$$$message_0177_0006_0001$$$::Eu me concentro para ler o corpo da Saber, o seu diagrama.[lr]::
-18732::$$$message_0177_0006_0002$$$::...A chance de dar certo é menor do que dez por cento.[lr]::
-18733::$$$message_0177_0006_0003$$$::Eu deixo o meu medo de lado e ativo a magia de fortalecimento mais rápido do que nunca.::
-18734::$$$message_0177_0007_0000$$$::[line2]Eu terminei.[lr]::
-18735::$$$message_0177_0007_0001$$$::Eu usei a maior parte da energia mágica que me restava para tentar "fortalecer" a Saber, mas[line2]::
-18736::$$$message_0177_0008_0000$$$::"...E então, Saber? Você sentiu alguma diferença?[lr]::
-18737::$$$message_0177_0008_0001$$$::A minha energia mágica fluiu sem nenhum problema, então você deveria estar mais forte agora..."::
-18738::$$$message_0177_0009_0000$$$::"Hã...? Você não tem certeza de qual foi o resultado? Não consegue confirmar se eu fiquei mais forte ou então mais rápida...?"::
-18739::$$$message_0177_0010_0000$$$::"Bem... não, eu não sei.[lr]::
-18740::$$$message_0177_0010_0001$$$::Eu não consigo perceber se alguma coisa ficou mais forte ou não até testá-la. Mesmo se a magia tiver funcionado, eu tenho que ver se deu certo na prática."::
-18741::$$$message_0177_0011_0000$$$::"Ah, faz sentido. Uma espada fortalecida não vai sair dizendo 'Olha, eu fiquei mais forte!'. Então a aparência continua a mesma.[lr]::
-18742::$$$message_0177_0011_0001$$$::Bem... Isso é meio constrangedor, mas eu não senti mudança nenhuma. Para falar a verdade, eu me sinto exatamente igual."::
-18743::$$$message_0177_0012_0000$$$::"[line2]Entendo. Acho que isso foi perda de tempo."::
-18744::$$$message_0177_0013_0000$$$::"Não, não foi nenhuma perda de tempo.[lr]::
-18745::$$$message_0177_0013_0001$$$::A sua energia mágica funcionou em mim como deveria. Mesmo que o meu corpo não tenha mudado, o meu coração ficou aquecido.[lr]::
-18746::$$$message_0177_0013_0002$$$::...Eu não vou ser derrotada enquanto tiver esse calor dentro de mim. Nesse sentido, você me deixou mais forte."::
-18747::$$$message_0177_0014_0000$$$::A Saber aprovou a minha magia.[lr]::
-18748::$$$message_0177_0014_0001$$$::...Mas na verdade, foi ela que me deixou mais forte.[lr]::
-18749::$$$message_0177_0014_0002$$$::As palavras que ela acabou de dizer me fizeram perder o meu medo e deixar de ficar indeciso.[lr]::
-18750::$$$message_0177_0014_0003$$$::Não é só o coração da Saber que ficou aquecido.[lr]::
-18751::$$$message_0177_0014_0004$$$::Eu também não vou fugir dessa batalha enquanto estiver me sentindo assim[line2]::
+18715::$$$message_0177_0000_0000$$$::Vou fortalecer a Saber neste lugar onde a invoquei.[lr]::
+18716::$$$message_0177_0000_0001$$$::Não sei se é possível, mas agora devo apostar nessa única esperança.:: 
+18717::$$$message_0177_0001_0000$$$::"Aplicar fortalecimento em mim...?"[lr]::
+18718::$$$message_0177_0001_0001$$$::"Sim. Eu sei o quão difícil é fazer a energia mágica fluir por um corpo humano que não seja o próprio. Mas é a única coisa que consigo pensar agora. O que posso fazer é tornar você mais forte, Saber.":: 
+18719::$$$message_0177_0002_0000$$$::...Isso mesmo.[lr]::
+18720::$$$message_0177_0002_0001$$$::Mesmo que eu crie uma nova arma com 'projeção' não conseguiria fazer nada mais forte que a Excalibur.[lr]::
+18721::$$$message_0177_0002_0002$$$::Se o Fantasma Nobre do Gilgamesh supera a espada sagrada, não faz sentido dar outra arma a Saber.[lr]::
+18722::$$$message_0177_0002_0003$$$::Nesse caso, não há outra saída além de fortalecer a própria Saber.:: 
+18723::$$$message_0177_0003_0000$$$::"A chance de sucesso é baixa, e pode ser desagradável para você. Mesmo assim, quero tentar.[lr]::
+18724::$$$message_0177_0003_0001$$$::...Por favor. Me perdoe por tratar você como se fosse um objeto ao falar em te fortalecer.":: 
+18725::$$$message_0177_0004_0000$$$::"O que está dizendo? Eu estou bem com isso.[lr]::
+18726::$$$message_0177_0004_0001$$$::Se é você quem pede, Shirou, ofereço este corpo de bom grado."[lr]::
+18727::$$$message_0177_0004_0002$$$::...Saber segura minha mão por iniciativa própria e aceita minha ideia.:: 
+18728::$$$message_0177_0005_0000$$$::"Confio em você, Mestre. Vou enfraquecer temporariamente minha resistência à magia, então faça sua magia fluir em mim nesse intervalo."[lr]::
+18729::$$$message_0177_0005_0001$$$::Segurando minha mão, Saber apoia o corpo em mim.:: 
+18730::$$$message_0177_0006_0000$$$::"[line2]Certo. Aguente um pouco, Saber."[lr]::
+18731::$$$message_0177_0006_0001$$$::Concentro minha mente e leio o corpo da Saber, seu diagrama.[lr]::
+18732::$$$message_0177_0006_0002$$$::...A chance de sucesso é menor que dez por cento.[lr]::
+18733::$$$message_0177_0006_0003$$$::Afasto a hesitação e ativo a magia de fortalecimento com uma clareza nunca antes alcançada.:: 
+18734::$$$message_0177_0007_0000$$$::[line2]A magia termina.[lr]::
+18735::$$$message_0177_0007_0001$$$::Usei quase toda a energia mágica restante para 'fortalecer' a Saber, mas...[line2]:: 
+18736::$$$message_0177_0008_0000$$$::"...E então, Saber? Sente alguma mudança?[lr]::
+18737::$$$message_0177_0008_0001$$$::A energia mágica fluiu corretamente, então acho que você deve estar mais forte...":: 
+18738::$$$message_0177_0009_0000$$$::"Hã...? Você não consegue dizer se funcionou? Não percebe se minha velocidade ou poder destrutivo aumentaram...?":: 
+18739::$$$message_0177_0010_0000$$$::"Bem... não, não sei.[lr]::
+18740::$$$message_0177_0010_0001$$$::Mesmo sendo fortalecimento, não dá pra saber sem testar. A energia fluiu, mas só dá pra confirmar pelo resultado.":: 
+18741::$$$message_0177_0011_0000$$$::"Ah, entendo. Uma espada fortalecida não sai dizendo 'fiquei mais forte', e sua aparência não muda.[lr]::
+18742::$$$message_0177_0011_0001$$$::...Bem, é constrangedor admitir, mas também não sinto diferença. Honestamente, não mudou muito.":: 
+18743::$$$message_0177_0012_0000$$$::"[line2]Entendo... talvez eu só tenha feito você perder tempo.":: 
+18744::$$$message_0177_0013_0000$$$::"Não, de forma alguma foi perda de tempo.[lr]::
+18745::$$$message_0177_0013_0001$$$::Sua magia funcionou corretamente. Mesmo que meu corpo não tenha mudado, meu coração está aquecido.[lr]::
+18746::$$$message_0177_0013_0002$$$::...Enquanto esse calor existir, eu não serei derrotada. Você me tornou mais forte.":: 
+18747::$$$message_0177_0014_0000$$$::Saber aceitou minha magia.[lr]::
+18748::$$$message_0177_0014_0001$$$::...Mas quem ficou mais forte fui eu.[lr]::
+18749::$$$message_0177_0014_0002$$$::Só essas palavras já dissiparam o medo e a hesitação no meu coração.[lr]::
+18750::$$$message_0177_0014_0003$$$::Não é só o coração da Saber que está aquecido.[lr]::
+18751::$$$message_0177_0014_0004$$$::Enquanto eu tiver esse sentimento, não terei medo da batalha que vem a seguir[line2]::
+

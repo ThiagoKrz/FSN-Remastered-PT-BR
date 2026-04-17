@@ -1,40 +1,39 @@
 DAT
 id=qid::label=str::text=lstr::
-18599::$$$message_0172_0000_0000$$$::...Essa é uma adaga muito famosa.[lr]::
-18600::$$$message_0172_0000_0001$$$::Ela é usada mais para rituais do que para o combate. Se trata de uma varinha mágica em formato de espada que é usada para criar círculos mágicos e para afetar mistérios divinos físicos.::
-18601::$$$message_0172_0001_0000$$$::A palavra "AZOTH" está cravada na joia que fica no cabo da adaga.[lr]::
-18602::$$$message_0172_0001_0001$$$::A Tohsaka deve ter escolhido uma lâmina curta, já que ela costuma ser mais comprida.[lr]::
-18603::$$$message_0172_0001_0002$$$::Essa arma, fabricada por um especialista em ocultismo famoso que basicamente dominou o mundo, é conhecida como a espada de Azoth.[lr]::
-18604::$$$message_0172_0001_0003$$$::Ela é como se fosse a prova de que um mago completou o seu treinamento, sendo um presente que ele recebe por ter entrado na escola[line2]::
+18599::$$$message_0172_0000_0000$$$::...É uma adaga famosa, famosa até demais.[lr]::
+18600::$$$message_0172_0000_0001$$$::Não é para combate, mas para rituais. É uma espécie de bastão mágico em forma de espada, usado para formar círculos mágicos e intervir em mistérios materializados.::
+18601::$$$message_0172_0001_0000$$$::Na joia incrustada no cabo, está gravado apenas 'AZOTH'.[lr]::
+18602::$$$message_0172_0001_0001$$$::O comprimento da lâmina, ao que parece, segue o gosto da Tohsaka — um pouco mais curto que o normal.[lr]::
+18603::$$$message_0172_0001_0002$$$::Dizem que foi usada por um estudioso de ocultismo que, há algum tempo, ganhou grande notoriedade. É conhecida como a Espada de Azoth.[lr]::
+18604::$$$message_0172_0001_0003$$$::Para os magos, é como uma prova de que se tornaram completos — algo como um presente de celebração ao alcançar esse nível.[line2]::
 18605::$$$message_0172_0002_0000$$$::"Tohsaka. Isso é...?"[lr]::
-18606::$$$message_0172_0002_0001$$$::"Você deve ter percebido só de olhar. Essa é a minha adaga. ...Ela não é tão poderosa quanto as minhas joias, mas eu estive injetando energia mágica dentro dela ao longo do tempo. Você pode ativá-la gritando 'l[auml]sst' e injetando o máximo de energia mágica que conseguir."::
-18607::$$$message_0172_0003_0000$$$::...A adaga que a Tohsaka acabou de me entregar é pesada.[lr]::
-18608::$$$message_0172_0003_0001$$$::Não fisicamente, mas ela tem o peso das lembranças que a Tohsaka carregou junto com ela.::
-18609::$$$message_0172_0004_0000$$$::"[line2]Tohsaka. Tem certeza de que eu posso ficar com isso?"[lr]::
-18610::$$$message_0172_0004_0001$$$::"...Pode ficar. Quando eu percebi que não poderia derrotar o Kirei, tive que esconder isso dele. Eu não queria que ela fosse desperdiçada, então pode usá-la à vontade."::
-18611::$$$message_0172_0005_0000$$$::"...Está bem, vou ficar com ela. Na verdade, qualquer arma que eu tiver já vai me ajudar."[lr]::
-18612::$$$message_0172_0005_0001$$$::"Ah, você entende as coisas rápido. Então... está satisfeito agora?[lr]::
-18613::$$$message_0172_0005_0002$$$::Eu estou ficando com bastante sono."::
-18614::$$$message_0172_0006_0000$$$::Ela ri de um jeito estranho.[lr]::
-18615::$$$message_0172_0006_0001$$$::...Antes que eu pudesse perceber.[lr]::
-18616::$$$message_0172_0006_0002$$$::A Saber está parada atrás de mim, esperando para cuidar da Tohsaka.::
-18617::$$$message_0172_0007_0000$$$::"Sim, pode descansar agora. Eu vou te acordar amanhã. E então, vou preparar um banquete no café da manhã."[lr]::
-18618::$$$message_0172_0007_0001$$$::"[line2]Está bem.[lr]::
-18619::$$$message_0172_0007_0002$$$::...Ah, e mais uma coisa. Isso não é um conselho, é uma ordem.[lr]::
-18620::$$$message_0172_0007_0003$$$::Shirou. Não importa o que aconteça, você tem que vencer. Eu não vou te perdoar se você estiver morto quando tiver acordado."::
-18621::$$$message_0172_0008_0000$$$::Ela deve estar satisfeita por ter dito isso tudo.[lr]::
-18622::$$$message_0172_0008_0001$$$::A Tohsaka cai no sono logo em seguida.[lr]::
-18623::$$$message_0172_0008_0002$$$::Ela parece tão saudável que eu estou me sentindo um idiota por ter me preocupado com ela.::
-18624::$$$message_0172_0009_0000$$$::...Mas, enfim...[lr]::
-18625::$$$message_0172_0009_0001$$$::Aquele foi o jeito da Tohsaka de tentar me animar, e ela conseguiu compartilhar um pouco da sua motivação comigo.[lr]::
-18626::$$$message_0172_0009_0002$$$::"[line2]Sim. Pode deixar, Tohsaka."[lr]::
-18627::$$$message_0172_0009_0003$$$::Eu digo isso para ela, que já está dormindo.::
-18628::$$$message_0172_0010_0000$$$::...Está tudo decidido.[lr]::
-18629::$$$message_0172_0010_0001$$$::Agora, eu só tenho que esperar mais algumas horas para que o meu ferimento fique totalmente curado.::
-18630::$$$message_0172_0011_0000$$$::[line2]Já passou da meia-noite.[lr]::
-18631::$$$message_0172_0011_0001$$$::Nós cuidamos da Tohsaka, a levamos para o quarto dela, preparamos o jantar, e comemos em silêncio.::
+18606::$$$message_0172_0002_0001$$$::"Dá pra perceber só de olhar, não dá? É a minha adaga. ...Comparada às minhas joias, é modesta, mas mesmo assim eu venho colocando energia mágica nela de vez em quando. Se disser 'läßt' e despejar toda a sua energia mágica, ela ativa."::
+18607::$$$message_0172_0003_0000$$$::...A adaga que Tohsaka me entrega tem um peso considerável.[lr]::
+18608::$$$message_0172_0003_0001$$$::Não é um peso físico, mas o peso das lembranças dela carregadas ali dentro.::
+18609::$$$message_0172_0004_0000$$$::"[line2]Tohsaka. Tem certeza de que posso ficar com isso?"[lr]::
+18610::$$$message_0172_0004_0001$$$::"...Pode. Eu já sabia que não conseguiria vencer o Kirei, então escondi isso dele até o fim. Seria um desperdício não usar, então fica com você."::
+18611::$$$message_0172_0005_0000$$$::"...Entendi. Vou aceitar, então. Para ser sincero, quanto mais armas, melhor."[lr]::
+18612::$$$message_0172_0005_0001$$$::"Olha só, você entende mesmo. Então... acho que já está bom.[lr]::
+18613::$$$message_0172_0005_0002$$$::Eu já estou ficando com muito sono."::
+18614::$$$message_0172_0006_0000$$$::Ela solta uma risada sem graça.[lr]::
+18615::$$$message_0172_0006_0001$$$::...Quando percebo,[lr]::
+18616::$$$message_0172_0006_0002$$$::Saber já está atrás de mim, pronta para tratar a Tohsaka.::
+18617::$$$message_0172_0007_0000$$$::"É, vai dormir. Eu te acordo de manhã. E aí te encho de comida até não aguentar mais."[lr]::
+18618::$$$message_0172_0007_0001$$$::"...Tá bom.[lr]::
+18619::$$$message_0172_0007_0002$$$::...Ah, e só pra deixar claro, isso não é um conselho, é uma ordem.[lr]::
+18620::$$$message_0172_0007_0003$$$::Shirou. Já que vai fazer isso, então vença, mesmo que custe a sua vida. Se eu acordar e você estiver morto, não vou te perdoar."::
+18621::$$$message_0172_0008_0000$$$::Parece que ela disse tudo o que queria dizer.[lr]::
+18622::$$$message_0172_0008_0001$$$::E então Tohsaka adormece profundamente.[lr]::
+18623::$$$message_0172_0008_0002$$$::Ela parece tão tranquila que chega a ser ridículo eu ter me preocupado tanto.::
+18624::$$$message_0172_0009_0000$$$::...Mas ainda assim.[lr]::
+18625::$$$message_0172_0009_0001$$$::Esse é o jeito da Tohsaka de me encorajar e não há dúvida de que isso me deu forças.[lr]::
+18626::$$$message_0172_0009_0002$$$::"[line2]Pode deixar comigo, Tohsaka."[lr]::
+18627::$$$message_0172_0009_0003$$$::Digo isso para ela já adormecida.::
+18628::$$$message_0172_0010_0000$$$::...Tudo está pronto.[lr]::
+18629::$$$message_0172_0010_0001$$$::Agora só resta passar essas poucas horas sem arrependimentos, até que meus ferimentos se curem.::
+18630::$$$message_0172_0011_0000$$$::[line2]O dia vira.[lr]::
+18631::$$$message_0172_0011_0001$$$::Cuidamos dos ferimentos da Tohsaka, a levamos para o quarto, preparo o jantar e o compartilho com Saber em silêncio.::
 18632::$$$message_0172_0012_0000$$$::"...Só mais um pouco."[lr]::
-18633::$$$message_0172_0012_0001$$$::O ferimento está quase curado.[lr]::
-18634::$$$message_0172_0012_0002$$$::Só deve faltar uma ou duas horas até lá.[lr]::
-18635::$$$message_0172_0012_0003$$$::Enquanto isso, eu vou[line2]::
-
+18633::$$$message_0172_0012_0001$$$::A maior parte dos ferimentos já se curou.[lr]::
+18634::$$$message_0172_0012_0002$$$::Deve faltar apenas uma ou duas horas.[lr]::
+18635::$$$message_0172_0012_0003$$$::Nesse meio tempo, eu...[line2]::

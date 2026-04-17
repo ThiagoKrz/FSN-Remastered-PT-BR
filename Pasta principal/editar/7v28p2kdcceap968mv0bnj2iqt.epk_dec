@@ -1,49 +1,50 @@
 DAT
 id=qid::label=str::text=lstr::
 10552::$$$message_0107_0000_0000$$$::"[line3]Não, sinto o mesmo que a Tohsaka. Não devemos ir lá."::
-10553::$$$message_0107_0001_0000$$$::"Que... está dizendo que não vai lutar também...!?[lr]::
-10554::$$$message_0107_0001_0001$$$::Impossível. Para que eu estava descansando até agora!?[lr]::
-10555::$$$message_0107_0001_0002$$$::Agora que sabemos onde nosso inimigo está, temos que atacar!"::
+10553::$$$message_0107_0001_0000$$$::"O quê... você também não pretende lutar...!?[lr]::
+10554::$$$message_0107_0001_0001$$$::Então pra que eu fiquei me recuperando até agora!?[lr]::
+10555::$$$message_0107_0001_0002$$$::Agora que sabemos onde o inimigo está, o correto é partir para o ataque!"::
 10556::$$$message_0107_0002_0000$$$::"[line3]Eu sei disso, mas temos que esperar, Saber.[lr]::
-10557::$$$message_0107_0002_0001$$$::Se o Mestre no Templo Ryuudou é tão cuidadoso, certamente será uma armadilha. Seria suicídio ir para lá sem ter planos.[lr]::
-10558::$$$message_0107_0002_0002$$$::Como a Tohsaka diz, devemos esperar pelo menos até o Archer estiver recuperado."::
-10559::$$$message_0107_0003_0000$$$::"Tal perigo é normal. Nunca esperei merecer uma vitória sem me ferir.[lr]::
-10560::$$$message_0107_0003_0001$$$::Mesmo se a armadilha inimiga perfurar meu corpo, posso lutar enquanto não der meu pescoço pra eles.[lr]::
-10561::$$$message_0107_0003_0002$$$::Isso é o bastante se pudermos derrotar o Mestre, não importa qual injuria eu carregue!"::
-10562::$$$message_0107_0004_0000$$$::"Que[line3]não diga coisas tão idiotas. Nunca é okay se ferir![lr]::
-10563::$$$message_0107_0004_0001$$$::Não tem problema ir sabendo do perigo, mas tal ataque suicida é idiotice. ...Como seu Mestre, não posso permitir que você faça algo tão perigoso."::
-10564::$$$message_0107_0005_0000$$$::Exato. Ir para o Templo Ryuudou é certamente um ataque suicida.[lr]::
-10565::$$$message_0107_0005_0001$$$::Haverão alguns obstáculos no único caminho que leva ao templo.[lr]::
+10557::$$$message_0107_0002_0001$$$::Se o Mestre no templo Ryuudou é tão cuidadoso assim, com certeza já preparou uma armadilha. Entrar lá sem nenhum plano é suicídio.[lr]::
+10558::$$$message_0107_0002_0002$$$::Como a Tohsaka diz, devemos esperar pelo menos até o Archer se recuperar."::
+10559::$$$message_0107_0003_0000$$$::"Esse tipo de risco é natural. Nunca esperei sair vitoriosa sem me ferir.[lr]::
+10560::$$$message_0107_0003_0001$$$::Mesmo que as armadilhas do inimigo atravessem meu corpo, enquanto eu não cair, posso continuar lutando.[lr]::
+10561::$$$message_0107_0003_0002$$$::Se conseguirmos derrotar o Mestre, então isso basta, não importa o quanto eu me machuque!"::
+10562::$$$message_0107_0004_0000$$$::"Que[line3]não fala besteira! Não existe isso de 'tudo bem se ferir'![lr]::
+10563::$$$message_0107_0004_0001$$$::Ir sabendo dos riscos é uma coisa. Mas se jogar assim é pura loucura. ...Como seu Mestre, não vou deixar você fazer algo tão perigoso."::
+10564::$$$message_0107_0005_0000$$$::Sim, ir até o templo Ryuudou é claramente um ataque suicida.[lr]::
+10565::$$$message_0107_0005_0001$$$::A única estrada que leva até o templo com certeza está cheia de obstáculos.[lr]::
 10566::$$$message_0107_0005_0002$$$::Não tem problema aceitar isso e ir, mas ir pra lá sem qualquer plano é suicídio.[lr]::
-10567::$$$message_0107_0005_0003$$$::Não importa o quão forte a Saber seja, ela tem eu como desvantagem.[lr]::
-10568::$$$message_0107_0005_0004$$$::Se ela se forçar e lutar, e se o resultado for[line3]::
-10569::$$$message_0107_0006_0000$$$::Igual aquilo que aconteceu, não posso concordar.::
-10570::$$$message_0107_0007_0000$$$::"...o que você está dizendo?[lr]::
-10571::$$$message_0107_0007_0001$$$::Olha Mestre, Servos foram feitos para se ferir.[lr]::
-10572::$$$message_0107_0007_0002$$$::Não vou deixar meu Mestre evitar uma luta com medo disso."::
-10573::$$$message_0107_0008_0000$$$::"[line3]Não importa se você permitir. Se você vai se forçar, vou te impedir quantas vezes forem necessárias.[lr]::
-10574::$$$message_0107_0008_0001$$$::...se você não quiser isso, se cure rapidamente. Você não está totalmente recuperada, né?"::
-10575::$$$message_0107_0009_0000$$$::"Isso não deve interferir na minha habilidade de lutar. Não há razão para considerar prolongar uma batalha por causa dos meus ferimentos."[lr]::
-10576::$$$message_0107_0009_0001$$$::A vontade de lutar da Saber não muda.::
+10567::$$$message_0107_0005_0003$$$::Por mais forte que a Saber seja, ela ainda tem a desvantagem de estar comigo.[lr]::
+10568::$$$message_0107_0005_0004$$$::Se ela se forçar a lutar... e acabar[line3]::
+10569::$$$message_0107_0006_0000$$$::Como daquela vez, eu não posso aceitar.::
+10570::$$$message_0107_0007_0000$$$::"...O que você está dizendo?[lr]::
+10571::$$$message_0107_0007_0001$$$::Escute, Mestre. Servos são feitos para se ferir.[lr]::
+10572::$$$message_0107_0007_0002$$$::Não permitirei que meu Mestre evite uma batalha por medo disso."::
+10573::$$$message_0107_0008_0000$$$::"[line3]Não importa se você permite ou não. Se você vai se forçar assim, eu vou te impedir quantas vezes for preciso.[lr]::
+10574::$$$message_0107_0008_0001$$$::...Se você não quiser isso, se cure rapidamente. Você não está totalmente recuperada, né?"::
+10575::$$$message_0107_0009_0000$$$::"Isso não chega a afetar minha capacidade de combate. Não há motivo para adiar uma batalha por causa de ferimentos."[lr]::
+10576::$$$message_0107_0009_0001$$$::Saber não muda de posição.::
 10577::$$$message_0107_0010_0000$$$::"[line3]!"[lr]::
-10578::$$$message_0107_0010_0001$$$::Geez, por que ela não entende mesmo depois de eu dizer tanto...!?::
-10579::$$$message_0107_0011_0000$$$::"Okay, ótimo. Mas não podemos concordar tão facilmente.[lr]::
-10580::$$$message_0107_0011_0001$$$::Você perdeu pro Berserker antes! Você vai se forçar a lutar, e acabar com nós dois derrotados de novo!?[lr]::
+10578::$$$message_0107_0010_0001$$$::Droga... por que ela não entende, mesmo depois de tudo que eu digo...!::
+10579::$$$message_0107_0011_0000$$$::"Ah, é...? Então escuta aqui.[lr]::
+10580::$$$message_0107_0011_0001$$$::Você perdeu pro Berserker antes! Vai se forçar de novo e acabar com nós dois derrotados mais uma vez!?[lr]::
 10581::$$$message_0107_0011_0002$$$::Não brinca comigo, não quero ser morto tão miseravelmente de novo...!"::
 10582::$$$message_0107_0012_0000$$$::"[line5]"[lr]::
 10583::$$$message_0107_0012_0001$$$::Então.[lr]::
-10584::$$$message_0107_0012_0002$$$::Eu pensei que ela discutiria de volta, mas ao invés disso, ela respira e...[lr]::
-10585::$$$message_0107_0012_0003$$$::"...comentar isso é injusto, Shirou."[lr]::
-10586::$$$message_0107_0012_0004$$$::Ela responde, como se estivesse pedindo desculpas.::
-10587::$$$message_0107_0013_0000$$$::"...desculpa se estou sendo injusto.[lr]::
+10584::$$$message_0107_0012_0002$$$::Achei que ela fosse retrucar na hora, mas em vez disso, ela prende a respiração e...[lr]::
+10585::$$$message_0107_0012_0003$$$::"...Isso foi injusto, Shirou."[lr]::
+10586::$$$message_0107_0012_0004$$$::Ela diz isso quase como um pedido de desculpas.::
+10587::$$$message_0107_0013_0000$$$::"...Desculpa se estou sendo injusto.[lr]::
 10588::$$$message_0107_0013_0001$$$::Mas não atacarei ninguém ainda.[lr]::
 10589::$$$message_0107_0013_0002$$$::Não posso ignorar o Mestre no Templo Ryuudou também, mas não estamos em condição de lutar. Se lutarmos assim e perdermos, quem vai impedir o Mestre no Templo Ryuudou?"::
-10590::$$$message_0107_0014_0000$$$::"Olha, vamos atacar só depois que seu ferimento melhorar e estivermos em boa forma. Se você quiser reclamar, vá atrás de outro Mestre."::
+10590::$$$message_0107_0014_0000$$$::"Olha, vamos atacar só depois que seu ferimento melhorar e estivermos em boa forma. Se não concorda, então vai procurar outro Mestre."::
 10591::$$$message_0107_0015_0000$$$::"[line3]Entendido. Se o Mestre diz..."[lr]::
 10592::$$$message_0107_0015_0001$$$::Depois de responder numa voz quieta, a Saber fica quieta.::
 10593::$$$message_0107_0016_0000$$$::...a conversa acabou.[lr]::
 10594::$$$message_0107_0016_0001$$$::A Tohsaka voltou pro quarto dela e a Saber voltou também.::
-10595::$$$message_0107_0017_0000$$$::Ficando sozinho na sala de estar, eu começo a me arrepender do que eu fiz.[lr]::
-10596::$$$message_0107_0017_0001$$$::Mas já é tarde demais.[lr]::
-10597::$$$message_0107_0017_0002$$$::Eu poderia ter dito de outro jeito, então por que...[lr]::
-10598::$$$message_0107_0017_0003$$$::Por que só consegui convencê-la com palavras que a feriram tão fundo?::
+10595::$$$message_0107_0017_0000$$$::Fico sozinho na sala e o arrependimento vem na hora.[lr]::
+10596::$$$message_0107_0017_0001$$$::...Não, não adianta se arrepender agora.[lr]::
+10597::$$$message_0107_0017_0002$$$::Eu podia ter dito de outro jeito... então por que...[lr]::
+10598::$$$message_0107_0017_0003$$$::Por que só consegui convencê-la com palavras que a machucaram tanto?::
+

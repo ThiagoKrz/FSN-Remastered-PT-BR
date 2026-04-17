@@ -1,37 +1,37 @@
 DAT
 id=qid::label=str::text=lstr::
-7168::$$$message_0068_0000_0000$$$::[line2]Não, eu não posso usar o meu Selo de Comando agora.::
-7169::$$$message_0068_0001_0000$$$::Eu paro para pensar um pouco.[lr]::
-7170::$$$message_0068_0001_0001$$$::Eu sou um Mestre inexperiente, e o Selo de Comando é uma arma secreta que só pode ser usada três vezes.[lr]::
-7171::$$$message_0068_0001_0002$$$::Assim que eu termino de pensar com calma se vale à pena ou não gastar uma dessas três vezes...::
-7172::$$$message_0068_0002_0000$$$::"[line5]?"[lr]::
-7173::$$$message_0068_0002_0001$$$::Eu caio de costas pro chão.[lr]::
-7174::$$$message_0068_0002_0002$$$::Eu caio no chão depois de ter sido arremessado para fora do terceiro andar.[lr]::
-7175::$$$message_0068_0002_0003$$$::[line2]Essa queda foi mortal. Eu não sei se vou sobreviver.[lr]::
-7176::$$$message_0068_0002_0004$$$::Eu consegui cair sem bater a cabeça, mas essa queda foi tão alta que posso ter quebrado todos os ossos do meu corpo.::
-7177::$$$message_0068_0003_0000$$$::"[line2]Por quê?"[lr]::
-7178::$$$message_0068_0003_0001$$$::Eu estou jorrando sangue.[lr]::
-7179::$$$message_0068_0003_0002$$$::Uma quantidade absurda de sangue está saindo do meu corpo.[lr]::
-7180::$$$message_0068_0003_0003$$$::Mas todo esse sangue só está saindo do meu peito.[lr]::
-7181::$$$message_0068_0004_0000$$$::Por que uma coisa[lr]::
-7182::$$$message_0068_0004_0001$$$::tão estranha[lr]::
-7183::$$$message_0068_0004_0002$$$::está saindo do meu peito?::
-7184::$$$message_0068_0005_0000$$$::"Ha[line2]guh."[lr]::
-7185::$$$message_0068_0005_0001$$$::O meu peito está completamente aberto.[lr]::
-7186::$$$message_0068_0005_0002$$$::Algo parecido com uma lâmina de uma espada está rasgando o meu peito de dentro para fora.::
-7187::$$$message_0068_0006_0000$$$::É como uma bomba tivesse sido armada dentro do meu corpo e ela acabasse de explodir com o impacto da queda.[lr]::
-7188::$$$message_0068_0006_0001$$$::"Sa[line2]Saber[line2]"[lr]::
-7189::$$$message_0068_0006_0002$$$::Eu não sei por que isso está acontecendo.[lr]::
-7190::$$$message_0068_0006_0003$$$::O meu peito está todo perfurado.[lr]::
-7191::$$$message_0068_0006_0004$$$::Um conjunto de espadas está saindo do meu corpo, como se elas formassem uma costela quebrada.::
-7192::$$$message_0068_0007_0000$$$::Enquanto eu fico olhando sem acreditar no que está acontecendo, o meu corpo começa a derreter.[lr]::
-7193::$$$message_0068_0007_0001$$$::"A[line2]Ah. Rápido, eu tenho... que... parar[line2]"[lr]::
-7194::$$$message_0068_0007_0002$$$::Eu não consigo mais mexer o meu corpo.[lr]::
-7195::$$$message_0068_0007_0003$$$::Parece que nem mesmo o milagre que me curou do ataque do Berseker está funcionando contra essas espadas.::
-7196::$$$message_0068_0008_0000$$$::Eu começo a perder a consciência.[lr]::
-7197::$$$message_0068_0008_0001$$$::Ainda que eu tentasse usar o meu Selo de Comando, a minha mão esquerda já foi derretida.::
-7198::$$$message_0068_0009_0000$$$::"......"[lr]::
-7199::$$$message_0068_0009_0001$$$::Eu respiro fundo pela última vez.[lr]::
-7200::$$$message_0068_0009_0002$$$::O ar que eu respiro é doloroso.[lr]::
-7201::$$$message_0068_0009_0003$$$::E depois de me afogar com o meu próprio sangue, o meu coração para de bater.::
+7168::$$$message_0068_0000_0000$$$::[line2]Não... aqui eu não posso usar um Selo de Comando.::
+7169::$$$message_0068_0001_0000$$$::Por um instante, hesito.[lr]::
+7170::$$$message_0068_0001_0001$$$::Para alguém inexperiente como eu, os Selos de Comando são um trunfo que só pode ser usado três vezes.[lr]::
+7171::$$$message_0068_0001_0002$$$::Não posso me dar ao luxo de usá-los sem pensar... e no instante em que chego a essa conclusão:: 
+7172::$$$message_0068_0002_0000$$$::"?"[lr]::
+7173::$$$message_0068_0002_0001$$$::Eu caio de costas.[lr]::
+7174::$$$message_0068_0002_0002$$$::Sou arremessado do terceiro andar e bato no chão.[lr]::
+7175::$$$message_0068_0002_0003$$$::[line2]Se foi fatal... provavelmente foi.[lr]::
+7176::$$$message_0068_0002_0004$$$::Evitei cair de cabeça, mas não seria estranho se todos os ossos do meu corpo tivessem se quebrado.::
+7177::$$$message_0068_0003_0000$$$::"[line2]Por quê...?"[lr]::
+7178::$$$message_0068_0003_0001$$$::O sangue escorre.[lr]::
+7179::$$$message_0068_0003_0002$$$::Está vindo do meu peito.[lr]::
+7180::$$$message_0068_0003_0003$$$::Minhas costas não têm nenhum ferimento... eu deveria ter suportado o impacto... então por quê...:: 
+7181::$$$message_0068_0004_0000$$$::...o que é isso...[lr]::
+7182::$$$message_0068_0004_0001$$$::                        ...isso que está...[lr]::
+7183::$$$message_0068_0004_0002$$$::                             ...saindo do meu peito enquanto encaro o céu?:: 
+7184::$$$message_0068_0005_0000$$$::"Ha[line2]...gh..."[lr]::
+7185::$$$message_0068_0005_0001$$$::Meu peito se abre.[lr]::
+7186::$$$message_0068_0005_0002$$$::Lâminas semelhantes a espadas brotam de dentro, como uma flor desabrochando.:: 
+7187::$$$message_0068_0006_0000$$$::É como se uma bomba tivesse sido colocada dentro de mim e ativada no momento do impacto.[lr]::
+7188::$$$message_0068_0006_0001$$$::"Sa[line2]... Saber..."[lr]::
+7189::$$$message_0068_0006_0002$$$::Não faz sentido.[lr]::
+7190::$$$message_0068_0006_0003$$$::Meu peito está completamente perfurado.[lr]::
+7191::$$$message_0068_0006_0004$$$::Um amontoado de espadas atravessa meu corpo, como costelas rasgando para fora.:: 
+7192::$$$message_0068_0007_0000$$$::Enquanto observo atônito, meu corpo começa a se desfazer.[lr]::
+7193::$$$message_0068_0007_0001$$$::"A[line2]... ah... preciso... parar..."[lr]::
+7194::$$$message_0068_0007_0002$$$::Não consigo me mover.[lr]::
+7195::$$$message_0068_0007_0003$$$::O milagre que curou os golpes do Berserker não funciona contra essas lâminas.:: 
+7196::$$$message_0068_0008_0000$$$::Meus pensamentos se despedaçam.[lr]::
+7197::$$$message_0068_0008_0001$$$::Mesmo que tentasse usar um Selo de Comando... já não entendo mais o que está acontecendo.:: 
+7198::$$$message_0068_0009_0000$$$::"..."[lr]::
+7199::$$$message_0068_0009_0001$$$::Respiro fundo uma última vez.[lr]::
+7200::$$$message_0068_0009_0002$$$::O ar que entra dói.[lr]::
+7201::$$$message_0068_0009_0003$$$::Cuspo sangue... e meu coração para.::
 

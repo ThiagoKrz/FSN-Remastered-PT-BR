@@ -1,25 +1,25 @@
 DAT
 id=qid::label=str::text=lstr::
-22935::$$$message_0204_0000_0000$$$::[line4]E no final...[lr]::
-22936::$$$message_0204_0000_0001$$$::Eu vejo aquela colina vermelha mais uma vez.::
+22935::$$$message_0204_0000_0000$$$::[line4]E no fim...[lr]::
+22936::$$$message_0204_0000_0001$$$::Vejo aquela colina vermelha mais uma vez.::
 22937::$$$message_0204_0001_0000$$$::Uma lembrança vermelha.[lr]::
-22938::$$$message_0204_0001_0001$$$::Eu mergulho no fundo das lembranças dela, e percebo que essa vai ser a última vez que vou fazer isso.::
+22938::$$$message_0204_0001_0001$$$::Afundo mais profundamente nas memórias dela... e percebo que essa vai ser a última vez que vou fazer isso.::
 22939::$$$message_0204_0002_0000$$$::Essas são as lembranças de um cavaleiro que já vi várias vezes antes.[lr]::
-22940::$$$message_0204_0002_0001$$$::Depois de ter se tornado rei, deixado a sua vontade de lado e então virado a vontade do seu reino, ela começou a ser abandonada até pelos seus cavaleiros de confiança.::
-22941::$$$message_0204_0003_0000$$$::Toda vez que a Arturia vencia uma batalha, ela era obrigada a participar de mais batalhas que não queria enfrentar.[lr]::
-22942::$$$message_0204_0003_0001$$$::Mesmo com várias suspeitas, ela continuou escondendo o seu sexo. Mas essa menina isolada jamais poderia imaginar que enfrentaria uma rebelião vinda de um dos seus próprios familiares.::
+22940::$$$message_0204_0002_0001$$$::Depois de se tornar rei, abandonar a própria vontade e passar a viver como a vontade do reino, ela começou a ser rejeitada até pelos cavaleiros em quem confiava.::
+22941::$$$message_0204_0003_0000$$$::Toda vez que a Artoria vencia uma batalha, ela era obrigada a participar de mais batalhas que não queria enfrentar.[lr]::
+22942::$$$message_0204_0003_0001$$$::Mesmo escondendo que era mulher, as suspeitas só aumentavam. E o que aguardava aquela garota isolada era a rebelião de um membro da própria família.::
 22943::$$$message_0204_0004_0000$$$::Um cavaleiro jovem assumiu o controle do reino enquanto o rei estava participando de uma expedição.[lr]::
 22944::$$$message_0204_0004_0001$$$::Esse homem se chamava Mordred.[lr]::
-22945::$$$message_0204_0004_0002$$$::Aquele cavaleiro, que era filho de Morgan, a irmã do rei dos cavaleiros, era na verdade o filho do próprio rei dos cavaleiros.::
-22946::$$$message_0204_0005_0000$$$::[line3]A Arturia nunca poderia ter filhos como mulher.[lr]::
-22947::$$$message_0204_0005_0001$$$::Mas com certeza o Mordred tinha o sangue de Arturia dentro dele.[lr]::
-22948::$$$message_0204_0005_0002$$$::Eu não sei até que ponto, mas Morgan, a irmã mais velha de Arturia, a desprezava porque ela se tornou rei mesmo sendo a mais jovem.::
+22945::$$$message_0204_0004_0002$$$::Aquele cavaleiro, que era filho de Morgan, a irmã do Rei dos Cavaleiros, era na verdade o filho do próprio Rei dos Cavaleiros.::
+22946::$$$message_0204_0005_0000$$$::[line3]Artoria nunca poderia ter filhos como mulher.[lr]::
+22947::$$$message_0204_0005_0001$$$::Ainda assim, Mordred carregava seu sangue.[lr]::
+22948::$$$message_0204_0005_0002$$$::Não sei exatamente como isso foi possível, mas Morgan, que odiava Artoria por ela ter se tornado rei, certamente esteve por trás disso.::
 22949::$$$message_0204_0006_0000$$$::O Mordred foi criado como se fosse o outro lado dela. Ele serviu o rei como um cavaleiro que tinha um pai desconhecido, esperou pela hora certa para assumir o trono, e finalmente organizou uma rebelião.::
 22950::$$$message_0204_0007_0000$$$::[line3]Essa ficou conhecida como a Batalha de Camlann.[lr]::
 22951::$$$message_0204_0007_0001$$$::A última batalha do Rei Arthur.::
 22952::$$$message_0204_0008_0000$$$::O Rei Arthur soube da traição de Mordred durante a sua expedição, e então retornou à sua terra natal com as suas tropas cansadas para invadir o seu próprio território.[lr]::
 22953::$$$message_0204_0008_0001$$$::Ela dilacerou os mesmos cavaleiros que já a serviram.[lr]::
-22954::$$$message_0204_0008_0002$$$::Ela atacou os mesmos territórios que costumava proteger.[lr]::
+22954::$$$message_0204_0008_0002$$$::Atacou os mesmos territórios que costumava proteger.[lr]::
 22955::$$$message_0204_0008_0003$$$::Os poucos cavaleiros que ficaram do lado ela foram mortos, e as últimas pessoas que estavam de pé no final eram ela e o Mordred.::
 22956::$$$message_0204_0009_0000$$$::A batalha entre os dois terminou com a vitória do rei.[lr]::
 22957::$$$message_0204_0009_0001$$$::...Mas ela não saiu ilesa.[lr]::
@@ -29,16 +29,16 @@ id=qid::label=str::text=lstr::
 22961::$$$message_0204_0010_0000$$$::[line3]Deve ter sido doloroso.[lr]::
 22962::$$$message_0204_0010_0001$$$::Aliás, nenhuma das batalhas deixou de ser dolorosa para ela.[lr]::
 22963::$$$message_0204_0010_0002$$$::Todas as doze batalhas dela foram cruéis, mas essa foi logo aquela que mais a fez sofrer em seus momentos finais.::
-22964::$$$message_0204_0011_0000$$$::Ela teve que voltar à sua terra natal para destruir o seu próprio exército.[lr]::
-22965::$$$message_0204_0011_0001$$$::Ela não só puniu os mesmos cavaleiros que a serviram no passado, como também todos os que ficaram do lado dela foram mortos.[lr]::
+22964::$$$message_0204_0011_0000$$$::Ela voltou à própria terra para destruir o próprio exército.[lr]::
+22965::$$$message_0204_0011_0001$$$::Não só puniu os mesmos cavaleiros que a serviram no passado, como também todos os que ficaram do lado dela foram mortos.[lr]::
 22966::$$$message_0204_0011_0002$$$::E no final, ela ainda teve que matar o seu próprio filho, mesmo que ele tivesse sido o filho dela apenas pelo nome.::
-22967::$$$message_0204_0012_0000$$$::...Eu nem consigo imaginar o que deve ter passado pela cabeça dela.[lr]::
+22967::$$$message_0204_0012_0000$$$::...Nem consigo imaginar o que deve ter passado pela cabeça dela.[lr]::
 22968::$$$message_0204_0012_0001$$$::Mas eu tenho que desejar.[lr]::
 22969::$$$message_0204_0012_0002$$$::O rei solitário, que tentou ser um rei até o final...[lr]::
-22970::$$$message_0204_0012_0003$$$::Eu desejo que o último sonho dela seja um sonho normal, um daqueles que a menina Arturia poderia querer ter.::
+22970::$$$message_0204_0012_0003$$$::Eu só espero que, no último sonho dela, possa ter um sonho comum como o que a garota Artoria teria.::
 22971::$$$message_0204_0013_0000$$$::"Hm..."[lr]::
-22972::$$$message_0204_0013_0001$$$::Eu abro os olhos.[lr]::
-22973::$$$message_0204_0013_0002$$$::Eu não me lembro de quando voltei para cá, mas estou dentro do meu quarto e deitado no meu futon.::
+22972::$$$message_0204_0013_0001$$$::Abro os olhos.[lr]::
+22973::$$$message_0204_0013_0002$$$::Não lembro quando voltei, mas estou no meu quarto, deitado no futon.::
 22974::$$$message_0204_0014_0000$$$::"[line2]Ah. Você está acordado, Shirou."[lr]::
 22975::$$$message_0204_0014_0001$$$::"...Saber, por que eu..."[lr]::
 22976::$$$message_0204_0014_0002$$$::"Você esteve dormindo desde aquela hora. O seu corpo está quase todo curado, então não precisa se preocupar."::
@@ -46,7 +46,7 @@ id=qid::label=str::text=lstr::
 22978::$$$message_0204_0015_0001$$$::E quanto à Saber?[lr]::
 22979::$$$message_0204_0015_0002$$$::A Saber usou a Excalibur. Talvez ela nem tenha mais energia mágica para conseguir se curar.::
 22980::$$$message_0204_0016_0000$$$::"Saber, você esteve cuidando de mim esse tempo todo?"[lr]::
-22981::$$$message_0204_0016_0001$$$::"Eu só fiquei limpando o seu suor. Eu não sei tratar as suas feridas do mesmo jeito que a Rin."::
+22981::$$$message_0204_0016_0001$$$::"Só fiquei limpando o seu suor. Eu não sei tratar as suas feridas do mesmo jeito que a Rin."::
 22982::$$$message_0204_0017_0000$$$::"[line2]Sua idiota, você não precisava fazer isso.[lr]::
 22983::$$$message_0204_0017_0001$$$::Você deve estar sentindo mais dor do que eu agora."::
 22984::$$$message_0204_0018_0000$$$::"Isso não é verdade. Comparado a você, eu só tive ferimentos leves.[lr]::
@@ -54,7 +54,7 @@ id=qid::label=str::text=lstr::
 22986::$$$message_0204_0019_0000$$$::Depois de dizer isso, a Saber segura a bacia que está do lado dela.[lr]::
 22987::$$$message_0204_0019_0001$$$::Há uma toalha fria dentro dessa bacia. Depois de espremer a água, ela limpa o meu corpo suado.[lr]::
 22988::$$$message_0204_0019_0002$$$::"[line5]!"[lr]::
-22989::$$$message_0204_0019_0003$$$::Eu estou me sentindo bem envergonhado.::
+22989::$$$message_0204_0019_0003$$$::Estou me sentindo bem envergonhado.::
 22990::$$$message_0204_0020_0000$$$::"...? Shirou, o seu ferimento está doendo? Parece que a sua febre está voltando[line2]"::
 22991::$$$message_0204_0021_0000$$$::"E-Eu [shock time=300 vmax=20 count=-3]não estou com febre...! Aliás, você já pode descansar agora.[lr]::
 22992::$$$message_0204_0021_0001$$$::Você pode não estar ferida, mas teve que usar a Excalibur mais cedo. Então é você quem deveria estar descansando! Se continuar assim, vai acabar desmaiando."::
@@ -62,23 +62,23 @@ id=qid::label=str::text=lstr::
 22994::$$$message_0204_0023_0000$$$::"Mas agora eu estou me sentido melhor do que você. Qual é o problema em cuidar de você até que se sinta melhor?"[lr]::
 22995::$$$message_0204_0023_0001$$$::"Ugh... Acho que você tem razão."::
 22996::$$$message_0204_0024_0000$$$::...Droga.[lr]::
-22997::$$$message_0204_0024_0001$$$::Eu não consigo reclamar com a Saber quando ela faz essa cara.::
-22998::$$$message_0204_0025_0000$$$::"Está bem. Eu vou dormir agora, então por favor vá descansar também, Saber. Eu não vou conseguir dormir tranquilo até que você esteja descansada."[lr]::
-22999::$$$message_0204_0025_0001$$$::"...É verdade. Eu também preciso dormir."::
+22997::$$$message_0204_0024_0001$$$::Não consigo reclamar com a Saber quando ela faz essa cara.::
+22998::$$$message_0204_0025_0000$$$::"Está bem. Vou dormir agora, então por favor vá descansar também, Saber. Eu não vou conseguir dormir tranquilo até que você esteja descansada."[lr]::
+22999::$$$message_0204_0025_0001$$$::"...É verdade. Também preciso dormir."::
 23000::$$$message_0204_0026_0000$$$::A Saber acena, espreme a toalha, e a coloca na borda da bacia.[lr]::
 23001::$$$message_0204_0026_0001$$$::...Então, eu deixo a Saber tomar conta de mim e escondo o meu constrangimento.::
 23002::$$$message_0204_0027_0000$$$::"Então, eu estou indo deitar agora.[lr]::
 23003::$$$message_0204_0027_0001$$$::Por favor tome conta do seu corpo, Shirou."[lr]::
 23004::$$$message_0204_0027_0002$$$::"T-Tá bom."[lr]::
 23005::$$$message_0204_0027_0003$$$::"[line3]Boa noite.[lr]::
-23006::$$$message_0204_0027_0004$$$::Eu me esqueci de dizer isso antes, mas obrigada, Shirou.[lr]::
-23007::$$$message_0204_0027_0005$$$::Eu estou muito feliz por você estar bem."::
-23008::$$$message_0204_0028_0000$$$::A Saber está sorrindo debaixo da luz da Lua.[lr]::
-23009::$$$message_0204_0028_0001$$$::Será que esse sorriso durou por pouco tempo porque a luz está fraca?[lr]::
+23006::$$$message_0204_0027_0004$$$::Me esqueci de dizer isso antes, mas obrigada, Shirou.[lr]::
+23007::$$$message_0204_0027_0005$$$::Estou muito feliz por você estar bem."::
+23008::$$$message_0204_0028_0000$$$::Saber está sorrindo sob a luz da lua.[lr]::
+23009::$$$message_0204_0028_0001$$$::...Talvez seja por causa da luz suave, mas aquele sorriso pareceu mais frágil do que o normal.[lr]::
 23010::$$$message_0204_0028_0002$$$::Ela fecha a porta antes que eu pudesse descobrir.::
 23011::$$$message_0204_0029_0000$$$::"......Ufa."[lr]::
-23012::$$$message_0204_0029_0001$$$::Eu não tenho certeza se estou feliz ou me sentindo sozinho agora que a Saber foi embora.[lr]::
-23013::$$$message_0204_0029_0002$$$::Eu queria que a Saber continuasse aqui do meu lado, mas ela precisa descansar.[lr]::
+23012::$$$message_0204_0029_0001$$$::Não sei dizer se estou aliviado... ou me sentindo sozinho agora que a Saber foi embora.[lr]::
+23013::$$$message_0204_0029_0002$$$::Queria que ela tivesse ficado aqui comigo, mas ela precisa descansar.[lr]::
 23014::$$$message_0204_0029_0003$$$::...Além disso, se nós ficássemos juntos daquele jeito, as coisas acabariam igual àquela noite[line3]::
 23015::$$$message_0204_0030_0000$$$::...Eu afasto esse pensamento da minha cabeça.[lr]::
 23016::$$$message_0204_0030_0001$$$::Várias coisas aconteceram hoje. Eu sei que foi só um dia, mas parece que se passou uma semana inteira.[lr]::
@@ -93,20 +93,20 @@ id=qid::label=str::text=lstr::
 23025::$$$message_0204_0032_0002$$$::...Ela disse alguma coisa sobre eu ser a bainha dela.[lr]::
 23026::$$$message_0204_0032_0003$$$::Eu estava com ferimentos graves e prestes a desmaiar, então não tive tempo de perguntar sobre o que ela quis dizer com isso.::
 23027::$$$message_0204_0033_0000$$$::"...Droga."[lr]::
-23028::$$$message_0204_0033_0001$$$::Eu não consigo cair no sono.[lr]::
+23028::$$$message_0204_0033_0001$$$::Não consigo cair no sono.[lr]::
 23029::$$$message_0204_0033_0002$$$::...O sonho da Saber. Ela sorriu quando ficou de frente para a morte e sorriu enquanto estava cuidando de mim.[lr]::
 23030::$$$message_0204_0033_0003$$$::"Boa noite."[lr]::
-23031::$$$message_0204_0033_0004$$$::Eu não consigo parar de pensar sobre como o sorriso dela era frágil.::
+23031::$$$message_0204_0033_0004$$$::Não consigo parar de pensar em como aquele sorriso dela parecia frágil..::
 23032::$$$message_0204_0034_0000$$$::"......"[lr]::
-23033::$$$message_0204_0034_0001$$$::Eu nunca vi a garota nos meus sonhos mostrar esse sorriso.[lr]::
+23033::$$$message_0204_0034_0001$$$::Nunca vi a garota dos meus sonhos sorrir daquele jeito.[lr]::
 23034::$$$message_0204_0034_0002$$$::Ela disse que fica mais feliz quando eu estou sorrindo.[lr]::
 23035::$$$message_0204_0034_0003$$$::...Isso é frustante.[lr]::
 23036::$$$message_0204_0034_0004$$$::Por que isso é frustante, e não triste?[lr]::
-23037::$$$message_0204_0034_0005$$$::Eu não sei porque estou tão chateado ao ponto de ficar com raiva.::
-23038::$$$message_0204_0035_0000$$$::Eu dou um soco no meu futon.[lr]::
-23039::$$$message_0204_0035_0001$$$::Eu estou prestes a ficar furioso sem nem saber o motivo.[lr]::
+23037::$$$message_0204_0034_0005$$$::Nem eu sei por que estou tão irritado a ponto de ficar com raiva.::
+23038::$$$message_0204_0035_0000$$$::Dou um soco no futon.[lr]::
+23039::$$$message_0204_0035_0001$$$::Estou prestes a perder a cabeça sem nem saber o motivo.[lr]::
 23040::$$$message_0204_0035_0002$$$::"...Shirou? Você está passando mal?"[lr]::
-23041::$$$message_0204_0035_0003$$$::Eu ouço a voz de preocupação dela vindo do outro lado da porta de correr.[lr]::
+23041::$$$message_0204_0035_0003$$$::Ouço a voz de preocupação dela vindo do outro lado da porta de correr.[lr]::
 23042::$$$message_0204_0035_0004$$$::Como fiquei sem ar, ela deve ter pensado que eu estava tossindo de dor.::
 23043::$$$message_0204_0036_0000$$$::"...Não, eu estou bem. Você ainda está acordada?"[lr]::
 23044::$$$message_0204_0036_0001$$$::"Sim, mas... Você tem certeza de que está bem? Se estiver sentindo dor, eu posso ir até aí."::
@@ -120,51 +120,51 @@ id=qid::label=str::text=lstr::
 23052::$$$message_0204_0039_0001$$$::Ao invés disso me acalmar, eu fico com mais raiva ainda.[lr]::
 23053::$$$message_0204_0039_0002$$$::Não sei porquê o meu corpo está tão agitado.[lr]::
 23054::$$$message_0204_0039_0003$$$::Mas eu preciso conversar com a Saber.[lr]::
-23055::$$$message_0204_0039_0004$$$::Eu tenho dizer para ela que é errado. Posso até não ter certeza do que é certo, mas tenho que dizer para ela de que eu não estou enganado.::
-23056::$$$message_0204_0040_0000$$$::A minha língua e a minha garganta estão tremendo.[lr]::
-23057::$$$message_0204_0040_0001$$$::Eu não vou poder voltar atrás quando disser isso.[lr]::
+23055::$$$message_0204_0039_0004$$$::Tenho que dizer pra ela que isso está errado. Posso até não ter certeza do que é certo, mas tenho que dizer para ela de que eu não estou enganado.::
+23056::$$$message_0204_0040_0000$$$::Minha língua e minha garganta tremem.[lr]::
+23057::$$$message_0204_0040_0001$$$::Depois de dizer isso... não tem mais volta.[lr]::
 23058::$$$message_0204_0040_0002$$$::Eu aceito isso, e então...[lr]::
-23059::$$$message_0204_0040_0003$$$::"[line3]Está tudo bem. Não tem problema nenhum em sorrir por você mesma."[lr]::
+23059::$$$message_0204_0040_0003$$$::"[line3]"Não tem problema. Não tem nada de errado em sorrir por você mesma."[lr]::
 23060::$$$message_0204_0040_0004$$$::Alguma coisa me motiva e eu acabo dizendo isso.::
 23061::$$$message_0204_0041_0000$$$::"[line3]Shirou? Por quê...?"[lr]::
 23062::$$$message_0204_0041_0001$$$::Ela nem precisa perguntar.[lr]::
-23063::$$$message_0204_0041_0002$$$::Eu vou continuar repetindo a mesma coisa até que ela perceba.::
-23064::$$$message_0204_0042_0000$$$::"...Saber. Não acha que já deu? Você fez o seu melhor. Você até lutou sozinha.[lr]::
+23063::$$$message_0204_0041_0002$$$::Vou continuar repetindo isso... até ela entender.::
+23064::$$$message_0204_0042_0000$$$::"...Saber. Não acha que já deu? Você fez o seu melhor.  Lutou sozinha até aqui.[lr]::
 23065::$$$message_0204_0042_0001$$$::Por isso[line2]você precisa encontrar a sua própria felicidade.[lr]::
-23066::$$$message_0204_0042_0002$$$::Você cumpriu com o seu juramento, então já pode voltar a ser a Arturia."::
+23066::$$$message_0204_0042_0002$$$::Você cumpriu com o seu juramento, então já pode voltar a ser a Artoria."::
 23067::$$$message_0204_0043_0000$$$::"Quê[line2]você ainda não desistiu de tocar nesse assunto?" [lr]::
-23068::$$$message_0204_0043_0001$$$::"Sim, eu vou continuar repetindo isso...! O que eu posso fazer se fiquei apaixonado por você...? Então Saber, seja você mes[line2]ou melhor, volte a ser a Arturia."::
-23069::$$$message_0204_0044_0000$$$::Eu engulo a minha raiva.[lr]::
+23068::$$$message_0204_0043_0001$$$::"Sim, eu vou continuar repetindo isso...! O que eu posso fazer se fiquei apaixonado por você...? Então Saber, seja você mes[line2]ou melhor, volte a ser a Artoria."::
+23069::$$$message_0204_0044_0000$$$::Engulo a minha raiva.[lr]::
 23070::$$$message_0204_0044_0001$$$::Ela já está prestes a ser jogada para fora.[lr]::
 23071::$$$message_0204_0044_0002$$$::A Saber só precisa dizer uma coisa para que essa raiva exploda.[lr]::
 23072::$$$message_0204_0044_0003$$$::"...Shirou. Por favor, pare de me perturbar.[lr]::
 23073::$$$message_0204_0044_0004$$$::Mesmo que você diga isso, e[line3]eu..."[lr]::
 23074::$$$message_0204_0044_0005$$$::[line3]A resposta dela é a mesma.[lr]::
 23075::$$$message_0204_0044_0006$$$::O meu coração dói por causa da insistência dela.::
-23076::$$$message_0204_0045_0000$$$::"Você sabe do meu passado, mas mesmo assim continua invadindo a minha privacidade. Você já sabia qual era a minha resposta, então [r]por quê[line3]por que você ainda está preocupado comigo?[lr]::
-23077::$$$message_0204_0045_0001$$$::...Você não viu todos os pecados que eu cometi?"::
-23078::$$$message_0204_0045_0002$$$::Você deve ter visto todos os pecados que cometi."::
+23076::$$$message_0204_0045_0000$$$::"Você sabe do meu passado, mas mesmo assim continua invadindo a minha privacidade. Você já sabia qual era a minha resposta, então [r]por quê[line3]
+23077::$$$message_0204_0045_0001$$$::   Por que ainda se importa comigo?:[lr]::
+23078::$$$message_0204_0045_0002$$$::...Você não viu todos os pecados que eu cometi?"::
 23079::$$$message_0204_0046_0000$$$::[line3]Sim, eu vi.[lr]::
 23080::$$$message_0204_0046_0001$$$::Ela sacrificou várias pessoas e matou vários inimigos em nome do rei.[lr]::
-23081::$$$message_0204_0046_0002$$$::Eu não tenho a intenção de ignorar ou fingir que isso nunca aconteceu.[lr]::
-23082::$$$message_0204_0046_0003$$$::Mas ainda assim, mesmo sabendo disso, eu quero que a menina Arturia seja feliz.::
-23083::$$$message_0204_0047_0000$$$::"[line3]O que isso tem a ver? Eu não sei que emoção é essa que estou sentindo. Só sei que não quero te deixar sozinha.[lr]::
+23081::$$$message_0204_0046_0002$$$::Não tenho a intenção de ignorar isso e nem fingir que nunca aconteceu.[lr]::
+23082::$$$message_0204_0046_0003$$$::Mas ainda assim, mesmo sabendo disso, eu quero que a menina Artoria seja feliz.::
+23083::$$$message_0204_0047_0000$$$::"[line3]O que isso tem a ver? Não sei que emoção é essa que estou sentindo. Só sei que não quero te deixar sozinha.[lr]::
 23084::$$$message_0204_0047_0001$$$::Por favor, sorria. Eu quero estar ao seu lado, Saber."::
 23085::$$$message_0204_0048_0000$$$::Essa foi uma confissão infantil e unilateral.[lr]::
-23086::$$$message_0204_0048_0001$$$::Eu espero pela resposta dela enquanto nós ficamos em silêncio.[lr]::
+23086::$$$message_0204_0048_0001$$$::Espero pela resposta dela enquanto nós ficamos em silêncio.[lr]::
 23087::$$$message_0204_0048_0002$$$::O que será que a Saber está fazendo do outro lado da porta de correr?[lr]::
 23088::$$$message_0204_0048_0003$$$::Será que ela ouviu o que eu disse[line3]?::
 23089::$$$message_0204_0049_0000$$$::"...A minha resposta não vai mudar.[lr]::
-23090::$$$message_0204_0049_0001$$$::Eu não posso quebrar o meu juramento de rei. Mesmo que eu tenha falhado, o meu reino confiou em mim para governar.[lr]::
+23090::$$$message_0204_0049_0001$$$::Não posso quebrar o meu juramento de rei. Mesmo que eu tenha falhado, o meu reino confiou em mim para governar.[lr]::
 23091::$$$message_0204_0049_0002$$$::Já que não consegui cumprir com a minha obrigação, eu... não tenho permissão para ter essa liberdade."::
 23092::$$$message_0204_0050_0000$$$::A voz dela soa tão triste que eu não consigo mais me segurar.[lr]::
-23093::$$$message_0204_0050_0001$$$::Eu não quero ouvir o juramento solitário do rei. Quero ouvir o que a Arturia está querendo dizer de verdade.[lr]::
+23093::$$$message_0204_0050_0001$$$::Não quero ouvir o juramento solitário de um rei. Quero ouvir o que a Artoria realmente sente..[lr]::
 23094::$$$message_0204_0050_0002$$$::Ela já me disse isso antes.[lr]::
-23095::$$$message_0204_0050_0003$$$::Eu não fiquei frustado só para ficar ouvindo essas mesmas lamentações.::
-23096::$$$message_0204_0051_0000$$$::Eu chuto o meu futon.[lr]::
+23095::$$$message_0204_0050_0003$$$::Não fiquei tão frustrado à toa... só pra ficar ouvindo as mesmas coisas de novo.::
+23096::$$$message_0204_0051_0000$$$::Chuto o meu futon.[lr]::
 23097::$$$message_0204_0051_0001$$$::Estou olhando para a porta de correr que separa os nossos quartos.::
 23098::$$$message_0204_0052_0000$$$::"Shirou[line3]"[lr]::
-23099::$$$message_0204_0052_0001$$$::Eu nem presto atenção no barulho da porta de correr sendo aberta.::
+23099::$$$message_0204_0052_0001$$$::Nem percebo o som da porta sendo aberta.::
 23100::$$$message_0204_0053_0000$$$::"......"[lr]::
 23101::$$$message_0204_0053_0001$$$::A minha mente vai à loucura.[lr]::
 23102::$$$message_0204_0053_0002$$$::Por que eu estava com tanta raiva? Por que eu estava tão triste?::
@@ -172,23 +172,23 @@ id=qid::label=str::text=lstr::
 23104::$$$message_0204_0054_0001$$$::O pescoço lindo dela e os seus ombros delicados.[lr]::
 23105::$$$message_0204_0054_0002$$$::O seu cabelo dourado reflete a luz da Lua do mesmo jeito de quando nós nos conhecemos pela primeira vez.::
 23106::$$$message_0204_0055_0000$$$::"[line6]"[lr]::
-23107::$$$message_0204_0055_0001$$$::...Eu a abraço sem perceber.[lr]::
-23108::$$$message_0204_0055_0002$$$::Eu a abraço com tanta força que poderia até esmagá-la, mas ela não resiste.::
+23107::$$$message_0204_0055_0001$$$::...Quando percebo, já estou abraçando ela.[lr]::
+23108::$$$message_0204_0055_0002$$$::Com força, tanta que quase poderia machucá-la. Ainda assim... ela não resiste.::
 23109::$$$message_0204_0056_0000$$$::...Não é igual àquela noite.[lr]::
-23110::$$$message_0204_0056_0001$$$::Eu não estava me sentindo assim naquela vez.[lr]::
+23110::$$$message_0204_0056_0001$$$::Não estava me sentindo assim naquela vez.[lr]::
 23111::$$$message_0204_0056_0002$$$::...Mas que história engraçada.[lr]::
-23112::$$$message_0204_0056_0003$$$::Eu queria virar um super-herói.[lr]::
-23113::$$$message_0204_0056_0004$$$::Mas mesmo assim nunca me apaixonei por ninguém, nem me importei em abandonar alguma pessoa.::
+23112::$$$message_0204_0056_0003$$$::Eu queria virar um herói da justiça.[lr]::
+23113::$$$message_0204_0056_0004$$$::E, mesmo assim, nunca me apaixonei por ninguém... nem pensei em abandonar alguém::
 23114::$$$message_0204_0057_0000$$$::"......Saber."[lr]::
-23115::$$$message_0204_0057_0001$$$::Eu sinto como se ela fosse desaparecer assim que parasse de abraçá-la.[lr]::
-23116::$$$message_0204_0057_0002$$$::Eu não sei por quanto tempo eu estou a prendendo, mas finalmente percebo que ela não vai desaparecer e então deixo o meu abraço mais fraco[line3]::
+23115::$$$message_0204_0057_0001$$$::Parece que, se eu soltar... ela vai desaparecer.[lr]::
+23116::$$$message_0204_0057_0002$$$::Não sei por quanto tempo fico assim. Mas, aos poucos, percebo que ela não vai sumir... e afrouxo o abraço.[line3]::
 23117::$$$message_0204_0058_0000$$$::"...Shirou? O que foi, de repente? Qual é o sentido disso tudo? Mesmo que você faça isso, eu..."::
-23118::$$$message_0204_0059_0000$$$::Ela se mexe um pouco entre os meus braços.[lr]::
+23118::$$$message_0204_0059_0000$$$::Saber se mexe um pouco entre os meus braços.[lr]::
 23119::$$$message_0204_0059_0001$$$::Os lábios dela estão tremendo e tentando dizer alguma coisa, mas...[lr]::
 23120::$$$message_0204_0059_0002$$$::"......Ah......"[lr]::
-23121::$$$message_0204_0059_0003$$$::Eu os fecho com um toque macio.::
+23121::$$$message_0204_0059_0003$$$::Os fecho com um toque macio.::
 23122::$$$message_0204_0060_0000$$$::O corpo dela está tremendo um pouco.[lr]::
-23123::$$$message_0204_0060_0001$$$::Eu estou olhando para a Saber, mas não estou vendo nada.[lr]::
+23123::$$$message_0204_0060_0001$$$::Estou olhando para a Saber, mas não estou vendo nada.[lr]::
 23124::$$$message_0204_0060_0002$$$::Ao invés disso, os meus lábios estão sentido a gentileza da Saber.::
 23125::$$$message_0204_0061_0000$$$::Os nossos lábios se separam.[lr]::
 23126::$$$message_0204_0061_0001$$$::A mão da Saber que está no meu peito me afasta um pouco.::
@@ -204,12 +204,12 @@ id=qid::label=str::text=lstr::
 23136::$$$message_0204_0064_0002$$$::Mesmo que isso faça com que ela se esqueça um pouco sobre a sua teimosia de rei.::
 23137::$$$message_0204_0065_0000$$$::"[line12]"[lr]::
 23138::$$$message_0204_0065_0001$$$::Um silêncio profundo.[lr]::
-23139::$$$message_0204_0065_0002$$$::Eu continuo a abraçando e sentido a delicadeza dela.[lr]::
+23139::$$$message_0204_0065_0002$$$::Continuo a abraçando e sentido a delicadeza dela.[lr]::
 23140::$$$message_0204_0065_0003$$$::Ela ainda está tensa e não querendo ser abraçada.[lr]::
 23141::$$$message_0204_0065_0004$$$::Tudo o que estou vindo é o barulho da nossa respiração e o batimento dos nossos corações.::
 23142::$$$message_0204_0066_0000$$$::Quantas vezes o nosso coração bateu?[lr]::
 23143::$$$message_0204_0066_0001$$$::A Saber coloca um pouco mais de força na mão que está no meu peito.::
-23144::$$$message_0204_0067_0000$$$::"......Eu não posso responder aos seus sentimentos. Assim como você não pode mudar o jeito que é, existem algumas coisas em mim que eu também não posso mudar.[lr]::
+23144::$$$message_0204_0067_0000$$$::"......Não posso responder aos seus sentimentos. Assim como você não pode mudar o jeito que é, existem algumas coisas em mim que eu também não posso mudar.[lr]::
 23145::$$$message_0204_0067_0001$$$::......A única coisa que posso fazer, se eu tiver permissão, seria..."::
 23146::$$$message_0204_0068_0000$$$::A pausa que ela faz dói o meu coração.[lr]::
 23147::$$$message_0204_0068_0001$$$::Ela morde o lábio, treme, e diz isso como se estivesse fazendo uma confissão de que essa noite é imperdoável.::
@@ -218,12 +218,12 @@ id=qid::label=str::text=lstr::
 23150::$$$message_0204_0069_0002$$$::[line3]Só por essa noite.[lr]::
 23151::$$$message_0204_0069_0003$$$::Ela quer continuar assim até que essa noite acabe.::
 23152::$$$message_0204_0070_0000$$$::"[line3]Saber, eu..."[lr]::
-23153::$$$message_0204_0070_0001$$$::Eu levanto a mão para abraçá-la de novo.[lr]::
+23153::$$$message_0204_0070_0001$$$::Levanto a mão para abraçá-la de novo.[lr]::
 23154::$$$message_0204_0070_0002$$$::Mas...[lr]::
 23155::$$$message_0204_0070_0003$$$::"......Como usei o meu Fantasma Nobre, eu não posso lutar de novo até que receba energia mágica sua."[lr]::
 23156::$$$message_0204_0070_0004$$$::A voz baixa dela faz com que eu pare.::
 23157::$$$message_0204_0071_0000$$$::"[line6]"[lr]::
-23158::$$$message_0204_0071_0001$$$::Eu não sei o que dizer.[lr]::
+23158::$$$message_0204_0071_0001$$$::Não sei o que dizer.[lr]::
 23159::$$$message_0204_0071_0002$$$::Esse motivo é o melhor perdão e o desejo mais sincero dela.::
 23160::$$$message_0204_0072_0000$$$::".........Ah, é mesmo. Mas será que nós ainda estamos conectados?"[lr]::
 23161::$$$message_0204_0072_0001$$$::"...Sim. Você está me abastecendo até mesmo agora enquanto nós conversamos.[lr]::
@@ -234,68 +234,68 @@ id=qid::label=str::text=lstr::
 23166::$$$message_0204_0074_0000$$$::...A Saber se mexe entre os meus braços.[lr]::
 23167::$$$message_0204_0074_0001$$$::[line3]Assim que ela faz isso, o meu corpo volta a ficar quente.[lr]::
 23168::$$$message_0204_0074_0002$$$::Os meus braços ficam apavorados só de sentir o calor dela.[lr]::
-23169::$$$message_0204_0074_0003$$$::Eu estou sentindo toda a sua delicadeza e fragilidade.[lr]::
-23170::$$$message_0204_0074_0004$$$::...Eu fico envergonhado por ter entrado em pânico.[lr]::
+23169::$$$message_0204_0074_0003$$$::Sinto toda a delicadeza... e a fragilidade dela.[lr]::
+23170::$$$message_0204_0074_0004$$$::...Fico até envergonhado por ter entrado em pânico.::
 23171::$$$message_0204_0075_0000$$$::"...Então por favor, Shirou.[lr]::
-23172::$$$message_0204_0075_0001$$$::Por favor, me deixe dormir aqui essa noite. Fica mais fácil para a espada e a sua bainha recuperarem as forças quando elas estão juntas. E se nós aproximarmos as nossos corpos e mentes como fizemos naquele ritual[line3]"::
+23172::$$$message_0204_0075_0001$$$::Por favor, me deixe dormir aqui essa noite. Fica mais fácil para a espada e a sua bainha recuperarem as forças quando elas estão juntas. E se nós aproximarmos as nossos corpos e mentes como fizemos naquele ritual"::
 23173::$$$message_0204_0076_0000$$$::"[line6]"[lr]::
-23174::$$$message_0204_0076_0001$$$::Eu aceno de volta.[lr]::
+23174::$$$message_0204_0076_0001$$$::Aceno de volta.[lr]::
 23175::$$$message_0204_0076_0002$$$::A minha felicidade supera o meu constrangimento.[lr]::
-23176::$$$message_0204_0076_0003$$$::Eu vou ficar ao lado da Saber até de manhã. Nós não podemos mais nos tocar, mas ainda podemos ficar juntos com os nossos corações.::
+23176::$$$message_0204_0076_0003$$$::Vou ficar ao lado da Saber até de manhã.. Nós não podemos mais nos tocar, mas ainda podemos ficar juntos com os nossos corações.::
 23177::$$$message_0204_0077_0000$$$::"...Que bom. Então, Shirou.[lr]::
-23178::$$$message_0204_0077_0001$$$::Eu vou me trocar para nós dormirmos essa noite, então você poderia voltar para o seu quarto enquanto isso?"::
-23179::$$$message_0204_0078_0000$$$::A Saber se levanta.[lr]::
-23180::$$$message_0204_0078_0001$$$::Eu não queria me afastar dela, mas não posso ficar assim para sempre. Eu ando até a porta de correr.::
-23181::$$$message_0204_0079_0000$$$::Eu viro de costas para olhar para a Saber enquanto deslizo a porta.[lr]::
-23182::$$$message_0204_0079_0001$$$::Com as mãos no pescoço, a Saber olha para mim com vergonha.[lr]::
+23178::$$$message_0204_0077_0001$$$::Vou me trocar para dormirmos, então poderia voltar para o seu quarto por um momento?""::
+23179::$$$message_0204_0078_0000$$$::Saber se levanta.[lr]::
+23180::$$$message_0204_0078_0001$$$::Não queria me afastar dela... mas também não dá pra ficar assim para sempre.::
+23181::$$$message_0204_0079_0000$$$::Viro de costas para olhar para a Saber enquanto deslizo a porta.[lr]::
+23182::$$$message_0204_0079_0001$$$::Com as mãos no pescoço, a Saber olha para mim com vergonha.::
 23183::$$$message_0204_0080_0000$$$::"..........................."[lr]::
 23184::$$$message_0204_0080_0001$$$::Por algum motivo, eu fico esperando sentado no futon no estilo japonês.[lr]::
-23185::$$$message_0204_0080_0002$$$::Eu vou dormir junto com a Saber. Só de pensar nisso já me deixa louco. Eu estou fazendo isso para ajudar a Saber, e também para realizar um pequeno desejo dela.[lr]::
+23185::$$$message_0204_0080_0002$$$::Vou dormir junto com a Saber... Só de pensar nisso já me deixa louco. Eu estou fazendo isso para ajudar a Saber, e também para realizar um pequeno desejo dela.[lr]::
 23186::$$$message_0204_0080_0003$$$::Talvez ela possa sorrir um dia se nós realizarmos pequenos desejos como esse.[lr]::
 23187::$$$message_0204_0080_0004$$$::...Mas a batalha já está perto do final. Será que nós teremos tempo o suficiente até lá?::
 23188::$$$message_0204_0081_0000$$$::"[line3]Com licença, Shirou."[lr]::
 23189::$$$message_0204_0081_0001$$$::A porta é aberta.[lr]::
-23190::$$$message_0204_0081_0002$$$::Eu me livro desse pensamento negativo e recebo a Saber.[lr]::
-23191::$$$message_0204_0081_0003$$$::Eu viro de costas e vejo[line3]::
+23190::$$$message_0204_0081_0002$$$::Afasto esses pensamentos e recebo a Saber.[lr]::
+23191::$$$message_0204_0081_0003$$$::Viro o rosto e então...[line3]::
 23192::$$$message_0204_0082_0000$$$::"......"[lr]::
-23193::$$$message_0204_0082_0001$$$::Eu prendo a minha respiração em silêncio.::
-23194::$$$message_0204_0083_0000$$$::A imagem branca dela surge entre a escuridão.::
+23193::$$$message_0204_0082_0001$$$::Prendo a respiração.::
+23194::$$$message_0204_0083_0000$$$::A figura branca dela se destaca na escuridão.::
 23195::$$$message_0204_0083_0001$$$::Com isso, toda o meu nervosismo desaparece.::
-23196::$$$message_0204_0083_0002$$$::...Provavelmente porque ela é bonita demais.::
+23196::$$$message_0204_0083_0002$$$::...Provavelmente porque ela é bonita demais.[lr]::
 23197::$$$message_0204_0083_0003$$$::A minha mente agitada se acalma e volta ao normal.::
 23198::$$$message_0204_0084_0000$$$::"P-Por acaso eu fico estranha vestida assim...?"[lr]::
 23199::$$$message_0204_0084_0001$$$::"N-Não, nada disso. Eu só fiquei surpreso porque você é deslumbrante."::
-23200::$$$message_0204_0085_0000$$$::...Eu sussurro algumas coisas estranhas sobre como eu fico surpreso por uma garota ser linda demais.[lr]::
+23200::$$$message_0204_0085_0000$$$::...Acabo murmurando coisas estranhas, tentando explicar o quanto ela é bonita.[lr]::
 23201::$$$message_0204_0085_0001$$$::A Saber não entenderia o que eu estou tentando dizer, mas eu digo mesmo assim para pelo menos me deixar mais tranquilo.::
 23202::$$$message_0204_0086_0000$$$::"Posso ir até você, Shirou?"[lr]::
 23203::$$$message_0204_0086_0001$$$::"C-Claro." [lr]::
 23204::$$$message_0204_0086_0002$$$::Pela primeira vez, eu percebo como os pequenos dedos dos pés dela são bonitos.[lr]::
 23205::$$$message_0204_0086_0003$$$::Enquanto a Saber vem até mim, eu me afasto um pouco e espalho o futon.::
-23206::$$$message_0204_0087_0000$$$::Eu percebo que vou precisar de mais um travesseiro, mas agora é tarde demais.[lr]::
+23206::$$$message_0204_0087_0000$$$::Percebo que vou precisar de mais um travesseiro... mas agora já é tarde.[lr]::
 23207::$$$message_0204_0087_0001$$$::Eu e a Saber estamos sentados lado a lado perto do futon.::
 23208::$$$message_0204_0088_0000$$$::É o mesmo quarto e o mesmo futon, só que dessa vez a Saber está comigo.[lr]::
-23209::$$$message_0204_0088_0001$$$::Eu não tenho nenhum pensamento indecente, mas o meu rosto está em chamas e eu não consigo nem olhar rapidamente para ela.::
+23209::$$$message_0204_0088_0001$$$::Não estou pensando em nada indecente... mas o rosto está em chamas.::
 23210::$$$message_0204_0089_0000$$$::"...Pode se deitar, Shirou."[lr]::
 23211::$$$message_0204_0089_0001$$$::"Não, você pode se deitar primeiro..."::
 23212::$$$message_0204_0090_0000$$$::...Desse jeito nós não vamos chegar a lugar nenhum.[lr]::
-23213::$$$message_0204_0090_0001$$$::Eu passo para debaixo do futon e deixo um espaço para a Saber se deitar.[lr]::
-23214::$$$message_0204_0090_0002$$$::Eu tento deixar o travesseiro para a Saber, mas aos poucos ela o empurra de volta para mim.::
+23213::$$$message_0204_0090_0001$$$::Entro debaixo do futon e deixo espaço para a Saber.[lr]::
+23214::$$$message_0204_0090_0002$$$::Tento deixar o travesseiro para ela... mas, aos poucos, ela empurra de volta pra mim.::
 23215::$$$message_0204_0091_0000$$$::"Pode ficar com ele.[lr]::
 23216::$$$message_0204_0091_0001$$$::Bem, será que eu poderia... usar o seu braço como travesseiro?"[lr]::
 23217::$$$message_0204_0091_0002$$$::Ela sussurra uma coisa dessas.[lr]::
 23218::$$$message_0204_0091_0003$$$::A Saber está nos meus braços de um jeito bem confortável.[lr]::
 23219::$$$message_0204_0091_0004$$$::Não sou eu que estou a abraçando, mas é ela que quis ficar assim.::
 23220::$$$message_0204_0092_0000$$$::[line3]Espada e bainha.[lr]::
-23221::$$$message_0204_0092_0001$$$::Eu fico pensando sobre o que a Saber disse.[lr]::
+23221::$$$message_0204_0092_0001$$$::Fico pensando sobre o que a Saber disse.[lr]::
 23222::$$$message_0204_0092_0002$$$::A Saber está quase dormindo nos meus braços, e ela se parece com uma espada linda dentro da sua bainha.[lr]::
-23223::$$$message_0204_0092_0003$$$::O calor e o cheiro suave dela me deixa mais calmo do que excitado.[lr]::
+23223::$$$message_0204_0092_0003$$$::O calor e o cheiro suave dela me deixa mais calmo do que excitado.::
 23224::$$$message_0204_0093_0000$$$::"......"[lr]::
 23225::$$$message_0204_0093_0001$$$::A Saber abre a mão.[lr]::
-23226::$$$message_0204_0093_0002$$$::Eu seguro a mão dela por debaixo do futon.[lr]::
+23226::$$$message_0204_0093_0002$$$::Seguro a mão dela por debaixo do futon.[lr]::
 23227::$$$message_0204_0093_0003$$$::Nós dormimos em silêncio.[lr]::
 23228::$$$message_0204_0093_0004$$$::[line3]Mas antes disso.::
 23229::$$$message_0204_0094_0000$$$::"...Saber."[lr]::
-23230::$$$message_0204_0094_0001$$$::Eu chamo a garota que está deitada do meu lado.[lr]::
+23230::$$$message_0204_0094_0001$$$::Chamo a garota que está deitada do meu lado.[lr]::
 23231::$$$message_0204_0094_0002$$$::Só eu quero confirmar uma coisa.[lr]::
 23232::$$$message_0204_0094_0003$$$::[line3]Quero que ela responda à minha pergunta.::
 23233::$$$message_0204_0095_0000$$$::"Está sentindo isso, Shirou? A minha energia mágica deve ficar reabastecida até amanhã de manhã. ...A partir de então, eu vou poder lutar como o seu Servo."[lr]::
@@ -306,27 +306,27 @@ id=qid::label=str::text=lstr::
 23238::$$$message_0204_0096_0003$$$::"......Não estou certa, Shirou? Afinal, você..."::
 23239::$$$message_0204_0097_0000$$$::"...Decidiu lutar para colocar um fim nessa guerra."[nolr]::
 23240::$$$message_0204_0097_0001$$$::"[line9]"[lr]::
-23241::$$$message_0204_0097_0002$$$::"[line9]"[lr]::
-23242::$$$message_0204_0097_0003$$$::...Nós ficamos em silêncio e olhamos para a escuridão.[lr]::
-23243::$$$message_0204_0097_0004$$$::......Por quanto tempo nós estamos assim?[lr]::
-23244::$$$message_0204_0097_0005$$$::O meu corpo exausto quer descansar e os meus olhos começam a se fechar...[lr]::
-23245::$$$message_0204_0097_0006$$$::Mas as nossas mãos juntas estão aquecidas.::
-23246::$$$message_0204_0098_0000$$$::"Saber......?" [lr]::
-23247::$$$message_0204_0098_0001$$$::"......Sim. Vamos pensar sobre isso amanhã, Shirou.[lr]::
-23248::$$$message_0204_0098_0002$$$::Amanhã nós podemos pensar em um bom plano. E então..."[lr]::
-23249::$$$message_0204_0098_0003$$$::[line3]Eu gostaria de dormir do jeito que estamos agora.[lr]::
-23250::$$$message_0204_0098_0004$$$::Ela diz isso enquanto segura a minha mão com gentileza.::
-23251::$$$message_0204_0098_0005$$$::But our entwined fingers stay warm.::
-23252::$$$message_0204_0099_0000$$$::"[line4]É mesmo. Eu também estava pensando nisso."[lr]::
-23253::$$$message_0204_0099_0001$$$::"......Sim. Boa noite, Shirou. ......Vamos voltar ao nosso estado normal quando nós acordarmos."[lr]::
-23254::$$$message_0204_0099_0002$$$::Eu fecho os meus olhos com ela ao meu lado.::
-23255::$$$message_0204_0099_0003$$$::Ela só quer dormir junto assim.[lr]::
-23256::$$$message_0204_0099_0004$$$::She holds my hand gently as she says so.::
-23257::$$$message_0204_0100_0000$$$::......A minha última visão enxerga a Saber sorrindo de um jeito confortável.[lr]::
-23258::$$$message_0204_0100_0001$$$::Eu não me importo se for só por essa noite.[lr]::
-23259::$$$message_0204_0100_0002$$$::Nesse momento, a mão dela está aquecida.[lr]::
-23260::$$$message_0204_0101_0000$$$::[line3]Nós estamos chegando perto do fim dessa batalha...[lr]::
-23261::$$$message_0204_0101_0001$$$::...Mesmo sem sabermos se nós vamos conseguir ficar de mãos dadas depois que tudo acabar...::
+23241::$$$message_0204_0097_0002$$$::Não dá pra negar isso.[lr]::
+23242::$$$message_0204_0097_0003$$$::Se quisermos resolver isso, primeiro precisamos acabar com essa guerra.[lr]:
+23243::$$$message_0204_0097_0004$$$::Pra começar, se eu não derrotar aquele cara que tá atrás da Saber, não tem como protegê-la.[lr]::
+23244::$$$message_0204_0097_0005$$$::Mas...[lr]::
+23245::$$$message_0204_0097_0006$$$::Será que a gente tem mesmo alguma chance contra o Rei dos Heróis?::
+23246::$$$message_0204_0098_0000$$$::[font italic=true]...[font italic=false][lr]::
+23247::$$$message_0204_0098_0001$$$::[font italic=true]...[font italic=false][lr]:::
+23248::$$$message_0204_0098_0002$$$::Em silêncio, só ficamos ali, olhando pra escuridão leve.[lr]::
+23249::$$$message_0204_0098_0003$$$::Quanto tempo passou?[lr]::
+23250::$$$message_0204_0098_0004$$$::O corpo cansado começa a pedir descanso, e as pálpebras vão ficando pesadas.[lr]::
+23251::$$$message_0204_0098_0005$$$::Mas os nossos dedos juntos continuam quentes.::
+23252::$$$message_0204_0099_0000$$$::"Saber...?"[lr]::
+23253::$$$message_0204_0099_0001$$$::"Vamos deixar isso para amanhã, Shirou.[lr]::
+23254::$$$message_0204_0099_0002$$$::Talvez amanhã a gente encontre alguma solução. E..."[lr]::
+23255::$$$message_0204_0099_0003$$$::...Por agora, ela só quer dormir comigo[lr]::
+23256::$$$message_0204_0099_0004$$$::Ela aperta de leve a minha mão ao dizer isso.::
+23257::$$$message_0204_0100_0000$$$::"É... eu também queria isso"[lr]::
+23258::$$$message_0204_0100_0001$$$::"Sim. Boa noite, Shirou. Quando acordarmos... estaremos normal."[lr]::
+23259::$$$message_0204_0100_0002$$$::Deito mais perto dela e fecho os olhos.::
+23260::$$$message_0204_0101_0000$$$::A última coisa que vejo é o sorriso tranquilo da Saber.[lr]::
+23261::$$$message_0204_0101_0001$$$::Não me importo se isso for só por esta noite.[lr]::
 23262::$$$message_0204_0101_0002$$$::A mão que segura a minha agora está tão, tão quente.[lr]::
 23263::$$$message_0204_0101_0003$$$::É mais que suficiente para mim e caio num sono satisfeito.::
 23264::$$$message_0204_0102_0000$$$::...O fim da batalha.[lr]::

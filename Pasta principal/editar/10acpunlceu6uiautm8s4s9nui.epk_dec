@@ -1,57 +1,57 @@
 DAT
 id=qid::label=str::text=lstr::
-9590::$$$message_0095_0000_0000$$$::Aquele cara[line3]::
-9591::$$$message_0095_0000_0001$$$::Devo perguntar sobre o primeiro Servo que encontrei, o Lancer.[l][r]::
-9592::$$$message_0095_0000_0002$$$::A Saber lutou com ele, e parece que ela percebeu quem ele é.::
-9593::$$$message_0095_0001_0000$$$::"Ei, Saber. Sobre o Lancer... você sabe quem ele é?"[l][r]::
+9590::$$$message_0095_0000_0000$$$::Aquele cara...[line3]::
+9591::$$$message_0095_0000_0001$$$::Devo perguntar sobre o primeiro Servo que encontrei, o Lancer.[lr]::
+9592::$$$message_0095_0000_0002$$$::A Saber lutou com ele, e parece que percebeu quem ele é.::
+9593::$$$message_0095_0001_0000$$$::"Ei, Saber. Sobre o Lancer... você sabe quem ele é?"[lr]::
 9594::$$$message_0095_0001_0001$$$::"Hã? O Lancer?"::
-9595::$$$message_0095_0002_0000$$$::"Sim. Você disse algo enquanto o perseguia. Algo sobre a Irlanda e por aí vai.[l][r]::
-9596::$$$message_0095_0002_0001$$$:: Então pensei que você pudesse ter descoberto a identidade dele."::
-9597::$$$message_0095_0003_0000$$$::"Ah, entendo o seu ponto agora. ...Estou surpresa, não achei que você teria interesse em saber a identidade verdadeira de outros Servos."[l][r]::
-9598::$$$message_0095_0003_0001$$$::"Ouvi dizer que é bom conhecê-los. ...Mas por que você parece tão satisfeita, Saber?"::
-9599::$$$message_0095_0004_0000$$$::"Porque você está mostrando disposição para lutar. Podemos traçar estratégias contra um Servo se soubermos seu Nome Verdadeiro. É uma tática de batalha básica eliminar primeiro aqueles cujas fraquezas são conhecidas."::
-9600::$$$message_0095_0005_0000$$$::"...Hm."[l][r]::
-9601::$$$message_0095_0005_0001$$$::Não tenho intenção de sair caçando quem não está me atacando, mas falar isso agora só cortaria o fluxo da conversa.::
-9602::$$$message_0095_0006_0000$$$::"Enfim, sobre a identidade do Lancer. Imagino que você saiba quem ele é, Saber?"::
-9603::$$$message_0095_0007_0000$$$::"Sim. Aquela lança vermelha e as runas de proteção ao redor de seu corpo, somadas às suas habilidades especializadas em sobrevivência... Não há erro.[l][r]::
-9604::$$$message_0095_0007_0001$$$:: Seu verdadeiro nome é Cu Chulainn. Ele é o grande herói da Irlanda, dono da lança amaldiçoada Gae Bolg."::
-9605::$$$message_0095_0008_0000$$$::"...Cu Chulainn...?"[l][r]::
-9606::$$$message_0095_0008_0001$$$::Esse é um nome que eu nunca ouvi.[l][r]::
-9607::$$$message_0095_0008_0002$$$::...Bem, não conheço muito sobre mitologia irlandesa, então é de se esperar.::
-9608::$$$message_0095_0009_0000$$$::"...Então. Ele é forte, esse tal de Cu Chulainn?"::
-9609::$$$message_0095_0009_0001$$$::"Ele não é famoso neste país, então sua existência acaba sendo diminuída, mas ele ainda possui um poder considerável.[l][r]::
-9610::$$$message_0095_0009_0002$$$:: Sua agilidade é impecável e acredito que seu Fantasma Nobre seja o mais adequado para esta guerra."::
-9611::$$$message_0095_0010_0000$$$::"Fantasma Nobre...? Ah, aquela lança. Parando para pensar, a lança dele se moveu de um jeito impossível no final. Essa é a tal da Gae Bolg?"::
-9612::$$$message_0095_0011_0000$$$::"...Provavelmente. Existem várias versões da lenda da Gae Bolg.[l][r]::
-9613::$$$message_0095_0011_0001$$$:: Dizem que é uma lança amaldiçoada lançada com os pés, ou uma arma demoníaca que cria milhares de espinhos ao atingir o inimigo..."::
-9614::$$$message_0095_0011_0002$$$::"...? Mas essas não são lendas completamente diferentes? Dá mesmo para chamá-la de uma única arma lendária?"::
-9615::$$$message_0095_0012_0000$$$::"Há um ponto em comum. Embora existam várias habilidades atribuídas à Gae Bolg nas lendas, o fato é que todas dizem que ela [font italic=true]sempre[font italic=false] perfura o coração.[l][r]::
-9616::$$$message_0095_0012_0001$$$:: ...Eu pensava que essa era uma perícia do dono, e não o poder da arma, mas parece que eu estava enganada.[l][r]::
-9617::$$$message_0095_0012_0002$$$:: A natureza da lança demoníaca Gae Bolg, do Lancer, é que ela sempre alcança o coração."::
-9618::$$$message_0095_0013_0000$$$::"Ah[line3]"::
-9619::$$$message_0095_0013_0001$$$::Ao ouvir isso, eu me lembro vividamente.[l][r]::
-9620::$$$message_0095_0013_0002$$$::Naquela noite...[l][r]::
-9621::$$$message_0095_0013_0003$$$::Aquela lança mirada nos pés da Saber se desviou de modo sobrenatural direto para o coração dela.::
-9622::$$$message_0095_0014_0000$$$::"Então a lança dele é..."[l][r]::
-9623::$$$message_0095_0014_0001$$$::"Sim. É uma arma maligna que, uma vez desferida, garante o acerto no coração do oponente.[l][r]::
-9624::$$$message_0095_0014_0002$$$:: Ela deve distorcer o espaço ou alterar a ordem de causa e efeito.[l][r]::
-9625::$$$message_0095_0014_0003$$$:: De qualquer modo, é uma combinação da perícia do Lancer com a maldição da própria lança. Não existe arma mais eficiente para um combate individual. Ela não possui aspectos desnecessários."::
-9626::$$$message_0095_0015_0000$$$::"Não possui aspectos desnecessários...? O que você quer dizer com isso?"::
-9627::$$$message_0095_0016_0000$$$::"Não entende? A lança do Lancer pode não ser capaz de destruir um castelo, mas é o suficiente para matar uma pessoa.[l][r]::
-9628::$$$message_0095_0016_0001$$$:: Fantasmas Nobres requerem quantidades diferentes de energia dependendo da sua escala.[l][r]::
-9629::$$$message_0095_0016_0002$$$:: Um Servo com um Fantasma Nobre de Rank A precisa de uma carga enorme de energia para usá-lo e, uma vez ativado, exige tempo para recarregar a energia mágica perdida."::
-9630::$$$message_0095_0017_0000$$$::"No entanto, para matar uma pessoa[line2]ou melhor, um Servo[line2]não é necessária tamanha força destrutiva. Se você pode liquidar seu oponente com um único golpe, não existe resultado mais tático que esse."[l][r]::
-9631::$$$message_0095_0017_0001$$$::"...? Então quer dizer que o custo de uma flecha é menor que o de um tiro de canhão?"::
-9632::$$$message_0095_0018_0000$$$::"Correto. Contudo, flechas comuns raramente atingiriam um Servo. Por isso, as batalhas entre Servos acabam se tornando trocas de tiros de canhão, mas[line3]"[l][r]::
-9633::$$$message_0095_0018_0001$$$::"...A Gae Bolg do Lancer é uma 'flecha' que sempre acerta o alvo, hein? E não apenas isso, ela atinge o coração, garantindo que a vida do oponente seja ceifada."::
-9634::$$$message_0095_0019_0000$$$::"Exatamente. Além disso, ela não exige muita energia mágica para ser ativada. Com esse nível de consumo, ele não precisaria de descanso mesmo que a usasse sete vezes seguidas.[l][r]::
-9635::$$$message_0095_0019_0001$$$:: É por isso que essa lança demoníaca é perfeita para esta guerra.[l][r]::
-9636::$$$message_0095_0019_0002$$$:: Enquanto um Servo comum precisaria de repouso após alguns confrontos, o Lancer poderia lutar contra seis inimigos consecutivamente. ...Bem, desde que sejam duelos individuais."::
-9637::$$$message_0095_0020_0000$$$::"...Hm."[l][r]::
-9638::$$$message_0095_0020_0001$$$::Então ele é um Servo que, sem precisar ser chamativo, garante uma vitória sólida, hein?::
-9639::$$$message_0095_0021_0000$$$::"Apesar de que ele parecia estar perdendo tempo com bobagens. Ele ficou até brincando comigo."[l][r]::
-9640::$$$message_0095_0021_0001$$$::"Sim. Parece que o Lancer é uma pessoa inconsistente. Ele é impiedoso, mas possui um lado que torna difícil odiá-lo."::
-9641::$$$message_0095_0022_0000$$$::Sinto o mesmo, mas não podemos baixar a guarda.[l][r]::
-9642::$$$message_0095_0022_0001$$$::Aquele cara perfurou meu peito com a mesma facilidade de quem corta grama.[l][r]::
+9595::$$$message_0095_0002_0000$$$::"Sim. Você disse algo quando o enxotou. Algo sobre a Irlanda e coisa assim.[lr]::
+9596::$$$message_0095_0002_0001$$$::Então pensei que talvez você tivesse descoberto a identidade dele."::
+9597::$$$message_0095_0003_0000$$$::"Ah, entendi. ...Estou surpresa. Não achei que você se interessaria pela identidade dos outros Servos."[lr]::
+9598::$$$message_0095_0003_0001$$$::"Ouvi dizer que isso pode dar vantagem. ...Mas por que você parece tão satisfeita, Saber?"::
+9599::$$$message_0095_0004_0000$$$::"Porque você está demonstrando vontade de lutar. Se soubermos o Nome Verdadeiro de um Servo, podemos traçar contramedidas. Em batalha, é básico abater primeiro os oponentes cujas fraquezas já conhecemos."::
+9600::$$$message_0095_0005_0000$$$::"...Hm."[lr]::
+9601::$$$message_0095_0005_0001$$$::Não tenho intenção de sair caçando quem não está me atacando, mas falar isso agora só quebraria o ritmo da conversa.::
+9602::$$$message_0095_0006_0000$$$::"Enfim, sobre a identidade do Lancer. Pelo seu jeito de falar, imagino que você saiba quem ele é, Saber."::
+9603::$$$message_0095_0007_0000$$$::"Sim. Aquela lança vermelha, as runas de proteção que cobrem todo o seu corpo e suas habilidades voltadas não para a luta, mas para a sobrevivência... não há erro.[lr]::
+9604::$$$message_0095_0007_0001$$$::O verdadeiro nome dele é Cu Chulainn. O grande herói da Irlanda que empunha a lança demoníaca Gae Bolg."::
+9605::$$$message_0095_0008_0000$$$::"...Cu Chulainn...?"[lr]::
+9606::$$$message_0095_0008_0001$$$::Esse é um nome que nunca ouvi.[lr]::
+9607::$$$message_0095_0008_0002$$$::...Bem, não conheço muito de mitologia irlandesa, então não é surpreendente.::
+9608::$$$message_0095_0009_0000$$$::"...Então. Esse tal de Cu Chulainn é forte?"::
+9609::$$$message_0095_0009_0001$$$::"Como sua fama neste país é baixa, sua existência está enfraquecida, mas ainda assim suas capacidades são mais do que suficientes.[lr]::
+9610::$$$message_0095_0009_0002$$$::Em termos de agilidade, poucos poderiam acompanhá-lo, e creio que seu Fantasma Nobre seja uma das armas mais adequadas para esta guerra."::
+9611::$$$message_0095_0010_0000$$$::"Fantasma Nobre...? Ah, aquela lança. Parando para pensar, ela se moveu de um jeito impossível no final. Aquilo era a tal da Gae Bolg?"::
+9612::$$$message_0095_0011_0000$$$::"...Provavelmente. Existem várias versões da lenda da Gae Bolg.[lr]::
+9613::$$$message_0095_0011_0001$$$::Dizem que é uma lança amaldiçoada arremessada com os pés, ou uma lança demoníaca que, ao perfurar o alvo, faz brotar mil espinhos por dentro do corpo..."[lr]::
+9614::$$$message_0095_0011_0002$$$::"...? Mas essas não são lendas completamente diferentes? Dá mesmo para chamar tudo isso de uma única arma lendária?"::
+9615::$$$message_0095_0012_0000$$$::"Há um ponto em comum. Embora existam várias habilidades atribuídas à Gae Bolg nas lendas, todas dizem que ela [font italic=true]sempre[font italic=false] perfura o coração.[lr]::
+9616::$$$message_0095_0012_0001$$$::...Eu pensava que isso fosse uma perícia do portador, e não o poder da arma, mas parece que eu estava enganada.[lr]::
+9617::$$$message_0095_0012_0002$$$::A verdadeira natureza da Gae Bolg do Lancer é, literalmente, perfurar o coração."::
+9618::$$$message_0095_0013_0000$$$::"Ah[line3]"[lr]::
+9619::$$$message_0095_0013_0001$$$::Ao ouvir isso, eu me lembro com clareza.[lr]::
+9620::$$$message_0095_0013_0002$$$::Naquela noite...[lr]::
+9621::$$$message_0095_0013_0003$$$::A lança que havia sido apontada aos pés da Saber mudou de direção de forma impossível e avançou direto para o coração dela.::
+9622::$$$message_0095_0014_0000$$$::"Então a lança dele é..."[lr]::
+9623::$$$message_0095_0014_0001$$$::"Sim. É uma lança demoníaca que, uma vez usada, perfura inevitavelmente o coração do oponente.[lr]::
+9624::$$$message_0095_0014_0002$$$::Talvez distorça o espaço, ou talvez altere a causalidade.[lr]::
+9625::$$$message_0095_0014_0003$$$::De qualquer forma, é a combinação da maldição da lança com a técnica do próprio Lancer. Não existe arma mais eficiente para um combate individual. Não há desperdício algum nela."::
+9626::$$$message_0095_0015_0000$$$::"Não há desperdício algum...? O que você quer dizer com isso?"::
+9627::$$$message_0095_0016_0000$$$::"Não entende? A lança do Lancer talvez não consiga destruir um castelo, mas, para matar uma única pessoa, é mais do que suficiente.[lr]::
+9628::$$$message_0095_0016_0001$$$::O consumo de energia de um Fantasma Nobre varia conforme a sua escala.[lr]::
+9629::$$$message_0095_0016_0002$$$::Um Servo com um Fantasma Nobre de Rank A consome uma quantidade enorme de energia ao usá-lo, e leva tempo para recuperar o que foi gasto."::
+9630::$$$message_0095_0017_0000$$$::"No entanto, para matar uma pessoa[line2]ou melhor, um Servo[line2]não é necessária uma força destrutiva tão absurda. Se for possível derrotar o oponente com um único golpe, não há resultado mais eficiente do que esse."[lr]::
+9631::$$$message_0095_0017_0001$$$::"...? Então quer dizer que o custo de uma flecha é menor do que o de um tiro de canhão?"::
+9632::$$$message_0095_0018_0000$$$::"Correto. Contudo, uma flecha comum dificilmente acertaria um Servo. Por isso, as batalhas entre Servos acabam se tornando trocas de tiros de canhão, mas[line3]"[lr]::
+9633::$$$message_0095_0018_0001$$$::"...A Gae Bolg do Lancer é como uma 'flecha' que sempre acerta o alvo, certo? E não apenas isso, ela atinge o coração, garantindo a morte do oponente."::
+9634::$$$message_0095_0019_0000$$$::"Exatamente. Além disso, ela não exige muita energia mágica para ser ativada. Com esse nível de consumo, ele poderia usá-la sete vezes seguidas sem precisar repor energia.[lr]::
+9635::$$$message_0095_0019_0001$$$::É por isso que essa lança demoníaca é tão adequada para esta guerra.[lr]::
+9636::$$$message_0095_0019_0002$$$::Enquanto um Servo comum precisaria descansar após alguns combates, o Lancer poderia enfrentar seis inimigos consecutivamente. ...Claro, desde que sejam duelos individuais."::
+9637::$$$message_0095_0020_0000$$$::"...Hm."[lr]::
+9638::$$$message_0095_0020_0001$$$::Então ele é o tipo de Servo que, sem precisar ser chamativo, garante uma vitória sólida, hein?::
+9639::$$$message_0095_0021_0000$$$::"Apesar disso, ele parecia desperdiçar tempo com bobagens. Ficou até brincando comigo."[lr]::
+9640::$$$message_0095_0021_0001$$$::"Sim. Pelo visto, o Lancer é uma pessoa inconstante. Ele é impiedoso, mas tem um lado que torna difícil odiá-lo."::
+9641::$$$message_0095_0022_0000$$$::Sinto o mesmo, mas não podemos baixar a guarda.[lr]::
+9642::$$$message_0095_0022_0001$$$::Aquele cara perfurou meu peito com a mesma facilidade de quem corta grama.[lr]::
 9643::$$$message_0095_0022_0002$$$::Servos como o Berserker e o Lancer não hesitam nem por um segundo ao empunhar suas armas.::
 

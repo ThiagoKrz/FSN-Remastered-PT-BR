@@ -4,7 +4,7 @@ id=qid::label=str::text=lstr::
 12376::$$$message_0124_0000_0001$$$::O sol está nascendo, e a floresta está escura por conta da neblina matinal.[lr]::
 12377::$$$message_0124_0000_0002$$$::Comparado com o interior denso da floresta, esse lugar tem uma vista bem aberta.::
 12378::$$$message_0124_0001_0000$$$::"Tohsaka. Esse lugar está bom, certo?"[lr]::
-12379::$$$message_0124_0001_0001$$$::"Pois é... Ele bate com várias das condições, mas eu não sei se é uma boa ideia ter uma vista muito aberta. Não tem nenhuma rota de fuga para você ou para a Saber."::
+12379::$$$message_0124_0001_0001$$$::"Pois é... Ele atende a várias das condições, mas o problema é justamente a vista aberta demais. Eu até consigo escapar, mas você e a Saber não teriam rota de fuga."::
 12380::$$$message_0124_0002_0000$$$::"...Hm."[lr]::
 12381::$$$message_0124_0002_0001$$$::Ela é tão perfeccionista... pensou até as rotas de fuga.::
 12382::$$$message_0124_0003_0000$$$::"Vamos procurar por outro lugar. Não se preocupe, ainda temos tempo."[lr]::
@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 12384::$$$message_0124_0003_0002$$$::"......"[lr]::
 12385::$$$message_0124_0003_0003$$$::Mas a Saber fica olhando para o horizonte sem sair do lugar.::
 12386::$$$message_0124_0004_0000$$$::"Saber? O que você está fazendo? Se não formos logo, a Illyasviel vai[line2]"::
-12387::$$$message_0124_0005_0000$$$::Eu sinto calafrios.[lr]::
+12387::$$$message_0124_0005_0000$$$::Um calafrio percorre a minha espinha.[lr]::
 12388::$$$message_0124_0005_0001$$$::Depois de sentir isso uma vez, não dá mais para se esquecer.[lr]::
 12389::$$$message_0124_0005_0002$$$::Eu nem consigo vê-lo ou sentir a sua presença.[lr]::
 12390::$$$message_0124_0005_0003$$$::Mas essa pressão no meu corpo só pode ter sido causada por ele.::
@@ -20,28 +20,28 @@ id=qid::label=str::text=lstr::
 12392::$$$message_0124_0007_0000$$$::A voz de uma menina se espalha por toda a floresta.[lr]::
 12393::$$$message_0124_0007_0001$$$::Do outro lado da neblina.[lr]::
 12394::$$$message_0124_0007_0002$$$::Bem longe, dentro dessa mesma floresta, há uma coisa obscura vindo diretamente na nossa direção.::
-12395::$$$message_0124_0008_0000$$$::[line2]Esperem. Eu já estou indo matar vocês[line2]::
+12395::$$$message_0124_0008_0000$$$::[line2]Esperem aí. Já estou indo matar vocês[line2]::
 12396::$$$message_0124_0009_0000$$$::...Será que é porque estamos em uma clareira a céu aberto?[lr]::
 12397::$$$message_0124_0009_0001$$$::Eu sinto como se a Illya estivesse falando com a gente enquanto nos observa lá no céu.::
 12398::$$$message_0124_0010_0000$$$::"Droga, ela já encontrou o Shirou...!?[lr]::
 12399::$$$message_0124_0010_0001$$$::Isso é ruim, esse lugar é aberto demais... nossa, que velocidade é essa!? Eles não vão levar nem dois minutos para chegar até aqui...!"::
 12400::$$$message_0124_0011_0000$$$::"Ei, por que vocês estão calmos...!?[lr]::
-12401::$$$message_0124_0011_0001$$$::Eu estou dizendo que aqui é ruim! Temos que procurar por outro lugar...!"[lr]::
+12401::$$$message_0124_0011_0001$$$::Eu disse que esse lugar é pessimo! Temos que procurar outro, rapido...!"[lr]::
 12402::$$$message_0124_0011_0002$$$::A Tohsaka segura a minha mão.[lr]::
-12403::$$$message_0124_0011_0003$$$::[line2]Mas nós não vamos conseguir a tempo.::
+12403::$$$message_0124_0011_0003$$$::[line2]Mas já é tarde demais.::
 12404::$$$message_0124_0012_0000$$$::"[line2]Não. Aqui está bom, Tohsaka.[lr]::
 12405::$$$message_0124_0012_0001$$$::Nós já temos sorte de podermos lutar juntos, então não podemos pedir mais do que isso."::
 12406::$$$message_0124_0013_0000$$$::"Seu imbecil, eu estou dizendo que não está bom...! Aqui tem muito espaço...! A Saber não pode deter o Berserker sozinha, e ele vai conseguir te atacar mesmo que você fique bem afastado...!"::
 12407::$$$message_0124_0014_0000$$$::"Eu sei que você está preocupada comigo, mas todos nós estamos em perigo agora. Além do mais, não tem mais para onde fugir, certo?"[lr]::
 12408::$$$message_0124_0014_0001$$$::"Ugh... eu sei, mas..."::
-12409::$$$message_0124_0015_0000$$$::"Você também não se importa, não é Saber? Vamos derrotar o Berserker aqui mesmo."[lr]::
+12409::$$$message_0124_0015_0000$$$::"Saber, você também está pronta, não é? Vamos enfrentar o Berserker aqui mesmo."[lr]::
 12410::$$$message_0124_0015_0001$$$::A Saber acena em silêncio.[lr]::
-12411::$$$message_0124_0015_0002$$$::"N-Nossa...! Tá bom. Eu vou ficar furiosa se você morrer rápido...!"::
+12411::$$$message_0124_0015_0002$$$::"A-Ah, droga...! Tá bom. Mas eu vou ficar furiosa se vocês forem derrotados assim tão fácil...!"::
 12412::$$$message_0124_0016_0000$$$::A Tohsaka deve ter concordado, já que ela entrou na neblina.[lr]::
-12413::$$$message_0124_0016_0001$$$::Ela é bem rápida quando está em movimento.[lr]::
+12413::$$$message_0124_0016_0001$$$::Quando entra em ação, ela é realmente rápida.[lr]::
 12414::$$$message_0124_0016_0002$$$::Ela se afasta da neblina e sobe em uma das árvores da floresta.::
 12415::$$$message_0124_0017_0000$$$::"[line2]Eles estão vindo, Saber. Prepare-se."[lr]::
-12416::$$$message_0124_0017_0001$$$::"...Você também. Por favor, não fique mais perto do que isso quando a luta começar. Eu vou fazer de tudo para que o Berserker não chegue até você."::
+12416::$$$message_0124_0017_0001$$$::"...Você também. Por favor, não fique mais perto do que isso quando a luta começar. Aconteça o que acontecer, eu não vou deixar o Berserker chegar até você."::
 12417::$$$message_0124_0018_0000$$$::...A névoa se desfaz.[lr]::
 12418::$$$message_0124_0018_0001$$$::Vindo da neblina matinal...[lr]::
 12419::$$$message_0124_0018_0002$$$::Como se exalasse a sua escuridão, o guerreiro furioso aparece junto com uma menina branca.::
@@ -54,32 +54,32 @@ id=qid::label=str::text=lstr::
 12426::$$$message_0124_0021_0000$$$::A risada dela se espalha pela floresta.[lr]::
 12427::$$$message_0124_0021_0001$$$::Será que isso a deixou irritada?[lr]::
 12428::$$$message_0124_0021_0002$$$::A Saber, que está ao meu lado, está tão agitada que talvez ataque a qualquer momento.::
-12429::$$$message_0124_0022_0000$$$::"Caramba. Vocês estão tão quietos que chega a dar sono. Estão com medo de morrer? Não adianta. Se vocês implorarem por suas vidas agora, talvez eu até tenha piedade."::
+12429::$$$message_0124_0022_0000$$$::"Nossa. Como você ficou quieto de repente. Que chato. Está com medo de morrer? Que desperdício. Se implorar pela sua vida agora, talvez eu até considere poupar você."::
 12430::$$$message_0124_0023_0000$$$::...a Tohsaka já deve ter terminado de subir na árvore.[lr]::
-12431::$$$message_0124_0023_0001$$$::Ela provavelmente vai se posicionar perto do centro dessa clareira.[lr]::
+12431::$$$message_0124_0023_0001$$$::Se for escolher uma posição, provavelmente vai ser perto do centro da clareira.[lr]::
 12432::$$$message_0124_0023_0002$$$::Ninguém iria perceber se ela ficasse bem onde os galhos estão se entrelaçando, sem falar que eles devem ser resistentes o bastante para aguentar o peso dela.::
-12433::$$$message_0124_0024_0000$$$::"...Entendo, então é assim que vocês vão se comportar. Então acho que não faz sentido em querer conversar. Eu vou matar vocês dois e a Rin[line2][lr]::
+12433::$$$message_0124_0024_0000$$$::"...Entendo. Então é assim que vocês vão agir. Nesse caso, já chega de conversa. Eu vou matar você e a Ri[line2][lr]::
 12434::$$$message_0124_0024_0001$$$::[line2]Espera. Onde está a Rin, Shirou?"::
 12435::$$$message_0124_0025_0000$$$::...Como era de se esperar da Mestre do Berserker.[lr]::
 12436::$$$message_0124_0025_0001$$$::Ela sabe exatamente o que deve ou não ser ignorado.::
-12437::$$$message_0124_0026_0000$$$::"[line2]A Tohsaka não está mais aqui. Ela nos deixou para trás há um bom tempo."::
+12437::$$$message_0124_0026_0000$$$::"[line2]A Tohsaka não está mais aqui. Nós nos separamos faz tempo."::
 12438::$$$message_0124_0027_0000$$$::"Vocês se separaram? Ah sim, vocês devem ter sido um fardo para ela. Ela deve ser capaz de fugir mais rápido se estiver por conta própria."::
 12439::$$$message_0124_0028_0000$$$::"...Isso mesmo. Ela já deve ter saído da floresta a essa hora. Você não vai mais conseguir ir atrás dela."::
-12440::$$$message_0124_0029_0000$$$::"[line2]Será mesmo? Essa floresta é o campo de separação da família Einzbern.[lr]::
-12441::$$$message_0124_0029_0001$$$::Eu sei exatamente quem entra e quem sai. Até agora ninguém saiu. A Rin ainda está dentro da floresta, então eu posso ir atrás dela depois."::
+12440::$$$message_0124_0029_0000$$$::"[line2]Será mesmo? Esta floresta é o Campo Delimitado dos Einzbern.[lr]::
+12441::$$$message_0124_0029_0001$$$::Eu sei quem entra e quem sai. Desde então, não houve ninguém que saísse. A Rin ainda está dentro da floresta. Eu posso procurar por ela depois de acabar com você."::
 12442::$$$message_0124_0030_0000$$$::"[line5]"[lr]::
 12443::$$$message_0124_0030_0001$$$::...Ainda bem.[lr]::
 12444::$$$message_0124_0030_0002$$$::Se a Illya só consegue sentir quem passa pelas extremidades da floresta, ela não deve ter percebido que a Tohsaka também está aqui.[lr]::
-12445::$$$message_0124_0030_0003$$$::Aliás, ela acreditou em tudo o que eu disse.[lr]::
+12445::$$$message_0124_0030_0003$$$::Aliás, ela acreditou na minha história com muita facilidade.[lr]::
 12446::$$$message_0124_0030_0004$$$::...A Illya é sem dúvida uma Mestre de sangue frio.[lr]::
-12447::$$$message_0124_0030_0005$$$::Mas mesmo assim[line2]será que isso não pode ser revertido nela?::
+12447::$$$message_0124_0030_0005$$$::Mas, ainda assim[line2]será que essa não é uma crueldade que ainda pode ser corrigida?::
 12448::$$$message_0124_0031_0000$$$::"...Illya, eu vou te perguntar mais uma vez antes de lutarmos.[lr]::
-12449::$$$message_0124_0031_0001$$$::Você não pretende deixar de ser uma Mestre e sair dessa guerra?"::
+12449::$$$message_0124_0031_0001$$$::Você não pode deixar de ser Mestre e parar com essa guerra?"::
 12450::$$$message_0124_0032_0000$$$::"Eu não posso. São ordens do meu avô.[lr]::
 12451::$$$message_0124_0032_0001$$$::Contanto que eu ainda tenha o Berserker, eu serei a Mestre da família Einzbern. É meu dever matar os outros Mestres e trazer o Santo Graal de volta."::
 12452::$$$message_0124_0033_0000$$$::"...E além do mais, sou eu quem deveria estar te perguntando.[lr]::
-12453::$$$message_0124_0033_0001$$$::Eu sou a líder da família Einzbern, então não vou repetir o que disse antes... mas ainda posso te ouvir se você tiver mudado de ideia..."::
-12454::$$$message_0124_0034_0000$$$::...Ela demonstra um pouco de esperança em seu tom de voz.[lr]::
+12453::$$$message_0124_0033_0001$$$::Eu sou a líder da família Einzbern, não vou repetir o que disse antes... mas ainda posso te ouvir se você tiver mudado de ideia..."::
+12454::$$$message_0124_0034_0000$$$::...Havia um leve tom de esperança na voz dela[lr]::
 12455::$$$message_0124_0034_0001$$$::Mas enquanto eu estiver com a Saber do meu lado, não posso concordar com o que ela diz.::
 12456::$$$message_0124_0035_0000$$$::"[line2]Não vou mudar de ideia. Eu sou o Mestre da Saber.[lr]::
 12457::$$$message_0124_0035_0001$$$::Se você não vai deixar de ser uma Mestre, eu vou derrotar o Berserker e te obrigar a desistir."[lr]::
@@ -87,24 +87,24 @@ id=qid::label=str::text=lstr::
 12459::$$$message_0124_0035_0003$$$::Nesse mesmo instante.[lr]::
 12460::$$$message_0124_0035_0004$$$::O ar em volta da clareira congela.::
 12461::$$$message_0124_0036_0000$$$::"...Entendo. Nesse caso, eu vou te matar mesmo.[lr]::
-12462::$$$message_0124_0036_0001$$$::Vou tirar essa sua confiança e te fazer em pedaços, Shirou...!"::
+12462::$$$message_0124_0036_0001$$$::Vou te despedaçar junto com toda essa sua arrogância, Shirou...!"::
 12463::$$$message_0124_0037_0000$$$::"Quê[line2]?"[lr]::
 12464::$$$message_0124_0037_0001$$$::...Que coisa é essa?[lr]::
 12465::$$$message_0124_0037_0002$$$::Está aparecendo vários traços no rosto dela.[lr]::
 12466::$$$message_0124_0037_0003$$$::[line2]Não, não é apenas no rosto.[lr]::
 12467::$$$message_0124_0037_0004$$$::Essa coisa está espalhada pelo corpo inteiro[line2]é um Selo de Comando enorme, que nem se compara com os selos que nós temos.::
-12468::$$$message_0124_0038_0000$$$::"[line2]Chega de brincar. Enlouqueça, Hércules."[lr]::
+12468::$$$message_0124_0038_0000$$$::"[line2]A brincadeira acabou. Acabe com eles, Hércules"[lr]::
 12469::$$$message_0124_0038_0001$$$::Uma voz sem emoção.[lr]::
 12470::$$$message_0124_0038_0002$$$::E como se estivesse respondendo ao chamado, o gigante atrás dela começa a rugir.::
 12471::$$$message_0124_0039_0000$$$::"[wacky len=12]"[lr]::
 12472::$$$message_0124_0039_0001$$$::Um rugido que faz o chão tremer.[lr]::
-12473::$$$message_0124_0039_0002$$$::O gigante berra como se tivesse perdido a sanidade[line2]e todas as suas habilidades aumentam conforme o rugido fica mais alto e deformado.::
-12474::$$$message_0124_0040_0000$$$::"[line2]Não acredito... Nesse tempo todo você só estava tirando a racionalidade dele? Você não tinha usado ainda as habilidades da classe Berserker...!?"[lr]::
-12475::$$$message_0124_0040_0001$$$::É normal a Saber estar assustada.[lr]::
-12476::$$$message_0124_0040_0002$$$::Até mesmo eu, que não consigo medir a força de um Servo, sinto que nós não deveríamos ter mexido com ele.::
-12477::$$$message_0124_0041_0000$$$::"Vai...! Mate tudo que estiver à sua volta, Berserker...!"[lr]::
+12473::$$$message_0124_0039_0002$$$::O gigante berra como se tivesse perdido a sanidade[line2]e todas as suas habilidades crescem de forma monstruosa, como se o corpo dele inchasse em massas disformes.::
+12474::$$$message_0124_0040_0000$$$::"[line2]Não pode ser... Então, até agora, você só tinha tirado a racionalidade dele? Ainda nem o tinha levado à fúria da classe Berserker...!?"[lr]::
+12475::$$$message_0124_0040_0001$$$::Não é de se estranhar que a Saber esteja estremecendo.[lr]::
+12476::$$$message_0124_0040_0002$$$::Até eu, que não sou capaz de medir a força de um guerreiro, entendo que aquilo é uma monstruosidade da qual não se deve nem chegar perto.::
+12477::$$$message_0124_0041_0000$$$::"Vai...! Mate tudo o que estiver à sua volta, Berserker...!"[lr]::
 12478::$$$message_0124_0041_0001$$$::"[wacky len=12][line4]!!"[lr]::
-12479::$$$message_0124_0041_0002$$$::Um rugido explosivo.[lr]::
+12479::$$$message_0124_0041_0002$$$::Foi como uma explosão.[lr]::
 12480::$$$message_0124_0041_0003$$$::Seu rugido deixa de ser apenas um berro, e assim, o gigante pula direto para o combate.::
 12481::$$$message_0124_0042_0000$$$::"[line2]! Saber...!"[lr]::
 12482::$$$message_0124_0042_0001$$$::Uma luz prateada corre em frente como resposta.[lr]::
@@ -113,46 +113,47 @@ id=qid::label=str::text=lstr::
 12485::$$$message_0124_0043_0001$$$::A Saber ataca o Berserker como se tivesse impedido um meteoro de cair.::
 12486::$$$message_0124_0044_0000$$$::[line2]Esse é o retorno das lendas.::
 12487::$$$message_0124_0045_0000$$$::As duas sombras se colidem sem parar nessa floresta encoberta pela neblina.[lr]::
-12488::$$$message_0124_0045_0001$$$::O Berserker é simplesmente assustador.::
-12489::$$$message_0124_0046_0000$$$::Se o golpe dele na horizontal é um furacão, o golpe na vertical é uma cachoeira. Esses ataques podem ser fatais até mesmo para a Saber se ela recebê-los em cheio.::
-12490::$$$message_0124_0047_0000$$$::A Saber repele diretamente os ataques sem medo.[lr]::
-12491::$$$message_0124_0047_0001$$$::Ela desvia os golpes tempestuosos usando toda a sua força.::
-12492::$$$message_0124_0048_0000$$$::Se não fizer isso, ela vai ser cortada ao meio junto com a sua espada.[lr]::
-12493::$$$message_0124_0048_0001$$$::A troca de golpes que continua sem parar são na verdade ataques do Berserker que ela está fazendo de tudo para repelir.::
-12494::$$$message_0124_0049_0000$$$::O barulho de colisão não para.[lr]::
-12495::$$$message_0124_0049_0001$$$::O alcance deles é diferente.[lr]::
-12496::$$$message_0124_0049_0002$$$::A velocidade deles é diferente.[lr]::
-12497::$$$message_0124_0049_0003$$$::A força que eles ainda têm de sobra é diferente.::
-12498::$$$message_0124_0050_0000$$$::Tudo que a Saber pode fazer é colidir a sua espada com o golpe inevitável do Berserker, anular o ataque dele com o seu próprio e assim deixar de ser cortada em pedaços.::
-12499::$$$message_0124_0051_0000$$$::Imagine o Berserker como um perfurador de rochas que está fora de controle.[lr]::
-12500::$$$message_0124_0051_0001$$$::A lâmina que gira em todas as direções vai destruir tudo aquilo que estiver por perto.[lr]::
-12501::$$$message_0124_0051_0002$$$::Se alguém encostasse nessa lâmina nem que fosse por um segundo, já era.[lr]::
-12502::$$$message_0124_0051_0003$$$::Essa pessoa ficaria presa e seria cortada em pedaços sem ter a menor chance de escapar.::
-12503::$$$message_0124_0052_0000$$$::...Um ser humano normal nem poderia enfrentar uma coisa dessas.[lr]::
-12504::$$$message_0124_0052_0001$$$::Já que se aproximar é fatal, não há outra escolha a não ser fugir.[lr]::
-12505::$$$message_0124_0052_0002$$$::Mas mesmo assim, a Saber está enfrentando as lâminas sem recuar.::
-12506::$$$message_0124_0053_0000$$$::Se continuar assim, ela vai ser cortada aos poucos.[lr]::
-12507::$$$message_0124_0053_0001$$$::As espadas produzem faíscas, e é de se esperar que a sua armadura comece a se desfazer.[lr]::
-12508::$$$message_0124_0053_0002$$$::Ela está se colocando o tempo inteiro em situações que podem custar a própria vida.::
+12488::$$$message_0124_0045_0001$$$::O Berserker é simplesmente esmagador.::
+12489::$$$message_0124_0046_0000$$$::Se o golpe horizontal dele é um furacão, o golpe vertical é uma cachoeira despencando. Mesmo para a Saber, receber um ataque desses de frente seria fatal.::
+12490::$$$message_0124_0047_0000$$$::E, ainda assim, a Saber rebate esses golpes de frente, sem vacilar.[lr]::
+12491::$$$message_0124_0047_0001$$$::Diante daquela ofensiva que cai sobre ela como uma tempestade, ela responde com toda a força do corpo inteiro para desviar cada golpe.::
+12492::$$$message_0124_0048_0000$$$::Se não fizer isso, será cortada ao meio junto com a própria espada.[lr]::
+12493::$$$message_0124_0048_0001$$$::Naquela troca incessante de golpes, cada investida do Berserker exige da Saber um contra-ataque com toda a sua força.::
+12494::$$$message_0124_0049_0000$$$::O som dos choques de espada não para.[lr]::
+12495::$$$message_0124_0049_0001$$$::O alcance é diferente.[lr]::
+12496::$$$message_0124_0049_0002$$$::A velocidade é diferente.[lr]::
+12497::$$$message_0124_0049_0003$$$::A resistência restante é diferente demais.::
+12498::$$$message_0124_0050_0000$$$::Tudo o que a Saber pode fazer é bater a espada contra aqueles golpes inevitáveis, anulando parte da força deles, só para evitar ser cortada ao meio junto com a armadura.::
+12499::$$$message_0124_0051_0000$$$::Se fosse para comparar, o Berserker é como uma britadeira quebrada.[lr]::
+12500::$$$message_0124_0051_0001$$$::A lâmina girando em todas as direções destrói sem piedade tudo o que se aproxima.[lr]::
+12501::$$$message_0124_0051_0002$$$::Basta estender a mão um pouco demais para que tudo acabe.[lr]::
+12502::$$$message_0124_0051_0003$$$::Não haveria como escapar; a pessoa seria apanhada pela rotação da lâmina e reduzida a pedaços como cascalho.::
+12503::$$$message_0124_0052_0000$$$::...Nenhum ser humano normal poderia enfrentar uma coisa dessas.[lr]::
+12504::$$$message_0124_0052_0001$$$::Se se aproximar significa morrer, então o único caminho seria fugir.[lr]::
+12505::$$$message_0124_0052_0002$$$::Mas, ainda assim, a Saber avança para dentro daquele redemoinho sem recuar.::
+12506::$$$message_0124_0053_0000$$$::Se for assim, ela será desgastada aos poucos.[lr]::
+12507::$$$message_0124_0053_0001$$$::Faíscas saltam da espada, e fragmentos da armadura dela vão se desprendendo.[lr]::
+12508::$$$message_0124_0053_0002$$$::Ela está o tempo todo se colocando num turbilhão em que pode morrer no segundo seguinte.::
 12509::$$$message_0124_0054_0000$$$::"[line5]"[lr]::
-12510::$$$message_0124_0054_0001$$$::Eu prendo a respiração.[lr]::
-12511::$$$message_0124_0054_0002$$$::Nos tempos ancestrais...[lr]::
-12512::$$$message_0124_0054_0003$$$::Os heróis que enfrentavam dragões deveriam ser parecidos com ela.::
-12513::$$$message_0124_0055_0000$$$::Eles sabem muito bem que as suas forças são diferentes.[lr]::
-12514::$$$message_0124_0055_0001$$$::Mas mesmo assim, eles se arriscam esperando por aquela chance que só aparece uma vez na vida.::
-12515::$$$message_0124_0056_0000$$$::Uma violência que vai além da compreensão humana.[lr]::
-12516::$$$message_0124_0056_0001$$$::Eles ficam se defendendo até que aquela única abertura apareça[line2]e vários guerreiros morreram sem que esse milagre tivesse acontecido.[lr]::
-12517::$$$message_0124_0056_0002$$$::A luta entre os dois é basicamente isso.[lr]::
-12518::$$$message_0124_0056_0003$$$::Uma batalha deslumbrante que chama a atenção dos meus olhos, mas...[lr]::
+12510::$$$message_0124_0054_0001$$$::Eu apenas prendo a respiração.[lr]::
+12511::$$$message_0124_0054_0002$$$::Nos tempos antigos...[lr]::
+12512::$$$message_0124_0054_0003$$$::Os heróis que enfrentavam dragões, essas bestas mágicas, provavelmente eram todos assim. Como ela.::
+12513::$$$message_0124_0055_0000$$$::Eles sabem perfeitamente que a diferença de forças é enorme.[lr]::
+12514::$$$message_0124_0055_0001$$$::Mesmo assim, apostam tudo naquela oportunidade que talvez só apareça uma única vez.::
+12515::$$$message_0124_0056_0000$$$::Uma violência colossal que supera o ser humano.[lr]::
+12516::$$$message_0124_0056_0001$$$::Eles só conseguem se defender até surgir uma única brecha[line2]e muitos guerreiros morreram sem que esse milagre jamais acontecesse.[lr]::
+12517::$$$message_0124_0056_0002$$$::A luta entre os dois é exatamente isso.[lr]::
+12518::$$$message_0124_0056_0003$$$::É uma batalha tão deslumbrante que rouba o olhar. Mas...[lr]::
 12519::$$$message_0124_0056_0004$$$::Só tem como acabar na derrota da Saber, já que ela está ficando cada vez mais ferida[line2]::
 12520::$$$message_0124_0057_0000$$$::"[wacky len=12]"[lr]::
-12521::$$$message_0124_0057_0001$$$::O rugido faz o chão tremer.[lr]::
-12522::$$$message_0124_0057_0002$$$::O furacão do Berserker atravessa o ar e arremessa a Saber para longe.[lr]::
-12523::$$$message_0124_0057_0003$$$::A armadura da Saber vai se desgastando com cada ataque, pois ela acaba atingindo o chão[line2]ela corajosamente corre até o Berserker sem cair de joelhos.::
-12524::$$$message_0124_0058_0000$$$::...Mas ela já está chegando no seu limite.[lr]::
+12521::$$$message_0124_0057_0001$$$::O rugido faz a terra tremer.[lr]::
+12522::$$$message_0124_0057_0002$$$::O redemoinho do Berserker corta o ar e arremessa para longe a Saber, que tenta apará-lo.[lr]::
+12523::$$$message_0124_0057_0003$$$::A cada vez, a armadura da Saber se despedaça um pouco mais e ela quase é atirada contra o chão[line2]mas, sem sequer cair de joelhos, investe bravamente de novo contra o Berserker.::
+12524::$$$message_0124_0058_0000$$$::...Mas ela já chegou ao limite.[lr]::
 12525::$$$message_0124_0058_0001$$$::A Saber está com dificuldade para respirar, e até eu consigo perceber que os seus movimentos estão ficando mais lentos.[lr]::
 12526::$$$message_0124_0058_0002$$$::Ela nem está tentando criar uma abertura no Berserker.[lr]::
 12527::$$$message_0124_0058_0003$$$::A Saber vai ser cortada por ele daqui a alguns golpes[line2]::
 12528::$$$message_0124_0059_0000$$$::"[line5]!"[lr]::
 12529::$$$message_0124_0059_0001$$$::Estou segurando um arco em meu punho fechado.[lr]::
-12530::$$$message_0124_0059_0002$$$::I'm going to...![lr]�P�o
+12530::$$$message_0124_0059_0002$$$::Eu vou...![lr]::[lr]
+

@@ -11,8 +11,8 @@ id=qid::label=str::text=lstr::
 12565::$$$message_0127_0001_0003$$$::Eu não consigo proteger a Saber e nem lutar ao lado dela.[lr]::
 12566::$$$message_0127_0001_0004$$$::Eu não posso fazer nada para ajudar.[lr]::
 12567::$$$message_0127_0001_0005$$$::A não ser[line2]::
-12568::$$$message_0127_0002_0000$$$::"[line2]Nesse caso, pelo menos imagine.[lr]::
-12569::$$$message_0127_0002_0001$$$::Afinal, isso é tudo o que você pode fazer."::
+12568::$$$message_0127_0002_0000$$$::"[line2]Nesse caso, apenas imagine.[lr]::
+12569::$$$message_0127_0002_0001$$$::AAfinal, é tudo que você pode fazer."::
 12570::$$$message_0127_0003_0000$$$::"[line5]"[lr]::
 12571::$$$message_0127_0003_0001$$$::Foi isso o que aquele cara me disse.::
 12572::$$$message_0127_0004_0000$$$::[line2]Inimigos externos são desnecessários. A única pessoa com quem você deve lutar é contra o seu próprio reflexo.::
@@ -35,11 +35,11 @@ id=qid::label=str::text=lstr::
 12589::$$$message_0127_0009_0003$$$::É mesmo.[lr]::
 12590::$$$message_0127_0009_0004$$$::Do que eu preciso para poder salvar a Saber?::
 12591::$$$message_0127_0010_0000$$$::Um arco não vai dar conta. Nem mesmo uma lança vai conseguir perfurá-lo. E isso também não significa que eu deveria ter a mesma arma que o inimigo.[lr]::
-12592::$$$message_0127_0010_0001$$$::Aquele gigante...[lr]::
-12593::$$$message_0127_0010_0002$$$::Se eu quiser derrotar aquela montanha, vou precisar de uma espada.[lr]::
-12594::$$$message_0127_0010_0003$$$::Uma espada bela e afiada de um rei que vai derrotar o inimigo com apenas um golpe.[lr]::
+12592::$$$message_0127_0010_0001$$$::Para enfrentar aquele gigante...[lr]::
+12593::$$$message_0127_0010_0002$$$::...Uma espada capaz de cortar uma montanha de pedra.[lr]::
+12594::$$$message_0127_0010_0003$$$::Uma espada magnífica... mais afiada que qualquer coisa... que nunca perde o fio... a espada de um rei, capaz de derrubar um inimigo com um único golpe...[lr]::
 12595::$$$message_0127_0010_0004$$$::Como por exemplo...[lr]::
-12596::$$$message_0127_0010_0005$$$::Aquela espada dourada que eu vi nos meus sonhos, que se encaixa perfeitamente com ela.::
+12596::$$$message_0127_0010_0005$$$::...Aquela espada dourada que vi no meu sonho... uma espada digna dela.::
 12597::$$$message_0127_0011_0000$$$::"Ku[line2]"[lr]::
 12598::$$$message_0127_0011_0001$$$::[line2]A minha cabeça dói.[lr]::
 12599::$$$message_0127_0011_0002$$$::Suportando o meu enjôo, eu ainda olho diretamente para a Saber.[lr]::
@@ -49,8 +49,8 @@ id=qid::label=str::text=lstr::
 12603::$$$message_0127_0011_0006$$$::Tossindo, a Saber se contorce de dor por um instante.[lr]::
 12604::$$$message_0127_0011_0007$$$::O Berserker esmaga a sua espada em forma de machado com toda a sua fúria.[lr]::
 12605::$$$message_0127_0011_0008$$$::Como se estivesse traçando uma linha, os martelos estão se posicionando um a um.[lr]::
-12606::$$$message_0127_0011_0009$$$::Como se estivesse derrubando dominós[line2][lr]::
-12607::$$$message_0127_0011_0010$$$::Os gatilhos são puxados todos de uma vez.::
+12606::$$$message_0127_0011_0009$$$::Como peças de dominó caindo...[lr]::
+12607::$$$message_0127_0011_0010$$$::De uma vez só, o gatilho é puxado.::
 12608::$$$message_0127_0012_0000$$$::"Saber...!"[lr]::
 12609::$$$message_0127_0012_0001$$$::O ataque do Berserker arremessa a Saber para longe.[lr]::
 12610::$$$message_0127_0012_0002$$$::Foi um golpe fatal.[lr]::
@@ -64,188 +64,188 @@ id=qid::label=str::text=lstr::
 12618::$$$message_0127_0014_0002$$$::Mas ele não pode se afastar da Saber, que está bem na sua frente.[lr]::
 12619::$$$message_0127_0014_0003$$$::Ela posiciona ambas as mãos em sua espada e corta o Berserker com toda a sua força[line2]!::
 12620::$$$message_0127_0015_0000$$$::"[wacky len=12]"[lr]::
-12621::$$$message_0127_0015_0001$$$::[line2]Eu não acredito.[lr]::
-12622::$$$message_0127_0015_0002$$$::O gigante que parecia estar preso no chão é arremessado a alguns metros por conta do ataque da Saber.::
+12621::$$$message_0127_0015_0001$$$::Não acredito nisso.[lr]::
+12622::$$$message_0127_0015_0002$$$::O ataque da Saber acerta em cheio, e o gigante, que parecia imóvel, é lançado vários metros para trás.::
 12623::$$$message_0127_0016_0000$$$::E então...[lr]::
-12624::$$$message_0127_0016_0001$$$::"Saber, se afasta...!"[lr]::
-12625::$$$message_0127_0016_0002$$$::O verdadeiro ataque final é executado no mesmo instante.::
-12626::$$$message_0127_0017_0000$$$::[line2]Ela deve querer dispará-las o mais perto possível.[lr]::
-12627::$$$message_0127_0017_0001$$$::A Tohsaka salta do galho de árvore e arremessa as suas joias enquanto ainda está caindo[line2]::
-12628::$$$message_0127_0017_0002$$$::"Neun, acht, sieben[line2]![lr]::
-12629::$$$message_0127_0017_0003$$$::Stil, schie[szlig]t Erschie[szlig]ung[line2]!"::
-12630::$$$message_0127_0017_0004$$$::Uma chuva de gelo é disparada.[lr]::
-12631::$$$message_0127_0017_0005$$$::Dentro dela, três pingentes de gelo gigantes e afiados como lanças têm energia mágica o suficiente para explodir uma mansão inteira[line2]!::
-12632::$$$message_0127_0018_0000$$$::"Não, sai daí, Berserker...!"[lr]::
-12633::$$$message_0127_0018_0001$$$::A Illya, que até agora só estava observando, começa a gritar.[lr]::
-12634::$$$message_0127_0018_0002$$$::Ela deve ter percebido que o ataque é perigoso, mas agora é tarde demais.[lr]::
-12635::$$$message_0127_0018_0003$$$::A lança de gelo não está apenas caindo.[lr]::
-12636::$$$message_0127_0018_0004$$$::Por ter sido disparada, ela está acelerando para poder atravessar o Berserker.::
-12637::$$$message_0127_0019_0000$$$::Não tem como ele se esquivar.[lr]::
-12638::$$$message_0127_0019_0001$$$::Uma chance que só aparece uma vez na vida. Uma espingarda de gelo que foi coordenada perfeitamente com o ataque desesperado da Saber.[lr]::
-12639::$$$message_0127_0019_0002$$$::Ele tem energia mágica mais do que o suficiente para matar o Berserker[line2]!::
-12640::$$$message_0127_0020_0000$$$::Porém.[lr]::
-12641::$$$message_0127_0020_0001$$$::"[wacky len=3], [wacky len=9][line2]!!!!!"[lr]::
-12642::$$$message_0127_0020_0002$$$::Ele balança a sua espada em forma de machado pelo ar.[lr]::
-12643::$$$message_0127_0020_0003$$$::Mesmo depois de ter sido arremessado pela Saber, ele consegue destruir três blocos de gelo rapidamente.::
-12644::$$$message_0127_0021_0000$$$::[line2]Sangue é derramado.[lr]::
-12645::$$$message_0127_0021_0001$$$::Talvez por ele ter balançado com apenas uma das mãos, o gelo não foi completamente destruído e o seu braço é perfurado.[lr]::
-12646::$$$message_0127_0021_0002$$$::E além disso...[lr]::
-12647::$$$message_0127_0021_0003$$$::O gelo congela o braço do gigante e faz com que ele pare de se mexer completamente.::
-12648::$$$message_0127_0022_0000$$$::Mas mesmo assim, o gelo atingiu apenas um de seus braços.[lr]::
-12649::$$$message_0127_0022_0001$$$::"Quê[line2]?"[lr]::
-12650::$$$message_0127_0022_0002$$$::A Saber levanta a sua voz.[lr]::
-12651::$$$message_0127_0022_0003$$$::[line2]Isso é normal.[lr]::
-12652::$$$message_0127_0022_0004$$$::Porque o outro braço do Berserker agarrou o corpo da Tohsaka enquanto ela estava caindo.::
-12653::$$$message_0127_0023_0000$$$::"...!"[lr]::
-12654::$$$message_0127_0023_0001$$$::O rosto da Tohsaka se contorce de dor.[lr]::
-12655::$$$message_0127_0023_0002$$$::Considerando a força do Berserker, deve ser fácil para ele esmagar a Tohsaka.::
-12656::$$$message_0127_0024_0000$$$::"T-Tohsaka[line2]!!!"[lr]::
-12657::$$$message_0127_0024_0001$$$::Eu começo a correr.[lr]::
-12658::$$$message_0127_0024_0002$$$::Eu não ligo se estou apenas atrapalhando.[lr]::
-12659::$$$message_0127_0024_0003$$$::Eu não ligo se não consigo fazer nada.[lr]::
-12660::$$$message_0127_0024_0004$$$::Eu só sei que não vou deixá-lo esmagar a Tohsaka[line2]!::
-12661::$$$message_0127_0025_0000$$$::"Rin...!"[lr]::
-12662::$$$message_0127_0025_0001$$$::A Saber não deve ter mais forças nem para ficar de pé, mas ela mesmo assim ergue o seu corpo.[lr]::
-12663::$$$message_0127_0025_0002$$$::"......"[lr]::
-12664::$$$message_0127_0025_0003$$$::A Tohsaka deve estar sentindo dor, já que ela está com um rosto virado para baixo.::
-12665::$$$message_0127_0025_0004$$$::[line2]E então.::
-12666::$$$message_0127_0026_0000$$$::"[line2]Heh. Como eu imaginei."[lr]::
-12667::$$$message_0127_0026_0001$$$::Ela sorri e diz isso com coragem.::
-12668::$$$message_0127_0027_0000$$$::"...!"[lr]::
-12669::$$$message_0127_0027_0001$$$::Todo mundo suspira.[lr]::
-12670::$$$message_0127_0027_0002$$$::Eu, a Saber, e até mesmo o Berserker devem estar paralisados.[lr]::
-12671::$$$message_0127_0027_0003$$$::[line2]Como ela é cruel.[lr]::
-12672::$$$message_0127_0027_0004$$$::Ela já sabia que isso iria acontecer e mesmo assim não nos disse nada[line2]!::
-12673::$$$message_0127_0028_0000$$$::"[wacky len=12][line2]!"[lr]::
-12674::$$$message_0127_0028_0001$$$::O Berserker põe força em sua pegada.[lr]::
-12675::$$$message_0127_0028_0002$$$::Mas ele está atrasado em um segundo.[lr]::
-12676::$$$message_0127_0028_0003$$$::"Te peguei...!"::
-12677::$$$message_0127_0029_0000$$$::Ela dispara projéteis de luz.[lr]::
-12678::$$$message_0127_0029_0001$$$::Quatro joias foram usadas.[lr]::
-12679::$$$message_0127_0029_0002$$$::O disparo rápido feito à queima-roupa mata o guerreiro enfurecido, dessa vez para valer.::
-12680::$$$message_0127_0030_0000$$$::Ou melhor dizendo.[lr]::
-12681::$$$message_0127_0030_0001$$$::Ele tirou a vida do Berserker de forma esplêndida e impecável.::
-12682::$$$message_0127_0031_0000$$$::Será que a cabeça do Berserker foi arrancada?[lr]::
-12683::$$$message_0127_0031_0001$$$::Sangue é jorrado para cima de mim, e isso porque eu estou há pelo menos dez metros de distância.::
-12684::$$$message_0127_0032_0000$$$::...Uh, isso era o fluido espinhal dele?[lr]::
-12685::$$$message_0127_0032_0001$$$::Eu não consigo ficar muito feliz quando há outras substâncias misturadas com o sangue.[lr]::
-12686::$$$message_0127_0032_0002$$$::...Mas eu tenho certeza de que esse ataque não foi um exagero.[lr]::
-12687::$$$message_0127_0033_0000$$$::"[line2]Ufa."[lr]::
-12688::$$$message_0127_0033_0001$$$::Eu paro de correr até eles.[lr]::
-12689::$$$message_0127_0033_0002$$$::A Tohsaka ainda está sendo segurada pelo Berserker, mas agora a batalha já terminou.[lr]::
-12690::$$$message_0127_0033_0003$$$::O rosto do Berserker ainda está coberto pela fumaça branca.[lr]::
-12691::$$$message_0127_0033_0004$$$::Pelo som das chamas queimando, essa deve ter sido uma explosão [r]enorme[line2]::
-12692::$$$message_0127_0034_0000$$$::"[line2]Não é possível."[lr]::
-12693::$$$message_0127_0034_0001$$$::Eu ouço a voz da Tohsaka.[lr]::
-12694::$$$message_0127_0034_0002$$$::Ela está olhando diretamente para a fumaça branca, sem acreditar no que está vendo.::
-12695::$$$message_0127_0035_0000$$$::[line2]Espera um pouco.[lr]::
-12696::$$$message_0127_0035_0001$$$::Será que... é só a minha imaginação?[lr]::
-12697::$$$message_0127_0035_0002$$$::Ou os dedos do Berserker estão apertando ainda mais a Tohsaka?::
-12698::$$$message_0127_0036_0000$$$::"[line5]"[lr]::
-12699::$$$message_0127_0036_0001$$$::A Tohsaka está olhando para a fumaça branca.[lr]::
-12700::$$$message_0127_0036_0002$$$::...Mas ela não dura por muito tempo.[lr]::
-12701::$$$message_0127_0036_0003$$$::A nuvem de fumaça branca se desfaz.[lr]::
-12702::$$$message_0127_0036_0004$$$::E dentro dela...[lr]::
-12703::$$$message_0127_0036_0005$$$::...Está o rosto do Berserker, mesmo que ele tenha sido arrancado de seu corpo.::
-12704::$$$message_0127_0037_0000$$$::"[line2]Ah."[lr]::
-12705::$$$message_0127_0037_0001$$$::A Tohsaka está sem palavras, intimidada pelo olhar demoníaco.[lr]::
-12706::$$$message_0127_0037_0002$$$::"...Fufu. Ufufu. Ahahahahahahaha!"[lr]::
-12707::$$$message_0127_0037_0003$$$::Uma risada se espalha pela clareira.[lr]::
-12708::$$$message_0127_0037_0004$$$::A Mestre prateada que controla o Berserker do canto da clareira está rindo.::
-12709::$$$message_0127_0038_0000$$$::"Agora eu te respeito um pouco mais, Rin. Por você ter conseguido tirar uma das vidas do Berserker.[lr]::
-12710::$$$message_0127_0038_0001$$$::Mas infelizmente o Berserker não vai desaparecer só com isso. O corpo dele só vai sumir se ele for morto doze vezes."::
-12711::$$$message_0127_0039_0000$$$::"...Morto... doze vezes...?"[lr]::
-12712::$$$message_0127_0039_0001$$$::Ela deve ter percebido algo importante pelo o que a Illya acabou de dizer.[lr]::
-12713::$$$message_0127_0039_0002$$$::Os olhos da Tohsaka demonstram arrependimento.::
-12714::$$$message_0127_0040_0000$$$::"...Entendo.[lr]::
-12715::$$$message_0127_0040_0001$$$::Eu deveria ter pensado nisso assim que descobri o nome verdadeiro dele. O Hércules deveria ter o Arco de Hidra, mas ele só estava usando uma rocha para atacar.[lr]::
-12716::$$$message_0127_0040_0002$$$::...Ou seja, o Fantasma Nobre dele não é uma arma. O símbolo do herói Hércules é[line2]"::
-12717::$$$message_0127_0041_0000$$$::"Isso mesmo, o próprio corpo dele é um Fantasma Nobre.[lr]::
-12718::$$$message_0127_0041_0001$$$::Você já deve ter ouvido falar sobre os doze trabalhos de Hércules. O herói grego Hércules completou as doze tarefas para poder pagar pelos seus pecados e se tornou 'imortal' como recompensa.[lr]::
+12624::$$$message_0127_0016_0001$$$::"Afasta, Saber!"[lr]::
+12625::$$$message_0127_0016_0002$$$::Então vem o verdadeiro ataque.::
+12626::$$$message_0127_0017_0000$$$::Ela deve estar tentando liberar o golpe à queima-roupa.[lr]::
+12627::$$$message_0127_0017_0001$$$::Tohsaka salta do galho acima e, enquanto cai, arremessa suas joias contra Berserker...::
+12628::$$$message_0127_0017_0002$$$::"Neun, acht, sieben...![lr]::
+12629::$$$message_0127_0017_0003$$$::Stil, schießt Erschießung!::
+12630::$$$message_0127_0017_0004$$$::Fragmentos de gelo caem sobre Berserker.[lr]::
+12631::$$$message_0127_0017_0005$$$::Entre eles, há três enormes lanças de gelo, cada uma com energia mágica suficiente para destruir uma mansão inteira!::
+12632::$$$message_0127_0018_0000$$$::"Não, desvia, Berserker!"[lr]::
+12633::$$$message_0127_0018_0001$$$::Illya, até então em silêncio, grita para seu Servo.[lr]::
+12634::$$$message_0127_0018_0002$$$::Ela deve ter percebido o perigo — mas já é tarde.[lr]::
+12635::$$$message_0127_0018_0003$$$::As lanças de gelo não estão caindo.[lr]::
+12636::$$$message_0127_0018_0004$$$::Elas estão acelerando em direção ao Berserker.::
+12637::$$$message_0127_0019_0000$$$::Não tem como desviar.[lr]::
+12638::$$$message_0127_0019_0001$$$::Uma oportunidade única... o ataque desesperado da Saber perfeitamente sincronizado com as balas de gelo.[lr]::
+12639::$$$message_0127_0019_0002$$$::Há energia mágica mais do que suficiente para matar Berserker.::
+12640::$$$message_0127_0020_0000$$$::Mas...[lr]::
+12641::$$$message_0127_0020_0001$$$::[wacky len=3] [wacky len=9]!!![lr]::
+12642::$$$message_0127_0020_0002$$$::A espada do gigante corta o ar.[lr]::
+12643::$$$message_0127_0020_0003$$$::Mesmo sendo empurrado pela Saber, ele muda a empunhadura para uma mão e destrói as três lanças de gelo.::
+12644::$$$message_0127_0021_0000$$$::Sangue espirra pela clareira.[lr]::
+12645::$$$message_0127_0021_0001$$$::Talvez por ter usado apenas um braço, ele não consegue destruir completamente o gelo, e, ao ser atingido, perde um dos braços.[lr]::
+12646::$$$message_0127_0021_0002$$$::E não para por aí.[lr]::
+12647::$$$message_0127_0021_0003$$$::O gelo se espalha pelo braço de Berserker, congelando-o completamente.::
+12648::$$$message_0127_0022_0000$$$::Mas isso só levou um braço.[lr]::
+12649::$$$message_0127_0022_0001$$$::"O quê...!?"[lr]::
+12650::$$$message_0127_0022_0002$$$::Saber exclama.[lr]::
+12651::$$$message_0127_0022_0003$$$::É uma reação natural.[lr]::
+12652::$$$message_0127_0022_0004$$$::Berserker agarra Tohsaka com o braço que ainda está livre enquanto ela cai.::
+12653::$$$message_0127_0023_0000$$$::"Guh...!"[lr]::
+12654::$$$message_0127_0023_0001$$$::O rosto de Tohsaka se contorce de dor.[lr]::
+12655::$$$message_0127_0023_0002$$$::Berserker não terá dificuldade alguma em esmagá-la com a mão.::
+12656::$$$message_0127_0024_0000$$$::"T-TOHSAKA!!!"[lr]::
+12657::$$$message_0127_0024_0001$$$::Eu corro.[lr]::
+12658::$$$message_0127_0024_0002$$$::Não importa se eu só atrapalhar.[lr]::
+12659::$$$message_0127_0024_0003$$$::Não importa se eu não posso fazer nada.[lr]::
+12660::$$$message_0127_0024_0004$$$::Eu não vou deixar a Tohsaka morrer!::
+12661::$$$message_0127_0025_0000$$$::"Rin!"[lr]::
+12662::$$$message_0127_0025_0001$$$::Saber deve estar fraca demais até para ficar de pé, mas mesmo assim consegue se levantar.[lr]::
+12663::$$$message_0127_0025_0002$$$::"..."[lr]::
+12664::$$$message_0127_0025_0003$$$::Tohsaka deve estar com uma dor insuportável, mas ainda assim estende a mão, com a cabeça baixa.[lr]::
+12665::$$$message_0127_0025_0004$$$::E então...::
+12666::$$$message_0127_0026_0000$$$::"Heh. Como eu pensei."[lr]::
+12667::$$$message_0127_0026_0001$$$::Ela sorri de forma provocativa.::
+12668::$$$message_0127_0027_0000$$$::"Gh!?"[lr]::
+12669::$$$message_0127_0027_0001$$$::Todos prendem a respiração.[lr]::
+12670::$$$message_0127_0027_0002$$$::Saber, eu, até mesmo Berserker, ficamos imóveis por um instante.[lr]::
+12671::$$$message_0127_0027_0003$$$::Uma pessoa só pode esconder tantos truques assim.[lr]::
+12672::$$$message_0127_0027_0004$$$::Ela já esperava por isso, e nem se deu ao trabalho de nos avisar!::
+12673::$$$message_0127_0028_0000$$$::[wacky len=12]![lr]::
+12674::$$$message_0127_0028_0001$$$::Berserker aperta ainda mais o punho ao redor dela.[lr]::
+12675::$$$message_0127_0028_0002$$$::Mas ele está um segundo atrasado.[lr]::
+12676::$$$message_0127_0028_0003$$$::"Te peguei!"::
+12677::$$$message_0127_0029_0000$$$::Quatro projéteis de luz disparam em direção a Berserker.[lr]::
+12678::$$$message_0127_0029_0001$$$::Quatro tiros. Quatro joias.[lr]::
+12679::$$$message_0127_0029_0002$$$::Quatro disparos à queima-roupa... isso deve ser suficiente para acabar com o guerreiro enlouquecido.::
+12680::$$$message_0127_0030_0000$$$::Ou melhor...[lr]::
+12681::$$$message_0127_0030_0001$$$::O ataque apaga completamente a vida dele.::
+12682::$$$message_0127_0031_0000$$$::A cabeça de Berserker deve ter sido completamente destruída.[lr]::
+12683::$$$message_0127_0031_0001$$$::O sangue chega até mim, mesmo a dez metros de distância.::
+12684::$$$message_0127_0032_0000$$$::Há... muito mais do que só sangue ali, mas não acho que ela exagerou.[lr]::
+12685::$$$message_0127_0032_0001$$$::Nosso oponente era um monstro.[lr]::
+12686::$$$message_0127_0032_0002$$$::Se ela não tivesse destruído a cabeça dele, Berserker teria esmagado Tohsaka.::
+12687::$$$message_0127_0033_0000$$$::"Ufa..."[lr]::
+12688::$$$message_0127_0033_0001$$$::Eu desacelero meus passos desesperados.[lr]::
+12689::$$$message_0127_0033_0002$$$::Tohsaka ainda está presa na mão de Berserker, mas a luta acabou.[lr]::
+12690::$$$message_0127_0033_0003$$$::O rosto de Berserker ainda está coberto por fumaça.[lr]::
+12691::$$$message_0127_0033_0004$$$::Pelo som crepitante, deve ter sido uma explosão e tanto...[lr]::
+12692::$$$message_0127_0034_0000$$$::"Não é possível."[lr]::
+12693::$$$message_0127_0034_0001$$$::Ouço a voz da Tohsaka.[lr]::
+12694::$$$message_0127_0034_0002$$$::Ela encara a fumaça, incrédula.::
+12695::$$$message_0127_0035_0000$$$::Espera...[lr]::
+12696::$$$message_0127_0035_0001$$$::Estou vendo coisas?[lr]::
+12697::$$$message_0127_0035_0002$$$::A mão do Berserker apertou mais forte a Tohsaka?::
+12698::$$$message_0127_0036_0000$$$::...[lr]::
+12699::$$$message_0127_0036_0001$$$::Tohsaka encara a fumaça.[lr]::
+12700::$$$message_0127_0036_0002$$$::Não dura muito.[lr]::
+12701::$$$message_0127_0036_0003$$$::A fumaça começa a se dissipar.[lr]::
+12702::$$$message_0127_0036_0004$$$::E, quando o ar se limpa...[lr]::
+12703::$$$message_0127_0036_0005$$$::...o rosto do Berserker — que deveria ter sido destruído — aparece.::
+12704::$$$message_0127_0037_0000$$$::"Ah..."[lr]::
+12705::$$$message_0127_0037_0001$$$::Diante daquele olhar demoníaco, Tohsaka fica sem palavras.[lr]::
+12706::$$$message_0127_0037_0002$$$::"Fufu. Ufufu. Ahahahaha!"[lr]::
+12707::$$$message_0127_0037_0003$$$::O riso ecoa pela clareira.[lr]::
+12708::$$$message_0127_0037_0004$$$::Illya, que permaneceu ao fundo, ri com satisfação.::
+12709::$$$message_0127_0038_0000$$$::"Estou impressionada, Rin. Não achei que você conseguiria matar o Berserker nem uma vez.[lr]::
+12710::$$$message_0127_0038_0001$$$::Mas que pena. Berserker não desaparece tão facilmente. Veja, ele só morre depois de ser morto doze vezes."::
+12711::$$$message_0127_0039_0000$$$::"Morto... doze vezes?"[lr]::
+12712::$$$message_0127_0039_0001$$$::Ela deve ter percebido algo com o que Illya disse.[lr]::
+12713::$$$message_0127_0039_0002$$$::O rosto de Tohsaka se distorce em choque e frustração.::
+12714::$$$message_0127_0040_0000$$$::"Eu... entendi.[lr]::
+12715::$$$message_0127_0040_0001$$$::Eu devia ter percebido assim que soube o Verdadeiro Nome. Heracles deveria ter o arco da Hidra, mas tudo o que ele usa é uma pedra.[lr]::
+12716::$$$message_0127_0040_0002$$$::O Noble Phantasm dele não é algo que ele carrega. O símbolo do herói Heracles é..."::
+12717::$$$message_0127_0041_0000$$$::"Isso mesmo. O próprio corpo dele é o Noble Phantasm.[lr]::
+12718::$$$message_0127_0041_0001$$$::Você conhece os doze trabalhos de Heracles. O herói grego superou doze provas para expiar seus pecados, e sua recompensa foi a imortalidade.[lr]::
 12719::$$$message_0127_0041_0002$$$::Você sabe o que isso significa, não sabe?"[lr]::
-12720::$$$message_0127_0041_0003$$$::"...Um estoque de vidas... várias camadas de magia de ressurreição, huh?"::
-12721::$$$message_0127_0042_0000$$$::"Sim. É por isso que ele não pode morrer tão fácil assim. Ele tem o mesmo número de vidas que os trabalhos que realizou, a maldição da imortalidade.[lr]::
-12722::$$$message_0127_0042_0001$$$::Esse é o Fantasma Nobre do Berserker: a Mão de Deus."::
-12723::$$$message_0127_0043_0000$$$::"Entendeu agora? O seu ataque realmente matou o Berserker, mas ele ainda tem mais cinco vidas de reserva.[lr]::
-12724::$$$message_0127_0043_0001$$$::Fufu, sinto muito Rin. O Berserker teria desaparecido se você tivesse usado cinco vezes a quantidade de joias que você acabou de disparar."::
-12725::$$$message_0127_0044_0000$$$::Eu não consigo ouvir muito bem o que a Illya está dizendo.[lr]::
-12726::$$$message_0127_0044_0001$$$::Estou vendo no canto do meu olho a Saber correndo até o Berserker.::
-12727::$$$message_0127_0045_0000$$$::"[line2]Rin, fuja!"[lr]::
-12728::$$$message_0127_0045_0001$$$::A Saber corre até ela.[lr]::
-12729::$$$message_0127_0045_0002$$$::A Tohsaka tenta se livrar dos dedos do Berserker, mas eles nem se mexem.[lr]::
+12720::$$$message_0127_0041_0003$$$::"Uma reserva de vidas... camadas de magia de ressurreição."::
+12721::$$$message_0127_0042_0000$$$::"Isso mesmo. É por isso que ele não pode morrer facilmente. Ele carrega a maldição da imortalidade concedida pelos deuses — para suportar o mesmo número de mortes que já superou.[lr]::
+12722::$$$message_0127_0042_0001$$$::Esse é o Noble Phantasm do meu Berserker: Mão de Deus."::
+12723::$$$message_0127_0043_0000$$$::"Entendeu? Você matou o Berserker agora, mas ele ainda tem cinco vidas restantes.[lr]::
+12724::$$$message_0127_0043_0001$$$::Fufu. Foi por pouco, Rin. Se tivesse usado cinco vezes mais joias, ele teria desaparecido."::
+12725::$$$message_0127_0044_0000$$$::Eu não consigo ouvir claramente a voz da Illya.[lr]::
+12726::$$$message_0127_0044_0001$$$::No canto da minha visão, vejo Saber avançando contra Berserker.::
+12727::$$$message_0127_0045_0000$$$::"Rin, corre!"[lr]::
+12728::$$$message_0127_0045_0001$$$::Saber dispara em direção a eles.[lr]::
+12729::$$$message_0127_0045_0002$$$::Tohsaka tenta soltar os dedos de Berserker, mas não consegue.[lr]::
 12730::$$$message_0127_0045_0003$$$::E então...::
-12731::$$$message_0127_0046_0000$$$::"Muito bem, Berserker. Pode esmagá-la."::
-12732::$$$message_0127_0047_0000$$$::Os olhos flamejantes encaram a Tohsaka.[lr]::
-12733::$$$message_0127_0047_0001$$$::"Ahh[line2]kua...!"[lr]::
-12734::$$$message_0127_0047_0002$$$::A Tohsaka grita.[lr]::
-12735::$$$message_0127_0047_0003$$$::Os dedos do gigante apertam a Tohsaka como se estivessem tentando arrancar o seu intestino.[lr]::
-12736::$$$message_0127_0047_0004$$$::O que vai acontecer em seguida é[r]::
-12737::$$$message_0127_0047_0005$$$::a inevitável imagem dela sendo completamente esmagada.::
-12738::$$$message_0127_0048_0000$$$::"[line5]"[lr]::
+12731::$$$message_0127_0046_0000$$$::"Tudo bem, Berserker. Esmaga ela."::
+12732::$$$message_0127_0047_0000$$$::Os olhos ardentes encaram Tohsaka.[lr]::
+12733::$$$message_0127_0047_0001$$$::"Ah... KYAAAAAAAAAAAAHHH!"[lr]::
+12734::$$$message_0127_0047_0002$$$::Tohsaka grita.[lr]::
+12735::$$$message_0127_0047_0003$$$::Os dedos enormes de Berserker afundam em seu corpo, como se fossem arrancar suas entranhas.[lr]::
+12736::$$$message_0127_0047_0004$$$::Só há um desfecho...[lr]::
+12737::$$$message_0127_0047_0005$$$::...o corpo sem vida de Tohsaka sendo esmagado.::
+12738::$$$message_0127_0048_0000$$$::...[lr]::
 12739::$$$message_0127_0048_0001$$$::Eu corro.[lr]::
-12740::$$$message_0127_0048_0002$$$::Eu me esqueço de onde estou ou contra quem estou lutando.[lr]::
-12741::$$$message_0127_0048_0003$$$::A minha mente já está acelerada.::
-12742::$$$message_0127_0049_0000$$$::"[line2]Não vou deixar...!!"[lr]::
-12743::$$$message_0127_0049_0001$$$::A Saber corta o Berserker.[lr]::
-12744::$$$message_0127_0049_0002$$$::A espada invisível é erguida no braço desprotegido do Berserker como se ela estivesse cortando um vegetal.[lr]::
-12745::$$$message_0127_0049_0003$$$::Mas o ataque não surte efeito.::
-12746::$$$message_0127_0050_0000$$$::A espada é ricocheteada de volta. Ela não apenas não fere o braço do Berserker, como também nem mesmo afrouxa a pegada do braço dele na Tohsaka.[lr]::
-12747::$$$message_0127_0050_0001$$$::"[line2]!"[lr]::
-12748::$$$message_0127_0050_0002$$$::Deve ser doloroso para ela até mesmo se mexer.[lr]::
-12749::$$$message_0127_0050_0003$$$::A Saber balança a sua espada em desespero enquanto derrama sangue pela boca.::
-12750::$$$message_0127_0051_0000$$$::"Quê[line2]Shirou...!?"[lr]::
+12740::$$$message_0127_0048_0002$$$::Esqueço contra quem estou lutando. Esqueço até onde estou.[lr]::
+12741::$$$message_0127_0048_0003$$$::Minha mente já está completamente queimada.::
+12742::$$$message_0127_0049_0000$$$::"Não vou permitir!"[lr]::
+12743::$$$message_0127_0049_0001$$$::Saber ataca Berserker.[lr]::
+12744::$$$message_0127_0049_0002$$$::Sua espada invisível corta o braço indefeso dele como se fosse um rabanete.[lr]::
+12745::$$$message_0127_0049_0003$$$::Mas não adianta.::
+12746::$$$message_0127_0050_0000$$$::O golpe rebate no braço de Berserker sem causar dano. O aperto em Tohsaka não afrouxa.[lr]::
+12747::$$$message_0127_0050_0001$$$::"Gh!?"[lr]::
+12748::$$$message_0127_0050_0002$$$::Só de se mover já deve doer para Saber.[lr]::
+12749::$$$message_0127_0050_0003$$$::Ela continua atacando desesperadamente, com sangue escorrendo da boca.::
+12750::$$$message_0127_0051_0000$$$::"O quê[line2]... Shirou!?"[lr]::
 12751::$$$message_0127_0051_0001$$$::O rosto dela paralisa quando me vê correndo até o Berserker.::
 12752::$$$message_0127_0052_0000$$$::"Solta ela, seu[line2]!"[lr]::
-12753::$$$message_0127_0052_0001$$$::Eu bato com o meu arco nas costas dele.[lr]::
-12754::$$$message_0127_0052_0002$$$::O gigante não se move.[lr]::
-12755::$$$message_0127_0052_0003$$$::Ele nem deve me considerar como uma ameaça.::
-12756::$$$message_0127_0053_0000$$$::"...!"[lr]::
-12757::$$$message_0127_0053_0001$$$::Os meus dedos estão dormentes.[lr]::
-12758::$$$message_0127_0053_0002$$$::Que tipo de corpo ele tem se eu, que sou o cara que está batendo nele, fiquei com as mãos doloridas[line2]!?::
-12759::$$$message_0127_0054_0000$$$::"Cuidado, Shirou[line2]!"[lr]::
-12760::$$$message_0127_0054_0001$$$::...Hã?[lr]::
-12761::$$$message_0127_0054_0002$$$::Eu levanto o meu rosto assim que ouço a voz da Saber.[lr]::
-12762::$$$message_0127_0054_0003$$$::Nesse mesmo instante.[lr]::
-12763::$$$message_0127_0054_0004$$$::O meu corpo voa pelos ares igual a uma folha.::
-12764::$$$message_0127_0055_0000$$$::"[line2]Gah."[lr]::
-12765::$$$message_0127_0055_0001$$$::Eu caio no chão como se fosse uma pilha de lixo.[lr]::
-12766::$$$message_0127_0055_0002$$$::[line2]O Berserker me acertou com aquela espada congelada.[lr]::
-12767::$$$message_0127_0055_0003$$$::O arco que eu usei para bloquear o golpe dele foi quebrado facilmente, e eu fui arremessado tão... longe[line2]::
-12768::$$$message_0127_0056_0000$$$::"Gah[line2]ah, haa[line2]!!!"[lr]::
-12769::$$$message_0127_0056_0001$$$::Eu me contorço de dor.[lr]::
-12770::$$$message_0127_0056_0002$$$::O som de algo se quebrando não veio do arco.[lr]::
-12771::$$$message_0127_0056_0003$$$::Um dos meus braços se curvou da mesma forma que o braço de uma aranha.[lr]::
-12772::$$$message_0127_0056_0004$$$::Respirar dói tanto que eu tenho vontade de arrancar os meus próprios pulmões.::
-12773::$$$message_0127_0057_0000$$$::"Ha... ah, guh...!"[lr]::
-12774::$$$message_0127_0057_0001$$$::Eu não consigo respirar por causa do sangue que está saindo da minha garganta.[lr]::
-12775::$$$message_0127_0057_0002$$$::Mas isso não importa.[lr]::
-12776::$$$message_0127_0057_0003$$$::Respirar só vai me fazer desmaiar.[lr]::
-12777::$$$message_0127_0057_0004$$$::Eu não deveria estar respirando agora.::
-12778::$$$message_0127_0058_0000$$$::"Ha[line2]Haa, haa[line2]!"[lr]::
-12779::$$$message_0127_0058_0001$$$::Eu me levanto.[lr]::
-12780::$$$message_0127_0058_0002$$$::Nesse momento, eu tenho que[line2]::
-12781::$$$message_0127_0059_0000$$$::Eu corro.[lr]::
-12782::$$$message_0127_0059_0001$$$::Agora é a minha vez de atacar. Eu vou quebrar o braço dele e salvar a Tohsaka.[lr]::
-12783::$$$message_0127_0059_0002$$$::Esse cara deve ter olhos na nuca, já que ele balançou a sua espada como se estivesse afastando um inseto.::
-12784::$$$message_0127_0060_0000$$$::Eu posso me esquivar disso.[lr]::
-12785::$$$message_0127_0060_0001$$$::Eu não vou ser atingido por algo que foi balançado por um braço congelado[line2]!::
-12786::$$$message_0127_0061_0000$$$::"Haa[line2]"[lr]::
-12787::$$$message_0127_0061_0001$$$::Droga, o meu corpo está caindo...![lr]::
-12788::$$$message_0127_0061_0002$$$::Ele deve ter pego a minha perna de raspão. Droga, não quebre a minha perna quando você nem mesmo a atingiu por inteiro[line2]!::
-12789::$$$message_0127_0062_0000$$$::"Essa não[line2]já chega, se afaste, Mestre...!"[lr]::
-12790::$$$message_0127_0062_0001$$$::Eu não posso fazer isso.[lr]::
-12791::$$$message_0127_0062_0002$$$::Eu não vou deixar a Tohsaka morrer.[lr]::
-12792::$$$message_0127_0062_0003$$$::Do que eu preciso para poder salvá-la?::
-12793::$$$message_0127_0063_0000$$$::Uma arma. Uma lâmina seria útil. Eu vejo os destroços do meu arco aos meus pés. Em cima de mim está a espada do Berserker vindo na minha direção. Eu pego uma das partes quebradas do arco. A espada está descendo. Não há tempo para pensar. Eu direciono a minha energia mágica para dentro dessa parte quebrada.[lr]::
-12794::$$$message_0127_0063_0001$$$::Eu consegui fortalecê-la sem nenhum problema. Mas a espada dele está vindo. A parte quebrada vai ser completamente destruída dessa vez. O meu corpo, que deveria ter se esquivado do golpe, acaba caindo no chão. Então não adiantou de nada fortalecer aquela parte quebrada. Se for para fazer isso de novo, eu tenho que fazer o processo desde o início.[lr]::
-12795::$$$message_0127_0063_0002$$$::Nada deveria ser impossível. Se há um modelo pronto, qualquer pessoa pode copiá-lo. Então eu tenho que recriar a fundação, a composição, o trabalho, a experiência, o tempo e[line2]::
-12796::$$$message_0127_0064_0000$$$::"[wacky len=12]"[lr]::
-12797::$$$message_0127_0064_0001$$$::O gigante se vira de costas.[lr]::
-12798::$$$message_0127_0064_0002$$$::Ele deve ter resolvido matar esse incômodo antes da Tohsaka.::
-12799::$$$message_0127_0065_0000$$$::"[line2]"[lr]::
-12800::$$$message_0127_0065_0001$$$::Depois de erguer o meu corpo, eu encaro o gigante.[lr]::
-12801::$$$message_0127_0065_0002$$$::Eu não estou com medo. A minha mente já está acelerada.[lr]::
-12802::$$$message_0127_0065_0003$$$::Porém, atrás de mim...::
-12803::$$$message_0127_0066_0000$$$::Pronta até mesmo para a sua própria eliminação,[lr]::
-12804::$$$message_0127_0066_0001$$$::A Saber está determinada a usar a sua espada sagrada.::
+12753::$$$message_0127_0052_0001$$$::Eu bato com o arco nas costas dele.[lr]::  
+12754::$$$message_0127_0052_0002$$$::O gigante não se move.[lr]::  
+12755::$$$message_0127_0052_0003$$$::Talvez eu nem esteja no campo de visão dele desde o começo.::  
+12756::$$$message_0127_0053_0000$$$::"...!"[lr]::  
+12757::$$$message_0127_0053_0001$$$::Meus dedos estão dormentes.[lr]::  
+12758::$$$message_0127_0053_0002$$$::Que tipo de corpo é esse, se sou eu quem fica dormente ao acertá-lo[line2]!?::  
+12759::$$$message_0127_0054_0000$$$::"Fuja, Shirou[line2]!"[lr]::  
+12760::$$$message_0127_0054_0001$$$::...Hã?[lr]::  
+12761::$$$message_0127_0054_0002$$$::Levanto o rosto ao ouvir a voz da Saber.[lr]::  
+12762::$$$message_0127_0054_0003$$$::No mesmo instante.[lr]::  
+12763::$$$message_0127_0054_0004$$$::Meu corpo voa pelos ares como uma folha.::  
+12764::$$$message_0127_0055_0000$$$::"[line2]Gah."[lr]::  
+12765::$$$message_0127_0055_0001$$$::Caio e rolo pelo chão como lixo.[lr]::  
+12766::$$$message_0127_0055_0002$$$::O Berserker me lançou com aquela espada congelada.[lr]::  
+12767::$$$message_0127_0055_0003$$$::Tento bloquear com o arco, mas ele se despedaça num instante… e sou arremessado para longe[line2]::  
+12768::$$$message_0127_0056_0000$$$::"Gah[line2]ah, haa[line2]!!!"[lr]::  
+12769::$$$message_0127_0056_0001$$$::Me contorço de dor.[lr]::  
+12770::$$$message_0127_0056_0002$$$::O som de algo quebrando não veio do arco.[lr]::  
+12771::$$$message_0127_0056_0003$$$::Um dos meus braços está dobrado num ângulo impossível.[lr]::  
+12772::$$$message_0127_0056_0004$$$::Respirar dói tanto que parece que meus pulmões vão sair pela boca.::  
+12773::$$$message_0127_0057_0000$$$::"Ha... ah, guh...!"[lr]::  
+12774::$$$message_0127_0057_0001$$$::Não consigo respirar com todo esse sangue subindo pela garganta.[lr]::  
+12775::$$$message_0127_0057_0002$$$::Mas isso não importa.[lr]::  
+12776::$$$message_0127_0057_0003$$$::Se eu respirar, vou desmaiar.[lr]::  
+12777::$$$message_0127_0057_0004$$$::É melhor nem respirar agora.::  
+12778::$$$message_0127_0058_0000$$$::"Ha[line2]haa, haa[line2]!"[lr]::  
+12779::$$$message_0127_0058_0001$$$::Eu me levanto.[lr]::  
+12780::$$$message_0127_0058_0002$$$::Agora… eu preciso[line2]::  
+12781::$$$message_0127_0059_0000$$$::Corro.[lr]::  
+12782::$$$message_0127_0059_0001$$$::Agora é a minha vez. Vou quebrar o braço dele e salvar a Tohsaka.[lr]::  
+12783::$$$message_0127_0059_0002$$$::Ele deve ter olhos nas costas, balança a espada como se afastasse um inseto.::  
+12784::$$$message_0127_0060_0000$$$::Consigo desviar.[lr]::  
+12785::$$$message_0127_0060_0001$$$::Não vou ser atingido por algo balançado com um braço congelado[line2]!::  
+12786::$$$message_0127_0061_0000$$$::"Ha[line2]"[lr]::  
+12787::$$$message_0127_0061_0001$$$::Droga… meu corpo está cedendo…![lr]::  
+12788::$$$message_0127_0061_0002$$$::Pegou de raspão na minha perna…!? Que absurdo — nem acertou direito e já quebrou[line2]!::  
+12789::$$$message_0127_0062_0000$$$::"Ridículo… já chega, afaste-se, Mestre…!"[lr]::  
+12790::$$$message_0127_0062_0001$$$::Não posso fazer isso.[lr]::  
+12791::$$$message_0127_0062_0002$$$::Não vou deixar a Tohsaka morrer.[lr]::  
+12792::$$$message_0127_0062_0003$$$::O que eu preciso para salvá-la?::  
+12793::$$$message_0127_0063_0000$$$::Uma arma. Uma lâmina seria ideal. Aos meus pés, os restos do arco. Acima de mim, a espada do Berserker descendo. Pego um fragmento. Não há tempo para pensar. Canalizo minha energia mágica.[lr]::  
+12794::$$$message_0127_0063_0001$$$::A Reforço funciona sem dificuldade. Mas a espada cai. O fragmento é pulverizado… e meu corpo, que devia ter desviado, é jogado ao chão. Não adiantou fortalecer aquilo. Se for fazer, tenho que começar do zero.[lr]::  
+12795::$$$message_0127_0063_0002$$$::Não deveria ser impossível. Se existe um modelo, qualquer um pode reproduzir. Então… estrutura, composição, processo, experiência, tempo — tudo isso precisa ser recriado[line2]::  
+12796::$$$message_0127_0064_0000$$$::"[wacky len=12]"[lr]::  
+12797::$$$message_0127_0064_0001$$$::O gigante se vira.[lr]::  
+12798::$$$message_0127_0064_0002$$$::Decidiu eliminar o incômodo antes de terminar com a Tohsaka.::  
+12799::$$$message_0127_0065_0000$$$::"[line2]"[lr]::  
+12800::$$$message_0127_0065_0001$$$::Me ergo e encaro o gigante.[lr]::  
+12801::$$$message_0127_0065_0002$$$::Não sinto medo. Minha mente já queimou completamente.[lr]::  
+12802::$$$message_0127_0065_0003$$$::Mas, atrás de mim…::  
+12803::$$$message_0127_0066_0000$$$::Preparada até para desaparecer,[lr]::  
+12804::$$$message_0127_0066_0001$$$::A imagem de Saber decidida a usar a espada sagrada se grava na minha retina.::
 

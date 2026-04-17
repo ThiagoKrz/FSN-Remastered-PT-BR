@@ -90,7 +90,7 @@ id=qid::label=str::text=lstr::
 28744::$$$message_0236_0035_0001$$$::"Ah... Sim. Estão boas. Eu estou bem."[lr]::
 28745::$$$message_0236_0035_0002$$$::"Sei... Bom, se o Shinji fizer algo de novo, me avise. Ele não sabe se controlar, então as coisas só vão piorar se você não disser nada."::
 28746::$$$message_0236_0036_0000$$$::"Não precisa se preocupar, Senpai. O Nii-san tem sido gentil ultimamente."[lr]::
-28747::$$$message_0236_0036_0001$$$::Se ela diz isso com um sorrisos desses na cara, não tem muito mais que eu possa dizer...[lr]::
+28747::$$$message_0236_0036_0001$$$::Se ela diz isso com um sorriso desses na cara, não tem muito mais que eu possa dizer...[lr]::
 28748::$$$message_0236_0036_0002$$$::Eu me despeço dela e volto a andar.::
 28749::$$$message_0236_0037_0000$$$::O dia acaba.[lr]::
 28750::$$$message_0236_0037_0001$$$::Os alunos deixam suas salas e aos poucos o prédio se escurece.[lr]::
@@ -124,7 +124,7 @@ id=qid::label=str::text=lstr::
 28778::$$$message_0236_0045_0002$$$::Não sei como ele foi feito, mas esse símbolo carmesim - visível apenas para magos - é algo que nunca vi na vida.::
 28779::$$$message_0236_0046_0000$$$::"Mas que droga. Não sou capaz de lidar com isso."[lr]::
 28780::$$$message_0236_0046_0001$$$::Quem quer que tenha erguido este Campo Limitado não pensou muito nos detalhes.[lr]::
-28781::$$$message_0236_0046_0002$$$::Mas mesmo assim, ele foi erguida de uma maneira incrível.[lr]::
+28781::$$$message_0236_0046_0002$$$::Mas mesmo assim, ele foi erguido de uma maneira incrível.[lr]::
 28782::$$$message_0236_0046_0003$$$::Eu posso drenar a energia mágica para enfraquecê-lo temporariamente, mas não sou capaz de eliminá-lo por completo.[lr]::
 28783::$$$message_0236_0046_0004$$$::Seja como for, o criador dele pode simplesmente reativá-lo colocando de volta a energia mágica que eu drenar.::
 28784::$$$message_0236_0047_0000$$$::"..."[lr]::
@@ -164,7 +164,7 @@ id=qid::label=str::text=lstr::
 28818::$$$message_0236_0057_0000$$$::"Bom, vamos apagar isso aqui. Não vai resolver nada, mas deve atrasá-los um pouco."[lr]::
 28819::$$$message_0236_0057_0001$$$::Eu me aproximo do símbolo e estendo o meu braço esquerdo.[lr]::
 28820::$$$message_0236_0057_0002$$$::O Brasão Mágico em meu braço esquerdo é o "livro de magias" da família Tohsaka.::
-28821::$$$message_0236_0058_0000$$$::Concentro-me.[lr]::
+28821::$$$message_0236_0058_0000$$$::Me concentro.[lr]::
 28822::$$$message_0236_0058_0001$$$::Injeto energia mágica no meu Brasão Mágico, leio a parte que explica sobre a eliminação de Campos Limitados, e agora só preciso ativá-lo.::
 28823::$$$message_0236_0059_0000$$$::"Abzug. Bedienung Mittelstand. (Eliminar. Extração cirúrgica. Segunda seção...)"[lr]::
 28824::$$$message_0236_0059_0001$$$::Eu encosto na superfície com minha mão esquerda e deixo minha energia mágica fluir para fora.[lr]::
@@ -243,7 +243,7 @@ id=qid::label=str::text=lstr::
 28897::$$$message_0236_0079_0000$$$::"[line3]Heh."[lr]::
 28898::$$$message_0236_0079_0001$$$::O homem sorri.[lr]::
 28899::$$$message_0236_0079_0002$$$::"É isso aí, é assim que tem que ser. Não desgosto de gente que entende rápido a situação."[lr]::
-29000::$$$message_0236_0079_0003$$$::Um enorme ventaval.[lr]::
+29000::$$$message_0236_0079_0003$$$::Um enorme vendaval.[lr]::
 29001::$$$message_0236_0079_0004$$$::Essa é a arma usada contra mim no terraço... a lança vermelho-sangue que tentou me matar impiedosamente.::
 29002::$$$message_0236_0080_0000$$$::"Servo... Lancer."[lr]::
 29003::$$$message_0236_0080_0001$$$::"Eu mesmo. E seu Servo é o Saber...::

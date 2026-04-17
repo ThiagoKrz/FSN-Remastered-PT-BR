@@ -111,13 +111,13 @@ id=qid::label=str::text=lstr::
 31852::$$$message_0255_0034_0000$$$::"Então, e você?"[lr]::
 31853::$$$message_0255_0034_0001$$$::"Huh...? Ah, quando eu comecei a aprender taumaturgia? Sim, isso mesmo. Meu pai finalmente aceitou me ensinar depois que eu implorei por dois anos."::
 31854::$$$message_0255_0035_0000$$$::"Então um total de oito anos, huh? ...Seu pai com certeza fez um trabalho incompleto. Se ele fosse ensinar você, ele devia ter feito algo desde o momento que você nasceu.[lr]::
-31855::$$$message_0255_0035_0001$$$::Seu corpo já tava muito maduro oito anos atrás. Ele não conseguiria colocar um encravamento mágico em você, nem ele conseguia mexer com seu corpo."::
+31855::$$$message_0255_0035_0001$$$::Seu corpo já tava muito maduro oito anos atrás. Ele não conseguiria colocar um Brasão Mágico em você, nem ele conseguia mexer com seu corpo."::
 31856::$$$message_0255_0036_0000$$$::A Tohsaka diz coisas perigosas com uma cara séria.[lr]::
 31857::$$$message_0255_0036_0001$$$::Bom, eu sei que essa é a parte dela como um mago.::
 31858::$$$message_0255_0037_0000$$$::"Sim. Mas eu te contei antes, meu pai nunca quis me ensinar taumaturgia. É por isso que ele não passou pelos passos como você.[lr]::
 31859::$$$message_0255_0037_0001$$$::...Na verdade, o que você quer dizer por fazer algo quando você nasceu?"::
-31860::$$$message_0255_0038_0000$$$::"...Uhm, exatamente como soa. O encravamento mágico de uma família fica maior quanto mais história tem por trás da família.[lr]::
-31861::$$$message_0255_0038_0001$$$::Um encravamento mágico é um circuito mágico tomando formato. Então gravar ele em alguém faz o 'corpo humano' rejeitar ele e causa séria dor.[lr]::
+31860::$$$message_0255_0038_0000$$$::"...Uhm, exatamente como soa. O Brasão Mágico de uma família fica maior quanto mais história tem por trás da família.[lr]::
+31861::$$$message_0255_0038_0001$$$::Um Brasão Mágico é um circuito mágico tomando formato. Então gravar ele em alguém faz o 'corpo humano' rejeitar ele e causa séria dor.[lr]::
 31862::$$$message_0255_0038_0002$$$::Então nós implantamos ele pouco a pouco desde o momento que nascemos pra moderar a dor. Nós também bebemos ervas amargas e crescemos ossos pra criar resistência nos nossos corpos."::
 31863::$$$message_0255_0039_0000$$$::"...Bom, você não precisa se preocupar muito, já que não te interessa como um 'usuário de taumaturgia'. E é problemático se você começar a copiar e fazer coisas arriscadas."::
 31864::$$$message_0255_0040_0000$$$::"Eu não pretendo.[lr]::
@@ -175,13 +175,13 @@ id=qid::label=str::text=lstr::
 31916::$$$message_0255_0059_0001$$$::O resto são coisas básicas como fazer um diagrama e tal.[lr]::
 31917::$$$message_0255_0059_0002$$$::Isso não é algo que nós precisamos conversar sobre agora.::
 31918::$$$message_0255_0060_0000$$$::"Entendi. Eu acho que a minha é 'conversão'.[lr]::
-31919::$$$message_0255_0060_0001$$$::Acumulação, fluído e transformação de poder. Esse é meu poder básico, e eu também sei os encantamentos populares. Eu consigo fazer um campo de separação mais ou menos do tamanho de uma classe."::
+31919::$$$message_0255_0060_0001$$$::Acumulação, fluído e transformação de poder. Esse é meu poder básico, e eu também sei os encantamentos populares. Eu consigo fazer um Campo Limitado mais ou menos do tamanho de uma classe."::
 31920::$$$message_0255_0061_0000$$$::Conversão de poder[line3]isso é o mais básico e o mais prático.[lr]::
 31921::$$$message_0255_0061_0001$$$::Em outras palavras, ela consegue colocar energia mágica em qualquer container e transformar ele.::
 31922::$$$message_0255_0062_0000$$$::"Entendi. Eu tô feliz que você tá me contando isso, mas é realmente tranquilo me contar sobre sua taumaturgia?"[lr]::
 31923::$$$message_0255_0062_0001$$$::"Você me contou sobre a sua antes, certo? Não é justo se eu esconder a minha."[lr]::
 31924::$$$message_0255_0062_0002$$$::Dizendo isso, a Tohsaka estica a mão esquerda.::
-31925::$$$message_0255_0063_0000$$$::"Eu te mostrei antes, mas esse é meu encravamento mágico.[lr]::
+31925::$$$message_0255_0063_0000$$$::"Eu te mostrei antes, mas esse é meu Brasão Mágico.[lr]::
 31926::$$$message_0255_0063_0001$$$::A técnica de conversão é o que foi passado pela família Tohsaka. Nós somos bons em deslocar nossos poderes ou os de alguém.[lr]::
 31927::$$$message_0255_0063_0002$$$::Energia mágica desaparece quando nós tomamos ela pra fora do nosso corpo, certo?[lr]::
 31928::$$$message_0255_0063_0003$$$::A gente não consegue criar nada especial só com energia mágica. Nós executamos a equação chamada taumaturgia usando a energia mágica antes que ela desapareça. É por isso que 'energia mágica pura' que não é parte do encantamento é difícil de deslocar[line4]"::
@@ -192,7 +192,7 @@ id=qid::label=str::text=lstr::
 31933::$$$message_0255_0065_0001$$$::Não, não só minha energia mágica, mas eu também consigo guardar a energia mágica de outros. E mesmo que seja difícil, eu consigo guardar coisas diferentes de energia mágica também."::
 31934::$$$message_0255_0066_0000$$$::"E o espaço de armazenamento mais compatível é uma joia.[lr]::
 31935::$$$message_0255_0066_0001$$$::Você sabe que joias são 'lugares' que guardam pensamentos facilmente, uma prisão que para o fluxo, certo?[lr]::
-31936::$$$message_0255_0066_0002$$$::Adicionalmente, cristais que estiveram no chão por um longo tempo carregam fortes espíritos naturais. joias assim podem virar um simples 'Encravamento mágico quando a energia mágica é jorrada dentro delas.[lr]::
+31936::$$$message_0255_0066_0002$$$::Adicionalmente, cristais que estiveram no chão por um longo tempo carregam fortes espíritos naturais. joias assim podem virar um simples 'Brasão Mágico quando a energia mágica é jorrada dentro delas.[lr]::
 31937::$$$message_0255_0066_0003$$$::Bom, como é uma joia, ela vai quebrar quando a energia mágica for solta."::
 31938::$$$message_0255_0067_0000$$$::A Tohsaka encolhe os ombros e guarda a joia.[lr]::
 31939::$$$message_0255_0067_0001$$$::"...Isso é um desperdício. Por quebrar, você quer dizer que ela vai sumir depois que você usar ela, certo? Você tem que repôr algo tão caro quanto uma joia toda vez que você usa ela?"::

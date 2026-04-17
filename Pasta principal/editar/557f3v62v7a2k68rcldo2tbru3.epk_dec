@@ -1,142 +1,143 @@
 DAT
 id=qid::label=str::text=lstr::
-10282::$$$message_0105_0000_0000$$$::Eu vejo as duas irem embora e volto pra sala de estar.[lr]::
-10283::$$$message_0105_0000_0001$$$::Eu disse que tinha que falar com elas depois do jantar, então a Tohsaka e a Saber estão esperando na sala de estar com caras sérias.::
-10284::$$$message_0105_0001_0000$$$::"Obrigado. [line2]Então o que você quer falar sobre?"[lr]::
-10285::$$$message_0105_0001_0001$$$::"Sobre os outros Mestres. Há algo que quero dizer pra vocês."[lr]::
-10286::$$$message_0105_0001_0002$$$::Saber leva sua sombrancelha.[lr]::
-10287::$$$message_0105_0001_0003$$$::...como Serva, ela deve preferir batalhas onde ela usa sua espada do que esses dias calmos.::
-10288::$$$message_0105_0002_0000$$$::Mas suas feridas não devem ter melhorado ainda.[lr]::
-10289::$$$message_0105_0002_0001$$$::O ferimento em seu peito causado pelo "Fantasma Nobre" do Lancer é algo que nem a Saber consegue curar rápido.::
-10290::$$$message_0105_0003_0000$$$::"[line5]"[lr]::
-10291::$$$message_0105_0003_0001$$$::Pensar nisso me faz hesitar contar sobre o Shinji.[lr]::
-10292::$$$message_0105_0003_0002$$$::Sinto o mesmo que ele.[lr]::
-10293::$$$message_0105_0003_0003$$$::Quero evitar começar brigas, e [line3]acho que a garota a minha frente balançado uma espada é uma imagem absurda.::
-10294::$$$message_0105_0004_0000$$$::"Shirou. Você tem algo para nós dizer?"[lr]::
-10295::$$$message_0105_0004_0001$$$::"Uh[line2]É. Certo. ...simplificando, me encontrei com o Mestre da Rider hoje."::
-10296::$$$message_0105_0005_0000$$$::"Que... O Mestre da Rider!? Quando isso aconteceu!?"[lr]::
-10297::$$$message_0105_0005_0001$$$::"Ridículo! Se encontrar com outro Mestre sozinho, o que você estava pensando!?"[lr]::
-10298::$$$message_0105_0005_0002$$$::"Whoa, espera, calma...! Está tudo bem, não estou ferido, então fica calma."::
-10299::$$$message_0105_0006_0000$$$::"Ficar calma!? Não, não estou irritada.[lr]::
-10300::$$$message_0105_0006_0001$$$::Só estou em choque pelas suas ações."[lr]::
-10301::$$$message_0105_0006_0002$$$::"...eu também.  Bem, não adianta chorar pelo o leite derramado.[lr]::
-10302::$$$message_0105_0006_0003$$$::Então, o que se passa, Shirou?"::
-10303::$$$message_0105_0007_0000$$$::A Tohsaka e a Saber olham para mim com fúria em seus olhos.[lr]::
-10304::$$$message_0105_0007_0001$$$::...Geez.[lr]::
-10305::$$$message_0105_0007_0002$$$::Pensei que elas falariam algo sobre eu ser idiota, mas não pensei que ficariam tão irritadas.::
-10306::$$$message_0105_0008_0000$$$::"...encontrei com ele esta tarde.[lr]::
-10307::$$$message_0105_0008_0001$$$::Só fui porque ele queria falar comigo, e não é como se a gente tivesse lutado."[lr]::
-10308::$$$message_0105_0008_0002$$$::"Percebe-se. Então, que tipo de pessoa o Mestre da Rider é?"::
-10309::$$$message_0105_0009_0000$$$::"Que tipo de pessoa... bem, é o Shinji.[lr]::
-10310::$$$message_0105_0009_0001$$$::Ele me chamou quando eu estava procurando pelo campo de separação. Ele disse que queria conversar comigo e pediu pra eu seguir ele, então foi até a casa dos Matous."::
+10282::$$$message_0105_0000_0000$$$::Vejo as duas irem embora e volto para a sala de estar.[lr]::
+10283::$$$message_0105_0000_0001$$$::Como tinha dito que havia algo para falar depois do jantar, Tohsaka e Saber me esperavam na sala, com expressões sérias.::
+10284::$$$message_0105_0001_0000$$$::"Bom trabalho.[line3]Então, o que você queria falar?"[lr]::
+10285::$$$message_0105_0001_0001$$$::"É sobre os outros Mestres. Tem algo que quero que vocês ouçam."[lr]::
+10286::$$$message_0105_0001_0002$$$::Saber ergue levemente a sobrancelha.[lr]::
+10287::$$$message_0105_0001_0003$$$::...Sendo um Servo, o que ela prioriza não é uma rotina tranquila, mas sim o combate, brandindo sua espada.::
+10288::$$$message_0105_0002_0000$$$::Mas as feridas dela ainda não devem ter cicatrizado.[lr]::
+10289::$$$message_0105_0002_0001$$$::A ferida no peito causada pelo "Fantasma Nobre" de Lancer não é algo que nem mesmo Saber consiga curar facilmente.::
+10290::$$$message_0105_0003_0000$$$::"[line8]"[lr]::
+10291::$$$message_0105_0003_0001$$$::Pensando nisso, hesito em falar sobre Shinji.[lr]::
+10292::$$$message_0105_0003_0002$$$::No fundo, sou igual a ele.[lr]::
+10293::$$$message_0105_0003_0003$$$::Quero evitar lutar ao máximo e, além disso,[line3]não acho certo ver a garota à minha frente brandindo uma espada.::
+10294::$$$message_0105_0004_0000$$$::"Shirou. Não disse que tinha algo pra dizer pra gente?"[lr]::
+10295::$$$message_0105_0004_0001$$$::"Ah...[line3]sim. Certo... indo direto ao ponto: hoje encontrei Rider e o Mestre dela."::
+10296::$$$message_0105_0005_0000$$$::"O quê...? O Mestre da Rider!? Quando isso aconteceu!?"[lr]::
+10297::$$$message_0105_0005_0001$$$::"Isso é absurdo! Encontrar um Mestre inimigo sozinho... o que estava pensando!?"[lr]::
+10298::$$$message_0105_0005_0002$$$::"Ei, espera, calma...! Está tudo bem, não me feri. Não precisa ficar tão brava."::
+10299::$$$message_0105_0006_0000$$$::"Não ficar brava...? Não, não estou brava.[lr]::
+10300::$$$message_0105_0006_0001$$$::Só estou perplexa com suas ações, Shirou."[lr]::
+10301::$$$message_0105_0006_0002$$$::"...Eu também.  Bem, não adianta chorar pelo o leite derramado.[lr]::
+10302::$$$message_0105_0006_0003$$$::Então explica direito, Shirou."::
+10303::$$$message_0105_0007_0000$$$::Tohsaka e Saber me encaram, claramente irritadas.[lr]::
+10304::$$$message_0105_0007_0001$$$::...Droga.[lr]::
+10305::$$$message_0105_0007_0002$$$::Já esperava que dissessem que fui imprudente, mas não que ficariam tão irritadas assim.::
+10306::$$$message_0105_0008_0000$$$::"...Encontrei com ele esta tarde.[lr]::
+10307::$$$message_0105_0008_0001$$$::Só fui porque ele disse que queria conversar. Não cheguei a lutar com ele."[lr]::
+10308::$$$message_0105_0008_0002$$$::"Dá pra ver. E então, como ele era?"::
+10309::$$$message_0105_0009_0000$$$::"Como ele era...? Era o Shinji.[lr]::
+10310::$$$message_0105_0009_0001$$$::Ele me chamou quando eu estava investigando o Campo Limitado da escola. Disse que queria conversar e me levou até a casa dos Matou."::
 10311::$$$message_0105_0010_0000$$$::"Que[line2]Shinji? Quer dizer, aquele Shinji!?"[lr]::
 10312::$$$message_0105_0010_0001$$$::"Sim. A Rider estava obedecendo ele, e ele sabia sobre a Guerra do Santo Graal. De acordo com ele, a família Matou é uma linhagem de magos com história."::
-10313::$$$message_0105_0011_0000$$$::"Huh[line3]é, bem, é verdade, mas... não pode ser verdade. A família Matou estava exaustada na última geração. Não importa o que façam, seus filhos não terão Circuitos Mágicos. Isso é fato."::
+10313::$$$message_0105_0011_0000$$$::"Huh[line3]é, bem, é verdade, mas... não faz sentido. A família Matou estava exaustada na última geração. Não importa o que façam, seus filhos não terão Circuitos Mágicos. Isso é fato."::
 10314::$$$message_0105_0012_0000$$$::A Tohsaka declara.[lr]::
-10315::$$$message_0105_0012_0001$$$::Então, o Shinji e a Sakura realmente não pode ter Circuitos Mágicos.::
-10316::$$$message_0105_0013_0000$$$::"Sim, O Shinji disse isso também. Mas ele disse que eles tinham o conhecimento. Algo sobre ele ser ensinado apenas pro Shinji, o filho mais velho, então a Sakura não sabia sobre isso.[lr]::
-10317::$$$message_0105_0013_0001$$$::...resumidamente, ele é um Mestre como eu. Ele disse que não tem qualquer energia mágica, então ele não seria detectado pela suas percepções."::
-10318::$$$message_0105_0014_0000$$$::"...entendo. Cometi um erro. Certamente poderia acontecer tais casos... Se eles tiverem grimórios restantes, ele poderia virar um Mestre. Então nossa, minhas ações foram totalmente óbvias para ele. Sou uma idiota."::
-10319::$$$message_0105_0015_0000$$$::A Tohsaka está murmurando, refletindo suas ações.[lr]::
-10320::$$$message_0105_0015_0001$$$::...Hm. Tohsaka é quase perfeita, mas ainda há algumas coisas faltantes.[lr]::
-10321::$$$message_0105_0015_0002$$$::Infelizmente, são as mais cruciais.::
-10322::$$$message_0105_0016_0000$$$::"Foi um erro da minha parte. Devia ter ficado de olho no Shinji. Se eu soubesse, não teria deixado ele construir aquele campo de separação."[lr]::
-10323::$$$message_0105_0016_0001$$$::"Ah, o Shinji disse que o campo de separação na escola não era dele. Ele disse que há outro Mestre na escola."::
-10324::$$$message_0105_0017_0000$$$::"Sim, é verdade. É óbvio que há outro Mestre na escola que não conhecemos.[lr]::
-10325::$$$message_0105_0017_0001$$$::Mas Shirou... não me diga que você está confiando na palavra do Shinji de que não foi ele que construiu o campo de separação?"::
-10326::$$$message_0105_0018_0000$$$::"...não, não sou tão bonzinho. Enquanto o Shinji for para nossa escola, há 50% de chance de ser feito dele, a alternative sendo um Mestre desconhecido."::
-10327::$$$message_0105_0019_0000$$$::"50%, huh? ...ainda acho que você está sendo bonzinho.[lr]::
-10328::$$$message_0105_0019_0001$$$::Bem, tudo bem. Essa bondade é seu jeito de ser, e deve ser por isso que o Shinji te disse sua identidade verdadeira."[lr]::
-10329::$$$message_0105_0019_0002$$$::"...?"::
-10330::$$$message_0105_0020_0000$$$::"Fazer o que. Então sobre o que você falou com o Shinji?"[lr]::
-10331::$$$message_0105_0020_0001$$$::"Ele me perguntou se eu queria cooperar com ele. Parece que o Shinji não tem intenção de lutar, então ele parecia querer se aliar com alguém que ele conhecia."::
-10332::$$$message_0105_0021_0000$$$::"Eh[line2]Shirou, então você..."[lr]::
-10333::$$$message_0105_0021_0001$$$::"Não, não é normal refusar? Já me juntei à você.[lr]::
+10315::$$$message_0105_0012_0001$$$::Se ela diz isso com tanta certeza, então Shinji e Sakura realmente não tem Circuitos Mágicos.::
+10316::$$$message_0105_0013_0000$$$::"Sim, o próprio Shinji disse isso. Mas eles ainda tem o conhecimento. Como ele é o filho mais velho, só ensinaram a ele[line2] a Sakura não sabe de nada.[lr]::
+10317::$$$message_0105_0013_0001$$$::...Resumidamente, ele é um Mestre como eu. Ele disse que não tem qualquer energia mágica, então ele não seria detectado por você."::
+10318::$$$message_0105_0014_0000$$$::"...entendo. Foi um erro meu. Casos assim podem acontecer... Se ainda houver grimórios, virar Mestre não é impossível. Ah, que droga... então ele percebeu tudo o que eu estava fazendo. Que descuido."::
+10319::$$$message_0105_0015_0000$$$::Tohsaka murmura, refletindo sobre o próprio erro.[lr]::
+10320::$$$message_0105_0015_0001$$$::...ela é quase perfeita, mas dá pra ver que tem algumas falhas.[lr]::
+10321::$$$message_0105_0015_0002$$$::O problema é que essas falhas costumam ser bem graves.::
+10322::$$$message_0105_0016_0000$$$::"Foi um erro meu. Eu devia ter ficado de olho no Shinji. Se soubesse, não teria deixado ele erguer aquele Campo Limitado."[lr]::
+10323::$$$message_0105_0016_0001$$$::"Ah, não. O Shinji disse que não foi ele que montou o Campo Limitado na escola. Parece que há outro Mestre por lá."::
+10324::$$$message_0105_0017_0000$$$::"Sim, isso é o mais provável. É evidente que existe outro Mestre na escola que ainda não identificamos.[lr]::
+10325::$$$message_0105_0017_0001$$$::Mas, Shirou... não vai me dizer que acreditou no Shinji quando ele disse que não foi o responsável pelo Campo Limitado?"::
+10326::$$$message_0105_0018_0000$$$::"...Não sou tão ingênuo assim. Enquanto o Shinji estiver na escola, diria que há cinquenta por cento de chance de ter sido obra dele. Os outros cinquenta são do Mestre desconhecido."::
+10327::$$$message_0105_0019_0000$$$::"Cinquenta por cento, é...? Ainda acho isso bastante ingênuo.[lr]::
+10328::$$$message_0105_0019_0001$$$::Mas tudo bem. Esse teu jeito faz parte de quem você é, e provavelmente foi por isso que o Shinji revelou a identidade pra você."[lr]::
+10329::$$$message_0105_0019_0002$$$::"?"::
+10330::$$$message_0105_0020_0000$$$::"Enfim. O que exatamente vocês conversaram?"[lr]::
+10331::$$$message_0105_0020_0001$$$::"Ele perguntou se eu queria me aliar a ele. Pelo visto, o Shinji não pretende lutar. Queria cooperar com alguém conhecido."::
+10332::$$$message_0105_0021_0000$$$::"Hã...[line3]Shirou, você não vai me dizer que..."[lr]::
+10333::$$$message_0105_0021_0001$$$::"Claro que não. Eu recusaria isso normalmente, né? Além do mais, já estou aliado a você.[lr]::
 10334::$$$message_0105_0021_0002$$$::Mesmo se eu concordasse, teria que perguntar pra você antes."::
 10335::$$$message_0105_0022_0000$$$::"Ah... é. Isso... é verdade. Mas você não disse que recusou?"[lr]::
-10336::$$$message_0105_0022_0001$$$::"Sim. Como eu disse, respondi o Shinji por conta própria. Não era algo para debater. ...Ah, fui muito apressado?"::
-10337::$$$message_0105_0023_0000$$$::"...Não tanto. Acho que sua decisão foi correta. Bem, ele te perguntou, não é algo que posso reclamar."[lr]::
-10338::$$$message_0105_0023_0001$$$::O jeito que a Tohsaka murmura não é o de costume.::
-10339::$$$message_0105_0024_0000$$$::"É isto do Shinji.[lr]::
-10340::$$$message_0105_0024_0001$$$::Pelo o que eu vi, a Rider não é uma Serva forte. Mesmo colocando o Berserker fora de cena, não acho que ela tem a mesma presença que o Lancer. E a Rider em si é mais normal do que eu esperava."::
-10341::$$$message_0105_0025_0000$$$::"...se você acha, deve ser verdade. Mas o poder verdadeiro de um Servo é determinado por seu Fantasma Nobre. Por favor, não a subestime até descobrirmos a identidade verdadeira da Rider."::
-10342::$$$message_0105_0026_0000$$$::"...Sim. não pude identificar qual heroína ela era. Veja, o Lancer e o Berserker passam a sensação de heróis, não? Mas a Rider não tinha essa sensação. Sinto que ela é diferente de um Servo normal."::
+10336::$$$message_0105_0022_0001$$$::"Sim. Acabei respondendo por conta própria. Não era algo que precisava passar por você... mas agora fiquei na dúvida. Será que fui precipitado?"::
+10337::$$$message_0105_0023_0000$$$::"...Não. Acho que você decidiu certo. Além disso, ele falou com você, então não cabe a mim interferir."[lr]::
+10338::$$$message_0105_0023_0001$$$::O jeito que ela murmura não combina nada com a Tohsaka de sempre.::
+10339::$$$message_0105_0024_0000$$$::"Foi só isso que conversamos.[lr]::
+10340::$$$message_0105_0024_0001$$$::Pelo que vi, a Rider não parece um Servo tão forte. Não chega nem perto do Berserker, nem tem a mesma pressão que o Lancer. A própria Rider também era mais normal do que eu esperava."::
+10341::$$$message_0105_0025_0000$$$::"Se foi essa a impressão do Mestre, então deve haver verdade nisso. Mas o verdadeiro valor de um Servo depende do Fantasma Nobre. Até descobrirmos quem é Rider de fato, não baixe a guarda, Shirou."::
+10342::$$$message_0105_0026_0000$$$::"...Sim, não faço ideia de que herói ela seja. Quer dizer, Lancer e Berserker têm aquela presença de herói, sabe? Mas a Rider não tinha essa sensação. Sinto que ela é diferente de um Servo normal."::
 10343::$$$message_0105_0027_0000$$$::"[line2]Diferente de um Servo normal?[lr]::
-10344::$$$message_0105_0027_0001$$$::Não entendo, Rin, poderia explicar a sensação estranha do Shirou?"::
-10345::$$$message_0105_0028_0000$$$::"Huh...? Uh... é, acho que entendo.[lr]::
-10346::$$$message_0105_0028_0001$$$::Bem, é porque o Mestre influencia qual espirito heroico é invocado como Servo. O Mestre e o Servo acabam sendo similares.::
-10347::$$$message_0105_0029_0000$$$::"Então se o Mestre for uma pessoa nobre, um espirito heroico similar a ele é invocado. E se a pessoa com cicatrizes na mente invoca um espirito heroico, um espirito heroico com uma cicatriz na mente aparece também.[lr]::
-10348::$$$message_0105_0029_0001$$$::O estranho sentimento que o Shirou teve pela Rider deve ser isso.[lr]::
-10349::$$$message_0105_0029_0002$$$::Um Mestre com um sorriso desonesto algumas vezes invoca fantasmas vingativos similares a espíritos heroicos ao invés de um herói."::
-10350::$$$message_0105_0030_0000$$$::"Fantasma vingativo similar a espíritos heroicos... poderia ser aquilo que você estava falando sobre antes[line2]"[lr]::
-10351::$$$message_0105_0030_0001$$$::"Sim. Um assassino em série que ama ver sangue e pensa em nada além de matar.[lr]::
-10352::$$$message_0105_0030_0002$$$::na verdade, há vários heróis apenas com massacres nas suas lendas, então não é estranho algo assim virar um Servo."::
+10344::$$$message_0105_0027_0001$$$::Não entendo bem, mas... Rin, você consegue explicar essa sensação do Shirou?"::
+10345::$$$message_0105_0028_0000$$$::"Hã...? Ah, sim... pelo menos em teoria.[lr]::
+10346::$$$message_0105_0028_0001$$$::O tipo de Espírito Heroico invocado como Servo é influenciado pelo Mestre. Em muitos casos, os dois acabam sendo parecidos."::
+10347::$$$message_0105_0029_0000$$$::"Se o Mestre for uma pessoa nobre, tende a invocar um Espírito Heroico semelhante. Por outro lado, alguém com traumas profundos pode acabar chamando um Servo marcado por feridas parecidas.[lr]::
+10348::$$$message_0105_0029_0001$$$::A estranheza que Shirou sentiu na Rider deve vir disso.[lr]::
+10349::$$$message_0105_0029_0002$$$::Um Mestre com uma mente distorcida pode acabar invocando não um herói, mas algo mais próximo de um espírito vingativo."::
+10350::$$$message_0105_0030_0000$$$::"Um espírito vingativo próximo de um Espírito Heroico... quer dizer aquilo de que você falou antes...?"[lr]::
+10351::$$$message_0105_0030_0001$$$::"Isso. Alguém que gosta de ver sangue e não hesita em matar.[lr]::
+10352::$$$message_0105_0030_0002$$$::Na verdade, existem heróis lembrados apenas pela brutalidade, então não seria estranho algo assim acabar como Servo."::
 10353::$$$message_0105_0031_0000$$$::"[line5]"[lr]::
 10354::$$$message_0105_0031_0001$$$::É isso mesmo?[lr]::
 10355::$$$message_0105_0031_0002$$$::Certamente, só posso sentir o cheiro de sangue na Rider, mas ela não parecia uma assassina sedenta por sangue....::
-10356::$$$message_0105_0032_0000$$$::"...bem, isso é tudo sobre a Rider.[lr]::
-10357::$$$message_0105_0032_0001$$$::Há mais uma coisa, mas é a mais importante.[lr]::
-10358::$$$message_0105_0032_0002$$$::De acordo com a Rider, parece que há outro Mestre no templo Ryuudou. Acho que esse Mestre está coletando energia de todos na cidade. O que vocês duas entendem disso?"::
+10356::$$$message_0105_0032_0000$$$::"...Enfim, sobre a Rider, isso é tudo.[lr]::
+10357::$$$message_0105_0032_0001$$$::Mas tem mais uma coisa, e talvez seja a mais importante.[lr]::
+10358::$$$message_0105_0032_0002$$$::Segundo ela, existe outro Mestre no templo Ryuudou. Parece que alguém está coletando energia mágica de toda a cidade. O que vocês acham disso?"::
 10359::$$$message_0105_0033_0000$$$::"Templo Ryuudou...? Aquele templo no topo da montanha?"[lr]::
-10360::$$$message_0105_0033_0001$$$::"É. Que, isso significa algo pra você, Tohsaka?"::
-10361::$$$message_0105_0034_0000$$$::"Claro que não. É o oposto. Nunca fui para o Templo Ryuudou.[lr]::
-10362::$$$message_0105_0034_0001$$$::Não sei que tipo de Mestre essa pessoa é, mas normalmente, você não escolheria se posicionar tão remotamente."::
-10363::$$$message_0105_0035_0000$$$::"Certo. Também estive surpreso quando ouvir que havia um Mestre no Templo Ryuudou.[lr]::
-10364::$$$message_0105_0035_0001$$$::Mesmo que não chame a atenção das pessoas, há vários monges morando lá. Se ele agir estranho, acho que haveria uma revolta."::
-10365::$$$message_0105_0036_0000$$$::"Hmmm... ainda não acredito muito na história.[lr]::
-10366::$$$message_0105_0036_0001$$$::Mesmo se for o caso, o Templo Ryuudou está no arredores dos subúrbios, não?[lr]::
-10367::$$$message_0105_0036_0002$$$::Alcançar a Cidade de Miyama e Shinto é mais desperdício de energia do que uma grande magia. Magia em larga escala desse tipo é impossível até com a energia mágica coletada de lá."::
-10368::$$$message_0105_0037_0000$$$::Então, a Tohsaka começa a pensar, perplexa.[lr]::
-10369::$$$message_0105_0037_0001$$$::Estou dependendo da opinião da Tohsaka, então não há nada que eu possa fazer até ela voltar a falar.::
-10370::$$$message_0105_0038_0000$$$::"[line2]Não, essa história é muito plausível.[lr]::
-10371::$$$message_0105_0038_0001$$$::Se alguém pegar aquele templo, tal magia seria naturalmente possível."[lr]::
-10372::$$$message_0105_0038_0002$$$::"...? Saber, por 'aquele templo'[line2]você conhece o Templo Ryuudou? Não te perguntei ainda."::
-10373::$$$message_0105_0039_0000$$$::"Você esqueceu, Shirou? Participei da Guerra do Santo Graal anterior também. Estou bem informada sobre a cidade, e sei que o templo está numa linha ley caída."::
-10374::$$$message_0105_0040_0000$$$::"[line2]Linha ley caída!? Espera, isso é onde minha casa está! Como pode haver duas concentrações de linhas ley numa área!?"::
-10375::$$$message_0105_0041_0000$$$::"Não sei, mas aquele templo é um lugar que magos chamam de sagrado.[lr]::
-10376::$$$message_0105_0041_0001$$$::Ouvi dizer que é para onde a vida da região flui, então seria uma base perfeita para colecionar almas. Um mago só precisaria intervir no fluxo natural para coletar a energia vital da cidade toda."::
-10377::$$$message_0105_0042_0000$$$::"...nunca ouvi falar disso.[lr]::
-10378::$$$message_0105_0042_0001$$$::Mas se for o caso, então seria certamente possível para alguém roubar a energia vital de todas as pessoas na cidade..."::
-10379::$$$message_0105_0043_0000$$$::"Em outras palavras, é só uma área que é espiritualmente superior, né? Isso é natural. Você não pode construir um templo em outro lugar."::
-10380::$$$message_0105_0044_0000$$$::"Ugh[line2]c-claro. não precisa me dizer isso."[lr]::
-10381::$$$message_0105_0044_0001$$$::"Como imaginei. Templos e santuários são construídos em lugares sagrados para proteger a cidade desde tempos antigos. Não é que monges rezam para garantir a felicidade. Eles removem o mal selando as coisas ruins. Nessa base, é natural que a montanha do Templo Ryuudou seja um local sagrado."::
+10360::$$$message_0105_0033_0001$$$::"É. Isso significa alguma coisa pra você, Tohsaka?"::
+10361::$$$message_0105_0034_0000$$$::"Claro que não. Pelo contrário, nunca fui ao templo Ryuudou.[lr]::
+10362::$$$message_0105_0034_0001$$$::Não sei que tipo de Mestre essa pessoa é, mas normalmente ninguém escolheria se instalar num lugar tão afastado."::
+10363::$$$message_0105_0035_0000$$$::"Pois é. Eu também fiquei surpreso quando ouvi que havia um Mestre no templo Ryuudou.[lr]::
+10364::$$$message_0105_0035_0001$$$::Mesmo que não chame muita atenção, ainda tem vários monges morando lá. Se ele fizesse algo estranho, acho que iam perceber."::
+10365::$$$message_0105_0036_0000$$$::"Hmmm... ainda acho essa história meio difícil de engolir.[lr]::
+10366::$$$message_0105_0036_0001$$$::Mesmo que seja verdade, o templo Ryuudou fica nos arredores, quase na periferia, não?[lr]::
+10367::$$$message_0105_0036_0002$$$::Alcançar Miyama e Shinto a partir dali exigiria mais energia do que até uma grande magia. Um feitiço em larga escala desses seria impossível, mesmo usando a energia mágica coletada ali."::
+10368::$$$message_0105_0037_0000$$$::Tohsaka mergulha em pensamentos, perplexa.[lr]::
+10369::$$$message_0105_0037_0001$$$::Estou dependendo da opinião dela, então não há nada que eu possa fazer até que volte a falar.::
+10370::$$$message_0105_0038_0000$$$::"[line2]Não, essa história é bastante plausível.[lr]::
+10371::$$$message_0105_0038_0001$$$::Se alguém tomar aquele templo, uma magia dessas seria perfeitamente possível."[lr]::
+10372::$$$message_0105_0038_0002$$$::"...? Saber, quando você diz 'aquele templo'...[line2]você conhece o templo Ryuudou? Ainda não tinha te perguntado isso."::
+10373::$$$message_0105_0039_0000$$$::"Esqueceu, Shirou? Eu também participei da Guerra do Santo Graal anterior. Conheço bem esta cidade e sei que o templo fica sobre uma linha ley."::
+10374::$$$message_0105_0040_0000$$$::"[line2]Uma linha ley!? Espera, isso não é onde fica a minha casa? Como pode haver duas concentrações de linhas ley na mesma área!?"::
+10375::$$$message_0105_0041_0000$$$::"Não sei, mas aquele templo é um lugar que os magos chamariam de sagrado.[lr]::
+10376::$$$message_0105_0041_0001$$$::Ouvi dizer que é para lá que converge a força vital da região, então seria uma base perfeita para recolher almas. Um mago só precisaria interferir nesse fluxo natural para coletar a energia vital da cidade inteira."::
+10377::$$$message_0105_0042_0000$$$::"...Nunca ouvi falar disso.[lr]::
+10378::$$$message_0105_0042_0001$$$::Mas, se for assim, então seria realmente possível roubar a energia vital de todas as pessoas da cidade..."::
+10379::$$$message_0105_0043_0000$$$::"Em outras palavras, é só uma área espiritualmente superior, né? Isso é natural. Não dá pra construir um templo em qualquer lugar."::
+10380::$$$message_0105_0044_0000$$$::"Ugh...[line2]c-claro. Não precisa me explicar isso."[lr]::
+10381::$$$message_0105_0044_0001$$$::"Como eu imaginava. Templos e santuários são construídos em lugares sagrados para proteger a cidade desde tempos antigos. Não é só que os monges rezam pela felicidade das pessoas. Eles também afastam o mal, selando aquilo que é impuro. Partindo disso, é natural que a montanha do templo Ryuudou seja um local sagrado."::
 10382::$$$message_0105_0045_0000$$$::"[line3]!"[lr]::
-10383::$$$message_0105_0045_0001$$$::"Ei[line2]não quero considerar isso, mas você achava que o Templo Ryuudou era só enfeite?"[lr]::
-10384::$$$message_0105_0045_0002$$$::"Sim, achava, há algo de errado com isso!? Até agora, pensei que era pra demonstração porque não havia curandeiros praticantes!"[lr]::
-10385::$$$message_0105_0045_0003$$$::"Curandeiros praticantes...? O que é isso?"::
-10386::$$$message_0105_0046_0000$$$::"Pessoas que deixam fantasmas irem para o céu sem usar encantos, fé ou rezas.[lr]::
-10387::$$$message_0105_0046_0001$$$::Pessoas iluminadas tentam fazer isso apenas com poderes Budistas, mas monges sem treinamento o bastante ainda não chegaram nesse nível, então eles adicionam o próprio poder deles para criar feitiços igual a gente.[lr]::
-10388::$$$message_0105_0046_0002$$$::Há um tipo de organização dessas pessoas neste país. Mas eles são incompatíveis com a Associação Mágica, então não sei muito deles."::
-10389::$$$message_0105_0047_0000$$$::"Não, mais importante, o templo.[lr]::
-10390::$$$message_0105_0047_0001$$$::Se aquele templo é uma linha ley, Mestres deveriam tentar tomá-lo imediatamente. Estranho... por que os outros estão ignorando aquele lugar?"::
-10391::$$$message_0105_0048_0000$$$::"Porque o Templo Ryuudou está lá, né? Eles ficam de olho para que não seja mal-usado."[lr]::
-10392::$$$message_0105_0048_0001$$$::"Os monges no Templo Ryuudou são puros monges em treinamento.[lr]::
-10393::$$$message_0105_0048_0002$$$::Eles não são como nós, então seria fácil para um Mestre controlar eles."::
-10394::$$$message_0105_0049_0000$$$::"Não, Rin, você está enganada. Seria certamente fácil para um Mestre ganhar controle daquele templo. Mas aquela montanha tem um campo de separação que é inconveniente para os Mestres."::
-10395::$$$message_0105_0050_0000$$$::"...? Um campo de separação que é inconveniente para nós?"[lr]::
-10396::$$$message_0105_0050_0001$$$::"Sim. Há uma magia naquela montanha que tenta eliminar qualquer coisa além de espíritos naturais. Não tem efeito em humanos normais, mas é um lugar horrível para nós Servos."::
-10397::$$$message_0105_0051_0000$$$::"Eliminar qualquer coisa além de espíritos naturais[line2]então significa que Servos não podem entrar na montanha!"::
-10398::$$$message_0105_0052_0000$$$::"É possível, mas nossas habilidades seriam degradadas.[lr]::
-10399::$$$message_0105_0052_0001$$$::É como receber um Selo de Comando dizendo para não irmos perto daquele lugar."[lr]::
-10400::$$$message_0105_0052_0002$$$::"[line2]Então como o Mestre no Templo Ryuudou está mantendo o seu Servo?"::
-10401::$$$message_0105_0053_0000$$$::"Não há campo de separação assim que você entrar no templo.[lr]::
-10402::$$$message_0105_0053_0001$$$::Ouvi dizer que o campo de separação era originalmente uma borda para proteger o templo. O campo de separação é algo que rejeita pessoas de fora, então não há outros poderes."::
-10403::$$$message_0105_0054_0000$$$::"...então se entrarmos, não há nada que afete o Servo?[lr]::
-10404::$$$message_0105_0054_0001$$$::...mas isso é estranho. Se você fechar o templo assim, a linha lei em si pararia. Você teria que deixar pelo menos um caminho aberto ou não poderia ser o centro da linha ley, né?"::
-10405::$$$message_0105_0055_0000$$$::"Sim. Se você pensar nos termos do templo, ele não pode recusar aqueles visitando pela devida entrada. Isso pode estar seguindo esta idea, mas ouvi dizer que a estrada levando ao templo não tem um campo de separação.[lr]::
-10406::$$$message_0105_0055_0001$$$::Naquele templo, apenas o portão principal não tem o poder de comandar nós Servos."::
-10407::$$$message_0105_0056_0000$$$::"...entendo. Deve ser isso. Se você fechar todos os portões, o ar dentro vai estagnar. Hmm, somente o portão principal, huh...?"::
-10408::$$$message_0105_0057_0000$$$::"Isso é tudo que posso te dizer.[lr]::
-10409::$$$message_0105_0057_0001$$$::[line2]Então, por favor pense num plano. Provamos que há um Mestre, então acredito que há apenas uma ação a ser tomada."::
-10410::$$$message_0105_0058_0000$$$::"[line5]"[lr]::
-10411::$$$message_0105_0058_0001$$$::Eu sei o que a Saber quer dizer.[lr]::
-10412::$$$message_0105_0058_0002$$$::Os olhos dela me dizem que já que localização do inimigo é conhecida, tudo que resta é atacar.[lr]::
+10383::$$$message_0105_0045_0001$$$::"Ei...[line2]não quero nem pensar nisso, mas você achava que o templo Ryuudou era só enfeite?"[lr]::
+10384::$$$message_0105_0045_0002$$$::"Sim, achava. E tem algo de errado nisso!? Até agora, eu pensava que ele estava ali só por aparência, já que não existem mais monges com poderes de exorcismo!"[lr]::
+10385::$$$message_0105_0045_0003$$$::"Monges com poderes de exorcismo...? O que é isso?"::
+10386::$$$message_0105_0046_0000$$$::"Pessoas que fazem os fantasmas seguirem para o outro mundo sem usar talismãs, fé ou preces.[lr]::
+10387::$$$message_0105_0046_0001$$$::Os iluminados tentam fazer isso apenas com poderes budistas, mas monges sem treinamento suficiente ainda não chegam a esse nível, então acrescentam o próprio poder para compor feitiços, igual a nós.[lr]::
+10388::$$$message_0105_0046_0002$$$::Existe um tipo de organização assim neste país. Mas eles não se dão bem com a Associação dos Magos, então não sei muito sobre eles."::
+10389::$$$message_0105_0047_0000$$$::"Não, mais importante: o templo.[lr]::
+10390::$$$message_0105_0047_0001$$$::Se aquele templo fica sobre uma linha ley, os Mestres deviam tentar tomá-lo imediatamente. Estranho... por que os outros estão ignorando aquele lugar?"::
+10391::$$$message_0105_0048_0000$$$::"Porque o templo Ryuudou já está lá, né? Devem tomar conta do lugar para que não seja mal utilizado."[lr]::
+10392::$$$message_0105_0048_0001$$$::"Os monges do templo Ryuudou são apenas monges em treinamento.[lr]::
+10393::$$$message_0105_0048_0002$$$::Eles não são como nós, então seria fácil para um Mestre controlá-los."::
+10394::$$$message_0105_0049_0000$$$::"Não, Rin, você está enganada. Seria fácil para um Mestre tomar o controle daquele templo. Mas aquela montanha tem um Campo Limitado inconveniente para os Mestres."::
+10395::$$$message_0105_0050_0000$$$::"...? Um Campo Limitado que é inconveniente para nós?"[lr]::
+10396::$$$message_0105_0050_0001$$$::"Sim. Há uma magia naquela montanha que tenta eliminar tudo o que não seja um espírito natural. Não tem efeito em humanos comuns, mas é um lugar horrível para nós, Servos."::
+10397::$$$message_0105_0051_0000$$$::"Eliminar tudo o que não seja um espírito natural...[line2]então isso quer dizer que os Servos não podem entrar na montanha!"::
+10398::$$$message_0105_0052_0000$$$::"Até podem, mas nossas habilidades seriam reduzidas.[lr]::
+10399::$$$message_0105_0052_0001$$$::É como receber um Selo de Comando ordenando que não nos aproximemos daquele lugar."[lr]::
+10400::$$$message_0105_0052_0002$$$::"[line2]Então como o Mestre do templo Ryuudou mantém o próprio Servo?"::
+10401::$$$message_0105_0053_0000$$$::"Não existe esse Campo Limitado depois que você entra no templo.[lr]::
+10402::$$$message_0105_0053_0001$$$::Ouvi dizer que ele era, originalmente, uma barreira para proteger o templo. É um Campo Limitado que rejeita intrusos, mas não faz mais nada além disso."::
+10403::$$$message_0105_0054_0000$$$::"...Então, se entrarmos, não vai haver nada afetando o Servo?[lr]::
+10404::$$$message_0105_0054_0001$$$::...Mas isso é estranho. Se você fechasse o templo desse jeito, a própria linha ley deixaria de fluir. Teria que deixar pelo menos um caminho aberto, ou ele não poderia servir de centro da linha ley, certo?"::
+10405::$$$message_0105_0055_0000$$$::"Sim. Pensando na função do templo, ele não pode recusar aqueles que chegam pela entrada apropriada. Talvez o princípio siga essa ideia, mas ouvi dizer que o caminho que leva ao templo não tem Campo Limitado.[lr]::
+10406::$$$message_0105_0055_0001$$$::Naquele templo, só o portão principal não exerce esse poder de rejeitar nós, Servos."::
+10407::$$$message_0105_0056_0000$$$::"...Entendo. Deve ser isso. Se você fechar todos os portões, o ar lá dentro vai estagnar. Hmm, então é só o portão principal, é...?"::
+10408::$$$message_0105_0057_0000$$$::"Isso é tudo o que posso dizer.[lr]::
+10409::$$$message_0105_0057_0001$$$::[line2]Então, por favor, pensem num plano. Já provamos que tem um Mestre ali, então acredito que só resta uma coisa a fazer."::
+10410::$$$message_0105_0058_0000$$$::"[line8]"[lr]::
+10411::$$$message_0105_0058_0001$$$::Sei o que Saber quer dizer.[lr]::
+10412::$$$message_0105_0058_0002$$$::Os olhos dela me dizem que, agora que a localização do inimigo é conhecida, tudo o que resta é atacar.[lr]::
 10413::$$$message_0105_0058_0003$$$::Mas[line4]::
-10414::$$$message_0105_0059_0000$$$::"Vou passar essa.[lr]::
-10415::$$$message_0105_0059_0001$$$::Parece uma armadilha, e honestamente, não posso tomar uma atitude com tão pouca informação. Se você vai até o território deles, você ao menos devia esperar saber que tipo de Servo eles têm."::
-10416::$$$message_0105_0060_0000$$$::"...isso foi inesperado. Pensei que você iria lutar."[lr]::
-10417::$$$message_0105_0060_0001$$$::"Vá em frente e me insulte. O Archer não está totalmente curado, então continuarei sendo apenas uma espectadora por um tempo."::
-10418::$$$message_0105_0061_0000$$$::"Entendo. Então Shirou, vamos ao templo sozinhos."[lr]::
-10419::$$$message_0105_0061_0001$$$::"[line5]"[lr]::
-10420::$$$message_0105_0061_0002$$$::A Saber diz isso como se fosse a coisa natural a se fazer.[lr]::
+10414::$$$message_0105_0059_0000$$$::"Eu passo.[lr]::
+10415::$$$message_0105_0059_0001$$$::Isso parece uma armadilha e, sinceramente, não posso tomar uma atitude com tão pouca informação. Se vamos invadir o território deles, pelo menos devíamos esperar até saber que tipo de Servo eles tem."::
+10416::$$$message_0105_0060_0000$$$::"...Isso foi inesperado. Pensei que você iria lutar."[lr]::
+10417::$$$message_0105_0060_0001$$$::"Pode me insultar à vontade. Archer ainda não se recuperou totalmente, então por enquanto vou continuar sendo apenas uma observadora."::
+10418::$$$message_0105_0061_0000$$$::"Entendo. Então, Shirou, iremos ao templo sozinhos."[lr]::
+10419::$$$message_0105_0061_0001$$$::"[line8]"[lr]::
+10420::$$$message_0105_0061_0002$$$::Saber diz isso como se fosse a coisa mais natural do mundo.[lr]::
 10421::$$$message_0105_0061_0003$$$::Mas isso é...[lr]::
+

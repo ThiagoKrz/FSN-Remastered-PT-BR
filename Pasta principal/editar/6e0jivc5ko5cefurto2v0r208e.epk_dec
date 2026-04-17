@@ -22,7 +22,7 @@ id=qid::label=str::text=lstr::
 22353::$$$message_0200_0007_0002$$$::...Eu concordo com elas.[lr]::
 22354::$$$message_0200_0007_0003$$$::Eu acho que os homens não deveriam entrar nesse lugar.::
 22355::$$$message_0200_0008_0000$$$::"Bem, já que estamos aqui, vamos ignorá-las e dar uma olhada em volta. Saber, tem algum animal que você gosta?"::
-22356::$$$message_0200_0009_0000$$$::"Eh... bem, eu acho que os leões e as panteras são uma fofura, mas... por acaso isso é estranho?"[lr]::
+22356::$$$message_0200_0009_0000$$$::"Eh... bem, eu acho que os leões e as panteras são uma fofura, mas... por acaso isso é estranho?"::
 22357::$$$message_0200_0010_0000$$$::"[line2]!"[lr]::
 22358::$$$message_0200_0010_0001$$$::Na mesma hora, eu desvio o olhar e seguro a minha risada.[lr]::
 22359::$$$message_0200_0010_0002$$$::O engraçado é Saber perguntar se ela é estranha por achar os leões fofos.::
@@ -68,3 +68,4 @@ id=qid::label=str::text=lstr::
 22399::$$$message_0200_0031_0001$$$::Ela me segue sem reclamar.[lr]::
 22400::$$$message_0200_0031_0002$$$::"...É verdade. Foi assim desde sempre, mas eu não tinha percebido até agora..."[lr]::
 22401::$$$message_0200_0031_0003$$$::Ela resmunga para si mesma.::
+

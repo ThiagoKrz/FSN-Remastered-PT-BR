@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 18829::$$$message_0179_0002_0003$$$::Enquanto aceno para ela, eu sinto o meu suor escorrer pelo pescoço.::
 18830::$$$message_0179_0003_0000$$$::...A montanha parece uma criatura viva enorme.[lr]::
 18831::$$$message_0179_0003_0001$$$::O vento que está vindo do portão é quente, e o balançar das árvores me lembram pulmões respirando.[lr]::
-18832::$$$message_0179_0003_0002$$$::A cada passo que dou, eu sinto mais pressão e calafrios.[lr]::
+18832::$$$message_0179_0003_0002$$$::A cada passo que dou, eu sinto mais pressão e calafrios.::
 18833::$$$message_0179_0004_0000$$$::"...A mana está bem concentrada por aqui. Igual a dez anos atrás. Provavelmente..."[lr]::
 18834::$$$message_0179_0004_0001$$$::...A invocação do Santo Graal está acontecendo ou então já terminou.[lr]::
 18835::$$$message_0179_0004_0002$$$::De qualquer forma, isso quer dizer que o Lancer foi derrotado pelo Gilgamesh.::
@@ -114,7 +114,7 @@ id=qid::label=str::text=lstr::
 18931::$$$message_0179_0029_0000$$$::[line2]As longas escadas que nós acabamos de subir.::
 18932::$$$message_0179_0030_0000$$$::Essa vai ser a nossa última lembrança do tempo em que estivemos juntos.::
 18933::$$$message_0179_0031_0000$$$::Uma luz vermelha preenche o topo da montanha.[lr]::
-18934::$$$message_0179_0031_0001$$$::O vento está soprando cada vez mais forte, e parece que a fonte dessa ventania é essa luz vermelha[line2]que está vindo dos fundos desse templo.[lr]::
+18934::$$$message_0179_0031_0001$$$::O vento está soprando cada vez mais forte, e parece que a fonte dessa ventania é essa luz vermelha[line2]que está vindo dos fundos desse templo.::
 18935::$$$message_0179_0032_0000$$$::Uma atmosfera parada, com a presença de morte.[lr]::
 18936::$$$message_0179_0032_0001$$$::[line5]Isso me lembra...[lr]::
 18937::$$$message_0179_0032_0002$$$::O incêndio daquele dia.::
@@ -364,7 +364,7 @@ id=qid::label=str::text=lstr::
 19181::$$$message_0179_0105_0002$$$::Provavelmente porque as chances dela virar a batalha ao seu favor e vencer são quase zero.::
 19182::$$$message_0179_0106_0000$$$::"[line5]!"[lr]::
 19183::$$$message_0179_0106_0001$$$::Mas mesmo assim, ela precisa continuar lutando.[lr]::
-19184::$$$message_0179_0106_0002$$$::Pelo Shirou, que abandonou a sua proteção para devolver a sua bainha[line2][lr]::
+19184::$$$message_0179_0106_0002$$$::Pelo Shirou, que abandonou a sua proteção para devolver a sua bainha[line2]::
 19185::$$$message_0179_0107_0000$$$::"...Entendo. Você não vai ficar convencida de que não pode me vencer até ser derrotada por completo."[lr]::
 19186::$$$message_0179_0107_0001$$$::Mais armas aparecem.[lr]::
 19187::$$$message_0179_0107_0002$$$::Elas se movem sem que o Gilgamesh precise encostar nelas, e então apontam para a Saber.[lr]::
@@ -421,7 +421,7 @@ id=qid::label=str::text=lstr::
 19238::$$$message_0179_0119_0001$$$::Eu dou uma olhada no meu corpo enquanto rolo pelo chão.[lr]::
 19239::$$$message_0179_0119_0002$$$::Tornozelo. Tudo bem, ele ainda está no lugar. Eu só não estou sentindo ele. Já que ele está no lugar, eu ainda devo conseguir correr.::
 19240::$$$message_0179_0120_0000$$$::"Ah[line2]haa, haa, ah[line2]!"[lr]::
-19241::$$$message_0179_0120_0001$$$::Eu pulo em uma outra direção para me esquivar de mais uma serpente de lama que está vindo me atacar.[lr]::
+19241::$$$message_0179_0120_0001$$$::Eu pulo em uma outra direção para me esquivar de mais uma serpente de lama que está vindo me atacar.::
 19242::$$$message_0179_0121_0000$$$::Eu ouço o barulho de algo queimando bem do meu lado.[lr]::
 19243::$$$message_0179_0121_0001$$$::O cheiro do chão sendo queimado faz com que a minha cabeça atordoada fique atenta e[line2]::
 19244::$$$message_0179_0122_0000$$$::"[line2]!!!!!!"[lr]::
@@ -510,7 +510,7 @@ id=qid::label=str::text=lstr::
 19327::$$$message_0179_0144_0002$$$::...De qualquer forma, assim que eu mexer o meu tornozelo direito, os músculos dele vão ficar todos destruídos.::
 19328::$$$message_0179_0145_0000$$$::"Entendo. Não que eu ligue para isso, mas[line2]por que você odeia tanto o Kiritsugu? Você ficou tão chateado assim por ele ter destruído o Santo Graal?"::
 19329::$$$message_0179_0146_0000$$$::"Eu só sentia rancor por uma pessoa parecida comigo. Eu e o Kiritsugu tínhamos muitas coisas em comum, e por isso, tudo o que ele fazia me deixava nervoso. Esse é o mesmo tipo de rancor que você guarda contra mim."::
-19330::$$$message_0179_0147_0000$$$::"Quê[line2]cala a boca...! Não se atreva a dizer que o Kiritsugu era igual a você...!"[lr]::
+19330::$$$message_0179_0147_0000$$$::"Quê[line2]cala a boca...! Não se atreva a dizer que o Kiritsugu era igual a você...!"::
 19331::$$$message_0179_0148_0000$$$::"Entendo. Então é assim que você se sente.[lr]::
 19332::$$$message_0179_0148_0001$$$::Afinal, ele foi gentil o bastante para me deixar vivo.[lr]::
 19333::$$$message_0179_0148_0002$$$::Ele derrotou a mim, a pessoa que causou aquela tragédia, mas mesmo assim não tirou a minha vida.[lr]::

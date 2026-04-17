@@ -6,7 +6,7 @@ id=qid::label=str::text=lstr::
 50119::$$$message_0433_0000_0003$$$::A Fuji-nee não toca a campainha, e ela tem uma chave própria.[lr]::
 50120::$$$message_0433_0000_0004$$$::Eu não tenho muitos convidados, e como não tem muitas casas em volta, eu não tenho muitos vizinhos.::
 50121::$$$message_0433_0001_0000$$$::"...Quem que pode ser?"[lr]::
-50122::$$$message_0433_0001_0001$$$::Bom, não é ninguém hostil já que o campo de separação do meu pai não tá tocando, então eu aposto que é alguém da casa da Fuji-nee.::
+50122::$$$message_0433_0001_0001$$$::Bom, não é ninguém hostil já que o Campo Limitado do meu pai não tá tocando, então eu aposto que é alguém da casa da Fuji-nee.::
 50123::$$$message_0433_0002_0000$$$::"Quem é?"[lr]::
 50124::$$$message_0433_0002_0001$$$::Eu abro a porta.[lr]::
 50125::$$$message_0433_0002_0002$$$::Então.[lr]::
@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 50169::$$$message_0433_0020_0000$$$::O tópico, obviamente, é a Caster.[lr]::
 50170::$$$message_0433_0020_0001$$$::A gente conversa por quatro horas sobre como derrotar ela no Templo Ryuudou, mas os resultados não são bons.::
 50171::$$$message_0433_0021_0000$$$::"...Aah. Eu acho que a única coisa que a gente pode fazer é lutar com eles de frente. Se o que a Saber falou é verdade, Servos só podem passar pela entrada da frente."::
-50172::$$$message_0433_0022_0000$$$::"Sim. Há um forte campo de separação contra espíritos naquela montanha. Minha única opção seria entrar pelo portão principal. ...Como o Archer tem ação independente como habilidade da classe, eu tenho certeza que ele consegue entrar lá usando força."::
+50172::$$$message_0433_0022_0000$$$::"Sim. Há um forte Campo Limitado contra espíritos naquela montanha. Minha única opção seria entrar pelo portão principal. ...Como o Archer tem ação independente como habilidade da classe, eu tenho certeza que ele consegue entrar lá usando força."::
 50173::$$$message_0433_0023_0000$$$::"E depois dele conseguir entrar com toda sua força, a Caster vai estar esperando por ele, certo? Isso não é nem um pouco bom."::
 50174::$$$message_0433_0024_0000$$$::"...Você está certa. Ele não pode ser o alvo quando ele é quem deveria estar atirando no alvo. Bom, eu tenho certeza que a Saber e o Archer ganhariam do Assassin juntos, mas encurralar a Caster depois de entrar no templo seria outro problema.[lr]::
 50175::$$$message_0433_0024_0001$$$::Pelo que ouvi do Emiya-kun, há uma grande piscina de energia mágica lá. Se a encurralarmos mal, ela poderá nos levar junto com todo o Templo Ryuudou..."::

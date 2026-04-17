@@ -1,8 +1,8 @@
 DAT
 id=qid::label=str::text=lstr::
 11990::$$$message_0119_0000_0000$$$::"[line2]!"[lr]::
-11991::$$$message_0119_0000_0001$$$::Eu não tenho tempo para ficar pensando.[lr]::
-11992::$$$message_0119_0000_0002$$$::Não tenho chance de vencer com o meu corpo nesse estado, então eu deveria evitar de lutar até que me recuperar...!::
+12019::$$$message_0120_0000_0001$$$::Não há tempo para hesitar.[lr]::
+12020::$$$message_0120_0000_0002$$$::Com esse corpo, não tenho chance de vencer, e agora o mais importante é não ser encontrado.[lr]::
 11993::$$$message_0119_0001_0000$$$::"Certo...!"[lr]::
 11994::$$$message_0119_0001_0001$$$::Eu cruzo os braços e finjo que estou amarrado.::
 11995::$$$message_0119_0002_0000$$$::"...!"[lr]::
@@ -11,20 +11,21 @@ id=qid::label=str::text=lstr::
 11998::$$$message_0119_0002_0003$$$::Enfim, logo antes dessa pessoa entrar no quarto, eu dou um jeito de sentar na cadeira e colocar os braços atrás das costas[line2]::
 11999::$$$message_0119_0003_0000$$$::"[line2]Você está bem, Shirou...!?"[lr]::
 12000::$$$message_0119_0003_0001$$$::"[line3]"[lr]::
-12001::$$$message_0119_0003_0002$$$::Eu estou chocado.[lr]::
-12002::$$$message_0119_0003_0003$$$::Eu me pergunto se isso não passa de uma ilusão aconchegante.::
+12001::$$$message_0119_0003_0002$$$::Estou chocado.[lr]::
+12002::$$$message_0119_0003_0003$$$::Me pergunto se isso não passa de uma ilusão aconchegante.::
 12003::$$$message_0119_0004_0000$$$::"Vejo que eles te amarraram.[lr]::
-12004::$$$message_0119_0004_0001$$$::Eu já vou te soltar, então[line2]"[lr]::
+12004::$$$message_0119_0004_0001$$$::Já vou te soltar, então[line2]"[lr]::
 12005::$$$message_0119_0004_0002$$$::"Ah, não. A corda não está amarrada..."[lr]::
-12006::$$$message_0119_0004_0003$$$::Eu tiro os braços das minhas costas e mostro para ela.::
-12007::$$$message_0119_0005_0000$$$::"...Eu não entendi. Você não estava sendo mantido em cativeiro aqui...?"::
+12006::$$$message_0119_0004_0003$$$::Tiro os braços das minhas costas e mostro para ela.::
+12007::$$$message_0119_0005_0000$$$::"...Não entendi. Você não estava sendo mantido em cativeiro aqui...?"::
 12008::$$$message_0119_0006_0000$$$::"...Bem, é que... eu dei um jeito de me soltar e estava prestes a fugir. Mas alguém veio até aqui, então eu fingi que ainda estava preso..."::
 12009::$$$message_0119_0007_0000$$$::"[line2]Entendi. Você tentou pegar o seu inimigo desprevenido para aumentar as chances de escapar."[lr]::
 12010::$$$message_0119_0007_0001$$$::A Saber está impressionada.[lr]::
 12011::$$$message_0119_0007_0002$$$::...Bem, é melhor eu não mencionar a parte em que eu não sabia o que fazer depois.::
 12012::$$$message_0119_0008_0000$$$::"Saber, você é mesmo a Saber, não é!? Não é uma ilusão, certo...?"[lr]::
-12013::$$$message_0119_0008_0001$$$::Eu me levanto e toco na Saber.::
+12013::$$$message_0119_0008_0001$$$::Me levanto e toco na Saber.::
 12014::$$$message_0119_0009_0000$$$::"...!! S-Shirou, espera. Se você me tocar assim..."[lr]::
 12015::$$$message_0119_0009_0001$$$::"Sim, você é real[line2]ah, mas por que está aqui?"::
-12016::$$$message_0119_0010_0000$$$::"E-Eu nem preciso te explicar uma coisa dessas. Um Servo não precisa de um motivo para proteger o seu Mestre. É completamente esperado que eu viesse te salvar, já que você foi sequestrado."::
-12017::$$$message_0119_0011_0000$$$::"Ah... bem... mas como você soube que eu fui capturado? Ou melhor, por que você está aqui, Saber? Este é o esconderijo da Illya. Você não deveria chegar nem perto daqui agora."::
+12016::$$$message_0119_0010_0000$$$::"E-Eu nem preciso te explicar uma coisa dessas. Um Servo não precisa de motivo para proteger seu Mestre. Se você foi capturado, é natural que eu venha resgatá-lo.":: 
+12046::$$$message_0120_0007_0000$$$::"Não, quer dizer... como você soube que eu fui capturado? E mais importante, por que você está aqui? Este é o esconderijo da Illya. Não é um lugar onde você deveria chegar perto agora."::
+

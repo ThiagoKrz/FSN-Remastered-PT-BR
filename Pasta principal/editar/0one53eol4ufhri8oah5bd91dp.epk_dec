@@ -1,10 +1,10 @@
 DAT
 id=qid::label=str::text=lstr::
 12018::$$$message_0120_0000_0000$$$::"[line2]!"[lr]::
-12019::$$$message_0120_0000_0001$$$::Eu não tenho tempo para ficar pensando.[lr]::
-12020::$$$message_0120_0000_0002$$$::Não tenho chance de vencer com o meu corpo nesse estado, então eu deveria fazer de tudo para não me encontrarem.[lr]::
+12019::$$$message_0120_0000_0001$$$::Não há tempo para hesitar.[lr]::
+12020::$$$message_0120_0000_0002$$$::Com esse corpo, não tenho chance de vencer, e agora o mais importante é não ser encontrado.[lr]::
 12021::$$$message_0120_0000_0003$$$::E que tal eu me esconder na cama!?::
-12022::$$$message_0120_0000_0004$$$::Eu me jogo em cima da cama e puxo o cobertor para cima de mim.[lr]::
+12022::$$$message_0120_0000_0004$$$::Me jogo em cima da cama e puxo o cobertor para cima de mim.[lr]::
 12023::$$$message_0120_0000_0005$$$::O barulho da porta se abrindo vem logo em seguida.[lr]::
 12024::$$$message_0120_0000_0006$$$::...A Illya pode ter voltado, ou então pode ser outra pessoa de dentro do castelo.[lr]::
 12025::$$$message_0120_0000_0007$$$::De qualquer forma, esse alguém deve ter se chocado e ficado perplexo com o desaparecimento do prisioneiro, e deve estar olhando agora para a cadeira vazia com uma cara de espanto.::
@@ -12,21 +12,21 @@ id=qid::label=str::text=lstr::
 12027::$$$message_0120_0001_0001$$$::"[line5]"[lr]::
 12028::$$$message_0120_0001_0002$$$::Ha, isso daqui é perfeito.[lr]::
 12029::$$$message_0120_0001_0003$$$::A pessoa está parada sem ter o que dizer sobre esse truque perfeito da porta fechada, e...[lr]::
-12030::$$$message_0120_0001_0004$$$::"Ah... o que você está fazendo, Shirou?"[lr]::
+12030::$$$message_0120_0001_0004$$$::"...O que está fazendo, Shirou?"[lr]::
 12031::$$$message_0120_0001_0005$$$::E diz isso em um tom de voz completamente surpreso.::
 12032::$$$message_0120_0002_0000$$$::"Hã?"[lr]::
 12033::$$$message_0120_0002_0001$$$::Eu tiro o meu rosto da cama macia.::
-12034::$$$message_0120_0003_0000$$$::"Eu te perguntei o que você está fazendo.[lr]::
-12035::$$$message_0120_0003_0001$$$::Eu não quero pensar que seja isso, mas... não me diga que você pretendia se esconder aí."[lr]::
+12034::$$$message_0120_0003_0000$$$::"Perguntei o que está fazendo aí.[lr]::
+12035::$$$message_0120_0003_0001$$$::Não vai me dizer que achou que isso ia te esconder, vai?"[lr]::
 12036::$$$message_0120_0003_0002$$$::"Ah[line2]bem, é que..."[lr]::
 12037::$$$message_0120_0003_0003$$$::Eu saio da cama.::
 12038::$$$message_0120_0004_0000$$$::"Na verdade, eu estava me escondendo sim."[lr]::
-12039::$$$message_0120_0004_0001$$$::Eu pergunto para ela com os olhos se eu estava sendo ingênuo.[lr]::
-12040::$$$message_0120_0004_0002$$$::"Não acredito. Se eu fosse o inimigo, eu iria te cortar ao meio sem piedade."::
+12039::$$$message_0120_0004_0001$$$::Pergunto com o olhar se foi ingênuo da minha parte.[lr]::
+12040::$$$message_0120_0004_0002$$$::"Ingenuidade total. Se eu fosse inimiga, já teria te cortado ao meio sem hesitar.":: 
 12041::$$$message_0120_0005_0000$$$::"Ah, um..."[lr]::
-12042::$$$message_0120_0005_0001$$$::Eu não sei o que responder.[lr]::
+12042::$$$message_0120_0005_0001$$$::Não consigo responder.[lr]::
 12043::$$$message_0120_0005_0002$$$::...Acho que acabei de mostrar algo bem constrangedor.::
 12044::$$$message_0120_0006_0000$$$::"Um, bem... Saber, por que você está aqui...?"[lr]::
-12045::$$$message_0120_0006_0001$$$::"Eu nem preciso te explicar uma coisa dessas. Um Servo não precisa de um motivo para proteger o seu Mestre. É completamente esperado que eu viesse te salvar, já que você foi sequestrado."::
-12046::$$$message_0120_0007_0000$$$::"Um... bem, eu estou perguntando como você sabia que eu fui sequestrado. Aliás, mais importante do que isso, por que você está aqui? Esse é o esconderijo da Illya. Você não deveria ter vindo para cá."::
-Q
+12045::$$$message_0120_0006_0001$$$::"Não deveria nem precisar perguntar. Um Servo não precisa de motivo para proteger seu Mestre. Se você foi capturado, é natural que eu venha resgatá-lo.":: 
+12046::$$$message_0120_0007_0000$$$::"Não, quer dizer... como você soube que eu fui capturado? E mais importante, por que você está aqui? Este é o esconderijo da Illya. Não é um lugar onde você deveria chegar perto agora."::
+

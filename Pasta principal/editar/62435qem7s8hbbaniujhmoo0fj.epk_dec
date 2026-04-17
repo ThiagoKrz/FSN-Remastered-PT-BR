@@ -46,7 +46,7 @@ id=qid::label=str::text=lstr::
 423::$$$message_0001_0011_0004$$$::Provavelmente nem entendia o que era aquela sensação.::
 424::$$$message_0001_0012_0000$$$::"Hã?"[lr]::
 425::$$$message_0001_0012_0001$$$::Quando meus olhos se acostumaram, acordei assustado.[lr]::
-426::$$$message_0001_0012_0002$$$::Eu estava deitaddo em uma cama desconhecidaa, em um quarto desconhecido[lr]::
+426::$$$message_0001_0012_0002$$$::Eu estava deitado em uma cama desconhecida, em um quarto desconhecido[lr]::
 427::$$$message_0001_0012_0003$$$::Fiquei surpreso, mmas o quarto é tão branco e limpo que me deixaram seguro.::
 428::$$$message_0001_0013_0000$$$::"Onde eu estou...?"[lr]::
 429::$$$message_0001_0013_0001$$$::Eu olho ao meu redor.[lr]::
@@ -63,9 +63,9 @@ id=qid::label=str::text=lstr::
 440::$$$message_0001_0016_0002$$$::Mas mesmo assim, eu não era diferente de um bebê recém-nascido.[lr]::
 441::$$$message_0001_0016_0003$$$::Não apenas metaforicamente, isso era bem próximo da realidade.::
 442::$$$message_0001_0017_0000$$$::De qualquer modo, foi um incêndio terrível.[lr]::
-443::$$$message_0001_0017_0001$$$::Eu fui salvo de lá e acordei em um hospital, com meu corpo inteiro enfaixado. Meus pais tinham morrido.[lr]::
-444::$$$message_0001_0017_0002$$$::Eu não entendi a situação, mas logo percebi que estava sozinho.[lr]::
-445::$$$message_0001_0017_0003$$$::Acho que eu entendi tudo bem rápido.[lr]::
+443::$$$message_0001_0017_0001$$$::Fui salvo de lá e acordei em um hospital, com meu corpo inteiro enfaixado. Meus pais tinham morrido.[lr]::
+444::$$$message_0001_0017_0002$$$::Não entendia bem a situação.[lr]::
+445::$$$message_0001_0017_0003$$$::Ainda assim, percebi rápido que eu estava sozinho.[lr]::
 446::$$$message_0001_0017_0004$$$::Bom, todos ao meu redor eram crianças em situações semelhantes à minha, então só me restava aceitar.::
 447::$$$message_0001_0018_0000$$$::[line3]Depois disso...[lr]::
 448::$$$message_0001_0018_0001$$$::Aquele homem veio, bem quando comecei a me preocupar sobre o que viria a seguir.::
@@ -79,11 +79,11 @@ id=qid::label=str::text=lstr::
 456::$$$message_0001_0021_0001$$$::Aquele homem estava dizendo que poderia me adotar.[lr]::
 457::$$$message_0001_0021_0002$$$::Quando o perguntei se ele era um parente meu, ele respondeu que era apenas um estranho.[lr]::
 458::$$$message_0001_0021_0003$$$::Ele parecia ser um cara não confiável e sem futuro...[lr]::
-459::$$$message_0001_0021_0004$$$::Mas não fazia diferença, pois eu não sabia nada sobre ele ou sobre o orfanato.[lr]::
+459::$$$message_0001_0021_0004$$$::Mas não fazia diferença. Eu também não sabia nada sobre o orfanato.[lr]::
 460::$$$message_0001_0021_0005$$$::Então eu decidi ir com ele.::
 461::$$$message_0001_0022_0000$$$::"É mesmo? Mas que ótimo. Nesse caso, vamos arrumar suas coisas imediatamente. Você precisa se acostumar à sua nova casa o mais rápido possível."[lr]::
 462::$$$message_0001_0022_0001$$$::Ele rapidamente começou a guardar as minhas coisas.[lr]::
-463::$$$message_0001_0022_0002$$$::Era um desastre nisso, at~e mesmo para os padrões de uma criança.[lr]::
+463::$$$message_0001_0022_0002$$$::Era um desastre nisso, até mesmo para os padrões de uma criança.[lr]::
 464::$$$message_0001_0022_0003$$$::E então, depois de fazer uma bagunça enorme...::
 465::$$$message_0001_0023_0000$$$::"Ah, eu esqueci de mencionar algo importante.[lr]::
 466::$$$message_0001_0023_0001$$$::Antes de você vir comigo, tem algo que eu preciso te contar."[lr]::
@@ -125,7 +125,7 @@ id=qid::label=str::text=lstr::
 502::$$$message_0001_0032_0001$$$::Seu comportamento era estranho, mas pra mim ele sempre parecia deslumbrante.[lr]::
 503::$$$message_0001_0032_0002$$$::Talvez seja por isso que eu quis ser como ele algum dia.::
 504::$$$message_0001_0033_0000$$$::Bom...[lr]::
-505::$$$message_0001_0033_0001$$$::Pensando bem...[lr] Com um  pai daquele jeito, sempre sonhando acordado, achei que precisava ser alguém mais responsável.::
+505::$$$message_0001_0033_0001$$$::Pensando bem...[lr] Com um pai daquele jeito, sempre sonhando acordado, achei que precisava ser alguém mais responsável.::
 506::$$$message_0001_0034_0000$$$::Eu ouço um som...[lr]::
 507::$$$message_0001_0034_0001$$$::Um rangido velho, pesado, e enferrujado, o som da porta se abrindo.::
 508::$$$message_0001_0035_0000$$$::Raios de luz invadem o galpão escuro.[lr]::
@@ -142,7 +142,7 @@ id=qid::label=str::text=lstr::
 519::$$$message_0001_0039_0002$$$::...?[lr]::
 520::$$$message_0001_0039_0003$$$::A Sakura parece mais animada do que o normal hoje, como se estivesse feliz com alguma coisa.::
 521::$$$message_0001_0040_0000$$$::"Sério...? Eu acho que você vem me acordar com bastante frequência até.[lr]::
-522::$$$message_0001_0040_0001$$$::Apesar de que a Fuji-nee sempre me bate pra me acordar, então eu prefiro que você me acorde... Bom, eu vou tentar mais da próxima vez."::
+522::$$$message_0001_0040_0001$$$::Apesar de que a Fuji-nee sempre me bate pra me acordar, então eu prefiro que você me acorde... Bom, eu vou tentar não dormir aqui de novo."::
 523::$$$message_0001_0041_0000$$$::Ainda meio sonolento, respondo sem pensar muito...[lr]::
 524::$$$message_0001_0041_0001$$$::Não sei bem o que estou dizendo por ainda não ter acordado direito.::
 525::$$$message_0001_0042_0000$$$::"Tudo bem. Mas eu gosto mais quando você não tenta."[lr]::
@@ -159,7 +159,7 @@ id=qid::label=str::text=lstr::
 536::$$$message_0001_0046_0003$$$::"Não precisa. Deve estar cansado, você ficou acordado até tarde ontem à noite, não foi? Pode ficar tranquilo, eu preparo o café."::
 537::$$$message_0001_0047_0000$$$::Ela diz isso em um tom alegre.[lr]::
 538::$$$message_0001_0047_0001$$$::Que estranho... A Sakura realmente parece estar de bom humor essa manhã.::
-539::$$$message_0001_0048_0000$$$::"Não, nada disso. Não posso deixar você fazer tudo sozinha. Já levantei, vamos pra cozina juntos."::
+539::$$$message_0001_0048_0000$$$::"Não, nada disso. Não posso deixar você fazer tudo sozinha. Já levantei, vamos pra cozinha juntos."::
 540::$$$message_0001_0049_0000$$$::"Beleza, eu estou pronto. Vamos, Sakura."[lr]::
 541::$$$message_0001_0049_0001$$$::"Ah... uhm... Senpai..."[lr]::
 542::$$$message_0001_0049_0002$$$::"Hm? O que foi? Tem algo de errado?"[lr]::
@@ -179,13 +179,13 @@ id=qid::label=str::text=lstr::
 556::$$$message_0001_0054_0001$$$::De todo jeito, eu sempre gostei de mexer com esse tipo de coisa, então, pra mim, aquilo é praticamente um tesouro.::
 557::$$$message_0001_0055_0000$$$::O velho sempre falava pra eu não mexer aqui, mas eu ignorava e entrava escondido quase todo dia. Como resultado, o galpão se tornou a minha base.[lr]::
 558::$$$message_0001_0055_0001$$$::Para mim, Emiya Shirou, acho que se poderia dizer que esse lugar é o meu verdadeiro quarto.[lr]::
-559::$$$message_0001_0055_0002$$$::Essa casa enorme não combina comigo, mas aqui, cercado de trlaha, consigo me sentir à vontade.::
-560::$$$message_0001_0056_0000$$$::"Além disso... é um desperdício enorme. Pode até ser lixo, mas muita coisa aqui ainda a funciona."[lr]::
+559::$$$message_0001_0055_0002$$$::Essa casa enorme não combina comigo, mas aqui, cercado de tralha, consigo me sentir à vontade.::
+560::$$$message_0001_0056_0000$$$::"Além disso... é um desperdício enorme. Pode até ser lixo, mas muita coisa aqui ainda funciona."[lr]::
 561::$$$message_0001_0056_0001$$$::A maioria das coisas aqui são utensílios que perderam o seu uso.::
-562::$$$message_0001_0057_0000$$$::Não sei se comecei a trazer coisas pra cá porque gostava do lugar, ou se gostei justamente por causa da quantida de tralha.[lr]::
+562::$$$message_0001_0057_0000$$$::Não sei se comecei a trazer coisas pra cá porque gostava do lugar, ou se gostei justamente por causa da quantidade de tralha.[lr]::
 563::$$$message_0001_0057_0001$$$::Seja qual for, como eu sempre me esgueirava até aqui, consertar as coisas quebradas se tornou um hobby meu.::
 564::$$$message_0001_0058_0000$$$::Não é que eu me apegue às coisas.[lr]::
-565::$$$message_0001_0058_0001$$$::Não medesce ver coisas que ainda podem ser usadas sendo abandonadas.[lr]::
+565::$$$message_0001_0058_0001$$$::Não me desce ver coisas que ainda podem ser usadas sendo abandonadas.[lr]::
 566::$$$message_0001_0058_0002$$$::E assim, eu passei a noite inteira arrumando esse fogão.::
 567::$$$message_0001_0059_0000$$$::"Acho que vou deixar pra terminar isso amanhã... Se eu caí no sono no meio dos reparos, é porque não to com cabeça pra isso."[lr]::
 568::$$$message_0001_0059_0001$$$::Deixo de lado essa frustração comigo mesmo.[lr]::
@@ -212,7 +212,7 @@ id=qid::label=str::text=lstr::
 589::$$$message_0001_0066_0003$$$::Ele não é "como" um chefe da yakuza, ele "é" um chefe da yakuza.::
 590::$$$message_0001_0067_0000$$$::"..."[lr]::
 591::$$$message_0001_0067_0001$$$::Por mais que isso seja um problema, eu prefiro simplesmente ignorar esses detalhes.::
-592::$$$message_0001_0069_0000$$$::De qualquer modo, é por isso que eu sou a única pessoa vivendo nessa casa enorme.[lr]::
+592::$$$message_0001_0069_0000$$$::De qualquer modo, eu moro nessa enorme casa por conta própria.[lr]::
 593::$$$message_0001_0069_0001$$$::Já faz cinco anos desde que meu pai morreu.[lr]::
 594::$$$message_0001_0069_0002$$$::Os dias passaram depressa.[lr]::
 595::$$$message_0001_0069_0003$$$::Eu suspiro, pensando no quanto eu cresci nesses cinco anos.::

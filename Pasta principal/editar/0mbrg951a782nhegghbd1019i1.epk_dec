@@ -4,7 +4,7 @@ id=qid::label=str::text=lstr::
 3498::$$$message_0038_0000_0001$$$::Você precisa reforçar o vidro do lado de fora."[lr]::
 3499::$$$message_0038_0000_0002$$$::Ela me dá o abajur antigo.::
 3500::$$$message_0038_0001_0000$$$::"[line5]"[lr]::
-3501::$$$message_0038_0001_0001$$$::Eu me sento.[lr]::
+3501::$$$message_0038_0001_0001$$$::Sento no chão.[lr]::
 3502::$$$message_0038_0001_0002$$$::Respiro fundo, segurando-o com as duas mãos.[lr]::
 3503::$$$message_0038_0001_0003$$$::A Tohsaka fala tranquilamente, mas estou duro com toda a tensão.::
 3504::$$$message_0038_0002_0000$$$::Mesmo que eu faça isso toda a noite, a verdade é que a chance de sucesso é menor do que 0,1 por cento.[lr]::
@@ -20,39 +20,39 @@ id=qid::label=str::text=lstr::
 3514::$$$message_0038_0005_0002$$$::Tudo que preciso fazer é enfiar esse nervo fervente incompatível em meu corpo e me familiarizar com ele.[lr]::
 3515::$$$message_0038_0005_0003$$$::Assim que isso der certo, tudo que preciso fazer é derramar a quantidade certa de energia mágica no vidro e[line3]::
 3516::$$$message_0038_0006_0000$$$::"[line2]Ah"[lr]::
-3517::$$$message_0038_0006_0001$$$::Eu o quebrei.[lr]::
-3518::$$$message_0038_0006_0002$$$::Não devo ter conseguido controlar, já que botei mais do que o necessário de energia mágica nele, e como resultado, o vidro quebrou.::
+3517::$$$message_0038_0006_0001$$$::Quebrou.[lr]::
+3518::$$$message_0038_0006_0002$$$::Acho que não consegui controlar direito e acabei despejando energia mágica demais, então o vidro quebrou sem nem resistir.::
 3519::$$$message_0038_0007_0000$$$::"......"[lr]::
-3520::$$$message_0038_0007_0001$$$::Eu olho timidamente para a Tohsaka.[lr]::
-3521::$$$message_0038_0007_0002$$$::"...como eu pensei. Pensei que fosse o caso, mas realmente é."::
+3520::$$$message_0038_0007_0001$$$::Ergo os olhos pra Tohsaka, receoso.[lr]::
+3521::$$$message_0038_0007_0002$$$::"...Como eu pensei. Pensei que fosse o caso, mas realmente é."::
 3522::$$$message_0038_0008_0000$$$::"Hm? Como assim pensou nisso?"[lr]::
 3523::$$$message_0038_0008_0001$$$::"Não é óbvio? Estou chocada com sua falta de talento...! Primeiramente, você não sabe nem os básicos. Céus, estou impressionada que você consegue produzir energia mágica com um método ridículo desses!"::
 3524::$$$message_0038_0009_0000$$$::"...Tohsaka. Esta nervosa?"::
 3525::$$$message_0038_0010_0000$$$::"Claro! Estou surpreso que você continuou treinando com problemas básicos, e até mesmo quero matar seu professor por não te corrigir.[lr]::
 3526::$$$message_0038_0010_0001$$$::Por que você tá pegando esse caminho longo...!?".::
-3527::$$$message_0038_0011_0000$$$::"...hm. Não entendi o que você está dizendo, mas não insulte meu pai. É minha culpa eu não ter talento, meu pai não tem nada haver com isso."::
+3527::$$$message_0038_0011_0000$$$::"...Hm. Não entendi o que você está dizendo, mas não insulte meu pai. É minha culpa eu não ter talento, meu pai não tem nada haver com isso."::
 3528::$$$message_0038_0012_0000$$$::"Claro que ele tem algo haver com isso. Se ele te tomou como aprendiz, é o papel dele corrigir o aluno.[lr]::
-3529::$$$message_0038_0012_0001$$$::...bem, você tem razão que não é bom jogar isso em alguém que já faleceu, mas ainda, seu professor te ensinou o primeiro passo errado."::
+3529::$$$message_0038_0012_0001$$$::...Bem, você tem razão que não é bom jogar isso em alguém que já faleceu, mas ainda, seu professor te ensinou o primeiro passo errado."::
 3530::$$$message_0038_0013_0000$$$::Ainda irritada, a Tohsaka tira um tipo de lata da bolsa dela.[lr]::
 3531::$$$message_0038_0013_0001$$$::Parece uma lata cheia de doces, algo que crianças estrangeiras amam.[lr]::
 3532::$$$message_0038_0013_0002$$$::Já vi várias imitações no Japão também.[lr]::
 3533::$$$message_0038_0013_0003$$$::Essa coisa tem várias variedades de doces, e o branco é de menta.::
 3534::$$$message_0038_0014_0000$$$::"Estica a mão, Shirou."[lr]::
 3535::$$$message_0038_0014_0001$$$::"...?"[lr]::
-3536::$$$message_0038_0014_0002$$$::Eu abro minha mão.[lr]::
+3536::$$$message_0038_0014_0002$$$::Obedeço e estico a mão.[lr]::
 3537::$$$message_0038_0014_0003$$$::A Tohsaka sacode a lata e tira um doce vermelho.::
-3538::$$$message_0038_0015_0000$$$::"Tudo bem, engula isso."[lr]::
+3538::$$$message_0038_0015_0000$$$::"Tudo bem, engole isso."[lr]::
 3539::$$$message_0038_0015_0001$$$::"...?"[lr]::
-3540::$$$message_0038_0015_0002$$$::Eu coloca na minha boca como instruído.::
-3541::$$$message_0038_0016_0000$$$::"...não é doce."[lr]::
+3540::$$$message_0038_0015_0002$$$::Mesmo sem entender, coloco na minha boca como instruído.::
+3541::$$$message_0038_0016_0000$$$::"...Não é doce."[lr]::
 3542::$$$message_0038_0016_0001$$$::Não, não tem gosto.[lr]::
 3543::$$$message_0038_0016_0002$$$::E essa sensação... parece mais pedra do que doce.::
 3544::$$$message_0038_0017_0000$$$::"...hmmm..."[lr]::
 3545::$$$message_0038_0017_0001$$$::Eu forçadamente o engulo.[lr]::
 3546::$$$message_0038_0017_0002$$$::"Ah, ouch. Minha garganta doi. O que foi isso, Tohsaka?"::
 3547::$$$message_0038_0018_0000$$$::"Uma joia, claro. Não conseguiu perceber olhando?"[lr]::
-3548::$$$message_0038_0018_0001$$$::Diretamente.[lr]::
-3549::$$$message_0038_0018_0002$$$::A Tohsaka diz algo louco.::
+3548::$$$message_0038_0018_0001$$$::Com toda a naturalidade do mundo.[lr]::
+3549::$$$message_0038_0018_0002$$$::A Tohsaka solta uma coisa completamente louca.::
 3550::$$$message_0038_0019_0000$$$::"Uma joia, por que...!?"[lr]::
 3551::$$$message_0038_0019_0001$$$::"Não consegui evitar. Preparei uns remédios também, mas esse tipo de coisa não vai funcionar se eu quiser te consertar agora. Então decidi abrir o interruptor direto."::
 3552::$$$message_0038_0020_0000$$$::"Não, não é esse o ponto...! Por que você me fez engolir uma joia!? Não posso digerir isso!"::
@@ -194,7 +194,7 @@ id=qid::label=str::text=lstr::
 3688::$$$message_0038_0069_0004$$$::Passos que parecem escoar pela noite.[lr]::
 3689::$$$message_0038_0069_0005$$$::Esta presente rudemente se aproxima uma segunda vez.::
 3690::$$$message_0038_0070_0000$$$::"...que foi? Não tenho nada contigo."[lr]::
-3691::$$$message_0038_0070_0001$$$::"Me sinto o mesmo. Mas parece que a Rin está preocupada, então não posso ignorar."::
+3691::$$$message_0038_0070_0001$$$::"Da minha parte, o sentimento é o mesmo. Mas parece que a Rin está preocupada, então não posso ignorar."::
 3692::$$$message_0038_0071_0000$$$::"......"[lr]::
 3693::$$$message_0038_0071_0001$$$::Eu jogo a taboa, olhando pro  Archer.[lr]::
 3694::$$$message_0038_0071_0002$$$::E então, ele a pega, como se tivesse interessado nela.::
@@ -215,9 +215,9 @@ id=qid::label=str::text=lstr::
 3709::$$$message_0038_0076_0002$$$::"...Hm. Talvez você tenha tido azar com seus professores."[lr]::
 3710::$$$message_0038_0076_0003$$$::O Archer diz como se tivesse impressionado.::
 3711::$$$message_0038_0077_0000$$$::"Huh...? Não pode ser verdade. Meu pai e a Tohsaka são bons em ensinar, logo eu devo ser um péssimo aluno."::
-3712::$$$message_0038_0078_0000$$$::"[line2]por isso. Pra você, um mago que não sabe de nada seria melhor.[lr]::
+3712::$$$message_0038_0078_0000$$$::"[line2]É justamente por isso. Pra alguém como você, talvez funcionasse melhor um mago que não entende de nada.[lr]::
 3713::$$$message_0038_0078_0001$$$::Um gênio não pode compreender a agonia de uma pessoa ordinária.[lr]::
-3714::$$$message_0038_0078_0002$$$::A Rin é boa demais pra entender o erro de um largado."::
+3714::$$$message_0038_0078_0002$$$::Rin é talentosa demais pra perceber onde um fracassado como você está errando."::
 3715::$$$message_0038_0079_0000$$$::"...?"[lr]::
 3716::$$$message_0038_0079_0001$$$::Não entendi o que ele quis dizer.[lr]::
 3717::$$$message_0038_0079_0002$$$::Não entendi, mas posso supor que...::
@@ -226,11 +226,11 @@ id=qid::label=str::text=lstr::
 3720::$$$message_0038_0080_0002$$$::"Isso é um erro também. Emiya Shirou não foi feito pra lutar.[lr]::
 3721::$$$message_0038_0080_0003$$$::Porque sua luta deveria ser uma luta mental, uma luta consigo mesmo."::
 3722::$$$message_0038_0081_0000$$$::"Hm... está dizendo que uma luta entre magos é uma luta mental, né? Já sei disso. Mas ainda, uma luta tem que ter uma troca de golpes."::
-3723::$$$message_0038_0082_0000$$$::"Geez. A Saber está enrascada se você for assim."[lr]::
-3724::$$$message_0038_0082_0001$$$::O Archer olha pra mim com seriedade.[lr]::
-3725::$$$message_0038_0082_0002$$$::Em seus olhos, há coisas que não vi antes... rejeição real e fúria.::
-3726::$$$message_0038_0083_0000$$$::"Escute bem pois só vou dizer isso uma vez.[lr]::
-3727::$$$message_0038_0083_0001$$$::Olha. Emiya Shirou não tem chance de ganhar se for uma luta.[lr]::
+3723::$$$message_0038_0082_0000$$$::"Francamente. A Saber vai sofrer na sua mão se continuar assim."[lr]::
+3724::$$$message_0038_0082_0001$$$::Archer me olha de cima com total desprezo.[lr]::
+3725::$$$message_0038_0082_0002$$$::Naqueles olhos havia algo que eu ainda não tinha visto até agora... decepção genuína, misturada com raiva.::
+3726::$$$message_0038_0083_0000$$$::"Só vou dizer isso uma vez, então escute bem.[lr]::
+3727::$$$message_0038_0083_0001$$$::Entendeu? Quando a luta começar, Emiya Shirou não tem chance nenhuma de vencer.[lr]::
 3728::$$$message_0038_0083_0002$$$::Nenhuma das suas habilidades são úteis contra um Servo."::
 3729::$$$message_0038_0084_0000$$$::"...!"[lr]::
 3730::$$$message_0038_0084_0001$$$::Isso foi algo que a Saber me disse.[lr]::
@@ -244,11 +244,11 @@ id=qid::label=str::text=lstr::
 3738::$$$message_0038_0086_0002$$$::Mas sinto que as palavras do Archer naturalmente conectam comigo.::
 3739::$$$message_0038_0087_0000$$$::Não devo esquecer essas palavras.[lr]::
 3740::$$$message_0038_0087_0001$$$::Acho que o que esse homem está dizendo nunca deve ser esquecido[line2]::
-3741::$$$message_0038_0088_0000$$$::"...há algo de errado em avisar o homem que preciso matar. Acho que a bondade da Rin se transferiu pra mim."[lr]::
+3741::$$$message_0038_0088_0000$$$::"...Há algo de errado em avisar o homem que preciso matar. Acho que a bondade da Rin se transferiu pra mim."[lr]::
 3742::$$$message_0038_0088_0001$$$::O Archer some repentinamente.[lr]::
 3743::$$$message_0038_0088_0002$$$::O Archer que deveria vigiar.[lr]::
 3744::$$$message_0038_0088_0003$$$::Aposto que ele voltou pro telhado onde é ideal para observar.::
-3745::$$$message_0038_0089_0000$$$::"...qual é a dele?"[lr]::
+3745::$$$message_0038_0089_0000$$$::"...Qual é a dele?"[lr]::
 3746::$$$message_0038_0089_0001$$$::Reclamo do cara que desapareceu.[lr]::
 3747::$$$message_0038_0089_0002$$$::Não há resposta.[lr]::
 3748::$$$message_0038_0089_0003$$$::Ponderando as palavras que ocupam horrivelmente minha mente, sinto o ar frio de inverno em meu corpo ardente.::

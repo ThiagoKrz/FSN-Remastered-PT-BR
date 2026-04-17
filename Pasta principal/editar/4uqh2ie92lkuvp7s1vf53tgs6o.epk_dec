@@ -8,17 +8,17 @@ id=qid::label=str::text=lstr::
 17812::$$$message_0166_0003_0000$$$::"Sim! Eu estava pensando nisso de manhã, mas o Shirou sabe mesmo cozinhar.[lr]::
 17813::$$$message_0166_0003_0001$$$::Como é bom ter uma comida gostosa para comer!"::
 17814::$$$message_0166_0004_0000$$$::Enquanto isso, a Illya está agitada se empanturrando com o sanduíche dela.[lr]::
-17815::$$$message_0166_0004_0001$$$::Eu não sei se ela está descontrolada ou se só está me imitando.[lr]::
+17815::$$$message_0166_0004_0001$$$::Não sei se ela está descontrolada ou se só está me imitando.[lr]::
 17816::$$$message_0166_0004_0002$$$::Na maioria das vezes a Illya é mais bem comportada do que a Saber, mas parece que acontece o contrário durante as refeições.::
 17817::$$$message_0166_0005_0000$$$::"Espera, Illyasviel. Desse jeito o seu cabelo vai ficar todo sujo."[lr]::
-17818::$$$message_0166_0005_0001$$$::A Saber passa um guardanapo na bochecha da Illya.[lr]::
+17818::$$$message_0166_0005_0001$$$::A Saber passa um guardanapo na bochecha da Illya.::
 17819::$$$message_0166_0006_0000$$$::"...Obrigada. Mas por que você fez isso? Esqueceu que você não gosta de mim?"::
 17820::$$$message_0166_0007_0000$$$::"Sim, eu ainda não confio em você. Mas eu também entendo o coração das outras pessoas.[lr]::
 17821::$$$message_0166_0007_0001$$$::Você não tinha más intenções quando o Shirou te deixou ficar aqui.[lr]::
 17822::$$$message_0166_0007_0002$$$::Por isso eu vou ser um pouco gentil com você. Além disso[line2]"[lr]::
 17823::$$$message_0166_0007_0003$$$::"Além disso...?"::
-17824::$$$message_0166_0008_0000$$$::"O seu cabelo é lindo. Seria doloroso vê-lo se sujar bem na minha frente."[lr]::
-17825::$$$message_0166_0009_0000$$$::"[line5]"[lr]::
+17824::$$$message_0166_0008_0000$$$::"O seu cabelo é lindo. Seria doloroso vê-lo se sujar bem na minha frente."::
+17825::$$$message_0166_0009_0000$$$::"[line5]"::
 17826::$$$message_0166_0010_0000$$$::"...Heh. Mesmo que você diga isso, o Shirou ainda é meu.[lr]::
 17827::$$$message_0166_0010_0001$$$::Bem, eu também posso tentar ser gentil com você. Eu consigo fazer o Shirou vencer, mas não sou capaz de protegê-lo."::
 17828::$$$message_0166_0011_0000$$$::A Illya diz isso enquanto encolhe os ombros e volta a comer o seu sanduíche.::
@@ -32,7 +32,7 @@ id=qid::label=str::text=lstr::
 17836::$$$message_0166_0015_0000$$$::Já que eu nunca tive um instrutor de verdade, as aulas de magia da Tohsaka estão me ajudando bastante.[lr]::
 17837::$$$message_0166_0015_0001$$$::Parece que a Tohsaka ainda quer me ensinar, então eu deveria ir vê-la o quanto antes.::
 17838::$$$message_0166_0016_0000$$$::"Me desculpem, eu tenho que ir até o quarto da Tohsaka.[lr]::
-17839::$$$message_0166_0016_0001$$$::Eu não sei quanto tempo vai demorar, mas vocês podem ficar descansando enquanto isso."::
+17839::$$$message_0166_0016_0001$$$::Nem sei quanto tempo vai demorar, mas vocês podem ficar descansando enquanto isso."::
 17840::$$$message_0166_0017_0000$$$::"Tudo bem. Eu estou com um pouco de sono, então acho que vou tirar uma soneca."[lr]::
 17841::$$$message_0166_0017_0001$$$::A Illya sai do dojô esfregando os olhos de sono.[lr]::
 17842::$$$message_0166_0017_0002$$$::...Ótimo.[lr]::
@@ -49,3 +49,4 @@ id=qid::label=str::text=lstr::
 17853::$$$message_0166_0022_0000$$$::"...Entendo. Se é assim, eu não vou poder te impedir..."[lr]::
 17854::$$$message_0166_0022_0001$$$::"...?"[lr]::
 17855::$$$message_0166_0022_0002$$$::A Saber resmunga com um rosto triste.::
+

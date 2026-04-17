@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 17481::$$$message_0163_0000_0000$$$::Então.[lr]::
-17482::$$$message_0163_0000_0001$$$::Depois que a Tohsaka me passou vários medicamentos, ela me pediu para praticar um pouco de "fortalecimento" básico para verificar a minha saúde.[lr]::
+17482::$$$message_0163_0000_0001$$$::Depois que a Tohsaka me passou vários medicamentos, ela me pediu para praticar um pouco de "falandoortalecimento" básico para verificar a minha saúde.[lr]::
 17483::$$$message_0163_0000_0002$$$::Como por exemplo, observar se tem alguma coisa de errado com o meu corpo quando eu faço a minha energia mágica passar por ele, e coisas assim.[lr]::
 17484::$$$message_0163_0000_0003$$$::Hoje a Tohsaka está parecendo mais uma médica do que uma professora.::
 17485::$$$message_0163_0001_0000$$$::"[line2]Muito bem. Parece que não tem nada de errado. Você não precisa passar aqui amanhã."[lr]::
@@ -17,52 +17,52 @@ id=qid::label=str::text=lstr::
 17495::$$$message_0163_0005_0001$$$::Por isso[line2]era para tudo ter acabado ontem.::
 17496::$$$message_0163_0006_0000$$$::"[line2]Então, o que você pretende fazer a partir de agora? Você vai visitar o Kotomine?"[lr]::
 17497::$$$message_0163_0006_0001$$$::...Essa seria a escolha mais esperada.[lr]::
-17498::$$$message_0163_0006_0002$$$::A Tohsaka e o Kotomine já se conhecem, e ela poderia pedir proteção sem nenhum problema.::
+17498::$$$message_0163_0006_0002$$$::Ela é discípula do padre Kotomine, então não teria problema pedir proteção.::
 17499::$$$message_0163_0007_0000$$$::"Por quê? Eu não preciso ir visitá-lo se ainda não perdi. Não é só porque eu perdi o meu servo que vou deixar de lutar.[lr]::
-17500::$$$message_0163_0007_0001$$$::E também não faz o meu estilo abandonar tudo no meio do caminho. Quando decidi que iria lutar, eu tomei a responsabilidade de continuar até o final."::
-17501::$$$message_0163_0008_0000$$$::Como se fosse óbvio.[lr]::
+17500::$$$message_0163_0007_0001$$$::Além disso, fugir no meio do caminho não faz meu estilo. Se eu decidi lutar, vou até o fim."::
+17501::$$$message_0163_0008_0000$$$::Como se fosse a coisa mais óbvia do mundo.[lr]::
 17502::$$$message_0163_0008_0001$$$::A Tohsaka diz isso com confiança.::
 17503::$$$message_0163_0009_0000$$$::"[line5]"[lr]::
-17504::$$$message_0163_0009_0001$$$::Eu estou surpreso.[lr]::
+17504::$$$message_0163_0009_0001$$$::Fico de olhos arregalados.[lr]::
 17505::$$$message_0163_0009_0002$$$::...Não, não é bem isso.[lr]::
-17506::$$$message_0163_0009_0003$$$::Eu já sabia que a Tohsaka era assim.[lr]::
-17507::$$$message_0163_0009_0004$$$::Ela é bastante determinada,[lr]::
-17508::$$$message_0163_0009_0005$$$::E incrivelmente egoísta,[lr]::
+17506::$$$message_0163_0009_0003$$$::Eu já sei muito bem que a Tohsaka é assim.[lr]::
+17507::$$$message_0163_0009_0004$$$::Teimosa a ponto de irritar,[lr]::
+17508::$$$message_0163_0009_0005$$$::Absurdamente egoísta,[lr]::
 17509::$$$message_0163_0009_0006$$$::E genial de uma maneira encantadora.::
-17510::$$$message_0163_0010_0000$$$::"Mas o que você vai fazer? Vai agir por conta própria?[lr]::
+17510::$$$message_0163_0010_0000$$$::"Mas então o que você pretende fazer? Vai lutar sozinha?[lr]::
 17511::$$$message_0163_0010_0001$$$::Ainda existem Mestres e Servos por aí."::
 17512::$$$message_0163_0011_0000$$$::"Eu sei. É por isso que vou ficar aqui por enquanto para coletar informações.[lr]::
 17513::$$$message_0163_0011_0001$$$::Eu também tenho que voltar para a minha investigação sobre o Templo Ryuudou."[lr]::
 17514::$$$message_0163_0011_0002$$$::"Ficar aqui por enquanto[line2]tem certeza!?[lr]::
 17515::$$$message_0163_0011_0003$$$::Isso seria de grande ajuda, mas a nossa cooperação já terminou, não é? Então[line2]"::
-17516::$$$message_0163_0012_0000$$$::"Do que está falando? Você só conseguiu derrotar o Berserker por causa do Archer. A nossa cooperação terminou, mas você ainda está me devendo por isso. Você vai ter que me deixar ficar aqui até retribuir esse favor."::
+17516::$$$message_0163_0012_0000$$$::"Do que você está falando? Só conseguimos derrotar o Berserker por causa do Archer. A aliança acabou, mas essa dívida ainda continua. Então é óbvio que você vai me deixar ficar aqui até pagar o que deve."::
 17517::$$$message_0163_0013_0000$$$::"...Além disso, eu já disse que tomei a responsabilidade de continuar até o final.[lr]::
-17518::$$$message_0163_0013_0001$$$::Nós viramos aluno e professor, mesmo que por pouco tempo. Eu não poderia te abandonar, senão ficaria preocupada demais para me concentrar na Guerra do Santo Graal."::
+17518::$$$message_0163_0013_0001$$$::Mesmo que por pouco tempo, fomos professora e aluno. Se eu te deixasse sozinho, ficaria preocupada demais pra me concentrar na Guerra do Santo Graal."::
 17519::$$$message_0163_0014_0000$$$::"[line5]"[lr]::
-17520::$$$message_0163_0014_0001$$$::Ou seja, é isso mesmo.[lr]::
-17521::$$$message_0163_0014_0002$$$::...Sim.[lr]::
+17520::$$$message_0163_0014_0001$$$::Ou seja, é isso mesmo.::
+17521::$$$message_0163_0014_0002$$$::...É[lr]::
 17522::$$$message_0163_0015_0000$$$::É por isso que eu estou feliz.[lr]::
 17523::$$$message_0163_0015_0001$$$::A Tohsaka tem que ser assim.[lr]::
-17524::$$$message_0163_0015_0002$$$::Afinal, eu teria perdido as esperanças se até uma garota teimosa como ela tivesse desistido.::
-17525::$$$message_0163_0016_0000$$$::"[line2]Sim. Por favor conte comigo, Tohsaka.[lr]::
+17524::$$$message_0163_0015_0002$$$::Se alguém tão teimosa quanto ela desistisse fácil assim, eu nem saberia mais no que acreditar.::
+17525::$$$message_0163_0016_0000$$$::"[line2]É. Por favor conte comigo, Tohsaka.[lr]::
 17526::$$$message_0163_0016_0001$$$::Eu não tenho a menor noção do que fazer se você não estiver por aqui. Eu e a Saber precisamos de você, Tohsaka."::
-17527::$$$message_0163_0017_0000$$$::"...Está bem. Mas você não deveria dizer dessa maneira. Eu sei que você sempre é bem sincero, mas isso pode levar a algum mal-entendido se você não tomar mais cuidado."::
+17527::$$$message_0163_0017_0000$$$::"...Tudo bem. Mas evita falar desse jeito. Ser sincero demais é bom, mas, se não tomar cuidado, você vai acabar dando a entender outra coisa."::
 17528::$$$message_0163_0018_0000$$$::"...?"[lr]::
 17529::$$$message_0163_0018_0001$$$::Eu não entendi por que a Tohsaka ficaria brava com isso.[lr]::
 17530::$$$message_0163_0018_0002$$$::"Tohsaka, que tipo de mal-entendido?"::
 17531::$$$message_0163_0019_0000$$$::"Olha só, você já está abusando. O meu comportamento já deveria te dizer para não perguntar, então fazer essa pergunta é contra as regras."[lr]::
 17532::$$$message_0163_0019_0001$$$::Hm.[lr]::
-17533::$$$message_0163_0019_0002$$$::Parece que a Tohsaka conhece uma regra que eu nunca tinha ouvido falar.::
-17534::$$$message_0163_0020_0000$$$::"Eu estou surpresa. A Saber deve ficar chateada por você ser assim.[lr]::
+17533::$$$message_0163_0019_0002$$$::Pelo visto, a Tohsaka segue alguma regra que eu desconheço.::
+17534::$$$message_0163_0020_0000$$$::"Francamente... a Saber deve sofrer com você.[lr]::
 17535::$$$message_0163_0020_0001$$$::...Talvez vocês estejam bem do jeito que estão. Seria complicado se ambos não fossem meio lerdos."::
 17536::$$$message_0163_0021_0000$$$::"...Hmmm. Eu não entendi direito, mas não posso ignorar o que você disse sobre chatear a Saber. Por que ela se sentiria assim, Tohsaka?"::
-17537::$$$message_0163_0022_0000$$$::"Eu estou dizendo que esse seu jeito chateia as outras pessoas. Eu aposto que você nem percebeu que a Saber mudou, Emiya-kun."::
-17538::$$$message_0163_0023_0000$$$::"A Saber mudou...?"[lr]::
+17537::$$$message_0163_0022_0000$$$::"É exatamente disso que eu tô falando. Aposto que você nem percebeu a mudança na Saber, Emiya-kun."::
+17538::$$$message_0163_0023_0000$$$::"Mudança na Saber...?"[lr]::
 17539::$$$message_0163_0023_0001$$$::Isso... não é uma mudança na aparência dela, certo?[lr]::
 17540::$$$message_0163_0023_0002$$$::Se alguma coisa mudou na Saber, então seria[line2]::
-17541::$$$message_0163_0024_0000$$$::"...É mesmo. Ela está meio estranha desde hoje de manhã.[lr]::
-17542::$$$message_0163_0024_0001$$$::Bem, eu acho que ela só está de mau humor porque da Illya vai ficar aqui. Mas mesmo agora, ela só fica sentada sem dizer nada, e quando eu pergunto qual é o problema, ela diz que teve um sonho e então vai embora."::
-17543::$$$message_0163_0025_0000$$$::...Eu tinha me esquecido disso porque estava ocupado com a Illya.[lr]::
+17541::$$$message_0163_0024_0000$$$::"...Ah. Pensando bem, ela está meio estranha desde de manhã.[lr]::
+17542::$$$message_0163_0024_0001$$$::Achei que fosse por causa da Illya, mas mesmo assim... ela ficou quieta, sentada em seiza, e quando perguntei o que houve, só disse que teve um sonho e foi embora."::
+17543::$$$message_0163_0025_0000$$$::...Com toda a confusão envolvendo a Illya, eu acabei nem ligando pra isso.[lr]::
 17544::$$$message_0163_0025_0001$$$::Pensando bem, a Saber estava agindo como se estivesse meio sonolenta ou algo assim.::
 17545::$$$message_0163_0026_0000$$$::"[line2]A Saber teve um sonho?"[lr]::
 17546::$$$message_0163_0026_0001$$$::"Hã? Essa é a parte que te chamou a atenção?"[lr]::
@@ -74,6 +74,7 @@ id=qid::label=str::text=lstr::
 17552::$$$message_0163_0027_0003$$$::"[line2]?"[lr]::
 17553::$$$message_0163_0027_0004$$$::Os Servos não sonham...?::
 17554::$$$message_0163_0028_0000$$$::"Isso mesmo. Os Servos não têm sonhos.[lr]::
-17555::$$$message_0163_0028_0001$$$::Mas se o Servo disser que teve, é porque não foi um sonho. Ele só teve uma visão das lembranças de outra pessoa."::
-17556::$$$message_0163_0029_0000$$$::...A Tohsaka deve ter passado pela mesma experiência.[lr]::
-17557::$$$message_0163_0029_0001$$$::Ela diz isso de forma fria e direta, bem diferente do seu jeito animado de antes.::
+17555::$$$message_0163_0028_0001$$$::Se ela disse que sonhou, então não foi um sonho. Foi só uma lembrança de alguém que ela acabou vendo"::
+17556::$$$message_0163_0029_0000$$$::...$$$::...Talvez a Tohsaka já tenha passado por algo assim.[lr]::
+17557::$$$message_0163_0029_0001$$$::Ela diz isso com uma frieza que contrasta totalmente com o jeito animado de antes.::
+

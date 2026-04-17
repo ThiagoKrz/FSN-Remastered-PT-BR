@@ -1,44 +1,44 @@
 DAT
 id=qid::label=str::text=lstr::
-2842::$$$message_0026_0000_0000$$$::...por que ela deseja tanto a batalha?[lr]::
-2843::$$$message_0026_0000_0001$$$::Acho que posso entender o pensamento da Saber se eu descobrir porque ela almeja o Santo Graal, a recompensa da Guerra do Santo Graal.[lr]::
+2842::$$$message_0026_0000_0000$$$::...Por que ela deseja tanto a batalha?[lr]::
+2843::$$$message_0026_0000_0001$$$::Acho que, se eu entender por que a Saber busca o Santo Graal, talvez consiga entender melhor o que ela pensa.[lr]::
 2844::$$$message_0026_0000_0002$$$::Mas, isso é algo que posso perguntar pra ela?::
 2845::$$$message_0026_0001_0000$$$::"...Saber. Posso te perguntar algo?"[lr]::
-2846::$$$message_0026_0001_0001$$$::"Sim. Diga, Shirou?"::
+2846::$$$message_0026_0001_0001$$$::"Sim. O que foi, Shirou?"::
 2847::$$$message_0026_0002_0000$$$::"Um, é algo que esqueci de perguntar.[lr]::
 2848::$$$message_0026_0002_0001$$$::Você está me emprestando sua força pois também quer o Santo Graal, né?[lr]::
-2849::$$$message_0026_0002_0002$$$::Então[line2]que tipo de coisa você quer dele?"::
-2850::$$$message_0026_0003_0000$$$::"A razão pela qual busco o Santo Graal? Não pode ser porque eu o desejo? O Santo Graal é um todo poderoso receptáculo. Não há desejo que não possa ser desejado com ele. Ninguém precisa de motivo pra buscar tal coisa."::
+2849::$$$message_0026_0002_0002$$$::Então[line2]qual é o seu desejo?"::
+2850::$$$message_0026_0003_0000$$$::"A razão pela qual busco o Santo Graal? Não basta querer? O Santo Graal é um todo poderoso receptáculo. Não há desejo que não possa ser desejado com ele. Ninguém precisa de motivo pra buscar tal coisa."::
 2851::$$$message_0026_0004_0000$$$::"[line2]Não. Não é isso que estou perguntando.[lr]::
 2852::$$$message_0026_0004_0001$$$::Saber, você está tentando desviar a pergunta, não?"[lr]::
 2853::$$$message_0026_0004_0002$$$::"Ah[line2]Shirou, isso é..."::
 2854::$$$message_0026_0005_0000$$$::"Não quero saber o motivo pelo qual você o busca, mas sim o desejo que você quer realizado.[lr]::
-2855::$$$message_0026_0005_0001$$$::...mas se você não quer dizer, tudo bem. Meus desejos não são coisas na qual posso falar também."[lr]::
+2855::$$$message_0026_0005_0001$$$::...Mas se você não quer dizer, tudo bem. Meus desejos não são coisas na qual posso falar também."[lr]::
 2856::$$$message_0026_0005_0002$$$::"[line5]"[lr]::
 2857::$$$message_0026_0005_0003$$$::A Saber fecha a boca vergonhosamente.::
-2858::$$$message_0026_0006_0000$$$::...bem, é normal.[lr]::
+2858::$$$message_0026_0006_0000$$$::...Bem, é normal.[lr]::
 2859::$$$message_0026_0006_0001$$$::A Saber não formou um contrato pra me ajudar pessoalmente.[lr]::
 2860::$$$message_0026_0006_0002$$$::Já que os únicos que podem obter o Santo Graal são os Mestres, ela só está me ajudando pra ganhar sua parte da recompensa.::
 2861::$$$message_0026_0007_0000$$$::Por isso que ela deve estar hesitando em me dizer seu desejo, e ainda por cima[line2]nem eu quero ouvir a Saber descrevendo um desejo egoísta.[lr]::
-2862::$$$message_0026_0007_0001$$$::...então eu não devia ter perguntando.[lr]::
+2862::$$$message_0026_0007_0001$$$::...Então eu não devia ter perguntando.[lr]::
 2863::$$$message_0026_0007_0002$$$::Afinal, é rude para uma pessoa sem um desejo claro perguntar o desejo dos outros.::
 2864::$$$message_0026_0008_0000$$$::"[line2]Shirou. Isso é um comando como Mestre?"[lr]::
 2865::$$$message_0026_0008_0001$$$::Repentinamente.[lr]::
 2866::$$$message_0026_0008_0002$$$::A Saber pergunta com uma expressão séria.::
 2867::$$$message_0026_0009_0000$$$::"Eh... não, não é. Não era minha intenção.[lr]::
 2868::$$$message_0026_0009_0001$$$::Só queria te conhecer. Desculpe por perguntar."::
-2869::$$$message_0026_0010_0000$$$::"...não. Como Serva, devo certamente dizer meu desejo para meu Mestre.[lr]::
+2869::$$$message_0026_0010_0000$$$::"...Não. Como Serva, devo certamente dizer meu desejo para meu Mestre.[lr]::
 2870::$$$message_0026_0010_0001$$$::Shirou, busco o Santo Graal pra cumprir uma obrigação. Quero o poder do Santo Graal para cumprir um dever que não consegui durante minha vida."[lr]::
-2871::$$$message_0026_0010_0002$$$::Diretamente.[lr]::
+2871::$$$message_0026_0010_0002$$$::Ela diz isso sem hesitar.[lr]::
 2872::$$$message_0026_0010_0003$$$::Com olhos honestos, ela me diz isso.::
-2873::$$$message_0026_0011_0000$$$::"...cumprir um dever...? Durante sua vida... quer dizer, antes de virar uma Serva...?"[lr]::
-2874::$$$message_0026_0011_0001$$$::"...sim. Mas não sei minhas reais intenções.[lr]::
-2875::$$$message_0026_0011_0002$$$::Talvez eu apenas deseje refazer as coisas de novo."[lr]]::
+2873::$$$message_0026_0011_0000$$$::"...Cumprir um dever...? Durante sua vida... quer dizer, antes de virar uma Serva...?"[lr]::
+2874::$$$message_0026_0011_0001$$$::"...Sim. Mas não sei minhas reais intenções.[lr]::
+2875::$$$message_0026_0011_0002$$$::Talvez eu apenas deseje refazer as coisas de novo."[lr]::
 2876::$$$message_0026_0011_0003$$$::A Saber olha pra baixo silenciosamente.[lr]::
 2877::$$$message_0026_0011_0004$$$::Por um momento.[lr]::
 2878::$$$message_0026_0011_0005$$$::Ela parece como uma criança sem rumo.::
 2879::$$$message_0026_0012_0000$$$::"[line2]E-Entendo. Enfim, estou aliviado.[lr]::
-2880::$$$message_0026_0012_0001$$$::Estava preocupando pensando no que fazer caso você falasse algo tipo a Tohsaka, como se seu sonho fosse dominar o mundo."::
+2880::$$$message_0026_0012_0001$$$::Eu estava meio preocupado de você falar algo tipo a Tohsaka... sei lá, querer dominar o mundo."::
 2881::$$$message_0026_0013_0000$$$::"...Fufu. A Rin ficaria brava se ouvisse isso. Ela não é do tipo que falaria algo assim. Ela usaria o Santo Graal para beneficio próprio, mas não para algo que traria ruína ao mundo."::
 2882::$$$message_0026_0014_0000$$$::"Sério? Acho que nunca devemos deixar ela ter o Santo Graal por um motivo completamente diferente."[lr]::
 2883::$$$message_0026_0014_0001$$$::Concordo comigo mesmo.[lr]::
@@ -48,4 +48,5 @@ id=qid::label=str::text=lstr::
 2887::$$$message_0026_0015_0002$$$::A atmosfera foi aliviada pela conversa da Tohsaka, então vamos encerrar ela por aqui.::
 2888::$$$message_0026_0016_0000$$$::"[line5]"[lr]::
 2889::$$$message_0026_0016_0001$$$::Mas resta um pequeno peso em meu coração.[lr]::
-2890::$$$message_0026_0016_0002$$$::Mesmo aliviado ao saber que o desejo da Saber não era materialista, ainda senti que havia algo errado nisso.::
+2890::$$$message_0026_0016_0002$$$::Mesmo aliviado ao saber que o desejo da Saber não era materialista, mas, mesmo assim, tinha algo no desejo dela que não batia.::
+

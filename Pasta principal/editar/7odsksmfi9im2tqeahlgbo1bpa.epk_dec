@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
-11510::$$$message_0115_0000_0000$$$::Arturia.[lr]::
-11511::$$$message_0115_0000_0001$$$::A menina que havia acabado de concluir o seu ritual de passagem seria reconhecida por esse nome a partir de então.::
+11510::$$$message_0115_0000_0000$$$::Artoria.[lr]::
+11511::$$$message_0115_0000_0001$$$::A menina que havia acabado de concluir o seu ritual de maioridade passaria, daquele dia em diante, a ser chamada assim.::
 11512::$$$message_0115_0001_0000$$$::Eram tempos de guerras e caos.[lr]::
 11513::$$$message_0115_0001_0001$$$::Tudo começou com a decadência de um império.[lr]::
 11514::$$$message_0115_0001_0002$$$::Um império, o qual acreditavam ser indestrutível, estava aguardando pela sua própria destruição por mãos de bárbaros invasores.[lr]::
@@ -9,7 +9,7 @@ id=qid::label=str::text=lstr::
 11516::$$$message_0115_0002_0000$$$::Foi assim que começou.[lr]::
 11517::$$$message_0115_0002_0001$$$::Quando o reino dela perdeu a proteção do império, era inevitável que o mesmo proclamasse independência e se dividisse em reinos menores pouco tempo depois.::
 11518::$$$message_0115_0003_0000$$$::As invasões bárbaras.[lr]::
-11519::$$$message_0115_0003_0001$$$::Conflitos entre clãs que se destruíam.[lr]::
+11519::$$$message_0115_0003_0001$$$::Conflitos entre tribos que se destruíam.[lr]::
 11520::$$$message_0115_0003_0002$$$::Um longo período de guerras que mais tarde seria conhecido como "A Era das Trevas".[lr]::
 11521::$$$message_0115_0003_0003$$$::Ela nasceu no meio dessa época como a herdeira do trono.::
 11522::$$$message_0115_0004_0000$$$::Era um longo período de caos.[lr]::
@@ -17,14 +17,14 @@ id=qid::label=str::text=lstr::
 11524::$$$message_0115_0004_0002$$$::Entretanto, seu filho não era quem o rei esperava.[lr]::
 11525::$$$message_0115_0004_0003$$$::Ele não nasceu como um menino.[lr]::
 11526::$$$message_0115_0004_0004$$$::Ainda que essa criança fosse destinada a ser rei, ele não poderia nomear como seu sucessor alguém que não fosse um menino.::
-11527::$$$message_0115_0005_0000$$$::Então, a menina ficou sob os cuidados dos súditos do rei e cresceu como a filha de um simples cavaleiro.[lr]::
-11528::$$$message_0115_0005_0001$$$::O rei caiu em desespero, mas o mago ficou encantado.[lr]::
+11527::$$$message_0115_0005_0000$$$::A garota foi confiada a um vassalo do rei e criada como filha de um simples cavaleiro.[lr]::
+11528::$$$message_0115_0005_0001$$$::O rei lamentou, mas o mago se alegrou.[lr]::
 11529::$$$message_0115_0005_0002$$$::O gênero de quem se tornaria rei nunca foi importante.[lr]::
 11530::$$$message_0115_0005_0003$$$::Ele acreditava que só o fato da menina ter sido afastada do castelo até o dia da profecia ser cumprida já provava que ela se tornaria rei.::
-11531::$$$message_0115_0006_0000$$$::A menina cresceu como a sucessora sob os cuidados de um velho cavaleiro sábio.[lr]::
+11531::$$$message_0115_0006_0000$$$::Sob os cuidados de um velho cavaleiro simples e sábio, a garota cresceu como sua sucessora.[lr]::
 11532::$$$message_0115_0006_0001$$$::O velho cavaleiro não acreditava muito na profecia do mago.[lr]::
 11533::$$$message_0115_0006_0002$$$::Ele apenas sentiu que o ar vindo da menina era o mesmo do rei, e portanto pensou que deveria tratá-la como uma cavaleira. O cavaleiro desejou que ela crescesse dessa forma.::
-11534::$$$message_0115_0007_0000$$$::Mas o cavaleiro não desejava uma coisa dessas, já que a menina treinava todos os dias para se tornar mais forte do qualquer outra pessoa.[lr]::
+11534::$$$message_0115_0007_0000$$$::Mas, mesmo sem que o cavaleiro precisasse desejar isso, a garota treinava todos os dias para se tornar mais forte do que qualquer um.[lr]::
 11535::$$$message_0115_0007_0001$$$::Se um rei pudesse simplesmente salvar um reino arruinado e destinado à destruição...[lr]::
 11536::$$$message_0115_0007_0002$$$::A menina prometeu carregar uma espada apenas por esse motivo, mesmo que ninguém pedisse isso a ela.::
 11537::$$$message_0115_0008_0000$$$::E assim, o dia da profecia chegou.[lr]::
@@ -32,23 +32,23 @@ id=qid::label=str::text=lstr::
 11539::$$$message_0115_0008_0002$$$::Todos esperavam que a seleção fosse através de competições medievais, onde quem se saísse melhor iria se tornar rei.[lr]::
 11540::$$$message_0115_0008_0003$$$::Porém a única coisa preparada no local da seleção era uma espada exposta e presa em uma pedra.::
 11541::$$$message_0115_0009_0000$$$::Havia uma inscrição em ouro no cabo dessa espada.[lr]::
-11542::$$$message_0115_0009_0001$$$::"Aquele que arrancar a espada desta pedra renascerá como o Rei da Inglaterra por direito[line3]"::
+11542::$$$message_0115_0009_0001$$$::"Aquele que arrancar a espada desta pedra renascerá como o Rei da Bretanha.[line3]"::
 11543::$$$message_0115_0009_0002$$$::Vários cavaleiros seguiram o comando e pegaram no cabo da espada.[lr]::
-11544::$$$message_0115_0009_0003$$$::Porém nenhum deles foi capaz de arrancá-la, e por conta disso, os cavaleiros começaram o método de seleção esperado através de justas medievais.::
-11545::$$$message_0115_0010_0000$$$::Já que a menina era apenas uma aprendiz, ela não era qualificada para participar das justas.[lr]::
+11544::$$$message_0115_0009_0003$$$::Mas ninguém conseguiu, e os cavaleiros acabaram iniciando a disputa pela coroa no formato que já esperavam desde o começo: o torneio de combate montado.::
+11545::$$$message_0115_0010_0000$$$::A garota, ainda apenas uma escudeira, não tinha direito de participar.[lr]::
 11546::$$$message_0115_0010_0001$$$::A menina então se aproximou da pedra de seleção abandonada e alcançou a espada sem hesitar.::
-11547::$$$message_0115_0011_0000$$$::"Não, não. Você deveria pensar bem antes de arrancar isto."::
+11547::$$$message_0115_0011_0000$$$::"Não, não. Antes de tocar nisso, seria melhor pensar direito."::
 11548::$$$message_0115_0012_0000$$$::Ao se virar, ela se depara com o mago mais temido de todo o reino.[lr]::
 11549::$$$message_0115_0012_0001$$$::O mago disse...[lr]::
 11550::$$$message_0115_0012_0002$$$::Que ela não seria mais humana depois que tomasse a posse da espada.::
 11551::$$$message_0115_0013_0000$$$::A menina respondeu apenas acenando com a cabeça.[lr]::
-11552::$$$message_0115_0013_0001$$$::Tornar-se um rei significa abandonar a sua humanidade.[lr]::
+11552::$$$message_0115_0013_0001$$$::Tornar-se rei era deixar de ser humana.[lr]::
 11553::$$$message_0115_0013_0002$$$::Ela estava pronta para isso desde o momento em que nasceu.[lr]::
-11554::$$$message_0115_0013_0003$$$::Basicamente, um rei é alguém que mata qualquer pessoa para proteger a todos.[lr]::
-11555::$$$message_0115_0013_0004$$$::A menina pensava sobre isso durante todas as noites e tremia de medo até chegar a manhã seguinte.[lr]::
-11556::$$$message_0115_0013_0005$$$::Não havia um dia sequer em que ela não temesse por isso.[lr]::
-11557::$$$message_0115_0013_0006$$$::Mas a menina disse que tudo acabaria naquele dia.::
-11558::$$$message_0115_0014_0000$$$::A espada foi arrancada como se fosse a coisa mais natural do mundo, e a região ao redor dela encheu-se de luz.[lr]::
+11554::$$$message_0115_0013_0003$$$::Ser rei significava, no fim das contas, ser quem mais mata para proteger a todos.[lr]::
+11555::$$$message_0115_0013_0004$$$::A menina pensava sobre isso durante todas as noites e tremia até chegar a manhã seguinte.[lr]::
+11556::$$$message_0115_0013_0005$$$::Não houve um único dia em que não sentisse medo.[lr]::
+11557::$$$message_0115_0013_0006$$$::Mas, naquele dia, a garota declarou que esse medo chegaria ao fim.::
+11558::$$$message_0115_0014_0000$$$::A espada foi arrancada como se fosse a coisa mais natural do mundo, e a área ao redor foi tomada pela luz[lr]::
 11559::$$$message_0115_0014_0001$$$::[line3]Nesse instante, ela deixou de ser humana.[lr]::
 11560::$$$message_0115_0014_0002$$$::O gênero do rei não interessa.[lr]::
 11561::$$$message_0115_0014_0003$$$::Ninguém vai se importar com a aparência do rei e nem mesmo perceber se ela age como um rei ou não.::
@@ -58,14 +58,14 @@ id=qid::label=str::text=lstr::
 11565::$$$message_0115_0016_0000$$$::[line3]E assim.[lr]::
 11566::$$$message_0115_0016_0001$$$::Os tempos em que o rei se tornaria uma lenda começaram.::
 11567::$$$message_0115_0017_0000$$$::As batalhas travadas pelo novo rei foram atos dignos de um deus da guerra.[lr]::
-11568::$$$message_0115_0017_0001$$$::O rei sempre liderava na linha de frente.[lr]::
+11568::$$$message_0115_0017_0001$$$::O rei sempre ia à frente de todos.[lr]::
 11569::$$$message_0115_0017_0002$$$::Nenhum inimigo conseguia bloquear a passagem dela.[lr]::
-11570::$$$message_0115_0017_0003$$$::Arturia, a deusa da guerra.[lr]::
-11571::$$$message_0115_0017_0004$$$::Não haviam derrotas para um corpo admirado como um dragão em forma de humano.::
+11570::$$$message_0115_0017_0003$$$::Artoria, a deusa da guerra.[lr]::
+11571::$$$message_0115_0017_0004$$$::Naquele corpo celebrado como a própria encarnação de um dragão, derrota alguma podia existir.::
 11572::$$$message_0115_0018_0000$$$::Durante dez anos e doze batalhas, ela nunca conheceu a derrota.[lr]::
-11573::$$$message_0115_0018_0001$$$::Aqueles eram tempos em que ela governava como rei.[lr]::
-11574::$$$message_0115_0018_0002$$$::Ela nunca se arrependeu ou se envergonhou do que fez.[lr]::
-11575::$$$message_0115_0018_0003$$$::Ela cresceu como rei e cumpriu com as suas obrigações de rei.::
+11573::$$$message_0115_0018_0001$$$::Foram dias vividos unicamente como rei.[lr]::
+11574::$$$message_0115_0018_0002$$$::Sem jamais olhar para trás. Sem jamais se manchar.[lr]::
+11575::$$$message_0115_0018_0003$$$::Ela foi criada como rei e cumpriu até o fim os deveres que isso exigia.::
 11576::$$$message_0115_0019_0000$$$::Foi por isso que eu tive aquela visão?::
 11577::$$$message_0115_0020_0000$$$::A alma dela deve estar nos campos de batalha até hoje.[lr]::
 11578::$$$message_0115_0020_0001$$$::Logo antes do amanhecer.[lr]::
@@ -84,7 +84,7 @@ id=qid::label=str::text=lstr::
 11591::$$$message_0115_0024_0001$$$::Como foi que ela perdeu uma espada tão boa assim...?::
 11592::$$$message_0115_0025_0000$$$::Quando eu acordo, percebo que estou dentro do meu quarto.[lr]::
 11593::$$$message_0115_0025_0001$$$::Está claro lá fora.[lr]::
-11594::$$$message_0115_0025_0002$$$::Acho que caí no sono depois que voltei para o meu quarto, sem ter conseguido tomar uma decisão.::
+11594::$$$message_0115_0025_0002$$$::Parece que, ontem à noite, depois de voltar ao quarto sem conseguir tomar uma decisão, acabei adormecendo enquanto vigiava a Saber.::
 11595::$$$message_0115_0026_0000$$$::"...Esse... sonho..."[lr]::
 11596::$$$message_0115_0026_0001$$$::Esse foi um sonho estranho.[lr]::
 11597::$$$message_0115_0026_0002$$$::Eu vi acontecimentos sobre a Saber sobre os quais eu não sabia antes.[lr]::
@@ -92,15 +92,15 @@ id=qid::label=str::text=lstr::
 11599::$$$message_0115_0027_0000$$$::"...Mas aquela espada era mesmo diferente da que a Saber tinha...."::
 11600::$$$message_0115_0028_0000$$$::Eu paro para pensar um pouco.[lr]::
 11601::$$$message_0115_0028_0001$$$::Sobre a verdadeira identidade da Saber, que até então era um segredo.[lr]::
-11602::$$$message_0115_0028_0002$$$::...Para ser sincero, eu ainda não posso aceitar quem ela é.[lr]::
+11602::$$$message_0115_0028_0002$$$::...Sendo sincero, eu ainda não consigo aceitar de verdade quem ela foi..[lr]::
 11603::$$$message_0115_0028_0003$$$::A Saber é simplesmente a Saber.[lr]::
-11604::$$$message_0115_0028_0004$$$::Eu não posso mudar minha atitude só porque agora sei quem ela era antigamente, e acho que a Saber também não iria gostar disso.::
+11604::$$$message_0115_0028_0004$$$::Não consigo mudar a forma como ajo com ela por causa disso e acho que a própria Saber também não gostaria disso.::
 11605::$$$message_0115_0029_0000$$$::"...Mas aquilo combina com ela."[lr]::
 11606::$$$message_0115_0029_0001$$$::Tanto a espada de ontem quanto a espada que apareceu no meu sonho combinam com ela.[lr]::
 11607::$$$message_0115_0029_0002$$$::Aliás, eu diria que estava fascinado.[lr]::
-11608::$$$message_0115_0029_0003$$$::Fascinado com a espada de ontem e com a espada do meu sonho... parece que eu fico atraído por espadas facilmente.::
+11608::$$$message_0115_0029_0003$$$::Tanto a espada de ontem quanto a do sonho me prenderam os olhos. Pelo jeito, eu realmente tenho fraqueza por espadas.::
 11609::$$$message_0115_0030_0000$$$::Eu também achei a lança do Lancer bonita quando a vi pela primeira vez, mas o meu interesse em espadas é excepcional.[lr]::
-11610::$$$message_0115_0030_0001$$$::Parece que eu fico mesmo atraído por espadas com facilidade.::
+11610::$$$message_0115_0030_0001$$$::Ao que parece, eu sou do tipo que se apaixona fácil por espadas.::
 11611::$$$message_0115_0031_0000$$$::"Bem... não é como se tivesse acabado de começar."[lr]::
 11612::$$$message_0115_0031_0001$$$::Eu respiro fundo e passo a mão no meu rosto suado.::
 11613::$$$message_0115_0032_0000$$$::"...Mas eu estou com muito calor."[lr]::
@@ -121,7 +121,7 @@ id=qid::label=str::text=lstr::
 11628::$$$message_0115_0036_0000$$$::"[line3]E se..."[lr]::
 11629::$$$message_0115_0036_0001$$$::Se eu deixar a Saber dormindo desse jeito, talvez ela volte ao normal.[lr]::
 11630::$$$message_0115_0036_0002$$$::E então não vai haver necessidade de fazê-la matar pessoas inocentes.[lr]::
-11631::$$$message_0115_0036_0003$$$::Assim, a Saber ficaria comigo e[line2]::
+11631::$$$message_0115_0036_0003$$$::E então a Saber poderia continuar aqui, comigo, como sempre...[line2]::
 11632::$$$message_0115_0037_0000$$$::"[line2]Como posso ser tão egoísta[line2]!"[lr]::
 11633::$$$message_0115_0037_0001$$$::Eu dou um soco na parede.[lr]::
 11634::$$$message_0115_0037_0002$$$::Sou tão medroso que fico com nojo de mim mesmo.::
@@ -131,7 +131,7 @@ id=qid::label=str::text=lstr::
 11638::$$$message_0115_0038_0003$$$::Eu não sei se a Saber vai mesmo acordar.[lr]::
 11639::$$$message_0115_0038_0004$$$::Mas eu tenho que tomar uma decisão antes que ela acorde.::
 11640::$$$message_0115_0039_0000$$$::A Tohsaka também deve estar dormindo.[lr]::
-11641::$$$message_0115_0039_0001$$$::Essa casa está sem energia, como se estivesse abandonada.[lr]::
+11641::$$$message_0115_0039_0001$$$::A casa está sem vida, e o corredor parece um lugar abandonado.[lr]::
 11642::$$$message_0115_0039_0002$$$::Não, sou eu que estou deprimido.[lr]::
 11643::$$$message_0115_0039_0003$$$::Eu não consigo me decidir e fico andando sem esperanças, e isso faz com que o mundo ao meu redor pareça vazio.::
 11644::$$$message_0115_0040_0000$$$::"...?"[lr]::
@@ -145,10 +145,10 @@ id=qid::label=str::text=lstr::
 11652::$$$message_0115_0042_0002$$$::Ao ponto de poder nevar mais tarde.::
 11653::$$$message_0115_0043_0000$$$::"...está vindo do galpão."[lr]::
 11654::$$$message_0115_0043_0001$$$::O barulho está ficando cada vez mais perto de mim.[lr]::
-11655::$$$message_0115_0043_0002$$$::Eu atravesso o jardim soltando vapores brancos.::
+11655::$$$message_0115_0043_0002$$$::Atravesso o jardim, soltando nuvens brancas pela boca.::
 11656::$$$message_0115_0044_0000$$$::Ele está em frente ao galpão.[lr]::
 11657::$$$message_0115_0044_0001$$$::...Eu meio que já espera que ele estivesse aqui, então não estou surpreso.[lr]::
-11658::$$$message_0115_0044_0002$$$::Ele devia estar atirando flechas até agora.[lr]::
+11658::$$$message_0115_0044_0002$$$::Assim que me vê, Archer abaixa o arco com um ar de incômodo.[lr]::
 11659::$$$message_0115_0044_0003$$$::Ele abaixa o seu arco com desgosto assim que me vê.::
 11660::$$$message_0115_0045_0000$$$::"Isso é perigoso. Não saia atirando flechas na casa dos outros. E se você acabar machucando alguém?"[lr]::
 11661::$$$message_0115_0045_0001$$$::"Eu não teria que fazer nada pois não estou usando flecha nenhuma. Ninguém pode se machucar com algo que não está sendo atirado."::
@@ -157,8 +157,8 @@ id=qid::label=str::text=lstr::
 11664::$$$message_0115_0046_0002$$$::Aquele barulho era o arco do Archer atravessando o ar.[lr]::
 11665::$$$message_0115_0046_0003$$$::Eu não sei porquê, mas o Archer só estava puxando a corda do seu arco sem usar flechas.::
 11666::$$$message_0115_0047_0000$$$::"...Gostei do arco. Antes eu não estava convencido, mas você é mesmo um arqueiro."::
-11667::$$$message_0115_0048_0000$$$::"Bem, eu não sou um arqueiro daqueles que você conhece, então eu não saberia te responder mesmo se você me perguntasse sobre tiro com arco.[lr]::
-11668::$$$message_0115_0048_0001$$$::As suas flechas são atiradas para acertar a você mesmo, enquanto que as minhas flechas são atiradas para acertar um inimigo. O arqueiro que você tem na cabeça deve ser um daqueles bem educados."::
+11667::$$$message_0115_0048_0000$$$::"Quem sabe. Não sou um arqueiro do tipo que você conhece, então mesmo que perguntasse, eu não teria o que te ensinar.[lr]::
+11668::$$$message_0115_0048_0001$$$::O seu arco é voltado para si mesmo. O meu, para atingir o inimigo. Esse ‘arqueiro’ que você imagina deve ser alguém preocupado com etiqueta"::
 11669::$$$message_0115_0049_0000$$$::Ele dá um sorriso para zombar de mim.[lr]::
 11670::$$$message_0115_0049_0001$$$::Como imaginei, eu não consigo me dar bem com ele.::
 11671::$$$message_0115_0050_0000$$$::"Eu nunca disse que queria te perguntar sobre tiro com arco.[lr]::
@@ -171,28 +171,28 @@ id=qid::label=str::text=lstr::
 11678::$$$message_0115_0052_0000$$$::Eu me viro de costas.[lr]::
 11679::$$$message_0115_0052_0001$$$::Já que a Tohsaka e o Archer vão voltar a lutar, eu realmente tenho que tomar uma decisão.[lr]::
 11680::$$$message_0115_0052_0002$$$::Eu preciso pensar seriamente em um lugar que possa ficar sozinho.::
-11681::$$$message_0115_0053_0000$$$::"[line3]Existe um conceito chamado 'acompanhamento'."[lr]::
+11681::$$$message_0115_0053_0000$$$::"[line3]Existe um conceito chamado 'zashin'."[lr]::
 11682::$$$message_0115_0053_0001$$$::"Hã?"::
-11683::$$$message_0115_0054_0000$$$::"O período de tempo depois que a flecha é atirada.[lr]::
-11684::$$$message_0115_0054_0001$$$::Essa devem ser a única coisa que os nossos conceitos de tiro com arco têm em comum."[lr]::
+11683::$$$message_0115_0054_0000$$$::"É o estado que você mantém depois de agir.[lr]::
+11684::$$$message_0115_0054_0001$$$::Talvez seja o único ponto em comum entre o meu arco e o seu kyuudouu."[lr]::
 11685::$$$message_0115_0054_0002$$$::"...O quê? Você não precisa me ensinar quais são as oito etapas de se atirar uma flecha."::
-11686::$$$message_0115_0055_0000$$$::"Me escute. Dizem que o corpo fica parado no mesmo lugar depois do disparo. Eu soube que isso se chama acompanhamento."[lr]::
+11686::$$$message_0115_0055_0000$$$::"Escute. Dizem que, após soltar a flecha, o corpo permanece naturalmente em posição. A isso se chama zanshin.[lr]::
 11687::$$$message_0115_0055_0001$$$::"......"[lr]::
 11688::$$$message_0115_0055_0002$$$::De fato existem oito movimentos no tiro com arco que são conhecidos como as oito etapas do disparo.[lr]::
 11689::$$$message_0115_0055_0003$$$::O último deles, que é o acompanhamento, é o passo que vem depois de se atira a flecha, mas[line2]::
 11690::$$$message_0115_0056_0000$$$::"...Tá bom. Mas o que eu tenho a ver com isso?"[lr]::
-11691::$$$message_0115_0056_0001$$$::"Eu estou falando sobre o seu preparo mental. O acompanhamento não serve para você saber se acertou o alvo ou não.[lr]::
+11691::$$$message_0115_0056_0001$$$::"Estou falando de postura mental. Zanshin não é para confirmar se a flecha acertou o alvo.[lr]::
 11692::$$$message_0115_0056_0002$$$::Uma flecha já acerta o alvo antes mesmo de ser atirada. O arqueiro libera a flecha assim que tem essa visão.[lr]::
 11693::$$$message_0115_0056_0003$$$::Portanto, não é preciso ver se a flecha acertou.[lr]::
 11694::$$$message_0115_0056_0004$$$::Porque se você imaginar que a flecha vai acertar, ela vai atingir o seu alvo, e do contrário ela vai errar."::
 11695::$$$message_0115_0057_0000$$$::"[line2]Isso não é verdade. Alguns disparos não vão acertar o alvo mesmo que você tenha certeza de que vão. Senão todo mundo iria sempre atingir o alvo só de pensar em acertar."::
-11696::$$$message_0115_0058_0000$$$::"É mesmo? Bem, você sempre acerta o alvo."[lr]::
+11696::$$$message_0115_0058_0000$$$::"Será mesmo? Bem, pelo menos você não erra"[lr]::
 11697::$$$message_0115_0058_0001$$$::"Quê[line2]"[lr]::
-11698::$$$message_0115_0058_0002$$$::Essa frase dele fez o meu coração disparar.[lr]::
-11699::$$$message_0115_0058_0003$$$::Isso com certeza é[line2]::
-11700::$$$message_0115_0059_0000$$$::"Bem, eu não ligo para isso. Só quero te dizer uma coisa. O acompanhamento não serve para você saber se acertou o alvo ou não. O que vai acontecer com a flecha é óbvio.[lr]::
-11701::$$$message_0115_0059_0001$$$::Ou seja, o acompanhamento é na verdade uma preparação para aceitar o resultado, não acha?"::
-11702::$$$message_0115_0060_0000$$$::"[line2]Eu sei disso. O que você quer dizer é que eu deveria aceitar o que vai acontecer até o final, não é?"::
+11698::$$$message_0115_0058_0002$$$::Aquilo me pega de surpresa.[lr]::
+11699::$$$message_0115_0058_0003$$$::Porque... ele não está errado...[line2]::
+11700::$$$message_0115_0059_0000$$$::"Mas isso não importa. O ponto é outro. Zanshin não é para julgar o resultado da flecha, esse resultaddo já é conhecido.[lr]::
+11701::$$$message_0115_0059_0001$$$::Zanshin é a postura para aceitar esse resultado."::
+11702::$$$message_0115_0060_0000$$$::"[line2]Eu sei. No fundo, você só está dizendo pra eu ir até o fim e encarar o que vier, não é?"::
 11703::$$$message_0115_0061_0000$$$::"Isso mesmo. Eu fiquei sabendo sobre a situação da Saber. Você já deveria saber desde o começo que ela iria acabar desse jeito. Ela vai desaparecer mais cedo ou mais tarde se lutar sem energia mágica.[lr]::
 11704::$$$message_0115_0061_0001$$$::Esse fato já estava determinado. Então[line2]"::
 11705::$$$message_0115_0062_0000$$$::...Tudo o que me resta é aceitar o resultado.[lr]::
@@ -202,10 +202,10 @@ id=qid::label=str::text=lstr::
 11709::$$$message_0115_0063_0002$$$::Vou deixar essa cara de uma vez por todas.::
 11710::$$$message_0115_0064_0000$$$::"...Ah, e mais uma coisa. Eu vou te contar isso já que parece que você não percebeu."[lr]::
 11711::$$$message_0115_0064_0001$$$::Eu ouço uma voz atrás de mim.::
-11712::$$$message_0115_0065_0000$$$::"A própria Saber já deveria saber que iria desaparecer se ela usasse o seu Fantasma Nobre. Provavelmente ela tentou evitar de usá-lo até o final."[lr]::
+11712::$$$message_0115_0065_0000$$$::"A Saber sabia que desapareceria se usasse o próprio Fantasma Nobre. Provavelmente, não pretendia usá-lo até o fim"[lr]::
 11713::$$$message_0115_0065_0001$$$::Dessa vez, a voz não acompanha o tom arrogante de sempre.::
-11714::$$$message_0115_0066_0000$$$::"Só há um motivo dela ter usado o seu Fantasma Nobre mesmo sabendo desse fato.[lr]::
-11715::$$$message_0115_0066_0001$$$::Ela escolheu proteger você ao invés da sua própria existência.[lr]::
+11714::$$$message_0115_0066_0000$$$::"Ainda assim, ela usou. E só há um motivo pra isso.[lr]::
+11715::$$$message_0115_0066_0001$$$::Ela escolheu te proteger, mesmo que isso custasse a própria existência.[lr]::
 11716::$$$message_0115_0066_0002$$$::Nunca se esqueça disso."[lr]::
-11717::$$$message_0115_0066_0003$$$::A voz dele acompanha apenas a sua opinião sincera.::
+11717::$$$message_0115_0066_0003$$$::Não havia ironia nenhuma ali. A voz dele acompanha apenas a sua opinião sincera.::
 

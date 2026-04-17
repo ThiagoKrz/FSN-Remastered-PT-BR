@@ -70,7 +70,7 @@ id=qid::label=str::text=lstr::
 11125::$$$message_0111_0022_0000$$$::"Quem mais? Vamos lá, se acostume com isso. Você é um Mestre também, sabia."[lr]::
 11126::$$$message_0111_0022_0001$$$::"Okay, talvez sim, mas por que você não me disse isso antes, Tohsaka?"::
 11127::$$$message_0111_0023_0000$$$::"Porque não há solução fácil aqui.[lr]::
-11128::$$$message_0111_0023_0001$$$::"O Mestre que lançou o Campo de Força sobre a escola é de terceira classe, mas quem quer que esteja causando esses incidentes pela cidade inteira é de primeira classe. Eles são habilidosos o suficiente para extrair o poder que precisam das pessoas sem matá-las."::
+11128::$$$message_0111_0023_0001$$$::"O Mestre que lançou o Campo Limitado sobre a escola é de terceira classe, mas quem quer que esteja causando esses incidentes pela cidade inteira é de primeira classe. Eles são habilidosos o suficiente para extrair o poder que precisam das pessoas sem matá-las."::
 11129::$$$message_0111_0024_0000$$$::"E embora coletar energia dessa forma possa ser mais lento, eles estão seguindo as regras para magos, e não precisam se esforçar para conseguir isso. Este Mestre está roubando a força vital de todos na cidade, uma das formas mais simples de energia mágica, de um local remoto."::
 11130::$$$message_0111_0025_0000$$$::"De um local remoto? Alguém pode realmente coletar energia mágica à distância?"[lr]::
 11131::$$$message_0111_0025_0001$$$::"Deve ser um mago muito habilidoso.[lr]::
@@ -94,7 +94,7 @@ id=qid::label=str::text=lstr::
 11149::$$$message_0111_0032_0000$$$::"Um cheiro doce como mel, huh? Como uma planta carnívora, talvez.[lr]::
 11150::$$$message_0111_0032_0001$$$::"Sim, é uma boa maneira de descrever."[lr]::
 11151::$$$message_0111_0032_0002$$$::"Uma planta carnívora? Isso é perturbador."::
-11152::$$$message_0111_0033_0000$$$::"Você acha? Não acho que esteja longe da verdade, no entanto. Quero dizer, assim que o Campo de Força sobre a escola se fechar, todos lá dentro serão comidos."::
+11152::$$$message_0111_0033_0000$$$::"Você acha? Não acho que esteja longe da verdade, no entanto. Quero dizer, assim que o Campo Limitado sobre a escola se fechar, todos lá dentro serão comidos."::
 11153::$$$message_0111_0034_0000$$$::"..."[lr]::
 11154::$$$message_0111_0034_0001$$$::Ela vê através de mim, e eu engulo em seco.[lr]::
 11155::$$$message_0111_0034_0002$$$::"Eu sabia. Adoro poder ler você como um livro."[lr]::
@@ -104,9 +104,9 @@ id=qid::label=str::text=lstr::
 11159::$$$message_0111_0036_0001$$$::Ela está me testando.[lr]::
 11160::$$$message_0111_0036_0002$$$::Tohsaka está tentando me dizer...[lr]::
 11161::$$$message_0111_0036_0003$$$::...que este Mestre pelo qual estou disposto a lutar na Guerra do Santo Graal é do tipo disposto a ferir inocentes para vencer, e é por isso que eles estão aqui na escola.::
-11162::$$$message_0111_0037_0000$$$::"Eu sei. Precisamos encontrar o Mestre que montou este Campo de Força, e cuidar disso. E se eles disserem que não vão derrubar o Campo de Força, então só precisamos derrotá-los."[lr]::
+11162::$$$message_0111_0037_0000$$$::"Eu sei. Precisamos encontrar o Mestre que montou este Campo Limitado, e cuidar disso. E se eles disserem que não vão derrubar o Campo de Limitado, então só precisamos derrotá-los."[lr]::
 11163::$$$message_0111_0037_0001$$$::"Isso mesmo. Fico feliz que tenha entendido."::
-11164::$$$message_0111_0038_0000$$$::"Eu vou procurar quem quer que tenha montado este Campo de Força, então vá e verifique qualquer lugar que pareça suspeito.[lr]::
+11164::$$$message_0111_0038_0000$$$::"Eu vou procurar quem quer que tenha montado este Campo Limitado, então vá e verifique qualquer lugar que pareça suspeito.[lr]::
 11165::$$$message_0111_0038_0001$$$::"Eu já procurei um pouco, mas posso ter deixado algo passar. E parece que você é bom em encontrar singularidades como esta, então vou deixar um especialista tentar."[lr]::
 11166::$$$message_0111_0038_0002$$$::Tohsaka acena e corre em direção ao prédio da escola.::
 11167::$$$message_0111_0039_0000$$$::"Ei! Não me deixe pendurado! Que tipos de lugares são suspeitos, Tohsaka!?"[lr]::

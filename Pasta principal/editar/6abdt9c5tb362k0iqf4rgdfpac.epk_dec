@@ -6,10 +6,10 @@ id=qid::label=str::text=lstr::
 17126::$$$message_0158_0001_0000$$$::"Shirou...? O que você quer dizer com isso...?"::
 17127::$$$message_0158_0002_0000$$$::"Não deu para entender?[lr]::
 17128::$$$message_0158_0002_0001$$$::Eu disse que nós não vamos almoçar hoje. Já que comemos hambúrguer no café da manhã, eu estava pensando em pular o almoço."::
-17129::$$$message_0158_0003_0000$$$::Eu não sei de onde tirei essa ideia, mas enfim, não estou com muita fome mesmo.[lr]::
+17129::$$$message_0158_0003_0000$$$::Nem sei de onde tirei essa ideia, mas enfim, não estou com muita fome mesmo.[lr]::
 17130::$$$message_0158_0003_0001$$$::Já que nós estamos no meio do treinamento, eu quero mais é continuar treinando.::
 17131::$$$message_0158_0004_0000$$$::"Vamos continuar com o treinamento. Levanta a sua shinai."[lr]::
-17132::$$$message_0158_0004_0001$$$::Eu aponto a minha shinai para a Saber.::
+17132::$$$message_0158_0004_0001$$$::Aponto a minha shinai para a Saber.::
 17133::$$$message_0158_0005_0000$$$::"E-Espera, Shirou. Eu ainda não terminei de falar![lr]::
 17134::$$$message_0158_0005_0001$$$::Não seria burrice achar que nós não precisamos almoçar só porque comemos muito no café da manhã!?"::
 17135::$$$message_0158_0006_0000$$$::"Ei...! O-O que você está fazendo, Saber!? [r]Devolve a minha shinai!"[lr]::
@@ -29,7 +29,7 @@ id=qid::label=str::text=lstr::
 17149::$$$message_0158_0011_0001$$$::O estômago da Saber está pedindo por comida.::
 17150::$$$message_0158_0012_0000$$$::"Foi você mesmo, Saber? Você está com tanta fome assim?"[lr]::
 17151::$$$message_0158_0012_0001$$$::"N-Não, eu não estou com tanta fome, mas parece que o meu corpo está precisando de energia."::
-17152::$$$message_0158_0013_0000$$$::"Ah... eu sei que você esteve se exercitando por um bom tempo, mas isso é falta de educação, Saber. Se você esquecer de ser educada só porque é um Servo, o Shirou vai acabar te odiando."::
+17152::$$$message_0158_0013_0000$$$::"Ah... eu sei que você esteve se exercitando por um bom tempo, mas isso é falta de compostura, Saber. Se você esquecer de ser educada só porque é um Servo, o Shirou vai acabar te odiando."::
 17153::$$$message_0158_0014_0000$$$::"I-Isso não é verdade! Eu sou um Servo, então só a minha derrota poderia fazer o Shirou me odiar!"::
 17154::$$$message_0158_0015_0000$$$::"Olha só... eu não vou te odiar se você for derrotada, e mesmo assim, tem outras coisas que podem me pegar de surpresa, Saber."::
 17155::$$$message_0158_0016_0000$$$::"É-só-a-derrota-sim!! Afinal, os estômagos foram feitos para roncar quando eles estão com fome! Se isso te incomoda Shirou, saiba que a culpa é sua por você não me alimentar direito!"[lr]::
@@ -39,7 +39,7 @@ id=qid::label=str::text=lstr::
 17159::$$$message_0158_0017_0002$$$::...Pode parecer meio contraditório, mas o ronco também pode ser causado pelo nosso sistema nervoso involuntário.::
 17160::$$$message_0158_0018_0000$$$::Afinal, o estômago está sempre ativo, e ele não ronca só quando alguém sente fome.[lr]::
 17161::$$$message_0158_0018_0001$$$::O movimento do estômago... o motivo dele fazer um barulho alto é...[lr]::
-17162::$$$message_0158_0018_0002$$$::'Eu estou com fome. As pessoas vão ficar sabendo se ele roncar, então tenho que ficar me segurando'[lr]::
+17162::$$$message_0158_0018_0002$$$::'Estou com fome. As pessoas vão ficar sabendo se ele roncar, então tenho que ficar me segurando'[lr]::
 17163::$$$message_0158_0018_0003$$$::...Aumentar o seu estresse e acabar fazendo com que ele fique ainda mais agitado, ou alguma coisa assim.::
 17164::$$$message_0158_0019_0000$$$::[line2]Hmm.[lr]::
 17165::$$$message_0158_0019_0001$$$::Ou seja...::
@@ -52,17 +52,17 @@ id=qid::label=str::text=lstr::
 17172::$$$message_0158_0024_0000$$$::"Hã...? Bem, eu só estou sendo sincero.[lr]::
 17173::$$$message_0158_0024_0001$$$::O seu estômago sempre ronca mais ou menos nessa hora do dia. Mesmo que você não seja uma comilona, eu acho que você fica com fome rápido demais."[lr]::
 17174::$$$message_0158_0024_0002$$$::"[line5]"[lr]::
-17175::$$$message_0158_0024_0003$$$::"Viu só? A Saber não tem educação!"::
+17175::$$$message_0158_0024_0003$$$::"Viu só? A Saber é tão sem modos!"::
 17176::$$$message_0158_0025_0000$$$::A Illya está pulando de alegria por ter conseguido humilhar a Saber.::
 17177::$$$message_0158_0026_0000$$$::Enquanto isso, a Saber que antes estava entrando em pânico, agora está[line2][lr]::
 17178::$$$message_0158_0026_0001$$$::[line2]de volta ao normal, como se nada tivesse acontecido.::
 17179::$$$message_0158_0027_0000$$$::"...Saber? Bem, você não está brava comigo, está?"[lr]::
-17180::$$$message_0158_0027_0001$$$::"Eu não estou com raiva. Como a Illyasviel disse, eu me alimento de forma exagerada.[lr]::
+17180::$$$message_0158_0027_0001$$$::"Não estou com raiva. Como a Illyasviel disse, eu me alimento de forma exagerada.[lr]::
 17181::$$$message_0158_0027_0002$$$::Talvez eu esteja consumindo o máximo de energia[line2]ou melhor, o máximo de energia mágica possível para tentar diminuir o fardo do Shirou."::
 17182::$$$message_0158_0028_0000$$$::"Ah[line2]"[lr]::
 17183::$$$message_0158_0028_0001$$$::...É mesmo.[lr]::
 17184::$$$message_0158_0028_0002$$$::A Saber precisa reabastecer a sua energia mágica por conta própria.[lr]::
-17185::$$$message_0158_0028_0003$$$::Ela provavelmente queria economizar energia dormindo,[lr]::
+17185::$$$message_0158_0028_0003$$$::Provavelmente ela queria economizar energia dormindo,[lr]::
 17186::$$$message_0158_0028_0004$$$::E provavelmente queria preservá-la através da alimentação.::
 17187::$$$message_0158_0029_0000$$$::"...Me desculpe. Eu não tinha pensado nisso.[lr]::
 17188::$$$message_0158_0029_0001$$$::Se o Mestre não consegue reabastecer a sua energia mágica, você precisa consegui-la sozinha."::
@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 17200::$$$message_0158_0034_0001$$$::E-Espera, eu acabei de ter um mau pressentimento!::
 17201::$$$message_0158_0035_0000$$$::"Espera, espera, se acalme.[lr]::
 17202::$$$message_0158_0035_0001$$$::...Saber, na verdade você está bem nervosa, não está?"[lr]::
-17203::$$$message_0158_0035_0002$$$::Eu pergunto isso a ela com um pouco de medo.::
+17203::$$$message_0158_0035_0002$$$::Pergunto isso a ela com um pouco de medo.::
 17204::$$$message_0158_0036_0000$$$::"Imagina! Eu pareço nervosa para você?"[lr]::
 17205::$$$message_0158_0036_0001$$$::"V-Você mudou completamente!!!"::
 17206::$$$message_0158_0037_0000$$$::Uma armadura!?[lr]::
@@ -88,29 +88,29 @@ id=qid::label=str::text=lstr::
 17208::$$$message_0158_0037_0002$$$::Sério mesmo!?::
 17209::$$$message_0158_0038_0000$$$::"Então, vamos cruzar as nossas shinais com calma, como sempre fazemos."[lr]::
 17210::$$$message_0158_0038_0001$$$::"T-Tá falando sério!? Você está sendo infantil demais!!"::
-17211::$$$message_0158_0039_0000$$$::Ela está me ignorando.[lr]::
+17211::$$$message_0158_0039_0000$$$::Sou ignorado.[lr]::
 17212::$$$message_0158_0039_0001$$$::Um impacto tão forte quanto uma tempestade.[lr]::
 17213::$$$message_0158_0039_0002$$$::A Saber me ataca de forma violenta, sem se preocupar mais em pegar leve.::
-17214::$$$message_0158_0040_0000$$$::Olá a todos!::
+17214::$$$message_0158_0040_0000$$$::Olá a todos![lr]::
 17215::$$$message_0158_0040_0001$$$::Esse é o mundo dos espíritos que vai te guiar até o paraíso, te parabenizando por você ter conseguido morrer por causa de um erro besta, o Dojo da Tigresa!::
-17216::$$$message_0158_0040_0002$$$::Nãããããoooo![lr]::
-17217::$$$message_0158_0040_0003$$$::"Hã...!?"[lr]::
-17218::$$$message_0158_0040_0004$$$::Acho que acabei de ter um pesadelo... ou será que eu estive no inferno...!?::
-17219::$$$message_0158_0040_0005$$$::"Está acordado, Shirou? Me sinto envergonhada por você não ter se esquivado do meu primeiro ataque.[lr]::
-17220::$$$message_0158_0040_0006$$$::"...! O-O-O quê... você ainda quer continuar com isso!?"[lr]::
-17221::$$$message_0158_0040_0007$$$::"Claro que sim. Ainda faltam dez minutos até a hora do almoço. Até lá, nós vamos continuar treinando a todo vapor."[lr]::
-17222::$$$message_0158_0040_0008$$$::"Ah[line2]uh"[lr]::
+17216::$$$message_0158_0040_0002$$$::E eu sou a assistente, Anjo do Além Número Um.::
+17217::$$$message_0158_0040_0003$$$::Guarde bem isso, você precisa viver cada segundo com cuidado, ou suas feridas vão te acompanhar pelo resto da vida.[lr]::
+17218::$$$message_0158_0040_0004$$$::Se você tirar sarro de alguém sem senso de humor, é melhor se preparar pra morrer.::
+17219::$$$message_0158_0040_0005$$$::Pois é. Mas o Shirou ficou tão fofo quando o golpe da Saber fez a alma dele sair voando do corpo.::
+17220::$$$message_0158_0040_0006$$$::"...Essa garota tem um conceito bem distorcido do que é 'fofo'.[lr]::
+17221::$$$message_0158_0040_0007$$$::Mas, pensando bem, esse cadáver está surpreendentemente inteiro. Não é raro ele ficar tão intacto assim?::
+17222::$$$message_0158_0040_0008$$$::Verdade. Até que é meio anticlimático.::
 17223::$$$message_0158_0040_0009$$$::...Quer mexer com isso?::
-17224::$$$message_0158_0040_0010$$$::...Let's do it.::
+17224::$$$message_0158_0040_0010$$$::...Vamos lá.::
 17225::$$$message_0158_0040_0011$$$::OK! É hora de começar nossas alterações! Primeiro, para evitar que o corpo seja revivido por engano, vamos transformar ambas as mãos em metralhadoras Gatling!::
 17226::$$$message_0158_0040_0012$$$::Sir, yes sir!::
 17227::$$$message_0158_0040_0013$$$::OK! E terminamos!::
 17228::$$$message_0158_0040_0014$$$::O que você acha? Qual é a sensação de modificar todo o seu corpo?[lr]::
 17229::$$$message_0158_0040_0015$$$::Pelo menos respeitamos seus desejos e não operamos seu cérebro, o que teria sido a modificação final!::
-17230::$$$message_0158_0040_0016$$$::We stopped!::
+17230::$$$message_0158_0040_0016$$$::Parou!::
 17231::$$$message_0158_0040_0017$$$::Agora, você deve escolher entre se juntar aos Tiger's Angels ou sofrer uma lavagem cerebral e se transformar em uma máquina! Sua escolha!::
 17232::$$$message_0158_0040_0018$$$::Isso é ruim, governante supremo! O experimento está usando seus poderes modificados para escapar de suas amarras!::
-17233::$$$message_0158_0040_0019$$$::Kyaaah! He's gone berserk! He'll destroy our base![lr]::
+17233::$$$message_0158_0040_0019$$$::Kyaaah! Ele está surtando! Vai destruir a nossa base![lr]::
 17234::$$$message_0158_0040_0020$$$::Podemos ter criado o nosso maior inimigo!::
 17235::$$$message_0158_0041_0000$$$::O que fizemos!?[lr]::
 17236::$$$message_0158_0041_0001$$$::Devíamos ter começado com o cérebro dele!::
@@ -119,10 +119,11 @@ id=qid::label=str::text=lstr::
 17239::$$$message_0158_0042_0001$$$::Acabei de ter um sonho maluco... Será que aquilo poderia ter sido a vida após a morte?::
 17240::$$$message_0158_0043_0000$$$::"Você acordou, Shirou? Tenho vergonha que, depois de toda essa prática, você não consiga nem se esquivar de um único golpe meu.[lr]::
 17241::$$$message_0158_0043_0001$$$::Então, por favor, evite o próximo. Estou usando técnicas de kendo, então você deve ser capaz de suportar isso, desde que se prepare adequadamente."::
-17242::$$$message_0158_0044_0000$$$::"N-n-n-n-no! You still want to keep going!?"[lr]::
+17242::$$$message_0158_0044_0000$$$::"N-n-n-n-não! Você ainda vai continuar!?"[lr]::
 17243::$$$message_0158_0044_0001$$$::"Claro. Ainda temos dez minutos até o meio-dia. Vamos continuar até chegar ao nosso limite, como sempre."[lr]::
 17244::$$$message_0158_0044_0002$$$::O shinai de Saber ataca furiosamente, com um som alto e estridente.::
 17245::$$$message_0158_0045_0000$$$::"Agh... Oof."[lr]::
-17246::$$$message_0158_0045_0001$$$::I pass out once again.[lr]::
+17246::$$$message_0158_0045_0001$$$::Mais uma vez, minha consciência vai se apagando..[lr]::
 17247::$$$message_0158_0045_0002$$$::...Eu preciso tomar cuidado.[lr]::
 17248::$$$message_0158_0045_0003$$$::Saber é do tipo que realmente se dedica à vingança quando você a deixa com raiva.::
+

@@ -1,34 +1,34 @@
 DAT
 id=qid::label=str::text=lstr::
-12845::$$$message_0129_0000_0000$$$::O vento é desembrulhado.[lr]::
-12846::$$$message_0129_0000_0001$$$::Eu começo a ver a espada dourada nas mãos da Saber.[lr]::
-12847::$$$message_0129_0000_0002$$$::[line2]Aquela que não pode ser usada.[lr]::
-12848::$$$message_0129_0000_0003$$$::A espada que eu disse para ela não usar, não importa o que aconteça.::
+12845::$$$message_0129_0000_0000$$$::O vento se desfaz.[lr]::
+12846::$$$message_0129_0000_0001$$$::A espada dourada começa a se revelar nas mãos da Saber.[lr]::
+12847::$$$message_0129_0000_0002$$$::[line2]Eu disse para não usá-la.[lr]::
+12848::$$$message_0129_0000_0003$$$::Aquela espada que eu pedi que ela nunca usasse, não importa o que aconteça.::
 12849::$$$message_0129_0001_0000$$$::"[line5]"[lr]::
-12850::$$$message_0129_0001_0001$$$::Não vou mais me segurar.[lr]::
-12851::$$$message_0129_0001_0002$$$::Isso fez com que a última corda que estava me segurando fosse arrebentada.[lr]::
+12850::$$$message_0129_0001_0001$$$::Eu quebro.[lr]::
+12851::$$$message_0129_0001_0002$$$::A última linha que ainda me mantinha firme se rompe.[lr]::
 12852::$$$message_0129_0001_0003$$$::"Não use, Saber[line2]!!!!!!"[lr]::
-12853::$$$message_0129_0001_0004$$$::A minha mão esquerda está queimando.[lr]::
-12854::$$$message_0129_0001_0005$$$::Um dos Selos de Comando some.::
-12855::$$$message_0129_0002_0000$$$::"Quê[line2]Por quê? Nós não temos outra escolha, Shirou...!"::
-12856::$$$message_0129_0003_0000$$$::Eu não sei.[lr]::
-12857::$$$message_0129_0003_0001$$$::Eu não sei do que você está falando.[lr]::
-12858::$$$message_0129_0003_0002$$$::Só sei que você vai desaparecer se usar essa espada.[lr]::
+12853::$$$message_0129_0001_0004$$$::Minha mão esquerda queima.[lr]::
+12854::$$$message_0129_0001_0005$$$::Um Selo de Comando desaparece.::
+12855::$$$message_0129_0002_0000$$$::"Quê[line2]Por quê...? Já não temos outra escolha, Shirou...!"::
+12856::$$$message_0129_0003_0000$$$::Não importa.[lr]::
+12857::$$$message_0129_0003_0001$$$::Isso não importa.[lr]::
+12858::$$$message_0129_0003_0002$$$::A única coisa que eu sei é que, se você usar isso, vai desaparecer.::
 12859::$$$message_0129_0004_0000$$$::"Kuh..."::
-12860::$$$message_0129_0005_0000$$$::A Saber cai de joelhos.[lr]::
-12861::$$$message_0129_0005_0001$$$::...Só de revelar a sua espada já a deixou assim.[lr]::
-12862::$$$message_0129_0005_0002$$$::Você não pode usar essa espada nesse seu estado atual.[lr]::
-12863::$$$message_0129_0005_0003$$$::Então espere.[lr]::
-12864::$$$message_0129_0006_0000$$$::[line2]Se for um oponente que você não tem como competir na vida real, tente vencê-lo dentro de sua imaginação.[lr]::
-12865::$$$message_0129_0006_0001$$$::Se você não puder derrotá-lo sozinho, pense em algo que você possa usar para vencê-lo.::
-12866::$$$message_0129_0007_0000$$$::Depois que ele disse isso, tudo fica claro.[lr]::
-12867::$$$message_0129_0007_0001$$$::Essa é a única coisa que eu posso fazer.[lr]::
-12868::$$$message_0129_0007_0002$$$::Então basta fazê-la.[lr]::
-12869::$$$message_0129_0007_0003$$$::Crie algo que não vai perder para ninguém. Sempre imagine essa coisa como a mais forte de todas. Pense na melhor réplica possível que vai enganar a todo mundo, até a você mesmo.::
-12870::$$$message_0129_0008_0000$$$::Isso não é nem um pouco difícil.[lr]::
+12860::$$$message_0129_0005_0000$$$::...Só de liberar a espada já te deixou assim.[lr]::
+12861::$$$message_0129_0005_0001$$$::Você não consegue usá-la agora.[lr]::
+12862::$$$message_0129_0005_0002$$$::Então espere.[lr]::
+12863::$$$message_0129_0005_0003$$$::Se você não pode usar essa espada, eu vou criar uma que você possa usar[line2]!::
+12864::$$$message_0129_0006_0000$$$::[line2]Se é um oponente que você não consegue lidar na vida real, derrote-o em sua imaginação.[lr]::
+12865::$$$message_0129_0006_0001$$$::Se não pode derrotá-lo sozinho, imagine algo que você possa usar para derrotá-lo.::
+12866::$$$message_0129_0007_0000$$$::Quando penso nisso, é óbvio.[lr]::
+12867::$$$message_0129_0007_0001$$$::É a única coisa que posso fazer.[lr]::
+12868::$$$message_0129_0007_0002$$$::Então eu crio.[lr]::
+12869::$$$message_0129_0007_0003$$$::Crie algo que nunca perca. Imagine sempre o mais forte. Imagine a melhor falsificação possível, capaz de enganar todos... até a si mesmo.::
+12870::$$$message_0129_0008_0000$$$::Não deveria ser difícil.[lr]::
 12871::$$$message_0129_0008_0001$$$::Não é impossível.[lr]::
-12872::$$$message_0129_0008_0002$$$::Afinal, esse corpo sempre foi...[lr]::
-12873::$$$message_0129_0008_0003$$$::...Um Circuito Mágico feito especialmente para essa função[line2]!![lr]::
+12872::$$$message_0129_0008_0002$$$::Desde o começo, este corpo...[lr]::
+12873::$$$message_0129_0008_0003$$$::...é um Circuito Mágico especializado apenas nisso[line2]![lr]::
 12874::$$$message_0129_0008_0004$$$::"Ah[line2]"[lr]::
 12875::$$$message_0129_0008_0005$$$::Eu renasço.[lr]::
 12876::$$$message_0129_0008_0006$$$::O meu corpo inteiro está queimando e a minha mão esquerda parece que está em chamas.::
@@ -40,12 +40,12 @@ id=qid::label=str::text=lstr::
 12882::$$$message_0129_0010_0002$$$::"AHHHHHHHHHHHHHHH[line2]!"[lr]::
 12883::$$$message_0129_0010_0003$$$::A espada dourada não para e, como se tivesse sido atraída até o gigante, arranca o seu o braço fora.::
 12884::$$$message_0129_0011_0000$$$::A Tohsaka cai junto com o braço que estava a segurando, e então, a espada quebra como se fosse feita de vidro.::
-12885::$$$message_0129_0012_0000$$$::Todo o meu sangue é levado até a boca.[lr]::
-12886::$$$message_0129_0012_0001$$$::Mas esse não é o problema.[lr]::
-12887::$$$message_0129_0012_0002$$$::A espada se quebrou.[lr]::
-12888::$$$message_0129_0012_0003$$$::Isso deveria ser impossível. Se eu fiz uma réplica daquela espada, ela não poderia ter quebrado.[lr]::
-12889::$$$message_0129_0012_0004$$$::Ela quebrou porque a minha réplica não foi boa o bastante.[lr]::
-12890::$$$message_0129_0012_0005$$$::A minha imagem dela se desviou um pouco da espada real.::
+12885::$$$message_0129_0012_0000$$$::Meu sangue parece correr ao contrário.[lr]::
+12886::$$$message_0129_0012_0001$$$::Mas isso não importa.[lr]::
+12887::$$$message_0129_0012_0002$$$::A espada quebrou.[lr]::
+12888::$$$message_0129_0012_0003$$$::Isso não deveria acontecer. Se eu reproduzi aquela espada, ela não deveria se quebrar.[lr]::
+12889::$$$message_0129_0012_0004$$$::Ela quebrou porque não foi suficiente.[lr]::
+12890::$$$message_0129_0012_0005$$$::Minha imagem não alcançou a espada original.::
 12891::$$$message_0129_0013_0000$$$::"[wacky len=12]"[lr]::
 12892::$$$message_0129_0013_0001$$$::Os olhos dele me encaram.[lr]::
 12893::$$$message_0129_0013_0002$$$::A espada do gigante é erguida para me matar de uma vez por todas.::
@@ -53,8 +53,8 @@ id=qid::label=str::text=lstr::
 12895::$$$message_0129_0014_0001$$$::Ele não é o meu inimigo.[lr]::
 12896::$$$message_0129_0014_0002$$$::O Emiya Shirou só tem um inimigo.[lr]::
 12897::$$$message_0129_0014_0003$$$::A espada que acabei de criar não estava perfeita.[lr]::
-12898::$$$message_0129_0014_0004$$$::A espada inquebrável acabou quebrando porque havia um erro dentro dos meus cálculos.[lr]::
-12899::$$$message_0129_0014_0005$$$::Se a minha intenção é copiá-la, eu não posso apenas imitar o seu formato... Também tenho que reproduzir todo o processo de criação[line2]!::
+12898::$$$message_0129_0014_0004$$$::A espada que não deveria quebrar se partiu porque havia falhas na minha concepção.[lr]::
+12899::$$$message_0129_0014_0005$$$::Se vou reproduzir, não basta copiar a forma... tenho que reproduzir até o criador[line2]!::
 12900::$$$message_0129_0015_0000$$$::"[line2]"[lr]::
 12901::$$$message_0129_0015_0001$$$::Eu ouço um suspiro.[lr]::
 12902::$$$message_0129_0015_0002$$$::Na minha frente está a espada em forma de machado sendo balançada como um furacão, e uma espada em processo de criação que está me protegendo.[lr]::
@@ -66,7 +66,7 @@ id=qid::label=str::text=lstr::
 12908::$$$message_0129_0016_0002$$$::Porque a sua luta deveria ser na mente, uma luta contra você mesmo."::
 12909::$$$message_0129_0017_0000$$$::Ele não precisa me dizer isso.[lr]::
 12910::$$$message_0129_0017_0001$$$::O que eu preciso fazer é muito simples.[lr]::
-12911::$$$message_0129_0017_0002$$$::"[line2]Projeção, começar."::
+12911::$$$message_0129_0017_0002$$$::"[line2]Projeção, iniciar."::
 12912::$$$message_0129_0018_0000$$$::Eu me concentro.[lr]::
 12913::$$$message_0129_0018_0001$$$::Eu estou desafiando a mim mesmo. Nenhum erro ou falta de atenção será aceito.::
 12914::$$$message_0129_0019_0000$$$::"Gi[line2]kuu, uh, aaaa, a[line2]"[lr]::
@@ -78,7 +78,7 @@ id=qid::label=str::text=lstr::
 12920::$$$message_0129_0019_0006$$$::reproduzindo os anos de uso acumulados,[lr]::
 12921::$$$message_0129_0019_0007$$$::aprimorando cada um dos processos de fabricação[line2][lr]::
 12922::$$$message_0129_0019_0008$$$::"Kuh[line2]ah, ahhhhhhhhhhhh...!!!!"::
-12923::$$$message_0129_0019_0009$$$::Agora, eu prendo a ilusão e a transformo em uma espada[line2]!::
+12923::$$$message_0129_0019_0009$$$::Aqui, uno a ilusão e a torno uma espada[line2]!::
 12924::$$$message_0129_0020_0000$$$::"[wacky len=12][line2]!"[lr]::
 12925::$$$message_0129_0020_0001$$$::O gigante ruge.[lr]::
 12926::$$$message_0129_0020_0002$$$::A espada bloqueia a sequência de ataques furiosos...!::
@@ -88,16 +88,16 @@ id=qid::label=str::text=lstr::
 12930::$$$message_0129_0021_0003$$$::A espada deve ter deixado tudo por minha conta depois que a minha consciência voltou.[lr]::
 12931::$$$message_0129_0021_0004$$$::Eu sou arremessado facilmente pelos ataques que até então estava defendendo sem nenhuma dificuldade.::
 12932::$$$message_0129_0022_0000$$$::"Ha[line2]ah"[lr]::
-12933::$$$message_0129_0022_0001$$$::Eu não sinto mais os meus braços. O meu punho está prestes a ser arrancado para fora, já que a minha carne vermelha está exposta.::
+12933::$$$message_0129_0022_0001$$$::Não sinto meus braços. Meu pulso está aberto, e é um milagre ainda conseguir segurar.::
 12934::$$$message_0129_0023_0000$$$::"[line2]Kuh...!"[lr]::
 12935::$$$message_0129_0023_0001$$$::As minhas pernas não se movem. Todos os meus músculos devem ter parado de funcionar.[lr]::
 12936::$$$message_0129_0023_0002$$$::[line2]Não consigo ficar de pé.[lr]::
 12937::$$$message_0129_0023_0003$$$::Eu criei uma espada que é capaz de derrotar o Berserker.[lr]::
 12938::$$$message_0129_0023_0004$$$::Mas nada além disso.[lr]::
-12939::$$$message_0129_0023_0005$$$::Já que sou apenas um forjador, eu não fui feito para manusear essa espada[line2]!::
+12939::$$$message_0129_0023_0005$$$::Sou apenas quem a criou... não consigo usar essa espada[line2]!::
 12940::$$$message_0129_0024_0000$$$::Uma sombra me cobre.[lr]::
 12941::$$$message_0129_0024_0001$$$::Agora ele deve saber quem precisa matar primeiro.[lr]::
-12942::$$$message_0129_0024_0002$$$::O Berserker me persegue como o vento, e...::
+12942::$$$message_0129_0024_0002$$$::Berserker avança como um vendaval para me matar,::
 12943::$$$message_0129_0024_0003$$$::Balança a sua espada.::
 12944::$$$message_0129_0025_0000$$$::Porém, a espada é repelida.[lr]::
 12945::$$$message_0129_0025_0001$$$::"Eh[line2]?"[lr]::
@@ -113,8 +113,8 @@ id=qid::label=str::text=lstr::
 12955::$$$message_0129_0027_0002$$$::Depois de correr até mim, a Saber vira de costas e[line2]::
 12956::$$$message_0129_0028_0000$$$::A espada de pedra é quebrada.[lr]::
 12957::$$$message_0129_0028_0001$$$::Um clarão da espada dourada destrói a espada do gigante, atravessa todo o seu corpo de pedra, e[line2]::
-12958::$$$message_0129_0029_0000$$$::...Se o formato for parecido, a habilidade também precisa ser parecida.[lr]::
-12959::$$$message_0129_0029_0001$$$::A espada dourada perfura profundamente o Berserker e destrói o seu corpo por dentro.::
+12958::$$$message_0129_0029_0000$$$::...Se a forma foi reproduzida, então as propriedades também foram?[lr]::
+12959::$$$message_0129_0029_0001$$$::A espada dourada se crava profundamente no corpo do Berserker e o envolve em luz por dentro.::
 12960::$$$message_0129_0030_0000$$$::[line2]Mas tudo isso aconteceu em um piscar de olhos.[lr]::
 12961::$$$message_0129_0030_0001$$$::A luz desaparece e a floresta volta a ficar silenciosa.[lr]::
 12962::$$$message_0129_0030_0002$$$::"Ha[line2]ah."[lr]::
@@ -128,16 +128,16 @@ id=qid::label=str::text=lstr::
 12970::$$$message_0129_0032_0001$$$::Agora, nem os rugidos que faziam o chão tremer, e nem os ataques que perfuravam o ar estão mais aqui.[lr]::
 12971::$$$message_0129_0032_0002$$$::"Então essa é a sua espada, Saber."[lr]::
 12972::$$$message_0129_0032_0003$$$::O gigante invencível fica sem se mexer e diz isso em um tom de voz grave, olhando para o cavaleiro que acabou de derrotá-lo.::
-12973::$$$message_0129_0032_0004$$$::"Essa é a Caliburn... a espada retirada da pedra de seleção. A minha espada que foi perdida para sempre.[lr]::
-12974::$$$message_0129_0032_0005$$$::Porém[line2]"[lr]::
-12975::$$$message_0129_0032_0006$$$::"Aquela não era a sua espada verdadeira. Era só uma ilusão criada por esse homem."[lr]::
+12973::$$$message_0129_0032_0004$$$::"Esta é Caliburn... a espada dourada da vitória, a espada da pedra que escolhe o rei. Minha espada, perdida para sempre.[lr]::
+12974::$$$message_0129_0032_0005$$$::Mas..."[lr]::
+12975::$$$message_0129_0032_0006$$$::"Aquilo não é mais a sua espada. Não passa de uma ilusão criada por esse homem."::
 12976::$$$message_0129_0032_0007$$$::A Saber acena em silêncio.::
 12977::$$$message_0129_0032_0008$$$::"Era uma réplica afinal. É uma espada que nunca mais vai existir.[lr]::
 12978::$$$message_0129_0032_0009$$$::Mas mesmo assim[line2]"[lr]::
 12979::$$$message_0129_0032_0010$$$::O peito do Berserker se abre e fica exposto.[lr]::
 12980::$$$message_0129_0032_0011$$$::Lentamente.[lr]::
 12981::$$$message_0129_0032_0012$$$::A partir da ferida causada por aquela luz, ele se desfaz como se fosse areia.::
-12982::$$$message_0129_0032_0013$$$::"[line2]Essa ilusão não deve ser subestimada. Eu não esperava que ela fosse destruir o meu corpo sete vezes com um único ataque."[lr]::
+12982::$$$message_0129_0032_0013$$$::"Mas essa ilusão não deve ser subestimada. Nunca imaginei que pudesse me matar sete vezes com um único golpe."::
 12983::$$$message_0129_0032_0014$$$::A suas últimas palavras não possuem emoção.[lr]::
 12984::$$$message_0129_0032_0015$$$::O guerreiro furioso cumpre com o seu dever até o final, e a sua existência se dissipa como se estivesse se misturando com o próprio ar.::
 12985::$$$message_0129_0033_0000$$$::Eu me sinto tonto.[lr]::
@@ -185,3 +185,4 @@ id=qid::label=str::text=lstr::
 13027::$$$message_0129_0044_0002$$$::Mas mesmo assim, nós conseguimos sobreviver até de manhã.[lr]::
 13028::$$$message_0129_0044_0003$$$::[line2]A noite que eu estava pronto para não sobreviver.[lr]::
 13029::$$$message_0129_0044_0004$$$::Depois de derrotar nosso maior inimigo, deixamos a floresta de inverno.::
+

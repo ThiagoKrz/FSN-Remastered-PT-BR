@@ -48,7 +48,7 @@ id=qid::label=str::text=lstr::
 31361::$$$message_0252_0017_0000$$$::"Ei, você tá bem, Tohsaka[line4]!?"[lr]::
 31362::$$$message_0252_0017_0001$$$::"[line8]"[lr]::
 31363::$$$message_0252_0017_0002$$$::Ótimo, a Tohsaka não tá machucada[line4]!::
-31364::$$$message_0252_0018_0000$$$::"Tohsaka, onde tá a origem do campo de separação!?"[lr]::
+31364::$$$message_0252_0018_0000$$$::"Tohsaka, onde tá a origem do Campo Limitado!?"[lr]::
 31365::$$$message_0252_0018_0001$$$::"Eh[line3]tá bem aqui! É naquela classe!"[lr]::
 31366::$$$message_0252_0018_0002$$$::O lugar que a Tohsaka aponta tá mais ou menos dez metros a frente.[lr]::
 31367::$$$message_0252_0018_0003$$$::Tem mais algumas criaturas de ossos que nos seguiram pelas escadas.[lr]::
@@ -84,7 +84,7 @@ id=qid::label=str::text=lstr::
 31397::$$$message_0252_0028_0000$$$::O ar nessa classe não pode mais ser chamado de gás.[lr]::
 31398::$$$message_0252_0028_0001$$$::O sangue vaporizado tinge os olhos de alguém como tinta.[lr]::
 31399::$$$message_0252_0028_0002$$$::Vozes de angústia podem ser ouvidas de todo lugar.::
-31400::$$$message_0252_0029_0000$$$::[line3]Essa é a origem do campo de separação, o lugar onde a "absorção" é a mais forte.[lr]::
+31400::$$$message_0252_0029_0000$$$::[line3]Essa é a origem do Campo Limitado, o lugar onde a "absorção" é a mais forte.[lr]::
 31401::$$$message_0252_0029_0001$$$::Os estudantes caídos no chão são totalmente diferentes dos estudantes do quarto andar.[lr]::
 31402::$$$message_0252_0029_0002$$$::...Os gemidos que eu ouço são só alucinações.[lr]::
 31403::$$$message_0252_0029_0003$$$::Os estudantes tem caras pálidas, e eles não se movem como se fossem bonecas de cera.[lr]::
@@ -105,7 +105,7 @@ id=qid::label=str::text=lstr::
 31418::$$$message_0252_0034_0000$$$::"N-Não, não, nãonãonãonãonãonãonão......! Não fui eu, não fui eu, não fui eu, não fui eu......!!!!!"[lr]::
 31419::$$$message_0252_0034_0001$$$::O Shinji balança sua cabeça e recua até a parede.::
 31420::$$$message_0252_0035_0000$$$::"'Não sou eu'...? Como você pode dizer isso?[lr]::
-31421::$$$message_0252_0035_0001$$$::Só vai e para com o campo de separação. Se você não fizer isso, eu posso destruir essa sua cara e[line4]"[lr]::
+31421::$$$message_0252_0035_0001$$$::Só vai e para com o Campo Limitado. Se você não fizer isso, eu posso destruir essa sua cara e[line4]"[lr]::
 31422::$$$message_0252_0035_0002$$$::"Ah[line4]u-uhh, não, eu disse não, não fui eu, não fui eu, não fui eu quem matou ela......!!!"::
 31423::$$$message_0252_0036_0000$$$::"......?"[lr]::
 31424::$$$message_0252_0036_0001$$$::Isso é estranho.[lr]::
@@ -128,7 +128,7 @@ id=qid::label=str::text=lstr::
 31441::$$$message_0252_0040_0004$$$::A mulher coberta em roupas pretas[line3]o servo que me atacou, Rider.::
 31442::$$$message_0252_0041_0000$$$::"[line4]Ela tá... morta..."[lr]::
 31443::$$$message_0252_0041_0001$$$::A voz da Tohsaka não tem emoção.[lr]::
-31444::$$$message_0252_0041_0002$$$::"Não fui eu. Não fui eu. Eu executei o campo de separação e ninguém conseguiu se mover, mas a Rider... Rider... foi..."::
+31444::$$$message_0252_0041_0002$$$::"Não fui eu. Não fui eu. Eu executei o Campo Limitado e ninguém conseguiu se mover, mas a Rider... Rider... foi..."::
 31445::$$$message_0252_0042_0000$$$::A serva preta[line4]Rider foi morta em um golpe.[lr]::
 31446::$$$message_0252_0042_0001$$$::Que tipo de arma foi, e como ela foi morta?::
 31447::$$$message_0252_0043_0000$$$::Só um golpe contra um servo.[lr]::
@@ -139,7 +139,7 @@ id=qid::label=str::text=lstr::
 31452::$$$message_0252_0044_0001$$$::Parece que alguém colocou um guindaste ali e rasgou a carne e osso esmagando eles.::
 31453::$$$message_0252_0045_0000$$$::[line4]A Rider desaparece desse mundo.[lr]::
 31454::$$$message_0252_0045_0001$$$::O mundo vermelho desaparece ao mesmo tempo.[lr]::
-31455::$$$message_0252_0045_0002$$$::Parece que o campo de separação foi criado por esse servo como eu pensava.[lr]::
+31455::$$$message_0252_0045_0002$$$::Parece que o Campo Limitado foi criado por esse servo como eu pensava.[lr]::
 31456::$$$message_0252_0045_0003$$$::Mas[line4]::
 31457::$$$message_0252_0046_0000$$$::"Shinji. Quem fez isso?"[lr]::
 31458::$$$message_0252_0046_0001$$$::"Hiii[line4]"[lr]::
@@ -179,7 +179,7 @@ id=qid::label=str::text=lstr::
 31492::$$$message_0252_0058_0004$$$::Mas ela é só uma garota da idade dela por dentro.::
 31493::$$$message_0252_0059_0000$$$::"[line3]Tá tudo bem, Tohsaka. Todo mundo ainda tá respirando. Ainda não acabou."[lr]::
 31494::$$$message_0252_0059_0001$$$::"Huh...? Todo mundo tá respirando...?"::
-31495::$$$message_0252_0060_0000$$$::"Sim. Pode ser difícil, mas dá uma boa olhada. Todo mundo tá vivo. O campo de separação sumiu, então tudo que a gente tem que fazer agora é chamar ajuda.[lr]::
+31495::$$$message_0252_0060_0000$$$::"Sim. Pode ser difícil, mas dá uma boa olhada. Todo mundo tá vivo. O Campo Limitado sumiu, então tudo que a gente tem que fazer agora é chamar ajuda.[lr]::
 31496::$$$message_0252_0060_0001$$$::[line3]Então. A gente devia chamar uma ambulância ou outra coisa em um caso assim? A gente devia contatar a igreja se as feridas são causadas por taumaturgia?"::
 31497::$$$message_0252_0061_0000$$$::Eu pergunto pra ela numa voz calma.[lr]::
 31498::$$$message_0252_0061_0001$$$::Isso deve ter trazido de volta pra ela sua razão, já que ela tapeia a própria cara com as duas mãos.::

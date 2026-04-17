@@ -1,75 +1,75 @@
 DAT
 id=qid::label=str::text=lstr::
 6992::$$$message_0065_0000_0000$$$::"[line2]!"[lr]::
-6993::$$$message_0065_0000_0001$$$::Eu recuo na mesma hora.[lr]::
-6994::$$$message_0065_0000_0002$$$::Eu estou em desvantagem. Esse não é momento certo para atacar.[lr]::
-6995::$$$message_0065_0000_0003$$$::Se eu quiser fazer com que Shinji desative o Campo de Concentração, vou ter que me reagrupar com a Saber e a Rin[line2]::
+6993::$$$message_0065_0000_0001$$$::Eu recuo por instinto.[lr]::
+6994::$$$message_0065_0000_0002$$$::Agora é péssimo.[lr]::
+6995::$$$message_0065_0000_0003$$$::Primeiro preciso me recompor. Depois, fazer Shinji desfazer o Campo Limitado[line2]::
 6996::$$$message_0065_0001_0000$$$::"Gah...!?"[lr]::
-6997::$$$message_0065_0001_0001$$$::Eu começo a correr feito um desesperado, sem entender o que está acontecendo.::
+6997::$$$message_0065_0001_0001$$$::Sem nem entender o que aconteceu, eu só recuo em desespero.::
 6998::$$$message_0065_0002_0000$$$::"Ha, ah, ah...!"[lr]::
-6999::$$$message_0065_0002_0001$$$::Eu estou com tanto medo que a minha visão ficou branca.[lr]::
-7000::$$$message_0065_0002_0002$$$::Para falar a verdade, eu nem tenho certeza do que estou com medo.[lr]::
-7001::$$$message_0065_0002_0003$$$::Mas mesmo sem entender o que está acontecendo, eu levanto a minha mão e protejo o meu pescoço.::
+6999::$$$message_0065_0002_0001$$$::O medo tinge de branco tudo à minha frente.[lr]::
+7000::$$$message_0065_0002_0002$$$::Pra falar a verdaade, nem sei do que estou com tanto medo.[lr]::
+7001::$$$message_0065_0002_0003$$$::Ainda assim, sem pensar, ergo o braço e protejo ao menos o pescoço.::
 7002::$$$message_0065_0003_0000$$$::"Zu...!"[lr]::
-7003::$$$message_0065_0003_0001$$$::Um objeto afiado é arremessado no meu braço.[lr]::
-7004::$$$message_0065_0003_0002$$$::O barulho dos meus ossos sendo arranhados me diz que eu vou morrer no próximo ataque dela.::
+7003::$$$message_0065_0003_0001$$$::Uma lâmina crava no meu braço.[lr]::
+7004::$$$message_0065_0003_0002$$$::O som surdo de osso sendo raspado me diz que o próximo golpe vai me matar.::
 7005::$$$message_0065_0004_0000$$$::"Hah, kuh[line2]!"[lr]::
 7006::$$$message_0065_0004_0001$$$::Eu saio correndo.[lr]::
-7007::$$$message_0065_0004_0002$$$::Eu nem tenho tempo para olhar para trás.[lr]::
-7008::$$$message_0065_0004_0003$$$::Só fico preocupado em proteger os meus órgãos vitais e sair daqui em desespero.::
+7007::$$$message_0065_0004_0002$$$::Nem tenho margem para olhar para trás.[lr]::
+7008::$$$message_0065_0004_0003$$$::Só me preocupo em cobrir os pontos vitais e continuar recuando em desespero.::
 7009::$$$message_0065_0005_0000$$$::"Hih[line2]gih...!!!!!"[lr]::
 7010::$$$message_0065_0005_0001$$$::O barulho da minha carne sendo cortada se espalha por todo o corredor.[lr]::
 7011::$$$message_0065_0005_0002$$$::O objeto afiado está fatiando o meu corpo em pedaços.[lr]::
-7012::$$$message_0065_0005_0003$$$::Há tanto sangue escorrendo de mim que ele está tapando a minha visão e fazendo com que eu não consiga enxergar direito.[lr]::
-7013::$$$message_0065_0005_0004$$$::Por trás de todo essa sangue...[lr]::
+7012::$$$message_0065_0005_0003$$$::A névoa de sangue que jorra de mim fecha a minha visão.[lr]::
+7013::$$$message_0065_0005_0004$$$::E, em meio a isso.[lr]::
 7014::$$$message_0065_0005_0005$$$::...Está a Rider, me perseguindo numa velocidade impossível de acompanhar com os olhos.::
 7015::$$$message_0065_0006_0000$$$::"Gih...!"[lr]::
 7016::$$$message_0065_0006_0001$$$::Toda vez que recebo um corte, eu solto um grito de dor que nem parece ter saído da minha boca.[lr]::
 7017::$$$message_0065_0006_0002$$$::Mas mesmo assim, eu continuo fugindo em desespero, salvando a minha própria vida em vários desses ataques mortais.::
 7018::$$$message_0065_0007_0000$$$::"Ha[line2]Hah, hah, ah[line3]!"[lr]::
-7019::$$$message_0065_0007_0001$$$::Eu nem sei mais o que estou fazendo.[lr]::
-7020::$$$message_0065_0007_0002$$$::Só sei que estou usando o meu braço para bloquear a adaga da Rider.[lr]::
+7019::$$$message_0065_0007_0001$$$::Já nem sei mais o que estou fazendo.[lr]::
+7020::$$$message_0065_0007_0002$$$::Só sei que estou recebendo a adaga de Rider com o braço.[lr]::
 7021::$$$message_0065_0007_0003$$$::Com isso, as minhas roupas e a minha carne ficaram completamente rasgadas.[lr]::
-7022::$$$message_0065_0007_0004$$$::Mas pelo menos eu estou conseguindo me proteger dos ataques, fazendo com que a adaga não acerte o meu pescoço, a minha testa ou o meu coração.::
-7023::$$$message_0065_0008_0000$$$::Eu não estou fazendo isso por vontade própria.[lr]::
-7024::$$$message_0065_0008_0001$$$::O meu corpo está reagindo sozinho aos ataques da Rider por puro medo de morrer.::
+7022::$$$message_0065_0007_0004$$$::Ainda assim, isso serve de escudo. Eu desvio desesperadamente os golpes que vêm para o pescoço, a testa e o coração.::
+7023::$$$message_0065_0008_0000$$$::Não existe vontade minha nisso.[lr]::
+7024::$$$message_0065_0008_0001$$$::Meu corpo reage sozinho aos ataques da Rider, movido apenas pelo desespero de não querer morrer.::
 7025::$$$message_0065_0009_0000$$$::"Ah[line2]Ah, ha[line2]"[lr]::
-7026::$$$message_0065_0009_0001$$$::Eu já perdi todo o meu fôlego.[lr]::
-7027::$$$message_0065_0009_0002$$$::Só não parei de correr ainda porque eu sei que posso morrer a qualquer momento.[lr]::
-7028::$$$message_0065_0009_0003$$$::Mas se continuar assim, eu vou acabar ficando sem forças, a Rider vai me alcançar, e então vou ser morto por ela.::
+7026::$$$message_0065_0009_0001$$$::Já estou sem fôlego há muito tempo.[lr]::
+7027::$$$message_0065_0009_0002$$$::O que me faz continuar correndo é só a morte, sempre colada em mim.[lr]::
+7028::$$$message_0065_0009_0003$$$::Mais cedo ou mais tarde minhas forças vão acabar, Rider vai me alcançar, e aí eu morro.::
 7029::$$$message_0065_0010_0000$$$::"Guh[line2]ah[line2]!"[lr]::
-7030::$$$message_0065_0010_0001$$$::Bem a Saber tinha me avisado.[lr]::
-7031::$$$message_0065_0010_0002$$$::Ela me disse para nunca enfrentar um Servo, pois eu não teria a menor chance de derrotá-lo.[lr]::
-7032::$$$message_0065_0010_0003$$$::Mesmo que eu esteja seguindo o aviso dela, por que será[line2]Não espera, o que eu estou fazendo? Se eu tenho que capturar o Shinji logo e obrigá-lo a desativar o Campo de Separação, por que eu estou fugindo[line2]!?::
+7030::$$$message_0065_0010_0001$$$::Por isso ela tinha me avisado.[lr]::
+7031::$$$message_0065_0010_0002$$$::Para não enfrentar um Servo. Que, no meu caso, nem combate seria.[lr]::
+7032::$$$message_0065_0010_0003$$$::Eu ouvi isso, e mesmo assim cheguei a esse ponto. Mas por quê[line2]Não, espera, o que eu estou fazendo? Eu preciso pegar Shinji o quanto antes e obrigá-lo a desfazer esse maldito Campo Limitado... então por que é que eu estou fugindo[line2]!?::
 7033::$$$message_0065_0011_0000$$$::"O que está fazendo, Rider?[lr]::
 7034::$$$message_0065_0011_0001$$$::Já chega. Pare de brincar e mate esse cara logo. Ele não vai conseguir fazer nada mesmo."[lr]::
 7035::$$$message_0065_0011_0002$$$::O Shinji diz isso cheio de confiança.[lr]::
 7036::$$$message_0065_0011_0003$$$::A Rider acena com a cabeça e balança a sua adaga, fazendo um ataque em formato de meia-lua.::
-7037::$$$message_0065_0012_0000$$$::[line2]Esse ataque está vindo diretamente para a minha testa.[lr]::
-7038::$$$message_0065_0012_0001$$$::Eu não tenho como desviar a tempo.[lr]::
-7039::$$$message_0065_0012_0002$$$::Tudo o que posso fazer é impedir que ele acerte algum dos meus órgãos vitais.::
+7037::$$$message_0065_0012_0000$$$::[line2]Um golpe certeiro, mirando no alto da minha cabeça.[lr]::
+7038::$$$message_0065_0012_0001$$$::Não tem como desviar.[lr]::
+7039::$$$message_0065_0012_0002$$$::Tudo o que eu posso fazer é, no máximo, tirar o golpe de um ponto vital.::
 7040::$$$message_0065_0013_0000$$$::"...!"[lr]::
-7041::$$$message_0065_0013_0001$$$::A adaga atinge o meu ombro, logo abaixo da região da minha clavícula.[lr]::
-7042::$$$message_0065_0013_0002$$$::Eu ouço um barulho alto de metal, seguido do som da Rider mordendo a própria língua.[lr]::
+7041::$$$message_0065_0013_0001$$$::A adaga perfura meu ombro, logo abaixo da clavícula.[lr]::
+7042::$$$message_0065_0013_0002$$$::Ouço um tinido metálico agudo, seguido de um estalar de língua da Rider.[lr]::
 7043::$$$message_0065_0013_0003$$$::"Hã...?"[lr]::
-7044::$$$message_0065_0013_0004$$$::O que aconteceu...? A ponta da adaga da Rider está ficando quebrada[line2]::
-7045::$$$message_0065_0014_0000$$$::"Impressionante. Eu não consigo matá-lo com a minha adaga."[lr]::
+7044::$$$message_0065_0013_0004$$$::O que...? A ponta da adaga da Rider está se desfazendo, lascando toda[line2]::
+7045::$$$message_0065_0014_0000$$$::"Impressionante. Não consigo matá-lo com a minha lâmina."[lr]::
 7046::$$$message_0065_0014_0001$$$::A Rider para de correr.[lr]::
-7047::$$$message_0065_0014_0002$$$::Assim que eu penso que posso me aproveitar disso para passar direto por ela...[lr]::
+7047::$$$message_0065_0014_0002$$$::E, no instante em que penso em como aproveitar aquela única abertura...[lr]::
 7048::$$$message_0065_0014_0003$$$::"[line2]Nesse caso, morra caindo lá embaixo."[lr]::
-7049::$$$message_0065_0014_0004$$$::Eu sinto um impacto tão forte que é como se tivesse sido atingido por uma marreta, e em seguida, sou jogado pela janela.::
+7049::$$$message_0065_0014_0004$$$::Sinto um impacto como o de uma marretada e sou arremessado pela janela.::
 7050::$$$message_0065_0015_0000$$$::"Gah[line2]"[lr]::
-7051::$$$message_0065_0015_0001$$$::Eu só levei um chute giratório na barriga.[lr]::
-7052::$$$message_0065_0015_0002$$$::Mas esse chute foi tão forte que arremessou o meu corpo para fora do colégio.[lr]::
-7053::$$$message_0065_0015_0003$$$::Eu estava no terceiro andar.[lr]::
-7054::$$$message_0065_0015_0004$$$::Eu já morreria por perda de sangue se não fizesse nada, mas cair do terceiro andar deve me matar na mesma hora.::
-7055::$$$message_0065_0016_0000$$$::Aliás, já era para eu ter morrido quando recebi o golpe que me fez voar vários metros para trás.[lr]::
+7051::$$$message_0065_0015_0001$$$::Foi só um chute giratório no estômago.[lr]::
+7052::$$$message_0065_0015_0002$$$::Mas bastou para lançar meu corpo para fora do prédio, atravessando a janela.[lr]::
+7053::$$$message_0065_0015_0003$$$::Terceiro andar.[lr]::
+7054::$$$message_0065_0015_0004$$$::Mesmo que me deixassem ali, eu já morreria de perda de sangue. Caindo dessa altura, então, é o golpe final.::
+7055::$$$message_0065_0016_0000$$$::Aliás, qualquer humano comum já teria morrido ao receber um golpe forte o bastante para ser lançado vários metros para trás.[lr]::
 7056::$$$message_0065_0016_0001$$$::"[line2]Ah."[lr]::
-7057::$$$message_0065_0016_0002$$$::Eu estico o meu braço.[lr]::
-7058::$$$message_0065_0016_0003$$$::Talvez eu ainda não esteja caindo, ou talvez isso só seja uma ilusão.[lr]::
+7057::$$$message_0065_0016_0002$$$::Estendo o braço.[lr]::
+7058::$$$message_0065_0016_0003$$$::Será que eu ainda nem comecei a cair, ou isso é só uma ilusão de quem está prestes a morrer?[lr]::
 7059::$$$message_0065_0016_0004$$$::O meu corpo ainda está flutuando no ar.::
 7060::$$$message_0065_0017_0000$$$::"Ahh[line2]Por quê?"[lr]::
-7061::$$$message_0065_0017_0001$$$::Eu estico o braço para tentar me agarrar em alguma coisa.[lr]::
+7061::$$$message_0065_0017_0001$$$::Estico o braço, tentando me agarrar a qualquer coisa.[lr]::
 7062::$$$message_0065_0017_0002$$$::O céu está vermelho.[lr]::
 7063::$$$message_0065_0017_0003$$$::O colégio está pulsando, como se ele fosse o estômago de um ser vivo.[lr]::
 7064::$$$message_0065_0017_0004$$$::[line2]Será que eu vou...[lr]::
@@ -79,19 +79,19 @@ id=qid::label=str::text=lstr::
 7068::$$$message_0065_0018_0002$$$::Tão idiota assim?[lr]::
 7069::$$$message_0065_0018_0003$$$::Tão idiota assim[line2]Será que eu vou morrer de um jeito egoísta, sem conseguir salvar [r]ninguém[line2]!?::
 7070::$$$message_0065_0019_0000$$$::"Por quê[line2]"[lr]::
-7071::$$$message_0065_0019_0001$$$::Eu ranjo os dentes em vão.[lr]::
-7072::$$$message_0065_0019_0002$$$::Eu não tenho como vencê-la. Eu não tinha a menor chance. Eu sabia disso, mas mesmo assim cometi o erro de tentar enfrentá-la.::
-7073::$$$message_0065_0020_0000$$$::Eu nem ligo mais para a dor que estou sentindo no meu corpo.[lr]::
-7074::$$$message_0065_0020_0001$$$::A minha raiva está me deixando louco.[lr]::
+7071::$$$message_0065_0019_0001$$$::Eu ranjo os dentes de frustração.[lr]::
+7072::$$$message_0065_0019_0002$$$::Eu não posso vencê-la. Nem luta isso chega a ser. Eu sabia disso, e ainda assim errei.::
+7073::$$$message_0065_0020_0000$$$::Já nem sinto mais a dor do meu corpo.[lr]::
+7074::$$$message_0065_0020_0001$$$::Só a raiva, como se fosse me despedaçar por dentro.[lr]::
 7075::$$$message_0065_0020_0002$$$::[line2]Isso é o que eu ganho por...[lr]::
-7076::$$$message_0065_0020_0003$$$::...Achar que eu consigo fazer tudo sozinho, e dizer para a Saber que não vou mais deixá-la lutar.::
+7076::$$$message_0065_0020_0003$$$::...achar que podia dar conta sozinho, e dizer à Saber que não a deixaria mais lutar.::
 7077::$$$message_0065_0021_0000$$$::"[line2]"[lr]::
-7078::$$$message_0065_0021_0001$$$::Como eu fui idiota.[lr]::
-7079::$$$message_0065_0021_0002$$$::Eu não consigo salvar ninguém lutando sozinho.[lr]::
-7080::$$$message_0065_0021_0003$$$::Se eu quisesse mesmo colocar um fim nessa guerra, eu deveria ter feito uma coisa desde o começo.::
+7078::$$$message_0065_0021_0001$$$::Eu fui um idiota.[lr]::
+7079::$$$message_0065_0021_0002$$$::Sozinho, eu não consigo salvar ninguém.[lr]::
+7080::$$$message_0065_0021_0003$$$::Se eu queria mesmo pôr fim a essa guerra, havia uma coisa que eu devia ter feito desde o começo.::
 7081::$$$message_0065_0022_0000$$$::É como aquele cara me falou.[lr]::
-7082::$$$message_0065_0022_0001$$$::Se eu continuar não lutando contra ninguém, não matando ninguém, e nem deixando que alguém mate outra pessoa...[lr]::
-7083::$$$message_0065_0022_0002$$$::No momento em que perceber que estava errado, eu terei que separar as coisas que vou corrigir das coisas que vou punir.::
-7084::$$$message_0065_0023_0000$$$::E assim.[lr]::
-7085::$$$message_0065_0023_0001$$$::Eu olho para o meu braço esticado, que está tentando se agarrar nas nuvens do céu, e vejo que há um Selo de Comando esperando pela minha ordem[line2][lr]::
-�
+7082::$$$message_0065_0022_0001$$$::Se eu ia mesmo seguir sem lutar com ninguém, sem matar ninguém, sem deixar ninguém matar...[lr]::
+7083::$$$message_0065_0022_0002$$$::...então, no momento em que percebesse meu erro, eu teria de decidir primeiro o que corrigir, e depois quem punir.::
+7084::$$$message_0065_0023_0000$$$::E então.[lr]::
+7085::$$$message_0065_0023_0001$$$::No meu braço estendido[line2]como se tentasse agarrar o céu[line2]ainda há um Selo de Comando, à espera da ordem que precisa ser dada[line2][lr]::
+

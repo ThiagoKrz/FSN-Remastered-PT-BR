@@ -291,7 +291,7 @@ id=qid::label=str::text=lstr::
 55021::$$$message_0486_0108_0005$$$::...Ela libera o selo negro.::
 55022::$$$message_0486_0109_0000$$$::[w l=4][line4]Nesse instante, tudo se solidifica.::
 55023::$$$message_0486_0109_0001$$$::Os olhos da Rider.[lr]::
-55024::$$$message_0486_0109_0002$$$::Eles não são olhos humanos, são do nível mais alto entre os inúmeros olhos místicos.::
+55024::$$$message_0486_0109_0002$$$::Eles não são olhos humanos, são do nível mais alto entre os inúmeros Olhos Místicos.::
 55025::$$$message_0486_0109_0003$$$::"[w l=8][line8]"[lr]::
 55026::$$$message_0486_0109_0004$$$::Olhos cinzas.[lr]::
 55027::$$$message_0486_0109_0005$$$::Eles parecem cristais, e são anormais demais para serem considerados globos oculares.::
@@ -306,23 +306,23 @@ id=qid::label=str::text=lstr::
 55036::$$$message_0486_0109_0014$$$::...Deve ser porque ele viu os olhos dela a pouca distância.[lr]::
 55037::$$$message_0486_0109_0015$$$::Os seus olhos estão congelados mesmo que ele queira fechá-los, e os seus braços estão congelados que ele tente cobrir os seus olhos.[lr]::
 55038::$$$message_0486_0109_0016$$$::Ele tenta avançar e atacar a Rider, mas as suas pernas já estão petrificadas até os joelhos.::
-55039::$$$message_0486_0110_0000$$$::"Não acredito, olhos místicos da petrificação...!?"[lr]::
+55039::$$$message_0486_0110_0000$$$::"Não acredito, Olhos Místicos da petrificação...!?"[lr]::
 55040::$$$message_0486_0110_0001$$$::A voz da Tohsaka é quase um grito.[lr]::
 55041::$$$message_0486_0110_0002$$$::...Eu não sei que tipo de expressão ela está fazendo.[lr]::
-55042::$$$message_0486_0110_0003$$$::Os meus olhos também estão cativados pelos olhos místicos da Rider, e eu não consigo desviar o meu olhar.[lr]::
+55042::$$$message_0486_0110_0003$$$::Os meus olhos também estão cativados pelos Olhos Místicos da Rider, e eu não consigo desviar o meu olhar.[lr]::
 55043::$$$message_0486_0110_0004$$$::O meu sangue está endurecendo.[lr]::
 55044::$$$message_0486_0110_0005$$$::O fluxo ficou solidificado, e os meus sentidos pararam de funcionar.::
-55045::$$$message_0486_0111_0000$$$::[w l=4][line4]Olhos místicos.[lr]::
+55045::$$$message_0486_0111_0000$$$::[w l=4][line4]Olhos Místicos.[lr]::
 55046::$$$message_0486_0111_0001$$$::Uma magia de ação única que magos têm.::
 55047::$$$message_0486_0112_0000$$$::Ela pega os olhos, receptores passivos do mundo, e os fazem funcionar ativamente para influenciar o mundo.[lr]::
 55048::$$$message_0486_0112_0001$$$::Ela lança a sua magia sobre qualquer um dentro da sua visão, porém o efeito é aumentado se o alvo te olhar nos olhos.[lr]::
 55049::$$$message_0486_0112_0002$$$::Ou seja, é algo que você não deve olhar, e é de uma natureza mágica assustadora que aprisiona qualquer um que olhar para eles.::
-55050::$$$message_0486_0113_0000$$$::As suas habilidades e natureza ocultável fazem os olhos místicos serem prova de um mago de primeira classe.[lr]::
-55051::$$$message_0486_0113_0001$$$::A técnica que faz os seus próprios olhos virarem um Circuito Mágico é semelhante à técnica usada para criar o Encravamento Mágico.::
-55052::$$$message_0486_0114_0000$$$::Porém, olhos místicos artificiais só têm poder suficiente para lançar Encantamentos e Sugestões.[lr]::
-55053::$$$message_0486_0114_0001$$$::Os donos de olhos místicos realmente poderosos são sempre alguém que já nasceu com eles.::
+55050::$$$message_0486_0113_0000$$$::As suas habilidades e natureza ocultável fazem os Olhos Místicos serem prova de um mago de primeira classe.[lr]::
+55051::$$$message_0486_0113_0001$$$::A técnica que faz os seus próprios olhos virarem um Circuito Mágico é semelhante à técnica usada para criar o Brasão Mágico.::
+55052::$$$message_0486_0114_0000$$$::Porém, Olhos Místicos artificiais só têm poder suficiente para lançar Encantamentos e Sugestões.[lr]::
+55053::$$$message_0486_0114_0001$$$::Os donos de Olhos Místicos realmente poderosos são sempre alguém que já nasceu com eles.::
 55054::$$$message_0486_0115_0000$$$::Restrição. Coerção. Contrato. Combustão. Ilusão. Infortúnio.[lr]::
-55055::$$$message_0486_0115_0001$$$::Os olhos místicos que interferem diretamente no destino de outra pessoa são conhecidos como "Cores Nobres", e entre os níveis mais altos estão os olhos da petrificação.::
+55055::$$$message_0486_0115_0001$$$::Os Olhos Místicos que interferem diretamente no destino de outra pessoa são conhecidos como "Cores Nobres", e entre os níveis mais altos estão os olhos da petrificação.::
 55056::$$$message_0486_0116_0000$$$::Nenhum mago dessa era possui esses olhos.[lr]::
 55057::$$$message_0486_0116_0001$$$::Existem poucos magos que fazem magia de petrificação ser possível.[lr]::
 55058::$$$message_0486_0116_0002$$$::O quão grande deve ser o milagre de petrificar outras pessoas apenas ao olhar?::
@@ -333,7 +333,7 @@ id=qid::label=str::text=lstr::
 55063::$$$message_0486_0118_0000$$$::"[w l=3][line3]Rin, fuja! O verdadeiro ataque está por vir...!"[lr]::
 55064::$$$message_0486_0118_0001$$$::O Archer grita, com o seu corpo agora petrificado até a sua cintura.[lr]::
 55065::$$$message_0486_0118_0002$$$::...Diante dele...[lr]::
-55066::$$$message_0486_0118_0003$$$::Uma onda vermelha escura está se expandindo da Rider, que liberou os seus olhos místicos.::
+55066::$$$message_0486_0118_0003$$$::Uma onda vermelha escura está se expandindo da Rider, que liberou os seus Olhos Místicos.::
 55067::$$$message_0486_0119_0000$$$::"Espera... mesmo que você diga isso...!"[lr]::
 55068::$$$message_0486_0119_0001$$$::A Tohsaka está se mexendo devagar demais.[lr]::
 55069::$$$message_0486_0119_0002$$$::Há algo terrível vindo do outro lado do corredor.[lr]::

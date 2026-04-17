@@ -1,93 +1,93 @@
 DAT
 id=qid::label=str::text=lstr::
-9737::$$$message_0098_0000_0000$$$::"Então, sobre um dos outros..."[l][r]::
-9738::$$$message_0098_0000_0001$$$::"Espera, Shirou. Alguém entrou pelo portão daqui."::
-9739::$$$message_0098_0001_0000$$$::"Eh, você consegue sentir tais coisas...?[l][r]::
-9740::$$$message_0098_0001_0001$$$:: Que, já é hora!? Droga, a Sakura deve ter voltado!"[l][r]::
-9741::$$$message_0098_0002_0000$$$::Ouço o som da campainha da entrada,[l][r]::
-9742::$$$message_0098_0002_0001$$$::"Licença."[l][r]::
+9737::$$$message_0098_0000_0000$$$::"Então, sobre os outros..."[l][r]::
+9738::$$$message_0098_0000_0001$$$::"Espere, Shirou. Alguém acabou de passar pelo portão da propriedade."::
+9739::$$$message_0098_0001_0000$$$::"Eh, dá pra perceber uma coisa dessas...?[l][r]::
+9740::$$$message_0098_0001_0001$$$::Que, já é essa hora!? Droga, a Sakura deve ter voltado!"::
+9741::$$$message_0098_0002_0000$$$::O som da campainha toca e, vindo da entrada,[l][r]::
+9742::$$$message_0098_0002_0001$$$::"Com licença."[l][r]::
 9743::$$$message_0098_0002_0002$$$::Ouço a voz da Sakura.::
 9744::$$$message_0098_0003_0000$$$::"Saber, me desculpa, mas..."[l][r]::
-9745::$$$message_0098_0003_0001$$$::"Eu sei. Vou voltar pro quarto, então por favor não se preocupe comigo."[l][r]::
-9746::$$$message_0098_0003_0002$$$::A Saber vai pro quarto.::
-9747::$$$message_0098_0004_0000$$$::E em seu lugar...[l][r]::
-9748::$$$message_0098_0004_0001$$$::"Cheguei! Ora, ora... parabéns, você chegou cedo como eu te pedi."[l][r]::
-9749::$$$message_0098_0004_0002$$$::Tohsaka está segurando uma sacola e....[l][r]::
-9750::$$$message_0098_0004_0003$$$::"Com licença, Senpai. É raro você chegar em casa tão cedo."[l][r]::
-9751::$$$message_0098_0004_0004$$$::A Sakura entra, sorrindo alegremente.::
-9752::$$$message_0098_0005_0000$$$::"Tudo bem, os preparos estão perfeitos. Então vamos começar!"[l][r]::
-9753::$$$message_0098_0005_0001$$$::A Tohsaka exclama e entra na cozinha.[l][r]::
-9754::$$$message_0098_0005_0002$$$::"Senpai...? Hum, sobre o preparo da janta..."::
-9755::$$$message_0098_0006_0000$$$::"Ah, hoje é a vez da Tohsaka, então não precisa se preocupar com isso. Você já fez o café da manhã, então deixe a janta com a gente. Cuidaremos de tudo enquanto ela estiver por aqui."[l][r]::
-9756::$$$message_0098_0006_0001$$$::"Ah... s-sim. Se o senhor diz, eu aceito."[l][r]::
-9757::$$$message_0098_0006_0002$$$::A Sakura senta na almofada convenientemente.[l][r]::
-9758::$$$message_0098_0006_0003$$$::Tem um barulho agitado vindo da cozinha, mas a Tohsaka parece saber o que está fazendo lá atrás.::
-9759::$$$message_0098_0007_0000$$$::"...Acho que não tem problema confiar nela."[l][r]::
-9760::$$$message_0098_0007_0001$$$::Então não tem problema em eu não ficar aqui. Tenho que pensar na Saber, então devo voltar pro meu quarto até o jantar estar pronto.::
-9761::$$$message_0098_0008_0000$$$::"Vou descansar no meu quarto. Se a Fuji-nee aparecer, diga a ela pra preparar o banho sozinha de vez em quando."[l][r]::
-9762::$$$message_0098_0008_0001$$$::"Ah, sim. Por favor não tenha pressa, Senpai. Vou vir te buscar quando o jantar estiver pronto."::
-9763::$$$message_0098_0009_0000$$$::"Combinado. ...Ah, não esqueça de bater quando vier me chamar."[l][r]::
-9764::$$$message_0098_0009_0001$$$::São um pouco antes das seis. Pelo jeito que as coisas estão indo, parece que o jantar vai ser lá pelas sete.::
-9765::$$$message_0098_0010_0000$$$::Quando eu volto pro quarto, a Saber está dormindo no quarto ao lado do meu.::
-9766::$$$message_0098_0011_0000$$$::"Puxa, achei que poderia falar um pouco com ela."[l][r]::
-9767::$$$message_0098_0011_0001$$$::Eu estalo a língua de leve e sento na almofada.[l][r]::
-9768::$$$message_0098_0011_0002$$$::"...Ei, o que estou dizendo? Eu nem sei sobre o que conversar com ela além dessa coisa de Guerra do Santo Graal."::
-9769::$$$message_0098_0011_0003$$$::No fim das contas, eu ainda tenho dificuldade em falar com ela.::
-9770::$$$message_0098_0012_0000$$$::"Fazer o quê. Se ela está dormindo, é melhor não incomodar."[l][r]::
-9771::$$$message_0098_0012_0001$$$::Eu digo isso e fico apenas observando o relógio.[l][r]::
-9772::$$$message_0098_0012_0002$$$::A janta de ontem foi só eu, a Saber e a Tohsaka.[l][r]::
-9773::$$$message_0098_0012_0003$$$::Mas hoje, serão cinco pessoas, incluindo a Sakura e a Fuji-nee.::
-9774::$$$message_0098_0013_0000$$$::"...Ah, é verdade... a Saber não pode vir."[l][r]::
-9775::$$$message_0098_0013_0001$$$::Enquanto a Sakura e a Fuji-nee estiverem aqui, não posso deixar a Saber sair desse quarto.[l][r]::
-9776::$$$message_0098_0013_0002$$$::"...Me pergunto se a Saber tomou café da manhã."::
-9777::$$$message_0098_0013_0003$$$::Lembro que ela ficava balançando a cabeça em aprovação enquanto comia ontem.[l][r]::
-9778::$$$message_0098_0013_0004$$$::Julgando por isso, não é como se ela não precisasse comer.::
-9779::$$$message_0098_0014_0000$$$::"...Eu não preparei almoço para ela. É claro que ela vai estar com fome."[l][r]::
-9780::$$$message_0098_0014_0001$$$::Assim que as duas forem embora, vou ter que esquentar a janta e servir para ela.[l][r]::
-9781::$$$message_0098_0014_0002$$$::Ela vai precisar comer sozinha, mas não posso fazer nada quanto a isso.::
-9782::$$$message_0098_0015_0000$$$::"......"[l][r]::
-9783::$$$message_0098_0015_0001$$$::Hrm.[l][r]::
-9784::$$$message_0098_0015_0002$$$::Imaginar a Saber comendo isolada de todos realmente me deixa irritado.::
+9745::$$$message_0098_0003_0001$$$::"Eu sei. Vou voltar para o quarto, então por favor não se preocupe comigo."[l][r]::
+9746::$$$message_0098_0003_0002$$$::A Saber volta para o quarto.::
+9747::$$$message_0098_0004_0000$$$::E, como se estivesse trocando de lugar com ela...[l][r]::
+9748::$$$message_0098_0004_0001$$$::"Cheguei. Muito bem, muito bem... você voltou cedo como eu pedi."[l][r]::
+9749::$$$message_0098_0004_0002$$$::A Tohsaka entra carregando sacolas de compras e...[l][r]::
+9750::$$$message_0098_0004_0003$$$::"Com licença, Senpai. É raro você voltar tão cedo."[l][r]::
+9751::$$$message_0098_0004_0004$$$::A Sakura entra sorrindo, toda contente.::
+9752::$$$message_0098_0005_0000$$$::"Perfeito, está tudo pronto. Então vamos começar!"[l][r]::
+9753::$$$message_0098_0005_0001$$$::A Tohsaka se anima e vai para a cozinha.[l][r]::
+9754::$$$message_0098_0005_0002$$$::"Senpai...? Hum, sobre preparar o jantar...":: 
+9755::$$$message_0098_0006_0000$$$::"Ah, hoje é a vez da Tohsaka, então não precisa se preocupar com isso. Você já fez o café da manhã, então deixa o jantar com a gente. Enquanto a Tohsaka estiver aqui, nós dois vamos cuidar do jantar."[l][r]::
+9756::$$$message_0098_0006_0001$$$::"Ah... s-sim. Se você diz, então tudo bem."[l][r]::
+9757::$$$message_0098_0006_0002$$$::A Sakura se senta quietinha na almofada.[l][r]::
+9758::$$$message_0098_0006_0003$$$::Dá para ouvir um barulho agitado vindo da cozinha, mas pelo jeito a Tohsaka sabe muito bem o que está fazendo.::
+9759::$$$message_0098_0007_0000$$$::"...Acho que dá para deixar nas mãos dela."[l][r]::
+9760::$$$message_0098_0007_0001$$$::Também tem a questão da Saber, então vou voltar para o quarto até o jantar ficar pronto.::
+9761::$$$message_0098_0008_0000$$$::"Vou descansar no meu quarto. Se a Fuji-nee aparecer, diz para ela ir esquentar o banho de vez em quando."[l][r]::
+9762::$$$message_0098_0008_0001$$$::"Ah, sim. Descanse à vontade, Senpai. Vou chamá-lo quando o jantar estiver pronto.":: 
+9763::$$$message_0098_0009_0000$$$::"Tá. ...Ah, e não esquece de bater antes de entrar no meu quarto."[l][r]::
+9764::$$$message_0098_0009_0001$$$::Ainda não são seis horas. Nesse ritmo, o jantar deve ficar pronto lá pelas sete.::
+9765::$$$message_0098_0010_0000$$$::Quando volto para o quarto, a Saber já está dormindo no cômodo ao lado.::
+9766::$$$message_0098_0011_0000$$$::"Poxa. Eu estava pensando em conversar um pouco com ela."[l][r]::
+9767::$$$message_0098_0011_0001$$$::Estalo a língua e me sento na almofada.[l][r]::
+9768::$$$message_0098_0011_0002$$$::"...Espera, do que eu estou falando? Eu nem sei sobre o que conversar com ela além da Guerra do Santo Graal."[lr]::
+9769::$$$message_0098_0011_0003$$$::Além do mais, eu não tinha certa dificuldade em lidar com a Saber?:: 
+9770::$$$message_0098_0012_0000$$$::"Bom, tanto faz. Se ela está dormindo, então tudo bem."[l][r]::
+9771::$$$message_0098_0012_0001$$$::Murmuro isso e fico apenas olhando para os ponteiros do relógio.[l][r]::
+9772::$$$message_0098_0012_0002$$$::Ontem, o jantar foi só eu, a Saber e a Tohsaka.[l][r]::
+9773::$$$message_0098_0012_0003$$$::Mas hoje, com a Sakura e a Fuji-nee, somos cinco pessoas.::
+9774::$$$message_0098_0013_0000$$$::"Ah, não... a Saber não pode."[l][r]::
+9775::$$$message_0098_0013_0001$$$::Enquanto a Fuji-nee e a Sakura estiverem aqui, eu não posso deixar a Saber sair do quarto.[l][r]::
+9776::$$$message_0098_0013_0002$$$::"...Será que a Saber tomou café da manhã?"[lr]::
+9777::$$$message_0098_0013_0003$$$::Ontem à noite, a Saber ficava assentindo enquanto comia o jantar.[l][r]::
+9778::$$$message_0098_0013_0004$$$::Pelo jeito, não é como se ela não precisasse comer.::
+9779::$$$message_0098_0014_0000$$$::"...Eu não preparei almoço para ela. Claro que deve estar com fome."[l][r]::
+9780::$$$message_0098_0014_0001$$$::Depois que a Fuji-nee e a Sakura forem embora, vou ter que esquentar o jantar e servir a Saber.[l][r]::
+9781::$$$message_0098_0014_0002$$$::Ela vai acabar tendo que comer sozinha, mas fazer o quê.::
+9782::$$$message_0098_0015_0000$$$::"..."[l][r]::
+9783::$$$message_0098_0015_0001$$$::Sei lá.[l][r]::
+9784::$$$message_0098_0015_0002$$$::Só de imaginar a Saber comendo sozinha, eu fico irritado.::
 9785::$$$message_0098_0016_0000$$$::"Shirou, está acordado?"[l][r]::
-9786::$$$message_0098_0016_0001$$$::A Tohsaka bate na porta e olha para dentro.::
-9787::$$$message_0098_0017_0000$$$::"Tohsaka? Que foi?"[l][r]::
-9788::$$$message_0098_0017_0001$$$::"É hora da janta. Está pronta, então vem logo."[l][r]::
-9789::$$$message_0098_0017_0002$$$::[line3]Já é hora, hein?[l][r]::
-9790::$$$message_0098_0017_0003$$$::Eu me levanto e saio, dando uma última olhada para o quarto onde a Saber está dormindo.::
-9791::$$$message_0098_0018_0000$$$::"Ah, aqui está você! Ei, olha essas coisas! Finalmente, com a Tohsaka-san aqui, temos alguém que sabe cozinhar comida chinesa de verdade!"[l][r]::
-9792::$$$message_0098_0018_0001$$$::A Fuji-nee está saltitando de alegria olhando para toda a comida na mesa.[l][r]::
-9793::$$$message_0098_0018_0002$$$::Agora que ela mencionou isso, o cardápio é totalmente chinês.::
-9794::$$$message_0098_0019_0000$$$::Nos quatro pratos grandes temos siri com ovos, carne desfiada com pimenta, um refogado elegante com vegetais e um prato cheio de bolinhos de carne ao vapor.::
-9795::$$$message_0098_0020_0000$$$::Tem saladas para acompanhar e outros pratos prontos.[l][r]::
-9796::$$$message_0098_0020_0001$$$::Resumindo, é o tipo de banquete delicioso que a Fuji-nee ama.::
-9797::$$$message_0098_0021_0000$$$::"...Estou surpreso. Eu esperava pratos de estilo ocidental."[l][r]::
-9798::$$$message_0098_0021_0001$$$::"Ah, ela estava pensando em algo ocidental, mas quando eu disse que ninguém nesta casa fazia comida chinesa, ela se ofereceu na hora."::
-9799::$$$message_0098_0022_0000$$$::"[line3]Por que ela tem que viver a vida procurando o que falta? ...Espera, Sakura, você veio para casa com a Tohsaka, então vocês foram às compras juntas?"[l][r]::
-9800::$$$message_0098_0022_0001$$$::"Sim. A Tohsaka-senpai estava me esperando quando o clube de arco e flecha acabou, então passamos no mercado no caminho de volta."::
-9801::$$$message_0098_0023_0000$$$::"...Entendo. Puxa, vocês duas são mais próximas do que eu pensava."[l][r]::
-9802::$$$message_0098_0023_0001$$$::"Sim, a gente conversa bastante na escola. Não sei por que ela gosta de mim, mas ela tem sido muito gentil comigo desde que entrei para o colégio."::
-9803::$$$message_0098_0023_0002$$$::Uau.[l][r]::
-9804::$$$message_0098_0023_0003$$$::Ela realmente faz o papel de uma boa veterana na escola.::
-9805::$$$message_0098_0024_0000$$$::"Vamos parar de papo e comer. Já estou morrendo de fome."[l][r]::
+9786::$$$message_0098_0016_0001$$$::A Tohsaka bate na porta e põe a cabeça para dentro.::
+9787::$$$message_0098_0017_0000$$$::"Tohsaka? O que foi?"[l][r]::
+9788::$$$message_0098_0017_0001$$$::"Nada demais, é o jantar. Já está pronto, então vem."[l][r]::
+9789::$$$message_0098_0017_0002$$$::[line3]Já passou tudo isso de tempo?[l][r]::
+9790::$$$message_0098_0017_0003$$$::Levanto com esforço, lanço um olhar para o quarto onde a Saber está dormindo e saio para o corredor.::
+9791::$$$message_0098_0018_0000$$$::"Ah, aí está você. Olha só essa comida! Quem diria? A Tohsaka-san sabia mesmo fazer comida chinesa — justo o tipo de culinária que andava em falta por aqui!"[l][r]::
+9792::$$$message_0098_0018_0001$$$::A Fuji-nee está toda animada diante da mesa cheia de pratos.[l][r]::
+9793::$$$message_0098_0018_0002$$$::Agora que ela falou, é verdade: o jantar de hoje é todo no estilo chinês.::
+9794::$$$message_0098_0019_0000$$$::Nos quatro pratos grandes há omelete com carne de caranguejo, carne com pimentão, um refogado elegante de carne com legumes que eu nunca tinha visto antes e, por algum motivo, um prato inteiro lotado de shumais.::
+9795::$$$message_0098_0020_0000$$$::Também há salada e outros acompanhamentos em pratinhos menores.[l][r]::
+9796::$$$message_0098_0020_0001$$$::Resumindo: é um jantar luxuoso, bem do gosto da Fuji-nee.::
+9797::$$$message_0098_0021_0000$$$::"...Estou surpreso. Achei que a Tohsaka fosse fazer algo ocidental."[l][r]::
+9798::$$$message_0098_0021_0001$$$::"Ah, na verdade ela pensou nisso mesmo. Mas quando eu disse que aqui ninguém fazia comida chinesa, ela falou que então faria ela mesma.":: 
+9799::$$$message_0098_0022_0000$$$::"[line3]Por que ela sempre tem que viver desse jeito, achando a brecha que ninguém viu? ...Hm? Sakura, você voltou junto com a Tohsaka. Vocês foram fazer compras juntas?"[l][r]::
+9800::$$$message_0098_0022_0001$$$::"Sim. A Tohsaka-senpai me esperou até o fim do treino do clube de arco, então fomos comprar as coisas na volta.":: 
+9801::$$$message_0098_0023_0000$$$::"...Entendi. Nossa, vocês duas se dão melhor do que eu pensava."[l][r]::
+9802::$$$message_0098_0023_0001$$$::"Sim. Nós já conversávamos bastante na escola. Não sei por que ela foi com a minha cara, mas desde que entrei no colégio ela sempre foi muito gentil comigo.":: 
+9803::$$$message_0098_0023_0002$$$::Olha só.[l][r]::
+9804::$$$message_0098_0023_0003$$$::Então na escola ela realmente é uma veterana gentil.::
+9805::$$$message_0098_0024_0000$$$::"Chega de conversa, vamos comer logo. Eu já estou morrendo de fome."[l][r]::
 9806::$$$message_0098_0024_0001$$$::A Fuji-nee se senta toda feliz.[l][r]::
-9807::$$$message_0098_0024_0002$$$::"Como ela disse. Por que vocês dois não se sentam também? Comida chinesa perde a graça quando esfria."::
-9808::$$$message_0098_0024_0003$$$::Dizendo isso com seu jeito prático, a Tohsaka também se acomoda.::
+9807::$$$message_0098_0024_0002$$$::"Pois é. Vocês dois também deviam se sentar logo. Comida chinesa fica criminosamente ruim quando esfria."[lr]::
+9808::$$$message_0098_0024_0003$$$::Dizendo isso num tom seco, a Tohsaka também se senta à mesa.::
 9809::$$$message_0098_0025_0000$$$::"[line5]"[l][r]::
-9810::$$$message_0098_0025_0001$$$::Eu me sento em silêncio.[l][r]::
-9811::$$$message_0098_0025_0002$$$::Todos agradecem pela refeição e começam a comer.::
+9810::$$$message_0098_0025_0001$$$::Sento em silêncio.[l][r]::
+9811::$$$message_0098_0025_0002$$$::Todos fazem o itadakimasu e começam a comer.::
 9812::$$$message_0098_0026_0000$$$::"[line3]!"[l][r]::
-9813::$$$message_0098_0026_0001$$$::É irritante admitir, mas está uma delícia.[l][r]::
-9814::$$$message_0098_0026_0002$$$::Eu nunca fui de cozinhar comida chinesa porque achava que "tinha tudo o mesmo gosto", mas isso me prova que eu estava sendo apenas preconceituoso.::
-9815::$$$message_0098_0027_0000$$$::"Nossa, isso está fantástico! Faz tempo que eu não comia algo que deixasse o arroz tão saboroso. É, vou te dar nota dez nesse aqui!"[l][r]::
-9816::$$$message_0098_0027_0001$$$::"Obrigada. Fico feliz em receber uma resposta honesta de alguém como você."::
-9817::$$$message_0098_0028_0000$$$::"Sim. Eu mudei minha opinião sobre a culinária chinesa agora. Não sou muito fã de pratos apimentados, mas este aqui está muito bom!"[l][r]::
-9818::$$$message_0098_0028_0001$$$::A Sakura está saboreando cada pedaço também.::
-9819::$$$message_0098_0029_0000$$$::Depois de observar a satisfação de todos com um sorrisinho...[l][r]::
-9820::$$$message_0098_0029_0001$$$::"[line3]Fufu."::
-9821::$$$message_0098_0029_0002$$$::A Rin Tohsaka me lança um olhar de triunfo.::
-9822::$$$message_0098_0030_0000$$$::"Que foi? Parece que você quer dizer alguma coisa."[l][r]::
-9823::$$$message_0098_0030_0001$$$::"Na-da-zi-nha. Só estou feliz que todos estão gostando da comida. Bem, tem alguém aqui que não está sendo muito honesto, mas isso é divertido de um jeito diferente, então tudo bem. Eu entendo como é ruim perder para alguém em algo que você se orgulha de ser bom."::
-9824::$$$message_0098_0031_0000$$$::"Guh... entendi! Então você me fez cozinhar ontem à noite só para medir o meu nível!"[l][r]::
-9825::$$$message_0098_0031_0001$$$::"Fufufufufu. Exatamente. A lição de hoje é: sempre esconda o seu verdadeiro potencial."::
-9826::$$$message_0098_0031_0002$$$::Ela diz isso toda satisfeita e volta a comer.::
+9813::$$$message_0098_0026_0001$$$::...É irritante admitir, mas está delicioso.[l][r]::
+9814::$$$message_0098_0026_0002$$$::Eu evitava fazer comida chinesa porque achava que "tudo tinha o mesmo gosto", mas isso só me faz perceber o quanto esse preconceito era absurdo.::
+9815::$$$message_0098_0027_0000$$$::"Nossa, incrível! Faz tempo que eu não como algo que deixe o arroz tão gostoso assim. Muito bem, dou nota cem para você!"[l][r]::
+9816::$$$message_0098_0027_0001$$$::"Muito obrigada. Fico feliz quando alguém consegue elogiar com tanta sinceridade.":: 
+9817::$$$message_0098_0028_0000$$$::"Sim, eu também passei a ver comida chinesa com outros olhos! Eu não costumo gostar muito de comida apimentada, mas isso aqui está delicioso!"[l][r]::
+9818::$$$message_0098_0028_0001$$$::A Sakura também parece genuinamente encantada com a comida.::
+9819::$$$message_0098_0029_0000$$$::Depois de observar o sorriso satisfeito de todo mundo...[l][r]::
+9820::$$$message_0098_0029_0001$$$::"[line3]Fufu."[lr]::
+9821::$$$message_0098_0029_0002$$$::A Tohsaka Rin me lança um olhar todo triunfante.::
+9822::$$$message_0098_0030_0000$$$::"O que foi? Tá com cara de que quer dizer alguma coisa, Tohsaka."[l][r]::
+9823::$$$message_0098_0030_0001$$$::"Na-da. Só estou feliz por todo mundo ter gostado. Bom, tem uma pessoa aqui que não está sendo muito sincera, mas isso também tem a sua graça, então tudo bem. Eu entendo como deve ser triste perder justamente naquilo em que você se acha bom.":: 
+9824::$$$message_0098_0031_0000$$$::"Guh... entendi! Então você me fez cozinhar ontem só para analisar o meu nível!"[l][r]::
+9825::$$$message_0098_0031_0001$$$::"Fufufufufu. Isso mesmo. A lição de hoje é: nunca revele suas cartas nem o seu verdadeiro potencial.":: 
+9826::$$$message_0098_0031_0002$$$::Dizendo isso com um ar completamente satisfeito, a Tohsaka volta a atacar a própria comida.::
 

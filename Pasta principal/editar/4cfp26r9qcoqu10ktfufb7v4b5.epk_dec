@@ -121,7 +121,7 @@ id=qid::label=str::text=lstr::
 14423::$$$message_0136_0046_0001$$$::Já que a Saber conseguiu o Santo Graal quando estava viva, ela virou um espírito heroico para compensar por isso[line2]?::
 14424::$$$message_0136_0047_0000$$$::"...Isso não faz sentido. A Saber está dizendo que o seu objetivo é o Santo Graal, mas se ela virou um espírito heroico, então já deveria tê-lo conseguido para início de conversa."::
 14425::$$$message_0136_0048_0000$$$::"[line2]Não, Shirou. Eu ainda não consegui o Santo Graal.[lr]::
-14426::$$$message_0136_0048_0001$$$::Arturia[line2]o desejo do Rei Arthur era conseguir o Santo Graal enquanto ele ainda estava vivo.[lr]::
+14426::$$$message_0136_0048_0001$$$::Artoria[line2]o desejo do Rei Arthur era conseguir o Santo Graal enquanto ele ainda estava vivo.[lr]::
 14427::$$$message_0136_0048_0002$$$::Eu precisava dele antes de morrer.[lr]::
 14428::$$$message_0136_0048_0003$$$::Por isso, eu concordei em virar um espírito heroico se pudesse consegui-lo em troca."::
 14429::$$$message_0136_0049_0000$$$::"Como a Rin disse, os humanos fazem um contrato com o mundo para se tornarem heróis, recebem poderes sobre-humanos, e pagam por eles com a sua própria vida depois da morte.[lr]::
@@ -207,12 +207,12 @@ id=qid::label=str::text=lstr::
 14509::$$$message_0136_0077_0002$$$::Isso é alterar o passado! A viagem no tempo e o gerenciamento de universos paralelos são feitiçarias. Você não tem como conseguir fazer esse tipo de coisa."::
 14510::$$$message_0136_0078_0000$$$::"Mas o Santo Graal me permite fazer isso.[lr]::
 14511::$$$message_0136_0078_0001$$$::Eu fiz um contrato para virar um Servo se pudesse usar o Santo Graal.[lr]::
-14512::$$$message_0136_0078_0002$$$::O preço que preciso pagar é virar um Servo, mesmo que isso leve à eliminação da pessoa chamada Arturia."::
+14512::$$$message_0136_0078_0002$$$::O preço que preciso pagar é virar um Servo, mesmo que isso leve à eliminação da pessoa chamada Artoria."::
 14513::$$$message_0136_0079_0000$$$::A Saber fala como se não se importasse muito.[lr]::
 14514::$$$message_0136_0079_0001$$$::Mas isso é estranho.[lr]::
 14515::$$$message_0136_0079_0002$$$::Tudo bem querer usar o Santo Graal para realizar um desejo.[lr]::
-14516::$$$message_0136_0079_0003$$$::Mas por que ela disse que a Arturia seria eliminada?::
-14517::$$$message_0136_0080_0000$$$::"...Do que você está falando? A Arturia vai ser eliminada depois que você usar o Santo Graal...? Não brinque comigo.[lr]::
+14516::$$$message_0136_0079_0003$$$::Mas por que ela disse que a Artoria seria eliminada?::
+14517::$$$message_0136_0080_0000$$$::"...Do que você está falando? A Artoria vai ser eliminada depois que você usar o Santo Graal...? Não brinque comigo.[lr]::
 14518::$$$message_0136_0080_0001$$$::Saber. Você não vai[line2]"[lr]::
 14519::$$$message_0136_0080_0002$$$::Aquela menina, prestes a morrer em silêncio, sozinha naquela colina.[lr]::
 14520::$$$message_0136_0080_0003$$$::"[line2]usar o Santo Graal para se salvar?"::
@@ -247,10 +247,10 @@ id=qid::label=str::text=lstr::
 14549::$$$message_0136_0089_0000$$$::Essa menina só está na minha frente agora porque aquela espada sagrada estava lá e um rei conseguiu removê-la da pedra.[lr]::
 14550::$$$message_0136_0089_0001$$$::[line2]Impedir que isso aconteça significa que a menina que estou vendo agora vai deixar de existir.::
 14551::$$$message_0136_0090_0000$$$::Imagine que ela consiga o Santo Graal e realize o seu desejo.[lr]::
-14552::$$$message_0136_0090_0001$$$::A menina Arturia, que nunca virou um rei, iria passar o resto da sua vida como um cavaleiro.[lr]::
+14552::$$$message_0136_0090_0001$$$::A menina Artoria, que nunca virou um rei, iria passar o resto da sua vida como um cavaleiro.[lr]::
 14553::$$$message_0136_0090_0002$$$::Mas o que vai acontecer com a Saber que está na minha frente agora?[lr]::
 14554::$$$message_0136_0090_0003$$$::Por ser um espírito heroico, ela ainda vai ser invocada para lutar depois que o seu desejo for realizado.::
-14555::$$$message_0136_0091_0000$$$::Como ela pagou um preço para conseguir o Santo Graal, mesmo que a Arturia não se torne rei, a Saber ainda vai existir.[lr]::
+14555::$$$message_0136_0091_0000$$$::Como ela pagou um preço para conseguir o Santo Graal, mesmo que a Artoria não se torne rei, a Saber ainda vai existir.[lr]::
 14556::$$$message_0136_0091_0001$$$::Quando for removida do futuro e do passado...[lr]::
 14557::$$$message_0136_0091_0002$$$::Ela nunca mais vai deixar de ser o rei solitário que morreu naquela colina.::
 14558::$$$message_0136_0092_0000$$$::"[line5]Que absurdo."[lr]::
@@ -265,7 +265,7 @@ id=qid::label=str::text=lstr::
 14567::$$$message_0136_0095_0001$$$::"[line2]Não use o Santo Graal para uma coisa dessas.[lr]::
 14568::$$$message_0136_0095_0002$$$::Você vai conseguir o Santo Graal com o seu próprio esforço, não vai? Então você deveria usar esse milagre para o seu próprio bem."::
 14569::$$$message_0136_0096_0000$$$::"...M-Mas eu já disse que vou usá-lo para o meu próprio bem.[lr]::
-14570::$$$message_0136_0096_0001$$$::Eu[line2]Arturia, devo cumprir o meu dever como rei."[lr]::
+14570::$$$message_0136_0096_0001$$$::Eu[line2]Artoria, devo cumprir o meu dever como rei."[lr]::
 14571::$$$message_0136_0096_0002$$$::"...!"[lr]::
 14572::$$$message_0136_0096_0003$$$::Então por que você não entende[line2]!?::
 14573::$$$message_0136_0097_0000$$$::"Não seja ridícula, você cumpriu com o seu dever mais do que o suficiente...! Você já lutou demais. Você não desistiu mesmo quando esteve com medo ou depois que foi traída. Você ficou naquela colina sem largar a sua espada até o final.[lr]::
@@ -298,7 +298,7 @@ id=qid::label=str::text=lstr::
 14600::$$$message_0136_0105_0000$$$::O sino barulhento para de balançar e a sala de estar fica em silêncio.[lr]::
 14601::$$$message_0136_0105_0001$$$::Porém.[lr]::
 14602::$$$message_0136_0105_0002$$$::É possível ouvir o barulho de coisas leves se esbarrando longe daqui.::
-14603::$$$message_0136_0106_0000$$$::"...Esse foi o alarme do campo de separação dessa casa...?"[lr]::
+14603::$$$message_0136_0106_0000$$$::"...Esse foi o alarme do Campo Limitado dessa casa...?"[lr]::
 14604::$$$message_0136_0106_0001$$$::Eu aceno em silêncio.[lr]::
 14605::$$$message_0136_0106_0002$$$::Esse é o mesmo barulho de quando o Lancer invadiu.[lr]::
 14606::$$$message_0136_0106_0003$$$::Então isso só quer dizer uma coisa[line2]::

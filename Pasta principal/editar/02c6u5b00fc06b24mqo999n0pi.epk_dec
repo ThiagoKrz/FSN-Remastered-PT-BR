@@ -1,15 +1,15 @@
 DAT
 id=qid::label=str::text=lstr::
-16625::$$$message_0152_0000_0000$$$::Eu começo a cozinhar.[lr]::
+16625::$$$message_0152_0000_0000$$$::Começo a cozinhar.[lr]::
 16626::$$$message_0152_0000_0001$$$::Eu misturo cebola, farinha, álcool, ovo e sal, e então jogo por cima da carne moída e da carne de porco.[lr]::
-16627::$$$message_0152_0000_0002$$$::Eu resolvi preparar hambúrguer japonês para o café da manhã.::
+16627::$$$message_0152_0000_0002$$$::O menu de hoje de manhã, ousadamente, ficou decidido: hambúrguer japonês ensopado.::
 16628::$$$message_0152_0001_0000$$$::"Rin? Você já acordou?"[lr]::
-16629::$$$message_0152_0001_0001$$$::Eu ouço a voz da Saber vindo da sala de estar.[lr]::
+16629::$$$message_0152_0001_0001$$$::Ouço a voz da Saber vindo da sala.[lr]::
 16630::$$$message_0152_0001_0002$$$::"Tohsaka?"[lr]::
 16631::$$$message_0152_0001_0003$$$::Eu viro a cabeça enquanto continuo cozinhando.::
-16632::$$$message_0152_0002_0000$$$::"...Bom dia. Desculpa, deixa eu pegar o leite, Shirou."[lr]::
+16632::$$$message_0152_0002_0000$$$::"...Bom dia. Foi mal, Shirou, vou pegar um pouco de leite."[lr]::
 16633::$$$message_0152_0002_0001$$$::A Tohsaka vem até a cozinha com um rosto cansado e pega um pouco de leite da geladeira.::
-16634::$$$message_0152_0003_0000$$$::"Gah, a minha cabeça está doendo de tanto dormir... Ei, você está se esforçando mesmo para preparar o café."[lr]::
+16634::$$$message_0152_0003_0000$$$::"Gah, dormi demais, minha cabeça dói... Hm? O quê, caprichando logo de manhã."[lr]::
 16635::$$$message_0152_0003_0001$$$::Para onde foi aquele seu mau humor? Os olhos da Tohsaka começaram a brilhar assim que ela viu o que eu estava preparando.::
 16636::$$$message_0152_0004_0000$$$::"Nossa, está com uma cara boa. Isso vai ajudar a matar a minha fome."[lr]::
 16637::$$$message_0152_0004_0001$$$::Sei... mas é você quem vai sair ganhando com isso, e não eu.[lr]::
@@ -17,29 +17,29 @@ id=qid::label=str::text=lstr::
 16639::$$$message_0152_0005_0000$$$::"...Eu já estava pensando nisso faz um tempo, mas você é bem espertinha."[lr]::
 16640::$$$message_0152_0005_0001$$$::"Ah, eu sou inteligente de nascença. Mas enfim, prepara um pouco para mim também."::
 16641::$$$message_0152_0006_0000$$$::A Tohsaka se despede e volta para a sala de estar.[lr]::
-16642::$$$message_0152_0006_0001$$$::Ela se senta perto da mesa com um copo de leite na mão.[lr]::
+16642::$$$message_0152_0006_0001$$$::Com um copo de leite na mão, Tohsaka se espalha na mesa.[lr]::
 16643::$$$message_0152_0006_0002$$$::...Aliás.[lr]::
-16644::$$$message_0152_0006_0003$$$::Não seria melhor dizer que ela está sendo folgada demais ou que está agindo como uma majestade?::
+16644::$$$message_0152_0006_0003$$$::Como dizer... ela tá folgada num nível quase real.::
 16645::$$$message_0152_0007_0000$$$::"Você está sendo bem preguiçosa, Rin."[lr]::
 16646::$$$message_0152_0007_0001$$$::Isso mesmo Saber, mandou bem. Ela não tem medo de dar bronca nos outros.[lr]::
-16647::$$$message_0152_0007_0002$$$::Mas...[lr]::
+16647::$$$message_0152_0007_0002$$$::Só que...[lr]::
 16648::$$$message_0152_0007_0003$$$::A Tohsaka inventa uma desculpa esfarrapada como se nem tivesse vontade de pensar em algo melhor.::
 16649::$$$message_0152_0008_0000$$$::"Mas é claro que eu estou ficando com preguiça.[lr]::
 16650::$$$message_0152_0008_0001$$$::Agora que o Berserker foi derrotado, só falta o Caster, o Lancer e o Assassin, não é mesmo? Eles não são lá grande coisa comparado com o Berserker, e já que você se recuperou, nós podemos vencê-los sem problema nenhum."::
-16651::$$$message_0152_0009_0000$$$::"[line2]Eu não tenho certeza disso. Nós não sabemos quem é o Mestre do Lancer, e o Assassin não é um inimigo que pode ser derrotado do jeito que estou acostumada.[lr]::
+16651::$$$message_0152_0009_0000$$$::"[line2]Não tenho certeza disso. Nós não sabemos quem é o Mestre do Lancer, e o Assassin não é um inimigo que pode ser derrotado do jeito que estou acostumada.[lr]::
 16652::$$$message_0152_0009_0001$$$::E nós ainda nem nos encontramos com o Caster."::
-16653::$$$message_0152_0010_0000$$$::"Não seja tão humilde. Um herói desconhecido não tem a menor chance contra o Rei Arthur, não é?[lr]::
-16654::$$$message_0152_0010_0001$$$::Você estava sofrendo por falta de energia mágica, mas esse problema já foi resolvido.[lr]::
+16653::$$$message_0152_0010_0000$$$::"Modéstia, modéstia. Na mão do Rei Arthur, qualquer Espírito Heroico meia-boca entra tudo no mesmo balaio.[lr]::
+16654::$$$message_0152_0010_0001$$$::Até agora você sofria por falta de energia mágica, mas isso já foi resolvido.[lr]::
 16655::$$$message_0152_0010_0002$$$::Não existe mais nenhum Servo capaz de te enfrentar, Saber."[lr]::
 16656::$$$message_0152_0010_0003$$$::"[line2]"::
 16657::$$$message_0152_0011_0000$$$::A Saber fica desconfiada com as palavras da Tohsaka.[lr]::
-16658::$$$message_0152_0011_0001$$$::...Eu tive essa mesma impressão.[lr]::
+16658::$$$message_0152_0011_0001$$$::...Tive essa mesma impressão.[lr]::
 16659::$$$message_0152_0011_0002$$$::Nós não podemos ignorar o que ela acabou de dizer.::
 16660::$$$message_0152_0012_0000$$$::"[line2]Tohsaka. Você sabia qual era a identidade da Saber?"::
 16661::$$$message_0152_0013_0000$$$::"Mais ou menos. Eu só fui ter certeza ontem. Só existe um herói que usa uma espada sagrada daquele nível.[lr]::
 16662::$$$message_0152_0013_0001$$$::...Bem, eu fiquei surpresa em descobrir que o lendário Rei Arthur era uma garota, mas já que o verdadeiro está bem na minha frente, não tem como não acreditar."::
 16663::$$$message_0152_0014_0000$$$::"Sem falar que é normal as lendas serem alteradas quando for conveniente, certo?[lr]::
-16664::$$$message_0152_0014_0001$$$::Eu não sei se foi a Saber ou as outras pessoas que esconderam esse fato, mas com certeza não seria interessante uma garota se tornar rei nos tempos medievais.[lr]::
+16664::$$$message_0152_0014_0001$$$::Nem sei se foi a Saber ou as outras pessoas que esconderam esse fato, mas com certeza não seria interessante uma garota se tornar rei nos tempos medievais.[lr]::
 16665::$$$message_0152_0014_0002$$$::É claro que iriam tratá-la como um homem."::
 16666::$$$message_0152_0015_0000$$$::A Tohsaka manteve o mesmo tom de voz.[lr]::
 16667::$$$message_0152_0015_0001$$$::Parece que a Saber também não se importou com isso.[lr]::
@@ -47,7 +47,7 @@ id=qid::label=str::text=lstr::
 16669::$$$message_0152_0016_0000$$$::"......"[lr]::
 16670::$$$message_0152_0016_0001$$$::Então ela admite que isso é verdade.[lr]::
 16671::$$$message_0152_0016_0002$$$::Um herói que usa espadas foi escolhido para ser o Servo da classe Saber. Nesse caso, ela com certeza é a melhor Saber que poderia ter sido invocada.::
-16672::$$$message_0152_0017_0000$$$::O grande herói da Inglaterra.[lr]::
+16672::$$$message_0152_0017_0000$$$::O grande símbolo heroico da Inglaterra.[lr]::
 16673::$$$message_0152_0017_0001$$$::O portador da espada sagrada que todos já ouviram falar, até mesmo nesse país distante.::
 16674::$$$message_0152_0018_0000$$$::...Mas do que isso adianta?[lr]::
 16675::$$$message_0152_0018_0001$$$::A lenda do Rei Arthur termina com a morte do próprio rei.[lr]::
@@ -56,15 +56,15 @@ id=qid::label=str::text=lstr::
 16678::$$$message_0152_0018_0004$$$::E o Rei Arthur não foi uma exceção.::
 16679::$$$message_0152_0019_0000$$$::Eu me lembro que os momentos finais do Rei Arthur se passaram em uma guerra.[lr]::
 16680::$$$message_0152_0019_0001$$$::Durante a Grande Batalha de Camlann.[lr]::
-16681::$$$message_0152_0019_0002$$$::Depois de ter unificado a Grã-Bretanha e de não haver mais invasores estrangeiros para derrotar, o Rei Arthur se viu diante de um "inimigo" inesperado.::
+16681::$$$message_0152_0019_0002$$$::Depois de ter unificado a Bretanha e de não haver mais invasores estrangeiros para derrotar, o Rei Arthur se viu diante de um "inimigo" inesperado.::
 16682::$$$message_0152_0020_0000$$$::Acontece que o inimigo era o seu próprio exército. Graças a uma traição daqueles de sua confiança, o Rei Arthur foi atacado pelos mesmos cavaleiros que tinha lutado lado a lado. Dessa forma, o rei foi obrigado a derrotá-los.::
-16683::$$$message_0152_0021_0000$$$::O Rei Arthur conseguiu derrotar o líder inimigo, mas em troca recebeu um ferimento fatal. Assim, ele encarregou o único cavaleiro sobrevivente, o Sir Bedivere, a devolver a sua espada sagrada para o lago.[lr]::
+16683::$$$message_0152_0021_0000$$$::O Rei Arthur derrotou o líder inimigo, mas recebeu um ferimento fatal e confiou ao único cavaleiro sobrevivente, Bedivere, a tarefa de devolver a espada sagrada.[lr]::
 16684::$$$message_0152_0021_0001$$$::'Atravesse esse campo de batalha sangrento.[lr]::
 16685::$$$message_0152_0021_0002$$$::Você deve encontrar um lago após a colina. Arremesse a espada dentro desse lago.'::
-16686::$$$message_0152_0022_0000$$$::Porém, Bedivere não foi capaz de obedecê-lo.[lr]::
-16687::$$$message_0152_0022_0001$$$::Com medo de perder a espada, ele mentiu para o rei ao dizer que se livrou dela.::
+16686::$$$message_0152_0022_0000$$$::Mas Bedivere não conseguiu cumprir essa ordem.[lr]::
+16687::$$$message_0152_0022_0001$$$::Na primeira vez e na segunda, temendo perder a espada, ele mentiu e disse ao rei que já a havia lançado no lago.::
 16688::$$$message_0152_0023_0000$$$::Mas sempre que o Bedivere dava um relatório falso, o Rei Arthur ordenava que ele voltasse mais uma vez para desfazer da espada. Assim, a ordem só foi cumprida em sua terceira viagem.[lr]::
-16689::$$$message_0152_0023_0001$$$::De acordo com a lenda, o Rei Arthur só morreu depois de confirmar que a sua espada sagrada foi devolvida para o lago.::
+16689::$$$message_0152_0023_0001$$$::E, a cada vez, o Rei Arthur ordenava novamente que Bedivere se desfizesse da espada. Só na terceira tentativa ele conseguiu obedecer a vontade do rei.::
 16690::$$$message_0152_0024_0000$$$::"Enfim Shirou, o que você vai fazer agora?"[lr]::
 16691::$$$message_0152_0024_0001$$$::[line2]E então.[lr]::
 16692::$$$message_0152_0024_0002$$$::De repente a Tohsaka olha para mim.::
@@ -84,7 +84,7 @@ id=qid::label=str::text=lstr::
 16706::$$$message_0152_0029_0000$$$::"Shirou. A sua intenção é nobre, mas é perigoso se aliar com a Illyasviel. Você ainda tem tempo. Deixe que a igreja cuide dela ou que remova os Selos de Comando."::
 16707::$$$message_0152_0030_0000$$$::A Saber me olha diretamente.[lr]::
 16708::$$$message_0152_0030_0001$$$::...Hm.[lr]::
-16709::$$$message_0152_0030_0002$$$::Ela está determinada.[lr]::
+16709::$$$message_0152_0030_0002$$$::Ela está determinada.::
 16710::$$$message_0152_0031_0000$$$::"O-O quê? Nós não podemos abandoná-la assim.[lr]::
 16711::$$$message_0152_0031_0001$$$::A Illya é só uma criança, e ela também estava agindo estranho. Sem falar que eu ficaria com pena dela se a entregasse para o Kotomine."::
 16712::$$$message_0152_0032_0000$$$::"Ficaria com pena? Como você pode dizer isso depois de tudo o que ela fez com a gente!?"[lr]::
@@ -95,13 +95,13 @@ id=qid::label=str::text=lstr::
 16717::$$$message_0152_0034_0001$$$::Acho que eu já disse isso no começo.[lr]::
 16718::$$$message_0152_0034_0002$$$::Eu não estou lutando para matar os outros Mestres. Estou lutando para colocar um fim nessa guerra."::
 16719::$$$message_0152_0035_0000$$$::"Eu[line2]sei disso..."[lr]::
-16720::$$$message_0152_0035_0001$$$::A Saber não concorda comigo, mas pelo menos diminui o seu tom de voz.::
-16721::$$$message_0152_0036_0000$$$::Porém.::
+16720::$$$message_0152_0035_0001$$$::Saber amolece o tom, mesmo sem parecer convencida.::
+16721::$$$message_0152_0036_0000$$$::Mesmo assim.::
 16722::$$$message_0152_0037_0000$$$::"Entendi. Então quer dizer que você vai perdoar tudo o que a Illyasviel fez? Você deve saber que ela atacou outros Mestres também. Talvez ela já tenha matado vários deles. E mesmo assim você quer protegê-la?"::
 16723::$$$message_0152_0038_0000$$$::"[line2]Isso... é..."[lr]::
 16724::$$$message_0152_0038_0001$$$::...Isso é verdade.[lr]::
-16725::$$$message_0152_0038_0002$$$::A própria Illya admitiu. Ela matou o Shinji.::
-16726::$$$message_0152_0039_0000$$$::O Shinji usou a Rider para tentar matar os alunos do colégio. Se era isso o que ele queria fazer como um Mestre, acho que não posso me lamentar pela morte dele.[lr]::
+16725::$$$message_0152_0038_0002$$$::A própria Illya disse que matou o Shinji que eu havia deixado escapar.::
+16726::$$$message_0152_0039_0000$$$::$$$::Shinji usou a Rider para tentar matar os alunos da escola. Se esse era o tipo de coisa que ele fazia como Mestre, então eu sei que acabar morto era, de certo modo, inevitável.[lr]::
 16727::$$$message_0152_0039_0001$$$::...Mas mesmo assim, o Shinji é um amigo que conhecia há anos e, se considerar como a Sakura deve estar sofrendo com a perda de seu irmão, eu não posso perdoar tudo o que a Illya fez.::
 16728::$$$message_0152_0040_0000$$$::"[line2]Mas desse jeito ela nunca vai mudar.[lr]::
 16729::$$$message_0152_0040_0001$$$::Se a Illya deixar de ser um Mestre e puder se arrepender do que fez, acho que nós deveríamos protegê-la."::
@@ -113,14 +113,14 @@ id=qid::label=str::text=lstr::
 16735::$$$message_0152_0043_0000$$$::"Fala sério, os Servos vão desaparecer no final mesmo. Você é uma vergonha como uma Mestre por se preocupar com esse tipo de coisa."[lr]::
 16736::$$$message_0152_0043_0001$$$::A menina que gerou toda essa discussão e que deveria estar dormindo, aparece.::
 16737::$$$message_0152_0044_0000$$$::"[line2]Illyasviel...!"::
-16738::$$$message_0152_0045_0000$$$::"Esperem, eu não tenho interesse em vocês duas. Eu não quero lutar, então poderiam parar de ficar com tanta raiva?[lr]::
-16739::$$$message_0152_0045_0001$$$::...É sério, eu me sinto envergonhada como uma dama. Vocês são muito mais velhas do que eu, e mesmo assim não conseguem se comportar."::
+16738::$$$message_0152_0045_0000$$$::"Calma. Eu não tenho nada com vocês duas. Também não pretendo lutar, então será que dá pra parar de ficar se exaltando assim?[lr]::
+16739::$$$message_0152_0045_0001$$$::...Sinceramente, como dama, isso chega a me constranger. Vocês são bem mais velhas do que eu e mesmo assim não têm a menor elegância"::
 16740::$$$message_0152_0046_0000$$$::A Illya encolhe os ombros para mostrar a sua surpresa.[lr]::
 16741::$$$message_0152_0046_0001$$$::"C-Como é...!?"[lr]::
-16742::$$$message_0152_0046_0002$$$::A Saber e a Tohsaka se irritam ao mesmo tempo.[lr]::
+16742::$$$message_0152_0046_0002$$$::Mais uma vez, Saber e Tohsaka se inflamam em perfeita sintonia.[lr]::
 16743::$$$message_0152_0046_0003$$$::De certa forma, ela ficaram ainda mais assustadoras.::
 16744::$$$message_0152_0047_0000$$$::"Bem, eu também não vou guardar rancor do que disseram. Não tenho tempo para ficar me preocupando com vocês duas."[lr]::
-16745::$$$message_0152_0047_0001$$$::Depois de dizer isso, a Illya se volta para mim.[lr]::
+16745::$$$message_0152_0047_0001$$$::Depois de dizer isso, a Illya se volta para mim.::
 16746::$$$message_0152_0048_0000$$$::"Ah[line2]Illya?"[lr]::
 16747::$$$message_0152_0048_0001$$$::"Eu lhe agradeço, Mestre da Saber. Eu lhe agradeço do fundo do meu coração por ter se preocupado com alguém como eu, a sua inimiga."::
 16748::$$$message_0152_0049_0000$$$::"Ah[line2]hã?"[lr]::
@@ -129,36 +129,36 @@ id=qid::label=str::text=lstr::
 16751::$$$message_0152_0049_0003$$$::A Tohsaka está bebendo o seu leite e olhando para a Illya com uma cara de desconfiança.::
 16752::$$$message_0152_0050_0000$$$::[line2]E assim.[lr]::
 16753::$$$message_0152_0050_0001$$$::A Illya mostra o seu sorriso de sempre e...[lr]::
-16754::$$$message_0152_0050_0002$$$::"Brincadeira.[lr]::
-16755::$$$message_0152_0050_0003$$$::Sim, o Shirou é o meu Onii-chan!"[lr]::
+16754::$$$message_0152_0050_0002$$$::"Brincadeirinha.[lr]::
+16755::$$$message_0152_0050_0003$$$::É, não tem erro, o Shirou é mesmo meu Onii-chan!"[lr]::
 16756::$$$message_0152_0050_0004$$$::Ela vem até mim e me agarra pelo pescoço.::
 16757::$$$message_0152_0051_0000$$$::"Gofu...!?"[lr]::
-16758::$$$message_0152_0051_0001$$$::Eu fico sufocado com o ataque surpresa.[lr]::
-16759::$$$message_0152_0051_0002$$$::"Q-QUÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ!?"[lr]::
-16760::$$$message_0152_0051_0003$$$::A Tohsaka cospe o leite que estava bebendo.[lr]::
-16761::$$$message_0152_0051_0004$$$::"[line8]!"[lr]::
-16762::$$$message_0152_0052_0000$$$::"Afaste-se, sua sem vergonha...!"[lr]::
+16758::$$$message_0152_0051_0001$$$::"Q-QUÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊ!?"[lr]::
+16759::$$$message_0152_0051_0002$$$::Tohsaka cospe o leite que estava bebendo.[lr]::
+16760::$$$message_0152_0051_0003$$$::[font italic=true]Qu...!?[font italic=false][lr]::
+16761::$$$message_0152_0051_0004$$$::Saber, de cara séria, parece até soltar um estalo na testa.::
+16762::$$$message_0152_0052_0000$$$::"S-solte ele, sua sem vergonha...!"[lr]::
 16763::$$$message_0152_0052_0001$$$::A Saber corre até mim.[lr]::
-16764::$$$message_0152_0052_0002$$$::Mas a Illya fica girando em volta do meu pescoço.::
+16764::$$$message_0152_0052_0002$$$::Mas Illya não é fácil de pegar, usando meu pescoço como eixo, ela gira e vai parar nas minhas costas.::
 16765::$$$message_0152_0053_0000$$$::"Heh, quem aqui é sem vergonha? Um Servo está cem anos adiantado para querer dar a sua opinião."[lr]::
 16766::$$$message_0152_0053_0001$$$::"Eu não tenho obrigação e nem vontade de te obedecer...! Se você tem tempo para ficar me respondendo, então saia de cima do Shirou agora mesmo...!"::
 16767::$$$message_0152_0054_0000$$$::"Eu não estou te ouvindo. Ei Shirou, vamos fazer aquilo que fizemos ontem. Se chama andar de cavalinho, não é!?"[lr]::
-16768::$$$message_0152_0054_0001$$$::A Illya não para quieta.[lr]::
-16769::$$$message_0152_0054_0002$$$::A Saber dá voltas para tentar pegá-la.::
+16768::$$$message_0152_0054_0001$$$::A Illya gira em volta de mim.[lr]::
+16769::$$$message_0152_0054_0002$$$::E Saber gira atrás dela, tentando pegá-la.::
 16770::$$$message_0152_0055_0000$$$::"[line5]"[lr]::
 16771::$$$message_0152_0055_0001$$$::Isso é ruim.[lr]::
-16772::$$$message_0152_0055_0002$$$::Isso é muito ruim.::
+16772::$$$message_0152_0055_0002$$$::O que exatamente é ruim? Bem... tudo::
 16773::$$$message_0152_0056_0000$$$::As duas não param de brigar.[lr]::
 16774::$$$message_0152_0056_0001$$$::...Deve ser porque ela só está olhando de longe.[lr]::
-16775::$$$message_0152_0056_0002$$$::A Tohsaka limpa o leite da sua boca como se nada tivesse acontecido.::
-16776::$$$message_0152_0057_0000$$$::"Por mim tanto faz, mas se continuar assim ele vai acabar morrendo."[lr]::
+16775::$$$message_0152_0056_0002$$$::Tohsaka simplesmente limpa o leite do canto da boca, como se nada estivesse acontecendo, e diz,::
+16776::$$$message_0152_0057_0000$$$::"Olha, tanto faz pra mim, mas, se continuarem assim, ele vai morre."[lr]::
 16777::$$$message_0152_0057_0001$$$::"Hã...?"[lr]::
 16778::$$$message_0152_0057_0002$$$::As duas olham para mim com um olhar de espanto.::
 16779::$$$message_0152_0058_0000$$$::Ela tem razão.[lr]::
 16780::$$$message_0152_0058_0001$$$::O meu pescoço está sendo estrangulado e estou correndo um sério risco de vida. Eu estou sufocando de verdade[line2]::
 16781::$$$message_0152_0058_0002$$$::Bem, vamos revisar a situação atual.[lr]::
-16782::$$$message_0152_0058_0003$$$::O hambúrguer que eu estava preparando voltou para a geladeira.::
-16783::$$$message_0152_0059_0000$$$::Primeiro, a Tohsaka é quem está mais quieta.[lr]::
+16782::$$$message_0152_0058_0003$$$::O hambúrguer que eu estava moldando foi, por enquanto, parar na geladeira.::
+16783::$$$message_0152_0059_0000$$$::Primeiro, a relativamente mais calma é a Tohsaka.[lr]::
 16784::$$$message_0152_0059_0001$$$::Pelo visto ela está se mantendo neutra e esperando para ver como as coisas vão se desenrolar, mas ninguém sabe o que ela está pensando de verdade.::
 16785::$$$message_0152_0060_0000$$$::"Hm? O que foi, Shirou?"[lr]::
 16786::$$$message_0152_0060_0001$$$::A Illya está sentada do meu lado, e por algum motivo está de bom humor.[lr]::
@@ -167,7 +167,7 @@ id=qid::label=str::text=lstr::
 16789::$$$message_0152_0061_0000$$$::E a mais difícil de lidar é...[lr]::
 16790::$$$message_0152_0061_0001$$$::"[line5]"[lr]::
 16791::$$$message_0152_0061_0002$$$::A Saber, que não tira os olhos de nós dois.::
-16792::$$$message_0152_0062_0000$$$::Ela não costuma ser ansiosa e preocupada como está agora.[lr]::
+16792::$$$message_0152_0062_0000$$$::Esse jeito inquieto e impaciente não combina nada com ela.[lr]::
 16793::$$$message_0152_0062_0001$$$::Por conta do olhar dela, eu sinto como se estivesse sentado em uma almofada cheia de pregos.[lr]::
 16794::$$$message_0152_0062_0002$$$::Então... eu não posso deixar as coisas continuarem desse jeito.[lr]::
 16795::$$$message_0152_0062_0003$$$::Não sei como que isso vai acabar, mas eu tenho que me manter firme e sair dessa situação complicada.::
@@ -175,10 +175,11 @@ id=qid::label=str::text=lstr::
 16797::$$$message_0152_0063_0001$$$::Se continuarmos assim vai passar de meio-dia."::
 16798::$$$message_0152_0064_0000$$$::"Tem razão. Nós já tomamos uma decisão, e o problema precisa ser resolvido o mais rápido possível. Não é, Saber?"[lr]::
 16799::$$$message_0152_0064_0001$$$::"Isso mesmo. Eu e a Rin temos a mesma opinião, então nós só precisamos fazer o Shirou concordar..."::
-16800::$$$message_0152_0065_0000$$$::A Saber está disposta a resistir até o final.[lr]::
+16800::$$$message_0152_0065_0000$$$::A Saber está disposta a resistir até o final.::
 16801::$$$message_0152_0066_0000$$$::"...? Ei, Shirou. Do que a Rin e a Saber estão falando?"::
 16802::$$$message_0152_0067_0000$$$::"Ah, bem... Estamos conversando sobre o que nós vamos fazer contigo. Você perdeu o seu Servo, não é? Então queremos saber o que você pretende fazer de agora em diante."::
 16803::$$$message_0152_0068_0000$$$::"Já está decidido. Nós vamos fazer com que a igreja proteja ela, ou então vamos expulsá-la de volta pro castelo. O importante é que ela não pode ficar aqui."::
 16804::$$$message_0152_0069_0000$$$::"...Você também pensa assim, Shirou?"[lr]::
 16805::$$$message_0152_0069_0001$$$::A Illya olha para mim com um olhar sem emoção.[lr]::
 16806::$$$message_0152_0069_0002$$$::Eu acho que é melhor[line2][lr]::
+

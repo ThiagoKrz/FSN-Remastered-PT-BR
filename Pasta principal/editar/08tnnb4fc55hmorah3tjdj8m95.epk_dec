@@ -1,6 +1,6 @@
 DAT
 id=qid::label=str::text=lstr::
-8646::$$$message_0085_0000_0000$$$::Eu retorno para Miyama[lr]::
+8646::$$$message_0085_0000_0000$$$::Eu retorno para Miyama.[lr]::
 8647::$$$message_0085_0000_0001$$$::Diferente de Shinto, aqui já está bem quieto, como se já fosse meia-noite.::
 8648::$$$message_0085_0001_0000$$$::"Me pergunto se a Sakura está bem..."[lr]::
 8649::$$$message_0085_0001_0001$$$::Ela parecia estar se sentindo melhor, mas como ela veio fazer a janta, acho que talvez eu tenha novamente feito ela se esforçar demais.::
@@ -15,8 +15,8 @@ id=qid::label=str::text=lstr::
 8658::$$$message_0085_0005_0000$$$::"Com licença. Você tem algo a tratar nessa casa?"[lr]::
 8659::$$$message_0085_0005_0001$$$::"...!?"[lr]::
 8660::$$$message_0085_0005_0002$$$::Eu me viro pra trás.[lr]::
-8661::$$$message_0085_0005_0003$$$::Na escuridão da noite, como se estivesse se escondendo no som dos insetos, uma pessoa está de pé atrás de mim...[lr]::
-8662::$$$message_0085_0005_0004$$$::Na escuridão da noite, como se estivesse se escondendo no som dos insetos, uma pessoa está de pé atrás de mim...::
+8661::$$$message_0085_0005_0003$$$::Na escuridão da noite...[lr]::
+8662::$$$message_0085_0005_0004$$$::...Como se estivesse se escondendo no som dos insetos, uma pessoa está de pé atrás de mim...::
 8663::$$$message_0085_0006_0000$$$::É um velho desconhecido.[lr]::
 8664::$$$message_0085_0006_0001$$$::Ele deve ser muito velho, mas seus olhos são afiados e sua presença é desproporcional ao seu pequeno corpo.[lr]::
 8665::$$$message_0085_0006_0002$$$::Talvez seja pela diferença de anos que vivemos, mas ele possui uma dignidade que me pressiona.::
@@ -26,14 +26,14 @@ id=qid::label=str::text=lstr::
 8669::$$$message_0085_0008_0000$$$::"É uma lástima, mas como é um pedido da minha neta, eu não posso simplesmente te deixar ir. Sinto muito, mas terei que lhe machucar um pouco.[lr]::
 8670::$$$message_0085_0008_0001$$$::Só pra ter certeza, você não tem intenção alguma de se entregar graciosamente pra polícia?"::
 8671::$$$message_0085_0009_0000$$$::O velho desconhecido me faz essa pergunta perturbadora.[lr]::
-8672::$$$message_0085_0009_0001$$$::N-não há dúvidas...[lr]::
+8672::$$$message_0085_0009_0001$$$::N-Não há dúvidas...[lr]::
 8673::$$$message_0085_0009_0002$$$::Essa é a primeira vez que o vejo, mas ele deve ser...::
 8674::$$$message_0085_0010_0000$$$::"Ah... não, o senhor está enganado...! Meu nome é Emiya Shirou. Eu estou na mesma turma que o Shinji e sou um conhecido da Sakura, eu só vim ver como eles estavam...!"::
 8675::$$$message_0085_0011_0000$$$::"Ah. Entendo, você é amigo do Shinji e da Sakura. Nesse caso me perdõe por ficar no seu caminho. Bom, eu posso ir chamá-los se quiser, ou talvez você queira jantar conosco?"::
 8676::$$$message_0085_0012_0000$$$::"N-Não, eu só estava de passagem, já estou indo embora inclusive. A propósito, o senhor sabe se a Sakura chegou bem em casa?"[lr]::
 8677::$$$message_0085_0012_0001$$$::"Zouken."[lr]::
 8678::$$$message_0085_0012_0002$$$::O velho pronuncia uma palavra que eu desconheço.[lr]::
-8679::$$$message_0085_0012_0003$$$::O velho pronuncia uma palavra que eu desconheço.::
+8679::$$$message_0085_0012_0003$$$::Ele parece irritado.::
 8680::$$$message_0085_0013_0000$$$::"Hã?"[lr]::
 8681::$$$message_0085_0013_0001$$$::"Matou Zouken. É falta de educação não me apresentar quando você já o fez."[lr]::
 8682::$$$message_0085_0013_0002$$$::Ele diz isso e segue para a entrada.[lr]::
@@ -47,8 +47,8 @@ id=qid::label=str::text=lstr::
 8690::$$$message_0085_0015_0001$$$::"Não se faça de burro. É natural que a filha dos Einzberns faça uma visita ao Emiya. Eu estou te perguntando como está a situação dessa vez."[lr]::
 8691::$$$message_0085_0015_0002$$$::"...?"[lr]::
 8692::$$$message_0085_0015_0003$$$::Hm, eu não consigo entender.[lr]::
-8693::$$$message_0085_0015_0004$$$::Me desculpe Sakura, mas é bem difícil de se lidar com o seu avô...[lr]::
-8694::$$$message_0085_0015_0005$$$::Me desculpe Sakura, mas é bem difícil de se lidar com o seu avô...::
+8693::$$$message_0085_0015_0004$$$::Me desculpe Sakura...[lr]::
+8694::$$$message_0085_0015_0005$$$::Mas, seu avô é meio doido...::
 8695::$$$message_0085_0016_0000$$$::"Hm, aparentemente você realmente não sabe..."[lr]::
 8696::$$$message_0085_0016_0001$$$::Ele solta um suspiro.[lr]::
 8697::$$$message_0085_0016_0002$$$::O Zouken parece tão chocado que eu meio que me sinto mal por ele.::
@@ -63,7 +63,7 @@ id=qid::label=str::text=lstr::
 8706::$$$message_0085_0020_0000$$$::"Agora com licença, Emiya Shirou. Por favor continue amigo dos meus netos."[lr]::
 8707::$$$message_0085_0020_0001$$$::Apesar da sua aparência, ele entra na casa dando passos leves.[lr]::
 8708::$$$message_0085_0020_0002$$$::A casa continua a mesma...[lr]::
-8709::$$$message_0085_0020_0003$$$::...mas o barulho dos insetos repentinamente parou.::
+8709::$$$message_0085_0020_0003$$$::...Mas o barulho dos insetos repentinamente parou.::
 8710::$$$message_0085_0021_0000$$$::O dia acaba...[lr]::
 8711::$$$message_0085_0021_0001$$$::Terminando um jantar turbulento e me despedindo da Fuji-nee, eu tomo um banho.[lr]::
 8712::$$$message_0085_0021_0002$$$::Depois disso, eu realizo a minha rotina diária no galpão.[lr]::

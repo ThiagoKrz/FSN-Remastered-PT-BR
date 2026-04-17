@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 25963::$$$message_0224_0005_0001$$$::Mas também é algo que o Mestre precisa saber.::
 25964::$$$message_0224_0006_0000$$$::Porque se um não sabe qual herói o Servo é, ele não sabe o potencial do Servo.[l][r]::
 25965::$$$message_0224_0006_0001$$$::Mestre e Servo são um.[l][r]::
-25966::$$$message_0224_0006_0002$$$::Eles não vão conseguir lutar livremente se um esconder um segredo do outro.[l][r]::
+25966::$$$message_0224_0006_0002$$$::Eles não vão conseguir lutar livremente se esconderem segredos entre si.[l][r]::
 25967::$$$message_0224_0006_0003$$$::Eles não devem conseguir lutar livremente, mas[line3]::
 25968::$$$message_0224_0007_0000$$$::"[line3]Shirou, sobre esse assunto, por favor desculpe minha grosseria.[l][r]::
 25969::$$$message_0224_0007_0001$$$:: Um Servo invocado deve imediatamente informar seu nome verdadeiro ao seu Mestre. ...Mas não posso cumprir esse juramento."[l][r]::
@@ -48,7 +48,7 @@ id=qid::label=str::text=lstr::
 25998::$$$message_0224_0017_0000$$$::"...Huh? O que te traz aqui, Tohsaka?"[l][r]::
 25999::$$$message_0224_0017_0001$$$::"Eu só fui pegar minhas coisas em casa. É natural, já que estarei morando aqui a partir de agora."::
 26000::$$$message_0224_0018_0000$$$::"...!!!!?[l][r]::
-26001::$$$message_0224_0018_0001$$$::M-morar... você quer dizer você, morando na minha casa...!!!?"::
+26001::$$$message_0224_0018_0001$$$::M-Morar... você quer dizer você, morando na minha casa...!!!?"::
 26002::$$$message_0224_0019_0000$$$::"Isso é o que cooperação significa. ...O que você pensou que nossa conversa de mais cedo foi?"[l][r]::
 26003::$$$message_0224_0019_0001$$$::"Uh[line5]um."[l][r]::
 26004::$$$message_0224_0019_0002$$$::Estou tão surpreso que não consigo falar.[l][r]::
@@ -65,7 +65,7 @@ id=qid::label=str::text=lstr::
 26015::$$$message_0224_0023_0002$$$:: Ele diz que não gosta de estar no mesmo quarto com uma garota."::
 26016::$$$message_0224_0024_0000$$$::"......"[l][r]::
 26017::$$$message_0224_0024_0001$$$::Sem se mover,[l][r]::
-26018::$$$message_0224_0024_0002$$$::A Saber faz uma cara difícil.::
+26018::$$$message_0224_0024_0002$$$::A Saber faz uma cara séria.::
 26019::$$$message_0224_0025_0000$$$::"Isso não é bom, Shirou. Servos são para proteger seus Mestres. As horas de sono são as mais cruciais para proteger você, então não posso te proteger a não ser que eu esteja no mesmo quarto."[l][r]::
 26020::$$$message_0224_0025_0001$$$::"Estou ainda mais em apuros mesmo se você disser isso! O que vocês estão pensando, vocês são mesmo garotas!?"::
 26021::$$$message_0224_0026_0000$$$::"......"[l][r]::
@@ -80,12 +80,12 @@ id=qid::label=str::text=lstr::
 26030::$$$message_0224_0028_0004$$$::Descobri a causa dessa sensação.::
 26031::$$$message_0224_0029_0000$$$::"...Espera, Tohsaka. Desde quando você começou a me chamar pelo nome?"[l][r]::
 26032::$$$message_0224_0029_0001$$$::"Ah, eu comecei? Eu não notei isso, então deve ter sido a um tempo atrás."[l][r]::
-26033::$$$message_0224_0029_0002$$$::"...foi. Acho que você esteve me chamando assim por um tempo."::
+26033::$$$message_0224_0029_0002$$$::"...Foi. Acho que você esteve me chamando assim por um tempo."::
 26034::$$$message_0224_0030_0000$$$::"Entendo. Terei cuidado se você não gostar disso, mas você não gosta?"[l][r]::
 26035::$$$message_0224_0030_0001$$$::A Tohsaka diz tão claramente, sem perceber como estou me sentindo.[l][r]::
-26036::$$$message_0224_0030_0002$$$::...Geez, é exatamente como você disse, Issei.[l][r]::
-26037::$$$message_0224_0030_0003$$$::Acho que a Tohsaka Rin é um demônio de verdade.::
-26038::$$$message_0224_0031_0000$$$::"...legal. Me chame do que quiser. Eu não me importo, seja qual você preferir, serve."[l][r]::
+26036::$$$message_0224_0030_0002$$$::...Cara, é exatamente como você disse, Issei.[l][r]::
+26037::$$$message_0224_0030_0003$$$::Acho que Tohsaka Rin é um demônio de verdade.::
+26038::$$$message_0224_0031_0000$$$::"...Legal. Me chame do que quiser. Eu não me importo, seja qual você preferir, serve."[l][r]::
 26039::$$$message_0224_0031_0001$$$::"Sério? Então vou fazer isso."[l][r]::
 26040::$$$message_0224_0031_0002$$$::"Rin, por favor não termine a conversa. Não encontramos uma solução para a questão de um quarto para o Shirou e eu."::
 26041::$$$message_0224_0032_0000$$$::"Ah, claro, claro. Mas vai ser difícil ficar no mesmo quarto com o Shirou agindo assim. Não há motivo em tratar um Servo como humano, mas por que você não desiste, já que o Shirou não quer?"[l][r]::
@@ -99,18 +99,18 @@ id=qid::label=str::text=lstr::
 26049::$$$message_0224_0034_0001$$$::Uh... mesmo se você me olhar assim, não posso fazer isso.::
 26050::$$$message_0224_0035_0000$$$::"...Não. Vou preparar um quarto separado para a Saber. Um, vou tentar preparar um o mais próximo do meu possível, então por favor fique feliz com isso."[l][r]::
 26051::$$$message_0224_0035_0001$$$::"[line5]"[l][r]::
-26052::$$$message_0224_0035_0002$$$::"M-me assustar não vai funcionar! Como um homem, não irei me render pra você nisto. Saber, você deveria entender melhor sua situação...!"::
-26053::$$$message_0224_0036_0000$$$::"Huh? É por isso que estou tentando proteger meu Mester como uma [r]Serva[line3]"[l][r]::
-26054::$$$message_0224_0036_0001$$$::"Não, quero dizer sobre si mesma...! Geez, se você não entende, tudo bem! Se você falar algo mais, irei fazer você obedecer usando meu Selo de Comando...!"[l][r]::
+26052::$$$message_0224_0035_0002$$$::"M-Me assustar não vai funcionar! Como um homem, não irei me render pra você nisto. Saber, você deveria entender melhor sua situação...!"::
+26053::$$$message_0224_0036_0000$$$::"Huh? É por isso que estou tentando proteger meu Mester como um [r]Servo[line3]"[l][r]::
+26054::$$$message_0224_0036_0001$$$::"Não, quero dizer sobre si mesma...! Olha, se você não entende, tudo bem! Se você falar algo mais, irei fazer você obedecer usando meu Selo de Comando...!"[l][r]::
 26055::$$$message_0224_0036_0002$$$::Eu respiro fundo e intimido a Saber.::
-26056::$$$message_0224_0037_0000$$$::"...seria problemático se você usasse seu Selo de Comando para tal coisa. Nosso futuro está condenado se você usar um dos três direitos para me mandar não protege-lo."::
+26056::$$$message_0224_0037_0000$$$::"...Seria problemático se você usasse seu Selo de Comando para tal coisa. Nosso futuro está condenado se você usar um dos três direitos para me mandar não protege-lo."::
 26057::$$$message_0224_0038_0000$$$::"Sim. Tenho certeza que o Shirou seria o primeiro e o último Mestre a fazer isso."[l][r]::
 26058::$$$message_0224_0038_0001$$$::Não seja idiota. Não quero usar ele pra isso também.::
-26059::$$$message_0224_0039_0000$$$::"...entendo, eu seguirei o plano de meu Mestre. Mas o que você vai fazer quando for atacado por um inimigo? Servos como o Assassin vão se aproximar sem deixar sua presença ficar conhecida. Em tais casos, você vai conseguir se proteger até eu chegar?"::
+26059::$$$message_0224_0039_0000$$$::"...Entendo, eu seguirei o plano de meu Mestre. Mas o que você vai fazer quando for atacado por um inimigo? Servos como o Assassin vão se aproximar sem deixar sua presença a mostra. Em tais casos, você vai conseguir se proteger até eu chegar?"::
 26060::$$$message_0224_0040_0000$$$::"Bem[line3]"[l][r]::
 26061::$$$message_0224_0040_0001$$$::Não posso dizer que conseguirei.[l][r]::
 26062::$$$message_0224_0040_0002$$$::Eu consegui contra o Lancer, mas aquela sorte não irá se repetir.::
-26063::$$$message_0224_0041_0000$$$::"Isso seria impossível. Esta casa tem um campo de separação que nós alerta se um inimigo entrar. Não conseguiremos evitar um assalto, mas devemos conseguir detetar um ataque surpresa. Neste caso, você conseguiria proteger ele antes de ser atacado, então você pode ir em frente e ficar no quarto que quiser."::
+26063::$$$message_0224_0041_0000$$$::"Isso seria impossível. Esta casa tem um Campo Limitado que nós alerta se um inimigo entrar. Não conseguiremos evitar um assalto, mas devemos conseguir detetar um ataque surpresa. Neste caso, você conseguiria proteger ele antes de ser atacado, então você pode ir em frente e ficar no quarto que quiser."::
 26064::$$$message_0224_0042_0000$$$::"...isso é certamente verdade, mas..."[l][r]::
 26065::$$$message_0224_0042_0001$$$::"Que tal próxima ao quarto do Shirou? Não tem problemas pra você se ela não estiver no seu quarto, né, Emiya-kun?"[l][r]::
 26066::$$$message_0224_0042_0002$$$::Ela pronuncia o "Emiya-kun" ostensivamente.::

@@ -18,7 +18,7 @@ id=qid::label=str::text=lstr::
 38010::$$$message_0328_0003_0004$$$::Eu pulo pra trás e me preparo.::
 38011::$$$message_0328_0004_0000$$$::"Encantamento[line3]se você tá usando essa palavra, então..."[lr]::
 38012::$$$message_0328_0004_0001$$$::Eu lanço um olhar severo no Shinji.::
-38013::$$$message_0328_0005_0000$$$::"Sim, isso mesmo. O campo de separação que você eliminou é uma medida de segurança que eu preparei.[lr]::
+38013::$$$message_0328_0005_0000$$$::"Sim, isso mesmo. O Campo Limitado que você eliminou é uma medida de segurança que eu preparei.[lr]::
 38014::$$$message_0328_0005_0001$$$::Se você destruir ele assim, eu vou ficar com tanto medo que não vou conseguir vir pra escola mais."::
 38015::$$$message_0328_0006_0000$$$::"[line8]"[lr]::
 38016::$$$message_0328_0006_0001$$$::...Entendi.[lr]::
@@ -30,10 +30,10 @@ id=qid::label=str::text=lstr::
 38022::$$$message_0328_0008_0001$$$::Eu tô chutando que você foi arrastado pra essa coisa de mestre também, certo?[lr]::
 38023::$$$message_0328_0008_0002$$$::Aconteceu comigo também. Eu fui forçado a virar um mestre mesmo não sendo um mago, eu nem tenho a vontade de lutar."::
 38024::$$$message_0328_0009_0000$$$::"Eu tô tentando encontrar um jeito de superar isso sem lutar com ninguém. Então é por isso que eu não tenho intenção de lutar com você."::
-38025::$$$message_0328_0010_0000$$$::"...Entendo. Então qual é a do campo de separação? Você tá dizendo que não quer lutar mesmo tendo algo assim preparado?"::
+38025::$$$message_0328_0010_0000$$$::"...Entendo. Então qual é a do Campo Limitado? Você tá dizendo que não quer lutar mesmo tendo algo assim preparado?"::
 38026::$$$message_0328_0011_0000$$$::"Você é estúpido? Isso é pra minha proteção. Tem um mago puro chamado Tohsaka nessa escola.[lr]::
 38027::$$$message_0328_0011_0001$$$::Ela não vai hesitar em lutar. Como eu não sou um mago, eu tenho que preparar proteção pra mim.[lr]::
-38028::$$$message_0328_0011_0002$$$::Aquele campo de separação foi preparado por esse único motivo. Eu não vou ativar ele enquanto eu não for atacado."::
+38028::$$$message_0328_0011_0002$$$::Aquele Campo Limitado foi preparado por esse único motivo. Eu não vou ativar ele enquanto eu não for atacado."::
 38029::$$$message_0328_0012_0000$$$::"[line8]"[lr]::
 38030::$$$message_0328_0012_0001$$$::...Ele tá fazendo sentido.[lr]::
 38031::$$$message_0328_0012_0002$$$::Eu não sei se o Shinji é realmente um mestre ou não, ou como ele virou um.[lr]::
@@ -105,7 +105,7 @@ id=qid::label=str::text=lstr::
 38097::$$$message_0328_0041_0001$$$::Pra ser honesto, eu tava com medo de que você fizesse ela de refém. Bom, meu problema tá resolvido por agora."[lr]::
 38098::$$$message_0328_0042_0000$$$::"...Isso é tudo que eu tenho a dizer. Tô indo pra casa."[lr]::
 38099::$$$message_0328_0042_0001$$$::"Vai fundo. Ah, mas você sabe que esse é o nosso segredo, certo? Eu mostrei esse segredo já que você é meu amigo. Eu não sei o que eu vou fazer se você for e contar isso pra alguém."::
-38100::$$$message_0328_0043_0000$$$::Isso significa que ele vai ativar o campo de separação se eu contar isso pra Tohsaka.::
+38100::$$$message_0328_0043_0000$$$::Isso significa que ele vai ativar o Campo Limitado se eu contar isso pra Tohsaka.::
 38101::$$$message_0328_0044_0000$$$::"[line2]Sim, eu não vou contar pra ninguém. Mas é uma história diferente se ela descobrir isso sozinha. Eu vou ajudar ela o máximo que eu conseguir. Eu não vou parar ela de lutar com você se ela descobrir sobre você.[lr]::
 38102::$$$message_0328_0044_0001$$$::...Então se você não quiser ser descoberto, não faça nada."::
 38103::$$$message_0328_0045_0000$$$::Eu vou até o portão pra valer.[lr]::

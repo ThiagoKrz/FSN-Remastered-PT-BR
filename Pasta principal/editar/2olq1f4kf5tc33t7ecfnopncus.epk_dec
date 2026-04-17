@@ -1,12 +1,12 @@
 DAT
 id=qid::label=str::text=lstr::
-2891::$$$message_0027_0000_0000$$$::...um, não é como se eu estivesse desistindo do meu treino, mas...[lr]::
+2891::$$$message_0027_0000_0000$$$::...Bom, não é como se eu estivesse reclamando do treino, mas...[lr]::
 2892::$$$message_0027_0000_0001$$$::Pode ser que eu esteja mais afim de lutar com a Saber se eu tiver algum tipo de movimento especial que me deixa fazer algo apenas por saber ele.::
 2893::$$$message_0027_0001_0000$$$::"Saber, quero te perguntar algo."[lr]::
-2894::$$$message_0027_0001_0001$$$::"Que foi, Shirou...? Tenho a sensação de que você está me olhando com altas expectativas."::
-2895::$$$message_0027_0002_0000$$$::"Sério? Bem, se você descrever assim, é um pedido e tenho altas expectativas. Para ser franco, quero que me ensine algo."::
-2896::$$$message_0027_0003_0000$$$::"...okay. Um, não sei se entendo bem o que você quer dizer, mas vou te instruir em qualquer coisa que eu possa fazer."::
-2897::$$$message_0027_0004_0000$$$::A Saber deve pensar que é uma conversa séria, já que ela se ajusta e se senta ao estilo Japonês em minha frente.::
+2894::$$$message_0027_0001_0001$$$::"Que foi, Shirou...? Você parece... bem esperançoso"::
+2895::$$$message_0027_0002_0000$$$::"Sério? Bom, pode dizer que é um pedido. E eu to com bastante expectativa nisso. Pra ser direto... tem uma coisa que eu queria que você me ensinasse."::
+2896::$$$message_0027_0003_0000$$$::"...Entendo. Um, não sei se entendo bem o que você quer dizer, mas vou te instruir em qualquer coisa que eu possa fazer."::
+2897::$$$message_0027_0004_0000$$$::A Saber assume uma postura séria e se senta em seiza à minha frente.::
 2898::$$$message_0027_0005_0000$$$::"Então, o que deseja saber? É sobre os Servos?"[lr]::
 2899::$$$message_0027_0005_0001$$$::A Saber me olha com seriedade.::
 2900::$$$message_0027_0006_0000$$$::"[line5]Hm."[lr]::
@@ -14,35 +14,35 @@ id=qid::label=str::text=lstr::
 2902::$$$message_0027_0007_0000$$$::"Um. Não estou brincando nem nada do tipo, então quero que me escute sem ficar brava."::
 2903::$$$message_0027_0008_0000$$$::"Sim, por isso que estou ouvindo atentamente. Me pergunte sem medo."::
 2904::$$$message_0027_0009_0000$$$::"Então, vou aceitar isso e te perguntar.[lr]::
-2905::$$$message_0027_0009_0001$$$::[line2]Um, bem. Se houver um, pode me ensinar um golpe especial fácil que me deixa derrotar qualquer Servo? Idealmente algo que me deixe derrotar até você."::
+2905::$$$message_0027_0009_0001$$$::[line2]Tipo... existe alguma técnica secreta que eu possa aprender pra derrotar um Servo? De preferencência, algo forte o bastante pra derrubar até você."::
 2906::$$$message_0027_0010_0000$$$::"[line5]"[lr]::
-2907::$$$message_0027_0010_0001$$$::A Saber para de respirar.::
+2907::$$$message_0027_0010_0001$$$::A Saber prende a respiração.::
 2908::$$$message_0027_0011_0000$$$::"[line5]"[lr]::
 2909::$$$message_0027_0011_0001$$$::Ela nem mesmo mexe uma sobrancelha.::
 2910::$$$message_0027_0012_0000$$$::"[line2]A-acho que não tem nada tão conveniente assim, huh...!?[lr]::
 2911::$$$message_0027_0012_0001$$$::Me desculpa, me desculpa mesmo...! Foi só uma brincadeira, não leve a sério e finja que não ouviu isso! Vai me ajudar... muito..."::
 2912::$$$message_0027_0013_0000$$$::[line3]Uh.[lr]::
 2913::$$$message_0027_0013_0001$$$::A Saber-san está fazendo um sorriso maligno.::
-2914::$$$message_0027_0014_0000$$$::"S-Saber...? Pode ser só eu, mas você tem um sorriso inadequadamente maligno em seu rosto."::
-2915::$$$message_0027_0015_0000$$$::"Não é só você. Neste instante, minha mente está tão levada quanto a da Rin."::
+2914::$$$message_0027_0014_0000$$$::"S-Saber...? Posso estar enganado, mas... esse sorriso não combina muito com você..."::
+2915::$$$message_0027_0015_0000$$$::"Não é impressão sua. No momento estou tão irritada quanto a Rin costuma ficar."::
 2916::$$$message_0027_0016_0000$$$::"...!!!!"[lr]::
-2917::$$$message_0027_0016_0001$$$::Sinto um calafrio, sinto um calafrio...!::
+2917::$$$message_0027_0016_0001$$$::Um arrepio percorre o meu corpo...!::
 2918::$$$message_0027_0017_0000$$$::"Uh, wa, uh."[lr]::
 2919::$$$message_0027_0017_0001$$$::"Por que você está com medo, Shirou? Não respondi sua pergunta ainda. Se não te ouvi errado, acredito que você deseja um golpe especial que vai derrotar um Servo em um único golpe?"::
 2920::$$$message_0027_0018_0000$$$::Eu recuo, mas a Saber avança e não me deixa escapar.::
-2921::$$$message_0027_0019_0000$$$::"Ah[line2]um, bem... Saber, você está puta, né?"[lr]::
-2922::$$$message_0027_0019_0001$$$::"Sim, muito."::
+2921::$$$message_0027_0019_0000$$$::"Ah[line2]É... bom... Saber... você tá brava, né?"[lr]::
+2922::$$$message_0027_0019_0001$$$::"Muito."::
 2923::$$$message_0027_0020_0000$$$::[line2]Morri.[lr]::
 2924::$$$message_0027_0020_0001$$$::Se fosse uma luta real, ela certamente teria me matado já.::
 2925::$$$message_0027_0021_0000$$$::"[line3]Calma, muita calma Saber.[lr]::
-2926::$$$message_0027_0021_0001$$$::Contemplei minhas ações, acho que sei porque você está puta também."[lr]::
-2927::$$$message_0027_0021_0002$$$::"Entendo. Então sente aqui em estilo japonês. Não posso me acalmar sem te explicar as coisas."::
+2926::$$$message_0027_0021_0001$$$::Contemplei minhas ações, acho que sei porque você está irritada também."[lr]::
+2927::$$$message_0027_0021_0002$$$::"Então, faz assim... senta aí em seiza, por favor.. se eu não te explicar direito, não vou conseguir me acalmar."::
 2928::$$$message_0027_0022_0000$$$::A Saber rapidamente levanta.[lr]::
 2929::$$$message_0027_0022_0001$$$::Rapidamente endireito minhas costas e me preparo.::
 2930::$$$message_0027_0023_0000$$$::"[line5]"[lr]::
 2931::$$$message_0027_0023_0001$$$::A Saber respira fundo.[lr]::
 2932::$$$message_0027_0023_0002$$$::Então.::
-2933::$$$message_0027_0024_0000$$$::"[line3]Tá brincando comigo...!? Tá pensando o que, pedindo uma trapaça como um golpe especial que derrota um oponente em um golpe!?!!!"[normal]::
+2933::$$$message_0027_0024_0000$$$::"[line3]VOCÊ ESTÁ DE BRINCADEIRA COMIGO...!? O QUE PRETENDE FAZER QUERENDO UMA TÉCNICA MORTAL DESSAS?!!!"[normal]::
 2934::$$$message_0027_0025_0000$$$::"Ah[line3]uh."[lr]::
 2935::$$$message_0027_0025_0001$$$::Meus canais auditivos estão em panico.[lr]::
 2936::$$$message_0027_0025_0002$$$::Nunca pensei que cairia apenas por ouvir uma voz irritada.[lr]::
@@ -55,9 +55,9 @@ id=qid::label=str::text=lstr::
 2943::$$$message_0027_0028_0000$$$::"Primeiramente, já te disse pra não pensar em derrotar seu oponente! Pense primeiro em sua segurança! Se houvesse um golpe especial pra você, deveria haver consciência o bastante pra evitar entrar numa situação que requeira o uso dele!"::
 2944::$$$message_0027_0029_0000$$$::"Uh... entendi. Eu entendi, então[line2]abaixa a voz um pouco."[lr]::
 2945::$$$message_0027_0029_0001$$$::Coloco minhas mãos juntas pra mostrar que peço desculpas.::
-2946::$$$message_0027_0030_0000$$$::"...Geez, tinha algumas expectativas de você, mas você é tão instável. Se for assim, é perigoso demais te deixar sozinho."[lr]::
+2946::$$$message_0027_0030_0000$$$::"...Pra ser sincera... achei que você tinha algum potencial. Mas aí, logo depois, você me vem com isso. Mas desse jeito... não dá pra te deixar sozinho."[lr]::
 2947::$$$message_0027_0030_0001$$$::O sermão da Saber continua.::
-2948::$$$message_0027_0031_0000$$$::"...aff."[lr]::
+2948::$$$message_0027_0031_0000$$$::"...Aff."[lr]::
 2949::$$$message_0027_0031_0001$$$::Foi minha culpa por pisar na cauda do leão.[lr]::
 2950::$$$message_0027_0031_0002$$$::Vou ficar quieto e receber a reclamação da Saber até ela estar satisfeita.::
 

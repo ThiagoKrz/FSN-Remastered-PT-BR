@@ -1,246 +1,247 @@
 DAT
 id=qid::label=str::text=lstr::
-12047::$$$message_0121_0000_0000$$$::A batalha entre os dois terminou.[lr]::
-12048::$$$message_0121_0000_0001$$$::Eles se mataram e se exterminaram com todas as forças, e no final, o cavaleiro vermelho foi aniquilado.::
-12049::$$$message_0121_0001_0000$$$::O salão mudou completamente.[lr]::
-12050::$$$message_0121_0001_0001$$$::O chão está rachado em vários pedaços.[lr]::
-12051::$$$message_0121_0001_0002$$$::Muitas das paredes foram demolidas.[lr]::
-12052::$$$message_0121_0001_0003$$$::As escadas desmoronaram, e o mármore foi pulverizado e levado pelo vento.[lr]::
-12053::$$$message_0121_0001_0004$$$::O lugar foi totalmente destruído, sem deixar para trás os sinais de beleza que tinha antes.[lr]::
-12054::$$$message_0121_0001_0005$$$::Você poderia afirmar que o tempo foi destruído também.[lr]::
-12055::$$$message_0121_0001_0006$$$::Porque os destroços estão escondendo a aparência que esse local tinha há apenas duas horas atrás.::
+12047::$$$message_0121_0000_0000$$$::E assim, a batalha entre os dois chegou ao fim.[lr]::
+12048::$$$message_0121_0000_0001$$$::Depois de lutarem até se matarem, a disputa terminou com o desaparecimento do cavaleiro vermelho.::
+12049::$$$message_0121_0001_0000$$$::O salão que antes exibia todo o seu esplendor tinha mudado por completo.[lr]::
+12050::$$$message_0121_0001_0001$$$::O chão está rachado em incontáveis partes.[lr]::
+12051::$$$message_0121_0001_0002$$$::As paredes foram perfuradas e derrubadas várias vezes.[lr]::
+12052::$$$message_0121_0001_0003$$$::As escadas afundaram, e o mármore despedaçado virou entulho fino espalhado pelo vento.[lr]::
+12053::$$$message_0121_0001_0004$$$::O espaço foi destruído por completo, e já não restava nenhum vestígio do salão de antes.[lr]::
+12054::$$$message_0121_0001_0005$$$::Dava até para dizer que até o próprio tempo ali tinha sido distorcido.[lr]::
+12055::$$$message_0121_0001_0006$$$::Tamanho era o rastro de destruição, que já nem parecia o mesmo lugar de duas horas atrás.::
 12056::$$$message_0121_0002_0000$$$::"[line2]"[lr]::
-12057::$$$message_0121_0002_0001$$$::Há uma escultura bem no meio que combina com a destruição.[lr]::
-12058::$$$message_0121_0002_0002$$$::Ela tem mais de dois metros de altura e se parece com a figura de um homem esculpido em uma rocha.[lr]::
-12059::$$$message_0121_0002_0003$$$::Nem é preciso dizer quem ele é.[lr]::
-12060::$$$message_0121_0002_0004$$$::O Servo da Illyasviel, Berserker.::
-12061::$$$message_0121_0003_0000$$$::O gigante não se move.[lr]::
-12062::$$$message_0121_0003_0001$$$::O corpo dele está coberto em vermelho e cheio de buracos.[lr]::
-12063::$$$message_0121_0003_0002$$$::Nenhuma parte do corpo dele saiu ilesa.::
-12064::$$$message_0121_0004_0000$$$::Primeiro, as suas pernas estão quase derretidas.[lr]::
-12065::$$$message_0121_0004_0001$$$::Segundo, o seu pescoço está com uma marca de corte.[lr]::
-12066::$$$message_0121_0004_0002$$$::Terceiro, o seu braço está quase se desprendendo do cotovelo.[lr]::
-12067::$$$message_0121_0004_0003$$$::Quarto, ele foi fatiado desde o ombro até a virilha.[lr]::
-12068::$$$message_0121_0004_0004$$$::Quinto, está saindo uma quantidade absurda de sangue do seu peito.[lr]::
-12069::$$$message_0121_0004_0005$$$::Sexto, os seus órgãos internos estão visíveis na região do abdômen.[lr]::
-12070::$$$message_0121_0004_0006$$$::O Berserker não se move.[lr]::
-12071::$$$message_0121_0004_0007$$$::Isso é normal.[lr]::
-12072::$$$message_0121_0004_0008$$$::Qualquer um que o visse nesse estado pensaria que ele está morto.::
-12073::$$$message_0121_0005_0000$$$::A batalha em si terminou bem antes.[lr]::
-12074::$$$message_0121_0005_0001$$$::Mas a Mestre do Berserker se esqueceu de dar as ordens pois esse resultado foi muito inesperado.[lr]::
-12075::$$$message_0121_0005_0002$$$::A Illya precisa ir atrás de sua presa, mas ela está apenas olhando para essa cena sem acreditar no que aconteceu.::
-12076::$$$message_0121_0006_0000$$$::"[line2]Eu não posso acreditar. Quem era esse cara?"[lr]::
-12077::$$$message_0121_0006_0001$$$::Ela sussurra com raiva.[lr]::
-12078::$$$message_0121_0006_0002$$$::A batalha que aconteceu em seu próprio território foi uma humilhação para ela.::
-12079::$$$message_0121_0007_0000$$$::O seu Servo é o mais poderoso de todos.[lr]::
-12080::$$$message_0121_0007_0001$$$::Pode haver um ou dois Servos capazes enfrentar o Hércules, o espírito heroico mais famoso que existe.[lr]::
-12081::$$$message_0121_0007_0002$$$::Mas mesmo assim o Archer, um espírito heroico desconhecido, conseguiu derrotá-lo.[lr]::
-12082::$$$message_0121_0007_0003$$$::Aquele cavaleiro vermelho lutou de igual para igual com o Berserker e conseguiu matá-lo, algo que ninguém nunca tinha feito antes.::
-12083::$$$message_0121_0008_0000$$$::[line2]O que ele fez é imperdoável.[lr]::
-12084::$$$message_0121_0008_0001$$$::Para ela, isso foi como ser esfaqueada no coração por um inseto à beira da estrada.[lr]::
-12085::$$$message_0121_0008_0002$$$::O orgulho de uma menina que se considera a mais forte de todas não pode ser afetado por alguém que só nasceu para implorar por piedade e ser pisoteado.::
-12086::$$$message_0121_0009_0000$$$::"Droga, estou furiosa![lr]::
-12087::$$$message_0121_0009_0001$$$::Derrotado seis vezes... você não pegou leve com ele, não é Berserker!?"[lr]::
+12057::$$$message_0121_0002_0001$$$::No centro daquele cenário em ruínas, havia uma estátua à altura da devastação.[lr]::
+12058::$$$message_0121_0002_0002$$$::Com mais de dois metros de altura, parecia a imagem grosseira de um homem talhado à força de um rochedo.[lr]::
+12059::$$$message_0121_0002_0003$$$::Nem precisava dizer.[lr]::
+12060::$$$message_0121_0002_0004$$$::Era o Servo de Illyasviel, Berserker.::
+12061::$$$message_0121_0003_0000$$$::O gigante permanecia imóvel.[lr]::
+12062::$$$message_0121_0003_0001$$$::Seu corpo inteiro estava coberto de vermelho, com vários buracos espalhados por ele.[lr]::
+12063::$$$message_0121_0003_0002$$$::Não havia um único ponto sem ferimento.:: 
+12064::$$$message_0121_0004_0000$$$::Primeiro, as duas pernas estavam à beira de desabar.[lr]::
+12065::$$$message_0121_0004_0001$$$::Segundo, havia uma marca de corte profundo em seu pescoço.[lr]::
+12066::$$$message_0121_0004_0002$$$::Terceiro, os braços mal continuavam presos pelos cotovelos.[lr]::
+12067::$$$message_0121_0004_0003$$$::Quarto, ele havia sido atravessado do ombro até a virilha.[lr]::
+12068::$$$message_0121_0004_0004$$$::Quinto, uma enorme quantidade de sangue jorrava de seu peito.[lr]::
+12069::$$$message_0121_0004_0005$$$::Sexto, seu abdômen tinha sido perfurado, abrindo um vazio ali.[lr]::
+12070::$$$message_0121_0004_0006$$$::Berserker não se movia.[lr]::
+12071::$$$message_0121_0004_0007$$$::Era óbvio.[lr]::
+12072::$$$message_0121_0004_0008$$$::Aquilo era, sem dúvida nenhuma, um cadáver.:: 
+12073::$$$message_0121_0005_0000$$$::A luta em si tinha sido decidida em menos de uma hora.[lr]::
+12074::$$$message_0121_0005_0001$$$::Só que o resultado foi tão inesperado que a Mestra de Berserker ficou sem reação.[lr]::
+12075::$$$message_0121_0005_0002$$$::Ela deveria ter ido imediatamente atrás da presa, mas continuava apenas encarando aquela cena de destruição, perplexa.:: 
+12076::$$$message_0121_0006_0000$$$::"[line2]Não acredito. Quem era aquele cara?"[lr]::
+12077::$$$message_0121_0006_0001$$$::Ela murmura, cheia de rancor.[lr]::
+12078::$$$message_0121_0006_0002$$$::A batalha travada ali não tinha sido nada além de uma humilhação para a garota.:: 
+12079::$$$message_0121_0007_0000$$$::O Servo dela é o mais forte.[lr]::
+12080::$$$message_0121_0007_0001$$$::Mesmo entre todos os Espíritos Heroicos, talvez só um ou dois pudessem rivalizar com Hércules, o herói de maior fama.[lr]::
+12081::$$$message_0121_0007_0002$$$::E ainda assim, um Archer desconhecido derrotou aquele herói.[lr]::
+12082::$$$message_0121_0007_0003$$$::Aquele cavaleiro vermelho lutou de igual para igual com Berserker e, no fim, realizou algo que ninguém jamais tinha conseguido, matar Berserker.:: 
+12083::$$$message_0121_0008_0000$$$::[line2]Isso era imperdoável.[lr]::
+12084::$$$message_0121_0008_0001$$$::Para a garota, era como se um inseto da beira da estrada tivesse perfurado o seu coração.[lr]::
+12085::$$$message_0121_0008_0002$$$::Ser encurralada por alguém que deveria apenas ser pisoteado e feito implorar por misericórdia era algo que o orgulho da garota, que se julgava a mais forte, jamais aceitaria.:: 
+12086::$$$message_0121_0009_0000$$$::"Ah, que raiva![lr]::
+12087::$$$message_0121_0009_0001$$$::Ser abatido seis vezes por um cara daqueles... você não estava pegando leve com ele, estava, Berserker!?"[lr]::
 12088::$$$message_0121_0009_0002$$$::"[line4]"[lr]::
-12089::$$$message_0121_0009_0003$$$::A escultura não responde.[lr]::
-12090::$$$message_0121_0009_0004$$$::Talvez ele não consiga dar uma resposta, ou talvez ele ache que não é necessário.[lr]::
-12091::$$$message_0121_0009_0005$$$::O Berserker fica apenas parado no lugar e se concentra em curar as suas feridas.::
-12092::$$$message_0121_0010_0000$$$::...Essa batalha também foi muito estranha para ele.[lr]::
-12093::$$$message_0121_0010_0001$$$::O seu "Fantasma Nobre" anula qualquer ataque.[lr]::
-12094::$$$message_0121_0010_0002$$$::Nenhum ataque pode afetar o seu corpo, a menos que seja de um nível bastante elevado.[lr]::
-12095::$$$message_0121_0010_0003$$$::Por conta disso, ele raramente fica ferido.[lr]::
-12096::$$$message_0121_0010_0004$$$::Na era dos deuses, ninguém conseguia causar um arranhão nele depois que ele ficou conhecido pelos seus atos grandiosos.::
-12097::$$$message_0121_0011_0000$$$::Mas mesmo assim, seis vezes.[lr]::
-12098::$$$message_0121_0011_0001$$$::O Archer conseguiu dar um ataque mortal nele seis vezes seguidas.[lr]::
-12099::$$$message_0121_0011_0002$$$::Nem é preciso dizer que esses ataques foram feitos de maneiras diferentes.[lr]::
-12100::$$$message_0121_0011_0003$$$::Até os ataques mais poderosos não funcionam duas vezes contra o Berserker.::
-12101::$$$message_0121_0012_0000$$$::...Essa é a parte estranha.[lr]::
-12102::$$$message_0121_0012_0001$$$::Se o Archer é um herói com habilidades tão variadas assim, a sua identidade verdadeira já deveria estar clara.[lr]::
-12103::$$$message_0121_0012_0002$$$::Mas mesmo assim, a identidade dele continua sendo um mistério mesmo depois que o seu corpo foi aniquilado.[lr]::
-12104::$$$message_0121_0012_0003$$$::Algo que surpreendeu mais ainda foi o seu jeito de agir, que era completamente diferente do comportamento de um Servo.::
+12089::$$$message_0121_0009_0003$$$::A estátua não responde.[lr]::
+12090::$$$message_0121_0009_0004$$$::Talvez não tenha folga para responder, ou talvez nem ache que isso seja necessário.[lr]::
+12091::$$$message_0121_0009_0005$$$::Berserker só permanece ali, concentrado em regenerar o próprio corpo.:: 
+12092::$$$message_0121_0010_0000$$$::Para ele também, aquela tinha sido uma luta completamente fora do normal.[lr]::
+12093::$$$message_0121_0010_0001$$$::Seu Fantasma Nobre anula todo tipo de ataque.[lr]::
+12094::$$$message_0121_0010_0002$$$::Se não for um golpe de altíssimo nível, nada atravessa seu corpo.[lr]::
+12095::$$$message_0121_0010_0003$$$::Por isso, ele raramente sofre ferimentos.[lr]::
+12096::$$$message_0121_0010_0004$$$::Na era dos mitos, depois de alcançar seus grandes feitos, ninguém mais foi capaz de feri lo.:: 
+12097::$$$message_0121_0011_0000$$$::E, no entanto, desta vez foram seis vezes.[lr]::
+12098::$$$message_0121_0011_0001$$$::Archer desferiu seis golpes letais contra ele.[lr]::
+12099::$$$message_0121_0011_0002$$$::Nem é preciso dizer que todos foram ataques diferentes.[lr]::
+12100::$$$message_0121_0011_0003$$$::Afinal, até o golpe mais poderoso deixa de funcionar se for usado duas vezes contra Berserker.:: 
+12101::$$$message_0121_0012_0000$$$::Mas, se isso já era anormal, havia algo ainda mais estranho.[lr]::
+12102::$$$message_0121_0012_0001$$$::Se Archer fosse realmente um herói com tantas habilidades diferentes, sua identidade já deveria ter ficado clara.[lr]::
+12103::$$$message_0121_0012_0002$$$::Só que, mesmo depois de seu corpo ser destruído, a verdadeira identidade de Archer continuava sendo um mistério.[lr]::
+12104::$$$message_0121_0012_0003$$$::O mais surpreendente era justamente o modo como ele existia, algo contraditório demais para um Servo.:: 
 12105::$$$message_0121_0013_0000$$$::"[line5]"[lr]::
-12106::$$$message_0121_0013_0001$$$::...Uma luz brilha nos olhos do Berserker.[lr]::
-12107::$$$message_0121_0013_0002$$$::Se ele tivesse sido invocado como um Servo de outra classe, estaria se lamentando agora e dizendo que essa batalha "merecia mais do que isso".[lr]::
-12108::$$$message_0121_0013_0003$$$::Independentemente da identidade do Archer, ele era um inimigo excelente e raro de se encontrar.[lr]::
-12109::$$$message_0121_0013_0004$$$::Se o Hércules não estivesse tomado pela fúria, ele poderia ter se igualado com as técnicas de espada do Archer e ter tido uma luta prazerosa, que traria alegria ao seu coração.::
-12110::$$$message_0121_0014_0000$$$::"...Eu não vou perdoá-los. Eu jamais vou perdoá-los. Como eles ousam me insultar tanto assim...!"[lr]::
-12111::$$$message_0121_0014_0001$$$::A voz de sua Mestre ecoa por todo o salão.[lr]::
-12112::$$$message_0121_0014_0002$$$::E com isso, o pequeno brilho de racionalidade desaparece.[lr]::
-12113::$$$message_0121_0014_0003$$$::Agora ele é apenas um Berserker.[lr]::
-12114::$$$message_0121_0014_0004$$$::A sua função é derrotar os seus adversários e esmagá-los conforme a vontade de sua Mestre.::
-12115::$$$message_0121_0015_0000$$$::"Já terminou de se curar, Berserker!?"[lr]::
+12106::$$$message_0121_0013_0001$$$::...Uma fraca luz se acende nos olhos de Berserker.[lr]::
+12107::$$$message_0121_0013_0002$$$::Se ele tivesse sido invocado como um Servo são, talvez lamentasse o rumo daquela luta, achando um desperdício que ela tivesse acabado assim.[lr]::
+12108::$$$message_0121_0013_0003$$$::Seja qual fosse sua verdadeira identidade, Archer tinha sido um inimigo raro e formidável.[lr]::
+12109::$$$message_0121_0013_0004$$$::Se não tivesse tido a razão roubada, talvez pudesse ter cruzado espadas com Archer até se dar por satisfeito e até aproveitado aquilo do fundo do coração.:: 
+12110::$$$message_0121_0014_0000$$$::"...Eu não vou perdoar. Nunca vou perdoar. Como eles ousaram me humilhar desse jeito...!"[lr]::
+12111::$$$message_0121_0014_0001$$$::A voz de sua Mestra ecoa pelo salão destruído.[lr]::
+12112::$$$message_0121_0014_0002$$$::E qualquer pequeno resquício de racionalidade que estava voltando desaparece na mesma hora.[lr]::
+12113::$$$message_0121_0014_0003$$$::Agora ele é apenas Berserker.[lr]::
+12114::$$$message_0121_0014_0004$$$::Sua função é esmagar e aniquilar os inimigos de sua Mestra.:: 
+12115::$$$message_0121_0015_0000$$$::"Já se curou, Berserker!?"[lr]::
 12116::$$$message_0121_0015_0001$$$::"[line5]"[lr]::
-12117::$$$message_0121_0015_0002$$$::Ele nem precisa responder.[lr]::
-12118::$$$message_0121_0015_0003$$$::As feridas que não são fatais podem ser curadas dentro de alguns minutos.[lr]::
-12119::$$$message_0121_0015_0004$$$::Porém[line2]levaria três dias para ele se regenerar completamente.[lr]::
-12120::$$$message_0121_0015_0005$$$::"Eu não posso esperar isso tudo! Não importa, vamos matá-los agora mesmo!"[lr]::
-12121::$$$message_0121_0015_0006$$$::"[line5]"::
-12122::$$$message_0121_0016_0000$$$::O gigante se recusa em silêncio.[lr]::
-12123::$$$message_0121_0016_0001$$$::Está no próprio instinto dele.[lr]::
-12124::$$$message_0121_0016_0002$$$::O Berserker tem uma intuição semelhante com a da Saber quando se trata de batalhas.::
-12125::$$$message_0121_0017_0000$$$::É verdade que os inimigos podem ser esmagados facilmente.[lr]::
-12126::$$$message_0121_0017_0001$$$::Mas a situação muda se o Servo Saber tiver se recuperado o bastante para poder usar o seu Fantasma Nobre.[lr]::
-12127::$$$message_0121_0017_0002$$$::O Berserker não acredita que vai ser derrotado por causa de uma espada sagrada, mas essa pequena chance ainda existe.[lr]::
-12128::$$$message_0121_0017_0003$$$::O seu instinto lhe diz que ele só deveria lutar contra esse Servo quando estiver em perfeitas condições.::
-12129::$$$message_0121_0018_0000$$$::"...Que foi? Cinco já devem ser o bastante, não é? Eles não têm chance de vencer mesmo se você estivesse sem a Mão de Deus.[lr]::
-12130::$$$message_0121_0018_0001$$$::Ou você vai deixá-los escapar depois de terem zombado tanto de mim, Berserker?"[lr]::
+12117::$$$message_0121_0015_0002$$$::Berserker nem precisa responder.[lr]::
+12118::$$$message_0121_0015_0003$$$::Se o ferimento não for mortal, ele se cura em questão de minutos.[lr]::
+12119::$$$message_0121_0015_0004$$$::Mas, para se restaurar por completo desta vez, seriam necessários três dias.[lr]::
+12120::$$$message_0121_0015_0005$$$::"Eu não posso esperar tudo isso! Dane se, vamos matar eles agora mesmo!"[lr]::
+12121::$$$message_0121_0015_0006$$$::"[line5]":: 
+12122::$$$message_0121_0016_0000$$$::O gigante protesta em silêncio.[lr]::
+12123::$$$message_0121_0016_0001$$$::É quase instintivo.[lr]::
+12124::$$$message_0121_0016_0002$$$::Quando o assunto é combate, Berserker tem instintos parecidos com os de Saber.:: 
+12125::$$$message_0121_0017_0000$$$::De fato, seus inimigos podem ser varridos com facilidade.[lr]::
+12126::$$$message_0121_0017_0001$$$::Mas, se o Servo Saber se recuperou o suficiente para voltar a usar sua espada sagrada, a história muda.[lr]::
+12127::$$$message_0121_0017_0002$$$::Berserker não cairia para uma simples espada sagrada, mas ainda existia a menor das chances de algo dar errado.[lr]::
+12128::$$$message_0121_0017_0003$$$::Seu instinto dizia que, se fosse lutar contra aquele Servo, deveria enfrentá lo estando em perfeitas condições.:: 
+12129::$$$message_0121_0018_0000$$$::"...O quê? Cinco vidas já são mais do que suficientes. Aqueles dois não são ameaça nem sem a sua God Hand.[lr]::
+12130::$$$message_0121_0018_0001$$$::Ou o quê? Você vai deixar eles escaparem mesmo depois de terem feito pouco de nós, Berserker?"[lr]::
 12131::$$$message_0121_0018_0002$$$::"......"[lr]::
-12132::$$$message_0121_0018_0003$$$::"Entendeu agora? Eu não vou deixar ninguém fugir da minha floresta. Sim, eu vou entregar a Rin e a Saber para você. Pode ficar à vontade para matá-las ou estuprá-las se quiser."[lr]::
-12133::$$$message_0121_0018_0004$$$::"Entendeu agora? Eu não vou deixar ninguém fugir da minha floresta. Sim, eu vou entregar a Rin e a Saber para você. Pode ficar à vontade para matá-las ou brincar com elas se quiser."[lr]::
-12134::$$$message_0121_0018_0005$$$::A menina pula das escadas.[lr]::
-12135::$$$message_0121_0019_0000$$$::Nesse instante.[lr]::
-12136::$$$message_0121_0019_0001$$$::A menina para de andar, como se tivesse se lembrado de alguma coisa.[lr]::
-12137::$$$message_0121_0019_0002$$$::"Então, vamos começar com a caçada, Berserker.[lr]::
-12138::$$$message_0121_0019_0003$$$::Mas você não pode matar o Mestre da Saber muito rápido, entendeu?[lr]::
-12139::$$$message_0121_0019_0004$$$::Eu vou matar o Shirou da maneira mais dolorosa possível."[lr]::
-12140::$$$message_0121_0019_0005$$$::A menina sai do castelo com um sorriso no rosto.::
-12141::$$$message_0121_0020_0000$$$::[line2]O Sol deve nascer em breve.[lr]::
-12142::$$$message_0121_0020_0001$$$::A floresta é como se fosse o jardim dela.[lr]::
-12143::$$$message_0121_0020_0002$$$::Não importa onde a sua presa esteja se escondendo, não vai difícil de encontrá-la.[lr]::
-12144::$$$message_0121_0020_0003$$$::Uma vez sendo alvos, eles só têm mais alguns minutos de vida.::
-12145::$$$message_0121_0021_0000$$$::Então.[lr]::
-12146::$$$message_0121_0021_0001$$$::Eu não sei bem o porquê, mas fui obrigado a sair a ruína.[lr]::
-12147::$$$message_0121_0021_0002$$$::...Olha, tudo bem que eu compartilhei a minha energia mágica com a Saber, mas a Tohsaka disse que eu tinha que sair de lá pois as garotas precisam de tempo para se arrumar... trocar de roupa, e tudo mais.::
-12148::$$$message_0121_0022_0000$$$::"[line2]Droga, do que ela está falando? Os rapazes também precisam se arrumar."[lr]::
-12149::$$$message_0121_0022_0001$$$::Eu resmungo, apoiado contra a parede.[lr]::
-12150::$$$message_0121_0022_0002$$$::Isso tem cara de ser uma desculpa porque realmente é uma.::
+12132::$$$message_0121_0018_0003$$$::"Pois é, não é? Ninguém vai escapar da minha floresta. Sim, eu deixo Rin e Saber para você. Pode matar ou brincar com elas como quiser."[lr]::
+12133::$$$message_0121_0018_0004$$$::A garota salta das escadas.[lr]::
+12134::$$$message_0121_0018_0005$$$::E atravessa os escombros em direção à saída, sem dar a mínima para Berserker, mesmo coberto de sangue.:: 
+12135::$$$message_0121_0019_0000$$$::Mas então.[lr]::
+12136::$$$message_0121_0019_0001$$$::Como se tivesse se lembrado de algo, a garota para por um instante.[lr]::
+12137::$$$message_0121_0019_0002$$$::"Vamos começar a caçada, Berserker.[lr]::
+12138::$$$message_0121_0019_0003$$$::Mas não mate o Mestre de Saber tão fácil assim, entendeu?[lr]::
+12139::$$$message_0121_0019_0004$$$::Eu mesma vou garantir que Shirou tenha a pior morte possível."[lr]::
+12140::$$$message_0121_0019_0005$$$::Sorrindo com prazer, a garota deixa o castelo.:: 
+12141::$$$message_0121_0020_0000$$$::[line2]O sol vai nascer em breve.[lr]::
+12142::$$$message_0121_0020_0001$$$::Para Illya, aquela floresta é como o próprio quintal.[lr]::
+12143::$$$message_0121_0020_0002$$$::Não importa onde a presa tente se esconder, encontrá la não será difícil.[lr]::
+12144::$$$message_0121_0020_0003$$$::Aos alvos dela, restam apenas mais alguns minutos de vida.:: 
+12145::$$$message_0121_0021_0000$$$::E então.[lr]::
+12146::$$$message_0121_0021_0001$$$::Por algum motivo, eu fui expulso das ruínas.[lr]::
+12147::$$$message_0121_0021_0002$$$::...Quer dizer, tudo bem eu ter transferido minha energia mágica para a Saber, mas a Tohsaka disse que eu tinha que sair porque as garotas precisavam de tempo para se arrumar... trocar de roupa e coisas do tipo.::
+12148::$$$message_0121_0022_0000$$$::"[line2]Droga, do que ela está falando? Homens também precisam se arrumar."[lr]::
+12149::$$$message_0121_0022_0001$$$::Reclamo, encostado na parede.[lr]::
+12150::$$$message_0121_0022_0002$$$::Mas isso claramente é só uma desculpa, e bem óbvia.:: 
 12151::$$$message_0121_0023_0000$$$::"......"[lr]::
 12152::$$$message_0121_0024_0000$$$::"...Ugh."[lr]::
-12153::$$$message_0121_0024_0001$$$::Eu me lembro e então tento me livrar dos meus desejos.[lr]::
-12154::$$$message_0121_0024_0002$$$::Não consigo pensar nisso agora.[lr]::
-12155::$$$message_0121_0024_0003$$$::Se eu continuar com minhas memórias com Saber, serei um homem morto. Mais do que tudo, seria rude com Saber.::
+12153::$$$message_0121_0024_0001$$$::A lembrança volta, e eu tento afastar esses pensamentos a força.[lr]::
+12154::$$$message_0121_0024_0002$$$::Não posso ficar pensando nisso agora.[lr]::
+12155::$$$message_0121_0024_0003$$$::Se eu continuar lembrando do que aconteceu com a Saber, vou acabar me destruindo. Mais do que isso, seria desrespeitoso com ela.:: 
 12156::$$$message_0121_0025_0000$$$::"[line3]Ah"[lr]::
-12157::$$$message_0121_0025_0001$$$::Agora que me lembrei daquela cena, eu tento rapidamente me livrar dos meus desejos sexuais.[lr]::
-12158::$$$message_0121_0026_0000$$$::Afinal, eu fiz sexo com a Saber para poder salvá-la.[lr]::
-12159::$$$message_0121_0026_0001$$$::Então eu não deveria ficar sentindo outras emoções por ela.[lr]::
-12160::$$$message_0121_0026_0002$$$::Independentemente de como ela é macia e de ter sido prazeroso, aquilo foi[line2]::
-12161::$$$message_0121_0026_0003$$$::Afinal, eu fiquei em contato direto com a Saber para poder salvá-la.[lr]::
-12162::$$$message_0121_0026_0004$$$::Então eu não deveria ficar sentindo outras emoções por ela.::
-12163::$$$message_0121_0026_0005$$$::Sinceramente... não tenho tempo para me preocupar com esse tipo de coisa.[lr]::
-12164::$$$message_0121_0026_0006$$$::Nossa preocupação agora é como lutar contra o Berserker.::
+12157::$$$message_0121_0025_0001$$$::Só de lembrar daquela cena, tento desesperadamente reprimir esses desejos.[lr]::
+12158::$$$message_0121_0026_0000$$$::Afinal, eu me 'conectei' com a Saber para salvá la.[lr]::
+12159::$$$message_0121_0026_0001$$$::Então não faz sentido eu nutrir outros sentimentos por causa disso.[lr]::
+12160::$$$message_0121_0026_0002$$$::Mesmo que tenha sido macio, quente... e bom, aquilo foi[line2]:: 
+12161::$$$message_0121_0026_0003$$$::Afinal, eu entrei em contato direto com a Saber para salvá la.[lr]::
+12162::$$$message_0121_0026_0004$$$::Então não devo pensar nisso de outra forma.:: 
+12163::$$$message_0121_0026_0005$$$::...Além disso, não tenho tempo para me preocupar com esse tipo de coisa.[lr]::
+12164::$$$message_0121_0026_0006$$$::O problema agora é como vamos enfrentar o Berserker.:: 
 12165::$$$message_0121_0027_0000$$$::"[line4]!"[lr]::
-12166::$$$message_0121_0027_0001$$$::Como eu sou mentiroso.[lr]::
-12167::$$$message_0121_0027_0002$$$::Eu não consigo me enganar com essa desculpa.[lr]::
-12168::$$$message_0121_0028_0000$$$::"...É verdade. Eu tenho que fazer o que for preciso. Foi isso o que ele me disse nos seus momentos finais."[lr]::
-12169::$$$message_0121_0028_0001$$$::Eu me lembro das costas do Archer.[lr]::
-12170::$$$message_0121_0028_0002$$$::...Nunca cheguei a gostar dele, mas mesmo assim as suas palavras não saem da minha cabeça.::
-12171::$$$message_0121_0028_0003$$$::I may not be much help, but I'm going to do whatever I can, as best I can.::
+12166::$$$message_0121_0027_0001$$$::Que piada.[lr]::
+12167::$$$message_0121_0027_0002$$$::Nem eu acredito nessa desculpa.:: 
+12168::$$$message_0121_0028_0000$$$::"...É isso. Eu tenho que fazer o que puder. Foi isso que ele disse no final."[lr]::
+12169::$$$message_0121_0028_0001$$$::Lembro das costas do Archer.[lr]::
+12170::$$$message_0121_0028_0002$$$::...Eu nunca gostei dele, mas mesmo assim, aquelas palavras ficaram comigo.:: 
+12171::$$$message_0121_0028_0003$$$::Posso não ser de muita ajuda, mas vou fazer tudo o que puder, da melhor forma possível.:: 
 12172::$$$message_0121_0029_0000$$$::"......"[lr]::
-12173::$$$message_0121_0029_0001$$$::Eu fico olhando para um galho de árvore qualquer.[lr]::
-12174::$$$message_0121_0029_0002$$$::...Só há algumas coisas que eu posso fazer.[lr]::
-12175::$$$message_0121_0029_0003$$$::E mesmo assim, só vou conseguir fazer essas coisas se der o meu melhor.::
-12176::$$$message_0121_0029_0004$$$::Volto para as ruínas, carregando os galhos que coletei.::
-12177::$$$message_0121_0030_0000$$$::Eu quebro um dos galhos.[lr]::
-12178::$$$message_0121_0030_0001$$$::E também encontro mais alguns galhos retos.[lr]::
-12179::$$$message_0121_0031_0000$$$::...Bem, agora só tem um problema...[lr]::
-12180::$$$message_0121_0031_0001$$$::Será que eu vou conseguir encarar a Saber depois de nós termos feito aquilo?::
-12181::$$$message_0121_0032_0000$$$::"Vem aqui, Shirou. A Rin tem uma coisa para te contar."[lr]::
-12182::$$$message_0121_0032_0001$$$::[line2]Parece que eu era o único que estava me preocupando com isso.::
-12183::$$$message_0121_0033_0000$$$::A Saber está agindo da mesma maneira de sempre.[lr]::
-12184::$$$message_0121_0033_0001$$$::Diferente de mim, ela já deve ter superado o incidente.::
-12185::$$$message_0121_0033_0002$$$::Eu sou tão burro, sendo o único que está corando com isso, então vou fazer o meu melhor para manter a compostura.::
-12186::$$$message_0121_0034_0000$$$::"T[line2]Tá bom, já estou indo."[lr]::
+12173::$$$message_0121_0029_0001$$$::Fico encarando um galho qualquer no chão.[lr]::
+12174::$$$message_0121_0029_0002$$$::...No fim, só existem algumas poucas coisas que eu posso fazer.[lr]::
+12175::$$$message_0121_0029_0003$$$::E mesmo assim, só consigo fazê las se me esforçar ao máximo.:: 
+12176::$$$message_0121_0029_0004$$$::Volto para as ruínas, carregando os galhos que juntei.:: 
+12177::$$$message_0121_0030_0000$$$::Quebro um dos galhos.[lr]::
+12178::$$$message_0121_0030_0001$$$::E seleciono alguns outros que sejam mais retos.[lr]::
+12179::$$$message_0121_0031_0000$$$::...Bom, agora só tem um problema...[lr]::
+12180::$$$message_0121_0031_0001$$$::Será que consigo olhar para a Saber normalmente depois daquilo?:: 
+12181::$$$message_0121_0032_0000$$$::"Shirou, venha aqui. A Rin quer te dizer uma coisa."[lr]::
+12182::$$$message_0121_0032_0001$$$::[line2]Pelo visto, eu era o único me preocupando com isso.:: 
+12183::$$$message_0121_0033_0000$$$::Saber está agindo como sempre.[lr]::
+12184::$$$message_0121_0033_0001$$$::Diferente de mim, ela já superou aquilo.:: 
+12185::$$$message_0121_0033_0002$$$::Que idiota... só eu fico corando por causa disso. Então preciso agir normalmente.:: 
+12186::$$$message_0121_0034_0000$$$::"T Tá bom, já vou."[lr]::
 12187::$$$message_0121_0034_0001$$$::...Droga, eu não posso perder.[lr]::
-12188::$$$message_0121_0034_0002$$$::É constrangedor ser o único que está com o rosto vermelho, então eu tenho que me esforçar para parecer que estou tranquilo.::
-12189::$$$message_0121_0035_0000$$$::"Você finalmente veio. Então vamos começar com a reunião estratégica, mas saibam que nós não temos tempo para ficar discutindo.[lr]::
-12190::$$$message_0121_0035_0001$$$::Só há algumas formas de derrotar o Berserker, então vocês poderiam ouvir o que eu tenho a dizer primeiro?"[lr]::
-12191::$$$message_0121_0035_0002$$$::Eu e a Saber acenamos com a cabeça.::
-12192::$$$message_0121_0036_0000$$$::"O plano é bem simples.[lr]::
-12193::$$$message_0121_0037_0000$$$::"...Eu concordo. Mesmo que eu troque golpes com o Berserker, não vou ser capaz de causar uma ferida mortal nele. Se quisermos derrotá-lo, temos que fazer isso fora de combate."::
-12194::$$$message_0121_0037_0001$$$::Bem, claro, acho que é imprudente ficar cara a cara com ele, mas isso parece imprudente. Ele não é do tipo que simplesmente deixa algo assim acontecer."::
-12195::$$$message_0121_0038_0000$$$::"...Fora de combate... quer dizer, atacar o Berserker antes que ele note a nossa presença...?[lr]::
-12196::$$$message_0121_0038_0001$$$::Bem, vocês estão certas que seria irresponsável lutar contra ele diretamente, mas esse plano é mais irresponsável ainda. Alguém como ele não vai deixar ser pego de surpresa."::
-12197::$$$message_0121_0039_0000$$$::"Sim, nós não temos nenhum plano otimista que garante que podemos nos aproximar do Berserker sem sermos notados.[lr]::
-12198::$$$message_0121_0039_0001$$$::Estamos contra a Illyasviel. Ela vai perceber a presença do Shirou e da Saber facilmente. Já eu não vou ser afetada porque consigo esconder a minha presença."::
-12199::$$$message_0121_0039_0002$$$::E se Tohsaka é a única que consegue se esconder...::
+12188::$$$message_0121_0034_0002$$$::É vergonhoso ser o único sem graça aqui, então preciso me controlar.:: 
+12189::$$$message_0121_0035_0000$$$::"Até que enfim. Vamos direto ao plano. Não temos tempo para discutir muito.[lr]::
+12190::$$$message_0121_0035_0001$$$::Existem poucas maneiras de derrotar o Berserker, então escutem primeiro o que eu tenho a dizer."[lr]::
+12191::$$$message_0121_0035_0002$$$::Eu e a Saber assentimos.:: 
+12192::$$$message_0121_0036_0000$$$::"O plano é simples.[lr]::
+12193::$$$message_0121_0037_0000$$$::"...Concordo. Mesmo trocando golpes com ele, não consigo causar dano letal. Para derrotá lo, precisamos de outro método.":: 
+12194::$$$message_0121_0037_0001$$$::"Sim, enfrentar ele de frente é imprudente. Mas esse plano também parece arriscado. Ele não é do tipo que cai nisso.":: 
+12195::$$$message_0121_0038_0000$$$::"...Então atacar fora de combate... quer dizer, antes que ele perceba?[lr]::
+12196::$$$message_0121_0038_0001$$$::Entendo a ideia, mas alguém como ele não vai ser pego de surpresa.":: 
+12197::$$$message_0121_0039_0000$$$::"Exato. Não temos garantia de que podemos nos aproximar sem sermos notados.[lr]::
+12198::$$$message_0121_0039_0001$$$::Estamos lidando com Illyasviel. Ela vai perceber Shirou e Saber imediatamente. Eu sou a única que consegue esconder a presença.":: 
+12199::$$$message_0121_0039_0002$$$::Então, se só a Tohsaka pode se esconder...:: 
 12200::$$$message_0121_0040_0000$$$::...Hm.[lr]::
-12201::$$$message_0121_0041_0000$$$::"...Não me diga que você é quem vai fazer o ataque surpresa."::
-12202::$$$message_0121_0041_0001$$$::"You make it sound so easy, but you sure as hell know it won't be."::
-12203::$$$message_0121_0042_0000$$$::"Mas é claro. Ela está doida para te encontrar, e eu sou a mais adequada para essa função. Deixem que eu vou atacar o Berserker pelas costas."[lr]::
-12204::$$$message_0121_0042_0001$$$::"Falar é fácil, mas o Berserker não vai baixar a guarda assim."::
-12205::$$$message_0121_0043_0000$$$::"Eu sei que não. É por isso que eu vou precisar que a Saber crie uma abertura para mim.[lr]::
-12206::$$$message_0121_0043_0001$$$::Saber, o quanto você se recuperou?"::
-12207::$$$message_0121_0044_0000$$$::"Uma batalha normal não deve ser problema, mas eu deveria evitar de usar o meu Fantasma Nobre.[lr]::
-12208::$$$message_0121_0044_0001$$$::Baseado na quantidade de energia mágica que o Shirou me deu, eu não seria capaz de sustentar o meu corpo depois que usasse o Fantasma Nobre. E mesmo que eu acabe usando, ele não deve sair em sua força total, então acho que não seria o suficiente para derrotar o Berserker."::
-12209::$$$message_0121_0045_0000$$$::"Sim, isso já é o suficiente. Eu vou precisar que você lute com o Berserker. E o Shirou também, é claro.[lr]::
-12210::$$$message_0121_0045_0001$$$::Eu vou ficar apenas observando enquanto fico escondida. Eu sou apenas um bônus para a Illyasviel, então ela vai pensar que eu fugi ou então que simplesmente não estou ali."::
-12211::$$$message_0121_0045_0002$$$::Shirou parece ser amigável com Illyasviel, então ele pode enganá-la conversando com ela."[lr]::
-12212::$$$message_0121_0045_0003$$$::Tohsaka looks at me meaningfully.::
-12213::$$$message_0121_0046_0000$$$::"...Bem. Olha... Eu acho que isso é possível, mas..."[lr]::
-12214::$$$message_0121_0046_0001$$$::"Se as chances forem baixas, só é preciso aumentá-las.[lr]::
-12215::$$$message_0121_0047_0000$$$::"...Eu não sou muito a favor disso, mas vou aceitar.[lr]::
-12216::$$$message_0121_0047_0001$$$::A Illya deve acreditar em mim se eu disser a ela que você fugiu. Acho que ela não duvidaria de ninguém."::
-12217::$$$message_0121_0048_0000$$$::"Mas ainda resta um problema.[lr]::
-12218::$$$message_0121_0048_0001$$$::Eu não me importo em lutar com o Berserker, mas não posso salvar o Shirou ao mesmo tempo. Ele não é capaz de resistir aos ataques do Berserker."::
-12219::$$$message_0121_0048_0002$$$::"Isso é tolice. Shirou não é versado em magia como você.[lr]::
-12220::$$$message_0121_0048_0003$$$::O que ele pode fazer para me apoiar?"::
-12221::$$$message_0121_0049_0000$$$::"Eu não estou dizendo para o Shirou enfrentar o Berserker com as próprias mãos.[lr]::
-12222::$$$message_0121_0049_0001$$$::Ele vai te dar apoio pelas suas costas. Vai ser difícil para a Saber lutar sozinha com o Berserker, então ajude sempre que ela estiver em perigo."[lr]::
-12223::$$$message_0121_0050_0000$$$::"O Shirou vai pensar em alguma coisa.[lr]::
-12224::$$$message_0121_0050_0001$$$::...Mas de qualquer forma, nenhum Mestre é capaz de interferir numa luta contra o Berserker. Nem mesmo eu seria muito útil se estivesse no lugar dele."::
-12225::$$$message_0121_0050_0002$$$::"Isso é... verdade, mas..."::
-12226::$$$message_0121_0051_0000$$$::"Mas nós também não podemos nos dar o luxo de deixar alguém sem fazer nada.[lr]::
-12227::$$$message_0121_0051_0001$$$::Eu sei que a Saber vai sumir se o Shirou morrer, mas eu ainda preciso que ele faça isso. ...Afinal, essa batalha nunca deixou de ser uma aposta."[lr]::
-12228::$$$message_0121_0052_0000$$$::A Saber fica em silêncio com uma preocupação em seu rosto.[lr]::
-12229::$$$message_0121_0052_0001$$$::E como a Tohsaka também ficou quieta, ela deve ter percebido que acabou de dizer uma coisa irracional.::
-12230::$$$message_0121_0052_0002$$$::Na noite em que Berserker atacou... a única coisa que consegui usar para defendê-la foi meu próprio corpo.[lr]::
-12231::$$$message_0121_0052_0003$$$::Há uma forte possibilidade de que estejamos caminhando para uma repetição do que aconteceu naquela noite.[lr]::
-12232::$$$message_0121_0052_0004$$$::Portanto, embora seja melhor me distanciar do campo de batalha, não farei isso, a menos que me obriguem.::
-12233::$$$message_0121_0053_0000$$$::A preocupação das duas é completamente normal.[lr]::
-12234::$$$message_0121_0053_0001$$$::Naquela noite em que conheci a Saber...[lr]::
-12235::$$$message_0121_0053_0002$$$::Quando nós fomos atacados pelo Berserker, tudo o que pude fazer foi usar o meu corpo para protegê-la.[lr]::
-12236::$$$message_0121_0054_0000$$$::"Tudo bem. Eu sei como posso ajudar."[lr]::
+12201::$$$message_0121_0041_0000$$$::"...Você pretende fazer o ataque surpresa sozinha?":: 
+12202::$$$message_0121_0041_0001$$$::"Você fala como se fosse fácil, mas sabe muito bem que não é.":: 
+12203::$$$message_0121_0042_0000$$$::"Claro que não é. Mas ela está atrás de você, então eu sou a melhor opção. Vou atacar o Berserker pelas costas."[lr]::
+12204::$$$message_0121_0042_0001$$$::"Falar é fácil, mas ele não vai baixar a guarda assim.":: 
+12205::$$$message_0121_0043_0000$$$::"Eu sei. Por isso preciso que a Saber crie uma abertura.[lr]::
+12206::$$$message_0121_0043_0001$$$::Saber, quanto você se recuperou?":: 
+12207::$$$message_0121_0044_0000$$$::"Consigo lutar normalmente, mas devo evitar usar meu Fantasma Nobre.[lr]::
+12208::$$$message_0121_0044_0001$$$::Com a energia que recebi do Shirou, não conseguiria manter meu corpo depois disso. E mesmo usando, não seria suficiente para derrotá lo.":: 
+12209::$$$message_0121_0045_0000$$$::"Já basta. Preciso que você lute com ele. E você também, Shirou.[lr]::
+12210::$$$message_0121_0045_0001$$$::Eu vou observar escondida. Para Illya, sou só um bônus, então ela pode achar que eu fugi.":: 
+12211::$$$message_0121_0045_0002$$$::"Shirou tem certa proximidade com ela, então pode distraí la.":: 
+12212::$$$message_0121_0045_0003$$$::Tohsaka me encara com significado.:: 
+12213::$$$message_0121_0046_0000$$$::"...Tá. Acho que dá, mas..."[lr]::
+12214::$$$message_0121_0046_0001$$$::"Se as chances são baixas, é só aumentá las.[lr]::
+12215::$$$message_0121_0047_0000$$$::"...Não gosto muito disso, mas tudo bem.[lr]::
+12216::$$$message_0121_0047_0001$$$::Se eu disser que você fugiu, ela vai acreditar.":: 
+12217::$$$message_0121_0048_0000$$$::"Mas ainda temos um problema.[lr]::
+12218::$$$message_0121_0048_0001$$$::Posso lutar, mas não consigo proteger Shirou ao mesmo tempo.":: 
+12219::$$$message_0121_0048_0002$$$::"Ele não é como você. Não é bom com magia.[lr]::
+12220::$$$message_0121_0048_0003$$$::O que ele pode fazer?":: 
+12221::$$$message_0121_0049_0000$$$::"Ele não vai lutar diretamente.[lr]::
+12222::$$$message_0121_0049_0001$$$::Vai dar suporte pelas suas costas. Se você estiver em perigo, ele ajuda.":: 
+12223::$$$message_0121_0050_0000$$$::"Ele vai dar um jeito.[lr]::
+12224::$$$message_0121_0050_0001$$$::...Mas, sinceramente, ninguém consegue interferir numa luta contra Berserker.":: 
+12225::$$$message_0121_0050_0002$$$::"Isso é verdade, mas...":: 
+12226::$$$message_0121_0051_0000$$$::"Mas também não podemos deixar ninguém parado.[lr]::
+12227::$$$message_0121_0051_0001$$$::Se Shirou morrer, Saber desaparece... mas mesmo assim precisamos disso. Essa luta sempre foi uma aposta.":: 
+12228::$$$message_0121_0052_0000$$$::Saber fica em silêncio, preocupada.[lr]::
+12229::$$$message_0121_0052_0001$$$::E Tohsaka também percebe que foi longe demais.:: 
+12230::$$$message_0121_0052_0002$$$::Naquela noite... quando fomos atacados por Berserker...[lr]::
+12231::$$$message_0121_0052_0003$$$::A única coisa que pude fazer foi usar meu corpo para protegê la.[lr]::
+12232::$$$message_0121_0052_0004$$$::Há uma grande chance disso se repetir.:: 
+12233::$$$message_0121_0053_0000$$$::A preocupação delas é natural.[lr]::
+12234::$$$message_0121_0053_0001$$$::Naquela noite em que conheci Saber...[lr]::
+12235::$$$message_0121_0053_0002$$$::Quando Berserker nos atacou, só consegui protegê la com meu próprio corpo.:: 
+12236::$$$message_0121_0054_0000$$$::"Tá tudo bem. Eu sei o que posso fazer."[lr]::
 12237::$$$message_0121_0054_0001$$$::"Hã?"[lr]::
-12238::$$$message_0121_0054_0002$$$::Espera, o que eu disse foi tão inesperado assim?::
-12239::$$$message_0121_0055_0000$$$::"Eu só tenho que dar apoio à distância, não é?[lr]::
-12240::$$$message_0121_0055_0001$$$::Nesse caso, tem uma coisa que eu posso fazer."[lr]::
-12241::$$$message_0121_0055_0002$$$::Depois de dizer isso, eu mostro a elas o galho que coletei.::
-12242::$$$message_0121_0055_0003$$$::Basically, I just need to layer my Strengthening until it turns into something substantial. ::
-12243::$$$message_0121_0056_0000$$$::O comprimento é perfeito. A flexibilidade também é boa.[lr]::
-12244::$$$message_0121_0056_0001$$$::...Essa é a primeira vez que eu faço esse tipo de "fortalecimento".[lr]::
-12245::$$$message_0121_0056_0002$$$::Mas a princípio não tem como dar errado.[lr]::
-12246::$$$message_0121_0057_0000$$$::Já que ele usava um desses, eu também tenho uma referência.[lr]::
-12247::$$$message_0121_0057_0001$$$::E além do mais, eu estou com energia mágica fluindo pelo meu corpo já faz um tempo.[lr]::
-12248::$$$message_0121_0057_0002$$$::Agora eu só tenho que repetir o mesmo processo de sempre.::
+12238::$$$message_0121_0054_0002$$$::...Foi tão inesperado assim?:: 
+12239::$$$message_0121_0055_0000$$$::"Eu só preciso dar suporte à distância, certo?[lr]::
+12240::$$$message_0121_0055_0001$$$::Então tem algo que eu posso fazer."[lr]::
+12241::$$$message_0121_0055_0002$$$::Digo isso mostrando o galho que trouxe.:: 
+12242::$$$message_0121_0055_0003$$$::Basicamente, eu só preciso sobrepor o reforço até transformar isso em algo sólido.:: 
+12243::$$$message_0121_0056_0000$$$::O tamanho é bom. A flexibilidade também.[lr]::
+12244::$$$message_0121_0056_0001$$$::...É a primeira vez que faço esse tipo de reforço.[lr]::
+12245::$$$message_0121_0056_0002$$$::Mas não tem motivo para dar errado.:: 
+12246::$$$message_0121_0057_0000$$$::Eu analiso a estrutura básica e a modifico.[lr]::
+12247::$$$message_0121_0057_0001$$$::Eu analiso os materiais que a compõem e os reforço.[lr]::
+12248::$$$message_0121_0057_0002$$$::...Mas, partindo de um galho e tentando chegar naquele arco, ainda falta alguma coisa.[lr]::
 12249::$$$message_0121_0057_0003$$$::Preciso pensar nisso do ponto de vista da criação.[lr]::
-12250::$$$message_0121_0057_0004$$$::Se eu quiser fazer algo o mais próximo possível da realidade, preciso imaginar tudo o que puder sobre isso, nos mínimos detalhes.::
-12251::$$$message_0121_0058_0000$$$::Eu analiso a estrutura básica e a modifico.[lr]::
-12252::$$$message_0121_0058_0001$$$::Eu analiso os materiais que a compõem e os reforço.[lr]::
-12253::$$$message_0121_0059_0000$$$::...Eu abro os olhos.[lr]::
-12254::$$$message_0121_0059_0001$$$::O galho está no formato certo, mas[line2]::
-12255::$$$message_0121_0059_0002$$$::E ainda assim... posso dizer que funcionará bem como um arco.[lr]::
-12256::$$$message_0121_0059_0003$$$::Agora só falta criar uma seta seguindo o mesmo conceito.::
-12257::$$$message_0121_0060_0000$$$::"Nossa, não cheguei nem perto."[lr]::
-12258::$$$message_0121_0060_0001$$$::Ele está todo feio e torto.[lr]::
-12259::$$$message_0121_0060_0002$$$::Mas eu sei que pelo menos funciona como um arco normal.[lr]::
-12260::$$$message_0121_0061_0000$$$::"[line2]Shirou, isso foi..."[lr]::
-12261::$$$message_0121_0061_0001$$$::"Sim. Acho que eu peguei o jeito depois de toda aquela coisa com o Shinji. Você também disse que eu não deveria me esforçar demais."[lr]::
-12262::$$$message_0121_0061_0002$$$::"...Entendo. Bem, pelo menos a gente tem um jeito de atacar, então já está bom."::
-12263::$$$message_0121_0061_0003$$$::Isso é tudo que existe em nosso plano. É bem simples."[lr]::
-12264::$$$message_0121_0061_0004$$$::Tohsaka volta sua atenção para nós, verificando se temos alguma dúvida.::
-12265::$$$message_0121_0062_0000$$$::"Voltando ao que eu estava dizendo.[lr]::
-12266::$$$message_0121_0062_0001$$$::Eu vou precisar que vocês dois ataquem o Berserker. Eu vou subir no topo de uma árvore e observar a luta de cima.[lr]::
-12267::$$$message_0121_0063_0000$$$::"... Joias... essa é a sua magia?[lr]::
-12268::$$$message_0121_0063_0001$$$::Mas uma magia comum não vai afetar o Berserker. Nós precisamos de um ataque completamente puro para que ele seja ferido."::
-12269::$$$message_0121_0064_0000$$$::"Eu sei. Você quer dizer que nós precisamos de um ataque de Classe A, certo?"[lr]::
-12270::$$$message_0121_0064_0001$$$::Depois de dizer isso, a Tohsaka retira uma joia de seu bolso.::
-12271::$$$message_0121_0065_0000$$$::"[line2]O que é essa joia?"[lr]::
-12272::$$$message_0121_0065_0001$$$::"Isso é o que eu estive guardando e juntando desde que era pequena. Uma joia dessas pode criar uma magia superior de Classe A automaticamente. Eu tinha dez no total, mas usei uma delas em você."::
-12273::$$$message_0121_0066_0000$$$::"Entendo[line2]se for a mesma magia daquele dia, o Berserker com certeza não vai conseguir se defender.[lr]::
-12274::$$$message_0121_0066_0001$$$::Ele não possui tanta resistência quanto eu. Até mesmo um ataque mágico pode perfurar o Berserker se ele for de Classe A[line2]"::
-12275::$$$message_0121_0066_0002$$$::However...::
-12276::$$$message_0121_0067_0000$$$::"Exatamente. Eu pensei em gastá-las em pequenas quantidades, mas não posso fazer isso na situação em que estamos. Eu devo usar duas ou três joias inteiras no Berserker."[lr]::
-12277::$$$message_0121_0067_0001$$$::A Tohsaka diz isso com confiança.[lr]::
-12278::$$$message_0121_0068_0000$$$::"...Ei, você não acha que está sendo meio mesquinha?"[lr]::
-12279::$$$message_0121_0068_0001$$$::"...Também acho. Eu sei que não deveria dizer isso, mas acredito que você deveria ser mais generosa e usar pelo menos metade de suas joias."::
-12280::$$$message_0121_0069_0000$$$::"Ugh... q-que foi? Isso é problema meu, não é!?[lr]::
-12281::$$$message_0121_0069_0001$$$::Vocês não conseguem entender como foi difícil juntar isso tudo!?"::
-12282::$$$message_0121_0069_0002$$$::Saber e eu protestamos silenciosamente.[lr]::
-12283::$$$message_0121_0069_0003$$$::A vida de Tohsaka também depende desta operação. Não podemos falhar só porque ela está sendo mesquinha.::
-12284::$$$message_0121_0070_0000$$$::"......"[lr]::
-12285::$$$message_0121_0070_0001$$$::"......"[lr]::
-12286::$$$message_0121_0071_0000$$$::"...Está bem. Eu vou usar metade das joias, ok!?[lr]::
-12287::$$$message_0121_0071_0001$$$::...Que foi? Eu estou falando sério. Também entendo a preocupação de vocês."::
-12288::$$$message_0121_0072_0000$$$::"[line2]Enfim, esse vai ser o nosso plano.[lr]::
-12289::$$$message_0121_0072_0001$$$::Agora nós temos que procurar por um local onde eu possa me esconder e que o Shirou consiga ajudar a Saber sem nenhum problema. Vamos logo, antes que a Illyasviel nos encontre primeiro."::
-12290::$$$message_0121_0072_0002$$$::Mas antes disso...[lr]::
+12250::$$$message_0121_0057_0004$$$::Se quero chegar o mais próximo possível do original, preciso imaginar todos os detalhes.:: 
+12251::$$$message_0121_0058_0000$$$::Eu abro os olhos.[lr]::
+12252::$$$message_0121_0058_0001$$$::O galho curvado até que ficou no formato, mas ainda falta algo...:: 
+12253::$$$message_0121_0059_0000$$$::"Droga, não chega nem perto."[lr]::
+12254::$$$message_0121_0059_0001$$$::Está feio... todo distorcido.[lr]::
+12255::$$$message_0121_0059_0002$$$::Mesmo assim, dá pra dizer que funciona como um arco.[lr]::
+12256::$$$message_0121_0059_0003$$$::Agora só preciso fazer uma flecha com a mesma lógica.:: 
+12257::$$$message_0121_0060_0000$$$::"Shirou, isso que você acabou de fazer..."[lr]::
+12258::$$$message_0121_0060_0001$$$::"Sim. Acho que peguei o jeito depois daquilo com o Shinji. Você mesma disse pra não forçar demais."[lr]::
+12259::$$$message_0121_0060_0002$$$::"...Entendo. Bom, já que você tem um meio de atacar, não vou reclamar.":: 
+12260::$$$message_0121_0061_0000$$$::"Voltando ao plano.[lr]::
+12261::$$$message_0121_0061_0001$$$::Vocês dois vão enfrentar o Berserker. Eu vou subir numa árvore antes e observar de cima.[lr]::
+12262::$$$message_0121_0061_0002$$$::E quando a Saber criar uma abertura, vou atacar o Berserker pelo ponto cego dele, de cima, usando todas as minhas joias.[lr]::
+12263::$$$message_0121_0061_0003$$$::Esse é o plano. Simples assim."[lr]::
+12264::$$$message_0121_0061_0004$$$::Tohsaka nos observa, como se perguntasse se temos dúvidas.:: 
+12265::$$$message_0121_0062_0000$$$::"Joias...? Essa é a sua magia, Rin?[lr]::
+12266::$$$message_0121_0062_0001$$$::Mesmo assim, magia comum não vai atingir o Berserker. Para feri lo, precisamos de um ataque de nível máximo.":: 
+12267::$$$message_0121_0063_0000$$$::"Eu sei. Ou seja, precisa ser um ataque de rank A."[lr]::
+12268::$$$message_0121_0063_0001$$$::Dizendo isso, Tohsaka tira várias joias do bolso.:: 
+12269::$$$message_0121_0064_0000$$$::"Essas joias..."[lr]::
+12270::$$$message_0121_0064_0001$$$::"Pensa nisso como minhas economias de uma vida inteira. Cada uma pode liberar instantaneamente uma magia de rank A. Eu tinha dez, mas usei uma em você.":: 
+12271::$$$message_0121_0065_0000$$$::"Entendo... se for do mesmo nível de antes, então Berserker não conseguirá se defender.[lr]::
+12272::$$$message_0121_0065_0001$$$::Ele não tem resistência mágica como eu. Mesmo sendo magia, se for rank A, vai atravessar.":: 
+12273::$$$message_0121_0066_0000$$$::"Exatamente. Eu pensei em usar aos poucos, mas não temos tempo. Vou usar duas ou três direto no Berserker."[lr]::
+12274::$$$message_0121_0066_0001$$$::Tohsaka estufa o peito com confiança.[lr]::
+12275::$$$message_0121_0066_0002$$$::Mas...:: 
+12276::$$$message_0121_0067_0000$$$::"Ei. Você não está sendo meio econômica demais?"[lr]::
+12277::$$$message_0121_0067_0001$$$::"Concordo. Pode não ser meu lugar falar, mas acho que deveria usar pelo menos metade.":: 
+12278::$$$message_0121_0068_0000$$$::"Ugh... Q que é isso!? Isso é problema meu![lr]::
+12279::$$$message_0121_0068_0001$$$::Vocês não têm ideia do quanto foi difícil juntar isso tudo!":: 
+12280::$$$message_0121_0069_0000$$$::"......"[lr]::
+12281::$$$message_0121_0069_0001$$$::"......"[lr]::
+12282::$$$message_0121_0069_0002$$$::Eu e Saber protestamos em silêncio.[lr]::
+12283::$$$message_0121_0069_0003$$$::A vida da Tohsaka também depende disso. Não dá pra falhar por economia.:: 
+12284::$$$message_0121_0070_0000$$$::"...Tá bom. Metade, certo? Metade![lr]::
+12285::$$$message_0121_0070_0001$$$::...Ah, qual é. Eu só queria dizer isso. Eu sei o que está em jogo.":: 
+12286::$$$message_0121_0071_0000$$$::"Enfim, esse é o plano.[lr]::
+12287::$$$message_0121_0071_0001$$$::Agora só precisamos achar um lugar pra eu me esconder e um ponto onde Shirou possa ajudar a Saber. Vamos nos preparar antes que Illyasviel chegue.":: 
+12288::$$$message_0121_0072_0000$$$::...Sim, não podemos mais ficar nessas ruínas.[lr]::
+12289::$$$message_0121_0072_0001$$$::Como a Tohsaka disse, precisamos achar um lugar para esperar o Berserker.[lr]::
+12290::$$$message_0121_0072_0002$$$::Mas antes disso...:: 
+

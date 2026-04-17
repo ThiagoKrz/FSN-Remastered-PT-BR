@@ -2,152 +2,153 @@ DAT
 id=qid::label=str::text=lstr::
 7202::$$$message_0069_0000_0000$$$::[line2]Eu subo as escadas correndo.[lr]::
 7203::$$$message_0069_0000_0001$$$::A Rider e o Shinji estão no terceiro andar.[lr]::
-7204::$$$message_0069_0000_0002$$$::Eu sei disso porque o meu Selo de Comando reage quando o Shinji está por perto.::
-7205::$$$message_0069_0001_0000$$$::Assim que chego no terceiro andar, eu vejo faíscas voando.[lr]::
+7204::$$$message_0069_0000_0002$$$::Eu sei que o Shinji ainda está no terceiro andar pela reação do meu Selo de Comando.::
+7205::$$$message_0069_0001_0000$$$::Assim que ponho os pés no corredor do terceiro andar, faíscas voam.[lr]::
 7206::$$$message_0069_0001_0001$$$::"Rider...!?"[lr]::
-7207::$$$message_0069_0001_0002$$$::Eu não consegui ver a tempo, mas a Saber deve ter percebido que a Rider atacaria por cima e bloqueou o ataque dela.::
-7208::$$$message_0069_0001_0003$$$::"[line2]Shirou, eu vou derrotar a Rider.[lr]::
-7209::$$$message_0069_0001_0004$$$::Por favor, vá atrás do Mestre dela...!"::
-7210::$$$message_0069_0002_0000$$$::Ela não precisa me dizer isso.[lr]::
-7211::$$$message_0069_0002_0001$$$::Eu sei que a Saber consegue derrotá-la sem precisar de ajuda.[lr]::
-7212::$$$message_0069_0002_0002$$$::Depois que lutei contra a Rider, eu consegui ter uma noção do quanto ela é forte.[lr]::
-7213::$$$message_0069_0002_0003$$$::Mas mesmo assim, a Saber é muito mais forte do que ela.::
-7214::$$$message_0069_0003_0000$$$::"Eu conto contigo...! Mas não vá longe demais. Assim que eu capturar o Shinji, tudo vai acabar...!"[lr]::
+7207::$$$message_0069_0001_0002$$$::Eu não vi, mas a Saber deve ter percebido a emboscada da Rider vinda de cima e repelido o ataque dela.::
+7208::$$$message_0069_0001_0003$$$::"[line2]Shirou, eu derroto a Rider.[lr]::
+7209::$$$message_0069_0001_0004$$$::Você cuide do Mestre dela...!"::
+7210::$$$message_0069_0002_0000$$$::Ela nem precisava dizer isso.[lr]::
+7211::$$$message_0069_0002_0001$$$::A Saber não vai ficar atrás da Rider.[lr]::
+7212::$$$message_0069_0002_0002$$$::É uma certeza que eu tenho depois de lutar contra a Rider e sentir, ainda que por um instante, a força dela.[lr]::
+7213::$$$message_0069_0002_0003$$$::A capacidade de combate da Saber está muito acima da Rider.::
+7214::$$$message_0069_0003_0000$$$::"Conto com você...! Mas não vá longe demais. Assim que eu parar o Shinji, isso acaba...!"[lr]::
 7215::$$$message_0069_0003_0001$$$::Eu passo correndo pela Saber.[lr]::
-7216::$$$message_0069_0003_0002$$$::A Rider arremessa a adaga na minha direção para tentar me matar, mas na mesma hora, a Saber contra-ataca para bloqueá-la e me deixar passar direto[line2]!::
-7217::$$$message_0069_0004_0000$$$::Eu atravesso o corredor em alta velocidade.[lr]::
-7218::$$$message_0069_0004_0001$$$::O Shinji está logo na minha frente, totalmente desesperado.[lr]::
-7219::$$$message_0069_0004_0002$$$::"...Eu estou em desvantagem lutando de mãos vazias[line2]!"[lr]::
-7220::$$$message_0069_0004_0003$$$::Qualquer objeto comprido já serve como uma arma, como por exemplo[line2]o esfregão que está dentro desse armário...!::
+7216::$$$message_0069_0003_0002$$$::No mesmo instante, a adaga da Rider vem para me matar, e o golpe da Saber a repele junto com a própria Rider[line2]!::
+7217::$$$message_0069_0004_0000$$$::Eu corro pelo corredor.[lr]::
+7218::$$$message_0069_0004_0001$$$::Lá na frente está o Shinji, completamente desnorteado.[lr]::
+7219::$$$message_0069_0004_0002$$$::"...Tá, lutar de mãos vazias é desvantagem demais[line2]!"[lr]::
+7220::$$$message_0069_0004_0003$$$::Se for pra usar como arma, basta ser algo de haste longa, tipo[line2]esse esfregão no armário...!::
 7221::$$$message_0069_0005_0000$$$::"[line2]Trace, on."[lr]::
-7222::$$$message_0069_0005_0001$$$::Eu transmito a minha energia mágica para o esfregão sem parar de correr.[lr]::
-7223::$$$message_0069_0005_0002$$$::Talvez eu tenha feito isso porque estou com pouca energia sobrando, ou então só porque não tive nenhuma ideia melhor.[lr]::
-7224::$$$message_0069_0005_0003$$$::Mas eu "fortaleci" esse esfregão de plástico de um jeito tão natural quanto respirar.::
-7225::$$$message_0069_0006_0000$$$::As sombras vêm me caçar.[lr]::
-7226::$$$message_0069_0006_0001$$$::Mas mesmo gravemente ferido, eu ainda consigo mexer bem o meu corpo.::
-7227::$$$message_0069_0007_0000$$$::E além do mais, eu tenho uma arma.[lr]::
-7228::$$$message_0069_0007_0001$$$::Então...::
-7229::$$$message_0069_0008_0000$$$::Dessa vez, eu nem precisei desviar delas.[lr]::
-7230::$$$message_0069_0008_0001$$$::Eu derrubo todas as sombras que estavam vindo me atacar só com o esfregão.[lr]::
-7231::$$$message_0069_0008_0002$$$::O esfregão quebra ao meio, mas eu já esperava isso vindo de uma arma que foi fortalecida tão rápido.[lr]::
-7232::$$$message_0069_0008_0003$$$::E eu nem vou precisar mais uma, pois agora cheguei bem perto do Shinji.::
+7222::$$$message_0069_0005_0001$$$::Eu faço a energia mágica passar por ele enquanto corro.[lr]::
+7223::$$$message_0069_0005_0002$$$::Será por falta de distrações, ou porque eu não tenho energia sobrando pra pensar em outra coisa?[lr]::
+7224::$$$message_0069_0005_0003$$$::De um jeito tão natural quanto respirar, eu "fortaleço" o esfregão de plástico.::
+7225::$$$message_0069_0006_0000$$$::As sombras aparecem[lr]::
+7226::$$$message_0069_0006_0001$$$::Mesmo depois de ter sido ferido daquele jeito, meu corpo não parece pesado.::
+7227::$$$message_0069_0007_0000$$$::E além disso, agora eu tenho uma arma.[lr]::
+7228::$$$message_0069_0007_0001$$$::Então.::
+7229::$$$message_0069_0008_0000$$$::Eu já nem preciso desviar.[lr]::
+7230::$$$message_0069_0008_0001$$$::Rebato uma por uma as sombras que vêm me atacar usando o esfregão.[lr]::
+7231::$$$message_0069_0008_0002$$$::O esfregão quebra nisso, mas pra uma arma improvisada às pressas, já era de se esperar.[lr]::
+7232::$$$message_0069_0008_0003$$$::Além disso, a essa altura eu já não preciso mais dele[line2]!::
 7233::$$$message_0069_0009_0000$$$::"Shinji[line2]!"[lr]::
-7234::$$$message_0069_0009_0001$$$::"Hii[line2]!"::
-7235::$$$message_0069_0010_0000$$$::Eu dou um soco direto nele.[lr]::
-7236::$$$message_0069_0010_0001$$$::O meu braço cortado dói tanto que eu quase desmaio.::
-7237::$$$message_0069_0011_0000$$$::Eu soco o Shinji na barriga e então o jogo contra a parede.[lr]::
+7234::$$$message_0069_0009_0001$$$::"Hii[line2]!":: 
+7235::$$$message_0069_0010_0000$$$::Eu acerto um soco bem no meio da cara dele.[lr]::
+7236::$$$message_0069_0010_0001$$$::O braço, já rasgado em tiras, lateja com uma dor forte o bastante para me fazer apagar.::
+7237::$$$message_0069_0011_0000$$$::Eu acerto a barriga do Shinji e, em seguida, o empurro contra a parede.[lr]::
 7238::$$$message_0069_0011_0001$$$::"Guh, seu...!"[lr]::
-7239::$$$message_0069_0011_0002$$$::O Shinji estica os braços para tentar se livrar de mim.[lr]::
-7240::$$$message_0069_0011_0003$$$::Eu não me seguro e dou um chute nos braços dele.[lr]::
-7241::$$$message_0069_0011_0004$$$::[line2]Eu já estou fora de controle.[lr]::
-7242::$$$message_0069_0011_0005$$$::Eu pego o braço que acabei de chutar e bato contra a parede, fazendo quebrá-lo.::
+7239::$$$message_0069_0011_0002$$$::Shinji estica o braço para tentar tirar a minha mão dele.[lr]::
+7240::$$$message_0069_0011_0003$$$::Eu chuto aquele braço sem pensar duas vezes.[lr]::
+7241::$$$message_0069_0011_0004$$$::[line2]Nem eu mesmo consigo mais me controlar.[lr]::
+7242::$$$message_0069_0011_0005$$$::Eu prenso o braço que chutei contra a parede e o quebro ali mesmo.::
 7243::$$$message_0069_0012_0000$$$::"Ah[line2]iaaaaaaaaaaaaa...!!"[lr]::
-7244::$$$message_0069_0012_0001$$$::Como é? Acho que não estou ouvindo o grito do Shinji muito bem.::
+7244::$$$message_0069_0012_0001$$$::Eu mal escuto os gritos do Shinji.::
 7245::$$$message_0069_0013_0000$$$::"[line2]"[lr]::
 7246::$$$message_0069_0013_0001$$$::...Droga.[lr]::
-7247::$$$message_0069_0013_0002$$$::Se eu não tomar cuidado, vou acabar desmaiando.[lr]::
-7248::$$$message_0069_0013_0003$$$::Eu tenho que acabar logo com isso enquanto ainda consigo mexer o meu corpo[line2]::
+7247::$$$message_0069_0013_0002$$$::Se eu vacilar, quem vai desmaiar sou eu.[lr]::
+7248::$$$message_0069_0013_0003$$$::Preciso acabar com isso antes que eu deixe até de conseguir mexer o corpo[line2]::
 7249::$$$message_0069_0014_0000$$$::"Hii...!"[lr]::
-7250::$$$message_0069_0014_0001$$$::Eu puxo o Shinji pelos cabelos e o jogo contra a parede de novo.::
-7251::$$$message_0069_0015_0000$$$::"[line2]Deixe para gritar depois. Desative o Campo de Separação agora, Shinji."[lr]::
-7252::$$$message_0069_0015_0001$$$::"A-Até aparece. Quem você... pensa que..."[lr]::
-7253::$$$message_0069_0015_0002$$$::Eu uso o meu outro braço para agarrar a garganta dele.[lr]::
-7254::$$$message_0069_0015_0003$$$::Gotas de sangue.[lr]::
-7255::$$$message_0069_0015_0004$$$::O sangue que tinha deixado as minhas roupas encharcadas agora está sendo derramado no Shinji.::
-7256::$$$message_0069_0016_0000$$$::"Nesse caso, eu vou te matar antes que o Campo de Separação mate outras pessoas. Por mim tanto faz. É melhor escolher rápido."[lr]::
-7257::$$$message_0069_0016_0001$$$::Eu coloco força na mão que está segurando a garganta do Shinji.[lr]::
-7258::$$$message_0069_0016_0002$$$::[line2]Deve ser por conta da energia mágica que está passando pelo meu corpo.[lr]::
-7259::$$$message_0069_0016_0003$$$::Eu sinto como se pudesse quebrar o pescoço dele.::
-7260::$$$message_0069_0017_0000$$$::"Ha[line2]você está blefando. Você não teria coragem de me matar. E-E eu não matei ninguém ainda. Eu só fiz as pessoas compartilharem um pouco da sua vida [r]com[line2]"[lr]::
-7261::$$$message_0069_0017_0001$$$::"[line2]Está bem. Adeus, Shinji."::
-7262::$$$message_0069_0018_0000$$$::Eu aperto a pegada na garganta dele.[lr]::
-7263::$$$message_0069_0018_0001$$$::Eu não me sinto mal por fazer isso.[lr]::
-7264::$$$message_0069_0018_0002$$$::Talvez só um pouco de pena.[lr]::
-7265::$$$message_0069_0018_0003$$$::Porque o Shinji não conhece as regras básicas dos magos[line2]e ele não sabe que assassinar outros magos não é proibido.::
-7266::$$$message_0069_0019_0000$$$::"E-Espera! Está bem, eu desisto, você venceu Emiya...! Eu vou parar o Campo de Separação agora mesmo...!"[lr]::
+7250::$$$message_0069_0014_0001$$$::Eu agarro o Shinji pelos cabelos e jogo ele contra a parede.::
+7251::$$$message_0069_0015_0000$$$::"[line2]Grite depois. Desfaça o Campo Limitado agora, Shinji."[lr]::
+7252::$$$message_0069_0015_0001$$$::"A-Acha mesmo... que eu vou obedecer você...?"[lr]::
+7253::$$$message_0069_0015_0002$$$::Com o braço que ainda obedece, eu agarro a garganta dele.[lr]::
+7254::$$$message_0069_0015_0003$$$::Plic.[lr]::
+7255::$$$message_0069_0015_0004$$$::O sangue encharcado nas minhas roupas pinga no corpo do Shinji e vai manchando ele.::
+7256::$$$message_0069_0016_0000$$$::"Então eu acabo com o seu pescoço antes mesmo do Campo Limitado. Pra mim, tanto faz. Decida logo."[lr]::
+7257::$$$message_0069_0016_0001$$$::Eu aperto a mão em volta da garganta dele.[lr]::
+7258::$$$message_0069_0016_0002$$$::[line2]Deve ser por causa da energia mágica circulando pelo meu corpo.[lr]::
+7259::$$$message_0069_0016_0003$$$::Com um pescoço desse, talvez eu realmente consiga quebrá-lo.::
+7260::$$$message_0069_0017_0000$$$::"Ha[line2]blefe. Você não consegue fazer uma coisa dessas. E-E além disso, eu ainda não matei ninguém. Só peguei um pouquinho da vida de todo mundo[r]emprestado[line2]"[lr]::
+7261::$$$message_0069_0017_0001$$$::"[line2]Entendi. Então adeus, Shinji."::
+7262::$$$message_0069_0018_0000$$$::Eu aperto com mais força.[lr]::
+7263::$$$message_0069_0018_0001$$$::Não há hesitação.[lr]::
+7264::$$$message_0069_0018_0002$$$::Mas talvez haja um resto de pena.[lr]::
+7265::$$$message_0069_0018_0003$$$::Se ele fosse um mago de verdade, já teria aprendido o básico[line2]que matar, entre magos, não é motivo de resistência moral. E nem isso o Shinji aprendeu.::
+7266::$$$message_0069_0019_0000$$$::"E-E espera! Espera! Tá bom, eu perdi, Emiya...! Eu vou parar o Campo Limitado... eu juro que vou!"[lr]::
 7267::$$$message_0069_0019_0001$$$::"......"[lr]::
-7268::$$$message_0069_0019_0002$$$::Eu afrouxo a pegada na garganta dele.::
-7269::$$$message_0069_0020_0000$$$::"[line2]Haa, haa, haa... droga. Me fazendo de idiota assim... Ei, Rider! Desative o seu Templo de Sangue![lr]::
+7268::$$$message_0069_0019_0002$$$::Eu afrouxo a mão em volta da garganta dele.::
+7269::$$$message_0069_0020_0000$$$::"[line2]Haa, haa, haa... merda, não brinca com isso... Ei, Rider! Desfaz o Templo de Sangue![lr]::
 7270::$$$message_0069_0020_0001$$$::A vida do seu Mestre está correndo perigo...!"::
 7271::$$$message_0069_0021_0000$$$::"[line5]"[lr]::
-7272::$$$message_0069_0021_0001$$$::A Rider não diz nada.[lr]::
-7273::$$$message_0069_0021_0002$$$::Mas a Saber se afasta depois de ouvir isso.[lr]::
-7274::$$$message_0069_0021_0003$$$::A Rider abaixa a sua adaga e mexe um pouco os seus lábios.::
-7275::$$$message_0069_0022_0000$$$::"...Está satisfeito agora? Esse Campo de Separação é especial, vai ser difícil construí-lo no mesmo lugar em que ele já foi armado.[lr]::
-7276::$$$message_0069_0022_0001$$$::...Eu juro que não vou construir outro Campo de Separação aqui, então me solta."::
-7277::$$$message_0069_0023_0000$$$::"Por que eu faria isso? Agora que venci, você vai ter que me obedecer. [r][line2]Shinji, livre-se dos seus Selos de Comando. Só assim eu posso garantir que nós não vamos lutar de novo."::
-7278::$$$message_0069_0024_0000$$$::"Quê[line2]Do que você está falando? Como é que eu poderia fazer isso!?[r]::
-7279::$$$message_0069_0025_0000$$$::"Você vai deixar de ser um Mestre, não vai? Nesse caso, você pode pedir asilo na igreja de Shinto. Até onde eu sei, eles protegem os Mestres que abandonarem a guerra.[lr]::
-7280::$$$message_0069_0025_0001$$$::Tem algum problema...? Por acaso você estava mentindo quando disse que só armou esse Campo de Separação para se proteger?"::
-7281::$$$message_0069_0026_0000$$$::"...Não foi isso o que quis dizer. Eu só achei que caso me tornasse um Mestre e trabalhasse com um Servo..."[lr]::
-7282::$$$message_0069_0026_0001$$$::Ele achou que poderia virar um mago de verdade?[lr]::
-7283::$$$message_0069_0026_0002$$$::...Mas o que ele ganharia com isso, afinal?::
-7284::$$$message_0069_0027_0000$$$::"[line2]Já chega, Shinji. Se você não se livrar do seu Selo de Comando, eu vou arrancar o seu braço fora."[lr]::
-7285::$$$message_0069_0027_0001$$$::"Hã...? Arrancar o meu braço fora...?"::
-7286::$$$message_0069_0028_0000$$$::Parece que o Shinji ficou confuso.[lr]::
-7287::$$$message_0069_0028_0001$$$::Ele não está fingindo desa vez. O Shinji não entendeu mesmo o que eu quis dizer.::
-7288::$$$message_0069_0029_0000$$$::"Bem, é que[line2]"[lr]::
+7272::$$$message_0069_0021_0001$$$::Rider não responde.[lr]::
+7273::$$$message_0069_0021_0002$$$::Mas, ao ouvir aquilo, Saber recua um passo diante da Rider.[lr]::
+7274::$$$message_0069_0021_0003$$$::Rider baixa a adaga e move os lábios de leve.::
+7275::$$$message_0069_0022_0000$$$::"...Era isso que você queria, não era? Ao que parece, este Campo Limitado é especial. Depois de armado uma vez, não se refaz com facilidade no mesmo lugar.[lr]::
+7276::$$$message_0069_0022_0001$$$::...Então não haverá outro aqui. Agora tira as mãos de mim."::
+7277::$$$message_0069_0023_0000$$$::"Nem pensar. Já que eu venci, vocês vão obedecer o que eu disser. [r][line2]Shinji, se livre dos seus Selos de Comando. Só assim a gente garante que não vai voltar a lutar."::
+7278::$$$message_0069_0024_0000$$$::"Quê[line2]Tá maluco!? Como é que eu faria uma coisa dessas!?[r]::
+7279::$$$message_0069_0025_0000$$$::"Você vai deixar de ser Mestre, não vai? Então vai pra igreja de Shinto. Até onde eu sei, eles protegem os Mestres que saem da guerra.[lr]::
+7280::$$$message_0069_0025_0001$$$::Ou tem outra coisa? Você estava mentindo quando disse que armou esse Campo Limitado pra se proteger?"::
+7281::$$$message_0069_0026_0000$$$::"...Eu não disse exatamente isso. É que eu achei que, se virasse Mestre e tivesse um Servo sob meu comando..."[lr]::
+7282::$$$message_0069_0026_0001$$$::Ele achou que isso faria dele um mago?[lr]::
+7283::$$$message_0069_0026_0002$$$::...Mas, mesmo que virasse, o que isso mudaria?::
+7284::$$$message_0069_0027_0000$$$::"[line2]Acabou, Shinji. Se você não abrir mão dos Selos de Comando, eu vou arrancar eles de você."[lr]::
+7285::$$$message_0069_0027_0001$$$::"Hã...? Arrancar...?"::
+7286::$$$message_0069_0028_0000$$$::Shinji inclina a cabeça, sinceramente confuso.[lr]::
+7287::$$$message_0069_0028_0001$$$::Não era encenação. O Shinji realmente não entendeu o que eu quis dizer.::
+7288::$$$message_0069_0029_0000$$$::"Não, quer dizer[line2]"[lr]::
 7289::$$$message_0069_0029_0001$$$::"Shirou, se afaste...!"[lr]::
 7290::$$$message_0069_0029_0002$$$::A voz da Saber.[lr]::
-7291::$$$message_0069_0029_0003$$$::Talvez seja por conta do nosso treinamento no dojô, mas o meu corpo reage à voz da Saber antes mesmo de eu perceber o que está acontecendo.::
-7292::$$$message_0069_0030_0000$$$::Eu largo o Shinji e pulo para trás.[lr]::
-7293::$$$message_0069_0030_0001$$$::E logo em seguida, a adaga da Rider é arremessada no mesmo lugar em que eu estava há um segundo.::
+7291::$$$message_0069_0029_0003$$$::Talvez por causa de tudo o que ela me ensinou no dojo, meu corpo reage ao grito da Saber antes que o cérebro acompanhe.::
+7292::$$$message_0069_0030_0000$$$::Eu largo o Shinji e salto para trás.[lr]::
+7293::$$$message_0069_0030_0001$$$::No mesmo instante, a adaga da Rider corta o exato lugar onde eu estava um segundo antes.::
 7294::$$$message_0069_0031_0000$$$::"R-Rider...!?"[lr]::
-7295::$$$message_0069_0031_0001$$$::"Para trás, Mestre. Nós temos que bater em retirada."::
-7296::$$$message_0069_0032_0000$$$::"Shirou, se afaste...! A Rider vai liberar toda a energia mágica que ela estava usando para sustentar o Campo de Separação...!"::
+7295::$$$message_0069_0031_0001$$$::"Afaste-se, Mestre. Vamos recuar."::
+7296::$$$message_0069_0032_0000$$$::"Shirou, se afaste...! A Rider pretende liberar toda a energia mágica que estava usando para manter o Campo Limitado...!"::
 7297::$$$message_0069_0033_0000$$$::"...!? Liberar toda a energia mágica...!?"[lr]::
-7298::$$$message_0069_0033_0001$$$::Olhando para a Rider, ela parece diferente do normal.[lr]::
-7299::$$$message_0069_0033_0002$$$::Ela conseguiu aparecer aqui em um piscar de olhos mesmo estando ocupada com a Saber... A Rider está emitindo uma pressão muito maior do que antes.::
-7300::$$$message_0069_0034_0000$$$::"R-Rider...!? Que ideia é essa? Você nem consegue derrotar o Servo do Emiya e já quer tomar decisões por conta própria...!?"::
-7301::$$$message_0069_0035_0000$$$::"Sim, é verdade que eu não consigo derrotar a Saber.[lr]::
-7302::$$$message_0069_0035_0001$$$::Mas não se preocupe. O meu Fantasma Nobre é superior ao de todos os outros Servos. Não importa quem eu esteja enfrentando, ninguém poderá encarar o meu ataque."::
-7303::$$$message_0069_0036_0000$$$::A Rider levanta a sua adaga.[lr]::
+7298::$$$message_0069_0033_0001$$$::Olhando bem, a Rider realmente parece diferente.[lr]::
+7299::$$$message_0069_0033_0002$$$::O fato de ela ter surgido aqui de repente, mesmo devendo estar enfrentando a Saber, e o frio que emana do corpo dela... tudo nela agora tem uma pressão muito mais opressiva do que antes.::
+7300::$$$message_0069_0034_0000$$$::"R-Rider...!? O que deu em você? Nem consegue vencer o Servo do Emiya e já quer tomar as rédeas da situação...!?"::
+7301::$$$message_0069_0035_0000$$$::"Sim. De fato, eu não me equiparo à Saber.[lr]::
+7302::$$$message_0069_0035_0001$$$::Mas não precisa se preocupar. Meu Fantasma Nobre supera o dos outros Servos. Seja quem for o oponente, ninguém será capaz de acompanhar minha investida."::
+7303::$$$message_0069_0036_0000$$$::Rider ergue a adaga.[lr]::
 7304::$$$message_0069_0036_0001$$$::"Quê[line2]?"[lr]::
-7305::$$$message_0069_0036_0002$$$::Todos soltam um grito de surpresa ao mesmo tempo.[lr]::
-7306::$$$message_0069_0036_0003$$$::Por algum motivo, a Rider leva a adaga até o pescoço e[line2][lr]::
-7307::$$$message_0069_0036_0004$$$::O corta de uma vez só.::
-7308::$$$message_0069_0037_0000$$$::...Sangue fresco se espalha para todos os lados.[lr]::
-7309::$$$message_0069_0037_0001$$$::A Rider vestida de preto está jorrando sangue.::
+7305::$$$message_0069_0036_0002$$$::Todos ali soltam um som de surpresa ao mesmo tempo.[lr]::
+7306::$$$message_0069_0036_0003$$$::Como se não bastasse, Rider leva a adaga ao próprio pescoço e[line2][lr]::
+7307::$$$message_0069_0036_0004$$$::o corta de uma vez.::
+7308::$$$message_0069_0037_0000$$$::...O vermelho espirra para todos os lados.[lr]::
+7309::$$$message_0069_0037_0001$$$::Do pescoço branco da Rider, envolto em preto, o sangue jorra sem parar.::
 7310::$$$message_0069_0038_0000$$$::"O-O que você..."[lr]::
-7311::$$$message_0069_0038_0001$$$::Até o Shinji, que é Mestre da Rider, não estava esperando que ela fizesse isso.[lr]::
-7312::$$$message_0069_0038_0002$$$::Ainda que os Servos tenham uma força sobre-humana, esse ferimento é mortal.[lr]::
-7313::$$$message_0069_0038_0003$$$::A Rider está perdendo tanto sangue que ela vai acabar morrendo.::
+7311::$$$message_0069_0038_0001$$$::Até o Shinji, Mestre da Rider, fica sem reação diante do que ela fez.[lr]::
+7312::$$$message_0069_0038_0002$$$::Por mais anormais que os Servos sejam, um corte desses é fatal.[lr]::
+7313::$$$message_0069_0038_0003$$$::Se continuar sangrando assim, a Rider vai acabar desaparecendo por conta própria.::
 7314::$$$message_0069_0039_0000$$$::"...!?"[lr]::
-7315::$$$message_0069_0039_0001$$$::Mas pelo jeito, nós ficamos preocupados à toa.[lr]::
-7316::$$$message_0069_0040_0000$$$::Esse é um círculo de sangue mágico.[lr]::
-7317::$$$message_0069_0040_0001$$$::Eu nunca tinha visto esse símbolo antes.[lr]::
-7318::$$$message_0069_0040_0002$$$::Há um desenho de uma criatura assustadora no meio do círculo.[lr]::
-7319::$$$message_0069_0040_0003$$$::...A Rider está concentrando uma quantidade absurda de energia mágica de uma vez só.[lr]::
-7320::$$$message_0069_0040_0004$$$::Essa coisa tem muito mais energia do que a Rider estava usando para sustentar o Campo de Separação.::
-7321::$$$message_0069_0041_0000$$$::"O quê...!? O-O meu corpo está sendo empurrado para trás[line2]"[lr]::
-7322::$$$message_0069_0041_0001$$$::Há tanta energia mágica concentrada no mesmo lugar que ela deve estar vazando.[lr]::
-7323::$$$message_0069_0041_0002$$$::O meu corpo está sendo empurrado como se eu estivesse de frente para uma ventania.::
-7324::$$$message_0069_0042_0000$$$::"Shirou, se afaste...! A Rider vai usar o Fantasma Nobre dela. Você será atingido se não sair da frente...!"[lr]::
-7325::$$$message_0069_0042_0001$$$::Depois de dizer isso, a Saber me puxa à força.[lr]::
-7326::$$$message_0069_0042_0002$$$::Ela fica de frente para o círculo mágico da Rider para me proteger.::
-7327::$$$message_0069_0043_0000$$$::"[line2]Está fugindo, Rider?[lr]::
-7328::$$$message_0069_0043_0001$$$::Se você tentar acertar o meu Mestre com essa coisa, eu vou te derrotar agora mesmo. Não vou te deixar usar esse seu Fantasma Nobre."::
-7329::$$$message_0069_0044_0000$$$::"...Fufu. É claro que não. Um Servo precisa proteger o seu Mestre, não é mesmo? Eu só vou levá-lo para um lugar mais seguro.[lr]::
-7330::$$$message_0069_0044_0001$$$::Se isso te incomoda, venha atrás de nós, Saber."::
-7331::$$$message_0069_0045_0000$$$::"Bem[line2]isso se você tiver vontade de lutar depois de ver o que vai acontecer."::
-7332::$$$message_0069_0046_0000$$$::[line2]Eu escuto o som de alguma coisa pulsando.[lr]::
-7333::$$$message_0069_0046_0001$$$::E junto com o barulho de carne sendo fatiada, os cabeços da Rider balançam para cima e[line2]::
+7315::$$$message_0069_0039_0001$$$::O sangue espalhado para no ar e, devagar, começa a desenhar um círculo.::
+7316::$$$message_0069_0040_0000$$$::É um círculo mágico traçado em sangue.[lr]::
+7317::$$$message_0069_0040_0001$$$::Um padrão que eu nunca vi antes.[lr]::
+7318::$$$message_0069_0040_0002$$$::A figura lembra uma criatura... uma criatura sinistra.[lr]::
+7319::$$$message_0069_0040_0003$$$::...Rider acabou de criar uma massa gigantesca de energia mágica.[lr]::
+7320::$$$message_0069_0040_0004$$$::Comparado a isso, o Campo Limitado de antes parece brincadeira de criança.::
+7321::$$$message_0069_0041_0000$$$::"O quê...!? O-O meu corpo tá sendo empurrado para trás[line2]"[lr]::
+7322::$$$message_0069_0041_0001$$$::A quantidade de energia mágica reunida ali é tão absurda que ela está vazando.[lr]::
+7323::$$$message_0069_0041_0002$$$::É como encarar uma ventania de frente: meu corpo vai sendo forçado para trás.::
+7324::$$$message_0069_0042_0000$$$::"Shirou, se afaste...! A Rider vai usar o Fantasma Nobre dela. Se continuar aí, você vai ser pego no ataque...!"[lr]::
+7325::$$$message_0069_0042_0001$$$::Dizendo isso, a Saber me puxa com força.[lr]::
+7326::$$$message_0069_0042_0002$$$::Ela se põe entre mim e o círculo mágico da Rider para me proteger.::
+7327::$$$message_0069_0043_0000$$$::"[line2]Vai fugir, Rider?[lr]::
+7328::$$$message_0069_0043_0001$$$::Se pretende arrastar seu Mestre junto, então basta eu acabar com você aqui mesmo. Não vou deixar que use esse Fantasma Nobre."::
+7329::$$$message_0069_0044_0000$$$::"...Fufu. Claro que não. Proteger o Mestre é dever de um Servo, não é? Eu só vou levá-lo comigo e fugir.[lr]::
+7330::$$$message_0069_0044_0001$$$::Se isso te incomoda, então venha atrás de nós, Saber."::
+7331::$$$message_0069_0045_0000$$$::"Quer dizer, se ainda lhe restar coragem para lutar depois de ver isto."::
+7332::$$$message_0069_0046_0000$$$::[line2]Eu ouço algo pulsando.[lr]::
+7333::$$$message_0069_0046_0001$$$::E, junto com um som como carne se abrindo à força, o cabelo da Rider se lança para o alto[line2]::
 7334::$$$message_0069_0047_0000$$$::"...!"[lr]::
-7335::$$$message_0069_0047_0001$$$::"Shirou, para baixo...!"::
-7336::$$$message_0069_0048_0000$$$::Sendo puxado pela Saber, eu deito no chão.[lr]::
-7337::$$$message_0069_0048_0001$$$::Em seguida, um barulho ensurdecedor e uma luz cegante vem até nós.[lr]::
-7338::$$$message_0069_0048_0002$$$::Eu fecho os olhos assim que a tempestade chega.[lr]::
-7339::$$$message_0069_0048_0003$$$::Mas mesmo de olhos fechados, eu sinto a pressão.[lr]::
-7340::$$$message_0069_0048_0004$$$::Uma coisa branca passa por cima de mim.[lr]::
-7341::$$$message_0069_0048_0005$$$::É como se um clarão estivesse atravessando o corredor em alta velocidade, feito uma flecha de luz gigante[line2]::
+7335::$$$message_0069_0047_0001$$$::"Shirou, abaixe-se...!"::
+7336::$$$message_0069_0048_0000$$$::Puxado pela Saber, eu caio no chão.[lr]::
+7337::$$$message_0069_0048_0001$$$::Então vem o estrondo, seguido pelo clarão.[lr]::
+7338::$$$message_0069_0048_0002$$$::Eu fecho os olhos diante da ventania brutal.[lr]::
+7339::$$$message_0069_0048_0003$$$::Mas, mesmo de olhos fechados, sou forçado a sentir a intensidade daquilo.[lr]::
+7340::$$$message_0069_0048_0004$$$::Alguma coisa branca passa por ali.[lr]::
+7341::$$$message_0069_0048_0005$$$::Uma massa de luz imensa[line2]uase como uma flecha luminosa — atravessa o corredor numa velocidade absurda[line2]::
 7342::$$$message_0069_0049_0000$$$::"[line5]"[lr]::
-7343::$$$message_0069_0049_0001$$$::Assim que levanto a cabeça, eu vejo aquilo que sobrou do corredor destruído.[lr]::
-7344::$$$message_0069_0049_0002$$$::O Shinji e a Rider já foram embora.[lr]::
-7345::$$$message_0069_0049_0003$$$::...A Rider não deve ter lançado esse clarão para nos atingir, mas sim para eles conseguirem escapar.::
+7343::$$$message_0069_0049_0001$$$::Quando ergo a cabeça, tudo o que resta diante de mim é destruição.[lr]::
+7344::$$$message_0069_0049_0002$$$::O Shinji e a Rider sumiram.[lr]::
+7345::$$$message_0069_0049_0003$$$::...Aquele clarão não estava mirando em nós. Pelo visto, era só um meio de escapar daqui.::
 7346::$$$message_0069_0049_0004$$$::"[line4]"[lr]::
-7347::$$$message_0069_0049_0005$$$::Os meus ferimentos começam a doer.[lr]::
-7348::$$$message_0069_0049_0006$$$::O martelo dentro de mim é solto.[lr]::
-7349::$$$message_0069_0049_0007$$$::O calor vai embora do meu corpo.::
+7347::$$$message_0069_0049_0005$$$::Meus ferimentos voltam a doer.[lr]::
+7348::$$$message_0069_0049_0006$$$::O martelo batendo dentro da minha cabeça enfim recua.[lr]::
+7349::$$$message_0069_0049_0007$$$::O calor que corria pelo meu corpo esfria depressa.::
 7350::$$$message_0069_0050_0000$$$::"Shirou...?"[lr]::
-7351::$$$message_0069_0050_0001$$$::Eu deixo de ouvir o que a Saber está dizendo.[lr]::
-7352::$$$message_0069_0050_0002$$$::My vision goes blank white.��
+7351::$$$message_0069_0050_0001$$$::Eu já não consigo mais ouvir a voz da Saber.[lr]::
+7352::$$$message_0069_0050_0002$$$::Minha visão se apaga em branco.::
+

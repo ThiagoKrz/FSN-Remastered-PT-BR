@@ -1,24 +1,24 @@
 DAT
 id=qid::label=str::text=lstr::
-2351::$$$message_0020_0000_0000$$$::...antes dela ter virado uma Serva.[lr]::
-2352::$$$message_0020_0000_0001$$$::Me pergunto como a Saber era enquanto vivia como humana.::
+2351::$$$message_0020_0000_0000$$$::...Antes dela virar uma Serva.[lr]::
+2352::$$$message_0020_0000_0001$$$::Fico me perguntando como a Saber era quando ainda estava viva.::
 2353::$$$message_0020_0001_0000$$$::A Saber é tão linda, aposto que todos gostavam dela.[lr]::
-2354::$$$message_0020_0001_0001$$$::Embora alguém deve compreender mal pelo o nome Saber, ela deve ter sido uma garota normal que nem mesmo usava uma espada.::
-2355::$$$message_0020_0002_0000$$$::"...sim. Me pergunto como a Saber era antes."[lr]::
+2354::$$$message_0020_0001_0001$$$::Chamar ela de "Saber" confunde um pouco, mas aposto que, antes disso, ela deve ter sido uma garota normal que nem mesmo usava uma espada.::
+2355::$$$message_0020_0002_0000$$$::"...Sim. Me pergunto como a Saber era antes."[lr]::
 2356::$$$message_0020_0002_0001$$$::Fico curioso, e acabo falando o que estava pensando.::
 2357::$$$message_0020_0003_0000$$$::"[line2]Sim? Disse algo, Shirou?"[lr]::
 2358::$$$message_0020_0003_0001$$$::"Huh? Não, estava apenas imaginando como você era antes. Não quero saber seu nome verdadeiro, mas estive me perguntando que tipo de vida você levava."::
 2359::$$$message_0020_0004_0000$$$::"Que tipo de pessoa eu era...?[lr]::
-2360::$$$message_0020_0004_0001$$$::Você tem interesse em coisas estranhas, Shirou."::
-2361::$$$message_0020_0005_0000$$$::"Ignore se for um problema. Só me veio em mente.[lr]::
-2362::$$$message_0020_0005_0001$$$::Você é a Serva Saber, mas pensei como você deve ter sido diferente antes de virar Serva."::
+2360::$$$message_0020_0004_0001$$$::Você se interessa por cada coisa estranha, Shirou."::
+2361::$$$message_0020_0005_0000$$$::"Ignore se for um problema. Foi só algo que me veio a cabeça.[lr]::
+2362::$$$message_0020_0005_0001$$$::Quero dizer... você é a Saber agora, um Servo... mas imaginei que devia ser bem diferente antes disso"::
 2363::$$$message_0020_0006_0000$$$::[line2]Sim.[lr]::
-2364::$$$message_0020_0006_0001$$$::Aposto que ela levou uma vida calma digna para uma garota amável.::
+2364::$$$message_0020_0006_0001$$$::Imagino que ela tenha vivido uma vida tranquila, como uma garota gentil.::
 2365::$$$message_0020_0007_0000$$$::"[line2]Não acho que isso é possível.[lr]::
-2366::$$$message_0020_0007_0001$$$::As pessoas não mudam de personalidade quando viram Servos, e eu fui um cavalheiro que recebeu uma espada ao nascer. Qualquer ser diferente que você imagine nunca existiu."::
-2367::$$$message_0020_0008_0000$$$::"Whoa, então você sempre teve uma personalidade tensa?[lr]::
-2368::$$$message_0020_0008_0001$$$::...isso é horrível. Simpatizo com as pessoas que estavam ao seu redor."::
-2369::$$$message_0020_0009_0000$$$::"...o que você quis dizer?[lr]::
+2366::$$$message_0020_0007_0001$$$::As pessoas não mudam de personalidade quando viram Servos, e eu fui um cavalheiro que recebeu uma espada ao nascer. Nunca houve outra versão de mim."::
+2367::$$$message_0020_0008_0000$$$::"Whoa, então você sempre foi tão rígida assim?[lr]::
+2368::$$$message_0020_0008_0001$$$::...Isso é horrível. Simpatizo com as pessoas que estavam ao seu redor."::
+2369::$$$message_0020_0009_0000$$$::"...O que você quis dizer?[lr]::
 2370::$$$message_0020_0009_0001$$$::Sou dura, mas não coajo as pessoas ao meu redor."::
 2371::$$$message_0020_0010_0000$$$::"Não minta. Sei desde o treino de hoje que você é impiedosa e não tem misericórdia.[lr]::
 2372::$$$message_0020_0010_0001$$$::Olha esse vergão. Você estava feliz me quebrando quando eu cometia algum erro, sua instrutora demoníaca."::
@@ -26,19 +26,19 @@ id=qid::label=str::text=lstr::
 2374::$$$message_0020_0011_0001$$$::S-Senti pena por você, Shirou, mas não seria treino se não fosse duro!"::
 2375::$$$message_0020_0012_0000$$$::"[line5]"[lr]::
 2376::$$$message_0020_0012_0001$$$::...que incomum.[lr]::
-2377::$$$message_0020_0012_0002$$$::É realmente surpreendente a Saber fazer esse tipo de expressão.::
+2377::$$$message_0020_0012_0002$$$::É raro ver a Saber fazer esse tipo de expressão.::
 2378::$$$message_0020_0013_0000$$$::"Q-Qual é dessa expressão? Acho injusto você ficar quieto do nada."::
-2379::$$$message_0020_0014_0000$$$::"Ah[line2]não estava esperando você ficar assim, então fiquei surpreso."::
+2379::$$$message_0020_0014_0000$$$::"Ah[line2]não esperava te ver reagir desse jeito. Acabei me surpreendendo."::
 2380::$$$message_0020_0015_0000$$$::"Eh[line2]é-é isso? Só enfatizei o que eu estava pensando."[lr]::
 2381::$$$message_0020_0015_0001$$$::"Sim. Você não fala muito com suas emoções, então foi novidade."::
 2382::$$$message_0020_0016_0000$$$::"É-É isso? Acredito que agi seguindo minhas crenças."[lr]::
 2383::$$$message_0020_0016_0001$$$::"Estou dizendo que é sua mentalidade, não seu sentimento.[lr]::
-2384::$$$message_0020_0016_0002$$$::Não, não é isso. É que você não diz o que realmente sente."::
-2385::$$$message_0020_0017_0000$$$::"É normal. O que é exigido de mim não é uma opinião de um indivíduo mas a opinião de minha posição. Isso não muda até mesmo agora.[lr]::
-2386::$$$message_0020_0017_0001$$$::Vou te proteger como a Serva Saber.[lr]::
-2387::$$$message_0020_0017_0002$$$::Não devo dizer nada que não se relaciona a esse propósito,[l]::
+2384::$$$message_0020_0016_0002$$$::É disso que eu tô falando. Você não costuma dizer o que realmente sente."::
+2385::$$$message_0020_0017_0000$$$::"É natural. O que se espera de mim não é a opinião de um indivíduo, e sim a posição que ocupo. E isso não mudou nem agora.[lr]::
+2386::$$$message_0020_0017_0001$$$::Eu sou o Servo Saber. E vou te proteger, Shirou.[lr]::
+2387::$$$message_0020_0017_0002$$$::Não faz sentido eu dizer algo que não tenha relação com esse dever,[lr]::
 2388::$$$message_0020_0017_0003$$$::e não há necessidade de pensar nessas coisas."::
-2389::$$$message_0020_0018_0000$$$::"[line2]Pode ser verdade, mas seria chato pra você, Saber.[lr]::
+2389::$$$message_0020_0018_0000$$$::"[line2]Pode ser verdade, mas isso deve ser meio sufocante pra você, Saber.[lr]::
 2390::$$$message_0020_0018_0001$$$::Você tem um papel, mas não precisa se entregar completamente a ele. Você tem coisas que quer fazer também."::
 2391::$$$message_0020_0019_0000$$$::"Como eu disse, te proteger é o que eu devo fazer. Em adição de ser um Mestre inexperiente, você não me escuta e tenta lutar. Por isso estou te treinando agora!"::
 2392::$$$message_0020_0020_0000$$$::"[line2]Não, não é isso, mas... bem, acho que não tem problema se você diz."[lr]::

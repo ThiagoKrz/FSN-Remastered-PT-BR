@@ -4,7 +4,7 @@ id=qid::label=str::text=lstr::
 36057::$$$message_0301_0000_0001$$$::"Uh[line4]Eu não quero nenhum dos dois. ..Você pode me falar uma coisa antes disso, Tohsaka?"::
 36058::$$$message_0301_0001_0000$$$::"O quê?"[lr]::
 36059::$$$message_0301_0001_0001$$$::"É sobre o que você disse antes. Você disse algo sobre outro mestre estar na nossa escola."::
-36060::$$$message_0301_0002_0000$$$::"Ah, aquilo? Ah sim, você não perceberia o campo de separação colocado aqui, huh? ...Simplificando, tem outro mestre na escola que tá fazendo coisas como a que a gente acabou de ver."::
+36060::$$$message_0301_0002_0000$$$::"Ah, aquilo? Ah sim, você não perceberia o Campo Limitado colocado aqui, huh? ...Simplificando, tem outro mestre na escola que tá fazendo coisas como a que a gente acabou de ver."::
 36061::$$$message_0301_0003_0000$$$::"[line8]"[lr]::
 36062::$$$message_0301_0003_0001$$$::...Eu relembro a estudante.[lr]::
 36063::$$$message_0301_0003_0002$$$::Ela tava pálida, e a Tohsaka disse que ela teria morrido se a gente não tivesse encontrado ela.::
@@ -13,12 +13,12 @@ id=qid::label=str::text=lstr::
 36066::$$$message_0301_0005_0000$$$::"Pra vencer a guerra do santo graal, obviamente. Servos podem adquirir mais energia mágica quanto mais eles se alimentarem de vidas humanas.[lr]::
 36067::$$$message_0301_0005_0001$$$::O mestre na nossa escola quer usar todos como sacrifícios pra fazer o servo dele ou dela mais forte."::
 36068::$$$message_0301_0006_0000$$$::"Quê[line3]usar estudantes como sacrifícios... Esse mestre é insano!?"[lr]::
-36069::$$$message_0301_0006_0001$$$::"Quem sabe? Mas tem um campo de separação preparado na nossa escola.[lr]::
+36069::$$$message_0301_0006_0001$$$::"Quem sabe? Mas tem um Campo Limitado preparado na nossa escola.[lr]::
 36070::$$$message_0301_0006_0002$$$::Não tá completo, mas todo mundo dentro vai enfraquecer e morrer assim que ativado. Bom, não é como se eu fosse deixar isso acontecer."::
 36071::$$$message_0301_0007_0000$$$::A Tohsaka explica com uma voz calma.[lr]::
 36072::$$$message_0301_0007_0001$$$::...Isso deve ser algo que ela sabe faz dias.[lr]::
 36073::$$$message_0301_0007_0002$$$::Ela sabia o que ela tinha que fazer e foi pra escola, mesmo falando pra eu não ir.[lr]::
-36074::$$$message_0301_0007_0003$$$::Ela sabia que era perigoso pra mim estar ali, mas ela ainda foi parar o mestre que preparou o campo de separação.::
+36074::$$$message_0301_0007_0003$$$::Ela sabia que era perigoso pra mim estar ali, mas ela ainda foi parar o mestre que preparou o Campo Limitado.::
 36075::$$$message_0301_0008_0000$$$::"[line12]"[lr]::
 36076::$$$message_0301_0008_0001$$$::"?"::
 36077::$$$message_0301_0009_0000$$$::...Eu tô envergonhado de mim mesmo.[lr]::
@@ -53,8 +53,8 @@ id=qid::label=str::text=lstr::
 36106::$$$message_0301_0020_0000$$$::A Tohsaka soa indelicada.[lr]::
 36107::$$$message_0301_0020_0001$$$::Mas eu não vou ser enganado por isso.[lr]::
 36108::$$$message_0301_0020_0002$$$::Porque ela estica a mão direita dela, e acima de tudo, porque ela firmemente balança minha mão.::
-36109::$$$message_0301_0021_0000$$$::"...Entendi. É por isso que eu achei estranho. Então você não é um sucessor oficial, huh? Seu pai morreu antes dele passar o encravamento mágico pra você, certo?"::
-36110::$$$message_0301_0022_0000$$$::"Eu não sei. Eu não acho que meu pai queria passar o encravamento mágico dele pra mim, e ele também era contra o fato de que eu queria ser um mago."[lr]::
+36109::$$$message_0301_0021_0000$$$::"...Entendi. É por isso que eu achei estranho. Então você não é um sucessor oficial, huh? Seu pai morreu antes dele passar o Brasão Mágico pra você, certo?"::
+36110::$$$message_0301_0022_0000$$$::"Eu não sei. Eu não acho que meu pai queria passar o Brasão Mágico dele pra mim, e ele também era contra o fato de que eu queria ser um mago."[lr]::
 36111::$$$message_0301_0022_0001$$$::"Mas ele te ensinou taumaturgia, certo? Isso não é contraditório?"::
 36112::$$$message_0301_0023_0000$$$::"Talvez. Parecia que ele me ensinava taumaturgia porque eu não desistia. Ele me falou desde o começo pra ser um usuário de taumaturgia e não um mago."::
 36113::$$$message_0301_0024_0000$$$::Nós falamos sobre coisas irrelevantes por um tempo.[lr]::

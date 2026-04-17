@@ -1,21 +1,21 @@
 DAT
 id=qid::label=str::text=lstr::
 3065::$$$message_0031_0000_0000$$$::Vou direto pra casa.[lr]::
-3066::$$$message_0031_0000_0001$$$::A Saber está aguardando o almoço, e não estou em posição de parar por aí.::
+3066::$$$message_0031_0000_0001$$$::A Saber está aguardando o almoço, e não estou em posição de enrolar por aí.::
 3067::$$$message_0031_0001_0000$$$::Então eu faço os bolinhos de camarão.[lr]::
-3068::$$$message_0031_0001_0001$$$::Não é um prato pra se comer com arroz, mas sim com bebida. Originalmente, era algo que aprendi a cozinhar num bar onde eu trabalho.::
+3068::$$$message_0031_0001_0001$$$::Não é um prato pra se comer com arroz, mas sim com bebida. Originalmente, era algo que aprendi a cozinhar no izakaya onde eu trabalho.::
 3069::$$$message_0031_0002_0000$$$::"Shirou. Isso é muito quente."[lr]::
 3070::$$$message_0031_0002_0001$$$::A Saber come uma comida redonda frita, maior do que uma bola de golfe mas menor do que uma bola de tênis.::
 3071::$$$message_0031_0003_0000$$$::"Você tem sensibilidade à comidas quentes, Saber? Ou você não gosta de comida preparada asperamente?"::
 3072::$$$message_0031_0004_0000$$$::"Não, não tenho problema com nenhuma das duas. A quentura é interessante, e o gosto é áspero, mas posso também sentir um grande cuidado."::
 3073::$$$message_0031_0005_0000$$$::"Entendo. Fico feliz que você tenha gostado."[lr]::
-3074::$$$message_0031_0005_0001$$$::"Sim, pena que não podemos deixar a Rin ou a Taiga pegar um pouco."::
-3075::$$$message_0031_0006_0000$$$::A Saber continua a comer silenciosamente.[lr]::
+3074::$$$message_0031_0005_0001$$$::"Sim. É uma pena não podermos dividir com a Rin e a Taiga."::
+3075::$$$message_0031_0006_0000$$$::A Saber continua comendo silenciosamente.[lr]::
 3076::$$$message_0031_0006_0001$$$::Talvez porque ela se esforçou durante a manhã, ela aparenta estar comendo mais do que o normal.::
 3077::$$$message_0031_0007_0000$$$::"[line5]"[lr]::
-3078::$$$message_0031_0007_0001$$$::...um, Não sei se é apropriado pra um cara, mas fico feliz se alguém comer minha comida. Ainda mais se gostarem dela.[lr]::
-3079::$$$message_0031_0007_0002$$$::Sou inabilidoso como Mestre, então se a Saber ficar feliz com isso, botarei mais esforço em cozinhar... huh?::
-3080::$$$message_0031_0008_0000$$$::...a Saber está olhando pro prato vazio com uma expressão intensa.::
+3078::$$$message_0031_0007_0001$$$::...Um, Não sei se é apropriado pra um cara, mas gosto de ver alguém comendo algo que eu preparei. Ainda mais quando gostam.[lr]::
+3079::$$$message_0031_0007_0002$$$::Sou um Mestre meio inútil, então, se posso deixar a Saber feliz desse jeito, talvez eu devesse me dedicar mais à cozinha... huh?::
+3080::$$$message_0031_0008_0000$$$::...A Saber está olhando pro prato vazio com uma expressão intensa.::
 3081::$$$message_0031_0009_0000$$$::"Saber...? Vou fazer mais se não for o bastante."[lr]::
 3082::$$$message_0031_0009_0001$$$::"Eh...? N-Não, gostei disso. N-N-Não é que não comi o bastante."::
 3083::$$$message_0031_0010_0000$$$::"Tudo bem. Então vamos tomar um pouco de chá. Vou ferver um pouco, então espera aí."[lr]::
@@ -23,13 +23,13 @@ id=qid::label=str::text=lstr::
 3085::$$$message_0031_0010_0002$$$::Coloco os pratos na pia e boto a chaleira no fogo para fazer um pouco de chá.::
 3086::$$$message_0031_0011_0000$$$::"Ah é. Saber, que tal fazermos um tipo diferente de chá..."[lr]::
 3087::$$$message_0031_0011_0001$$$::Eu boto minha cara pra fora da cozinha.[lr]::
-3088::$$$message_0031_0011_0002$$$::...e.::
-3089::$$$message_0031_0012_0000$$$::"...mas isso é um problema. A comida do Shirou é boa.[lr]::
-3090::$$$message_0031_0012_0001$$$::Se eu parar de comer agora, minha vontade de lutar certamente cairá.[lr]::
-3091::$$$message_0031_0012_0002$$$::...ainda estou complacente. Já experimentei várias vezes, mas táticas de fome são tão terríveis."::
-3092::$$$message_0031_0013_0000$$$::"[line2]hum, bem."[lr]::
-3093::$$$message_0031_0013_0001$$$::...retiro o que eu disse, vou botar menos esforço em cozinhar.[lr]::
-3094::$$$message_0031_0013_0002$$$::Se eu continuar me esforçando mais, ela pode acabar me transformando no chefe particular dela.[lr]::
+3088::$$$message_0031_0011_0002$$$::E...::
+3089::$$$message_0031_0012_0000$$$::"...Isso é um problema. A comida do Shirou é boa demais.[lr]::
+3090::$$$message_0031_0012_0001$$$::Se ele resolvesse parar de cozinhar, minha vontade de lutar certamente cairia.[lr]::
+3091::$$$message_0031_0012_0002$$$::...Ainda sou ingênua. Já passei por isso antes, mas... táticas de fome são realmente assustadoras."::
+3092::$$$message_0031_0013_0000$$$::"[line2]Hum, bem."[lr]::
+3093::$$$message_0031_0013_0001$$$::...Retiro o que eu disse, vou botar menos esforço em cozinhar.[lr]::
+3094::$$$message_0031_0013_0002$$$::Se eu continuar nesse ritmo, daqui a pouco ela me transforma no cozinheiro particular dela.[lr]::
 3095::$$$message_0031_0013_0003$$$::Yup.[lr]::
-3096::$$$message_0031_0013_0004$$$::As pessoas não devem exagerar.::
+3096::$$$message_0031_0013_0004$$$::Tudo em excesso faz mal.::
 

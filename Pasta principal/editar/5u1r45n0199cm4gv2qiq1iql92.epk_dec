@@ -3,7 +3,7 @@ id=qid::label=str::text=lstr::
 1393::$$$message_0013_0000_0000$$$::Eu ainda não agradeci a Sakura pelo jantar, então vou ir falar com ela.::
 1394::$$$message_0013_0001_0000$$$::"É mesmo, está ficando tarde, melhor eu levar ela pra casa também."::
 1395::$$$message_0013_0002_0000$$$::A Sakura está na sala de estar, se preparando para ir embora após ter terminado de limpar tudo.::
-1396::$$$message_0013_0003_0000$$$::"Ué? Você não estava tomando um banho, Senpai?"[lr]::
+1396::$$$message_0013_0003_0000$$$::"Ué? Você não estava tomando banho, Senpai?"[lr]::
 1397::$$$message_0013_0003_0001$$$::"Não, eu vou tomar banho depois. Primeiro eu vou te levar pra casa, Sakura."[lr]::
 1398::$$$message_0013_0003_0002$$$::"Hã...? Me levar pra casa?"::
 1399::$$$message_0013_0004_0000$$$::"Sim. Ultimamente as coisas lá fora estão ficando perigosas, então eu vou com você até a sua casa. Você mora longe, então me deixe pelo menos fazer isso como agradecimento por você vir até aqui me ajudar."[lr]::
@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 1403::$$$message_0013_0005_0000$$$::"Me desculpe... Eu aprecio a sua preocupação, mas você deveria ficar aqui, Senpai. Eu estou acostumada a voltar pra casa, devo ficar bem sozinha."::
 1404::$$$message_0013_0006_0000$$$::"Bom, isso pode até ser verdade, mas as coisas estão ficando perigosas ultimamente. Eu vou te acompanhar até em casa por uns tempos."[lr]::
 1405::$$$message_0013_0006_0001$$$::"Mas... sabe... se o Nii-san te vir, você vai acabar tendo problemas, Senpai."::
-1406::$$$message_0013_0007_0000$$$::"Hm."[line2]::
+1406::$$$message_0013_0007_0000$$$::"Hm[line2]"::
 1407::$$$message_0013_0008_0000$$$::Eu não me importo com o que o Shinji diz. É um problema muito maior a Sakura ter que voltar pra casa a pé e sozinha em tempos perigosos como esses.::
 1408::$$$message_0013_0009_0000$$$::"Eu não me importo em que tipo de encrenca eu me meta. As ruas estão perigosas ultimamente, eu vou te levar até a sua casa."[lr]::
 1409::$$$message_0013_0009_0001$$$::"Hm, eu me sentiria mal te deixando fazer isso..."[lr]::
@@ -23,7 +23,7 @@ id=qid::label=str::text=lstr::
 1413::$$$message_0013_0010_0002$$$::Eu jogo o meu olhar em direção ao corredor, tentando empurrá-la pra lá.::
 1414::$$$message_0013_0011_0000$$$::"Senpai...? Tudo bem mesmo? Você pode acabar se metendo em uma briga com o Nii-san de novo."[lr]::
 1415::$$$message_0013_0011_0001$$$::"Eu não ligo. Nada mais certo do que garotos brigarem, e é até melhor quando nós conversamos de maneira honesta.[lr]::
-1416::$$$message_0013_0011_0002$$$::"Ele não gosta de esconder o que pensa, então é melhor que ele simplesmente venha e fale qualquer reclamação que tiver."[lr]::
+1416::$$$message_0013_0011_0002$$$::Ele não gosta de esconder o que pensa, então é melhor que ele simplesmente venha e fale qualquer reclamação que tiver."[lr]::
 1417::$$$message_0013_0011_0003$$$::Quando eu digo isso...[lr]::
 1418::$$$message_0013_0011_0004$$$::Ela me olha de maneira surpresa por algum motivo.::
 1419::$$$message_0013_0012_0000$$$::"O que foi? Eu disse algo estranho?"[lr]::
@@ -37,7 +37,7 @@ id=qid::label=str::text=lstr::
 1427::$$$message_0013_0015_0001$$$::Vendo o sorriso dela, eu seguro a minha respiração sem sequer perceber.[lr]::
 1428::$$$message_0013_0015_0002$$$::Será que posso chamar aquilo de um grande sorriso?[lr]::
 1429::$$$message_0013_0015_0003$$$::Acho que é a primeira vez que vejo ela sorrir desse jeito.::
-1430::$$$message_0013_0016_0000$$$::"D-de qualquer forma, eu vou te levar pra casa. Eu não ligo de o Shinji me ver. Eu acompanhei a irmã dele até em casa, ele não tem do que reclamar."::
+1430::$$$message_0013_0016_0000$$$::"D-De qualquer forma, eu vou te levar pra casa. Eu não ligo de o Shinji me ver. Eu acompanhei a irmã dele até em casa, ele não tem do que reclamar."::
 1431::$$$message_0013_0017_0000$$$::"Tem razão. Talvez seja até melhor esconder que você fez isso. Então, se importa, Senpai?"[lr]::
 1432::$$$message_0013_0017_0001$$$::"Mas é claro. Pelo menos uma vez vou agir como um Senpai."[lr]::
 1433::$$$message_0013_0017_0002$$$::Eu bato em meu peito.[lr]::
@@ -56,10 +56,10 @@ id=qid::label=str::text=lstr::
 1446::$$$message_0013_0021_0002$$$::Ela deve ter lido a minha linguagem corporal, o comentário dela acerta bem na mosca.[lr]::
 1447::$$$message_0013_0021_0003$$$::Ugh... eu estava fazendo uma cara tão ruim assim?::
 1448::$$$message_0013_0022_0000$$$::"Não, eu não desgosto dela. Nós nunca conversamos, então não sei muito sobre ela. Mas ela é famosa, não é? Ela se destaca por onde quer que passe, eu a conheço da mesma forma que todo mundo."[lr]::
-1449::$$$message_0013_0022_0001$$$::"..."[lr]::
+1449::$$$message_0013_0022_0001$$$::"..."::
 1450::$$$message_0013_0023_0000$$$::"E quanto a você, Sakura? A sua mansão é do mesmo estilo da dela, vocês têm um relacionamento como vizinhas?"[lr]::
 1451::$$$message_0013_0023_0001$$$::"Não. Certamente somos vizinhas, mas a casa dela fica no topo da colina.[lr]::
-1452::$$$message_0013_0023_0002$$$::"Mas como você sabia que a casa dela tem o mesmo estilo ocidental que a minha, Senpai?"[lr]::
+1452::$$$message_0013_0023_0002$$$::Mas como você sabia que a casa dela tem o mesmo estilo ocidental que a minha, Senpai?"[lr]::
 1453::$$$message_0013_0023_0003$$$::Ela pergunta em baixo tom.::
 1454::$$$message_0013_0024_0000$$$::"Ah, é só uma coisa que eu ouvi por aí. Algo sobre a casa da Tohsaka ser uma mansão mal-assombrada e tudo mais. Mansões mal-assombradas precisam ser casas de estilo ocidental, não é mesmo?"::
 1455::$$$message_0013_0025_0000$$$::"Sim, com certeza. Parece que a Tohsaka-senpai gosta de ficar sozinha. Quando eu era criança, me disseram que um feiticeiro assustador vivia no topo da colina."::
@@ -82,7 +82,7 @@ id=qid::label=str::text=lstr::
 1472::$$$message_0013_0032_0000$$$::"Não tem mais ninguém aqui... ou você viu alguém?"[lr]::
 1473::$$$message_0013_0032_0001$$$::"Ah... não, já que você não viu ninguém, então está tudo bem. Eu percebi uma pessoa estranha perto da minha casa recentemente, então estava me perguntando se ele estaria aqui de novo hoje."::
 1474::$$$message_0013_0033_0000$$$::"[line3]O quê? Isso não é meio perigoso?[lr]::
-1475::$$$message_0013_0033_0001$$$::"Que tipo de pessoa ele era?"[lr]::
+1475::$$$message_0013_0033_0001$$$::Que tipo de pessoa ele era?"[lr]::
 1476::$$$message_0013_0033_0002$$$::"Vejamos... ele era loiro e tinha um ar de 'legal'. Ele parecia ser um modelo, estou certa de que você também ficaria surpreso se o visse, Senpai."[lr]::
 1477::$$$message_0013_0033_0003$$$::Ela diz isso corada, como se lembrando dele.::
 1478::$$$message_0013_0034_0000$$$::"..."[lr]::
@@ -93,8 +93,8 @@ id=qid::label=str::text=lstr::
 1483::$$$message_0013_0036_0000$$$::"Hm... Bom, é um pouco estranho mesmo. Muito bem, se você vir ele por perto outra vez, avise a mim ou ao Shinji. Nós vamos pegá-lo e forçá-lo a nos contar os seus planos."::
 1484::$$$message_0013_0037_0000$$$::"Tudo bem, contarei com você. Mas por favor não faça nada de exagerado. Eu não quero que você se meta em uma briga."[lr]::
 1485::$$$message_0013_0037_0001$$$::Ela diz isso sorrindo para mim.::
-1486::$$$message_0013_0038_0000$$$::"Ugh... T-tudo bem. Eu vou usar as palavras antes de mais nada, então não fique preocupada com isso."[lr]::
-1487::$$$message_0013_0038_0001$$$::Eu desvio meu olhar do sorriso da Sakura enquanto respondo::
+1486::$$$message_0013_0038_0000$$$::"Ugh... T-Tudo bem. Eu vou usar as palavras antes de mais nada, então não fique preocupada com isso."[lr]::
+1487::$$$message_0013_0038_0001$$$::Eu desvio meu olhar do sorriso da Sakura enquanto respondo.::
 1488::$$$message_0013_0039_0000$$$::"..."[lr]::
 1489::$$$message_0013_0039_0001$$$::Sigh...[lr]::
 1490::$$$message_0013_0039_0002$$$::Os gestos da Sakura me cativam de uns tempos pra cá.[lr]::
@@ -103,10 +103,10 @@ id=qid::label=str::text=lstr::
 1493::$$$message_0013_0040_0001$$$::Bom, eu realmente acho que a Sakura se tornou linda.[lr]::
 1494::$$$message_0013_0040_0002$$$::Isso é bom, mas não é legal pra um Senpai ter que ficar tomando cuidado com pra onde ele olha.::
 1495::$$$message_0013_0041_0000$$$::"Boa noite então, Senpai. Estou agradecida por ter me trazido até em casa."[lr]::
-1496::$$$message_0013_0041_0001$$$::"S-sua idiota, não precisa me agradecer. É você quem está fazendo o jantar, eu é que devia estar te agradecendo."[lr]::
+1496::$$$message_0013_0041_0001$$$::"S-Sua idiota, não precisa me agradecer. É você quem está fazendo o jantar, eu é que devia estar te agradecendo."[lr]::
 1497::$$$message_0013_0041_0002$$$::A Sakura apenas sorri satisfeita.::
 1498::$$$message_0013_0042_0000$$$::"Fala sério... Se isso é tudo que eu preciso fazer, acho que vou tornar isso parte da minha rotina a partir de amanhã."[lr]::
-1499::$$$message_0013_0042_0001$$$::"Sim, por favor. Você pode vir comigo só de vez em quando, nos dias que sentir vontade, mas por favor me acompanhe até em casa. O Nii-san vai ficar bravo, mas eu gosto de estar com você."::
+1499::$$$message_0013_0042_0001$$$::"Sim, por favor. Eu adoraria que você me acompanhasse até em casa, mesmo que fosse só de vez em quando... quando você tiver vontade. Tenho certeza de que isso deixaria meu irmão bravo, mas a verdade é que eu gosto de estar com você."::
 1500::$$$message_0013_0043_0000$$$::"Senpai, te vejo amanhã! Muito obrigada por hoje!"[lr]::
 1501::$$$message_0013_0043_0001$$$::Ela se despede entusiasmadamente e então desaparece dentro de sua casa.::
 1502::$$$message_0013_0044_0000$$$::"[line3]Bom..."[lr]::

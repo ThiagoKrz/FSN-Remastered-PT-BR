@@ -1,43 +1,43 @@
 DAT
 id=qid::label=str::text=lstr::
-730::$$$message_0004_0000_0000$$$::"Issei, está aqui?"[lr]::
-731::$$$message_0004_0000_0001$$$::"Estou. Você está um pouco atrasado hoje, Emiya."[lr]::
+730::$$$message_0004_0000_0000$$$::"Issei, tá aí?"[lr]::
+731::$$$message_0004_0000_0001$$$::"Estou. Tá meio atrasado hoje, Emiya."[lr]::
 732::$$$message_0004_0000_0002$$$::O Issei ergue o olhar do papel que estava lendo, ele devia estar estudando.::
 733::$$$message_0004_0001_0000$$$::"Só você, Issei? Onde estão os outros? Eles também já não deviam estar aqui?"[lr]::
 734::$$$message_0004_0001_0001$$$::"Não. Infelizmente, nossos membros são muito metódicos.[lr]::
 735::$$$message_0004_0001_0002$$$::Eles têm seus horários de trabalho já estabelecidos, e eles não querem vir mais cedo nem ficar até mais tarde."[lr]::
-736::$$$message_0004_0001_0003$$$::"É por isso que o presidente do conselho estudantil está fazendo as tarefas rotineiras ele mesmo? Acho que esse lugar tem seus próprios problemas pra lidar."::
-737::$$$message_0004_0002_0000$$$::"Nem tanto, esse é tipo de problema que eu gosto. Você não precisa sentir pena de mim."[lr]::
+736::$$$message_0004_0001_0003$$$::"É por isso que o presidente do conselho estudantil está fazendo as tarefas rotineiras ele mesmo? Enquanto isso, o presidente do conselho fica preso com trabalho chato, é?"::
+737::$$$message_0004_0002_0000$$$::"Nem tanto, eu gosto desse tipo de problema. Você não precisa sentir pena de mim."[lr]::
 738::$$$message_0004_0002_0001$$$::"Hm? Uh, não, eu não estava sentindo pena de você nem nada do tipo."[lr]::
 739::$$$message_0004_0002_0002$$$::"Hm. Eu não estou feliz com isso, mas vou fingir que não ouvi nada. Isso ainda significa que você se importa."::
 740::$$$message_0004_0003_0000$$$::O Issei, esse rapaz organizando os papéis que estava lendo, é o chefão da sala do conselho estudantil.[lr]::
-741::$$$message_0004_0003_0001$$$::Ele é o cara que está dando o seu melhor pra reformar esse conselho estudantil negligente, e é meu amigo desde o primeiro ano.[lr]::
+741::$$$message_0004_0003_0001$$$::Ele costuma ser mal interpretado, mas não se mete com romance nem faz esse tipo de coisa de estudante.[lr]::
 742::$$$message_0004_0003_0002$$$::Seu nome completo é Ryuudou Issei.[lr]::
 743::$$$message_0004_0003_0003$$$::Apesar de seu nome antiquado, ele tem feições elegantes e é muito popular com as garotas.[lr]::
-744::$$$message_0004_0003_0004$$$::E ele também é o presidente do conselho estudantil, então você imaginaria que ele possui um talento natural pra coisa, mas...::
-745::$$$message_0004_0004_0000$$$::"Hm. Chá quente é certamente uma boa maneira de se começar uma manhã."[lr]::
-746::$$$message_0004_0004_0001$$$::...ele está simplesmente aqui tomando chá, ele não é tão firme assim.::
-747::$$$message_0004_0005_0000$$$::Como da pra ver, o Issei tem uma personalidade plana.[lr]::
-748::$$$message_0004_0005_0001$$$::É fácil acabar entendendo isso mal, mas ele não se envolve em casos amorosos e nem em recreações comuns para estudantes.[lr]::
-749::$$$message_0004_0005_0002$$$::Isso porque ele é o sucessor do Templo Ryuudou, o que fica nas montanhas.[lr]::
+744::$$$message_0004_0003_0004$$$::E ainda por cima ele é o presidente do conselho estudantil… era pra ser alguém de respeito, mas nem parece.::
+745::$$$message_0004_0004_0000$$$::"Hm. Chá quente é certamente uma boa maneira de começar o dia."[lr]::
+746::$$$message_0004_0004_0001$$$::...E ainda fala isso tomando chá. Não dá pra levar muito a sério.::
+747::$$$message_0004_0005_0000$$$::No fim das contas, o Issei é bem simples.[lr]::
+748::$$$message_0004_0005_0001$$$::É fácil acabar entendendo isso mal, mas ele não se envolve com romance e nem faz coisa de estudante.[lr]::
+749::$$$message_0004_0005_0002$$$::Isso porque ele é o sucessor do Templo Ryuudou, lá nas montanhas.[lr]::
 750::$$$message_0004_0005_0003$$$::Ele está de acordo com essa ideia, então há uma boa chance de ele raspar a cabeça quando se formar.::
 751::$$$message_0004_0006_0000$$$::"Então, o que eu vou fazer hoje?"[lr]::
 752::$$$message_0004_0006_0001$$$::"Hm? Bom, eu gostaria que você se sentasse pra descansar primeiro... mas acho que não temos tempo pra isso. Eu vou explicar tudo no caminho, então siga-me e traga consigo as ferramentas de sempre."::
 753::$$$message_0004_0007_0000$$$::"Sendo franco, o orçamento da nossa escola é completamente desbalanceado."[lr]::
 754::$$$message_0004_0007_0001$$$::"Eu sei. Os clubes esportivos são favorecidos, então os outros clubes não recebem muito, não é?"[lr]::
 755::$$$message_0004_0007_0002$$$::"Correto. Como resultado, os membros dos outros clubes estão com problemas.[lr]::
-756::$$$message_0004_0007_0003$$$::Eu estou dando duro pra melhorar o orçamento deles, mas estou tendo dificuldades por não estar claro pra onde o dinheiro está indo.[lr]::
+756::$$$message_0004_0007_0003$$$::Tô tentando melhorar isso, mas nem dá para entender direito pra onde o dinheiro tá indo.[lr]::
 757::$$$message_0004_0007_0004$$$::Em especial, não há solução para a falta de aquecedores durante o inverno."::
-758::$$$message_0004_0008_0000$$$::"Entendo. Ah, pode me passar a chave de fenda de torque? A maior delas. E o fio condutor também... É, eu devo ser capaz de consertar isso."[lr]::
+758::$$$message_0004_0008_0000$$$::"Entendo. Ah, pode me passar a chave de fenda de torque? A maior delas. E o fio condutor também... É, da pra dar um jeito."[lr]::
 759::$$$message_0004_0008_0001$$$::"Fio condutor...? Uh, é esse aqui? Perdão, eu não sei bem qual é.[lr]::
 760::$$$message_0004_0008_0002$$$::Me corrija se eu estiver errado."[lr]::
 761::$$$message_0004_0008_0003$$$::"É esse mesmo. Então, que história é essa de falta de aquecedores? Há outros deles quebrados?"::
 762::$$$message_0004_0009_0000$$$::"Sim. Na segunda sala de AV e no clube de artes. As petições requisitando por aquecedores novos estão se multiplicando."[lr]::
-763::$$$message_0004_0009_0001$$$::"Mas não há orçamento suficiente pra cumprir com a demanda, né? Como eu pensei, ele só está velho. Ainda bem que ele não está quebrado por dentro."::
+763::$$$message_0004_0009_0001$$$::"Mas não há orçamento suficiente pra cumprir com a demanda, né? Como eu pensei, ele só está velho. Ainda bem que ele não queimou por dentro."::
 764::$$$message_0004_0010_0000$$$::"Hm... Acha que tem conserto, Emiya?"[lr]::
-765::$$$message_0004_0010_0001$$$::"Tem. Em casos assim, coisas velhas são boas por serem fáceis de se entender.[lr]::
+765::$$$message_0004_0010_0001$$$::"Tem. Nessas horas, equipamento velho é até melhor de lidar.[lr]::
 766::$$$message_0004_0010_0002$$$::É só uma conexão em curto, ele deve conseguir durar o ano todo se trocarmos ela."[lr]::
-767::$$$message_0004_0010_0003$$$::"Entendi! Bom trabalho, Emiya. Eu sempre fico muito contente quando você prova ser confiável."::
+767::$$$message_0004_0010_0003$$$::"Entendi! Bom trabalho, Emiya. Gosto quando dá pra contar com você."::
 768::$$$message_0004_0011_0000$$$::"Você está falando isso de maneira estranha, Issei...[lr]::
 769::$$$message_0004_0011_0001$$$::Ah, eu vou terminar em breve, então poderia esperar lá fora por um tempo?"[lr]::
 770::$$$message_0004_0011_0002$$$::"Entendido, ficarei fora do seu caminho."::
@@ -45,31 +45,31 @@ id=qid::label=str::text=lstr::
 772::$$$message_0004_0012_0001$$$::Parece que ele assumiu que o processo do que eu vou fazer é delicado...::
 773::$$$message_0004_0013_0000$$$::"Bom, ser delicado é, mas..."[lr]::
 774::$$$message_0004_0013_0001$$$::Eu ponho minha mão sobre o aquecedor elétrico velho.[lr]::
-775::$$$message_0004_0013_0002$$$::Mesmo que você esteja acostumado a consertar coisas, é difícil descobrir qual é o problema só de olhar para aquilo em que está trabalhando.[lr]::
-776::$$$message_0004_0013_0003$$$::Então o fato de eu ter feito isso significa que o que eu estou fazendo não é algo ordinário.::
-777::$$$message_0004_0014_0000$$$::Eu bloqueio a minha visão e olho dentro do aquecedor com o meu tato.[lr]::
+775::$$$message_0004_0013_0002$$$::Normalmente, só de olhar não da pra saber onde está o problema, por mais acostumaddo que alguém seja.[lr]::
+776::$$$message_0004_0013_0003$$$::E se eu consigo, é porque o meu jeito de fazer isso não é normal.::
+777::$$$message_0004_0014_0000$$$::Fecho os olhos e ‘vejo’ o interior do aquecedor pelo tato.[lr]::
 778::$$$message_0004_0014_0001$$$::[line3]Naquele momento...[lr]::
 779::$$$message_0004_0014_0002$$$::...uma imagem aparece em minha cabeça.::
-780::$$$message_0004_0015_0000$$$::"Há dois lugares onde o fio está prestes a romper... O tubo deve durar por mais um tempo... Fita isolante deve ser o suficiente pro cabo de alimentação..."[lr]::
+780::$$$message_0004_0015_0000$$$::"Há dois pontos onde o fio tá quase rompendo... a resistência ainda aguenta... o cabo de alimentação dá pra resolver com fita isolante..."[lr]::
 781::$$$message_0004_0015_0001$$$::Beleza, eu consigo consertar isso com as ferramentas que tenho comigo.::
-782::$$$message_0004_0016_0000$$$::Se o tubo estivesse quebrado, não teria como um amador consertar isso.[lr]::
-783::$$$message_0004_0016_0001$$$::Se esse tivesse sido o caso, eu teria que "fortalecer" ele de maneira bem não-amadora. Mas nesse caso, essa checagem apenas vai servir.[lr]::
-784::$$$message_0004_0016_0002$$$::Essa é a "magia" que Emiya Shirou aprendeu com o Kiritsugu.::
+782::$$$message_0004_0016_0000$$$::Se a resistência estivesse queimada, não teria como um amador consertar isso.[lr]::
+783::$$$message_0004_0016_0001$$$::Se fosse o caso, eu teria que reforçar isso com uma técnica que não é pra amador... mas assim, só de olhar por dentro já resolve.[lr]::
+784::$$$message_0004_0016_0002$$$::Essa é a "magia" que Emiya Shirou aprendeu com Kiritsugu.::
 785::$$$message_0004_0017_0000$$$::"[line4]Beleza, vamos começar."[lr]::
 786::$$$message_0004_0017_0001$$$::Eu tiro a tampa e boto a mão na massa.[lr]::
 787::$$$message_0004_0017_0002$$$::Eu já sei onde estão os defeitos, então o resto é moleza.[lr]::
 788::$$$message_0004_0017_0003$$$::"Sigh... Essa é a única coisa na qual eu sou bom."::
 789::$$$message_0004_0018_0000$$$::Isso mesmo. Emiya Shirou não possui talento pra magia.[lr]::
-790::$$$message_0004_0018_0001$$$::Apesar de não cobrir a falta de talento, eu acredito ser até que bem hábil em visualizar estruturas como eu acabei de fazer.[lr]::
-791::$$$message_0004_0018_0002$$$::Na verdade, quando eu entendi uma estrutura e a reproduzi pela primeira vez, meu pai olhou surpreso e disse: "mas que habilidade inútil".::
+790::$$$message_0004_0018_0001$$$::Em compensação, quando se trata de visualizar a estrutura das coisas, tipo imaginar uma projeção como agora a pouco, eu sou ridiculamente bom nisso.[lr]::
+791::$$$message_0004_0018_0002$$$::Na verdade, quando eu imaginei e recriei um projeto assim, meu pai chegou a arregalar os olhos de surpresa e depois comentou: "mas que talento inútil".::
 792::$$$message_0004_0019_0000$$$::Acho que meu ponto forte não é uma habilidade muito útil.[lr]::
 793::$$$message_0004_0019_0001$$$::De acordo com o meu pai, compreender uma estrutura com os meus olhos já é um desperdício de esforço.[lr]::
-794::$$$message_0004_0019_0002$$$::Pra um mago de verdade, não há necessidade de entender cada canto de uma estrutura como eu acabei de fazer.::
-795::$$$message_0004_0020_0000$$$::Dizem que a batalha do mago se resume em ler o centro, o núcleo das coisas instantaneamente, e mudá-lo ainda mais rapidamente do que leu.[lr]::
+794::$$$message_0004_0019_0002$$$::Um mago de verdade não precisa se dar o trabalho de analisar cada detalhe da estrutura, como eu fiz agora a pouco.::
+795::$$$message_0004_0020_0000$$$::Dizem que a luta dos magos consiste em identificar instantaneamente o núcleo das coisas e alterá-lo mais rápido do que qualquer um.[lr]::
 796::$$$message_0004_0020_0001$$$::É por isso que ler a estrutura é um desperdício de esforço, pois mesmo que você a compreenda, tudo que você pode fazer é determinar o lugar onde energia mágica poderia ser mais facilmente transmitida.::
 797::$$$message_0004_0021_0000$$$::Então, basicamente, parece que o meu ponto forte é meramente consertar coisas desse jeito.[lr]::
 798::$$$message_0004_0021_0001$$$::Eu não preciso abrí-las pra procurar pelos problemas.[lr]::
-799::$$$message_0004_0021_0002$$$::Se eu posso rapidamente procurar por partes quebradas e tenho a habilidade para repará-las, a maioria das coisas podem ser consertadas.[lr]::
+799::$$$message_0004_0021_0002$$$::Se eu consigo localizar rapido o problema, então, tendo a habilidade pra consertar, da pra arrumar a maioria das coisas.[lr]::
 800::$$$message_0004_0021_0003$$$::Apesar de que isso só se aplica a coisas simples que podem ser consertadas sem nenhum conhecimento especializado.::
 801::$$$message_0004_0022_0000$$$::"[line3]Perfeito. Agora para o próximo..."[lr]::
 802::$$$message_0004_0022_0001$$$::Eu guardo o fio condutor que usei e saio para o corredor com uma chave de fenda em uma mão e uma chave inglesa na outra.::
@@ -77,34 +77,34 @@ id=qid::label=str::text=lstr::
 804::$$$message_0004_0023_0001$$$::[line4]Mas...[lr]::
 805::$$$message_0004_0023_0002$$$::...No corredor há mais alguém além do Issei, uma garota.::
 806::$$$message_0004_0024_0000$$$::"..."[lr]::
-807::$$$message_0004_0024_0001$$$::Eu estou um pouco surpreso.[lr]::
+807::$$$message_0004_0024_0001$$$::Estou um pouco surpreso.[lr]::
 808::$$$message_0004_0024_0002$$$::A pessoa conversando com o Issei é a Tohsaka Rin, da turma 2-A.[lr]::
-809::$$$message_0004_0024_0003$$$::Ela é uma senhorita que vive em uma enorme mansão no topo da colina, uma estudante de honra perfeita.[lr]::
-810::$$$message_0004_0024_0004$$$::Bonita, inteligente, atlética, e impecável.[lr]::
+809::$$$message_0004_0024_0003$$$::Ela é aquela típica senhorita que mora numa mansão enorme no topo da colina, uma estudante de honra perfeita.[lr]::
+810::$$$message_0004_0024_0004$$$::Bonita, talentosa, atlética, e impecável.[lr]::
 811::$$$message_0004_0024_0005$$$::Ela é inteligente, bem educada, e modesta quanto à sua aparência. Dizem que ela é a mulher ideal.::
 812::$$$message_0004_0025_0000$$$::Então nem preciso dizer que os garotos da minha escola tratam ela como uma ídolo.[lr]::
-813::$$$message_0004_0025_0001$$$::Apesar de que no caso da Tohsaka, ela é tão perfeita que é considerada inalcançável.[lr]::
-814::$$$message_0004_0025_0002$$$::Acredita-se que apenas professores e garotos como o Issei podem falar com ela.::
-815::$$$message_0004_0026_0000$$$::Bom... pra ser honesto, eu também sou um garoto.[lr]::
-816::$$$message_0004_0026_0001$$$::Logo, eu também sou um dos admiradores de Tohsaka Rin.::
+813::$$$message_0004_0025_0001$$$::Apesar de que no caso da Tohsaka, ela é tão perfeita que ficou fora de alcance.[lr]::
+814::$$$message_0004_0025_0002$$$::Acredita-se que apenas professores e caras como o Issei podem falar com ela.::
+815::$$$message_0004_0026_0000$$$::Bom, sendo sincero... eu também sou homem, né.[lr]::
+816::$$$message_0004_0026_0001$$$::Então, como todo mundo, eu também sou um dos caras que admiram a Tohsaka Rin.::
 817::$$$message_0004_0027_0000$$$::"..."[lr]::
 818::$$$message_0004_0027_0001$$$::A Tohsaka olha para nós como se estivesse de mau humor.[lr]::
 819::$$$message_0004_0027_0002$$$::Parece que é verdade que ela e o Issei não se dão bem.::
-820::$$$message_0004_0028_0000$$$::"Ah, perdão. Eu te pedi por ajuda mas parece que você está fazendo todo o trabalho, Emiya. Me perdoe."[lr]::
+820::$$$message_0004_0028_0000$$$::"Foi mal. Eu que te pedi ajuda, mas acabei jogando tudo pra você, Emiya. Desculpa."[lr]::
 821::$$$message_0004_0028_0001$$$::Uau.[lr]::
 822::$$$message_0004_0028_0002$$$::Ele fala algo assim e ainda ignora a Tohsaka, o Issei é um homem incrível.::
 823::$$$message_0004_0029_0000$$$::"Não se preocupe com isso. Então, onde fica o próximo? Não temos muito tempo."[lr]::
-824::$$$message_0004_0029_0001$$$::"Sim, o próximo fica na sala de AV. Parece que ele não tem funcionado bem já faz um tempo, mas ele finalmente morreu."::
-825::$$$message_0004_0030_0000$$$::"Não tem como ser reparado se estiver morto. Seria mais rápido comprar um novo."[lr]::
-826::$$$message_0004_0030_0001$$$::"Verdade, mas ajudaria se você pudesse dar uma olhada nele. Pode estar morto pra mim, mas apenas se fingindo pra você."::
+824::$$$message_0004_0029_0001$$$::"Sim, o próximo fica na sala de AV. Já vinha dando problema faz tempo e agora, finalmente, chegou ao fim da vida."::
+825::$$$message_0004_0030_0000$$$::"Se já chegou ao fim da vida, não tem mais conserto. Melhor comprar outro."[lr]::
+826::$$$message_0004_0030_0001$$$::"Pode até ser, mas me ajudaria se você desse uma olhada. Pra mim já tá nas últimas, mas vai que pra você ele só esteja se fazendo de morto."::
 827::$$$message_0004_0031_0000$$$::"Entendi. Bom, vamos dar uma olhada."[lr]::
 828::$$$message_0004_0031_0001$$$::Só temos em torno de 30 minutos até a aula começar.[lr]::
-829::$$$message_0004_0031_0002$$$::Eu vou ter que me apressar se for pra consertar aquilo.::
-830::$$$message_0004_0032_0000$$$::Eu vou em direção à sala de AV junto com o Issei.[lr]::
-831::$$$message_0004_0032_0001$$$::Mas é falta de educação ignorá-la quando nós nos encontramos desse jeito.::
-832::$$$message_0004_0033_0000$$$::Eu me viro de volta pra Tohsaka, que está ali parada.[lr]::
-833::$$$message_0004_0033_0001$$$::"Você acordou cedo, Tohsaka."[lr]::
-834::$$$message_0004_0033_0002$$$::Eu faço um comentário sincero, e então volto a seguir o Issei.::
+829::$$$message_0004_0031_0002$$$::Se eu for consertar isso, tenho que me apressar ou não vai dar tempo.::
+830::$$$message_0004_0032_0000$$$::Apresso o passo, seguindo o Issei em direção à sala de AV.[lr]::
+831::$$$message_0004_0032_0001$$$::Mas é falta de educação ignorá-la depois de dar de cara com ela.::
+832::$$$message_0004_0033_0000$$$::Me viro de volta pra Tohsaka, que está ali parada.[lr]::
+833::$$$message_0004_0033_0001$$$::"Chegou cedo hoje, Tohsaka."[lr]::
+834::$$$message_0004_0033_0002$$$::Falo isso meio sem pensar e volto a seguir o Issei.::
 835::$$$message_0004_0034_0000$$$::"Conseguimos bem a tempo. Obrigado, Emiya. Te dei trabalho de novo. Eu seria um fracasso como amigo se fizesse você se atrasar por estar fazendo coisas pra mim."[lr]::
 836::$$$message_0004_0034_0001$$$::"Não esquenta com isso. Não faz mal eu me atrasar, mas acho que seria um problema se você se atrasasse..."[lr]::
 837::$$$message_0004_0034_0002$$$::"De fato. Bom, estou feliz por termos conseguido."[lr]::
@@ -114,7 +114,7 @@ id=qid::label=str::text=lstr::
 841::$$$message_0004_0036_0000$$$::"[line3]Phew."[lr]::
 842::$$$message_0004_0036_0001$$$::Eu estou meio sem fôlego já que nós corremos da sala de AV até aqui.[lr]::
 843::$$$message_0004_0036_0002$$$::Respirando fundo, eu vou para a minha carteira.::
-844::$$$message_0004_0037_0000$$$::"Você é tão barulhento de manhã, Emiya. Eu estava me perguntando o que você estava fazendo desde que saiu do clube, mas tudo que tem feito é ajudar o Ryuudou? O que você faz não é problema meu, mas evite fazer coisas que tragam má reputação para o clube, viu? Afinal, você é bem descompromissado."::
+844::$$$message_0004_0037_0000$$$::"Você ta barulhento logo cedo, Emiya. Eu estava me perguntando o que você estava fazendo desde que saiu do clube, mas virou cachorro do Ryuudou? Não é problema meu, mas não vá manchar a reputação do clube, ta? Afinal, você é bem descompromissado."::
 845::$$$message_0004_0038_0000$$$::Um amigo meu do ensino fundamental, Matou Shinji, está de pé em frente à minha carteira.[lr]::
 846::$$$message_0004_0038_0001$$$::Como dá pra notar pelo sobrenome dele, ele é o irmão da Sakura.::
 847::$$$message_0004_0038_0002$$$::Ele é um ano mais velho que ela.::
@@ -125,8 +125,8 @@ id=qid::label=str::text=lstr::
 852::$$$message_0004_0041_0000$$$::"Entendi, terei cuidado quanto a isso. Mas eu não me preocupo com o clube de arco e flecha já que não tenho nada a ver com ele."[lr]::
 853::$$$message_0004_0041_0001$$$::Eu ponho minha bolsa na mesa e puxo a cadeira.::
 854::$$$message_0004_0042_0000$$$::"Como é? Você está dizendo que não está interessado no meu clube de arco e flecha?"[lr]::
-855::$$$message_0004_0042_0001$$$::"Eu disse que não tenho nada a ver com ele, não que não estou interessado. Seria estranho eu ir lá sendo que não faço parte dele, não?[lr]::
-856::$$$message_0004_0042_0002$$$::Mas me avise se precisar de algo. Eu vou ajudar se tiver algo com que eu possa ajudar. Você não era bom em arrumar os arcos e as cordas deles, não é?"::
+855::$$$message_0004_0042_0001$$$::"Não é questão de interesse, é questão de ter motivo.. Seria estranho eu ir lá sendo que não faço parte dele, não?[lr]::
+856::$$$message_0004_0042_0002$$$::Mas me avise se precisar de algo. Eu vou ajudar se tiver algo com que eu possa ajudar. Você não era bom em coisas como ajustar as cordas ou consertar os arcos. Você nunca foi muito bom nisso, né??"::
 857::$$$message_0004_0043_0000$$$::"Ah, obrigado. Eu te chamarei se houver algum trabalho que precise ser feito.[lr]::
 858::$$$message_0004_0043_0001$$$::Apesar de eu não achar que isso irá acontecer."::
 859::$$$message_0004_0044_0000$$$::"Sim, isso é bom. Você não serve pra capitão se deixar trabalho não feito. Não dê muito trabalho pra Fujimura-sensei, ela é assustadora quando irritada."[lr]::
@@ -180,13 +180,13 @@ id=qid::label=str::text=lstr::
 907::$$$message_0004_0060_0000$$$::"Esse tombo foi feio... Ela bateu a cabeça bem na plataforma. A Fujimura teria que ser invencível pra sair dessa sem um arranhão sequer."[lr]::
 908::$$$message_0004_0060_0001$$$::"Hm... Que tal tornarmos ela parte do nosso clube de baseball?"[lr]::
 909::$$$message_0004_0060_0002$$$::"N-Não fala isso nem de brincadeira! O dia em que a Taiga se tornar a responsável pelo time, nós iremos para as competições regionais!"[lr]::
-910::$$$message_0004_0060_0003$$$::"Fujimura-sensei... Fujimura-sensei...! Não adianta, ela não está respondendo...!"[lr]::
+910::$$$message_0004_0060_0003$$$::"Fujimura-sensei... Fujimura-sensei...! Não adianta, ela não está respondendo...!"::
 911::$$$message_0004_0061_0000$$$::"Ei, por que você não a acorda já que está bem na frente dela?"[lr]::
 912::$$$message_0004_0061_0001$$$::"Quê!? Sem chance! Eu vou ser morto se ela realmente estiver morta!"[lr]::
 913::$$$message_0004_0061_0002$$$::"Mas as coisas podem ficar feias se deixarmos ela desse jeito."[lr]::
 914::$$$message_0004_0061_0003$$$::"É, mas ninguém quer chegar perto dela."[lr]::
 915::$$$message_0004_0061_0004$$$::"Acho que não tem jeito... Vamos ter que fazer... aquilo."[lr]::
-916::$$$message_0004_0061_0005$$$::"Sim... aquilo."[lr]::
+916::$$$message_0004_0061_0005$$$::"Sim... aquilo."::
 917::$$$message_0004_0062_0000$$$::Os corações de todos se tornam apenas um.[lr]::
 918::$$$message_0004_0062_0001$$$::Bom... exceto pelo meu e pelo do Shinji, nós temos medo demais pra isso.::
 919::$$$message_0004_0063_0000$$$::"Um, dois, e... Tigresa, acorda!"[lr]::
@@ -253,6 +253,6 @@ id=qid::label=str::text=lstr::
 980::$$$message_0004_0082_0001$$$::Eles estão reabastecendo o estoque onde eu trabalho, e me pediram pra ir ajudar se pudesse já que toda ajuda é bem-vinda.[lr]::
 981::$$$message_0004_0082_0002$$$::Mas a minha ajuda certamente não é necessária. Eles provavelmente só estão pedindo pras pessoas irem ajudar porque querem festejar depois de terminarem todo o trabalho.::
 982::$$$message_0004_0083_0000$$$::"..."[lr]::
-983::$$$message_0004_0083_0001$$$::Eu tenho duas opções.[lr]::
-984::$$$message_0004_0083_0002$$$::Eu deveria...[lr]::
+983::$$$message_0004_0083_0001$$$::Tenho duas opções.[lr]::
+984::$$$message_0004_0083_0002$$$::Acho que devo...[lr]::
 

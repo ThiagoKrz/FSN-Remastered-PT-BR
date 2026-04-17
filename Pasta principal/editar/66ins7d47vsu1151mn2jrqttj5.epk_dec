@@ -1,35 +1,35 @@
 DAT
 id=qid::label=str::text=lstr::
-22810::$$$message_0203_0000_0000$$$::Eu tive a impressão de ter ouvido um barulho.[lr]::
+22810::$$$message_0203_0000_0000$$$::Tive a impressão de ter ouvido um barulho.[lr]::
 22811::$$$message_0203_0000_0001$$$::...Desde quando ficou de noite? O meu quarto está escuro.[lr]::
-22812::$$$message_0203_0000_0002$$$::O barulho do ponteiro pequeno do relógio me está me irritando.::
+22812::$$$message_0203_0000_0002$$$::O tic-tac preciso do relógio soa irritantemente alto.::
 22813::$$$message_0203_0001_0000$$$::"Ei, até quando você vai ficar dormindo? Você precisa acordar."::
 22814::$$$message_0203_0002_0000$$$::"[line2]?"[lr]::
 22815::$$$message_0203_0002_0001$$$::"Levanta daí. Já passaram das dez horas. A Illya está me perturbando para preparar o jantar, então levanta logo e vai fazer companhia para ela."[lr]::
-22816::$$$message_0203_0002_0002$$$::Uma voz brava.[lr]::
+22816::$$$message_0203_0002_0002$$$::Uma voz irritada.[lr]::
 22817::$$$message_0203_0002_0003$$$::Isso me deixa totalmente acordado.::
 22818::$$$message_0203_0003_0000$$$::"D-Dez horas[line2]!?"[lr]::
-22819::$$$message_0203_0003_0001$$$::Eu me levanto rápido.::
-22820::$$$message_0203_0004_0000$$$::"Sim. Dez horas e dezessete minutos, para ser mais exata. Já passou da hora da gente jantar."[lr]::
-22821::$$$message_0203_0004_0001$$$::A Tohsaka parece estar surpresa.::
+22819::$$$message_0203_0003_0001$$$:::Levanto num pulo::
+22820::$$$message_0203_0004_0000$$$::"É. Dez e dezessete, pra ser mais exata. Já passou da hora do jantar."[lr]::
+22821::$$$message_0203_0004_0001$$$::Diante de mim, Tohsaka está com uma expressão entre o cansaço e a irritação.::
 22822::$$$message_0203_0005_0000$$$::"...Foi mal, eu caí no sono. Eu já vou levantar, então espera por mim na sala."[lr]::
-22823::$$$message_0203_0005_0001$$$::"Tudo bem, mas onde está a Saber?"[lr]::
+22823::$$$message_0203_0005_0001$$$::"Tudo bem, mas... cadê a Saber?"[lr]::
 22824::$$$message_0203_0005_0002$$$::"...? Bem, se a Saber não está aqui, então ela só pode estar na sala ou no dojô."::
-22825::$$$message_0203_0006_0000$$$::"Shirou. Eu estou te perguntando isso porque ela não está em casa."[lr]::
+22825::$$$message_0203_0006_0000$$$::"Shirou. Estou perguntando justamente porque ela não está aqui."[lr]::
 22826::$$$message_0203_0006_0001$$$::"[line2]"[lr]::
-22827::$$$message_0203_0006_0002$$$::A Tohsaka está preocupada.[lr]::
+22827::$$$message_0203_0006_0002$$$::O olhar da Tohsaka está sério.[lr]::
 22828::$$$message_0203_0006_0003$$$::Na mesma hora, eu percebo a gravidade da situação.[lr]::
 22829::$$$message_0203_0006_0004$$$::"Ela não voltou até agora...!?"::
 22830::$$$message_0203_0007_0000$$$::"Espera, Shirou! O que você quer dizer com 'não voltou até agora'...!?"[lr]::
 22831::$$$message_0203_0007_0001$$$::A Tohsaka sai correndo do quarto atrás de mim.[lr]::
 22832::$$$message_0203_0007_0002$$$::Mas eu não tenho tempo para explicar para ela.[lr]::
-22833::$$$message_0203_0007_0003$$$::Eu corro para fora de casa, ignorando a pergunta da Tohsaka.::
+22833::$$$message_0203_0007_0003$$$::Ignoro a voz dela às minhas costas e corro direto para fora.::
 22834::$$$message_0203_0008_0000$$$::A cidade está silenciosa.[lr]::
 22835::$$$message_0203_0008_0001$$$::Um mundo igual a ontem, onde todos os sinais de vida parecem ter sumido.[lr]::
 22836::$$$message_0203_0008_0002$$$::Agora eu não estou com paciência para pensar sobre como isso é estranho.::
 22837::$$$message_0203_0009_0000$$$::A Saber não voltou para casa.[lr]::
 22838::$$$message_0203_0009_0001$$$::...Pensando bem, eu devia ter esperado por isso.[lr]::
-22839::$$$message_0203_0009_0002$$$::Nós tivemos uma briga séria.[lr]::
+22839::$$$message_0203_0009_0002$$$::Nós brigamos feio.[lr]::
 22840::$$$message_0203_0009_0003$$$::Ela disse que iria lutar por conta própria.[lr]::
 22841::$$$message_0203_0009_0004$$$::Então[line2]se eu a conheço bem, aposto que ela lutaria sozinha de verdade.::
 22842::$$$message_0203_0010_0000$$$::A Saber pode estar em qualquer lugar.[lr]::
@@ -37,10 +37,10 @@ id=qid::label=str::text=lstr::
 22844::$$$message_0203_0011_0000$$$::...Mesmo assim, esse foi o primeiro lugar que eu pensei em procurá-la.[lr]::
 22845::$$$message_0203_0011_0001$$$::O vento que vem do rio é gelado.[lr]::
 22846::$$$message_0203_0011_0002$$$::Esse parque é tão frio que parece que estou no meio de uma geada.[lr]::
-22847::$$$message_0203_0011_0003$$$::Eu estou soltando fumaça branca pela boca, e tanto as minhas bochechas quanto as minhas orelhas estão doendo.[lr]::
-22848::$$$message_0203_0011_0004$$$::Se aqui já está frio desse jeito, como será que deve estar lá na ponte, onde o vento que vem do rio bate com mais força?::
-22849::$$$message_0203_0012_0000$$$::Ela está parada lá.[lr]::
-22850::$$$message_0203_0012_0001$$$::Bem no mesmo lugar onde eu a deixei.[lr]::
+22847::$$$message_0203_0011_0003$$$::O bafo sai branco, e as bochechas e orelhas ardem de frio.[lr]::
+22848::$$$message_0203_0011_0004$$$::Se aqui já está assim, então a ponte, com o vento vindo do rio, deve estar congelante.::
+22849::$$$message_0203_0012_0000$$$::E ela está lá[lr]::
+22850::$$$message_0203_0012_0001$$$::No mesmo lugar onde a deixei.[lr]::
 22851::$$$message_0203_0012_0002$$$::A Saber está olhando para o rio, sem fazer mais nada.::
 22852::$$$message_0203_0013_0000$$$::...Será que ela está olhando para Sol que já se pôs há muito tempo?[lr]::
 22853::$$$message_0203_0013_0001$$$::Os olhos dela parecem estar encarando um horizonte vermelho que já foi embora.::
@@ -48,28 +48,28 @@ id=qid::label=str::text=lstr::
 22855::$$$message_0203_0014_0001$$$::Isso me faz perceber uma coisa.[lr]::
 22856::$$$message_0203_0014_0002$$$::Ela é tão forte, mas também tão fraca.[lr]::
 22857::$$$message_0203_0014_0003$$$::A imagem corajosa que a Saber passa prova que ela poderia viver sem a ajuda de ninguém.[lr]::
-22858::$$$message_0203_0014_0004$$$::Mas ao mesmo tempo, ela é tão fraca que a minha mão pode atravessá-la sem nenhuma resistência se eu tentar alcançá-la.[lr]::
+22858::$$$message_0203_0014_0004$$$::Mas, ao mesmo tempo, é tão frágil que, se eu estender a mão, parece que vai simplesmente escapar por entre os dedos.[lr]::
 22859::$$$message_0203_0014_0005$$$::Ela não quer ficar sozinha, mas está disposta a defender o seu orgulho até o final.::
 22860::$$$message_0203_0015_0000$$$::[line2]É por isso que...[lr]::
-22861::$$$message_0203_0015_0001$$$::Ela é igual a mim, quando eu estava olhando para as estrelas que jamais vou alcançar.::
+22861::$$$message_0203_0015_0001$$$::No fundo, eu também estava olhando para algo inalcançável, do mesmo jeito que ela.::
 22862::$$$message_0203_0016_0000$$$::...Ela está olhando para o horizonte, como se não se importasse com mais nada.[lr]::
-22863::$$$message_0203_0016_0001$$$::Eu não posso deixá-la sozinha.[lr]::
+22863::$$$message_0203_0016_0001$$$::Não dá pra simplesmente deixá-la ali.[lr]::
 22864::$$$message_0203_0016_0002$$$::Se essa foi uma derrota, então eu falhei completamente.[lr]::
 22865::$$$message_0203_0016_0003$$$::Isso faz com que eu prometa para mim mesmo que nunca mais vou deixar que ela faça essa cara de novo.::
-22866::$$$message_0203_0017_0000$$$::Eu caminho pela ponte.[lr]::
-22867::$$$message_0203_0017_0001$$$::Eu estou fazendo barulho, mas a Saber não me notou ainda.[lr]::
+22866::$$$message_0203_0017_0000$$$::Começo a atravessar a ponte.[lr]::
+22867::$$$message_0203_0017_0001$$$::Mesmo com o som dos meus passos, a Saber não percebe.[lr]::
 22868::$$$message_0203_0017_0002$$$::"[line5]"[lr]::
-22869::$$$message_0203_0017_0003$$$::Eu caminho na direção da Saber sem dizer nada e então paro do lado dela.::
+22869::$$$message_0203_0017_0003$$$::Caminho na direção da Saber sem dizer nada e então paro do lado dela.::
 22870::$$$message_0203_0018_0000$$$::"Saber. Se continuar assim, você vai acabar congelando."[lr]::
-22871::$$$message_0203_0018_0001$$$::Ela dá um pulo para trás.[lr]::
+22871::$$$message_0203_0018_0001$$$::A garota dá um pulo para trás.[lr]::
 22872::$$$message_0203_0018_0002$$$::...Acho que ela finalmente percebeu que eu estou aqui.::
 22873::$$$message_0203_0019_0000$$$::"[line2]Shirou?"[lr]::
 22874::$$$message_0203_0019_0001$$$::A Saber se vira para mim, como se estivesse surpresa por eu ter vindo para cá.::
 22875::$$$message_0203_0020_0000$$$::"O que você está fazendo aqui tão tarde da noite?[lr]::
 22876::$$$message_0203_0020_0001$$$::A Tohsaka está preocupada porque você não voltou para casa."[lr]::
-22877::$$$message_0203_0020_0002$$$::"[line2]Entendo. Eu devo pedir desculpas para ela depois."::
+22877::$$$message_0203_0020_0002$$$::"[line2]Entendo. Devo pedir desculpas para ela depois."::
 22878::$$$message_0203_0021_0000$$$::"...Não tem problema. Mas por que você ficou aqui esse tempo todo? ...Bem, apesar que isso acabou me ajudando para te encontrar."::
-22879::$$$message_0203_0022_0000$$$::"...Eu fiquei aqui porque ainda não sabia para onde ir.[lr]::
+22879::$$$message_0203_0022_0000$$$::"...Fiquei aqui porque ainda não sabia para onde ir.[lr]::
 22880::$$$message_0203_0022_0001$$$::Você me disse para fazer o que quisesse. Então eu tentei fazer isso.[lr]::
 22881::$$$message_0203_0022_0002$$$::Mas eu não consegui pensar no que deveria fazer ou para onde gostaria de ir. Por isso, eu fiquei todo esse tempo pensando sobre para onde deveria ir."::
 22882::$$$message_0203_0023_0000$$$::Ela está parecendo uma criança que foi abandonada.[lr]::
@@ -77,20 +77,20 @@ id=qid::label=str::text=lstr::
 22884::$$$message_0203_0023_0002$$$::...Nós tivemos aquela briga séria mais cedo.[lr]::
 22885::$$$message_0203_0023_0003$$$::É normal que a Saber ache que eu ainda estou bravo com ela.::
 22886::$$$message_0203_0024_0000$$$::"...Me desculpa. Por favor, diga para a Rin que ela foi de grande ajuda.[lr]::
-22887::$$$message_0203_0024_0001$$$::Eu devo ir até você assim que derrotar o Lancer e conseguir o Santo Graal, então até lá[line2]"[lr]::
+22887::$$$message_0203_0024_0001$$$::Assim que eu derrotar o Lancer e obtiver o Santo Graal, volto para junto de você. Então, até lá.[line2]"[lr]::
 22888::$$$message_0203_0024_0002$$$::Ela está querendo dizer que vai ficar andando por aí sem nenhum lugar para voltar?::
 22889::$$$message_0203_0025_0000$$$::"Do que está falando? Você não vai voltar para a minha casa?[lr]::
-22890::$$$message_0203_0025_0001$$$::Eu já preparei o seu jantar e a sua cama."::
+22890::$$$message_0203_0025_0001$$$::Já deixei comida e futon preparados pra você."::
 22891::$$$message_0203_0026_0000$$$::"[line2]Mas você disse que não consegue me entender..."[lr]::
 22892::$$$message_0203_0026_0001$$$::"Sim, é verdade. Eu não sei no que você está pensando."[lr]::
-22893::$$$message_0203_0026_0002$$$::Depois de dizer isso,[lr]::
-22894::$$$message_0203_0026_0003$$$::Eu seguro a mão dela.::
+22893::$$$message_0203_0026_0002$$$::Digo isso,[lr]::
+22894::$$$message_0203_0026_0003$$$::E seguro a mão dela.::
 22895::$$$message_0203_0027_0000$$$::"[line2]Shirou."[lr]::
 22896::$$$message_0203_0027_0001$$$::"Vamos voltar para casa. Até mesmo um Servo pode pegar um resfriado se ficar tanto tempo assim aqui fora. Vamos voltar depressa para comermos alguma coisa quentinha."[lr]::
 22897::$$$message_0203_0027_0002$$$::"[line2]B-Bem, mas eu..."::
 22898::$$$message_0203_0028_0000$$$::"Fique sabendo que eu não vou retirar aquilo o que disse mais cedo.[lr]::
 22899::$$$message_0203_0028_0001$$$::Se você tiver alguma reclamação, é melhor me dizer agora."[lr]::
-22900::$$$message_0203_0028_0002$$$::Eu digo isso de um jeito bem grosseiro enquanto desvio o meu olhar da Saber.::
+22900::$$$message_0203_0028_0002$$$::Digo isso de um jeito bem grosseiro enquanto desvio o meu olhar da Saber.::
 22901::$$$message_0203_0029_0000$$$::"[line5]"[lr]::
 22902::$$$message_0203_0029_0001$$$::Ela olha para mim, em choque.[lr]::
 22903::$$$message_0203_0029_0002$$$::Parece que ela quer se desculpar, mas eu a ignoro.::
@@ -116,7 +116,7 @@ id=qid::label=str::text=lstr::
 22923::$$$message_0203_0037_0000$$$::"S-Sim. ...Bem, quer que eu te solte? Bem, quer dizer, se você não gostar..."[lr]::
 22924::$$$message_0203_0037_0001$$$::"Não, assim está bom. A sua mão é quente e confortável."::
 22925::$$$message_0203_0038_0000$$$::...A nossa conversa termina aqui.[lr]::
-22926::$$$message_0203_0038_0001$$$::Eu continuo andando para ela não perceber que estou com vergonha.[lr]::
+22926::$$$message_0203_0038_0001$$$::Continuo andando para ela não perceber que estou com vergonha.[lr]::
 22927::$$$message_0203_0038_0002$$$::A Saber anda atrás de mim em silêncio.::
 22928::$$$message_0203_0039_0000$$$::O quanto falta para nós chegarmos em casa?[lr]::
 22929::$$$message_0203_0039_0001$$$::Enquanto nós saímos do parque, eu fico com vergonha por causa do calor da minha mão.[lr]::
@@ -125,3 +125,4 @@ id=qid::label=str::text=lstr::
 22932::$$$message_0203_0040_0000$$$::"[line2]Onde você pensa que vai?[lr]::
 22933::$$$message_0203_0040_0001$$$::Não tente levar o que é meu, seu moleque."[lr]::
 22934::$$$message_0203_0040_0002$$$::Esbarramos em alguém que nunca deveríamos ter encontrado.::
+

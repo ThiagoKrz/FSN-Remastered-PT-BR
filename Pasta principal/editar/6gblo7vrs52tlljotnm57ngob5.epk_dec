@@ -1,33 +1,33 @@
 DAT
 id=qid::label=str::text=lstr::
-2454::$$$message_0022_0000_0000$$$::...bem.[lr]::
-2455::$$$message_0022_0000_0001$$$::Conversar me acalmou, então vamos continuar treinando.[lr]::
+2454::$$$message_0022_0000_0000$$$::...Bem.[lr]::
+2455::$$$message_0022_0000_0001$$$::Agora que conversamos um pouco e o calor do meu corpo baixou, já dá pra retomar o treino.::
 2456::$$$message_0022_0001_0000$$$::"Saber, vamos começar. Já descansei o bastante."[lr]::
-2457::$$$message_0022_0001_0001$$$::"...é? Parece que você se acalmou, mas sua dor ainda não se foi, certo?"::
-2458::$$$message_0022_0002_0000$$$::"Não ligo. São só hematomas, vou aguentar um pouco de dor. Posso sarar automaticamente agora."[lr]::
+2457::$$$message_0022_0001_0001$$$::"...É mesmo? Pelo visto o calor do seu corpo baixou, mas a dor ainda não passou, passou?"::
+2458::$$$message_0022_0002_0000$$$::"Não tem problema. É só uma pancada, então aguento um pouco de dor. Além disso, meu corpo acaba sarando sozinho agora."[lr]::
 2459::$$$message_0022_0002_0001$$$::"Mas não há propósito em treinar se piorar. Acredito que devemos esperar um pouco mais e ver."::
-2460::$$$message_0022_0003_0000$$$::"Não se preocupe. Quero terminar isso antes da Tohsaka voltar. Não podemos ter ela me vendo assim, concorda?"::
-2461::$$$message_0022_0004_0000$$$::"...auff. Entendi. Certamente não seria bom ter a Rin, nossa eventual inimiga, descobrindo seus poderes.[lr]::
+2460::$$$message_0022_0003_0000$$$::"Tá tudo bem, tá tudo bem. Quero aproveitar antes da Tohsaka voltar. Não dá pra deixar ela me ver desse jeito, né?"::
+2461::$$$message_0022_0004_0000$$$::"...Auff. Entendi. Realmente não seria bom deixar a Rin, que um dia pode acabar virando nossa inimiga, saber do que você é capaz."[lr]::
 2462::$$$message_0022_0004_0001$$$::Acredito que é um pouco excessivo, mas se for o caso, vamos aumentar o ritmo um pouco."::
-2463::$$$message_0022_0005_0000$$$::A Saber pega a shinai.[lr]::
+2463::$$$message_0022_0005_0000$$$::"A Saber pega a shinai que estava caída no chão[lr]::
 2464::$$$message_0022_0005_0001$$$::E então.[lr]::
 2465::$$$message_0022_0005_0002$$$::Um som estranho ecoa pelo dojo.::
 2466::$$$message_0022_0006_0000$$$::"Saber...?"[lr]::
 2467::$$$message_0022_0006_0001$$$::Um, acho que foi o estômago da Saber.[lr]::
 2468::$$$message_0022_0006_0002$$$::"Acredito que estou com fome. Não notei já que eu estava focada no treino."::
 2469::$$$message_0022_0007_0000$$$::"Ah[line2]é. Agora que você mencionou isso, já é hora de almoçar."[lr]::
-2470::$$$message_0022_0007_0001$$$::Não é a toa que o estômago dela começou a roncar.[lr]::
+2470::$$$message_0022_0007_0001$$$::Bom, não é de admirar que a barriga tenha roncado.[lr]::
 2471::$$$message_0022_0007_0002$$$::Não estou com tanta fome ainda, mas se a Saber estiver com fome, vamos almoçar.[lr]::
 2472::$$$message_0022_0007_0003$$$::Vai ser bom se meu corpo melhorar nesse tempo também.::
 2473::$$$message_0022_0008_0000$$$::"Tudo bem.. É uma boa hora, então vamos almoçar. Vou comprar alguns mantimentos, então descanse na sala de estar."[lr]::
-2474::$$$message_0022_0008_0001$$$::"Shirou, devo escoltar você se você for sair."::
-2475::$$$message_0022_0009_0000$$$::"Não tem problema, só vou até o distrito de compras aqui perto. Ninguém atacaria durante a luz do dia, e ficaríamos visíveis se você fosse comigo."[lr]::
-2476::$$$message_0022_0009_0001$$$::"...então não tem nenhum perigo?"[lr]::
-2477::$$$message_0022_0009_0002$$$::"Não. Vou voltar logo, então me espere aqui."::
+2474::$$$message_0022_0008_0001$$$::"Shirou. Se vai sair, então eu vou com você."::
+2475::$$$message_0022_0009_0000$$$::"Tá tudo bem, é só a rua comercial aqui perto. Ninguém vai me atacar em pleno dia, e, se você for comigo, vai acabar chamando ainda mais atenção."[lr]::
+2476::$$$message_0022_0009_0001$$$::"...Tem certeza de que não há perigo?"[lr]::
+2477::$$$message_0022_0009_0002$$$::"Tenho. Vou voltar logo, então me espere aqui."::
 2478::$$$message_0022_0010_0000$$$::Pego minha carteira e vou lá fora.[lr]::
-2479::$$$message_0022_0010_0001$$$::Não vai demorar nem dez minutos pra chegar lá se eu for de bike.[lr]::
+2479::$$$message_0022_0010_0001$$$::Não vai demorar nem dez minutos pra chegar lá se eu for de bicicleta.[lr]::
 2480::$$$message_0022_0010_0002$$$::Falando nisso, a bicicleta que acabei de pegar na garagem é a bicicleta número dois. A número um ainda está do lado de fora do Templo Ryuudou.::
-2481::$$$message_0022_0011_0000$$$::Eu desço a colina.[lr]::
+2481::$$$message_0022_0011_0000$$$::Desço a colina.[lr]::
 2482::$$$message_0022_0011_0001$$$::Não acho que estive no distrito de compras a luz do dia durante a semana desde que eu era uma criança fazendo tarefas.::
 2483::$$$message_0022_0012_0000$$$::Por ser dia, há várias esposas na intersecção, no caminho de volta pra casa.[lr]::
 2484::$$$message_0022_0012_0001$$$::Elas estão voltando do distrito de compras que a Sakura e eu costumamos a ir.::
@@ -35,158 +35,158 @@ id=qid::label=str::text=lstr::
 2486::$$$message_0022_0013_0001$$$::Ingredientes pra um almoço pra dois, e um besteirinha leve japonesa.[lr]::
 2487::$$$message_0022_0013_0002$$$::O jantar de hoje a noite é responsabilidade da Tohsaka, então eu compro só pão pro café da manhã de quatro pessoas que teremos amanhã.[lr]::
 2488::$$$message_0022_0013_0003$$$::Não sei como fazer geleia de morango, então compro a mais barata... não, serei criticado por isso, então compro uma bem cara no lugar.::
-2489::$$$message_0022_0014_0000$$$::"...droga, é tão caro. Por que eu tenho que pagar mil ienes por algo tão doce?"[lr]::
-2490::$$$message_0022_0014_0001$$$::Eu reclamo enquanto boto as coisas no cesto da bicicleta.[lr]::
+2489::$$$message_0022_0014_0000$$$::"...Droga, que gasto absurdo. Por que eu tenho que pagar mil ienes por um negócio tão doce?"[lr]::
+2490::$$$message_0022_0014_0001$$$::Resmungo enquanto enfio as compras no cesto da bicicleta.[lr]::
 2491::$$$message_0022_0014_0002$$$::[line2]E então.[lr]::
 2492::$$$message_0022_0014_0003$$$::Sinto algo puxando minhas roupas por trás.::
 2493::$$$message_0022_0015_0000$$$::"...?"[lr]::
 2494::$$$message_0022_0015_0001$$$::Me viro, me perguntando o que poderia ser.[lr]::
-2495::$$$message_0022_0015_0002$$$::Ali.[lr]::
-2496::$$$message_0022_0015_0003$$$::Está uma garota com cabelo prateado.::
+2495::$$$message_0022_0015_0002$$$::Ali...[lr]::
+2496::$$$message_0022_0015_0003$$$::Está uma garotinha de cabelos prateados.::
 2497::$$$message_0022_0016_0000$$$::"Que, você[line2]!?"[lr]::
-2498::$$$message_0022_0016_0001$$$::Eu me afasto, derrubando a bicicleta.::
-2499::$$$message_0022_0017_0000$$$::Me preparo enquanto a garota apenas sorri pra mim.::
+2498::$$$message_0022_0016_0001$$$::Me afasto, derrubando a bicicleta.::
+2499::$$$message_0022_0017_0000$$$::Instintivamente me preparo, enquanto a garota apenas sorri pra mim.::
 2500::$$$message_0022_0018_0000$$$::"...?"[lr]::
 2501::$$$message_0022_0018_0001$$$::Não sinto qualquer intenção assassina nem hostilidade vindo dela.[lr]::
-2502::$$$message_0022_0018_0002$$$::E ainda, a garota diz,[lr]::
-2503::$$$message_0022_0018_0003$$$::"Estou feliz. Você está vivo, Onii-chan."[lr]::
-2504::$$$message_0022_0018_0004$$$::E sorri alegremente.::
+2502::$$$message_0022_0018_0002$$$::E, pra completar, ela ainda diz,[lr]::
+2503::$$$message_0022_0018_0003$$$::"Que bom. Você está vivo, Onii-chan."[lr]::
+2504::$$$message_0022_0018_0004$$$::E ainda por cima parece sinceramente feliz.::
 2505::$$$message_0022_0019_0000$$$::"[line3]!"[lr]::
-2506::$$$message_0022_0019_0001$$$::...essa garota é definitivamente a Mestra do Berseker.[lr]::
-2507::$$$message_0022_0019_0002$$$::A mestra do monstro que me cortou em um único golpe aquela noite.[lr]::
+2506::$$$message_0022_0019_0001$$$::...Essa garota é definitivamente a Mestra do Berseker.[lr]::
+2507::$$$message_0022_0019_0002$$$::A Mestra do monstro que me cortou em um único golpe aquela noite.[lr]::
 2508::$$$message_0022_0019_0003$$$::Quem esperaria encontrar alguém assim no distrito de compras, próximo da sua casa, na luz do dia?::
 2509::$$$message_0022_0020_0000$$$::"Não me diga que... planeja lutar comigo aqui?"[lr]::
 2510::$$$message_0022_0020_0001$$$::"...? Você está dizendo coisas estranhas. Não podemos lutar enquanto o sol estiver visível."[lr]::
-2511::$$$message_0022_0020_0002$$$::Ela franze a testa em desgosto.[lr]::
-2512::$$$message_0022_0020_0003$$$::Esse é definitivamente o comportamento de uma garotinha, adequado pra idade dela.::
+2511::$$$message_0022_0020_0002$$$::Ela faz um biquinho de insatisfação.[lr]::
+2512::$$$message_0022_0020_0003$$$::É, sem dúvida, um gesto de menina da idade dela.::
 2513::$$$message_0022_0021_0000$$$::"[line5]"[lr]::
 2514::$$$message_0022_0021_0001$$$::Não conheço as intenções dela.[lr]::
 2515::$$$message_0022_0021_0002$$$::Não conheço as intenções dela, mas até mesmo eu posso dizer que a garota na minha frente é inofensiva.::
 2516::$$$message_0022_0022_0000$$$::"V-Você é[line2]se me lembro bem, uh..."[lr]::
-2517::$$$message_0022_0022_0001$$$::"Illyasviel von Einzbern. É grande, então pode me chamar de Illya. Qual é o seu nome, Onii-chan?"::
+2517::$$$message_0022_0022_0001$$$::"Illyasviel von Einzbern. É grande, então pode me chamar de Illya. E você, onii-chan, como se chama?"::
 2518::$$$message_0022_0023_0000$$$::"Eu...? Eu sou Emiya Shirou."[lr]::
-2519::$$$message_0022_0023_0001$$$::"Emiyashiro? É difícil de pronunciar."::
-2520::$$$message_0022_0024_0000$$$::"...é a primeira vez que vejo alguém pronunciar ele assim também. Não, se tiver problemas em lembrar dele, me chame de Shirou. É meu nome."::
+2519::$$$message_0022_0023_0001$$$::"Shiro-e Miya? É difícil de pronunciar."::
+2520::$$$message_0022_0024_0000$$$::"...É a primeira vez que vejo alguém pronunciar ele assim também. Não, se tiver problemas em lembrar dele, me chame de Shirou. É meu nome."::
 2521::$$$message_0022_0025_0000$$$::"Shirou? Ah, então é um nome mais fácil do que eu pensei. Entendo, Shirou. ...sim, tá ótimo. É simples, mas soa distante."[lr]::
 2522::$$$message_0022_0025_0001$$$::Illyasviel olha pra mim com olhos sugestivos.::
 2523::$$$message_0022_0026_0000$$$::"...!"[lr]::
 2524::$$$message_0022_0026_0001$$$::Meu corpo se mexe involuntariamente e abaixa sua cintura para que eu possa me mover melhor.[lr]::
-2525::$$$message_0022_0026_0002$$$::...porque ela é a Mestra do Berserker.[lr]::
+2525::$$$message_0022_0026_0002$$$::...Porque ela é a Mestra do Berserker.[lr]::
 2526::$$$message_0022_0026_0003$$$::Sinto que se ela quisesse, ela poderia me explodir junto a floricultura próxima a mim.::
-2527::$$$message_0022_0027_0000$$$::"Ah, não precisa ter tanto cuidado assim. Deixei o Berseker em casa hoje. E o Onii-chan deixou a Saber pra trás também, então estamos quites."[lr]::
+2527::$$$message_0022_0027_0000$$$::"Ah, não precisa ficar tão tenso assim, Shirou. Hoje eu deixei o Berserker em casa. E você também não trouxe a Saber, então estamos quites."[lr]::
 2528::$$$message_0022_0027_0001$$$::A Illyasviel olha pra mim feliz.::
-2529::$$$message_0022_0028_0000$$$::"...bem, como assim quites?"[lr]::
-2530::$$$message_0022_0028_0001$$$::"Ei, vamos conversar. Tenho muita coisa pra falar com você."::
+2529::$$$message_0022_0028_0000$$$::"...Bem, não sei se ‘quites’ é bem a palavra"[lr]::
+2530::$$$message_0022_0028_0001$$$::"Ei, vamos conversar! Eu tinha um monte de coisas que queria falar com você!"::
 2531::$$$message_0022_0029_0000$$$::"Que[line3]!?"[lr]::
-2532::$$$message_0022_0029_0001$$$::A garota agarra meu braço naturalmente como se tivesse segurando o braço de seu pai.::
+2532::$$$message_0022_0029_0001$$$::A garota agarra meu braço com a naturalidade de quem segura a mão do pai.::
 2533::$$$message_0022_0030_0000$$$::"E-Espera ai, espera aí, espera aí, espera aí...! O que você tá fazendo do nada!? É algum tipo de esquema!?"[lr]::
-2534::$$$message_0022_0030_0001$$$::"Vamos só conversar. Conversa amigável de criança, né?"::
-2535::$$$message_0022_0031_0000$$$::"Bem, é verdade, mas somos diferentes! Somos Mestres e já lutamos! Somos tipo inimigos!"::
+2534::$$$message_0022_0030_0001$$$::"Como assim? Eu só quero conversar. Crianças normais fazem amizade e conversam, não fazem?"::
+2535::$$$message_0022_0031_0000$$$::"Tá, isso até pode ser verdade, mas não se aplica à gente! Nós dois somos Mestres, já lutamos antes! Na verdade, somos inimigos!"::
 2536::$$$message_0022_0032_0000$$$::"Não exatamente. Não tenho inimigos. Os outros Mestres são só insetos perigosos, mas posso deixar você ir se você se comportar."::
-2537::$$$message_0022_0033_0000$$$::Ela está dizendo coisas terríveis tão casualmente também![lr]::
-2538::$$$message_0022_0033_0001$$$::"Geez, só me solta! Você tá sendo absurda!"[lr]::
-2539::$$$message_0022_0033_0002$$$::Eu balanço minha mão e jogo a Illyasviel.::
+2537::$$$message_0022_0033_0000$$$::E ela ainda diz uma coisa monstruosa dessas com um sorriso no rosto![lr]::
+2538::$$$message_0022_0033_0001$$$::"Ah, qual é, me solta! Você é completamente sem noção"[lr]::
+2539::$$$message_0022_0033_0002$$$::Balanço o braço com força pra me soltar da Illyasvie::
 2540::$$$message_0022_0034_0000$$$::"Kya...!"[lr]::
-2541::$$$message_0022_0034_0001$$$::Ela caiu.[lr]::
-2542::$$$message_0022_0034_0002$$$::Enquanto tentei fazer ela soltar, a garota quase caí no chão.::
+2541::$$$message_0022_0034_0001$$$::Ela quase cai.[lr]::
+2542::$$$message_0022_0034_0002$$$::Por causa da força com que a afastei, a garota quase vai ao chão de costas.::
 2543::$$$message_0022_0035_0000$$$::"Ah não, Illya[line2]!"[lr]::
-2544::$$$message_0022_0035_0001$$$::...por que diabos eu fiz algo assim?[lr]::
+2544::$$$message_0022_0035_0001$$$::...Por que diabos eu fiz algo assim?[lr]::
 2545::$$$message_0022_0035_0002$$$::Quando eu percebi, eu instantaneamente tentei segurar a Illyasviel[line2]céus, isso é longo demais[line2]a Illya pela cintura e peguei ela enquanto caia.::
 2546::$$$message_0022_0036_0000$$$::Eu silenciosamente coloco a Illya no chão.[lr]::
 2547::$$$message_0022_0036_0001$$$::"......"[lr]::
 2548::$$$message_0022_0036_0002$$$::A Illya está quieta.[lr]::
 2549::$$$message_0022_0036_0003$$$::Não sei o que dizer também, então fico parado olhando pra ela.::
-2550::$$$message_0022_0037_0000$$$::...isso é embaraçoso.[lr]::
-2551::$$$message_0022_0037_0001$$$::Isso é embaraçoso, então no instante que tento ir pra casa...::
-2552::$$$message_0022_0038_0000$$$::"[line2]Que foi? Você não gosta de mim, Onii-chan?"[lr]::
-2553::$$$message_0022_0038_0001$$$::Aquela noite.[lr]::
+2550::$$$message_0022_0037_0000$$$::...Que clima horrível.[lr]::
+2551::$$$message_0022_0037_0001$$$::Tão horrível que, quando estou prestes a simplesmente ir embora...::
+2552::$$$message_0022_0038_0000$$$::"[line2]Que foi? Você me odeia, Onii-chan?"[lr]::
+2553::$$$message_0022_0038_0001$$$::Naquela noite.[lr]::
 2554::$$$message_0022_0038_0002$$$::Ela disse isso com os mesmos olhos vermelhos que ela tinha quando o Berseker estava com ela.::
 2555::$$$message_0022_0039_0000$$$::"[line2]!"[lr]::
 2556::$$$message_0022_0039_0001$$$::Um calafrio corre por minha espinha.[lr]::
 2557::$$$message_0022_0039_0002$$$::Seus gestos eram tão inocentes que meu senso de perigo sumiu, mas ela é definitivamente a Mestra do Berserker.::
 2558::$$$message_0022_0040_0000$$$::Vou morrer se desobedecer ela.[lr]::
-2559::$$$message_0022_0040_0001$$$::Não posso mostrar minha cara pra Saber se eu morrer em vão aqui, e ainda, vou envolver todas as pessoas inocentes desse distrito.[lr]::
-2560::$$$message_0022_0040_0002$$$::...sim, posso apostar isso.[lr]::
+2559::$$$message_0022_0040_0001$$$::Se eu morrer à toa aqui, não vou poder encarar a Saber nunca mais e ainda por cima vou arrastar junto todo mundo dessa rua comercial.[lr]::
+2560::$$$message_0022_0040_0002$$$::...Sim, posso apostar isso.[lr]::
 2561::$$$message_0022_0040_0003$$$::Essa garota impiedosamente usaria seu poder como Mestra não importa onde esteja.::
-2562::$$$message_0022_0041_0000$$$::"...tudo bem. Vamos conversar. Vou ficar calmo, tudo bem, Illya?"::
+2562::$$$message_0022_0041_0000$$$::"...Tá bom. Você só quer conversar, né? Então eu converso. Vou ficar calmo, então isso basta, Illya?"::
 2563::$$$message_0022_0042_0000$$$::"Yup! Então vamos no parque logo ali. Eu fui lá olhar, mas não tinha ninguém nele."[lr]::
-2564::$$$message_0022_0042_0001$$$::A Illya começa a correr com passos dançantes.::
-2565::$$$message_0022_0043_0000$$$::"Corre, Corre! Vou te deixar pra trás se você não correr, [r]Shirou[line2]!"[lr]::
+2564::$$$message_0022_0042_0001$$$::A Illya sai correndo, com passos leves e saltitantes.::
+2565::$$$message_0022_0043_0000$$$::"Anda, anda! Se você não correr, vou te deixar pra trás,[r]Shirou[line2]!"[lr]::
 2566::$$$message_0022_0043_0001$$$::A Illya corre pelo distrito de compras, rodando em círculos.::
-2567::$$$message_0022_0044_0000$$$::"...ela foi mesmo na frente."[lr]::
-2568::$$$message_0022_0044_0001$$$::Além do espanto, estou um pouco tocado.[lr]::
-2569::$$$message_0022_0044_0002$$$::Para essa garota, Illya, qualquer promessa é uma verdade absoluta.::
-2570::$$$message_0022_0045_0000$$$::Por isso ela correu feliz.[lr]::
-2571::$$$message_0022_0045_0001$$$::Ela não pensa que vou fugir pensando que há chance disso enquanto eu estiver sozinha.[lr]::
+2567::$$$message_0022_0044_0000$$$::"...Ela foi mesmo na frente."[lr]::
+2568::$$$message_0022_0044_0001$$$::Mais do que espantado, fico até um pouco comovido.[lr]::
+2569::$$$message_0022_0044_0002$$$::Pra essa garota chamada Illya, uma promessa feita uma única vez já é uma verdade absoluta.::
+2570::$$$message_0022_0045_0000$$$::Por isso ela saiu correndo daquele jeito, toda feliz[lr]::
+2571::$$$message_0022_0045_0001$$$::Nem passou pela cabeça dela que eu poderia aproveitar que fiquei sozinho pra fugir.[lr]::
 2572::$$$message_0022_0045_0002$$$::Eu disse pra ela que ia conversar com ela, então ela correu acreditando no que eu disse.::
-2573::$$$message_0022_0046_0000$$$::"...qual é a dela?"[lr]::
-2574::$$$message_0022_0046_0001$$$::Ela é muito instável.[lr]::
-2575::$$$message_0022_0046_0002$$$::...mas, bem...[lr]::
+2573::$$$message_0022_0046_0000$$$::"...O que essa garota tem?"[lr]::
+2574::$$$message_0022_0046_0001$$$::Ela é meio desequilibrada.[lr]::
+2575::$$$message_0022_0046_0002$$$::...Mas, bem...[lr]::
 2576::$$$message_0022_0046_0003$$$::Não sou adulto o bastante pra trair uma confiança pura dessa.::
-2577::$$$message_0022_0047_0000$$$::Illya e I estamos sozinho nesse pequeno parque próximo do distrito de compra.[lr]::
+2577::$$$message_0022_0047_0000$$$::Illya e eu estamos sozinho nesse pequeno parque próximo do distrito de compra.[lr]::
 2578::$$$message_0022_0047_0001$$$::Talvez todas as crianças estejam na escola ou talvez tal parque não seja mais popular.[lr]::
 2579::$$$message_0022_0047_0002$$$::Começamos a falar nesse parque vazio de inverno, banhado em uma atmosfera estranhamente tensa.::
-2580::$$$message_0022_0048_0000$$$::"...espera, sobre o que vamos conversar?[lr]::
+2580::$$$message_0022_0048_0000$$$::"...Espera, sobre o que vamos conversar?[lr]::
 2581::$$$message_0022_0048_0001$$$::Quer falar sobre a Saber?"[lr]::
 2582::$$$message_0022_0048_0002$$$::"Huh? Por que falaríamos da Saber?"::
 2583::$$$message_0022_0049_0000$$$::"Porque somos Mestres. Queremos ganhar informação de Servos inimigos, não?"[lr]::
-2584::$$$message_0022_0049_0001$$$::"Não quero falar disso. Seria entediante se não falássemos de algo mais divertido."::
-2585::$$$message_0022_0050_0000$$$::"Bem, você diz entendiante, mas... então o que é divertido pra você, Illya?"[lr]::
+2584::$$$message_0022_0049_0001$$$::"Não quero falar desse tipo de coisa. Se a gente não falar de algo mais divertido, vou ficar entediada"::
+2585::$$$message_0022_0050_0000$$$::"Bem, você dizer que tá entediada não ajuda muito... Então o que é divertido pra você, Illya?"[lr]::
 2586::$$$message_0022_0050_0001$$$::"Não sei.[lr]::
 2587::$$$message_0022_0050_0002$$$::Não falei muito com outras pessoas, então não sei sobre o que conversar."::
-2588::$$$message_0022_0051_0000$$$::"...ei, você me trouxe aqui apesar disso? Não te ensinaram a não agir até você pensar bem nisso? Aposto que não. Agora seja uma adulta cuidadosa."::
-2589::$$$message_0022_0052_0000$$$::"...hm. Não tem problema. Vou deixar você fazer isso.[lr]::
+2588::$$$message_0022_0051_0000$$$::"...Ei, você me trouxe aqui apesar disso? Não te ensinaram a não agir até você pensar direito? Aposto que não. Agora seja uma pessoa cuidadosa."::
+2589::$$$message_0022_0052_0000$$$::"...Hm. Não tem problema. Vou deixar você fazer isso.[lr]::
 2590::$$$message_0022_0052_0001$$$::É a responsabilidade de um homem escoltar a dama, não?[lr]::
 2591::$$$message_0022_0052_0002$$$::Então tudo que preciso fazer é seguir você."::
 2592::$$$message_0022_0053_0000$$$::Ela sorri e encosta no meu ombro.[lr]::
-2593::$$$message_0022_0053_0001$$$::Ela não está sendo familiar demais, mas natural como um animal se aconchegando porque está frio.[lr]::
-2594::$$$message_0022_0053_0002$$$::...espera.[lr]::
+2593::$$$message_0022_0053_0001$$$::Não é nem questão de intimidade excessiva. É mais natural, como um bichinho se achegando só porque está com frio.[lr]::
+2594::$$$message_0022_0053_0002$$$::...Espera.[lr]::
 2595::$$$message_0022_0053_0003$$$::Olhando bem pra ela, parece que ela está com frio.::
-2596::$$$message_0022_0054_0000$$$::"Illya. Está com frio?"[lr]::
-2597::$$$message_0022_0054_0001$$$::"Huh? Sim, estou com frio. Não gosto do frio."::
+2596::$$$message_0022_0054_0000$$$::"Illya. Tá com frio?"[lr]::
+2597::$$$message_0022_0054_0001$$$::"Huh? Sim, tô com frio. Eu não gosto do frio."::
 2598::$$$message_0022_0055_0000$$$::Ela solta uma fumaça branca.[lr]::
 2599::$$$message_0022_0055_0001$$$::Mesmo que ela diga que não gosta de frio, ela olha pra respiração dela feliz.::
-2600::$$$message_0022_0056_0000$$$::"Entendo. Normalmente não é assim, mas está estranhamente frio hoje. Seria ruim se você não gostar do frio... um, de onde você é, Illya? Seu nome soa meio nobre."::
-2601::$$$message_0022_0057_0000$$$::"Não é 'meio nobre', eu sou uma nobre.[lr]::
-2602::$$$message_0022_0057_0001$$$::Nasci no velho castelo Einzbern.[lr]::
+2600::$$$message_0022_0056_0000$$$::"Entendo. Normalmente não é assim, mas está estranhamente frio hoje. Seria ruim se você não gostar do frio... Mas, Illya, de onde você vem? Seu nome soa como o de uma nobre."::
+2601::$$$message_0022_0057_0000$$$::"Não é 'soa como'. Eu sou uma nobre.[lr]::
+2602::$$$message_0022_0057_0001$$$::Nasci num castelo antigo da família Einzbern.[lr]::
 2603::$$$message_0022_0057_0002$$$::Estava sempre frio e nevando lá, então eu não ligo pra esse frio."::
 2604::$$$message_0022_0058_0000$$$::"...? Você nasceu num país frio, né? Então você não deveria estar acostumada com o frio?"::
 2605::$$$message_0022_0059_0000$$$::"Estou acostumada, mas não gosto. Gosto mais do calor do que do frio. Você não gosta do calor também?"[lr]::
 2606::$$$message_0022_0059_0001$$$::"Sim, claro. Prefiro calor ao frio."::
 2607::$$$message_0022_0060_0000$$$::"Sim! Então eu fico quente no meu quarto quando está frio. Mas gosto da neve, é tão branca e meu pai disse que era igual meu cabelo."::
 2608::$$$message_0022_0061_0000$$$::"[line2]"[lr]::
-2609::$$$message_0022_0061_0001$$$::Eu bato minhas mãos juntas.[lr]::
-2610::$$$message_0022_0061_0002$$$::Ela tem razão agora que ela mencionou.[lr]::
+2609::$$$message_0022_0061_0001$$$::Bato uma mão na outra, entendendo de repente.[lr]::
+2610::$$$message_0022_0061_0002$$$::Agora que ela falou, realmente faz sentido.[lr]::
 2611::$$$message_0022_0061_0003$$$::Estava tentando descobrir com o que eu associava a Illya. Se há tal coisa como uma fada do gelo, não pareceria com ela?::
-2612::$$$message_0022_0062_0000$$$::"Seu pai diz coisas espertas. Seu cabelo é certamente como a neve. É branco e parece fofinho."::
+2612::$$$message_0022_0062_0000$$$::"Seu pai diz coisas espertas. Seu cabelo é certamente como a neve. É branco e parece ser macio."::
 2613::$$$message_0022_0063_0000$$$::"Ehehe, né? Esse cabelo é algo que posso me gabar. Vem da minha mãe, e é a única coisa feminina em mim."::
 2614::$$$message_0022_0064_0000$$$::A Illya ri feliz.[lr]::
 2615::$$$message_0022_0064_0001$$$::Ver tais gestos realmente me entorpece.[lr]::
 2616::$$$message_0022_0064_0002$$$::Não acreditaria que ela é mesmo a Mestra do Berserker se não tivesse visto.::
-2617::$$$message_0022_0065_0000$$$::"E você, Shirou? Tem algo do seu pai? Ah, não diga Encravamento Mágico.[lr]::
+2617::$$$message_0022_0065_0000$$$::"E você, Shirou? Tem algo do seu pai? Ah, não diga Brasão Mágico.[lr]::
 2618::$$$message_0022_0065_0001$$$::Estou falando o que você tem dele como pai, não como Mestre."::
-2619::$$$message_0022_0066_0000$$$::"Huh, eu? ...Hmmm... acho que só a casa no fim.[lr]::
+2619::$$$message_0022_0066_0000$$$::"Huh, eu? Hmmm... acho que só a casa no fim.[lr]::
 2620::$$$message_0022_0066_0001$$$::Antes disso, meu sobrenome. E a primeira coisa que ganhei foi..."[lr]::
 2621::$$$message_0022_0066_0002$$$::Minha vida quando estava prestes a morrer.[lr]::
 2622::$$$message_0022_0066_0003$$$::Porque eu fui o único salvo pelo Kiritsugu naquele fogo dez anos atrás.::
-2623::$$$message_0022_0067_0000$$$::"...vamos ver, não tenho nenhuma característica física como você que veio do meus pais. Mas acho que tenho tantas coisas boas quanto."::
+2623::$$$message_0022_0067_0000$$$::"...Vamos ver, não tenho nenhuma característica física como você que veio do meus pais. Mas acho que tenho tantas coisas boas quanto."::
 2624::$$$message_0022_0068_0000$$$::Illya está encantada como se isso a interessasse.[lr]::
 2625::$$$message_0022_0068_0001$$$::Aposto que ninguém poderia ficar infeliz se eles vissem esse sorriso.::
-2626::$$$message_0022_0069_0000$$$::"Mas pelo o que você disse, você não recebeu o Encravamento Mágico, né? Isso é estranho. Então você não é um Mestre?"::
-2627::$$$message_0022_0070_0000$$$::"...? Não, sou um amador sem Encravamento Mágico, mas ainda sou um Mestre.[lr]::
+2626::$$$message_0022_0069_0000$$$::"Mas pelo o que você disse, você não recebeu o Brasão Mágico, né? Isso é estranho. Então você não é um Mestre?"::
+2627::$$$message_0022_0070_0000$$$::"...? Não, sou um mago amador sem Brasão Mágico, mas ainda sou um Mestre.[lr]::
 2628::$$$message_0022_0070_0001$$$::E você, Illya? Um[line2]você é uma Mestra, então você é uma maga, né?"::
-2629::$$$message_0022_0071_0000$$$::"Huh? Não sou um maga, apenas um Mestra.[lr]::
+2629::$$$message_0022_0071_0000$$$::"Hã? Não sou maga. Sou Mestra[lr]::
 2630::$$$message_0022_0071_0001$$$::Nunca me ensinaram magia normal."::
-2631::$$$message_0022_0072_0000$$$::"Huh...!? Então você não recebeu o Encravamento Mágico de seus pais? ...um, sua família é uma família nobre que até mesmo tem um castelo, certo?"[lr]::
-2632::$$$message_0022_0072_0001$$$::"Correto... mas o Encravamento Mágico não é algo que você precisa pra ser um Mestre? Por isso sou uma Mestra."::
+2631::$$$message_0022_0072_0000$$$::"Huh...!? Então você não recebeu o Brasão Mágico de seus pais? ...Hm, sua família é uma família nobre que até mesmo tem um castelo, certo?"[lr]::
+2632::$$$message_0022_0072_0001$$$::"Correto... mas o Brasão Mágico não é algo que você precisa pra ser um Mestre? Por isso sou uma Mestra."::
 2633::$$$message_0022_0073_0000$$$::A Illya vira a cabeça em confusão.[lr]::
 2634::$$$message_0022_0073_0001$$$::"...?"[lr]::
 2635::$$$message_0022_0073_0002$$$::Eu também viro a cabeça em confusão.[lr]::
 2636::$$$message_0022_0073_0003$$$::Parece que as palavras da Illya são meio estranhas, e que não estamos tendo uma conversa real.::
-2637::$$$message_0022_0074_0000$$$::"...ei Illya. Vou te perguntar algo, mas onde você mora atualmente? Parece que você veio aqui apenas pela Guerra do Santo Graal, então você tá morando num hotel ou algo do tipo?"::
+2637::$$$message_0022_0074_0000$$$::"...Ei Illya. Vou te perguntar algo, mas onde você mora atualmente? Parece que você veio aqui apenas pela Guerra do Santo Graal, então você tá morando num hotel ou algo do tipo?"::
 2638::$$$message_0022_0075_0000$$$::Não, primeiramente, seria terrível se ela não tivesse um responsável.[lr]::
 2639::$$$message_0022_0075_0001$$$::É inédito uma criança dessa ir pro Japão sozinha.::
-2640::$$$message_0022_0076_0000$$$::"Hotel...? Quer dizer vivenda?"[lr]::
+2640::$$$message_0022_0076_0000$$$::"Hotel...? Você quer dizer uma casa de férias?"[lr]::
 2641::$$$message_0022_0076_0001$$$::"Sim, tipo isso. Um lugar onde você pode ficar, mas que não é sua casa."::
 2642::$$$message_0022_0077_0000$$$::"Então eu tenho uma! Olha, tem uma floresta ali, né? Dentro dela há uma mansão ocidental que o avô do meu avô fez. Eles dizem que o Mestre do Einzbern vive lá durante a Guerra do Santo Graal."::
 2643::$$$message_0022_0078_0000$$$::A Illya está apontando para o oeste.[lr]::
@@ -202,34 +202,34 @@ id=qid::label=str::text=lstr::
 2653::$$$message_0022_0083_0000$$$::"......"[lr]::
 2654::$$$message_0022_0083_0001$$$::Sem saber o por quê, coloco minha mão na sacola.[lr]::
 2655::$$$message_0022_0083_0002$$$::Eu pego o dora-yaki que eu deveria comer com a Saber e novamente, sem saber o motivo, dou para a Illya.::
-2656::$$$message_0022_0084_0000$$$::"Você quer? Mas é barato."[lr]::
+2656::$$$message_0022_0084_0000$$$::"Quer? Não é nada demais, é simples mas gostoso."[lr]::
 2657::$$$message_0022_0084_0001$$$::"Huh? O que é isso? Comida?"[lr]::
 2658::$$$message_0022_0084_0002$$$::"Sim. Não gosto de doce, mas isso é uma exceção. É o lanche que meu pai e eu sempre tínhamos junto com chá."::
-2659::$$$message_0022_0085_0000$$$::"...um. ...então, posso comer?"::
+2659::$$$message_0022_0085_0000$$$::"Hm. ...Então, posso comer?"::
 2660::$$$message_0022_0086_0000$$$::"Sim. Seria ruim se eu comesse sozinho, então vamos comer juntos."[lr]::
 2661::$$$message_0022_0086_0001$$$::Dou pra ela o dora-yaki.[lr]::
 2662::$$$message_0022_0086_0002$$$::A Illya hesita, e então pega o doce japonês que tenho certeza que ela nunca viu antes.::
-2663::$$$message_0022_0087_0000$$$::"Ehe. Yuppy, obrigado!"[lr]::
+2663::$$$message_0022_0087_0000$$$::"Ehe. Uhum, obrigada!"[lr]::
 2664::$$$message_0022_0087_0001$$$::Ela come feliz.[lr]::
 2665::$$$message_0022_0087_0002$$$::Seu gestos são tão entusiásticos que a expressão "enchendo as bochechas" combina perfeitamente.::
 2666::$$$message_0022_0088_0000$$$::"[line5]"[lr]::
 2667::$$$message_0022_0088_0001$$$::Eu como meu dora-yaki também e aguento o choque que atacou minha mente.[lr]::
-2668::$$$message_0022_0088_0002$$$::...geez.[lr]::
-2669::$$$message_0022_0088_0003$$$::Por que estou pensando no quanto seria bom ter uma irmãzinha assim?::
-2670::$$$message_0022_0089_0000$$$::"...mas, sério..."[lr]::
+2668::$$$message_0022_0088_0002$$$::...Céus.[lr]::
+2669::$$$message_0022_0088_0003$$$::Por que será que eu acabei de pensar, falando sério, que seria bom ter uma irmãzinha assim?::
+2670::$$$message_0022_0089_0000$$$::"...Mas, falando sério..."[lr]::
 2671::$$$message_0022_0089_0001$$$::Acho que a Illya é inocente demais.[lr]::
 2672::$$$message_0022_0089_0002$$$::Essa garota pode ser realmente uma criança que não sabe ainda a diferença entre o bem e o mal.[lr]::
 2673::$$$message_0022_0089_0003$$$::Posso nem imaginar como uma criança nascida numa família de magos é criada.[lr]::
 2674::$$$message_0022_0089_0004$$$::Mas ainda[line2]consigo dizer que o ambiente na qual ela foi criada não é normal.::
-2675::$$$message_0022_0090_0000$$$::Tohsaka é tipo assim, mas ela é uma maga por natureza por dentro. Ela aceitou a Guerra do Santo Graal e as mortes entre os Mestres como "assassinato".::
-2676::$$$message_0022_0091_0000$$$::Mas talvez essa garota virou Mestra sem saber o que significar matar alguém.[lr]::
+2675::$$$message_0022_0090_0000$$$::A Tohsaka pode agir daquele jeito, mas no fundo é maga até o osso. Ela entende a Guerra do Santo Graal e aceita as mortes entre Mestres como "assassinato".::
+2676::$$$message_0022_0091_0000$$$::Mas talvez essa garota tenha se tornado Mestra sem sequer entender o que significa matar alguém.[lr]::
 2677::$$$message_0022_0091_0001$$$::Só falei um pouco com ela, mas não acho que a Illya seja uma garota que queira matar alguém.[lr]::
-2678::$$$message_0022_0091_0002$$$::So[line2]::
+2678::$$$message_0022_0091_0002$$$::Então[line2]::
 2679::$$$message_0022_0092_0000$$$::"Illya. Isso é um assunto sério, mas..."[lr]::
-2680::$$$message_0022_0092_0001$$$::Então.[lr]::
-2681::$$$message_0022_0092_0002$$$::A Illya repentinamente levanta a cabeça como se tivesse sido chamada por alguém.::
+2680::$$$message_0022_0092_0001$$$::Mas...[lr]::
+2681::$$$message_0022_0092_0002$$$::A repentinamente a Illya levanta a cabeça como se tivesse sido chamada por alguém.::
 2682::$$$message_0022_0093_0000$$$::"...Illya? Que foi?"[lr]::
 2683::$$$message_0022_0093_0001$$$::"Sim. Preciso ir pra casa. O Berserker acordou."::
 2684::$$$message_0022_0094_0000$$$::Ela pula do banco.[lr]::
-2685::$$$message_0022_0094_0001$$$::A Illya corre do parque sem dizer tchau e some num piscar de olhos.::
+2685::$$$message_0022_0094_0001$$$::A Illya sai correndo do parque sem nem se despedir e desaparece num instante.::
 �

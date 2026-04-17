@@ -28,14 +28,14 @@ id=qid::label=str::text=lstr::
 7837::$$$message_0076_0007_0003$$$::"Quê!? Você não vai comer isso, Senpai?"::
 7838::$$$message_0076_0008_0000$$$::"Eu vou. Eu não pretendia, mas vou fazer uma marmita pra hoje. Dessa forma não haverão desperdícios."[lr]::
 7839::$$$message_0076_0008_0001$$$::"Uau... Senpai, você já vai fazer o seu almoço?"[lr]::
-7840::$$$message_0076_0008_0002$$$::"Quase, mas acho que pelo menos consigo..."[lr]::
+7840::$$$message_0076_0008_0002$$$::"Quase, mas acho que pelo menos consigo..."::
 7841::$$$message_0076_0009_0000$$$::E então...[lr]::
 7842::$$$message_0076_0009_0001$$$::...eu finalmente percebo que tem alguém atrás de mim.::
 7843::$$$message_0076_0010_0000$$$::"Bom dia, Senpai. Vim te incomodar de novo hoje."[lr]::
 7844::$$$message_0076_0010_0001$$$::A Sakura me cumprimenta com um sorriso.[lr]::
 7845::$$$message_0076_0010_0002$$$::Não é incomum ela vir pra cozinha a essa hora.[lr]::
 7846::$$$message_0076_0010_0003$$$::Ela sempre toca a campainha ao entrar, mas eu nem sempre ouço, como hoje por exemplo.::
-7847::$$$message_0076_0011_0000$$$::"B-bom dia, Sakura. O café está pronto, então você pode ir pra sala de estar relaxar, tem chá pronto lá."[lr]::
+7847::$$$message_0076_0011_0000$$$::"B-Bom dia, Sakura. O café está pronto, então você pode ir pra sala de estar relaxar, tem chá pronto lá."[lr]::
 7848::$$$message_0076_0011_0001$$$::Eu respondo ela ainda encarando a frigideira.[lr]::
 7849::$$$message_0076_0011_0002$$$::Na mesa há um bule, uma chaleira, e alguns petiscos.::
 7850::$$$message_0076_0012_0000$$$::"Ah, tudo bem. A manhã de hoje está perfeita também, Senpai."[lr]::
@@ -61,7 +61,7 @@ id=qid::label=str::text=lstr::
 7870::$$$message_0076_0016_0002$$$::"Não, o Senpai fez o café sozinho. Nós estamos fazendo o almoço agora."::
 7871::$$$message_0076_0017_0000$$$::A voz da Sakura está realmente alegre.[lr]::
 7872::$$$message_0076_0017_0001$$$::Nós não estamos fazendo nada que seja particularmente divertido, então eu não sei com o que ela está tão feliz.::
-7873::$$$message_0076_0018_0000$$$::"Entendi, mas é claro que você ia estar de bom humor. Está cozinhando e está com o Shirou, quantas coisas divertidas, não? Okay, nós não temos muito tempo mas não se apressem."[lr]::
+7873::$$$message_0076_0018_0000$$$::"Entendi, mas é claro que você ia estar de bom humor. Está cozinhando e está com o Shirou, quantas coisas divertidas, não? Certo, nós não temos muito tempo mas não se apressem."[lr]::
 7874::$$$message_0076_0018_0001$$$::Rindo, a Fuji-nee se senta na mesa e se serve um chá.::
 7875::$$$message_0076_0019_0000$$$::"Sigh... Ela ainda deve estar sonhando. O que tem de divertido em cozinhar antes da escola?"[lr]::
 7876::$$$message_0076_0019_0001$$$::Eu coloco a frigideira de volta na prateleira.[lr]::
@@ -76,7 +76,7 @@ id=qid::label=str::text=lstr::
 7885::$$$message_0076_0022_0000$$$::"Ufa... Eu sou grato pela ajuda, mas você devia descansar, Sakura. Você devia dormir mais de manhã, e depois da aula você devia ir se divertir por aí. Você não precisa vir me ajudar com a casa."::
 7886::$$$message_0076_0023_0000$$$::"Sim, mas eu estou descansando no momento. Você fez o café da manhã hoje, e eu consegui uma parte do seu almoço também."::
 7887::$$$message_0076_0024_0000$$$::Novamente, aquele belo sorriso e aquele belo riso.[lr]::
-7888::$$$message_0076_0024_0001$$$::Sigh...[lr]::
+7888::$$$message_0076_0024_0001$$$::Ahh...[lr]::
 7889::$$$message_0076_0024_0002$$$::Faz um ano e meio desde que a Sakura começou a vir me ajudar. Agora, ela continua vindo não importa o que eu diga.::
 7890::$$$message_0076_0025_0000$$$::"Não é a mesma coisa. Você tem a sua própria vida pra viver, não pode ficar só cuidando de mim e da Fuji-nee. Se você ficar de babá pra nós, não vai poder fazer as coisas que você realmente quer fazer."::
 7891::$$$message_0076_0026_0000$$$::"Ahaha, tudo bem quanto a isso também. Meus únicos hobbies são arco e flecha e cozinhar. Pra falar a verdade, o meu objetivo é superar você como cozinheira, e eu acho que estou quase conseguindo."[lr]::
@@ -90,7 +90,7 @@ id=qid::label=str::text=lstr::
 7899::$$$message_0076_0028_0002$$$::Whoa.[lr]::
 7900::$$$message_0076_0028_0003$$$::Eu não consigo acreditar que ela disse isso tão abertamente!::
 7901::$$$message_0076_0029_0000$$$::"Fala sério... Se eu soubesse disso, eu nunca teria te ensinado a cozinhar. Você nunca sequer tinha ouvido falar em óleo antes de vir aqui, mas agora você está na minha espreita, como uma inimiga tentando me derrotar, qual é.[lr]::
-7902::$$$message_0076_0029_0001$$$:: Você não consegue ficar satisfeita só cozinhando?"::
+7902::$$$message_0076_0029_0001$$$::Você não consegue ficar satisfeita só cozinhando?"::
 7903::$$$message_0076_0030_0000$$$::"Mas é claro que eu estou tentando te derrotar. Você não pode ser melhor do que eu."[lr]::
 7904::$$$message_0076_0030_0001$$$::"...?"[lr]::
 7905::$$$message_0076_0030_0002$$$::Eu não sei o que há de tão ruim nisso, mas nós deveríamos começar a arrumar a mesa pro café.::

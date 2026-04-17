@@ -1,180 +1,180 @@
 DAT
 id=qid::label=str::text=lstr::
-10599::$$$message_0108_0000_0000$$$::É uma noite quieta.[lr]::
-10600::$$$message_0108_0000_0001$$$::Já passou da meia noite.[lr]::
-10601::$$$message_0108_0000_0002$$$::Não há nada se mexendo, e todos os seres vivos estão dormindo.[lr]::
-10602::$$$message_0108_0000_0003$$$::Uma escuridão instalada.[lr]::
-10603::$$$message_0108_0001_0000$$$::As nuvens estão se mexendo.[lr]::
-10604::$$$message_0108_0001_0001$$$::Não há vento na superfície.[lr]::
-10605::$$$message_0108_0001_0002$$$::Mas lá em cima no céu, o ar está rugindo e deixando as nuvens sobrepostas fluírem.[lr]::
-10606::$$$message_0108_0001_0003$$$::"[line3]Há um pouco de vento."[lr]::
-10607::$$$message_0108_0001_0004$$$::Talvez ela possa escutar o vento.[lr]::
-10608::$$$message_0108_0001_0005$$$::Olhando pro vento no céu, ela sussurra silenciosamente.::
-10609::$$$message_0108_0002_0000$$$::A pessoa parada no quintal olhando para o céu é a garota chamada Saber.[lr]::
-10610::$$$message_0108_0002_0001$$$::Seu cabelo dourado é lindo, mesmo na noite escura, e seus olhos verdes cristalinos estão observando a efêmera figura da lua.[lr]::
-10611::$$$message_0108_0002_0002$$$::"[line5]"[lr]::
-10612::$$$message_0108_0002_0003$$$::Ela joga um olhar no canto do quintal.::
-10613::$$$message_0108_0003_0000$$$::Há um galpão velho, e seu Mestre está dormindo nele.[lr]::
-10614::$$$message_0108_0003_0001$$$::"[line3]Não importa se você disser que não quer lutar."[lr]::
-10615::$$$message_0108_0003_0002$$$::Um som estridente.[lr]::
-10616::$$$message_0108_0003_0003$$$::O eco do aço derreta na noite sem alcançar ninguém.[lr]::
-10617::$$$message_0108_0003_0004$$$::A lua desaparece e aparece.[lr]::
-10618::$$$message_0108_0003_0005$$$::No instante em que as nuvens no céu flutuam na lua, a aparência da garota mudou completamente.::
-10619::$$$message_0108_0004_0000$$$::Uma armadura de prata pesada.[lr]::
-10620::$$$message_0108_0004_0001$$$::Sua figura coberta em roupas azuis não é algo que você pode chamar de garota mais.[lr]::
-10621::$$$message_0108_0004_0002$$$::Defesas impregnáveis feitas de energia mágica subjugando outras,[lr]::
-10622::$$$message_0108_0004_0003$$$::e uma espada invisível, escondida por energia mágica além dos limites humanos.[lr]::
-10623::$$$message_0108_0004_0004$$$::Essa figura, dita invencível no campo de batalha, prova sua existente até hoje.::
-10624::$$$message_0108_0005_0000$$$::Mesmo com a espada invisível, sua majestade prova que ela é uma excelente espadachim.[lr]::
-10625::$$$message_0108_0005_0001$$$::Por isso ela é a Saber.[lr]::
-10626::$$$message_0108_0005_0002$$$::Aquele dito ter o poder mais poderoso dos sete Servos, o herói da espada.[lr]::
-10627::$$$message_0108_0005_0003$$$::O cavaleiro entre cavaleiros, fiel ao decoro, e atuando sobre as ordens de seu mestre.[lr]::
-10628::$$$message_0108_0005_0004$$$::Seja qual forem os outros espíritos heroicos, ela é a espadachim ideal que não vai desobedecer seu mestre.::
-10629::$$$message_0108_0006_0000$$$::"[line5]"[lr]::
-10630::$$$message_0108_0006_0001$$$::Mas isso acaba hoje.[lr]::
-10631::$$$message_0108_0006_0002$$$::Ela está por este meio desobedecendo a ordem de seu mestre.[lr]::
-10632::$$$message_0108_0006_0003$$$::Não[line3]ela não está desobedecendo seu mestre.[lr]::
-10633::$$$message_0108_0006_0004$$$::Ela considerou como fazer seu Mestre ganhar, e o resultado de sua decisão é este.::
-10634::$$$message_0108_0007_0000$$$::"[line2]Ele é muito casual. Ele vai apenas ser morto por outro Mestre assim."[lr]::
-10635::$$$message_0108_0007_0001$$$::Mas o Mestre dessa vez não vai conseguir corrigir sua personalidade.[lr]::
-10636::$$$message_0108_0007_0002$$$::Então vai ser o papel dela se dedicar em ser fria.[lr]::
-10637::$$$message_0108_0007_0003$$$::Se o Mestre não vai lutar, sua espada vai lutar.::
-10638::$$$message_0108_0008_0000$$$::"A ferida não se recuperou ainda. Não posso esperar por um suprimento de energia mágica do meu Mestre."[lr]::
-10639::$$$message_0108_0008_0001$$$::Mas ainda, não haverá obstáculos na batalha.[lr]::
-10640::$$$message_0108_0008_0002$$$::Confirmando suas próprias habilidades, ela volta a olhar para a lua.[lr]::
-10641::$$$message_0108_0008_0003$$$::Ela não tem mais interesse no galpão onde seu mestre dorme.[lr]::
-10642::$$$message_0108_0008_0004$$$::Já que ela vai lutar, a única coisa nela é a vontade de derrotar seu oponente.::
+10599::$$$message_0108_0000_0000$$$::Era uma noite silenciosa, sem vento.[lr]::
+10600::$$$message_0108_0000_0001$$$::Já passava da meia-noite.[lr]::
+10601::$$$message_0108_0000_0002$$$::A escuridão se acumulava.[lr]::
+10602::$$$message_0108_0000_0003$$$::A cidade, guiada apenas pela luz da lua que aparecia entre as nuvens, parecia um mar profundo e escuro.::
+10603::$$$message_0108_0001_0000$$$::As nuvens corriam pelo céu.[lr]::
+10604::$$$message_0108_0001_0001$$$::No chão, não havia vento.[lr]::
+10605::$$$message_0108_0001_0002$$$::Mas, bem lá no alto, o ar rugia e fazia as camadas de nuvens avançarem.[lr]::
+10606::$$$message_0108_0001_0003$$$::"[line4]O vento vai vir."[lr]::
+10607::$$$message_0108_0001_0004$$$::Será que ela consegue ouvir um vento que não deveria ser ouvido?[lr]::
+10608::$$$message_0108_0001_0005$$$::Olhando para o céu, como se escutasse o vento lá do alto vibrar em seus ouvidos, ela murmurou baixinho.::
+10609::$$$message_0108_0002_0000$$$::A garota chamada Saber estava parada em silêncio no quintal, encarando o céu.[lr]::
+10610::$$$message_0108_0002_0001$$$::Seus cabelos dourados continuavam belos mesmo na escuridão da noite, e seus olhos verdes acompanhavam a lua que aparecia e desaparecia.[lr]::
+10611::$$$message_0108_0002_0002$$$::"[line8]"[lr]::
+10612::$$$message_0108_0002_0003$$$::Uma única vez, ela voltou o olhar para um canto do quintal.::
+10613::$$$message_0108_0003_0000$$$::Ali havia um galpão velho, onde seu Mestre dormia.[lr]::
+10614::$$$message_0108_0003_0001$$$::"[line4]Se você diz que não vai lutar, tudo bem."[lr]::
+10615::$$$message_0108_0003_0002$$$::Ouviu-se um leve som metálico.[lr]::
+10616::$$$message_0108_0003_0003$$$::O som do ferro se dissolveu na escuridão sem chegar aos ouvidos de ninguém.[lr]::
+10617::$$$message_0108_0003_0004$$$::A lua se escondeu... e tornou a aparecer.[lr]::
+10618::$$$message_0108_0003_0005$$$::No instante em que as nuvens passaram, a figura da garota mudou por completo.::
+10619::$$$message_0108_0004_0000$$$::Uma armadura pesada e rígida de prata.[lr]::
+10620::$$$message_0108_0004_0001$$$::Envolta em vestes azuis, ela já não podia mais ser chamada de garota.[lr]::
+10621::$$$message_0108_0004_0002$$$::Uma defesa absoluta tecida com um poder mágico que supera qualquer outro.[lr]::
+10622::$$$message_0108_0004_0003$$$::E uma espada invisível, oculta por um poder mágico que ultrapassa o humano.[lr]::
+10623::$$$message_0108_0004_0004$$$::Aquela figura, tida como invicta no campo de batalha, ainda hoje definia quem ela era.::
+10624::$$$message_0108_0005_0000$$$::Mesmo sem que sua espada pudesse ser vista, seu porte bastava para provar que ela era uma espadachim extraordinária.[lr]::
+10625::$$$message_0108_0005_0001$$$::Por isso, Saber.[lr]::
+10626::$$$message_0108_0005_0002$$$::O heroí da espada, dito possuidor da maior capacidade entre os sete Servos.[lr]::
+10627::$$$message_0108_0005_0003$$$::O cavaleiro entre cavaleiros, que conhece a cortesia e executa a vontade do seu Mestre.[lr]::
+10628::$$$message_0108_0005_0004$$$::Sejam quais forem os outros Espíritos Heroicos, só ela era a espadachim ideal que jamais se voltaria contra seu Mestre.::
+10629::$$$message_0108_0006_0000$$$::"[line8]"[lr]::
+10630::$$$message_0108_0006_0001$$$::Mas isso também terminou nesta noite.[lr]::
+10631::$$$message_0108_0006_0002$$$::Ela estava ali contrariando as ordens do seu Mestre.[lr]::
+10632::$$$message_0108_0006_0003$$$::Não[line3]na verdade, não era bem o caso de desobedecê-lo.[lr]::
+10633::$$$message_0108_0006_0004$$$::Esse era o resultado da decisão que ela tomou, à sua maneira, para conduzir seu Mestre à vitória.::
+10634::$$$message_0108_0007_0000$$$::"[line3]Ele é ingênuo. Se continuar assim, só vai acabar morto por outro Mestre."[lr]::
+10635::$$$message_0108_0007_0001$$$::Mas o Mestre desta vez não conseguiria abandonar essa ingenuidade.[lr]::
+10636::$$$message_0108_0007_0002$$$::Então cabia a ela assumir o papel de ser implacável.[lr]::
+10637::$$$message_0108_0007_0003$$$::Se o Mestre não ia lutar, então bastava a ela, como sua espada, lutar em seu lugar.::
+10638::$$$message_0108_0008_0000$$$::"Meus ferimentos ainda não cicatrizaram. Também não posso esperar receber energia mágica do Mestre."[lr]::
+10639::$$$message_0108_0008_0001$$$::Ainda assim, isso não atrapalha em combate.[lr]::
+10640::$$$message_0108_0008_0002$$$::Depois de confirmar suas próprias condições, ela voltou os olhos para a lua.[lr]::
+10641::$$$message_0108_0008_0003$$$::Já não voltava sua atenção ao galpão onde seu Mestre dormia.[lr]::
+10642::$$$message_0108_0008_0004$$$::Agora que estava armada, tudo o que restava nela era a vontade de derrotar o inimigo.::
 10643::$$$message_0108_0009_0000$$$::A lua escurece.[lr]::
-10644::$$$message_0108_0009_0001$$$::Enquanto uma nuvem grande cobre o céu, a Saber pula sobre o muro da casa.::
-10645::$$$message_0108_0010_0000$$$::[line3]Ela corre pela escuridão.[lr]::
-10646::$$$message_0108_0010_0001$$$::A cavaleira prateada corre pela cidade adormecida.::
-10647::$$$message_0108_0011_0000$$$::Há apenas um destino. A montanha sagrada nos arredores da cidade. O Templo Ryuudou está localizado no topo dele.[lr]::
-10648::$$$message_0108_0011_0001$$$::Até mesmo a Saber entende o quão difícil será matar o Mestre no templo sozinha.[lr]::
-10649::$$$message_0108_0011_0002$$$::Como o Shirou diz, é óbvio que ela vai se ferir gravemente. No pior caso, vai ser ela a morrer.::
-10650::$$$message_0108_0012_0000$$$::Mas que tipo de Servo ela seria se não pudesse fazer algo assim?[lr]::
-10651::$$$message_0108_0012_0001$$$::O Servo é apoiado pela suas habilidades superiores e o orgulho que construíram.[lr]::
-10652::$$$message_0108_0012_0002$$$::[line2]Eles tem orgulho como heróis e confiança de que são os mais fortes, que lutaram várias lutas.[lr]::
-10653::$$$message_0108_0012_0003$$$::Ela é um espirito heroico transmitida e honrada pelos ancestrais, então a derrota não será tolerada não importa qual seja o oponente.[lr]::
-10654::$$$message_0108_0012_0004$$$::Não, até mesmo imaginar a derrota é imperdoável.::
-10655::$$$message_0108_0013_0000$$$::Mesmo que algumas partes infantis permaneçam, ela não é exceção.[lr]::
-10656::$$$message_0108_0013_0001$$$::Porque ela ser coroada com o nome Saber, ela não pode ignorar seu orgulho.[lr]::
-10657::$$$message_0108_0013_0002$$$::Seu orgulho não vai permitir que ela apenas observe quando deparada por um inimigo.::
-10658::$$$message_0108_0014_0000$$$::Logo, ela não vai hesitar não importa que tipo de armadilha esteja esperando, e tudo que ela pode fazer é desafiar por si só.[lr]::
-10659::$$$message_0108_0014_0001$$$::Se eles dizem que não há chance de vitória, ela vai criar uma com sua própria espada.[lr]::
-10660::$$$message_0108_0014_0002$$$::A espada em sua mão é uma bela espada que derrotou vários oponentes.[lr]::
-10661::$$$message_0108_0014_0003$$$::Como ela tem o Ar Invisível, não há nada a temer.::
-10662::$$$message_0108_0015_0000$$$::Ela corre pela passagem da montanha e pela estrada ao templo[lr]::
-10663::$$$message_0108_0015_0001$$$::O que aguarda ela depois passagem são grandes degraus de pedra.::
-10664::$$$message_0108_0016_0000$$$::"...isso certamente é..."[lr]::
-10665::$$$message_0108_0016_0001$$$::É diferente do Templo Ryuudou que ela lembra.[lr]::
+10644::$$$message_0108_0009_0001$$$::No exato momento em que uma grande massa de nuvens cobriu o céu, Saber já havia saltado o muro da mansão.::
+10645::$$$message_0108_0010_0000$$$::[line4]Ela corre pela escuridão.[lr]::
+10646::$$$message_0108_0010_0001$$$::A espadachim prateada atravessa a cidade adormecida.::
+10647::$$$message_0108_0011_0000$$$::O destino era só um: o Templo Ryuudou, situado a meia encosta da montanha sagrada que se ergue nos arredores da cidade.[lr]::
+10648::$$$message_0108_0011_0001$$$::Até Saber entende o quão difícil seria derrotar sozinha o Mestre oculto no templo.[lr]::
+10649::$$$message_0108_0011_0002$$$::Como Shirou havia dito, era evidente que, indo sozinha, sofreria ferimentos graves. No pior dos casos, poderia até ser morta.::
+10650::$$$message_0108_0012_0000$$$::Mas, se não fosse capaz de forçar esse grau de impossibilidade, que tipo de Servo ela seria?[lr]::
+10651::$$$message_0108_0012_0001$$$::O que sustenta um Servo são suas habilidades extraordinárias e o orgulho absoluto que cultivou.[lr]::
+10652::$$$message_0108_0012_0002$$$::[line3]Neles há o orgulho dos heróis e a convicção dos mais fortes, forjada ao sobreviverem a incontáveis campos de batalha.[lr]::
+10653::$$$message_0108_0012_0003$$$::Sendo Espíritos Heroicos transmitidos e reverenciados desde a antiguidade, não lhes é permitido perder, não importa quem seja o inimigo.[lr]::
+10654::$$$message_0108_0012_0004$$$::Não[line2]nem sequer lhes deveria ser permitido imaginar a derrota.::
+10655::$$$message_0108_0013_0000$$$::Nem mesmo ela, em quem ainda restava certa juventude, era exceção a isso.[lr]::
+10656::$$$message_0108_0013_0001$$$::Justamente por portar o nome de Saber, não podia abrir mão do orgulho que tinha de si mesma.[lr]::
+10657::$$$message_0108_0013_0002$$$::Diante de um inimigo, esse orgulho não lhe permitiria ficar parada apenas observando.::
+10658::$$$message_0108_0014_0000$$$::Por isso, não hesitaria diante de nenhuma armadilha, e avançaria mesmo sozinha.[lr]::
+10659::$$$message_0108_0014_0001$$$::Se lhe dissessem que não havia chance de vitória, então ela própria abriria uma com sua espada.[lr]::
+10660::$$$message_0108_0014_0002$$$::A espada em sua mão é uma lâmina famosa, que já derrubou inúmeros inimigos.[lr]::
+10661::$$$message_0108_0014_0003$$$::Enquanto possuísse o Ar Invisível, não havia nada a temer.::
+10662::$$$message_0108_0015_0000$$$::Ela atravessa a trilha da montanha e corre pela estrada que leva ao templo.[lr]::
+10663::$$$message_0108_0015_0001$$$::Ao fim do caminho, o que a aguardava era uma imponente escadaria de pedra.::
+10664::$$$message_0108_0016_0000$$$::"...De fato, isto..."[lr]::
+10665::$$$message_0108_0016_0001$$$::Era algo completamente diferente do Templo Ryuudou que ela guardava na memória.[lr]::
 10666::$$$message_0108_0016_0002$$$::O ar está estagnado.[lr]::
 10667::$$$message_0108_0016_0003$$$::O vento está morto.[lr]::
-10668::$$$message_0108_0016_0004$$$::A linha ley da terra já está contaminada.[lr]::
-10669::$$$message_0108_0016_0005$$$::[line2]Esse lugar é a terra dos mortos.[lr]::
-10670::$$$message_0108_0016_0006$$$::Uma vez entrado, a pessoa não vai conseguir sair viva.::
-10671::$$$message_0108_0017_0000$$$::"[line3]"[lr]::
-10672::$$$message_0108_0017_0001$$$::Mas não há hesitação.[lr]::
-10673::$$$message_0108_0017_0002$$$::A velocidade da Saber não reduz nem um pouco enquanto ela sobe os degraus.::
-10674::$$$message_0108_0018_0000$$$::Ela corre pelo cenário.[lr]::
-10675::$$$message_0108_0018_0001$$$::O som dela chutando os degraus de pedra ecoa pelo ar, e a montanha começa a se contorcer barulhentamente.::
-10676::$$$message_0108_0019_0000$$$::São escadas longas.[lr]::
-10677::$$$message_0108_0019_0001$$$::O portão está distante até mesmo pra Saber, que está correndo como uma flecha.[lr]::
-10678::$$$message_0108_0019_0002$$$::Correr tal distância sem ser detectada é impossível.[lr]::
-10679::$$$message_0108_0019_0003$$$::Certamente haverá um ataque surpresa.[lr]::
-10680::$$$message_0108_0019_0004$$$::Mas não importa qual esquema aguarde-a, a única coisa a fazer é derrotá-lo e avançar.::
-10681::$$$message_0108_0019_0005$$$::Quaisquer que sejam os planos que a aguardam, ela deve simplesmente derrotá-los e seguir em frente.::
-10682::$$$message_0108_0020_0000$$$::Nada pode pará-la agora.[lr]::
-10683::$$$message_0108_0020_0001$$$::Mesmo se o Berserker aparecer, ela vai o atravessar.[lr]::
-10684::$$$message_0108_0020_0002$$$::Esse é um produto de sua determinação e confiança.[lr]::
-10685::$$$message_0108_0021_0000$$$::E no topo.[lr]::
-10686::$$$message_0108_0021_0001$$$::Quando ela está prestes a chegar aos portões, um obstáculo aparece.::
+10668::$$$message_0108_0016_0004$$$::A linha ley do lugar foi corrompida há muito tempo.[lr]::
+10669::$$$message_0108_0016_0005$$$::[line3]Aqui é um lugar de morte.[lr]::
+10670::$$$message_0108_0016_0006$$$::Se alguém puser os pés aqui, não voltará com vida.::
+10671::$$$message_0108_0017_0000$$$::"[line4]"[lr]::
+10672::$$$message_0108_0017_0001$$$::Mesmo assim, ela não hesita.[lr]::
+10673::$$$message_0108_0017_0002$$$::Saber sobe a longa escadaria sem reduzir a velocidade nem um pouco.::
+10674::$$$message_0108_0018_0000$$$::A paisagem passa rápido.[lr]::
+10675::$$$message_0108_0018_0001$$$::O eco dos passos que golpeiam a pedra ressoa, e a montanha começa a se agitar.::
+10676::$$$message_0108_0019_0000$$$::Era uma escadaria longa.[lr]::
+10677::$$$message_0108_0019_0001$$$::Mesmo para Saber, que subia como uma flecha, o portão do templo ainda estava distante.[lr]::
+10678::$$$message_0108_0019_0002$$$::Numa distância assim, atravessar o portão sem ser notada pelo inimigo seria impossível.[lr]::
+10679::$$$message_0108_0019_0003$$$::Uma emboscada é certa.[lr]::
+10680::$$$message_0108_0019_0004$$$::Ela não chegará ao portão com facilidade.[lr]::
+10681::$$$message_0108_0019_0005$$$::Ainda assim, independente de qual fosse a artimanha, bastava romper tudo e seguir em frente.::
+10682::$$$message_0108_0020_0000$$$::Nada poderia detê-la agora.[lr]::
+10683::$$$message_0108_0020_0001$$$::Ainda que Berserker surgisse diante dela, ela abriria caminho à força.[lr]::
+10684::$$$message_0108_0020_0002$$$::Essa era a sua resolução, e a confiança que possuía como Saber.::
+10685::$$$message_0108_0021_0000$$$::E então, o topo.[lr]::
+10686::$$$message_0108_0021_0001$$$::Quando faltava muito pouco para alcançar o portão, o obstáculo apareceu.::
 10687::$$$message_0108_0022_0000$$$::"[line4]!"[lr]::
-10688::$$$message_0108_0022_0001$$$::A Saber para.[lr]::
-10689::$$$message_0108_0022_0002$$$::Mesmo ela, determinada a derrotar qualquer inimigo, está surpresa com este 'inimigo'.[lr]::
-10690::$$$message_0108_0022_0003$$$::Um movimento natural.[lr]::
-10691::$$$message_0108_0022_0004$$$::A figura galante do homem que apareceu está faltante demais de inimizade e inacreditavelmente livre de aberturas.::
-10692::$$$message_0108_0023_0000$$$::"Você[line3]"[lr]::
-10693::$$$message_0108_0023_0001$$$::Parando, a Saber prepara sua espada invisível.[lr]::
-10694::$$$message_0108_0023_0002$$$::O homem com a lua em suas costas dissipa o instinto assassino da Saber como se ele fosse uma leve brisa.::
-10695::$$$message_0108_0024_0000$$$::"[line3]Um samurai?"[lr]::
-10696::$$$message_0108_0024_0001$$$::Ela deve estar chocada com um oponente que ela ouviu falar, mas nunca viu antes.[lr]::
-10697::$$$message_0108_0024_0002$$$::Sua segunda Guerra do Santo Graal.[lr]::
-10698::$$$message_0108_0024_0003$$$::Mesmo para ela, que viu vários espíritos heroicos, essa é a primeira vez para um Servo assim.::
-10699::$$$message_0108_0025_0000$$$::"[line5]"[lr]::
-10700::$$$message_0108_0025_0001$$$::Suor se forma na testa da Saber.[lr]::
-10701::$$$message_0108_0025_0002$$$::Não por medo, mas por ser incompreensível.::
-10702::$$$message_0108_0026_0000$$$::Não é como se não Servos estranhos como ele antes.[lr]::
-10703::$$$message_0108_0026_0001$$$::Não deveria haver Servo mais misterioso e suspeito que o Archer da última vez.[lr]::
-10704::$$$message_0108_0026_0002$$$::Em comparação a isso, o Servo na frente dela não tem aspectos assustadores nem uma arma assustadora.::
-10705::$$$message_0108_0027_0000$$$::...por isso é estranho.[lr]::
-10706::$$$message_0108_0027_0001$$$::Nada pode ser sentido deste homem.[lr]::
-10707::$$$message_0108_0027_0002$$$::Não há dúvidas de que ele é um Servo, mas não há sensação de energia mágica nem de um Fantasma Nobre de um herói.::
-10708::$$$message_0108_0028_0000$$$::Então derrotá-lo deve ser fácil.[lr]::
-10709::$$$message_0108_0028_0001$$$::É verdade que essa luta estaria acabada em um golpe.[lr]::
-10710::$$$message_0108_0028_0002$$$::Mas seus instintos dizem:[lr]::
-10711::$$$message_0108_0028_0003$$$::[line2]Não subestime ele.[lr]::
-10712::$$$message_0108_0028_0004$$$::Esse Servo tem um jeito de garantir um morte.::
+10688::$$$message_0108_0022_0001$$$::Os pés de Saber param.[lr]::
+10689::$$$message_0108_0022_0002$$$::Mesmo ela, decidida a romper qualquer resistência que encontrasse, foi pega de surpresa por aquele 'inimigo'.[lr]::
+10690::$$$message_0108_0022_0003$$$::Tão natural que quase se podia ouvir a leveza da sua presença.[lr]::
+10691::$$$message_0108_0022_0004$$$::A figura do homem que surgiu com tanta leveza era desprovida demais de hostilidade e, ao mesmo tempo, inacreditavelmente sem brechas.::
+10692::$$$message_0108_0023_0000$$$::"Você...[line4]"[lr]::
+10693::$$$message_0108_0023_0001$$$::Parando, Saber põe-se em guarda com a espada invisível.[lr]::
+10694::$$$message_0108_0023_0002$$$::O homem, com a lua às costas, recebe a intenção assassina de Saber como se fosse apenas uma brisa fresca.::
+10695::$$$message_0108_0024_0000$$$::"[line4]Um samurai...?"[lr]::
+10696::$$$message_0108_0024_0001$$$::Talvez tenha se perturbado diante de um tipo de oponente sobre o qual já ouviu falar, mas jamais vira com os próprios olhos.[lr]::
+10697::$$$message_0108_0024_0002$$$::Era sua segunda Guerra do Santo Graal.[lr]::
+10698::$$$message_0108_0024_0003$$$::Mesmo ela, que já tinha visto diversos Espíritos Heroicos, jamais havia encontrado um Servo com aquela aparência.::
+10699::$$$message_0108_0025_0000$$$::"[line8]"[lr]::
+10700::$$$message_0108_0025_0001$$$::Gotas de suor surgem na testa de Saber.[lr]::
+10701::$$$message_0108_0025_0002$$$::Não por medo, mas porque aquilo simplesmente não fazia sentido.::
+10702::$$$message_0108_0026_0000$$$::Não é que ela jamais tivesse encontrado Servos estranhos como aquele.[lr]::
+10703::$$$message_0108_0026_0001$$$::Em estranheza e mistério, provavelmente ninguém superaria o Archer da guerra anterior.[lr]::
+10704::$$$message_0108_0026_0002$$$::Comparado a ele, o Servo à sua frente não possuía nada de ameaçador, nem qualquer arma que inspirasse temor.::
+10705::$$$message_0108_0027_0000$$$::...E era justamente isso que o tornava anormal.[lr]::
+10706::$$$message_0108_0027_0001$$$::Ela não sentia absolutamente nada vindo daquele homem.[lr]::
+10707::$$$message_0108_0027_0002$$$::Não havia dúvida de que era um Servo, e ainda assim ele não possuía nem o traço de um Fantasma Nobre nem energia mágica digna de um Espírito Heroico.::
+10708::$$$message_0108_0028_0000$$$::Se fosse assim, derrotá-lo deveria ser fácil.[lr]::
+10709::$$$message_0108_0028_0001$$$::Seria natural que a luta se decidisse com um único golpe.[lr]::
+10710::$$$message_0108_0028_0002$$$::E, no entanto, sua intuição lhe dizia...[lr]::
+10711::$$$message_0108_0028_0003$$$::[line3]Não o subestime.[lr]::
+10712::$$$message_0108_0028_0004$$$::Aquele Servo possuía um meio de matá-la com certeza.::
 10713::$$$message_0108_0029_0000$$$::"[line8]"[lr]::
-10714::$$$message_0108_0029_0001$$$::Ela não pode se aproximar.[lr]::
-10715::$$$message_0108_0029_0002$$$::Poderia ser dito que o alcance da arma do homem, a katana Japonesa, é difícil de julgar... mas acima disso, a localização da Saber é desvantajosa.::
-10716::$$$message_0108_0030_0000$$$::Acima e abaixo das escadas.[lr]::
-10717::$$$message_0108_0030_0001$$$::Há cinco metros entre eles.[lr]::
-10718::$$$message_0108_0030_0002$$$::Ela certamente seria acertada pela espada antes que ela possa correr e atacar ele.::
-10719::$$$message_0108_0031_0000$$$::...mas nada pode ser sentido daquela espada.[lr]::
-10720::$$$message_0108_0031_0001$$$::Deve ser fácil a repelir.[lr]::
-10721::$$$message_0108_0031_0002$$$::Então ela não deve hesitar e atacar... mas a Saber instintivamente entende que ela não pode se aproximar casualmente.::
-10722::$$$message_0108_0032_0000$$$::Ela levemente ajusta sua postura, e olha para o inimigo em sua frente.[lr]::
-10723::$$$message_0108_0032_0001$$$::Sua identidade é desconhecida, mas ela deve conseguir determinar a classe deste samurai.[lr]::
-10724::$$$message_0108_0032_0002$$$::"...eu lhe pergunto. Qual Servo tu és?"[lr]::
-10725::$$$message_0108_0032_0003$$$::A Saber pergunta, sem esperar uma resposta.::
-10726::$$$message_0108_0033_0000$$$::Com um sorriso,::
-10727::$$$message_0108_0034_0000$$$::"[line3]Servo Assassin, Sasaki Kojirou."::
-10728::$$$message_0108_0035_0000$$$::O Servo diz, como se estivesse cantando.::
-10729::$$$message_0108_0036_0000$$$::"Que[line3]"[lr]::
-10730::$$$message_0108_0036_0001$$$::É natural para a Saber ficar surpresa.[lr]::
-10731::$$$message_0108_0036_0002$$$::Servos devem esconder suas identidades.[lr]::
-10732::$$$message_0108_0036_0003$$$::Onde sequer você encontraria um Servo que assume quem é[line2]!?::
-10733::$$$message_0108_0037_0000$$$::"O que você[line3]"::
-10734::$$$message_0108_0038_0000$$$::"É rude perguntar assim. É natural se apresentar antes de uma luta, não? Ainda mais se o oponente for justo como você. Não esperaria que você faria uma cara dessas."[lr]::
-10735::$$$message_0108_0038_0001$$$::Assassin[line2]o homem que chama si mesmo de Sasaki Kojirou continua, como se gostasse da confusão da Saber.::
-10736::$$$message_0108_0039_0000$$$::A Saber certamente não sabe.[lr]::
-10737::$$$message_0108_0039_0001$$$::Que este Servo é um espadachim que usava uma katana chamada Monohoshizao, e costumava a ser dito que não havia alguém que se igualasse neste grande mundo.[lr]::
-10738::$$$message_0108_0039_0002$$$::[line2]Não, o que mudaria se ela soubesse?[lr]::
-10739::$$$message_0108_0039_0003$$$::Seu nascimento é desconhecido, e até sua existência é incerta.[lr]::
-10740::$$$message_0108_0039_0004$$$::Sua história foi contada apenas por rumores. Só havia um que conhecia a existência de um espadachim. Este sendo um rival digno de um raro e habilidoso espadachim, seu único inimigo, aquele que derrotou o homem chamado de Sasaki Kojirou.::
-10741::$$$message_0108_0040_0000$$$::Um não pode chamar esta pessoa de herói.[lr]::
-10742::$$$message_0108_0040_0001$$$::O Servo Assassin[line2]Sasaki Kojirou é uma existência diferente da Saber.[lr]::
-10743::$$$message_0108_0040_0002$$$::Qual Servo teria as habilidades de um espadachim que não é tratado como herói?::
-10744::$$$message_0108_0041_0000$$$::"[line2]Mas."[lr]::
-10745::$$$message_0108_0041_0001$$$::Só há duas verdades na frente dela agora.[lr]::
-10746::$$$message_0108_0041_0002$$$::Que este homem é seu inimigo, e que ele disse seu nome.[lr]::
-10747::$$$message_0108_0041_0003$$$::"...você me pegou. É a etiqueta de um cavalheiro pra mim se introduzir se for dado um nome."::
-10748::$$$message_0108_0042_0000$$$::A voz da Saber na resposta é pesada.[lr]::
-10749::$$$message_0108_0042_0001$$$::Para ela, é arriscado demais dizer seu nome.[lr]::
-10750::$$$message_0108_0042_0002$$$::Ela não pode revelar seu nome real, não importa a qual tortura ela seja submetida, e ela não tem a intenção de revelá-lo.[lr]::
-10751::$$$message_0108_0042_0003$$$::[line2]Mas isso é apenas para ganhar.[lr]::
-10752::$$$message_0108_0042_0004$$$::Ela não consegue desonrar a fé de um cavalheiro por tal coisa.::
-10753::$$$message_0108_0043_0000$$$::"Você se chamou de Kojirou.[lr]::
-10754::$$$message_0108_0043_0001$$$::[line3]Servo Assassin, eu sou-"[lr]::
-10755::$$$message_0108_0043_0002$$$::"Pare. Entendo, você é gentil o bastante que deve se introduzir de volta se dado o nome.[lr]::
-10756::$$$message_0108_0043_0003$$$::Não, foi eu quem fui rude."[lr]::
-10757::$$$message_0108_0043_0004$$$::Clank.[lr]::
-10758::$$$message_0108_0043_0005$$$::O Assassin desce as escadas elegantemente e confronta a Saber.::
-10759::$$$message_0108_0044_0000$$$::"Não tenho a intenção de conhecer meu oponente assim. Para nós, essas espadas devem ser o bastante para conhecer nosso oponente.[lr]::
-10760::$$$message_0108_0044_0001$$$::Estou errado, Serva Saber?"[lr]::
-10761::$$$message_0108_0044_0002$$$::"Que[line4]"::
-10762::$$$message_0108_0045_0000$$$::"Não deve ser tão surpreendente. Não sei o que você carrega, mas a pressão em seu corpo é a de uma espadachim.[lr]::
-10763::$$$message_0108_0045_0001$$$::...Hm, essa bela, deslumbrante aura de esgrima[line2]quem mais você seria além de Saber?"[lr]::
-10764::$$$message_0108_0045_0002$$$::Outro passo.[lr]::
-10765::$$$message_0108_0045_0003$$$::O Assassin desce as escadas e dirige a ponta da sua espada na Saber.::
-10766::$$$message_0108_0046_0000$$$::"Não ligo pro seu nome real. Haverá apenas o fato de que a Serva Saber sofreu uma derrota por minha espada.[lr]::
-10767::$$$message_0108_0046_0001$$$::Não há nada para discutir. [line2]Desde o começo, Servos são tais seres, não são?"[lr]::
-10768::$$$message_0108_0046_0002$$$::O espadachim sorri feliz.::
-10769::$$$message_0108_0047_0000$$$::"[line2]Entendo. Certamente, é verdade."[lr]::
-10770::$$$message_0108_0047_0001$$$::Respondendo, ela prepara sua espada.::
-10771::$$$message_0108_0048_0000$$$::"Isso é bom.[lr]::
-10772::$$$message_0108_0048_0001$$$::[line2]Então vamos duelar, Saber.[lr]::
-10773::$$$message_0108_0048_0002$$$::Devo ver suas habilidades com a espada, dita serem as melhores entre os todos os Servos[line3]"::
-10774::$$$message_0108_0049_0000$$$::[se volume=50 storage=se111.wav]A luz prateada pula.[se volume=50 storage=se112.wav][lr]::
-10775::$$$message_0108_0049_0001$$$::Rigidez e suavidade.[lr]::
-10776::$$$message_0108_0049_0002$$$::A luta entre dois diferentes espadachins começa sobre a luz do luar.::
+10714::$$$message_0108_0029_0001$$$::Ela não consegue reduzir a distância.[lr]::
+10715::$$$message_0108_0029_0002$$$::Havia o problema de não conseguir medir o alcance daquela espada[line2]longa demais para ser uma katana comum[line2]mas, acima de tudo, a posição de Saber era desfavorável demais.::
+10716::$$$message_0108_0030_0000$$$::Embaixo e em cima da escadaria.[lr]::
+10717::$$$message_0108_0030_0001$$$::A distância entre os dois é de cerca de cinco metros.[lr]::
+10718::$$$message_0108_0030_0002$$$::Antes que pudesse subir e avançar, ela certamente teria de enfrentar um golpe daquela longa lâmina.::
+10719::$$$message_0108_0031_0000$$$::...Mas, ainda assim, ela não sente nada vindo daquela espada.[lr]::
+10720::$$$message_0108_0031_0001$$$::Em teoria, apará-la deveria ser fácil.[lr]::
+10721::$$$message_0108_0031_0002$$$::Ainda assim, embora o correto fosse avançar sem hesitar, Saber intui que não pode se aproximar de forma imprudente.::
+10722::$$$message_0108_0032_0000$$$::Ajustando de leve a guarda, Saber fita o inimigo à sua frente.[lr]::
+10723::$$$message_0108_0032_0001$$$::Ela não sabe sua identidade, mas ao menos precisa descobrir a que classe aquele samurai pertence.[lr]::
+10724::$$$message_0108_0032_0002$$$::"...Diga. Que tipo de Servo é você?"[lr]::
+10725::$$$message_0108_0032_0003$$$::Saber pergunta sem esperar resposta alguma.::
+10726::$$$message_0108_0033_0000$$$::Então, depois de um sorriso torto.::
+10727::$$$message_0108_0034_0000$$$::"　　[line4]Servo da classe Assassin, Sasaki Kojirou"::
+10728::$$$message_0108_0035_0000$$$::O Servo respondeu como se estivesse cantando.::
+10729::$$$message_0108_0036_0000$$$::"O quê...[line4]"[lr]::
+10730::$$$message_0108_0036_0001$$$::Não era de se estranhar que Saber se surpreendesse.[lr]::
+10731::$$$message_0108_0036_0002$$$::Servos escondem sua verdadeira identidade.[lr]::
+10732::$$$message_0108_0036_0003$$$::Que Servo a revelaria por conta própria, e com tamanha franqueza[line3]!::
+10733::$$$message_0108_0037_0000$$$::"Você, o que...[line4]"::
+10734::$$$message_0108_0038_0000$$$::"Que falta de elegância. Revelar o nome antes de um duelo não é o natural? Ainda mais diante de alguém tão bela quanto você. E, ainda assim, receber uma expressão dessas em troca... isso me ofende."[lr]::
+10735::$$$message_0108_0038_0001$$$::Assassin[line3]aquilo que se apresentou como Sasaki Kojirou[line3]continua, como se se divertisse com a perturbação de Saber.::
+10736::$$$message_0108_0039_0000$$$::Saber não teria como saber.[lr]::
+10737::$$$message_0108_0039_0001$$$::Que aquele Servo era justamente o espadachim da longa lâmina chamada Monohoshizao, de quem se dizia, desde a era Keichou, não haver igual.[lr]::
+10738::$$$message_0108_0039_0002$$$::[line3]Não[line3]e, ainda que soubesse, o que isso mudaria?[lr]::
+10739::$$$message_0108_0039_0003$$$::Seu nascimento é desconhecido, e até sua existência real é incerta.[lr]::
+10740::$$$message_0108_0039_0004$$$::Sua história sobreviveu apenas nos rumores, e talvez só exista uma pessoa neste mundo que realmente conheça o espadachim elevado à condição de rival de um mestre sem igual[line3]o inimigo que derrotou aquilo que ficou conhecido como Sasaki Kojirou.::
+10741::$$$message_0108_0040_0000$$$::Não se pode chamar isso de herói.[lr]::
+10742::$$$message_0108_0040_0001$$$::O Servo da classe Assassin[line3]Sasaki Kojirou[line3]era uma existência distante demais de Saber.[lr]::
+10743::$$$message_0108_0040_0002$$$::Que Espírito Heroico conheceria a verdadeira habilidade de um espadachim que, por natureza, nem sequer deveria ser tratado como um herói?::
+10744::$$$message_0108_0041_0000$$$::"[line3]Mas"[lr]::
+10745::$$$message_0108_0041_0001$$$::Só havia duas verdades diante dela.[lr]::
+10746::$$$message_0108_0041_0002$$$::O homem à sua frente era um inimigo, e ele havia se apresentado por vontade própria.[lr]::
+10747::$$$message_0108_0041_0003$$$::"...Entendo. Já que me foi dado um nome, responder da mesma forma é a cortesia de um cavaleiro."::
+10748::$$$message_0108_0042_0000$$$::A voz com que Saber responde é pesada.[lr]::
+10749::$$$message_0108_0042_0001$$$::Para ela, revelar o nome verdadeiro implicava um risco grande demais.[lr]::
+10750::$$$message_0108_0042_0002$$$::Não poderia revelá-lo sob tortura alguma, e tampouco tinha qualquer intenção de fazê-lo.[lr]::
+10751::$$$message_0108_0042_0003$$$::[line3]Mas isso existe apenas em nome da vitória.[lr]::
+10752::$$$message_0108_0042_0004$$$::Manchar sua honra de cavaleira por algo assim seria simplesmente impossível para ela.::
+10753::$$$message_0108_0043_0000$$$::"Você disse Kojirou.[lr]::
+10754::$$$message_0108_0043_0001$$$::　[line4]Servo da classe Assassin, eu sou"[lr]::
+10755::$$$message_0108_0043_0002$$$::"Basta. Então você é do tipo que se vê obrigada a se apresentar em resposta quando o outro o faz primeiro.[lr]::
+10756::$$$message_0108_0043_0003$$$::Não, fui eu quem agiu sem elegância."[lr]::
+10757::$$$message_0108_0043_0004$$$::Toc.[lr]::
+10758::$$$message_0108_0043_0005$$$::Descendo os degraus com absoluta elegância, Assassin se coloca diante de Saber.::
+10759::$$$message_0108_0044_0000$$$::"Não pretendo conhecer meu inimigo por esse tipo de meio. Para nós, esta espada basta para conhecer quem temos diante de nós.[lr]::
+10760::$$$message_0108_0044_0001$$$::Não é assim, Servo da classe Saber?"[lr]::
+10761::$$$message_0108_0044_0002$$$::"O quê[line6]"::
+10762::$$$message_0108_0045_0000$$$::"Não há motivo para tanto espanto. Não sei o que é isso que você empunha, mas a intenção assassina que veste seu corpo é a de uma espadachim.[lr]::
+10763::$$$message_0108_0045_0001$$$::...Hum, uma aura de espada bela a ponto de ofuscar a vista[line3]quem mais você poderia ser, senão Saber?"[lr]::
+10764::$$$message_0108_0045_0002$$$::Mais um passo.[lr]::
+10765::$$$message_0108_0045_0003$$$::Assassin desce a escadaria e aponta a ponta da longa lâmina para Saber.::
+10766::$$$message_0108_0046_0000$$$::"Não preciso saber seu nome verdadeiro. Basta-me o fato de que um Servo chamado Saber cairá diante desta lâmina.[lr]::
+10767::$$$message_0108_0046_0001$$$::Não há nada a ser dito em palavras.[line3]Afinal, não é isso que é um Servo?"[lr]::
+10768::$$$message_0108_0046_0002$$$::O espadachim sorri, satisfeito.::
+10769::$$$message_0108_0047_0000$$$::"[line3]Entendo. Sim, de fato, é exatamente isso."[lr]::
+10770::$$$message_0108_0047_0001$$$::Ao responder, Saber firma ainda mais a guarda com a espada.::
+10771::$$$message_0108_0048_0000$$$::"Assim está melhor.[lr]::
+10772::$$$message_0108_0048_0001$$$::　[line3]Então, travemos nosso duelo, Saber.[lr]::
+10773::$$$message_0108_0048_0002$$$::　Essa técnica de espada, dita a maior entre todos os Servos... permita-me vê-la com meus próprios olhos.[line4]"::
+10774::$$$message_0108_0049_0000$$$::　[se volume=50 storage=se111]Um clarão prateado salta.[se volume=50 storage=se112][lr]::
+10775::$$$message_0108_0049_0001$$$::　Força e suavidade.[lr]::
+10776::$$$message_0108_0049_0002$$$::　Sob o luar, teve início o combate entre dois espadachins tão radicalmente distintos.::

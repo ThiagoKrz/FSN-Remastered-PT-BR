@@ -90,7 +90,7 @@ id=qid::label=str::text=lstr::
 23365::$$$message_0206_0032_0000$$$::"Por quê? Não há motivo para encontrarmos o Mestre da Rider antes do dia acabar. Se formos lutar, nós deveríamos esperar até que as suas feridas se curem. Não vai ser tarde demais até lá."[lr]::
 23366::$$$message_0206_0032_0001$$$::"[line2]Isso não é verdade, Saber. Em questão do que é mais importante, o meu corpo vem depois."::
 23367::$$$message_0206_0033_0000$$$::"[line2]"[lr]::
-23368::$$$message_0206_0033_0001$$$::"Nós não temos tempo a perder. Você sabe o que o Shinji vai fazer. Eu vou tirar a Rider dele antes que eles preparem outro campo de separação como aquele. Ele não vai poder fazer nada sem um Servo."::
+23368::$$$message_0206_0033_0001$$$::"Nós não temos tempo a perder. Você sabe o que o Shinji vai fazer. Eu vou tirar a Rider dele antes que eles preparem outro Campo Limitado como aquele. Ele não vai poder fazer nada sem um Servo."::
 23369::$$$message_0206_0034_0000$$$::"...Então você está dizendo que não quer que hajam vítimas como ontem. Você está lutando por esse motivo, e não para derrotar o Mestre da Rider?"::
 23370::$$$message_0206_0035_0000$$$::"Não é isso. Eu vou fazer com que o Shinji tome a responsabilidade. É só que nós precisamos derrotar a Rider primeiro.[lr]::
 23371::$$$message_0206_0035_0001$$$::Além do mais, é natural agir para evitar que hajam mais vítimas. Isso é bem mais importante do que o motivo para lutar."::
@@ -215,7 +215,7 @@ id=qid::label=str::text=lstr::
 23490::$$$message_0206_0094_0003$$$::Tudo bem que a espada invisível da Saber é incrível, mas ela seria vaporizada antes mesmo de poder erguer a sua espada contra um Fantasma Nobre absurdo como esse[line2]::
 23491::$$$message_0206_0095_0000$$$::"...Ou seja, você está dizendo que se for para lutarmos contra a Rider, nós temos que derrotá-la antes que ela use o seu Fantasma Nobre?"::
 23492::$$$message_0206_0096_0000$$$::"Eu diria que sim. Vocês não têm chance de vencer se forem depender dos Fantasmas Nobres.[lr]::
-23493::$$$message_0206_0096_0001$$$::Lembrem-se disso se forem atrás do Shinji ou da Rider:[l]::
+23493::$$$message_0206_0096_0001$$$::Lembrem-se disso se forem atrás do Shinji ou da Rider:[lr]::
 23494::$$$message_0206_0096_0002$$$::não deixem ela usar o seu Fantasma Nobre.[lr]::
 23495::$$$message_0206_0096_0003$$$::Vocês ficarão em desvantagem se deixarem a luta durar por muito tempo."::
 23496::$$$message_0206_0097_0000$$$::"Ou então você pode simplesmente derrotar o Mestre da Rider enquanto eu estiver lutando. Ele não é capaz de lutar, então assim teria mais chances de funcionar."::

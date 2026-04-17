@@ -115,7 +115,7 @@ id=qid::label=str::text=lstr::
 13688::$$$message_0132_0043_0000$$$::O Circuito Mágico.[lr]::
 13689::$$$message_0132_0043_0001$$$::Um mecanismo que os magos precisam para usar o od e ativar a mana. Esse é o núcleo dos magos, e sem ele não é possível criar energia mágica, que é a fonte de poder da magia.[lr]::
 13690::$$$message_0132_0043_0002$$$::Para os magos, o Circuito Mágico é mais importante do que as suas próprias vidas. Você poderia até afirmar que ele é o motivo deles existirem.[lr]::
-13691::$$$message_0132_0044_0000$$$::"É perigoso demais transplantar os circuitos de um Servo em seu Mestre. Além de serem espíritos heroicos, eles também são Espíritos Revestidos. Os circuitos deles têm uma grande rejeição mesmo quando são transplantados em pessoas que estão à beira da morte.[lr]::
+13691::$$$message_0132_0044_0000$$$::"É perigoso demais transplantar os circuitos de um Servo em seu Mestre. Além de serem espíritos heroicos, eles também são Ghost Liners. Os circuitos deles têm uma grande rejeição mesmo quando são transplantados em pessoas que estão à beira da morte.[lr]::
 13692::$$$message_0132_0044_0001$$$::Por isso, só nos resta fazer o transplante do seu circuito na Saber."::
 13693::$$$message_0132_0045_0000$$$::"Mas isso seria o mesmo que arrancar os nervos do seu corpo. Então quem vai sofrer será..."[lr]::
 13694::$$$message_0132_0045_0001$$$::Aquele que vai transplantar os próprios órgãos.[lr]::
@@ -280,7 +280,7 @@ id=qid::label=str::text=lstr::
 13853::$$$message_0132_0089_0000$$$::A eternidade passa em um piscar de olhos.[lr]::
 13854::$$$message_0132_0089_0001$$$::Eu atravesso a última barreira.[lr]::
 13855::$$$message_0132_0089_0002$$$::O interior dela está atrás disso.[lr]::
-13856::$$$message_0132_0089_0003$$$::Eu verei o Circuito Mágico que pertence à existência chamada [r]Arturia[line3]::
+13856::$$$message_0132_0089_0003$$$::Eu verei o Circuito Mágico que pertence à existência chamada [r]Artoria[line3]::
 13857::$$$message_0132_0090_0000$$$::"[line6], [line3]"::
 13858::$$$message_0132_0091_0000$$$::A diferença é esmagadora.[lr]::
 13859::$$$message_0132_0091_0001$$$::O mundo rápido cheio de luz é interrompido em um instante. Aqui é escuro e pesado.[lr]::

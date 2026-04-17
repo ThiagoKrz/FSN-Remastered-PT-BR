@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 4866::$$$message_0044_0002_0002$$$::O padre se dirige a Tohsaka e não a mim.::
 4867::$$$message_0044_0003_0000$$$::"Eu não ligo. Se essa é a escolha do Emiya-kun, não posso dizer nada sobre ela."[lr]::
 4868::$$$message_0044_0003_0001$$$::"...Hmm. Vou considerar essa sensação de culpa como ganho.[lr]::
-4869::$$$message_0044_0003_0002$$$::"Então vamos começar logo, Emiya Shirou. Mê dê seu braço esquerdo."::
+4869::$$$message_0044_0003_0002$$$::Então vamos começar logo, Emiya Shirou. Mê dê seu braço esquerdo."::
 4870::$$$message_0044_0004_0000$$$::"...tudo bem, mas o que você vai fazer?"[lr]::
 4871::$$$message_0044_0004_0001$$$::"Não vai demorar muito. Estou meramente apagando o Selo de Comando no seu braço.[lr]::
 4872::$$$message_0044_0004_0002$$$::Há dois fatores que fazem Mestres serem Mestres.[lr]::
@@ -56,14 +56,14 @@ id=qid::label=str::text=lstr::
 4910::$$$message_0044_0015_0000$$$::"...? Cortar o contrato com meu Servo...?"[lr]::
 4911::$$$message_0044_0015_0001$$$::"Sim. Peça a abolição do contrato diante da Saber, que está esperando lá fora. ...tenho certeza de que ela não irá aceitar, então o Kirei deixou um Selo de Comando para forçar ela a concordar."::
 4912::$$$message_0044_0016_0000$$$::"Exatamente. Usando seu Selo de Comando e abolindo o contrato com seu Servo, você apresenta aos outros Mestres que é 'inofensivo'.[lr]::
-4913::$$$message_0044_0016_0001$$$::Então você está abertamente livre. Um Mestre sano não pensaria em atacar um Mestre indefeso.[lr]::
+4913::$$$message_0044_0016_0001$$$::Então você está abertamente livre. Um Mestre são não pensaria em atacar um Mestre indefeso.[lr]::
 4914::$$$message_0044_0016_0002$$$::Ao renunciar um poder que você ganhou por acaso, poderá retomar a sua vida tranquila."::
 4915::$$$message_0044_0017_0000$$$::"......"[lr]::
 4916::$$$message_0044_0017_0001$$$::Eu vou quebrar o contrato com a Saber por vontade própria.[lr]::
-4917::$$$message_0044_0017_0002$$$::...isso é trair ela.[lr]::
+4917::$$$message_0044_0017_0002$$$::...Isso é trair ela.[lr]::
 4918::$$$message_0044_0017_0003$$$::Mesmo que por acaso, eu chamei ela e ela me protegeu.::
 4919::$$$message_0044_0017_0004$$$::"......"[lr]::
-4920::$$$message_0044_0017_0005$$$::...será que eu fiz a escolha errada?[lr]::
+4920::$$$message_0044_0017_0005$$$::...Será que eu fiz a escolha errada?[lr]::
 4921::$$$message_0044_0017_0006$$$::Não posso aceitar Mestres matando uns aos outros.[lr]::
 4922::$$$message_0044_0017_0007$$$::Não posso aceitar, mas se não posso ignorar também, então[line3]::
 4923::$$$message_0044_0018_0000$$$::"O que você está fazendo? Nenhuma encantação é necessária para ativar o Selo de Comando. Tudo que você precisa fazer é focar nele e dar a ordem ao seu Servo.[lr]::
@@ -111,7 +111,7 @@ id=qid::label=str::text=lstr::
 4965::$$$message_0044_0029_0004$$$::Me dá uma rasteira e me derruba.::
 4966::$$$message_0044_0030_0000$$$::"Ugh[line4]!?"[lr]::
 4967::$$$message_0044_0030_0001$$$::Dor atravessa minhas pernas logo em seguida.[lr]::
-4968::$$$message_0044_0030_0002$$$::N-não tem sangue. Ainda tenho meus pés.::
+4968::$$$message_0044_0030_0002$$$::N-Não tem sangue. Ainda tenho meus pés.::
 4969::$$$message_0044_0031_0000$$$::"Agh..."[lr]::
 4970::$$$message_0044_0031_0001$$$::Estou aliviado por ter minhas pernas ainda.[lr]::
 4971::$$$message_0044_0031_0002$$$::...Graças a Deus. Ela só me derrubou com uma vara de metal.[lr]::
@@ -142,7 +142,7 @@ id=qid::label=str::text=lstr::
 4996::$$$message_0044_0038_0003$$$::"[line3]Huh?"::
 4997::$$$message_0044_0039_0000$$$::"Não se preocupe. É só um caso em que não consegui estabelecer confiança com meu Mestre. Se você abolir o contrato com seu Selo de Comando, estarei livre. ...eu devo conseguir manter esse corpo por mais duas horas, mas vou encontrar um novo Mestre nesse tempo."::
 4998::$$$message_0044_0040_0000$$$::A Saber diz, claramente.[lr]::
-4999::$$$message_0044_0040_0001$$$::Estimulado por essas palavras,[lr]::
+4999::$$$message_0044_0040_0001$$$::Estimulado por essas palavras...[lr]::
 5000::$$$message_0044_0040_0002$$$::Eu peço para o Selo de Comando na minha mão esquerda para abolir o contrato.::
 5001::$$$message_0044_0041_0000$$$::"Você está livre agora. Foi apenas uma curta reunião, mas sua energia mágica foi agradável.[lr]::
 5002::$$$message_0044_0041_0001$$$::...não verei você novamente, mas irei rezar para que você sobreviva essa batalha."::
@@ -167,7 +167,7 @@ id=qid::label=str::text=lstr::
 5021::$$$message_0044_0047_0001$$$::Aguentando a dor em meu peito, eu me dirijo pra casa.[lr]::
 5022::$$$message_0044_0047_0002$$$::Pensarei no que devo fazer assim que chegar em casa.[lr]::
 5023::$$$message_0044_0047_0003$$$::Devo conseguir me acalmar se eu for pra casa, tomar um banho e relaxar um pouco[line3]::
-5024::$$$message_0044_0048_0000$$$::Mas.[lr]::
+5024::$$$message_0044_0048_0000$$$::Mas...[lr]::
 5025::$$$message_0044_0048_0001$$$::[line3]Vou pensar no que fazer quando chegar em casa.::
 5026::$$$message_0044_0048_0002$$$::Esse pensamento em si foi um erro.::
 5027::$$$message_0044_0049_0000$$$::"Huh[line5]?"[lr]::
@@ -195,10 +195,10 @@ id=qid::label=str::text=lstr::
 5049::$$$message_0044_0055_0003$$$::[line3]Berserker.[lr]::
 5050::$$$message_0044_0055_0004$$$::Eu definitivamente ouvi isso.[lr]::
 5051::$$$message_0044_0055_0005$$$::Então, o monstro em minha frente[line3]::
-5052::$$$message_0044_0056_0000$$$::"Heehee, você é bem educado, Onii-chan. Eu conheço isso, é aquilo que chamam suicídio auxiliado, né? Meu avô disse que os japoneses são uma tribo cortadora de pescoços que morrem tendo seus pescoços cortados enquanto sentam ao estilo Japonês."[lr]::
+5052::$$$message_0044_0056_0000$$$::"Heehee, você é bem educado, Onii-chan. Eu conheço isso, é aquilo que chamam de suicídio auxiliado, né? Meu avô disse que os japoneses são uma tribo cortadora de pescoços que morrem tendo seus pescoços cortados enquanto sentam ao estilo Japonês."[lr]::
 5053::$$$message_0044_0056_0001$$$::[line3]Eu começo a desmaiar.[lr]::
 5054::$$$message_0044_0056_0002$$$::A voz inocente da garota não combina com essa situação.::
-5055::$$$message_0044_0057_0000$$$::"Ah[line3], não..."[lr]::
+5055::$$$message_0044_0057_0000$$$::"Ah[line3]não..."[lr]::
 5056::$$$message_0044_0057_0001$$$::Eu olho pra cima.[lr]::
 5057::$$$message_0044_0057_0002$$$::Não consigo respirar.[lr]::
 5058::$$$message_0044_0057_0003$$$::Meu pulmão. Um dos meus pulmões foi jogado a 50 metros atrás de mim.::
@@ -215,7 +215,7 @@ id=qid::label=str::text=lstr::
 5069::$$$message_0044_0061_0000$$$::"Mas você pode ser aliviado. Não teria graça se você morresse tão facilmente, certo? Então eu te dei uma mãozinha![lr]::
 5070::$$$message_0044_0061_0001$$$::O Onii-chan vai ficar consciente não importa o quanto doa ou quanto de você seja destruído até eu esmagar sua cabeça.[lr]::
 5071::$$$message_0044_0061_0002$$$::Então[line3]mesmo se eu fizer isso, você ainda vai poder se contorcer como uma coisa viva."::
-5072::$$$message_0044_0062_0000$$$::"GI, AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!"::
+5072::$$$message_0044_0062_0000$$$::"GIAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!"::
 5073::$$$message_0044_0063_0000$$$::Fui esmagado.[lr]::
 5074::$$$message_0044_0063_0001$$$::Pela onda de choque de sua arma, similar a um prelo, minha metade inferior é esmagada da cintura pra baixo.[lr]::
 5075::$$$message_0044_0063_0002$$$::Coisas que eram minhas pernas e carne e ossos são lindamente transformados em objetos bidimensionais.::
@@ -226,11 +226,11 @@ id=qid::label=str::text=lstr::
 5080::$$$message_0044_0065_0001$$$::Minha garganta soa como uma flauta.[lr]::
 5081::$$$message_0044_0065_0002$$$::Ela ecoa dentro do meu crânio.[lr]::
 5082::$$$message_0044_0065_0003$$$::[line3]Meus pensamentos ainda estão confusos.[lr]::
-5083::$$$message_0044_0065_0004$$$::Mas querendo escapar dessa dor,[lr]::
+5083::$$$message_0044_0065_0004$$$::Mas querendo escapar dessa dor...[lr]::
 5084::$$$message_0044_0065_0005$$$::"Ah[line3]você está errado. Não sou... mais... um... Mestre."[lr]::
 5085::$$$message_0044_0065_0006$$$::Eu digo para a garota, como se tivesse pedindo ajuda.::
 5086::$$$message_0044_0066_0000$$$::...um instante de esperança.[lr]::
-5087::$$$message_0044_0066_0001$$$::A garota arqueja como se estivesse surpresa,[lr]::
+5087::$$$message_0044_0066_0001$$$::A garota arqueja como se estivesse surpresa...[lr]::
 5088::$$$message_0044_0066_0002$$$::"[line3]Sim, e daí?"[lr]::
 5089::$$$message_0044_0066_0003$$$::Ela diz com um sorriso angelical.::
 5090::$$$message_0044_0067_0000$$$::"Ah[line3]ha."[lr]::
@@ -243,6 +243,6 @@ id=qid::label=str::text=lstr::
 5097::$$$message_0044_0069_0000$$$::"[line8]"[lr]::
 5098::$$$message_0044_0069_0001$$$::Meus sentidos não vão morrer não importa o quão machucado eu esteja.[lr]::
 5099::$$$message_0044_0069_0002$$$::Eles não vão morrer, então a razão congela.[lr]::
-5100::$$$message_0044_0069_0003$$$::Não sei por quanto tempo a cabeça vai aguentar,[lr]::
+5100::$$$message_0044_0069_0003$$$::Não sei por quanto tempo a cabeça vai aguentar.[lr]::
 5101::$$$message_0044_0069_0004$$$::Mas nesse instante, Emiya Shirou desiste definitivamente.::
 

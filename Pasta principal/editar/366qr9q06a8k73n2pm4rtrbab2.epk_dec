@@ -12,36 +12,36 @@ id=qid::label=str::text=lstr::
 21395::$$$message_0194_0004_0000$$$::"Ar...cher..."[lr]::
 21396::$$$message_0194_0004_0001$$$::O homem de ouro.[lr]::
 21397::$$$message_0194_0004_0002$$$::O Espírito Heróico não identificado que aniquilou os soldados de ossos de Caster e até derrubou Caster com quase nenhum esforço.::
-21398::$$$message_0194_0005_0000$$$::"Archer[line5]"[lr]::
-21399::$$$message_0194_0005_0001$$$::[line2]O Servo dourado.[lr]::
-21400::$$$message_0194_0005_0002$$$::O espírito heroico desconhecido que aniquilou os esqueletos e a própria Caster sem a menor dificuldade.::
-21401::$$$message_0194_0006_0000$$$::Aquele monstro está na nossa frente agora mesmo.[lr]::
+21398::$$$message_0194_0005_0000$$$::Now that monster stands in front of us.[lr]::
+21399::$$$message_0194_0005_0001$$$::Ele está perto demais.[lr]::
+21400::$$$message_0194_0005_0002$$$::Perto o bastante para que a gente tenha uma "morte" mais dolorosa do que a do Berserker.::
+21401::$$$message_0194_0006_0000$$$::"Qual é o problema, Saber? Eu vim até aqui só por sua causa.[lr]::
 21402::$$$message_0194_0006_0001$$$::Ele está perto demais.[lr]::
-21403::$$$message_0194_0006_0002$$$::Perto o bastante para que a gente tenha uma "morte" mais dolorosa do que a do Berserker.::
-21404::$$$message_0194_0007_0000$$$::"Qual é o problema, Saber? Eu vim até aqui só por sua causa.[lr]::
-21405::$$$message_0194_0007_0001$$$::Seria muita falta de educação não dizer nada.[lr]::
-21406::$$$message_0194_0007_0002$$$::Ou será que[line2]você está afim de brincar um pouquinho antes de ser minha, rei dos cavaleiros?"::
-21407::$$$message_0194_0007_0003$$$::Ele a admira como se ela fosse uma obra de arte.::
-21408::$$$message_0194_0008_0000$$$::O Archer segura a sua risada.[lr]::
-21409::$$$message_0194_0008_0001$$$::Ele não está mais olhando para mim.[lr]::
-21410::$$$message_0194_0008_0002$$$::Ele só está prestando atenção na Saber.[lr]::
-21411::$$$message_0194_0009_0000$$$::A presença da Saber muda.[lr]::
-21412::$$$message_0194_0009_0001$$$::...Ela deve estar preparada para lutar.[lr]::
-21413::$$$message_0194_0010_0000$$$::"...Shirou, eu vou fazer de tudo para bloquear o primeiro ataque dele. Por favor, aproveite essa chance para fugir daqui.[lr]::
+21403::$$$message_0194_0006_0002$$$::Ou será que[line2]você está afim de brincar um pouquinho antes de ser minha, Rei dos Cavaleiros?"::
+21404::$$$message_0194_0007_0000$$$::O Archer segura a sua risada.[lr]::
+21405::$$$message_0194_0007_0001$$$::Ele não está mais olhando para mim.[lr]::
+21406::$$$message_0194_0007_0002$$$::Ele a admira como se ela fosse uma obra de arte."::
+21407::$$$message_0194_0007_0003$$$::A presença da Saber muda.::
+21408::$$$message_0194_0008_0000$$$::...Ela deve estar preparada para lutar.[lr]::
+21409::$$$message_0194_0008_0001$$$::She must have made up her mind.[lr]::
+21410::$$$message_0194_0008_0002$$$::She's already determined the man in front of us is an enemy, while I've hardly moved a muscle.::
+21411::$$$message_0194_0009_0000$$$::"...Shirou, eu vou fazer de tudo para bloquear o primeiro ataque dele. Por favor, aproveite essa chance para fugir daqui.[lr]::
+21412::$$$message_0194_0009_0001$$$::...Eu sei que vai ser difícil, mas isso é o melhor que posso fazer contra esse Servo."::
+21413::$$$message_0194_0010_0000$$$::...Nem mesmo a Saber consegue bloquear mais de um ataque dele.
 21414::$$$message_0194_0010_0001$$$::...Eu sei que vai ser difícil, mas isso é o melhor que posso fazer contra esse Servo."::
 21415::$$$message_0194_0010_0002$$$::Minhas chances de fugir desse cara são mínimas, na melhor das hipóteses.::
 21416::$$$message_0194_0011_0000$$$::A Saber está de costas para mim, pedindo para que eu a perdoe.[lr]::
-21417::$$$message_0194_0011_0001$$$::...Nem mesmo a Saber consegue bloquear mais de um ataque dele.[lr]::
-21418::$$$message_0194_0011_0002$$$::Isso já mostra que eu tenho pouca chance de conseguir fugir desse cara.::
-21419::$$$message_0194_0012_0000$$$::A Saber está pedindo para que eu a perdoe por essa chance ser tão baixa assim.[lr]::
-21420::$$$message_0194_0012_0001$$$::...Provavelmente...[lr]::
-21421::$$$message_0194_0012_0002$$$::...Ela já percebeu que não vai conseguir derrotar esse Servo.::
+21417::$$$message_0194_0011_0001$$$::...Provavelmente...[lr]::
+21418::$$$message_0194_0011_0002$$$::...Ela já percebeu que não vai conseguir derrotar esse Servo.::
+21419::$$$message_0194_0012_0000$$$::[font italic=true]...[font italic=false][lr]::
+21420::$$$message_0194_0012_0001$$$::Ela não pode fazer isso.[lr]::
+21421::$$$message_0194_0012_0002$$$::Isso não é igual daquela vez que nós lutamos contra o Berserker.::
 21422::$$$message_0194_0012_0003$$$::Eu sei, embora não tenha provas, que fazer Saber lutar contra esse Servo só pode acabar mal.::
-21423::$$$message_0194_0013_0000$$$::"[line5]"[lr]::
-21424::$$$message_0194_0013_0001$$$::Ela não pode fazer isso.[lr]::
-21425::$$$message_0194_0013_0002$$$::Isso não é igual daquela vez que nós lutamos contra o Berserker.[lr]::
-21426::$$$message_0194_0013_0003$$$::Por algum motivo, eu sei que não é uma boa ideia fazer a Saber lutar contra esse Servo.::
-21427::$$$message_0194_0013_0004$$$::Essa nem é a maneira certa de ver isso.[lr]::
+21423::$$$message_0194_0013_0000$$$::...Aliás, eu acho que sei qual é o motivo.[lr]::
+21424::$$$message_0194_0013_0001$$$::Eu tenho essa impressão desde o momento em que vi os Fantasmas Nobres dele ontem à noite.[lr]::
+21425::$$$message_0194_0013_0002$$$::[line2]A Saber não vai conseguir derrotar esse cara de jeito nenhum.[lr]::
+21426::$$$message_0194_0013_0003$$$::Eu nem estou falando sobre quem é melhor em combate corpo a corpo.[lr]::
+21427::$$$message_0194_0013_0004$$$::A verdade é que os próprios pré-requisitos estão desiguais.[lr]::
 21428::$$$message_0194_0013_0005$$$::Nenhum Espírito Heróico, enquanto permanecer um Espírito Heróico, pode vencer o homem em ouro.::
 21429::$$$message_0194_0014_0000$$$::...Aliás, eu acho que sei qual é o motivo.[lr]::
 21430::$$$message_0194_0014_0001$$$::Eu tenho essa impressão desde o momento em que vi os Fantasmas Nobres dele ontem à noite.[lr]::
@@ -53,9 +53,9 @@ id=qid::label=str::text=lstr::
 21436::$$$message_0194_0015_0001$$$::"Shirou...!?"[lr]::
 21437::$$$message_0194_0015_0002$$$::Eu cubro a Saber e fico de frente para o Archer.[lr]::
 21438::$$$message_0194_0015_0003$$$::"Ah[line2]é mesmo, você tem um Mestre, não é? Ele estava tão sujo que eu pensei que fosse um vira-lata ou alguma coisa assim."[lr]::
-21439::$$$message_0194_0015_0004$$$::Ele diz isso sorrindo.[lr]::
+21439::$$$message_0194_0015_0004$$$::Ele diz isso sorrindo.::
 21440::$$$message_0194_0016_0000$$$::"[line2]"[lr]::
-21441::$$$message_0194_0016_0001$$$::Eu estou passando mal.[lr]::
+21441::$$$message_0194_0016_0001$$$::Eu estou passando mal.::
 21442::$$$message_0194_0017_0000$$$::"[line2]Corre, Saber...![lr]::
 21443::$$$message_0194_0017_0001$$$::A igreja está perto daqui. Ela deve conseguir te proteger até mesmo dele[line2]!"::
 21444::$$$message_0194_0017_0002$$$::Só vou arriscar tudo e correr direto para esse cara, depois vou projetar a espada do Saber novamente, assim como quando lutamos contra o Berserker.::
@@ -64,22 +64,22 @@ id=qid::label=str::text=lstr::
 21447::$$$message_0194_0018_0002$$$::Vou correr até ele, "projetar" a espada da Saber como fiz na luta contra o Berserker, e depois[line2]::
 21448::$$$message_0194_0018_0003$$$::No momento em que ele estalou os dedos, algo apareceu bem ao meu lado.::
 21449::$$$message_0194_0019_0000$$$::"[line2]"[lr]::
-21450::$$$message_0194_0019_0001$$$::O meu corpo voa para longe.[lr]::
+21450::$$$message_0194_0019_0001$$$::O meu corpo voa para longe.::
 21451::$$$message_0194_0020_0000$$$::"A[line2]i."[lr]::
 21452::$$$message_0194_0020_0001$$$::Eu senti que um martelo gigante me acertou, e que fui arremessado até o chão como se fosse lixo.::
 21453::$$$message_0194_0020_0002$$$::Meu corpo está completamente inútil, como se todos os meus ossos tivessem virado gelatina.[lr]::
 21454::$$$message_0194_0020_0003$$$::Perdi toda a sensibilidade nos meus membros. A dor é tão surda que nem consigo dizer se ainda estou vivo.::
 21455::$$$message_0194_0021_0000$$$::"Ha[line2]ah."[lr]::
-21456::$$$message_0194_0021_0001$$$::Eu não consigo me mexer.[lr]::
+21456::$$$message_0194_0021_0001$$$::Eu não consigo me mexer.::
 21457::$$$message_0194_0022_0000$$$::"Eu não vou te matar. Se fizesse isso, a Saber iria desaparecer. É contra a minha vontade, mas eu vou te deixar vivo até que o Santo Graal apareça."[lr]::
 21458::$$$message_0194_0022_0001$$$::O homem dá uma risada.::
-21459::$$$message_0194_0023_0000$$$::"Ah[line2]kuh[line2]"[lr]::
+21459::$$$message_0194_0023_0000$$$::"Ah[line2]kuh[line2]"::
 21460::$$$message_0194_0024_0000$$$::"Mas não fique se achando, seu vira-latas. Eu conheço outros jeitos de manter um Servo neste mundo sem precisar de você. Esse só é o jeito que me dá menos trabalho. Mas se você me deixar nervoso, eu te mato."::
 21461::$$$message_0194_0024_0001$$$::E então minha mente fica em branco.[lr]::
 21462::$$$message_0194_0024_0002$$$::Ele [font italic=true]vai[font italic=false] me matar.[lr]::
 21463::$$$message_0194_0024_0003$$$::Se eu fizer um único movimento, ele fará exatamente o que disse que faria.::
 21464::$$$message_0194_0025_0000$$$::"[line2]"[lr]::
-21465::$$$message_0194_0025_0001$$$::Isso faz com que eu desista de me mexer.[lr]::
+21465::$$$message_0194_0025_0001$$$::Isso faz com que eu desista de me mexer.::
 21466::$$$message_0194_0026_0000$$$::"[line5]"[lr]::
 21467::$$$message_0194_0026_0001$$$::Como é que alguém teria coragem de se mexer depois de ouvir uma ameaça dessas[line2]?::
 21468::$$$message_0194_0027_0000$$$::"Shirou[line2]!"[lr]::
@@ -90,14 +90,14 @@ id=qid::label=str::text=lstr::
 21473::$$$message_0194_0028_0002$$$::Ele fica parado na minha frente e espera a Saber vir na nossa direção.::
 21474::$$$message_0194_0028_0003$$$::Não sei sobre Archer, mas Saber pode aproximar-se dessa distância em um piscar de olhos.::
 21475::$$$message_0194_0029_0000$$$::"[line2]!"[lr]::
-21476::$$$message_0194_0029_0001$$$::A Saber para de correr e encara o homem.[lr]::
+21476::$$$message_0194_0029_0001$$$::A Saber para de correr e encara o homem.::
 21477::$$$message_0194_0030_0000$$$::"...Hm. Parece que você não quer chegar perto de mim. Eu não consigo entender. Um espírito heroico como você deveria ficar feliz por ter sido escolhida por mim."[lr]::
 21478::$$$message_0194_0030_0001$$$::"[line2]Que absurdo. Mesmo que eu seja um espírito heroico, ainda sou um rei. Eu não vou me curvar a você."::
 21479::$$$message_0194_0031_0000$$$::"É mesmo? Mas mesmo que você seja um rei, ainda é uma mulher.[lr]::
 21480::$$$message_0194_0031_0001$$$::Uma mulher deveria ficar feliz em ser ajoelhada e violada. Então, por que você está se recusando? Não me diga que você é virgem. Está com medo de ser minha?"::
 21481::$$$message_0194_0031_0002$$$::Uma mulher deveria ficar feliz em abaixar a cabeça para um homem e obedecê-lo. Então, por que você está se recusando? Não me diga que você é ingênua. Está com medo de ser minha?"::
 21482::$$$message_0194_0032_0000$$$::"Seu[line2]"[lr]::
-21483::$$$message_0194_0032_0001$$$::"Não precisa ficar com raiva. Eu não sou de pegar tudo para mim. Também sei dividir igualmente. Se você aceitar ser minha, eu vou literalmente te dar tudo o que existe nesse mundo.[lr]::
+21483::$$$message_0194_0032_0001$$$::"Não precisa ficar com raiva. Eu não sou de pegar tudo para mim. Também sei dividir igualmente. Se você aceitar ser minha, eu vou literalmente te dar tudo o que existe nesse mundo.::
 21484::$$$message_0194_0033_0000$$$::...O homem se mexe.[lr]::
 21485::$$$message_0194_0033_0001$$$::Ele abre os braços para aceitar a Saber.::
 21486::$$$message_0194_0033_0002$$$::Vamos aproveitar nossas segundas vidas, aqui, juntos."::
@@ -107,10 +107,10 @@ id=qid::label=str::text=lstr::
 21490::$$$message_0194_0034_0003$$$::She stands firm, not taking so much as a step back.::
 21491::$$$message_0194_0035_0000$$$::"[line2]Eu me recuso.[lr]::
 21492::$$$message_0194_0035_0001$$$::Não tenho interesse em uma coisa dessas, e o mais importante[line2]Eu não gostaria de viver ao seu lado."[lr]::
-21493::$$$message_0194_0035_0002$$$::A Saber não acena e nem recua.[lr]::
+21493::$$$message_0194_0035_0002$$$::A Saber não acena e nem recua.::
 21494::$$$message_0194_0036_0000$$$::"Ku[line2]fu, haha, hahahahahahahahaha!"[lr]::
-21495::$$$message_0194_0036_0001$$$::Ele para.[lr]::
-21496::$$$message_0194_0037_0000$$$::"Que ótimo, era isso mesmo que eu esperava da mulher que escolhi![lr]::
+21495::$$$message_0194_0036_0001$$$::Ele para.::
+21496::$$$message_0194_0037_0000$$$::"Que ótimo, era isso mesmo que eu esperava da mulher que escolhi!::
 21497::$$$message_0194_0038_0000$$$::Está bem. Então eu vou te tomar à força. Assim que conseguir o Santo Graal, eu vou derramar o conteúdo dele em cima de você.::
 21498::$$$message_0194_0038_0001$$$::Você absorverá todo o poder do recipiente onipotente, o Santo Graal. Você não terá mais que viver como um Servo, servindo os humanos como seus familiares."::
 21499::$$$message_0194_0039_0000$$$::[line2]Alegre-se, Saber. Você não vai precisar mais do seu Mestre depois disso.[lr]::
@@ -119,7 +119,7 @@ id=qid::label=str::text=lstr::
 21502::$$$message_0194_0040_0001$$$::E então, a Saber responde.::
 21503::$$$message_0194_0040_0002$$$::E antes de se envolver com o inimigo, ela quer saber por que ele faz o que faz.::
 21504::$$$message_0194_0041_0000$$$::"...Archer. O que você quer ganhar com isso?"[lr]::
-21505::$$$message_0194_0041_0001$$$::A Saber já deve ter percebido que vai ter que lutar.[lr]::
+21505::$$$message_0194_0041_0001$$$::A Saber já deve ter percebido que vai ter que lutar.::
 21506::$$$message_0194_0042_0000$$$::"O que eu quero ganhar? Sei lá, nem me lembro mais. Infelizmente, já que tenho tudo, não existe mais nada que eu queira ter."[lr]::
 21507::$$$message_0194_0042_0001$$$::"Quê[line2]Você não tem interesse no Santo Graal?"::
 21508::$$$message_0194_0042_0002$$$::Saber freezes.[lr]::
@@ -127,8 +127,8 @@ id=qid::label=str::text=lstr::
 21510::$$$message_0194_0042_0004$$$::Saber subtly shakes her head to refute those words.::
 21511::$$$message_0194_0043_0000$$$::"O Santo Graal? Ah sim, a imortalidade. Heh, eu a entreguei para uma cobra."[lr]::
 21512::$$$message_0194_0043_0001$$$::"[line2]Você entregou a imortalidade para uma cobra...?"[lr]::
-21513::$$$message_0194_0043_0002$$$::A presença da Saber diminui.[lr]::
-21514::$$$message_0194_0044_0000$$$::"[line2]Mas este mundo é bem interessante.[lr]::
+21513::$$$message_0194_0043_0002$$$::A presença da Saber diminui.::
+21514::$$$message_0194_0044_0000$$$::"[line2]Mas este mundo é bem interessante.::
 21515::$$$message_0194_0045_0000$$$::"...Reinar sobre os outros? Você é desprezível, Archer. É para isso que você quer conseguir o Santo Graal?"::
 21516::$$$message_0194_0045_0001$$$::Você odiaria que outro usasse sua espada sagrada, não é, Rei dos Cavaleiros?"[lr]::
 21517::$$$message_0194_0045_0002$$$::[font italic=true]...[font italic=false]::
@@ -148,7 +148,7 @@ id=qid::label=str::text=lstr::
 21531::$$$message_0194_0047_0007$$$::"Muito bem. Vou permitir que você se oponha a mim, Saber."[lr]::
 21532::$$$message_0194_0047_0008$$$::O inimigo anuncia alegremente o início da batalha.::
 21533::$$$message_0194_0048_0000$$$::"[line2]!"[lr]::
-21534::$$$message_0194_0048_0001$$$::Depois de ser repelida, a Saber salta para trás.[lr]::
+21534::$$$message_0194_0048_0001$$$::Depois de ser repelida, a Saber salta para trás.::
 21535::$$$message_0194_0049_0000$$$::A luz branca atravessa a escuridão.[lr]::
 21536::$$$message_0194_0049_0001$$$::A Saber corre até o cavaleiro dourado sem pensar duas vezes e o corta de cima para baixo com a sua espada iluminada[line2]::
 21537::$$$message_0194_0049_0002$$$::Assistir seus ataques repetidos é como olhar para uma luz estroboscópica.[lr]::
@@ -157,18 +157,18 @@ id=qid::label=str::text=lstr::
 21540::$$$message_0194_0050_0000$$$::Um, dois, três, quatro golpes[line2]![lr]::
 21541::$$$message_0194_0050_0001$$$::Toda vez que a espada da Saber acerta o inimigo, ela solta uma luz cegante.[lr]::
 21542::$$$message_0194_0050_0002$$$::Os ataques em sequência dela estão em efeito estroboscópio.[lr]::
-21543::$$$message_0194_0050_0003$$$::É como no dia em que eu a conheci, quando ela estava lutando contra o Lancer.[lr]::
+21543::$$$message_0194_0050_0003$$$::É como no dia em que eu a conheci, quando ela estava lutando contra o Lancer.::
 21544::$$$message_0194_0051_0000$$$::A espada e a armadura se colidem.[lr]::
 21545::$$$message_0194_0051_0001$$$::O homem ainda nem sacou a sua arma. Mesmo com a espada da Saber sua frente, ele só está protegendo a sua cabeça com as mãos.[lr]::
 21546::$$$message_0194_0052_0000$$$::Isso sem falar que a espada da Saber está invisível.[lr]::
 21547::$$$message_0194_0052_0001$$$::Mesmo que esse cara estivesse armado, eu duvido que ele conseguiria bloquear uma espada que não pudesse enxergar.::
-21548::$$$message_0194_0052_0002$$$::A única coisa que o homem pode fazer é proteger o rosto dos golpes de Saber com as mãos.[lr]::
+21548::$$$message_0194_0052_0002$$$::A única coisa que o homem pode fazer é proteger o rosto dos golpes de Saber com as mãos.::
 21549::$$$message_0194_0052_0003$$$::Isso não é uma luta.[lr]::
 21550::$$$message_0194_0052_0004$$$::It's a massacre.::
 21551::$$$message_0194_0053_0000$$$::A espada invisível não para de acertar a armadura do homem.[lr]::
 21552::$$$message_0194_0053_0001$$$::Ela colide com a armadura, deixando arranhões e soltando faíscas.[lr]::
 21553::$$$message_0194_0053_0002$$$::Tudo o que o homem pode fazer agora é proteger a sua cabeça com as mãos.[lr]::
-21554::$$$message_0194_0053_0003$$$::Isso nem é uma batalha.[lr]::
+21554::$$$message_0194_0053_0003$$$::Isso nem é uma batalha.::
 21555::$$$message_0194_0054_0000$$$::[line2]Porém.[lr]::
 21556::$$$message_0194_0054_0001$$$::Mesmo assim, a armadura dourada ainda está inteira.[lr]::
 21557::$$$message_0194_0054_0002$$$::Se ela não foi destruída mesmo depois de ter levado tantos golpes assim...[lr]::
@@ -189,13 +189,13 @@ id=qid::label=str::text=lstr::
 21572::$$$message_0194_0058_0000$$$::"...! [line2]Esse é um Fantasma Nobre que carrega a maldição da [r]vingança[line2]!?"[lr]::
 21573::$$$message_0194_0058_0001$$$::A Saber se afasta e olha para a espada que o seu inimigo está segurando.[lr]::
 21574::$$$message_0194_0058_0002$$$::...A arma mostrada pelo inimigo é um sinal de ameaça.[lr]::
-21575::$$$message_0194_0058_0003$$$::Mas ao mesmo tempo, agora nós sabemos como ele vai atacar.[lr]::
+21575::$$$message_0194_0058_0003$$$::Mas ao mesmo tempo, agora nós sabemos como ele vai atacar.::
 21576::$$$message_0194_0059_0000$$$::A Saber se prepara para atacar.[lr]::
 21577::$$$message_0194_0059_0001$$$::...Assim como o homem disse, a armadura dele já não aguenta mais receber ataques.[lr]::
 21578::$$$message_0194_0059_0002$$$::Se a Saber voltar com aquela sequência de golpes violentos, ela deve destruir a armadura dele.[lr]::
 21579::$$$message_0194_0059_0003$$$::Mesmo que ele tenha acabado de sacar o seu Fantasma Nobre, o próximo ataque ainda vai decidir a luta.::
 21580::$$$message_0194_0060_0000$$$::"[line2]Já chega. Vamos terminar a batalha que nós não tivemos a chance de terminar naquele dia, Archer."[lr]::
-21581::$$$message_0194_0060_0001$$$::A espada na mão dela ainda está invisível.[lr]::
+21581::$$$message_0194_0060_0001$$$::A espada na mão dela ainda está invisível.::
 21582::$$$message_0194_0060_0002$$$::A Saber encara o seu inimigo enquanto prepara a sua espada sagrada que está selada ao vento.[lr]::
 21583::$$$message_0194_0061_0000$$$::Foi por isso que ela se afastou do Archer de propósito. E já que a Saber sabe lidar com aquele Fantasma Nobre, ela vai enfrentar o seu inimigo logo de frente.[lr]::
 21584::$$$message_0194_0061_0001$$$::Se os Fantasmas Nobres deles forem espadas e as duas tiverem o mesmo poder, a batalha vai ser decidida pelas habilidades de luta de cada um.[lr]::
@@ -203,8 +203,8 @@ id=qid::label=str::text=lstr::
 21586::$$$message_0194_0061_0003$$$::"Fine!"[lr]::
 21587::$$$message_0194_0061_0004$$$::Saber charges without hesitation.::
 21588::$$$message_0194_0062_0000$$$::"Está bem[line2]então venha até mim, Saber.[lr]::
-21589::$$$message_0194_0062_0001$$$::Em respeito à sua espada, eu também vou atacar com tudo o que tenho."[lr]::
-21590::$$$message_0194_0063_0000$$$::[line2]Com certeza, a espada da Saber vai destruir a armadura dele.[lr]::
+21589::$$$message_0194_0062_0001$$$::Em respeito à sua espada, eu também vou atacar com tudo o que tenho."::
+21590::$$$message_0194_0063_0000$$$::[line2]Com certeza, a espada da Saber vai destruir a armadura dele.::
 21591::$$$message_0194_0064_0000$$$::"[line2]Portões da Babilônia."::
 21592::$$$message_0194_0065_0000$$$::Um "portão" invisível é aberto atrás do homem.::
 21593::$$$message_0194_0065_0001$$$::Saber jerks to one side.[lr]::
@@ -214,7 +214,7 @@ id=qid::label=str::text=lstr::
 21597::$$$message_0194_0066_0000$$$::"O[line2]quê...!?"[lr]::
 21598::$$$message_0194_0066_0001$$$::O corpo da Saber fica paralisado.[lr]::
 21599::$$$message_0194_0066_0002$$$::As armas que o inimigo começa a sacar são diferentes daquela espada vermelho escura.[lr]::
-21600::$$$message_0194_0066_0003$$$::A primeira delas é uma espada invisível igual a da Saber.[lr]::
+21600::$$$message_0194_0066_0003$$$::A primeira delas é uma espada invisível igual a da Saber.::
 21601::$$$message_0194_0067_0000$$$::Essa espada é de gelo.[lr]::
 21602::$$$message_0194_0067_0001$$$::A Saber vira o seu corpo para se esquivar da espada, mas o espaço por onde ela passa fica congelado.[lr]::
 21603::$$$message_0194_0067_0002$$$::A Saber recua, mas fica coberta de gelo.[lr]::
@@ -230,12 +230,12 @@ id=qid::label=str::text=lstr::
 21613::$$$message_0194_0069_0002$$$::...Dessa vez, ela recua de um jeito diferente.[lr]::
 21614::$$$message_0194_0069_0003$$$::Não para se afastar e ficar preparada para o próximo ataque.[lr]::
 21615::$$$message_0194_0069_0004$$$::Mas um recuo desesperado, apenas para ficar longe do inimigo[line2]::
-21616::$$$message_0194_0070_0000$$$::"Isso é[line2]impossível."[lr]::
+21616::$$$message_0194_0070_0000$$$::"Isso é[line2]impossível."::
 21617::$$$message_0194_0071_0000$$$::Essa é uma cena que faz com que eu duvide dos meus próprios olhos.::
 21618::$$$message_0194_0071_0001$$$::Eu tenho certeza de que aqueles cabos de armas que estão flutuando atrás dele são Fantasmas Nobres.[lr]::
 21619::$$$message_0194_0071_0002$$$::Não são só dez ou vinte.[lr]::
 21620::$$$message_0194_0071_0003$$$::Aliás, mesmo que não consiga ver as armas, eu posso sentir que a quantidade delas não acaba mais.[lr]::
-21621::$$$message_0194_0071_0004$$$::Elas são de todas as épocas e lugares diferentes do mundo.[lr]::
+21621::$$$message_0194_0071_0004$$$::Elas são de todas as épocas e lugares diferentes do mundo.::
 21622::$$$message_0194_0072_0000$$$::A Saber tem razão.[lr]::
 21623::$$$message_0194_0072_0001$$$::Todos os Fantasmas Nobres que ele tem são verdadeiros.[lr]::
 21624::$$$message_0194_0072_0002$$$::Ele tem espadas demoníacas que são desde o norte da Europa até da América do Sul.[lr]::
@@ -243,8 +243,8 @@ id=qid::label=str::text=lstr::
 21626::$$$message_0194_0073_0000$$$::Os Fantasmas Nobres dos espíritos heroicos são as armas que eles tinham na época em que estavam vivos.[lr]::
 21627::$$$message_0194_0073_0001$$$::Então seguindo essa lógica, já que esse cara tem a Gae Bolg, então ele teria que ser o Cú Chulainn.::
 21628::$$$message_0194_0074_0000$$$::Só que ele não é o Cú Chulainn.[lr]::
-21629::$$$message_0194_0074_0001$$$::Portanto, a lança que ele possui não poderia ser a Gae Bolg. Mas o problema é que aquela com certeza era a Gae Bolg verdadeira.[lr]::
-21630::$$$message_0194_0075_0000$$$::"[line2]Isso é impossível. Não, espera..."[lr]::
+21629::$$$message_0194_0074_0001$$$::Portanto, a lança que ele possui não poderia ser a Gae Bolg. Mas o problema é que aquela com certeza era a Gae Bolg verdadeira.::
+21630::$$$message_0194_0075_0000$$$::"[line2]Isso é impossível. Não, espera..."::
 21631::$$$message_0194_0075_0001$$$::É possível sim.[lr]::
 21632::$$$message_0194_0076_0000$$$::Então, antes de tudo isso.[lr]::
 21633::$$$message_0194_0076_0001$$$::E se os Fantasmas Nobres desses mitos tiverem vindo de um mesmo lugar antes deles ficarem conhecidos[line2]?::
@@ -262,14 +262,14 @@ id=qid::label=str::text=lstr::
 21645::$$$message_0194_0079_0003$$$::Muitos mitos compartilham pontos em comum porque alguém ou algo serviu de modelo para eles.[lr]::
 21646::$$$message_0194_0079_0004$$$::As lendas que chegam ao ponto de se tornarem a base do culto geralmente só criam raízes nas terras onde dizem que acontecem. Essa é uma das razões pelas quais as espadas demoníacas e as espadas sagradas revelam suas verdadeiras habilidades nas terras de onde vêm.::
 21647::$$$message_0194_0080_0000$$$::"Verdadeiro, não é isso?[lr]::
-21648::$$$message_0194_0080_0001$$$::Sim, é bem simples, Saber.[lr]::
+21648::$$$message_0194_0080_0001$$$::Sim, é bem simples, Saber.::
 21649::$$$message_0194_0081_0000$$$::"[line2]A história é simples assim.[lr]::
-21650::$$$message_0194_0081_0001$$$::Depois da morte do rei, aquilo que fazia parte do seu tesouro se espalhou pelo mundo inteiro. Eles eram valiosos porque eram armas incríveis que em algum momento viraram Fantasmas Nobres.[lr]::
+21650::$$$message_0194_0081_0001$$$::Depois da morte do rei, aquilo que fazia parte do seu tesouro se espalhou pelo mundo inteiro. Eles eram valiosos porque eram armas incríveis que em algum momento viraram Fantasmas Nobres.::
 21651::$$$message_0194_0082_0000$$$::...É como se fosse uma herança.[lr]::
 21652::$$$message_0194_0082_0001$$$::Se você voltar bastante no tempo, vai acabar encontrando uma "origem" de todas as armas.[lr]::
 21653::$$$message_0194_0082_0002$$$::Então é normal que cada lenda, mito, folclore e Fantasma Nobre tenha a sua própria origem.[lr]::
 21654::$$$message_0194_0082_0003$$$::Ou seja[line2]se no passado distante era possível ir atrás da origem de todos os Fantasmas Nobres, então alguém poderia ser o dono de todos eles.::
-21655::$$$message_0194_0083_0000$$$::Só existe um herói que se encaixa nisso.[lr]::
+21655::$$$message_0194_0083_0000$$$::Só existe um herói que se encaixa nisso.::
 21656::$$$message_0194_0084_0000$$$::"Gilgamesh[line2]o Rei dos Heróis mais antigo da história da humanidade[line2]"[lr]::
 21657::$$$message_0194_0084_0001$$$::A Saber parece estar tremendo de medo por dentro.[lr]::
 21658::$$$message_0194_0084_0002$$$::O cavaleiro dourado[line2]Gilgamesh reconhece esse medo com uma satisfação no rosto.::
@@ -290,10 +290,10 @@ id=qid::label=str::text=lstr::
 21673::$$$message_0194_0087_0003$$$::Os arredores da Saber começam a tremer.::
 21674::$$$message_0194_0088_0000$$$::O vento começa a soprar e vira uma tempestade que a protege.[lr]::
 21675::$$$message_0194_0088_0001$$$::Ao mesmo tempo, a espada dourada aparece.[lr]::
-21676::$$$message_0194_0088_0002$$$::"[line2]Não, Saber..."[lr]::
-21677::$$$message_0194_0089_0000$$$::O Gilgamesh fica assustado.[lr]::
+21676::$$$message_0194_0088_0002$$$::"[line2]Não, Saber..."::
+21677::$$$message_0194_0089_0000$$$::O Gilgamesh fica assustado.::
 21678::$$$message_0194_0090_0000$$$::"......"[lr]::
-21679::$$$message_0194_0090_0001$$$::Será que ela está tentando me dizer para fugir?[lr]::
+21679::$$$message_0194_0090_0001$$$::Será que ela está tentando me dizer para fugir?::
 21680::$$$message_0194_0091_0000$$$::"[line2]Não. Você não pode usá-la aqui[line2]"[lr]::
 21681::$$$message_0194_0091_0001$$$::Eu coloco força nos meus braços e pernas.[lr]::
 21682::$$$message_0194_0091_0002$$$::Mesmo que eu tente mover o meu corpo que está dormente, só consigo mexer um dos meus braços.[lr]::
@@ -305,7 +305,7 @@ id=qid::label=str::text=lstr::
 21688::$$$message_0194_0092_0004$$$::Does Saber intend to use Excalibur!?::
 21689::$$$message_0194_0093_0000$$$::"[line2]! ...!"[lr]::
 21690::$$$message_0194_0093_0001$$$::Eu ignoro essa dor e me levanto.[lr]::
-21691::$$$message_0194_0093_0002$$$::"Ah[line2]haa, ha[line2]ah...!"[lr]::
+21691::$$$message_0194_0093_0002$$$::"Ah[line2]haa, ha[line2]ah...!"::
 21692::$$$message_0194_0094_0000$$$::[line2]Porque eu estou com um mal pressentimento.[lr]::
 21693::$$$message_0194_0094_0001$$$::A mesma premonição que eu senti quando enfrentei esse inimigo.[lr]::
 21694::$$$message_0194_0094_0002$$$::Ela nunca vai conseguir derrotá-lo.[lr]::
@@ -335,14 +335,14 @@ id=qid::label=str::text=lstr::
 21718::$$$message_0194_0099_0002$$$::Mesmo diante daquela espada deslumbrante, Gilgamesh não se intimida.::
 21719::$$$message_0194_0100_0000$$$::"[line2]Então você quer comparar a força dos nossos Fantasmas Nobres...?"[lr]::
 21720::$$$message_0194_0100_0001$$$::A luz fica concentrada.[lr]::
-21721::$$$message_0194_0100_0002$$$::Eles só estão a dez metros de distância.[lr]::
+21721::$$$message_0194_0100_0002$$$::Eles só estão a dez metros de distância.::
 21722::$$$message_0194_0101_0000$$$::"[line2]Está bem.[lr]::
 21723::$$$message_0194_0101_0001$$$::Então vamos ver se você consegue se defender da minha espada...!"[lr]::
-21724::$$$message_0194_0101_0002$$$::A espada da Saber se move.[lr]::
+21724::$$$message_0194_0101_0002$$$::A espada da Saber se move.::
 21725::$$$message_0194_0102_0000$$$::"Eu conto com você. Desperte, Ea."[lr]::
 21726::$$$message_0194_0102_0001$$$::A espada com formato de cilindro começa a rugir.[lr]::
 21727::$$$message_0194_0102_0002$$$::Em resposta às palavras do Gilgamesh, as três lâminas começam a girar.[lr]::
-21728::$$$message_0194_0102_0003$$$::Se a Excalibur da Saber libera uma tempestade quando fica exposta,[lr]::
+21728::$$$message_0194_0102_0003$$$::Se a Excalibur da Saber libera uma tempestade quando fica exposta,::
 21729::$$$message_0194_0103_0000$$$::"EX[line2]"::
 21730::$$$message_0194_0103_0001$$$::Não tem nome, então eu simplesmente o chamo de Ea."::
 21731::$$$message_0194_0104_0000$$$::A Saber já tem experiência contra Fantasmas Nobres que são capazes de derrubar muralhas de castelos.[lr]::
@@ -371,13 +371,13 @@ id=qid::label=str::text=lstr::
 21754::$$$message_0194_0110_0000$$$::Que impacto enorme[line2]!![lr]::
 21755::$$$message_0194_0110_0001$$$::A tempestade derruba as árvores, e as luzes se colidiram e viraram uma bomba atômica que está cegando os meus olhos...!::
 21756::$$$message_0194_0111_0000$$$::"Ha... não, o meu corpo[line2]"[lr]::
-21757::$$$message_0194_0112_0000$$$::[line2]Até quando essa disputa vai durar?[lr]::
-21758::$$$message_0194_0113_0000$$$::Uma colisão.[lr]::
+21757::$$$message_0194_0112_0000$$$::[line2]Até quando essa disputa vai durar?::
+21758::$$$message_0194_0113_0000$$$::Uma colisão.::
 21759::$$$message_0194_0114_0000$$$::[line2]Eu cheguei a pensar que ela tinha morrido.[lr]::
 21760::$$$message_0194_0114_0001$$$::Esse é o estado grave em que a Saber se encontra.[lr]::
 21761::$$$message_0194_0115_0000$$$::"Ha, então esse é o poder da espada sagrada mais poderosa de todas, hã!? Eu sabia que o sonho dos humanos era só uma brincadeirinha de criança!"[lr]::
 21762::$$$message_0194_0115_0001$$$::A risada dele é tão alta que parece até que ela está levando a fumaça embora.[lr]::
-21763::$$$message_0194_0115_0002$$$::[line2]Isso é tão engraçado assim?[lr]::
+21763::$$$message_0194_0115_0002$$$::[line2]Isso é tão engraçado assim?::
 21764::$$$message_0194_0116_0000$$$::Quanto tempo isso vai durar?[lr]::
 21765::$$$message_0194_0116_0001$$$::Seus ataques esmagadores são tão poderosos que temo que possam dividir o mundo em dois. Mas então...[lr]::
 21766::$$$message_0194_0116_0002$$$::"Ku...ah...!"[lr]::

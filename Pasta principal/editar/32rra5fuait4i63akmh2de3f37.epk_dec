@@ -7,7 +7,7 @@ id=qid::label=str::text=lstr::
 14099::$$$message_0133_0001_0000$$$::"Por aqui. Vamos alcançar a estrada principal dentro de três horas, então continuem correndo até lá."::
 14100::$$$message_0133_0002_0000$$$::"[line2]"[lr]::
 14101::$$$message_0133_0002_0001$$$::...Três horas, huh? Eu sinceramente não sei se o meu corpo vai aguentar correr isso tudo. Eu estou ficando com cada vez mais dor à medida em que me movo.[lr]::
-14102::$$$message_0133_0002_0002$$$::O calor deve ir embora se eu parar para descansar, mas nós não temos tempo para isso agora.::
+14102::$$$message_0133_0002_0002$$$::O calor deve ir embora se eu parar para descansar, mas nós não temos tempo para isso agora.[lr]::
 14103::$$$message_0133_0002_0003$$$::Se eu pudesse pelo menos descansar, minha febre poderia diminuir, mas não temos tempo para isso.::
 14104::$$$message_0133_0003_0000$$$::"Shirou, depressa."[lr]::
 14105::$$$message_0133_0003_0001$$$::A Tohsaka também parece estar com pressa.[lr]::
@@ -100,51 +100,52 @@ id=qid::label=str::text=lstr::
 14192::$$$message_0133_0029_0004$$$::Será que a capacidade dela de falar é apenas a sua última faísca antes de desaparecer?::
 14193::$$$message_0133_0030_0000$$$::"Ha[line2]Haa, haa, haa, ha[line2]!"[lr]::
 14194::$$$message_0133_0030_0001$$$::Eu corro, tentando negar essa possibilidade.[lr]::
-14195::$$$message_0133_0030_0002$$$::Eu não ligo para o estado do meu corpo.[lr]::
-14196::$$$message_0133_0030_0003$$$::Só quero acreditar que vai ser possível fazer alguma coisa se eu continuar correndo até chegarmos em casa[line2]::
-14197::$$$message_0133_0031_0000$$$::Eu quase caio no chão, mas consigo me equilibrar usando uma árvore de apoio.::
-14198::$$$message_0133_0032_0000$$$::"[line5]!"[lr]::
-14199::$$$message_0133_0032_0001$$$::...Posso sentir o gosto de sangue.[lr]::
-14200::$$$message_0133_0032_0002$$$::Então era isso que estava causando o meu enjôo.[lr]::
-14201::$$$message_0133_0032_0003$$$::Eu não cheguei a derramar na Saber porque foi apenas um pouco, mas ainda sinto o motivo do enjôo em meu peito.::
-14202::$$$message_0133_0033_0000$$$::"...Bem, se eu parar para pensar, poderia ter sido pior..."[lr]::
-14203::$$$message_0133_0033_0001$$$::A Saber ficaria brava comigo por um motivo diferente se eu vomitasse os conteúdos do meu estômago.[lr]::
-14204::$$$message_0133_0033_0002$$$::Na verdade, aposto que ela realmente tentaria me cortar ao meio se eu fizesse isso.::
-14205::$$$message_0133_0034_0000$$$::"Hah[line2]"[lr]::
-14206::$$$message_0133_0034_0001$$$::...Pois é, isso seria engraçado.[lr]::
-14207::$$$message_0133_0034_0002$$$::Imaginar uma cena engraçada como essa me dá um pouco de energia.[lr]::
-14208::$$$message_0133_0034_0003$$$::Muito bem, chega de descanso.::
-14209::$$$message_0133_0035_0000$$$::"Não, pare de se esforçar demais, Shirou."[lr]::
+14195::$$$message_0133_0030_0002$$$::Eu não me importo com o estado do meu corpo.[lr]::
+14196::$$$message_0133_0030_0003$$$::Acredito que conseguiremos fazer alguma coisa se apenas chegarmos em casa, então continuo correndo o mais rápido que posso[line2]::
+14197::$$$message_0133_0031_0000$$$::Quase tropeço e paro bruscamente, apoiando as costas em uma árvore.::
+14198::$$$message_0133_0032_0000$$$::"...Ngh."[lr]::
+14199::$$$message_0133_0032_0001$$$::Sinto gosto de sangue.[lr]::
+14200::$$$message_0133_0032_0002$$$::Então era isso que estava causando o enjoo.[lr]::
+14201::$$$message_0133_0032_0003$$$::Não chegou a cair na Saber, foi só um pouco, mas a origem do enjoo ainda se revira no meu peito.::
+14202::$$$message_0133_0033_0000$$$::"...Bom, dependendo do ponto de vista, isso até é melhor."[lr]::
+14203::$$$message_0133_0033_0001$$$::Se eu vomitasse, a Saber provavelmente ficaria irritada com o desperdício de comida.[lr]::
+14204::$$$message_0133_0033_0002$$$::Na verdade, conhecendo ela, talvez até me cortasse ao meio por isso.::
+14205::$$$message_0133_0034_0000$$$::"Ha..."[lr]::
+14206::$$$message_0133_0034_0001$$$::...É, isso chega a ser engraçado.[lr]::
+14207::$$$message_0133_0034_0002$$$::Esse pensamento idiota me dá um pouco de energia.[lr]::
+14208::$$$message_0133_0034_0003$$$::Certo. Chega de descanso.::
+14209::$$$message_0133_0035_0000$$$::"Não. Já chega de se forçar, Shirou."[lr]::
 14210::$$$message_0133_0035_0001$$$::"Saber...?"[lr]::
-14211::$$$message_0133_0035_0002$$$::Mas ela não estava dormindo?[lr]::
-14212::$$$message_0133_0035_0003$$$::A Saber fala enquanto permanece em meus braços.::
-14213::$$$message_0133_0036_0000$$$::"O que você quer dizer com 'parar'?"[lr]::
-14214::$$$message_0133_0036_0001$$$::"Estou dizendo que você deveria fugir sozinho, Shirou. Você não pode me carregar com o seu corpo nesse estado."[lr]::
-14215::$$$message_0133_0036_0002$$$::"Quê[line2]!? Isso não é verdade...! Eu só escorreguei. Não foi nada demais[line2]"::
-14216::$$$message_0133_0037_0000$$$::"Foi sim. Como pode dizer isso com esse rosto pálido feito um cadáver?"[lr]::
-14217::$$$message_0133_0037_0001$$$::[line2]Ei.[lr]::
-14218::$$$message_0133_0037_0002$$$::A Tohsaka, que estava liderando o caminho, voltou até aqui por algum motivo.::
-14219::$$$message_0133_0038_0000$$$::"Heh, se quiser blefar é escolha sua, mas pelo menos esconda o sangue em sua boca mesmo dentro dessa floresta escura. Não me surpreende a Saber ficar preocupada com você assim."::
-14220::$$$message_0133_0039_0000$$$::A Tohsaka me encara.[lr]::
-14221::$$$message_0133_0040_0000$$$::"Foi o que pensei. Eu sei o que a Saber está querendo dizer. Nós não temos tempo, então desembucha logo para que até esse idiota consiga entender."[lr]::
-14222::$$$message_0133_0040_0001$$$::A Saber acena.::
-14223::$$$message_0133_0041_0000$$$::"...Certo. Rin, eu quero que você me deixe aqui.[lr]::
-14224::$$$message_0133_0041_0001$$$::Vocês não vão conseguir escapar comigo, e o mais importante[line2]eu não vou durar por muito tempo."::
-14225::$$$message_0133_0042_0000$$$::"[line8]"[lr]::
-14226::$$$message_0133_0042_0001$$$::Eu não posso gritar com ela por ter dito uma coisa absurda dessas.[lr]::
-14227::$$$message_0133_0042_0002$$$::Não tenho a intenção de abandonar a Saber.[lr]::
-14228::$$$message_0133_0043_0000$$$::A Saber não vai durar por muito tempo.[lr]::
-14229::$$$message_0133_0043_0001$$$::Eu já suspeitava que nesse ritmo ela não iria resistir até de manhã.::
-14230::$$$message_0133_0044_0000$$$::"Entendo. E quanto a você, Shirou? Vai morrer aqui junto com a Saber?"[lr]::
-14231::$$$message_0133_0044_0001$$$::"[line2]É claro que não. Eu não tenho essa intenção, e também não vou deixar a Saber sumir. Se ela for desaparecer, eu vou usar o meu Selo de Comando e[line2]"::
-14232::$$$message_0133_0045_0000$$$::"Certo, já está bom. Então vamos resolver os dois problemas de uma vez só.[lr]::
-14233::$$$message_0133_0045_0001$$$::Vamos salvar a Saber e escapar juntos dessa floresta. Esse vai ser o nosso plano por enquanto."::
+14211::$$$message_0133_0035_0002$$$::Então ela não estava dormindo.[lr]::
+14212::$$$message_0133_0035_0003$$$::Saber fala ainda deitada nos meus braços.::
+14213::$$$message_0133_0036_0000$$$::"O quê? Como assim 'chega'?"[lr]::
+14214::$$$message_0133_0036_0001$$$::"Você deve fugir sozinho, Shirou. No seu estado, não pode continuar me carregando."[lr]::
+14215::$$$message_0133_0036_0002$$$::"O quê!? Claro que posso! Eu só tropecei. Isso não é nada...":: 
+14216::$$$message_0133_0037_0000$$$::"...Diz o cara com a cara pálida de um cadáver."[lr]::
+14217::$$$message_0133_0037_0001$$$::...Ei.[lr]::
+14218::$$$message_0133_0037_0002$$$::A Tohsaka voltou até aqui por algum motivo.::
+14219::$$$message_0133_0038_0000$$$::"Hmph. Pode fingir o quanto quiser, mas mesmo na escuridão da floresta você devia ao menos limpar o sangue da boca. Não é à toa que a Saber está preocupada."[lr]::
+14220::$$$message_0133_0039_0000$$$::"Isso é um alívio. Com a Rin aqui, não preciso explicar."[lr]::
+14221::$$$message_0133_0040_0000$$$::"Imaginei. Eu sei o que a Saber quer dizer. Não temos tempo, então fala logo de um jeito que até esse idiota entenda."[lr]::
+14222::$$$message_0133_0040_0001$$$::Saber assente.::
+14223::$$$message_0133_0041_0000$$$::"Sim. Rin, por favor, me deixe aqui.[lr]::
+14224::$$$message_0133_0041_0001$$$::Vocês não vão conseguir escapar comigo. E mais importante... eu não vou aguentar por muito mais tempo."::
+14225::$$$message_0133_0042_0000$$$::"...":[lr]::
+14226::$$$message_0133_0042_0001$$$::Não dá para dizer que isso é absurdo.[lr]::
+14227::$$$message_0133_0042_0002$$$::Não quando eu sei perfeitamente que ela está piorando.::
+14228::$$$message_0133_0043_0000$$$::A Saber não vai durar muito.[lr]::
+14229::$$$message_0133_0043_0001$$$::Do jeito que está, tenho a sensação de que ela não vai aguentar até de manhã.::
+14230::$$$message_0133_0044_0000$$$::"Entendo. E você, Shirou? Vai morrer aqui junto com a Saber?"[lr]::
+14231::$$$message_0133_0044_0001$$$::"Claro que não. Eu não pretendo morrer e também não vou deixar a Saber desaparecer. Se ela for desaparecer, eu uso um Selo de Comando ou qualquer coisa...":: 
+14232::$$$message_0133_0045_0000$$$::"Ok. Isso basta. Então vamos resolver os dois problemas."[lr]::
+14233::$$$message_0133_0045_0001$$$::"Vamos salvar a Saber e sair desta floresta nós três. Esse é o plano."::
 14234::$$$message_0133_0046_0000$$$::"...Hã?"[lr]::
-14235::$$$message_0133_0046_0001$$$::O meu cérebro vira um tofu.[lr]::
-14236::$$$message_0133_0046_0002$$$::Às vezes a Tohsaka diz as coisas mais difíceis de forma bem natural.::
-14237::$$$message_0133_0047_0000$$$::"Espera um pouco...! E-Eu realmente quero fazer isso, mas já que não podemos[line2]"::
-14238::$$$message_0133_0048_0000$$$::"Apenas me siga. Só para você saber, eu também não tenho a intenção de deixar a Saber morrer assim.[lr]::
-14239::$$$message_0133_0048_0001$$$::...Sim, eu não vou deixar essa chance escapar. Eu vou fazer com que você cumpra com o seu dever. Você disse que está tudo bem, então você também não se importa, não é Saber?"::
-14240::$$$message_0133_0049_0000$$$::A Tohsaka olha para a Saber com uma expressão séria.[lr]::
-14241::$$$message_0133_0049_0001$$$::"......"[lr]::
-14242::$$$message_0133_0049_0002$$$::A Saber não responde, apenas olha para baixo sem jeito.::
+14235::$$$message_0133_0046_0001$$$::Minha cabeça vira um tofu.[lr]::
+14236::$$$message_0133_0046_0002$$$::A Tohsaka diz as coisas mais absurdas como se fossem simples.::
+14237::$$$message_0133_0047_0000$$$::"Espera...! Eu também quero isso, mas não dá...":: 
+14238::$$$message_0133_0048_0000$$$::"É só me seguir. E saiba que eu também não pretendo deixar a Saber morrer.[lr]::
+14239::$$$message_0133_0048_0001$$$::...Isso é uma oportunidade. Eu vou fazer você cumprir seu dever. O Shirou já disse que está tudo bem, então você também não se importa, certo, Saber?"::
+14240::$$$message_0133_0049_0000$$$::A Tohsaka olha para a Saber com significado.[lr]::
+14241::$$$message_0133_0049_0001$$$::"...":[lr]::
+14242::$$$message_0133_0049_0002$$$::A Saber não responde, apenas desvia o olhar, desconfortável.::
+

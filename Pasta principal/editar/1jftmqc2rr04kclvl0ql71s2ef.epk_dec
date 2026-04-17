@@ -13,10 +13,10 @@ id=qid::label=str::text=lstr::
 27254::$$$message_0234_0001_0003$$$::Um som que não carregava esplendor.[lr]::
 27255::$$$message_0234_0001_0004$$$::Com o seu ecoar originando-se de aço.[lr]::
 27256::$$$message_0234_0001_0005$$$::É só que, a cavaleira era simplesmente tão bela, que como o tinido de um sino, encantadoramente o som transformou-se.::
-27257::$$$message_0234_0002_0000$$$::"[line3]Pergunto-lhe: é você o meu Mestre?"[lr]::
+27257::$$$message_0234_0002_0000$$$::"[line3]Eu lhe pergunto, você é meu Mestre?"[lr]::
 27258::$$$message_0234_0002_0001$$$::Ela pergunta com uma voz que ilumina a escuridão.::
-27259::$$$message_0234_0003_0000$$$::"Eu vim em resposta a teu chamado.[lr]::
-27260::$$$message_0234_0003_0001$$$::De agora em diante a minha espada lhe acompanhará, e nossos destinos entrelaçados estão. Com isto, nosso contrato está concluído."::
+27259::$$$message_0234_0003_0000$$$::"Eu vim em resposta à sua invocação.[lr]::
+27260::$$$message_0234_0003_0001$$$::De agora em diante a minha espada lhe acompanhará, e nossos destinos estarão entrelaçados. Com isto, nosso contrato está concluído."::
 27261::$$$message_0234_0004_0000$$$::Sim, o contrato foi concluído.[lr]::
 27262::$$$message_0234_0004_0001$$$::Do mesmo jeito que ela escolheu-me como seu Mestre...[lr]::
 27263::$$$message_0234_0004_0002$$$::...estou certo de que jurei ajudá-la também.::
@@ -38,7 +38,7 @@ id=qid::label=str::text=lstr::
 27279::$$$message_0234_0010_0002$$$::Não, isto está meio errado.[lr]::
 27280::$$$message_0234_0010_0003$$$::Acho que ele não sabe o quanto de força usar. Então, para ser mais precisa: ele está agarrando a minha cabeça e balançando-a para os lados.::
 27281::$$$message_0234_0011_0000$$$::Isto é de se esperar.[lr]::
-27282::$$$message_0234_0011_0001$$$::Afinal, esta é primeira vez que ele acariciou a minha cabeça.::
+27282::$$$message_0234_0011_0001$$$::Afinal, esta é a primeira vez que ele acariciou a minha cabeça.::
 27283::$$$message_0234_0012_0000$$$::"Então, estou indo. Sabe o que fazer a partir daqui, certo?"::
 27284::$$$message_0234_0012_0001$$$::Eu respondi à voz profunda com um "sim" educado.[lr]::
 27285::$$$message_0234_0012_0002$$$::O homem acariciando a minha cabeça acena uma vez, me solta, e se levanta.::
@@ -540,7 +540,7 @@ id=qid::label=str::text=lstr::
 27781::$$$message_0234_0166_0001$$$::Até onde sei, essa frase não mudou desde o começo do ano.::
 27782::$$$message_0234_0167_0000$$$::"Tohsaka, já está indo embora?"[lr]::
 27783::$$$message_0234_0167_0001$$$::"Sim. Aconteceu uma coisa entre mim e o Matou-kun esta manhã, então vou embora antes que se torne um problema."[lr]::
-27784::$$$message_0234_0167_0002$$$::"Haha, bem que eu desconfiava. O Matou estava de bem mal humorado esta manhã, imaginei você fosse a causa."[lr]::
+27784::$$$message_0234_0167_0002$$$::"Haha, bem que eu desconfiava. O Matou estava bem mal-humorado esta manhã, imaginei que você fosse a causa."[lr]::
 27785::$$$message_0234_0167_0003$$$::"Entendo. Te causei algum problema, Mitsuzuri-san?"[lr]::
 27786::$$$message_0234_0167_0004$$$::"Que nada, o Matou atormentar calouros não é coisa nova, e acho que esse tipo de coisa vai ser um bom treino mental para ele. "::
 27787::$$$message_0234_0168_0000$$$::"Entendo, que bom. Farei algo para compensar isso alguma outra hora."[lr]::
@@ -673,7 +673,7 @@ id=qid::label=str::text=lstr::
 27914::$$$message_0234_0203_0000$$$::"Aqui faço um juramento.[lr]::
 27915::$$$message_0234_0203_0001$$$::Tornar-me-ei a infinidade de tudo aquilo que é bom.[lr]::
 27916::$$$message_0234_0203_0002$$$::Dominar-me-ei a infinidade de tudo aquilo que é mau.[lr]::
-27917::$$$message_0234_0203_0003$$$::Sete Celestes, vós que estão envolto pelas três almas divinas.[lr]::
+27917::$$$message_0234_0203_0003$$$::Sete Celestes, vós que estão envoltos pelas três almas divinas.[lr]::
 27918::$$$message_0234_0203_0004$$$::Surjas do círculo restritivo, ó Guardião do Equilíbrio!"::
 27919::$$$message_0234_0204_0000$$$::Perfeito![lr]::
 27920::$$$message_0234_0204_0001$$$::Foi tão perfeito que pareço estar puxando uma baleia com uma vara de pescar!::

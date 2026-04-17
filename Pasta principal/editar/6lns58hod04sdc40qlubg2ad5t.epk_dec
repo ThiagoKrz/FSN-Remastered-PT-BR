@@ -43,7 +43,7 @@ id=qid::label=str::text=lstr::
 1109::$$$message_0007_0016_0001$$$::A Fuji-nee novamente se senta e rapidamente termina o seu café.::
 1110::$$$message_0007_0017_0000$$$::"Obrigada pela comida. O café estava uma delícia, Sakura-chan."[lr]::
 1111::$$$message_0007_0017_0001$$$::"Ah... obrigada, Sensei."[lr]::
-1112::$$$message_0007_0017_0002$$$::"Eu vou ir na frente então. Eu vou ficar brava se vocês se atrasarem, hein."::
+1112::$$$message_0007_0017_0002$$$::"Vou na frente então. Eu vou ficar brava se vocês se atrasarem, hein."::
 1113::$$$message_0007_0018_0000$$$::E ela sai correndo.[lr]::
 1114::$$$message_0007_0018_0001$$$::Tem alguma coisa muito errada num mundo em que aquela criatura é professora...::
 1115::$$$message_0007_0019_0000$$$::"Uhm, Senpai?"[lr]::
@@ -68,7 +68,7 @@ id=qid::label=str::text=lstr::
 1134::$$$message_0007_0025_0002$$$::Por isso escondo que estou aprendendo magia desde que me tornei aprendiz do meu pai.::
 1135::$$$message_0007_0026_0000$$$::Eu digo que estou aprendendo, mas eu mal consigo usar magia direito.[lr]::
 1136::$$$message_0007_0026_0001$$$::Com esse tipo de habilidade não faria muita diferença eu esconder isso ou não. Mas, como foi vontade do meu velho, continuo treinando em segredo.::
-1137::$$$message_0007_0027_0000$$$::Eu termino o meu café e me preparo pra escola.[lr]::
+1137::$$$message_0007_0027_0000$$$::Termino o meu café e me preparo pra escola.[lr]::
 1138::$$$message_0007_0027_0001$$$::Eu lavo a louça com a Sakura enquanto escutamos às notícias na TV.::
 1139::$$$message_0007_0028_0000$$$::"..."[lr]::
 1140::$$$message_0007_0028_0001$$$::A Sakura está encarando a tela da TV.[lr]::
@@ -100,7 +100,7 @@ id=qid::label=str::text=lstr::
 1166::$$$message_0007_0037_0003$$$::"Sim. Então vamos nos apressar, Senpai."::
 1167::$$$message_0007_0038_0000$$$::Sakura e eu seguimos juntos em direção a cidade.[lr]::
 1168::$$$message_0007_0038_0001$$$::Passando pelo longo muro e descendo a colina, chegamos no distrito residencial.[lr]::
-1169::$$$message_0007_0038_0002$$$::Minha casa fica no topo da colina, bem distante do centro da cidade::
+1169::$$$message_0007_0038_0002$$$::Minha casa fica no topo da colina, bem distante do centro da cidade.::
 1170::$$$message_0007_0039_0000$$$::Descer a colina nos leva para o distrito residencial, e passando dele...[lr]::
 1171::$$$message_0007_0039_0001$$$::...nós chegamos ao cruzamento no centro dessa cidade.::
 1172::$$$message_0007_0040_0000$$$::Daqui podemos ir para os seguintes lugares: uma grande ponte que leva pra cidade vizinha.[lr]::
@@ -118,7 +118,7 @@ id=qid::label=str::text=lstr::
 1184::$$$message_0007_0043_0001$$$::Mas hoje...[lr]::
 1185::$$$message_0007_0043_0002$$$::A Sakura não se mexe.::
 1186::$$$message_0007_0044_0000$$$::"Sakura? Não está se sentindo bem?"[lr]::
-1187::$$$message_0007_0044_0001$$$::"Não, não é isso, mas... hm, Senpai, será que... às vezes... você não gostaria de passar no dojo?"::
+1187::$$$message_0007_0044_0001$$$::"Não, não é isso, mas... hm, Senpai, será que às vezes você não gostaria de passar no dojo?"::
 1188::$$$message_0007_0045_0000$$$::"Não, eu não tenho o que fazer no dojo. Além disso, o Issei pediu pela minha ajuda, então eu tenho que ir pra sala do conselho estudantil hoje."::
 1189::$$$message_0007_0046_0000$$$::"E-Entendo... Desculpa, falei uma coisa estranha."[lr]::
 1190::$$$message_0007_0046_0001$$$::Ela curva a cabeça.[lr]::
