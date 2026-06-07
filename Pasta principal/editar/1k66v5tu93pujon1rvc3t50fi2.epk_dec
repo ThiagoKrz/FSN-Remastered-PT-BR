@@ -41,11 +41,11 @@ id=qid::label=str::text=lstr::
 2081::$$$message_0017_0018_0000$$$::"Graças a Deus. É muito perigoso lutar com bokutou.[lr]::
 2082::$$$message_0017_0018_0001$$$::...então, o que eu devo fazer? Devemos começar com exercícios de fortalecimento como balançar a espada quinhentas vezes ou correr?"::
 2083::$$$message_0017_0019_0000$$$::"Não precisa disso. Pelo o que eu vejo, sua capacidade fisica já está num nivel aceitável. Se fosse para elevar mais o corpo, isso não se conseguiria em um ou dois dias."::
-2084::$$$message_0017_0020_0000$$$::"Você é inabilidoso como mago, mas não acho que seja tão ruim como guerreiro. Da para ver que você se treinou seriamente desde criança."[lr]::
+2084::$$$message_0017_0020_0000$$$::"Você é inabilidoso como mago, mas não acho que seja tão ruim como guerreiro. Dá para ver que você se treinou seriamente desde criança."[lr]::
 2085::$$$message_0017_0020_0001$$$::"Uh[line2]bem, era a única coisa em que eu era bom. Você pode treinar seu corpo mesmo se não tiver talento como mago."::
 2086::$$$message_0017_0021_0000$$$::"Isso provavelmente o ajudou. Você ter sobrevivido ao ataque do Lancer deve ter sido resultado do seu esforço."::
 2087::$$$message_0017_0022_0000$$$::"Mas não é algo em que você pode servir como arma real.[lr]::
-2088::$$$message_0017_0022_0001$$$::Humanos tem limites. Seu corpo ainda está longe do extremo desses limites, e ultrapassá-los também seria dificil.[lr]::
+2088::$$$message_0017_0022_0001$$$::Humanos têm limites. Seu corpo ainda está longe do extremo desses limites, e ultrapassá-los também seria dificil.[lr]::
 2089::$$$message_0017_0022_0002$$$::Por isso, a única coisa que eu vou lhe ensinar é lutar."::
 2090::$$$message_0017_0023_0000$$$::"...? Como assim 'só lutar'? Do jeito que você disse, não está falando de me ensinar ténicas passo a passo."::
 2091::$$$message_0017_0024_0000$$$::"Claro que não. Técnicas de batalhas não podem ser adquiridas da noite pro dia. A única coisa que posso fazer é ter meu Mestre participando de quantas batalhas forem possíveis.[lr]::
@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 2098::$$$message_0017_0026_0003$$$::...deixe-me ver... acredito que você vai entender como é em menos de uma hora."::
 2099::$$$message_0017_0027_0000$$$::A Saber levemente aperta a shinai, pronta pra começar.[lr]::
 2100::$$$message_0017_0027_0001$$$::"...?"[lr]::
-2101::$$$message_0017_0027_0002$$$::Ainda sem entender bem o que ela quis dizer ,inclino a cabeçca e pego a shinai do mesmo jeito que a Saber.[lr]::
+2101::$$$message_0017_0027_0002$$$::Ainda sem entender bem o que ela quis dizer, inclino a cabeçca e pego a shinai do mesmo jeito que a Saber.[lr]::
 2102::$$$message_0017_0027_0003$$$::Naquele exato instante,[lr]::
 2103::$$$message_0017_0027_0004$$$::Num golpe perfeito, minha visão apagou e o mundo escureceu.::
 2104::$$$message_0017_0028_0000$$$::Resumindo, a Saber está tentando me ensinar apenas uma coisa.[lr]::
@@ -99,7 +99,7 @@ id=qid::label=str::text=lstr::
 2139::$$$message_0017_0042_0003$$$::Começamos por volta de nove horas, então quer dizer que estivemos fazendo isso por duas horas.::
 2140::$$$message_0017_0043_0000$$$::A primeira hora foi só eu apanhando.[lr]::
 2141::$$$message_0017_0043_0001$$$::Os golpes da Saber repentinamente me acertavam e eu apagava na hora.[lr]::
-2142::$$$message_0017_0043_0002$$$::Eu acordava, pensava que ia tomar mais cuidado... e logo em seguida apagava de novo[lr]::
+2142::$$$message_0017_0043_0002$$$::Eu acordava, pensava que ia tomar mais cuidado... e logo em seguida apagava de novo.[lr]::
 2143::$$$message_0017_0043_0003$$$::Enfim, apanhei sem parar. Meu corpo foi se acostumando ou talvez a raiva tenha puxado alguma força oculta e eu comecei a conseguir bloquear o primeiro golpe.::
 2144::$$$message_0017_0044_0000$$$::O problema é o que vem depois.[lr]::
 2145::$$$message_0017_0044_0001$$$::Bem, depois de ter sido demonstrado tal diferença em habilidade, pode um humano simplesmente contra-atacar?::
@@ -122,7 +122,7 @@ id=qid::label=str::text=lstr::
 2162::$$$message_0017_0050_0001$$$::Estou apenas ensinando meu corpo que estou a um erro da morte.::
 2163::$$$message_0017_0051_0000$$$::Mas ainda[line2]se me perguntarem se isso não tem sentido...não tem nada de inútil.[lr]::
 2164::$$$message_0017_0051_0001$$$::Quando eu tiver uma arma de verdade, essa sensação de estar sempre no limite vai ser a coisa mais importante que eu tenho.::
-2165::$$$message_0017_0052_0000$$$::""Bom trabalho. Se machucou em algum lugar, Shirou?"::
+2165::$$$message_0017_0052_0000$$$::"Bom trabalho. Se machucou em algum lugar, Shirou?"::
 2166::$$$message_0017_0053_0000$$$::Antes que eu perceba, a Saber está bem do meu lado.[lr]::
 2167::$$$message_0017_0053_0001$$$::Estou tão suado que estou pingando no chão, mas a Saber nem está suando.::
 2168::$$$message_0017_0054_0000$$$::"É mais difícil achar algum lugar que não esteja doendo.[lr]::

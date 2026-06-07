@@ -9,7 +9,7 @@ id=qid::label=str::text=lstr::
 28663::$$$message_0236_0002_0001$$$::Ele deve ter percebido depois de ontem que eu não sou do tipo de pessoa que muda de ideia facilmente.[lr]::
 28664::$$$message_0236_0002_0002$$$::Eu meio que consigo dizer sem ele falar nada. Archer é sarcástico, mas ele tem um lado honesto. Ele não parece ser do tipo que reclama de algo que aceitou.::
 28665::$$$message_0236_0003_0000$$$::Em outras palavras: ele é leal de um jeito estranho.[lr]::
-28666::$$$message_0236_0003_0001$$$::Essa é a minha conclusão... Melhor dizendo, é o que a minha intuição diz depois de ter passado o dia com ele ontem.::
+28666::$$$message_0236_0003_0001$$$::Essa é a minha conclusão. Ou melhor, é o que a minha intuição diz depois de ter passado o dia com ele ontem.::
 28667::$$$message_0236_0004_0000$$$::"Rin. Sendo agora uma Mestra, você deve sempre ficar atenta aos outros Mestres. É difícil ficar preparado contra ataques surpresa na escola."::
 28668::$$$message_0236_0005_0000$$$::"Não há porquê se preocupar com isso. Ouça bem, Archer. Mesmo que eu seja uma Mestra agora, não pretendo mudar meu estilo de vida. Além disso, uma batalha entre Mestres não é algo que deve acontecer em público. Se estivermos na escola, um lugar com muitas pessoas, não acho que seremos atacados de surpresa."::
 28669::$$$message_0236_0006_0000$$$::"Entendo. Se é o que decidiu, tudo que posso fazer é obedecer.[lr]::
@@ -54,7 +54,7 @@ id=qid::label=str::text=lstr::
 28708::$$$message_0236_0023_0000$$$::Caminho irritada pelo pátio da escola.[lr]::
 28709::$$$message_0236_0023_0001$$$::Não pretendo medir minhas palavras. Como maga, não ficarei satisfeita até punir quem criou este Campo Limitado.::
 28710::$$$message_0236_0024_0000$$$::Após o segundo período, enquanto caminhava de volta da sala de música...[lr]::
-28711::$$$message_0236_0024_0001$$$::...eu vejo uma estudante do primeiro ano andando meio estranha.[lr]::
+28711::$$$message_0236_0024_0001$$$::...Eu vejo uma estudante do primeiro ano andando meio estranha.[lr]::
 28712::$$$message_0236_0024_0002$$$::Ela está carregando uma pilha de folhas e parece estar tendo dificuldades.::
 28713::$$$message_0236_0025_0000$$$::"Eu te ajudo, Sakura."[lr]::
 28714::$$$message_0236_0025_0001$$$::"Hã[line3]?"[lr]::
@@ -64,7 +64,7 @@ id=qid::label=str::text=lstr::
 28718::$$$message_0236_0026_0001$$$::"Não há de quê. Para onde temos que levar isto? A sua sala?"[lr]::
 28719::$$$message_0236_0026_0002$$$::"Não, vamos levar eles de volta para o Kuzuki-sensei. Ele pediu eles de volta porque parece que tinha um erro de ortografia."::
 28720::$$$message_0236_0027_0000$$$::"Entendi. O Kuzuki é realmente cabeça dura. Ele já cancelou uma prova inteira só porque tinha um erro de ortografia nela."[lr]::
-28721::$$$message_0236_0027_0001$$$::"Hã? Uma prova... Você diz uma prova da escola?"::
+28721::$$$message_0236_0027_0001$$$::"Hã? Uma prova... você diz uma prova da escola?"::
 28722::$$$message_0236_0028_0000$$$::"Isso mesmo. Acho que eram os exames do primeiro semestre do ano passado. Ele entrou na sala quando todos estavam preenchendo o cabeçalho e falou no tom de sempre dele que havia um erro ortográfico no exame. Por causa disso decidiu remarcar o exame. Foi uma surpresa tanto para nós quanto para os professores, tanto que até hoje falam sobre isso."::
 28723::$$$message_0236_0029_0000$$$::"É bem a cara do Kuzuki-sensei. Ele acha que professores não devem cometer erros."[lr]::
 28724::$$$message_0236_0029_0001$$$::"Ele exagera demais. Você vai perceber isso logo logo. A cabeça dele é tão dura quanto uma montanha."::
@@ -166,7 +166,7 @@ id=qid::label=str::text=lstr::
 28820::$$$message_0236_0057_0002$$$::O Brasão Mágico em meu braço esquerdo é o "livro de magias" da família Tohsaka.::
 28821::$$$message_0236_0058_0000$$$::Me concentro.[lr]::
 28822::$$$message_0236_0058_0001$$$::Injeto energia mágica no meu Brasão Mágico, leio a parte que explica sobre a eliminação de Campos Limitados, e agora só preciso ativá-lo.::
-28823::$$$message_0236_0059_0000$$$::"Abzug. Bedienung Mittelstand. (Eliminar. Extração cirúrgica. Segunda seção...)"[lr]::
+28823::$$$message_0236_0059_0000$$$::"Abzug. (Eliminar.) Bedienung. (Extração cirúrgica.) Mittelstand. (Segunda seção.)"[lr]::
 28824::$$$message_0236_0059_0001$$$::Eu encosto na superfície com minha mão esquerda e deixo minha energia mágica fluir para fora.[lr]::
 28825::$$$message_0236_0059_0002$$$::Isso pelo menos vai tirar a cor desse símbolo, mas...[lr]::
 28826::$$$message_0236_0059_0003$$$::"Quê? Você vai apagá-lo? Que desperdício."[lr]::
@@ -200,7 +200,7 @@ id=qid::label=str::text=lstr::
 28854::$$$message_0236_0067_0003$$$::"..."[lr]::
 28855::$$$message_0236_0067_0004$$$::Tudo acontece em um instante.[lr]::
 28856::$$$message_0236_0067_0005$$$::O braço que até agora estava vazio...[lr]::
-28857::$$$message_0236_0067_0006$$$::...agora segura uma arma vermelha de dois metros.::
+28857::$$$message_0236_0067_0006$$$::...Agora segura uma arma vermelha de dois metros.::
 28858::$$$message_0236_0068_0000$$$::"Hah[line8]!"[lr]::
 28859::$$$message_0236_0068_0001$$$::Eu pulo para o lado sem pensar.[lr]::
 28860::$$$message_0236_0068_0002$$$::Não tenho tempo a perder para levar em consideração que não posso pular com força total de um terraço.[lr]::
@@ -235,7 +235,7 @@ id=qid::label=str::text=lstr::
 28889::$$$message_0236_0076_0002$$$::São mais de cem metros de distância. Minha velocidade é tamanha que pessoas normais veriam apenas um vulto.::
 28890::$$$message_0236_0077_0000$$$::Mas isto...[lr]::
 28891::$$$message_0236_0077_0001$$$::"Você realmente tem pernas muito boas. Será um desperdício te matar aqui."[lr]::
-28892::$$$message_0236_0077_0002$$$::...é irrelevante contra um Servo.::
+28892::$$$message_0236_0077_0002$$$::...É irrelevante contra um Servo.::
 28893::$$$message_0236_0078_0000$$$::"Archer[line4]!"[lr]::
 28894::$$$message_0236_0078_0001$$$::Assim que dou um passo para trás, Archer dá um passo para frente, tomando forma física.[lr]::
 28895::$$$message_0236_0078_0002$$$::O céu está nublado esta noite.[lr]::
@@ -247,7 +247,7 @@ id=qid::label=str::text=lstr::
 29001::$$$message_0236_0079_0004$$$::Essa é a arma usada contra mim no terraço... a lança vermelho-sangue que tentou me matar impiedosamente.::
 29002::$$$message_0236_0080_0000$$$::"Servo... Lancer."[lr]::
 29003::$$$message_0236_0080_0001$$$::"Eu mesmo. E seu Servo é o Saber...::
-29004::$$$message_0236_0080_0002$$$::...ou talvez não. O que diabos é você?"[lr]::
+29004::$$$message_0236_0080_0002$$$::...Ou talvez não. O que era pra você ser?"[lr]::
 29005::$$$message_0236_0080_0003$$$::Não há sinal do seu comportamento calmo de agora pouco.[lr]::
 29006::$$$message_0236_0080_0004$$$::Em contraste com o Lancer, cheio de intenção assassina, o Archer permanece em silêncio.::
 29007::$$$message_0236_0081_0000$$$::A distância entre eles é em torno de cinco metros.[lr]::
@@ -255,9 +255,9 @@ id=qid::label=str::text=lstr::
 29009::$$$message_0236_0081_0002$$$::Para o homem que parece uma besta, sinto que a diferença de três metros não significam nada.::
 29010::$$$message_0236_0082_0000$$$::"Huh. Você não parece ser do tipo que luta de frente. Então deve ser o Archer."[lr]::
 29011::$$$message_0236_0082_0001$$$::O Archer não responde ao escárnio do Lancer.[lr]::
-29012::$$$message_0236_0082_0002$$$::Estranhamente, vermelho e azul estão se confrontando.[lr]::
+29012::$$$message_0236_0082_0002$$$::Um estranho confronto entre vermelho e azul acontece.[lr]::
 29013::$$$message_0236_0082_0003$$$::Os cavaleiros de cores opostas estão se observando, aguardando pelo primeiro movimento.::
-29014::$$$message_0236_0083_0000$$$::"Muito bem. Não gosto disso, mas teremos de lutar já que nos encontramos. Vamos, saque o seu arco, Archer.[lr]::
+29014::$$$message_0236_0083_0000$$$::"Muito bem. Não gosto disso, mas teremos que lutar já que nos encontramos. Vamos, saque o seu arco, Archer.[lr]::
 29015::$$$message_0236_0083_0001$$$:: Serei educado e esperarei até lá."[lr]::
 29016::$$$message_0236_0083_0002$$$::"..."[lr]::
 29017::$$$message_0236_0083_0003$$$::Ele não responde.[lr]::
@@ -285,7 +285,7 @@ id=qid::label=str::text=lstr::
 29039::$$$message_0236_0088_0003$$$::Ele nem sequer permitiu que Archer invadisse seu território, mantendo-o nos dois metros de alcance da lança.[lr]::
 29040::$$$message_0236_0088_0004$$$::Para armas de longo alcance, é sempre preferível manter a distância.[lr]::
 29041::$$$message_0236_0088_0005$$$::Como a arma do Lancer tem em torno de dois metros de comprimento, ele só precisa atacar quando o inimigo entra em seu alcance.[lr]::
-29042::$$$message_0236_0088_0006$$$::Atacar um inimigo que está se aproximando é mais fácil do que se mover para fazê-lo.::
+29042::$$$message_0236_0088_0006$$$::Atacar um inimigo que está se aproximando é mais fácil do que se mover para golpear.::
 29043::$$$message_0236_0089_0000$$$::Mas mesmo assim...[lr]::
 29044::$$$message_0236_0089_0001$$$::O Lancer se aproxima por conta própria e não permite que o Archer dê um passo sequer.::
 29045::$$$message_0236_0090_0000$$$::"Que idiotice, um mero arqueiro desafiando um lanceiro à curta distância[line4]!"[lr]::
@@ -330,13 +330,13 @@ id=qid::label=str::text=lstr::
 29084::$$$message_0236_0102_0000$$$::Quem no mundo seria capaz de bloquear ataques contínuos tão rápidos que te impossibilitam de respirar?[lr]::
 29085::$$$message_0236_0102_0001$$$::O Archer consegue recuar um pouco enquanto bloqueia os golpes. Como resultado, a distância entre eles aumenta.[lr]::
 29086::$$$message_0236_0102_0002$$$::E nessa distância que se abriu...[lr]::
-29087::$$$message_0236_0102_0003$$$::...o Lancer aproveita-se para pegar impulso e desferir um ataque ainda mais poderoso.::
-29088::$$$message_0236_0103_0000$$$::A chuva de golpes seguidamente é apenas uma repetição de agora pouco.[lr]::
-29089::$$$message_0236_0103_0001$$$::Mas agoara, cada um deles contém um poder destrutivo divino.[lr]::
+29087::$$$message_0236_0102_0003$$$::...O Lancer aproveita para pegar impulso e desferir um ataque ainda mais poderoso.::
+29088::$$$message_0236_0103_0000$$$::A chuva de golpes seguidos é apenas uma repetição de agora pouco.[lr]::
+29089::$$$message_0236_0103_0001$$$::Mas agora, cada um deles contém um poder destrutivo divino.[lr]::
 29090::$$$message_0236_0103_0002$$$::Ele já deu dez golpes.[lr]::
 29091::$$$message_0236_0103_0003$$$::Não, deve ter sido muito mais do que isso.[lr]::
 29092::$$$message_0236_0103_0004$$$::A incessante chuva de lanças fica ainda mais forte, cada gota dela tentando empalar o Archer.::
-29093::$$$message_0236_0104_0000$$$::...aquilo não é velocidade, e sim habilidade.[lr]::
+29093::$$$message_0236_0104_0000$$$::...Aquilo não é só velocidade, e sim habilidade.[lr]::
 29094::$$$message_0236_0104_0001$$$::As estocadas são como uma cachoeira, sua velocidade é constante.[lr]::
 29095::$$$message_0236_0104_0002$$$::O que o Archer poderia fazer agora que foi forçado a ficar defensivo?[lr]::
 29096::$$$message_0236_0104_0003$$$::Com uma espada tão curta, bloquear a lança é tudo que ele pode fazer.[lr]::
@@ -348,19 +348,19 @@ id=qid::label=str::text=lstr::
 29102::$$$message_0236_0105_0004$$$::Acabarei acertando o Archer também se ele não se distanciar do Lancer.[lr]::
 29103::$$$message_0236_0105_0005$$$::Algo assim daria apenas ainda mais oportunidade para o Lancer.::
 29104::$$$message_0236_0106_0000$$$::E também, francamente...[lr]::
-29105::$$$message_0236_0106_0001$$$::...estou cativada por esta luta.[lr]::
+29105::$$$message_0236_0106_0001$$$::...Estou cativada por esta luta.[lr]::
 29106::$$$message_0236_0106_0002$$$::Esta é uma batalha entre Servos.[lr]::
-29107::$$$message_0236_0106_0003$$$::Essa é a Guerra do Santo Graal, onde usamos Espíritos Heroicos - o nível mais alto de familiares, seres que jamais obteríamos de outro modo.::
+29107::$$$message_0236_0106_0003$$$::Essa é a Guerra do Santo Graal, onde usamos Espíritos Heroicos ー o nível mais alto de Familiares, seres que jamais obteríamos de outro modo.::
 29108::$$$message_0236_0107_0000$$$::Servos.[lr]::
 29109::$$$message_0236_0107_0001$$$::Familiares de diferentes classes que obedecem aos sete Mestres.[lr]::
-29110::$$$message_0236_0107_0002$$$::Também chamados de Espíritos Heroicos. Esses são os familiares que o Santo Graal invoca.::
-29111::$$$message_0236_0108_0000$$$:: [line3]Na verdade, chamá-los de "familiares" seria incorreto.[lr]::
-29112::$$$message_0236_0108_0001$$$::Originalmente, familiares eram apenas seres que realizavam tarefas para os magos.[lr]::
+29110::$$$message_0236_0107_0002$$$::Também chamados de Espíritos Heroicos. Esses são os Familiares que o Santo Graal invoca.::
+29111::$$$message_0236_0108_0000$$$:: [line3]Na verdade, chamá-los de "Familiares" seria incorreto.[lr]::
+29112::$$$message_0236_0108_0001$$$::Originalmente, Familiares eram apenas seres que realizavam tarefas para os magos.[lr]::
 29113::$$$message_0236_0108_0002$$$::Imagine, por exemplo, um gato de botas.[lr]::
 29114::$$$message_0236_0108_0003$$$::Ou um pássaro branco fofinho.[lr]::
 29115::$$$message_0236_0108_0004$$$::Ou um cachorro preto desobediente, ou qualquer coisa parecida.::
 29116::$$$message_0236_0109_0000$$$::Familiares que um mero mago é capaz de invocar são desse nível.[lr]::
-29117::$$$message_0236_0109_0001$$$::Familiares são apenas familiares.[lr]::
+29117::$$$message_0236_0109_0001$$$::Familiares são apenas Familiares.[lr]::
 29118::$$$message_0236_0109_0002$$$::Eles são apenas mascotes que trabalham para quem os invocou, portanto não podem ser mais fortes que seus mestres.[lr]::
 29119::$$$message_0236_0109_0003$$$::Mas Servos são diferentes.[lr]::
 29120::$$$message_0236_0109_0004$$$::Eles são os seres mais poderosos que existem.[lr]::
@@ -385,7 +385,7 @@ id=qid::label=str::text=lstr::
 29139::$$$message_0236_0114_0003$$$::Magos geralmente apenas pegam seus poderes emprestados por um tempo.[lr]::
 29140::$$$message_0236_0114_0004$$$::Sozinhos eles não são capazes de invocar os Espíritos Heroicos.::
 29141::$$$message_0236_0115_0000$$$::Mas o Santo Graal tornou o impossível em realidade.[lr]::
-29142::$$$message_0236_0115_0001$$$::Ele invoca os Espíritos Heroicos, seres além do controle humano, e transforma-os em familiares obedientes a seus Mestres.[lr]::
+29142::$$$message_0236_0115_0001$$$::Ele invoca os Espíritos Heroicos, seres além do controle humano, e transforma-os em Familiares obedientes a seus Mestres.[lr]::
 29143::$$$message_0236_0115_0002$$$::Esse absurdo é prova de que o Santo Graal é onipotente.::
 29144::$$$message_0236_0116_0000$$$::E ignorando a passagem do tempo, os Espíritos Heroicos são invocados. Alguns de algumas centenas de anos atrás, outros até da Era dos Deuses.[lr]::
 29145::$$$message_0236_0116_0001$$$::Os sete Espíritos Heroicos obedecem aos sete Mestres, os protegem, e eliminam o Mestre do inimigo.[lr]::
@@ -397,7 +397,7 @@ id=qid::label=str::text=lstr::
 29151::$$$message_0236_0117_0003$$$::os Espíritos Heroicos também precisam de uma forma para viverem nesse mundo.::
 29152::$$$message_0236_0118_0000$$$::Essa forma age como um nome temporário, ao mesmo tempo que os permitem existirem aqui.[lr]::
 29153::$$$message_0236_0118_0001$$$::O Santo Graal forneceu "classes" para que os Espíritos Heroicos pudessem tomar forma mais facilmente, invocando apenas aqueles que têm compatibilidade com alguma delas.[lr]::
-29154::$$$message_0236_0118_0002$$$::É como um passaporte para o presente, estabelecendo uma função pré-definida para o familiar. Desta forma, o espírito consegue cruzar mais facilmente a fronteira entre o físico e o espiritual.::
+29154::$$$message_0236_0118_0002$$$::É como um passaporte para o presente, estabelecendo uma função pré-definida para o Familiar. Desta forma, o espírito consegue cruzar mais facilmente a fronteira entre o físico e o espiritual.::
 29155::$$$message_0236_0119_0000$$$::Se existem sete Mestres escolhidos pelo Santo Graal, também existem sete Servos obedecendo a esses Mestres.::
 29156::$$$message_0236_0120_0000$$$::Existem sete classes.[lr]::
 29157::$$$message_0236_0120_0001$$$::O cavaleiro da espada, Saber.[lr]::
@@ -427,12 +427,12 @@ id=qid::label=str::text=lstr::
 29181::$$$message_0236_0124_0004$$$::Os olhares do Lancer em sua postura firme,[lr]::
 29182::$$$message_0236_0124_0005$$$::e do Archer desarmado, se encontram.::
 29183::$$$message_0236_0125_0000$$$::Naquele instante...[lr]::
-29184::$$$message_0236_0125_0001$$$::...a estocada da lança se torna como um flash de luz.[lr]::
+29184::$$$message_0236_0125_0001$$$::...A estocada da lança se torna como um flash de luz.[lr]::
 29185::$$$message_0236_0125_0002$$$::É impossível vê-la.[lr]::
 29186::$$$message_0236_0125_0003$$$::Testa, pescoço, e coração.[lr]::
 29187::$$$message_0236_0125_0004$$$::Três tiros são disparados, cada um deles é um golpe fatal[line3]!::
 29188::$$$message_0236_0126_0000$$$::Porém...[lr]::
-29189::$$$message_0236_0126_0001$$$::...o flash de luz, rápido demais para ser acompanhado, é repelido por uma lâmina brilhante...!::
+29189::$$$message_0236_0126_0001$$$::...O flash de luz, rápido demais para ser acompanhado, é repelido por uma lâmina brilhante...!::
 29190::$$$message_0236_0127_0000$$$::"[line4]!?"[lr]::
 29191::$$$message_0236_0127_0001$$$::A espada está novamente nas mãos do Archer.[lr]::
 29192::$$$message_0236_0127_0002$$$::Uma espada idêntica a de antes. Uma espada chinesa, similar a um machete.[lr]::
@@ -471,7 +471,7 @@ id=qid::label=str::text=lstr::
 29225::$$$message_0236_0136_0002$$$::Suas armas são preenchidas de energia mágica, não são coisas que podem ser criadas infinitamente como o Archer estava fazendo.::
 29226::$$$message_0236_0137_0000$$$::Servos são heróis cujos espíritos foram elevados após suas mortes, igualando-se aos Elementais ou Espíritos Divinos.[lr]::
 29227::$$$message_0236_0137_0001$$$::Em outras palavras, eles são como anjos ou demônios.[lr]::
-29228::$$$message_0236_0137_0002$$$::Eles por si são apenas familiares poderosos, mas suas armas mais poderosas são as suas "provas de heroísmo", um item mágico chamado de "Fantasma Nobre".::
+29228::$$$message_0236_0137_0002$$$::Eles por si são apenas Familiares poderosos, mas suas armas mais poderosas são as suas "provas de heroísmo", um item mágico chamado de "Fantasma Nobre".::
 29229::$$$message_0236_0138_0000$$$::Um Fantasma Nobre é uma arma ou armadura que o Servo usou em vida, sendo considerada como um último recurso.[lr]::
 29230::$$$message_0236_0138_0001$$$::O Fantasma Nobre é a única arma para um Servo.[lr]::
 29231::$$$message_0236_0138_0002$$$::Isso porque elas são armas supremas sem igual.::
@@ -497,7 +497,7 @@ id=qid::label=str::text=lstr::
 29251::$$$message_0236_0144_0003$$$:: Não existem sequer três lanceiros do seu calibre neste mundo. E além disso, só existe um com uma agilidade tão bestial."::
 29252::$$$message_0236_0145_0000$$$::"[line3]Ah. Sinto-me lisonjeado, Archer."[lr]::
 29253::$$$message_0236_0145_0001$$$::Naquele instante...[lr]::
-29254::$$$message_0236_0145_0002$$$::...sua intenção assassina foi tão assustadora que eu me esqueci de respirar.::
+29254::$$$message_0236_0145_0002$$$::...Sua intenção assassina foi tão assustadora que eu me esqueci de respirar.::
 29255::$$$message_0236_0146_0000$$$::O braço do Lancer se move.[lr]::
 29256::$$$message_0236_0146_0001$$$::Ele não está mais como antes. Sua postura agora é livre de desonra.[lr]::
 29257::$$$message_0236_0146_0002$$$::A ponta da lança está abaixada, como se estivesse mirando para o chão, e seu olhar fixa-se no Archer.[lr]::
@@ -505,7 +505,7 @@ id=qid::label=str::text=lstr::
 29259::$$$message_0236_0146_0004$$$::"Não lhe impedirei. Você é um inimigo que terei de derrotar mais cedo ou mais tarde."::
 29260::$$$message_0236_0147_0000$$$::O corpo do Lancer se abaixa.[lr]::
 29261::$$$message_0236_0147_0001$$$::E ao mesmo tempo...[lr]::
-29262::$$$message_0236_0147_0002$$$::...um calafrio invade o pátio, como se houvessem espinhos em todo lugar.::
+29262::$$$message_0236_0147_0002$$$::...Um calafrio invade o pátio, como se houvessem espinhos em todo lugar.::
 29263::$$$message_0236_0148_0000$$$::O ar congela...[lr]::
 29264::$$$message_0236_0148_0001$$$::Não metaforicamente, ele literalmente congela.[lr]::
 29265::$$$message_0236_0148_0002$$$::Toda a mana no ar é congelada.[lr]::
@@ -527,7 +527,7 @@ id=qid::label=str::text=lstr::
 29281::$$$message_0236_0152_0002$$$::Se eu mover um dedo sequer, acabarei desencadeando o ataque.::
 29282::$$$message_0236_0153_0000$$$::Neste caso, se há algo que pode parar esta derrota, seria...[lr]::
 29283::$$$message_0236_0153_0001$$$::"[line6]Quem está aí!?"[lr]::
-29284::$$$message_0236_0153_0002$$$::...a aparição de outra pessoa, que nenhum de nós percebeu estar aqui até então.::
+29284::$$$message_0236_0153_0002$$$::...A aparição de outra pessoa, que nenhum de nós percebeu estar aqui até então.::
 29285::$$$message_0236_0154_0000$$$::"Hã?"[lr]::
 29286::$$$message_0236_0154_0001$$$::O ar sinistro que vinha do Lancer desaparece.[lr]::
 29287::$$$message_0236_0154_0002$$$::Eu ouço o som de passos se distanciando.[lr]::
@@ -536,13 +536,13 @@ id=qid::label=str::text=lstr::
 29290::$$$message_0236_0155_0001$$$::"É o que parece. E bom, nós fomos salvos por ele."[lr]::
 29291::$$$message_0236_0155_0002$$$::O Archer diz isso calmamente.[lr]::
 29292::$$$message_0236_0155_0003$$$::Bom, nós certamente fomos salvos por ele, mas...::
-29293::$$$message_0236_0156_0000$$$::"Que erro... Acabei não percebendo meus arredores por causa do Lancer... ei, Archer, o que pensa que está fazendo?"[lr]::
+29293::$$$message_0236_0156_0000$$$::"Que erro... Acabei não percebendo meus arredores por causa do Lancer... Ei, Archer, o que pensa que está fazendo?"[lr]::
 29294::$$$message_0236_0156_0001$$$::"Não é óbvio? Estou descansando agora que estou livre."[lr]::
 29295::$$$message_0236_0156_0002$$$::"Não me vem com essa. E quanto ao Lancer?"[lr]::
 29296::$$$message_0236_0156_0003$$$::"Ele foi atrás daquele cara. Já que ele nos viu, o Lancer provavelmente foi eliminá-lo."[lr]::
 29297::$$$message_0236_0156_0004$$$::"..."[lr]::
 29298::$$$message_0236_0156_0005$$$::Por um instante...[lr]::
-29299::$$$message_0236_0156_0006$$$::...meus pensamentos congelam.::
+29299::$$$message_0236_0156_0006$$$::...Meus pensamentos congelam.::
 29300::$$$message_0236_0157_0000$$$::"Siga ele, Archer! Eu te alcanço o mais rápido que conseguir...!"[lr]::
 29301::$$$message_0236_0157_0001$$$::"..."[lr]::
 29302::$$$message_0236_0157_0002$$$::O Archer imediatamente vai atrás do Lancer.::
@@ -551,7 +551,7 @@ id=qid::label=str::text=lstr::
 29305::$$$message_0236_0158_0002$$$::É uma regra dos magos eliminar qualquer testemunha.[lr]::
 29306::$$$message_0236_0158_0003$$$::Se você não quer ter que fazer isso, simplesmente tenha certeza de não ser visto. Eu tenho feito isso até agora, então por que eu tive que cometer esse erro justo hoje...?!"[lr]::
 29307::$$$message_0236_0159_0000$$$::Nesta noite onde até mesmo o luar está obscurecido...[lr]::
-29308::$$$message_0236_0159_0001$$$::...um estudante está deitado no chão frio do corredor, e o Archer está de pé logo a seu lado.::
+29308::$$$message_0236_0159_0001$$$::...Um estudante está deitado no chão frio do corredor, e o Archer está de pé logo a seu lado.::
 29309::$$$message_0236_0160_0000$$$::"..."[lr]::
 29310::$$$message_0236_0160_0001$$$::Ele está encarando o estudante em silêncio.[lr]::
 29311::$$$message_0236_0160_0002$$$::Um aroma invade as minhas narinas.[lr]::
@@ -589,7 +589,7 @@ id=qid::label=str::text=lstr::
 29343::$$$message_0236_0167_0005$$$::Já tive que fazer este tipo de escolha muitas vezes no passado.::
 29344::$$$message_0236_0168_0000$$$::Eu já perdi muitas coisas por culpa dos meus erros e do meu egoísmo.[lr]::
 29345::$$$message_0236_0168_0001$$$::Então... estou preparada para um dia como esse.[lr]::
-29346::$$$message_0236_0168_0002$$$::Então por quê... por que estou tão brava comigo mesma?::
+29346::$$$message_0236_0168_0002$$$::Então por quê? Por que estou tão brava comigo mesma?::
 29347::$$$message_0236_0169_0000$$$::"Me desculpe... Vou pelo menos ficar ao seu lado até chegar a hora."[lr]::
 29348::$$$message_0236_0169_0001$$$::Eu forço meus dedos e meus joelhos a se firmarem com a minha força de vontade, e olho para o rosto do estudante.[lr]::
 29349::$$$message_0236_0169_0002$$$::...[lr]::
@@ -625,7 +625,7 @@ id=qid::label=str::text=lstr::
 29379::$$$message_0236_0174_0002$$$::Um poderoso objeto cheio de energia mágica, um excelente último recurso para vencer esta batalha.[lr]::
 29380::$$$message_0236_0174_0003$$$::Uma coisa muito, muito preciosa deixada apenas para mim.::
 29381::$$$message_0236_0175_0000$$$::"[line3]E daí, sua idiota?"[lr]::
-29382::$$$message_0236_0175_0001$$$::Eu me determino a ir até o fim e me ajoelho em frente àquele que será um corpo morto em alguns segundos.::
+29382::$$$message_0236_0175_0001$$$::Me determino a ir até o fim e me ajoelho em frente àquele que será um corpo morto em alguns segundos.::
 29383::$$$message_0236_0176_0000$$$::"Eu realmente fiz isso..."[lr]::
 29384::$$$message_0236_0176_0001$$$::O pingente em minha mão se torna mais leve.[lr]::
 29385::$$$message_0236_0176_0002$$$::O memento do meu pai é drenado quase que completamente,[lr]::
@@ -636,7 +636,7 @@ id=qid::label=str::text=lstr::
 29390::$$$message_0236_0177_0003$$$::Por isso eu tive que usar este poderoso objeto para suprir a minha falta de habilidade.::
 29391::$$$message_0236_0178_0000$$$::"Por sorte ele ainda estava respirando. Se estivesse morto, quantidade alguma de energia mágica teria trazido-o de volta."[lr]::
 29392::$$$message_0236_0178_0001$$$::Mas como estava vivo...[lr]::
-29393::$$$message_0236_0178_0002$$$::...eu simplesmente fiz o que pude e acabei salvando a sua vida.::
+29393::$$$message_0236_0178_0002$$$::...Eu simplesmente fiz o que pude e acabei salvando a sua vida.::
 29394::$$$message_0236_0179_0000$$$::"Teria sido horrível se eu tivesse falhado, mas já que tive sucesso, acho que está tudo bem. É, me sinto realizada sendo honesta, talvez não tenha sido uma experiência tão ruim assim..."[lr]::
 29395::$$$message_0236_0179_0001$$$::Estou apenas me iludindo.::
 29396::$$$message_0236_0180_0000$$$::"Vamos indo. O que está feito está feito. Eu tenho que ir embora antes que ele acorde."[lr]::
@@ -718,7 +718,7 @@ id=qid::label=str::text=lstr::
 29372::$$$message_0236_0206_0000$$$::"Entendo... Então o seu pai também era um Mestre."[lr]::
 29373::$$$message_0236_0206_0001$$$::Ele assente, compreendendo os meus motivos.[lr]::
 29374::$$$message_0236_0206_0002$$$::[line3]E então...[lr]::
-29375::$$$message_0236_0206_0003$$$::...ele faz uma cara de preocupado e começa a pensar sobre algo.::
+29375::$$$message_0236_0206_0003$$$::...Ele faz uma cara de preocupado e começa a pensar sobre algo.::
 29376::$$$message_0236_0207_0000$$$::"O que foi? Tem algo que queira dizer?"[lr]::
 29377::$$$message_0236_0207_0001$$$::"Sim, tem algo que esqueci de te perguntar.[lr]::
 29378::$$$message_0236_0207_0002$$$:: Rin, você foi criada desde pequena para ser uma Mestra e você aceitou isso, não é mesmo? Sendo assim, você já esperava ser uma Mestra desde o princípio."::
@@ -746,7 +746,7 @@ id=qid::label=str::text=lstr::
 29400::$$$message_0236_0215_0000$$$::"Ridículo. O Santo Graal possui o poder de garantir desejos, o poder para conquistar o mundo. Você está dizendo que está lutando por ele, mas ainda assim não possui um desejo?"[lr]::
 29401::$$$message_0236_0215_0001$$$::"Mas conquistar o mundo seria uma dor de cabeça, e desejar uma coisa dessas parece uma idiotice. Você parece não ter muita imaginação."[lr]::
 29402::$$$message_0236_0215_0002$$$::"Eu não entendo... Então pelo que você luta?"::
-29403::$$$message_0236_0216_0000$$$::"Luto porque há uma batalha para ser lutada, Archer. E ainda pegarei tudo que eu conseguir pegar. Não sei sobre essa coisa do Santo Graal, mas eu posso simplesmente usá-lo quando encontrar algo que quiser, não? Os desesjos dos humanos são inacabáveis enquanto estiverem vivo."[lr]::
+29403::$$$message_0236_0216_0000$$$::"Luto porque há uma batalha para ser lutada, Archer. E ainda pegarei tudo que eu conseguir pegar. Não sei sobre essa coisa do Santo Graal, mas eu posso simplesmente usá-lo quando encontrar algo que quiser, não? Os desejos dos humanos são inacabáveis enquanto estiverem vivos."[lr]::
 29404::$$$message_0236_0216_0001$$$::"[line3]Então, isso quer dizer que você..."[lr]::
 29405::$$$message_0236_0216_0002$$$::"Sim. Eu estou lutando para vencer, Archer."::
 29406::$$$message_0236_0217_0000$$$::[font italic=true]...[font italic=false][lr]::
@@ -772,7 +772,7 @@ id=qid::label=str::text=lstr::
 29426::$$$message_0236_0222_0003$$$::Dizendo isso,[lr]::
 29427::$$$message_0236_0222_0004$$$::ele me oferece o pingente que deixei na escola.::
 29428::$$$message_0236_0223_0000$$$::"Ah... Você voltou para buscá-lo pra mim."[lr]::
-29429::$$$message_0236_0223_0001$$$::"Não se esqueça dele de novo... Ele combina com você, Rin."[lr]::
+29429::$$$message_0236_0223_0001$$$::"Não se esqueça dele de novo... ele combina com você, Rin."[lr]::
 29430::$$$message_0236_0223_0002$$$::Como se estivesse envergonhado, ele vira seu rosto para o lado ao me entregar o pingente.::
 29431::$$$message_0236_0224_0000$$$::"[line3]Sei... Bom, obrigada."[lr]::
 29432::$$$message_0236_0224_0001$$$::Eu o aceito.[lr]::
@@ -820,7 +820,7 @@ id=qid::label=str::text=lstr::
 29474::$$$message_0236_0236_0003$$$::O Lancer já está dentro da casa e está prestes a matar a mesma pessoa, que acabou de chegar em casa sem entender o que aconteceu, uma segunda vez.::
 29475::$$$message_0236_0237_0000$$$::"Eu vou ter que pular lá dentro e acabar com ele... Eu me preocupo com os detalhes quando estiver lá[line3]!"[lr]::
 29476::$$$message_0236_0237_0001$$$::E quando eu estou prestes a mandar o Archer entrar na casa...[lr]::
-29477::$$$message_0236_0237_0002$$$::...uma luz branca brilhante,[lr]::
+29477::$$$message_0236_0237_0002$$$::...Uma luz branca brilhante,[lr]::
 29478::$$$message_0236_0237_0003$$$::ofuscante como uma supernova, emana de dentro da casa.::
 29479::$$$message_0236_0238_0000$$$::"..."[lr]::
 29480::$$$message_0236_0238_0001$$$::A presença do inimigo é eclipsada por uma outra presença.[lr]::
@@ -831,7 +831,7 @@ id=qid::label=str::text=lstr::
 29485::$$$message_0236_0239_0001$$$::Tudo que consigo fazer é murmurar.[lr]::
 29486::$$$message_0236_0239_0002$$$::Mas é a verdade.[lr]::
 29487::$$$message_0236_0239_0003$$$::Como prova disso, o Lancer pula sobre o muro e salta para longe, como se estivesse fugindo deste lugar.::
-29488::$$$message_0236_0240_0000$$$::"Ei... Archer... Isto é mais um daqueles seus cenários hipotéticos?"[lr]::
+29488::$$$message_0236_0240_0000$$$::"Ei... Archer... isto é mais um daqueles seus cenários hipotéticos?"[lr]::
 29489::$$$message_0236_0240_0001$$$::"Vai saber. Mas com isso temos sete. Todos os Mestres foram escolhidos, Rin."[lr]::
 29490::$$$message_0236_0240_0002$$$::O Archer responde calmamente.[lr]::
 29491::$$$message_0236_0240_0003$$$::Eu não consigo mais pensar normalmente.[lr]::

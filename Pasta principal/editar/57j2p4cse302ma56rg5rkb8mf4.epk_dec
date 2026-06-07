@@ -2,13 +2,13 @@ DAT
 id=qid::label=str::text=lstr::
 6992::$$$message_0065_0000_0000$$$::"[line2]!"[lr]::
 6993::$$$message_0065_0000_0001$$$::Eu recuo por instinto.[lr]::
-6994::$$$message_0065_0000_0002$$$::Agora é péssimo.[lr]::
-6995::$$$message_0065_0000_0003$$$::Primeiro preciso me recompor. Depois, fazer Shinji desfazer o Campo Limitado[line2]::
+6994::$$$message_0065_0000_0002$$$::Isso é péssimo.[lr]::
+6995::$$$message_0065_0000_0003$$$::Primeiro preciso me recompor e depois fazer Shinji desfazer o Campo Limitado[line2]::
 6996::$$$message_0065_0001_0000$$$::"Gah...!?"[lr]::
 6997::$$$message_0065_0001_0001$$$::Sem nem entender o que aconteceu, eu só recuo em desespero.::
 6998::$$$message_0065_0002_0000$$$::"Ha, ah, ah...!"[lr]::
 6999::$$$message_0065_0002_0001$$$::O medo tinge de branco tudo à minha frente.[lr]::
-7000::$$$message_0065_0002_0002$$$::Pra falar a verdaade, nem sei do que estou com tanto medo.[lr]::
+7000::$$$message_0065_0002_0002$$$::Pra falar a verdade, nem sei do que estou com tanto medo.[lr]::
 7001::$$$message_0065_0002_0003$$$::Ainda assim, sem pensar, ergo o braço e protejo ao menos o pescoço.::
 7002::$$$message_0065_0003_0000$$$::"Zu...!"[lr]::
 7003::$$$message_0065_0003_0001$$$::Uma lâmina crava no meu braço.[lr]::
@@ -19,7 +19,7 @@ id=qid::label=str::text=lstr::
 7008::$$$message_0065_0004_0003$$$::Só me preocupo em cobrir os pontos vitais e continuar recuando em desespero.::
 7009::$$$message_0065_0005_0000$$$::"Hih[line2]gih...!!!!!"[lr]::
 7010::$$$message_0065_0005_0001$$$::O barulho da minha carne sendo cortada se espalha por todo o corredor.[lr]::
-7011::$$$message_0065_0005_0002$$$::O objeto afiado está fatiando o meu corpo em pedaços.[lr]::
+7011::$$$message_0065_0005_0002$$$::Aquele objeto afiado está fatiando o meu corpo em pedaços.[lr]::
 7012::$$$message_0065_0005_0003$$$::A névoa de sangue que jorra de mim fecha a minha visão.[lr]::
 7013::$$$message_0065_0005_0004$$$::E, em meio a isso.[lr]::
 7014::$$$message_0065_0005_0005$$$::...Está a Rider, me perseguindo numa velocidade impossível de acompanhar com os olhos.::
@@ -40,7 +40,7 @@ id=qid::label=str::text=lstr::
 7029::$$$message_0065_0010_0000$$$::"Guh[line2]ah[line2]!"[lr]::
 7030::$$$message_0065_0010_0001$$$::Por isso ela tinha me avisado.[lr]::
 7031::$$$message_0065_0010_0002$$$::Para não enfrentar um Servo. Que, no meu caso, nem combate seria.[lr]::
-7032::$$$message_0065_0010_0003$$$::Eu ouvi isso, e mesmo assim cheguei a esse ponto. Mas por quê[line2]Não, espera, o que eu estou fazendo? Eu preciso pegar Shinji o quanto antes e obrigá-lo a desfazer esse maldito Campo Limitado... então por que é que eu estou fugindo[line2]!?::
+7032::$$$message_0065_0010_0003$$$::Eu ouvi isso, e mesmo assim cheguei a esse ponto. Mas por quê[line2]Não, espera, o que eu estou fazendo? Eu preciso pegar Shinji o quanto antes e obrigar ele a desfazer esse maldito Campo Limitado... então por que é que eu estou fugindo[line2]!?::
 7033::$$$message_0065_0011_0000$$$::"O que está fazendo, Rider?[lr]::
 7034::$$$message_0065_0011_0001$$$::Já chega. Pare de brincar e mate esse cara logo. Ele não vai conseguir fazer nada mesmo."[lr]::
 7035::$$$message_0065_0011_0002$$$::O Shinji diz isso cheio de confiança.[lr]::
@@ -93,5 +93,5 @@ id=qid::label=str::text=lstr::
 7082::$$$message_0065_0022_0001$$$::Se eu ia mesmo seguir sem lutar com ninguém, sem matar ninguém, sem deixar ninguém matar...[lr]::
 7083::$$$message_0065_0022_0002$$$::...então, no momento em que percebesse meu erro, eu teria de decidir primeiro o que corrigir, e depois quem punir.::
 7084::$$$message_0065_0023_0000$$$::E então.[lr]::
-7085::$$$message_0065_0023_0001$$$::No meu braço estendido[line2]como se tentasse agarrar o céu[line2]ainda há um Selo de Comando, à espera da ordem que precisa ser dada[line2][lr]::
+7085::$$$message_0065_0023_0001$$$::No meu braço estendido, como se tentasse agarrar o céu, ainda há um Selo de Comando, à espera da ordem que precisa ser dada[line2][lr]::
 

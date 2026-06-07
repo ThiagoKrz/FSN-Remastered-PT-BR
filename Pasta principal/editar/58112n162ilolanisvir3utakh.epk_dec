@@ -37,8 +37,8 @@ id=qid::label=str::text=lstr::
 17693::$$$message_0165_0010_0002$$$::Não havia nenhum motivo para questionar a sua aparência e nem o tamanho do seu corpo.::
 17694::$$$message_0165_0011_0000$$$::O rei atingiu todas essas expectativas.[lr]::
 17695::$$$message_0165_0011_0001$$$::Por isso[line2]ninguém se perguntou quem ele era de verdade.[lr]::
-17696::$$$message_0165_0011_0002$$$::Não interessa se o rei é uma criança ou uma mulher.[lr]::
-17697::$$$message_0165_0011_0003$$$::Bastava que aquilo cumprisse o papel de "rei" e protegesse o país.::
+17796::$$$message_0165_0051_0000$$$::"Hm... mas vou continuar treinando. Ainda sou meio inexperiente, e você mostra o que realmente pensa quando empunha a espada, Saber. Assim, fica mais fácil conversar."[lr]::
+17797::$$$message_0165_0051_0001$$$::Bom... quando digo "mais fácil", quero dizer que eu até gosto disso.[lr]::
 17698::$$$message_0165_0012_0000$$$::O novo rei era justo e imparcial, e no campo de batalha sempre se colocava na linha de frente para esmagar o inimigo[lr]::
 17699::$$$message_0165_0012_0001$$$::Muitas pessoas inocentes morreram, mas as escolhas do rei sempre eram corretas, fazendo com que ela servisse como "rei" melhor do que qualquer um.[lr]::
 17700::$$$message_0165_0012_0002$$$::Muitos inimigos e muitos súditos morreram, mas as escolhas do rei eram sempre corretas, e ninguém desempenhava melhor o papel de "rei" do que ela.::
@@ -99,8 +99,8 @@ id=qid::label=str::text=lstr::
 17755::$$$message_0165_0033_0004$$$::Se eu estivesse sentindo aquela dor até agora, acho que a minha cabeça teria quebrado em pedaços antes do meu corpo.::
 17756::$$$message_0165_0034_0000$$$::[line2]Espera.[lr]::
 17757::$$$message_0165_0034_0001$$$::"Hã[line2]?"[lr]::
-17758::$$$message_0165_0034_0002$$$::A Saber está sentada sentada em seiza ao lado do colchão.::
-17759::$$$message_0165_0035_0000$$$::"... Sa... ber...? Por que você está com uma cara triste? Aconteceu alguma coisa enquanto eu estava dormindo?"[lr]::
+17758::$$$message_0165_0034_0002$$$::Saber está ajoelhada em seiza ao lado do colchão.::
+17759::$$$message_0165_0035_0000$$$::"...Sa...ber...? Que cara é essa logo de manhã? Aconteceu alguma coisa enquanto eu dormia?"[lr]::
 17760::$$$message_0165_0035_0001$$$::"...Não. Foi só um sonho que eu tive."[lr]::
 17761::$$$message_0165_0035_0002$$$::"...?"::
 17762::$$$message_0165_0036_0000$$$::"...Não, não é nada demais. Vamos tomar o café da manhã, Shirou. Já está quase na hora de levantarmos."[lr]::
@@ -126,22 +126,21 @@ id=qid::label=str::text=lstr::
 17782::$$$message_0165_0044_0000$$$::"[line2]Muito bem. Eu tenho que ficar calmo e ir preparar o café."[lr]::
 17783::$$$message_0165_0044_0001$$$::Respiro fundo e então começo a trocar de roupa.::
 17784::$$$message_0165_0045_0000$$$::"Shirou. Nós somos os únicos que estamos acordados. Não é melhor chamarmos a Rin?"::
-17785::$$$message_0165_0046_0000$$$::"Não, elas precisam descansar, certo? Ontem foi um dia difícil, então nós não precisamos acordá-las. Vamos comer e deixar os pratos em cima da mesa."::
+17785::$$$message_0165_0046_0000$$$::"Não, elas precisam descansar, certo? Ontem foi um dia difícil, então a gente não precisa acordar elas. Vamos só comer e deixar os pratos em cima da mesa."::
 17786::$$$message_0165_0047_0000$$$::"Entendi. Nesse caso, seria bom você começar a preparar logo. Já passou da hora.":::
 17787::$$$message_0165_0047_0001$$$::"Eu sei. Me sinto melhor agora, então vamos para o dojo assim que terminarmos de comer."::
-17788::$$$message_0165_0048_0000$$$::"Hã? Ir para o dojô? Você ainda quer continuar com o treinamento...!?"[lr]::
-17789::$$$message_0165_0048_0001$$$::Com Berserker derrotado, pensei que não haveria mais razão para você continuar treinando como estávamos."::
+17788::$$$message_0165_0048_0000$$$::"Hã...? Ir para o dojô? Você ainda pretende continuar treinando espada comigo...!?"[lr]::
+17789::$$$message_0165_0048_0001$$$::"Por quê? Isso já virou rotina, não virou?"::
 17790::$$$message_0165_0049_0000$$$::"Tem algo errado, Saber? Eu disse alguma coisa estranha?"[lr]::
 17791::$$$message_0165_0049_0001$$$::"Ah, não... Eu apenas imaginei, por conta própria, que você não iria mais treinar.::
 17792::$$$message_0165_0049_0002$$$::Agora que o Berserker foi derrotado, pensei que você não teria mais motivo para se esforçar tanto assim..."::
 17793::$$$message_0165_0050_0000$$$::"Entendi. Pensando bem, pode ser mesmo."[lr]::
 17794::$$$message_0165_0050_0001$$$::O Berserker, que era o inimigo em comum entre mim, a Saber e a Tohsaka, já não está mais aqui.[lr]::
 17795::$$$message_0165_0050_0002$$$::Foi porque estávamos sendo caçados por um inimigo mais forte que nós que começamos a trabalhar juntos e a treinar às pressas::
-17796::$$$message_0165_0051_0000$$$::"Hm... mas eu pretendo continuar treinando. Ainda sou inexperiente, e quando você empunha a espadaa, Saber, acaba mostrando o que realmente pensa. Assim, fica mais fácil conversar com você"[lr]::
-17797::$$$message_0165_0051_0001$$$::Bom... quando digo 'mais fácil', quero dizer que eu até gosto disso.[lr]::
+17796::$$$message_0165_0051_0000$$$::"Hm... mas vou continuar treinando. Ainda sou inexperiente, e você mostra o que realmente pensa quando empunha a espada, Saber. Assim, fica mais fácil conversar."[lr]::17797::$$$message_0165_0051_0001$$$::Bom... quando digo 'mais fácil', quero dizer que eu até gosto disso.[lr]::
 17798::$$$message_0165_0052_0000$$$::"...Entendo. Então no dojô, eu acabo mostrando meus verdadeiros sentimentos?"[lr]::
-17799::$$$message_0165_0053_0000$$$::"Mostra, sim. Pelo menos, você não fica se contendo."::
-17800::$$$message_0165_0053_0001$$$::Eu prefiro assim. Além disso, acho que você também pode relaxar. De qualquer forma, nossa rotina tem sido sparring pela manhã. Não aproveite os poucos prazeres que tenho."::
+17799::$$$message_0165_0053_0000$$$::"Mostra, sim. Pelo menos, você não fica se contendo."[lr]::
+17800::$$$message_0165_0053_0001$$$::Eu prefiro assim. Além disso, acho que você também consegue relaxar um pouco. De qualquer forma, cruzar espadas com você de manhã já virou rotina. Não tira de mim um dos poucos prazeres que eu tenho."::
 17801::$$$message_0165_0054_0000$$$::Tiro da geladeira a carne moída mista, cebolinha, shimeji, cebola e ovos, e sigo para a cozinha.[lr]::
 17802::$$$message_0165_0054_0001$$$::Agora só falta a farinha de rosca, o saquê e o óleo...::
 17803::$$$message_0165_0055_0000$$$::"...Entendo. Nesse caso, não tenho objeções."[lr]::

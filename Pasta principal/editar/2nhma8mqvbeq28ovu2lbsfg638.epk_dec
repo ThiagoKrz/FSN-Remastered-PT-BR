@@ -5,13 +5,13 @@ id=qid::label=str::text=lstr::
 10424::$$$message_0106_0001_0000$$$::"Concordo com a Saber. Não quero ser o agressor, mas depende do oponente.[lr]::
 10425::$$$message_0106_0001_0001$$$::Devemos ir pro Templo Ryuudou agora, pra ver que tipo de Mestre essa pessoa é."::
 10426::$$$message_0106_0002_0000$$$::"Então vamos, Shirou. Estou feliz por você estar tomando iniciativa."[lr]::
-10427::$$$message_0106_0002_0001$$$::"...entendo. Se essa for sua decisão, não tenho nada a dizer. Apenas tenha cuidado."::
+10427::$$$message_0106_0002_0001$$$::"...Tá bom. Se essa for sua decisão, não tenho nada a dizer. Apenas tenha cuidado."::
 10428::$$$message_0106_0003_0000$$$::"Tohsaka?"[lr]::
-10429::$$$message_0106_0003_0001$$$::"Vou descansar, não estou interessado numa luta que não temos chance de vencer. Se você não voltar amanhã, irei coletar seus restos já que estamos cooperando."::
+10429::$$$message_0106_0003_0001$$$::"Vou descansar. Não estou interessada numa luta que não temos chance de vencer. Se você não voltar amanhã, irei coletar seus restos, já que estamos cooperando."::
 10430::$$$message_0106_0004_0000$$$::"Qual é a dela? Falando coisas sinistras assim."[lr]::
 10431::$$$message_0106_0004_0001$$$::"Deve ser o jeito da Rin nos avisar.[lr]::
 10432::$$$message_0106_0004_0002$$$::Haverão defesas contra inimigos de fora no Templo Ryuudou. Teremos que passar pelas armadilhas inimigas e derrotar o Mestre."[lr]::
-10433::$$$message_0106_0004_0003$$$::"...Mm. Bem, é verdade, mas..."::
+10433::$$$message_0106_0004_0003$$$::"...Hm. Sim, isso é verdade, mas..."::
 10434::$$$message_0106_0005_0000$$$::É verdade que não estou entusiasmado em derrotar esse Mestre.[lr]::
 10435::$$$message_0106_0005_0001$$$::Só quero saber quem é o Mestre no Templo Ryuudou e quais são seus motivos.[lr]::
 10436::$$$message_0106_0005_0002$$$::A batalha pode ser evitável, e recuaremos caso as coisas fiquem perigosas.::
@@ -20,90 +20,90 @@ id=qid::label=str::text=lstr::
 10439::$$$message_0106_0007_0000$$$::As nuvens estão se mexendo rápido.[lr]::
 10440::$$$message_0106_0007_0001$$$::Há um vento forte nos céus.::
 10441::$$$message_0106_0008_0000$$$::"Mestre, é quase meia noite."[lr]::
-10442::$$$message_0106_0008_0001$$$::"...sim. A cidade já está adormecida. É uma boa hora para sair."::
+10442::$$$message_0106_0008_0001$$$::"...Sim. A cidade já está adormecida. É uma boa hora para sair."::
 10443::$$$message_0106_0009_0000$$$::Eu concordo, pegando minha bolsa de shinai.[lr]::
 10444::$$$message_0106_0009_0001$$$::Dentro há uma espada de madeira que encontrei no galpão.[lr]::
-10445::$$$message_0106_0009_0002$$$::Não é algo promissor contra um Servo, mas deve aguentar pelo menos um golpe se reforçada corretamente.::
-10446::$$$message_0106_0010_0000$$$::"Saber. Estamos indo para o Templo Ryuudou para observar as coisas.[lr]::
+10445::$$$message_0106_0009_0002$$$::Não é algo promissor contra um Servo, mas deve aguentar pelo menos um golpe com a magia de fortalecimento.::
+10446::$$$message_0106_0010_0000$$$::"Saber. Estamos indo ao Templo Ryuudou para observar as coisas.[lr]::
 10447::$$$message_0106_0010_0001$$$::Será o bastante se descobrirmos que tipo de pessoa o Mestre é e qual classe de Servo ele tem. Não há necessidade de começarmos a luta."::
-10448::$$$message_0106_0011_0000$$$::"...entendo. Mas se o inimigo desejar uma batalha e eu julgar que você está em perigo, isso não será o caso.[lr]::
-10449::$$$message_0106_0011_0001$$$::Enquanto estivermos adentrando em território inimigo, quero que você esteja preparado para a morte de qualquer um dos lados."::
-10450::$$$message_0106_0012_0000$$$::A morte de um dos lados.[lr]::
+10448::$$$message_0106_0011_0000$$$::"...Entendido. Mas se o inimigo desejar uma batalha e eu julgar que você está em perigo, isso não será o caso.[lr]::
+10449::$$$message_0106_0011_0001$$$::Enquanto estivermos adentrando em território inimigo, quero que você esteja preparado para a probabilidade de morte."::
+10450::$$$message_0106_0012_0000$$$::A probabilidade de morte.[lr]::
 10451::$$$message_0106_0012_0001$$$::A balança do destino está dividida entre o Mestre do Templo Ryuudou e nós, os intrusos.[lr]::
 10452::$$$message_0106_0012_0002$$$::A balança está equilibrada agora, mas ela deve virar para um dos lados em algumas horas[line3]::
 10453::$$$message_0106_0013_0000$$$::Vamos ao oeste da intersecção e corremos pela rua vazia.[lr]::
-10454::$$$message_0106_0013_0001$$$::O Templo Ryuudou está na direção oposta da desenvolvida Shinto, no fim do caminho retorcido da montanha.::
+10454::$$$message_0106_0013_0001$$$::O Templo Ryuudou está na direção oposta de Shinto, a cidade mais desenvolvida, no fim do caminho retorcido da montanha.::
 10455::$$$message_0106_0014_0000$$$::"[line5]"[lr]::
 10456::$$$message_0106_0014_0001$$$::Um longo par de escadas.[lr]::
-10457::$$$message_0106_0014_0002$$$::A estrada levando a montanha notavelmente alta na cidade de Fuyuki está submergida em uma escuridão sinistra.::
+10457::$$$message_0106_0014_0002$$$::A estrada levando até a montanha notavelmente alta na cidade de Fuyuki está submergida em uma escuridão sinistra.::
 10458::$$$message_0106_0015_0000$$$::"...Saber.[lr]::
 10459::$$$message_0106_0015_0001$$$::Você consegue sentir a presença do Servo...?"[lr]::
-10460::$$$message_0106_0015_0002$$$::"[line2]Sim. Não posso detecta-lo precisamente, mas certamente posso sentir a presença de um Servo."[lr]::
+10460::$$$message_0106_0015_0002$$$::"[line2]Sim. Não posso detectá-lo precisamente, mas certamente posso sentir a presença de um Servo."[lr]::
 10461::$$$message_0106_0015_0003$$$::Pode ser o efeito de um Campo Limitado no Templo Ryuudou, mas parece que as habilidades de percepção da Saber deterioraram.::
-10462::$$$message_0106_0016_0000$$$::"[line2]Esse vento não é bom. Esse lugar era sinistro na última vez, mas agora está pior. ...Shirou, não deixe meu lado nem por um instante."[lr]::
+10462::$$$message_0106_0016_0000$$$::"[line2]Esse vento não é bom. Shirou, não deixe meu lado nem por um instante."[lr]::
 10463::$$$message_0106_0016_0001$$$::"......"[lr]::
 10464::$$$message_0106_0016_0002$$$::Respondo balançando a cabeça e começo a subir os degraus de pedra.::
 10465::$$$message_0106_0017_0000$$$::O ar está tenso.[lr]::
 10466::$$$message_0106_0017_0001$$$::A floresta submergida na noite escura está tremendo com os sons.[lr]::
 10467::$$$message_0106_0017_0002$$$::"[line3]"[lr]::
 10468::$$$message_0106_0017_0003$$$::Com cada passo, uma premonição ruim se instala nas minhas costas.::
-10469::$$$message_0106_0018_0000$$$::...os portões do templo podem ser vistos agora.[lr]::
+10469::$$$message_0106_0018_0000$$$::...Os portões do templo podem ser vistos agora.[lr]::
 10470::$$$message_0106_0018_0001$$$::Nada aconteceu ainda.[lr]::
 10471::$$$message_0106_0018_0002$$$::Não há sinal do inimigo, e os portões do templo estão abertos, como se estivesse nos convidando.::
 10472::$$$message_0106_0019_0000$$$::"Shirou, espera."[lr]::
 10473::$$$message_0106_0019_0001$$$::"...! Um inimigo, Saber?"[lr]::
-10474::$$$message_0106_0019_0002$$$::"Sim. Mas não é um Servo. Sua presença é muito fraca. Provavelmente é um familiar de vigilância. Podemos ignora-lo, mas[line3]"::
-10475::$$$message_0106_0020_0000$$$::Deve haver algo errado nisso.[lr]::
+10474::$$$message_0106_0019_0002$$$::"Sim. Mas não é um Servo. Sua presença é muito fraca. Provavelmente é um Familiar de vigilância. Podemos ignorá-lo, mas[line3]"::
+10475::$$$message_0106_0020_0000$$$::Deve haver algo de estranho nesse Familiar de vigilância.[lr]::
 10476::$$$message_0106_0020_0001$$$::A Saber faz uma expressão preocupante e olha para os portões do templo à alguns passos de distância.::
 10477::$$$message_0106_0021_0000$$$::"...Saber? Há algo de errado...?"[lr]::
-10478::$$$message_0106_0021_0001$$$::"...não sei. Não posso dizer se esse calafrio é por causa do familiar ou se é a presença de alguém protegendo este portão.[lr]::
-10479::$$$message_0106_0021_0002$$$::Havia algum tipo de vigia no portão, mas parece que ele se foi por hora.[lr]::
-10480::$$$message_0106_0021_0003$$$::...não quero admitir, mas considero isso ótimo. Não seria bom enfrentar a pessoa protegendo esse portão."::
-10481::$$$message_0106_0022_0000$$$::"[line3]Havia um vigia aqui, mas ele não está aqui agora...?"[lr]::
+10478::$$$message_0106_0021_0001$$$::"...Não sei. Não posso dizer se esse calafrio é por causa do Familiar ou se é a presença de alguém protegendo este portão.[lr]::
+10479::$$$message_0106_0021_0002$$$::Havia algum tipo de vigia no portão, mas parece que ele desapareceu por agora.[lr]::
+10480::$$$message_0106_0021_0003$$$::...Não quero admitir, mas considero isso ótimo. Não seria bom enfrentar a pessoa protegendo esse portão."::
+10481::$$$message_0106_0022_0000$$$::"[line3]Tinha um vigia aqui, mas ele não está aqui agora...?"[lr]::
 10482::$$$message_0106_0022_0001$$$::"Sim. Eles já sabem que estamos aqui.[lr]::
-10483::$$$message_0106_0022_0002$$$::Há duas razões para que um vigia deixar seu posto apesar disso. Quais você acha que são, Shirou?"::
+10483::$$$message_0106_0022_0002$$$::Existem dois motivos para que o vigia ter deixado seu posto. Quais você acha que são, Shirou?"::
 10484::$$$message_0106_0023_0000$$$::"[line3]"[lr]::
-10485::$$$message_0106_0023_0001$$$::...Para se esconder da gente, ou para nós deixar entrar para que não possamos fugir.[lr]::
-10486::$$$message_0106_0023_0002$$$::...De qualquer modo, não haverá progresso a não ser que prosseguimos.::
-10487::$$$message_0106_0024_0000$$$::"...definitivamente acredito ser uma armadilha. Saber, consegue dizer o que se passa lá dentro daqui?"[lr]::
+10485::$$$message_0106_0023_0001$$$::...Para se esconder da gente, ou para nos deixar entrar em um local sem escapatória.[lr]::
+10486::$$$message_0106_0023_0002$$$::...De qualquer modo, não haverá progresso a não ser que entremos.::
+10487::$$$message_0106_0024_0000$$$::"...Definitivamente acredito ser uma armadilha. Saber, consegue dizer o que se passa lá dentro daqui?"[lr]::
 10488::$$$message_0106_0024_0001$$$::"Não. Só posso determinar que há algum sinal de um Servo lá dentro."::
-10489::$$$message_0106_0025_0000$$$::"...entendo. Acho que não saberemos até entrarmos."[lr]::
+10489::$$$message_0106_0025_0000$$$::"...Entendi. Acho que não saberemos até entrarmos."[lr]::
 10490::$$$message_0106_0025_0001$$$::A Saber concorda.::
-10491::$$$message_0106_0026_0000$$$::"[line3]Vamos. Não importa o que eles façam com a gente, nada vai acontecer até vermos seus rostos."[lr]::
-10492::$$$message_0106_0026_0001$$$::Eu me aproximo do portão com a Saber.::
+10491::$$$message_0106_0026_0000$$$::"[line3]Vamos. Seja lá o que façam com a gente, precisamos ao menos identificar seus rostos."[lr]::
+10492::$$$message_0106_0026_0001$$$::Me aproximo do portão com a Saber.::
 10493::$$$message_0106_0027_0000$$$::Por um instante, a lua é coberta pelas nuvens.[lr]::
 10494::$$$message_0106_0027_0001$$$::[line3]Minha visão é engolida pelas trevas.[lr]::
 10495::$$$message_0106_0027_0002$$$::"...Huh?"[lr]::
-10496::$$$message_0106_0027_0003$$$::Nela, acho que[line2]vejo uma linda cobra nas arvores.::
-10497::$$$message_0106_0028_0000$$$::"[line2]Espera, Saber-"[lr]::
+10496::$$$message_0106_0027_0003$$$::Na escuridão, acho que enxergo uma cobra encantadora se rastejando entre as árvores.::
+10497::$$$message_0106_0028_0000$$$::"Espera, Saber, acabei de[line2]"[lr]::
 10498::$$$message_0106_0028_0001$$$::Eu impeço a Saber que está tentando entrar pelo portão.[lr]::
 10499::$$$message_0106_0028_0002$$$::"Shirou?"[lr]::
 10500::$$$message_0106_0028_0003$$$::Seu cabelo dourado vira.[lr]::
-10501::$$$message_0106_0028_0004$$$::Mas isso é-::
-10502::$$$message_0106_0029_0000$$$::"Transferência forçada...!? Impossível! Magia de transferência nesta era[line2]entendo, Caster...!"[lr]::
+10501::$$$message_0106_0028_0004$$$::Mas de repente[line2]::
+10502::$$$message_0106_0029_0000$$$::"Transferência forçada...!? Impossível! Magia de transferência nesta era[line2]Entendi, um Caster...!"[lr]::
 10503::$$$message_0106_0029_0001$$$::A figura da Saber se distorce.[lr]::
 10504::$$$message_0106_0029_0002$$$::Que tipo de magia é essa?[lr]::
-10505::$$$message_0106_0029_0003$$$::A Saber está distorcida como uma miragem e assim[line3]::
-10506::$$$message_0106_0029_0004$$$::"Isso é mal! Volta, Saber...! Seu corpo está sumindo...!"[lr]::
-10507::$$$message_0106_0029_0005$$$::"Não, Shirou...! É você que está sendo transportado...! Pegue a minha mão por favor...!"[lr]::
+10505::$$$message_0106_0029_0003$$$::A Saber está distorcida como uma miragem e então[line3]::
+10506::$$$message_0106_0029_0004$$$::"Isso é péssimo! Volte, Saber...! Seu corpo está sumindo...!"[lr]::
+10507::$$$message_0106_0029_0005$$$::"Não, Shirou...! É você que está sendo transportado...! Se apresse e pegue a minha mão...!"[lr]::
 10508::$$$message_0106_0029_0006$$$::"...!?"[lr]::
 10509::$$$message_0106_0029_0007$$$::Transportação...!?::
-10510::$$$message_0106_0029_0008$$$::"Shirou, por favor me dê sua mão...! Você vai ser puxado[line3]"[lr]::
+10510::$$$message_0106_0029_0008$$$::"Shirou, me dê sua mão...! Você vai ser puxado[line3]"[lr]::
 10511::$$$message_0106_0029_0009$$$::A Saber avança para pegar a minha mão.[lr]::
 10512::$$$message_0106_0029_0010$$$::Neste instante....[lr]::
 10513::$$$message_0106_0029_0011$$$::"Kuh, uh[line3]!?"[lr]::
-10514::$$$message_0106_0029_0012$$$::...a figura de um Servo joga ela de lado.::
-10515::$$$message_0106_0029_0013$$$::"Você deixou sua guarda baixa, Saber. Sua resistência mágica era perigosa.[lr]::
-10516::$$$message_0106_0029_0014$$$::Se você não fosse tão poderosa, você teria conseguido proteger ele."::
-10517::$$$message_0106_0029_0015$$$::"Que? Um Servo...!"::
-10518::$$$message_0106_0029_0016$$$::Armadura prateada e roupa preta colidem.[lr]::
+10514::$$$message_0106_0029_0012$$$::...A figura de um Servo joga ela de lado.::
+10515::$$$message_0106_0029_0013$$$::"Você deixou sua guarda baixa, Saber. Sua Resistência Mágica era perigosa.[lr]::
+10516::$$$message_0106_0029_0014$$$::Se você não fosse tão poderosa, teria conseguido proteger ele."::
+10517::$$$message_0106_0029_0015$$$::"O qu... Um Servo!"::
+10518::$$$message_0106_0029_0016$$$::A armadura prateada e a roupa preta colidem.[lr]::
 10519::$$$message_0106_0029_0017$$$::Saber e Rider.[lr]::
 10520::$$$message_0106_0029_0018$$$::Os dois se confrontam no topo do pavimento de pedra e...[lr]::
 10521::$$$message_0106_0029_0019$$$::"Que[line3]Saber, Saber...!"[lr]::
-10522::$$$message_0106_0029_0020$$$::Minha existência é puxada da terceira dimensão, atravessa várias dimensões e é jogada de volta para a minha dimensão original.::
-10523::$$$message_0106_0029_0021$$$::"Ah[line3]Ugu...!"[lr]::
+10522::$$$message_0106_0029_0020$$$::Minha existência é puxada da terceira dimensão, atravessa várias dimensões e é jogada de volta para a realidade.::
+10523::$$$message_0106_0029_0021$$$::"Ah[line3]Ugh...!"[lr]::
 10524::$$$message_0106_0029_0022$$$::O sangue no meu corpo corre ao contrário.[lr]::
-10525::$$$message_0106_0029_0023$$$::Por um instante, meus órgãos ficam avessos e a tontura é como de eu fosse outro ser vivo[line3]::
+10525::$$$message_0106_0029_0023$$$::Por um instante, meus órgãos ficam invertidos e a tontura é como de eu fosse outro ser vivo[line3]::
 10526::$$$message_0106_0030_0000$$$::"Ah. Tentei pescar um dragão, mas acabei com um peixe pequeno na minha rede."[lr]::
 10527::$$$message_0106_0030_0001$$$::"...!"[lr]::
 10528::$$$message_0106_0030_0002$$$::Viro meu rosto para a presença atrás de mim.::
@@ -113,21 +113,21 @@ id=qid::label=str::text=lstr::
 10532::$$$message_0106_0032_0000$$$::"[aero]"[lr]::
 10533::$$$message_0106_0032_0001$$$::"Ah[line5]"[lr]::
 10534::$$$message_0106_0032_0002$$$::[line2]Sou jogado longe.[lr]::
-10535::$$$message_0106_0032_0003$$$::Fui acertado no lado direito do peito, e caio na água.::
-10536::$$$message_0106_0033_0000$$$::"Hu[line2]h?"[lr]::
+10535::$$$message_0106_0032_0003$$$::Fui acertado no lado direito do peito e caio na água.::
+10536::$$$message_0106_0033_0000$$$::"Huh[line2]?"[lr]::
 10537::$$$message_0106_0033_0001$$$::...A superfície da água está manchada de vermelho.[lr]::
 10538::$$$message_0106_0033_0002$$$::Meu corpo[line2]o lado direito do meu corpo se foi, como se estivesse sido engolido por um ventilador gigante.::
-10539::$$$message_0106_0034_0000$$$::"Garoto idiota. Vir para meu templo com uma resistência mágica ridícula como essa. Parece que a Saber não deu sorte com seu Mestre."::
+10539::$$$message_0106_0034_0000$$$::"Garoto idiota. Vir para meu templo com uma Resistência Mágica ridícula como essa. Parece que a Saber não deu sorte com seu Mestre."::
 10540::$$$message_0106_0035_0000$$$::"[line3]"[lr]::
-10541::$$$message_0106_0035_0001$$$::...o manto roxo zomba de mim.[lr]::
+10541::$$$message_0106_0035_0001$$$::...A pessoa no manto roxo zomba de mim.[lr]::
 10542::$$$message_0106_0035_0002$$$::Me sinto tonto[line3]Tenho que levantar rápido e pegar a mão da Saber, mas me sinto tonto, e meu corpo...::
 10543::$$$message_0106_0036_0000$$$::"Está preocupado com a Saber...? Não se preocupe, vou pegar ela. Preciso do Fantasma Nobre dela para derrotar o Berserker. Você vai morrer aqui, mas ela vai continuar vivendo como minha escrava."::
-10544::$$$message_0106_0037_0000$$$::"[line4]...Ah."[lr]::
+10544::$$$message_0106_0037_0000$$$::"...Ah."[lr]::
 10545::$$$message_0106_0037_0001$$$::[line2]Não consigo encontrar forças.[lr]::
 10546::$$$message_0106_0037_0002$$$::Sangue.[lr]::
 10547::$$$message_0106_0037_0003$$$::Não há sangue no meu corpo, não consigo manter a consciência[line3]::
-10548::$$$message_0106_0038_0000$$$::"Adeus, garoto. Com habilidades tão fracas, você não tem valor nem como escravo[line2]mas usarei seus Selos de Comando efetivamente."::
-10549::$$$message_0106_0039_0000$$$::A adaga torta corta meu braço esquerdo fora.[lr]::
-10550::$$$message_0106_0039_0001$$$::...nesta água negra...[lr]::
-10551::$$$message_0106_0039_0002$$$::Apenas o movimento das nuvens engolindo a lua é gravado nos meus olhos mortos.[line2]::
+10548::$$$message_0106_0038_0000$$$::"Adeus, garoto. Com habilidades tão fracas, você não tem valor nem como escravo, mas usarei seus Selos de Comando efetivamente."::
+10549::$$$message_0106_0039_0000$$$::A adaga torta corta meus Selos de Comando fora.[lr]::
+10550::$$$message_0106_0039_0001$$$::...Nesta água escurecida...[lr]::
+10551::$$$message_0106_0039_0002$$$::Apenas o movimento das nuvens engolindo a lua é gravado nos olhos do meu cadáver[line2]::
 8

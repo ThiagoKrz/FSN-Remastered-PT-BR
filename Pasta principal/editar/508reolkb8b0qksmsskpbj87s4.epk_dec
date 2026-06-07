@@ -6,11 +6,11 @@ id=qid::label=str::text=lstr::
 8791::$$$message_0088_0001_0001$$$::Eu me levanto e sacudo minha cabeça ainda meio dormente.[lr]::
 8792::$$$message_0088_0001_0002$$$::"Entendi... Acabei pegando no sono aqui ontem."[lr]::
 8793::$$$message_0088_0001_0003$$$::Depois da rotina de ontem[line2]depois de treinar para criar aquela nova sensação dentro de mim, eu devo ter ficado com preguiça demais para voltar para o quarto.::
-8794::$$$message_0088_0002_0000$$$::"Não deve ser nem seis horas ainda. ...Droga, eu preciso preparar o café."[lr]::
+8794::$$$message_0088_0002_0000$$$::"Não deve ser nem seis horas ainda... Droga, eu preciso preparar o café."[lr]::
 8795::$$$message_0088_0002_0001$$$::Dobro a coberta, arrumo as coisas que falhei em "reforçar" ontem e volto para casa para lavar o rosto.::
 8796::$$$message_0088_0003_0000$$$::"[line3]Está frio."[lr]::
 8797::$$$message_0088_0003_0001$$$::Eu saio do galpão e percebo que está realmente gelado do lado de fora.[lr]::
-8798::$$$message_0088_0003_0002$$$::A cidade de Fuyuki costuma ser quente no inverno, mas o topo da montanha deste lado traz a brisa cortante de uma manhã de janeiro.::
+8798::$$$message_0088_0003_0002$$$::A cidade de Fuyuki costuma ser quente mesmo no inverno, mas o topo da montanha deste lado traz a brisa cortante de uma manhã de fevereiro.::
 8799::$$$message_0088_0005_0000$$$::Então...[lr]::
 8800::$$$message_0088_0005_0001$$$::Lavo meu rosto com água congelante e finalmente me recomponho.::
 8801::$$$message_0088_0006_0000$$$::"[line4]Certo."[lr]::
@@ -23,8 +23,8 @@ id=qid::label=str::text=lstr::
 8808::$$$message_0088_0008_0001$$$::Eu ficaria mal se a Saber ficasse chateada ou preocupada.[lr]::
 8809::$$$message_0088_0008_0002$$$::Como ir ao galpão à noite é meu ritual diário, ela deve entender se eu explicar direito.::
 8810::$$$message_0088_0009_0000$$$::"Depois de falar com a Saber, preciso fazer o café. A Tohsaka disse que não vai comer, então só preciso adicionar a porção da Saber."[lr]::
-8811::$$$message_0088_0009_0001$$$::Ah, nesse caso, eu devia sair para comprar mais ingredientes para as visitas. Preciso anotar isso antes que eu esqueça.::
-8812::$$$message_0088_0010_0000$$$::"...Hm? Esquecendo de algo...?"[lr]::
+8811::$$$message_0088_0009_0001$$$::Ah, verdade, eu devia sair para comprar mais ingredientes agora que temos mais pessoas. Preciso anotar isso antes que eu esqueça.::
+8812::$$$message_0088_0010_0000$$$::"...Hm? Esqueci alguma coisa...?"[lr]::
 8813::$$$message_0088_0010_0001$$$::O que seria?[lr]::
 8814::$$$message_0088_0010_0002$$$::Sinto que estou esquecendo algo realmente importante[line3]::
 8815::$$$message_0088_0011_0000$$$::"Gah, já são seis horas! Tenho que correr ou não vai dar tempo!"[lr]::
@@ -39,14 +39,14 @@ id=qid::label=str::text=lstr::
 8824::$$$message_0088_0014_0000$$$::"...Entendo. Isso deve ser o que ela quis dizer sobre precisar dormir com frequência."[lr]::
 8825::$$$message_0088_0014_0001$$$::Ela está dormindo o mais perto possível para poder me proteger caso algo aconteça.::
 8826::$$$message_0088_0015_0000$$$::"......"[lr]::
-8827::$$$message_0088_0015_0001$$$::De qualquer forma, não faz muita diferença para onde eu vá se for dentro desta casa.[lr]::
+8827::$$$message_0088_0015_0001$$$::De qualquer forma, não faz muita diferença para onde eu vá desde que ainda seja dentro do terreno.[lr]::
 8828::$$$message_0088_0015_0002$$$::Consigo detectar intrusos com o Campo Limitado.[lr]::
 8829::$$$message_0088_0015_0003$$$::Devo conseguir me aguentar por um minuto, e a Saber chegaria para me salvar não importa onde eu estivesse.::
 8830::$$$message_0088_0016_0000$$$::"É... e no galpão há vários lugares para se esconder."[lr]::
 8831::$$$message_0088_0016_0001$$$::No fim das contas, não vou levar bronca pelo que fiz ontem.[lr]::
 8832::$$$message_0088_0016_0002$$$::Eu ia me explicar, mas parece que não há necessidade. E não quero acordá-la se ela ainda estiver descansando.::
 8833::$$$message_0088_0017_0000$$$::"Saber, vou preparar o café. Farei um pouco para você, mas não precisa levantar se estiver cansada.[lr]::
-8834::$$$message_0088_0017_0001$$$::"Eu volto para te chamar depois, então descanse até lá."[lr]::
+8834::$$$message_0088_0017_0001$$$::Eu volto para te chamar depois, então descanse até lá."[lr]::
 8835::$$$message_0088_0017_0002$$$::Eu falo baixinho e saio do quarto sem fazer barulho.::
 8836::$$$message_0088_0018_0000$$$::Não tem ninguém na sala de estar.[lr]::
 8837::$$$message_0088_0018_0001$$$::Abro a geladeira e começo a planejar o café da manhã.::
@@ -57,15 +57,15 @@ id=qid::label=str::text=lstr::
 8842::$$$message_0088_0020_0001$$$::"Nada. Sou sempre assim de manhã, não esquenta."[lr]::
 8843::$$$message_0088_0020_0002$$$::Ela atravessa a sala como se fosse um fantasma.::
 8844::$$$message_0088_0021_0000$$$::"Ei, você está bem? Parece péssima."[lr]::
-8845::$$$message_0088_0021_0001$$$::"Já disse para relaxar. Vou acordar de verdade quando lavar o rosto. ...Uh, como eu chego no banheiro daqui?"::
-8846::$$$message_0088_0022_0000$$$::"Vá pelo corredor. Tem um banheiro perto da entrada se você for só lavar o rosto."[lr]::
+8845::$$$message_0088_0021_0001$$$::"Já disse para relaxar. Vou acordar de verdade quando lavar o rosto... Uh, como eu chego no banheiro daqui?"::
+8846::$$$message_0088_0022_0000$$$::"Vá pelo corredor. Tem um lavatório perto da entrada se você for só lavar o rosto."[lr]::
 8847::$$$message_0088_0022_0001$$$::"Ah, é mesmo, tinha um lá."[lr]::
 8848::$$$message_0088_0022_0002$$$::Não sei se ela ouviu tudo, mas a Tohsaka apenas acena e some no corredor.::
 8849::$$$message_0088_0023_0000$$$::E então.[lr]::
 8850::$$$message_0088_0023_0001$$$::No instante em que ela some, a campainha toca avisando de um visitante.::
 8851::$$$message_0088_0024_0000$$$::"Shirou[line3]? Tem alguém na porta[line3]?"[lr]::
 8852::$$$message_0088_0024_0001$$$::Ouço a voz da Tohsaka vindo do corredor.[lr]::
-8853::$$$message_0088_0024_0002$$$::"Ah, não se preocupe! Só amigos vêm a esta hora!"[lr]::
+8853::$$$message_0088_0024_0002$$$::"Ah, não se preocupe! A esta hora só vem gente de casa!"[lr]::
 8854::$$$message_0088_0024_0003$$$::Deve ser a Sakura chegando.[lr]::
 8855::$$$message_0088_0024_0004$$$::Como ela tem a chave reserva, eu não precisaria nem ir abrir a porta.::
 8856::$$$message_0088_0025_0000$$$::"...Nossa. Ela nunca escuta, mesmo que eu diga que não precisa tocar a campainha."[lr]::
@@ -102,21 +102,21 @@ id=qid::label=str::text=lstr::
 8887::$$$message_0088_0034_0001$$$::"Senpai... o que significa isso...?"[lr]::
 8888::$$$message_0088_0034_0002$$$::A Sakura me olha como se estivesse pedindo socorro.::
 8889::$$$message_0088_0035_0000$$$::"É... Bem, é uma longa história[line2]"[lr]::
-8890::$$$message_0088_0035_0001$$$::"Não é tão longa assim. Estou apenas ficando aqui."[lr]::
+8890::$$$message_0088_0035_0001$$$::"Não é tão longa assim. Vou apenas passar alguns dias aqui."[lr]::
 8891::$$$message_0088_0035_0002$$$::Curta e grossa.[lr]::
 8892::$$$message_0088_0035_0003$$$::Ela me corta e vai direto ao ponto.::
 8893::$$$message_0088_0036_0000$$$::"...Senpai, é verdade?"[lr]::
 8894::$$$message_0088_0036_0001$$$::"A resposta rápida é que sim. Houve algumas circunstâncias e pedi para ela ficar aqui.[lr]::
 8895::$$$message_0088_0036_0002$$$::"...Desculpa, eu devia ter te avisado antes de você levar esse susto."::
-8896::$$$message_0088_0037_0000$$$::"P-Por favor, não se desculpe, Senpai. ...Eu estou surpresa, sim, mas está tudo bem. O que a Tohsaka-senpai disse, você realmente[line3]"[lr]::
+8896::$$$message_0088_0037_0000$$$::"P-Por favor, não se desculpe, Senpai... Eu estou surpresa, sim, mas está tudo bem. O que a Tohsaka-senpai disse, você realmente[line3]"[lr]::
 8897::$$$message_0088_0037_0001$$$::"Sim, foi o que decidimos. O dono da casa, Shirou, concordou, então é isso.[lr]::
 8898::$$$message_0088_0037_0002$$$::"Você entende o que isso significa, não é, Matou-san?"::
-8899::$$$message_0088_0038_0000$$$::"...Significa o quê?"[lr]::
+8899::$$$message_0088_0038_0000$$$::"...Entender o quê?"[lr]::
 8900::$$$message_0088_0038_0001$$$::"Parece que você cuidou dele até agora, mas ele não precisa mais disso. Vai ser um incômodo se você continuar vindo aqui, e é melhor para você ficar longe daqui."::
 8901::$$$message_0088_0039_0000$$$::"[line5]"[lr]::
 8902::$$$message_0088_0039_0001$$$::A Sakura abaixa a cabeça e fica em silêncio.[lr]::
 8903::$$$message_0088_0039_0002$$$::Após um momento de tensão absoluta...[lr]::
-8904::$$$message_0088_0039_0003$$$::Repentinamente, ela fala: "...Eu não aceito isso."::
+8904::$$$message_0088_0039_0003$$$::Repentinamente, ela fala: "...Eu não entendo."::
 8905::$$$message_0088_0040_0000$$$::"Hã[line3]o quê?"[lr]::
 8906::$$$message_0088_0040_0001$$$::"...Eu disse que não entendo sobre o que a Tohsaka-Senpai está falando."::
 8907::$$$message_0088_0041_0000$$$::"E-Ei, Sakura[line3]"[lr]::
@@ -128,12 +128,12 @@ id=qid::label=str::text=lstr::
 8913::$$$message_0088_0042_0003$$$::...Isso foi surpreendente, mas teve algo mais que me intriga.::
 8914::$$$message_0088_0043_0000$$$::"Ei, Tohsaka. Como você sabia que a Sakura vinha aqui sempre? Não lembro de ter te contado nada."::
 8915::$$$message_0088_0044_0000$$$::"Hã[line3]? Ah, eu ouvi por aí antes. Foi mera coincidência.[lr]::
-8916::$$$message_0088_0044_0001$$$::"Mas estou impressionada. Ela é sempre tão firme assim aqui? Está totalmente diferente de como age na escola."::
+8916::$$$message_0088_0044_0001$$$::Mas estou impressionada. Ela é sempre tão firme assim aqui? Está totalmente diferente de como age na escola."::
 8917::$$$message_0088_0045_0000$$$::Isso deve ter sido realmente inesperado, a Tohsaka soa até desapontada.[lr]::
 8918::$$$message_0088_0045_0001$$$::O que significa que ela conhece bem a Sakura.::
 8919::$$$message_0088_0046_0000$$$::A Sakura também parecia conhecê-la, então as duas deviam ser próximas sem eu saber.[lr]::
 8920::$$$message_0088_0046_0001$$$::...Bem, deixando isso de lado.::
-8921::$$$message_0088_0047_0000$$$::"Não, eu também estou surpreso. É a primeira vez que a vejo ser tão impertinente. Ela costuma ser do mesmo jeito que na escola quando vem me ajudar. Eu diria que isso foi uma exceção."[lr]::
+8921::$$$message_0088_0047_0000$$$::"Não, eu também estou surpreso. É a primeira vez que a vejo ser tão ríspida. Ela costuma ser do mesmo jeito que na escola quando vem me ajudar. Eu diria que isso foi uma exceção."[lr]::
 8922::$$$message_0088_0047_0001$$$::"[line3]Hmmm, entendi... Isso é ruim, nunca imaginei que ela seria tão teimosa. Eu devia ter deixado você explicar a situação."::
 8923::$$$message_0088_0048_0000$$$::Ela tem razão.[lr]::
 8924::$$$message_0088_0048_0001$$$::Eu teria conseguido suavizar as coisas muito melhor do que a Tohsaka e seu jeito impiedoso.::
@@ -153,10 +153,10 @@ id=qid::label=str::text=lstr::
 8938::$$$message_0088_0055_0000$$$::A Sakura já está irritada com a presença da Tohsaka; se a Saber aparecer agora, o caos será total.[lr]::
 8939::$$$message_0088_0055_0001$$$::Por isso, decidi ir explicar a situação para a Saber no quarto dela.::
 8940::$$$message_0088_0056_0000$$$::"...Então, a situação é essa.[lr]::
-8941::$$$message_0088_0056_0001$$$::"A garota que está aqui se chama Sakura. Ela não é maga nem nada, é só uma garota comum, então não podemos deixá-la se envolver na Guerra do Santo Graal. Quero que ela fique longe daqui sem descobrir nada..."[lr]::
+8941::$$$message_0088_0056_0001$$$::A garota que está aqui se chama Sakura. Ela não é maga nem nada, é só uma garota comum, então não podemos deixá-la se envolver na Guerra do Santo Graal. Quero que ela fique longe daqui sem descobrir nada..."[lr]::
 8942::$$$message_0088_0056_0002$$$::Não, eu não vim aqui para pedir conselhos de como expulsar a Sakura!::
 8943::$$$message_0088_0057_0000$$$::"Enfim, ela está agindo de um jeito estranho hoje.[lr]::
-8944::$$$message_0088_0057_0001$$$::"A culpa é da Tohsaka, mas não quero assustá-la ainda mais. Ela já está em choque por ter uma estranha aqui, se você aparecer, vai ser o fim... Espera, não estou te insultando, viu, Saber...?"::
+8944::$$$message_0088_0057_0001$$$::A culpa é da Tohsaka, mas não quero assustá-la ainda mais. Ela já está em choque por ter uma estranha aqui, se você aparecer, vai ser o fim... Espera... eu estou sendo rude ou algo do tipo com você, Saber...?"::
 8945::$$$message_0088_0058_0000$$$::"Não, eu entendo perfeitamente, Shirou. Então devo permanecer aqui, correto?"[lr]::
 8946::$$$message_0088_0058_0001$$$::"[line3]! Sim, isso ajudaria muito! Assim que a Sakura for embora eu venho te buscar e tomamos café, tudo bem?"[lr]::
 8947::$$$message_0088_0058_0002$$$::Ela concorda silenciosamente.[lr]::
@@ -169,3 +169,4 @@ id=qid::label=str::text=lstr::
 8954::$$$message_0088_0060_0001$$$::"Hã[line3]estou em pânico?"::
 8955::$$$message_0088_0061_0000$$$::"Sim. Se pretende voltar para a sala, sugiro que se recomponha primeiro."[lr]::
 8956::$$$message_0088_0061_0001$$$::Ela me aconselha com o seu tom sereno de sempre.::
+

@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 11::$$$message_0000_0003_0001$$$::"Hm... parece que sim. Bom dia, Sakura. Obrigado por vir me acordar."::
 12::$$$message_0000_0004_0000$$$::"Não precisa agradecer. Eu sabia que você ia acordar direitinho, no fim fui eu que fiz algo desnecessário."::
 13::$$$message_0000_0005_0000$$$::"Entendi. ...Mas por que você veio até aqui me acordar?"[lr]::
-14::$$$message_0000_0005_0001$$$::"Propositalmente eu vim acordar o senpai, então acordei trinta minutos mais cedo que o normal. Porque hoje é um dia especial."::
+14::$$$message_0000_0005_0001$$$::"Não foi nada demais. Hoje eu quis acordar o senpai, então levantei trinta minutos mais cedo que o normal. Hoje é um dia especial."::
 15::$$$message_0000_0006_0000$$$::"Ah..."[lr]::
 16::$$$message_0000_0006_0001$$$::Só aí me lembro .[lr]::
 17::$$$message_0000_0006_0002$$$::É mesmo. Hoje é um dia especial.::
@@ -33,7 +33,7 @@ id=qid::label=str::text=lstr::
 31::$$$message_0000_0013_0000$$$::"[line3]Ah, não! Eu falei que ia acordar o Shirou, Sakura!"[lr]::
 32::$$$message_0000_0013_0001$$$::A Illya sai correndo pro depósito, reclamando.[lr]::
 33::$$$message_0000_0013_0002$$$::Hoje em dia, esse tipo de cena já é normal.::
-34::$$$message_0000_0014_0000$$$::A Illya disse que não ia voltar pro país dela, graças a isso falei com a Fuji-nee sobre deixar ela ficar aqui.[lr]::
+34::$$$message_0000_0014_0000$$$::A Illya disse que não ia voltar pro país dela, então falei com a Fuji-nee sobre deixar ela ficar aqui.[lr]::
 35::$$$message_0000_0014_0001$$$::Ela foi totalmente contra, mas disse que seria melhor a Illya ficar na casa dos Fujimura, por isso acabou cuidando dela.::
 36::$$$message_0000_0014_0002$$$::A partir daí, a Illya está morando lá e vem aqui com a Fuji-nee de manhã e de noite.[lr]::
 37::$$$message_0000_0014_0003$$$::Nem preciso dizer que é por causa das refeições.::
@@ -43,7 +43,7 @@ id=qid::label=str::text=lstr::
 41::$$$message_0000_0016_0000$$$::A Illya é bem direta, achei que ela não ia se dar bem com a Sakura, mas não foi o caso.[lr]::
 42::$$$message_0000_0016_0001$$$::Elas são tipo uma dupla estranha. A Illya é agitada, enquanto a Sakura é mais tranquila. Mesmo assim, combinam bem.::
 43::$$$message_0000_0016_0002$$$::Na verdade, foi graças à Illya que a Sakura voltou a sorrir normalmente.::
-44::$$$message_0000_0017_0000$$$::Depois que o irmão mais velho dela, o Shinji, que morreu e foi dado como desaparecido, ela parou de sorrir.[lr]::
+44::$$$message_0000_0017_0000$$$::Depois que o irmão mais velho dela, o Shinji, sumiu e passou a ser dado como desaparecido, ela parou de sorrir.[lr]::
 45::$$$message_0000_0017_0001$$$::Ela deve ter percebido que ele tinha algo a ver com o incidente do coma coletivo na escola.::
 46::$$$message_0000_0017_0002$$$::Preocupada com o Shinji, a Sakura acabou se fechando.::
 47::$$$message_0000_0018_0000$$$::Foi a Illya que forçou ela a sair disso, e agora a Sakura está sempre alegre quando está com ela.[lr]::

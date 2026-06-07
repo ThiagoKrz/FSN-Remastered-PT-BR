@@ -34,7 +34,7 @@ id=qid::label=str::text=lstr::
 1910::$$$message_0016_0012_0002$$$::Não, deixando isso de lado...::
 1911::$$$message_0016_0013_0000$$$::"Bem, com o que devemos começar? Acho que você havia dito que só consegue usar magia de fortalecimento[line3]"[lr]::
 1912::$$$message_0016_0013_0001$$$::"Na verdade, posso te perguntar algo antes? Estou curioso.[lr]::
-1913::$$$message_0016_0013_0002$$$::Tohsaka, o que você estava fazendo agora há pouco? Se furar com uma seringa assim não é perigoso."::
+1913::$$$message_0016_0013_0002$$$::Tohsaka, o que você estava fazendo agora há pouco? Se furar com uma seringa assim não é perigoso?"::
 1914::$$$message_0016_0014_0000$$$::"Ah, aquilo? Eu só estava fazendo balas mágicas. A magia da família Tohsaka gira em torno do fluxo e da conversão de poder. Então, quando tenho alguma margem, transfiro minha energia mágica para outro lugar"::
 1915::$$$message_0016_0015_0000$$$::"Espera aí. O que são essas balas mágicas? E o que quer dizer com transferir energia mágica?"::
 1916::$$$message_0016_0016_0000$$$::"Balas mágicas são balas mágicas. Balas carregadas de energia mágica.[lr]::
@@ -51,7 +51,7 @@ id=qid::label=str::text=lstr::
 1927::$$$message_0016_0022_0001$$$::Por que os outros magos não fazem algo tão útil?"::
 1928::$$$message_0016_0023_0000$$$::"A habilidade de guardar energia mágica em algo fora de si é única.[lr]::
 1929::$$$message_0016_0023_0001$$$::Até a sua magia de fortalecimento consiste em colocar energia mágica num objeto, não é? O normal é que um objeto atravessado por energia mágica sofra alguma mudança e acabe consumindo essa energia. O efeito da magia é momentâneo, não permanente."::
-1930::$$$message_0016_0024_0000$$$::"No caso da minha família, fazemos com que isso não aconteça: conduzimos a energia mágica para as joias e a tornamos algo permanente... mas outros magos conseguem fazer algo parecido no próprio corpo[lr]::
+1930::$$$message_0016_0024_0000$$$::"No caso da minha família, fazemos com que isso não aconteça: conduzimos a energia mágica para as joias e a tornamos algo permanente... mas outros magos conseguem fazer algo parecido no próprio corpo.[lr]::
 1931::$$$message_0016_0024_0001$$$::É isso que é o Brasão Mágico[line2]o backup de magia que todo mago tem."::
 1932::$$$message_0016_0025_0000$$$::"Brasão Mágico... Ah, aquela coisa secreta que os pais passam para os filhos. Não entendo muito bem isso, já que eu não tenho um."::
 1933::$$$message_0016_0026_0000$$$::"Espera. O que foi que você disse?"[lr]::
@@ -63,7 +63,7 @@ id=qid::label=str::text=lstr::
 1939::$$$message_0016_0030_0000$$$::"Claro que não. Se soubesse, nunca teria deixado você agir sozinho. ...Tudo bem, eu achava que você era só inexperiente, mas se você não tem Brasão Mágico, então você nem é um mago, Shirou."::
 1940::$$$message_0016_0031_0000$$$::Ela me dá um olhar julgador com um "hmph".[lr]::
 1941::$$$message_0016_0031_0001$$$::Mas o que é isso?[lr]::
-1942::$$$message_0016_0031_0002$$$::As palavras dela tem uma ar de alivio, como se ela tivesse inveja de eu não ser um mago.::
+1942::$$$message_0016_0031_0002$$$::As palavras dela tem umd ar de alivio, como se ela tivesse inveja de eu não ser um mago.::
 1943::$$$message_0016_0032_0000$$$::"[line2]Bom, tanto faz. Se é assim, vou te explicar tudo desde o começo. Entender o que é um Brasão Mágico é entender o que é um mago.[lr]::
 1944::$$$message_0016_0032_0001$$$::Tudo bem, senta aqui, é uma lição importante, então preste atenção."::
 1945::$$$message_0016_0033_0000$$$::"Aqui tá bom? ...Tudo bem, vá em frente."[lr]::
@@ -95,12 +95,12 @@ id=qid::label=str::text=lstr::
 1971::$$$message_0016_0043_0001$$$::"Não ligo também, mas....[lr]::
 1972::$$$message_0016_0043_0002$$$::Fazer o que. Enfim, além do Circuito Mágico, há também uma magia secreta que a família treina por gerações."::
 1973::$$$message_0016_0044_0000$$$::"É parecido com as joias de antes. Quando um mago domina uma certa magia por completo, essa magia passa a ser algo que ele consegue "botar a mão"."[lr]::
-1974::$$$message_0016_0044_0001$$$::Consegue entender essa sensação de "botar a mão" uma magia que, originalmente, não tem forma nenhuma e não passa de uma fórmula?"::
+1974::$$$message_0016_0044_0001$$$::Consegue entender essa sensação de "botar a mão" uma magia que originalmente não tem forma nenhuma e não passa de uma fórmula?"::
 1975::$$$message_0016_0045_0000$$$::"[line2]Não sabia, mas presumo que seja uma parte do seu corpo se você consegue botar as mãos nela."::
 1976::$$$message_0016_0046_0000$$$::"Exatamente.[lr]::
-1977::$$$message_0016_0046_0001$$$::A magia que vai além do nível de formulas e se torna parte de si pode ser deixada em uma forma.[lr]::
+1977::$$$message_0016_0046_0001$$$::A magia que vai além do nível de fórmulas e se torna parte de si pode ser deixada em uma forma.[lr]::
 1978::$$$message_0016_0046_0002$$$::"Isso é um grande feito. Dar estabilidade a uma magia instável e, ao mesmo tempo, deixar a prova de que aquele mago existiu."::
-1979::$$$message_0016_0047_0000$$$::"E o mago, na beira da morte, passa esse grande feito num brasão . Como se estivesse dizendo 'Te dou isso para alcançar os reinos que não pude alcançar, talvez essa brasão te ofereça uma ajuda'.[lr]::
+1979::$$$message_0016_0047_0000$$$::"E o mago, na beira da morte, passa esse grande feito num brasão . Como se estivesse dizendo 'Te dou isso para alcançar os reinos que não pude alcançar, talvez esse brasão te ofereça uma ajuda'.[lr]::
 1980::$$$message_0016_0047_0001$$$::...Bom, embora tanto quem deixa quanto quem recebe saibam que, no fundo, isso não serve para alcançar o objetivo final."::
 1981::$$$message_0016_0048_0000$$$::"...? Que? Um brasão tão incrível, mas ainda inútil?"::
 1982::$$$message_0016_0049_0000$$$::"Ele é útil! Se você for um mago normal, é muito útil, já que ele vai te providenciar calma e conforto![lr]::
@@ -108,12 +108,12 @@ id=qid::label=str::text=lstr::
 1984::$$$message_0016_0049_0002$$$::"...?"::
 1985::$$$message_0016_0050_0000$$$::"Não importa, vamos voltar pro tópico principal.[lr]::
 1986::$$$message_0016_0050_0001$$$::Acho que você já percebeu, mas é esse brasão que chamamos de Brasão Mágico"::
-1987::$$$message_0016_0051_0000$$$::"O líder da família coloca a magia que ele passou a vida treinando nesse brasão e passa o mesme adiante, e seu descendente completa outra magia, aumentando o brasão, e a passa novamente.[lr]::
+1987::$$$message_0016_0051_0000$$$::"O líder da família coloca a magia que ele passou a vida treinando nesse brasão e passa o mesmo adiante, e seu descendente completa outra magia, aumentando o brasão, e a passa novamente.[lr]::
 1988::$$$message_0016_0051_0001$$$::Ele fica mais complexa deste modo, e uma história profunda é gravada nele. Isso é o Brasão Mágico[line2]uma corrente na qual um mago não pode escapar."::
 1989::$$$message_0016_0052_0000$$$::"Então... tudo sobre aquela família é gravada no Brasão Mágico?"::
 1990::$$$message_0016_0053_0000$$$::"Ah, está errado. O registro da família é naturalmente deixado no papel. Apenas magia está no Brasão Mágico[lr]::
 1991::$$$message_0016_0053_0001$$$::Ele pode invocar feitiços automaticamente e permite que você use magias que você não adquiriu ainda.[lr]::
-1992::$$$message_0016_0053_0002$$$::Simplificando, é como fazer um circulo mágico em seu corpo."::
+1992::$$$message_0016_0053_0002$$$::Simplificando, é como fazer um círculo mágico em seu corpo."::
 1993::$$$message_0016_0054_0000$$$::"Hum. Então isso não significaria que o brasão poderia ser gravado em qualquer pessoa? Se é como um círculo mágico, bastaria conhecer a forma para desenhar quantos quisesse."::
 1994::$$$message_0016_0055_0000$$$::"Não é assim que funciona.[lr]::
 1995::$$$message_0016_0055_0001$$$::O Brasão Mágico é como uma coisa viva. É quase como transplantar órgãos.[lr]::

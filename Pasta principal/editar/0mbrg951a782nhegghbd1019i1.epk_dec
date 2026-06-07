@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 3550::$$$message_0038_0019_0000$$$::"Uma joia, por que...!?"[lr]::
 3551::$$$message_0038_0019_0001$$$::"Não consegui evitar. Preparei uns remédios também, mas esse tipo de coisa não vai funcionar se eu quiser te consertar agora. Então decidi abrir o interruptor direto."::
 3552::$$$message_0038_0020_0000$$$::"Não, não é esse o ponto...! Por que você me fez engolir uma joia!? Não posso digerir isso!"::
-3553::$$$message_0038_0021_0000$$$::"...ei, calma. e você for se preocupar com essas coisas, deveria se preocupar com outras. Não é uma joia normal, sabia?[lr]::
+3553::$$$message_0038_0021_0000$$$::"...Ei, calma. Se você for se preocupar com essas coisas, deveria se preocupar com outras. Não é uma joia normal, sabia?[lr]::
 3554::$$$message_0038_0021_0001$$$::O que eu te dei agora foi uma ferramente de reforço que vai fazer você descobrir o que você não sabia. Deve começar a derreter agora, então se prepare ou você vai desmaiar."::
 3555::$$$message_0038_0022_0000$$$::"Por que você tá me dizendo que vou desmaiar com[line2]"[lr]::
 3556::$$$message_0038_0022_0001$$$::Enquanto digo isso...[lr]::
@@ -144,7 +144,7 @@ id=qid::label=str::text=lstr::
 3638::$$$message_0038_0052_0002$$$::Vou te ensinar o resto quando você puder controlá-lo."::
 3639::$$$message_0038_0053_0000$$$::"...ufa. Fico feliz em descansar, mas o que você vai me ensinar depois disso?"::
 3640::$$$message_0038_0054_0000$$$::"Você só consegue usar fortalecimento, certo? Você disse que é tudo que você usa, então devo conseguir levar ao próximo nível e usar 'transformação'.[lr]::
-3641::$$$message_0038_0054_0001$$$::Já te ensinarão sobre magia de fortalecimento, transformação e projeção?"::
+3641::$$$message_0038_0054_0001$$$::Já te ensinaram sobre magia de fortalecimento, transformação e projeção?"::
 3642::$$$message_0038_0055_0000$$$::"[line5]Hm."[lr]::
 3643::$$$message_0038_0055_0001$$$::...um pouco.[lr]::
 3644::$$$message_0038_0055_0002$$$::Fortalecimento é usado para fortalecer algo, como a palavra sugere.[lr]::
@@ -192,7 +192,7 @@ id=qid::label=str::text=lstr::
 3686::$$$message_0038_0069_0002$$$::Seria ótimo se houvesse um jeito de relaxar e[line2][lr]::
 3687::$$$message_0038_0069_0003$$$::"......"[lr]::
 3688::$$$message_0038_0069_0004$$$::Passos que parecem escoar pela noite.[lr]::
-3689::$$$message_0038_0069_0005$$$::Esta presente rudemente se aproxima uma segunda vez.::
+3689::$$$message_0038_0069_0005$$$::Esta presença rudemente se aproxima uma segunda vez.::
 3690::$$$message_0038_0070_0000$$$::"...que foi? Não tenho nada contigo."[lr]::
 3691::$$$message_0038_0070_0001$$$::"Da minha parte, o sentimento é o mesmo. Mas parece que a Rin está preocupada, então não posso ignorar."::
 3692::$$$message_0038_0071_0000$$$::"......"[lr]::

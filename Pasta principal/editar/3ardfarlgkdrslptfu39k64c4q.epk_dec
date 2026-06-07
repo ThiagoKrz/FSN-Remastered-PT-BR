@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 3952::$$$message_0041_0007_0000$$$::Nesse sentido, a luta deles também é uma batalha.[lr]::
 3953::$$$message_0041_0007_0001$$$::A lança que eu nem sequer conseguia ver ataca a garota com ainda mais velocidade.[lr]::
 3954::$$$message_0041_0007_0002$$$::De alguma forma...[lr]::
-3955::$$$message_0041_0007_0003$$$::...a garota a bloqueia com... algo em suas mãos e se aproxima do homem.::
+3955::$$$message_0041_0007_0003$$$::...A garota a bloqueia com... algo em suas mãos e se aproxima do homem.::
 3956::$$$message_0041_0008_0000$$$::"Tch...!"[lr]::
 3957::$$$message_0041_0008_0001$$$::O homem estala a língua  e recua um pouco.[lr]::
 3958::$$$message_0041_0008_0002$$$::Ele bloqueia o golpe lateral da garota com sua lança na vertical.::
@@ -40,11 +40,11 @@ id=qid::label=str::text=lstr::
 3964::$$$message_0041_0010_0000$$$::É uma energia mágica tão forte que é visível.[lr]::
 3965::$$$message_0041_0010_0001$$$::Em cada um dos golpes da garota há uma quantidade assustadora de energia mágica.[lr]::
 3966::$$$message_0041_0010_0002$$$::Aquela quantidade escandalosa de energia mágica percorre pela arma do inimigo só de encostar nela.::
-3967::$$$message_0041_0011_0000$$$::A força bruta dos ataques dela devem ser algo estonteante.[lr]::
+3967::$$$message_0041_0011_0000$$$::A força bruta dos ataques dela deve ser algo estonteante.[lr]::
 3968::$$$message_0041_0011_0001$$$::Se você pensar na lança daquele cara como um fuzil de precisão, os golpes da garota são como os de uma poderosa espingarda.[lr]::
 3969::$$$message_0041_0011_0002$$$::A cada golpe da garota, o jardim é preenchido com luz.::
 3970::$$$message_0041_0012_0000$$$::Mas...[lr]::
-3971::$$$message_0041_0012_0001$$$::...não é isso que está subjugando o homem.::
+3971::$$$message_0041_0012_0001$$$::...Não é isso que está subjugando o homem.::
 3972::$$$message_0041_0013_0000$$$::"Covarde. Qual o significado de estar escondendo a sua arma...?!"[lr]::
 3973::$$$message_0041_0013_0001$$$::O homem a provoca enquanto lida com os seus ataques ferozes.[lr]::
 3974::$$$message_0041_0013_0002$$$::"..."[lr]::
@@ -65,7 +65,7 @@ id=qid::label=str::text=lstr::
 3989::$$$message_0041_0017_0003$$$::Uma tempestade incessante de ataques![lr]::
 3990::$$$message_0041_0017_0004$$$::As faíscas voando me lembram um ferreiro martelando aço.::
 3991::$$$message_0041_0018_0000$$$::[line3]O lanceiro bloqueia os ataques e estala a língua.[lr]::
-3992::$$$message_0041_0018_0001$$$::Honestamente, não consigo deixar de admirar o homem, mesmo ele tentando me matar antes.[lr]::
+3992::$$$message_0041_0018_0001$$$::Honestamente, não consigo deixar de admirar o homem, mesmo que ele quase tenha me matado antes.[lr]::
 3993::$$$message_0041_0018_0002$$$::Ele está bloqueando golpes invisíveis, observando apenas os braços e as pernas do oponente!::
 3994::$$$message_0041_0019_0000$$$::"Fuh...!"[lr]::
 3995::$$$message_0041_0019_0001$$$::Mas isso é tudo que ele pode fazer.[lr]::
@@ -79,7 +79,7 @@ id=qid::label=str::text=lstr::
 4003::$$$message_0041_0021_0000$$$::"Idiota! O que ela pensa que está fazendo...!"[lr]::
 4004::$$$message_0041_0021_0001$$$::Mesmo daqui eu consigo ver isso.[lr]::
 4005::$$$message_0041_0021_0002$$$::Não sei quanto aos golpes calculados de antes, mas um movimento tão grande não vai ser capaz de atingir aquele homem.::
-4006::$$$message_0041_0022_0000$$$::Mesmo o corpo daquele homem deve estar sendo pressionado por todos aqueles ataques.[lr]::
+4006::$$$message_0041_0022_0000$$$::O corpo daquele homem deve estar sendo pressionado por todos aqueles ataques.[lr]::
 4007::$$$message_0041_0022_0001$$$::Mas ele resistiu à pressão por um instante e pulou pra longe.[lr]::
 4008::$$$message_0041_0022_0002$$$::Com essa abertura, o próximo golpe irá decidir o resultado da batalha...!::
 4009::$$$message_0041_0023_0000$$$::"Ha...!"[lr]::
@@ -90,17 +90,17 @@ id=qid::label=str::text=lstr::
 4014::$$$message_0041_0024_0001$$$::Aquela abertura é irrevogável.[lr]::
 4015::$$$message_0041_0024_0002$$$::A lança vermelha retorna em menos de um segundo...[lr]::
 4016::$$$message_0041_0024_0003$$$::A garota gira o seu corpo como se fosse um peão...[lr]::
-4017::$$$message_0041_0024_0004$$$::...com sua espada ainda no chão.::
+4017::$$$message_0041_0024_0004$$$::...Com sua espada ainda no chão.::
 4018::$$$message_0041_0025_0000$$$::"...!"[lr]::
 4019::$$$message_0041_0025_0001$$$::Os papéis de atacante e defensor se invertem em menos de um segundo.[lr]::
 4020::$$$message_0041_0025_0002$$$::O homem percebe o seu erro e tenta se segurar...[lr]::
-4021::$$$message_0041_0025_0003$$$::...enquanto a garota usa todo o seu corpo pra executar o seu ataque!::
+4021::$$$message_0041_0025_0003$$$::...Enquanto a garota usa todo o seu corpo pra executar o seu ataque!::
 4022::$$$message_0041_0026_0000$$$::"Guh...!"[lr]::
 4023::$$$message_0041_0026_0001$$$::"..."[lr]::
 4024::$$$message_0041_0026_0002$$$::Ambos o homem que foi arremessado pra longe e a garota que o arremessou parecem descontentes.[lr]::
 4025::$$$message_0041_0026_0003$$$::Cada um deles atacou pra matar o outro.[lr]::
-4026::$$$message_0041_0026_0004$$$::Mesmo que os ataques tenham permitido que eles escapassem do perigo imediato, eles foram inúteis.::
-4027::$$$message_0041_0027_0000$$$::A distância entre eles se abre.[lr]::
+4026::$$$message_0041_0026_0004$$$::Mesmo que os ataques tenham permitido que os dois escapassem do perigo imediato, eles foram inúteis.::
+4027::$$$message_0041_0027_0000$$$::A distância entre os dois se abre.[lr]::
 4028::$$$message_0041_0027_0001$$$::O fardo da batalha parece ser grande. Os dois se encaram silenciosamente.::
 4029::$$$message_0041_0028_0000$$$::"[line3]O que há de errado, Lancer?[lr]::
 4030::$$$message_0041_0028_0001$$$::Ficar aí parado não é digno da sua reputação como lanceiro. Se você não virá, eu irei."::
@@ -137,7 +137,7 @@ id=qid::label=str::text=lstr::
 4061::$$$message_0041_0037_0000$$$::"Até mais. Esse seu coração... eu irei tomá-lo!"[lr]::
 4062::$$$message_0041_0037_0001$$$::A besta salta.[lr]::
 4063::$$$message_0041_0037_0002$$$::O Lancer instantaneamente aparece em frente à garota como se tivesse se teleportado e...[lr]::
-4064::$$$message_0041_0037_0003$$$::...ataca o pé dela com sua lança.::
+4064::$$$message_0041_0037_0003$$$::...Ataca o pé dela com sua lança.::
 4065::$$$message_0041_0038_0000$$$::"..."[lr]::
 4066::$$$message_0041_0038_0001$$$::Até pra mim aquela foi uma péssima escolha.[lr]::
 4067::$$$message_0041_0038_0002$$$::Com a lança já abaixada, não seria efetivo mirar na parte inferior do corpo da garota.[lr]::
@@ -146,7 +146,7 @@ id=qid::label=str::text=lstr::
 4070::$$$message_0041_0039_0000$$$::"Gáe..."[lr]::
 4071::$$$message_0041_0039_0001$$$::Com palavras carregadas de uma poderosa energia mágica...[lr]::
 4072::$$$message_0041_0039_0002$$$::"Bolg!"[lr]::
-4073::$$$message_0041_0039_0003$$$::...a lança, que estava impulsionada em direção aos pés, vai atrás do coração dela.::
+4073::$$$message_0041_0039_0003$$$::...A lança, que estava impulsionada em direção aos pés, vai atrás do coração dela.::
 4074::$$$message_0041_0040_0000$$$::"...!?"[lr]::
 4075::$$$message_0041_0040_0001$$$::O corpo dela é erguido no ar.[lr]::
 4076::$$$message_0041_0040_0002$$$::A garota é jogada pro alto pelo golpe da lança e desaba... não, aterrissa no chão.::
@@ -155,7 +155,7 @@ id=qid::label=str::text=lstr::
 4079::$$$message_0041_0041_0002$$$::A garota, que até então não havia recebido sequer um arranhão, está sangrando terrivelmente pelo peito.::
 4080::$$$message_0041_0042_0000$$$::"Uma maldição... não, uma inversão da causalidade...!"[lr]::
 4081::$$$message_0041_0042_0001$$$::Eu também estou surpreso...[lr]::
-4082::$$$message_0041_0042_0002$$$::Não, como eu o vi de longe, eu sei melhor do que ela que o ataque de agora foi estranho.::
+4082::$$$message_0041_0042_0002$$$::Não, como eu o vi de longe, sei melhor do que ela que o ataque de agora foi estranho.::
 4083::$$$message_0041_0043_0000$$$::A lança definitivamente estava direcionada para o pé dela.[lr]::
 4084::$$$message_0041_0043_0001$$$::Mas de repente ela mudou a sua trajetória, de uma forma impossível, em uma direção impossível. Era como se desde o início, a arma já houvesse perfurado o coração da garota.[lr]::
 4085::$$$message_0041_0043_0002$$$::Mas a lança em si não cresceu ou se curvou.[lr]::
@@ -172,7 +172,7 @@ id=qid::label=str::text=lstr::
 4096::$$$message_0041_0046_0004$$$::[line3]É por isso que esse golpe é letal.[lr]::
 4097::$$$message_0041_0046_0005$$$::É uma lança amaldiçoada que sempre perfura o oponente ao ser usada.::
 4098::$$$message_0041_0047_0000$$$::Porém...[lr]::
-4099::$$$message_0041_0047_0001$$$::...a garota a evitou por pouco.[lr]::
+4099::$$$message_0041_0047_0001$$$::...A garota a evitou por pouco.[lr]::
 4100::$$$message_0041_0047_0002$$$::Ela está ferida, mas aquele não foi um golpe letal.[lr]::
 4101::$$$message_0041_0047_0003$$$::De certa forma, as ações dela foram mais impossíveis do que os movimentos da lança.[lr]::
 4102::$$$message_0041_0047_0004$$$::No instante da estocada, ela pulou pra trás com toda a sua força, como se soubesse que isso ia acontecer.::
@@ -189,7 +189,7 @@ id=qid::label=str::text=lstr::
 4113::$$$message_0041_0052_0001$$$::Mesmo que esteja se curando, seu ferimento é profundo.[lr]::
 4114::$$$message_0041_0052_0002$$$::Se o Lancer atacá-la agora, ela será derrotada sem sequer ser capaz de se defender.::
 4115::$$$message_0041_0053_0000$$$::Porém...[lr]::
-4116::$$$message_0041_0053_0001$$$::...mesmo com essa vantagem gigantesca, o Lancer não se move.[lr]::
+4116::$$$message_0041_0053_0001$$$::...Mesmo com essa vantagem gigantesca, o Lancer não se move.[lr]::
 4117::$$$message_0041_0053_0002$$$::Ele encara a garota,[lr]::
 4118::$$$message_0041_0053_0003$$$::seus dentes rangendo tão forte que consigo ouvir o som que fazem.::
 4119::$$$message_0041_0054_0000$$$::"Você conseguiu desviar, Saber... Do golpe letal da minha Gáe Bolg."[lr]::

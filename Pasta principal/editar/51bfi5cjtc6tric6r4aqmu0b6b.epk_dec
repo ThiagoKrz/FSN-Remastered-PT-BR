@@ -76,8 +76,8 @@ id=qid::label=str::text=lstr::
 7275::$$$message_0069_0022_0000$$$::"...Era isso que você queria, não era? Ao que parece, este Campo Limitado é especial. Depois de armado uma vez, não se refaz com facilidade no mesmo lugar.[lr]::
 7276::$$$message_0069_0022_0001$$$::...Então não haverá outro aqui. Agora tira as mãos de mim."::
 7277::$$$message_0069_0023_0000$$$::"Nem pensar. Já que eu venci, vocês vão obedecer o que eu disser. [r][line2]Shinji, se livre dos seus Selos de Comando. Só assim a gente garante que não vai voltar a lutar."::
-7278::$$$message_0069_0024_0000$$$::"Quê[line2]Tá maluco!? Como é que eu faria uma coisa dessas!?[r]::
-7279::$$$message_0069_0025_0000$$$::"Você vai deixar de ser Mestre, não vai? Então vai pra igreja de Shinto. Até onde eu sei, eles protegem os Mestres que saem da guerra.[lr]::
+7278::$$$message_0069_0024_0000$$$::"Quê[line2]Tá maluco!? Como é que eu faria uma coisa dessas!? Se eu me livrar dos meus Selos de Comando, não poderei mais controlar a Rider. Se isso acontecer, então[line2]"::
+7279::$$$message_0069_0025_0000$$$::"Você vai deixar de ser Mestre, não vai? Então vá pra igreja de Shinto. Até onde eu sei, eles protegem os Mestres que saem da guerra.[lr]::
 7280::$$$message_0069_0025_0001$$$::Ou tem outra coisa? Você estava mentindo quando disse que armou esse Campo Limitado pra se proteger?"::
 7281::$$$message_0069_0026_0000$$$::"...Eu não disse exatamente isso. É que eu achei que, se virasse Mestre e tivesse um Servo sob meu comando..."[lr]::
 7282::$$$message_0069_0026_0001$$$::Ele achou que isso faria dele um mago?[lr]::
@@ -97,15 +97,15 @@ id=qid::label=str::text=lstr::
 7296::$$$message_0069_0032_0000$$$::"Shirou, se afaste...! A Rider pretende liberar toda a energia mágica que estava usando para manter o Campo Limitado...!"::
 7297::$$$message_0069_0033_0000$$$::"...!? Liberar toda a energia mágica...!?"[lr]::
 7298::$$$message_0069_0033_0001$$$::Olhando bem, a Rider realmente parece diferente.[lr]::
-7299::$$$message_0069_0033_0002$$$::O fato de ela ter surgido aqui de repente, mesmo devendo estar enfrentando a Saber, e o frio que emana do corpo dela... tudo nela agora tem uma pressão muito mais opressiva do que antes.::
+7299::$$$message_0069_0033_0002$$$::O fato dela ter surgido aqui de repente, mesmo devendo estar enfrentando a Saber, e o frio que emana do corpo dela... tudo nela agora tem uma pressão muito mais opressiva do que antes.::
 7300::$$$message_0069_0034_0000$$$::"R-Rider...!? O que deu em você? Nem consegue vencer o Servo do Emiya e já quer tomar as rédeas da situação...!?"::
 7301::$$$message_0069_0035_0000$$$::"Sim. De fato, eu não me equiparo à Saber.[lr]::
-7302::$$$message_0069_0035_0001$$$::Mas não precisa se preocupar. Meu Fantasma Nobre supera o dos outros Servos. Seja quem for o oponente, ninguém será capaz de acompanhar minha investida."::
+7302::$$$message_0069_0035_0001$$$::Mas não precisa se preocupar. Meu Fantasma Nobre supera o dos outros Servos. Seja quem for o oponente, ninguém será capaz de acompanhar minha velocidade."::
 7303::$$$message_0069_0036_0000$$$::Rider ergue a adaga.[lr]::
 7304::$$$message_0069_0036_0001$$$::"Quê[line2]?"[lr]::
 7305::$$$message_0069_0036_0002$$$::Todos ali soltam um som de surpresa ao mesmo tempo.[lr]::
 7306::$$$message_0069_0036_0003$$$::Como se não bastasse, Rider leva a adaga ao próprio pescoço e[line2][lr]::
-7307::$$$message_0069_0036_0004$$$::o corta de uma vez.::
+7307::$$$message_0069_0036_0004$$$::O corta de uma vez.::
 7308::$$$message_0069_0037_0000$$$::...O vermelho espirra para todos os lados.[lr]::
 7309::$$$message_0069_0037_0001$$$::Do pescoço branco da Rider, envolto em preto, o sangue jorra sem parar.::
 7310::$$$message_0069_0038_0000$$$::"O-O que você..."[lr]::
@@ -139,7 +139,7 @@ id=qid::label=str::text=lstr::
 7338::$$$message_0069_0048_0002$$$::Eu fecho os olhos diante da ventania brutal.[lr]::
 7339::$$$message_0069_0048_0003$$$::Mas, mesmo de olhos fechados, sou forçado a sentir a intensidade daquilo.[lr]::
 7340::$$$message_0069_0048_0004$$$::Alguma coisa branca passa por ali.[lr]::
-7341::$$$message_0069_0048_0005$$$::Uma massa de luz imensa[line2]uase como uma flecha luminosa — atravessa o corredor numa velocidade absurda[line2]::
+7341::$$$message_0069_0048_0005$$$::Uma massa de luz imensa[line2]quase como uma flecha luminos[line2]atravessa o corredor numa velocidade absurda[line2]::
 7342::$$$message_0069_0049_0000$$$::"[line5]"[lr]::
 7343::$$$message_0069_0049_0001$$$::Quando ergo a cabeça, tudo o que resta diante de mim é destruição.[lr]::
 7344::$$$message_0069_0049_0002$$$::O Shinji e a Rider sumiram.[lr]::

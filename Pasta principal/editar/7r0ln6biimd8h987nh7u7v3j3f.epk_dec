@@ -1,7 +1,7 @@
-   DAT
+DAT
 id=qid::label=str::text=lstr::
 12291::$$$message_0122_0000_0000$$$::...Eu me pergunto se a Saber está realmente bem.[lr]::
-12292::$$$message_0122_0000_0001$$$::Ela diz que não há problema para lutar, mas depois de ter ficado tão debilitada, não seria difícil encarar o Berserker de frente assim tão de repente?::
+12292::$$$message_0122_0000_0001$$$::Ela diz que não tem problema para lutar, mas depois de ter ficado tão debilitada, não seria difícil encarar o Berserker de frente assim tão de repente?::
 12293::$$$message_0122_0001_0000$$$::Não, mais do que isso, o que me preocupa é o Fantasma Nobre dela.[lr]::
 12294::$$$message_0122_0001_0001$$$::"Se eu usar, não conseguirei manter meu corpo."[r][wsay canskip=1]::
 12295::$$$message_0122_0001_0002$$$::Foi isso que a Saber disse.[lr]::
@@ -34,7 +34,7 @@ id=qid::label=str::text=lstr::
 12322::$$$message_0122_0009_0003$$$::...De certa forma, ela está igual a mim de alguns instantes atrás.::
 12323::$$$message_0122_0010_0000$$$::"Ah..."[lr]::
 12324::$$$message_0122_0010_0001$$$::Eu também fico vermelho.[lr]::
-12325::$$$message_0122_0010_0002$$$::A sensação da mão dela... relembro vividamente o toque da Saber, e imediatamente solto sua mão.::
+12325::$$$message_0122_0010_0002$$$::Com a mão dela na minha... lembro de repente da sensação que senti com a Saber e solto sua mão na mesma hora.::
 12326::$$$message_0122_0011_0000$$$::"[line5]"[lr]::
 12327::$$$message_0122_0011_0001$$$::"[line5]"[lr]::
 12328::$$$message_0122_0011_0002$$$::Os dois ficam parados, sem conseguir dizer nada.::

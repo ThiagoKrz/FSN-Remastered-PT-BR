@@ -83,7 +83,7 @@ id=qid::label=str::text=lstr::
 1764::$$$message_0015_0029_0000$$$::"O Shinji é um Mestre, correto?[lr]::
 1765::$$$message_0015_0029_0001$$$::Conhecendo ele, ele ficaria puto com você se descobrisse que a Sakura estava na sua casa. Então é melhor não ter a Sakura por aqui até acertarmos as contas com o Shinji."::
 1766::$$$message_0015_0030_0000$$$::"Ah[line3]"[lr]::
-1767::$$$message_0015_0030_0001$$$::...entendo[lr]::
+1767::$$$message_0015_0030_0001$$$::...entendo.[lr]::
 1768::$$$message_0015_0030_0002$$$::Ela está certa agora que ela mencionou isso.[lr]::
 1769::$$$message_0015_0030_0003$$$::Não acho que o Shinji estava mentindo quando ele disse que não diria nada para a Sakura.[lr]::
 1770::$$$message_0015_0030_0004$$$::Mas tendo sua irmã por aqui, ele pode ter a ideia errada.::
@@ -107,7 +107,7 @@ id=qid::label=str::text=lstr::
 1788::$$$message_0015_0040_0000$$$::"[line5]"[lr]::
 1789::$$$message_0015_0040_0001$$$::Se ela descrever assim, só posso concordar.[lr]::
 1790::$$$message_0015_0040_0002$$$::Dito assim, não tem como eu não concordar.[lr]::
-1791::$$$message_0015_0040_0003$$$::Mais uma vez, sou obrigado a reconhecer que ela consegue ser ao mesmo tempo terrivelmente maldosa e absurdamente incrível::
+1791::$$$message_0015_0040_0003$$$::Mais uma vez, sou obrigado a reconhecer que ela consegue ser ao mesmo tempo terrivelmente maldosa e absurdamente incrível.::
 1792::$$$message_0015_0041_0000$$$::"Queeee? Então a Sakura-chan não vai vir aqui por um tempo?"[lr]::
 1793::$$$message_0015_0041_0001$$$::"É, então por que você não volta pra casa e faz um agrado com seus pais? Seu pai estava reclamando que a filha não ligava pra ele."::
 1794::$$$message_0015_0042_0000$$$::"Posso deixar meu pai sozinho. Ele não vai morrer mesmo se eu não estiver lá.[lr]::
@@ -185,7 +185,7 @@ id=qid::label=str::text=lstr::
 1866::$$$message_0015_0067_0002$$$::"Huh, que?"[lr]::
 1867::$$$message_0015_0067_0003$$$::Parece que a Tohsaka falou algo que a Fuji-nee queria dizer.::
 1868::$$$message_0015_0068_0000$$$::"I-isso mesmo, Shirou. Não tem nada de errado com você pra fazer você faltar, né?"[lr]::
-1869::$$$message_0015_0068_0001$$$::"Não, meu ferimento dói. Feridas antigas doem quando a temperatura caí, né? É tipo isso."::
+1869::$$$message_0015_0068_0001$$$::"Não, meu ferimento dói. Feridas antigas doem quando a temperatura cai, né? É tipo isso."::
 1870::$$$message_0015_0069_0000$$$::"Hm... isso é uma mentira, né Shirou?"[lr]::
 1871::$$$message_0015_0069_0001$$$::"É sim, mas vamos trabalhar com isso. Não é que eu não queira ir pra escola. Eu tenho algo que preciso fazer, e isso é mais importante agora. Então me solta por favor."::
 1872::$$$message_0015_0070_0000$$$::"...céus. Vou perder se você colocar dessa maneira. Você sempre é assim quando não pode me dizer sobre as coisas. Você era assim quando criança."[lr]::

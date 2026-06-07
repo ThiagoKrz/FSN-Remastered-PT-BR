@@ -16,9 +16,9 @@ id=qid::label=str::text=lstr::
 26468::$$$message_0227_0004_0003$$$::Depois de reclamar, ela volta ocupada para o anexo.::
 26469::$$$message_0227_0005_0000$$$::"...A Tohsaka parece mesmo estar falando sério."[lr]::
 26470::$$$message_0227_0005_0001$$$::Ao que tudo indica, já está decidido que ela vai passar a noite aqui.[lr]::
-26471::$$$message_0227_0005_0002$$$::Quando fui ao quarto de hóspedes do anexo mais cedo, o melhor quarto já estava com[lr]::
-26472::$$$message_0227_0005_0003$$$::　　　''Em reforma no momento, entrada proibida''[r]::
-26473::$$$message_0227_0005_0004$$$::pendurado na porta, numa placa completamente sem noção.::
+26471::$$$message_0227_0005_0002$$$::Quando fui ao quarto de hóspedes do anexo mais cedo, o melhor quarto já estava ocupado por ela.[lr]::
+26472::$$$message_0227_0005_0003$$$::Ela até colocou uma placa dizendo: [r]::
+26473::$$$message_0227_0005_0004$$$::"Em reforma. Entrada proibida."::
 26474::$$$message_0227_0006_0000$$$::"...É. Se ela ficar no anexo, que é mais longe, então não tem problema."[lr]::
 26475::$$$message_0227_0006_0001$$$::Só de ter a Saber por perto eu já fico tenso, então se a Tohsaka também ficasse aqui do lado, eu não teria um segundo de paz.::
 26476::$$$message_0227_0007_0000$$$::Se for no anexo, já existe certa distância, e mesmo que seja ligado por um corredor, é praticamente como se fosse a casa ao lado. Se eu não me aproximar, não deve acontecer nenhum problema.::
@@ -105,7 +105,7 @@ id=qid::label=str::text=lstr::
 26557::$$$message_0227_0035_0001$$$::Não faço ideia de como a minha habilidade na cozinha pode afetar a Tohsaka, mas o que ela disse faz sentido.[lr]::
 26558::$$$message_0227_0035_0002$$$::O preparo já está quase acabando, e daqui pra frente eu preciso terminar tudo de uma vez.::
 26559::$$$message_0227_0036_0000$$$::"Illyasviel... a Mestra do Berserker, certo.[lr]::
-26560::$$$message_0227_0036_0001$$$::Você parecia conhece ela, Rin."[lr]::
+26560::$$$message_0227_0036_0001$$$::Você parecia conhecer ela, Rin."[lr]::
 26561::$$$message_0227_0036_0002$$$::"...Bom, pelo menos o nome eu conheço. Os Einzbern são uma linhagem de magos que já chegou perto do Santo Graal algumas vezes.":: 
 26562::$$$message_0227_0037_0000$$$::"...Então eles já têm experiência com a Guerra do Santo Graal."[lr]::
 26563::$$$message_0227_0037_0001$$$::"Provavelmente. Não sei quanto aos outros, mas não tem erro em dizer que a Illyasviel é o maior obstáculo. Normalmente, a classe Berserker existe pra fortalecer heróis fracos.[lr]::
@@ -142,7 +142,7 @@ id=qid::label=str::text=lstr::
 26594::$$$message_0227_0048_0002$$$::Lanço um olhar de lado pra ela.::
 26595::$$$message_0227_0049_0000$$$::A Tohsaka arregala os olhos por um instante, como se dissesse 'hã?',[lr]::
 26596::$$$message_0227_0049_0001$$$::e então abre um sorriso apavorante.::
-26597::$$$message_0227_0050_0000$$$::"A gente só estava decidindo como ia funcionar a coperação. Pode ficar tranquilo, eu não vou roubar a sua Saber."[lr]::
+26597::$$$message_0227_0050_0000$$$::"A gente só estava decidindo como ia funcionar a cooperação. Pode ficar tranquilo, eu não vou roubar a sua Saber."[lr]::
 26598::$$$message_0227_0050_0001$$$::"[line5]!"[lr]::
 26599::$$$message_0227_0050_0002$$$::Sinto meu rosto corar na hora.[lr]::
 26600::$$$message_0227_0050_0003$$$::Foi só a Tohsaka falar aquilo pra eu perceber com o que exatamente eu estava irritado.::

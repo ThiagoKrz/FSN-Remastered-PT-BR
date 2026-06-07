@@ -150,7 +150,7 @@ id=qid::label=str::text=lstr::
 23846::$$$message_0209_0049_0000$$$::Assim que começo a falar isso, eu fico espantado com a minha burrice.[lr]::
 23847::$$$message_0209_0049_0001$$$::A Illya também é um Mestre.[lr]::
 23848::$$$message_0209_0049_0002$$$::Eu não deveria ficar me preocupando com isso, e além do mais, nós não éramos inimigos?::
-23849::$$$message_0209_0050_0000$$$::"...Desculpa. Eu não posso conversar com você agora.[l]::
+23849::$$$message_0209_0050_0000$$$::"...Desculpa. Eu não posso conversar com você agora.[lr]::
 23850::$$$message_0209_0050_0001$$$::Nós demos sorte de nos encontrar, mas eu não posso conversar contigo. Está ficando frio, você deveria ir para casa."::
 23851::$$$message_0209_0051_0000$$$::Eu me sento de volta no banco depois de pedir para a Illya ir para casa.[lr]::
 23852::$$$message_0209_0051_0001$$$::...há algumas coisas que eu preciso falar com ela, mas no momento estou ocupado demais com a Saber.::
@@ -160,12 +160,12 @@ id=qid::label=str::text=lstr::
 23856::$$$message_0209_0052_0003$$$::A Illya não diz nada e fica me encarando como se eu fosse um estranho.::
 23857::$$$message_0209_0053_0000$$$::"...Illya...? Não, eu não quis ser mau com você.[lr]::
 23858::$$$message_0209_0053_0001$$$::É só que eu estou bem ocupado agora, e[line2]"::
-23859::$$$message_0209_0054_0000$$$::"Eu sei. A Saber vai desaparecer, não é?[l]::
+23859::$$$message_0209_0054_0000$$$::"Eu sei. A Saber vai desaparecer, não é?[lr]::
 23860::$$$message_0209_0054_0001$$$::E você está pensando no que fazer."[lr]::
 23861::$$$message_0209_0054_0002$$$::De repente.[lr]::
 23862::$$$message_0209_0054_0003$$$::A menina que está na minha frente diz isso de forma fria, como se fosse outra pessoa.::
 23863::$$$message_0209_0055_0000$$$::"Illya, como que[line2]você sabe sobre isso?"[lr]::
-23864::$$$message_0209_0055_0001$$$::"Nem preciso te dizer, não é? Eu estava naquele prédio também.[l]::
+23864::$$$message_0209_0055_0001$$$::"Nem preciso te dizer, não é? Eu estava naquele prédio também.[lr]::
 23865::$$$message_0209_0055_0002$$$::Bem, eu só podia observar pela parte de dentro."::
 23866::$$$message_0209_0056_0000$$$::"[line2]!"[lr]::
 23867::$$$message_0209_0056_0001$$$::Eu tento mexer os meus braços e pernas, mas eles não saem do lugar.[lr]::

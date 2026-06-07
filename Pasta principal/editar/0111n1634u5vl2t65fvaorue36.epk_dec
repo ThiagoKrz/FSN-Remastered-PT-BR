@@ -1,109 +1,110 @@
 DAT
 id=qid::label=str::text=lstr::
-15008::$$$message_0140_0000_0000$$$::"[line2]!"[lr]::
-15009::$$$message_0140_0000_0001$$$::O barulho de vidro quebrando.[lr]::
-15010::$$$message_0140_0000_0002$$$::Eu estou ouvindo o barulho de pessoas lutando na sala.[lr]::
-15011::$$$message_0140_0000_0003$$$::"Shirou, quais são as suas ordens? Nós não temos tempo para ficar pensando."[lr]::
-15012::$$$message_0140_0000_0004$$$::Eu sei disso.[lr]::
-15013::$$$message_0140_0000_0005$$$::A situação só vai piorar se não fizermos alguma coisa logo.::
-15014::$$$message_0140_0001_0000$$$::"[line2]Vamos atrás da Caster. Eu confiei na Tohsaka para proteger a Illya."[lr]::
-15015::$$$message_0140_0001_0001$$$::"Então vamos. Mestre, proteja as minhas costas."::
-15016::$$$message_0140_0002_0000$$$::A Saber começa a correr e então derruba a horda de esqueletos.[lr]::
-15017::$$$message_0140_0002_0001$$$::Parece até um caminhão varrendo a neve.[lr]::
-15018::$$$message_0140_0002_0002$$$::Os esqueletos guerreiros desaparecem antes mesmo de conseguirem encostar nela.[lr]::
-15019::$$$message_0140_0002_0003$$$::Será que eles são tão frágeis quanto flocos de neve?[lr]::
-15020::$$$message_0140_0003_0000$$$::Tem tantos ossos espalhados pelo caminho que eu até estou me sentindo numa nevasca.::
-15021::$$$message_0140_0003_0001$$$::"[line2]Hah."[lr]::
-15022::$$$message_0140_0003_0002$$$::A Saber me pediu para cuidar das costas dela, mas desse jeito eu nem preciso protegê-la.[lr]::
-15023::$$$message_0140_0004_0000$$$::Mais uma vez, a Saber me faz perceber o quanto ela é boa com espadas.::
-15024::$$$message_0140_0004_0001$$$::Ela ataca sem pensar duas vezes.[lr]::
-15025::$$$message_0140_0004_0002$$$::Para alcançar a origem de todos esses esqueletos.[lr]::
-15026::$$$message_0140_0005_0000$$$::Para derrotar o sexto Servo ainda desconhecido que invadiu essa casa.::
-15027::$$$message_0140_0005_0001$$$::A Saber para.[lr]::
-15028::$$$message_0140_0005_0002$$$::Nós já deixamos a horda de esqueletos para trás.[lr]::
-15029::$$$message_0140_0005_0003$$$::Tem alguém parado na nossa frente. Parece que alcançamos o nosso destino.[lr]::
-15030::$$$message_0140_0005_0004$$$::Uma imagem distorcida.[lr]::
-15031::$$$message_0140_0006_0000$$$::Essa pessoa está usando algum tipo de manto para se esconder, como se deixasse o local manchado de preto.::
-15032::$$$message_0140_0006_0001$$$::...Uma sombra escura.[lr]::
-15033::$$$message_0140_0007_0000$$$::Eu sinto um desconforto estranho assim que olho para ela.::
-15034::$$$message_0140_0008_0000$$$::"Então, você é a Saber? ...Entendo. Agora eu sei como você foi capaz de derrotar o Berserker. O meu exército nem conseguiu te atrasar."::
-15035::$$$message_0140_0008_0001$$$::Ela dá uma pequena risada.[lr]::
-15036::$$$message_0140_0008_0002$$$::Pelo visto, é essa pessoa vestida de preto quem estava controlando os esqueletos... o Servo Caster.[lr]::
-15037::$$$message_0140_0009_0000$$$::Mas[line2]::
-15038::$$$message_0140_0009_0001$$$::"Sem um Mestre...?"[lr]::
-15039::$$$message_0140_0009_0002$$$::Eu não estou vendo ninguém perto dela que se pareça com um Mestre.[lr]::
-15040::$$$message_0140_0010_0000$$$::Será que a Caster é como o Lancer, que só ataca quando está longe do seu Mestre...?::
-15041::$$$message_0140_0010_0001$$$::"[line2]Sua maldita. Você desfez o seu contrato?"[lr]::
-15042::$$$message_0140_0010_0002$$$::A Saber pergunta com desgosto.[lr]::
-15043::$$$message_0140_0010_0003$$$::"Sim. Ele não era um Mestre bom o bastante para mim, então eu fiz com que ele sumisse."[lr]::
-15044::$$$message_0140_0010_0004$$$::Eu não sei que tipo de rosto que a pessoa por trás do manto negro está fazendo.[lr]::
-15045::$$$message_0140_0011_0000$$$::Mas a Caster respondeu com uma voz séria.::
-15046::$$$message_0140_0011_0001$$$::"Assassina de Mestres[line2]então, o seu Mestre está..."[lr]::
-15047::$$$message_0140_0011_0002$$$::"Ele está morto. Mas não tem nenhum problema nisso, Saber.[lr]::
-15048::$$$message_0140_0011_0003$$$::Nós somos devoradoras de almas, não é mesmo? Temos uma abundância de energia mágica ao nosso redor.[lr]::
-15049::$$$message_0140_0012_0000$$$::Sim, tudo o que me interessa é que[line2]se eu conseguir o Santo Graal, não vou ter mais com o que me preocupar."::
-15050::$$$message_0140_0012_0001$$$::"...Então você quer reviver nesse mundo? Eu não sei que tipo de espírito heroico você é, mas está mesmo disposta a jogar o seu orgulho fora só para conseguir isso?"[lr]::
-15051::$$$message_0140_0012_0002$$$::"Ah. Então você acha que trabalhar para humanos não é uma forma de jogar o seu orgulho fora?[lr]::
-15052::$$$message_0140_0013_0000$$$::Eu não consegui aguentar mais. Eu não quero servir a ninguém. Tudo o que quero é ser o usuário. Você não tem o direito de me criticar."::
-15053::$$$message_0140_0013_0001$$$::"[line2]Foi o que pensei. Eu também não tenho nenhum interesse nos seus atos doentios."[lr]::
-15054::$$$message_0140_0013_0002$$$::A Saber inclina um pouco o seu corpo.[lr]::
-15055::$$$message_0140_0013_0003$$$::[line2]Ela só está a dez metros de distância da Caster.[lr]::
-15056::$$$message_0140_0014_0000$$$::A Saber deve conseguir chegar perto da Caster e cortá-la em um piscar de olhos.::
-15057::$$$message_0140_0014_0001$$$::"Quanta violência. Eu vim até aqui para conversar, mas parece que você não quer falar comigo. Eu só estava tentando ser gentil, sabia?"[lr]::
-15058::$$$message_0140_0015_0000$$$::"Eu não tenho nada a falar para você. Aceite a sua morte com dignidade."::
-15059::$$$message_0140_0015_0001$$$::A Saber tem a intenção de matar a Caster.[lr]::
-15060::$$$message_0140_0015_0002$$$::...Eu não vou impedi-la.[lr]::
-15061::$$$message_0140_0015_0003$$$::Eu não consigo parar de sentir o cheiro de sangue vindo da Caster.[lr]::
-15062::$$$message_0140_0015_0004$$$::Aposto que ela estava falando a verdade sobre ter matado o seu próprio Mestre.[lr]::
-15063::$$$message_0140_0016_0000$$$::Ela invadiu essa casa com a intenção de matar a todos que estavam aqui dentro.::
-15064::$$$message_0140_0016_0001$$$::"......"[lr]::
-15065::$$$message_0140_0016_0002$$$::Por isso, eu não tenho nenhum motivo para impedir a Saber.[lr]::
-15066::$$$message_0140_0016_0003$$$::A Caster nunca teve chance contra a Saber para início de conversa.[lr]::
-15067::$$$message_0140_0016_0004$$$::Eu posso sentir o nível de habilidade da Caster.[lr]::
-15068::$$$message_0140_0016_0005$$$::Ela é a mais fraca de todas em um combate corpo-a-corpo.[lr]::
-15069::$$$message_0140_0017_0000$$$::Nesse momento, a Caster não tem outra escolha a não ser morrer para a Saber.::
-15070::$$$message_0140_0017_0001$$$::"...Não faça isso, Saber."[lr]::
-15071::$$$message_0140_0017_0002$$$::Mas mesmo assim, eu não consigo me livrar desse desconforto estranho.[lr]::
-15072::$$$message_0140_0017_0003$$$::Essa não é a mesma premonição de morte certa que eu senti durante a luta contra o Berserker.[lr]::
-15073::$$$message_0140_0017_0004$$$::Isso deve ser algum instinto natural de repulsão ou então um alerta de que alguma coisa ruim vai acontecer.[lr]::
-15074::$$$message_0140_0018_0000$$$::A minha mão esquerda está pulsando bastante, como se quisesse me avisar que a Saber não deveria chegar perto daquela coisa[line2]::
-15075::$$$message_0140_0018_0001$$$::"...!"[lr]::
-15076::$$$message_0140_0018_0002$$$::Eu fiquei pensando por tempo demais.[lr]::
-15077::$$$message_0140_0019_0000$$$::A Saber pula e corre na direção da sombra escura.::
-15078::$$$message_0140_0019_0001$$$::A sombra distorcida dá um sorriso.[lr]::
-15079::$$$message_0140_0019_0002$$$::A Caster não parece estar com medo da Saber se aproximar dela.[lr]::
-15080::$$$message_0140_0019_0003$$$::"[line2][atlas][line2]"[lr]::
-15081::$$$message_0140_0019_0004$$$::A Caster pronuncia algo em uma linguagem que eu não consigo entender, e então encanta uma coisa que afeta o cérebro mais do que as próprias palavras.::
-15082::$$$message_0140_0020_0000$$$::Na mesma hora, o mundo fica deformado.[lr]::
-15083::$$$message_0140_0020_0001$$$::Ou melhor, a densidade do ar mudou ao redor da Saber.[lr]::
-15084::$$$message_0140_0020_0002$$$::"Quê[line2]!"[lr]::
-15085::$$$message_0140_0020_0003$$$::Um impacto gigantesco.[lr]::
-15086::$$$message_0140_0020_0004$$$::O chão afunda. Parece que alguma coisa enorme caiu em cima da Saber.::
-15087::$$$message_0140_0021_0000$$$::"Não é possível[line2]ela lançou um encantamento sem fazer nenhuma ação[line2]!?"[lr]::
-15088::$$$message_0140_0021_0001$$$::Não, eu ouvi um sussurro que se parecia com um encantamento.[lr]::
-15089::$$$message_0140_0021_0002$$$::É verdade que os encantamentos podem ser simplificados. Quanto mais fácil for a magia, mais o encantamento pode ser simplificado para alterar a si mesmo.::
-15090::$$$message_0140_0022_0000$$$::Mas o que eu acabei de ver foi uma magia poderosa.[lr]::
-15091::$$$message_0140_0022_0001$$$::Nenhum mago consegue expressar tudo isso só com uma palavra.[lr]::
-15092::$$$message_0140_0022_0002$$$::E mesmo que isso seja possível, seria necessário ter um catalisador preparado com antecedência, assim como a Tohsaka costuma fazer.::
-15093::$$$message_0140_0023_0000$$$::Mas mesmo assim, a Caster conseguiu executar uma magia poderosa só com um sussurro.[lr]::
-15094::$$$message_0140_0023_0001$$$::...Ela não está apenas em um nível diferente.[lr]::
-15095::$$$message_0140_0023_0002$$$::Se essa é a magia da Caster, ela está além de qualquer mago[line2]::
-15096::$$$message_0140_0024_0000$$$::"Saber...!"[lr]::
-15097::$$$message_0140_0024_0001$$$::A Saber está parada no mesmo lugar.[lr]::
-15098::$$$message_0140_0024_0002$$$::A sua perna congelou assim que ela tinha saído do chão.[lr]::
-15099::$$$message_0140_0024_0003$$$::Agora ela está presa nesse espaço.[lr]::
-15100::$$$message_0140_0024_0004$$$::Ou melhor, o ar em volta dela se transformou em uma espécie de gelatina transparente.::
-15101::$$$message_0140_0025_0000$$$::"[line2]!"[lr]::
-15102::$$$message_0140_0025_0001$$$::Mesmo se tentar chegar perto dela, eu sou empurrado de volta por uma espécie de parede invisível.[lr]::
-15103::$$$message_0140_0025_0002$$$::Parece que essa coisa só está em volta da Saber, mas contanto que os seus pés não estejam encostados no chão, ela não consegue se mexer.::
-15104::$$$message_0140_0026_0000$$$::"Acho que você não me levou a sério, Saber. Eu não sei o quão poderosos eram os magos da sua época, mas eu estive viva na era dos deuses.[lr]::
-15105::$$$message_0140_0026_0001$$$::A minha magia deve parecer feitiçaria para os magos de hoje em dia."::
-15106::$$$message_0140_0027_0000$$$::Eu estou ouvindo uma risada vindo do manto preto.[lr]::
-15107::$$$message_0140_0027_0001$$$::A Saber ainda está presa nesse espaço.::
-15108::$$$message_0140_0028_0000$$$::"[line2]Ah. Então isso é tudo que você pode fazer, Caster?"::
-15109::$$$message_0140_0029_0000$$$::Ela diz essas palavras.::
-15110::$$$message_0140_0030_0000$$$::"Resistência mágica...!? Não é possível! Ela consegue repelir até mesmo a minha magia[line2]!?"[lr]::
-15111::$$$message_0140_0030_0001$$$::O manto preto se afasta.[lr]::
-15112::$$$message_0140_0030_0002$$$::Depois de anular a magia da Caster em um piscar de olhos, a Saber corre na velocidade da luz.::
-15113::$$$message_0140_0031_0000$$$::"[line5]"[lr]::
-15114::$$$message_0140_0031_0001$$$::But I...[lr]6n� 
+15008::$$$message_0140_0000_0000$$$::"Argh!"[lr]::
+15009::$$$message_0140_0000_0001$$$::Ouço vidro se estilhaçando.[lr]::
+15010::$$$message_0140_0000_0002$$$::Ouço o som de uma luta intensa vindo da sala.[lr]::
+15011::$$$message_0140_0000_0003$$$::"Shirou, suas ordens, por favor. Não há tempo para hesitar."[lr]::
+15012::$$$message_0140_0000_0004$$$::[font italic=true]Eu sei.[font italic=false][lr]::
+15013::$$$message_0140_0000_0005$$$::Se eu continuar hesitando, só vou piorar a situação.::
+15014::$$$message_0140_0001_0000$$$::"Vamos atrás da Caster. Eu já disse para a Tohsaka cuidar da Illya."[lr]::
+15015::$$$message_0140_0001_0001$$$::"Então vamos, Mestre. Confiarei minhas costas a você."::
+15016::$$$message_0140_0002_0000$$$::A Saber corre pelo corredor, abrindo caminho em meio aos ossos.[lr]::
+15017::$$$message_0140_0002_0001$$$::Os soldados de ossos desaparecem antes mesmo de chegar perto da Saber.[lr]::
+15018::$$$message_0140_0002_0002$$$::São como flocos de neve se desfazendo.[lr]::
+15019::$$$message_0140_0002_0003$$$::A Saber espalha tantos pelo caminho que mais parece uma nevasca.::
+15020::$$$message_0140_0003_0000$$$::"...Hah..."[lr]::
+15021::$$$message_0140_0003_0001$$$::Ela disse que confiaria as costas a mim, mas está bem claro que não precisa que eu a proteja.[lr]::
+15022::$$$message_0140_0003_0002$$$::Mais uma vez, percebo o quão habilidosa a Saber é com a espada.::
+15023::$$$message_0140_0004_0000$$$::A Saber avança por entre eles sem vacilar.[lr]::
+15024::$$$message_0140_0004_0001$$$::Ela abre caminho direto até a origem desses ossos.[lr]::
+15025::$$$message_0140_0004_0002$$$::Seu único objetivo agora é derrotar o sexto Servo, ainda não visto, que invadiu a casa.::
+15026::$$$message_0140_0005_0000$$$::A Saber para.[lr]::
+15027::$$$message_0140_0005_0001$$$::Os soldados que vinham aos montes de repente desapareceram.[lr]::
+15028::$$$message_0140_0005_0002$$$::Este deve ser o nosso destino.[lr]::
+15029::$$$message_0140_0005_0003$$$::Uma figura humana distorcida se ergue à nossa frente.[lr]::
+15030::$$$message_0140_0005_0004$$$::Usa algum tipo de manto, mas o próprio tecido é tão escuro que mais parece um buraco aberto na noite.::
+15031::$$$message_0140_0006_0000$$$::...Uma sombra escura.[lr]::
+15032::$$$message_0140_0006_0001$$$::Assim que ponho os olhos naquela figura, sou tomado por uma ansiedade indescritível.::
+15033::$$$message_0140_0007_0000$$$::"Então você é a Saber? Ah, sim. É claro que seria capaz de derrotar o Berserker. Nesse caso, meus soldados não serviriam para detê-la."::
+15034::$$$message_0140_0008_0000$$$::A figura solta uma risadinha.[lr]::
+15035::$$$message_0140_0008_0001$$$::Ao que parece, aquela figura sombria é a responsável por aquelas criaturas de ossos... Caster.[lr]::
+15036::$$$message_0140_0008_0002$$$::Mas...::
+15037::$$$message_0140_0009_0000$$$::"Não há Mestre..."[lr]::
+15038::$$$message_0140_0009_0001$$$::Não há sinal de um Mestre por perto.[lr]::
+15039::$$$message_0140_0009_0002$$$::Talvez ela seja como o Lancer... capaz de agir mesmo longe do próprio Mestre.::
+15040::$$$message_0140_0010_0000$$$::"Você... Seu contrato foi desfeito?"[lr]::
+15041::$$$message_0140_0010_0001$$$::A Saber a confronta diretamente com a pergunta.[lr]::
+15042::$$$message_0140_0010_0002$$$::"Sim. Aquele... homem não era digno de ser meu Mestre. Por isso eu me livrei dele. Já não existe mais."[lr]::
+15043::$$$message_0140_0010_0003$$$::Não consigo ver a expressão no rosto sob o manto negro.[lr]::
+15044::$$$message_0140_0010_0004$$$::Mas consigo ouvir a terrível frieza na voz da Caster.::
+15045::$$$message_0140_0011_0000$$$::"Assassina de Mestres... então o seu Mestre..."[lr]::
+15046::$$$message_0140_0011_0001$$$::"Ele já está morto há muito tempo. Mas isso não é um problema para mim, Saber.[lr]::
+15047::$$$message_0140_0011_0002$$$::Nós, Servos, somos devoradores de almas. Estamos cercados por fontes de Energia Mágica por todos os lados.[lr]::
+15048::$$$message_0140_0011_0003$$$::Só resta... ora, simplesmente obter o Santo Graal. Então não haverá mais nada com que se preocupar."::
+15049::$$$message_0140_0012_0000$$$::"Então você também deseja viver neste mundo? Não sei que tipo de Espírito Heroico você é, mas abandonou seu orgulho por causa disso?"[lr]::
+15050::$$$message_0140_0012_0001$$$::"Ora. E você não diria que se deixar usar como ferramenta pelos humanos também é jogar o próprio orgulho fora?[lr]::
+15051::$$$message_0140_0012_0002$$$::Eu nunca suportaria isso, nem antes nem agora. Cansei de agir para o benefício de outros. Prefiro ser eu a puxar as cordas. Você não tem o direito de me criticar."::
+15052::$$$message_0140_0013_0000$$$::"Era o que eu imaginava, mas seus atos vis não me dizem respeito."[lr]::
+15053::$$$message_0140_0013_0001$$$::A Saber inclina o corpo só um pouco.[lr]::
+15054::$$$message_0140_0013_0002$$$::Ela está a apenas cerca de dez metros da Caster.[lr]::
+15055::$$$message_0140_0013_0003$$$::A Saber deve ser capaz de encurtar essa distância e derrubar Caster num instante.::
+15056::$$$message_0140_0014_0000$$$::"Como você é cruel. Eu vim aqui apenas para conversar, mas nem isso vai me conceder? Saiba que fui bastante gentil até agora."[lr]::
+15057::$$$message_0140_0014_0001$$$::"Não há nada para discutirmos. Você morrerá aqui."::
+15058::$$$message_0140_0015_0000$$$::A Saber está decidida apenas a matar.[lr]::
+15059::$$$message_0140_0015_0001$$$::...E eu não vou me opor a ela desta vez.[lr]::
+15060::$$$message_0140_0015_0002$$$::Tudo o que sinto vindo da Caster é cheiro de sangue.[lr]::
+15061::$$$message_0140_0015_0003$$$::Ela deve estar dizendo a verdade sobre ter assassinado o próprio Mestre.[lr]::
+15062::$$$message_0140_0015_0004$$$::O ataque desta noite claramente tinha o objetivo de matar todos nesta casa.::
+15063::$$$message_0140_0016_0000$$$::"..."[lr]::
+15064::$$$message_0140_0016_0001$$$::Então não há motivo para eu impedir a Saber.[lr]::
+15065::$$$message_0140_0016_0002$$$::Além disso, Caster sequer representa uma ameaça para a Saber.[lr]::
+15066::$$$message_0140_0016_0003$$$::Até eu consigo avaliar as habilidades da Caster.[lr]::
+15067::$$$message_0140_0016_0004$$$::Em combate individual, ela é a mais fraca de todas.[lr]::
+15068::$$$message_0140_0016_0005$$$::Se enfrentar a Saber, ela só pode perder.::
+15069::$$$message_0140_0017_0000$$$::"...Não faça isso, Saber."[lr]::
+15070::$$$message_0140_0017_0001$$$::Mesmo pensando tudo isso, não consigo me livrar dessa sensação de ansiedade.[lr]::
+15071::$$$message_0140_0017_0002$$$::Não é a mesma sensação de morte certa e inevitável que eu sentia diante do Berserker.[lr]::
+15072::$$$message_0140_0017_0003$$$::É só uma repulsa instintiva a ela ou um aviso de que algo perigoso vai acontecer?[lr]::
+15073::$$$message_0140_0017_0004$$$::Esqueça a mim... por algum motivo, minha mão esquerda pulsa como se tentasse me avisar de que a Saber deve ficar longe daquela coisa.::
+15074::$$$message_0140_0018_0000$$$::"Gh[line2]!?"[lr]::
+15075::$$$message_0140_0018_0001$$$::Hesitei por tempo demais.[lr]::
+15076::$$$message_0140_0018_0002$$$::A Saber se lança contra a sombra escura.::
+15077::$$$message_0140_0019_0000$$$::Caster sorri.[lr]::
+15078::$$$message_0140_0019_0001$$$::Ela não parece nem um pouco abalada com a aproximação da Saber.[lr]::
+15079::$$$message_0140_0019_0002$$$::"[atlas]."[lr]::
+15080::$$$message_0140_0019_0003$$$::Ela murmura: "Atlas."[lr]::
+15081::$$$message_0140_0019_0004$$$::Não entendo o que ela diz, mas aquilo envia algo além de palavras direto para nossas mentes.::
+15082::$$$message_0140_0020_0000$$$::O mundo cambaleia e se distorce.[lr]::
+15083::$$$message_0140_0020_0001$$$::O ar ao redor da Saber fica mais denso.[lr]::
+15084::$$$message_0140_0020_0002$$$::"O quê...!?"[lr]::
+15085::$$$message_0140_0020_0003$$$::Ouço... e até sinto um impacto tremendo.[lr]::
+15086::$$$message_0140_0020_0004$$$::O chão cede como se algo gigantesco tivesse despencado sobre a Saber de cima.::
+15087::$$$message_0140_0021_0000$$$::"Não é possível... ela ativou algum tipo de Magia sem mover um músculo sequer!?"[lr]::
+15088::$$$message_0140_0021_0001$$$::Na verdade, acho que ela murmurou algo parecido com um encantamento...[lr]::
+15089::$$$message_0140_0021_0002$$$::Encantamentos podem ser encurtados. Quanto mais simples a Magia, mais curta a fórmula pode ser.::
+15090::$$$message_0140_0022_0000$$$::Mas isso não é, de [font italic=true]forma alguma[font italic=false], uma Magia simples.[lr]::
+15091::$$$message_0140_0022_0001$$$::Poucos magos conseguiriam visualizar algo assim em um único fôlego.[lr]::
+15092::$$$message_0140_0022_0002$$$::Mesmo que isso fosse possível, ainda seria preciso preparar um catalisador de antemão, como a Tohsaka faz.::
+15093::$$$message_0140_0023_0000$$$::Mas Caster ativou a Magia com uma única palavra murmurada.[lr]::
+15094::$$$message_0140_0023_0001$$$::Nunca sequer ouvi falar de algo assim.[lr]::
+15095::$$$message_0140_0023_0002$$$::Se isso é a Magia da Caster, então ela não é uma simples maga.::
+15096::$$$message_0140_0024_0000$$$::"Saber!!!"[lr]::
+15097::$$$message_0140_0024_0001$$$::A Saber permanece ali, imóvel.[lr]::
+15098::$$$message_0140_0024_0002$$$::Os pés dela ainda se debatem no ar.[lr]::
+15099::$$$message_0140_0024_0003$$$::Ela está ali, suspensa no espaço.[lr]::
+15100::$$$message_0140_0024_0004$$$::O ar ao redor dela parece ter engrossado, como se virasse gelatina.::
+15101::$$$message_0140_0025_0000$$$::"Gh[line2]!?"[lr]::
+15102::$$$message_0140_0025_0001$$$::Não consigo me aproximar. Algum tipo de barreira invisível me repele.[lr]::
+15103::$$$message_0140_0025_0002$$$::Essa viscosidade parece limitada à Saber, mas, enquanto os pés dela não tocarem o chão, ela não consegue se mover.::
+15104::$$$message_0140_0026_0000$$$::"Você me subestimou, Saber. Não sei como eram os magos da sua época, mas eu vivi na Era dos Deuses.[lr]::
+15105::$$$message_0140_0026_0001$$$::Para os magos modernos, o que eu faço deve parecer Magia Verdadeira."::
+15106::$$$message_0140_0027_0000$$$::Uma risada zombeteira ecoa das profundezas daquele manto negro.[lr]::
+15107::$$$message_0140_0027_0001$$$::A Saber continua suspensa no ar, impotente.::
+15108::$$$message_0140_0028_0000$$$::"Oh? Então é só isso de que você é capaz, Caster?"::
+15109::$$$message_0140_0029_0000$$$::Ela descarta aquilo como se fosse um truque sem graça.::
+15110::$$$message_0140_0030_0000$$$::"Resistência Mágica!? Repele até a minha Magia!?"[lr]::
+15111::$$$message_0140_0030_0001$$$::Caster recua.[lr]::
+15112::$$$message_0140_0030_0002$$$::Depois de anular casualmente a Magia da Caster, Saber avança contra ela à velocidade de um raio.::
+15113::$$$message_0140_0031_0000$$$::[font italic=true]...[font italic=false][lr]::
+15114::$$$message_0140_0031_0001$$$::Mas eu...[lr]::
+

@@ -128,7 +128,7 @@ id=qid::label=str::text=lstr::
 10724::$$$message_0108_0032_0002$$$::"...Diga. Que tipo de Servo é você?"[lr]::
 10725::$$$message_0108_0032_0003$$$::Saber pergunta sem esperar resposta alguma.::
 10726::$$$message_0108_0033_0000$$$::Então, depois de um sorriso torto.::
-10727::$$$message_0108_0034_0000$$$::"　　[line4]Servo da classe Assassin, Sasaki Kojirou"::
+10727::$$$message_0108_0034_0000$$$::"[line4]Servo da classe Assassin, Sasaki Kojirou"::
 10728::$$$message_0108_0035_0000$$$::O Servo respondeu como se estivesse cantando.::
 10729::$$$message_0108_0036_0000$$$::"O quê...[line4]"[lr]::
 10730::$$$message_0108_0036_0001$$$::Não era de se estranhar que Saber se surpreendesse.[lr]::
@@ -155,7 +155,7 @@ id=qid::label=str::text=lstr::
 10751::$$$message_0108_0042_0003$$$::[line3]Mas isso existe apenas em nome da vitória.[lr]::
 10752::$$$message_0108_0042_0004$$$::Manchar sua honra de cavaleira por algo assim seria simplesmente impossível para ela.::
 10753::$$$message_0108_0043_0000$$$::"Você disse Kojirou.[lr]::
-10754::$$$message_0108_0043_0001$$$::　[line4]Servo da classe Assassin, eu sou"[lr]::
+10754::$$$message_0108_0043_0001$$$::[line4]Servo da classe Assassin, eu sou"[lr]::
 10755::$$$message_0108_0043_0002$$$::"Basta. Então você é do tipo que se vê obrigada a se apresentar em resposta quando o outro o faz primeiro.[lr]::
 10756::$$$message_0108_0043_0003$$$::Não, fui eu quem agiu sem elegância."[lr]::
 10757::$$$message_0108_0043_0004$$$::Toc.[lr]::
@@ -173,8 +173,8 @@ id=qid::label=str::text=lstr::
 10769::$$$message_0108_0047_0000$$$::"[line3]Entendo. Sim, de fato, é exatamente isso."[lr]::
 10770::$$$message_0108_0047_0001$$$::Ao responder, Saber firma ainda mais a guarda com a espada.::
 10771::$$$message_0108_0048_0000$$$::"Assim está melhor.[lr]::
-10772::$$$message_0108_0048_0001$$$::　[line3]Então, travemos nosso duelo, Saber.[lr]::
-10773::$$$message_0108_0048_0002$$$::　Essa técnica de espada, dita a maior entre todos os Servos... permita-me vê-la com meus próprios olhos.[line4]"::
-10774::$$$message_0108_0049_0000$$$::　[se volume=50 storage=se111]Um clarão prateado salta.[se volume=50 storage=se112][lr]::
-10775::$$$message_0108_0049_0001$$$::　Força e suavidade.[lr]::
-10776::$$$message_0108_0049_0002$$$::　Sob o luar, teve início o combate entre dois espadachins tão radicalmente distintos.::
+10772::$$$message_0108_0048_0001$$$::[line3]Então, travemos nosso duelo, Saber.[lr]::
+10773::$$$message_0108_0048_0002$$$::Essa técnica de espada, dita a maior entre todos os Servos... permita-me vê-la com meus próprios olhos.[line4]"::
+10774::$$$message_0108_0049_0000$$$::[se volume=50 storage=se111]Um clarão prateado salta.[se volume=50 storage=se112][lr]::
+10775::$$$message_0108_0049_0001$$$::Força e suavidade.[lr]::
+10776::$$$message_0108_0049_0002$$$::Sob o luar, teve início o combate entre dois espadachins tão radicalmente distintos.::
