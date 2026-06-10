@@ -3,90 +3,92 @@ id=qid::label=str::text=lstr::
 15194::$$$message_0142_0000_0000$$$::"O que foi? Você está sem fome, Illyasviel?[lr]::
 15195::$$$message_0142_0000_0001$$$::Você comeu menos de um terço do que ontem."[lr]::
 15196::$$$message_0142_0000_0002$$$::"Não, é que eu não consigo comer isso. Não gosto de comida apimentada."[lr]::
-15197::$$$message_0142_0000_0003$$$::"...Hmm. Eu não acho que está tão apimentado assim. Essa pimenta fica muito boa com frango."::
+15197::$$$message_0142_0000_0003$$$::"...Hmm. Eu não acho que esteja tão apimentado assim. Os temperos combinam muito bem com o frango."::
 15198::$$$message_0142_0001_0000$$$::"Eu não gosto de mostarda. Pode comer isso por mim! Em troca, eu vou ficar com os seus morangos."[lr]::
 15199::$$$message_0142_0001_0001$$$::"...! O-O que você está fazendo, Illyasviel!?[lr]::
-15200::$$$message_0142_0001_0002$$$::Ei, devolve isso! Eu não te deixei pegar. Se você quer uma coisa doce, eu te dou a minha torta de maçã!"::
+15200::$$$message_0142_0001_0002$$$::Ei, devolva isso agora! Você não pode pegar isso! Se quer alguma coisa doce, tem torta de maçã!"::
 15201::$$$message_0142_0002_0000$$$::"......"[lr]::
 15202::$$$message_0142_0002_0001$$$::Sentadas uma do lado da outra, essas duas estão brigando como se fossem irmãs próximas.[lr]::
 15203::$$$message_0142_0002_0002$$$::Já passou do meio-dia.[lr]::
-15204::$$$message_0142_0002_0003$$$::Nós três estamos almoçando do mesmo jeito que ontem.::
+15204::$$$message_0142_0002_0003$$$::Nós três estamos sentados frente a frente, almoçando juntos, do mesmo jeito que ontem.::
 15205::$$$message_0142_0003_0000$$$::...Aliás, não é só o almoço que está parecido com ontem.[lr]::
 15206::$$$message_0142_0003_0001$$$::O treinamento que tivemos mais cedo também foi igual.::
 15207::$$$message_0142_0004_0000$$$::Na verdade, o treinamento de hoje foi mais estranho.[lr]::
-15208::$$$message_0142_0004_0001$$$::...Eu não sei como explicar isso direito, mas o meu coração começa a acelerar quando eu olho para a Saber, e agora eu não consigo mais atacá-la para valer.::
-15209::$$$message_0142_0005_0000$$$::A Saber também está estranha, já que ela nunca se descuidava com aberturas, mas agora está me esperando atacar. Teve até um momento em que nós só ficamos encarando um ao outro.::
+15208::$$$message_0142_0004_0001$$$::...Eu não sei explicar direito, mas alguma coisa se agita no meu peito sempre que eu fico diante da Saber, e agora já não consigo avançar contra ela com o mesmo desespero de antes.::
+15209::$$$message_0142_0005_0000$$$::E não sou só eu. A Saber também está estranha. Antes, ela nunca deixava uma abertura passar, mas, nos últimos dias, tem apenas esperado que eu faça o primeiro movimento, e isso acaba fazendo nós dois ficarmos nos encarando por um tempo.::
 15210::$$$message_0142_0006_0000$$$::"O que deu em vocês? Não tem graça se ninguém fizer nada."[lr]::
-15211::$$$message_0142_0006_0001$$$::Depois disso, eu fiquei motivado a atacar a Saber, mas o resultado foi o mesmo de sempre.::
-15212::$$$message_0142_0007_0000$$$::Depois de repelir o meu ataque medíocre, ela não aproveitou para contra-atacar e me deixou escapar ileso.[lr]::
-15213::$$$message_0142_0007_0001$$$::Já que eu não estava sendo atacado, resolvi ir para cima da Saber de novo e de novo, mas ela sempre deixava passar a chance de me contra-atacar.[lr]::
-15214::$$$message_0142_0007_0002$$$::Esse momento estranho terminou há mais ou menos dez minutos atrás.::
+15211::$$$message_0142_0006_0001$$$::A crítica da Illya serviu para nos fazer voltar ao ritmo. Consegui partir para cima da Saber, mas acabou dando quase no mesmo.::
+15212::$$$message_0142_0007_0000$$$::Ela rebateu o meu ataque meia-boca, mas nem se deu ao trabalho de contra-atacar.[lr]::
+15213::$$$message_0142_0007_0001$$$::Como ela não dava sequência, eu girava, avançava contra a Saber outra vez e era repelido de novo, e, ainda assim, ela não contra-atacava.[lr]::
+15214::$$$message_0142_0007_0002$$$::Nossa sessão sem brilho terminou há uns dez minutos.::
 15215::$$$message_0142_0008_0000$$$::A Saber pediu para fazermos uma pausa para o almoço, e aqui nós estamos agora.[lr]::
 15216::$$$message_0142_0008_0001$$$::O cardápio é o mesmo de ontem: sanduíche.[lr]::
 15217::$$$message_0142_0008_0002$$$::Mas eu resolvi mudar os ingredientes para não ficar repetitivo, e parece que elas adoraram.::
-15218::$$$message_0142_0009_0000$$$::A Illya está de bom humor, e a Saber prendeu a respiração depois de ver os sanduíches coloridos que eu preparei.[lr]::
-15219::$$$message_0142_0009_0001$$$::...Isso é só um palpite, mas eu acho que a Saber estava ansiosa por isso.::
+15218::$$$message_0142_0009_0000$$$::A Illya está animada com os sanduíches coloridos, e a Saber puxa o ar fundo, se preparando para a refeição.[lr]::
+15219::$$$message_0142_0009_0001$$$::...Acho que esse é o jeito da Saber de demonstrar empolgação.::
 15220::$$$message_0142_0010_0000$$$::Enfim, hoje está bem mais barulhento do que ontem.[lr]::
-15221::$$$message_0142_0010_0001$$$::Está chovendo lá fora e nós estamos sentados em madeira fria, mas acho que isso passa a sensação de estarmos um piquenique.::
-15222::$$$message_0142_0011_0000$$$::"Caramba, já está bom, Illyasviel.[lr]::
-15223::$$$message_0142_0011_0001$$$::Assim as suas roupas vão ficar todas sujas. Você está imitando o Shirou e tentando comer tudo só com uma mordida. A sua boca é pequena, portanto você deveria comer mais devagar."::
-15224::$$$message_0142_0012_0000$$$::"Heh, você não sabe de nada mesmo. É falta de educação se preocupar com bons modos durante esse tipo de almoço.[lr]::
+15221::$$$message_0142_0010_0001$$$::Está chovendo lá fora e o assoalho de madeira está frio, mas, ainda assim, isso passa a sensação de um piquenique.::
+15222::$$$message_0142_0011_0000$$$::"Ora, já chega, Illyasviel.[lr]::
+15223::$$$message_0142_0011_0001$$$::Se comer desse jeito, vai sujar toda a sua roupa. Honestamente, é isso que acontece quando você imita o Shirou e tenta comer tudo de uma vez. A sua boca é pequena, então deveria comer com mais delicadeza."::
+15224::$$$message_0142_0012_0000$$$::"Hmph! Quem não entende é você, Saber. É até mais falta de educação se preocupar com boas maneiras num almoço assim.[lr]::
 15225::$$$message_0142_0012_0001$$$::Estamos em um piquenique, então não tem problema nenhum em agir assim, certo Shirou!?"::
 15226::$$$message_0142_0013_0000$$$::A Illya mastiga o sanduíche com alegria.[lr]::
-15227::$$$message_0142_0013_0001$$$::A Saber limpa a boca da Illya.::
-15228::$$$message_0142_0014_0000$$$::"Kya[line2]aha, isso faz cócegas, Saber."[lr]::
-15229::$$$message_0142_0014_0001$$$::"......"[lr]::
-15230::$$$message_0142_0014_0002$$$::...Eu estou meio surpreso.[lr]::
-15231::$$$message_0142_0014_0003$$$::A Saber e a Illya estão confiando uma na outra mais do que ontem.::
-15232::$$$message_0142_0015_0000$$$::"...Eu estou surpresa. Você não me odeia, Illyasviel?"::
+15227::$$$message_0142_0013_0001$$$::...E a Saber, relutantemente, limpa a boca da Illya com um guardanapo.::
+15228::$$$message_0142_0014_0000$$$::"Kya...! Haha, isso faz cócegas, Saber!"[lr]::
+15229::$$$message_0142_0014_0001$$$::"..."[lr]::
+15230::$$$message_0142_0014_0002$$$::Bem, eu não esperava por essa.[lr]::
+15231::$$$message_0142_0014_0003$$$::Parece que a Saber e a Illya se aproximaram uma da outra.::
+15232::$$$message_0142_0015_0000$$$::"...Isso é uma surpresa. Você não vai me afastar, Illyasviel?"::
 15233::$$$message_0142_0016_0000$$$::"Por quê? Eu gosto de ser tratada com carinho.[lr]::
-15234::$$$message_0142_0016_0001$$$::Sim, se mais alguém me tocar, eu mato essa pessoa. Mas eu vou te perdoar porque você é bonita.[lr]::
-15235::$$$message_0142_0016_0002$$$::E você me faz companhia durante o almoço. Se você gostar de mim, eu também vou gostar de você."[lr]::
-15236::$$$message_0142_0016_0003$$$::A Illya diz isso de um jeito bem simples.::
-15237::$$$message_0142_0017_0000$$$::"[line5]"[lr]::
-15238::$$$message_0142_0017_0001$$$::A Saber olha para a Illya com uma cara assustada.[lr]::
-15239::$$$message_0142_0017_0002$$$::O sorriso da Illya foi um ataque surpresa até para mim, que só estou observando de fora.::
+15234::$$$message_0142_0016_0001$$$::Sim, se qualquer outra pessoa tentasse me tocar, eu a mataria, mas a Saber é bonita, então eu deixo.[lr]::
+15235::$$$message_0142_0016_0002$$$::E nós estamos dividindo uma refeição agora. Se a Saber gosta de mim, eu também gosto dela."[lr]::
+15236::$$$message_0142_0016_0003$$$::É tão simples assim para a Illya.::
+15237::$$$message_0142_0017_0000$$$::[font italic=true]...[font italic=false][lr]::
+15238::$$$message_0142_0017_0001$$$::A Saber encara a Illya, claramente pega de surpresa, sem saber o que dizer.[lr]::
+15239::$$$message_0142_0017_0002$$$::Até eu, que só assisto a tudo de fora, sou pego de surpresa pelo sorriso da Illya.::
 15240::$$$message_0142_0018_0000$$$::"O que foi? Você não acha isso divertido, Saber?"[lr]::
-15241::$$$message_0142_0018_0001$$$::"Ah[line2]bem..."::
-15242::$$$message_0142_0019_0000$$$::"Eu estou me divertindo. Está chovendo lá fora, aqui é um lugar simples demais, e eu não tenho nenhuma das coisas que queria.[lr]::
-15243::$$$message_0142_0019_0001$$$::Mas mesmo assim é divertido estar aqui. É bem mais confortável do que ficar sozinha, não acha? Mas você não está se divertindo?"::
-15244::$$$message_0142_0020_0000$$$::"[line2]"[lr]::
-15245::$$$message_0142_0020_0001$$$::Ela deve ter percebido alguma coisa depois de ver o sorriso da Illya.[lr]::
-15246::$$$message_0142_0020_0002$$$::A Saber respira fundo e olha para a menina branca.::
-15247::$$$message_0142_0021_0000$$$::"[line2]É mesmo. Eu também acho divertido estar aqui."[lr]::
-15248::$$$message_0142_0021_0001$$$::Uma voz suave.[lr]::
+15241::$$$message_0142_0018_0001$$$::"Ah... não, eu... não..."::
+15242::$$$message_0142_0019_0000$$$::"Eu estou me divertindo muito. Está chovendo lá fora... este lugar é simples e sem graça... e não há nada aqui daquilo que eu sempre quis.[lr]::
+15243::$$$message_0142_0019_0001$$$::Mas só de estar aqui já é divertido. É muito melhor do que ficar sozinha. Você não acha? Você não está se divertindo, Saber?"::
+15244::$$$message_0142_0020_0000$$$::[font italic=true]...[font italic=false][lr]::
+15245::$$$message_0142_0020_0001$$$::Alguma coisa no sorriso da Illya deve ter tocado a Saber.[lr]::
+15246::$$$message_0142_0020_0002$$$::Saber solta um longo suspiro e volta a olhar para ela.::
+15247::$$$message_0142_0021_0000$$$::"É verdade. Eu também estou me divertindo aqui."[lr]::
+15248::$$$message_0142_0021_0001$$$::A voz dela soa... alegre.[lr]::
 15249::$$$message_0142_0021_0002$$$::Ela sorri de um jeito que eu nunca vi antes.::
-15250::$$$message_0142_0022_0000$$$::"[line5]"[lr]::
-15251::$$$message_0142_0022_0001$$$::Por algum motivo, o meu coração fica mais quente.[lr]::
+15250::$$$message_0142_0022_0000$$$::[font italic=true]...[font italic=false][lr]::
+15251::$$$message_0142_0022_0001$$$::Não sei por quê, mas isso me emociona.[lr]::
 15252::$$$message_0142_0022_0002$$$::Esse foi um bom sorriso.[lr]::
-15253::$$$message_0142_0022_0003$$$::Esse sorriso foi por ela mesma.[lr]::
-15254::$$$message_0142_0022_0004$$$::Ela não sorriu por estar protegendo alguém.[lr]::
-15255::$$$message_0142_0022_0005$$$::Mas sim porque ela mesma está feliz.::
+15253::$$$message_0142_0022_0003$$$::Foi um sorriso só dela, e para ela mesma.[lr]::
+15254::$$$message_0142_0022_0004$$$::Não é o sorriso de sempre, aquele que vejo quando ela está protegendo alguém.[lr]::
+15255::$$$message_0142_0022_0005$$$::É um sorriso de pura felicidade, dela e para ela.::
 15256::$$$message_0142_0023_0000$$$::"Shirou? Por que você está fazendo essa cara? Aconteceu alguma coisa boa?"[lr]::
 15257::$$$message_0142_0023_0001$$$::"Hã? Não, não é nada... espera, eu estava fazendo uma cara estranha?"::
-15258::$$$message_0142_0024_0000$$$::"Sim, você estava. Era como o rosto de um pai. Como se você estivesse vendo como nós crescemos.[lr]::
-15259::$$$message_0142_0024_0001$$$::Eu não gosto desse tipo de rosto."[lr]::
-15260::$$$message_0142_0024_0002$$$::"...?"[lr]::
+15258::$$$message_0142_0024_0000$$$::"Sim, estava. Você fez uma cara de pai[line2]como se estivesse nos observando de longe.[lr]::
+15259::$$$message_0142_0024_0001$$$::Eu não gosto disso."[lr]::
+15260::$$$message_0142_0024_0002$$$::"Hã? Por quê?"[lr]::
 15261::$$$message_0142_0024_0003$$$::Não sei do que ela está falando, mas isso significa que eu estava sorrindo?::
 15262::$$$message_0142_0025_0000$$$::"Entendo... bem, aconteceu uma coisa boa sim, então talvez eu tenha deixado um sorriso escapar."[lr]::
-15263::$$$message_0142_0025_0001$$$::"Sei... Uma coisa boa?"::
-15264::$$$message_0142_0026_0000$$$::"Isso mesmo. Eu gostei daquele tipo de sorriso que você deu agora há pouco. Só estava feliz por ter visto."[lr]::
+15263::$$$message_0142_0025_0001$$$::"Hm. Aconteceu alguma coisa boa, é?"::
+15264::$$$message_0142_0026_0000$$$::"Isso mesmo. Eu gostei do sorriso que você deu agora há pouco, Saber. Fiquei feliz só de ver."[lr]::
 15265::$$$message_0142_0026_0001$$$::"...Que estranho. Você gosta desse tipo de coisa?"::
-15266::$$$message_0142_0027_0000$$$::"Sim. Parece que eu gosto de ver você se expressar assim."[lr]::
-15267::$$$message_0142_0027_0001$$$::A Saber acena, ainda sem entender.::
-15268::$$$message_0142_0028_0000$$$::[line2]Então.[lr]::
-15269::$$$message_0142_0028_0001$$$::Ela parece ter percebido alguma coisa, e em seguida sorri e levanta a cabeça.::
+15266::$$$message_0142_0027_0000$$$::"Sim. Acho que gosto de ver você sorrir assim, Saber."[lr]::
+15267::$$$message_0142_0027_0001$$$::A Saber assente, embora ainda não pareça convencida.::
+15268::$$$message_0142_0028_0000$$$::E então...[lr]::
+15269::$$$message_0142_0028_0001$$$::Não sei o que deu nela, mas então ela sorri e ergue o rosto.::
 15270::$$$message_0142_0029_0000$$$::"Entendi. Então é o contrário, Shirou."[lr]::
 15271::$$$message_0142_0029_0001$$$::"...? Como assim o contrário?"[lr]::
-15272::$$$message_0142_0029_0002$$$::"Eu fico mais feliz quando você está sorrindo. Já vou ficar satisfeita se você puder sorrir mais vezes."::
-15273::$$$message_0142_0030_0000$$$::"[line5]"[lr]::
-15274::$$$message_0142_0030_0001$$$::Eu não consigo olhar para dela.[lr]::
-15275::$$$message_0142_0030_0002$$$::Aposto que qualquer um ficaria envergonhado se recebesse um sorriso desses.::
-15276::$$$message_0142_0031_0000$$$::"[line5]"[lr]::
-15277::$$$message_0142_0031_0001$$$::Eu dou um jeito de me acalmar e então olho rapidamente para a Saber.::
-15278::$$$message_0142_0032_0000$$$::Ela voltou a comer o seu sanduíche com um rosto em paz.[lr]::
-15279::$$$message_0142_0032_0001$$$::Ela não parece estar nem um pouco preocupada.[lr]::
-15280::$$$message_0142_0032_0002$$$::Não há nada com o que se preocupar, mas tem uma coisa que me chamou a atenção.::
-15281::$$$message_0142_0033_0000$$$::[line2]Eu fico mais feliz quando você está sorrindo.::
-15282::$$$message_0142_0034_0000$$$::Sim, com esse sorriso que eu vi pela primeira vez,[lr]::
+15272::$$$message_0142_0029_0002$$$::"Eu fico mais feliz ao ver você sorrindo. Se você continuar sorrindo, isso já basta para mim."::
+15273::$$$message_0142_0030_0000$$$::[font italic=true]...[font italic=false][lr]::
+15274::$$$message_0142_0030_0001$$$::Eu não consigo sustentar o olhar da Saber.[lr]::
+15275::$$$message_0142_0030_0002$$$::Aquele sorriso deixaria qualquer um desnorteado.::
+15276::$$$message_0142_0031_0000$$$::[font italic=true]...[font italic=false][lr]::
+15277::$$$message_0142_0031_0001$$$::Consigo me acalmar de algum modo e lanço um olhar de lado para a Saber.::
+15278::$$$message_0142_0032_0000$$$::Ela volta calmamente a comer o sanduíche, com uma expressão serena.[lr]::
+15279::$$$message_0142_0032_0001$$$::Quanto a isso, não há com o que se preocupar.[lr]::
+15280::$$$message_0142_0032_0002$$$::Não deveria haver motivo para preocupação, e ainda assim há algo me incomodando.::
+15281::$$$message_0142_0033_0000$$$::   [font italic=true]Eu fico mais feliz ao ver você sorrindo.[font italic=false]::
+15282::$$$message_0142_0034_0000$$$::Naquele sorriso que eu vi pela primeira vez...[lr]::
 15283::$$$message_0142_0034_0001$$$::...parecia que ela estava se contradizendo.::
+
+
