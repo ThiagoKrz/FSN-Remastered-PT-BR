@@ -1,74 +1,74 @@
 DAT
 id=qid::label=str::text=lstr::
-23628::$$$message_0208_0000_0000$$$::[line2]Nós andamos pela cidade.[lr]::
+23628::$$$message_0208_0000_0000$$$::[line3]Caminhamos pela cidade à noite.[lr]::
 23629::$$$message_0208_0000_0001$$$::Já se passaram das oito horas.[lr]::
-23630::$$$message_0208_0000_0002$$$::Eu e a Saber olhamos para o mapa da cidade no horário em que a estação está mais lotada.::
+23630::$$$message_0208_0000_0002$$$::Eu e Saber contemplamos o mapa da cidade justamente na hora em que a frente da estação está mais movimentada.::
 23631::$$$message_0208_0001_0000$$$::"Nós passamos pela maioria dos prédios principais. Ainda falta outro lugar para visitarmos?"[lr]::
 23632::$$$message_0208_0001_0001$$$::"Bem, há uma fábrica um pouco longe daqui. Nós podemos dar uma olhada já que também há pessoas reunidas por lá. Apesar que eu duvido que uma fábrica faça o estilo do Shinji."::
 23633::$$$message_0208_0002_0000$$$::...Mesmo respondendo, é difícil de olhar para a Saber.[lr]::
 23634::$$$message_0208_0002_0001$$$::Aquela conversa de antes ainda deve estar me afetando.[lr]::
 23635::$$$message_0208_0002_0002$$$::O que me incomoda mais ainda é que a Saber age como se não se importasse com isso.::
 23636::$$$message_0208_0003_0000$$$::"E você, Saber? Consegue sentir a presença da Rider?"[lr]::
-23637::$$$message_0208_0003_0001$$$::"...Não, não consigo. Eu já lutei com ela uma vez, então eu devo ser capaz de sentí-la se ela estiver por perto[line2]"::
-23638::$$$message_0208_0004_0000$$$::Uma sensação estranha atravessa o meu coração.[lr]::
-23639::$$$message_0208_0004_0001$$$::Uma onda de energia mágica que até eu posso sentir.[lr]::
+23637::$$$message_0208_0003_0001$$$::"...Não. Já lutei com ela uma vez, então, se estivesse por perto, eu conseguiria percebê-la[line4]"::
+23638::$$$message_0208_0004_0000$$$::Uma estranheza espeta a minha pele.[lr]::
+23639::$$$message_0208_0004_0001$$$::Uma onda de Energia Mágica forte o bastante para até eu senti-la.[lr]::
 23640::$$$message_0208_0004_0002$$$::É impossível a Saber não ter notado isso.::
 23641::$$$message_0208_0005_0000$$$::"...Shirou. Acho que nem é preciso dizer, mas..."[lr]::
 23642::$$$message_0208_0005_0001$$$::"Eu sei. ...Eles estão perto daqui, Saber?"[lr]::
-23643::$$$message_0208_0005_0002$$$::"Não, eles não devem estar tão perto assim. Mas com certeza estão nos vigiando. ...Essa energia mágica provavelmente foi lançada para nos provocar."::
+23643::$$$message_0208_0005_0002$$$::"Não, ainda não estão tão perto assim. Mas com certeza estão nos observando. ...Essa Energia Mágica deve ser uma provocação contra nós."::
 23644::$$$message_0208_0006_0000$$$::Estão nos vigiando... então quer dizer que eles finalmente morderam a isca.[lr]::
 23645::$$$message_0208_0006_0001$$$::Se estão emitindo energia mágica de uma maneira tão óbvia, devem estar querendo que a gente vá até eles.::
-23646::$$$message_0208_0007_0000$$$::"[line2]Então. Essa presença é da Rider?"[lr]::
+23646::$$$message_0208_0007_0000$$$::"[line4]Então... essa presença é da Rider?"[lr]::
 23647::$$$message_0208_0007_0001$$$::A minha cabeça muda completamente.[lr]::
 23648::$$$message_0208_0007_0002$$$::Eu perdi todo o constrangimento de antes.::
-23649::$$$message_0208_0008_0000$$$::"Vou perseguir a origem da energia mágica. Por favor tome cuidado, Mestre."[lr]::
+23649::$$$message_0208_0008_0000$$$::"Vou seguir o rastro da Energia Mágica. Tome cuidado, Mestre."[lr]::
 23650::$$$message_0208_0008_0001$$$::Eu aceno em silêncio.[lr]::
-23651::$$$message_0208_0008_0002$$$::A intenção de matar que alfineta a minha pele está vindo de uma parte do distrito comercial onde não há ninguém.::
+23651::$$$message_0208_0008_0002$$$::A intenção assassina, agulhando minha pele, vinha do distrito de escritórios, onde o movimento de pessoas já rareava.::
 23652::$$$message_0208_0009_0000$$$::Talvez nenhum trabalhador esteja fazendo hora extra justamente hoje.[lr]::
 23653::$$$message_0208_0009_0001$$$::A maioria das luzes dos prédios, que você poderia dizer que simbolizam Shinto, já estão apagadas.::
 23654::$$$message_0208_0010_0000$$$::Não há muitas pessoas andando pelas ruas, e por isso a vista não é tão ruim.[lr]::
-23655::$$$message_0208_0010_0001$$$::Ninguém parece ser suspeito, e se o Shinji estiver por aqui em algum lugar, seria na nossa frente... talvez no parque que nós estávamos mais cedo.::
+23655::$$$message_0208_0010_0001$$$::Não há ninguém suspeito e, se Shinji estiver por aqui, deve ser mais adiante... talvez no parque em que nós mesmos estávamos até agora.::
 23656::$$$message_0208_0011_0000$$$::...A intenção de matar está aumentando.[lr]::
 23657::$$$message_0208_0011_0001$$$::Não tenho dúvidas de que há um inimigo por perto.[lr]::
 23658::$$$message_0208_0011_0002$$$::Não, seria mais como....[lr]::
-23659::$$$message_0208_0011_0003$$$::"[line5]!"[lr]::
+23659::$$$message_0208_0011_0003$$$::"[line8]!"[lr]::
 23660::$$$message_0208_0011_0004$$$::Eu sinto um calafrio atravessando a minha coluna.[lr]::
-23661::$$$message_0208_0011_0005$$$::Pela intensidade da intenção de matar que até eu consigo sentir, talvez a gente já esteja no alcance do inimigo.::
+23661::$$$message_0208_0011_0005$$$::Pela intensidade da intenção de matar, que até eu consigo sentir, será que nós já não entramos há muito tempo no alcance do inimigo?::
 23662::$$$message_0208_0012_0000$$$::"...Saber, cuidado. Tem alguma coisa estranha."[lr]::
-23663::$$$message_0208_0012_0001$$$::"...Sim, os seus sentidos estão corretos. Creio que eles não vão nos atacar em área aberta, mas ainda assim devemos ficar atentos."::
+23663::$$$message_0208_0012_0001$$$::"...Sim, seu pressentimento está certo. Não creio que armariam uma emboscada num lugar tão exposto, mas estamos falando deles. Todo cuidado é pouco."::
 23664::$$$message_0208_0013_0000$$$::Depois de acenar em silêncio, nós vamos em direção ao parque.[lr]::
-23665::$$$message_0208_0013_0001$$$::Eu vou ignorar a pressão sufocante que se parece com uma faca grudada no meu pescoço.[lr]::
+23665::$$$message_0208_0013_0001$$$::Vou ignorar, por ora, essa pressão sufocante, como se uma faca estivesse encostada na minha garganta.[lr]::
 23666::$$$message_0208_0013_0002$$$::A Rider e o Shinji não estão em lugar nenhum do distrito comercial.[lr]::
-23667::$$$message_0208_0013_0003$$$::Se eles forem nos atacar, será no parque onde ninguém vai poder ver[line2]::
-23668::$$$message_0208_0014_0000$$$::"Shirou[line2]!"[lr]::
+23667::$$$message_0208_0013_0003$$$::Se forem armar alguma coisa, deve ser no parque, onde não há ninguém por perto[line4]::
+23668::$$$message_0208_0014_0000$$$::"Shirou[line4]!"[lr]::
 23669::$$$message_0208_0014_0001$$$::"Saber?"::
 23670::$$$message_0208_0015_0000$$$::Eu me viro para a Saber.[lr]::
-23671::$$$message_0208_0015_0001$$$::Ela corre até mim como um raio-[lr]::
-23672::$$$message_0208_0015_0002$$$::e desvia o ataque direcionado na minha cabeça.::
-23673::$$$message_0208_0016_0000$$$::"...!?"[lr]::
+23671::$$$message_0208_0015_0001$$$::Ela salta como um raio,[lr]::
+23672::$$$message_0208_0015_0002$$$::e, sobre a minha cabeça, rebate aquele golpe.::
+23673::$$$message_0208_0016_0000$$$::"!?"[lr]::
 23674::$$$message_0208_0016_0001$$$::Eu olho para o alto.[lr]::
-23675::$$$message_0208_0016_0002$$$::Vejo um prédio tão grande que é capaz de perfurar as nuvens.[lr]::
+23675::$$$message_0208_0016_0002$$$::Vejo um prédio gigantesco, alto o bastante para tocar o céu.[lr]::
 23676::$$$message_0208_0016_0003$$$::E se agarrando na sua borda como uma aranha, vejo a imagem do inimigo.::
-23677::$$$message_0208_0016_0004$$$::"Quê[line2]?"[lr]::
+23677::$$$message_0208_0016_0004$$$::"Qu...[line4]"[lr]::
 23678::$$$message_0208_0016_0005$$$::Cabelo comprido que cobre o seu corpo, e membros brancos e flexíveis.[lr]::
-23679::$$$message_0208_0016_0006$$$::A figura com o rosto coberto só pode ser o Servo Rider...!!::
-23680::$$$message_0208_0016_0007$$$::"[line2]Huh."[lr]::
-23681::$$$message_0208_0016_0008$$$::A figura que está pendurada por volta do quinto andar olha para mim e lambe os seus lábios.[lr]::
+23679::$$$message_0208_0016_0006$$$::Aquela figura de rosto oculto pela máscara é, sem dúvida, o Servo Rider...!!::
+23680::$$$message_0208_0016_0007$$$::"[line4]Fuh."[lr]::
+23681::$$$message_0208_0016_0008$$$::A coisa grudada perto do quinto andar lambe os lábios de forma viscosa e olha para mim.[lr]::
 23682::$$$message_0208_0016_0009$$$::...Eu sinto um calafrio.[lr]::
 23683::$$$message_0208_0016_0010$$$::Não há nenhuma dúvida.[lr]::
-23684::$$$message_0208_0016_0011$$$::Ela desceu do topo do arranha-céu para me matar se aproveitando do ponto cego que está acima de mim[line2]!::
+23684::$$$message_0208_0016_0011$$$::Aquela coisa caiu do topo do prédio e veio pelo meu ponto cego, acima da minha cabeça, para decepar meu pescoço[line4]!?::
 23685::$$$message_0208_0016_0012$$$::A Saber aterrissa no chão.[lr]::
 23686::$$$message_0208_0016_0013$$$::Depois de pular por cima de mim e desviar o ataque, ela já está armada.::
 23687::$$$message_0208_0017_0000$$$::"Saber, ela está...!"[lr]::
-23688::$$$message_0208_0017_0001$$$::"Eu vou seguí-la! Por favor fique aqui, Shirou...!"[lr]::
-23689::$$$message_0208_0017_0002$$$::"Hã... como você vai seguí-la!?"[lr]::
-23690::$$$message_0208_0017_0003$$$::Ela literalmente chuta o chão.[lr]::
+23688::$$$message_0208_0017_0001$$$::"Vou atrás dela! Por favor, fique aqui, Shirou...!"[lr]::
+23689::$$$message_0208_0017_0002$$$::"Hã[line3]... como você vai segui-la!?"[lr]::
+23690::$$$message_0208_0017_0003$$$::Ela chuta o chão.[lr]::
 23691::$$$message_0208_0017_0004$$$::A armadura prateada some da minha vista num piscar de olhos.::
-23692::$$$message_0208_0018_0000$$$::"Quê[line2]!?"[lr]::
-23693::$$$message_0208_0018_0001$$$::Se a Rider descendo do topo do arranha-céu é um absurdo, o mesmo vale para a Saber que está a perseguindo na base do pulo.::
-23694::$$$message_0208_0019_0000$$$::Não, talvez as leis da física não se apliquem a elas por serem Servos.[lr]::
-23695::$$$message_0208_0019_0001$$$::A Saber chuta a lateral do prédio e parte para cima da Rider na velocidade da luz[line2]!::
+23692::$$$message_0208_0018_0000$$$::"Qu...[line4]!?"[lr]::
+23693::$$$message_0208_0018_0001$$$::Se já é absurdo a Rider despencar do topo do prédio, também é absurdo a Saber persegui-la só com um salto.::
+23694::$$$message_0208_0019_0000$$$::Não. Para elas, que são Servos, o senso comum talvez simplesmente não se aplique.[lr]::
+23695::$$$message_0208_0019_0001$$$::Saber, assim como Rider, chuta a lateral do prédio e parte para cima dela como um raio[line4]!::
 23696::$$$message_0208_0020_0000$$$::As duas sombras se cruzam em velocidades incríveis.[lr]::
 23697::$$$message_0208_0020_0001$$$::Elas colidem no ar e se separam, e então pegam impulso no arranha-céu e colidem novamente. É como ver uma perseguição entre caças.[lr]::
-23698::$$$message_0208_0020_0002$$$::Eu[line2][lr]::
+23698::$$$message_0208_0020_0002$$$::E eu[line4][lr]::
 

@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 23912::$$$message_0210_0000_0000$$$::E assim que a Saber alcança o telhado...[lr]::
 23913::$$$message_0210_0000_0001$$$::Ela enfrenta a verdadeira forma da sua adversária.::
-23914::$$$message_0210_0001_0000$$$::"Haa[line2] haa, ahh[line2]"[lr]::
+23914::$$$message_0210_0001_0000$$$::"Haaa... haaa... ha... ah!!!"[lr]::
 23915::$$$message_0210_0001_0001$$$::Enquanto apoia o seu corpo com a sua espada, a Saber olha para o céu.[lr]::
 23916::$$$message_0210_0001_0002$$$::Uma luz branca se aproxima no mesmo instante.[lr]::
 23917::$$$message_0210_0001_0003$$$::Ela cria uma barreira invisível usando o vento que estava cobrindo a sua espada.[lr]::
@@ -10,18 +10,18 @@ id=qid::label=str::text=lstr::
 23919::$$$message_0210_0001_0005$$$::Aquilo que deveria ter anulado qualquer tipo de impacto não conseguiu nem diminuir a investida do Pégaso.::
 23920::$$$message_0210_0002_0000$$$::"Guh...!"[lr]::
 23921::$$$message_0210_0002_0001$$$::Depois de ser jogada, ela rola no chão.[lr]::
-23922::$$$message_0210_0002_0002$$$::[line2]Não há tempo para ficar deitada.[lr]::
+23922::$$$message_0210_0002_0002$$$::Não há tempo para continuar caída.[lr]::
 23923::$$$message_0210_0002_0003$$$::O Pégaso dá meia volta no ar e continua a planar sem nenhuma pausa.::
 23924::$$$message_0210_0003_0000$$$::"Fuh...!"[lr]::
 23925::$$$message_0210_0003_0001$$$::Ela não pode bloquear aquele ataque.[lr]::
 23926::$$$message_0210_0003_0002$$$::A única opção seria pular para se esquivar dele.[lr]::
 23927::$$$message_0210_0003_0003$$$::Porém, mesmo que ela se desvie do ataque, o rastro deixado por ele ainda pode arrancar parte de sua armadura.[lr]::
-23928::$$$message_0210_0003_0004$$$::Se continuar assim, ela vai acabar recebendo um golpe em cheio.::
+23928::$$$message_0210_0003_0004$$$::Se isso continuar, uma hora ela vai ser atingida em cheio.::
 23929::$$$message_0210_0004_0000$$$::A luz branca desce perfurando o ar.[lr]::
 23930::$$$message_0210_0004_0001$$$::O Pégaso desliza de uma altura bem alta, acaba com a Saber sem encostar no telhado, e volta para o céu.[lr]::
 23931::$$$message_0210_0004_0002$$$::É impossível perseguí-lo.[lr]::
 23932::$$$message_0210_0004_0003$$$::Não há mais paredes para escalar, e mesmo se houvesse uma, ninguém seria capaz de alcançar a velocidade daquele Pégaso.::
-23933::$$$message_0210_0005_0000$$$::"Haa... haa, haa[line2]"[lr]::
+23933::$$$message_0210_0005_0000$$$::"Ha... haaa... hah... ha..."[lr]::
 23934::$$$message_0210_0005_0001$$$::A Saber espera por uma chance de contra-atacar nessa posição inferior.[lr]::
 23935::$$$message_0210_0005_0002$$$::Contanto que seja uma criatura viva, mesmo se for o Pégaso, ela pode ser morta.[lr]::
 23936::$$$message_0210_0005_0003$$$::A única esperança que a Saber tem de vencer é se a Rider cometer um erro enquanto está montada no Pégaso.::
@@ -31,144 +31,144 @@ id=qid::label=str::text=lstr::
 23940::$$$message_0210_0007_0000$$$::"Mas do que isso adianta? Você não tem como vencer. Se for para desaparecer de qualquer jeito, pelo menos suma com elegância."[lr]::
 23941::$$$message_0210_0007_0001$$$::A Rider parece calma.[lr]::
 23942::$$$message_0210_0007_0002$$$::É possível sentir um pouco de alegria em sua voz.::
-23943::$$$message_0210_0008_0000$$$::"...Huh. Eu já esperava por uma raça fantasiosa, mas não imaginava que fosse algo desse nível, Rider."::
-23944::$$$message_0210_0009_0000$$$::[line2]Raças fantasiosas.[lr]::
-23945::$$$message_0210_0009_0001$$$::Como o nome já diz, são criaturas que existem apenas no mundo da fantasia.[lr]::
+23943::$$$message_0210_0008_0000$$$::"Hmph. Eu esperava que você tivesse uma Espécie Fantasmal, mas não imaginava algo desse nível, Rider."::
+23944::$$$message_0210_0009_0000$$$::Uma Espécie Fantasmal.[lr]::
+23945::$$$message_0210_0009_0001$$$::Como o nome sugere, trata-se de criaturas que existem dentro da fantasia.[lr]::
 23946::$$$message_0210_0009_0002$$$::Meio-humanos, como duendes e gigantes.[lr]::
 23947::$$$message_0210_0009_0003$$$::Ou feras demoníacas, como demônios e dragões.[lr]::
 23948::$$$message_0210_0009_0004$$$::Já que a sua existência é considerada um "mistério divino", dizem que tais criaturas são superiores à própria magia.::
 23949::$$$message_0210_0010_0000$$$::É fato que um mistério divino sempre será eliminado por outro mistério divino superior.[lr]::
 23950::$$$message_0210_0010_0001$$$::Enquanto a magia acumulou o seu poder através do conhecimento,[lr]::
-23951::$$$message_0210_0010_0002$$$::as raças fantasiosas acumulam o seu poder através de seus longos tempos de vida.[lr]::
+23951::$$$message_0210_0010_0002$$$::as Espécies Fantasmais acumulam o seu poder através de sua longevidade.[lr]::
 23952::$$$message_0210_0010_0003$$$::Mesmo que um humano domine completamente a magia, ele só terá o conhecimento acumulado dos últimos 500 anos.[lr]::
 23953::$$$message_0210_0010_0004$$$::Para aqueles que vivem desde os tempos ancestrais, um mistério divino de apenas 500 anos não serve nem de comparação.::
-23954::$$$message_0210_0011_0000$$$::Porém, os humanos e as raças fantásticas não existem no mesmo mundo há bastante tempo.[lr]::
-23955::$$$message_0210_0011_0001$$$::Quanto mais antiga for a raça fantasiosa, mais distante ela será da realidade.[lr]::
-23956::$$$message_0210_0011_0002$$$::Nos dias atuais, a única raça fantasiosa que existe nesse mundo tem apenas algumas centenas de anos.[lr]::
-23957::$$$message_0210_0011_0003$$$::Portanto, ela pensou que a raça fantasiosa que a Rider estaria montada só teria centenas de anos de idade[line2]::
-23958::$$$message_0210_0012_0000$$$::"...Você trouxe uma criatura da era dos deuses. As suas ações devem ter sido bem profundas."[lr]::
-23959::$$$message_0210_0012_0001$$$::"Sim, eu sou diferente de você. Aliás, estou mais para a sua inimiga. É por isso que eu só monto nas pobres crianças que pessoas como você exterminaram."::
-23960::$$$message_0210_0013_0000$$$::"[line2]Entendi. Eu achei que você estivesse corrompida, mas agora sei que você é um espírito maligno, e não um espírito heroico."[lr]::
-23961::$$$message_0210_0013_0001$$$::"...Huh, pode me xingar o quanto quiser. Você nem consegue encostar no meu garoto."[lr]::
+23954::$$$message_0210_0011_0000$$$::Mas já faz muito, muito tempo desde que humanos e Espécies Fantasmais coexistiram no mesmo mundo.[lr]::
+23955::$$$message_0210_0011_0001$$$::Quanto mais tempo um Fantasmal viveu, mais distante deste mundo ele se tornou.[lr]::
+23956::$$$message_0210_0011_0002$$$::No mundo moderno, as únicas Espécies Fantasmais que restam têm meras algumas centenas de anos.[lr]::
+23957::$$$message_0210_0011_0003$$$::Por isso, Saber esperava que o Fantasmal usado por Rider como montaria tivesse apenas alguns séculos de idade.::
+23958::$$$message_0210_0012_0000$$$::"...Você deve ser realmente perversa para trazer algo da Era dos Deuses até aqui, Rider."[lr]::
+23959::$$$message_0210_0012_0001$$$::"Sim, eu sou diferente de vocês. Em outras palavras, sempre fui apenas uma inimiga para gente como você. Por isso agora monto apenas nessas pobres criaturas que o seu tipo expulsou num passado distante."::
+23960::$$$message_0210_0013_0000$$$::"Entendo. Eu sabia que havia algo distorcido em você. Então você é um espírito demoníaco, não um Espírito Heroico."[lr]::
+23961::$$$message_0210_0013_0001$$$::"...Huh, pode me xingar o quanto quiser. Não importa. Você não vai conseguir encostar nem um dedo no meu querido."[lr]::
 23962::$$$message_0210_0013_0002$$$::O Pégaso paira no ar.[lr]::
 23963::$$$message_0210_0013_0003$$$::Ele é como uma flecha gigante que será atirada assim que encontrar uma brecha.::
-23964::$$$message_0210_0014_0000$$$::"[line2]"[lr]::
+23964::$$$message_0210_0014_0000$$$::[font italic=true]...[font italic=false][lr]::
 23965::$$$message_0210_0014_0001$$$::A Saber o observa e pensa.[lr]::
-23966::$$$message_0210_0014_0002$$$::O Pégaso por si só não é uma raça fantástica poderosa.[lr]::
-23967::$$$message_0210_0014_0003$$$::Um Pégaso comum só pode ser promovido até a classe de fera demoníaca de dentro das raças fantasiosas.[lr]::
+23966::$$$message_0210_0014_0002$$$::O próprio Pégaso não é uma Espécie Fantasmal especialmente poderosa.[lr]::
+23967::$$$message_0210_0014_0003$$$::Um Pégaso comum é apenas um Fantasmal que mal se equipara a uma Besta Demoníaca.[lr]::
 23968::$$$message_0210_0014_0004$$$::Se esse fosse o caso, ele poderia ser derrotado apenas com o "Ar Invisível" dela.::
 23969::$$$message_0210_0015_0000$$$::Mas essa criatura é diferente.[lr]::
-23970::$$$message_0210_0015_0001$$$::Como esse Pégaso existe desde a era dos deuses, ele foi promovido ao nível de feras fantasiosas.[lr]::
-23971::$$$message_0210_0015_0002$$$::Esse Pégaso está quase no nível da raça dos dragões, que é a mais poderosa entre todas as raças fantasiosas.::
-23972::$$$message_0210_0016_0000$$$::...Aliás, a sua defesa já está no nível da raça dos dragões.[lr]::
-23973::$$$message_0210_0016_0001$$$::Porque esse Pégaso possui uma proteção divina que supera até a Saber, que tem a maior resistência à magia dentre os Servos.[lr]::
+23970::$$$message_0210_0015_0001$$$::Como esse Pégaso existe desde a Era dos Deuses e, há muito, alcançou o nível de um Fantasmal verdadeiro.[lr]::
+23971::$$$message_0210_0015_0002$$$::Essa montaria já se aproxima do nível da raça dos dragões, tida como a mais poderosa entre todos os Fantasmais.::
+23972::$$$message_0210_0016_0000$$$::No mínimo, suas defesas provavelmente já estão no nível da raça dos dragões...[lr]::
+23973::$$$message_0210_0016_0001$$$::...pois esse Pégaso possui uma proteção divina que supera até a da Saber, cuja resistência à Magia é inigualável.[lr]::
 23974::$$$message_0210_0016_0002$$$::A sua investida, que solta uma quantidade enorme de energia mágica, é como uma muralha de castelo se aproximando.[lr]::
-23975::$$$message_0210_0016_0003$$$::[line2]Não tem como desviar ou se defender de uma coisa dessas.::
-23976::$$$message_0210_0017_0000$$$::Mas não é isso que surpreende a Saber.[lr]::
-23977::$$$message_0210_0017_0001$$$::Esse Pégaso é algo que a Rider invocou, e que não possui um nome verdadeiro.[lr]::
+23975::$$$message_0210_0016_0003$$$::Não há como evitar nem repelir uma coisa dessas.::
+23976::$$$message_0210_0017_0000$$$::Mas isso não é o mais estranho aqui.[lr]::
+23977::$$$message_0210_0017_0001$$$::Rider simplesmente invocou esse Pégaso, e ele não possui um Nome Verdadeiro próprio.[lr]::
 23978::$$$message_0210_0017_0002$$$::Para a Rider, esse Pégaso tem o mesmo valor que a sua adaga.[lr]::
-23979::$$$message_0210_0017_0003$$$::Em outras palavras[line2]a cavaleira negra ainda não mostrou o seu Fantasma Nobre.::
-23980::$$$message_0210_0018_0000$$$::"[line5]"[lr]::
+23979::$$$message_0210_0017_0003$$$::E isso significa que ela ainda nem usou o seu Fantasma Nobre.::
+23980::$$$message_0210_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
 23981::$$$message_0210_0018_0001$$$::Mas mesmo nessa situação, a Saber não pensa em derrota.[lr]::
-23982::$$$message_0210_0018_0002$$$::Ao invés disso, ela pensa que terá a sua chance quando a Rider usar o seu Fantasma Nobre.[lr]::
-23983::$$$message_0210_0018_0003$$$::Independente do que o Fantasma Nobre dela possa ser, não haverá problema se ele for poderoso o bastante para destruir apenas o arranha-céu.[lr]::
-23984::$$$message_0210_0018_0004$$$::A Saber só vai precisar se defender, suportar o ataque, e então cortar a Rider indefesa ao meio.::
-23985::$$$message_0210_0019_0000$$$::[line2]É isso.[lr]::
-23986::$$$message_0210_0019_0001$$$::Contanto que o Mestre dela não apareça aqui.::
-23987::$$$message_0210_0020_0000$$$::"Quê[line2]?"[lr]::
+23982::$$$message_0210_0018_0002$$$::Em vez disso, ela pensa que sua chance virá quando Rider realmente começar a lutar a sério.[lr]::
+23983::$$$message_0210_0018_0003$$$::Seja qual for o Fantasma Nobre da Rider, ele não teria dificuldade alguma em destruir um prédio como este.[lr]::
+23984::$$$message_0210_0018_0004$$$::Tudo o que Saber precisa fazer é se concentrar em se defender e permanecer viva. Depois, quando surgir uma abertura, bastará cortar Rider ao meio.::
+23985::$$$message_0210_0019_0000$$$::Sim...[lr]::
+23986::$$$message_0210_0019_0001$$$::Se ao menos o Mestre dela não tivesse aparecido...::
+23987::$$$message_0210_0020_0000$$$::"O qu...!?"[lr]::
 23988::$$$message_0210_0020_0001$$$::Eu olho para o céu.[lr]::
 23989::$$$message_0210_0020_0002$$$::Ouço o som de asas batendo.[lr]::
 23990::$$$message_0210_0020_0003$$$::E então, vejo algo mais branco do que a luz da Lua.::
 23991::$$$message_0210_0020_0004$$$::...Isso é...[lr]::
-23992::$$$message_0210_0020_0005$$$::...Um "mistério divino" lendário que só aparece nas mitologias.::
-23993::$$$message_0210_0021_0000$$$::"[line4]Pégaso...?"[lr]::
+23992::$$$message_0210_0020_0005$$$::...Um ser lendário que eu só conhecia dos mitos.::
+23993::$$$message_0210_0021_0000$$$::"A... Pégaso...?"[lr]::
 23994::$$$message_0210_0021_0001$$$::A identidade do Fantasma Nobre da Rider.[lr]::
 23995::$$$message_0210_0021_0002$$$::Foi isso que incinerou o telhado e deixou a Saber de joelhos?[lr]::
-23996::$$$message_0210_0021_0003$$$::A Rider está montada em um cavalo branco, fazendo jus ao nome da classe.::
-23997::$$$message_0210_0022_0000$$$::"...!?"[lr]::
+23996::$$$message_0210_0021_0003$$$::Vejo Rider cruzando o céu montada num cavalo, exatamente como o nome da classe sugere.::
+23997::$$$message_0210_0022_0000$$$::"Mas o qu...!?"[lr]::
 23998::$$$message_0210_0022_0001$$$::Eu me desconcentro da Rider.[lr]::
-23999::$$$message_0210_0022_0002$$$::Ouvi um barulho[line2][lr]::
-24000::$$$message_0210_0022_0003$$$::"Shinji...!? É você que está aí, não é? Saia agora...!"::
+23999::$$$message_0210_0022_0002$$$::Achei que tivesse ouvido alguma coisa...[lr]::
+24000::$$$message_0210_0022_0003$$$::"Shinji!? Eu sei que você está aí. Apareça!"::
 24001::$$$message_0210_0023_0000$$$::Eu não tenho como saber o quão forte é a Rider montada naquele Pégaso.[lr]::
-24002::$$$message_0210_0023_0001$$$::Só sei que aquela fera branca foi criada com energia mágica equivalente à de algumas centenas de magos.::
+24002::$$$message_0210_0023_0001$$$::Só sei que aquela aberração branca tem mais Energia Mágica do que algumas centenas de magos conseguiriam reunir.::
 24003::$$$message_0210_0024_0000$$$::Depois de saber isso, não é surpresa ver o telhado incinerado.[lr]::
-24004::$$$message_0210_0024_0001$$$::Aquela coisa destrói os seus arredores só de correr por cima deles.[lr]::
-24005::$$$message_0210_0024_0002$$$::Se aquilo fizer uma investida do céu, nem mesmo a Saber consegue bloqueá-lo.::
-24006::$$$message_0210_0025_0000$$$::"Apareça...! Eu vim até aqui, então mostre sua a cara...!"[lr]::
+24004::$$$message_0210_0024_0001$$$::Aquele monstro pode destruir quase tudo ao redor só de passar correndo por cima.[lr]::
+24005::$$$message_0210_0024_0002$$$::Se aquilo vier em investida do céu, nem a Saber vai conseguir evitar.::
+24006::$$$message_0210_0025_0000$$$::"Pare de se esconder...! Eu vim até aqui, então apareça!"[lr]::
 24007::$$$message_0210_0025_0001$$$::Eu estou correndo contra o tempo.[lr]::
-24008::$$$message_0210_0025_0002$$$::O Fantasma Nobre da Rider já foi usado.[lr]::
-24009::$$$message_0210_0026_0000$$$::"[line2]Ha. Haha, ahaha, ahahahahahaha!"[lr]::
+24008::$$$message_0210_0025_0002$$$::Preciso derrotar o Shinji. Se eu derrotar o Mestre, Rider desaparece!::
+24009::$$$message_0210_0026_0000$$$::"Ha. Haha... ahahaha... ahahahahahahaha!"[lr]::
 24010::$$$message_0210_0026_0001$$$::Eu ouço uma risada.[lr]::
-24011::$$$message_0210_0026_0002$$$::O Shinji[line2]está escondido por aqui em algum lugar.::
+24011::$$$message_0210_0026_0002$$$::Shinji deve estar escondido em algum lugar por aqui.::
 24012::$$$message_0210_0027_0000$$$::"Shinji...!"[lr]::
 24013::$$$message_0210_0027_0001$$$::"Viu só, Emiya!? Essa é a diferença entre os nossos poderes!"[lr]::
 24014::$$$message_0210_0027_0002$$$::Apenas a voz dele ecoa.::
 24015::$$$message_0210_0028_0000$$$::"Kuh...!"[lr]::
-24016::$$$message_0210_0028_0001$$$::Eu tento me acalmar enquanto ouço à risada dele.[lr]::
+24016::$$$message_0210_0028_0001$$$::Eu tento me acalmar enquanto ouço a risada dele.[lr]::
 24017::$$$message_0210_0028_0002$$$::...Droga, está ventando muito...![lr]::
 24018::$$$message_0210_0028_0003$$$::Não consigo descobrir de onde essa risada está vindo...!::
 24019::$$$message_0210_0029_0000$$$::"Que pena. Você acabou nessa situação porque estava pegando leve demais, seu imbecil...! Entendeu agora que você precisa matar quando a chance aparecer...!?"::
 24020::$$$message_0210_0030_0000$$$::"Shinji...!"[lr]::
 24021::$$$message_0210_0030_0001$$$::Se acalme.[lr]::
 24022::$$$message_0210_0030_0002$$$::Deixa ele falar. Eu posso descobrir o seu esconderijo se ele continuar falando...!::
-24023::$$$message_0210_0031_0000$$$::"Mas eu sou diferente. Você e o seu Servo vão morrer aqui. Apesar que nós não somos desconhecidos.[lr]::
-24024::$$$message_0210_0031_0001$$$::Considerando o que aconteceu ontem, eu vou deixar que você tenha uma morte sem dor[line2]!"::
-24025::$$$message_0210_0032_0000$$$::"[line2]!"[lr]::
+24023::$$$message_0210_0031_0000$$$::"Mas eu não sou assim. Você e o seu Servo já eram, aqui e agora. Mas também não é como se fôssemos completos estranhos, né?[lr]::
+24024::$$$message_0210_0031_0001$$$::Ainda te devo uma de ontem, então vou ser misericordioso e te matar rápido!"::
+24025::$$$message_0210_0032_0000$$$::"...Ngh!"[lr]::
 24026::$$$message_0210_0032_0001$$$::[line2]Isso é péssimo.[lr]::
-24027::$$$message_0210_0032_0002$$$::O Pégaso aponta a sua cabeça na direção da Saber.[lr]::
+24027::$$$message_0210_0032_0002$$$::Lá no alto, Pégaso inclina a cabeça na direção da Saber.[lr]::
 24028::$$$message_0210_0032_0003$$$::O redemoinho de energia mágica gira sem parar.[lr]::
 24029::$$$message_0210_0032_0004$$$::Se aquela coisa vier em alta velocidade, esse telhado vai ser completamente destruído[line2]!::
-24030::$$$message_0210_0033_0000$$$::"Não se preocupe, Emiya. Você se intrometeu, mas eu vou fazer com que aqueles idiotas da escola tenham o mesmo destino que o seu. E se você disser que está sozinho, eu posso mandar aquela Sakura irritante contigo também!"::
-24031::$$$message_0210_0034_0000$$$::"Shinji, você[line2]!"[lr]::
+24030::$$$message_0210_0033_0000$$$::"Não se preocupe, Emiya. Você foi só um estorvo no caminho, mas vou garantir que aqueles idiotas da escola sigam o mesmo destino que o seu. E, se ainda se sentir sozinho, posso mandar aquela Sakura irritante junto também!"::
+24031::$$$message_0210_0034_0000$$$::"Shinji, seu[line2]!"[lr]::
 24032::$$$message_0210_0034_0001$$$::"Vai, Rider![lr]::
-24033::$$$message_0210_0034_0002$$$::Primeiro a garota! Não deixe nenhum vestígio dela para trás...!"::
-24034::$$$message_0210_0035_0000$$$::"Saber...!"[lr]::
+24033::$$$message_0210_0034_0002$$$::Primeiro a mulher! Não deixe nem rastro!"::
+24034::$$$message_0210_0035_0000$$$::"Gnh... Saber!!!"[lr]::
 24035::$$$message_0210_0035_0001$$$::Uma estrela cadente branca cai do céu.[lr]::
-24036::$$$message_0210_0035_0002$$$::Eu a ignoro, mas assim que corro até a Saber....[lr]::
-24037::$$$message_0210_0035_0003$$$::Nesse exato momento. [lr]::
+24036::$$$message_0210_0035_0002$$$::E então, nesse instante...[lr]::
+24037::$$$message_0210_0035_0003$$$::...uma tempestade ruge ao meu redor.::
 24038::$$$message_0210_0036_0000$$$::"Saber...!"[lr]::
-24039::$$$message_0210_0036_0001$$$::"Quê[line2]?"[lr]::
+24039::$$$message_0210_0036_0001$$$::"O quê...!?"[lr]::
 24040::$$$message_0210_0036_0002$$$::Pela primeira vez, ela se distraiu de seu inimigo durante uma batalha.[lr]::
 24041::$$$message_0210_0036_0003$$$::Por estar com raiva do seu Mestre vir a um lugar tão perigoso.[lr]::
 24042::$$$message_0210_0036_0004$$$::E por estar com raiva dela mesma, já que isso era provável de acontecer.::
-24043::$$$message_0210_0037_0000$$$::Mas todas essas ideias a fizeram perceber uma coisa.[lr]::
-24044::$$$message_0210_0037_0001$$$::Como isso podia ser diferente?[lr]::
+24043::$$$message_0210_0037_0000$$$::Agora, todos esses pensamentos são postos de lado.[lr]::
+24044::$$$message_0210_0037_0001$$$::O que mais ela poderia fazer?[lr]::
 24045::$$$message_0210_0037_0002$$$::Mesmo nessa situação perigosa, ele está apenas preocupado com a Saber.::
 24046::$$$message_0210_0038_0000$$$::"Shirou[line4]"[lr]::
 24047::$$$message_0210_0038_0001$$$::[line2]Pensando bem, ele sempre foi assim.[lr]::
 24048::$$$message_0210_0038_0002$$$::Mesmo sabendo que a Saber era uma cavaleira incrível,[lr]::
 24049::$$$message_0210_0038_0003$$$::Ele nunca a tratou como tal.::
-24050::$$$message_0210_0039_0000$$$::"A brincadeira acaba aqui, Saber."[lr]::
-24051::$$$message_0210_0039_0001$$$::Uma risada leve.[lr]::
+24050::$$$message_0210_0039_0000$$$::"Parece que a brincadeira acabou, Saber."[lr]::
+24051::$$$message_0210_0039_0001$$$::A risadinha da Rider ainda chega até ela.[lr]::
 24052::$$$message_0210_0039_0002$$$::A Rider posiciona as mãos no pescoço do Pégaso e faz com que ele bata as suas asas ainda mais rápido.::
-24053::$$$message_0210_0040_0000$$$::"O meu Fantasma Nobre pode ser poderoso, mas ele não foi feito para ser usado no chão. Ele com certeza vai chamar a atenção. Eu não podia usá-lo quando quisesse porque preciso tomar cuidado com os outros Mestres.[lr]::
+24053::$$$message_0210_0040_0000$$$::"Meu Fantasma Nobre é poderoso, mas não foi feito para ser usado no chão. Se eu o usar, vai chamar atenção. Com outros Mestres ainda por aí, eu não podia me dar a esse luxo.[lr]::
 24054::$$$message_0210_0040_0001$$$::Mas não há risco de alguém nos ver aqui em cima.[lr]::
-24055::$$$message_0210_0040_0002$$$::Você percebe que eu te trouxe até aqui porque era mais conveniente?"::
-24056::$$$message_0210_0041_0000$$$::De repente, surge algo que a Rider não estava segurando nesse tempo todo.[lr]::
-24057::$$$message_0210_0041_0001$$$::É só uma pequena rédea dourada.::
-24058::$$$message_0210_0042_0000$$$::"[line2]Esse é o seu Fantasma Nobre, Rider?"[lr]::
-24059::$$$message_0210_0042_0001$$$::"Sim, mas ele não faz o meu estilo.[lr]::
-24060::$$$message_0210_0042_0002$$$::Esse Pégaso é gentil demais e não serve para batalhar. Então, ele não vai entrar no clima até que eu use isto."[lr]::
+24055::$$$message_0210_0040_0002$$$::Entendeu agora que eu a trouxe até aqui porque isso me favorecia?"::
+24056::$$$message_0210_0041_0000$$$::Algo começa a tomar forma nas mãos da Rider.[lr]::
+24057::$$$message_0210_0041_0001$$$::À primeira vista, parece algo insignificante: uma corda dourada e reluzente.::
+24058::$$$message_0210_0042_0000$$$::"Esse é o seu Fantasma Nobre, Rider?"[lr]::
+24059::$$$message_0210_0042_0001$$$::"Sim. Ainda que eu não goste dele.[lr]::
+24060::$$$message_0210_0042_0002$$$::Meu querido aqui é gentil demais, não foi feito para a batalha. Por isso preciso de algo assim para colocá-lo no clima."[lr]::
 24061::$$$message_0210_0042_0003$$$::O Pégaso abaixa o pescoço.[lr]::
-24062::$$$message_0210_0042_0004$$$::Ele fica enfurecido, mas não por conta própria, e sim pela Rider.::
-24063::$$$message_0210_0043_0000$$$::"[line2]Desapareça, Saber.[lr]::
+24062::$$$message_0210_0042_0004$$$::Essa ferocidade não nasce dele, e sim é arrancada à força pelo toque da Rider.::
+24063::$$$message_0210_0043_0000$$$::"Desapareça, Saber.[lr]::
 24064::$$$message_0210_0043_0001$$$::Mesmo que você sobreviva, o seu Mestre não tem como escapar. Você também some se ele morrer, ou eu estou enganada?"::
-24065::$$$message_0210_0044_0000$$$::[line2]Ela tem toda a razão.[lr]::
+24065::$$$message_0210_0044_0000$$$::É a pura verdade.[lr]::
 24066::$$$message_0210_0044_0001$$$::O Fantasma Nobre da Rider vai destruir esse telhado.[lr]::
-24067::$$$message_0210_0044_0002$$$::Se a Saber for rápida, ela ainda pode resgatar o Shirou e sair do telhado a tempo, mas... O ataque da Rider não vai destruir só o telhado.[lr]::
+24067::$$$message_0210_0044_0002$$$::Se agir depressa, Saber talvez ainda consiga carregar Shirou para longe e escapar, mas... Rider não vai se contentar em destruir só o telhado.[lr]::
 24068::$$$message_0210_0044_0003$$$::O Mestre dela não é resistente o bastante para sobreviver a um arranha-céu desmoronando.[lr]::
 24069::$$$message_0210_0044_0004$$$::Portanto, para que a Saber consiga proteger o seu Mestre...[lr]::
 24070::$$$message_0210_0044_0005$$$::Ela precisa cortar o seu inimigo ao meio junto com o seu Pégaso.::
-24071::$$$message_0210_0045_0000$$$::"[line5]"[lr]::
-24072::$$$message_0210_0045_0001$$$::Não há tempo para decidir se essa é ou não escolha certa.[lr]::
-24073::$$$message_0210_0045_0002$$$::Ela olha para o seu Mestre mais uma vez.[lr]::
-24074::$$$message_0210_0045_0003$$$::Ele está rangendo os dentes, tentando cumprir com a sua função.::
-24075::$$$message_0210_0046_0000$$$::"[line2]Vento."[lr]::
+24071::$$$message_0210_0045_0000$$$::[font italic=true]...[font italic=false][lr]::
+24072::$$$message_0210_0045_0001$$$::Ela não tem tempo para pensar se essa é a escolha certa.[lr]::
+24073::$$$message_0210_0045_0002$$$::Ela lança um último olhar para o Mestre, ainda a certa distância.[lr]::
+24074::$$$message_0210_0045_0003$$$::Ele está apenas rangendo os dentes e se contendo, cumprindo o seu papel.::
+24075::$$$message_0210_0046_0000$$$::"Ó vento..."[lr]::
 24076::$$$message_0210_0046_0001$$$::Isso faz com que ela não hesite mais.[lr]::
-24077::$$$message_0210_0046_0002$$$::Ela se esquece de tudo aquilo que deve acontecer no futuro.[lr]::
-24078::$$$message_0210_0046_0003$$$::Nesse momento, ela é apenas a espada de seu Mestre, e existe apenas para derrotar os seus inimigos.::
-24079::$$$message_0210_0047_0000$$$::"Vai, Rider! Primeiro a garota! Não deixe nenhum vestígio dela para trás...!"[lr]::
-24080::$$$message_0210_0047_0001$$$::Uma voz irritante dá o comando.[lr]::
+24077::$$$message_0210_0046_0002$$$::O que virá depois já não importa mais.[lr]::
+24078::$$$message_0210_0046_0003$$$::Tudo o que importa é este momento. Nele, ela deve ser a lâmina de seu Mestre e derrotar o inimigo à sua frente.::
+24079::$$$message_0210_0047_0000$$$::"Vai, Rider! Pegue a mulher primeiro. Não deixe nem rastro dela!"[lr]::
+24080::$$$message_0210_0047_0001$$$::Ouço aquele grito áspero e irritante dando a ordem.[lr]::
 24081::$$$message_0210_0047_0002$$$::E no mesmo instante, o Pégaso voa ainda mais alto.::
 24082::$$$message_0210_0047_0003$$$::Ele some de vista num piscar de olhos.[lr]::
 24083::$$$message_0210_0047_0004$$$::O Pégaso que voou até os céus já não possui mais a mesma forma.[lr]::
@@ -176,100 +176,101 @@ id=qid::label=str::text=lstr::
 24085::$$$message_0210_0047_0006$$$::Um cometa perfura a atmosfera.[lr]::
 24086::$$$message_0210_0047_0007$$$::Mesmo depois do Pégaso virar uma flecha de luz, a Rider ainda está o controlando.[lr]::
 24087::$$$message_0210_0047_0008$$$::Há apenas um alvo.[lr]::
-24088::$$$message_0210_0047_0009$$$::Ela vai destruir o seu inimigo junto com esse jardim isolado no céu[line2]!::
-24089::$$$message_0210_0048_0000$$$::"BELLERO[line3]"[lr]::
-24090::$$$message_0210_0048_0001$$$::O nome é pronunciado.[lr]::
-24091::$$$message_0210_0048_0002$$$::Um Fantasma Nobre carrega consigo um milagre que é liberado após o seu nome verdadeiro ser pronunciado....[lr]::
-24092::$$$message_0210_0048_0003$$$::E se um milagre é um desastre que não deve acontecer neste mundo[line2][lr]::
-24093::$$$message_0210_0048_0004$$$::"[line2]PHON...!!!!"[lr]::
-24094::$$$message_0210_0049_0000$$$::Um meteorito caindo na velocidade da luz.[lr]::
+24088::$$$message_0210_0047_0009$$$::Ela pretende aniquilar o inimigo por completo... e levar junto este jardim isolado no céu!::
+24089::$$$message_0210_0048_0000$$$::"Bellero..."[lr]::
+24090::$$$message_0210_0048_0001$$$::Ela pronuncia o nome.[lr]::
+24091::$$$message_0210_0048_0002$$$::Se um Fantasma Nobre é o milagre liberado quando seu Nome Verdadeiro é invocado...[lr]::
+24092::$$$message_0210_0048_0003$$$::"...phon!!!"[lr]::
+24093::$$$message_0210_0048_0004$$$::Então isto é um raio divino.::
+24094::$$$message_0210_0049_0000$$$::Um clarão estrondoso.[lr]::
 24095::$$$message_0210_0049_0001$$$::Ao observá-lo, os olhos dela não demonstram nenhuma emoção.[lr]::
-24096::$$$message_0210_0049_0002$$$::"[line2]Você disse que ninguém vai ver esse lugar, certo Rider?"[lr]::
-24097::$$$message_0210_0049_0003$$$::O vento é desembrulhado.[lr]::
-24098::$$$message_0210_0049_0004$$$::O vento concentrado se transforma numa tempestade furiosa.[lr]::
-24099::$$$message_0210_0049_0005$$$::"Eu sinto o mesmo. Aqui não precisamos nos preocupar em destruirmos tudo ao nosso redor[line3]!"::
+24096::$$$message_0210_0049_0002$$$::"Você disse que ninguém veria daqui de cima, não foi, Rider!?"[lr]::
+24097::$$$message_0210_0049_0003$$$::O vento se desenrola da lâmina dela...[lr]::
+24098::$$$message_0210_0049_0004$$$::...e se transforma numa tempestade furiosa.[lr]::
+24099::$$$message_0210_0049_0005$$$::"Concordo. Não há motivo para se preocupar em devastar o solo estando tão alto!"::
 24100::$$$message_0210_0050_0000$$$::O selo é rompido.[lr]::
 24101::$$$message_0210_0050_0001$$$::Ao liberar várias camadas de vento...[lr]::
 24102::$$$message_0210_0050_0002$$$::A sua espada é revelada.::
-24103::$$$message_0210_0051_0000$$$::[line2]Uma tempestade está se formando na frente dos meus olhos.[lr]::
+24103::$$$message_0210_0051_0000$$$::Uma tempestade se forma diante dos meus olhos.[lr]::
 24104::$$$message_0210_0051_0001$$$::Uma luz branca cai dos céus.[lr]::
 24105::$$$message_0210_0051_0002$$$::A Saber não se move, mesmo sabendo que é o alvo dela.::
-24106::$$$message_0210_0052_0000$$$::"Saber[line3]?"[lr]::
-24107::$$$message_0210_0052_0001$$$::O vento descontrolado está vindo dela.[lr]::
-24108::$$$message_0210_0052_0002$$$::Não, ele está vindo da espada que a Saber está segurando.::
-24109::$$$message_0210_0053_0000$$$::"[line3]Hã?"[lr]::
+24106::$$$message_0210_0052_0000$$$::"Sa...ber!?"[lr]::
+24107::$$$message_0210_0052_0001$$$::Aquele vendaval descontrolado... vem dela.[lr]::
+24108::$$$message_0210_0052_0002$$$::Não, não da Saber. Da espada que ela está segurando!::
+24109::$$$message_0210_0053_0000$$$::"...Hã?"[lr]::
 24110::$$$message_0210_0053_0001$$$::Eu não acredito no que estou vendo.[lr]::
 24111::$$$message_0210_0053_0002$$$::Estou conseguindo enxergar a espada que deveria ser invisível.[lr]::
-24112::$$$message_0210_0053_0003$$$::Aos poucos, como se bandagens fossem removidos, a espada dela começa a tomar forma.::
-24113::$$$message_0210_0054_0000$$$::"Uma espada[line2]dourada?"::
+24112::$$$message_0210_0053_0003$$$::Aos poucos, como se bandagens estivessem sendo desenroladas, a espada dela começa a tomar forma.::
+24113::$$$message_0210_0054_0000$$$::"Uma espada... dourada!?"::
 24114::$$$message_0210_0055_0000$$$::A tempestade se enfurece.[lr]::
 24115::$$$message_0210_0055_0001$$$::Vários selos são rasgados, como se uma caixa estivesse sendo aberta.[lr]::
 24116::$$$message_0210_0055_0002$$$::O vento se mistura com a atmosfera.[lr]::
 24117::$$$message_0210_0055_0003$$$::Preparando a espada exposta, ela encara o Pégaso descendente.::
-24118::$$$message_0210_0056_0000$$$::A Rider desce como um surto de luz.[lr]::
+24118::$$$message_0210_0056_0000$$$::Rider avança como um clarão ofuscante.[lr]::
 24119::$$$message_0210_0056_0001$$$::O Bellerophon cresce o suficiente para cobrir todo o telhado, e aumenta de velocidade para destruir não apenas a nós, como também o arranha-céu inteiro.::
 24120::$$$message_0210_0057_0000$$$::As 'Rédeas da Cavalaria Heroica' iluminam o telhado.[lr]::
-24121::$$$message_0210_0057_0001$$$::"[line5]"[lr]::
+24121::$$$message_0210_0057_0001$$$::[font italic=true]...[font italic=false][lr]::
 24122::$$$message_0210_0057_0002$$$::...O tempo para.[lr]::
 24123::$$$message_0210_0057_0003$$$::A minha mente paralisa ao encarar a destruição inevitável.[lr]::
 24124::$$$message_0210_0057_0004$$$::Porém...[lr]::
 24125::$$$message_0210_0057_0005$$$::Não por causa das 'Rédeas da Cavalaria Heroica'.::
-24126::$$$message_0210_0058_0000$$$::Mas pelas luzes convergentes.[lr]::
-24127::$$$message_0210_0058_0001$$$::A sua pureza nem se compara à luz da Rider, que só ganha em tamanho.[lr]::
+24126::$$$message_0210_0058_0000$$$::Mas pela luz que se aglomera e cresce.[lr]::
+24127::$$$message_0210_0058_0001$$$::A luz da montaria da Rider é brilhante, mas não chega nem perto da pureza desta aqui.[lr]::
 24128::$$$message_0210_0058_0002$$$::Nas mãos dela...[lr]::
-24129::$$$message_0210_0058_0003$$$::Estão reunidas todas as luzes do planeta. A espada sagrada mais forte que existe.::
+24129::$$$message_0210_0058_0003$$$::...a espada sagrada suprema, que reuniu as luzes das estrelas.::
 24130::$$$message_0210_0059_0000$$$::"[line2]EX[wsay canskip=1]::
 24131::$$$message_0210_0059_0001$$$::...CALIBUR!!!"::
-24132::$$$message_0210_0060_0000$$$::[line2]É literalmente um rastro de luz.::
-24133::$$$message_0210_0061_0000$$$::Uma lâmina de luz que corta tudo aquilo que encosta.[lr]::
-24134::$$$message_0210_0061_0001$$$::Ela fatia a Rider com um único ataque, se eleva no céu noturno, separa as nuvens, e então desaparece.[lr]::
-24135::$$$message_0210_0061_0002$$$::...Eu acho...[lr]::
-24136::$$$message_0210_0061_0003$$$::Que se essa coisa fosse usada no chão, haveria uma grande deformação no solo que nunca mais voltaria ao normal.::
-24137::$$$message_0210_0062_0000$$$::A espada dela nunca foi invisível.[lr]::
-24138::$$$message_0210_0062_0001$$$::Ela simplesmente não permitiu que os outros a enxergassem.[lr]::
-24139::$$$message_0210_0062_0002$$$::Uma espada dourada que fascina todos que a vêem, junto com o seu nome verdadeiro extremamente famoso.::
-24140::$$$message_0210_0063_0000$$$::[line2]Excalibur.[lr]::
-24141::$$$message_0210_0063_0001$$$::Reza a lenda que ela existiu na Inglaterra, sendo a espada do rei conhecido como o símbolo dos cavaleiros.[lr]::
-24142::$$$message_0210_0063_0002$$$::O Fantasma Nobre mais poderoso entre todos os Servos, selado em vários campos de separação.[lr]::
-24143::$$$message_0210_0063_0003$$$::Esse é o símbolo de heroísmo da Saber.::
+24132::$$$message_0210_0060_0000$$$::Um único feixe de luz brilhante.::
+24133::$$$message_0210_0061_0000$$$::É... uma lâmina de luz, cortando tudo o que toca.[lr]::
+24134::$$$message_0210_0061_0001$$$::O feixe de luz aniquila Rider por completo enquanto rasga as nuvens e desaparece no céu noturno.[lr]::
+24135::$$$message_0210_0061_0002$$$::Muito provavelmente...[lr]::
+24136::$$$message_0210_0061_0003$$$::...se aquela espada tivesse sido usada no solo, teria aberto um rastro de devastação pela cidade.::
+24137::$$$message_0210_0062_0000$$$::A espada dela não é "invisível".[lr]::
+24138::$$$message_0210_0062_0001$$$::Ela simplesmente não se revela.[lr]::
+24139::$$$message_0210_0062_0002$$$::É a espada dourada que fascina todos os que a contemplam, portadora de um Nome Verdadeiro famosíssimo.::
+24140::$$$message_0210_0063_0000$$$::Excalibur... a espada da vitória prometida.[lr]::
+24141::$$$message_0210_0063_0001$$$::Uma espada que se diz ter existido na Inglaterra; a arma empunhada pelo rei que se tornou o próprio símbolo da cavalaria.[lr]::
+24142::$$$message_0210_0063_0002$$$::O mais poderoso Fantasma Nobre entre todos os Servos, selado por vários Campos Limitados.[lr]::
+24143::$$$message_0210_0063_0003$$$::Essa é a prova de que Saber ocupa seu lugar como heroína.::
 24144::$$$message_0210_0064_0000$$$::O telhado está silencioso.[lr]::
 24145::$$$message_0210_0064_0001$$$::O vento se foi, e não há mais nada que faça barulho.::
-24146::$$$message_0210_0065_0000$$$::"[line5]"[lr]::
-24147::$$$message_0210_0065_0001$$$::Eu não consigo me aproximar da Saber, ficando apenas parado no lugar.[lr]::
-24148::$$$message_0210_0065_0002$$$::Não sei se é porque ainda estou confuso ou se o meu coração ainda está atraído pela espada.[lr]::
-24149::$$$message_0210_0065_0003$$$::A minha mente está estranha, e apenas coisas que não importam passam pela minha cabeça.::
+24146::$$$message_0210_0065_0000$$$::[font italic=true]...[font italic=false][lr]::
+24147::$$$message_0210_0065_0001$$$::Fico parado, atordoado. Não consigo me aproximar da Saber.[lr]::
+24148::$$$message_0210_0065_0002$$$::Não sei se ainda estou confuso demais para agir... ou se continuo fascinado pela espada dela.[lr]::
+24149::$$$message_0210_0065_0003$$$::Minha mente está em turbulência, e mal consigo organizar algum pensamento com sentido.::
 24150::$$$message_0210_0066_0000$$$::Por que ela tem essa espada?[lr]::
 24151::$$$message_0210_0066_0001$$$::Essa espada dourada pertence ao famoso rei dos cavaleiros.[lr]::
-24152::$$$message_0210_0066_0002$$$::Eu tento pensar como ela acabou ficando com a espada, e então, percebo que estou evitando a resposta mais óbvia.::
-24153::$$$message_0210_0067_0000$$$::...Não é preciso procurar por uma explicação muito complexa.[lr]::
+24152::$$$message_0210_0066_0002$$$::Tento entender como ela veio parar com algo assim, e então percebo que estou evitando a resposta mais óbvia de todas.::
+24153::$$$message_0210_0067_0000$$$::...Não preciso ficar inventando hipóteses mirabolantes.[lr]::
 24154::$$$message_0210_0067_0001$$$::A espada sempre foi dela.[lr]::
-24155::$$$message_0210_0067_0002$$$::É por isso que o nome verdadeiro da Saber é fácil de ser descoberto.[lr]::
-24156::$$$message_0210_0067_0003$$$::Não sei onde que o erro foi cometido, mas ela só pode ser uma pessoa se for a dona dessa espada sagrada.::
+24155::$$$message_0210_0067_0002$$$::E é por isso que o Nome Verdadeiro dela é tão fácil de deduzir.[lr]::
+24156::$$$message_0210_0067_0003$$$::A dona daquela espada sagrada só pode ter um nome.::
 24157::$$$message_0210_0068_0000$$$::"......"[lr]::
-24158::$$$message_0210_0068_0001$$$::A Saber não sai da posição em que finalizou o seu ataque.[lr]::
-24159::$$$message_0210_0068_0002$$$::...Eu deveria correr até ela, mas o meu corpo não permite.::
-24160::$$$message_0210_0069_0000$$$::...Até agora, eu só sabia na teoria que a Saber era um espírito heroico.[lr]::
-24161::$$$message_0210_0069_0001$$$::Talvez eu tenha percebido que ela era uma heroína do passado, algo "diferente" de mim[line2]e hesitei em me aproximar dela.::
+24158::$$$message_0210_0068_0001$$$::Saber permanece imóvel exatamente onde desferiu o golpe.[lr]::
+24159::$$$message_0210_0068_0002$$$::...Eu deveria correr até ela, mas o meu corpo não obedece.::
+24160::$$$message_0210_0069_0000$$$::...Já me disseram inúmeras vezes que Saber é um Espírito Heroico.[lr]::
+24161::$$$message_0210_0069_0001$$$::Mas agora que vi com meus próprios olhos que ela é, de fato, uma grande heroína do passado, até hesito em me aproximar dela.::
 24162::$$$message_0210_0070_0000$$$::"Hii...!"[lr]::
 24163::$$$message_0210_0070_0001$$$::Ouço um grito.[lr]::
-24164::$$$message_0210_0070_0002$$$::Algo está queimando aos fundos.::
-24165::$$$message_0210_0071_0000$$$::"[line3]Quem está aí!?"[lr]::
-24166::$$$message_0210_0071_0001$$$::Eu olho na direção do grito.[lr]::
-24167::$$$message_0210_0072_0000$$$::"Ah[line2]Ahhhh...! Está queimando, o meu Selo de Comando está queimando...!"[lr]::
-24168::$$$message_0210_0072_0001$$$::...o Shinji está lá, observando o livro queimar.::
-24169::$$$message_0210_0073_0000$$$::"[line2]Shinji."[lr]::
-24170::$$$message_0210_0073_0001$$$::"Hii...! Ha, aha[line2]"[lr]::
+24164::$$$message_0210_0070_0002$$$::Há algo queimando nas sombras.::
+24165::$$$message_0210_0071_0000$$$::Eu me viro para olhar.[lr]::
+24166::$$$message_0210_0071_0001$$$::Vejo um livro em chamas, desfazendo-se devagar em cinzas, e...::
+24167::$$$message_0210_0072_0000$$$::"Ah... ah... aaaahhh!!! Está queimando! Os meus Selos de Comando estão queimando...!"[lr]::
+24168::$$$message_0210_0072_0001$$$::Vejo Shinji se encolher enquanto assiste ao livro queimando.::
+24169::$$$message_0210_0073_0000$$$::"...Shinji."[lr]::
+24170::$$$message_0210_0073_0001$$$::"Aaagh! Ha... ah..."[lr]::
 24171::$$$message_0210_0073_0002$$$::Ele deve ter percebido que a Rider foi derrotada e que está em desvantagem.[lr]::
-24172::$$$message_0210_0073_0003$$$::O Shinji vira de costas para mim querendo fugir, e corre até a saída.::
-24173::$$$message_0210_0074_0000$$$::"...!"[lr]::
+24172::$$$message_0210_0073_0003$$$::Shinji se vira e dispara em direção à saída do telhado.::
+24173::$$$message_0210_0074_0000$$$::"Ei!"[lr]::
 24174::$$$message_0210_0074_0001$$$::Ele salta até a porta que leva às escadas.[lr]::
-24175::$$$message_0210_0074_0002$$$::"Volta aqui, Shinji[line2]!"::
+24175::$$$message_0210_0074_0002$$$::"Volta aqui, Shinji!"::
 24176::$$$message_0210_0075_0000$$$::Eu não posso deixá-lo escapar agora.[lr]::
-24177::$$$message_0210_0075_0001$$$::Mas no mesmo instante em que eu começo a perseguí-lo...[lr]::
-24178::$$$message_0210_0075_0002$$$::No canto do meu olho,[lr]::
+24177::$$$message_0210_0075_0001$$$::Mas, no instante em que me viro para persegui-lo...[lr]::
+24178::$$$message_0210_0075_0002$$$::...pelo canto do olho...[lr]::
 24179::$$$message_0210_0075_0003$$$::Vejo a Saber desmaiar.::
-24180::$$$message_0210_0076_0000$$$::"[line2]"[lr]::
+24180::$$$message_0210_0076_0000$$$::[font italic=true]...[font italic=false][lr]::
 24181::$$$message_0210_0076_0001$$$::A minha mente para.[lr]::
 24182::$$$message_0210_0076_0002$$$::O Shinji está fugindo, e a Saber está caída no chão.[lr]::
-24183::$$$message_0210_0076_0003$$$::Eu[line2][lr]::
+24183::$$$message_0210_0076_0003$$$::Eu devia...[lr]::
+
 

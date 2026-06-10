@@ -1,43 +1,45 @@
 DAT
 id=qid::label=str::text=lstr::
-24274::$$$message_0212_0000_0000$$$::[line2]Não posso deixar a Saber sozinha.[lr]::
-24275::$$$message_0212_0000_0001$$$::A Rider se foi, e o livro que continha o Selo de Comando do Shinji foi queimado.[lr]::
-24276::$$$message_0212_0000_0002$$$::O Shinji não possui mais um Servo, e ele também perdeu os seus Selos de Comando.[lr]::
-24277::$$$message_0212_0000_0003$$$::Posso dizer que a batalha terminou.[lr]::
-24278::$$$message_0212_0000_0004$$$::Portanto, a prioridade agora é a Saber...!::
+24274::$$$message_0212_0000_0000$$$::Não posso deixar a Saber sozinha.[lr]::
+24275::$$$message_0212_0000_0001$$$::A Rider se foi, e o livro que servia como Selo de Comando do Shinji virou cinzas.[lr]::
+24276::$$$message_0212_0000_0002$$$::Shinji não tem mais um Servo, e perdeu também os Selos de Comando.[lr]::
+24277::$$$message_0212_0000_0003$$$::A luta está praticamente encerrada.[lr]::
+24278::$$$message_0212_0000_0004$$$::Agora, a prioridade é a Saber.::
 24279::$$$message_0212_0001_0000$$$::"Saber...!"[lr]::
 24280::$$$message_0212_0001_0001$$$::Eu corro até ela.[lr]::
 24281::$$$message_0212_0001_0002$$$::A espada dourada não está mais em suas mãos.[lr]::
-24282::$$$message_0212_0001_0003$$$::Ela desapareceu e apenas a Saber permanece no campo de batalha, mas[line2]::
+24282::$$$message_0212_0001_0003$$$::Ela desapareceu, e agora só resta a Saber caída no chão.::
 24283::$$$message_0212_0002_0000$$$::"Hã...?"[lr]::
-24284::$$$message_0212_0002_0001$$$::A Saber não parece nem um pouco bem.[lr]::
-24285::$$$message_0212_0002_0002$$$::Ela está suando pela testa, e a sua respiração é fraca e irregular ao mesmo tempo, como se estivesse com febre.::
-24286::$$$message_0212_0003_0000$$$::"...Não acredito. Ei Saber[line2]qual é o problema?"[lr]::
-24287::$$$message_0212_0003_0001$$$::Eu chamo o nome dela com vergonha, mas ela não responde.[lr]::
+24284::$$$message_0212_0002_0001$$$::Saber está em péssimo estado.[lr]::
+24285::$$$message_0212_0002_0002$$$::Gotas de suor descem por sua testa, e a respiração é curta e pesada ao mesmo tempo. Ela parece estar febril.::
+24286::$$$message_0212_0003_0000$$$::"...Não pode ser. Ei, Saber! O que está acontecendo!?"[lr]::
+24287::$$$message_0212_0003_0001$$$::Eu a chamo, nervoso, mas ela não responde.[lr]::
 24288::$$$message_0212_0003_0002$$$::...Ela está inconsciente.::
-24289::$$$message_0212_0004_0000$$$::"[line2]Sa... ber...?"[lr]::
+24289::$$$message_0212_0004_0000$$$::"Sa...ber...?"[lr]::
 24290::$$$message_0212_0004_0001$$$::Eu toco em sua testa.[lr]::
-24291::$$$message_0212_0004_0002$$$::"Ai...!"[lr]::
+24291::$$$message_0212_0004_0002$$$::"Está quente...!"[lr]::
 24292::$$$message_0212_0004_0003$$$::Eu puxo a minha mão de volta logo em seguida.[lr]::
-24293::$$$message_0212_0004_0004$$$::E-Está incrivelmente quente.[lr]::
+24293::$$$message_0212_0004_0004$$$::E-Está quente demais![lr]::
 24294::$$$message_0212_0004_0005$$$::Se isso for uma febre, ela deve estar com quarenta graus...!::
-24295::$$$message_0212_0005_0000$$$::"Saber! Ei, aguenta firme...!?"[lr]::
+24295::$$$message_0212_0005_0000$$$::"Saber! Ei, reaja...!"[lr]::
 24296::$$$message_0212_0005_0001$$$::Mesmo chamando pelo nome dela, ela responde apenas com uma respiração pesada.[lr]::
-24297::$$$message_0212_0005_0002$$$::"[line3]!"[lr]::
+24297::$$$message_0212_0005_0002$$$::"...Ngh!"[lr]::
 24298::$$$message_0212_0005_0003$$$::Eu não sei o que diabos está acontecendo.[lr]::
-24299::$$$message_0212_0005_0004$$$::Mas sei que nós não podemos ficar parados aqui.::
-24300::$$$message_0212_0006_0000$$$::"Eu vou te levar para casa...! Se for reclamar, faça isso depois...!"[lr]::
+24299::$$$message_0212_0005_0004$$$::Só sei que não posso ficar parado aqui.::
+24300::$$$message_0212_0006_0000$$$::"Vou te levar para casa! Se quiser reclamar, reclama depois!"[lr]::
 24301::$$$message_0212_0006_0001$$$::Eu carrego a Saber.[lr]::
 24302::$$$message_0212_0006_0002$$$::...Ela está leve.[lr]::
 24303::$$$message_0212_0006_0003$$$::Ela já era leve, mas agora está mais leve ainda.[lr]::
 24304::$$$message_0212_0006_0004$$$::Não, mais importante do que isso, ela está...::
-24305::$$$message_0212_0007_0000$$$::"...Quente. Ela está viva."[lr]::
-24306::$$$message_0212_0007_0001$$$::A Saber ainda é ela mesma.[lr]::
+24305::$$$message_0212_0007_0000$$$::"...Está quente. Isso quer dizer que ela ainda está viva."[lr]::
+24306::$$$message_0212_0007_0001$$$::Saber continua sendo a mesma pessoa de sempre.[lr]::
 24307::$$$message_0212_0007_0002$$$::Estou com raiva de mim mesmo por ter hesitado.[lr]::
 24308::$$$message_0212_0007_0003$$$::...Droga, o que importa se ela for uma heroína?[lr]::
 24309::$$$message_0212_0007_0004$$$::Independente do que ela seja, a Saber está aqui e está quente.[lr]::
-24310::$$$message_0212_0007_0005$$$::Foi burrice minha ter pensado que mesmo assim havia um muro entre nós.::
-24311::$$$message_0212_0008_0000$$$::"[line2]Vou te levar para casa agora mesmo. Aguente firme até chegarmos lá, Saber...!"[lr]::
-24312::$$$message_0212_0008_0001$$$::Eu corro com a Saber nos braços.[lr]::
-24313::$$$message_0212_0008_0002$$$::Não sinto uma sensação de vitória.[lr]::
-24314::$$$message_0212_0008_0003$$$::Tudo o que sinto é Saber em meus braços, mal respirando.::
+24310::$$$message_0212_0007_0005$$$::Como eu fui idiota de erguer um muro entre nós...::
+24311::$$$message_0212_0008_0000$$$::"Vamos para casa, rápido. Só não se mexa, Saber!"[lr]::
+24312::$$$message_0212_0008_0001$$$::Começo a correr com a Saber nos braços.[lr]::
+24313::$$$message_0212_0008_0002$$$::Essa vitória não me traz triunfo algum.[lr]::
+24314::$$$message_0212_0008_0003$$$::Tudo o que sinto é a Saber em meus braços, mal conseguindo respirar.::
+
+

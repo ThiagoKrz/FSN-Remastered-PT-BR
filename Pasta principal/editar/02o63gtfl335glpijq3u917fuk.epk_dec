@@ -1,152 +1,153 @@
 DAT
 id=qid::label=str::text=lstr::
-11811::$$$message_0117_0000_0000$$$::[line2]Eu nem preciso pensar duas vezes.[lr]::
+11811::$$$message_0117_0000_0000$$$::Nem preciso pensar nisso.[lr]::
 11812::$$$message_0117_0000_0001$$$::A minha paciência já está no limite.[lr]::
 11813::$$$message_0117_0000_0002$$$::Por que todo mundo pensa que a Saber está desaparecendo?[lr]::
 11814::$$$message_0117_0000_0003$$$::A Saber não vai sumir, e eu vou lutar ao lado dela até o final.[lr]::
 11815::$$$message_0117_0000_0004$$$::Eu não posso me desfazer daquela promessa por causa de uma proposta dessas.::
-11816::$$$message_0117_0001_0000$$$::"...Illya, eu não posso fazer o que você está me pedindo. Eu tenho a Saber. Enquanto eu tiver ela, eu só vou lutar como um Mestre."::
-11817::$$$message_0117_0002_0000$$$::"[line5]"[lr]::
-11818::$$$message_0117_0002_0001$$$::Eu ouço o suspiro dela.[lr]::
-11819::$$$message_0117_0002_0002$$$::Os seus olhos vermelhos se abrem rapidamente como se fosse um sinal de "rigor mortis".::
-11820::$$$message_0117_0003_0000$$$::"...Entendo. Então você vai me trair também, Shirou?"[lr]::
-11821::$$$message_0117_0003_0001$$$::A Illya se afasta de mim.[lr]::
-11822::$$$message_0117_0003_0002$$$::Ela me observa com desprezo, sem demonstrar tristeza.::
-11823::$$$message_0117_0004_0000$$$::"Está bem. Se você não quer me dar ouvidos, eu também não vou te ouvir mais.[lr]::
-11824::$$$message_0117_0004_0001$$$::Eu estive ignorando vocês até agora, mas já me cansei disso."[lr]::
-11825::$$$message_0117_0004_0002$$$::A voz da Illya está cheia de intenção de matar.[lr]::
-11826::$$$message_0117_0004_0003$$$::Posso sentir um tom ameaçador vindo dela.::
+11816::$$$message_0117_0001_0000$$$::"Illya. Não posso fazer o que você está me pedindo. Eu tenho a Saber. Enquanto a Saber estiver aqui, vou continuar lutando como Mestre."::
+11817::$$$message_0117_0002_0000$$$::"..."[lr]::
+11818::$$$message_0117_0002_0001$$$::Ouço um leve suspiro.[lr]::
+11819::$$$message_0117_0002_0002$$$::Por um instante, seus olhos vermelhos se arregalam num sobressalto quase cadavérico.::
+11820::$$$message_0117_0003_0000$$$::"Oh... Então você vai me trair também, Shirou?"[lr]::
+11821::$$$message_0117_0003_0001$$$::Illya recua.[lr]::
+11822::$$$message_0117_0003_0002$$$::Ela abaixa o olhar, mas mantém a compostura.::
+11823::$$$message_0117_0004_0000$$$::"Tudo bem. Se você não vai me ouvir, então eu também não vou mais ouvir você.[lr]::
+11824::$$$message_0117_0004_0001$$$::Tenho deixado você fazer o que quer, mas isso acaba agora."[lr]::
+11825::$$$message_0117_0004_0002$$$::A voz da Illya agora transborda hostilidade.[lr]::
+11826::$$$message_0117_0004_0003$$$::Há algo terrível escondido por trás dessa malícia.::
 11827::$$$message_0117_0005_0000$$$::"Fique aqui. Eu não vou demorar muito."::
 11828::$$$message_0117_0006_0000$$$::"Espera...! O que você vai fazer, Illya...!?"[lr]::
-11829::$$$message_0117_0006_0001$$$::"O que foi? Vou matar a Saber e a Rin. Você vai se arrepender um pouco se eu matá-las, não vai?"::
-11830::$$$message_0117_0007_0000$$$::"Quê[line2]? Não fale uma coisa imbecil dessas...! A Saber e a Tohsaka não têm nada a ver com isso! Eu não posso ficar com você pelos meus próprios motivos...!"::
-11831::$$$message_0117_0008_0000$$$::"É mesmo? Mas eu vou matá-las mesmo assim. E você, Shirou, vai ser o próximo. Se você não for meu, eu não te quero mais."::
-11832::$$$message_0117_0009_0000$$$::Ela começa a ir.[lr]::
+11829::$$$message_0117_0006_0001$$$::"Ah, nada demais... Só vou matar a Saber e a Rin. Se eu matar as duas, isso deve te deixar um pouco culpado, não?"::
+11830::$$$message_0117_0007_0000$$$::"O qu...? Não fala bobagem! A Saber e a Tohsaka não têm nada a ver com isso! Só estou dizendo que não posso ficar com você por motivos meus!"::
+11831::$$$message_0117_0008_0000$$$::"Ah, é? Bom, eu vou matá-las do mesmo jeito. Quando terminar com elas, vai ser a sua vez. Se você não vai ser meu, então não serve para nada."::
+11832::$$$message_0117_0009_0000$$$::Ouço os passos da Illya se afastando.[lr]::
 11833::$$$message_0117_0009_0001$$$::Ela não está blefando.[lr]::
 11834::$$$message_0117_0009_0002$$$::Ela vai mesmo matar a Saber e a Tohsaka.::
-11835::$$$message_0117_0010_0000$$$::"Não faça isso, Illya...! Já falei que elas não têm nada a ver com isso...! O sequestrado aqui sou eu, se você me odeia então me mate logo...! Mas você não precisa matá-las também...!"::
-11836::$$$message_0117_0011_0000$$$::"Eu preciso sim. Não posso deixar os outros Mestres vivos. É assim que a Guerra do Santo Graal funciona, não é?"[lr]::
-11837::$$$message_0117_0011_0001$$$::"Idiota, não diga que vai matar alguém como se não fosse nada demais...! Isso não combina contigo. Você é só uma criança, não faça esse tipo de coisa...!"::
-11838::$$$message_0117_0012_0000$$$::Depois de me olhar com um rosto espantado...[lr]::
-11839::$$$message_0117_0012_0001$$$::"Sinto muito. Mas eu já matei um Mestre, Onii-chan."[lr]::
-11840::$$$message_0117_0012_0002$$$::A Illya diz isso com um sorriso em seu rosto.::
-11841::$$$message_0117_0013_0000$$$::"Bem, mas isso foi ontem. Nem era a minha intenção, porque eu achei que você iria matá-lo primeiro."::
-11842::$$$message_0117_0014_0000$$$::"Quê[line2]?"[lr]::
+11835::$$$message_0117_0010_0000$$$::"Pare, Illya! A Saber e a Tohsaka não têm nada a ver com isso! Eu sou quem você capturou, então, se vai odiar alguém, me odeie! Você não precisa matá-las!"::
+11836::$$$message_0117_0011_0000$$$::"Tenho um motivo. Não posso deixar nenhum outro Mestre vivo. Não é assim que funciona a Guerra do Santo Graal?"[lr]::
+11837::$$$message_0117_0011_0001$$$::"Sua idiota! Não fale de matar pessoas como se isso fosse a coisa mais simples do mundo! Você não devia fazer isso! Você é só uma criança! Nem devia pensar nesse tipo de coisa!"::
+11838::$$$message_0117_0012_0000$$$::Illya me encara, incrédula.[lr]::
+11839::$$$message_0117_0012_0001$$$::"Tarde demais. Eu já matei um Mestre, Onii-chan."[lr]::
+11840::$$$message_0117_0012_0002$$$::Ela soa quase alegre ao dizer isso.::
+11841::$$$message_0117_0013_0000$$$::"Mas foi ontem. Eu achei que você daria conta dele, então não esperava ter que fazer isso."::
+11842::$$$message_0117_0014_0000$$$::"O qu...?"[lr]::
 11843::$$$message_0117_0014_0001$$$::Nesse momento.[lr]::
 11844::$$$message_0117_0014_0002$$$::Para a minha surpresa, eu entendo perfeitamente o que ela está falando.[lr]::
-11845::$$$message_0117_0014_0003$$$::...a Illya disse que estava naquele arranha-céu ontem à noite.[lr]::
+11845::$$$message_0117_0014_0003$$$::A Illya estava naquele prédio ontem à noite.[lr]::
 11846::$$$message_0117_0014_0004$$$::Então...[lr]::
-11847::$$$message_0117_0014_0005$$$::Não seria aquele Mestre que estava fugindo de mim uma presa perfeita para ela?::
-11848::$$$message_0117_0015_0000$$$::"Illya[line2]você..."[lr]::
+11847::$$$message_0117_0014_0005$$$::...ela deve ter visto aquele Mestre, correndo por sua vida, como a presa perfeita.::
+11848::$$$message_0117_0015_0000$$$::"Illya... você não..."[lr]::
 11849::$$$message_0117_0015_0001$$$::"Desculpa. Eu só fiz isso porque você não fez antes. Na verdade, eu não gosto de me intrometer no assunto dos outros."[lr]::
 11850::$$$message_0117_0015_0002$$$::Ela não sente a menor culpa.[lr]::
 11851::$$$message_0117_0015_0003$$$::Não deve ter sido nada demais para a Illya.::
-11852::$$$message_0117_0016_0000$$$::"[line5]"[lr]::
+11852::$$$message_0117_0016_0000$$$::[font italic=true]...[font italic=false][lr]::
 11853::$$$message_0117_0016_0001$$$::...Isso me fez perceber uma coisa.[lr]::
-11854::$$$message_0117_0016_0002$$$::Aliás, eu já deveria ter percebido isso na última vez que me encontrei com ela.[lr]::
+11854::$$$message_0117_0016_0002$$$::...Eu provavelmente já sabia disso desde a primeira vez que a encontrei.[lr]::
 11855::$$$message_0117_0016_0003$$$::Essa menina não sabe diferenciar o bem do mau.[lr]::
-11856::$$$message_0117_0016_0004$$$::Se a menina que sorri de forma inocente é a Illya, a menina que sorri sem piedade também é a Illya.[lr]::
-11857::$$$message_0117_0016_0005$$$::...Não é como se um anjo e um demônio estivessem dentro dela.[lr]::
-11858::$$$message_0117_0016_0006$$$::A Illya é apenas um demônio em forma de anjo[line2]::
-11859::$$$message_0117_0017_0000$$$::"Então, estou indo.[lr]::
+11856::$$$message_0117_0016_0004$$$::Aquele sorriso inocente é tão Illya quanto a risada sem piedade que estou ouvindo agora.[lr]::
+11857::$$$message_0117_0016_0005$$$::Não é que a Illya tenha um anjo de um lado e um demônio do outro.[lr]::
+11858::$$$message_0117_0016_0006$$$::A Illya, por mais angelical que pareça, [font italic=true]é[font italic=false] um demônio.::
+11859::$$$message_0117_0017_0000$$$::"Bem, estou indo.[lr]::
 11860::$$$message_0117_0017_0001$$$::Você será o próximo quando eu voltar, então faça de tudo para conseguir escapar."::
-11861::$$$message_0117_0018_0000$$$::"Apesar que um pássaro não pode fugir da sua gaiola por ser um pássaro.[lr]::
-11862::$$$message_0117_0018_0001$$$::Eu duvido que você consiga sair dessa gaiola em que está preso agora."::
-11863::$$$message_0117_0019_0000$$$::...a Illya sai do quarto.[lr]::
-11864::$$$message_0117_0019_0001$$$::O que ela disse é verdade.[lr]::
-11865::$$$message_0117_0019_0002$$$::Como ela não sabe negociar ou fazer ameaças, tudo o que ela disse até agora é verdade.[lr]::
-11866::$$$message_0117_0019_0003$$$::Então eu não posso ficar aqui parado.[lr]::
+11861::$$$message_0117_0018_0000$$$::"Por outro lado, um passarinho em cativeiro continua em cativeiro, porque não consegue escapar.[lr]::
+11862::$$$message_0117_0018_0001$$$::Conhecendo você, duvido que consiga sair dessa gaiola."::
+11863::$$$message_0117_0019_0000$$$::A Illya vai embora.[lr]::
+11864::$$$message_0117_0019_0001$$$::E, claro, ela tem toda razão.[lr]::
+11865::$$$message_0117_0019_0002$$$::Ela não entende nada de ameaças ou de negociação, então simplesmente... diz o que é verdade.[lr]::
+11866::$$$message_0117_0019_0003$$$::Mas eu não posso ficar aqui para sempre.[lr]::
 11867::$$$message_0117_0019_0004$$$::Eu tenho que fugir e me encontrar com a Saber antes que a Illya a ataque primeiro.::
-11868::$$$message_0117_0020_0000$$$::"Kuh[line2]droga...!"[lr]::
+11868::$$$message_0117_0020_0000$$$::"Ungh...!"[lr]::
 11869::$$$message_0117_0020_0001$$$::Eu sacudo o meu corpo e tento afrouxar as cordas.[lr]::
-11870::$$$message_0117_0020_0002$$$::Ela deve achar mesmo que eu não vou conseguir escapar, já que não tem mais ninguém no quarto.[lr]::
-11871::$$$message_0117_0020_0003$$$::Eu posso me livrar dessas cordas sozinho se não tiver mais ninguém me vigiando, mas[line2]::
-11872::$$$message_0117_0021_0000$$$::"[line2]Droga, o meu corpo... ainda[line2]"[lr]::
+11870::$$$message_0117_0020_0002$$$::Talvez ela realmente ache que eu não consigo escapar. Não há mais ninguém aqui.[lr]::
+11871::$$$message_0117_0020_0003$$$::Se ninguém estiver me vigiando, até eu consigo me livrar de umas cordas, mas...::
+11872::$$$message_0117_0021_0000$$$::"Droga... ainda não consigo..."[lr]::
 11873::$$$message_0117_0021_0001$$$::Não está funcionando direito.[lr]::
 11874::$$$message_0117_0021_0002$$$::Eu até consigo me mexer, mas os meus membros estão pesados feito aço, e só de movê-los já fico sem fôlego.::
-11875::$$$message_0117_0022_0000$$$::"... a Illya... deve ter previsto isso. Por isso que ela disse que não vou conseguir sair dessa gaiola..."[lr]::
+11875::$$$message_0117_0022_0000$$$::"...A Illya sabia que eu não conseguiria escapar por causa disso..."[lr]::
 11876::$$$message_0117_0022_0001$$$::...Eu realmente não consigo me mexer.[lr]::
 11877::$$$message_0117_0022_0002$$$::Mesmo que eu me livre das cordas, eu não vou poder escapar se o meu corpo não se mover como eu quero.::
-11878::$$$message_0117_0023_0000$$$::"...Não é porque eu estou cansado... É mesmo, eu não posso me mexer por causa dos olhos da Illya..."::
-11879::$$$message_0117_0024_0000$$$::Deve ser o que eles chamam de Olhos Místicos.[lr]::
-11880::$$$message_0117_0024_0001$$$::Dizem que um mago de alto nível é capaz de interferir magicamente em um alvo só de olhar nos olhos dele.[lr]::
-11881::$$$message_0117_0024_0002$$$::Uma variação comum de Olhos Místicos é a "prisão", então o caso dela deve ser algo parecido com esse.::
-11882::$$$message_0117_0025_0000$$$::Como os olhos recebem informações visuais, a sua desvantagem é que eles são fracos contra sugestões.[lr]::
-11883::$$$message_0117_0025_0001$$$::Por conta disso, um mago normalmente faz um encantamento para proteger os seus olhos para que ele possa repelir a energia mágica dos outros.::
-11884::$$$message_0117_0026_0000$$$::"...O que a Tohsaka diria se descobrisse que eu fui preso por causa de uma sugestão sem nem fazer um encantamento antes..."::
-11885::$$$message_0117_0027_0000$$$::...Bem, são só Olhos Místicos que são obtidos com o uso de magia.[lr]::
-11886::$$$message_0117_0027_0001$$$::Mas eu soube que monstros que nascem com esses olhos nem precisam olhar nos olhos do alvo.[lr]::
-11887::$$$message_0117_0027_0002$$$::Essas pessoas exibem a sua habilidade só de "observar", mas até onde eu sei esse tipo de poder é raro.::
-11888::$$$message_0117_0028_0000$$$::Então.[lr]::
-11889::$$$message_0117_0028_0001$$$::Para a minha sorte, parece que os Olhos Místicos da Illya não são de nenhum tipo especial. Ela só fez uma intervenção, ou seja, enviou energia mágica para dentro do meu corpo.[lr]::
-11890::$$$message_0117_0028_0002$$$::E portanto, há sim um jeito de me desprender.[lr]::
-11891::$$$message_0117_0028_0003$$$::Eu não posso mexer o meu corpo porque a energia mágica da Illya está invadindo os meus nervos.[lr]::
-11892::$$$message_0117_0028_0004$$$::Então, se eu expulsar essa energia mágica, posso me mover novamente.::
-11893::$$$message_0117_0029_0000$$$::"[line2]É simples. Se há um acúmulo de lama, é só lavar com água que ela sai."::
+11878::$$$message_0117_0023_0000$$$::"...Não é só cansaço... É isso. Não consigo me mexer desde que olhei nos olhos da Illya..."::
+11879::$$$message_0117_0024_0000$$$::Devem ser Olhos Místicos.[lr]::
+11880::$$$message_0117_0024_0001$$$::Dizem que magos realmente superiores conseguem realizar uma espécie de magia só de fazer contato visual com o alvo.[lr]::
+11881::$$$message_0117_0024_0002$$$::Restrição é um efeito comum de Olhos Místicos, então provavelmente é isso que está acontecendo aqui.::
+11882::$$$message_0117_0025_0000$$$::Os olhos são o meio pelo qual recebemos informação visual e, por isso, são vulneráveis a sugestões e feitiços.[lr]::
+11883::$$$message_0117_0025_0001$$$::É por isso que a maioria dos magos usa algum tipo de proteção nos olhos para bloquear a magia dos outros.::
+11884::$$$message_0117_0026_0000$$$::"...A Tohsaka ficaria uma fera se descobrisse que bastou uma sugestão para me paralisar, e eu nem sequer tinha me protegido..."::
+11885::$$$message_0117_0027_0000$$$::...Bem, isso vale para Olhos Místicos obtidos por meio da magia.[lr]::
+11886::$$$message_0117_0027_0001$$$::Também ouvi dizer que monstros que nascem com esses olhos nem precisam cruzar o olhar com o alvo.[lr]::
+11887::$$$message_0117_0027_0002$$$::Basta "olharem" para usar a habilidade, mas, pelo que sei, esse tipo de poder é extremamente raro.::
+11888::$$$message_0117_0028_0000$$$::E...[lr]::
+11889::$$$message_0117_0028_0001$$$::Por sorte, os Olhos Místicos da Illya não parecem ser nada de único ou especial. Eles só servem para enviar Energia Mágica ao alvo.[lr]::
+11890::$$$message_0117_0028_0002$$$::E isso quer dizer que tem de haver um jeito de anular o efeito.[lr]::
+11891::$$$message_0117_0028_0003$$$::A Energia Mágica da Illya está invadindo meus nervos e me impedindo de me mover.[lr]::
+11892::$$$message_0117_0028_0004$$$::Se eu conseguir expulsá-la, devo voltar a me mexer.::
+11893::$$$message_0117_0029_0000$$$::"É simples. Se há um acúmulo de lama, basta lavá-la para expulsá-la."::
 11894::$$$message_0117_0030_0000$$$::Eu fecho os olhos e me concentro no interior do meu corpo.[lr]::
 11895::$$$message_0117_0030_0001$$$::...Eu não tenho habilidade o suficiente para detectar ou remover a energia mágica de outra pessoa de dentro de mim.[lr]::
 11896::$$$message_0117_0030_0002$$$::Mas não é preciso ter esse tipo de habilidade se a energia não estiver enraizada no meu corpo.[lr]::
 11897::$$$message_0117_0030_0003$$$::Se a energia mágica da Illya estiver apenas parada, eu só tenho que direcionar uma corrente forte de energia mágica até que ela saia.::
-11898::$$$message_0117_0031_0000$$$::"...Desculpa. Esse é um método violento, mas eu não tenho outra escolha."[lr]::
-11899::$$$message_0117_0031_0001$$$::Eu peço desculpas para o meu corpo para tentar me consolar.::
+11898::$$$message_0117_0031_0000$$$::"...Desculpa... é um método grosseiro, mas é tudo o que posso fazer."[lr]::
+11899::$$$message_0117_0031_0001$$$::Peço desculpas ao meu corpo, tentando me consolar.::
 11900::$$$message_0117_0032_0000$$$::Eu só preciso fazer a minha rotina diária.[lr]::
-11901::$$$message_0117_0032_0001$$$::O ritual em que eu encaixo um nervo nas minhas costas.[lr]::
+11901::$$$message_0117_0032_0001$$$::O ritual em que eu forço um nervo estranho pela minha espinha.[lr]::
 11902::$$$message_0117_0032_0002$$$::...Não, não é mais isso.[lr]::
 11903::$$$message_0117_0032_0003$$$::Não preciso criar mais um nervo.[lr]::
-11904::$$$message_0117_0032_0004$$$::Eu posso simplesmente ativar um interruptor dentro de mim.[lr]::
-11905::$$$message_0117_0032_0005$$$::Não é preciso criar um Circuito Mágico novo, eu só tenho que transformar os meus nervos em um Circuito Mágico.::
+11904::$$$message_0117_0032_0004$$$::Agora, tudo o que preciso fazer é acionar o interruptor dentro da minha cabeça.[lr]::
+11905::$$$message_0117_0032_0005$$$::Em vez de criar um Circuito Mágico novo, só preciso converter os meus nervos em um Circuito Mágico.::
 11906::$$$message_0117_0033_0000$$$::"Trace, on."[lr]::
-11907::$$$message_0117_0033_0001$$$::Eu pronuncio um encantamento para dar uma sugestão em mim mesmo.[lr]::
-11908::$$$message_0117_0033_0002$$$::Os encantamentos não afetam o mundo em si.[lr]::
-11909::$$$message_0117_0033_0003$$$::Eles apenas são pronunciados por alguém que deseje interferir no ambiente ao seu redor.[lr]::
-11910::$$$message_0117_0033_0004$$$::A melhor maneira de fazer o seu corpo se transformar é usando palavras.[lr]::
-11911::$$$message_0117_0033_0005$$$::Uma ordem que funciona apenas na própria pessoa para criar um mistério divino, uma magia bem simples conhecida como encantamento.::
-11912::$$$message_0117_0034_0000$$$::"[line2]Estrutura básica, analisada."[lr]::
+11907::$$$message_0117_0033_0001$$$::Murmuro o encantamento para me concentrar.[lr]::
+11908::$$$message_0117_0033_0002$$$::Encantamentos não existem para mudar o mundo ao seu redor.[lr]::
+11909::$$$message_0117_0033_0003$$$::Eles existem para serem usados em si mesmo... para lhe dar poder de mudar o mundo.[lr]::
+11910::$$$message_0117_0033_0004$$$::Para magos, são uma forma de iniciar uma espécie de autotransformação.[lr]::
+11911::$$$message_0117_0033_0005$$$::Encantamentos são a magia mais básica: uma ordem que só funciona em você, criada para gerar um Mistério só seu.::
+11912::$$$message_0117_0034_0000$$$::"Estrutura básica... analisada."[lr]::
 11913::$$$message_0117_0034_0001$$$::A minha circulação sanguínea acelera.[lr]::
 11914::$$$message_0117_0034_0002$$$::O meu sangue fica mais poderoso.[lr]::
 11915::$$$message_0117_0034_0003$$$::O meu corpo se transforma em um dispositivo de bombeamento de energia mágica.[lr]::
 11916::$$$message_0117_0034_0004$$$::...Aquela joia que a Tohsaka me fez engolir deve estar me ajudando.[lr]::
 11917::$$$message_0117_0034_0005$$$::Normalmente eu levo uma hora para gerar energia mágica, mas dessa vez eu consegui em instantes.::
-11918::$$$message_0117_0035_0000$$$::"[line2]Composição, analisada."[lr]::
+11918::$$$message_0117_0035_0000$$$::"Composição... analisada."[lr]::
 11919::$$$message_0117_0035_0001$$$::...Eu nem preciso ativar o interruptor.[lr]::
 11920::$$$message_0117_0035_0002$$$::Eu posso só deixar a energia mágica fluir dentro de mim e soltar as minhas mãos.[lr]::
 11921::$$$message_0117_0035_0003$$$::...Bem.[lr]::
 11922::$$$message_0117_0035_0004$$$::Eu disse aquilo sobre ativar o interruptor, mas ainda não faço ideia de onde esse tal de interruptor fica.::
-11923::$$$message_0117_0036_0000$$$::[line2]O calor está insuportável.[lr]::
-11924::$$$message_0117_0036_0001$$$::Controlando os meus batimentos cardíacos com calma, eu liberto as minhas mãos da corda.::
+11923::$$$message_0117_0036_0000$$$::O calor irrompe dentro de mim.[lr]::
+11924::$$$message_0117_0036_0001$$$::Tento controlar os batimentos violentos do meu coração, e minhas mãos escorregam para fora da corda.::
 11925::$$$message_0117_0037_0000$$$::"Guh...!"[lr]::
 11926::$$$message_0117_0037_0001$$$::Começo a derramar sangue pela boca.[lr]::
 11927::$$$message_0117_0037_0002$$$::Alguma veia ou coisa parecida deve ter se rompido dentro de mim.[lr]::
-11928::$$$message_0117_0037_0003$$$::Eu direcionei energia mágica o bastante para lavar a lama do meu corpo, então até tenho sorte de só ter cuspido sangue. Sem falar que eu não estou sentido dor nenhuma.::
+11928::$$$message_0117_0037_0003$$$::Canalizei Energia Mágica suficiente para expulsar a lama que havia invadido meu corpo, então é até um milagre eu só estar cuspindo sangue. E o mais estranho é que não sinto dor nenhuma.::
 11929::$$$message_0117_0038_0000$$$::"...Talvez eu não esteja sentindo dor por causa daquela coisa de se auto-curar..."[lr]::
 11930::$$$message_0117_0038_0001$$$::É uma anomalia que eu não entendo, mas que agradeço por me ajudar em situações como essa.[lr]::
-11931::$$$message_0117_0038_0002$$$::Essa é a minha única e maior vantagem: poder me curar de qualquer ferida contanto que ela não seja fatal.::
+11931::$$$message_0117_0038_0002$$$::A capacidade de me curar de qualquer ferimento que não seja fatal é, no momento, a minha maior[line2]e única[line2]vantagem.::
 11932::$$$message_0117_0039_0000$$$::...O problema é que eu não posso depender dessa vantagem.[lr]::
 11933::$$$message_0117_0039_0001$$$::Porque eu não sei o que faz o poder de cura se ativar. Se eu me ferir e depender disso para me curar, pode ser que já não funcione na próxima vez em que precisar.[lr]::
 11934::$$$message_0117_0039_0002$$$::Portanto, seria melhor não depender de um milagre desconhecido como esse.::
-11935::$$$message_0117_0040_0000$$$::"[line2]Certo, agora a corda."[lr]::
+11935::$$$message_0117_0040_0000$$$::"Certo. Agora só falta a corda."[lr]::
 11936::$$$message_0117_0040_0001$$$::Eu afrouxo a corda.[lr]::
 11937::$$$message_0117_0040_0002$$$::Os meus pulsos estão marcados, mas as minhas mãos não foram amarradas com muita força.[lr]::
-11938::$$$message_0117_0040_0003$$$::...Não acho que tenha sido Illya a que me amarrou, mas não estava tão apertado assim.[lr]::
+11938::$$$message_0117_0040_0003$$$::...Não acho que foi a Illya quem me amarrou, mas não estava tão apertado assim.[lr]::
 11939::$$$message_0117_0040_0004$$$::Se parar para pensar, a Illya não poderia ter me carregado até esse quarto.[lr]::
-11940::$$$message_0117_0040_0005$$$::Será que tem alguém aqui além da Illya que não seja tão forte?::
+11940::$$$message_0117_0040_0005$$$::Quem mais aqui, além da Illya, não deve ser tão forte assim?::
 11941::$$$message_0117_0041_0000$$$::"...Com certeza não foi o Berserker. Se ele tivesse me amarrado, os meus pulsos teriam se retorcido na mesma hora."[lr]::
-11942::$$$message_0117_0041_0001$$$::Eu me levanto da cadeira com fazendo um comentário besta.[lr]::
-11943::$$$message_0117_0041_0002$$$::"[line2]!"[lr]::
-11944::$$$message_0117_0041_0003$$$::...Bom saber que eu já posso me mover livremente, mas parece que esse movimento foi brusco demais.::
+11942::$$$message_0117_0041_0001$$$::Eu me levanto da cadeira tentando fazer uma piada idiota.[lr]::
+11943::$$$message_0117_0041_0002$$$::"...Ai."[lr]::
+11944::$$$message_0117_0041_0003$$$::Consigo mover o corpo, mas exagerei no esforço.::
 11945::$$$message_0117_0041_0004$$$::Eu não tenho nenhuma ferida, mas a energia mágica ainda está se agitando dentro de mim.[lr]::
 11946::$$$message_0117_0041_0005$$$::Só de me mexer o corpo faz com que o meu interior fique todo bagunçado.[lr]::
 11947::$$$message_0117_0041_0006$$$::...Deve ser a dor.[lr]::
 11948::$$$message_0117_0041_0007$$$::Estou com tontura e enjôo, e eu também não sinto os meus membros.[lr]::
-11949::$$$message_0117_0041_0008$$$::Se continuar assim, eu não vou conseguir voltar para casa antes da Illya[line2]::
-11950::$$$message_0117_0042_0000$$$::"[line2]Eu estou sendo muito medroso. Isso não é hora de ter pensamentos negativos."[lr]::
+11949::$$$message_0117_0041_0008$$$::Nesse estado, eu não vou conseguir voltar para casa antes que a Illya volte...::
+11950::$$$message_0117_0042_0000$$$::"Por que estou sendo tão covarde? Não tenho tempo para esse tipo de pensamento."[lr]::
 11951::$$$message_0117_0042_0001$$$::Eu dou um tapa nas minhas bochechas e começo a andar.::
-11952::$$$message_0117_0043_0000$$$::"...?"[lr]::
+11952::$$$message_0117_0043_0000$$$::"O quê?"[lr]::
 11953::$$$message_0117_0043_0001$$$::Assim que eu me apoio na parede e vou em direção à porta...[lr]::
-11954::$$$message_0117_0043_0002$$$::Eu ouço um barulho vindo do outro lado.[lr]::
+11954::$$$message_0117_0043_0002$$$::Ouço alguma coisa do outro lado da parede.[lr]::
 11955::$$$message_0117_0043_0003$$$::...São passos.[lr]::
 11956::$$$message_0117_0043_0004$$$::E não apenas de uma pessoa. Essas pessoas, que estavam se aproximando enquanto conversavam, param na frente da porta.::
-11957::$$$message_0117_0044_0000$$$::"...Uma patrulha...!? Droga, por que logo agora...!?"[lr]::
+11957::$$$message_0117_0044_0000$$$::"Tem alguém patrulhando!? Droga, logo agora...!"[lr]::
 11958::$$$message_0117_0044_0001$$$::Não há tempo de me esconder.[lr]::
-11959::$$$message_0117_0044_0002$$$::Eu deveria[line2][lr]::
-5
+11959::$$$message_0117_0044_0002$$$::Eu preciso...[lr]::
+
+
