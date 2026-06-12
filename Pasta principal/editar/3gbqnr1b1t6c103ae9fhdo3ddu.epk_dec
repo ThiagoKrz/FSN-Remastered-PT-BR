@@ -1,103 +1,103 @@
 DAT
 id=qid::label=str::text=lstr::
-16437::$$$message_0149_0000_0000$$$::Eu atravesso a ponte iluminada pela Lua.[lr]::
+16437::$$$message_0149_0000_0000$$$::Eu atravesso a ponte à noite.[lr]::
 16438::$$$message_0149_0000_0001$$$::Foi aqui que eu caminhei junto com a Saber.[lr]::
 16439::$$$message_0149_0000_0002$$$::Naquela hora, eu só estava olhando para a paisagem sem me preocupar com nada.::
-16440::$$$message_0149_0001_0000$$$::'A Saber vai morrer depois que conseguir o Santo Graal.[lr]::
-16441::$$$message_0149_0001_0001$$$::Você sabe o que isso quer dizer, não sabe, Emiya Shirou?'::
-16442::$$$message_0149_0002_0000$$$::"[line2]!"[lr]::
+16440::$$$message_0149_0001_0000$$$::[font italic=true]"A Saber vai morrer depois que conseguir o Santo Graal.[font italic=false][lr]::
+16441::$$$message_0149_0001_0001$$$::[font italic=true]Espero que você entenda o que isso quer dizer, Emiya Shirou."[font italic=false]::
+16442::$$$message_0149_0002_0000$$$::"...Gnh."[lr]::
 16443::$$$message_0149_0002_0001$$$::Eu sei.[lr]::
 16444::$$$message_0149_0002_0002$$$::Ele não precisa me dizer isso.[lr]::
 16445::$$$message_0149_0002_0003$$$::...Mas por que tudo precisa ser tão complicado?[lr]::
-16446::$$$message_0149_0002_0004$$$::Eu não posso deixar que a Saber consiga o Santo Graal.[lr]::
-16447::$$$message_0149_0002_0005$$$::Mas ele é a única coisa que pode salvá-la.::
-16448::$$$message_0149_0003_0000$$$::'Se quiser ficar com ela, você deveria desistir do Santo Graal.[lr]::
-16449::$$$message_0149_0003_0001$$$::Se quiser manter a Saber neste mundo, você só precisa alimentá-la com almas.'::
+16446::$$$message_0149_0002_0004$$$::A Saber não deveria conseguir o Santo Graal.[lr]::
+16447::$$$message_0149_0002_0005$$$::Mas a única coisa que pode salvá-la [font italic=true]é[font italic=false] o Santo Graal.::
+16448::$$$message_0149_0003_0000$$$::[font italic=true]"Se deseja ficar com ela, o meu conselho é que desista do Santo Graal.[font italic=false][lr]::
+16449::$$$message_0149_0003_0001$$$::[font italic=true]Se quiser que a Saber permaneça aqui, tudo o que precisa fazer é alimentá-la com almas..."[font italic=false]::
 16450::$$$message_0149_0004_0000$$$::...Eu não posso fazer isso.[lr]::
 16451::$$$message_0149_0004_0001$$$::E mesmo se eu concordasse com isso, a Saber não iria.[lr]::
 16452::$$$message_0149_0004_0002$$$::Ela iria preferir desaparecer do que aceitar uma coisa dessas.[lr]::
 16453::$$$message_0149_0004_0003$$$::Mas então... ela iria desaparecer e passar por mais uma guerra?::
-16454::$$$message_0149_0005_0000$$$::'Você só precisa ter um Selo de Comando guardado.[lr]::
-16455::$$$message_0149_0005_0001$$$::[line2]Dessa forma, o seu desejo será realizado.'::
+16454::$$$message_0149_0005_0000$$$::[font italic=true]"Você só precisa guardar um Selo de Comando.[font italic=false][lr]::
+16455::$$$message_0149_0005_0001$$$::[font italic=true]Dessa forma, o seu desejo será realizado."[font italic=false]::
 16456::$$$message_0149_0006_0000$$$::"...! Cala a boca, seu padre de merda...!"[lr]::
-16457::$$$message_0149_0006_0001$$$::Eu paro de andar e dou um soco na grade, como se tentasse me livrar do Selo de Comando.[lr]::
+16457::$$$message_0149_0006_0001$$$::As palavras do Kotomine são veneno. Não consigo me livrar delas. Num acesso de raiva, esmago o punho na grade ao lado, desesperado para clarear a cabeça.[lr]::
 16458::$$$message_0149_0006_0002$$$::Um barulho forte de aço tremendo.[lr]::
 16459::$$$message_0149_0006_0003$$$::...Esse é o único barulho que eu ouço por aqui.[lr]::
 16460::$$$message_0149_0006_0004$$$::Não há nenhuma pessoa ou carro passando por perto.::
 16461::$$$message_0149_0007_0000$$$::"Droga... por que eu estou sequer pensando nessa possibilidade?"[lr]::
 16462::$$$message_0149_0007_0001$$$::Eu me encosto na grade e desabafo.[lr]::
 16463::$$$message_0149_0007_0002$$$::Eu sei que deveria só ignorar o que o Kotomine disse.[lr]::
-16464::$$$message_0149_0007_0003$$$::Mas o jeito de falar dele é tão atraente que eu não consigo parar de pensar sobre isso.::
+16464::$$$message_0149_0007_0003$$$::Mas há algo nas palavras dele que me prende. Não consigo ignorá-las.::
 16465::$$$message_0149_0008_0000$$$::...O que eu queria fazer, e qual era o meu motivo de estar lutando?[lr]::
-16466::$$$message_0149_0008_0001$$$::No começo, eu queria colocar um fim na Guerra do Santo Graal.[lr]::
+16466::$$$message_0149_0008_0001$$$::No começo, era pôr um fim na Guerra do Santo Graal.[lr]::
 16467::$$$message_0149_0008_0002$$$::Desde quando essa motivação deixou de ser a principal e passou a ser secundária?[lr]::
 16468::$$$message_0149_0008_0003$$$::Será que foi quando eu fui teimoso em querer lutar sozinho?[lr]::
 16469::$$$message_0149_0008_0004$$$::Será que foi quando eu resolvi cooperar com a Saber, depois de perceber o quanto era fraco?::
 16470::$$$message_0149_0009_0000$$$::Ou então.[lr]::
 16471::$$$message_0149_0009_0001$$$::Será que foi quando eu criei uma espada para ela, depois daquela noite nas ruínas?::
-16472::$$$message_0149_0010_0000$$$::[line2]Desse jeito eu só estou tentando me enganar.[lr]::
+16472::$$$message_0149_0010_0000$$$::Não, isso é tudo bobagem.[lr]::
 16473::$$$message_0149_0010_0001$$$::Eu nem preciso pensar muito.[lr]::
-16474::$$$message_0149_0010_0002$$$::Foi bem antes disso.[lr]::
-16475::$$$message_0149_0010_0003$$$::Eu já estava decidido a lutar desde o momento em que a conheci dentro daquele galpão, debaixo da luz da Lua[line2]::
-16476::$$$message_0149_0011_0000$$$::"[line2]"[lr]::
-16477::$$$message_0149_0011_0001$$$::Mas se fosse só por isso, não haveria nenhum problema.[lr]::
-16478::$$$message_0149_0011_0002$$$::Se eu não tivesse visto o passado dela através dos meus sonhos, provavelmente essa guerra teria acabado rápido.[lr]::
-16479::$$$message_0149_0011_0003$$$::Mas acontece que eu vi o passado dela.[lr]::
+16474::$$$message_0149_0010_0002$$$::Desde o começo...[lr]::
+16475::$$$message_0149_0010_0003$$$::Minha decisão já estava tomada desde o instante em que a conheci no galpão... A visão dela, iluminada pelo luar...::
+16476::$$$message_0149_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
+16477::$$$message_0149_0011_0001$$$::Isso teria bastado.[lr]::
+16478::$$$message_0149_0011_0002$$$::Se eu não tivesse compartilhado aquele sonho do passado dela e, por isso, não soubesse de nada, tudo teria acabado sem que eu sequer percebesse.[lr]::
+16479::$$$message_0149_0011_0003$$$::Mas eu [font italic=true]descobri[font italic=false].[lr]::
 16480::$$$message_0149_0011_0004$$$::Eu não pude deixá-la sozinha e decidi que não queria mais perdê-la.::
-16481::$$$message_0149_0012_0000$$$::Eu quero que as coisas continuem assim.[lr]::
-16482::$$$message_0149_0012_0001$$$::Eu quero continuar olhando para o sorriso dela[line2]::
-16483::$$$message_0149_0013_0000$$$::"[line2]Ai."[lr]::
+16481::$$$message_0149_0012_0000$$$::Eu quero continuar assim.[lr]::
+16482::$$$message_0149_0012_0001$$$::Quero continuar vendo o sorriso dela...::
+16483::$$$message_0149_0013_0000$$$::"Ai..."[lr]::
 16484::$$$message_0149_0013_0001$$$::A menina, olhando sozinha para o pôr do sol naquela colina cheia de espadas.[lr]::
 16485::$$$message_0149_0013_0002$$$::O meu peito dói quando eu me lembro dessa cena.[lr]::
 16486::$$$message_0149_0013_0003$$$::A Saber nunca teve tempo para ela mesma.[lr]::
-16487::$$$message_0149_0013_0004$$$::...E eu odeio isso.::
-16488::$$$message_0149_0014_0000$$$::O Kiritsugu disse que nós não podemos deixar as garotas chorarem.[lr]::
+16487::$$$message_0149_0013_0004$$$::Isso sempre me incomodou.::
+16488::$$$message_0149_0014_0000$$$::O Kiritsugu sempre dizia para não fazer uma garota chorar.[lr]::
 16489::$$$message_0149_0014_0001$$$::Eu acho que um rosto feliz é muito melhor do que um rosto triste.[lr]::
-16490::$$$message_0149_0014_0002$$$::Foi por isso que eu ficava furioso sempre que percebia que a Saber não estava sorrindo.[lr]::
+16490::$$$message_0149_0014_0002$$$::Foi por isso que eu ficava tão furioso com o fato de a Saber nunca sorrir.[lr]::
 16491::$$$message_0149_0014_0003$$$::Mas quando eu disse para ela sorrir.[lr]::
 16492::$$$message_0149_0014_0004$$$::A Saber respondeu que prefere me ver sorrir no lugar.[lr]::
-16493::$$$message_0149_0014_0005$$$::[line2]Isso é...[lr]::
-16494::$$$message_0149_0014_0006$$$::Isso é como observar as estrelas através de um telescópio, mesmo sabendo que você nunca vai alcançá-las.::
-16495::$$$message_0149_0015_0000$$$::"[line4]Droga."[lr]::
+16493::$$$message_0149_0014_0005$$$::Isso é...[lr]::
+16494::$$$message_0149_0014_0006$$$::É como olhar para uma estrela inalcançável através de um telescópio.::
+16495::$$$message_0149_0015_0000$$$::"Droga..."[lr]::
 16496::$$$message_0149_0015_0001$$$::Eu olho para o céu noturno.[lr]::
 16497::$$$message_0149_0015_0002$$$::Olhando para a estrela que eu jamais vou alcançar,[lr]::
 16498::$$$message_0149_0015_0003$$$::Plim.[lr]::
-16499::$$$message_0149_0015_0004$$$::Uma lágrima escorre pela minha bochecha.::
-16500::$$$message_0149_0016_0000$$$::"[line2]Eu a amo."[lr]::
+16499::$$$message_0149_0015_0004$$$::Não sei quando ela se formou, mas sinto uma lágrima escorrer pela minha bochecha.::
+16500::$$$message_0149_0016_0000$$$::"...Eu a amo."[lr]::
 16501::$$$message_0149_0016_0001$$$::Eu digo isso sem que ninguém esteja por perto.[lr]::
 16502::$$$message_0149_0016_0002$$$::Por mais que eu seja lerdo, tenho que admitir pelo menos isso.[lr]::
-16503::$$$message_0149_0016_0003$$$::Eu não posso fazer nada para evitar.[lr]::
-16504::$$$message_0149_0016_0004$$$::Eu a amo tanto que sou capaz de chorar sem motivo nenhum.::
+16503::$$$message_0149_0016_0003$$$::Não consigo mais impedir esse sentimento.[lr]::
+16504::$$$message_0149_0016_0004$$$::Percebo que me apaixonei por ela, tanto que só de pensar nela posso começar a chorar.::
 16505::$$$message_0149_0017_0000$$$::"Bem vindo de volta. Você demorou bastante."[lr]::
-16506::$$$message_0149_0017_0001$$$::[line2]E então.[lr]::
-16507::$$$message_0149_0017_0002$$$::Eu encontro a Tohsaka parada na frente da entrada.::
-16508::$$$message_0149_0018_0000$$$::"T-Tohsaka...? O que você está[line2]"[lr]::
-16509::$$$message_0149_0018_0001$$$::"Vamos conversar lá dentro. Vamos, você parece estar bem cansado."[lr]::
-16510::$$$message_0149_0018_0002$$$::Ela me puxa pelo braço sem me pedir e começa a andar...[lr]::
-16511::$$$message_0149_0018_0003$$$::E me leva até o quarto dela.::
+16506::$$$message_0149_0017_0001$$$::Eu escuto a voz da Tohsaka quando chego.[lr]::
+16507::$$$message_0149_0017_0002$$$::Ela está parada à entrada.::
+16508::$$$message_0149_0018_0000$$$::"T-Tohsaka...? O que você está...?"[lr]::
+16509::$$$message_0149_0018_0001$$$::"Não é lugar para conversar. Você parece exausto; venha comigo."[lr]::
+16510::$$$message_0149_0018_0002$$$::Ela agarra a minha mão e, sem esperar resposta, me arrasta pelo corredor...[lr]::
+16511::$$$message_0149_0018_0003$$$::...e me leva até o quarto dela.::
 16512::$$$message_0149_0019_0000$$$::"Tome um pouco de chá. Devia estar frio lá fora."[lr]::
-16513::$$$message_0149_0019_0001$$$::A Tohsaka está dizendo isso de um jeito relaxado, mas na verdade ela está pensando em mim.::
+16513::$$$message_0149_0019_0001$$$::Ela disfarça mal, mas está sendo atenciosa.::
 16514::$$$message_0149_0020_0000$$$::"...Ah, obrigado."[lr]::
-16515::$$$message_0149_0020_0001$$$::Na verdade, eu agradeço pelo chá quente.[lr]::
+16515::$$$message_0149_0020_0001$$$::Sinceramente, o chá quente é reconfortante.[lr]::
 16516::$$$message_0149_0020_0002$$$::Leva cerca de uma hora para chegar na cidade vizinha.[lr]::
 16517::$$$message_0149_0020_0003$$$::E como eu fui caminhando devagar, o meu corpo está congelando a essa hora.::
 16518::$$$message_0149_0021_0000$$$::"Então, você foi visitar o Kirei?"[lr]::
 16519::$$$message_0149_0021_0001$$$::Ela vai direto ao ponto.[lr]::
 16520::$$$message_0149_0021_0002$$$::...Entendi. Então a Tohsaka sabia esse tempo todo que eu estava saindo.[lr]::
 16521::$$$message_0149_0021_0003$$$::Mas ao invés de me impedir, ela me esperou voltar para casa e preparou um pouco de chá para mim.::
-16522::$$$message_0149_0022_0000$$$::...Eu admito que sou grato pela gentileza da Tohsaka.[lr]::
-16523::$$$message_0149_0022_0001$$$::Deve ser por isso.[lr]::
+16522::$$$message_0149_0022_0000$$$::Sinto como se fosse outra pessoa... agora que me decidi, e também aprecio a consideração da Tohsaka.[lr]::
+16523::$$$message_0149_0022_0001$$$::Talvez seja por isso que eu digo...[lr]::
 16524::$$$message_0149_0022_0002$$$::"Sim, eu fui. Eu queria perguntar uma coisa para ele."[lr]::
 16525::$$$message_0149_0022_0003$$$::Eu respondo de forma sincera, sem esconder nada.::
 16526::$$$message_0149_0023_0000$$$::"Entendi. Eu não vou te perguntar o que você foi fazer lá. Assim não tem problema, não é?"[lr]::
 16527::$$$message_0149_0023_0001$$$::"É mesmo. Também não foi nada que ajudou muito.[lr]::
 16528::$$$message_0149_0023_0002$$$::Eu só fui lá para confirmar a situação."::
-16529::$$$message_0149_0024_0000$$$::"Entendi. Mas eu fiquei surpresa em descobrir que a Saber ainda não virou um Servo completo. O Servo mais forte ser o menos completo parece até uma piada sem graça."[lr]::
-16530::$$$message_0149_0024_0001$$$::"Sim. Seria melhor se a Saber nunca tivesse virado um Servo."[lr]::
-16531::$$$message_0149_0024_0002$$$::Eu aceno.::
-16532::$$$message_0149_0025_0000$$$::"Que surpresa. Talvez você e o Archer pudessem ter se dado bem. Ele disse a mesma coisa que você."[lr]::
+16529::$$$message_0149_0024_0000$$$::"Entendi. Mas sinceramente me surpreende que a Saber não seja um Servo completo. O mais forte de todos os Servos ser justamente o mais incompleto é uma piada de mau gosto."[lr]::
+16530::$$$message_0149_0024_0001$$$::"Sim. E a Saber nem precisava ter acabado como Servo."[lr]::
+16531::$$$message_0149_0024_0002$$$::Ela concorda com um aceno.::
+16532::$$$message_0149_0025_0000$$$::"Que coisa. Talvez você e o Archer pudessem ter se dado bem em outras circunstâncias. Ele disse exatamente a mesma coisa mais cedo."[lr]::
 16533::$$$message_0149_0025_0001$$$::"...Hã? Você quer dizer, o Archer...?"::
-16534::$$$message_0149_0026_0000$$$::"Sim. O Archer disse que se arrependeu de ter virado um Servo, e que não queria que a Saber passasse pela mesma coisa."[lr]::
+16534::$$$message_0149_0026_0000$$$::"Sim. O Archer disse uma vez que se arrependeu dos próprios atos, por isso não queria que a Saber cometesse o mesmo erro."[lr]::
 16535::$$$message_0149_0026_0001$$$::"...? Por que ele estava preocupado com a Saber?[lr]::
 16536::$$$message_0149_0026_0002$$$::Ele não a odiava?"::
 16537::$$$message_0149_0027_0000$$$::"Sim, é verdade. Mas eu acho que ele era um cavaleiro que tinha alguma ligação com a Saber.[lr]::
@@ -108,35 +108,37 @@ id=qid::label=str::text=lstr::
 16542::$$$message_0149_0029_0000$$$::"...Olha só. Se você começar a fazer essas especulações, nós não vamos chegar a lugar nenhum. Se a Saber olhou para ele e não o reconheceu, eu acho que é porque ela não o conhece mesmo."::
 16543::$$$message_0149_0030_0000$$$::"Talvez esse não seja o caso. A lenda diz que vários cavaleiros foram expulsos de Camelot. Ele pode ter sido um deles.[lr]::
 16544::$$$message_0149_0030_0001$$$::Se ele estava escondendo a sua identidade por causa da Saber, então isso faria sentido."::
-16545::$$$message_0149_0031_0000$$$::Eu percebi que a Tohsaka está tentando puxar assunto comigo.[lr]::
-16546::$$$message_0149_0031_0001$$$::"[line5]"[lr]::
-16547::$$$message_0149_0031_0002$$$::Será que ela está tentando me deixar mais tranquilo?[lr]::
-16548::$$$message_0149_0031_0003$$$::Não que isso esteja ajudando tanto, mas ela está sendo bem gentil.[lr]::
-16549::$$$message_0149_0031_0004$$$::Geralmente a Tohsaka é cruel, mas ela tenta ajudar as pessoas quando elas estão deprimidas.::
-16550::$$$message_0149_0032_0000$$$::...E assim, nós bebemos chá juntos por um tempo.[lr]::
-16551::$$$message_0149_0032_0001$$$::Ela deve ter ficado sem paciência, já que me olha com uma cara séria.::
+16545::$$$message_0149_0031_0000$$$::A Tohsaka está mais falante que o normal esta noite.[lr]::
+16546::$$$message_0149_0031_0001$$$::[font italic=true]...[font italic=false][lr]::
+16547::$$$message_0149_0031_0002$$$::Provavelmente é o jeito dela de tentar ser atenciosa.[lr]::
+16548::$$$message_0149_0031_0003$$$::Pode não estar funcionando tão bem, mas a Tohsaka é uma boa pessoa.[lr]::
+16549::$$$message_0149_0031_0004$$$::Ela costuma ser implacável, mas ainda estende a mão quando alguém precisa. Tem um certo ar de irmã mais velha.::
+16550::$$$message_0149_0032_0000$$$::Nós bebemos chá por mais alguns minutos.[lr]::
+16551::$$$message_0149_0032_0001$$$::A Tohsaka então se vira e me encara de frente. Acho que acabou ficando sem paciência.::
 16552::$$$message_0149_0033_0000$$$::"Enfim. O que você quer fazer, Shirou?"[lr]::
 16553::$$$message_0149_0033_0001$$$::"Eu vou ter um encontro amanhã."[lr]::
 16554::$$$message_0149_0033_0002$$$::Eu já me decidi quando estava voltando para casa, e além do mais, não consegui pensar em mais nada.[lr]::
 16555::$$$message_0149_0033_0003$$$::...E então.::
-16556::$$$message_0149_0034_0000$$$::O que aconteceu com aquele clima sério de repente? Depois de fazer uma cara bem mal-educada, a Tohsaka...[lr]::
-16557::$$$message_0149_0034_0001$$$::"Ha[line2]Haha, ahahahahahahahaha!"[lr]::
-16558::$$$message_0149_0034_0002$$$::...Começa a dar risada.::
-16559::$$$message_0149_0035_0000$$$::"Heehee, espera aí, agora você me pegou de surpresa, aha, ahahaha! Que ótimo, isso é tão egoísta da sua parte, Shirou!"[lr]::
-16560::$$$message_0149_0035_0001$$$::...Droga! Agora que parei para pensar sobre isso com mais calma, eu deveria ter previsto que isso iria acabar acontecendo. Como eu sou burro...!::
+16556::$$$message_0149_0034_0000$$$::Não sei para onde foi o clima sombrio de antes, porque a Tohsaka faz a expressão mais esquisita do mundo.[lr]::
+16557::$$$message_0149_0034_0001$$$::"Pffft. Haha... ahahahahahahahahaha!!!"[lr]::
+16558::$$$message_0149_0034_0002$$$::Ela explode numa gargalhada incontrolável.::
+16559::$$$message_0149_0035_0000$$$::"Hehe... espera... pera... heh... eu não estava preparada para ouvir isso... haha... ahahaha... Isso é inacreditável. É TÃO egoísta da sua parte, Shirou!"[lr]::
+16560::$$$message_0149_0035_0001$$$::Droga... como eu sou burro. Eu devia ter visto isso vindo.::
 16561::$$$message_0149_0036_0000$$$::"C-Cala a boca! O que tem de errado em ser egoísta? Eu sei que essa não é o melhor momento, mas não vou deixar que você se intrometa!"[lr]::
-16562::$$$message_0149_0036_0001$$$::"N-Não, não. Shirou, Shirou, você é muito engraçado, hahahaha."[lr]::
-16563::$$$message_0149_0036_0002$$$::A Tohsaka dá um tapa nas minhas costas enquanto segura o seu estômago.::
+16562::$$$message_0149_0036_0001$$$::"N-não, não, não! Shirou... isso é engraçado demais... hehehehe!"[lr]::
+16563::$$$message_0149_0036_0002$$$::A Tohsaka bate forte nas minhas costas. Com a outra mão, segura a barriga, rindo tanto que quase chora.::
 16564::$$$message_0149_0037_0000$$$::"Guh..."[lr]::
 16565::$$$message_0149_0037_0001$$$::Será que essa é a pior forma que ela tratou de mim até agora?::
-16566::$$$message_0149_0038_0000$$$::"Ha, haha, ha[line2]ah, eu estou passando mal de tanto rir."[lr]::
-16567::$$$message_0149_0038_0001$$$::Ela tenta se acalmar.[lr]::
+16566::$$$message_0149_0038_0000$$$::"He... hehe... haaa... ah! Faz tempo que eu não rio assim!"[lr]::
+16567::$$$message_0149_0038_0001$$$::"Que bom para você. Eu não achei graça nenhuma."::
 16568::$$$message_0149_0039_0000$$$::"Boa sorte no seu encontro. Eu vou apoiar vocês dois."[lr]::
-16569::$$$message_0149_0039_0001$$$::A Tohsaka diz isso depois de mudar completamente de atitude.::
-16570::$$$message_0149_0040_0000$$$::"Ah... uh. Bem, pode deixar."[lr]::
-16571::$$$message_0149_0040_0001$$$::...Eu não esperava por isso.[lr]::
-16572::$$$message_0149_0040_0002$$$::Se ela diz uma coisa gentil dessas com essa expressão no rosto, eu tenho que acenar de volta[line2]::
+16569::$$$message_0149_0039_0001$$$::A Tohsaka diz isso com gentileza, dando uma guinada completa em relação a um segundo atrás.::
+16570::$$$message_0149_0040_0000$$$::"Ah... é. Vou me esforçar."[lr]::
+16571::$$$message_0149_0040_0001$$$::Sinceramente, isso veio do nada.[lr]::
+16572::$$$message_0149_0040_0002$$$::Quando ela fala desse jeito, tudo o que eu consigo fazer é assentir.::
 16573::$$$message_0149_0041_0000$$$::Eu volto para o meu quarto.[lr]::
 16574::$$$message_0149_0041_0001$$$::A Saber ainda está dormindo, e a casa está silenciosa como se nada tivesse acontecido.::
 16575::$$$message_0149_0042_0000$$$::Hoje foi um dia chuvoso, mas como será que o tempo vai estar amanhã?[lr]::
 16576::$$$message_0149_0042_0001$$$::Olhando para as nuvens do céu, eu peço para que amanhã seja um dia ensolarado.::
+
+

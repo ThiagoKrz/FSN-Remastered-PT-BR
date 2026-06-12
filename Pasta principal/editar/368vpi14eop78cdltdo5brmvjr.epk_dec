@@ -1,134 +1,135 @@
 DAT
 id=qid::label=str::text=lstr::
-16306::$$$message_0148_0000_0000$$$::Eu estou ouvindo o barulho de chuva caindo de dentro do quarto da Tohsaka.[lr]::
-16307::$$$message_0148_0000_0001$$$::Hoje nós fizemos um exame físico falso que nem ontem. Eu só tomei o medicamento que a Tohsaka preparou para mim e então verifiquei o Circuito Mágico por todo o meu corpo.[lr]::
+16306::$$$message_0148_0000_0000$$$::Ouço a chuva no quarto da Tohsaka.[lr]::
+16307::$$$message_0148_0000_0001$$$::Hoje, sob o pretexto de uma aula de magia, ela fez de novo um exame físico, como ontem. Me deu mais remédio e depois checou todos os meus Circuitos Mágicos.::
 16308::$$$message_0148_0001_0000$$$::...Eu não me importo com isso, mas também não quero ficar aqui sem fazer nada.[lr]::
-16309::$$$message_0148_0001_0001$$$::Ela disse para não me mexer por um tempo para poder ver os resultados, mas acho que não tem nenhum problema em conversar.::
+16309::$$$message_0148_0001_0001$$$::Ela disse para eu não me mexer por um tempo, para poder ver o que acontece comigo, mas isso não quer dizer que eu não possa falar.::
 16310::$$$message_0148_0002_0000$$$::"Tohsaka, posso te fazer uma pergunta?"[lr]::
-16311::$$$message_0148_0002_0001$$$::Eu chamo por ela enquanto ainda estou parado no lugar.::
+16311::$$$message_0148_0002_0001$$$::Eu a chamo enquanto mantenho a minha postura de meditação.::
 16312::$$$message_0148_0003_0000$$$::"Hm? Tudo bem, o que foi?"[lr]::
 16313::$$$message_0148_0003_0001$$$::"É sobre a Saber.[lr]::
 16314::$$$message_0148_0003_0002$$$::Eu não sei como explicar, mas..."::
-16315::$$$message_0148_0004_0000$$$::Quando faço a pergunta, eu percebo que nem parei para pensar sobre isso.[lr]::
+16315::$$$message_0148_0004_0000$$$::Percebo que nem pensei direito nisso.[lr]::
 16316::$$$message_0148_0004_0001$$$::Não tem a ver com "o que eu posso fazer pela Saber".[lr]::
 16317::$$$message_0148_0004_0002$$$::Na verdade, eu nem pensei no que quero fazer com ela.::
-16318::$$$message_0148_0005_0000$$$::"...Ah, bem, eu só queria descobrir o que ela quer fazer.[lr]::
-16319::$$$message_0148_0005_0001$$$::Se parar para pensar, ela nunca fez nada porque tinha vontade, não é? Então[line2]"::
+16318::$$$message_0148_0005_0000$$$::"Um... bem... eu só queria saber o que ela quer fazer.[lr]::
+16319::$$$message_0148_0005_0001$$$::Ela nunca falou de nada que quisesse fazer por si mesma. Então..."::
 16320::$$$message_0148_0006_0000$$$::"Você não sabe o que está passando pela cabeça dela?"[lr]::
-16321::$$$message_0148_0006_0001$$$::"[line2]Não, não é isso. Eu só não consigo entender porque ela é tão altruísta.[lr]::
-16322::$$$message_0148_0006_0002$$$::...Pois é, eu não sei o que devo fazer sobre isso."::
-16323::$$$message_0148_0007_0000$$$::"Hmm... bem, você está certo. A única coisa que ela fez por vontade própria foi te proteger. Isso é esperado de um Servo, mas é difícil entender por que ela se preocupa tanto com isso.[lr]::
+16321::$$$message_0148_0006_0001$$$::"Uh... não, não é isso. Eu só não entendo por que ela é tão altruísta.[lr]::
+16322::$$$message_0148_0006_0002$$$::Pois é... eu simplesmente não sei o que fazer com isso."::
+16323::$$$message_0148_0007_0000$$$::"Huh. Bem, você tem razão. A única coisa que ela fez por vontade própria foi te proteger. Isso pode ser natural para um Servo, mas não dá para te culpar por pensar assim, de tão dedicada que ela é a isso.[lr]::
 16324::$$$message_0148_0007_0001$$$::Mas não quer dizer que ela é totalmente altruísta.[lr]::
-16325::$$$message_0148_0007_0002$$$::Porque a Saber está te protegendo pelos próprios motivos dela."::
-16326::$$$message_0148_0008_0000$$$::"[line2]Ah."[lr]::
-16327::$$$message_0148_0008_0001$$$::É verdade. Eu tinha me esquecido do motivo dela ter virado um Servo.::
-16328::$$$message_0148_0009_0000$$$::"...Entendi. O objetivo da Saber é conseguir o Santo Graal. Então ela tem um interesse nisso."::
-16329::$$$message_0148_0010_0000$$$::Esse Santo Graal garante o desejo de quem o possuir.[lr]::
+16325::$$$message_0148_0007_0002$$$::A Saber está te protegendo porque isso ajuda a cumprir o objetivo dela."::
+16326::$$$message_0148_0008_0000$$$::"Ah..."[lr]::
+16327::$$$message_0148_0008_0001$$$::Eu tinha me esquecido por completo do motivo de ela sequer ter se tornado um Servo.::
+16328::$$$message_0148_0009_0000$$$::"Você tem razão. A Saber quer obter o Santo Graal. Então não é como se ela não tivesse nenhum objetivo."::
+16329::$$$message_0148_0010_0000$$$::E esse Santo Graal realizará o desejo de seu possuidor.[lr]::
 16330::$$$message_0148_0010_0001$$$::Então pelo menos a Saber tem um "desejo" que ela quer que seja realizado.[lr]::
-16331::$$$message_0148_0010_0002$$$::Eu não sei qual ele seria, mas a Saber esteve disposta a se tornar um Servo só para poder realizá-lo.[lr]::
-16332::$$$message_0148_0010_0003$$$::Tenho certeza de que o "desejo" dela tem a ver com se salvar.::
-16333::$$$message_0148_0011_0000$$$::Sim, vamos supor.[lr]::
-16334::$$$message_0148_0011_0001$$$::Já que a Saber está aqui na nossa época, ela poderia desejar ao Santo Graal para ficar aqui e ter uma vida nova.[lr]::
-16335::$$$message_0148_0011_0002$$$::Não, melhor dizendo, ela precisa ir longe assim para compensar pelo seu passado triste[line2]::
-16336::$$$message_0148_0012_0000$$$::"Ah[line2]então é mais simples do que eu pensei!"[lr]::
-16337::$$$message_0148_0012_0001$$$::"...? Que estranho, você ficou motivado do nada. Essa conversa te deixou tão empolgado assim?"::
-16338::$$$message_0148_0013_0000$$$::"Sim, eu fiquei empolgado. É mesmo, ela não iria se esforçar tanto se não fosse por isso.[lr]::
+16331::$$$message_0148_0010_0002$$$::Eu não sei qual é, mas ela o quer a ponto de até se tornar um Servo.[lr]::
+16332::$$$message_0148_0010_0003$$$::Então isso deve ter alguma esperança de salvá-la.::
+16333::$$$message_0148_0011_0000$$$::Como, por exemplo...[lr]::
+16334::$$$message_0148_0011_0001$$$::Ela está aqui nesta era, e o poder do Santo Graal poderia ajudá-la a ficar aqui e viver uma segunda vida.[lr]::
+16335::$$$message_0148_0011_0002$$$::E teria de ser um desejo desse tamanho só para compensar todo o sofrimento e toda a tragédia que ela suportou.::
+16336::$$$message_0148_0012_0000$$$::"Ah. Então é bem simples!"[lr]::
+16337::$$$message_0148_0012_0001$$$::"Hã? Você ficou animado do nada... Isso está me dando arrepios. Estávamos falando de algo tão divertido assim para você ficar tão empolgado?"::
+16338::$$$message_0148_0013_0000$$$::"Sim. Eu [font italic=true]estou[font italic=false] animado. E é... ela não lutaria tanto se não fosse por algo realmente grande.[lr]::
 16339::$$$message_0148_0013_0001$$$::A Saber precisa lutar pelos próprios desejos dela!"::
 16340::$$$message_0148_0014_0000$$$::Eu aceno para mim mesmo.[lr]::
-16341::$$$message_0148_0014_0001$$$::Acho que deixei a Tohsaka meio assustada com a minha reação.::
-16342::$$$message_0148_0015_0000$$$::"[line2]Emiya-kun. Desculpa por te decepcionar, mas você está enganado. A Saber não iria lutar por ela mesma.::
-16343::$$$message_0148_0016_0000$$$::Você também já percebeu isso, não é? A Saber não é assim. Ela não quer o Santo Graal para realizar um desejo próprio."::
-16344::$$$message_0148_0017_0000$$$::"C-Como você pode ter cert..."[lr]::
-16345::$$$message_0148_0017_0001$$$::...Eu não consigo... terminar essa frase.[lr]::
-16346::$$$message_0148_0017_0002$$$::...Ela tem razão.[lr]::
+16341::$$$message_0148_0014_0001$$$::A Tohsaka, por outro lado, parece completamente desconcertada.::
+16342::$$$message_0148_0015_0000$$$::"Emiya. Desculpa acabar com a sua empolgação, mas você tirou a conclusão errada. A Saber não está lutando por si mesma."::
+16343::$$$message_0148_0016_0000$$$::"Você sabe disso, não sabe? A Saber não é assim. Ela não quer o Santo Graal para si mesma."::
+16344::$$$message_0148_0017_0000$$$::"Q-qual é o seu raciocínio?"[lr]::
+16345::$$$message_0148_0017_0001$$$::...Eu nem consigo perguntar isso.[lr]::
+16346::$$$message_0148_0017_0002$$$::Eu sei...[lr]::
 16347::$$$message_0148_0017_0003$$$::Os momentos finais da Saber foram solitários porque ela não tinha nenhum desejo próprio.[lr]::
 16348::$$$message_0148_0017_0004$$$::Então ela não pode estar querendo se salvar.::
-16349::$$$message_0148_0018_0000$$$::"...!"[lr]::
+16349::$$$message_0148_0018_0000$$$::"...Ugh."[lr]::
 16350::$$$message_0148_0018_0001$$$::Mas mesmo assim.[lr]::
 16351::$$$message_0148_0018_0002$$$::Eu queria acreditar nisso, e acabei distorcendo a personalidade dela por um momento.::
-16352::$$$message_0148_0019_0000$$$::"[line5]"[lr]::
-16353::$$$message_0148_0019_0001$$$::"......"[lr]::
+16352::$$$message_0148_0019_0000$$$::[font italic=true]...[font italic=false][lr]::
+16353::$$$message_0148_0019_0001$$$::"..."[lr]::
 16354::$$$message_0148_0019_0002$$$::A nossa conversa para aqui.[lr]::
-16355::$$$message_0148_0019_0003$$$::...Assim que eu começo a pensar que nós vamos ficar em silêncio por um tempo...::
-16356::$$$message_0148_0020_0000$$$::"Odeio admitir isso, mas o Archer disse a mesma coisa que você."[lr]::
+16355::$$$message_0148_0019_0003$$$::Justo quando começo a pensar que esse silêncio constrangedor vai continuar para sempre...::
+16356::$$$message_0148_0020_0000$$$::"Talvez seja uma história chata, mas o Archer na verdade disse algo parecido com o que você disse."[lr]::
 16357::$$$message_0148_0020_0001$$$::"...Hã? O Archer... quer dizer, aquele Archer?"::
 16358::$$$message_0148_0021_0000$$$::"Sim. Eu também perguntei para o Archer qual era o desejo dele.[lr]::
 16359::$$$message_0148_0021_0001$$$::O que você acha que ele respondeu?"::
-16360::$$$message_0148_0022_0000$$$::"Hã? Ah, não adianta me fazer essa pergunta."[lr]::
+16360::$$$message_0148_0022_0000$$$::"Hã? Ah, não faço a menor ideia."[lr]::
 16361::$$$message_0148_0022_0001$$$::Eu não sei nada sobre ele.[lr]::
-16362::$$$message_0148_0022_0002$$$::Já que o Archer disse que mais cedo ou mais tarde nós seríamos inimigos, ele nem se deu o trabalho de conversar comigo ou com a Saber.[lr]::
-16363::$$$message_0148_0022_0003$$$::...De qualquer forma.[lr]::
-16364::$$$message_0148_0022_0004$$$::O Archer era bastante sarcástico, mas eu sei que ele não teria um objetivo qualquer.::
-16365::$$$message_0148_0023_0000$$$::"Você vai achar isso engraçado. Quando eu perguntei qual era o desejo do Archer, ele me respondeu o seguinte:[lr]::
-16366::$$$message_0148_0023_0001$$$::'É mesmo. O que você acha de pedir pela paz mundial?'[lr]::
-16367::$$$message_0148_0023_0002$$$::E então eu comecei a dar risada.[lr]::
-16368::$$$message_0148_0023_0003$$$::Ele ficou meio envergonhado e disse: 'Eu sabia que você iria rir. Bem, não faz sentido depender da ajuda dos outros para se salvar. Vamos fingir que isso foi só uma piada.'"::
-16369::$$$message_0148_0024_0000$$$::"...Foi quando pensei, o Archer virou um espírito heroico e foi invocado por alguém como eu porque esse é o estilo dele."::
-16370::$$$message_0148_0025_0000$$$::"[line5]"[lr]::
-16371::$$$message_0148_0025_0001$$$::...Entendi.[lr]::
-16372::$$$message_0148_0025_0002$$$::Podia não parecer, mas ele era um cavaleiro gentil.::
-16373::$$$message_0148_0026_0000$$$::"Mas não se engane. Se o Santo Graal puder realizar qualquer desejo, pedir pela paz mundial permanente seria o pior possível.[lr]::
-16374::$$$message_0148_0026_0001$$$::Porque assim não vai sobrar mais nada, não é? Um mundo sem conflitos está morto. Se as coisas não estão se movendo, elas vão apodrecer."::
-16375::$$$message_0148_0027_0000$$$::"...Hmm. Você também disse isso para o Archer?"[lr]::
-16376::$$$message_0148_0027_0001$$$::"Disse sim. E ele me respondeu: 'Os mais espertos pensam dessa forma.[lr]::
-16377::$$$message_0148_0027_0002$$$::Eu também tenho essa impressão, mas mesmo assim estou correndo atrás de um sonho infantil.'"::
-16378::$$$message_0148_0028_0000$$$::"Bem, eu perguntei se ele não tem nenhum outro desejo, e ele respondeu algo parecido com 'Até tenho, mas não preciso do Santo Graal para realizá-lo. Eu vou deixar que você peça o seu desejo no meu lugar'[lr]::
-16379::$$$message_0148_0028_0001$$$::Ele era bem arrogante, não acha? Aposto que ele ficava com várias mulheres quando estava vivo."::
-16380::$$$message_0148_0029_0000$$$::"Hm. Eu não tive essa impressão dele. Mas o que tem demais nisso, Tohsaka?"[lr]::
-16381::$$$message_0148_0029_0001$$$::"Nada, eu só estou te mostrando que existem Servos de tudo o que é tipo."::
-16382::$$$message_0148_0030_0000$$$::Ah, entendi.[lr]::
+16362::$$$message_0148_0022_0002$$$::O Archer chegou a declarar que mais cedo ou mais tarde acabaríamos sendo inimigos, então não se esforçou nem um pouco para se comunicar comigo ou com a Saber.[lr]::
+16363::$$$message_0148_0022_0003$$$::E, ainda assim...[lr]::
+16364::$$$message_0148_0022_0004$$$::Ele podia ser cínico, mas não parecia do tipo que teria objetivos idiotas.::
+16365::$$$message_0148_0023_0000$$$::"Olha, você vai rir... Quando perguntei qual era o desejo do Archer, ele respondeu o seguinte:[lr]::
+16366::$$$message_0148_0023_0001$$$::[font italic=true]'Hm. Que tal paz mundial, para sempre?'[font italic=false][lr]::
+16367::$$$message_0148_0023_0002$$$::Foi tão absurdo que eu não consegui evitar rir.[lr]::
+16368::$$$message_0148_0023_0003$$$::Mas aí ele ficou esquisito e disse: [font italic=true]'Eu sabia que você ia rir. Bem, você sabe que não faz sentido alcançar salvação através dos outros. Vamos dizer que isso foi uma piada e deixar por isso mesmo.'[font italic=false]"::
+16369::$$$message_0148_0024_0000$$$::"Isso me fez pensar que talvez tenha sido por isso que alguém como ele virou um Espírito Heroico para receber ordens de uma garota como eu."::
+16370::$$$message_0148_0025_0000$$$::[font italic=true]...[font italic=false][lr]::
+16371::$$$message_0148_0025_0001$$$::Entendo.[lr]::
+16372::$$$message_0148_0025_0002$$$::Ele não parecia, mas era um grande cavaleiro, orgulhoso à sua maneira.::
+16373::$$$message_0148_0026_0000$$$::"Mas não se engane. Se o Santo Graal realmente realiza qualquer desejo, paz mundial permanente seria o pior de todos.[lr]::
+16374::$$$message_0148_0026_0001$$$::Só significaria que nada acontece. Se não houvesse conflito no mundo, seria praticamente o mesmo que morte. Se nada acontece, só resta apodrecer na estagnação."::
+16375::$$$message_0148_0027_0000$$$::"Hã. Você disse isso ao Archer também?"[lr]::
+16376::$$$message_0148_0027_0001$$$::"Disse. E ele respondeu: [font italic=true]'É isso que os sábios pensariam.[font italic=false][lr]::
+16377::$$$message_0148_0027_0002$$$::[font italic=true]Eu concordo, mas ainda assim vou seguir esse sonho, mesmo que seja um sonho tolo.'[font italic=false]"::
+16378::$$$message_0148_0028_0000$$$::"Aí eu insisti, perguntando se ele tinha algum outro desejo, e ele respondeu algo como: [font italic=true]'Tenho, mas não é um desejo que deva ser concedido pelo Santo Graal. Então vou deixar que você faça o seu no meu lugar.'[font italic=false][lr]::
+16379::$$$message_0148_0028_0001$$$::Bem pretensioso, não acha? Aposto que ele devia ser um mulherengo e tanto quando estava vivo."::
+16380::$$$message_0148_0029_0000$$$::"Huh. Realmente não tive essa impressão dele. Mas onde você quer chegar com isso, Tohsaka?"[lr]::
+16381::$$$message_0148_0029_0001$$$::"Nada demais. Só estou dizendo que existem tipos diferentes de Servos."::
+16382::$$$message_0148_0030_0000$$$::É mesmo?[lr]::
 16383::$$$message_0148_0030_0001$$$::...Bem, eu acho que isso serviu como uma boa referência, então acabou me ajudando um pouco.::
-16384::$$$message_0148_0031_0000$$$::"Então, agora é a minha vez de perguntar.[lr]::
-16385::$$$message_0148_0031_0001$$$::Apesar que eu também quero falar sobre a Saber."::
+16384::$$$message_0148_0031_0000$$$::"Então vamos passar para o próximo assunto.[lr]::
+16385::$$$message_0148_0031_0001$$$::Bom, na verdade ainda é principalmente sobre a Saber."::
 16386::$$$message_0148_0032_0000$$$::"...? É mesmo, você disse hoje de manhã que queria conversar comigo sobre alguma coisa."::
-16387::$$$message_0148_0033_0000$$$::"Sim. Não é nada muito importante, mas eu estive me perguntando sobre uma coisa.[lr]::
-16388::$$$message_0148_0033_0001$$$::Emiya-kun, você conhece a lenda do Rei Arthur?"[lr]::
-16389::$$$message_0148_0033_0002$$$::[line2]A lenda do Rei Arthur.[lr]::
+16387::$$$message_0148_0033_0000$$$::"Sim. Não é nada demais, mas eu estava curiosa...[lr]::
+16388::$$$message_0148_0033_0001$$$::Pode ser um pouco tarde pra perguntar isso, mas você conhece a lenda do Rei Arthur?"[lr]::
+16389::$$$message_0148_0033_0002$$$::A lenda do Rei Arthur...[lr]::
 16390::$$$message_0148_0033_0003$$$::Eu estive vendo sobre ela mais do que o suficiente nesses últimos dias.::
-16391::$$$message_0148_0034_0000$$$::"Eu conheço o que as maioria das pessoas já sabe. ...Bem, antes eu não sabia que o Rei Arthur era uma garota."::
+16391::$$$message_0148_0034_0000$$$::"Eu conheço o básico. ...Bem, antes eu não sabia que o Rei Arthur era uma garota."::
 16392::$$$message_0148_0035_0000$$$::"Sim, mas nesse caso o sexo do rei não importa.[lr]::
 16393::$$$message_0148_0035_0001$$$::Por mais que o Rei Arthur seja uma garota, a lenda não vai mudar por causa disso. Se o Rei Arthur escondeu esse fato de todos que eram próximos, ela seria tratada como um homem de qualquer jeito."::
-16394::$$$message_0148_0036_0000$$$::"Por sorte, o Rei Arthur conhecia um mago chamado Merlin. Ele era filho de um humano com um Íncubo, então deve ter sido moleza para ele esconder o sexo do Rei Arthur ou então providenciar uma criança que jamais deveria ter nascido."::
+16394::$$$message_0148_0036_0000$$$::"Por sorte, o Rei Arthur tinha a seu serviço um mago chamado Merlin. Merlin era de fato diabólico[line2]meio íncubo, aliás[line2]então teria sido fácil para ele esconder o sexo do Rei Arthur ou providenciar uma criança que jamais deveria ter nascido."::
 16395::$$$message_0148_0037_0000$$$::"...Parece que sim. E daí?"[lr]::
-16396::$$$message_0148_0037_0001$$$::"O que me preocupa é como a lenda é diferente da Saber.[lr]::
-16397::$$$message_0148_0037_0002$$$::Emiya-kun. Você sabe o que é a Excalibur?"::
-16398::$$$message_0148_0038_0000$$$::"Por que essa pergunta? A Excalibur é o símbolo do Rei Arthur. Ela é uma ótima espada, um presente das fadas que consegue cortar qualquer coisa."[lr]::
+16396::$$$message_0148_0037_0001$$$::"O que me preocupa é a discrepância entre a lenda e a Saber que temos diante de nós.[lr]::
+16397::$$$message_0148_0037_0002$$$::Emiya. Você sabe o que era a Excalibur?"::
+16398::$$$message_0148_0038_0000$$$::"Por que essa pergunta agora? A Excalibur é o símbolo do Rei Arthur. É a espada que as fadas lhe deram, famosa por cortar qualquer coisa sem nunca perder o fio."[lr]::
 16399::$$$message_0148_0038_0001$$$::"Eu sabia que você iria dizer isso."[lr]::
 16400::$$$message_0148_0038_0002$$$::Por algum motivo, a Tohsaka se comporta como se ela tivesse vencido.::
 16401::$$$message_0148_0039_0000$$$::"...Hm. Eu disse alguma coisa errada?"[lr]::
-16402::$$$message_0148_0039_0001$$$::"Sim, e isso significa que você e o Rei Arthur cometeram o mesmo erro. Se o Merlin estivesse aqui, ele gritaria contigo por ser tão ingênuo."::
+16402::$$$message_0148_0039_0001$$$::"Sim. Você e o Rei Arthur cometeram o mesmo erro. Se o Merlin estivesse aqui, provavelmente zombaria de você por ser um tolo."::
 16403::$$$message_0148_0040_0000$$$::"Por quê?[lr]::
-16404::$$$message_0148_0040_0001$$$::...Bem, a espada que estava presa na pedra não era a Excalibur, não é? Aquela espada acabou quebrando. Depois ele recebeu uma espada da dama do lago que era a Excalibur, certo?"::
-16405::$$$message_0148_0041_0000$$$::"Isso mesmo. Quando o Rei Arthur recebeu a Excalibur, o Merlin fez a seguinte pergunta:[lr]::
-16406::$$$message_0148_0041_0001$$$::'Majestade, qual das duas você prefere?[lr]::
-16407::$$$message_0148_0041_0002$$$::A espada ou a bainha dela?'"::
-16408::$$$message_0148_0042_0000$$$::"O Rei Arthur responde que prefere a espada sem pensar duas vezes, mas o Merlin dá uma bronca nele.[lr]::
-16409::$$$message_0148_0042_0001$$$::'Por favor, não cometa esse erro. A espada corta o inimigo, mas é a bainha que te protege. Enquanto estiver com ela, você não vai ficar ferida e nem derramar sangue. Você deveria dar mais valor à bainha do que a espada.'"::
+16404::$$$message_0148_0040_0001$$$::Hum... a espada cravada na pedra não era a Excalibur. Aquela espada se quebrou. Depois ele recebeu outra espada de uma fada do lago, e essa era a Excalibur, certo?"::
+16405::$$$message_0148_0041_0000$$$::"Isso mesmo. Quando o Rei Arthur recebeu a Excalibur, Merlin perguntou:[lr]::
+16406::$$$message_0148_0041_0001$$$::[font italic=true]'Majestade, qual das duas você prefere?[font italic=false][lr]::
+16407::$$$message_0148_0041_0002$$$::[font italic=true]A espada ou a bainha?'[font italic=false]"::
+16408::$$$message_0148_0042_0000$$$::"O Rei Arthur responde que prefere a espada sem hesitar por um instante, mas Merlin o repreende por isso.[lr]::
+16409::$$$message_0148_0042_0001$$$::[font italic=true]'Não se engane quanto ao valor delas; a espada corta seus inimigos, mas a bainha a protege. Enquanto possuir essa bainha, você não derramará uma única gota de sangue, nem sofrerá ferimento algum. É a bainha, e não a lâmina, que você deveria valorizar.'[font italic=false]"::
 16410::$$$message_0148_0043_0000$$$::"......"[lr]::
 16411::$$$message_0148_0043_0001$$$::A Tohsaka faz uma imitação do Rei Arthur e do Merlin de forma habilidosa.::
-16412::$$$message_0148_0044_0000$$$::"Hmm, você está se esforçando mesmo nisso.[lr]::
-16413::$$$message_0148_0044_0001$$$::[line2]Então, onde você quer chegar?"::
-16414::$$$message_0148_0045_0000$$$::"V-Você não entendeu mesmo depois do que eu disse até agora!? Em outras palavras, o Rei Arthur é imortal! A Excalibur é um Fantasma Nobre perfeito, tanto para ataque quanto para defesa.[lr]::
+16412::$$$message_0148_0044_0000$$$::"Olha só, Tohsaka, você está mesmo entrando no papel.[lr]::
+16413::$$$message_0148_0044_0001$$$::Então qual é o seu ponto?"::
+16414::$$$message_0148_0045_0000$$$::"Qual é, você ainda não entendeu!? Isso significa que o Rei Arthur é imortal! Excalibur é um Fantasma Nobre invencível tanto no ataque quanto na defesa![lr]::
 16415::$$$message_0148_0045_0001$$$::Ou seja, a Saber deveria se curar logo depois que ficasse ferida!"::
-16416::$$$message_0148_0046_0000$$$::"...mas Tohsaka, todas as feridas da Saber estiveram se curando."::
-16417::$$$message_0148_0047_0000$$$::"...Isso é verdade, mas... parece ela gasta uma quantidade enorme de energia mágica para se curar... enfim, essa cura não combina com a bainha da Excalibur que é contada na lenda."::
-16418::$$$message_0148_0048_0000$$$::"[line2]Entendi. Bem, já que você está dizendo...[lr]::
+16416::$$$message_0148_0046_0000$$$::"Tohsaka... as feridas da Saber curam."::
+16417::$$$message_0148_0047_0000$$$::"Sim, isso é verdade, mas a autocura da Saber vem do gasto de uma quantidade enorme de Energia Mágica. E isso me parece separado da bainha da lendária Excalibur."::
+16418::$$$message_0148_0048_0000$$$::"Entendi. Bem, se você está dizendo...[lr]::
 16419::$$$message_0148_0048_0001$$$::Eu tenho uma pergunta.[lr]::
 16420::$$$message_0148_0048_0002$$$::Você mencionou que o Rei Arthur é imortal. Então, como foi que ele morreu? A lenda termina com a morte do Rei Arthur, não é?"::
 16421::$$$message_0148_0049_0000$$$::"Hã?"[lr]::
 16422::$$$message_0148_0049_0001$$$::A Tohsaka fica de boca aberta, sem ter o que dizer.[lr]::
 16423::$$$message_0148_0049_0002$$$::Depois de paralisar por alguns segundos, ela range os dentes e desvia o olhar.::
 16424::$$$message_0148_0050_0000$$$::"...É mesmo... a bainha da Excalibur foi roubada...."[lr]::
-16425::$$$message_0148_0050_0001$$$::Bem, esse foi um erro bobo.[lr]::
-16426::$$$message_0148_0050_0002$$$::Eu também tinha me esquecido desse detalhe, mas a ruína do Rei Arthur começou assim que ele perdeu a bainha que nunca deveria ter perdido.::
+16425::$$$message_0148_0050_0001$$$::Ah, erro de principiante.[lr]::
+16426::$$$message_0148_0050_0002$$$::Eu também tinha me esquecido disso, mas segundo a lenda, a ruína do Rei Arthur começou no instante em que ele perdeu a bainha que jamais deveria ter perdido.::
 16427::$$$message_0148_0051_0000$$$::"Então. Você está convencida agora, Tohsaka?"[lr]::
 16428::$$$message_0148_0051_0001$$$::"...Sim. Pode rir de mim se quiser."::
-16429::$$$message_0148_0052_0000$$$::Duvido.[lr]::
-16430::$$$message_0148_0052_0001$$$::Pela cara da Tohsaka, ela vai me dar um chute machado se eu começar a rir.::
+16429::$$$message_0148_0052_0000$$$::Ela não quer dizer isso.[lr]::
+16430::$$$message_0148_0052_0001$$$::Dá para ver que ela está pronta para me dar um chute na cabeça no instante em que eu rir dela.::
 16431::$$$message_0148_0053_0000$$$::"Se você entendeu, não tem problema. Mas por que isso te deixou preocupada? Você não deveria se importar se a Saber pode ficar ferida ou não."::
-16432::$$$message_0148_0054_0000$$$::"C-Cala a boca! Eu só estive pensando que a Saber seria invencível se ela pudesse se curar daquele jeito.[lr]::
-16433::$$$message_0148_0054_0001$$$::Até eu cometo erros uma vez ou outra."::
+16432::$$$message_0148_0054_0000$$$::"C-Cala a boca! Talvez eu só tenha ficado um pouco... arrogante, achando que ela seria invencível se esse fosse o caso.[lr]::
+16433::$$$message_0148_0054_0001$$$::Eu também erro às vezes, sabia!"::
 16434::$$$message_0148_0055_0000$$$::"......"[lr]::
-16435::$$$message_0148_0055_0001$$$::...Que situação complicada.[lr]::
-16436::$$$message_0148_0055_0002$$$::Será que eu deveria contar para a Tohsaka que ela comete vários erros ao invés de só uma vez ou outra?::
+16435::$$$message_0148_0055_0001$$$::Essa é complicada.[lr]::
+16436::$$$message_0148_0055_0002$$$::Será que valeria a pena apontar que ela erra [font italic=true]muito[font italic=false], e não só de vez em quando?::
+
 

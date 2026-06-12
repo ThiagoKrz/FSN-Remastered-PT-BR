@@ -2,291 +2,293 @@ DAT
 id=qid::label=str::text=lstr::
 15658::$$$message_0145_0000_0000$$$::A Saber levanta a sua espada.[lr]::
 15659::$$$message_0145_0000_0001$$$::Ela já está perto o bastante para atacar.::
-15660::$$$message_0145_0001_0000$$$::"[line2]Não. Não faça isso, Saber!"[lr]::
-15661::$$$message_0145_0001_0001$$$::Mas eu sou levado pelo impulso e corro até ela.::
-15662::$$$message_0145_0002_0000$$$::"O quê?"[lr]::
-15663::$$$message_0145_0002_0001$$$::De repente, a Saber para.[lr]::
-15664::$$$message_0145_0002_0002$$$::Mas não porque a Caster fez alguma coisa.[lr]::
-15665::$$$message_0145_0002_0003$$$::A Saber teve um 'mal pressentimento' vindo da Caster e parou por conta própria.::
-15666::$$$message_0145_0003_0000$$$::"Sua maldita! Isso é[line2]"[lr]::
+15660::$$$message_0145_0001_0000$$$::"[line2]Não... não, Saber!"[lr]::
+15661::$$$message_0145_0001_0001$$$::Impulsionado pelo desespero, eu disparo na direção dela.::
+15662::$$$message_0145_0002_0000$$$::"Hã[line2]!?"[lr]::
+15663::$$$message_0145_0002_0001$$$::A Saber para de repente.[lr]::
+15664::$$$message_0145_0002_0002$$$::Não está claro se a Caster fez alguma coisa.[lr]::
+15665::$$$message_0145_0002_0003$$$::A Saber se enrijece ao pressentir alguma coisa vinda da Caster.::
+15666::$$$message_0145_0003_0000$$$::"Você... isso é...!"[lr]::
 15667::$$$message_0145_0003_0001$$$::A Saber tenta se esquivar na mesma hora.[lr]::
-15668::$$$message_0145_0003_0002$$$::Porém.[lr]::
-15669::$$$message_0145_0003_0003$$$::A Caster deve ter escondido alguma armadilha no chão, já que estão saindo mãos de esqueletos debaixo dele que agarram os pés da Saber[line2]!::
-15670::$$$message_0145_0004_0000$$$::"[line2]Hm. Eu não esperava que você tivesse uma intuição tão boa assim, mas agora já era, Saber!"[lr]::
-15671::$$$message_0145_0004_0001$$$::A Caster puxa uma lâmina do seu manto escuro.::
-15672::$$$message_0145_0005_0000$$$::É uma adaga com um formado estranho.[lr]::
-15673::$$$message_0145_0005_0001$$$::Ela tem uma lâmina fina e delicada. Não parece ser muito útil para matar alguém.[lr]::
-15674::$$$message_0145_0005_0002$$$::Mesmo assim, a Saber quer ficar longe essa lâmina, e a Caster a balança como se fosse a sua chance de vencer.::
-15675::$$$message_0145_0006_0000$$$::A Saber deve ter ficado surpresa por ter sido agarrada pelo chão.[lr]::
-15676::$$$message_0145_0006_0001$$$::Ao invés de tentar bloquear a adaga, ela olha o ataque vindo na sua direção[r]sem reagir[line2][lr]::
-15677::$$$message_0145_0006_0002$$$::"V[line2]oocêêêêêêêêêêê...!"::
-15678::$$$message_0145_0007_0000$$$::"Quê[line2]"[lr]::
-15679::$$$message_0145_0007_0001$$$::Eu ouço a voz da Caster atrás de mim.[lr]::
-15680::$$$message_0145_0007_0002$$$::Eu não estou olhando para o rosto que está coberto por aquele manto.[lr]::
-15681::$$$message_0145_0007_0003$$$::O melhor que eu pude fazer foi ficar na frente da Saber e receber o ataque da lâmina no lugar dela.::
-15682::$$$message_0145_0008_0000$$$::"Gu[line2]ou...!!!!"[lr]::
-15683::$$$message_0145_0008_0001$$$::...Mas eu não me saí muito bem.[lr]::
-15684::$$$message_0145_0008_0002$$$::Eu pensei em bloquear a adaga da Caster logo de frente, mas estava achando que não iria conseguir à tempo.[lr]::
-15685::$$$message_0145_0008_0003$$$::Então ao invés disso, eu resolvi abraçar a Saber para tentar protegê-la da lâmina.[lr]::
-15686::$$$message_0145_0008_0004$$$::E como resultado, a adaga da Caster rasgou as minhas costas.::
-15687::$$$message_0145_0009_0000$$$::"Gu, ga...!!!!"[lr]::
-15688::$$$message_0145_0009_0001$$$::Eu me esforço para não chorar de dor e abraço a Saber ainda mais forte.::
-15689::$$$message_0145_0010_0000$$$::"Shi... rou...?"[lr]::
-15690::$$$message_0145_0010_0001$$$::Eu não consigo entender o que ela está dizendo no meu ouvido.[lr]::
-15691::$$$message_0145_0010_0002$$$::"Se... afaste[line2]Saber, volte..."[lr]::
-15692::$$$message_0145_0010_0003$$$::A Saber entendeu antes que eu precisasse dizer para ela saltar para trás.::
-15693::$$$message_0145_0011_0000$$$::O meu corpo se mexe.[lr]::
-15694::$$$message_0145_0011_0001$$$::A Saber salta para trás para se afastar das mãos que estão saindo do chão, e eu sou levado junto com ela.::
-15695::$$$message_0145_0012_0000$$$::"Shirou, o seu ferimento[line4]!"[lr]::
-15696::$$$message_0145_0012_0001$$$::A Saber está preocupada.[lr]::
-15697::$$$message_0145_0012_0002$$$::Por mais que ela tenha me deitado no chão com cuidado, a dor das minhas costas não para de crescer.[lr]::
-15698::$$$message_0145_0012_0003$$$::É como se as minhas costas tivessem sido cortadas por uma tesoura e alguém estivesse colocando chumbo dentro dela.[lr]::
-15699::$$$message_0145_0012_0004$$$::A dor que estou sentindo é a mesma de ter um celular enfiado dentro do meu ferimento[line2]::
-15700::$$$message_0145_0013_0000$$$::"Shirou, aguenta firme, Shirou[line2]!"[lr]::
-15701::$$$message_0145_0013_0001$$$::...Parece que ela não está desesperada.[lr]::
-15702::$$$message_0145_0013_0002$$$::Na verdade, os gritos da Saber estão me deixando mais calmo.::
-15703::$$$message_0145_0014_0000$$$::"[line2]Ei, você não precisa gritar, eu consigo te ouvir.[lr]::
-15704::$$$message_0145_0014_0001$$$::Isso não é nada demais, eu só estou sentindo dor. Me deixe aqui e tome conta da Caster..."[lr]::
-15705::$$$message_0145_0014_0002$$$::Depois de acenar com a cabeça, eu aponto para onde a Caster deveria estar.::
-15706::$$$message_0145_0015_0000$$$::"[line2]Está bem. Eu vou acabar com isso rápido. Por favor, aguente só mais um pouco."[lr]::
-15707::$$$message_0145_0015_0001$$$::...A Saber volta a ficar de frente para a Caster.::
-15708::$$$message_0145_0016_0000$$$::"Então esse é o seu Fantasma Nobre, Caster?"[lr]::
-15709::$$$message_0145_0016_0001$$$::A voz da Saber parece uma ameaça.[lr]::
-15710::$$$message_0145_0016_0002$$$::A sombra escura morde a própria língua de raiva e levanta a adaga deformada que está na sua mão.::
-15711::$$$message_0145_0017_0000$$$::"...Sim. Essa arma é tão fraca que não serve nem para matar um humano. Mas como você mesmo pressentiu, ela tem um encantamento mágico que a torna extremamente útil para uma única coisa.[lr]::
-15712::$$$message_0145_0017_0001$$$::...Se você não quiser encostar nela, eu te aconselho a não chegar perto de mim, Saber."::
-15713::$$$message_0145_0018_0000$$$::Mesmo que ela diga isso, eu estou sentindo que a Caster está menos confiante do que antes.[lr]::
-15714::$$$message_0145_0018_0001$$$::Por mais que a Caster seja poderosa, ela não é capaz de ferir a Saber com magia.[lr]::
-15715::$$$message_0145_0018_0002$$$::Eu não sei o que esse Fantasma Nobre faz, mas agora ele não deve surtir efeito na Saber.::
-15716::$$$message_0145_0019_0000$$$::"Agora você deve conseguir acabar com ela sem... nenhum... problema."[lr]::
-15717::$$$message_0145_0019_0001$$$::Eu digo isso para ela enquanto ranjo os meus dentes de tanta dor.::
+15668::$$$message_0145_0003_0002$$$::Porém...[lr]::
+15669::$$$message_0145_0003_0003$$$::Braços ossudos irrompem do chão e agarram as pernas dela!::
+15670::$$$message_0145_0004_0000$$$::"Hmph. Eu não esperava que você tivesse tanta premonição. Mas isso acaba aqui, Saber!"[lr]::
+15671::$$$message_0145_0004_0001$$$::Uma lâmina afiada surge das dobras do manto da Caster.::
+15672::$$$message_0145_0005_0000$$$::É uma adaga de formato estranho.[lr]::
+15673::$$$message_0145_0005_0001$$$::Fina e frágil... aquela lâmina não foi feita para matar.[lr]::
+15674::$$$message_0145_0005_0002$$$::A Saber a encara com repulsa, e a Caster investe, certa de que encontrou sua chance de vitória.::
+15675::$$$message_0145_0006_0000$$$::Ser pega por mãos saindo do chão deve ter surpreendido a Saber...[lr]::
+15676::$$$message_0145_0006_0001$$$::Sem conseguir se esquivar nem aparar a adaga que desce, ela apenas recebe o golpe, atônita.[lr]::
+15677::$$$message_0145_0006_0002$$$::"Você...!?"::
+15678::$$$message_0145_0007_0000$$$::"Hã[line2]!?"[lr]::
+15679::$$$message_0145_0007_0001$$$::Eu ouço a voz da Caster ecoar de algum lugar atrás de mim.[lr]::
+15680::$$$message_0145_0007_0002$$$::Não consigo ver a expressão no rosto oculto por aquele manto.[lr]::
+15681::$$$message_0145_0007_0003$$$::Tudo o que consigo fazer é me jogar na frente da Saber e receber o golpe no lugar dela.::
+15682::$$$message_0145_0008_0000$$$::"Gnh... aagh...!!!"[lr]::
+15683::$$$message_0145_0008_0001$$$::Não foi nada bonito.[lr]::
+15684::$$$message_0145_0008_0002$$$::Eu não tive confiança para simplesmente entrar na frente e receber a adaga no peito.[lr]::
+15685::$$$message_0145_0008_0003$$$::Então, em vez disso, agarrei a Saber para encobrir o alvo da Caster.[lr]::
+15686::$$$message_0145_0008_0004$$$::E, com isso, a adaga da Caster se enterra nas minhas costas, rasgando a minha coluna num instante de dor inacreditável.::
+15687::$$$message_0145_0009_0000$$$::"Ngh... gahhh!!!"[lr]::
+15688::$$$message_0145_0009_0001$$$::Eu me obrigo a não gritar de dor e reúno forças para amparar a Saber.::
+15689::$$$message_0145_0010_0000$$$::"Shi...rou...?"[lr]::
+15690::$$$message_0145_0010_0001$$$::Não consigo ouvir o que ela está dizendo, mesmo com a boca tão perto do meu ouvido.[lr]::
+15691::$$$message_0145_0010_0002$$$::"Afa...ste-se... Saber, fique... atrás de mim..."[lr]::
+15692::$$$message_0145_0010_0003$$$::A Saber entende antes que eu reúna voz suficiente para mandar que ela recue.::
+15693::$$$message_0145_0011_0000$$$::Eu sou arremessado.[lr]::
+15694::$$$message_0145_0011_0001$$$::A Saber se livra das mãos ossudas que prendiam suas pernas e me leva junto com ela.::
+15695::$$$message_0145_0012_0000$$$::"Shirou, o seu ferimento...!"[lr]::
+15696::$$$message_0145_0012_0001$$$::A voz da Saber soa urgente.[lr]::
+15697::$$$message_0145_0012_0002$$$::Ela me deita no chão com cuidado, mas a dor só piora.[lr]::
+15698::$$$message_0145_0012_0003$$$::É como se uma tesoura tivesse rasgado as minhas costas e alguém estivesse despejando chumbo pela minha coluna.[lr]::
+15699::$$$message_0145_0012_0004$$$::A dor é absurda...::
+15700::$$$message_0145_0013_0000$$$::"Shirou. Aguente firme! Shirou!!!"[lr]::
+15701::$$$message_0145_0013_0001$$$::...Mas eu não estou exatamente perdendo a cabeça.[lr]::
+15702::$$$message_0145_0013_0002$$$::Ouvir a Saber praticamente gritando acaba me acalmando.::
+15703::$$$message_0145_0014_0000$$$::"Boba. Você não precisa gritar. Eu consigo te ouvir.[lr]::
+15704::$$$message_0145_0014_0001$$$::Isto não é nada... só dói. Esqueça de mim. Cuide da Caster."[lr]::
+15705::$$$message_0145_0014_0002$$$::Ainda curvado, aponto na direção da Caster.::
+15706::$$$message_0145_0015_0000$$$::"Sim. Vou resolver isso imediatamente. Aguente só mais um pouco."[lr]::
+15707::$$$message_0145_0015_0001$$$::A Saber se vira para a Caster.::
+15708::$$$message_0145_0016_0000$$$::"Então aquilo era o seu Fantasma Nobre, não era, Caster?"[lr]::
+15709::$$$message_0145_0016_0001$$$::A voz da Saber é dura, colérica.[lr]::
+15710::$$$message_0145_0016_0002$$$::A sombra negra estala a língua, irritada, e ergue a estranha adaga na mão.::
+15711::$$$message_0145_0017_0000$$$::"Sim. Como pode ver, ela é imprestável para matar quem quer que seja. Mas, como você percebeu, é o meu trunfo mágico, de poder ilimitado para um único propósito.[lr]::
+15712::$$$message_0145_0017_0001$$$::Se não quiser que ela toque em você, aconselho que não se aproxime de mim, Saber."::
+15713::$$$message_0145_0018_0000$$$::A Caster fala com ousadia, mas já não parece tão segura quanto antes.[lr]::
+15714::$$$message_0145_0018_0001$$$::Mesmo uma maga poderosa como a Caster não consegue ferir a Saber enquanto estiver usando apenas magia.[lr]::
+15715::$$$message_0145_0018_0002$$$::Seja qual for o Fantasma Nobre dela, ele não pode ferir a Saber, mesmo que a pegue de surpresa.::
+15716::$$$message_0145_0019_0000$$$::"Você deve... vencê-la... sem... problema..."[lr]::
+15717::$$$message_0145_0019_0001$$$::Eu digo isso entre dentes.::
 15718::$$$message_0145_0020_0000$$$::"Ah, tem certeza, Saber? Você pode muito bem me encurralar, mas quem é que vai proteger aquele rapaz enquanto isso?[lr]::
 15719::$$$message_0145_0020_0001$$$::Acho que nem preciso dizer isso, mas você é a única imune à minha magia. Advinha o que vou fazer com aquele rapaz se eu ficar encurralada?"::
-15720::$$$message_0145_0021_0000$$$::"[line2]Sua..."[lr]::
-15721::$$$message_0145_0021_0001$$$::A Saber diz isso do fundo dos seus pulmões.::
-15722::$$$message_0145_0022_0000$$$::[line2]O barulho de esqueletos começa a aumentar.[lr]::
-15723::$$$message_0145_0022_0001$$$::Nós estamos cercados.::
-15724::$$$message_0145_0023_0000$$$::"Dro[line2]ga."[lr]::
-15725::$$$message_0145_0023_0001$$$::...Eu cometi um erro.[lr]::
-15726::$$$message_0145_0023_0002$$$::Mesmo que eu tenha salvo a Saber, não adianta nada se acabar ficando ferido desse jeito.[lr]::
-15727::$$$message_0145_0023_0003$$$::Desse jeito eu só vou dar mais trabalho para ela.[lr]::
-15728::$$$message_0145_0023_0004$$$::Se a Saber estivesse sozinha, a Caster nem teria chance contra ela.::
-15729::$$$message_0145_0024_0000$$$::"...Então você disse que veio aqui para conversar, Caster."[lr]::
-15730::$$$message_0145_0024_0001$$$::"Quê[line2]Sa... ber..."[lr]::
-15731::$$$message_0145_0024_0002$$$::"Mestre, fique quieto. Essa é a coisa certa a se fazer agora."::
-15732::$$$message_0145_0025_0000$$$::A Saber abaixa a sua espada.[lr]::
-15733::$$$message_0145_0025_0001$$$::Eu acho que escutei a risada da Caster junto com o barulho dos esqueletos.::
-15734::$$$message_0145_0026_0000$$$::"Eu estou te ouvindo, Caster. Eu posso te deixar ir embora dependendo do que você pedir em troca."[lr]::
-15735::$$$message_0145_0026_0001$$$::"Ficou maluca? Eu tenho a vida de vocês dois nas minhas mãos.[lr]::
-15736::$$$message_0145_0026_0002$$$::Se você agir com tanta ousadia, talvez eu ache melhor matá-los."::
-15737::$$$message_0145_0027_0000$$$::"Deixa eu te corrigir. Você tem a vida do meu Mestre, mas não a minha.[lr]::
-15738::$$$message_0145_0027_0001$$$::[line2]Se mesmo assim você resolver atacá-lo, eu não vou mais me segurar. Se você matar o meu Mestre, eu juro que vou te derrotar com tudo o que tenho antes de desaparecer."::
-15739::$$$message_0145_0028_0000$$$::O clima fica tenso.[lr]::
-15740::$$$message_0145_0028_0001$$$::Até os esqueletos em volta da Caster ficaram assustados com o que a Saber acabou de dizer.::
-15741::$$$message_0145_0029_0000$$$::"...Está bem. Eu não vou fazer nada contra aquele rapaz. O meu objetivo era você desde o começo. Eu não vejo problema em deixar um Mestre ou outro escapar com vida."[lr]::
-15742::$$$message_0145_0029_0001$$$::"Hm? Eu era o seu objetivo desde o começo...?"::
-15743::$$$message_0145_0030_0000$$$::"Isso mesmo. Eu não posso ignorar um herói que conseguiu derrotar alguém como o Berserker. Os únicos Servos que sobraram são eu, você e o Lancer. Se você se juntar a mim, o Lancer não vai ter a menor chance."::
-15744::$$$message_0145_0031_0000$$$::"[line2]Só sobraram três? Nesse caso, o Assassin já foi derrotado?"[lr]::
-15745::$$$message_0145_0031_0001$$$::"Quem sabe? Ele não está mais entre nós, então eu diria que ele foi derrotado. É isso o que acontece quando um Servo desaparece por não ter protegido o seu Mestre."::
-15746::$$$message_0145_0032_0000$$$::"[line5]!"[lr]::
+15720::$$$message_0145_0021_0000$$$::"Sua...!"[lr]::
+15721::$$$message_0145_0021_0001$$$::A voz da Saber ressoa do fundo do peito.::
+15722::$$$message_0145_0022_0000$$$::O chocalhar de ossos fica mais alto.[lr]::
+15723::$$$message_0145_0022_0001$$$::Estou ajoelhado no chão, e a Saber ergue a espada para me defender enquanto os ossos nos cercam.::
+15724::$$$message_0145_0023_0000$$$::"Dro...ga."[lr]::
+15725::$$$message_0145_0023_0001$$$::Eu estraguei tudo.[lr]::
+15726::$$$message_0145_0023_0002$$$::Mesmo que eu tenha conseguido salvar a Saber, não adianta nada se eu ficar imprestável desse jeito.[lr]::
+15727::$$$message_0145_0023_0003$$$::Sem conseguir me mover direito, eu só estou atrapalhando a Saber.[lr]::
+15728::$$$message_0145_0023_0004$$$::Sozinha, a Caster não seria ameaça alguma para a Saber, mas comigo para protegê-la...::
+15729::$$$message_0145_0024_0000$$$::"Você disse que veio aqui para conversar, Caster?"[lr]::
+15730::$$$message_0145_0024_0001$$$::"O quê? Sa...ber...?"[lr]::
+15731::$$$message_0145_0024_0002$$$::"Por favor, fique quieto, Mestre. Essa é a melhor escolha agora."::
+15732::$$$message_0145_0025_0000$$$::A Saber abaixa a espada.[lr]::
+15733::$$$message_0145_0025_0001$$$::Acho que ouço a Caster rir em meio ao chocalhar daqueles ossos todos.::
+15734::$$$message_0145_0026_0000$$$::"Ouçamos o que você tem a dizer, Caster. Dependendo do que oferecer, talvez a deixemos ir."[lr]::
+15735::$$$message_0145_0026_0001$$$::"Enlouqueceu? Não entende que a vida de vocês está nas minhas mãos?[lr]::
+15736::$$$message_0145_0026_0002$$$::Se se mostrar ousada demais, talvez eu simplesmente esmague vocês."::
+15737::$$$message_0145_0027_0000$$$::"Não entenda mal a sua posição. Você tem a vida do meu Mestre nas mãos, não a minha.[lr]::
+15738::$$$message_0145_0027_0001$$$::Se extinguir essa vida, eu não hesitarei em atacar. Usarei até a última gota de poder da minha espada para reduzi-la a cinzas, mesmo que eu desapareça junto."::
+15739::$$$message_0145_0028_0000$$$::O ar ao nosso redor esfria.[lr]::
+15740::$$$message_0145_0028_0001$$$::Dá para sentir: as palavras da Saber intimidam a Caster.::
+15741::$$$message_0145_0029_0000$$$::"Está bem. Não tocarei no rapaz. Você é o meu alvo de qualquer forma. Suponho que não haja problema em deixar um único Mestre escapar com vida."[lr]::
+15742::$$$message_0145_0029_0001$$$::"O quê? Eu fui o seu alvo o tempo todo?"::
+15743::$$$message_0145_0030_0000$$$::"Exato. Eu não posso ignorar o Espírito Heroico que derrotou o Berserker. Restamos apenas eu, você e o Lancer. Se você se tornar minha aliada, o Lancer não representará ameaça alguma."::
+15744::$$$message_0145_0031_0000$$$::"Só restam três? Então o Assassin foi derrotado?"[lr]::
+15745::$$$message_0145_0031_0001$$$::"Quem sabe? Mas ele desapareceu, então isso deve significar que foi derrotado. Um Servo que nem consegue proteger o próprio senhor não merece destino melhor."::
+15746::$$$message_0145_0032_0000$$$::"Quê[line2]!?"[lr]::
 15747::$$$message_0145_0032_0001$$$::O Assassin foi derrotado...?[lr]::
-15748::$$$message_0145_0032_0002$$$::Então, o Mestre que ficava no Templo Ryuudou está morto?[lr]::
-15749::$$$message_0145_0032_0003$$$::Eu nem consegui descobrir a identidade dele, mas isso quer dizer que mais um Mestre se foi.[lr]::
-15750::$$$message_0145_0032_0004$$$::Os únicos Servos que sobraram são a Saber, a Caster, e o Lancer, que não apareceu mais desde aquela primeira noite[line2]::
-15751::$$$message_0145_0033_0000$$$::"...Hm. Eu não quero perder tempo com conversas inúteis como essa.[lr]::
-15752::$$$message_0145_0033_0001$$$::Eu estou interessada mesmo é no seu Fantasma Nobre. Se você não quiser que o seu Mestre morra, seja boazinha e me entregue a sua espada."::
-15753::$$$message_0145_0034_0000$$$::"[line2]Não adianta. Eu sou a única que pode usar essa espada.[lr]::
-15754::$$$message_0145_0034_0001$$$::Todo espírito heroico deveria saber que só o dono do seu próprio Fantasma Nobre pode usá-lo."::
-15755::$$$message_0145_0035_0000$$$::"Ah, bem lembrado. Então já que é assim, eu vou precisar de você também, Saber.[lr]::
-15756::$$$message_0145_0035_0001$$$::Eu posso convencer qualquer cavaleiro a se juntar a mim, não importa o quanto ele seja poderoso... e além do mais, eu gostei de você.[lr]::
-15757::$$$message_0145_0035_0002$$$::Seria divertido poder te controlar."::
-15758::$$$message_0145_0036_0000$$$::A Caster parece estar se divertindo.[lr]::
-15759::$$$message_0145_0036_0001$$$::"...!"[lr]::
-15760::$$$message_0145_0036_0002$$$::A minha mente fica irritada.[lr]::
-15761::$$$message_0145_0036_0003$$$::Eu ignoro a dor das minhas costas e fico de pé.::
-15762::$$$message_0145_0037_0000$$$::"Você só pode estar de brincadeira[line2]"[lr]::
-15763::$$$message_0145_0037_0001$$$::Eu não posso deixar que a Saber seja controlada pela Caster por minha causa.[lr]::
-15764::$$$message_0145_0037_0002$$$::Eu decidi que iria proteger a Saber, e por isso não posso ficar deitado só porque estou com um ferimento nas costas[line2]!::
-15765::$$$message_0145_0038_0000$$$::Eu pego a espada de madeira e a balanço contra os esqueletos que estão à minha volta.::
-15766::$$$message_0145_0039_0000$$$::"Não faça isso, Shirou...!"[lr]::
-15767::$$$message_0145_0039_0001$$$::A Saber está preocupada.[lr]::
-15768::$$$message_0145_0039_0002$$$::"Ah? Se você quer tanto se matar, quem sou eu para te impedir?"[lr]::
-15769::$$$message_0145_0039_0003$$$::A Caster está se divertindo.[lr]::
-15770::$$$message_0145_0039_0004$$$::Eu estou ouvindo o barulho de vários esqueletos se debatendo.::
-15771::$$$message_0145_0040_0000$$$::Porém, como se fosse para cancelar o barulho de todos eles...[lr]::
-15772::$$$message_0145_0040_0001$$$::Todos os esqueletos são aniquilados por uma chuva de flechas.::
-15773::$$$message_0145_0041_0000$$$::"Quê[line2]"[lr]::
-15774::$$$message_0145_0041_0001$$$::Eu fico parado sem acreditar no que acabou de acontecer.[lr]::
-15775::$$$message_0145_0041_0002$$$::As flechas caíram do céu como se fossem uma tempestade e desapareceram feito ilusões.[lr]::
-15776::$$$message_0145_0041_0003$$$::Mas o que acabei de ver não pode ter sido uma ilusão.[lr]::
-15777::$$$message_0145_0041_0004$$$::Porque a horda de esqueletos foi destruída de verdade.::
-15778::$$$message_0145_0042_0000$$$::"Kuh, quem está aí[line2]!?"[lr]::
+15748::$$$message_0145_0032_0002$$$::Isso quer dizer que o Mestre do Templo Ryuudou se foi?[lr]::
+15749::$$$message_0145_0032_0003$$$::Eu nem cheguei a lutar com eles, ou sequer a saber quem eram, mas agora há um Mestre a menos.[lr]::
+15750::$$$message_0145_0032_0004$$$::Então os únicos Servos restantes são a Saber, a Caster e o Lancer, que não aparece desde aquela primeira noite.::
+15751::$$$message_0145_0033_0000$$$::"Hmph. Esta conversa acabou.[lr]::
+15752::$$$message_0145_0033_0001$$$::O que eu quero é o seu Fantasma Nobre. Se não quiser que o seu Mestre morra, seja gentil e me entregue a sua espada."::
+15753::$$$message_0145_0034_0000$$$::"Seria inútil. Só eu posso manejar esta espada.[lr]::
+15754::$$$message_0145_0034_0001$$$::Se você é um Espírito Heroico, então deveria saber muito bem que um Fantasma Nobre só pode ser usado por seu dono."::
+15755::$$$message_0145_0035_0000$$$::"Ah, claro. Então terei de levá-la também, Saber.[lr]::
+15756::$$$message_0145_0035_0001$$$::Não importa quão hábil seja um cavaleiro, ele pode ser persuadido depois de capturado. E você faz o meu tipo.[lr]::
+15757::$$$message_0145_0035_0002$$$::Mal posso esperar para lhe ensinar boas maneiras."::
+15758::$$$message_0145_0036_0000$$$::A voz dela transborda divertimento.[lr]::
+15759::$$$message_0145_0036_0001$$$::"Guh...!"[lr]::
+15760::$$$message_0145_0036_0002$$$::Sinto que estou prestes a desmaiar, mesmo com a raiva fervendo.[lr]::
+15761::$$$message_0145_0036_0003$$$::Empurro a dor para longe e me forço a ficar de pé sobre pernas dormentes.::
+15762::$$$message_0145_0037_0000$$$::"Sua desgra...çada...!"[lr]::
+15763::$$$message_0145_0037_0001$$$::Eu não vou deixar a Saber ser capturada por minha causa.[lr]::
+15764::$$$message_0145_0037_0002$$$::Decidi que iria protegê-la, então não vou permitir que um ferimento nas costas me derrube[line2]::
+15765::$$$message_0145_0038_0000$$$::Eu agarro a espada de madeira e começo a golpear os ossos ao nosso redor.::
+15766::$$$message_0145_0039_0000$$$::"Não, Shirou!"[lr]::
+15767::$$$message_0145_0039_0001$$$::A voz da Saber está tensa, frágil.[lr]::
+15768::$$$message_0145_0039_0002$$$::"Oho. Se você quer tanto se matar, eu não vou impedi-lo."[lr]::
+15769::$$$message_0145_0039_0003$$$::A Caster zomba de mim enquanto eu me debato.[lr]::
+15770::$$$message_0145_0039_0004$$$::Ossos estalam e chacoalham.::
+15771::$$$message_0145_0040_0000$$$::E, como se fosse para abafar todos esses sons...[lr]::
+15772::$$$message_0145_0040_0001$$$::...os ossos são varridos num piscar de olhos por uma súbita saraivada de flechas.::
+15773::$$$message_0145_0041_0000$$$::"O quê...!?"[lr]::
+15774::$$$message_0145_0041_0001$$$::Ficamos todos atônitos.[lr]::
+15775::$$$message_0145_0041_0002$$$::As flechas que choveram sobre nós desaparecem como se fossem ilusões.[lr]::
+15776::$$$message_0145_0041_0003$$$::Mas não eram.[lr]::
+15777::$$$message_0145_0041_0004$$$::Toda a horda de ossos sumiu.::
+15778::$$$message_0145_0042_0000$$$::"Ngh...!? Quem está aí!?"[lr]::
 15779::$$$message_0145_0042_0001$$$::A Caster olha para cima.[lr]::
-15780::$$$message_0145_0042_0002$$$::"[line5]"[lr]::
-15781::$$$message_0145_0042_0003$$$::A Saber já deve ter notado esse cara.[lr]::
-15782::$$$message_0145_0042_0004$$$::Ela está surpresa, olhando para a 'coisa' que está parada em cima do muro.::
-15783::$$$message_0145_0043_0000$$$::"[line5]"[lr]::
-15784::$$$message_0145_0043_0001$$$::Eu estou vendo uma coisa inesperada lá em cima.[lr]::
-15785::$$$message_0145_0043_0002$$$::Um homem dourado de costas para a Lua.[lr]::
-15786::$$$message_0145_0043_0003$$$::O homem banhado a ouro está olhando para o jardim com um sorriso cruel no rosto[line2]::
-15787::$$$message_0145_0044_0000$$$::"Q-Quem é você[line2]?"[lr]::
-15788::$$$message_0145_0044_0001$$$::A Caster deve ter percebido que ele foi o responsável por destruir a sua horda de esqueletos.::
-15789::$$$message_0145_0045_0000$$$::"[line5]"[lr]::
-15790::$$$message_0145_0045_0001$$$::O homem não responde. Aliás, ele nem está dando atenção para a Caster.[lr]::
-15791::$$$message_0145_0045_0002$$$::Ele só está olhando para uma pessoa.[lr]::
-15792::$$$message_0145_0045_0003$$$::Para o cavaleiro prateado que está atrás de mim.::
-15793::$$$message_0145_0046_0000$$$::"Me responda! Eu perguntei quem é você...!"[lr]::
-15794::$$$message_0145_0046_0001$$$::A Caster está pondo emoção na sua voz.[lr]::
-15795::$$$message_0145_0046_0002$$$::E graças a isso, o homem finalmente olha para ela.::
-15796::$$$message_0145_0047_0000$$$::"[line5]!"[lr]::
-15797::$$$message_0145_0047_0001$$$::A Caster suspira assim que é encarada por aqueles olhos vermelhos.[lr]::
-15798::$$$message_0145_0047_0002$$$::O olhar daquele homem é frio demais.[lr]::
-15799::$$$message_0145_0047_0003$$$::[line2]Aquela coisa não está tratando a Caster como uma pessoa.[lr]::
-15800::$$$message_0145_0047_0004$$$::Até eu consegui perceber isso.[lr]::
-15801::$$$message_0145_0047_0005$$$::É completamente normal que a Caster fique assustada com a pressão daquele olhar.::
-15802::$$$message_0145_0048_0000$$$::"P-Por que você está se intrometendo[line2]?"[lr]::
-15803::$$$message_0145_0048_0001$$$::A Caster faz essa pergunta gaguejando.[lr]::
-15804::$$$message_0145_0048_0002$$$::Ela deve ter percebido que vai ser esmagada se não fizer isso.[lr]::
-15805::$$$message_0145_0048_0003$$$::[line2]Porém.::
-15806::$$$message_0145_0049_0000$$$::"Eu não tenho nenhum motivo para falar com um vira-lata. Saia da minha vista, sua imbecil."[lr]::
-15807::$$$message_0145_0049_0001$$$::O homem responde como se estivesse dando uma sentença de morte para ela.::
-15808::$$$message_0145_0050_0000$$$::Um estalar de dedos.[lr]::
-15809::$$$message_0145_0050_0001$$$::Assim que eu percebo que esse barulho veio do estalar de dedos dele, a tragédia já acontece.::
-15810::$$$message_0145_0051_0000$$$::De repente, várias armas aparecem no céu e são disparadas na Caster tão rápido quanto uma metralhadora.::
-15811::$$$message_0145_0052_0000$$$::"[line2][margos][line2]!"[lr]::
-15812::$$$message_0145_0052_0001$$$::A Caster levanta o braço.[lr]::
-15813::$$$message_0145_0052_0002$$$::O conceito de um escudo.[lr]::
-15814::$$$message_0145_0052_0003$$$::Uma película com o formato de vidro é criada bem em cima da Caster.::
-15815::$$$message_0145_0053_0000$$$::[line2]Essa proteção deve ser tão resistente quanto o corpo do Berserker.[lr]::
-15816::$$$message_0145_0053_0001$$$::Mas será que ela não funcionou porque foi feita de vidro?[lr]::
-15817::$$$message_0145_0053_0002$$$::Construída como se fosse um cristal, ela não conseguiu bloquear nenhuma das armas que estão caindo do céu e acaba se quebrando em pedaços.::
-15818::$$$message_0145_0054_0000$$$::"Hã[line2]?"[lr]::
-15819::$$$message_0145_0054_0001$$$::A voz de quem não acredita no que está acontecendo.[lr]::
-15820::$$$message_0145_0054_0002$$$::Sem se importar com a Caster confusa, as armas perfuram o manto escuro.[lr]::
-15821::$$$message_0145_0054_0003$$$::Sem nenhuma piedade.[lr]::
-15822::$$$message_0145_0054_0004$$$::O manto é perfurado por lanças. E enquanto o manto é devastado, mais lanças::
-15823::$$$message_0145_0055_0000$$$::É impossível sobreviver a isso.[lr]::
-15824::$$$message_0145_0055_0001$$$::A Caster está completamente cortada e deformada, e agora ela parece uma montanha de carne vermelha.::
-15825::$$$message_0145_0055_0002$$$::Caster, sucumbindo a uma chuva interminável de tantas armas diferentes, não é mais reconhecivelmente humano.::
-15826::$$$message_0145_0056_0000$$$::...O vento sopra.[lr]::
-15827::$$$message_0145_0056_0001$$$::O manto escuro sem Mestre voa para longe.[lr]::
-15828::$$$message_0145_0056_0002$$$::Voando para longe.[lr]::
-15829::$$$message_0145_0056_0003$$$::O manto cortado em pedaços ainda consegue manter o seu formato original.[lr]::
-15830::$$$message_0145_0056_0004$$$::...Mas agora tudo o que sobrou foi o que costumava ser a Caster.::
-15831::$$$message_0145_0057_0000$$$::"[line5]"[lr]::
-15832::$$$message_0145_0057_0001$$$::Eu nem sei o que dizer.[lr]::
-15833::$$$message_0145_0057_0002$$$::A minha mente tensa só consegue olhar o manto escuro sendo arrastado pelo vento.::
-15834::$$$message_0145_0058_0000$$$::Nesse momento.[lr]::
-15835::$$$message_0145_0058_0001$$$::"[line2]Como se atreve. Eu te avisei para sair da minha vista. Você deveria ter sido educada e se matado rápido!"[lr]::
-15836::$$$message_0145_0058_0002$$$::O homem dourado reclama com uma voz cheia de desprezo.::
-15837::$$$message_0145_0059_0000$$$::"Quê[line2]"[lr]::
-15838::$$$message_0145_0059_0001$$$::Eu não estou vendo uma ilusão.[lr]::
-15839::$$$message_0145_0059_0002$$$::O manto negro se contorce como se fosse uma onda, cria asas negras, e tenta sair voando.::
+15780::$$$message_0145_0042_0002$$$::[font italic=true]...[font italic=false][lr]::
+15781::$$$message_0145_0042_0003$$$::A Saber deve ter notado antes.[lr]::
+15782::$$$message_0145_0042_0004$$$::Muito antes da Caster, ela já fitava o alto do muro, incrédula.::
+15783::$$$message_0145_0043_0000$$$::[font italic=true]...[font italic=false][lr]::
+15784::$$$message_0145_0043_0001$$$::Eu não entendo o que estou vendo.[lr]::
+15785::$$$message_0145_0043_0002$$$::Há uma figura dourada em pé, com a lua às costas.[lr]::
+15786::$$$message_0145_0043_0003$$$::É um homem coberto por uma armadura de ouro, olhando para o jardim com um sorriso cruel.::
+15787::$$$message_0145_0044_0000$$$::"Q-Quem está aí!?"[lr]::
+15788::$$$message_0145_0044_0001$$$::A Caster ergue a voz, percebendo por instinto que foi ele quem aniquilou suas tropas.::
+15789::$$$message_0145_0045_0000$$$::[font italic=true]...[font italic=false][lr]::
+15790::$$$message_0145_0045_0001$$$::Ele não responde. Nem sequer olha para a Caster.[lr]::
+15791::$$$message_0145_0045_0002$$$::Os olhos dele estão fixos em uma única pessoa:[lr]::
+15792::$$$message_0145_0045_0003$$$::Saber.::
+15793::$$$message_0145_0046_0000$$$::"Responda! Estou perguntando quem é você!"[lr]::
+15794::$$$message_0145_0046_0001$$$::A voz da Caster carrega emoção demais.[lr]::
+15795::$$$message_0145_0046_0002$$$::O homem de armadura dourada finalmente olha para ela.::
+15796::$$$message_0145_0047_0000$$$::"Quê[line2]!?"[lr]::
+15797::$$$message_0145_0047_0001$$$::A Caster prende o fôlego assim que os olhos vermelhos do homem a atravessam.[lr]::
+15798::$$$message_0145_0047_0002$$$::O olhar dele é absurdamente frio.[lr]::
+15799::$$$message_0145_0047_0003$$$::Ele nem sequer enxerga a Caster como humana.[lr]::
+15800::$$$message_0145_0047_0004$$$::Até eu consigo perceber isso, mesmo daqui.[lr]::
+15801::$$$message_0145_0047_0005$$$::Não dá para culpar a Caster por se sentir intimidada, como se uma mão gelada apertasse o coração dela, depois de encarar aqueles olhos.::
+15802::$$$message_0145_0048_0000$$$::"P-Por que você está se metendo no meu caminho?"[lr]::
+15803::$$$message_0145_0048_0001$$$::A voz da Caster treme quando ela fala.[lr]::
+15804::$$$message_0145_0048_0002$$$::Ela deve saber que está condenada se não fizer [font italic=true]alguma coisa[font italic=false].[lr]::
+15805::$$$message_0145_0048_0003$$$::Mas...::
+15806::$$$message_0145_0049_0000$$$::"Não tenho motivo algum para dirigir palavras a um vira-lata. Desapareça, imbecil."[lr]::
+15807::$$$message_0145_0049_0001$$$::A resposta dele soa como uma sentença de morte.::
+15808::$$$message_0145_0050_0000$$$::Ouço um estalo seco.[lr]::
+15809::$$$message_0145_0050_0001$$$::Quando percebo que foi apenas o som dos dedos dele se estalando, a tragédia já começou.::
+15810::$$$message_0145_0051_0000$$$::Incontáveis armas surgem no ar, disparando contra a Caster como tiros de metralhadora.::
+15811::$$$message_0145_0052_0000$$$::"[margos]"[lr]::
+15812::$$$message_0145_0052_0001$$$::A Caster ergue o braço.[lr]::
+15813::$$$message_0145_0052_0002$$$::Um escudo conceitual a envolve.[lr]::
+15814::$$$message_0145_0052_0003$$$::Forma-se diante dela uma película vítrea.::
+15815::$$$message_0145_0053_0000$$$::Provavelmente tão resistente quanto o próprio Berserker.[lr]::
+15816::$$$message_0145_0053_0001$$$::Mas o esforço dela parece inútil, já que a barreira não passa de vidro.[lr]::
+15817::$$$message_0145_0053_0002$$$::Sua barreira cristalina se despedaça sob a chuva mortal de tantas armas.::
+15818::$$$message_0145_0054_0000$$$::"Eh...?"[lr]::
+15819::$$$message_0145_0054_0001$$$::A voz dela carrega um espanto absoluto.[lr]::
+15820::$$$message_0145_0054_0002$$$::Sem demonstrar o mínimo interesse pela Caster, enquanto ela inclina a cabeça em confusão, as armas rasgam seu manto negro.[lr]::
+15821::$$$message_0145_0054_0003$$$::São impiedosas.[lr]::
+15822::$$$message_0145_0054_0004$$$::Lanças rasgam o tecido e o mandam voando, apenas para que ainda mais delas se cravem no corpo dela.::
+15823::$$$message_0145_0055_0000$$$::Espadas cortam o corpo em queda; flechas buscam um braço prestes a tocar o chão; um machado decepa a cabeça que ia reclamar da dor... tudo isso leva a Caster a picos inimagináveis de agonia.[lr]::
+15824::$$$message_0145_0055_0001$$$::Ela não tem como sobreviver.[lr]::
+15825::$$$message_0145_0055_0002$$$::Caster, sucumbindo a uma chuva sem fim de tantas armas diferentes, já não é sequer reconhecível como humana.::
+15826::$$$message_0145_0056_0000$$$::O vento corre.[lr]::
+15827::$$$message_0145_0056_0001$$$::Seu manto vazio e esfarrapado flutua para longe.[lr]::
+15828::$$$message_0145_0056_0002$$$::Os retalhos são levados para o alto pela brisa noturna.[lr]::
+15829::$$$message_0145_0056_0003$$$::Mesmo em farrapos, aquele manto ainda tenta manter a própria forma.[lr]::
+15830::$$$message_0145_0056_0004$$$::Talvez porque seja a única coisa que resta para nos lembrar da Caster.::
+15831::$$$message_0145_0057_0000$$$::[font italic=true]...[font italic=false][lr]::
+15832::$$$message_0145_0057_0001$$$::Eu fico completamente sem palavras.[lr]::
+15833::$$$message_0145_0057_0002$$$::Minha mente congelada só consegue acompanhar os restos miseráveis daquele manto sendo levados pelo vento.::
+15834::$$$message_0145_0058_0000$$$::E então...[lr]::
+15835::$$$message_0145_0058_0001$$$::"Insolente. Mandei-a sair da minha vista. O sensato teria sido cometer suicídio diante de mim!"[lr]::
+15836::$$$message_0145_0058_0002$$$::O homem de ouro rosna com desprezo.::
+15837::$$$message_0145_0059_0000$$$::"O quê...!?"[lr]::
+15838::$$$message_0145_0059_0001$$$::Eu... não estou alucinando.[lr]::
+15839::$$$message_0145_0059_0002$$$::O manto negro se contorce como as voltas de uma serpente, cria asas e tenta voar para longe.::
 15840::$$$message_0145_0060_0000$$$::Mas já é tarde demais.[lr]::
 15841::$$$message_0145_0060_0001$$$::Eu não sei o que aquele homem fez.[lr]::
-15842::$$$message_0145_0060_0002$$$::De repente, uma rachadura aparece no céu.[lr]::
-15843::$$$message_0145_0060_0003$$$::A distorção no céu esmaga o manto escuro.[lr]::
-15844::$$$message_0145_0060_0004$$$::Isso me lembra alguém sendo atropelado por um rolo compressor.::
-15845::$$$message_0145_0061_0000$$$::"Ah[line2]Ah...!"[lr]::
-15846::$$$message_0145_0061_0001$$$::O manto escuro cai no chão.[lr]::
-15847::$$$message_0145_0061_0002$$$::A Caster está debaixo do manto, sem nenhum arranhão.[lr]::
-15848::$$$message_0145_0061_0003$$$::E em seguida...[lr]::
-15849::$$$message_0145_0061_0004$$$::Uma chuva de espadas cai em cima dela.::
-15850::$$$message_0145_0062_0000$$$::"Hi, ah, ahhhhhhhhhhhhhhhh!"[lr]::
-15851::$$$message_0145_0062_0001$$$::...O grito se espalha pelo céu estrelado.[lr]::
-15852::$$$message_0145_0062_0002$$$::A quantidade de espadas aumenta em resposta a esse grito, o que deixa o grito ainda mais alto.::
-15853::$$$message_0145_0063_0000$$$::"Ah, ha, está doendo, socorro, está doendo, socorro, por fa... vor...!!!"[lr]::
-15854::$$$message_0145_0063_0001$$$::Assim como a Saber, a Caster deve ter o poder de se regenerar.[lr]::
-15855::$$$message_0145_0063_0002$$$::Ela não morre mesmo se for perfurada por espadas, e isso a deixa em uma posição miserável.::
-15856::$$$message_0145_0064_0000$$$::...A chuva não para.[lr]::
-15857::$$$message_0145_0064_0001$$$::As espadas têm formatos diferentes entre si, e nenhuma delas é igual a outra.[lr]::
-15858::$$$message_0145_0064_0002$$$::E eu não queria admitir isso, mas[line2]cada uma dessas armas tem o mesmo poder de um 'Fantasma Nobre' de um Servo.::
-15859::$$$message_0145_0065_0000$$$::"Não, isso não pode estar... acontecendo[line2]mas que... quantidade... absurda[line2]"[lr]::
-15860::$$$message_0145_0065_0001$$$::A chuva de Fantasmas Nobres continua caindo sem piedade.[lr]::
-15861::$$$message_0145_0065_0002$$$::Ver a Caster sofrendo debaixo dessa tempestade é tão[line2]::
-15862::$$$message_0145_0066_0000$$$::"Guh, ah, Eu estou... morrendo...? Eu vou morrer?::
-15863::$$$message_0145_0066_0001$$$::Morrer... de um jeito tão... absurdo como esse... não, aha...::
-15864::$$$message_0145_0066_0002$$$::Isso é engraçado demais... não... isso não é... nem um pouco engraçado... aha, aha...::
-15865::$$$message_0145_0066_0003$$$::Haha... Ahahahaha, ahahahahahahahahahahahaha::
-15866::$$$message_0145_0066_0004$$$::Ahahahahahahahahahahahahahahahahahahahaha::
-15867::$$$message_0145_0066_0005$$$::Hahahahahahahahahahahaaaaaaaaaaaaaaaaaaaa::
-15868::$$$message_0145_0066_0006$$$::Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhh[line8]!!!!!"::
-15869::$$$message_0145_0067_0000$$$::...E esse é o fim.[lr]::
-15870::$$$message_0145_0067_0001$$$::A Caster desaparece deixando uma névoa negra para trás.::
-15871::$$$message_0145_0068_0000$$$::Aquele ciclo de tortura que eu achei que não iria acabar nunca só durou dez segundos.[lr]::
-15872::$$$message_0145_0068_0001$$$::Depois de ver tudo isso.[lr]::
-15873::$$$message_0145_0068_0002$$$::A Saber encara o cavaleiro dourado que está parado em cima do muro.::
-15874::$$$message_0145_0069_0000$$$::"Hah. Foi um grande pecado para um mago até mesmo falar em sequestrar o rei dos cavaleiros.[lr]::
-15875::$$$message_0145_0069_0001$$$::Como eu sou o rei, ela é minha por direito. Uma morte por perfuração é adequada para uma imbecil que pensava em ficar com o tesouro do rei."::
-15876::$$$message_0145_0070_0000$$$::"Mas enfim... Há quanto tempo, Saber. Você se lembra da minha decisão?"[lr]::
-15877::$$$message_0145_0070_0001$$$::O homem diz isso como se já a conhecesse.[lr]::
-15878::$$$message_0145_0070_0002$$$::"[line5]"[lr]::
-15879::$$$message_0145_0070_0003$$$::A Saber não responde.[lr]::
-15880::$$$message_0145_0070_0004$$$::Mas o olhar dela está diferente de antes.::
-15881::$$$message_0145_0071_0000$$$::"Por que você está com essa cara? Ainda não está pronta?[lr]::
+15842::$$$message_0145_0060_0002$$$::Só vejo uma fenda se abrir no próprio céu noturno.[lr]::
+15843::$$$message_0145_0060_0003$$$::Como uma onda rebentando no mar, a falha engole o manto que flutua.[lr]::
+15844::$$$message_0145_0060_0004$$$::É como... ver uma pessoa ser atropelada por um rolo compressor.::
+15845::$$$message_0145_0061_0000$$$::"Ah... ah...!!!"[lr]::
+15846::$$$message_0145_0061_0001$$$::O manto cai.[lr]::
+15847::$$$message_0145_0061_0002$$$::A Caster está sob ele, ilesa.[lr]::
+15848::$$$message_0145_0061_0003$$$::E então...[lr]::
+15849::$$$message_0145_0061_0004$$$::Uma tempestade de espadas mágicas desaba sobre ela.::
+15850::$$$message_0145_0062_0000$$$::"Haaaa, ah... AHHHHHHHHHHHHH!!!"[lr]::
+15851::$$$message_0145_0062_0001$$$::O grito dela rasga a noite.[lr]::
+15852::$$$message_0145_0062_0002$$$::Mais espadas caem em resposta, e o grito dela só fica mais alto.::
+15853::$$$message_0145_0063_0000$$$::"Ah... ha... ngh... arranquem... dói... arranquem... por... fa...vor...!!!"[lr]::
+15854::$$$message_0145_0063_0001$$$::A Caster deve ser capaz de se regenerar como a Saber.[lr]::
+15855::$$$message_0145_0063_0002$$$::Nem todas aquelas espadas a empalando bastam para matá-la, mas é doloroso demais de assistir.::
+15856::$$$message_0145_0064_0000$$$::A torrente de espadas não para.[lr]::
+15857::$$$message_0145_0064_0001$$$::Cada arma é diferente; não há duas iguais.[lr]::
+15858::$$$message_0145_0064_0002$$$::E, por mais que eu não queira admitir, cada uma daquelas armas mágicas, seja espada ou lança, rivaliza facilmente com o Fantasma Nobre de um Servo.::
+15859::$$$message_0145_0065_0000$$$::"Não... isso não é possível... não pode haver tantas..."[lr]::
+15860::$$$message_0145_0065_0001$$$::Uma chuva inesgotável de Fantasmas Nobres continua despencando sobre a Caster.[lr]::
+15861::$$$message_0145_0065_0002$$$::Ver a forma como ela se debate sob aquilo é simplesmente...::
+15862::$$$message_0145_0066_0000$$$::"Kugh... eu... vou morrer...? Eu vou[nolr]::
+15863::$$$message_0145_0066_0001$$$::...morrer de um jeito... tão ridículo... ass...im... ha...[nolr]::
+15864::$$$message_0145_0066_0002$$$::Ha. Que... engraçado... Isso só pode ser... uma piada... aha... ha...[nolr]::
+15865::$$$message_0145_0066_0003$$$::Haha... ahahahaha... AHAHAHAHAHAHAHAHAHA[nolr]::
+15866::$$$message_0145_0066_0004$$$::AHAHAHAHAHAHAHAHAHAAHHAAHAHHAHAHA[nolr]::
+15867::$$$message_0145_0066_0005$$$::HAHAHAHAHAHAAHAHAHAHAHAHHHHHHHHHH[nolr]::
+15868::$$$message_0145_0066_0006$$$::AAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!"::
+15869::$$$message_0145_0067_0000$$$::E esse é o fim da Caster.[lr]::
+15870::$$$message_0145_0067_0001$$$::Ela desaparece, junto da névoa negra que a escondia.::
+15871::$$$message_0145_0068_0000$$$::Aquele ciclo infinito de tortura, que parecia se arrastar para sempre, na verdade durou uns dez segundos.[lr]::
+15872::$$$message_0145_0068_0001$$$::Durante esse tempo...[lr]::
+15873::$$$message_0145_0068_0002$$$::A Saber permaneceu de pé, encarando o cavaleiro dourado com severidade.::
+15874::$$$message_0145_0069_0000$$$::"Hmph. Para uma mera maga, até mencionar capturar algo que pertence ao Rei dos Cavaleiros já é um grande pecado.[lr]::
+15875::$$$message_0145_0069_0001$$$::Eu sou rei, e ela é minha. Qualquer tolo que se meta com o tesouro de um rei não merece senão uma morte dessas."::
+15876::$$$message_0145_0070_0000$$$::"Agora então... faz tempo, Saber. Você se lembra da decisão que tomei?"[lr]::
+15877::$$$message_0145_0070_0001$$$::O tom dele se torna quase amigável ao se dirigir à Saber.[lr]::
+15878::$$$message_0145_0070_0002$$$::[font italic=true]...[font italic=false][lr]::
+15879::$$$message_0145_0070_0003$$$::Mas a Saber não responde.[lr]::
+15880::$$$message_0145_0070_0004$$$::Ela apenas o encara com ainda mais intensidade.::
+15881::$$$message_0145_0071_0000$$$::"Por que me olha assim? Ainda não fez a sua escolha?[lr]::
 15882::$$$message_0145_0071_0001$$$::Já se passaram dez anos.[lr]::
-15883::$$$message_0145_0071_0002$$$::Isso é tempo mais do que o suficiente para se decidir[line2]ah, bem... pelo menos foram dez anos para mim. Para você, deve ter sido que nem ontem.[lr]::
-15884::$$$message_0145_0071_0003$$$::...Nossa, mas que mulher boba, fazendo um homem esperar."::
-15885::$$$message_0145_0072_0000$$$::O homem ri de alegria.[lr]::
-15886::$$$message_0145_0072_0001$$$::...O meu tronco está doendo.[lr]::
-15887::$$$message_0145_0072_0002$$$::Em parte por ter visto essa tragédia.[lr]::
-15888::$$$message_0145_0072_0003$$$::Mas principalmente, eu me sinto doente por ter esse homem olhando para a Saber com uma cara tão absurda[line2]::
-15889::$$$message_0145_0073_0000$$$::"[line2]. Então ainda sobraram outros vira-latas."[lr]::
-15890::$$$message_0145_0073_0001$$$::Insatisfeito, o homem volta o seu olhar para a minha casa.[lr]::
-15891::$$$message_0145_0073_0002$$$::"...?"[lr]::
-15892::$$$message_0145_0073_0003$$$::Lá dentro[line2]na varanda que fica de frente para a sala de estar, estão a Illya e a Tohsaka.::
-15893::$$$message_0145_0074_0000$$$::"...O que é aquilo..."[lr]::
-15894::$$$message_0145_0074_0001$$$::A Illya está olhando para o homem, tão assustada quanto como se tivesse acabado de ver um fantasma.[lr]::
-15895::$$$message_0145_0074_0002$$$::Depois de esfregar os olhos, ela balança a cabeça dizendo que isso é impossível.::
-15896::$$$message_0145_0075_0000$$$::"Não acredito[line2]quem é você?"[lr]::
-15897::$$$message_0145_0075_0001$$$::"Hã? Sua imbecil, você não está vendo? Eu sou um dos espíritos heroicos que você conhece muito bem."[lr]::
-15898::$$$message_0145_0075_0002$$$::"[line2]Mentira!"[lr]::
-15899::$$$message_0145_0075_0003$$$::A Illya salta para fora da varanda e encara o homem.::
-15900::$$$message_0145_0076_0000$$$::"Eu não sei. Eu não sei quem é você. Um Servo que eu não conheço não deveria nem existir...!"::
-15901::$$$message_0145_0077_0000$$$::"Quê[line2]espera, Illya......!"[lr]::
-15902::$$$message_0145_0077_0001$$$::Eu não consegui impedi-la à tempo.[lr]::
-15903::$$$message_0145_0077_0002$$$::A Illya lança um acúmulo de energia mágica na direção daquele homem.::
-15904::$$$message_0145_0078_0000$$$::O barulho de algo sendo refletido.[lr]::
-15905::$$$message_0145_0078_0001$$$::O homem não fez nada.[lr]::
-15906::$$$message_0145_0078_0002$$$::Um escudo em formato de espelho apareceu na frente dele e refletiu a energia mágica que a Illya disparou.::
-15907::$$$message_0145_0079_0000$$$::"Eh[line2]?"[lr]::
-15908::$$$message_0145_0079_0001$$$::Já que a Illya disparou a energia mágica com raiva, ela não vai conseguir reagir a isso à tempo.[lr]::
-15909::$$$message_0145_0079_0002$$$::A Illya fica parada de frente para a energia mágica que ela mesmo disparou[line2]::
-15910::$$$message_0145_0080_0000$$$::"...! [line2]Isso dói..."[lr]::
-15911::$$$message_0145_0080_0001$$$::A Tohsaka conseguiu bloquear o ataque e salvá-la por pouco.::
-15912::$$$message_0145_0081_0000$$$::"...Hm. Entendi. Dessa vez é um híbrido estranho.[lr]::
-15913::$$$message_0145_0081_0001$$$::Parece que eles fizeram algumas mudanças para evitar os mesmos erros da última vez."[lr]::
-15914::$$$message_0145_0081_0002$$$::O homem olha para a Illya.[lr]::
-15915::$$$message_0145_0081_0003$$$::Um olhar frio, assim como aquele que foi direcionado para a Saber... uma encarada tão forte quanto uma possessão.::
-15916::$$$message_0145_0082_0000$$$::"...Não. Não, não, não, não...! E-Eu te odeio...!"[lr]::
-15917::$$$message_0145_0082_0001$$$::A Illya ainda está encarando o homem, sendo segurada pela Tohsaka.::
-15918::$$$message_0145_0083_0000$$$::"Eu não me importo com o que vai acontecer. Abra agora mesmo. Você é a quinta."[lr]::
-15919::$$$message_0145_0083_0001$$$::O homem fala de um jeito alto e claro.[lr]::
-15920::$$$message_0145_0083_0002$$$::O que será que ele pretende fazer?[lr]::
-15921::$$$message_0145_0083_0003$$$::"Ah[line2]não[line2]"[lr]::
-15922::$$$message_0145_0083_0004$$$::A Illya treme violentamente e então desmaia.::
+15883::$$$message_0145_0071_0002$$$::Isso deveria ter sido tempo suficiente para decidir... Ah, suponho que só tenham sido dez anos para mim. Para você, deve parecer que foi ontem.[lr]::
+15884::$$$message_0145_0071_0003$$$::Que mulher tola você é, fazendo-me esperar tanto."::
+15885::$$$message_0145_0072_0000$$$::Ele ri de bom grado.[lr]::
+15886::$$$message_0145_0072_0001$$$::Meu coração dispara.[lr]::
+15887::$$$message_0145_0072_0002$$$::Em parte por causa do desastre que acabei de testemunhar.[lr]::
+15888::$$$message_0145_0072_0003$$$::Mas, acima de tudo, o jeito como ele olha para a Saber me dá náusea.::
+15889::$$$message_0145_0073_0000$$$::"Ah, então ainda restaram alguns vira-latas."[lr]::
+15890::$$$message_0145_0073_0001$$$::Irritado, ele volta o olhar para a casa.[lr]::
+15891::$$$message_0145_0073_0002$$$::"Hm?"[lr]::
+15892::$$$message_0145_0073_0003$$$::Olho... e vejo a Tohsaka e a Illya na varanda em frente à sala de estar.::
+15893::$$$message_0145_0074_0000$$$::"O que é aquilo...?"[lr]::
+15894::$$$message_0145_0074_0001$$$::A Illya olha para o homem como se tivesse acabado de ver um fantasma.[lr]::
+15895::$$$message_0145_0074_0002$$$::Ela força a vista por um instante e depois balança a cabeça, incrédula.::
+15896::$$$message_0145_0075_0000$$$::"Não pode ser... quem é você?"[lr]::
+15897::$$$message_0145_0075_0001$$$::"Hm? Não está vendo, tola? Sou um dos Espíritos Heroicos que você conhece tão bem."[lr]::
+15898::$$$message_0145_0075_0002$$$::"Isso não pode ser!!!"[lr]::
+15899::$$$message_0145_0075_0003$$$::A Illya salta da varanda e encara o homem como se o desafiasse.::
+15900::$$$message_0145_0076_0000$$$::"Não sei... eu não conheço você! Não deveria existir um Servo que eu não conhecesse!!!"::
+15901::$$$message_0145_0077_0000$$$::"Qu...!? Espera, Illya!"[lr]::
+15902::$$$message_0145_0077_0001$$$::Minhas palavras não chegam até ela.[lr]::
+15903::$$$message_0145_0077_0002$$$::A Illya dispara uma massa de Energia Mágica direto contra o homem.::
+15904::$$$message_0145_0078_0000$$$::Ouço o projétil cortando o ar.[lr]::
+15905::$$$message_0145_0078_0001$$$::Ele não faz nada.[lr]::
+15906::$$$message_0145_0078_0002$$$::Um escudo espelhado surge diante dele e reflete o ataque da Illya de volta nela.::
+15907::$$$message_0145_0079_0000$$$::"Eh...?"[lr]::
+15908::$$$message_0145_0079_0001$$$::Ela atacou com tanto desespero que agora não tem tempo para reagir.[lr]::
+15909::$$$message_0145_0079_0002$$$::A Illya só consegue ficar parada enquanto o próprio ataque retorna em sua direção.::
+15910::$$$message_0145_0080_0000$$$::"Ungh... isso doeu..."[lr]::
+15911::$$$message_0145_0080_0001$$$::A Tohsaka intervém e a salva, bloqueando o ataque.::
+15912::$$$message_0145_0081_0000$$$::"Hm. Entendo. Então temos uma estranha desta vez.[lr]::
+15913::$$$message_0145_0081_0001$$$::Vejo que usaram um pouco de criatividade para evitar repetir o erro da última vez."[lr]::
+15914::$$$message_0145_0081_0002$$$::Ele baixa o olhar para a Illya, examinando-a.[lr]::
+15915::$$$message_0145_0081_0003$$$::É o mesmo olhar com que encara a Saber... frio, como se avaliasse uma posse valiosa.::
+15916::$$$message_0145_0082_0000$$$::"Não... não, não, não, não, NÃO! Eu te odeio!"[lr]::
+15917::$$$message_0145_0082_0001$$$::A Illya encara o homem enquanto a Tohsaka tenta contê-la.::
+15918::$$$message_0145_0083_0000$$$::"Não poderia me importar menos. Vamos, abra-se. Depressa. Você é a quinta, afinal."[lr]::
+15919::$$$message_0145_0083_0001$$$::Ele diz isso com a maior simplicidade do mundo.[lr]::
+15920::$$$message_0145_0083_0002$$$::Não faço ideia de por que aquilo a afeta tanto.[lr]::
+15921::$$$message_0145_0083_0003$$$::"Ah... n... não..."[lr]::
+15922::$$$message_0145_0083_0004$$$::A Illya treme violentamente e então desaba no chão.::
 15923::$$$message_0145_0084_0000$$$::É isso.[lr]::
-15924::$$$message_0145_0084_0001$$$::É só isso o que aconteceu.[lr]::
-15925::$$$message_0145_0084_0002$$$::Eu e a Tohsaka não tivemos escolha a não ser continuar olhando para esse homem.[lr]::
-15926::$$$message_0145_0084_0003$$$::...Nós dois já percebemos.[lr]::
-15927::$$$message_0145_0084_0004$$$::Ele não está prestando atenção na gente.[lr]::
-15928::$$$message_0145_0084_0005$$$::Mas se dissermos alguma coisa contra ele, nós vamos acabar do mesmo jeito que a Caster.::
-15929::$$$message_0145_0085_0000$$$::"[line5]"[lr]::
-15930::$$$message_0145_0085_0001$$$::Só que a Saber está diferente.[lr]::
-15931::$$$message_0145_0085_0002$$$::Ela está encarando o cavaleiro dourado com um silêncio diferente do nosso.::
-15932::$$$message_0145_0086_0000$$$::"Por quê[line2]você ainda está nesse mundo, Archer?"[lr]::
-15933::$$$message_0145_0086_0001$$$::A Saber tenta controlar a sua voz.[lr]::
-15934::$$$message_0145_0086_0002$$$::Eu e a Tohsaka ficamos surpresos com o que ela acabou de dizer.::
-15935::$$$message_0145_0087_0000$$$::"Eu não preciso ter nenhum motivo para estar aqui. O Santo Graal é meu. Qual é o problema em vir buscar o que já é meu?"[lr]::
-15936::$$$message_0145_0087_0001$$$::"Quanta idiotice. Você não é um herói assim. Não, para início de conversa[line2]"::
-15937::$$$message_0145_0088_0000$$$::"Pare com isso. Se você disser mais alguma coisa, eu serei obrigado a lutar contigo.[lr]::
-15938::$$$message_0145_0088_0001$$$::[line2]Bem, na verdade essa era a minha ideia, mas eu acabei perdendo o interesse. Esse lugar é pobre demais para comemorarmos o nosso reencontro."::
-15939::$$$message_0145_0089_0000$$$::Depois de dizer isso, o homem vira de costas.[lr]::
-15940::$$$message_0145_0089_0001$$$::Ele se vira para demonstrar que perdeu o interesse na gente.[lr]::
-15941::$$$message_0145_0089_0002$$$::"Nós vamos nos encontrar de novo, Saber.[lr]::
-15942::$$$message_0145_0089_0003$$$::A minha decisão não mudou desde aquela época. Esteja pronta para a próxima vez em que nos encontrarmos."::
-15943::$$$message_0145_0090_0000$$$::O homem desaparece.[lr]::
-15944::$$$message_0145_0090_0001$$$::Com isso, a tensão no ar some e o jardim volta a ficar silencioso como sempre.[lr]::
-15945::$$$message_0145_0090_0002$$$::Mas essa é a única coisa que voltou ao normal.[lr]::
-15946::$$$message_0145_0090_0003$$$::A minha casa está destruída, e a Illya está desmaiada.[lr]::
-15947::$$$message_0145_0090_0004$$$::A Saber, que ainda está de costas para nós, permanece em silêncio.::
+15924::$$$message_0145_0084_0001$$$::Nada mais pode acontecer.[lr]::
+15925::$$$message_0145_0084_0002$$$::Eu e a Tohsaka só conseguimos continuar olhando para o homem.[lr]::
+15926::$$$message_0145_0084_0003$$$::Nós entendemos perfeitamente.[lr]::
+15927::$$$message_0145_0084_0004$$$::Ele não está olhando para nós.[lr]::
+15928::$$$message_0145_0084_0005$$$::Se qualquer um de nós sequer erguer a voz, terá o mesmo fim que a Caster.::
+15929::$$$message_0145_0085_0000$$$::[font italic=true]...[font italic=false][lr]::
+15930::$$$message_0145_0085_0001$$$::Mas a Saber não.[lr]::
+15931::$$$message_0145_0085_0002$$$::O silêncio com que ela encara o cavaleiro dourado é completamente diferente do nosso.::
+15932::$$$message_0145_0086_0000$$$::"Como e por que você se manifestou, Archer?"[lr]::
+15933::$$$message_0145_0086_0001$$$::A Saber tenta manter a voz sob controle.[lr]::
+15934::$$$message_0145_0086_0002$$$::Eu e a Tohsaka apenas prendemos o fôlego, surpresos.::
+15935::$$$message_0145_0087_0000$$$::"Não preciso de motivo. O Santo Graal é meu. Que motivo eu precisaria para vir buscar o que já me pertence?"[lr]::
+15936::$$$message_0145_0087_0001$$$::"Ridículo. Você não é esse tipo de herói. Ou melhor..."::
+15937::$$$message_0145_0088_0000$$$::"Pare. Mais uma palavra, e você será forçada a lutar, Rei dos Cavaleiros.[lr]::
+15938::$$$message_0145_0088_0001$$$::Essa era a minha intenção, mas perdi o interesse. Este lugar é feio demais. Não serve para celebrar o nosso reencontro."::
+15939::$$$message_0145_0089_0000$$$::Dito isso, o homem dourado se vira de costas.[lr]::
+15940::$$$message_0145_0089_0001$$$::Ele nos dá as costas como se quisesse demonstrar que não representamos ameaça alguma.[lr]::
+15941::$$$message_0145_0089_0002$$$::"Tornaremos a nos encontrar, Saber.[lr]::
+15942::$$$message_0145_0089_0003$$$::Minha decisão não mudou desde a última vez. Esteja pronta para escolher quando nos encontrarmos de novo."::
+15943::$$$message_0145_0090_0000$$$::Ele desaparece.[lr]::
+15944::$$$message_0145_0090_0001$$$::A tensão some, e o jardim volta à tranquilidade de sempre.[lr]::
+15945::$$$message_0145_0090_0002$$$::Mas é a única coisa que volta ao normal.[lr]::
+15946::$$$message_0145_0090_0003$$$::A casa dos Emiya está em ruínas, e a Illya desmaiou.[lr]::
+15947::$$$message_0145_0090_0004$$$::E a Saber, ainda de costas para nós, permanece em silêncio.::
+
+
