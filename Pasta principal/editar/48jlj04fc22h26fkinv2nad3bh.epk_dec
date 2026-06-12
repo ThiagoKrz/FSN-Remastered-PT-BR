@@ -146,7 +146,7 @@ id=qid::label=str::text=lstr::
 44844::$$$message_0397_0046_0004$$$::...Isso é estranho. Eu disse alguma coisa engraçada?::
 44845::$$$message_0397_0047_0000$$$::"..."[lr]::
 44846::$$$message_0397_0047_0001$$$::"O que foi agora? Você acabou de pensar em algo com o qual devêssemos nos preocupar?"[lr]::
-44847::$$$message_0397_0047_0002$$$::Por exemplo, algum tipo de mau agouro que nos impeça de realizar o ritual em uma determinada hora do dia.[clfg textoff=0 time=10 storage=凛私服12c(中)]::
+44847::$$$message_0397_0047_0002$$$::Por exemplo, algum tipo de mau agouro que nos impeça de realizar o ritual em uma determinada hora do dia.::
 44848::$$$message_0397_0047_0003$$$::"...Nada. Eu só estou com dor de cabeça agora.[lr]::
 44849::$$$message_0397_0047_0004$$$::Achei que já deveria estar acostumada, mas subestimei o quanto você é ruim de timing.[lr]::
 44850::$$$message_0397_0047_0005$$$::...Hmph, tudo bem, já que não é a primeira vez que você é assim. O que você disse... Bem, não foi exatamente ruim, então vou deixar você passar impune por enquanto."[lr]::
@@ -547,5 +547,9 @@ id=qid::label=str::text=lstr::
 45245::$$$message_0397_0159_0002$$$::Preciso recarregar as energias mentais e físicas para a batalha final no Templo Ryudou.[lr]::
 45246::$$$message_0397_0159_0003$$$::...O jogo virou a nosso favor.[lr]::
 45247::$$$message_0397_0159_0004$$$::Encararei a última noite nas minhas melhores condições, pelo meu bem e pelo da Tohsaka, já que ela me deu o seu Emblema Mágico e se abriu inteiramente para mim...::
+91100::$$$message_0397_9999_0000$$$::As sensacoes do meu corpo ::
+91101::$$$message_0397_9999_0001$$$::estao ficando distorcidas. Ja nao consigo dizer ao certo se estou sentado ou de pe.[lr]::
+91102::$$$message_0397_9999_0002$$$::Em contraste, consigo sentir nitidamente o calor da pele da Tohsaka. ::
+91103::$$$message_0397_9999_0003$$$::Meu proprio batimento e o pulso da Tohsaka... ja nao consigo distinguir qual e qual.::
 
 

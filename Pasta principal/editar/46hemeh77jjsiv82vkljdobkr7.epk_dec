@@ -63,7 +63,7 @@ id=qid::label=str::text=lstr::
 61::$$$message_0000_0024_0002$$$::A Illya pega pesado com ela. Até o sorriso dela lembra o de certa pessoa.::
 62::$$$message_0000_0025_0000$$$::"Te dou até amanhã. Se não pagar, vou descontar da sua mesada, Taiga."[lr]::
 63::$$$message_0000_0025_0001$$$::"O quê!? Não acredito que o vovô te contou isso!"::
-64::$$$message_0000_0026_0000$$$::"Claro. Eu fico com ele o dia inteiro. Ele até disse que eu sou mais fofa que você, Taiga."::
+64::$$$message_0000_0026_0000$$$::"Claro. Eu fico com ele o dia inteiro. Ele até disse que eu sou mais fofa que você, Taiga."[lr]::
 65::$$$message_0000_0026_0001$$$::"O quê...!? Shirou, o que você fez!? Essa garota é o demônio! Ela vai dominar os Fujimura!"::
 66::$$$message_0000_0027_0000$$$::[font italic=true]...[font italic=false][lr]::
 67::$$$message_0000_0027_0001$$$::Mas mais importante que isso...[lr]::
@@ -100,7 +100,7 @@ id=qid::label=str::text=lstr::
 98::$$$message_0000_0037_0001$$$::"Oi. Tá um belo dia hoje, Tohsaka."[lr]::
 99::$$$message_0000_0037_0002$$$::Aceno pra ela.::
 100::$$$message_0000_0038_0000$$$::"Mas isso é mesmo coincidência? A gente se encontra quase todo dia.[lr]::
-101::$$$message_0000_0038_0001$$$::Antes isso não acontecia com tanta frequência."::
+101::$$$message_0000_0038_0001$$$::Antes isso não acontecia com tanta frequência."[lr]::
 102::$$$message_0000_0038_0002$$$::"Se encontrar assim?"::
 103::$$$message_0000_0039_0000$$$::A Tohsaka estreita os olhos, claramente irritada com o jeito que eu falei.[lr]::
 104::$$$message_0000_0039_0001$$$::Não acho saudável começar o dia já brava assim.::

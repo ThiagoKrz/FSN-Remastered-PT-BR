@@ -1,104 +1,105 @@
-DAT
+﻿DAT
 id=qid::label=str::text=lstr::
-32374::$$$message_0262_0000_0000$$$::"Não! Volte, Saber[line4]!"[lr]::
-32375::$$$message_0262_0000_0001$$$::Quando percebo, estou gritando com toda força.::
-32376::$$$message_0262_0001_0000$$$::"Mestre[line4]!?"[lr]::
-32377::$$$message_0262_0001_0001$$$::Ela parece estupefata.[lr]::
-32378::$$$message_0262_0001_0002$$$::Saber reduz a velocidade enquanto ouve minha voz.[lr]::
-32379::$$$message_0262_0002_0000$$$::Mas isso não é o bastante. Ela não vai conseguir se só reduzir...!::
-32380::$$$message_0262_0002_0001$$$::"É perigoso, então vá para trás...!"[lr]::
-32381::$$$message_0262_0002_0002$$$::"Não, você está em perigo! Vem aqui...!"[lr]::
-32382::$$$message_0262_0003_0000$$$::Eu estendo minha mão pra lá.::
-32383::$$$message_0262_0003_0001$$$::"Estou...? [line4]!?"[lr]::
-32384::$$$message_0262_0004_0000$$$::Ela deve ter me entendido, pois ela vira de costas pro Berserker e pula para longe com toda a sua força.::
-32385::$$$message_0262_0004_0001$$$::Logo após ela recuar...[lr]::
-32386::$$$message_0262_0005_0000$$$::Ele atira a "flecha".::
-32387::$$$message_0262_0005_0001$$$::A Saber pula pra trás como uma faísca, e Berserker tenta perseguí-la.[lr]::
-32388::$$$message_0262_0005_0002$$$::A flecha de Archer é mirada entre eles.[lr]::
-32389::$$$message_0262_0005_0003$$$::As flechas do Archer não tiveram efeito antes.[lr]::
-32390::$$$message_0262_0006_0000$$$::O gigante negro ignora-a, como se estivesse dizendo que não são dignas de serem bloqueadas.::
-32391::$$$message_0262_0007_0000$$$::Mas naquele instante...::
-32392::$$$message_0262_0007_0001$$$::"[wacky len=15]"[lr]::
-32393::$$$message_0262_0008_0000$$$::O gigante negro vira de costas e ataca a "flecha" vindo em sua direção com toda a força[line4]::
-32394::$$$message_0262_0008_0001$$$::[line4]Nesse instante...[lr]::
-32395::$$$message_0262_0009_0000$$$::O som desaparece.::
-32396::$$$message_0262_0009_0001$$$::"[line8]!"[lr]::
-32397::$$$message_0262_0009_0002$$$::Me jogo em cima da Saber e me preparo.[lr]::
-32398::$$$message_0262_0009_0003$$$::Talvez eu fiquei surdo, pois não posso escutar nada.[lr]::
-32399::$$$message_0262_0009_0004$$$::Tudo que posso sentir é o calor queimando minha pele e o chão tremendo.[lr]::
-32400::$$$message_0262_0010_0000$$$::Várias coisas estão voando pelo ar, e um pedaço de algo perfura minhas costas.::
-32401::$$$message_0262_0010_0001$$$::"......!"[lr]::
-32402::$$$message_0262_0010_0002$$$::Ranjo os dentes e aguento-o.[lr]::
-32403::$$$message_0262_0010_0003$$$::A luz cegante deve ter durado um mero instante.[lr]::
-32404::$$$message_0262_0011_0000$$$::Consegui sobreviver a destruição.::
-32405::$$$message_0262_0011_0001$$$::"Que[line4]"[lr]::
-32406::$$$message_0262_0011_0002$$$::A Saber está olhando em choque.[lr]::
-32407::$$$message_0262_0011_0003$$$::...Também estou.[lr]::
-32408::$$$message_0262_0011_0004$$$::Não sei o que aconteceu.[lr]::
-32409::$$$message_0262_0011_0005$$$::A "flecha" do Archer dizimou o cemitério num instante.::
-32410::$$$message_0262_0011_0006$$$::Há uma cratera no centro da explosão.[lr]::
-32411::$$$message_0262_0011_0007$$$::Archer causou essa destruição.[lr]::
-32412::$$$message_0262_0012_0000$$$::Mas o gigante ainda existe apesar de tal abolição.::
-32413::$$$message_0262_0012_0001$$$::"Berserker... Ele não tem um ferimento mesmo depois de tomar um golpe direto de um Fantasma Nobre nível A[line4]"[lr]::
-32414::$$$message_0262_0012_0002$$$::A voz da Saber é fraca.[lr]::
-32415::$$$message_0262_0012_0003$$$::Faíscas voam pelo ar noturno.[lr]::
-32416::$$$message_0262_0013_0000$$$::O gigante negro ainda está em pé sobre as chamas, e todos assistem esse espetáculo horripilante em silêncio.::
-32417::$$$message_0262_0013_0001$$$::O barulho das chamas é o único som presente.[lr]::
-32418::$$$message_0262_0013_0002$$$::Logo quando começo a achar que isso pode se tornar um incêndio...[lr]::
-32419::$$$message_0262_0013_0003$$$::"Huh...?"[lr]::
-32420::$$$message_0262_0014_0000$$$::Algo rola até mim com um barulho.::
-32421::$$$message_0262_0014_0001$$$::"...Uma espada?"[lr]::
-32422::$$$message_0262_0014_0002$$$::Não, é uma "flecha"".[lr]::
-32423::$$$message_0262_0014_0003$$$::Uma flecha com um belo cabo e lâmina espiral.[lr]::
-32424::$$$message_0262_0015_0000$$$::...Mesmo se é uma espada, é uma "flecha" se usada como projetíl.::
-32425::$$$message_0262_0015_0001$$$::"[line8]"[lr]::
-32426::$$$message_0262_0015_0002$$$::Não sei por que chama tanto a minha atenção.[lr]::
-32427::$$$message_0262_0015_0003$$$::A flecha quebrada por Berserker desaparece como se estivesse derretendo no fogo.[lr]::
-32428::$$$message_0262_0016_0000$$$::Desaparece como doce derretendo no calor.::
-32429::$$$message_0262_0016_0001$$$::Me[line4][lr]::
-32430::$$$message_0262_0017_0000$$$::[line4]Faz querer vomitar por algum motivo.::
-32431::$$$message_0262_0017_0001$$$::"[line4]Shirou, isso era..."[lr]::
-32432::$$$message_0262_0017_0002$$$::"A flecha do Archer. Não sei mais nada a respeito disso."[lr]::
-32433::$$$message_0262_0018_0000$$$::Levanto a cabeça para olhar pro Archer distante.::
-32434::$$$message_0262_0018_0001$$$::"[line8]!"[lr]::
-32435::$$$message_0262_0018_0002$$$::Não deveria conseguir vê-lo.[lr]::
-32436::$$$message_0262_0018_0003$$$::Não deveria conseguir vê-lo, mas consigo.[lr]::
-32437::$$$message_0262_0018_0004$$$::Está sorrindo.[lr]::
-32438::$$$message_0262_0019_0000$$$::Ele está sorrindo como se estivesse me dizendo que não mirou apenas no Berserker.::
-32439::$$$message_0262_0019_0001$$$::"Maldito[line4]!"[lr]::
-32440::$$$message_0262_0019_0002$$$::Sinto uma dor de cabeça.[lr]::
-32441::$$$message_0262_0019_0003$$$::O calafrio em minhas costas não desaparece.[lr]::
-32442::$$$message_0262_0020_0000$$$::Minha espinha queima como quando eu falho em montar um Circuito Mágico[line4]::
-32443::$$$message_0262_0020_0001$$$::"...Hm. Tenho uma opinião melhor sua, Rin. Seu Archer é bom."[lr]::
-32444::$$$message_0262_0021_0000$$$::A voz alegre da garotinha ecoa pelo ar.::
-32445::$$$message_0262_0021_0001$$$::"Tudo bem, volte, Berserker. Queria me livrar das coisas chatas primeiro mas mudei de ideia."[lr]::
-32446::$$$message_0262_0021_0002$$$::...A sombra negra treme.[lr]::
-32447::$$$message_0262_0022_0000$$$::E o gigante começa a recuar pelo fogo.::
-32448::$$$message_0262_0022_0001$$$::"[line3]Que? Está fugindo depois de tudo isso?"[lr]::
-32449::$$$message_0262_0023_0000$$$::"Sim, Mudei de ideia. Não quero a Saber, mas tenho interesse no Archer agora. Então vou deixar vocês viverem mais um pouco."::
-32450::$$$message_0262_0023_0001$$$::O gigante desaparece.[lr]::
-32451::$$$message_0262_0023_0002$$$::A garota ri.[lr]::
-32452::$$$message_0262_0023_0003$$$::"Adeus. Vamos brincar de novo, Onii-chan."[lr]::
-32453::$$$message_0262_0024_0000$$$::Dizendo isso, ela desaparece.::
-32454::$$$message_0262_0024_0001$$$::"......"[lr]::
-32455::$$$message_0262_0024_0002$$$::O desastre inesperado desaparece.[lr]::
-32456::$$$message_0262_0024_0003$$$::A Tohsaka deve planejar não seguir a garota apesar do que ela disse.[lr]::
-32457::$$$message_0262_0024_0004$$$::Até eu posso dizer que ela nós deixou ir.[lr]::
-32458::$$$message_0262_0025_0000$$$::Então não acho que a Tohsaka vá perseguir uma batalha tão estúpida.::
-32459::$$$message_0262_0025_0001$$$::"Obrigado, Mestre. Eu teria sido atingido pelo Fantasma Nobre do Archer se você não tivesse me chamado."[lr]::
-32460::$$$message_0262_0025_0002$$$::"O[line4]Ah, fico feliz em ouvir isso."::
+32374::$$$message_0262_0000_0000$$$::"Não! Volte, Saber...!"[lr]::
+32375::$$$message_0262_0000_0001$$$::Antes mesmo de perceber o que estou fazendo, ouço minha própria voz gritando para a Saber.::
+32376::$$$message_0262_0001_0000$$$::"Mestre...?"[lr]::
+32377::$$$message_0262_0001_0001$$$::Os passos de Saber diminuem, como se ela tivesse ouvido meu comando.[lr]::
+32378::$$$message_0262_0001_0002$$$::Mas não é o bastante! Ela não vai conseguir escapar a tempo...!::
+32379::$$$message_0262_0002_0000$$$::"É perigoso, por favor, afaste-se...!"[lr]::
+32380::$$$message_0262_0002_0001$$$::"Não! [font italic=true]Você[font italic=false] está em perigo! Só... venha para cá...!"[lr]::
+32381::$$$message_0262_0002_0002$$$::Estendo a mão para a Saber.::
+32382::$$$message_0262_0003_0000$$$::"Eu estou...? Nn...!?"[lr]::
+32383::$$$message_0262_0003_0001$$$::Ela deve ter entendido. Saber se afasta de Berserker e dispara para longe do campo de batalha com toda a velocidade.::
+32384::$$$message_0262_0004_0000$$$::Justo quando Saber recua...[lr]::
+32385::$$$message_0262_0004_0001$$$::...Archer dispara sua "flecha".::
+32386::$$$message_0262_0005_0000$$$::Saber salta para longe como faíscas de uma chama, e Berserker corre atrás dela.[lr]::
+32387::$$$message_0262_0005_0001$$$::O ataque de Archer atinge o espaço entre os dois, no centro do campo de batalha.[lr]::
+32388::$$$message_0262_0005_0002$$$::Até agora, seus disparos não tinham feito nada.[lr]::
+32389::$$$message_0262_0005_0003$$$::Saber avança como se aquelas flechas nem valessem o esforço de desviar.::
+32390::$$$message_0262_0006_0000$$$::Mas, naquele instante...::
+32391::$$$message_0262_0007_0000$$$::"[wacky len=15]"[lr]::
+32392::$$$message_0262_0007_0001$$$::O gigante vira as costas para nós e ataca os projéteis que se aproximam com uma fúria descomunal.::
+32393::$$$message_0262_0008_0000$$$::[line4]Naquele instante...[lr]::
+32394::$$$message_0262_0008_0001$$$::[line4]...o som some por completo.::
+32395::$$$message_0262_0009_0000$$$::"...!"[lr]::
+32396::$$$message_0262_0009_0001$$$::Eu me lanço sobre a Saber e me preparo.[lr]::
+32397::$$$message_0262_0009_0002$$$::Devo ter ficado surdo; não consigo ouvir nada.[lr]::
+32398::$$$message_0262_0009_0003$$$::Mas consigo [font italic=true]sentir[font italic=false] as vibrações no ar sacudindo meu corpo e o calor queimando minha pele.[lr]::
+32399::$$$message_0262_0009_0004$$$::A explosão lança toda espécie de destroços pelos ares, e sinto algo perfurar minhas costas.::
+32400::$$$message_0262_0010_0000$$$::"...!"[lr]::
+32401::$$$message_0262_0010_0001$$$::Cerro os dentes e me aguento firme.[lr]::
+32402::$$$message_0262_0010_0002$$$::O clarão branco deve ter durado apenas um instante.[lr]::
+32403::$$$message_0262_0010_0003$$$::De algum jeito, eu sobrevivi.::
+32404::$$$message_0262_0011_0000$$$::"Qu..."[lr]::
+32405::$$$message_0262_0011_0001$$$::Saber está claramente atônita com o que viu.[lr]::
+32406::$$$message_0262_0011_0002$$$::...Eu também.[lr]::
+32407::$$$message_0262_0011_0003$$$::Não faço ideia do que aconteceu.[lr]::
+32408::$$$message_0262_0011_0004$$$::Só sei que o ataque de Archer envolveu o cemitério inteiro em chamas.::
+32409::$$$message_0262_0011_0005$$$::No centro da explosão há uma cratera fumegante.[lr]::
+32410::$$$message_0262_0011_0006$$$::Essa é a escala do poder destrutivo do ataque dele.[lr]::
+32411::$$$message_0262_0011_0007$$$::E, no coração de toda aquela destruição absurda, o gigante continua de pé. Vivo.::
+32412::$$$message_0262_0012_0000$$$::"...Berserker... Ele está ileso mesmo depois de receber em cheio um Fantasma Nobre de Rank A..."[lr]::
+32413::$$$message_0262_0012_0001$$$::A força parece ter abandonado a voz da Saber.[lr]::
+32414::$$$message_0262_0012_0002$$$::Faíscas dançam no ar noturno.[lr]::
+32415::$$$message_0262_0012_0003$$$::O gigante permanece imóvel em meio às chamas, enquanto todos os presentes observam em silêncio, atônitos.::
+32416::$$$message_0262_0013_0000$$$::O único som que se ouve é o crepitar suave do fogo.[lr]::
+32417::$$$message_0262_0013_0001$$$::Bem quando penso que as chamas podem sair do controle...[lr]::
+32418::$$$message_0262_0013_0002$$$::"Hã...?"[lr]::
+32419::$$$message_0262_0013_0003$$$::Alguma coisa metálica... estranha... rola na minha direção, tilintando sobre o chão coberto de escombros.::
+32420::$$$message_0262_0014_0000$$$::"...Uma espada...?"[lr]::
+32421::$$$message_0262_0014_0001$$$::Não, é uma flecha.[lr]::
+32422::$$$message_0262_0014_0002$$$::Uma flecha com empunhadura luxuosa e lâmina em espiral.[lr]::
+32423::$$$message_0262_0014_0003$$$::Acho que [font italic=true]era[font italic=false] uma espada. Mas foi [font italic=true]usada[font italic=false] como flecha.::
+32424::$$$message_0262_0015_0000$$$::[font italic=true]...[font italic=false][lr]::
+32425::$$$message_0262_0015_0001$$$::Não sei por que ela chama tanto a minha atenção.[lr]::
+32426::$$$message_0262_0015_0002$$$::As flechas que Berserker despedaça desaparecem como se estivessem simplesmente derretendo.[lr]::
+32427::$$$message_0262_0015_0003$$$::Elas somem sem deixar rastro, como cera de vela derretendo nas chamas.::
+32428::$$$message_0262_0016_0000$$$::Aquilo...[lr]::
+32429::$$$message_0262_0016_0001$$$::...me dá náusea por algum motivo.::
+32430::$$$message_0262_0017_0000$$$::"...Shirou, aquilo era..."[lr]::
+32431::$$$message_0262_0017_0001$$$::"...As flechas de Archer. É tudo o que eu sei."[lr]::
+32432::$$$message_0262_0017_0002$$$::Ergo a cabeça e vejo Archer ao longe.::
+32433::$$$message_0262_0018_0000$$$::"...!"[lr]::
+32434::$$$message_0262_0018_0001$$$::Não tem como eu conseguir enxergar tão longe.[lr]::
+32435::$$$message_0262_0018_0002$$$::Não deveria conseguir vê-lo, mas, por algum motivo... consigo.[lr]::
+32436::$$$message_0262_0018_0003$$$::Ele está sorrindo.[lr]::
+32437::$$$message_0262_0018_0004$$$::Está sorrindo como se dissesse que não estava mirando só em Berserker.::
+32438::$$$message_0262_0019_0000$$$::"Maldito...!"[lr]::
+32439::$$$message_0262_0019_0001$$$::...Minha cabeça dói.[lr]::
+32440::$$$message_0262_0019_0002$$$::O calafrio descendo pela minha espinha não passa.[lr]::
+32441::$$$message_0262_0019_0003$$$::Minha coluna está queimando e tenho vontade de vomitar, quase como naquela vez em que falhei ao criar um Circuito Mágico...::
+32442::$$$message_0262_0020_0000$$$::"...Hm, subestimei você, Rin. Seu Archer não é nada mau."[lr]::
+32443::$$$message_0262_0020_0001$$$::A voz alegre da garota flutua pelo campo de batalha até nós, mas não faço ideia de onde vem.::
+32444::$$$message_0262_0021_0000$$$::"Tudo bem, volte, Berserker. Eu queria acabar primeiro com a parte chata, mas mudei de ideia."[lr]::
+32445::$$$message_0262_0021_0001$$$::A sombra negra oscila.[lr]::
+32446::$$$message_0262_0021_0002$$$::Obedecendo à voz da garota, o gigante recua através das chamas.::
+32447::$$$message_0262_0022_0000$$$::"Ah, qual é. Vai fugir depois de tudo isso?"[lr]::
+32448::$$$message_0262_0022_0001$$$::"Sim, mudei de ideia. Não preciso da Saber, mas me interessei pelo seu Archer. Então vou deixar vocês viverem mais um pouco."::
+32449::$$$message_0262_0023_0000$$$::O gigante desaparece.[lr]::
+32450::$$$message_0262_0023_0001$$$::A garota de branco dá uma risadinha.[lr]::
+32451::$$$message_0262_0023_0002$$$::"Tchauzinho, então. Vamos brincar de novo, Onii-chan."[lr]::
+32452::$$$message_0262_0023_0003$$$::Com essas palavras de despedida, ela desaparece do outro lado das chamas.::
+32453::$$$message_0262_0024_0000$$$::"..."[lr]::
+32454::$$$message_0262_0024_0001$$$::E, assim como apareceu, ela se foi.[lr]::
+32455::$$$message_0262_0024_0002$$$::Tenho certeza de que Tohsaka não pretende mesmo ir atrás dela, apesar do que disse.[lr]::
+32456::$$$message_0262_0024_0003$$$::Até eu consigo perceber que aquela garota simplesmente nos deixou ir.[lr]::
+32457::$$$message_0262_0024_0004$$$::Não consigo imaginar a Tohsaka buscando uma luta dessas. Seria imprudente demais.::
+32458::$$$message_0262_0025_0000$$$::"Obrigado, Mestre. O Fantasma Nobre de Archer teria me atingido se você não tivesse me chamado."[lr]::
+32459::$$$message_0262_0025_0001$$$::"A-ah, eu..."[lr]::
+32460::$$$message_0262_0025_0002$$$::Tento dizer que fico feliz por ter ajudado.::
 32461::$$$message_0262_0026_0000$$$::"Mestre...?"[lr]::
 32462::$$$message_0262_0026_0001$$$::...O que há de errado comigo?[lr]::
-32463::$$$message_0262_0026_0002$$$::Embora eu não esteja ferido. Me sinto mal, e minha consciência está...::
-32464::$$$message_0262_0027_0000$$$::"Emiya-kun? Você tá pálido."[lr]::
+32463::$$$message_0262_0026_0002$$$::Não estou gravemente ferido, mas estou me sentindo mal, e acho que estou começando a...::
+32464::$$$message_0262_0027_0000$$$::"...Emiya? Você está muito pálido."[lr]::
 32465::$$$message_0262_0027_0001$$$::"Mestre...? Shirou...!"[lr]::
-32466::$$$message_0262_0027_0002$$$::...Meus joelhos dobram.[lr]::
-32467::$$$message_0262_0027_0003$$$::Minha visão fica branca.::
-32468::$$$message_0262_0028_0000$$$::"Se recomponha por favor! O que está acontecendo...!?"[lr]::
-32469::$$$message_0262_0028_0001$$$::...Sinto alguém me segurar enquanto caio.[lr]::
-32470::$$$message_0262_0028_0002$$$::Mas a sensação some enquanto todos os meus sentidos também.::
-32471::$$$message_0262_0029_0000$$$::[line4]Tudo que resta é essa dor em mim.[lr]::
-32472::$$$message_0262_0029_0001$$$::O que está me irritando?[lr]::
-32473::$$$message_0262_0029_0002$$$::E sobre o que devo me preocupar?[lr]::
-32474::$$$message_0262_0029_0003$$$::...Estou prestes a desmaiar, mas minha cabeça continua doendo.::
+32466::$$$message_0262_0027_0002$$$::...Caio de joelhos.[lr]::
+32467::$$$message_0262_0027_0003$$$::De repente, minha visão fica branca.::
+32468::$$$message_0262_0028_0000$$$::"Se recomponha...! O que está acontecendo...!?"[lr]::
+32469::$$$message_0262_0028_0001$$$::...Sinto alguém me aparar enquanto caio.[lr]::
+32470::$$$message_0262_0028_0002$$$::Mas essa sensação some de repente quando quase todos os meus sentidos simplesmente se apagam.::
+32471::$$$message_0262_0029_0000$$$::...Tudo o que resta é essa dor pulsante.[lr]::
+32472::$$$message_0262_0029_0001$$$::O que está acontecendo?[lr]::
+32473::$$$message_0262_0029_0002$$$::O que há de errado comigo?[lr]::
+32474::$$$message_0262_0029_0003$$$::...Estou perdendo a consciência, mas minha cabeça continua latejando como se eu estivesse com febre.::
+
 

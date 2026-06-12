@@ -1,18 +1,18 @@
 DAT
 id=qid::label=str::text=lstr::
-15115::$$$message_0141_0000_0000$$$::[line2]Não gosto de deixar tudo nas mãos da Saber, mas não temos outra escolha.[lr]::
-15116::$$$message_0141_0000_0001$$$::Mesmo tendo vindo até aqui com ela, no fim eu só a atrapalho.[lr]::
+15115::$$$message_0141_0000_0000$$$::[line2]Eu não queria deixar tudo por conta da Saber, mas nós não temos outra escolha.[lr]::
+15116::$$$message_0141_0000_0001$$$::Depois que nós viemos para cá, eu só dei mais trabalho para ela.[lr]::
 15117::$$$message_0141_0000_0002$$$::A Saber deve ser capaz de passar pelos esqueletos e de derrotar a Caster sozinha.::
-15118::$$$message_0141_0001_0000$$$::"[line2]Saber... você consegue?"[lr]::
+15118::$$$message_0141_0001_0000$$$::"[line2]Saber, posso deixar por sua conta?"[lr]::
 15119::$$$message_0141_0001_0001$$$::"Sim. Então, por favor volte para onde a Rin está. Você, a Rin e a Illyasviel devem conseguir segurar os esqueletos por alguns minutos."[lr]::
 15120::$$$message_0141_0001_0002$$$::"Está bem. Vou ficar te esperando na sala de estar, Saber."::
 15121::$$$message_0141_0002_0000$$$::"Eu não vou demorar muito.[lr]::
-15122::$$$message_0141_0002_0001$$$::...Bem, talvez não caiba a mim dizer isso, já que quase usei o meu Fantasma Nobre aqui dentro, mas esta é a sua casa, Shirou.[lr]::
-15123::$$$message_0141_0002_0002$$$::Não vou permitir que a danifiquem ainda mais."[lr]::
+15122::$$$message_0141_0002_0001$$$::...Bem, eu sei que não tenho o direito de dizer isso porque quase usei o meu Fantasma Nobre aqui dentro, mas essa é a sua casa, Shirou.[lr]::
+15123::$$$message_0141_0002_0002$$$::Eu não vou deixar que eles destruam ela ainda mais."[lr]::
 15124::$$$message_0141_0002_0003$$$::Ela salta para o jardim com passos rápidos.::
 15125::$$$message_0141_0003_0000$$$::A Saber derruba a horda de esqueletos sem nenhuma dificuldade.[lr]::
-15126::$$$message_0141_0003_0001$$$::"[line2]Está bem..."[lr]::
-15127::$$$message_0141_0003_0002$$$::Volto correndo para a sala.[lr]::
+15126::$$$message_0141_0003_0001$$$::"[line2]Muito bem."[lr]::
+15127::$$$message_0141_0003_0002$$$::Vou voltar para a sala.[lr]::
 15128::$$$message_0141_0003_0003$$$::Se eu não sair daqui, posso acabar ficando cercado pelos esqueletos e dar ainda mais trabalho para a Saber.::
 15129::$$$message_0141_0004_0000$$$::"Shirou!? O que houve? Aconteceu alguma coisa com a Saber...!?"::
 15130::$$$message_0141_0005_0000$$$::"Eh? Não, não é nada disso. É que os familiares da Caster... eles são só esqueletos, mas não para de vir mais.[lr]::
@@ -20,10 +20,10 @@ id=qid::label=str::text=lstr::
 15132::$$$message_0141_0005_0002$$$::Eu só daria mais trabalho para ela se fosse junto, então resolvi ficar aqui com vocês até que a Saber termine o serviço."::
 15133::$$$message_0141_0006_0000$$$::"Entendi. ...Tem razão, o número de familiares lá fora é um absurdo.[lr]::
 15134::$$$message_0141_0006_0001$$$::A Illya disse para não nos preocuparmos, mas até a Saber tem o seu limite. Então ela foi derrotar a fonte antes que ficasse sem energia, não é?"::
-15135::$$$message_0141_0007_0000$$$::"Parece que sim. Os guerreiros em volta da casa estão todos indo para o jardim. A Caster está fazendo um ataque desesperado depois de ter sido encurralada pela Saber.[lr]::
+15135::$$$message_0141_0007_0000$$$::"Parece que sim. Os Guerreiros de Presa de Dragão em volta da casa estão todos indo para o jardim. A Caster está fazendo um ataque desesperado depois de ter sido encurralada pela Saber.[lr]::
 15136::$$$message_0141_0007_0001$$$::Mas a luta já está decidida. A Caster não vai conseguir derrotar a Saber agora."::
-15137::$$$message_0141_0008_0000$$$::"[line2]É verdade. Já não ouço mais nada lá fora."[lr]::
-15138::$$$message_0141_0008_0001$$$::Já não sinto mais nenhuma presença hostil.[lr]::
+15137::$$$message_0141_0008_0000$$$::"[line2]É mesmo. Eu já não estou ouvindo mais os esqueletos."[lr]::
+15138::$$$message_0141_0008_0001$$$::Eu não sinto mais nenhuma presença hostil vindo de dentro da casa.[lr]::
 15139::$$$message_0141_0008_0002$$$::Contanto que a gente fique aqui, nós não devemos ser atacados por aquelas coisas.[lr]::
 15140::$$$message_0141_0008_0003$$$::...E se o que a Illya estiver dizendo for verdade, essa luta deve acabar rápido.[lr]::
 15141::$$$message_0141_0008_0004$$$::A Saber não perderia em um combate corpo-a-corpo.[lr]::
@@ -44,40 +44,39 @@ id=qid::label=str::text=lstr::
 15156::$$$message_0141_0012_0003$$$::...!? Shirou, a sua mão...!"::
 15157::$$$message_0141_0013_0000$$$::"Hã?"[lr]::
 15158::$$$message_0141_0013_0001$$$::Eu olho para a minha mão esquerda.[lr]::
-15159::$$$message_0141_0013_0002$$$::Eu... não entendo o que aconteceu.[lr]::
-15160::$$$message_0141_0013_0003$$$::Os meus Selos de Comando, a prova do meu contrato com a Saber, desapareceram.::
-15161::$$$message_0141_0014_0000$$$::"Shirou, você usou um Selo de Comando!?"[lr]::
-15162::$$$message_0141_0014_0001$$$::"Não. Eu não usei."[lr]::
+15159::$$$message_0141_0013_0002$$$::O que isso quer dizer?[lr]::
+15160::$$$message_0141_0013_0003$$$::O meu Selo de Comando, a prova de que sou um Mestre, desapareceu.::
+15161::$$$message_0141_0014_0000$$$::"Shirou, você usou o seu Selo de Comando...!?"[lr]::
+15162::$$$message_0141_0014_0001$$$::"Não. Eu juro que não usei."[lr]::
 15163::$$$message_0141_0014_0002$$$::"......"::
 15164::$$$message_0141_0015_0000$$$::O que está acontecendo?[lr]::
 15165::$$$message_0141_0015_0001$$$::A Saber deveria ter derrotado a Caster sem nenhum problema.[lr]::
-15166::$$$message_0141_0015_0002$$$::Então por que os meus Selos de Comando desapareceram?[lr]::
-15167::$$$message_0141_0015_0003$$$::...Não, o desaparecimento dos Selos de Comando não significa que o meu contrato foi desfeito. Não posso entrar em pânico.::
-15168::$$$message_0141_0016_0000$$$::Os Selos de Comando existem para controlar Servos que possam agir contra as ordens de seus Mestres.[lr]::
+15166::$$$message_0141_0015_0002$$$::Então por que o meu Selo de Comando sumiu?[lr]::
+15167::$$$message_0141_0015_0003$$$::...Não, eu não deveria ficar tão desesperado. O desaparecimento do Selo de Comando não quer dizer que o contrato terminou.::
+15168::$$$message_0141_0016_0000$$$::O Selo de Comando foi criado para controlar os Servos desobedientes.[lr]::
 15169::$$$message_0141_0016_0001$$$::Eu nunca precisei fazer isso com a Saber.[lr]::
-15170::$$$message_0141_0016_0002$$$::Então, mesmo sem os Selos de Comando, eu e a Saber ainda devemos conseguir nos entender.::
+15170::$$$message_0141_0016_0002$$$::Então mesmo que ele suma, eu e a Saber ainda vamos ficar bem.::
 15171::$$$message_0141_0017_0000$$$::"...A Saber está voltando. Ela vai estar aqui em breve."[lr]::
 15172::$$$message_0141_0017_0001$$$::"......"[lr]::
 15173::$$$message_0141_0017_0002$$$::...O que elas estão fazendo?[lr]::
 15174::$$$message_0141_0017_0003$$$::Se a Saber está voltando, por que elas estão tensas?::
-15175::$$$message_0141_0018_0000$$$::...A porta se abre.[lr]::
-15176::$$$message_0141_0018_0001$$$::A Saber entra e...[lr]::
-15177::$$$message_0141_0018_0002$$$::"...Ngh... guh...!"[lr]::
-15178::$$$message_0141_0018_0003$$$::Apertando o peito, ela se aproxima de nós, claramente com dor.::
-15179::$$$message_0141_0019_0000$$$::"Saber!!!"[lr]::
+15175::$$$message_0141_0018_0000$$$::...A porta é aberta.[lr]::
+15176::$$$message_0141_0018_0001$$$::A Saber entra, e...[lr]::
+15177::$$$message_0141_0018_0002$$$::"...Guh..."[lr]::
+15178::$$$message_0141_0018_0003$$$::...Se aproxima de nós, segurando o seu tronco com dor.::
+15179::$$$message_0141_0019_0000$$$::"Saber...!"[lr]::
 15180::$$$message_0141_0019_0001$$$::Eu corro até ela.[lr]::
-15181::$$$message_0141_0019_0002$$$::"Não! Espera, Shirou!"[lr]::
-15182::$$$message_0141_0019_0003$$$::Eu não ouço o aviso da Tohsaka.[lr]::
-15183::$$$message_0141_0019_0004$$$::Tudo o que vejo é que a Saber está ferida.[lr]::
-15184::$$$message_0141_0019_0005$$$::"Você está bem, Saber? Onde foi que[line2]"::
-15185::$$$message_0141_0020_0000$$$::"O quê...!? Não, Shirou, corra...![lr]::
-15186::$$$message_0141_0020_0001$$$::Saber... pare[line2]"[lr]::
-15187::$$$message_0141_0020_0002$$$::[font italic=true]...[font italic=false]::
-15188::$$$message_0141_0021_0000$$$::[line2]Num único golpe, sou cortado ao meio, do ombro à cintura.[lr]::
-15189::$$$message_0141_0021_0001$$$::O golpe é tão rápido que, por um instante, eu nem sinto dor. Meu misterioso poder de cura não parece funcionar contra a espada da Saber.::
-15190::$$$message_0141_0022_0000$$$::"...Sa...ber..."[lr]::
-15191::$$$message_0141_0022_0001$$$::O mundo começa a escurecer.[lr]::
-15192::$$$message_0141_0022_0002$$$::Enquanto morro...[lr]::
-15193::$$$message_0141_0022_0003$$$::...mais do que o medo da morte, eu só consigo pensar em por que a Saber me atacou.::
-
+15181::$$$message_0141_0019_0002$$$::"...! Shirou, espera...!"[lr]::
+15182::$$$message_0141_0019_0003$$$::Eu não dou atenção para o aviso da Tohsaka.[lr]::
+15183::$$$message_0141_0019_0004$$$::Eu só estou preocupado com a dor da Saber.[lr]::
+15184::$$$message_0141_0019_0005$$$::"Está tudo bem, Saber? Onde que[line2]"::
+15185::$$$message_0141_0020_0000$$$::"Quê[line2]não! Shirou, corre...![lr]::
+15186::$$$message_0141_0020_0001$$$::Saber, pare[line2]!"[lr]::
+15187::$$$message_0141_0020_0002$$$::"[line5]"::
+15188::$$$message_0141_0021_0000$$$::[line2]Eu sou cortado do meu ombro esquerdo até o quadril com só um golpe.[lr]::
+15189::$$$message_0141_0021_0001$$$::O corte perfeito adormece a dor, e aquele poder misterioso de cura não está funcionando contra a espada da Saber.::
+15190::$$$message_0141_0022_0000$$$::"...Saber..."[lr]::
+15191::$$$message_0141_0022_0001$$$::Eu perco a consciência.[lr]::
+15192::$$$message_0141_0022_0002$$$::...Antes de morrer...[lr]::
+15193::$$$message_0141_0022_0003$$$::Mais do que sentir medo da morte, eu tento entender por que a Saber me matou[line2]::
 

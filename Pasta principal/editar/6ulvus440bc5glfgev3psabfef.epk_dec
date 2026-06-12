@@ -1,526 +1,530 @@
 DAT
 id=qid::label=str::text=lstr::
 67765::$$$message_0628_0000_0000$$$::O tempo para.[lr]::
-67766::$$$message_0628_0000_0001$$$::"[w l=4][line4]Não.[lr]::
+67766::$$$message_0628_0000_0001$$$::"Não.[lr]::
 67767::$$$message_0628_0000_0002$$$::Eu não quero isso, Berserker...!!!"[lr]::
-67768::$$$message_0628_0000_0003$$$::Illya implora ao gigante.[lr]::
-67769::$$$message_0628_0000_0004$$$::Mas ele nem sequer tenta descobrir quem está falando antes de balançar sua espada[w l=4][line4]::
+67768::$$$message_0628_0000_0003$$$::Illya grita uma súplica, mas o gigante nem sabe quem ela é.[lr]::
+67769::$$$message_0628_0000_0004$$$::Ele simplesmente abate a espada gigante sobre ela.::
 67770::$$$message_0628_0001_0000$$$::"ILLYAAAAAAAAAAAAA!!!"[lr]::
 67771::$$$message_0628_0001_0001$$$::Eu corro.[lr]::
 67772::$$$message_0628_0001_0002$$$::Eu fui lançado por mais de dez metros.[lr]::
-67773::$$$message_0628_0001_0003$$$::Essa distância não é nada. Eu definitivamente vou conseguir chegar a tempo se eu correr.[lr]::
-67774::$$$message_0628_0001_0004$$$::Uma respiração. O sangue, drogas, e propulsor correndo pelo meu corpo são como um jato, e meu pensamento é como um raio de luz[w l=4][line4]!::
-67775::$$$message_0628_0002_0000$$$::[w l=3][line3]Eu entro no meio.[lr]::
-67776::$$$message_0628_0002_0001$$$::Meu corpo parece leve. O tempo parece parar.::
-67777::$$$message_0628_0003_0000$$$::[w l=3][line3]Eu vou conseguir.[lr]::
-67778::$$$message_0628_0003_0001$$$::Eu definitivamente vou conseguir. Mas mesmo que eu consiga...::
-67779::$$$message_0628_0004_0000$$$::[w l=3][line3]Eu não conseguiria fazer nada com a Black Key. Eu não sou páreo para ele.[lr]::
+67773::$$$message_0628_0001_0003$$$::Essa distância não é nada. Eu sei que chego a tempo se correr.[lr]::
+67774::$$$message_0628_0001_0004$$$::Num único fôlego, o sangue dopado que corre pelo meu corpo me impulsiona como um jato, e meus pensamentos disparam como relâmpagos!::
+67775::$$$message_0628_0002_0000$$$::Eu dou um passo à frente.[lr]::
+67776::$$$message_0628_0002_0001$$$::Meu corpo parece leve. Sinto o tempo parar.::
+67777::$$$message_0628_0003_0000$$$::Eu consigo.[lr]::
+67778::$$$message_0628_0003_0001$$$::Eu sei que consigo. Mas, mesmo que consiga...::
+67779::$$$message_0628_0004_0000$$$::A Black Key não surtiria efeito. Eu não surtiria efeito.[lr]::
 67780::$$$message_0628_0004_0001$$$::Então...::
-67781::$$$message_0628_0005_0000$$$::[w l=3][line3]Eu procuro, recupero, e a crio.[lr]::
-67782::$$$message_0628_0005_0001$$$::O que pode derrotá-lo.[lr]::
-67783::$$$message_0628_0005_0002$$$::O que é páreo para ele.::
-67784::$$$message_0628_0006_0000$$$::[w l=3][line3]É claro.[lr]::
-67785::$$$message_0628_0006_0001$$$::Não pode ser nada menos que a espada que ele carrega[w l=3][line3]!::
-67786::$$$message_0628_0007_0000$$$::[w l=4][line4]Eu o bloqueio.[lr]::
-67787::$$$message_0628_0007_0001$$$::A projeção é óbviamente um sucesso.::
-67788::$$$message_0628_0008_0000$$$::"                 [say storage=sak1510_shi_0010]Ah."[lr]::
-67789::$$$message_0628_0008_0001$$$::Uma rachadura.[lr]::
-67790::$$$message_0628_0008_0002$$$::Uma rachadura corre pela espada-machado que eu projetei.[lr]::
+67781::$$$message_0628_0005_0000$$$::Eu vasculho meu arsenal em busca de algo para criar.[lr]::
+67782::$$$message_0628_0005_0001$$$::Algo que possa vencê-lo.[lr]::
+67783::$$$message_0628_0005_0002$$$::Algo forte o bastante para detê-lo aqui.::
+67784::$$$message_0628_0006_0000$$$::É óbvio.[lr]::
+67785::$$$message_0628_0006_0001$$$::Só pode ser a espada gigante que ele empunha!::
+67786::$$$message_0628_0007_0000$$$::Eu o bloqueio.[lr]::
+67787::$$$message_0628_0007_0001$$$::Projeto uma arma como se isso me fosse natural e enfrento de frente a espada-machado do gigante.::
+67788::$$$message_0628_0008_0000$$$::"                 Ah."[lr]::
+67789::$$$message_0628_0008_0001$$$::Ela está rachada.[lr]::
+67790::$$$message_0628_0008_0002$$$::Fissuras se abrem na espada-machado que projetei.[lr]::
 67791::$$$message_0628_0008_0003$$$::E ao mesmo tempo...::
 67792::$$$message_0628_0009_0000$$$::"[wacky len=15]!"[lr]::
 67793::$$$message_0628_0009_0001$$$::"Ahhhhhhhhhhhhhhhh!!"[lr]::
-67794::$$$message_0628_0009_0002$$$::Eu sou golpeado com um retorno que é quase forte o suficiente para me matar, me punindo por usar algo proibido.::
-67795::$$$message_0628_0010_0000$$$::Eu sou jogado longe.[lr]::
-67796::$$$message_0628_0010_0001$$$::Minha espada-machado quebra com seu segundo ataque, e meu corpo desliza pelo chão como lixo.::
-67797::$$$message_0628_0011_0000$$$::[w l=4][line4]Desvanescendo.[lr]::
+67794::$$$message_0628_0009_0002$$$::O retorno por usar algo que eu não devia quase me mata.::
+67795::$$$message_0628_0010_0000$$$::Sou arremessado longe.[lr]::
+67796::$$$message_0628_0010_0001$$$::A espada-machado se despedaça no segundo golpe do gigante, e meu corpo rola pelo chão como um pedaço de lixo.::
+67797::$$$message_0628_0011_0000$$$::...desvanecendo.[lr]::
 67798::$$$message_0628_0011_0001$$$::Minha consciência está desvanescendo.[lr]::
 67799::$$$message_0628_0011_0002$$$::Eu não consigo pensar.[lr]::
-67800::$$$message_0628_0011_0003$$$::Eu não consigo pensar mesmo que eu reúna tudo.[lr]::
+67800::$$$message_0628_0011_0003$$$::Tento juntar os pedaços de mim mesmo, mas não consigo pensar.[lr]::
 67801::$$$message_0628_0011_0004$$$::Meu braço esquerdo se revolta.[lr]::
 67802::$$$message_0628_0011_0005$$$::Meu sangue transborda.[lr]::
-67803::$$$message_0628_0011_0006$$$::A restrição ainda está no meu braço esquerdo, mas minha inteligência está metade perdida, e eu sinto um calafrio como se ela nunca fosse retornar... O ominoso sentimento irá se tornar verdade, e eu vou começara perder tudo que eu mais aprecio.::
-67804::$$$message_0628_0012_0000$$$::"Ah, [w l=4][line4]"[lr]::
-67805::$$$message_0628_0012_0001$$$::Eu sou abraçado por um vento intenso.[lr]::
-67806::$$$message_0628_0012_0002$$$::Eu sou abraçado por uma luz intensa.[lr]::
-67807::$$$message_0628_0012_0003$$$::Eu perdi, eu perdi.[lr]::
-67808::$$$message_0628_0012_0004$$$::Eu perdi no meio da agonia.[lr]::
-67809::$$$message_0628_0012_0005$$$::Eu não consigo encontrar, mesmo eu procurando.[lr]::
-67810::$$$message_0628_0012_0006$$$::Minha mente vira um grão de areia num deserto, perdido para todos, secando, secando, secando, secando[w l=4][line4]::
-67811::$$$message_0628_0013_0000$$$::"Shirou! Se recompõe e se encontra...!"[lr]::
-67812::$$$message_0628_0013_0001$$$::Tem a Illya.[lr]::
+67803::$$$message_0628_0011_0006$$$::Mesmo com o braço esquerdo ainda atado, o simples ato de Projeção já reduz minha mente à metade, e sinto um frio terrível que me diz que não há volta. Esse presságio horrível vai se tornar real. As primeiras coisas que vou perder serão as mais preciosas para mim.::
+67804::$$$message_0628_0012_0000$$$::"...Ah."[lr]::
+67805::$$$message_0628_0012_0001$$$::Uma tempestade ruge ao meu redor.[lr]::
+67806::$$$message_0628_0012_0002$$$::Sou banhado por uma luz ofuscante.[lr]::
+67807::$$$message_0628_0012_0003$$$::Não consigo ver. Não consigo encontrar.[lr]::
+67808::$$$message_0628_0012_0004$$$::Perdi de vista aquilo em meio à dor.[lr]::
+67809::$$$message_0628_0012_0005$$$::Procuro, mas não consigo encontrar.[lr]::
+67810::$$$message_0628_0012_0006$$$::Meu eu vira um grão de areia no deserto, fadado a nunca mais ser encontrado, e eu só sinto sede, sede, sede, sede...::
+67811::$$$message_0628_0013_0000$$$::"Shirou! Recobre os sentidos! Você precisa se reencontrar...!"[lr]::
+67812::$$$message_0628_0013_0001$$$::Illya está aqui.[lr]::
 67813::$$$message_0628_0013_0002$$$::Eu estou no chão.[lr]::
-67814::$$$message_0628_0013_0003$$$::Eu estou há dez metros do gigante preto.[lr]::
-67815::$$$message_0628_0013_0004$$$::Seus vermelhos, assustadores olhos estão olhando ao redor, como se tentando me encontrar.::
-67816::$$$message_0628_0014_0000$$$::"[w l=6][line6]!"[lr]::
-67817::$$$message_0628_0014_0001$$$::Minha consciência retorna.[lr]::
-67818::$$$message_0628_0014_0002$$$::Essa não é a hora de ficar no chão.[lr]::
-67819::$$$message_0628_0014_0003$$$::Meu corpo ainda se move.[lr]::
-67820::$$$message_0628_0014_0004$$$::As únicas feridas externas são arranhões dos galhos das árvores.[lr]::
-67821::$$$message_0628_0014_0005$$$::É só dor. Minha língua tenta sugar ar. Não há xigênio no meu corpo por causa da corrida, então eu quero ar.::
+67814::$$$message_0628_0013_0003$$$::O gigante escuro está a uns dez metros de distância.[lr]::
+67815::$$$message_0628_0013_0004$$$::Seus olhos vermelhos cintilam, como se procurassem meu corpo arremessado.::
+67816::$$$message_0628_0014_0000$$$::"Nn...!"[lr]::
+67817::$$$message_0628_0014_0001$$$::Volto a mim.[lr]::
+67818::$$$message_0628_0014_0002$$$::Não é hora de ficar estirado no chão.[lr]::
+67819::$$$message_0628_0014_0003$$$::Meu corpo... meu corpo ainda se move.[lr]::
+67820::$$$message_0628_0014_0004$$$::Minhas únicas feridas são arranhões dos galhos. Só estou sangrando de leve.[lr]::
+67821::$$$message_0628_0014_0005$$$::Mas meus pulmões estão comprimidos. Eu puxo o ar com desespero, tentando oxigenar esse corpo exausto.::
 67822::$$$message_0628_0015_0000$$$::Isso é tudo.[lr]::
-67823::$$$message_0628_0015_0001$$$::O que é importante está dentro do meu corpo[w l=4][line4]eu não quero saber em qual condição está, mas eu ainda consigo lutar[w l=4][line4]!::
-67824::$$$message_0628_0016_0000$$$::"Vamos fugir daqui, Illya...!"[lr]::
-67825::$$$message_0628_0016_0001$$$::Eu agarro a mão da Illya e me levanto.[lr]::
-67826::$$$message_0628_0016_0002$$$::Meu corpo está bem, mas eu preciso de ar.[lr]::
-67827::$$$message_0628_0016_0003$$$::Eu preciso sair do seu alcançe para recuperar minha respiração[w l=4][line4]!::
-67828::$$$message_0628_0017_0000$$$::Mas.[lr]::
+67823::$$$message_0628_0015_0001$$$::O mais importante é o que aconteceu por dentro... não quero nem saber em que estado estou, mas ainda consigo lutar...!::
+67824::$$$message_0628_0016_0000$$$::"Illya, vamos recuar!"[lr]::
+67825::$$$message_0628_0016_0001$$$::Agarro a mão de Illya e saio correndo.[lr]::
+67826::$$$message_0628_0016_0002$$$::Mesmo sem estar ferido, ainda preciso recuperar o fôlego.[lr]::
+67827::$$$message_0628_0016_0003$$$::Preciso pelo menos sair do alcance dele por um instante, só para me recompor!::
+67828::$$$message_0628_0017_0000$$$::No entanto...[lr]::
 67829::$$$message_0628_0017_0001$$$::"...Por quê? Shirou, você ao menos entende o que está acontecendo com você?"[lr]::
-67830::$$$message_0628_0017_0002$$$::Illya se afasta, como se rejeitando minha ajuda.::
-67831::$$$message_0628_0018_0000$$$::"[w l=8][line8]"[lr]::
-67832::$$$message_0628_0018_0001$$$::Tem algo errado.[lr]::
-67833::$$$message_0628_0018_0002$$$::Berserker está logo atrás dela.[lr]::
-67834::$$$message_0628_0018_0003$$$::Eu sou eu mesmo, minha cabeça não está funcionando por causa de falta de oxigênio, e eu não consigo pensar em por que a Illya diria algo assim.::
+67830::$$$message_0628_0017_0002$$$::Illya resiste à força com que a puxo.::
+67831::$$$message_0628_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
+67832::$$$message_0628_0018_0001$$$::Tem alguma coisa errada.[lr]::
+67833::$$$message_0628_0018_0002$$$::Berserker está atrás de Illya, tentando localizar onde estamos.[lr]::
+67834::$$$message_0628_0018_0003$$$::Minha cabeça não funciona por falta de oxigênio. Não consigo entender por que Illya me fez aquela pergunta.::
 67835::$$$message_0628_0019_0000$$$::"Illya?"[lr]::
-67836::$$$message_0628_0019_0001$$$::"......Me desculpa. Mas está tudo bem agora. Fuja sozinho."[lr]::
-67837::$$$message_0628_0019_0002$$$::"[w l=8][line8]"[lr]::
-67838::$$$message_0628_0019_0003$$$::Illya inclina sua cabeça.[lr]::
+67836::$$$message_0628_0019_0001$$$::"......Desculpa. Mas já basta. Você não precisa mais fazer isso, Shirou. Fuja sozinho."[lr]::
+67837::$$$message_0628_0019_0002$$$::[font italic=true]...[font italic=false][lr]::
+67838::$$$message_0628_0019_0003$$$::Illya abaixa o olhar.[lr]::
 67839::$$$message_0628_0019_0004$$$::Eu não consigo pensar direito.[lr]::
-67840::$$$message_0628_0019_0005$$$::Eu não consigo, então eu fico bravo.::
-67841::$$$message_0628_0020_0000$$$::"Cara, não faz birra agora! Vamos lá, Illya! Agora não é a hora disso!"[lr]::
+67840::$$$message_0628_0019_0005$$$::Então eu acabo ficando com raiva.::
+67841::$$$message_0628_0020_0000$$$::"Droga, não faz birra numa hora dessas! Vamos, Illya. Não é hora pra isso!"[lr]::
 67842::$$$message_0628_0020_0001$$$::"Ah...!?"::
-67843::$$$message_0628_0021_0000$$$::Eu puxo seu braço.[lr]::
-67844::$$$message_0628_0021_0001$$$::Seu pequeno corpo. Seu desejo de me ajudar com esse pequeno corpo parece sagrado.::
-67845::$$$message_0628_0022_0000$$$::"Ei, o que você tá fazendo, Shirou!? Eu disse que você fez o suficiente...! Você ainda consegue se for sozinho, então foge...!"[lr]::
-67846::$$$message_0628_0022_0001$$$::Ela bate na minha cabeça.[lr]::
+67843::$$$message_0628_0021_0000$$$::Puxo o braço de Illya.[lr]::
+67844::$$$message_0628_0021_0001$$$::Ela é tão pequena, e mesmo assim está tentando me ajudar. Isso me parece precioso demais.::
+67845::$$$message_0628_0022_0000$$$::"Espera, o que você tá fazendo, Shirou!? Eu disse que já basta! Se for sozinho, você ainda consegue escapar...!"[lr]::
+67846::$$$message_0628_0022_0001$$$::Ela martela minha cabeça com os punhos pequenos.[lr]::
 67847::$$$message_0628_0022_0002$$$::Eu ignoro ela.::
-67848::$$$message_0628_0023_0000$$$::"Cala boca...! Eu não estaria aqui se eu pudesse fazer isso...!"[lr]::
-67849::$$$message_0628_0023_0001$$$::E eu puxo ela para perto.::
-67850::$$$message_0628_0024_0000$$$::"Quê[w l=4][line4]"[lr]::
-67851::$$$message_0628_0024_0001$$$::Os olhos da Illya me perguntam por quê..[lr]::
-67852::$$$message_0628_0024_0002$$$::Ela tem que tar de brincadeira.[lr]::
-67853::$$$message_0628_0024_0003$$$::Eu não preciso nem me explicar[w l=4][line4]!::
-67854::$$$message_0628_0025_0000$$$::"Eu não preciso de um motivo! Eu só tô egoisticamente te protegendo! Olha, um irmão mais velho protege sua irmã mais nova!"[lr]::
+67848::$$$message_0628_0023_0000$$$::"Cala a boca...! Se eu pudesse fazer isso, nem teria vindo até aqui!"[lr]::
+67849::$$$message_0628_0023_0001$$$::Eu a abraço com força.::
+67850::$$$message_0628_0024_0000$$$::"Quê..."[lr]::
+67851::$$$message_0628_0024_0001$$$::Os olhos dela me perguntam por quê.[lr]::
+67852::$$$message_0628_0024_0002$$$::Que pergunta idiota.[lr]::
+67853::$$$message_0628_0024_0003$$$::Não importa o motivo!::
+67854::$$$message_0628_0025_0000$$$::"Eu preciso de um motivo!? Só quero te proteger! Irmão mais velho protege irmã mais nova, pronto!?"[lr]::
 67855::$$$message_0628_0025_0001$$$::"O quê!? Você é idiota? Eu não sou sua irmã mais nova!"[lr]::
-67856::$$$message_0628_0025_0002$$$::"Tá tudo bem! Eu sou o irmão mais velho desde que você me chamou de Onii-chan! Mesmo que nós não tenhamos o mesmo sangue, você ainda é minha irmã mais nova!"::
-67857::$$$message_0628_0026_0000$$$::"[w l=6][line6]Shirou."[lr]::
-67858::$$$message_0628_0026_0001$$$::O gigante preto se vira para nós.[lr]::
-67859::$$$message_0628_0026_0002$$$::"Corre, ele tá vindo=...!"[lr]::
+67856::$$$message_0628_0025_0002$$$::"Não importa! Você me chamou de onii-chan uma vez, então eu sou seu irmão mais velho agora! Mesmo sem laços de sangue, você ainda é minha irmã, Illya!"::
+67857::$$$message_0628_0026_0000$$$::"Shirou."[lr]::
+67858::$$$message_0628_0026_0001$$$::O gigante escuro se vira para nós.[lr]::
+67859::$$$message_0628_0026_0002$$$::"Corre! Ele está vindo!"[lr]::
 67860::$$$message_0628_0026_0003$$$::Eu posso pensar mais tarde.[lr]::
-67861::$$$message_0628_0026_0004$$$::Por agora, eu tenho que fugir dele o mais rápido possível...!::
-67862::$$$message_0628_0027_0000$$$::[w l=4][line4]É um pouco estranho.[lr]::
-67863::$$$message_0628_0027_0001$$$::Eu estou puxando a Illya e correndo numa velocidade muito além da capacidade de Emiya Shirou.::
-67864::$$$message_0628_0028_0000$$$::Eu chego a uma clareira familiar.[lr]::
-67865::$$$message_0628_0028_0001$$$::"Ah, haa, ha, ha[w l=4][line4]!"[lr]::
-67866::$$$message_0628_0028_0002$$$::É a Illya que está ofegante.[lr]::
+67861::$$$message_0628_0026_0004$$$::Agora só preciso abrir a maior distância possível entre nós!::
+67862::$$$message_0628_0027_0000$$$::É um pouco estranho.[lr]::
+67863::$$$message_0628_0027_0001$$$::A velocidade com que Emiya Shirou corre, arrastando Illya consigo, está muito além do que ela sabe que ele é capaz.::
+67864::$$$message_0628_0028_0000$$$::Nós chegamos a uma clareira familiar.[lr]::
+67865::$$$message_0628_0028_0001$$$::"Ah, hah, ngh, hah...!"[lr]::
+67866::$$$message_0628_0028_0002$$$::Os arfados engasgados são de Illya.[lr]::
 67867::$$$message_0628_0028_0003$$$::Eu não estou sem fôlego, talvez porque meu corpo esteja dormente.[lr]::
-67868::$$$message_0628_0028_0004$$$::Meus pulmões estão queimando por causa da falta de ar, mas eu não estou respirando.[lr]::
+67868::$$$message_0628_0028_0004$$$::Falta oxigênio, mas é como se eu nem estivesse respirando.[lr]::
 67869::$$$message_0628_0028_0005$$$::Eu sou como um cadáver.[lr]::
-67870::$$$message_0628_0028_0006$$$::Meu coração entrou em greve.::
-67871::$$$message_0628_0029_0000$$$::"Ah... Eu tô... bem... eu consigo... correr...!"[lr]::
-67872::$$$message_0628_0029_0001$$$::Os dedos da Illya estão estranhamente quentes.[lr]::
+67870::$$$message_0628_0028_0006$$$::Faz um tempo que meu coração simplesmente entrou em greve.::
+67871::$$$message_0628_0029_0000$$$::"Ah... eu tô... bem[line2]urgh[line2]ainda consigo... correr...!"[lr]::
+67872::$$$message_0628_0029_0001$$$::Os dedos de Illya estão assustadoramente quentes quando apertam os meus.[lr]::
 67873::$$$message_0628_0029_0002$$$::Ela nunca teve a energia necessária para correr.[lr]::
-67874::$$$message_0628_0029_0003$$$::Seu design não levou em conta exercício humano comum.::
-67875::$$$message_0628_0030_0000$$$::"[w l=8][line8]"[lr]::
+67874::$$$message_0628_0029_0003$$$::Ao criarem seu corpo, nunca imaginaram que ela precisaria fazer esforço físico como uma pessoa normal.::
+67875::$$$message_0628_0030_0000$$$::[font italic=true]...[font italic=false][lr]::
 67876::$$$message_0628_0030_0001$$$::Eu tenho uma dor de cabeça.[lr]::
-67877::$$$message_0628_0030_0002$$$::Conhecimento que eu nunca vi entra na minha mente.[lr]::
-67878::$$$message_0628_0030_0003$$$::Pensamentos são inúteis.[lr]::
-67879::$$$message_0628_0030_0004$$$::Eu tenho que fugir por agora.[lr]::
-67880::$$$message_0628_0030_0005$$$::O louco, insensível gigante está no nosso encalço.::
-67881::$$$message_0628_0031_0000$$$::Eu de alguma forma aumento a distância entre nós, mas eu não consigo esperar por essa velocidade de novo.[lr]::
-67882::$$$message_0628_0031_0001$$$::Minhas pernas estão tremendo, e eu calmamente analiso que eu só consigo correr por mais dez metros.::
+67877::$$$message_0628_0030_0002$$$::Conhecimentos que não me pertencem estão entrando na minha mente.[lr]::
+67878::$$$message_0628_0030_0003$$$::São distrações.[lr]::
+67879::$$$message_0628_0030_0004$$$::Precisamos sair daqui.[lr]::
+67880::$$$message_0628_0030_0005$$$::O gigante está nos alcançando, mesmo com o intelecto e os sentidos selados.::
+67881::$$$message_0628_0031_0000$$$::Por um tempo, pareceu que ele tinha seguido na direção errada, mas não gosto da rapidez com que está se aproximando.[lr]::
+67882::$$$message_0628_0031_0001$$$::Minhas pernas tremem, e eu avalio friamente que não vou conseguir avançar mais de uns dez metros.::
 67883::$$$message_0628_0032_0000$$$::Illya não consegue me acompanhar mais também.[lr]::
-67884::$$$message_0628_0032_0001$$$::Não tem nada aqui para nos esconder, mesmo se quiséssemos.[lr]::
-67885::$$$message_0628_0032_0002$$$::Bom[w l=4][line4]esconder não nos levaria longe, já que ele não consegue ver nada.::
-67886::$$$message_0628_0033_0000$$$::"[w l=4][line4]Perfect."[lr]::
-67887::$$$message_0628_0033_0001$$$::Mas nós temos muita sorte.[lr]::
-67888::$$$message_0628_0033_0002$$$::Tem uma cratera.[lr]::
-67889::$$$message_0628_0033_0003$$$::É uma cicatriz na terra feito pelo Fantasma Nobre da Saber.::
-67890::$$$message_0628_0034_0000$$$::"Por aqui, Illya[w l=4][line4]!"[lr]::
-67891::$$$message_0628_0034_0001$$$::Eu pego a mão da Illya e pulo na cratera.::
-67892::$$$message_0628_0035_0000$$$::A trincheira fácilmente comporta duas pessoas.[lr]::
-67893::$$$message_0628_0035_0001$$$::"Haa[w l=4][line4]"[lr]::
+67884::$$$message_0628_0032_0001$$$::Podíamos tentar nos esconder, mas não há cobertura alguma por aqui.[lr]::
+67885::$$$message_0628_0032_0002$$$::E, claro, esconder-se não adiantaria nada contra um Berserker que, para começo de conversa, nem enxerga.::
+67886::$$$message_0628_0033_0000$$$::"...Achei."[lr]::
+67887::$$$message_0628_0033_0001$$$::Ainda nos resta uma pequena bênção.[lr]::
+67888::$$$message_0628_0033_0002$$$::Há uma fenda na clareira que se alarga até formar uma trincheira.[lr]::
+67889::$$$message_0628_0033_0003$$$::É a cicatriz que o Fantasma Nobre da Saber deixou no chão.::
+67890::$$$message_0628_0034_0000$$$::"Por aqui, Illya!"[lr]::
+67891::$$$message_0628_0034_0001$$$::Pego Illya e salto para dentro da vala.::
+67892::$$$message_0628_0035_0000$$$::A trincheira facilmente comporta duas pessoas.[lr]::
+67893::$$$message_0628_0035_0001$$$::"Ha... ahh."[lr]::
 67894::$$$message_0628_0035_0002$$$::Eu me encosto na terra.[lr]::
-67895::$$$message_0628_0035_0003$$$::Levantando minha cabeça por ar, eu vejo o céu.[lr]::
-67896::$$$message_0628_0035_0004$$$::Um pequeno, cortado pedaço do céu, como se eu estivesse o observando do subterrâneo.::
-67897::$$$message_0628_0036_0000$$$::"Haa[w l=4][line4]ah, ah[w l=4][line4]"[lr]::
-67898::$$$message_0628_0036_0001$$$::Eu só foco em respirar.[lr]::
-67899::$$$message_0628_0036_0002$$$::Por um pouco, eu relaxo e descanso meu corpo.::
+67895::$$$message_0628_0035_0003$$$::Olho para o céu, tentando recuperar o fôlego.[lr]::
+67896::$$$message_0628_0035_0004$$$::O céu parece pequeno, truncado. É como se estivéssemos no subterrâneo.::
+67897::$$$message_0628_0036_0000$$$::"Hah... ahh, ah..."[lr]::
+67898::$$$message_0628_0036_0001$$$::Respiro fundo.[lr]::
+67899::$$$message_0628_0036_0002$$$::Aproveito essa breve pausa para descansar e acalmar a mente esgarçada.::
 67900::$$$message_0628_0037_0000$$$::"......!"[lr]::
-67901::$$$message_0628_0037_0001$$$::Mas é só por um instante.[lr]::
+67901::$$$message_0628_0037_0001$$$::Mas o descanso só dura um instante.[lr]::
 67902::$$$message_0628_0037_0002$$$::O gigante não vai perder sua presa.[lr]::
-67903::$$$message_0628_0037_0003$$$::Não importa para onde formos, ele vai nos achar e nos matar.::
-67904::$$$message_0628_0038_0000$$$::"......Ah.........! .........!"[lr]::
-67905::$$$message_0628_0038_0001$$$::A voz suprimida vem da garota ao meu lado.[lr]::
-67906::$$$message_0628_0038_0002$$$::Illya está frenéticamente se segurando para não ser um fardo para mim.::
-67907::$$$message_0628_0039_0000$$$::"[w l=8][line8]"[lr]::
-67908::$$$message_0628_0039_0001$$$::Esse é o fim.[lr]::
-67909::$$$message_0628_0039_0002$$$::Eu não consigo fugir, e eu não consigo aguentar mais disso.[lr]::
-67910::$$$message_0628_0039_0003$$$::Eu olho para meu braço esquerdo.[lr]::
-67911::$$$message_0628_0039_0004$$$::A única arma para superar essa situação está esperando para ser solta.::
+67903::$$$message_0628_0037_0003$$$::Não importa para onde corramos, ele vai nos rastrear, nos alcançar e nos matar.::
+67904::$$$message_0628_0038_0000$$$::"...Ah... ngh..."[lr]::
+67905::$$$message_0628_0038_0001$$$::A menina ao meu lado está encolhida, tentando abafar a própria voz.[lr]::
+67906::$$$message_0628_0038_0002$$$::Illya sufoca a voz e se abraça, tentando não me sobrecarregar.::
+67907::$$$message_0628_0039_0000$$$::[font italic=true]...[font italic=false][lr]::
+67908::$$$message_0628_0039_0001$$$::Chegamos ao fim da linha.[lr]::
+67909::$$$message_0628_0039_0002$$$::Não podemos mais fugir, e eu também não consigo mais conter isto.[lr]::
+67910::$$$message_0628_0039_0003$$$::Olho para o sudário vermelho enrolado em meu braço esquerdo.[lr]::
+67911::$$$message_0628_0039_0004$$$::Nossa única saída está esperando que eu a libere.::
 67912::$$$message_0628_0040_0000$$$::Eu vou morrer.[lr]::
-67913::$$$message_0628_0040_0001$$$::Kotomine disse que essa é a alavanca da bomba relógio.[lr]::
-67914::$$$message_0628_0040_0002$$$::Eu relembro a dor.[lr]::
-67915::$$$message_0628_0040_0003$$$::Usar projeção quase me quebrou.[lr]::
-67916::$$$message_0628_0040_0004$$$::Eu não consigo imaginar qual seri a dor se eu soltasse meu braço.::
+67913::$$$message_0628_0040_0001$$$::Kotomine disse que isso é o estopim de uma bomba-relógio.[lr]::
+67914::$$$message_0628_0040_0002$$$::A dor de antes me volta à mente.[lr]::
+67915::$$$message_0628_0040_0003$$$::Uma única Projeção quase me despedaçou.[lr]::
+67916::$$$message_0628_0040_0004$$$::Não consigo imaginar a agonia que será desatar este braço.::
 67917::$$$message_0628_0041_0000$$$::O martelo incessante está sempre na minha cabeça.[lr]::
-67918::$$$message_0628_0041_0001$$$::Desamarrar a manta vermelha é o mesmo que colocar uma arma na minha boca e apertar o gatilho.[lr]::
-67919::$$$message_0628_0041_0002$$$::Assim que eu remover a manta, o martelo incessante irá descer.[lr]::
-67920::$$$message_0628_0041_0003$$$::Meu cérebro vai ser esmagado na minha cabeça, e tudo vai acabar aí.::
-67921::$$$message_0628_0042_0000$$$::"[w l=8][line8]"[lr]::
-67922::$$$message_0628_0042_0001$$$::Eu tenho que ser determinado.[lr]::
-67923::$$$message_0628_0042_0002$$$::A resposta já está aí.[lr]::
+67918::$$$message_0628_0041_0001$$$::Se eu puser a mão no sudário, será o mesmo que enfiar o cano de uma arma na boca e puxar o gatilho.[lr]::
+67919::$$$message_0628_0041_0002$$$::No instante em que eu soltar o sudário, o percussor vai bater.[lr]::
+67920::$$$message_0628_0041_0003$$$::Meu cérebro vai explodir pelo fundo do crânio, e tudo vai acabar.::
+67921::$$$message_0628_0042_0000$$$::[font italic=true]...[font italic=false][lr]::
+67922::$$$message_0628_0042_0001$$$::Decida-se de uma vez.[lr]::
+67923::$$$message_0628_0042_0002$$$::Eu sempre soube a resposta.[lr]::
 67924::$$$message_0628_0042_0003$$$::Eu preciso trazer a Illya de volta e salvar a Sakura.[lr]::
 67925::$$$message_0628_0042_0004$$$::Eu sei o que isso significa.[lr]::
-67926::$$$message_0628_0042_0005$$$::Eu tenho que proteger a Illya, derrotar a sombra, e a remover da Sakura.::
-67927::$$$message_0628_0043_0000$$$::Eu desejei por um milagre que eu não tenho a esperança de realizar.[lr]::
-67928::$$$message_0628_0043_0001$$$::Eu ainda estou desejando com toda minha força.[lr]::
-67929::$$$message_0628_0043_0002$$$::Eu sei que é só um sonho que eu não posso fazer se tornar realidade, mas eu nunca pensei em desistir dele.::
-67930::$$$message_0628_0044_0000$$$::"[w l=8][line8]"[lr]::
-67931::$$$message_0628_0044_0001$$$::Então eu tenho que ir.[lr]::
-67932::$$$message_0628_0044_0002$$$::Eu tenho que salvar a Sakura e a Illya.[lr]::
+67926::$$$message_0628_0042_0005$$$::Vou continuar protegendo Illya, derrotar a Sombra e arrancar Sakura dela.::
+67927::$$$message_0628_0043_0000$$$::Esse é o milagre impossível pelo qual tenho desejado.[lr]::
+67928::$$$message_0628_0043_0001$$$::Mesmo agora, eu desejo esse desfecho com todas as fibras do meu ser.[lr]::
+67929::$$$message_0628_0043_0002$$$::Eu sei que é só um sonho[line2]um ideal[line2]que jamais poderei tornar real, mas nunca pensei em desistir dele.::
+67930::$$$message_0628_0044_0000$$$::[font italic=true]...[font italic=false][lr]::
+67931::$$$message_0628_0044_0001$$$::Então eu preciso ir.[lr]::
+67932::$$$message_0628_0044_0002$$$::Vou salvar Sakura e ajudar Illya.[lr]::
 67933::$$$message_0628_0044_0003$$$::É impossível.[lr]::
-67934::$$$message_0628_0044_0004$$$::A Sakura está encarando a morte, e somente destruição a espera.[lr]::
+67934::$$$message_0628_0044_0004$$$::Sakura está morrendo. À frente dela só há destruição.[lr]::
 67935::$$$message_0628_0044_0005$$$::Alguém disse que somente um milagre pode salvá-la.::
-67936::$$$message_0628_0045_0000$$$::[w l=4][line4]Isso mesmo.[lr]::
-67937::$$$message_0628_0045_0001$$$::Ajuda que é impossível com poderes humanos.[lr]::
-67938::$$$message_0628_0045_0002$$$::Se eu realizar um milagre que ultrapassa as capacidades humanas, eu vou precisar de uma compensação apropriada.[lr]::
-67939::$$$message_0628_0045_0003$$$::Eu não posso proteger a mim e a mais alguém.[lr]::
-67940::$$$message_0628_0045_0004$$$::Se alguém tem que tomar o lugar da Sakura para salvá-la...::
-67941::$$$message_0628_0045_0005$$$::...é ter outra pessoa trocando de lugar com ela?::
+67936::$$$message_0628_0045_0000$$$::Isso mesmo.[lr]::
+67937::$$$message_0628_0045_0001$$$::Uma salvação que mãos humanas não podem alcançar.[lr]::
+67938::$$$message_0628_0045_0002$$$::Para obter um milagre que você não pode realizar sozinho, é preciso pagar um preço à altura.[lr]::
+67939::$$$message_0628_0045_0003$$$::Não dá para salvar alguém e ainda proteger a si mesmo.[lr]::
+67940::$$$message_0628_0045_0004$$$::E se a única forma de resgatar Sakura desse destino de ruína...[lr]::
+67941::$$$message_0628_0045_0005$$$::...for alguém tomar o lugar dela?::
 67942::$$$message_0628_0046_0000$$$::O chão está tremendo.[lr]::
-67943::$$$message_0628_0046_0001$$$::A encarnação da tempestade está se aproximando.::
-67944::$$$message_0628_0047_0000$$$::"[w l=3][line3]Eu estou indo. Eu vou derrotá-lo, Illya."[lr]::
+67943::$$$message_0628_0046_0001$$$::Uma tempestade viva avança em nossa direção.::
+67944::$$$message_0628_0047_0000$$$::"...Eu vou sair. Tudo bem se eu acabar com ele, Illya?"[lr]::
 67945::$$$message_0628_0047_0001$$$::"Eh...?"[lr]::
-67946::$$$message_0628_0047_0002$$$::Ela olha para mim surpresa.[lr]::
-67947::$$$message_0628_0047_0003$$$::Illya percebe que minha mão direita está no meu braço esquerdo.::
-67948::$$$message_0628_0048_0000$$$::"Não...! Você não pode fazer isso! Você não vai voltar assim que você usar o braço do Archer...! Você vai morrer. Não, você vai ser morto antes! [chgfg textoff=0 time=300 storage=イリヤ06i(近)]Você não fez nada errado, então você não precisa ir tão longe...!"::
-67949::$$$message_0628_0049_0000$$$::"Eu vou aguentar. Eu vou de alguma forma aguentar mesmo que eu quase morra, então você não precisa se preocupar comigo.[lr]::
-67950::$$$message_0628_0049_0001$$$::Ah, e deixa eu te corrigir. Eu fiz coisas erradas também."::
-67951::$$$message_0628_0050_0000$$$::"Eh[w l=4][line4]Shirou...?"[lr]::
-67952::$$$message_0628_0050_0001$$$::"Então eu estou indo. Espera aqui, Illya."[lr]::
-67953::$$$message_0628_0050_0002$$$::Eu dou um tapinha carinhoso na sua cabeça e caminho para longe.::
+67946::$$$message_0628_0047_0002$$$::Illya levanta o rosto, chocada.[lr]::
+67947::$$$message_0628_0047_0003$$$::Ela percebe que minha mão direita está segurando o braço esquerdo.::
+67948::$$$message_0628_0048_0000$$$::"Não...! Você não pode fazer isso! Não tem volta depois que usar o braço do Archer...! Você vai morrer. Não, vão te matar antes disso. [chgfg top=213 textoff=0 time=300 storage=イリヤ06i(近)]Você não fez nada de errado, Shirou, então não precisa fazer isso consigo mesmo...!"::
+67949::$$$message_0628_0049_0000$$$::"Eu dou um jeito. Mesmo que pareça que vou morrer, ainda vou dar um jeito, então não se preocupe comigo, Illya.[lr]::
+67950::$$$message_0628_0049_0001$$$::Ah, mas deixa eu corrigir uma coisa. Eu fiz, sim, algo terrível."::
+67951::$$$message_0628_0050_0000$$$::"Hã? Shirou...?"[lr]::
+67952::$$$message_0628_0050_0001$$$::"Enfim, eu vou. Espere aqui."[lr]::
+67953::$$$message_0628_0050_0002$$$::Com a mão direita, dou um leve tapinha na cabeça de Illya e sigo pela trincheira.::
 67954::$$$message_0628_0051_0000$$$::Eu me afasto da Illya.[lr]::
 67955::$$$message_0628_0051_0001$$$::Eu vou atrair sua atenção e lutar de frente com ele.[lr]::
 67956::$$$message_0628_0051_0002$$$::Eu tenho que me afastar da Illya para ela não se envolver nessa luta.::
-67957::$$$message_0628_0052_0000$$$::"[w l=4][line4]Chegou a hora."[lr]::
-67958::$$$message_0628_0052_0001$$$::Eu coloco minha mão no nó que está no meu ombro.[lr]::
-67959::$$$message_0628_0052_0002$$$::O nó do meu pulso está apertado, então se eu quiser tirar esse manto, vai precisar ser por cima.[lr]::
-67960::$$$message_0628_0052_0003$$$::Eu só preciso puxar tudo depois disso.[lr]::
-67961::$$$message_0628_0052_0004$$$::Então eu vou ser assaltado por uma dor dez vezes pior que qualquer coisa que eu já tenha sofrido.::
-67962::$$$message_0628_0053_0000$$$::"[w l=8][line8]"[lr]::
-67963::$$$message_0628_0053_0001$$$::Kotomine disse que é a alavanca de uma bomba.[lr]::
-67964::$$$message_0628_0053_0002$$$::O fuso será aceso assim que eu a retirar.[lr]::
+67957::$$$message_0628_0052_0000$$$::"...Ele chegou."[lr]::
+67958::$$$message_0628_0052_0001$$$::Toco no nó que prende o Sudário Sagrado ao meu ombro esquerdo.[lr]::
+67959::$$$message_0628_0052_0002$$$::Ele está bem apertado no pulso, então preciso desfazê-lo pelo ombro.[lr]::
+67960::$$$message_0628_0052_0003$$$::Depois de solto, basta arrancar o resto de uma vez.[lr]::
+67961::$$$message_0628_0052_0004$$$::Quando eu fizer isso, a dor será dezenas de vezes pior que qualquer coisa que já suportei.::
+67962::$$$message_0628_0053_0000$$$::[font italic=true]...[font italic=false][lr]::
+67963::$$$message_0628_0053_0001$$$::Kotomine chamou isso de estopim de uma bomba-relógio.[lr]::
+67964::$$$message_0628_0053_0002$$$::O estopim acende no instante em que eu tirar o sudário.[lr]::
 67965::$$$message_0628_0053_0003$$$::Eu não sei se vai explodir no próximo minuto ou no próximo dia.[lr]::
-67966::$$$message_0628_0053_0004$$$::Tudo que eu sei é que você não pode apagar um fogo após ele ser aceso.::
-67967::$$$message_0628_0054_0000$$$::[w l=3][line3]Minha boca seca.[lr]::
-67968::$$$message_0628_0054_0001$$$::Medo não vai embora com determinação.[lr]::
-67969::$$$message_0628_0054_0002$$$::Eu quero gritar de puro terror.[lr]::
-67970::$$$message_0628_0054_0003$$$::[w l=3][line3]Se eu vou continuar são ou não.[lr]::
+67966::$$$message_0628_0053_0004$$$::Mas tenho certeza de uma coisa: não há como apagar a chama depois de acesa.::
+67967::$$$message_0628_0054_0000$$$::Minha boca está seca.[lr]::
+67968::$$$message_0628_0054_0001$$$::O medo não some só porque eu sei o que me espera.[lr]::
+67969::$$$message_0628_0054_0002$$$::Estou tão apavorado que quero gritar.[lr]::
+67970::$$$message_0628_0054_0003$$$::Será que vou continuar são?[lr]::
 67971::$$$message_0628_0054_0004$$$::Eu tenho medo de mim mesmo.::
-67972::$$$message_0628_0055_0000$$$::Minha morte será natural.[lr]::
-67973::$$$message_0628_0055_0001$$$::Eu vou ser morto mesmo se ficar aqui.[lr]::
-67974::$$$message_0628_0055_0002$$$::Se eu vou desaparecer de qualquer forma, eu vou escolher o método que vai me manter vivo por mais tempo.::
-67975::$$$message_0628_0056_0000$$$::Então só tem uma coisa que eu tenho medo.[lr]::
-67976::$$$message_0628_0056_0001$$$::E é a possibilidade de eu perder minha mente antes que meu corpo morra.::
-67977::$$$message_0628_0057_0000$$$::"Ha[w l=7][line7]aa."[lr]::
+67972::$$$message_0628_0055_0000$$$::É natural que eu morra.[lr]::
+67973::$$$message_0628_0055_0001$$$::Só de eu estar aqui, isso já é uma conclusão inevitável.[lr]::
+67974::$$$message_0628_0055_0002$$$::Mas, se vou morrer de qualquer jeito, quero continuar vivo o máximo que puder.::
+67975::$$$message_0628_0056_0000$$$::Então só há uma coisa de que eu tenho medo.[lr]::
+67976::$$$message_0628_0056_0001$$$::Espero que minha mente não se quebre antes do meu corpo.::
+67977::$$$message_0628_0057_0000$$$::"Hah... ah."[lr]::
 67978::$$$message_0628_0057_0001$$$::Eu vou ser capaz de aguentar a dor?[lr]::
-67979::$$$message_0628_0057_0002$$$::Eu talvez perca minha sanidade e esqueça da Illya e Sakura.[lr]::
-67980::$$$message_0628_0057_0003$$$::Eu talvez esqueça até da minha promessa de proteger elas.::
-67981::$$$message_0628_0058_0000$$$::É disso que eu tenho medo.[lr]::
-67982::$$$message_0628_0058_0001$$$::Essa é a única coisa que eu tenho medo.[lr]::
-67983::$$$message_0628_0058_0002$$$::É por isso que eu o selei.[lr]::
-67984::$$$message_0628_0058_0003$$$::Eu sei que eu não posso usar esse braço mesmo se minha vida estiver em risco.::
-67985::$$$message_0628_0059_0000$$$::...A aparência do Berserker não é da conta de outra pessoa.[lr]::
-67986::$$$message_0628_0059_0001$$$::Eu vou ser como ele se eu desistir pra dor e perder minha mente.[lr]::
-67987::$$$message_0628_0059_0002$$$::Não, o medo sempre estará comigo contanto que esse braço exista.[lr]::
-67988::$$$message_0628_0059_0003$$$::Esse braço é a encarnação do pesadelo que tenta me matar.[lr]::
-67989::$$$message_0628_0059_0004$$$::Mas.[lr]::
-67990::$$$message_0628_0059_0005$$$::Por que eu mantive esse braço mesmo assim?::
-67991::$$$message_0628_0060_0000$$$::[w l=4][line4]Então corte ele fora.[lr]::
-67992::$$$message_0628_0060_0001$$$::Só há um motivo.[lr]::
-67993::$$$message_0628_0060_0002$$$::Esse braço existe para ser usado, e ele me confiou com isso porque será necessário.::
+67979::$$$message_0628_0057_0002$$$::Será que vou esquecer quem eu sou, quem Illya é, antes mesmo de a luta começar?[lr]::
+67980::$$$message_0628_0057_0003$$$::Será que vou até esquecer a promessa de protegê-la?::
+67981::$$$message_0628_0058_0000$$$::É disso que eu tenho medo,[lr]::
+67982::$$$message_0628_0058_0001$$$::mais do que qualquer outra coisa.[lr]::
+67983::$$$message_0628_0058_0002$$$::É por isso que mantive isto selado.[lr]::
+67984::$$$message_0628_0058_0003$$$::Decidi que jamais usaria este braço, mesmo que minha vida estivesse em risco.::
+67985::$$$message_0628_0059_0000$$$::...O que aconteceu com Berserker também pode acontecer comigo.[lr]::
+67986::$$$message_0628_0059_0001$$$::Posso ceder à dor, perder a sanidade e virar algo como aquilo.[lr]::
+67987::$$$message_0628_0059_0002$$$::Vou temer isso enquanto este braço esquerdo existir.[lr]::
+67988::$$$message_0628_0059_0003$$$::Este braço é a encarnação dos pesadelos em que eu morro.[lr]::
+67989::$$$message_0628_0059_0004$$$::E, mesmo assim...[lr]::
+67990::$$$message_0628_0059_0005$$$::Se eu sei de tudo isso, então por que ainda estou aqui?::
+67991::$$$message_0628_0060_0000$$$::Não pense nisso.[lr]::
+67992::$$$message_0628_0060_0001$$$::Quando penso assim, só existe uma razão para eu ainda estar aqui.[lr]::
+67993::$$$message_0628_0060_0002$$$::Ele queria que eu continuasse vivo até chegar a hora de usar este braço. Sabia que eu precisaria dele, por isso o confiou a mim.::
 67994::$$$message_0628_0061_0000$$$::Ele disse que eu serei julgado por mim mesmo.[lr]::
 67995::$$$message_0628_0061_0001$$$::Illya disse que eu não fiz nada ruim.::
-67996::$$$message_0628_0062_0000$$$::"Sim[w l=4][line4]isso é bom o suficiente."[lr]::
-67997::$$$message_0628_0062_0001$$$::O perdão está aqui.[lr]::
-67998::$$$message_0628_0062_0002$$$::Eu traí a mim mesmo e sacrifiquei várias vidas.[lr]::
-67999::$$$message_0628_0062_0003$$$::Há algo que eu não posso desistir, e é por isso que eu vou continuar a viver.::
-68000::$$$message_0628_0063_0000$$$::Eu coloco minha mão da penalidade vermelha.[lr]::
-68001::$$$message_0628_0063_0001$$$::Viver ou morrer.[lr]::
-68002::$$$message_0628_0063_0002$$$::Eu respiro fundo e rasgo o mant[w l=4][line4]::
-68003::$$$message_0628_0064_0000$$$::Nesse instante.[lr]::
-68004::$$$message_0628_0064_0001$$$::O mundo é esmagado.::
+67996::$$$message_0628_0062_0000$$$::"Sim... isso basta."[lr]::
+67997::$$$message_0628_0062_0001$$$::É aqui que eu me redimo.[lr]::
+67998::$$$message_0628_0062_0002$$$::Traí a mim mesmo e sacrifiquei tantas vidas.[lr]::
+67999::$$$message_0628_0062_0003$$$::Mas ainda existe algo do qual não abrirei mão, e continuarei vivendo por isso.::
+68000::$$$message_0628_0063_0000$$$::Concentro minha força na punição vermelha do meu braço.[lr]::
+68001::$$$message_0628_0063_0001$$$::Vou viver ou vou morrer?[lr]::
+68002::$$$message_0628_0063_0002$$$::Eu respiro fundo, me preparo para o que está por vir, e rasgo o sudário[line2]::
+68003::$$$message_0628_0064_0000$$$::Num instante.[lr]::
+68004::$$$message_0628_0064_0001$$$::O mundo desmorona.[rf]::
 68005::$$$message_0628_0065_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line22], [say storage=sak1510_shi_0230]Ah."::
-68006::$$$message_0628_0066_0000$$$::Desespero explosivo.[lr]::
-68007::$$$message_0628_0066_0001$$$::Um forte vento que está mais rápido que cem metros por segundo.[lr]::
-68008::$$$message_0628_0066_0002$$$::Um feroz vento que não permite a existência de coisas vivas, muito menos que alguém se mantenha de pé.[lr]::
-68009::$$$message_0628_0066_0003$$$::Logo, não é um vento.[lr]::
-68010::$$$message_0628_0066_0004$$$::É ferro, e meu corpo é esmagado pela pressão.::
+68006::$$$message_0628_0066_0000$$$::O desespero uiva.[lr]::
+68007::$$$message_0628_0066_0001$$$::A rajada ultrapassa cem metros por segundo.[lr]::
+68008::$$$message_0628_0066_0002$$$::Sou açoitado por uma tempestade que nenhum ser vivo, nenhum ser humano, conseguiria suportar.[lr]::
+68009::$$$message_0628_0066_0003$$$::Isso já nem pode mais ser chamado de vento.[lr]::
+68010::$$$message_0628_0066_0004$$$::A pressão do ar é uma tempestade de aço esmagando meu corpo.::
 68011::$$$message_0628_0067_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line21], [say storage=sak1510_shi_0240]Gah..."::
-68012::$$$message_0628_0068_0000$$$::Meus glóbulos oculares são esmagados.[lr]::
-68013::$$$message_0628_0068_0001$$$::Minhas costas afundam na parede.[lr]::
-68014::$$$message_0628_0068_0002$$$::Eu não consigo levantar minha mão ou meus dedos.[lr]::
-68015::$$$message_0628_0068_0003$$$::Meu corpo flui para trás.[lr]::
-68016::$$$message_0628_0068_0004$$$::Minha mente está manchada de branco.[lr]::
+68012::$$$message_0628_0068_0000$$$::Ela esmaga meus globos oculares.[lr]::
+68013::$$$message_0628_0068_0001$$$::Me espreme contra a parede.[lr]::
+68014::$$$message_0628_0068_0002$$$::Não consigo mover um dedo, muito menos levantar os braços.[lr]::
+68015::$$$message_0628_0068_0003$$$::Meu sangue corre ao contrário.[lr]::
+68016::$$$message_0628_0068_0004$$$::Minha mente fica branca.[lr]::
 68017::$$$message_0628_0068_0005$$$::Não há dor.[lr]::
-68018::$$$message_0628_0068_0006$$$::Sentir dor e aguentar é algo muito humano para acontecer aqui.::
+68018::$$$message_0628_0068_0006$$$::A ideia de sentir e suportar dor é humana demais para existir aqui.::
 68019::$$$message_0628_0069_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line21][say storage=sak1510_shi_0250]Ah, ahh."::
-68020::$$$message_0628_0070_0000$$$::Eu estou derretendo.[lr]::
-68021::$$$message_0628_0070_0001$$$::Eu não consigo nem gemer em protesto.[lr]::
-68022::$$$message_0628_0070_0002$$$::Não há nada.[lr]::
-68023::$$$message_0628_0070_0003$$$::Eu não tenho como lutar com isso.[lr]::
-68024::$$$message_0628_0070_0004$$$::Eu tenho que seguir em frente, mas eu não consigo mover um dedo.::
+68020::$$$message_0628_0070_0000$$$::Eu derreto.[lr]::
+68021::$$$message_0628_0070_0001$$$::Nem gritar em desafio eu consigo.[lr]::
+68022::$$$message_0628_0070_0002$$$::Não tenho nada.[lr]::
+68023::$$$message_0628_0070_0003$$$::Não tenho como resistir.[lr]::
+68024::$$$message_0628_0070_0004$$$::Preciso seguir em frente, mas não consigo mover um dedo.::
 68025::$$$message_0628_0071_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line21][say storage=sak1510_shi_0260]Ahh, ah."::
-68026::$$$message_0628_0072_0000$$$::Eu estou derretendo na branquidão.[lr]::
-68027::$$$message_0628_0072_0001$$$::Meu corpo e mente incessantemente se despedaçam.[lr]::
-68028::$$$message_0628_0072_0002$$$::Siga em frente.[lr]::
-68029::$$$message_0628_0072_0003$$$::Por que eu estou aqui?[lr]::
-68030::$$$message_0628_0072_0004$$$::Continue seguindo em frente.[lr]::
-68031::$$$message_0628_0072_0005$$$::Por o que eu estou aqui?[lr]::
-68032::$$$message_0628_0072_0006$$$::Vá para o outro lado.[lr]::
-68033::$$$message_0628_0072_0007$$$::Por que eu estou lutando?[lr]::
-68034::$$$message_0628_0072_0008$$$::Passe pelo vento e siga em frente.::
+68026::$$$message_0628_0072_0000$$$::Eu derreto dentro desse branco.[lr]::
+68027::$$$message_0628_0072_0001$$$::Meu corpo e minha mente se desfazem num vazio sem sentido.[lr]::
+68028::$$$message_0628_0072_0002$$$::Em frente.[lr]::
+68029::$$$message_0628_0072_0003$$$::Por que estou aqui?[lr]::
+68030::$$$message_0628_0072_0004$$$::Ainda em frente.[lr]::
+68031::$$$message_0628_0072_0005$$$::Para que eu me tornei isso?[lr]::
+68032::$$$message_0628_0072_0006$$$::Além.[lr]::
+68033::$$$message_0628_0072_0007$$$::Por que estou lutando?[lr]::
+68034::$$$message_0628_0072_0008$$$::Atravesse esse vendaval e siga em frente.::
 68035::$$$message_0628_0073_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line24]"::
-68036::$$$message_0628_0074_0000$$$::[w l=4][line4]Eu estou desaparecendo.[lr]::
-68037::$$$message_0628_0074_0001$$$::Meu corpo já perdeu, mas eu ranjo meus dentes, não deixando minha mente perder... Mas minha mente está desaparecendo.::
-68038::$$$message_0628_0075_0000$$$::Eu não vou conseguir.[lr]::
+68036::$$$message_0628_0074_0000$$$::Estou desaparecendo.[lr]::
+68037::$$$message_0628_0074_0001$$$::Meu corpo já tinha perdido fazia muito tempo, mas minha mente resistiu até aqui. Agora, porém, ela também desaparece.::
+68038::$$$message_0628_0075_0000$$$::Não vou aguentar.[lr]::
 68039::$$$message_0628_0075_0001$$$::Eu não consigo me mover, não importa o quanto eu tente.[lr]::
-68040::$$$message_0628_0075_0002$$$::Eu não consigo ficar, não importa o quão determinado eu esteja.[lr]::
-68041::$$$message_0628_0075_0003$$$::Eu tento apertar meu punho direito com minha existência inteira em risco.[lr]::
-68042::$$$message_0628_0075_0004$$$::Se eu conseguir, eu vou conseguir aguentar.[lr]::
-68043::$$$message_0628_0075_0005$$$::Se eu conseguir mover qualquer parte do meu corpo, eu consigo usar isso para seguir em frente.::
+68040::$$$message_0628_0075_0002$$$::Não consigo me manter, por maior que seja minha determinação.[lr]::
+68041::$$$message_0628_0075_0003$$$::Concentro toda a minha existência em cerrar o punho direito.[lr]::
+68042::$$$message_0628_0075_0004$$$::Se eu conseguir, ainda posso firmar os pés.[lr]::
+68043::$$$message_0628_0075_0005$$$::Se eu mover qualquer parte do corpo, vou usar isso como apoio para avançar.::
 68044::$$$message_0628_0076_0000$$$::Eu não consigo mover um dedo, muito menos fazer um punho.[lr]::
-68045::$$$message_0628_0076_0001$$$::Meu olho esquerdo está esmagado.[lr]::
-68046::$$$message_0628_0076_0002$$$::O fluxo de vento rompe meus tímpanos.[lr]::
-68047::$$$message_0628_0076_0003$$$::Minha visão desvanesce.[lr]::
-68048::$$$message_0628_0076_0004$$$::Dentro disso...[lr]::
-68049::$$$message_0628_0076_0005$$$::Eu vejo uma imagem inacreditável.::
+68045::$$$message_0628_0076_0001$$$::Meu olho esquerdo está pulverizado.[lr]::
+68046::$$$message_0628_0076_0002$$$::O vento uivante perfura meus tímpanos.[lr]::
+68047::$$$message_0628_0076_0003$$$::Minha consciência e minha visão estão se apagando.[lr]::
+68048::$$$message_0628_0076_0004$$$::Em meio a tudo isso...[lr]::
+68049::$$$message_0628_0076_0005$$$::Eu vejo uma visão impossível.::
 68050::$$$message_0628_0077_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line23][say storage=sak1510_shi_0280]Ah."::
 68051::$$$message_0628_0078_0000$$$::Ele está de pé.[lr]::
 68052::$$$message_0628_0078_0001$$$::Ele está de pé nesse vento.[lr]::
-68053::$$$message_0628_0078_0002$$$::Ele está de pé, caminhando até o outro lado.[lr]::
-68054::$$$message_0628_0078_0003$$$::[w l=3][line3]Como se fosse algo óbvio.[lr]::
-68055::$$$message_0628_0078_0004$$$::O vento de ferro não tem efeito nele. Ele caminha para frente, com sua capa vermelha flutuando atrás dele.::
+68053::$$$message_0628_0078_0002$$$::Ele tenta alcançar o outro lado.[lr]::
+68054::$$$message_0628_0078_0003$$$::Como se isso fosse o natural.[lr]::
+68055::$$$message_0628_0078_0004$$$::Ele atravessa o vento de aço, com a capa escarlate esvoaçando atrás de si.::
 68056::$$$message_0628_0079_0000$$$::                     "[line24][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line25][nolr][br]                     [line21][say storage=sak1510_shi_0290]Ahh, ah."::
-68057::$$$message_0628_0080_0000$$$::Força retorna a minha mandíbula.[lr]::
-68058::$$$message_0628_0080_0001$$$::Eu aperto meus dentes.[lr]::
+68057::$$$message_0628_0080_0000$$$::Trinco a mandíbula.[lr]::
+68058::$$$message_0628_0080_0001$$$::Ouço meus dentes rangerem.[lr]::
 68059::$$$message_0628_0080_0002$$$::Minha mão direita já está formando um punho.::
-68060::$$$message_0628_0081_0000$$$::O cavalheiro vermelho não me percebe.[lr]::
-68061::$$$message_0628_0081_0001$$$::Fazendo uma expressão séria, seu rosto esta levemente virado, mostrando zero interesse em mim enquanto o vento corre para me englobar.::
-68062::$$$message_0628_0082_0000$$$::Para ele, esse resultado era esperado.[lr]::
+68060::$$$message_0628_0081_0000$$$::O cavaleiro vermelho não olha para mim.[lr]::
+68061::$$$message_0628_0081_0001$$$::Ele vira um pouco o rosto, sombrio, e não demonstra o menor interesse por mim enquanto o vendaval ameaça me engolir.::
+68062::$$$message_0628_0082_0000$$$::Ele previu este resultado.[lr]::
 68063::$$$message_0628_0082_0001$$$::Emiya Shirou não consegue aguentar esse ventp.[lr]::
-68064::$$$message_0628_0082_0002$$$::Ele sabia que não havia futuro para o homem que traiu a si mesmo e desejou por algo fora do seu alcance.::
+68064::$$$message_0628_0082_0002$$$::Ele sempre soube que não existe futuro para um homem que trai a si mesmo e se agarra a desejos que não consegue suportar.::
 68065::$$$message_0628_0083_0000$$$::Ele está certo.[lr]::
-68066::$$$message_0628_0083_0001$$$::Os crimes que eu acumulei irão me julgar.[lr]::
-68067::$$$message_0628_0083_0002$$$::Mas ele...::
-68068::$$$message_0628_0084_0000$$$::'[w l=4][line4]Você consegue me acompanhar?'::
-68069::$$$message_0628_0085_0000$$$::Como se me provocando, como se acreditando em mim.[lr]::
-68070::$$$message_0628_0085_0001$$$::Ele está esperando por mim para chegar lá.::
-68071::$$$message_0628_0086_0000$$$::"      [w l=4][line4]Não é 'você consegue me acompanhar'."::
+68066::$$$message_0628_0083_0001$$$::Um dia, serei julgado por todos os meus crimes acumulados.[lr]::
+68067::$$$message_0628_0083_0002$$$::E, mesmo assim, suas costas parecem dizer...::
+68068::$$$message_0628_0084_0000$$$::'Você consegue me acompanhar?'::
+68069::$$$message_0628_0085_0000$$$::Com desprezo. Com fé.[lr]::
+68070::$$$message_0628_0085_0001$$$::Ele está esperando que eu chegue até lá.::
+68071::$$$message_0628_0086_0000$$$::"Não sou eu que preciso te acompanhar..."::
 68072::$$$message_0628_0087_0000$$$::Minha visão esquenta.[lr]::
-68073::$$$message_0628_0087_0001$$$::Eu forço o máximo de calor que eu consigo no meu corpo.[lr]::
-68074::$$$message_0628_0087_0002$$$::Meus membros cortam pelo vento como espadas gigantes.::
-68075::$$$message_0628_0088_0000$$$::"Você que me acompanha[w l=4][line4]!"::
-68076::$$$message_0628_0089_0000$$$::Eu passo a figura vermelha com toda minha força.::
+68073::$$$message_0628_0087_0001$$$::O calor explode dentro deste corpo sem sentido.[lr]::
+68074::$$$message_0628_0087_0002$$$::Meus membros cortam o vento como se eu brandisse espadas gigantes.::
+68075::$$$message_0628_0088_0000$$$::"[font italic=true]É você quem tem que me acompanhar!!![font italic=false]"::
+68076::$$$message_0628_0089_0000$$$::Passo pela silhueta vermelha com toda a minha força.::
 68077::$$$message_0628_0090_0000$$$::"[wacky len=14]"[lr]::
 68078::$$$message_0628_0090_0001$$$::Eu piso no chão.[lr]::
-68079::$$$message_0628_0090_0002$$$::O vento se acalmou.[lr]::
-68080::$$$message_0628_0090_0003$$$::Eu estou há trinta metros do gigante preto.[lr]::
-68081::$$$message_0628_0090_0004$$$::Vai levar menos de três segundos para ele diminuir essa distância.[lr]::
-68082::$$$message_0628_0090_0005$$$::[w l=3][line3]Logo.[lr]::
-68083::$$$message_0628_0090_0006$$$::O resultado dessa batalha será decidido nos próximos três segundos.::
-68084::$$$message_0628_0091_0000$$$::Minha mente está limpa.[lr]::
-68085::$$$message_0628_0091_0001$$$::Eu sei o tamanho do meu poder.[lr]::
-68086::$$$message_0628_0091_0002$$$::Projeção usando o conceito de criação, estrutura básica, composição, técnica de produção, experiência de crescimento, e anos acumulados.[lr]::
-68087::$$$message_0628_0091_0003$$$::Uma Projeção de Realidade que inverte o mundo gravado na sua alma, a encarnação do mundo mental usado na teoria da taumaturgia, o ovo do mundo.[lr]::
-68088::$$$message_0628_0091_0004$$$::Herança da técnica de batalha, experiência, e força física do Archer. Correção. Erro ao ler força física. Eu ainda vou ser morto em um golpe.::
-68089::$$$message_0628_0092_0000$$$::Projeção de Realidade, "Unlimited Blade Works", não é usável.[lr]::
-68090::$$$message_0628_0092_0001$$$::O mundo do Archer e o meu são diferentes. Eu não consigo reproduzir.[lr]::
-68091::$$$message_0628_0092_0002$$$::Eu só consigo reproduzir o que Emiya Shirou aprendeu, ou os Fantasmas Nobres que ele gravou.[lr]::
-68092::$$$message_0628_0092_0003$$$::Se eu for usar um Fantasma Nobre do meu braço esquerdo, eu preciso procurar dentro do "Unlimited Blade Works" pelo Fantasma Nobre mais apropriado e reproduzi-lo.::
-68093::$$$message_0628_0093_0000$$$::Mas esteja avisado.[lr]::
+68079::$$$message_0628_0090_0002$$$::O vento cessou.[lr]::
+68080::$$$message_0628_0090_0003$$$::O gigante escuro está a trinta metros de distância.[lr]::
+68081::$$$message_0628_0090_0004$$$::Ele me alcança em menos de três segundos.[lr]::
+68082::$$$message_0628_0090_0005$$$::Por isso...[lr]::
+68083::$$$message_0628_0090_0006$$$::Vou encerrar tudo em três segundos.::
+68084::$$$message_0628_0091_0000$$$::Minha mente está afiada como uma lâmina.[lr]::
+68085::$$$message_0628_0091_0001$$$::Eu conheço o tamanho do meu próprio poder.[lr]::
+68086::$$$message_0628_0091_0002$$$::A Projeção de matéria, valendo-se dos princípios da criação, dos pontos fundamentais, dos materiais estruturais, das técnicas de fabricação, da experiência do portador e do tempo acumulado.[lr]::
+68087::$$$message_0628_0091_0003$$$::Uma Projeção de Realidade que projeta sobre o mundo o mapa do mundo gravado na minha alma. A manifestação do meu mundo interior segundo a teoria mágica do Ovo do Mundo.[lr]::
+68088::$$$message_0628_0091_0004$$$::Eu herdo as técnicas de batalha, a experiência acumulada e a força física do Archer. Correção[line2]falhei em reproduzir sua constituição física. Ainda vou morrer se Berserker me golpear.::
+68089::$$$message_0628_0092_0000$$$::Não posso usar a Projeção de Realidade dele, Unlimited Blade Works.[lr]::
+68090::$$$message_0628_0092_0001$$$::O mundo interior do Archer é diferente do meu. Não consigo reproduzi-lo.[lr]::
+68091::$$$message_0628_0092_0002$$$::Tudo o que posso replicar são os Fantasmas Nobres gravados nele e as coisas que Emiya Shirou aprendeu pessoalmente.[lr]::
+68092::$$$message_0628_0092_0003$$$::Se eu decidir puxar um Fantasma Nobre do meu braço esquerdo, ele vai procurar em Unlimited Blade Works a arma mais adequada ao meu propósito e reproduzi-la.::
+68093::$$$message_0628_0093_0000$$$::Mas fica o aviso.[lr]::
 68094::$$$message_0628_0093_0001$$$::Projeção é uma faca de dois gumes.[lr]::
-68095::$$$message_0628_0093_0002$$$::Se você usar ela uma vez, ela vai[w l=4][line4]::
-68096::$$$message_0628_0094_0000$$$::"[w l=8][line8]"[lr]::
-68097::$$$message_0628_0094_0001$$$::Eu seguro minha respiração e coloco toda minha energia mágica no meu braço esquerdo.[lr]::
-68098::$$$message_0628_0094_0002$$$::Eu só preciso entender as armas que eu posso usar.[lr]::
-68099::$$$message_0628_0094_0003$$$::Eu já conheço as precauções.[lr]::
-68100::$$$message_0628_0094_0004$$$::Eu tenho que seguir em frente.[lr]::
-68101::$$$message_0628_0094_0005$$$::Eu tenho que ir além desse vento e derrotar a mim mesmo[w l=4][line4]::
-68102::$$$message_0628_0095_0000$$$::"[w l=4][line4]Trace, on."[lr]::
-68103::$$$message_0628_0095_0001$$$::Eu a encaro.[lr]::
-68104::$$$message_0628_0095_0002$$$::Eu vejo através da sua espada gigante.[lr]::
-68105::$$$message_0628_0095_0003$$$::Eu abro minha mão esquerda e agarro o punhal imaginário da arma que ainda não existe.[lr]::
-68106::$$$message_0628_0095_0004$$$::Um peso extraordinário.[lr]::
-68107::$$$message_0628_0095_0005$$$::Emiya Shirou não consegue aguentar essa espada gigante.[lr]::
-68108::$$$message_0628_0095_0006$$$::Mas[w l=3][line3]meu braço esquerdo irá definitivamente reproduzir a força do meu inimigo.::
-68109::$$$message_0628_0096_0000$$$::"Ah[w l=8][line8]"[lr]::
-68110::$$$message_0628_0096_0001$$$::Uma parte quebra.[lr]::
-68111::$$$message_0628_0096_0002$$$::Uma parte do meu cérebro explode.[lr]::
-68112::$$$message_0628_0096_0003$$$::Meus ossos quebram, não sendo capazes de aguentar a energia mágica transbordando. É desagradável de ver como a pele de uma maçã.::
-68113::$$$message_0628_0097_0000$$$::"Aqui vou eu[w l=8][line8]"[lr]::
-68114::$$$message_0628_0097_0001$$$::Não há porque se preocupar.[lr]::
-68115::$$$message_0628_0097_0002$$$::O braço ira reforçar as partes quebradas.[lr]::
-68116::$$$message_0628_0097_0003$$$::Eu vou dar minha atenção incontestável para matar ele com certeza.::
+68095::$$$message_0628_0093_0002$$$::Se eu a usar uma única vez, vou...::
+68096::$$$message_0628_0094_0000$$$::[font italic=true]...[font italic=false][lr]::
+68097::$$$message_0628_0094_0001$$$::Prendo a respiração e despejo toda a minha Energia Mágica no braço esquerdo.[lr]::
+68098::$$$message_0628_0094_0002$$$::Só preciso de uma arma que eu consiga usar.[lr]::
+68099::$$$message_0628_0094_0003$$$::Conheço bem os riscos.[lr]::
+68100::$$$message_0628_0094_0004$$$::Mais adiante.[lr]::
+68101::$$$message_0628_0094_0005$$$::Vou além deste vendaval e abaterei a mim mesmo...::
+68102::$$$message_0628_0095_0000$$$::"[font italic=true]Trace, on. (Iniciar Projeção.)[font italic=false]"[lr]::
+68103::$$$message_0628_0095_0001$$$::Eu o encaro.[lr]::
+68104::$$$message_0628_0095_0002$$$::Examino cada milímetro da espada gigante.[lr]::
+68105::$$$message_0628_0095_0003$$$::Abro a mão esquerda e seguro uma arma imaginária que ainda nem apareceu.[lr]::
+68106::$$$message_0628_0095_0004$$$::Ela é monstruosamente pesada.[lr]::
+68107::$$$message_0628_0095_0005$$$::Emiya Shirou não consegue manejar esta espada.[lr]::
+68108::$$$message_0628_0095_0006$$$::Mas este braço esquerdo pode reproduzir a força monstruosa do meu inimigo.::
+68109::$$$message_0628_0096_0000$$$::"...Agh."[lr]::
+68110::$$$message_0628_0096_0001$$$::Alguma coisa quebra.[lr]::
+68111::$$$message_0628_0096_0002$$$::Uma parte do meu peito se estilhaça com um som metálico.[lr]::
+68112::$$$message_0628_0096_0003$$$::Meu esqueleto cede sob o fluxo de Energia Mágica. É patético, como a casca de uma maçã.::
+68113::$$$message_0628_0097_0000$$$::"...Lá vou eu."[lr]::
+68114::$$$message_0628_0097_0001$$$::Já não faz sentido me preocupar.[lr]::
+68115::$$$message_0628_0097_0002$$$::O braço vai compensar o que se partiu.[lr]::
+68116::$$$message_0628_0097_0003$$$::Dedico toda a minha atenção a matar meu inimigo.::
 68117::$$$message_0628_0098_0000$$$::"[wacky len=12]!"[lr]::
-68118::$$$message_0628_0098_0001$$$::Ele me percebe.[lr]::
-68119::$$$message_0628_0098_0002$$$::Sua hostilidade tem um novo foco.[lr]::
-68120::$$$message_0628_0098_0003$$$::Reconhecendo meu uso de taumaturgia como uma ameaça, seus olhos se movem.::
-68121::$$$message_0628_0099_0000$$$::Eles são como estrelas ominosas.[lr]::
-68122::$$$message_0628_0099_0001$$$::O gigante solta um grito de morte e corre até seu inimigo.::
-68123::$$$message_0628_0100_0000$$$::[w l=3][line3]Guerreiro enlouquecido.[lr]::
-68124::$$$message_0628_0100_0001$$$::Esse gigante é insano, mas ele ainda é o mesmo.[lr]::
-68125::$$$message_0628_0100_0002$$$::Ele ainda está lutando sua batalha contra a Saber.[lr]::
-68126::$$$message_0628_0100_0003$$$::Ele é cego e insano, sua vida acabou duas vezes, e seu corpo está apodrecendo, mas ele ainda está lutando para proteger a Illya.::
+68118::$$$message_0628_0098_0001$$$::Ele percebeu.[lr]::
+68119::$$$message_0628_0098_0002$$$::Sua sede de sangue se fixa em mim.[lr]::
+68120::$$$message_0628_0098_0003$$$::O gigante escuro reconhece minha magia como um ato hostil, e seus olhos se movem.::
+68121::$$$message_0628_0099_0000$$$::São como estrelas negras e agourentas.[lr]::
+68122::$$$message_0628_0099_0001$$$::O gigante solta um rugido de morte e investe para massacrar seu inimigo.::
+68123::$$$message_0628_0100_0000$$$::Berserker.[lr]::
+68124::$$$message_0628_0100_0001$$$::Em sua fúria, o gigante não mudou.[lr]::
+68125::$$$message_0628_0100_0002$$$::Ele continua preso à batalha contra Saber.[lr]::
+68126::$$$message_0628_0100_0003$$$::Cego, insano e apodrecendo, ele encara uma segunda morte enquanto ainda luta para proteger Illya.::
 68127::$$$message_0628_0101_0000$$$::[line10]Um segundo.::
-68128::$$$message_0628_0102_0000$$$::"[w l=8][line8]"[lr]::
-68129::$$$message_0628_0102_0001$$$::O gigante correndo não irá parar com um golpe, e projeção normal é inútil contra ele.[lr]::
-68130::$$$message_0628_0102_0002$$$::Tracing não vai ser o suficiente.[lr]::
-68131::$$$message_0628_0102_0003$$$::Eu não consigo derrotar esse gigante a não ser que eu use projeção além dos meus limites.[lr]::
-68132::$$$message_0628_0102_0004$$$::Logo[w l=3][line3]::
-68133::$$$message_0628_0103_0000$$$::"[w l=4][line4]Gatilho, Desligado."::
-68134::$$$message_0628_0104_0000$$$::Nove na minha cabeça.[lr]::
-68135::$$$message_0628_0104_0001$$$::Eu uso todos os vinte e sete circuitos mágicos na minha cabeça e os esmago em um golpe[w l=4][line4]::
+68128::$$$message_0628_0102_0000$$$::[font italic=true]...[font italic=false][lr]::
+68129::$$$message_0628_0102_0001$$$::O gigante em carga não vai parar com um único ataque, e Projeções normais não vão me salvar.[lr]::
+68130::$$$message_0628_0102_0002$$$::Minhas Projeções derivadas de Trace não funcionarão contra ele.[lr]::
+68131::$$$message_0628_0102_0003$$$::Não consigo derrotar esse gigante a menos que Projete algo além dos meus limites.[lr]::
+68132::$$$message_0628_0102_0004$$$::Então...::
+68133::$$$message_0628_0103_0000$$$::"...[font italic=true]Gatilho, desligado. (Carregar Projeção.)[font italic=false]"::
+68134::$$$message_0628_0104_0000$$$::Visualizo nove golpes.[lr]::
+68135::$$$message_0628_0104_0001$$$::Eu me abaixo do primeiro ataque e ativo de uma só vez os vinte e sete Circuitos Mágicos latentes do meu corpo.::
 68136::$$$message_0628_0105_0000$$$::[line10]Dois segundos.::
-68137::$$$message_0628_0106_0000$$$::Ele está bem na minha frente. Sua espada massiva é levantada.[lr]::
-68138::$$$message_0628_0106_0001$$$::Vigor em torrencial rodopiando.[lr]::
-68139::$$$message_0628_0106_0002$$$::Ele dá um passo para frente, e eu o confronto também dando um passo a frente.[lr]::
-68140::$$$message_0628_0106_0003$$$::Braço superior, clavícula, traqueia, têmpora, diafragma, costela, testículos, e coxa.[lr]::
-68141::$$$message_0628_0106_0004$$$::Eu miro nos oito alvos.[lr]::
-68142::$$$message_0628_0107_0000$$$::Eu supero a velocidade do som usando uma velocidade divina[w l=3][line3]!::
-68143::$$$message_0628_0108_0000$$$::"[wacky len=5][w l=3][line3]......!"[lr]::
+68137::$$$message_0628_0106_0000$$$::Ele já está diante de mim. A espada gigante desce.[lr]::
+68138::$$$message_0628_0106_0001$$$::A pressão do ar me açoita com violência.[lr]::
+68139::$$$message_0628_0106_0002$$$::Dou um passo à frente para enfrentar o ataque.[lr]::
+68140::$$$message_0628_0106_0003$$$::Minha mira se fixa em oito pontos vitais.[lr]::
+68141::$$$message_0628_0106_0004$$$::"[font italic=true]Pronto. (Projeção ômnica de processos, concluída.)[line4]Nine Lives Blade Works. (Agora, eu ceifo Cem Cabeças.)[font italic=false]"::
+68142::$$$message_0628_0107_0000$$$::E ultrapasso sua velocidade supersônica com uma rapidez quase divina!::
+68143::$$$message_0628_0108_0000$$$::"[wacky len=5][line3]...!"[lr]::
 68144::$$$message_0628_0108_0001$$$::Ele não cai.[lr]::
-68145::$$$message_0628_0108_0002$$$::Seu corpo inteiro foi rasgado por sua própria arma, mas o Berserker ainda está vivo.::
-68146::$$$message_0628_0109_0000$$$::"Haa[w l=4][line4]ah[w l=4][line4]......!!!!"[lr]::
-68147::$$$message_0628_0109_0001$$$::Eu dou um passo para frente.[lr]::
-68148::$$$message_0628_0109_0002$$$::Sua arma está na minha mão esquerda.[lr]::
+68145::$$$message_0628_0108_0002$$$::Berserker continua de pé, mesmo dilacerado pela própria arma.::
+68146::$$$message_0628_0109_0000$$$::"Haah... argh...!!!"[lr]::
+68147::$$$message_0628_0109_0001$$$::Dou mais um passo à frente.[lr]::
+68148::$$$message_0628_0109_0002$$$::Minha mão esquerda segura uma espada gigante.[lr]::
 68149::$$$message_0628_0109_0003$$$::Eu sou mais rápido.[lr]::
-68150::$$$message_0628_0109_0004$$$::Eu consigo acertar um golpe final antes do Berserker, que está sem um oitavo do seu corpo.[lr]::
-68151::$$$message_0628_0109_0005$$$::Eu levando a gigante espada até seu peito e enfio como uma lança.::
-68152::$$$message_0628_0110_0000$$$::"[wacky len=16][w l=4][line4]!!!!"[lr]::
-68153::$$$message_0628_0110_0001$$$::Mas eu perdi.[lr]::
-68154::$$$message_0628_0110_0002$$$::Eu coloquei tudo que eu tinha nesse golpe.[lr]::
-68155::$$$message_0628_0110_0003$$$::Eu usei toda gota de vantagem injusta que eu tinha, mas ainda não foi o suficiente.[lr]::
-68156::$$$message_0628_0110_0004$$$::O ataque do Berserker se aproxima.[lr]::
-68157::$$$message_0628_0110_0005$$$::É balançado para baixo com a força de um furacão.::
-68158::$$$message_0628_0111_0000$$$::"[w l=8][line8]"[lr]::
-68159::$$$message_0628_0111_0001$$$::Eu contorço meu corpo.[lr]::
-68160::$$$message_0628_0111_0002$$$::Eu uso todas minhas habilidades para desviar do seu ataque.[lr]::
+68150::$$$message_0628_0109_0004$$$::Berserker está morrendo, com oito décimos do corpo destruídos. Posso acabar com ele primeiro.[lr]::
+68151::$$$message_0628_0109_0005$$$::Ergo a espada à altura do peito e a enterro nele como uma lança.::
+68152::$$$message_0628_0110_0000$$$::"[wacky len=16][line4]!!!"[lr]::
+68153::$$$message_0628_0110_0001$$$::Mas... eu perdi.[lr]::
+68154::$$$message_0628_0110_0002$$$::Ter tomado a iniciativa não bastou.[lr]::
+68155::$$$message_0628_0110_0003$$$::Usei até a última gota do poder indevido que recebi, e ainda assim perdi.[lr]::
+68156::$$$message_0628_0110_0004$$$::O ataque de Berserker desce sobre mim.[lr]::
+68157::$$$message_0628_0110_0005$$$::Ele levanta um vendaval ao cair.::
+68158::$$$message_0628_0111_0000$$$::[font italic=true]...[font italic=false][lr]::
+68159::$$$message_0628_0111_0001$$$::Torço o corpo,[lr]::
+68160::$$$message_0628_0111_0002$$$::desviando com tudo o que tenho.[lr]::
 68161::$$$message_0628_0111_0003$$$::Eu o vi se aproximando.[lr]::
-68162::$$$message_0628_0111_0004$$$::Então eu consigo desviar.[lr]::
-68163::$$$message_0628_0111_0005$$$::O ataque do Berserker só raspa na minha cabeça.::
-68164::$$$message_0628_0112_0000$$$::[w l=4][line4]Isso ainda vai me matar instantâneamente.[lr]::
-68165::$$$message_0628_0112_0001$$$::Até um raspão de uma espada monstruosa será meu fim.[lr]::
-68166::$$$message_0628_0112_0002$$$::Um golpe direto pode destruir até o chão.[lr]::
-68167::$$$message_0628_0112_0003$$$::Até um pincel com a ponta da sua espada espalharia minha cabeça como tofu.::
-68168::$$$message_0628_0113_0000$$$::A espada gigante desce com toda força.[lr]::
-68169::$$$message_0628_0113_0001$$$::Minha visão congela no instante que minha cabeça explode.[lr]::
-68170::$$$message_0628_0113_0002$$$::[w l=3][line3]Mas.[lr]::
-68171::$$$message_0628_0113_0003$$$::A espada balançada com velocidade cegante...[lr]::
-68172::$$$message_0628_0113_0004$$$::...É parada com velocidade cegante.::
-68173::$$$message_0628_0114_0000$$$::"[w l=8][line8]Eh?"[lr]::
-68174::$$$message_0628_0114_0001$$$::O golpe final nunca chega.[lr]::
-68175::$$$message_0628_0114_0002$$$::"[w l=8][line8]"[lr]::
-68176::$$$message_0628_0114_0003$$$::O gigante preto está olhando para frente.[lr]::
-68177::$$$message_0628_0114_0004$$$::Não para mim, que está abaixo dele.[lr]::
-68178::$$$message_0628_0114_0005$$$::Ele está olhando para garota branca que saiu da sua cobertura.::
-68179::$$$message_0628_0115_0000$$$::Eu perfuro ele.[lr]::
-68180::$$$message_0628_0115_0001$$$::Sem hesitação ou piedade, eu enfio a espada gigante no seu coração.::
-68181::$$$message_0628_0116_0000$$$::Não há contra ataque.[lr]::
-68182::$$$message_0628_0116_0001$$$::Berserker esgota seu último pingo de força vital e desmorona em poeira, dessa vez pelo resto da eternidade.::
-68183::$$$message_0628_0117_0000$$$::...E nesse momento.[lr]::
-68184::$$$message_0628_0117_0001$$$::Seus olhos vermelhos devanescem, enquanto se mantém focados na garota, falando para eu a proteger.::
-68185::$$$message_0628_0118_0000$$$::[w l=4][line4]A batalha acaba em um instante.[lr]::
-68186::$$$message_0628_0118_0001$$$::Ela realmente acaba em uma respiração.::
-68187::$$$message_0628_0119_0000$$$::O garoto, com lábios tremendo, disse que ele estava indo.[lr]::
-68188::$$$message_0628_0119_0001$$$::Ele suprimiu sua fadiga e medo, colocou sua mão na restrição vermelha, e caminhou para longe da garota.::
-68189::$$$message_0628_0120_0000$$$::Ela saiu para pará-lo.[lr]::
-68190::$$$message_0628_0120_0001$$$::Ela hesitou por um segundo, se perguntando o que ela falaria.  Ela não conseguiu pensar em nada, mas mesmo assim o seguiu.[lr]::
-68191::$$$message_0628_0120_0002$$$::Não foi nem dez segundos.[lr]::
-68192::$$$message_0628_0120_0003$$$::Mas essa leve hesitação determinou o resultado.::
-68193::$$$message_0628_0121_0000$$$::"Shir[w l=8][line8]"[lr]::
-68194::$$$message_0628_0121_0001$$$::Ela emerge, segurando o garoto.[lr]::
-68195::$$$message_0628_0121_0002$$$::A batalha já havia acabado.[lr]::
-68196::$$$message_0628_0121_0003$$$::O gigante que uma vez a protegeu desapareceu com seus olhos fixados nela.[lr]::
-68197::$$$message_0628_0121_0004$$$::Vento sopra pela clareira, como se sinalizando que o conflito acabou.[lr]::
-68198::$$$message_0628_0121_0005$$$::A figura é tudo que sobrou na sua visão.::
-68199::$$$message_0628_0122_0000$$$::"[w l=8][line8]"[lr]::
+68162::$$$message_0628_0111_0004$$$::Consigo desviar desta.[lr]::
+68163::$$$message_0628_0111_0005$$$::O golpe de Berserker vai apenas raspar minha têmpora.::
+68164::$$$message_0628_0112_0000$$$::Mas até isso já seria fatal.[lr]::
+68165::$$$message_0628_0112_0001$$$::Basta que ele me raspe por alguns milímetros para me matar.[lr]::
+68166::$$$message_0628_0112_0002$$$::Um golpe direto seria literalmente devastador.[lr]::
+68167::$$$message_0628_0112_0003$$$::Um mero roçar da ponta daquela espada espalharia minha cabeça como tofu.::
+68168::$$$message_0628_0113_0000$$$::A espada gigante vem cortando o ar.[lr]::
+68169::$$$message_0628_0113_0001$$$::Minha visão congela no instante em que minha cabeça está prestes a ser arrancada.[lr]::
+68170::$$$message_0628_0113_0002$$$::Mas.[lr]::
+68171::$$$message_0628_0113_0003$$$::Sua espada gigante, impelida por um ímpeto brutal,[lr]::
+68172::$$$message_0628_0113_0004$$$::para com uma brusquidão igualmente assustadora.::
+68173::$$$message_0628_0114_0000$$$::"Eh?"[lr]::
+68174::$$$message_0628_0114_0001$$$::O machado do carrasco para a um triz do meu pescoço.[lr]::
+68175::$$$message_0628_0114_0002$$$::[font italic=true]...[font italic=false][lr]::
+68176::$$$message_0628_0114_0003$$$::O gigante escuro olha para algo adiante.[lr]::
+68177::$$$message_0628_0114_0004$$$::Não para mim.[lr]::
+68178::$$$message_0628_0114_0005$$$::Seus olhos sem mente estão fixos na garota pálida que surgiu da trincheira.::
+68179::$$$message_0628_0115_0000$$$::Eu o perfuro.[lr]::
+68180::$$$message_0628_0115_0001$$$::Sem desperdiçar a chance, cravo sem piedade a espada no coração de Berserker.::
+68181::$$$message_0628_0116_0000$$$::Ele não revida.[lr]::
+68182::$$$message_0628_0116_0001$$$::Desta vez, o resto da vida do gigante se desfaz em pó.::
+68183::$$$message_0628_0117_0000$$$::Naqueles momentos finais,[lr]::
+68184::$$$message_0628_0117_0001$$$::seus olhos vermelhos, já se apagando, me dizem para protegê-la.::
+68185::$$$message_0628_0118_0000$$$::A batalha durou apenas um instante.[lr]::
+68186::$$$message_0628_0118_0001$$$::Ela realmente terminou no espaço de uma única respiração.::
+68187::$$$message_0628_0119_0000$$$::Com os lábios trêmulos, o garoto disse à menina que ia sair.[lr]::
+68188::$$$message_0628_0119_0001$$$::Tomou nas mãos as ataduras vermelhas e se afastou dela, engolindo o cansaço e a preocupação.::
+68189::$$$message_0628_0120_0000$$$::Ela saiu da trincheira para impedi-lo.[lr]::
+68190::$$$message_0628_0120_0001$$$::Por um instante, ficou vendo suas costas se afastarem, sem saber o que dizer nem se devia detê-lo, até não aguentar mais e sair atrás dele.[lr]::
+68191::$$$message_0628_0120_0002$$$::Não tinham se passado nem dez segundos.[lr]::
+68192::$$$message_0628_0120_0003$$$::Essa breve hesitação decidiu o resultado do duelo.::
+68193::$$$message_0628_0121_0000$$$::"Shirou[line2]"[lr]::
+68194::$$$message_0628_0121_0001$$$::Ela emerge da trincheira.[lr]::
+68195::$$$message_0628_0121_0002$$$::A batalha já havia terminado.[lr]::
+68196::$$$message_0628_0121_0003$$$::O gigante que a protegia a encara enquanto desaparece.[lr]::
+68197::$$$message_0628_0121_0004$$$::Uma brisa entra na clareira, como se anunciasse o fim da luta.[lr]::
+68198::$$$message_0628_0121_0005$$$::Tudo o que ela consegue ver são as costas do garoto.::
+68199::$$$message_0628_0122_0000$$$::[font italic=true]...[font italic=false][lr]::
 68200::$$$message_0628_0122_0001$$$::A batalha acabou.[lr]::
-68201::$$$message_0628_0122_0002$$$::Não é o poder do braço do espírito heroico.[lr]::
-68202::$$$message_0628_0122_0003$$$::Usando seu próprio poder, o garoto lutou contra sua morte e venceu.[lr]::
-68203::$$$message_0628_0122_0004$$$::A garota continua encarando ele de volta.[lr]::
-68204::$$$message_0628_0122_0005$$$::Ele nunca irá se virar e olhar para trás.::
-68205::$$$message_0628_0123_0000$$$::Ele soltou o Pano e derrotou o gigante. Sua figura parece heróica e poderosa.[lr]::
-68206::$$$message_0628_0123_0001$$$::Não há dúvida restando nele agora.[lr]::
-68207::$$$message_0628_0123_0002$$$::Ele afastou todas as agonias quando ele soltou o manto e usou projeção.::
-68208::$$$message_0628_0124_0000$$$::"[w l=9][line9]Shirou."[lr]::
-68209::$$$message_0628_0124_0001$$$::A garota continuou assistindo ele, repleta de tristeza.[lr]::
-68210::$$$message_0628_0124_0002$$$::Seu corpo parece o de outra pessoa agora.[lr]::
-68211::$$$message_0628_0124_0003$$$::[w l=3][line3]É um final sagrado e tolo sem retorno.::
-68212::$$$message_0628_0125_0000$$$::"[w l=8][line8]Haa."[lr]::
-68213::$$$message_0628_0125_0001$$$::Eu volto a respirar.[lr]::
-68214::$$$message_0628_0125_0002$$$::Meu braço esquerdo queima, e eu sinto dor pelo corpo inteiro.[lr]::
-68215::$$$message_0628_0125_0003$$$::Cobras com eletricidade estão no meu corpo, rastejando enlouquecidamente.::
-68216::$$$message_0628_0126_0000$$$::"Ah[w l=4][line4]guh[w l=4][line4]"[lr]::
-68217::$$$message_0628_0126_0001$$$::Eu não consigo ficar de pé.[lr]::
-68218::$$$message_0628_0126_0002$$$::Rápido.[lr]::
-68219::$$$message_0628_0126_0003$$$::Eu tento que rapidamente cobrir meu braço esquerdo com o pano e escapar dessa dor, ou o tempo limite vai chegar.::
-68220::$$$message_0628_0127_0000$$$::"Haa[w l=4][line4]Haa[w l=4][line4]"[lr]::
-68221::$$$message_0628_0127_0001$$$::Mas eu não consigo fazer isso.[lr]::
-68222::$$$message_0628_0127_0002$$$::Suprimir meu braço esquerdo e descansar...[lr]::
-68223::$$$message_0628_0127_0003$$$::...Vem depois de derrotar ela.::
-68224::$$$message_0628_0128_0000$$$::"[w l=4][line4]Saber."[lr]::
-68225::$$$message_0628_0128_0001$$$::Eu aguento minha dor e encaro ela para não perder minha motivação.[lr]::
-68226::$$$message_0628_0128_0002$$$::"............"[lr]::
-68227::$$$message_0628_0128_0003$$$::Talvez ela estivesse seguindo o Berserker o tempo inteiro. Ela lentamente chega perto de mim, como se assumindo a tarefa do gigante.::
-68228::$$$message_0628_0129_0000$$$::......Sete metros.[lr]::
-68229::$$$message_0628_0129_0001$$$::Saber para assim que eu entro no seu alcance.::
-68230::$$$message_0628_0130_0000$$$::"[w l=8][line8]"[lr]::
+68201::$$$message_0628_0122_0002$$$::O braço já não é apenas o braço de um Espírito Heroico.[lr]::
+68202::$$$message_0628_0122_0003$$$::Com o próprio poder, o garoto desafiou a morte e venceu.[lr]::
+68203::$$$message_0628_0122_0004$$$::Ela continua observando-o.[lr]::
+68204::$$$message_0628_0122_0005$$$::De costas, ele parece alguém que jamais voltará a olhar para ela.::
+68205::$$$message_0628_0123_0000$$$::Livre do Sudário Sagrado, o garoto vitorioso parece tão heroico.[lr]::
+68206::$$$message_0628_0123_0001$$$::Ele não vai mais demonstrar hesitação.[lr]::
+68207::$$$message_0628_0123_0002$$$::No momento em que arrancou o sudário e fez aquela Projeção, afastou todas as dúvidas.::
+68208::$$$message_0628_0124_0000$$$::"...Shirou."[lr]::
+68209::$$$message_0628_0124_0001$$$::Ela o observa pelas costas, tomada pela tristeza.[lr]::
+68210::$$$message_0628_0124_0002$$$::O garoto se tornou outra pessoa. [font italic=true]Outra coisa.[font italic=false][lr]::
+68211::$$$message_0628_0124_0003$$$::Ele escolheu um desfecho nobre e tolo, e não há mais volta.::
+68212::$$$message_0628_0125_0000$$$::"...Hah..."[lr]::
+68213::$$$message_0628_0125_0001$$$::Faço meus pulmões congelados voltarem a funcionar.[lr]::
+68214::$$$message_0628_0125_0002$$$::Meu braço esquerdo queima, e o corpo inteiro dói.[lr]::
+68215::$$$message_0628_0125_0003$$$::Uma enguia elétrica serpenteia pelo meu corpo.::
+68216::$$$message_0628_0126_0000$$$::"Argh... zzhh..."[lr]::
+68217::$$$message_0628_0126_0001$$$::Não consigo ficar de pé.[lr]::
+68218::$$$message_0628_0126_0002$$$::Depressa.[lr]::
+68219::$$$message_0628_0126_0003$$$::Preciso me apressar e reenrolar o Sudário Sagrado no braço. [stopnoise]Vou atingir o limite se não escapar dessa dor.::
+68220::$$$message_0628_0127_0000$$$::"Ngh... hahh... argh."[lr]::
+68221::$$$message_0628_0127_0001$$$::Mas ainda não posso selá-lo de novo.[lr]::
+68222::$$$message_0628_0127_0002$$$::Posso descansar e abaixar este braço...[lr]::
+68223::$$$message_0628_0127_0003$$$::...só depois de derrotar [font italic=true]ela[font italic=false].::
+68224::$$$message_0628_0128_0000$$$::"...Saber."[lr]::
+68225::$$$message_0628_0128_0001$$$::Encaro Saber. Engulo a dor e me preparo para outra luta.[lr]::
+68226::$$$message_0628_0128_0002$$$::"..."[lr]::
+68227::$$$message_0628_0128_0003$$$::Saber se aproxima devagar, como se desde o começo pretendesse assumir o lugar do gigante derrotado.::
+68228::$$$message_0628_0129_0000$$$::Ela para.[lr]::
+68229::$$$message_0628_0129_0001$$$::Sete metros. Distância suficiente para ela encurtar e me golpear num único fôlego.::
+68230::$$$message_0628_0130_0000$$$::[font italic=true]...[font italic=false][lr]::
 68231::$$$message_0628_0130_0001$$$::"............"[lr]::
-68232::$$$message_0628_0130_0002$$$::Nós nos encaramos diretamente.::
-68233::$$$message_0628_0131_0000$$$::[w l=3][line3]Eu vou ser morto.[lr]::
-68234::$$$message_0628_0131_0001$$$::Depois da minha luta com o Berserker, eu não consigo mais me mover.[lr]::
-68235::$$$message_0628_0131_0002$$$::Eu vou ser cortado em dois sem ser capaz de lutar de volta.::
-68236::$$$message_0628_0132_0000$$$::Não.[lr]::
-68237::$$$message_0628_0132_0001$$$::Mesmo se eu estiver em condição perfeita, eu não seria capaz de derrotar a Saber.[lr]::
-68238::$$$message_0628_0132_0002$$$::Eu não consigo projetar nada mais forte que o Fantasma Nobre dela.[lr]::
-68239::$$$message_0628_0132_0003$$$::Então não tem competição.[lr]::
-68240::$$$message_0628_0132_0004$$$::Para derrotar a Saber, eu preciso que um usuário apropriado use seu Fantasma Nobre que rivalize o Fantasma Nobre dela.::
-68241::$$$message_0628_0133_0000$$$::"Ha[w l=8][line8]"[lr]::
-68242::$$$message_0628_0133_0001$$$::Já existe uma contradição.[lr]::
-68243::$$$message_0628_0133_0002$$$::O Fantasma Nobre da Saber é o mais forte.[lr]::
-68244::$$$message_0628_0133_0003$$$::Talvez existam espíritos heroicos cuja os Fantasmas Nobres sejam melhores que o dela, mas não existem pessoas assim nessa Guerra do Santo Graal.[lr]::
-68245::$$$message_0628_0133_0004$$$::Se há algo que consiga derrotar a Saber, seria sua própria espada.::
+68232::$$$message_0628_0130_0002$$$::Eu a encaro de frente.::
+68233::$$$message_0628_0131_0000$$$::Vou morrer.[lr]::
+68234::$$$message_0628_0131_0001$$$::Não consigo me mover depois da luta contra Berserker.[lr]::
+68235::$$$message_0628_0131_0002$$$::Não vou conseguir evitar ser cortado ao meio quando Saber avançar.::
+68236::$$$message_0628_0132_0000$$$::Isso não é tudo.[lr]::
+68237::$$$message_0628_0132_0001$$$::Mesmo no auge, eu não seria capaz de vencê-la.[lr]::
+68238::$$$message_0628_0132_0002$$$::Faça o que eu fizer, não consigo Projetar nada mais forte do que o Fantasma Nobre de Saber.[lr]::
+68239::$$$message_0628_0132_0003$$$::Então este resultado é certo.[lr]::
+68240::$$$message_0628_0132_0004$$$::A única pessoa capaz de derrotar Saber seria alguém com um Fantasma Nobre que rivalizasse com o dela.::
+68241::$$$message_0628_0133_0000$$$::"...Hah."[lr]::
+68242::$$$message_0628_0133_0001$$$::Mas isso é uma contradição.[lr]::
+68243::$$$message_0628_0133_0002$$$::Em puro poder ofensivo, Saber possui o Fantasma Nobre supremo.[lr]::
+68244::$$$message_0628_0133_0003$$$::Talvez existam Espíritos Heroicos com armas mais poderosas que a espada sagrada dela, mas eles não estão nesta Guerra do Santo Graal.[lr]::
+68245::$$$message_0628_0133_0004$$$::Neste momento, só a própria espada de Saber pode derrotá-la.::
 68246::$$$message_0628_0134_0000$$$::Logo, é uma contradição.[lr]::
-68247::$$$message_0628_0134_0001$$$::A Saber é o servo mais forte em batalha.[lr]::
-68248::$$$message_0628_0134_0002$$$::...A Sakura tinha uma quantidade de energia mágica extraordinária.[lr]::
-68249::$$$message_0628_0134_0003$$$::Mas até a Sakura não seria capaz de derrotar a Saber.[lr]::
-68250::$$$message_0628_0134_0004$$$::A Saber é literalmente invencível agora que ela foi solta de mim e tem uma grande fonte de energia mágica.::
-68251::$$$message_0628_0135_0000$$$::"[w l=3][line3]Que esforço fútil. Eu lhe avisei que você não consegue salvar a Sakura, e esse é o resultado?"[lr]::
-68252::$$$message_0628_0135_0001$$$::Não há emoção na sua voz.[lr]::
-68253::$$$message_0628_0135_0002$$$::"[w l=5][line5]!"[lr]::
+68247::$$$message_0628_0134_0001$$$::Nestas circunstâncias, Saber é o Servo mais forte.[lr]::
+68248::$$$message_0628_0134_0002$$$::...Da última vez que vi Sakura, ela possuía uma quantidade inconcebível de Energia Mágica.[lr]::
+68249::$$$message_0628_0134_0003$$$::Mesmo Sakura não seria capaz de derrotar Saber.[lr]::
+68250::$$$message_0628_0134_0004$$$::Diferente de quando eu era seu Mestre, Saber agora tem uma fonte de energia adequada. Ela é praticamente invencível.::
+68251::$$$message_0628_0135_0000$$$::"Que esforço fútil. Eu lhe avisei que você não consegue salvar a Sakura, e esse é o resultado?"[lr]::
+68252::$$$message_0628_0135_0001$$$::A voz de Saber é fria como pedra.[lr]::
+68253::$$$message_0628_0135_0002$$$::"...!"[lr]::
 68254::$$$message_0628_0135_0003$$$::Esse é o sinal.[lr]::
-68255::$$$message_0628_0135_0004$$$::Ela impiedosamente vem tomar minha vida.::
-68256::$$$message_0628_0136_0000$$$::"[w l=4][line4]"[lr]::
+68255::$$$message_0628_0135_0004$$$::Ela vem tirar minha vida, sem o menor traço de hesitação ou piedade.::
+68256::$$$message_0628_0136_0000$$$::"Kh..."[lr]::
 68257::$$$message_0628_0136_0001$$$::E daí?[lr]::
-68258::$$$message_0628_0136_0002$$$::Eu não posso morrer aqui.[lr]::
+68258::$$$message_0628_0136_0002$$$::Não posso deixá-la me matar aqui.[lr]::
 68259::$$$message_0628_0136_0003$$$::Eu não posso perder, nem mesmo pra Saber.[lr]::
-68260::$$$message_0628_0136_0004$$$::Eu talvez não consiga derrotá-la, mas eu devo conseguir escapar com a Illya[w l=4][line4]::
-68261::$$$message_0628_0137_0000$$$::"Mas você tem sorte. Eu não tenho tempo para gastar com uma pessoa que logo irá morrer. Sakura está me chamando."[lr]::
-68262::$$$message_0628_0137_0001$$$::"Eh[w l=4][line4]?"[lr]::
-68263::$$$message_0628_0137_0002$$$::Saber se vira e caminha até o castelo.::
-68264::$$$message_0628_0138_0000$$$::"...Não. Não é mera sorte. Você ganhou sua vida com suas próprias mãos. Você derrotou o Berserker. Sua determinação lhe venceu esse resultado."[lr]::
+68260::$$$message_0628_0136_0004$$$::Talvez eu não consiga derrotá-la, mas ao menos consigo fugir com Illya[line2]::
+68261::$$$message_0628_0137_0000$$$::"Considere-se com sorte. Não preciso mais me ocupar com alguém que acabará se matando sozinho. Sakura está me chamando."[lr]::
+68262::$$$message_0628_0137_0001$$$::"Eh?"[lr]::
+68263::$$$message_0628_0137_0002$$$::Saber me dá as costas e avança floresta adentro.::
+68264::$$$message_0628_0138_0000$$$::"...Não, não é sorte. Você derrotou Berserker e sobreviveu por esforço próprio. Sua determinação trouxe esse resultado."[lr]::
 68265::$$$message_0628_0138_0001$$$::Saber sai sem se virar.::
-68266::$$$message_0628_0139_0000$$$::...Eu não consigo a chamar.[lr]::
+68266::$$$message_0628_0139_0000$$$::...Não consigo impedi-la.[lr]::
 68267::$$$message_0628_0139_0001$$$::Ela é meu inimigo.[lr]::
-68268::$$$message_0628_0139_0002$$$::Não importa a razão, eu irei gratamente aceitar o fato de que ela poupou minha vida.[lr]::
-68269::$$$message_0628_0139_0003$$$::Eu estou coberto de feridas, me deixando sem nada para poupar.::
-68270::$$$message_0628_0140_0000$$$::"[w l=8][line8]"[lr]::
-68271::$$$message_0628_0140_0001$$$::Eu enrigeço meu corpo e viro minhas costas para Saber.[lr]::
+68268::$$$message_0628_0139_0002$$$::Seja qual for a razão dela, só posso agradecer por nos ter deixado ir.[lr]::
+68269::$$$message_0628_0139_0003$$$::Estou ferido da cabeça aos pés. Não tenho condições de pedir a um inimigo que fique.::
+68270::$$$message_0628_0140_0000$$$::[font italic=true]...[font italic=false][lr]::
+68271::$$$message_0628_0140_0001$$$::Engulo a dor e viro na direção oposta àquela em que Saber desaparece ao longe.[lr]::
 68272::$$$message_0628_0140_0002$$$::Eu tenho que sair da floresta com a Illya.[lr]::
 68273::$$$message_0628_0140_0003$$$::...A Saber não é minha única inimiga.[lr]::
-68274::$$$message_0628_0140_0004$$$::Mesmo se eu separar a Sakura da sombra, Zouken entrará no meu caminho.::
-68275::$$$message_0628_0141_0000$$$::"Guh[w l=4][line4]"[lr]::
-68276::$$$message_0628_0141_0001$$$::Eu sei o que aconteceu e o que vai acontecer com meu corpo.[lr]::
-68277::$$$message_0628_0141_0002$$$::Eu consigo projetar mais três vezes no máximo.[lr]::
-68278::$$$message_0628_0141_0003$$$::...Não, até projetar uma vez é perigoso se eu não quiser defeitos físicos.::
-68279::$$$message_0628_0142_0000$$$::Eu não consigo lutar com o Zouken e o Assassin nessa condição.[lr]::
-68280::$$$message_0628_0142_0001$$$::Não há objetivo se meu corpo explodir antes de eu derrotá-los.[lr]::
-68281::$$$message_0628_0142_0002$$$::Então eu deveria guardar minha última projeção para manter minha promessa com a Tohsaka.[lr]::
-68282::$$$message_0628_0142_0003$$$::Então ainda há esperança, mesmo após eu morrer.::
+68274::$$$message_0628_0140_0004$$$::Podemos ter escapado de Sakura e da Sombra, mas Zouken continuará sendo uma ameaça enquanto estiver vivo.::
+68275::$$$message_0628_0141_0000$$$::"Rrgh... guh."[lr]::
+68276::$$$message_0628_0141_0001$$$::Eu sei o que está acontecendo com meu corpo. Sei o que vai acontecer.[lr]::
+68277::$$$message_0628_0141_0002$$$::Tenho três Projeções restantes.[lr]::
+68278::$$$message_0628_0141_0003$$$::...Não, até uma só já seria arriscada, se eu quiser continuar inteiro.::
+68279::$$$message_0628_0142_0000$$$::Não posso enfrentar Zouken e Assassin neste estado.[lr]::
+68280::$$$message_0628_0142_0001$$$::Não adianta nada se meu corpo se despedaçar logo depois de eu vencer.[lr]::
+68281::$$$message_0628_0142_0002$$$::Preciso guardar esse último esforço para cumprir minha promessa com Tohsaka.[lr]::
+68282::$$$message_0628_0142_0003$$$::Talvez eu não consiga mais lutar, mas ainda há esperança.::
 68283::$$$message_0628_0143_0000$$$::"Shirou...?"[lr]::
-68284::$$$message_0628_0143_0001$$$::Eu ouço a voz da Illya vindo de algum lugar.::
+68284::$$$message_0628_0143_0001$$$::Ouço a voz de Illya.::
 68285::$$$message_0628_0144_0000$$$::"...Sim. Vamos sair dessa floresta o mais rápido possível.[lr]::
-68286::$$$message_0628_0144_0001$$$::Nós não vamos conseguir escapar se a Saber[w l=3][line3]não, se a Sakura mudar de ideia."[lr]::
+68286::$$$message_0628_0144_0001$$$::Nós não vamos ter outra chance se a Saber[line2]não, se a Sakura mudar de ideia."[lr]::
 68287::$$$message_0628_0144_0002$$$::Eu não consigo ver a Illya.[lr]::
-68288::$$$message_0628_0144_0003$$$::Meu coração está batendo alto, pulando ao redor do meu crânio.::
+68288::$$$message_0628_0144_0003$$$::Meu coração bate descompassado, ecoando dentro do crânio.::
+90047::$$$message_0628_9999_0000$$$::"Não...! Você não pode fazer isso! Não tem volta depois que usar o braço do Archer...! Você vai morrer. Não, vão te matar antes disso. ::
+90048::$$$message_0628_9999_0001$$$::Você não fez nada de errado, Shirou, então não precisa fazer isso consigo mesmo...!"::
+
+

@@ -1,61 +1,63 @@
 DAT
 id=qid::label=str::text=lstr::
 32059::$$$message_0258_0000_0000$$$::Tohsaka tem razão.[lr]::
-32060::$$$message_0258_0000_0001$$$::A Saber afastou Berserker daqui.[lr]::
-32061::$$$message_0258_0000_0002$$$::Então devo fugir desse local perigoso e aguardar o retorno dela.[line4]::
-32062::$$$message_0258_0001_0000$$$::"Haa... haa... haa..."[lr]::
-32063::$$$message_0258_0001_0001$$$::Eu atravessei a ponte de Shinto e corri direto pra casa.[lr]::
-32064::$$$message_0258_0001_0002$$$::Nunca olhei pra trás enquanto corria.[lr]::
-32065::$$$message_0258_0001_0003$$$::Não sei se estava com medo de um perseguidor desconhecido ou se senti culpa por deixar a Saber para trás.[lr]::
-32066::$$$message_0258_0001_0004$$$::...Enfim, corri desesperadamente pra cá.::
-32067::$$$message_0258_0002_0000$$$::"[line8]"[lr]::
+32060::$$$message_0258_0000_0001$$$::Saber arriscou a vida para afastar Berserker daqui.[lr]::
+32061::$$$message_0258_0000_0002$$$::Preciso fugir daqui e esperar a Saber voltar.::
+32062::$$$message_0258_0001_0000$$$::"Haah... haah... haah..."[lr]::
+32063::$$$message_0258_0001_0001$$$::Eu atravesso a ponte vindo de Shinto e corro para casa.[lr]::
+32064::$$$message_0258_0001_0002$$$::Não olho para trás nem uma única vez.[lr]::
+32065::$$$message_0258_0001_0003$$$::Se foi por medo de um perseguidor inexistente ou por culpa de ter deixado Saber para trás, eu não sei.[lr]::
+32066::$$$message_0258_0001_0004$$$::De todo modo, corro para salvar a própria vida, com os olhos fixos na estrada à minha frente.::
+32067::$$$message_0258_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
 32068::$$$message_0258_0002_0001$$$::...A sala de estar está como eu deixei.[lr]::
-32069::$$$message_0258_0002_0002$$$::O ar está parado desde que o Lancer atacou e a Tohsaka veio aqui.[lr]::
+32069::$$$message_0258_0002_0002$$$::O ar continua parado desde o ataque de Lancer e desde que Tohsaka veio aqui.[lr]::
 32070::$$$message_0258_0002_0003$$$::Eu me aproximo da janela restaurada.[lr]::
-32071::$$$message_0258_0002_0004$$$::Vejo dois pedaços pequenos de vidro no chão que a Tohsaka não deve ter visto.::
-32072::$$$message_0258_0003_0000$$$::"...Não há rachaduras no vidro... Me pergunto como ela fez esses pedaços."[lr]::
-32073::$$$message_0258_0003_0001$$$::Murmuro pra mim.[lr]::
+32071::$$$message_0258_0002_0004$$$::Encontro dois pequenos pedaços de vidro no chão. Tohsaka deve tê-los deixado passar.::
+32072::$$$message_0258_0003_0000$$$::"...Não há nenhuma rachadura no vidro... como será que ela compensou as partes que faltavam?"[lr]::
+32073::$$$message_0258_0003_0001$$$::Murmuro para mim mesmo.[lr]::
 32074::$$$message_0258_0003_0002$$$::...Não sei por quê, mas não tenho vontade de acender as luzes.[lr]::
 32075::$$$message_0258_0003_0003$$$::Me escondo na escuridão como se estivesse escondendo minha fraqueza.::
-32076::$$$message_0258_0004_0000$$$::"......"[lr]::
-32077::$$$message_0258_0004_0001$$$::O que devo estar pensando.[lr]::
-32078::$$$message_0258_0004_0002$$$::O que devo dizer.[lr]::
-32079::$$$message_0258_0004_0003$$$::Estou fugindo disso.[lr]::
-32080::$$$message_0258_0004_0004$$$::...As pessoas que estavam aqui até agora pouco.[lr]::
-32081::$$$message_0258_0004_0005$$$::As pessoas que estavam do meu lado até alguns minutos atrás.[lr]::
-32082::$$$message_0258_0005_0000$$$::O relógio aponta para às 3.[lr]::
-32083::$$$message_0258_0005_0001$$$::...Se passaram trinta minutos desde então.[lr]::
-32084::$$$message_0258_0005_0002$$$::Não importa quem ganhou, a luta deve ter acabado.::
-32085::$$$message_0258_0006_0000$$$::"[line8]"[lr]::
-32086::$$$message_0258_0006_0001$$$::Devo voltar.[lr]::
-32087::$$$message_0258_0006_0002$$$::Quando levanto a cabeça para acender as luzes e me animar...[lr]::
-32088::$$$message_0258_0006_0003$$$::Uma dor afiada atravessa minha mão esquerda.::
-32089::$$$message_0258_0007_0000$$$::"...O Selo de Comando...?"[lr]::
-32090::$$$message_0258_0007_0001$$$::A cor deixou meu Selo de Comando.[lr]::
-32091::$$$message_0258_0007_0002$$$::Embora o formato ainda esteja aqui, a luz brilhante que prova que sou o Mestre da Saber se foi.[lr]::
+32076::$$$message_0258_0004_0000$$$::"..."[lr]::
+32077::$$$message_0258_0004_0001$$$::No que eu deveria estar pensando...[lr]::
+32078::$$$message_0258_0004_0002$$$::O que eu deveria estar dizendo... estou fugindo dessas coisas.[lr]::
+32079::$$$message_0258_0004_0003$$$::...Da pessoa que estava nesta sala até poucas horas atrás.[lr]::
+32080::$$$message_0258_0004_0004$$$::Da pessoa que estava ao meu lado até poucos minutos atrás.[lr]::
+32081::$$$message_0258_0004_0005$$$::Eu devia estar me perguntando se foi certo deixar aqueles dois para trás, mas parece que não consigo fazer nada além de me esconder nesta escuridão.::
+32082::$$$message_0258_0005_0000$$$::O relógio marca três da manhã.[lr]::
+32083::$$$message_0258_0005_0001$$$::...Já se passaram trinta minutos desde então.[lr]::
+32084::$$$message_0258_0005_0002$$$::Seja qual for o resultado, a batalha provavelmente já acabou.::
+32085::$$$message_0258_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
+32086::$$$message_0258_0006_0001$$$::Eu deveria voltar.[lr]::
+32087::$$$message_0258_0006_0002$$$::Tomo coragem e ergo a cabeça para acender a luz...[lr]::
+32088::$$$message_0258_0006_0003$$$::De repente, uma dor aguda queima o dorso da minha mão esquerda e então desaparece.::
+32089::$$$message_0258_0007_0000$$$::"...O Selo de Comando está empalidecendo...?"[lr]::
+32090::$$$message_0258_0007_0001$$$::A cor sumiu do meu Selo de Comando.[lr]::
+32091::$$$message_0258_0007_0002$$$::O formato permanece, mas o vermelho vivo que prova que sou o Mestre da Saber desapareceu.[lr]::
 32092::$$$message_0258_0007_0003$$$::Eu entendo instintivamente o que isso significa.[lr]::
-32093::$$$message_0258_0007_0004$$$::"Saber...!"[lr]::
-32094::$$$message_0258_0007_0005$$$::Sigo meus instintos e saio da escuridão.::
+32093::$$$message_0258_0007_0004$$$::"Não, Saber...!"[lr]::
+32094::$$$message_0258_0007_0005$$$::Sigo meus instintos e saio correndo da escuridão onde estava me escondendo.::
 32095::$$$message_0258_0008_0000$$$::Corro para fora.[lr]::
-32096::$$$message_0258_0008_0001$$$::É tarde demais.[lr]::
-32097::$$$message_0258_0008_0002$$$::Sei que é tarde, mas se eu começar a correr de volta...[lr]::
-32098::$$$message_0258_0008_0003$$$::E sou esfaqueado no coração com algo desconhecido.::
-32099::$$$message_0258_0009_0000$$$::"          ,           "[lr]::
+32096::$$$message_0258_0008_0001$$$::Eu sei que já é tarde demais.[lr]::
+32097::$$$message_0258_0008_0002$$$::Mesmo assim, corro o mais rápido que posso de volta para onde deixei Saber...[lr]::
+32098::$$$message_0258_0008_0003$$$::Algo que eu não consigo ver dispara à minha frente e atravessa meu coração.::
+32099::$$$message_0258_0009_0000$$$::"..."[lr]::
 32100::$$$message_0258_0009_0001$$$::...Não consigo ouvir bem.[lr]::
-32101::$$$message_0258_0009_0002$$$::Consigo ver que há alguém na minha frente, que me esfaqueou, mas não enxergo bem.::
-32102::$$$message_0258_0010_0000$$$::"       [line3]?    ,     "[lr]::
-32103::$$$message_0258_0010_0001$$$::A pessoa em minha frente ri e me chama de idiota.[lr]::
-32104::$$$message_0258_0010_0002$$$::A pessoa em minha frente está rindo pois não possuo meio de sobreviver sem um Servo.::
-32105::$$$message_0258_0011_0000$$$::"Ah[line4], ........"[lr]::
-32106::$$$message_0258_0011_0001$$$::...sim.[lr]::
+32101::$$$message_0258_0009_0002$$$::Há algo na minha frente. Algo se projeta para fora do meu peito. Eu só... não consigo distinguir o que é.::
+32102::$$$message_0258_0010_0000$$$::"...?"[lr]::
+32103::$$$message_0258_0010_0001$$$::Aquela... coisa à minha frente debocha de mim e me chama de idiota.[lr]::
+32104::$$$message_0258_0010_0002$$$::Está rindo de mim e dizendo que não há razão para eu continuar vivo depois de perder meu Servo.::
+32105::$$$message_0258_0011_0000$$$::"Ah..."[lr]::
+32106::$$$message_0258_0011_0001$$$::É mesmo...[lr]::
 32107::$$$message_0258_0011_0002$$$::Emiya Shirou será morto assim que perder a Saber.[lr]::
-32108::$$$message_0258_0011_0003$$$::Como não tenho meio de me proteger, não tenho meio de sobreviver sem ela.::
-32109::$$$message_0258_0012_0000$$$::Mas não percebi isso, e me escondi.[lr]::
-32110::$$$message_0258_0012_0001$$$::Esse é o resultado.[lr]::
-32111::$$$message_0258_0012_0002$$$::Não importa se estiver em casa ou fugir.::
-32112::$$$message_0258_0013_0000$$$::"G[line3]uh[line4]"[lr]::
+32108::$$$message_0258_0011_0003$$$::Sem Saber, não tenho como me proteger. Não há como eu sobreviver.::
+32109::$$$message_0258_0012_0000$$$::Agora estou completamente sozinho. Eu não tinha percebido isso, mas estou.[lr]::
+32110::$$$message_0258_0012_0001$$$::E foi isso que me trouxe até aqui.[lr]::
+32111::$$$message_0258_0012_0002$$$::Isso teria acontecido do mesmo jeito, estivesse eu em casa ou em qualquer outro lugar para onde tentasse fugir.::
+32112::$$$message_0258_0013_0000$$$::"Guh..."[lr]::
 32113::$$$message_0258_0013_0001$$$::...Minha consciência começa a desaparecer.[lr]::
-32114::$$$message_0258_0013_0002$$$::Não importa quem é ou como fui esfaqueado.[lr]::
+32114::$$$message_0258_0013_0002$$$::Não sei quem é, e não me importa se essa coisa perfurando meu coração é uma lança ou uma flecha.[lr]::
 32115::$$$message_0258_0013_0003$$$::Não importa se eu morrer hoje ou amanhã.::
-32116::$$$message_0258_0014_0000$$$::Pois...[lr]::
-32117::$$$message_0258_0014_0001$$$::...agora que meu Selo de Comando desapareceu, minha vida praticamente acabou.::
+32116::$$$message_0258_0014_0000$$$::Porque...[lr]::
+32117::$$$message_0258_0014_0001$$$::...agora que meu Selo de Comando se apagou, minha vida está essencialmente acabada.::
+
+
