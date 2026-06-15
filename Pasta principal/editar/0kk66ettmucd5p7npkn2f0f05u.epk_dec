@@ -16,7 +16,7 @@ id=qid::label=str::text=lstr::
 23925::$$$message_0210_0003_0001$$$::Ela não pode bloquear aquele ataque.[lr]::
 23926::$$$message_0210_0003_0002$$$::A única opção seria pular para se esquivar dele.[lr]::
 23927::$$$message_0210_0003_0003$$$::Porém, mesmo que ela se desvie do ataque, o rastro deixado por ele ainda pode arrancar parte de sua armadura.[lr]::
-23928::$$$message_0210_0003_0004$$$::Se isso continuar, uma hora ela vai ser atingida em cheio.::
+23928::$$$message_0210_0003_0004$$$::Se isso continuar, uma hora ela [font italic=true]vai[font italic=false] ser atingida em cheio.::
 23929::$$$message_0210_0004_0000$$$::A luz branca desce perfurando o ar.[lr]::
 23930::$$$message_0210_0004_0001$$$::O Pégaso desliza de uma altura bem alta, acaba com a Saber sem encostar no telhado, e volta para o céu.[lr]::
 23931::$$$message_0210_0004_0002$$$::É impossível perseguí-lo.[lr]::
@@ -31,12 +31,12 @@ id=qid::label=str::text=lstr::
 23940::$$$message_0210_0007_0000$$$::"Mas do que isso adianta? Você não tem como vencer. Se for para desaparecer de qualquer jeito, pelo menos suma com elegância."[lr]::
 23941::$$$message_0210_0007_0001$$$::A Rider parece calma.[lr]::
 23942::$$$message_0210_0007_0002$$$::É possível sentir um pouco de alegria em sua voz.::
-23943::$$$message_0210_0008_0000$$$::"Hmph. Eu esperava que você tivesse uma Espécie Fantasmal, mas não imaginava algo desse nível, Rider."::
+23943::$$$message_0210_0008_0000$$$::"Hmph. Eu esperava que você tivesse uma Espécie Fantasmal, mas não imaginava [font italic=true]algo desse nível[font italic=false], Rider."::
 23944::$$$message_0210_0009_0000$$$::Uma Espécie Fantasmal.[lr]::
 23945::$$$message_0210_0009_0001$$$::Como o nome sugere, trata-se de criaturas que existem dentro da fantasia.[lr]::
 23946::$$$message_0210_0009_0002$$$::Meio-humanos, como duendes e gigantes.[lr]::
 23947::$$$message_0210_0009_0003$$$::Ou feras demoníacas, como demônios e dragões.[lr]::
-23948::$$$message_0210_0009_0004$$$::Já que a sua existência é considerada um "mistério divino", dizem que tais criaturas são superiores à própria magia.::
+23948::$$$message_0210_0009_0004$$$::Já que a sua existência é considerada um mistério divino, dizem que tais criaturas são superiores à própria magia.::
 23949::$$$message_0210_0010_0000$$$::É fato que um mistério divino sempre será eliminado por outro mistério divino superior.[lr]::
 23950::$$$message_0210_0010_0001$$$::Enquanto a magia acumulou o seu poder através do conhecimento,[lr]::
 23951::$$$message_0210_0010_0002$$$::as Espécies Fantasmais acumulam o seu poder através de sua longevidade.[lr]::
@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 23965::$$$message_0210_0014_0001$$$::A Saber o observa e pensa.[lr]::
 23966::$$$message_0210_0014_0002$$$::O próprio Pégaso não é uma Espécie Fantasmal especialmente poderosa.[lr]::
 23967::$$$message_0210_0014_0003$$$::Um Pégaso comum é apenas um Fantasmal que mal se equipara a uma Besta Demoníaca.[lr]::
-23968::$$$message_0210_0014_0004$$$::Se esse fosse o caso, ele poderia ser derrotado apenas com o "Ar Invisível" dela.::
+23968::$$$message_0210_0014_0004$$$::Se esse fosse o caso, ele poderia ser derrotado apenas com o Ar Invisível dela.::
 23969::$$$message_0210_0015_0000$$$::Mas essa criatura é diferente.[lr]::
 23970::$$$message_0210_0015_0001$$$::Como esse Pégaso existe desde a Era dos Deuses e, há muito, alcançou o nível de um Fantasmal verdadeiro.[lr]::
 23971::$$$message_0210_0015_0002$$$::Essa montaria já se aproxima do nível da raça dos dragões, tida como a mais poderosa entre todos os Fantasmais.::
@@ -67,7 +67,7 @@ id=qid::label=str::text=lstr::
 23976::$$$message_0210_0017_0000$$$::Mas isso não é o mais estranho aqui.[lr]::
 23977::$$$message_0210_0017_0001$$$::Rider simplesmente invocou esse Pégaso, e ele não possui um Nome Verdadeiro próprio.[lr]::
 23978::$$$message_0210_0017_0002$$$::Para a Rider, esse Pégaso tem o mesmo valor que a sua adaga.[lr]::
-23979::$$$message_0210_0017_0003$$$::E isso significa que ela ainda nem usou o seu Fantasma Nobre.::
+23979::$$$message_0210_0017_0003$$$::E [font italic=true]isso[font italic=false] significa que ela ainda nem usou o seu Fantasma Nobre.::
 23980::$$$message_0210_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
 23981::$$$message_0210_0018_0001$$$::Mas mesmo nessa situação, a Saber não pensa em derrota.[lr]::
 23982::$$$message_0210_0018_0002$$$::Em vez disso, ela pensa que sua chance virá quando Rider realmente começar a lutar a sério.[lr]::
@@ -90,7 +90,7 @@ id=qid::label=str::text=lstr::
 23999::$$$message_0210_0022_0002$$$::Achei que tivesse ouvido alguma coisa...[lr]::
 24000::$$$message_0210_0022_0003$$$::"Shinji!? Eu sei que você está aí. Apareça!"::
 24001::$$$message_0210_0023_0000$$$::Eu não tenho como saber o quão forte é a Rider montada naquele Pégaso.[lr]::
-24002::$$$message_0210_0023_0001$$$::Só sei que aquela aberração branca tem mais Energia Mágica do que algumas centenas de magos conseguiriam reunir.::
+24002::$$$message_0210_0023_0001$$$::Só sei que aquela aberração branca tem mais Energia Mágica do que algumas [font italic=true]centenas[font italic=false] de magos conseguiriam reunir.::
 24003::$$$message_0210_0024_0000$$$::Depois de saber isso, não é surpresa ver o telhado incinerado.[lr]::
 24004::$$$message_0210_0024_0001$$$::Aquele monstro pode destruir quase tudo ao redor só de passar correndo por cima.[lr]::
 24005::$$$message_0210_0024_0002$$$::Se aquilo vier em investida do céu, nem a Saber vai conseguir evitar.::
@@ -114,12 +114,12 @@ id=qid::label=str::text=lstr::
 24023::$$$message_0210_0031_0000$$$::"Mas eu não sou assim. Você e o seu Servo já eram, aqui e agora. Mas também não é como se fôssemos completos estranhos, né?[lr]::
 24024::$$$message_0210_0031_0001$$$::Ainda te devo uma de ontem, então vou ser misericordioso e te matar rápido!"::
 24025::$$$message_0210_0032_0000$$$::"...Ngh!"[lr]::
-24026::$$$message_0210_0032_0001$$$::[line2]Isso é péssimo.[lr]::
+24026::$$$message_0210_0032_0001$$$::Isso é péssimo.[lr]::
 24027::$$$message_0210_0032_0002$$$::Lá no alto, Pégaso inclina a cabeça na direção da Saber.[lr]::
 24028::$$$message_0210_0032_0003$$$::O redemoinho de energia mágica gira sem parar.[lr]::
-24029::$$$message_0210_0032_0004$$$::Se aquela coisa vier em alta velocidade, esse telhado vai ser completamente destruído[line2]!::
+24029::$$$message_0210_0032_0004$$$::Se aquela coisa vier em alta velocidade, esse telhado vai ser completamente destruído!::
 24030::$$$message_0210_0033_0000$$$::"Não se preocupe, Emiya. Você foi só um estorvo no caminho, mas vou garantir que aqueles idiotas da escola sigam o mesmo destino que o seu. E, se ainda se sentir sozinho, posso mandar aquela Sakura irritante junto também!"::
-24031::$$$message_0210_0034_0000$$$::"Shinji, seu[line2]!"[lr]::
+24031::$$$message_0210_0034_0000$$$::"Shinji, seu!"[lr]::
 24032::$$$message_0210_0034_0001$$$::"Vai, Rider![lr]::
 24033::$$$message_0210_0034_0002$$$::Primeiro a mulher! Não deixe nem rastro!"::
 24034::$$$message_0210_0035_0000$$$::"Gnh... Saber!!!"[lr]::
@@ -134,8 +134,8 @@ id=qid::label=str::text=lstr::
 24043::$$$message_0210_0037_0000$$$::Agora, todos esses pensamentos são postos de lado.[lr]::
 24044::$$$message_0210_0037_0001$$$::O que mais ela poderia fazer?[lr]::
 24045::$$$message_0210_0037_0002$$$::Mesmo nessa situação perigosa, ele está apenas preocupado com a Saber.::
-24046::$$$message_0210_0038_0000$$$::"Shirou[line4]"[lr]::
-24047::$$$message_0210_0038_0001$$$::[line2]Pensando bem, ele sempre foi assim.[lr]::
+24046::$$$message_0210_0038_0000$$$::"Shirou"[lr]::
+24047::$$$message_0210_0038_0001$$$::Pensando bem, ele sempre foi assim.[lr]::
 24048::$$$message_0210_0038_0002$$$::Mesmo sabendo que a Saber era uma cavaleira incrível,[lr]::
 24049::$$$message_0210_0038_0003$$$::Ele nunca a tratou como tal.::
 24050::$$$message_0210_0039_0000$$$::"Parece que a brincadeira acabou, Saber."[lr]::
@@ -196,7 +196,7 @@ id=qid::label=str::text=lstr::
 24105::$$$message_0210_0051_0002$$$::A Saber não se move, mesmo sabendo que é o alvo dela.::
 24106::$$$message_0210_0052_0000$$$::"Sa...ber!?"[lr]::
 24107::$$$message_0210_0052_0001$$$::Aquele vendaval descontrolado... vem dela.[lr]::
-24108::$$$message_0210_0052_0002$$$::Não, não da Saber. Da espada que ela está segurando!::
+24108::$$$message_0210_0052_0002$$$::Não, não da Saber. Da [font italic=true]espada[font italic=false] que ela está segurando!::
 24109::$$$message_0210_0053_0000$$$::"...Hã?"[lr]::
 24110::$$$message_0210_0053_0001$$$::Eu não acredito no que estou vendo.[lr]::
 24111::$$$message_0210_0053_0002$$$::Estou conseguindo enxergar a espada que deveria ser invisível.[lr]::
@@ -218,7 +218,7 @@ id=qid::label=str::text=lstr::
 24127::$$$message_0210_0058_0001$$$::A luz da montaria da Rider é brilhante, mas não chega nem perto da pureza desta aqui.[lr]::
 24128::$$$message_0210_0058_0002$$$::Nas mãos dela...[lr]::
 24129::$$$message_0210_0058_0003$$$::...a espada sagrada suprema, que reuniu as luzes das estrelas.::
-24130::$$$message_0210_0059_0000$$$::"[line2]EX[wsay canskip=1]::
+24130::$$$message_0210_0059_0000$$$::"EX[wsay canskip=1]::
 24131::$$$message_0210_0059_0001$$$::...CALIBUR!!!"::
 24132::$$$message_0210_0060_0000$$$::Um único feixe de luz brilhante.::
 24133::$$$message_0210_0061_0000$$$::É... uma lâmina de luz, cortando tudo o que toca.[lr]::

@@ -1,17 +1,17 @@
 DAT
 id=qid::label=str::text=lstr::
-24630::$$$message_0216_0000_0000$$$:: Essa é a história de um inverno de cinco anos atrás.::
+24630::$$$message_0216_0000_0000$$$::               Essa é a história de um inverno de cinco anos atrás.::
 24631::$$$message_0216_0001_0000$$$::Era uma noite com uma Lua deslumbrante.[l][r]::
 24632::$$$message_0216_0001_0001$$$::Eu estava observando a Lua com o meu pai, Emiya Kiritsugu.[l][r]::
 24633::$$$message_0216_0001_0002$$$::Mesmo sendo inverno, o clima não estava frio.[l][r]::
-24634::$$$message_0216_0001_0003$$$::O corredor estava só um pouco frio e era uma ótima noite para apreciar a Lua.::
+24634::$$$message_0216_0001_0003$$$::A varanda estava só um pouco gelada e era uma ótima noite para apreciar a Lua.::
 24635::$$$message_0216_0002_0000$$$::Naquela época, o Kiritsugu não saía muito de casa.[l][r]::
 24636::$$$message_0216_0002_0001$$$::Não saindo muito, ele simplesmente vagava despreocupadamente pela casa.[lr]::
 24637::$$$message_0216_0002_0002$$$::Refletindo sobre isso, sinto arrependimento.[l][r]::
-24638::$$$message_0216_0002_0003$$$::Como não notei que era como as ações de um animal que sabia a hora de sua morte?::
-24639::$$$message_0216_0003_0000$$$::"Quando eu era uma criança, queria ser um super-herói."[l][r]::
-24640::$$$message_0216_0003_0001$$$::Repentinamente.[l][r]::
-24641::$$$message_0216_0003_0002$$$::Aquele homem, que já era um super-herói aos meus olhos, disse aquilo como se estivesse lembrando de algo.::
+24638::$$$message_0216_0002_0003$$$::Por que eu não percebi que ele estava agindo como qualquer criatura faz quando sabe que seu tempo está quase acabando?::
+24639::$$$message_0216_0003_0000$$$::"Quando eu era menino, eu queria ser um herói da justiça."[l][r]::
+24640::$$$message_0216_0003_0001$$$::Ele disse repentinamente.[l][r]::
+24641::$$$message_0216_0003_0002$$$::Meu pai, que já parecia um herói da justiça aos meus olhos, disse aquilo como se estivesse refletindo sobre uma memória.::
 24642::$$$message_0216_0004_0000$$$::"Quê? O que você quer dizer com "queria"? Você desistiu?"[l][r]::
 24643::$$$message_0216_0004_0001$$$::Eu fiquei irritado e perguntei para ele.[l][r]::
 24644::$$$message_0216_0004_0002$$$::O Kiritsugu riu e pediu desculpas, ainda observando a Lua distante.::
@@ -23,13 +23,13 @@ id=qid::label=str::text=lstr::
 24650::$$$message_0216_0006_0002$$$::O Kiritsugu havia concordado.[l][r]::
 24651::$$$message_0216_0006_0003$$$::Como se já tivesse a frase pronta, eu respondi com determinação.::
 24652::$$$message_0216_0007_0000$$$::"É, não tinha o que fazer, então vou tomar seu lugar.[l][r]::
-24653::$$$message_0216_0007_0001$$$:: É impossível já que você é um adulto, mas deve ser tranquilo pra mim. Me deixe levar seu sonho."::
+24653::$$$message_0216_0007_0001$$$::É impossível já que você é um adulto, mas deve ser tranquilo pra mim. Me deixe levar seu sonho."::
 24654::$$$message_0216_0008_0000$$$::'[line3]Vou transformá-lo em realidade.'::
 24655::$$$message_0216_0009_0000$$$::Antes que eu pudesse terminar, meu pai riu.[l][r]::
 24656::$$$message_0216_0009_0001$$$::Ele fez uma cara de como não precisasse ouvir o resto.[l][r]::
 24657::$$$message_0216_0009_0002$$$::Depois de respirar fundo, Emiya Kiritsugu disse...[l][r]::
 24658::$$$message_0216_0009_0003$$$::"Sim[line3]que alívio..."[l][r]::
-24659::$$$message_0216_0009_0004$$$::Ele quietamente fechou seus olhos e sua vida acabou.::
+24659::$$$message_0216_0009_0004$$$::Ele quietamente fechou seus olhos, indicando também o fim de sua vida.::
 24660::$$$message_0216_0010_0000$$$::Já que ele parecia tão em paz, pensei que acordaria de novo de manhã, então não o perturbei.[l][r]::
 24661::$$$message_0216_0010_0001$$$::Talvez estar acostumado em ver pessoas mortas também tenha sido um fator.[l][r]::
 24662::$$$message_0216_0010_0002$$$::Fiquei olhando para o homem que era meu pai, enquanto ele entrava em um sono profundo.::
@@ -41,7 +41,7 @@ id=qid::label=str::text=lstr::
 24668::$$$message_0216_0012_0001$$$::Talvez eu tenha chorado o equivalente de dez anos. Depois daquilo, não havia mais nada.::
 24669::$$$message_0216_0013_0000$$$::O pai da Fuji-nee planejou o funeral, e eu comecei a morar nessa casa sozinho.[l][r]::
 24670::$$$message_0216_0013_0001$$$::Nada mudou mesmo depois que o Kiritsugu se foi.[l][r]::
-24671::$$$message_0216_0013_0002$$$::Emiya Shirou se tornaria um super-herói como o Emiya Kiritsugu, então não havia tempo para ficar brincando.::
+24671::$$$message_0216_0013_0002$$$::Emiya Shirou se tornaria um herói da justiça como o Emiya Kiritsugu, então não havia tempo para ficar brincando.::
 24672::$$$message_0216_0014_0000$$$::[line3]É verdade.[l][r]::
 24673::$$$message_0216_0014_0001$$$::Não cheguei a mencionar, mas lembro perfeitamente.[l][r]::
 24674::$$$message_0216_0014_0002$$$::O rosto do homem que me salvou, quando eu estava preso no fogo dez anos atrás.[l][r]::
@@ -51,10 +51,10 @@ id=qid::label=str::text=lstr::
 24678::$$$message_0216_0015_0002$$$::Quando eu não pude salvar ninguém.[l][r]::
 24679::$$$message_0216_0015_0003$$$::No meio das ruínas, houve um garoto que foi salvo, e aquele homem que conseguiu salvá-lo.[l][r]::
 24680::$$$message_0216_0015_0004$$$::[line3]Por isso decidi ser igual a ele.::
-24681::$$$message_0216_0016_0000$$$::Ser um super-herói, para que eu pudesse salvar pessoas e não deixar ninguém ser morto... igual a ele.[l][r]::
-24682::$$$message_0216_0016_0001$$$::Kiritsugu morreu em paz, me deixando seu sonho de ser um super-herói.::
+24681::$$$message_0216_0016_0000$$$::Ser um herói da justiça, para que eu pudesse salvar pessoas e não deixar ninguém ser morto... igual a ele.[l][r]::
+24682::$$$message_0216_0016_0001$$$::Kiritsugu morreu em paz, me deixando seu sonho de ser um herói da justiça.::
 24683::$$$message_0216_0017_0000$$$::É normal para uma criança herdar os desejos do pai.[l][r]::
-24684::$$$message_0216_0017_0001$$$::Da mesma forma que eu fui salvo antes, agora Emiya Shirou precisa virar um super-herói e salvar alguém.[l][r]::
+24684::$$$message_0216_0017_0001$$$::Da mesma forma que eu fui salvo antes, agora Emiya Shirou precisa virar um herói da justiça e salvar alguém.[l][r]::
 24685::$$$message_0216_0017_0002$$$::Eu jurei isso quando era criança.[l][r]::
 24686::$$$message_0216_0017_0003$$$::Cumprir o sonho do homem que eu mais admirava.::
 24687::$$$message_0216_0018_0000$$$::Mas honestamente, não consigo entender.[l][r]::
