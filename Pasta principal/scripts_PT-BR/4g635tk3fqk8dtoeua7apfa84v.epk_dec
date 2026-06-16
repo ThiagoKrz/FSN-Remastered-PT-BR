@@ -1,0 +1,91 @@
+DAT
+id=qid::label=str::text=lstr::
+65184::$$$message_0599_0000_0000$$$::Eu vou para a sala de estar.[lr]::
+65185::$$$message_0599_0000_0001$$$::"Huh? Você veio pelo lado do corredor que leva pra a entrada da casa?"[lr]::
+65186::$$$message_0599_0000_0002$$$::Illya está sentada sozinha na sala de estar.::
+65187::$$$message_0599_0001_0000$$$::"Sim. Eu saí um pouco. Aconteceu alguma coisa enquanto eu estava fora?"[lr]::
+65188::$$$message_0599_0001_0001$$$::"Não aconteceu nada. Mas você precisa ficar no seu quarto e descansar, Shirou.[lr]::
+65189::$$$message_0599_0001_0002$$$::O seu corpo está tão ruim quanto o da Sakura."::
+65190::$$$message_0599_0002_0000$$$::"Obrigado. Mas eu vou ficar bem enquanto eu manter esse pano no meu braço."[lr]::
+65191::$$$message_0599_0002_0001$$$::"Aah, você vai acabar desmaiando se ficar falando desse[w l=3][line3][lr]::
+65192::$$$message_0599_0002_0002$$$::[w l=3][line3]Shirou. Aconteceu alguma coisa lá fora?"::
+65193::$$$message_0599_0003_0000$$$::"[w l=5][line5]Não, não aconteceu nada."[lr]::
+65194::$$$message_0599_0003_0001$$$::"Mentira! Eu não sei o que você foi fazer, mas não fala comigo com os olhos tão vazios!"::
+65195::$$$message_0599_0004_0000$$$::"Ah[w l=4][line4]"[lr]::
+65196::$$$message_0599_0004_0001$$$::Ela me deu uma bronca.[lr]::
+65197::$$$message_0599_0004_0002$$$::...Entendi. Eu devo estar parecendo ridículo.[lr]::
+65198::$$$message_0599_0004_0003$$$::Não tem o que fazer se esse for o caso.::
+65199::$$$message_0599_0005_0000$$$::"[w l=3][line3]"...Me desculpa. Eu sei que não adianta ficar me preocupando, mas eu precisava pensar."[lr]::
+65200::$$$message_0599_0005_0001$$$::Eu balanço a cabeça.[lr]::
+65201::$$$message_0599_0005_0002$$$::Como a Illya disse, eu não consigo esvaziar a minha mente.[lr]::
+65202::$$$message_0599_0005_0003$$$::Eu não posso ir ver a Sakura com um rosto miserável, por isso tenho que mostrar um pouco de ânimo[w l=4][line4]!::
+65203::$$$message_0599_0006_0000$$$::"Isso, agora sim. Parece que você se animou.[lr]::
+65204::$$$message_0599_0006_0001$$$::Então, sobre o que você quer falar? Eu vou te ajudar, se estiver tudo bem com você."[lr]::
+65205::$$$message_0599_0006_0002$$$::"[w l=8][line8]"::
+65206::$$$message_0599_0007_0000$$$::...Droga.[lr]::
+65207::$$$message_0599_0007_0001$$$::A Illya as vezes fica muito gentil.[lr]::
+65208::$$$message_0599_0007_0002$$$::Essa é a segunda vez que ela me ajudou quando eu estava deprimido.[lr]::
+65209::$$$message_0599_0007_0003$$$::Não consigo dizer qual de nós dois é o mais velho.::
+65210::$$$message_0599_0008_0000$$$::"Ok. Posso te perguntar uma coisa, Illya?"[lr]::
+65211::$$$message_0599_0008_0001$$$::"Tudo bem, te contarei qualquer coisa. O que você quer saber?"::
+65212::$$$message_0599_0009_0000$$$::"...O Santo Graal. Me conte sobre o Santo Graal dos Einzberns."[lr]::
+65213::$$$message_0599_0009_0001$$$::"...Entendi, então você descobriu, huh? Tinha duas coisas que eu queria que você não descobrisse, e essa era uma delas."::
+65214::$$$message_0599_0010_0000$$$::"[w l=4][line4]Illya. Então..."[lr]::
+65215::$$$message_0599_0010_0001$$$::"Sim, eu sou o Santo Graal. Eu não sou humana. Eu sou um homúnculo criado para esse propósito."::
+65216::$$$message_0599_0011_0000$$$::Homúnculo[w l=4][line4][lr]::
+65217::$$$message_0599_0011_0001$$$::Uma fórmula alquímica para criar vida sem uma mãe, usando esperma e outros elementos.[lr]::
+65218::$$$message_0599_0011_0002$$$::Eles não nascem de um sistema reprodutivo adequado, e portanto possuem defeitos físicos.[lr]::
+65219::$$$message_0599_0011_0003$$$::Eles tem forma e vida humana, mas eles não são humanos, e portanto são completados com um poderoso Circuito Mágico.::
+65220::$$$message_0599_0012_0000$$$::Eles são fracos como uma forma de vida.[lr]::
+65221::$$$message_0599_0012_0001$$$::Mas eles superam os humanos em poder quando são feitos como [r]magos[w l=3][line3]não, como Circuitos Mágicos[w l=3][line3]::
+65222::$$$message_0599_0013_0000$$$::"[w l=4][line4]Bom, então é isso.[lr]::
+65223::$$$message_0599_0013_0001$$$::A família Einzbern me criou para funcionar como Santo Graal e Mestre ao mesmo tempo.[lr]::
+65224::$$$message_0599_0013_0002$$$::A função do Santo Graal é coletar as almas dos Espíritos Heroicos derrotados. Humanos, caixões, até mesmo uma panela, não importa o que seja contanto que ela tenha essa função especial. Só precisa ser um recipiente grande o suficiente para armazenar almas."::
+65225::$$$message_0599_0014_0000$$$::Illya soa como se não estivesse interessada.[lr]::
+65226::$$$message_0599_0014_0001$$$::Mas[w l=3][line3]essa é a primeira vez que ouço que o Santo Graal coleta Servos.::
+65227::$$$message_0599_0015_0000$$$::"Bom, é mais recuperar do que coletar.[lr]::
+65228::$$$message_0599_0015_0001$$$::Servos são invocados pelo Santo Graal. Por isso é natural eles retornarem para o Santo Graal após serem derrotados. Eu sou o único Santo Graal dos Einzberns, por isso eu deveria ter coletado todos eles."::
+65229::$$$message_0599_0016_0000$$$::"...Mas parece que tem mais alguém funcionando como um Santo Graal.[lr]::
+65230::$$$message_0599_0016_0001$$$::Ela pegou a Caster e o Lancer quando eu percebi, e seu poder de absorção era maior.[lr]::
+65231::$$$message_0599_0016_0002$$$::Por isso ela pegou a maioria dos Servos.[lr]::
+65232::$$$message_0599_0016_0003$$$::......Eu consegui coletar o Archer porque ele desapareceu bem na minha frente."::
+65233::$$$message_0599_0017_0000$$$::...Não precisa nem ser dito.[lr]::
+65234::$$$message_0599_0017_0001$$$::O outro Santo Graal é a Sakura.[lr]::
+65235::$$$message_0599_0017_0002$$$::De acordo com a Illya, Sakura já pegou a Caster e o Lancer... além da Saber e do Berserker.::
+65236::$$$message_0599_0018_0000$$$::"Almas equivalentes a quatro Servos. Mas você consegue guardar tudo isso?  Não é uma regra geral que o corpo humano só consegue conter uma única alma?"::
+65237::$$$message_0599_0019_0000$$$::"Sim, ainda mais se for a alma de um Espírito Heroico.[lr]::
+65238::$$$message_0599_0019_0001$$$::A energia mágica de um Servo que perdeu a sua 'concha' chamada Classe é enorme. Ter uma alma dessas em seu corpo é como criar um furacão dentro do seu corpo.[lr]::
+65239::$$$message_0599_0019_0002$$$::Mas é a função do Santo Graal coletar sete almas no final.[lr]::
+65240::$$$message_0599_0019_0003$$$::Não há espaço para a alma do recipiente."::
+65241::$$$message_0599_0020_0000$$$::"Por isso que todos os Santos Graais até agora foram substâncias inorgânicas sem almas. A função do Santo Graal é coletar as almas de todos os sete Servos, para então uní-los e manipulá-los.[lr]::
+65242::$$$message_0599_0020_0001$$$::...Você não precisa de nenhum programa extra no recipiente. A personalidade do Santo Graal apenas será deletada pela função do Santo Graal."::
+65243::$$$message_0599_0021_0000$$$::"Resumindo, Shirou. O Santo Graal perde as suas funções humanas quanto mais completo ele fica.[lr]::
+65244::$$$message_0599_0021_0001$$$::O mesmo vale pra mim. Assim que eu coletar vários Servos, eu terei que cortar as minhas funções de ser humano para controlar as almas."::
+65245::$$$message_0599_0022_0000$$$::"Eu posso manipulá-los se eu cortar a energia que move meus membros.[lr]::
+65246::$$$message_0599_0022_0001$$$::Eu não vou deixar as almas escaparem se eu parar de respirar.[lr]::
+65247::$$$message_0599_0022_0002$$$::Eu posso estabilizar a integração das almas se eu usar todo o poder usado para construir a minha forma humana."::
+65248::$$$message_0599_0023_0000$$$::"O mesmo vale para Sakura também. Você não pode funcionar como um ser humano assim que se torna um Santo Graal. Você não tem poder de sobra."::
+65249::$$$message_0599_0024_0000$$$::"......Mas, sim.[lr]::
+65250::$$$message_0599_0024_0001$$$::Se existe uma diferença entre a gente, é que eu posso mudar à vontade, mas a Sakura é forçada a mudar. Sakura é um Santo Graal negro incompleto, por isso ela não tem o direito de recusar."::
+65251::$$$message_0599_0025_0000$$$::Illya não demonstra emoção alguma enquanto ela continua.[lr]::
+65252::$$$message_0599_0025_0001$$$::...Ela sabia.[lr]::
+65253::$$$message_0599_0025_0002$$$::Ela provavelmente sabia desde quando ela nasceu, não, mesmo antes dela nascer.[lr]::
+65254::$$$message_0599_0025_0003$$$::Ela sabia que a vida dela foi feita para um motivo estúpido desses.::
+65255::$$$message_0599_0026_0000$$$::"[w l=8][line8]"[lr]::
+65256::$$$message_0599_0026_0001$$$::Mas pelo menos há uma notícia boa.[lr]::
+65257::$$$message_0599_0026_0002$$$::Eu coloco minha mão no meu peito e olho para os céus, como se estivesse agradecendo.::
+65258::$$$message_0599_0027_0000$$$::"O que foi, Shirou? Eu disse que a Sakura não pode ser salva."[lr]::
+65259::$$$message_0599_0027_0001$$$::Eu sei.[lr]::
+65260::$$$message_0599_0027_0002$$$::Eu sei disso, mas...::
+65261::$$$message_0599_0028_0000$$$::"Vocês duas estão dividindo entre si, né? Então você ainda está..."[lr]::
+65262::$$$message_0599_0028_0001$$$::"Hm, sim. A Sakura pegou a maioria deles, por isso não tenho problemas para continuar sendo eu mesma. Rider e Assassin. Mesmo se eu coletar as almas deles, eu não vou precisar cortar minhas funções de ser humano."::
+65263::$$$message_0599_0029_0000$$$::...Sim, isso é muito bom.[lr]::
+65264::$$$message_0599_0029_0001$$$::Se eu perder a Illya também, isso significaria que eu não consigo proteger ninguém[w l=4][line4]::
+65265::$$$message_0599_0030_0000$$$::"Eh, eh, Shirou...!?"[lr]::
+65266::$$$message_0599_0030_0001$$$::Sem me dar conta, eu abraço a Illya.[lr]::
+65267::$$$message_0599_0030_0002$$$::Eu não posso prometer nada a ela, e não é como se eu quisesse alguma coisa.::
+65268::$$$message_0599_0031_0000$$$::"Shirou..."[lr]::
+65269::$$$message_0599_0031_0001$$$::"[w l=8][line8]"[lr]::
+65270::$$$message_0599_0031_0002$$$::O seu corpo é pequeno, por isso eu não posso abraçá-la muito forte.[lr]::
+65271::$$$message_0599_0031_0003$$$::Eu apenas toco ela, segurando ela em meus braços.[lr]::
+65272::$$$message_0599_0031_0004$$$::Sinto com os próprios dedos o peso de alguém que eu preciso proteger.::

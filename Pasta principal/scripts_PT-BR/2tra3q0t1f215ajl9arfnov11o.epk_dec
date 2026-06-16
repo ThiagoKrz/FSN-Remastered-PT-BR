@@ -1,0 +1,162 @@
+DAT
+id=qid::label=str::text=lstr::
+61707::$$$message_0564_0000_0000$$$::O Templo Ryuudou.[lr]::
+61708::$$$message_0564_0000_0001$$$::A terra está desolada depois que a Caster desaparece.[lr]::
+61709::$$$message_0564_0000_0002$$$::Os monges, que desmaiaram por motivos desconhecidos, deixaram a montanha para manter o templo vazio.[lr]::
+61710::$$$message_0564_0000_0003$$$::O portão está firmemente fechado, então nem praticantes nem monges podem entrar.::
+61711::$$$message_0564_0001_0000$$$::"[w l=3][line3]Droga, que fedor. Isso fede mesmo."[lr]::
+61712::$$$message_0564_0001_0001$$$::Uma voz ecoa pelo local que deveria estar desolado.[lr]::
+61713::$$$message_0564_0001_0002$$$::Uma figura fina brilha sob o luar.[lr]::
+61714::$$$message_0564_0001_0003$$$::O homem tonificado com uma lança vermelha é um Servo conhecido como Lancer.::
+61715::$$$message_0564_0002_0000$$$::"Ah, uau. O Campo Limitado ainda está aqui, mesmo que a Caster tenha morrido?[lr]::
+61716::$$$message_0564_0002_0001$$$::...não, isso é imperfeito demais. O trabalho dela era muito mais cuidadoso."::
+61717::$$$message_0564_0003_0000$$$::O Lancer olha ao redor do templo.[lr]::
+61718::$$$message_0564_0003_0001$$$::A lança vermelha está em suas mãos.[lr]::
+61719::$$$message_0564_0003_0002$$$::Seus objetivos são obter informação e ficar de guarda.[lr]::
+61720::$$$message_0564_0003_0003$$$::Ele não está afim, mas não pode desobedecer o comando de seu Mestre.[lr]::
+61721::$$$message_0564_0003_0004$$$::É sua política seguir qualquer comando dado a ele, e completar a missão.[lr]::
+61722::$$$message_0564_0003_0005$$$::Por isso ele lutou com vários Servos e terminou em empate com cada um.::
+61723::$$$message_0564_0004_0000$$$::Enquanto ele servir estre Mestre, Lancer nunca iniciará uma luta.[lr]::
+61724::$$$message_0564_0004_0001$$$::Desta vez não é exceção, e ele tem que investigar o Templo Ryuudou.[lr]::
+61725::$$$message_0564_0004_0002$$$::Sendo o caso, por que a lança está em sua mão?[lr]::
+61726::$$$message_0564_0004_0003$$$::Sua arma, seu Fantasma Nobre, pode ser invocado quando necessário.[lr]::
+61727::$$$message_0564_0004_0004$$$::Não há necessidade dele segurar sua lança quando não há ninguém diante dele.::
+61728::$$$message_0564_0005_0000$$$::"Droga, que zona. Pensei que a Caster fosse mestre do vento, mas talvez ela tenha usado água. Este lugar está infestado com aranhas e sanguessugas[w l=4][line4]"::
+61729::$$$message_0564_0006_0000$$$::Ele anda pelo templo.[lr]::
+61730::$$$message_0564_0006_0001$$$::Ele parece vulnerável e indefeso demais para ser um Servo.[lr]::
+61731::$$$message_0564_0006_0002$$$::Ele está tão indefeso que se[w l=3][line3]isso é um se[w l=3][line3]houvesse outro Servo aqui, ele seria atacado e morto em um instante.::
+61732::$$$message_0564_0007_0000$$$::"[w l=4][line4]Mas quem sabe? Talvez a cabeça tenha sido substituída.[lr]::
+61733::$$$message_0564_0007_0001$$$::Não há nada aqui além de insetos podres. É sua prática habitual infestar casas vazias."::
+61734::$$$message_0564_0008_0000$$$::O Lancer não para de xingar.[lr]::
+61735::$$$message_0564_0008_0001$$$::O mestre azul da lança dá um discurso como se tentasse persuadir alguém que não está lá.::
+61736::$$$message_0564_0009_0000$$$::"Mas tem uma bem grande aqui.[lr]::
+61737::$$$message_0564_0009_0001$$$::Não sei de onde nasceu, mas parece que foi criada por bestas dentro de uma montanha. E o que é esse cheiro, areia?[lr]::
+61738::$$$message_0564_0009_0002$$$::Hah, pensei que você era uma aranhazona, mas no fim é só uma verme da areia sujo.[lr]::
+61739::$$$message_0564_0009_0003$$$::Por que diabos eu devia vir aqui e investigar uma nojeira como você[w l=4][line4]whoa!"::
+61740::$$$message_0564_0010_0000$$$::[w l=4][line4]A luz prateada é refletida.[lr]::
+61741::$$$message_0564_0010_0001$$$::Três raios de luz atacam da escuridão, apenas para serem derrubados pela lança do Lancer.::
+61742::$$$message_0564_0011_0000$$$::As luzes refletidas são adagas conhecidas como "punhais".[lr]::
+61743::$$$message_0564_0011_0001$$$::Não são armas para segurar e para cortar, mas sim para serem jogadas.[lr]::
+61744::$$$message_0564_0011_0002$$$::Essas adagas foram jogadas com força nos olhos e garganta do Lancer.::
+61745::$$$message_0564_0012_0000$$$::"[w l=4][line4]Você é bom, mas não tente isso de novo, verme.[lr]::
+61746::$$$message_0564_0012_0001$$$::Não quero ser morto sem um cumprimento primeiro, e ainda, seria fatal para você."::
+61747::$$$message_0564_0013_0000$$$::A figura azul fica parada firmemente diante da escuridão.[lr]::
+61748::$$$message_0564_0013_0001$$$::Nesta escuridão em sua frente há...::
+61749::$$$message_0564_0013_0002$$$::...uma caveira risonha, branca como a lua.::
+61750::$$$message_0564_0014_0000$$$::[w l=4][line4]A luta começa sem um sinal.[lr]::
+61751::$$$message_0564_0014_0001$$$::Sem palavas humanas, a caveira branca ataca Lancer com um grito inhumano,[lr]::
+61752::$$$message_0564_0014_0002$$$::e Lancer vai de encontro ao seu ataque sem nem mexer uma sombrancelha.::
+61753::$$$message_0564_0015_0000$$$::A caveira joga adagas com uma precisão que rivaliza ao do Archer.[lr]::
+61754::$$$message_0564_0015_0001$$$::Trinta são jogadas de perto enquanto ele corre pela escuridão.[lr]::
+61755::$$$message_0564_0015_0002$$$::Mas o Lancer facilmente repele cada uma.::
+61756::$$$message_0564_0016_0000$$$::"Ki[w l=4][line4]?"[lr]::
+61757::$$$message_0564_0016_0001$$$::A caveira para repentinamente.[lr]::
+61758::$$$message_0564_0016_0002$$$::É incomum.[lr]::
+61759::$$$message_0564_0016_0003$$$::Não importa o quão bom o Lancer seja, ele não pode possivelmente bloquear todas as adagas.[lr]::
+61760::$$$message_0564_0016_0004$$$::Além disso, ele está usando uma lança longa.[lr]::
+61761::$$$message_0564_0016_0005$$$::Como as adagas, jogadas cuidadosamente entre seus ataques, estão sendo refletidas?::
+61762::$$$message_0564_0017_0000$$$::"Ei. Não me diga que isso é tudo que você consegue fazer."[lr]::
+61763::$$$message_0564_0017_0001$$$::A presença do Lancer muda.[lr]::
+61764::$$$message_0564_0017_0002$$$::Ele para, e sua hostilidade muda para uma intenção clara de matar.::
+61765::$$$message_0564_0018_0000$$$::"Então é isso.[lr]::
+61766::$$$message_0564_0018_0001$$$::Não sei quem você é... bem, acho que vou pelo menos tirar essa sua máscara."::
+61767::$$$message_0564_0019_0000$$$::[w l=3][line3]adagas brilham pela escuridão.[lr]::
+61768::$$$message_0564_0019_0001$$$::Uma rápida barragem é lançada para contraatacar o avanço do [r]Lancer[w l=3][line3]!::
+61769::$$$message_0564_0020_0000$$$::Mas ele bloqueia até mesmo elas.[lr]::
+61770::$$$message_0564_0020_0001$$$::Embora elas não possam ser notadas, ele coloca-as de lado com um simples balanço de sua lança.::
+61771::$$$message_0564_0021_0000$$$::"[w l=8][line8]"[lr]::
+61772::$$$message_0564_0021_0001$$$::A caveira está tremendo.[lr]::
+61773::$$$message_0564_0021_0002$$$::Sem poder falar a língua dos humanos, ela só engole seu grito e assiste o inimigo se aproximar para acabar com sua vida[w l=4][line4][lr]::
+61774::$$$message_0564_0021_0003$$$::"[w l=4][line4], Kii[w l=4][line4]!"[lr]::
+61775::$$$message_0564_0021_0004$$$::Ele joga uma adaga na pequena abertura entre os ataques do Lancer...!::
+61776::$$$message_0564_0022_0000$$$::"Kii...!"[lr]::
+61777::$$$message_0564_0022_0001$$$::A máscara de caveira treme.[lr]::
+61778::$$$message_0564_0022_0002$$$::Lancer bloqueia a adaga, gira sua lança em um círculo inteiro e acerta o queixo de seu oponente por baixo.::
+61779::$$$message_0564_0023_0000$$$::Defensa e contraataque.[lr]::
+61780::$$$message_0564_0023_0001$$$::Ele faz ambos em um único movimento.[lr]::
+61781::$$$message_0564_0023_0002$$$::Já comprometido com seu ataque, a caveira não pode responder a tal manobra.::
+61782::$$$message_0564_0024_0000$$$::[w l=4][line4]a máscara branca caí de seu rosto.[lr]::
+61783::$$$message_0564_0024_0001$$$::Lancer deixa de atacar.[lr]::
+61784::$$$message_0564_0024_0002$$$::Sua ordem é meramente observar seus inimigos.[lr]::
+61785::$$$message_0564_0024_0003$$$::Embora esta seja uma chance perfeita de matar, ele não tem autoridade para atacar.::
+61786::$$$message_0564_0025_0000$$$::"[w l=3][line3]Idiota. Eu te avisei que projetéis são inúteis contra mim. Foi você quem não ouviu ao meu aviso."::
+61787::$$$message_0564_0026_0000$$$::Lancer prepara sua lança novamente e aponta ao seu inimigo, que agora esconde o seu rosto.[lr]::
+61788::$$$message_0564_0026_0001$$$::Um corpo negro.[lr]::
+61789::$$$message_0564_0026_0002$$$::Uma mão direita coberta em bandagens.[lr]::
+61790::$$$message_0564_0026_0003$$$::Um rosto ainda oculto pela escuridão.::
+61791::$$$message_0564_0027_0000$$$::Não.[lr]::
+61792::$$$message_0564_0027_0001$$$::Sua cara é reta e sem detalhes.::
+61793::$$$message_0564_0028_0000$$$::"Gi[w l=4][line4]voCê VIu MEu RoSTo, Lan, cer."[lr]::
+61794::$$$message_0564_0028_0001$$$::"Estou prestes. Tenho certeza de que é um Servo, então deixe-me ver qual herói é."[lr]::
+61795::$$$message_0564_0028_0002$$$::"[w l=3][line3]Kuh. enTEnDo, VOcê TeM UMa ResTRIçÃO. NãO É A toA, qUe, NÃo mE, MAtoU."::
+61796::$$$message_0564_0029_0000$$$::O Servo recua mais adentro das sombras.[lr]::
+61797::$$$message_0564_0029_0001$$$::Ele ainda tem um punhal em sua mão, e sua hostilidade não desapareceu.::
+61798::$$$message_0564_0030_0000$$$::"Nem tente. É minha natureza, projetéis de um oponente visível não me afetam. Não poderá me ferir com um exceto se for um poderoso Fantasma Nobre."[lr]::
+61799::$$$message_0564_0030_0001$$$::"...! [w l=3][line3]enTEnDo, PRoteÇÃo CoNTra FLeChas. ...Kuku, coMo ESperADo dE uM HeRóI COm UM nOMe. VoCê NãO É CoMO eU."::
+61800::$$$message_0564_0031_0000$$$::A sombra treme.[lr]::
+61801::$$$message_0564_0031_0001$$$::O Servo negro afunda no chão,[lr]::
+61802::$$$message_0564_0031_0002$$$::e então pula em um instante enquanto joga outra adaga.::
+61803::$$$message_0564_0032_0000$$$::Se seu pulo é como o de um cervo, seus movimentos são como de uma aranha, cobra ou escorpião.[lr]::
+61804::$$$message_0564_0032_0001$$$::Embora mantenha seu rosto oculto, este Servo é tão rápido quanto o Lancer quando se trata de recuar.[lr]::
+61805::$$$message_0564_0032_0002$$$::Mas o avanço do Lancer é ainda mais rápido.[lr]::
+61806::$$$message_0564_0032_0003$$$::É uma desgraça levar mais de um minutio para encuralar seu inimigo.::
+61807::$$$message_0564_0033_0000$$$::"Infernos[w l=3][line3]sei que destruí sua gargante, mas ele é persistente. Não parece que melhorou, então ele deve estar drogado[w l=4][line4]"::
+61808::$$$message_0564_0034_0000$$$::Seu inimigo desliza pela água como uma aranha, e Lancer o persegue.[lr]::
+61809::$$$message_0564_0034_0001$$$::Em contraste à sombra, a água respinga com seus passos, mas sua velocidade é ainda maior.::
+61810::$$$message_0564_0035_0000$$$::"...Hmph. Se eu soubesse que dor não o pararia, teria cortado suas juntas. Eu deixei isso de lado pois não funciona com outros oponentens, mas[w l=4][line4]"::
+61811::$$$message_0564_0036_0000$$$::É mortal para um ser humano ter sua juntas cortadas, onde a artéria principal está.[lr]::
+61812::$$$message_0564_0036_0001$$$::Se as artérias forem cortadas, morte por sangramento severo logo chega.[lr]::
+61813::$$$message_0564_0036_0002$$$::Mas isso apenas em combate normal.[lr]::
+61814::$$$message_0564_0036_0003$$$::Não se pode esperar que um Servo, um espírito heroico, morra de sangramento.::
+61815::$$$message_0564_0037_0000$$$::Como sua energia vital é energia mágica, cortar suas artérias não faz muita diferença.[lr]::
+61816::$$$message_0564_0037_0001$$$::A perda de um membro é outra história, mas corta um membro de um Servo é uma tarefa árdua.[lr]::
+61817::$$$message_0564_0037_0002$$$::Tentar isto provavelmente custará sua cabeça também.::
+61818::$$$message_0564_0038_0000$$$::"...Hashish, huh? Aposto que um espírito heroico que depende de drogas não tem poderes de cura. Acabarei esta luta com meu próximo [r]golpe[w l=4][line4]"[lr]::
+61819::$$$message_0564_0038_0001$$$::Água respinga com a velocidade de um raio.[lr]::
+61820::$$$message_0564_0038_0002$$$::Seu próximo ataque acertará em mais dois segundos.[lr]::
+61821::$$$message_0564_0038_0003$$$::Ele tensiona, então perfura a perna esquerda de seu inimigo em fuga[w l=3][line3][lr]::
+61822::$$$message_0564_0038_0004$$$::"[w l=4][line4]!"[lr]::
+61823::$$$message_0564_0038_0005$$$::Com vantagem, Lancer pula para fora da superfície d'água.::
+61824::$$$message_0564_0039_0000$$$::[w l=4][line4]A água explode para cima.[lr]::
+61825::$$$message_0564_0039_0001$$$::Não, algo debaixo d'água está subindo.[lr]::
+61826::$$$message_0564_0039_0002$$$::Tendões negros saem da água, atrás do guerreiro de lança.[lr]::
+61827::$$$message_0564_0039_0003$$$::Será que é porque esta criatura habita debaixo d'água?[lr]::
+61828::$$$message_0564_0039_0004$$$::Parece com um monstro do mar dos tempo antigos.::
+61829::$$$message_0564_0040_0000$$$::"[w l=7][line7]Mas... o que...?"[lr]::
+61830::$$$message_0564_0040_0001$$$::Lancer não tem para onde fugir.[lr]::
+61831::$$$message_0564_0040_0002$$$::Ele instantamente rabisca suas runas no fundo do lago para criar um Campo Limitado, mas ele é facilmente penetrado.::
+61832::$$$message_0564_0041_0000$$$::Os tentáculos negros se aproximam por todos os lados, e seu território encolhe a cada segundo.[lr]::
+61833::$$$message_0564_0041_0001$$$::A proteção de todas as suas Runas, que podem bloquear até um grande Fantasma Nobre, não reduzem nem por um instante a penetração.[lr]::
+61834::$$$message_0564_0041_0002$$$::Observando o Lancer[w l=4][line4][lr]::
+61835::$$$message_0564_0041_0003$$$::"QUaL É O PrOBlEmA, LAncEr? ElE tE EnGOLiRÁ sE CoNTiNUAr ParADO."[lr]::
+61836::$$$message_0564_0041_0004$$$::Assassin ri.::
+61837::$$$message_0564_0042_0000$$$::Mas até a arranha risonha não é exceção.[lr]::
+61838::$$$message_0564_0042_0001$$$::Parece que esses tendões engolirão qualquer coisa que conseguirem alcançar, já que a aranha não se aproxima da água escura.[lr]::
+61839::$$$message_0564_0042_0002$$$::Ele sabe que ao se aproximar, eles terão interesse na nova presa.::
+61840::$$$message_0564_0043_0000$$$::"MaS NÃo PErmITiRei IsTo. DEvO MaTAr voCÊ. PrECiSO dE mAIs EXperIÊnCia. DeVO mATá-Lo pAra ObTEr iNtELigÊnCIa."::
+61841::$$$message_0564_0044_0000$$$::A adaga da aranha reluz.[lr]::
+61842::$$$message_0564_0044_0001$$$::A arma prestes a ser lançada é um projétil.[lr]::
+61843::$$$message_0564_0044_0002$$$::Mas não será inútil?[lr]::
+61844::$$$message_0564_0044_0003$$$::Embora Lancer esteja cercado por membros fantasmagóricos, projetéis são inúteis contra ele.::
+61845::$$$message_0564_0045_0000$$$::"[w l=3][line3]Não desiste, é? Bem, te entendo."[lr]::
+61846::$$$message_0564_0045_0001$$$::Lancer observa os membros fantasmagóricos ao seu redor.[lr]::
+61847::$$$message_0564_0045_0002$$$::Ele foi levado bem adentro, mas só está a trinta metros da margem oposta.[lr]::
+61848::$$$message_0564_0045_0003$$$::Ele deve conseguir pular tal distância tranquilamente...!::
+61849::$$$message_0564_0046_0000$$$::"Você perdeu pois não se moveria daí. Acabei com minha investigação, então estou dando o fora."[lr]::
+61850::$$$message_0564_0046_0001$$$::Lancer se agacha e apoia sua lança contra o chão.[lr]::
+61851::$$$message_0564_0046_0002$$$::Usando-a como suporte, Lancer se joga no ar.[lr]::
+61852::$$$message_0564_0046_0003$$$::Lá...[lr]::
+61853::$$$message_0564_0046_0004$$$::"Qu[w l=4][line4]e?"[lr]::
+61854::$$$message_0564_0046_0005$$$::Ele é acertado pelo mais simples dos ataques.::
+61855::$$$message_0564_0047_0000$$$::Um coração falso é arrancado de seu peito.[lr]::
+61856::$$$message_0564_0047_0001$$$::Assassin arrancou o coração de Lancer direamente de uma margem distante, um alcance impossível.::
+61857::$$$message_0564_0047_0002$$$::Assassino arranca o peito do lanceiro.::
+61858::$$$message_0564_0048_0000$$$::É a mais pura mágia, a mais simples maldição.[lr]::
+61859::$$$message_0564_0048_0001$$$::É a "mão amaldiçoada", uma magia do Oriente Médio, especializada em amaldiçoar pessoas.[lr]::
+61860::$$$message_0564_0048_0002$$$::[w l=4][line4]O Fantasma Nobre de Assassin, Zabaniya.[lr]::
+61861::$$$message_0564_0048_0003$$$::Ele garantidamente destrói o coração de Lancer, e seu corpo debilitado caí na água negra.::
+61862::$$$message_0564_0049_0000$$$::A superfície queima.[lr]::
+61863::$$$message_0564_0049_0001$$$::É herético, feroz e vulgar.[lr]::
+61864::$$$message_0564_0049_0002$$$::Você não veria tal refeição macabra nem mesmo se carne fosse jogada numa jaula com bestas enfomecidas.[lr]::
+61865::$$$message_0564_0049_0003$$$::[w l=3][line3]Numerosos membros negros eliminam o espírito herói.[lr]::
+61866::$$$message_0564_0049_0004$$$::O Servo sem rosto, encarando a água negra, engole o coração de sua presa com satisfação.::

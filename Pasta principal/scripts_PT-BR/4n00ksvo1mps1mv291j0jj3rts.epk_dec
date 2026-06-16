@@ -1,0 +1,121 @@
+DAT
+id=qid::label=str::text=lstr::
+32118::$$$message_0259_0000_0000$$$::[font italic=true]...[font italic=false][lr]::
+32119::$$$message_0259_0000_0001$$$::Eu sei que não conseguiria fazer nada, mesmo que quisesse.[lr]::
+32120::$$$message_0259_0000_0002$$$::Mas, mesmo agora... ainda consigo sentir a mão dela na minha.[lr]::
+32121::$$$message_0259_0000_0003$$$::Eu disse a ela que devíamos dar o nosso melhor.[lr]::
+32122::$$$message_0259_0000_0004$$$::Ela apertou minha mão quando eu a estendi.[lr]::
+32123::$$$message_0259_0000_0005$$$::Então...::
+32124::$$$message_0259_0001_0000$$$::"Argh, claro que é óbvio...!!"[lr]::
+32125::$$$message_0259_0001_0001$$$::Se eu subir esta colina e for atrás do gigante, vou acabar morto.[lr]::
+32126::$$$message_0259_0001_0002$$$::Eu reprimo o tremor e disparo colina acima o mais rápido que posso.::
+32127::$$$message_0259_0002_0000$$$::"Saber...!"[lr]::
+32128::$$$message_0259_0002_0001$$$::Corro para dentro do descampado.[lr]::
+32129::$$$message_0259_0002_0002$$$::...E então.[lr]::
+32130::$$$message_0259_0002_0003$$$::O que vejo desafia todas as expectativas.::
+32131::$$$message_0259_0003_0000$$$::Uma lápide voa pelos ares.[lr]::
+32132::$$$message_0259_0003_0001$$$::Sempre que o gigante ruge e balança sua espada gigantesca, ele parte lápides ao meio.[lr]::
+32133::$$$message_0259_0003_0002$$$::[line3]No meio disso...[lr]::
+32134::$$$message_0259_0003_0003$$$::...uma cavaleira avança sem vacilar através da tempestade de lápides.::
+32135::$$$message_0259_0004_0000$$$::Aquele machado-espada monstruoso levanta uma tempestade furiosa ao redor do gigante.[lr]::
+32136::$$$message_0259_0004_0001$$$::As lápides se chocam num estrondo ensurdecedor.[lr]::
+32137::$$$message_0259_0004_0002$$$::No centro daquela tempestade, Saber luta contra Berserker com o mesmo poder[line2]não, com ainda mais.::
+32138::$$$message_0259_0005_0000$$$::[font italic=true]...[font italic=false][lr]::
+32139::$$$message_0259_0005_0001$$$::"[wacky len=9]"[lr]::
+32140::$$$message_0259_0005_0002$$$::As posições se inverteram.[lr]::
+32141::$$$message_0259_0005_0003$$$::Ela está usando seu tamanho muito menor a seu favor.[lr]::
+32142::$$$message_0259_0005_0004$$$::Berserker é tão grande que todos os obstáculos ao redor acabam atrapalhando seus movimentos,[lr]::
+32143::$$$message_0259_0005_0005$$$::e Saber se move livremente entre eles, como se nada bloqueasse seu caminho.::
+32144::$$$message_0259_0006_0000$$$::Obstáculos assim são triviais para alguém tão forte quanto Berserker...[lr]::
+32145::$$$message_0259_0006_0001$$$::...mas ainda é melhor do que nada.[lr]::
+32146::$$$message_0259_0006_0002$$$::É uma vantagem pequena, mas, numa batalha dessas, até uma vantagem assim já basta para virar a balança para o outro lado[line2]::
+32147::$$$message_0259_0007_0000$$$::"Pra cá...! Você está atrapalhando!"[lr]::
+32148::$$$message_0259_0007_0001$$$::"Hã!? Epa...!?"[lr]::
+32149::$$$message_0259_0007_0002$$$::"No que você estava pensando!? Eu não mandei você fugir? Ficou surdo!?"[lr]::
+32150::$$$message_0259_0007_0003$$$::Ela está furiosa.::
+32151::$$$message_0259_0008_0000$$$::"Eu... ouvi, mas não posso simplesmente fugir, posso?"::
+32152::$$$message_0259_0009_0000$$$::"Quê!? Como foi que você chegou a essa conclusão!? Não está vendo que você não sabe lutar e só está atrapalhando!? Se morresse tentando fazer alguma diferença,[se file=se275 nowait=true][quake time=1000 vmax=15 hmax=10] ainda vá lá. Mas, se for morto antes mesmo de conseguir fazer qualquer coisa, aí vai ter morrido em vão!"::
+32153::$$$message_0259_0010_0000$$$::"...?"[lr]::
+32154::$$$message_0259_0010_0001$$$::...Não sei por quê, mas a Tohsaka está furiosa.[lr]::
+32155::$$$message_0259_0010_0002$$$::Estranhamente, não fico chateado com ela por estar gritando comigo.::
+32156::$$$message_0259_0011_0000$$$::"Ei. Isso é mesmo motivo para você ficar tão brava? Mesmo que eu morra, ainda que em vão, isso não é problema seu, é, Tohsaka?"[lr]::
+32157::$$$message_0259_0011_0001$$$::"Tem tudo a ver comigo! Eu [font italic=true]me[font italic=false] incomodo se você não conseguir voltar para casa são e salvo depois de eu ter decidido deixar isso passar por hoje!"::
+32158::$$$message_0259_0012_0000$$$::"..."[lr]::
+32159::$$$message_0259_0012_0001$$$::...E agora eu fico ainda mais confuso.[lr]::
+32160::$$$message_0259_0012_0002$$$::Tohsaka realmente mantém uma fachada na escola.::
+32161::$$$message_0259_0013_0000$$$::"Nossa. Enfim, você não está ferido, então trate de fugir.[lr]::
+32162::$$$message_0259_0013_0001$$$::...Pelo visto, aquela fedelha da Illyasviel está mesmo planejando matar todos nós."::
+32163::$$$message_0259_0014_0000$$$::"Eu sei. Mas não vou fugir. A Saber ainda está lutando, e eu não vou abandoná-la."::
+32164::$$$message_0259_0015_0000$$$::"...Isso é o que um Mestre experiente diria. O problema é que você vai morrer em vão, já que não consegue fazer nada para ajudá-la.[lr]::
+32165::$$$message_0259_0015_0001$$$::Esta é a sua última chance. Vá embora."[lr]::
+32166::$$$message_0259_0015_0002$$$::"Não. Tem que haver alguma coisa que eu possa fazer enquanto estiver vivo. E, além disso, Tohsaka, você pediria a outra pessoa para fazer algo que você mesma não consegue?"::
+32167::$$$message_0259_0016_0000$$$::[font italic=true]...[font italic=false][lr]::
+32168::$$$message_0259_0016_0001$$$::Tohsaka me encara com uma expressão séria.[lr]::
+32169::$$$message_0259_0016_0002$$$::"...Tem razão. Foi errado da minha parte tentar impor a você algo que eu mesma não posso fazer."::
+32170::$$$message_0259_0017_0000$$$::Ela desvia o olhar.[lr]::
+32171::$$$message_0259_0017_0001$$$::"...Bem, talvez você nem precise fugir. Não parece que a Saber vá perder agora."[lr]::
+32172::$$$message_0259_0017_0002$$$::Tohsaka observa o cemitério por trás de uma árvore.::
+32173::$$$message_0259_0018_0000$$$::A batalha deles continua, sem mudar.[lr]::
+32174::$$$message_0259_0018_0001$$$::Os ataques de Berserker cortam apenas o ar, devastando os arredores como um tornado.::
+32175::$$$message_0259_0019_0000$$$::Entre aqueles ataques...[lr]::
+32176::$$$message_0259_0019_0001$$$::...em meio ao redemoinho de terra e detritos...[lr]::
+32177::$$$message_0259_0019_0002$$$::...e à chuva de lápides partidas...[lr]::
+32178::$$$message_0259_0019_0003$$$::Saber se aproxima de Berserker e o ataca sem sequer arranhar a própria armadura.::
+32179::$$$message_0259_0020_0000$$$::"..."[lr]::
+32180::$$$message_0259_0020_0001$$$::Isto é... divino. Como nada que eu já tenha visto.[lr]::
+32181::$$$message_0259_0020_0002$$$::Ao testemunhar uma batalha praticamente impossível para humanos, o medo que eu sentia até agora desaparece.[lr]::
+32182::$$$message_0259_0020_0003$$$::Pelo contrário, fico fascinado.::
+32183::$$$message_0259_0021_0000$$$::A realidade da Guerra do Santo Graal ainda não tinha se tornado concreta para mim, e eu estava cheio de ansiedade.[lr]::
+32184::$$$message_0259_0021_0001$$$::Mas, depois de vê-la, tudo isso simplesmente... desaparece.::
+32185::$$$message_0259_0022_0000$$$::Espadas dançam em arcos violentos e brutais.[lr]::
+32186::$$$message_0259_0022_0001$$$::No centro daquele redemoinho de destruição fatal, a cavaleira desafia o inimigo sem hesitar.::
+32187::$$$message_0259_0023_0000$$$::Talvez tenha sido isso que me fez aceitar tudo.[lr]::
+32188::$$$message_0259_0023_0001$$$::Não importa o que nos espere no futuro...[lr]::
+32189::$$$message_0259_0023_0002$$$::...com Saber ao meu lado, eu poderia enfrentar até mesmo um deus.::
+32190::$$$message_0259_0024_0000$$$::"...Foi o que pensei. Achei estranho, mas ela bloqueou de propósito a espada de Berserker."[lr]::
+32191::$$$message_0259_0024_0001$$$::Em voz baixa...[lr]::
+32192::$$$message_0259_0024_0002$$$::Tohsaka murmura sem emoção.::
+32193::$$$message_0259_0025_0000$$$::"...Foi para atrair Berserker até aqui?"[lr]::
+32194::$$$message_0259_0025_0001$$$::"Então você percebeu também, hein. Enfrentar aquela coisa num lugar aberto, sem cobertura, é suicídio. Por isso a Saber escolheu este lugar como seu[se file=se275 nowait=true][quake time=1000 vmax=15 hmax=8] campo de batalha. E ainda fez isso com inteligência, atraindo Berserker para longe de você enquanto fingia estar em desvantagem."::
+32195::$$$message_0259_0026_0000$$$::[font italic=true]...[font italic=false][lr]::
+32196::$$$message_0259_0026_0001$$$::...Isso quer dizer...[lr]::
+32197::$$$message_0259_0026_0002$$$::Saber deve ter decidido que aquele era um bom lugar para lutar ainda enquanto descíamos a colina.::
+32198::$$$message_0259_0027_0000$$$::"Também não dá para esperar ajuda numa batalha dessas.[lr]::
+32199::$$$message_0259_0027_0001$$$::Nosso oponente é um monstro que anula até mesmo as flechas de Archer.[lr]::
+32200::$$$message_0259_0027_0002$$$::Qualquer apoio teria sido inútil desde o começo."[lr]::
+32201::$$$message_0259_0027_0003$$$::Tohsaka murmura enquanto[se file=se275 nowait=true][quake time=1000 vmax=15 hmax=8] assiste à batalha entre Saber e Berserker.::
+32202::$$$message_0259_0028_0000$$$::"...As flechas do Archer..."[lr]::
+32203::$$$message_0259_0028_0001$$$::Mas essas palavras me chamam a atenção.[lr]::
+32204::$$$message_0259_0028_0002$$$::Archer não está aqui.[lr]::
+32205::$$$message_0259_0028_0003$$$::Se ele é um arqueiro, como o próprio nome sugere, então combate corpo a corpo provavelmente não é a especialidade dele, mas...::
+32206::$$$message_0259_0029_0000$$$::"Ela acertou...!"[lr]::
+32207::$$$message_0259_0029_0001$$$::Tohsaka estala os dedos.[lr]::
+32208::$$$message_0259_0029_0002$$$::Como ela disse... ou a espada da Saber atingiu Berserker, ou ele perdeu o equilíbrio...[lr]::
+32209::$$$message_0259_0029_0003$$$::Berserker, que até então não havia sequer vacilado, perde o equilíbrio.::
+32210::$$$message_0259_0030_0000$$$::"[wacky len=9]"[lr]::
+32211::$$$message_0259_0030_0001$$$::Ele desfere um golpe selvagem em desespero.[lr]::
+32212::$$$message_0259_0030_0002$$$::Saber salta para trás e segura a espada com as duas mãos.::
+32213::$$$message_0259_0031_0000$$$::...É agora.[lr]::
+32214::$$$message_0259_0031_0001$$$::Com seu ataque desesperado desviado, Berserker perde de vez o equilíbrio[se file=se275 nowait=true][quake time=1000 vmax=20 hmax=10]...[lr]::
+32215::$$$message_0259_0031_0002$$$::...e Saber dobra os joelhos para investir com toda a força.::
+32216::$$$message_0259_0032_0000$$$::Então...[lr]::
+32217::$$$message_0259_0032_0001$$$::"...Hã, Archer...? Como assim, 'saia daí'?"[lr]::
+32218::$$$message_0259_0032_0002$$$::Percebo a confusão na voz da Tohsaka quando ela inclina a cabeça. Então sinto uma intenção assassina apontada nesta direção... vinda de muito longe.::
+32219::$$$message_0259_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+32220::$$$message_0259_0033_0001$$$::Atrás de mim.[lr]::
+32221::$$$message_0259_0033_0002$$$::Vejo um cavaleiro de vermelho segurando um arco sobre um telhado, a centenas de metros daqui.::
+32222::$$$message_0259_0034_0000$$$::[font italic=true]...[font italic=false][lr]::
+32223::$$$message_0259_0034_0001$$$::É náusea... ou um calafrio.[lr]::
+32224::$$$message_0259_0034_0002$$$::Ele está com um arco nas mãos.[lr]::
+32225::$$$message_0259_0034_0003$$$::Não é diferente do de antes.[lr]::
+32226::$$$message_0259_0034_0004$$$::Mesmo acertando em cheio, aquilo não vai causar dano algum.[lr]::
+32227::$$$message_0259_0034_0005$$$::Então não haveria motivo para sentir tanto medo daquilo...::
+32228::$$$message_0259_0035_0000$$$::[font italic=true]...[font italic=false][lr]::
+32229::$$$message_0259_0035_0001$$$::...mas ainda assim sinto um calafrio.[lr]::
+32230::$$$message_0259_0035_0002$$$::O que ele armou no arco não é uma flecha. É outra coisa.[lr]::
+32231::$$$message_0259_0035_0003$$$::E aquela intenção assassina não está apontada só para Berserker.::
+32232::$$$message_0259_0036_0000$$$::"Sab[line2]"[lr]::
+32233::$$$message_0259_0036_0001$$$::Minhas pernas se movem.[lr]::
+32234::$$$message_0259_0036_0002$$$::Eu...::
+
+

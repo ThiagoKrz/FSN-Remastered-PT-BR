@@ -1,0 +1,295 @@
+DAT
+id=qid::label=str::text=lstr::
+50717::$$$message_0438_0000_0000$$$::Como já passou do meio-dia e pulamos o café da manhã, decidimos almoçar logo.[lr]::
+50718::$$$message_0438_0000_0001$$$::A Saber não pode assumir forma espiritual como o Archer, porque, ao contrário dos outros Mestres, eu não forneço a ela a energia mágica de que precisa.[lr]::
+50719::$$$message_0438_0000_0002$$$::Não preciso dizer que é porque sou inexperiente como Mestre.::
+50720::$$$message_0438_0001_0000$$$::Ela diz que dormir ajuda a reduzir o consumo de energia mágica, mas isso não a repõe, por mais que ela se limite.[lr]::
+50721::$$$message_0438_0001_0001$$$::Nesse caso, a única forma de repor a energia dela é comendo. Como eu sou responsável pelas refeições, não posso fazer isso de qualquer jeito.::
+50722::$$$message_0438_0002_0000$$$::"Servos tomam forma física usando energia mágica, certo?[lr]::
+50723::$$$message_0438_0002_0001$$$::Então[line4], se sua energia mágica não for restaurada, você vai enfraquecendo cada vez que lutar?"[lr]::
+50724::$$$message_0438_0002_0002$$$::Pergunto enquanto guardo a louça e dobro o avental.::
+50725::$$$message_0438_0003_0000$$$::"Isso não significa que eu jamais recupere energia.[lr]::
+50726::$$$message_0438_0003_0001$$$::Energia mágica é produzida dentro do meu corpo enquanto eu estiver ativa. Mesmo sem suporte externo, um Servo pode repor energia mágica usando seus próprios Circuitos Mágicos."[lr]::
+50727::$$$message_0438_0003_0002$$$::"Entendo. Então não há problemas, certo?"::
+50728::$$$message_0438_0004_0000$$$::"...Bem, como posso explicar? Vejamos... Vamos usar aquela torneira como exemplo.[lr]::
+50729::$$$message_0438_0004_0001$$$::Está vendo a água pingando dela? Pense nisso como a quantidade de energia mágica produzida dentro do meu corpo. E pense no copo recebendo essas gotas como eu mesma.[lr]::
+50730::$$$message_0438_0004_0002$$$::Nesse estado, eu consigo acumular energia mágica aos poucos.":: 
+50731::$$$message_0438_0005_0000$$$::"Agora, quanto mais água houver no copo, mais água pode sair da torneira.[lr]::
+50732::$$$message_0438_0005_0001$$$::Enquanto o copo ainda tiver água, ela continuará pingando. Mas, quando a água do copo acaba[line4]ou seja, quando eu gasto toda a minha energia mágica[line4]a torneira se fecha por completo.":: 
+50733::$$$message_0438_0006_0000$$$::"A partir daí, não haverá mais nenhuma fonte de energia mágica, e o copo permanecerá vazio para sempre.[lr]::
+50734::$$$message_0438_0006_0001$$$::[line3]Isso significa o fim do Servo.[lr]::
+50735::$$$message_0438_0006_0002$$$::Ou ele recebe um golpe fatal, ou fica sem energia mágica... embora esse último caso seja raro.":: 
+50736::$$$message_0438_0007_0000$$$::"...Mas tudo bem se restar pelo menos uma gota no copo, certo? Se ainda houver um pouco de água nele, a torneira continua aberta. Então, com o tempo, o copo volta a encher.":: 
+50737::$$$message_0438_0008_0000$$$::"Correto. Mas a água que enche o copo também está sendo consumida constantemente, mesmo agora.[lr]::
+50738::$$$message_0438_0008_0001$$$::Além disso, ela se perde numa velocidade cada vez maior durante a batalha.[lr]::
+50739::$$$message_0438_0008_0002$$$::...Na prática, quanto mais poderosa a ação, mais água ela consome. Se eu usar um Fantasma Nobre, posso esvaziar o copo inteiro mesmo que ele esteja cheio.":: 
+50740::$$$message_0438_0009_0000$$$::...Isso está ficando complicado.[lr]::
+50741::$$$message_0438_0009_0001$$$::Resumindo, como eu, a torneira da Saber, só forneço o equivalente a um gotejamento, ela só consegue recuperar energia mágica muito lentamente.[lr]::
+50742::$$$message_0438_0009_0002$$$::Então, para encher o copo, ela precisa derrotar seus inimigos rapidamente e descansar em seguida, conservando energia da forma mais eficiente possível.::
+50743::$$$message_0438_0010_0000$$$::"[line3]Nossa. Então usar seu Fantasma Nobre é um luxo que não podemos bancar, hein?"[lr]::
+50744::$$$message_0438_0010_0001$$$::"Correto. Mas isso não significa que eu não possa usá-lo.[lr]::
+50745::$$$message_0438_0010_0002$$$::Se eu suprimir seu poder, devo conseguir usá-lo uma vez.":: 
+50746::$$$message_0438_0011_0000$$$::"Do que você está falando? Não posso deixar você fazer isso. Você está proibida de usar seu Fantasma Nobre, entendeu? Se você morrer fazendo isso, eu nunca teria como compensar você."[lr]::
+50747::$$$message_0438_0011_0001$$$::Saber pousa a xícara de chá na mesa.::
+50748::$$$message_0438_0012_0000$$$::"...Hm."[lr]::
+50749::$$$message_0438_0012_0001$$$::Ela franze a testa e leva a mão até a xícara.::
+50750::$$$message_0438_0013_0000$$$::[line4]Nisso.[lr]::
+50751::$$$message_0438_0013_0001$$$::O telefone toca.::
+50752::$$$message_0438_0014_0000$$$::"...Uma ligação a esta hora num Domingo..."[lr]::
+50753::$$$message_0438_0014_0001$$$::Tenho uma boa ideia de quem seja, mas estou assustado com as consequências de não atender.::
+50754::$$$message_0438_0015_0000$$$::"[line4]Olá, aqui é o Emiya."[lr]::
+50755::$$$message_0438_0015_0001$$$::"Olá, é a Fujimura!"::
+50756::$$$message_0438_0016_0000$$$::"......"[lr]::
+50757::$$$message_0438_0016_0001$$$::Fico tonto.[lr]::
+50758::$$$message_0438_0016_0002$$$::Ela é avassaladora nesse sentido.[lr]::
+50759::$$$message_0438_0016_0003$$$::Só de ouvir a voz dela, sou puxado de volta à rotina de antes, como se todo o caos da noite passada fosse coisa de outro mundo.::
+50760::$$$message_0438_0017_0000$$$::"...O que foi? Só para avisar, estou ocupado agora, Fuji-nee."[lr]::
+50761::$$$message_0438_0017_0001$$$::"Ué, eu também estou ocupada. Abri mão da minha folga para ensinar meus alunos."[lr]::
+50762::$$$message_0438_0017_0002$$$::É estranho.[lr]::
+50763::$$$message_0438_0017_0003$$$::Sinto que a Fuji-nee está na minha frente, estufando o peito com orgulho.::
+50764::$$$message_0438_0018_0000$$$::"Entendi. Bom, ninguém aqui está sendo assaltado nem morrendo, então pode voltar tranquila para cuidar das atividades do clube."[lr]::
+50765::$$$message_0438_0018_0001$$$::Tento cortar a conversa.::
+50766::$$$message_0438_0019_0000$$$::"E-espera! Sua irmãzona aqui está engolindo o orgulho e te ligando, então seria horrível se você desligasse sem ouvir o que eu tenho a dizer!"[lr]::
+50767::$$$message_0438_0019_0001$$$::...É, e eu estou atolado em problemas desde ontem à noite. Não que dizer isso fosse adiantar alguma coisa.[lr]::
+50768::$$$message_0438_0019_0002$$$::Mas, se ela chegou ao ponto de ligar assim, então realmente deve estar apertada.::
+50769::$$$message_0438_0020_0000$$$::"...Ok. Então me diga o que quer?"[lr]::
+50770::$$$message_0438_0020_0001$$$::"Shirou, quero almoçar. Que tal aquelas omeletes doces enroladas que você faz?"[lr]::
+50771::$$$message_0438_0020_0002$$$::"............"[lr]::
+50772::$$$message_0438_0020_0003$$$::"Esse é o meu pedido. Quero isso entregue no clube de kyudo imediatamente. Tchau."[lr]::
+50773::$$$message_0438_0020_0004$$$::...Nossa. Qual é a dessa professora?::
+50774::$$$message_0438_0021_0000$$$::"...Nossa. Dizem que feras ficam violentas quando estão com fome..."[lr]::
+50775::$$$message_0438_0021_0001$$$::Eu coloco o avental que acabei de tirar.[lr]::
+50776::$$$message_0438_0021_0002$$$::...Bem, temos sobras do almoço, e a omelete é fácil de fazer.::
+50777::$$$message_0438_0022_0000$$$::"Pronto[line4]Saber, pode vigiar a casa por um tempo?[lr]::
+50778::$$$message_0438_0022_0001$$$::Vou sair por um instante, então espere aqui, tudo bem?"[lr]::
+50779::$$$message_0438_0022_0002$$$::Saio para o corredor carregando o almoço da Fuji-nee.[lr]::
+50780::$$$message_0438_0022_0003$$$::A Saber me segue.::
+50781::$$$message_0438_0023_0000$$$::Coloco meus sapatos.[lr]::
+50782::$$$message_0438_0023_0001$$$::Quando olho ao meu lado...[lr]::
+50783::$$$message_0438_0023_0002$$$::A Saber também está calçando os sapatos, sem dizer uma palavra.::
+50784::$$$message_0438_0024_0000$$$::"...Saber?"[lr]::
+50785::$$$message_0438_0024_0001$$$::Minha voz sai irritantemente tímida.[lr]::
+50786::$$$message_0438_0024_0002$$$::...Bem, sei o que ela vai dizer, mas preciso perguntar.::
+50787::$$$message_0438_0025_0000$$$::"Hum, bem..."[lr]::
+50788::$$$message_0438_0025_0001$$$::"Irei te acompanhar se você sair. Servos protegem seus Mestres. É perigoso demais te deixar sair sozinho."::
+50789::$$$message_0438_0026_0000$$$::...Foi o que pensei.[lr]::
+50790::$$$message_0438_0026_0001$$$::Bem, isso era algo com que teríamos de lidar cedo ou tarde.[lr]::
+50791::$$$message_0438_0026_0002$$$::Como a oportunidade surgiu, é melhor falar disso agora.::
+50792::$$$message_0438_0027_0000$$$::"Saber. Os Mestres tentam evitar chamar atenção, certo? Então, de dia é seguro. Contanto que eu fique longe de lugares isolados, eles não vão me atacar."::
+50793::$$$message_0438_0028_0000$$$::"Eu sei. Ainda assim, é melhor prevenir.[lr]::
+50794::$$$message_0438_0028_0001$$$::Já que você é inexperiente, devo ficar do seu lado constantemente."::
+50795::$$$message_0438_0029_0000$$$::"Qu...[line8]"[lr]::
+50796::$$$message_0438_0029_0001$$$::O tempo todo...? Ela está falando sério[line4]!?::
+50797::$$$message_0438_0030_0000$$$::"I-I-I-I-IDIOTA. Não dá pra fazer isso![lr]::
+50798::$$$message_0438_0030_0001$$$::Primeiro, o que faremos quando eu for dormir!?"::
+50799::$$$message_0438_0031_0000$$$::"Está me pondo à prova, Shirou? É justamente enquanto você dorme que preciso estar mais alerta. Claro que ficarei de guarda ao seu lado."[lr]::
+50800::$$$message_0438_0031_0001$$$::"Que[line6]!"::
+50801::$$$message_0438_0032_0000$$$::Desvio o rosto para esconder minhas bochechas vermelhas e respiro fundo para me acalmar.[lr]::
+50802::$$$message_0438_0032_0001$$$::"[line6]"[lr]::
+50803::$$$message_0438_0032_0002$$$::...Droga, que idiotice minha.[lr]::
+50804::$$$message_0438_0032_0003$$$::Finalmente me dou conta de uma coisa importante.[lr]::
+50805::$$$message_0438_0032_0004$$$::Isso é o que significa lutar ao lado dela!::
+50806::$$$message_0438_0033_0000$$$::"O que foi, Shirou? Não achei que isso fosse te surpreender tanto. Só vou fazer o que a Rin fez ontem à noite."[lr]::
+50807::$$$message_0438_0033_0001$$$::......![lr]::
+50808::$$$message_0438_0033_0002$$$::Não brinque comigo! Vou enlouquecer antes mesmo de lutar se você fizer isso!::
+50809::$$$message_0438_0034_0000$$$::"N-Não posso permitir isso! Vou te preparar um quarto, para você dormir lá!"[lr]::
+50810::$$$message_0438_0034_0001$$$::"......"[lr]::
+50811::$$$message_0438_0034_0002$$$::...Ugh.[lr]::
+50812::$$$message_0438_0034_0003$$$::Não vou desistir mesmo se você me olhar assim.::
+50813::$$$message_0438_0035_0000$$$::"Shirou, ponha fim a essa bobagem. Acredito ter sido paciente, mas não posso tolerar isso por mais tempo. Como Mestre, você continua tomando decisões insensatas. Não posso obedecer sem que explique seu motivo."::
+50814::$$$message_0438_0036_0000$$$::A Saber ergue o olhar para mim, frustrada.[lr]::
+50815::$$$message_0438_0036_0001$$$::A pressão daquele olhar me faz querer encolher, mas ainda assim tento sustentá-lo de volta.::
+50816::$$$message_0438_0037_0000$$$::"N-Não tenho motivo nenhum...! Estou mandando, então só faça o que eu digo. É seguro durante o dia, então vá descansar!"::
+50817::$$$message_0438_0038_0000$$$::"[line3]Me recuso. Se você não me der um motivo claro, eu não vou ceder."::
+50818::$$$message_0438_0039_0000$$$::"N[line3]Não entende, é!? Como você é uma garota, não tem como dormirmos no mesmo quarto...!"[lr]::
+50819::$$$message_0438_0039_0001$$$::A Saber congela.::
+50820::$$$message_0438_0040_0000$$$::"E-Enfim, vou te preparar um quarto quando voltar, então descanse até lá...!"[lr]::
+50821::$$$message_0438_0040_0001$$$::Eu disparo porta afora.[lr]::
+50822::$$$message_0438_0041_0000$$$::"...Droga, eu sou uma criança ou o quê...!?"[lr]::
+50823::$$$message_0438_0041_0001$$$::Saio dali estapeando o próprio rosto em brasa.::
+50824::$$$message_0438_0042_0000$$$::...Bem, enfim.[lr]::
+50825::$$$message_0438_0042_0001$$$::A Saber deve entender já que falei firmemente com ela.[lr]::
+50826::$$$message_0438_0042_0002$$$::Vou me desculpar por ter gritado com ela quando eu voltar.::
+50827::$$$message_0438_0043_0000$$$::Desço a colina.[lr]::
+50828::$$$message_0438_0043_0001$$$::Leva cerca de trinta minutos para chegar à escola a pé. Em dias normais não é nada demais, mas hoje estou andando bem depressa.[lr]::
+50829::$$$message_0438_0043_0002$$$::O motivo disso é...[lr]::
+50830::$$$message_0438_0043_0003$$$::"[line8]"[lr]::
+50831::$$$message_0438_0043_0004$$$::A garota que me segue em silêncio.::
+50832::$$$message_0438_0044_0000$$$::"......"[lr]::
+50833::$$$message_0438_0044_0001$$$::Ela vai me seguir até a escola se eu não fizer nada.[lr]::
+50834::$$$message_0438_0044_0002$$$::Tenho que ser firme com ela aqui e agora!::
+50835::$$$message_0438_0045_0000$$$::"Saber. Te mandei esperar em casa. Não vai obedecer seu Mestre?"[lr]::
+50836::$$$message_0438_0045_0001$$$::Eu paro e me viro pra ela.[lr]::
+50837::$$$message_0438_0045_0002$$$::Depois de me olhar...::
+50838::$$$message_0438_0046_0000$$$::"[line3]Quem sabe. Se um Servo não segue a ordem de seu Mestre, então só pode ser porque não a ouviu direito."[lr]::
+50839::$$$message_0438_0046_0001$$$::Ela vira o rosto com mau humor.::
+50840::$$$message_0438_0047_0000$$$::Eu ignoro a Saber e desço a colina.[lr]::
+50841::$$$message_0438_0047_0001$$$::Atrás de mim...[lr]::
+50842::$$$message_0438_0047_0002$$$::A Saber continua ali, me pressionando em silêncio.::
+50843::$$$message_0438_0048_0000$$$::"Vai logo para casa. Eu preciso dizer com todas as letras que é irritante ter você me seguindo?"[lr]::
+50844::$$$message_0438_0048_0001$$$::Fuzilo com o olhar a garota que permanece exatamente cinco metros atrás de mim.::
+50845::$$$message_0438_0049_0000$$$::"[line8]"[lr]::
+50846::$$$message_0438_0049_0001$$$::Não sei qual é o problema dela, mas sua oposição silenciosa é claríssima.[lr]::
+50847::$$$message_0438_0049_0002$$$::...Nossa.[lr]::
+50848::$$$message_0438_0049_0003$$$::Não sei por que ela está tão irritada, mas agora está sendo puramente teimosa.::
+50849::$$$message_0438_0050_0000$$$::"[line3]Ótimo. Faça o que quiser."[lr]::
+50850::$$$message_0438_0050_0001$$$::Ignoro a Saber e sigo em frente.::
+50851::$$$message_0438_0051_0000$$$::Subo a colina até a escola.[lr]::
+50852::$$$message_0438_0051_0001$$$::Miyama tem muitas colinas, mas esta ladeira é especialmente longa.[lr]::
+50853::$$$message_0438_0051_0002$$$::Do prédio da escola, no alto da colina, é possível ter uma vista ampla da cidade inteira.::
+50854::$$$message_0438_0052_0000$$$::É um pouco depois das 13.[lr]::
+50855::$$$message_0438_0052_0001$$$::Felizmente, não vejo nenhum aluno pelo caminho.[lr]::
+50856::$$$message_0438_0052_0002$$$::Deve ser porque é domingo, e os alunos que vieram para as atividades do clube ainda estão descansando depois do almoço.[lr]::
+50857::$$$message_0438_0052_0003$$$::"...Bom, dei sorte. Mas daqui para a frente já não vai ser assim."[lr]::
+50858::$$$message_0438_0052_0004$$$::Eu suspiro e desisto.::
+50859::$$$message_0438_0053_0000$$$::"[line8]"[lr]::
+50860::$$$message_0438_0053_0001$$$::Eu me viro.[lr]::
+50861::$$$message_0438_0053_0002$$$::Quando paro, a Saber sobe a ladeira até mim, ainda me encarando.[lr]::
+50862::$$$message_0438_0053_0003$$$::...Imagino que agora ela esteja ainda mais mal-humorada por eu tê-la ignorado esse tempo todo.::
+50863::$$$message_0438_0054_0000$$$::"Saber."[lr]::
+50864::$$$message_0438_0054_0001$$$::"O que foi? Acredito que você tenha dito para eu fazer o que quisesse."[lr]::
+50865::$$$message_0438_0054_0002$$$::"...Hm. Então você só escuta o que lhe convém, é?":: 
+50866::$$$message_0438_0055_0000$$$::"Claro. Sou um Servo, então não posso deixar meu Mestre permanecer em perigo.":: 
+50867::$$$message_0438_0056_0000$$$::"...Ai, ai. Tudo bem, você venceu. Eu me rendo. Pode vir comigo para a escola. Quando vir com os próprios olhos, vai entender que lá é um lugar seguro.[lr]::
+50868::$$$message_0438_0056_0001$$$::E me desculpe por ter gritado com você antes.":: 
+50869::$$$message_0438_0057_0000$$$::"Hã[line4]?"[lr]::
+50870::$$$message_0438_0057_0001$$$::"Bom, vamos inventar uma história para você. Você é uma parente do meu pai e veio nos visitar e passear pela cidade. Tudo bem?"[lr]::
+50871::$$$message_0438_0057_0002$$$::Subo a colina com a Saber.::
+50872::$$$message_0438_0058_0000$$$::"Ah[line3]Sim. Se isso for conveniente para você, então não me importo."[lr]::
+50873::$$$message_0438_0058_0001$$$::"Certo, então está decidido. Sim... cedo ou tarde você acabaria conhecendo todo mundo mesmo, então não faz diferença apresentá-la agora.":: 
+50874::$$$message_0438_0059_0000$$$::Certo.[lr]::
+50875::$$$message_0438_0059_0001$$$::Ela inevitavelmente vai conhecer a Fuji-nee e a Sakura se continuar ficando lá em casa.::
+50876::$$$message_0438_0060_0000$$$::"Ah sim. Esqueci de perguntar, mas onde você arranjou essas roupas?"[lr]::
+50877::$$$message_0438_0060_0001$$$::"A Rin me deu elas. Ela disse que eu precisaria de roupas normais já que não posso me transformar em espírito."::
+50878::$$$message_0438_0061_0000$$$::"[line4]"[lr]::
+50879::$$$message_0438_0061_0001$$$::Inesperado.[lr]::
+50880::$$$message_0438_0061_0002$$$::O que me surpreende não é tanto a bondade da Tohsaka, mas o fato de ela ter um gosto tão maduro para roupas.::
+50881::$$$message_0438_0062_0000$$$::"Então e aquela armadura? Ficou em casa?"[lr]::
+50882::$$$message_0438_0062_0001$$$::"Não. Aquela armadura é feita da minha energia mágica. Quando corto o fornecimento, ela desaparece. Quando chega a hora da batalha, posso me revestir com ela imediatamente.":: 
+50883::$$$message_0438_0063_0000$$$::"Hm. Então você pode fazê-la aparecer e desaparecer quando quiser?"[lr]::
+50884::$$$message_0438_0063_0001$$$::"Sim. Então não há motivo para preocupação. Se um inimigo nos atacar aqui, eu o protegerei.":: 
+50885::$$$message_0438_0064_0000$$$::"Sim, isso é confortante."[lr]::
+50886::$$$message_0438_0064_0001$$$::Talvez por eu ter ficado calado até agora, minha opinião sincera acaba escapando.[lr]::
+50887::$$$message_0438_0064_0002$$$::A Saber não responde ao meu comentário e continua subindo a colina.::
+50888::$$$message_0438_0065_0000$$$::Chegamos no portão da escola.[lr]::
+50889::$$$message_0438_0065_0001$$$::A esta altura, acho que só me resta fingir que estou mostrando a escola para uma aluna transferida.::
+50890::$$$message_0438_0066_0000$$$::"Saber. Se alguém parar você para perguntar alguma coisa, apenas balance a cabeça sem dizer nada. O ideal é fingir que não entende japonês.":: 
+50891::$$$message_0438_0067_0000$$$::"[line8]"[lr]::
+50892::$$$message_0438_0067_0001$$$::"Saber? O que foi essa cara séria? Não me assuste assim.":: 
+50893::$$$message_0438_0068_0000$$$::"Hã...? Ah, não, não estava olhando para você, Shirou. Só fiquei surpresa com a força dos resquícios de energia mágica daqui.":: 
+50894::$$$message_0438_0069_0000$$$::"Energia mágica remanescente? É verdade?"[lr]::
+50895::$$$message_0438_0069_0001$$$::A Saber diz, mas não sinto nada.[lr]::
+50896::$$$message_0438_0069_0002$$$::...Bem, não posso sentir energia mágica a não ser que ela seja muito forte.::
+50897::$$$message_0438_0070_0000$$$::"Sim. Mas não é algo tão surpreendente. A Rin é da sua mesma série, certo? Este é um lugar onde uma maga do nível dela circula há mais de um ano. Tenho certeza de que ela possui um ateliê, então energia acaba vazando mesmo que tente escondê-la."[lr]::
+50898::$$$message_0438_0070_0001$$$::A energia mágica que a Saber sente provavelmente é da Tohsaka.::
+50899::$$$message_0438_0071_0000$$$::"Hmm. Ela é bem idiota por deixar a energia dela ser sentida antes mesmo de você entrar. ...Espera, ela está aqui agora!?"::
+50900::$$$message_0438_0072_0000$$$::"Não, parece que a própria Rin não está aqui. Se estivesse, eu sentiria a energia com muito mais força. Não há nenhum humano que se pareça com um mago neste local.[lr]::
+50901::$$$message_0438_0072_0001$$$::...Há algo aqui que me incomoda, mas não corremos perigo.":: 
+50902::$$$message_0438_0073_0000$$$::"Eu disse que ficaria bem. Vamos, vamos entrar, então fique perto de mim.":: 
+50903::$$$message_0438_0074_0000$$$::"Ah, Emiya? Você está encarregado do almoço?"[lr]::
+50904::$$$message_0438_0074_0001$$$::"[line8]"[lr]::
+50905::$$$message_0438_0074_0002$$$::Às vezes é útil encontrar alguém que o conhece tão bem.[lr]::
+50906::$$$message_0438_0074_0003$$$::Ayako Mitsuzuri, capitã do clube de kyudo, descobriu meu motivo para estar aqui num único olhar.::
+50907::$$$message_0438_0075_0000$$$::"É, sou o entregador, como você imaginou. A Fuji-nee está aí dentro?":: 
+50908::$$$message_0438_0076_0000$$$::"Está. Cara, você salvou a pátria. Quando a Fujimura-sensei fica com fome, ela enlouquece. Como o refeitório está fechado, estávamos pensando em ir comprar comida em algum lugar.":: 
+50909::$$$message_0438_0077_0000$$$::"A situação chegou a esse ponto? Espera, você estava pensando em descer até o Toyoetsu sozinha?"[lr]::
+50910::$$$message_0438_0077_0001$$$::"E onde mais eu iria? Já estamos sem dinheiro para o equipamento, então não dá para gastar muito com comida de emergência.":: 
+50911::$$$message_0438_0078_0000$$$::Como se esperaria da Mitsuzuri, famosa por ser mão de vaca.[lr]::
+50912::$$$message_0438_0078_0001$$$::Falando nisso, Toyoetsu é o nome do supermercado no distrito de lojas.[lr]::
+50913::$$$message_0438_0078_0002$$$::No clube de kyudo, qualquer um que esteja de descanso para poupar os braços acaba sendo enviado ao mercado como exercício.[lr]::
+50914::$$$message_0438_0078_0003$$$::...É um costume contraditório, porque serve para descansar o braço, mas depois você precisa carregar um monte de compras na volta.:: 
+50915::$$$message_0438_0079_0000$$$::"...Que azar. Aqui está o almoço. Já está meio tarde, mas entregue isso para a Fuji-nee, tá?"[lr]::
+50916::$$$message_0438_0079_0001$$$::Seguro a sacola.::
+50917::$$$message_0438_0080_0000$$$::"Uau, uma caixa de três andares. Faz tempo que não vejo uma dessas. Você é mesmo bom nesse tipo de coisa caprichada."[lr]::
+50918::$$$message_0438_0080_0001$$$::Não sei porque ela está feliz, mas ela sorri.::
+50919::$$$message_0438_0081_0000$$$::...Bom, em compensação, ela é boa em produção em massa.[lr]::
+50920::$$$message_0438_0081_0001$$$::A Mitsuzuri costuma ficar encarregada do jantar nos nossos acampamentos de treino, e toda vez consegue surpreender todo mundo.[lr]::
+50921::$$$message_0438_0081_0002$$$::O mundo da culinária é mesmo profundo, se até um curry cheio de batatas quase inteiras consegue ficar tão bom.:: 
+50922::$$$message_0438_0082_0000$$$::...Bem, enfim.[lr]::
+50923::$$$message_0438_0082_0001$$$::Mitsuzuri apenas olha dentro da bolsa, mas não a pega.::
+50924::$$$message_0438_0083_0000$$$::"Ei, sem enrolação, pega logo a sacola. Não está um caos aí dentro por causa da Fuji-nee enlouquecida?":: 
+50925::$$$message_0438_0084_0000$$$::"Sim. Se você pensa assim, então devia entrar logo e entregar isso para ela.[lr]::
+50926::$$$message_0438_0084_0001$$$::Antes de tudo, você deveria saber que ela obviamente ficaria furiosa se eu dissesse que dispensei você aqui fora. Não quero levar bronca, então aceite seu destino e entre."[lr]::
+50927::$$$message_0438_0084_0002$$$::Ela aponta para o dojo com o queixo.::
+50928::$$$message_0438_0085_0000$$$::"......"[lr]::
+50929::$$$message_0438_0085_0001$$$::Ela tem razão. Vai ser assustador depois se eu nem ao menos aparecer para vê-la.[lr]::
+50930::$$$message_0438_0085_0002$$$::Não estou aqui para praticar tiro com arco, então posso ir pra casa assim que der o almoço pra ela.::
+50931::$$$message_0438_0086_0000$$$::Desisto e entro no campo de tiro.[lr]::
+50932::$$$message_0438_0086_0001$$$::"Mas, fala sério, Mitsuzuri. Já que você ficou aqui esse tempo todo, ao menos devia confirmar de manhã se a Fuji-nee tinha almoço. É perturbador imaginar uma professora de olho no lanche dos alunos.":: 
+50933::$$$message_0438_0087_0000$$$::"Bom, eu estava cansada de manhã. Ando ocupada ultimamente, então não tenho tanto tempo a perder. Enfim, não adianta reclamar para você[line4]":: 
+50934::$$$message_0438_0088_0000$$$::Então, ela repentinamente se aproxima e sussurra em meu ouvido.[lr]::
+50935::$$$message_0438_0088_0001$$$::"...Então, Emiya. Quem é ela? Ela é linda. Você a conhece?"[lr]::
+50936::$$$message_0438_0088_0002$$$::Ela pergunta em voz tensa.::
+50937::$$$message_0438_0089_0000$$$::"[line8]"[lr]::
+50938::$$$message_0438_0089_0001$$$::É... qualquer um ficaria surpreso ao ver a Saber.[lr]::
+50939::$$$message_0438_0089_0002$$$::Ainda mais vendo-a me acompanhar até o campo de tiro sem dizer uma palavra.::
+50940::$$$message_0438_0090_0000$$$::"Então? Ela é sua conhecida?"[lr]::
+50941::$$$message_0438_0090_0001$$$::"É complicado explicar, mas seria uma grande ajuda se você dissesse que sim. ...E, se puder explicar ao resto do pessoal para não fazer alarde quando entrarmos, vou ficar eternamente em dívida com você.":: 
+50942::$$$message_0438_0091_0000$$$::"...Certo. Estou curiosa, mas gostei da barganha. Não volte atrás depois, ouviu, Emiya?"[lr]::
+50943::$$$message_0438_0091_0001$$$::Abro a porta.[lr]::
+50944::$$$message_0438_0091_0002$$$::A Saber nos segue em silêncio, a mim e à Mitsuzuri.::
+50945::$$$message_0438_0092_0000$$$::Entramos no campo de tiro.[lr]::
+50946::$$$message_0438_0092_0001$$$::...O campo de tiro, logo depois do almoço, é tão barulhento quanto um campo de batalha.::
+50947::$$$message_0438_0093_0000$$$::"Fujimura-sensei[line2]! A Misaki-san disse que está morrendo de dor de barriga! Há quanto tempo aqueles biscoitos estavam guardados!?"[lr]::
+50948::$$$message_0438_0093_0001$$$::"Isso é só dor de barriga! Eu também comi e estou ótima, então é só dar um chá pra ela!"::
+50949::$$$message_0438_0094_0000$$$::"Taiga-sensei! Vou treinar no alvo, então pode me deixar levar o aquecedor? Está frio no canto do dojo."[lr]::
+50950::$$$message_0438_0094_0001$$$::"Tá bom. Já que você teve a coragem de me chamar assim, vai dar três voltas no campo de shorts. Vamos te pôr na linha."::
+50951::$$$message_0438_0095_0000$$$::"Fujimura-sensei! Tem alguém sangrando aqui! A Kitako cortou a bochecha com a corda do arco!"[lr]::
+50952::$$$message_0438_0095_0001$$$::"Hmm, por um ferimento desses, não precisa ir até a enfermaria.[lr]::
+50953::$$$message_0438_0095_0002$$$::Passa um pouco de babosa. Tem plantada no morro lá atrás."::
+50954::$$$message_0438_0096_0000$$$::"Ai. Poxa, por que esse arco está empenado desse jeito? Assim eu não consigo colocar a corda."[lr]::
+50955::$$$message_0438_0096_0001$$$::"Ei! Não force a corda por cima. Você ainda é nova, então peça ajuda se estiver difícil. Se ele escapar e desmontar, o próximo pescoço a quebrar vai ser o seu.[lr]::
+50956::$$$message_0438_0096_0002$$$::Quer dizer, eu mesma vou quebrar o seu pescoço se você estragar os nossos preciosos arcos."::
+50957::$$$message_0438_0097_0000$$$::"Fujimura-sensei! Acabou o pó! M-minha mão está escorregando!"[lr]::
+50958::$$$message_0438_0097_0001$$$::"Ah, é mesmo? Alguém pode ir até o depósito e trazer o que tiver no estoque?"::
+50959::$$$message_0438_0098_0000$$$::"Sensei, o estoque também acabou! Acho que foi porque você esqueceu de pedir mais outro dia!"[lr]::
+50960::$$$message_0438_0098_0001$$$::"Ah... Então, calouros, vão até o clube de beisebol e roubem alguns saquinhos de resina!"[lr]::
+50961::$$$message_0438_0098_0002$$$::"Nossa, ela é maluca[line2]!"::
+50962::$$$message_0438_0099_0000$$$::"..."[lr]::
+50963::$$$message_0438_0099_0001$$$::Caramba.[lr]::
+50964::$$$message_0438_0099_0002$$$::Aqui nada muda mesmo.::
+50965::$$$message_0438_0100_0000$$$::"[line4]Bom..."[lr]::
+50966::$$$message_0438_0100_0001$$$::Não dá para ficar encarando esse pandemônio para sempre.::
+50967::$$$message_0438_0101_0000$$$::"Ah, veio em boa hora. Ei, Sakura[line1]"[lr]::
+50968::$$$message_0438_0101_0001$$$::Chamo a garota diante do suporte de arcos.[lr]::
+50969::$$$message_0438_0101_0002$$$::"Senpai...!?"[lr]::
+50970::$$$message_0438_0101_0003$$$::Sakura guarda o arco que estava segurando e corre até mim, confusa.::
+50971::$$$message_0438_0102_0000$$$::"Senpai! P-Por que você veio aqui hoje? Hum, será que... ah..."[lr]::
+50972::$$$message_0438_0102_0001$$$::"É, eu trouxe o almoço da Fuji-nee.[lr]::
+50973::$$$message_0438_0102_0002$$$::Desculpa, mas você pode levar isso para aquela professora maluca ali?"::
+50974::$$$message_0438_0103_0000$$$::"Ah[line4] Ah, sim... agora que você falou, ela estava chamando alguém...[lr]::
+50975::$$$message_0438_0103_0001$$$::"Hm?"[lr]::
+50976::$$$message_0438_0103_0002$$$::Não sei para onde foi o sorriso dela, mas ele some ao mesmo tempo que os ombros dela caem.::
+50977::$$$message_0438_0104_0000$$$::"Isso mesmo. Quando a Fuji-nee fica com fome, ela vira uma ditadora, né? Talvez já seja tarde, mas ela pode comer isso que eu fiz.[lr]::
+50978::$$$message_0438_0104_0001$$$::Ah, e desculpa por eu ter chegado tarde ontem à noite. Obrigado por ter feito o jantar."::
+50979::$$$message_0438_0105_0000$$$::"...Sim. Fico feliz em ouvir isso, mas..."[lr]::
+50980::$$$message_0438_0105_0001$$$::Ela olha para trás de mim.[lr]::
+50981::$$$message_0438_0105_0002$$$::Lá está uma garota de cabelos dourados totalmente deslocada no dojo de kyudo.::
+50982::$$$message_0438_0106_0000$$$::"...Hum, Senpai?"[lr]::
+50983::$$$message_0438_0106_0001$$$::"Hm? O quê, eu cheguei tarde demais? Eu fiz o seu também, por via das dúvidas..."[lr]::
+50984::$$$message_0438_0106_0002$$$::"Não, não é isso. E-Eu também estou com fome...! ...Hum, eu dei metade do meu almoço para a Fujimura-sensei."::
+50985::$$$message_0438_0107_0000$$$::"É, foi o que eu imaginei. Fiz o seu para você poder comer logo, então não deve levar muito tempo.[lr]::
+50986::$$$message_0438_0107_0001$$$::...Bem, se for por isso, acho que ninguém vai reclamar se você voltar a almoçar agora."::
+50987::$$$message_0438_0108_0000$$$::"T-Tem razão! Hum, então obrigada pela comida... Senpai, você vai ficar no dojo o dia todo hoje?"::
+50988::$$$message_0438_0109_0000$$$::"Acho que sim. Já que estou aqui, vou ficar até o treino acabar. Como ontem deixei isso passar, hoje vou fazer o jantar. E você vem comer com a gente."::
+50989::$$$message_0438_0110_0000$$$::"[line3]Sim, adoraria. Vou chamar a Fujimura-sensei. Senpai, por favor não vá embora depois de só largar o almoço aqui, está bem?"::
+50990::$$$message_0438_0111_0000$$$::Sakura corre para buscar a Fuji-nee.[lr]::
+50991::$$$message_0438_0111_0001$$$::Quando torno a olhar, vejo o pessoal comentando sobre Saber, enquanto Mitsuzuri vai de um lado para o outro explicando a situação.::
+50992::$$$message_0438_0112_0000$$$::[line3]Bom...[lr]::
+50993::$$$message_0438_0112_0001$$$::Por ora, acho que cumpri meu objetivo.::
+50994::$$$message_0438_0113_0000$$$::"Ah, agora sim estou satisfeita. O açúcar já chegou ao meu cérebro, então enfim voltei ao normal."::
+50995::$$$message_0438_0114_0000$$$::A sala de descanso.[lr]::
+50996::$$$message_0438_0114_0001$$$::Fuji-nee toma chá enquanto come um doce de feijão.[lr]::
+50997::$$$message_0438_0114_0002$$$::Talvez porque a Fuji-nee esteja calma agora, tudo o que ecoa pelo dojo é o som das cordas e das flechas cortando o ar.::
+50998::$$$message_0438_0115_0000$$$::"Fujimura-sensei. Já vou para a linha de tiro, então, com licença."[lr]::
+50999::$$$message_0438_0115_0001$$$::"Certo! Ah, pode chamar a Mitsuzuri-san aqui? Preciso falar com ela."::
+51000::$$$message_0438_0116_0000$$$::"Tudo bem. Senpai, por favor, fique à vontade. Se puder, eu ficaria grata se me orientasse."[lr]::
+51001::$$$message_0438_0116_0001$$$::Sakura faz uma reverência e sai.[lr]::
+51002::$$$message_0438_0116_0002$$$::Mas, ao fazer isso...[lr]::
+51003::$$$message_0438_0116_0003$$$::Ela lança um olhar inquieto para Saber, que continua nos observando em silêncio junto à parede.::
+51004::$$$message_0438_0117_0000$$$::"Então, o que vai fazer agora, Shirou? O treino acaba às cinco, mas você vai ficar até lá assistindo?"::
+51005::$$$message_0438_0118_0000$$$::"...Hum..."[lr]::
+51006::$$$message_0438_0118_0001$$$::O que eu devo fazer?[lr]::
+51007::$$$message_0438_0118_0002$$$::Pelo que vejo, Saber também parece olhar o campo de tiro com interesse, então eu deveria[line3][lr]::
+
+

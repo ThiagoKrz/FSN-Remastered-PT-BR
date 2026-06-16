@@ -1,0 +1,182 @@
+DAT
+id=qid::label=str::text=lstr::
+33395::$$$message_0266_0000_0000$$$::...Está ventando.[lr]::
+33396::$$$message_0266_0000_0001$$$::Acho que, em parte, é por estarmos no alto de uma colina.[lr]::
+33397::$$$message_0266_0000_0002$$$::A brisa é mais forte aqui em cima, e o frio que corta minhas bochechas é ainda mais intenso.::
+33398::$$$message_0266_0001_0000$$$::"Shirou, já terminou de conversar?"[lr]::
+33399::$$$message_0266_0001_0001$$$::"...Sim. Fiquei sabendo de muito mais do que eu gostaria.[lr]::
+33400::$$$message_0266_0001_0002$$$::Sobre a Guerra do Santo Graal e sobre os Mestres também."[lr]::
+33401::$$$message_0266_0001_0003$$$::"Nesse caso..."::
+33402::$$$message_0266_0002_0000$$$::Ela se inclina para a frente e me encara.[lr]::
+33403::$$$message_0266_0002_0001$$$::...É natural.[lr]::
+33404::$$$message_0266_0002_0002$$$::A decisão que eu tomar diz respeito a ela também.::
+33405::$$$message_0266_0003_0000$$$::"...É. Não sei se estou à altura, mas decidi lutar como Mestre.[lr]::
+33406::$$$message_0266_0003_0001$$$::Desculpe por eu ser um amador, mas você ainda aceita me ter como seu Mestre, Saber?"::
+33407::$$$message_0266_0004_0000$$$::"Não há necessidade de perguntar isso. Você é meu Mestre. Eu já jurei que seria sua espada."::
+33408::$$$message_0266_0005_0000$$$::Aquele momento passa pela minha mente.[lr]::
+33409::$$$message_0266_0005_0001$$$::"...É verdade. Sim, ouvir isso me deixa aliviado."[lr]::
+33410::$$$message_0266_0005_0002$$$::Respiro fundo e volto a encarar Saber.::
+33411::$$$message_0266_0006_0000$$$::"Então vamos selar isso com um aperto de mão. Vamos dar o nosso melhor juntos, Saber."[lr]::
+33412::$$$message_0266_0006_0001$$$::Estendo minha mão direita.[lr]::
+33413::$$$message_0266_0006_0002$$$::Não sei nada sobre a relação entre Mestre e Servo, nem sobre o que devemos fazer daqui para frente.[lr]::
+33414::$$$message_0266_0006_0003$$$::Mas, pelo menos, quero começar com o pé direito.::
+33415::$$$message_0266_0007_0000$$$::[font italic=true]...[font italic=false][lr]::
+33416::$$$message_0266_0007_0001$$$::"Saber? Ah, você é contra apertar as mãos?"[lr]::
+33417::$$$message_0266_0007_0002$$$::"...Não, não é isso. Só fiquei surpresa com a repentina proposta."::
+33418::$$$message_0266_0008_0000$$$::Saber diz isso enquanto toma minha mão na dela.[lr]::
+33419::$$$message_0266_0008_0001$$$::"Faço este juramento mais uma vez. Enquanto você tiver seus Selos de Comando, eu serei sua espada."::
+33420::$$$message_0266_0009_0000$$$::"Certo. Ainda não entendo tudo, mas é bom ter você comigo."[lr]::
+33421::$$$message_0266_0009_0001$$$::Como Saber está falando tão sério, apenas assinto.::
+33422::$$$message_0266_0010_0000$$$::"...Hm."[lr]::
+33423::$$$message_0266_0010_0001$$$::...Pensando bem, essa é uma cena estranha.[lr]::
+33424::$$$message_0266_0010_0002$$$::Sob as estrelas de uma noite de inverno...[lr]::
+33425::$$$message_0266_0010_0003$$$::...estou apertando a mão de uma garota que acabei de conhecer e trocando palavras como se estivéssemos firmando algum contrato mágico.::
+33426::$$$message_0266_0011_0000$$$::"Ooh. Parece que posso deixar vocês dois à vontade, hein?"[lr]::
+33427::$$$message_0266_0011_0001$$$::"...!"[lr]::
+33428::$$$message_0266_0011_0002$$$::Solto a mão dela às pressas.[lr]::
+33429::$$$message_0266_0011_0003$$$::Quando me viro, vejo Tohsaka e... aquele cavaleiro de casaco vermelho.::
+33430::$$$message_0266_0012_0000$$$::"Olha só vocês dois se dando bem. Até um instante atrás mal trocavam palavras, e agora isso? Então, você já confia completamente na Saber?"::
+33431::$$$message_0266_0013_0000$$$::"Ahn, não é isso... Bem, acho que você tem razão.[lr]::
+33432::$$$message_0266_0013_0001$$$::Ainda não sei nada sobre a Saber, mas vamos lutar juntos daqui em diante."::
+33433::$$$message_0266_0014_0000$$$::"Entendo. Então é melhor ficar em guarda. Agora que vocês estão nesta guerra, nós também não vamos pegar leve com vocês."[lr]::
+33434::$$$message_0266_0014_0001$$$::"Hm?"[lr]::
+33435::$$$message_0266_0014_0002$$$::Inclino a cabeça.[lr]::
+33436::$$$message_0266_0014_0003$$$::Leva um instante para eu entender o que ela quer dizer.::
+33437::$$$message_0266_0015_0000$$$::"...Ei. Você entende que agora somos inimigos, certo?[lr]::
+33438::$$$message_0266_0015_0001$$$::Eu trouxe você até aqui porque ainda não era meu inimigo.[lr]::
+33439::$$$message_0266_0015_0002$$$::Mas agora você é um Mestre, não é? Então acho que só resta uma coisa a fazer."::
+33440::$$$message_0266_0016_0000$$$::"Ahn... Hm?"[lr]::
+33441::$$$message_0266_0016_0001$$$::Bem, ela tem razão, mas...[lr]::
+33442::$$$message_0266_0016_0002$$$::"Por quê? Eu não pretendo lutar com você, Tohsaka."::
+33443::$$$message_0266_0017_0000$$$::"...Cara, como eu imaginava. Aff, foi inútil trazer você aqui."[lr]::
+33444::$$$message_0266_0017_0001$$$::Tohsaka deixa os ombros caírem.[lr]::
+33445::$$$message_0266_0017_0002$$$::"Rin."::
+33446::$$$message_0266_0018_0000$$$::"O quê? Nós combinamos que você não falaria até eu dar permissão, Archer."[lr]::
+33447::$$$message_0266_0018_0001$$$::"Eu sei, mas desse jeito não vamos chegar a lugar nenhum.[lr]::
+33448::$$$message_0266_0018_0002$$$::Não precisamos descobrir se o nosso inimigo está preparado ou não. Se há um inimigo que podemos derrotar facilmente, devemos atacá-lo sem hesitar."[lr]::
+33449::$$$message_0266_0018_0003$$$::"Ei, eu sei disso sem precisar que você me diga."::
+33450::$$$message_0266_0019_0000$$$::"Se sabe, então aja como tal. Ou quê? Vai mostrar piedade a ele de novo?[lr]::
+33451::$$$message_0266_0019_0001$$$::...Hm. Não vai me dizer que existe algum motivo 'especial' para isso, vai?"::
+33452::$$$message_0266_0020_0000$$$::"C-Claro que não![lr]::
+33453::$$$message_0266_0020_0001$$$::...É só que eu devo uma a ele. Até acertar isso, não consigo enfrentá-lo de forma justa."[lr]::
+33454::$$$message_0266_0020_0002$$$::"...Hrm, você é mesmo complicada. Então vou sair de cena. Me chame de novo quando tiver resolvido isso."::
+33455::$$$message_0266_0021_0000$$$::O cavaleiro vermelho, Archer, desaparece.[lr]::
+33456::$$$message_0266_0021_0001$$$::Ou melhor, eu simplesmente deixo de conseguir vê-lo.[lr]::
+33457::$$$message_0266_0021_0002$$$::Segundo Tohsaka, os Servos são espíritos.::
+33458::$$$message_0266_0022_0000$$$::Saber diz que não pode assumir forma espiritual, mas tenho certeza de que conseguiria facilmente se fosse o Servo da Tohsaka, já que Tohsaka é um Mestre plenamente capaz.[lr]::
+33459::$$$message_0266_0022_0001$$$::...Bem, deixando isso de lado...::
+33460::$$$message_0266_0023_0000$$$::"Ei, Tohsaka. Essa dívida que você diz ter comigo... está falando do que aconteceu antes?"[lr]::
+33461::$$$message_0266_0023_0001$$$::"Sim. Seja qual for o motivo, você usou um Selo de Comando para impedir a Saber. Então, para equilibrar as coisas, eu também preciso me conter um pouco."::
+33462::$$$message_0266_0024_0000$$$::"...Equilibrar as coisas, é? Você liga para umas coisas estranhas, Tohsaka."[lr]::
+33463::$$$message_0266_0024_0001$$$::"Eu sei. Também sei que isso é só um peso extra inútil. Mas não consigo evitar. Odeio ficar devendo aos outros."[lr]::
+33464::$$$message_0266_0024_0002$$$::Ela bufa e desvia o olhar.::
+33465::$$$message_0266_0025_0000$$$::"Mas isso só vale por um tempo. A partir de amanhã, não vou mais me segurar, então trate de fazer seus planos com a Saber."[lr]::
+33466::$$$message_0266_0025_0001$$$::"...Hm. Então isso vale só por hoje?"::
+33467::$$$message_0266_0026_0000$$$::"Isso mesmo. Bem, [font italic=true]fui eu[font italic=false] que trouxe você até aqui.[lr]::
+33468::$$$message_0266_0026_0001$$$::Hum, então pelo menos vou ficar de olho em você até voltar para a cidade."[lr]::
+33469::$$$message_0266_0026_0002$$$::Dito isso, Tohsaka começa a andar sem olhar para trás.::
+33470::$$$message_0266_0027_0000$$$::"Vamos, Shirou. Como ela disse, não é bom ficar aqui."[lr]::
+33471::$$$message_0266_0027_0001$$$::"..."[lr]::
+33472::$$$message_0266_0027_0002$$$::Assinto para Saber e sigo Tohsaka.::
+33473::$$$message_0266_0028_0000$$$::Nós três descemos a colina.[lr]::
+33474::$$$message_0266_0028_0001$$$::Talvez por Tohsaka estar à frente, fazemos o caminho de volta sem trocar uma palavra.::
+33475::$$$message_0266_0029_0000$$$::Há uma bifurcação simples logo adiante.[lr]::
+33476::$$$message_0266_0029_0001$$$::Um caminho leva à avenida principal em direção à frente da Estação Shinto, e o outro leva à grande ponte que liga a Miyama.[lr]::
+33477::$$$message_0266_0029_0002$$$::[font italic=true]...[font italic=false][lr]::
+33478::$$$message_0266_0029_0003$$$::Tohsaka para diante do cruzamento.::
+33479::$$$message_0266_0030_0000$$$::"Tohsaka? Você não vem? Se vamos para casa, não deveríamos ir pela ponte?"[lr]::
+33480::$$$message_0266_0030_0001$$$::"Não. Desculpe, mas você vai ter que voltar sozinho.[lr]::
+33481::$$$message_0266_0030_0002$$$::Eu tinha me esquecido disso porque estava ocupada com você, mas ainda tenho outras coisas para fazer. Já que estou em Shinto, vou procurar alguma coisa enquanto estou aqui."::
+33482::$$$message_0266_0031_0000$$$::"Procurar alguma coisa... quer dizer outros Mestres?"::
+33483::$$$message_0266_0032_0000$$$::"Sim. Não sei quanto a você, mas eu espero por isso há muito tempo. Pela noite em que os sete Mestres apareceriam e a Guerra do Santo Graal começaria.[lr]::
+33484::$$$message_0266_0032_0001$$$::Não acha um desperdício ir direto para casa? Já que não consegui derrotar a Saber, não vou ficar satisfeita até derrubar outro Servo."::
+33485::$$$message_0266_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+33486::$$$message_0266_0033_0001$$$::...Não há hesitação alguma nos olhos de Tohsaka.[lr]::
+33487::$$$message_0266_0033_0002$$$::Isso me fez perceber...[lr]::
+33488::$$$message_0266_0033_0003$$$::Tohsaka é uma maga.[lr]::
+33489::$$$message_0266_0033_0004$$$::Sua postura e seu conhecimento como maga são impecáveis.::
+33490::$$$message_0266_0034_0000$$$::[font italic=true]...[font italic=false][lr]::
+33491::$$$message_0266_0034_0001$$$::Eu me pergunto por quê...::
+33492::$$$message_0266_0035_0000$$$::"Então vamos nos separar aqui. Já quitei minha dívida, e vai ser um transtorno se continuarmos nos esbarrando. Depois de hoje, seremos inimigos."[lr]::
+33493::$$$message_0266_0035_0001$$$::Por que ela tem esse lado que é o oposto de uma maga?::
+33494::$$$message_0266_0036_0000$$$::Tohsaka não me explicou as regras por dever.[lr]::
+33495::$$$message_0266_0036_0001$$$::Ela só quis ser justa e, depois de entender a minha situação, me ajudou.::
+33496::$$$message_0266_0037_0000$$$::Então, agora que a situação ficou clara, tudo volta a ser como era antes.[lr]::
+33497::$$$message_0266_0037_0001$$$::Como Mestre, daqui para frente eu serei um alvo na guerra.[lr]::
+33498::$$$message_0266_0037_0002$$$::"..."[lr]::
+33499::$$$message_0266_0037_0003$$$::Mesmo assim, Tohsaka fez questão de esclarecer isso primeiro.::
+33500::$$$message_0266_0038_0000$$$::Para ela, tudo o que aconteceu esta noite foi desnecessário.[lr]::
+33501::$$$message_0266_0038_0001$$$::"Vai ser um transtorno se continuarmos nos esbarrando."[r]::
+33502::$$$message_0266_0038_0002$$$::Se era assim que ela realmente se sentia, então nem deveria ter se envolvido desde o começo.[lr]::
+33503::$$$message_0266_0038_0003$$$::Mas ela não é burra, então devia saber muito bem que as coisas acabariam assim.[lr]::
+33504::$$$message_0266_0038_0004$$$::E, ainda assim, me ajudou sem pensar em custo ou benefício.::
+33505::$$$message_0266_0039_0000$$$::...A Tohsaka diante de mim é tão diferente da Tohsaka que vejo na escola.[lr]::
+33506::$$$message_0266_0039_0001$$$::Mesmo sendo gentil na interpretação, ela é dura, rabugenta, anti-social... Tão diferente da imagem que passa na escola que me dá vontade de gritar [font italic=true]o que há com a forma como você age lá!?[font italic=false][lr]::
+33507::$$$message_0266_0039_0002$$$::Sério, ela quase parece uma fraude.::
+33508::$$$message_0266_0040_0000$$$::...Mesmo assim...[lr]::
+33509::$$$message_0266_0040_0001$$$::Tohsaka Rin também é exatamente como todos pensam que ela é.::
+33510::$$$message_0266_0041_0000$$$::"É. Tohsaka, você é uma boa pessoa."[lr]::
+33511::$$$message_0266_0041_0001$$$::"Hã? O que deu em você? Não vou pegar leve só porque está tentando me bajular."::
+33512::$$$message_0266_0042_0000$$$::Eu sei disso.[lr]::
+33513::$$$message_0266_0042_0001$$$::É justamente porque ela não vai pegar leve comigo que ficar também tomando conta de mim seria um transtorno. Foi isso que ela quis dizer.::
+33514::$$$message_0266_0043_0000$$$::"Eu sei. Mas, se for possível, eu não queria que nós fôssemos inimigos. Eu gosto de pessoas como você."[lr]::
+33515::$$$message_0266_0043_0001$$$::"Quê[line2]"::
+33516::$$$message_0266_0044_0000$$$::Por algum motivo, Tohsaka fica em silêncio.[lr]::
+33517::$$$message_0266_0044_0001$$$::Esses subúrbios silenciosos...[lr]::
+33518::$$$message_0266_0044_0002$$$::A igreja que se ergue ao longe e a quietude do cemitério estrangeiro espalhado pela colina parecem estranhamente acolhedores agora.::
+33519::$$$message_0266_0045_0000$$$::"E-Enfim, se o seu Servo for morto, corra para aquela igreja. Se fizer isso, pelo menos sua vida será poupada."::
+33520::$$$message_0266_0046_0000$$$::"Entendi. Não gosto muito da ideia, mas vou levar isso em conta. Embora duvide que isso vá acontecer. Por qualquer ângulo que eu veja, eu morro antes da Saber."[lr]::
+33521::$$$message_0266_0046_0001$$$::"...Aff."[lr]::
+33522::$$$message_0266_0046_0002$$$::Tohsaka reage de forma estranha outra vez.[lr]::
+33523::$$$message_0266_0046_0003$$$::Ela solta um longo suspiro, como se estivesse farta de mim, e então olha para Saber.::
+33524::$$$message_0266_0047_0000$$$::"Tudo bem, não vou mais te dar avisos, porque aí eu estaria realmente me esforçando demais por você.[lr]::
+33525::$$$message_0266_0047_0001$$$::Só tome cuidado. Por mais forte que Saber seja, não vai adiantar de nada se você, o Mestre, morrer."[lr]::
+33526::$$$message_0266_0047_0002$$$::Tohsaka se vira e começa a caminhar em direção a Shinto.::
+33527::$$$message_0266_0048_0000$$$::No entanto...[lr]::
+33528::$$$message_0266_0048_0001$$$::Ela para de repente, como se tivesse visto um fantasma.::
+33529::$$$message_0266_0049_0000$$$::"Ei, já terminaram de conversar?"::
+33530::$$$message_0266_0050_0000$$$::Uma voz jovem ecoa pela noite.[lr]::
+33531::$$$message_0266_0050_0001$$$::A entonação cantarolada é inconfundivelmente a de uma garotinha.[lr]::
+33532::$$$message_0266_0050_0002$$$::Meu olhar se volta para o topo da colina.[lr]::
+33533::$$$message_0266_0050_0003$$$::Ali...::
+33534::$$$message_0266_0051_0000$$$::Não sei quando o céu limpou, mas a lua agora brilha forte na noite.[lr]::
+33535::$$$message_0266_0051_0001$$$::A sombra é longa e monstruosa, como um demônio saído de um livro infantil.[lr]::
+33536::$$$message_0266_0051_0002$$$::Em meio à silhueta da cidade, através da penumbra da noite, algo terrível está de pé.::
+33537::$$$message_0266_0052_0000$$$::"...Berserker."[lr]::
+33538::$$$message_0266_0052_0001$$$::Tohsaka murmura uma palavra com a qual não estou familiarizado.[lr]::
+33539::$$$message_0266_0052_0002$$$::Mesmo sem saber o que isso significa, dá para perceber que o gigante é algo completamente diferente.::
+33540::$$$message_0266_0053_0000$$$::Aquilo não é humano.[lr]::
+33541::$$$message_0266_0053_0001$$$::Então... é um daqueles seres chamados Servos, como Saber e os outros.::
+33542::$$$message_0266_0053_0002$$$::"Boa noite, Onii-chan. Esta é a segunda vez que nos encontramos assim."[lr]::
+33543::$$$message_0266_0053_0003$$$::A garota diz isso sorrindo.[lr]::
+33544::$$$message_0266_0053_0004$$$::Essa inocência me provoca um calafrio pela espinha.[lr]::
+33545::$$$message_0266_0053_0005$$$::A dissonância entre ela e a silhueta monstruosa atrás dela me faz sentir preso num pesadelo.::
+33546::$$$message_0266_0053_0006$$$::[font italic=true]...[font italic=false][lr]::
+33547::$$$message_0266_0053_0007$$$::Não, dizer que é só um calafrio não faz justiça ao que sinto.[lr]::
+33548::$$$message_0266_0053_0008$$$::Esse frio se espalha por todo o meu corpo, até o fundo da minha consciência.[lr]::
+33549::$$$message_0266_0053_0009$$$::Aquilo é um monstro.[lr]::
+33550::$$$message_0266_0053_0010$$$::Nem estou olhando diretamente para ele, mas só a sua presença já torna difícil me mexer...::
+33551::$$$message_0266_0054_0000$$$::"...Estou surpreso. Em termos de poder bruto, aquilo supera até a Saber."[lr]::
+33552::$$$message_0266_0054_0001$$$::Tohsaka estala a língua e encara o monstro acima de nós.[lr]::
+33553::$$$message_0266_0054_0002$$$::Só pelas costas dela, percebo que está tão apavorada quanto eu, mas determinada a não ceder diante daquela coisa.::
+33554::$$$message_0266_0055_0000$$$::"Archer, aquilo não é algo que se enfrente de frente. Lute usando a especialidade da sua classe."[lr]::
+33555::$$$message_0266_0055_0001$$$::A voz dela mal passa de um sussurro.[lr]::
+33556::$$$message_0266_0055_0002$$$::O cavaleiro não materializado lhe responde.::
+33557::$$$message_0266_0056_0000$$$::"Entendido. Mas e a sua defesa? Você não conseguirá evitar uma investida dele."[lr]::
+33558::$$$message_0266_0056_0001$$$::"Somos três. Se for só para nos defendermos, vamos dar conta."[lr]::
+33559::$$$message_0266_0056_0002$$$::Ele deve ter assentido a isso.[lr]::
+33560::$$$message_0266_0056_0003$$$::A presença que pairava em torno de Tohsaka desaparece num instante.::
+33561::$$$message_0266_0057_0000$$$::"Emiya-kun. Você pode escolher entre lutar ou fugir.[lr]::
+33562::$$$message_0266_0057_0001$$$::...Mas, se puder, fuja."::
+33563::$$$message_0266_0058_0000$$$::"Já terminaram sua conversinha de estratégia? Posso começar agora?"[lr]::
+33564::$$$message_0266_0058_0001$$$::Uma risadinha travessa.[lr]::
+33565::$$$message_0266_0058_0002$$$::A garota faz uma reverência educada, completamente incompatível com a situação.::
+33566::$$$message_0266_0059_0000$$$::"Prazer em conhecê-la, Rin. Eu sou Illya.[lr]::
+33567::$$$message_0266_0059_0001$$$::Illyasviel von Einzbern... você sabe o que esse nome significa, não sabe?"[lr]::
+33568::$$$message_0266_0059_0002$$$::"Einzbern[line2]"[lr]::
+33569::$$$message_0266_0059_0003$$$::Pelo visto, ela reconhece esse nome, pois estremece no mesmo lugar.::
+33570::$$$message_0266_0060_0000$$$::A garota sorri, satisfeita com a reação de Tohsaka, e então diz,[lr]::
+33571::$$$message_0266_0060_0001$$$::"Agora eu vou matar você. Acabe com ela, Berserker."[lr]::
+33572::$$$message_0266_0060_0002$$$::Ela cantarola essa ordem para o monstro atrás dela.::
+
+

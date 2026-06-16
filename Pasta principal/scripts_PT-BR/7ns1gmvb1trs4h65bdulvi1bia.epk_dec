@@ -1,0 +1,492 @@
+DAT
+id=qid::label=str::text=lstr::
+68546::$$$message_0630_0000_0000$$$::Nós chegamos na entrada da floresta mais rápido do que eu esperava.[lr]::
+68547::$$$message_0630_0000_0001$$$::É provavelmente porque a Illya me guiou.[lr]::
+68548::$$$message_0630_0000_0002$$$::O carro em que eu cheguei já não está mais aqui.[lr]::
+68549::$$$message_0630_0000_0003$$$::Nós começamos a caminhar em direção à cidade, paramos um carro e pegamos carona.::
+68550::$$$message_0630_0001_0000$$$::Nós estamos sujos depois de correr pela floresta, nos fazendo parecer bastante suspeitos.[lr]::
+68551::$$$message_0630_0001_0001$$$::Por isso eu pulei na frente de um carro para pará-lo, e a Illya usou sugestão no motorista para fazer ele nos dar carona.[lr]::
+68552::$$$message_0630_0001_0002$$$::Cara.[lr]::
+68553::$$$message_0630_0001_0003$$$::Nunca pensei que pegaria carona desse jeito.::
+68554::$$$message_0630_0002_0000$$$::"Chegamos, Shirou. Vamos entrar."[lr]::
+68555::$$$message_0630_0002_0001$$$::"[w l=4][line4]Eh?"[lr]::
+68556::$$$message_0630_0002_0002$$$::Nós voltamos para a minha casa em um instante.[lr]::
+68557::$$$message_0630_0002_0003$$$::O sol está se pondo.[lr]::
+68558::$$$message_0630_0002_0004$$$::Parece que eu adormeci no caminho de volta.::
+68559::$$$message_0630_0003_0000$$$::O sol já se pôs quando eu chego na sala de estar.[lr]::
+68560::$$$message_0630_0003_0001$$$::Já passou das sete horas.::
+68561::$$$message_0630_0004_0000$$$::"[w l=9][line9]"[lr]::
+68562::$$$message_0630_0004_0001$$$::Tem alguma coisa errada..[lr]::
+68563::$$$message_0630_0004_0002$$$::O tempo está passando rápido demais.[lr]::
+68564::$$$message_0630_0004_0003$$$::Estava de tarde quando eu entrei na casa, então não é possível que já tenha ficado de noite assim que eu cheguei na sala de estar.::
+68565::$$$message_0630_0005_0000$$$::"Illya. O tempo não está passando rápido demais?"[lr]::
+68566::$$$message_0630_0005_0001$$$::Eu falo com a Illya, que está do meu lado.::
+68567::$$$message_0630_0006_0000$$$::"[w l=8][line8]"[lr]::
+68568::$$$message_0630_0006_0001$$$::Mas a Illya não está aqui.[lr]::
+68569::$$$message_0630_0006_0002$$$::A Illya está...[lr]::
+68570::$$$message_0630_0006_0003$$$::"Hm? O jantar estava bom, Shirou."[lr]::
+68571::$$$message_0630_0006_0004$$$::...Ela já está na sala de estar, dizendo coisas estranhas.::
+68572::$$$message_0630_0007_0000$$$::"[w l=8][line8]Jantar?"[lr]::
+68573::$$$message_0630_0007_0001$$$::"Sim. Eu fiquei surpresa quando você disse que queria repor suas energias, mas fico feliz que tenha feito isso. Você estava tão entusiasmado enquanto cozinhava."::
+68574::$$$message_0630_0008_0000$$$::"[w l=8][line8]"[lr]::
+68575::$$$message_0630_0008_0001$$$::Há sobras do jantar na mesa.[lr]::
+68576::$$$message_0630_0008_0002$$$::Há louça suja na pia.[lr]::
+68577::$$$message_0630_0008_0003$$$::Agora que parei pra pensar, eu me sinto bastante cheio.[lr]::
+68578::$$$message_0630_0008_0004$$$::Parece que eu realmente fiz o jantar.::
+68579::$$$message_0630_0009_0000$$$::"......Que estranho. Nós tínhamos isso na geladeira?"[lr]::
+68580::$$$message_0630_0009_0001$$$::"Não. Foi por isso que paramos no distrito comercial para comprar alguns mantimentos."::
+68581::$$$message_0630_0010_0000$$$::"[w l=8][line8]"[lr]::
+68582::$$$message_0630_0010_0001$$$::Eu procuro PELA minha memória.[lr]::
+68583::$$$message_0630_0010_0002$$$::......[lr]::
+68584::$$$message_0630_0010_0003$$$::............[lr]::
+68585::$$$message_0630_0010_0004$$$::..................[lr]::
+68586::$$$message_0630_0010_0005$$$::........................Bom.[lr]::
+68587::$$$message_0630_0010_0006$$$::Acho que foi isso o que aconteceu.::
+68588::$$$message_0630_0011_0000$$$::"Entendi. Acho que tô falando besteira. Então nós jantamos, huh?"[lr]::
+68589::$$$message_0630_0011_0001$$$::"Sim. Agora só falta dormir, Shirou."::
+68590::$$$message_0630_0012_0000$$$::"Hm[w l=3][line3]sim, precisamos dormir. Eu vou me trocar no meu quarto. Eu ainda preciso conversar, então fica acordada por favor. Volto já."[lr]::
+68591::$$$message_0630_0012_0001$$$::Illya acena.[lr]::
+68592::$$$message_0630_0012_0002$$$::Eu levanto minha mão como um pedido de desculpas e deixo a sala de estar.::
+68593::$$$message_0630_0013_0000$$$::E quando eu percebo, já estou no meu quarto.[lr]::
+68594::$$$message_0630_0013_0001$$$::No instante que eu piso para fora da sala de estar, eu me vejo dentro do meu quarto.::
+68595::$$$message_0630_0014_0000$$$::"Ah... Guh[w l=4][line4]!"[lr]::
+68596::$$$message_0630_0014_0001$$$::Eu acordo por causa da dor aguda.[lr]::
+68597::$$$message_0630_0014_0002$$$::Uma espada está perfurando o meu peito.[lr]::
+68598::$$$message_0630_0014_0003$$$::Essa é a primeira coisa que eu imagino porque o meu peito está quente e dormente, e sinto como se a minha vida estivesse sendo sugada.::
+68599::$$$message_0630_0015_0000$$$::"Guh[w l=4][line4]"[lr]::
+68600::$$$message_0630_0015_0001$$$::Não tem nenhuma espada, é claro.[lr]::
+68601::$$$message_0630_0015_0002$$$::É apenas uma ilusão.[lr]::
+68602::$$$message_0630_0015_0003$$$::O lado esquerdo do meu peito está apenas se rebelando contra o meu braço esquerdo.[lr]::
+68603::$$$message_0630_0015_0004$$$::Mas eu finalmente percebo.[lr]::
+68604::$$$message_0630_0015_0005$$$::Minha percepção do tempo.[lr]::
+68605::$$$message_0630_0015_0006$$$::As cenas intermitentess são...::
+68606::$$$message_0630_0016_0000$$$::"...Entendi. Não é minha percepção do tempo que está estranha."[lr]::
+68607::$$$message_0630_0016_0001$$$::É só a minha mente que está quebrada.[lr]::
+68608::$$$message_0630_0016_0002$$$::Não é que estou sem memórias. Eu só não consigo gravar os eventos no meu cérebro.::
+68609::$$$message_0630_0017_0000$$$::Eu não consigo gravar eventos na minha mente a menos que eu me concentre.[lr]::
+68610::$$$message_0630_0017_0001$$$::É natural que eu não consiga me lembrar de nada do que aconteceu depois que eu saí da floresta.[lr]::
+68611::$$$message_0630_0017_0002$$$::Eu não consigo ficar consciente a menos que eu esteja com dor, como agora.::
+68612::$$$message_0630_0018_0000$$$::"[w l=6][line6]Isso é ruim."[lr]::
+68613::$$$message_0630_0018_0001$$$::Eu me agarro desesperadamente à minha consciência que está a desaparecer.[lr]::
+68614::$$$message_0630_0018_0002$$$::A não ser que eu foque a minha mente, Emiya Shirou irá desaparecer.[lr]::
+68615::$$$message_0630_0018_0003$$$::Apenas a dor ou a concentração máxima podem preservar as minhas memórias.[lr]::
+68616::$$$message_0630_0018_0004$$$::Resumindo, eu preciso manter o mesmo nível de concentração de quando eu estava inserindo o Circuito Mágico na minha coluna.::
+68617::$$$message_0630_0019_0000$$$::"[w l=8][line8]"[lr]::
+68618::$$$message_0630_0019_0001$$$::...Estou perplexo.[lr]::
+68619::$$$message_0630_0019_0002$$$::Eu não posso continuar assim pra sempre, e eu não sei por quanto tempo isso irá funcionar.::
+68620::$$$message_0630_0020_0000$$$::"...Espera. Isso significa que eu não deveria dormir."[lr]::
+68621::$$$message_0630_0020_0001$$$::Assim que eu adormecer, eu não irei mais acordar.[lr]::
+68622::$$$message_0630_0020_0002$$$::Assim que eu adormecer, "Emiya Shirou" nunca mais irá retornar.[lr]::
+68623::$$$message_0630_0020_0003$$$::Mesmo se o meu corpo estiver intacto, minha mente estará em pedaços.::
+68624::$$$message_0630_0021_0000$$$::"[line10]"[lr]::
+68625::$$$message_0630_0021_0001$$$::Eu levanto meu corpo.[lr]::
+68626::$$$message_0630_0021_0002$$$::Eu procuro pela minha mesa. Preciso de uma lâmina curta. Alguma coisa que eu possa esconder na minha mão direita e que irá me perfurar quando eu fechar a mão.[lr]::
+68627::$$$message_0630_0021_0003$$$::Eu não consigo manter a mesma concentração que eu tenho durante o treinamento.[lr]::
+68628::$$$message_0630_0021_0004$$$::Terei que fechar a minha mão toda vez que eu relaxar para que a dor me mantenha consciente.::
+68629::$$$message_0630_0022_0000$$$::Ah. Não é uma faca, mas deve servir."[lr]::
+68630::$$$message_0630_0022_0001$$$::Eu encontro o cristal daquele dia.[lr]::
+68631::$$$message_0630_0022_0002$$$::...O pingente que encontrei ao meu lado depois que fui morto pelo Lancer.[lr]::
+68632::$$$message_0630_0022_0003$$$::Eu não sei quanta energia mágica ele continha originalmente, mas agora ele não tem nem o suficiente para uma magia de fortalecimento.::
+68633::$$$message_0630_0023_0000$$$::...Isso mesmo. Agora eu consigo parar pra penasar sobre a quem esse pingente pertencia, e quem poderia ter me salvado naquela noite.[lr]::
+68634::$$$message_0630_0023_0001$$$::Afinal, ela era a única pessoa na escola naquela hora. Eu não sei por que ela me salvou, mas ela não iria precisar de um motivo para salvar uma vida.::
+68635::$$$message_0630_0024_0000$$$::"Ah[w l=4][line4]!"[lr]::
+68636::$$$message_0630_0024_0001$$$::Minha consciência começa a desaparecer.[lr]::
+68637::$$$message_0630_0024_0002$$$::Vou pensar nisso depos.[lr]::
+68638::$$$message_0630_0024_0003$$$::Eu vou ficar inconsciente se eu ficar pensando sobre coisas felizes e relaxar.::
+68639::$$$message_0630_0025_0000$$$::[w l=3][line3]Eu verifico a minha condição.[lr]::
+68640::$$$message_0630_0025_0001$$$::Eu removo o selo do meu braço esquerdo.[lr]::
+68641::$$$message_0630_0025_0002$$$::Eu coloco o Manto de volta, mas ele só está ali para me acalmar.[lr]::
+68642::$$$message_0630_0025_0003$$$::De acordo com o Kotomine, o interruptor seria acionado se eu usasse o braço do Archer.[lr]::
+68643::$$$message_0630_0025_0004$$$::Ele disse que não haveria o que fazer depois disso.::
+68644::$$$message_0630_0026_0000$$$::"[w l=8][line8]"[lr]::
+68645::$$$message_0630_0026_0001$$$::Mas eu ainda consigo mexer o meu corpo.[lr]::
+68646::$$$message_0630_0026_0002$$$::O problema é a minha mente, mas eu consigo permanecer consciente enquanto eu permanecer acordado.[lr]::
+68647::$$$message_0630_0026_0003$$$::Já a projeção... Eu provavelmente consigo projetar mais três vezes usando o braço do Archer.::
+68648::$$$message_0630_0027_0000$$$::Eu sei que consigo uma vez.[lr]::
+68649::$$$message_0630_0027_0001$$$::Tenho medo da segunda vez.[lr]::
+68650::$$$message_0630_0027_0002$$$::A terceira será fatal. Acho que meu corpo irá se autodestruir mesmo se a minha mente ainda estiver viva.::
+68651::$$$message_0630_0028_0000$$$::"............"[lr]::
+68652::$$$message_0630_0028_0001$$$::Eu fecho os olhos e me concentro na minha audição.[lr]::
+68653::$$$message_0630_0028_0002$$$::...Ouço o barulho de coisas rangendo junto com as batidas do meu coração.::
+68654::$$$message_0630_0029_0000$$$::...A coisa invadindo o meu corpo, vindo do braço do Archer.[lr]::
+68655::$$$message_0630_0029_0001$$$::Quanto mais eu uso suas habilidades, mais difícil fica para suprimir a sua Projeção de Realidade.  Eventualmente, um número infinito de espadas serão criadas dentro do meu corpo ao invés de fora dele.[lr]::
+68656::$$$message_0630_0029_0002$$$::...Eu nem quero imaginar o que vai acontecer.[lr]::
+68657::$$$message_0630_0029_0003$$$::Milhares de espadas irão perfurar o meu corpo de dentro pra fora, me matando instantaneamente.::
+68658::$$$message_0630_0030_0000$$$::"[w l=5][line5]Não me venha com essa. Eu não vou me matar."[lr]::
+68659::$$$message_0630_0030_0001$$$::Estou em uma situação desesperadora.[lr]::
+68660::$$$message_0630_0030_0002$$$::Eu aceito a situação inteira.[lr]::
+68661::$$$message_0630_0030_0003$$$::Mas eu rejeito os fatos como são.[lr]::
+68662::$$$message_0630_0030_0004$$$::Eu não vou morrer, e não vou me autodestruir.[lr]::
+68663::$$$message_0630_0030_0005$$$::Não acordar depois que eu adormecer é apenas fruto da minha imaginação assustada.::
+68664::$$$message_0630_0031_0000$$$::[w l=3][line3]Eu serei salvo.[lr]::
+68665::$$$message_0630_0031_0001$$$::Eu serei salvo assim que eu fizer tudo o que eu preciso fazer.[lr]::
+68666::$$$message_0630_0031_0002$$$::Caso contrário tudo seria insignificante.[lr]::
+68667::$$$message_0630_0031_0003$$$::Eu disse que protegeria a Sakura a qualquer custo.[lr]::
+68668::$$$message_0630_0031_0004$$$::Por isso eu não posso morrer de forma egoísta.::
+68669::$$$message_0630_0032_0000$$$::"[w l=3][line3]Isso mesmo. Tenho que entrar em contato com a Tohsaka primeiro."[lr]::
+68670::$$$message_0630_0032_0001$$$::Eu não tenho tempo.[lr]::
+68671::$$$message_0630_0032_0002$$$::Eu vou até a casa dela.[lr]::
+68672::$$$message_0630_0032_0003$$$::Estou preocupado com o Kotomine, mas ele não é mais meu aliado agora que salvamos a Illya.[lr]::
+68673::$$$message_0630_0032_0004$$$::Eu não posso mais pedir ajuda pra ele, mas a promessa de...::
+68674::$$$message_0630_0033_0000$$$::Já se passaram das nove horas.[lr]::
+68675::$$$message_0630_0033_0001$$$::Eu pensei que tinha voltado imediatamente, mas parece que já se passaram duas horas.::
+68676::$$$message_0630_0034_0000$$$::"[w l=3][line3]Desculpa por te deixar esperando, Illya. Vou para a casa da Tohsaka, então vamos juntos."[lr]::
+68677::$$$message_0630_0034_0001$$$::"Pra casa da Rin? Não vejo problema, mas por quê?"::
+68678::$$$message_0630_0035_0000$$$::"Eh... por quê? Precisamos nos reunir com a Tohsaka. E estou preocupado com ela.[lr]::
+68679::$$$message_0630_0035_0001$$$::Kotomine disse que ela estaria curada ao anoitecer, mas não consigo confiar nele. Se ela não estiver bem, teremos que cuidar dela."::
+68680::$$$message_0630_0036_0000$$$::"Certo. Tudo bem, mas Shirou..."[lr]::
+68681::$$$message_0630_0036_0001$$$::Illya aponta para a parede.[lr]::
+68682::$$$message_0630_0036_0002$$$::[w l=4][line4]E então.::
+68683::$$$message_0630_0037_0000$$$::"Fico feliz por ter se preocupado comigo. Mas como pode ver, eu estou bem.[lr]::
+68684::$$$message_0630_0037_0001$$$::Mas se você estava tão preocupado assim comigo, deveria ter ido para a minha casa antes de ir para a floresta."::
+68685::$$$message_0630_0038_0000$$$::"T-Tohsaka...!? Quando foi que você chegou aqui...?"::
+68686::$$$message_0630_0039_0000$$$::"Cerca de uma hora atrás. Illya me contou tudo sobre o que aconteceu na floresta."::
+68687::$$$message_0630_0040_0000$$$::A Tohsaka está de mau humor... Não, ela está brava.[lr]::
+68688::$$$message_0630_0040_0001$$$::Parece que ela não gostou do fato de eu ter ido pra floresta sem ela.::
+68689::$$$message_0630_0041_0000$$$::"Não tinha o que fazer. Eu pensei que tinha de agir o mais rápido possível, e a Illya estava em perigo sério.[lr]::
+68690::$$$message_0630_0041_0001$$$::...Certo, Illya?"::
+68691::$$$message_0630_0042_0000$$$::"......Sim. Eu não estava presa, mas eu poderia ter sido levada ao Grande Santo Graal e ter meu coração arrancado a qualquer momento.[lr]::
+68692::$$$message_0630_0042_0001$$$::Zouken queria abrir o portão assim que ele conseguisse controlar a Sakura. Eu estaria morta agora se o Shirou e o Kotomine houvessem chegado um pouco mais tarde."::
+68693::$$$message_0630_0043_0000$$$::"[w l=3][line3]Viu. Eu não chegaria a tempo se tivesse te esperado."[lr]::
+68694::$$$message_0630_0043_0001$$$::"Nunca se sabe. Tudo dependia da Sakura, não é? Me conta a verdade, Illya."::
+68695::$$$message_0630_0044_0000$$$::"Ah, você percebeu?[lr]::
+68696::$$$message_0630_0044_0001$$$::Sim, ainda restava um pouco mais de tempo. A Sakura é forte, por isso ela não se quebraria tão facilmente. Sim, ainda restava um pouco mais de tempo. A Sakura é forte, por isso ela não se quebraria tão facilmente.::
+68697::$$$message_0630_0045_0000$$$::"Foi o que pensei. Você não deveria mimar tanto o Shirou. Um pouco de rigor é bom pra ele."[lr]::
+68698::$$$message_0630_0045_0001$$$::"[w l=3][line3]Você tem razão. Ficarei grata se você puder cuidar disso."::
+68699::$$$message_0630_0046_0000$$$::As duas me criticam.[lr]::
+68700::$$$message_0630_0046_0001$$$::Mas se o tempo limite era de um dia, eu não acho que conseguiria chegar a tempo se eu tivesse esperado pela Tohsaka.[lr]::
+68701::$$$message_0630_0046_0002$$$::Eu fui confrontado com uma escolha importante na floresta, mas em troca, fui capaz de recuperar esse tempo que nós três podemos passar juntos.::
+68702::$$$message_0630_0047_0000$$$::"[w l=4][line4]!"[lr]::
+68703::$$$message_0630_0047_0001$$$::...Eu me concentro, já que estou começando a relaxar.[lr]::
+68704::$$$message_0630_0047_0002$$$::Parece que a tensão desapareceu durante a nossa conversa.::
+68705::$$$message_0630_0048_0000$$$::"......Hm......? Espera, Illya.[lr]::
+68706::$$$message_0630_0048_0001$$$::Você disse que a Sakura pode durar mais um dia. Então o tempo restante que nós temos é..."::
+68707::$$$message_0630_0049_0000$$$::"Metade de um dia no máximo. ...Não, não importa o quanto a Sakura tente, Avenger está prestes a nascer. Assim que isso acontecer, Sakura irá mudar completamente.  Ninguém pode salvar a Sakura, e ninguém será salvo."::
+68708::$$$message_0630_0050_0000$$$::""[w l=4][line4]Avenger...?""[lr]::
+68709::$$$message_0630_0050_0001$$$::Tohsaka e eu franzimos as sobrancelhas com a palavra estranha.::
+68710::$$$message_0630_0051_0000$$$::"Sim, Avenger.[lr]::
+68711::$$$message_0630_0051_0001$$$::É a oitava classe da Guerra do Santo Graal. É uma 'violação' que os Einzberns invocaram ao quebrar as regras.[lr]::
+68712::$$$message_0630_0051_0002$$$::Isso é o que contaminou o conteúdo do Santo Graal Maior.[lr]::
+68713::$$$message_0630_0051_0003$$$::É o corpo principal que se assimilou com a Sakura, projetando a sua sombra por ser incapaz de sair para o mundo exterior.[lr]::
+68714::$$$message_0630_0051_0004$$$::É algo que não deveria existir, consumindo vidas humanas para tomar forma física."::
+68715::$$$message_0630_0052_0000$$$::"Este é o Avenger[w l=3][line3]um anti-herói que o Mestre da família Einzbern invocou no terceiro ritual."::
+68716::$$$message_0630_0053_0000$$$::"Você o conhece, Illya...!? Você sabe o que é aquela sombra, e o que está possuindo a Sakura...!?"[lr]::
+68717::$$$message_0630_0053_0001$$$::"Sim. Eu obtive essa informação diretamente da Sakura, por isso eu compreendo o que está acontecendo.[lr]::
+68718::$$$message_0630_0053_0002$$$::O que temos que fazer. O que é, exatamente, a coisa que virou seu inimigo."::
+68719::$$$message_0630_0054_0000$$$::Illya fecha os olhos uma vez.[lr]::
+68720::$$$message_0630_0054_0001$$$::...Isso é um sinal de resignação?[lr]::
+68721::$$$message_0630_0054_0002$$$::Illya suspira e então nos encara.::
+68722::$$$message_0630_0055_0000$$$::"O que estou prestes a falar é sobre o centro da questão, e isso não tem nada a ver com vocês dois. Não se sintam responsáveis quanto a isso.[lr]::
+68723::$$$message_0630_0055_0001$$$::Shirou, Rin. Como vocês dois são os últimos Mestres da Guerra do Santo Graal, eu irei lhes contar a verdade."::
+68724::$$$message_0630_0056_0000$$$::"Illya[w l=4][line4]?"[lr]::
+68725::$$$message_0630_0056_0001$$$::Tohsaka olha para a Illya com surpresa em seu rosto.[lr]::
+68726::$$$message_0630_0056_0002$$$::Eu faço o mesmo.[lr]::
+68727::$$$message_0630_0056_0003$$$::Illya mostra uma calma e um vazio profundo como se ela fosse outra pessoa.::
+68728::$$$message_0630_0057_0000$$$::"Tudo começou duzentos anos atrás.[lr]::
+68729::$$$message_0630_0057_0001$$$::Não, a jornada daqueles que buscam o Santo Graal começou muito antes disso. Mas há duzentos anos atrás, o ritual foi iniciado nessa terra."::
+68730::$$$message_0630_0058_0000$$$::"Irei começar a partir daí.[lr]::
+68731::$$$message_0630_0058_0001$$$::O Santo Graal realiza qualquer desejo. Os Einzberns, Makiri e Tohsaka cooperaram entre si para conduzir um ritual para invocar o Santo Graal.[lr]::
+68732::$$$message_0630_0058_0002$$$::Foi assim que se iniciou a Guerra do Santo Graal. Uma batalha sangrenta entre sete Servos invocados para determinar o dono do Santo Graal.[lr]::
+68733::$$$message_0630_0058_0003$$$::Magos que são escolhidos como Mestres viram os donos dos Servos e matam uns aos outros até restar apenas um mago.[lr]::
+68734::$$$message_0630_0058_0004$$$::Esse é o suposto motivo para a Guerra do Santo Graal que vocês dois conhecem."::
+68735::$$$message_0630_0059_0000$$$::"Você não parece surpresa, Rin. Então você já suspeitava, huh?"::
+68736::$$$message_0630_0060_0000$$$::"...Um pouco. Eu sabia desde o começo que estava sendo usada, mas não me importei com isso.[lr]::
+68737::$$$message_0630_0060_0001$$$::Estou sendo benificiada ao usar o sistema criado por outra pessoa. Nós dois estamos nos usando.[lr]::
+68738::$$$message_0630_0060_0002$$$::Não sou tão idiota a ponto de ficar brava com algo tão trivial assim."::
+68739::$$$message_0630_0061_0000$$$::"Sério? Então eu não preciso explicar que a ordem está invertida? E você, Shirou? Você já sabia que o processo de fazer os Servos lutarem é desnecessário?"::
+68740::$$$message_0630_0062_0000$$$::"[w l=8][line8]"[lr]::
+68741::$$$message_0630_0062_0001$$$::...Bom, eu sabia.::
+68742::$$$message_0630_0063_0000$$$::Servos são invocados pelo Santo Graal.[lr]::
+68743::$$$message_0630_0063_0001$$$::Os Espíritos Heroicos são invocados para determinar qual dos Mestres merece obter o Santo Graal.[lr]::
+68744::$$$message_0630_0063_0002$$$::Uma vez invocados, eles fazem um contrato com um Mestre para permanecer nesse mundo e obter o Santo Graal. E então eles saem para derrotar os outros Mestres e Servos.::
+68745::$$$message_0630_0064_0000$$$::...Se fosse só isso, não teria nenhum problema.[lr]::
+68746::$$$message_0630_0064_0001$$$::Mas assim que eu descobri que os Espíritos Heroicos derrotados são absorvidos pelo Santo Graal, alguma coisa parecia não se encaixar.[lr]::
+68747::$$$message_0630_0064_0002$$$::Espíritos Heroicos[w l=3][line3]Servos são apenas um fator para determinar qual dos Mestres merece o Santo Graal.[lr]::
+68748::$$$message_0630_0064_0003$$$::Então por que eles são absorvidos pelo Santo Graal depois que o seu propósito foi servido?::
+68749::$$$message_0630_0065_0000$$$::"...Então isso significa que os Espíritos Heroicos são necessários para a Guerra do Santo Graal, e que os Mestres são apenas uma ferramenta para invocá-los?"::
+68750::$$$message_0630_0066_0000$$$::"Correto. No ritual da guerra, Mestres são apenas receptores para invocar os Servos. Após terem feito isso, eles podem morrer a qualquer hora.[lr]::
+68751::$$$message_0630_0066_0001$$$::Os Espíritos Heroicos são os únicos necessários para completar o Santo Graal.[lr]::
+68752::$$$message_0630_0066_0002$$$::Espíritos Heroicos são almas puras separadas do eixo temporal.  Apesar de estarem fora da lógica desse mundo, eles ainda podem influenciá-lo."::
+68753::$$$message_0630_0067_0000$$$::"Esse é o poder que eles precisavam.[lr]::
+68754::$$$message_0630_0067_0001$$$::Eles tentaram sair para o mundo exterior usando esse poder.[lr]::
+68755::$$$message_0630_0067_0002$$$::Esse é o verdadeiro propósito do Santo Graal dessa terra.[lr]::
+68756::$$$message_0630_0067_0003$$$::As Guerras do Santo Graal foram travadas para criar um fenômeno, um milagre, que ainda está fora do alcance dos humanos."::
+68757::$$$message_0630_0068_0000$$$::"Esse é o grande ritual para obter a imortalidade, ritual que dizem ter sido perdido pelos Einzberns.[lr]::
+68758::$$$message_0630_0068_0001$$$::Não um Espírito Heroico ou um espírito sagrado, mas a alma de um mero humano que está destinada a desaparecer desse mundo. Realizá-lo é um ato de um Deus."::
+68759::$$$message_0630_0069_0000$$$::"[w l=3][line3]O nome do milagre é 'Heaven's Feel'.[lr]::
+68760::$$$message_0630_0069_0001$$$::A taça dourada que é a terceira das cinco magias existentes."::
+68761::$$$message_0630_0070_0000$$$::"M[w l=4][line4]Magias!? Você quer dizer 'aquelas' magias...!?"[lr]::
+68762::$$$message_0630_0070_0001$$$::"[w l=8][line8]"[lr]::
+68763::$$$message_0630_0070_0002$$$::O ar fica tenso.[lr]::
+68764::$$$message_0630_0070_0003$$$::Illya disse que o Santo Graal é um ritual para realizar uma magia.::
+68765::$$$message_0630_0071_0000$$$::Magia.[lr]::
+68766::$$$message_0630_0071_0001$$$::Um mistério divino que não pode ser realizado através da taumaturgia. Um fenômeno impossível que não pode ser alcançado pelas pessoas do mundo moderno.[lr]::
+68767::$$$message_0630_0071_0002$$$::É o maior objetivo de todo mago, e aqueles que conseguem realizá-lo são chamados de "feiticeiros" com grande inveja e admiração.::
+68768::$$$message_0630_0072_0000$$$::Existem cinco magias reconhecidas pela Associação dos Magos.[lr]::
+68769::$$$message_0630_0072_0001$$$::Como eu nem sequer faço parte da Associação, eu não tenho como saber, mas ouvi dizer que existem cinco magias e quatro feiticeiros.::
+68770::$$$message_0630_0073_0000$$$::"E-Espera...! Então a Terceira Magia é a materialização da alma!? Mas Servos são almas materializadas também...!"::
+68771::$$$message_0630_0074_0000$$$::"Não. O sistema usa uma parte da Teiceira Magia, mas os Espíritos Heroicos são invocados.[lr]::
+68772::$$$message_0630_0074_0001$$$::Servos não estão vivos como parte desse mundo ou tempo. É imperfeito demais para chamar de Terceira Magia. E Espíritos Heroicos podem se materializar nesse mundo sem a ajuda da magia enquanto possuírem um hospedeiro."::
+68773::$$$message_0630_0075_0000$$$::"Heaven's Feel não é um feitiço que duplica uma alma que existiu no passado.[lr]::
+68774::$$$message_0630_0075_0001$$$::É na verdade um feitiço para criar uma existência de uma dimensão superior que pode tomar a forma de um espírito e ainda assim ser capaz de influenciar o mundo físico.[lr]::
+68775::$$$message_0630_0075_0002$$$::Ele pega uma alma e a eleva para o próximo nível da vida."::
+68776::$$$message_0630_0076_0000$$$::"Próximo nível[w l=4][line4]isso certamente é algo sério, mas...[lr]::
+68777::$$$message_0630_0076_0001$$$::Mesmo os detalhes sendo diferentes, todas as magias são uma forma de alcançar a origem! O que isso tem a ver com o Santo Graal?"::
+68778::$$$message_0630_0077_0000$$$::"Não. Em primeiro lugar, só existe uma terra administrada no Japão que é capaz de ativar uma magia.[lr]::
+68779::$$$message_0630_0077_0001$$$::Eu sei que as linhas ley em Fuyuki é de primeira classe, mas ela não possui distorção suficiente para conectá-la à Origem."::
+68780::$$$message_0630_0078_0000$$$::"Sim. Não é distorcida o suficiente para alcançar a Origem. É por isso que você faz um buraco. Se o caminho está bloqueado, você só precisa destruir a parede, não é?"::
+68781::$$$message_0630_0079_0000$$$::"A Guerra do Santo Graal é esse processo de destruir a parede.[lr]::
+68782::$$$message_0630_0079_0001$$$::O processo acumula energia mágica suficiente para realizar qualquer desejo. Mas esse é apenas um efeito secundário para a família Einzbern. E serve também como propaganda para atrair os Mestres, os sacrifícios."::
+68783::$$$message_0630_0080_0000$$$::"Os Einzberns só precisavam de um círculo mágico gigantesco que poderia juntar grandes quantidades de energia mágica sem chamar a atenção da Associação dos Magos.[lr]::
+68784::$$$message_0630_0080_0001$$$::O chefe da família Tohsakas daquela época cooperou com eles.[lr]::
+68785::$$$message_0630_0080_0002$$$::Esse país não recebe muita atenção da Associação, e não existem muitas terras de primeira classe que chegam próximas ao nível da terra dos Aozaki.[lr]::
+68786::$$$message_0630_0080_0003$$$::A cidade de Fuyuki era o local de testes quase perfeito, cumprindo todos os requisitos."::
+68787::$$$message_0630_0081_0000$$$::"Você deve ser capaz de compreender o resto.[lr]::
+68788::$$$message_0630_0081_0001$$$::Existem dois tipos de Santos Graais que governam a Guerra do Santo Graal.[lr]::
+68789::$$$message_0630_0081_0002$$$::O Santo Graal nessa terra e o Santo Graal que os Einzberns preparam.[lr]::
+68790::$$$message_0630_0081_0003$$$::O primeiro é o círculo mágico que usa a terra administrada pelos Tohsakas.[lr]::
+68791::$$$message_0630_0081_0004$$$::Esse é chamado de Santo Graal Maior.[lr]::
+68792::$$$message_0630_0081_0005$$$::A chave que a família Einzbern prepara para cada ritual é chamada de Santo Graal."::
+68793::$$$message_0630_0082_0000$$$::"O Santo Graal Maior administra todo o sistema da Guerra do Santo Graal. O Santo Graal coleta as almas dos Espíritos Heroicos derrotados e age como o núcleo que ativa o Grande Santo Graal."::
+68794::$$$message_0630_0083_0000$$$::"E assim que o Santo Graal coleta almas suficientes para ativar o Santo Graal Maior, ele usa as almas dos Espíritos Heroicos para abrir um buraco.[lr]::
+68795::$$$message_0630_0083_0001$$$::O Santo Graal Maior mantém aberto o pequeno buraco que é criado quanto os Espiritos Heroicos retornam ao seu lugar original depois de cumprirem seu papel. Isso abre o caminho para a Origem que os humanos não conseguem alcançar."::
+68796::$$$message_0630_0084_0000$$$::"Obviamente, esse é apenas o primeiro passo. O seu desejo não será realizado mesmo se o buraco for aberto. O caminho até a Origem é muito longo."::
+68797::$$$message_0630_0085_0000$$$::"Mas[w l=3][line3]aquele que obtém o Santo Graal ganha acesso a energia mágica ilimitada.[lr]::
+68798::$$$message_0630_0085_0001$$$::O outro lado possui grandes quantidades de energia mágica que não foram usadas, diferente de tudo visto desse lado.  Para um mago comum, isso não é nada menos que um milagre."::
+68799::$$$message_0630_0086_0000$$$::"......Entendi. Então o Santo Graal Maior é o círculo mágico que serve como a fundação, e o Santo Graal é a chave para ativá-lo.[lr]::
+68800::$$$message_0630_0086_0001$$$::A Guerra do Santo Graal deve acontecer num ciclo de sessenta anos para acumular mana suficiente para invocar os Espíritos Heroicos."::
+68801::$$$message_0630_0087_0000$$$::"É impossível realizar uma invocação dessas usando a energia mágica de apenas uma pessoa.[lr]::
+68802::$$$message_0630_0087_0001$$$::O Santo Graal Maior drena a mana da terra lentamente para não esgotá-la, e assim que fica cheio[w l=3][line3]"::
+68803::$$$message_0630_0088_0000$$$::"Sim, ele invoca os Espíritos Heroicos como Servos.[lr]::
+68804::$$$message_0630_0088_0001$$$::Mas você precisa de um incentivo para invocar os Espíritos Heroicos. Eles não ouvirão seu chamado a menos que você dê a eles o que eles querem.[lr]::
+68805::$$$message_0630_0088_0002$$$::É por isso que o Santo Graal foi preparado para recompensá-los."::
+68806::$$$message_0630_0089_0000$$$::"...Bom, isso era uma enganação desde o início.[lr]::
+68807::$$$message_0630_0089_0001$$$::Os Einzberns só queriam as almas dos Espíritos Heroicos.[lr]::
+68808::$$$message_0630_0089_0002$$$::Eles não se importavam com sua relevância. Eles só queriam almas fortes.[lr]::
+68809::$$$message_0630_0089_0003$$$::Para esconder isso, eles criaram a Guerra do Santo Graal como um disfarce. Eles enganaram os Servos e os Mestres e os fizeram se matarem."::
+68810::$$$message_0630_0090_0000$$$::"...Bom, creio que isso tenha começado a partir do segundo ritual.[lr]::
+68811::$$$message_0630_0090_0001$$$::O primeiro foi conduzido numa maneira honesta e tola e falhou logo de cara porque as três famílias lutaram pelo seu direito exclusivo."::
+68812::$$$message_0630_0091_0000$$$::"Por isso as regras foram criadas a partir do segundo ritual.[lr]::
+68813::$$$message_0630_0091_0001$$$::Estrangeiros foram chamados e colocados para lutar pelo Santo Graal.[lr]::
+68814::$$$message_0630_0091_0002$$$::Mestres de outras famílias eram vistos como um incômodo após invocarem seus Servos, por isso era mais eficiente matá-los em batalha.[lr]::
+68815::$$$message_0630_0091_0003$$$::Isso era conveniente para as três famílias porque eles podiam matar de forma legítima os seus colaboradores."::
+68816::$$$message_0630_0092_0000$$$::"Inacreditável. Então a regra de que Mestres devem matar uns aos outros existe porque eles não conseguiram decidir o dono na conversa e precisaram recorrer à violência?"::
+68817::$$$message_0630_0093_0000$$$::"Sim. Mas escolher o último mago sobrevivente provou ser um método ainda melhor do que o esperado.[lr]::
+68818::$$$message_0630_0093_0001$$$::É como você. Houveram Servos e Mestres que descobriram que estavam sendo enganados, mas eles não se importaram. É porque você ganha o Santo Graal se vencer."::
+68819::$$$message_0630_0094_0000$$$::A Tohsaka está convencida.[lr]::
+68820::$$$message_0630_0094_0001$$$::"........."[lr]::
+68821::$$$message_0630_0094_0002$$$::...Resumindo, a Guerra do Santo Graal não é uma batalha para obter o Santo Graal, mas um ritual para escapar para o mundo exterior.::
+68822::$$$message_0630_0095_0000$$$::Tentativas de alcançar o mundo exterior.[lr]::
+68823::$$$message_0630_0095_0001$$$::De acordo com o Hermetismo, existe um poder que governa a teoria dimensional fora desse mundo.[lr]::
+68824::$$$message_0630_0095_0002$$$::É chamado de 'Espiral da Origem', e é uma coordenada considerada como o começo de todas as coisas.[lr]::
+68825::$$$message_0630_0095_0003$$$::É o começo e o fim de toda a criação. O trono de Deus, onde tudo é gravado tudo e pode-se criar qualquer coisa.::
+68826::$$$message_0630_0096_0000$$$::"........."[lr]::
+68827::$$$message_0630_0096_0001$$$::Mas eu realmente não me importo com isso.[lr]::
+68828::$$$message_0630_0096_0002$$$::Meu pai teria compreendido o quão sério isso é, mas isso não me importa.[lr]::
+68829::$$$message_0630_0096_0003$$$::O que está possuindo a Sakura é muito mais importante pra mim do que como tudo isso começou.::
+68830::$$$message_0630_0097_0000$$$::"Illya. Eu não me importo com o verdadeiro motivo da guerra. Como você disse, isso não tem nada a ver com a gente.[lr]::
+68831::$$$message_0630_0097_0001$$$::Mais importante, nos conte sobre aquilo que você mencionou mais cedo."::
+68832::$$$message_0630_0098_0000$$$::"Não tem nada a ver com a gente!? A gente tá falando de Magia! E é sobre a Terceira Magia! É o tabu dos tabus que tem sido mantido em segredo mesmo dentro da Associação![lr]::
+68833::$$$message_0630_0098_0001$$$::Se você é mesmo um mago, você não pode ignorar uma coisa dessas[w l=4][line4]"::
+68834::$$$message_0630_0099_0000$$$::"Eu posso. ...Cara, no que você está pensando, Tohsaka?[lr]::
+68835::$$$message_0630_0099_0001$$$::Isso não é hora de ficar conversando sobre algo que não pode dar certo."[lr]::
+68836::$$$message_0630_0099_0002$$$::"N-Não pode dar certo? Você tá dizendo isso se baseando em quê?"::
+68837::$$$message_0630_0100_0000$$$::"Olha bem. Eu não sei por que, mas a Guerra do Santo Graal nunca teve um vencedor. Isso significa que tem alguma coisa errada com o ritual.[lr]::
+68838::$$$message_0630_0100_0001$$$::...Em primeiro lugar, como você explica o que tá acontecendo com a Sakura? Se o Santo Graal é um caminho para alcançar a Magia, isso significa que a vida da Sakura está desse jeito por causa de Magia?"[lr]::
+68839::$$$message_0630_0100_0002$$$::Talvez eu tenha a convencido, porque ela fica calada.::
+68840::$$$message_0630_0101_0000$$$::"Então, Illya. Por que a Guerra do Santo Graal ficou desse jeito?[lr]::
+68841::$$$message_0630_0101_0001$$$::Kotomine disse que existe algo dentro do Santo Graal.[lr]::
+68842::$$$message_0630_0101_0002$$$::É esse o tal do Avenger? E ele não tá no Santo Graal, na Sakura ou na Illya, mas no círculo mágico que você chama de Santo Graal Maior?"::
+68843::$$$message_0630_0102_0000$$$::"Ah, Kotomine saberia disso, não é?[lr]::
+68844::$$$message_0630_0102_0001$$$::Ele é um mago que foi contaminado pelo Avenger, assim como a Sakura. Ele já sabe o que está dentro do Santo Graal."[lr]::
+68845::$$$message_0630_0102_0002$$$::"Eh...? O Kirei e a Sakura são o mesmo...?"::
+68846::$$$message_0630_0103_0000$$$::"Exato. Isso diz respeito a vocês dois.[lr]::
+68847::$$$message_0630_0103_0001$$$::Isso é sobre o que o Zouken está tentando obter, o que está mudando a Sakura, o que está se escondendo no Santo Graal, e o que está contaminando a alma dos Espíritos Heroicos.[lr]::
+68848::$$$message_0630_0103_0002$$$::O nome da sua classe é Avenger.[lr]::
+68849::$$$message_0630_0103_0003$$$::O Espírito Heroico que está prestes a ganhar uma forma física pelo poder do Santo Graal, um exemplo bem sucedido da Terceira Magia."::
+68850::$$$message_0630_0104_0000$$$::"...Quê? O que você tinha dito sobre as Magias não terem nada a ver com a gente? Isso é relevante pro nosso caso."::
+68851::$$$message_0630_0105_0000$$$::"Não. A materialização do Avenger não é uma Magia realizada pelo Santo Graal. Desde o início, ele era um Espírito Heroico com esse atributo específico.[lr]::
+68852::$$$message_0630_0105_0001$$$::Ele pode tomar uma forma física dentro do Santo Graal porque ele é o Avenger.[lr]::
+68853::$$$message_0630_0105_0002$$$::O Santo Graal apenas invocou um vingador que é capaz de usar a Terceira Magia, isso não significa que o Santo Graal Maior usou a Terceira Magia."::
+68854::$$$message_0630_0106_0000$$$::"......? Então resumindo, ele é um monstro que consegue se materializar?[lr]::
+68855::$$$message_0630_0106_0001$$$::É alguém que pode incorporar a Terceira Magia mesmo que o Santo Graal Maior não consiga?"::
+68856::$$$message_0630_0107_0000$$$::"Sim. Tudo começou no terceiro ritual.[lr]::
+68857::$$$message_0630_0107_0001$$$::O primeiro foi um fracasso. Os Einzberns foram derrotados rapidamente na segunda guerra, e no desespero, invocaram um espírito especializado em matar."::
+68858::$$$message_0630_0108_0000$$$::"Eles usaram uma escritura antiga de um folclore estrangeiro como catalisador para invocar o pior dos males possíveis.[lr]::
+68859::$$$message_0630_0108_0001$$$::Eles invocaram o que não deveriam para matar todos os outros Mestres, para ativar o Santo Graal Maior, e para manter todas as conquistas para si mesmos.[lr]::
+68860::$$$message_0630_0108_0002$$$::[w l=4][line4]O nome do espírito é Angra Mainyu.[lr]::
+68861::$$$message_0630_0108_0003$$$::Um anti-herói assassino que é a personificação de todas as maldições do mundo."::
+68862::$$$message_0630_0109_0000$$$::"[w l=4][line4]Angra... Mainyu?"[lr]::
+68863::$$$message_0630_0109_0001$$$::...Espera.[lr]::
+68864::$$$message_0630_0109_0002$$$::Angra Mainyu é o nome de um antigo demônio Persa.[lr]::
+68865::$$$message_0630_0109_0003$$$::É a personificação do mal, o maior demônio no Zoroastrismo.  Ele luta uma batalha de nove mil anos contra Ahura Mazda, protetor da bondade humana.[lr]::
+68866::$$$message_0630_0109_0004$$$::Zoroastrismo é uma história sobre a batalha entre esses dois deuses. Foi a primeira religião a introduzir a doutrina da dualidade, os anjos e os demônios.::
+68867::$$$message_0630_0110_0000$$$::Mas a história não contém nenhum herói chamado Angra Mainyu.[lr]::
+68868::$$$message_0630_0110_0001$$$::Em primeiro lugar, como pode alguém que foi coroado com o nome de rei dos demônios se tornar um Espírito Heroico?::
+68869::$$$message_0630_0111_0000$$$::"Isso não é possível, Illya. O Santo Graal só pode invocar Espíritos Heroicos, e você não precisaria do Santo Graal se pudesse realizar um fenômeno no nível de um espírito divino.[lr]::
+68870::$$$message_0630_0111_0001$$$::Não, em primeiro lugar, não pode existir um Espírito Heroico com o nome Angra Mainyu. Mesmo se houvesse, ele seria um espírito maligno sem nome que não influenciou a história. E mesmo se fosse invocado, sua alma não seria compatível com o Santo Graal."::
+68871::$$$message_0630_0112_0000$$$::"...Illya. O que o Mestre dos Einzberns invocou?"::
+68872::$$$message_0630_0113_0000$$$::"Eu disse que foi o Angra Mainyu, Rin.[lr]::
+68873::$$$message_0630_0113_0001$$$::...Ele certamente não tinha um nome, e não era um demônio. Mas um herói com o nome Angra Mainyu de fato existiu."::
+68874::$$$message_0630_0114_0000$$$::"...Sim, essa história se passa há muito tempo atrás. Há muito, muito tempo atrás, em um mundo muito pequeno.[lr]::
+68875::$$$message_0630_0114_0001$$$::Ele era um herói que viveu em um pequeno vilarejo sem nome."::
+68876::$$$message_0630_0115_0000$$$::"Eu não sei o quão distorcida era a sua doutrina.[lr]::
+68877::$$$message_0630_0115_0001$$$::Eu não sei o que os levou a essa ideia.[lr]::
+68878::$$$message_0630_0115_0002$$$::Mas eles viviam de forma justa e pura de acordo com os seus preceitos.[lr]::
+68879::$$$message_0630_0115_0003$$$::As pessoas devem valorizar a bondade, proteger a luz e viver vidas virtuosas.[lr]::
+68880::$$$message_0630_0115_0004$$$::Para essas pessoas, isoladas do resto do mundo, essa súplica era absoluta. Era provavelmente a única fonte de orgulho humano que eles conheciam."::
+68881::$$$message_0630_0116_0000$$$::"[w l=4][line4]Sim.[lr]::
+68882::$$$message_0630_0116_0001$$$::As pessoas do vilarejo desejavam sinceramente que todos pudessem viver em paz.[lr]::
+68883::$$$message_0630_0116_0002$$$::Para que todos pudessem se libertar da malícia e viver vidas justas e puras.[lr]::
+68884::$$$message_0630_0116_0003$$$::Eles renunciaram todas as preocupações humanas como fome, conflitos, amor e ódio. Eles tinham orgulho de serem dignos da benção de Deus."::
+68885::$$$message_0630_0117_0000$$$::"Mas era impossível.[lr]::
+68886::$$$message_0630_0117_0001$$$::As pessoas não podem ser libertadas da malícia mesmo vivendo vidas justas e puras.[lr]::
+68887::$$$message_0630_0117_0002$$$::Desde quando nascemos, há mal dentro de nós. Certas medidas devem ser tomadas caso queira separar o mal de você mesmo.[lr]::
+68888::$$$message_0630_0117_0003$$$::E[w l=4][line4]essas medidas foram tomadas."::
+68889::$$$message_0630_0118_0000$$$::"Eles pensaram em uma maneira de não apenas salvar o seu pequeno vilarejo, mas também salvar o mundo todo.[lr]::
+68890::$$$message_0630_0118_0001$$$::É difícil fazer todo mundo fazer o bem.[lr]::
+68891::$$$message_0630_0118_0002$$$::Mas você pode provar a bondade de todos.[lr]::
+68892::$$$message_0630_0118_0003$$$::...Você só precisa de uma pessoa.[lr]::
+68893::$$$message_0630_0118_0004$$$::Se uma pessoa incorporar todos os males do mundo, todas as outras pessoas não poderão ser malignas, não importa o que façam.[lr]::
+68894::$$$message_0630_0118_0005$$$::Eles acreditavam seriamente numa teoria simples e infantil dessas.::
+68895::$$$message_0630_0119_0000$$$::"E um jovem foi escolhido como sacrifício.[lr]::
+68896::$$$message_0630_0119_0001$$$::Eles o capturaram, gravaram cada palavra amaldiçoada no seu corpo, forçaram cada pecado imaginável nele, e o tornou responsável por todos os males do mundo.[lr]::
+68897::$$$message_0630_0119_0002$$$::Isso é tudo.[lr]::
+68898::$$$message_0630_0119_0003$$$::Um mundo pequeno. Mas um mal supremo nasceu nesse mundo completo."::
+68899::$$$message_0630_0120_0000$$$::"As pessoas xingavam, desprezavam, temiam, e ao mesmo tempo adoravam esse homem.[lr]::
+68900::$$$message_0630_0120_0001$$$::Eles acreditavam que eram puros e justos, já que todos os males do mundo estavam nele.[lr]::
+68901::$$$message_0630_0120_0002$$$::Eles realmente acreditavam que isso salvaria todo mundo no planeta e acabaram criando um demônio.[lr]::
+68902::$$$message_0630_0120_0003$$$::Para demonstrar a bondade humana, eles torturaram um homem sem parar até ele perder a sanidade. Não, eles não iriam permitir que ele morresse até ele sucumbir pela sua idade avançada.::
+68903::$$$message_0630_0121_0000$$$::"...O nome do demônio que corrompe os homens.[lr]::
+68904::$$$message_0630_0121_0001$$$::Lhe foi dado o nome Angra Mainyu, e ele foi odiado de forma irracional por todos do planeta."::
+68905::$$$message_0630_0122_0000$$$::"Eu não sei se ele realmente virou um demônio durante o processo.[lr]::
+68906::$$$message_0630_0122_0001$$$::Eles o odiavam e o temiam, mas ele era a prova da sua bondade. Eles o reverenciava como o símbolo da sua salvação."::
+68907::$$$message_0630_0123_0000$$$::"Ele era o alvo do ódio de todas as pessoas, mas ele salvava pessoas.[lr]::
+68908::$$$message_0630_0123_0001$$$::A sua existência perdoava todas as pessoas pelas suas maldades.[lr]::
+68909::$$$message_0630_0123_0002$$$::Embora seu método fosse incomum, ele ainda salvava pessoas.[lr]::
+68910::$$$message_0630_0123_0003$$$::Ele se tornou um herói para os aldeões."::
+68911::$$$message_0630_0124_0000$$$::"E assim nasceu um herói.[lr]::
+68912::$$$message_0630_0124_0001$$$::Odiado pelas pessoas, enlouquecido... Uma pessoa que se transformou exatamente no que eles queriam. Um sacrifício impotente que veio representar todos os males do mundo."::
+68913::$$$message_0630_0125_0000$$$::"[w l=3][line3]Esse é o anti-herói Angra Mainyu.[lr]::
+68914::$$$message_0630_0125_0001$$$::Uma pessoa comum sem qualquer talento especial que foi escolhida para ser todos os males do mundo.[lr]::
+68915::$$$message_0630_0125_0002$$$::O rei dos demônios que aprova todos os seis bilhões de males do Zoroastrismo. Ele é uma maldição criada por um conceito dos povos antigos."::
+68916::$$$message_0630_0126_0000$$$::Illya termina a sua história sem demonstrar qualquer sinal de amargura ou desprezo.[lr]::
+68917::$$$message_0630_0126_0001$$$::...Anti-herói.[lr]::
+68918::$$$message_0630_0126_0002$$$::Kotomine me apresentou esse termo quando a guerra havia começado.::
+68919::$$$message_0630_0127_0000$$$::"............"[lr]::
+68920::$$$message_0630_0127_0001$$$::...Mas.[lr]::
+68921::$$$message_0630_0127_0002$$$::Se a história da Illya for mesmo verdade, então o cara que se tornou o Angra Mainyu ainda está carregando todos os pecados.[lr]::
+68922::$$$message_0630_0127_0003$$$::É porque essa é a razão da sua existência.::
+68923::$$$message_0630_0128_0000$$$::Um Espírito Heroico que foi forçado a carregar seis bilhões de pecados.[lr]::
+68924::$$$message_0630_0128_0001$$$::...Se alguém assim fosse invocado, tudo o que iria acontecer é um grande massacre.[lr]::
+68925::$$$message_0630_0128_0002$$$::É apenas natural que ele odeie as pessoas, e em primeiro lugar, todo mundo ao seu redor o estabeleceu como maligno.::
+68926::$$$message_0630_0129_0000$$$::...Angra Mainyu.[lr]::
+68927::$$$message_0630_0129_0001$$$::Então o homem usando a Sakura para se vingar das pessoas... não, para cumprir o papel que as pessoas deram a ele?::
+68928::$$$message_0630_0130_0000$$$::"Agora eu entendo a história do Avenger... Angra Mainyu.[lr]::
+68929::$$$message_0630_0130_0001$$$::Mas por que ele está dentro do Santo Graal? Ele é apenas um humano comum, não é? Mesmo tendo recebido o nome de um demônio e sendo tratado como um, ele continua sendo apenas um humano.[lr]::
+68930::$$$message_0630_0130_0002$$$::Isso não o transformaria em um monstro capaz de engolir a cidade inteira."::
+68931::$$$message_0630_0131_0000$$$::"...Sim. Angra Mainyu é um humano. Ele era apenas um humano comum, mas foi forçado a se tornar um Espírito Heroico. Por isso não havia nenhum problema originalmente."::
+68932::$$$message_0630_0132_0000$$$::"...A família Einzbern invocou Angra Mainyu na terceira guerra.[lr]::
+68933::$$$message_0630_0132_0001$$$::Mas o Espírito Heroico que foi invocado era fraco.[lr]::
+68934::$$$message_0630_0132_0002$$$::O anti-herói foi derrotado logo no começo da guerra, e o Santo Graal o absorveu. O Mestre dos Einzberns não compreendia como esse humano comum poderia ser um demônio que destrói o mundo dos humanos."::
+68935::$$$message_0630_0133_0000$$$::"...Sim. O Espírito Heroico era apenas um humano.[lr]::
+68936::$$$message_0630_0133_0001$$$::Um humano que amaldiçoava o mundo.[lr]::
+68937::$$$message_0630_0133_0002$$$::Um humano que todos queriam que representasse a maldade deles.[lr]::
+68938::$$$message_0630_0133_0003$$$::...Por isso ele não tinha poderes. Ele foi construído pelas pessoas ao redor dele.[lr]::
+68939::$$$message_0630_0133_0004$$$::Mas tudo mudou no momento em que ele foi absorvido pelo Santo Graal."::
+68940::$$$message_0630_0134_0000$$$::"O Santo Graal realiza desejos.[lr]::
+68941::$$$message_0630_0134_0001$$$::Quando são derrotados, Servos são reduzidos à pura energia mágica e são absorvidos pelo Santo Graal para esperar até o momento de serem libertados. Eles perdem a sua personalidade individual e permanecem dentro do Santo Graal como um poder onipotente.[lr]::
+68942::$$$message_0630_0134_0002$$$::Mas Angra Mainyu era diferente. Ele era um Espírito Heroico que foi desejado pelos outros.  Ele estava destinado a ser maligno, não importa qual fosse a sua personalidade."::
+68943::$$$message_0630_0135_0000$$$::"[w l=4][line4]Sem chance. Não me fala que..."[lr]::
+68944::$$$message_0630_0135_0001$$$::"Sim. O Santo Graal realiza qualquer desejo.[lr]::
+68945::$$$message_0630_0135_0002$$$::Ele era apenas um humano, mas não era tratado como um. Por isso ele é uma personificação dos desejos das pessoas.[lr]::
+68946::$$$message_0630_0135_0003$$$::Então[w l=3][line3]no momento que o Angra Mainyu foi absorvido pelo Santo Graal, o Santo Graal aceitou um desejo."::
+68947::$$$message_0630_0136_0000$$$::"Uma existência que não deveria existir.[lr]::
+68948::$$$message_0630_0136_0001$$$::O Espírito Heroico construído pelos desejos egoístas das pessoas finalmente ganhou forma física dentro do Santo Graal realizador de desejos.[lr]::
+68949::$$$message_0630_0136_0002$$$::...Quinhentos anos sob os Makiris e um milênio sob os Einzberns não são nada.[lr]::
+68950::$$$message_0630_0136_0003$$$::Afinal de contas, ele é um ideal humano que foi desejado desde a era dos deuses, mais de dois mil anos atrás."::
+68951::$$$message_0630_0137_0000$$$::"Essa é a verdadeira identidade daquela sombra. Ele finalmente ganhou forma como um Espírito Heroico.[lr]::
+68952::$$$message_0630_0137_0001$$$::Angra Mainyu usou a energia mágica incolor dos Servos para incorporar todos os males do mundo.[lr]::
+68953::$$$message_0630_0137_0002$$$::Querendo apenas ser maligno.[lr]::
+68954::$$$message_0630_0137_0003$$$::Ele lentamente amadureceu com a habilidade de amaldiçoar todas as seis bilhões de pessoas do planeta."::
+68955::$$$message_0630_0138_0000$$$::"[w l=3][line3]Então o que? Todo o conteúdo do Santo Graal já foi contaminado por ele? O desejo que o Santo Graal realiza já está determinado, e a quarta guerra aconteceu apenas para juntar a energia mágica necessária para lhe dar forma?"::
+68956::$$$message_0630_0139_0000$$$::"Sim. Eu não sei quanto o Kiritsugu sabia sobre o Servo chamado Angra Mainyu.[lr]::
+68957::$$$message_0630_0139_0001$$$::Mas acreditando que a sombra que estava vazando dele era perigosa, ele destruiu o Santo Graal."::
+68958::$$$message_0630_0140_0000$$$::"E foi o certo a se fazer.[lr]::
+68959::$$$message_0630_0140_0001$$$::Não importa o que o antigo Angra Mainyu tenha sido, o Angra Mainyu que se formou dentro do Santo Graal é real. Ele irá se tornar no maior dos males desse mundo, um demônio que irá matar todo ser humano vivo no planeta."::
+68960::$$$message_0630_0141_0000$$$::"Mas graças à determinação do Kiritsugu, Angra Mainyu não pôde nascer e permaneceu dentro do Santo Graal.[lr]::
+68961::$$$message_0630_0141_0001$$$::Kotomine e Sakura receberam partes dele.[lr]::
+68962::$$$message_0630_0141_0002$$$::Zouken já devia saber que um Servo estava prestes a nascer dentro do Santo Graal.[lr]::
+68963::$$$message_0630_0141_0003$$$::Por isso que ele implantou um pedaço na Sakura, criando uma ligação entre ela e esse Servo.[lr]::
+68964::$$$message_0630_0141_0004$$$::Ele fez a Sakura virar uma Mestre para que ela pudesse controlar o Servo assim que ele emergisse."::
+68965::$$$message_0630_0142_0000$$$::"Não importa o que o Angra Mainyu seja, ele ainda é um Servo. Nenhum Servo, não importa o quão forte seja, pode desobedecer o seu Mestre.[lr]::
+68966::$$$message_0630_0142_0001$$$::Esse é o plano do Zouken. Ele planeja usar a Sakura para obter o Angra Mainyu."::
+68967::$$$message_0630_0143_0000$$$::[w l=4][line4]Espera.[lr]::
+68968::$$$message_0630_0143_0001$$$::Isso significa que a Sakura tem um contrato com esse Servo, Avenger?::
+68969::$$$message_0630_0144_0000$$$::"Está falando sério? Mesmo se a Sakura controlar o Angra Mainyu desse jeito, ela não conseguirá resistir à contaminação pela energia mágica.[lr]::
+68970::$$$message_0630_0144_0001$$$::Ela já mudou tanto assim com o Angra Mainyu ainda preso dentro do Santo Graal, por isso a sua personalidade irá desaparecer por completo quando ele sair. E então ser a Mestre dele já não vai mais importar."::
+68971::$$$message_0630_0145_0000$$$::"Isso não é um problema. Zouken não está preocupado com a personalidade da Sakura.  O que importa pra ele é o seu corpo e a sua conexão com o Angra Mainyu."::
+68972::$$$message_0630_0146_0000$$$::"Ele planeja roubar o corpo vazio dela assim que a sua personalidade desaparecer.[lr]::
+68973::$$$message_0630_0146_0001$$$::...Não sei se você sabe, mas Zouken pode roubar o corpo de qualquer pessoa enquanto o verme que contém a sua alma existir. Foi assim que ele se manteve vivo até agora.[lr]::
+68974::$$$message_0630_0146_0002$$$::Desde o início, a Sakura era apenas um corpo que eventualmente seria possuído."::
+68975::$$$message_0630_0147_0000$$$::[w l=4][line4]Então o quê?[lr]::
+68976::$$$message_0630_0147_0001$$$::A coisa que está possuindo a Sakura.[lr]::
+68977::$$$message_0630_0147_0002$$$::Se o que está fazendo ela mudar é um contrato com um Servo[w l=4][line4]::
+68978::$$$message_0630_0148_0000$$$::"O Zouken me sequestrou, provavelmente porque ele não queria deixar a Sakura abrir o portão.[lr]::
+68979::$$$message_0630_0148_0001$$$::Ele queria que eu assumisse o papel de Santo Graal, permitindo assim que ele roubasse o corpo da Sakura assim que ela se tornasse a Mestre do Angra Mainyu."::
+68980::$$$message_0630_0149_0000$$$::"Acho que ele planeja roubar o corpo do Angra Mainyu em seguida, já que uma alma que recebeu um corpo físico é um exemplo vivo da Terceira Magia. É como falar mal de um Deus perfeito porque você é um humano com desejos."::
+68981::$$$message_0630_0150_0000$$$::"...A definição da criação de Deus... É algo criado a partir dos desejos das pessoas, mas que não é afetado pelas intenções delas.[lr]::
+68982::$$$message_0630_0150_0001$$$::Bom, aposto que qualquer deus irá se transformar em um demônio se ele tiver a personalidade do Zouken. Deve ser por isso que o Kotomine o considerou como seu inimigo."::
+68983::$$$message_0630_0151_0000$$$::"Entendi. Isso é o suficiente, certo, Shirou?"[lr]::
+68984::$$$message_0630_0151_0001$$$::"[w l=4][line4]Huh?"[lr]::
+68985::$$$message_0630_0151_0002$$$::A voz da Tohsaka me traz de volta pra realidade.::
+68986::$$$message_0630_0152_0000$$$::"Não é 'huh'. Nós sabemos quem são os nossos inimigos, e sabemos das intenções do Zouken. Então não precisamos mais conversar sobre o resto."::
+68987::$$$message_0630_0153_0000$$$::"[w l=8][line8]"[lr]::
+68988::$$$message_0630_0153_0001$$$::...Não precisamos nem conversar sobre o resto, huh?[lr]::
+68989::$$$message_0630_0153_0002$$$::Ela tem razão.[lr]::
+68990::$$$message_0630_0153_0003$$$::O que está dentro do Santo Graal.[lr]::
+68991::$$$message_0630_0153_0004$$$::O desastre de dez anos atrás irá se repetir se ele sair.::
+68992::$$$message_0630_0154_0000$$$::...Não, isso é um eufemismo.[lr]::
+68993::$$$message_0630_0154_0001$$$::Ele irá matar um número incontável de pessoas se não agirmos.[lr]::
+68994::$$$message_0630_0154_0002$$$::[w l=3][line3]Sim.[lr]::
+68995::$$$message_0630_0154_0003$$$::A criação da Sakura vai tirar muitas vidas.::
+68996::$$$message_0630_0155_0000$$$::"[w l=8][line8]"[lr]::
+68997::$$$message_0630_0155_0001$$$::Não posso permitir isso.[lr]::
+68998::$$$message_0630_0155_0002$$$::Então preciso pará-lo.[lr]::
+68999::$$$message_0630_0155_0003$$$::Eu farei qualquer sacrifício necessário para impedir que a Sakura seja culpada por mais mortes.[lr]::
+69000::$$$message_0630_0155_0004$$$::[w l=4][line4]Parar o Angra Mainyu.[lr]::
+69001::$$$message_0630_0155_0005$$$::Tenho que encerrar essa guerra antes dele emergir do Santo Graal.::
+69002::$$$message_0630_0156_0000$$$::"Acho que agora você compreende. Temos que lutar e vencer.[lr]::
+69003::$$$message_0630_0156_0001$$$::E só há duas maneiras de se fazer isso.[lr]::
+69004::$$$message_0630_0156_0002$$$::Matar a Sakura, a Mestre do Angra Mainyu, antes dele sair. Ou destruir o Santo Graal Maior antes dele sair."::
+69005::$$$message_0630_0157_0000$$$::"...O primeiro é o método mais seguro.[lr]::
+69006::$$$message_0630_0157_0001$$$::Sakura e Zouken vão certamente entrar no nosso caminho se tentarmos destruir o Santo Graal Maior. Não seremos capazes de destrui-lo sem antes os derrotar.[lr]::
+69007::$$$message_0630_0157_0002$$$::Então é mais fácil derrotar a Sakura."::
+69008::$$$message_0630_0158_0000$$$::"Sim. Lutar contra a Sakura e separá-la do Angra Mainyu. Esse é o jeito mais fácil, e o plano é fácil de se entender."[lr]::
+69009::$$$message_0630_0158_0001$$$::"Ah. Você não vê nenhum problema em enfrentar ela?"::
+69010::$$$message_0630_0159_0000$$$::"...Essa é a única coisa que conseguimos fazer agora. Se Angra Mainyu é o que a Illya disse ser, então ele não é algo que humanos podem enfrentar. Nós vamos perder no instante que ele sair.[lr]::
+69011::$$$message_0630_0159_0001$$$::Por isso temos que pegar o caminho mais rápido e seguro.[lr]::
+69012::$$$message_0630_0159_0002$$$::Mas mais importante, Tohsaka. Eu não me importo de lutar, mas você sabe onde a Sakura está?"::
+69013::$$$message_0630_0160_0000$$$::"Isso não é problema. Se a Illya estiver certa, só existe um lugar onde o Santo Graal Maior possa estar. Né, Illya?"::
+69014::$$$message_0630_0161_0000$$$::"...Sim, é como você disse, Rin.[lr]::
+69015::$$$message_0630_0161_0001$$$::Angra Mainyu está prestes a nascer, então o Zouken está no Santo Graal Maior.[lr]::
+69016::$$$message_0630_0161_0002$$$::A linha ley degradada. A origem que foi escolhido pelas três famílias duzentos anos atrás. Angra Mainyu está sendo concebido na grande caverna abaixo do Templo Ryuudou."::
+69017::$$$message_0630_0162_0000$$$::"[w l=4][line4]Debaixo do Templo Ryuudou..."[lr]::
+69018::$$$message_0630_0162_0001$$$::...É lá onde a Sakura está.[lr]::
+69019::$$$message_0630_0162_0002$$$::É para onde estaremos indo, o local onde a Guerra do Santo Graal irá terminar.::
+69020::$$$message_0630_0163_0000$$$::"........."[lr]::
+69021::$$$message_0630_0163_0001$$$::Eu respiro fundo e deixo a minha mente tensa relaxar um pouco.[lr]::
+69022::$$$message_0630_0163_0002$$$::O pingente frio na minha mão acalma meus pensamentos.::
+69023::$$$message_0630_0164_0000$$$::"[w l=8][line8]"[lr]::
+69024::$$$message_0630_0164_0001$$$::Lutar contra a Sakura.[lr]::
+69025::$$$message_0630_0164_0002$$$::A Tohsaka não está mentindo.[lr]::
+69026::$$$message_0630_0164_0003$$$::É só que nossos métodos são diferentes.[lr]::
+69027::$$$message_0630_0164_0004$$$::Tohsaka deve estar pretendendo terminar a guerra ao matar a Sakura.[lr]::
+69028::$$$message_0630_0164_0005$$$::Mas eu irei terminar a guerra salvando a vida da Sakura[w l=3][line3]::
+69029::$$$message_0630_0165_0000$$$::".....!?"[lr]::
+69030::$$$message_0630_0165_0001$$$::Meu corpo estremece.[lr]::
+69031::$$$message_0630_0165_0002$$$::A casa é assaltada por uma pressão, fazendo com que o ar se pareça com água.[lr]::
+69032::$$$message_0630_0165_0003$$$::E...[lr]::
+69033::$$$message_0630_0165_0004$$$::"Sakura[w l=4][line4]!"[lr]::
+69034::$$$message_0630_0165_0005$$$::No instante que percebemos que a pressão está vindo da sombra, nós corremos para o quintal.::
+

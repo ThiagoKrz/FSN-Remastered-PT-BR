@@ -1,0 +1,131 @@
+DAT
+id=qid::label=str::text=lstr::
+52954::$$$message_0456_0000_0000$$$::Enquanto eu tiver quebrado minha promessa com ela, todas as minhas justificativas serão desculpas.[lr]::
+52955::$$$message_0456_0000_0001$$$::Tenho que fazer algo para conseguir seu perdão, mas não sei o que agradaria ela.[lr]::
+52956::$$$message_0456_0000_0002$$$::Então[w l=3][line3]por que não faço o que ela quer, como um Servo sob um Selo de Comando?::
+52957::$$$message_0456_0001_0000$$$::"Por que você está quieto? Não serei enganada por essa sua cara. Não pedirei desculpas se você não pedir também. Se não gosta de mim, então vou[w l=4][line4]"::
+52958::$$$message_0456_0002_0000$$$::"[w l=3][line3]Já decidi. Um Servo. Serei seu Servo só dessa vez pra compensar a promessa que quebrei."[lr]::
+52959::$$$message_0456_0002_0001$$$::"...te transformar num boneco...[ld pos=center file=イリヤコート06g(近) index=5000 time=200 method=crossfade] Espera, um Servo!?"::
+52960::$$$message_0456_0003_0000$$$::"Sim. Não há nada que eu possa fazer para manter minha promessa, certo? Então te obedecerei só dessa vez. Não te fará se sentir melhor?"::
+52961::$$$message_0456_0004_0000$$$::"[line20][lr]::
+52962::$$$message_0456_0004_0001$$$::[w l=3][line3]Não, mentiroso! Você não veio ao parque. Uma promessa verbal acaba aí, não confiarei em suas palavras."::
+52963::$$$message_0456_0005_0000$$$::"Eu sei. Por isso te obedecerei, como se você tivesse usado um Selo de Comando. Só poderá usá-lo uma vez, mas não quebrarei minha promessa com você, não importa o que. Confia em mim se for o caso?"::
+52964::$$$message_0456_0006_0000$$$::"C-Confiar em você...? Mas não tenho um Selo de Comando que posso usar contra você..."::
+52965::$$$message_0456_0007_0000$$$::"Não, mas cumprirei minha promessa. Não há contrato ou Selo de Comando, mas vou tratá-lo como uma ordem vinda de um Selo de Comando.[lr]::
+52966::$$$message_0456_0007_0001$$$::Somos ambos Mestres. Juro pelo meu Selo que não trairei algo que reconheço como Selo de Comando."::
+52967::$$$message_0456_0008_0000$$$::Juro enquanto olho a Illya nos olhos.[lr]::
+52968::$$$message_0456_0008_0001$$$::A garota de cabelo prateado fica surpresa e...[lr]::
+52969::$$$message_0456_0008_0002$$$::"...vai mesmo fazer o que eu quiser?"[lr]::
+52970::$$$message_0456_0008_0003$$$::...me encara desconfortável.::
+52971::$$$message_0456_0009_0000$$$::"Claro. É um Selo de Comando. Farei qualquer coisa, portanto que seja possível para mim fazer."[lr]::
+52972::$$$message_0456_0009_0001$$$::Respondo o seu olhar cansado com um grande sorriso.::
+52973::$$$message_0456_0010_0000$$$::"......"[lr]::
+52974::$$$message_0456_0010_0001$$$::Um longo silêncio.[lr]::
+52975::$$$message_0456_0010_0002$$$::Illya desvia o olhar e aperta seus punhos.::
+52976::$$$message_0456_0011_0000$$$::"......Okay. Então, eu quero......"[lr]::
+52977::$$$message_0456_0011_0001$$$::"Huh...?"[lr]::
+52978::$$$message_0456_0011_0002$$$::Eu entendi mal?[lr]::
+52979::$$$message_0456_0011_0003$$$::É um Selo de Comando que estamos falando aqui, mas seu desejo é algo pequeno.::
+52980::$$$message_0456_0012_0000$$$::"Illya...? Espera, é um Selo de Comando. Farei o que quiser. Tem certeza que é só isso?"::
+52981::$$$message_0456_0013_0000$$$::"......"[lr]::
+52982::$$$message_0456_0013_0001$$$::"Não tem mais nada que quer. Isso é fácil demais. Não precisa se segurar, então pode pedir de nov[w l=4][line4]"[lr]::
+52983::$$$message_0456_0013_0002$$$::"N-Não estou me segurando! Mentiroso! Disse que faria qualquer coisa!"::
+52984::$$$message_0456_0014_0000$$$::"Uh, mas... é só isso mesmo que você quer!? Porque tal coisinha..."[lr]::
+52985::$$$message_0456_0014_0001$$$::...é algo que posso fazer tranquilamente, mesmo sem um Selo me forçando.::
+52986::$$$message_0456_0015_0000$$$::"...não é nadinha. Sempre quis fazer isso. Então é isso que quero de você agora, Shirou."[lr]::
+52987::$$$message_0456_0015_0001$$$::Seu rosto está todo vermelho, e ela está tremendo de medo de ser rejeitada.::
+52988::$$$message_0456_0016_0000$$$::"[w l=6][line6]Illya."[lr]::
+52989::$$$message_0456_0016_0001$$$::Não tenho como questioná-la mais.[lr]::
+52990::$$$message_0456_0016_0002$$$::Não importa o quão pequeno seja, é seu desejo.[lr]::
+52991::$$$message_0456_0016_0003$$$::Então[w l=3][line3]terei que protegê-la como seu cavaleiro.::
+52992::$$$message_0456_0017_0000$$$::"Certo. Me desculpa por ter dito isso.[lr]::
+52993::$$$message_0456_0017_0001$$$::[w l=3][line3]Vamos, Illya. É um distrito comercial pequeno, mas vai ser legal com só nós dois."::
+52994::$$$message_0456_0018_0000$$$::Sinto minha cara queimando de vergonha enquanto digo isso.[lr]::
+52995::$$$message_0456_0018_0001$$$::Meu rosto está ficando vermelho.[lr]::
+52996::$$$message_0456_0018_0002$$$::Mas estendo minha mão pra Illya sem tentar esconder isso.::
+52997::$$$message_0456_0019_0000$$$::O desejo da Illya é mesmo pequeno.[lr]::
+52998::$$$message_0456_0019_0001$$$::'Me leve pra sair.'[lr]::
+52999::$$$message_0456_0019_0002$$$::Não é um grande desejo.[lr]::
+53000::$$$message_0456_0019_0003$$$::Ela pediu por algo do dia-a-dia.::
+53001::$$$message_0456_0020_0000$$$::...não sei o quanto significado ele tem pra ela.[lr]::
+53002::$$$message_0456_0020_0001$$$::Andamos pelo distrito comercial, não como Mestres, mas como irmãos.[lr]::
+53003::$$$message_0456_0020_0002$$$::A Illya corre pelo cenário familiar com os olhos brilhantes.::
+53004::$$$message_0456_0021_0000$$$::Ver ela alegre me anima.[lr]::
+53005::$$$message_0456_0021_0001$$$::A Illya caminha com um sorriso tranquilo.[lr]::
+53006::$$$message_0456_0021_0002$$$::Sua atitude feliz me faz desejar que isso durasse para sempre.::
+53007::$$$message_0456_0022_0000$$$::[w l=3][line3]Mas finalmente percebo.[lr]::
+53008::$$$message_0456_0022_0001$$$::Ela corre como se estivesse dançando, nunca parando de sorrir.[lr]::
+53009::$$$message_0456_0022_0002$$$::Mas não há alegria nele.[lr]::
+53010::$$$message_0456_0022_0003$$$::Ela sorri desesperadamente pois está triste[w l=3][line3]e porque não quer que esse sonho acabe.::
+53011::$$$message_0456_0023_0000$$$::"Vem cá, Shirou! O café vai esfriar!"[lr]::
+53012::$$$message_0456_0023_0001$$$::Uma lata quente deve ser interessante pra ela, já que ela corre pro parque com as nossas bebidas em mão.::
+53013::$$$message_0456_0024_0000$$$::O fim chega, não importa o quanto eu deseje que não acabe e não importa o quanto eu morda meus lábios por ela não se esforçar.[lr]::
+53014::$$$message_0456_0024_0001$$$::O distrito comercial aqui é pequeno.[lr]::
+53015::$$$message_0456_0024_0002$$$::Não importa o quanto demoremos, podemos atravessá-lo por inteiro em uma hora.::
+53016::$$$message_0456_0025_0000$$$::"Chegamos! Estamos na última estação.[lr]::
+53017::$$$message_0456_0025_0001$$$::Pode descansar agora, Shirou. Obrigado por todo o trabalho até aqui."::
+53018::$$$message_0456_0026_0000$$$::A Illya se vira pra mim.[lr]::
+53019::$$$message_0456_0026_0001$$$::Sento no banco, pensando que ela quer descansar aqui.::
+53020::$$$message_0456_0027_0000$$$::...mas.[lr]::
+53021::$$$message_0456_0027_0001$$$::Embora ela tenha sugerido, a Illya não se senta.::
+53022::$$$message_0456_0028_0000$$$::"Illya? Não vai se sentar?"[lr]::
+53023::$$$message_0456_0028_0001$$$::"Aqui está sua bebida, Shirou. Você fica com o café, e eu com a sopa doce de feijão vermelho."::
+53024::$$$message_0456_0029_0000$$$::A Illya pega a bebida do seu bolso e me entrega.[lr]::
+53025::$$$message_0456_0029_0001$$$::...o único item que ela pra que eu comprasse foi a bebida dela.::
+53026::$$$message_0456_0030_0000$$$::"Mas como voccê sabia sobre a sopa doce de feijão vermelho? Eles não tem isso em casa, né?"[lr]::
+53027::$$$message_0456_0030_0001$$$::"Sim. É a primeira vez que a vejo-o. Me disse que eu não deveria bebê-la por ser muito doce."::
+53028::$$$message_0456_0031_0000$$$::Illya dá um passo, sorrindo.[lr]::
+53029::$$$message_0456_0031_0001$$$::Ela rodopia no meio do parque.::
+53030::$$$message_0456_0032_0000$$$::"Illya...?"[lr]::
+53031::$$$message_0456_0032_0001$$$::"Vou abrir mão do Selo de Comando aqui. Foi por um curto período de tempo, mas obrigado, Shirou."[lr]::
+53032::$$$message_0456_0032_0002$$$::A voz dela é clara.[lr]::
+53033::$$$message_0456_0032_0003$$$::Sorrindo determinada, Illya anuncia que seu sonho deve acabar.::
+53034::$$$message_0456_0033_0000$$$::"Q[w l=4][line4]'obrigado'? Por que? Não deu nem uma hora ainda. Podemos ir até Shinto se estiver entediada com o distrito comercial. Lá é bem melhor do que..."::
+53035::$$$message_0456_0034_0000$$$::"Tudo bem. Afinal, aqui é o ponto final. Foi legal, mas as compras acbam aqui. O sol vai se pôr logo, então vamos voltar para nossa relação anterior.[lr]::
+53036::$$$message_0456_0034_0001$$$::Sou uma Mestre que veio matar o Shirou, e você luta contra mim por seu próprio bem. Nossa relação foi definida antes de nos conhecermos."::
+53037::$$$message_0456_0035_0000$$$::O que posso dizer pra isso?[lr]::
+53038::$$$message_0456_0035_0001$$$::Illya deseja uma vida comum mais do que eu, mas ela joga seus desejos de lado com mais prontidão.::
+53039::$$$message_0456_0036_0000$$$::"[w l=3][line3]Entendo. Então quando deixarmos esse parque..."[lr]::
+53040::$$$message_0456_0036_0001$$$::"Sim, seremos inimigos. Se nos encontrarmos de novo, teremos que continuar nossa luta.[lr]::
+53041::$$$message_0456_0036_0002$$$::Se não quer que eu te mate, terá que me matar primeiro."::
+53042::$$$message_0456_0037_0000$$$::Paro de respirar por um instante e olho para o céu.[lr]::
+53043::$$$message_0456_0037_0001$$$::[w l=3][line3]O céu está cinzento.[lr]::
+53044::$$$message_0456_0037_0002$$$::Nosso momento de felicidade rapidamente acabou, e cidade está coberta por nuvens carregadas.[lr]::
+53045::$$$message_0456_0037_0003$$$::Embora eu desejasse que isso durasse pra sempre, eu sabia que acabaria assim quando percebi que só doía para a Illya.::
+53046::$$$message_0456_0038_0000$$$::O garota disse que aqui é o máximo do fim.[lr]::
+53047::$$$message_0456_0038_0001$$$::A parada final.[lr]::
+53048::$$$message_0456_0038_0002$$$::A Illya continua sorrindo inocentemente aqui, sem destino ou retorno.::
+53049::$$$message_0456_0039_0000$$$::"[w l=3][line3]Uau! Está nevando, Shirou!"[lr]::
+53050::$$$message_0456_0039_0001$$$::A voz dela me chama a atenção.[lr]::
+53051::$$$message_0456_0039_0002$$$::Um cenário distante está em minha frente quando vejo o parque.::
+53052::$$$message_0456_0040_0000$$$::Eu duvido do que vejo por um instante, achando ser uma ilusão.[lr]::
+53053::$$$message_0456_0040_0001$$$::Não por causa da neve, mas por causa da jovem dançando.::
+53054::$$$message_0456_0041_0000$$$::"[w l=8][line8]"[lr]::
+53055::$$$message_0456_0041_0001$$$::A neve deve ser passageira.[lr]::
+53056::$$$message_0456_0041_0002$$$::Parece que vai parar logo.::
+53057::$$$message_0456_0042_0000$$$::...neste inverno indistinto, a Illya está completamente cercada pela neve.[lr]::
+53058::$$$message_0456_0042_0001$$$::A garota de cabelos prateados brinca na neve temporária, como se fosse amada pelo inverno.::
+53059::$$$message_0456_0043_0000$$$::"Aha, a neve aqui é quentinha. É a primeira vez que vejo neve normal."[lr]::
+53060::$$$message_0456_0043_0001$$$::Não sei o que é tão divertido, mas a Illya continua rodopiando.::
+53061::$$$message_0456_0044_0000$$$::"Você está animada. Gosta da neve, Illya?"[lr]::
+53062::$$$message_0456_0044_0001$$$::"Sim. Não gosto do frio, mas gosto da neve. É géntil e parecida com minha mãe. Fui elogiada pelo meu cabelo branco e feminino."::
+53063::$$$message_0456_0045_0000$$$::Ela tem um sorriso enorme estampado no rosto.[lr]::
+53064::$$$message_0456_0045_0001$$$::Ao observá-la, sei quem a elogiou.::
+53065::$$$message_0456_0046_0000$$$::"É linda. Então neva na terra onde o Kiritsugu vivia, huh?"::
+53066::$$$message_0456_0047_0000$$$::Seu sorriso não foi pra mim.[lr]::
+53067::$$$message_0456_0047_0001$$$::...Illyasviel von Einzbern.[lr]::
+53068::$$$message_0456_0047_0002$$$::A garota de cabelos brancos que veio matar meu pai.[lr]::
+53069::$$$message_0456_0047_0003$$$::Por que ela está atrás dele, por que ela quer me matar...[lr]::
+53070::$$$message_0456_0047_0004$$$::...sei de tudo isso.::
+53071::$$$message_0456_0048_0000$$$::O homem que traiu os Einzberns.[lr]::
+53072::$$$message_0456_0048_0001$$$::Kiritsugu abandonou tudo e começou a viver aqui, nesta cidade.[lr]::
+53073::$$$message_0456_0048_0002$$$::Eu, uma criança qualquer, persegui ele como seu filho.[lr]::
+53074::$$$message_0456_0048_0003$$$::[w l=3][line3]Não descobri todos os sacrifícios que tornou essa vida possível até me tornar um Mestre.::
+53075::$$$message_0456_0049_0000$$$::A neve continua caindo como se tentasse esconder a Illya.[lr]::
+53076::$$$message_0456_0049_0001$$$::A garota de uma terra distante me diz adeus com um sorriso.::
+53077::$$$message_0456_0050_0000$$$::"Adeus, Shirou. Brincarei com você de novo se te vir andando sozinho por aí!"::
+53078::$$$message_0456_0051_0000$$$::A garota branca deixa o parque com um sorriso inocente.::
+53079::$$$message_0456_0052_0000$$$::Como se sua presença o tivesse sustentado, a neve esfraquece e para.[lr]::
+53080::$$$message_0456_0052_0001$$$::Uma ilusão temporária.[lr]::
+53081::$$$message_0456_0052_0002$$$::Limpo os cristais de gelo que nunca tiveram chance de se acumularem e deixo a estação pela saída mais distante.::
+

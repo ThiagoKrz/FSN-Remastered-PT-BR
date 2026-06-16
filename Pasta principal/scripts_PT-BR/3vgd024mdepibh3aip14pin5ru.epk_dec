@@ -1,0 +1,249 @@
+DAT
+id=qid::label=str::text=lstr::
+13030::$$$message_0130_0000_0000$$$::O parque está vazio como sempre.[lr]::
+13031::$$$message_0130_0000_0001$$$::Talvez seja uma coisa boa hoje estar mais frio do que o normal.[lr]::
+13032::$$$message_0130_0000_0002$$$::Não há ninguém por perto, e parece que sou o único fora de casa em uma hora dessas.::
+13033::$$$message_0130_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
+13034::$$$message_0130_0001_0001$$$::Eu me sento no banco devagar.[lr]::
+13035::$$$message_0130_0001_0002$$$::Eu vim até um lugar isolado como tinha planejado.[lr]::
+13036::$$$message_0130_0001_0003$$$::Agora que estou aqui, eu tenho que pensar no que fazer.::
+13037::$$$message_0130_0002_0000$$$::Nenhuma das escolhas me permitem adiar o problema.[lr]::
+13038::$$$message_0130_0002_0001$$$::Se eu quero derrotar os outros Mestres e pôr um fim à Guerra do Santo Graal, eu preciso da Saber.[lr]::
+13039::$$$message_0130_0002_0002$$$::Não, independente desse objetivo, eu não quero que ela desapareça.[lr]::
+13040::$$$message_0130_0002_0003$$$::Mas isso significa...[lr]::
+13041::$$$message_0130_0002_0004$$$::Fazer a Saber atacar outras pessoas, assim como a Rider.::
+13042::$$$message_0130_0003_0000$$$::"...Ngh."[lr]::
+13043::$$$message_0130_0003_0001$$$::Eu não posso fazer isso de jeito nenhum.[lr]::
+13044::$$$message_0130_0003_0002$$$::Dizer para a Saber cometer uma crueldade dessas seria como pedir para ela se matar.[lr]::
+13045::$$$message_0130_0003_0003$$$::Em primeiro lugar, a Saber obviamente iria se recusar.[lr]::
+13046::$$$message_0130_0003_0004$$$::Mas...::
+13047::$$$message_0130_0004_0000$$$::Assim que levanto a cabeça, eu olho para a minha mão esquerda.[lr]::
+13048::$$$message_0130_0004_0001$$$::Eu tenho dois Selos de Comando sobrando.[lr]::
+13049::$$$message_0130_0004_0002$$$::Se usar um deles, eu posso obrigar a Saber a seguir a minha ordem.::
+13050::$$$message_0130_0005_0000$$$::[font italic=true]...[font italic=false][lr]::
+13051::$$$message_0130_0005_0001$$$::Eu mordo o meu lábio e me desfaço dessa ideia absurda.[lr]::
+13052::$$$message_0130_0005_0002$$$::O tempo passa enquanto fico sentado no banco; não faço ideia de quanto tempo permaneço ali.[lr]::
+13053::$$$message_0130_0005_0003$$$::Mas, bem quando meus dedos começam a tremer de frio...::
+13054::$$$message_0130_0006_0000$$$::"Ah![lr]::
+13055::$$$message_0130_0006_0001$$$::Achei que nunca mais fosse te ver, mas você está aqui!"[lr]::
+13056::$$$message_0130_0006_0002$$$::De repente, alguém fala comigo.::
+13057::$$$message_0130_0007_0000$$$::"Heehee. Então era você mesmo. Oi, Shirou. Você está com uma cara abatida. Aconteceu alguma coisa?"[lr]::
+13058::$$$message_0130_0008_0000$$$::"Illya...? Você veio até aqui sozinha de novo?[lr]::
+13059::$$$message_0130_0008_0001$$$::É perigoso. Nunca se sabe onde algum Mestre pode estar à espreita[line4]"::
+13060::$$$message_0130_0009_0000$$$::Assim que começo a falar isso, eu fico espantado com a minha burrice.[lr]::
+13061::$$$message_0130_0009_0001$$$::A Illya também é um Mestre.[lr]::
+13062::$$$message_0130_0009_0002$$$::Eu não deveria ficar me preocupando com isso, e além do mais, nós não éramos inimigos?::
+13063::$$$message_0130_0010_0000$$$::"...Desculpa. Agora eu não tenho cabeça para conversar com você. Por mais que tenha sido sorte a gente se encontrar, hoje eu não consigo te dar atenção. Está frio; é melhor você voltar para casa."::
+13064::$$$message_0130_0011_0000$$$::Eu me sento de volta no banco depois de pedir para a Illya ir para casa.[lr]::
+13065::$$$message_0130_0011_0001$$$::...há algumas coisas que eu preciso falar com ela, mas no momento estou ocupado demais com a Saber.::
+13066::$$$message_0130_0012_0000$$$::[font italic=true]...[font italic=false][lr]::
+13067::$$$message_0130_0012_0001$$$::...?[lr]::
+13068::$$$message_0130_0012_0002$$$::O que foi?[lr]::
+13069::$$$message_0130_0012_0003$$$::A Illya não diz nada e fica me encarando como se eu fosse um estranho.::
+13070::$$$message_0130_0013_0000$$$::"...Illya?[lr]::
+13071::$$$message_0130_0013_0001$$$::Desculpa. Não estou tentando ser grosseiro. É só que... tem muita coisa na minha cabeça agora..."::
+13072::$$$message_0130_0014_0000$$$::"Eu sei. A Saber vai desaparecer, não é?[lr]::
+13073::$$$message_0130_0014_0001$$$::E você está pensando no que fazer."[lr]::
+13074::$$$message_0130_0014_0002$$$::De repente.[lr]::
+13075::$$$message_0130_0014_0003$$$::...a voz da Illya fica fria e distante, como se viesse de outra pessoa.::
+13076::$$$message_0130_0015_0000$$$::"Illya...?"[lr]::
+13077::$$$message_0130_0015_0001$$$::"Que preocupação idiota. Não admira que você tenha deixado o Mestre da Rider escapar. Tudo o que precisa fazer com perdedores assim é matá-los."::
+13078::$$$message_0130_0016_0000$$$::Eu mexo as pernas.[lr]::
+13079::$$$message_0130_0016_0001$$$::Agora que sei que não é bom continuar sentado, eu ponho força nelas para poder me levantar.[lr]::
+13080::$$$message_0130_0016_0002$$$::Mas...[lr]::
+13081::$$$message_0130_0016_0003$$$::O meu corpo não se move, como se estivesse hipnotizado pela Illya.::
+13082::$$$message_0130_0017_0000$$$::"Illya. Como você... sabe disso?"::
+13083::$$$message_0130_0018_0000$$$::"Nem preciso explicar, preciso? Eu também estava naquele prédio ontem à noite.[lr]::
+13084::$$$message_0130_0018_0001$$$::Só que, naturalmente, no máximo pude observar tudo lá de dentro."::
+13085::$$$message_0130_0019_0000$$$::"[line4]!"[lr]::
+13086::$$$message_0130_0019_0001$$$::Eu tento mexer os meus braços e pernas, mas eles não saem do lugar.[lr]::
+13087::$$$message_0130_0019_0002$$$::Ou melhor, parece que eles estão se endurecendo quanto mais eu ponho força neles.[lr]::
+13088::$$$message_0130_0019_0003$$$::São aqueles olhos.[lr]::
+13089::$$$message_0130_0019_0004$$$::Quando encaro os olhos vermelhos da Illya, meus sentidos começam a se entorpecer[line3]::
+13090::$$$message_0130_0020_0000$$$::"Ah, então você já ficou paralisado? Shirou, você realmente não tinha proteção nenhuma.[lr]::
+13091::$$$message_0130_0020_0001$$$::Eu achei que seria fácil te capturar se estivesse sozinho, mas ver você cair tão fácil assim chega a ser fofo."::
+13092::$$$message_0130_0021_0000$$$::"Illya, vo...cê[line4]"[lr]::
+13093::$$$message_0130_0021_0001$$$::"Não adianta, Onii-chan. Depois que isso acontece, você já não consegue mais se mexer.[lr]::
+13094::$$$message_0130_0021_0002$$$::Daqui a pouco nem vai conseguir falar, mas não precisa se preocupar.[lr]::
+13095::$$$message_0130_0021_0003$$$::[line3]Eu também não vim aqui hoje para conversar."::
+13096::$$$message_0130_0022_0000$$$::Uma intenção de matar preenche o olhar da Illya.[lr]::
+13097::$$$message_0130_0022_0001$$$::Essa é a mesma Illya daquela noite, de quando ela era o Mestre do Berserker.::
+13098::$$$message_0130_0023_0000$$$::"Guh...! Você... vai me matar aqui...!?"[lr]::
+13099::$$$message_0130_0023_0001$$$::Rangendo os dentes, eu reúno todas as minhas forças.[lr]::
+13100::$$$message_0130_0023_0002$$$::Mas não consigo nem mesmo mover os dedos.[lr]::
+13101::$$$message_0130_0023_0003$$$::Cada nervo do meu corpo está encoberto pelo olhar da Illya.::
+13102::$$$message_0130_0024_0000$$$::"Sim. Afinal, não faz mais diferença se você ainda é um Mestre ou não, faz? Quando a Saber desaparecer, você vai ficar sozinho. Não posso deixar você continuar sendo um Mestre.[lr]::
+13103::$$$message_0130_0024_0001$$$::Sem um meio de lutar, vai ser fácil demais matar você."::
+13104::$$$message_0130_0025_0000$$$::A Illya levanta a sua mão.[lr]::
+13105::$$$message_0130_0025_0001$$$::Os seus dedos finos e brancos encostam no meu peito.::
+13106::$$$message_0130_0026_0000$$$::"Que bom que te achei antes que os outros te matassem.[lr]::
+13107::$$$message_0130_0026_0001$$$::Então, durma bem, Onii-chan. A Saber vai desaparecer de qualquer jeito, então talvez seja melhor assim, não acha?"::
+13108::$$$message_0130_0027_0000$$$::Eu perco a visão.[lr]::
+13109::$$$message_0130_0027_0001$$$::Já não sentia mais os meus membros, e agora a minha visão também se foi.[lr]::
+13110::$$$message_0130_0027_0002$$$::...Quanto tempo se passou desde que entrei nessa escuridão?[lr]::
+13111::$$$message_0130_0027_0003$$$::Enquanto me pergunto se estou morto ou não, a minha consciência se desfaz.::
+13112::$$$message_0130_0028_0000$$$::...O meu corpo está queimando.[lr]::
+13113::$$$message_0130_0028_0001$$$::Mesmo com a minha consciência na escuridão, o meu corpo insiste em dizer que eu ainda estou vivo.[lr]::
+13114::$$$message_0130_0028_0002$$$::Entendi. Então isso quer dizer que eu ainda estou vivo.[lr]::
+13115::$$$message_0130_0028_0003$$$::Mesmo assim, isso talvez só dure por pouco tempo.[lr]::
+13116::$$$message_0130_0028_0004$$$::A própria Illya disse isso.::
+13117::$$$message_0130_0029_0000$$$::[font italic=true]"Posso te matar facilmente se você não tiver outro meio de lutar."[font italic=false]::
+13118::$$$message_0130_0030_0000$$$::...Ela tem toda razão.[lr]::
+13119::$$$message_0130_0030_0001$$$::Sem a Saber, eu não consigo travar uma luta de verdade.[lr]::
+13120::$$$message_0130_0030_0002$$$::A Guerra do Santo Graal é uma batalha entre Servos.[lr]::
+13121::$$$message_0130_0030_0003$$$::E não há como eu fazer frente a Servos.[lr]::
+13122::$$$message_0130_0030_0004$$$::A essa altura, isso já foi provado mais do que o suficiente.::
+13123::$$$message_0130_0031_0000$$$::Toda vez, eu apanhei sem piedade.[lr]::
+13124::$$$message_0130_0031_0001$$$::Como a Saber disse, tudo o que posso fazer contra Servos é tentar sobreviver o máximo possível.[lr]::
+13125::$$$message_0130_0031_0002$$$::E nem isso eu consegui.[lr]::
+13126::$$$message_0130_0031_0003$$$::Fui cortado de cima a baixo e ainda arremessado de uma janela do terceiro andar.[lr]::
+13127::$$$message_0130_0031_0004$$$::Só estou vivo por causa dessa anomalia estranha e inexplicável no meu corpo.::
+13128::$$$message_0130_0032_0000$$$::É frustrante demais... Dá uma raiva tão grande.[lr]::
+13129::$$$message_0130_0032_0001$$$::Diante de um inimigo invencível, eu não fui capaz de impedir sozinho a tragédia diante dos meus olhos.[lr]::
+13130::$$$message_0130_0032_0002$$$::Mesmo que eu tenha escolhido lutar...[lr]::
+13131::$$$message_0130_0032_0003$$$::Eu disse que lutaria como Mestre e jurei não deixar ninguém se machucar, mas não consegui cumprir nem essa promessa.::
+13132::$$$message_0130_0033_0000$$$::[line3]Estou furioso.[lr]::
+13133::$$$message_0130_0033_0001$$$::Os heróis da justiça que eu admirava e tentava imitar quando era criança precisavam vencer sempre; caso contrário, nada disso faria sentido.::
+13134::$$$message_0130_0034_0000$$$::...O meu corpo está queimando.[lr]::
+13135::$$$message_0130_0034_0001$$$::Cada parte do meu corpo treme com a necessidade de vencer.[lr]::
+13136::$$$message_0130_0034_0002$$$::Mas eu não tenho nem meios de vencer, nem sequer uma forma de lutar.[lr]::
+13137::$$$message_0130_0034_0003$$$::Que valor eu tenho assim?[lr]::
+13138::$$$message_0130_0034_0004$$$::Eu nem consigo lutar ao lado da Saber sem atrapalhá-la.::
+13139::$$$message_0130_0035_0000$$$::[font italic=true]"Outro erro. Você não nasceu para lutar, Emiya Shirou.[font italic=false][lr]::
+13140::$$$message_0130_0035_0001$$$::[font italic=true]Sua batalha deve ser travada na mente...[font italic=false][lr]::
+13141::$$$message_0130_0035_0002$$$::[font italic=true]...uma luta contra si mesmo."[font italic=false]::
+13142::$$$message_0130_0036_0000$$$::De repente.[lr]::
+13143::$$$message_0130_0036_0001$$$::Eu me lembro de Archer dizendo isso.::
+13144::$$$message_0130_0037_0000$$$::[font italic=true]"Quando a luta começa, você não tem a menor chance de vencer.[font italic=false][lr]::
+13145::$$$message_0130_0037_0001$$$::[font italic=true]Nenhuma das suas habilidades...[font italic=false][lr]::
+13146::$$$message_0130_0037_0002$$$::[font italic=true]...vale de nada contra Servos."[font italic=false]::
+13147::$$$message_0130_0038_0000$$$::Eu sei disso.[lr]::
+13148::$$$message_0130_0038_0001$$$::Eu já fui lembrado disso mais do que o suficiente.::
+13149::$$$message_0130_0039_0000$$$::[font italic=true]"Então, ao menos imagine.[font italic=false][lr]::
+13150::$$$message_0130_0039_0001$$$::[font italic=true]Se não pode derrotar o inimigo na realidade, derrote-o dentro da sua imaginação.[font italic=false][lr]::
+13151::$$$message_0130_0039_0002$$$::[font italic=true]Se não puder vencer sozinho... imagine algo que [font italic=false]possa[font italic=true] vencer."[font italic=false]::
+13152::$$$message_0130_0040_0000$$$::...Ele não precisa me lembrar disso.[lr]::
+13153::$$$message_0130_0040_0001$$$::Só posso vencer dentro da minha própria cabeça.[lr]::
+13154::$$$message_0130_0040_0002$$$::Mas o que eu poderia imaginar que me ajudaria a vencer?[lr]::
+13155::$$$message_0130_0040_0003$$$::Não consigo me imaginar derrotando um Servo.[lr]::
+13156::$$$message_0130_0040_0004$$$::Também não tenho uma imaginação tão desvairada a ponto de me enganar. Qualquer fantasia que eu inventar vai estar cheia de brechas, pronta para desmoronar.[lr]::
+13157::$$$message_0130_0040_0005$$$::Minha imaginação de terceira categoria não tem a menor chance contra Servos desse nível.::
+13158::$$$message_0130_0041_0000$$$::[line3]Por isso...[lr]::
+13159::$$$message_0130_0041_0001$$$::Contra quem eu posso vencer...[lr]::
+13160::$$$message_0130_0041_0002$$$::E como eu posso vencer?[lr]::
+13161::$$$message_0130_0041_0003$$$::É essa resposta que eu continuo procurando...::
+13162::$$$message_0130_0042_0000$$$::[line3]Será mesmo que é isso?[lr]::
+13163::$$$message_0130_0042_0001$$$::Aquela espada dourada.[lr]::
+13164::$$$message_0130_0042_0002$$$::Ela foi feita só para ela.[lr]::
+13165::$$$message_0130_0042_0003$$$::Eu não a quero para mim...[lr]::
+13166::$$$message_0130_0042_0004$$$::É só que... ela é linda.[lr]::
+13167::$$$message_0130_0042_0005$$$::Só uma vez, eu queria segurá-la nas mãos, se me fosse permitido.::
+13168::$$$message_0130_0043_0000$$$::...Droga. Acho que esse é um mau hábito que peguei como mago inexperiente.[lr]::
+13169::$$$message_0130_0043_0001$$$::Como tudo o que consigo fazer é olhar para dentro de mim, acabo sonhando com coisas com as quais não deveria sonhar.[lr]::
+13170::$$$message_0130_0043_0002$$$::Ao menos sonhar eu ainda posso.::
+13171::$$$message_0130_0044_0000$$$::Primeiro, imagino a estrutura básica da coisa e, então, a reproduzo.[lr]::
+13172::$$$message_0130_0044_0001$$$::...Heh. Acho que o Fortalecimento não serve de muita coisa aqui.[lr]::
+13173::$$$message_0130_0044_0002$$$::Se Fortalecimento é aplicar algo a um objeto que já existe, não faz sentido fazer isso com algo que ainda nem existe.[lr]::
+13174::$$$message_0130_0044_0003$$$::Isso quer dizer que, se quero me lembrar daquela espada, vou ter que ir além.::
+13175::$$$message_0130_0045_0000$$$::[line3]Isso vem de muito antes do básico.[lr]::
+13176::$$$message_0130_0045_0001$$$::É de antes de Kiritsugu me ensinar o Fortalecimento... um processo de magia que inventei sozinho, cheio de etapas inúteis.::
+13177::$$$message_0130_0046_0000$$$::Vamos ver... como era mesmo? Como eu lhe dava forma...?::
+13178::$$$message_0130_0047_0000$$$::...Quando volto a mim, não faço ideia de onde estou.::
+13179::$$$message_0130_0048_0000$$$::"Onde... eu estou...?"[lr]::
+13180::$$$message_0130_0048_0001$$$::Esse não é apenas um lugar que eu nunca vi antes.[lr]::
+13181::$$$message_0130_0048_0002$$$::Há uma cama de dossel luxuosa, e o tapete macio afunda até os tornozelos.[lr]::
+13182::$$$message_0130_0048_0003$$$::Há até uma lareira de pedra, e dá para ver que não está ali só de decoração.::
+13183::$$$message_0130_0049_0000$$$::O que à primeira vista parecem papéis de parede são, na verdade, entalhes na própria parede.[lr]::
+13184::$$$message_0130_0049_0001$$$::Já me acostumei com o luxo de mansões como a do Shinji, mas isso está em outro nível.[lr]::
+13185::$$$message_0130_0049_0002$$$::É meio constrangedor admitir, mas isto parece um castelo saído de um conto de fadas.::
+13186::$$$message_0130_0050_0000$$$::"...Ngh."[lr]::
+13187::$$$message_0130_0050_0001$$$::Minha visão vacila.[lr]::
+13188::$$$message_0130_0050_0002$$$::Meu corpo está estranhamente pesado.[lr]::
+13189::$$$message_0130_0050_0003$$$::Será algum problema de circulação? Sinto que vou apagar de novo se relaxar só um pouco.::
+13190::$$$message_0130_0051_0000$$$::"Um... que diabos aconteceu?"[lr]::
+13191::$$$message_0130_0051_0001$$$::Eu uso a minha mente confusa para tentar me lembrar.[lr]::
+13192::$$$message_0130_0051_0002$$$::Ah... é mesmo, eu fiquei preso pela Illya e perdi a consciência.::
+13193::$$$message_0130_0052_0000$$$::"Então a Illya me capturou..."[lr]::
+13194::$$$message_0130_0052_0001$$$::Não tem ninguém no quarto.[lr]::
+13195::$$$message_0130_0052_0002$$$::O meu corpo está pesado, mas não está tão ruim quanto antes, em que eu não conseguia nem levantar um dedo.[lr]::
+13196::$$$message_0130_0052_0003$$$::Se eu realmente me esforçar, talvez consiga levantar um braço.::
+13197::$$$message_0130_0053_0000$$$::"Mas que...? Estou amarrado!?"[lr]::
+13198::$$$message_0130_0053_0001$$$::A minha mente acorda imediatamente.[lr]::
+13199::$$$message_0130_0053_0002$$$::Ao perceber o perigo em que estou, começo a analisar com cuidado a situação.::
+13200::$$$message_0130_0054_0000$$$::"Estou numa cadeira. Minhas mãos estão presas atrás das costas. Algemado... não. Meus pulsos só estão amarrados com uma corda."[lr]::
+13201::$$$message_0130_0054_0001$$$::Não é tão ruim quanto eu imaginei, mas isso não muda o fato de que ainda não consigo me mover.[lr]::
+13202::$$$message_0130_0054_0002$$$::O corpo inteiro continua formigando de um jeito estranho, e não tenho como me levantar com os braços presos atrás de mim.::
+13203::$$$message_0130_0055_0000$$$::"Há quanto tempo estou aqui...? Relógio... não, como imaginei, não tem nenhum."[lr]::
+13204::$$$message_0130_0055_0001$$$::Não há nada neste quarto que me diga as horas.[lr]::
+13205::$$$message_0130_0055_0002$$$::Janela... há uma janela atrás de mim.[lr]::
+13206::$$$message_0130_0055_0003$$$::Eu tento me virar o máximo que consigo, mas as cortinas estão fechadas e não dá para ver lá fora.[lr]::
+13207::$$$message_0130_0055_0004$$$::Tudo o que sei ao certo é que o sol já se pôs.[lr]::
+13208::$$$message_0130_0055_0005$$$::Encontrei a Illya pela manhã, então já se passou pelo menos meio dia.::
+13209::$$$message_0130_0056_0000$$$::"......"[lr]::
+13210::$$$message_0130_0056_0001$$$::Eu não tenho tempo para isso agora.[lr]::
+13211::$$$message_0130_0056_0002$$$::Não sei onde estou, mas eu tenho que voltar para casa e ver a Saber o mais rápido possível.[lr]::
+13212::$$$message_0130_0056_0003$$$::...Saber está enfraquecida.[lr]::
+13213::$$$message_0130_0056_0004$$$::Não posso me tornar um peso ainda maior deixando uma coisa dessas acontecer!::
+13214::$$$message_0130_0057_0000$$$::"Hngh!"[lr]::
+13215::$$$message_0130_0057_0001$$$::Tento fazer meus braços se moverem.[lr]::
+13216::$$$message_0130_0057_0002$$$::Se quero escapar, primeiro preciso dar um jeito nessas cordas amarradas aos meus pulsos.::
+13217::$$$message_0130_0058_0000$$$::"...!?"[lr]::
+13218::$$$message_0130_0058_0001$$$::A porta se abre.[lr]::
+13219::$$$message_0130_0058_0002$$$::Eu me imobilizo no instante em que a Illya entra no quarto.::
+13220::$$$message_0130_0059_0000$$$::"Ah, finalmente você acordou! Bom dia, Onii-chan. Como está se sentindo?"[lr]::
+13221::$$$message_0130_0059_0001$$$::Illya não está agindo nem um pouco como antes.[lr]::
+13222::$$$message_0130_0059_0002$$$::A frieza sumiu de seus olhos, e a garota diante de mim voltou a ser a menina alegre com quem eu tinha falado no parque outro dia.::
+13223::$$$message_0130_0060_0000$$$::"Hm? O que foi? Você não parece muito bem. Ainda não consegue se mexer? Estranho. A esta altura, pelo menos falar você já devia conseguir."[lr]::
+13224::$$$message_0130_0060_0001$$$::Illya enfia o rosto na minha frente, intrigada.[lr]::
+13225::$$$message_0130_0060_0002$$$::Ela parece genuinamente preocupada comigo.::
+13226::$$$message_0130_0061_0000$$$::"Estou bem. Consigo falar, e a minha cabeça está clara o bastante para entender que fui capturado."::
+13227::$$$message_0130_0062_0000$$$::"O quê, está reclamando? Você sabia que, normalmente, prisioneiros vão para uma cela no porão?[lr]::
+13228::$$$message_0130_0062_0001$$$::Mas fiquei com pena de fazer isso com você, então te trouxe para o meu quarto."[lr]::
+13229::$$$message_0130_0062_0002$$$::Não sei se isso é bom ou ruim.[lr]::
+13230::$$$message_0130_0062_0003$$$::Mas, pelo menos, começo a entender melhor a situação em que estou.::
+13231::$$$message_0130_0063_0000$$$::"Estou começando a entender melhor o que aconteceu. Fui capturado, e este é o lugar onde você mora."[lr]::
+13232::$$$message_0130_0063_0001$$$::Eu respondo friamente, tentando matar minhas emoções.[lr]::
+13233::$$$message_0130_0063_0002$$$::Até entender por completo o que está acontecendo aqui, tudo o que posso fazer é ouvir.::
+13234::$$$message_0130_0064_0000$$$::"Isso mesmo. Eu já te disse que moro em um castelo dentro da floresta."::
+13235::$$$message_0130_0065_0000$$$::"Estamos num castelo no meio de uma floresta beeem grande. Não existe mais nada por perto. Leva algumas horas de carro só para chegar à sua cidade. Ninguém vai vir te resgatar, e também não vai ter ninguém para nos atrapalhar."::
+13236::$$$message_0130_0066_0000$$$::"Entendo.[lr]::
+13237::$$$message_0130_0066_0001$$$::Certo, mas por que você teve todo esse trabalho?[lr]::
+13238::$$$message_0130_0066_0002$$$::Se queria me matar, podia ter feito isso lá no parque."::
+13239::$$$message_0130_0067_0000$$$::"Por quê? Eu não pretendo te matar, Shirou. Você é meu. Eu vou matar os outros Mestres, mas você é especial.[lr]::
+13240::$$$message_0130_0067_0001$$$::Foi por isso que eu te tranquei aqui, para que ninguém viesse nos atrapalhar."::
+13241::$$$message_0130_0068_0000$$$::"[line4]!"[lr]::
+13242::$$$message_0130_0068_0001$$$::Recuo por reflexo.[lr]::
+13243::$$$message_0130_0068_0002$$$::Illya aproxima ainda mais o rosto do meu, sem ligar nem um pouco para o meu desconforto.::
+13244::$$$message_0130_0069_0000$$$::"I-Illya... o que você está...!?"[lr]::
+13245::$$$message_0130_0069_0001$$$::E-Eu sei que isso é impróprio, mas só o jeito como Illya se senta no meu colo já faz meu coração disparar.[lr]::
+13246::$$$message_0130_0069_0002$$$::Ela pode não pesar quase nada, mas a posição em que está no meu colo me faz ter pensamentos meio indecentes.::
+13247::$$$message_0130_0070_0000$$$::"É, eu sabia. Shirou, você é especial.[lr]::
+13248::$$$message_0130_0070_0001$$$::Ei. Quer virar meu Servo? Se disser que vai ser meu Servo, eu não te mato. Basta balançar a cabeça e eu poupo sua vida."::
+13249::$$$message_0130_0071_0000$$$::As palavras da Illya são tão puras e sinceras que eu sei que, se balançar a cabeça uma única vez, será uma escolha sem volta... e da qual vou me arrepender com certeza.[lr]::
+13250::$$$message_0130_0071_0001$$$::...Por outro lado, se eu recusar, essa pureza vai se transformar em pura maldade.::
+13251::$$$message_0130_0072_0000$$$::Com Illya tão perto de mim, minha mente para de funcionar com um guincho.[lr]::
+13252::$$$message_0130_0072_0001$$$::Ela não está dizendo isso só porque gosta de mim.[lr]::
+13253::$$$message_0130_0072_0002$$$::Isto é mais como um interrogatório: a escolha entre viver ou morrer.::
+13254::$$$message_0130_0073_0000$$$::"Essa escolha é óbvia, não é? Você não tem mais a Saber. Você não tem como lutar.[lr]::
+13255::$$$message_0130_0073_0001$$$::Isso quer dizer que não existe motivo para você continuar sendo um Mestre."::
+13256::$$$message_0130_0074_0000$$$::"Não. Saber ainda não desapareceu. E eu não vou deixar isso acontecer."::
+13257::$$$message_0130_0075_0000$$$::"Ah é? Mas, do jeito que ela está agora, seria tão fácil matá-la.[lr]::
+13258::$$$message_0130_0075_0001$$$::Então fique aqui comigo. Se prometer ficar ao meu lado para sempre, eu vou te proteger para sempre."::
+13259::$$$message_0130_0076_0000$$$::Illya se aperta contra mim.[lr]::
+13260::$$$message_0130_0076_0001$$$::...Não sei o que vai acontecer se eu a contrariar.[lr]::
+13261::$$$message_0130_0076_0002$$$::Mas, mesmo assim, não posso aceitar.::
+13262::$$$message_0130_0077_0000$$$::"Não posso. Saia de cima de mim, Illya. Não importa o que você diga, eu..."[lr]::
+13263::$$$message_0130_0077_0001$$$::Illya pressiona o dedo indicador contra meus lábios.[lr]::
+13264::$$$message_0130_0077_0002$$$::Ela dá uma risadinha divertida enquanto me observa, confuso.::
+13265::$$$message_0130_0078_0000$$$::"Você realmente não entendeu.[lr]::
+13266::$$$message_0130_0078_0001$$$::Escuta. Você é como um pássaro numa gaiola. Sou eu quem decide se você vive ou morre. Então, não devia dizer nada que pudesse me irritar.[lr]::
+13267::$$$message_0130_0078_0002$$$::Esperei dez anos por este momento. Seria um tédio ter que te matar tão depressa."::
+13268::$$$message_0130_0079_0000$$$::"O qu...[line4]"[lr]::
+13269::$$$message_0130_0079_0001$$$::Illya fala como quem pede um brinquedo.[lr]::
+13270::$$$message_0130_0079_0002$$$::Só a frieza da voz dela já me faz sentir um calafrio percorrer a espinha.::
+13271::$$$message_0130_0080_0000$$$::"Última chance, Onii-chan. Só vou perguntar mais esta vez."[lr]::
+13272::$$$message_0130_0080_0001$$$::Os olhos da Illya brilham de expectativa.[lr]::
+13273::$$$message_0130_0080_0002$$$::"Shirou... seja [font italic=true]meu[font italic=false]."[lr]::
+13274::$$$message_0130_0080_0003$$$::A voz da Illya é encantadora e não admite recusa.::
+
+

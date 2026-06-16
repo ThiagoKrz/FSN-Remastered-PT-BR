@@ -1,0 +1,414 @@
+DAT
+id=qid::label=str::text=lstr::
+19606::$$$message_0181_0000_0000$$$::[line2]A vista dela, que ficou cega pela luz, agora está cheia de escuridão.[lr]::
+19607::$$$message_0181_0000_0001$$$::Se a Saber não tivesse desmaiado, ela teria percebido que aquela foi a luz sombria suprema.::
+19608::$$$message_0181_0001_0000$$$::"[line5]"[lr]::
+19609::$$$message_0181_0001_0001$$$::A escuridão só durou por alguns segundos.[lr]::
+19610::$$$message_0181_0001_0002$$$::Mas ela não era uma escuridão qualquer, e sim uma horda de micro-maldições.[lr]::
+19611::$$$message_0181_0001_0003$$$::Essa escuridão arremessou o corpo da Saber para longe, fazendo com que ela recuperasse a consciência com uma sensação desagradável.::
+19612::$$$message_0181_0002_0000$$$::"Ah[line2]"[lr]::
+19613::$$$message_0181_0002_0001$$$::Ela suspira.[lr]::
+19614::$$$message_0181_0002_0002$$$::A primeira coisa que a Saber sente depois de acordar é dor.[lr]::
+19615::$$$message_0181_0002_0003$$$::A pele que estava sendo protegida pela sua armadura foi queimada, o seu corpo foi cortado e perfurado, e ela está em estado grave.[lr]::
+19616::$$$message_0181_0002_0004$$$::"Então[line2]eu[line2]"::
+19617::$$$message_0181_0003_0000$$$::...Fui derrotada pela Ea.[lr]::
+19618::$$$message_0181_0003_0001$$$::Gilgamesh a encurralou com seus Fantasmas Nobres, ela não conseguiu bloquear todos, e então recebeu o golpe final da Ea.[lr]::
+19619::$$$message_0181_0003_0002$$$::Ela até conseguiu diminuir um pouco do dano graças ao poder da Excalibur, mas mesmo assim o seu corpo ficou gravemente ferido.[lr]::
+19620::$$$message_0181_0003_0003$$$::Os ferimentos se fecham mesmo sem usar energia mágica, mas nem a proteção da bainha da espada sagrada consegue restaurá-la na mesma hora.::
+19621::$$$message_0181_0004_0000$$$::[line2]Lá na frente...[lr]::
+19622::$$$message_0181_0004_0001$$$::"Acabou, Saber. Não vai me dizer que, mesmo nesse estado, ainda se recusa a aceitar a derrota."[lr]::
+19623::$$$message_0181_0004_0002$$$::O Gilgamesh se aproxima sem nenhum arranhão.::
+19624::$$$message_0181_0005_0000$$$::"......"[lr]::
+19625::$$$message_0181_0005_0001$$$::Caida no chão, Saber ergue os olhos para o inimigo.[lr]::
+19626::$$$message_0181_0005_0002$$$::Agora, ela não pode fazer nada.[lr]::
+19627::$$$message_0181_0005_0003$$$::Esse homem pode fazer o que quiser com ela.::
+19628::$$$message_0181_0006_0000$$$::"...Gilgamesh. Aquela luz foi..."[lr]::
+19629::$$$message_0181_0006_0001$$$::Mesmo assim, o que mais preocupa Saber é aquela luz.[lr]::
+19630::$$$message_0181_0006_0002$$$::Aquela rajada de luz.[lr]::
+19631::$$$message_0181_0006_0003$$$::Aquela escuridão sombria que saiu dos fundos do templo e que envolveu a Terra por alguns segundos.[lr]::
+19632::$$$message_0181_0006_0004$$$::...Ela não quer pensar sobre isso, mas aquela escuridão pode ter sido lançada no Shirou.::
+19633::$$$message_0181_0007_0000$$$::"Aquela luz? Você já deve ter percebido. Aquilo é a maldição.[lr]::
+19634::$$$message_0181_0007_0001$$$::Kotomine deve tê-la puxado direto do Santo Graal. Pelo que sei, há algo dentro do Graal capaz de amaldiçoar o mundo inteiro.[lr]::
+19635::$$$message_0181_0007_0002$$$::Essa sujeira que vimos até agora não passa de resíduo vazando do Graal.[lr]::
+19636::$$$message_0181_0007_0003$$$::E agora o corpo principal apareceu. Seu Mestre já deve estar morto."::
+19637::$$$message_0181_0008_0000$$$::"[line2]Não, isso não pode ser..."[lr]::
+19638::$$$message_0181_0008_0001$$$::Ela concentra toda a sua força.[lr]::
+19639::$$$message_0181_0008_0002$$$::...A Saber já percebeu que não vai conseguir se levantar.[lr]::
+19640::$$$message_0181_0008_0003$$$::Mas mesmo assim, ela não pode apenas ficar deitada no chão.::
+19641::$$$message_0181_0009_0000$$$::"Mentira[line2]Shirou ainda está vivo. Eu ainda posso[line2]"[lr]::
+19642::$$$message_0181_0009_0001$$$::Sim, ela ainda consegue sentir a sua ligação com o seu Mestre.[lr]::
+19643::$$$message_0181_0009_0002$$$::Essa ligação pode estar fraca e quase sumindo, mas o Emiya Shirou ainda está vivo.[lr]::
+19644::$$$message_0181_0009_0003$$$::Por isso, ela precisa se levantar.[lr]::
+19645::$$$message_0181_0009_0004$$$::Já que o inimigo é mais perigoso do que o Shirou imaginava, ele não vai ser capaz de derrotá-lo[line2]::
+19646::$$$message_0181_0010_0000$$$::"Guh[line2]!"[lr]::
+19647::$$$message_0181_0010_0001$$$::Saber se agarra àquele calor fraco e tenta mover o corpo mais uma vez.[lr]::
+19648::$$$message_0181_0010_0002$$$::"Ah[line2]kh... ah..."[lr]::
+19649::$$$message_0181_0010_0003$$$::Mas é inútil.[lr]::
+19650::$$$message_0181_0010_0004$$$::Até mesmo a bainha da espada sagrada precisa de mais tempo para conseguir curar o corpo dela.::
+19651::$$$message_0181_0011_0000$$$::"Agora é tarde demais. Fique onde você está, Saber.[lr]::
+19652::$$$message_0181_0011_0001$$$::Não importa o que faça, o Santo Graal logo vai transbordar. Vai ser uma repetição do que houve dez anos atrás. Só que, desta vez, o ritual é para você, não para mim."[lr]::
+19653::$$$message_0181_0011_0002$$$::O cavaleiro dourado sorri enquanto olha para o céu vermelho.::
+19654::$$$message_0181_0012_0000$$$::"Alegre-se, Saber. Quando o conteúdo do Graal cair sobre você, vai se tornar igual a mim. Vai ganhar carne neste mundo e poderá aproveitar uma segunda vida.[lr]::
+19655::$$$message_0181_0012_0001$$$::Só não posso garantir que vai conseguir manter a sua sanidade, assim como eu."[lr]::
+19656::$$$message_0181_0012_0002$$$::"Quê[line2]"[lr]::
+19657::$$$message_0181_0012_0003$$$::A Saber encara o seu inimigo, sem acreditar no que ele acabou de dizer.::
+19658::$$$message_0181_0013_0000$$$::Ela percebeu que essa é uma maldição suprema.[lr]::
+19659::$$$message_0181_0013_0001$$$::Há tanta energia mágica que é possível usá-la para realizar qualquer magia. ...Se um Servo da classe Caster tivesse o controle dessa energia, ele seria praticamente invencível.[lr]::
+19660::$$$message_0181_0013_0002$$$::Só que isso é uma faca de dois gumes.[lr]::
+19661::$$$message_0181_0013_0003$$$::Essa coisa foi feita para amaldiçoar as pessoas.[lr]::
+19662::$$$message_0181_0013_0004$$$::Até Espíritos Heroicos deixariam de ser eles mesmos ao entrar em contato com uma maldição daquelas.::
+19663::$$$message_0181_0014_0000$$$::"......"[lr]::
+19664::$$$message_0181_0014_0001$$$::Isso faz com que ela perceba uma coisa.[lr]::
+19665::$$$message_0181_0014_0002$$$::O Servo que está na frente dela.[lr]::
+19666::$$$message_0181_0014_0003$$$::Há dez anos, até o mais antigo Rei dos Heróis foi engolido por aquela corrupção.[lr]::
+19667::$$$message_0181_0014_0004$$$::Por isso[line2][lr]::
+19668::$$$message_0181_0014_0005$$$::"Gilgamesh, você[line2]"[lr]::
+19669::$$$message_0181_0014_0006$$$::Ele já perdeu a sua sanidade há muito tempo[line2]::
+19670::$$$message_0181_0015_0000$$$::"[line2]Ah. É isso o que você acha, Rei dos Cavaleiros?"[lr]::
+19671::$$$message_0181_0015_0001$$$::O Gilgamesh dá uma risada enquanto olha para a Saber.[lr]::
+19672::$$$message_0181_0015_0002$$$::O rosto dele parece estar enlouquecido[line2]e isso combina com ele.::
+19673::$$$message_0181_0016_0000$$$::"Não me subestime. Que tipo de herói eu seria se não conseguisse engolir uma maldição tão patética?[lr]::
+19674::$$$message_0181_0016_0001$$$::Todos os males do mundo? Hah. Isso está longe de ser suficiente para contaminar o meu glorioso eu![lr]::
+19675::$$$message_0181_0016_0002$$$::Escute bem, Saber. Um herói carrega sobre si o peso de toda a humanidade.[lr]::
+19676::$$$message_0181_0016_0003$$$::[line2]E eu fiz isso eras atrás."[lr]::
+19677::$$$message_0181_0016_0004$$$::"[line5]"[lr]::
+19678::$$$message_0181_0016_0005$$$::A Saber fica surpresa com o que ele acabou de dizer.::
+19679::$$$message_0181_0017_0000$$$::...Naquele momento, ela entende que jamais vai compreender esse Espírito Heroico.[lr]::
+19680::$$$message_0181_0017_0001$$$::A arrogância absurda, o ego gigantesco que o faz crer que céu e terra existem só para ele, as escolhas cruéis que ignoram todos os outros...[lr]::
+19681::$$$message_0181_0017_0002$$$::Tudo isso é o oposto completo da ideia de rei em que ela acredita.[lr]::
+19682::$$$message_0181_0017_0003$$$::Mas mesmo assim, esse homem é um rei.[lr]::
+19683::$$$message_0181_0017_0004$$$::De todos os Servos, ele é o único capaz de manter a sua sanidade depois de ser banhado por uma maldição tão forte como essa.[lr]::
+19684::$$$message_0181_0017_0005$$$::Pelo menos isso ela precisa reconhecer.::
+19685::$$$message_0181_0018_0000$$$::"[line2]Hmm, é mesmo. Eu até queria te fazer engolir essa lama, mas não seria nada divertido se você enlouquecesse por causa dela. Bem, vamos deixar o nosso casamento para depois."[lr]::
+19686::$$$message_0181_0018_0001$$$::"[line2]!"::
+19687::$$$message_0181_0019_0000$$$::"Gilgamesh... seu maldito[line2]!"[lr]::
+19688::$$$message_0181_0019_0001$$$::"Oh? Então você não gosta de ser tratada assim?[lr]::
+19689::$$$message_0181_0019_0002$$$::Então é melhor se acostumar. Eu nunca me seguro com comida ou com mulheres. Eu tomo as duas como bem quiser."[lr]::
+19690::$$$message_0181_0019_0003$$$::"[line2]!"[lr]::
+19691::$$$message_0181_0019_0004$$$::Sendo segurada de cabeça para baixo, a Saber encara o Gilgamesh.::
+19692::$$$message_0181_0020_0000$$$::"...Hm. Então isso é senso de dever para com o seu Mestre, como Servo. Patético. Não acredito que tenha entregue corpo e alma a ele só por causa das limitações do Selo de Comando."[lr]::
+19693::$$$message_0181_0020_0001$$$::"[line2]Não. Você entendeu errado, Gilgamesh.[lr]::
+19694::$$$message_0181_0020_0002$$$::Eu não obedeço a ninguém. O meu corpo nunca teve liberdade para isso."::
+19695::$$$message_0181_0021_0000$$$::"...Oh? Então está dizendo que não será minha, aconteça o que acontecer?"[lr]::
+19696::$$$message_0181_0021_0001$$$::Os seus olhos vermelhos encaram a Saber.[lr]::
+19697::$$$message_0181_0021_0002$$$::Não há nenhuma emoção humana neles.[lr]::
+19698::$$$message_0181_0021_0003$$$::Esse cavaleiro dourado está disposto a matá-la se ela desobedecer. Ele vai matá-la mesmo se estiver muito apegado por ela.[lr]::
+19699::$$$message_0181_0021_0004$$$::É assim que Gilgamesh vê o mundo.::
+19700::$$$message_0181_0022_0000$$$::"[line5]"[lr]::
+19701::$$$message_0181_0022_0001$$$::A Saber o encara de volta, sem desviar o seu olhar.::
+19702::$$$message_0181_0023_0000$$$::"[line2]Gilgamesh. Eu nunca vou ser posse de ninguém.[lr]::
+19703::$$$message_0181_0023_0001$$$::Eu pertenço ao meu reino. Antes de ser mulher, eu sou um rei."[lr]::~
+19704::$$$message_0181_0023_0002$$$::Ela não diz isso para ninguém em especial.[lr]::
+19705::$$$message_0181_0023_0003$$$::Mas ela diz isso enquanto sente o pequeno calor que está dentro do seu corpo.::
+19706::$$$message_0181_0024_0000$$$::"Ha, então essa é a sua resposta!?[lr]::
+19707::$$$message_0181_0024_0001$$$::Não me faça rir, Saber. Um reino não passa de propriedade. Se um rei não pode possuir tudo neste mundo, então ele não tem valor algum.[lr]::
+19708::$$$message_0181_0024_0002$$$::Hah... Rei Arthur. Foi por isso que seu reino te abandonou."::
+19709::$$$message_0181_0025_0000$$$::O cavaleiro dourado ri, zombando da imaturidade dela.[lr]::
+19710::$$$message_0181_0025_0001$$$::"[line5]"[lr]::
+19711::$$$message_0181_0025_0002$$$::...Isso faz com que ela volte a ficar motivada.::
+19712::$$$message_0181_0026_0000$$$::"Sim, você tem razão. [line2]Mas saiba de uma coisa, Rei dos Heróis.[lr]::
+19713::$$$message_0181_0026_0001$$$::Também foi por isso que você destruiu o seu próprio reino[line2]!"[lr]::
+19714::$$$message_0181_0026_0002$$$::Um grito cheio de energia.[lr]::
+19715::$$$message_0181_0026_0003$$$::A Saber usa toda a sua força para chutar o Gilgamesh na cara com a sua perna que está livre!::
+19716::$$$message_0181_0027_0000$$$::"Quê[line2]!?"[lr]::
+19717::$$$message_0181_0027_0001$$$::O Gilgamesh larga a Saber.[lr]::
+19718::$$$message_0181_0027_0002$$$::Caindo no chão de cabeça para baixo ela usa os braços para saltar de costas e cair em pé.::
+19719::$$$message_0181_0028_0000$$$::"Como ousa levantar o pé contra mim!? Parece que preciso discipliná-la, Saber...!!"::
+19720::$$$message_0181_0029_0000$$$::Fechando os olhos, ela encara a si mesma.[lr]::
+19721::$$$message_0181_0029_0001$$$::'Foi por isso que seu reino te abandonou.'[r]::
+19722::$$$message_0181_0029_0002$$$::...Ela já sabia disso.[lr]::
+19723::$$$message_0181_0029_0003$$$::Saber esteve ouvindo essa mesma frase várias vezes desde o momento em que foi invocada como o Servo da classe Saber.[lr]::
+19724::$$$message_0181_0029_0004$$$::Mas esse homem é diferente.[lr]::
+19725::$$$message_0181_0029_0005$$$::Esse cavaleiro dourado ficou nervoso como se fosse problema dele, e mesmo assim[line2]ele achou que a Saber deveria ter orgulho disso.::
+19726::$$$message_0181_0030_0000$$$::Então só há uma coisa a ser feita.[lr]::
+19727::$$$message_0181_0030_0001$$$::Mesmo que a Saber não tenha a menor chance de vencer, ela precisa continuar lutando.[lr]::
+19728::$$$message_0181_0030_0002$$$::Enquanto ainda sentir o calor dentro do seu coração.[lr]::
+19729::$$$message_0181_0030_0003$$$::Sentindo a necessidade correr até o seu Mestre o mais rápido possível.::
+19730::$$$message_0181_0031_0000$$$::"[line2]!"[lr]::
+19731::$$$message_0181_0031_0001$$$::"[line5]"[lr]::
+19732::$$$message_0181_0031_0002$$$::Ela está a oito metros de distância do Gilgamesh.[lr]::
+19733::$$$message_0181_0031_0003$$$::A Saber está na melhor distância que ela encontrou durante a batalha.::
+19734::$$$message_0181_0032_0000$$$::...Mas seu corpo não responde como deveria.[lr]::
+19735::$$$message_0181_0032_0001$$$::As suas pernas não têm nem dez por cento da sua força original, e os seus braços estão com dificuldade até para segurar a espada.[lr]::
+19736::$$$message_0181_0032_0002$$$::Qualquer ataque fraco que a Saber receber vai derrubá-la no chão sem a menor chance dela se defender.[lr]::
+19737::$$$message_0181_0032_0003$$$::Mas mesmo assim[line2]a distância que a Saber se encontra do Gilgamesh não deixa nenhum ponto fraco à mostra.::
+19738::$$$message_0181_0033_0000$$$::"...[lr]::
+19739::$$$message_0181_0033_0001$$$::Me deixe te perguntar uma coisa..."[lr]::
+19740::$$$message_0181_0033_0002$$$::O Gilgamesh precisa se acalmar depois de vê-la agir desse jeito.[lr]::
+19741::$$$message_0181_0033_0003$$$::O cavaleiro dourado prepara a Ea e encara o seu adversário.::
+19742::$$$message_0181_0034_0000$$$::"Você ficou maluca?"[lr]::
+19743::$$$message_0181_0034_0001$$$::"[line5]"[lr]::
+19744::$$$message_0181_0034_0002$$$::A Saber não diz nada.[lr]::
+19745::$$$message_0181_0034_0003$$$::O seu olhar já mostra o quanto ela está motivada.::
+19746::$$$message_0181_0035_0000$$$::"[line2]Está bem. Então eu vou atacar com tudo."[lr]::
+19747::$$$message_0181_0035_0001$$$::O vento começa a tremer.[lr]::
+19748::$$$message_0181_0035_0002$$$::Ea, a espada da separação. Ela é conhecida na antiga Mesopotâmia como a espada que dividiu e criou o mundo.::
+19749::$$$message_0181_0036_0000$$$::A espada da separação do Gilgamesh ruge para acabar com o seu inimigo de uma vez por todas.[lr]::
+19750::$$$message_0181_0036_0001$$$::O redemoinho de vento e a energia mágica de dentro dessa espada são bem mais poderosos do que a Excalibur.::
+19751::$$$message_0181_0037_0000$$$::"[line2]Desapareça. Você me irrita."[lr]::
+19752::$$$message_0181_0037_0001$$$::Ele levanta a Ea.[lr]::
+19753::$$$message_0181_0037_0002$$$::A Saber ergue a sua espada para contra-atacar.[lr]::
+19754::$$$message_0181_0037_0003$$$::"[line5]"[lr]::
+19755::$$$message_0181_0037_0004$$$::"[line5]"[lr]::
+19756::$$$message_0181_0037_0005$$$::Os seus olhos só se encontram por um segundo.::
+19757::$$$message_0181_0038_0000$$$::"Enuma Elish[line2]"[lr]::
+19758::$$$message_0181_0038_0001$$$::O Gilgamesh balança a sua espada.[lr]::
+19759::$$$message_0181_0038_0002$$$::"Kuh[line2]!?"[lr]::
+19760::$$$message_0181_0038_0003$$$::Mas a Excalibur cai no chão sem nenhuma resistência, já que a Saber não teve forças para ativar o seu Fantasma Nobre.::
+19761::$$$message_0181_0039_0000$$$::[line2]A luz que corta qualquer coisa vai na direção dela.[lr]::
+19762::$$$message_0181_0039_0001$$$::A Saber é atingida em cheio por essa luz sem conseguir fazer nada.::
+19763::$$$message_0181_0040_0000$$$::Assim que eu fui engolido pela escuridão...[lr]::
+19764::$$$message_0181_0040_0001$$$::...O inferno apareceu na minha cabeça.::
+19765::$$$message_0181_0041_0000$$$::As cinco punições: vida, corpo, prisão, humilhação e perda. Uma diversidade de pecados, lama, escuridão e malícia me envolve e julga. "Privação de direitos, execução, exílio, repressão." "Deixe o corpo cair em tormento e depravação." "Abandone a honra, destrua o coletivo."::
+19766::$$$message_0181_0042_0000$$$::"Ridicularização pela ganância. Julgamentos arbitrários. Confisco de bens." Prisão, multas, execução. Crimes por ressentimento. Crimes por desejo. Crimes sem consciência. Crimes conscientes. Tumultos. Fraude. Roubo. Sequestro. Automutilação. Violência. Incêndio. Violação. Homicídio. Violência coletiva. Negligência. Arrogância.::
+19767::$$$message_0181_0043_0000$$$::Acidentes. Envenenamento. Encobrimentos. Ganância. Ego. Amor. Virtude distorcida. Roubo, fraude, contrabando, ódio ódio ataque ataque vocês são todos imundos imundos imundos este mundo é governado por não-humanos conheça seus pecados::
+19768::$$$message_0181_0044_0000$$$::Conheça a punição dos seus pecados. Nisso reside a "bondade" humana tão abundante que ninguém percebe sua totalidade. O mal é raro, mas brilha mais forte. Um entre cem domina. Os cinco castigos iniciais...::19769::$$$message_0181_0045_0000$$$::[block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para si mesmo [block len=2] para a sua própria persuasão, alegações falsas, roubo, assalto, sequestro, suicídio, estupro, provocação de incêndio, violação, sujo sujo sujo sujo sujo sujo você é sujo redenção redenção redenção redenção redenção redenção toda a violência todos os crimes todas as vítimas redimir redimir redimir com a morte!!!!!!::
+19769::$$$message_0181_0045_0000$$$::para si mesmo para si mesmo para si mesmo para si mesmo para si mesmo para si mesmo para si mesmo para si mesmo para si mesmo para si mesmo redenção redenção redenção violência crimes vítimas morte!!!!!!::
+19770::$$$message_0181_0045_0001$$$::"[line2]Ah"[lr]::
+19771::$$$message_0181_0045_0002$$$::O meu cérebro entra em colapso.::
+19772::$$$message_0181_0046_0000$$$::A lama que está devorando o meu corpo rouba o calor que há dentro de mim sem piedade.[lr]::
+19773::$$$message_0181_0046_0001$$$::Sou esmagado por algo que invade todos os meus sentidos.[lr]::
+19774::$$$message_0181_0046_0002$$$::Uma escuridão na qual eu não consigo olhar diretamente.[lr]::
+19775::$$$message_0181_0046_0003$$$::Uma podridão que eu não consigo reconhecer que existe.[lr]::
+19776::$$$message_0181_0046_0004$$$::Crimes dos quais eu quero fugir.[lr]::
+19777::$$$message_0181_0046_0005$$$::Os crimes de todas as pessoas do mundo.[lr]::
+19778::$$$message_0181_0046_0006$$$::Eu vou morrer por causa disso.[lr]::
+19779::$$$message_0181_0046_0007$$$::Quem ficar preso na escuridão vai ser devorado até a morte através da dor e do sofrimento.::
+19780::$$$message_0181_0047_0000$$$::[line2]Porém.[lr]::
+19781::$$$message_0181_0047_0001$$$::O Kotomine disse que...[lr]::
+19782::$$$message_0181_0047_0002$$$::Essa maldição matou o Kiritsugu.[lr]::
+19783::$$$message_0181_0047_0003$$$::Isso faz com que eu ignore toda essa escuridão.::
+19784::$$$message_0181_0048_0000$$$::[line2]O calor volta a entrar no meu corpo.[lr]::
+19785::$$$message_0181_0048_0001$$$::O sangue corre pelo meu corpo enfraquecido e faz com que eu me levante.[lr]::
+19786::$$$message_0181_0048_0002$$$::Isso é completamente normal.[lr]::
+19787::$$$message_0181_0048_0003$$$::Uma coisa dessas.[lr]::
+19788::$$$message_0181_0048_0004$$$::O Emiya Kiritsugu teve que aturar uma coisa dessas por vários anos.[lr]::
+19789::$$$message_0181_0048_0005$$$::Ele foi pressionado por essas vozes para se redimir dos seus pecados e então morreu sem conseguir realizar o seu sonho?::
+19790::$$$message_0181_0049_0000$$$::Ele disse que queria se tornar um super-herói.[lr]::
+19791::$$$message_0181_0049_0001$$$::O Kiritsugu sempre esteve tentando ajudar as pessoas, mas ninguém queria a ajuda dele. Mesmo assim, ele fez de tudo para resgatar os ideais que tinha abandonado.[lr]::
+19792::$$$message_0181_0049_0002$$$::No final, ele se sentiu aliviado por conta daquilo que uma criança disse e afirmou para si mesmo que tudo acabaria bem.::
+19793::$$$message_0181_0050_0000$$$::"Agh[line2]ah, ah[line2]"[lr]::
+19794::$$$message_0181_0050_0001$$$::Por isso, eu tenho que me levantar.[lr]::
+19795::$$$message_0181_0050_0002$$$::Eu deixei o Kiritsugu aliviado quando prometi a ele que ia me tornar um super-herói.[lr]::
+19796::$$$message_0181_0050_0003$$$::Já que o Emiya Shirou é filho de um super-herói, eu não posso perder para um vilão como esse.::
+19797::$$$message_0181_0051_0000$$$::[line2]A Tohsaka disse que...[lr]::
+19798::$$$message_0181_0051_0001$$$::Não importa o que aconteça, eu tenho que vencer.[lr]::
+19799::$$$message_0181_0051_0002$$$::[line2]A Saber disse que...[lr]::
+19800::$$$message_0181_0051_0003$$$::Ele é um inimigo que eu preciso derrotar.[lr]::
+19801::$$$message_0181_0051_0004$$$::[line2]Até mesmo o Kotomine disse que...[lr]::
+19802::$$$message_0181_0051_0005$$$::Se for para lutar, eu tenho que colocar a minha vida no limite.::
+19803::$$$message_0181_0052_0000$$$::Todos eles têm razão. O que mais eu poderia arriscar se não for a minha própria vida?[lr]::
+19804::$$$message_0181_0052_0001$$$::Desde o começo, eu nunca tive nada a perder.::
+19805::$$$message_0181_0053_0000$$$::"AAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!"[lr]::
+19806::$$$message_0181_0053_0001$$$::Salto desesperado para fora dessa lama sombria.[lr]::
+19807::$$$message_0181_0053_0002$$$::"[line2]!?"[lr]::
+19808::$$$message_0181_0053_0003$$$::Ele se surpreende ao me ver escapar.::
+19809::$$$message_0181_0054_0000$$$::A minha garganta está em chamas.[lr]::
+19810::$$$message_0181_0054_0001$$$::Cada vez que eu respiro, a minha traqueia se rasga. Me sinto como se estivesse engolindo cacos de vidro.::
+19811::$$$message_0181_0055_0000$$$::"Higi[line2]gi, gii, ah[line2]"[lr]::
+19812::$$$message_0181_0055_0001$$$::Mas eu não ligo.[lr]::
+19813::$$$message_0181_0055_0002$$$::Lágrimas estão se acumulando de raiva.[lr]::
+19814::$$$message_0181_0055_0003$$$::Vou enlouquecer de ódio antes de sucumbir à maldição.::
+19815::$$$message_0181_0056_0000$$$::"[line2]Não é possível. Como você conseguiu se livrar dessa coisa[line2]!?"::
+19816::$$$message_0181_0057_0000$$$::"[line5]"[lr]::
+19817::$$$message_0181_0057_0001$$$::Eu corro.[lr]::
+19818::$$$message_0181_0057_0002$$$::Minha mão vai para trás.[lr]::
+19819::$$$message_0181_0057_0003$$$::Segurando a adaga que estive escondendo.::
+19820::$$$message_0181_0058_0000$$$::"Impressionante. Achei que tivesse escapado mas parece que só perdeu a razão."[lr]::
+19821::$$$message_0181_0058_0001$$$::"Cala a boca! Eu nunca tive um plano para início de conversa...!"[lr]::
+19822::$$$message_0181_0058_0002$$$::Continuo correndo.[lr]::
+19823::$$$message_0181_0058_0003$$$::O Kotomine afunda a mão na cachoeira que está atrás dele e arranca mais um bolo de escuridão.::
+19824::$$$message_0181_0059_0000$$$::"Nesse caso, você terá o mesmo destino que o seu Servo. Aquela luz de antes foi a Saber sendo derrotada. Agora ninguém poderá mais te ajudar."[lr]::
+19825::$$$message_0181_0059_0001$$$::"[line5]"[lr]::
+19826::$$$message_0181_0059_0002$$$::Eu avanço sem hesitar.[lr]::
+19827::$$$message_0181_0059_0003$$$::Se eu alcançar Kotomine, ele vai se arrepender dessas palavras.::
+19828::$$$message_0181_0060_0000$$$::O Selo de Comando ainda está gravado na minha mão esquerda.[lr]::
+19829::$$$message_0181_0060_0001$$$::Essa é a única prova de que preciso.::
+19830::$$$message_0181_0061_0000$$$::Enquanto o Selo existir, Saber também existe.[lr]::
+19831::$$$message_0181_0061_0001$$$::E se Saber existe[line2]então ela já deve ter derrotado Gilgamesh e está vindo até aqui.[lr]::
+19832::$$$message_0181_0061_0002$$$::Ela provavelmente vai brigar comigo se eu não estiver de pé para recebê-la.[lr]::
+19833::$$$message_0181_0061_0003$$$::[line2]Por isso, eu vou te derrotar agora.[lr]::
+19834::$$$message_0181_0061_0004$$$::Para conseguir cumprir com a última promessa que eu fiz a ela.::
+19835::$$$message_0181_0062_0000$$$::A escuridão se aproxima.[lr]::
+19836::$$$message_0181_0062_0001$$$::Uma maldição poderosa é arremessada pela mão do Kotomine.[lr]::
+19837::$$$message_0181_0062_0002$$$::...As pontas dos meus dedos estão se derretendo.[lr]::
+19838::$$$message_0181_0062_0003$$$::"[line5]!"[lr]::
+19839::$$$message_0181_0062_0004$$$::Eu não vou fugir.[lr]::
+19840::$$$message_0181_0062_0005$$$::Esse é o meu destino[line3]eu ainda posso lutar[line2]!::
+19841::$$$message_0181_0063_0000$$$::"Enuma Elish[line2]!"[lr]::
+19842::$$$message_0181_0063_0001$$$::O espaço é deslocado.[lr]::
+19843::$$$message_0181_0063_0002$$$::Um tornado de destruição é liberado pela Ea, acompanhado por luz e pelo rugido do vento.::
+19844::$$$message_0181_0064_0000$$$::"Kuh[line2]!"[lr]::
+19845::$$$message_0181_0064_0001$$$::Saber não consegue ativar seu Fantasma Nobre.[lr]::
+19846::$$$message_0181_0064_0002$$$::Ela abaixa a sua espada e move o seu corpo para frente, como se estivesse caindo.::
+19847::$$$message_0181_0065_0000$$$::[line2]A luz se aproxima.[lr]::
+19848::$$$message_0181_0065_0001$$$::A Saber não pode se esquivar porque as suas pernas estão destruidas, e também não existe nenhum escudo neste mundo que consiga bloquear a Ea.[lr]::
+19849::$$$message_0181_0065_0002$$$::Um furacão de luz e de vento que destrói tudo o que fica no seu caminho.[lr]::
+19850::$$$message_0181_0065_0003$$$::Nada pode impedir o nome verdadeiro de Ea.[lr]::
+19851::$$$message_0181_0065_0004$$$::É um fato imutável.[lr]::
+19852::$$$message_0181_0065_0005$$$::[line2]Isso mesmo.[lr]::
+19853::$$$message_0181_0065_0006$$$::Ou pelo menos, era até algumas horas atrás.::
+19854::$$$message_0181_0066_0000$$$::"[line2]!?"[lr]::
+19855::$$$message_0181_0066_0001$$$::Quem fica surpreso não é a Saber, e sim o cavaleiro dourado que está segurando a Ea.[lr]::
+19856::$$$message_0181_0066_0002$$$::A Ea está disparando energia mágica e causando destruição.[lr]::
+19857::$$$message_0181_0066_0003$$$::Mas mesmo assim, a Saber dá um passo na direção da tempestade de luz.::
+19858::$$$message_0181_0067_0000$$$::"[line2]!"[lr]::
+19859::$$$message_0181_0067_0001$$$::A sua armadura se quebra em pedaços.[lr]::
+19860::$$$message_0181_0067_0002$$$::Aparecem rachaduras em todas as camadas de energia mágica que a estão protegendo.[lr]::
+19861::$$$message_0181_0067_0003$$$::Em menos de um segundo, a Saber corre na direção do Gilgamesh e...[lr]::
+19862::$$$message_0181_0067_0004$$$::"EXCALIBUR[line2]!"[lr]::
+19863::$$$message_0181_0067_0005$$$::A Saber enfrenta o tornado de destruição da Ea com o ataque mais poderoso que ela é capaz de dar[line2]!::
+19864::$$$message_0181_0068_0000$$$::Luz e calor se enfrentam de forma violenta.[lr]::
+19865::$$$message_0181_0068_0001$$$::As duas maiores espadas se chocam, rasgando o espaço ao redor.[lr]::
+19866::$$$message_0181_0068_0002$$$::Mas...[lr]::
+19867::$$$message_0181_0068_0003$$$::Esse confronto não pode ser vencido.[lr]::
+19868::$$$message_0181_0068_0004$$$::Excalibur não pode superar Ea.[lr]::
+19869::$$$message_0181_0068_0005$$$::Mesmo avançando com tudo, Saber apenas atrasa o inevitável.::
+19870::$$$message_0181_0069_0000$$$::"Já entendi... você perdeu a razão, Saber!"[lr]::
+19871::$$$message_0181_0069_0001$$$::Gilgamesh libera ainda mais energia na Ea.[lr]::
+19872::$$$message_0181_0069_0002$$$::Agora já era.[lr]::
+19873::$$$message_0181_0069_0003$$$::Ele vai destruir a Saber de uma vez por todas usando a sua força total.[lr]::
+19874::$$$message_0181_0069_0004$$$::A luz da Ea engole a Excalibur.::
+19875::$$$message_0181_0070_0000$$$::[line2]Mas nesse instante...[lr]::
+19876::$$$message_0181_0070_0001$$$::Saber dá mais um passo.[lr]::
+19877::$$$message_0181_0070_0002$$$::Um único espaço criado por Excalibur, um avanço possível.[lr]::
+19878::$$$message_0181_0070_0003$$$::Assim que a Saber chega nele...[lr]::
+19879::$$$message_0181_0070_0004$$$::Seu verdadeiro poder se manifesta.::
+19880::$$$message_0181_0071_0000$$$::A escuridão se transforma em uma tempestade que está prestes a cobrir o Emiya Shirou.[lr]::
+19881::$$$message_0181_0071_0001$$$::Não há como se esquivar dela, e também é inútil tentar bloquear uma maldição que mancha o próprio espaço.[lr]::
+19882::$$$message_0181_0071_0002$$$::Aqueles que forem engolidos por essa escuridão serão absorvidos por ela sem deixar rastros.::
+19883::$$$message_0181_0072_0000$$$::"Ag[line2]!"[lr]::
+19884::$$$message_0181_0072_0001$$$::As pontas dos meus dedos estão se derretendo.[lr]::
+19885::$$$message_0181_0072_0002$$$::As minhas pernas continuam andando até pisar em um espaço vazio, e eu já não consigo mais ver os meus braços, que estão cobertos pela lama sombria.[lr]::
+19886::$$$message_0181_0072_0003$$$::O Emiya Shirou vai ser destruído por fora.[lr]::
+19887::$$$message_0181_0072_0004$$$::Atacado pela sensação de que o seu corpo está desparecendo, o Emiya Shirou ainda não aceitou a morte.::
+19888::$$$message_0181_0073_0000$$$::"Ha[line2]ah, guh[line2]!"[lr]::
+19889::$$$message_0181_0073_0001$$$::Ele se recusa a fugir e rejeita a lama com toda a sua força.[lr]::
+19890::$$$message_0181_0073_0002$$$::A escuridão que está ao seu redor, a dor que está tentando derreter o seu corpo, e a maldição que está tentando destruir a sua mente.[lr]::
+19891::$$$message_0181_0073_0003$$$::"[line2]! [line4]!"[lr]::
+19892::$$$message_0181_0073_0004$$$::Mas essas tentativas acabam sendo em vão.[lr]::
+19893::$$$message_0181_0073_0005$$$::Não há como um humano resistir a essa poluição.[lr]::
+19894::$$$message_0181_0073_0006$$$::O seu corpo ainda está se mexendo.[lr]::
+19895::$$$message_0181_0073_0007$$$::O seu braço, que foi esticado para segurar alguma coisa, ainda está levantado.::
+19896::$$$message_0181_0074_0000$$$::Mas a mente já foi destruída.[lr]::
+19897::$$$message_0181_0074_0001$$$::A mente já ficou manchada de preto, e o seu corpo também está prestes a sumir na escuridão.[lr]::
+19898::$$$message_0181_0074_0002$$$::Nesse instante...[lr]::
+19899::$$$message_0181_0074_0003$$$::'[line2]Você era a minha...'[l]::
+19900::$$$message_0181_0074_0004$$$::Por que ele se lembrou dessa voz?::
+19901::$$$message_0181_0075_0000$$$::"[line5]"[lr]::
+19902::$$$message_0181_0075_0001$$$::Uma luz acende no meio da escuridão.[lr]::
+19903::$$$message_0181_0075_0002$$$::Assim que os meus olhos percebem que essa é 'aquela luz', tudo começa a mudar.[lr]::
+19904::$$$message_0181_0075_0003$$$::"[line5]"[lr]::
+19905::$$$message_0181_0075_0004$$$::O gatilho é ativado.[lr]::
+19906::$$$message_0181_0075_0005$$$::A minha mente acelera, solta faíscas, e cria o molde em uma velocidade impressionante.::
+19907::$$$message_0181_0076_0000$$$::"[line2]Trace, on."[lr]::
+19908::$$$message_0181_0076_0001$$$::Sussurro o encantamento para começar a projeção.[lr]::
+19909::$$$message_0181_0076_0002$$$::Em um piscar de olhos.[lr]::
+19910::$$$message_0181_0076_0003$$$::Ela fica pronta, pulando todas as etapas de produção.[lr]::
+19911::$$$message_0181_0076_0004$$$::...Isso mesmo. Eu não precisei reproduzí-la do zero.[lr]::
+19912::$$$message_0181_0076_0005$$$::Porque esse molde estava gravado dentro de mim. Ele está guardado perfeitamente dentro da minha memória, como se fizesse parte do corpo do Emiya Shirou.::
+19913::$$$message_0181_0077_0000$$$::'[line2]Você era a minha bainha[line2]'::
+19914::$$$message_0181_0078_0000$$$::O meu braço esticado ainda está se mexendo.[lr]::
+19915::$$$message_0181_0078_0001$$$::Eu seguro a arma que criei sem precisar me concentrar.[lr]::
+19916::$$$message_0181_0078_0002$$$::O mundo munda completamente. A escuridão é destruída por uma luz dourada e então[line2]a réplica perfeita da bainha aparece na mão do Emiya Shirou.::
+19917::$$$message_0181_0079_0000$$$::[line2]Assim.[lr]::
+19918::$$$message_0181_0079_0001$$$::Com a Ea bem na sua frente, ela ativa o seu Fantasma Nobre.::
+19919::$$$message_0181_0080_0000$$$::"Qu[line2]ê[line2]!?"[lr]::
+19920::$$$message_0181_0080_0001$$$::Aquilo que a Saber acabou de arremessar é a bainha da espada sagrada.::
+19921::$$$message_0181_0081_0000$$$::Ninguém sabe de qual mistério divino essa bainha foi feita, mas ela bloqueia toda a luz que foi disparada pela Ea.[lr]::
+19922::$$$message_0181_0081_0001$$$::Aliás, ela faz mais do que 'bloquear'.::
+19923::$$$message_0181_0082_0000$$$::Ela isola o ataque por completo.[lr]::
+19924::$$$message_0181_0082_0001$$$::A barreira da terra das fadas que protege toda a sujeira do mundo exterior. Um universo separado deste que jamais poderá ser alcançado.[lr]::
+19925::$$$message_0181_0082_0002$$$::Já que a Saber está com a proteção da bainha da espada sagrada, ela é capaz de bloquear qualquer substância deste mundo.[lr]::
+19926::$$$message_0181_0082_0003$$$::A maior barreira que existe.[lr]::
+19927::$$$message_0181_0082_0004$$$::Aquela que não pode ser atravessada por nada, nem mesmo pelos Cinco Feitiços.::
+19928::$$$message_0181_0083_0000$$$::Por isso que essa bainha é chamada de Avalon[line2]A Utopia Inalcançável.[lr]::
+19929::$$$message_0181_0083_0001$$$::Dizem que esse é o lugar para onde o Rei Arthur foi depois de sua morte. A utopia que esteve nos sonhos do rei e que jamais poderá ser alcançada.::
+19930::$$$message_0181_0084_0000$$$::"[line5]"[lr]::
+19931::$$$message_0181_0084_0001$$$::O Gilgamesh percebe que a sua morte está se aproximando.[lr]::
+19932::$$$message_0181_0084_0002$$$::Mas ele não vai conseguir sair dessa com vida.[lr]::
+19933::$$$message_0181_0084_0003$$$::A Ea não vai parar de girar, e o Gilgamesh não tem como se esquivar a tempo.[lr]::
+19934::$$$message_0181_0084_0004$$$::É normal que ele esteja surpreso.[lr]::
+19935::$$$message_0181_0084_0005$$$::Quem poderia imaginar que um ataque tão poderoso e com tanta energia mágica assim seria bloqueado...!?::
+19936::$$$message_0181_0085_0000$$$::"Guhhh...!! Insolente... vai mesmo recorrer a um truque tão baixo...?!"[lr]::
+19937::$$$message_0181_0085_0001$$$::"[line5]"[lr]::
+19938::$$$message_0181_0085_0002$$$::O cavaleiro de tecido azul sai correndo.[lr]::
+19939::$$$message_0181_0085_0003$$$::A Saber está sem armadura.[lr]::
+19940::$$$message_0181_0085_0004$$$::Ela soltou a armadura que a estava protegendo, injetou toda a energia mágica que acabou de recuperar dentro da sua espada, e então[line2]::
+19941::$$$message_0181_0086_0000$$$::"EX[line2]"[lr]::
+19942::$$$message_0181_0086_0001$$$::"SABEE[fadein textoff=0 rule=走る感じ(右から) time=100 storage=white][transex textoff=0 rule=走る感じ(右から) time=200]ER[line2]!!!!!"[lr]::
+19943::$$$message_0181_0087_0000$$$::"...CALIBUR!!!!!!"::
+19944::$$$message_0181_0088_0000$$$::No instante em que ele toma a bainha, toda a escuridão é dissipada.[lr]::
+19945::$$$message_0181_0088_0001$$$::A escuridão que envolvia Emiya Shirou, e aquela que contaminava seu corpo, desaparece por completo.::
+19946::$$$message_0181_0089_0000$$$::"Qu...?"[lr]::
+19947::$$$message_0181_0089_0001$$$::Mas não é algo que mereça surpresa.[lr]::
+19948::$$$message_0181_0089_0002$$$::A bainha da espada sagrada existe para proteger seu dono.[lr]::
+19949::$$$message_0181_0089_0003$$$::A encarnação da utopia que a garota buscava jamais poderia ser vencida por uma lama corrupta!::
+19950::$$$message_0181_0090_0000$$$::Ele corre.[lr]::
+19951::$$$message_0181_0090_0001$$$::Livre da escuridão, numa velocidade semelhante a um meteoro.[lr]::
+19952::$$$message_0181_0090_0002$$$::"Magia de projeção!? Quem diabos é você!?"[lr]::
+19953::$$$message_0181_0090_0003$$$::De um lado, alguém que superestimava a própria força. Do outro, alguém que jamais teve esse luxo.[lr]::
+19954::$$$message_0181_0090_0004$$$::A diferença entre eles dura apenas um instante... mas é esse instante que decide tudo.::
+19955::$$$message_0181_0091_0000$$$::"KOTOMINE KIREI!!!"[lr]::
+19956::$$$message_0181_0091_0001$$$::Emiya Shirou avança, tropeçando, quase caindo.[lr]::
+19957::$$$message_0181_0091_0002$$$::Em uma das mãos, segura a adaga.[lr]::
+19958::$$$message_0181_0091_0003$$$::Mantendo-se baixo, ele se lança contra o padre.::
+19959::$$$message_0181_0092_0000$$$::"Hnnnnnnnnngh!"[lr]::
+19960::$$$message_0181_0092_0001$$$::Sem parar, ele crava a lâmina da retribuição no peito do inimigo.::
+19961::$$$message_0181_0093_0000$$$::"...Gghggg."[lr]::
+19962::$$$message_0181_0093_0001$$$::O padre se volta lentamente.[lr]::
+19963::$$$message_0181_0093_0002$$$::Mas antes que consiga agir...[lr]::
+19964::$$$message_0181_0093_0003$$$::Shirou finca o pé no chão e gira o corpo, impulsionado pela investida.::
+19965::$$$message_0181_0094_0000$$$::Ele se roda como um pião, concentrando toda a energia mágica na mão esquerda.[lr]::
+19966::$$$message_0181_0094_0001$$$::E então, como um vendaval...[lr]::
+19967::$$$message_0181_0094_0002$$$::"Läßt!"[lr]::
+19968::$$$message_0181_0094_0003$$$::Sua energia mágica é vertida na Azoth Blade junto com a palavra de liberação.::
+19969::$$$message_0181_0095_0000$$$::A espada dourada é desferida.[lr]::
+19970::$$$message_0181_0095_0001$$$::Ela já não tem forças nem para se erguer completamente.[lr]::
+19971::$$$message_0181_0095_0002$$$::Ainda assim, Saber mantém a espada baixa, sem levantar o rosto.[lr]::
+19972::$$$message_0181_0095_0003$$$::Gilgamesh observa, olhos arregalados... enquanto é partido ao meio.::
+19973::$$$message_0181_0096_0000$$$::"[line5]"[lr]::
+19974::$$$message_0181_0096_0001$$$::No silêncio que se segue, apenas o vento atravessa o templo.[lr]::
+19975::$$$message_0181_0096_0002$$$::Não resta sequer vestígio da luz que antes inundava o lugar.[lr]::
+19976::$$$message_0181_0096_0003$$$::Os dois cavaleiros não trocam palavras apenas permanecem ali, frente a frente, enquanto a batalha chega ao fim.::
+19977::$$$message_0181_0097_0000$$$::"...Ngh."[lr]::
+19978::$$$message_0181_0097_0001$$$::Gilgamesh solta um suspiro.[lr]::
+19979::$$$message_0181_0097_0002$$$::Ergue a mão e desliza o dedo pelo rosto dela, como se a estivesse confirmando.::
+19980::$$$message_0181_0098_0000$$$::"Mulher insolente. Até o fim, ousou se opor a mim."[lr]::
+19981::$$$message_0181_0098_0001$$$::A armadura dourada começa a se dissipar.[lr]::
+19982::$$$message_0181_0098_0002$$$::A existência do Rei dos Heróis se desfaz.[lr]::
+19983::$$$message_0181_0098_0003$$$::"Mas eu a perdoo. Há coisas que são belas justamente por não poderem ser alcançadas."::
+19984::$$$message_0181_0099_0000$$$::Seu dedo escorrega.[lr]::
+19985::$$$message_0181_0099_0001$$$::O braço erguido cai, sem forças.[lr]::
+19986::$$$message_0181_0099_0002$$$::"Hm... então era inevitável que eu fosse derrotado por você."::
+19987::$$$message_0181_0100_0000$$$::Ele estala a língua, em desagrado.[lr]::
+19988::$$$message_0181_0100_0001$$$::E então, por fim...[lr]::
+19989::$$$message_0181_0100_0002$$$::"Adeus, Rei dos Cavaleiros. Foi... realmente divertido."[lr]::
+19990::$$$message_0181_0100_0003$$$::Com um sorriso irônico, ele desaparece.::
+19991::$$$message_0181_0101_0000$$$::Faíscas azuis tremulam pelo corpo do padre.[lr]::
+19992::$$$message_0181_0101_0001$$$::Elas se espalham a partir da adaga cravada em seu peito.[lr]::
+19993::$$$message_0181_0101_0002$$$::Não tem carne sendo arrancada, nem sinal de sangue.[lr]::
+19994::$$$message_0181_0101_0003$$$::Ainda assim... a batalha chega ao fim.::
+19995::$$$message_0181_0102_0000$$$::"[line5]"[lr]::
+19996::$$$message_0181_0102_0001$$$::Ele nem sequer olha para mim.[lr]::
+19997::$$$message_0181_0102_0002$$$::Apenas encara, com estranheza, a adaga cravada no próprio peito.::
+19998::$$$message_0181_0103_0000$$$::"[line5]"[lr]::
+19999::$$$message_0181_0103_0001$$$::O vento sopra.[lr]::
+20000::$$$message_0181_0103_0002$$$::Uma rajada vinda da abertura acima abafa todos os outros sons.[lr]::
+20001::$$$message_0181_0103_0003$$$::Dentro desse silêncio ensurdecedor...[lr]::
+20002::$$$message_0181_0103_0004$$$::"Por que você está com essa espada?"[lr]::
+20003::$$$message_0181_0103_0005$$$::A voz de Kotomine é baixa[line2] quase um murmúrio.::
+20004::$$$message_0181_0104_0000$$$::"Ela não é minha. Foi a Tohsaka que me emprestou."[lr]::
+20005::$$$message_0181_0104_0001$$$::"[line5]"[lr]::
+20006::$$$message_0181_0104_0002$$$::Não sei quanto tempo ele fica em silêncio.[lr]::
+20007::$$$message_0181_0104_0003$$$::Ele respira fundo e, pela primeira vez desde que foi atingido, seu corpo vacila.::
+20008::$$$message_0181_0105_0000$$$::"Entendo. Já dei isso a uma garota, por capricho... deve ter sido há uns dez anos.[lr]::
+20009::$$$message_0181_0105_0001$$$::...Sim. Não é de se estranhar que eu tenha ficado tão fraco."[lr]::
+20010::$$$message_0181_0105_0002$$$::O corpo de Kotomine desaba.::
+20011::$$$message_0181_0106_0000$$$::"[line5]"[lr]::
+20012::$$$message_0181_0106_0001$$$::...Eu observo até o fim.[lr]::
+20013::$$$message_0181_0106_0002$$$::Mesmo à beira da morte, ele falava de si como se fosse outra pessoa.[lr]::
+20014::$$$message_0181_0106_0003$$$::E então, por fim, o padre afunda naquilo que ele próprio invocou[line2] naquilo que sempre desejou.::
+20015::$$$message_0181_0107_0000$$$::Esse foi o fim do homem chamado Kotomine Kirei.::
+20016::$$$message_0181_0108_0000$$$::O verdadeiro fim de uma longa batalha.::
+

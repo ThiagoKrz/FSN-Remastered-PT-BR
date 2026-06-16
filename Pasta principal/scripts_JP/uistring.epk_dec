@@ -1,0 +1,2063 @@
+DAT
+id=qid::label=str::string=lstr::
+4::string_title_back_warn::タイトル画面に戻ります。	よろしいですか？::
+5::string_save_overwrit_warn::セーブデータを上書きします。	よろしいですか？::
+6::string_load_data_warn::ロードしてゲームを再開します。	よろしいですか？::
+26::string_app_reset_confirm::初期設定に戻しますか？::
+27::string_route_str_prologue::プロローグ::
+28::string_route_str_epilogue::エピローグ::
+34::string_sys_save_busy_string::セーブしています。::
+36::string_app_reset_confirm1::テキスト設定が初期化されます。よろしいですか？::
+37::string_app_reset_confirm2::サウンド設定が初期化されます。よろしいですか？::
+38::string_app_reset_confirm3::保存設定が初期化されます。よろしいですか？::
+39::string_shutdown_warn::ゲームを終了してデスクトップに戻ります。よろしいですか？::
+40::string_scene_restart_confirm::このシーンからゲームを再開しますか？::
+41::string_scene_jump_confirm::このシーンへジャンプしますか？::
+42::string_back_title_warn::タイトルへ戻ります。	保存していない進行は失われますが、よろしいですか？::
+43::string_save_delete_warn::セーブデータを削除します。	よろしいですか？::
+44::string_msg_newroute::新しいルートが攻略可能になりました::
+45::string_msg_autosave::オートセーブしました::
+46::string_msg_jump::シーンをジャンプしました::
+47::string_msg_newservant::Servantに新しい情報が追加されました::
+48::string_msg_newweapon::Weaponに新しい情報が追加されました::
+49::string_msg_qsave::クイックセーブしました::
+50::string_msg_qload::クイックロードしました::
+51::string_msg_loadscene1::シーンを読み込みました::
+52::string_msg_newdojo::タイガー道場に新しいシーンが追加されました::
+53::string_msg_newdata::新しいセーブデータを作成しました::
+54::string_msg_overwrite::上書き保存しました::
+55::string_msg_deletedata::セーブデータを削除しました::
+56::string_sys_saveslot_full::セーブデータスロットに空きがありません。	上書き保存をするか、セーブデータの削除を行ってください。::
+57::stirng_continue_warn::直前の選択肢からリトライしますか？::
+60::stirng_dojo_warn::この先はタイガー道場です。	アドバイスを受けますか？::
+61::string_exit_warn::ゲームを終了しますか？::
+62::string_reset_warn1::すべての設定が「推奨設定」に変更されます。よろしいですか？::
+63::string_reset_warn2::すべての設定を初期化しますか？::
+64::string_scene_exit_warn::シーンを終了しますか？::
+65::string_qload_warn::クイックロードしますか？::
+66::string_msg_sys_save::システムデータをセーブしています::
+67::string_open_save_warn::セーブしますか？::
+68::string_pl_cntn_warn::プロローグの中断シーンから再開しますか？::
+69::string_qjump_warn::クイックジャンプしますか？::
+70::string_skip_warn::このシーンをスキップしますか？::
+71::string_scene_replay_confirm::選択したシーンの回想を開始しますか？::
+72::string_scene_replay_end_confirm::シーンの回想を終了しますか？::
+1004::string_flowchart_route_string_type_day16::十六日目::
+1005::string_flowchart_route_string_type_day15::十五日目::
+1006::string_flowchart_route_string_type_day14::十四日目::
+1007::string_flowchart_route_string_type_day13::十三日目::
+1008::string_flowchart_route_string_type_day12::十二日目::
+1009::string_flowchart_route_string_type_day11::十一日目::
+1010::string_flowchart_route_string_type_day10::十日目::
+1011::string_flowchart_route_string_type_day09::九日目::
+1012::string_flowchart_route_string_type_day08::八日目::
+1013::string_flowchart_route_string_type_day07::七日目::
+1014::string_flowchart_route_string_type_day06::六日目::
+1015::string_flowchart_route_string_type_day05::五日目::
+1016::string_flowchart_route_string_type_day04::四日目::
+1017::string_flowchart_route_string_type_day03::三日目::
+1018::string_flowchart_route_string_type_day02::二日目::
+1019::string_flowchart_route_string_type_day01::一日目::
+10001::m_cnf_title::CONFIG::
+10002::m_cnf_txtspd::テキスト表示速度::
+10003::m_cnf_txtspd_f::速い::
+10004::m_cnf_txtspd_n::普通::
+10005::m_cnf_txtspd_s::ゆっくり::
+10006::m_cnf_txtspd_c::カスタム::
+10007::m_cnf_sound::音量バランス::
+10008::m_cnf_sound_v::ボイス重視::
+10009::m_cnf_sound_n::普通::
+10010::m_cnf_sound_b::BGM重視::
+10011::m_cnf_sound_c::カスタム::
+10012::m_cnf_atsave::オートセーブ::
+10013::m_cnf_atsave_t::ON::
+10014::m_cnf_atsave_f::OFF::
+10015::m_cnf_language::表示言語::
+10016::m_cnf_lang_j::日本語::
+10017::m_cnf_lang_e::English::
+10018::m_cnf_lang_c::中文（简体）::
+10019::m_cnf_screen::画面モード::
+10020::m_cnf_screen_f::フルスクリーン::
+10021::m_cnf_screen_w::ウィンドウ::
+10022::m_cnf_reso::画面解像度::
+10023::m_cnf_reso_720::1280×720::
+10024::m_cnf_reso_900::1600×900::
+10025::m_cnf_reso_1080::1920×1080::
+10026::m_cnf_reso_1152::2048×1152::
+10027::m_cnf_reso_1440::2560×1440::
+10028::m_cnf_reso_2160::3840×2160::
+10029::m_cnf_reso_err::****×****::
+10030::m_cnf_detail::詳細設定::
+10031::m_cnf_bak::Back::
+10032::m_cnf_gamepad::操作設定::
+10033::m_cnf_gamepad_b::両手操作::
+10034::m_cnf_gamepad_o::片手操作::
+10035::m_cnf_reset::推奨設定にする::
+10036::m_cnf_skip_ar::既読シーンのスキップ::
+11001::m_cnft_tab::テキスト設定::
+11002::m_cnft_spd::テキスト表示速度::
+11003::m_cnft_spd_f::速い::
+11004::m_cnft_spd_n::普通::
+11005::m_cnft_spd_s::ゆっくり::
+11006::m_cnft_spd_c::カスタム::
+11007::m_cnft_leterint::文字表示間隔::
+11008::m_cnft_lint_fig::初めて読むメッセージ::
+11009::m_cnft_lint_sec::秒::
+11010::m_cnft_rowint::オート時	行送り待ち時間::
+11011::m_cnft_rint_sec::秒::
+11012::m_cnft_pageint::オート時	ページ送り待ち時間::
+11013::m_cnft_pint_sec::秒::
+11014::m_cnft_autoskip::既読シーン自動早送り::
+11015::m_cnft_atskip_t::ON::
+11016::m_cnft_atskip_f::OFF::
+11017::m_cnft_textcol::既読テキスト色変更::
+11018::m_cnft_tcol_t::ON::
+11019::m_cnft_tcol_f::OFF::
+11020::m_cnft_reset::初期設定に戻す::
+11021::m_cnft_guid_bak::戻る::
+11022::m_cnft_guid_ent::決定::
+11023::m_cnft_guid_mov::カーソル移動::
+11024::m_cnft_guid_scl::スクロール::
+11025::m_cnft_guid_tab::ページ変更::
+11026::m_cnft_guid_pic::スライダーをつまむ::
+11027::m_cnft_prvwmsg::闇を弾く声で、彼女は言った。::
+11028::m_cnft_skipcfg::メッセージの早送り::
+11029::m_cnft_read::既読のみ::
+11030::m_cnft_all::全文::
+11031::m_cnft_unrd_pch::未読テキスト表示間隔::
+11032::m_cnft_read_pch::既読テキスト表示間隔::
+11033::m_cnft_prnt_all::ページ末まで一気に表示::
+11034::m_cnft_clk_wait::オート時	クリック待ち時間::
+11035::m_cnft_unit_ms::ms::
+11036::m_cnft_unit_s::s::
+11037::m_cnft_unrd_efc::未読テキスト表示演出::
+11038::m_cnft_fadein::フェードイン::
+11039::m_cnft_fadein_n::なし（瞬間表示）::
+11040::m_cnft_read_efc::既読テキスト表示演出::
+11041::m_cnft_fadeout::フェードアウト::
+11042::m_cnft_fadout_n::なし（瞬間消去）::
+11043::m_cnft_bg::テキストウィンドウの	濃さ::
+11044::m_cnft_bg_per::％::
+11045::m_cnft_fig_fd::テキストのフェードイン::
+11046::m_cnft_read_fd::既読テキストの	フェードアウト::
+11047::m_cnft_tx_wait::オート時	テキスト送り待ち時間::
+12001::m_cnfs_tab::サウンド設定::
+12002::m_cnfs_master::マスター音量::
+12004::m_cnfs_balance::音量バランス::
+12005::m_cnfs_bal_v::ボイス重視::
+12006::m_cnfs_bal_n::普通::
+12007::m_cnfs_bal_b::BGM重視::
+12008::m_cnfs_bal_c::カスタム::
+12009::m_cnfs_voice::ボイス音量::
+12011::m_cnfs_se::SE音量::
+12013::m_cnfs_system::システム音音量::
+12015::m_cnfs_bgmdec::ボイス再生中	BGM音量を下げる::
+12016::m_cnfs_bdec_t::ON::
+12017::m_cnfs_bdec_f::OFF::
+12018::m_cnfs_voicecut::テキスト送り時の	ボイス停止::
+12019::m_cnfs_vcut_t::ON::
+12020::m_cnfs_vcut_f::OFF::
+12021::m_cnfs_vcnf::ボイス個別設定::
+12022::m_cnfs_vc_em::衛宮士郎::
+12025::m_cnfs_vc_se::セイバー::
+12028::m_cnfs_vc_ri::遠坂凛::
+12031::m_cnfs_vc_sa::間桐桜::
+12034::m_cnfs_vc_ir::イリヤ::
+12037::m_cnfs_vc_ta::藤村大河::
+12040::m_cnfs_vc_ar::アーチャー::
+12043::m_cnfs_vc_la::ランサー::
+12046::m_cnfs_vc_ra::ライダー::
+12049::m_cnfs_vc_ca::キャスター::
+12052::m_cnfs_vc_ko::佐々木小次郎::
+12055::m_cnfs_vc_ba::バーサーカー::
+12058::m_cnfs_vc_gi::ギルガメッシュ::
+12061::m_cnfs_vc_as::アサシン::
+12064::m_cnfs_vc_ek::衛宮切嗣::
+12067::m_cnfs_vc_kk::言峰綺礼::
+12070::m_cnfs_vc_sh::間桐慎二::
+12073::m_cnfs_vc_so::葛木宗一郎::
+12076::m_cnfs_vc_is::柳洞一成::
+12079::m_cnfs_vc_zo::間桐臓硯::
+12082::m_cnfs_vc_ay::美綴綾子::
+12085::m_cnfs_vc_mi::三枝由紀香::
+12088::m_cnfs_vc_mk::蒔寺楓::
+12091::m_cnfs_vc_hi::氷室鐘::
+12094::m_cnfs_vc_sr::セラ::
+12097::m_cnfs_vc_rz::リーゼリット::
+12100::m_cnfs_vc_ot::その他::
+12101::m_cnfs_vc_mute::ミュート::
+12102::m_cnfs_vc_test::Test::
+12103::m_cnfs_reset::初期設定に戻す::
+12104::m_cnfs_guid_bak::戻る::
+12105::m_cnfs_guid_ent::決定::
+12106::m_cnfs_guid_mov::カーソル移動::
+12107::m_cnfs_guid_scl::スクロール::
+12108::m_cnfs_guid_tab::ページ変更::
+12109::m_cnfs_guid_pic::スライダーをつまむ::
+12110::m_cnfs_bgm::BGM音量::
+12112::m_cnfs_voice_at::オートプレイ速度に	ボイスを合わせる::
+12113::m_cnfs_voice_wt::オートプレイ時の	ボイス再生完了待ち::
+13001::m_cnfsa_tab::保存設定::
+13002::m_cnfsa_auto::オートセーブ::
+13003::m_cnfsa_auto_t::ON::
+13004::m_cnfsa_auto_f::OFF::
+13005::m_cnfsa_atstime::オートセーブのタイミング::
+13006::m_cnfsa_atst_p::ページごと::
+13007::m_cnfsa_atst_s::シーンごと::
+13008::m_cnfsa_atst_c::選択肢の前::
+13009::m_cnfsa_atst_d::日付ごと::
+13010::m_cnfsa_atst_t::タイトルへ戻る::
+13011::m_cnfsa_reset::初期設定に戻す::
+13012::m_cnfsa_gid_bak::戻る::
+13013::m_cnfsa_gid_ent::決定::
+13014::m_cnfsa_gid_mov::カーソル移動::
+13015::m_cnfsa_gid_tab::ページ変更::
+13016::m_cnfsa_atst_j1::シーンをジャンプ::
+13017::m_cnfsa_atst_j2::Flowchartでシーンをジャンプ::
+13018::m_cnfsa_atst_j3::タイムラインでシーンをジャンプ::
+13019::m_cnfsa_atst_t2::タイトルへ戻る::
+13020::m_cnfsa_atst_da::日付変更演出前のセーブ::
+13021::m_cnfsa_atst_qt::ゲーム終了時::
+20001::m_gal_title::Gallery::
+20002::m_gal_picture::Picture::
+20003::m_gal_movie::Movie::
+20004::m_gal_music::Music::
+20005::m_gal_flowchart::Flowchart::
+20006::m_gal_servant::Servant::
+20007::m_gal_weapon::Weapon::
+20008::m_gal_back::Back::
+20009::m_gal_edlist::Ending List::
+20010::m_gal_library::Library::
+20011::m_gal_title2::GALLERY::
+21001::m_pic_title::Picture::
+21002::m_pic_tab_fate::Fate::
+21003::m_pic_tab_ubw::Unlimited 	Blade Works::
+21004::m_pic_tab_hf::Heaven's Feel::
+21005::m_pic_tab_prolo::Prologue::
+21006::m_pic_tab_le::Last Episode::
+21007::m_pic_tab_other::Other::
+21008::m_pic_back::Back::
+21009::m_pic_guid_bak::戻る::
+21010::m_pic_guid_ent::決定::
+21011::m_pic_guid_mov::移動::
+21012::m_pic_guid_scl::スクロール::
+21013::m_pic_guid_next::次の絵を表示::
+21014::m_pic_guid_prev::前の絵を表示::
+22001::m_mov_title::Movie::
+23001::m_musc_title::Music::
+23002::m_musc_bgm::Music::
+23003::m_musc_se::SE::
+23004::m_musc_bgmvol::MUSIC VOLUME::
+23005::m_musc_sevol::SE VOLUME::
+23006::m_musc_back::Back::
+23007::m_musc_guid_bak::戻る::
+23008::m_musc_guid_ent::決定::
+23009::m_musc_guid_mov::移動::
+23010::m_musc_guid_scl::スクロール::
+23011::m_musc_guid_pic::スライダーをつまむ::
+24001::m_flow_title::Flowchart::
+24002::m_flow_play::Play::
+24004::m_flow_route_f::Fate::
+24005::m_flow_route_u::Unlimited Blade Works::
+24006::m_flow_route_h::Heaven's Feel::
+24007::m_flow_route_p::Prologue::
+24008::m_flow_route_l::Last Episode::
+24009::m_flow_route_t::タイガー道場::
+24010::m_flow_d_1_31::1月31日::
+24011::m_flow_d_2_01::2月1日::
+24012::m_flow_d_2_02::2月2日::
+24013::m_flow_d_2_03::2月3日::
+24014::m_flow_d_2_04::2月4日::
+24015::m_flow_d_2_05::2月5日::
+24016::m_flow_d_2_06::2月6日::
+24017::m_flow_d_2_07::2月7日::
+24018::m_flow_d_2_08::2月8日::
+24019::m_flow_d_2_09::2月9日::
+24020::m_flow_d_2_10::2月10日::
+24021::m_flow_d_2_11::2月11日::
+24022::m_flow_d_2_12::2月12日::
+24023::m_flow_d_2_13::2月13日::
+24024::m_flow_d_2_14::2月14日::
+24025::m_flow_d_2_15::2月15日::
+24026::m_flow_guid_bak::戻る::
+24027::m_flow_guid_ent::決定::
+24028::m_flow_guid_mov::移動::
+24029::m_flow_guid_scl::スクロール::
+24030::m_flow_guid_zom::ズームイン／アウト::
+24031::m_flow_unlock::Play Date::
+24032::m_flow_d_2_16::2月16日::
+25001::m_serv_title::Servant::
+25002::m_serv_tab1_sa::セイバー::
+25003::m_serv_tab1_la::ランサー::
+25004::m_serv_tab1_ar::アーチャー::
+25005::m_serv_tab1_ri::ライダー::
+25006::m_serv_tab1_ca::キャスター::
+25007::m_serv_tab1_as::アサシン::
+25008::m_serv_tab1_ba::バーサーカー::
+25009::m_serv_tab1_ar1::アーチャー::
+25010::m_serv_tab1_as1::アサシン::
+25011::m_serv_tab1_sa1::セイバー::
+25012::m_serv_tab2_cls::ステータス::
+25013::m_serv_tab2_dtl::英雄詳細::
+25014::m_serv_tab2_skl::スキル::
+25015::m_serv_tab2_sp::宝具::
+25016::m_serv_guid_bak::戻る::
+25017::m_serv_guid_ent::決定::
+25018::m_serv_guid_mov::移動::
+25019::m_serv_guid_scl::スクロール::
+25021::m_serv_guid_tab::ページ変更::
+25022::m_serv_guid_tb2::情報ページ変更::
+25023::m_serv_subtit_1::C  L  A  S  S::
+25024::m_serv_subtit_2::S  T  A  T  U  S::
+25025::m_serv_subtit_3::P  R  O  F  I  L  E::
+25026::m_serv_subtit_4::ク  ラ  ス  ス  キ  ル::
+25027::m_serv_subtit_5::宝  具::
+25028::m_serv_subtit_6::保  有  ス  キ  ル::
+25029::m_serv_stts_1::マスター::
+25030::m_serv_stts_2::真名::
+25031::m_serv_stts_3::性別::
+25032::m_serv_stts_4::身長・体重::
+25033::m_serv_stts_5::属性::
+25034::m_serv_stts1_1::筋力::
+25035::m_serv_stts1_2::魔力::
+25036::m_serv_stts1_3::耐久::
+25037::m_serv_stts1_4::幸運::
+25038::m_serv_stts1_5::敏捷::
+25039::m_serv_stts1_6::宝具::
+25040::m_serv_stts2_01::A::
+25041::m_serv_stts2_02::A+::
+25042::m_serv_stts2_03::A++::
+25043::m_serv_stts2_04::B::
+25044::m_serv_stts2_05::B+::
+25045::m_serv_stts2_06::C::
+25046::m_serv_stts2_07::D::
+25047::m_serv_stts2_08::E::
+25048::m_serv_stts2_09::EX::
+25049::m_serv_stts2_10::??::
+25050::m_serv_npst_1::ランク::
+25051::m_serv_npst_2::種別::
+25052::m_serv_npst_3::レンジ::
+25053::m_serv_npst_4::最大捕捉::
+25054::m_serv_npst_5::防御対象::
+25055::m_serv_stts1_7::宝具::
+25056::m_serv_subtit_7::ス  キ  ル::
+26001::m_wpn_title::Weapon::
+26002::m_wpn_name_1::勝利すべき黄金の剣::
+26003::m_wpn_ownr_1::セイバー::
+26004::m_wpn_rubi_1::カリバーン::
+26005::m_wpn_name_2::カラドボルグⅡ::
+26006::m_wpn_ownr_2::アーチャー::
+26007::m_wpn_name_3::グラム::
+26008::m_wpn_ownr_3::？？？？::
+26009::m_wpn_name_4::デュランダル::
+26010::m_wpn_ownr_4::？？？？::
+26011::m_wpn_name_5::ハルペー::
+26012::m_wpn_ownr_5::？？？？::
+26013::m_wpn_name_6::ヴァジュラ::
+26014::m_wpn_ownr_6::？？？？::
+26015::m_wpn_name_7::ダインスレフ::
+26016::m_wpn_ownr_7::？？？？::
+26017::m_wpn_name_8::物干し竿::
+26018::m_wpn_ownr_8::アサシン::
+26019::m_wpn_name_9::ダーク::
+26020::m_wpn_ownr_9::真アサシン::
+26021::m_wpn_name_10::無名・短剣::
+26022::m_wpn_ownr_10::ライダー::
+26023::m_wpn_name_11::無名・斧剣::
+26024::m_wpn_ownr_11::バーサーカー::
+26025::m_wpn_name_12::アゾット剣::
+26026::m_wpn_ownr_12::凛::
+26027::m_wpn_name_13::宝石剣ゼルレッチ::
+26028::m_wpn_ownr_13::凛::
+26029::m_wpn_name_14::干将・莫邪::
+26030::m_wpn_ownr_14::アーチャー::
+26031::m_wpn_name_15::方天戟::
+26032::m_wpn_ownr_15::？？？？::
+26033::m_wpn_name_16::黒鍵::
+26034::m_wpn_ownr_16::言峰　綺礼::
+26035::m_wpn_name_17::虎竹刀::
+26036::m_wpn_ownr_17::藤村　大河::
+26037::m_wpn_page::ページ::
+26038::m_wpn_back::Back::
+26039::m_wpn_guid_bak::戻る::
+26040::m_wpn_guid_ent::決定::
+26041::m_wpn_guid_mov::移動::
+26042::m_wpn_guid_scl::スクロール::
+26043::m_wpn_guid_page::ページ変更::
+26044::m_wpn_subtitle::E  X  P  L  A  N  A  T  I  O  N::
+26045::m_wpn_subt_name::N  A  M  E::
+26046::m_wpn_subt_user::U  S  E  R::
+26047::m_wpn_name_1_1::勝利すべき黄金の剣　::
+27001::m_end_ttl::E  N  D  I  N  G    L  I  S  T::
+27002::m_end_epilogue::Epilogue::
+27003::m_end_1_sub::夢の続き::
+27004::m_end_1_cat::True End::
+27005::m_end_1_rute::Fate::
+27006::m_end_2_sub::sunny day::
+27007::m_end_2_cat::Good End::
+27008::m_end_2_rute::Unlimited Blade Works::
+27009::m_end_3_sub::Brilliant Years::
+27010::m_end_3_cat::True End::
+27011::m_end_3_rute::Unlimited Blade Works::
+27012::m_end_4_sub::櫻の夢::
+27013::m_end_4_cat::Normal End::
+27014::m_end_4_rute::Heaven’s Feel::
+27015::m_end_5_sub::春に帰る::
+27016::m_end_5_cat::True End::
+27017::m_end_5_rute::Heaven’s Feel::
+27018::m_end_tigerstmp::T  I  G  E  R    S  T  A  M  P::
+27019::m_end_stmp01::1::
+27020::m_end_stmp02::2::
+27021::m_end_stmp03::3::
+27022::m_end_stmp04::4::
+27023::m_end_stmp05::5::
+27024::m_end_stmp06::6::
+27025::m_end_stmp07::7::
+27026::m_end_stmp08::8::
+27027::m_end_stmp09::9::
+27028::m_end_stmp10::10::
+27029::m_end_stmp11::11::
+27030::m_end_stmp12::12::
+27031::m_end_stmp13::13::
+27032::m_end_stmp14::14::
+27033::m_end_stmp15::15::
+27034::m_end_stmp16::16::
+27035::m_end_stmp17::17::
+27036::m_end_stmp18::18::
+27037::m_end_stmp19::19::
+27038::m_end_stmp20::20::
+27039::m_end_stmp21::21::
+27040::m_end_stmp22::22::
+27041::m_end_stmp23::23::
+27042::m_end_stmp24::24::
+27043::m_end_stmp25::25::
+27044::m_end_stmp26::26::
+27045::m_end_stmp27::27::
+27046::m_end_stmp28::28::
+27047::m_end_stmp29::29::
+27048::m_end_stmp30::30::
+27049::m_end_stmp31::31::
+27050::m_end_stmp32::32::
+27051::m_end_stmp33::33::
+27052::m_end_stmp34::34::
+27053::m_end_stmp35::35::
+27054::m_end_stmp36::36::
+27055::m_end_stmp37::37::
+27056::m_end_stmp38::38::
+27057::m_end_stmp39::39::
+27058::m_end_stmp40::40::
+27059::m_end_meat1::1::
+27060::m_end_meat2::2::
+27061::m_end_meat3::3::
+27062::m_end_gao::GAOO！::
+27063::m_end_bak::Back::
+28001::m_lbr_ttl::Library::
+28002::m_lbr_guid_bak::戻る::
+28003::m_lbr_guid_ent::決定::
+28004::m_lbr_guid_mov::移動::
+28005::m_lbr_guid_scl::スクロール::
+28006::m_lbr_bak::Back::
+28007::m_lbr_tit::E  X  P  L  A  N  A  T  I  O  N::
+30001::m_menu_title::MENU::
+30002::m_menu_save::Save::
+30003::m_menu_load::Load::
+30004::m_menu_flow::Flowchart::
+30005::m_menu_servant::Servant::
+30006::m_menu_weapon::Weapon::
+30007::m_menu_config::Config::
+30008::m_menu_keyguide::Key Guide::
+30009::m_menu_totitle::Return Top::
+30010::m_menu_back::Back::
+30011::m_menu_exit::Exit Game::
+30012::m_menu_saveexit::Save & Exit::
+30013::m_menu_quit::Quit Game::
+30014::m_menu_savequit::Save & Quit::
+31001::m_kgd_title::Key Guide::
+31002::m_kgd_back::Back::
+31003::m_kgd_backpg::ページ戻し::
+31004::m_kgd_longtap::（長押し）::
+31005::m_kgd_fastbak::早戻し::
+31006::m_kgd_outo::オートプレイ開始/停止::
+31007::m_kgd_timeline::タイムライン::
+31008::m_kgd_timelinec::タイムラインを閉じる::
+31009::m_kgd_next::次の行/ページを表示::
+31010::m_kgd_qsave::クイックセーブ::
+31011::m_kgd_qload::クイックロード::
+31012::m_kgd_nextpg::ページ送り::
+31013::m_kgd_fastpg::早送り::
+31014::m_kgd_loopswtc::（ループ切替）::
+31015::m_kgd_outospd::オートプレイ速度::
+31016::m_kgd_spd10::標準::
+31017::m_kgd_spd13::1.3倍速::
+31018::m_kgd_spd20::2倍速::
+31019::m_kgd_history::History::
+31020::m_kgd_menu::MENU::
+31021::m_kgd_window::テキストウィンドウ非表示/再表示::
+31022::m_kgd_tap::画面タップ::
+31023::m_kgd_flickup::上へフリック::
+31024::m_kgd_flickdw::下へフリック::
+31025::m_kgd_flickr::右へフリック::
+31026::m_kgd_flickl::左へフリック::
+31027::m_kgd_esc::Esc::
+31028::m_kgd_w::W::
+31029::m_kgd_a::A::
+31030::m_kgd_s::S::
+31031::m_kgd_d::D::
+31032::m_kgd_1::1::
+31033::m_kgd_2::2::
+31034::m_kgd_3::3::
+31035::m_kgd_4::4::
+31036::m_kgd_5::5::
+31037::m_kgd_bs::Back Space::
+31038::m_kgd_enter::Enter::
+31039::m_kgd_space::Space::
+31040::m_kgd_clickl::左クリック::
+31041::m_kgd_clickr::右クリック::
+31042::m_kgd_wheelup::ホイール上::
+31043::m_kgd_wheeldw::ホイール下::
+31044::m_kgd_pgb::1ページ戻る::
+31045::m_kgd_pgf::1ページ進む::
+31046::m_kgd_log::バックログ::
+31047::m_kgd_send::文字送り::
+31048::m_kgd_view::表示::
+31049::m_kgd_hide::非表示::
+31050::m_kgd_logoc::バックログ開閉::
+31051::m_kgd_logv::バックログ表示::
+31052::m_kgd_logh::バックログ非表示::
+31053::m_kgd_tloc::タイムライン開閉::
+31054::m_kgd_tlv::タイムライン表示::
+31055::m_kgd_tlh::タイムライン非表示::
+31056::m_kgd_menuoc::MENU開閉::
+31057::m_kgd_menuv::MENU表示::
+31058::m_kgd_menuh::MENU非表示::
+31059::m_kgd_flick::画面フリック::
+31060::m_kgd_ok1::決定::
+31061::m_kgd_ok2::OK::
+31062::m_kgd_kb::キーボード::
+31063::m_kgd_mh::マウス::
+31064::m_kgd_gp::コントローラー::
+31065::m_kgd_spdcng::速度変更::
+31066::m_kgd_figcng::画像切替::
+31067::m_kgd_zoom::拡大・縮小::
+31068::m_kgd_pgcng::ページ切替::
+31069::m_kgd_tabcng::タブ切替::
+31070::m_kgd_esc2::Escape::
+31071::m_kgd_del1::Del::
+31072::m_kgd_del2::Delete::
+31073::m_kgd_auto1::オートプレイ（標準）::
+31074::m_kgd_auto2::オートプレイ（1.3倍速）::
+31075::m_kgd_auto3::オートプレイ（2倍速）::
+31076::m_kgd_auto4::オートプレイ停止::
+31077::m_kgd_cncl::キャンセル::
+31078::m_kgd_oksend::決定、文字送り::
+31079::m_kgd_texh::テキストウィンドウ非表示::
+31080::m_kgd_tab::Tab::
+31081::m_kgd_auo5::オートプレイ開始、速度変更、解除::
+31082::m_kgd_tlv2::タイムライン表示::
+31083::m_kgd_tlh2::タイムライン非表示::
+31084::m_kgd_crsbtn::十字ボタン::
+31085::m_kgd_dirbtn::方向ボタン::
+31086::m_kgd_wasd::WASD::
+31087::m_kgd_btnl::L::
+31088::m_kgd_btnr::R::
+31089::m_kgd_btna::A::
+31090::m_kgd_btnb::B::
+31091::m_kgd_drg::ドラッグ::
+31092::m_kgd_stcl::Lスティック::
+31093::m_kgd_stcr::Rスティック::
+31094::m_kgd_zl::ZL::
+31095::m_kgd_zlhld::ZL（長押）::
+31096::m_kgd_zr::ZR::
+31097::m_kgd_zrhld::ZR（長押）::
+31098::m_kgd_hld::長押し::
+31099::m_kgd_sl::SL::
+31100::m_kgd_slhld::SL（長押）::
+31101::m_kgd_sr::SR::
+31102::m_kgd_srhld::SR（長押）::
+31103::m_kgd_pshin1::押し込み::
+31104::m_kgd_pshin2::押込み::
+31105::m_kgd_pshin3::押込::
+31106::m_kgd_shft::Shift::
+31107::m_kgd_dtu::下から上::
+31108::m_kgd_utd::上から下::
+31109::m_kgd_ltr::左から右::
+31110::m_kgd_rtl::右から左::
+31111::m_kgd_pshdwn::押下::
+31112::m_kgd_lt::LT::
+31113::m_kgd_lthld::LT（長押）::
+31114::m_kgd_rt::RT::
+31115::m_kgd_rthld::RT（長押）::
+31116::m_kgd_up::上::
+31117::m_kgd_dwn::下::
+31118::m_kgd_l::左::
+31119::m_kgd_r::右::
+31120::m_kgd_tabfw::タブ切替（進む）::
+31121::m_kgd_tabbw::タブ切替（戻る）::
+31122::m_kgd_exit::ゲーム終了::
+31123::m_kgd_scmode::画面モード切替::
+31124::m_kgd_crsr_top::カーソルを画面上に移動::
+31125::m_kgd_crsr_btm::カーソルを画面下に移動::
+31126::m_kgd_crsr_ltor::カーソルを左から右にスライド::
+31127::m_kgd_drug_r::画面中央で右ドラッグ::
+31128::m_kgd_drug_l::画面中央で左ドラッグ::
+31129::m_kgd_swipe::画面スワイプ::
+31130::m_kgd_crsr_rtol::カーソルを右から左にスライド::
+31131::m_kgd_qjump::クイックジャンプ::
+31132::m_kgd_or::or::
+31133::m_kgd_ctl::操作::
+31134::m_kgd_opens::セーブメニューを開く::
+31135::m_kgd_openl::ロードメニューを開く::
+31136::m_kgd_openc::CONFIGを開く::
+31137::m_kgd_chngsc::スクリーンモード切替::
+31138::m_kgd_ｍctl::マウス操作::
+31139::m_kgd_drug_u::画面下から上にドラッグ::
+31140::m_kgd_drug_r2::画面左から右にドラッグ::
+31141::m_kgd_drug_l2::画面右から左にドラッグ::
+40001::m_atspd_1::Auto::
+40002::m_atspd_2::Auto ×1.2::
+40003::m_atspd_3::Auto ×2::
+40004::m_atspd_4::早送り::
+40005::m_atspd_5::早戻し::
+40006::m_atspd_6::オートプレイ×1::
+40007::m_atspd_7::オートプレイ×1.3::
+40008::m_atspd_8::オートプレイ×2::
+40009::m_atspd_9::停止::
+40010::m_select_title::S  E  L  E  C  T::
+41001::m_tl_prev::前日へ::
+41002::m_tl_next::翌日へ::
+41003::m_tl_d_1_31::1月31日::
+41004::m_tl_d_2_01::2月1日::
+41005::m_tl_d_2_02::2月2日::
+41006::m_tl_d_2_03::2月3日::
+41007::m_tl_d_2_04::2月4日::
+41008::m_tl_d_2_05::2月5日::
+41009::m_tl_d_2_06::2月6日::
+41010::m_tl_d_2_07::2月7日::
+41011::m_tl_d_2_08::2月8日::
+41012::m_tl_d_2_09::2月9日::
+41013::m_tl_d_2_10::2月10日::
+41014::m_tl_d_2_11::2月11日::
+41015::m_tl_d_2_12::2月12日::
+41016::m_tl_d_2_13::2月13日::
+41017::m_tl_d_2_14::2月14日::
+41018::m_tl_d_2_15::2月15日::
+41019::m_tl_guid_bak::戻る::
+41020::m_tl_guid_ent::決定::
+41021::m_tl_guid_mov::移動::
+41022::m_tl_guid_scl::スクロール::
+41023::m_tl_guid_page::前日／翌日へ::
+42001::m_hstry_title::History::
+42002::m_hstry_back::Back::
+42003::m_hs_guid_bak::戻る::
+42004::m_hs_guid_ent::ボイス再生::
+42005::m_hs_guid_mov::移動::
+42006::m_hs_guid_scl::スクロール::
+42007::m_hstry_play::Play::
+50001::m_save_title::Save::
+50002::m_save_newslot::New::
+50003::m_save_back::Back::
+50004::m_sa_guid_bak::戻る::
+50005::m_sa_guid_ent::セーブ／上書きセーブ::
+50006::m_sa_guid_mov::移動::
+50007::m_sa_guid_scl::スクロール::
+50008::m_sa_guid_del::データ削除::
+50009::m_save_tag1::Prologue::
+50010::m_save_tag2::Fate::
+50011::m_save_tag3::Unlimited Blade Works::
+50012::m_save_tag4::Heaven’s Feel::
+50013::m_save_tag5::Last Episode::
+50014::m_save_tag6::タイガー道場::
+60001::m_load_title::Load::
+60002::m_load_atslot::Auto::
+60003::m_load_qslot::Quick::
+60004::m_load_back::Back::
+60005::m_ld_guid_bak::戻る::
+60006::m_ld_guid_ent::ロード::
+60007::m_ld_guid_mov::移動::
+60008::m_ld_guid_scl::スクロール::
+60009::m_ld_guid_del::データ削除::
+60010::m_load_atslot2::AUTO SAVE::
+60011::m_load_qslot2::QUICK SAVE::
+60012::m_load_nodata::No Data::
+70001::m_titl_conti::Continue::
+70002::m_titl_load::Load::
+70003::m_titl_newgame::NewGame::
+70004::m_titl_gallery::Gallery::
+70005::m_titl_config::Config::
+70006::m_titl_lastepi::Last Episode::
+70007::m_titl_maruc::©TYPE-MOON::
+70008::m_titl_anykey::Press Any Key::
+70009::m_titl_exit::Exit::
+70010::m_titl_quit::Quit::
+80001::m_boot_caution::この作品はフィクションであり、作中に登場する個人名・団体名等は、すべて架空のものです。	実在の個人・団体等とは一切関係ありません。		この作品には残虐なシーンや不快感を与える可能性のあるシーンが存在します。			権利者の承諾なくゲーム中に使用されている画像・音声・動画を収録して公開することを禁止します。	なお、本編内の機能が制限されている箇所を除き、ゲーム機本体の機能を用いた録画や配信が可能です。	その他、法律の範囲内でお楽しみください。::
+100001::button_01::OK::
+100002::button_02::Cancel::
+100003::button_03::YES::
+100004::button_04::NO::
+100005::button_05::Next::
+100006::button_06::Back::
+100007::title00_01::Fate::
+100008::title00_02::stay night::
+100009::title00_03::[Réalta Nua]::
+100010::title00_04::フェイト/ステイナイト[レアルタ・ヌア]::
+100011::title00_05::View the Web page::
+100012::title00_06::公式HPへ::
+100013::title00_07::New Game::
+100014::title00_08::最初から始める::
+100015::title00_09::Load Game::
+100016::title00_10::セーブした場面から再開::
+100017::title00_11::Config::
+100018::title00_12::プレイの設定を変更::
+100019::title00_13::Extra::
+100020::title00_14::特別メニューへ切り替え::
+100021::title00_15::Last Episode::
+100022::title00_16::ラストエピソードを閲覧::
+100023::00_button_00_01::OK::
+100024::00_button_00_02::Cancel::
+100025::00_button_00_03::YES::
+100026::00_button_00_04::NO::
+100027::00_button_00_05::Next::
+100028::00_button_00_06::Back::
+100029::00_button_01_01::Back::
+100030::00_button_01_02::戻る::
+100031::00_button_02a::Retry::
+100032::00_button_03a::Back to Title::
+100033::00_prog_02a::Downloading...::
+100034::00_prog_03a::Extracting...::
+100035::00_prog_04a::Verifying Files...::
+100036::00_prog_05a::Extractiong...::
+100037::00_prog_06a::Uploading...::
+100038::00_syswin_01a::Check::
+100039::00_syswin_02a::information::
+100040::00_txt_00a::%::
+100041::00_update_00a::Up date!::
+100042::01_ctrl_00_01::オート再生する::
+100043::01_ctrl_00_02::オート再生を解除する::
+100044::01_ctrl_00_03::早送りする::
+100045::01_ctrl_00_04::早送りをやめる::
+100046::01_ctrl_00_05::スキップする::
+100047::01_ctrl_00_06::スキップ中::
+100048::01_ctrl_00_07::機能切替え::
+100049::01_ctrl_01b_01::タイトルへ戻る::
+100050::01_ctrl_01b_02::戻る::
+100051::01_ctrl_02b_01::オート再生を解除する::
+100052::01_ctrl_02b_02::オート再生する::
+100053::01_guide_00a_01::Menu::
+100054::01_guide_00a_02::メニューを開きます::
+100055::01_guide_00a_03::Control::
+100056::01_guide_00a_04::コントロールを開きます::
+100057::01_guide_00a_05::History::
+100058::01_guide_00a_06::履歴を開きます::
+100059::01_guide_00a_07::テキストの表示/非表示を切り替えます::
+100060::01_guide_00a_08::画面をスクロールします::
+100061::01_guide_01a_01::画面の一部を拡大できます::
+100062::01_guide_01a_02::Configで設定変更できます::
+100063::01_menu_00a_01::Save::
+100064::01_menu_00a_02::セーブします::
+100065::01_menu_00a_03::Load::
+100066::01_menu_00a_04::ロードします::
+100067::01_menu_00a_05::Flowchart::
+100068::01_menu_00a_06::フローチャートを開きます::
+100069::01_menu_00a_07::Config::
+100070::01_menu_00a_08::環境設定を行います::
+100071::01_menu_00a_09::System Save::
+100072::01_menu_00a_10::システムデータをセーブします::
+100073::01_menu_00a_11::Return Top::
+100074::01_menu_00a_12::タイトルに戻ります::
+100075::01_menuicon_01a::ヘルプ::
+100076::01_subwin_01a::Select::
+100077::01_title_00a_01::History::
+100078::01_title_00a_02::履歴を閲覧します::
+100079::01_title_01a_01::Menu::
+100080::01_title_01a_02::メニュー::
+100081::01_title_02a_01::Control::
+100082::01_title_02a_02::ゲームの進行を制御します::
+100083::02_atrus_00a_01::Fate::
+100084::02_atrus_00a_02::stay night::
+100085::02_atrus_00a_03::[Réalta Nua]::
+100086::02_atrus_00a_04::フェイト/ステイナイト[レアルタ・ヌア]::
+100087::02_atrus_00a_05::New Game::
+100088::02_atrus_00a_06::最初から始める::
+100089::02_atrus_00a_07::Load Game::
+100090::02_atrus_00a_08::セーブした場面から再開::
+100091::02_atrus_00a_09::Config::
+100092::02_atrus_00a_10::プレイ設定を変更::
+100095::02_atrus_00a_13::Last Episode::
+100096::02_atrus_00a_14::ラストエピソードを閲覧::
+100099::02_atrus_00a_17::©TYPE-MOON All Rights Reserved.::
+100100::02_atrus_01a_01::Fate::
+100101::02_atrus_01a_02::stay night::
+100102::02_atrus_01a_03::[Réalta Nua]::
+100103::02_atrus_01a_04::フェイト/ステイナイト[レアルタ・ヌア]::
+100104::02_atrus_01a_05::New Game::
+100105::02_atrus_01a_06::最初から始める::
+100106::02_atrus_01a_07::Load Game::
+100107::02_atrus_01a_08::セーブした場面から再開::
+100108::02_atrus_01a_09::Config::
+100109::02_atrus_01a_10::プレイ設定を変更::
+100112::02_atrus_01a_13::Last Episode::
+100113::02_atrus_01a_14::ラストエピソードを閲覧::
+100116::02_atrus_01a_17::©TYPE-MOON All Rights Reserved.::
+100118::03_title_00a_01::New Game::
+100119::03_title_00a_02::最初から始める::
+100120::03_title_01a::Fate::
+100121::03_title_02a::Unlimited Blade Works::
+100122::03_title_03a::Heaven's Feel::
+100123::03_title_04a::Another::
+100124::03_title_10a_01::Picture::
+100125::03_title_10a_02::閲覧するシナリオを選択します::
+100127::04_hf_01a_01::Fate stay night [Réalta Nua]::
+100128::04_hf_01a_02::Heaven's Feel::
+100129::04_hf_01a_03::フェイト/ステイナイト[レアルタ・ヌア]::
+100130::04_restore_00a::Restore::
+100131::04_text_00a::価格::
+100132::04_title_00a::Purchase::
+100133::04_ubw_01a_01::シナリオを購入できます::
+100134::04_ubw_01a_02::Fate stay night [Réalta Nua]::
+100135::04_ubw_01a_03::Unlimited Blade Works::
+100136::04_ubw_01a_04::フェイト/ステイナイト[レアルタ・ヌア]::
+100137::05_nodata_00a::no data::
+100138::05_nodata_01a::now loading::
+100139::05_nodata_02a::new data::
+100140::05_title_00a_01::Load Game::
+100141::05_title_00a_02::セーブした場面から再開::
+100142::05_title_00a_03::Save Game::
+100143::05_title_00a_04::現在の場面をセーブする::
+100144::05_txt_00a::Data::
+100145::05_txt_01a::現在セーブできません::
+100146::06_day_00a::1月31日::
+100147::06_day_01a::2月1日::
+100148::06_day_02a::2月2日::
+100149::06_day_03a::2月3日::
+100150::06_day_04a::2月4日::
+100151::06_day_05a::2月5日::
+100152::06_day_06a::2月6日::
+100153::06_day_06b::2月6日-7日::
+100154::06_day_07a::2月7日::
+100155::06_day_08a::2月8日::
+100156::06_day_09a::2月9日::
+100157::06_day_10a::2月10日::
+100158::06_day_11a::2月11日::
+100159::06_day_12a::2月12日::
+100160::06_day_13a::2月13日::
+100161::06_day_14a::2月14日::
+100162::06_day_14b::2月14日-16日::
+100163::06_day_15a::2月15日::
+100164::06_day_16a::2月16日::
+100165::06_stitle_00a::Fate/stay night::
+100166::06_stitle_01a::Fate::
+100167::06_stitle_02a::Unlimited Blade Works::
+100168::06_stitle_03a::Heaven's Feel::
+100169::06_text_00a::現在フローチャートを表示できません::
+100170::06_title_00a_01::Flowchart::
+100171::06_title_00a_02::フローチャートを確認します::
+100172::07_atrus_00a_01::基本設定::
+100173::07_atrus_00a_02::サウンド::
+100174::07_atrus_00a_03::ボイス::
+100175::07_atrus_00a_04::文字設定::
+100176::07_atrus_00a_05::スクロール設定::
+100178::07_atrus_00a_07::ウィンドウの種類::
+100179::07_atrus_00a_08::自動::
+100184::07_atrus_00a_13::BGM音量::
+100185::07_atrus_00a_14::ボイス音量::
+100186::07_atrus_00a_15::効果音音量::
+100187::07_atrus_00a_16::既読文字の色変更::
+100188::07_atrus_00a_17::文字の影::
+100189::07_atrus_00a_18::文字表示速度::
+100190::07_atrus_00a_19::初期設定に戻す::
+100191::07_atrus_00a_20::黒(通常)::
+100192::07_atrus_00a_21::黒(濃い)::
+100193::07_atrus_00a_22::黒(薄い)::
+100194::07_atrus_00a_23::虎::
+100195::07_atrus_00a_24::虎(模様)::
+100196::07_atrus_00a_25::%::
+100197::07_atrus_00a_26::速い::
+100198::07_atrus_00a_27::遅い::
+100199::07_atrus_00a_28::する::
+100200::07_atrus_00a_29::しない::
+100201::07_atrus_00a_30::ON::
+100202::07_atrus_00a_31::OFF::
+100203::07_atrus_00a_32::Config::
+100204::07_atrus_00a_33::環境設定を行います::
+100208::07_atrus_01a_03::文字のフェードアウト::
+100209::07_atrus_01a_04::暗い::
+100210::07_atrus_01a_05::明るい::
+100211::07_cv_00b::???::
+100212::07_cv_00c::その他::
+100213::07_cv_01b::衛宮士郎::
+100214::07_cv_02b::セイバー::
+100215::07_cv_03b::遠坂凛::
+100216::07_cv_04b::間桐桜::
+100217::07_cv_05b::イリヤ::
+100218::07_cv_06b::藤村大河::
+100219::07_cv_07b::アーチャー::
+100220::07_cv_08b::ランサー::
+100221::07_cv_09b::ライダー::
+100222::07_cv_10b::キャスター::
+100223::07_cv_11b::佐々木小次郎::
+100224::07_cv_12b::バーサーカー::
+100225::07_cv_13b::ギルガメッシュ::
+100226::07_cv_14b::アサシン::
+100227::07_cv_15b::衛宮切嗣::
+100228::07_cv_16b::言峰綺礼::
+100229::07_cv_17b::間桐慎二::
+100230::07_cv_18b::葛木宗一郎::
+100231::07_cv_19b::柳洞一成::
+100232::07_cv_20b::間桐臓硯::
+100233::07_cv_21b::美綴綾子::
+100234::07_cv_22b::三枝由紀香::
+100235::07_cv_23b::蒔寺楓::
+100236::07_cv_24b::氷室鐘::
+100237::07_cv_25b::セラ::
+100238::07_cv_26b::リーゼリット::
+100239::07_cv_28a::全員::
+100240::07_cv_all_01::全員ON::
+100241::07_cv_all_02::全員OFF::
+100242::07_cv_all_03::にする::
+100243::08_day_00a_01::月::
+100244::08_day_00a_02::日::
+100245::08_day_00a_03::1 One day Ⅰ::
+100246::08_day_00a_04::2 One day Ⅱ::
+100247::08_day_00a_05::3 long day,long night::
+100248::08_day_00a_06::4 Partner::
+100249::08_day_00a_07::5 New life::
+100250::08_day_00a_08::6 BLADE::
+100251::08_day_00a_09::7 Sword & Magic(Ⅰ)::
+100252::08_day_00a_10::8 Sword & Magic(Ⅱ)::
+100253::08_day_00a_11::9 NEO::
+100254::08_day_00a_12::10 skyscraper::
+100255::08_day_00a_13::11 DragonSlay::
+100256::08_day_00a_14::12 Interval Level4::
+100257::08_day_00a_15::13 infinity arms::
+100258::08_day_00a_16::14 moonlight(Ⅰ)::
+100259::08_day_00a_17::15 Utopia::
+100260::08_day_00a_18::夢の続き::
+100261::08_sub_01a_01::4 One day Ⅲ::
+100262::08_sub_01a_02::5 Bonnie And Clyde::
+100263::08_sub_01a_03::6 faker::
+100264::08_sub_01a_04::7 Ghostwaltz::
+100265::08_sub_01a_05::8 interval Level1::
+100266::08_sub_01a_06::9 Mydear,straydead::
+100267::08_sub_01a_07::10 strike lovers::
+100268::08_sub_01a_08::11 WitchCraft::
+100269::08_sub_01a_09::12 moonlight(Ⅱ)::
+100270::08_sub_01a_10::13 VS berserker::
+100271::08_sub_01a_11::14 Knight stay night::
+100272::08_sub_01a_12::15 After image::
+100273::08_sub_01a_13::16 EDEN::
+100274::08_sub_01a_14::Brilliant Years::
+100275::08_sub_01a_15::sunny day::
+100276::08_sub_02a_01::4 Avenger::
+100277::08_sub_02a_02::5 Omen::
+100278::08_sub_02a_03::6 beautiful(Ⅰ)::
+100279::08_sub_02a_04::7 dialogue lost loop::
+100280::08_sub_02a_05::8 De:light::
+100281::08_sub_02a_06::9 RAIN::
+100282::08_sub_02a_07::10 darkwood,sleepingbeauty::
+100283::08_sub_02a_08::11 beautiful(Ⅱ)::
+100284::08_sub_02a_09::12 overdose::
+100285::08_sub_02a_10::13 LAST TALK::
+100286::08_sub_02a_11::14 servant eater::
+100287::08_sub_02a_12::15 limited.::
+100288::08_sub_02a_13::16 FINAL::
+100289::08_sub_02a_14::春に帰る::
+100290::08_sub_02a_15::櫻の夢::
+100291::08_title_01::Fate/ stay night::
+100292::08_title_02::Fate::
+100293::08_title_03::Unlimited Blade Works::
+100294::08_title_04::Heaven's Feel::
+100295::10_menu_00a_01::Gallery::
+100296::10_menu_00a_02::ギャラリーを閲覧します::
+100297::10_menu_00a_03::Memory::
+100298::10_menu_00a_04::記録を閲覧します::
+100299::10_menu_00a_05::Status::
+100300::10_menu_00a_06::ステータスを確認できます::
+100301::10_menu_01a_01::Picture::
+100302::10_menu_01a_02::一枚絵を閲覧します::
+100303::10_menu_01a_03::Music::
+100304::10_menu_01a_04::曲を再生します::
+100305::10_menu_01a_05::SE::
+100306::10_menu_01a_06::効果音を再生します::
+100307::10_menu_02a_01::Prologue::
+100308::10_menu_02a_02::プロローグを再生します::
+100309::10_menu_02a_03::Movie::
+100310::10_menu_02a_04::ムービーを再生します::
+100311::10_menu_02a_05::Ending List::
+100312::10_menu_02a_06::エンディングリストを確認できます::
+100313::10_menu_02a_07::Tiger Stamp::
+100314::10_menu_02a_08::タイガースタンプを確認できます::
+100315::10_menu_03a_01::Character::
+100316::10_menu_03a_02::登場キャラクターを確認できます::
+100317::10_menu_03a_03::Weapon::
+100318::10_menu_03a_04::武器のリストを確認できます::
+100319::10_menu_03a_05::Flowchart::
+100320::10_menu_03a_06::フローチャートを確認できます::
+100321::10_menu_04a_01::Game Center::
+100322::10_menu_04a_02::ゲームプレイ時の実績を閲覧します::
+100323::10_menu_04a_03::Google Play Games::
+100324::10_title_00a_01::Extra menu::
+100325::10_title_00a_02::各種メニューを開きます::
+100326::10_title_01a_01::Gallery::
+100327::10_title_01a_02::ギャラリーを閲覧します::
+100328::10_title_02a_01::Memory::
+100329::10_title_02a_02::記録を閲覧します::
+100330::10_title_03a_01::Status::
+100331::10_title_03a_02::ステータスを確認できます::
+100332::20_bgm_00a::????????::
+100333::20_bgm_01a::into the night::
+100334::20_bgm_02a::日差しの中で::
+100335::20_bgm_03a::穏やかな毎日::
+100336::20_bgm_04a::優しい風景::
+100337::20_bgm_05a::茜色の街::
+100338::20_bgm_06a::笑顔に囲まれて::
+100339::20_bgm_07a::真夜中の狭間::
+100340::20_bgm_08a::彷徨う影::
+100341::20_bgm_09a::悪夢::
+100342::20_bgm_10a::運命の渦::
+100343::20_bgm_11a::運命の渦2::
+100344::20_bgm_12a::激突する魂::
+100345::20_bgm_13a::破滅の足音::
+100346::20_bgm_14a::突破口::
+100347::20_bgm_15a::丘の上の教会::
+100348::20_bgm_16a::記憶の彼方::
+100349::20_bgm_17a::消えない思い::
+100350::20_bgm_18a::二人の時間::
+100351::20_bgm_19a::抱擁::
+100352::20_bgm_20a::抱擁2::
+100353::20_bgm_21a::求め合う心::
+100354::20_bgm_22a::疾風の剣士::
+100355::20_bgm_23a::約束された勝利の剣::
+100356::20_bgm_24a::黄金の王::
+100357::20_bgm_25a::エミヤ::
+100358::20_bgm_26a::光と闇::
+100359::20_bgm_27a::この世全ての悪::
+100360::20_bgm_28a::新たな夜明け::
+100361::20_bgm_29a::新たな夜明け2::
+100362::20_bgm_30a::移りゆく季節2::
+100363::20_bgm_31a::THIS ILLUSION (inst.)::
+100364::20_bgm_32a::THIS ILLUSION (piano ver.)::
+100365::20_bgm_33a::静かなる声::
+100366::20_bgm_34a::嵐の予感::
+100367::20_bgm_35a::ローレライ::
+100368::20_bgm_36a::今日の食卓::
+100369::20_bgm_37a::extra::
+100370::20_bgm_38a::うららかな調べ::
+100371::20_bgm_39a::トラブルメーカーズ::
+100372::20_bgm_40a::心のチャイム::
+100373::20_bgm_41a::タイガー道場のテーマ::
+100374::20_bgm_42a::魔刻::
+100375::20_bgm_43a::対峙::
+100376::20_bgm_44a::Sonic Barrage::
+100377::20_bgm_45a::Burst Up::
+100378::20_bgm_46a::Diver::
+100379::20_bgm_47a::Diver2::
+100380::20_bgm_48a::根源の龍::
+100381::20_bgm_49a::侵食::
+100382::20_bgm_50a::侵食2::
+100383::20_bgm_51a::深き眠り::
+100384::20_bgm_52a::Sorrow::
+100385::20_bgm_53a::神の名のもとに::
+100386::20_bgm_54a::蘇る神話::
+100387::20_bgm_55a::二人の王::
+100388::20_bgm_56a::最後の力::
+100389::20_bgm_57a::Mighty Wind::
+100390::20_bgm_58a::約束された勝利の剣 (Black Saber mix)::
+100391::20_bgm_59a::Blue Sky::
+100392::20_bgm_60a::移りゆく季節 (Realta Nua ver.)::
+100393::20_bgm_61a::黄金の輝き (short ver.)::
+100394::20_bgm_62a::Link (short ver.)::
+100395::20_bgm_63a::夢の終わり::
+100396::20_pic_00a::non displayed picture::
+100397::20_pic_01a::now loading::
+100398::20_title_00a_01::Picture::
+100399::20_title_00a_02::一枚絵を閲覧できます::
+100400::20_title_01a_01::Music::
+100401::20_title_01a_02::音楽を聴けます::
+100402::30_edlist_01a::夢の続き::
+100403::30_edlist_02a::sunny day::
+100404::30_edlist_03a::Brilliant Years::
+100405::30_edlist_04a::櫻の夢::
+100406::30_edlist_05a::春に帰る::
+100407::30_gao_00a::GAOO!::
+100408::30_move_00a::non displayed movie::
+100409::30_stitle_00a::?????::
+100410::30_stitle_01a::Fate::
+100411::30_stitle_02a::Unlimited Blade Works::
+100412::30_stitle_03a::Heaven's Feel::
+100413::30_text_00a::Movie::
+100414::30_title_00a_01::Tiger Stamp::
+100415::30_title_00a_02::タイガースタンプ::
+100416::30_title_01a_01::Ending List::
+100417::30_title_01a_02::エンディングリストを閲覧出来ます::
+100418::30_title_02a_01::Movie::
+100419::30_title_02a_02::ムービーを閲覧出来ます::
+100420::30_txt_00a::???::
+100421::30_txt_01a::Normal End::
+100422::30_txt_02a::Good End::
+100423::30_txt_03a::True End::
+100424::40_abi_00a::対魔力:A::
+100425::40_abi_00b::騎乗:B::
+100426::40_deta_00a::アルトリア::
+100427::40_prof_00a_01::アルトリア::
+100428::40_prof_00a_02::女性::
+100429::40_prof_00a_03::154cm::
+100430::40_prof_00a_04::42kg::
+100431::40_skiil_00a::直感:A::
+100432::40_skiil_00b::魔力放出:A::
+100433::40_skiil_00c::カリスマ:B::
+100434::40_abi_01a::対魔力:D::
+100435::40_abi_01b::単独行動:B::
+100436::40_deta_01a::エミヤ::
+100437::40_prof_01a_01::エミヤ::
+100438::40_prof_01a_02::男性::
+100439::40_prof_01a_03::187cm::
+100440::40_prof_01a_04::78kg::
+100441::40_skiil_01a::千里眼:C::
+100442::40_skiil_01b::魔術:C-::
+100443::40_skiil_01c::心眼(真):B::
+100444::40_abi_02a::対魔力:C::
+100445::40_deta_02a::クー・フーリン::
+100446::40_prof_02a_01::クー・フーリン::
+100447::40_prof_02a_02::男性::
+100448::40_prof_02a_03::185cm::
+100449::40_prof_02a_04::70kg::
+100450::40_skiil_02a::戦闘続行:A::
+100451::40_skiil_02b::仕切り直し:C::
+100452::40_skiil_02c::ルーン:B::
+100453::40_skiil_02d::矢よけの加護:B::
+100454::40_skiil_02e::神性:B::
+100455::40_abi_03a::対魔力:B::
+100456::40_abi_03b::騎乗:A+::
+100457::40_deta_03a::メドゥーサ::
+100458::40_prof_03a_01::メドゥーサ::
+100459::40_prof_03a_02::女性::
+100460::40_prof_03a_03::172cm::
+100461::40_prof_03a_04::57kg::
+100462::40_skiil_03a::魔眼:A+::
+100463::40_skiil_03b::単独行動:C::
+100464::40_skiil_03c::怪力:B::
+100465::40_skiil_03d::神性:E-::
+100466::40_abi_04a::陣地作成:A::
+100467::40_abi_04b::道具作成:A::
+100468::40_deta_04a::メディア::
+100469::40_prof_04a_01::メディア::
+100470::40_prof_04a_02::女性::
+100471::40_prof_04a_03::163cm::
+100472::40_prof_04a_04::51kg::
+100473::40_skiil_04a::高速神言:A::
+100474::40_skiil_04b::金羊の皮:EX::
+100475::40_abi_05a::気配遮断:D::
+100476::40_deta_05a::佐々木小次郎::
+100477::40_prof_05a_01::佐々木小次郎::
+100478::40_prof_05a_02::男性::
+100479::40_prof_05a_03::176cm::
+100480::40_prof_05a_04::63kg::
+100481::40_skiil_05a::燕返し::
+100482::40_skiil_05b::心眼(偽):A::
+100483::40_skiil_05c::透化:B+::
+100484::40_skiil_05d::宗和の心得:B::
+100485::40_abi_06a::狂化:B::
+100486::40_deta_06a::ヘラクレス::
+100487::40_prof_06a_01::ヘラクレス::
+100488::40_prof_06a_02::男性::
+100489::40_prof_06a_03::253cm::
+100490::40_prof_06a_04::311kg::
+100491::40_skiil_06a::戦闘続行:A::
+100492::40_skiil_06b::心眼(偽):B::
+100493::40_skiil_06c::勇猛:A+::
+100494::40_skiil_06d::神性:A::
+100495::40_abi_07a::対魔力:B::
+100496::40_abi_07b::騎乗:-::
+100497::40_deta_07a::アルトリア::
+100498::40_prof_07a_01::アルトリア::
+100499::40_prof_07a_02::女性::
+100500::40_prof_07a_03::154cm::
+100501::40_prof_07a_04::42kg::
+100502::40_skiil_07a::直感:B::
+100503::40_skiil_07b::魔力放出:A::
+100504::40_skiil_07c::カリスマ:E::
+100505::40_abi_08a::気配遮断:A+::
+100506::40_deta_08a::ハサン・サッバーハ::
+100507::40_prof_08a_01::ハサン・サッバーハ::
+100508::40_prof_08a_02::男性::
+100509::40_prof_08a_03::215cm::
+100510::40_prof_08a_04::62kg::
+100511::40_skiil_08a::投擲(短刀):B::
+100512::40_skiil_08b::風除けの加護:A::
+100513::40_skiil_08c::自己改造:C::
+100514::40_abi_09a::対魔力:E::
+100515::40_abi_09b::単独行動:A+::
+100516::40_deta_09a::ギルガメッシュ::
+100517::40_prof_09a_01::ギルガメッシュ::
+100518::40_prof_09a_02::男性::
+100519::40_prof_09a_03::182cm::
+100520::40_prof_09a_04::68kg::
+100521::40_skiil_09a::黄金律:A::
+100522::40_skiil_09b::カリスマ:A+::
+100523::40_skiil_09c::神性:B(A+)::
+100524::40_attri_00a::混沌・狂::
+100525::40_attri_01a::混沌・善::
+100526::40_attri_02a::秩序・悪::
+100527::40_attri_03a::秩序・善::
+100528::40_attri_04a::秩序・中庸::
+100529::40_attri_05a::中立・悪::
+100530::40_attri_06a::中立・中庸::
+100531::40_class_00a::Class::
+100532::40_gauge_02a_01::筋力::
+100533::40_gauge_02a_02::魔力::
+100534::40_gauge_02a_03::耐久::
+100535::40_gauge_02a_04::幸運::
+100536::40_gauge_02a_05::敏捷::
+100537::40_gauge_02a_06::宝具::
+100538::40_master_00a::衛宮　士郎::
+100539::40_master_01a::遠坂　凛::
+100540::40_master_02a::間桐　桜::
+100541::40_master_03a::イリヤスフィール・フォン・アインツベルン::
+100542::40_master_04a::キャスター::
+100543::40_master_05a::言峰　綺礼::
+100544::40_master_06a::間桐　慎二::
+100545::40_master_07a::葛木　宗一郎::
+100546::40_master_08a::間桐　臓硯::
+100547::40_menu_00a::クラス別能力::
+100548::40_menu_01a::詳細::
+100549::40_menu_02a::保有スキル::
+100550::40_menu_03a::宝具::
+100551::40_name_00a::セイバー::
+100552::40_name_01a::アーチャー::
+100553::40_name_02a::ランサー::
+100554::40_name_03a::ライダー::
+100555::40_name_04a::キャスター::
+100556::40_name_05a::アサシン::
+100557::40_name_06a::バーサーカー::
+100558::40_name_07a::セイバー::
+100559::40_name_08a::アサシン::
+100560::40_name_09a::アーチャー::
+100561::40_name_10a::?????::
+100562::40_pram_00a::??::
+100563::40_pram_01a::EX::
+100564::40_pram_02a::A++::
+100565::40_pram_03a::A+::
+100566::40_pram_04a::A::
+100567::40_pram_05a::B::
+100568::40_pram_06a::C::
+100569::40_pram_07a::D::
+100570::40_pram_08a::E::
+100571::40_pram_09a::B+::
+100572::40_tab_02a_01::クラス別能力::
+100573::40_tab_02a_02::能力1::
+100574::40_tab_02a_03::能力2::
+100575::40_tab_03a::詳細::
+100576::40_tab_04a_01::保有スキル::
+100577::40_tab_04a_02::スキル1::
+100578::40_tab_04a_03::スキル2::
+100579::40_tab_04a_04::スキル3::
+100580::40_tab_04a_05::スキル4::
+100581::40_tab_04a_06::スキル5::
+100582::40_tab_05a_01::宝具::
+100583::40_tab_05a_02::宝具1::
+100584::40_tab_05a_03::宝具2::
+100585::40_tab_05a_04::宝具3::
+100586::40_title_00a_01::Character Select::
+100587::40_title_00a_02::キャラクターを選択します::
+100588::40_title_01a_01::Status::
+100589::40_title_01a_02::サーヴァントのステータスを確認できます::
+100590::40_title_01b_01::マスター::
+100591::40_title_01b_02::真名::
+100592::40_title_01b_03::性別::
+100593::40_title_01b_04::身長・体重::
+100594::40_title_01b_05::属性::
+100595::41_atrus_00a_01::アヴァロン::
+100596::41_atrus_00a_02::全て遠き理想郷::
+100597::41_atrus_00a_03::ランク:EX::
+100598::41_atrus_00a_04::種別:結界宝具::
+100599::41_atrus_00a_05::防御対象:1人::
+100600::41_atrus_01a_01::エクスカリバー::
+100601::41_atrus_01a_02::約束された勝利の剣::
+100602::41_atrus_01a_03::ランク:A++::
+100603::41_atrus_01a_04::種別:対城宝具::
+100604::41_atrus_01a_05::レンジ:1～99::
+100605::41_atrus_01a_06::最大捕捉:1000人::
+100606::41_atrus_02a_01::エヌマ・エリシュ::
+100607::41_atrus_02a_02::天地乖離す開闢の星::
+100608::41_atrus_02a_03::ランク:EX::
+100609::41_atrus_02a_04::種別:対界宝具::
+100610::41_atrus_02a_05::レンジ:1～99::
+100611::41_atrus_02a_06::最大捕捉:1000人::
+100612::41_atrus_03a_01::ゲイ・ボルク::
+100613::41_atrus_03a_02::突き穿つ死翔の槍::
+100614::41_atrus_03a_03::ランク:B+::
+100615::41_atrus_03a_04::種別:対軍宝具::
+100616::41_atrus_03a_05::レンジ:5～40::
+100617::41_atrus_03a_06::最大捕捉:50人::
+100618::41_atrus_04a_01::ゲイ・ボルク::
+100619::41_atrus_04a_02::刺し穿つ死棘の槍::
+100620::41_atrus_04a_03::ランク:B+::
+100621::41_atrus_04a_04::種別:対人宝具::
+100622::41_atrus_04a_05::レンジ:2～4::
+100623::41_atrus_04a_06::最大捕捉:1人::
+100624::41_atrus_05a_01::エクスカリバー::
+100625::41_atrus_05a_02::約束された勝利の剣::
+100626::41_atrus_05a_03::ランク:A++::
+100627::41_atrus_05a_04::種別:対城宝具::
+100628::41_atrus_05a_05::レンジ:1～99::
+100629::41_atrus_05a_06::最大捕捉:1000人::
+100630::41_atrus_06a_01::ルールブレイカー::
+100631::41_atrus_06a_02::破戒すべき全ての符::
+100632::41_atrus_06a_03::ランク:C::
+100633::41_atrus_06a_04::種別:対魔術宝具::
+100634::41_atrus_06a_05::レンジ:1::
+100635::41_atrus_06a_06::最大捕捉:1人::
+100636::41_atrus_07a_01::ブレーカー・ゴルゴーン::
+100637::41_atrus_07a_02::自己封印・暗黒神殿::
+100638::41_atrus_07a_03::ランク:C-::
+100639::41_atrus_07a_04::レンジ:0::
+100640::41_atrus_07a_05::最大捕捉:1人::
+100641::41_atrus_08a_01::ゲート・オブ・バビロン::
+100642::41_atrus_08a_02::王の財宝::
+100643::41_atrus_08a_03::ランク:E～A++::
+100644::41_atrus_08a_04::種別:対人宝具::
+100645::41_atrus_08a_05::レンジ:-::
+100646::41_atrus_09a_01::干将・莫耶::
+100647::41_atrus_09a_02::ランク:C::
+100648::41_atrus_09a_03::種別:対人宝具::
+100649::41_atrus_09a_04::レンジ:1～2::
+100650::41_atrus_09a_05::最大捕捉:2::
+100651::41_atrus_10a_01::ベルレフォーン::
+100652::41_atrus_10a_02::騎英の手綱::
+100653::41_atrus_10a_03::ランク:A+::
+100654::41_atrus_10a_04::種別:対軍宝具::
+100655::41_atrus_10a_05::レンジ:2～50::
+100656::41_atrus_10a_06::最大捕捉:300人::
+100657::41_atrus_11a_01::ゴッド・ハンド::
+100658::41_atrus_11a_02::十二の試練::
+100659::41_atrus_11a_03::ランク:B::
+100660::41_atrus_11a_04::種別:対人宝具::
+100661::41_atrus_11a_05::レンジ:-::
+100662::41_atrus_11a_06::最大捕捉:1人::
+100663::41_atrus_12a_01::ゴッド・ハンド::
+100664::41_atrus_12a_02::十二の試練::
+100665::41_atrus_12a_03::ランク:B::
+100666::41_atrus_12a_04::種別:対人宝具::
+100667::41_atrus_12a_05::レンジ:-::
+100668::41_atrus_12a_06::最大捕捉:1人::
+100669::41_atrus_13a_01::ブラッドフォート・アンドロメダ::
+100670::41_atrus_13a_02::他者封印・鮮血神殿::
+100671::41_atrus_13a_03::ランク:B::
+100672::41_atrus_13a_04::種別:対軍宝具::
+100673::41_atrus_13a_05::レンジ:10～40::
+100674::41_atrus_13a_06::最大捕捉:500人::
+100675::41_atrus_14a_01::インビジブル・エア::
+100676::41_atrus_14a_02::風王結界::
+100677::41_atrus_14a_03::ランク:C::
+100678::41_atrus_14a_04::種別:対人宝具::
+100679::41_atrus_14a_05::レンジ:1～2::
+100680::41_atrus_14a_06::最大捕捉:1個::
+100681::41_atrus_15a_01::アンリミテッドブレイドワークス::
+100682::41_atrus_15a_02::無限の剣製::
+100683::41_atrus_15a_03::ランク:E～A++::
+100684::41_atrus_15a_04::種別:????::
+100685::41_atrus_15a_05::レンジ:???::
+100686::41_atrus_15a_06::最大捕捉:???::
+100687::41_atrus_16a_01::ザバーニーヤ::
+100688::41_atrus_16a_02::妄想心音::
+100689::41_atrus_16a_03::ランク:C::
+100690::41_atrus_16a_04::種別:対人宝具::
+100691::41_atrus_16a_05::レンジ:3～9::
+100692::41_atrus_16a_06::最大捕捉:1人::
+100693::41_atrus_99a_01::?????::
+100694::41_atrus_99a_02::no image::
+100695::50_chara_00a::????::
+100696::50_chara_01a::セイバー::
+100697::50_chara_02a::アーチャー::
+100698::50_chara_03a::アサシン::
+100699::50_chara_04a::真アサシン::
+100700::50_chara_05a::ライダー::
+100701::50_chara_06a::バーサーカー::
+100702::50_chara_07a::凛::
+100703::50_chara_08a::言峰 綺礼::
+100704::50_chara_09a::藤村 大河::
+100705::50_name_00a::?????::
+100706::50_name_01a_01::カリバーン::
+100707::50_name_01a_02::勝利すべき黄金の剣::
+100708::50_name_02a::カラドボルグⅡ::
+100709::50_name_03a::グラム::
+100710::50_name_04a::デュランダル::
+100711::50_name_05a::ハルペー::
+100712::50_name_06a::ヴァジュラ::
+100713::50_name_07a::ダインスレフ::
+100714::50_name_08a::物干し竿::
+100715::50_name_09a::ダーク::
+100716::50_name_10a::無銘・短剣::
+100717::50_name_11a::無銘・斧剣::
+100718::50_name_12a::アゾット剣::
+100719::50_name_13a::宝石剣ゼルレッチ::
+100720::50_name_14a::干将・莫耶::
+100721::50_name_15a::方天戟::
+100722::50_name_16a::黒鍵::
+100723::50_name_17a::虎竹刀::
+100724::50_slash_00a::/::
+100725::50_title_00a_01::Weapon Menu::
+100726::50_title_00a_02::武器辞典を閲覧できます::
+100727::60_end_00a_01::END::
+100728::60_end_00a_02::FIN::
+100729::g_curse1::死ね::
+100731::g_curse_full1::死ね::
+100733::g_curse_full_b1::死ね::
+100735::g_curse_full_c1::死ね::
+100737::g_curse_full_d1::死ね::
+100738::g_curse_full_d2::死ね::
+100739::g_24hexp_svt_1::過去::
+100740::g_24hexp_svt_2::現在::
+100741::g_24hexp_svt_3::未来::
+100742::g_24hexp_svt_4::時間軸::
+100743::g_24hexp_svt_5::人物Aが	英雄になって死亡::
+100744::g_24hexp_svt_6::英霊の座::
+100745::g_24hexp_svt_7::時間軸（輪廻）から	外される::
+100746::g_24hexp_svtb_1::過去::
+100747::g_24hexp_svtb_2::現在::
+100748::g_24hexp_svtb_3::未来::
+100749::g_24hexp_svtb_4::時間軸::
+100750::g_24hexp_svtb_5::分身::
+100751::g_24hexp_svtb_6::召喚される::
+100752::g_24hexp_svtb_7::英霊の座::
+100753::g_24hexp_svtb_8::本体::
+100754::g_24hexp_svtc_1::過去::
+100755::g_24hexp_svtc_2::現在::
+100756::g_24hexp_svtc_3::未来::
+100757::g_24hexp_svtc_4::召喚後消滅	（本体には影響されない）::
+100758::g_24hexp_svtc_5::時間軸::
+100759::g_24hexp_svtc_6::分身::
+100760::g_24hexp_svtc_7::英霊の座::
+100761::g_24hexp_svtc_8::本体::
+100762::g_24hexp_sav_1::過去::
+100763::g_24hexp_sav_2::現在::
+100764::g_24hexp_sav_3::未来::
+100765::g_24hexp_sav_4::カムランの戦い::
+100766::g_24hexp_sav_5::時間軸::
+100767::g_24hexp_sav_6::アーサー::
+100768::g_24hexp_sav_7::アーサー死亡::
+100769::g_24hexp_sav_8::召喚される::
+100770::g_24hexp_sav_9::士郎::
+100771::g_24hexp_sav_10::英霊の座::
+100772::g_24hexp_savb01::過去::
+100773::g_24hexp_savb02::現在::
+100774::g_24hexp_savb03::未来::
+100775::g_24hexp_savb04::カムランの戦い::
+100776::g_24hexp_savb05::召喚後元の時代に戻る::
+100777::g_24hexp_savb06::時間軸::
+100778::g_24hexp_savb07::アーサー::
+100779::g_24hexp_savb08::アーサー死亡::
+100780::g_24hexp_savb09::士郎::
+100781::g_24hexp_savb10::英霊の座::
+100782::g_24hexp_savc01::過去::
+100783::g_24hexp_savc02::現在::
+100784::g_24hexp_savc03::未来::
+100785::g_24hexp_savc04::カムランの戦い::
+100786::g_24hexp_savc05::召喚後元の時代に戻る::
+100787::g_24hexp_savc06::時間軸::
+100788::g_24hexp_savc07::アーサー::
+100789::g_24hexp_savc08::アーサー死亡::
+100790::g_24hexp_savc09::召喚される::
+100791::g_24hexp_savc10::士郎::
+100792::g_24hexp_savc11::聖杯入手に成功した場合::
+100793::g_24hexp_savc12::英霊の座::
+100794::g_41curse::――そんなモノ、切り落とせばいい。::
+100795::g_80saber::Saber::
+100796::g_81lancer::Lancer::
+100797::g_82archer::Archer::
+100798::g_83caster::Caster::
+100799::g_84bersercer::Berserker::
+100800::g_85rider::Rider::
+100801::g_86assassin::Assassin::
+100802::g_12_17a::キャスター（仮名）さん　28歳（推定）::
+100803::12_17b::午後は○○	それっきり	テレビ::
+100804::g_203chain::203chain	MARVELOUS::
+100805::g_rinn03_150::暴れ魔術師	ノーマーシィレッドエンブラック::
+100806::g_sakura03_150::沈黙のコック	うっかり貴方をクッキング::
+100807::g_stagestart031::こんな城日本に持ち込むなよ::
+100808::g_stagestart032::Go Home Einzbren::
+100809::g_stagestart033::STAGE＃03::
+100810::g_tigerttl_rina::タイガー道場::
+100811::g_tigerttl_rinb::タイガー道場::
+100812::g_tigerttl_skrb::タイガー道場::
+100813::g_time544::5:44::
+100814::g_time545::5:45::
+100815::g_japunika1_1::よいこのめっさつしりーず::
+100816::g_japunika1_2::いちにちさんさつ::
+100817::g_japunika1_3::ジャプニカ暗殺帳::
+100818::g_japunika1_4::JAPUNIKA::
+100819::g_japunika1_5::横罫　22　行::
+100820::g_japunika1_6::ふくしゅう::
+100821::g_japunika1_7::しろうにやさしい::
+100822::g_japunika1_8::ねん　くみ　なまえ::
+100823::g_japunika1_9::イリヤ::
+100824::g_tigerstamp::タイガー道場::
+100825::g_tkmk_b::タイガー道場	ときめきのヨ・カ・ン::
+100826::g_tkmk_e::タイガー道場	ときめきのヨ・カ・ン::
+100827::g_rizstamp::タイガー道場::
+100828::g_101curse_ca::おいで::
+100829::g_102curse_cab::――おいで――::
+100830::g_103curse_cac::さあ――ここまでいらっしゃい、坊や::
+100831::g_102ubr_a::I am the bone of my sword.	――体は剣で出来ている。::
+100832::g_102ubr_b::Steel is my body, and fire si my blood.	血潮は鉄で　心は硝子。::
+100833::g_102ubrbg_b01::I am the bone of my sword.	――体は剣で出来ている。::
+100834::g_102ubrbg_b02::Steel is my body, and fire si my blood.	血潮は鉄で　心は硝子。::
+100835::g_102ubrbg_b03::I am the bone of my sword.	――体は剣で出来ている。::
+100836::g_102ubrbg_b04::Steel is my body, and fire si my blood.	血潮は鉄で　心は硝子。::
+100837::g_102ubrbg_b05::I have created over a thousand blades.	幾たびの戦場を越えて不敗。::
+100838::g_102ubrbg_b06::Unknown to Death.	ただの一度も敗走はなく、::
+100839::g_102ubrbg_b07::Nor known to Life.	ただの一度も理解されない。::
+100840::g_102ubrbg_b08::Have withstood pain to create many weapons.	彼者は常に独り　剣の丘で勝利に酔う。::
+100841::g_102ubrbg_b09::Yet, those hands will never hold anything.	故に、生涯に意味はなく。::
+100842::g_102ubrbg_b10::So as I pray, unlimited blade works.	その体は、きっと剣で出来ていた。::
+100843::g_102ubr_c::I have created over a thousand blades.	幾たびの戦場を越えて不敗。::
+100844::g_102ubr_d::Unknown to Death.	ただの一度も敗走はなく、::
+100845::g_102ubr_e::Nor known to Life.	ただの一度も理解されない。::
+100846::g_102ubr_f::Have withstood pain to create many weapons.	彼者は常に独り　剣の丘で勝利に酔う。::
+100847::g_102ubr_g::Yet, those hands will never hold anything.	故に、生涯に意味はなく。::
+100848::g_102ubr_h::So as I pray, unlimited blade works.	その体は、きっと剣で出来ていた。::
+100849::g_epilogue_in::epilogue.::
+100850::g_epilogue_in2::epilogue.::
+100851::g_typemoon_b::TYPE-MOON PRESENTS::
+100857::g_question_a::?::
+100858::g_question_b::?::
+100864::g_decay_a::The sage cries out.	"Open, Gates of Heaven. Bless us and bestow miracles upon us!"	The sage cries out in regret.	"Close, Gates of Heaven. Save us from all our sins and evil!"::
+100865::g_decay_b::The curtain closes.	The millennium comes to a standstill.	Our dreams, our hope… was an forbidden "failure" from the start.::
+100866::g_decay_c::The stars fall out of the sky.	Space closes up into nothingness.	The pathway to the center is shrouded along with our sins.		......I am, at last, filled with joy.::
+100867::g_decay_d::All has been engulfed by darkness.	Nothing can hurt you now.	At last, you have been set free from the pain that you carried for so long.		You may now rest, without a worry on mind.::
+100873::g_rinmemo::――放課後　弓道場裏　雑木林	朝の事　怒ってないから　来るべし	来なかったら　殺す　帰ります::
+100874::g_epologue::epilogue.::
+100875::g_sab0203_1::2月3日::
+100876::g_sab0203_2::Fate::
+100877::g_sab0203_3::4 Partner::
+100878::g_sab0204_1::2月4日::
+100879::g_sab0204_2::Fate::
+100880::g_sab0204_3::5 New life::
+100881::g_sab0205_1::2月5日::
+100882::g_sab0205_2::Fate::
+100883::g_sab0205_3::6 BLADE::
+100884::g_sab0206_1::2月6日::
+100885::g_sab0206_2::Fate::
+100886::g_sab0206_3::7 Sword&Magic（Ⅰ）::
+100887::g_sab0207_1::2月7日::
+100888::g_sab0207_2::Fate::
+100889::g_sab0207_3::8 Sword&Magic（Ⅱ）::
+100890::g_sab0208_1::2月8日::
+100891::g_sab0208_2::Fate::
+100892::g_sab0208_3::9 NEO::
+100893::g_sab0209_1::2月9日::
+100894::g_sab0209_2::Fate::
+100895::g_sab0209_3::10 skyscraper::
+100896::g_sab0210_1::2月10日::
+100897::g_sab0210_2::Fate::
+100898::g_sab0210_3::11 DragonSlay::
+100899::g_sab0211_1::2月11日::
+100900::g_sab0211_2::Fate::
+100901::g_sab0211_3::12 Interval Level4::
+100902::g_sab0212_1::2月12日::
+100903::g_sab0212_2::Fate::
+100904::g_sab0212_3::13 infinity arms::
+100905::g_sab0213_1::2月13日::
+100906::g_sab0213_2::Fate::
+100907::g_sab0213_3::14 moonlight(Ⅰ)::
+100908::g_sab0214_1::2月14日::
+100909::g_sab0214_2::Fate::
+100910::g_sab0214_3::15 Utopia::
+100911::g_deadend::DEAD END::
+100912::g_trueend::FIN::
+100913::g_normalend::END::
+100914::g_badend::BAD END::
+100915::g_cmn0131_1::1月31日::
+100916::g_cmn0131_2::Fate/stay night::
+100917::g_cmn0131_3::1 One day::
+100918::g_cmn0201_1::2月1日::
+100919::g_cmn0201_2::Fate/stay night::
+100920::g_cmn0201_3::2 One dayⅡ::
+100921::g_cmn0202_1::2月2日::
+100922::g_cmn0202_2::Fate/stay night::
+100923::g_cmn0202_3::3 long day,long night::
+100924::g_skr0203_1::2月3日::
+100925::g_skr0203_2::Heaven's Feel::
+100926::g_skr0203_3::4 Avenger::
+100927::g_skr0204_1::2月4日::
+100928::g_skr0204_2::Heaven's Feel::
+100929::g_skr0204_3::5 omen::
+100930::g_skr0205_1::2月5日::
+100931::g_skr0205_2::Heaven's Feel::
+100932::g_skr0205_3::6 beautiful (Ⅰ)::
+100933::g_skr0206_1::2月6日::
+100934::g_skr0206_2::Heaven's Feel::
+100935::g_skr0206_3::7 dialogue lost loop::
+100936::g_skr0207_1::2月7日::
+100937::g_skr0207_2::Heaven's Feel::
+100938::g_skr0207_3::8 De:light::
+100939::g_skr0208_1::2月7日::
+100940::g_skr0208_2::Heaven's Feel::
+100941::g_skr0208_3::9 RAIN::
+100942::g_skr0209_1::2月9日::
+100943::g_skr0209_2::Heaven's Feel::
+100944::g_skr0209_3::10 darkwood,sleepingbeauty::
+100945::g_skr0210_1::2月10日::
+100946::g_skr0210_2::Heaven's Feel::
+100947::g_skr0210_3::11 beautiful (Ⅱ)::
+100948::g_skr0211_1::2月11日::
+100949::g_skr0211_2::Heaven's Feel::
+100950::g_skr0211_3::12 overdose::
+100951::g_skr0212_1::2月12日::
+100952::g_skr0212_2::Heaven's Feel::
+100953::g_skr0212_3::13 LAST TALK::
+100954::g_skr0213_1::2月13日::
+100955::g_skr0213_2::Heaven's Feel::
+100956::g_skr0213_3::14 serbant eater::
+100957::g_skr0214_1::2月14日::
+100958::g_skr0214_2::Heaven's Feel::
+100959::g_skr0214_3::15 limited.::
+100960::g_skr0215_1::2月15日::
+100961::g_skr0215_2::Heaven's Feel::
+100962::g_skr0215_3::16 FINAL::
+100963::g_skr_hint::Final route, "Heaven's Feel" is now open.::
+100964::g_rin0203_1::2月3日::
+100965::g_rin0203_2::Unlimited blade works::
+100966::g_rin0203_3::4 One day Ⅲ::
+100967::g_rin0204_1::2月4日::
+100968::g_rin0204_2::Unlimited blade works::
+100969::g_rin0204_3::5 Bonnie And Clyde::
+100970::g_rin0205_1::2月5日::
+100971::g_rin0205_2::Unlimited blade works::
+100972::g_rin0205_3::6 faker::
+100973::g_rin0206_1::2月6日::
+100974::g_rin0206_2::Unlimited blade works::
+100975::g_rin0206_3::7 Ghostwaltz::
+100976::g_rin0207_1::2月7日::
+100977::g_rin0207_2::Unlimited blade works::
+100978::g_rin0207_3::8 Interval Level1::
+100979::g_rin0208_1::2月8日::
+100980::g_rin0208_2::Unlimited blade works::
+100981::g_rin0208_3::9 Mydear,straydead::
+100982::g_rin0209_1::2月9日::
+100983::g_rin0209_2::Unlimited blade works::
+100984::g_rin0209_3::10 strike lovers::
+100985::g_rin0210_1::2月10日::
+100986::g_rin0210_2::Unlimited blade works::
+100987::g_rin0210_3::11 WitchCraft::
+100988::g_rin0211_1::2月11日::
+100989::g_rin0211_2::Unlimited blade works::
+100990::g_rin0211_3::12 moonlight（Ⅱ）::
+100991::g_rin0212_1::2月12日::
+100992::g_rin0212_2::Unlimited blade works::
+100993::g_rin0212_3::13 VS berserker::
+100994::g_rin0213_1::2月13日::
+100995::g_rin0213_2::Unlimited blade works::
+100996::g_rin0213_3::14 Knight stay night::
+100997::g_rin0214_1::2月14日::
+100998::g_rin0214_2::Unlimited blade works::
+100999::g_rin0214_3::15 EDEN::
+101000::g_rin0215_1::2月15日::
+101001::g_rin0215_2::Unlimited blade works::
+101002::g_rin0215_3::16 Answer::
+101003::g_rin_hint::Try again from the night of the 3rd day.::
+101004::g_tw_question::？？？::
+101005::g_tw_iriya::イリヤ::
+101006::g_tw_taiga::タイガ::
+101007::g_tw_yukika::ユキカ::
+101008::g_tw_riz::リズ::
+101009::g_tw_rin::リン::
+101010::g_dt_d1::1::
+101011::g_dt_d2::2::
+101012::g_dt_d3::3::
+101013::g_dt_d4::4::
+101014::g_dt_d5::5::
+101015::g_dt_d6::6::
+101016::g_dt_d7::7::
+101017::g_dt_d8::8::
+101018::g_dt_d9::9::
+101019::g_dt_d10::10::
+101020::g_dt_d11::11::
+101021::g_dt_d12::12::
+101022::g_dt_d13::13::
+101023::g_dt_d14::14::
+101024::g_dt_d15::15::
+101025::g_dt_d31::31::
+101026::g_dt_m1::1::
+101027::g_dt_m2::2::
+101028::g_dt_se0131_1::Fate/stay night::
+101029::g_dt_se0131_2::1 One day Ⅰ::
+101030::g_dt_se0201_1::Fate/stay night::
+101031::g_dt_se0201_2::2 One day Ⅱ::
+101032::g_dt_se0202_1::Fate/stay night::
+101033::g_dt_se0202_2::3 long day,long night::
+101034::g_dt_se0203_1::Fate::
+101035::g_dt_se0203_2::4 Partner::
+101036::g_dt_se0204_1::Fate::
+101037::g_dt_se0204_2::5 New life::
+101038::g_dt_se0205_1::Fate::
+101039::g_dt_se0205_2::6 BLADE::
+101040::g_dt_se0206_1::Fate::
+101041::g_dt_se0206_2::7 Sword & Magic(Ⅰ)::
+101042::g_dt_se0207_1::Fate::
+101043::g_dt_se0207_2::8 Sword & Magic(Ⅱ)::
+101044::g_dt_se0208_1::Fate::
+101045::g_dt_se0208_2::9 NEO::
+101046::g_dt_se0209_1::Fate::
+101047::g_dt_se0209_2::10 skyscraper::
+101048::g_dt_se0210_1::Fate::
+101049::g_dt_se0210_2::11 DragonSlay::
+101050::g_dt_se0212_1::Fate::
+101051::g_dt_se0212_2::12 Interval Level4::
+101052::g_dt_se0213_1::Fate::
+101053::g_dt_se0213_2::13 infinity arms::
+101054::g_dt_se0214_1::Fate::
+101055::g_dt_se0214_2::14 moonlight(Ⅰ)::
+101056::g_dt_se0215_1::Fate::
+101057::g_dt_se0215_2::15 Utopia::
+101058::g_dt_seed_1::Fate::
+101059::g_dt_seed_2::夢の続き::
+101060::g_dt_month::月::
+101061::g_dt_sa0203_1::Heaven's Feel::
+101062::g_dt_sa0203_2::4 Avenger::
+101063::g_dt_sa0204_1::Heaven's Feel::
+101064::g_dt_sa0204_2::5 Omen::
+101065::g_dt_sa0205_1::Heaven's Feel::
+101066::g_dt_sa0205_2::6 beautiful(Ⅰ)::
+101067::g_dt_sa0206_1::Heaven's Feel::
+101068::g_dt_sa0206_2::7 dialogue lost loop::
+101069::g_dt_sa0207_1::Heaven's Feel::
+101070::g_dt_sa0207_2::8 De:light::
+101071::g_dt_sa0208_1::Heaven's Feel::
+101072::g_dt_sa0208_2::9 RAIN::
+101073::g_dt_sa0209_1::Heaven's Feel::
+101074::g_dt_sa0209_2::10 darkwood,sleepingbeauty::
+101075::g_dt_sa0210_1::Heaven's Feel::
+101076::g_dt_sa0210_2::11 beautiful(Ⅱ)::
+101077::g_dt_sa0211_1::Heaven's Feel::
+101078::g_dt_sa0211_2::12 overdose::
+101079::g_dt_sa0212_1::Heaven's Feel::
+101080::g_dt_sa0212_2::13 LAST TALK::
+101081::g_dt_sa0213_1::Heaven's Feel::
+101082::g_dt_sa0213_2::14 servant eater::
+101083::g_dt_sa0214_1::Heaven's Feel::
+101084::g_dt_sa0214_2::15 limited.::
+101085::g_dt_sa0215_1::Heaven's Feel::
+101086::g_dt_sa0215_2::16 FINAL::
+101087::g_dt_saed1_1::Heaven's Feel::
+101088::g_dt_saed1_2::春に帰る::
+101089::g_dt_saed2_1::Heaven's Feel::
+101090::g_dt_saed2_2::櫻の夢::
+101091::g_dt_date::日::
+101092::g_dt_ri0203_1::Unlimited Blade Works::
+101093::g_dt_ri0203_2::4 One day Ⅲ::
+101094::g_dt_ri0204_1::Unlimited Blade Works::
+101095::g_dt_ri0204_2::5 Bonnie And Clyde::
+101096::g_dt_ri0205_1::Unlimited Blade Works::
+101097::g_dt_ri0205_2::6 faker::
+101098::g_dt_ri0206_1::Unlimited Blade Works::
+101099::g_dt_ri0206_2::7 Ghostwaltz::
+101100::g_dt_ri0207_1::Unlimited Blade Works::
+101101::g_dt_ri0207_2::8 interval Level1::
+101102::g_dt_ri0208_1::Unlimited Blade Works::
+101103::g_dt_ri0208_2::9 Mydear,straydead::
+101104::g_dt_ri0209_1::Unlimited Blade Works::
+101105::g_dt_ri0209_2::10 strike lovers::
+101106::g_dt_ri0210_1::Unlimited Blade Works::
+101107::g_dt_ri0210_2::11 WitchCraft::
+101108::g_dt_ri0211_1::Unlimited Blade Works::
+101109::g_dt_ri0211_2::12 moonlight(Ⅱ)::
+101110::g_dt_ri0212_1::Unlimited Blade Works::
+101111::g_dt_ri0212_2::13 VS berserker::
+101112::g_dt_ri0213_1::Unlimited Blade Works::
+101113::g_dt_ri0213_2::14 Knight stay night::
+101114::g_dt_ri0214_1::Unlimited Blade Works::
+101115::g_dt_ri0214_2::15 After image::
+101116::g_dt_ri0215_1::Unlimited Blade Works::
+101117::g_dt_ri0215_2::16 EDEN::
+101118::g_dt_ried1_1::Unlimited Blade Works::
+101119::g_dt_ried1_2::Brilliant Years::
+101120::g_dt_ried2_1::Unlimited Blade Works::
+101121::g_dt_ried2_2::sunny day::
+101122::g_dti0131_0_d_1::Fate/stay night::
+101123::g_dti0131_0_d_2::1 One day Ⅰ::
+101124::g_dti0131_0_u::1月31日::
+101125::g_dti0201_0_d_1::Fate/stay night::
+101126::g_dti0201_0_d_2::2 One day Ⅱ::
+101127::g_dti0201_0_u::2月2日::
+101128::g_dti0202_0_d_1::Fate/stay night::
+101129::g_dti0202_0_d_2::3 long day,long night::
+101130::g_dti0202_0_u::2月2日::
+101131::g_dti0203_0_d_1::Fate::
+101132::g_dti0203_0_d_2::4 Partner::
+101133::g_dti0203_0_u::2月3日::
+101134::g_dti0203_1_d_1::Unlimited Blade Works::
+101135::g_dti0203_1_d_2::4 One day Ⅲ::
+101136::g_dti0203_1_u::2月3日::
+101137::g_dti0203_2_d_1::Heaven's Feel::
+101138::g_dti0203_2_d_2::4 Avenger::
+101139::g_dti0203_2_u::2月3日::
+101140::g_dti0204_0_d_1::Fate::
+101141::g_dti0204_0_d_2::5 New life::
+101142::g_dti0204_0_u::2月4日::
+101143::g_dti0204_1_d_1::Unlimited Blade Works::
+101144::g_dti0204_1_d_2::5 Bonnie And Clyde::
+101145::g_dti0204_1_u::2月4日::
+101146::g_dti0204_2_d_1::Heaven's Feel::
+101147::g_dti0204_2_d_2::5 Omen::
+101148::g_dti0204_2_u::2月4日::
+101149::g_dti0205_0_d_1::Fate::
+101150::g_dti0205_0_d_2::6 BLADE::
+101151::g_dti0205_0_u::2月5日::
+101152::g_dti0205_1_d_1::Unlimited Blade Works::
+101153::g_dti0205_1_d_2::6 faker::
+101154::g_dti0205_1_u::2月5日::
+101155::g_dti0205_2_d_1::Heaven's Feel::
+101156::g_dti0205_2_d_2::6 beautiful(Ⅰ)::
+101157::g_dti0205_2_u::2月5日::
+101158::g_dti0206_0_d_1::Fate::
+101159::g_dti0206_0_d_2::7 Sword & Magic(Ⅰ)::
+101160::g_dti0206_0_u::2月6日::
+101161::g_dti0206_1_d_1::Unlimited Blade Works::
+101162::g_dti0206_1_d_2::7 Ghostwaltz::
+101163::g_dti0206_1_u::2月6日::
+101164::g_dti0206_2_d_1::Heaven's Feel::
+101165::g_dti0206_2_d_2::7 dialogue lost loop::
+101166::g_dti0206_2_u::2月6日::
+101167::g_dti0207_0_d_1::Fate::
+101168::g_dti0207_0_d_2::8 Sword & Magic(Ⅱ)::
+101169::g_dti0207_0_u::2月7日::
+101170::g_dti0207_1_d_1::Unlimited Blade Works::
+101171::g_dti0207_1_d_2::8 interval Level1::
+101172::g_dti0207_1_u::2月7日::
+101173::g_dti0207_2_d_1::Heaven's Feel::
+101174::g_dti0207_2_d_2::8 De:light::
+101175::g_dti0207_2_u::2月7日::
+101176::g_dti0208_0_d_1::Fate::
+101177::g_dti0208_0_d_2::9 NEO::
+101178::g_dti0208_0_u::2月8日::
+101179::g_dti0208_1_d_1::Unlimited Blade Works::
+101180::g_dti0208_1_d_2::9 Mydear,straydead::
+101181::g_dti0208_1_u::2月8日::
+101182::g_dti0208_2_d_1::Heaven's Feel::
+101183::g_dti0208_2_d_2::9 RAIN::
+101184::g_dti0208_2_u::2月8日::
+101185::g_dti0209_0_d_1::Fate::
+101186::g_dti0209_0_d_2::10 skyscraper::
+101187::g_dti0209_0_u::2月9日::
+101188::g_dti0209_1_d_1::Unlimited Blade Works::
+101189::g_dti0209_1_d_2::10 strike lovers::
+101190::g_dti0209_1_u::2月9日::
+101191::g_dti0209_2_d_1::Heaven's Feel::
+101192::g_dti0209_2_d_2::10 darkwood,sleepingbeauty::
+101193::g_dti0209_2_u::2月9日::
+101194::g_dti0210_0_d_1::Fate::
+101195::g_dti0210_0_d_2::11 DragonSlay::
+101196::g_dti0210_0_u::2月10日::
+101197::g_dti0210_1_d_1::Unlimited Blade Works::
+101198::g_dti0210_1_d_2::11 WitchCraft::
+101199::g_dti0210_1_u::2月10日::
+101200::g_dti0210_2_d_1::Heaven's Feel::
+101201::g_dti0210_2_d_2::11 beautiful(Ⅱ)::
+101202::g_dti0210_2_u::2月10日::
+101203::g_dti0211_1_d_1::Unlimited Blade Works::
+101204::g_dti0211_1_d_2::12 moonlight(Ⅱ)::
+101205::g_dti0211_1_u::2月11日::
+101206::g_dti0211_2_d_1::Heaven's Feel::
+101207::g_dti0211_2_d_2::12 overdose::
+101208::g_dti0211_2_u::2月11日::
+101209::g_dti0212_0_d_1::Fate::
+101210::g_dti0212_0_d_2::12 Interval Level4::
+101211::g_dti0212_0_u::2月12日::
+101212::g_dti0212_1_d_1::Unlimited Blade Works::
+101213::g_dti0212_1_d_2::13 VS berserker::
+101214::g_dti0212_1_u::2月12日::
+101215::g_dti0212_2_d_1::Heaven's Feel::
+101216::g_dti0212_2_d_2::13 LAST TALK::
+101217::g_dti0212_2_u::2月12日::
+101218::g_dti0213_0_d_1::Fate::
+101219::g_dti0213_0_d_2::13 infinity arms::
+101220::g_dti0213_0_u::2月13日::
+101221::g_dti0213_1_d_1::Unlimited Blade Works::
+101222::g_dti0213_1_d_2::14 Knight stay night::
+101223::g_dti0213_1_u::2月13日::
+101224::g_dti0213_2_d_1::Heaven's Feel::
+101225::g_dti0213_2_d_2::14 servant eater::
+101226::g_dti0213_2_u::2月13日::
+101227::g_dti0214_0_d_1::Fate::
+101228::g_dti0214_0_d_2::14 moonlight(Ⅰ)::
+101229::g_dti0214_0_u::2月14日::
+101230::g_dti0214_1_d_1::Unlimited Blade Works::
+101231::g_dti0214_1_d_2::15 After image::
+101232::g_dti0214_1_u::2月14日::
+101233::g_dti0214_2_d_1::Heaven's Feel::
+101234::g_dti0214_2_d_2::15 limited.::
+101235::g_dti0214_2_u::2月14日::
+101236::g_dti0215_0_d_1::Fate::
+101237::g_dti0215_0_d_2::15 Utopia::
+101238::g_dti0215_0_u::2月15日::
+101239::g_dti0215_1_d_1::Unlimited Blade Works::
+101240::g_dti0215_1_d_2::16 EDEN::
+101241::g_dti0215_1_u::2月15日::
+101242::g_dti0215_2_d_1::Heaven's Feel::
+101243::g_dti0215_2_d_2::16 FINAL::
+101244::g_dti0215_2_u::2月15日::
+101245::g_fate2::Fate::
+101246::g_g_tw_kaede::カエデ::
+101247::g_typemoon::TYPE-MOON PRESENTS::
+101248::g_intld03-0::interlude 3-0::
+101249::g_intld04-1ri_1::interlude 4-1::
+101250::g_intld04-1ri_2::Unlimited Blade Works.::
+101251::g_intld05-1sa_1::interlude 5-1::
+101252::g_intld05-1sa_2::Heaven's Feel.::
+101253::g_intld05-2sa_1::interlude 5-2::
+101254::g_intld05-2sa_2::Heaven's Feel.::
+101255::g_intld06-1se_1::interlude 6-1::
+101256::g_intld06-1se_2::Fate.::
+101257::g_intld06-1sa_1::interlude 6-1::
+101258::g_intld06-1sa_2::Heaven's Feel.::
+101259::g_intld06-1ri_1::interlude 6-1::
+101260::g_intld06-1ri_2::Unlimited Blade Works.::
+101261::g_intld06-2se_1::interlude 6-2::
+101262::g_intld06-2se_2::Fate.::
+101263::g_intld07-1sa_1::interlude 7-1::
+101264::g_intld07-1sa_2::Heaven's Feel.::
+101265::g_intld07-2sa_1::interlude 7-2::
+101266::g_intld07-2sa_2::Heaven's Feel.::
+101267::g_intld08-1sa_1::interlude 8-1::
+101268::g_intld08-1sa_2::Heaven's Feel.::
+101269::g_intld08-1ri_1::interlude 8-1::
+101270::g_intld08-1ri_2::Unlimited Blade Works.::
+101271::g_intld08-2sa_1::interlude 8-2::
+101272::g_intld08-2sa_2::Heaven's Feel.::
+101273::g_intld08-3sa_1::interlude 8-3::
+101274::g_intld08-3sa_2::Heaven's Feel.::
+101275::g_intld08-4sa_1::interlude 8-4::
+101276::g_intld08-4sa_2::Heaven's Feel.::
+101277::g_intld09-1sa_1::interlude 9-1::
+101278::g_intld09-1sa_2::Heaven's Feel.::
+101279::g_intld09-1ri_1::interlude 9-1::
+101280::g_intld09-1ri_2::Unlimited Blade Works.::
+101281::g_intld09-2sa_1::interlude 9-2::
+101282::g_intld09-2sa_2::Heaven's Feel.::
+101283::g_intld09-2ri_1::interlude 9-2::
+101284::g_intld09-2ri_2::Unlimited Blade Works.::
+101285::g_intld09-3sa_1::interlude 9-3::
+101286::g_intld09-3sa_2::Heaven's Feel.::
+101287::g_intld09-3ri_1::interlude 9-3::
+101288::g_intld09-3ri_2::Unlimited Blade Works.::
+101289::g_intld10-1se_1::interlude 10-1::
+101290::g_intld10-1se_2::Fate.::
+101291::g_intld10-1sa_1::interlude 10-1::
+101292::g_intld10-1sa_2::Heaven's Feel.::
+101293::g_intld10-2sa_1::interlude 10-2::
+101294::g_intld10-2sa_2::Heaven's Feel.::
+101295::g_intld10-3sa_1::interlude 10-3::
+101296::g_intld10-3sa_2::Heaven's Feel.::
+101297::g_intld10-4sa_1::interlude 10-4::
+101298::g_intld10-4sa_2::Heaven's Feel.::
+101299::g_intld10-5sa_1::interlude 10-5::
+101300::g_intld10-5sa_2::Heaven's Feel.::
+101301::g_intld11-1se_1::interlude 11-1::
+101302::g_intld11-1se_2::Fate.::
+101303::g_intld11-1sa_1::interlude 11-1::
+101304::g_intld11-1sa_2::Heaven's Feel.::
+101305::g_intld11-1ri_1::interlude 11-1::
+101306::g_intld11-1ri_2::Unlimited Blade Works.::
+101307::g_intld11-2sa_1::interlude 11-2::
+101308::g_intld11-2sa_2::Heaven's Feel.::
+101309::g_intld11-2ri_1::interlude 11-2::
+101310::g_intld11-2ri_2::Unlimited Blade Works.::
+101311::g_intld12-1sa_1::interlude 12-1::
+101312::g_intld12-1sa_2::Heaven's Feel.::
+101313::g_intld12-1ri_1::interlude 12-1::
+101314::g_intld12-1ri_2::Unlimited Blade Works.::
+101315::g_intld12-2sa_1::interlude 12-2::
+101316::g_intld12-2sa_2::Heaven's Feel.::
+101317::g_intld12-2ri_1::interlude 12-2::
+101318::g_intld12-2ri_2::Unlimited Blade Works.::
+101319::g_intld12-3sa_1::interlude 12-3::
+101320::g_intld12-3sa_2::Heaven's Feel.::
+101321::g_intld13-1sa_1::interlude 13-1::
+101322::g_intld13-1sa_2::Heaven's Feel.::
+101323::g_intld13-1ri_1::interlude 13-1::
+101324::g_intld13-1ri_2::Unlimited Blade Works.::
+101325::g_intld13-2sa_1::interlude 13-2::
+101326::g_intld13-2sa_2::Heaven's Feel.::
+101327::g_intld13-2ri_1::interlude 13-2::
+101328::g_intld13-2ri_2::Unlimited Blade Works.::
+101329::g_intld14-1sa_1::interlude 14-1::
+101330::g_intld14-1sa_2::Heaven's Feel.::
+101331::g_intld14-1ri_1::interlude 14-1::
+101332::g_intld14-1ri_2::Unlimited Blade Works.::
+101333::g_intld14-2sa_1::interlude 14-2::
+101334::g_intld14-2sa_2::Heaven's Feel.::
+101335::g_intld14-2ri_1::interlude 14-2::
+101336::g_intld14-2ri_2::Unlimited Blade Works.::
+101337::g_intld14-3sa_1::interlude 14-3::
+101338::g_intld14-3sa_2::Heaven's Feel.::
+101339::g_intld14-3ri_1::interlude 14-3::
+101340::g_intld14-3ri_2::Unlimited Blade Works.::
+101341::g_intld14-4sa_1::interlude 14-4::
+101342::g_intld14-4sa_2::Heaven's Feel.::
+101343::g_intld15-1se_1::interlude 15-1::
+101344::g_intld15-1se_2::Fate.::
+101345::g_intld15-1sa_1::interlude 15-1::
+101346::g_intld15-1sa_2::Heaven's Feel.::
+101347::g_intld15-1ri_1::interlude 15-1::
+101348::g_intld15-1ri_2::Unlimited Blade Works.::
+101349::g_intld15-2se_1::interlude 15-2::
+101350::g_intld15-2se_2::Fate.::
+101351::g_intld15-2sa_1::interlude 15-2::
+101352::g_intld15-2sa_2::Heaven's Feel.::
+101353::g_intld15-2ri_1::interlude 15-2::
+101354::g_intld15-2ri_2::Unlimited Blade Works.::
+101355::g_intld15-3sa_1::interlude 15-3::
+101356::g_intld15-3sa_2::Heaven's Feel.::
+101357::g_intld15-3ri_1::interlude 15-3::
+101358::g_intld15-3ri_2::Unlimited Blade Works.::
+101359::g_intld15-4sa_1::interlude 15-4::
+101360::g_intld15-4sa_2::Heaven's Feel::
+101361::g_intld16-1sa_1::interlude 16-1::
+101362::g_intld16-1sa_2::Heaven's Feel.::
+101363::g_intld16-1ri_1::interlude 16-1::
+101364::g_intld16-1ri_2::Unlimited Blade Works.::
+101365::g_intld16-2sa_1::interlude 16-2::
+101366::g_intld16-2sa_2::Heaven's Feel.::
+101367::g_intld16-2ri::Answer::
+101368::g_intld16-3sa_1::Answer::
+101369::g_intld16-3sa_2::Heaven's Feel.::
+101370::g_intld16-4sa_1::interlude 16-4::
+101371::g_intld16-4sa_2::Heaven's Feel.::
+101372::g_intld_out::interlude out::
+101373::g_tigercaution::タイガー道場はへんてこヒントコーナーです。	自力でゲームをクリアしたい方、	本編のキャライメージを大切にしたい方はご注意ください。::
+101374::g_letext001::「ただいま、セイバー」::
+101375::title00_17::R　E　M　A　S　T　E　R　E　D::
+101376::g_date_1_31::January 31st::
+101377::g_date_2_01::February 1st::
+101378::g_date_2_02::February 2nd::
+101379::g_date_2_03::February 3rd::
+101380::g_date_2_04::February 4th::
+101381::g_date_2_05::February 5th::
+101382::g_date_2_06::February 6th::
+101383::g_date_2_07::February 7th::
+101384::g_date_2_08::February 8th::
+101385::g_date_2_09::February 9th::
+101386::g_date_2_10::February 10th::
+101387::g_date_2_11::February 11th::
+101388::g_date_2_12::February 12th::
+101389::g_date_2_13::February 13th::
+101390::g_date_2_14::February 14th::
+101391::g_date_2_15::February 15th::
+101392::g_saed_font01-1::The battle is over.::
+101393::g_saed_font01-2::Let us put our swords down, and rest in the momentary peace.::
+101394::g_saed_font01-3::After dozing in a warm dream, a new day will dawn.::
+101395::g_saed_font01-4::The days continue on...::
+101396::g_saed_font01-5::And we are still following the same star we once saw.::
+101397::g_sked_font01-1::So the winter went by, and spring came along.::
+101398::g_sked_font01-2::Nature is in its full bloom, and there is nothing left that reminds you of::
+101399::g_sked_font01-3::the hard cold days.::
+101400::g_sked_font01-4::Stash away both what you lost and gained, for life continues on.::
+101401::g_sked_font01-5::Now then...::
+101402::g_sked_font01-6::The story that unraveled in this town has reached its conclusion.::
+101403::g_sked_font01-7::New stages and people are waiting for us...::
+101404::g_rned_font01-1::Walking with the wind blowing on your face.::
+101405::g_rned_font01-2::Walking towards the future.::
+101406::g_rned_font01-3::Busy days with no compass to guide you.::
+101407::g_rned_font01-4::After traveling to distant exotic countries...::
+101408::g_rned_font01-5::You will return to where you belong, one sunny day.::�

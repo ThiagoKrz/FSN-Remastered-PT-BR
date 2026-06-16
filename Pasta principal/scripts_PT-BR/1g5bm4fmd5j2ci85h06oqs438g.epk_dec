@@ -1,0 +1,146 @@
+DAT
+id=qid::label=str::text=lstr::
+75132::$$$message_0691_0000_0000$$$::Foi uma caminhada de alguns minutos desde a rodovia.[lr]::
+75133::$$$message_0691_0000_0001$$$::Apesar de nunca ter visto pessoalmente, a entrada da floresta parece familiar. É branca como a neblina matinal, mesmo durante o dia.[lr]::
+75134::$$$message_0691_0000_0002$$$::A fraca luz do Sol e a neblina roubam o sensação de tempo desse lugar.::
+75135::$$$message_0691_0001_0000$$$::"...Uau. Eu vou mesmo ficar bem?"[lr]::
+75136::$$$message_0691_0001_0001$$$::Não consigo acreditar no quão imprudente eu estou sendo.[lr]::
+75137::$$$message_0691_0001_0002$$$::Eu não me perdi naquela vez porque estava vendo tudo através da Illya, mas isso não é algo que consigo fazer usando apenas a memória.::
+75138::$$$message_0691_0002_0000$$$::"[w l=3][line3]Não, eu posso reclamar depois. Estou desesperado, então preciso enfrentar isso."[lr]::
+75139::$$$message_0691_0002_0001$$$::Eu me encorajo e coloco a bolsa de shinai sobre o meu ombro.::
+75140::$$$message_0691_0003_0000$$$::Já passou do meio-dia.[lr]::
+75141::$$$message_0691_0003_0001$$$::Leva cerca de quatro horas para chegar ao castelo da Illya a partir daqui, de acordo com o que eu vi.[lr]::
+75142::$$$message_0691_0003_0002$$$::Agora eu só posso depender da minha força física, memória e habilidades de recordação.[w l=4][line4]::
+75143::$$$message_0691_0004_0000$$$::Eu ando pela floresta.[lr]::
+75144::$$$message_0691_0004_0001$$$::O cheiro de seiva é um pouco sufocante.[lr]::
+75145::$$$message_0691_0004_0002$$$::É cansativo andar no caminho sem asfalto.::
+75146::$$$message_0691_0005_0000$$$::Já se passaram duas horas, e acho que estou seguindo o caminho que a Illya me mostrou.[lr]::
+75147::$$$message_0691_0005_0001$$$::Mas é preocupante que não haja nenhum jeito de confirmar que eu estou no caminho certo.::
+75148::$$$message_0691_0006_0000$$$::Eu posso continuar caminhando o dia todo por causa do meu treinamento, mas o cansaço mental está lentamente acabando com a minha energia.[lr]::
+75149::$$$message_0691_0006_0001$$$::Se não me falha a memória, ainda faltam duas horas de caminhada.[lr]::
+75150::$$$message_0691_0006_0002$$$::Eu consigo imaginar o que vai acontecer se eu não chegar ao castelo nesse tempo.[lr]::
+75151::$$$message_0691_0006_0003$$$::Meu limite físico não é pouco, mas eu vou cometer erros triviais com uma mente perturbada.::
+75152::$$$message_0691_0007_0000$$$::Reidratação e monitoramento da sua condição atual são suas maiores prioridades durante uma escalada de montanhas, e você precisa se preocupar com qual pé vai usar e a profundidade da pedra que está escalando.::
+75153::$$$message_0691_0008_0000$$$::Apesar da floresta não ser perigosa como uma montanha, esse lugar tem tipos diferentes de perigo.[lr]::
+75154::$$$message_0691_0008_0001$$$::Perder o seu senso de direção, não saber onde você está...[lr]::
+75155::$$$message_0691_0008_0002$$$::Tem o perigo de se perder, e ninguém sabe que tipo de animal você pode encontrar.::
+75156::$$$message_0691_0009_0000$$$::Os animais vivendo nessa floresta imensa provavelmente têm o seu território.[lr]::
+75157::$$$message_0691_0009_0001$$$::Quando as pessoas entram nesses territórios, elas geralmente são atacadas.::
+75158::$$$message_0691_0010_0000$$$::Andar sem rumo é como pedir para ser atacado, e até mesmo uma trilha em linha reta de um animal deve ser evitada de tempos em tempos.[lr]::
+75159::$$$message_0691_0010_0001$$$::Felizmente, parece que não tem nenhuma cobra vivendo nessa floresta.[lr]::
+75160::$$$message_0691_0010_0002$$$::Tudo o que vejo são trilhas de cachorros selvagens, e até elas são raras.::
+75161::$$$message_0691_0011_0000$$$::Aposto que não tem muitos animais vivendo aqui por causa da magia dos Einzberns nessa floresta.[lr]::
+75162::$$$message_0691_0011_0001$$$::Mas tem alguns cães selvagens, e ainda pode ter coisa muito pior.::
+75163::$$$message_0691_0012_0000$$$::"[w l=3][line3]Ah, esse caminho é ruim. Vou precisar tomar cuidado na hora de voltar para casa."::
+75164::$$$message_0691_0013_0000$$$::Eu dou a volta no bosque onde pode ter um animal escondido e continuo caminhando, indo de acordo com a minha memória.[lr]::
+75165::$$$message_0691_0013_0001$$$::Discrição é a melhor parte da bravura.[lr]::
+75166::$$$message_0691_0013_0002$$$::É uma regra de ouro evitar locais perigosos ao invés de esperar o perigo te confrontar para então fugir.::
+75167::$$$message_0691_0014_0000$$$::"...Mas ainda assim... Essa floresta parece diferente daquela que a Illya me mostrou."::
+75168::$$$message_0691_0015_0000$$$::...O ar ao meu redor parece diferente.[lr]::
+75169::$$$message_0691_0015_0001$$$::Um calafrio percorre a minha espinha a cada passo que eu dou.[lr]::
+75170::$$$message_0691_0015_0002$$$::[w l=3][line3]Não avance mais.[lr]::
+75171::$$$message_0691_0015_0003$$$::[w l=3][line3]Saia dessa floresta agora.[lr]::
+75172::$$$message_0691_0015_0004$$$::[w l=3][line3]Ninguém vai sair vivo dessa floresta hoje.[lr]::
+75173::$$$message_0691_0015_0005$$$::Sinto como se as árvores estivessem me alertando.::
+75174::$$$message_0691_0016_0000$$$::"[w l=5][line5]Pensando bem, esse cheiro é..."[lr]::
+75175::$$$message_0691_0016_0001$$$::Eu pensei que fosse seiva de árvore, mas não é bem isso.[lr]::
+75176::$$$message_0691_0016_0002$$$::...O cheiro doce não é nem um pouco parecido com o da floresta.[lr]::
+75177::$$$message_0691_0016_0003$$$::Isso é[w l=4][line4][lr]::
+75178::$$$message_0691_0016_0004$$$::[w l=4][line4]Provavelmente...::
+75179::$$$message_0691_0017_0000$$$::"[w l=6][line6]Espera."[lr]::
+75180::$$$message_0691_0017_0001$$$::Eu pego uma das espadas de madeira.[lr]::
+75181::$$$message_0691_0017_0002$$$::...Eu paro, me concentro e a fortaleço em poucos minutos.::
+75182::$$$message_0691_0018_0000$$$::"[w l=5][line5]Tem alguma coisa vindo."[lr]::
+75183::$$$message_0691_0018_0001$$$::...Eu ouço pegadas do outro lado da mata.[lr]::
+75184::$$$message_0691_0018_0002$$$::Eu ouço sons entre os galhos balançando.::
+75185::$$$message_0691_0019_0000$$$::"[w l=8][line8]"[lr]::
+75186::$$$message_0691_0019_0001$$$::...Está vindo.[lr]::
+75187::$$$message_0691_0019_0002$$$::Ele sai e vem na minha direção[w l=4][line4]!::
+75188::$$$message_0691_0020_0000$$$::Eu levanto a minha espada de madeira.[lr]::
+75189::$$$message_0691_0020_0001$$$::Com os meus braços tensos, eu aperto a espada e me preparo.[lr]::
+75190::$$$message_0691_0020_0002$$$::"Parado aí, não se mexa[w l=4][line4]!"[lr]::
+75191::$$$message_0691_0020_0003$$$::"Ei você, não se mexa[w l=4][line4]!"[lr]::
+75192::$$$message_0691_0020_0004$$$::Nós dois congelamos.::
+75193::$$$message_0691_0021_0000$$$::"......"[lr]::
+75194::$$$message_0691_0021_0001$$$::"......"[lr]::
+75195::$$$message_0691_0021_0002$$$::............Bem.[lr]::
+75196::$$$message_0691_0021_0003$$$::Como eu deveria reagir nessa situação?::
+75197::$$$message_0691_0022_0000$$$::"...Ei. Pode abaixar isso? Você não está numa casa mal assombrada, sabia?"[lr]::
+75198::$$$message_0691_0022_0001$$$::...A Tohsaka baixa a guarda primeiro.::
+75199::$$$message_0691_0023_0000$$$::"Ah, desculpa."[lr]::
+75200::$$$message_0691_0023_0001$$$::Eu faço o mesmo que ela.::
+75201::$$$message_0691_0024_0000$$$::"...Hmph. Que lugar estranho pra te encontrar.[lr]::
+75202::$$$message_0691_0024_0001$$$::Acho que seria melhor perguntar, mas você não está procurando por locais para fazer um piquenique, né?"[lr]::
+75203::$$$message_0691_0024_0002$$$::"É claro que não. E quanto a você? Você não é do tipo que faz caminhadas numa floresta. O que está planejando?"::
+75204::$$$message_0691_0025_0000$$$::"Que grosseria, eu faço caminhadas em florestas também. Bem, meu assunto aqui é outro."[lr]::
+75205::$$$message_0691_0025_0001$$$::A Tohsaka reclama.[lr]::
+75206::$$$message_0691_0025_0002$$$::Mas a parte surpreendente é que ela não negou que está planejando alguma coisa.::
+75207::$$$message_0691_0026_0000$$$::"[w l=4][line4]Tohsaka. Você está planejando lutar contra a Illya?"[lr]::
+75208::$$$message_0691_0026_0001$$$::Eu vou direto ao assunto.::
+75209::$$$message_0691_0027_0000$$$::"...E se eu estiver? Você não é mais um Mestre. Por isso, você não tem o direito ou o dever de se intrometer na nossa batalha."[lr]::
+75210::$$$message_0691_0027_0001$$$::"[w l=4][line4]Eu não tenho. Mas se você pretende lutar contra a Illya, eu vou te impedir."::
+75211::$$$message_0691_0028_0000$$$::"Por quê? Você está planejando fazer a Illya se aliar com a Sakura?"[lr]::
+75212::$$$message_0691_0028_0001$$$::"Esse é um dos motivos. Mas você não vai sair ilesa se lutar contra a Illya. Uma de vocês duas vai se ferir se acabarem lutando. Eu não gosto disso. Em primeiro lugar, eu..."::
+75213::$$$message_0691_0029_0000$$$::"Você decidiu lutar para acabar com as batalhas, não é? Vejo que não desistiu dessa ideia."[lr]::
+75214::$$$message_0691_0029_0001$$$::Parando com o seu tom de voz afiado, a Tohsaka encolhe os ombros em aceitação.::
+75215::$$$message_0691_0030_0000$$$::"......Ah."[lr]::
+75216::$$$message_0691_0030_0001$$$::Essa é a verdadeira face da Tohsaka que ela tinha antes disso tudo acontecer com a Sakura.::
+75217::$$$message_0691_0031_0000$$$::"O que foi? Eu não posso mudar assim tão fácil porque é algo que já decidi."::
+75218::$$$message_0691_0032_0000$$$::"Foi como eu pensei. Nossa, eu já suspeitava faz um tempo, mas..."[lr]::
+75219::$$$message_0691_0032_0001$$$::Eu não sei por quê.[lr]::
+75220::$$$message_0691_0032_0002$$$::Mas a Tohsaka dá um suspiro exagerado...[lr]::
+75221::$$$message_0691_0032_0003$$$::"Você é mesmo idiota, né, Emiya-kun?"[lr]::
+75222::$$$message_0691_0032_0004$$$::...E dá um sorriso que pega até eu de surpresa.::
+75223::$$$message_0691_0033_0000$$$::"O qu[w l=4][line4]"[lr]::
+75224::$$$message_0691_0033_0001$$$::"Mas isso é bom. Você nunca aprende a lição, mas isso é o que eu espero de você. Como uma pessoa desajeitada, você deve fazer o seu melhor."::
+75225::$$$message_0691_0034_0000$$$::"O que há com essa expressão arrogante!? Está me irritando!"::
+75226::$$$message_0691_0035_0000$$$::"Calma, calma. Então, acredito que você tenha algum assunto a tratar com a Illyasviel também. Você está mesmo planejando falar com ela?"[lr]::
+75227::$$$message_0691_0035_0001$$$::Estou bravo, mas a Tohsaka apenas olha para mim com um sorriso no rosto.::
+75228::$$$message_0691_0036_0000$$$::"Hm[w l=4][line4]"[lr]::
+75229::$$$message_0691_0036_0001$$$::...Droga.[lr]::
+75230::$$$message_0691_0036_0002$$$::Eu não sei por que, mas nunca consigo lidar com a Tohsaka nessas situações. Sinto como se eu fosse me encurralar mais ainda não importa o que disser.::
+75231::$$$message_0691_0037_0000$$$::"...? Por que está tão quieto assim de repente? Não é normal você ficar assim."[lr]::
+75232::$$$message_0691_0037_0001$$$::".......Heh. Sim, você está certa. Eu estou indo ver a Illya, então não me enche o saco. Se você tentar me seguir, eu vou te espantar pra longe."::
+75233::$$$message_0691_0038_0000$$$::"Hã? Ah, então você sabe onde a Illyasviel mora?"[lr]::
+75234::$$$message_0691_0038_0001$$$::"Ah."[lr]::
+75235::$$$message_0691_0038_0002$$$::Droga.[lr]::
+75236::$$$message_0691_0038_0003$$$::Eu e minha boca grande.::
+75237::$$$message_0691_0039_0000$$$::"Ótimo, pode me levar lá?[lr]::
+75238::$$$message_0691_0039_0001$$$::Eu sei a localização geral, mas o meu mapa é bastante antigo e não dá para confiar muito nele. Seria excelente se você soubesse onde fica."[lr]::
+75239::$$$message_0691_0039_0002$$$::"[w l=4][line4]Ei. Eu te disse para não me seguir."::
+75240::$$$message_0691_0040_0000$$$::"Ah. Você vai mesmo me deixar livre por aí enquanto caminha até a Illyasviel para conversar com ela? Se eu encontrá-la primeiro, ela vai ficar ocupada demais para falar contigo."::
+75241::$$$message_0691_0041_0000$$$::"...! V-Você está me ameaçando!?[lr]::
+75242::$$$message_0691_0041_0001$$$::Em primeiro lugar, você vai lutar contra ela mesmo se a gente for junto, não vai!?"::
+75243::$$$message_0691_0042_0000$$$::"Não irei. Seria melhor se pudéssemos cooperar com ela. Nossa prioridade é matar o Zouken, certo? Eu vim aqui para avisá-la."[lr]::
+75244::$$$message_0691_0042_0001$$$::"[w l=4][line4]! Avisar ela sobre o quê?"::
+75245::$$$message_0691_0043_0000$$$::"Matou Zouken está planejando alguma coisa, por isso eu vou avisá-la para não baixar a guarda. Você lembra o que houve com a Caster, né? Será muito desvantajoso se o mesmo acontecer com o Berserker.[lr]::
+75246::$$$message_0691_0043_0001$$$::Mas eu estava pronta para lutar apesar de ter vindo apenas para avisá-la. Considerando nós duas, não podemos simplesmente conversar.[lr]::
+75247::$$$message_0691_0043_0002$$$::Eu pensei que era inevitável que a gente acabasse lutando depois de avisá-la. Eu terei que derrotá-la eventualmente, é apenas uma questão de tempo, não acha?"::
+75248::$$$message_0691_0044_0000$$$::"Mas parece que você tem alguma expectativa. Então eu não preciso me arriscar, e as coisas podem terminar pacificamente dependendo dos seus esforços."[lr]::
+75249::$$$message_0691_0044_0001$$$::"[w l=8][line8]"::
+75250::$$$message_0691_0045_0000$$$::"Ei, não faça essa cara! Eu vou embora sem fazer nada se você puder convencer a Illyasviel.[lr]::
+75251::$$$message_0691_0045_0001$$$::Mas se você falhar, nós podemos derrotá-la juntos ou eu então posso ajudar a gente a escapar. Que tal? É um bom acordo, não acha?"::
+75252::$$$message_0691_0046_0000$$$::"...Com ou sem acordo, você vai me seguir de qualquer jeito, não vai?"[lr]::
+75253::$$$message_0691_0046_0001$$$::"É claro que não, que acusação falsa. Acontece que estamos indo na mesma direção, só isso."::
+75254::$$$message_0691_0047_0000$$$::"......"[lr]::
+75255::$$$message_0691_0047_0001$$$::Ela é um demônio.[lr]::
+75256::$$$message_0691_0047_0002$$$::Mas ela vai me dar ouvidos contanto que eu a esteja guiando.[lr]::
+75257::$$$message_0691_0047_0003$$$::A Tohsaka vai lutar contra a Illya se eu deixá-la solta por aí, mas ela vai ficar quieta se eu levá-la comigo.::
+75258::$$$message_0691_0048_0000$$$::"[w l=4][line4]Já vou logo avisando que não tenho certeza se estou no caminho certo, está bem?[lr]::
+75259::$$$message_0691_0048_0001$$$::Não reclame se a gente se perder."[lr]::
+75260::$$$message_0691_0048_0002$$$::"Não se preocupe. Você está indo exatamente para onde o meu mapa aponta. Com você e o meu mapa nos guiando, nós não vamos nos perder."::
+75261::$$$message_0691_0049_0000$$$::"[w l=8][line8]"[lr]::
+75262::$$$message_0691_0050_0000$$$::"Tá bom, eu desisto. Vamos para o castelo juntos. Você não vai lutar contra a Illya, né?"[lr]::
+75263::$$$message_0691_0050_0001$$$::"Sim, eu não vou interferir na sua conversa com ela. Ela é problemática como a sua inimiga, mas pode ser confiável como a [r]sua[w l=4][line4]" [wsay canskip=1]::
+75264::$$$message_0691_0051_0000$$$::"Um terremoto...!?"[lr]::
+75265::$$$message_0691_0051_0001$$$::As árvores balançam.[lr]::
+75266::$$$message_0691_0051_0002$$$::Eu ouço explosões ao longe.[lr]::
+75267::$$$message_0691_0051_0003$$$::...Não.[lr]::
+75268::$$$message_0691_0051_0004$$$::Isso não é um terremoto. Algo como um furacão está passando por perto[w l=4][line4]::
+75269::$$$message_0691_0052_0000$$$::"Tohsaka, isso é...!"[lr]::
+75270::$$$message_0691_0052_0001$$$::"[w l=4][line4]Berserker. Acho que chegamos um pouco atrasado."::
+75271::$$$message_0691_0053_0000$$$::"O qu... Então é o Berserker que está causando isso!?"[lr]::
+75272::$$$message_0691_0053_0001$$$::"Sim. Nós estamos aqui, então só resta uma pessoa que possa estar lutando contra o Berserker. ...O que você vai fazer? Eu estou indo, você vai ficar aqui?"::
+75273::$$$message_0691_0054_0000$$$::Não há tempo para pensar.[lr]::
+75274::$$$message_0691_0054_0001$$$::Eu...[lr]::
+

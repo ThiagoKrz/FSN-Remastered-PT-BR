@@ -1,0 +1,174 @@
+DAT
+id=qid::label=str::text=lstr::
+52783::$$$message_0455_0000_0000$$$::...é.[lr]::
+52784::$$$message_0455_0000_0001$$$::Fiz ela esperar aqui no frio, então o mínimo que posso fazer é ajudá-la a se esquentar.::
+52785::$$$message_0455_0001_0000$$$::"Tenho uma proposta, Illya."[lr]::
+52786::$$$message_0455_0001_0001$$$::"O que? Não vou cair na sua lábia."::
+52787::$$$message_0455_0002_0000$$$::"Certo. Por isso pedirei desculpas atráves das minhas ações.[lr]::
+52788::$$$message_0455_0002_0001$$$::Quer ir na minha casa? Posso te oferecer um pouco de chá quente e um lanche."::
+52789::$$$message_0455_0003_0000$$$::"Huh[w l=4][line4]como assim sua casa!?"[lr]::
+52790::$$$message_0455_0003_0001$$$::"Onde mais? Não tem ninguém em casa[w l=3][line3]digo, tem a Saber, mas não vou deixar ela te atacar.[lr]::
+52791::$$$message_0455_0003_0002$$$::Acho que beber chá em casa de vez em quando faz bem."::
+52792::$$$message_0455_0004_0000$$$::"Hm... pode ser bom, mas... posso mesmo ir até a sua casa?"::
+52793::$$$message_0455_0005_0000$$$::"Claro. Além disso, você me mostrou seu castelo no outro dia. É minha vez agora."[lr]::
+52794::$$$message_0455_0005_0001$$$::"......sim. Você disse isso."[lr]::
+52795::$$$message_0455_0005_0002$$$::Ela parece estar tentando se convencer.::
+52796::$$$message_0455_0006_0000$$$::Então...[lr]::
+52797::$$$message_0455_0006_0001$$$::"Posso mesmo ir até sua casa? Eu vim aqui matar você e o Kiritsugu. Tal pessoa pode mesmo entrar em sua casa?"[lr]::
+52798::$$$message_0455_0006_0002$$$::Illya me pergunta, sem emoção.::
+52799::$$$message_0455_0007_0000$$$::"[w l=8][line8]"[lr]::
+52800::$$$message_0455_0007_0001$$$::Não sei quanto peso foi posto nestas palavras.[lr]::
+52801::$$$message_0455_0007_0002$$$::A garota Einzbern que veio matar meu pai.[lr]::
+52802::$$$message_0455_0007_0003$$$::Por que ela está atrás dele, por que ela quer me matar...[lr]::
+52803::$$$message_0455_0007_0004$$$::...sei de tudo isso.::
+52804::$$$message_0455_0008_0000$$$::O homem que traiu os Einzberns.[lr]::
+52805::$$$message_0455_0008_0001$$$::Kiritsugu abandonou tudo e começou a viver aqui, nesta cidade.[lr]::
+52806::$$$message_0455_0008_0002$$$::[w l=3][line3]Não descobri todos os sacrifícios que tornou essa vida possível até me tornar um Mestre.::
+52807::$$$message_0455_0009_0000$$$::Illya não deveria perdoá-lo, e ela quer mesmo me matar.[lr]::
+52808::$$$message_0455_0009_0001$$$::Eu devo convidar ela para minha casa apesar disso... não, devo por conta disso.::
+52809::$$$message_0455_0010_0000$$$::"[w l=3][line3]Sim. Esse lance de Mestre não importa agora. Só quero que você venha."[lr]::
+52810::$$$message_0455_0010_0001$$$::Respondo-a enquanto encaro seus olhos.::
+52811::$$$message_0455_0011_0000$$$::"[w l=8][line8]"[lr]::
+52812::$$$message_0455_0011_0001$$$::A Illya fica boquiaberta, me olha chocada, e...[lr]::
+52813::$$$message_0455_0011_0002$$$::"[w l=4][line4]Okay! Obrigado, Onii-chan!"[lr]::
+52814::$$$message_0455_0011_0003$$$::Me abraça com um grande sorriso.::
+52815::$$$message_0455_0012_0000$$$::"[w l=3][line3]Certo. Me espera aqui um pouco, Illya. Tenho que ir convencer a Saber."[lr]::
+52816::$$$message_0455_0012_0001$$$::Rolo as minhas mangas e olho para a entrada.::
+52817::$$$message_0455_0013_0000$$$::"Vá em frente, Shirou! Boa sorte!"[lr]::
+52818::$$$message_0455_0013_0001$$$::A Illya acena e me apoia.[lr]::
+52819::$$$message_0455_0013_0002$$$::Certo![lr]::
+52820::$$$message_0455_0013_0003$$$::Tenho que convencê-la não importa o que.::
+52821::$$$message_0455_0014_0000$$$::"Me recuso."[lr]::
+52822::$$$message_0455_0014_0001$$$::Bem, foi rápido.::
+52823::$$$message_0455_0015_0000$$$::"[w l=3][line3]! Bem, entendo como se sente. Sei o que quer dizer.[lr]::
+52824::$$$message_0455_0015_0001$$$::Quer me dizer que é suicídio convidar a Mestra de Berserker em nossa casa, certo? Entendo, de verdade. Mas deixe isso de lado por um momento[w l=4][line4]"::
+52825::$$$message_0455_0016_0000$$$::"Não, não entende! É da Illyasviel que estamos falando! Uma Mestra desse calibre facilmente detectaria as fraquezas deste lugar! Seria fácil pra ela destruir o Campo Limitado! Mas ainda quer convidá-la!? Isso não é só questão de convidar sua inimiga! Você está prestes a beber veneno por vontade própria!"::
+52826::$$$message_0455_0016_0001$$$::"...M-Mas a Illya prometeu que não faria nada. E ela nem mesmo está com o Berserker. Ela disse que não lutaria até o anoitecer. E ela é só uma garotinha, então não fique brava com um assunto tão trivial."[normal]::
+52827::$$$message_0455_0016_0002$$$::com ela, e ela diz que não vai lutar antes do pôr do sol. No momento, ela é apenas uma garota,::
+52828::$$$message_0455_0016_0003$$$::então eu não acho que você precisa criticá-la assim."::
+52829::$$$message_0455_0017_0000$$$::"O gênero dela pouco importa! Primeiramente, o que você esteve fazendo com ela por trás das minhas costar!? Você quase foi morto por ela. E agora demonstra preocupação com ela? Isso não é ser bondoso, é ser idiota!"::
+52830::$$$message_0455_0017_0001$$$::"Ugh... Mas a Illya é uma boa pessoa quando você a conhece.[normal][lr]::
+52831::$$$message_0455_0017_0002$$$::Ela só não sabe a diferença entre o bem e o mau, então só temos que ensiná-la o qual é qual..."[normal]::
+52832::$$$message_0455_0018_0000$$$::"Você é otimista demais! Está só levando a palavra dela em conta, Shirou!? A família dela só existe para obter o Santo Graa. Ela vai quebrar a promessa dela contigo sem pensar duas vezes!"::
+52833::$$$message_0455_0018_0001$$$::"...! I-Isso não é verdade! Você está indo longe demais, Saber. A Illya é a Illya. Não sei como esses Einzberns são, mas não trate-a como eles!"[normal]::
+52834::$$$message_0455_0018_0002$$$::Não sei como são os Einzberns, mas não a coloque no mesmo grupo deles!"::
+52835::$$$message_0455_0019_0000$$$::"......isso certamente é verdade. Tem razão, Shirou."[lr]::
+52836::$$$message_0455_0019_0001$$$::"[w l=3][line3]! Saber, então..."[lr]::
+52837::$$$message_0455_0019_0002$$$::"Bem, você não parecia tão convincente quando sugeriu antes com uma voz tão quieta."::
+52838::$$$message_0455_0020_0000$$$::"Uh, um..."[lr]::
+52839::$$$message_0455_0020_0001$$$::...bem, é só que a Saber estava tão brava.::
+52840::$$$message_0455_0021_0000$$$::"...entendo. Se eu continuasse a discordar, você acabaria usando seu Selo de Comando. Confiarei nela, assim como você confiou."[lr]::
+52841::$$$message_0455_0021_0001$$$::"Saber."::
+52842::$$$message_0455_0022_0000$$$::"Mas não verei ela. Não acho que posso me manter firme diante dela, e tenho certeza que ela ficará em alerta comigo aqui."::
+52843::$$$message_0455_0023_0000$$$::"S-Sim, tem razão. Então o que você vai fazer?"[lr]::
+52844::$$$message_0455_0023_0001$$$::"Esperarei no quarto de convidados. Virei rapidamente até você se algo acontecer, então não se preocupe por favor."::
+52845::$$$message_0455_0024_0000$$$::"...Okay. Me desculpa, Saber, mas é porque..."[lr]::
+52846::$$$message_0455_0024_0001$$$::"Eu sei. Fui eu quem te contou sobre o Kiritsugu e a Guerra do Santo Graal. Eu deveria ter me preparado pra isso."[lr]::
+52847::$$$message_0455_0024_0002$$$::A Saber solta um suspiro e vai até a quarto de convidados.::
+52848::$$$message_0455_0025_0000$$$::"[w l=8][line8]"[lr]::
+52849::$$$message_0455_0025_0001$$$::...entendo.[lr]::
+52850::$$$message_0455_0025_0002$$$::Saber era a Serva do meu pai na última Guerra do Santo Graal.[lr]::
+52851::$$$message_0455_0025_0003$$$::Então[w l=3][line3]é normal que ela saiba a relação entre o Kiritsugu e a Illya.::
+52852::$$$message_0455_0026_0000$$$::"Olá. Então aqui é a casa do Shirou."[lr]::
+52853::$$$message_0455_0026_0001$$$::Em contraste com sua voz energética, a Illya entra timidamente.::
+52854::$$$message_0455_0027_0000$$$::"Vamos tomar um pouco de chá. Vou te mostrar a sala de estar, então siga-me."[lr]::
+52855::$$$message_0455_0027_0001$$$::"Okay. Ah, o corredor tem um piso de madeira. Sua casa é mesmo japonesa, como me contaram."[lr]::
+52856::$$$message_0455_0027_0002$$$::A Illya olha ao redor enquanto caminha.::
+52857::$$$message_0455_0028_0000$$$::"......"[lr]::
+52858::$$$message_0455_0028_0001$$$::Acho que uma casa japonesa é algo incomum para ela, já que ela mora em um castelo.::
+52859::$$$message_0455_0029_0000$$$::"Aqui está. Pensei em fazer chá inglês, mas seria chato e tenho certeza que você tem melhores em casa. Fiz um pouco de chá japonês. Ah, me avisa se estiver muito amargo e eu vou colocar mais água pra você."::
+52860::$$$message_0455_0030_0000$$$::Lhe entrego a xícara.[lr]::
+52861::$$$message_0455_0030_0001$$$::Usei o melhor chá que eu tinha, então deve estar bom. O único risco é que pode ser amargo demais pra ela.::
+52862::$$$message_0455_0031_0000$$$::"Ah, obrigado, Shirou."[lr]::
+52863::$$$message_0455_0031_0001$$$::Ela senta ao estilo japonês e ansiosamente dá um gole.::
+52864::$$$message_0455_0032_0000$$$::"Uh..."[lr]::
+52865::$$$message_0455_0032_0001$$$::Illya congela.[lr]::
+52866::$$$message_0455_0032_0002$$$::...como pensei. Tentei ser gentíl, mas acho que chá com leite teria sido melhor.::
+52867::$$$message_0455_0033_0000$$$::"Me desculpa. É amargo, né? Vou fazer outro, então não precisa beber."[lr]::
+52868::$$$message_0455_0033_0001$$$::"Eh[w l=3][line3]não, não é verdade. Um, estava muito gostoso."::
+52869::$$$message_0455_0034_0000$$$::Não sei onde ela aprendeu esses costumes, mas a Illya me cumprimenta.[lr]::
+52870::$$$message_0455_0034_0001$$$::E lentamente começa a beber o chá.::
+52871::$$$message_0455_0035_0000$$$::"......"[lr]::
+52872::$$$message_0455_0035_0001$$$::...bem, se ela quiser bebê-lo, não vou impedí-la.[lr]::
+52873::$$$message_0455_0035_0002$$$::Em contra partida, o lanchinho japonês...[lr]::
+52874::$$$message_0455_0035_0003$$$::...parece ter sido bem recebido, então sentarei aqui e farei compania pra ela.::
+52875::$$$message_0455_0036_0000$$$::Assim que terminamos de beber o chá, Illya me pergunta se podemos explorar a casa.::
+52876::$$$message_0455_0037_0000$$$::"Por mim tudo bem, mas não tem nada demais."[lr]::
+52877::$$$message_0455_0037_0001$$$::"Só quero ver mesmo. Eu soube que esse lugar não tinha valor mágico algum quando entrei, então tudo que tem que fazer é me mostrá-lo."::
+52878::$$$message_0455_0038_0000$$$::Essa é a resposta dela.[lr]::
+52879::$$$message_0455_0038_0001$$$::Então acabo dando um tour da minha casa, mas...::
+52880::$$$message_0455_0039_0000$$$::"Hmm. Esse lugar é menor do que pensei. Um lado do corredor é de vidro. Será problemático quando você for atacado aqui."::
+52881::$$$message_0455_0039_0001$$$::for instance.::
+52882::$$$message_0455_0040_0000$$$::"Esse é o quarto do Shirou!? Não creio, uma pessoa não consegue morar aqui!"::
+52883::$$$message_0455_0040_0001$$$::for instance.::
+52884::$$$message_0455_0041_0000$$$::"Esse é o seu quintal? Magos japoneses devem sofrer. Não dá pra plantar nada num jardim tão pequeno."::
+52885::$$$message_0455_0041_0001$$$::for instance.::
+52886::$$$message_0455_0042_0000$$$::"Eu sei o que é isso. É um dojo, né?[lr]::
+52887::$$$message_0455_0042_0001$$$::Meu avô disse que vocês são brutos que se batem descalçados."::
+52888::$$$message_0455_0042_0002$$$::for instance.::
+52889::$$$message_0455_0043_0000$$$::"Não! Não quero ver dentro do seu galpão! Você tem servos pra lidar com isso!"::
+52890::$$$message_0455_0043_0001$$$::for instance.::
+52891::$$$message_0455_0044_0000$$$::...ela reclama bastante.[lr]::
+52892::$$$message_0455_0044_0001$$$::Mas parece estar se divertindo.::
+52893::$$$message_0455_0045_0000$$$::"O que tem ali!? Não fomos lá! Vamos, Shirou!"[lr]::
+52894::$$$message_0455_0045_0001$$$::Ela me pede.::
+52895::$$$message_0455_0046_0000$$$::"...tudo bem, tudo bem. Então vamos ir por trás. Está sujo porque não usamos-a faz um tempo, mas não precisa se preocupar."[lr]::
+52896::$$$message_0455_0046_0001$$$::A Illya corre feliz pelo corredor.::
+52897::$$$message_0455_0047_0000$$$::"[w l=4][line4]Ufa."[lr]::
+52898::$$$message_0455_0047_0001$$$::Mas...[lr]::
+52899::$$$message_0455_0047_0002$$$::Não sei porque ela está tão animada, mas fico feliz que mostrar a casa seja tão divertido pra ela.::
+52900::$$$message_0455_0048_0000$$$::[w l=3][line3]Mas.[lr]::
+52901::$$$message_0455_0048_0001$$$::Ela deve estar ficando cansada, pois ela vai perdendo o ânimo no caminho.[lr]::
+52902::$$$message_0455_0048_0002$$$::Ela passa a observar os quartos silenciosamente.[lr]::
+52903::$$$message_0455_0048_0003$$$::Assim que terminamos de ver tudo, voltamos para a sala de estar.::
+52904::$$$message_0455_0049_0000$$$::"Isso é tudo. Bem, há o edifício anexo também, mas você vai ter que me perdoar por não mostrá-lo.[lr]::
+52905::$$$message_0455_0049_0001$$$::A Saber está dormindo lá."[lr]::
+52906::$$$message_0455_0049_0002$$$::Illya parece deprimida.::
+52907::$$$message_0455_0050_0000$$$::"Entendi. Então isso é tudo?"[lr]::
+52908::$$$message_0455_0050_0001$$$::"...Illya? O que foi? Está cansada?"::
+52909::$$$message_0455_0051_0000$$$::"Sim, estou um pouco cansada. Não tem ninguém aqui, afinal."[lr]::
+52910::$$$message_0455_0051_0001$$$::Ela parece uma garota normal da idade dela.::
+52911::$$$message_0455_0052_0000$$$::...Illya está agindo como Illya, não como Mestra poderosa.[lr]::
+52912::$$$message_0455_0052_0001$$$::"Vim aqui me vingar. Mas é triste que a pessoa que quero me vingar não está mais aqui."[lr]::
+52913::$$$message_0455_0052_0002$$$::Ele murmura para si, lágrimas escorrendo silenciosamente por seu rosto.::
+52914::$$$message_0455_0053_0000$$$::"Huh? Que estranho. Acho que estou chorado. Não tinha nada de triste ou assustador."[lr]::
+52915::$$$message_0455_0053_0001$$$::Illya vira a cabeça, perplexa, como se isso fosse mesmo estranho.::
+52916::$$$message_0455_0054_0000$$$::"[w l=8][line8]"[lr]::
+52917::$$$message_0455_0054_0001$$$::Há um motivo provável para isso.[lr]::
+52918::$$$message_0455_0054_0002$$$::Não tem ninguém nesta casa.[lr]::
+52919::$$$message_0455_0054_0003$$$::O alvo de seu rancor.[lr]::
+52920::$$$message_0455_0054_0004$$$::Ela só queria matá-lo, mas a chance se foi para sempre.[lr]::
+52921::$$$message_0455_0054_0005$$$::...Illyasviel von Einzbern.[lr]::
+52922::$$$message_0455_0054_0006$$$::Ela tem um motivo para matar a mim e ao Kiritsugu.[lr]::
+52923::$$$message_0455_0054_0007$$$::É porque[w l=4][line4]::
+52924::$$$message_0455_0055_0000$$$::"Vamos, Shirou. O sol já vai se pôr.[lr]::
+52925::$$$message_0455_0055_0001$$$::Teremos que lutar a não ser que eu vá embora antes do anoitecer."[lr]::
+52926::$$$message_0455_0055_0002$$$::...Illya está sorrindo.[lr]::
+52927::$$$message_0455_0055_0003$$$::O que posso dizer a ela?::
+52928::$$$message_0455_0056_0000$$$::"[w l=3][line3]Sim, tem razão. Então vou te levar até o parque."[lr]::
+52929::$$$message_0455_0056_0001$$$::"Okay. Você sabe mesmo como tratar uma dama."[lr]::
+52930::$$$message_0455_0056_0002$$$::Ela sorri inocentemente.[lr]::
+52931::$$$message_0455_0056_0003$$$::Com seu cabelo prateado flutuando atrás dela, Illya corre até a porta de casa como se nada tivesse acontecido.::
+52932::$$$message_0455_0057_0000$$$::...e nos separamos pela terceira vez.[lr]::
+52933::$$$message_0455_0057_0001$$$::Minhas pernas estão pesadas na volta para casa.[lr]::
+52934::$$$message_0455_0057_0002$$$::Lentamente caminho pelas ruas, como se fosse a primeira vez.::
+52935::$$$message_0455_0058_0000$$$::"[w l=8][line8]"[lr]::
+52936::$$$message_0455_0058_0001$$$::Tenho tanto a se pensar.[lr]::
+52937::$$$message_0455_0058_0002$$$::Em primeiro lugar, na minha mente... finalmente começo a perceber o quão importanta a Illya é.::
+52938::$$$message_0455_0059_0000$$$::"...Pai. A Illya é[w l=4][line4]"[lr]::
+52939::$$$message_0455_0059_0001$$$::Devo lutar com ela, como Mestre?[lr]::
+52940::$$$message_0455_0059_0002$$$::Ou devo convencê-lá a desistir?::
+52941::$$$message_0455_0060_0000$$$::'Makiris e Einzberns possuem obstinações profundas.[lr]::
+52942::$$$message_0455_0060_0001$$$::Eles desejam o Santo Graal a mais de 500 anos e 1000 anos.'::
+52943::$$$message_0455_0061_0000$$$::Foi o que o Kotomine disse.[lr]::
+52944::$$$message_0455_0061_0001$$$::Há algum jeito de separar a Illya das pessoas que buscaram o Santo Graal a tanto tempo?[lr]::
+52945::$$$message_0455_0061_0002$$$::...não, antes de lidar com isso.[lr]::
+52946::$$$message_0455_0061_0003$$$::Não tenho ideia de como saciar o desejo dela por vingança.::
+52947::$$$message_0455_0062_0000$$$::Volto para casa.[lr]::
+52948::$$$message_0455_0062_0001$$$::O sol já vai se pôr, pintando a cidade com seu tom avermelhado.::
+52949::$$$message_0455_0063_0000$$$::"[w l=4][line4]Certo. Preciso me recompôr."[lr]::
+52950::$$$message_0455_0063_0001$$$::Bato nas minhas bochechas.[lr]::
+52951::$$$message_0455_0063_0002$$$::Tenho que lidar com o Shinji e a Illya mais cedo ou mais tarde, mas derrotar Caster, aquela quem permanece atacando as pessoas da cidade, é minha prioridade agora.::
+52952::$$$message_0455_0064_0000$$$::Não permitirei que um evento como o de dez anos atrás aconteça de novo.[lr]::
+52953::$$$message_0455_0064_0001$$$::Por isso decidi me tornar um Mestre e lutar ao lado da Saber.::
+

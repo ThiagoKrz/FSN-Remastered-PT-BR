@@ -1,0 +1,247 @@
+DAT
+id=qid::label=str::text=lstr::
+25953::$$$message_0224_0000_0000$$$::Acho que preciso perguntar sobre o Nome Verdadeiro dela.::
+25954::$$$message_0224_0001_0000$$$::"Saber. A Tohsaka me disse que Servos são uma forma de Magia criada a partir de Espíritos Heroicos.[lr]::
+25955::$$$message_0224_0001_0001$$$::Então você deve ter um Nome Verdadeiro além do nome da classe Saber, certo?"::
+25956::$$$message_0224_0002_0000$$$::"Sim. O nome Saber representa meu papel desta vez. Não é como o seu nome, Shirou, que identifica um indivíduo."::
+25957::$$$message_0224_0003_0000$$$::"Entendi. Então qual é o seu Nome Verdadeiro?[lr]::
+25958::$$$message_0224_0003_0001$$$::A Tohsaka disse que, para as próximas lutas, seria melhor eu saber quem é meu Servo e que tipo de herói ele foi."::
+25959::$$$message_0224_0004_0000$$$::Servos são Espíritos Heroicos.[lr]::
+25960::$$$message_0224_0004_0001$$$::São heróis que deixaram seus nomes na história, em todas as épocas e lugares.[lr]::
+25961::$$$message_0224_0004_0002$$$::Eles ocultam suas identidades, bem como suas habilidades.::
+25962::$$$message_0224_0005_0000$$$::O Nome Verdadeiro de um Servo não é algo que se revele levianamente.[lr]::
+25963::$$$message_0224_0005_0001$$$::Mas seus Mestres devem conhecê-lo.::
+25964::$$$message_0224_0006_0000$$$::Sem saber sua identidade, o Mestre não conhece as forças nem as habilidades do Servo.[lr]::
+25965::$$$message_0224_0006_0001$$$::Mestre e Servo são um só.[lr]::
+25966::$$$message_0224_0006_0002$$$::A dupla simplesmente não consegue lutar direito quando um esconde algo do outro.[lr]::
+25967::$$$message_0224_0006_0003$$$::Simplesmente não daria para lutar assim...::
+25968::$$$message_0224_0007_0000$$$::"Shirou. Sobre isso... peço que me perdoe pela insolência.[lr]::
+25969::$$$message_0224_0007_0001$$$::Um Servo invocado normalmente deve revelar seu Nome Verdadeiro ao Mestre. Mas não posso cumprir essa obrigação."[lr]::
+25970::$$$message_0224_0007_0002$$$::"Saber...? O que quer dizer com não poder cumprir essa obrigação?"::
+25971::$$$message_0224_0008_0000$$$::"Estou tomando essa decisão com base no que entendo da situação. Por mais que você tente proteger meu Nome Verdadeiro, há várias formas de um inimigo arrancar essa informação de você com Magia.[lr]::
+25972::$$$message_0224_0008_0001$$$::Sua resistência à Magia é baixa. Um mago habilidoso poderia se aproveitar disso facilmente. Se você cair sob o feitiço de um inimigo, pode revelar meu Nome Verdadeiro contra a própria vontade."[lr]::
+25973::$$$message_0224_0008_0002$$$::Por isso, não quero que você saiba meu Nome Verdadeiro."::
+25974::$$$message_0224_0009_0000$$$::"Ah, entendi. É verdade. Eu entregaria na hora se lançassem um feitiço em mim."[lr]::
+25975::$$$message_0224_0009_0001$$$::Além disso, revelar o Nome Verdadeiro só é algo normal numa relação comum entre Mestre e Servo.[lr]::
+25976::$$$message_0224_0009_0002$$$::Mesmo se eu soubesse o Nome Verdadeiro da Saber, não conseguiria pensar em uma estratégia eficaz. E, para começo de conversa, eu nem estava tão interessado.::
+25977::$$$message_0224_0010_0000$$$::"Certo, então vamos mantê-lo em segredo. Como sou inexperiente, precisamos tomar todas as precauções."[lr]::
+25978::$$$message_0224_0010_0001$$$::"Agradeço sua compreensão. Ainda assim, não sou tão renomada nem distinta quanto Berserker. Talvez nem fizesse tanta diferença se meu nome fosse revelado..."::
+25979::$$$message_0224_0011_0000$$$::O tom da Saber é pesaroso.[lr]::
+25980::$$$message_0224_0011_0001$$$::Isso me surpreende um pouco. A Saber tem um lado humano, e agora deixa transparecer a frustração de talvez ser inferior a Berserker como herói.::
+25981::$$$message_0224_0012_0000$$$::"Isso não importa. O valor de um trunfo na manga não está só no fato de ele ficar escondido. Dá pra ver que você está tentando se virar porque acabou com um Mestre tão terrível.[lr]::
+25982::$$$message_0224_0012_0001$$$::Além disso, o Berserker é meio injusto mesmo, não acha?[lr]::
+25983::$$$message_0224_0012_0002$$$::Não tem motivo para ficar abatida. E, do meu ponto de vista, você não foi completamente inferior àquilo. Estava bem ferida, mas ainda conseguia lutar de igual para igual."::
+25984::$$$message_0224_0013_0000$$$::"Talvez tenha razão. Fui pega de surpresa ontem à noite, mas o resultado será diferente assim que meus ferimentos estiverem totalmente curados."[lr]::
+25985::$$$message_0224_0013_0001$$$::"Eh...? Ah, sim. Espero... que sim."[lr]::
+25986::$$$message_0224_0013_0002$$$::Desvio o olhar, dando uma resposta bem pouco convincente.[lr]::
+25987::$$$message_0224_0013_0003$$$::Dessa vez, [font italic=true]eu[font italic=false] fui pego de surpresa.[lr]::
+25988::$$$message_0224_0013_0004$$$::Quando Saber sorri, bem, eu[line2]::
+25989::$$$message_0224_0014_0000$$$::Mas então...[lr]::
+25990::$$$message_0224_0014_0001$$$::Ouço algo pesado bater no chão perto da porta.[lr]::
+25991::$$$message_0224_0014_0002$$$::"O que foi isso?"[lr]::
+25992::$$$message_0224_0014_0003$$$::Eu me viro na direção do som.::
+25993::$$$message_0224_0015_0000$$$::Na porta...[lr]::
+25994::$$$message_0224_0015_0001$$$::...está a Tohsaka, com uma mala grande aos pés.::
+25995::$$$message_0224_0016_0000$$$::"O quê...?"[lr]::
+25996::$$$message_0224_0016_0001$$$::Minha mente para de repente.[lr]::
+25997::$$$message_0224_0016_0002$$$::Eu pensei que Tohsaka tivesse ido para casa, mas ela está aqui no dojo, com roupas normais. E por que ela está carregando tanta coisa?::
+25998::$$$message_0224_0017_0000$$$::"Hã...? O que você está fazendo aqui, Tohsaka?"[lr]::
+25999::$$$message_0224_0017_0001$$$::"Como assim? Eu fui para casa pegar minhas coisas. Não é o mais sensato, já que vou morar aqui a partir de agora?"::
+26000::$$$message_0224_0018_0000$$$::"O quê...!?!?!?[lr]::
+26001::$$$message_0224_0018_0001$$$::M-Morar!? Você... morando AQUI... na MINHA casa!?!?!?"::
+26002::$$$message_0224_0019_0000$$$::"É isso que formar uma equipe significa, certo? Sério, o que você achou que estávamos discutindo mais cedo?"[lr]::
+26003::$$$message_0224_0019_0001$$$::"Uh... argh."[lr]::
+26004::$$$message_0224_0019_0002$$$::Nem consigo falar.[lr]::
+26005::$$$message_0224_0019_0003$$$::Preciso de alguma coisa. Preciso responder algo, senão isso vai virar uma confusão enorme, mas meu cérebro se recusa a funcionar.::
+26006::$$$message_0224_0020_0000$$$::"Então, onde fica meu quarto? Se você não tiver um pronto, eu mesma escolho."[lr]::
+26007::$$$message_0224_0020_0001$$$::Ela simplesmente passa por mim, invadindo minha casa sem cerimônia.[lr]::
+26008::$$$message_0224_0020_0002$$$::"Ah... não, espera. Isso é[line2]"[lr]::
+26009::$$$message_0224_0020_0003$$$::Isso não seria errado?::
+26010::$$$message_0224_0021_0000$$$::Quer dizer, a Tohsaka é praticamente a ídola da escola. Só ter ela na minha casa já seria um problemão, mas se ela começasse a ficar aqui, ou [font italic=true]morasse comigo[font italic=false], não sei como as pessoas reagiriam, e a Fuji-nee com certeza me mataria... Ou será que esse é um plano da Tohsaka para eliminar um Mestre!?::
+26011::$$$message_0224_0022_0000$$$::"Ah, por falar nisso, por que não prepara um quarto para ela também? Diferente do meu Archer, seu Servo ocupa espaço de verdade, então você precisa arrumar um lugar para ela descansar. Bom, acho que não é um problema tão grande se você achar que um futon basta para vocês dois."[lr]::
+26012::$$$message_0224_0022_0001$$$::O quê...!? Ela está insinuando que eu e Saber vamos dormir na mesma cama ou algo assim!?::
+26013::$$$message_0224_0023_0000$$$::"Nem pensar, idiota! Você acha que pode falar qualquer coisa só porque eu estou quieto, mas isso nunca vai acontecer! A Saber é uma garota, sabia!?"[lr]::
+26014::$$$message_0224_0023_0001$$$::"Você não entendeu o ponto. Mas tanto faz. Ouviu isso, Saber?[lr]::
+26015::$$$message_0224_0023_0002$$$::O Shirou está dizendo que não quer dividir o quarto com uma garota."::
+26016::$$$message_0224_0024_0000$$$::"..."[lr]::
+26017::$$$message_0224_0024_0001$$$::Saber está me encarando.[lr]::
+26018::$$$message_0224_0024_0002$$$::Ela parece... bem séria.::
+26019::$$$message_0224_0025_0000$$$::"Isso não serve, Shirou. Um Servo deve proteger seu Mestre o tempo todo. Mestres ficam mais vulneráveis enquanto dormem, então preciso estar no mesmo quarto para protegê-lo."[lr]::
+26020::$$$message_0224_0025_0001$$$::"Isso só piora as coisas! O que diabos vocês duas estão pensando!? Garotas deveriam mesmo pensar nesse tipo de coisa!?"::
+26021::$$$message_0224_0026_0000$$$::"..."[lr]::
+26022::$$$message_0224_0026_0001$$$::"..."[lr]::
+26023::$$$message_0224_0026_0002$$$::Por quê?[lr]::
+26024::$$$message_0224_0026_0003$$$::Por que as duas estão só me encarando em silêncio desse jeito?::
+26025::$$$message_0224_0027_0000$$$::"Aham. Você sabe que não precisa exatamente tratar Servos como humanos, certo? Mas acho que não adianta dizer isso ao Shirou."::
+26026::$$$message_0224_0028_0000$$$::[font italic=true]...[font italic=false][lr]::
+26027::$$$message_0224_0028_0001$$$::Estou prestes a protestar, mas fecho a boca.[lr]::
+26028::$$$message_0224_0028_0002$$$::O desconforto que senti mais cedo, quando falei com Tohsaka na sala de estar, volta de uma vez.[lr]::
+26029::$$$message_0224_0028_0003$$$::Na verdade.[lr]::
+26030::$$$message_0224_0028_0004$$$::Acabei de descobrir a causa desse desconforto.::
+26031::$$$message_0224_0029_0000$$$::"Espera, Tohsaka. Desde quando você começou a me chamar pelo primeiro nome?"[lr]::
+26032::$$$message_0224_0029_0001$$$::"Hã? Eu nem percebi. Acho que aconteceu bem rápido."[lr]::
+26033::$$$message_0224_0029_0002$$$::"Aconteceu rápido mesmo... Pelo menos foi assim que eu senti."::
+26034::$$$message_0224_0030_0000$$$::"Ah. Se você não gosta, vou tentar tomar mais cuidado. Mas você [font italic=true]se[font italic=false] importa, Shirou?"[lr]::
+26035::$$$message_0224_0030_0001$$$::Tohsaka fala disso com tanta naturalidade, sem ligar muito para como eu me sinto.[lr]::
+26036::$$$message_0224_0030_0002$$$::...Você tinha razão, Issei.[lr]::
+26037::$$$message_0224_0030_0003$$$::Não é que Rin Tohsaka [font italic=true]talvez[font italic=false] seja uma feiticeira cruel. Ela [font italic=true]é[font italic=false].::
+26038::$$$message_0224_0031_0000$$$::"Tudo bem... faça o que quiser. Pode me chamar do que preferir."[lr]::
+26039::$$$message_0224_0031_0001$$$::"É mesmo? Então vou fazer isso."[lr]::
+26040::$$$message_0224_0031_0002$$$::"Rin. Por favor, não mude de assunto. Ainda não terminamos de decidir a questão dos meus aposentos e dos de Shirou."::
+26041::$$$message_0224_0032_0000$$$::"Ah, verdade. Mas, com essa reação do Shirou, talvez não seja realista vocês dois dividirem o quarto. Não faz sentido tratar Servos como humanos, mas é melhor desistir, já que o Shirou odeia a ideia."[lr]::
+26042::$$$message_0224_0032_0001$$$::"Isso não é verdade. Shirou apenas expressou desconforto. Ele não disse claramente que não queria."[lr]::
+26043::$$$message_0224_0032_0002$$$::"Você ouviu. Então o que você quer dizer de verdade, Shirou?"::
+26044::$$$message_0224_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+26045::$$$message_0224_0033_0001$$$::Espera um pouco.[lr]::
+26046::$$$message_0224_0033_0002$$$::Não entendo como, em um único dia, ela consegue simplesmente começar a me chamar de "Shirou", como se eu fosse um gato que ela acabou de pegar e nomear.[lr]::
+26047::$$$message_0224_0033_0003$$$::Não, esse nem é o problema. O assunto é onde a Saber vai ficar.::
+26048::$$$message_0224_0034_0000$$$::"Shirou. Vou perguntar mais uma vez. É dever de um Servo protegê-lo enquanto você dorme. A esta altura, acredito que entenda sua posição como Mestre."[lr]::
+26049::$$$message_0224_0034_0001$$$::Ugh... minha decisão não vai mudar, não importa o quanto ela me encare assim.::
+26050::$$$message_0224_0035_0000$$$::"Não. Vou preparar um quarto separado para a Saber. Vou deixar o quarto dela o mais perto possível do meu. Isso deve ser um bom meio-termo."[lr]::
+26051::$$$message_0224_0035_0001$$$::[font italic=true]...[font italic=false][lr]::
+26052::$$$message_0224_0035_0002$$$::"I-intimidação não vai funcionar comigo! Enfim, sou homem, então preciso traçar uma linha! Saber, você também precisa ter mais noção da sua posição...!"::
+26053::$$$message_0224_0036_0000$$$::"Hm? Sim, exatamente. É por isso que estou insistindo, como Servo, em proteger meu Mestre[line2]"[lr]::
+26054::$$$message_0224_0036_0001$$$::"Não é isso! Estou falando da sua própria posição...! Argh! Se você não entende, deixa pra lá! Se continuar insistindo, vou fazer você entender nem que eu tenha que usar meu Selo de Comando!"[lr]::
+26055::$$$message_0224_0036_0002$$$::Tento intimidar a Saber para afastá-la do assunto.::
+26056::$$$message_0224_0037_0000$$$::"Eu não gostaria que usasse um Selo de Comando por esse motivo. Nosso futuro seria sombrio se você usasse algo assim para me ordenar [font italic=true]não[font italic=false] protegê-lo."::
+26057::$$$message_0224_0038_0000$$$::"Você tem razão. O Shirou seria o primeiro e, com certeza, [font italic=true]último[font italic=false] Mestre a dizer algo assim."[lr]::
+26058::$$$message_0224_0038_0001$$$::Não seja idiota. Eu também não quero usar meu Selo de Comando para isso.::
+26059::$$$message_0224_0039_0000$$$::"Entendido. Seguirei a ordem do meu Mestre. Mas o que fará se sofrer uma emboscada? Servos da classe Assassin têm a habilidade de se aproximar do alvo ocultando sua presença. Se isso acontecer, conseguirá se proteger até eu chegar?"::
+26060::$$$message_0224_0040_0000$$$::"Bem, eu..."[lr]::
+26061::$$$message_0224_0040_0001$$$::Eu... realmente não posso dizer que consigo me virar sozinho.[lr]::
+26062::$$$message_0224_0040_0002$$$::Sim, consegui sobreviver contra o Lancer, mas não vou ter esse tipo de sorte duas vezes.::
+26063::$$$message_0224_0041_0000$$$::"Isso não é possível. Esta casa tem um Campo Limitado preparado para alertar os moradores sobre qualquer invasor. Talvez não consigamos evitar um ataque, mas devemos conseguir detectar uma tentativa de emboscada. Nesse caso, a Saber teria tempo de correr para defender o Shirou antes que ele fosse atacado. Então ela pode ficar em outro quarto."::
+26064::$$$message_0224_0042_0000$$$::"Isso pode ser verdade. Mas..."[lr]::
+26065::$$$message_0224_0042_0001$$$::"Então que tal o quarto ao lado do Shirou? Tudo bem desde que vocês dois não dividam o mesmo quarto, certo, Emiya-kun?"[lr]::
+26066::$$$message_0224_0042_0002$$$::Tohsaka chama de propósito pelo "Emiya-kun" no final.::
+26067::$$$message_0224_0043_0000$$$::"Tohsaka, isso é distorcer o que eu disse."[lr]::
+26068::$$$message_0224_0043_0001$$$::"Estou dizendo isso para o seu bem, então está justificado. Enfim, qual quarto será que eu escolho?"[lr]::
+26069::$$$message_0224_0043_0002$$$::Tohsaka pega a bagagem e vai em direção à casa, encerrando a conversa.[lr]::
+26070::$$$message_0224_0043_0003$$$::Ela parece animada, como uma estudante escolhendo o quarto em uma viagem escolar.::
+26071::$$$message_0224_0044_0000$$$::"..."[lr]::
+26072::$$$message_0224_0044_0001$$$::[font italic=true]...[font italic=false][lr]::
+26073::$$$message_0224_0044_0002$$$::...assustador. O jeito tão decidido com que Tohsaka se impõe nos deixa hipnotizados, e nós dois apenas a vemos ir embora, perplexos.::
+26074::$$$message_0224_0045_0000$$$::Todos saímos do dojo e voltamos para a casa.[lr]::
+26075::$$$message_0224_0045_0001$$$::Por enquanto, preciso mostrar a casa para elas, para que Saber possa escolher seu quarto.::
+26076::$$$message_0224_0046_0000$$$::"Este é o quarto em estilo japonês. Indo para o fundo, ficam a sala de estar, o banheiro e outros espaços comuns. Se seguir pela varanda em direção ao anexo, vai chegar aos quartos de hóspedes... Parece que a Tohsaka quer ir para lá."::
+26077::$$$message_0224_0047_0000$$$::Enquanto caminhamos, explico onde fica cada coisa.[lr]::
+26078::$$$message_0224_0047_0001$$$::Não sei se ela está ouvindo, já que Saber apenas me segue sem reagir a nada do que digo.::
+26079::$$$message_0224_0048_0000$$$::"Não preciso saber a disposição da casa. Só preciso saber onde fica seu quarto, Shirou."[lr]::
+26080::$$$message_0224_0048_0001$$$::"Meu quarto fica por aqui. É bem lá no fundo."::
+26081::$$$message_0224_0049_0000$$$::"Então, por favor, me leve até lá. Há algo que desejo discutir em particular."[lr]::
+26082::$$$message_0224_0049_0001$$$::"Em particular...?"[lr]::
+26083::$$$message_0224_0049_0002$$$::Isso significa que é algo que ela não quer que Tohsaka ouça.[lr]::
+26084::$$$message_0224_0049_0003$$$::Não acho que Tohsaka conseguiria nos ouvir, já que está no anexo, mas não posso esquecer que ela ainda é uma Mestre.[lr]::
+26085::$$$message_0224_0049_0004$$$::Ela poderia muito bem tentar escutar. Além disso, a varanda não é lugar para uma conversa particular.::
+26086::$$$message_0224_0050_0000$$$::"Aqui. Este é meu quarto."[lr]::
+26087::$$$message_0224_0050_0001$$$::"O quê...? Este é seu quarto, Shirou?"[lr]::
+26088::$$$message_0224_0050_0002$$$::"Hm?"[lr]::
+26089::$$$message_0224_0050_0003$$$::No momento em que entramos no meu quarto, Saber arregala os olhos de surpresa.::
+26090::$$$message_0224_0051_0000$$$::"O que foi? Não acho que haja algo aqui que devesse surpreender você desse jeito."[lr]::
+26091::$$$message_0224_0051_0001$$$::"Não é que haja algo aqui que me surpreenda... É mais que estou surpresa por não haver nada. Tem certeza de que este é seu quarto, Shirou?"::
+26092::$$$message_0224_0052_0000$$$::"Por que eu mentiria sobre isso? Só venho aqui para dormir, então faz sentido que não tenha nada."[lr]::
+26093::$$$message_0224_0052_0001$$$::"Entendo. Eu apenas não esperava isso. Imaginei que você fosse algum tipo de colecionador."::
+26094::$$$message_0224_0053_0000$$$::Saber entra no quarto em estilo japonês e passa a mão pela parede e pela porta de papel, sentindo sua textura.[lr]::
+26095::$$$message_0224_0053_0001$$$::Seu toque é suave, como se o contato com aquelas coisas lhe permitisse conhecer sua história... ver suas memórias.::
+26096::$$$message_0224_0054_0000$$$::"Fico feliz. Seu quarto pode parecer vazio, mas dá para sentir que foi tratado com cuidado. Ele é simples, mas tem calor."[lr]::
+26097::$$$message_0224_0054_0001$$$::"Calor? Bem, acho que sim. Talvez seja pela estrutura da casa, mas este quarto é fresco no verão e quente no inverno. Meu velho também ficou impressionado e disse que eu escolhi bem."::
+26098::$$$message_0224_0055_0000$$$::"Sim. Um quarto reflete a personalidade de seu dono. O estado deste quarto me deixou preocupada com sua disposição, mas minha impressão de você voltou a ser a mesma de antes de vir aqui."[lr]::
+26099::$$$message_0224_0055_0001$$$::Saber parece aliviada ao dizer isso, mas não entendo muito bem o que ela quer dizer.::
+26100::$$$message_0224_0056_0000$$$::"Então, sobre o que você queria falar comigo em particular?"[lr]::
+26101::$$$message_0224_0056_0001$$$::"É algo ruim. No mínimo, eu preferiria que os outros Mestres não ficassem sabendo."[lr]::
+26102::$$$message_0224_0056_0002$$$::"...Hm."[lr]::
+26103::$$$message_0224_0056_0003$$$::Pela expressão da Saber, imagino que isso tenha relação com nossas fraquezas.::
+26104::$$$message_0224_0057_0000$$$::"Certo. Acho que entendi o que está te preocupando. Pode me contar."[lr]::
+26105::$$$message_0224_0057_0001$$$::"Sim, sobre isso... temo que não seja algo que possamos resolver por conta própria.[lr]::
+26106::$$$message_0224_0057_0002$$$::Servos mantêm sua forma com a Energia Mágica fornecida por seus Mestres. É por isso que um Servo precisa de um Mestre[line2]"::
+26107::$$$message_0224_0058_0000$$$::"...Mas, por eu ser um Mestre péssimo, não tenho Energia Mágica suficiente para manter seu corpo?"::
+26108::$$$message_0224_0059_0000$$$::"Não é isso que estou dizendo. Mesmo que eu recebesse apenas uma pequena quantidade de Energia Mágica do meu Mestre, não haveria problema. Porém, agora, não estou recebendo nenhuma Energia Mágica de você. A conexão com a Linha ley que deveria existir entre nós não está presente."::
+26109::$$$message_0224_0060_0000$$$::[font italic=true]...[font italic=false][lr]::
+26110::$$$message_0224_0060_0001$$$::Então isso significa que...[lr]::
+26111::$$$message_0224_0060_0002$$$::Significa que, embora eu [font italic=true]devesse[font italic=false] estar fornecendo combustível para o motor da Saber, por assim dizer... eu não estou.::
+26112::$$$message_0224_0061_0000$$$::"Saber, isso quer dizer..."[lr]::
+26113::$$$message_0224_0061_0001$$$::"Isso não é uma falha sua. Algo deve ter acontecido no momento da minha invocação. Algum erro ocorreu, e a conexão que deveria ter se formado entre nós não se estabeleceu corretamente."::
+26114::$$$message_0224_0062_0000$$$::"...Um erro durante sua invocação?"[lr]::
+26115::$$$message_0224_0062_0001$$$::Quando Saber foi chamada para cá, aquilo não foi exatamente uma invocação.[lr]::
+26116::$$$message_0224_0062_0002$$$::Foi apenas um acidente.[lr]::
+26117::$$$message_0224_0062_0003$$$::Não é de se espantar que Saber esteja com esses problemas, já que foi invocada daquele jeito.::
+26118::$$$message_0224_0063_0000$$$::"Espera. Então o que vai acontecer? Se você não consegue recuperar Energia Mágica, quer dizer que vai desaparecer logo?"[lr]::
+26119::$$$message_0224_0063_0001$$$::"Sim. Quando eu gastar toda a Energia Mágica que possuo, não poderei mais permanecer neste mundo."::
+26120::$$$message_0224_0064_0000$$$::"Já lutei três batalhas desde que fui invocada.[lr]::
+26121::$$$message_0224_0064_0001$$$::Minha habilidade de cura é um tipo de Magia regenerativa, então consumo mais Energia Mágica sempre que sou ferida. Pelos meus cálculos, devo ter usado ontem à noite uma quantidade de Energia Mágica equivalente à de dez magos completos."::
+26122::$$$message_0224_0065_0000$$$::[font italic=true]...[font italic=false][lr]::
+26123::$$$message_0224_0065_0001$$$::Fico sem palavras.[lr]::
+26124::$$$message_0224_0065_0002$$$::Toda vez que Saber luta, ela perde Energia Mágica. E não há como repô-la.[lr]::
+26125::$$$message_0224_0065_0003$$$::Se ela já gastou tanta Energia Mágica assim, por quanto tempo mais Saber consegue ficar aqui?::
+26126::$$$message_0224_0066_0000$$$::"Agora entende, Mestre?[lr]::
+26127::$$$message_0224_0066_0001$$$::Portanto, preciso evitar usar mais Energia Mágica. Se eu não puder complementar minha Energia Mágica, o único outro método é dormir para reduzir seu consumo."[lr]::
+26128::$$$message_0224_0066_0002$$$::"Dormir... Dormir restaura sua Energia Mágica?"::
+26129::$$$message_0224_0067_0000$$$::"Não sei. Mas, no mínimo, não usarei Energia Mágica enquanto estiver dormindo.[lr]::
+26130::$$$message_0224_0067_0001$$$::Por isso, gostaria que me permitisse dormir tanto quanto possível. Talvez eu não consiga protegê-lo o tempo todo, mas espero que entenda, para que possamos aumentar nossas chances de vitória."::
+26131::$$$message_0224_0068_0000$$$::"Ah..."[lr]::
+26132::$$$message_0224_0068_0001$$$::Suspiro de alívio.[lr]::
+26133::$$$message_0224_0068_0002$$$::...Graças a Deus. Se é só isso, vou dar a ela o que pedir.::
+26134::$$$message_0224_0069_0000$$$::"Claro que não tem problema. Descanse quanto quiser se as coisas ficarem difíceis para você. Prefiro isso se permitir que fique comigo por mais tempo."::
+26135::$$$message_0224_0070_0000$$$::"Então, de agora em diante, dormirei com frequência. Durante esse tempo, peço que não saia da casa. Não poderei ajudá-lo se você for atacado enquanto estivermos separados."::
+26136::$$$message_0224_0071_0000$$$::"Seria diferente se eu pudesse viajar pelo espaço e pelo tempo, mas essa é uma habilidade rara entre Servos.[lr]::
+26137::$$$message_0224_0071_0001$$$::Se quiser me chamar de longe, precisará usar Selos de Comando como apoio, então eu preferiria que permanecesse por perto."::
+26138::$$$message_0224_0072_0000$$$::"...Hm."[lr]::
+26139::$$$message_0224_0072_0001$$$::Por mais que eu queira, não posso simplesmente concordar.[lr]::
+26140::$$$message_0224_0072_0002$$$::Não consigo imaginar viver com Saber sempre grudada em mim, e também tenho minha própria vida.::
+26141::$$$message_0224_0073_0000$$$::"...Vou tentar. Mas isso é tudo que você precisa que eu faça?[lr]::
+26142::$$$message_0224_0073_0001$$$::Se você estiver dormindo, vai[line2]"[lr]::
+26143::$$$message_0224_0073_0002$$$::"Não deve haver problema. Não posso ter certeza, já que isso nunca aconteceu comigo antes, mas, da última vez, lutei menos de sete vezes. Mesmo que eu não saia para lutar, alguns dos outros Servos acabarão derrotando uns aos outros."::
+26144::$$$message_0224_0074_0000$$$::"Entendo. Então não quer dizer que todos precisam lutar contra todos os outros. Se tudo correr bem, podemos acabar esta guerra com facilidade."::
+26145::$$$message_0224_0075_0000$$$::As únicas pessoas que preciso enfrentar são aquelas que começarem a fazer coisas que ninguém deveria fazer.[lr]::
+26146::$$$message_0224_0075_0001$$$::Não consigo imaginar que todos os sete sejam assim.[lr]::
+26147::$$$message_0224_0075_0002$$$::Até Tohsaka, que parece disposta a lutar, ainda seguiria as regras dos magos.::
+26148::$$$message_0224_0076_0000$$$::E, desde que os outros cinco Mestres ajam de forma humana, não tenho intenção de lutar contra eles.[lr]::
+26149::$$$message_0224_0076_0001$$$::Saber até disse que não lutou sete vezes da última vez, então, desta vez[line2]::
+26150::$$$message_0224_0077_0000$$$::"Ah."[lr]::
+26151::$$$message_0224_0077_0001$$$::Espera um pouco.[lr]::
+26152::$$$message_0224_0077_0002$$$::Da última vez... menos de sete... vezes?::
+26153::$$$message_0224_0078_0000$$$::"Espera, Saber. Você está dizendo que também foi a Saber da última vez? Quero dizer... isso significa que você também participou da última Guerra do Santo Graal!?"::
+26154::$$$message_0224_0079_0000$$$::"Esta é a segunda vez que participo desta guerra pelo Santo Graal.[lr]::
+26155::$$$message_0224_0079_0001$$$::Também fui Saber naquela vez. Há Espíritos Heroicos com atributos adequados a várias classes, mas eu só me encaixo na classe Saber."::
+26156::$$$message_0224_0080_0000$$$::[font italic=true]...[font italic=false][lr]::
+26157::$$$message_0224_0080_0001$$$::Lembro de algo que Tohsaka disse.[lr]::
+26158::$$$message_0224_0080_0002$$$::Ela disse que, entre as sete classes de Servos, Saber é a melhor.[lr]::
+26159::$$$message_0224_0080_0003$$$::E essa garota diz que foi invocada nessa classe duas vezes seguidas.::
+26160::$$$message_0224_0081_0000$$$::"Então... quer dizer que, da última vez, você ficou até o fim?"[lr]::
+26161::$$$message_0224_0081_0001$$$::"É claro. Na última vez, eu não tinha as limitações que tenho agora, então nunca fiquei atrás de nenhum Servo."::
+26162::$$$message_0224_0082_0000$$$::Saber diz isso como se fosse óbvio.[lr]::
+26163::$$$message_0224_0082_0001$$$::As palavras dela me obrigam a perceber uma coisa:[lr]::
+26164::$$$message_0224_0082_0002$$$::A espada que tenho em mãos agora não é algo de que eu seja digno. Eu não a mereço.::
+26165::$$$message_0224_0083_0000$$$::"Droga. Então você deve estar muito insatisfeita por ter alguém como eu como Mestre."[lr]::
+26166::$$$message_0224_0083_0001$$$::"Eu apenas cumpro os deveres que me foram dados. Desde que eu consiga obter o Santo Graal, não tenho reclamações sobre quem é meu Mestre."::
+26167::$$$message_0224_0084_0000$$$::"Entendi. Isso é um alívio, mas..."[lr]::
+26168::$$$message_0224_0084_0001$$$::Na última vez, ela estava em plenas condições e contava com um Mestre capaz, mas desta vez já foi ferida duas vezes.::
+26169::$$$message_0224_0085_0000$$$::Tudo porque ela não consegue repor sua Energia Mágica. Isso significa que terá de pensar constantemente na Energia Mágica que ainda lhe resta enquanto luta.[lr]::
+26170::$$$message_0224_0085_0001$$$::E, por precisar lutar com todas essas restrições, na última batalha...[lr]::
+26171::$$$message_0224_0085_0002$$$::...ela acabou coberta pelo próprio sangue.::
+26172::$$$message_0224_0086_0000$$$::[font italic=true]...[font italic=false][lr]::
+26173::$$$message_0224_0086_0001$$$::A imagem ainda assombra minha mente.[lr]::
+26174::$$$message_0224_0086_0002$$$::Ainda vejo aquela garota, menor e mais frágil que eu, brutalmente ferida.::
+26175::$$$message_0224_0087_0000$$$::"Shirou, não há motivo para se arrepender de algo assim."[lr]::
+26176::$$$message_0224_0087_0001$$$::"Eh...?"[lr]::
+26177::$$$message_0224_0087_0002$$$::A voz da Saber me traz de volta à realidade.::
+26178::$$$message_0224_0088_0000$$$::"Não é como se eu nunca tivesse conhecido a derrota.[lr]::
+26179::$$$message_0224_0088_0001$$$::Não fui vitoriosa da última vez, e por isso agora sou seu Servo. Estou acostumada a me ferir, então não há razão para que você se aflija pelos meus ferimentos."::
+26180::$$$message_0224_0089_0000$$$::"Acostumada...? Mesmo quando os ferimentos parecem quase fatais?"[lr]::
+26181::$$$message_0224_0089_0001$$$::"Sim. Empunhar uma espada é estar preparada para aceitar as consequências disso. O mesmo vale para você. Não é razoável esperar que eu saia ilesa."::
+26182::$$$message_0224_0090_0000$$$::"Bem, é verdade, mas... Então você está dizendo que não se importa em se machucar?"[lr]::
+26183::$$$message_0224_0090_0001$$$::"Desde que os ferimentos não sejam fatais. Se eu morrer, não poderei proteger meu Mestre."[lr]::
+26184::$$$message_0224_0090_0002$$$::"Que lógica é essa? Então você não se importa em se ferir, desde que proteja seu Mestre?"::
+26185::$$$message_0224_0091_0000$$$::"Esse é o papel de um Servo.[lr]::
+26186::$$$message_0224_0091_0001$$$::Nisso, Rin está absolutamente correta. Não há motivo para tratar Servos como humanos. Somos ferramentas usadas para proteger nosso Mestre, e isso é algo que você precisa entender."::
+26187::$$$message_0224_0092_0000$$$::Depois de dizer o que queria, Saber caminha até a porta deslizante.[lr]::
+26188::$$$message_0224_0092_0001$$$::Do outro lado da porta há um quarto lateral.[lr]::
+26189::$$$message_0224_0092_0002$$$::Meu quarto sempre foi grande o suficiente para mim, então nunca usei aquele cômodo.::
+26190::$$$message_0224_0093_0000$$$::"Vou dormir um pouco. Acordarei na hora do jantar, então, por favor, me avise se for sair."[lr]::
+26191::$$$message_0224_0093_0001$$$::A porta deslizante se abre em silêncio e depois volta a se fechar.::
+26192::$$$message_0224_0094_0000$$$::[font italic=true]Somos ferramentas usadas para proteger nosso Mestre.[font italic=false][lr]::
+26193::$$$message_0224_0094_0001$$$::[font italic=true]Isso é algo que você precisa entender.[font italic=false]::
+26194::$$$message_0224_0095_0000$$$::"Que lógica é essa?"[lr]::
+26195::$$$message_0224_0095_0001$$$::Isso me deixa furioso.[lr]::
+26196::$$$message_0224_0095_0002$$$::Mas não posso dizer isso em voz alta, então apenas absorvo as palavras da Saber e fico ali, sozinho, perplexo.::
+

@@ -1,0 +1,182 @@
+DAT
+id=qid::label=str::text=lstr::
+44318::$$$message_0393_0000_0000$$$::"Shirou. Suas feridas estão melhores?"[lr]::
+44319::$$$message_0393_0000_0001$$$::"Huh[line4]? Ah, sim, tá tudo bem. Eu me sinto bem, e eu ainda consigo usar meus circuitos."[lr]::
+44320::$$$message_0393_0000_0002$$$::"...Entendo. Isso é bom."::
+44321::$$$message_0393_0001_0000$$$::Aparentemente não tendo mais assunto, a Saber termina a conversa.::
+44322::$$$message_0393_0002_0000$$$::"......"[lr]::
+44323::$$$message_0393_0002_0001$$$::Nós estivemos assim por uma hora desde que chegamos em casa.[lr]::
+44324::$$$message_0393_0002_0002$$$::Nós não temos a força pra celebrar a segurança da Tohsaka, nem celebramos nossa reunião.::
+44325::$$$message_0393_0003_0000$$$::A situação não é nem um pouco boa.[lr]::
+44326::$$$message_0393_0003_0001$$$::O último servo, Gilgamesh.[lr]::
+44327::$$$message_0393_0003_0002$$$::Enquanto ele tiver o santo graal, nós temos que lutar com ele.::
+44328::$$$message_0393_0004_0000$$$::...Nós não temos planos pra derrotar ele. Quanto mais pensamos sobre isso, mais nós percebemos que é impossível.[lr]::
+44329::$$$message_0393_0004_0001$$$::É somente natural que nós fiquemos quietos.::
+44330::$$$message_0393_0005_0000$$$::"[line8]"[lr]::
+44331::$$$message_0393_0005_0001$$$::Mas eu não acho que essa é a única razão pra estarmos quietos.[lr]::
+44332::$$$message_0393_0005_0002$$$::...Isso é provavelmente o final.[lr]::
+44333::$$$message_0393_0005_0003$$$::Essa vai ser a última vez que nós vamos a batalha assim.[lr]::
+44334::$$$message_0393_0005_0004$$$::Não importa qual o resultado seja, o que nos espera não mudará.::
+44335::$$$message_0393_0006_0000$$$::A guerra do santo graal acabará.[lr]::
+44336::$$$message_0393_0006_0001$$$::Depois disso[line3]nós três não vamos conseguir conversar assim.::
+44337::$$$message_0393_0007_0000$$$::Olhando pro passado, só foi um curso de dez dias.[lr]::
+44338::$$$message_0393_0007_0001$$$::Eu nunca tive tempo pra pensar no que aconteceu no dia anterior, e eu tava muito ocupado com todos os eventos que vieram um atrás do outro.[lr]::
+44339::$$$message_0393_0007_0002$$$::...Mas eles não foram só eventos dolorosos.[lr]::
+44340::$$$message_0393_0007_0003$$$::Olhando pro passado, esses dez dias são memórias preciosas que não podem ser substituídas.::
+44341::$$$message_0393_0008_0000$$$::"[line8]"[lr]::
+44342::$$$message_0393_0008_0001$$$::É por isso que nós estamos mantendo nossas bocas fechadas.[lr]::
+44343::$$$message_0393_0008_0002$$$::Nós não queremos admitir a verdade óbvia.::
+44344::$$$message_0393_0009_0000$$$::A decisão deve ser clara para todos nós.[lr]::
+44345::$$$message_0393_0009_0001$$$::Nós não podemos dizer isso porque não queremos que acabe assim.::
+44346::$$$message_0393_0010_0000$$$::"[line3]Então eu vou dizer.[lr]::
+44347::$$$message_0393_0010_0001$$$::Eu vou vingar o Archer. Ele me traíu e era uma pessoa deturpada, mas ele é o Shirou."::
+44348::$$$message_0393_0011_0000$$$::A Tohsaka decidiu na sua cabeça.[lr]::
+44349::$$$message_0393_0011_0001$$$::Ela disse que ela vai lutar com o Gilgamesh.[lr]::
+44350::$$$message_0393_0011_0002$$$::Ela claramente fala que ela vai encerrar essa luta.::
+44351::$$$message_0393_0012_0000$$$::"E você, Shirou? Eu vou fazer a Saber vir comigo não importa o quê, mas eu não posso te forçar a lutar já que você não é um mestre.[lr]::
+44352::$$$message_0393_0012_0001$$$::Parece que o douradinho realmente odeia você, então eu acho que ele vai focar em você primeiro se nós lutarmos com ele."::
+44353::$$$message_0393_0013_0000$$$::Talvez a Tohsaka esteja tentando ser atenciosa ao me oferecer uma saída.[lr]::
+44354::$$$message_0393_0013_0001$$$::Mas eu já estou determinado.[lr]::
+44355::$$$message_0393_0013_0002$$$::Eu não posso deixar o Gilgamesh livre.[lr]::
+44356::$$$message_0393_0013_0003$$$::Eu intuitivamente sei que o santo graal não deveria existir.[lr]::
+44357::$$$message_0393_0013_0004$$$::Mas há uma razão maior para eu não desistir dessa.::
+44358::$$$message_0393_0014_0000$$$::[line4]Você derrote ele.[lr]::
+44359::$$$message_0393_0014_0001$$$::Ele me deixou essas palavras e me deixou sobreviver ao invés dele.[lr]::
+44360::$$$message_0393_0014_0002$$$::...O homem que somente negou Emiya Shirou.[lr]::
+44361::$$$message_0393_0014_0003$$$::Como eu fiz ele admitir derrota, meu caminho está determinado.::
+44362::$$$message_0393_0015_0000$$$::"[line3]Eu vou derrotar ele. Eu escolhi lutar. Ele vai reclamar pra mim a não ser que eu mantenha minha palavra até o fim."::
+44363::$$$message_0393_0016_0000$$$::"...Entendi. Eu não vou te parar se é isso que você decidiu."[lr]::
+44364::$$$message_0393_0016_0001$$$::"Sim. E eu não posso só ignorar o santo graal.[lr]::
+44365::$$$message_0393_0016_0002$$$::Se o santo graal for o que ele falou, nós temos que destruí-lo. Nós vamos completamente destruir ele pra que algo assim nunca mais aconteça."::
+44366::$$$message_0393_0017_0000$$$::"[line8]"[lr]::
+44367::$$$message_0393_0017_0001$$$::A Saber lutou com o objetivo de obter o santo graal.[lr]::
+44368::$$$message_0393_0017_0002$$$::A hesitação e relutância não são fácil de superar. Mas mesmo assim...::
+44369::$$$message_0393_0017_0003$$$::Even then,::
+44370::$$$message_0393_0018_0000$$$::"[line3]Eu entendo.[lr]::
+44371::$$$message_0393_0018_0001$$$::Se o santo graal for o que o Gilgamesh diz que seja, ele não deveria existir nesse mundo."[lr]::
+44372::$$$message_0393_0018_0002$$$::Ela mata seu desejo e concorda.::
+44373::$$$message_0393_0019_0000$$$::"[line5]Tudo bem!"[lr]::
+44374::$$$message_0393_0019_0001$$$::Eu me levanto e vou pra cozinha.[lr]::
+44375::$$$message_0393_0019_0002$$$::Eu coloco o avental.[lr]::
+44376::$$$message_0393_0019_0003$$$::Eu amarro ele nas minhas costas e arregaço as mangas.::
+44377::$$$message_0393_0020_0000$$$::"S-Shirou?"[lr]::
+44378::$$$message_0393_0020_0001$$$::"O-O quê? Você pensou em uma boa ideia?"[lr]::
+44379::$$$message_0393_0020_0002$$$::"Huh? Não, eu só vou preparar algo. Vocês duas tão com fome, certo?"::
+44380::$$$message_0393_0021_0000$$$::Eu ignoro o grupo espantado e começo a preparar a janta.::
+44381::$$$message_0393_0022_0000$$$::"Tá tudo decidido. Agora, a gente só precisa agir como sempre.[lr]::
+44382::$$$message_0393_0022_0001$$$::Nós vamos jantar juntos e ir derrotar ele depois."::
+44383::$$$message_0393_0023_0000$$$::Eu tiro pra fora uma bacia e uma frigideira.[lr]::
+44384::$$$message_0393_0023_0001$$$::Eu vou usar tudo que eu tenho na geladeira.[lr]::
+44385::$$$message_0393_0023_0002$$$::Eu vou esquecer de tudo essa noite. Eu vou fazer um banquete delicioso.::
+44386::$$$message_0393_0024_0000$$$::"[line3]Você está certo. Vamos jantar como sempre. Isso combina conosco."[lr]::
+44387::$$$message_0393_0024_0001$$$::"Sim. Então eu acho que vou ajudar também. Ah, Saber. Você pode preparar o banho?"::
+44388::$$$message_0393_0025_0000$$$::A atmosfera séria desaparece assim.[lr]::
+44389::$$$message_0393_0025_0001$$$::A sala de estar repentinamente fica mais animada.[lr]::
+44390::$$$message_0393_0025_0002$$$::Essa vai ser a última noite com nós três.[lr]::
+44391::$$$message_0393_0025_0003$$$::Nós vamos dar nosso melhor pra manter ela como sempre e ter uma boa janta.::
+44392::$$$message_0393_0026_0000$$$::[line4]Então.[lr]::
+44393::$$$message_0393_0026_0001$$$::Depois de comer uma janta com comida ocidental, chinesa e japonesa, nós começamos a reunião de estratégia costumeira.::
+44394::$$$message_0393_0027_0000$$$::"Então você está dizendo que o santo graal está no Templo Ryuudou?"[lr]::
+44395::$$$message_0393_0027_0001$$$::"Sim. Eu achei que o Templo Ryuudou seria o ponto de invocação dessa vez. Eu tava usando um familiar pra espiar naquele lugar, mas ele foi eliminado agora há pouco. Eu tenho certeza que o douradinho tá lá."::
+44396::$$$message_0393_0028_0000$$$::"...Templo Ryuudou... Isso é problemático.[lr]::
+44397::$$$message_0393_0028_0001$$$::Nós só podemos entrar naquela montanha pelo portão da frente. O Gilgamesh deverá estar esperando por nós lá."::
+44398::$$$message_0393_0029_0000$$$::"Sim. Mas pelo outro lado, é mais fácil porque nós sabemos onde ele tá.[lr]::
+44399::$$$message_0393_0029_0001$$$::Ele é problemático, mas parar a invocação do santo graal toma prioridade.[lr]::
+44400::$$$message_0393_0029_0002$$$::Seria ideal se conseguíssemos destruir o santo graal enquanto a Saber mantém ele ocupado."::
+44401::$$$message_0393_0030_0000$$$::"Espera. A Saber não é a única que consegue destruir o santo graal? A gente não consegue tocar nele, certo?"::
+44402::$$$message_0393_0031_0000$$$::"Certo. A gente não pode destruir o santo graal invocado. Mas a gente pode destruir o receptáculo antes que seja invocado.[lr]::
+44403::$$$message_0393_0031_0001$$$::Pra ser mais preciso, nós vamos parar o santo graal antes dele ser ativado."::
+44404::$$$message_0393_0032_0000$$$::"Hm? O que você quer dizer com parar o santo graal?"::
+44405::$$$message_0393_0033_0000$$$::"...Eu realmente não quero pensar sobre isso, mas pelo que eu ouvi, o santo graal é o coração da Illyasviel, certo?[lr]::
+44406::$$$message_0393_0033_0001$$$::Mas eu acho que o santo graal tá situado com o corpo da Illyasviel, o circuito mágico dela.[lr]::
+44407::$$$message_0393_0033_0002$$$::Ele não queria que a Illyasviel fosse o santo graal, então ele puxou pra fora o núcleo dela, o coração."::
+44408::$$$message_0393_0034_0000$$$::"......Então.[lr]::
+44409::$$$message_0393_0034_0001$$$::Ele tem que implantar o coração no corpo de um mago pra ativar o santo graal. Só existem dois mestres sobrando: eu, e mais um.[lr]::
+44410::$$$message_0393_0034_0002$$$::Como eu tô aqui, aquele que vai ser escolhido como a base do santo graal é[line4]"::
+44411::$$$message_0393_0035_0000$$$::"Shinji...!? Mas o Shinji, uhm..."::
+44412::$$$message_0393_0036_0000$$$::"Não tem um circuito mágico, certo? ...Eu aposto que ele não se importa.[lr]::
+44413::$$$message_0393_0036_0001$$$::Ele quer fazer um santo graal incompleto, então eu tenho certeza que ele vai implantar o coração em um mestre incompleto."::
+44414::$$$message_0393_0037_0000$$$::"...Mesmo que a linhagem seja extinta, a família Matou tem traços hereditários de circuitos mágicos.[lr]::
+44415::$$$message_0393_0037_0001$$$::Mesmo um circuito fechado vai ser forçado a abrir se algo como um reator de fusão nuclear for implantado nele."::
+44416::$$$message_0393_0038_0000$$$::"[line8]"[lr]::
+44417::$$$message_0393_0038_0001$$$::...Então isso significaria que nós temos que separar o santo graal do Shinji, huh?[lr]::
+44418::$$$message_0393_0038_0002$$$::Eu não sei o que significa ser a base do santo graal, mas, se possível, nós temos que parar ele.::
+44419::$$$message_0393_0039_0000$$$::"Mas eu não acho que o Gilgamesh permitiria isso.[lr]::
+44420::$$$message_0393_0039_0001$$$::Isso não significa que parar o santo graal seria derrotar o Gilgamesh?"[lr]::
+44421::$$$message_0393_0039_0002$$$::"...Sim. É óbvio que ele tá protegendo o santo graal, então a gente tem que fazer algo sobre ele primeiro."::
+44422::$$$message_0393_0040_0000$$$::"Sim. Eu acho que ele tá esperando por nós no portão da montanha. A única rota que temos é o portão da montanha porque nossa melhor força, Saber, só consegue entrar por ali.[lr]::
+44423::$$$message_0393_0040_0001$$$::Então[line4]"::
+44424::$$$message_0393_0041_0000$$$::"...Entendo.[lr]::
+44425::$$$message_0393_0041_0001$$$::Eu vou correr até o portão da montanha sozinha.[lr]::
+44426::$$$message_0393_0041_0002$$$::Rin e o Shirou vão se esgueirar para dentro do Templo Ryuudou pelos fundos enquanto eu faço isso.[lr]::
+44427::$$$message_0393_0041_0003$$$::O Campo Limitado no Templo Ryuudou é insignificante para vocês dois."::
+44428::$$$message_0393_0042_0000$$$::"Exatamente. ...Você vai precisar dar seu melhor, mas só mantém ele ocupado. A gente vai te ajudar assim que a gente parar o santo graal."[lr]::
+44429::$$$message_0393_0042_0001$$$::"[line3]Espera. Isso é arriscado. A Saber não vai ser párea pra ele.[lr]::
+44430::$$$message_0393_0042_0002$$$::Ela não pode manter ele ocupado."::
+44431::$$$message_0393_0043_0000$$$::"Huh? O quê? Você parece achar ele bem incrível, Shirou."[lr]::
+44432::$$$message_0393_0043_0001$$$::"Verdade. Ele é um inimigo forte, mas eu não vou perder tão facilmente se eu for me defender.[lr]::
+44433::$$$message_0393_0043_0002$$$::Por favor me conte sobre o que essa opinião se baseia."::
+44434::$$$message_0393_0044_0000$$$::"Ah, não foi isso que eu quis dizer. Ao meu ver, a Saber é mais forte que ele.[lr]::
+44435::$$$message_0393_0044_0001$$$::Eu tenho certeza disso. Eu apostaria nela também."::
+44436::$$$message_0393_0045_0000$$$::"...? Então por que você está falando isso?"::
+44437::$$$message_0393_0046_0000$$$::"Você não pode derrotar ele enquanto você for um espírito heroico.[lr]::
+44438::$$$message_0393_0046_0001$$$::...Sim, a Saber não iria perder se ele tivesse o mesmo fantasma nobre que ela. Nós nem precisamos comparar as suas habilidades como espadachim."::
+44439::$$$message_0393_0047_0000$$$::"Mas o poder dele não é o de um 'individual'. Um soldado não consegue derrotar a própria guerra não importa o quão forte ele seja, certo?[lr]::
+44440::$$$message_0393_0047_0001$$$::Ele é um espírito heroico desse tipo. Você vai ser derrotada a não ser que você seja uma 'guerra' assim como ele."::
+44441::$$$message_0393_0048_0000$$$::"......? ...Então você está me dizendo que meus atributos não encaixam para lutar com ele?"::
+44442::$$$message_0393_0049_0000$$$::"Sim. Tohsaka, a gente não pode deixar a Saber lutar com ele sem um plano. Não tem como ela vencer a não ser que nós tenhamos uma contra-medida."[lr]::
+44443::$$$message_0393_0049_0001$$$::"Ei... Eu já sei disso.[lr]::
+44444::$$$message_0393_0049_0002$$$::É por isso que a gente vai pensar sobre isso agora."::
+44445::$$$message_0393_0050_0000$$$::"Hm. Então você tem um plano, Rin?"::
+44446::$$$message_0393_0051_0000$$$::"Ei. Eu não vou inventar uma ideia convenientemente num piscar de olhos.[lr]::
+44447::$$$message_0393_0051_0001$$$::O fantasma nobre dele é guerra, como o Shirou disse.[lr]::
+44448::$$$message_0393_0051_0002$$$::O resultado da guerra é decidido por quanto de força você tem, certo? Não é sobre o quão bem você lida com uma arma. É sobre quanta força você consegue preparar[line4]"::
+44449::$$$message_0393_0052_0000$$$::"......? O que tá errado, Tohsaka? Por que você parou de falar do nada?"[lr]::
+44450::$$$message_0393_0052_0001$$$::"...Entendi. É por isso que ele te tratou como um inimigo. Como o espírito heroico não tem seu próprio fantasma nobre, não há nenhum original. Ah... pera. Isso significa..."::
+44451::$$$message_0393_0053_0000$$$::"...Rin? O que há de errado? Por que você está atrás de mim?"[lr]::
+44452::$$$message_0393_0053_0001$$$::"N-Não é nada...! Eu vou pensar, então só conversem entre vocês dois...!"::
+44453::$$$message_0393_0054_0000$$$::"...?"[lr]::
+44454::$$$message_0393_0054_0001$$$::A Saber e eu nos olhamos.[lr]::
+44455::$$$message_0393_0054_0002$$$::...Bom, eu vou deixar ela sozinha se ela tem uma ideia.::
+44456::$$$message_0393_0055_0000$$$::"...Então eu deveria evitar lutar contra o Archer um a um, certo?[lr]::
+44457::$$$message_0393_0055_0001$$$::Mas eu tenho ajuda da Rin.[lr]::
+44458::$$$message_0393_0055_0002$$$::Eu posso usar meu fantasma nobre com o apoio dela. Eu acredito que há uma chance de derrotar ele antes que ele use o fantasma nobre dele."::
+44459::$$$message_0393_0056_0000$$$::"Seu fantasma nobre...? Não o ar invisível?"[lr]::
+44460::$$$message_0393_0056_0001$$$::"Não. Ar invisível é somente uma bainha.[lr]::
+44461::$$$message_0393_0056_0002$$$::Eu posso usar minha espada sagrada se a Rin permitir.[lr]::
+44462::$$$message_0393_0056_0003$$$::Essa é a espada que previamente destruiu o santo graal."::
+44463::$$$message_0393_0057_0000$$$::"[line3]Entendi. Então vai ser por conta da Tohsaka?"[lr]::
+44464::$$$message_0393_0057_0001$$$::"Sim. Vai haver um grande fardo tanto em mim quanto na Rin se eu usar. Eu vou provavelmente usar a maioria da energia mágica dela."::
+44465::$$$message_0393_0058_0000$$$::"Você ouviu isso, Tohsaka? Quanta energia mágica você pode guardar?"::
+44466::$$$message_0393_0059_0000$$$::"E-Energia mágica que eu consiga guardar? Como você sabe sobre o que eu tô pensando...!?"[lr]::
+44467::$$$message_0393_0059_0001$$$::"Huh?"::
+44468::$$$message_0393_0060_0000$$$::"...N-Não, não é nada. Eu falei pra você me deixar sozinha. Eu sei sobre o fantasma nobre da Saber.[lr]::
+44469::$$$message_0393_0060_0001$$$::Ela deve conseguir usar ele duas vezes com nossa energia mágica.[lr]::
+44470::$$$message_0393_0060_0002$$$::Nós vamos usar uma vez contra o santo graal, então você só pode usar uma vez contra o Gilgamesh."::
+44471::$$$message_0393_0061_0000$$$::"...Entendi. Uhm, Saber. É isso que a Tohsaka tá falando, então o que você acha?"::
+44472::$$$message_0393_0062_0000$$$::"...Eu não sei. Se o Archer possui todo fantasma nobre existente, ele deve possuir um que é igual ao meu. Após isso, depende de qual for mais forte."::
+44473::$$$message_0393_0063_0000$$$::"...Entendi. Então vai ser uma luta entre fantasmas nobres, huh?"[lr]::
+44474::$$$message_0393_0063_0001$$$::...Então o Gilgamesh é favorito a vencer.[lr]::
+44475::$$$message_0393_0063_0002$$$::Eu não posso deixar a Saber lutar uma luta impossível assim[line3]::
+44476::$$$message_0393_0064_0000$$$::Cara, eu não consigo pensar![lr]::
+44477::$$$message_0393_0064_0001$$$::Ela tem agido estranho.[lr]::
+44478::$$$message_0393_0064_0002$$$::Por que ela continua me encarando assim?::
+44479::$$$message_0393_0065_0000$$$::"Ei, Tohsaka. Pode falar se você quiser me dizer algo. Você tem uma ideia, certo?"[lr]::
+44480::$$$message_0393_0065_0001$$$::"[line4]E-Eu não tenho uma ideia! Eu não posso dizer algo assim aqui, idiota!"::
+44481::$$$message_0393_0066_0000$$$::Ela grita pra mim e olha pra longe envergonhada.::
+44482::$$$message_0393_0067_0000$$$::"......Shirou?"[lr]::
+44483::$$$message_0393_0067_0001$$$::"Não, não é nada. Ela tá agindo estranho, então vamos ignorar ela e continuar planejando."::
+44484::$$$message_0393_0068_0000$$$::Nós continuamos nossa reunião de estratégia só com nós dois.[lr]::
+44485::$$$message_0393_0068_0001$$$::...Mas como nosso "cérebro", Tohsaka, não quer falar, a gente não conseguiu pensar em nada.::
+44486::$$$message_0393_0069_0000$$$::"[line4]Nós podemos ir com o plano anterior se vocês não conseguirem pensar em nada.[lr]::
+44487::$$$message_0393_0069_0001$$$::Nós vamos sair antes do amanhecer. Todo mundo tem que descansar até então."[lr]::
+44488::$$$message_0393_0069_0002$$$::Nosso curso de ação é decidido pela Tohsaka.::
+44489::$$$message_0393_0070_0000$$$::[line4]Algum tempo passou depois disso.[lr]::
+44490::$$$message_0393_0070_0001$$$::É quase meia noite.::
+44491::$$$message_0393_0071_0000$$$::"......"[lr]::
+44492::$$$message_0393_0071_0001$$$::A Tohsaka falou pra eu tirar uma soneca, mas eu não consigo dormir em uma situação assim.[lr]::
+44493::$$$message_0393_0071_0002$$$::Nós vamos decidir nosso placar com aquele servo em algumas horas.[lr]::
+44494::$$$message_0393_0071_0003$$$::Como nós estamos saindo antes do amanhecer, tudo deve acabar até o horário que o sol subir.::
+44495::$$$message_0393_0072_0000$$$::"........."[lr]::
+44496::$$$message_0393_0072_0001$$$::Eu simplesmente não consigo ficar aqui e fazer nada.[lr]::
+44497::$$$message_0393_0072_0002$$$::Eu[line4][lr]::

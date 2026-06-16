@@ -1,0 +1,76 @@
+DAT
+id=qid::label=str::text=lstr::
+56425::$$$message_0498_0000_0000$$$::A análise da Tohsaka termina bem rápido.[lr]::
+56426::$$$message_0498_0000_0001$$$::Ela acendeu um incenso, fez um tipo de adivinhação com cartas de tarô e fez algumas perguntas pessoais, como as de um questionário.::
+56427::$$$message_0498_0001_0000$$$::E então, ela diz...[lr]::
+56428::$$$message_0498_0001_0001$$$::"[w l=3][line3]Você não corresponde a nada. Seria inútil fazer mais testes."[lr]::
+56429::$$$message_0498_0001_0002$$$::...E rapidamente dá o diagnóstico do meu Circuito Mágico.::
+56430::$$$message_0498_0002_0000$$$::"Ei. Isso quer dizer que você não conseguiu descobrir?"::
+56431::$$$message_0498_0002_0001$$$::Assim que eu pergunto para ela...::
+56432::$$$message_0498_0003_0000$$$::"Isso foi grosseiro. Eu descobri que você não possui relação com os cinco elementos. As consagrações além disso estão fora da minha área, por isso não vale à pena continuar.[lr]::
+56433::$$$message_0498_0003_0001$$$::Vou ver que tipo de magia você consegue usar para assim eu descobrir."::
+56434::$$$message_0498_0004_0000$$$::Se ela está dizendo...[lr]::
+56435::$$$message_0498_0004_0001$$$::Eu uso a magia de "fortalecimento" na argila que ela me entregou.::
+56436::$$$message_0498_0005_0000$$$::É chamado de cacho de éter, um objeto estranho que sempre volta para a sua forma original quando é modificado. Ele é um bom condutor de energia mágica.[lr]::
+56437::$$$message_0498_0005_0001$$$::Eu fortaleço a argila de um jeito tão fácil que fico com medo dela não conseguir se recuperar, mas...::
+56438::$$$message_0498_0006_0000$$$::"Não se preocupe, é igual shiniku. Mesmo se você embrulhá-la com uma energia mágica poderosa, ela volta para o seu estado original no dia seguinte."[lr]::
+56439::$$$message_0498_0006_0001$$$::...Foi isso o que ela disse.[lr]::
+56440::$$$message_0498_0006_0002$$$::Aliás, shiniku é uma carne que nunca acaba, não importa o quanto você coma.::
+56441::$$$message_0498_0007_0000$$$::...Enfim, eu continuo repetindo a magia de fortalecimento na argila.[lr]::
+56442::$$$message_0498_0007_0001$$$::Eu não queria falhar na frente da Tohsaka, mas só consigo duas vezes nas dez tentativas.[lr]::
+56443::$$$message_0498_0007_0002$$$::Ativar o meu Circuito Mágico, que era fácil quando eu tinha a Saber, levou muito tempo e esforço.::
+56444::$$$message_0498_0008_0000$$$::A Tohsaka me faz algumas perguntas enquanto eu uso a magia de fortalecimento.[lr]::
+56445::$$$message_0498_0008_0001$$$::Se eu aprendi sozinho, se eu consigo usar outras magias, como foi que o Kiritsugu me ensinou, e o que consigo imaginar com mais facilidade.::
+56446::$$$message_0498_0009_0000$$$::E então.[lr]::
+56447::$$$message_0498_0009_0001$$$::A cada resposta que eu dou, a expressão da Tohsaka vai ficando mais séria, até que ela não diz mais nada.[lr]::
+56448::$$$message_0498_0009_0002$$$::Eu não sei porque ela está nervosa, mas me sinto meio constrangido por estar aqui com ela fazendo essa cara.::
+56449::$$$message_0498_0010_0000$$$::"Tohsaka? ...Bem, talvez isso seja meio óbvio, mas será que você está arrependida de ter cooperado comigo porque eu ser um amador?"::
+56450::$$$message_0498_0010_0001$$$::Eu pergunto para ela o que acho ser o motivo mais provável.::
+56451::$$$message_0498_0011_0000$$$::"Hã...? Sim, eu estou arrependida por você ser um amador, mas o problema no seu caso é que você foi ensinado errado... Ou devo dizer que estou surpresa que você ainda esteja vivo por fazer as coisas dessa maneira."::
+56452::$$$message_0498_0011_0001$$$::A Tohsaka fica pensando.::
+56453::$$$message_0498_0012_0000$$$::"...? Eeeii, Tohsaka? Eu não estou entendendo nada."[lr]::
+56454::$$$message_0498_0012_0001$$$::".........?"[lr]::
+56455::$$$message_0498_0012_0002$$$::Por que ela está olhando feio pra mim?::
+56456::$$$message_0498_0013_0000$$$::"......Está bem. Acho que se eu for te corrigir, terei que fazer isso começando do básico. Mas vamos continuar a conversa de antes. É verdade que os objetos que você projetou ainda estão no seu galpão?"[lr]::
+56457::$$$message_0498_0013_0001$$$::"Sim. As coisas não costumam desaparecer a menos que você as quebre, não é mesmo?"::
+56458::$$$message_0498_0014_0000$$$::Eu disse a ela que uso projeção como descanso enquanto treino a magia de fortalecimento.[lr]::
+56459::$$$message_0498_0014_0001$$$::Parece que a Tohsaka é familiar com ela, e me pediu para usar projeção usando a argila.[lr]::
+56460::$$$message_0498_0014_0002$$$::Ela me pediu para fazer um vaso. Até estava indo bem, mas acabei falhando.::
+56461::$$$message_0498_0015_0000$$$::"[w l=3][line3]Humpf. Por hora, irei ensiná-lo a como ligar e desligar o seu interruptor interno.[lr]::
+56462::$$$message_0498_0015_0001$$$::É mais rápido criar um interruptor de verdade no seu corpo. Quero que você durma aqui hoje. É uma medida drástica, por isso você vai precisar ficar de cama a noite toda."::
+56463::$$$message_0498_0016_0000$$$::"O quê[w l=4][line4]? Você quer dizer, aqui?"[lr]::
+56464::$$$message_0498_0016_0001$$$::"Por que está fazendo essa cara? Não se preocupe. Não vou fazer nenhuma cirurgia em você. Só preciso que tome um medicamento. Bem, você não vai poder se mexer porque é o remédio é forte demais."::
+56465::$$$message_0498_0017_0000$$$::"Ah... Bem, não é que eu seja contra medidas drásticas..."[lr]::
+56466::$$$message_0498_0017_0001$$$::...Eu olho para o relógio.[lr]::
+56467::$$$message_0498_0017_0002$$$::São quase cinco da tarde.[lr]::
+56468::$$$message_0498_0017_0003$$$::Como está nublado lá fora, eu não tinha reparado antes, mas já está escurecendo.::
+56469::$$$message_0498_0018_0000$$$::A Tohsaka está me ajudando como uma maga.[lr]::
+56470::$$$message_0498_0018_0001$$$::Eu estou preocupado em deixar a Sakura sozinha naquele estado, mas hoje é uma exceção.::
+56471::$$$message_0498_0018_0002$$$::...Já que a Tohsaka está cooperando comigo, ela é a minha prioridade agora.::
+56472::$$$message_0498_0019_0000$$$::"...Ei, por que você está com esse olhar triste?[lr]::
+56473::$$$message_0498_0019_0001$$$::Você disse que não se importa em tomar medidas drásticas, não é mesmo? Então desiste logo e aceita de uma vez."::
+56474::$$$message_0498_0020_0000$$$::"...Sim, eu vou. Mas Tohsaka, deixa eu perguntar uma coisa. Nós vamos terminar isso hoje, não vamos? Seria um grande problema se eu não puder me mover amanhã."::
+56475::$$$message_0498_0021_0000$$$::"Bem... para ser sincera, eu não posso negar que talvez isso aconteça. Eu não tenho certeza de como vai ser o resultado, e vai acabar levando mais tempo se o seu corpo já tiver amadurecido ao ponto de não poder ser mais alterado. E ainda tem chance da própria operação falhar.[lr]::
+56476::$$$message_0498_0021_0001$$$::Enfim, isso vai depender da sua sorte. Como esteve a sua sorte nesses últimos dias, Emiya-kun?"::
+56477::$$$message_0498_0022_0000$$$::...Péssima.[lr]::
+56478::$$$message_0498_0022_0001$$$::Pior ainda porque a pessoa que me pergunta isso está com o meu destino nas mãos dela.::
+56479::$$$message_0498_0023_0000$$$::"...Espera aí. Isso seria um problemão.[lr]::
+56480::$$$message_0498_0023_0001$$$::Eu tenho que voltar para casa amanhã."[lr]::
+56481::$$$message_0498_0023_0002$$$::"Hã? Para a sua casa?"::
+56482::$$$message_0498_0024_0000$$$::"Sim. A Sakura está doente na minha casa, eu quero ver como ela está. Eu não vou conseguir dormir tranquilo até ter certeza de que ela está bem."::
+56483::$$$message_0498_0025_0000$$$::"Droga[w l=3][line3]eu tinha me esquecido."[lr]::
+56484::$$$message_0498_0025_0001$$$::...Ela está surpresa.[lr]::
+56485::$$$message_0498_0025_0002$$$::A Tohsaka olha para mim, sem acreditar, e então diz...[lr]::
+56486::$$$message_0498_0025_0003$$$::"Seu idiota! Se você tivesse me contado mais cedo, eu não teria te mantido aqui por tanto tempo...!"[lr]::
+56487::$$$message_0498_0025_0004$$$::...Como se estivesse descontando em mim, ela dá uma resposta que eu não esperava.::
+56488::$$$message_0498_0026_0000$$$::"Deixa o interruptor para depois! Nós podemos fazer isso lá na sua casa!"[lr]::
+56489::$$$message_0498_0026_0001$$$::"Q-quê...!?"[lr]::
+56490::$$$message_0498_0026_0002$$$::Depois de gritar comigo, ela se levanta, atravessa o quarto e veste o seu casaco.::
+56491::$$$message_0498_0027_0000$$$::"Vamos andando. Já terminamos por aqui, podemos fazer o resto na sua casa. Vamos continuar assim que você terminar de cuidar da Sakura, então vamos depressa."[lr]::
+56492::$$$message_0498_0027_0001$$$::"Eh[w l=4][line4]t-tá bom. Isso ajuda bastante."::
+56493::$$$message_0498_0028_0000$$$::"...Humpf. Eu vou te avisar logo porque não quero ficar repetindo isso toda hora.[lr]::
+56494::$$$message_0498_0028_0001$$$::[w l=3][line3]A sua natureza está na projeção, e não no fortalecimento.[lr]::
+56495::$$$message_0498_0028_0002$$$::Eu não sei em que momento você se confundiu, mas você é um mago que pertence ao 'lado que cria'."[lr]::
+56496::$$$message_0498_0028_0003$$$::A Tohsaka sai andando pelo corredor.::
+56497::$$$message_0498_0029_0000$$$::"...?"[lr]::
+56498::$$$message_0498_0029_0001$$$::Fico um pouco confuso, mas sigo ela, e partimos da histórica mansão Tohsaka.::

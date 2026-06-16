@@ -1,0 +1,260 @@
+DAT
+id=qid::label=str::text=lstr::
+70198::$$$message_0642_0000_0000$$$::São dez horas.[lr]::
+70199::$$$message_0642_0000_0001$$$::Tohsaka disse que iremos nos preparar para a batalha e ir ao Templo Ryuudou antes da meia-noite.::
+70200::$$$message_0642_0001_0000$$$::"Bom. Eu pretendo fazer você projetar a espada de jóias, mas como você se sente? Consegue projetá-la enquanto suprime o braço do Archer?"[lr]::
+70201::$$$message_0642_0001_0001$$$::"Ah[w l=4][line4]"[lr]::
+70202::$$$message_0642_0001_0002$$$::...Entendi.[lr]::
+70203::$$$message_0642_0001_0003$$$::A Illya não contou pra ela que eu tirei o Manto.[lr]::
+70204::$$$message_0642_0001_0004$$$::"Bom[w l=4][line4]uhm, sim..."::
+70205::$$$message_0642_0002_0000$$$::"Ah, isso é bom de ouvir. Então o resto é com você e a Illya.[lr]::
+70206::$$$message_0642_0002_0001$$$::A Espada Azoth, que é o mais próximo que podemos chegar da espada de jóias, a projeção do Shirou e o auxílio da Illya. Talvez não vamos conseguir replicá-la, mas se tudo der certo, podemos pelo menos conseguir reproduzir metade da sua habilidade original."[lr]::
+70207::$$$message_0642_0002_0002$$$::Tohsaka me entrega uma adaga.::
+70208::$$$message_0642_0003_0000$$$::"........."[lr]::
+70209::$$$message_0642_0003_0001$$$::A adaga é um equipamento ritualístico.[lr]::
+70210::$$$message_0642_0003_0002$$$::Deve ser uma das suas coisas preferidas, já que ela parece bastante usada.[lr]::
+70211::$$$message_0642_0003_0003$$$::Não só isso. Até um amador como eu consegue sentir o quanto de energia mágica está armazenado nessa coisa.::
+70212::$$$message_0642_0004_0000$$$::...Bom, isso não é nada comparado à sombra, mas continua sendo milhares de vezes maior que a minha capacidade de energia mágica.::
+70213::$$$message_0642_0005_0000$$$::"...Isso é incrível. Então você tinha uma coisas dessas na manga?"[lr]::
+70214::$$$message_0642_0005_0001$$$::"É claro que é incrível. Eu usei todas as jóias que eu tinha, as quais continham o equivalente a dez anos da minha energia mágica."::
+70215::$$$message_0642_0006_0000$$$::Tohsaka reclama, como se ela não quisesse ter as usado.[lr]::
+70216::$$$message_0642_0006_0001$$$::...Ela parece generosa, mas talvez ela seja bastante mesquinha quando se trata de dinheiro.::
+70217::$$$message_0642_0006_0002$$$::Bom, deixando isso de lado...::
+70218::$$$message_0642_0007_0000$$$::"Hmm, mas tá tudo bem mesmo, Tohsaka? Se você usou tudo o que tinha, então você ficou sem nada, não é? Eu sei que você não tá completamente curada, mas você ainda consegue lutar?"::
+70219::$$$message_0642_0008_0000$$$::"Bom, eu ainda consigo andar. Mas eu ainda não me curei a ponto de conseguir usar taumaturgia novamente."[lr]::
+70220::$$$message_0642_0008_0001$$$::"Espera[w l=4][line4]então..."::
+70221::$$$message_0642_0009_0000$$$::"Não precisa se preocupar. Vai ficar tudo bom contanto que você projete a espada de jóias. A espada tem poderes absurdos que dizem ser capaz de parar a 'lua caindo'."::
+70222::$$$message_0642_0010_0000$$$::"...?"[lr]::
+70223::$$$message_0642_0010_0001$$$::Eu não sei o que ela quis dizer, mas a Tohsaka parece bastante confiante.[lr]::
+70224::$$$message_0642_0010_0002$$$::...Bom, se ela está tão confiante assim, então eu não preciso me preocupar.::
+70225::$$$message_0642_0011_0000$$$::"Vamos começar, Shirou. Vai levar bastante tempo pra você projetar aquela espada, até mesmo pra você. Temos que começar agora ou não terminaremos antes da meia-noite."::
+70226::$$$message_0642_0012_0000$$$::"Tem razão. Então vamos voltar pro seu quarto. Se não estivermos em um local onde você possa relaxar, as nossas chances serão menores."[lr]::
+70227::$$$message_0642_0012_0001$$$::Tohsaka volta pra sala de estar.::
+70228::$$$message_0642_0013_0000$$$::"Ah, espera. Eu vou fazer a projeção no depósito.[lr]::
+70229::$$$message_0642_0013_0001$$$::E quero ficar sozinho com a Illya enquanto faço a projeção. Você pode ficar esperando no seu quarto?"[lr]::
+70230::$$$message_0642_0013_0002$$$::"Por quê? Eu preciso estar lá também caso aconteça alguma coisa, não acha?"::
+70231::$$$message_0642_0014_0000$$$::"Não há necessidade. Seria um incômodo ter você lá.[lr]::
+70232::$$$message_0642_0014_0001$$$::Shirou se distrai facilmente, por isso podemos falhar se você cair e chamar a atenção dele no momento mais crucial."::
+70233::$$$message_0642_0015_0000$$$::"...Ei, isso foi grosseiro, Illya."[lr]::
+70234::$$$message_0642_0015_0001$$$::Tohsaka reclama com um olhar azedo.[lr]::
+70235::$$$message_0642_0015_0002$$$::Mas ela não está se defendendo, talvez porque ela não consegue negar a possibilidade dela estragar tudo no momento mais crucial.::
+70236::$$$message_0642_0016_0000$$$::"...Tudo bem. Então eu vou esperar do lado de fora do depósito. Tudo bem assim, Illya?"[lr]::
+70237::$$$message_0642_0016_0001$$$::"...Acho que não há outro jeito. É o melhor acordo que podemos fazer."::
+70238::$$$message_0642_0017_0000$$$::Irei te chamar se acontecer alguma coisa, então por favor espere aqui até a gente terminar, não importa o que aconteça."::
+70239::$$$message_0642_0018_0000$$$::"Você está sendo persistente. Já disse que entendi. Não vou entrar mesmo se eu ouvir o Shirou gritando."[lr]::
+70240::$$$message_0642_0018_0001$$$::"........."[lr]::
+70241::$$$message_0642_0018_0002$$$::Não importa muito, mas gostaria que ela tivesse usado um exemplo melhor.::
+70242::$$$message_0642_0019_0000$$$::"Bom, vamos lá, Shirou."[lr]::
+70243::$$$message_0642_0019_0001$$$::Illya entra no depósito.[lr]::
+70244::$$$message_0642_0019_0002$$$::Eu decido perguntar uma coisa a Tohsaka antes de seguir ela.::
+70245::$$$message_0642_0020_0000$$$::"Tohsaka. Posso ficar com essa espada?"[lr]::
+70246::$$$message_0642_0020_0001$$$::"...? Você vai fazer a projeção usando ela. A Espada Azoth irá desaparecer assim que a espada de jóias for projetada."::
+70247::$$$message_0642_0021_0000$$$::"Sim. Já que você vai ficar com a espadas de jóias, eu posso ficar com essa aqui?[lr]::
+70248::$$$message_0642_0021_0001$$$::É que ela pode quebrar se eu falhar. Não vou conseguir me concentrar direito, pensando no quão brava você vai ficar se eu quebrar ela."::
+70249::$$$message_0642_0022_0000$$$::"...Aah. Tudo bem. Você pode ficar com a Espada Azoth se isso te deixa mais tranquilo."[lr]::
+70250::$$$message_0642_0022_0001$$$::"Obrigado. Então estou indo fazer o meu melhor."::
+70251::$$$message_0642_0023_0000$$$::...Eu bato a porta.[lr]::
+70252::$$$message_0642_0023_0001$$$::Não posso deixar a Tohsaka ver isso.[lr]::
+70253::$$$message_0642_0023_0002$$$::Sei que ela não vai me impedir agora, mas ela com certeza se sentirá responsável.[lr]::
+70254::$$$message_0642_0023_0003$$$::Se eu quiser amenizar a situação, terei que contar pra ela que eu usei o braço depois que tudo isso estiver resolvido para eu conseguir a sua aprovação.::
+70255::$$$message_0642_0024_0000$$$::"...Você está pronto, Shirou? Você usou o braço do Archer antes, por isso não preciso te explicar os passos, certo?"[lr]::
+70256::$$$message_0642_0024_0001$$$::Eu aceno que sim.[lr]::
+70257::$$$message_0642_0024_0002$$$::Illya me pede para sentar, e é o que eu faço.::
+70258::$$$message_0642_0025_0000$$$::"Mas Illya. Eu só consigo projetar o que eu já vi ou o que o Archer já criou. Eu não tenho nenhuma informação sobre a espada de jóias. Eu não consigo projetá-la mesmo se houver um diagrama e uma adaga que se pareça com ela."::
+70259::$$$message_0642_0026_0000$$$::"Eu sei. Primeiro farei você entrar dentro da minha memória. Eu também nunca vi ela, mas o registro da espada de jóias está dentro de mim.[lr]::
+70260::$$$message_0642_0026_0001$$$::O grande mestre dos Tohsakas estava lá quando o Grande Santo Graal foi criado.[lr]::
+70261::$$$message_0642_0026_0002$$$::Tenho certeza que a espada também estava lá naquela hora."::
+70262::$$$message_0642_0027_0000$$$::"Uah, Illya[w l=4][line4]"[lr]::
+70263::$$$message_0642_0027_0001$$$::Já fizemos isso antes. Irei mandar a sua visão para a minha memória, então analise a espada de jóias lá.[lr]::
+70264::$$$message_0642_0027_0002$$$::...Irei remover o pano do seu braço esquerdo assim que você entrar. Você será atingido pela pressão de duzentos anos e da invasão do seu braço ao mesmo tempo. Aguente firme e tente terminar a projeção o mais rápido possível."::
+70265::$$$message_0642_0028_0000$$$::"[w l=8][line8]"[lr]::
+70266::$$$message_0642_0028_0001$$$::A voz da Illya está tremendo.[lr]::
+70267::$$$message_0642_0028_0002$$$::...Seus braços também.::
+70268::$$$message_0642_0029_0000$$$::"...Vou te levar até a espada de jóias, por isso você só precisa prender a sua respiração. Esvazie a sua mente e não preste atenção em coisas desnecessárias. Você só precisa analisar a Zelretch[w l=4][line4]"::
+70269::$$$message_0642_0030_0000$$$::[w l=4][line4]O espaço se divide.[lr]::
+70270::$$$message_0642_0030_0001$$$::É porque todos os meus sentidos estão na memória dela...[lr]::
+70271::$$$message_0642_0030_0002$$$::ou é porque o pano do meu braço esquerdo foi removido?::
+70272::$$$message_0642_0031_0000$$$::Não há dor, a noção de dor não importa agora, estou sendo engolido pelo meu ferimento, estou caindo em um turbilhão de dor.::
+70273::$$$message_0642_0032_0000$$$::Eu não sei onde eu estou.::
+70274::$$$message_0642_0033_0000$$$::Eu não sei quem eu sou.::
+70275::$$$message_0642_0034_0000$$$::Eu não sei o que isso significa.::
+70276::$$$message_0642_0035_0000$$$::É um grande Circuito Mágico.[lr]::
+70277::$$$message_0642_0035_0001$$$::Vários brasões de múltiplas camadas estão gravados em uma rocha de mais de cinquenta metros de raio.[lr]::
+70278::$$$message_0642_0035_0002$$$::É como um grande observatório, girando ao redor de si mesmo no deserto do Arizona.::
+70279::$$$message_0642_0036_0000$$$::Os Circuitos cobrem a área em várias camadas.[lr]::
+70280::$$$message_0642_0036_0001$$$::As figuras geométricas giram no lugar.[lr]::
+70281::$$$message_0642_0036_0002$$$::Uma mulher branca está no centro dessa linda teia de aranha.::
+70282::$$$message_0642_0037_0000$$$::Seu nome é Justeaze.[lr]::
+70283::$$$message_0642_0037_0001$$$::Justeaze Lizrich von Einzbern.[lr]::
+70284::$$$message_0642_0037_0002$$$::Ela é a maga que inventou a Guerra do Santo Graal.[lr]::
+70285::$$$message_0642_0037_0003$$$::A grande maga que era chamada de santa do inverno. Uma maga acompanhada por Makiri Zouken e Tohsaka Nagato.::
+70286::$$$message_0642_0038_0000$$$::O Grande Santo Graal é ativado.[lr]::
+70287::$$$message_0642_0038_0001$$$::Justeaze se torna a chave para reencenar a antiga magia.[lr]::
+70288::$$$message_0642_0038_0002$$$::Sim. O Santo Graal é apenas um Santo Graal sem ela.[lr]::
+70289::$$$message_0642_0038_0003$$$::A sua vontade é necessária para o Heaven's Feel.[lr]::
+70290::$$$message_0642_0038_0004$$$::O velho homem sabe tão bem quanto os Makiris e Tohsakas que o Santo Graal é um mero realizador de desejos.::
+70291::$$$message_0642_0039_0000$$$::[w l=4][line4]Minha visão se estreita.[lr]::
+70292::$$$message_0642_0039_0001$$$::O mundo se expande.[lr]::
+70293::$$$message_0642_0039_0002$$$::Eu me concentrei em algo desnecessário. Por isso o meu corpo foi rasgado ao meio.::
+70294::$$$message_0642_0040_0000$$$::O mundo é grande demais para esse corpo pequeno.[lr]::
+70295::$$$message_0642_0040_0001$$$::Eventualmente eu não irei ver mais nada.[lr]::
+70296::$$$message_0642_0040_0002$$$::O processo por trás desse ritual de duzentos anos não importa.[lr]::
+70297::$$$message_0642_0040_0003$$$::Só preciso prestar atenção em uma coisa.[lr]::
+70298::$$$message_0642_0040_0004$$$::Eu me concentro no homem parado diante do Grande Santo Graal. Eu me concentro na adaga que está na sua mão[w l=4][line4]::
+70299::$$$message_0642_0041_0000$$$::[w l=4][line4]Essa é a original.[lr]::
+70300::$$$message_0642_0041_0001$$$::Uma adaga de ritual com uma lâmina feita de jóias.[lr]::
+70301::$$$message_0642_0041_0002$$$::Um brilho caleidoscópico atravessa os meus olhos e atinge o meu cérebro.::
+70302::$$$message_0642_0042_0000$$$::"[w l=8][line8], [w l=8][line8]"::
+70303::$$$message_0642_0043_0000$$$::Eu entendo no instante em que a vejo.[lr]::
+70304::$$$message_0642_0043_0001$$$::Eu entendo que não consigo compreendê-la.[lr]::
+70305::$$$message_0642_0043_0002$$$::Tudo o que eu posso fazer é imitar a sua forma.[lr]::
+70306::$$$message_0642_0043_0003$$$::Eu não consigo analisar a sua estrutura e projetá-la.::
+70307::$$$message_0642_0044_0000$$$::Com que tipo de teoria mágica ela foi construída?[lr]::
+70308::$$$message_0642_0044_0001$$$::A adaga do velho homem continua um mistério para mim, mesmo usando o braço do Archer e cada pedaço de conhecimento do Espírito Heroico Emiya.[lr]::
+70309::$$$message_0642_0044_0002$$$::É tecnologia alienígena.[lr]::
+70310::$$$message_0642_0044_0003$$$::O velho homem é a personificação do conhecimento de um futuro distante, além do alcance do homem moderno[w l=4][line4]::
+70311::$$$message_0642_0045_0000$$$::"[w l=4][line4]. [w l=4][line4]......!!"::
+70312::$$$message_0642_0046_0000$$$::Eu sou repelido.[lr]::
+70313::$$$message_0642_0046_0001$$$::Eu não posso ser repelido.[lr]::
+70314::$$$message_0642_0046_0002$$$::Eu não consigo alcançá-la.[lr]::
+70315::$$$message_0642_0046_0003$$$::Não alcançá-la é imperdoável.::
+70316::$$$message_0642_0047_0000$$$::Eu estendo a mão.[lr]::
+70317::$$$message_0642_0047_0001$$$::Eu estendo a mão.[lr]::
+70318::$$$message_0642_0047_0002$$$::Eu estendo a mão.[lr]::
+70319::$$$message_0642_0047_0003$$$::Meus olhos são queimados, meu cérebro é queimado.[lr]::
+70320::$$$message_0642_0047_0004$$$::Eu estendo o meu braço esquerdo por dezenas de metros, estendo, estendo, estendo[w l=8][line8]::
+70321::$$$message_0642_0048_0000$$$::"Para! Volta, Shirou...!"::
+70322::$$$message_0642_0049_0000$$$::Eu ouço a voz da Illya.[lr]::
+70323::$$$message_0642_0049_0001$$$::Mas eu ainda não cheguei lá.[lr]::
+70324::$$$message_0642_0049_0002$$$::Os meus dedos nem sequer a tocaram ainda.[lr]::
+70325::$$$message_0642_0049_0003$$$::Eu não posso voltar atrás.[lr]::
+70326::$$$message_0642_0049_0004$$$::Como eu poderia voltar atrás depois de ver o maior dos milagres...!?::
+70327::$$$message_0642_0050_0000$$$::"Desiste...! Você quer desaparecer, Shirou!?"::
+70328::$$$message_0642_0051_0000$$$::Chegue lá[w l=4][line4]::
+70329::$$$message_0642_0052_0000$$$::Chegue lá[w l=9][line9]::
+70330::$$$message_0642_0053_0000$$$::Chegue lá[line12]::
+70331::$$$message_0642_0054_0000$$$::Chegue lá[line13][r]::
+70332::$$$message_0642_0054_0001$$$::[line23][r]::
+70333::$$$message_0642_0054_0002$$$::[line22]::
+70334::$$$message_0642_0055_0000$$$::"Haa, ah.......!!!!!!!!"[lr]::
+70335::$$$message_0642_0055_0001$$$::"Shirou[w l=4][line4]!"[lr]::
+70336::$$$message_0642_0055_0002$$$::Eu pulei sozinho, ou fui empurrado por alguma coisa?[lr]::
+70337::$$$message_0642_0055_0003$$$::Eu estou voando, e caio de costas.::
+70338::$$$message_0642_0056_0000$$$::"Ha[w l=4][line4]ga, ah[w l=4][line4]!"[lr]::
+70339::$$$message_0642_0056_0001$$$::Meu braço esquerdo      dor              .[lr]::
+70340::$$$message_0642_0056_0002$$$::Minha língua       meus dedos             a tremedeira não                   .[lr]::
+70341::$$$message_0642_0056_0003$$$::"Ah[w l=4][line4]uwa, ah, ah[w l=4][line4]!"[lr]::
+70342::$$$message_0642_0056_0004$$$::.[lr]::
+70343::$$$message_0642_0056_0005$$$::,               .::
+70344::$$$message_0642_0057_0000$$$::"Fica      ! Eu vou         Manto           !"[lr]::
+70345::$$$message_0642_0057_0001$$$::"Haa, guh, ah..........!"[lr]::
+70346::$$$message_0642_0057_0002$$$::Uma grande faca me perfura pelo lado.[lr]::
+70347::$$$message_0642_0057_0003$$$::É tão desconfortável que eu empurro pra longe a pessoa que a está empunhando[w l=4][line4]::
+70348::$$$message_0642_0058_0000$$$::"Ah... Ouch[w l=4][line4]"[lr]::
+70349::$$$message_0642_0058_0001$$$::E então percebo que eu soquei a Illya.[lr]::
+70350::$$$message_0642_0058_0002$$$::"......! M-Me desculpa, Illya, eu[w l=4][line4]"[lr]::
+70351::$$$message_0642_0058_0003$$$::Ela tira a poeira da sua roupa e se levanta.[lr]::
+70352::$$$message_0642_0058_0004$$$::...Que bom. Ela não está machucada.::
+70353::$$$message_0642_0059_0000$$$::"Eu te disse para não prestar atenção em coisas desnecessárias, seu idiota![lr]::
+70354::$$$message_0642_0059_0001$$$::...Aah, vou deixar essa passar porque deu resultados, mas não vou te perdoar se você me desobedecer de novo!"::
+70355::$$$message_0642_0060_0000$$$::Ela aponta para o meu rosto enquanto me dá uma bronca.[lr]::
+70356::$$$message_0642_0060_0001$$$::...Espera.[lr]::
+70357::$$$message_0642_0060_0002$$$::Sentindo algo duro na minha mão esquerda, eu olho pra baixo.::
+70358::$$$message_0642_0061_0000$$$::"[w l=8][line8]"[lr]::
+70359::$$$message_0642_0061_0001$$$::......Eu consegui projetá-la.[lr]::
+70360::$$$message_0642_0061_0002$$$::Está projetada, mas ela não se parece com a que eu vi.[lr]::
+70361::$$$message_0642_0061_0003$$$::Em primeiro lugar, eu não sinto nenhuma energia mágica nessa coisa.[lr]::
+70362::$$$message_0642_0061_0004$$$::A Espada Azoth da Tohsaka é muito melhor do que isso, e essa lâmina não consegue nem cortar papel.::
+70363::$$$message_0642_0062_0000$$$::"Uhum. Tenho muito a reclamar, mas obrigada pelo bom trabalho, Shirou. A sua projeção foi perfeita. Você me mostrou uma obra de lâminas impecável."[lr]::
+70364::$$$message_0642_0062_0001$$$::"Uh[w l=4][line4]Eu não sei, ela está tão boa assim? Parece bem ruinzinha."::
+70365::$$$message_0642_0063_0000$$$::"Está bom desse jeito. Essa espada é uma espada demoníaca extraordinária que só pode ser usada por aqueles da linhagem do Schweinorg.[lr]::
+70366::$$$message_0642_0063_0001$$$::Bom, acho que é o destino. Sakura está recebendo a proteção da terceira magia e a Rin vai tentar usar a segunda. Isso não acabaria com uma simples investigação se a Associação estivesse aqui. Todos os departamentos ficariam malucos tentando levar as duas a julgamento."[lr]::
+70367::$$$message_0642_0063_0002$$$::Illya ri.::
+70368::$$$message_0642_0064_0000$$$::"...Uau. Essa adaga é tão incrível assim?"[lr]::
+70369::$$$message_0642_0064_0001$$$::"Sim. Pra ser mais precisa: ela é um fenômeno refratário multidimensional, Espada de Jóias Kischur Zelretch Schweinorg.[lr]::
+70370::$$$message_0642_0064_0002$$$::É chamada de Espada de Jóias Zelretch, e é a espada preferida do velho mago e também a herança dos Tohsakas."::
+70371::$$$message_0642_0065_0000$$$::"Mas a espada não foi passada através das gerações na família Tohsaka, apenas o diagrama dela.[lr]::
+70372::$$$message_0642_0065_0001$$$::É uma tarefa dada pelo feiticeiro aos magos Tohsakas que devem completá-la após muito, muito tempo."::
+70373::$$$message_0642_0066_0000$$$::"Uma tarefa dada pelo feiticeiro... Espera, esse grande mestre que a Tohsaka havia mencionado é um feiticeiro...!?"::
+70374::$$$message_0642_0067_0000$$$::"Sim. Mas o Zelretch é uma exceção entre os feiticeiros pois ele ainda se associa com esse mundo, por isso tenho certeza que ele tem outros aprendizes.[lr]::
+70375::$$$message_0642_0067_0001$$$::Não acho que o Zelretch esteja nesse mundo, mas ele pode aparecer assim que a Rin for capaz de criar a espada de jóias sozinha."::
+70376::$$$message_0642_0068_0000$$$::"Hmm......?"[lr]::
+70377::$$$message_0642_0068_0001$$$::Ele não está nesse mundo, mas pode aparecer de repente? Ele não é apenas um andarilho que gosta de viajar?::
+70378::$$$message_0642_0069_0000$$$::"[w l=8][line8]"[lr]::
+70379::$$$message_0642_0069_0001$$$::[w l=4][line4]Whoa.[lr]::
+70380::$$$message_0642_0069_0002$$$::Eu deixo minha guarda cair.[lr]::
+70381::$$$message_0642_0069_0003$$$::Eu fico tonto.[lr]::
+70382::$$$message_0642_0069_0004$$$::Eu cerro meu punho direito, sentindo o pingente perfurando a minha carne e assim me mantendo consciente.::
+70383::$$$message_0642_0070_0000$$$::"[w l=4][line4], [w l=4][line4]"[lr]::
+70384::$$$message_0642_0070_0001$$$::Eu estabilizo a minha respiração para não deixar a Illya perceber.[lr]::
+70385::$$$message_0642_0070_0002$$$::Meus membros[w l=4][line4]ainda sinto meus membros.::
+70386::$$$message_0642_0071_0000$$$::"[w l=8][line8]"[lr]::
+70387::$$$message_0642_0071_0001$$$::......Ótimo.[lr]::
+70388::$$$message_0642_0071_0002$$$::Eu pensei que perderia alguma coisa se eu usasse projeção, mas parece que não perdi nada ainda.[lr]::
+70389::$$$message_0642_0071_0003$$$::A minha cabeça ainda está funcionando.[lr]::
+70390::$$$message_0642_0071_0004$$$::A maior prova disso é que eu consigo checar a minha condição atual.[lr]::
+70391::$$$message_0642_0071_0005$$$::Eu devo ser capaz de usar mais uma projeção.::
+70392::$$$message_0642_0072_0000$$$::[w l=3][line3]Não, eu tenho que usar.[lr]::
+70393::$$$message_0642_0072_0001$$$::Preciso salvar a Sakura de uma maneira diferente do que a Tohsaka planeja.[lr]::
+70394::$$$message_0642_0072_0002$$$::O braço do Archer fará isso ser poss-::
+70395::$$$message_0642_0073_0000$$$::"Então             significa. Resumindo, a magia                mundos paralelos. Então seu apelido            Caleidoscópio             "[lr]::
+70396::$$$message_0642_0073_0001$$$::"[w l=4][line4]Tohsaka?"[lr]::
+70397::$$$message_0642_0073_0002$$$::"    ?      ,                    ?"::
+70398::$$$message_0642_0073_0003$$$::[line1]? [line2], [line9]?"::
+70399::$$$message_0642_0074_0000$$$::"[w l=8][line8]"[lr]::
+70400::$$$message_0642_0074_0001$$$::Não consigo compreendê-la.[lr]::
+70401::$$$message_0642_0074_0002$$$::Não é que eu não consigo ouvi-la. É que ela está falando em uma língua que eu não conheço.[lr]::
+70402::$$$message_0642_0074_0003$$$::Ela está falando em uma língua estranha e segurando algo perigoso na sua mão esquerda.::
+70403::$$$message_0642_0075_0000$$$::...Tohsaka está segurando uma espada que eu nunca vi antes.[lr]::
+70404::$$$message_0642_0075_0001$$$::Nunca vi antes?[lr]::
+70405::$$$message_0642_0075_0002$$$::Isso é impossível.[lr]::
+70406::$$$message_0642_0075_0003$$$::Eu projetei (eu acho) aquela espada agora há pouco, e minha mão esquerda está vazia, então isso significa que eu entreguei ela pra Tohsaka.::
+70407::$$$message_0642_0076_0000$$$::"Shirou?        do            .[lr]::
+70408::$$$message_0642_0076_0001$$$::A projeção foi                ?"[lr]::
+70409::$$$message_0642_0076_0002$$$::"[w l=8][line8]"::
+70410::$$$message_0642_0077_0000$$$::Eu sinto um calafrio.[lr]::
+70411::$$$message_0642_0077_0001$$$::Minha memória está vaga.[lr]::
+70412::$$$message_0642_0077_0002$$$::Não me lembro de nada.[lr]::
+70413::$$$message_0642_0077_0003$$$::O meu entendimento e os detalhes não se encaixam.::
+70414::$$$message_0642_0078_0000$$$::"Guh[w l=4][line4], ..........!"[lr]::
+70415::$$$message_0642_0078_0001$$$::Eu aperto a minha mão direita.[lr]::
+70416::$$$message_0642_0078_0002$$$::Meus olhos finalmente ficam focados em troca do sangue pingando.::
+70417::$$$message_0642_0079_0000$$$::"[w l=4][line4]Uhm, Tohsaka."[lr]::
+70418::$$$message_0642_0079_0001$$$::Eu me levanto.[lr]::
+70419::$$$message_0642_0079_0002$$$::Meus membros estão leves em comparação com a minha cabeça desconectada.[lr]::
+70420::$$$message_0642_0079_0003$$$::Eles estão tão leves que eu chego a pensar que eles estão vazios por dentro.::
+70421::$$$message_0642_0080_0000$$$::"Nada de 'Tohsaka'. Illya e eu vamos testá-la, por isso você deve descansar[w l=3][line3]espera, o que aconteceu com a sua mão...!"::
+70422::$$$message_0642_0081_0000$$$::Tohsaka me agarra.[lr]::
+70423::$$$message_0642_0081_0001$$$::Sua velocidade é surpreendentemente lenta, mas...[lr]::
+70424::$$$message_0642_0081_0002$$$::"Eh......? Por que você tem isso...?"[lr]::
+70425::$$$message_0642_0081_0003$$$::Minha mente não está funcionando direito, e ela consegue pegar a minha mão antes que eu perceba.::
+70426::$$$message_0642_0082_0000$$$::Tohsaka está olhando bastante surpresa para o pingente na palma da minha mão.[lr]::
+70427::$$$message_0642_0082_0001$$$::Eu não sei por que ela está surpresa.[lr]::
+70428::$$$message_0642_0082_0002$$$::Mas eu estou com isso porque...::
+70429::$$$message_0642_0083_0000$$$::"Shirou. Por que você tem isso? E você está maluco, segurando ele tão firme assim?"[lr]::
+70430::$$$message_0642_0083_0001$$$::"Por que? É apenas um amuleto. Isso é..."::
+70431::$$$message_0642_0084_0000$$$::...Uma coisa que eu peguei por aí.[lr]::
+70432::$$$message_0642_0084_0001$$$::Por que eu o peguei?[lr]::
+70433::$$$message_0642_0084_0002$$$::Isso é algo que eu não deveria esquecer, mas não consigo me lembrar.[lr]::
+70434::$$$message_0642_0084_0003$$$::Mas o estranho no meu braço esquerdo sabe melhor do que eu o que esse pingente significa.::
+70435::$$$message_0642_0085_0000$$$::"...Uh, é algo importante. Eu preciso ficar com ele até o final."::
+70436::$$$message_0642_0086_0000$$$::Palavras que não são minhas saem da minha boca.[lr]::
+70437::$$$message_0642_0086_0001$$$::".........[lr]::
+70438::$$$message_0642_0086_0002$$$::Shirou. Eu também tenho esse pingente."::
+70439::$$$message_0642_0087_0000$$$::"Eh?"[lr]::
+70440::$$$message_0642_0087_0001$$$::Tohsaka tira um pingente do seu bolso.[lr]::
+70441::$$$message_0642_0087_0002$$$::Com certeza é o mesmo.[lr]::
+70442::$$$message_0642_0087_0003$$$::É um design simples para uma usuária de jóias como a Tohsaka, mas acho que algo simples assim dá mais ênfase à sua beleza.::
+70443::$$$message_0642_0088_0000$$$::"Uau, eles são iguais."[lr]::
+70444::$$$message_0642_0088_0001$$$::Eu aceno de volta.::
+70445::$$$message_0642_0089_0000$$$::"Não. O meu está vazio, mas ainda resta um pouco de energia mágica no seu. Não é significante, mas tenho certeza que existe um significado por trás do uso dele."[lr]::
+70446::$$$message_0642_0089_0001$$$::"...?"::
+70447::$$$message_0642_0090_0000$$$::"Fica com ele. Ele pode vir a calhar."[lr]::
+70448::$$$message_0642_0090_0001$$$::Tohsaka guarda o seu pingente e se afasta com a Illya.::
+70449::$$$message_0642_0091_0000$$$::"Ei, Tohsaka. Onde você está indo?"[lr]::
+70450::$$$message_0642_0091_0001$$$::"Eu preciso conversar com a Illya. Vou deixar você descansar por uma hora, por isso fique no seu quarto.[lr]::
+70451::$$$message_0642_0091_0002$$$::E eu vou ficar brava de verdade se você não cuidar dessa sua mão direita agora mesmo."::
+70452::$$$message_0642_0092_0000$$$::"[w l=8][line8]"[lr]::
+70453::$$$message_0642_0092_0001$$$::O mau humor da Tohsaka beira a hostilidade.[lr]::
+70454::$$$message_0642_0092_0002$$$::Ela leva a Illya junto, que a segue sem dizer nada.::
+

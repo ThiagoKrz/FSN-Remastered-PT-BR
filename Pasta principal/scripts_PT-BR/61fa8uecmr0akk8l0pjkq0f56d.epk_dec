@@ -1,0 +1,202 @@
+DAT
+id=qid::label=str::text=lstr::
+60058::$$$message_0547_0000_0000$$$::Ela corre pelo corredor para encurrá-la a máscara de caveira.[lr]::
+60059::$$$message_0547_0000_0001$$$::Os quinze metros entre eles foram transformados em cinco.[lr]::
+60060::$$$message_0547_0000_0002$$$::Saber deve conseguir fechar a distância em um passo e cortar seu inimigo junto daquela máscara.::
+60061::$$$message_0547_0001_0000$$$::Mas inimigo sabe disso também.[lr]::
+60062::$$$message_0547_0001_0001$$$::Ele usa projéteis porque sabe que ele não é pâreo em curtas distâncias, e recua pois não quer ela perto dele.::
+60063::$$$message_0547_0002_0000$$$::Embora não tão rápido quanto a Saber, a caveira ainda recua na velocidade de uma besta veloz.[lr]::
+60064::$$$message_0547_0002_0001$$$::Ele desliza pelo chão, sem parar nem mesmo nas esquinas..[lr]::
+60065::$$$message_0547_0002_0002$$$::Ele tem um olho atrás da cabeça, ou a máscara está atrás de sua cabeça?[lr]::
+60066::$$$message_0547_0002_0003$$$::Assassin continuamente recua de seu oponente, mantendo a distância entre eles.::
+60067::$$$message_0547_0003_0000$$$::[w l=3][line3]Um spray de faísca.[lr]::
+60068::$$$message_0547_0003_0001$$$::Três adagas são lançadas sem movimento, mas não afetam Saber.::
+60069::$$$message_0547_0004_0000$$$::Como Lancer, Saber tem proteção contra projéteis.[lr]::
+60070::$$$message_0547_0004_0001$$$::Lancer lia o trajeto do projétil usando o som do ar cortante e a intenção de matar do inimigo.[lr]::
+60071::$$$message_0547_0004_0002$$$::Saber usa o som do ar cortante e seus instintos.[lr]::
+60072::$$$message_0547_0004_0003$$$::"Ataques imperceptíveis" não são nada para um espírito heroico.[lr]::
+60073::$$$message_0547_0004_0004$$$::São os ataques que não podem ser bloqueados, até quando detectados e compreendidos, que são fatais.::
+60074::$$$message_0547_0005_0000$$$::Neste quesito, a lança de Lancer é apropriada para ser chamada de Fantasma Nobre.[lr]::
+60075::$$$message_0547_0005_0001$$$::A arma que sempre acerta o coração não pode ser meramente bloqueada por saber disto.[lr]::
+60076::$$$message_0547_0005_0002$$$::Se alguém quer se opor contra esta lança demoníaca, ele deve...[lr]::
+60077::$$$message_0547_0005_0003$$$::Preparar um escudo que se sobressaia contra a energia mágica da lança,[lr]::
+60078::$$$message_0547_0005_0004$$$::ter sorte o bastante para mudar o destino determinado pela lança,[lr]::
+60079::$$$message_0547_0005_0005$$$::ou impedí-lo de usar a lança em primeiro lugar.::
+60080::$$$message_0547_0006_0000$$$::Comparado a isto, as adagas do Assassin são fáceis de lidar.[lr]::
+60081::$$$message_0547_0006_0001$$$::Elas podem ser fatais se atingirem quaisquer pontos vitais, mas elas não são diferentes de pedras sendo jogadas.::
+60082::$$$message_0547_0007_0000$$$::"Ha[w l=4][line4]"[lr]::
+60083::$$$message_0547_0007_0001$$$::Mais de quarenta punhais são jogados.[lr]::
+60084::$$$message_0547_0007_0002$$$::Tendo esgotado seu estoque de adagas, Assassin finalmente para.::
+60085::$$$message_0547_0008_0000$$$::"Mm[w l=4][line4]"[lr]::
+60086::$$$message_0547_0008_0001$$$::Saber para também, hesitando.[lr]::
+60087::$$$message_0547_0008_0002$$$::...o inimigo que não queria que ela se aproximasse parou.[lr]::
+60088::$$$message_0547_0008_0003$$$::Há algo de errado, com certeza, e uma presença sinistra cerca Assassin.[lr]::
+60089::$$$message_0547_0008_0004$$$::Esta não é uma situação onde dela pode pisar sem cuidado.::
+60090::$$$message_0547_0009_0000$$$::"[w l=3][line3]Desistiu, Assassin?"[lr]::
+60091::$$$message_0547_0009_0001$$$::A Saber sabe que é melhor matar Assassin agora, mas dá um passo para trás apesar disto.[lr]::
+60092::$$$message_0547_0009_0002$$$::Ela não deve avançar.[lr]::
+60093::$$$message_0547_0009_0003$$$::Estes instintos afiados durante os anos mantiveram-a viva por muito tempo.[lr]::
+60094::$$$message_0547_0009_0004$$$::Estes instintos estão gritando.[lr]::
+60095::$$$message_0547_0009_0005$$$::Não avance.[lr]::
+60096::$$$message_0547_0009_0006$$$::Fique longe da escuridão profunda.::
+60097::$$$message_0547_0010_0000$$$::"...sim, desisti, Saber. Estou sem munição.[lr]::
+60098::$$$message_0547_0010_0001$$$::Eu estou pronto para morrer num só golpe, então por que não está se aproximando?"::
+60099::$$$message_0547_0011_0000$$$::"[w l=8][line8]"[lr]::
+60100::$$$message_0547_0011_0001$$$::Saber não responde e levanta sua espada um pouco.[lr]::
+60101::$$$message_0547_0011_0002$$$::Ela aponta sua espada contra o inimigo.[lr]::
+60102::$$$message_0547_0011_0003$$$::Há sete metros de distância entre eles. Levará dois passos para chegar perto o bastante para acertá-lo.[lr]::
+60103::$$$message_0547_0011_0004$$$::Como espadachim, ela precisa se aproximar de seu oponente.[lr]::
+60104::$$$message_0547_0011_0005$$$::Mas ela tem uma tática secreta que pode ser usada de qualquer lugar,[lr]::
+60105::$$$message_0547_0011_0006$$$::embora possa ser usada apenas uma vez[w l=4][line4]::
+60106::$$$message_0547_0012_0000$$$::A capa preta de Assassin flutua.[lr]::
+60107::$$$message_0547_0012_0001$$$::Ele não sabe de onde vem o vento.::
+60108::$$$message_0547_0013_0000$$$::"Hah, então não quer conversar? Bem, falar é algo voluntário. Então, deixe-me falar a vontade."[lr]::
+60109::$$$message_0547_0013_0001$$$::A voz de Assassin é clara e forte, em contraste a sua aparência.[lr]::
+60110::$$$message_0547_0013_0002$$$::Saber aperta os olhos, pensando que sua voz é similar a de Lancer.::
+60111::$$$message_0547_0014_0000$$$::"Mas como você as repeliu? Joguei minhas adagas onde você não conseguiria ver. Conseguiu vê-las?"[lr]::
+60112::$$$message_0547_0014_0001$$$::"Não consegui, mas pude ler seu trajeto. Eu não estaria usando esta espada se temesse o que não posso ver."::
+60113::$$$message_0547_0015_0000$$$::A caveira ri, concordando.[lr]::
+60114::$$$message_0547_0015_0001$$$::O que ele pode fazer, jogando adagas negras em um oponenten armado com uma espada invisível?[lr]::
+60115::$$$message_0547_0015_0002$$$::Assassin continua rindo, sendo demonstrado a grande diferença de força entre seus Fantasmas Nobres e seus níveis como espíritos heroicos.::
+60116::$$$message_0547_0016_0000$$$::"Entendi. Então nunca fui pâreo para você.[lr]::
+60117::$$$message_0547_0016_0001$$$::Sou um Assassin, afinal. Não posso esperar ser pâreo contra outros Servos. Somos seres que habitam as sombras. Não há espíritos heroicos apropriados para este papel."[lr]::
+60118::$$$message_0547_0016_0002$$$::"[w l=8][line8]Que?"::
+60119::$$$message_0547_0017_0000$$$::"Logo, nosso papel é matar. Somos fracassados especializados em mater Mestres e não Servos.[lr]::
+60120::$$$message_0547_0017_0001$$$::[w l=3][line3]Bem. Neste quesito, só há um alvo para mim.[lr]::
+60121::$$$message_0547_0017_0002$$$::Entende, Saber? Minhas ações foram todas para matar seu Mestre."::
+60122::$$$message_0547_0018_0000$$$::"[w l=4][line4]Shirou."[lr]::
+60123::$$$message_0547_0018_0001$$$::"Exato. Meu mestre está recebendo o seu.[lr]::
+60124::$$$message_0547_0018_0002$$$::Embora você tenha separado ele de mim, ele logo será alimentado para os vermes de Zouken se você não se apressar."[lr]::
+60125::$$$message_0547_0018_0003$$$::"......!"[lr]::
+60126::$$$message_0547_0018_0004$$$::A luz emana da espada de Saber.[lr]::
+60127::$$$message_0547_0018_0005$$$::Ou melhor, a espada dourada está revelando sua verdadeira forma.::
+60128::$$$message_0547_0019_0000$$$::"[w l=4][line4]Ah! Então estava escondendo sua espada com uma maldição do vento. Entendo, poderá me atacar só com a mera pressão do ar a partir de onde está. Não há necessidade para você adentrar a terra da morte."[lr]::
+60129::$$$message_0547_0019_0001$$$::A capa preta afunda.[lr]::
+60130::$$$message_0547_0019_0002$$$::A presa que ele deveria atrair revelou ter um ataque de longa distância.[lr]::
+60131::$$$message_0547_0019_0003$$$::Não há lugar para artimanhas agora.[lr]::
+60132::$$$message_0547_0019_0004$$$::Se Saber planeja matar Assassin sem se aproximar, então ele deve fechar a distância sozinho e matá-la antes.::
+60133::$$$message_0547_0020_0000$$$::"Nossas posições se inverteram agora. Adentrará no meu Ar Invisível?"[lr]::
+60134::$$$message_0547_0020_0001$$$::; Invisible Air -> Ar Invisível -Mat::
+60135::$$$message_0547_0021_0000$$$::A caveira se arrasta pelo chão.[lr]::
+60136::$$$message_0547_0021_0001$$$::Parece com uma espada na parede.[lr]::
+60137::$$$message_0547_0021_0002$$$::O ar comprimido se transforma num tornado de váculo, prestes a ser lançado contra Assassin.[lr]::
+60138::$$$message_0547_0021_0003$$$::Ele deve ser louco.[lr]::
+60139::$$$message_0547_0021_0004$$$::Ele pensa que pode sobreviver ao tornado fatal só deitando no chão?::
+60140::$$$message_0547_0022_0000$$$::"Bem. Será o fim não importa o que faça. Me deixe falar antes.[lr]::
+60141::$$$message_0547_0022_0001$$$::[w l=3][line3]Você disse que me derrotaria um-a-um, certo?"[lr]::
+60142::$$$message_0547_0022_0002$$$::Saber levanta sua espada.[lr]::
+60143::$$$message_0547_0022_0003$$$::Ele não pode recuar mesmo enquanto fala.[lr]::
+60144::$$$message_0547_0022_0004$$$::Saber está encarando Assassin.[lr]::
+60145::$$$message_0547_0022_0005$$$::Mesmo se Assassin se teletransportar, ela mataria-o antes disso.::
+60146::$$$message_0547_0023_0000$$$::"Por isso você me afastou de seu Mestre. Foi sábia em protegê-lo de mim."[lr]::
+60147::$$$message_0547_0023_0001$$$::Sua espada está sob sua cabeça.[lr]::
+60148::$$$message_0547_0023_0002$$$::Prestes a ser atacado, Assassin se abaixa ainda mais.::
+60149::$$$message_0547_0024_0000$$$::"Mas essa decisão incluia proteger a si mesma?"[lr]::
+60150::$$$message_0547_0024_0001$$$::Uma voz inquisitiva.[lr]::
+60151::$$$message_0547_0024_0002$$$::Para isto...[lr]::
+60152::$$$message_0547_0024_0003$$$::"[w l=3][line3]Estou com pressa. Adeus, Assassin."[lr]::
+60153::$$$message_0547_0024_0004$$$::...Saber responde com um único ataque.::
+60154::$$$message_0547_0025_0000$$$::A batalha está decidida.[lr]::
+60155::$$$message_0547_0025_0001$$$::O vendaval é como um dragão celestial, seu corpo de serpentina prestes a devorar sua presa.::
+60156::$$$message_0547_0026_0000$$$::Não há chance de defesa ou evasiva.[lr]::
+60157::$$$message_0547_0026_0001$$$::É como a lança de Lancer. Este gople não pode ser bloqueado a não ser que alguém tenha mais energia mágica do que o Ar Invisível.[lr]::
+60158::$$$message_0547_0026_0002$$$::A energia mágica de Assassin é muito menor do que a de Saber.[lr]::
+60159::$$$message_0547_0026_0003$$$::O único jeito de sobreviver ao ataque é impedir Saber de usá-lo.::
+60160::$$$message_0547_0027_0000$$$::Mas já é tarde demais, e o tornado já foi lançado.[lr]::
+60161::$$$message_0547_0027_0001$$$::Sua capa preta será rasgada em pedaços num mero segundo depois da lâmina descer.[lr]::
+60162::$$$message_0547_0027_0002$$$::O deslocamento da morte se aproxima como um tornado.[lr]::
+60163::$$$message_0547_0027_0003$$$::Com isto em sua frente...[lr]::
+60164::$$$message_0547_0027_0004$$$::"Deus é grande!"[lr]::
+60165::$$$message_0547_0027_0005$$$::...Assassin avança contra o vácuo com um grito de prazer.::
+60166::$$$message_0547_0028_0000$$$::"[w l=4][line4]Guh......!"[lr]::
+60167::$$$message_0547_0028_0001$$$::Um ataque mirado no pescoço.[lr]::
+60168::$$$message_0547_0028_0002$$$::Saber repele-o uma vez, e a fígura negra pula sobre ela para pousar atrás dela.::
+60169::$$$message_0547_0029_0000$$$::"Seu[w l=4][line4]!"[lr]::
+60170::$$$message_0547_0029_0001$$$::Num piscar de olhos, ela se vira e corta atrás dela.[lr]::
+60171::$$$message_0547_0029_0002$$$::Mas Assassin já saiu de seu alcance.::
+60172::$$$message_0547_0030_0000$$$::Ao mesmo tempo,[lr]::
+60173::$$$message_0547_0030_0001$$$::"[w l=8][line8]Que?"[lr]::
+60174::$$$message_0547_0030_0002$$$::A "presença sinistra" que ela sentia cobriu o chão embaixo dela.::
+60175::$$$message_0547_0031_0000$$$::"[w l=3][line3]Bem. Você foi infeliz em duas maneiras, Saber."[lr]::
+60176::$$$message_0547_0031_0001$$$::A sombra expande.[lr]::
+60177::$$$message_0547_0031_0002$$$::A poluição de lama invade sua prata.::
+60178::$$$message_0547_0032_0000$$$::"Uma é afinidade. Uma maldição para afastar tempestades é necessária para viajantes no deserto. A única mágia que sei é a de afastar ventos. E[w l=4][line4]"[lr]::
+60179::$$$message_0547_0032_0001$$$::Escuridão engole o caminho.[lr]::
+60180::$$$message_0547_0032_0002$$$::A sombra não se revela apesar do luar branco.[lr]::
+60181::$$$message_0547_0032_0003$$$::E[w l=4][line4][lr]::
+60182::$$$message_0547_0032_0004$$$::Ela vê-la fracamente, através da névoa em sua consciência enfraquecida.::
+60183::$$$message_0547_0033_0000$$$::"Assassin[w l=4][line4]seu[w l=4][line4]"[lr]::
+60184::$$$message_0547_0033_0001$$$::"Exato, Saber. O outro é que você escolheu este lugar como campo de batalha. Devia saber que algo sombrio habitava este lugar."::
+60185::$$$message_0547_0034_0000$$$::"[w l=4][line4], [w l=4][line4]Ah."[lr]::
+60186::$$$message_0547_0034_0001$$$::Ela nem mesmo consegue ouvir as palavras de Assassin.[lr]::
+60187::$$$message_0547_0034_0002$$$::Ela desaparecia em questão de segundos.[lr]::
+60188::$$$message_0547_0034_0003$$$::Esta sombra engole Servos.[lr]::
+60189::$$$message_0547_0034_0004$$$::Seu corpo detesta-a antes de sua mente apagada.::
+60190::$$$message_0547_0035_0000$$$::"Ha[w l=4][line4]ah, ahhhhhhh[w l=4][line4]!"[lr]::
+60191::$$$message_0547_0035_0001$$$::Ela não se importa.[lr]::
+60192::$$$message_0547_0035_0002$$$::Ela tem que fugir, mesmo se tiver que usar toda a energia mágica dela.::
+60193::$$$message_0547_0036_0000$$$::[w l=3][line3]Só seus pés foram engolidos.[lr]::
+60194::$$$message_0547_0036_0001$$$::Se ela lutar com toda sua força, poderá escapar.[lr]::
+60195::$$$message_0547_0036_0002$$$::Mesmo se perder boa parte de sua energia mágica e ambos os pés, escapar desta sombra é sua maior prioridade agora.::
+60196::$$$message_0547_0037_0000$$$::Mas.[lr]::
+60197::$$$message_0547_0037_0001$$$::"[w l=3][line3]Não. Você desaparecerá aqui, Saber."[lr]::
+60198::$$$message_0547_0037_0002$$$::A sombra não é sua única inimiga.[lr]::
+60199::$$$message_0547_0037_0003$$$::A caveira, observando Saber ser engolida, é a Morte que acabará com ela.::
+60200::$$$message_0547_0038_0000$$$::"Então[w l=4][line4]desde o começo..."[lr]::
+60201::$$$message_0547_0038_0001$$$::"Você disse que me derrotaria num um-a-um. Sim, este foi seu erro. Você está sozinha, mas tenho dois ao meu lado. Meramente tive que te distrair."[lr]::
+60202::$$$message_0547_0038_0002$$$::A sombra continua invadindo.::
+60203::$$$message_0547_0039_0000$$$::"......! Ah[w l=3][line3]guh, ah[w l=4][line4]"[lr]::
+60204::$$$message_0547_0039_0001$$$::Sua existência apodrece em seus pés.[lr]::
+60205::$$$message_0547_0039_0002$$$::Ela não consegue sentir seus dedos nem pés.[lr]::
+60206::$$$message_0547_0039_0003$$$::Suas pernas já são algo que não existem neste mundo.::
+60207::$$$message_0547_0040_0000$$$::"Servos não podem se opor a al-layl, a verdadeira noite. Ainda mais se você for um espírito heroico apropriado. Mesmo eu, que sou próximo dela, tenho minha energia sugada se tocá-la. Uma genuína como você deveria perder a consciência só por tocá-la.[lr]::
+60208::$$$message_0547_0040_0001$$$::...mas seria um desperdício. Meu objetivo não estará completo se eu deixá-la desaparecer. Tomarei seu coração."::
+60209::$$$message_0547_0041_0000$$$::"Que[w l=4][line4]vai?"[lr]::
+60210::$$$message_0547_0041_0001$$$::"Não é estranho? Estou sem adagas, e não posso me aproximar da sombra? Acha que sou incapaz de te matar?"::
+60211::$$$message_0547_0042_0000$$$::Intenção de matar é exalada da máscara.[lr]::
+60212::$$$message_0547_0042_0001$$$::Pequenos traços de energia mágica se juntam em seu braço direito.::
+60213::$$$message_0547_0043_0000$$$::...o braço direito de Assassin é um graveto.[lr]::
+60214::$$$message_0547_0043_0001$$$::Um braço deformado sem uma mão não pode ser usado como braço.[lr]::
+60215::$$$message_0547_0043_0002$$$::Não pode segurar uma adaga, nem pode ser usado para acertar alguém.[lr]::
+60216::$$$message_0547_0043_0003$$$::Mas agora, este braço dobra.[lr]::
+60217::$$$message_0547_0043_0004$$$::Com o estalar de ossos quebrando, ele se abana como uma asa esfarrapada.::
+60218::$$$message_0547_0044_0000$$$::É uma abominação.[lr]::
+60219::$$$message_0547_0044_0001$$$::Que braço longo.[lr]::
+60220::$$$message_0547_0044_0002$$$::O toco em sua extremidade era na verdade o cotovelo.::
+60221::$$$message_0547_0044_0003$$$::O braço estava dobrado no cotovelo, com sua mão costurada ao ombro de Assassin.::
+60222::$$$message_0547_0045_0000$$$::"[w l=8][line8]"[lr]::
+60223::$$$message_0547_0045_0001$$$::A mente de Saber trava.[lr]::
+60224::$$$message_0547_0045_0002$$$::Ele vai alcançá-la.[lr]::
+60225::$$$message_0547_0045_0003$$$::Aquele braço consegue alcançá-la.[lr]::
+60226::$$$message_0547_0045_0004$$$::Ele vai alcançar e arrancar seu coração fora.[lr]::
+60227::$$$message_0547_0045_0005$$$::Seu braço dobra, enviando um calafrio por seu corpo, e[w l=4][line4]::
+60228::$$$message_0547_0046_0000$$$::O braço maldito é empurrado como uma lança.[lr]::
+60229::$$$message_0547_0046_0001$$$::O som de carne cortada e sangue jorante.[lr]::
+60230::$$$message_0547_0046_0002$$$::O sangue pinga no chão, manchando a sombra de vermelho.::
+60231::$$$message_0547_0047_0000$$$::"[w l=8][line8]Ki."[lr]::
+60232::$$$message_0547_0047_0001$$$::Loucura escorre da caveira mascarada.[lr]::
+60233::$$$message_0547_0047_0002$$$::O braço esticado está tingido de vermelho.[lr]::
+60234::$$$message_0547_0047_0003$$$::Depois de terminar o trabalho, o braço dobra de volta para Assassin...[lr]::
+60235::$$$message_0547_0047_0004$$$::"Ki, kikikikikikiki[w l=4][line4]!!!!"[lr]::
+60236::$$$message_0547_0047_0005$$$::...e é cortado no cotovelo.::
+60237::$$$message_0547_0048_0000$$$::"V-Você, como ousa fazer isso com este corpo prestes a morrer [r]seu[w l=4][line4]!"[lr]::
+60238::$$$message_0547_0048_0001$$$::"Haa[w l=4][line4]Haa[w l=4][line4]"[lr]::
+60239::$$$message_0547_0048_0002$$$::...sua espada levantada caí no chão.[lr]::
+60240::$$$message_0547_0048_0003$$$::O braço maldito de Assassin não alcançou Saber.[lr]::
+60241::$$$message_0547_0048_0004$$$::A espada de Saber cortou-o antes deu pudesse puxar a imagem refletida de seu coração.::
+60242::$$$message_0547_0049_0000$$$::Não importa o quão encuralada ela esteja, o Fantasma Nobre de Assassin não basta para matá-la.[lr]::
+60243::$$$message_0547_0049_0001$$$::Não.[lr]::
+60244::$$$message_0547_0049_0002$$$::Como ela bloqueou a lança de Lancer, que inverte causa e efeito, ela não pode se permitir se derrotar por este braço maldito.::
+60245::$$$message_0547_0050_0000$$$::"Ah[w l=4][line4]guh."[lr]::
+60246::$$$message_0547_0050_0001$$$::Mas este foi seu último ato de resistência.[lr]::
+60247::$$$message_0547_0050_0002$$$::Ela depositou o poder para escapar no ataque.::
+60248::$$$message_0547_0051_0000$$$::Ela não tem mais poder para escapar, e mesmo se pudesse, é tarde demais.[lr]::
+60249::$$$message_0547_0051_0001$$$::A presença sombria agora emana de dentro de si.[lr]::
+60250::$$$message_0547_0051_0002$$$::O sombra invadiu suas pernas e agora está em sua cintura.[lr]::
+60251::$$$message_0547_0051_0003$$$::Ela está virando parte desta escuridão, que engole até o luar.[lr]::
+60252::$$$message_0547_0051_0004$$$::Então[w l=4][line4]já é tarde demais.::
+60253::$$$message_0547_0052_0000$$$::...a sombra continua sumbindo.[lr]::
+60254::$$$message_0547_0052_0001$$$::E enquanto sua visão some, a espadachim prateada...::
+60255::$$$message_0547_0053_0000$$$::"Me perdoa[w l=4][line4]Shirou."[lr]::
+60256::$$$message_0547_0053_0001$$$::...consegue um último suspiro de desculpa antes de afundar na lama escura.::
+

@@ -1,0 +1,573 @@
+DAT
+id=qid::label=str::text=lstr::
+69190::$$$message_0638_0000_0000$$$::O relógio marca meia noite.[lr]::
+69191::$$$message_0638_0000_0001$$$::São doze horas, a hora prometida.::
+69192::$$$message_0638_0001_0000$$$::Eu enrolo a espada Azoth em um pano e a coloco ela abaixo do meu braço.[lr]::
+69193::$$$message_0638_0001_0001$$$::Essa é minha única arma. A única outra coisa que eu estou levando é o pingente.::
+69194::$$$message_0638_0002_0000$$$::"Shirou, a Rin está te chamando. Ela está esperando lá fora, então ela quer se encontrar assim que você estiver pronto."[lr]::
+69195::$$$message_0638_0002_0001$$$::Illya vai ficar aqui.[lr]::
+69196::$$$message_0638_0002_0002$$$::É parcialmente porque o Zouken está atrás dela, mas eu também estou fazendo ela ficar aqui porque ela é a minha esperança.::
+69197::$$$message_0638_0003_0000$$$::"Entendi. Então ela está aqui, huh?"[lr]::
+69198::$$$message_0638_0003_0001$$$::"Sim. Ela parecia querer que você fosse rapido, então ela provavelmente irá lhe dar um sermão se você não se apressar."::
+69199::$$$message_0638_0004_0000$$$::"[w l=8][line8]"[lr]::
+69200::$$$message_0638_0004_0001$$$::Eu aceno e me levanto.[lr]::
+69201::$$$message_0638_0004_0002$$$::Não há dor no meu braço esquerdo agora.[lr]::
+69202::$$$message_0638_0004_0003$$$::É só que minha funcionalidade como humano está em erosão.::
+69203::$$$message_0638_0005_0000$$$::Eu não consigo dizer o que estou fazendo se eu ficar parado.[lr]::
+69204::$$$message_0638_0005_0001$$$::"Então eu estou indo. Tome cuidado, Illya."[lr]::
+69205::$$$message_0638_0005_0002$$$::"Até mais, Shirou. Por favor volte para casa cmo a Sakura e a Rin antes que amanheça."[lr]::
+69206::$$$message_0638_0005_0003$$$::Eu me despeço e saio.::
+69207::$$$message_0638_0006_0000$$$::[w l=3][line3]O ar está tremendo.[lr]::
+69208::$$$message_0638_0006_0001$$$::Uma pressão que esmaga o espírito de qualquer um que venha aqui.[lr]::
+69209::$$$message_0638_0006_0002$$$::Um vendo deve estar soprando bem acima de mim.[lr]::
+69210::$$$message_0638_0006_0003$$$::Se eu forçar minhas orelhas, eu consigo ouvir o ar uivando.::
+69211::$$$message_0638_0007_0000$$$::"............"[lr]::
+69212::$$$message_0638_0007_0001$$$::...Eu conheço essa atmosfera.[lr]::
+69213::$$$message_0638_0007_0002$$$::É a reencenação do evento dez anos atrás.[lr]::
+69214::$$$message_0638_0007_0003$$$::O ar está espesso por causa de maldições. Até mesmo pessoas que não são magos devem sentir a ominosidade desse lugar.::
+69215::$$$message_0638_0008_0000$$$::"Esse sentimento... A Sakura está no Templo Ryuudou?"[lr]::
+69216::$$$message_0638_0008_0001$$$::"Não, nós não temos nada a fazer no Templo Ryuudou. O portão acima é o portão falso para os Mestres que querem o Santo Graal.[lr]::
+69217::$$$message_0638_0008_0002$$$::...Se nós quisermos o Santo Graal Maior, temos que descer ao invés de subir."::
+69218::$$$message_0638_0009_0000$$$::...A floresta está escura.[lr]::
+69219::$$$message_0638_0009_0001$$$::Nós escalamos a montanha usando o luar que é filtrado pelas nuvens.::
+69220::$$$message_0638_0010_0000$$$::Nós forçamos nosso caminho pelos galhos de árvore.[lr]::
+69221::$$$message_0638_0010_0001$$$::Não há sequer uma trilha de animal nesse lugar, então nós temos que descer até paredes rochosas.::
+69222::$$$message_0638_0011_0000$$$::"Hm[w l=3][line3]deveria ser por aqui, de acordo com a Illya... Você vê algo parecido com uma entrada, Shirou?"[lr]::
+69223::$$$message_0638_0011_0001$$$::"O que você quer dizer com 'parecido'?"::
+69224::$$$message_0638_0012_0000$$$::"Algo como uma rachadura numa rocha que nós podemos passar, ou um altar suspeito. É uma entrada, então eu não acho que seria só um buraco."[lr]::
+69225::$$$message_0638_0012_0001$$$::"...Não seja ridícula. As estrelas estão visíveis, mas eu não consigo ver nada numa floresta a noite[w l=4][line4]"::
+69226::$$$message_0638_0013_0000$$$::...Ah, eu consigo.[lr]::
+69227::$$$message_0638_0013_0001$$$::Acho que estamos atrás do templo, porque eu vejo muitas árvores mortas.[lr]::
+69228::$$$message_0638_0013_0002$$$::Não tem sinal algum de influência humana.  Não tem nada aqui além de árvores mortas e um rio pequeno.::
+69229::$$$message_0638_0014_0000$$$::"...Rio pequeno?"[lr]::
+69230::$$$message_0638_0014_0001$$$::Espera.[lr]::
+69231::$$$message_0638_0014_0002$$$::Isso significa que a água tá vindo de algum lugar.::
+69232::$$$message_0638_0015_0000$$$::"Espera. ...Um segundo. Eu vou dar uma olhada melhor."[lr]::
+69233::$$$message_0638_0015_0001$$$::Seguindo o som da água, eu descubro qual direção procurar.[lr]::
+69234::$$$message_0638_0015_0002$$$::...O rio não está vindo do topo da montanha, mas de uma cadeia de rochas.::
+69235::$$$message_0638_0016_0000$$$::Eu não consigo enxergar bem no escuro, mas as pedras são enormes.[lr]::
+69236::$$$message_0638_0016_0001$$$::A formação parece um portão natural, e tem água vindo de trás delas...::
+69237::$$$message_0638_0017_0000$$$::"...Parece uma caverna. ...Talvez seja um beco sem saída, mas..."[lr]::
+69238::$$$message_0638_0017_0001$$$::"O quê? Você encontrou algo?"[lr]::
+69239::$$$message_0638_0017_0002$$$::"Sim, vamos checar. É por aqui, Tohsaka. Cuidado onde pisa."::
+69240::$$$message_0638_0018_0000$$$::Nós caminhamos cuidadosamente ao lado do rio.[lr]::
+69241::$$$message_0638_0018_0001$$$::...É mais como um riacho saindo de uma das pedras.::
+69242::$$$message_0638_0019_0000$$$::As rochas estão empilhadas uma em cima da outra onde o riacho começa. Tem uma rachadura grande o suficiente para uma pessoa inteira passar.[lr]::
+69243::$$$message_0638_0019_0001$$$::É como uma cabana feita de rochas.[lr]::
+69244::$$$message_0638_0019_0002$$$::Você consegue ver que uma grande rocha está bloqueando a entrada, então ninguém tentaria entrar.::
+69245::$$$message_0638_0020_0000$$$::"É uma caverna pequena... Mas é um beco sem saída. A água parece estar vindo das rochas."[lr]::
+69246::$$$message_0638_0020_0001$$$::"Não, esse é o lugar, Shirou. Tenta tocar na pedra. Sua mão vai passsar por ela."::
+69247::$$$message_0638_0021_0000$$$::"Eh......?"[lr]::
+69248::$$$message_0638_0021_0001$$$::Eu tento colocar minha mão na pedra.[lr]::
+69249::$$$message_0638_0021_0002$$$::"Ah."[lr]::
+69250::$$$message_0638_0021_0003$$$::Eu não sinto a pedra, e minha mão passa por ela.::
+69251::$$$message_0638_0022_0000$$$::"Uau. Isso é algum tipo de ilusão?"[lr]::
+69252::$$$message_0638_0022_0001$$$::"É um tipo de campo taumatúrgicod. [w l=3][line3]Vamos lá."[lr]::
+69253::$$$message_0638_0022_0002$$$::Tohsaka entra na escuridão sem virar as costas.::
+69254::$$$message_0638_0023_0000$$$::"[w l=5][line5]"[lr]::
+69255::$$$message_0638_0023_0001$$$::Assim que nós entrarmos no lar do inimigo, não há como voltar atrás.[lr]::
+69256::$$$message_0638_0023_0002$$$::Eu respiro fundo e sigo atrás dela.::
+69257::$$$message_0638_0024_0000$$$::O som de raspadura na superfície dura.[lr]::
+69258::$$$message_0638_0024_0001$$$::Eu ando pelas rochas molhadas usando minhas mãos.[lr]::
+69259::$$$message_0638_0024_0002$$$::O chão prossegue de forma inclinada.::
+69260::$$$message_0638_0025_0000$$$::...O peso da escuridão é enrigecedor.[lr]::
+69261::$$$message_0638_0025_0001$$$::A não ser que eu mantenha minhas costas para o chão conforme eu me mexo, eu talvez caia na escuridão infinita.::
+69262::$$$message_0638_0026_0000$$$::"........."[lr]::
+69263::$$$message_0638_0026_0001$$$::Eu encosto minhas costas e lentamente desço.[lr]::
+69264::$$$message_0638_0026_0002$$$::......Está escuro, e eu não sei dizer o quão fundo esse caminho vai.[lr]::
+69265::$$$message_0638_0026_0003$$$::Minha respiração ecoa nos meus ouvidos.::
+69266::$$$message_0638_0027_0000$$$::"Shirou. Eu vou te perguntar agora."[lr]::
+69267::$$$message_0638_0027_0001$$$::...Então.[lr]::
+69268::$$$message_0638_0027_0002$$$::Tohsaka, que está liderando o caminho, repentinamente fala algo.::
+69269::$$$message_0638_0028_0000$$$::"O quê?"[lr]::
+69270::$$$message_0638_0028_0001$$$::"A espada de jóias. Por que você fez ela pra mim?"[lr]::
+69271::$$$message_0638_0028_0002$$$::Ela soa direta, como se estivesse perguntando para matar o tempo enquanto descemos.::
+69272::$$$message_0638_0029_0000$$$::"Por que a pergunta?"[lr]::
+69273::$$$message_0638_0029_0001$$$::"[w l=3][line3]Eu te falei que eu planejo matar a Sakura.[lr]::
+69274::$$$message_0638_0029_0002$$$::Você realmente pode me dar uma arma, sabendo disso?"[lr]::
+69275::$$$message_0638_0029_0003$$$::"[w l=7][line7]"[lr]::
+69276::$$$message_0638_0029_0004$$$::Eu aceno a cabeça concordando.[lr]::
+69277::$$$message_0638_0029_0005$$$::Bom, a Tohsaka certamente tem um ponto.::
+69278::$$$message_0638_0030_0000$$$::"Eu não estou bem com isso. Mas eu não consigo salvar a Sakura sem você. É melhor ter duas pessoas ao invés de só eu.[lr]::
+69279::$$$message_0638_0030_0001$$$::E projetar a espada foi minha promessa.[lr]::
+69280::$$$message_0638_0030_0002$$$::Eu não consegui manter uma das minhas promessas com você, então eu queria manter a outra."::
+69281::$$$message_0638_0031_0000$$$::Aconteceu muito tempo atrás.[lr]::
+69282::$$$message_0638_0031_0001$$$::Eu pedi ajuda pra Tohsaka depois de perder a Saber.[lr]::
+69283::$$$message_0638_0031_0002$$$::A Tohsaka respondeu meu pedido de ajuda, e eu fiz uma promessa com ela.::
+69284::$$$message_0638_0032_0000$$$::Deixar ela vencer.[lr]::
+69285::$$$message_0638_0032_0001$$$::Eu prometi fazer dela a vitoriosa.::
+69286::$$$message_0638_0033_0000$$$::...Eu não posso manter essa promessa.[lr]::
+69287::$$$message_0638_0033_0001$$$::Então eu tenho que manter minha outra promessa com ela.[lr]::
+69288::$$$message_0638_0033_0002$$$::Pela garota que eu costumava admirar...[lr]::
+69289::$$$message_0638_0033_0003$$$::Por Tohsaka Rin, que acreditou em alguém que não tinha nada.::
+69290::$$$message_0638_0034_0000$$$::"Entendi. Você é bem fiel."[lr]::
+69291::$$$message_0638_0034_0001$$$::"Sim, mas não tanto quanto você."[lr]::
+69292::$$$message_0638_0034_0002$$$::Silêncio retorna a escuridão.[lr]::
+69293::$$$message_0638_0034_0003$$$::A conversa acaba.[lr]::
+69294::$$$message_0638_0034_0004$$$::Nós continuamos nossa descida sem olhar um para o outro.::
+69295::$$$message_0638_0035_0000$$$::Um longo caminho que parece ir até o inferno.[lr]::
+69296::$$$message_0638_0035_0001$$$::O caminho desce em espiral, e assim que eu começo a pensar que estamos a mais de cem metros abaixo da superfície...[lr]::
+69297::$$$message_0638_0035_0002$$$::A caverna escura muda completamente, nos aceitando.::
+69298::$$$message_0638_0036_0000$$$::O caminho que só conseguia acomodar uma pessoa se alarga e segue em frente.[lr]::
+69299::$$$message_0638_0036_0001$$$::Não há necessidade de luz.[lr]::
+69300::$$$message_0638_0036_0002$$$::A caverna é iluminada por um fraco brilho verde, provavelmente vindo de um musgo luminoso.::
+69301::$$$message_0638_0037_0000$$$::O caminho está saturado por força vitale.[lr]::
+69302::$$$message_0638_0037_0001$$$::Parece muito vívido.[lr]::
+69303::$$$message_0638_0037_0002$$$::Um ar de nascimento, repleto de vigor e da alegria da vida.[lr]::
+69304::$$$message_0638_0037_0003$$$::Uma imensa quantidade de od, e mana tão forte que é quase visível.::
+69305::$$$message_0638_0038_0000$$$::"[w l=8][line8]"[lr]::
+69306::$$$message_0638_0038_0001$$$::Isso me faz querer vomitar.[lr]::
+69307::$$$message_0638_0038_0002$$$::O calor da vida deveria ser brilhante, mas neste caso é algo apodrecido, me fazendo querer virar a cara.::
+69308::$$$message_0638_0039_0000$$$::"............"[lr]::
+69309::$$$message_0638_0039_0001$$$::"[w l=8][line8]"[lr]::
+69310::$$$message_0638_0039_0002$$$::Eu não tenho palavras para falar a ela.[lr]::
+69311::$$$message_0638_0039_0003$$$::Essa é uma terra de morte.[lr]::
+69312::$$$message_0638_0039_0004$$$::Conversar um com o outro para aliviar a tensão somente custaria nossas vidas.::
+69313::$$$message_0638_0040_0000$$$::"[w l=3][line3]Vamos lá. Daqui pra frente, cuide da sua própria segurança primeiro."[lr]::
+69314::$$$message_0638_0040_0001$$$::...Tohsaka segue pelo caminho, até a origem do ar negro.::
+69315::$$$message_0638_0041_0000$$$::"......?"[lr]::
+69316::$$$message_0638_0041_0001$$$::Eu vejo algo vermelho no chão.[lr]::
+69317::$$$message_0638_0041_0002$$$::É uma trilha de sangue.[lr]::
+69318::$$$message_0638_0041_0003$$$::O sangue está levando aos fundos.::
+69319::$$$message_0638_0042_0000$$$::"[w l=8][line8]"[lr]::
+69320::$$$message_0638_0042_0001$$$::Alguém veio aqui antes de nós?[lr]::
+69321::$$$message_0638_0042_0002$$$::E alguém machucado o suficiente para deixar uma trilha de sangue para trás?::
+69322::$$$message_0638_0043_0000$$$::"Shirou."[lr]::
+69323::$$$message_0638_0043_0001$$$::"...Desculpa. Eu já vou."[lr]::
+69324::$$$message_0638_0043_0002$$$::Eu balanço para longe essa linha de pensamento e sigo em frente.[lr]::
+69325::$$$message_0638_0043_0003$$$::Eu não posso estar me preocupando com outros.::
+69326::$$$message_0638_0044_0000$$$::"[w l=7][line7]!"[lr]::
+69327::$$$message_0638_0044_0001$$$::Minha consciência para se eu deixar minha guarda cair.[lr]::
+69328::$$$message_0638_0044_0002$$$::Eu vou desaparecer se eu me preocupar com coisas desnecessárias.[lr]::
+69329::$$$message_0638_0044_0003$$$::"........."[lr]::
+69330::$$$message_0638_0044_0004$$$::Eu aperto o pendão ainda mais forte.[lr]::
+69331::$$$message_0638_0044_0005$$$::Deixando a dor clara na minha cabeça, eu piso na escuridão verde.::
+69332::$$$message_0638_0045_0000$$$::[w l=3][line3]Um quente vento acerta minhas bochechas.::
+69333::$$$message_0638_0046_0000$$$::No seu fim, um caminho abre na caverna.[lr]::
+69334::$$$message_0638_0046_0001$$$::É tão grande quanto o pátio da escola.[lr]::
+69335::$$$message_0638_0046_0002$$$::Está escuro demais para ver o teto, mas ele deve estar uns dez metros acima.::
+69336::$$$message_0638_0047_0000$$$::Eu não detecto sinais de vida.[lr]::
+69337::$$$message_0638_0047_0001$$$::Um espaço subterrâneo inesquecível que parece uma paisagem lunar que eu li sobre muito tempo atrás.[lr]::
+69338::$$$message_0638_0047_0002$$$::E ali...[lr]::
+69339::$$$message_0638_0047_0003$$$::Espera a Saber, repleta de hostilidade absoluta.[lr]::
+69340::$$$message_0638_0047_0004$$$::Ela é a única ali.[lr]::
+69341::$$$message_0638_0047_0005$$$::Eu não vejo a Sakura, Zouken, ou Assassin.[lr]::
+69342::$$$message_0638_0047_0006$$$::O único que eu vejo bloqueando o caminho aqui é a garota que virou preta.::
+69343::$$$message_0638_0048_0000$$$::"[w l=6][line6]Saber."[lr]::
+69344::$$$message_0638_0048_0001$$$::"[line10]"[lr]::
+69345::$$$message_0638_0048_0002$$$::Não há resposta.::
+69346::$$$message_0638_0049_0000$$$::...Óbvio.[lr]::
+69347::$$$message_0638_0049_0001$$$::A função da Saber é eliminar intrusos.[lr]::
+69348::$$$message_0638_0049_0002$$$::Ela é a porteira e a executora.[lr]::
+69349::$$$message_0638_0049_0003$$$::A Saber é o servo mais forte que a Sakura tem, então ela pode lutar conosco sozinha.::
+69350::$$$message_0638_0050_0000$$$::"...Hmpf. Não parece que podemos convencer ela a nos deixar passar."[lr]::
+69351::$$$message_0638_0050_0001$$$::A Tohsaka entra em posição de combate e alcança a espada de jóias que ela está escondendo atrás das suas costas.::
+69352::$$$message_0638_0051_0000$$$::[w l=3][line3]Ela deve planejar lutar de frente.[lr]::
+69353::$$$message_0638_0051_0001$$$::Eu não sei que tipo de habilidade a espada tem, mas ela vai lutar com a Saber.::
+69354::$$$message_0638_0052_0000$$$::Mas essa não é uma boa ideia.[lr]::
+69355::$$$message_0638_0052_0001$$$::Nós ainda temos uma contramedida, já que sabemos os poderes da Saber. Nós não podemos usar nossa única arma secreta quando o Zouken e Assassin ainad estão nos esperando[w l=4][line4]::
+69356::$$$message_0638_0053_0000$$$::"Espera, Tohsaka...! A Saber[w l=4][line4]"[lr]::
+69357::$$$message_0638_0053_0001$$$::"Rin. Eu não tenho motivo para lutar com você. Por favor não me ataque. Eu irei contra as ordens da Sakura se eu lhe matar aqui."::
+69358::$$$message_0638_0054_0000$$$::"......!"[lr]::
+69359::$$$message_0638_0054_0001$$$::Falando no mesmo tom silencioso de antes, Saber para a Tohsaka.[lr]::
+69360::$$$message_0638_0054_0002$$$::Nós compreendemos o que ela quis dizer imediatamente.::
+69361::$$$message_0638_0055_0000$$$::"...O que você está fazendo? Você está cuidando daqui, certo?"[lr]::
+69362::$$$message_0638_0055_0001$$$::"Sim. Eu devo eliminar qualquer um que passe por aqui.[lr]::
+69363::$$$message_0638_0055_0002$$$::Essa é a ordem da Sakura. Mas[w l=3][line3]"[lr]::
+69364::$$$message_0638_0055_0003$$$::"Eu sou uma exceção. A Sakura quer me ver, huh?"[lr]::
+69365::$$$message_0638_0055_0004$$$::Saber acena que sim.::
+69366::$$$message_0638_0056_0000$$$::"......Entendi. Ela deve estar séria."[lr]::
+69367::$$$message_0638_0056_0001$$$::Ela murmura.[lr]::
+69368::$$$message_0638_0056_0002$$$::...Depos de respirar fundo, Tohsaka caminha até a Saber.::
+69369::$$$message_0638_0057_0000$$$::"Tohsaka."[lr]::
+69370::$$$message_0638_0057_0001$$$::"Desculpa. Pelo jeito é assim que é, então eu vou na frente."[lr]::
+69371::$$$message_0638_0057_0002$$$::Tohsaka caminha sem hesitar e passa pela Saber.[lr]::
+69372::$$$message_0638_0057_0003$$$::E logo antes de desaparecer...[lr]::
+69373::$$$message_0638_0057_0004$$$::"Shirou. Eu não sei o que vai acontecer com você, mas eu acredito em você. Então é melhor você alcançar minhas expectativas."::
+69374::$$$message_0638_0058_0000$$$::"Huh?"[lr]::
+69375::$$$message_0638_0058_0001$$$::...Espera.[lr]::
+69376::$$$message_0638_0058_0002$$$::Eu não consigo entender se você reclamar pra mim sem me falar o que eu deveria fazer.[lr]::
+69377::$$$message_0638_0058_0003$$$::"E-Eu tô dizendo que seria uma droga se você vir reclamando depois que tudo acabar! ...Uhm, tenta não chegar muito tarde se você quiser salvar a Sakura."[lr]::
+69378::$$$message_0638_0058_0004$$$::Tohsaka desaparece, seu cabelo flutuando atrás de si.::
+69379::$$$message_0638_0059_0000$$$::"[w l=8][line8]"[lr]::
+69380::$$$message_0638_0059_0001$$$::...Obrigado, Tohsaka.[lr]::
+69381::$$$message_0638_0059_0002$$$::Isso me deu forças.[lr]::
+69382::$$$message_0638_0059_0003$$$::Resumindo, ela falou pra eu ir ajudar ela enquanto ela enrola a Sakura.[lr]::
+69383::$$$message_0638_0059_0004$$$::"Isso é impossível. Você irá morrer aqui, Shirou."[lr]::
+69384::$$$message_0638_0059_0005$$$::"......!"::
+69385::$$$message_0638_0060_0000$$$::Sua hostilidade expande.[lr]::
+69386::$$$message_0638_0060_0001$$$::Tohsaka saiu, me deixando sozinho.[lr]::
+69387::$$$message_0638_0060_0002$$$::Então ela não precisa mais se segurar, huh?::
+69388::$$$message_0638_0061_0000$$$::"...Ah. Não é seu trabalho matar qualquer um que passe daqui? Mas eu ainda nem dei um passo pra frente."[lr]::
+69389::$$$message_0638_0061_0001$$$::"[w l=3][line3]É somente uma questão de tempo. Você nunca se viraria e sairia."::
+69390::$$$message_0638_0062_0000$$$::A Saber está certa.[lr]::
+69391::$$$message_0638_0062_0001$$$::Recuar não é uma opção. Eu tenho que seguir em frente, mesmo que ela esteja no meu caminho.::
+69392::$$$message_0638_0063_0000$$$::"[w l=3][line3]Heh. Isso mesmo. Você me conhece bem.[lr]::
+69393::$$$message_0638_0063_0001$$$::Eu sempre te atrapalhei porque eu não te ouvia. Pelo jeito você ainda se lembra que eu sou estúpido."::
+69394::$$$message_0638_0064_0000$$$::Eu movo minha língua seca.[lr]::
+69395::$$$message_0638_0064_0001$$$::Eu não me sinto vivo.[lr]::
+69396::$$$message_0638_0064_0002$$$::Eu não consegui nem acertar a Saber quando lutamos no dojo, e ela não estava usando nem um décimo dos seus poderes.[lr]::
+69397::$$$message_0638_0064_0003$$$::Não tem como eu derrotar ela.[lr]::
+69398::$$$message_0638_0064_0004$$$::Meu pescoço vai ser cortado no instante que eu cruzar espadas com ela.::
+69399::$$$message_0638_0065_0000$$$::Então eu tenho que encontrar uma abertura.[lr]::
+69400::$$$message_0638_0065_0001$$$::Se não tiver uma abertura, eu vou fazer uma.[lr]::
+69401::$$$message_0638_0065_0002$$$::Eu preciso conseguir a atenção dela, mesmo que isso significa falar com ela ou apelar pra empatia.::
+69402::$$$message_0638_0066_0000$$$::...O começo da batalha não é quando as lâminas se encontram pela primeira vez.[lr]::
+69403::$$$message_0638_0066_0001$$$::Eu tenho que usar tudo que eu puder para encontrar uma forma de a derrotar.::
+69404::$$$message_0638_0067_0000$$$::"Você fala muito, Shirou. Você deseja a morte tanto assim?"[lr]::
+69405::$$$message_0638_0067_0001$$$::"Isso é assustador, Saber. ...Mas sua espada está na bainha. Você fala que vai me matar, mas ainda não tentou atacar."::
+69406::$$$message_0638_0068_0000$$$::"...Essa é a regra. Eu irei lhe poupar até você dar um passo para frente.[lr]::
+69407::$$$message_0638_0068_0001$$$::Mas isso não vai demorar. Você precisa ir até a Sakura. Eu não preciso me mover, já que você virá até mim assim que perder a paciência."::
+69408::$$$message_0638_0069_0000$$$::"[w l=4][line4]!"[lr]::
+69409::$$$message_0638_0069_0001$$$::Eu já falhei.[lr]::
+69410::$$$message_0638_0069_0002$$$::A Saber não tem aberturas para eu explorar.[lr]::
+69411::$$$message_0638_0069_0003$$$::Ela está contente em ficar parada e esperar eu agir.::
+69412::$$$message_0638_0070_0000$$$::"......Droga. Pelo jeito vou ter que lutar de frente com você."[lr]::
+69413::$$$message_0638_0070_0001$$$::Eu respiro fundo.[lr]::
+69414::$$$message_0638_0070_0002$$$::Só há uma maneira possível de sair dessa.[lr]::
+69415::$$$message_0638_0070_0003$$$::O braço do Archer.[lr]::
+69416::$$$message_0638_0070_0004$$$::Eu tenho que usar projeção para derrotar a Saber, assim como quando eu lutei com o Berserker.::
+69417::$$$message_0638_0071_0000$$$::...Mas...[lr]::
+69418::$$$message_0638_0071_0001$$$::Eu já sei que não consigo derrotar ela dessa forma.::
+69419::$$$message_0638_0072_0000$$$::"Haa[w l=5][line5]"[lr]::
+69420::$$$message_0638_0072_0001$$$::Minha mente está        .[lr]::
+69421::$$$message_0638_0072_0002$$$::cortada          membros         proteger os sentidos do [r]vento[w l=3][line3]!::
+69422::$$$message_0638_0073_0000$$$::"[w l=3][line3]Trace, on."[lr]::
+69423::$$$message_0638_0073_0001$$$::Eu crio a arma.[lr]::
+69424::$$$message_0638_0073_0002$$$::As espadas que vão ter o menos peso em mim de todas as projeções.[lr]::
+69425::$$$message_0638_0073_0003$$$::O símbolo que o Archer usou sua vida inteira: as espadas gêmeas.::
+69426::$$$message_0638_0074_0000$$$::Espada-Yin Bakuya, Espada-Yang Kanshou.[lr]::
+69427::$$$message_0638_0074_0001$$$::Elas não tem habilidades especiais, mas elas são espadas fortes.[lr]::
+69428::$$$message_0638_0074_0002$$$::Elas não vão se despedaçar por causa de um ou dois golpes, até mesmo contra a Saber.::
+69429::$$$message_0638_0075_0000$$$::"[w l=3][line3]As espadas do Archer. Você escolheu não imitar a minha própria, Shirou?"[lr]::
+69430::$$$message_0638_0075_0001$$$::"[w l=8][line8]"[lr]::
+69431::$$$message_0638_0075_0002$$$::...Com um esforço, eu reúno os pedaços da minha consciência.[lr]::
+69432::$$$message_0638_0075_0003$$$::...O que a Saber acabou de falar?[lr]::
+69433::$$$message_0638_0075_0004$$$::Ela me perguntou porque eu não projetei a espada dela?::
+69434::$$$message_0638_0076_0000$$$::...Eu não posso desperdiçar minha energia assim.[lr]::
+69435::$$$message_0638_0076_0001$$$::...Demora muito projetar um Fantasma Nobre tão poderoso, e eu não consigo lidar com essa espada sagrada de qualquer forma.[lr]::
+69436::$$$message_0638_0076_0002$$$::Eu deveria ser capaz de imitar ela se meu inimigo não estiver se movendo, mas eu não vou ter tempo de usar o verdadeiro nome da espada contra ela.::
+69437::$$$message_0638_0077_0000$$$::"...Não, isso não me interessa. A única coisa que importa é que você se armou.[lr]::
+69438::$$$message_0638_0077_0001$$$::Embora insignificante, eu irei encarar isso como ação hostil."::
+69439::$$$message_0638_0078_0000$$$::O corpo da Saber treme.[lr]::
+69440::$$$message_0638_0078_0001$$$::Ela segura a espada sagrada negra.[lr]::
+69441::$$$message_0638_0078_0002$$$::"Venha. Um corpo como o seu só irá durar alguns minutos."[lr]::
+69442::$$$message_0638_0078_0003$$$::Ela oferece ao meu corpo moribundo um convite silencioso.::
+69443::$$$message_0638_0079_0000$$$::[w l=3][line3]Eu dou um passo a frente.[lr]::
+69444::$$$message_0638_0079_0001$$$::Meu primeiro movimento, prevendo o contra-ataque da Saber, como evitá-lo... Eu jogo tudo pra longe e chuto o chão.[lr]::
+69445::$$$message_0638_0079_0002$$$::Eu balanço a espada-yin Bakuya.[lr]::
+69446::$$$message_0638_0079_0003$$$::Num piscar de olhos, eu fecho a distância de dez metros entre nós, concentro tudo que eu tenho no meu braço esquerdo, e balanço para baixo com toda minha força.::
+69447::$$$message_0638_0080_0000$$$::[w l=3][line3]Meu ataque é defendido.[lr]::
+69448::$$$message_0638_0080_0001$$$::Ignorando isso, eu balanço a espada-yang Kanshou.[lr]::
+69449::$$$message_0638_0080_0002$$$::Mas isso não muda nada.[lr]::
+69450::$$$message_0638_0080_0003$$$::Saber se livra dos meus ataques sem problemas, e sua espada é investida a fim de perfurar minha garganta[w l=4][line4]!::
+69451::$$$message_0638_0081_0000$$$::"......!?"[lr]::
+69452::$$$message_0638_0081_0001$$$::Qual de nós está surpreso?[lr]::
+69453::$$$message_0638_0081_0002$$$::[w l=3][line3]Eu não me importo.[lr]::
+69454::$$$message_0638_0081_0003$$$::Que tipo de milagre é esse que está executando ataques que Emiya Shirou não é capaz de executar e bloqueano ataques que Emiya Shirou não é capaz de bloquear?[lr]::
+69455::$$$message_0638_0081_0004$$$::[w l=3][line3]Eu não me importo.[lr]::
+69456::$$$message_0638_0081_0005$$$::O que é essa luz brilhante, a força que se renova a cada segundo?[lr]::
+69457::$$$message_0638_0081_0006$$$::[w l=3][line3]Eu realmente não me importo.::
+69458::$$$message_0638_0082_0000$$$::[w l=3][line3]É uma força exagerada que leva a morte, tanto quanto um calmo sono.[lr]::
+69459::$$$message_0638_0082_0001$$$::Meu corpo se move como um sobre-humano.[lr]::
+69460::$$$message_0638_0082_0002$$$::Minhas espadas se movem como relâmpagos.[lr]::
+69461::$$$message_0638_0082_0003$$$::Minha mente enxerga dez passos a frente, garantindo cinco ou mais segundos de sobrevivência para cada ataque que eu defendo.::
+69462::$$$message_0638_0083_0000$$$::"Haa[w l=4][line4]"[lr]::
+69463::$$$message_0638_0083_0001$$$::Eu só consigo me defender.[lr]::
+69464::$$$message_0638_0083_0002$$$::O único ataque permitido a mim foi o primeiro; o restodo tempo foi gasto defletindo os ataques dela.[lr]::
+69465::$$$message_0638_0083_0003$$$::Eu já bloqueei trinta ataques que poderiam ter me matado.::
+69466::$$$message_0638_0084_0000$$$::"Haa[w l=4][line4]ah, guh[w l=4][line4]"[lr]::
+69467::$$$message_0638_0084_0001$$$::O tempo para.[lr]::
+69468::$$$message_0638_0084_0002$$$::Meu corpo não consegue se manter com minha mente.[lr]::
+69469::$$$message_0638_0084_0003$$$::Meus membros não conseguem se manter com a esperiência extraída.[lr]::
+69470::$$$message_0638_0084_0004$$$::[w l=3][line3]É por isso que eu escolhi Kanshou e Bakuya.[lr]::
+69471::$$$message_0638_0084_0005$$$::Eu não só projetei a arma.[lr]::
+69472::$$$message_0638_0084_0006$$$::Eu reproduzi a experiência de batalha do Archer junto com as espadas.[lr]::
+69473::$$$message_0638_0084_0007$$$::Não é perfeito, mas minhas habilidades estão próximas dele agora.::
+69474::$$$message_0638_0085_0000$$$::"Haa, haa[w l=4][line4]haa[w l=4][line4]"[lr]::
+69475::$$$message_0638_0085_0001$$$::É por isso que eu consigo aguentar.[lr]::
+69476::$$$message_0638_0085_0002$$$::Minha visão estremece a cada golpe que eu defendo, mas eu consigo aguentar.::
+69477::$$$message_0638_0086_0000$$$::Minha mente e carne estão sendo raladas, e minha existência está desaparecendo.[lr]::
+69478::$$$message_0638_0086_0001$$$::Meu corpo grita com cada um dos seus ataques, e eu estou começando a enxergar minha morte a meros trinta passos a frente.[lr]::
+69479::$$$message_0638_0086_0002$$$::Não há medo.[lr]::
+69480::$$$message_0638_0086_0003$$$::Tudo que eu tenho é...::
+69481::$$$message_0638_0087_0000$$$::"Ha, ha[w l=3][line3]haa, haa, haha, hahaha...!"[lr]::
+69482::$$$message_0638_0087_0001$$$::...A alegria de conseguir me manter junto com ela.[lr]::
+69483::$$$message_0638_0087_0002$$$::Eu consigo lutar.[lr]::
+69484::$$$message_0638_0087_0003$$$::Eu estou lutando com ela.[lr]::
+69485::$$$message_0638_0087_0004$$$::Eu não ligo se isso é conhecimento emprestado e técnica emprestada.[lr]::
+69486::$$$message_0638_0087_0005$$$::Eu estou trocando golpes com a Saber[w l=4][line4]!::
+69487::$$$message_0638_0088_0000$$$::[w l=3][line3]Talvez exista uma chance de vitória.[lr]::
+69488::$$$message_0638_0088_0001$$$::Saber não vai usar sua espada sagrada.[lr]::
+69489::$$$message_0638_0088_0002$$$::Talvez porque vai quebrar o teto se ela usar, ou talvez por outro motivo. De qualquer forma, a Saber está lutando comigo usando somente sua técnica de combate.::
+69490::$$$message_0638_0089_0000$$$::Se esse é o caso, eu ainda consigo aguentar.[lr]::
+69491::$$$message_0638_0089_0001$$$::Deve existir uma abertura já que a Saber não está usando sua espada sagrada...!::
+69492::$$$message_0638_0090_0000$$$::"Haa[w l=4][line4]ha, ah[w l=4][line4]!!!!!"[lr]::
+69493::$$$message_0638_0090_0001$$$::Eu me movo mais rapidamente.[lr]::
+69494::$$$message_0638_0090_0002$$$::Eu mudo para marcha alta e piso no acelerador.[lr]::
+69495::$$$message_0638_0090_0003$$$::O manto no meu braço é irritante.[lr]::
+69496::$$$message_0638_0090_0004$$$::Eu me odeio por ser capaz de projetar somente mais uma vez.::
+69497::$$$message_0638_0091_0000$$$::[w l=4][line4]Extraia isso.[lr]::
+69498::$$$message_0638_0091_0001$$$::Mais fundo, mais largo, mais perto do limite.[lr]::
+69499::$$$message_0638_0091_0002$$$::Eu consigo continuar lutando com a Saber se eu conseguir extrair isso.::
+69500::$$$message_0638_0092_0000$$$::"Kuh[w l=4][line4]!"[lr]::
+69501::$$$message_0638_0092_0001$$$::"......!"[lr]::
+69502::$$$message_0638_0092_0002$$$::Meu corpo pula para trás.[lr]::
+69503::$$$message_0638_0092_0003$$$::O ataque da Saber me empurrou, então eu pulei para trás para me organizar.::
+69504::$$$message_0638_0093_0000$$$::"Haa[w l=3][line3]......... Haa, haa, haa[w l=4][line4]"[lr]::
+69505::$$$message_0638_0093_0001$$$::Eu tento recuperar minha respiração.[lr]::
+69506::$$$message_0638_0093_0002$$$::Cada músculo meu está pegando fogo.[lr]::
+69507::$$$message_0638_0093_0003$$$::É como se o calor dentro de mim estivesse saindo dos meus poros.::
+69508::$$$message_0638_0094_0000$$$::"Haa[w l=4][line4]Haa, ha[w l=4][line4]"[lr]::
+69509::$$$message_0638_0094_0001$$$::Com Kanshou e Bakuya nas minhas mãos, eu encaro a Saber.[lr]::
+69510::$$$message_0638_0094_0002$$$::Eu pulo dez metros para trás.[lr]::
+69511::$$$message_0638_0094_0003$$$::Até mesmo a Saber precisará dar dois passos para diminuir essa distância.[lr]::
+69512::$$$message_0638_0094_0004$$$::Com esse amortecedor entre nós, eu consigo relaxar.::
+69513::$$$message_0638_0095_0000$$$::"[w l=6][line6]"[lr]::
+69514::$$$message_0638_0095_0001$$$::Eu consigo minha respiração de volta rapidamente.[lr]::
+69515::$$$message_0638_0095_0002$$$::Eu olho para meu corpo por um segundo.[lr]::
+69516::$$$message_0638_0095_0003$$$::[w l=3][line3]Eu não me importo.[lr]::
+69517::$$$message_0638_0095_0004$$$::Se elas não me matarem, eu não ligo para essas espadas.[lr]::
+69518::$$$message_0638_0095_0005$$$::É um problema minha precisão de movimento estar caindo, mas felizmente eu não sinto dor.::
+69519::$$$message_0638_0096_0000$$$::Eu consigo bloquear mais cinco ataques da Saber.[lr]::
+69520::$$$message_0638_0096_0001$$$::Eu não sei dizer o que vai acontecer depois disso.[lr]::
+69521::$$$message_0638_0096_0002$$$::Então eu tenho que encontrar uma abertura nos próximos cinco ataques e atacar com tudo que eu tenho.::
+69522::$$$message_0638_0097_0000$$$::"[w l=3][line3]Impossível. Você não conseguirá me machucar assim, muito menos me derrotar."[lr]::
+69523::$$$message_0638_0097_0001$$$::Mas.[lr]::
+69524::$$$message_0638_0097_0002$$$::A Saber rapidamente derruba essa ideia.::
+69525::$$$message_0638_0098_0000$$$::"[w l=4][line4]Por quê? Eu tô me mantendo cmo você."[lr]::
+69526::$$$message_0638_0098_0001$$$::"Como você pode dizer isso, sabendo da sua condição? ......Não, você está investindo a frente com esse plano desesperado por causa do seu estado. Seu corpo está no limite, mesmo você não sangrando e sua carne virando espadas. Eu irei obliterar você nessa próxima troca de ataques."::
+69527::$$$message_0638_0099_0000$$$::"[w l=8][line8]"[lr]::
+69528::$$$message_0638_0099_0001$$$::...Eu sei.[lr]::
+69529::$$$message_0638_0099_0002$$$::Eu já sei disso.[lr]::
+69530::$$$message_0638_0099_0003$$$::Mas eu não tenho outra opção.[lr]::
+69531::$$$message_0638_0099_0004$$$::Eu só consigo projetar mais uma vez.[lr]::
+69532::$$$message_0638_0099_0005$$$::Então eu tenho que derrotar a Saber com as espadas que eu tenho agora.::
+69533::$$$message_0638_0100_0000$$$::"...Eu não vou saber até eu tentar. Eu vou atacar com mais poder na próxima vez. Se eu sobrecarregar você ao menos uma vez nos próximos cinco-"[lr]::
+69534::$$$message_0638_0100_0001$$$::"Shirou. Por que você está conservando sua energia?"[lr]::
+69535::$$$message_0638_0100_0002$$$::"[w l=8][line8]"::
+69536::$$$message_0638_0101_0000$$$::Suas palavras contém um significado mais profundo.[lr]::
+69537::$$$message_0638_0101_0001$$$::Contém tantos sentimentos que limpam minha quebrada e louca mente.::
+69538::$$$message_0638_0102_0000$$$::[w l=3][line3]De que adianta manter energia na reserva?::
+69539::$$$message_0638_0103_0000$$$::...Isso mesmo.[lr]::
+69540::$$$message_0638_0103_0001$$$::Eu vou morrer se não conseguir derrotar a Saber.[lr]::
+69541::$$$message_0638_0103_0002$$$::Mas eu ainda tenho uma carta na manga.[lr]::
+69542::$$$message_0638_0103_0003$$$::Eu estou salvando a última projeção para salvar a Sakura.[lr]::
+69543::$$$message_0638_0103_0004$$$::Mas...[lr]::
+69544::$$$message_0638_0103_0005$$$::Isso será insignificante se eu não conseguir chegar até a Sakura.::
+69545::$$$message_0638_0104_0000$$$::"[w l=3][line3]Mas isso é..."[lr]::
+69546::$$$message_0638_0104_0001$$$::Isso significa desistir da minha única chance de salvar a Sakura para poder derrotar a Saber.[lr]::
+69547::$$$message_0638_0104_0002$$$::Eu não posso fazer isso.[lr]::
+69548::$$$message_0638_0104_0003$$$::Não me ajudaria em nada morrer aqui, mas não há um objetivo se eu não conseguir usar projeção quando chegar na Sakura.::
+69549::$$$message_0638_0105_0000$$$::"[w l=3][line3]Shirou. Eu irei retornar a Sakura assim que lhe derrotar.[lr]::
+69550::$$$message_0638_0105_0001$$$::Você entende? Rin terá de enfrentar a Sakura e eu juntas."[lr]::
+69551::$$$message_0638_0105_0002$$$::"[w l=8][line8]"[lr]::
+69552::$$$message_0638_0105_0003$$$::Isso é impossível.[lr]::
+69553::$$$message_0638_0105_0004$$$::Tohsaka não vai ser capaz de lutar com as duas ao mesmo tempo.[lr]::
+69554::$$$message_0638_0105_0005$$$::Mas ao mesmo tempo[w l=3][line3]se a Sakura estiver sozinham a Tohsaka vai[w l=4][line4]::
+69555::$$$message_0638_0106_0000$$$::"Sim. Ela vai salvar a Sakura se eu não estivar lá."[lr]::
+69556::$$$message_0638_0106_0001$$$::Existe um sentido.[lr]::
+69557::$$$message_0638_0106_0002$$$::Saber tem que ficar aqui porque eu não fugi.[lr]::
+69558::$$$message_0638_0106_0003$$$::Sakura está lidando com a Tohsaka sem sua maior proteção.::
+69559::$$$message_0638_0107_0000$$$::[w l=3][line3]Mas isso é só por um momento.[lr]::
+69560::$$$message_0638_0107_0001$$$::Sakura pode chamar seu servo de volta a qualquer momento.[lr]::
+69561::$$$message_0638_0107_0002$$$::Sakura chamaria a Saber de volta se a Tohsaka a encurralasse.[lr]::
+69562::$$$message_0638_0107_0003$$$::Assim que isso acontecer, Tohsaka irá perder.[lr]::
+69563::$$$message_0638_0107_0004$$$::Então o que eu preciso fazer é evitar que a Saber volte a seu Mestre.::
+69564::$$$message_0638_0108_0000$$$::"[w l=4][line4]Saber, você..."[lr]::
+69565::$$$message_0638_0108_0001$$$::"Shirou. Isso é tudo que eu sou para você?"::
+69566::$$$message_0638_0109_0000$$$::[w l=3][line3]Meu coração para.[lr]::
+69567::$$$message_0638_0109_0001$$$::Não, meu coração já havia parado alguns segundos atrás.[lr]::
+69568::$$$message_0638_0109_0002$$$::Meu corpo já está quebrando.[lr]::
+69569::$$$message_0638_0109_0003$$$::Meu destino foi determinado desde quando eu tirei o manto na floresta dos Einzberns.::
+69570::$$$message_0638_0110_0000$$$::O corpo sem sentidos e a mente sem um eu não tem medo da morte.[lr]::
+69571::$$$message_0638_0110_0001$$$::Eu não sei mais nem o que é morte.[lr]::
+69572::$$$message_0638_0110_0002$$$::Mas eu me segurei a vida para salvar a Sakura.[lr]::
+69573::$$$message_0638_0110_0003$$$::Se meu desejo pode ser concedido, não importa como aconteça.::
+69574::$$$message_0638_0111_0000$$$::"...Heh. Então não é como se morrer aqui não fosse alcançar nada."::
+69575::$$$message_0638_0112_0000$$$::Eu estou determinado agora.[lr]::
+69576::$$$message_0638_0112_0001$$$::Tohsaka vai ter que enfrentar o Zouken, a Sakura, e a Saber se eu não lidar com a Saber agora.[lr]::
+69577::$$$message_0638_0112_0002$$$::Tem significância se eu conseguir diminuir o número de oponentes dela.[lr]::
+69578::$$$message_0638_0112_0003$$$::Mesmo se eu não conseguir salvar a Sakura, a Tohsaka vai fazer isso se eu lhe der a chance.::
+69579::$$$message_0638_0113_0000$$$::"[w l=4][line4]Trace, on."[lr]::
+69580::$$$message_0638_0113_0001$$$::Eu fecho meus olhos e uso projeção pela terceira vez.[lr]::
+69581::$$$message_0638_0113_0002$$$::Mas essas espadas gêmeas são as únicas armas que eu vou ler.[lr]::
+69582::$$$message_0638_0113_0003$$$::Eu ainda não compreendi suas capacidades completas.[lr]::
+69583::$$$message_0638_0113_0004$$$::Eu vou puxar pra fora as táticas do Archer e a verdadeira natureza de Kanshou e Bakuya.::
+69584::$$$message_0638_0114_0000$$$::"[w l=4][line4]!"[lr]::
+69585::$$$message_0638_0114_0001$$$::No instante que eu me conecto ao braço do Archer, os outros quarenta por cento da minha mente são reduzidos para vinte.::
+69586::$$$message_0638_0115_0000$$$::"[w l=6][line6]Ah."[lr]::
+69587::$$$message_0638_0115_0001$$$::Eu esqueço nomes.[lr]::
+69588::$$$message_0638_0115_0002$$$::Eu esqueço os nomes de várias coisas.[lr]::
+69589::$$$message_0638_0115_0003$$$::Meu nome inclusive.::
+69590::$$$message_0638_0116_0000$$$::Vá além.[lr]::
+69591::$$$message_0638_0116_0001$$$::Encontre, encontre, encontre.[lr]::
+69592::$$$message_0638_0116_0002$$$::Tem que ser aqui.[lr]::
+69593::$$$message_0638_0116_0003$$$::O método que eu não consegui criar, a posição que vai me garantir uma morte deve existir.[lr]::
+69594::$$$message_0638_0116_0004$$$::Ele preferia essas espadas.[lr]::
+69595::$$$message_0638_0116_0005$$$::Então não tem como ele não ter inventado um ataque supremo para passar pelas inúmeras batalhas[w l=4][line4]!::
+69596::$$$message_0638_0117_0000$$$::"[w l=8][line8]"[lr]::
+69597::$$$message_0638_0117_0001$$$::Dez por cento restante.[lr]::
+69598::$$$message_0638_0117_0002$$$::Me deixando para trás, eu puxo da fonte de experiência.::
+69599::$$$message_0638_0118_0000$$$::Duas curvas.[lr]::
+69600::$$$message_0638_0118_0001$$$::Yin e yang são atraídos um pelo outro.[lr]::
+69601::$$$message_0638_0118_0002$$$::Projeção consecutiva.[lr]::
+69602::$$$message_0638_0118_0003$$$::Manter a técnica básica.[lr]::
+69603::$$$message_0638_0118_0004$$$::Significando,::
+69604::$$$message_0638_0119_0000$$$::Habilidade divina, impecável e firme[lr]::
+69605::$$$message_0638_0119_0001$$$::Força move montanhas[lr]::
+69606::$$$message_0638_0119_0002$$$::Lâmina corta água[lr]::
+69607::$$$message_0638_0119_0003$$$::Vida se aproxima da vila imperial[lr]::
+69608::$$$message_0638_0119_0004$$$::Dois grandes homens, compartilhando suas vidas::
+69609::$$$message_0638_0120_0000$$$::"[w l=8][line8]"[lr]::
+69610::$$$message_0638_0120_0001$$$::[w l=3][line3]Eu o alcanço.[lr]::
+69611::$$$message_0638_0120_0002$$$::Eu alcanço o ataque fatal do Archer, o verdadeiro significado por trás de Kanshou e Bakuya.[lr]::
+69612::$$$message_0638_0120_0003$$$::O que eu estou prestes a fazer é meu limite.[lr]::
+69613::$$$message_0638_0120_0004$$$::Meus últimos três ataques.::
+69614::$$$message_0638_0121_0000$$$::Meu inimigo se prepara, capaz de sentir minha determinação.[lr]::
+69615::$$$message_0638_0121_0001$$$::...Quem é essa?[lr]::
+69616::$$$message_0638_0121_0002$$$::Todos os nomes foram jogados para fora da minha mente, mas esse inimigo é chamado...::
+69617::$$$message_0638_0122_0000$$$::"[w l=7][line7]"[lr]::
+69618::$$$message_0638_0122_0001$$$::Eu não tenho tempo para pensar.[lr]::
+69619::$$$message_0638_0122_0002$$$::Eu tenho que me mover enquanto consigo.[lr]::
+69620::$$$message_0638_0122_0003$$$::"[w l=3][line3]Habilidade divina, impecável e firme."[lr]::
+69621::$$$message_0638_0122_0004$$$::Eu tenho que superar meu inimigo nessa troca de golpes.::
+69622::$$$message_0638_0123_0000$$$::Eu jogo elas.[lr]::
+69623::$$$message_0638_0123_0001$$$::Eu carrego elas com o máximo de energia mágico que eu consigo reunir, e jogo elas pelos dois lados.::
+69624::$$$message_0638_0124_0000$$$::Mirando o pescoço do inimigo.[lr]::
+69625::$$$message_0638_0124_0001$$$::As duas armas fazem um arco cuja interseção é o inimigo.[lr]::
+69626::$$$message_0638_0124_0002$$$::As espadas formam uma bela cruz.[lr]::
+69627::$$$message_0638_0124_0003$$$::Nenhum herói sairia ileso depois de ser encurralado por Fantasmas Nobres que penetram ferro.::
+69628::$$$message_0638_0125_0000$$$::Mas...[lr]::
+69629::$$$message_0638_0125_0001$$$::O inimigo os bloqueia como se não fossem nada.[lr]::
+69630::$$$message_0638_0125_0002$$$::Ela fácilmente redireciona Kanshou e Bakuya que atacaram dos dois lados ao mesmo tempo.::
+69631::$$$message_0638_0126_0000$$$::[w l=3][line3]Ela escapou do ataque.[lr]::
+69632::$$$message_0638_0126_0001$$$::As espada gêmeas supostamente viriam de volta para mim mesmo se defletidas, mas ela as redireciona para trás dela.::
+69633::$$$message_0638_0127_0000$$$::Eu estou desarmado agora.[lr]::
+69634::$$$message_0638_0127_0001$$$::O inimigo se aproxima rapidamente do seu oponente desarmado.[lr]::
+69635::$$$message_0638_0127_0002$$$::Eu começo uma investida.::
+69636::$$$message_0638_0128_0000$$$::"[w l=3][line3]Congelamento, fora."::
+69637::$$$message_0638_0129_0000$$$::"A mesma arma...!?"[lr]::
+69638::$$$message_0638_0129_0001$$$::As espadas gêmeas bloqueiam seu ataque.[lr]::
+69639::$$$message_0638_0129_0002$$$::A projeção inteira foi completa.[lr]::
+69640::$$$message_0638_0129_0003$$$::Usando a imagem que eu havia preparado, eu crio Kanshou e Bakuya novamente.::
+69641::$$$message_0638_0130_0000$$$::"Inútil...![lr]::
+69642::$$$message_0638_0130_0001$$$::Esse Fantasma Nobre não é páreo para mim...!"::
+69643::$$$message_0638_0131_0000$$$::Ela solta seu ataque fatal.[lr]::
+69644::$$$message_0638_0131_0001$$$::Mas logo antes disso.[lr]::
+69645::$$$message_0638_0131_0002$$$::"[w l=4][line4]Força move montanhas."[lr]::
+69646::$$$message_0638_0131_0003$$$::Um ataque surpresa vem de uma direção inesperada.::
+69647::$$$message_0638_0132_0000$$$::"O quê......!?"[lr]::
+69648::$$$message_0638_0132_0001$$$::Ela usa seus instintos cognitivos e evita a Kanshou que voou até ela por trás.[lr]::
+69649::$$$message_0638_0132_0002$$$::Tomando vantagem dessa abertura perfeita, eu ataco usando a [r]Bakuya[w l=3][line3][lr]::
+69650::$$$message_0638_0132_0003$$$::"Hah[w l=4][line4]!"[lr]::
+69651::$$$message_0638_0132_0004$$$::E ela bloqueia com sua espada.::
+69652::$$$message_0638_0133_0000$$$::[w l=3][line3]Ela é um monstro.[lr]::
+69653::$$$message_0638_0133_0001$$$::Ela bloqueia tanto o ataque surpresa nas suas costas quanto meu ataque contendo toda minha força.[lr]::
+69654::$$$message_0638_0133_0002$$$::E ela destroi a Bakuya que eu usei para atacar.[lr]::
+69655::$$$message_0638_0133_0003$$$::Se ela não é um monstro, o que é um?::
+69656::$$$message_0638_0134_0000$$$::Mas.[lr]::
+69657::$$$message_0638_0134_0001$$$::"[w l=3][line3]Lâmina corta água."[lr]::
+69658::$$$message_0638_0134_0002$$$::Se eu não estivesse lutando com um monstro, eu não precisaria desse ataque...!::
+69659::$$$message_0638_0135_0000$$$::"Mais uma...!?"[lr]::
+69660::$$$message_0638_0135_0001$$$::Bakuya ataca ela por trás de novo.[lr]::
+69661::$$$message_0638_0135_0002$$$::Eu não preciso nem dizer que é a que foi jogada e defletida.::
+69662::$$$message_0638_0136_0000$$$::Kanshou e Bakuya são espadas gêmeas.[lr]::
+69663::$$$message_0638_0136_0001$$$::Elas atraem uma a outra como imãs.[lr]::
+69664::$$$message_0638_0136_0002$$$::Então[w l=3][line3]Bakuya automáticamente retorna a mim enquanto eu tiver a Kanshou[w l=4][line4]!::
+69665::$$$message_0638_0137_0000$$$::"Ku......!"[lr]::
+69666::$$$message_0638_0137_0001$$$::O inimigo desvia do ataque surpresa com reflexos divinos.[lr]::
+69667::$$$message_0638_0137_0002$$$::E eu esmago a Kanshou no seu peito desprotegido[w l=3][line3][lr]::
+69668::$$$message_0638_0137_0003$$$::Ela bloqueia até meu ataque final.::
+69669::$$$message_0638_0138_0000$$$::"[w l=8][line8]"[lr]::
+69670::$$$message_0638_0138_0001$$$::O tempo congela.[lr]::
+69671::$$$message_0638_0138_0002$$$::Nós tomamos um instante para observar a condição um do outro.[lr]::
+69672::$$$message_0638_0138_0003$$$::Meu ataque acabou.[lr]::
+69673::$$$message_0638_0138_0004$$$::Dois pares de Kanshou e Bakuya, Ela bloqueou o atauqe simultâneo de quatro lâminas; com todas minhas armas destruídas, eu não consigo fazer mais nada.::
+69674::$$$message_0638_0139_0000$$$::O inimigo está no seu limite também.[lr]::
+69675::$$$message_0638_0139_0001$$$::Ela destruiu minha arma ao custo de se deixar aberta.[lr]::
+69676::$$$message_0638_0139_0002$$$::Então não´há nada mais.::
+69677::$$$message_0638_0140_0000$$$::Essa batalha acabou com um impasse.[lr]::
+69678::$$$message_0638_0140_0001$$$::Nós dois estamos indefesos, e em um segundo estaremos aonde começamos.[lr]::
+69679::$$$message_0638_0140_0002$$$::[w l=3][line3]Mas.[lr]::
+69680::$$$message_0638_0140_0003$$$::Eu ainda tenho mais.::
+69681::$$$message_0638_0141_0000$$$::"[w l=8][line8]"[lr]::
+69682::$$$message_0638_0141_0001$$$::A expressão do inimigo congela.[lr]::
+69683::$$$message_0638_0141_0002$$$::Meu último dez por cento desaparece.[lr]::
+69684::$$$message_0638_0141_0003$$$::[w l=3][line3]Vida se aproxima da vila imperial.[lr]::
+69685::$$$message_0638_0141_0004$$$::"[w l=4][line4]Ah."[lr]::
+69686::$$$message_0638_0141_0005$$$::Eu passo do meu limite.[lr]::
+69687::$$$message_0638_0141_0006$$$::Eu crio outro par de espadas nas minhas mãos vazias.::
+69688::$$$message_0638_0142_0000$$$::"Saber[w l=4][line4]......!!!!!!!"[lr]::
+69689::$$$message_0638_0142_0001$$$::[w l=3][line3]Nós abraçamos o céu juntos......![lr]::
+69690::$$$message_0638_0142_0002$$$::Eu corto seu corpo indefeso por ambos os lados.::
+69691::$$$message_0638_0143_0000$$$::Eu me lembrei.[lr]::
+69692::$$$message_0638_0143_0001$$$::Eu me lembrei do seu nome nos meus momentos finais.[lr]::
+69693::$$$message_0638_0143_0002$$$::"[w l=8][line8]"[lr]::
+69694::$$$message_0638_0143_0003$$$::Mas é uma pena.[lr]::
+69695::$$$message_0638_0143_0004$$$::Eu não sei dizer se isso é algo para se arrepender ou ter orgulho.::
+69696::$$$message_0638_0144_0000$$$::"[w l=8][line8]"[lr]::
+69697::$$$message_0638_0144_0001$$$::Enfim, eu derrotei meu inimigo.[lr]::
+69698::$$$message_0638_0144_0002$$$::Esse ataque foi perfeito.[lr]::
+69699::$$$message_0638_0144_0003$$$::Então eu deveria descansar agora.[lr]::
+69700::$$$message_0638_0144_0004$$$::Meu coração ainda está batendo.[lr]::
+69701::$$$message_0638_0144_0005$$$::Eu devo ser capaz de me levantar novamente quando eu acordar.::
+69702::$$$message_0638_0145_0000$$$::Então por agora...[lr]::
+69703::$$$message_0638_0145_0001$$$::Eu vou dormir um pouco.::
+69704::$$$message_0638_0146_0000$$$::"Saber[w l=4][line4]......!!!!!!"[lr]::
+69705::$$$message_0638_0146_0001$$$::As espadas gêmeas são balançadas pelos dois lados.[lr]::
+69706::$$$message_0638_0146_0002$$$::Ela viu elas vindo, mas não conseguiu fazer nada para se defender.[lr]::
+69707::$$$message_0638_0146_0003$$$::Seu corpo não consegue alcançar seu pensamento.[lr]::
+69708::$$$message_0638_0146_0004$$$::Tendo bloqueado dois ataques surpresa do inimigo, seus membros estão ocupados por um curto momento.::
+69709::$$$message_0638_0147_0000$$$::"Ah[w l=4][line4]......!"[lr]::
+69710::$$$message_0638_0147_0001$$$::Ela cai de costas.[lr]::
+69711::$$$message_0638_0147_0002$$$::...Esse ataque é fatal.[lr]::
+69712::$$$message_0638_0147_0003$$$::Kanshou e Bakuya esguicharam seus órgãos para fora e esmagaram sua espinha dorsal.::
+69713::$$$message_0638_0148_0000$$$::"Ha, ah, guh......!!!!"[lr]::
+69714::$$$message_0638_0148_0001$$$::Ela geme de dor.[lr]::
+69715::$$$message_0638_0148_0002$$$::Um impacto com a força de uma explosão.[lr]::
+69716::$$$message_0638_0148_0003$$$::Ela tem feridas fatais, mas ela ainda está viva porque é um servo.::
+69717::$$$message_0638_0149_0000$$$::"Ah... Ah, haa..........[w l=4][line4]"[lr]::
+69718::$$$message_0638_0149_0001$$$::E para acrescentar, ela tem poderes de cura naturais.[lr]::
+69719::$$$message_0638_0149_0002$$$::Ela tem fortes habilidades regenerativas, misturadas com uma quase infinita fonte de energia mágica.[lr]::
+69720::$$$message_0638_0149_0003$$$::É necessário esmagar sua cabeça ou coração para matá-la.[lr]::
+69721::$$$message_0638_0149_0004$$$::Ela vai se curar em menos de dez minutos se deixada sozinha.[lr]::
+69722::$$$message_0638_0149_0005$$$::Mas[w l=4][line4]ao mesmo tempo, ela não consegue fazer nada por dez minutos e tem que aceitar quaiser golpes finais.::
+69723::$$$message_0638_0150_0000$$$::"Haa..... Ah[w l=4][line4]Você ficou forte, Shirou."[lr]::
+69724::$$$message_0638_0150_0001$$$::Ela fala com o garoto caído no chão.[lr]::
+69725::$$$message_0638_0150_0002$$$::Sua ferida é fatal também, mas ele deve ser capaz de se mover.[lr]::
+69726::$$$message_0638_0150_0003$$$::Deve ser fácil para ele se levantar e perfurar seu coração.::
+69727::$$$message_0638_0151_0000$$$::"...Não, eu falei errado. Você era forte desde o início."[lr]::
+69728::$$$message_0638_0151_0001$$$::Ela fala sozinha entre sua respiração ofegante.[lr]::
+69729::$$$message_0638_0151_0002$$$::A luta foi decidida.[lr]::
+69730::$$$message_0638_0151_0003$$$::Aceitando sua morte, ela fala em voz alta.::
+69731::$$$message_0638_0152_0000$$$::"Por favor termine essa batalha. Meu corpo ira regenerar se você não se apressar."[lr]::
+69732::$$$message_0638_0152_0001$$$::"[w l=8][line8]"[lr]::
+69733::$$$message_0638_0152_0002$$$::Não há resposta.[lr]::
+69734::$$$message_0638_0152_0003$$$::"......Shirou?"[lr]::
+69735::$$$message_0638_0152_0004$$$::Ela vira sua cabeça.[lr]::
+69736::$$$message_0638_0152_0005$$$::Ela olha para o garoto caído ao seu lado.::
+69737::$$$message_0638_0153_0000$$$::"[w l=8][line8]"[lr]::
+69738::$$$message_0638_0153_0001$$$::Não há ninguém ali.[lr]::
+69739::$$$message_0638_0153_0002$$$::O coração do garoto está batendo, e ele ainda está respirando.[lr]::
+69740::$$$message_0638_0153_0003$$$::Seus olhos estão abertos, encarando o teto.[lr]::
+69741::$$$message_0638_0153_0004$$$::Mas isso é tudo que está ali.[lr]::
+69742::$$$message_0638_0153_0005$$$::Sua mente foi destruída no insante em que ele usou projeção pela terceira vez.[lr]::
+69743::$$$message_0638_0153_0006$$$::...Aquela cujo seus limites a seguraram, e aquele que passous dos seus limites.[lr]::
+69744::$$$message_0638_0153_0007$$$::I resultado é aquele caído ao seu lado.::
+69745::$$$message_0638_0154_0000$$$::"[w l=4][line4]Então eu venci, Shirou."[lr]::
+69746::$$$message_0638_0154_0001$$$::Não há emoção em sua voz.[lr]::
+69747::$$$message_0638_0154_0002$$$::Ela já está acostumada.[lr]::
+69748::$$$message_0638_0154_0003$$$::Ela viu vários inimigos arriscarem suas vidas e morrer de forma insignificante.[lr]::
+69749::$$$message_0638_0154_0004$$$::É isso que significa ser forte.[lr]::
+69750::$$$message_0638_0154_0005$$$::Um herói é alguém que corta seus inimigos usando tudo que tem a sua disposição.::
+69751::$$$message_0638_0155_0000$$$::"[w l=3][line3]Mais sete minutos. Você consegue soltar a Sakura até então, Rin?"[lr]::
+69752::$$$message_0638_0155_0001$$$::Ela olha para os céus escuros.[lr]::
+69753::$$$message_0638_0155_0002$$$::Não há lágrimas para serem soltas.[lr]::
+69754::$$$message_0638_0155_0003$$$::O espírito heroico da espada silenciosamente espera pelo fim da batalha.::
+69755::$$$message_0638_0156_0000$$$::[w l=3][line3]Um tremor é ouvido a distância.[lr]::
+69756::$$$message_0638_0156_0001$$$::Ela não se importa com que lado ganhou vantagem.[lr]::
+69757::$$$message_0638_0156_0002$$$::Seu coração contém somente o mínimo traço de dó.[lr]::
+69758::$$$message_0638_0156_0003$$$::...Tohsaka Rin e Matou Sakura.[lr]::
+69759::$$$message_0638_0156_0004$$$::Independente de quem tenha sobrevivido, aquele que as abençoaria não está mais nesse mundo.::
+�

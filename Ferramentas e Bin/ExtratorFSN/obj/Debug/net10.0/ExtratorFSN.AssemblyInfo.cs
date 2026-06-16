@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtratorFSN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c960607b2ffa4466ca4c04dcec7037016bcd748a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977cd93fa0c586c559ffab8d5ea2391f566c6baf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtratorFSN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtratorFSN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

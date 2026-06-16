@@ -1,0 +1,165 @@
+DAT
+id=qid::label=str::text=lstr::
+63534::$$$message_0585_0000_0000$$$::Já se passaram das dez horas da noite.[lr]::
+63535::$$$message_0585_0000_0001$$$::"Está quase na hora. Vamos indo, Shirou."[lr]::
+63536::$$$message_0585_0000_0002$$$::A Tohsaka termina de se preparar e aparece.[lr]::
+63537::$$$message_0585_0000_0003$$$::"[w l=4][line4]Está bem. Por favor, vigie a casa enquanto estivermos fora, Sakura."::
+63538::$$$message_0585_0001_0000$$$::Eu e a Tohsaka estamos saindo para patrulhar, como havíamos planejado.[lr]::
+63539::$$$message_0585_0001_0001$$$::...É meio besta essa ser a nossa única medida contra o Zouken, mas é tudo o que podemos fazer por enquanto.::
+63540::$$$message_0585_0002_0000$$$::Nós precisamos derrotar o Zouken, o Assassin, a Saber e a sombra negra.[lr]::
+63541::$$$message_0585_0002_0001$$$::...Eles não são inimigos que podemos bater de frente.[lr]::
+63542::$$$message_0585_0002_0002$$$::Nós precisamos aguentar firme até que a contramedida que a Tohsaka está preparado fique pronta.::
+63543::$$$message_0585_0003_0000$$$::Mas não podemos simplesmente ficar parados em casa.[lr]::
+63544::$$$message_0585_0003_0001$$$::De acordo com o jornal dessa manhã, o Matou Zouken começou a atacar pessoas inocentes.[lr]::
+63545::$$$message_0585_0003_0002$$$::Nós ainda não podemos derrotá-los, mas devemos pelo menos patrulhar a cidade para que não haja mais nenhuma vítima.::
+63546::$$$message_0585_0004_0000$$$::"......"[lr]::
+63547::$$$message_0585_0004_0001$$$::"......"[lr]::
+63548::$$$message_0585_0004_0002$$$::Nós colocamos os nossos sapatos em silêncio.[lr]::
+63549::$$$message_0585_0004_0003$$$::Sabemos o quanto é perigoso sair pela cidade à noite.[lr]::
+63550::$$$message_0585_0004_0004$$$::O Zouken está apenas atrás da Sakura, mas nós podemos acabar entrando no caminho dele se sairmos andando pela cidade.[lr]::
+63551::$$$message_0585_0004_0005$$$::...Na pior dos casos, essa será uma repetição do nosso encontro na floresta.::
+63552::$$$message_0585_0004_0006$$$::Portanto, nós temos que levar isso a sério.::
+63553::$$$message_0585_0005_0000$$$::"...Ei. O que você pensa que está fazendo?"[lr]::
+63554::$$$message_0585_0005_0001$$$::E então.[lr]::
+63555::$$$message_0585_0005_0002$$$::Não podemos perder tempo, porém a Tohsaka olha feio pra mim [r]e[w l=4][line4]::
+63556::$$$message_0585_0006_0000$$$::"Você não precisa se despedir da gente. Volte para o seu quarto, Sakura."[lr]::
+63557::$$$message_0585_0006_0001$$$::"......"[lr]::
+63558::$$$message_0585_0006_0002$$$::[w l=4][line4]Não, ela não está olhando para mim.[lr]::
+63559::$$$message_0585_0006_0003$$$::Ela está olhando para a Sakura, que está parada no corredor.::
+63560::$$$message_0585_0007_0000$$$::"Nee-san. Eu também vou. É perigoso vocês dois irem sozinhos, portanto..."[lr]::
+63561::$$$message_0585_0007_0001$$$::"[w l=4][line4]Sakura."[lr]::
+63562::$$$message_0585_0007_0002$$$::...Então é por isso que ela está aqui.[lr]::
+63563::$$$message_0585_0007_0003$$$::Eu agradeço a preocupação dela, mas o nosso plano já foi decidido.::
+63564::$$$message_0585_0008_0000$$$::"Não. Você já deve saber que você é alvo do Zouken. Por favor, fique aqui com a Illya e proteja a si mesma."::
+63565::$$$message_0585_0009_0000$$$::"Eu sei disso. Mas você só pode usar um braço, Senpai. E a Nee-san não tem nenhum Servo, então..."[lr]::
+63566::$$$message_0585_0009_0001$$$::"Não fale besteira, Sakura. Isso não muda o fato de que você é nossa inimiga. Eu não posso confiar em você, já que não sei quando você vai se transformar em uma marionete do Zouken."::
+63567::$$$message_0585_0010_0000$$$::"...Mas, Nee-san."[lr]::
+63568::$$$message_0585_0010_0001$$$::"Você só precisa se concentrar em se defender. Se você está preocupada com a gente, então tente não nos atrapalhar. Apenas deixe que a Rider proteja você e a Illya."::
+63569::$$$message_0585_0011_0000$$$::"Tohsaka, você[w l=4][line4]uaa, ei...!"[lr]::
+63570::$$$message_0585_0011_0001$$$::"Ei, não fique parado aí. Vamos indo. Enquanto estamos aqui perdendo tempo, ele já pode estar atacando alguém."[lr]::
+63571::$$$message_0585_0011_0002$$$::A Tohsaka segura a minha mão e me arrasta para fora.::
+63572::$$$message_0585_0012_0000$$$::"Ah[w l=4][line4]enfim, tome cuidado e vigie a casa, Sakura...! Deixo a Illya por sua conta...!"::
+63573::$$$message_0585_0013_0000$$$::"........."[lr]::
+63574::$$$message_0585_0014_0000$$$::"Ei, espera, Tohsaka! Eu vou te seguir, então já pode largar a minha mão!"[lr]::
+63575::$$$message_0585_0014_0001$$$::"Humpf. É culpa sua ser tão lento."[lr]::
+63576::$$$message_0585_0014_0002$$$::A Tohsaka me larga e para de andar.::
+63577::$$$message_0585_0015_0000$$$::"...Por que está fazendo essa cara? Se quiser dizer alguma coisa, é melhor falar logo."[lr]::
+63578::$$$message_0585_0015_0001$$$::E começa a agir assim de repente.[lr]::
+63579::$$$message_0585_0015_0002$$$::A Tohsaka está meio arrogante.[lr]::
+63580::$$$message_0585_0015_0003$$$::...Cara.[lr]::
+63581::$$$message_0585_0015_0004$$$::Se isso a incomoda tanto assim, ela não deveria ter tocado no assunto para início de conversa.::
+63582::$$$message_0585_0016_0000$$$::"...Cara. Então eu vou dizer, Tohsaka. É sobre o que acabou de acontecer. Não fale desse jeito com a Sakura. Ela não fica agindo desse jeito porque quer."::
+63583::$$$message_0585_0017_0000$$$::"Eu sei. Mas é por isso que eu preciso ser firme com ela. Se não agirmos assim, o Zouken com certeza irá tirar vantagem."::
+63584::$$$message_0585_0018_0000$$$::"...Eu não sinto nenhuma simpatia pela Sakura.[lr]::
+63585::$$$message_0585_0018_0001$$$::Eu não me importo se ela é uma marionete do Zouken, e não tenho nada a ver com o que aconteceu depois que ela foi adotada pela família Matou. Não adiantaria nada eu falar sobre os problemas dela."::
+63586::$$$message_0585_0019_0000$$$::"[w l=4][line4]Tohsaka."[lr]::
+63587::$$$message_0585_0019_0001$$$::"Presta atenção. Eu estou na sua casa não pela Sakura, mas porque você vive lá.[lr]::
+63588::$$$message_0585_0019_0002$$$::O meu objetivo não é salvar a Sakura, mas sim obter o Santo Graal.[lr]::
+63589::$$$message_0585_0019_0003$$$::Eu ficarei de olho na Sakura por esse objetivo, e não ligo se ela me odiar. É por isso que eu falo coisas desse tipo, e vou continuar tratando ela como a minha inimiga."::
+63590::$$$message_0585_0020_0000$$$::"...Então você não liga se ela te odiar? Você não se importa com os sentimentos dela porque ela é uma completa estranha?"[lr]::
+63591::$$$message_0585_0020_0001$$$::"Isso mesmo. Tem algum problema com isso?"[lr]::
+63592::$$$message_0585_0020_0002$$$::"Sua idiota. É claro que eu tenho."::
+63593::$$$message_0585_0021_0000$$$::...Cara, essa não é a Tohsaka que eu conheço.[lr]::
+63594::$$$message_0585_0021_0001$$$::Ela deveria ser capaz de dizer isso como se não fosse nada demais. Porém, ela está fechando os punhos como se estivesse tentando convencer a si mesma.::
+63595::$$$message_0585_0022_0000$$$::"Está bem. Se quiser agir assim, então vá em frente.[lr]::
+63596::$$$message_0585_0022_0001$$$::A Sakura sabe como você se sente, não importa que tipo de atitude você tome com relação a ela."::
+63597::$$$message_0585_0023_0000$$$::"Eh[w l=3][line3]o que você quer dizer com isso!?"[lr]::
+63598::$$$message_0585_0023_0001$$$::"Estou falando sobre como a Sakura é importante para você. Eu sou alguém de fora e mesmo assim consigo perceber, por isso deve ser óbvio para ela."::
+63599::$$$message_0585_0024_0000$$$::"[w l=4][line4]Você está enganado. Eu só..."[lr]::
+63600::$$$message_0585_0024_0001$$$::"Não tem engano nenhum nisso. Ninguém ficaria tão bravo por uma coisa que não se importa. Você é dura com a Sakura por um motivo. Você não admite, mas ela ainda é a sua querida irmã."[lr]::
+63601::$$$message_0585_0024_0002$$$::"D[w l=4][line4]Do que você está falando, seu idiota!!? Pare de ficar dizendo essas coisas esnobes!!!!"::
+63602::$$$message_0585_0025_0000$$$::O rosto da Tohsaka fica vermelho de raiva.[lr]::
+63603::$$$message_0585_0025_0001$$$::Mas eu não sinto a mesma intensidade de sempre, e eu sei por quê.::
+63604::$$$message_0585_0026_0000$$$::"O que foi? Eu estou te incomodando?"[lr]::
+63605::$$$message_0585_0026_0001$$$::"Sim, você está. Não é óbvio?"::
+63606::$$$message_0585_0027_0000$$$::"Entendo. Então vou aproveitar para dizer mais uma coisa. Eu quero ver você e a Sakura se dando bem. Ela gosta de você, e você gosta dela. Portanto, eu não gosto de quando fica esse clima desagradável entre vocês duas."::
+63607::$$$message_0585_0028_0000$$$::"...Escuta aqui. Ela precisa ser a minha inimiga. Fazer amizade com ela não ajudaria em nada. Eu nem saberia por onde começar."[lr]::
+63608::$$$message_0585_0028_0001$$$::"Já não está bom do jeito que as coisas estão agora? Tenha confiança em si mesma, Tohsaka. Até eu consigo ver que você está sendo uma boa irmã mais velha."::
+63609::$$$message_0585_0029_0000$$$::"[w l=4][line4]J-Já chega dessa conversa! Vamos para o lugar que mostraram no jornal hoje de manhã!"[lr]::
+63610::$$$message_0585_0029_0001$$$::A Tohsaka desvia o olhar e começa a andar.[lr]::
+63611::$$$message_0585_0029_0002$$$::Eu respondo de forma descontraída e vou atrás dela.[lr]::
+63612::$$$message_0585_0029_0003$$$::[w l=4][line4]E então.::
+63613::$$$message_0585_0030_0000$$$::"Shirou."[lr]::
+63614::$$$message_0585_0030_0001$$$::Ela diz o meu nome sem olhar para mim e...[lr]::
+63615::$$$message_0585_0030_0002$$$::"Um, obrigada. Aquilo me deixou, uh... feliz."[lr]::
+63616::$$$message_0585_0030_0003$$$::A Tohsaka resmunga, envergonhada.::
+63617::$$$message_0585_0031_0000$$$::...Não há ninguém no parque do centro da cidade.[lr]::
+63618::$$$message_0585_0031_0001$$$::O parque costuma ficar deserto mesmo durante o dia, mas ele está ainda mais silencioso depois do assassinato de ontem.[lr]::
+63619::$$$message_0585_0031_0002$$$::Esse parque não foi feito para descansar dentro do distrito comercial, e ele não é diferente de um deserto em uma terra não cultivada.::
+63620::$$$message_0585_0032_0000$$$::"...Um assassinato, não é? Parece que as pessoas estão tratando isso como um acidente, e não como um caso de homicídio. Bem, acho que não dá para afirmar que foi mesmo um homicídio, já que não dá para saber quem morreu e quais partes do corpo restaram."::
+63621::$$$message_0585_0033_0000$$$::Eu ainda consigo ver rastros de sangue na grama.[lr]::
+63622::$$$message_0585_0033_0001$$$::...É como se alguém tivesse jogado um balde cheio de sangue em quatro áreas diferentes.[lr]::
+63623::$$$message_0585_0033_0002$$$::Há uma pequena distância entre as manchas escuras, provavelmente porque as vítimas tentaram escapar de forma desesperada.::
+63624::$$$message_0585_0034_0000$$$::"Tohsaka. Você tinha dito que isso poderia ser obra do Zouken, mas e agora? Continua achando isso depois de ter vindo até aqui?"::
+63625::$$$message_0585_0035_0000$$$::"......Pois é. Eu pensei que poderia ter sido aquela sombra negra, mas não parece ser obra dela.[lr]::
+63626::$$$message_0585_0035_0001$$$::Toda a mana dessa área teria sido sugada se aquela coisa tivesse aparecido aqui. Mas a energia mágica daqui não foi esgotada. ...Bem, ainda acho que o incidente aqui foi uma refeição inesperada."::
+63627::$$$message_0585_0036_0000$$$::Essa é toda a informação que conseguimos obter desse local.[lr]::
+63628::$$$message_0585_0036_0001$$$::Eu e a Tohsaka deixamos o local da tragédia para trás.::
+63629::$$$message_0585_0037_0000$$$::...Nós não conseguimos encontrar nada em Shinto.[lr]::
+63630::$$$message_0585_0037_0001$$$::Talvez o Matou Zouken não esteja agindo hoje, provavelmente porque o incidente de ontem foi intenso demais.::
+63631::$$$message_0585_0038_0000$$$::O dia está prestes a mudar.[lr]::
+63632::$$$message_0585_0038_0001$$$::A brisa da beira do rio sopra enquanto nós estamos voltando para casa.[lr]::
+63633::$$$message_0585_0038_0002$$$::E...[lr]::
+63634::$$$message_0585_0038_0003$$$::"Tohsaka. A Sakura é a sucessora dos Matous, não é?"[lr]::
+63635::$$$message_0585_0038_0004$$$::De repente, eu fico com vontade de fazer a pergunta que esteve na minha cabeça por um bom tempo.::
+63636::$$$message_0585_0039_0000$$$::"Por que está me perguntando isso agora? Eu não tenho nada a esconder."[lr]::
+63637::$$$message_0585_0039_0001$$$::"Não foi isso o que eu quis dizer. Se ela é a sucessora, isso significa que ela é uma maga, certo? Eu só estava tentando imaginar que tipo de magia ela usa."[lr]::
+63638::$$$message_0585_0039_0002$$$::"Ah, agora eu entendi."::
+63639::$$$message_0585_0040_0000$$$::"...Sim, eu ouvi falar que a magia dos Matous é de ligação e coerção. Eu também soube que os Selos de Comando não existiriam se não fosse por eles."::
+63640::$$$message_0585_0041_0000$$$::"Hm. Então a magia da Sakura é restrição? Mas então..."[lr]::
+63641::$$$message_0585_0041_0001$$$::Naquele dia...[lr]::
+63642::$$$message_0585_0041_0002$$$::A magia que a Sakura usou quando o verme mágico estava a torturando deveria ser o poder da Rider.::
+63643::$$$message_0585_0042_0000$$$::"......Eu não acho que seja restrição. Essa é a magia proibida dos Makiris, e não é seu ponto forte.[lr]::
+63644::$$$message_0585_0042_0001$$$::Mas não adianta nada ficar pensando nisso. A Sakura não tem energia mágica o suficiente para usar magia. O verme mágico vai acabar se alimentando de qualquer excesso de energia, então ela não deve ser capaz de usar magia."::
+63645::$$$message_0585_0043_0000$$$::"...Entendo, isso é bom. Então, o quão boa você pensa que a Sakura é? Ela seria tão boa quanto você, considerando que é a sucessora dos Matous?"[lr]::
+63646::$$$message_0585_0043_0001$$$::"Nós temos quase o mesmo número de Circuitos Mágicos.[lr]::
+63647::$$$message_0585_0043_0002$$$::Shirou, já se esqueceu que somos irmãs?"::
+63648::$$$message_0585_0044_0000$$$::"Ah."[lr]::
+63649::$$$message_0585_0044_0001$$$::É mesmo.[lr]::
+63650::$$$message_0585_0044_0002$$$::É por isso que eles queriam adotá-la para início de conversa.::
+63651::$$$message_0585_0045_0000$$$::"Ah, então ela é tão boa quanto você?"[lr]::
+63652::$$$message_0585_0045_0001$$$::"Acho que não. O meu atributo é de 'cinco elementos', e o dela é de 'elemento imaginário'. Mas a família Matou possui o atributo água, então eles a mudaram à força. O que você acha que aconteceria com um pássaro que tem o potencial de voar mas, ao invés disso, foi colocado para nadar?"::
+63653::$$$message_0585_0046_0000$$$::"Ele morreria, ou então..."[lr]::
+63654::$$$message_0585_0046_0001$$$::"Sim. Se adaptar à água seria tudo o que ele poderia fazer.[lr]::
+63655::$$$message_0585_0046_0002$$$::A Sakura teria obtido muito sucesso como uma maga dos Tohsakas, mas agora ela não é muito diferente de você, já que foi forçada a virar uma maga dos Matous.[lr]::
+63656::$$$message_0585_0046_0003$$$::Aliás, você é muito mais forte do que ela porque você treina o seu corpo."::
+63657::$$$message_0585_0047_0000$$$::"Então vamos supor que vocês duas lutem usando magia..."[lr]::
+63658::$$$message_0585_0047_0001$$$::"A cada dez lutas, eu venceria as dez. Com a capacidade de energia mágica que a Sakura tem, ela nunca conseguiria atravessar a minha barreira."::
+63659::$$$message_0585_0048_0000$$$::...Entendo.[lr]::
+63660::$$$message_0585_0048_0001$$$::Eu não conseguia compreender que tipo de maga a Sakura é, mas pelo menos agora sei a diferença de poder entre as duas.[lr]::
+63661::$$$message_0585_0048_0002$$$::A Tohsaka não costuma blefar, então ela deve estar dizendo a verdade.::
+63662::$$$message_0585_0049_0000$$$::"...Mas eu estou envergonhado. Nunca suspeitei que a Sakura fosse uma maga, e eu não sei o quão boa ela é. Sou um idiota por pensar que era o guardião dela esse tempo todo."[lr]::
+63663::$$$message_0585_0049_0001$$$::"Olha só. O verme mágico come toda a energia mágica dela, portanto você nunca iria perceber que ela era uma maga mesmo se ficasse ao lado dela direto."::
+63664::$$$message_0585_0050_0000$$$::"...E ela fez de tudo para você não descobrir. Não diga uma coisa dessas na frente dela, ouviu?"::
+63665::$$$message_0585_0051_0000$$$::"............"[lr]::
+63666::$$$message_0585_0051_0001$$$::Ela nem precisa me dizer isso.[lr]::
+63667::$$$message_0585_0051_0002$$$::Ainda que seja uma maga, a Sakura ainda é a Sakura.[lr]::
+63668::$$$message_0585_0051_0003$$$::Em primeiro lugar, eu não sou muito habilidoso.[lr]::
+63669::$$$message_0585_0051_0004$$$::Não importa quem a Sakura realmente seja, tudo o que eu posso fazer é tratá-la como sempre a estive tratando até agora.::
+63670::$$$message_0585_0052_0000$$$::"Tem razão. Como você disse, eu irei tratá-la como sempre tratei.[lr]::
+63671::$$$message_0585_0052_0001$$$::Eu nem sequer vou pensar em pedir ajuda para ela como uma maga. Assim está bom para você, não está?"::
+63672::$$$message_0585_0053_0000$$$::"É claro. Se você fosse depender da Sakura, eu a teria levado para minha casa."::
+63673::$$$message_0585_0054_0000$$$::A bondade da Tohsaka faz o meu coração pular.[lr]::
+63674::$$$message_0585_0054_0001$$$::...Viu só?[lr]::
+63675::$$$message_0585_0054_0002$$$::A Tohsaka é mesmo uma boa irmã.::
+63676::$$$message_0585_0055_0000$$$::"Mas eu não acho que isso seria possível. A Sakura sorri quando está na sua casa. De todas as coisas, essa foi a que mais me surpreendeu."[lr]::
+63677::$$$message_0585_0055_0001$$$::[w l=3][line3]E então.[lr]::
+63678::$$$message_0585_0055_0002$$$::Com um olhar de felicidade no rosto, ela diz uma coisa estranha.::
+63679::$$$message_0585_0056_0000$$$::"Ela sorri? Mas a Sakura..."[lr]::
+63680::$$$message_0585_0056_0001$$$::Ela está sempre assim.::
+63681::$$$message_0585_0057_0000$$$::"Sim, foi uma preocupação desnecessária da minha parte.[lr]::
+63682::$$$message_0585_0057_0001$$$::Eu não posso conversar muito com ela, então apenas a observava. Eu passei a visitar o Clube de Arco e Flecha todo dia depois que ela começou a estudar na nossa escola."::
+63683::$$$message_0585_0058_0000$$$::"[w l=5][line5]É, eu sei disso, mas..."[lr]::
+63684::$$$message_0585_0058_0001$$$::"...Sim. E então, depois de um tempo eu percebi que ela nunca sorria."::
+63685::$$$message_0585_0059_0000$$$::"[w l=8][line8]"[lr]::
+63686::$$$message_0585_0059_0001$$$::Isso...[lr]::
+63687::$$$message_0585_0059_0002$$$::...É algo que eu estou ouvindo pela primeira vez, mas não consigo negar o que ela está dizendo.[lr]::
+63688::$$$message_0585_0059_0003$$$::Pensando bem, a Sakura sempre parecia meio deprimida na escola.::
+63689::$$$message_0585_0060_0000$$$::"Bem, a única exceção é quando você estava lá.[lr]::
+63690::$$$message_0585_0060_0001$$$::Ela sempre sorria quando você ia para o Clube de Arco e Flecha.[lr]::
+63691::$$$message_0585_0060_0002$$$::Basicamente, a Sakura só fica alegre quando você está com ela."::
+63692::$$$message_0585_0061_0000$$$::"......"[lr]::
+63693::$$$message_0585_0061_0001$$$::As palavras da Tohsaka deveriam me deixar feliz.[lr]::
+63694::$$$message_0585_0061_0002$$$::Mas...[lr]::
+63695::$$$message_0585_0061_0003$$$::"...A Sakura não sorri na frente dos outros?"[lr]::
+63696::$$$message_0585_0061_0004$$$::I feel like I just learned a terrible truth about her..�gl

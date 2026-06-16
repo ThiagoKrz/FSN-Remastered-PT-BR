@@ -1,0 +1,524 @@
+DAT
+id=qid::label=str::text=lstr::
+13576::$$$message_0132_0000_0000$$$::Assim que passamos pelas árvores extremamente altas, eu me deparo com uma coisa inesperada.::
+13577::$$$message_0132_0001_0000$$$::"...Uma ruína...?"[lr]::
+13578::$$$message_0132_0001_0001$$$::"Nós podemos nos esconder aqui por enquanto.[lr]::
+13579::$$$message_0132_0001_0002$$$::O Archer viu esse esconderijo quando estávamos vindo. Ele disse que podíamos usar como esconderijo."::
+13580::$$$message_0132_0002_0000$$$::[line2]O primeiro andar foi totalmente invadido por árvores.[lr]::
+13581::$$$message_0132_0002_0001$$$::Os únicos quartos que podemos usar estão no segundo andar, e esse em que estamos agora é o melhor deles.[lr]::
+13582::$$$message_0132_0002_0002$$$::Por algum milagre, as janelas ainda estão intactas, e um forte luar ilumina o quarto.::
+13583::$$$message_0132_0003_0000$$$::"Hmm. Aqui está bem arrumado. Talvez alguém esteve por aqui até pouco tempo atrás."::
+13584::$$$message_0132_0004_0000$$$::......Fala sério, como é que ela consegue ficar calma?[lr]::
+13585::$$$message_0132_0004_0001$$$::Enquanto pisa nos destroços, [se storage=se690.wav]a Tohsaka remove a poeira da cama que está perto da janela.[lr]::
+13586::$$$message_0132_0004_0002$$$::"Shirou, vem aqui. Nós temos que manter a Saber deitada. É bem cansativo ser carregado por outra pessoa."::
+13587::$$$message_0132_0005_0000$$$::"Ah[line2]sim, já estou indo."[lr]::
+13588::$$$message_0132_0005_0001$$$::Eu coloco a Saber na cama velha.::
+13589::$$$message_0132_0006_0000$$$::"Então, como está se sentindo, Saber? Você ainda consegue se mexer?"[lr]::
+13590::$$$message_0132_0006_0001$$$::"...Sim, graças ao Shirou que me carregou até aqui. Parece que eu ainda consigo sustentar o meu corpo."::
+13591::$$$message_0132_0007_0000$$$::"[line2]Entendi. Então parece que só nos resta um problema.[lr]::
+13592::$$$message_0132_0007_0001$$$::Já se passou uma hora... Nós devemos ter um pouco de tempo mesmo se a Illyasviel vier atrás de nós imediatamente. Não, talvez a gente possa se esconder aqui até de manhã se eles demorarem para nos achar."::
+13593::$$$message_0132_0008_0000$$$::"Ah[line4]"[lr]::
+13594::$$$message_0132_0008_0001$$$::Isso me faz lembrar.[lr]::
+13595::$$$message_0132_0008_0002$$$::Nós conseguimos chegar até essa ruína, mas... o que aconteceu com o Berserker e o Archer?[lr]::
+13596::$$$message_0132_0008_0003$$$::Ele ficou no castelo para manter o Berserker ocupado.[lr]::
+13597::$$$message_0132_0008_0004$$$::...Uma hora se passou desde então. Portanto, o Archer também já deveria ter saído do castelo[line2]::
+13598::$$$message_0132_0009_0000$$$::"Tohsaka, ele[line2]?"[lr]::
+13599::$$$message_0132_0009_0001$$$::"[line4]"[lr]::
+13600::$$$message_0132_0009_0002$$$::A Tohsaka não me responde.[lr]::
+13601::$$$message_0132_0009_0003$$$::Ela apenas põe a mão direita em seu peito como se estivesse segurando um objeto precioso.::
+13602::$$$message_0132_0010_0000$$$::...Isso é o suficiente para saber qual foi o destino do Archer.[lr]::
+13603::$$$message_0132_0010_0001$$$::O Selo de Comando da Tohsaka fica em seu braço direito.[lr]::
+13604::$$$message_0132_0010_0002$$$::O Mestre e o Servo estão interligados.[lr]::
+13605::$$$message_0132_0010_0003$$$::Caso o Mestre possa sentir o estado de vida de seu Servo do mesmo jeito que a Saber sentiu que eu estava em perigo...::
+13606::$$$message_0132_0011_0000$$$::"...Tohsaka, ele..."::
+13607::$$$message_0132_0012_0000$$$::"Sim. E eu falei que ele só precisava ganhar tempo.[lr]::
+13608::$$$message_0132_0012_0001$$$::Ele[line2]foi arrogante até o fim."[lr]::
+13609::$$$message_0132_0012_0002$$$::...Todos ficam em silêncio.[lr]::
+13610::$$$message_0132_0012_0003$$$::O silêncio que parecia durar uma eternidade...::
+13611::$$$message_0132_0013_0000$$$::"[line2]Mas eu não vou deixar que tenha sido em vão. Já que perdi o Archer, eu vou derrotar o Berserker aqui."[lr]::
+13612::$$$message_0132_0013_0001$$$::...é interrompido pelo som da Tohsaka usando sua mão esquerda para bater em seu punho direito.::
+13613::$$$message_0132_0014_0000$$$::"Não vamos ficar de luto. Se nós temos tempo para lamentar, também temos tempo para agir. Já que chegamos tão longe, vou fazer de tudo para que você também esteja determinado."[lr]::
+13614::$$$message_0132_0014_0001$$$::"...? Determinado? Com o quê?"::
+13615::$$$message_0132_0015_0000$$$::"Você deveria saber. Determinado para derrotar a Illyasviel... e o Berserker, é claro.[lr]::
+13616::$$$message_0132_0015_0001$$$::Nós não podemos escapar dessa floresta com a Saber, e mesmo se formos curá-la, isso vai levar um bom tempo. A Illya vai nos encontrar de qualquer jeito."::
+13617::$$$message_0132_0016_0000$$$::"Entendeu agora? Se quisermos escapar todos juntos dessa floresta, nós temos que derrotar o Berserker primeiro.[lr]::
+13618::$$$message_0132_0016_0001$$$::Se não fizermos isso, nós vamos compartilhar o mesmo destino do Archer."::
+13619::$$$message_0132_0017_0000$$$::"[line2]Derrotar o Berserker...?"[lr]::
+13620::$$$message_0132_0017_0001$$$::Aquele monstro?[lr]::
+13621::$$$message_0132_0017_0002$$$::Derrotar aquele furacão da morte que anula qualquer ataque e destrói qualquer criatura com um único golpe...?::
+13622::$$$message_0132_0018_0000$$$::"[line6]"[lr]::
+13623::$$$message_0132_0018_0001$$$::Nem consigo imaginar uma coisa dessas.[lr]::
+13624::$$$message_0132_0018_0002$$$::Qualquer um que se opor a ele vai morrer.[lr]::
+13625::$$$message_0132_0018_0003$$$::A Tohsaka também deve saber disso.[lr]::
+13626::$$$message_0132_0018_0004$$$::E mesmo assim ela está sugerindo que nós o derrotemos?::
+13627::$$$message_0132_0019_0000$$$::"[line5]Não, não é isso."[lr]::
+13628::$$$message_0132_0019_0001$$$::No que eu estou pensando?[lr]::
+13629::$$$message_0132_0019_0002$$$::A Tohsaka não está sugerindo que nós podemos derrotar o Berserker.[lr]::
+13630::$$$message_0132_0019_0003$$$::Ela não criaria esperanças falsas como essa.::
+13631::$$$message_0132_0020_0000$$$::"Ah[line2]Entendi..."[lr]::
+13632::$$$message_0132_0020_0001$$$::É mesmo. Nós não vamos derrotá-lo porque queremos vencer.[lr]::
+13633::$$$message_0132_0020_0002$$$::...Eu já deveria ter percebido isso.[lr]::
+13634::$$$message_0132_0020_0003$$$::"Não temos outra escolha a não ser derrotá-lo."[lr]::
+13635::$$$message_0132_0020_0004$$$::É simples assim.[lr]::
+13636::$$$message_0132_0020_0005$$$::Se nós não quisermos morrer aqui...[lr]::
+13637::$$$message_0132_0020_0006$$$::Vamos ter que acabar com aquele monstro.::
+13638::$$$message_0132_0021_0000$$$::"Isso mesmo. Mas não é como se nós não tivéssemos nenhuma chance.[lr]::
+13639::$$$message_0132_0021_0001$$$::Mesmo sendo o Berserker, ele deve estar ferido depois de ter lutado contra o Archer. E eu estou com todas as minhas jóias de reserva, então se a Saber se recuperar, posso formar alguns planos para derrotá-lo."::
+13640::$$$message_0132_0022_0000$$$::"[line2]Olhando pelo lado positivo,[lr]::
+13641::$$$message_0132_0022_0001$$$::Já que o Berserker está ferido, você não acha que essa é a nossa melhor chance de derrotar a Illyasviel?"::
+13642::$$$message_0132_0023_0000$$$::"...Mas existe algum jeito de curar a Saber? Não vai ser difícil tratá-la em um lugar desses?"::
+13643::$$$message_0132_0024_0000$$$::"Não, não importa onde vamos fazer o tratamento da Saber.[lr]::
+13644::$$$message_0132_0024_0001$$$::A Saber só está fraca por falta de energia mágica. Se nós a abastecermos, ela deve conseguir usar as suas habilidades de volta."::
+13645::$$$message_0132_0025_0000$$$::A explicação da Tohsaka me fez lembrar da noite passada.[lr]::
+13646::$$$message_0132_0025_0001$$$::A Tohsaka me contou que a Saber está quase sem energia mágica.[lr]::
+13647::$$$message_0132_0025_0002$$$::Então para abastecermos a energia mágica dela...::
+13648::$$$message_0132_0026_0000$$$::[font italic=true]"Escute. Se você quiser salvar a Saber, o único jeito é fazer com que ela ataque as pessoas e absorva as suas almas."[font italic=false]::
+13649::$$$message_0132_0027_0000$$$::"Então só há uma saída.[lr]::
+13650::$$$message_0132_0027_0001$$$::[line3]Use o seu Selo de Comando, Emiya-kun. Você será capaz de evitar a pior situação com isso."::
+13651::$$$message_0132_0028_0000$$$::...Há dois Selos de Comando sobrando.[lr]::
+13652::$$$message_0132_0028_0001$$$::Eu precisaria usar um deles para forçar a Saber a atacar as pessoas e ingerir as almas delas, abastecendo sua energia mágica.[lr]::
+13653::$$$message_0132_0028_0002$$$::Nós não podemos derrotar o Berserker se a Saber não estiver curada. Nós seremos massacrados se não acabarmos com ele primeiro.::
+13654::$$$message_0132_0029_0000$$$::Olho rapidamente para a Saber, que está deitada na cama.[lr]::
+13655::$$$message_0132_0029_0001$$$::...Se deixarmos as coisas como estão, a Saber vai continuar sofrendo. Mas isso significa...::
+13656::$$$message_0132_0030_0000$$$::"...Não, Tohsaka. Ainda sou contra fazer a Saber atacar as pessoas."[lr]::
+13657::$$$message_0132_0030_0001$$$::"Sim. Dessa vez eu concordo com você."[lr]::
+13658::$$$message_0132_0030_0002$$$::"Hã?"::
+13659::$$$message_0132_0031_0000$$$::"Eu daria essa sugestão se nós estivéssemos em outro lugar.[lr]::
+13660::$$$message_0132_0031_0001$$$::Mas essa é a floresta da Illyasviel. Não há nenhuma alma por [r]perto[line3]talvez tenha alguém além do Berserker e da Illyasviel dentro do castelo, mas ir até lá dar uma olhada seria suicídio."[lr]::
+13661::$$$message_0132_0031_0002$$$::"...Nós teríamos que escapar daqui antes de fazê-la ingerir almas. Então não faz muito sentido."::
+13662::$$$message_0132_0032_0000$$$::A Tohsaka concorda.[lr]::
+13663::$$$message_0132_0032_0001$$$::Ainda bem que eu não preciso fazer a Saber a atacar pessoas inocentes, mas então, como nós vamos abastecer a energia mágica dela?::
+13664::$$$message_0132_0033_0000$$$::"Mas então o que a gente faz, Tohsaka? Para começar, o nosso problema é que eu não consigo fornecer energia mágica para a Saber, certo?"::
+13665::$$$message_0132_0034_0000$$$::"Existe um jeito. Ontem... quer dizer, anteontem eu tinha te explicado isso.[lr]::
+13666::$$$message_0132_0034_0001$$$::Há uma outra solução além de usar magia para enviar energia mágica ao seu Servo. Naquela hora... bem, eu fiquei quieta porque não achei que as coisas acabariam assim."::
+13667::$$$message_0132_0035_0000$$$::"Hm[line4]?"[lr]::
+13668::$$$message_0132_0035_0001$$$::Relembro a conversa daquela noite.[lr]::
+13669::$$$message_0132_0035_0002$$$::Realmente, ela disse[line2]::
+13670::$$$message_0132_0036_0000$$$::[font italic=true]"...Bem, uma conexão foi criada no momento da invocação, então deve haver outra solução[line2]"[font italic=false]::
+13671::$$$message_0132_0037_0000$$$::...Alguma coisa assim.::
+13672::$$$message_0132_0038_0000$$$::"...Eu me lembro. Algo sobre haver outra solução além de magia, porque existe uma conexão..."[lr]::
+13673::$$$message_0132_0038_0001$$$::...?[lr]::
+13674::$$$message_0132_0038_0002$$$::O que foi, eu disse alguma coisa errada?[lr]::
+13675::$$$message_0132_0038_0003$$$::Talvez naquela hora, eu tenha entendido errado, já que estava assustado com a ideia de fazer a Saber atacar pessoas inocentes.::
+13676::$$$message_0132_0039_0000$$$::"Tohsaka. Existe ou não um jeito?"[lr]::
+13677::$$$message_0132_0039_0001$$$::"...Existe. Há duas coisas que podemos fazer e que eu posso ajudar. Nesse caso nós vamos ter que usar a solução mais drástica."::
+13678::$$$message_0132_0040_0000$$$::"Olha só. A Saber está sem energia mágica porque a conexão entre vocês dois é imperfeita. Nós temos que corrigir a conexão para poder curá-la."[lr]::
+13679::$$$message_0132_0040_0001$$$::"Essa seria a melhor opção, mas eu não sei como fazer isso."[lr]::
+13680::$$$message_0132_0040_0002$$$::Para começar, esse problema existe desde que a Saber foi invocada. Nós não estaríamos nessa situação se a ligação para fornecer energia mágica já estivesse estabelecida.::
+13681::$$$message_0132_0041_0000$$$::"É simples. Nós só temos que refazer a ligação espiritual. Esse é o único jeito de consertar a conexão sem desfazer o contrato ou invocá-la de novo.[lr]::
+13682::$$$message_0132_0041_0001$$$::Para isso, nós temos que fazer o transplante do seu Circuito Mágico na Saber."[lr]::
+13683::$$$message_0132_0041_0002$$$::"?"[lr]::
+13684::$$$message_0132_0041_0003$$$::...Transplantar o meu Circuito Mágico na Saber?::
+13685::$$$message_0132_0042_0000$$$::"Para podermos renovar a conexão entre vocês dois, nós temos que fazer o transplante espiritual de órgãos importantes.[lr]::
+13686::$$$message_0132_0042_0001$$$::Se os Servos e os Mestres estão pegando a energia do Santo Graal emprestado, nós temos que criar uma ligação igualmente forte para podermos gerar uma conexão.[lr]::
+13687::$$$message_0132_0042_0002$$$::E para isso, temos que transplantar o Circuito Mágico do Mestre em seu Servo. Nós temos que chegar a esse ponto se quisermos enviar sua energia para a Saber."::
+13688::$$$message_0132_0043_0000$$$::O Circuito Mágico.[lr]::
+13689::$$$message_0132_0043_0001$$$::Um mecanismo que os magos precisam para usar o od e ativar a mana. Esse é o núcleo dos magos, e sem ele não é possível criar energia mágica, que é a fonte de poder da magia.[lr]::
+13690::$$$message_0132_0043_0002$$$::Para os magos, o Circuito Mágico é mais importante do que as suas próprias vidas. Você poderia até afirmar que ele é o motivo deles existirem.::
+13691::$$$message_0132_0044_0000$$$::"É perigoso demais transplantar os circuitos de um Servo em seu Mestre. Os circuitos de Ghost Liners, especialmente se forem Espíritos Heroicos, têm alta probabilidade de rejeição, ainda mais se transplantados em pessoas que estão à beira da morte.[lr]::
+13692::$$$message_0132_0044_0001$$$::Por isso, só nos resta fazer o transplante do seu circuito na Saber."::
+13693::$$$message_0132_0045_0000$$$::"Mas isso seria o mesmo que arrancar os nervos do seu corpo. Então quem vai sofrer será..."[lr]::
+13694::$$$message_0132_0045_0001$$$::Aquele que vai transplantar os próprios órgãos.[lr]::
+13695::$$$message_0132_0045_0002$$$::Arrancar os nervos seria como arrancar dedos, ou taé meus braços.::
+13696::$$$message_0132_0046_0000$$$::"......Espera, Rin.[lr]::
+13697::$$$message_0132_0046_0001$$$::Isso seria demais para o Shirou[line3]"[lr]::
+13698::$$$message_0132_0046_0002$$$::"Mas se não fizermos isso, nós não vamos sobreviver. Você já deveria saber disso, Saber."[lr]::
+13699::$$$message_0132_0046_0003$$$::".................."[lr]::
+13700::$$$message_0132_0046_0004$$$::Eu tomo cuidado para elas não me ouvirem engolir em seco.[lr]::
+13701::$$$message_0132_0046_0005$$$::...Tenho que organizar as minhas prioridades.[lr]::
+13702::$$$message_0132_0046_0006$$$::Se o que precisa ser feito está claro, não tenho tempo para ficar indeciso.::
+13703::$$$message_0132_0047_0000$$$::"Tohsaka. Isso vai dar certo?"[lr]::
+13704::$$$message_0132_0047_0001$$$::"...Eu vou fazer com que funcione. Mas fazer funcionar não significa que você vai ficar bem.[lr]::
+13705::$$$message_0132_0047_0002$$$::Não pretendo falhar, mas se der certo, a Saber vai ficar com o seu Circuito Mágico. A sua sensação de perda e dor vai ser tão grande que você iria preferir que tivesse fracassado."[lr]::
+13706::$$$message_0132_0047_0003$$$::"[line6]"[lr]::
+13707::$$$message_0132_0047_0004$$$::"Se o seu Circuito Mágico for removido, isso significa que[line2]"::
+13708::$$$message_0132_0048_0000$$$::O meu segundo nervo, o Circuito Mágico, vai ser removido de mim. Isso é o mesmo que remover parte da minha psique, o que vai danificar a integridade espiritual do meu corpo e criar um defeito fatal como mago.[lr]::
+13709::$$$message_0132_0048_0001$$$::Nunca vou recuperar esta parte perdida. As esperanças de alcançar meu sonho através das experiências acumuladas podem acabar aqui.[lr]::
+13710::$$$message_0132_0048_0002$$$::Ao perder parte dos Circuitos Mágicos, algo essencial, Emiya Shirou vai continuar sendo incompleto, não importa o quanto ele tente se esforçar.::
+13711::$$$message_0132_0049_0000$$$::"[line6]"[lr]::
+13712::$$$message_0132_0049_0001$$$::Eu chego em uma conclusão.[lr]::
+13713::$$$message_0132_0049_0002$$$::É o que mais faz sentido.[lr]::
+13714::$$$message_0132_0049_0003$$$::Neste caso, é bem melhor poder salvar a Saber.::
+13715::$$$message_0132_0050_0000$$$::"Muito bem, vamos fazer isso, Tohsaka."[lr]::
+13716::$$$message_0132_0050_0001$$$::"Mas já!? [wait canskip=0 time=600][chgfg textoff=0 time=300 storage=凛私服09e(中)] Ah, quer dizer. Eu não ligo se você foi rápido para tomar a sua decisão, mas você sabe mesmo o que isso significa?"[lr]::
+13717::$$$message_0132_0050_0002$$$::"Sim. Você mesmo disse, não é?"[lr]::
+13718::$$$message_0132_0050_0003$$$::"É claro que você não entendeu![lr]::
+13719::$$$message_0132_0050_0004$$$::Escuta. Estou te pedindo para morrer como um mago para poder salvar a Saber. Então como é que você pode concordar com isso sem reclamar?"::
+13720::$$$message_0132_0051_0000$$$::"Mas eu não tenho nenhuma reclamação.[lr]::
+13721::$$$message_0132_0051_0001$$$::Estou concordando porque esse é o melhor plano que você conseguiu formar. Você deveria ter mais confiança no seu próprio plano, Tohsaka. Você está me deixando inseguro com todo esse escândalo.[lr]::
+13722::$$$message_0132_0051_0002$$$::Além do mais, a Saber não pode lutar contra o Berserker se não fizermos isso, não é?"::
+13723::$$$message_0132_0052_0000$$$::"...Isso mesmo. Era isso o que eu estava dizendo."[lr]::
+13724::$$$message_0132_0052_0001$$$::"Viu só? Não é como se nós não tivéssemos feito algum sacrifício. Nós temos que lutar para vencer, já que ele nos conseguiu tempo."[lr]::
+13725::$$$message_0132_0052_0002$$$::As costas dele estavam me dizendo para seguir em frente.[lr]::
+13726::$$$message_0132_0052_0003$$$::Eu não gostava daquele cara, mas ele arriscou a sua vida para proteger a Tohsaka. Portanto, não posso ficar com medo agora.::
+13727::$$$message_0132_0053_0000$$$::"...Está bem. Vamos começar, Shirou."[lr]::
+13728::$$$message_0132_0053_0001$$$::"Certo. Você está pronta, Saber...?[lr]::
+13729::$$$message_0132_0053_0002$$$::Nós vamos transplantar o meu Circuito Mágico em você."[lr]::
+13730::$$$message_0132_0053_0003$$$::"[line3]Sim. Se essa é a sua decisão, Mestre."[lr]::
+13731::$$$message_0132_0053_0004$$$::A voz dela não indica afirmação e nem negação.[lr]::
+13732::$$$message_0132_0053_0005$$$::...Mas os seus olhos demonstram arrependimento.::
+13733::$$$message_0132_0054_0000$$$::Parece que a Tohsaka vai nos preparar para o transplante.[lr]::
+13734::$$$message_0132_0054_0001$$$::Nem sei como ela vai fazer isso, então vou deixar tudo por conta dela.::
+13735::$$$message_0132_0055_0000$$$::"Vamos começar com a Saber. Shirou, você poderia ativar o seu Circuito Mágico e mantê-lo assim sem deixá-lo muito instável?"[lr]::
+13736::$$$message_0132_0055_0001$$$::...Fecho os olhos e ativo o nervo artificial do meu corpo.[lr]::
+13737::$$$message_0132_0055_0002$$$::Graças à Tohsaka, eu posso ativá-lo e desativá-lo sem nenhum problema, mas[line3]::
+13738::$$$message_0132_0056_0000$$$::"[line3]!"[lr]::
+13739::$$$message_0132_0056_0001$$$::Uma flor vermelha se entrelaça com uma flor branca.[lr]::
+13740::$$$message_0132_0056_0002$$$::A Tohsaka monta em cima da Saber, que não pode se mexer, e de forma natural, move os seus dedos descaradamente pelo corpo delicado da Saber.::
+13741::$$$message_0132_0057_0000$$$::"...Espera, Tohsaka. O que você vai fazer com a Saber?"[lr]::
+13742::$$$message_0132_0057_0001$$$::"O quê? Estou tentando mantê-la relaxada. A chance de funcionar vai ser menor se ela não se acalmar."[lr]::
+13743::$$$message_0132_0057_0002$$$::"Ah... Ah, então é isso. Desculpa. Pode continuar."::
+13744::$$$message_0132_0058_0000$$$::"Está bem.[lr]::
+13745::$$$message_0132_0058_0001$$$::Então vamos tirar as suas roupas, Saber."[lr]::
+13746::$$$message_0132_0058_0002$$$::"Hã...!?"[lr]::
+13747::$$$message_0132_0058_0003$$$::"Quê...!?"::
+13748::$$$message_0132_0059_0000$$$::"Não fique se espantando com cada detalhe. Nós só temos que tirar uma parte da roupa dela. O transplante de Circuito Mágico é uma integração de corpo e mente. Nós temos que manter o maior contato possível e reduzir qualquer coisa que atrapalhe."[lr]::
+13749::$$$message_0132_0059_0001$$$::A Tohsaka está calma e séria.[lr]::
+13750::$$$message_0132_0059_0002$$$::Os únicos afobados são eu e a Saber.::
+13751::$$$message_0132_0060_0000$$$::"...Espera, Rin. Deixa que eu faço isso..."[lr]::
+13752::$$$message_0132_0060_0001$$$::"Não diga uma coisa dessas quando você sente dor até para levantar o braço. [chgfg textoff=0 time=300 storage=凛私服05c(中)] Ah, Emiya-kun. Por acaso que você quer tirar as roupas dela como seu dever de Mestre?"[lr]::
+13753::$$$message_0132_0060_0002$$$::"Sua[line4]"::
+13754::$$$message_0132_0061_0000$$$::Eu paro antes de chamá-la de idiota.[lr]::
+13755::$$$message_0132_0061_0001$$$::Mesmo que não fosse piada, isso é algo que eu não sou adequado para fazer.[lr]::
+13756::$$$message_0132_0061_0002$$$::...Eu não poderia ficar calmo se tivesse que fazer algo assim.::
+13757::$$$message_0132_0062_0000$$$::"...Desculpa. Vou deixar por sua conta."[lr]::
+13758::$$$message_0132_0062_0001$$$::"Que bom. Então tire as suas roupas também, Shirou.[lr]::
+13759::$$$message_0132_0062_0002$$$::Ah, você só precisa tirar a parte de cima. Vou te matar se você também tirar a parte de baixo."::
+13760::$$$message_0132_0063_0000$$$::Não sei se ela está brincando ou falando sério.[lr]::
+13761::$$$message_0132_0063_0001$$$::Enfim, parece que preciso tirar o máximo de roupas possível para poder ficar em contato com a Saber.::
+13762::$$$message_0132_0064_0000$$$::"Shirou, por favor... Você poderia se virar de costas por um momento?"[lr]::
+13763::$$$message_0132_0064_0001$$$::"Ah[line3]S-Sim, me avise quando vocês terminarem."::
+13764::$$$message_0132_0065_0000$$$::Eu me viro de costas, tiro a camisa, e então a deixo dobrada.[lr]::
+13765::$$$message_0132_0065_0001$$$::Até dobro as mangas para deixá-la bem arrumada, e tento esconder o meu nervosismo.::
+13766::$$$message_0132_0066_0000$$$::"Hm... Está tudo bem, Saber?"[lr]::
+13767::$$$message_0132_0066_0001$$$::"Sim, eu me sinto bem mais relaxada. Mas[line3]"::
+13768::$$$message_0132_0067_0000$$$::...Tenho que me acalmar.[lr]::
+13769::$$$message_0132_0067_0001$$$::Tento suprimir o meu medo enquanto percebo o quanto é difícil transplantar o Circuito Mágico e quanta perda e dor envolve o processo.[lr]::
+13770::$$$message_0132_0067_0002$$$::Esse é apenas um momento passageiro.[lr]::
+13771::$$$message_0132_0067_0003$$$::O que eu deveria ter medo mesmo é da luta contra o Berserker que virá depois[line3]::
+13772::$$$message_0132_0068_0000$$$::"Pronto, Shirou."[lr]::
+13773::$$$message_0132_0068_0001$$$::"[line3]Certo."[lr]::
+13774::$$$message_0132_0068_0002$$$::"[line8]"[lr]::
+13775::$$$message_0132_0068_0003$$$::A pele da Saber se parece com neve que acabou de cair, ou então com mármore.[lr]::
+13776::$$$message_0132_0068_0004$$$::A Saber é tão linda com a parte da frente da blusa aberta que chega a ser pecado.::
+13777::$$$message_0132_0069_0000$$$::".................."[lr]::
+13778::$$$message_0132_0069_0001$$$::"[line6]"[lr]::
+13779::$$$message_0132_0069_0002$$$::...Deve ser culpa dessa tensão estranha.[lr]::
+13780::$$$message_0132_0069_0003$$$::Não sou só eu, a Saber também está agindo estranho.[lr]::
+13781::$$$message_0132_0069_0004$$$::Antes, ela agia normalmente mesmo quando eu chegava a ver a pele dela.::
+13782::$$$message_0132_0070_0000$$$::"Shirou, por aqui.[lr]::
+13783::$$$message_0132_0070_0001$$$::Vem cá e fique em cima da Saber."[lr]::
+13784::$$$message_0132_0070_0002$$$::...Parece que estou me mexendo com um corpo emprestado de alguém.[lr]::
+13785::$$$message_0132_0070_0003$$$::Estou andando até a cama, mas pisar nos destroços não passa uma sensação de realismo.::
+13786::$$$message_0132_0071_0000$$$::"Saber, eu vou assumir até vocês dois ficarem em sincronia.[lr]::
+13787::$$$message_0132_0071_0001$$$::...Você vai assumir depois disso, mas tome cuidado para não pegar demais. Quanto menos você pegar, menos o Shirou vai sofrer."[lr]::
+13788::$$$message_0132_0071_0002$$$::"...Entendi. Conto com você, Rin."::
+13789::$$$message_0132_0072_0000$$$::Eu nem prestei atenção no que elas estavam conversando.[lr]::
+13790::$$$message_0132_0072_0001$$$::Estou ocupado demais tentando controlar a minha respiração.::
+13791::$$$message_0132_0073_0000$$$::".................."[lr]::
+13792::$$$message_0132_0073_0001$$$::Nós ficamos mais perto um do outro. Estamos tão próximos que a nossa pele está quase se tocando.[lr]::
+13793::$$$message_0132_0073_0002$$$::Estou sentindo a respiração frágil dela.[lr]::
+13794::$$$message_0132_0073_0003$$$::Me apoio com os braços e me aproximo ainda mais.::
+13795::$$$message_0132_0074_0000$$$::"[line3]Mudar a preparação. (Auftrag wird ersetzt.)[lr]::
+13796::$$$message_0132_0074_0001$$$::Entorpecimento. Êxtase. (Das dritte Element wird als das erste)[r]::
+13797::$$$message_0132_0074_0002$$$::União, começar. (gekennzeichnet, das Fleisch geht einmal zum Teil des Sternes zurück.)"::
+13798::$$$message_0132_0075_0000$$$::...Ela inicia o encantamento.[lr]::
+13799::$$$message_0132_0075_0001$$$::Me livro de pensamentos inúteis e esvazio a minha mente para poder sincronizar com a Saber.::
+13800::$$$message_0132_0076_0000$$$::"Pequeno. Pequeno. Pequeno. Pequeno. ::
+13801::$$$message_0132_0076_0001$$$::(Sie fliegen hoch, schnell, weit, zu morgen.)[lr]::
+13802::$$$message_0132_0076_0002$$$::Rota circular, abrir. (Nie zurück schauen.)"::
+13803::$$$message_0132_0077_0000$$$::A única coisa que estou vendo é o rosto da Saber.[lr]::
+13804::$$$message_0132_0077_0001$$$::Ela já está em estado de meditação.[lr]::
+13805::$$$message_0132_0077_0002$$$::...Não posso ficar com os olhos abertos para sempre.[lr]::
+13806::$$$message_0132_0077_0003$$$::Fecho os olhos sem muita confiança.::
+13807::$$$message_0132_0078_0000$$$::"Grande. Grande. Grande. Grande. ::
+13808::$$$message_0132_0078_0001$$$::(Es gibt niedrig, ist langsam, ist nah und in die Vergan genheit.)[lr]::
+13809::$$$message_0132_0078_0002$$$::Estrada portuária estreita, fechada em sucessão. (Nie vorherbe trachten.)"::
+13810::$$$message_0132_0079_0000$$$::Estou perdendo os sentidos.[lr]::
+13811::$$$message_0132_0079_0001$$$::Essa é a sensação de estar flutuando que sinto todas as noites quando crio um Circuito Mágico. A sensação de ter a minha consciência saindo do corpo e de ser levado embora.[lr]::
+13812::$$$message_0132_0079_0002$$$::Só que agora ela está indo na direção contrária.[lr]::
+13813::$$$message_0132_0079_0003$$$::Normalmente, é como se minha consciência se concentrasse em minhas costas.[lr]::
+13814::$$$message_0132_0079_0004$$$::Mas agora, sinto que ela está escapando através de meu peito.::
+13815::$$$message_0132_0080_0000$$$::"......"[lr]::
+13816::$$$message_0132_0080_0001$$$::Os cinco sentidos são funções do corpo.[lr]::
+13817::$$$message_0132_0080_0002$$$::A minha audição deveria ter sumido, já que eu estou fora do meu corpo.[lr]::
+13818::$$$message_0132_0080_0003$$$::Mas...[lr]::
+13819::$$$message_0132_0080_0004$$$::Os meus ouvidos estão escutando a respiração da Saber de forma mais precisa do que antes.[lr]::
+13820::$$$message_0132_0080_0005$$$::A respiração gentil está começando a se tornar mais viva.[lr]::
+13821::$$$message_0132_0080_0006$$$::O som de um coração batendo rapidamente.[lr]::
+13822::$$$message_0132_0080_0007$$$::O som de sangue fluindo pelas artérias.[lr]::
+13823::$$$message_0132_0080_0008$$$::"Eu" escorrego para fora da casca chamada Emiya Shirou e deslizo para dentro do corpo dela.::
+13824::$$$message_0132_0081_0000$$$::"[line6]"[lr]::
+13825::$$$message_0132_0081_0001$$$::A minha consciência mergulha ainda mais fundo.[lr]::
+13826::$$$message_0132_0081_0002$$$::Me ego se converge, se curva e encolhe, e me torno um cristal poderoso para invadi-la.[lr]::
+13827::$$$message_0132_0081_0003$$$::O batimento, o calor, a respiração.[lr]::
+13828::$$$message_0132_0081_0004$$$::Eu encosto na consciência dela, e não em seu corpo.::
+13829::$$$message_0132_0082_0000$$$::"[line6]Shirou."[lr]::
+13830::$$$message_0132_0082_0001$$$::Um chamado que soa como um sino.[lr]::
+13831::$$$message_0132_0082_0002$$$::Eu respondo a esse chamado.[lr]::
+13832::$$$message_0132_0082_0003$$$::A minha consciência se separa totalmente do meu corpo.::
+13833::$$$message_0132_0083_0000$$$::[line3]Os meus sentidos se transformam completamente.[lr]::
+13834::$$$message_0132_0083_0001$$$::Não tenho braços, pernas, ou uma identidade. Eu corro nu.[lr]::
+13835::$$$message_0132_0083_0002$$$::É como se estivesse voltando no tempo.[lr]::
+13836::$$$message_0132_0083_0003$$$::Uma sensação bem parecida com ser deixado para trás.::
+13837::$$$message_0132_0084_0000$$$::[line3]Tudo acelera.[lr]::
+13838::$$$message_0132_0084_0001$$$::O corpo, a personalidade, a ordem, a lei.[lr]::
+13839::$$$message_0132_0084_0002$$$::Eu me torno um dardo e atravesso várias barreiras entre as camadas de um indivíduo.[lr]::
+13840::$$$message_0132_0084_0003$$$::Saem faíscas do circuito.[lr]::
+13841::$$$message_0132_0084_0004$$$::A sensação de alcançar a velocidade da luz me assusta.::
+13842::$$$message_0132_0085_0000$$$::[line3]É como se toda a vida humana passasse em um segundo.[lr]::
+13843::$$$message_0132_0085_0001$$$::A vida concentrada é pesada, e portanto, cruel. Não importa como a vida é, ela acaba em um piscar de olhos. [movefg textoff=0 opacity=255 left=-1052 top=35 time=15000 accel=0 storage=セ第一層01(最前面)] É insuportável olhar para ela diretamente. Por conta disso, a minha emoção está anestesiada e congelada.::
+13844::$$$message_0132_0086_0000$$$::Essa é a sensação de sair para uma jornada apenas dentro da sua mente.[lr]::
+13845::$$$message_0132_0086_0001$$$::Percebo como o corpo era um peso que passava uma ótima segurança.::
+13846::$$$message_0132_0087_0000$$$::Visualizo os fundamentos da magia.[lr]::
+13847::$$$message_0132_0087_0001$$$::A digitalização de um humano.[lr]::
+13848::$$$message_0132_0087_0002$$$::Várias centenas de órgãos estão conectados por bilhões de ligamentos.::
+13849::$$$message_0132_0088_0000$$$::A sequência infinita e complexa é uma estrada feita de repetições simples.[lr]::
+13850::$$$message_0132_0088_0001$$$::Em direção ao futuro distante, que uma hora chegará.[lr]::
+13851::$$$message_0132_0088_0002$$$::É como um veículo passando por uma cidade iluminada sem sinais de vida.[lr]::
+13852::$$$message_0132_0088_0003$$$::[line3]Aqui, o presente passa na velocidade da luz.::
+13853::$$$message_0132_0089_0000$$$::A eternidade passa em um piscar de olhos.[lr]::
+13854::$$$message_0132_0089_0001$$$::Eu atravesso a última barreira.[lr]::
+13855::$$$message_0132_0089_0002$$$::O interior dela está atrás disso.[lr]::
+13856::$$$message_0132_0089_0003$$$::Verei o Circuito Mágico que pertence à existência chamada [r]Artoria[line3]::
+13857::$$$message_0132_0090_0000$$$::"[line6], [line3]"::
+13858::$$$message_0132_0091_0000$$$::A diferença é esmagadora.[lr]::
+13859::$$$message_0132_0091_0001$$$::O mundo rápido cheio de luz é interrompido em um instante. Aqui é escuro e pesado.[lr]::
+13860::$$$message_0132_0091_0002$$$::A pressão comprime o contorno do meu corpo. O ar é bastante denso, e é como se eu estivesse debaixo d'água.[lr]::
+13861::$$$message_0132_0091_0003$$$::O meu corpo está afundando aos poucos, acompanhado pela dor de ser esmagado por uma força maior.[lr]::
+13862::$$$message_0132_0091_0004$$$::Meu corpo afunda, sentindo apenas a agonia de estar preso em um torno.::
+13863::$$$message_0132_0092_0000$$$::......O caminho é profundo, e não consigo ver onde termina.[lr]::
+13864::$$$message_0132_0092_0001$$$::É como se eu estivesse caindo em uma escuridão imensa apenas para entrar em uma escuridão ainda maior.[lr]::
+13865::$$$message_0132_0092_0002$$$::Nem parece que acabei de percorrer milhares de quilômetros.[lr]::
+13866::$$$message_0132_0092_0003$$$::Agora, estou levando uma eternidade para percorrer um único quilômetro.[lr]::
+13867::$$$message_0132_0092_0004$$$::Não sinto esperança e nem luz adiante.::
+13868::$$$message_0132_0093_0000$$$::"[line6]"[lr]::
+13869::$$$message_0132_0093_0001$$$::Esse é mesmo o Circuito Mágico da Saber?[lr]::
+13870::$$$message_0132_0093_0002$$$::Ele é muito diferente do meu.[lr]::
+13871::$$$message_0132_0093_0003$$$::Dizem que o formato do Circuito Mágico e o número de ligações variam de pessoa para pessoa, mas isso aqui é algo completamente diferente.[lr]::
+13872::$$$message_0132_0093_0004$$$::Não tem a ver com a escala ou a habilidade.[lr]::
+13873::$$$message_0132_0093_0005$$$::Parece que o Circuito Mágico da Saber é diferente de um circuito de um mago desde a sua concepção[line3]::
+13874::$$$message_0132_0094_0000$$$::O caminho ressoa.[lr]::
+13875::$$$message_0132_0094_0001$$$::Toda vez em que ele faz isso, o meu pequeno eu é quase esmagado.[lr]::
+13876::$$$message_0132_0094_0002$$$::...Não sei que tipo de Circuito Mágico a Saber tem, mas sei que o encantamento de sincronia está funcionando.::
+13877::$$$message_0132_0095_0000$$$::...A Rin não falhou. Esse lugar é escuro, pesado e diferente da Saber, mas não é um lugar impuro.[lr]::
+13878::$$$message_0132_0095_0001$$$::Ele está cheio de energia.[lr]::
+13879::$$$message_0132_0095_0002$$$::O ar que passa por aqui é sangue e uma brisa de energia mágica ao mesmo tempo.::
+13880::$$$message_0132_0096_0000$$$::"[line3], [line6]"[lr]::
+13881::$$$message_0132_0096_0001$$$::Percebo que esqueci de respirar. Talvez seja porque isso não é mais necessário.[lr]::
+13882::$$$message_0132_0096_0002$$$::O mergulho é doloroso, mas não põe a minha vida em risco.[lr]::
+13883::$$$message_0132_0096_0003$$$::...Olho para cima e vejo a escuridão que percorri, e me parece ser uma distância que não posso mais voltar atrás.[lr]::
+13884::$$$message_0132_0096_0004$$$::Até porque não consigo enxergar lugar nenhum nessa escuridão.[lr]::
+13885::$$$message_0132_0096_0005$$$::Mesmo uma pequena queda parece ser um buraco sem fim.::
+13886::$$$message_0132_0097_0000$$$::A densidade do ar muda.[lr]::
+13887::$$$message_0132_0097_0001$$$::A minha velocidade de queda diminui ainda mais.[lr]::
+13888::$$$message_0132_0097_0002$$$::Fecho os olhos por conta do brilho da escuridão.[lr]::
+13889::$$$message_0132_0097_0003$$$::Há um fim para esse caminho infinito.[lr]::
+13890::$$$message_0132_0097_0004$$$::Sinto o calor e a respiração da Saber.[lr]::
+13891::$$$message_0132_0097_0005$$$::...Esse é o meu destino final.[lr]::
+13892::$$$message_0132_0097_0006$$$::Alcanço a fonte do Circuito Mágico da Saber, o mundo mental em seu interior[line3]::
+13893::$$$message_0132_0098_0000$$$::[line3]Porém.[lr]::
+13894::$$$message_0132_0098_0001$$$::O que vejo está além da minha compreensão.[lr]::
+13895::$$$message_0132_0098_0002$$$::O núcleo de uma estrela.[lr]::
+13896::$$$message_0132_0098_0003$$$::A personificação do fogo que respira nas profundezas está bem aqui.::
+13897::$$$message_0132_0099_0000$$$::A superfície vermelha do lago está tremendo, mas ao mesmo tempo é silenciosa e não espirra líquido algum.[lr]::
+13898::$$$message_0132_0099_0001$$$::Há uma sombra enorme no fundo do lago.[move textoff=0 time=200 path=(0,0,128)(0,0,64)(0,0,32)(0,0,0) storage=セ第三層04a accel=0][lr]::
+13899::$$$message_0132_0099_0002$$$::O olho de fogo percebe o pequeno invasor.[lr]::
+13900::$$$message_0132_0099_0003$$$::Mesmo que o dono tenha permitido que eu entrasse, ainda sou considerado um invasor estranho.[lr]::
+13901::$$$message_0132_0099_0004$$$::Nesse núcleo...[lr]::
+13902::$$$message_0132_0099_0005$$$::...minha própria consciência não é nada mais que uma partícula de pó tentando atrapalhar o funcionamento, ou somente um pedaço de lenha para alimentar o fogo.::
+13903::$$$message_0132_0100_0000$$$::"[line6]"[lr]::
+13904::$$$message_0132_0100_0001$$$::Prendo a minha respiração, pois não preciso mais dela.[lr]::
+13905::$$$message_0132_0100_0002$$$::Olho para a paisagem em minha volta.[lr]::
+13906::$$$message_0132_0100_0003$$$::Estes são os Circuitos Mágicos da Saber.[lr]::
+13907::$$$message_0132_0100_0004$$$::O coração que ultrapassa os dos humanos. É completamente diferente do nosso, o qual imaginamos como linhas e circuitos.[lr]::
+13908::$$$message_0132_0100_0005$$$::Esse lugar é um reator nuclear. Se o corpo de um mago é uma máquina de gerar energia mágica, esse lugar é uma fábrica completa.::
+13909::$$$message_0132_0101_0000$$$::Mas o núcleo não está ativo.[lr]::
+13910::$$$message_0132_0101_0001$$$::A chave de início que faz o reator girar, a fonte de energia para fornecer o primeiro giro, não está aqui.[lr]::
+13911::$$$message_0132_0101_0002$$$::Há uma quantidade imensa de energia mágica e um núcleo enorme, mas simplesmente não há energia mágica o suficiente para ativar esse núcleo.::
+13912::$$$message_0132_0102_0000$$$::[line3]A criatura sobe para a superfície.[lr]::
+13913::$$$message_0132_0102_0001$$$::O mar morto de gasolina.[lr]::
+13914::$$$message_0132_0102_0002$$$::Não importa quanta energia mágica não diluída tenha por aqui, ela será inútil se não houver fogo para poder queimá-la. Não tem problema se for apenas uma faísca. Esse reator vai voltar a funcionar assim que a conexão de energia mágica for ativada.[lr]::
+13915::$$$message_0132_0102_0003$$$::[line3]E para que esse trabalho seja feito...[lr]::
+13916::$$$message_0132_0102_0004$$$::Uma criatura que vai além da compreensão humana é despertada.::
+13917::$$$message_0132_0103_0000$$$::Os vários caminhos que percorrem o lago começam a tremer.[lr]::
+13918::$$$message_0132_0103_0001$$$::A atmosfera vermelha sobe e se transforma em pilares.[lr]::
+13919::$$$message_0132_0103_0002$$$::Será que essa é a sensação de estar dentro de uma nuvem de tempestade?[lr]::
+13920::$$$message_0132_0103_0003$$$::O tremor furioso das ondas sonoras é tão intenso que eu já não consigo mais ouvir direito.::
+13921::$$$message_0132_0104_0000$$$::Da mesma forma que algo grande demais não pode ser visto, o rugido da besta é tão alto que se torna a definição de ensurdecedor.[lr]::
+13922::$$$message_0132_0104_0001$$$::A criatura que surgiu de dentro desse núcleo ardente é a personificação de todas as ameaças à humanidade.::
+13923::$$$message_0132_0105_0000$$$::[line3]Dizem por aí...[lr]::
+13924::$$$message_0132_0105_0001$$$::Que o rei é um dragão vermelho que simboliza a Grã-Bretanha.[lr]::
+13925::$$$message_0132_0105_0002$$$::O filho da estrela sagrada, que leva consigo o sangue Fantasmal em um corpo de humano.::
+13926::$$$message_0132_0106_0000$$$::O dragão.[lr]::
+13927::$$$message_0132_0106_0001$$$::O símbolo, o medo, e o rei de inúmeras Espécies Fantasmais.[lr]::
+13928::$$$message_0132_0106_0002$$$::Aparecendo às vezes como malvado, às vezes como uma divindade, essa é a criatura mais elevada de todas as espécies.[lr]::
+13929::$$$message_0132_0106_0003$$$::Isso é o que está no subconsciente da Saber.[lr]::
+13930::$$$message_0132_0106_0004$$$::Uma "natureza verdadeira" absurda que só poderia vir do melhor dos Servos.::
+13931::$$$message_0132_0107_0000$$$::O caldeirão foi aberto.[lr]::
+13932::$$$message_0132_0107_0001$$$::As presas mortais preenchem a minha visão.[lr]::
+13933::$$$message_0132_0107_0002$$$::É inútil resistir.[lr]::
+13934::$$$message_0132_0107_0003$$$::Um simples humano não pode se defender contra isso.[lr]::
+13935::$$$message_0132_0107_0004$$$::A inteligência de um humano nem mesmo é capaz de pensar em fugir.::
+13936::$$$message_0132_0108_0000$$$::"[line3]Ah."[lr]::
+13937::$$$message_0132_0108_0001$$$::Ele devia estar faminto.[lr]::
+13938::$$$message_0132_0108_0002$$$::Com seus olhos sangrentos, ele devora a comida que é tão pequena quanto um grão de areia e[line3]::
+13939::$$$message_0132_0109_0000$$$::E eu... estou completamente sem palavras...::
+13940::$$$message_0132_0110_0000$$$::[line3]Pensando agora...[lr]::
+13941::$$$message_0132_0110_0001$$$::Por que a comida que vem à mesa nunca está viva?[lr]::
+13942::$$$message_0132_0110_0002$$$::Nem é preciso dizer isso.[lr]::
+13943::$$$message_0132_0110_0003$$$::Nós não aguentaríamos comê-la.[lr]::
+13944::$$$message_0132_0110_0004$$$::Sabemos que a comida é melhor quando está fresca, mas nós a preferimos morta porque seria crueldade demais deixá-la viva nessa situação.[lr]::
+13945::$$$message_0132_0110_0005$$$::Ou seja...[lr]::
+13946::$$$message_0132_0110_0006$$$::Deixando as aparências de lado, a carne comestível mantém a dignidade da vida intacta. [rf]::
+13947::$$$message_0132_0111_0000$$$::Gritos e rugidos vem à tona.[lr]::
+13948::$$$message_0132_0111_0001$$$::Me esqueço de quem sou e rujo como uma fera selvagem.[lr]::
+13949::$$$message_0132_0111_0002$$$::Exponho a minha dor.[flicker time=200 count=1][lr]::
+13950::$$$message_0132_0111_0003$$$::O ódio se intensifica.[lr]::
+13951::$$$message_0132_0111_0004$$$::Resisto com todas as minhas forças.[lr]::
+13952::$$$message_0132_0111_0005$$$::Imploro por piedade como um pecador que está sendo crucificado.::
+13953::$$$message_0132_0112_0000$$$::Os meus sentidos desaparecem.[lr]::
+13954::$$$message_0132_0112_0001$$$::Me esqueço dos meus objetivos e propósitos.[lr]::
+13955::$$$message_0132_0112_0002$$$::A dificuldade de manter a sanidade aqui dentro é tão grande quanto o tempo da própria criação.[lr]::
+13956::$$$message_0132_0112_0003$$$::"[line9]"[rf][lr]::
+13957::$$$message_0132_0112_0004$$$::Pressão e força esmagadoras.[lr]::
+13958::$$$message_0132_0112_0005$$$::...E então...[lr]::
+13959::$$$message_0132_0112_0006$$$::No mesmo instante em que eu só consigo identificar essa criatura como um monstro...::
+13960::$$$message_0132_0113_0000$$$::...Vejo o rosto dela.[lr]::
+13961::$$$message_0132_0113_0001$$$::Ela está inclinando a cabeça, acreditando que eu consigo aturar esse inferno.::
+13962::$$$message_0132_0114_0000$$$::"[line6]"[lr]::
+13963::$$$message_0132_0114_0001$$$::Me lembro de qual é o sentido dessa dor.[lr]::
+13964::$$$message_0132_0114_0002$$$::Fico animado com o significado dessa aflição.[lr]::
+13965::$$$message_0132_0114_0003$$$::Me lembro totalmente do motivo de estar neste lugar.::
+13966::$$$message_0132_0115_0000$$$::"[line6]"[lr]::
+13967::$$$message_0132_0115_0001$$$::Suspiro e paro de resistir.[lr]::
+13968::$$$message_0132_0115_0002$$$::Não deveria lutar contra as presas do dragão, mas sim contra a dor que há dentro de mim.[lr]::
+13969::$$$message_0132_0115_0003$$$::Não vim até aqui para poder me livrar da dor.[lr]::
+13970::$$$message_0132_0115_0004$$$::Estou aqui para salvá-la da dor que ela está sentindo e agradecê-la pela confiança que ela manteve em mim por todo esse tempo.[lr]::
+13971::$$$message_0132_0115_0005$$$::[line3]E assim.[lr]::
+13972::$$$message_0132_0115_0006$$$::Já que não posso lutar, estou aqui para dar a ela o meu maior agradecimento que eu puder.::
+13973::$$$message_0132_0116_0000$$$::...Agora não sinto mais dor.[lr]::
+13974::$$$message_0132_0116_0001$$$::Não estou preocupado com os meus sentidos destruídos.[lr]::
+13975::$$$message_0132_0116_0002$$$::Fico em silêncio como se estivesse dormindo e afio meus sentidos como se fossem espadas.[lr]::
+13976::$$$message_0132_0116_0003$$$::A eternidade aqui passa em um piscar de olhos.[lr]::
+13977::$$$message_0132_0116_0004$$$::...Se é assim, então eu posso ficar consciente se conseguir aturar a dor mesmo que por um segundo.[lr]::
+13978::$$$message_0132_0116_0005$$$::Então[line3]está bem.::
+13979::$$$message_0132_0117_0000$$$::                                     Não sentirei um pingo de medo.[lr]::
+13980::$$$message_0132_0117_0001$$$::                     Dedicarei essa dor a você, que será quem lutará.::
+13981::$$$message_0132_0118_0000$$$::[line3]A dor some imediatamente.[lr]::
+13982::$$$message_0132_0118_0001$$$::O dragão vermelho se foi, e a minha consciência se eleva para o caminho de volta.[lr]::
+13983::$$$message_0132_0118_0002$$$::Estou mais leve depois de perder uma parte de mim?[lr]::
+13984::$$$message_0132_0118_0003$$$::Como se estivesse voltando à superfície, eu me afasto do núcleo contra a minha vontade.[lr]::
+13985::$$$message_0132_0118_0004$$$::Espera.[lr]::
+13986::$$$message_0132_0118_0005$$$::Tenho que confirmar uma coisa primeiro[line3]::
+13987::$$$message_0132_0119_0000$$$::"[line6]Ah."[lr]::
+13988::$$$message_0132_0119_0001$$$::Como está quente.[lr]::
+13989::$$$message_0132_0119_0002$$$::O núcleo está queimando com uma luz dourada e em um tom silencioso.[lr]::
+13990::$$$message_0132_0119_0003$$$::O Circuito Mágico delicado está se iluminando com todas as cores do arco-íris, restaurando assim a circulação.[lr]::
+13991::$$$message_0132_0119_0004$$$::A chama foi acesa.[lr]::
+13992::$$$message_0132_0119_0005$$$::Mesmo que eu seja um mago amador, fui capaz de cumprir com o meu dever de Mestre dela.::
+13993::$$$message_0132_0120_0000$$$::Me deixo levar pelo vento que me faz flutuar.[lr]::
+13994::$$$message_0132_0120_0001$$$::Tenho pequenas visões de memórias distantes.[lr]::
+13995::$$$message_0132_0120_0002$$$::Uma imagem de alguém segurando uma espada, e uma imagem de alguém dançando no campo.[lr]::
+13996::$$$message_0132_0120_0003$$$::Qual das duas me era familiar...?::
+13997::$$$message_0132_0121_0000$$$::"......"[lr]::
+13998::$$$message_0132_0121_0001$$$::Sinto a luz do Sol nas minhas pálpebras e abro os olhos devagar.::
+13999::$$$message_0132_0122_0000$$$::"[line6]"[lr]::
+14000::$$$message_0132_0122_0001$$$::Verifico o estado do meu corpo com a minha mente sonolenta.[lr]::
+14001::$$$message_0132_0122_0002$$$::Os meus membros ainda estão no lugar. Não sinto nenhuma ferida.[lr]::
+14002::$$$message_0132_0122_0003$$$::...Talvez a dor tenha passado depois que eu consegui tolerar.[lr]::
+14003::$$$message_0132_0122_0004$$$::A minha ferida mental, que poderia se tornar um trauma, também está curada.::
+14004::$$$message_0132_0123_0000$$$::"...Ah... Shirou."[lr]::
+14005::$$$message_0132_0123_0001$$$::Ouço uma voz fraca vindo atrás de mim.[lr]::
+14006::$$$message_0132_0123_0002$$$::"...?"[lr]::
+14007::$$$message_0132_0123_0003$$$::A sensação da pele dela me faz perceber no mesmo instante quem é ela e o que nós estamos fazendo.::
+14008::$$$message_0132_0124_0000$$$::"[shock time=300 vmax=30 count=-2]Ah[line3]!"[lr]::
+14009::$$$message_0132_0124_0001$$$::A Saber está deitada na cama vestindo uma blusa desabotoada, e a Tohsaka está dormindo em forma de concha.[lr]::
+14010::$$$message_0132_0124_0002$$$::A Tohsaka está... tudo bem, mas a Saber esteve embaixo de mim o tempo todo.::
+14011::$$$message_0132_0125_0000$$$::"B-Bom dia, Saber."[lr]::
+14012::$$$message_0132_0125_0001$$$::"Sim. Bom dia, Shirou."::
+14013::$$$message_0132_0126_0000$$$::Um bom dia estranho.[lr]::
+14014::$$$message_0132_0126_0001$$$::A Saber se levanta devagar e ajeita a sua blusa.[lr]::
+14015::$$$message_0132_0126_0002$$$::...Droga. Nós estamos conscientes um do outro e eu não consigo olhar nos olhos dela.::
+14016::$$$message_0132_0127_0000$$$::"V-Você pode se levantar agora, Saber?"[lr]::
+14017::$$$message_0132_0127_0001$$$::"Sim. Agora posso receber a sua energia mágica."[lr]::
+14018::$$$message_0132_0127_0002$$$::...Parece que a Saber está de volta ao normal.[lr]::
+14019::$$$message_0132_0127_0003$$$::A sua fragilidade de quando eu estava a carregando se foi.::
+14020::$$$message_0132_0128_0000$$$::"Que bom... Então o transplante do Circuito Mágico deu certo?"[lr]::
+14021::$$$message_0132_0128_0001$$$::"Sim, então... Você poderia vestir as suas roupas de volta, Shirou? Por algum motivo, é difícil para mim conversar com você desse jeito."::
+14022::$$$message_0132_0129_0000$$$::Eu olho para o meu corpo.[lr]::
+14023::$$$message_0132_0129_0001$$$::"Ah[line3]É mesmo, tem razão, você está certa!"[lr]::
+14024::$$$message_0132_0129_0002$$$::Rapidamente pego as minhas roupas que estão muito bem dobradas.[lr]::
+14025::$$$message_0132_0129_0003$$$::Foi a Tohsaka que dobrou tanto assim as minhas roupas... Não, fui eu mesmo que fiz isso![lr]::
+14026::$$$message_0132_0129_0004$$$::Por que eu as dobrei tanto assim[line3]?::
+14027::$$$message_0132_0130_0000$$$::"......Ah."[lr]::
+14028::$$$message_0132_0130_0001$$$::De repente me lembro do ritual que passei ontem à noite.[lr]::
+14029::$$$message_0132_0130_0002$$$::Eu me sincronizei com a Saber e fiz o transplante do meu Circuito Mágico bem no interior dela.[lr]::
+14030::$$$message_0132_0130_0003$$$::Parece que a Saber está de volta ao normal, mas e quanto à mim?::
+14031::$$$message_0132_0131_0000$$$::"[line6]"[lr]::
+14032::$$$message_0132_0131_0001$$$::A Tohsaka disse que o meu corpo e a minha mente não iriam aguentar perder o Circuito Mágico, mas não estou vendo muitos danos e nem estou com uma sensação de perda muito grande.[lr]::
+14033::$$$message_0132_0131_0002$$$::...Estou com um pouco de medo de fazer isso, mas verifico o meu Circuito Mágico.[lr]::
+14034::$$$message_0132_0131_0003$$$::Tenho medo de descobrir o quanto foi que eu perdi, mas a luta contra o Berserker está logo ali.[lr]::
+14035::$$$message_0132_0131_0004$$$::Preciso ter uma ideia melhor do estado do meu corpo.::
+14036::$$$message_0132_0132_0000$$$::"......Ué?"[lr]::
+14037::$$$message_0132_0132_0001$$$::...Que coisa estranha.[lr]::
+14038::$$$message_0132_0132_0002$$$::O Circuito Mágico está um pouco vazio, mas eu não estou vendo nenhum dano.[lr]::
+14039::$$$message_0132_0132_0003$$$::Ele foi devorado em pedaços, mas o meu Circuito Mágico ainda está no lugar.[lr]::
+14040::$$$message_0132_0132_0004$$$::Acho que eu não teria nenhum problema em usar a magia de fortalecimento.::
+14041::$$$message_0132_0133_0000$$$::"Entendi. Isso significa que..."[lr]::
+14042::$$$message_0132_0133_0001$$$::Provavelmente aqueles Circuitos Mágicos que eu quase nunca usava foram tirados de mim.[lr]::
+14043::$$$message_0132_0133_0002$$$::Só preciso ativar entre um e quatro circuitos para fazer o fortalecimento funcionar. Não sei usar nenhuma magia de grande escala, então nunca precisei ativar todos os meus circuitos mesmo.[lr]::
+14044::$$$message_0132_0133_0003$$$::Parece que os Circuitos Mágicos que foram transplantados na Saber são aqueles que eu raramente precisava usar.::
+14045::$$$message_0132_0134_0000$$$::"...Shirou?"[lr]::
+14046::$$$message_0132_0134_0001$$$::Eu fecho os olhos e analiso a situação.[lr]::
+14047::$$$message_0132_0134_0002$$$::Parece que isso não vai afetar minha magia de fortalecimento.[lr]::
+14048::$$$message_0132_0134_0003$$$::Mas essa lentidão, como se eu estivesse andando na água, é porque minha "capacidade máxima" de magia diminuiu.::
+14049::$$$message_0132_0135_0000$$$::Em troca, sinto que estou ligado profundamente com alguma coisa importante.[lr]::
+14050::$$$message_0132_0135_0001$$$::Não sei dizer exatamente em que parte do meu corpo, mas existe uma leve conexão entre mim e a Saber.[lr]::
+14051::$$$message_0132_0135_0002$$$::Eu ganhei uma coisa verdadeiramente importante em troca dos meus circuitos perdidos.::
+14052::$$$message_0132_0136_0000$$$::"[line3]Preciso me desculpar, Shirou."[lr]::
+14053::$$$message_0132_0136_0001$$$::Eu ouço a Saber se desculpando atrás de mim.::
+14054::$$$message_0132_0137_0000$$$::"Fiz de tudo para pegar o mínimo possível dos seus circuitos.[lr]::
+14055::$$$message_0132_0137_0001$$$::Mas o meu "mínimo" é algo de extremo valor para outra pessoa. Eu deixei cicatriz incurável em você, e nem posso imaginar em como me desculpar.[lr]::
+14056::$$$message_0132_0137_0002$$$::Esse foi um erro da minha parte. Se eu fosse mais forte, mais disciplinada, você não estaria[line3]"::
+14057::$$$message_0132_0138_0000$$$::"Isso não é verdade. Você não precisa pedir desculpas.[lr]::
+14058::$$$message_0132_0138_0001$$$::Tudo aconteceu porque não fui capaz de te fornecer energia mágica.[lr]::
+14059::$$$message_0132_0138_0002$$$::Mas esse problema foi resolvido. A partir de agora posso te fornecer essa energia.[lr]::
+14060::$$$message_0132_0138_0003$$$::...Sim, eu finalmente tenho orgulho em dizer que sou o Mestre da Saber."::
+14061::$$$message_0132_0139_0000$$$::"Mas, Shirou..."[lr]::
+14062::$$$message_0132_0139_0001$$$::"Você não precisa se preocupar com meus Circuitos Mágicos perdidos. Eu não usava todos eles e até me sinto melhor do que quando tinha eles."::
+14063::$$$message_0132_0140_0000$$$::"......"[lr]::
+14064::$$$message_0132_0140_0001$$$::A Saber não parece estar contente.[lr]::
+14065::$$$message_0132_0140_0002$$$::...Droga. Agora eu não sei mais o que dizer.::
+14066::$$$message_0132_0141_0000$$$::A Saber está curada, e eu estou vivo mesmo depois de perder parte dos meus Circuitos Mágicos.[lr]::
+14067::$$$message_0132_0141_0001$$$::Me lembro dos Circuitos Mágicos da Saber, depois do breve sonho da luz do Sol e o vento nos dias da juventude dela. E acima de tudo, me lembro de que ficamos a noite toda vestidos daquele jeito[line3]::
+14068::$$$message_0132_0142_0000$$$::"[line6]"[lr]::
+14069::$$$message_0132_0142_0001$$$::Calma, calma.[lr]::
+14070::$$$message_0132_0142_0002$$$::Aquilo foi um ritual que tivemos que fazer para sobreviver.[lr]::
+14071::$$$message_0132_0142_0003$$$::...Tenho que me acalmar. Se ficar pensando demais nisso, vou acabar cometendo um erro na luta que está por vir.::
+14072::$$$message_0132_0143_0000$$$::"......Hm......"[lr]::
+14073::$$$message_0132_0143_0001$$$::A respiração da Tohsaka é interrompida e ela deixa a voz escapar.[lr]::
+14074::$$$message_0132_0143_0002$$$::Parece que ela acabou de acordar.::
+14075::$$$message_0132_0144_0000$$$::"B-Bom dia, Rin."[lr]::
+14076::$$$message_0132_0144_0001$$$::"E-Ei, Tohsaka. Bom dia."::
+14077::$$$message_0132_0145_0000$$$::O seu cabelo se mexe, e ela levanta a cabeça.[lr]::
+14078::$$$message_0132_0145_0001$$$::A Tohsaka não costuma acordar cedo, então ela é como se fosse uma pessoa diferente agora.::
+14079::$$$message_0132_0146_0000$$$::"Obrigado, Tohsaka. Deu tudo certo."[lr]::
+14080::$$$message_0132_0146_0001$$$::"Sim, a minha energia mágica está abastecida. Mas em troca, o Shirou está sem..."[lr]::
+14081::$$$message_0132_0146_0002$$$::"Não, eu só perdi cerca de 30% do total, então não tem problema. Consigo agir com o que ainda tenho."::
+14082::$$$message_0132_0147_0000$$$::"T-Trinta por cento...!?[lr]::
+14083::$$$message_0132_0147_0001$$$::Eu peguei o mínimo que pude, mas mesmo assim foi 30%...?  [chgfg textoff=0 time=300 storage=セイバー私服20b(中)] Ah, como eu estou sendo gananciosa[line3]"[lr]::
+14084::$$$message_0132_0147_0002$$$::"Gananciosa, não é? Eu sabia que você estava faminta, mas seria bom você demonstrar boas maneiras."[lr]::
+14085::$$$message_0132_0147_0003$$$::"[line3]!"::
+14086::$$$message_0132_0148_0000$$$::Aquele clima desagradável desapareceu depois que a Tohsaka acordou.[lr]::
+14087::$$$message_0132_0148_0001$$$::...Agora nós estamos realmente de volta ao normal.[lr]::
+14088::$$$message_0132_0148_0002$$$::"Entendi, então[line2]vamos andando."[lr]::
+14089::$$$message_0132_0148_0003$$$::A Tohsaka boceja e se levanta.::
+14090::$$$message_0132_0149_0000$$$::A batalha decisiva está próxima.[lr]::
+14091::$$$message_0132_0149_0001$$$::Além das árvores silenciosas, Berserker e Illyasviel estão à espera.[lr]::
+14092::$$$message_0132_0149_0002$$$::Nós vamos perder várias coisas importantes que sacrificamos ontem à noite se não encararmos aquele furacão da morte.[lr]::
+14093::$$$message_0132_0149_0003$$$::...A conexão com a Saber que foi criada em meu coração.[lr]::
+14094::$$$message_0132_0149_0004$$$::Para que eu possa protegê-la, nós precisamos derrotar o inimigo mais poderoso de todos[line3]::
+91000::$$$message_0132_9999_0000$$$::Enquanto sou estraçalhado...[lr][r]::
+91001::$$$message_0132_9999_0001$$$::Imploro por piedade como um pecador sendo crucificado..::
+

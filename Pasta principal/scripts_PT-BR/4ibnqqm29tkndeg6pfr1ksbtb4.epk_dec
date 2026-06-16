@@ -1,0 +1,91 @@
+DAT
+id=qid::label=str::text=lstr::
+59571::$$$message_0541_0000_0000$$$::"Que? Uma briga entre mim e a Sakura?"[lr]::
+59572::$$$message_0541_0000_0001$$$::"Huh? Vocês duas não discutiram? A Sakura pediu desculpas."::
+59573::$$$message_0541_0001_0000$$$::"...agora que você comentou, pode ter parecido uma. Mas a Sakura tinha razão, e ela meramente comentou minha falta de consideração..."::
+59574::$$$message_0541_0002_0000$$$::"[w l=4][line4]"[lr]::
+59575::$$$message_0541_0002_0001$$$::Uau.[lr]::
+59576::$$$message_0541_0002_0002$$$::Saber está pensando bastante.[lr]::
+59577::$$$message_0541_0002_0003$$$::Não só isso, está ponderando tanto que está comendo numa velocidade absurda.::
+59578::$$$message_0541_0003_0000$$$::"Ah, me desculpa se eu disse algo estranho. A Sakura parecia tão preocupada com isso que acabei preocupada também. Se não é grande coisa, pode esquecer isso."::
+59579::$$$message_0541_0004_0000$$$::"...aí aí. Vocês duas disseram a mesma coisa. Não vai me dizer que as duas estão me pegando uma peça."[lr]::
+59580::$$$message_0541_0004_0001$$$::"Ei, não pegariamos uma peça tão elaborada em você! Que bem isso faria para nós?"[lr]::
+59581::$$$message_0541_0004_0002$$$::Eu nem quero pensar no que aconteceria se eu fizesse uma brincadeira com ela e ela descobrisse o que aconteceu.::
+59582::$$$message_0541_0005_0000$$$::"É verdade. Então vocês devem só estar preocupadas com a outra."[lr]::
+59583::$$$message_0541_0005_0001$$$::Concordando com si, a Saber pega outra omelete.[lr]::
+59584::$$$message_0541_0005_0002$$$::É bom comer tanto pela manhã.::
+59585::$$$message_0541_0006_0000$$$::"Mas o que ela disse? É difícil ela ficar pra baixo assim. Tudo bem se eu perguntar?"[lr]::
+59586::$$$message_0541_0006_0001$$$::"U-Um. Ela meramente apontou minhas falhas como Serva. Em suma, ela me disse que eu não conseguia proteger você porque eu não tinha a habilidade."::
+59587::$$$message_0541_0007_0000$$$::"...você faz mais do que eu te peço.[lr]::
+59588::$$$message_0541_0007_0001$$$::O que aconteceu ontem foi minha culpa. Não pode culpar a si por isso."::
+59589::$$$message_0541_0008_0000$$$::"É verdade, mas... A crítica da Sakura está correta. O problema sou eu, porque não posso consetir.[lr]::
+59590::$$$message_0541_0008_0001$$$::Continuarei te levando para a batalha, não importa o que ela me diga."::
+59591::$$$message_0541_0009_0000$$$::Ela desvia o olhar envergonhada.[lr]::
+59592::$$$message_0541_0009_0001$$$::"...?"[lr]::
+59593::$$$message_0541_0009_0002$$$::Algo está errado.[lr]::
+59594::$$$message_0541_0009_0003$$$::Por que a Saber está tão preocupada com algo que ambas concordaram?::
+59595::$$$message_0541_0010_0000$$$::"...Os moradores ficaram desconfiados e pediram que a área fosse investigada.[w l=4][line4]"::
+59596::$$$message_0541_0011_0000$$$::Está passando o jornal.[lr]::
+59597::$$$message_0541_0011_0001$$$::Liguei a TV e vi que estão comentando sobre o incidente de noite passada.::
+59598::$$$message_0541_0012_0000$$$::"...Encontraram cerca de 30 pessoas inconscientes, que foram imediatamente levadas ao hospital.[lr]::
+59599::$$$message_0541_0012_0001$$$::Este é o sétimo caso deste tipo este mês, e os médicos ainda acreditam que a causa é similar a intoxicação alimentar[w l=4][line4]"::
+59600::$$$message_0541_0013_0000$$$::Termino o café da manhã e me arrumo para escola.[lr]::
+59601::$$$message_0541_0013_0001$$$::Vou ver a Tohsaka.[lr]::
+59602::$$$message_0541_0013_0002$$$::Tenho que falar com ela sobre o que aconteceu noite passada[w l=3][line3]sobre Matou Zouken e aquela sombra negra.::
+59603::$$$message_0541_0014_0000$$$::"...enquanto o incidente se espalhou para a Quarta Avenida em Miyama do Sul, a polícia acredita que a causa foi um derramamento quimico[w l=4][line4]"::
+59604::$$$message_0541_0015_0000$$$::Quarta Avenida em Miyama do Sul.[lr]::
+59605::$$$message_0541_0015_0001$$$::Era para onde a Tohsaka estava olhando ontem.[lr]::
+59606::$$$message_0541_0015_0002$$$::...Archer disse que a sombra era a causa dos incidentes.::
+59607::$$$message_0541_0016_0000$$$::...mais de trinta pessoas estão em coma.[lr]::
+59608::$$$message_0541_0016_0001$$$::Eu experimentei o que eles estão passando em primeira mão.[lr]::
+59609::$$$message_0541_0016_0002$$$::Aquela sombra está sugando a energia mágica das pessoas nesta cidade, assim como a Caster.::
+59610::$$$message_0541_0017_0000$$$::"[w l=8][line8]"[lr]::
+59611::$$$message_0541_0017_0001$$$::Não, é pior do que isso.[lr]::
+59612::$$$message_0541_0017_0002$$$::A Caster era géntil e considerativa comparado a essa coisa.[lr]::
+59613::$$$message_0541_0017_0003$$$::Ela tomava cuidado para não ferir suas vítimas, para que pudesse continuar sugando-as.[lr]::
+59614::$$$message_0541_0017_0004$$$::É como tirar sangue com uma siringa.::
+59615::$$$message_0541_0018_0000$$$::...mas essa coisa é diferente.[lr]::
+59616::$$$message_0541_0018_0001$$$::Ela não está tirando sangue como a Caster. Ela está "comendo".[lr]::
+59617::$$$message_0541_0018_0002$$$::A sombra negra se alimenta impiedosamente da energia magica junto a mente das pessoas.::
+59618::$$$message_0541_0019_0000$$$::"[w l=3][line3]Saber. Quero falar com você antes de ir para a escola."[lr]::
+59619::$$$message_0541_0019_0001$$$::"O que foi, Shirou?"::
+59620::$$$message_0541_0020_0000$$$::A Saber está assistindo o jornal também.[lr]::
+59621::$$$message_0541_0020_0001$$$::Ela silenciosamente me questiona como sempre, embora saiba sobre o que quero conversar.::
+59622::$$$message_0541_0021_0000$$$::"É sobre nosso futuro plano de ação. Você viu aquela coisa também, né?"[lr]::
+59623::$$$message_0541_0021_0001$$$::"[w l=4][line4]Sim. Nunca tinha visto nada do tipo antes, e nem parece com nenhuma raça fantástica."::
+59624::$$$message_0541_0022_0000$$$::"...exato. Não sei o que é aquela coisa.[lr]::
+59625::$$$message_0541_0022_0001$$$::Mas é nossa inimiga. Não parecia como um Mestre ou Servo, mas atacou eu e a Tohsaka, e agora suga a energia mágica das pessoas na cidade.[lr]::
+59626::$$$message_0541_0022_0002$$$::Então[w l=4][line4]"::
+59627::$$$message_0541_0023_0000$$$::"...então nossa prioridade atual é buscar aquela sombra?[lr]::
+59628::$$$message_0541_0023_0001$$$::Vamos lutar com algo que nem é Servo nem Mestre?"::
+59629::$$$message_0541_0024_0000$$$::O olhar da Saber é doloroso.[lr]::
+59630::$$$message_0541_0024_0001$$$::...seu objetivo é obter o Santo Graal.[lr]::
+59631::$$$message_0541_0024_0002$$$::Mas estou lhe pedindo para se envolver em algo completamente distinto.[lr]::
+59632::$$$message_0541_0024_0003$$$::É normal que ela proteste.[lr]::
+59633::$$$message_0541_0024_0004$$$::Mas mesmo assim[w l=3][line3]::
+59634::$$$message_0541_0025_0000$$$::"Sim. Não posso ignorar esta sombra. Acho que ela é mais importante do que a Guerra do Santo Graal."[lr]::
+59635::$$$message_0541_0025_0001$$$::"[w l=8][line8]"[lr]::
+59636::$$$message_0541_0025_0002$$$::A Saber silenciosamente me encara.[lr]::
+59637::$$$message_0541_0025_0003$$$::E quando penso que não vou mais aguentar...::
+59638::$$$message_0541_0026_0000$$$::"...ai ai. Sabia que isso aconteceria. Não queria me preocupar com a sombra, mas..."[lr]::
+59639::$$$message_0541_0026_0001$$$::"Eh, Saber...? Um, tudo bem...?"::
+59640::$$$message_0541_0027_0000$$$::"Minha opinião não importa, porque você tentará fazer algo sozinho, mesmo que eu me recuse.[lr]::
+59641::$$$message_0541_0027_0001$$$::Estarei pondo o cavalo na frente da carroça. Não posso ficar neste mundo se você morrer.[lr]::
+59642::$$$message_0541_0027_0002$$$::Só posso obedecer, mesmo se eu for contra sua proposta."::
+59643::$$$message_0541_0028_0000$$$::"Uh, você tem razão, mas..."[lr]::
+59644::$$$message_0541_0028_0001$$$::"E não sei mais quantas vezes você será descuidado se eu te deixar sozinho. Foi a segunda vez ontem, logo a terceira acontecerá. E terei que me desculpar com a Sakura se isso acontecer."::
+59645::$$$message_0541_0029_0000$$$::"Então..."[lr]::
+59646::$$$message_0541_0029_0001$$$::"Sou muito relutante, mas Servos obedecem seus Mestres. Te emprestarei minha espada se for sua vontade."::
+59647::$$$message_0541_0030_0000$$$::"[w l=4][line4]Saber."[lr]::
+59648::$$$message_0541_0030_0001$$$::"Mas Shirou, aquela sombra não é um oponente ordinário. Seria mais fácil lutar com Berserker do que com ela."::
+59649::$$$message_0541_0031_0000$$$::"Ugh... sim, senti isso também.[lr]::
+59650::$$$message_0541_0031_0001$$$::Não é questão de ser forte ou não. Aquela coisa é sómbria. Não sei se podemos acabar com ela só acertando-a."::
+59651::$$$message_0541_0032_0000$$$::"Se você entende, então não há nada mais que eu possa dizer.[lr]::
+59652::$$$message_0541_0032_0001$$$::...mas Shirou. Se opor aquela coisa é ir pelo caminho mais difícil. Tenha isto em mente, por favor."::
+59653::$$$message_0541_0033_0000$$$::"......? Sim, claro que terei cuidado. Mas por que está dizendo tais coisas? Você sabe o que é aquela sombra, como o Archer sabe?"::
+59654::$$$message_0541_0034_0000$$$::"...não. Como você, sei de nada."::
+59655::$$$message_0541_0035_0000$$$::Saber desvia o olhar.[lr]::
+59656::$$$message_0541_0035_0001$$$::E diz...::
+59657::$$$message_0541_0036_0000$$$::"Vagamento sinto que aquilo é uma estrela doente. É como uma maldição inescapável que destrói tudo."[lr]::
+59658::$$$message_0541_0036_0001$$$::...como se expresasse sua premonição sombria.::
+T
