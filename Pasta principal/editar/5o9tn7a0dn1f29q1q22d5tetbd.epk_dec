@@ -1,95 +1,96 @@
 DAT
 id=qid::label=str::text=lstr::
 50625::$$$message_0437_0000_0000$$$::Procuro pela casa.[lr]::
-50626::$$$message_0437_0000_0001$$$::Procuro em todo o lugar, incluindo as salas de hospedes, mas não encontro a Saber.::
-50627::$$$message_0437_0001_0000$$$::"Huh...? Ela está com aquela roupa, então diria que seria fácil encontrá-la."[lr]::
-50628::$$$message_0437_0001_0001$$$::Mesmo assim, não acho ela em lugar algum.[lr]::
-50629::$$$message_0437_0001_0002$$$::Acho que Servos podem virar espíritos, mas não posso transformar ela em um.[lr]::
-50630::$$$message_0437_0001_0003$$$::Não, primeiramente[line3]::
-50631::$$$message_0437_0002_0000$$$::"Embora ela me chame de Mestre, não conheço nada sobre ela."[lr]::
-50632::$$$message_0437_0002_0001$$$::Nem mesmo sei quem ela é ou como existe.::
-50633::$$$message_0437_0003_0000$$$::A única coisa que entendo é...[lr]::
-50634::$$$message_0437_0003_0001$$$::de que estou confiante que ganharei essa bizarra guerra se estiver com ela.::
-50635::$$$message_0437_0004_0000$$$::"Ela também não está aqui[line4]"[lr]::
+50626::$$$message_0437_0000_0001$$$::Procuro em todo lugar, incluindo os quartos de hóspedes separados, mas não encontro a Saber.::
+50627::$$$message_0437_0001_0000$$$::"Que estranho...? Aquela armadura não é exatamente discreta."[lr]::
+50628::$$$message_0437_0001_0001$$$::Mesmo assim, não consigo encontrá-la em lugar nenhum.[lr]::
+50629::$$$message_0437_0001_0002$$$::Dizem que os Servos podem assumir forma espiritual, mas, infelizmente, ela não consegue fazer isso comigo.[lr]::
+50630::$$$message_0437_0001_0003$$$::Não, antes de mais nada[line3]::
+50631::$$$message_0437_0002_0000$$$::"Embora ela me chame de Mestre, eu não sei nada sobre ela."[lr]::
+50632::$$$message_0437_0002_0001$$$::Nem sequer sei o que a Saber é ou como os Servos conseguem existir.::
+50633::$$$message_0437_0003_0000$$$::A única coisa que eu sei é...[lr]::
+50634::$$$message_0437_0003_0001$$$::sinto que posso atravessar essa guerra estranha enquanto estiver com aquela cavaleira de cabelos dourados.::
+50635::$$$message_0437_0004_0000$$$::"Ela também não está aqui...[line4]"[lr]::
 50636::$$$message_0437_0004_0001$$$::Procurei cuidadosamente pela casa.[lr]::
-50637::$$$message_0437_0004_0002$$$::É uma casa grande, mas não brinquei de esconde-esconde com a Fuji-nee aqui quando criança a toa. Sei o melhor jeito de procurar neste lugar.[lr]::
+50637::$$$message_0437_0004_0002$$$::A casa é grande, mas eu não brinquei de esconde-esconde com a Fuji-nee aqui quando era criança à toa. Sei a maneira mais eficiente de procurar neste lugar.[lr]::
 50638::$$$message_0437_0004_0003$$$::Se ela não estiver aqui depois de procurar tanto, então ela deve estar no dojo ou no galpão.::
-50639::$$$message_0437_0005_0000$$$::"[line3]Huh?"[lr]::
+50639::$$$message_0437_0005_0000$$$::"[line3]Hã?"[lr]::
 50640::$$$message_0437_0005_0001$$$::A Saber está no dojo silencioso.[lr]::
-50641::$$$message_0437_0005_0002$$$::Mas a aparência dela mudou completamente de ontem.[lr]::
-50642::$$$message_0437_0005_0003$$$::Sentada no chão de madeira como os Japoneses, ela não está de armadura.[lr]::
-50643::$$$message_0437_0005_0004$$$::Ela vestiu roupas refinadas que combinam perfeitamente com ela, e está sentada silenciosamente.::
+50641::$$$message_0437_0005_0002$$$::...Mas sua aparência está diferente de ontem.[lr]::
+50642::$$$message_0437_0005_0003$$$::Sentada corretamente no chão de madeira, à moda japonesa, ela não está usando armadura.[lr]::
+50643::$$$message_0437_0005_0004$$$::Ela trocou por roupas elegantes que lhe caem perfeitamente e agora permanece ali, sentada em silêncio.::
 50644::$$$message_0437_0006_0000$$$::"[line8]"[lr]::
-50645::$$$message_0437_0006_0001$$$::...Perco minha voz naquele instante.[lr]::
-50646::$$$message_0437_0006_0002$$$::Sentada ao estilo Japonês, com as costas retas e olhos fechados, a Saber parece bela.[lr]::
-50647::$$$message_0437_0006_0003$$$::Seu estado, mesclando com o silêncio, me lembra água cristalina.::
+50645::$$$message_0437_0006_0001$$$::...Perco a voz ao vê-la.[lr]::
+50646::$$$message_0437_0006_0002$$$::Sentada à moda japonesa, com as costas retas e os olhos fechados, a Saber parece belíssima.[lr]::
+50647::$$$message_0437_0006_0003$$$::Ela quase se funde ao silêncio, como água parada.::
 50648::$$$message_0437_0007_0000$$$::"[line8]"[lr]::
-50649::$$$message_0437_0007_0001$$$::E isso tira a última dúvida dentro de minha.[lr]::
-50650::$$$message_0437_0007_0002$$$::Mesmo se ela for uma Serva, penso que ela é sagrada.[lr]::
-50651::$$$message_0437_0007_0003$$$::Então[line3]não desviarei do meu caminho se estiver com ela.::
+50649::$$$message_0437_0007_0001$$$::E isso elimina a última dúvida dentro de mim.[lr]::
+50650::$$$message_0437_0007_0002$$$::Mesmo sendo um Servo, ela me parece sagrada.[lr]::
+50651::$$$message_0437_0007_0003$$$::Então[line3]tenho certeza de que não seguirei o caminho errado.::
 50652::$$$message_0437_0008_0000$$$::"Saber."[lr]::
 50653::$$$message_0437_0008_0001$$$::Eu a chamo.[lr]::
 50654::$$$message_0437_0008_0002$$$::A Saber lentamente abre os olhos e retorna o olhar.::
 50655::$$$message_0437_0009_0000$$$::"Você acordou, Shirou."[lr]::
-50656::$$$message_0437_0009_0001$$$::Uma voz calma.[lr]::
-50657::$$$message_0437_0009_0002$$$::A voz dela, ecoando pelo dojo como se o permeasse, combina surpreendente com este lugar.::
+50656::$$$message_0437_0009_0001$$$::Sua voz é serena.[lr]::
+50657::$$$message_0437_0009_0002$$$::Há algo de rico e calmo em sua voz que paira no ar e combina perfeitamente com este lugar.::
 50658::$$$message_0437_0010_0000$$$::"[line3]Sim. Acabei de acordar. O que você está fazendo aqui?"[lr]::
-50659::$$$message_0437_0010_0001$$$::"Estava descansando. Não posso te tratar, então pensei em garantir que eu estivesse em perfeitas condições por hora."::
-50660::$$$message_0437_0011_0000$$$::"[line3]!"[lr]::
-50661::$$$message_0437_0011_0001$$$::A Saber olha para mim enquanto fala.[lr]::
-50662::$$$message_0437_0011_0002$$$::...Bem, um...[lr]::
-50663::$$$message_0437_0011_0003$$$::Sinto a tensão, diferente daquela que senti com a Tohsaka.::
+50659::$$$message_0437_0010_0001$$$::"Estava descansando. Já que não posso te tratar, resolvi ao menos garantir que meu corpo estivesse na melhor condição possível."::
+50660::$$$message_0437_0011_0000$$$::"[line3]..."[lr]::
+50661::$$$message_0437_0011_0001$$$::A Saber me observa atentamente enquanto responde.[lr]::
+50662::$$$message_0437_0011_0002$$$::...Isso é, hum...[lr]::
+50663::$$$message_0437_0011_0003$$$::Está me deixando nervoso de um jeito bem diferente do que a Tohsaka deixou.::
 50664::$$$message_0437_0012_0000$$$::"Shirou? Que foi? Será que seu corpo ainda está...?"[lr]::
-50665::$$$message_0437_0012_0001$$$::"...! [line3]N-não, não tem problema...! Estou perplexo por motivos pessoais, então não se preocupe...!"[lr]::
-50666::$$$message_0437_0012_0002$$$::Dou um passo para trás e balanço a cabeça.::
+50665::$$$message_0437_0012_0001$$$::"N-não, estou bem...! É só outra coisa, não se preocupe...!"[lr]::
+50666::$$$message_0437_0012_0002$$$::Dou um passo para trás às pressas e balanço a cabeça.::
 50667::$$$message_0437_0013_0000$$$::"...?"[lr]::
-50668::$$$message_0437_0013_0001$$$::Olhando para longe da Saber, que está virando a cabeça perdida, acalmo meu coração.::
-50669::$$$message_0437_0014_0000$$$::"...Calma. Por que estou tão tenso com isso[line3]!?"[lr]::
+50668::$$$message_0437_0013_0001$$$::Desvio o olhar da Saber, que inclina a cabeça, confusa, e tento acalmar meu coração disparado.::
+50669::$$$message_0437_0014_0000$$$::"...Se controla. Por que estou tão nervoso com isso[line3]!?"[lr]::
 50670::$$$message_0437_0014_0001$$$::Respiro fundo.[lr]::
-50671::$$$message_0437_0014_0002$$$::...Mas não parece se acalmar rapidamente. De fato, acho que nunca vai.::
-50672::$$$message_0437_0015_0000$$$::"...Aiai, por que ela se trocou...?"[lr]::
-50673::$$$message_0437_0015_0001$$$::Reclamo sem motivo.[lr]::
-50674::$$$message_0437_0015_0002$$$::As roupas da Saber são tão reais que me fazem ter consciência de sua feminilidade, queira eu ou não.::
-50675::$$$message_0437_0016_0000$$$::...Ela é terrivelmente bela.[lr]::
-50676::$$$message_0437_0016_0001$$$::Pensei que tinha percebido isso ontem, mas hoje me acertou em cheio.[lr]::
+50671::$$$message_0437_0014_0002$$$::...Mas não parece que isso vá passar tão cedo.::
+50672::$$$message_0437_0015_0000$$$::"...Droga, por que ela foi se trocar...?"[lr]::
+50673::$$$message_0437_0015_0001$$$::Resmungo sem querer.[lr]::
+50674::$$$message_0437_0015_0002$$$::Com a Saber vestida assim, não tem como eu não perceber ainda mais sua feminilidade, queira eu ou não.::
+50675::$$$message_0437_0016_0000$$$::...Ela é absurdamente bela.[lr]::
+50676::$$$message_0437_0016_0001$$$::Achei que já tivesse percebido isso ontem, mas agora a ficha realmente caiu.[lr]::
 50677::$$$message_0437_0017_0000$$$::"Shirou."[lr]::
 50678::$$$message_0437_0017_0001$$$::Endureço assim que nossos olhos se encontram.[lr]::
-50679::$$$message_0437_0017_0002$$$::Mas não olhei pra ela para não falar nada.[lr]::
-50680::$$$message_0437_0017_0003$$$::Estou incomodado, mas não posso ficar calado para sempre.::
+50679::$$$message_0437_0017_0002$$$::Mas eu não andei procurando por ela só para ficar calado.[lr]::
+50680::$$$message_0437_0017_0003$$$::É constrangedor, mas não posso deixar isso estranho para sempre.::
 50681::$$$message_0437_0018_0000$$$::"[line3]Tudo bem.[lr]::
-50682::$$$message_0437_0018_0001$$$::Posso, Saber? Será a primeira vez que sentaremos e conversaremos[line3]"[lr]::
-50683::$$$message_0437_0018_0002$$$::Me decido a falar com ela.::
+50682::$$$message_0437_0018_0001$$$::Posso, Saber? Vai ser a primeira vez que vamos nos sentar e conversar de verdade[line3]"[lr]::
+50683::$$$message_0437_0018_0002$$$::Tomo coragem e falo com ela.::
 50684::$$$message_0437_0019_0000$$$::[line3]E então.[lr]::
-50685::$$$message_0437_0019_0001$$$::"Shirou. Antes disso, há algo que quero conversar a respeito da última noite."[lr]::
-50686::$$$message_0437_0019_0002$$$::"[line2]? Tudo bem, o que é?"::
-50687::$$$message_0437_0020_0000$$$::"É sobre noite passada.[lr]::
-50688::$$$message_0437_0020_0001$$$::Você é meu Mestre. É preocupante se você tomar tais decisões. Lutar é meu dever, então você deve se concentrar no seu."::
+50685::$$$message_0437_0019_0001$$$::"Shirou. Antes disso, há algo sobre a última noite de que quero falar."[lr]::
+50686::$$$message_0437_0019_0002$$$::"[line2]? Tudo bem, o que foi?"::
+50687::$$$message_0437_0020_0000$$$::"Como eu disse, é sobre a última noite.[lr]::
+50688::$$$message_0437_0020_0001$$$::Você é meu Mestre. É problemático que tome esse tipo de atitude. Combate é minha área, então, por favor, fique atrás de mim e fora da linha de frente."::
 50689::$$$message_0437_0021_0000$$$::"Noite passada?"[lr]::
-50690::$$$message_0437_0021_0001$$$::Penso no que aconteceu noite passada.[lr]::
-50691::$$$message_0437_0021_0002$$$::...Ela está falando daquela vez que puxei ela para a segurança quando o Archer atacou?::
-50692::$$$message_0437_0022_0000$$$::"...Ei. Não pude evitar. Você estava lutando, então era o minímo que eu podia fazer. É normal querer ajudar seu parceiro quando ele está em perigo."::
-50693::$$$message_0437_0023_0000$$$::"[line3]Impossível. Você não entende o que são Servos, mas já tem tanta fé em mim?"[lr]::
-50694::$$$message_0437_0023_0001$$$::Ah, uau. A Saber parece surpresa.::
+50690::$$$message_0437_0021_0001$$$::Tento me lembrar do que aconteceu na noite passada.[lr]::
+50691::$$$message_0437_0021_0002$$$::...Ela está falando daquela vez em que tentei puxá-la para fora do caminho do ataque do Archer?::
+50692::$$$message_0437_0022_0000$$$::"...Ei, não pude evitar. Se você estava arriscando a vida, era o mínimo que eu podia fazer. Caso contrário, nem daria para chamar isso de parceria. É normal querer ajudar seu parceiro quando ele está em perigo."::
+50693::$$$message_0437_0023_0000$$$::"[line3]Sério? Você ainda não entende o que são os Servos, e mesmo assim já confia tanto em mim?"[lr]::
+50694::$$$message_0437_0023_0001$$$::Ah, uau. A Saber parece genuinamente surpresa.::
 50695::$$$message_0437_0024_0000$$$::"Bem, apertamos as mãos. E você já me ajudou tantas vezes. Seria estranho não confiar em você."[lr]::
 50696::$$$message_0437_0024_0001$$$::"[line8]"[lr]::
-50697::$$$message_0437_0024_0002$$$::A Saber olha para mim surpresa.::
-50698::$$$message_0437_0025_0000$$$::"Uh... Me enganei em relação ao nosso contrato?"[lr]::
-50699::$$$message_0437_0025_0001$$$::Fico nervoso, então pergunto.[lr]::
+50697::$$$message_0437_0024_0002$$$::A Saber ergue o rosto e me encara, atônita.::
+50698::$$$message_0437_0025_0000$$$::"Uh... Não é isso que o nosso contrato significa?"[lr]::
+50699::$$$message_0437_0025_0001$$$::Já em dúvida, acabo perguntando.[lr]::
 50700::$$$message_0437_0025_0002$$$::A Saber sacode a cabeça.::
-50701::$$$message_0437_0026_0000$$$::"Como Serva, aprecio suas palavras.[lr]::
-50702::$$$message_0437_0026_0001$$$::E teria sido um golpe fatal se você não tivesse me impedido. O método não foi bom, mas a instrução sim."::
+50701::$$$message_0437_0026_0000$$$::"Como Servo, aprecio suas palavras.[lr]::
+50702::$$$message_0437_0026_0001$$$::E eu teria sofrido um golpe fatal se você não tivesse me impedido. O método foi problemático, mas sua intenção foi correta."::
 50703::$$$message_0437_0027_0000$$$::"...Entendo. Que bom. Estava desesperado, mas foi bom, huh?"[lr]::
-50704::$$$message_0437_0027_0001$$$::"Sim. Mas por favor evite tais ações da próxima vez. Posso me curar imediatamente mesmo se ferida. Mas não tenho como te curar se você se ferir."::
-50705::$$$message_0437_0028_0000$$$::"Ugh... tudo bem, terei cuidado. Definitivamente foi loucura, farei melhor na próxima."[lr]::
-50706::$$$message_0437_0028_0001$$$::Não sei como vou fazer melhor, mas preciso parar de fazer loucuras.[lr]::
+50704::$$$message_0437_0027_0001$$$::"Sim. Mas, por favor, evite esse tipo de atitude da próxima vez. Mesmo que eu me fira, recuperarei logo se você estiver bem. Mas não tenho como curá-lo se você se ferir."::
+50705::$$$message_0437_0028_0000$$$::"Ugh... Tudo bem, vou tomar cuidado. Você tem razão, aquilo foi imprudente. Vou me sair melhor da próxima vez."[lr]::
+50706::$$$message_0437_0028_0001$$$::Não sei exatamente como, mas sei que preciso parar de me jogar nessas situações sem pensar.[lr]::
 50707::$$$message_0437_0028_0002$$$::Então...::
-50708::$$$message_0437_0029_0000$$$::"Sim. Boa resposta, Mestre."[lr]::
-50709::$$$message_0437_0029_0001$$$::Estava agindo tão engraçado assim?[lr]::
+50708::$$$message_0437_0029_0000$$$::"Sim. Essa é a resposta correta, Mestre."[lr]::
+50709::$$$message_0437_0029_0001$$$::Devo ter parecido estranho para ela.[lr]::
 50710::$$$message_0437_0029_0002$$$::Acho que ela sorriu por um instante.::
 50711::$$$message_0437_0030_0000$$$::"[line8]"[lr]::
-50712::$$$message_0437_0030_0001$$$::Eu escondo a vergonha.[lr]::
-50713::$$$message_0437_0030_0002$$$::Há algo mais importante a ser dito agora.[lr]::
-50714::$$$message_0437_0030_0003$$$::Algo que eu deveria ter perguntado a ela no momento em que voltamos noite passada.[lr]::
-50715::$$$message_0437_0030_0004$$$::Se ela é mesma minha Serva....[lr]::
-50716::$$$message_0437_0030_0005$$$::E se ela vai mesmo lutar nesta guerra...::
+50712::$$$message_0437_0030_0001$$$::Disfarço o rubor.[lr]::
+50713::$$$message_0437_0030_0002$$$::Mais importante, há algo que preciso esclarecer agora.[lr]::
+50714::$$$message_0437_0030_0003$$$::Era algo que eu já deveria ter perguntado a ela ontem mesmo.[lr]::
+50715::$$$message_0437_0030_0004$$$::Se ela é mesmo meu Servo...[lr]::
+50716::$$$message_0437_0030_0005$$$::E se eu... realmente vou lutar nesta guerra...::
+
 

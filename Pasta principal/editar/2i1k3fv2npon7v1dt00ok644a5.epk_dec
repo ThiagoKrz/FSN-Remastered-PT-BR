@@ -1,76 +1,77 @@
 DAT
 id=qid::label=str::text=lstr::
 51008::$$$message_0439_0000_0000$$$::...Sim.[lr]::
-51009::$$$message_0439_0000_0001$$$::Acho que seria problemático andar com a Saber pela escola.[lr]::
-51010::$$$message_0439_0000_0002$$$::Vou relaxar nessa sala familiar de clube.::
-51011::$$$message_0439_0001_0000$$$::"Sim, vou ficar e assistir se não for incomodar, Fuji-nee."[lr]::
-51012::$$$message_0439_0001_0001$$$::"Tudo bem. Bem, vou lecionar agora, então pode relaxar aqui. Ah, mas não precisa se segurar se quiser atirar. Você é meu aluno e é melhor do que a maioria das pessoas."::
-51013::$$$message_0439_0002_0000$$$::"[line8]"[lr]::
-51014::$$$message_0439_0002_0001$$$::É verdade que sou melhor que a maioria quando se trata de atirar flechas.::
-51015::$$$message_0439_0003_0000$$$::Embora eu tenha ficado longe por um tempo, tenho certeza que conseguiria o mesmo resultado de quando praticava aqui.[lr]::
-51016::$$$message_0439_0003_0001$$$::Mas não é por causa da minha habilidade em arquearia.[lr]::
-51017::$$$message_0439_0003_0002$$$::Posso atingir o alvo como eu faço em minha mente por causa do meu treino diário com magia.::
-51018::$$$message_0439_0004_0000$$$::"Não é verdade, Fuji-nee. Me falta a 'resistência'."::
-51019::$$$message_0439_0005_0000$$$::"O que? Quer dizer aquilo de atirar mais de 200 flechas por dia e como todo o resto é só soltar o arco? Você sabe coisas chatas, Shirou."::
-51020::$$$message_0439_0006_0000$$$::"Ei, você devia saber disso se pratica arquearia.[lr]::
-51021::$$$message_0439_0006_0001$$$::Enfim, não posso atirar se não estiver focado. Não estou preparado, então não sei se consigo atingir o alvo."::
-51022::$$$message_0439_0007_0000$$$::"...Ah. Mas Shirou, atirar flechas todo dia não é o único jeito de treinar.[lr]::
-51023::$$$message_0439_0007_0001$$$::A resistência é boa o bastante se estiver treinando sozinho. É bom fazer a distinção, mas também é bom respeitar a arquearia. Seria bom se você só concordasse, então seja honesto de vez em quando."::
-51024::$$$message_0439_0008_0000$$$::A Fuji-nee desaparece no campo.[lr]::
-51025::$$$message_0439_0008_0001$$$::A Mitsuzuri entra como se tivesse tomando o lugar dela.::
-51026::$$$message_0439_0009_0000$$$::"Licença... Ah, qual é a dessa cara, Emiya?[lr]::
-51027::$$$message_0439_0009_0001$$$::Ah, aposto que a Fujimura-sensei te deu uma bronca, huh?"[lr]::
-51028::$$$message_0439_0009_0002$$$::"Acho que sim. Ela disse pra não me preocupar muito. Bem, acho que ela tem razão."::
-51029::$$$message_0439_0010_0000$$$::"Ah, entendo. Pensei que você desistiu pois não queria atirar mais, mas você ainda quer, huh? Inesperado."::
-51030::$$$message_0439_0011_0000$$$::"Inesperado? Que? Você pensou que eu me cansei da arquearia?"::
-51031::$$$message_0439_0012_0000$$$::"Sim. Você só errou uma vez. Você era espetacular desde que entrei no clube. Sua forma era bela e parecia que você não sabia como errar.[lr]::
-51032::$$$message_0439_0012_0001$$$::Pensei que você não estava feliz em atingir o alvo porque você era tão bom. Você pode entrar na mentalidade sem o arco, então estava irritada por achar que o arco estivesse te atrapalhando."::
-51033::$$$message_0439_0013_0000$$$::"[line8]"[lr]::
-51034::$$$message_0439_0013_0001$$$::"Ah, acertei? Aposto que sim. Atirar é a mentalidade de atirar sua mente, não? A flecha não é atirada no alvo, mas atirada na mente do atirador tentando acertar o alvo.[lr]::
-51035::$$$message_0439_0013_0002$$$::Então você não vai entender a mentalidade se não puder se encarar."::
-51036::$$$message_0439_0014_0000$$$::Em outras palavras, arquearia é um jeito de se matar.[lr]::
-51037::$$$message_0439_0014_0001$$$::É tentar se tornar um com a natureza, ignorando o ser.[lr]::
-51038::$$$message_0439_0014_0002$$$::Os oitos estágios de atirar ashibumi, dozukuri, yugamae, uchiokoshi, hikiwake, kai, hanare e zanshin, existem para este propósito.::
-51039::$$$message_0439_0015_0000$$$::Kai: A união do ser e o alvo.[lr]::
-51040::$$$message_0439_0015_0001$$$::Hanare: soltar a flecha que é si, e neste momento o tempo para.[lr]::
-51041::$$$message_0439_0015_0002$$$::Zanshin: o ser que atirou o alvo sabe que "vai acertar", e a ação e o resultado se tornam um para transformar o passado e o futuro em um ponto.::
-51042::$$$message_0439_0016_0000$$$::É apenas um jeito de treinar de acordo com etapas fixas.[lr]::
-51043::$$$message_0439_0016_0001$$$::Sim.[lr]::
-51044::$$$message_0439_0016_0002$$$::Arquearia é similar a meditação na magia.::
-51045::$$$message_0439_0017_0000$$$::"Bem, é como ensinar Buddha. Acertar o alvo é como um bônus no tiro com arco. Arquearia é mais como um caminho para obter a mentalidade e não uma técnica.[lr]::
-51046::$$$message_0439_0017_0001$$$::Mas por outro lado, não se pode alcançar a mentalidade sem um arco e flecha."::
-51047::$$$message_0439_0018_0000$$$::"...Pensei que essa era a parte chata pra você. Atiramos flechas e a sentimos quando atingimos o alvo. Sabemos que atingir o alvo é só uma técnica, mas não podemos saber se acertamos a não ser que a flecha atinja o alvo."::
-51048::$$$message_0439_0019_0000$$$::"Mas você não se importa para onde a flecha vai.[lr]::
-51049::$$$message_0439_0019_0001$$$::...Qualquer um pode atingir o alvo na arquearia. Ignorando coisas chatas como os oitos estágios do tiro, qualquer um pode acertar o alvo se almejarem a 'técnica para atingir o alvo'.[lr]::
-51050::$$$message_0439_0019_0002$$$::Mas elas estão apenas fazendo a flecha acertar o alvo com técnica. Tiros reais acertam não importa o quão ruim o atirador seja."::
-51051::$$$message_0439_0020_0000$$$::"[line3]Não sei. Vou para o campo para atingir o alvo."::
-51052::$$$message_0439_0021_0000$$$::"É disso que estou falando. Não há um jeito mais rápido do que pegar o arco e ir ao campo? Primeiramente, o arco e a flecha são inúteis para você.[lr]::
-51053::$$$message_0439_0021_0001$$$::Você errou uma vez antes, não? Fui ver o quão surpreso você estava, mas você estava normal."::
-51054::$$$message_0439_0022_0000$$$::"Te perguntei o motivo, e você disse "Errei pois imaginei que erraria'.[lr]::
-51055::$$$message_0439_0022_0001$$$::Não errou como resultado, mas errou por vontade própria.[lr]::
-51056::$$$message_0439_0022_0002$$$::Por isso pensei que você estava sempre imaginando a flecha acertar o alvo antes de soltá-la."::
-51057::$$$message_0439_0023_0000$$$::"Hm[line3]? O que está dizendo? São só os básicos, não? Você não imagina a flecha acertando o alvo e solta-a de acordo com isso?"::
-51058::$$$message_0439_0024_0000$$$::"Claro. Pessoas tentam diferentes coisas desejando um bom resultado. Mas é só nossa imaginação. Não podemos 'ver' como você, Emiya.[lr]::
-51059::$$$message_0439_0024_0001$$$::Significa que você é um com a natureza. Atingiu o nada, em termos de artes marciais."::
+51009::$$$message_0439_0000_0001$$$::Seria um problema ficar andando pela escola com a Saber.[lr]::
+51010::$$$message_0439_0000_0002$$$::É melhor eu ficar descansando nesta sala já familiar até anoitecer.::
+51011::$$$message_0439_0001_0000$$$::"Sim. Vou ficar assistindo, se não for atrapalhar, Fuji-nee."[lr]::
+51012::$$$message_0439_0001_0001$$$::"Beleza. Então vou lá orientar o pessoal, e você pode ficar à toa por aqui. Ah, mas, se quiser atirar, fique à vontade. Você é meu aluno e manda melhor do que a maioria."::
+51013::$$$message_0439_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
+51014::$$$message_0439_0002_0001$$$::É verdade. No que diz respeito ao tiro em si, sou melhor do que os outros.::
+51015::$$$message_0439_0003_0000$$$::Mesmo estando afastado há algum tempo, tenho certeza de que conseguiria os mesmos resultados de quando eu ainda praticava.[lr]::
+51016::$$$message_0439_0003_0001$$$::Mas isso não é por habilidade no kyudo.[lr]::
+51017::$$$message_0439_0003_0002$$$::Consigo acertar o alvo do mesmo jeito que o visualizo mentalmente quando pratico magia.::
+51018::$$$message_0439_0004_0000$$$::"Não é bem assim, Fuji-nee. O problema é que me falta a parte da 'persistência'."::
+51019::$$$message_0439_0005_0000$$$::"O quê? Aquela história de 'atirar duzentas flechas por dia e o resto é só soltar o arco'? Você se prende a cada coisa chata, Shirou."::
+51020::$$$message_0439_0006_0000$$$::"Ei, quem pratica kyudo devia saber disso.[lr]::
+51021::$$$message_0439_0006_0001$$$::Enfim, eu não vou atirar de qualquer jeito. Não estou mais no ritmo, então nem sei se acertaria o alvo."::
+51022::$$$message_0439_0007_0000$$$::"...Ah. Mas, Shirou, atirar flechas todos os dias não é o único jeito de treinar.[lr]::
+51023::$$$message_0439_0007_0001$$$::Mesmo sem atirar, se você estiver se disciplinando, isso já basta para a parte da persistência. É bom traçar uma linha clara, mas respeito pelo esporte também conta como dedicação. Enfim, não esquenta tanto com esses detalhes e vai mais no fluxo."::
+51024::$$$message_0439_0008_0000$$$::Fuji-nee vai para a linha de tiro.[lr]::
+51025::$$$message_0439_0008_0001$$$::Como se estivesse entrando para substituí-la, Mitsuzuri aparece.::
+51026::$$$message_0439_0009_0000$$$::"Com licença... Ah, por que essa cara, Emiya?[lr]::
+51027::$$$message_0439_0009_0001$$$::Levou todo o sermão da Fujimura-sensei, foi?"[lr]::
+51028::$$$message_0439_0010_0000$$$::"Acho que sim. Ela me disse para não me preocupar tanto. E provavelmente está certa."::
+51029::$$$message_0439_0011_0000$$$::"Ah, entendi. Eu jurava que você tinha perdido o interesse. Não sabia que ainda estava com vontade. Isso é meio inesperado."::
+51030::$$$message_0439_0012_0000$$$::"Inesperado? Como assim? Parecia mesmo que eu tinha enjoado do kyudo?"::
+51031::$$$message_0439_0012_0001$$$::"Sim. Quer dizer, você só errou o alvo uma vez. Desde o dia em que entrei no clube, tudo o que eu pensava era que você tinha uma habilidade absurda. Sua postura era linda, e parecia que você nem sabia o que era errar.[lr]::
+51032::$$$message_0439_0012_0002$$$::E aí eu pensei: alguém tão bom assim nem deve mais ficar feliz por acertar. Você consegue entrar no estado mental certo mesmo sem um arco, e ainda por cima parecia que o próprio arco só atrapalhava."::
+51033::$$$message_0439_0013_0000$$$::[font italic=true]...[font italic=false][lr]::
+51034::$$$message_0439_0013_0001$$$::"Acertei, não foi? Aposto que sim. Kyudo é atirar a própria mente. A flecha não é disparada contra o alvo, mas contra a mente de quem atira.[lr]::
+51035::$$$message_0439_0013_0002$$$::Quem não consegue encarar a si mesmo, ou atirar em si mesmo, nunca vai entender o estado mental que precisa alcançar."::
+51036::$$$message_0439_0014_0000$$$::Em outras palavras, kyudo é uma forma de matar a si mesmo.[lr]::
+51037::$$$message_0439_0014_0001$$$::É tornar-se transparente e buscar ser um só com a natureza.[lr]::
+51038::$$$message_0439_0014_0002$$$::Os oito estágios do disparo existem para isso... Ashibumi, a base dos pés. Dozukuri, a postura correta. Yugamae, preparar o arco. Uchiokoshi, erguer o arco. Hikiwake, distender o arco. Kai, a puxada completa. Hanare, a soltura. E zanshin, o resquício que permanece após o disparo.::
+51039::$$$message_0439_0015_0000$$$::Mais especificamente, kai é a união entre o alvo e o próprio eu.[lr]::
+51040::$$$message_0439_0015_0001$$$::Quando a flecha, que se tornou o próprio eu, é solta, esse instante congelado no tempo se chama hanare.[lr]::
+51041::$$$message_0439_0015_0002$$$::O eu que se afasta ainda mais com o acerto, assim como a ação e o resultado se tornando um só, tudo converge para fundir passado e futuro em um único ponto. Isso é zanshin.::
+51042::$$$message_0439_0016_0000$$$::É um ritual. Um treinamento para forjar a si mesmo.[lr]::
+51043::$$$message_0439_0016_0001$$$::Exato.[lr]::
+51044::$$$message_0439_0016_0002$$$::No fundo, o processo do kyudo se parece com a meditação na magia.::
+51045::$$$message_0439_0017_0000$$$::"Acho que estou explicando o padre-nosso ao vigário. Acertar o alvo é só um bônus. O kyudo é uma estrutura mental. É um caminho, não uma técnica.[lr]::
+51046::$$$message_0439_0017_0001$$$::Em outras palavras, o kyudo é um esporte em que você não alcança esse estado mental sem um arco."::
+51047::$$$message_0439_0018_0000$$$::"...Eu achei que justamente essa fosse a parte chata para você. O resto de nós dispara a flecha e, quando ela acerta o alvo, tem a ilusão de sentir alguma coisa. Mesmo sabendo que atirar é só um meio para isso, não temos como saber se conseguimos nos purificar até a flecha atingir o alvo."::
+51048::$$$message_0439_0019_0000$$$::"Mas, Emiya, você é do tipo que não se importa com onde a flecha vai cair.[lr]::
+51049::$$$message_0439_0019_0001$$$::...No kyudo, qualquer um consegue acertar o alvo. Se ignorar os oito estágios e se concentrar só na técnica de acertar o alvo, qualquer um consegue.[lr]::
+51050::$$$message_0439_0019_0002$$$::Mas aí a pessoa só faz a flecha atingir o alvo com técnica. Um verdadeiro atirador acerta o alvo mesmo que, em termos técnicos, seja ruim."::
+51051::$$$message_0439_0020_0000$$$::"...Não é bem assim. Eu também vou para a linha de tiro para acertar o alvo."::
+51052::$$$message_0439_0021_0000$$$::"É disso que eu estou falando. Você realmente precisa vir até a linha de tiro para treinar? Na verdade, até o arco parece ser irrelevante para você.[lr]::
+51053::$$$message_0439_0021_0001$$$::Você já errou o alvo uma vez, não foi? Eu queria ver se você ia perder a calma, mas para você não significou nada."::
+51054::$$$message_0439_0022_0000$$$::"Quando eu perguntei por quê, você disse: 'Eu imaginei de propósito que erraria'.[lr]::
+51055::$$$message_0439_0022_0001$$$::Você não errou porque falhou; errou porque quis.[lr]::
+51056::$$$message_0439_0022_0002$$$::Foi aí que percebi que você sempre imagina a flecha acertando o alvo antes mesmo de soltá-la. Todo o resto não passa de consequência."::
+51057::$$$message_0439_0023_0000$$$::"Hm...? Do que você está falando? Isso não é o básico? Você também não imagina a flecha acertando o alvo e age de acordo com isso?"::
+51058::$$$message_0439_0024_0000$$$::"Claro. Todo mundo tenta várias coisas esperando o melhor resultado. Mas isso fica só na imaginação. A gente não consegue visualizar desse jeito como você, Emiya.[lr]::
+51059::$$$message_0439_0024_0001$$$::Você já é 'um com a natureza' e tudo mais. Em termos de artes marciais, já alcançou o estado do nada."::
 51060::$$$message_0439_0025_0000$$$::...Hm.[lr]::
-51061::$$$message_0439_0025_0001$$$::Não sei se estou "vendo", mas concordo com a parte do vazio.[lr]::
-51062::$$$message_0439_0025_0002$$$::É uma força de um mago apagar a si e fazer o ser um circuito.[lr]::
-51063::$$$message_0439_0025_0003$$$::Deixar o ser transparente e livrando si das ligações e desejos para obter o resultado.[lr]::
-51064::$$$message_0439_0025_0004$$$::O treinamento de arquearia e magia são similares nesse ponto em fazer o ser se tornar "nada".::
-51065::$$$message_0439_0026_0000$$$::"Isso é difícil. Então, o que queria me dizer?"::
-51066::$$$message_0439_0027_0000$$$::"É só que é fácil para você se tornar nada pois é nada egoísta. Precisa ser mais egoísta e ganancioso. É chato ser um mestre com uma idade tão jovem, não? Não quero que vire o Shinji, mas por que você não se diverte de vez em quando?"::
-51067::$$$message_0439_0028_0000$$$::"[line8]"[lr]::
-51068::$$$message_0439_0028_0001$$$::Estou sem palavras.[lr]::
-51069::$$$message_0439_0028_0002$$$::Pensei que não é verdade, mas não consigo pensar em nada divertido pra mim.::
-51070::$$$message_0439_0029_0000$$$::"Veja. Por isso que você preocupa tanto a Sakura. Você tem que saber como se divertir agora, ou não vai poder quando estiver velho.[lr]::
-51071::$$$message_0439_0029_0001$$$::As pessoas chamam esse tipo de gente de inúteis, sabia"::
-51072::$$$message_0439_0029_0002$$$::Ela me dá um incisivo "você entendeu?" tipo de olhar, meio surpreendente vindo dela.::
-51073::$$$message_0439_0030_0000$$$::"[line3]Cara, estou tão ruim assim para uma colega se preocupar sobre minha velhice? Por que está tão preocupada comigo?"[lr]::
+51061::$$$message_0439_0025_0001$$$::Não sei se realmente consigo visualizar desse jeito, mas concordo com a parte do nada.[lr]::
+51062::$$$message_0439_0025_0002$$$::A capacidade de apagar a si mesmo para tornar-se um circuito é sinal de um mago poderoso.[lr]::
+51063::$$$message_0439_0025_0003$$$::Tornar o eu transparente e se livrar de apegos e desejos para alcançar um objetivo, perseguindo apenas o resultado.[lr]::
+51064::$$$message_0439_0025_0004$$$::Nesse ponto, o treinamento do kyudo e o da magia se parecem: ambos consistem em transformar o eu em "nada".::
+51065::$$$message_0439_0026_0000$$$::"Isso está ficando complicado... Aonde você quer chegar, Mitsuzuri?"::
+51066::$$$message_0439_0027_0000$$$::"O que eu quero dizer é que, como você não pensa em si mesmo, essa transparência é fácil para você. Você devia ser mais egoísta, mais ganancioso. É chato alguém chegar a esse ponto tão novo, sabia? Não estou dizendo para você virar o Shinji, mas por que não se diverte um pouco de vez em quando?"::
+51067::$$$message_0439_0028_0000$$$::[font italic=true]...[font italic=false][lr]::
+51068::$$$message_0439_0028_0001$$$::Fico sem palavras.[lr]::
+51069::$$$message_0439_0028_0002$$$::Por um lado, não acho que seja bem isso; por outro, não consigo pensar em nada que eu considere divertido.::
+51070::$$$message_0439_0029_0000$$$::"Viu? É por isso que a Sakura sofre tanto com você. Se não aprender a relaxar agora, também não vai saber fazer isso quando ficar mais velho.[lr]::
+51071::$$$message_0439_0029_0001$$$::É isso que a sociedade chama de imprestável."[lr]::
+51072::$$$message_0439_0029_0002$$$::Ela me lança um olhar firme de "entendeu?", o que é meio surpreendente vindo dela.::
+51073::$$$message_0439_0030_0000$$$::"...Caramba, eu sou tão caso perdido assim a ponto de você se preocupar com o meu futuro? Por que está tão preocupada comigo?"[lr]::
 51074::$$$message_0439_0030_0001$$$::"Porque você não ri, Emiya."[lr]::
-51075::$$$message_0439_0030_0002$$$::"Huh[line4]?"::
-51076::$$$message_0439_0031_0000$$$::"Estou falando do acampamento de treino que tivemos. Estávamos todos rindo, mas você não riu nem da minha melhor piada."[lr]::
-51077::$$$message_0439_0031_0001$$$::"...Hm. Então..."::
-51078::$$$message_0439_0032_0000$$$::"Sim. Ainda estou rancorosa com aquilo."[lr]::
-51079::$$$message_0439_0032_0001$$$::Ela diz como se sorrisse para um rival.::
-51080::$$$message_0439_0032_0002$$$::smiling in challenge at me, her chosen opponent.::
+51075::$$$message_0439_0030_0002$$$::"Hã...?"::
+51076::$$$message_0439_0031_0000$$$::"Estou falando do acampamento de treino. Todo mundo estava se divertindo, mas você nunca chegou a rir de verdade, nem das minhas melhores piadas."[lr]::
+51077::$$$message_0439_0031_0001$$$::"...Hum. Então quer dizer..."::
+51078::$$$message_0439_0032_0000$$$::"Sim. Ainda estou com raiva por causa daquilo, e eu não esqueço essas coisas."[lr]::
+51079::$$$message_0439_0032_0001$$$::Mitsuzuri diz isso...[lr]::
+51080::$$$message_0439_0032_0002$$$::sorrindo para mim de forma desafiadora, como se eu fosse o rival que ela escolheu.::
+
 

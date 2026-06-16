@@ -1,238 +1,239 @@
 DAT
 id=qid::label=str::text=lstr::
-51433::$$$message_0444_0000_0000$$$::"Voltando ao assunto, Saber.[lr]::
-51434::$$$message_0444_0000_0001$$$::...Ah, vou perguntar formalmente. Posso te chamar de Saber?"::
-51435::$$$message_0444_0001_0000$$$::"Sim. Desde que formei um pacto como sua Serva, sou sua espada. Seguirei suas ordens, derrotarei seus inimigos e te protegerei."[lr]::
-51436::$$$message_0444_0001_0001$$$::A Saber diz sem nenhuma hesitação sequer.[lr]::
-51437::$$$message_0444_0001_0002$$$::Não há espaço pra mim discutir isso.::
-51438::$$$message_0444_0002_0000$$$::"Ser minha espada, huh? Para ganhar a Guerra do Santo Graal?"[lr]::
+51433::$$$message_0444_0000_0000$$$::"Voltando ao nosso assunto, Saber.[lr]::
+51434::$$$message_0444_0000_0001$$$::...Ah, só para confirmar de novo: posso te chamar de Saber?"::
+51435::$$$message_0444_0001_0000$$$::"Sim. Como um Servo que formou um contrato com você, eu sou sua espada. Seguirei suas ordens, atacarei seus inimigos e o protegerei."[lr]::
+51436::$$$message_0444_0001_0001$$$::Saber responde sem a menor hesitação.[lr]::
+51437::$$$message_0444_0001_0002$$$::Não há espaço para que eu duvide das intenções dela.::
+51438::$$$message_0444_0002_0000$$$::"Você é minha espada, é? Para vencer essa coisa do Santo Graal?"[lr]::
 51439::$$$message_0444_0002_0001$$$::"...? Não foi para isso que você me invocou?"::
-51440::$$$message_0444_0003_0000$$$::"Não. Te invoquei por acaso.[lr]::
-51441::$$$message_0444_0003_0001$$$::Como você sabe, eu sou apenas um mago amador. Me desculpe, mas não tenho o conhecimento nem o poder de um Mestre.[lr]::
-51442::$$$message_0444_0003_0002$$$::Mas decidi lutar, então lutarei. Sou um Mestre inexperiente, mas tudo bem por você?"::
+51440::$$$message_0444_0003_0000$$$::"Não. Eu só o fiz por acaso.[lr]::
+51441::$$$message_0444_0003_0001$$$::No fim das contas, sou um mago amador. Desculpe, mas não tenho o conhecimento nem o poder que se espera de um Mestre.[lr]::
+51442::$$$message_0444_0003_0002$$$::Mas, agora que decidi, vou lutar. Sou inexperiente como Mestre, mas isso é aceitável para você?"::
 51443::$$$message_0444_0004_0000$$$::"Claro. Você é meu Mestre, Shirou.[lr]::
-51444::$$$message_0444_0004_0001$$$::Esse fato não mudará. Um Servo não tem a liberdade de escolher seu Mestre."[lr]::
-51445::$$$message_0444_0004_0002$$$::"[line8]"[lr]::
-51446::$$$message_0444_0004_0003$$$::...Entendo.[lr]::
-51447::$$$message_0444_0004_0004$$$::Então devo responder ela com o meu melhor.::
-51448::$$$message_0444_0005_0000$$$::"...Certo. Então está satisfeita comigo como seu Mestre?"::
-51449::$$$message_0444_0006_0000$$$::"Sim. Mas Shirou, não permitirei a derrota para meu Mestre.[lr]::
-51450::$$$message_0444_0006_0001$$$::Se você não tem chance de vitória, te darei uma. Usarei qualquer meio possível para que você tenha o Santo Graal.[lr]::
-51451::$$$message_0444_0006_0002$$$::Nós Servos não servimos aos Mestres sem recompensa. Servimos pois desejamos ter o Santo Graal."::
-51452::$$$message_0444_0007_0000$$$::"Huh[line3]? Espera. O Santo Graal, quer dizer que você também o quer...!?"::
-51453::$$$message_0444_0008_0000$$$::"Claro. Afinal, apenas Servos podem tocar o Santo Graal em sua forma espiritual, pois também somos espíritos.[lr]::
-51454::$$$message_0444_0008_0001$$$::O Mestre que ganhar a Guerra do Santo Graal conseguirá o Santo Graal por meio de seu Servo. Depois disso, o Servo terá seu desejo realizado em troca.[lr]::
-51455::$$$message_0444_0008_0002$$$::[line3]Essa é a relação entre Mestres e Servos."::
-51456::$$$message_0444_0009_0000$$$::"[line8]"[lr]::
+51444::$$$message_0444_0004_0001$$$::Esse fato não mudará, aconteça o que acontecer. Servos não têm liberdade para escolher seu Mestre."[lr]::
+51445::$$$message_0444_0004_0002$$$::[font italic=true]...[font italic=false][lr]::
+51446::$$$message_0444_0004_0003$$$::...É assim?[lr]::
+51447::$$$message_0444_0004_0004$$$::Então, só me resta corresponder à Saber da melhor forma que eu puder.::
+51448::$$$message_0444_0005_0000$$$::"...Entendi. Então você aceita que eu seja seu Mestre, Saber?"::
+51449::$$$message_0444_0006_0000$$$::"Sim. Entretanto, Shirou, eu não permitirei a derrota.[lr]::
+51450::$$$message_0444_0006_0001$$$::Se você não tiver nenhuma chance, é meu dever abrir um caminho para a vitória. Usarei qualquer meio necessário para fazê-lo conquistar o Santo Graal.[lr]::
+51451::$$$message_0444_0006_0002$$$::Nós, Servos, não servimos nossos Mestres por caridade. Nós o fazemos porque também desejamos o Santo Graal."::
+51452::$$$message_0444_0007_0000$$$::"...Hã? Espera, quer dizer que você também quer o Santo Graal...!?"::
+51453::$$$message_0444_0008_0000$$$::"Claro. Em sua forma espiritual, apenas os Servos, que também são espíritos, podem tocar o Santo Graal.[lr]::
+51454::$$$message_0444_0008_0001$$$::O Mestre que vence a Guerra do Santo Graal o obtém por meio de seu Servo. Depois disso, em troca, o desejo do Servo é realizado.[lr]::
+51455::$$$message_0444_0008_0002$$$::...Essa é a relação entre Mestre e Servo, Shirou."::
+51456::$$$message_0444_0009_0000$$$::[font italic=true]...[font italic=false][lr]::
 51457::$$$message_0444_0009_0001$$$::...Entendo.[lr]::
-51458::$$$message_0444_0009_0002$$$::Agora que ela falou isso, é óbvio que algo como um "espírito heroico" nunca obedeceria um mero humano.[lr]::
-51459::$$$message_0444_0009_0003$$$::Já que eles tem seu próprio objetivo, eles servem o Mestre em troca.::
-51460::$$$message_0444_0010_0000$$$::...Então significa que a Saber tem um desejo que ela quer realizar.[lr]::
-51461::$$$message_0444_0010_0001$$$::Por isso a Saber não tem dúvidas.[lr]::
-51462::$$$message_0444_0010_0002$$$::Mas...::
-51463::$$$message_0444_0011_0000$$$::"...Espera, Saber. Você disse 'qualquer meio possível', sim? Quer dizer que não se importa com os meios usados para ganhar a guerra?[lr]::
-51464::$$$message_0444_0011_0001$$$::Por exemplo[line3]"::
-51465::$$$message_0444_0012_0000$$$::Fazer algo como aquele padre disse.[lr]::
-51466::$$$message_0444_0012_0001$$$::Envolvendo pessoas inocentes e criando um desastre como o de dez anos atrás[line4]::
-51467::$$$message_0444_0013_0000$$$::"Shirou, isso não é possível.[lr]::
-51468::$$$message_0444_0013_0001$$$::Só farei coisas que me permito fazer. Não trairei minhas crenças. É contra o juramento de um cavaleiro ferir aqueles que estão desarmados."::
-51469::$$$message_0444_0014_0000$$$::"Mas devo obedecer se você mandar. Nesse caso, precisará usar um Selo de Comando para compensar a pisada em minha pessoa."[lr]::
-51470::$$$message_0444_0014_0001$$$::Estou sobrecarregado com a voz nervosa dela.::
-51471::$$$message_0444_0015_0000$$$::"[line8]"[lr]::
-51472::$$$message_0444_0015_0001$$$::Ainda sim, estou feliz e aliviado.[lr]::
-51473::$$$message_0444_0015_0002$$$::Sua falta de dúvida me deu a imagem de uma máquina fria de guerra, mas agora sei que ela não é uma assassina a sangue frio.::
-51474::$$$message_0444_0016_0000$$$::"[line3]Sim, não vou deixar você fazer tal coisa.[lr]::
-51475::$$$message_0444_0016_0001$$$::Como disse, faremos nosso melhor com o que temos. ...Me desculpa mesmo. Te insultei sem perceber."::
-51476::$$$message_0444_0017_0000$$$::"Ah... não, tirei uma conclusão precipitada sem saber suas intenções. Não é sua culpa, então levante a cabeça por favor..."[lr]::
-51477::$$$message_0444_0017_0001$$$::"Huh? Ah, desculpa, me desculpei sem notar."[lr]::
-51478::$$$message_0444_0017_0002$$$::Levanto a cabeça.::
-51479::$$$message_0444_0018_0000$$$::"[line8]"[lr]::
-51480::$$$message_0444_0018_0001$$$::Não sei o que é tão engraçado, mas a Saber tem um pequeno sorriso em seu rosto.[lr]::
-51481::$$$message_0444_0018_0002$$$::"...?"[lr]::
-51482::$$$message_0444_0018_0003$$$::Bem, ela está sorrindo, então não vou perguntar a respeito.::
-51483::$$$message_0444_0019_0000$$$::"...Certo. Então posso te perguntar outra coisa?[lr]::
-51484::$$$message_0444_0019_0001$$$::Um Mestre é um mago que invoca Servos, certo?[lr]::
-51485::$$$message_0444_0019_0002$$$::Tudo bem, mas ainda não entendo vocês. Tipo, Saber e Lancer, sei que não são seus nomes reais."::
-51486::$$$message_0444_0020_0000$$$::"Sim, esses são os nomes de nossas classes. ...Certo, descreverei resumidamente enquanto tenho a chance."::
-51487::$$$message_0444_0021_0000$$$::"Nós Servos somos espíritos heroicos.[lr]::
-51488::$$$message_0444_0021_0001$$$::Ganhamos fama durante nossas vidas ou realizamos grandes feitos além da habilidade humana. Seja qual for o meio, somos seres que chegaram aos nível dos deuses com nossa própria força."::
-51489::$$$message_0444_0022_0000$$$::Isso nem precisa ser dito.[lr]::
-51490::$$$message_0444_0022_0001$$$::Espíritos heroicos são heróis com habilidades sobrenaturais enquanto estavam vivos, que foram admirados depois de suas mortes, e promovidos ao nível de espíritos ao invés de virarem fantasmas.::
-51491::$$$message_0444_0023_0000$$$::"Mas isso é desvantajoso para nós. Como heróis, nossas fraquezas foram gravadas.[lr]::
-51492::$$$message_0444_0023_0001$$$::Revelar nossos nomes, nossas identidades, significa revelar nossas fraquezas.[lr]::
-51493::$$$message_0444_0023_0002$$$::Não seria um problema se estivéssemos lutando com espíritos fracos, mas cada um de nós é um espírito capaz de matar o outro. Se nossa fraqueza for revelada, o inimigo tomará vantagem dela para nós derrotar."::
-51494::$$$message_0444_0024_0000$$$::"...Entendo. Heróis normalmente tem oponentes no qual eles são fracos contra. Por isso está escondendo seu nome real e usando o nome Saber?"::
-51495::$$$message_0444_0025_0000$$$::"Sim. Porém, não sou chamada de Saber apenas por isso.[lr]::
-51496::$$$message_0444_0025_0001$$$::Há sete Servos chamados pelo Santo Graal, e cada um deles é escolhido de acordo com sua classe."::
-51497::$$$message_0444_0026_0000$$$::"Classe...? Como Saber e Archer?"[lr]::
-51498::$$$message_0444_0026_0001$$$::"Sim. Invocar um verdadeiro espírito heroico é quase um milagre. Invocar sete é demais até mesmo pro Santo Graal.[lr]::
-51499::$$$message_0444_0026_0002$$$::Como solução, o Santo Graal prepara sete receptáculos com antecedência e só chama espíritos heroicos compatíveis com esses receptáculos.[lr]::
-51500::$$$message_0444_0026_0003$$$::São as setes classes.::
-51501::$$$message_0444_0027_0000$$$::Saber.[lr]::
-51502::$$$message_0444_0027_0001$$$::Lancer.[lr]::
-51503::$$$message_0444_0027_0002$$$::Archer.[lr]::
-51504::$$$message_0444_0027_0003$$$::Rider.[lr]::
-51505::$$$message_0444_0027_0004$$$::Caster.[lr]::
-51506::$$$message_0444_0027_0005$$$::Assassin.[lr]::
-51507::$$$message_0444_0027_0006$$$::Berserker.::
-51508::$$$message_0444_0028_0000$$$::O Santo Graal chama cada heróis de todas as eras, com habilidades correspondentes a cada classe.[lr]::
-51509::$$$message_0444_0028_0001$$$::E os que recebem essas classes são chamados de Servos."::
-51510::$$$message_0444_0029_0000$$$::"...Entendo. Você foi um espírito heroico habilidosa com espadas, então foi invocada como Saber?"[lr]::
-51511::$$$message_0444_0029_0001$$$::"Sim. Há espíritos heroicos que tem múltiplos atributos, mas acredito que sou a melhor quando se trata de espadas."::
-51512::$$$message_0444_0030_0000$$$::"Mas essa também é a fraqueza da classe Saber.[lr]::
-51513::$$$message_0444_0030_0001$$$::Já que não sou uma maga, só posso derrotar oponentes como sua espada."[lr]::
-51514::$$$message_0444_0030_0002$$$::"Então você não é adepta a truques. Não, não acho que seja uma fraqueza. Você é tão poderosa, então deve bastar, certo?"::
-51515::$$$message_0444_0031_0000$$$::"Shirou, você não pode ganhar essa guerra apenas sendo forte na luta.[lr]::
-51516::$$$message_0444_0031_0001$$$::Por exemplo, se seu oponente for mais forte que você em combate, o que você vai fazer?"::
-51517::$$$message_0444_0032_0000$$$::"Huh? Bem... se eu soubesse que não posso derrotar eles em combate, teria que fazer algo sem lutar[line3]"[lr]::
-51518::$$$message_0444_0032_0001$$$::Tendo dito isso, entendi.[lr]::
-51519::$$$message_0444_0032_0002$$$::Se os inimigos forem fortes, você não lutaria uma batalha limpa.[lr]::
-51520::$$$message_0444_0032_0003$$$::Derrotar seus oponentes com sua espada não é o único jeito de vencer.[lr]::
-51521::$$$message_0444_0032_0004$$$::Se não pode derrotar eles com sua espada, tudo que teria que fazer é derrotar eles de outro jeito.::
-51522::$$$message_0444_0033_0000$$$::"Exatamente. Se seu inimigo descobre que você é habilidoso em combate, ele provavelmente não vai te chamar para um duelo. ...E nesse sentido, Servos que não tem habilidade usaram qualquer meio possível."::
-51523::$$$message_0444_0034_0000$$$::"O Servo Assassino tem atributos baixos, mas tem a habilidade especial de esconder sua presença, e o Servo Caster é versado em magia que não existe nessa era.[lr]::
-51524::$$$message_0444_0034_0001$$$::Você não pode ser otimista por causa de uma mera diferença de poder. E além disso, temos nossos 'Fantasmas Nobres'. Não importa que tipo de Servos somos, como espíritos heroicos, temos nosso golpe fatal garantido."::
-51525::$$$message_0444_0035_0000$$$::"Fantasma Nobre[line3]?"[lr]::
-51526::$$$message_0444_0035_0001$$$::Não ouvi esse termo antes.[lr]::
-51527::$$$message_0444_0035_0002$$$::Embora, eu acho que sei o que significa pelo tom disso...::
-51528::$$$message_0444_0036_0000$$$::"Fantasmas Nobres são armas especiais carregadas por Servos.[lr]::
-51529::$$$message_0444_0036_0001$$$::Armas como a lança do Lancer, o arco do Archer e minha espada são tais.[lr]::
-51530::$$$message_0444_0036_0002$$$::Heróis não são chamados de heróis sozinhos. Heróis possuem armas que simbolizam eles e os fazem heróis."::
-51531::$$$message_0444_0037_0000$$$::"O herói e sua arma são um. Então cada um que vira espírito heroico possuí uma arma poderosa.[lr]::
-51532::$$$message_0444_0037_0001$$$::Isso é um 'Fantasma Nobre'[line3]a arma secreta para Servos, e aquilo com que devemos ter o maior cuidado."::
-51533::$$$message_0444_0038_0000$$$::"[line8]"[lr]::
-51534::$$$message_0444_0038_0001$$$::...A Saber diz que Fantasmas Nobres são armas que heróis possuem quando estavam vivos.::
-51535::$$$message_0444_0039_0000$$$::Lembro daquele cavaleiro azul.[lr]::
-51536::$$$message_0444_0039_0001$$$::A lança que absorveu energia mágica do ar e perfurou o peito da Saber com movimentos incríveis.[lr]::
-51537::$$$message_0444_0039_0002$$$::Certamente não era algo feito para humanos.[lr]::
-51538::$$$message_0444_0039_0003$$$::A lança em si carregava uma maldição poderosa, mas também senti uma grande quantidade de energia mágica nas palavras que o Lancer disse antes.[lr]::
-51539::$$$message_0444_0039_0004$$$::Então aquilo seria...?::
-51540::$$$message_0444_0040_0000$$$::"Saber. Fantasmas Nobres são magia?[lr]::
-51541::$$$message_0444_0040_0001$$$::A lança do Lancer certamente parecia uma lança com história, mas a lança em si não era extraordinária.[lr]::
-51542::$$$message_0444_0040_0002$$$::Mas aquela lança foi além do mundo das armas com suas palavras. Não era algum tipo de magia?"::
-51543::$$$message_0444_0041_0000$$$::"Sim, Fantasmas Nobres são similares a magia.[lr]::
-51544::$$$message_0444_0041_0001$$$::Por exemplo, a lança do Lancer.  A lança em si é um Fantasma Nobre, mas só mostra seu verdadeiro potencial quando ele coloca energia mágica nela e a chama por seu nome verdadeiro."::
-51545::$$$message_0444_0042_0000$$$::"Um Fantasma Nobre pode ser chamado de um mistério divino materializado.[lr]::
-51546::$$$message_0444_0042_0001$$$::Assim como feitiços são necessários para ativar a magia, a recitação do nome real é necessária para acordar e ativar o Fantasma Nobre.[lr]::
-51547::$$$message_0444_0042_0002$$$::Mas há perigo nisso. Ao falar o verdadeiro nome de seu Fantasma Nobre, a identidade do Servo é revelada."::
-51548::$$$message_0444_0043_0000$$$::"...Ah sim. Heróis e suas armas são um. Se você sabe o nome da arma, naturalmente sabe a identidade do dono."[lr]::
-51549::$$$message_0444_0043_0001$$$::A Saber concorda silenciosamente.::
-51550::$$$message_0444_0044_0000$$$::Por isso o Fantasma Nobre é um coringa.[lr]::
-51551::$$$message_0444_0044_0001$$$::Em troca de revelar seu nome, ele solta um inevitável golpe fatal.[lr]::
-51552::$$$message_0444_0044_0002$$$::Mas quando não é fatal... o Servo terá exposto todas as suas fraquezas.::
+51458::$$$message_0444_0009_0002$$$::Pensando bem, não haveria razão para esses Espíritos Heroicos absurdamente fortes obedecerem a humanos em circunstâncias normais.[lr]::
+51459::$$$message_0444_0009_0003$$$::Eles só servem aos Mestres como parte de um acordo para alcançar os próprios objetivos.::
+51460::$$$message_0444_0010_0000$$$::...Então isso quer dizer que Saber também tem um desejo que quer realizar.[lr]::
+51461::$$$message_0444_0010_0001$$$::É por isso que ela não hesita.[lr]::
+51462::$$$message_0444_0010_0002$$$::Mas, ainda assim...::
+51463::$$$message_0444_0011_0000$$$::"...Espera, Saber. Você disse 'qualquer meio necessário', certo? Isso significa que você não se importa com o tipo de método usado para vencer?[lr]::
+51464::$$$message_0444_0011_0001$$$::Por exemplo..."::
+51465::$$$message_0444_0012_0000$$$::Como aquele padre disse.[lr]::
+51466::$$$message_0444_0012_0001$$$::Envolver pessoas inocentes que nem sequer são Mestres e criar uma tragédia como a de dez anos atrás...::
+51467::$$$message_0444_0013_0000$$$::"Shirou, não foi isso que quis dizer com 'qualquer meio necessário'.[lr]::
+51468::$$$message_0444_0013_0001$$$::Só posso fazer aquilo que eu mesma me permito fazer. É impossível trair minhas próprias crenças. Ferir inocentes desarmados vai contra o juramento de um cavaleiro."::
+51469::$$$message_0444_0014_0000$$$::"Ainda assim, se você me der essa ordem, eu terei de obedecer. Nesse caso, porém, você precisará usar um de seus Selos de Comando como compensação."[lr]::
+51470::$$$message_0444_0014_0001$$$::Fico esmagado pela dureza na voz dela.::
+51471::$$$message_0444_0015_0000$$$::[font italic=true]...[font italic=false][lr]::
+51472::$$$message_0444_0015_0001$$$::Ao mesmo tempo, sinto um alívio me invadir.[lr]::
+51473::$$$message_0444_0015_0002$$$::Por causa do poder fora do comum dela e da falta de hesitação, Saber me parecera uma máquina, mas agora sei que ela não é uma assassina de sangue-frio.::
+51474::$$$message_0444_0016_0000$$$::"...É, eu não faria você fazer algo assim.[lr]::
+51475::$$$message_0444_0016_0001$$$::Como você disse, temos de fazer o melhor com o que está ao nosso alcance... Desculpa mesmo. O que eu disse deve ter sido ofensivo."::
+51476::$$$message_0444_0017_0000$$$::"Ah... Não, eu também interpretei suas intenções errado e tirei conclusões precipitadas. A culpa não é sua, então poderia, por favor, erguer a cabeça...?"[lr]::
+51477::$$$message_0444_0017_0001$$$::"Hã? Ah, eu baixei a cabeça sem nem perceber."[lr]::
+51478::$$$message_0444_0017_0002$$$::Ergo a cabeça.::
+51479::$$$message_0444_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
+51480::$$$message_0444_0018_0001$$$::Não sei o que há de tão engraçado, mas Saber está com um leve sorriso no rosto.[lr]::
+51481::$$$message_0444_0018_0002$$$::"Hã?"[lr]::
+51482::$$$message_0444_0018_0003$$$::Bem, ela está sorrindo, então não vou questionar.::
+51483::$$$message_0444_0019_0000$$$::"...Certo. Então posso te perguntar mais uma coisa?[lr]::
+51484::$$$message_0444_0019_0001$$$::Você disse que Mestres são magos que invocam Servos, certo?[lr]::
+51485::$$$message_0444_0019_0002$$$::Eu entendo isso, mas ainda não compreendo o lado de vocês. Pelo menos já sei que nomes como Saber e Lancer não são os nomes reais de vocês."::
+51486::$$$message_0444_0020_0000$$$::"Sim, esses são apenas nomes dados de acordo com o papel de cada um... Muito bem, vou aproveitar a oportunidade para lhe dar uma explicação resumida."::
+51487::$$$message_0444_0021_0000$$$::"Nós, Servos, somos Espíritos Heroicos.[lr]::
+51488::$$$message_0444_0021_0001$$$::Cada um de nós fez seu nome em sua própria era; realizamos algum grande feito além das capacidades humanas. Seja qual for o caminho, somos seres que ascenderam a um estado próximo ao divino por nossos próprios méritos."::
+51489::$$$message_0444_0022_0000$$$::Isso é óbvio.[lr]::
+51490::$$$message_0444_0022_0001$$$::Espíritos Heroicos são heróis que possuíam capacidades sobrenaturais quando vivos, foram exaltados após a morte e elevados a uma categoria espiritual superior à de fantasmas comuns.::
+51491::$$$message_0444_0023_0000$$$::"Mas, ao mesmo tempo, isso também é nossa fraqueza. Como cada Espírito Heroico deixou sua marca na história, nossas fraquezas também ficaram registradas.[lr]::
+51492::$$$message_0444_0023_0001$$$::Ao revelar nossos nomes e identidades, estaríamos revelando nossas fraquezas.[lr]::
+51493::$$$message_0444_0023_0002$$$::Isso não seria um problema contra espíritos inferiores a nós, mas todos aqui somos Espíritos Heroicos capazes de matar uns aos outros. Se nossas fraquezas forem expostas, o inimigo se aproveitará delas para nos derrotar."::
+51494::$$$message_0444_0024_0000$$$::"...Entendo. Os heróis costumam ter algum adversário contra o qual são fracos. Então é por isso que você usa um nome como Saber e esconde seu nome verdadeiro."::
+51495::$$$message_0444_0025_0000$$$::"Sim. Entretanto, esse não é o único motivo de eu ser chamada de Saber.[lr]::
+51496::$$$message_0444_0025_0001$$$::Há sete Servos convocados pelo Santo Graal, e cada um deles é escolhido de acordo com sua classe."::
+51497::$$$message_0444_0026_0000$$$::"Classe...? É daí que vêm nomes como Saber e Archer?"[lr]::
+51498::$$$message_0444_0026_0001$$$::"Exatamente. Em primeiro lugar, invocar um verdadeiro Espírito Heroico já está próximo de um milagre. Invocar sete deles é demais até mesmo para o Santo Graal.[lr]::
+51499::$$$message_0444_0026_0002$$$::Para resolver isso, o Santo Graal prepara previamente sete recipientes e convoca apenas Espíritos Heroicos compatíveis com esses recipientes. Esses recipientes são como moldes que nos prendem temporariamente a este mundo.[lr]::
+51500::$$$message_0444_0026_0003$$$::Essas são as sete classes: ::
+51501::$$$message_0444_0027_0000$$$::Saber,[lr]::
+51502::$$$message_0444_0027_0001$$$::Lancer,[lr]::
+51503::$$$message_0444_0027_0002$$$::Archer,[lr]::
+51504::$$$message_0444_0027_0003$$$::Rider,[lr]::
+51505::$$$message_0444_0027_0004$$$::Caster,[lr]::
+51506::$$$message_0444_0027_0005$$$::Assassin,[lr]::
+51507::$$$message_0444_0027_0006$$$::e Berserker.::
+51508::$$$message_0444_0028_0000$$$::"O Santo Graal convoca Espíritos Heroicos de qualquer época, desde que possuam habilidades compatíveis com cada função.[lr]::
+51509::$$$message_0444_0028_0001$$$::E aqueles que recebem essas classes são chamados de Servos."::
+51510::$$$message_0444_0029_0000$$$::"...Entendi. Então você é um Saber porque é um Espírito Heroico habilidoso com a espada."[lr]::
+51511::$$$message_0444_0029_0001$$$::"Correto. Pode haver Espíritos Heroicos com múltiplos atributos, mas, com toda a modéstia, eu diria que não existe ninguém melhor do que eu com a espada."::
+51512::$$$message_0444_0030_0000$$$::"Entretanto, isso também é uma desvantagem para mim.[lr]::
+51513::$$$message_0444_0030_0001$$$::Não sou uma maga, então só posso derrotar meus inimigos como sua espada."[lr]::
+51514::$$$message_0444_0030_0002$$$::"Quer dizer que você não leva jeito para o lado mais ardiloso da coisa. Eu não considero isso uma fraqueza. Como Saber, você já é forte o bastante."::
+51515::$$$message_0444_0031_0000$$$::"Shirou, uma batalha não se vence apenas com força.[lr]::
+51516::$$$message_0444_0031_0001$$$::Suponhamos, por exemplo, que seu inimigo seja melhor do que você em combate corpo a corpo. O que você faria?"::
+51517::$$$message_0444_0032_0000$$$::"Hã? Bem... Acho que, se soubesse que não poderia vencer enfrentando-o de frente, teria de fazer algo sem lutar assim..."[lr]::
+51518::$$$message_0444_0032_0001$$$::Entendo no instante em que digo isso.[lr]::
+51519::$$$message_0444_0032_0002$$$::Se o oponente for forte, ninguém vai lutar limpo contra ele.[lr]::
+51520::$$$message_0444_0032_0003$$$::Derrotar o adversário com uma espada não é a única forma de combater.[lr]::
+51521::$$$message_0444_0032_0004$$$::Se você não pode vencê-lo com a espada, basta vencê-lo de outro modo.::
+51522::$$$message_0444_0033_0000$$$::"Exato. Se o inimigo descobrir que você é hábil em combate corpo a corpo, o mais provável é que não o desafie nesses termos. Nesse sentido, os Servos que carecem de habilidade usarão qualquer meio possível."::
+51523::$$$message_0444_0034_0000$$$::"O Servo Assassin carece de poder de combate, mas possui a habilidade especial de ocultar sua presença, e o Servo Caster domina magias que sequer existem nesta era.[lr]::
+51524::$$$message_0444_0034_0001$$$::Você não pode se sentir seguro apenas por uma diferença de força. Além disso, temos os chamados 'Fantasmas Nobres'. Não importa que tipo de Servos sejamos, como Espíritos Heroicos, todos possuímos um recurso capaz de desferir um golpe fatal."::
+51525::$$$message_0444_0035_0000$$$::"Fantasma Nobre...?"[lr]::
+51526::$$$message_0444_0035_0001$$$::Nunca ouvi esse termo antes.[lr]::
+51527::$$$message_0444_0035_0002$$$::Embora eu ache que consigo deduzir o sentido pelas palavras...::
+51528::$$$message_0444_0036_0000$$$::"Fantasmas Nobres são armas especiais que os Servos carregam.[lr]::
+51529::$$$message_0444_0036_0001$$$::Armas como a lança do Lancer, o arco do Archer e minha espada são todos tesouros desse tipo.[lr]::
+51530::$$$message_0444_0036_0002$$$::Os heróis não se tornam heróis sozinhos. É graças à arma que escolheram, o próprio símbolo de sua existência, que são reconhecidos como tal."::
+51531::$$$message_0444_0037_0000$$$::"Heróis e seus armamentos são uma coisa só. Por isso, aqueles que se tornam Espíritos Heroicos carregam armas famosas e poderosas.[lr]::
+51532::$$$message_0444_0037_0001$$$::Isso é um Fantasma Nobre: o trunfo de um Servo e aquilo de que mais devemos desconfiar."::
+51533::$$$message_0444_0038_0000$$$::[font italic=true]...[font italic=false][lr]::
+51534::$$$message_0444_0038_0001$$$::...Saber diz que Fantasmas Nobres são as armas que os Espíritos Heroicos possuíam em vida.::
+51535::$$$message_0444_0039_0000$$$::Lembro da lança daquele cavaleiro azul.[lr]::
+51536::$$$message_0444_0039_0001$$$::Ela absorveu toda a Energia Mágica do ar e perfurou o peito da Saber numa trajetória impossível.[lr]::
+51537::$$$message_0444_0039_0002$$$::Aquilo certamente não é algo que um ser humano comum poderia manejar.[lr]::
+51538::$$$message_0444_0039_0003$$$::A lança em si já carregava uma maldição poderosa, mas também senti nas palavras que o Lancer pronunciou naquela hora uma quantidade de Energia Mágica em outro nível.[lr]::
+51539::$$$message_0444_0039_0004$$$::Então será que aquilo era...?::
+51540::$$$message_0444_0040_0000$$$::"Saber. Fantasmas Nobres são uma forma de magia?[lr]::
+51541::$$$message_0444_0040_0001$$$::A lança do Lancer certamente parecia um objeto com história, mas a lança em si não tinha nada de extraordinário.[lr]::
+51542::$$$message_0444_0040_0002$$$::Mas, ao falar aquelas palavras, a lança foi além do reino das armas. Aquilo não era algum tipo de magia?"::
+51543::$$$message_0444_0041_0000$$$::"Sim, Fantasmas Nobres de fato se assemelham à magia.[lr]::
+51544::$$$message_0444_0041_0001$$$::Tomemos como exemplo a lança do Lancer. A arma em si já é um Fantasma Nobre, mas seu verdadeiro valor só se manifesta quando ele a infunde com Energia Mágica e pronuncia seu Nome Verdadeiro."::
+51545::$$$message_0444_0042_0000$$$::"Fantasmas Nobres podem ser vistos, em termos técnicos, como mistérios materializados.[lr]::
+51546::$$$message_0444_0042_0001$$$::Assim como encantamentos são necessários para ativar a magia, um Fantasma Nobre também precisa que seu Nome Verdadeiro seja recitado para despertar e ser ativado.[lr]::
+51547::$$$message_0444_0042_0002$$$::No entanto, isso também traz perigo. Ao pronunciar o Nome Verdadeiro de um Fantasma Nobre, a identidade daquele Servo é revelada."::
+51548::$$$message_0444_0043_0000$$$::"Entendi. Heróis e armas vêm em conjunto. Se você sabe o nome da arma, consegue descobrir quem a empunha."[lr]::
+51549::$$$message_0444_0043_0001$$$::Saber assente em silêncio.::
+51550::$$$message_0444_0044_0000$$$::É por isso que um Fantasma Nobre é um trunfo.[lr]::
+51551::$$$message_0444_0044_0001$$$::Em troca de revelar a própria identidade, ele desfere um golpe fatal inevitável.[lr]::
+51552::$$$message_0444_0044_0002$$$::E, se esse ataque falhar, o Servo terá exposto suas fraquezas.::
 51553::$$$message_0444_0045_0000$$$::"Então, Saber. Seu Fantasma Nobre é essa espada invisível?"[lr]::
-51554::$$$message_0444_0045_0001$$$::"...Sim. Mas ainda não revelei sua identidade. Nenhum Servo deve conhecer meu nome até agora."[lr]::
-51555::$$$message_0444_0045_0002$$$::Falando isto, a Saber olha incomodada por um instante.::
-51556::$$$message_0444_0046_0000$$$::"Shirou. Tenho um pedido a fazer em relação a isso."[lr]::
-51557::$$$message_0444_0046_0001$$$::"Huh? Que tipo de pedido?"::
-51558::$$$message_0444_0047_0000$$$::"Sobre meu verdadeiro nome. Normalmente, Servos dizem seus verdadeiros nomes para seu Mestres, para combinar planos futuros.[lr]::
-51559::$$$message_0444_0047_0001$$$::Mas você é inexperiente como mago.[lr]::
-51560::$$$message_0444_0047_0002$$$::Um mago superior poderia ler sua mente, então[line3]"::
-51561::$$$message_0444_0048_0000$$$::"Ah, então não pode me dizer seu nome real? ...Sim, tem razão. Hipnotismo, sugestão, ou... bem, acho que não existe, mas se algum outro Mestre tiver olhos mistícos, acho que vou acabar abrindo a boca.[lr]::
-51562::$$$message_0444_0048_0001$$$::[line3]Certo. Vamos fazer isso. Vou confiar em você para decidir quando usar seu Fantasma Nobre."::
-51563::$$$message_0444_0049_0000$$$::"Uh[line3]um, pode decidir tão rápido assim?"[lr]::
-51564::$$$message_0444_0049_0001$$$::"Não foi fácil. Pensei bem nisso.[lr]::
-51565::$$$message_0444_0049_0002$$$::Concordei depois de pensar nisso, então relaxa."[lr]::
-51566::$$$message_0444_0049_0003$$$::"[line8]"::
-51567::$$$message_0444_0050_0000$$$::...Bem.[lr]::
-51568::$$$message_0444_0050_0001$$$::Entendo boa parte disso, mas ainda não compreendi a situação toda.::
-51569::$$$message_0444_0051_0000$$$::Isso é estranho, agora que penso a respeito disso.[lr]::
-51570::$$$message_0444_0051_0001$$$::Embora decidi lutar, o único inimigo que conheço é a Tohsaka, e nem mesmo planejo lutar contra ela.[lr]::
-51571::$$$message_0444_0051_0002$$$::Bem, não devo pensar assim já que a Tohsaka está pronta pra lutar comigo qualquer dia desse.::
-51572::$$$message_0444_0052_0000$$$::"Ei Saber, os Servos e Mestres possuem alguma marca? Não sei o que devo estar fazendo agora."::
-51573::$$$message_0444_0053_0000$$$::"Não. Infelizmente, não há jeito fácil de distinguir eles.[lr]::
-51574::$$$message_0444_0053_0001$$$::Mas se outros Servos estiverem próximos, Servos conseguem sentir eles. Ainda mais se estiverem materializados. Servos em si são magias poderosas.[lr]::
-51575::$$$message_0444_0053_0002$$$::Tenho certeza que você sentiu a presença do Berserker."::
-51576::$$$message_0444_0054_0000$$$::"Ugh[line3]é verdade. Mas seria ruim perceber apenas quando for atacado. Preciso saber pelo menos antes deles se aproximarem, então posso pensar em alguma contra-medida."::
-51577::$$$message_0444_0055_0000$$$::"Então, que tal procurar pela presença de um Mestre? Mestres são magos. Já que usam magia para viver, eles vazam energia mágica. Se você procurar isso, conseguirá determinar os Mestres nesta cidade."[lr]::
-51578::$$$message_0444_0055_0001$$$::"...Desculpa. Infelizmente, não consigo fazer isso."::
-51579::$$$message_0444_0056_0000$$$::Afinal, nem mesmo notei a verdadeira identidade da Tohsaka, que vai para a mesma escola que eu.[lr]::
-51580::$$$message_0444_0056_0001$$$::Estivemos no mesmo lugar por dois anos, e ainda por cima, vi ela diversas vezes.::
-51581::$$$message_0444_0057_0000$$$::"[line3]Nossa. Não é a toa que me chamam de amador. A única evidência de que sou um Mestre é esse Selo de Comando. Parece que terei dificuldades pela frente."[lr]::
-51582::$$$message_0444_0057_0001$$$::Suspiro.[lr]::
-51583::$$$message_0444_0057_0002$$$::[line3]E então.::
-51584::$$$message_0444_0058_0000$$$::"Shirou. Poderia fechar seus olhos por um instante?"[lr]::
-51585::$$$message_0444_0058_0001$$$::A Saber diz, séria.[lr]::
-51586::$$$message_0444_0058_0002$$$::"...? Fechar meus olhos? Por que?"[lr]::
-51587::$$$message_0444_0058_0003$$$::"Para provar que é um Mestre. Apenas feche os olhos e respire."::
-51588::$$$message_0444_0059_0000$$$::"......"[lr]::
+51554::$$$message_0444_0045_0001$$$::"...Sim. Contudo, ainda não revelei sua identidade. A esta altura, não deve existir nenhum Servo que conheça meu Nome Verdadeiro."[lr]::
+51555::$$$message_0444_0045_0002$$$::Ao dizer isso, Saber desvia o olhar, desconfortável, por um instante.::
+51556::$$$message_0444_0046_0000$$$::"Shirou. Tenho um pedido a fazer a esse respeito."[lr]::
+51557::$$$message_0444_0046_0001$$$::"Hã? Que tipo de pedido?"::
+51558::$$$message_0444_0047_0000$$$::"É sobre meu Nome Verdadeiro. Normalmente, os Servos revelam o Nome Verdadeiro apenas ao seu Mestre, para que possam planejar as estratégias das batalhas futuras.[lr]::
+51559::$$$message_0444_0047_0001$$$::Entretanto, você é inexperiente como mago.[lr]::
+51560::$$$message_0444_0047_0002$$$::Se encontrar um mago superior, ele provavelmente será capaz de ler sua mente. Portanto..."::
+51561::$$$message_0444_0048_0000$$$::"Ah, então você não pode me dizer seu nome, é isso? ...É, você tem razão. Hipnotismo, sugestão, ou... bem, duvido, mas, se algum outro Mestre tiver Olhos Místicos, eu posso acabar falando demais.[lr]::
+51562::$$$message_0444_0048_0001$$$::Tudo bem. Vou deixar nas suas mãos decidir quando usar o seu Fantasma Nobre."::
+51563::$$$message_0444_0049_0000$$$::"Ah... Tem certeza de que pode tomar uma decisão tão apressada?"[lr]::
+51564::$$$message_0444_0049_0001$$$::"Não foi nada apressado. Eu pensei bem nisso e estou satisfeito com a conclusão a que cheguei.[lr]::
+51565::$$$message_0444_0049_0002$$$::Pensei de verdade no assunto, então não precisa se preocupar."[lr]::
+51566::$$$message_0444_0049_0003$$$::[font italic=true]...[font italic=false]::
+51567::$$$message_0444_0050_0000$$$::Mudando de assunto.[lr]::
+51568::$$$message_0444_0050_0001$$$::Nós já conversamos sobre a maior parte das coisas, mas ainda não acho que entendi a situação como um todo.::
+51569::$$$message_0444_0051_0000$$$::Pensando bem, isso é estranho.[lr]::
+51570::$$$message_0444_0051_0001$$$::Eu decidi lutar, e ainda assim o único oponente que conheço é a Tohsaka, e não tenho intenção nenhuma de enfrentá-la.[lr]::
+51571::$$$message_0444_0051_0002$$$::...Bem, por outro lado, ela está pronta para lutar comigo, então não sou exatamente eu quem pode falar isso.::
+51572::$$$message_0444_0052_0000$$$::"Ei, Saber. Mestres ou Servos têm algum tipo de marca? Eu realmente não sei o que deveria estar fazendo agora."::
+51573::$$$message_0444_0053_0000$$$::"Não. Infelizmente, não existe uma forma definitiva de identificá-los.[lr]::
+51574::$$$message_0444_0053_0001$$$::Mas, se outros Servos estiverem por perto, um Servo pode sentir a presença deles. Ainda mais se estiverem materializados. Os próprios Servos são uma poderosa concentração de Energia Mágica."[lr]::
+51575::$$$message_0444_0053_0002$$$::Você foi capaz de sentir a presença do Berserker, não foi?"::
+51576::$$$message_0444_0054_0000$$$::"...É verdade. Só que seria péssimo perceber isso apenas quando eu estiver sendo atacado, não? Eu preciso ao menos notar antes que se aproximem, ou não vou conseguir pensar em nenhuma contramedida."::
+51577::$$$message_0444_0055_0000$$$::"Então, que tal rastrear a presença do Mestre? Mestres são magos. Como usam magia em sua vida cotidiana, sempre acabam vazando alguma Energia Mágica. Se você buscar isso, talvez consiga localizar os Mestres.[lr]::
+51578::$$$message_0444_0055_0001$$$::"...Desculpa. Infelizmente, eu não consigo fazer nada que exija esse tipo de habilidade."::
+51579::$$$message_0444_0056_0000$$$::Quer dizer, eu nem percebi a identidade da Tohsaka, e nós estudamos na mesma escola.[lr]::
+51580::$$$message_0444_0056_0001$$$::Ficamos no mesmo prédio por dois anos e, além disso, eu a via o tempo todo.::
+51581::$$$message_0444_0057_0000$$$::"...Droga. Não é à toa que me chamam de amador. Minha única prova de que sou um Mestre é esse Selo de Comando. Parece que ainda tenho um longo caminho pela frente."[lr]::
+51582::$$$message_0444_0057_0001$$$::Solto um longo suspiro.[lr]::
+51583::$$$message_0444_0057_0002$$$::E então,::
+51584::$$$message_0444_0058_0000$$$::"Shirou. Você pode fechar os olhos por um instante?"[lr]::
+51585::$$$message_0444_0058_0001$$$::Saber fala com expressão severa.[lr]::
+51586::$$$message_0444_0058_0002$$$::"Hã...? Fechar os olhos? Por quê?"[lr]::
+51587::$$$message_0444_0058_0003$$$::"Vou provar que você é um Mestre. Apenas me ouça. Feche os olhos e controle a respiração."::
+51588::$$$message_0444_0059_0000$$$::"..."[lr]::
 51589::$$$message_0444_0059_0001$$$::...Fecho os olhos.[lr]::
-51590::$$$message_0444_0059_0002$$$::Sinto algo tocando minha testa levemente.[lr]::
-51591::$$$message_0444_0059_0003$$$::[line3]Ei, está pinicando. Seria isso a ponta da espada[r]dela[line3]!?::
-51592::$$$message_0444_0060_0000$$$::"[line3]Saber? Espera, está fazendo algo estranho?"[lr]::
-51593::$$$message_0444_0060_0001$$$::"...Mestre, por favor fique quieto e se concentre no meu dedo. Se é um mago, poderá sentir minha energia mágica."::
-51594::$$$message_0444_0061_0000$$$::"[line3]Hm."[lr]::
-51595::$$$message_0444_0061_0001$$$::Entendi, então é o dedo da Saber que está me tocando.[lr]::
-51596::$$$message_0444_0061_0002$$$::Me concentro e acalmo.::
-51597::$$$message_0444_0062_0000$$$::[line3]Então.[lr]::
-51598::$$$message_0444_0062_0001$$$::O que é isso?::
+51590::$$$message_0444_0059_0002$$$::Sinto algo tocar levemente minha testa.[lr]::
+51591::$$$message_0444_0059_0003$$$::Espera, é estranhamente pontudo... não vai me dizer que é a ponta da espada dela...!?::
+51592::$$$message_0444_0060_0000$$$::"...Saber? Espera, tem certeza de que não está fazendo nada estranho?"[lr]::
+51593::$$$message_0444_0060_0001$$$::"...Mestre, por favor fique quieto e concentre-se na ponta do meu dedo. Se você for um mago, deve ser capaz de sentir minha Energia Mágica por ela."::
+51594::$$$message_0444_0061_0000$$$::"...Hm."[lr]::
+51595::$$$message_0444_0061_0001$$$::Ah, então o que está me tocando é o dedo da Saber.[lr]::
+51596::$$$message_0444_0061_0002$$$::Eu me recomponho e aquieto a mente.::
+51597::$$$message_0444_0062_0000$$$::Nossa.[lr]::
+51598::$$$message_0444_0062_0001$$$::O que é isto?::
 51599::$$$message_0444_0063_0000$$$::"Saber, o que foi isso?"[lr]::
-51600::$$$message_0444_0063_0001$$$::"Não é algo que você devia me perguntar. Você e eu estamos conectados por um contrato, então é normal pra você entender meu status."::
-51601::$$$message_0444_0064_0000$$$::"[line3]Entender? Quer dizer, o que aconteceu agora?"[lr]::
-51602::$$$message_0444_0064_0001$$$::"Não sei o que você viu. É seu padrão de medição da habilidade de um Servo. Alguns classificam com cores, outros com animais."::
-51603::$$$message_0444_0065_0000$$$::"Em outras palavras, você vê do jeito que é mais fácil pra você.[lr]::
-51604::$$$message_0444_0065_0001$$$::É um conceito padrão para um Mestre, então cheque-o frequentemente. Como eu, se você ver alguém, notará alguns detalhes."::
-51605::$$$message_0444_0066_0000$$$::...Entendo.[lr]::
-51606::$$$message_0444_0066_0001$$$::Fiquei surpreso por ter sido tão repentino, mas acho que consigo agir como um Mestre agora.::
-51607::$$$message_0444_0067_0000$$$::"[line3]Mestre. Simplifiquei algumas coisas, mas essa é toda a explicação que posso te dar."[lr]::
-51608::$$$message_0444_0067_0001$$$::"Okay. Foi rápido, mas entendo agora. Desculpa, Saber."::
-51609::$$$message_0444_0068_0000$$$::"...Você não devia pedir 'desculpa'.[lr]::
-51610::$$$message_0444_0068_0001$$$::Se você compreende a situação, deveria pensar no que fazer a partir de agora."::
-51611::$$$message_0444_0069_0000$$$::Ela me pergunta, se inclinando pra frente.[lr]::
-51612::$$$message_0444_0069_0001$$$::...Entendo.[lr]::
-51613::$$$message_0444_0069_0002$$$::A Saber é do mesmo tipo da Tohsaka: Ataca primeiro.::
-51614::$$$message_0444_0070_0000$$$::"Bem, não faremos nada de diferente.[lr]::
-51615::$$$message_0444_0070_0001$$$::Não tenho vontade de sair por aí lutando com outros Mestres igual a Tohsaka."::
-51616::$$$message_0444_0071_0000$$$::"[line3]Shirou, isso não faz sentido. Você não tem vontade de obter o Santo Graal como um Mestre?"[lr]::
-51617::$$$message_0444_0071_0001$$$::...A Saber aperta os olhos.[lr]::
-51618::$$$message_0444_0071_0002$$$::São os olhos calmos de uma espadachim que não permite discordâncias.[lr]::
-51619::$$$message_0444_0071_0003$$$::"[line8]"[lr]::
-51620::$$$message_0444_0071_0004$$$::Olho de volta, tentando não perder, e claramente digo a ela minhas intenções.::
-51621::$$$message_0444_0072_0000$$$::"Tenho. Mas só porque não quero que alguém maligno o pegue. Não tenho motivo pra conseguir o Santo Graal pra mim mesmo."[lr]::
-51622::$$$message_0444_0072_0001$$$::"[line3]!"::
-51623::$$$message_0444_0073_0000$$$::"Mas não significa que não lutarei.[lr]::
-51624::$$$message_0444_0073_0001$$$::Sou um mago, mesmo que amador. Entendo que não posso sair dessa agora. Sei que não posso sobreviver sem fazer nada."::
-51625::$$$message_0444_0074_0000$$$::"Então está dizendo que não está lutando para conseguir o Santo Graal, mas sim para impedir o conflito resultante dele?"::
-51626::$$$message_0444_0075_0000$$$::"...? ...Sim, acho que pode colocar dessa maneira. Sim, acho que é isso que quero dizer. Não posso expressar de maneira clara, mas tal luta vale algo, sim?"::
-51627::$$$message_0444_0076_0000$$$::Exato.[lr]::
-51628::$$$message_0444_0076_0001$$$::Não sinto nada pelo Santo Graal.[lr]::
-51629::$$$message_0444_0076_0002$$$::Mas por um motivo desses, acho que posso lutar com todo meu poder e orgulho.::
-51630::$$$message_0444_0077_0000$$$::"...Não entendo. Você diz que é um mago. Então deveria desejar o poderoso Santo Graal. Os magos não treinam magia porque eles possuem um desejo que não podem tornar realidade?"::
-51631::$$$message_0444_0078_0000$$$::"O que está dizendo? Não tenho desejos impossíveis. Mas tenho muitas coisas que quero fazer."[lr]::
-51632::$$$message_0444_0078_0001$$$::Sim.[lr]::
-51633::$$$message_0444_0078_0002$$$::Então por hora, devo evitar o máximo envolver pessoas inocentes.::
-51634::$$$message_0444_0079_0000$$$::"[line3]Então está dizendo que não quer o Santo Graal? Que não vai lutar por ele?"[lr]::
-51635::$$$message_0444_0079_0001$$$::"Não disse isso. Já que estou lutando, planejo conseguir o Santo Graal."::
-51636::$$$message_0444_0080_0000$$$::"Isso é uma contradição. Por que deseja algo que não precisa, indo tão longe ao ponto de lutar?"[lr]::
-51637::$$$message_0444_0080_0001$$$::"...?"[lr]::
+51600::$$$message_0444_0063_0001$$$::"Não é óbvio? Você e eu estamos ligados por um contrato, então é natural que compreenda o meu estado."::
+51601::$$$message_0444_0064_0000$$$::"Compreender o seu estado...?"[lr]::
+51602::$$$message_0444_0064_0001$$$::"Não sei como você viu isso. O modo como mede a habilidade de um Servo depende do seu próprio padrão. Há Mestres que distinguem isso por cores e outros que comparam a bestas."::
+51603::$$$message_0444_0065_0000$$$::"Em outras palavras, varia de pessoa para pessoa, mas cada um o percebe da maneira que lhe é mais fácil identificar.[lr]::
+51604::$$$message_0444_0065_0001$$$::Isso faz parte do básico de ser um Mestre, então, daqui em diante, verifique isso com frequência. Você deve ser capaz de entender os detalhes de alguém depois de vê-lo uma vez."::
+51605::$$$message_0444_0066_0000$$$::...Acho que entendi.[lr]::
+51606::$$$message_0444_0066_0001$$$::Fiquei surpreso por ter sido tão repentino, mas agora talvez eu consiga agir um pouco mais como um Mestre.::
+51607::$$$message_0444_0067_0000$$$::"...Mestre. Essa é a versão abreviada de tudo o que eu podia lhe explicar."[lr]::
+51608::$$$message_0444_0067_0001$$$::"É. Foi muita coisa de uma vez, mas faz sentido. Desculpa pelo incômodo, Saber."::
+51609::$$$message_0444_0068_0000$$$::"...Não há necessidade de se desculpar.[lr]::
+51610::$$$message_0444_0068_0001$$$::Você precisa compreender a situação em que estamos para decidir nossos próximos passos."::
+51611::$$$message_0444_0069_0000$$$::Saber se inclina para a frente, atenta, aguardando minhas próximas palavras.[lr]::
+51612::$$$message_0444_0069_0001$$$::Isso me diz uma coisa.[lr]::
+51613::$$$message_0444_0069_0002$$$::Saber provavelmente é do mesmo tipo que a Tohsaka: alguém que prefere atacar primeiro.::
+51614::$$$message_0444_0070_0000$$$::"Bem, não acho que vamos fazer nada muito diferente.[lr]::
+51615::$$$message_0444_0070_0001$$$::Não pretendo sair por aí caçando outros Mestres para derrotá-los, como a Tohsaka."::
+51616::$$$message_0444_0071_0000$$$::"Shirou, não foi isso que acabamos de discutir. Você não pretende buscar o Santo Graal em sua condição de Mestre?"[lr]::
+51617::$$$message_0444_0071_0001$$$::Os olhos de Saber se estreitam.[lr]::
+51618::$$$message_0444_0071_0002$$$::São os olhos de um cavaleiro sereno, que não aceita discordância.[lr]::
+51619::$$$message_0444_0071_0003$$$::[font italic=true]...[font italic=false][lr]::
+51620::$$$message_0444_0071_0004$$$::Reúno forças para encará-la de volta sem me deixar intimidar e deixo minhas intenções bem claras.::
+51621::$$$message_0444_0072_0000$$$::"Claro que sim. Mas só porque não quero que ele caia em mãos erradas. Eu, pessoalmente, não tenho nenhum motivo especial para desejar o Santo Graal."[lr]::
+51622::$$$message_0444_0072_0001$$$::"Nn...!"::
+51623::$$$message_0444_0073_0000$$$::"Mas isso não quer dizer que eu não vá lutar.[lr]::
+51624::$$$message_0444_0073_0001$$$::Sou um mago, mesmo que amador. Sei que não posso mais recuar agora e que não vou sair vivo dessa se simplesmente ficar parado."::
+51625::$$$message_0444_0074_0000$$$::"Então, nesta luta que você não pode evitar como mago... em vez de lutar para obter o Santo Graal, você está dizendo que luta para impedir o conflito em torno dele?"::
+51626::$$$message_0444_0075_0000$$$::"...? Bem, acho que é isso mesmo. Sim, é isso. Eu não consigo explicar direito, mas sinto que isso é algo pelo qual vale a pena lutar."::
+51627::$$$message_0444_0076_0000$$$::Isso mesmo.[lr]::
+51628::$$$message_0444_0076_0001$$$::Para ser sincero, a ideia de um Santo Graal não parece real para mim.[lr]::
+51629::$$$message_0444_0076_0002$$$::Mas impedir que essas batalhas aconteçam? Por isso eu consigo lutar com tudo o que tenho, e com orgulho.::
+51630::$$$message_0444_0077_0000$$$::"...Não entendo. Você diz que é um mago. Se é assim, deveria desejar a onipotência do Santo Graal. Os magos não dominam sua arte justamente porque têm um desejo que não podem realizar por conta própria?"::
+51631::$$$message_0444_0078_0000$$$::"Não sei bem o que você quer dizer. Eu não tenho desejos impossíveis de realizar. Só tenho um monte de coisas que preciso fazer."[lr]::
+51632::$$$message_0444_0078_0001$$$::É isso.[lr]::
+51633::$$$message_0444_0078_0002$$$::Por isso, acima de tudo, preciso fazer todo o possível para manter os inocentes fora desta batalha.::
+51634::$$$message_0444_0079_0000$$$::"Então isso significa que você não precisa do Santo Graal? Que não vai lutar por ele?"[lr]::
+51635::$$$message_0444_0079_0001$$$::"Não foi isso que eu disse. Já que vou lutar, pretendo sim obter o Santo Graal."::
+51636::$$$message_0444_0080_0000$$$::"Suas palavras são contraditórias. Por que se dar ao trabalho de lutar por algo de que não precisa?"[lr]::
+51637::$$$message_0444_0080_0001$$$::"Hm?"[lr]::
 51638::$$$message_0444_0080_0002$$$::Bem, porque...[lr]::
-51639::$$$message_0444_0080_0003$$$::Ganhar significa obter o Santo Graal, e além disso...::
-51640::$$$message_0444_0081_0000$$$::"Você precisa dele, não? Então precisamos conseguir."[lr]::
-51641::$$$message_0444_0081_0001$$$::"[line8]"::
-51642::$$$message_0444_0082_0000$$$::"Sim, não sei que tipo de pessoa os outros Mestres são.[lr]::
-51643::$$$message_0444_0082_0001$$$::Alguns deles podem ser pessoas muito boas.[lr]::
-51644::$$$message_0444_0082_0002$$$::Mas decidi ser seu aliado. Então se você falar que quer o Santo Graal, então é normal querer te ajudar com toda a minha força, não?"[lr]::
-51645::$$$message_0444_0082_0003$$$::"[line8]"::
-51646::$$$message_0444_0083_0000$$$::"...Bem, é apenas uma opinião que recebi de meu pai, mas ele disse que é preciso ser egoísta para se tonar um herói'.[lr]::
-51647::$$$message_0444_0083_0001$$$::É inútil ajudar a todos, então ele me disse para me aliar com quem gosto e confio."::
-51648::$$$message_0444_0084_0000$$$::"Nunca pensei nisso antes, mas acho que preciso ser assim agora.[lr]::
-51649::$$$message_0444_0084_0001$$$::Não posso lutar por mim.[lr]::
-51650::$$$message_0444_0084_0002$$$::Mas se posso lutar por você, por mim tudo bem."::
-51651::$$$message_0444_0085_0000$$$::E sendo sincero.[lr]::
-51652::$$$message_0444_0085_0001$$$::Se essa garota quer tanto ele, é natural que ela queira conseguir ele pra ela.[lr]::
-51653::$$$message_0444_0085_0002$$$::...Bem, sou um homem, sabe.::
-51654::$$$message_0444_0086_0000$$$::"Então está dizendo que não vai lutar se eu desistir do Santo Graal?"[lr]::
-51655::$$$message_0444_0086_0001$$$::"[line3]Hm."[lr]::
-51656::$$$message_0444_0086_0002$$$::Isso é um problema.[lr]::
-51657::$$$message_0444_0086_0003$$$::Se a Saber falar isso, minha permissão toda desmorona.::
-51658::$$$message_0444_0087_0000$$$::"...Não, ainda seria a mesma coisa. Disse que lutaria.[lr]::
-51659::$$$message_0444_0087_0001$$$::Então não fugirei. Pode ter certeza, Saber."[lr]::
-51660::$$$message_0444_0087_0002$$$::Declaro olhando nos olhos delas.[lr]::
-51661::$$$message_0444_0087_0003$$$::A Saber não responde imediatamente, mas olha pra mim depois de exalar fundo.::
-51662::$$$message_0444_0088_0000$$$::"Entendo. Se você diz isso como Mestre, obedecerei. Meu objetivo é o Santo Graal, e mesmo se seu objetivo for impedir a luta, nossos destinos são os mesmos.[lr]::
-51663::$$$message_0444_0088_0001$$$::[line3]Mas, Shirou."::
-51664::$$$message_0444_0089_0000$$$::A Saber para.[lr]::
-51665::$$$message_0444_0089_0001$$$::Com olhos que parecem olhar para algo muito distante,[lr]::
-51666::$$$message_0444_0089_0002$$$::"Não posso expressar isso em palavras, mas você irá se arrepender depois. ...Com certeza irá."[lr]::
-51667::$$$message_0444_0089_0003$$$::Ela diz essas palavras.::
+51639::$$$message_0444_0080_0003$$$::Vencer significa obter o Santo Graal. E, acima de tudo...::
+51640::$$$message_0444_0081_0000$$$::"Você precisa dele, não é? Então nós temos de conquistá-lo."[lr]::
+51641::$$$message_0444_0081_0001$$$::[font italic=true]...[font italic=false]::
+51642::$$$message_0444_0082_0000$$$::"É, eu não sei que tipo de pessoa são os outros Mestres.[lr]::
+51643::$$$message_0444_0082_0001$$$::Alguns deles podem até ser pessoas muito boas.[lr]::
+51644::$$$message_0444_0082_0002$$$::Mas eu decidi que vou ficar do seu lado. E, se você diz que quer o Santo Graal, então eu vou fazer de tudo para ajudá-la."[lr]::
+51645::$$$message_0444_0082_0003$$$::[font italic=true]...[font italic=false]::
+51646::$$$message_0444_0083_0000$$$::"...Bem, isso é só repetir uma opinião do meu velho, mas, se você quer defender a justiça, precisa ser um egoísta.[lr]::
+51647::$$$message_0444_0083_0001$$$::É inútil tentar ajudar todo mundo, então você precisa se aliar apenas às pessoas de que gosta e em quem confia."::
+51648::$$$message_0444_0084_0000$$$::"Nunca pensei por esse lado, mas agora acho que devo agir assim.[lr]::
+51649::$$$message_0444_0084_0001$$$::Eu não consigo simplesmente lutar por mim mesmo.[lr]::
+51650::$$$message_0444_0084_0002$$$::Mas consigo lutar por você, Saber."::
+51651::$$$message_0444_0085_0000$$$::E, para ser sincero.[lr]::
+51652::$$$message_0444_0085_0001$$$::Se é algo que essa garota deseja com tanta intensidade, é natural que eu queira consegui-lo para ela a qualquer custo.[lr]::
+51653::$$$message_0444_0085_0002$$$::...Quer dizer, não é assim que qualquer cara pensaria?::
+51654::$$$message_0444_0086_0000$$$::"Isso quer dizer que você desistiria da luta se eu abrisse mão do Santo Graal?"[lr]::
+51655::$$$message_0444_0086_0001$$$::"...Hm."[lr]::
+51656::$$$message_0444_0086_0002$$$::Eu não gostaria disso.[lr]::
+51657::$$$message_0444_0086_0003$$$::Mas, se a Saber fizer isso, tudo o que pensei até agora desmorona.::
+51658::$$$message_0444_0087_0000$$$::"...Não. Não muda nada. Eu já disse que vou lutar.[lr]::
+51659::$$$message_0444_0087_0001$$$::Por isso, não vou fugir. Já me decidi, Saber."[lr]::
+51660::$$$message_0444_0087_0002$$$::Declaro isso olhando-a diretamente nos olhos.[lr]::
+51661::$$$message_0444_0087_0003$$$::Saber não responde de imediato. Ela respira fundo e só então volta a olhar para mim.::
+51662::$$$message_0444_0088_0000$$$::"Entendido. Se você diz isso como meu Mestre, eu só posso obedecer. Meu objetivo é o Santo Graal, enquanto o seu é impedir a batalha. Ainda assim, nosso destino final continua sendo o mesmo.[lr]::
+51663::$$$message_0444_0088_0001$$$::...Mas preciso dizer uma coisa, Shirou."::
+51664::$$$message_0444_0089_0000$$$::Saber interrompe a fala.[lr]::
+51665::$$$message_0444_0089_0001$$$::Seu olhar parece se perder muito longe.[lr]::
+51666::$$$message_0444_0089_0002$$$::"Tenho dificuldade de colocar isso em palavras, mas creio que você acabará se arrependendo do que disse. Na verdade, tenho certeza disso."[lr]::
+51667::$$$message_0444_0089_0003$$$::É o que ela diz.::
+
 
