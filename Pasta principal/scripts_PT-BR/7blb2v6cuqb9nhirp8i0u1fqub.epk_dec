@@ -1,83 +1,84 @@
 DAT
 id=qid::label=str::text=lstr::
-37914::$$$message_0327_0000_0000$$$::O dia encerra.[lr]::
-37915::$$$message_0327_0000_0001$$$::As aulas acabaram e os estudantes vão pra casa um atrás do outro.::
-37916::$$$message_0327_0001_0000$$$::"[line8]"[lr]::
-37917::$$$message_0327_0001_0001$$$::Eu poderia ter questionado o Shinji, mas eu não tenho provas agora.[lr]::
-37918::$$$message_0327_0001_0002$$$::Mesmo que eu contasse pra ele sobre ver ele na floresta ontem, não seria de nada se ele me contasse que foi por acaso.::
-37919::$$$message_0327_0002_0000$$$::"...Eu tenho que achar provas antes."[lr]::
-37920::$$$message_0327_0002_0001$$$::Eu não sei se ele é um mestre ou não.[lr]::
-37921::$$$message_0327_0002_0002$$$::Mas eu tenho certeza que ele tem algo a ver com o caso da Mitsuzuri.::
-37922::$$$message_0327_0003_0000$$$::"Como identificar um mestre... Eu só consigo tirar as roupas dele e procurar pelo selo de comando, huh?"[lr]::
-37923::$$$message_0327_0003_0001$$$::Bom, eu tenho certeza que nenhum mestre vai me deixar fazer isso.::
-37924::$$$message_0327_0004_0000$$$::"[line4]É quase hora. A Tohsaka talvez saiba de um bom jeito."[lr]::
-37925::$$$message_0327_0004_0001$$$::Eu me levanto.[lr]::
-37926::$$$message_0327_0004_0002$$$::Eu prometi pra Tohsaka que eu encontraria ela no corredor depois da escola.::
-37927::$$$message_0327_0005_0000$$$::[line3]Eu me junto com a Tohsaka e olho ao redor da escola.[lr]::
-37928::$$$message_0327_0005_0001$$$::De acordo com a Tohsaka, o Campo Limitado tem sua base ao redor da escola.::
-37929::$$$message_0327_0006_0000$$$::A Tohsaka tem procurado e apagado eles, mas parece que eles continuam reaparecendo ou novos são criados, prevenindo que a Tohsaka apague completamente o Campo Limitado.::
-37930::$$$message_0327_0007_0000$$$::"O Campo Limitado já tá preparado.[lr]::
-37931::$$$message_0327_0007_0001$$$::O que eu tô fazendo é enfraquecendo o efeito. É melhor que nada, e eu tenho certeza que o mestre não vai ativar até estar completo."[lr]::
-37932::$$$message_0327_0007_0002$$$::...Esse é o caso de acordo com ela.::
-37933::$$$message_0327_0008_0000$$$::"Tohsaka. Posso te perguntar algo?"[lr]::
-37934::$$$message_0327_0008_0001$$$::Eu chamo a Tohsaka depois que elimina a marca no telhado.::
-37935::$$$message_0327_0009_0000$$$::"O quê? Você ainda sente algo estranho no telhado?"[lr]::
-37936::$$$message_0327_0009_0001$$$::"Ah[line4]não, isso é sobre algo diferente. Eu não sinto nada estranho aqui agora. Eu não consigo sentir nada."::
-37937::$$$message_0327_0010_0000$$$::"Entendi. Acho que apagamos todas as marcas ativas agora.[lr]::
-37938::$$$message_0327_0010_0001$$$::Você não consegue sentir energia mágica, mas você é bem sensível a anormalidades no ar. Eu não achei que conseguiria apagar todas essas marcas tão rápido."::
+37914::$$$message_0327_0000_0000$$$::O dia acaba.[lr]::
+37915::$$$message_0327_0000_0001$$$::As aulas terminam e os alunos vão para casa aos poucos.::
+37916::$$$message_0327_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
+37917::$$$message_0327_0001_0001$$$::Eu até poderia ter interrogado o Shinji mais um pouco, mas não tenho nenhuma prova pra colocar ele contra a parede.[lr]::
+37918::$$$message_0327_0001_0002$$$::Mesmo que ele estivesse na floresta, não vai adiantar nada se ele simplesmente negar.::
+37919::$$$message_0327_0002_0000$$$::"...Preciso encontrar provas concretas primeiro."[lr]::
+37920::$$$message_0327_0002_0001$$$::Ainda não tenho certeza se ele é um Mestre ou não.[lr]::
+37921::$$$message_0327_0002_0002$$$::Mas não resta dúvida de que ele tem algo a ver com o sumiço da Mitsuzuri.::
+37922::$$$message_0327_0003_0000$$$::"Como identificar um Mestre... Só me resta arrancar as roupas deles e procurar pelos Selos de Comando, hein?"[lr]::
+37923::$$$message_0327_0003_0001$$$::Putz, tenho certeza de que nenhum Mestre vai me deixar fazer isso.::
+37924::$$$message_0327_0004_0000$$$::"...Tá quase na hora. A Tohsaka com certeza deve conhecer um jeito bom."[lr]::
+37925::$$$message_0327_0004_0001$$$::Me levanto da carteira.[lr]::
+37926::$$$message_0327_0004_0002$$$::Nós já tínhamos combinado de nos encontrar no corredor depois da aula.::
+37927::$$$message_0327_0005_0000$$$::   Encontro a Tohsaka e dou uma olhada por toda a escola.[lr]::
+37928::$$$message_0327_0005_0001$$$::Segundo ela, existem vários selos espalhados pela escola que ajudam a estabelecer o Campo Limitado.::
+37929::$$$message_0327_0006_0000$$$::A Tohsaka já vem apagando eles nos últimos dias, mas parece que novos selos são criados ou continuam reaparecendo, o que a impede de eliminar o Campo Limitado por completo.::
+37930::$$$message_0327_0007_0000$$$::"O Campo Limitado já está estabelecido.[lr]::
+37931::$$$message_0327_0007_0001$$$::O que estou fazendo é só enfraquecer o efeito dele. É melhor do que nada, e tenho certeza de que o Mestre não vai ativar o Campo Limitado enquanto estiver incompleto, certo?"[lr]::
+37932::$$$message_0327_0007_0002$$$::Pelo menos é o que ela diz.::
+37933::$$$message_0327_0008_0000$$$::"Tohsaka. Posso te perguntar uma coisa?"[lr]::
+37934::$$$message_0327_0008_0001$$$::Chamo ela depois que elimina o selo escondido no telhado.::
+37935::$$$message_0327_0009_0000$$$::"Hã, o quê? Você ainda tá sentindo algo estranho no telhado?"[lr]::
+37936::$$$message_0327_0009_0001$$$::"Ah... Não, é sobre outra coisa. Não tem mais nada de estranho por aqui. Acho que já terminamos."::
+37937::$$$message_0327_0010_0000$$$::"Entendi, então acho que apagamos a maioria dos selos ativos.[lr]::
+37938::$$$message_0327_0010_0001$$$::Você não consegue sentir a energia mágica, mas é muito sensível a anormalidades nos lugares. Eu não achei que a gente conseguiria apagar todos os selos na escola tão rápido."::
 37939::$$$message_0327_0011_0000$$$::A Tohsaka tá de bom humor.[lr]::
-37940::$$$message_0327_0011_0001$$$::Eu tô feliz que eu fui prestativo, mas essa não é a hora pra isso.::
-37941::$$$message_0327_0012_0000$$$::"Tohsaka. Mestres podem reconhecer outros mestres? A presença deles muda se o servo deles estiver em forma de espírito?"[lr]::
-37942::$$$message_0327_0012_0001$$$::"Não, mas... sim, você consegue identificar um mestre se ele não fizer nada pra esconder isso."::
-37943::$$$message_0327_0013_0000$$$::"Todos os mestres são magos, então você pode encontrar eles se você seguir a energia mágica. Adicionalmente, eles formaram um contrato com um ótimo familiar chamado de servo, então a energia mágica deles vai vazar mesmo que eles tentem esconder ela."::
-37944::$$$message_0327_0014_0000$$$::"Você não percebeu nada já que você é devagar, mas eu deixo energia mágica pra trás de mim. Um mago saberia imediatamente que eu sou um mestre, e eu tenho certeza que consigo reconhecer outro mestre se eu ver ele ou ela."::
-37945::$$$message_0327_0015_0000$$$::"Sério...!? Mas você não sabia que eu era um mago. Por quê?"[lr]::
-37946::$$$message_0327_0015_0001$$$::"Quê? Você quer que eu diga?"[lr]::
-37947::$$$message_0327_0015_0002$$$::A Tohsaka soa malvada agora.[lr]::
-37948::$$$message_0327_0015_0003$$$::...Eu tenho um mal pressentimento sobre isso.::
-37949::$$$message_0327_0016_0000$$$::"Não, tá tudo bem. Eu acho que já descobri."[lr]::
-37950::$$$message_0327_0016_0001$$$::"Escolha esperta. Bom, é assim que é. Tem pessoas que tem pequenas quantidades de energia mágica que não são magos. Magos aprovam outros como magos só quando eles tem mais que uma certa quantidade de energia mágica."::
-37951::$$$message_0327_0017_0000$$$::"Sim, sim. Eu percebi isso.[lr]::
-37952::$$$message_0327_0017_0001$$$::...Ah, então o que você sente de mim agora?"::
-37953::$$$message_0327_0018_0000$$$::"Hmm, você não mudou nada.[lr]::
-37954::$$$message_0327_0018_0001$$$::Eu ouvi que foi uma invocação incompleta, então eu aposto que a conexão de vocês é pequena exceto pela cura das suas feridas.[lr]::
-37955::$$$message_0327_0018_0002$$$::Bom, eu acho que isso é possível já que você é um caso especial."::
+37940::$$$message_0327_0011_0001$$$::Bom, fico feliz por ter sido útil, mas não tô no clima pra comemorar agora.::
+37941::$$$message_0327_0012_0000$$$::"Aí, Tohsaka. Os Mestres conseguem reconhecer outros Mestres? Tipo, a presença deles muda mesmo se o Servo estiver escondido?"[lr]::
+37942::$$$message_0327_0012_0001$$$::"Hã? Não, mas... acho que você consegue identificar um Mestre se ele não usar nenhum truque."::
+37943::$$$message_0327_0013_0000$$$::"Todos os Mestres são magos, então dá pra encontrar eles se você procurar por energia mágica. Além disso, eles formaram um contrato com um familiar incrível, então a energia mágica deles vai vazar mesmo se tentarem esconder."::
+37944::$$$message_0327_0014_0000$$$::"Você não percebeu porque é lerdo, mas eu também deixo um rastro de energia mágica. Um mago perceberia na hora que eu sou uma Mestra, e tenho certeza de que consigo reconhecer outro Mestre."::
+37945::$$$message_0327_0015_0000$$$::"Sério...!? Mas Tohsaka, você não sabia que eu era um mago. Por que isso?"[lr]::
+37946::$$$message_0327_0015_0001$$$::"O quê? Você quer mesmo que eu fale?"[lr]::
+37947::$$$message_0327_0015_0002$$$::O tom de voz da Tohsaka muda.[lr]::
+37948::$$$message_0327_0015_0003$$$::...Tô com um mau pressentimento sobre isso.::
+37949::$$$message_0327_0016_0000$$$::"Não, de boa. Acho que acabei de entender."[lr]::
+37950::$$$message_0327_0016_0001$$$::"Garoto esperto. Bom, é assim que as coisas são. Tem pessoas que possuem pequenas quantidades de energia mágica mesmo sem serem magos. Os magos só aprovam outros que tenham pelo menos uma certa quantidade de energia mágica."::
+37951::$$$message_0327_0017_0000$$$::"É, pois é. Imaginei que fosse isso.[lr]::
+37952::$$$message_0327_0017_0001$$$::...Ah, e como eu tô agora?"::
+37953::$$$message_0327_0018_0000$$$::"Hmm, a questão é que você não mudou nadinha.[lr]::
+37954::$$$message_0327_0018_0001$$$::Eu ouvi dizer que foi uma invocação incompleta, então a conexão entre você e a Saber deve ser bem fraca, exceto por ela curar as suas feridas.[lr]::
+37955::$$$message_0327_0018_0002$$$::Bem, acho que isso é possível, já que você é um caso raro."::
 37956::$$$message_0327_0019_0000$$$::...Hm.[lr]::
-37957::$$$message_0327_0019_0001$$$::Então o Shinji não é um mestre.[lr]::
-37958::$$$message_0327_0019_0002$$$::Mesmo que eu não consiga saber, a Tohsaka consegue identificar um mestre.[lr]::
-37959::$$$message_0327_0019_0003$$$::A Tohsaka deve ser capaz de sentir a energia mágica vazada se o Shinji é um mestre com um servo.::
-37960::$$$message_0327_0020_0000$$$::"Ah. você diz que nós temos que procurar mestres, mas deve ser mais fácil assim que começarmos. Nós só precisamos seguir a trilha de energia mágica, certo?"::
-37961::$$$message_0327_0021_0000$$$::"Isso não é verdade. Se eles tem um item que consegue esconder a energia mágica deles, ninguém seria capaz de descobrir eles.[lr]::
-37962::$$$message_0327_0021_0001$$$::...Bom, eu acho que itens que conseguem esconder energia mágica tão grande quanto um servo são raros, então eu não acho que algum mestre tenha um."::
-37963::$$$message_0327_0022_0000$$$::"Então você não consegue detectar um mestre nem que ele esteja próximo de você, se ele tiver um item assim?"::
-37964::$$$message_0327_0023_0000$$$::"Hmm. Dependeria do que ele tem, mas eu acho que conseguiria perceber se eu chegasse perto dele. Enquanto eles tiverem um contrato formado com um servo, atrito com esse mundo vai acontecer."::
-37965::$$$message_0327_0024_0000$$$::"Se eu não conseguir identificar um mestre mesmo quando perto dele, isso significa que esse mestre não tá usando o servo dele.[lr]::
-37966::$$$message_0327_0024_0001$$$::Bom, eu acho que existem exceções, mas esse vai ser o caso nove de dez vezes."::
-37967::$$$message_0327_0025_0000$$$::Nós retornamos pra sala.[lr]::
-37968::$$$message_0327_0025_0001$$$::Mesmo não tendo conseguido encontrar pistas sobre outros mestres, parece que a Tohsaka tá feliz que nós eliminamos várias das marcas.[lr]::
-37969::$$$message_0327_0025_0002$$$::Ela disse algo sobre o inimigo aparecendo no futuro porque nós estamos muito ativos e coisa assim.::
-37970::$$$message_0327_0026_0000$$$::"Você é paciente. Você não sabe quanto vai demorar até isso acontecer, certo?"::
-37971::$$$message_0327_0027_0000$$$::"Sério? Uma pessoa que prepararia um Campo Limitado assim não ficaria quieto se algo assim acontece. Eu tô achando que ele ou ela vai aparecer amanhã.[lr]::
-37972::$$$message_0327_0027_0001$$$::Essa pessoa não vai deixar a mesma coisa acontecer duas vezes."::
+37957::$$$message_0327_0019_0001$$$::Então o Shinji não é um Mestre.[lr]::
+37958::$$$message_0327_0019_0002$$$::Mesmo que eu não consiga perceber, a Tohsaka consegue identificar um Mestre só de olhar.[lr]::
+37959::$$$message_0327_0019_0003$$$::Então ela deveria ser capaz de sentir a energia mágica restante se o Shinji for um Mestre que formou contrato com um Servo.::
+37960::$$$message_0327_0020_0000$$$::"Ah. Você disse que a gente tem que procurar pelos Mestres, mas deve ser fácil assim que começarmos. Nós só precisamos seguir o rastro da energia mágica que fica pra trás, né?"::
+37961::$$$message_0327_0021_0000$$$::"Isso não é verdade. Por exemplo, se eles tiverem uma ferramenta que consegue esconder a energia mágica deles, então ninguém vai conseguir achá-los.[lr]::
+37962::$$$message_0327_0021_0001$$$::...Bom, provavelmente não tem um Mestre assim. Eu duvido que exista uma ferramenta tão conveniente que consiga apagar o nível absurdo de energia mágica que os Servos jogam por aí."::
+37963::$$$message_0327_0022_0000$$$::"Então, mesmo que alguém perto de você seja um Mestre, não daria pra detectar eles se tivessem uma ferramenta dessas?"::
+37964::$$$message_0327_0023_0000$$$::"Não tenho certeza. Depende do item, mas acho que eu conseguiria perceber se estivessem por perto, por mais que tentassem esconder. Enquanto tiverem um contrato com um Servo, o atrito com o mundo vai acontecer."::
+37965::$$$message_0327_0024_0000$$$::"Se eu não consigo detectar um Mestre nem mesmo quando ele tá por perto, quer dizer que esse Mestre não tá usando o seu Servo.[lr]::
+37966::$$$message_0327_0024_0001$$$::Bem, podem até ter exceções, mas acho que esse vai ser o caso nove de dez vezes."::
+37967::$$$message_0327_0025_0000$$$::Voltamos para a sala de aula.[lr]::
+37968::$$$message_0327_0025_0001$$$::Não conseguimos encontrar nenhuma pista sobre outros Mestres, mas a Tohsaka parece satisfeita por termos conseguido apagar a maioria dos selos.[lr]::
+37969::$$$message_0327_0025_0002$$$::Ela disse algo como "o inimigo não vai aguentar ver seus planos sendo atrapalhados tão descaradamente, então não vai demorar pra ele se revelar."::
+37970::$$$message_0327_0026_0000$$$::"Você é paciente. Cê disse que 'não vai demorar', mas não sabemos o quanto de tempo isso vai levar de fato, né?"::
+37971::$$$message_0327_0027_0000$$$::"Sério? Uma pessoa que montou um Campo Limitado desses não vai aguentar ficar parada. Eu chuto que eles vão aparecer amanhã.[lr]::
+37972::$$$message_0327_0027_0001$$$::Eles não são o tipo de pessoa que deixa a mesma coisa acontecer duas vezes."::
 37973::$$$message_0327_0028_0000$$$::"Hmm. Então é assim que é?"[lr]::
-37974::$$$message_0327_0028_0001$$$::"Sim. [line3]Bom, eu tenho algumas coisas a fazer, então eu vou pra casa por agora. Eu tenho que comprar várias coisas em preparação pra amanhã."::
-37975::$$$message_0327_0029_0000$$$::"Te vejo amanhã. Vai pra casa logo, tudo bem? Vai direto pra casa."::
-37976::$$$message_0327_0030_0000$$$::"Hm? Ah, você tá preocupada comigo?"[lr]::
-37977::$$$message_0327_0030_0001$$$::"...! N-Não, só ferra meus planos se meu aliado morrer! Eu só tô confirmando!"::
-37978::$$$message_0327_0031_0000$$$::A Tohsaka fala rapidamente.[lr]::
-37979::$$$message_0327_0031_0001$$$::O pânico é tão diferente dela, e é óbvio que ela só tá escondendo a vergonha.[lr]::
-37980::$$$message_0327_0031_0002$$$::[line3]Entendi.[lr]::
-37981::$$$message_0327_0031_0003$$$::Eu tô começando a entender mais a Tohsaka.::
-37982::$$$message_0327_0032_0000$$$::"Enfim! Você é muito indefeso, então não faz nada perigoso! Eu sou uma exceção, mas os outros mestres vão te matar em questão de segundos!"[lr]::
-37983::$$$message_0327_0032_0001$$$::A Tohsaka se vira e tenta sair.::
-37984::$$$message_0327_0033_0000$$$::"Ah[line8]"[lr]::
-37985::$$$message_0327_0033_0001$$$::Vendo ela sair, eu repentinamente...[lr]::
-37986::$$$message_0327_0033_0002$$$::"Tohsaka. O Archer tá contigo?"[lr]::
-37987::$$$message_0327_0033_0003$$$::...Murmuro algo insignificante.::
-37988::$$$message_0327_0034_0000$$$::"Ele tá. O quê? Você quer falar com ele?"[lr]::
-37989::$$$message_0327_0034_0001$$$::"...Não. Eu só tô me perguntando se vocês tão se dando bem."[lr]::
-37990::$$$message_0327_0034_0002$$$::A Tohsaka me olha pensando na pergunta repentina.::
-37991::$$$message_0327_0035_0000$$$::[line3]Então.::
-37992::$$$message_0327_0036_0000$$$::"Ahhh, entendi.[lr]::
-37993::$$$message_0327_0036_0001$$$::Você não precisa se preocupar. Ele é uma boa pessoa mesmo sendo rebelde. Ele é imaturo contrário a aparência dele, e ele é divertido de ter ao lado."::
-37994::$$$message_0327_0037_0000$$$::Rindo com desdém, Tohsaka desaparece escada abaixo.::
+37974::$$$message_0327_0028_0001$$$::"É assim que é... Bem, tenho coisas a fazer, então vou pra casa agora. Preciso comprar um monte de coisas pra me preparar pra batalha de amanhã."::
+37975::$$$message_0327_0029_0000$$$::"Te vejo amanhã. Vai pra casa cedo hoje, beleza? Vai direto pra casa."::
+37976::$$$message_0327_0030_0000$$$::"Hm? Ah, cê tá preocupado comigo?"[lr]::
+37977::$$$message_0327_0030_0001$$$::"Hnng...! N-não, já que a gente tá cooperando, vai acabar com os meus planos se você bater as botas! Eu só tô me precavendo!"::
+37978::$$$message_0327_0031_0000$$$::Ela tá tagarelando.[lr]::
+37979::$$$message_0327_0031_0001$$$::Mas esse contraste com como ela age normalmente me diz o quanto ela tá nervosa.[lr]::
+37980::$$$message_0327_0031_0002$$$::   Pois é.[lr]::
+37981::$$$message_0327_0031_0003$$$::Acho que tô começando a entender como ela funciona.::
+37982::$$$message_0327_0032_0000$$$::"Enfim! Você é muito indefeso, então não faz nada descuidado! Eu sou uma exceção, mas outros Mestres vão te matar em questão de segundos!"[lr]::
+37983::$$$message_0327_0032_0001$$$::A Tohsaka desvia o olhar e tenta ir embora.::
+37984::$$$message_0327_0033_0000$$$::"Ah..."[lr]::
+37985::$$$message_0327_0033_0001$$$::Ao ver ela indo, de repente...[lr]::
+37986::$$$message_0327_0033_0002$$$::"Tohsaka. O Archer tá do seu lado agora também?"[lr]::
+37987::$$$message_0327_0033_0003$$$::Pergunto algo sem sentido.::
+37988::$$$message_0327_0034_0000$$$::"Ele tá, mas por quê? Cê quer falar algo pra ele?"[lr]::
+37989::$$$message_0327_0034_0001$$$::"...Não, na verdade não. Eu só tava me perguntando se vocês dois tão se dando bem."[lr]::
+37990::$$$message_0327_0034_0002$$$::A Tohsaka olha pra mim surpresa com a minha pergunta repentina.::
+37991::$$$message_0327_0035_0000$$$::   E então...::
+37992::$$$message_0327_0036_0000$$$::"Heh, entendi.[lr]::
+37993::$$$message_0327_0036_0001$$$::É, não se preocupa. Ele é um cara legal, mesmo sendo mó misantropo. Apesar do que você possa pensar, ele é meio infantil. Acho que chega a ser até engraçado."::
+37994::$$$message_0327_0037_0000$$$::Rindo de canto, a Tohsaka desaparece escada abaixo.::
+

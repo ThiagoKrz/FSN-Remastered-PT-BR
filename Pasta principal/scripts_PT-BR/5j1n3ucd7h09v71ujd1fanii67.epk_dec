@@ -1,61 +1,62 @@
 DAT
 id=qid::label=str::text=lstr::
-30954::$$$message_0246_0000_0000$$$::Eu não sei o que vai acontecer se eu for pro corredor.[lr]::
-30955::$$$message_0246_0000_0001$$$::Os possíveis planos da Tohsaka não precisam nem ser mencionados, mas eu vou ser ostracizado se os garotos me verem conversando com a ídolo da escola, Tohsaka Rin.::
-30956::$$$message_0246_0001_0000$$$::"Eu vou ignorar ela. Eu vou fingir que não vi ela."[lr]::
-30957::$$$message_0246_0001_0001$$$::Eu pego meu almoço pra fora da minha carteira.[lr]::
-30958::$$$message_0246_0001_0002$$$::...É perigoso comer meu almoço na classe, mas é ainda mais perigoso sair no corredor e ser pego pela Tohsaka.::
-30959::$$$message_0246_0002_0000$$$::Eu vou me esconder nessa classe hoje.[lr]::
-30960::$$$message_0246_0002_0001$$$::Eu tenho certeza que a Tohsaka não vai ter como quebrar pela proteção impenetrável da classe em horário de almoço.::
-30961::$$$message_0246_0003_0000$$$::"Huh? A Tohsaka-san voltou pra classe A."[lr]::
-30962::$$$message_0246_0003_0001$$$::"Ah, então a gente nunca vai saber porque ela tava aqui?[lr]::
-30963::$$$message_0246_0003_0002$$$::...Bom, talvez ela só estivesse dando uma volta. A Tohsaka parece fazer umas doideiras de vez em quando, não é? Você sabe a história de quando ela quase pulou do telhado tentando dar um fora em um garoto do terceiro ano que queria sair com ela?"::
-30964::$$$message_0246_0004_0000$$$::"Você tá errado. É o garoto que quase pulou. Ela disse que sairia com ele se ele ficasse na borda do telhado um dia inteiro com ela. Aquele garoto não veio pra escola por dias depois daquilo.[lr]::
-30965::$$$message_0246_0004_0001$$$::...Mas eu me pergunto por que ela fez algo assim.[lr]::
-30966::$$$message_0246_0004_0002$$$::A Tohsaka-san é do tipo que simplesmente diria não."::
-30967::$$$message_0246_0005_0000$$$::"Ah, aquilo? De acordo com a Tohsaka, é a teoria de se apaixonar numa ponte. Ela pensou que não conseguiria amar ele, então ela tentou gastar um dia inteiro sob um estado tenso pra ver se ela se apaixonaria por ele. Ela é incrível, mais do que qualquer um de nós plebeus conseguimos pensar."::
-30968::$$$message_0246_0006_0000$$$::"......"[lr]::
-30969::$$$message_0246_0006_0001$$$::Eu paro enquanto eu abro minha lancheira.[lr]::
-30970::$$$message_0246_0006_0002$$$::...A Tohsaka tinha uma lenda assim, huh? ...Tudo bem, eu vou tomar cuidado na próxima vez que eu for pro telhado com ela.::
-30971::$$$message_0246_0007_0000$$$::"Huh? Que azar, a Tohsaka-san voltou!"[lr]::
-30972::$$$message_0246_0007_0001$$$::"...Mas ela tá diferente agora. Ela tava pronta pra matar alguém antes, mas ela tá tão calma que eu sinto calafrios."[lr]::
-30973::$$$message_0246_0007_0002$$$::"Esse é o sorriso de um anjo. Eu acho que isso mostra a determinação de 'se é assim que você vai fazer, eu não vou me segurar pra você'."::
-30974::$$$message_0246_0008_0000$$$::"[line3]Hm?"[lr]::
+30954::$$$message_0246_0000_0000$$$::Não sei o que vai ser de mim se eu sair pro corredor.[lr]::
+30955::$$$message_0246_0000_0001$$$::Não preciso nem dizer que a Tohsaka tá tramando alguma coisa, mas se os caras da sala me virem conversando com a ídola da 2-A, vou virar o alvo de todo mundo.::
+30956::$$$message_0246_0001_0000$$$::"É, eu vou só ignorar. Fingir que não vi."[lr]::
+30957::$$$message_0246_0001_0001$$$::Eu tiro meu almoço da carteira.[lr]::
+30958::$$$message_0246_0001_0002$$$::...É perigoso comer aqui, mas é ainda pior sair no corredor e ser pego pela Tohsaka.::
+30959::$$$message_0246_0002_0000$$$::Vou ficar escondido aqui na sala o almoço inteiro.[lr]::
+30960::$$$message_0246_0002_0001$$$::A Tohsaka não tem como furar a barreira impenetrável que é a sala de aula na hora do almoço.::
+30961::$$$message_0246_0003_0000$$$::"Hã? A Tohsaka voltou pra sala dela."[lr]::
+30962::$$$message_0246_0003_0001$$$::"Ah, então a gente nunca vai saber o que ela veio fazer aqui?[lr]::
+30963::$$$message_0246_0003_0002$$$::...Bom, talvez estivesse só dando uma volta. A Tohsaka parece fazer umas loucuras de vez em quando, né? Ouviram a história de quando ela quase pulou do telhado, mesmo tendo sido ela quem deu um fora num veterano do terceiro ano?"::
+30964::$$$message_0246_0004_0000$$$::"Cê entendeu tudo errado. Foi o veterano que ia pular. Ela disse que sairia com ele se ele pulasse a grade e ficasse parado na beirada do telhado com ela o dia inteiro. O cara ficou dias sem vir pra escola depois dessa.[lr]::
+30965::$$$message_0246_0004_0001$$$::...Mas por que será que ela fez um negócio desses?[lr]::
+30966::$$$message_0246_0004_0002$$$::A Tohsaka é do tipo que simplesmente diria não se não quisesse."::
+30967::$$$message_0246_0005_0000$$$::"Ah, tão falando daquilo? A Tohsaka disse alguma coisa sobre o efeito da ponte pênsil. Como ela achou que não ia conseguir se apaixonar por ele, pensou que talvez desenvolvesse sentimentos se os dois passassem um dia inteiro juntos numa situação de tensão. É algo que nós, meros mortais, jamais cogitaríamos, de fato."::
+30968::$$$message_0246_0006_0000$$$::"..."[lr]::
+30969::$$$message_0246_0006_0001$$$::Eu travo na mesma hora, enquanto abro minha lancheira.[lr]::
+30970::$$$message_0246_0006_0002$$$::...Eu não sabia que a Tohsaka tinha uma lenda dessas... Beleza, vou ter que tomar cuidado da próxima vez que for pro telhado com ela.::
+30971::$$$message_0246_0007_0000$$$::"Opa? É, a Tohsaka voltou!"[lr]::
+30972::$$$message_0246_0007_0001$$$::"...Cês não acham que ela tá meio diferente? Antes ela parecia pronta pra matar um, mas agora tá tão calma que me dá até arrepios."[lr]::
+30973::$$$message_0246_0007_0002$$$::"Isso sim é o sorriso de um anjo. É aquele olhar de determinação que diz 'se você vai vir com tudo, eu também não vou me segurar!'."::
+30974::$$$message_0246_0008_0000$$$::"...Hm?"[lr]::
 30975::$$$message_0246_0008_0001$$$::Eu sinto um calafrio terrível.[lr]::
-30976::$$$message_0246_0008_0002$$$::Deve ser por causa do treino da Saber, já que minha habilidade de perceber perigo tá mais afiada.::
-30977::$$$message_0246_0009_0000$$$::"......"[lr]::
-30978::$$$message_0246_0009_0001$$$::Eu dou uma olhada no corredor.[lr]::
-30979::$$$message_0246_0009_0002$$$::A Tohsaka tá parada ali sorrindo com uma borracha que ela deve ter trazido da classe dela.[lr]::
-30980::$$$message_0246_0009_0003$$$::Nesse instante...::
-30981::$$$message_0246_0010_0000$$$::A borracha que ela jogou acerta bem na minha cabeça.::
-30982::$$$message_0246_0010_0001$$$::"O quê!? O Emiya-kun repentinamente caiu...!?"[lr]::
-30983::$$$message_0246_0010_0002$$$::"Sem chance! O que você fez, Emiya! Tinha alguma casca de banana em baixo da sua carteira!?"[lr]::
-30984::$$$message_0246_0010_0003$$$::"Isso é um movimento ninja!? É um, Emiya!?"::
-30985::$$$message_0246_0010_0004$$$::"Ah... ai[line4]"[lr]::
-30986::$$$message_0246_0010_0005$$$::Todo mundo faz uma comoção sobre o incidente estranho.[lr]::
-30987::$$$message_0246_0010_0006$$$::Eles cercam a mim, que virou junto com minha carteira, e me olham preocupados... não, curiosos.::
-30988::$$$message_0246_0010_0007$$$::"Obrigado... Espera, o que pareceu pra você, Gotou?"[lr]::
-30989::$$$message_0246_0010_0008$$$::"Hm? Você pareceu dar um giro. Pareceu que você deu um giro enquanto sentado nessa cadeira."[lr]::
-30990::$$$message_0246_0010_0009$$$::O Gotou-kun pede pra eu ensinar ele.[lr]::
-30991::$$$message_0246_0010_0010$$$::Bom, eu tenho certeza que vai ser uma boa risada se ele der um giro no instante que o professor apontar pra ele, então eu consigo entender porque ele tá com inveja de mim.[lr]::
-30992::$$$message_0246_0010_0011$$$::Mas esse não é o problema agora.::
-30993::$$$message_0246_0011_0000$$$::O demônio que atirou essa borracha bala tá me olhando pra atirar outra.::
-30994::$$$message_0246_0012_0000$$$::"Desculpa, Gotou. Falo com você mais tarde. Eu tenho negócios urgentes."[lr]::
-30995::$$$message_0246_0012_0001$$$::A carteira tá segura, então eu seguro meu almoço e me levanto.[lr]::
-30996::$$$message_0246_0012_0002$$$::...Mas isso dói.[lr]::
-30997::$$$message_0246_0012_0003$$$::Mais do que o quadril que eu acertei, a testa onde a borracha me acertou tá doendo.::
+30976::$$$message_0246_0008_0002$$$::O treino da Saber parece estar dando frutos, já que meu sentido de perigo tá bem mais afiado.::
+30977::$$$message_0246_0009_0000$$$::"..."[lr]::
+30978::$$$message_0246_0009_0001$$$::Eu dou uma espiada no corredor.[lr]::
+30979::$$$message_0246_0009_0002$$$::A Tohsaka tá parada lá, sorrindo, segurando uma borracha que deve ter pego na sala dela.[lr]::
+30980::$$$message_0246_0009_0003$$$::Num instante...::
+30981::$$$message_0246_0010_0000$$$::A dita borracha voa e acerta em cheio a minha testa.::
+30982::$$$message_0246_0010_0001$$$::"O quê!? O Emiya virou pra trás do nada...!?"[lr]::
+30983::$$$message_0246_0010_0002$$$::"Que isso! O que aconteceu, Emiya? Cê instalou um motor na sua cadeira!?"[lr]::
+30984::$$$message_0246_0010_0003$$$::"Isso é algum golpe ninja!? É, Emiya!?"::
+30985::$$$message_0246_0010_0004$$$::"Ah... Ai..."[lr]::
+30986::$$$message_0246_0010_0005$$$::O Gotou e os outros fazem o maior escândalo por causa disso.[lr]::
+30987::$$$message_0246_0010_0006$$$::Caí no chão, cadeira e tudo. Os outros me cercam e oferecem ajuda, embora me olhem com olhos ansiosos... não, empolgados.::
+30988::$$$message_0246_0010_0007$$$::"Ugh, valeu... Espera, o que pareceu pra você, Gotou?"[lr]::
+30989::$$$message_0246_0010_0008$$$::"Hm? Pareceu que você deu um salto mortal. Tipo uma estrela, só que ainda sentado na cadeira."[lr]::
+30990::$$$message_0246_0010_0009$$$::Gotou implora pra que eu ensine como se faz.[lr]::
+30991::$$$message_0246_0010_0010$$$::Bom, não há dúvida de que seria hilário ele dar um mortal assim que o professor chamasse o nome dele, então dá pra entender por que ele ficou com inveja.[lr]::
+30992::$$$message_0246_0010_0011$$$::Mas isso não vem ao caso agora.::
+30993::$$$message_0246_0011_0000$$$::O meu problema real é o demônio no corredor que atirou essa bala mágica, já preparando a segunda e decidindo como vai me atingir dessa vez.::
+30994::$$$message_0246_0012_0000$$$::"Foi mal, Gotou. Depois a gente se fala. Tenho um negócio urgente pra resolver."[lr]::
+30995::$$$message_0246_0012_0001$$$::Minha carteira saiu intacta, então só pego meu almoço e me levanto.[lr]::
+30996::$$$message_0246_0012_0002$$$::...Mas como dói.[lr]::
+30997::$$$message_0246_0012_0003$$$::Mais do que o quadril onde caí, a minha testa, onde a borracha acertou em cheio, tá latejando, droga.::
 30998::$$$message_0246_0013_0000$$$::"Tohsaka, você...!"[lr]::
-30999::$$$message_0246_0013_0001$$$::Eu grito com a atiradora enquanto segurando minha testa vermelha.::
-31000::$$$message_0246_0014_0000$$$::"Heh, é sua culpa por ficar parado de mente vazia.[lr]::
-31001::$$$message_0246_0014_0001$$$::É legal almoçar pacificamente, mas você não tá na posição de fazer isso, certo?"::
-31002::$$$message_0246_0015_0000$$$::"Hm... Mas virar uma pessoa é exagerar. Eu teria morrido se fosse azarado."[lr]::
-31003::$$$message_0246_0015_0001$$$::"Sem chance. Você não tem um corpo que morreria tão facilmente.[lr]::
-31004::$$$message_0246_0015_0002$$$::...Bom, eu não ligo pra isso. Eu quero conversar com você, então me segue."::
-31005::$$$message_0246_0016_0000$$$::"Conversar comigo? A gente vai ter uma reunião estratégica?"[lr]::
-31006::$$$message_0246_0016_0001$$$::"Óbvio. Vamos correr. A gente não tem muito tempo já que você tomou o seu. O intervalo vai acabar se a gente não correr."::
-31007::$$$message_0246_0017_0000$$$::Ela desvia o olhar envergonhadamente e começa a caminhar.[lr]::
-31008::$$$message_0246_0017_0001$$$::"......?"[lr]::
-31009::$$$message_0246_0017_0002$$$::Sou só eu?[lr]::
-31010::$$$message_0246_0017_0003$$$::Parece que a Tohsaka não tá se sentindo bem...::
-31011::$$$message_0246_0018_0000$$$::Então.[lr]::
+30999::$$$message_0246_0013_0001$$$::Eu esbravejo contra a atiradora da bala mágica enquanto seguro minha testa vermelha.::
+31000::$$$message_0246_0014_0000$$$::"Heh, a culpa é sua por ficar aí moscando de mente vazia.[lr]::
+31001::$$$message_0246_0014_0001$$$::É legal almoçar em paz, mas você não tá bem em posição de fazer isso, né?"::
+31002::$$$message_0246_0015_0000$$$::"Ugh... Mas jogar com força o bastante pra virar alguém de costas... Eu poderia ter morrido se não tivesse sorte."[lr]::
+31003::$$$message_0246_0015_0001$$$::"Duvido muito. Você não parece ter um corpo que morre tão fácil assim.[lr]::
+31004::$$$message_0246_0015_0002$$$::...Mas enfim, não ligo pra isso. A gente precisa conversar, então vem comigo."::
+31005::$$$message_0246_0016_0000$$$::"Conversar sobre o quê...? Cê quer dizer uma reunião de estratégia?"[lr]::
+31006::$$$message_0246_0016_0001$$$::"Óbvio. Vamos logo, anda. Não temos muito tempo já que você ficou aí enrolando. O intervalo já vai acabar."::
+31007::$$$message_0246_0017_0000$$$::Ela desvia o olhar, meio sem jeito, e começa a andar.[lr]::
+31008::$$$message_0246_0017_0001$$$::Será que...[lr]::
+31009::$$$message_0246_0017_0002$$$::É impressão minha, ou...[lr]::
+31010::$$$message_0246_0017_0003$$$::A Tohsaka não parece estar se sentindo muito bem?::
+31011::$$$message_0246_0018_0000$$$::E então...[lr]::
 31012::$$$message_0246_0018_0001$$$::Ela me traz pro telhado vazio.::
+

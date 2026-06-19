@@ -1,97 +1,98 @@
 DAT
 id=qid::label=str::text=lstr::
-31649::$$$message_0254_0000_0000$$$::"Huh?"[lr]::
-31650::$$$message_0254_0000_0001$$$::Quando eu percebo, eu estou em um lugar estranho.[lr]::
-31651::$$$message_0254_0000_0002$$$::A terra desolada é infinita, e eu não consigo enxergar além do horizonte não importa o quanto eu tente.[lr]::
-31652::$$$message_0254_0000_0003$$$::O incessante vento levanta a poeira dourada, ardendo meus olhos.::
-31653::$$$message_0254_0001_0000$$$::"[line8]"[lr]::
-31654::$$$message_0254_0001_0001$$$::Eu estou de pé com a mente vazia no meio disso tudo.[lr]::
-31655::$$$message_0254_0001_0002$$$::Não há porque se apressar.[lr]::
-31656::$$$message_0254_0001_0003$$$::Eu conheço esse cenário.[lr]::
-31657::$$$message_0254_0001_0004$$$::Eu me lembro de ver ele em um sonho antes.[lr]::
-31658::$$$message_0254_0001_0005$$$::Então eu entendo que isso é um sonho e espero o sonho acabar.::
-31659::$$$message_0254_0002_0000$$$::"[line4]?"[lr]::
-31660::$$$message_0254_0002_0001$$$::Eu repentinamente sinto algo estranho no meu braço.[lr]::
-31661::$$$message_0254_0002_0002$$$::Um som metálico.[lr]::
-31662::$$$message_0254_0002_0003$$$::Eu me pergunto o que poderia ser e arregaço minha manga.[lr]::
-31663::$$$message_0254_0002_0004$$$::Aí está meu braço, como uma espada.::
-31664::$$$message_0254_0003_0000$$$::"Uwaaaaaaaaaaa!!!!!"[lr]::
-31665::$$$message_0254_0003_0001$$$::Eu pulo pra fora do meu futon.[lr]::
-31666::$$$message_0254_0003_0002$$$::Eu checo meu braço direito antes mesmo de perceber que tô no meu quarto.::
-31667::$$$message_0254_0004_0000$$$::"Ah[line4]eh?"[lr]::
+31649::$$$message_0254_0000_0000$$$::"Hã?"[lr]::
+31650::$$$message_0254_0000_0001$$$::Quando dou por mim, percebo que estou num lugar fantástico.[lr]::
+31651::$$$message_0254_0000_0002$$$::Uma terra desolada e infinita, até onde os olhos podem ver.[lr]::
+31652::$$$message_0254_0000_0003$$$::O vento incessante joga poeira dourada nos meus olhos.::
+31653::$$$message_0254_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
+31654::$$$message_0254_0001_0001$$$::Estou de pé, com a mente vazia, no meio de tudo isso.[lr]::
+31655::$$$message_0254_0001_0002$$$::Não vejo motivo para confusão ou pânico.[lr]::
+31656::$$$message_0254_0001_0003$$$::Eu conheço essa paisagem.[lr]::
+31657::$$$message_0254_0001_0004$$$::Eu já sonhei com isso antes.[lr]::
+31658::$$$message_0254_0001_0005$$$::Então isso também deve ser um sonho. Estou lúcido o bastante para só esperar que acabe.::
+31659::$$$message_0254_0002_0000$$$::"...?"[lr]::
+31660::$$$message_0254_0002_0001$$$::De repente, sinto algo estranho no meu braço.[lr]::
+31661::$$$message_0254_0002_0002$$$::Um barulho metálico.[lr]::
+31662::$$$message_0254_0002_0003$$$::Quando arregaço a manga...[lr]::
+31663::$$$message_0254_0002_0004$$$::Meu braço agora é feito de lâminas.::
+31664::$$$message_0254_0003_0000$$$::"Ahhh!!!"[lr]::
+31665::$$$message_0254_0003_0001$$$::Pulo da cama num susto.[lr]::
+31666::$$$message_0254_0003_0002$$$::Antes de perceber que estou no meu quarto, dou uma olhada no meu braço direito.::
+31667::$$$message_0254_0004_0000$$$::"Oh... hã?"[lr]::
 31668::$$$message_0254_0004_0001$$$::...Tá tudo bem.[lr]::
-31669::$$$message_0254_0004_0002$$$::Meu braço direito é meu braço direito.[lr]::
-31670::$$$message_0254_0004_0003$$$::Não é ferro, nem é uma espada.::
-31671::$$$message_0254_0005_0000$$$::"[line4]Foi um sonho."[lr]::
-31672::$$$message_0254_0005_0001$$$::Eu suspiro em alívio.[lr]::
-31673::$$$message_0254_0005_0002$$$::Eu não sei porque eu vi um sonho assim, mas deve ter a ver com eu ter feito um contrato com a Saber.::
-31674::$$$message_0254_0006_0000$$$::"...Eu acho que vou perguntar pra Tohsaka quando eu tiver a chance. Mais importante, eu tenho que preparar o café da manhã agora."[lr]::
-31675::$$$message_0254_0006_0001$$$::É antes das seis horas.[lr]::
-31676::$$$message_0254_0006_0002$$$::Mesmo a Sakura não vindo pra cá, a Saber e a Fuji-nee ainda tão aqui.[lr]::
-31677::$$$message_0254_0006_0003$$$::É tarde demais se eu for fazer café da manhã pra três.::
-31678::$$$message_0254_0007_0000$$$::Eu vou até a sala de estar silenciosamente.[lr]::
-31679::$$$message_0254_0007_0001$$$::"......Hm."[lr]::
-31680::$$$message_0254_0007_0002$$$::Eu paro e tento entender como elas tão no outro lado dessa parede.[lr]::
-31681::$$$message_0254_0007_0003$$$::...Eu ouço a respiração adormecida da Fuji-nee e a respiração normal da Saber.::
-31682::$$$message_0254_0008_0000$$$::"[line8]Uh."[lr]::
-31683::$$$message_0254_0008_0001$$$::Eu devo ter deixado minha guarda cair, já que eu imagino a imagem do quarto.[lr]::
-31684::$$$message_0254_0008_0002$$$::Eu escondo meu rosto corado com minha mão e respiro o ar frio.::
-31685::$$$message_0254_0009_0000$$$::"...Eu preciso de mais treinamento. Eu vou ir preparar o café da manhã agora."[lr]::
-31686::$$$message_0254_0009_0001$$$::Eu balanço minha cabeça e começo a andar.[lr]::
+31669::$$$message_0254_0004_0002$$$::Meu braço direito tá normal.[lr]::
+31670::$$$message_0254_0004_0003$$$::Não tá duro como ferro, nem virou lâminas.::
+31671::$$$message_0254_0005_0000$$$::"...Foi um sonho."[lr]::
+31672::$$$message_0254_0005_0001$$$::Suspiro de alívio.[lr]::
+31673::$$$message_0254_0005_0002$$$::Não sei por que tive um sonho desses, mas deve ter a ver com o fato de eu ter feito um contrato com a Saber.::
+31674::$$$message_0254_0006_0000$$$::"...Acho que vou perguntar para a Tohsaka quando tiver a chance. Mais importante que isso, preciso preparar o café da manhã."[lr]::
+31675::$$$message_0254_0006_0001$$$::São antes das seis da manhã.[lr]::
+31676::$$$message_0254_0006_0002$$$::Embora a Sakura não venha a partir de hoje, ainda tem a Saber e a Fuji-nee.[lr]::
+31677::$$$message_0254_0006_0003$$$::Já é tarde para começar a preparar o café da manhã para nós três, mesmo agora.::
+31678::$$$message_0254_0007_0000$$$::Vou para a sala de estar, tentando não fazer barulho.[lr]::
+31679::$$$message_0254_0007_0001$$$::"...Hm?"[lr]::
+31680::$$$message_0254_0007_0002$$$::Paro e tento perceber como elas estão do outro lado da porta.[lr]::
+31681::$$$message_0254_0007_0003$$$::...Consigo ouvir o ronco agitado da Fuji-nee e a respiração suave da Saber.::
+31682::$$$message_0254_0008_0000$$$::"Putz."[lr]::
+31683::$$$message_0254_0008_0001$$$::Minha guarda deve ter baixado quando pensei em como deve estar lá dentro.[lr]::
+31684::$$$message_0254_0008_0002$$$::Escondo meu rosto corado com as mãos e respiro o ar gelado de fora.::
+31685::$$$message_0254_0009_0000$$$::"...Preciso de mais treinamento. Deixa eu ir fazer o café da manhã."[lr]::
+31686::$$$message_0254_0009_0001$$$::Balanço a cabeça e saio andando.[lr]::
 31687::$$$message_0254_0009_0002$$$::...Mas...[lr]::
-31688::$$$message_0254_0009_0003$$$::Não é bom pra minha saúde mental ter garotas ficando na mesma casa que eu...::
-31689::$$$message_0254_0010_0000$$$::"Eu tô indo agora. Não chega atrasado mesmo se for sozinho, tudo bem?"[lr]::
-31690::$$$message_0254_0010_0001$$$::"Sim, sim. Dá seu melhor no trabalho matutino também."[lr]::
-31691::$$$message_0254_0010_0002$$$::"Sim. Obrigado, Shirou, sua comida tava muito boa."[lr]::
-31692::$$$message_0254_0010_0003$$$::A Fuji-nee se curva e vai pra escola.::
-31693::$$$message_0254_0011_0000$$$::"[line4]Bom."[lr]::
-31694::$$$message_0254_0011_0001$$$::Eu ainda tenho mais trinta minutos.[lr]::
-31695::$$$message_0254_0011_0002$$$::Eu já terminei de arrumar, então eu vou agir na decisão que eu fiz ontem.::
-31696::$$$message_0254_0012_0000$$$::As feridas e raladas de ontem a noite se curaram.[lr]::
-31697::$$$message_0254_0012_0001$$$::Eu tenho algum tempo, então eu vou ir treinar com a Saber.::
-31698::$$$message_0254_0013_0000$$$::"Ha[line4]guh[line4]!"[lr]::
-31699::$$$message_0254_0013_0001$$$::O som das nossas shinais ecoam.[lr]::
-31700::$$$message_0254_0013_0002$$$::Os sons de colisão são impressionantes.[lr]::
-31701::$$$message_0254_0013_0003$$$::Eu acho que eu não consigo pegar a frase "aprender assistindo os outros" muito leve.[lr]::
-31702::$$$message_0254_0013_0004$$$::Só imaginando um modelo faz minha shinai bem mais leve e fácil de usar.::
-31703::$$$message_0254_0014_0000$$$::"[line8]"[lr]::
-31704::$$$message_0254_0014_0001$$$::Como de costume, a Saber tá repelindo meus ataques sem perder a respiração.::
-31705::$$$message_0254_0015_0000$$$::Mas tem algo errado com ela nessa manhã?[lr]::
-31706::$$$message_0254_0015_0001$$$::Até ontem, eu teria recebido um contra ataque e teria desmaiado no instante que ela me repelisse. Mas os contra ataques dela hoje são desviáveis se eu me desespero.[lr]::
-31707::$$$message_0254_0015_0002$$$::...Bom, por desviável, eu digo que eu não desmaio. Os contra ataques da Saber ainda são muito efetivos.::
-31708::$$$message_0254_0016_0000$$$::"[line4]Ufa."[lr]::
-31709::$$$message_0254_0016_0001$$$::Eu coloco minha shinai no chão e respiro fundo.[lr]::
-31710::$$$message_0254_0016_0002$$$::O relógio já tá apontando pras oito horas.[lr]::
-31711::$$$message_0254_0016_0003$$$::Já faz uma hora desde que eu comecei a lutar com a Saber.[lr]::
-31712::$$$message_0254_0016_0004$$$::É verdade que a Saber não tava o de sempre, mas eu consegui reagir melhor aos ataques dela e eu me empolguei tanto que eu me esqueci do tempo.::
-31713::$$$message_0254_0017_0000$$$::"Uau, eu gastei bastante suor. ...Mas o que tá errado com você nessa manhã, Saber? Eu tô menos assustado com seus ataques comparado a ontem."::
-31714::$$$message_0254_0018_0000$$$::"Isso não é verdade. Eu lutei com você como eu fiz ontem. Se você acredita que foi mais fácil, então deve ser que você está melhorando."::
-31715::$$$message_0254_0019_0000$$$::"Huh? Eu melhorei?"[lr]::
-31716::$$$message_0254_0019_0001$$$::A Saber balança a cabeça afirmando.[lr]::
-31717::$$$message_0254_0019_0002$$$::...Não parece bajulação, e a Saber não é alguém que diria coisas assim...::
-31718::$$$message_0254_0020_0000$$$::"Sério?"[lr]::
-31719::$$$message_0254_0020_0001$$$::"Eu estou surpresa. Sua técnica é tão diferente de ontem."::
-31720::$$$message_0254_0021_0000$$$::"......Sério? Não, isso não pode ser verdade. Deve ser você que não tá bem hoje. Todos os professores perderiam seus empregos se alguém conseguisse melhorar em um dia ou dois."::
-31721::$$$message_0254_0022_0000$$$::"Eu me sinto da mesma forma... Mas, deixe-me ver. Falando isso claramente, há menos movimentos desnecessários em você agora. Seu corpo já está preparado, então você consegue aprender somente aprendendo técnicas apropriadas."::
-31722::$$$message_0254_0023_0000$$$::"Tem menos movimento desnecessário...?"[lr]::
-31723::$$$message_0254_0023_0001$$$::Pensando nisso, meu corpo realmente se moveu bem hoje.[lr]::
-31724::$$$message_0254_0023_0002$$$::Eu senti como se minha shinai automaticamente repelisse a da Saber, mesmo que meu corpo não conseguisse reagir a isso.::
-31725::$$$message_0254_0024_0000$$$::"...Hmm. Eu só copiei ele..."[lr]::
-31726::$$$message_0254_0024_0001$$$::"Como eu pensei. Você pede para eu lhe ensinar, mas você copia a técnica do Archer, huh?"[lr]::
-31727::$$$message_0254_0025_0000$$$::"Huh? Uau, você consegue perceber!?"[lr]::
-31728::$$$message_0254_0025_0001$$$::"Obviamente. Você não tinha um estilo básico antes. Qualquer um perceberia se uma base entrasse no seu estilo."[lr]::
-31729::$$$message_0254_0026_0000$$$::"Uh... Uhm, não é como se eu tivesse te ignorado. Eu acho que você pode dizer que a figura dele ficou cravada na minha mente porque eu tava com ele ontem[line4]"[lr]::
-31730::$$$message_0254_0026_0001$$$::"Não, você não precisa pedir minha permissão. Eu não tenho reclamações se você ficar mais forte."[lr]::
+31688::$$$message_0254_0009_0003$$$::Não acho que seja bom pra minha saúde mental ter garotas dormindo debaixo do mesmo teto que eu...::
+31689::$$$message_0254_0010_0000$$$::"Vou indo nessa, então. Não vai se atrasar só porque tá sozinho, beleza?"[lr]::
+31690::$$$message_0254_0010_0001$$$::"Tá bom, tá bom. Bom trabalho pra você nessa manhã também."[lr]::
+31691::$$$message_0254_0010_0002$$$::"Valeu. O café da manhã tava uma delícia, Shirou."[lr]::
+31692::$$$message_0254_0010_0003$$$::A Fuji-nee acena e vai pra escola.::
+31693::$$$message_0254_0011_0000$$$::"...Bom."[lr]::
+31694::$$$message_0254_0011_0001$$$::Ainda tenho trinta minutos.[lr]::
+31695::$$$message_0254_0011_0002$$$::Já terminei de arrumar tudo, então é hora de cumprir a promessa de ontem.::
+31696::$$$message_0254_0012_0000$$$::Os ferimentos do corte no meu ombro e de quando caí da escada já cicatrizaram completamente.[lr]::
+31697::$$$message_0254_0012_0001$$$::Além disso, tenho um tempinho, então vou treinar com a Saber logo de manhã.::
+31698::$$$message_0254_0013_0000$$$::"Hah... gah...!"[lr]::
+31699::$$$message_0254_0013_0001$$$::Os sons das nossas espadas de treino ecoam.[lr]::
+31700::$$$message_0254_0013_0002$$$::O bater do bambu faz um som agradável.[lr]::
+31701::$$$message_0254_0013_0003$$$::Aprender observando os outros não pode ser subestimado.[lr]::
+31702::$$$message_0254_0013_0004$$$::Só de visualizar o exemplo antes de segurar minha espada, ela fica bem mais leve e fácil de manejar.::
+31703::$$$message_0254_0014_0000$$$::[font italic=true]...[font italic=false][lr]::
+31704::$$$message_0254_0014_0001$$$::Como de costume, a Saber repele meus ataques sem nem perder o fôlego.::
+31705::$$$message_0254_0015_0000$$$::Mas tem algo de errado com ela nessa manhã?[lr]::
+31706::$$$message_0254_0015_0001$$$::Até ontem, eu teria perdido a consciência no momento em que fosse repelido, mas consigo lidar com os contra-ataques dela hoje.[lr]::
+31707::$$$message_0254_0015_0002$$$::...Bom, quando eu digo lidar, quero dizer que consigo evitar o pior cenário onde a minha visão fica completamente branca, mesmo que os contra-ataques dela ainda sejam muito efetivos.::
+31708::$$$message_0254_0016_0000$$$::"...Ufa."[lr]::
+31709::$$$message_0254_0016_0001$$$::Abaixo minha espada de bambu e solto o calor acumulado nos meus pulmões.[lr]::
+31710::$$$message_0254_0016_0002$$$::O relógio já marca oito horas.[lr]::
+31711::$$$message_0254_0016_0003$$$::Sem nem perceber, uma hora se passou desde que comecei a treinar com a Saber.[lr]::
+31712::$$$message_0254_0016_0004$$$::Já que meu corpo tava reagindo melhor à espada da Saber, e talvez porque ela parecia estar pegando mais leve, foi fácil me empolgar e perder a noção do tempo.::
+31713::$$$message_0254_0017_0000$$$::"Putz, dei uma boa suada... Mas qual é o problema com você nessa manhã, Saber? Não tô sentindo tanta severidade nos seus ataques quanto ontem."::
+31714::$$$message_0254_0018_0000$$$::"Isso não é verdade. Lutei da mesma forma que ontem. Os ataques devem ter parecido mais leves porque suas habilidades estão melhorando."::
+31715::$$$message_0254_0019_0000$$$::"Hã? Minhas habilidades? Sério?"[lr]::
+31716::$$$message_0254_0019_0001$$$::A Saber confirma com a cabeça.[lr]::
+31717::$$$message_0254_0019_0002$$$::...Bom, não parece bajulação, e a Saber nem é do tipo que fala essas coisas, pra começar...::
+31718::$$$message_0254_0020_0000$$$::"Sério mesmo?"[lr]::
+31719::$$$message_0254_0020_0001$$$::"Estou surpresa. Com essa técnica, você parece até outra pessoa comparado a ontem."::
+31720::$$$message_0254_0021_0000$$$::"...Cê acha? Não, isso não pode ser verdade. Você só não tá nos seus melhores dias hoje. Os professores de artes marciais perderiam o emprego se alguém melhorasse tanto em um dia só."::
+31721::$$$message_0254_0022_0000$$$::"Sinto o mesmo, mas... vejamos. Para ser específica, há menos movimentos desnecessários em você agora. Seu corpo já está em forma, então você consegue melhorar apenas aprendendo as técnicas adequadas."::
+31722::$$$message_0254_0023_0000$$$::"Menos movimentos desnecessários...?"[lr]::
+31723::$$$message_0254_0023_0001$$$::...Parando pra pensar, meu corpo realmente se moveu bem hoje de manhã.[lr]::
+31724::$$$message_0254_0023_0002$$$::Era como se minha espada repelisse a da Saber sozinha, mesmo que eu não conseguisse reagir conscientemente.::
+31725::$$$message_0254_0024_0000$$$::"...Hmm. Tudo que eu fiz foi copiar o que ele tava fazendo."[lr]::
+31726::$$$message_0254_0024_0001$$$::"Como eu suspeitava. Você me pede para ensiná-lo, mas usa a técnica do Archer como modelo?"::
+31727::$$$message_0254_0025_0000$$$::"Hã... Pera, então você consegue notar!?"[lr]::
+31728::$$$message_0254_0025_0001$$$::"Naturalmente. Você não tinha um estilo antes, então qualquer um notaria se de repente você passasse a ter um."::
+31729::$$$message_0254_0026_0000$$$::"Eita... Bem, não é como se eu estivesse te ignorando. É que passei um bom tempo com ele ontem, e os movimentos dele ficaram gravados na minha mente..."[lr]::
+31730::$$$message_0254_0026_0001$$$::"Não, você não precisa negar. Não tenho queixas, desde que isso o torne mais forte."[lr]::
 31731::$$$message_0254_0026_0002$$$::...Mentirosa.[lr]::
-31732::$$$message_0254_0026_0003$$$::Qual é a da cara desapontada?::
-31733::$$$message_0254_0027_0000$$$::"Eu tô te falando que eu sinto muito. ...Mesmo que eu quisesse usar você como meu modelo, eu não consigo nem ver como você tá atacando. Nós temos físicos diferentes, então é impossível copiar você."::
-31734::$$$message_0254_0028_0000$$$::"Você certamente está correto. Então eu sou só sua parceira de treinamento, huh?"[lr]::
-31735::$$$message_0254_0028_0001$$$::...Ugh.[lr]::
-31736::$$$message_0254_0028_0002$$$::Eu sinto como se eu tivesse cavado um buraco ainda mais fundo.::
-31737::$$$message_0254_0029_0000$$$::"[line3]Não, não vamos falar muito disso.[lr]::
-31738::$$$message_0254_0029_0001$$$::Enfim, eu consigo lutar um pouco agora."::
-31739::$$$message_0254_0030_0000$$$::"O que você está falando? Sua técnica realmente melhorou, mas ela está no nível de mal conseguir lutar.[lr]::
-31740::$$$message_0254_0030_0001$$$::Não é algo que consiga encarar o Archer ou Berserker, então por favor não desafie eles sozinho sob qualquer condição."::
-31741::$$$message_0254_0031_0000$$$::A Saber declara isso.[lr]::
-31742::$$$message_0254_0031_0001$$$::Parece que ela é um mestre repreendendo um estudante exaltado, e isso traz um sorriso pro meu rosto.[lr]::
-31743::$$$message_0254_0031_0002$$$::Quão charmosa essa mestra pode ser?::
+31732::$$$message_0254_0026_0003$$$::Qual é a dessa cara obviamente insatisfeita?::
+31733::$$$message_0254_0027_0000$$$::"Tô te falando que eu sinto muito. Além disso, mesmo se eu tentar te usar como modelo, não consigo nem ver como você ataca. Sem falar que nossos físicos são muito diferentes. É impossível te copiar."::
+31734::$$$message_0254_0028_0000$$$::"Esse é um ponto válido. Então, eu sou apenas a sua parceira de treino?"[lr]::
+31735::$$$message_0254_0028_0001$$$::...Uuugh.[lr]::
+31736::$$$message_0254_0028_0002$$$::Sinto que acabei de cavar meu próprio buraco ainda mais fundo.::
+31737::$$$message_0254_0029_0000$$$::"...Não. Vamos parar de falar sobre isso.[lr]::
+31738::$$$message_0254_0029_0001$$$::De qualquer forma, tá claro que agora eu consigo lutar um pouco."::
+31739::$$$message_0254_0030_0000$$$::"O que você está dizendo? Suas habilidades melhoraram, mas apenas no nível mínimo.[lr]::
+31740::$$$message_0254_0030_0001$$$::Não é algo com o qual você possa se igualar ao Archer, ao Berserker, nem a mim, então, por favor, não tente desafiar ninguém para uma batalha sozinho."::
+31741::$$$message_0254_0031_0000$$$::A Saber é firme.[lr]::
+31742::$$$message_0254_0031_0001$$$::Ela parece uma mentora repreendendo seu aluno convencido, o que me faz dar um sorriso.[lr]::
+31743::$$$message_0254_0031_0002$$$::Bom, ter uma mentora tão fofa é surpreendentemente divertido.::
+

@@ -1,287 +1,288 @@
 DAT
 id=qid::label=str::text=lstr::
 38530::$$$message_0330_0000_0000$$$::A Caster desapareceu.[lr]::
-38531::$$$message_0330_0000_0001$$$::Só o Archer e eu restamos aqui.::
-38532::$$$message_0330_0001_0000$$$::"......"[lr]::
+38531::$$$message_0330_0000_0001$$$::Só o Archer e eu restamos no templo.::
+38532::$$$message_0330_0001_0000$$$::......[lr]::
 38533::$$$message_0330_0001_0001$$$::A imagem dele me dá nos nervos.[lr]::
-38534::$$$message_0330_0001_0002$$$::O Archer já me salvou duas vezes.[lr]::
-38535::$$$message_0330_0001_0003$$$::A Caster teria tomado meu selo de comando sem ele, e eu tenho certeza que eu teria morrido por aquela chuva de luz.::
+38534::$$$message_0330_0001_0002$$$::Ele já me salvou duas vezes hoje.[lr]::
+38535::$$$message_0330_0001_0003$$$::A Caster teria roubado meus Selos de Comando se não fosse por ele, e tenho certeza de que eu teria morrido por aquela chuva de luz.::
 38536::$$$message_0330_0002_0000$$$::Mas isso é diferente.[lr]::
-38537::$$$message_0330_0002_0001$$$::Eu não posso perdoar ele por deixar a Caster ir[line4]::
+38537::$$$message_0330_0002_0001$$$::Eu não consigo perdoá-lo por ter deixado a Caster escapar...::
 38538::$$$message_0330_0003_0000$$$::"Archer. Por que você deixou a Caster ir?"[lr]::
-38539::$$$message_0330_0003_0001$$$::"É porque agora não é a hora de lutar com ela. Mesmo que eu atacasse ela, ela teria fugido. Não me fala que você não viu ela se teleportar."::
-38540::$$$message_0330_0004_0000$$$::"[line8]"[lr]::
-38541::$$$message_0330_0004_0001$$$::...Isso é certamente verdade.[lr]::
-38542::$$$message_0330_0004_0002$$$::Nós não conseguiríamos pegar a Caster se ela realmente quisesse fugir.[lr]::
-38543::$$$message_0330_0004_0003$$$::Afinal, esse é o território dela.[lr]::
-38544::$$$message_0330_0004_0004$$$::É aquela bruxa.[lr]::
-38545::$$$message_0330_0004_0005$$$::Mesmo que ela possa ter estado fraca, eu tenho certeza que ela ainda tinha pelo menos mais um ou dois truques na manga dela.::
-38546::$$$message_0330_0005_0000$$$::"Parece que você entende agora. Se nós quisermos derrotar a Caster, nós precisamos derrotar o mestre dela. Mesmo que ela consiga se teleportar, ela vai eventualmente desaparecer se nós derrotarmos o mestre dela."::
-38547::$$$message_0330_0006_0000$$$::...Ir atrás do mestre e não do servo.[lr]::
-38548::$$$message_0330_0006_0001$$$::Esse é o correto e mais seguro caminho para guerra do santo graal.::
-38549::$$$message_0330_0007_0000$$$::"...Eu sei disso. Mas você vai deixar ela ir?[lr]::
-38550::$$$message_0330_0007_0001$$$::Os incidentas na cidade são todos culpa dela. Vão haver ainda mais vitímas até nós pararmos a Caster. Eu não consigo ignorar ela e deixar ela livre."::
-38551::$$$message_0330_0008_0000$$$::"Por quê? Não é algo perigoso para você. Na verdade, eu gostaria que ela continuasse.[lr]::
-38552::$$$message_0330_0008_0001$$$::A Caster vai continuar sugando energia mágica e eventualmente derrotar o Berserker. Nós podemos derrotar a Caster depois disso.[lr]::
-38553::$$$message_0330_0008_0002$$$::A Rin e eu conseguimos derrotar a Caster, mas não o Berserker. Eu vou deixar a Caster fazer o que quiser até ela derrotar o Berserker."::
-38554::$$$message_0330_0009_0000$$$::"[line8]"[lr]::
-38555::$$$message_0330_0009_0001$$$::Minha cabeça aquece.[lr]::
-38556::$$$message_0330_0009_0002$$$::Eu me irrito tanto que eu quero socar o Archer.::
-38557::$$$message_0330_0010_0000$$$::"[line3]Não seja ridículo. A Tohsaka não faria algo assim."::
-38558::$$$message_0330_0011_0000$$$::"Você tem razão. É por isso que eu quero que a Caster faça isso o mais rápido possível. Nós não podemos evitar lutar se a Rin descobrir a Caster. Seria ideal se a Caster conseguisse derrotar o Berserker logo antes disso acontecer."::
-38559::$$$message_0330_0012_0000$$$::"Eu não sei quantas pessoas vão ser sacrificadas, mas deve ser barato se o Berserker for derrotado.[lr]::
-38560::$$$message_0330_0012_0001$$$::Humanos morrem de qualquer jeito. Não vai mudar o resultado final não importa como eles morram."::
-38561::$$$message_0330_0013_0000$$$::"......!"[lr]::
-38562::$$$message_0330_0013_0001$$$::"A Caster é muito reservada. Ela não deveria só tomar a energia mágica deles, mas a vida também. Seria mais fácil para mim lutar se todos nessa cidade morressem. Minha mestra é muito otimista. Se isso acontecer, eu tenho certeza que ela fará qualquer coisa pra vencer."::
-38563::$$$message_0330_0014_0000$$$::O cavaleiro em vermelho fala com um sorriso.[lr]::
-38564::$$$message_0330_0014_0001$$$::Ele diz com alegria.[lr]::
-38565::$$$message_0330_0014_0002$$$::Que as pessoas aqui são só uma inconveniência.[lr]::
-38566::$$$message_0330_0014_0003$$$::Ele tá dizendo a mesma coisa que a Caster disse[line3]!::
-38567::$$$message_0330_0015_0000$$$::"V[line4]"[lr]::
-38568::$$$message_0330_0015_0001$$$::"Ah, eu acho que você sabe que o tipo da Rin se preocupa com formalidade. Ela é uma ótima maga, mas ela não é suja o suficiente como uma mestra.[lr]::
-38569::$$$message_0330_0015_0002$$$::Eu não estaria tão atrapalhado se ela fosse mais como a [r]Caster[line3]"::
-38570::$$$message_0330_0016_0000$$$::"Você[line4]!"[lr]::
+38539::$$$message_0330_0003_0001$$$::"Porque não era hora de enfrentá-la. Mesmo que eu atacasse, ela simplesmente fugiria. Não me diga que não a viu se teleportar mais cedo."::
+38540::$$$message_0330_0004_0000$$$::[font italic=true]...[font italic=false][lr]::
+38541::$$$message_0330_0004_0001$$$::...Ele tem razão...[lr]::
+38542::$$$message_0330_0004_0002$$$::Não conseguiríamos capturar a Caster se ela realmente quisesse fugir.[lr]::
+38543::$$$message_0330_0004_0003$$$::Além disso, este templo é o território dela.[lr]::
+38544::$$$message_0330_0004_0004$$$::Ela é uma bruxa.[lr]::
+38545::$$$message_0330_0004_0005$$$::Mesmo enfraquecida, tenho certeza de que ela ainda tinha uma ou duas cartas na manga.::
+38546::$$$message_0330_0005_0000$$$::"Entendeu agora? Se quisermos derrotar a Caster, precisamos derrotar seu Mestre primeiro. Mesmo que ela possa se teleportar, ela vai desaparecer se derrotarmos o Mestre ao qual ela está vinculada."::
+38547::$$$message_0330_0006_0000$$$::...Ir atrás do Mestre, não do Servo.[lr]::
+38548::$$$message_0330_0006_0001$$$::Essa é a abordagem mais segura e garantida na Guerra do Santo Graal.::
+38549::$$$message_0330_0007_0000$$$::"...Eu sei disso. Mas ainda assim, você vai deixá-la escapar?[lr]::
+38550::$$$message_0330_0007_0001$$$::Os incidentes na cidade são todos culpa dela, não é? Haverá mais vítimas a menos que a paremos. Não posso deixar isso barato."::
+38551::$$$message_0330_0008_0000$$$::"Por que não? Não é algo que te afete. Na verdade, eu gostaria que ela continuasse.[lr]::
+38552::$$$message_0330_0008_0001$$$::A Caster vai continuar sugando a energia vital das pessoas e usará esse poder para derrotar o Berserker. Nós podemos derrotá-la depois disso.[lr]::
+38553::$$$message_0330_0008_0002$$$::A Rin e eu conseguimos derrotar a Caster, mas não o Berserker. Até derrotarmos o Berserker, podemos deixar a Caster em paz."::
+38554::$$$message_0330_0009_0000$$$::[font italic=true]...[font italic=false][lr]::
+38555::$$$message_0330_0009_0001$$$::Meu rosto ferve.[lr]::
+38556::$$$message_0330_0009_0002$$$::O sangue sobe à cabeça, e sinto vontade de socar o Archer.::
+38557::$$$message_0330_0010_0000$$$::"...Não diga bobagens. A Tohsaka não faria algo assim."::
+38558::$$$message_0330_0011_0000$$$::"Exato. É por isso que eu quero que a Caster faça isso o mais rápido possível. Não poderemos evitar lutar se a Rin descobrir a Caster. O ideal seria a Caster derrotar o Berserker antes que isso aconteça."::
+38559::$$$message_0330_0012_0000$$$::"O quê? Não sei quantas pessoas serão sacrificadas, mas deve ser um preço baixo a se pagar se conseguirmos derrotar o Berserker."[lr]::
+38560::$$$message_0330_0012_0001$$$::Humanos vivem e humanos morrem. Não importa o que os mate, o resultado final é o mesmo."::
+38561::$$$message_0330_0013_0000$$$::"Ugh...!"[lr]::
+38562::$$$message_0330_0013_0001$$$::"Embora a Caster também esteja relaxando. Ela deveria logo tirar a vida deles, não apenas a energia mágica. Se todos os humanos ao redor morrerem, vai ser um pouco mais fácil lutar. Minha Mestra também é muito ingênua na sua essência. Se isso acontecer, tenho certeza de que ela fará de tudo pra vencer."::
+38563::$$$message_0330_0014_0000$$$::O cavaleiro de vermelho sorri secamente.[lr]::
+38564::$$$message_0330_0014_0001$$$::Ele parece se divertir.[lr]::
+38565::$$$message_0330_0014_0002$$$::Ele acha que as pessoas que vivem aqui são só um estorvo.[lr]::
+38566::$$$message_0330_0014_0003$$$::Ele tá dizendo a mesma coisa que a Caster...!::
+38567::$$$message_0330_0015_0000$$$::"Você..."[lr]::
+38568::$$$message_0330_0015_0001$$$::"Ah, como você sabe, a Rin é do tipo que se importa com as formalidades. Ela é impecável como maga, mas não é suja o suficiente como Mestra.[lr]::
+38569::$$$message_0330_0015_0002$$$::Pois é, eu não sofreria tanto se ela fosse mais parecida com a Caster[line2]"::
+38570::$$$message_0330_0016_0000$$$::"Seu desgraçado!"[lr]::
 38571::$$$message_0330_0016_0001$$$::Eu soco o rosto do Archer.[lr]::
-38572::$$$message_0330_0016_0002$$$::Obviamente, eu não acerto já que o Archer desvia sem problemas.::
-38573::$$$message_0330_0017_0000$$$::"O que você está fazendo? Eu pensei que estávamos cooperando."[lr]::
-38574::$$$message_0330_0017_0001$$$::"Cala boca...![lr]::
-38575::$$$message_0330_0017_0002$$$::Eu não sou como você. Eu não consigo sacrificar as pessoas ao meu redor pra vencer...!"::
-38576::$$$message_0330_0018_0000$$$::"Eu me sinto da mesma forma, Emiya Shirou. Mas você não pode salvar todos.[lr]::
-38577::$$$message_0330_0018_0001$$$::Por exemplo, o dano vai se extender além dessa cidade se a Caster obter o santo graal. Isso se aplica a Illyasviel e os outros mestres.[lr]::
-38578::$$$message_0330_0018_0002$$$::Até onde eu sei, você e a Rin são os únicos mestres que não vão usar o santo graal pelo próprio bem. Logo, vão haver mais vítimas a não ser que nós vençamos a guerra do santo graal."::
-38579::$$$message_0330_0019_0000$$$::"Nesse caso[line3]nós vamos sacrificar as pessoas dessa cidade para nosso benefício.[lr]::
-38580::$$$message_0330_0019_0001$$$::Vai ser exatamente como você quiser se o dano for reduzido como um resultado."::
-38581::$$$message_0330_0020_0000$$$::"[line8]"[lr]::
-38582::$$$message_0330_0020_0001$$$::Minha cabeça está dormente.[lr]::
-38583::$$$message_0330_0020_0002$$$::Ele não precisa nem me contar isso.::
-38584::$$$message_0330_0021_0000$$$::Um não consegue salvar a todos.[lr]::
-38585::$$$message_0330_0021_0001$$$::O Kiritsugu sempre disse isso.[lr]::
-38586::$$$message_0330_0021_0002$$$::Então eu não deveria sentir nada mesmo que ele diga isso[line3]mas é só que me irrita tanto...!::
+38572::$$$message_0330_0016_0002$$$::Bem, eu soco naquela direção em geral, mas ele desvia sem o menor esforço.::
+38573::$$$message_0330_0017_0000$$$::"O que cê tá fazendo? Achei que estávamos cooperando."[lr]::
+38574::$$$message_0330_0017_0001$$$::"Vai se ferrar![lr]::
+38575::$$$message_0330_0017_0002$$$::Eu não sou nada como você. Não sacrifico as pessoas ao meu redor pra vencer... Eu nunca faria uma coisa dessas...!"::
+38576::$$$message_0330_0018_0000$$$::"Eu me sinto da mesma forma, Shirou Emiya. Mas você não pode salvar todo mundo.[lr]::
+38577::$$$message_0330_0018_0001$$$::Por exemplo, a Caster não vai simplesmente parar nesta cidade se ela obtiver o Santo Graal. O mesmo vale para Illyasviel e os outros Mestres.[lr]::
+38578::$$$message_0330_0018_0002$$$::Até onde eu sei, você e a Rin são os únicos Mestres que não usariam o Santo Graal em benefício próprio. Haverá mais vítimas a menos que a gente vença."::
+38579::$$$message_0330_0019_0000$$$::"Nesse caso... A única escolha é sacrificar as pessoas daqui e usá-las a nosso favor."[lr]::
+38580::$$$message_0330_0019_0001$$$::Podemos conter o dano causado desse jeito. Como você gostaria."::
+38581::$$$message_0330_0020_0000$$$::[font italic=true]...[font italic=false][lr]::
+38582::$$$message_0330_0020_0001$$$::Eu me sinto anestesiado.[lr]::
+38583::$$$message_0330_0020_0002$$$::Ele nem precisa explicar isso.::
+38584::$$$message_0330_0021_0000$$$::Não dá pra salvar todo mundo.[lr]::
+38585::$$$message_0330_0021_0001$$$::O Kiritsugu sempre dizia isso.[lr]::
+38586::$$$message_0330_0021_0002$$$::Então eu já deveria ter superado isso, mas... É o [font italic=true]jeito[font italic=false] que ele fala que me tira do sério...!::
 38587::$$$message_0330_0022_0000$$$::"Você disse que não quer envolver pessoas inocentes, certo?[lr]::
-38588::$$$message_0330_0022_0001$$$::Então aceite. Ninguém pode ser salvo se você tentar salvar a todos.[lr]::
-38589::$$$message_0330_0022_0002$$$::Como a Caster disse, nós somos parecidos, infelizmente. Nós teríamos que cooperar se não quisermos vítimas."::
-38590::$$$message_0330_0023_0000$$$::"Não...! Eu não vou cooperar com você. Eu nunca vou aceitar você...!"[lr]::
-38591::$$$message_0330_0023_0001$$$::"[line3]Entendo. Você só confia na Rin, afinal."::
-38592::$$$message_0330_0024_0000$$$::Eu viro minhas costas para o Archer.[lr]::
-38593::$$$message_0330_0024_0001$$$::Eu sou diferente dele.[lr]::
-38594::$$$message_0330_0024_0002$$$::Se eu não consigo ignorar a Caster, tem uma coisa que eu preciso fazer.::
-38595::$$$message_0330_0025_0000$$$::"Não me fale que você vai seguir a Caster."[lr]::
-38596::$$$message_0330_0025_0001$$$::"[line6]"[lr]::
-38597::$$$message_0330_0025_0002$$$::Eu ignoro ele e continuo caminhando.[lr]::
-38598::$$$message_0330_0025_0003$$$::Eu estou indo até o interior do templo.[lr]::
-38599::$$$message_0330_0025_0004$$$::Como esse é o território da Caster, o ateliê dela tem que ser dentro do templo em algum lugar.::
-38600::$$$message_0330_0026_0000$$$::"Eu não consigo acreditar. Você não é páreo para Caster sozinho. Você deveria parar se não quiser morrer."[lr]::
-38601::$$$message_0330_0026_0001$$$::"[line6]"[lr]::
-38602::$$$message_0330_0026_0002$$$::O Archer me segue, como se tivesse mais a falar.::
-38603::$$$message_0330_0027_0000$$$::"Cara, você vai jogar fora a vida que eu salvei?[lr]::
-38604::$$$message_0330_0027_0001$$$::Eu não ligo, mas pelo menos me agradeça antes de morrer.[lr]::
-38605::$$$message_0330_0027_0002$$$::Eu te ajudei por gentileza. Eu não vou te pedir para me tratar como seu  salvador, mas você poderia pelo menos me agradecer como um amigo."::
-38606::$$$message_0330_0028_0000$$$::"......!"[lr]::
-38607::$$$message_0330_0028_0001$$$::Cara, ele realmente tá me irritando![lr]::
-38608::$$$message_0330_0028_0002$$$::"[line4]Cala a boca, eu não vou sentir nenhuma simpatia por você! Só volta pra casa da Tohsaka! Eu não vou pedir a sua ajuda mesmo que você me ofereça ela!"::
-38609::$$$message_0330_0029_0000$$$::Eu tiro meus olhos dele e caminho até o templo de novo.[lr]::
+38588::$$$message_0330_0022_0001$$$::Então aceite. Se recusar a matar alguém não fará com que ninguém seja salvo.[lr]::
+38589::$$$message_0330_0022_0002$$$::Como a Caster disse, nós infelizmente somos parecidos. Nós teríamos que cooperar se não quisermos mais vítimas."::
+38590::$$$message_0330_0023_0000$$$::"Não...! Eu não vou cooperar com você. Eu nunca vou te aceitar...!"[lr]::
+38591::$$$message_0330_0023_0001$$$::"...Entendo. Você só confia na Rin, afinal."::
+38592::$$$message_0330_0024_0000$$$::Dou as costas para o Archer.[lr]::
+38593::$$$message_0330_0024_0001$$$::Sou diferente dele.[lr]::
+38594::$$$message_0330_0024_0002$$$::Não posso deixar a Caster em paz. Então só há um caminho a seguir.::
+38595::$$$message_0330_0025_0000$$$::"Não me diga que cê vai atrás da Caster."[lr]::
+38596::$$$message_0330_0025_0001$$$::"......"[lr]::
+38597::$$$message_0330_0025_0002$$$::Eu o ignoro e começo a andar.[lr]::
+38598::$$$message_0330_0025_0003$$$::Meu destino é dentro do templo.[lr]::
+38599::$$$message_0330_0025_0004$$$::Se este é o território da Caster, então seu ateliê é dentro do templo.::
+38600::$$$message_0330_0026_0000$$$::"Não acredito. Você não é páreo para a Caster sozinho. Se quiser continuar vivo, dê o meia volta."[lr]::
+38601::$$$message_0330_0026_0001$$$::"......"[lr]::
+38602::$$$message_0330_0026_0002$$$::O Archer me segue, reclamando pelo caminho todo.::
+38603::$$$message_0330_0027_0000$$$::"Puta merda, cê vai desperdiçar a vida que eu acabei de salvar?[lr]::
+38604::$$$message_0330_0027_0001$$$::Faça como quiser então, mas pelo menos me agradeça antes de jogar tudo fora.[lr]::
+38605::$$$message_0330_0027_0002$$$::Eu te ajudei pela bondade do meu coração. Não vou te pedir para me chamar de seu salvador, mas você poderia pelo menos ser grato ao cara com quem escapou da beira da morte."::
+38606::$$$message_0330_0028_0000$$$::"Guh...!"[lr]::
+38607::$$$message_0330_0028_0001$$$::Cara, ele realmente tá me irritando...![lr]::
+38608::$$$message_0330_0028_0002$$$::"...Cala a boca! Para de agir como se fôssemos parceiros de repente! Volta logo pra casa da Tohsaka! Não preciso da sua ajuda!"::
+38609::$$$message_0330_0029_0000$$$::Eu viro e sigo em direção ao templo sem olhar para trás, dessa vez pra valer.[lr]::
 38610::$$$message_0330_0029_0001$$$::Ali...[lr]::
-38611::$$$message_0330_0029_0002$$$::"[line4]Entendo. É bom que você não goste de mim."[lr]::
-38612::$$$message_0330_0029_0003$$$::Uma fria intenção de matar vem de trás de mim.::
-38613::$$$message_0330_0030_0000$$$::"[line4]O quê?"[lr]::
-38614::$$$message_0330_0030_0001$$$::Eu pulo pra trás enquanto me viro...[lr]::
-38615::$$$message_0330_0030_0002$$$::Ao mesmo tempo, o Archer balança sua espada.::
-38616::$$$message_0330_0031_0000$$$::"Ah[line4]guh...?"[lr]::
-38617::$$$message_0330_0031_0001$$$::Eu sou cortado no ombro.[lr]::
-38618::$$$message_0330_0031_0002$$$::Meu sangue vem fluindo pra fora, e minha consciência vai desaparecer se eu deixar minha guarda cair.[lr]::
-38619::$$$message_0330_0031_0003$$$::A dor é tão aguda que eu sinto como se meu corpo estivesse queimando.::
-38620::$$$message_0330_0032_0000$$$::"Haa[line4]ah."[lr]::
-38621::$$$message_0330_0032_0001$$$::Eu recuo com passos incertos.[lr]::
-38622::$$$message_0330_0032_0002$$$::Não é só para fugir.[lr]::
-38623::$$$message_0330_0032_0003$$$::Eu só não tenho nenhum poder, então meus pés recuam pra tentar manter meu corpo em pé.::
-38624::$$$message_0330_0033_0000$$$::"V-Você[line4]"[lr]::
-38625::$$$message_0330_0033_0001$$$::"Eu errei, huh? Deve ter sido meu erro deixar minha intenção de matar vazar, ou deve ter sido a sua esperteza em pular instantaneamente. Bom, eu não me importo de qualquer jeito."[lr]::
-38626::$$$message_0330_0033_0002$$$::O Archer caminha até mim com a espada molhada com meu sangue.::
-38627::$$$message_0330_0034_0000$$$::"Ah[line5]guh[line4]!"[lr]::
-38628::$$$message_0330_0034_0001$$$::Eu vou ser morto.[lr]::
-38629::$$$message_0330_0034_0002$$$::Eu sinto que eu vou ser morto, então eu movo meus pés em desespero.[lr]::
-38630::$$$message_0330_0034_0003$$$::[line3]A saída do templo.[lr]::
-38631::$$$message_0330_0034_0004$$$::Eu lentamente recuo, tentando chegar até o portão da montanha.::
-38632::$$$message_0330_0035_0000$$$::"[line12]"[lr]::
-38633::$$$message_0330_0035_0001$$$::...Ele deve saber que essa é uma ferida fatal.[lr]::
-38634::$$$message_0330_0035_0002$$$::O Archer caminha até mim sem pressa.::
-38635::$$$message_0330_0036_0000$$$::"Haa[line4]ah, ah[line4]!"[lr]::
-38636::$$$message_0330_0036_0001$$$::Minha mente está enfraquecendo.[lr]::
-38637::$$$message_0330_0036_0002$$$::Eu não sei o que estou fazendo.[lr]::
-38638::$$$message_0330_0036_0003$$$::Eu não sei porque eu estou indo até o portão da montanha, eu não sei porque eu fui atacado. Minha mente está vazando junto com meu sangue.::
+38611::$$$message_0330_0029_0002$$$::"...Bom, então. Ainda bem que você não gosta de mim."[lr]::
+38612::$$$message_0330_0029_0003$$$::Sinto uma fria premonição de morte.::
+38613::$$$message_0330_0030_0000$$$::"...O quê?"[lr]::
+38614::$$$message_0330_0030_0001$$$::Antes que eu consiga sequer pular para fora do caminho...[lr]::
+38615::$$$message_0330_0030_0002$$$::O Archer desce sua espada sobre mim.::
+38616::$$$message_0330_0031_0000$$$::"Ah... Guh...!?"[lr]::
+38617::$$$message_0330_0031_0001$$$::Ele me corta no ombro.[lr]::
+38618::$$$message_0330_0031_0002$$$::Meu sangue jorra e sinto que vou desmaiar no momento em que meu foco fraquejar.[lr]::
+38619::$$$message_0330_0031_0003$$$::A dor é tão aguda que sinto como se minha pele e músculos estivessem queimando.::
+38620::$$$message_0330_0032_0000$$$::"Haah... Ah..."[lr]::
+38621::$$$message_0330_0032_0001$$$::Eu recuo com passos vacilantes.[lr]::
+38622::$$$message_0330_0032_0002$$$::Não consigo nem fugir.[lr]::
+38623::$$$message_0330_0032_0003$$$::Toda minha força restante foi sugada e tudo que consigo fazer é me manter de pé.::
+38624::$$$message_0330_0033_0000$$$::"V-Você..."[lr]::
+38625::$$$message_0330_0033_0001$$$::"Ah, errei. Deve ser porque não consegui suprimir meu desejo de matar, ou talvez você tenha mesmo bons reflexos... Bom, que seja."[lr]::
+38626::$$$message_0330_0033_0002$$$::O Archer caminha até mim com sua espada coberta com o meu sangue.::
+38627::$$$message_0330_0034_0000$$$::"Ah... Guh...!"[lr]::
+38628::$$$message_0330_0034_0001$$$::Serei morto.[lr]::
+38629::$$$message_0330_0034_0002$$$::Meu instinto diz que vou morrer, e meus pés lutam para se mover.[lr]::
+38630::$$$message_0330_0034_0003$$$::A saída do templo.[lr]::
+38631::$$$message_0330_0034_0004$$$::Eu cambaleio em direção às escadas além do portão da montanha e recuo.::
+38632::$$$message_0330_0035_0000$$$::"......"[lr]::
+38633::$$$message_0330_0035_0001$$$::...Ele deve saber que esse é um ferimento fatal.[lr]::
+38634::$$$message_0330_0035_0002$$$::Seus passos não têm pressa.::
+38635::$$$message_0330_0036_0000$$$::"Haah... Ah, ah...!"[lr]::
+38636::$$$message_0330_0036_0001$$$::Tudo está ficando embaçado.[lr]::
+38637::$$$message_0330_0036_0002$$$::Não sei o que estou fazendo.[lr]::
+38638::$$$message_0330_0036_0003$$$::Não consigo nem lembrar por que estou fugindo ou por que fui cortado pra começo de conversa. Parece que meus pensamentos e memória estão seguindo o sangue que pinga do meu corpo.::
 38639::$$$message_0330_0037_0000$$$::...Talvez eu ainda esteja consciente por causa da espada que ele está segurando.[lr]::
-38640::$$$message_0330_0037_0001$$$::A branca curta espada.[lr]::
-38641::$$$message_0330_0037_0002$$$::As simples espadas são cativantes aos meus olhos, e elas me param de fechar eles.::
-38642::$$$message_0330_0038_0000$$$::"Agh[line4]!"[lr]::
-38643::$$$message_0330_0038_0001$$$::Mas isso chega a um fim.[lr]::
-38644::$$$message_0330_0038_0002$$$::O portão da montanha está atrás de mim quando eu percebo.[lr]::
-38645::$$$message_0330_0038_0003$$$::Mesmo que as escadas estejam algum lugar atrás de mim, eu não consigo nem me virar.[lr]::
-38646::$$$message_0330_0038_0004$$$::É porque o Archer vai cortar o corpo de Emiya Shirou no momento que eu virar minhas costas[line4]::
-38647::$$$message_0330_0039_0000$$$::"Isso é tudo. Como você não tem uma razão para lutar, morra aqui."[lr]::
-38648::$$$message_0330_0039_0001$$$::Ele levanta sua espada.[lr]::
-38649::$$$message_0330_0039_0002$$$::A branca espada yin é como uma guilhotina.::
-38650::$$$message_0330_0040_0000$$$::"O quê......? Razão[line4]pra lutar...?"[lr]::
-38651::$$$message_0330_0040_0001$$$::"Isso mesmo. É hipocrisia você lutar por outro alguém e não por si mesmo. Você só deseja por paz, e não vitória.[lr]::
-38652::$$$message_0330_0040_0002$$$::[line3]Algo assim não existe em nenhum lugar desse mundo."::
-38653::$$$message_0330_0041_0000$$$::"O q[line4]uê?"[lr]::
-38654::$$$message_0330_0041_0001$$$::Eu me oponho as palavras do Archer em minha consciência a desaparecer.[lr]::
-38655::$$$message_0330_0041_0002$$$::Mas meu corpo e mente estão prestes a desaparecer.::
-38656::$$$message_0330_0042_0000$$$::"[line4]Adeus. Afogue-se em seus ideais e morra."::
-38657::$$$message_0330_0043_0000$$$::A voz dele é repleta de ódio.[lr]::
-38658::$$$message_0330_0043_0001$$$::Ele balança a espada Yin Bakuya.[lr]::
-38659::$$$message_0330_0043_0002$$$::Ele mira na ferida no meu ombro para cortar meu corpo com certeza dessa vez.[lr]::
-38660::$$$message_0330_0043_0003$$$::[line3]Mas logo antes disso...[lr]::
-38661::$$$message_0330_0043_0004$$$::Eu quero me opor a ele tanto que eu pulo pra trás.::
-38662::$$$message_0330_0044_0000$$$::"Hm[line4]!?"[lr]::
-38663::$$$message_0330_0044_0001$$$::A espada dele corta pelo ar, e meu corpo voa pelo ar.[lr]::
-38664::$$$message_0330_0044_0002$$$::A escuridão sem fim está atrás de mim.[lr]::
-38665::$$$message_0330_0044_0003$$$::Um grande impacto.[lr]::
-38666::$$$message_0330_0044_0004$$$::Depois disso, meu corpo rola abaixo pelas escadas.::
-38667::$$$message_0330_0045_0000$$$::"O que foi isso?"[lr]::
-38668::$$$message_0330_0045_0001$$$::Eu ouço uma voz não familiar.::
+38640::$$$message_0330_0037_0001$$$::A espada curta branca.[lr]::
+38641::$$$message_0330_0037_0002$$$::Aquela lâmina simples prende minha atenção e me impede de fechar os olhos.::
+38642::$$$message_0330_0038_0000$$$::"Agh...!"[lr]::
+38643::$$$message_0330_0038_0001$$$::Mas isso chega ao fim.[lr]::
+38644::$$$message_0330_0038_0002$$$::O portão da montanha está logo atrás de mim.[lr]::
+38645::$$$message_0330_0038_0003$$$::As escadas estão logo ali, mas não consigo nem me virar.[lr]::
+38646::$$$message_0330_0038_0004$$$::No momento em que eu fizer isso, tenho certeza de que o Archer me cortará ao meio.::
+38647::$$$message_0330_0039_0000$$$::"Acabou. Se você não tem um motivo pra lutar, morra aqui."[lr]::
+38648::$$$message_0330_0039_0001$$$::Ele ergue sua lâmina.[lr]::
+38649::$$$message_0330_0039_0002$$$::A espada branca yin é erguida como uma guilhotina.::
+38650::$$$message_0330_0040_0000$$$::"O que... Motivo... pra lutar...?"[lr]::
+38651::$$$message_0330_0040_0001$$$::"Isso mesmo. É hipocrisia você lutar por outra pessoa e não por si mesmo. Você só deseja paz, e não vitória.[lr]::
+38652::$$$message_0330_0040_0002$$$::Algo assim nem sequer existe neste mundo."::
+38653::$$$message_0330_0041_0000$$$::"Eu não..."[lr]::
+38654::$$$message_0330_0041_0001$$$::Mesmo enquanto minha consciência desvanece, me sinto desafiador.[lr]::
+38655::$$$message_0330_0041_0002$$$::Mas tanto meu corpo quanto minha mente estão no limite.::
+38656::$$$message_0330_0042_0000$$$::"...Adeus. Afogue-se em seus ideais e morra."::
+38657::$$$message_0330_0043_0000$$$::A voz dele é cheia de ódio.[lr]::
+38658::$$$message_0330_0043_0001$$$::Ele balança a espada yin Bakuya.[lr]::
+38659::$$$message_0330_0043_0002$$$::Mais uma vez a lâmina avança sobre mim, desta vez para cortar minha própria vida.[lr]::
+38660::$$$message_0330_0043_0003$$$::Mas bem antes disso...[lr]::
+38661::$$$message_0330_0043_0004$$$::Apenas com o pensamento de desafiar as palavras dele, eu pulo pra trás sem pensar nas consequências.::
+38662::$$$message_0330_0044_0000$$$::"Guh...!?"[lr]::
+38663::$$$message_0330_0044_0001$$$::Sua espada corta o ar, e meu corpo voa pelo vazio.[lr]::
+38664::$$$message_0330_0044_0002$$$::A escuridão sem fundo está atrás de mim.[lr]::
+38665::$$$message_0330_0044_0003$$$::Com um baque horrível, meu corpo bate contra o chão de pedra.[lr]::
+38666::$$$message_0330_0044_0004$$$::Então ele rola escada abaixo.::
+38667::$$$message_0330_0045_0000$$$::"Hm, o que é isso?"[lr]::
+38668::$$$message_0330_0045_0001$$$::Ouço uma voz desconhecida perto de mim.::
 38669::$$$message_0330_0046_0000$$$::"Shirou...!?"[lr]::
-38670::$$$message_0330_0046_0001$$$::E eu também ouço uma voz familiar.::
-38671::$$$message_0330_0047_0000$$$::"[line4]Sa... ber[line3]......?"[lr]::
+38670::$$$message_0330_0046_0001$$$::Também ouço uma voz familiar.::
+38671::$$$message_0330_0047_0000$$$::"...S-Saber...?"[lr]::
 38672::$$$message_0330_0047_0001$$$::Minha visão está quase no fim.[lr]::
-38673::$$$message_0330_0047_0002$$$::Eu tento levantar meu corpo e caio nos degraus.::
-38674::$$$message_0330_0048_0000$$$::"Por favor espere, Shirou...! Você foi empurrado nos degraus com essa ferida...!?"[lr]::
+38673::$$$message_0330_0047_0002$$$::Tento levantar meu corpo, mas só desabo numa pilha inerte na terra.::
+38674::$$$message_0330_0048_0000$$$::"Shirou, por favor, se controle...! Você está ferido e foi empurrado escada abaixo...!?"[lr]::
 38675::$$$message_0330_0048_0001$$$::...É a Saber?[lr]::
-38676::$$$message_0330_0048_0002$$$::A Saber apoia meu corpo enquanto ela fala com urgência.::
-38677::$$$message_0330_0049_0000$$$::"Ah[line4]gh."[lr]::
+38676::$$$message_0330_0048_0002$$$::A Saber ampara meu corpo e fala com urgência.::
+38677::$$$message_0330_0049_0000$$$::"Agh... Guh..."[lr]::
 38678::$$$message_0330_0049_0001$$$::Mas isso é ruim.[lr]::
-38679::$$$message_0330_0049_0002$$$::Eu não sei quem foi, mas tem um outro servo aqui.[lr]::
-38680::$$$message_0330_0049_0003$$$::Ela vai ser atacada sem ser capaz de se defender se ela está tão preocupada comigo[line4]::
-38681::$$$message_0330_0050_0000$$$::"T-Tá tudo[line4]bem, Saber..."[lr]::
-38682::$$$message_0330_0050_0001$$$::"Fique quieto...! Nós ainda vamos conseguir. Com seus poderes de cura, se nós retornamos para casa imediatamente[line4]"[lr]::
-38683::$$$message_0330_0050_0002$$$::...Ela deve ter percebido depois de dizer tanto assim.[lr]::
-38684::$$$message_0330_0050_0003$$$::A Saber se vira de volta ao servo, enquanto ainda me apoiando.::
-38685::$$$message_0330_0051_0000$$$::"[line3]Assassin. Por que você não me atacou?"[lr]::
-38686::$$$message_0330_0051_0001$$$::"Isso seria muito rude. Ninguém pode colher uma flor que só aparece por um instante."::
-38687::$$$message_0330_0052_0000$$$::"[line4]?"[lr]::
-38688::$$$message_0330_0052_0001$$$::A Saber inclina a cabeça em dúvida, incapaz de entender a intenção do inimigo.::
-38689::$$$message_0330_0053_0000$$$::"Eu fui encantado pelo seu rosto. Seu rosto lutando foi legal, mas seu rosto tenso é lindo também. Eu tinha que admirá-lo."[lr]::
+38679::$$$message_0330_0049_0002$$$::Eu não sei sua identidade, mas há um outro Servo desconhecido por perto.[lr]::
+38680::$$$message_0330_0049_0003$$$::Se ela ficar cuidando de mim, estará com a guarda totalmente aberta para um ataque...::
+38681::$$$message_0330_0050_0000$$$::"T-Tudo... bem, Sa...ber..."[lr]::
+38682::$$$message_0330_0050_0001$$$::"Fique quieto...! Ainda dá tempo. Com seus poderes de cura, se voltarmos para casa agor[line2]"[lr]::
+38683::$$$message_0330_0050_0002$$$::...Ela deve ter se tocado no meio da frase.[lr]::
+38684::$$$message_0330_0050_0003$$$::Ela se vira de volta para o Servo atrás dela.::
+38685::$$$message_0330_0051_0000$$$::"...Assassin. Por que você não me atacou?"[lr]::
+38686::$$$message_0330_0051_0001$$$::"Isso seria uma falta de tato. Não se arranca uma flor em meio ao seu breve desabrochar."::
+38687::$$$message_0330_0052_0000$$$::"...?"[lr]::
+38688::$$$message_0330_0052_0001$$$::A Saber inclina a cabeça, incapaz de compreender a verdadeira intenção do inimigo.::
+38689::$$$message_0330_0053_0000$$$::"O quê? Fiquei apenas encantado pelo seu semblante. Sua expressão durante a batalha foi esplêndida, mas a sua preocupação agora é linda. Não pude deixar de admirar."[lr]::
 38690::$$$message_0330_0053_0001$$$::...Isso é um kimono?[lr]::
-38691::$$$message_0330_0053_0002$$$::O servo vestido tradicionalmente vira de costas.::
-38692::$$$message_0330_0054_0000$$$::"Isso é o suficiente por hoje. Saia, Saber."[lr]::
-38693::$$$message_0330_0054_0001$$$::"Que[line4]está nos deixando ir, Assassin?"[lr]::
-38694::$$$message_0330_0054_0002$$$::"Sim. Se você me prometer continuar essa batalha um dia, eu deixarei você ir.[lr]::
-38695::$$$message_0330_0054_0003$$$::Você não pode lutar a vontade dessa forma. Este não é meu desejo."::
-38696::$$$message_0330_0055_0000$$$::A Saber lança um olhar severo para o Assassin,[lr]::
-38697::$$$message_0330_0055_0001$$$::e o Assassin encara calmamente a Saber.[lr]::
-38698::$$$message_0330_0055_0002$$$::O olhar fixo de tirar o fôlego continua por menos de dez segundos.::
-38699::$$$message_0330_0056_0000$$$::"...Eu entendo, Assassin. Eu irei decidir esta partida um dia."[lr]::
-38700::$$$message_0330_0056_0001$$$::"Esta é uma boa resposta. Eu estarei esperando, rei dos cavaleiros."[lr]::
-38701::$$$message_0330_0056_0002$$$::A Saber desce os degraus comigo nos braços dela.[lr]::
-38702::$$$message_0330_0056_0003$$$::Mas[line4][lr]::
-38703::$$$message_0330_0056_0004$$$::Eu vejo o cavaleiro em vermelho correndo da montanha, determinado a não me deixar escapar.::
+38691::$$$message_0330_0053_0002$$$::O Servo de vestes anacrônicas dá as costas para nós.::
+38692::$$$message_0330_0054_0000$$$::"Isso é o bastante por esta noite. Você deveria partir, Saber."[lr]::
+38693::$$$message_0330_0054_0001$$$::"O qu[line2]Você vai nos deixar ir, Assassin?"[lr]::
+38694::$$$message_0330_0054_0002$$$::"Sim. Se me prometer continuar este duelo outra vez, permitirei que parta.[lr]::
+38695::$$$message_0330_0054_0003$$$::Não ficarei satisfeito em lutar com você na sua atual situação. Seria uma pena."::
+38696::$$$message_0330_0055_0000$$$::...A Saber fuzila o Assassin com o olhar,[lr]::
+38697::$$$message_0330_0055_0001$$$::e o Assassin encara a Saber calmamente.[lr]::
+38698::$$$message_0330_0055_0002$$$::A troca de olhares dura por alguns segundos.::
+38699::$$$message_0330_0056_0000$$$::"...Eu compreendo, Assassin. Um dia, resolveremos este embate."[lr]::
+38700::$$$message_0330_0056_0001$$$::"Uma bela resposta. Estarei aguardando ansiosamente, Rei dos Cavaleiros."[lr]::
+38701::$$$message_0330_0056_0002$$$::A Saber me toma em seus braços e desce as escadas.[lr]::
+38702::$$$message_0330_0056_0003$$$::Porém...[lr]::
+38703::$$$message_0330_0056_0004$$$::Vejo o cavaleiro de vermelho nos seguindo do portão da montanha, determinado a não me deixar escapar.::
 38704::$$$message_0330_0057_0000$$$::"Archer...?"[lr]::
-38705::$$$message_0330_0057_0001$$$::A Saber diz em contemplamento.[lr]::
-38706::$$$message_0330_0057_0002$$$::[line3]Ele disse...[lr]::
-38707::$$$message_0330_0057_0003$$$::Que ele vai matar só quando jurar matar.::
-38708::$$$message_0330_0058_0000$$$::Então não tem como o Archer me deixar ir.[lr]::
-38709::$$$message_0330_0058_0001$$$::Se ele usasse a espada dele para me matar...[lr]::
-38710::$$$message_0330_0058_0002$$$::Eu tenho certeza que ele vai me matar aqui não importa o quê.::
-38711::$$$message_0330_0059_0000$$$::O manto vermelho dele flutua como uma asa.[lr]::
+38705::$$$message_0330_0057_0001$$$::A Saber diz com espanto.[lr]::
+38706::$$$message_0330_0057_0002$$$::Ele disse...[lr]::
+38707::$$$message_0330_0057_0003$$$::Que ele mata apenas quando tem a certeza de fazê-lo.::
+38708::$$$message_0330_0058_0000$$$::Se ele é um homem de palavra, não pode me deixar sair daqui com vida.[lr]::
+38709::$$$message_0330_0058_0001$$$::Se ele balançou a espada tentando me matar...[lr]::
+38710::$$$message_0330_0058_0002$$$::Tenho certeza de que ele fará tudo que puder para me matar agora.::
+38711::$$$message_0330_0059_0000$$$::O manto vermelho esvoaça como uma pena.[lr]::
 38712::$$$message_0330_0059_0001$$$::Não importa se a Saber está aqui ou não.[lr]::
-38713::$$$message_0330_0059_0002$$$::O Archer pula e balança a espada dele em mim...!::
-38714::$$$message_0330_0060_0000$$$::Espadas colidem.[lr]::
-38715::$$$message_0330_0060_0001$$$::[line3]Os ataques de espada com velocidade relâmpago.[lr]::
-38716::$$$message_0330_0060_0002$$$::A espada interceptando reflete o ataque do Archer e vai até o pescoço dele...!::
-38717::$$$message_0330_0060_0003$$$::"[line4]! Assassin, você[line4]!"[lr]::
-38718::$$$message_0330_0060_0004$$$::O Archer contorce o próprio corpo e aterrissa.[lr]::
-38719::$$$message_0330_0060_0005$$$::O cavaleiro em vermelho não pode descer as escadas, estando bloqueado por um Servo em kimono.::
-38720::$$$message_0330_0061_0000$$$::"Você vai entrar no meu caminho, samurai?"[lr]::
-38721::$$$message_0330_0061_0001$$$::O Archer prepara as espadas gêmeas dele e encara o servo Assassin.[lr]::
-38722::$$$message_0330_0061_0002$$$::O Assassin prepara a espada dele como se nada houvesse acontecido.::
-38723::$$$message_0330_0062_0000$$$::"Esta é a minha fala. Você vai entrar no meu caminho quando eu falei a eles que eu deixaria eles irem?"[lr]::
-38724::$$$message_0330_0062_0001$$$::Ele diz em êxtase.[lr]::
-38725::$$$message_0330_0062_0002$$$::Eu não sei o que ele está pensando, mas ele realmente deve estar deixando nós irmos[line4]::
-38726::$$$message_0330_0063_0000$$$::"De qualquer forma, minha função é guardar este portão. Eu não deixarei você entrar vivo, nem deixarei você sair vivo.[lr]::
-38727::$$$message_0330_0063_0001$$$::[line3]Eu deixei você entrar, mas é uma história diferente a sua saída. Sua cabeça não é elegante, mas eu irei aceitá-la por hoje."::
-38728::$$$message_0330_0063_0002$$$::...A intenção de matar dele vaza.[lr]::
-38729::$$$message_0330_0063_0003$$$::A intenção de matar do Assassin é tão afiada quanto a katana dele.[lr]::
-38730::$$$message_0330_0063_0004$$$::Não é sobrecarregada como as que o Archer e a Saber tem.[lr]::
-38731::$$$message_0330_0063_0005$$$::Mas uma hostilidade afiada ao extremo está indo para o pescoço inimigo[line4]::
-38732::$$$message_0330_0063_0006$$$::"[line3]Bem dito. Uma mera ferramenta da Caster que não conseguiu nem machucar a Saber vai me enfrentar?"::
-38733::$$$message_0330_0064_0000$$$::"O mesmo se aplica a você. Eu o mandei para surpreender aquela raposa, mas eu estou desapontado que você voltou pela sua própria segurança."[lr]::
-38734::$$$message_0330_0064_0001$$$::Eles só se confrontam por um curto período.[lr]::
-38735::$$$message_0330_0064_0002$$$::Eles atacam um ao outro com incríveis técnicas.::
-38736::$$$message_0330_0065_0000$$$::"[line8]"[lr]::
-38737::$$$message_0330_0065_0001$$$::Eu estou fascinado com a cena.[lr]::
-38738::$$$message_0330_0065_0002$$$::Pra ser honesto, eu não consigo entender a técnica do Assassin.[lr]::
-38739::$$$message_0330_0065_0003$$$::Até pros meus olhos experienciados, é muito rápida e afiada.::
-38740::$$$message_0330_0066_0000$$$::Mas[line4]é por isso que eu estou fascinado pela técnica "dele".[lr]::
-38741::$$$message_0330_0066_0001$$$::As espadas gêmeas dançantes.[lr]::
-38742::$$$message_0330_0066_0002$$$::O Archer está defendendo os ataques incompreensíveis do Assassin com uma técnica que eu talvez seja capaz de adquirir.::
-38743::$$$message_0330_0067_0000$$$::...Pra ser honesto, pode se dizer que eu admiro isso.[lr]::
-38744::$$$message_0330_0067_0001$$$::Ele tá enfrentando a técnica demoníaca do Assassin com técnicas só treinadas com a vontade dele e não o talento natural dele.::
-38745::$$$message_0330_0068_0000$$$::...Droga, é natural que ele seja forte.[lr]::
-38746::$$$message_0330_0068_0001$$$::Força diferente da Tohsaka ou da Saber.[lr]::
-38747::$$$message_0330_0068_0002$$$::Todo o treinamento que ele passou porque ele não é extraordinário...[lr]::
-38748::$$$message_0330_0068_0003$$$::[line3]Ele provavelmente não tinha nada.[lr]::
-38749::$$$message_0330_0068_0004$$$::É por isso que ele tomou a pequena coisa que ele tinha, treinou ela com toda sua vontade, e levou ela até aquele nível[line4]::
-38750::$$$message_0330_0069_0000$$$::"...Shirou, vamos embora agora. Nós temos que tratar seu corpo."[lr]::
-38751::$$$message_0330_0069_0001$$$::Eu volto a realidade com a voz da Saber.[lr]::
-38752::$$$message_0330_0069_0002$$$::Nós saímos do Templo Ryuudou com a Saber me carregando.[lr]::
-38753::$$$message_0330_0069_0003$$$::O combate entre o Assassin e o Archer ainda pode ser ouvido atrás de nós.::
-38754::$$$message_0330_0070_0000$$$::Minha ferida está quase curada ao ponto que nós chegamos de volta.[lr]::
-38755::$$$message_0330_0070_0001$$$::'Os poderes de auto-cura da Saber podem estar fluindo em você já que você tá conectado com ela.'[lr]::
-38756::$$$message_0330_0070_0002$$$::O chute da Tohsaka talvez esteja certo já que minhas feridas se curam mais rápido quando a Saber tá me tocando.::
-38757::$$$message_0330_0071_0000$$$::"Então o que aconteceu, Shirou?"[lr]::
-38758::$$$message_0330_0071_0001$$$::A Saber demanda uma explicação assim que nós chegamos ao dojo depois de tratar minha ferida e me trocar.::
-38759::$$$message_0330_0072_0000$$$::"[line8]"[lr]::
-38760::$$$message_0330_0072_0001$$$::Eu tento contar pra ela todas as coisas importantes.[lr]::
-38761::$$$message_0330_0072_0002$$$::Como eu fui controlado pela Caster e fui até o templo...[lr]::
-38762::$$$message_0330_0072_0003$$$::A relação entre a Caster e os incidentes de coma acontecendo na cidade...[lr]::
-38763::$$$message_0330_0072_0004$$$::Como o Archer veio e me salvou quando meu selo de comando estava prestes a ser tomado...[lr]::
-38764::$$$message_0330_0072_0005$$$::E como o Archer tentou me matar no final.::
-38765::$$$message_0330_0073_0000$$$::A Saber tá ponderando algo.[lr]::
-38766::$$$message_0330_0073_0001$$$::Eu tenho certeza que ela quer organizar as coisas na cabeça dela primeiro já que tantas coisas aconteceram em uma noite.[lr]::
-38767::$$$message_0330_0073_0002$$$::"...Entendo. Então o Archer deixou a Caster ir?"::
-38768::$$$message_0330_0074_0000$$$::"Sim, ele deixou ela ir. Ele é o pior cara possível. Ele não é nem um pouco diferente da Caster se ele tá usando a Caster pra vencer...!"[lr]::
-38769::$$$message_0330_0074_0001$$$::Me irrita tanto agora que eu relembro disso.[lr]::
-38770::$$$message_0330_0074_0002$$$::Droga, eu deveria ter socado ele na cara lá atrás...!::
-38771::$$$message_0330_0075_0000$$$::...Então.[lr]::
-38772::$$$message_0330_0075_0001$$$::A Saber tem uma expressão estranha.::
-38773::$$$message_0330_0076_0000$$$::"...Saber. Por que você tá sorrindo?"[lr]::
-38774::$$$message_0330_0076_0001$$$::"Bom, eu só pensei que é raro você insultar alguém. Eu só estive com você por alguns dias, mas eu entendo que você não é alguém que insulta os outros."::
-38775::$$$message_0330_0077_0000$$$::"Hm[line8]"[lr]::
-38776::$$$message_0330_0077_0001$$$::...Agora que ela menciona isso, eu contemplo minhas ações imaturas por reclamar.::
-38777::$$$message_0330_0078_0000$$$::"...Mas não tem o que fazer. O Archer disse coisas que justificam. E acima de tudo, ele insultou a própria parceira, Tohsaka."::
-38778::$$$message_0330_0079_0000$$$::"Sim. [line3]Mas Shirou, eu gostaria de perguntar algo. Você está bravo com a traição do Archer?[lr]::
-38779::$$$message_0330_0079_0001$$$::Parece que você não estava bravo com o Archer por atacar você."::
-38780::$$$message_0330_0080_0000$$$::"Huh?"[lr]::
-38781::$$$message_0330_0080_0001$$$::[line3]Ah sim.[lr]::
-38782::$$$message_0330_0080_0002$$$::Então o fato que o Archer tentou me matar seria "traição".[lr]::
-38783::$$$message_0330_0080_0003$$$::...Mas isso é...::
-38784::$$$message_0330_0081_0000$$$::"...Não. Não significa que ele me traiu.[lr]::
-38785::$$$message_0330_0081_0001$$$::Eu não fiz nenhuma promessa com ele desde o começo. Então eu acho que é justo mesmo que ele tenha me atacado."[lr]::
-38786::$$$message_0330_0081_0002$$$::"Isso é verdade, mas... Aah, você ainda é um mistério para mim."::
-38787::$$$message_0330_0082_0000$$$::Ela diz maravilhada.[lr]::
-38788::$$$message_0330_0083_0000$$$::"Eu me sinto da mesma maneira que você, Shirou. Nós não podemos deixar a Caster ir, mas o Archer não é cruel."[lr]::
-38789::$$$message_0330_0083_0001$$$::"Huh...? Espera, que parte da nossa conversa você tava ouvindo?"::
-38790::$$$message_0330_0084_0000$$$::"Tudo. Baseado no que eu ouvi, eu estou dizendo que tenho a mesma opinião que você.[lr]::
-38791::$$$message_0330_0084_0001$$$::E a técnica de espada dele é uma corrente clara. Ele não deve possuir nenhum mal na mente dele. Eu acredito que a técnica dançante dele indica o seu caráter."::
-38792::$$$message_0330_0085_0000$$$::"[line7]"[lr]::
-38793::$$$message_0330_0085_0001$$$::Eu gosto disso ainda menos agora.[lr]::
-38794::$$$message_0330_0085_0002$$$::Algo tá errado com a Saber por elogiar ele.[lr]::
-38795::$$$message_0330_0085_0003$$$::Acima de tudo, a técnica do Archer é[line4]::
-38796::$$$message_0330_0086_0000$$$::"Ah[line8]"[lr]::
-38797::$$$message_0330_0086_0001$$$::Não, eu tava louco daquela vez![lr]::
-38798::$$$message_0330_0086_0002$$$::Ele é como um iogurte que tá prestes a expirar comparado com a Saber!::
-38799::$$$message_0330_0087_0000$$$::"Humpf. O que você tá falando? A técnica dele não é nada. Ele não conseguiu nem me matar mesmo me atacando de surpresa. Como ele pode se chamar de um servo desse jeito?"[lr]::
-38800::$$$message_0330_0087_0001$$$::"É porque você tem talento também, Shirou. Você deve ser capaz de ser tão bom quanto o Archer se você treinar por um longo tempo."::
-38801::$$$message_0330_0088_0000$$$::"Guh[line4]"[lr]::
-38802::$$$message_0330_0088_0001$$$::Eu não posso negar se a Saber disser com uma cara assim.[lr]::
-38803::$$$message_0330_0088_0002$$$::...Enfim, parece que a Saber aprova a técnica do Archer.[lr]::
-38804::$$$message_0330_0088_0003$$$::Eu não sei porque, mas eu não gosto desse fato.::
-38805::$$$message_0330_0089_0000$$$::"[line4]Saber. Você disse que eu tenho talento, certo?"[lr]::
-38806::$$$message_0330_0089_0001$$$::"Sim. Você irá se tornar um bom lutador se você treinar por um longo tempo."::
-38807::$$$message_0330_0090_0000$$$::"...Eu decidi. Me ensina essas coisas assim que minhas feridas se curarem.[lr]::
-38808::$$$message_0330_0090_0001$$$::Não como sobreviver, mas como lutar."[lr]::
-38809::$$$message_0330_0090_0002$$$::Eu seguro a mão da Saber e encaro ela diretamente nos olhos.::
-38810::$$$message_0330_0091_0000$$$::"Eh[line4]ah, sim. Eu não me importo se você disser isso."::
-38811::$$$message_0330_0092_0000$$$::Tudo bem. Eu não tenho reclamações se a Saber puder me ensinar.[lr]::
-38812::$$$message_0330_0092_0001$$$::Eu não vou cometer o mesmo erro que eu fiz hoje, e não é como eu ficar fugindo.::
-38813::$$$message_0330_0093_0000$$$::...E acima de tudo...[lr]::
-38814::$$$message_0330_0093_0001$$$::Não posso perder para o cara que disse que precisamos de mais vítimas para reduzir o número total de vítimas...::
+38713::$$$message_0330_0059_0002$$$::O Archer pula e desce sua espada em mim...!::
+38714::$$$message_0330_0060_0000$$$::Espadas se chocam.[lr]::
+38715::$$$message_0330_0060_0001$$$::Um contra-ataque como um feixe de luz.[lr]::
+38716::$$$message_0330_0060_0002$$$::A lâmina interceptora repele a espada do Archer, depois avança em direção ao seu pescoço enquanto ele paira no ar...!::
+38717::$$$message_0330_0060_0003$$$::"Hnng! Assassin, você...!"[lr]::
+38718::$$$message_0330_0060_0004$$$::O Archer contorce seu corpo e aterrissa.[lr]::
+38719::$$$message_0330_0060_0005$$$::O cavaleiro de vermelho é bloqueado pelo Servo de kimono e não consegue descer as escadas.::
+38720::$$$message_0330_0061_0000$$$::"Você pretende ficar no meu caminho, samurai?"[lr]::
+38721::$$$message_0330_0061_0001$$$::O Archer prepara suas espadas gêmeas e encara o Servo da classe Assassin.[lr]::
+38722::$$$message_0330_0061_0002$$$::Diante disso, o Assassin apenas ajeita sua empunhadura na espada, como se nada tivesse acontecido.::
+38723::$$$message_0330_0062_0000$$$::"Essa fala é minha. Você está tentando ficar no meu caminho quando acabei de dizer a eles que eu os deixaria ir?"[lr]::
+38724::$$$message_0330_0062_0001$$$::Sua voz é curiosamente agradável.[lr]::
+38725::$$$message_0330_0062_0002$$$::Não sei qual é o objetivo dele, mas ele realmente pretende nos deixar ir.::
+38726::$$$message_0330_0063_0000$$$::"Além disso, meu papel é proteger este portão. Se você passará vivo, fica a meu critério.[lr]::
+38727::$$$message_0330_0063_0001$$$::Eu permiti que entrasse, mas sair já é outra história. Sua mente carece um pouco de elegância, mas a aceitarei por esta noite."::
+38728::$$$message_0330_0063_0002$$$::...Ele quer matá-lo.[lr]::
+38729::$$$message_0330_0063_0003$$$::O espírito de luta do Assassin é tão afiado quanto a sua espada longa.[lr]::
+38730::$$$message_0330_0063_0004$$$::Não há aquela presença dominadora como o Archer ou a Saber, onde sente-se que tudo neles está envolvido.[lr]::
+38731::$$$message_0330_0063_0005$$$::A dele é uma lâmina afiada, como uma navalha que mira precisamente no pescoço...::
+38732::$$$message_0330_0063_0006$$$::"Belas palavras. Mas uma mera ferramenta da Caster, que não conseguiu sequer arranhar a Saber, acha que dá conta de mim?"::
+38733::$$$message_0330_0064_0000$$$::"Eu também tenho as minhas queixas. Achei que daria uma surpresa desagradável àquela velha raposa astuta, e mesmo assim você foge com o rabo entre as pernas."[lr]::
+38734::$$$message_0330_0064_0001$$$::O embate deles é curto.[lr]::
+38735::$$$message_0330_0064_0002$$$::Ambos os lados demonstram um manejo de espada fantástico.::
+38736::$$$message_0330_0065_0000$$$::[font italic=true]...[font italic=false][lr]::
+38737::$$$message_0330_0065_0001$$$::Estou cativado pelo que vejo.[lr]::
+38738::$$$message_0330_0065_0002$$$::Para ser sincero, mal consigo acompanhar a técnica de espada do Assassin.[lr]::
+38739::$$$message_0330_0065_0003$$$::Não sou inexperiente com espadas, mas não consigo entender nada. É muito rápida e mortal.::
+38740::$$$message_0330_0066_0000$$$::O contraste é o que me deixa tão fascinado.[lr]::
+38741::$$$message_0330_0066_0001$$$::Lâminas gêmeas dançantes.[lr]::
+38742::$$$message_0330_0066_0002$$$::O Archer consegue se defender de tamanha habilidade inumana, mas suas técnicas parecem algo que eu poderia fazer algum dia.::
+38743::$$$message_0330_0067_0000$$$::Não gosto de admitir, mas você poderia dizer que estou impressionado.[lr]::
+38744::$$$message_0330_0067_0001$$$::Ele está lutando contra a espada mágica do Assassin com técnicas adquiridas por experiência e pura força de vontade, em vez de mero talento.::
+38745::$$$message_0330_0068_0000$$$::...Droga, é óbvio que ele é forte.[lr]::
+38746::$$$message_0330_0068_0001$$$::É uma força diferente da Tohsaka ou da Saber.[lr]::
+38747::$$$message_0330_0068_0002$$$::Todo o treinamento pelo qual ele passou porque não é extraordinário...[lr]::
+38748::$$$message_0330_0068_0003$$$::Aposto que... ele não tinha nada.[lr]::
+38749::$$$message_0330_0068_0004$$$::Então, com seus recursos limitados, ele treinou até a exaustão para chegar àquele nível...::
+38750::$$$message_0330_0069_0000$$$::"...Shirou, vamos embora agora. De todo modo, você precisa descansar o seu corpo o quanto antes."[lr]::
+38751::$$$message_0330_0069_0001$$$::A voz da Saber me traz de volta à realidade.[lr]::
+38752::$$$message_0330_0069_0002$$$::Nós deixamos o Templo Ryudou com a Saber me carregando.[lr]::
+38753::$$$message_0330_0069_0003$$$::O retinir das espadas de Assassin e Archer ecoa atrás de nós, sem parar.::
+38754::$$$message_0330_0070_0000$$$::Minha ferida já está quase curada quando voltamos.[lr]::
+38755::$$$message_0330_0070_0001$$$::"Os poderes de cura da Saber devem estar fluindo para você, já que está conectado a ela."[lr]::
+38756::$$$message_0330_0070_0002$$$::A opinião da Tohsaka talvez esteja certa, pois minha ferida cicatriza rápido quando a Saber me toca.::
+38757::$$$message_0330_0071_0000$$$::"Então, o que aconteceu, Shirou?"[lr]::
+38758::$$$message_0330_0071_0001$$$::A Saber exige uma explicação assim que chegamos ao dojo, depois de tratar minha ferida e eu trocar de roupa, tudo sem acordar a Fuji-nee.::
+38759::$$$message_0330_0072_0000$$$::[font italic=true]...[font italic=false][lr]::
+38760::$$$message_0330_0072_0001$$$::Faço o meu melhor para resumir os pontos importantes.[lr]::
+38761::$$$message_0330_0072_0002$$$::Como eu fui controlado pela Caster e fui ao templo.[lr]::
+38762::$$$message_0330_0072_0003$$$::Os incidentes de coma acontecendo na cidade e a relação da Caster com eles.[lr]::
+38763::$$$message_0330_0072_0004$$$::...O Archer que me salvou quando meus Selos de Comando estavam prestes a ser roubados.[lr]::
+38764::$$$message_0330_0072_0005$$$::E como o Archer tentou me matar no fim.::
+38765::$$$message_0330_0073_0000$$$::A Saber parece ponderar um pouco.[lr]::
+38766::$$$message_0330_0073_0001$$$::Eu entendo o motivo dela querer organizar os pensamentos, já que tudo isso aconteceu em uma única noite.[lr]::
+38767::$$$message_0330_0073_0002$$$::"...Compreendo. Então, o Archer deixou a Caster partir?"::
+38768::$$$message_0330_0074_0000$$$::"Pois é, ele deixou... Ele é o pior. Não é nada diferente da Caster se ele está a usando pra vencer...!"[lr]::
+38769::$$$message_0330_0074_0001$$$::Isso me tira do sério só de pensar.[lr]::
+38770::$$$message_0330_0074_0002$$$::Puta merda, queria ter acertado um soco nele...!::
+38771::$$$message_0330_0075_0000$$$::...E então...[lr]::
+38772::$$$message_0330_0075_0001$$$::A Saber faz uma expressão estranha.::
+38773::$$$message_0330_0076_0000$$$::"...Saber. Qual é a graça?"[lr]::
+38774::$$$message_0330_0076_0001$$$::"Bem, eu estava pensando que é raro você falar mal de alguém. Apesar de nos conhecermos há pouco tempo, achei que não fosse de falar pelas costas das pessoas."::
+38775::$$$message_0330_0077_0000$$$::"Mrgh..."[lr]::
+38776::$$$message_0330_0077_0001$$$::...Agora que ela mencionou, andei reclamando bastante.::
+38777::$$$message_0330_0078_0000$$$::"...Mas não consigo evitar. O Archer me dá nos nervos. E o pior de tudo é que ele debochou da Tohsaka, a própria parceira."::
+38778::$$$message_0330_0079_0000$$$::"Sim... Mas Shirou. Deixe-me perguntar uma coisa. Você está furioso com a traição do Archer?"[lr]::
+38779::$$$message_0330_0079_0001$$$::Não parece que esteja irritado pelo fato dele tê-lo atacado."::
+38780::$$$message_0330_0080_0000$$$::"Hã?"[lr]::
+38781::$$$message_0330_0080_0001$$$::Ah, ela tem razão.[lr]::
+38782::$$$message_0330_0080_0002$$$::As ações do Archer são caracterizadas como traição.[lr]::
+38783::$$$message_0330_0080_0003$$$::...Não, mas isso...::
+38784::$$$message_0330_0081_0000$$$::"...Não. Não é como se ele tivesse me traído.[lr]::
+38785::$$$message_0330_0081_0001$$$::Não fiz nenhuma promessa com ele desde o início. É por isso que, mesmo o Archer me atacando, eu acho que é justo."[lr]::
+38786::$$$message_0330_0081_0002$$$::"Isso é verdade, mas... Puxa, você realmente é uma pessoa difícil de lidar."::
+38787::$$$message_0330_0082_0000$$$::Mas seu tom de voz carrega um certo carinho.::
+38788::$$$message_0330_0083_0000$$$::"Sendo assim, sinto o mesmo que você. Não posso deixar a Caster impune, mas o Archer não é cruel."[lr]::
+38789::$$$message_0330_0083_0001$$$::"Hã...? Espera aí, qual parte do que eu disse você ouviu, Saber?"::
+38790::$$$message_0330_0084_0000$$$::"Tudo. Com base no que eu ouvi, estou dizendo que concordo com a sua opinião.[lr]::
+38791::$$$message_0330_0084_0001$$$::E a técnica de espada dele é como um rio límpido. Não deve haver nenhum mal em seu coração. Acredito que a esgrima dele reflete seu caráter."::
+38792::$$$message_0330_0085_0000$$$::"......"[lr]::
+38793::$$$message_0330_0085_0001$$$::Agora eu detesto ele ainda mais.[lr]::
+38794::$$$message_0330_0085_0002$$$::Tem algo de errado pra Saber elogiá-lo.[lr]::
+38795::$$$message_0330_0085_0003$$$::Em primeiro lugar, a técnica do Archer é...::
+38796::$$$message_0330_0086_0000$$$::"Ah..."[lr]::
+38797::$$$message_0330_0086_0001$$$::Não, eu estava só delirando![lr]::
+38798::$$$message_0330_0086_0002$$$::Ele é como um iogurte prestes a vencer comparado à Saber!::
+38799::$$$message_0330_0087_0000$$$::"Hmph. O que cê tá dizendo? A técnica dele não é nada demais. Ele não conseguiu sequer me matar com um ataque surpresa. Como pode se chamar de Servo?"[lr]::
+38800::$$$message_0330_0087_0001$$$::"Sim. Isso é porque você também tem talento. Você deve ser capaz de alcançar o nível de habilidade do Archer se treinar tempo o bastante."::
+38801::$$$message_0330_0088_0000$$$::"Khh..."[lr]::
+38802::$$$message_0330_0088_0001$$$::Eu não posso retrucar se ela me diz isso com aquele rosto.[lr]::
+38803::$$$message_0330_0088_0002$$$::...De todo modo, a Saber aprova a técnica do Archer.[lr]::
+38804::$$$message_0330_0088_0003$$$::Não sei por que, mas eu detesto isso.::
+38805::$$$message_0330_0089_0000$$$::"...Saber. Cê disse que eu tenho talento, certo?"[lr]::
+38806::$$$message_0330_0089_0001$$$::"Sim. Se você continuar praticando, sua habilidade irá melhorar imensamente."::
+38807::$$$message_0330_0090_0000$$$::"...Eu já decidi. Então, cê pode me ensinar algumas coisas assim que meu ferimento sarar?[lr]::
+38808::$$$message_0330_0090_0001$$$::Não apenas a sobreviver, mas quero aprender a lutar."[lr]::
+38809::$$$message_0330_0090_0002$$$::Eu aperto a mão da Saber e olho diretamente em seus olhos.::
+38810::$$$message_0330_0091_0000$$$::"Hm? Ah, decerto. Eu não me oponho, se assim desejar."::
+38811::$$$message_0330_0092_0000$$$::Tudo bem, não tenho do que reclamar se eu puder aprender com a Saber.[lr]::
+38812::$$$message_0330_0092_0001$$$::Não posso repetir o mesmo fracasso de hoje à noite, e não é do meu feitio continuar fugindo.::
+38813::$$$message_0330_0093_0000$$$::...Mas o mais importante...[lr]::
+38814::$$$message_0330_0093_0001$$$::Não posso perder pro cara que disse que precisamos de mais vítimas para reduzir o número total de vítimas...::
+

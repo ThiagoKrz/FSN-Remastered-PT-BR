@@ -84,16 +84,21 @@ Regras:
 
 ## Texto visível
 
-Ao revisar, traduza e reescreva apenas o texto que o leitor vê.
+Ao revisar, traduza e reescreva apenas o texto que o leitor vê, focando numa **Adaptação Localizada e Orgânica (Abrasileiramento)** e não numa tradução literal engessada.
 
-Regras de estilo:
+Regras de estilo e adaptação:
 
-- PT-BR natural, literário e fluido, sem tradutês.
-- Corrija concordância, regência, gênero, número e registro de fala.
-- Preserve ritmo de fala, pausas, reticências, gritos e interrupções.
-- Substitua aspas japonesas `「」『』` por aspas duplas `"`.
-- Mantenha nomes próprios, honoríficos e formas de tratamento japonesas quando já forem padrão do texto: `Senpai`, `Onii-chan`, `Fuji-nee`, `-san`, `-chan`, `-sensei`.
-- Não transforme uma fala formal em casual, nem uma fala casual em formal, sem motivo de personagem.
+- **Adaptação de Expressões (Idioms) e Oralidade:** Substitua expressões gringas por equivalentes brasileiros. Em cenas casuais, o uso de contrações coloquiais ("Cê", "Tô") está totalmente liberado para personagens informais, garantindo fluidez orgânica no ritmo da fala.
+- **Contraste de Personalidade (Vozes):**
+  - *Taiga (Fuji-nee):* Muito descontraída, cheia de expressões típicas ("Eita", "Menino do céu", "Vixe").
+  - *Rin:* Ácida, sarcástica, fala de adolescente jovem ("Se toca", "Que saco", "Fala sério").
+  - *Saber:* Formalidade elegante e natural. Nunca usa "Cê" ou gírias, usa palavras mais ricas e literais ("Compreendo", "Inaceitável"), mas não deve soar como um robô.
+  - *Shirou:* Jovem prático e direto ("Beleza", "Putz", "Tá bom").
+  - *Antagonistas:* Preservar as vozes. Shinji é o babaca pedante moderno, Gilgamesh tem arrogância teatral e absoluta.
+- **Palavrões e Xingamentos:** FSN possui cenas densas e cras. Está autorizado o uso de palavrões pesados ("Porra", "Merda", "Filho da puta") **apenas** quando refletirem à risca a carga de ódio, desespero ou tensão do diálogo original. Não suavize o que for denso, mas também não insira xingamentos onde o original não tenha a intenção.
+- **Reações e Onomatopeias:** Abrasileire as reações físicas. O inglês "Tch" vira "Tsc". O "Geez" ou "Sigh" vira "Putz", "Ai, ai" ou descrevemos a ação de forma fluida. O "Eh?!" japonês vira "Hã?!" ou "O quê?!".
+- **Regionalismo Neutro Nacional:** Foque num coloquialismo "neutro" brasileiro (padrão de boas dublagens). Evite usar "Tu" (para não gerar choque de conjugação verbal no meio do texto) e evite gírias fortemente atreladas a um único estado do país (ex: "Mermão", "Oxe", "Boto fé", "Uai").
+- **Geral:** Corrija sempre concordância, substitua aspas `「」『』` por `"`, e preserve estritamente os honoríficos asiáticos como parte do texto (`Senpai`, `Onii-chan`, `-san`, `-chan`, `-sensei`).
 
 ## Glossário obrigatório
 

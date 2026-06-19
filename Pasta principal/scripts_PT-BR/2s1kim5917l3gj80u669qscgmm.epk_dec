@@ -1,77 +1,77 @@
 DAT
 id=qid::label=str::text=lstr::
-37543::$$$message_0323_0000_0000$$$::É hora do jantar.[lr]::
-37544::$$$message_0323_0000_0001$$$::A bacia de kani-tama especial da Fuji-nee tá pronta na mesa.[lr]::
-37545::$$$message_0323_0000_0002$$$::É um prato simples onde tem arroz na bacia e kani-tama posto no topo.[lr]::
-37546::$$$message_0323_0000_0003$$$::Parece que tem uma tampa amarela na bacia, e honestamente não parece gostoso.::
-37547::$$$message_0323_0001_0000$$$::Mas deve fazer o arroz mais gostoso já que tá numa bacia.[lr]::
-37548::$$$message_0323_0001_0001$$$::É como katsu-bowl e teriyaki-bowl.[lr]::
-37549::$$$message_0323_0001_0002$$$::Não tem como não ser gostoso porque o bom sabor dos ingredientes é absorvido pelo arroz.[lr]::
-37550::$$$message_0323_0001_0003$$$::A única desvantagem é que o sabor é simples, mas esse é um pequeno preço a pagar.::
-37551::$$$message_0323_0002_0000$$$::"Itadakimasu."[lr]::
-37552::$$$message_0323_0002_0001$$$::"Tudo bem, itadakimasu."[lr]::
+37543::$$$message_0323_0000_0000$$$::É hora do tão aguardado jantar.[lr]::
+37544::$$$message_0323_0000_0001$$$::Na mesa, tem o kani-tama que a Fuji-nee fez pra nós três.[lr]::
+37545::$$$message_0323_0000_0002$$$::É um prato simples onde tem arroz numa tigela com uma porção do omelete por cima.[lr]::
+37546::$$$message_0323_0000_0003$$$::Parece que tem uma tampa amarela na tigela, o que não parece lá muito bom.::
+37547::$$$message_0323_0001_0000$$$::Mas deve deixar o arroz mais gostoso já que tá numa tigela.[lr]::
+37548::$$$message_0323_0001_0001$$$::É tipo uma tigela de katsudon ou tendon.[lr]::
+37549::$$$message_0323_0001_0002$$$::Não tem como ser ruim porque o sabor do recheio penetra no arroz de maneira uniforme.[lr]::
+37550::$$$message_0323_0001_0003$$$::A única desvantagem é que o sabor fica um pouco fraco, mas isso é problema de gente rica.::
+37551::$$$message_0323_0002_0000$$$::"Bom, podem atacar."[lr]::
+37552::$$$message_0323_0002_0001$$$::"Sim, itadakimasu."[lr]::
 37553::$$$message_0323_0002_0002$$$::"Itadakimasu."[lr]::
-37554::$$$message_0323_0002_0003$$$::Nós nos curvamos e começamos a comer.::
-37555::$$$message_0323_0003_0000$$$::[line4]Então.[lr]::
-37556::$$$message_0323_0003_0001$$$::A comida não tá macia como kani-tama. Não, parece estranho como se eu estivesse comendo um prato principal.::
-37557::$$$message_0323_0004_0000$$$::"S-SEM CHANCE!?[lr]::
-37558::$$$message_0323_0004_0001$$$::Nós temos uma emergência!! O kani-tama virou algo diferente em menos de um minuto...!!!"::
-37559::$$$message_0323_0005_0000$$$::"........."[lr]::
-37560::$$$message_0323_0005_0001$$$::...Isso não é uma emergência nem nada do tipo.[lr]::
-37561::$$$message_0323_0005_0002$$$::Isso é mais como uma bacia de okonomiyaki.::
-37562::$$$message_0323_0006_0000$$$::"Ei, como isso aconteceu!? Eu só fiz isso como me ensinaram!!"[lr]::
-37563::$$$message_0323_0006_0001$$$::"...Uau. As pessoas da família Fujimura te ensinaram a fazer isso?"::
-37564::$$$message_0323_0007_0000$$$::"Sim. Eu falei pra eles que eu ia fazer um grande omelete, então eles me deram a farinha e outras coisas."[lr]::
-37565::$$$message_0323_0007_0001$$$::"......"::
-37566::$$$message_0323_0008_0000$$$::Eu queria que ela percebesse o erro na hora.[lr]::
-37567::$$$message_0323_0008_0001$$$::Eu pensei que ser capaz de fazer um omelete fosse uma função que todo ser humano nasce com.[lr]::
-37568::$$$message_0323_0008_0002$$$::Kani-tama é só uma variação de um omelete.[lr]::
-37569::$$$message_0323_0008_0003$$$::Foi erro meu assumir que a Fuji-nee não poderia errar algo assim.[lr]::
-37570::$$$message_0323_0008_0004$$$::Isso mesmo, a Fuji-nee não consegue nem fazer um omelete...!::
+37554::$$$message_0323_0002_0003$$$::Nós três fazemos uma breve reverência e começamos a comer.::
+37555::$$$message_0323_0003_0000$$$::    Mas...[lr]::
+37556::$$$message_0323_0003_0001$$$::Não há um pingo de maciez no kani-tama. Na verdade, a textura estranha parece mais com a de um prato principal.::
+37557::$$$message_0323_0004_0000$$$::"N-NÃO BRINCA!?[lr]::
+37558::$$$message_0323_0004_0001$$$::Temos uma emergência! O kani-tama se transformou em outra coisa...!!!"::
+37559::$$$message_0323_0005_0000$$$::"..."[lr]::
+37560::$$$message_0323_0005_0001$$$::...Isso não é emergência nem nada.[lr]::
+37561::$$$message_0323_0005_0002$$$::Isso é mais como uma tigela de okonomiyaki.::
+37562::$$$message_0323_0006_0000$$$::"Ei, como isso aconteceu!? Eu fiz direitinho como me ensinaram!?"[lr]::
+37563::$$$message_0323_0006_0001$$$::"...Uau. O pessoal da Família Fujimura realmente te ensinou a fazer isso?"::
+37564::$$$message_0323_0007_0000$$$::"Sim. Eu disse que ia fazer um omeletão, então me deram farinha e outras coisas."[lr]::
+37565::$$$message_0323_0007_0001$$$::"..."::
+37566::$$$message_0323_0008_0000$$$::Eu queria que ela tivesse percebido o erro na mesma hora.[lr]::
+37567::$$$message_0323_0008_0001$$$::Até agora, eu achava que ser capaz de fazer um omelete era uma função básica com a qual todo ser humano nascia.[lr]::
+37568::$$$message_0323_0008_0002$$$::O kani-tama é apenas uma versão avançada de um omelete.[lr]::
+37569::$$$message_0323_0008_0003$$$::Então foi erro meu assumir que a Fuji-nee não conseguiria estragar algo assim.[lr]::
+37570::$$$message_0323_0008_0004$$$::Isso mesmo, a Fuji-nee não consegue nem cozinhar um omelete...!::
 37571::$$$message_0323_0009_0000$$$::"Shirou."[lr]::
-37572::$$$message_0323_0009_0001$$$::...Então.[lr]::
-37573::$$$message_0323_0009_0002$$$::Eu ouço uma voz cheia de decepção.[lr]::
+37572::$$$message_0323_0009_0001$$$::...Aí...[lr]::
+37573::$$$message_0323_0009_0002$$$::Ouço uma voz cheia de decepção vinda do meu lado.[lr]::
 37574::$$$message_0323_0009_0003$$$::"Saber...?"[lr]::
-37575::$$$message_0323_0009_0004$$$::Eu lentamente me viro até ela.::
-37576::$$$message_0323_0010_0000$$$::"[line4]Shirou. Isso é difícil de comer até para mim."[lr]::
-37577::$$$message_0323_0010_0001$$$::...Droga... É difícil perceber, mas parece que a Saber tá brava...::
-37578::$$$message_0323_0011_0000$$$::...O jantar infernal acaba e é hora de uma reunião estratégica.[lr]::
-37579::$$$message_0323_0011_0001$$$::Mas eu já reportei pra Saber sobre o que aconteceu hoje.[lr]::
-37580::$$$message_0323_0011_0002$$$::Como é provável que ocorra uma luta amanhã, nós devíamos nos preparar.::
-37581::$$$message_0323_0012_0000$$$::"Então nós não vamos sair hoje?"[lr]::
-37582::$$$message_0323_0012_0001$$$::"Não. Talvez seja irritante pra você, mas por hoje é melhor descansar. Eu não pretendo lutar batalhas desnecessárias, e também, nós nãos estamos em condição pra ficar lutando livremente."::
-37583::$$$message_0323_0013_0000$$$::Eu não tenho experiência como um mestre, e a Saber tem um limite de quantas vezes ela consegue lutar já que eu não tô dando muita energia mágica pra ela.[lr]::
-37584::$$$message_0323_0013_0001$$$::Nós não podemos estar calmamente procurando mestres na nossa situação.::
-37585::$$$message_0323_0014_0000$$$::"...Eu entendo. Você certamente tem um ponto. Não é proativo, mas nós precisamos do máximo de cuidado para vitória."::
-37586::$$$message_0323_0015_0000$$$::"[line3]Mas. Se você tem intenção de lutar, nós não podemos gastar tempo calmamente. Se nós ficarmos aqui hoje, nós deveríamos usar este tempo para treinar."::
+37575::$$$message_0323_0009_0004$$$::Lentamente me viro pra ela.::
+37576::$$$message_0323_0010_0000$$$::"...Shirou. Isso é difícil de comer até pra mim."[lr]::
+37577::$$$message_0323_0010_0001$$$::...Vixe. É difícil de perceber, mas a Saber parece estar brava...::
+37578::$$$message_0323_0011_0000$$$::...O pesadelo do jantar termina, e chega a hora de uma reunião estratégica.[lr]::
+37579::$$$message_0323_0011_0001$$$::Mas já relatei pra Saber o que aconteceu hoje.[lr]::
+37580::$$$message_0323_0011_0002$$$::Como é provável que ocorra uma batalha amanhã, é melhor nos prepararmos.::
+37581::$$$message_0323_0012_0000$$$::"Então, nós não vamos sair hoje à noite, Shirou?"[lr]::
+37582::$$$message_0323_0012_0001$$$::"...Sim. Deve ser frustrante pra você, mas por hoje é melhor não fazermos nada. Não pretendo lutar batalhas desnecessárias, e mais do que tudo, não estamos em posição de lutar livremente."::
+37583::$$$message_0323_0013_0000$$$::Não tenho experiência como um Mestre, e a Saber tem um limite de quantas vezes consegue lutar já que eu não consigo fornecer energia mágica pra ela.[lr]::
+37584::$$$message_0323_0013_0001$$$::Dada a nossa situação, não é uma boa ideia ficar procurando por Mestres sem rumo.::
+37585::$$$message_0323_0014_0000$$$::"...Compreendo. Você certamente tem razão. Não é uma atitude proativa, mas precisamos do máximo de cuidado para alcançarmos a vitória."::
+37586::$$$message_0323_0015_0000$$$::"...Porém. Se você tem a vontade de lutar, não podemos perder tempo. Se formos ficar aqui hoje à noite, deveríamos usar esse tempo pra treinar."::
 37587::$$$message_0323_0016_0000$$$::A Saber me encara.[lr]::
-37588::$$$message_0323_0016_0001$$$::Ela não precisa nem me contar.[lr]::
+37588::$$$message_0323_0016_0001$$$::Ela nem precisava dizer.[lr]::
 37589::$$$message_0323_0016_0002$$$::Eu trouxe a Saber pra esse dojo com isso em mente.::
-37590::$$$message_0323_0017_0000$$$::"Eu sei. Você se lembra do que aconteceu ontem a noite?[lr]::
-37591::$$$message_0323_0017_0001$$$::Nós treinamos um pouco já que você falou que eu tava relaxado por chegar em casa tarde ontem.[lr]::
-37592::$$$message_0323_0017_0002$$$::...Aquilo foi uma boa lição pra mim. Não importa o que eu faça, eu não consigo derrotar alguém que eu não consigo derrotar. Eu não consegui perceber algo tão simples até eu te enfrentar."::
-37593::$$$message_0323_0018_0000$$$::"Com isso em mente, eu acho que é importante treinar com você.[lr]::
-37594::$$$message_0323_0018_0001$$$::Eu não sei o quão efetivo vai ser, mas eu devo ser capaz de sobreviver mais em batalhas se você me treinar duro."::
-37595::$$$message_0323_0019_0000$$$::"Então Shirou..."[lr]::
-37596::$$$message_0323_0019_0001$$$::"Sim. Você pode me treinar quando nós tivermos tempo?[lr]::
-37597::$$$message_0323_0019_0002$$$::Por hoje, vai ser até nós irmos pra cama."::
-37598::$$$message_0323_0020_0000$$$::Eu pego a shinai na parede.[lr]::
-37599::$$$message_0323_0020_0001$$$::...Ainda são oito horas.[lr]::
-37600::$$$message_0323_0020_0002$$$::Ainda faltam quatro horas até a hora de dormir, então eu vou treinar o máximo... possível[line4]!?::
-37601::$$$message_0323_0021_0000$$$::"E-Espera, Saber!!"[lr]::
-37602::$$$message_0323_0021_0001$$$::Eu paro a Saber já que eu sinto minha vida em perigo.[lr]::
+37590::$$$message_0323_0017_0000$$$::"Eu sei. Você se lembra do que aconteceu ontem à noite?[lr]::
+37591::$$$message_0323_0017_0001$$$::Fizemos uma disputa já que você disse que eu tava relaxado por chegar em casa tarde... Na verdade, foi menos de uma disputa e mais de uma surra unilateral.[lr]::
+37592::$$$message_0323_0017_0002$$$::...Aquilo foi uma boa lição. Não importa o que eu faça, vai ter gente que não consigo derrotar. Isso nunca ficou tão claro quanto quando enfrentei você."::
+37593::$$$message_0323_0018_0000$$$::"Com isso em mente, acho importante treinar com você.[lr]::
+37594::$$$message_0323_0018_0001$$$::Não sei o quão eficaz vai ser, mas eu devo ser capaz de sobreviver um pouco mais em batalha se você pegar pesado comigo."::
+37595::$$$message_0323_0019_0000$$$::"Então, Shirou..."[lr]::
+37596::$$$message_0323_0019_0001$$$::"Sim. Por favor, me treine sempre que tivermos tempo.[lr]::
+37597::$$$message_0323_0019_0002$$$::Por hoje, vai ser até irmos dormir."::
+37598::$$$message_0323_0020_0000$$$::Pego a shinai na parede.[lr]::
+37599::$$$message_0323_0020_0001$$$::São 20h.[lr]::
+37600::$$$message_0323_0020_0002$$$::Ainda faltam quatro horas até a hora de dormir, então vou treinar com tudo que... tenho...!?::
+37601::$$$message_0323_0021_0000$$$::"E-Espera, Saber!!!"[lr]::
+37602::$$$message_0323_0021_0001$$$::Eu a paro já que sinto minha vida em perigo.[lr]::
 37603::$$$message_0323_0021_0002$$$::Porque a Saber se vira pra mim...[lr]::
-37604::$$$message_0323_0021_0003$$$::"O que foi? Parece que você gostaria de treinar sua preparação para batalha, então eu só estou respondendo seu entusiasmo."[lr]::
-37605::$$$message_0323_0021_0004$$$::Ela tá obviamente tentando me matar.::
-37606::$$$message_0323_0022_0000$$$::"Vamos começar o treino, Shirou.[lr]::
-37607::$$$message_0323_0022_0001$$$::Eu irei tirar esta rigidez de você primeiro. Você deveria estar alerta para que algo como hoje nunca mais aconteça."[lr]::
-37608::$$$message_0323_0022_0002$$$::Então ela tá brava sobre o jantar...!::
-37609::$$$message_0323_0023_0000$$$::"O-O que é isso!? Isso foi tudo culpa da Fuji-nee![lr]::
-37610::$$$message_0323_0023_0001$$$::E-E mesmo você reclamando, você comeu tudo[line4]"::
-37611::$$$message_0323_0024_0000$$$::"[line4]Por favor não invente desculpas.[lr]::
-37612::$$$message_0323_0024_0001$$$::Por sinal, Shirou. Eu irei lhe contar antes que você desmaie. Aquilo foi por necessidade. Por favor não esqueça disso."::
-37613::$$$message_0323_0025_0000$$$::"Ah[line4]"[lr]::
-37614::$$$message_0323_0025_0001$$$::...A Saber desaparece.::
-37615::$$$message_0323_0026_0000$$$::Ah cara.[lr]::
-37616::$$$message_0323_0026_0001$$$::Então eu vou passar por quatro horas de tortura agora, huh? .................Mágoas sobre comida são certamente assustadoras.::
+37604::$$$message_0323_0021_0003$$$::"O que foi? Você disse que queria treinar sua prontidão para batalha, então estou apenas correspondendo ao seu entusiasmo."[lr]::
+37605::$$$message_0323_0021_0004$$$::Ela vai me matar.::
+37606::$$$message_0323_0022_0000$$$::"Agora, vamos começar o treino, Shirou.[lr]::
+37607::$$$message_0323_0022_0001$$$::Primeiro, vou arrancar essa lentidão dos seus instintos. Você anda muito relaxado. Prepare-se para que algo como o que aconteceu hoje nunca mais se repita."[lr]::
+37608::$$$message_0323_0022_0002$$$::Então ela [font italic=true]tá[font italic=false] brava com o jantar...!::
+37609::$$$message_0323_0023_0000$$$::"O-o quê? Aquilo foi culpa da Fuji-nee![lr]::
+37610::$$$message_0323_0023_0001$$$::E-e mesmo reclamando, você comeu tudo[line2]"::
+37611::$$$message_0323_0024_0000$$$::"...Não adianta discutir.[lr]::
+37612::$$$message_0323_0024_0001$$$::E, Shirou? Antes que você perca a consciência, deixe-me ser clara: comi aquilo por necessidade. Por favor, não se esqueça disso."::
+37613::$$$message_0323_0025_0000$$$::"Ah..."[lr]::
+37614::$$$message_0323_0025_0001$$$::...Saber desaparece.::
+37615::$$$message_0323_0026_0000$$$::Ai, cara.[lr]::
+37616::$$$message_0323_0026_0001$$$::Então eu vou ter que passar por quatro horas de tortura brutal... Ressentimentos por comida com certeza são assustadores.::
 

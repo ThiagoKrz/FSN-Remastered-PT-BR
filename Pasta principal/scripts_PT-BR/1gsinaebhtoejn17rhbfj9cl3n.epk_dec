@@ -1,133 +1,134 @@
 DAT
 id=qid::label=str::text=lstr::
 36458::$$$message_0306_0000_0000$$$::Já passou das sete horas.[lr]::
-36459::$$$message_0306_0000_0001$$$::Tá mais tarde que o normal, mas eu devo chegar a tempo sem me apressar.::
-36460::$$$message_0306_0001_0000$$$::É 7:40.[lr]::
-36461::$$$message_0306_0001_0001$$$::Eu passo pelo portão, e enquanto eu vou até o prédio escolar...[lr]::
-36462::$$$message_0306_0001_0002$$$::"[line8]"[lr]::
-36463::$$$message_0306_0001_0003$$$::Eu sinto algo estranho e paro.::
-36464::$$$message_0306_0002_0000$$$::"...O que é isso? É algo estranho...?"::
-36465::$$$message_0306_0003_0000$$$::Não é como se alguém tivesse me observando ou algo parece diferente.[lr]::
-36466::$$$message_0306_0003_0001$$$::Se é algo, não é nada muito animado.[lr]::
-36467::$$$message_0306_0003_0002$$$::É como se todos os estudantes, até mesmo as árvores e construções, estivessem em cor fraca.::
-36468::$$$message_0306_0004_0000$$$::"...Eu aposto que sou só eu. Eu tenho certeza que tô estressado por causa de todos os eventos recentes."[lr]::
-36469::$$$message_0306_0004_0001$$$::Eu fecho meus olhos e rotaciono meus ombros.[lr]::
+36459::$$$message_0306_0000_0001$$$::Tá mais tarde que o normal, mas acho que chego a tempo sem precisar correr.::
+36460::$$$message_0306_0001_0000$$$::São 7:40.[lr]::
+36461::$$$message_0306_0001_0001$$$::Passo pelo portão, e enquanto caminho até o prédio principal...[lr]::
+36462::$$$message_0306_0001_0002$$$::[font italic=true]...[font italic=false][lr]::
+36463::$$$message_0306_0001_0003$$$::Sinto uma sensação esquisita e paro.::
+36464::$$$message_0306_0002_0000$$$::"...Que foi isso? Tem alguma coisa estranha...?"::
+36465::$$$message_0306_0003_0000$$$::Não é como se alguém estivesse me observando ou se houvesse algo de diferente por aqui.[lr]::
+36466::$$$message_0306_0003_0001$$$::Na verdade, só parece que o ar tá meio parado.[lr]::
+36467::$$$message_0306_0003_0002$$$::É como se os outros alunos, até mesmo as árvores e os prédios, estivessem desbotados.::
+36468::$$$message_0306_0004_0000$$$::"...Deve ser coisa da minha cabeça. Certeza que tô estressado por causa de tudo que aconteceu recentemente."[lr]::
+36469::$$$message_0306_0004_0001$$$::Fecho os olhos e dou uma alongada nos ombros.[lr]::
 36470::$$$message_0306_0004_0002$$$::...Mas.[lr]::
-36471::$$$message_0306_0004_0003$$$::Mesmo depois disso, o sentimento estranho não desaparece.::
-36472::$$$message_0306_0005_0000$$$::Eu subo até o terceiro andar e vou até minha classe.[lr]::
-36473::$$$message_0306_0005_0001$$$::Então.[lr]::
-36474::$$$message_0306_0005_0002$$$::Eu esbarro na Tohsaka.::
-36475::$$$message_0306_0006_0000$$$::"Salve."[lr]::
-36476::$$$message_0306_0006_0001$$$::Eu conheço ela, então eu cumprimento ela.[lr]::
-36477::$$$message_0306_0006_0002$$$::"[line11]"[lr]::
+36471::$$$message_0306_0004_0003$$$::Mesmo depois disso, aquela sensação esquisita não vai embora.::
+36472::$$$message_0306_0005_0000$$$::Subo até o terceiro andar e vou pra minha sala.[lr]::
+36473::$$$message_0306_0005_0001$$$::Nisso...[lr]::
+36474::$$$message_0306_0005_0002$$$::Eu dou de cara com a Tohsaka.::
+36475::$$$message_0306_0006_0000$$$::"Opa."[lr]::
+36476::$$$message_0306_0006_0001$$$::Como a gente se conhece, eu cumprimento ela.[lr]::
+36477::$$$message_0306_0006_0002$$$::"..."[lr]::
 36478::$$$message_0306_0006_0003$$$::Mas a Tohsaka congela como se tivesse visto um fantasma.::
-36479::$$$message_0306_0007_0000$$$::"Tohsaka? O quê? Tem algo na minha cara?"[lr]::
-36480::$$$message_0306_0007_0001$$$::Eu esfrego minha bochecha com meu uniforme.[lr]::
-36481::$$$message_0306_0007_0002$$$::"[line11]"[lr]::
-36482::$$$message_0306_0007_0003$$$::Mas a Tohsaka nem responde.[lr]::
-36483::$$$message_0306_0007_0004$$$::Ela desvia o olhar e volta pra sala dela.::
+36479::$$$message_0306_0007_0000$$$::"Tohsaka? Que foi? Tem alguma coisa na minha cara?"[lr]::
+36480::$$$message_0306_0007_0001$$$::Limpo minha bochecha com a manga do uniforme.[lr]::
+36481::$$$message_0306_0007_0002$$$::"..."[lr]::
+36482::$$$message_0306_0007_0003$$$::Mas ela nem me responde.[lr]::
+36483::$$$message_0306_0007_0004$$$::Ela só desvia o olhar e volta pra sala dela.::
 36484::$$$message_0306_0008_0000$$$::"......????"[lr]::
-36485::$$$message_0306_0008_0001$$$::O que foi isso?[lr]::
-36486::$$$message_0306_0008_0002$$$::Eu não acho que é normal dela ignorar alguém que cumprimentou ela.::
-36487::$$$message_0306_0009_0000$$$::"[line8]"[lr]::
-36488::$$$message_0306_0009_0001$$$::O sentimento estranho me acerta de novo quando eu entro na classe.[lr]::
-36489::$$$message_0306_0009_0002$$$::Alguém deve ter trazido lanche pra cá, já que eu sinto uma leve doçura no ar.::
-36490::$$$message_0306_0010_0000$$$::"...A classe tá como sempre."[lr]::
-36491::$$$message_0306_0010_0001$$$::Eu vou até meu lugar cumprimentando meus amigos.[lr]::
-36492::$$$message_0306_0010_0002$$$::Faltam dez minutos até a aula começar.[lr]::
-36493::$$$message_0306_0010_0003$$$::Eu olho ao redor do quarto, e percebo um assento sem mochila.::
+36485::$$$message_0306_0008_0001$$$::Que lance foi esse?[lr]::
+36486::$$$message_0306_0008_0002$$$::Não acho que seja do feitio dela simplesmente ignorar alguém desse jeito.::
+36487::$$$message_0306_0009_0000$$$::[font italic=true]...[font italic=false][lr]::
+36488::$$$message_0306_0009_0001$$$::Aquela sensação estranha volta a bater assim que entro na sala.[lr]::
+36489::$$$message_0306_0009_0002$$$::Alguém deve ter trazido lanche pra cá, já que tem um cheiro doce bem fraco no ar.::
+36490::$$$message_0306_0010_0000$$$::"...A sala tá a mesma de sempre."[lr]::
+36491::$$$message_0306_0010_0001$$$::Vou pro meu lugar enquanto cumprimento meus amigos.[lr]::
+36492::$$$message_0306_0010_0002$$$::Faltam dez minutos pra aula começar.[lr]::
+36493::$$$message_0306_0010_0003$$$::Dou uma olhada ao redor e percebo que tem uma carteira sem mochila.::
 36494::$$$message_0306_0011_0000$$$::"O Shinji faltou, huh?"[lr]::
-36495::$$$message_0306_0011_0001$$$::Pensando a respeito, ele não tava no clube ontem também.[lr]::
-36496::$$$message_0306_0011_0002$$$::O Shinji é na verdade bem pontual, e ele tenta bastante seguir as regras.[lr]::
-36497::$$$message_0306_0011_0003$$$::Me preocupa um pouco que um cara como ele faltou dois dias seguidos.::
-36498::$$$message_0306_0012_0000$$$::O dia acaba pacificamente.[lr]::
-36499::$$$message_0306_0012_0001$$$::As aulas acabaram e só restaram alguns estudantes.::
-36500::$$$message_0306_0013_0000$$$::"[line4]"[lr]::
-36501::$$$message_0306_0013_0001$$$::Eu não tenho nada em particular pra fazer.[lr]::
-36502::$$$message_0306_0013_0002$$$::Eu devia ir pra casa antes do sol se por como eu prometi pra Saber[line4]::
-36503::$$$message_0306_0014_0000$$$::"...Não é minha imaginação. Algo tem estado estranho desde essa manhã."[lr]::
-36504::$$$message_0306_0014_0001$$$::Eu tensiono meus nervos e procuro meus arredores.[lr]::
-36505::$$$message_0306_0014_0002$$$::...Eu sinto algo estranho nas minhas costas.[lr]::
-36506::$$$message_0306_0014_0003$$$::Talvez meu circuito mágico possa ser facilmente aberto agora que eu sou um mestre. O circuito mágico que quase aparece sente um calafrio.::
-36507::$$$message_0306_0015_0000$$$::"...Eu ainda tenho algum tempo. Eu vou procurar ao redor do prédio e ir pra casa se nada tiver errado[line4]"[lr]::
-36508::$$$message_0306_0015_0001$$$::Eu me sinto desconfortável em não ter a Saber do meu lado, mas eu não posso trazer ela comigo ao redor da escola.[lr]::
-36509::$$$message_0306_0015_0002$$$::Não deve ser tão perigoso eu procurar sozinho.::
+36495::$$$message_0306_0011_0001$$$::Pensando bem, ele não tava no clube ontem também.[lr]::
+36496::$$$message_0306_0011_0002$$$::O Shinji é, na verdade, bem pontual, e sempre tenta andar na linha.[lr]::
+36497::$$$message_0306_0011_0003$$$::Me preocupa um pouco um cara igual a ele faltar dois dias seguidos.::
+36498::$$$message_0306_0012_0000$$$::O dia termina na maior paz.[lr]::
+36499::$$$message_0306_0012_0001$$$::As aulas já acabaram e só restaram alguns alunos no colégio.::
+36500::$$$message_0306_0013_0000$$$::[font italic=true]...[font italic=false][lr]::
+36501::$$$message_0306_0013_0001$$$::Não tenho nada em particular pra fazer agora.[lr]::
+36502::$$$message_0306_0013_0002$$$::Eu deveria ir pra casa antes de escurecer, como prometi pra Saber, mas...::
+36503::$$$message_0306_0014_0000$$$::"...Não é só imaginação minha. Alguma coisa tá estranha desde hoje de manhã."[lr]::
+36504::$$$message_0306_0014_0001$$$::Fico alerta e observo os arredores.[lr]::
+36505::$$$message_0306_0014_0002$$$::...Sinto algo estranho nas minhas costas.[lr]::
+36506::$$$message_0306_0014_0003$$$::Talvez seja porque o meu Circuito Mágico possa ser aberto mais facilmente agora que sou um Mestre, mas o circuito na minha espinha sente um leve calafrio.::
+36507::$$$message_0306_0015_0000$$$::"...Ainda tenho um tempinho. Vou dar uma olhada na escola e, se não tiver nada de errado, vou embora..."[lr]::
+36508::$$$message_0306_0015_0001$$$::É meio desconfortável fazer isso sem a Saber, mas não tinha como eu trazer ela comigo pra escola.[lr]::
+36509::$$$message_0306_0015_0002$$$::Não deve ser tão perigoso assim só dar uma olhada rápida.::
 36510::$$$message_0306_0016_0000$$$::O sol tá se pondo.[lr]::
-36511::$$$message_0306_0016_0001$$$::Eu procuro pelo prédio enquanto tento não parecer suspeito, mas eu não consegui achar nada estranho.::
-36512::$$$message_0306_0017_0000$$$::"Eu acho que sou inútil sozinho. Eu vou vir e procurar de novo mais tarde."[lr]::
-36513::$$$message_0306_0017_0001$$$::Eu agarro minha mochila e saio da classe.::
+36511::$$$message_0306_0016_0001$$$::Vasculho o prédio tentando não parecer suspeito, mas acabo não achando nada fora do comum.::
+36512::$$$message_0306_0017_0000$$$::"...Acho que não adianta tentar procurar sozinho. Venho dar uma olhada com a Saber mais tarde."[lr]::
+36513::$$$message_0306_0017_0001$$$::Pego a minha mochila e saio da sala.::
 36514::$$$message_0306_0018_0000$$$::O céu tá pintado de vermelho.[lr]::
 36515::$$$message_0306_0018_0001$$$::O sol tá se pondo e deve ficar escuro em mais ou menos uma hora.::
-36516::$$$message_0306_0019_0000$$$::Eu chego nas escadas.[lr]::
-36517::$$$message_0306_0019_0001$$$::Quando eu começo a ir pra casa, eu ouço um som em cima da minha cabeça.::
-36518::$$$message_0306_0020_0000$$$::"?"[lr]::
-36519::$$$message_0306_0020_0001$$$::Eu olho pra cima.[lr]::
-36520::$$$message_0306_0020_0002$$$::Ali[line4][lr]::
-36521::$$$message_0306_0020_0003$$$::A Tohsaka tá de pé no topo das escadas.::
-36522::$$$message_0306_0021_0000$$$::"Ah, você tá aqui também, Tohsaka?"[lr]::
-36523::$$$message_0306_0021_0001$$$::"............"[lr]::
+36516::$$$message_0306_0019_0000$$$::Chego nas escadas do terceiro andar.[lr]::
+36517::$$$message_0306_0019_0001$$$::Coloco a mochila nas costas e, quando tô prestes a ir embora, escuto um barulho vindo de cima.::
+36518::$$$message_0306_0020_0000$$$::"Hã?"[lr]::
+36519::$$$message_0306_0020_0001$$$::Olho pra cima.[lr]::
+36520::$$$message_0306_0020_0002$$$::Ali...[lr]::
+36521::$$$message_0306_0020_0003$$$::A Tohsaka tá parada de pé no topo das escadas que levam pro quarto andar.::
+36522::$$$message_0306_0021_0000$$$::"Ah, você ainda tá aqui, Tohsaka?"[lr]::
+36523::$$$message_0306_0021_0001$$$::"..."[lr]::
 36524::$$$message_0306_0021_0002$$$::Ela não responde.[lr]::
-36525::$$$message_0306_0021_0003$$$::Primeiro de manhã e então agora mesmo... Eu acho que os olhares dela tão piorando toda vez que eu cumprimento ela.::
-36526::$$$message_0306_0022_0000$$$::"O quê? Eu vou ir embora se você não tem nada pra falar comigo."[lr]::
-36527::$$$message_0306_0022_0001$$$::Eu levanto minha mochila pra dizer pra ela que eu vou pra casa agora.::
-36528::$$$message_0306_0023_0000$$$::"[line8]Aah."[lr]::
-36529::$$$message_0306_0023_0001$$$::...?[lr]::
-36530::$$$message_0306_0023_0002$$$::Eu não sei porque, mas a Tohsaka suspira.::
-36531::$$$message_0306_0024_0000$$$::"Eu tô chocada. Vindo pra escola sem seu servo. Você tá são?"[lr]::
-36532::$$$message_0306_0024_0001$$$::Ela murmura sem emoção.::
-36533::$$$message_0306_0025_0000$$$::"Óbvio que eu tô são. Eu não posso deixar a Saber em forma de espírito, então não tem como eu trazer ela pra escola."::
-36534::$$$message_0306_0026_0000$$$::"Então mata aula. É como pedir pros outros te matarem se um mestre tá caminhando sem seu servo.[lr]::
-36535::$$$message_0306_0026_0001$$$::...Você sabe o quão estúpido você é, Emiya-kun?"::
-36536::$$$message_0306_0027_0000$$$::"Quê[line3]Eu não sou estúpido![lr]::
-36537::$$$message_0306_0027_0001$$$::Não fala coisas ridículas. Mestres não lutam na frente dos outros, certo? Então é fora de questão lutar durante o dia, e na escola também."::
-36538::$$$message_0306_0028_0000$$$::".........Ah, então me deixa te perguntar. Tem pessoas nos assistindo agora?"[lr]::
-36539::$$$message_0306_0028_0001$$$::"Huh[line4]?"[lr]::
-36540::$$$message_0306_0028_0002$$$::Do que ela tá falando? Eu não preciso nem checar se tem pessoas ao redor[line4]::
-36541::$$$message_0306_0029_0000$$$::"Huh[line6]?"[lr]::
-36542::$$$message_0306_0029_0001$$$::Por que é assim?[lr]::
-36543::$$$message_0306_0029_0002$$$::Convenientemente, não tem ninguém aqui.[lr]::
-36544::$$$message_0306_0029_0003$$$::Não tem ninguém no corredor do terceiro andar. Eu tenho certeza que é o mesmo pro quarto e segundo andar.::
-36545::$$$message_0306_0030_0000$$$::O prédio tingido de vermelho está quieto.[lr]::
-36546::$$$message_0306_0030_0001$$$::Eu aposto que só tem professores sobrando no primeiro andar[line4]::
-36547::$$$message_0306_0031_0000$$$::"Parece que você finalmente entende.[lr]::
-36548::$$$message_0306_0031_0001$$$::...Aah, eu tava mais brava do que chocada hoje de manhã.[lr]::
-36549::$$$message_0306_0031_0002$$$::Eu te falei tantas vezes, mas você ainda veio pra ser morto."[lr]::
-36550::$$$message_0306_0031_0003$$$::Dizendo irritada, a Tohsaka dobra sua manga.::
-36551::$$$message_0306_0031_0004$$$::"[line4]?"[lr]::
-36552::$$$message_0306_0031_0005$$$::Um esbelto, braço branco.[lr]::
-36553::$$$message_0306_0031_0006$$$::No braço feminino...[lr]::
-36554::$$$message_0306_0031_0007$$$::Algo como uma tatuagem brilhante aparece.::
-36555::$$$message_0306_0032_0000$$$::"[line4]O quê?"[lr]::
-36556::$$$message_0306_0032_0001$$$::Não é um selo de comando.[lr]::
-36557::$$$message_0306_0032_0002$$$::Isso pode ser[line4]? Mesmo não tendo um, deve ser a prova de um mago, um Brasão Mágico.::
-36558::$$$message_0306_0033_0000$$$::"[line3]Eu não preciso nem te explicar, certo?[lr]::
-36559::$$$message_0306_0033_0001$$$::Essa é a cristalização da taumaturgia passada pela minha família. Eu posso conjurar qualquer taumaturgia encravada aqui só preenchendo isso com energia mágica."::
-36560::$$$message_0306_0033_0002$$$::...Sim.[lr]::
-36561::$$$message_0306_0033_0003$$$::Um Brasão Mágico é como um motor anexado, separado do circuito mágico em um mago.[lr]::
-36562::$$$message_0306_0033_0004$$$::Não há encantação difícil ou procedimento a seguir.[lr]::
-36563::$$$message_0306_0033_0005$$$::É um derradeiro mecanismo de apressar que dirige o carro chamado taumaturgia só ao ligar ele.::
-36564::$$$message_0306_0033_0006$$$::Mas o Brasão Mágico não vai aparecer a não ser que esteja em uso.[lr]::
-36565::$$$message_0306_0033_0007$$$::O Brasão Mágico é como um circuito mágico separado que é formado pelo mago pondo energia mágica nele.::
-36566::$$$message_0306_0033_0008$$$::"Eu falei pro Archer ir pra casa. O 'Tiro de Gandr' no Brasão Mágico deve ser o suficiente pra você."[lr]::
-36567::$$$message_0306_0033_0009$$$::Não tem emoção na voz dela.[lr]::
-36568::$$$message_0306_0033_0010$$$::"[line8]"[lr]::
-36569::$$$message_0306_0033_0011$$$::Isso me faz perceber que ela tá séria.::
-36570::$$$message_0306_0034_0000$$$::"Você pode correr, mas isso só vai deixar mais duro pra você. Eu vou vencer no final não importa o que você faça."[lr]::
-36571::$$$message_0306_0034_0001$$$::Ela diz friamente.[lr]::
-36572::$$$message_0306_0034_0002$$$::Mas minha cabeça tá girando.::
-36573::$$$message_0306_0035_0000$$$::Lutar aqui...?[lr]::
-36574::$$$message_0306_0035_0001$$$::Por que que tem que ser aqui?[lr]::
-36575::$$$message_0306_0035_0002$$$::Por que que tem que ser agora?[lr]::
-36576::$$$message_0306_0035_0003$$$::E por que que eu tenho que lutar contra Tohsaka[line4]?::
-36577::$$$message_0306_0036_0000$$$::"E-Espera, Tohsaka! Isso é a escola! Quem sabe se não vai aparecer alguém se a gente fizer uma comoção[line3]"::
-36578::$$$message_0306_0037_0000$$$::"Eu vou pensar nisso quando acontecer. Eu não deixo chances na minha frente deslizarem. Me desculpa, mas eu tô tomando cuidado de você aqui e agora.[lr]::
-36579::$$$message_0306_0037_0001$$$::...E além disso, eu não acho que eu consigo aguentar ter você caminhando por aí despreocupadamente."::
-36580::$$$message_0306_0038_0000$$$::"E-Eu disse espera...! Eu não tenho nenhuma intenção de lutar com você[line3]"[lr]::
-36581::$$$message_0306_0038_0001$$$::"Eu tenho mesmo que você não tenha! Só se prepara, Shirou[line3]!"::
-36582::$$$message_0306_0039_0000$$$::Ela move o braço dela e começa a luta.::
-36583::$$$message_0306_0040_0000$$$::"[line8]!"[lr]::
-36584::$$$message_0306_0040_0001$$$::Que tipo de taumaturgia é essa?[lr]::
-36585::$$$message_0306_0040_0002$$$::No instante que ela aponta a mão esquerda pra mim, minha visão é preenchida por luz.::
-36586::$$$message_0306_0041_0000$$$::"......!"::
-36587::$$$message_0306_0041_0001$$$::Tem mais ou menos quatro passos entre eu e as escadas que vão pro segundo andar.[lr]::
-36588::$$$message_0306_0041_0002$$$::Isso não é hora de pensar. Eu[line3]::
+36525::$$$message_0306_0021_0003$$$::Primeiro de manhã e agora isso... Sinto que o jeito que ela me olha torto só piora toda vez que eu falo com ela.::
+36526::$$$message_0306_0022_0000$$$::"Hã? Que foi? Se não tem nada pra falar, eu vou indo."[lr]::
+36527::$$$message_0306_0022_0001$$$::Levanto a minha mochila pra mostrar que eu já tava de saída.::
+36528::$$$message_0306_0023_0000$$$::"...Tsc."[lr]::
+36529::$$$message_0306_0023_0001$$$::[font italic=true]E agora?[font italic=false][lr]::
+36530::$$$message_0306_0023_0002$$$::O suspiro que a Tohsaka solta deixa bem claro que ela tá de saco cheio.::
+36531::$$$message_0306_0024_0000$$$::"Tô pasma. Vir pra escola sem o seu Servo... Você é doido?"[lr]::
+36532::$$$message_0306_0024_0001$$$::Ela murmura com um tom de voz totalmente vazio.::
+36533::$$$message_0306_0025_0000$$$::"Óbvio que não sou doido. A Saber não pode assumir forma espiritual, então não tinha como eu trazer ela comigo pra escola."::
+36534::$$$message_0306_0026_0000$$$::"Então você deveria ter matado aula. Um Mestre dar sopa por aí sem o seu Servo é o mesmo que pedir pra ser morto.[lr]::
+36535::$$$message_0306_0026_0001$$$::...Emiya, você tem noção do quão burro você é?"::
+36536::$$$message_0306_0027_0000$$$::"O q[line2] Eu não sou burro![lr]::
+36537::$$$message_0306_0027_0001$$$::Corta essa. Mestres não lutam em lugares onde os outros possam ver, certo? Então durante o dia, ainda mais na escola, tá fora de cogitação."::
+36538::$$$message_0306_0028_0000$$$::"...Tá bom. Então deixa eu te perguntar uma coisa. Tem alguém nos vendo agora?"[lr]::
+36539::$$$message_0306_0028_0001$$$::"Hã...?"[lr]::
+36540::$$$message_0306_0028_0002$$$::Do que ela tá falando? Não preciso nem verificar pra saber que os outros podem n[line2]::
+36541::$$$message_0306_0029_0000$$$::"Hã...?"[lr]::
+36542::$$$message_0306_0029_0001$$$::Como isso...?[lr]::
+36543::$$$message_0306_0029_0002$$$::Convenientemente, não tem vivalma por perto.[lr]::
+36544::$$$message_0306_0029_0003$$$::Não tem ninguém no corredor do terceiro andar. Certeza que é a mesma coisa no quarto e no segundo andar.::
+36545::$$$message_0306_0030_0000$$$::Banhado pelo sol poente, o prédio escolar tá num silêncio absoluto.[lr]::
+36546::$$$message_0306_0030_0001$$$::Desse jeito, só deve ter aluno ou professor no primeiro andar...::
+36547::$$$message_0306_0031_0000$$$::"Parece que você finalmente se tocou.[lr]::
+36548::$$$message_0306_0031_0001$$$::...Sério, de manhã eu tava mais puta da cara do que pasma.[lr]::
+36549::$$$message_0306_0031_0002$$$::Eu te avisei não sei quantas vezes, e você ainda apareceu aqui pra morrer."[lr]::
+36550::$$$message_0306_0031_0003$$$::Com um tom ríspido, a Tohsaka arregaça a manga do braço esquerdo.::
+36551::$$$message_0306_0031_0004$$$::[font italic=true]O que é...?[font italic=false][lr]::
+36552::$$$message_0306_0031_0005$$$::Um braço pálido e fino.[lr]::
+36553::$$$message_0306_0031_0006$$$::Naquele braço feminino...[lr]::
+36554::$$$message_0306_0031_0007$$$::Surge algo que parece uma tatuagem brilhante.::
+36555::$$$message_0306_0032_0000$$$::"...Mas que p[line2]"[lr]::
+36556::$$$message_0306_0032_0001$$$::Não é um Selo de Comando.[lr]::
+36557::$$$message_0306_0032_0002$$$::Será que isso é... Eu não tenho um, mas será que é um Brasão Mágico? A prova de uma verdadeira família de magos?::
+36558::$$$message_0306_0033_0000$$$::"...Não preciso nem te explicar o que é isso, né?[lr]::
+36559::$$$message_0306_0033_0001$$$::Isso é a cristalização da Magia passada pela minha família. Posso ativar qualquer Magia cravada aqui só de passar energia mágica por ela."::
+36560::$$$message_0306_0033_0002$$$::...Pois é.[lr]::
+36561::$$$message_0306_0033_0003$$$::Um Brasão Mágico é como um motor externo, separado do Circuito Mágico de um mago.[lr]::
+36562::$$$message_0306_0033_0004$$$::Não tem cânticos difíceis ou processos complicados a seguir.[lr]::
+36563::$$$message_0306_0033_0005$$$::É o atalho supremo que faz o carro chamado Magia andar só de dar a partida.::
+36564::$$$message_0306_0033_0006$$$::Mas como consequência disso, o Brasão Mágico não aparece a menos que esteja em uso.[lr]::
+36565::$$$message_0306_0033_0007$$$::Ele é como um outro Circuito Mágico que se manifesta quando o dono passa energia mágica por ele.::
+36566::$$$message_0306_0033_0008$$$::"Eu mandei o Archer ir embora. O Tiro de Gandr nesse brasão é mais que suficiente pra você."[lr]::
+36567::$$$message_0306_0033_0009$$$::A voz dela é fria, quase robótica.[lr]::
+36568::$$$message_0306_0033_0010$$$::[font italic=true]...[font italic=false][lr]::
+36569::$$$message_0306_0033_0011$$$::Isso me faz cair na real de que ela tá falando sério.::
+36570::$$$message_0306_0034_0000$$$::"Você pode correr, mas só vai piorar a situação pro seu lado. Eu vou ganhar do mesmo jeito."[lr]::
+36571::$$$message_0306_0034_0001$$$::Ela diz de um jeito frio.[lr]::
+36572::$$$message_0306_0034_0002$$$::Mas a minha cabeça tá uma bagunça.::
+36573::$$$message_0306_0035_0000$$$::Lutar pra valer aqui...?[lr]::
+36574::$$$message_0306_0035_0001$$$::Por que tem que ser aqui?[lr]::
+36575::$$$message_0306_0035_0002$$$::Por que tem que ser agora?[lr]::
+36576::$$$message_0306_0035_0003$$$::E o mais importante, por que tem que ser logo contra a Tohsaka...?::
+36577::$$$message_0306_0036_0000$$$::"P-Pera aí, Tohsaka! Cê ficou maluca? A gente tá na escola! Quem sabe quem vai aparecer se a gente causar um estardalhaço desses[line2]"::
+36578::$$$message_0306_0037_0000$$$::"A gente se preocupa com isso quando acontecer. É meu princípio não deixar as chances escaparem das minhas mãos. Foi mal, mas o golpe de misericórdia vai rolar aqui e agora.[lr]::
+36579::$$$message_0306_0037_0001$$$::...E além do mais, não acho que eu consiga aturar ver você andando por aí tranquilão igual hoje."::
+36580::$$$message_0306_0038_0000$$$::"E-Eu falei pra esperar...! Eu não tenho a menor intenção de lutar com você[line2]"[lr]::
+36581::$$$message_0306_0038_0001$$$::"Bom, eu tenho...! Se prepara, Shirou...!"::
+36582::$$$message_0306_0039_0000$$$::A Tohsaka declara guerra e balança o braço.::
+36583::$$$message_0306_0040_0000$$$::"Ugh...!"[lr]::
+36584::$$$message_0306_0040_0001$$$::Que tipo de Magia é essa?[lr]::
+36585::$$$message_0306_0040_0002$$$::No instante em que a Tohsaka aponta o braço esquerdo pra mim, a minha visão é tomada por um clarão.::
+36586::$$$message_0306_0041_0000$$$::"Tsc...!"[lr]::
+36587::$$$message_0306_0041_0001$$$::Teria que dar uns quatro passos se eu pulasse em direção à escada pro segundo andar.[lr]::
+36588::$$$message_0306_0041_0002$$$::Não tenho tempo pra ficar apavorado. Eu deveria...::
+

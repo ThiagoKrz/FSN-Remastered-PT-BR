@@ -1,34 +1,34 @@
 DAT
 id=qid::label=str::text=lstr::
-37512::$$$message_0322_0000_0000$$$::"Eu vou ir falar com a Saber. Eu não sei o que foi, mas eu deixo você em comando da janta, tudo bem?"[lr]::
-37513::$$$message_0322_0000_0001$$$::"Sim.. Pode esperar ansiosamente pro kani-tama delicioso que eu vou fazer."::
+37512::$$$message_0322_0000_0000$$$::"Vou lá falar com a Saber. Não sei se é uma boa ideia, mas tem problema deixar a janta nas suas mãos?"[lr]::
+37513::$$$message_0322_0000_0001$$$::"Pode deixar. Vou fazer um kani-tama delicioso pra você, aguarde e confie."::
 37514::$$$message_0322_0001_0000$$$::"......"[lr]::
-37515::$$$message_0322_0001_0001$$$::Eu tô um pouco preocupado, mas kani-tama é como um omelete, então a Fuji-nee deve ser capaz de cuidar disso.::
-37516::$$$message_0322_0002_0000$$$::"Acabei de chegar em casa, Saber."[lr]::
-37517::$$$message_0322_0002_0001$$$::Eu tiro meus sapatos enquanto vou pro dojo.::
-37518::$$$message_0322_0003_0000$$$::"[line3]Bem vindo de volta, Shirou. Parece que nada demais aconteceu hoje."[lr]::
-37519::$$$message_0322_0003_0001$$$::A Saber deve gostar da atmosfera, já que ela tá sempre aqui.::
-37520::$$$message_0322_0004_0000$$$::Eu me igualo a Saber e sento em estilo japonês pra contar pra ela o que aconteceu hoje[line4]sobre como nós eliminamos o Campo Limitado na escola, e sobre como a Tohsaka tá esperando um contra-ataque amanhã.::
-37521::$$$message_0322_0005_0000$$$::"...Entendo. Então a batalha com o mestre é amanhã? Então eu irei dormir bem hoje e salvar minha energia."::
-37522::$$$message_0322_0006_0000$$$::Eu aceno com a cabeça que sim.[lr]::
-37523::$$$message_0322_0006_0001$$$::Eu sei que tô sendo muito otimista, mas eu não quero contar pra ela sobre o Shinji.[lr]::
-37524::$$$message_0322_0006_0002$$$::Eu não quero que ela considere ele um inimigo até eu descobrir as verdadeiras intenções dele.::
-37525::$$$message_0322_0007_0000$$$::"Mas Shirou. Você deveria estar aqui quando é quase hora do jantar?"[lr]::
-37526::$$$message_0322_0007_0001$$$::"Bom, eu vim reportar pra você porque eu não tenho nada pra fazer e falta tempo até a janta.[lr]::
-37527::$$$message_0322_0007_0002$$$::Não é ruim relaxar até o jantar de vez em quando."::
-37528::$$$message_0322_0008_0000$$$::"O quê...? Então você não está fazendo o jantar hoje...!?"[lr]::
-37529::$$$message_0322_0008_0001$$$::"Eh...? I-Isso é verdade, mas tem algum problema com isso? A Fuji-nee tá trabalhando duro, então eu não quero interromper ela."::
-37530::$$$message_0322_0009_0000$$$::"...Hmmm... A vontade da Taiga de cozinhar deve certamente ser respeitada. Mas... uhm, então você não vai ajudar ela...?"::
-37531::$$$message_0322_0010_0000$$$::"Não. Tá tudo bem. A Fuji-nee é uma mulher crescida, então ela deve ser capaz de fazer kani-tama.[lr]::
-37532::$$$message_0322_0010_0001$$$::Ela talvez seja melhor do que eu até. Ela tem um nível A em surpresas, afinal."::
-37533::$$$message_0322_0011_0000$$$::Eu dou pra ela uma explicação estranha.[lr]::
-37534::$$$message_0322_0011_0001$$$::Mas a Saber franze as sobrancelhas.[lr]::
-37535::$$$message_0322_0011_0002$$$::"...Tudo bem. Eu irei acreditar em suas palavras acima das da Taiga.[lr]::
-37536::$$$message_0322_0011_0003$$$::...Me deixe ter certeza. Eu posso confiar em você, certo?"[lr]::
-37537::$$$message_0322_0011_0004$$$::Ela confirma em um tom ameaçador.::
-37538::$$$message_0322_0012_0000$$$::"S-Sim. Você pode confiar em mim."[lr]::
-37539::$$$message_0322_0012_0001$$$::"...Eu ouvi isso. Por favor não esqueça do juramento que você fez."[lr]::
-37540::$$$message_0322_0012_0002$$$::A Saber relaxa os ombros.::
-37541::$$$message_0322_0013_0000$$$::...Cara.[lr]::
-37542::$$$message_0322_0013_0001$$$::Quem poderia ter imaginado que isso fosse virar um desastre...?::
+37515::$$$message_0322_0001_0001$$$::Tô um pouco preocupado, mas kani-tama é tipo uma versão avançada de omelete, então até a Fuji-nee deve dar conta.::
+37516::$$$message_0322_0002_0000$$$::"Cheguei, Saber."[lr]::
+37517::$$$message_0322_0002_0001$$$::Tiro os meus sapatos ao entrar no dojo.::
+37518::$$$message_0322_0003_0000$$$::"...Bem-vindo de volta, Shirou. Pelo visto, nada fora do comum aconteceu hoje."[lr]::
+37519::$$$message_0322_0003_0001$$$::Saber deve se sentir relaxada com a atmosfera daqui, já que parece gostar bastante do dojo.::
+37520::$$$message_0322_0004_0000$$$::Sento no chão de frente para a Saber e conto o que aconteceu hoje. Sobre como nós eliminamos o Campo Limitado na escola, e como Tohsaka espera que haja algum tipo de contra-ataque amanhã.::
+37521::$$$message_0322_0005_0000$$$::"...Entendo. Então a nossa batalha contra um Mestre inimigo será amanhã? Sendo assim, vou descansar bem esta noite e poupar minha energia."::
+37522::$$$message_0322_0006_0000$$$::Eu concordo.[lr]::
+37523::$$$message_0322_0006_0001$$$::...Eu sei que é meio inocência da minha parte, mas não contei a ela sobre o Shinji.[lr]::
+37524::$$$message_0322_0006_0002$$$::Não quero que ela o considere um inimigo até que as verdadeiras intenções dele fiquem claras.::
+37525::$$$message_0322_0007_0000$$$::"Entretanto, Shirou. Tem certeza de que pode ficar aqui quando é quase hora do jantar?"[lr]::
+37526::$$$message_0322_0007_0001$$$::"Hmm? Bom, não tem nada em particular que eu precise fazer, então vim dar o relatório já que ainda falta um tempo pra janta.[lr]::
+37527::$$$message_0322_0007_0002$$$::Não é ruim relaxar um pouco antes de comer de vez em quando."::
+37528::$$$message_0322_0008_0000$$$::"O quê...? Então você não fará o jantar hoje...!?"[lr]::
+37529::$$$message_0322_0008_0001$$$::"Hã...? S-sim, tem algum problema? A Fuji-nee tá lá toda empenhada, então não quero atrapalhar."::
+37530::$$$message_0322_0009_0000$$$::"...Hmm... Sem dúvidas, devemos respeitar a força de vontade de Taiga. Mas... hum, você realmente não vai ajudá-la...?"::
+37531::$$$message_0322_0010_0000$$$::"Não. Tá tudo bem, a Fuji-nee é uma mulher adulta, então deve conseguir fazer um kani-tama.[lr]::
+37532::$$$message_0322_0010_0001$$$::Vai ver ela até se sai melhor que eu. Afinal de contas, ela tem um Rank A em ser imprevisível."::
+37533::$$$message_0322_0011_0000$$$::Admito que dei uma explicação meio estranha.[lr]::
+37534::$$$message_0322_0011_0001$$$::E a Saber continua com a testa franzida.[lr]::
+37535::$$$message_0322_0011_0002$$$::"...Entendido. Irei acreditar nas suas palavras em vez das de Taiga.[lr]::
+37536::$$$message_0322_0011_0003$$$::...Mas me deixe confirmar uma coisa. Eu posso confiar em você, certo, Shirou?"[lr]::
+37537::$$$message_0322_0011_0004$$$::Ela me questiona com uma intensidade intimidadora.::
+37538::$$$message_0322_0012_0000$$$::"S-sim. Pode confiar."[lr]::
+37539::$$$message_0322_0012_0001$$$::"...Ouvi bem. Por favor, não se esqueça do juramento que fez."[lr]::
+37540::$$$message_0322_0012_0002$$$::Isso deve ter sido o bastante, já que ela relaxa os ombros.::
+37541::$$$message_0322_0013_0000$$$::...Putz.[lr]::
+37542::$$$message_0322_0013_0001$$$::Quem diria que isso ia acabar virando um desastre...?::
 

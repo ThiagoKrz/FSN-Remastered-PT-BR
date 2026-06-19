@@ -6,13 +6,13 @@ id=qid::label=str::text=lstr::
 10181::$$$message_0101_0000_0003$$$::Se o Shinji realmente quisesse se proteger, teria pedido ajuda à Tohsaka também. Não só a mim.[lr]::
 10182::$$$message_0101_0000_0004$$$::Além disso...::
 10183::$$$message_0101_0001_0000$$$::"Shinji. Você sabe que existe alguém supervisionando esta Guerra do Santo Graal?"::
-10184::$$$message_0101_0002_0000$$$::"Sim. O padre da Igreja, certo? Ouvi dizer que ele sobreviveu à guerra anterior, mas ainda não fui conhecê-lo. Ele parece irritante.[lr]::
-10185::$$$message_0101_0002_0001$$$::Não sou mago, então não quero que me imponham regras de magos."::
+10184::$$$message_0101_0002_0000$$$::"Sim. O padre da igreja, certo? Ouvi dizer que ele sobreviveu à guerra anterior, mas ainda não fui conhecê-lo. Ele parece irritante.[lr]::
+10185::$$$message_0101_0002_0001$$$::Não sou mago, então não quero que me imponham regras de mago."::
 10186::$$$message_0101_0003_0000$$$::[font italic=true]...[font italic=false][lr]::
 10187::$$$message_0101_0003_0001$$$::O Shinji está se contradizendo.[lr]::
 10188::$$$message_0101_0003_0002$$$::Se ele realmente quisesse parar de lutar, teria ido direto ao Kotomine.::
 10189::$$$message_0101_0004_0000$$$::"Shinji, você sabia que há um Campo Limitado montado na escola?"[lr]::
-10190::$$$message_0101_0004_0001$$$::"Sim. Não percebi, mas a Rider me contou. O que é que tem?"::
+10190::$$$message_0101_0004_0001$$$::"Sim. Não percebi, mas a Rider me contou. O que tem isso?"::
 10191::$$$message_0101_0005_0000$$$::"Não foi obra sua? A Tohsaka disse que era trabalho de um Mestre na escola."::
 10192::$$$message_0101_0006_0000$$$::"Ah. Bem, não fui eu. Eu sei que há outro Mestre na nossa escola, então provavelmente é essa pessoa."[lr]::
 10193::$$$message_0101_0006_0001$$$::"Hã? A Tohsaka disse que só existe mais um Mestre."::
@@ -26,22 +26,22 @@ id=qid::label=str::text=lstr::
 10201::$$$message_0101_0009_0001$$$::O método da Tohsaka, de procurar pessoas com Energia Mágica própria, não a levaria a Mestres como o Shinji.[lr]::
 10202::$$$message_0101_0009_0002$$$::O Shinji não tem nenhuma das características que a Tohsaka espera de um Mestre.::
 10203::$$$message_0101_0010_0000$$$::"Entendo. Então a Tohsaka deve estar sentindo um Mestre diferente."[lr]::
-10204::$$$message_0101_0010_0001$$$::Quando eu chegar em casa, devo contar isso à Tohsaka.[lr]::
+10204::$$$message_0101_0010_0001$$$::Quando eu chegar em casa, devo avisar a Tohsaka disso.[lr]::
 10205::$$$message_0101_0010_0002$$$::Com isso resolvido, não há mais motivo para eu continuar aqui.::
 10206::$$$message_0101_0011_0000$$$::"...! Ei, Emiya! E a nossa parceria?"::
 10207::$$$message_0101_0012_0000$$$::"Vou ter que recusar. Não vou ajudar você a derrotar a Tohsaka.[lr]::
 10208::$$$message_0101_0012_0001$$$::Além disso, ela não fez nada.[lr]::
 10209::$$$message_0101_0012_0002$$$::Eu sei que um dia vou ter que... lutar com ela, mas confio nela agora e quero continuar confiando."::
-10210::$$$message_0101_0013_0000$$$::"...Hmph. Quando alguma coisa acontecer, já vai ser tarde demais. Mas, se é assim que você se sente, não vou insistir. Vou esperar para ver no que dá, assim como você."::
-10211::$$$message_0101_0014_0000$$$::Surpreendentemente, o Shinji desiste.[lr]::
+10210::$$$message_0101_0013_0000$$$::"...Hmph. Quando alguma coisa acontecer, já vai ser tarde demais. Mas, se é assim que você se sente, não vou insistir. Vou esperar para ver no que dá, igual a você."::
+10211::$$$message_0101_0014_0000$$$::Surpreendentemente, Shinji desiste.[lr]::
 10212::$$$message_0101_0014_0001$$$::Ele não tenta me impedir de ir para casa nem manda a Rider me atacar.::
 10213::$$$message_0101_0015_0000$$$::O Shinji realmente é um cara complicado.[lr]::
-10214::$$$message_0101_0015_0001$$$::Ele pode agir como um idiota, mas parece tentar ser justo à sua própria maneira.::
+10214::$$$message_0101_0015_0001$$$::Ele pode agir feito um idiota, mas parece tentar ser justo à sua própria maneira.::
 10215::$$$message_0101_0016_0000$$$::"Ei, Shinji. Sei que estou insistindo nisso, mas a Sakura sabe sobre você?"::
 10216::$$$message_0101_0017_0000$$$::"Ela não sabe, e não pretendo contar. Sou o herdeiro da Família Matou. A Sakura pode continuar sendo só minha irmã mais nova, sem saber de nada."::
 10217::$$$message_0101_0018_0000$$$::"Seria o ideal. Não quero que a vida da Sakura mude."::
 10218::$$$message_0101_0019_0000$$$::"Ha."[lr]::
-10219::$$$message_0101_0019_0001$$$::"Certo. Já que sou o irmão mais velho dela, eu é que devia te agradecer por você se preocupar tanto com a Sakura. Tudo bem, Emiya. Vou te contar uma coisa útil.[lr]::
+10219::$$$message_0101_0019_0001$$$::"Certo. Já que sou o irmão mais velho dela, eu é que devia agradecer por você se preocupar tanto com a Sakura. Tudo bem, Emiya. Vou te contar uma coisa útil.[lr]::
 10220::$$$message_0101_0019_0002$$$::Não sei quem é, mas um dos Mestres montou base no templo."::
 10221::$$$message_0101_0020_0000$$$::"O quê!? O templo? Quer dizer o Templo Ryuudou!?"[lr]::
 10222::$$$message_0101_0020_0001$$$::"Sim. De acordo com meu Servo, há uma bruxa vivendo nas montanhas. Ao que parece, ela está coletando uma grande quantidade de almas, então as coisas vão ficar feias se ninguém fizer nada."::
@@ -50,20 +50,20 @@ id=qid::label=str::text=lstr::
 10225::$$$message_0101_0021_0002$$$::E, se essa bruxa está coletando uma quantidade enorme de almas, há uma alta probabilidade de ela ser a causa do que apareceu nas notícias desta manhã.::
 10226::$$$message_0101_0022_0000$$$::"Isso é tudo o que eu tinha para te contar.[lr]::
 10227::$$$message_0101_0022_0001$$$::Rider, acompanhe-o até a saída. Não machuque o Emiya; ele está do nosso lado."[lr]::
-10228::$$$message_0101_0022_0002$$$::Seguindo a ordem do Shinji, a Rider se aproxima de mim.::
+10228::$$$message_0101_0022_0002$$$::Seguindo a ordem do Shinji, Rider se aproxima de mim.::
 10229::$$$message_0101_0023_0000$$$::"Ahn... não, quer dizer..."::
 10230::$$$message_0101_0024_0000$$$::"Não se preocupe com isso. Enquanto você estiver na minha casa, sua segurança é minha responsabilidade. Não seria nada bom se você se machucasse ou algo assim.[lr]::
 10231::$$$message_0101_0024_0001$$$::Ah, Rider. Só precisa acompanhá-lo até a porta da frente. Depois que ele sair da casa, deixa de ser problema meu. Mas trate-o bem até lá."[lr]::
-10232::$$$message_0101_0024_0002$$$::O Shinji recua para o aposento dos fundos.::
+10232::$$$message_0101_0024_0002$$$::Shinji recua para o aposento dos fundos.::
 10233::$$$message_0101_0025_0000$$$::"..."[lr]::
 10234::$$$message_0101_0025_0001$$$::Eu olho em silêncio para a Rider.::
 10235::$$$message_0101_0026_0000$$$::"..."[lr]::
 10236::$$$message_0101_0026_0001$$$::A Rider, toda vestida de preto, não diz nada.[lr]::
 10237::$$$message_0101_0026_0002$$$::O que me surpreende, porém, é que, quando olho mais de perto, percebo que ela tem um rosto gracioso e de aparência inocente.::
 10238::$$$message_0101_0027_0000$$$::Seus longos cabelos roxos, que chegam até o chão, exalam um odor nauseante de sangue, mas, ao mesmo tempo, ela é inacreditavelmente bela.[lr]::
-10239::$$$message_0101_0027_0001$$$::...Ahn, percebo que fiquei encarando por causa da aparência dela e, por um instante, fico constrangido, mas tenho a sensação de que o rosto dela e a roupa simplesmente não combinam.::
+10239::$$$message_0101_0027_0001$$$::...Er, percebo que fiquei encarando por causa da aparência dela e, por um instante, fico constrangido, mas tenho a sensação de que o rosto dela e a roupa simplesmente não combinam.::
 10240::$$$message_0101_0028_0000$$$::Se eu tivesse de resumi-la em uma única frase... ela é como uma sacerdotisa com sangue escorrendo pelo corpo.[lr]::
-10241::$$$message_0101_0028_0001$$$::Ela é santa e maligna ao mesmo tempo... a Rider é uma contradição ambulante.::
+10241::$$$message_0101_0028_0001$$$::Ela é santa e maligna ao mesmo tempo... Rider é uma contradição ambulante.::
 10242::$$$message_0101_0029_0000$$$::"...Na verdade..."[lr]::
 10243::$$$message_0101_0029_0001$$$::Por que todos os Espíritos Heroicos são tão belos?[lr]::
 10244::$$$message_0101_0029_0002$$$::Enquanto penso nisso, percebo que estou olhando para o rosto da Rider por pura curiosidade.[line2]Nossa, ela é bem alta para uma mulher.[lr]::

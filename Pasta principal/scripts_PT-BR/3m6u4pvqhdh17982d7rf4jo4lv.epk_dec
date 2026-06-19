@@ -1,68 +1,69 @@
 DAT
 id=qid::label=str::text=lstr::
-30848::$$$message_0244_0000_0000$$$::Eu chego na escola uma hora atrasado.[lr]::
-30849::$$$message_0244_0000_0001$$$::O corredor tá cheio de alunos porque é hora do almoço.[lr]::
-30850::$$$message_0244_0000_0002$$$::As aulas devem ter acabado agora pra 2-C, já que várias pessoas familiares tão saindo da classe.::
-30851::$$$message_0244_0001_0000$$$::"Salve. Eu não sei porque, mas a tigresa tava muito brava. Você devia se preparar pro quarto período."[lr]::
-30852::$$$message_0244_0001_0001$$$::"...Ah sim. Nós temos inglês hoje."::
-30853::$$$message_0244_0002_0000$$$::Eu comprimento o colega que me dá notícias assustadoras.[lr]::
-30854::$$$message_0244_0002_0001$$$::No instante que eu chego na porta pra entrar na classe...[lr]::
-30855::$$$message_0244_0002_0002$$$::"Hm[line4]?"[lr]::
-30856::$$$message_0244_0002_0003$$$::O professor de história mundial sai.::
-30857::$$$message_0244_0003_0000$$$::"Bom dia, Sensei."[lr]::
-30858::$$$message_0244_0003_0001$$$::"Você está atrasado, Emiya? Nós cobrimos o que cairá no teste. Pegue com um colega mais tarde."[lr]::
-30859::$$$message_0244_0003_0002$$$::"T-Tudo bem. Desculpa chegar atrasado."::
-30860::$$$message_0244_0004_0000$$$::O Kuzuki balança a cabeça e sai.[lr]::
-30861::$$$message_0244_0004_0001$$$::Ele é Kuzuki Souichirou, o professor de ferro que ensina história mundial e filosofia, e também toma conta do conselho estudantil.[lr]::
-30862::$$$message_0244_0004_0002$$$::Ele é assim como parece, e ele é um raro professor que ganha popularidade enquanto os estudantes progridem pela escola.::
-30863::$$$message_0244_0005_0000$$$::"Dia."[lr]::
-30864::$$$message_0244_0005_0001$$$::Eu vou até minha carteira cumprimentando meus colegas.[lr]::
-30865::$$$message_0244_0005_0002$$$::Por alguns segundos, eu me arrependo em me atrasar...::
-30866::$$$message_0244_0006_0000$$$::"Ei. Você chegou bem atrasado."[lr]::
-30867::$$$message_0244_0006_0001$$$::"?"[lr]::
-30868::$$$message_0244_0006_0002$$$::Alguém me cumprimenta, então eu me viro.[lr]::
-30869::$$$message_0244_0006_0003$$$::[line3]Então.[lr]::
-30870::$$$message_0244_0006_0004$$$::Ali tá o Shinji, agindo amigavelmente.::
-30871::$$$message_0244_0007_0000$$$::"...Shinji? Tem algo errado? Você tá estranho.[lr]::
-30872::$$$message_0244_0007_0001$$$::Você não dormiu o suficiente ontem?"[lr]::
-30873::$$$message_0244_0007_0002$$$::Eu falo pra ele o que eu tô pensando.[lr]::
-30874::$$$message_0244_0007_0003$$$::"[line8]"[lr]::
-30875::$$$message_0244_0007_0004$$$::Ele muda completamente e me lança um olhar severo... Então ele sorri de novo.[lr]::
-30876::$$$message_0244_0007_0005$$$::O Shinji tava estranho de novo, mas ele tá ainda mais estranho hoje.::
-30877::$$$message_0244_0008_0000$$$::"Shinji? Não me fala que você foi atacado. Merda, eu te avisei. Se você não vai lutar, você devia ficar em casa."[lr]::
-30878::$$$message_0244_0008_0001$$$::"......Cala boca. Por que você tá falando como se fosse o líder?"[lr]::
+30848::$$$message_0244_0000_0000$$$::Eu chego na escola mais de uma hora atrasado.[lr]::
+30849::$$$message_0244_0000_0001$$$::O corredor tá cheio de alunos transitando entre as aulas.[lr]::
+30850::$$$message_0244_0000_0002$$$::Parece que a aula da 2-C também acabou de terminar, já que vários rostos conhecidos tão saindo da sala.::
+30851::$$$message_0244_0001_0000$$$::"E aí. Não sei por que, mas a Taiga tava puta da vida. É melhor você se preparar pro quarto período."[lr]::
+30852::$$$message_0244_0001_0001$$$::"...Ah, é mesmo. Tem aula de inglês hoje."::
+30853::$$$message_0244_0002_0000$$$::Meus colegas me dizem justamente o que eu menos queria ouvir.[lr]::
+30854::$$$message_0244_0002_0001$$$::No instante em que ponho a mão na porta com a maior preguiça...[lr]::
+30855::$$$message_0244_0002_0002$$$::"Hm?"[lr]::
+30856::$$$message_0244_0002_0003$$$::O professor de história mundial sai da sala.::
+30857::$$$message_0244_0003_0000$$$::"Bom dia, professor Kuzuki."[lr]::
+30858::$$$message_0244_0003_0001$$$::"Atrasado, Emiya? Nós revisamos a matéria que vai cair na prova. Não se esqueça de pegar com algum colega mais tarde."[lr]::
+30859::$$$message_0244_0003_0002$$$::"C-Certo. Desculpe pelo atraso."::
+30860::$$$message_0244_0004_0000$$$::Kuzuki acena com a cabeça e vai embora.[lr]::
+30861::$$$message_0244_0004_0001$$$::Souichirou Kuzuki é o inflexível professor de história mundial e ética. Ele também é o responsável pelo conselho estudantil.[lr]::
+30862::$$$message_0244_0004_0002$$$::Apesar de ser de poucas palavras, ele é uma raridade nessa escola cuja popularidade cresce à medida que os alunos o conhecem melhor.::
+30863::$$$message_0244_0005_0000$$$::"Bom dia."[lr]::
+30864::$$$message_0244_0005_0001$$$::Vou até minha carteira cumprimentando o pessoal no caminho.[lr]::
+30865::$$$message_0244_0005_0002$$$::É um pouco vergonhoso aparecer atrasado assim.::
+30866::$$$message_0244_0006_0000$$$::"Opa. Chegou bem tarde, hein."[lr]::
+30867::$$$message_0244_0006_0001$$$::"Hm?"[lr]::
+30868::$$$message_0244_0006_0002$$$::Alguém fala comigo e eu me viro.[lr]::
+30869::$$$message_0244_0006_0003$$$::   E lá estava...[lr]::
+30870::$$$message_0244_0006_0004$$$::É o Shinji, com um sorriso estranho no rosto.::
+30871::$$$message_0244_0007_0000$$$::"...Shinji? Aconteceu alguma coisa? Cê tá meio estranho.[lr]::
+30872::$$$message_0244_0007_0001$$$::Não dormiu bem noite passada?"[lr]::
+30873::$$$message_0244_0007_0002$$$::Mando a real pra ele.[lr]::
+30874::$$$message_0244_0007_0003$$$::[font italic=true]...[font italic=false][lr]::
+30875::$$$message_0244_0007_0004$$$::Por um momento ele faz cara de poucos amigos, mas logo volta a sorrir.[lr]::
+30876::$$$message_0244_0007_0005$$$::O Shinji tava estranho ontem, mas não chega nem aos pés de como ele tá hoje.::
+30877::$$$message_0244_0008_0000$$$::"Shinji? Você foi atacado? Seu idiota, achei que tinha te avisado. Fica em casa se quiser se proteger."[lr]::
+30878::$$$message_0244_0008_0001$$$::"...Cala a boca. Que porra de tom arrogante é esse?"[lr]::
 30879::$$$message_0244_0008_0002$$$::"...Shinji?"::
-30880::$$$message_0244_0009_0000$$$::"Ou o quê? Você se acha tanto por ser amigo da Tohsaka? ......Não entenda errado, tudo bem? Não significa que você é forte nem se você cooperar com a Tohsaka. Eu sei que você tá feliz em ter um servo forte, mas é vergonhoso se achar muito."::
-30881::$$$message_0244_0010_0000$$$::O Shinji me encara.[lr]::
-30882::$$$message_0244_0010_0001$$$::Não parece que ele tá muito calmo.[lr]::
-30883::$$$message_0244_0010_0002$$$::"Ah enfim, é bom que você tenha vindo. Sabe, teria sido chato se você não tivesse vindo."[lr]::
-30884::$$$message_0244_0010_0003$$$::Isso deve ser tudo que ele queria dizer, já que o Shinji volta pro seu lugar, rindo.::
-30885::$$$message_0244_0011_0000$$$::A classe fica barulhenta já que é o intervalo de almoço.[lr]::
-30886::$$$message_0244_0011_0001$$$::"[line3]Huh? O Issei já vazou."[lr]::
-30887::$$$message_0244_0011_0002$$$::Ele deve ter ido pra sala do conselho estudantil de novo por causa da falta de sono recente.[lr]::
-30888::$$$message_0244_0011_0003$$$::Eu preparei meu almoço hoje, então eu queria evitar comer na classe[line4]::
-30889::$$$message_0244_0012_0000$$$::"Hm?"[lr]::
-30890::$$$message_0244_0012_0001$$$::Os garotos da minha classe tão fazendo uma comoção.::
-30891::$$$message_0244_0013_0000$$$::"Ei, o que tá acontecendo?"[lr]::
-30892::$$$message_0244_0013_0001$$$::Eu falo com eles.[lr]::
-30893::$$$message_0244_0013_0002$$$::Os caras que tão conversando secretamente me olham com olhos suspeitos.::
-30894::$$$message_0244_0014_0000$$$::"Não é hora de fazer perguntas. Olha pra fora da classe. Mas secretamente, tudo bem?"[lr]::
-30895::$$$message_0244_0014_0001$$$::...O Gotou deve ter assistido algum programa de TV estranho ontem.::
-30896::$$$message_0244_0015_0000$$$::"[line4]O quê?"[lr]::
-30897::$$$message_0244_0015_0001$$$::Então.[lr]::
-30898::$$$message_0244_0015_0002$$$::Fora da classe no corredor tem uma pessoa que tá agindo mais suspeitosamente que o Gotou e os outros.::
-30899::$$$message_0244_0016_0000$$$::"É a Tohsaka da 2-A. Ela tem algo pra fazer na nossa classe?"[lr]::
-30900::$$$message_0244_0016_0001$$$::"Ela tem que ter. Eu tô espiando faz um tempo, e ela tem feito o mesmo. Ela tá espiando na nossa classe de forma casual mas agressiva. Ela já passou pela nossa porta sete vezes. Não, agora essa foi a oitava."::
-30901::$$$message_0244_0017_0000$$$::"...Sim, isso não pode ser uma coincidência. Sou só eu ou ela parece tar brava? Ela não parece mais calma normalmente?"[lr]::
-30902::$$$message_0244_0017_0001$$$::"Ah, você acha isso também? Sim, ela tá ficando mais brava quanto mais ela fica aqui. É difícil chegar perto dela agora.[lr]::
-30903::$$$message_0244_0017_0002$$$::Ela deve estar irritada. Tem algo irritando ela?"::
-30904::$$$message_0244_0018_0000$$$::"Parece que a pessoa que ela tá esperando não percebeu ela, ao invés de não estar aqui ainda. É como se ela tivesse escondido o presente de aniversário pra alguém, e ela tá muito brava agora porque aquela pessoa não percebeu isso mesmo depois de um ano."[lr]::
-30905::$$$message_0244_0018_0001$$$::"...Gotou, você dá exemplos ridículos. Você é muito preciso.[lr]::
-30906::$$$message_0244_0018_0002$$$::O que você era? Um general na sua vida anterior?"::
-30907::$$$message_0244_0019_0000$$$::...Os garotos tão falando o que eles querem.[lr]::
-30908::$$$message_0244_0019_0001$$$::"......"[lr]::
-30909::$$$message_0244_0019_0002$$$::Eu timidamente olho pro corredor de novo.::
-30910::$$$message_0244_0020_0000$$$::[line3]Ela tá brava.[lr]::
-30911::$$$message_0244_0020_0001$$$::Eu não sei porque ela tá brava, mas eu acho que o Gotou-kun tá certo.::
-30912::$$$message_0244_0021_0000$$$::Bom.[lr]::
-30913::$$$message_0244_0021_0001$$$::O que eu faço?[lr]::
+30880::$$$message_0244_0009_0000$$$::"O quê, tá se achando só porque virou amiguinho da Tohsaka? Não tira o pé do chão. O fato de você tá trabalhando com ela não te faz o maioral. Eu sei que você tá todo felizinho por ter um Servo forte, mas não sente vergonha de se gabar tanto assim?"::
+30881::$$$message_0244_0010_0000$$$::O Shinji me fuzila com o olhar.[lr]::
+30882::$$$message_0244_0010_0001$$$::Parece que ele perdeu toda a postura agora, o que não é muito a cara dele.[lr]::
+30883::$$$message_0244_0010_0002$$$::"Tanto faz, que bom que você veio. Ia ser bem sem graça se você não tivesse ingressos pra primeira fila, sabe?"[lr]::
+30884::$$$message_0244_0010_0003$$$::Isso deve ser tudo que ele queria dizer, já que ele volta pra sua carteira, dando risada.::
+30885::$$$message_0244_0011_0000$$$::É hora do intervalo e a sala começa a ficar barulhenta.[lr]::
+30886::$$$message_0244_0011_0001$$$::"...Hã? O Issei já vazou."[lr]::
+30887::$$$message_0244_0011_0002$$$::Ele deve ter ido de novo pra sala do conselho estudantil pra tirar um cochilo.[lr]::
+30888::$$$message_0244_0011_0003$$$::Eu fiz meu próprio almoço de novo, então eu queria evitar de comer aqui na sala...::
+30889::$$$message_0244_0012_0000$$$::"Hã?"[lr]::
+30890::$$$message_0244_0012_0001$$$::Os moleques da sala tão fazendo um alvoroço.::
+30891::$$$message_0244_0013_0000$$$::"Aí, o que tá rolando?"[lr]::
+30892::$$$message_0244_0013_0001$$$::Eu pergunto pra eles.[lr]::
+30893::$$$message_0244_0013_0002$$$::Eles tão amontoados numa espécie de reunião secreta e me olham com suspeita.::
+30894::$$$message_0244_0014_0000$$$::"Não é hora pra isso, companheiro. Olha pra fora da sala. Mas seja discreto."[lr]::
+30895::$$$message_0244_0014_0001$$$::O Gotou deve ter assistido alguma novela de época ontem à noite, pelo jeito que ele tá falando. Ainda assim, faço o que ele mandou.::
+30896::$$$message_0244_0015_0000$$$::"...Mas o qu[line2]"[lr]::
+30897::$$$message_0244_0015_0001$$$::Lá...[lr]::
+30898::$$$message_0244_0015_0002$$$::Lá no corredor, fora da sala, tem uma pessoa agindo de forma ainda mais suspeita que o Gotou.::
+30899::$$$message_0244_0016_0000$$$::"É a Tohsaka da 2-A, né? E-Ela tem algum negócio na nossa sala?"[lr]::
+30900::$$$message_0244_0016_0001$$$::"Não há dúvidas, companheiro. Eu tenho observado atentamente. Ela não para de espiar a nossa sala. É a sétima vez que ela passa por aqui. Não, oitava."::
+30901::$$$message_0244_0017_0000$$$::"É, isso já não é mais coincidência. Parando pra pensar, ela não tá com uma cara de poucos amigos agora? Geralmente ela não é toda contida?"[lr]::
+30902::$$$message_0244_0017_0001$$$::"Cê também achou? Porque, pra mim, parece que cada vez que ela passa, ela tá ainda mais puta da vida. Eu que não quero chegar perto.[lr]::
+30903::$$$message_0244_0017_0002$$$::Ela tá pilhadassa. O que será que deixou ela tão irritada?"::
+30904::$$$message_0244_0018_0000$$$::"É como se a pessoa que ela aguarda ainda não tivesse aparecido, e muito menos notado que ela a espera. Como se ela tivesse escondido um presente de aniversário, mas agora estivesse espumando de raiva porque a pessoa não notou o presente por um ano inteiro."[lr]::
+30905::$$$message_0244_0018_0001$$$::"As suas metáforas são doidas, Gotou. Mas, por incrível que pareça, precisas.[lr]::
+30906::$$$message_0244_0018_0002$$$::O que cê era? Algum estrategista ou conselheiro militar numa vida passada?"::
+30907::$$$message_0244_0019_0000$$$::...Esses caras falam cada besteira.[lr]::
+30908::$$$message_0244_0019_0001$$$::"..."[lr]::
+30909::$$$message_0244_0019_0002$$$::Dou mais uma espiada tímida lá pro corredor.::
+30910::$$$message_0244_0020_0000$$$::   Ela tá puta da vida.[lr]::
+30911::$$$message_0244_0020_0001$$$::Eu não sei com o que ela tá puta, mas sinto que o palpite do Gotou tá certíssimo.::
+30912::$$$message_0244_0021_0000$$$::Então...[lr]::
+30913::$$$message_0244_0021_0001$$$::O que eu devo fazer?[lr]::
+

@@ -1,63 +1,64 @@
 DAT
 id=qid::label=str::text=lstr::
-51208::$$$message_0441_0000_0000$$$::...Bem, estamos na escola mesmo.[lr]::
-51209::$$$message_0441_0000_0001$$$::Vou mostrar ela pra Saber.::
-51210::$$$message_0441_0001_0000$$$::"Vou fazer uma caminhada. Volto depois que terminar de andar."::
-51211::$$$message_0441_0002_0000$$$::"Caminhada? Tudo bem, mas você tem gostos estranhos. Kiritsugu-san também tinha hobbies chatos, então você é como ele?"[lr]::
-51212::$$$message_0441_0002_0001$$$::"Me deixando de lado, não acho que caminhar seja um hobby chato.[lr]::
-51213::$$$message_0441_0002_0002$$$::Não quero comparar os dois, mas sair para um encontro é como dar um passeio também."::
-51214::$$$message_0441_0003_0000$$$::"Ei, encontros são diferente. É mais como um passeio pra ir comer muita comida boa."::
-51215::$$$message_0441_0004_0000$$$::"Estou dizendo que atitudes sem sentido são chamadas de caminhadas. Enfim, estou indo.[lr]::
-51216::$$$message_0441_0004_0001$$$::...Ah é, estou caminhando na escolha, então não vou trazer presentes pra você. Não tem lojinhas por aqui."::
-51217::$$$message_0441_0005_0000$$$::"Ah é. O refeitório está fechado, e a sala de economia doméstica também.[lr]::
-51218::$$$message_0441_0005_0001$$$::...Fazer o que. Não precisa me trazer nada, então volte logo, okay, Emiya-kun?"[lr]::
-51219::$$$message_0441_0005_0002$$$::No fim, ela me chama pelo sobrenome como uma professora qualquer.[lr]::
-51220::$$$message_0441_0005_0003$$$::Aceno pra ela e chamo a Saber.::
-51221::$$$message_0441_0006_0000$$$::"Passeio na escola?"[lr]::
-51222::$$$message_0441_0006_0001$$$::"É. Estamos aqui, então por que não, né? Seria chato pra você ficar só no campo de tiro."::
-51223::$$$message_0441_0007_0000$$$::"...Tem razão. Não estava entediada, mas valeria muito a pena olhar a escola. Checarei em pessoa se sua escola é segura ou não."::
+51208::$$$message_0441_0000_0000$$$::...Bem, já estamos na escola mesmo.[lr]::
+51209::$$$message_0441_0000_0001$$$::Acho que vou aproveitar e mostrar o local para a Saber.::
+51210::$$$message_0441_0001_0000$$$::"Vou dar uma volta. Volto depois de andar um pouco pela escola."::
+51211::$$$message_0441_0002_0000$$$::"Uma caminhada? Tudo bem, eu acho, mas que sem graça. O Kiritsugu também era um tanto monótono, então talvez ele tenha passado isso para você?"[lr]::
+51212::$$$message_0441_0002_0001$$$::"Ignorando se ele passou isso para mim ou não, não acho que seja tão ruim.[lr]::
+51213::$$$message_0441_0002_0002$$$::Não quero comparar as duas coisas, mas sair para um encontro também é como dar uma caminhada."::
+51214::$$$message_0441_0003_0000$$$::"O quê? Não, encontros são diferentes. É mais como fazer uma excursão para comer muita comida boa."::
+51215::$$$message_0441_0004_0000$$$::"Estou dizendo que apenas vagar por aí é uma caminhada. Enfim, estou indo.[lr]::
+51216::$$$message_0441_0004_0001$$$::...Só para deixar claro, não vou sair do terreno da escola. Então não vou trazer comida para você. Não tem barracas de comida nem lojas por aqui."::
+51217::$$$message_0441_0005_0000$$$::"Ah, é. A cantina está fechada, e a sala de economia doméstica também.[lr]::
+51218::$$$message_0441_0005_0001$$$::...Tudo bem então, você não precisa me trazer nada, então volte logo, certo, Emiya?"[lr]::
+51219::$$$message_0441_0005_0002$$$::No fim, ela me chama pelo sobrenome, como uma professora.[lr]::
+51220::$$$message_0441_0005_0003$$$::Apenas aceno com a mão em resposta e chamo a Saber.::
+51221::$$$message_0441_0006_0000$$$::"Passeio pela escola?"[lr]::
+51222::$$$message_0441_0006_0001$$$::"É. Viemos até aqui. Pensei em aproveitar e te mostrar o lugar. É chato ficar só no dojo de arquearia, não é?"::
+51223::$$$message_0441_0007_0000$$$::"...Suponho que sim. Não estava entediada, mas nos daria um propósito dar uma olhada. Verificarei pessoalmente se a escola que o meu Mestre frequenta é segura ou não."::
 51224::$$$message_0441_0008_0000$$$::Ah, uau.[lr]::
-51225::$$$message_0441_0008_0001$$$::Foi só uma sugestão, mas parece que a Saber gostou da ideia.[lr]::
-51226::$$$message_0441_0008_0002$$$::...Bem, parece que suas expectativas diferem das minhas, mas vou ignorar o fato e mostrar a escola pra ela.::
-51227::$$$message_0441_0009_0000$$$::"Essa é a parte de trás dela. Aqui temos a floresta atrás do campo de tiro. Acho que tem cerca de uns 300 à 600 metros quadrados. Deve ser tão grande quanto a frente. É um exemplo de gerenciamento de propriedade que só existe porque temos uma montanha aqui."[lr]::
-51228::$$$message_0441_0009_0001$$$::Começo com um local próximo, a floresta atrás do campo de tiro.::
-51229::$$$message_0441_0010_0000$$$::"Ah. 300 à 600? Isso é muito ambíguo."[lr]::
-51230::$$$message_0441_0010_0001$$$::"Obrigado pelo duro comentário. Você parece decepcionada, o que foi, Saber?"::
-51231::$$$message_0441_0011_0000$$$::"Deve ser sua imaginação. Não tinha expectativas alguma quando você disse que me mostraria a escola.[lr]::
-51232::$$$message_0441_0011_0001$$$::Não, não me importo que você me trouxe aqui. Não tinha esperança alguma, então não tenho esperança para perder."::
+51225::$$$message_0441_0008_0001$$$::Acabei de ter essa ideia, mas, surpreendentemente, a Saber parece ter gostado.[lr]::
+51226::$$$message_0441_0008_0002$$$::...Bem, as minhas expectativas e as dela parecem diferir, mas eu deveria apenas mostrar a escola a ela sem me preocupar muito.::
+51227::$$$message_0441_0009_0000$$$::"Certo. Esta é a parte de trás do prédio. Atrás do dojo de arquearia, há um bosque. Imagino que tenha entre trezentos a seiscentos metros quadrados. Pode ser tão grande quanto o pátio da frente. Provavelmente só é permitido pelas leis de zoneamento por causa da montanha ali atrás."[lr]::
+51228::$$$message_0441_0009_0001$$$::Começo com a área próxima, atrás do dojo, em direção à montanha.::
+51229::$$$message_0441_0010_0000$$$::"Hmm. Entre trezentos a seiscentos? Isso não restringe muito bem."[lr]::
+51230::$$$message_0441_0010_0001$$$::"Público difícil. Você parece decepcionada por algum motivo."::
+51231::$$$message_0441_0011_0000$$$::"Deve ser a sua imaginação. Eu não estava esperando nada quando você sugeriu este passeio.[lr]::
+51232::$$$message_0441_0011_0001$$$::Não, não me importo de forma alguma que você tenha me trazido a tal lugar. Como não estava esperando nada desde o início, não há com o que me decepcionar."::
 51233::$$$message_0441_0012_0000$$$::A Saber desvia o olhar.[lr]::
-51234::$$$message_0441_0012_0001$$$::...Ela parece totalmente decepcionada, mas acho que você poderia dizer que mal humorada.::
-51235::$$$message_0441_0013_0000$$$::"Então o que tem aqui, Mestre? É um lugar desolado, mas não notei nada estranho nele."[lr]::
-51236::$$$message_0441_0013_0001$$$::"Nada. Acabei de dizer que temos uma floresta atrás da escola. Vamos até o próximo lugar."::
-51237::$$$message_0441_0014_0000$$$::"Aqui temos a quadra da escola. Não chegue muito perto pois a equipe de atletismo está correndo ali. De vez em quando jogamos em equipe aqui na aula de Ed. Física."::
-51238::$$$message_0441_0015_0000$$$::"Jogam em equipe...? O que?"[lr]::
-51239::$$$message_0441_0015_0001$$$::"Bem, nossos atletas são ótimos. Os melhores são de Baseball, então normalmente jogamos baseball. De vez em quando jogamos dodgeball também. É um esporte onde separamos dois grupos para derrotar o outro."::
-51240::$$$message_0441_0016_0000$$$::"...Ah. Quando ouvi a palavra "em equipe", imagina algo onde as pessoas seguiam a vanguarda. Acho que me enganei."::
+51234::$$$message_0441_0012_0001$$$::...Ela está ranzinza. Ou talvez emburrada seja mais preciso.::
+51235::$$$message_0441_0013_0000$$$::"Então, o que tem aqui, Mestre? Este bosque é isolado, mas não há nada que me incomode nele."[lr]::
+51236::$$$message_0441_0013_0001$$$::"Nada, na verdade. Só estava te avisando que tem um bosque nos fundos da escola. Certo, vamos para o próximo lugar."::
+51237::$$$message_0441_0014_0000$$$::"Então, este é o campo da escola. A equipe de atletismo está correndo agora, então tente não chegar muito perto. Durante a Educação Física, fazemos partidas em equipe aqui."::
+51238::$$$message_0441_0015_0000$$$::"Partidas em equipe...? De que tipo?"[lr]::
+51239::$$$message_0441_0015_0001$$$::"Hum, a nossa escola é conhecida pelos esportes. O beisebol é o mais forte, então normalmente é beisebol. Às vezes queimada. Bem, esportes onde nos dividimos em duas equipes e tentamos derrotar a outra."::
+51240::$$$message_0441_0016_0000$$$::"...Oh. Quando ouvi 'partida em equipe', imaginei membros de uma equipe seguindo as ordens de um líder, mas suponho que eu estava errada."::
 51241::$$$message_0441_0017_0000$$$::"......"[lr]::
-51242::$$$message_0441_0017_0001$$$::Acho que o que a Saber imaginou é muito perigoso.[lr]::
-51243::$$$message_0441_0017_0002$$$::Não vou nem perguntar a respeito.::
-51244::$$$message_0441_0018_0000$$$::"Bem, é um esporte para competir por pontos. As pessoas correndo agora estão competindo. Estão usando o quão rápido consegue correr 50 metros como pontuação."[lr]::
-51245::$$$message_0441_0018_0001$$$::A Saber olha interessada.::
-51246::$$$message_0441_0019_0000$$$::"Que foi? Está procurando algo?"[lr]::
-51247::$$$message_0441_0019_0001$$$::"Um, não. ...Um, vi um esporte antes, e estava pensando se tal campo esportivo existe aqui.[lr]::
-51248::$$$message_0441_0019_0002$$$::Não entendo outros esportes, mas aquele esporte me pareceu divertido."::
-51249::$$$message_0441_0020_0000$$$::"Ah, há algum esporte que você quer experimentar?[lr]::
-51250::$$$message_0441_0020_0001$$$::Seria tênis? Temos quadras aqui atrás."::
-51251::$$$message_0441_0021_0000$$$::"N-Não, não era tênis. Parando pra pensar, não é algo que caiba aqui.[lr]::
-51252::$$$message_0441_0021_0001$$$::...Só me senti nostálgica porque brigaram comigo uma vez por brincar com um esporte parecido com uma espada."::
-51253::$$$message_0441_0022_0000$$$::"Uma espada...?"[lr]::
-51254::$$$message_0441_0022_0001$$$::O que poderia ser?[lr]::
-51255::$$$message_0441_0022_0002$$$::...Mais do que isso, é engraçado imaginar uma garota tão séria brincando com uma espada.::
-51256::$$$message_0441_0023_0000$$$::"P-Por favor, esqueça o que eu disse, Mestre! Bem, terminamos de olhar aqui, então vamos logo pro próximo lugar...!"::
-51257::$$$message_0441_0024_0000$$$::A Saber me empurra para continuar o passeio.[lr]::
-51258::$$$message_0441_0024_0001$$$::Mostro a ela o corredor.[lr]::
-51259::$$$message_0441_0024_0002$$$::Então, vamos até minha sala no terceiro andar.::
-51260::$$$message_0441_0025_0000$$$::"[line3]Então aqui é a sala do Mestre. Não tinha certeza quando estava passando pelo corredor, mas aqui está dentro do meu nível de tolerância."[lr]::
-51261::$$$message_0441_0025_0001$$$::"Nível de tolerância? Quer dizer se aqui é um local seguro ou não?"::
-51262::$$$message_0441_0026_0000$$$::"Sim. Senti o mesmo nível de energia no corredor que senti no portão. Mas não sinto energia alguma nesta sala. Apenas a energia mágica da Rin preenche os corredores.[lr]::
-51263::$$$message_0441_0026_0001$$$::Por hora, não vejo fator de risco para você."::
-51264::$$$message_0441_0027_0000$$$::A Saber relaxa.[lr]::
-51265::$$$message_0441_0027_0001$$$::Acho que é demais, mas ela esteve analisando a escola pelo meu bem.::
-51266::$$$message_0441_0028_0000$$$::...Sendo sincero, estou feliz.[lr]::
-51267::$$$message_0441_0028_0001$$$::Faz só um dia desde que fizemos o contrato, e não sabemos de nada a respeito do outro.[lr]::
-51268::$$$message_0441_0028_0002$$$::Mas entendo que a Saber está pensando sobre minha segurança acima de tudo.::
+51242::$$$message_0441_0017_0001$$$::Sinto que o que a Saber está imaginando é um pouco perturbador.[lr]::
+51243::$$$message_0441_0017_0002$$$::Acho que não devo me intrometer mais nisso.::
+51244::$$$message_0441_0018_0000$$$::"B-Bem, de qualquer forma, é um esporte onde você compete por pontos. Aqueles que estão correndo agora estão competindo para ver em quantos segundos conseguem correr cinquenta metros."[lr]::
+51245::$$$message_0441_0018_0001$$$::A Saber olha ao redor e parece estar falando consigo mesma.::
+51246::$$$message_0441_0019_0000$$$::"O que foi, Saber? Está procurando por algo?"[lr]::
+51247::$$$message_0441_0019_0001$$$::"Oh, não... Hum, há um esporte que presenciei no passado, então estava me perguntando se havia um campo esportivo para ele aqui ou não.[lr]::
+51248::$$$message_0441_0019_0002$$$::Tenho a impressão de que não entendo muito bem de esportes, mas este pareceu interessante para mim, então..."::
+51249::$$$message_0441_0020_0000$$$::"Ah, um esporte que você quer experimentar?[lr]::
+51250::$$$message_0441_0020_0001$$$::Seria tênis? Se for, há algumas quadras lá atrás."::
+51251::$$$message_0441_0021_0000$$$::"N-Não, não é tênis. Pensando bem, não era um esporte que funcionaria aqui.[lr]::
+51252::$$$message_0441_0021_0001$$$::...Apenas sinto uma certa nostalgia, pois me lembro de uma época em que fui repreendida por jogar um jogo de bola semelhante com uma espada há muito tempo..."::
+51253::$$$message_0441_0022_0000$$$::"Um jogo de bola usando uma espada...?"[lr]::
+51254::$$$message_0441_0022_0001$$$::O que poderia ser isso?[lr]::
+51255::$$$message_0441_0022_0002$$$::...Além do mais, me faz rir imaginar a séria Saber brincando com uma espada.::
+51256::$$$message_0441_0023_0000$$$::"P-Por favor, esqueça o que acabei de dizer, Mestre! Enfim, terminamos aqui, então vamos para o próximo local...!"::
+51257::$$$message_0441_0024_0000$$$::A Saber me apressa para levá-la para dentro.[lr]::
+51258::$$$message_0441_0024_0001$$$::Então eu começo pelos corredores.[lr]::
+51259::$$$message_0441_0024_0002$$$::Chegamos à minha sala de aula no terceiro andar.::
+51260::$$$message_0441_0025_0000$$$::"Então esta é a sua sala de aula... Eu não tinha certeza enquanto fazíamos o nosso caminho para cá, mas isto está dentro do meu nível de tolerância."[lr]::
+51261::$$$message_0441_0025_0001$$$::"Nível de tolerância? ...Isso quer dizer que é perigoso ou seguro?"::
+51262::$$$message_0441_0026_0000$$$::"Sim. Senti a mesma energia mágica nos corredores que senti quando entramos na escola. No entanto, não há energia remanescente nesta sala de aula. É principalmente apenas a energia mágica da Rin por toda a área.[lr]::
+51263::$$$message_0441_0026_0001$$$::Por enquanto, não vejo nada que o colocaria em perigo."::
+51264::$$$message_0441_0027_0000$$$::Ela deve ter ficado satisfeita, pois a tensão em sua postura corporal desaparece.[lr]::
+51265::$$$message_0441_0027_0001$$$::Acho que ela está indo um pouco longe demais, mas ela está investigando a escola pelo bem da minha segurança.::
+51266::$$$message_0441_0028_0000$$$::...Bem, para ser sincero, isso me deixa feliz.[lr]::
+51267::$$$message_0441_0028_0001$$$::Faz apenas um dia desde que fizemos um contrato, e não sabemos nada um sobre o outro.[lr]::
+51268::$$$message_0441_0028_0002$$$::Mas, durante este curto período de tempo, posso entender mais do que palavras que a Saber está pensando antes de tudo na minha segurança.::
+
