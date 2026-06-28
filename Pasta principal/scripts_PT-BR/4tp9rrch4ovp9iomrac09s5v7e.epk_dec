@@ -48,7 +48,7 @@ id=qid::label=str::text=lstr::
 9301::$$$message_0092_0018_0001$$$::Meus sentidos, que estavam relaxados, ficam em alerta.[lr]::
 9302::$$$message_0092_0018_0002$$$::"...E então? Você sabe quem é esse Mestre, Tohsaka?"::
 9303::$$$message_0092_0019_0000$$$::"Não, mas tenho algumas suspeitas, só não tenho provas ainda. Eu sabia que tinha outro mago na escola, mas ser mago não significa necessariamente ser um Mestre."[lr]::
-9304::$$$message_0092_0019_0001$$$::"Como existem amadores que viraram Mestres por acaso, tipo você, não posso ter certeza de nada ainda."::
+9304::$$$message_0092_0019_0001$$$::"Já que existem amadores que viraram Mestres por acaso, tipo você, não posso ter certeza de nada ainda."::
 9305::$$$message_0092_0020_0000$$$::"Ei. Não sou um completo amador, sou um mago que se preza. Mas espera aí, Tohsaka. Tem outro mago na nossa escola!?"::
 9306::$$$message_0092_0021_0000$$$::"Isso mesmo. Mas não sinto nenhum sinal de que essa pessoa seja um Mestre. Eu fui verificar, mas não vi Selos de Comando e nem a presença de um Servo.[lr]::
 9307::$$$message_0092_0021_0001$$$::Podem estar escondendo muito bem, mas tenho quase certeza de que essa pessoa não é um Mestre."::
@@ -109,7 +109,7 @@ id=qid::label=str::text=lstr::
 9362::$$$message_0092_0047_0001$$$::[line3]Então, Tohsaka. Você consegue destruir esse Campo Limitado?"::
 9363::$$$message_0092_0048_0000$$$::"Eu tentei, mas sem sucesso. Descobri todos os pontos de origem, mas não posso destruí-los. Só consigo enfraquecê-los temporariamente para atrasar a ativação."::
 9364::$$$message_0092_0049_0000$$$::"Hm... então ele não vai ativar enquanto você estiver aqui cuidando disso?"::
-9365::$$$message_0092_0050_0000$$$::"...Seria bom, mas é puro otimismo. O Campo Limitado já está pronta e a energia mágica está se acumulando aos poucos. Segundo o Archer, deve ficar pronto em uns oito dias."::
+9365::$$$message_0092_0050_0000$$$::"...Seria bom, mas é puro otimismo. O Campo Limitado já está pronto e a energia mágica está se acumulando aos poucos. Segundo o Archer, deve ficar pronto em uns oito dias."::
 9366::$$$message_0092_0051_0000$$$::"Quando isso acontecer, esta escola vai virar um inferno assim que o Mestre ou o Servo quiserem."[lr]::
 9367::$$$message_0092_0051_0001$$$::"[line3]Então, antes que isso aconteça..."::
 9368::$$$message_0092_0052_0000$$$::"Temos que derrotar o Mestre que está se escondendo aqui."[lr]::

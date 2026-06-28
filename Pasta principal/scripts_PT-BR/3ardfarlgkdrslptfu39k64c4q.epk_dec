@@ -6,7 +6,7 @@ id=qid::label=str::text=lstr::
 3930::$$$message_0041_0001_0000$$$::"...!"[lr]::
 3931::$$$message_0041_0001_0001$$$::Eu me levanto e sigo a garota, me esquecendo até mesmo da dor em meu corpo.[lr]::
 3932::$$$message_0041_0001_0002$$$::Não tem como aquela garota ser párea pra ele.[lr]::
-3933::$$$message_0041_0001_0003$$$::Mesmo couraçada daquele jeito, ela continua sendo uma garota menor do que eu.::
+3933::$$$message_0041_0001_0003$$$::Mesmo com aquela armadura, ela continua sendo uma garota menor do que eu.::
 3934::$$$message_0041_0002_0000$$$::"Par...!"[lr]::
 3935::$$$message_0041_0002_0001$$$::O som silencia as minhas palavras.[lr]::
 3936::$$$message_0041_0002_0002$$$::"Qu...?"[lr]::
@@ -23,12 +23,12 @@ id=qid::label=str::text=lstr::
 3947::$$$message_0041_0005_0002$$$::A garota chamada Saber está subjugando aquele homem.::
 3948::$$$message_0041_0006_0000$$$::[line3]A batalha começou.[lr]::
 3949::$$$message_0041_0006_0001$$$::O que aconteceu entre eu e ele mais cedo não foi uma batalha.[lr]::
-3950::$$$message_0041_0006_0002$$$::Uma batalha é um confronto entre duas pessoas que conseguem matar uma à outra.[lr]::
+3950::$$$message_0041_0006_0002$$$::Uma batalha é um confronto entre duas pessoas capazes de matar uma à outra.[lr]::
 3951::$$$message_0041_0006_0003$$$::Seja lá qual for a diferença entre as habilidades, se cada um possui uma maneira de matar ao outro, então você pode chamar de batalha.::
 3952::$$$message_0041_0007_0000$$$::Nesse sentido, a luta deles também é uma batalha.[lr]::
 3953::$$$message_0041_0007_0001$$$::A lança que eu nem sequer conseguia ver ataca a garota com ainda mais velocidade.[lr]::
 3954::$$$message_0041_0007_0002$$$::De alguma forma...[lr]::
-3955::$$$message_0041_0007_0003$$$::...A garota a bloqueia com... algo em suas mãos e se aproxima do homem.::
+3955::$$$message_0041_0007_0003$$$::...A garota bloqueia com... algo em suas mãos e se aproxima do homem.::
 3956::$$$message_0041_0008_0000$$$::"Tch...!"[lr]::
 3957::$$$message_0041_0008_0001$$$::O homem estala a língua  e recua um pouco.[lr]::
 3958::$$$message_0041_0008_0002$$$::Ele bloqueia o golpe lateral da garota com sua lança na vertical.::
@@ -52,7 +52,7 @@ id=qid::label=str::text=lstr::
 3976::$$$message_0041_0014_0000$$$::"Sua...!"[lr]::
 3977::$$$message_0041_0014_0001$$$::O homem recua, sem chance de contra-atacar.[lr]::
 3978::$$$message_0041_0014_0002$$$::Isso porque a arma da garota é invisível.[lr]::
-3979::$$$message_0041_0014_0003$$$::Como ele não consegue determinar alcance dela, seria arriscado atacar de forma imprudente.::
+3979::$$$message_0041_0014_0003$$$::Como ele não consegue determinar o alcance dela, seria arriscado atacar de forma imprudente.::
 3980::$$$message_0041_0015_0000$$$::Sim, aquilo é invisível.[lr]::
 3981::$$$message_0041_0015_0001$$$::A garota definitivamente possui "algo" em suas mãos.[lr]::
 3982::$$$message_0041_0015_0002$$$::Mas como não se pode ver a forma ou o comprimento desse "algo", não se pode assumir nada sobre aquilo.[lr]::
@@ -97,7 +97,7 @@ id=qid::label=str::text=lstr::
 4021::$$$message_0041_0025_0003$$$::...Enquanto a garota usa todo o seu corpo pra executar o seu ataque!::
 4022::$$$message_0041_0026_0000$$$::"Guh...!"[lr]::
 4023::$$$message_0041_0026_0001$$$::"..."[lr]::
-4024::$$$message_0041_0026_0002$$$::Ambos o homem que foi arremessado pra longe e a garota que o arremessou parecem descontentes.[lr]::
+4024::$$$message_0041_0026_0002$$$::Tanto o homem que foi arremessado pra longe e a garota que o arremessou parecem descontentes.[lr]::
 4025::$$$message_0041_0026_0003$$$::Cada um deles atacou pra matar o outro.[lr]::
 4026::$$$message_0041_0026_0004$$$::Mesmo que os ataques tenham permitido que os dois escapassem do perigo imediato, eles foram inúteis.::
 4027::$$$message_0041_0027_0000$$$::A distância entre os dois se abre.[lr]::
@@ -121,7 +121,7 @@ id=qid::label=str::text=lstr::
 4045::$$$message_0041_0030_0010$$$::É o golpe mortal que era pra ter encerrado o espetáculo.::
 4046::$$$message_0041_0031_0000$$$::"Eu vou perguntar só pra garantir já que esse é o nosso primeiro encontro. Gostaria de deixar essa batalha como um empate?"[lr]::
 4047::$$$message_0041_0031_0001$$$::"..."::
-4048::$$$message_0041_0032_0000$$$::"Não é um acordo ruim, certo? Veja bem, aquele Mestre inocente ali é inútil, e o meu Mestre é covarde demais pra se expor.[lr]::
+4048::$$$message_0041_0032_0000$$$::"Não é um acordo ruim, certo? Veja bem, aquele seu Mestre distraído ali é inútil, e o meu Mestre é covarde demais pra se expor.[lr]::
 4049::$$$message_0041_0032_0001$$$::Eu acredito que seja de interesse de ambos adiar essa batalha até que estejamos mais bem preparados."::
 4050::$$$message_0041_0033_0000$$$::"[line3]Eu recuso. Você cairá aqui, Lancer."::
 4051::$$$message_0041_0034_0000$$$::"Entendo. Puxa vida, o meu objetivo principal era checar a situação, sabe? Eu não pretendia ficar por muito tempo depois que um Servo aparecesse."[lr]::
@@ -184,7 +184,7 @@ id=qid::label=str::text=lstr::
 4108::$$$message_0041_0050_0000$$$::"..."[lr]::
 4109::$$$message_0041_0050_0001$$$::Acho que isso é extraordinário.[lr]::
 4110::$$$message_0041_0050_0002$$$::Eu sabia que ela não era normal, mas ainda assim, é ainda mais extraordinário.::
-4111::$$$message_0041_0051_0000$$$::Sua habilidade com a espada suficiente pra fazer frente ao Lancer, a quantia colossal de energia mágica em cada um de seus golpes, e o seu corpo que se cura sozinho... essa garota é claramente superior ao Lancer.::
+4111::$$$message_0041_0051_0000$$$::Sua habilidade com a espada, suficiente pra fazer frente ao Lancer, a quantia colossal de energia mágica em cada um de seus golpes, e o seu corpo que se cura sozinho... essa garota é claramente superior ao Lancer.::
 4112::$$$message_0041_0052_0000$$$::Mas isso foi só até agora...[lr]::
 4113::$$$message_0041_0052_0001$$$::Mesmo que esteja se curando, seu ferimento é profundo.[lr]::
 4114::$$$message_0041_0052_0002$$$::Se o Lancer atacá-la agora, ela será derrotada sem sequer ser capaz de se defender.::
@@ -215,7 +215,7 @@ id=qid::label=str::text=lstr::
 4139::$$$message_0041_0060_0004$$$::Quando tenta pular pelo muro, ela agarra o próprio peitoral e para.::
 4140::$$$message_0041_0061_0000$$$::"Guh..."[lr]::
 4141::$$$message_0041_0061_0001$$$::Eu corro pra checar como ela está.[lr]::
-4142::$$$message_0041_0061_0002$$$::Não, eu tentei me aproximar e chamá-la, mas eu esqueço de fazer isso assim que chego perto dela.::
+4142::$$$message_0041_0061_0002$$$::Não, eu tentei me aproximar e chamá-la, mas esqueci de fazer isso assim que chego perto dela.::
 4143::$$$message_0041_0062_0000$$$::"..."[lr]::
 4144::$$$message_0041_0062_0001$$$::Pra simplificar: tudo sobre ela é absurdo...[lr]::
 4145::$$$message_0041_0062_0002$$$::Agora que estou próximo dela, consigo ver que a armadura brilhante que ela veste é muito pesada.[lr]::
@@ -256,7 +256,7 @@ id=qid::label=str::text=lstr::
 4180::$$$message_0041_0073_0000$$$::"Eu sou o Shirou... Emiya Shirou, e eu moro nessa casa."[lr]::
 4181::$$$message_0041_0073_0001$$$::O que eu estou fazendo?[lr]::
 4182::$$$message_0041_0073_0002$$$::As minhas respostas não estão ficando ainda mais estúpidas?[lr]::
-4L83::$$$message_0041_0073_0003$$$::Mas ela me disse o seu nome, então eu deveria dizer o meu também.[lr]::
+4183::$$$message_0041_0073_0003$$$::Mas ela me disse o seu nome, então eu deveria dizer o meu também.[lr]::
 4184::$$$message_0041_0073_0004$$$::Sei que estou confuso no momento, mas tenho que ser educado não importa quem ela seja.::
 4185::$$$message_0041_0074_0000$$$::"..."[lr]::
 4186::$$$message_0041_0074_0001$$$::A garota... Saber apenas me encara sem mudar a sua expressão facial.::

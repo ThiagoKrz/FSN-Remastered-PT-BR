@@ -1,51 +1,51 @@
 DAT
 id=qid::label=str::text=lstr::
-37243::$$$message_0315_0000_0000$$$::[line7]Eu vejo um sonho.::
-37244::$$$message_0315_0001_0000$$$::Eu vejo uma memória que eu não consigo alcançar por um pequeno circuito conectado.::
-37245::$$$message_0315_0002_0000$$$::Pelo que ele lutou, e por o que ele continuou correndo?[lr]::
-37246::$$$message_0315_0002_0001$$$::Ele nunca contou a ninguém seus motivos.[lr]::
-37247::$$$message_0315_0002_0002$$$::Todos em volta dele enxergavam ele ou como obstinado ou como uma pessoa estranha.[lr]::
-37248::$$$message_0315_0002_0003$$$::E acima de tudo, ele não falava muito, então eu aposto que ele era visto como alguém cruel.[lr]::
-37249::$$$message_0315_0002_0004$$$::Suas intenções eram desconhecidas.[lr]::
-37250::$$$message_0315_0002_0005$$$::E no mínimo, ninguém sabia sobre elas.[lr]::
-37251::$$$message_0315_0002_0006$$$::Ele nunca falou sobre suas intenções mesmo depois de virar um herói e ser sobrecarregado com várias coisas.::
-37252::$$$message_0315_0003_0000$$$::...É por isso que ele parecia suspeito para as pessoas ao redor dele.[lr]::
-37253::$$$message_0315_0003_0001$$$::É porque ninguém conhecia suas intenções.[lr]::
-37254::$$$message_0315_0003_0002$$$::Ele convenientemente salva pessoas em perigo, mas ninguém sabe porque ele faz isso.::
-37255::$$$message_0315_0004_0000$$$::Viu, é inevitável as pessoas se sentirem incertas sobre ele.[lr]::
-37256::$$$message_0315_0004_0001$$$::Ele devia ter um motivo.[lr]::
-37257::$$$message_0315_0004_0002$$$::Ganância, orgulho, egoísmo, luxúria, vingança ou devoção.[lr]::
-37258::$$$message_0315_0004_0003$$$::Razões simples como aquelas que são fáceis de entender. Se ele tivesse qualquer um desses, um fim desses não teria o esperado.::
-37259::$$$message_0315_0005_0000$$$::A sua recompensa pelo sucesso era sempre traição.[lr]::
-37260::$$$message_0315_0005_0001$$$::As coisas que ele segurou escorreram pelos seus dedos como grãos de areia.[lr]::
-37261::$$$message_0315_0005_0002$$$::Ele se acostumou a isso.[lr]::
-37262::$$$message_0315_0005_0003$$$::Ele se acostumou a isso como um idiota.[lr]::
-37263::$$$message_0315_0005_0004$$$::Desde o começo, a sua recompensa foi...[lr]::
-37264::$$$message_0315_0005_0005$$$::...Não o que ele recebeu das pessoas que salvou, mas a pura ação de salvar alguém.::
-37265::$$$message_0315_0006_0000$$$::[line3]A repetição disso me deixa tão bravo que eu quero socar ele, e também me faz querer chorar.[lr]::
-37266::$$$message_0315_0006_0001$$$::O motivo pelo qual ele foi chamado de herói...[lr]::
-37267::$$$message_0315_0006_0002$$$::Seu motivo nunca foi revelado a ninguém.[lr]::
-37268::$$$message_0315_0006_0003$$$::Ninguém em volta dele sabia, e ele, o único que tinha que saber, eventualmente se esqueceu.::
-37269::$$$message_0315_0007_0000$$$::[line4]É por isso que eu derramei lágrimas por mim mesmo.[lr]::
-37270::$$$message_0315_0007_0001$$$::Para o milagre, que no longo, longo caminho entre o começo e o objetivo, onde o que é certo ou errado não é definitivo...[lr]::
-37271::$$$message_0315_0007_0002$$$::...Ele nunca se desviou de seu objetivo original.::
+37243::$$$message_0315_0000_0000$$$::       Estou sonhando.::
+37244::$$$message_0315_0001_0000$$$::Como sangue fluindo por um circuito estreito, vejo uma lembrança que não consigo alcançar.::
+37245::$$$message_0315_0002_0000$$$::Pelo que ele lutou, e pelo que continuou correndo?[lr]::
+37246::$$$message_0315_0002_0001$$$::Ele nunca revelou seus sentimentos mais profundos a ninguém.[lr]::
+37247::$$$message_0315_0002_0002$$$::Todos ao seu redor o viam como alguém excêntrico.[lr]::
+37248::$$$message_0315_0002_0003$$$::E além de tudo, ele usava uma máscara de estoicismo e era de poucas palavras, então os outros deviam achá-lo insensível.[lr]::
+37249::$$$message_0315_0002_0004$$$::Seus objetivos eram desconhecidos.[lr]::
+37250::$$$message_0315_0002_0005$$$::Ou, no mínimo, ninguém foi informado ou descobriu sobre eles.[lr]::
+37251::$$$message_0315_0002_0006$$$::Mesmo após se tornar um herói, sobrecarregado com tantas coisas, ele nunca deixou suas intenções escaparem.::
+37252::$$$message_0315_0003_0000$$$::E assim, ninguém conseguiu compreender o seu caráter, mesmo no fim.[lr]::
+37253::$$$message_0315_0003_0001$$$::Ninguém entendia.[lr]::
+37254::$$$message_0315_0003_0002$$$::Embora fosse um herói conveniente que salvava vidas, seus motivos e propósitos permaneceram na obscuridade.::
+37255::$$$message_0315_0004_0000$$$::Sendo assim, era inevitável que todos se sentissem desconfortáveis com a sua presença.[lr]::
+37256::$$$message_0315_0004_0001$$$::Então ele devia ter alegado pelo menos um motivo para isso.[lr]::
+37257::$$$message_0315_0004_0002$$$::Ganância, fama, egoísmo, vingança, devoção.[lr]::
+37258::$$$message_0315_0004_0003$$$::Um motivo claro que teria sido compreendido por todos. Se ele tivesse ao menos uma coisa assim, esse fim não teria chegado.::
+37259::$$$message_0315_0005_0000$$$::Sua recompensa pelo sucesso era sempre a traição.[lr]::
+37260::$$$message_0315_0005_0001$$$::As coisas que ele tentou segurar escorreram por seus dedos como areia.[lr]::
+37261::$$$message_0315_0005_0002$$$::Ele se acostumou com isso.[lr]::
+37262::$$$message_0315_0005_0003$$$::Feito um idiota, ele se acostumou com isso.[lr]::
+37263::$$$message_0315_0005_0004$$$::Desde o princípio, a sua recompensa...[lr]::
+37264::$$$message_0315_0005_0005$$$::Não era o que recebia daqueles que salvou, mas o próprio ato de salvá-los.::
+37265::$$$message_0315_0006_0000$$$::   A repetição disso me deixa tão furioso que eu quero socá-lo. Mas isso também me dá vontade de chorar.[lr]::
+37266::$$$message_0315_0006_0001$$$::O motivo dele ter sido chamado de herói...[lr]::
+37267::$$$message_0315_0006_0002$$$::Suas intenções nunca foram reveladas a ninguém.[lr]::
+37268::$$$message_0315_0006_0003$$$::Aqueles ao seu redor nunca ficaram sabendo. E até ele, o único que poderia saber, acabou se esquecendo.::
+37269::$$$message_0315_0007_0000$$$::    Tudo isso, por si só, me dá ainda mais vontade de chorar.[lr]::
+37270::$$$message_0315_0007_0001$$$::No longo, longo caminho desde o começo até o fim...[lr]::
+37271::$$$message_0315_0007_0002$$$::...Ele milagrosamente não se desviou do seu propósito original nem uma única vez, mesmo sem saber mais o que era ou não era o certo.::
 37272::$$$message_0315_0008_0000$$$::E o fim chega.[lr]::
-37273::$$$message_0315_0008_0001$$$::Um excelente salvador é só um problema para todos exceto aqueles salvos.[lr]::
-37274::$$$message_0315_0008_0002$$$::Ele conhecia seus limites e a vastidão do mundo.[lr]::
-37275::$$$message_0315_0008_0003$$$::Ele aceita o que poder ser salvo e o que não pode ser salvo.[lr]::
-37276::$$$message_0315_0008_0004$$$::É por isso que ele queria que pelo menos as pessoas a sua vista estivessem felizes.[lr]::
-37277::$$$message_0315_0008_0005$$$::Muitos desprezaram isso como hipocrisia e idealismo cego.[lr]::
-37278::$$$message_0315_0008_0006$$$::Haviam mais inimigos que aliados, e ele morreu pelas mãos deles.::
-37279::$$$message_0315_0009_0000$$$::...Então esse não é um lugar nesse mundo.::
-37280::$$$message_0315_0010_0000$$$::Esse lugar é o final para ele.[lr]::
-37281::$$$message_0315_0010_0001$$$::A ilusão que ele viu à beira de sua morte, o único orgulho que ele tinha em si.[lr]::
-37282::$$$message_0315_0010_0002$$$::O herói que usou esse cenário como sua arma cai em sua própria escuridão no final.::
-37283::$$$message_0315_0011_0000$$$::A colina de espadas que ele alcançou...[lr]::
-37284::$$$message_0315_0011_0001$$$::Sua batalha acaba no topo dessa colina, cercado por ferro enferrujado sem um portador.[lr]::
-37285::$$$message_0315_0011_0002$$$::[line3]Ele ainda está sozinho.[lr]::
-37286::$$$message_0315_0011_0003$$$::Mas ele acha que não há nada para se arrepender se ele foi capaz de salvar todos que apareceram em sua vista...[lr]::
-37287::$$$message_0315_0011_0004$$$::E ele sorri de satisfação, solta a espada e desmorona.::
+37273::$$$message_0315_0008_0001$$$::Um salvador não é nada além de um incômodo para aqueles que não são salvos.[lr]::
+37274::$$$message_0315_0008_0002$$$::Ele entende os próprios poderes e a vastidão do mundo.[lr]::
+37275::$$$message_0315_0008_0003$$$::Ele aceita que existem aqueles que pode ou não salvar.[lr]::
+37276::$$$message_0315_0008_0004$$$::E, sendo assim, ele queria que pelo menos as pessoas à sua vista fossem felizes.[lr]::
+37277::$$$message_0315_0008_0005$$$::Muitos outros o desprezaram, criticando a sua hipocrisia e seus valores limitados.[lr]::
+37278::$$$message_0315_0008_0006$$$::Ele tinha mais inimigos do que aliados, e morreu abruptamente pelas mãos deles.::
+37279::$$$message_0315_0009_0000$$$::...Então, o que se vê aqui não é um lugar neste mundo.::
+37280::$$$message_0315_0010_0000$$$::Este lugar é o fim dele.[lr]::
+37281::$$$message_0315_0010_0001$$$::Não é nada mais do que a ilusão que ele viu à beira da morte, e o único orgulho que tinha dentro de si.[lr]::
+37282::$$$message_0315_0010_0002$$$::O herói que usou essa vista como a sua arma é consumido pela própria escuridão no seu momento final.::
+37283::$$$message_0315_0011_0000$$$::Ele chega à colina de espadas.[lr]::
+37284::$$$message_0315_0011_0001$$$::O fim de sua batalha chegou numa colina com lâminas enferrujadas e sem dono.[lr]::
+37285::$$$message_0315_0011_0002$$$::   Sozinho, afinal.[lr]::
+37286::$$$message_0315_0011_0003$$$::Mesmo assim, não havia do que se arrepender caso tivesse sido capaz de salvar todos à sua vista.[lr]::
+37287::$$$message_0315_0011_0004$$$::Ele sorri com satisfação e larga a espada.::
 37288::$$$message_0315_0012_0000$$$::...É por isso que ele nunca teve nenhum arrependimento.[lr]::
-37289::$$$message_0315_0012_0001$$$::Seu objetivo já foi alcançado muito tempo atrás.[lr]::
-37290::$$$message_0315_0012_0002$$$::Desde o começo, ele correu com seu maior esforço, não por si mesmo, mas por estranhos que não deveriam ter significado nada para ele[line4]::
+37289::$$$message_0315_0012_0001$$$::O seu objetivo já havia sido cumprido há muito tempo.[lr]::
+37290::$$$message_0315_0012_0002$$$::Desde o início, ele continuou correndo com o seu maior esforço, não por si mesmo, mas por aqueles que não tinham nada a ver com ele...::
 

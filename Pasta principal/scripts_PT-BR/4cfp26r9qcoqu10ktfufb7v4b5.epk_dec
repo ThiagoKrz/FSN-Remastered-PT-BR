@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 14305::$$$message_0136_0000_0000$$$::A chuva para antes do pôr do Sol.[lr]::
-14306::$$$message_0136_0000_0001$$$::Pelo o que combinamos no café da manhã, a gente deveria sair para a cidade depois do jantar e procurar por outros Mestres, mas[line2]::
+14306::$$$message_0136_0000_0001$$$::Pelo que combinamos no café da manhã, a gente deveria sair para a cidade depois do jantar e procurar por outros Mestres, mas[line2]::
 14307::$$$message_0136_0001_0000$$$::"Antes disso, eu tenho que descobrir."[lr]::
 14308::$$$message_0136_0001_0001$$$::Quais são as intenções da Saber.[lr]::
 14309::$$$message_0136_0001_0002$$$::Eu tenho que descobrir o que está fazendo ela lutar.::
@@ -36,7 +36,7 @@ id=qid::label=str::text=lstr::
 14338::$$$message_0136_0012_0001$$$::Sei que vou consegui-lo, mas não pensei no que vou fazer depois disso."::
 14339::$$$message_0136_0013_0000$$$::"[line5]"[lr]::
 14340::$$$message_0136_0013_0001$$$::Então ela só está lutando porque não quer perder, hã?[lr]::
-14341::$$$message_0136_0013_0002$$$::...Bem, era isso o que eu esperava dela, mas não achei que tinha mesmo razão.::
+14341::$$$message_0136_0013_0002$$$::...Bem, era isso o que eu esperava dela, mas não achei que eu tinha mesmo razão.::
 14342::$$$message_0136_0014_0000$$$::"Que surpresa. Você parece ser a mais pensativa, mas na verdade é a que menos pensa, Rin."[lr]::
 14343::$$$message_0136_0014_0001$$$::"Heh, olha só quem fala. Então e quanto a você, Illyasviel?"::
 14344::$$$message_0136_0015_0000$$$::"Não faço ideia. Só me disseram que o Santo Graal era meu, e por isso eu não deveria entregá-lo para ninguém.[lr]::
@@ -113,7 +113,7 @@ id=qid::label=str::text=lstr::
 14415::$$$message_0136_0043_0000$$$::"Enfim, para virar um guardião desses, um herói que está vivo precisa fazer um contrato de alguma forma.[lr]::
 14416::$$$message_0136_0043_0001$$$::Esse é o contrato dos Espíritos Heroicos[line2]um ritual que faz com que eles entreguem a sua existência para o mundo quando morrerem."::
 14417::$$$message_0136_0044_0000$$$::"Aqueles que acumulam bens através dessa troca viram heróis, e depois que aproveitam a sua vida e falecem, eles se tornam um Espírito Heroico para pagar por esses bens.[lr]::
-14418::$$$message_0136_0044_0001$$$::Ou seja, eles assumem uma dívida com o mundo para virarem heróis em vida, e então retribuem quando morrem e se tornam Espíritos Heroicos.[lr]::
+14418::$$$message_0136_0044_0001$$$::Ou seja, eles assumem uma dívida com o mundo para se tornarem heróis em vida, e então retribuem quando morrem e se tornam Espíritos Heroicos.[lr]::
 14419::$$$message_0136_0044_0002$$$::Nós conseguimos invocar os Servos porque roubamos a responsabilidade do mundo de cobrar essa dívida que eles assumem."::
 14420::$$$message_0136_0045_0000$$$::"Hm[line2]quer dizer que os humanos viram heróis quando fazem um contrato com alguma coisa, e então depois que morrem são invocados como familiares para pagarem por isso?[lr]::
 14421::$$$message_0136_0045_0001$$$::Então, aquilo que fez a Saber ter aceitado virar um Espírito Heroico é[line2]"::
@@ -303,7 +303,7 @@ id=qid::label=str::text=lstr::
 14605::$$$message_0136_0106_0002$$$::Esse é o mesmo barulho de quando o Lancer invadiu.[lr]::
 14606::$$$message_0136_0106_0003$$$::Então isso só quer dizer uma coisa[line2]::
 14607::$$$message_0136_0107_0000$$$::"[line2]!"[lr]::
-14608::$$$message_0136_0107_0001$$$::O barulho está se aproximando e ficando mais cada vez mais alto.[lr]::
+14608::$$$message_0136_0107_0001$$$::O barulho está se aproximando e ficando cada vez mais alto.[lr]::
 14609::$$$message_0136_0107_0002$$$::...Um barulho estranho.[lr]::
 14610::$$$message_0136_0107_0003$$$::Ele me lembra insetos se arrastando em uma armadilha luminosa.::
 14611::$$$message_0136_0108_0000$$$::Esse barulho está vindo de todos os cantos, menos da sala de estar.[lr]::
@@ -327,6 +327,6 @@ id=qid::label=str::text=lstr::
 14629::$$$message_0136_0113_0001$$$::E logo em seguida[line2]o barulho para.::
 14630::$$$message_0136_0114_0000$$$::"[line5]"[lr]::
 14631::$$$message_0136_0114_0001$$$::Pego uma espada de madeira que tenho guardada na sala.[lr]::
-14632::$$$message_0136_0114_0002$$$::...Parece que a Tohsaka e a Saber estão esperando pelo o que eu vou fazer em seguida.[lr]::
+14632::$$$message_0136_0114_0002$$$::...Parece que a Tohsaka e a Saber estão esperando pelo que eu vou fazer em seguida.[lr]::
 14633::$$$message_0136_0114_0003$$$::Eu vou[line2][lr]::
 

@@ -23,14 +23,14 @@ id=qid::label=str::text=lstr::
 25351::$$$message_0220_0007_0001$$$::Pode ser hoje ou amanhã, mas nós já assinamos nossas sentenças de morte.[lr]::
 25352::$$$message_0220_0007_0002$$$::Eu não tenho chance de parar aquele monstro.::
 25353::$$$message_0220_0008_0000$$$::"O Servo dela, Berserker, é incomparável.[lr]::
-25354::$$$message_0220_0008_0001$$$::Um Mestre tão inexperiente como você não é páreo praquela coisa. Mesmo que você não faça nada e tente se proteger, seria impossível se defender daquilo."::
+25354::$$$message_0220_0008_0001$$$::Um Mestre tão inexperiente como você não é páreo para aquela coisa. Mesmo que você não faça nada e tente se proteger, seria impossível se defender daquilo."::
 25355::$$$message_0220_0009_0000$$$::"Olha quem fala. Você também não tem chance contra aquela coisa."::
 25356::$$$message_0220_0010_0000$$$::"Não numa luta direta. Aquele é o Servo supremo de combate corpo-a-corpo. Provavelmente não há ninguém que possa se igualar a ele, mesmo entre todos os heróis dos mitos e lendas. Se o Berserker me atacar, não há escapatória."::
 25357::$$$message_0220_0011_0000$$$::"...Isso vale pra mim também. Se eu fosse atacado novamente, não teria a mínima chance."::
 25358::$$$message_0220_0012_0000$$$::Minha mão se move inconscientemente para o meu estômago.[lr]::
 25359::$$$message_0220_0012_0001$$$::A ferida tá fechada.[lr]::
 25360::$$$message_0220_0012_0002$$$::Provavelmente não é nem justo chamar isso de ferida. É o lugar onde uma espada gigantesca quase me matou instantaneamente.[lr]::
-25361::$$$message_0220_0012_0003$$$::Só de pensar em passar por aquilo novamente, é inevitável não sentir náusea.::
+25361::$$$message_0220_0012_0003$$$::Só de pensar em passar por aquilo novamente, sentir náusea é inevitável.::
 25362::$$$message_0220_0013_0000$$$::"Esse é meu ponto. Você entendeu? Não fazer nada e esperar a Guerra do Santo Graal acabar não são opções."::
 25363::$$$message_0220_0014_0000$$$::"...É, eu sei disso agora. Mas, Tohsaka, onde você quer chegar? É isso que eu ainda não entendi.[lr]::
 25364::$$$message_0220_0014_0001$$$::Tenho certeza de que você não tá aqui só pra tirar sarro da minha desgraça inevitável... Espera, você está aqui por isso?"::
@@ -40,12 +40,12 @@ id=qid::label=str::text=lstr::
 25368::$$$message_0220_0016_0001$$$::Hm? Como é? Hã??[lr]::
 25369::$$$message_0220_0016_0002$$$::Se eu levar essas palavras ao pé da letra, isso significa...::
 25370::$$$message_0220_0017_0000$$$::"V-você quer formar uma equipe comigo, Tohsaka!?"[lr]::
-25371::$$$message_0220_0017_0001$$$::"Sim. O Archer ainda está se recuperando de uma ferida grave. Isso vai levar um tempo, mas eu ainda posso fazer a minha parte e contribuir pela metade.[lr]::
+25371::$$$message_0220_0017_0001$$$::"Sim. O Archer ainda está se recuperando de uma ferida grave. Isso vai levar um tempo, mas eu ainda posso fazer a minha parte e contribuir com a minha metade.[lr]::
 25372::$$$message_0220_0017_0002$$$::E embora sua Serva seja impecável, o Mestre está sendo um detrimento, fazendo ela ser metade do que poderia. Entendeu? Junte nós dois e você tem um todo."::
 25373::$$$message_0220_0018_0000$$$::"Eu não sou um mago tão ruim assim."[lr]::
 25374::$$$message_0220_0018_0001$$$::"Eu contei três vezes em que você quase morreu. Você é a primeira pessoa que eu conheço que passou por isso em um único dia."::
 25375::$$$message_0220_0019_0000$$$::"Urgh. Mas, isso é..."[lr]::
-25376::$$$message_0220_0019_0001$$$::"Vou fazer minha parte pela aliança. Eu te dou um desconto por ter machucado o Archer, e ensino o que você precisa saber pra ser um Mestre. Ah, e se tivermos tempo, também posso dar dicas sobre usar magia. Que tal?"::
+25376::$$$message_0220_0019_0001$$$::"Vou fazer minha parte pela aliança. Eu te dou um desconto por ter machucado o Archer, e te ensino o que você precisa saber pra ser um Mestre. Ah, e se tivermos tempo, também posso dar dicas sobre usar magia. Que tal?"::
 25377::$$$message_0220_0020_0000$$$::Ugh.[lr]::
 25378::$$$message_0220_0020_0001$$$::É uma ótima proposta.[lr]::
 25379::$$$message_0220_0020_0002$$$::Eu não sei de absolutamente nada, e a Tohsaka pode ser uma aliada extremamente confiável.::

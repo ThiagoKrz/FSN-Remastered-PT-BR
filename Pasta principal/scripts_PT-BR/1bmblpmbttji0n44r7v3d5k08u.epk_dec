@@ -1,48 +1,48 @@
 DAT
 id=qid::label=str::text=lstr::
-33679::$$$message_0271_0000_0000$$$::"[line8]"[lr]::
-33680::$$$message_0271_0000_0001$$$::Todo mundo observa em espanto.[lr]::
-33681::$$$message_0271_0000_0002$$$::Não só eu e a Tohsaka.[lr]::
-33682::$$$message_0271_0000_0003$$$::Até a Caster, que deveria estar em êxtase com a vitória, observa seu Mestre em espanto.::
-33683::$$$message_0271_0001_0000$$$::Da veloz investida da Saber até os contra ataques do Kuzuki...[lr]::
-33684::$$$message_0271_0001_0001$$$::Desde a violenta agarrada no pescoço, até o perfeito lançamento que fascinou até nós.::
-33685::$$$message_0271_0002_0000$$$::"[line8]"[lr]::
+33679::$$$message_0271_0000_0000$$$::[font italic=true]...[font italic=false][lr]::
+33680::$$$message_0271_0000_0001$$$::Todos assistem atônitos.[lr]::
+33681::$$$message_0271_0000_0002$$$::E não somos só eu e a Tohsaka.[lr]::
+33682::$$$message_0271_0000_0003$$$::Até a Caster, que deveria estar em êxtase com uma reviravolta a seu favor, encara seu próprio Mestre maravilhada.::
+33683::$$$message_0271_0001_0000$$$::O ataque veloz da Saber. O contra-ataque do Kuzuki.[lr]::
+33684::$$$message_0271_0001_0001$$$::Do estrangulamento saído de um pesadelo até o arremesso espetacular, foi tudo tão incrível que fascinou até o lado perdedor.::
+33685::$$$message_0271_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
 33686::$$$message_0271_0002_0001$$$::A Saber não se mexe.[lr]::
-33687::$$$message_0271_0002_0002$$$::Ela foi lançada pelo pescoço e sua costa violentamente colidiu com a parede.[lr]::
-33688::$$$message_0271_0002_0003$$$::A ferida em seu pescoço deve ser fatal.[lr]::
-33689::$$$message_0271_0002_0004$$$::Além disso, ela colidiu com a parede tão brutalmente.::
-33690::$$$message_0271_0003_0000$$$::[line3]Eu não acho que isso matou ela, mas eu tenho certeza que ela não vai conseguir se mover.[lr]::
-33691::$$$message_0271_0003_0001$$$::No mínimo, a Saber vai continuar no chão até as feridas do pescoço e corpo serem curadas.::
-33692::$$$message_0271_0004_0000$$$::"Sem... chance..."[lr]::
-33693::$$$message_0271_0004_0001$$$::Eu murmuro sem perceber.[lr]::
-33694::$$$message_0271_0004_0002$$$::Mesmo que seus punhos estejam fortalecidos usando a mágica da Caster, o Kuzuki é só um humano.[lr]::
-33695::$$$message_0271_0004_0003$$$::Quem imaginaria que ele conseguiria derrotar um Servo em combate corpo a corpo?::
-33696::$$$message_0271_0005_0000$$$::"É normal assumir que a função de um Mestre é apoiar a batalha por trás."[lr]::
-33697::$$$message_0271_0005_0001$$$::A fina figura se vira.[lr]::
-33698::$$$message_0271_0005_0002$$$::"Mas sempre existem exceções. Existem Mestres que só conseguem lutar de frente."::
-33699::$$$message_0271_0006_0000$$$::Ele acabou de provar isso pra nós.[lr]::
-33700::$$$message_0271_0006_0001$$$::Então...[lr]::
-33701::$$$message_0271_0006_0002$$$::As funções de lutar e apoiar deles tão trocadas...!::
-33702::$$$message_0271_0007_0000$$$::"O que você está fazendo, Caster? Eu lhe falei mais cedo.[lr]::
-33703::$$$message_0271_0007_0001$$$::Se você vai me apoiar, você deve eliminar os projéteis inimigos."::
-33704::$$$message_0271_0008_0000$$$::O inimigo[line3]Kuzuki encara a Tohsaka.[lr]::
-33705::$$$message_0271_0008_0001$$$::Uma ameaça para ele não seria a Saber, mas a Tohsaka, que é capaz de atacar a distância.[lr]::
-33706::$$$message_0271_0008_0002$$$::É por isso que ele não nos ataca.[lr]::
-33707::$$$message_0271_0008_0003$$$::Ele sabe plenamente que deixar um mago enfrentar um mago é a melhor maneira de garantir uma morte.::
-33708::$$$message_0271_0009_0000$$$::"Algo errado, Caster? Eu lhe falei que você pode fazer o que desejar."[lr]::
-33709::$$$message_0271_0009_0001$$$::"[line3]Não, eu vou cuidar da Saber. Souichirou, por favor cuide dos Mestres."[lr]::
-33710::$$$message_0271_0009_0002$$$::"[line7]"::
-33711::$$$message_0271_0010_0000$$$::O Kuzuki silenciosamente balança a cabeça e caminha em nossa direção.[lr]::
-33712::$$$message_0271_0010_0001$$$::A Caster encara a Saber atrás dele.::
-33713::$$$message_0271_0011_0000$$$::"[line3]Tudo bem. A Saber foi derrotada, mas eu já conheço os ataques dele. A gente só tem que ganhar antes dele chegar perto."::
-33714::$$$message_0271_0012_0000$$$::A Tohsaka lentamente recua enquanto encara o Kuzuki.[lr]::
-33715::$$$message_0271_0012_0001$$$::[line3]Uma batalha entre um mago e um lutador é uma luta por distância.[lr]::
-33716::$$$message_0271_0012_0002$$$::Mesmo que o Kuzuki tenha técnicas de luta monstruosas, ele não tem resistência mágica.::
-33717::$$$message_0271_0013_0000$$$::Então, nós podemos vencer se conjurarmos algo.[lr]::
-33718::$$$message_0271_0013_0001$$$::Nós ganhamos se conseguirmos lançar um feitiço antes dele nos alcançar.::
-33719::$$$message_0271_0014_0000$$$::"[line8]"[lr]::
-33720::$$$message_0271_0014_0001$$$::O Kuzuki encara a Tohsaka e não se move.[lr]::
-33721::$$$message_0271_0014_0002$$$::A Caster está caminhando em direção a parede que a saber atingiu.::
+33687::$$$message_0271_0002_0002$$$::Ela foi arremessada pelo pescoço e teve as costas esmagadas contra a parede.[lr]::
+33688::$$$message_0271_0002_0003$$$::A lesão no pescoço deve ser fatal.[lr]::
+33689::$$$message_0271_0002_0004$$$::Além disso, ela atingiu a parede a uma velocidade claramente feita para matá-la.::
+33690::$$$message_0271_0003_0000$$$::   Acho que não foi o bastante para matá-la, mas tenho certeza de que ela não consegue se mexer.[lr]::
+33691::$$$message_0271_0003_0001$$$::No mínimo, ela vai ficar no chão até que os ferimentos no pescoço e os hematomas pelo corpo se curem.::
+33692::$$$message_0271_0004_0000$$$::"Não..."[lr]::
+33693::$$$message_0271_0004_0001$$$::Murmuro, sem perceber.[lr]::
+33694::$$$message_0271_0004_0002$$$::Mesmo que seus punhos tenham sido Reforçados pela magia da Caster, o corpo do Kuzuki ainda é humano.[lr]::
+33695::$$$message_0271_0004_0003$$$::Quem imaginaria que ele seria capaz de sobrepujar um Servo em um combate corpo a corpo?::
+33696::$$$message_0271_0005_0000$$$::"É válido presumir que a função de um Mestre seja dar suporte da retaguarda."[lr]::
+33697::$$$message_0271_0005_0001$$$::A figura esguia se vira.[lr]::
+33698::$$$message_0271_0005_0002$$$::"Porém, sempre há exceções. Também existem Mestres como eu, que não têm escolha a não ser tomar a vanguarda."::
+33699::$$$message_0271_0006_0000$$$::Ele acabou de provar isso para a gente.[lr]::
+33700::$$$message_0271_0006_0001$$$::Ou seja, esses dois...[lr]::
+33701::$$$message_0271_0006_0002$$$::Tiveram suas funções de Mestre e Servo completamente invertidas na batalha...!::
+33702::$$$message_0271_0007_0000$$$::"O que está fazendo, Caster? Eu já a avisei.[lr]::
+33703::$$$message_0271_0007_0001$$$::Se vai me dar suporte, precisa cuidar das armas de longo alcance do inimigo."::
+33704::$$$message_0271_0008_0000$$$::O inimigo... Kuzuki encara a Tohsaka.[lr]::
+33705::$$$message_0271_0008_0001$$$::A Saber é menos ameaçadora para ele do que a Tohsaka, que consegue atacar à distância.[lr]::
+33706::$$$message_0271_0008_0002$$$::Então o Kuzuki está cauteloso em nos atacar.[lr]::
+33707::$$$message_0271_0008_0003$$$::Ele acha que magos devem enfrentar outros magos.::
+33708::$$$message_0271_0009_0000$$$::"O que houve, Caster? Eu disse que podia fazer o que quisesse."[lr]::
+33709::$$$message_0271_0009_0001$$$::"...Não, eu vou cuidar da Saber. Souichirou, por favor, cuide dos Mestres restantes."[lr]::
+33710::$$$message_0271_0009_0002$$$::"..."::
+33711::$$$message_0271_0010_0000$$$::Ele assente em silêncio e caminha na nossa direção.[lr]::
+33712::$$$message_0271_0010_0001$$$::Atrás dele, a Caster encara a Saber desabada no chão.::
+33713::$$$message_0271_0011_0000$$$::"...Pode vir. A Saber foi pega de surpresa, mas agora sabemos como ele luta. Só precisamos acabar com ele antes que chegue perto da gente."::
+33714::$$$message_0271_0012_0000$$$::A Tohsaka recua devagar, fuzilando o Kuzuki com o olhar.[lr]::
+33715::$$$message_0271_0012_0001$$$::   Uma briga entre um mago e um guerreiro é uma disputa por distância. [lr]::
+33716::$$$message_0271_0012_0002$$$::Por mais monstruosas que sejam suas técnicas de combate, o Kuzuki não possui Resistência Mágica.::
+33717::$$$message_0271_0013_0000$$$::A gente pode vencer se conseguir acertar um golpe à distância.[lr]::
+33718::$$$message_0271_0013_0001$$$::A vitória será nossa se conseguirmos lançar um feitiço antes que ele nos alcance.::
+33719::$$$message_0271_0014_0000$$$::[font italic=true]...[font italic=false][lr]::
+33720::$$$message_0271_0014_0001$$$::Kuzuki encara a Tohsaka e não se move.[lr]::
+33721::$$$message_0271_0014_0002$$$::A Caster caminha na direção da parede onde a Saber foi arremessada.::
 33722::$$$message_0271_0015_0000$$$::...Essa ação é um erro.[lr]::
-33723::$$$message_0271_0015_0001$$$::Tem uma abertura que eu posso tirar vantagem, então agora[line4][lr]::
+33723::$$$message_0271_0015_0001$$$::Existe uma brecha da qual eu posso me aproveitar, então eu...[lr]::
 

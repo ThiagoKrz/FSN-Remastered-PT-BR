@@ -1,6 +1,6 @@
 DAT
 id=qid::label=str::text=lstr::
-5562::$$$message_0050_0000_0000$$$::Logo depois que Fuji-nee sai, Sakura e eu trancamos a casa e saímos também.::
+5562::$$$message_0050_0000_0000$$$::Logo depois que a Fuji-nee sai, Sakura e eu trancamos a casa e saímos também.::
 5563::$$$message_0050_0001_0000$$$::"..."[lr]::
 5564::$$$message_0050_0001_0001$$$::"Sakura? O que foi? Você não parece bem. Ainda está se sentindo doente?"::
 5565::$$$message_0050_0002_0000$$$::"Eh? Ah, não. Estou me sentindo melhor. E você? Você não parecia bem esta manhã, e o ferimento que você tinha de ontem pode ter piorado."[lr]::
@@ -20,8 +20,8 @@ id=qid::label=str::text=lstr::
 5579::$$$message_0050_0006_0002$$$::A Sakura pode ser quieta, mas geralmente diz o que pensa.[lr]::
 5580::$$$message_0050_0006_0003$$$::Não é do feitio dela falar de forma tão vaga.::
 5581::$$$message_0050_0007_0000$$$::"Senpai. Eu gostaria de lhe pedir um favor."[lr]::
-5582::$$$message_0050_0007_0001$$$::"Hm? Claro, desde que seja algo que eu possa fazer. O que foi?" [lr]::
-5583::$$$message_0050_0007_0002$$$::"Bem, eu não posso vir ajudá-lo hoje à noite e amanhã. Então... pelo menos por agora, você pode ficar em casa o máximo possível?"::
+5582::$$$message_0050_0007_0001$$$::"Hm? Claro, desde que seja algo que eu possa fazer. O que foi?"[lr]::
+5583::$$$message_0050_0007_0002$$$::"Bem, eu não posso vir ajudá-lo hoje à noite e nem amanhã. Então... pelo menos por agora, você pode ficar em casa o máximo possível?"::
 5584::$$$message_0050_0008_0000$$$::"Hã? Você está dizendo que preciso faltar ao trabalho no domingo também?"[lr]::
 5585::$$$message_0050_0008_0001$$$::"Sim. Gostaria que você ficasse em casa o máximo que puder. Um, eu volto pra ajudar assim que terminar minhas tarefas."::
 5586::$$$message_0050_0009_0000$$$::"Hmmm. Bem, acho que faltar um dia de trabalho não fará mal.[lr]::

@@ -7,16 +7,16 @@ id=qid::label=str::text=lstr::
 5619::$$$message_0052_0000_0004$$$::As paredes de pedra são frágeis como árvores apodrecidas.[lr]::
 5620::$$$message_0052_0000_0005$$$::O ar é doce como mel.[lr]::
 5621::$$$message_0052_0000_0006$$$::As coisas se rastejando no chão estão se decompondo como frutas estragadas, e até o tempo é podre e insignificante aqui.::
-5622::$$$message_0052_0001_0000$$$::Esse espaço desgastou depois de um longo período de tempo.[lr]::
+5622::$$$message_0052_0001_0000$$$::Esse espaço se desgastou depois de um longo período de tempo.[lr]::
 5623::$$$message_0052_0001_0001$$$::Essa escuridão é o túmulo de todos os que não foram lamentados, o fim de uma certa linhagem sanguínea.::
 5624::$$$message_0052_0002_0000$$$::"[w l=3][line3]Parece que todos os sete se reuniram."::
 5625::$$$message_0052_0003_0000$$$::No centro da escuridão, a maior massa de decomposição balança.[lr]::
 5626::$$$message_0052_0003_0001$$$::O som de minhocas e o cheiro de carne apodrecida.[lr]::
 5627::$$$message_0052_0003_0002$$$::O mestre desse porão está em decomposição, mas continua vivo e inundado por minhocas sobrenaturais.[lr]::
-5628::$$$message_0052_0003_0003$$$::As minhocas que se arrastam até seus pés sugam a pele nos tornozelos, se enterrando na carne e osso do hospedeiro até chegar nos nervos.::
+5628::$$$message_0052_0003_0003$$$::As minhocas que se arrastam até seus pés sugam a pele nos tornozelos, se enterrando na carne e nos ossos do hospedeiro até chegar nos nervos.::
 5629::$$$message_0052_0004_0000$$$::O número de insetos ultrapassava uma ou duas centenas.[lr]::
 5630::$$$message_0052_0004_0001$$$::Se qualquer ser vivo fosse coberto por esse carpete serpenteante, ele não duraria um minuto.[lr]::
-5631::$$$message_0052_0004_0002$$$::Os insetos se enterrariam e devorariam o lado de dentro, tomando posse enquanto carne e ossos continuariam intactos.::
+5631::$$$message_0052_0004_0002$$$::Os insetos se enterrariam e devorariam o lado de dentro, tomando posse enquanto a carne e os ossos continuariam intactos.::
 5632::$$$message_0052_0005_0000$$$::"Insuficiente. Essas minhocas precisam ser substituídas logo."::
 5633::$$$message_0052_0006_0000$$$::Mas a massa no centro não desmorona.[lr]::
 5634::$$$message_0052_0006_0001$$$::Na verdade, quanto mais as minhocas entram em seu corpo pelos tornozelos, mais completo seu corpo fica.[lr]::
@@ -26,11 +26,11 @@ id=qid::label=str::text=lstr::
 5638::$$$message_0052_0006_0005$$$::Se aquilo for algo que come apenas minhocas, significa que já garantiu uma boa quantidade de vida.::
 5639::$$$message_0052_0007_0000$$$::"Ainda surgirão mais chances. Isso não significa que essa será a última. Se as condições não forem perfeitas, eu deveria me restringir a apenas assistir, mas..."::
 5640::$$$message_0052_0008_0000$$$::"Bom," diz a figura com um sorriso.[lr]::
-5641::$$$message_0052_0008_0001$$$::A "situação" dessa vez é longe de perfeita.[lr]::
+5641::$$$message_0052_0008_0001$$$::A "situação" dessa vez está longe de ser perfeita.[lr]::
 5642::$$$message_0052_0008_0002$$$::O "buraco" está abrindo menos do que da última vez, quando houve a batalha dez anos atrás.[lr]::
 5643::$$$message_0052_0008_0003$$$::Aquele padre agindo como supervisor tem dois Servos. O Servo residindo no Templo Ryuudou invocou um outro Servo para si.[lr]::
 5644::$$$message_0052_0008_0004$$$::As condições não são boas.[lr]::
-5645::$$$message_0052_0008_0005$$$::Um Graal preenchido em uma batalha instável assim seria longe de perfeito.[lr]::
+5645::$$$message_0052_0008_0005$$$::Um Graal preenchido em uma batalha instável assim estaria longe de ser perfeito.[lr]::
 5646::$$$message_0052_0008_0006$$$::Mesmo se o portão for aberto, não seria possível alcançar o que há dentro.::
 5647::$$$message_0052_0009_0000$$$::"Então eu deveria me restringir a observar, mas infelizmente, as peças que eu tenho são apropriadas."::
 5648::$$$message_0052_0010_0000$$$::A condição para lutar pelo Santo Graal é terrível.[lr]::
@@ -43,8 +43,8 @@ id=qid::label=str::text=lstr::
 5655::$$$message_0052_0011_0000$$$::"Hmm. Tem uma próxima vez para mim, mas aquilo não vai durar muito. Pretendia usá-la como receptáculo, mas nunca imaginei que a qualidade seria tão boa."::
 5656::$$$message_0052_0012_0000$$$::Aquela coisa preparada como um experimento é tão adequada que você poderia dizer que é perfeita.[lr]::
 5657::$$$message_0052_0012_0001$$$::Foi planejada para ser descartável, mas se pode ser usada, deve ser.[lr]::
-5658::$$$message_0052_0012_0002$$$::De qualquer forma, é algo que estava planejada para ser descartada.[lr]::
-5659::$$$message_0052_0012_0003$$$::Mesmo se for destruída em batalha, isso não muda o fato que será descartada.::
+5658::$$$message_0052_0012_0002$$$::De qualquer forma, é algo que estava planejado para ser descartado.[lr]::
+5659::$$$message_0052_0012_0003$$$::Mesmo se for destruída em batalha, isso não muda o fato de que será descartada.::
 5660::$$$message_0052_0013_0000$$$::"[w l=3][line3]Então, há apenas um problema.[lr]::
 5661::$$$message_0052_0013_0001$$$:: Como vou motivá-la a agir?"::
 5662::$$$message_0052_0014_0000$$$::A "obra-prima" preparada não quer lutar.[lr]::
@@ -53,7 +53,7 @@ id=qid::label=str::text=lstr::
 5665::$$$message_0052_0014_0003$$$::Então é natural que seja alguém resistente contra um veneno que tenta violá-la.[lr]::
 5666::$$$message_0052_0014_0004$$$::Seria melhor escolher o boneco obediente ou a aprendiz excepcional?[lr]::
 5667::$$$message_0052_0014_0005$$$::Na segunda opção, controlar ela está fora de questão.::
-5668::$$$message_0052_0015_0000$$$::"[w l=3][line3]Uma brecha é o suficiente. Se houver uma pequena abertura, aquilo irá procurar o Santo Graal por contra própria, mas..."::
+5668::$$$message_0052_0015_0000$$$::"[w l=3][line3]Uma brecha é o suficiente. Se houver uma pequena abertura, aquilo irá procurar o Santo Graal por conta própria, mas..."::
 5669::$$$message_0052_0016_0000$$$::Criar essa pequena abertura é a parte difícil.[lr]::
 5670::$$$message_0052_0016_0001$$$::Aquilo não tem uma mentalidade que irá quebrar sob pressão externa.[lr]::
 5671::$$$message_0052_0016_0002$$$::E se tivesse, já teria sido quebrada onze anos atrás.[lr]::
@@ -63,7 +63,7 @@ id=qid::label=str::text=lstr::
 5675::$$$message_0052_0017_0000$$$::"[w l=3][line3]Você está aqui. Então eu irei criar a pequena abertura."::
 5676::$$$message_0052_0018_0000$$$::Passos ecoam pela escuridão.[lr]::
 5677::$$$message_0052_0018_0001$$$::A pessoa que aparece caminha pelas minhocas no meio da decomposição.[lr]::
-5678::$$$message_0052_0018_0002$$$::"Eu tenho que matar todos os Mestre?"::
+5678::$$$message_0052_0018_0002$$$::"Eu tenho que matar todos os Mestres?"::
 5679::$$$message_0052_0018_0003$$$::A pergunta feita era previsível.::
 5680::$$$message_0052_0019_0000$$$::"[w l=8][line8]"::
 5681::$$$message_0052_0020_0000$$$::Não deveria haver necessidade de responder uma pergunta assim.[lr]::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 5685::$$$message_0052_0020_0004$$$::Mas deixando isso de lado...::
 5686::$$$message_0052_0021_0000$$$::"Considerando seus sentimentos, não há o que fazer. Irei me restringir e apenas observar dessa vez."::
 5687::$$$message_0052_0022_0000$$$::Esta foi a resposta dele.[lr]::
-5688::$$$message_0052_0022_0001$$$::Houve uma voz de alívio e a atmosfera fica mais leve.[lr]::
+5688::$$$message_0052_0022_0001$$$::Houve uma voz de alívio e a atmosfera ficou mais leve.[lr]::
 5689::$$$message_0052_0022_0002$$$::E depois de mostrar um sorriso gentil que não tem intenção de lutar...::
 5690::$$$message_0052_0023_0000$$$::"Mas é um pouco irritante esse ser o caso. De todos os Mestres, a filha do Tohsaka é promissora. Se houver um vencedor, provavelmente será ela."::
 5691::$$$message_0052_0024_0000$$$::Ele murmura desapontadamente.[lr]::

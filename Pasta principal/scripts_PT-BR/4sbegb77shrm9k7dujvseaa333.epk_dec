@@ -14,7 +14,7 @@ id=qid::label=str::text=lstr::
 8968::$$$message_0090_0003_0001$$$::"Se alguém preparou para mim, eu como. É uma questão de educação, sabe."::
 8969::$$$message_0090_0004_0000$$$::"Bem, se você diz... Então, vamos comer. E desculpe por te fazer preparar tudo sozinha, Sakura."[lr]::
 8970::$$$message_0090_0004_0001$$$::"Não, este é o meu trabalho. Por favor não se preocupe com isso. Eu vou começar a comer também."::
-8971::$$$message_0090_0005_0000$$$::"Mas que mordomia a sua, fazendo sua kouhai preparar seu café da manhã... Quem morreu e te fez rei para merecer esse luxo? Bem, vou te interrogar sobre isso depois. Por enquanto, vamos comer."[lr]::
+8971::$$$message_0090_0005_0000$$$::"Mas que mordomia a sua, fazendo sua kouhai preparar seu café da manhã... Quem você pensa que é? A realeza? Bem, vou te interrogar sobre isso depois. Por enquanto, vamos comer."[lr]::
 8972::$$$message_0090_0005_0001$$$::Nós três fazemos um gesto educado e começamos a comer.::
 8973::$$$message_0090_0006_0000$$$::...[lr]::
 8974::$$$message_0090_0006_0001$$$::...[lr]::
@@ -31,9 +31,9 @@ id=qid::label=str::text=lstr::
 8985::$$$message_0090_0009_0001$$$::"Uh, não é isso. É que sinto que estou esquecendo algo muito importante..."::
 8986::$$$message_0090_0010_0000$$$::O que poderia ser...?[lr]::
 8987::$$$message_0090_0010_0001$$$::Tento me convencer de que não deve ser nada, já que não consigo lembrar, mas sinto que estou cometendo um erro terrível.[lr]::
-8988::$$$message_0090_0010_0002$$$::É uma sensação de pavor, como se estivesse ignorando uma doença fatal que está prestes a me pegar.::
+8988::$$$message_0090_0010_0002$$$::É uma sensação de pavor, como se estivesse ignorando uma doença fatal que está prestes a me atingir.::
 8989::$$$message_0090_0011_0000$$$::"Ah, tanto faz. Provavelmente não é nada demais."[lr]::
-9090::$$$message_0090_0011_0001$$$::Tento afastar esses pensamentos e volto a comer.[lr]::
+8990::$$$message_0090_0011_0001$$$::Tento afastar esses pensamentos e volto a comer.[lr]::
 8991::$$$message_0090_0011_0002$$$::Nesse exato momento...[lr]::
 8992::$$$message_0090_0011_0003$$$::"Bom dia!!! Ai, caramba, eu dormi demais!"[lr]::
 8993::$$$message_0090_0011_0004$$$::A Fuji-nee entra na sala como um furacão.::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 9027::$$$message_0090_0025_0001$$$::A Fuji-nee solta um rugido de tigre.::
 9028::$$$message_0090_0026_0000$$$::Bem... foi exatamente como eu imaginei.[lr]::
 9029::$$$message_0090_0026_0001$$$::A Fuji-nee é minha guardiã e também professora na escola.[lr]::
-9030::$$$message_0090_0026_0002$$$::Duvido que eu escape dessa situação nem com cem pauladas de shinai, ou até cem cortes de uma espada de verdade.[lr]::
+9030::$$$message_0090_0026_0002$$$::Duvido que eu escape dessa situação nem que eu receba cem golpes de shinai, ou até cem cortes de uma espada de verdade.[lr]::
 9031::$$$message_0090_0026_0003$$$::Infelizmente, vou ter que dar um jeito de sobreviver a isso.::
 9032::$$$message_0090_0027_0000$$$::"Dá para você se acalmar? Não estou fazendo nada de errado, e eu e a Tohsaka não temos esse tipo de relação. É que... acabamos nessa situação por acidente, e estou deixando ela usar um dos quartos por enquanto."::
 9033::$$$message_0090_0028_0000$$$::"CALA A BOCA!!! EU NÃO VOU DEIXAR!!![lr]::
@@ -81,7 +81,7 @@ id=qid::label=str::text=lstr::
 9035::$$$message_0090_0028_0002$$$::Ugh. Ela não quer nem ouvir.[lr]::
 9036::$$$message_0090_0028_0003$$$::Isso é péssimo. A Fuji-nee é muito mais teimosa do que eu pensava!::
 9037::$$$message_0090_0029_0000$$$::"Sensei. Você diz que não aprova, mas eu já passei a última noite aqui.[lr]::
-9038::$$$message_0090_0029_0001$$$::A Tohsaka joga a bomba com a maior calma do mundo. [lr]::
+9038::$$$message_0090_0029_0001$$$::A Tohsaka casualmente diz isso. [lr]::
 9039::$$$message_0090_0029_0002$$$::As palavras dela são como um balde de água gelada na cabeça da Fuji-nee.::
 9040::$$$message_0090_0030_0000$$$::"...Oi?"[lr]::
 9041::$$$message_0090_0030_0001$$$::"Como eu disse, já fiquei aqui ontem à noite.[lr]::
@@ -97,7 +97,7 @@ id=qid::label=str::text=lstr::
 9051::$$$message_0090_0033_0003$$$::Não sou tão cavalheiro quanto ele era, mas concordo com o princípio.::
 9052::$$$message_0090_0034_0000$$$::Mas...[lr]::
 9053::$$$message_0090_0034_0001$$$::"E aí? Precisa de uma mãozinha?"[lr]::
-9054::$$$message_0090_0034_0002$$$::É difícil manter esse pensamento de "proteger garotas" quando a garota em questão é tão fria e calculista quanto a Rin.::
+9054::$$$message_0090_0034_0002$$$::É difícil manter esse pensamento de "proteger garotas" quando a garota em questão é tão fria e calculista assim.::
 9055::$$$message_0090_0035_0000$$$::"Eu imploro... Não vou sair dessa sozinho. Usa sua lábia política aí."[lr]::
 9056::$$$message_0090_0035_0001$$$::Sussurro para a Tohsaka enquanto sou chacoalhado pela Fuji-nee.[lr]::
 9057::$$$message_0090_0035_0002$$$::"Ok. Deixa essa situação comigo."::
@@ -108,7 +108,7 @@ id=qid::label=str::text=lstr::
 9063::$$$message_0090_0037_0002$$$::Ela percebeu que a Tohsaka ia encurralá-la se ela continuasse focada apenas em mim.::
 9064::$$$message_0090_0038_0000$$$::"Por que não? Temos vários alunos que moram em pensões escolares. Incentivar a independência dos estudantes não é um dos pilares da nossa instituição?"::
 9065::$$$message_0090_0039_0000$$$::"Não tente me enrolar com palavras difíceis. Aliás, ficar aqui não vai te dar independência nenhuma.[lr]::
-9066::$$$message_0090_0039_0001$$$::"Este lugar é um paraíso onde a comida aparece na mesa, a casa está sempre brilhando e o banho está sempre quente sem você mover um dedo. Você vai acabar ficando mal-acostumada, Tohsaka-san!"[lr]::
+9066::$$$message_0090_0039_0001$$$::"Este lugar é um paraíso onde a comida aparece na mesa, a casa está sempre brilhando e o banho está sempre quente sem você mover um dedo. Você vai acabar ficando mal acostumada, Tohsaka-san!"[lr]::
 9067::$$$message_0090_0039_0002$$$::"...Fuji-nee."[lr]::
 9068::$$$message_0090_0039_0003$$$::Isso soa bem pouco pedagógico vindo de uma professora...::
 9069::$$$message_0090_0040_0000$$$::"Além do mais, só alunos que moram muito longe ficam em pensões. Tohsaka-san, sua casa é um pouco distante, mas é perfeitamente acessível. Até a Sakura-chan faz o trajeto todo dia, então não tem por que você se hospedar aqui."::

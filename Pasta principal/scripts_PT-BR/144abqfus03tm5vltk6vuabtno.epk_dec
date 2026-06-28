@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 11067::$$$message_0111_0003_0000$$$::"Você acha? Eu como uma quantidade média. Gostaria de pontuar que a torrada que a Sakura comeu tinha o dobro do tamanho da minha."[lr]::
 11068::$$$message_0111_0003_0001$$$::"I-isso não é verdade...! Tohsaka-senpai, Saber-san, e eu recebemos duas fatias de torrada cada!"[lr]::
 11069::$$$message_0111_0003_0002$$$::"Sim, mas a espessura era diferente. Uma tinha um centímetro de espessura, enquanto a outra tinha dois centímetros, o que me diz que você come bastante, Sakura. Você está em fase de crescimento, então não há problema em ingerir nutrientes. Rin, ao invés de comer apenas uma fatia, você deveria comer tudo o que foi servido a você."::
-11070::$$$message_0111_0004_0000$$$::"Já não disse que não posso? Tudo o que eu como não vai direto para o meu peito, como a Sakura. E se eu comer tudo isso de manhã, vou acabar armazenando. Nem costumo tomar café da manhã, então já estou abrindo uma exceção."[lr]::
+11070::$$$message_0111_0004_0000$$$::"Já não disse que não posso? O que eu como não vai direto para o meu peito, diferente da Sakura. E se eu comer tudo isso de manhã, vou acabar armazenando. Nem costumo tomar café da manhã, então já estou abrindo uma exceção."[lr]::
 11071::$$$message_0111_0004_0001$$$::"Tohsaka-senpai... seria melhor não dizer isso na frente do Senpai..."::
 11072::$$$message_0111_0005_0000$$$::"Mhm. Você continua mencionando que acumula coisas, mas por que está evitando usar termos específicos, Rin?"[lr]::
 11073::$$$message_0111_0005_0001$$$::"Como eu disse, lugares que não posso ver no meu corpo! Bem, a Sakura acumula em lugares que você [font italic=true]pode[font italic=false] ver, então ela não conta."[lr]::
@@ -71,7 +71,7 @@ id=qid::label=str::text=lstr::
 11126::$$$message_0111_0022_0001$$$::"Isso é... Você tem razão, mas por que você não me disse isso antes, Tohsaka?"::
 11127::$$$message_0111_0023_0000$$$::"Porque não há solução fácil aqui.[lr]::
 11128::$$$message_0111_0023_0001$$$::O Mestre que lançou o Campo Limitado sobre a escola é de terceira classe, mas quem quer que esteja causando esses incidentes pela cidade inteira é de primeira classe. Eles são habilidosos o suficiente para extrair o poder que precisam das pessoas sem matá-las."::
-11129::$$$message_0111_0024_0000$$$::"E embora coletar energia dessa forma possa ser mais lento, eles estão seguindo as regras para magos, e não precisam se esforçar para conseguir isso. Este Mestre está roubando a força vital de todos na cidade, uma das formas mais simples de energia mágica, de um local remoto."::
+11129::$$$message_0111_0024_0000$$$::"E embora coletar energia dessa forma possa ser mais lento, eles estão seguindo as regras para magos, e nem precisam se esforçar para conseguir isso. Este Mestre está roubando a força vital de todos na cidade, uma das formas mais simples de energia mágica, de um local remoto."::
 11130::$$$message_0111_0025_0000$$$::"De um local remoto? Alguém pode realmente coletar energia mágica à distância?"[lr]::
 11131::$$$message_0111_0025_0001$$$::"Deve ser um mago muito habilidoso.[lr]::
 11132::$$$message_0111_0025_0002$$$::Apenas um mago verdadeiramente talentoso seria capaz de lançar uma rede sobre duas cidades como Shinto e Miyama para absorver energia dessa forma."::
@@ -94,16 +94,16 @@ id=qid::label=str::text=lstr::
 11149::$$$message_0111_0032_0000$$$::"Um cheiro doce como mel, huh? Como uma planta carnívora, talvez.[lr]::
 11150::$$$message_0111_0032_0001$$$::Sim, é uma boa maneira de descrever."[lr]::
 11151::$$$message_0111_0032_0002$$$::"Uma planta carnívora? Isso é perturbador."::
-11152::$$$message_0111_0033_0000$$$::"Você acha? Mas não acho que esteja longe da verdade. Afinal de contas, assim que o Campo Limitado sobre a escola se fechar, todos lá dentro serão comidos."::
+11152::$$$message_0111_0033_0000$$$::"Você acha? Mas não acho que esteja longe da verdade. Afinal de contas, assim que o Campo Limitado sobre a escola se fechar, todos lá dentro serão devorados."::
 11153::$$$message_0111_0034_0000$$$::"..."[lr]::
 11154::$$$message_0111_0034_0001$$$::Ela claramente consegue adivinhar o que eu estava pensando.[lr]::
-11155::$$$message_0111_0034_0002$$$::"Eu sabia. Adoro poder ler você como um livro."[lr]::
-11156::$$$message_0111_0034_0003$$$::"Ah, é mesmo?. Eu não gosto tanto assim."::
+11155::$$$message_0111_0034_0002$$$::"Eu sabia. Adoro quando leio você como um livro."[lr]::
+11156::$$$message_0111_0034_0003$$$::"Ah, é mesmo? Eu não gosto tanto assim."::
 11157::$$$message_0111_0035_0000$$$::"Se acalma, se acalma. Entendi o que você quis dizer, então relaxe. Sei que você não quer que todos os alunos sejam arrastados para isso, e eu também não gostaria que isso virasse um campo de batalha. Então só há uma coisa a fazer, né?"::
 11158::$$$message_0111_0036_0000$$$::"..."[lr]::
 11159::$$$message_0111_0036_0001$$$::Ela está me testando.[lr]::
 11160::$$$message_0111_0036_0002$$$::Tohsaka está tentando me dizer...[lr]::
-11161::$$$message_0111_0036_0003$$$::...É que este Mestre que estou disposto a lutar na Guerra do Santo Graal é do tipo disposto a ferir inocentes para vencer, e é por isso que ele está aqui na escola.::
+11161::$$$message_0111_0036_0003$$$::...É que este Mestre contra quem estou disposto a lutar na Guerra do Santo Graal é do tipo que está disposto a ferir inocentes para vencer, e é por isso que ele está aqui na escola.::
 11162::$$$message_0111_0037_0000$$$::"Eu sei. Precisamos encontrar o Mestre que montou este Campo Limitado, e cuidar disso. E se eles disserem que não vão desfazer o Campo Limitado, então só precisamos derrotá-los."[lr]::
 11163::$$$message_0111_0037_0001$$$::"Isso mesmo. Fico feliz que tenha entendido."::
 11164::$$$message_0111_0038_0000$$$::"Vou procurar quem quer que tenha montado este Campo Limitado, então vá e verifique qualquer lugar que pareça suspeito.[lr]::

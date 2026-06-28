@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 5440::$$$message_0047_0003_0000$$$::"[line2]Huh?"[lr]::
 5441::$$$message_0047_0003_0001$$$::Eu caio.[lr]::
 5442::$$$message_0047_0003_0002$$$::Por quê...?[lr]::
-5443::$$$message_0047_0003_0003$$$::Eu ia empurrar a Saber pra longe, levá-la para longe do Berserker, e pensar no que fazer depois disso, então por quê...?::
+5443::$$$message_0047_0003_0003$$$::Eu ia empurrar a Saber pra longe, tirá-la do alcance do Berserker e pensar no que fazer depois disso, então por quê...?::
 5444::$$$message_0047_0004_0000$$$::"Ga[line2]ha...."[lr]::
 5445::$$$message_0047_0004_0001$$$::Por quê?[lr]::
 5446::$$$message_0047_0004_0002$$$::Por que estou no chão, sem conseguir respirar?::
@@ -25,7 +25,7 @@ id=qid::label=str::text=lstr::
 5452::$$$message_0047_0006_0000$$$::"...Hu... h?"[lr]::
 5453::$$$message_0047_0006_0001$$$::Estou sem meu estômago.[lr]::
 5454::$$$message_0047_0006_0002$$$::Estou no chão.[lr]::
-5455::$$$message_0047_0006_0003$$$::No asfalto há uma pequena quantidade de sangue comparada à ferida, órgãos com aparência macia, ossos e várias coisas do tipo.::
+5455::$$$message_0047_0006_0003$$$::No asfalto há uma pequena quantidade de sangue comparada ao tamanho da ferida, órgãos com aparência macia, ossos e várias coisas do tipo.::
 5456::$$$message_0047_0007_0000$$$::"Entendi. Como fui idiota."[lr]::
 5457::$$$message_0047_0007_0001$$$::Basicamente, não cheguei a tempo.[lr]::
 5458::$$$message_0047_0007_0002$$$::Sim[line3]era impossível empurrar a Saber para longe, então apenas a protegi.[lr]::
@@ -38,19 +38,18 @@ id=qid::label=str::text=lstr::
 5465::$$$message_0047_0010_0000$$$::Depois de ficar parada lá espantada por um tempo,[lr]::
 5466::$$$message_0047_0010_0001$$$::"Já chega. Isso é chato."[lr]::
 5467::$$$message_0047_0010_0002$$$::Sem finalizar a Saber, ela chama o Berserker de volta.::
-5468::$$$message_0047_0011_0000$$$::"[line3]Rin, irei te matar se te ver de novo."[lr]::
+5468::$$$message_0047_0011_0000$$$::"[line3]Rin, irei matá-la se te ver de novo."[lr]::
 5469::$$$message_0047_0011_0001$$$::A garota vai embora.[lr]::
 5470::$$$message_0047_0011_0002$$$::Depois de vê-la ir, minha visão some.::
 5471::$$$message_0047_0012_0000$$$::Minha consciência desaparece.[lr]::
 5472::$$$message_0047_0012_0001$$$::Realmente não posso me recuperar dessa vez.[lr]::
-5473::$$$message_0047_0012_0002$$$::Fui salvo de algum jeito quando fui morto pelo Lancer, mas não vai acontecer de novo.[lr]::
+5473::$$$message_0047_0012_0002$$$::Fui salvo de algum jeito depois que fui morto pelo Lancer, mas não vai acontecer de novo.[lr]::
 5474::$$$message_0047_0012_0003$$$::Provavelmente não existe magia que possa salvar alguém que perdeu boa parte de seu estômago.::
 5475::$$$message_0047_0013_0000$$$::"...O-o que você estava pensando!? Você não sabe que não posso te salvar de novo...!?"::
 5476::$$$message_0047_0014_0000$$$::Ouço uma voz irritada.[lr]::
 5477::$$$message_0047_0014_0001$$$::Provavelmente é a Tohsaka. Ela parece muito nervosa, sinto que fiz algo imperdoável.::
 5478::$$$message_0047_0015_0000$$$::Mas não pude fazer nada.[lr]::
-5479::$$$message_0047_0015_0001$$$::Não é como se eu pudesse fazer tudo igual à Tohsaka. Tudo que pude fazer era usar meu corpo.[lr]::
+5479::$$$message_0047_0015_0001$$$::Não é como se eu pudesse fazer tudo igual à Tohsaka. Tudo o que tenho ao meu alcance é meu próprio corpo.[lr]::
 5480::$$$message_0047_0015_0002$$$::Então é por isso...[lr]::
-5481::$$$message_0047_0015_0003$$$::A única coisa que pude fazer era usar meu corpo para proteger a Saber.::
-
+5481::$$$message_0047_0015_0003$$$::A única coisa que pude fazer foi usar a mim mesmo para proteger a Saber.::
 

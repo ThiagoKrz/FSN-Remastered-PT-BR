@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 10422::$$$message_0106_0000_0000$$$::[line3]Vou atacar.[lr]::
-10423::$$$message_0106_0000_0001$$$::Se há um Mestre no Templo Ryuudou e eles estão sugando energia mágica das pessoas, então devo impedí-los o quanto antes.::
+10423::$$$message_0106_0000_0001$$$::Se há um Mestre no Templo Ryuudou e eles estão sugando energia mágica das pessoas, então devo impedi-los o quanto antes.::
 10424::$$$message_0106_0001_0000$$$::"Concordo com a Saber. Não quero ser o agressor, mas depende do oponente.[lr]::
 10425::$$$message_0106_0001_0001$$$::Devemos ir pro Templo Ryuudou agora, pra ver que tipo de Mestre essa pessoa é."::
 10426::$$$message_0106_0002_0000$$$::"Então vamos, Shirou. Estou feliz por você estar tomando iniciativa."[lr]::
@@ -10,7 +10,7 @@ id=qid::label=str::text=lstr::
 10429::$$$message_0106_0003_0001$$$::"Vou descansar. Não estou interessada numa luta que não temos chance de vencer. Se você não voltar amanhã, irei coletar seus restos, já que estamos cooperando."::
 10430::$$$message_0106_0004_0000$$$::"Qual é a dela? Falando coisas sinistras assim."[lr]::
 10431::$$$message_0106_0004_0001$$$::"Deve ser o jeito da Rin nos avisar.[lr]::
-10432::$$$message_0106_0004_0002$$$::Haverão defesas contra inimigos de fora no Templo Ryuudou. Teremos que passar pelas armadilhas inimigas e derrotar o Mestre."[lr]::
+10432::$$$message_0106_0004_0002$$$::Haverá defesas contra inimigos de fora no Templo Ryuudou. Teremos que passar pelas armadilhas inimigas e derrotar o Mestre."[lr]::
 10433::$$$message_0106_0004_0003$$$::"...Hm. Sim, isso é verdade, mas..."::
 10434::$$$message_0106_0005_0000$$$::É verdade que não estou entusiasmado em derrotar esse Mestre.[lr]::
 10435::$$$message_0106_0005_0001$$$::Só quero saber quem é o Mestre no Templo Ryuudou e quais são seus motivos.[lr]::
@@ -30,17 +30,17 @@ id=qid::label=str::text=lstr::
 10449::$$$message_0106_0011_0001$$$::Enquanto estivermos adentrando em território inimigo, quero que você esteja preparado para a probabilidade de morte."::
 10450::$$$message_0106_0012_0000$$$::A probabilidade de morte.[lr]::
 10451::$$$message_0106_0012_0001$$$::A balança do destino está dividida entre o Mestre do Templo Ryuudou e nós, os intrusos.[lr]::
-10452::$$$message_0106_0012_0002$$$::A balança está equilibrada agora, mas ela deve virar para um dos lados em algumas horas[line3]::
+10452::$$$message_0106_0012_0002$$$::A balança está equilibrada agora, mas ela deve pender para um dos lados em algumas horas[line3]::
 10453::$$$message_0106_0013_0000$$$::Vamos ao oeste da intersecção e corremos pela rua vazia.[lr]::
 10454::$$$message_0106_0013_0001$$$::O Templo Ryuudou está na direção oposta de Shinto, a cidade mais desenvolvida, no fim do caminho retorcido da montanha.::
 10455::$$$message_0106_0014_0000$$$::"[line5]"[lr]::
 10456::$$$message_0106_0014_0001$$$::Um longo par de escadas.[lr]::
-10457::$$$message_0106_0014_0002$$$::A estrada levando até a montanha notavelmente alta na cidade de Fuyuki está submergida em uma escuridão sinistra.::
+10457::$$$message_0106_0014_0002$$$::A estrada levando até a montanha notavelmente alta na cidade de Fuyuki está submersa em uma escuridão sinistra.::
 10458::$$$message_0106_0015_0000$$$::"...Saber.[lr]::
 10459::$$$message_0106_0015_0001$$$::Você consegue sentir a presença do Servo...?"[lr]::
 10460::$$$message_0106_0015_0002$$$::"[line2]Sim. Não posso detectá-lo precisamente, mas certamente posso sentir a presença de um Servo."[lr]::
 10461::$$$message_0106_0015_0003$$$::Pode ser o efeito de um Campo Limitado no Templo Ryuudou, mas parece que as habilidades de percepção da Saber deterioraram.::
-10462::$$$message_0106_0016_0000$$$::"[line2]Esse vento não é bom. Shirou, não deixe meu lado nem por um instante."[lr]::
+10462::$$$message_0106_0016_0000$$$::"[line2]Esse vento não é bom. Shirou, não saia do meu lado nem por um instante."[lr]::
 10463::$$$message_0106_0016_0001$$$::"......"[lr]::
 10464::$$$message_0106_0016_0002$$$::Respondo balançando a cabeça e começo a subir os degraus de pedra.::
 10465::$$$message_0106_0017_0000$$$::O ar está tenso.[lr]::
@@ -54,17 +54,17 @@ id=qid::label=str::text=lstr::
 10473::$$$message_0106_0019_0001$$$::"...! Um inimigo, Saber?"[lr]::
 10474::$$$message_0106_0019_0002$$$::"Sim. Mas não é um Servo. Sua presença é muito fraca. Provavelmente é um Familiar de vigilância. Podemos ignorá-lo, mas[line3]"::
 10475::$$$message_0106_0020_0000$$$::Deve haver algo de estranho nesse Familiar de vigilância.[lr]::
-10476::$$$message_0106_0020_0001$$$::A Saber faz uma expressão preocupante e olha para os portões do templo à alguns passos de distância.::
+10476::$$$message_0106_0020_0001$$$::A Saber faz uma expressão preocupante e olha para os portões do templo a alguns passos de distância.::
 10477::$$$message_0106_0021_0000$$$::"...Saber? Há algo de errado...?"[lr]::
 10478::$$$message_0106_0021_0001$$$::"...Não sei. Não posso dizer se esse calafrio é por causa do Familiar ou se é a presença de alguém protegendo este portão.[lr]::
 10479::$$$message_0106_0021_0002$$$::Havia algum tipo de vigia no portão, mas parece que ele desapareceu por agora.[lr]::
 10480::$$$message_0106_0021_0003$$$::...Não quero admitir, mas considero isso ótimo. Não seria bom enfrentar a pessoa protegendo esse portão."::
 10481::$$$message_0106_0022_0000$$$::"[line3]Tinha um vigia aqui, mas ele não está aqui agora...?"[lr]::
 10482::$$$message_0106_0022_0001$$$::"Sim. Eles já sabem que estamos aqui.[lr]::
-10483::$$$message_0106_0022_0002$$$::Existem dois motivos para que o vigia ter deixado seu posto. Quais você acha que são, Shirou?"::
+10483::$$$message_0106_0022_0002$$$::Existem dois motivos para o vigia ter deixado seu posto. Quais você acha que são, Shirou?"::
 10484::$$$message_0106_0023_0000$$$::"[line3]"[lr]::
 10485::$$$message_0106_0023_0001$$$::...Para se esconder da gente, ou para nos deixar entrar em um local sem escapatória.[lr]::
-10486::$$$message_0106_0023_0002$$$::...De qualquer modo, não haverá progresso a não ser que entremos.::
+10486::$$$message_0106_0023_0002$$$::...De qualquer modo, não haverá progresso, a não ser que entremos.::
 10487::$$$message_0106_0024_0000$$$::"...Definitivamente acredito ser uma armadilha. Saber, consegue dizer o que se passa lá dentro daqui?"[lr]::
 10488::$$$message_0106_0024_0001$$$::"Não. Só posso determinar que há algum sinal de um Servo lá dentro."::
 10489::$$$message_0106_0025_0000$$$::"...Entendi. Acho que não saberemos até entrarmos."[lr]::
@@ -76,7 +76,7 @@ id=qid::label=str::text=lstr::
 10495::$$$message_0106_0027_0002$$$::"...Huh?"[lr]::
 10496::$$$message_0106_0027_0003$$$::Na escuridão, acho que enxergo uma cobra encantadora se rastejando entre as árvores.::
 10497::$$$message_0106_0028_0000$$$::"Espera, Saber, acabei de[line2]"[lr]::
-10498::$$$message_0106_0028_0001$$$::Eu impeço a Saber que está tentando entrar pelo portão.[lr]::
+10498::$$$message_0106_0028_0001$$$::Eu impeço a Saber, que está tentando entrar pelo portão.[lr]::
 10499::$$$message_0106_0028_0002$$$::"Shirou?"[lr]::
 10500::$$$message_0106_0028_0003$$$::Seu cabelo dourado vira.[lr]::
 10501::$$$message_0106_0028_0004$$$::Mas de repente[line2]::
@@ -87,14 +87,14 @@ id=qid::label=str::text=lstr::
 10506::$$$message_0106_0029_0004$$$::"Isso é péssimo! Volte, Saber...! Seu corpo está sumindo...!"[lr]::
 10507::$$$message_0106_0029_0005$$$::"Não, Shirou...! É você que está sendo transportado...! Se apresse e pegue a minha mão...!"[lr]::
 10508::$$$message_0106_0029_0006$$$::"...!?"[lr]::
-10509::$$$message_0106_0029_0007$$$::Transportação...!?::
+10509::$$$message_0106_0029_0007$$$::Teletransporte...!?::
 10510::$$$message_0106_0029_0008$$$::"Shirou, me dê sua mão...! Você vai ser puxado[line3]"[lr]::
 10511::$$$message_0106_0029_0009$$$::A Saber avança para pegar a minha mão.[lr]::
 10512::$$$message_0106_0029_0010$$$::Neste instante....[lr]::
 10513::$$$message_0106_0029_0011$$$::"Kuh, uh[line3]!?"[lr]::
-10514::$$$message_0106_0029_0012$$$::...A figura de um Servo joga ela de lado.::
+10514::$$$message_0106_0029_0012$$$::...A figura de um Servo a joga para o lado.::
 10515::$$$message_0106_0029_0013$$$::"Você deixou sua guarda baixa, Saber. Sua Resistência Mágica era perigosa.[lr]::
-10516::$$$message_0106_0029_0014$$$::Se você não fosse tão poderosa, teria conseguido proteger ele."::
+10516::$$$message_0106_0029_0014$$$::Se você não fosse tão poderosa, teria conseguido protegê-lo."::
 10517::$$$message_0106_0029_0015$$$::"O qu... Um Servo!"::
 10518::$$$message_0106_0029_0016$$$::A armadura prateada e a roupa preta colidem.[lr]::
 10519::$$$message_0106_0029_0017$$$::Saber e Rider.[lr]::
@@ -103,7 +103,7 @@ id=qid::label=str::text=lstr::
 10522::$$$message_0106_0029_0020$$$::Minha existência é puxada da terceira dimensão, atravessa várias dimensões e é jogada de volta para a realidade.::
 10523::$$$message_0106_0029_0021$$$::"Ah[line3]Ugh...!"[lr]::
 10524::$$$message_0106_0029_0022$$$::O sangue no meu corpo corre ao contrário.[lr]::
-10525::$$$message_0106_0029_0023$$$::Por um instante, meus órgãos ficam invertidos e a tontura é como de eu fosse outro ser vivo[line3]::
+10525::$$$message_0106_0029_0023$$$::Por um instante, meus órgãos ficam invertidos e a tontura é como se eu fosse outro ser vivo[line3]::
 10526::$$$message_0106_0030_0000$$$::"Ah. Tentei pescar um dragão, mas acabei com um peixe pequeno na minha rede."[lr]::
 10527::$$$message_0106_0030_0001$$$::"...!"[lr]::
 10528::$$$message_0106_0030_0002$$$::Viro meu rosto para a presença atrás de mim.::
@@ -116,7 +116,7 @@ id=qid::label=str::text=lstr::
 10535::$$$message_0106_0032_0003$$$::Fui acertado no lado direito do peito e caio na água.::
 10536::$$$message_0106_0033_0000$$$::"Huh[line2]?"[lr]::
 10537::$$$message_0106_0033_0001$$$::...A superfície da água está manchada de vermelho.[lr]::
-10538::$$$message_0106_0033_0002$$$::Meu corpo[line2]o lado direito do meu corpo se foi, como se estivesse sido engolido por um ventilador gigante.::
+10538::$$$message_0106_0033_0002$$$::Meu corpo[line2]o lado direito do meu corpo se foi, como se tivesse sido engolido por um ventilador gigante.::
 10539::$$$message_0106_0034_0000$$$::"Garoto idiota. Vir para meu templo com uma Resistência Mágica ridícula como essa. Parece que a Saber não deu sorte com seu Mestre."::
 10540::$$$message_0106_0035_0000$$$::"[line3]"[lr]::
 10541::$$$message_0106_0035_0001$$$::...A pessoa no manto roxo zomba de mim.[lr]::

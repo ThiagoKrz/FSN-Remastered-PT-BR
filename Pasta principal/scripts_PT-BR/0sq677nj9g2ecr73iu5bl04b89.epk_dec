@@ -17,7 +17,7 @@ id=qid::label=str::text=lstr::
 5716::$$$message_0053_0004_0002$$$::Cambaleando, abro um armário e pego um pano e um balde.::
 5717::$$$message_0053_0005_0000$$$::"Huh... o que eu estou fazendo...?"[lr]::
 5718::$$$message_0053_0005_0001$$$::Ainda estou confuso.[lr]::
-5719::$$$message_0053_0005_0002$$$::Encontrei algo inacreditável, então aquilo me assassinou... Mas aqui estou eu, ainda tentando limpar minha própria bagunça. Quão estúpido eu posso ser?::
+5719::$$$message_0053_0005_0002$$$::Encontrei algo inacreditável, então aquilo me matou... Mas aqui estou eu, ainda tentando limpar minha própria bagunça. Quão estúpido eu posso ser?::
 5720::$$$message_0053_0006_0000$$$::"Hnn... hnn... Droga, não está saindo."[lr]::
 5721::$$$message_0053_0006_0001$$$::Eu esfrego o chão com um pano que encontrei.[lr]::
 5722::$$$message_0053_0006_0002$$$::Consigo limpar o sangue, apesar da incrível fraqueza em todo o meu corpo, então junto tudo que está espalhado pelo chão e enfio nos bolsos.[lr]::
@@ -92,7 +92,7 @@ id=qid::label=str::text=lstr::
 5791::$$$message_0053_0023_0001$$$::Há definitivamente um intruso.[lr]::
 5792::$$$message_0053_0023_0002$$$::Não é um ladrão. É um assassino. Ele está aqui pela minha vida, não pela casa.[lr]::
 5793::$$$message_0053_0023_0003$$$::Porque aquele homem disse ele mesmo: [lr]::
-5794::$$$message_0053_0023_0004$$$::[font italic=true]"Já que nos viu, você precisa morrer.""[font italic=false]::
+5794::$$$message_0053_0023_0004$$$::[font italic=true]"Já que nos viu, você precisa morrer."[font italic=false]::
 5795::$$$message_0053_0024_0000$$$::"..."[lr]::
 5796::$$$message_0053_0024_0001$$$::A casa está em silêncio mortal.[lr]::
 5797::$$$message_0053_0024_0002$$$::Aquela mesma intenção assassina que senti na escola se aproxima pela escuridão silenciosa.::
@@ -104,7 +104,7 @@ id=qid::label=str::text=lstr::
 5803::$$$message_0053_0026_0001$$$::Tento desesperadamente conter meu grito.[lr]::
 5804::$$$message_0053_0026_0002$$$::No instante em que eu gritar, o assassino vai simplesmente pular e me matar.::
 5805::$$$message_0053_0027_0000$$$::E isso seria apenas uma repetição do que aconteceu antes.[lr]::
-5806::$$$message_0053_0027_0001$$$::Não não estou preparado, e vou ser empalado novamente.::
+5806::$$$message_0053_0027_0001$$$::Não, não estou preparado, e vou ser empalado novamente.::
 5807::$$$message_0053_0028_0000$$$::"...Hnnn... haah... ghh..."[lr]::
 5808::$$$message_0053_0028_0001$$$::Minha respiração fica ofegante assim que esse pensamento cruza minha mente.[lr]::
 5809::$$$message_0053_0028_0002$$$::Estou com raiva.[lr]::
@@ -114,7 +114,7 @@ id=qid::label=str::text=lstr::
 5813::$$$message_0053_0030_0000$$$::Preciso me acostumar com isso.[lr]::
 5814::$$$message_0053_0030_0001$$$::Esta é a segunda vez.[lr]::
 5815::$$$message_0053_0030_0002$$$::Esta é a segunda vez que estou prestes a morrer.[lr]::
-5816::$$$message_0053_0030_0003$$$::Só isso me motiva a não morrer de forma patética como da última vez. Afinal, eu não sou um mago?[lr]::
+5816::$$$message_0053_0030_0003$$$::Só isso já me motiva a não morrer de forma patética como da última vez. Afinal, eu não sou um mago?[lr]::
 5817::$$$message_0053_0030_0004$$$::E se não consigo nem me defender disso, para que serviram meus oito anos de treinamento!?::
 5818::$$$message_0053_0031_0000$$$::"Certo. Pode vir."[lr]::
 5819::$$$message_0053_0031_0001$$$::Não vou mais me agonizar com coisas complicadas.[lr]::
@@ -199,7 +199,7 @@ id=qid::label=str::text=lstr::
 5898::$$$message_0053_0054_0002$$$::A atitude casual de antes desaparece inteiramente. Ele me observa agora como um animal selvagem observando sua presa.::
 5899::$$$message_0053_0055_0000$$$::"...Ah..."[lr]::
 5900::$$$message_0053_0055_0001$$$::Droga. Eu estava claramente errado, pensando que as coisas ficariam bem.[lr]::
-5901::$$$message_0053_0055_0002$$$::Essa coisa diante de mim é algum tipo de demônio, algo foram do comum.[lr]::
+5901::$$$message_0053_0055_0002$$$::Essa coisa diante de mim é algum tipo de demônio, algo fora do comum.[lr]::
 5902::$$$message_0053_0055_0003$$$::Percebo claramente que baixar minha guarda mesmo por um segundo foi além de ridículo.::
 5903::$$$message_0053_0056_0000$$$::Isso mesmo.[lr]::
 5904::$$$message_0053_0056_0001$$$::Por mais desesperadora que a situação esteja, eu deveria ter corrido para a janela logo após o milagre de ter desviado do golpe de cima.::
@@ -313,7 +313,7 @@ id=qid::label=str::text=lstr::
 6012::$$$message_0053_0086_0000$$$::"Ah... gngh!"[lr]::
 6013::$$$message_0053_0086_0001$$$::O impacto da lança me joga contra a parede.::
 6014::$$$message_0053_0087_0000$$$::"...Ah... zch...!"[lr]::
-6015::$$$message_0053_0087_0001$$$::Eu caio sentado. Tento fazer meu coração bater de novo, mesmo com a sensação depois de que ele está tentando parar.[lr]::
+6015::$$$message_0053_0087_0001$$$::Eu caio sentado. Tento fazer meu coração bater de novo, mesmo com a sensação de que ele está tentando parar.[lr]::
 6016::$$$message_0053_0087_0002$$$::No momento em que levanto minha cabeça para tentar pegar algo e usar como arma...[lr]::
 6017::$$$message_0053_0087_0003$$$::"Acabou. Mas esse seu último movimento me surpreendeu, garoto."[lr]::
 6018::$$$message_0053_0087_0004$$$::O homem aponta sua lança na frente do meu rosto.::

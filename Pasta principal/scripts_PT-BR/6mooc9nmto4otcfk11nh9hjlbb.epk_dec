@@ -1,33 +1,34 @@
 DAT
 id=qid::label=str::text=lstr::
-36853::$$$message_0311_0000_0000$$$::"É, eu tenho que ir contar pra Tohsaka que o Issei é inocente antes dela atacar ele."[lr]::
-36854::$$$message_0311_0000_0001$$$::Eu devia me apressar.[lr]::
-36855::$$$message_0311_0000_0002$$$::Eu vou buscar minha parceira violenta antes que a relação dela com o Issei vire algo terrível.::
-36856::$$$message_0311_0001_0000$$$::"Hã? A Tohsaka-san já foi pra casa."[lr]::
+36853::$$$message_0311_0000_0000$$$::"Ah, é. Preciso avisar a Tohsaka que o Issei é inocente antes que ela o ataque."[lr]::
+36854::$$$message_0311_0000_0001$$$::Preciso me apressar.[lr]::
+36855::$$$message_0311_0000_0002$$$::Antes que a relação deles sofra danos irreparáveis, tenho que avisar minha parceira esquentadinha.::
+36856::$$$message_0311_0001_0000$$$::"Hã? A Tohsaka já foi embora faz um tempo."[lr]::
 36857::$$$message_0311_0001_0001$$$::Então...[lr]::
-36858::$$$message_0311_0001_0002$$$::Eu tô exausto depois de voltar pra classe 2-A após procurar ela em todo lugar.::
-36859::$$$message_0311_0002_0000$$$::"Mano... Ela tava tão animada pra fazer algo, mas ela já foi pra casa...?"[lr]::
-36860::$$$message_0311_0002_0001$$$::...Isso tá ficando estúpido.[lr]::
-36861::$$$message_0311_0002_0002$$$::Eu posso chamar a Tohsaka no telefone quando eu chegar em casa.::
-36862::$$$message_0311_0003_0000$$$::Eu checo o diretório de alunos assim que eu chego em casa e ligo pra Tohsaka.[lr]::
-36863::$$$message_0311_0003_0001$$$::Trim, trim.[lr]::
-36864::$$$message_0311_0003_0002$$$::Ela atende depois de dezenas de toques e logo quando eu tava pronto pra desistir.::
-36865::$$$message_0311_0004_0000$$$::"É a Tohsaka."[lr]::
-36866::$$$message_0311_0004_0001$$$::Essa voz é definitivamente da Tohsaka.::
-36867::$$$message_0311_0005_0000$$$::"Oi, é o Emiya. Você tá com tempo agora?"[lr]::
-36868::$$$message_0311_0005_0001$$$::"Hã? Por que que você tá brincando, Ar[line3]hã? Sem chance, isso é verdade...!?"[lr]::
-36869::$$$message_0311_0005_0002$$$::"...Ei. Eu não tenho tempo livre o suficiente pra pregar peças em você."::
-36870::$$$message_0311_0006_0000$$$::"Ah[line3]não... Desculpa, eu só tava surpresa. Então, o que foi? É surpreendente você me ligar."::
-36871::$$$message_0311_0007_0000$$$::"É sobre o Issei. Nós prometemos de manhã que iríamos esclarecer isso hoje, certo? Pra te falar a verdade, o Issei não é um mestre. Eu tenho certeza disso já que ele não tinha um Selo de Comando."::
-36872::$$$message_0311_0008_0000$$$::"Sério? ...Eu tô surpresa que você realmente checou isso hoje. Mas o Issei é inocente, huh? ... Bom, acabaram nossos suspeitos, mas acho que isso é bom também."[lr]::
-36873::$$$message_0311_0008_0001$$$::Eu não sei se ela tá aliviada ou desapontada. Eu não consigo entender a reação dela muito bem por telefone.::
-36874::$$$message_0311_0009_0000$$$::"Bom, obrigada pelo seu trabalho. Nós vamos pensar sobre o que fazer a respeito da procura amanhã. Isso é tudo que você tinha pra reportar? Então eu vou desligar."[lr]::
-36875::$$$message_0311_0009_0001$$$::"......"[lr]::
-36876::$$$message_0311_0009_0002$$$::Eu não tenho mais nada pra reportar.[lr]::
-36877::$$$message_0311_0009_0003$$$::Mas tem algo que me deixou curioso.::
-36878::$$$message_0311_0010_0000$$$::"Tohsaka. Você parecia surpresa mais cedo, aconteceu algo aí?"[lr]::
-36879::$$$message_0311_0010_0001$$$::"[line8]"[lr]::
-36880::$$$message_0311_0010_0002$$$::Eu posso sentir a perplexidade da Tohsaka pelo telefone.[lr]::
-36881::$$$message_0311_0010_0003$$$::Depois de um curto silêncio...::
-36882::$$$message_0311_0011_0000$$$::"...Não. Eu só fiquei surpresa porque a sua voz parecia diferente pelo telefone."[lr]::
-36883::$$$message_0311_0011_0001$$$::Ela responde num tom frio e desliga o telefone.::
+36858::$$$message_0311_0001_0002$$$::Depois de procurar em todos os outros lugares primeiro, parei mais uma vez na sala 2-A, onde o último golpe foi desferido.::
+36859::$$$message_0311_0002_0000$$$::"Que saco... Ela tava tão empolgada mais cedo e já foi pra casa..."[lr]::
+36860::$$$message_0311_0002_0001$$$::...Isso tá começando a parecer idiota.[lr]::
+36861::$$$message_0311_0002_0002$$$::Posso simplesmente ligar pra ela quando chegar em casa...::
+36862::$$$message_0311_0003_0000$$$::Checo a lista de contatos da escola assim que chego em casa e ligo pra Tohsaka.[lr]::
+36863::$$$message_0311_0003_0001$$$::O telefone toca.[lr]::
+36864::$$$message_0311_0003_0002$$$::Depois de tocar dezenas de vezes, bem quando estou prestes a desistir, ela atende.::
+36865::$$$message_0311_0004_0000$$$::"Alô, é a Tohsaka."[lr]::
+36866::$$$message_0311_0004_0001$$$::A voz do outro lado é definitivamente da Tohsaka.::
+36867::$$$message_0311_0005_0000$$$::"Alô? É o Emiya. Cê tem um tempo agora?"[lr]::
+36868::$$$message_0311_0005_0001$$$::"Hã? Para de brincadeira, Ar[line2] Pera aí, não brinca, é você mesmo...!?"[lr]::
+36869::$$$message_0311_0005_0002$$$::"...Ei. Eu não tenho tempo de sobra pra ficar de brincadeira com você."::
+36870::$$$message_0311_0006_0000$$$::"Ah... Não, não é isso... Desculpa, só fiquei um pouco surpresa. Aconteceu alguma coisa pra você me ligar?"::
+36871::$$$message_0311_0007_0000$$$::"É sobre o Issei. Te prometi que ia resolver isso hoje. O Issei não é um Mestre. Ele não tem um Selo de Comando em nenhum lugar, então não há dúvida."::
+36872::$$$message_0311_0008_0000$$$::"Sério? ...Tô surpresa que você realmente tenha investigado isso hoje. Então o Issei é inocente, hein? ...Bem, ficamos sem pistas agora, mas acho que tudo bem."[lr]::
+36873::$$$message_0311_0008_0001$$$::Não sei dizer se ela tá decepcionada ou aliviada. Não consigo entender muito bem a reação da Tohsaka por telefone.::
+36874::$$$message_0311_0009_0000$$$::"De qualquer forma, bom trabalho. Pensaremos no que fazer em relação à busca pelo Mestre amanhã. Então é só isso? Se sim, tenho que ir."[lr]::
+36875::$$$message_0311_0009_0001$$$::"..."[lr]::
+36876::$$$message_0311_0009_0002$$$::Não tenho mais nada pra falar.[lr]::
+36877::$$$message_0311_0009_0003$$$::Mas tem uma outra coisa que me incomoda.::
+36878::$$$message_0311_0010_0000$$$::"Tohsaka. Você parecia surpresa agora há pouco. Aconteceu alguma coisa?"[lr]::
+36879::$$$message_0311_0010_0001$$$::[font italic=true]...[font italic=false][lr]::
+36880::$$$message_0311_0010_0002$$$::Consigo sentir a perplexidade da Tohsaka pelo telefone.[lr]::
+36881::$$$message_0311_0010_0003$$$::Após um breve momento de silêncio...::
+36882::$$$message_0311_0011_0000$$$::"...Nada. Eu só me surpreendi porque a sua voz soou um pouco diferente pelo telefone."[lr]::
+36883::$$$message_0311_0011_0001$$$::Ela constata o óbvio com uma voz fria e desliga.::
+

@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 4574::$$$message_0043_0029_0001$$$::Eles estão determinados a eliminar qualquer coisa desumana no mundo, incluindo usuários de magia.[lr]::
 4575::$$$message_0043_0029_0002$$$::Aos olhos da Igreja, apenas santos têm permissão para realizar milagres. Todos os outros milagres humanos são heresia.::
 4576::$$$message_0043_0030_0000$$$::Não há exceções, mesmo para aqueles dentro da Igreja.[lr]::
-4577::$$$message_0043_0030_0001$$$::Quanto mais alta a posição de alguém dentro da Igreja, mais eles são proibidos de usarem a impureza da magia.[lr]::
+4577::$$$message_0043_0030_0001$$$::Quanto mais alta a posição de alguém dentro da Igreja, mais eles são proibidos de usar a impureza da magia.[lr]::
 4578::$$$message_0043_0030_0002$$$::Nem é preciso dizer que quanto mais bênçãos alguém recebe de Deus[line2] especialmente alguém que está no comando de uma igreja como esta[line2]maior a distância que deve manter da magia.::
 4579::$$$message_0043_0031_0000$$$::"Na verdade, eu não sabia que o padre daqui estava do nosso lado."[lr]::
 4580::$$$message_0043_0031_0001$$$::"Sim. Ele é quem supervisiona a Guerra do Santo Graal, então ele é definitivamente um agente. Bem, se ele realmente recebeu alguma bênção de Deus é algo a se questionar."::
@@ -177,7 +177,7 @@ id=qid::label=str::text=lstr::
 4671::$$$message_0043_0065_0001$$$::"Uma opinião válida. No entanto, não é uma opção que possamos nos dar ao luxo.[lr]::
 4672::$$$message_0043_0065_0002$$$::Apenas um pode obter o Santo Graal.[lr]::
 4673::$$$message_0043_0065_0003$$$::Nós mesmos não podemos escolher quem. Isso cabe ao Graal decidir."::
-4674::$$$message_0043_0066_0000$$$::"A seleção dos sete Mestres e a invocação de sete Servos são todas determinadas pelo próprio Santo Graal.[lr]::
+4674::$$$message_0043_0066_0000$$$::"A seleção dos sete Mestres e a invocação de sete Servos são ambas determinadas pelo próprio Santo Graal.[lr]::
 4675::$$$message_0043_0066_0001$$$::Eu mencionei que isso era um ritual. O Santo Graal seleciona aqueles que são dignos de possuí-lo, e os escolhidos competem um contra o outro para selecionar o portador. [lr]::
 4676::$$$message_0043_0066_0002$$$::Isso é o que é uma Guerra do Santo Graal... uma espécie de ritual necromântico onde aqueles escolhidos pelo Santo Graal lutam até a morte para obtê-lo."::
 4677::$$$message_0043_0067_0000$$$::[font italic=true]...[font italic=false][lr]::
@@ -215,7 +215,7 @@ id=qid::label=str::text=lstr::
 4709::$$$message_0043_0076_0002$$$::É simples. Um Servo não pode existir sem seu Mestre. Não importa o quão poderoso o Servo seja, eles desaparecerão assim que o Mestre for morto. O que significa..."::
 4710::$$$message_0043_0077_0000$$$::Agora eu entendo.[lr]::
 4711::$$$message_0043_0077_0001$$$::Ninguém tornaria as coisas mais difíceis para si mesmo.[lr]::
-4712::$$$message_0043_0077_0002$$$::Se alguém quisesse ter certeza de que venceria, matar o Mestre seria o caminho muito mais fácil.::
+4712::$$$message_0043_0077_0002$$$::Se alguém quisesse ter certeza de que venceria, matar o Mestre seria um caminho muito mais fácil.::
 4713::$$$message_0043_0078_0000$$$::"Entendi. É mais fácil derrotar o Mestre do que o Servo.[lr]::
 4714::$$$message_0043_0078_0001$$$::Deixe-me perguntar uma coisa, então. Se o Servo for derrotado primeiro, seu Mestre não é mais um Mestre? Se os Servos são os únicos que podem tocar o Santo Graal, então um Mestre que perdeu seu Servo se torna obsoleto, certo?"::
 4715::$$$message_0043_0079_0000$$$::"Não, desde que o Selo de Comando permaneça, eles ainda têm o direito de permanecer um Mestre. Um Mestre é simplesmente um mago que pode fazer um contrato com um Servo. Contanto que tenham um Selo de Comando, eles podem formar contratos com quantos Servos quiserem."::
@@ -264,7 +264,7 @@ id=qid::label=str::text=lstr::
 4758::$$$message_0043_0095_0001$$$::Mas com base no que você acabou de dizer, esta Guerra do Santo Graal é fundamentalmente uma coisa ruim, certo?"[lr]::
 4759::$$$message_0043_0095_0002$$$::"Oh? De que forma é fundamentalmente ruim?"::
 4760::$$$message_0043_0096_0000$$$::"Os Mestres anteriores quebraram voluntariamente as leis dos magos, certo?[lr]::
-4761::$$$message_0043_0096_0001$$$::Então, digamos que o Santo Graal seja real. E se quem vencedor sobrevivente for egoísta e usar o Santo Graal para seus próprios benefícios? Não seria muito ruim se o Santo Graal fosse para alguém que não tem problema em matar pessoas?[lr]::
+4761::$$$message_0043_0096_0001$$$::Então, digamos que o Santo Graal seja real. E se o vencedor sobrevivente for egoísta e usar o Santo Graal para seus próprios benefícios? Não seria muito ruim se o Santo Graal fosse para alguém que não tem problema em matar pessoas?[lr]::
 4762::$$$message_0043_0096_0002$$$::Se o trabalho da Associação é supervisionar magos, não deveria ser você quem pune esses tipos de pessoas?"::
 4763::$$$message_0043_0097_0000$$$::Estou esperando finalmente confundi-lo com esta pergunta.[lr]::
 4764::$$$message_0043_0097_0001$$$::Mas, como eu imaginava, Kotomine apenas ri com condescendência.::
@@ -298,7 +298,7 @@ id=qid::label=str::text=lstr::
 4792::$$$message_0043_0108_0004$$$::Minhas pernas estão prestes a ceder.::
 4793::$$$message_0043_0109_0000$$$::Antes que isso possa acontecer, firmo meus pés.[lr]::
 4794::$$$message_0043_0109_0001$$$::Ranjo meus dentes para manter a compostura.[lr]::
-4T95::$$$message_0043_0109_0002$$$::Raiva pura e fervente é a única coisa que segura minha náusea.::
+4795::$$$message_0043_0109_0002$$$::Raiva pura e fervente é a única coisa que segura minha náusea.::
 4796::$$$message_0043_0110_0000$$$::"Emiya-kun? O que foi? Você está completamente pálido. Sei que não foi um tópico agradável de trazer à tona, mas... Aqui, por que você não descansa um pouco?"::
 4797::$$$message_0043_0111_0000$$$::Devo parecer extremamente pálido.[lr]::
 4798::$$$message_0043_0111_0001$$$::Sei que é raro alguém como a Tohsaka se preocupar com alguém como eu.::
@@ -318,7 +318,7 @@ id=qid::label=str::text=lstr::
 4812::$$$message_0043_0116_0000$$$::"Deixe-me perguntar o seguinte: Você disse que esta é a quinta Guerra do Santo Graal, então alguém já obteve o Santo Graal?"[lr]::
 4813::$$$message_0043_0116_0001$$$::"Claro. Nem toda guerra termina com todos mortos."[lr]::
 4814::$$$message_0043_0116_0002$$$::"Então..."::
-4815::$$$message_0043_0117_0000$$$::"Não tire conclusões precipitadas. Obtê-lo é a parte fácil. Afinal, esta igreja realmente gerencia e está em posse do Santo Graal. Se você está se perguntando se alguém o tocou, saiba que eu o toco todos os dias."[lr]::
+4815::$$$message_0043_0117_0000$$$::"Não tire conclusões precipitadas. Obtê-lo é a parte fácil. Afinal, esta igreja realmente gerencia e está em posse do Santo Graal. Se você está se perguntando se alguém fez contato com o mesmo, saiba que eu faço todos os dias."[lr]::
 4816::$$$message_0043_0117_0001$$$::"O quê?"[lr]::
 4817::$$$message_0043_0117_0002$$$::O-o Santo Graal está aqui na igreja!?::
 4818::$$$message_0043_0118_0000$$$::"Bem, é apenas um receptáculo. Está bem vazio. Como Rin disse antes, o Santo Graal está em forma espiritual.[lr]::

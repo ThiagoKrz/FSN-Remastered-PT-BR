@@ -64,11 +64,11 @@ id=qid::label=str::text=lstr::
 6175::$$$message_0054_0024_0000$$$::"[line8]"[lr]::
 6176::$$$message_0054_0024_0001$$$::Saber range seus dentes.[lr]::
 6177::$$$message_0054_0024_0002$$$::Mas ela abaixa sua espada e relaxa.[lr]::
-6178::$$$message_0054_0024_0003$$$::A hostilidade da Saber desaparece, então a espada deve ter sigo guardada.::
+6178::$$$message_0054_0024_0003$$$::A hostilidade da Saber desaparece, então a espada deve ter sido guardada.::
 6179::$$$message_0054_0025_0000$$$::"Entendo. Então posso levantar, certo?"[lr]::
 6180::$$$message_0054_0025_0001$$$::A pessoa no chão levanta.[lr]::
-6181::$$$message_0054_0025_0002$$$::Ela parece desavergonhada, limpando sua parte traseira.[lr]::
-6182::$$$message_0054_0025_0003$$$::...ei, espera um pouco.::
+6181::$$$message_0054_0025_0002$$$::Ela parece desavergonhada, limpando a poeira da roupa.[lr]::
+6182::$$$message_0054_0025_0003$$$::...Ei, espera um pouco.::
 6183::$$$message_0054_0026_0000$$$::Essa pessoa mal-humorada definitivamente é a-QUÊEEEEEE...!?::
 6184::$$$message_0054_0027_0000$$$::"Você, você é a Tohsaka...!?"[lr]::
 6185::$$$message_0054_0027_0001$$$::"Sim. Boa noite, Emiya-kun."[lr]::
@@ -121,7 +121,7 @@ id=qid::label=str::text=lstr::
 6232::$$$message_0054_0043_0000$$$::"Hm? O que foi, Shirou?"[lr]::
 6233::$$$message_0054_0043_0001$$$::"...Não, não é nada."[lr]::
 6234::$$$message_0054_0043_0002$$$::...A Saber parece humana não importa o quanto você olhe. E ela claramente é superior a mim, seu Mestre.[lr]::
-6235::$$$message_0054_0043_0003$$$::Não tenho energia mágica o bastante pra restringir uma pessoa. Pra começo de conversa, nem tenho Circuitos Mágico o suficiente para controlar um Familiar.::
+6235::$$$message_0054_0043_0003$$$::Não tenho energia mágica o bastante pra restringir uma pessoa. Pra começo de conversa, nem tenho Circuitos Mágicos o suficiente para controlar um Familiar.::
 6236::$$$message_0054_0044_0000$$$::"......"[lr]::
 6237::$$$message_0054_0044_0001$$$::Então a Saber deve ser algo diferente de um Familiar.[lr]::
 6238::$$$message_0054_0044_0002$$$::Ela disse que é uma Serva.[lr]::
@@ -170,7 +170,7 @@ id=qid::label=str::text=lstr::
 6281::$$$message_0054_0059_0000$$$::"Espere um minuto. Você está me dizendo que não é nem mesmo um mago completo com sua própria oficina para gerenciar?"[lr]::
 6282::$$$message_0054_0059_0001$$$::"Hã? Eu não tenho uma oficina."[lr]::
 6283::$$$message_0054_0059_0002$$$::Bem, na verdade eu tenho o galpão que uso para treinar, mas acho que chamar aquilo de oficina só deixaria a Tohsaka mais brava.::
-6284::$$$message_0054_0060_0000$$$::"Vou perguntar pra certeza. Você não sabe como lidar com os Cinco Grandes Elementos, ou fazer um Caminho Mágico?"[lr]::
+6284::$$$message_0054_0060_0000$$$::"Vou perguntar pra ter certeza. Você não sabe como lidar com os Cinco Grandes Elementos, ou fazer um Caminho Mágico?"[lr]::
 6285::$$$message_0054_0060_0001$$$::Eu apenas concordo com a cabeça.[lr]::
 6286::$$$message_0054_0060_0002$$$::"..."[lr]::
 6287::$$$message_0054_0060_0003$$$::Uau, isso é assustador.[lr]::
@@ -272,7 +272,7 @@ id=qid::label=str::text=lstr::
 6383::$$$message_0054_0088_0000$$$::"Mas isso é impossível. Nunca ouvi falar de magia assim."[lr]::
 6384::$$$message_0054_0088_0001$$$::"Claro que não. Isso não é magia. Apenas pense nisso como um fenômeno trazido pelo Santo Graal. Senão, não haveria como uma alma ser recriada e manifestada."[lr]::
 6385::$$$message_0054_0088_0002$$$::"Uma recriação de uma alma? Isso significa que esses Servos são diferentes de fantasmas?"::
-6386::$$$message_0054_0089_0000$$$::"Não. Uma vez que algo[line2]sejam humanos, um animal, ou mesmo maquinário[line2]alcança algo grande, eles são removidos do ciclo de reencarnação e sublimados em algo de rank mais alto. Nunca aprendeu isso?[lr]::
+6386::$$$message_0054_0089_0000$$$::"Não. Uma vez que algo[line2]seja um humano, um animal, ou mesmo maquinário[line2]alcança algo grandioso, eles são removidos do ciclo de reencarnação e sublimados em algo de rank mais alto. Nunca aprendeu isso?[lr]::
 6387::$$$message_0054_0089_0001$$$::Isso é o que são Espíritos Heroicos.[lr]::
 6388::$$$message_0054_0089_0002$$$::Dito de outra forma, eles são como pseudo-deuses que são adorados de uma forma ou de outra."::
 6389::$$$message_0054_0090_0000$$$::"Sessões espíritas, médiuns e outras magias comuns que lidam com espíritos apenas pegam emprestado alguns dos poderes do espírito para realizar milagres.[lr]::
@@ -286,7 +286,7 @@ id=qid::label=str::text=lstr::
 6397::$$$message_0054_0092_0001$$$::Mas você percebeu que todos os Servos são monstruosamente fortes, certo? É por isso que devemos deixar os monstros lidarem com os monstros enquanto os Mestres ficam para trás e servem de suporte."::
 6398::$$$message_0054_0093_0000$$$::"...Gr."[lr]::
 6399::$$$message_0054_0093_0001$$$::A explicação de Tohsaka me irrita.[lr]::
-6400::$$$message_0054_0093_0002$$$::Eu não sei como são os outros Servos, mas chamá-los de monstros não parece uma descrição justa da Saber.::
+6400::$$$message_0054_0093_0002$$$::Eu não sei como são os outros Servos, mas chamá-los de monstros não parece uma descrição justa para a Saber.::
 6401::$$$message_0054_0094_0000$$$::"Enfim, humanos que se tornam Mestres usam seu Servo invocado para derrotar os outros Mestres.[lr]::
 6402::$$$message_0054_0094_0001$$$::Você pelo menos entendeu isso?"::
 6403::$$$message_0054_0095_0000$$$::"Na teoria, sim. Mas ainda não estou convencido.[lr]::

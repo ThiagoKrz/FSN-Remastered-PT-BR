@@ -93,10 +93,10 @@ Regras de estilo e adaptação:
   - *Taiga (Fuji-nee):* Muito descontraída, cheia de expressões típicas ("Eita", "Menino do céu", "Vixe").
   - *Rin:* Ácida, sarcástica, fala de adolescente jovem ("Se toca", "Que saco", "Fala sério").
   - *Saber:* Formalidade elegante e natural. Nunca usa "Cê" ou gírias, usa palavras mais ricas e literais ("Compreendo", "Inaceitável"), mas não deve soar como um robô.
-  - *Shirou:* Jovem prático e direto ("Beleza", "Putz", "Tá bom").
+  - *Shirou:* Jovem prático e direto ("Beleza", "Caramba", "Tá bom").
   - *Antagonistas:* Preservar as vozes. Shinji é o babaca pedante moderno, Gilgamesh tem arrogância teatral e absoluta.
 - **Palavrões e Xingamentos:** FSN possui cenas densas e cras. Está autorizado o uso de palavrões pesados ("Porra", "Merda", "Filho da puta") **apenas** quando refletirem à risca a carga de ódio, desespero ou tensão do diálogo original. Não suavize o que for denso, mas também não insira xingamentos onde o original não tenha a intenção.
-- **Reações e Onomatopeias:** Abrasileire as reações físicas. O inglês "Tch" vira "Tsc". O "Geez" ou "Sigh" vira "Putz", "Ai, ai" ou descrevemos a ação de forma fluida. O "Eh?!" japonês vira "Hã?!" ou "O quê?!".
+- **Reações e Onomatopeias:** Abrasileire as reações físicas. O inglês "Tch" vira "Tsc". O "Geez" ou "Sigh" vira "Ah", "Ai, ai" ou descrevemos a ação de forma fluida. O "Eh?!" japonês vira "Hã?!" ou "O quê?!".
 - **Regionalismo Neutro Nacional:** Foque num coloquialismo "neutro" brasileiro (padrão de boas dublagens). Evite usar "Tu" (para não gerar choque de conjugação verbal no meio do texto) e evite gírias fortemente atreladas a um único estado do país (ex: "Mermão", "Oxe", "Boto fé", "Uai").
 - **Geral:** Corrija sempre concordância, substitua aspas `「」『』` por `"`, e preserve estritamente os honoríficos asiáticos como parte do texto (`Senpai`, `Onii-chan`, `-san`, `-chan`, `-sensei`).
 

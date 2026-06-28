@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 8122::$$$message_0080_0000_0000$$$::São quase sete e meia.[lr]::
 8123::$$$message_0080_0000_0001$$$::A Sakura e a Fuji-nee já foram pro treino matinal do clube.[lr]::
-8124::$$$message_0080_0000_0002$$$::Eu fui mais cedo pra escola ontem porque o Issei pediu ajuda, mas eu saio de casa no horário de sempre hoje.::
+8124::$$$message_0080_0000_0002$$$::Fui mais cedo pra escola ontem porque o Issei pediu ajuda, mas eu saio de casa no horário de sempre hoje.::
 8125::$$$message_0080_0001_0000$$$::Eu me deparo com uma cena incomum ao chegar na interseção.[lr]::
 8126::$$$message_0080_0001_0001$$$::Vários carros da polícia estão estacionados em frente a uma casa.[lr]::
 8127::$$$message_0080_0001_0002$$$::Algo deve ter acontecido. Está uma barulheira e tem uma multidão cercando a área.::
@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 8147::$$$message_0080_0008_0002$$$::"Shinji? O que o Shinji tem a ver com isso?"::
 8148::$$$message_0080_0009_0000$$$::"É porque vocês são amigos.[lr]::
 8149::$$$message_0080_0009_0001$$$::É o único amigo homem que ele tem, correto? E você pode ter se esquecido, mas eu sou a capitã do clube de arco e flecha. Não acha que é natural eu ligar o estudante problemático atual com o estudante problemático que nos deixou?" ::
-8150::$$$message_0080_0010_0000$$$::"É, isso certamente é natural. O clube de arco e flecha não tem nada a ver com isso, mas eu definitivamente tenho um relacionamento desagradável e inseparável com ele."::
+8150::$$$message_0080_0010_0000$$$::"É, isso certamente é natural. O clube de arco e flecha não tem nada a ver com isso, mas eu definitivamente tenho uma relação desagradável e inseparável com ele."::
 8151::$$$message_0080_0011_0000$$$::"Ah, isso me irrita. Você fala de maneira tão fria quando o assunto é o clube de arco e flecha.[lr]::
 8152::$$$message_0080_0011_0001$$$::Você se deu bem. Deixou o Shinji pra trás e saiu do clube. Mas não podia pensar um pouco naqueles que foram abandonados, como eu e a Sakura?"::
 8153::$$$message_0080_0012_0000$$$::"Hm. O Shinji causou problemas de novo?"[lr]::
@@ -41,7 +41,7 @@ id=qid::label=str::text=lstr::
 8160::$$$message_0080_0014_0001$$$::"O Shinji descontou a raiva nele. Ele chamou um monte de alunas daqui e fez o garoto, que mal tinha começado a manejar um arco, atirar. Ele riu até o garoto acertar o alvo."[lr]::
 8161::$$$message_0080_0014_0002$$$::"Hã!? E você deixou aquele idiota fazer isso!?"::
 8162::$$$message_0080_0015_0000$$$::"Mas é claro que não! Mas o capitão da equipe é ocupado, sabe? Eu não posso estar sempre no dojo, você sabe disso."::
-8163::$$$message_0080_0016_0000$$$::"Isso é verdade... Mas no que o Shinji estava pensando? Ele ensina de maneira bem severa, mas ele não é do tipo que faz piada dos outros desse jeito."::
+8163::$$$message_0080_0016_0000$$$::"Isso é verdade... Mas no que o Shinji estava pensando? Ele ensina de maneira bem rígida, mas ele não é do tipo que faz piada dos outros desse jeito."::
 8164::$$$message_0080_0017_0000$$$::"Eu estou surpresa... Você realmente é assim, Emiya."[lr]::
 8165::$$$message_0080_0017_0001$$$::"Hm, o que quer dizer com isso? Você estava pensando mal de mim?"::
 8166::$$$message_0080_0018_0000$$$::"Ah, eu só estava objetivamente pensando sobre a verdade. Fica a seu critério ficar bravo ou não por isso."[lr]::
@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 8177::$$$message_0080_0022_0000$$$::"De qualquer forma, o Shinji está assim desde ontem.[lr]::
 8178::$$$message_0080_0022_0001$$$::É por isso que eu tive que ficar de olho no dojo até agora."[lr]::
 8179::$$$message_0080_0022_0002$$$::"O temperamento do Shinji é desagradável. Eu sei que é difícil, mas continue dando o melhor de si, Mitsuzuri."::
-8180::$$$message_0080_0023_0000$$$::"Ok, ok. Mas o Shinji não sabe quando parar, entende? Eu sinto que ele vai fazer algo realmente terrível se for rejeitado de novo pela Tohsaka."[lr]::
+8180::$$$message_0080_0023_0000$$$::"Ok, ok. Mas o Shinji não sabe quando parar, entende? Sinto que ele vai fazer algo realmente terrível se for rejeitado de novo pela Tohsaka."[lr]::
 8181::$$$message_0080_0023_0001$$$::"Não, nem mesmo o Shinji se aproximaria de alguém que já o rejeitou. Ele é bom nesse tipo de coisa."::
 8182::$$$message_0080_0024_0000$$$::"Mas ele não tem muita escolha se a pessoa que o rejeitou chegar perto dele. Não sei o motivo, mas a Tohsaka vem visitar o dojo com bastante frequência. Você não sabe disso porque saiu do clube."::
 8183::$$$message_0080_0025_0000$$$::"Hm?"[lr]::
@@ -79,7 +79,7 @@ id=qid::label=str::text=lstr::
 8198::$$$message_0080_0030_0000$$$::"Emiya, poderia me dar um pouco desse frango frito? Meu almoço está desesperadamente carente de carne."[lr]::
 8199::$$$message_0080_0030_0001$$$::"Hm, claro, mas por que o seu almoço é tão simples, Issei? Você vive em um templo, mas não há ensinamentos que proíbam o consumo de carne ou álcool, não é?"::
 8200::$$$message_0080_0031_0000$$$::"Isso já seria anacronismo. É só o jeito que meu pai pensa.[lr]::
-8201::$$$message_0080_0031_0001$$$::'Nada de comidas luxuosas para jovens sacerdotes,' ele diz, e também que eu devia trabalhar pra conseguir o que quero. Estou considerando fugir de casa e me juntar ao circo."[lr]::
+8201::$$$message_0080_0031_0001$$$::'Nada de comidas sofisticadas para jovens sacerdotes,' ele diz, e também que eu devia trabalhar pra conseguir o que quero. Estou considerando fugir de casa e me juntar ao circo."[lr]::
 8202::$$$message_0080_0031_0002$$$::"Ah, é bem a cara dele."::
 8203::$$$message_0080_0032_0000$$$::O pai do Issei é o sacerdote do Templo Ryuudou, um cara corajoso que é amigo do avô da Fuji-nee.[lr]::
 8204::$$$message_0080_0032_0001$$$::Você não tem como esperar uma personalidade normal de alguém que é amigo de um chefe da Yakuza.::
@@ -96,7 +96,7 @@ id=qid::label=str::text=lstr::
 8215::$$$message_0080_0036_0001$$$::Uma arma longa? Ele deve estar se referindo a algo como uma espada.[lr]::
 8216::$$$message_0080_0036_0002$$$::Foi um homicídio... então isso quer dizer que a irmã mais velha e os pais foram mortos.::
 8217::$$$message_0080_0037_0000$$$::Eu imagino a cena...[lr]::
-8218::$$$message_0080_0037_0001$$$::Alguém invadindo no meio da noite. Uma violência injusta. Uma pilhagem unilateral. Pais retalhados. A irmã morta sem nem saber o que estava acontecendo. Nas sombras, a criança coberta pelo sangue da família.::
+8218::$$$message_0080_0037_0001$$$::Alguém invadindo no meio da noite. Uma violência injusta. Um ato injusto de violência. Pais retalhados. A irmã morta sem nem saber o que estava acontecendo. Nas sombras, a criança coberta pelo sangue da família.::
 8219::$$$message_0080_0038_0000$$$::"Issei, sabe se já capturaram o assassino?"[lr]::
 8220::$$$message_0080_0038_0001$$$::"Parece que não. Acidentes causados por falhas nas construções em Shinto, e assassinatos aqui. Não é pra menos que eles estão adiantando o toque de recolher na esc... O que foi, Emiya? Se engasgou com a comida?"::
 8221::$$$message_0080_0039_0000$$$::"Hm? Não é nada. Por que a pergunta repentina?"[lr]::
@@ -110,7 +110,7 @@ id=qid::label=str::text=lstr::
 8229::$$$message_0080_0041_0004$$$::Deve ser uma conversa simples sobre o conselho estudantil, já que o Issei parece bem tranquilo.::
 8230::$$$message_0080_0042_0000$$$::"Uau..."[lr]::
 8231::$$$message_0080_0042_0001$$$::Isso não é algo que se vê todo dia.[lr]::
-8232::$$$message_0080_0042_0002$$$::Apesar de não parecer, o Issei é bem tímido. O mesmo cara que traça uma linha entre si, seus colegas de classe, e até mesmo professores, está falando casualmente com o Kuzuki.::
+8232::$$$message_0080_0042_0002$$$::Apesar de não parecer, o Issei é bem tímido. O mesmo cara que mantém distância entre si, seus colegas de classe, e até mesmo professores, está falando casualmente com o Kuzuki.::
 8233::$$$message_0080_0043_0000$$$::"Talvez eles se deem bem por ambos serem sérios."[lr]::
 8234::$$$message_0080_0043_0001$$$::Kuzuki Souichirou, o professor responsável pela turma 2-A é uma pessoa séria e teimosa.[lr]::
 8235::$$$message_0080_0043_0002$$$::Isso provavelmente ajuda ele a se dar bem com o Issei, que é alguém que valoriza a ordem e a disciplina.::

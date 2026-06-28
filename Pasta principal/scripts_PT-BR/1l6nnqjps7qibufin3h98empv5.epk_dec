@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 24315::$$$message_0213_0000_0000$$$::"Terminei.[lr]::
-24316::$$$message_0213_0000_0001$$$::Eu deixei ela dormindo no quarto japonês, mas não acho que ela vai acordar tão cedo."::
+24316::$$$message_0213_0000_0001$$$::Eu a deixei dormindo no quarto japonês, mas não acho que ela vai acordar tão cedo."::
 24317::$$$message_0213_0001_0000$$$::"...Desculpa, você me ajudou mesmo.[lr]::
 24318::$$$message_0213_0001_0001$$$::Eu não poderia fazer nada para cuidar da Saber."::
 24319::$$$message_0213_0002_0000$$$::"...Bem, eu só tirei a armadura dela e a deixei descansando, você não precisa me agradecer. Não fiz nada demais, a Saber não vai melhorar só com isso."::
@@ -23,7 +23,7 @@ id=qid::label=str::text=lstr::
 24335::$$$message_0213_0010_0000$$$::"Exatamente o que eu disse. ...Você já deveria ter noção de que nesse ritmo a Saber vai desaparecer."[lr]::
 24336::$$$message_0213_0010_0001$$$::"O quê[line2]?"[lr]::
 24337::$$$message_0213_0010_0002$$$::Com calma.[lr]::
-24338::$$$message_0213_0010_0003$$$::A Tohsaka fala do resultado que estive evitando em pensar.::
+24338::$$$message_0213_0010_0003$$$::A Tohsaka fala do resultado em que estive evitando pensar.::
 24339::$$$message_0213_0011_0000$$$::"...Desaparecer... você quer dizer que a Saber vai desaparecer?"::
 24340::$$$message_0213_0012_0000$$$::"É óbvio. A energia mágica da Saber está quase vazia. Eu não sei que tipo de Fantasma Nobre ela usou, mas deve ter consumido muita energia dela.[lr]::
 24341::$$$message_0213_0012_0001$$$::A Saber usou quase toda a energia mágica que ela tinha.[lr]::
@@ -48,7 +48,7 @@ id=qid::label=str::text=lstr::
 24360::$$$message_0213_0021_0001$$$::Fazer com que o Mestre reabasteça a sua energia mágica, ou então deixar que o Servo colete energia por conta própria."::
 24361::$$$message_0213_0022_0000$$$::...Deixar que o Servo colete energia por conta própria.[lr]::
 24362::$$$message_0213_0022_0001$$$::...Isso seria o mesmo que matar pessoas inocentes, assim como a Rider veio fazendo.::
-24363::$$$message_0213_0023_0000$$$::"...Impossível. A Saber não vai fazer isso. Ela mesmo disse que nunca faria uma coisa dessas."::
+24363::$$$message_0213_0023_0000$$$::"...Impossível. A Saber não vai fazer isso. Ela mesma disse que nunca faria uma coisa dessas."::
 24364::$$$message_0213_0024_0000$$$::"Foi o que pensei. A Saber provavelmente iria preferir desaparecer do que sacrificar inocentes.[lr]::
 24365::$$$message_0213_0024_0001$$$::Então só há uma opção. Se não quiser que a Saber desapareça, você vai ter que oferecer a sua energia mágica para ela."::
 24366::$$$message_0213_0025_0000$$$::"Isso[line2]é algo que eu já teria feito se pudesse.[lr]::
@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 24368::$$$message_0213_0026_0000$$$::"...Claro que não. Nós não conseguiríamos enviar energia mágica a tempo mesmo se eu te ensinasse. Você demoraria cerca de um ano para aprender, e você não conseguiria usar a magia mesmo depois de aprendê-la.[lr]::
 24369::$$$message_0213_0026_0001$$$::...Bem, uma conexão foi criada no momento da invocação, então deve haver outra solução[line2]"::
 24370::$$$message_0213_0028_0000$$$::"Escute. Se você quiser salvar a Saber, o único jeito é fazer com que ela ataque as pessoas e absorva as suas almas.[lr]::
-24371::$$$message_0213_0028_0001$$$::Acho que você já percebeu disso."::
+24371::$$$message_0213_0028_0001$$$::Acho que você já percebeu isso."::
 24372::$$$message_0213_0029_0000$$$::"[line5]"[lr]::
 24373::$$$message_0213_0029_0001$$$::Essa seria a medida mais viável.[lr]::
 24374::$$$message_0213_0029_0002$$$::Mas isso significa[line2]::
@@ -65,7 +65,7 @@ id=qid::label=str::text=lstr::
 24377::$$$message_0213_0031_0000$$$::"[line5]"[lr]::
 24378::$$$message_0213_0031_0001$$$::A Saber vai sumir...?[lr]::
 24379::$$$message_0213_0031_0002$$$::Eu nem consigo imaginar uma coisa dessas.[lr]::
-24380::$$$message_0213_0031_0003$$$::Ainda posso sentir o calor do corpo dela em minhas mãos, que estavam a carregando.::
+24380::$$$message_0213_0031_0003$$$::Ainda posso sentir o calor do corpo dela em minhas mãos, que a estavam carregando.::
 24381::$$$message_0213_0032_0000$$$::"Então só resta uma escolha.[lr]::
 24382::$$$message_0213_0032_0001$$$::[line2]Use o seu Selo de Comando, Emiya-kun. Assim você deve evitar a pior das situações."::
 24383::$$$message_0213_0033_0000$$$::Isso significa...[lr]::

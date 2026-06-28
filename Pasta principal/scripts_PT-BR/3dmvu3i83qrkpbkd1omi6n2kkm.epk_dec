@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 6687::$$$message_0060_0000_0000$$$::São duas da tarde.[lr]::
-6688::$$$message_0060_0000_0001$$$::Eu consegui terminar a minha tarefa, mas ainda não há nenhum sinal da Tohsaka voltar.::
+6688::$$$message_0060_0000_0001$$$::Eu consegui terminar a minha tarefa, mas ainda não há nem sinal da Tohsaka voltar.::
 6689::$$$message_0060_0001_0000$$$::"Ah, o telefone está tocando."[lr]::
 6690::$$$message_0060_0001_0001$$$::Alguém está ligando para cá.::
 6691::$$$message_0060_0002_0000$$$::"...Está vindo da sala. A Tohsaka vai[line2]espera, já que estão ligando para a minha casa, eu mesmo deveria atender."[lr]::
@@ -14,7 +14,7 @@ id=qid::label=str::text=lstr::
 6698::$$$message_0060_0004_0002$$$::Assim que atendo a ligação.[lr]::
 6699::$$$message_0060_0004_0003$$$::Ouço a voz do Shinji, que está tentando segurar a própria risada.::
 6700::$$$message_0060_0005_0000$$$::"Shinji? O que você quer? Não tenho nada para falar com você."[lr]::
-6701::$$$message_0060_0005_0001$$$::"Não seja tão mau educado. Eu só liguei porque queria te contar uma coisa."::
+6701::$$$message_0060_0005_0001$$$::"Não seja tão mal-educado. Eu só liguei porque queria te contar uma coisa."::
 6702::$$$message_0060_0006_0000$$$::"Me contar uma coisa...?"[lr]::
 6703::$$$message_0060_0006_0001$$$::"Isso mesmo. Tem uma coisa que eu quero tanto te contar, mas você nunca aparece aqui na escola.[lr]::
 6704::$$$message_0060_0006_0002$$$::Então eu perdi a paciência e acabei ligando para a sua casa. ...Mas enfim, a Tohsaka está perto de você?"::
@@ -39,7 +39,7 @@ id=qid::label=str::text=lstr::
 6723::$$$message_0060_0014_0000$$$::"Espera aí, se acalme. Você está estranho demais, Shinji. Não sei o que aconteceu, mas[line2]"::
 6724::$$$message_0060_0015_0000$$$::"Ahahahahahaha! Não minta para mim, Emiya. A Tohsaka já deve ter contado tudo. Você não precisa mais esconder. Sim, eu sei que você é o Mestre da Saber. Isso quer dizer que você é um assassino muito, mas muito melhor do que eu...!"::
 6725::$$$message_0060_0016_0000$$$::Ele parece estar animado.[lr]::
-6726::$$$message_0060_0016_0001$$$::...Conheço o Shinji já faz cinco anos, mas nunca tinha o visto tão animado assim.::
+6726::$$$message_0060_0016_0001$$$::...Conheço o Shinji já faz cinco anos, mas nunca o tinha visto tão animado assim.::
 6727::$$$message_0060_0017_0000$$$::"Shinji, você..."[lr]::
 6728::$$$message_0060_0017_0001$$$::"Enfim, eu estou te esperando aqui na escola. Seja rápido, Emiya. Se sair de casa agora, você deve chegar durante o sexto período. É a aula da Fujimura, ela não vai ligar se você chegar atrasado."::
 6729::$$$message_0060_0018_0000$$$::"Não, a Fuji-nee também vai reclamar comigo se eu chegar atrasado. Além do mais, se eu chegar no sexto período, vou acabar levando uma bronca maior do que se tivesse faltado o dia inteiro."::
@@ -49,7 +49,7 @@ id=qid::label=str::text=lstr::
 6733::$$$message_0060_0021_0000$$$::"[line2]Qual é o problema dele?"[lr]::
 6734::$$$message_0060_0021_0001$$$::...Mas o que eu faço agora?[lr]::
 6735::$$$message_0060_0021_0002$$$::Não sei onde a Tohsaka está, e caso eu vá para a escola, não vou poder levar a Saber comigo.[lr]::
-6736::$$$message_0060_0021_0003$$$::Mas mesmo assim, eu estou preocupado com que o Shinji possa fazer se eu não aparecer por lá.::
+6736::$$$message_0060_0021_0003$$$::Mas mesmo assim, eu estou preocupado com o que o Shinji possa fazer se eu não aparecer por lá.::
 6737::$$$message_0060_0022_0000$$$::Parece que ele está chateado por ter levado um fora da Tohsaka ontem à noite. Se eu não fizer nada, o Shinji pode acabar batendo na Sakura de novo.::
 6738::$$$message_0060_0023_0000$$$::"...Está bem. Ainda está claro lá fora, então eu não devo correr nenhum perigo."[lr]::
 6739::$$$message_0060_0023_0001$$$::Já que está decidido, é melhor eu ir depressa.[lr]::
@@ -112,7 +112,7 @@ id=qid::label=str::text=lstr::
 6796::$$$message_0060_0028_0043$$$::Eu olho para os alunos caídos no chão.[lr]::
 6797::$$$message_0060_0028_0044$$$::Mesmo que o ar esteja escasso, é possível respirar aqui dentro.[lr]::
 6798::$$$message_0060_0028_0045$$$::Caso eles só estejam enfraquecidos, ainda posso salvá-los se for rápido.[lr]::
-6799::$$$message_0060_0028_0046$$$::E assim que eu olho para o rosto de um dos alunos caído perto de mim, eu ouço um *clique* dentro da minha cabeça.::
+6799::$$$message_0060_0028_0046$$$::E assim que eu olho para o rosto de um aluno caído perto de mim, eu ouço um *clique* dentro da minha cabeça.::
 6800::$$$message_0060_0028_0047$$$::"[line2]A pele... dele..."[lr]::
 6801::$$$message_0060_0028_0048$$$::Está derretendo.[lr]::
 6802::$$$message_0060_0028_0049$$$::Mas não é a pele de todo mundo que está assim.[lr]::
@@ -178,7 +178,7 @@ id=qid::label=str::text=lstr::
 6862::$$$message_0060_0045_0000$$$::"[line2]Ei, o que a Fuji-nee tem a ver com isso?"::
 6863::$$$message_0060_0046_0000$$$::"Hã? Ah sim, a Fujimura? Acontece que quando eu ativei o Campo Limitado, ela ainda conseguia se mexer muito bem. Os alunos estavam caindo no chão um atrás do outro, mas ela estava se aguentando em pé, sabia?[lr]::
 6864::$$$message_0060_0046_0001$$$::Foi quando ela veio até mim pedindo para eu chamar uma ambulância. Incrível, você não acha que ela é uma professora exemplar?"::
-6865::$$$message_0060_0047_0000$$$::"Mas eu não estava com a menor vontade de chamar uma ambulância. Mesmo assim, a Fujimura se agarrou e mim e continuou insistindo, até que eu perdi a paciência e dei um chute nela. Depois disso, ela não se mexeu mais![lr]::
+6865::$$$message_0060_0047_0000$$$::"Mas eu não estava com a menor vontade de chamar uma ambulância. Mesmo assim, a Fujimura se agarrou em mim e continuou insistindo, até que eu perdi a paciência e dei um chute nela. Depois disso, ela não se mexeu mais![lr]::
 6866::$$$message_0060_0047_0001$$$::Hahahahaha, eu acho que naquele estado ela vai ser uma das primeiras a morrer!"::
 6867::$$$message_0060_0048_0000$$$::"[line8]"[lr]::
 6868::$$$message_0060_0048_0001$$$::Eu mudei completamente de humor.[lr]::

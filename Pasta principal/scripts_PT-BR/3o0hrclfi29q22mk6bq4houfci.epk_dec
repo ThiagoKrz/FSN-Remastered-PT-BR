@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 9390::$$$message_0093_0000_0000$$$::...É verdade.[lr]::
-9391::$$$message_0093_0000_0001$$$::As coisas estavam muito corridas esta manhã, então eu devia ir e me explicar para a Sakura agora.::
+9391::$$$message_0093_0000_0001$$$::As coisas estavam muito corridas esta manhã, então eu devia explicar a situação para a Sakura agora.::
 9392::$$$message_0093_0001_0000$$$::Chego ao corredor do primeiro ano, no quarto andar.[lr]::
 9393::$$$message_0093_0001_0001$$$::Assim que olho para a sala através da janela do corredor, a Sakura me nota na mesma hora.::
 9394::$$$message_0093_0002_0000$$$::"Hum, aconteceu algo de errado, Senpai?"[lr]::
@@ -10,7 +10,7 @@ id=qid::label=str::text=lstr::
 9397::$$$message_0093_0003_0000$$$::"Não, não aconteceu nada. Só queria me desculpar pela situação com a Tohsaka. Não pude falar com você sobre isso mais cedo, então queria pedir desculpas antes de ir para casa."[lr]::
 9398::$$$message_0093_0003_0001$$$::"...? Hum, por qual motivo exatamente eu deveria te perdoar em relação à Tohsaka-senpai?"::
 9399::$$$message_0093_0004_0000$$$::"Bem, sobre ela ficar na minha casa por um tempo."[lr]::
-9400::$$$message_0093_0004_0001$$$::"Eu devia ter te consultado antes, então me desculpe por ter tomado essa decisão sozinho."[lr]::
+9400::$$$message_0093_0004_0001$$$::"Eu devia ter falado com você antes, então me desculpe por ter tomado essa decisão sozinho."[lr]::
 9401::$$$message_0093_0004_0002$$$::"Mas há um motivo para ela ficar, e não há segundas intenções. Mesmo que você não queira me perdoar, eu precisava dizer isso."[lr]::
 9402::$$$message_0093_0004_0003$$$::Abaixo a cabeça em um gesto de desculpas.::
 9403::$$$message_0093_0005_0000$$$::"N-Não faça isso, Senpai! Não tem nada pelo que se desculpar."::
@@ -29,7 +29,7 @@ id=qid::label=str::text=lstr::
 9416::$$$message_0093_0011_0000$$$::"Sim. Não vou perguntar sobre as suas circunstâncias. Já é o suficiente que você tenha me dito tudo isso."::
 9417::$$$message_0093_0012_0000$$$::A Sakura está olhando para mim com um sorriso gentil.[lr]::
 9418::$$$message_0093_0012_0001$$$::Não há falsidade em sua expressão.[lr]::
-9419::$$$message_0093_0012_0002$$$::Ela está realmente apoiando a decisão da Tohsaka ficar lá.::
+9419::$$$message_0093_0012_0002$$$::Ela está realmente apoiando a decisão de a Tohsaka ficar lá.::
 9420::$$$message_0093_0013_0000$$$::"[line3]Obrigado, Sakura. Eu... fico feliz com isso."[lr]::
 9421::$$$message_0093_0013_0001$$$::"Não, eu é que estou muito feliz."[lr]::
 9422::$$$message_0093_0013_0002$$$::"Uh, mas Senpai... hipoteticamente, o que você teria feito se eu dissesse que não queria?"::
@@ -51,7 +51,7 @@ id=qid::label=str::text=lstr::
 9438::$$$message_0093_0020_0000$$$::Há alunos espalhados pelo corredor.[lr]::
 9439::$$$message_0093_0020_0001$$$::Alguns indo para seus clubes, outros apenas matando tempo...[lr]::
 9440::$$$message_0093_0020_0002$$$::...e uma aluna a dez metros de distância, vindo em minha direção com uma expressão bem séria.[lr]::
-9441::$$$message_0093_0020_0003$$$::Existem todos os tipos de estudantes por aqui hoje.::
+9441::$$$message_0093_0020_0003$$$::Tem todo o tipo de estudante por aqui hoje.::
 9442::$$$message_0093_0021_0000$$$::"...?"[lr]::
 9443::$$$message_0093_0021_0001$$$::Algo me diz que há algo perigoso no que eu acabei de dizer, então me viro e desço as escadas rapidamente.::
 9444::$$$message_0093_0022_0000$$$::"[line3]Ah, é mesmo."[lr]::
@@ -67,7 +67,7 @@ id=qid::label=str::text=lstr::
 9454::$$$message_0093_0025_0002$$$::É, ela está furiosa.[lr]::
 9455::$$$message_0093_0025_0003$$$::Com essa cara, ninguém diria que ela é a "aluna modelo" da escola.::
 9456::$$$message_0093_0026_0000$$$::"Ei. Que coincidência, Tohsaka. Já que está indo embora, quer ir junto?"[lr]::
-9457::$$$message_0093_0026_0001$$$::"Estamos indo para o mesmo caminh[line3]"::
+9457::$$$message_0093_0026_0001$$$::"Estamos indo para o mesmo caminho[line3]"::
 9458::$$$message_0093_0027_0000$$$::"Não venha com 'vamos junto', Shirou, seu idiota! Você tem noção da situação em que está!? Eu ia te avisar, então por que você não apareceu no telhado!?"::
 9459::$$$message_0093_0028_0000$$$::"[line3]Ugh."[lr]::
 9460::$$$message_0093_0028_0001$$$::Essa aura ameaçadora...[lr]::
@@ -90,7 +90,7 @@ id=qid::label=str::text=lstr::
 9477::$$$message_0093_0036_0000$$$::"Hã...? E-Espera. Campo Limitado... você quer dizer, nesta escola!?"::
 9478::$$$message_0093_0037_0000$$$::"Sim, parece que você não percebeu, mas há um bem problemático montado aqui."[lr]::
 9479::$$$message_0093_0037_0001$$$::"Ele está espalhado de forma tão ampla que vai rodear praticamente a escola toda."[lr]::
-9480::$$$message_0093_0037_0002$$$::"Esse Campo Limitado é do tipo que drena sangue e carne dos humanos lá dentro. Ainda está em fase de preparação, mas você não notou que está todo mundo meio desligado?"::
+9480::$$$message_0093_0037_0002$$$::"Esse Campo Limitado é do tipo que consome a carne e o sangue dos humanos dentro. Ainda está em fase de preparação, mas você não notou que está todo mundo meio desligado?"::
 9481::$$$message_0093_0038_0000$$$::"Ah..."[lr]::
 9482::$$$message_0093_0038_0001$$$::Parando para pensar... eu me senti um pouco estranho no sábado, mas era isso?[lr]::
 9483::$$$message_0093_0038_0002$$$::Então isso significa[line3]::
@@ -121,12 +121,12 @@ id=qid::label=str::text=lstr::
 9508::$$$message_0093_0049_0001$$$::Minha visão embaça por um momento.[lr]::
 9509::$$$message_0093_0049_0002$$$::Respiro fundo, tentando processar a gravidade do que a Tohsaka está dizendo.::
 9510::$$$message_0093_0050_0000$$$::[line3]É isso.[lr]::
-9511::$$$message_0093_0050_0001$$$::Mesmo que meu entendimento seja incompleto, imagino a pior possibilidade e gravo essa imagem dentro de mim.::
+9511::$$$message_0093_0050_0001$$$::Mesmo que meu entendimento seja incompleto, imagino a pior possibilidade e gravo essa imagem na minha mente.::
 9512::$$$message_0093_0051_0000$$$::"Entendi o que quis dizer."[lr]::
 9513::$$$message_0093_0051_0001$$$::"[line3]Então, Tohsaka. Você consegue destruir esse Campo Limitado?"::
 9514::$$$message_0093_0052_0000$$$::"Eu tentei, mas nada feito."[lr]::
-9515::$$$message_0093_0052_0001$$$::"Descobri todas as fontes, mas não posso destruí-lo. Tudo que posso fazer é enfraquecê-las temporariamente para atrasar a ativação."::
-9516::$$$message_0093_0053_0000$$$::"Atrasar a ativação...? Então ele não vai ativar enquanto você estiver aqui cuidando disso?"::
+9515::$$$message_0093_0052_0001$$$::"Descobri todas as fontes, mas não posso destruí-las. Tudo que posso fazer é enfraquecê-las temporariamente para atrasar a ativação."::
+9516::$$$message_0093_0053_0000$$$::"Atrasar a ativação...? Então ele não vai se ativar enquanto você estiver aqui cuidando disso?"::
 9517::$$$message_0093_0054_0000$$$::"...Isso seria o ideal, mas é puro otimismo."[lr]::
 9518::$$$message_0093_0054_0001$$$::"O Campo Limitado já está montado e a energia mágica está se acumulando aos poucos. Segundo o Archer, deve ficar pronto em uns oito dias."[lr]::
 9519::$$$message_0093_0054_0002$$$::"Quando isso acontecer, esta escola virará um inferno assim que o Mestre ou o Servo quiserem."::
@@ -146,5 +146,5 @@ id=qid::label=str::text=lstr::
 9533::$$$message_0093_0061_0001$$$::A Saber era contra eu vir para a escola, então só tive permissão com a condição de voltar antes do pôr do sol.::
 9534::$$$message_0093_0062_0000$$$::"Então, te vejo depois. Vá direto para casa."[lr]::
 9535::$$$message_0093_0062_0001$$$::A Tohsaka vai direto para a parte de trás da escola. Talvez tenha algo a fazer no ginásio?[lr]::
-9536::$$$message_0093_0062_0002$$$::Eu a observo ir embora por um momento e saio a escola logo em seguida.::
+9536::$$$message_0093_0062_0002$$$::Eu a observo ir embora por um momento e saio da escola logo em seguida.::
 

@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 18123::$$$message_0169_0000_0000$$$::"Haa... Ah[line2]!"[lr]::
-18124::$$$message_0169_0000_0001$$$::Eu Desvio o meu olhar da escuridão que leva ao subterrâneo.[lr]::
+18124::$$$message_0169_0000_0001$$$::Eu desvio o meu olhar da escuridão que leva ao subterrâneo.[lr]::
 18125::$$$message_0169_0000_0002$$$::Saio correndo enquanto tento acalmar o meu coração apavorado.::
 18126::$$$message_0169_0001_0000$$$::Não aguento ficar aqui por nem mais um segundo.[lr]::
 18127::$$$message_0169_0001_0001$$$::Quero sair desse local o mais rápido possível.[lr]::
@@ -32,13 +32,13 @@ id=qid::label=str::text=lstr::
 18152::$$$message_0169_0006_0002$$$::Por que você está tentando causar problemas quando os seus ferimentos de ontem ainda não estão cicatrizados e quando o Gilgamesh pode atacar a qualquer momento!?"::
 18153::$$$message_0169_0007_0000$$$::A Saber olha para mim com raiva.[lr]::
 18154::$$$message_0169_0007_0001$$$::...Mas...::
-18155::$$$message_0169_0008_0000$$$::"Bem, eu fui até a igreja. Achei que seria uma boa ideia perguntar para o padre sobre se o Gilgamesh tem uma fraqueza ou algo assim."[lr]::
+18155::$$$message_0169_0008_0000$$$::"Bem, eu fui até a igreja. Achei que seria uma boa ideia perguntar para o padre se o Gilgamesh tem uma fraqueza ou algo assim."[lr]::
 18156::$$$message_0169_0008_0001$$$::"Eh... a igreja...? Mas por que logo agora?"::
 18157::$$$message_0169_0009_0000$$$::"Eu conversei com ele mais cedo. Achei que um supervisor como ele poderia dar um jeito de deter um Servo que está aqui mesmo depois do fim da guerra passada.[lr]::
 18158::$$$message_0169_0009_0001$$$::Mas não adiantou de nada. Eu falhei.[lr]::
 18159::$$$message_0169_0009_0002$$$::...Acho que você tem o direito de ficar brava comigo. Já que você está aqui, nós deveríamos ter ido juntos para a igreja."::
 18160::$$$message_0169_0010_0000$$$::Eu abaixo a cabeça de novo para mostrar que estou arrependido.[lr]::
-18161::$$$message_0169_0010_0001$$$::"Uh... n-não, não tem problema se você entende..."[lr]::
+18161::$$$message_0169_0010_0001$$$::"Uh... n-não, não tem problema, se você entende..."[lr]::
 18162::$$$message_0169_0010_0002$$$::Logo em seguida, a Saber deixa de ficar agressiva comigo.::
 18163::$$$message_0169_0011_0000$$$::...É mesmo.[lr]::
 18164::$$$message_0169_0011_0001$$$::A Saber ficou brava por causa da minha atitude idiota, mas ela é gentil o bastante para poder me perdoar.[lr]::
@@ -126,7 +126,7 @@ id=qid::label=str::text=lstr::
 18246::$$$message_0169_0041_0000$$$::"...Shirou? O que foi? Você parece estar pálido."[lr]::
 18247::$$$message_0169_0041_0001$$$::"[line2]Não, não é nada. Saber, tudo bem em abrir a porta? Eu posso dispensá-lo se você não quiser que ele entre."::
 18248::$$$message_0169_0042_0000$$$::No dia em que nós nos conhecemos, a Saber não queria entrar na igreja.[lr]::
-18249::$$$message_0169_0042_0001$$$::Eu me lembro disso, e então pergunto para ela para confirmar.::
+18249::$$$message_0169_0042_0001$$$::Eu me lembro disso, e então pergunto a ela para confirmar.::
 18250::$$$message_0169_0043_0000$$$::"Eu não me importo. Vou respeitar a sua decisão."[lr]::
 18251::$$$message_0169_0043_0001$$$::Respondo acenando com a cabeça e então abro a porta.::
 18252::$$$message_0169_0044_0000$$$::"Você demorou bastante para abrir a porta. Por acaso você não estava com vontade de me ver, Emiya Shirou?"[lr]::
