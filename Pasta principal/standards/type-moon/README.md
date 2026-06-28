@@ -21,6 +21,8 @@ Regra de conflito:
 - Se houver conflito entre o padrão específico de FSN Remastered e o glossário, o glossário vence.
 - Instruções específicas da tarefa atual só podem complementar o padrão, nunca derrubar o glossário.
 - Integridade de caracteres, acentuação correta e ausência de mojibake são obrigatórias em qualquer etapa de tradução.
+- Em termos de VN e metalinguagem narrativa, use a forma consagrada do meio, não a tradução literal genérica. Exemplo obrigatório: `route` -> `rota` nesse contexto.
+- Humor, provocação e oralidade podem ser abrasileirados para soar naturais em PT-BR, mas sem inventar informação, punchline, subtexto ou tom que o original não tenha.
 
 ## Objetivo deste padrão
 

@@ -80,10 +80,10 @@ id=qid::label=str::text=lstr::
 31726::$$$message_0254_0024_0001$$$::"Como eu suspeitava. Você me pede para ensiná-lo, mas usa a técnica do Archer como modelo?"::
 31727::$$$message_0254_0025_0000$$$::"Hã... Pera, então você consegue notar!?"[lr]::
 31728::$$$message_0254_0025_0001$$$::"Naturalmente. Você não tinha um estilo antes, então qualquer um notaria se de repente você passasse a ter um."::
-31729::$$$message_0254_0026_0000$$$::"Eita... Bem, não é como se eu estivesse te ignorando. É que passei um bom tempo com ele ontem, e os movimentos dele ficaram gravados na minha mente..."[lr]::
+31729::$$$message_0254_0026_0000$$$::"Eita... Bem, não é como se eu estivesse te ignorando. É que passei um bom tempo com ele ontem, então os movimentos dele ficaram gravados na minha cabeça..."[lr]::
 31730::$$$message_0254_0026_0001$$$::"Não, você não precisa negar. Não tenho queixas, desde que isso o torne mais forte."[lr]::
 31731::$$$message_0254_0026_0002$$$::...Mentirosa.[lr]::
-31732::$$$message_0254_0026_0003$$$::Qual é a dessa cara obviamente insatisfeita?::
+31732::$$$message_0254_0026_0003$$$::De onde saiu essa cara de quem claramente não gostou?::
 31733::$$$message_0254_0027_0000$$$::"Tô te falando que eu sinto muito. Além disso, mesmo se eu tentar te usar como modelo, não consigo nem ver como você ataca. Sem falar que nossos físicos são muito diferentes. É impossível te copiar."::
 31734::$$$message_0254_0028_0000$$$::"Esse é um ponto válido. Então, eu sou apenas a sua parceira de treino?"[lr]::
 31735::$$$message_0254_0028_0001$$$::...Uuugh.[lr]::
@@ -93,6 +93,7 @@ id=qid::label=str::text=lstr::
 31739::$$$message_0254_0030_0000$$$::"O que você está dizendo? Suas habilidades melhoraram, mas apenas no nível mínimo.[lr]::
 31740::$$$message_0254_0030_0001$$$::Não é algo com o qual você possa se igualar ao Archer, ao Berserker, nem a mim, então, por favor, não tente desafiar ninguém para uma batalha sozinho."::
 31741::$$$message_0254_0031_0000$$$::A Saber é firme.[lr]::
-31742::$$$message_0254_0031_0001$$$::Ela parece uma mentora repreendendo seu aluno convencido, o que me faz dar um sorriso.[lr]::
-31743::$$$message_0254_0031_0002$$$::Bom, ter uma mentora tão fofa é surpreendentemente divertido.::
+31742::$$$message_0254_0031_0001$$$::Ela parece uma mentora dando bronca num aluno metido, e isso me arranca um sorriso.[lr]::
+31743::$$$message_0254_0031_0002$$$::Bom, ter uma mentora tão fofa é até divertido.::
+
 

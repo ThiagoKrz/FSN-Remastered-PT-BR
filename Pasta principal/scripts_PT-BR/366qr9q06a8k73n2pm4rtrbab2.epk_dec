@@ -11,7 +11,7 @@ id=qid::label=str::text=lstr::
 21394::$$$message_0194_0002_0001$$$::Como prometi, vim reivindicá-la."::
 21395::$$$message_0194_0004_0000$$$::"Ar...cher..."[lr]::
 21396::$$$message_0194_0004_0001$$$::O homem de ouro.[lr]::
-21397::$$$message_0194_0004_0002$$$::O Espírito Heroico desconhecido que aniquilou os soldados de ossos da Caster e até derrotou a própria Caster quase sem esforço.::
+21397::$$$message_0194_0004_0002$$$::O Espírito Heroico desconhecido que aniquilou os soldados de ossos da Caster e ainda derrotou a própria Caster quase sem se esforçar.::
 21398::$$$message_0194_0005_0000$$$::Agora aquele monstro está diante de nós.[lr]::
 21399::$$$message_0194_0005_0001$$$::Ele está perto demais.[lr]::
 21400::$$$message_0194_0005_0002$$$::Estamos exatamente à distância ideal para começarmos a nos golpear a qualquer momento. A morte está bem diante de nós, ainda mais do que quando enfrentamos Berserker.::
@@ -26,7 +26,7 @@ id=qid::label=str::text=lstr::
 21409::$$$message_0194_0008_0001$$$::Ela deve ter se decidido.[lr]::
 21410::$$$message_0194_0008_0002$$$::Ela já determinou que o homem à nossa frente é um inimigo, enquanto eu mal consigo me mexer.::
 21411::$$$message_0194_0009_0000$$$::"Shirou. Farei tudo o que puder para bloquear o primeiro ataque dele. Por favor, aproveite essa chance para recuar.[lr]::
-21412::$$$message_0194_0009_0001$$$::Eu sei que será difícil, mas isso é o máximo que posso fazer contra um Servo como ele."::
+21412::$$$message_0194_0009_0001$$$::Eu sei que será difícil, mas isso é tudo o que consigo fazer contra um Servo como ele."::
 21413::$$$message_0194_0010_0000$$$::Consigo ouvir o pedido de desculpas em sua voz por não poder fazer mais.[lr]::
 21414::$$$message_0194_0010_0001$$$::Mesmo alguém tão poderosa quanto Saber só consegue bloquear o primeiro ataque dele.[lr]::
 21415::$$$message_0194_0010_0002$$$::Minhas chances de escapar desse cara são mínimas, na melhor das hipóteses.::
@@ -42,7 +42,7 @@ id=qid::label=str::text=lstr::
 21425::$$$message_0194_0013_0002$$$::Saber não pode vencê-lo agora.[lr]::
 21426::$$$message_0194_0013_0003$$$::Isso não é uma questão da habilidade dela como cavaleira.[lr]::
 21427::$$$message_0194_0013_0004$$$::Nem sequer é assim que eu deveria encarar isto.[lr]::
-21428::$$$message_0194_0013_0005$$$::Nenhum Espírito Heroico, enquanto continuar sendo um Espírito Heroico, pode derrotar o homem de ouro.::
+21428::$$$message_0194_0013_0005$$$::Nenhum Espírito Heroico, enquanto ainda for um Espírito Heroico, pode derrotar o homem de ouro.::
 21429::$$$message_0194_0014_0000$$$::"Não. Quem vai fugir é você, Saber."[lr]::
 21430::$$$message_0194_0014_0001$$$::"O quê? Shirou...!?"[lr]::
 21431::$$$message_0194_0014_0002$$$::Eu me coloco à frente de Saber e encaro Archer.[lr]::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 21456::$$$message_0194_0021_0001$$$::O homem ri.::
 21457::$$$message_0194_0022_0000$$$::"Ah...kuh..."[lr]::
 21458::$$$message_0194_0022_0001$$$::Tento me erguer, mas meu corpo não obedece.::
-21459::$$$message_0194_0023_0000$$$::"Não deixe isso subir à sua cabeça, vira-lata. Existem meios de permitir que um Servo permaneça neste mundo sem você. Este é apenas o caminho de menor resistência. Mas, se ousar soltar mais um pio, eu o matarei."::
+21459::$$$message_0194_0023_0000$$$::"Não deixe isso subir à sua cabeça, vira-lata. Existem meios de manter um Servo neste mundo sem você. Estou apenas escolhendo o método mais simples. Mas, se ousar soltar mais um pio, eu o matarei."::
 21460::$$$message_0194_0024_0000$$$::"Ah...g..."[lr]::
 21461::$$$message_0194_0024_0001$$$::E então minha mente fica em branco.[lr]::
 21462::$$$message_0194_0024_0002$$$::Ele [font italic=true]vai[font italic=false] me matar.[lr]::
@@ -112,7 +112,7 @@ id=qid::label=str::text=lstr::
 21495::$$$message_0194_0036_0001$$$::Ah, sim. Talvez seja divertido ter pelo menos uma que não seja tão obediente."::
 21496::$$$message_0194_0037_0000$$$::"Muito bem. Então será à força. Quando eu obtiver o Graal, derramarei seu conteúdo inteiro sobre você."::
 21497::$$$message_0194_0038_0000$$$::"Alegre-se, Saber. Depois disso, você não precisará de um Mestre.[lr]::
-21498::$$$message_0194_0038_0001$$$::Você absorverá todo o poder do receptáculo onipotente, o Santo Graal. Não precisará mais viver como Servo, servindo aos humanos como seu familiar."::
+21498::$$$message_0194_0038_0001$$$::Você absorverá todo o poder do receptáculo onipotente, o Santo Graal. Não precisará mais viver como Servo, servindo de familiar aos humanos."::
 21499::$$$message_0194_0039_0000$$$::Que arrogância insuportável.[lr]::
 21500::$$$message_0194_0039_0001$$$::Diante disso...::
 21501::$$$message_0194_0040_0000$$$::"Archer. Quais são as suas intenções?"[lr]::
@@ -128,7 +128,7 @@ id=qid::label=str::text=lstr::
 21511::$$$message_0194_0043_0000$$$::"Mas este mundo é, de fato, divertido.[lr]::
 21512::$$$message_0194_0043_0001$$$::Os princípios básicos continuam os mesmos. Só que os adornos agora são extraordinariamente elaborados. Talvez não fosse tão ruim governar o mundo mais uma vez...[lr]::
 21513::$$$message_0194_0043_0002$$$::Sim. Suponho que se possa chamar isso de minha intenção. E, se o poder do Santo Graal me permitir realizar isso mais depressa, talvez ele não seja tão inútil."::
-21514::$$$message_0194_0044_0000$$$::"Então seu desejo é dominar... Você decaiu, Archer. Não pensei que fosse isso que o levaria a buscar o Santo Graal."::
+21514::$$$message_0194_0044_0000$$$::"Então é dominação... Você caiu mesmo, Archer. Não pensei que seria isso que o levaria a buscar o Santo Graal."::
 21515::$$$message_0194_0045_0000$$$::"Não se trata de eu desejar isso. Todas as riquezas do mundo me pertencem. Não tolero que outros façam uso do que é meu.[lr]::
 21516::$$$message_0194_0045_0001$$$::Você odiaria ver outra pessoa usando sua espada sagrada, não é, Rei dos Cavaleiros?"[lr]::
 21517::$$$message_0194_0045_0002$$$::[font italic=true]...[font italic=false]::

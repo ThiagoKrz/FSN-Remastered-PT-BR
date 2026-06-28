@@ -1,0 +1,23 @@
+# Padrao: Git detecta texto vs binario; todo texto fica SEMPRE em LF
+* text=auto eol=lf
+
+# Scripts do projeto -> sempre LF (explicito)
+*.epk_dec text eol=lf
+*.ks      text eol=lf
+*.py      text eol=lf
+*.cs      text eol=lf
+*.json    text eol=lf
+*.csv     text eol=lf
+*.tsv     text eol=lf
+*.txt     text eol=lf
+*.md      text eol=lf
+*.ini     text eol=lf
+
+# Binarios -> nunca converter line-ending
+*.epk    binary
+*.dll    binary
+*.exe    binary
+*.pdb    binary
+*.cache  binary
+*.bin    binary
+*.rar    binary

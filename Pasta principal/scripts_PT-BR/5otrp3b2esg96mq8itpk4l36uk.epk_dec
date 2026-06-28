@@ -1,128 +1,129 @@
 DAT
 id=qid::label=str::text=lstr::
-36202::$$$message_0302_0000_0000$$$::...Eu caminho pela cidade noturna.[lr]::
-36203::$$$message_0302_0000_0001$$$::Ainda é sete horas, então eu ainda vejo pessoas ao redor.[lr]::
-36204::$$$message_0302_0000_0002$$$::Eu não acho que qualquer guarda é necessária, mas eu não posso recusar a boa vontade dela.::
-36205::$$$message_0302_0001_0000$$$::"[line8]"[lr]::
-36206::$$$message_0302_0001_0001$$$::Mas talvez eu deveria ter recusado.[lr]::
-36207::$$$message_0302_0001_0002$$$::...Meus nervos tão ficando tensionados.[lr]::
-36208::$$$message_0302_0001_0003$$$::Tem arrepios na minha pele, e eu talvez vomite se eu deixar minha guarda cair.::
-36209::$$$message_0302_0002_0000$$$::"[line8]"[lr]::
+36202::$$$message_0302_0000_0000$$$::...Eu caminho pela cidade já escurecendo.[lr]::
+36203::$$$message_0302_0000_0001$$$::Ainda nem são sete da noite, então ainda há gente por toda parte.[lr]::
+36204::$$$message_0302_0000_0002$$$::Não acho que precise de escolta, mas também não tenho motivo para recusar a boa vontade dela.::
+36205::$$$message_0302_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
+36206::$$$message_0302_0001_0001$$$::Mas talvez eu devesse ter recusado.[lr]::
+36207::$$$message_0302_0001_0002$$$::Estou ficando cada vez mais tenso.[lr]::
+36208::$$$message_0302_0001_0003$$$::Os arrepios na minha pele estão fora de controle, e sinto que vou vomitar se relaxar por um segundo.::
+36209::$$$message_0302_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
 36210::$$$message_0302_0002_0001$$$::Eu sinto hostilidade atrás de mim.[lr]::
-36211::$$$message_0302_0002_0002$$$::O guarda invisível tá cuidando de quem ele tem que proteger.[lr]::
-36212::$$$message_0302_0002_0003$$$::...Cara, como ele é meu guarda?[lr]::
-36213::$$$message_0302_0002_0004$$$::A hostilidade que eu sinto é definitivamente vinda do homem atrás de mim.::
-36214::$$$message_0302_0003_0000$$$::"Aqui tá bem. Talvez termine como aquela noite se você chegar um pouco mais perto da minha casa."[lr]::
+36211::$$$message_0302_0002_0002$$$::O guarda invisível está sendo mais cauteloso do que eu, justamente a pessoa que ele deveria proteger.[lr]::
+36212::$$$message_0302_0002_0003$$$::...Que tipo de proteção é essa?[lr]::
+36213::$$$message_0302_0002_0004$$$::Essa sensação vem dele. Só a presença desse cara atrás de mim já está desgastando os meus nervos.::
+36214::$$$message_0302_0003_0000$$$::"Aqui já está bom. Se você chegar mais perto, isso pode acabar igual àquela noite."[lr]::
 36215::$$$message_0302_0003_0001$$$::Eu falo pra presença atrás de mim.[lr]::
 36216::$$$message_0302_0003_0002$$$::O Archer não responde.[lr]::
 36217::$$$message_0302_0003_0003$$$::Ele só aceita minhas palavras e tenta sair.::
-36218::$$$message_0302_0004_0000$$$::"[line3]Espera. Você não tem algo que quer dizer?"[lr]::
+36218::$$$message_0302_0004_0000$$$::"...Espera. Você não tem nada a dizer?"[lr]::
 36219::$$$message_0302_0004_0001$$$::Eu encaro o cara invisível.[lr]::
-36220::$$$message_0302_0004_0002$$$::A presença a sair para.[lr]::
+36220::$$$message_0302_0004_0002$$$::A presença, que já ia embora, para.[lr]::
 36221::$$$message_0302_0004_0003$$$::Ele aparece, com hostilidade ainda presente.::
 36222::$$$message_0302_0005_0000$$$::"Eu tenho uma opinião melhor de você. Parece que você consegue pelo menos perceber hostilidade. Uau, eu pensei que você era um pacifista que não mataria nem um inseto."::
-36223::$$$message_0302_0006_0000$$$::"[line3]Não brinca comigo. Eu sou um mago. Se meu inimigo quer lutar, eu vou lutar de volta."[lr]::
-36224::$$$message_0302_0006_0001$$$::Eu confronto o cavaleiro em vermelho.[lr]::
-36225::$$$message_0302_0006_0002$$$::Ele sorri como se brincando comigo e encolhe seus ombros.::
-36226::$$$message_0302_0007_0000$$$::"Não seja ridículo. Um mago que não cheira a sangue é só um meia boca.[lr]::
-36227::$$$message_0302_0007_0001$$$::Você não aprendeu nada com o seu professor, Emiya Shirou?"[lr]::
-36228::$$$message_0302_0007_0002$$$::"Quê[line4]"[lr]::
-36229::$$$message_0302_0007_0003$$$::Meu espírito enfraquece.[lr]::
-36230::$$$message_0302_0007_0004$$$::...O Kiritsugu certamente me disse isso.::
-36231::$$$message_0302_0008_0000$$$::Magos são tingidos com sangue.[lr]::
-36232::$$$message_0302_0008_0001$$$::Não importa se você machuca ou não machuca alguém. Esse caminho é um caminho molhado por sangue.[lr]::
-36233::$$$message_0302_0008_0002$$$::É por isso que o Kiritsugu me falou pra não ser um mago.::
+36223::$$$message_0302_0006_0000$$$::"...Não zombe de mim. Eu ainda sou um mago. Se meu inimigo quer lutar, eu luto."[lr]::
+36224::$$$message_0302_0006_0001$$$::Eu encaro o cavaleiro de vermelho com toda a firmeza que consigo reunir.[lr]::
+36225::$$$message_0302_0006_0002$$$::Ele me devolve um sorriso de deboche e dá de ombros.::
+36226::$$$message_0302_0007_0000$$$::"Não diga bobagem. Um mago que não cheira a sangue é um meia-boca.[lr]::
+36227::$$$message_0302_0007_0001$$$::Não foi isso que o seu mentor te ensinou, Shirou Emiya?"[lr]::
+36228::$$$message_0302_0007_0002$$$::"Qu...[line2]"[lr]::
+36229::$$$message_0302_0007_0003$$$::Meu ânimo vacila.[lr]::
+36230::$$$message_0302_0007_0004$$$::...Sim, o Kiritsugu realmente disse isso.::
+36231::$$$message_0302_0008_0000$$$::Magos são manchados de sangue.[lr]::
+36232::$$$message_0302_0008_0001$$$::Não importa se você fere alguém com as próprias mãos ou não. Mesmo que não o faça, o caminho à frente ainda é pavimentado com sangue.[lr]::
+36233::$$$message_0302_0008_0002$$$::Foi por isso que o Kiritsugu me disse para não virar um mago.::
 36234::$$$message_0302_0009_0000$$$::"...Você tá dizendo que você não sente cheiro de sangue vindo de mim?"[lr]::
-36235::$$$message_0302_0009_0001$$$::"Óbvio que não. Você não é apropriado para ser um mestre nesse quesito também. Você é diferente da Rin."[lr]::
-36236::$$$message_0302_0009_0002$$$::"[line3]O que foi isso? Você tá dizendo que consegue sentir cheiro de sangue na Tohsaka?"::
-36237::$$$message_0302_0010_0000$$$::"Sim. Ela é meio gentil, mas ela é impiedosa quando precisa ser. Ela não andaria por aí procurando outros mestres todo dia se esse não fosse o caso."::
-36238::$$$message_0302_0011_0000$$$::"[line6]"[lr]::
-36239::$$$message_0302_0011_0001$$$::Ela tá procurando outros mestres todo dia...?[lr]::
-36240::$$$message_0302_0011_0002$$$::Isso significa que ela tá lutando com outros mestres.[lr]::
-36241::$$$message_0302_0011_0003$$$::Não é como se fosse o fim assim que ela encontrar um mestre.[lr]::
-36242::$$$message_0302_0011_0004$$$::Então[line4]::
-36243::$$$message_0302_0012_0000$$$::"...Então ela tá fazendo algo como o que aconteceu na escola todo dia?"[lr]::
+36235::$$$message_0302_0009_0001$$$::"Óbvio que não. Você também não serve para ser Mestre nesse sentido. É bem diferente da Rin."[lr]::
+36236::$$$message_0302_0009_0002$$$::"...O que quer dizer com isso? Tá dizendo que consegue sentir cheiro de sangue na Tohsaka?"::
+36237::$$$message_0302_0010_0000$$$::"Sim. Ela é até boazinha demais, mas sabe ser impiedosa quando precisa. Se não fosse assim, ela não passaria os dias caçando outros Mestres."::
+36238::$$$message_0302_0011_0000$$$::"..."[lr]::
+36239::$$$message_0302_0011_0001$$$::Procurando outros Mestres todos os dias...?[lr]::
+36240::$$$message_0302_0011_0002$$$::Isso quer dizer que ela anda lutando contra outros Mestres.[lr]::
+36241::$$$message_0302_0011_0003$$$::E não é como se tudo acabasse no instante em que ela encontra um deles.[lr]::
+36242::$$$message_0302_0011_0004$$$::Então...::
+36243::$$$message_0302_0012_0000$$$::"...Então a Tohsaka vive fazendo coisas como o que aconteceu hoje?"[lr]::
 36244::$$$message_0302_0012_0001$$$::O evento na escola.[lr]::
-36245::$$$message_0302_0012_0002$$$::A mesma coisa aconteceu na floresta hoje...::
-36246::$$$message_0302_0013_0000$$$::"Óbvio que não. Eu gostaria que hoje fosse o único caso. Parece que minha mestra de grande habilidade e mentalidade fica imatura só quando ela está te encarando."::
-36247::$$$message_0302_0014_0000$$$::"Acima de tudo, ela não precisa cooperar com você com as habilidades que ela tem.[lr]::
-36248::$$$message_0302_0014_0001$$$::Mas ela ainda está fazendo coisas irrelevantes. Eu sou contra essa cooperação[line4]mas bom, não tem o que fazer. Servos obedecem seu mestre."::
-36249::$$$message_0302_0015_0000$$$::"Não é assim mesmo, Emiya Shirou? Isso significa que um servo tem que obedecer seu mestre, mesmo se ele for um amador inútil."[lr]::
-36250::$$$message_0302_0015_0001$$$::...Ele tá...[lr]::
-36251::$$$message_0302_0015_0002$$$::Falando de mim e da Saber?::
-36252::$$$message_0302_0016_0000$$$::"[line3]Entendi. Eu me sinto mal pela Tohsaka, sendo parceira de um cara tão cínico assim."::
-36253::$$$message_0302_0017_0000$$$::"...Cara, eu tô chocado. Você ainda está falando coisas assim?[lr]::
-36254::$$$message_0302_0017_0001$$$::Eu vou te avisar. Não se preocupa com a personalidade do seu servo. Nós só somos invocados para lutar. Nós só somos uma ferramente presa pelo selo de comando. Vocês tem controle total sobre nós, então ignora o que sua ferramente tem a dizer."::
-36255::$$$message_0302_0018_0000$$$::"[line8]"[lr]::
+36245::$$$message_0302_0012_0002$$$::A mesma coisa que aconteceu na floresta...?::
+36246::$$$message_0302_0013_0000$$$::"Claro que não. Eu também gostaria que algo assim não voltasse a acontecer. Ao que parece, até uma maga com a habilidade e a fibra dela volta a agir como uma garota da idade que tem quando está diante de você."::
+36247::$$$message_0302_0014_0000$$$::"Antes de mais nada, com a habilidade que tem, ela nem precisa cooperar com você.[lr]::
+36248::$$$message_0302_0014_0001$$$::Mesmo assim, insiste em fazer coisas sem sentido. Sou contra essa parceria, mas... fazer o quê? Servos obedecem aos seus Mestres."::
+36249::$$$message_0302_0015_0000$$$::"Não é assim, Emiya Shirou? Mesmo que o Mestre seja um amador inútil, o Servo tem que obedecer."[lr]::
+36250::$$$message_0302_0015_0001$$$::...Ele está...[lr]::
+36251::$$$message_0302_0015_0002$$$::Falando de mim e da Saber, não está?::
+36252::$$$message_0302_0016_0000$$$::"...Entendi. Até fico com pena da Tohsaka por ter que fazer dupla com um cara tão cínico."::
+36253::$$$message_0302_0017_0000$$$::"...Sério, eu fico impressionado. Você ainda diz esse tipo de absurdo.[lr]::
+36254::$$$message_0302_0017_0001$$$::Eu vou te dar um conselho. Não se preocupe com a personalidade dos Servos. Fomos invocados para lutar. Servos não passam de ferramentas presas pelos Selos de Comando. Vocês têm controle absoluto sobre nós, então ignore o que suas ferramentas têm a dizer."::
+36255::$$$message_0302_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
 36256::$$$message_0302_0018_0001$$$::Eu não consigo dizer pra ele que esse não é o caso.[lr]::
-36257::$$$message_0302_0018_0002$$$::O que o Archer, que é preso pelo selo de comando, disse é certamente verdadeiro.[lr]::
-36258::$$$message_0302_0018_0003$$$::...Eu não consigo pensar na Saber como uma ferramenta, mas é verdade que ela é presa pelo selo de comando.::
+36257::$$$message_0302_0018_0002$$$::O que Archer, preso pelos Selos de Comando, disse é verdade.[lr]::
+36258::$$$message_0302_0018_0003$$$::...Eu não consigo ver a Saber como uma ferramenta, mas é verdade que ela está presa aos Selos de Comando.::
 36259::$$$message_0302_0019_0000$$$::"Então, por que você me parou? Não me fala que é algo tão ridículo quanto tentar virar meu amigo."[lr]::
-36260::$$$message_0302_0019_0001$$$::"[line4]!"[lr]::
+36260::$$$message_0302_0019_0001$$$::"Grr...!"[lr]::
 36261::$$$message_0302_0019_0002$$$::...Ugh.[lr]::
-36262::$$$message_0302_0019_0003$$$::Eu não tenho uma razão.[lr]::
-36263::$$$message_0302_0019_0004$$$::Eu só não gosto dele, então eu queria reclamar pra ele.::
-36264::$$$message_0302_0020_0000$$$::"Uhm[line3]ah sim. Você quer o santo graal também, certo, Archer?"[lr]::
+36262::$$$message_0302_0019_0003$$$::Não tenho nenhuma razão.[lr]::
+36263::$$$message_0302_0019_0004$$$::Eu só não suporto esse cara, então quis descontar nele.::
+36264::$$$message_0302_0020_0000$$$::"...Ah, é. Você também quer o Santo Graal, Archer?"[lr]::
 36265::$$$message_0302_0020_0001$$$::Eu perguntei uma pergunta óbvia em desespero.[lr]::
-36266::$$$message_0302_0020_0002$$$::[line4]Então.::
-36267::$$$message_0302_0021_0000$$$::"Santo graal[line3]? Ah, o tesouro maligno que dizem que realiza desejos, huh? Eu não estou interessado. Meu desejo não pode ser realizado por algo como aquilo."[lr]::
-36268::$$$message_0302_0021_0001$$$::O cavaleiro em vermelho declara desdenhosamente.::
-36269::$$$message_0302_0022_0000$$$::"[line3]O quê...?"[lr]::
+36266::$$$message_0302_0020_0002$$$::Então...::
+36267::$$$message_0302_0021_0000$$$::"O Santo Graal...? Ah, aquele tesouro maldito que dizem realizar desejos? Não me interessa. Não é com algo assim que o meu desejo seria realizado."[lr]::
+36268::$$$message_0302_0021_0001$$$::O cavaleiro de vermelho declara isso com desdém evidente.::
+36269::$$$message_0302_0022_0000$$$::"...O quê...?"[lr]::
 36270::$$$message_0302_0022_0001$$$::Isso é contraditório.[lr]::
-36271::$$$message_0302_0022_0002$$$::Servos desejam o santo graal.[lr]::
-36272::$$$message_0302_0022_0003$$$::Não é por isso que eles respondem a chamada e viram servos...?::
-36273::$$$message_0302_0023_0000$$$::"Espera, qual foi a dessa? Então por que você é um servo?"[lr]::
-36274::$$$message_0302_0023_0001$$$::"Não há o que fazer a respeito do evento.[lr]::
-36275::$$$message_0302_0023_0002$$$::Eu não tenho livre arbítrio. Você deve pensar que nós estamos respondendo a chamada por escolha."::
-36276::$$$message_0302_0024_0000$$$::"O q[line3]uê?"[lr]::
-36277::$$$message_0302_0024_0001$$$::'Não tem livre arbítrio'...?[lr]::
-36278::$$$message_0302_0024_0002$$$::Isso significa que ele foi chamado contra sua vontade mesmo não querendo o santo graal...?::
-36279::$$$message_0302_0025_0000$$$::"Que estúpido da sua parte. Você realmente não pensou sobre isso?[lr]::
-36280::$$$message_0302_0025_0001$$$::Olha, um servo é aquele que é invocado.[lr]::
-36281::$$$message_0302_0025_0002$$$::Não, espíritos heroicos são invocados não pela vontade deles, mas pelas vontades de outros.[lr]::
-36282::$$$message_0302_0025_0003$$$::Nós viramos espíritos heroicos por causa das nossas conquistas, e nós viramos um suporte para pessoas do futuro."::
-36283::$$$message_0302_0026_0000$$$::"[line3]Mas. Você acha que espíritos heroicos realmente desejam ajudar os humanos?"[lr]::
-36284::$$$message_0302_0026_0001$$$::"[line4]Bom..."[lr]::
+36271::$$$message_0302_0022_0002$$$::Servos desejam o Santo Graal.[lr]::
+36272::$$$message_0302_0022_0003$$$::Não é por isso que eles respondem ao chamado de um mago e se tornam Servos...?::
+36273::$$$message_0302_0023_0000$$$::"Espera, isso não faz sentido. Então por que você virou um Servo?"[lr]::
+36274::$$$message_0302_0023_0001$$$::"Por força das circunstâncias, eu não tive escolha.[lr]::
+36275::$$$message_0302_0023_0002$$$::Eu não tenho livre-arbítrio. Você acha mesmo que Servos respondem ao chamado por vontade própria?"::
+36276::$$$message_0302_0024_0000$$$::"O quê...?"[lr]::
+36277::$$$message_0302_0024_0001$$$::Não têm livre-arbítrio...?[lr]::
+36278::$$$message_0302_0024_0002$$$::Isso significa que ele foi chamado contra a própria vontade, mesmo sem desejar o Santo Graal...?::
+36279::$$$message_0302_0025_0000$$$::"Nossa, estou mesmo diante de um gênio. Você nunca parou pra pensar nisso?[lr]::
+36280::$$$message_0302_0025_0001$$$::Entenda: [font italic=true]Servos são os convocados[font italic=false], não o contrário.[lr]::
+36281::$$$message_0302_0025_0002$$$::Eles não têm voz nisso. Espíritos Heroicos respondem à vontade de outra pessoa; não são eles que estendem a mão.[lr]::
+36282::$$$message_0302_0025_0003$$$::Nós nos tornamos Espíritos Heroicos por feitos do passado, nossas lendas são transmitidas adiante e acabamos servindo de apoio às pessoas do futuro."::
+36283::$$$message_0302_0026_0000$$$::"...Mas você acha que Espíritos Heroicos realmente desejam, do fundo do coração, apenas ajudar os humanos?"[lr]::
+36284::$$$message_0302_0026_0001$$$::"...Bem..."[lr]::
 36285::$$$message_0302_0026_0002$$$::...Eu não sei.[lr]::
-36286::$$$message_0302_0026_0003$$$::Se eles se chamam espíritos heroicos, eles devem ser puros.[lr]::
-36287::$$$message_0302_0026_0004$$$::É por isso que eu imaginei eles protegendo as pessoas, mas esse não é o caso pra muitos servos que eu encontrei.::
-36288::$$$message_0302_0027_0000$$$::"Isso mesmo. 'Espíritos heroicos' não tem uma vontade.[lr]::
-36289::$$$message_0302_0027_0001$$$::Espíritos heroicos só estão ali para proteger pessoas."::
-36290::$$$message_0302_0028_0000$$$::"Nós só somos invocados quando existem inconveniências, e nós desaparecemos depois de terminarmos nossas medidas remediadoras.[lr]::
-36291::$$$message_0302_0028_0001$$$::Nós somos seres que não deveriam existir. Nós não somos conhecidos mesmo que salvemos o mundo.[lr]::
-36292::$$$message_0302_0028_0002$$$::Estes são espíritos heroicos[line3]aqueles convenientes que são chamados de o guardião.[lr]::
-36293::$$$message_0302_0028_0003$$$::Tudo acaba assim que viramos um. Nossas vontades são tomadas."::
-36294::$$$message_0302_0029_0000$$$::"Quê[line4]"[lr]::
-36295::$$$message_0302_0029_0001$$$::Alguém que é invocado só para desaparecer.[lr]::
-36296::$$$message_0302_0029_0002$$$::Espíritos heroicos são ferramentas sem uma vontade?::
-36297::$$$message_0302_0030_0000$$$::"Isso não pode ser verdade. Você e a Saber tem uma vontade. ...Você talvez tenha sido invocado contra sua vontade, mas você não tem uma escolha depois que você é invocado?[lr]::
-36298::$$$message_0302_0030_0001$$$::A Saber tá dizendo que ela não vai fazer coisas que vão contra a vontade dela."::
-36299::$$$message_0302_0031_0000$$$::"Óbvio. Nós somos servos. Eu não sei quem fez esse sistema, mas essa guerra é bem estruturada.[lr]::
-36300::$$$message_0302_0031_0001$$$::Ela dá forma ao que deveria ser só parte do corpo principal, e nós somos invocados como os verdadeiros espíritos heroicos.[lr]::
-36301::$$$message_0302_0031_0002$$$::Os espíritos heroicos são dados corpos, nós reganhamos nossa humanidade com eles. Junto com nossos antigos desejos e rancores."::
-36302::$$$message_0302_0032_0000$$$::"É por isso que servos procuram o santo graal.[lr]::
-36303::$$$message_0302_0032_0001$$$::O santo graal deve ser capaz de realizar nossos desejos, e ele permite nós ficarmos nesse mundo como humanos, mesmo que seja por pouco tempo."::
-36304::$$$message_0302_0033_0000$$$::"Ficar aqui como um humano[line3]"[lr]::
-36305::$$$message_0302_0033_0001$$$::Isso deve significar que eles são libertados como um individual e não um servo.::
-36306::$$$message_0302_0034_0000$$$::...E pra adicionar, o santo graal tem poderes de realizar desejos.[lr]::
-36307::$$$message_0302_0034_0001$$$::Se ele permite que eles realizem desejos que eles tinham antes de morrer, é natural que servos cooperem com seus mestres.[lr]::
-36308::$$$message_0302_0034_0002$$$::Então o santo graal deve ser um milagre pra servos também.::
-36309::$$$message_0302_0035_0000$$$::"...Como você pode dizer que não precisa de algo assim? Você pode realizar um desejo que não conseguiu tornar realidade, e você pode até desistir de ser um servo."::
-36310::$$$message_0302_0036_0000$$$::"[line3]É uma história simples.[lr]::
-36311::$$$message_0302_0036_0001$$$::Eu não tive nenhum desejo que eu não consegui tornar realidade."::
-36312::$$$message_0302_0037_0000$$$::"Huh[line4]?"[lr]::
-36313::$$$message_0302_0037_0001$$$::"Eu sou diferente dos outros. Eu fiz meu desejo se tornar realidade, morri, e virei um espírito heroico.[lr]::
-36314::$$$message_0302_0037_0002$$$::É por isso que eu não tenho nenhum desejo, nem eu desejo ficar aqui como um humano. Deve ser o mesmo para seu servo."::
-36315::$$$message_0302_0038_0000$$$::"N-Não seja estúpido. A Saber disse que precisava do santo graal. Ela não é como você, que é um servo sem um objetivo."::
-36316::$$$message_0302_0039_0000$$$::"[line3]Meu objetivo?"[lr]::
-36317::$$$message_0302_0039_0001$$$::O Archer murmura.[lr]::
-36318::$$$message_0302_0039_0002$$$::"[line8]!"[lr]::
-36319::$$$message_0302_0039_0003$$$::Por que é assim?[lr]::
-36320::$$$message_0302_0039_0004$$$::É só um murmúrio normal, mas um calafrio corre por mim.::
-36321::$$$message_0302_0040_0000$$$::"...Heh. É o mesmo se você tiver ou não tiver um objetivo.[lr]::
-36322::$$$message_0302_0040_0001$$$::Pergunta ao seu servo se você estiver curioso. O objetivo da Saber é obter o santo graal, mas ela não vai usar para ela própria. Nesse aspecto, ela é a guardiã ideal. Ela é literalmente um 'escravo'.[lr]::
-36323::$$$message_0302_0040_0002$$$::[line3]Se lembre disso.[lr]::
-36324::$$$message_0302_0040_0003$$$::Se você for o mestre dela, não esqueça disso."::
+36286::$$$message_0302_0026_0003$$$::Se são chamados de Espíritos Heroicos, eu imagino que tenham alguma nobreza.[lr]::
+36287::$$$message_0302_0026_0004$$$::Por isso eu os imaginava protegendo as pessoas, mas não foi essa a impressão que tive da maioria dos Servos que encontrei.::
+36288::$$$message_0302_0027_0000$$$::"Isso mesmo. Espíritos Heroicos, em sua essência, não têm vontade própria.[lr]::
+36289::$$$message_0302_0027_0001$$$::Eles existem apenas para ajudar e proteger as pessoas."::
+36290::$$$message_0302_0028_0000$$$::"Nós só somos convocados quando surge algum problema e desaparecemos quando tudo é resolvido.[lr]::
+36291::$$$message_0302_0028_0001$$$::Existimos e, ao mesmo tempo, não existimos. Salvamos a humanidade, mas no fim ninguém sequer sabe disso.[lr]::
+36292::$$$message_0302_0028_0002$$$::Somos apenas um guardião conveniente.[lr]::
+36293::$$$message_0302_0028_0003$$$::No momento em que nos tornamos um deles, tudo acaba. Nossa vontade nos é tirada, e passamos a ser pouco mais do que uma equipe de limpeza para a humanidade."::
+36294::$$$message_0302_0029_0000$$$::"O quê..."[lr]::
+36295::$$$message_0302_0029_0001$$$::Convocados apenas para desaparecer.[lr]::
+36296::$$$message_0302_0029_0002$$$::Espíritos Heroicos são ferramentas sem vontade própria?::
+36297::$$$message_0302_0030_0000$$$::"Isso não pode ser verdade. Você e a Saber têm vontade própria... Talvez tenham sido invocados contra a vontade, mas, depois disso, vocês não podem escolher?[lr]::
+36298::$$$message_0302_0030_0001$$$::Como quando a Saber se recusa a fazer algo que não quer."::
+36299::$$$message_0302_0031_0000$$$::"Claro. Somos Servos. Não sei quem montou esse sistema, mas esta guerra é muito bem construída.[lr]::
+36300::$$$message_0302_0031_0001$$$::Ela dá forma completa ao que deveria ser apenas uma fração do Espírito Heroico e permite que isso aja como se fosse o ser inteiro.[lr]::
+36301::$$$message_0302_0031_0002$$$::No momento em que recebem um corpo, os Espíritos Heroicos recuperam a humanidade. Junto com os desejos e arrependimentos que tinham em vida."::
+36302::$$$message_0302_0032_0000$$$::"É por isso que Servos buscam o Santo Graal.[lr]::
+36303::$$$message_0302_0032_0001$$$::Com ele, podemos enfim sanar nossos arrependimentos e permanecer neste mundo como humanos, ainda que por pouco tempo."::
+36304::$$$message_0302_0033_0000$$$::"Permanecer aqui como humanos..."[lr]::
+36305::$$$message_0302_0033_0001$$$::Isso quer dizer que eles podem ser livres como indivíduos, e não como Servos.::
+36306::$$$message_0302_0034_0000$$$::...Além disso, o Santo Graal tem o poder de realizar desejos.[lr]::
+36307::$$$message_0302_0034_0001$$$::Se ele permite realizar os desejos que alguém carregava antes de morrer, então faz sentido que os Servos cooperem com seus Mestres.[lr]::
+36308::$$$message_0302_0034_0002$$$::Então o Santo Graal também é um milagre para os Espíritos Heroicos.::
+36309::$$$message_0302_0035_0000$$$::"...Então por quê? Você disse que não precisa de algo assim, mas ele poderia realizar um desejo seu que ficou inacabado e até te libertar da condição de Servo."::
+36310::$$$message_0302_0036_0000$$$::"...É simples.[lr]::
+36311::$$$message_0302_0036_0001$$$::Eu não tenho nenhum desejo que tenha ficado por realizar."::
+36312::$$$message_0302_0037_0000$$$::"Hã...?"[lr]::
+36313::$$$message_0302_0037_0001$$$::"Eu sou diferente dos outros. Realizei o meu desejo, morri e me tornei um Espírito Heroico.[lr]::
+36314::$$$message_0302_0037_0002$$$::Por isso, não tenho mais nenhum desejo a realizar, nem vontade de permanecer aqui como humano. Deve ser o mesmo com o seu Servo."::
+36315::$$$message_0302_0038_0000$$$::"Qu...[line2]Não fala besteira. A Saber disse que precisava do Santo Graal. Ela não é como você, um Servo sem objetivo."::
+36316::$$$message_0302_0039_0000$$$::"...Como eu... sem objetivo?"[lr]::
+36317::$$$message_0302_0039_0001$$$::Archer murmura, atônito.[lr]::
+36318::$$$message_0302_0039_0002$$$::"Khh...!"[lr]::
+36319::$$$message_0302_0039_0003$$$::Não entendo por quê.[lr]::
+36320::$$$message_0302_0039_0004$$$::Foi só um murmúrio, mas senti um calafrio.::
+36321::$$$message_0302_0040_0000$$$::"...Heh. Dá no mesmo ter ou não um objetivo.[lr]::
+36322::$$$message_0302_0040_0001$$$::Pergunte ao seu Servo, se estiver curioso. O objetivo da Saber é o Santo Graal, mas ela jamais o usaria em benefício próprio. Nesse sentido, ela é a guardiã ideal. Uma escrava, no sentido literal.[lr]::
+36323::$$$message_0302_0040_0002$$$::Se você vai ser o Mestre dela,[lr]::
+36324::$$$message_0302_0040_0003$$$::nunca se esqueça do que eu acabei de dizer."::
 36325::$$$message_0302_0041_0000$$$::A presença dele desaparece.[lr]::
-36326::$$$message_0302_0041_0001$$$::O cavaleiro em vermelho fala cínicamente até o fim e sai.::
+36326::$$$message_0302_0041_0001$$$::O cavaleiro de vermelho vai embora despejando veneno até o fim.::
+
 

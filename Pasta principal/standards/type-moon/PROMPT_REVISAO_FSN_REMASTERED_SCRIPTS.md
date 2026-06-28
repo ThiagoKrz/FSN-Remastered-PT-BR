@@ -89,6 +89,7 @@ Ao revisar, traduza e reescreva apenas o texto que o leitor vê, focando numa **
 Regras de estilo e adaptação:
 
 - **Adaptação de Expressões (Idioms) e Oralidade:** Substitua expressões gringas por equivalentes brasileiros. Em cenas casuais, o uso de contrações coloquiais ("Cê", "Tô") está totalmente liberado para personagens informais, garantindo fluidez orgânica no ritmo da fala.
+- **Abrasileiramento com Freio:** Em cenas de humor, provocação, constrangimento, implicância, sarcasmo e intimidade, a fala pode soar mais brasileira e mais viva do que uma tradução literal. Mas o original continua mandando: não invente piada nova, não mude o alvo da fala, não aumente a agressividade sem base, não acrescente subtexto inexistente e não troque o sentido só porque uma frase "soa melhor".
 - **Contraste de Personalidade (Vozes):**
   - *Taiga (Fuji-nee):* Muito descontraída, cheia de expressões típicas ("Eita", "Menino do céu", "Vixe").
   - *Rin:* Ácida, sarcástica, fala de adolescente jovem ("Se toca", "Que saco", "Fala sério").
@@ -97,6 +98,7 @@ Regras de estilo e adaptação:
   - *Antagonistas:* Preservar as vozes. Shinji é o babaca pedante moderno, Gilgamesh tem arrogância teatral e absoluta.
 - **Palavrões e Xingamentos:** FSN possui cenas densas e cras. Está autorizado o uso de palavrões pesados ("Porra", "Merda", "Filho da puta") **apenas** quando refletirem à risca a carga de ódio, desespero ou tensão do diálogo original. Não suavize o que for denso, mas também não insira xingamentos onde o original não tenha a intenção.
 - **Reações e Onomatopeias:** Abrasileire as reações físicas. O inglês "Tch" vira "Tsc". O "Geez" ou "Sigh" vira "Ah", "Ai, ai" ou descrevemos a ação de forma fluida. O "Eh?!" japonês vira "Hã?!" ou "O quê?!".
+- **Termos de VN, Estrutura e Metalinguagem:** Quando o texto estiver falando da estrutura da obra como visual novel, use o vocabulário já consagrado nesse meio, e não a tradução literal mais genérica. Exemplo obrigatório: `route` em contexto de VN vira `rota`, nunca `percurso`, `trajeto` ou equivalente. Do mesmo modo, preserve termos como `final`, `final ruim`, `final bom` e `final verdadeiro` quando o assunto for a estrutura narrativa. Só use equivalentes literais de caminho/deslocamento quando o contexto for físico dentro da cena.
 - **Regionalismo Neutro Nacional:** Foque num coloquialismo "neutro" brasileiro (padrão de boas dublagens). Evite usar "Tu" (para não gerar choque de conjugação verbal no meio do texto) e evite gírias fortemente atreladas a um único estado do país (ex: "Mermão", "Oxe", "Boto fé", "Uai").
 - **Geral:** Corrija sempre concordância, substitua aspas `「」『』` por `"`, e preserve estritamente os honoríficos asiáticos como parte do texto (`Senpai`, `Onii-chan`, `-san`, `-chan`, `-sensei`).
 
@@ -106,6 +108,11 @@ Use exatamente o glossário JSON. Termos recorrentes de FSN com alta prioridade:
 
 - `Servant` -> `Servo`
 - `Master` -> `Mestre`
+- `route` (em contexto de VN) -> `rota`
+- `ending` (em contexto de VN) -> `final`
+- `bad end` -> `final ruim`
+- `good end` -> `final bom`
+- `true end` -> `final verdadeiro`
 - `Holy Grail` -> `Santo Graal`
 - `Holy Grail War` -> `Guerra do Santo Graal`
 - `Noble Phantasm` -> `Fantasma Nobre`
