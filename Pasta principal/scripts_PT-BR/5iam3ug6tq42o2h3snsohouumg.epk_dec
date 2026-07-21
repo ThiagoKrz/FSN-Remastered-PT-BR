@@ -6,7 +6,7 @@ id=qid::label=str::text=lstr::
 1199::$$$message_0008_0001_0000$$$::"Parando pra pensar..."[lr]::
 1200::$$$message_0008_0001_0001$$$::Aconteceu um crime aqui em Miyama alguns dias atrás.[lr]::
 1201::$$$message_0008_0001_0002$$$::Um ladrão matou alguém se não me engano.[lr]::
-1202::$$$message_0008_0001_0003$$$::Deve ser por isso que a escola mudou o toque de recolher para as seis, e isso também explica não ter muita gente por aqui.::
+1202::$$$message_0008_0001_0003$$$::Deve ser por isso que a escola mudou o toque de recolher para as seis, é isso também explica não ter muita gente por aqui.::
 1203::$$$message_0008_0002_0000$$$::"Vazamentos de gás e assassinatos, é...? As coisas estão ficando perigosas ultimamente."[lr]::
 1204::$$$message_0008_0002_0001$$$::Não é de se surpreender que não haja muitas pessoas na rua de noite.[lr]::
 1205::$$$message_0008_0002_0002$$$::A cidade está perigosa demais pra deixar a Sakura ir pra casa sozinha.[lr]::
@@ -23,9 +23,9 @@ id=qid::label=str::text=lstr::
 1216::$$$message_0008_0006_0000$$$::"Você vai morrer se não invocar um logo, Onii-chan."::
 1217::$$$message_0008_0007_0000$$$::...ela diz algo estranho.::
 1218::$$$message_0008_0008_0000$$$::Eu subo a colina e chego em casa.[lr]::
-1219::$$$message_0008_0008_0001$$$::Como as luzes estão acesas, a Sakura e a Fuji-nee já devem estar em casa.::
+1219::$$$message_0008_0008_0001$$$::Como as luzes estão acesas, a Sakura é a Fuji-nee já devem estar em casa.::
 1220::$$$message_0008_0009_0000$$$::Eu sinto o cheiro do jantar assim que entro na sala de estar.[lr]::
-1221::$$$message_0008_0009_0001$$$::A Sakura e a Fuji-nee estão comendo.[lr]::
+1221::$$$message_0008_0009_0001$$$::A Sakura é a Fuji-nee estão comendo.[lr]::
 1222::$$$message_0008_0009_0002$$$::Parece que o prato principal da noite é frango ao molho branco, e a Fuji-nee, que adora esse molho, está de bom humor.::
 1223::$$$message_0008_0010_0000$$$::"Bem-vindo, Senpai. Desculpe por termos começado a comer sem você."[lr]::
 1224::$$$message_0008_0010_0001$$$::"Obrigado. E desculpe o atraso. Não consegui chegar mais cedo em casa."[lr]::
@@ -41,7 +41,7 @@ id=qid::label=str::text=lstr::
 1234::$$$message_0008_0013_0002$$$::A Sakura é terrivelmente modesta.::
 1235::$$$message_0008_0014_0000$$$::As habilidades dela na cozinha melhoraram imensamente nesse último ano.[lr]::
 1236::$$$message_0008_0014_0001$$$::Ela já me superou completamente em pratos ocidentais, e eu mal consigo dizer que sou melhor que ela em pratos japoneses. Hm... Parando pra pensar, nenhum de nós faz comida chinesa.[lr]::
-1237::$$$message_0008_0014_0002$$$::Eu estou feliz de minha discípula estar melhorando, mas é meio deprimente quando o mestre é superado pelo seu aprendiz.::
+1237::$$$message_0008_0014_0002$$$::Eu estou feliz de minha discípula estar melhorando, mas é meio deprimente quando Não mestre é superado pelo seu aprendiz.::
 1238::$$$message_0008_0015_0000$$$::"Mmm."[lr]::
 1239::$$$message_0008_0015_0001$$$::Está tão bom quanto o esperado.[lr]::
 1240::$$$message_0008_0015_0002$$$::Quanto mais você o cozinha, mais duro fica o frango,[lr]::
@@ -62,17 +62,17 @@ id=qid::label=str::text=lstr::
 1255::$$$message_0008_0020_0002$$$::"Sensei... eu acho que isso é abuso de autoridade. Você não devia misturar o trabalho com a sua vida pessoal."::
 1256::$$$message_0008_0021_0000$$$::"Não, com o Shirou não adianta a menos que eu chegue a esse ponto.[lr]::
 1257::$$$message_0008_0021_0001$$$::Ele sempre sai perdendo por ser quem está ajudando a todos. Ele devia ao menos vir direto pra casa pra relaxar de vez em quando, esse idiota."[lr]::
-1258::$$$message_0008_0021_0002$$$::"Ei, quem chama é que é, sua idiota. E eu não saio perdendo se a pessoa que eu ajudei é ajudada de alguma forma."::
+1258::$$$message_0008_0021_0002$$$::"Ei, quem você está chamando de idiota? O que tem de errado em ajudar os outros? Eu não saio perdendo se a pessoa que eu ajudei é ajudada de alguma forma."::
 1259::$$$message_0008_0022_0000$$$::"Fala sério... Eu me pergunto se você puxou isso do Kiritsugu-san. Esse seu jeito de ser preocupa a Onee-chan, Shirou."[lr]::
 1260::$$$message_0008_0022_0001$$$::Eu não consigo enxergar preocupação alguma na expressão alegre dela enquanto mastiga a comida.::
 1261::$$$message_0008_0023_0000$$$::"Hm... Fujimura-sensei. Sobre o que você disse agora, o Senpai era assim desde pequeno?"[lr]::
-1262::$$$message_0008_0023_0001$$$::"Sim, ele sempre foi desse jeito. Ele é do tipo que vai ao socorro de pessoas com problemas. Mas eu não diria que o Shirou é intrometido, ele só é um pouco precoce."::
+1262::$$$message_0008_0023_0001$$$::"Sim, ele sempre foi desse jeito. Ele é do tipo que vai ao socorro de péssoas com problemas. Mas eu não diria que o Shirou é intrometido, ele só é um pouco precoce."::
 1263::$$$message_0008_0024_0000$$$::Um sorriso perigoso se forma no rosto da Fuji-nee.[lr]::
 1264::$$$message_0008_0024_0001$$$::"Fuji-nee, eu vou ficar bravo se você falar demais. E você também, Sakura. Não faça perguntas chatas como essa."::
 1265::$$$message_0008_0025_0000$$$::Eu as encaro.[lr]::
 1266::$$$message_0008_0025_0001$$$::A Fuji-nee estala a língua e aceita parar, mas...[lr]::
 1267::$$$message_0008_0025_0002$$$::"Fujimura-sensei, continue por favor."[lr]::
-1268::$$$message_0008_0025_0003$$$::...a Sakura está levando essa conversa muito a sério.::
+1268::$$$message_0008_0025_0003$$$::...a Sakura éstá levando essa conversa muito a sério.::
 1269::$$$message_0008_0026_0000$$$::"Nesse caso vou continuar. Então, o Shirou é alguém que não consegue ignorar quem está em apuros. É aquela coisa de proteger os fracos e derrotar os fortes. Em uma redação que ele escreveu quando criança, ele disse: 'Meu sonho é me tornar um herói da justiça'."::
 1270::$$$message_0008_0027_0000$$$::"..."[lr]::
 1271::$$$message_0008_0027_0001$$$::Ela está falando sobre coisas que aconteceram há tanto tempo...[lr]::
@@ -86,5 +86,4 @@ id=qid::label=str::text=lstr::
 1279::$$$message_0008_0030_0002$$$::Ela desmorona.[lr]::
 1280::$$$message_0008_0030_0003$$$::Eu pensei que isso faria a Fuji-nee refletir, mas...::
 1281::$$$message_0008_0031_0000$$$::"Uhh, a Onee-chan está triste. Sakura-chan, posso repetir mais uma vez?"[lr]::
-1282::$$$message_0008_0031_0001$$$::...ela pede por mais uma tigela de comida ao invés disso.::
-
+1282::$$$message_0008_0031_0001$$$::...Ela pede por mais uma tigela de comida ao invés disso.::

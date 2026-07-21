@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 26008::$$$message_0224_0020_0002$$$::"Ah... não, espera. Isso é[line2]"[lr]::
 26009::$$$message_0224_0020_0003$$$::Isso não seria errado?::
 26010::$$$message_0224_0021_0000$$$::Quer dizer, a Tohsaka é praticamente a ídola da escola. Só ter ela na minha casa já seria um problemão, mas se ela começasse a ficar aqui, ou [font italic=true]morasse comigo[font italic=false], não sei como as pessoas reagiriam, e a Fuji-nee com certeza me mataria... Ou será que esse é um plano da Tohsaka para eliminar um Mestre!?::
-26011::$$$message_0224_0022_0000$$$::"Ah, por falar nisso, por que não prepara um quarto para ela também? Diferente do meu Archer, seu Servo ocupa espaço de verdade, então você precisa arrumar um lugar para ela descansar. Bom, acho que não é um problema tão grande se você achar que um futon basta para vocês dois."[lr]::
+26011::$$$message_0224_0022_0000$$$::"Ah, por falar nisso, por que não prepara um quarto para ela também? Diferente do meu Archer, seu Servo ocupa espação de verdade, então você precisa arrumar um lugar para ela descansar. Bom, acho que não é um problema tão grande se você achar que um futon basta para vocês dois."[lr]::
 26012::$$$message_0224_0022_0001$$$::O quê...!? Ela está insinuando que eu e Saber vamos dormir na mesma cama ou algo assim!?::
 26013::$$$message_0224_0023_0000$$$::"Nem pensar, idiota! Você acha que pode falar qualquer coisa só porque eu estou quieto, mas isso nunca vai acontecer! A Saber é uma garota, sabia!?"[lr]::
 26014::$$$message_0224_0023_0001$$$::"Você não entendeu o ponto. Mas tanto faz. Ouviu isso, Saber?[lr]::
@@ -93,7 +93,7 @@ id=qid::label=str::text=lstr::
 26043::$$$message_0224_0032_0002$$$::"Você ouviu. Então o que você quer dizer de verdade, Shirou?"::
 26044::$$$message_0224_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
 26045::$$$message_0224_0033_0001$$$::Espera um pouco.[lr]::
-26046::$$$message_0224_0033_0002$$$::Não entendo como, em um único dia, ela consegue simplesmente começar a me chamar de "Shirou", como se eu fosse um gato que ela acabou de pegar e nomear.[lr]::
+26046::$$$message_0224_0033_0002$$$::Não entendo como, em um único dia, ela consegue simplesmente começar a me chamar de "Shirou", como se eu fosse um gato que ela acabou de pégar e nomear.[lr]::
 26047::$$$message_0224_0033_0003$$$::Não, esse nem é o problema. O assunto é onde a Saber vai ficar.::
 26048::$$$message_0224_0034_0000$$$::"Shirou. Vou perguntar mais uma vez. É dever de um Servo protegê-lo enquanto você dorme. A esta altura, acredito que entenda sua posição como Mestre."[lr]::
 26049::$$$message_0224_0034_0001$$$::Ugh... minha decisão não vai mudar, não importa o quanto ela me encare assim.::
@@ -131,7 +131,7 @@ id=qid::label=str::text=lstr::
 26081::$$$message_0224_0049_0000$$$::"Então, por favor, me leve até lá. Há algo que desejo discutir em particular."[lr]::
 26082::$$$message_0224_0049_0001$$$::"Em particular...?"[lr]::
 26083::$$$message_0224_0049_0002$$$::Isso significa que é algo que ela não quer que Tohsaka ouça.[lr]::
-26084::$$$message_0224_0049_0003$$$::Não acho que Tohsaka conseguiria nos ouvir, já que está no anexo, mas não posso esquecer que ela ainda é uma Mestre.[lr]::
+26084::$$$message_0224_0049_0003$$$::Não acho que Tohsaka conseguiria nós ouvir, já que está no anexo, mas não posso esquecer que ela ainda é uma Mestre.[lr]::
 26085::$$$message_0224_0049_0004$$$::Ela poderia muito bem tentar escutar. Além disso, a varanda não é lugar para uma conversa particular.::
 26086::$$$message_0224_0050_0000$$$::"Aqui. Este é meu quarto."[lr]::
 26087::$$$message_0224_0050_0001$$$::"O quê...? Este é seu quarto, Shirou?"[lr]::
@@ -148,7 +148,7 @@ id=qid::label=str::text=lstr::
 26098::$$$message_0224_0055_0000$$$::"Sim. Um quarto reflete a personalidade de seu dono. O estado deste quarto me deixou preocupada com sua disposição, mas minha impressão de você voltou a ser a mesma de antes de vir aqui."[lr]::
 26099::$$$message_0224_0055_0001$$$::Saber parece aliviada ao dizer isso, mas não entendo muito bem o que ela quer dizer.::
 26100::$$$message_0224_0056_0000$$$::"Então, sobre o que você queria falar comigo em particular?"[lr]::
-26101::$$$message_0224_0056_0001$$$::"É algo ruim. No mínimo, eu preferiria que os outros Mestres não ficassem sabendo."[lr]::
+26101::$$$message_0224_0056_0001$$$::"É algo ruim. o mínimo, eu preferiria que os outros Mestres não ficassem sabendo."[lr]::
 26102::$$$message_0224_0056_0002$$$::"...Hm."[lr]::
 26103::$$$message_0224_0056_0003$$$::Pela expressão da Saber, imagino que isso tenha relação com nossas fraquezas.::
 26104::$$$message_0224_0057_0000$$$::"Certo. Acho que entendi o que está te preocupando. Pode me contar."[lr]::
@@ -183,7 +183,7 @@ id=qid::label=str::text=lstr::
 26133::$$$message_0224_0068_0002$$$::...Graças a Deus. Se é só isso, vou dar a ela o que pedir.::
 26134::$$$message_0224_0069_0000$$$::"Claro que não tem problema. Descanse quanto quiser se as coisas ficarem difíceis para você. Prefiro isso se permitir que fique comigo por mais tempo."::
 26135::$$$message_0224_0070_0000$$$::"Então, de agora em diante, dormirei com frequência. Durante esse tempo, peço que não saia da casa. Não poderei ajudá-lo se você for atacado enquanto estivermos separados."::
-26136::$$$message_0224_0071_0000$$$::"Seria diferente se eu pudesse viajar pelo espaço e pelo tempo, mas essa é uma habilidade rara entre Servos.[lr]::
+26136::$$$message_0224_0071_0000$$$::"Seria diferente se eu pudesse viajar pelo espação e pelo tempo, mas essa é uma habilidade rara entre Servos.[lr]::
 26137::$$$message_0224_0071_0001$$$::Se quiser me chamar de longe, precisará usar Selos de Comando como apoio, então eu preferiria que permanecesse por perto."::
 26138::$$$message_0224_0072_0000$$$::"...Hm."[lr]::
 26139::$$$message_0224_0072_0001$$$::Por mais que eu queira, não posso simplesmente concordar.[lr]::
@@ -191,7 +191,7 @@ id=qid::label=str::text=lstr::
 26141::$$$message_0224_0073_0000$$$::"...Vou tentar. Mas isso é tudo que você precisa que eu faça?[lr]::
 26142::$$$message_0224_0073_0001$$$::Se você estiver dormindo, vai[line2]"[lr]::
 26143::$$$message_0224_0073_0002$$$::"Não deve haver problema. Não posso ter certeza, já que isso nunca aconteceu comigo antes, mas, da última vez, lutei menos de sete vezes. Mesmo que eu não saia para lutar, alguns dos outros Servos acabarão derrotando uns aos outros."::
-26144::$$$message_0224_0074_0000$$$::"Entendo. Então não quer dizer que todos precisam lutar contra todos os outros. Se tudo correr bem, podemos acabar esta guerra com facilidade."::
+26144::$$$message_0224_0074_0000$$$::"Entendo. Então não quer dizer que todos precisam lutar contra todos os outros. Se tudo correr bem, podemos acabar está guerra com facilidade."::
 26145::$$$message_0224_0075_0000$$$::As únicas pessoas que preciso enfrentar são aquelas que começarem a fazer coisas que ninguém deveria fazer.[lr]::
 26146::$$$message_0224_0075_0001$$$::Não consigo imaginar que todos os sete sejam assim.[lr]::
 26147::$$$message_0224_0075_0002$$$::Até Tohsaka, que parece disposta a lutar, ainda seguiria as regras dos magos.::
@@ -216,7 +216,7 @@ id=qid::label=str::text=lstr::
 26166::$$$message_0224_0083_0001$$$::"Eu apenas cumpro os deveres que me foram dados. Desde que eu consiga obter o Santo Graal, não tenho reclamações sobre quem é meu Mestre."::
 26167::$$$message_0224_0084_0000$$$::"Entendi. Isso é um alívio, mas..."[lr]::
 26168::$$$message_0224_0084_0001$$$::Na última vez, ela estava em plenas condições e contava com um Mestre capaz, mas desta vez já foi ferida duas vezes.::
-26169::$$$message_0224_0085_0000$$$::Tudo porque ela não consegue repor sua Energia Mágica. Isso significa que terá de pensar constantemente na Energia Mágica que ainda lhe resta enquanto luta.[lr]::
+26169::$$$message_0224_0085_0000$$$::Tudo porque ela não consegue repor sua Energia Mágica. Isso significa que terá de pénsar constantemente na Energia Mágica que ainda lhe resta enquanto luta.[lr]::
 26170::$$$message_0224_0085_0001$$$::E, por precisar lutar com todas essas restrições, na última batalha...[lr]::
 26171::$$$message_0224_0085_0002$$$::...ela acabou coberta pelo próprio sangue.::
 26172::$$$message_0224_0086_0000$$$::[font italic=true]...[font italic=false][lr]::
@@ -233,7 +233,7 @@ id=qid::label=str::text=lstr::
 26183::$$$message_0224_0090_0001$$$::"Desde que os ferimentos não sejam fatais. Se eu morrer, não poderei proteger meu Mestre."[lr]::
 26184::$$$message_0224_0090_0002$$$::"Que lógica é essa? Então você não se importa em se ferir, desde que proteja seu Mestre?"::
 26185::$$$message_0224_0091_0000$$$::"Esse é o papel de um Servo.[lr]::
-26186::$$$message_0224_0091_0001$$$::Nisso, Rin está absolutamente correta. Não há motivo para tratar Servos como humanos. Somos ferramentas usadas para proteger nosso Mestre, e isso é algo que você precisa entender."::
+26186::$$$message_0224_0091_0001$$$::Nisso, Rin está absolutamente correta. Não há motivo para tratar Servos como humanos. Somos ferramentas usadas para proteger nosso Mestre, é isso é algo que você precisa entender."::
 26187::$$$message_0224_0092_0000$$$::Depois de dizer o que queria, Saber caminha até a porta deslizante.[lr]::
 26188::$$$message_0224_0092_0001$$$::Do outro lado da porta há um quarto lateral.[lr]::
 26189::$$$message_0224_0092_0002$$$::Meu quarto sempre foi grande o suficiente para mim, então nunca usei aquele cômodo.::
@@ -244,4 +244,3 @@ id=qid::label=str::text=lstr::
 26194::$$$message_0224_0095_0000$$$::"Que lógica é essa?"[lr]::
 26195::$$$message_0224_0095_0001$$$::Isso me deixa furioso.[lr]::
 26196::$$$message_0224_0095_0002$$$::Mas não posso dizer isso em voz alta, então apenas absorvo as palavras da Saber e fico ali, sozinho, perplexo.::
-

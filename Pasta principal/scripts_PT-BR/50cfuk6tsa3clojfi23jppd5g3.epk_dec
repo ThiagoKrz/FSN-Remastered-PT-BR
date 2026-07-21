@@ -1,46 +1,46 @@
 DAT
 id=qid::label=str::text=lstr::
-40660::$$$message_0353_0000_0000$$$::"[line8]"[lr]::
-40661::$$$message_0353_0000_0001$$$::Nós não podemos enfrentá-los sozinhos.[lr]::
-40662::$$$message_0353_0000_0002$$$::Eles são três inimigos.[lr]::
-40663::$$$message_0353_0000_0003$$$::Portanto, nós precisamos de pelo menos mais um do nosso lado.::
-40664::$$$message_0353_0001_0000$$$::...Então nós não temos muitas opções.[lr]::
-40665::$$$message_0353_0001_0001$$$::Pessoas que são magos e possuem um motivo para lutar contra a Caster.[lr]::
-40666::$$$message_0353_0001_0002$$$::Esses são os outros Mestres.::
-40667::$$$message_0353_0002_0000$$$::"[line3]Tohsaka, prometa que não vai ficar brava e me escute. Bem, você acha que seria possível a gente cooperar com os outros Mestres?"::
-40668::$$$message_0353_0003_0000$$$::"......Tudo bem, mas por que está dizendo isso? Você deve ter um plano."[lr]::
-40669::$$$message_0353_0003_0001$$$::"Bem, eu não tenho um plano nem nada, mas os outros Mestres não podem simplesmente ignorar a Caster, não é?[lr]::
-40670::$$$message_0353_0003_0002$$$::Então eu pensei que a gente poderia cooperar com eles só para derrotar a Caster."::
-40671::$$$message_0353_0004_0000$$$::"...Sim. Na verdade, eu estava pensando na mesma coisa. Eu não disse nada porque achei que você seria contra."::
-40672::$$$message_0353_0005_0000$$$::Ela diz isso sem estar muito animada.[lr]::
-40673::$$$message_0353_0005_0001$$$::Provavelmente a Tohsaka não gosta da ideia de cooperar com os outros Mestres, mas ela sabe que nós não temos outra opção.::
-40674::$$$message_0353_0006_0000$$$::"Bem, nesse momento há dois Mestres restando. O Mestre do Lancer e a Mestra do Berserker.[lr]::
-40675::$$$message_0353_0006_0001$$$::Nós não temos como negociar com o Mestre do Lancer, pois a sua identidade é um mistério. Porém, nós temos uma chance de convencer a Mestra do Berserker, Illyasviel."::
-40676::$$$message_0353_0007_0000$$$::a Mestra do Berserker.[lr]::
-40677::$$$message_0353_0007_0001$$$::A menina branca e o seu gigante de pedra que eu conheci na noite em que tudo começou.[lr]::
-40678::$$$message_0353_0007_0002$$$::Ela parecia ser perigosa, mas não acho que seja uma pessoa má.::
-40679::$$$message_0353_0008_0000$$$::"...Tem razão. Acho que ela iria pelo menos ouvir a nossa proposta. Ela também não pediria muita coisa em troca."::
-40680::$$$message_0353_0009_0000$$$::"[line3]Seu idiota. Ela é a pessoa mais perigosa de todas para você.[lr]::
-40681::$$$message_0353_0009_0001$$$::Naquele dia, ela ficou o tempo todo olhando para você, Shirou. Eu não sei o que ela é capaz de fazer contigo."::
-40682::$$$message_0353_0010_0000$$$::"C-Como assim? Nós só nos encontramos uma vez, então isso não pode ser verdade. Não tente me assustar desse jeito, Tohsaka."::
-40683::$$$message_0353_0011_0000$$$::"......Humph. Se isso acontecer, nós vamos interromper a negociação imediatamente, seu idiota."[lr]::
+40660::$$$message_0353_0000_0000$$$::[font italic=true]...[font italic=false][lr]::
+40661::$$$message_0353_0000_0001$$$::Eles não são inimigos que possamos enfrentar sozinhos.[lr]::
+40662::$$$message_0353_0000_0002$$$::São três inimigos.[lr]::
+40663::$$$message_0353_0000_0003$$$::Então precisamos de pélo menos mais uma pessoa cooperando com a gente.::
+40664::$$$message_0353_0001_0000$$$::...Nesse caso, nossas opções são poucas.[lr]::
+40665::$$$message_0353_0001_0001$$$::Pessoas que também sejam magos e tenham um motivo para lutar contra a Caster.[lr]::
+40666::$$$message_0353_0001_0002$$$::Em outras palavras, outro Mestre.::
+40667::$$$message_0353_0002_0000$$$::"...Tohsaka, não fica brava e me escuta. Ahn... você acha que dá pra cooperar com os outros Mestres?"::
+40668::$$$message_0353_0003_0000$$$::"...Tudo bem, mas o que você pretende com isso? Você só diria uma coisa dessas se já tivesse algum plano, não é?"[lr]::
+40669::$$$message_0353_0003_0001$$$::"Bem, na verdade não, mas... Os outros Mestres também não podem simplesmente ignorar o que a Caster virou, certo?[lr]::
+40670::$$$message_0353_0003_0002$$$::Então pensei que talvez a gente pudesse unir forças com eles só desta vez."::
+40671::$$$message_0353_0004_0000$$$::"...Sim. Na verdade, eu estava pensando a mesma coisa. Só fiquei quieta porque achei que você seria contra."::
+40672::$$$message_0353_0005_0000$$$::Ela diz isso com relutância.[lr]::
+40673::$$$message_0353_0005_0001$$$::No fundo, Tohsaka deve detestar a ideia, mas também sabe que é a única opção que nos resta.::
+40674::$$$message_0353_0006_0000$$$::"Sim. Ainda restam dois Mestres... o Mestre do Lancer e a Mestra do Berserker.[lr]::
+40675::$$$message_0353_0006_0001$$$::A identidade do Mestre do Lancer continua sendo um mistério, então não tem como negociar com ele. Mas talvez a gente tenha uma chance com a Mestra do Berserker, Illyasviel."::
+40676::$$$message_0353_0007_0000$$$::A Mestra do Berserker.[lr]::
+40677::$$$message_0353_0007_0001$$$::A garota de branco e o gigante rochoso que encontrei na primeira noite.[lr]::
+40678::$$$message_0353_0007_0002$$$::As ações dela foram perigosas, mas não acho que ela seja cruel.::
+40679::$$$message_0353_0008_0000$$$::"...É. Aquela garota talvez ao menos nos ouça. Ela também não parece o tipo que exigiria condições absurdas em troca."::
+40680::$$$message_0353_0009_0000$$$::"...Idiota. Ela é a mais perigosa de todas pra você.[lr]::
+40681::$$$message_0353_0009_0001$$$::Desde o começo, ela só ficou olhando pra você. Tirando a minha parte da história, eu não faço ideia do que ela faria com você."::
+40682::$$$message_0353_0010_0000$$$::"Q-Como assim? Eu só encontrei aquela garota uma vez, então isso não faz sentido. N-Não me assusta desse jeito, Tohsaka."::
+40683::$$$message_0353_0011_0000$$$::"...Hmph. Se isso acontecer, é claro que a gente interrompe a negociação na hora, seu idiota."[lr]::
 40684::$$$message_0353_0011_0001$$$::E então...[lr]::
-40685::$$$message_0353_0011_0002$$$::A Tohsaka desvia o olhar e toma o seu chá.::
-40686::$$$message_0353_0012_0000$$$::"...Mas no momento, a nossa única opção é apostar na Illyasviel. Se o Archer estiver certo sobre a identidade da Caster, o Berserker seria o inimigo natural dela.[lr]::
-40687::$$$message_0353_0012_0001$$$::Os dois se conheceram quando ainda estavam vivos, então ele já deve conhecer os truques da Caster. O Berserker poderia dar conta da Caster e do Archer sozinho. Enquanto isso, nós poderíamos tomar conta do Kuzuki."::
-40688::$$$message_0353_0013_0000$$$::"Esse é um pensamento bem otimista. Tohsaka, tem certeza de que o Berserker conhece a Caster?"::
-40689::$$$message_0353_0014_0000$$$::"Sim. O Archer me contou que o nome verdadeiro do Berserker é Hércules.[lr]::
-40690::$$$message_0353_0014_0001$$$::Se a Caster for mesmo aquela bruxa, o Berserker pode tê-la conhecido durante a Expedição de Argo.[lr]::
-40691::$$$message_0353_0014_0002$$$::É da mesma forma que eu não consigo me dar bem com o Kirei. Todo mundo tem o seu inimigo natural."::
-40692::$$$message_0353_0015_0000$$$::...Está bem.[lr]::
-40693::$$$message_0353_0015_0001$$$::Mas nesse caso, eu tenho certeza de que ninguém gosta daquele padre.::
-40694::$$$message_0353_0016_0000$$$::"[line3]Então está decidido.[lr]::
-40695::$$$message_0353_0016_0001$$$::Agora, como vamos fazer para encontrá-la? Ela não apareceu desde ontem à noite. Era para nós conseguirmos encontrá-la por conta da sua grande quantidade de energia mágica, não é?[lr]::
-40696::$$$message_0353_0016_0002$$$::Mas mesmo assim, nós não sabemos onde ela está. Será que ela não está nessa cidade?"::
-40697::$$$message_0353_0017_0000$$$::"Pois é. A Illyasviel deve estar se divertindo enquanto assiste à Guerra do Santo Graal de um lugar distante."[lr]::
-40698::$$$message_0353_0017_0001$$$::"...Um lugar distante? Ela está vigiando a cidade como a Caster fazia no Templo Ryuudou?"::
-40699::$$$message_0353_0018_0000$$$::"Eu não sei. Mas tenho uma ideia de onde ela possa estar.[lr]::
-40700::$$$message_0353_0018_0001$$$::...Meu pai me disse uma vez que a família Einzbern possui um vilarejo dentro da floresta que fica nos arredores da cidade."::
-40701::$$$message_0353_0019_0000$$$::Ela diz isso com uma voz tensa.[lr]::
-40702::$$$message_0353_0019_0001$$$::[line3]Um vilarejo dentro da floresta...[lr]::
-40703::$$$message_0353_0019_0002$$$::O rosto da Tohsaka me faz perceber o quanto esse lugar é perigoso.::
+40685::$$$message_0353_0011_0002$$$::Ela desvia o olhar e vira o chá de uma vez.::
+40686::$$$message_0353_0012_0000$$$::"...Mas, por enquanto, nossa única opção é apostar na Illyasviel. Se a identidade da Caster for mesmo a que Archer disse, Berserker sem dúvida seria um inimigo natural dela.[lr]::
+40687::$$$message_0353_0012_0001$$$::Eles se conheceram em vida, então ele deve conhecer os truques da Caster. Berserker pode dar conta da Caster e do Archer, mesmo que os dois venham juntos. Nesse meio-tempo, nós só precisamos capturar Kuzuki."::
+40688::$$$message_0353_0013_0000$$$::"Isso é otimista, mas... Tohsaka, Caster e Berserker realmente se conhecem?"::
+40689::$$$message_0353_0014_0000$$$::"Sim. Archer me contou que a verdadeira identidade de Berserker é Héracles.[lr]::
+40690::$$$message_0353_0014_0001$$$::Se Caster for mesmo aquela bruxa extraordinária, então eles talvez tenham se conhecido na Expedição de Argo.[lr]::
+40691::$$$message_0353_0014_0002$$$::É a mesma coisa entre mim e Kirei. Sempre existem pessoas com quem você simplesmente não se dá bem."::
+40692::$$$message_0353_0015_0000$$$::Hã.[lr]::
+40693::$$$message_0353_0015_0001$$$::Mas, Tohsaka, qualquer um detestaria aquele padre.::
+40694::$$$message_0353_0016_0000$$$::"...Então está decidido.[lr]::
+40695::$$$message_0353_0016_0001$$$::Mas como vamos encontrá-la? Ela não deu mais as caras e, com tanta energia mágica, era pra gente conseguir achá-la em qualquer esconderijo, não?[lr]::
+40696::$$$message_0353_0016_0002$$$::Mesmo assim, não a achamos. Isso não quer dizer que ela nem esteja nesta cidade?"::
+40697::$$$message_0353_0017_0000$$$::"Provavelmente não. Illyasviel deve estar se divertindo enquanto assiste à Guerra do Santo Graal de longe."[lr]::
+40698::$$$message_0353_0017_0001$$$::"...De longe...? Ela está observando a cidade como a Caster faz do Templo Ryuudou?"::
+40699::$$$message_0353_0018_0000$$$::"Não sei. Mas tenho uma ideia de onde ela pode estar.[lr]::
+40700::$$$message_0353_0018_0001$$$::...Meu pai me disse uma vez que a família Einzbern tem uma mansão na floresta, nós arredores da cidade."::
+40701::$$$message_0353_0019_0000$$$::Ela diz isso com a voz tensa.[lr]::
+40702::$$$message_0353_0019_0001$$$::Uma mansão na floresta, nós arredores...[lr]::
+40703::$$$message_0353_0019_0002$$$::Só pela maneira como Tohsaka fala, já dá para sentir o quão perigoso é aquele lugar.::

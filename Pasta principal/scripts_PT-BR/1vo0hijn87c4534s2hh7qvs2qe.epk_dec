@@ -32,7 +32,7 @@ id=qid::label=str::text=lstr::
 25736::$$$message_0222_0007_0000$$$::Afinal, quase fui morto [font italic=true]três[font italic=false] vezes em um único dia.[lr]::
 25737::$$$message_0222_0007_0001$$$::É óbvio que alguém sem poder vai acabar se ferindo se entrar numa batalha dessas.[lr]::
 25738::$$$message_0222_0007_0002$$$::Minha própria falta de capacidade quase me custou o corpo.[lr]::
-25739::$$$message_0222_0007_0003$$$::E aquela garota acabou se ferindo para me proteger.::
+25739::$$$message_0222_0007_0003$$$::Então aquela garota acabou se ferindo para me proteger.::
 25740::$$$message_0222_0008_0000$$$::[font italic=true]Ugh![font italic=false][lr]::
 25741::$$$message_0222_0008_0001$$$::Forço meu corpo para me sentar de novo.::
 25742::$$$message_0222_0009_0000$$$::"Claro... ela...!"[lr]::
@@ -40,7 +40,7 @@ id=qid::label=str::text=lstr::
 25744::$$$message_0222_0009_0002$$$::A presença da Tohsaka na sala tinha apagado isso completamente da minha cabeça.[lr]::
 25745::$$$message_0222_0009_0003$$$::Não... talvez eu só estivesse evitando pensar nela.[lr]::
 25746::$$$message_0222_0009_0004$$$::   Eu sou um covarde.[lr]::
-25747::$$$message_0222_0009_0005$$$::Estava evitando pensar na garota que ficou ali sangrando miseravelmente...[lr]::
+25747::$$$message_0222_0009_0005$$$::Estava evitando pensar na garota que ficou ali sangrando miserávelmente...[lr]::
 25748::$$$message_0222_0009_0006$$$::...mesmo sabendo que foi por minha causa que ela se machucou.::
 25749::$$$message_0222_0010_0000$$$::"Não acredito que a Tohsaka deixou de fora a parte mais importante...!"[lr]::
 25750::$$$message_0222_0010_0001$$$::Eu me ponho de pé à força.[lr]::
@@ -72,7 +72,7 @@ id=qid::label=str::text=lstr::
 25776::$$$message_0222_0018_0002$$$::Então é pouco provável que tenha saído da propriedade.::
 25777::$$$message_0222_0019_0000$$$::"Espera... talvez..."[lr]::
 25778::$$$message_0222_0019_0001$$$::De repente, me lembro de outro lugar.[lr]::
-25779::$$$message_0222_0019_0002$$$::Se ela não está na casa, nem no quintal, nem no galpão onde nos encontramos pela primeira vez...[lr]::
+25779::$$$message_0222_0019_0002$$$::Se ela não está na casa, nem no quintal, nem no galpão onde nós encontramos pela primeira vez...[lr]::
 25780::$$$message_0222_0019_0003$$$::...então ainda resta outro prédio grande dentro da propriedade.::
 25781::$$$message_0222_0020_0000$$$::"É lá que ela deve estar."[lr]::
 25782::$$$message_0222_0020_0001$$$::Apresso o passo o máximo que posso.[lr]::
@@ -85,7 +85,7 @@ id=qid::label=str::text=lstr::
 25789::$$$message_0222_0022_0002$$$::Eu não faço ideia de quem ela é, mas, mesmo assim, quero que ela esteja aqui.::
 25790::$$$message_0222_0023_0000$$$::Entro numa sala fechada, sem qualquer ornamentação.[lr]::
 25791::$$$message_0222_0023_0001$$$::Não é um cômodo para morar, e sim um dojô feito unicamente para o treinamento.[lr]::
-25792::$$$message_0222_0023_0002$$$::No interior daquela sala tranquila, iluminada pela luz do sol...::
+25792::$$$message_0222_0023_0002$$$::o interior daquela sala tranquila, iluminada pela luz do sol...::
 25793::$$$message_0222_0024_0000$$$::...ela está sentada ali, como se sempre tivesse pertencido àquele lugar.::
 25794::$$$message_0222_0025_0000$$$::[font italic=true]...[font italic=false][lr]::
 25795::$$$message_0222_0025_0001$$$::O lugar está em absoluto silêncio, sereno.[lr]::
@@ -133,7 +133,7 @@ id=qid::label=str::text=lstr::
 25837::$$$message_0222_0040_0001$$$::Assim que nossos olhares se encontram, sinto meu nervosismo aumentar.[lr]::
 25838::$$$message_0222_0040_0002$$$::Mas eu não procurei por ela pela casa toda só para ficar calado.[lr]::
 25839::$$$message_0222_0040_0003$$$::É desconfortável, mas não posso deixar isso continuar estranho para sempre.::
-25840::$$$message_0222_0041_0000$$$::"Saber... certo? Acho que esta é a primeira vez que a gente senta para conversar assim..."[lr]::
+25840::$$$message_0222_0041_0000$$$::"Saber... certo? Acho que está é a primeira vez que a gente senta para conversar assim..."[lr]::
 25841::$$$message_0222_0041_0001$$$::Tomo coragem.[lr]::
 25842::$$$message_0222_0041_0002$$$::Mas então...::
 25843::$$$message_0222_0042_0000$$$::"Shirou. Antes disso, há algo que preciso dizer sobre a noite passada."[lr]::
@@ -163,7 +163,7 @@ id=qid::label=str::text=lstr::
 25867::$$$message_0222_0051_0000$$$::"Voltando ao assunto, Saber. Ah, hum... eu [font italic=true]posso[font italic=false] te chamar de Saber, certo?"::
 25868::$$$message_0222_0052_0000$$$::"Sim. Como uma Serva que firmou contrato com você, eu sou sua espada. Seguirei suas ordens, atacarei seus inimigos e protegerei você."::
 25869::$$$message_0222_0053_0000$$$::Saber responde sem a menor hesitação.[lr]::
-25870::$$$message_0222_0053_0001$$$::Seu tom não deixa espaço para qualquer dúvida.::
+25870::$$$message_0222_0053_0001$$$::Seu tom não deixa espação para qualquer dúvida.::
 25871::$$$message_0222_0054_0000$$$::"Sua espada, huh? Para vencer essa tal Guerra do Santo Graal?"[lr]::
 25872::$$$message_0222_0054_0001$$$::"Não foi para isso que você me invocou?"[lr]::
 25873::$$$message_0222_0054_0002$$$::"Não. Eu acabei te invocando porque[line2]"::
@@ -197,7 +197,7 @@ id=qid::label=str::text=lstr::
 25901::$$$message_0222_0063_0000$$$::[font italic=true]...[font italic=false][lr]::
 25902::$$$message_0222_0063_0001$$$::Ela tem razão.[lr]::
 25903::$$$message_0222_0063_0002$$$::Essa é justamente a razão de a Saber ser minha Serva.[lr]::
-25904::$$$message_0222_0063_0003$$$::Se é assim, então o mínimo que posso fazer é respeitar, o melhor que puder, as decisões e necessidades dela.::
+25904::$$$message_0222_0063_0003$$$::Se é assim, então o mínimo que posso fazer é respeitar, Não melhor que puder, as decisões e necessidades dela.::
 25905::$$$message_0222_0064_0000$$$::"Entendi. Então você aceita que eu seja seu Mestre."[lr]::
 25906::$$$message_0222_0064_0001$$$::"Sim. Mas também quero que saiba que não permitirei que meu Mestre seja derrotado.[lr]::
 25907::$$$message_0222_0064_0002$$$::Se você não tiver chance de vencer, então eu criarei uma.[lr]::
@@ -219,12 +219,12 @@ id=qid::label=str::text=lstr::
 25923::$$$message_0222_0070_0001$$$::Ao mesmo tempo, sinto um enorme alívio tomando conta de mim.[lr]::
 25924::$$$message_0222_0070_0002$$$::Por causa da força absurda dela e da falta de hesitação em combate, eu tinha acabado vendo a Saber quase como uma máquina de guerra. Mas agora sei que ela não é uma assassina fria.::
 25925::$$$message_0222_0071_0000$$$::"...É. Eu nunca faria você fazer uma coisa dessas.[lr]::
-25926::$$$message_0222_0071_0001$$$::Como você disse, a gente só pode dar o melhor dentro do que está ao nosso alcance. ...Desculpa mesmo. O que eu disse deve ter soado como um insulto."::
+25926::$$$message_0222_0071_0001$$$::Como você disse, a gente só pode dar Não melhor dentro do que está ao nosso alcance. ...Desculpa mesmo. O que eu disse deve ter soado como um insulto."::
 25927::$$$message_0222_0072_0000$$$::"Ah... não. Eu também não compreendi suas intenções e tirei conclusões precipitadas. Você não tem culpa, então... poderia, por favor, levantar a cabeça?"::
 25928::$$$message_0222_0073_0000$$$::"Hã? Ah... eu acabei me curvando sem perceber."[lr]::
 25929::$$$message_0222_0073_0001$$$::Ergo a cabeça.[lr]::
 25930::$$$message_0222_0073_0002$$$::[font italic=true]...[font italic=false][lr]::
-25931::$$$message_0222_0073_0003$$$::Não sei exatamente o que houve, mas Saber está com um pequeno sorriso nos lábios.::
+25931::$$$message_0222_0073_0003$$$::Não sei exatamente o que houve, mas Saber está com um pequeno sorriso nós lábios.::
 25932::$$$message_0222_0074_0000$$$::"Hm?"[lr]::
 25933::$$$message_0222_0074_0001$$$::Fico feliz só por vê-la assim, então decido não insistir.::
 25934::$$$message_0222_0075_0000$$$::"Ah, quase me esqueci de mencionar isso.[lr]::
@@ -233,4 +233,3 @@ id=qid::label=str::text=lstr::
 25937::$$$message_0222_0077_0000$$$::...Que alívio.[lr]::
 25938::$$$message_0222_0077_0001$$$::Se a Saber concorda, então posso cooperar com a Tohsaka sem hesitação.[lr]::
 25939::$$$message_0222_0077_0002$$$::Agora, só resta mais uma coisa que eu realmente preciso perguntar a ela...[lr]::
-

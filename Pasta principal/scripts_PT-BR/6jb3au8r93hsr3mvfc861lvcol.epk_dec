@@ -9,7 +9,7 @@ id=qid::label=str::text=lstr::
 21788::$$$message_0196_0001_0003$$$::Eu sabia que isso iria acontecer.[lr]::
 21789::$$$message_0196_0001_0004$$$::Mesmo sabendo que a Saber não podia derrotar o Gilgamesh... então por que não a impedi de enfrentá-lo, mesmo se tivesse que usar o meu Selo de Comando?::
 21790::$$$message_0196_0002_0000$$$::"Mas que sem graça. Foi uma vitória completa, hein?[lr]::
-21791::$$$message_0196_0002_0001$$$::Nem conseguiu sequer anular meu golpe, que decepção, Saber.. Ah, já entendi. Eu deveria ter pego leve contigo. afinal, era só uma mulher... e uma criança!"[lr]::
+21791::$$$message_0196_0002_0001$$$::Nem conseguiu sequer anular meu golpe, que decepção, Saber... Ah, já entendi. Eu deveria ter pego leve contigo. Afinal, era só uma mulher!"[lr]::
 21792::$$$message_0196_0002_0002$$$::Essa risada irritante dele.[lr]::
 21793::$$$message_0196_0002_0003$$$::A culpa disso é minha.::
 21794::$$$message_0196_0003_0000$$$::...Eu achei que ela pudesse vencer.[lr]::
@@ -35,7 +35,7 @@ id=qid::label=str::text=lstr::
 21814::$$$message_0196_0011_0001$$$::Mas eu não consigo dizer que vou ajudá-lá.[lr]::
 21815::$$$message_0196_0011_0002$$$::Eu também estou caído no chão, e só um dos meus braços ainda se move.[lr]::
 21816::$$$message_0196_0011_0003$$$::Nem ao menos consigo encontrar palavras para tranquilizá-la.[lr]::
-21817::$$$message_0196_0011_0004$$$::...Ou será que ela nem consegue ver o quão patético eu estou??::
+21817::$$$message_0196_0011_0004$$$::Ao menos ela não consegue me ver neste estado patético.::
 21818::$$$message_0196_0012_0000$$$::"...Ah, entendi. Eu fui derrotada..."[lr]::
 21819::$$$message_0196_0012_0001$$$::Ela murmura isso num fio de voz, olhando para mim com olhos sem luz.[lr]::
 21820::$$$message_0196_0012_0002$$$::"[line2]Me perdoe... por favor, fuja daqui, Mestre..."[lr]::
@@ -43,8 +43,8 @@ id=qid::label=str::text=lstr::
 21822::$$$message_0196_0013_0000$$$::"[line5]"[lr]::
 21823::$$$message_0196_0013_0001$$$::A minha visão fica vermelha de raiva.[lr]::
 21824::$$$message_0196_0013_0002$$$::Eu fiquei dependendo da Saber sem perceber, e esse foi o resultado?[lr]::
-21825::$$$message_0196_0013_0003$$$:::Levei um golpe de surpresa e nem sequer consigo me levantar?[lr]::
-21826::$$$message_0196_0013_0004$$$::[line2]Com o único braço que ainda obedece, agarro a própria cabeça..[lr]::
+21825::$$$message_0196_0013_0003$$$::Levei um golpe de surpresa e nem sequer consigo me levantar?[lr]::
+21826::$$$message_0196_0013_0004$$$::[line2]Com o único braço que ainda obedece, agarro a própria cabeça.[lr]::
 21827::$$$message_0196_0013_0005$$$::Eu estou com vontade de me matar.[lr]::
 21828::$$$message_0196_0013_0006$$$::Então eu coloco força na minha mão para tentar esmagar a minha própria cabeça.::
 21829::$$$message_0196_0014_0000$$$::O gatilho desce.[lr]::
@@ -69,7 +69,7 @@ id=qid::label=str::text=lstr::
 21848::$$$message_0196_0018_0004$$$::Se eu conseguir ficar consciente em troca de só fazer um furo na minha língua, então tudo bem.::
 21849::$$$message_0196_0019_0000$$$::"[line2]O quê?"[lr]::
 21850::$$$message_0196_0019_0001$$$::Os passos param...[lr]::
-21851::$$$message_0196_0019_0002$$$::E a risada dele cessa junto.::
+21851::$$$message_0196_0019_0002$$$::A risada divertida de Gilgamesh cessa junto.::
 21852::$$$message_0196_0020_0000$$$::"Quê[line2]Shirou...?[lr]::
 21853::$$$message_0196_0020_0001$$$::O-O que você está fazendo...!? Se você fizer isso, o seu corpo vai...!"[lr]::
 21854::$$$message_0196_0020_0002$$$::Mesmo sem conseguir me ver, ela deve ter percebido o que eu estou fazendo.[lr]::
@@ -81,7 +81,7 @@ id=qid::label=str::text=lstr::
 21860::$$$message_0196_0022_0000$$$::Mas eu não me importo.[lr]::
 21861::$$$message_0196_0022_0001$$$::É melhor do que ver a Saber daquele jeito.[lr]::
 21862::$$$message_0196_0022_0002$$$::...Isso mesmo.[lr]::
-21863::$$$message_0196_0022_0003$$$:::Com a mente a beira de se apagar, eu finalmente entendo.[lr]::
+21863::$$$message_0196_0022_0003$$$:::Com a mente à beira de se apagar, eu finalmente entendo.[lr]::
 21864::$$$message_0196_0022_0004$$$::Desde o começo.[lr]::
 21865::$$$message_0196_0022_0005$$$::Eu prometi lutar porque não queria vê-la se machucar.::
 21866::$$$message_0196_0023_0000$$$::"Quê[line2]Eu já te disse para fugir, então por quê...!?"::
@@ -116,26 +116,26 @@ id=qid::label=str::text=lstr::
 21895::$$$message_0196_0032_0000$$$::"[line2]!!"[lr]::
 21896::$$$message_0196_0032_0001$$$::Mas eu não sou rápido o suficiente.[lr]::
 21897::$$$message_0196_0032_0002$$$::Se o primeiro ataque foi como uma brisa inesperada, então a próxima sequência de ataques é como uma rajada de vento.[lr]::
-21898::$$$message_0196_0032_0003$$$::"Ha[line2]kuh, guh...!"[lr]::
+21898::$$$message_0196_0032_0003$$$::"Há[line2]kuh, guh...!"[lr]::
 21899::$$$message_0196_0032_0004$$$::Só consigo ficar desviando os ataques dele com a minha espada.[lr]::
 21900::$$$message_0196_0032_0005$$$::Na verdade... sozinho, eu nem teria bloqueado o primeiro golpe.::
 21901::$$$message_0196_0033_0000$$$::A espada, junto com sua forma, também reproduziu suas memórias.[lr]::
-21902::$$$message_0196_0033_0001$$$::ma lâmina que atravessou incontáveis batalhas carrega vontade e experiência.[lr]::
+21902::$$$message_0196_0033_0001$$$::má lâmina que atravessou incontáveis batalhas carrega vontade e experiência.[lr]::
 21903::$$$message_0196_0033_0002$$$::Essa espada já deve estar acostumada com ataques como esses.[lr]::
 21904::$$$message_0196_0033_0003$$$::Eu não consigo reagir aos ataques do Gilgamesh, mas essa espada consegue.::
 21905::$$$message_0196_0034_0000$$$::Ou seja, essa espada reage sozinha aos ataques antes mesmo das minhas próprias mãos.[lr]::
 21906::$$$message_0196_0034_0001$$$::Eu só tenho que balançar os meus braços para seguir o ritmo da espada, e com isso acabo conseguindo bloquear os ataques dele.::
-21907::$$$message_0196_0035_0000$$$::"Ha[line2]Haa, guh[line2]!"[lr]::
+21907::$$$message_0196_0035_0000$$$::"Há[line2]Haa, guh[line2]!"[lr]::
 21908::$$$message_0196_0035_0001$$$::Mas isso não vai durar por muito tempo.[lr]::
 21909::$$$message_0196_0035_0002$$$::A cada golpe, meus dedos ficam dormentes... e está ficando cada vez mais difícil de acompanhar o ritmo da espada.::
 21910::$$$message_0196_0036_0000$$$::"[line2]Seu vira-lata. Você é mais do que desagradável para a minha vista."[lr]::
 21911::$$$message_0196_0036_0001$$$::Ele deve estar odiando a resistência que eu estou fazendo.[lr]::
 21912::$$$message_0196_0036_0002$$$::Gilgamesh me encara com desprezo e recua pouco.::
-21913::$$$message_0196_0037_0000$$$::"Ah... haa, haa, ha[line2]"[lr]::
+21913::$$$message_0196_0037_0000$$$::"Ah... haa, haa, há[line2]"[lr]::
 21914::$$$message_0196_0037_0001$$$::...Ainda bem.[lr]::
 21915::$$$message_0196_0037_0002$$$::Se ele não tivesse parado de me atacar, eu só teria durado por mais alguns segundos.[lr]::
 21916::$$$message_0196_0037_0003$$$::Respiro fundo para tentar controlar a minha respiração.[lr]::
-21917::$$$message_0196_0037_0004$$$::[line2]E então.::
+21917::$$$message_0196_0037_0004$$$::[line2]é então.::
 21918::$$$message_0196_0038_0000$$$::"Seu imitador nojento. Já que gosta tanto disso, vou te mostrar o original."[lr]::
 21919::$$$message_0196_0038_0001$$$::Ele saca uma espada.::
 21920::$$$message_0196_0039_0000$$$::"Quê[line2]"[lr]::
@@ -157,7 +157,7 @@ id=qid::label=str::text=lstr::
 21936::$$$message_0196_0045_0000$$$::Ouço o barulho de alguma coisa deslizando pelo chão.[lr]::
 21937::$$$message_0196_0045_0001$$$::Deslizando.[lr]::
 21938::$$$message_0196_0045_0002$$$::Será que o chão do parque parece estar escorregadio por causa do nível dessa batalha?[lr]::
-21939::$$$message_0196_0045_0003$$$::Deslizo pelo chão como um pedaço de lixo levado pelo vento... até finalmente parar.::
+21939::$$$message_0196_0045_0003$$$::Deslizo pelo chão como um pedação de lixo levado pelo vento... até finalmente parar.::
 21940::$$$message_0196_0046_0000$$$::"Shirou[line2]Shirou, Shirou...!!!!"[lr]::
 21941::$$$message_0196_0046_0001$$$::Essa voz me faz perceber que eu ainda estou vivo.::
 21942::$$$message_0196_0047_0000$$$::"Ah. Saber, você está bem do meu lado."[lr]::
@@ -178,7 +178,7 @@ id=qid::label=str::text=lstr::
 21957::$$$message_0196_0051_0000$$$::Eu só consigo mexer a minha mão direita.[lr]::
 21958::$$$message_0196_0051_0001$$$::A minha mão esquerda não se mexe.[lr]::
 21959::$$$message_0196_0051_0002$$$::Na verdade... nem sei em que estado ela está.::
-21960::$$$message_0196_0052_0000$$$::"[line5]Ha."[lr]::
+21960::$$$message_0196_0052_0000$$$::"[line5]Há."[lr]::
 21961::$$$message_0196_0052_0001$$$::Nem consigo respirar direito.[lr]::
 21962::$$$message_0196_0052_0002$$$::Do meu ombro esquerdo para baixo, de forma diagonal...[lr]::
 21963::$$$message_0196_0052_0003$$$::Foi completamento cortado. Meu corpo está separado como se fosse uma peça de lego que não se encaixa.::
@@ -189,11 +189,10 @@ id=qid::label=str::text=lstr::
 21968::$$$message_0196_0054_0001$$$::A minha visão está ficando cada vez mais escura, e eu estou quase perdendo a consciência.[lr]::
 21969::$$$message_0196_0054_0002$$$::E ainda por cima, os meus órgãos vão sair do meu corpo se eu me mexer.[lr]::
 21970::$$$message_0196_0054_0003$$$::Talvez eu até já esteja morto e a minha mente está vagando feito um fantasma.::
-21971::$$$message_0196_0055_0000$$$::"Fu, hahahahahahaha! Entendi, eu achei que você ficaria em pedacinhos, mas você é mais resistente do que eu pensava. Então é isso! O melhor que um vira-lata pode fazer é lutar para ficar vivo!"::
+21971::$$$message_0196_0055_0000$$$::"Fu, hahahahahahaha! Entendi, eu achei que você ficaria em pédacinhos, mas você é mais resistente do que eu pensava. Então é isso! O melhor que um vira-lata pode fazer é lutar para ficar vivo!"::
 21972::$$$message_0196_0056_0000$$$::Ele dá uma risada.[lr]::
 21973::$$$message_0196_0056_0001$$$::[line2]Para ser sincero, eu sou grato por isso.[lr]::
 21974::$$$message_0196_0056_0002$$$::Quanto mais ele me irrita, mais a minha mente continua acordada.::
 21975::$$$message_0196_0057_0000$$$::"Mas agora acabou. Você não é digno de um leão. Essa mulher... é minha."[lr]::
 21976::$$$message_0196_0057_0001$$$::O barulho de passos.[lr]::
 21977::$$$message_0196_0057_0002$$$::Esse é o barulho dele andando para levar a Saber de uma vez por todas.::
-

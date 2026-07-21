@@ -1,8 +1,8 @@
 DAT
 id=qid::label=str::text=lstr::
-22187::$$$message_0199_0000_0000$$$::[line2]E assim.[lr]::
+22187::$$$message_0199_0000_0000$$$::[line2]é assim.[lr]::
 22188::$$$message_0199_0000_0001$$$::Quando eu fui ver, já estava de manhã.::
-22189::$$$message_0199_0001_0000$$$::"...Que inútil. No fim, não consegui dormir nem um pouco"[lr]::
+22189::$$$message_0199_0001_0000$$$::"...Que inútil. o fim, não consegui dormir nem um pouco"[lr]::
 22190::$$$message_0199_0001_0001$$$::Solto um suspiro e desligo o despertador.[lr]::
 22191::$$$message_0199_0001_0002$$$::Hoje, não importa o que Saber diga, vamos ter um encontro.[lr]::
 22192::$$$message_0199_0001_0003$$$::Minha prioridade número um é levá-la para alguns lugares que a Saber nunca esteve antes para que ela se divirta.[lr]::
@@ -35,13 +35,13 @@ id=qid::label=str::text=lstr::
 22219::$$$message_0199_0012_0000$$$::"Sobre isso, Saber.[lr]::
 22220::$$$message_0199_0012_0001$$$::Hoje nós vamos até a cidade vizinha. Então se quiser, já pode ir se arrumando."::
 22221::$$$message_0199_0013_0000$$$::"Vamos procurar os Mestres? Nesse caso, acredito que os arredores seriam uma aposta mais segura do que a cidade vizinha[line2]"[lr]::
-22222::$$$message_0199_0013_0001$$$::"Nada disso. Não tem porquê nós passarmos pelos arredores se vamos sair para nos divertir."::
+22222::$$$message_0199_0013_0001$$$::"Nada disso. Não tem porquê nós passarmos pelos arredores se vamos sair para nós divertir."::
 22223::$$$message_0199_0014_0000$$$::"Hã[line2]?"[lr]::
 22224::$$$message_0199_0014_0001$$$::Saber paralisa.[lr]::
-22225::$$$message_0199_0014_0002$$$::...Quanto a pessoa atrás de mim, tentando, e falhando miseravelmente, conter o riso, eu ainda vou me vingar depois.::
+22225::$$$message_0199_0014_0002$$$::...Quanto a pessoa atrás de mim, tentando, e falhando miserávelmente, conter o riso, eu ainda vou me vingar depois.::
 22226::$$$message_0199_0015_0000$$$::"Hum, Shirou... o que exatamente você quer dizer com isso? Sair para se divertir... não seria você com a Rin, mas bem..."[lr]::
 22227::$$$message_0199_0015_0001$$$::"Quem mais iria comigo além de você? A Tohsaka não tem nada a ver com isso, ela vai ficar aqui cuidando da Illya."::
-22228::$$$message_0199_0016_0000$$$::"[line2]Que absurdo. Mesmo se nós procurarmos pela cidade vizinha, não vamos conseguir muita coisa. Isso é perda de tempo. No que você está pensando?"::
+22228::$$$message_0199_0016_0000$$$::"[line2]Que absurdo. Mesmo se nós procurarmos pela cidade vizinha, não vamos conseguir muita coisa. Isso é perda de tempo. o que você está pensando?"::
 22229::$$$message_0199_0017_0000$$$::A Saber reclama diretamente comigo.[lr]::
 22230::$$$message_0199_0017_0001$$$::...É o que eu esperava, mas se ela continuar pensando que nós vamos sair para procurar pelo outro Mestre, isso não vai acabar bem.::
 22231::$$$message_0199_0018_0000$$$::"...Complicado. Você não conseguiu entender até agora, Saber? O que eu quis dizer é que nós vamos ter um encontro."::
@@ -54,7 +54,7 @@ id=qid::label=str::text=lstr::
 22238::$$$message_0199_0020_0002$$$::...Com a Saber, ficar medindo as palavras num assunto desses só piora tudo..[lr]::
 22239::$$$message_0199_0020_0003$$$::Pelo jeito vai ser melhor para nós dois se eu for direto ao ponto.::
 22240::$$$message_0199_0021_0000$$$::"Shirou. Eu vou te obedecer se você quer ir para a cidade, mas por favor me explique sobre o que você está planejando com esse tal de 'encontro'.[lr]::
-22241::$$$message_0199_0021_0001$$$::Mesmo que eu já esteja acostumada com essa era, ainda existem algumas expressões que eu não entendo. Tente não usar palavras muito específicas."::
+22241::$$$message_0199_0021_0001$$$::Mesmo que eu já esteja acostumada com essa era, ainda existem algumas expressões que eu não entendo. Tente não usar palavras muito específicas."[lr]::
 22242::$$$message_0199_0022_0000$$$::"Não é nenhuma palavra específica.[lr]::
 22243::$$$message_0199_0022_0001$$$::Mas eu vou te explicar já que você não está conseguindo entender. 'Ter um encontro' significa sair para se divertir com uma garota."[lr]::
 22244::$$$message_0199_0022_0002$$$::"Hã[line2]?"[lr]::
@@ -76,22 +76,22 @@ id=qid::label=str::text=lstr::
 22260::$$$message_0199_0029_0001$$$::...Mas é melhor não interrompê-la.[lr]::
 22261::$$$message_0199_0029_0002$$$::Porque parece que a Saber finalmente entendeu o que é um encontro.::
 22262::$$$message_0199_0030_0000$$$::"[line2]Isso mesmo, Saber.[lr]::
-22263::$$$message_0199_0030_0001$$$::Hoje ao invés de lutar, nós vamos até a cidade. Afinal, não temos como lutar de dia com tantas pessoas por perto. Essa é o melhor momento para ficarmos à vontade."::
+22263::$$$message_0199_0030_0001$$$::Hoje ao invés de lutar, nós vamos até a cidade. Afinal, não temos como lutar de dia com tantas pessoas por perto. Essa é Não melhor momento para ficarmos à vontade."::
 22264::$$$message_0199_0031_0000$$$::"[line2]Eu sei disso, mas... ainda é uma perda de tempo. Você não vai ganhar nada fazendo isso."::
 22265::$$$message_0199_0032_0000$$$::"Não é bem assim. E, mesmo que fosse, eu não me importaria.[lr]::
 22266::$$$message_0199_0032_0001$$$::Eu já resolvi que vou dedicar esse dia a você, então não precisa se preocupar comigo.[lr]::
 22267::$$$message_0199_0032_0002$$$::Enfim, hoje nós vamos para a cidade. Nada vai me fazer mudar de ideia, Saber."[lr]::
 22268::$$$message_0199_0032_0003$$$::Olho diretamente para a Saber.::
 22269::$$$message_0199_0033_0000$$$::"[line5]"[lr]::
-22270::$$$message_0199_0033_0001$$$::Depois de pensar por um tempo com um rosto sério...[lr]::
+22270::$$$message_0199_0033_0001$$$::Depois de pénsar por um tempo com um rosto sério...[lr]::
 22271::$$$message_0199_0033_0002$$$::"...Então, você vai para a cidade mesmo se eu não for junto?"::
 22272::$$$message_0199_0034_0000$$$::"Sim, eu vou com certeza. Senão, tudo o que eu planejei à noite toda vai ter sido em vão."[lr]::
 22273::$$$message_0199_0034_0001$$$::"...Nesse caso, eu terei que ir com você. Como um Servo, eu não posso deixar que o meu Mestre fique desprotegido."::
-22274::$$$message_0199_0035_0000$$$::Depois de respirar fundo.::
+22274::$$$message_0199_0035_0000$$$::Depois de respirar fundo.[lr]::
 22275::$$$message_0199_0035_0001$$$::A Saber responde do jeito de sempre.::
 22276::$$$message_0199_0036_0000$$$::"[line5]"[lr]::
-22277::$$$message_0199_0036_0001$$$::...Ótimo. Ainda há vários problemas, mas, pelo menos, consegui fazer a Saber sair comigo.::
-22278::$$$message_0199_0036_0002$$$::Mas pelo menos eu consegui chamar a Saber para sair.[lr]::
+22277::$$$message_0199_0036_0001$$$::...Ótimo. Ainda há vários problemas, mas, pelo menos, consegui fazer a Saber sair comigo.[lr]::
+22278::$$$message_0199_0036_0002$$$::Agora, eu só preciso parar de me preocupar com os detalhes e levá-la para algum lugar.::
 22279::$$$message_0199_0037_0000$$$::"Até mais. Tragam alguma lembrança para mim."[lr]::
 22280::$$$message_0199_0037_0001$$$::E, para a Tohsaka, que ficou zombando de mim até o último segundo, faço um gesto que claramente quer dizer "vai para o inferno" antes de sair de casa::
 22281::$$$message_0199_0038_0000$$$::"[line2]Então.[lr]::
@@ -108,7 +108,7 @@ id=qid::label=str::text=lstr::
 22292::$$$message_0199_0042_0003$$$::De qualquer forma, hoje vai ser mais difícil de lidar com a Saber.::
 22293::$$$message_0199_0043_0000$$$::Nós subimos no ônibus.[lr]::
 22294::$$$message_0199_0043_0001$$$::Ele estaria lotado se estivéssemos entrando uma hora atrás, mas agora está quase vazio.[lr]::
-22295::$$$message_0199_0043_0002$$$::Só tem uma senhora idosa e uma criança dentro do ônibus, como se ele também estivesse reservado para nós.::
+22295::$$$message_0199_0043_0002$$$::Só tem uma senhora idosa é uma criança dentro do ônibus, como se ele também estivesse reservado para nós.::
 22296::$$$message_0199_0044_0000$$$::"Saber, vamos sentar no fundo."[lr]::
 22297::$$$message_0199_0044_0001$$$::Chamo a Saber, que estava prestes a sentar bem na frente, e então nós sentamos no final do ônibus.::
 22298::$$$message_0199_0045_0000$$$::"......"[lr]::
@@ -123,7 +123,7 @@ id=qid::label=str::text=lstr::
 22307::$$$message_0199_0048_0002$$$::Droga, eu estou ficando nervoso.::
 22308::$$$message_0199_0049_0000$$$::"[line5]"[lr]::
 22309::$$$message_0199_0049_0001$$$::Respiro fundo, tentando não deixar que a Saber perceba.[lr]::
-22310::$$$message_0199_0049_0002$$$::E eu sei que não deveria fazer isso, mas acabo dando mais uma olhada para ela.::
+22310::$$$message_0199_0049_0002$$$::Eu sei que não deveria fazer isso, mas acabo dando mais uma olhada para ela.::
 22311::$$$message_0199_0050_0000$$$::"[line2]!"[lr]::
 22312::$$$message_0199_0050_0001$$$::O meu coração dispara.[lr]::
 22313::$$$message_0199_0050_0002$$$::...A Saber que está sentada do meu lado é uma Saber que eu não conheço.[lr]::
@@ -147,4 +147,3 @@ id=qid::label=str::text=lstr::
 22331::$$$message_0199_0056_0002$$$::O ônibus atravessa a ponte e vai direção à parte mais desenvolvida da cidade, onde estão os prédios.[lr]::
 22332::$$$message_0199_0056_0003$$$::Respiro fundo e me preparo.[lr]::
 22333::$$$message_0199_0056_0004$$$::O locutor que estou tão acostumado a ouvir anuncia que nós chegamos na próxima parada, a estação de Shinto.::
-

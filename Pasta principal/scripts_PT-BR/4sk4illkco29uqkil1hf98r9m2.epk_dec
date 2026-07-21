@@ -1,245 +1,244 @@
 DAT
 id=qid::label=str::text=lstr::
-71490::$$$message_0658_0000_0000$$$::"[w l=4][line4], [w l=4][line4], [w l=4][line4]"[lr]::
-71491::$$$message_0658_0000_0001$$$::Minha consciência está quebrando em pedaços.[lr]::
-71492::$$$message_0658_0000_0002$$$::Meros cem metros vira algo imensamente vasto.::
-71493::$$$message_0658_0001_0000$$$::"[w l=4][line4], [w l=4][line4], [w l=4][line4]"[lr]::
-71494::$$$message_0658_0001_0001$$$::É apenas uma questão de tempo até a caverna desabar.[lr]::
-71495::$$$message_0658_0001_0002$$$::O teto está desmoronando em vários lugares, e o chão está cheio de pedregulhos.::
-71496::$$$message_0658_0002_0000$$$::"[w l=4][line4], [w l=4][line4], [w l=4][line4]"[lr]::
+71490::$$$message_0658_0000_0000$$$::"[line4], [line4], [line4]"[lr]::
+71491::$$$message_0658_0000_0001$$$::Minha consciência se desconecta.[lr]::
+71492::$$$message_0658_0000_0002$$$::Meros cem metros se tornam uma distância impossível de cruzar.::
+71493::$$$message_0658_0001_0000$$$::"[line4], [line4], [line4]"[lr]::
+71494::$$$message_0658_0001_0001$$$::É só uma questão de tempo até a caverna desabar.[lr]::
+71495::$$$message_0658_0001_0002$$$::O teto está desabando por toda parte, e o chão devastado vai se transformando numa montanha de escombros.::
+71496::$$$message_0658_0002_0000$$$::"[line4], [line4], [line4]"[lr]::
 71497::$$$message_0658_0002_0001$$$::Minhas articulações estão rígidas.[lr]::
-71498::$$$message_0658_0002_0002$$$::É doloroso quando dobro meus membros.[lr]::
-71499::$$$message_0658_0002_0003$$$::Se eu baixar a minha guarda, eu paro de respirar. Finalmente, com a determinação necessária para enfiar uma faca no meu pescoço, eu consigo respirar um pouco.[lr]::
-71500::$$$message_0658_0002_0004$$$::Eu continuo fazendo isso mesmo apesar da dor, pois humanos não podem viver sem oxigênio.[lr]::
-71501::$$$message_0658_0002_0005$$$::Eu posso conseguir me mover sem oxigênio, e mesmo se eu respirar, eu irei parar de me mover em breve.::
-71502::$$$message_0658_0003_0000$$$::"[w l=4][line4], [w l=4][line4], [w l=4][line4]"[lr]::
+71498::$$$message_0658_0002_0002$$$::Dói dobrar os braços e as pernas.[lr]::
+71499::$$$message_0658_0002_0003$$$::Quando perco o foco, paro de respirar, então me forço a encarar facas atravessando minha garganta e enfim consigo puxar algumas respirações.[lr]::
+71500::$$$message_0658_0002_0004$$$::Eu me forço desse jeito a respirar porque um humano não consegue se mover sem oxigênio suficiente.[lr]::
+71501::$$$message_0658_0002_0005$$$::Mas agora, talvez eu consiga me mover mesmo sem oxigênio, e, por mais que eu respire fundo, não vai demorar para eu[line2]::
+71502::$$$message_0658_0003_0000$$$::"[line4], [line4], [line4]"[lr]::
 71503::$$$message_0658_0003_0001$$$::...Está quente.[lr]::
-71504::$$$message_0658_0003_0002$$$::Centenas de lâminas estão saindo de dentro do meu corpo.[lr]::
-71505::$$$message_0658_0003_0003$$$::Uma morte inevitável por espetamento.[lr]::
+71504::$$$message_0658_0003_0002$$$::Centenas de lâminas estão brotando do meu corpo.[lr]::
+71505::$$$message_0658_0003_0003$$$::É uma execução da qual não há como escapar.[lr]::
 71506::$$$message_0658_0003_0004$$$::Meu corpo é feito de espadas.[lr]::
-71507::$$$message_0658_0003_0005$$$::Mas eu já sabia disso.::
-71508::$$$message_0658_0004_0000$$$::[block len=8] disse que...[lr]::
-71509::$$$message_0658_0004_0001$$$::A bomba-relógio seria ativada quando eu usasse projeção.[lr]::
-71510::$$$message_0658_0004_0002$$$::Por isso este fim já estava determinado.::
-71511::$$$message_0658_0005_0000$$$::"[w l=4][line4], [w l=4][line4], [w l=4][line4]"[lr]::
+71507::$$$message_0658_0003_0005$$$::Mas eu sempre soube disso.::
+71508::$$$message_0658_0004_0000$$$::[line8] me disse.[lr]::
+71509::$$$message_0658_0004_0001$$$::Disse que, se eu usasse Projeção, isso acenderia o estopim de uma bomba-relógio.[lr]::
+71510::$$$message_0658_0004_0002$$$::Então esse fim já estava decidido havia muito tempo.::
+71511::$$$message_0658_0005_0000$$$::"[line4], [line4], [line4]"[lr]::
 71512::$$$message_0658_0005_0001$$$::...Minhas pernas estão pesadas.[lr]::
-71513::$$$message_0658_0005_0002$$$::...Eu não sei o que estou fazendo.[lr]::
-71514::$$$message_0658_0005_0003$$$::Meu coração está prestes a explodir de dor, cansaço e pelo vazio profundo.[lr]::
+71513::$$$message_0658_0005_0002$$$::...Não sei o que estou fazendo.[lr]::
+71514::$$$message_0658_0005_0003$$$::Meu coração parece prestes a explodir de dor, fadiga e vazio.[lr]::
 71515::$$$message_0658_0005_0004$$$::Mas só mais um pouco.[lr]::
-71516::$$$message_0658_0005_0005$$$::Tudo irá acabar assim que eu derrotá-lo.[lr]::
-71517::$$$message_0658_0005_0006$$$::Não tem ninguém no meu caminho.[lr]::
-71518::$$$message_0658_0005_0007$$$::Ninguém mais vai ficar no meu caminho.::
-71519::$$$message_0658_0006_0000$$$::[w l=4][line4]Mas.::
-71520::$$$message_0658_0007_0000$$$::"Haa[w l=6][line6]ah[w l=4][line4]"[lr]::
-71521::$$$message_0658_0007_0001$$$::A sombra estremece.[lr]::
-71522::$$$message_0658_0007_0002$$$::Na frente da cratera, o Santo Graal Maior.[lr]::
-71523::$$$message_0658_0007_0003$$$::Banhado pelo brilho avermelhado, [block len=8] está de pé.::
-71524::$$$message_0658_0008_0000$$$::"[w l=4][line4]Kotomine Kirei."[lr]::
-71525::$$$message_0658_0008_0001$$$::"Sim. Parece que nós dois conseguimos sobreviver, Emiya Shirou."[lr]::
-71526::$$$message_0658_0008_0002$$$::Uma voz cheia de determinação.[lr]::
-71527::$$$message_0658_0008_0003$$$::Como se fosse o destino, o homem bloqueia o meu caminho nessa terra desolada.::
-71528::$$$message_0658_0009_0000$$$::"[w l=3][line3]O que você está fazendo?[lr]::
-71529::$$$message_0658_0009_0001$$$::Não há mais nada que você possa fazer agora."[lr]::
-71530::$$$message_0658_0009_0002$$$::Eu não pergunto o porquê dele ainda estar vivo.[lr]::
-71531::$$$message_0658_0009_0003$$$::Ele está morrendo.[lr]::
-71532::$$$message_0658_0009_0004$$$::Eu não sinto nenhuma energia mágica em seu corpo.[lr]::
-71533::$$$message_0658_0009_0005$$$::Há uma mancha preta onde o seu coração deveria estar.[lr]::
-71534::$$$message_0658_0009_0006$$$::...Assim como eu, um breve fogo, como uma ampulheta virada para baixo.::
-71535::$$$message_0658_0010_0000$$$::Não ouço as batidas do seu coração.[lr]::
-71536::$$$message_0658_0010_0001$$$::Não lhe resta muito tempo de vida.[lr]::
-71537::$$$message_0658_0010_0002$$$::Isso não é uma especulação, mas sim uma previsão.[lr]::
-71538::$$$message_0658_0010_0003$$$::Kotomine Kirei irá morrer em alguns minutos, mesmo se ele não fizer nada.::
-71539::$$$message_0658_0011_0000$$$::"Não me pergunte algo tão óbvio.[lr]::
-71540::$$$message_0658_0011_0001$$$::Só possuo um objetivo: dar à luz a maldição."[lr]::
-71541::$$$message_0658_0011_0002$$$::"[w l=4][line4]O quê? Você não pode fazer isso. Ele não será seu."::
-71542::$$$message_0658_0012_0000$$$::"É claro que não. Eu não tenho como interferir nisso, e essa também não é a minha intenção.[lr]::
-71543::$$$message_0658_0012_0001$$$::Mas eu já lhe disse. Abençoarei qualquer coisa que venha à vida.[lr]::
-71544::$$$message_0658_0012_0002$$$::Isso está prestes a nascer. Por isso é apenas natural que eu o proteja de um inimigo exterior que está tentando matá-lo."::
-71545::$$$message_0658_0013_0000$$$::"...Você está maluco, Kotomine? O que você está dizendo com seu corpo nesse estado? E mesmo se ele nascer como você deseja, você vai[w l=4][line4]"::
-71546::$$$message_0658_0014_0000$$$::"O mesmo vale pra você. Não há nenhuma sanidade aqui. Nosso fim será o mesmo, mesmo alcançando nossos objetivos.[lr]::
-71547::$$$message_0658_0014_0001$$$::Você irá destruí-lo, enquanto eu irei protegê-lo.[lr]::
-71548::$$$message_0658_0014_0002$$$::Mas não há nada a ser ganho, não importa qual dos objetivos seja alcançado. Você veio aqui sabendo disso.[lr]::
-71549::$$$message_0658_0014_0003$$$::[w l=3][line3]Essa é uma batalha sem sentido. Somos dois loucos participando de uma loucura em vão."::
-71550::$$$message_0658_0015_0000$$$::"[w l=8][line8]"[lr]::
-71551::$$$message_0658_0015_0001$$$::...Kotomine não vai desistir.[lr]::
-71552::$$$message_0658_0015_0002$$$::Ele não vai recuar, e eu não posso usar projeção enquanto ele estiver ali.[lr]::
-71553::$$$message_0658_0015_0003$$$::Eu preciso de tempo para projetar.[lr]::
-71554::$$$message_0658_0015_0004$$$::Ele vai esmagar o meu crânio se eu der uma abertura dessas.::
-71555::$$$message_0658_0016_0000$$$::"...Por que? Por que você está indo tão longe para proteger ele?[lr]::
-71556::$$$message_0658_0016_0001$$$::Mesmo se ele nascer, você não irá ganhar nada. Então por quê?"[lr]::
-71557::$$$message_0658_0016_0002$$$::Mesmo à beira da morte, por que ele ainda aprova o inimigo da humanidade, todos os males do mundo?::
-71558::$$$message_0658_0016_0003$$$::even on death's door?::
-71559::$$$message_0658_0017_0000$$$::"Nenhum há espaço para peguntas. Este é meu único prazer.[lr]::
-71560::$$$message_0658_0017_0001$$$::[w l=4][line4]Emiya Shirou.[lr]::
-71561::$$$message_0658_0017_0002$$$::Assim como você sente uma felicidade suprema na felicidade dos outros.[lr]::
-71562::$$$message_0658_0017_0003$$$::Eu sinto uma felicidade suprema com a infelicidade dos outros."::
-71563::$$$message_0658_0018_0000$$$::"[w l=4][line4]"[lr]::
-71564::$$$message_0658_0018_0001$$$::"Em primeiro lugar, por que matá-lo? É arrogância assumir que ele é mau antes mesmo do seu nascimento. Dar à luz a uma vida que deseja nascer nesse mundo não é um ato de amor?"::
-71565::$$$message_0658_0019_0000$$$::"Não me venha com essa. Ele já matou várias pessoas. Não posso deixar ele nascer."[lr]::
-71566::$$$message_0658_0019_0001$$$::"Ah. Então deixe-me lhe perguntar uma coisa. O que é o bem e o mal? Está me dizendo que assassinato é um mal absoluto?"::
-71567::$$$message_0658_0020_0000$$$::"Isso é......"[lr]::
-71568::$$$message_0658_0020_0001$$$::Bem e mal não significam nada pra mim agora.[lr]::
-71569::$$$message_0658_0020_0002$$$::A justiça em que Emiya Shirou acreditava desapareceu no instante que eu decidi salvar a Sakura.::
-71570::$$$message_0658_0020_0003$$$::No momento em que decidi salvar Sakura, perdi a justiça em que Shirou Emiya acreditava.::
-71571::$$$message_0658_0021_0000$$$::"[w l=3][line3]Justo. Não existe uma resposta desde o início. É assim que os humanos são. Não existe uma resposta certa, e eles aceitam uma verdade mutável. Nós não temos uma verdade absoluta definida no início.[lr]::
-71572::$$$message_0658_0021_0001$$$::Os humanos possuem o bem e o mal, e é você quem decide qual é qual. O início é no zero, e não há crime algum em nascer. Eu pensei que já havia lhe contado isso."::
-71573::$$$message_0658_0022_0000$$$::"[w l=4][line4]Sim. Você disse que não há crime algum no bebê mesmo se ele for mau."[lr]::
-71574::$$$message_0658_0022_0001$$$::"Correto. Os humanos viram bons ou maus com a aprendizagem.[lr]::
-71575::$$$message_0658_0022_0002$$$::Uma certa escritura menciona que os seres humanos são superiores aos anjos. Por quê? É porque existem pessoas que conhecem o mal, mas não se tornam malignas.[lr]::
-71576::$$$message_0658_0022_0003$$$::São diferentes dos anjos, que conhecem apenas o bem desde o nascimento.[lr]::
-71577::$$$message_0658_0022_0004$$$::Humanos possuem o mal, mas podem viver como bons, por isso são superiores aos anjos, que conhecem apenas o bem."::
-71578::$$$message_0658_0022_0005$$$::Essa é a resposta do Kotomine.[lr]::
-71579::$$$message_0658_0022_0006$$$::Esse homem perdoa "todos os males do mundo" por esse único motivo.::
-71580::$$$message_0658_0022_0007$$$::enquanto um santo e salvador das multidões pode cometer o mal por capricho.[lr]::
-71581::$$$message_0658_0022_0008$$$::Essa contradição, essa coexistência do bem e do mal é um Santo Graal que torna as pessoas humanas.[lr]::
-71582::$$$message_0658_0022_0009$$$::Viver é pecado e o castigo existe porque as pessoas vivem. O bem só existe por causa da vida, assim como o mal.[lr]::
-71583::$$$message_0658_0022_0010$$$::Therefore..."::
-71584::$$$message_0658_0022_0011$$$::"[w l=3][line3]Então você vai perdoá-lo? Ele é uma coisa que só sabe matar. Se você sabe que ele irá matar muitas pessoas assim que ele nascer, então ele é um mal definitivo para nós...!"::
-71585::$$$message_0658_0022_0012$$$::Não há quem não deseje nada de ninguém, e ninguém que nasça mau.[lr]::
-71586::$$$message_0658_0022_0013$$$::Não há razão para que essa coisa seja punida assim que nasce."::
-71587::$$$message_0658_0023_0000$$$::"Sim. Sua natureza é maligna. Afinal de contas, ele foi feito assim. Ele nasceu para ser mau desde o início.[lr]::
-71588::$$$message_0658_0023_0001$$$::Ele não é como os humanos. Ele é uma divindade pura que os humanos criaram.[lr]::
-71589::$$$message_0658_0024_0000$$$::"Eh...?"[lr]::
-71590::$$$message_0658_0025_0000$$$::"Sim.[lr]::
-71591::$$$message_0658_0025_0001$$$::Se o Angra Mainyu as considera malignas e agoniza sobre suas próprias ações, ou se ele as consideram boas e ri sobre elas. Isso não é algo que podemos presumir.[lr]::
-71592::$$$message_0658_0025_0002$$$::Se essa coisa possui emoções como os humanos e se arrepende dos seus feitos, ele é mau.[lr]::
-71593::$$$message_0658_0026_0000$$$::"O qu[w l=4][line4]"[lr]::
-71594::$$$message_0658_0026_0001$$$::"Sim.[lr]::
-71595::$$$message_0658_0027_0000$$$::"Ele será capaz de se perdoar depois de destruir e perder tudo?[lr]::
-71596::$$$message_0658_0027_0001$$$::É isso o que eu gostaria de saber.[lr]::
-71597::$$$message_0658_0027_0002$$$::Eu quero saber se é um crime viver como você é, quando você é diferente dos outros.[lr]::
-71598::$$$message_0658_0027_0003$$$::Foi por isso que eu matei o seu pai e deixei a Matou Sakura viver. Eu não pude chegar a uma resposta sozinho. Por isso eu desejo o nascimento daquilo que pode me dar uma resposta."::
-71599::$$$message_0658_0028_0000$$$::"[w l=3][line3]Esse é o meu objetivo, Emiya Shirou.[lr]::
-71600::$$$message_0658_0028_0001$$$::Eu sou o extremo oposto de você, já que você não possui um desejo próprio. Nossos desejos são da mesma natureza."::
+71516::$$$message_0658_0005_0005$$$::Tudo vai acabar assim que eu apagar aquilo.[lr]::
+71517::$$$message_0658_0005_0006$$$::Ninguém vai me impedir.[lr]::
+71518::$$$message_0658_0005_0007$$$::Não há mais ninguém aqui para me impedir.::
+71519::$$$message_0658_0006_0000$$$::E, ainda assim...::
+71520::$$$message_0658_0007_0000$$$::"Hah......, ah..."[lr]::
+71521::$$$message_0658_0007_0001$$$::As sombras tremulam.[lr]::
+71522::$$$message_0658_0007_0002$$$::Diante da cratera a que chamam de Graal Maior,[lr]::
+71523::$$$message_0658_0007_0003$$$::[line8] está de pé, banhado por chamas de um vermelho sombrio.::
+71524::$$$message_0658_0008_0000$$$::"...Kirei... Kotomine."[lr]::
+71525::$$$message_0658_0008_0001$$$::"Sim. Pelo visto, nós dois estamos nos segurando por um fio, Shirou Emiya."[lr]::
+71526::$$$message_0658_0008_0002$$$::A voz dele carrega uma vontade inabalável.[lr]::
+71527::$$$message_0658_0008_0003$$$::Nesse mundo sem vida, ele bloqueia meu caminho como se isso fosse o destino dele.::
+71528::$$$message_0658_0009_0000$$$::"...O que você pensa que está fazendo?[lr]::
+71529::$$$message_0658_0009_0001$$$::Já é tarde demais pra aparecer agora."[lr]::
+71530::$$$message_0658_0009_0002$$$::Não lhe pergunto por que ainda está vivo.[lr]::
+71531::$$$message_0658_0009_0003$$$::Ele é um cadáver ambulante.[lr]::
+71532::$$$message_0658_0009_0004$$$::Não sinto nenhuma Energia Mágica emanando do corpo dele.[lr]::
+71533::$$$message_0658_0009_0005$$$::Há uma mancha escura onde o coração dele deveria estar.[lr]::
+71534::$$$message_0658_0009_0006$$$::É uma chama curta, como uma ampulheta invertida, igual a mim.::
+71535::$$$message_0658_0010_0000$$$::Não consigo ouvir os batimentos do coração do Kotomine.[lr]::
+71536::$$$message_0658_0010_0001$$$::Não resta muito tempo de vida para ele.[lr]::
+71537::$$$message_0658_0010_0002$$$::Isso não é especulação. É um fato.[lr]::
+71538::$$$message_0658_0010_0003$$$::Kirei Kotomine vai morrer em questão de minutos, não importa o que faça.::
+71539::$$$message_0658_0011_0000$$$::"Você já sabe a resposta para isso.[lr]::
+71540::$$$message_0658_0011_0001$$$::Só tenho um objetivo: ver essa maldição nascer."[lr]::
+71541::$$$message_0658_0011_0002$$$::"O que? Você não pode fazer isso. Isso não pertence a você."::
+71542::$$$message_0658_0012_0000$$$::"Claro que não. Não tenho como interferir nisso, nem é essa a minha intenção.[lr]::
+71543::$$$message_0658_0012_0001$$$::Mas acho que lhe disse que abençoaria o nascimento dela.[lr]::
+71544::$$$message_0658_0012_0002$$$::Ela certamente está tentando nascer agora. É apenas natural que eu tente proteger esse nascimento de qualquer um que o ameace."::
+71545::$$$message_0658_0013_0000$$$::"...Você enlouqueceu, Kotomine? O que é que você pode fazer nesse estado de morto-vivo? E mesmo que aquilo saia como você quer, você não[line2]"::
+71546::$$$message_0658_0014_0000$$$::"Isso vale para você também. Minha sanidade se foi há muito tempo. Teremos o mesmo destino quando eu alcançar meu objetivo.[lr]::
+71547::$$$message_0658_0014_0001$$$::Você vai destruir isto, e eu vou protegê-lo.[lr]::
+71548::$$$message_0658_0014_0002$$$::Mas, não importa quem consiga o que quer, ninguém restará para colher os frutos. Você sabia disso quando veio até aqui.[lr]::
+71549::$$$message_0658_0014_0003$$$::Esta é uma luta sem sentido. Fazendo isso, nem você nem eu estamos em pleno juízo."::
+71550::$$$message_0658_0015_0000$$$::[font italic=true]...[font italic=false][lr]::
+71551::$$$message_0658_0015_0001$$$::...Kotomine não vai sair do caminho.[lr]::
+71552::$$$message_0658_0015_0002$$$::Ele não vai recuar. Enquanto ele estiver aqui, não posso usar minha última Projeção.[lr]::
+71553::$$$message_0658_0015_0003$$$::Eu preciso de tempo para isso.[lr]::
+71554::$$$message_0658_0015_0004$$$::Se eu lhe der uma abertura, ele vai esmagar meu crânio antes que eu possa usar a espada da Saber.::
+71555::$$$message_0658_0016_0000$$$::"...Por quê? Por que você está se esforçando tanto para protegê-la?[lr]::
+71556::$$$message_0658_0016_0001$$$::Você não vai ganhar nada com o nascimento dela. Então por que?"[lr]::
+71557::$$$message_0658_0016_0002$$$::Por que ele aprovaria um inimigo da humanidade chamado "Todos os Males do Mundo",[lr]::
+71558::$$$message_0658_0016_0003$$$::mesmo à beira da morte?::
+71559::$$$message_0658_0017_0000$$$::"A razão é muito simples: porque esta é a única coisa que me traz alegria.[lr]::
+71560::$$$message_0658_0017_0001$$$::...Shirou Emiya.[lr]::
+71561::$$$message_0658_0017_0002$$$::Assim como você sente felicidade suprema ao ver a boa fortuna alheia,[lr]::
+71562::$$$message_0658_0017_0003$$$::eu encontro felicidade suprema na desgraça alheia."::
+71563::$$$message_0658_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
+71564::$$$message_0658_0018_0001$$$::"E por que matá-la? Não é arrogante julgá-la má antes mesmo de nascer? Não é amor ajudar a trazer à luz algo que quer nascer?"::
+71565::$$$message_0658_0019_0000$$$::"Que espécie de 'amor' é esse? Pare de usar sofismas. Aquilo matou muita gente. Não posso deixá-la sair daqui."[lr]::
+71566::$$$message_0658_0019_0001$$$::"Ah? Então me responda isto. O que são o bem e o mal de que você fala? Você diria que matar pessoas é um mal absoluto?"::
+71567::$$$message_0658_0020_0000$$$::"Eu..."[lr]::
+71568::$$$message_0658_0020_0001$$$::Não tenho como responder isso.[lr]::
+71569::$$$message_0658_0020_0002$$$::Agora, eu não tenho moral alguma.[lr]::
+71570::$$$message_0658_0020_0003$$$::No momento em que decidi salvar a Sakura, perdi a justiça em que Shirou Emiya acreditava.::
+71571::$$$message_0658_0021_0000$$$::"Isso não tem problema. Nunca houve uma resposta para a minha pergunta. É isso que significa ser humano. As respostas jamais são claras, e aceitamos verdades mutáveis. Nunca soubemos o que era verdadeiro desde o início.[lr]::
+71572::$$$message_0658_0021_0001$$$::Os humanos possuem tanto o bem quanto o mal, e a forma de distingui-los é uma escolha pessoal. Acho que lhe disse que começamos do zero, e que nascemos sem pecado."::
+71573::$$$message_0658_0022_0000$$$::"Foi. Você disse que um bebê não pode cometer pecados, mesmo que seja mau."[lr]::
+71574::$$$message_0658_0022_0001$$$::"Isso mesmo. Os humanos nascem e tendem ao bem ou ao mal conforme aquilo que aprendem.[lr]::
+71575::$$$message_0658_0022_0002$$$::Um certo livro sagrado afirma que os humanos são seres superiores aos anjos. Por que? Porque há pessoas que conhecem o mal, mas não o praticam.[lr]::
+71576::$$$message_0658_0022_0003$$$::Somos diferentes dos anjos, que conhecem apenas o bem desde que nascem.[lr]::
+71577::$$$message_0658_0022_0004$$$::Diz-se que os humanos são superiores aos anjos porque, ao contrário deles, que só conhecem o bem, nós podemos viver uma vida boa mesmo possuindo o mal."::
+71578::$$$message_0658_0022_0005$$$::...De fato,[lr]::
+71579::$$$message_0658_0022_0006$$$::um criminoso hediondo pode demonstrar boa vontade por brincadeira,[lr]::
+71580::$$$message_0658_0022_0007$$$::enquanto um santo e salvador das multidões pode praticar o mal por capricho.[lr]::
+71581::$$$message_0658_0022_0008$$$::Essa contradição, essa coexistência entre bem e mal, é um Santo Graal que torna as pessoas humanas.[lr]::
+71582::$$$message_0658_0022_0009$$$::Viver é um pecado, e o castigo existe porque as pessoas vivem. O bem só existe por causa da vida, assim como o mal.[lr]::
+71583::$$$message_0658_0022_0010$$$::Portanto..."::
+71584::$$$message_0658_0022_0011$$$::"Não se pode questionar os crimes de algo que ainda não nasceu.[lr]::
+71585::$$$message_0658_0022_0012$$$::Não existe ninguém que não deseje nada de ninguém, nem alguém que nasça mau.[lr]::
+71586::$$$message_0658_0022_0013$$$::Não há razão para que aquela coisa seja punida assim que nascer."::
+71587::$$$message_0658_0023_0000$$$::Essa é a resposta do padre chamado Kotomine.[lr]::
+71588::$$$message_0658_0023_0001$$$::É por isso que ele pretende sinceramente perdoar "todos os males" que as pessoas desejaram trazer à existência.::
+71589::$$$message_0658_0024_0000$$$::"...É por isso que você vai perdoá-la? Essa coisa sempre foi feita para matar pessoas. Você sabe que muita gente vai morrer se ela sair daqui, então para nós ela é, sem dúvida, o próprio mal!"::
+71590::$$$message_0658_0025_0000$$$::"Sim. Sua própria existência é maligna. Foi criada para ser assim. Nasceu má.[lr]::
+71591::$$$message_0658_0025_0001$$$::Ela não é como os humanos. É um deus puro e simples, que só possui o mal, criado pelas pessoas.[lr]::
+71592::$$$message_0658_0025_0002$$$::Mesmo assim... ainda que seus atos sejam maus, não sabemos o que ela própria pensa deles."::
+71593::$$$message_0658_0026_0000$$$::"Hein...?"[lr]::
+71594::$$$message_0658_0026_0001$$$::Ele quer saber o que Angra Mainyu [font italic=true]pessoalmente[font italic=false] pensa?::
+71595::$$$message_0658_0027_0000$$$::"Sim.[lr]::
+71596::$$$message_0658_0027_0001$$$::Angra Mainyu lamentará os próprios atos como maus, ou rirá deles como algo bom? Não temos como saber.[lr]::
+71597::$$$message_0658_0027_0002$$$::Se tiver uma vontade semelhante a humana e lamentar a própria existência, isso a tornaria má.[lr]::
+71598::$$$message_0658_0027_0003$$$::Mas, se não tiver dúvida alguma a respeito da própria existência, então seria boa. Afinal, foi isso o que desejaram dela. Algo que não questiona a própria existência não pode ser mau."::
+71599::$$$message_0658_0028_0000$$$::"O qu..."[lr]::
+71600::$$$message_0658_0028_0001$$$::"Sim.[lr]::
 71601::$$$message_0658_0028_0002$$$::É algo que nasceu do nada.[lr]::
-71602::$$$message_0658_0028_0003$$$::Algo que nunca foi desejado por este mundo.[lr]::
-71603::$$$message_0658_0028_0004$$$::Ele nos mostrará o significado do seu nascimento e o valor de algo sem valor."::
-71604::$$$message_0658_0029_0000$$$::"[w l=7][line7]"[lr]::
-71605::$$$message_0658_0029_0001$$$::...Não consigo compreendê-lo.[lr]::
-71606::$$$message_0658_0029_0002$$$::O seu desejo é alienígena demais para mim.[lr]::
-71607::$$$message_0658_0029_0003$$$::...Só há uma coisa que eu compreendo.[lr]::
-71608::$$$message_0658_0030_0000$$$::"Sakura. Você usou a Sakura por uma coisa dessas?"[lr]::
-71609::$$$message_0658_0030_0001$$$::Eu me livro da confusão, olhando feio para o padre com toda a hostilidade que eu consigo juntar.::
-71610::$$$message_0658_0031_0000$$$::E...[lr]::
-71611::$$$message_0658_0031_0001$$$::"Sim. Para esse fim, eu tirei muitas vidas. É por isso que eu não posso mais voltar atrás.[lr]::
-71612::$$$message_0658_0031_0002$$$::Eu te disse. É assim que eu vivi.[lr]::
-71613::$$$message_0658_0031_0003$$$::Eu vivi para ter essa pergunta respondida.[lr]::
-71614::$$$message_0658_0031_0004$$$::Isso não irá mudar, mesmo estando à beira da morte."[lr]::
-71615::$$$message_0658_0032_0000$$$::"[w l=8][line8]"[lr]::
-71616::$$$message_0658_0032_0001$$$::Suas palavras são audaciosas.[lr]::
-71617::$$$message_0658_0033_0000$$$::"........................Entendi."[lr]::
-71618::$$$message_0658_0033_0001$$$::Isso me faz perceber.[lr]::
-71619::$$$message_0658_0033_0002$$$::Somos irreconciliáveis. Eu me opus a ele desde a primeira vez que o vi.[lr]::
-71620::$$$message_0658_0033_0003$$$::...Eu finalmente entendi o porquê.::
-71621::$$$message_0658_0033_0004$$$::Mesmo que eu esteja à beira da morte."[lr]::
-71622::$$$message_0658_0033_0005$$$::O cadáver ambulante faz uma declaração, com uma resolução clara em seus olhos.::
-71623::$$$message_0658_0034_0000$$$::Eu não quero admitir.[lr]::
-71624::$$$message_0658_0034_0001$$$::Mas parece que... eu gosto do Kotomine Kirei.[lr]::
-71625::$$$message_0658_0034_0002$$$::Eu estava desesperado para vê-lo como inimigo porque eu não queria aceitar esse fato.::
-71626::$$$message_0658_0035_0000$$$::Ele disse que somos parecidos.[lr]::
-71627::$$$message_0658_0035_0001$$$::Eu compreendo agora.[lr]::
-71628::$$$message_0658_0035_0002$$$::Nós dois acreditamos que somos pecadores.[lr]::
-71629::$$$message_0658_0035_0003$$$::E nós dois vivemos de uma certa maneira para nos libertar dessas correntes.[lr]::
-71630::$$$message_0658_0036_0000$$$::"[w l=5][line5]É claro que você não vai voltar atrás."[lr]::
-71631::$$$message_0658_0036_0001$$$::De modo algum ele irá voltar atrás se ele é igual a mim.[lr]::
-71632::$$$message_0658_0036_0002$$$::Não é que ele está tentando realizar o seu desejo porque está prestes a morrer.::
-71633::$$$message_0658_0037_0000$$$::...Isso mesmo. Não é que ele está protegendo o seu juramento nos seus últimos momentos.[lr]::
-71634::$$$message_0658_0037_0001$$$::É assim que ele viveu até agora.[lr]::
-71635::$$$message_0658_0037_0002$$$::Ele nunca trilhou um caminho diferente.[lr]::
-71636::$$$message_0658_0037_0003$$$::Por isso que mesmo se ele for morrer no próximo minuto, ele não sabe viver de outra maneira.::
-71637::$$$message_0658_0037_0004$$$::Sabíamos que nossos métodos eram falhos, mas acreditávamos que era o caminho certo para expiar e buscamos a salvação que nunca obteríamos.::
-71638::$$$message_0658_0038_0000$$$::"......Hmpf. E eu admito, isso é sentimentalismo também.[lr]::
-71639::$$$message_0658_0038_0001$$$::Eu sabia que era uma possibilidade, mas eu finalmente compreendi."::
-71640::$$$message_0658_0038_0002$$$::Não é porque ele está prestes a morrer e quer ver seu desejo se tornar realidade.::
-71641::$$$message_0658_0039_0000$$$::Ele dá um passo à frente.[lr]::
-71642::$$$message_0658_0039_0001$$$::Não resta muito tempo para nenhum de nós.[lr]::
-71643::$$$message_0658_0039_0002$$$::Por isso temos que resolver a nossa batalha rapidamente.[lr]::
-71644::$$$message_0658_0039_0003$$$::Temos que extinguir a chama do outro antes que a nossa própria chama apague.::
-71645::$$$message_0658_0040_0000$$$::"[w l=4][line4]Eu tenho inveja de vocês.[lr]::
-71646::$$$message_0658_0040_0001$$$::O que eu busquei, mas não pude obter. O que eu obtive, mas não pude obter. Muitas coisas deslizaram por entre os meus dedos, não importa qual mandamento eu usava."::
-71647::$$$message_0658_0041_0000$$$::'O que outros chamam de felicidade[w l=4][line4]'::
+71602::$$$message_0658_0028_0003$$$::Algo que jamais foi desejado por este mundo.[lr]::
+71603::$$$message_0658_0028_0004$$$::Ela nos mostrará o significado do próprio nascimento e o valor de algo sem valor."::
+71604::$$$message_0658_0029_0000$$$::"Depois de perder tudo, destruir tudo e ficar completamente sozinha, será que ela será capaz de se perdoar?[lr]::
+71605::$$$message_0658_0029_0001$$$::Eu quero saber.[lr]::
+71606::$$$message_0658_0029_0002$$$::Quero perguntar se algo afastado do resto do mundo, que vive apenas como ele mesmo, pode ser culpado por crimes.[lr]::
+71607::$$$message_0658_0029_0003$$$::Foi por isso que matei seu pai e prolonguei a vida de Sakura Matou. Eu não posso dar essa resposta, por isso desejei o nascimento de algo que pode."::
+71608::$$$message_0658_0030_0000$$$::"Esse é o meu objetivo, Shirou Emiya.[lr]::
+71609::$$$message_0658_0030_0001$$$::É um desejo da mesma natureza, e ainda assim o seu oposto, porque você não tem nenhum desejo de voltar para si mesmo."::
+71610::$$$message_0658_0031_0000$$$::"......"[lr]::
+71611::$$$message_0658_0031_0001$$$::...Não consigo entender.[lr]::
+71612::$$$message_0658_0031_0002$$$::O desejo desse homem está distante demais de mim.[lr]::
+71613::$$$message_0658_0031_0003$$$::...Mas há uma coisa que eu entendo.[lr]::
+71614::$$$message_0658_0031_0004$$$::Ele usou a Sakura por causa de um desejo assim.::
+71615::$$$message_0658_0032_0000$$$::"Sakura. Você usou a Sakura para tudo isso?"[lr]::
+71616::$$$message_0658_0032_0001$$$::Ajusto minha visão turva e encaro o padre com toda a hostilidade que ainda consigo reunir.::
+71617::$$$message_0658_0033_0000$$$::Esse homem...[lr]::
+71618::$$$message_0658_0033_0001$$$::"Sim. Matei muitos por essa causa. Por isso não posso recuar agora.[lr]::
+71619::$$$message_0658_0033_0002$$$::Eu lhe disse: foi assim que vivi.[lr]::
+71620::$$$message_0658_0033_0003$$$::Estou aqui para responder esse enigma.[lr]::
+71621::$$$message_0658_0033_0004$$$::Mesmo à beira da morte."[lr]::
+71622::$$$message_0658_0033_0005$$$::O cadáver ambulante faz sua declaração, com a resolução brilhando clara em seus olhos.::
+71623::$$$message_0658_0034_0000$$$::[font italic=true]...[font italic=false][lr]::
+71624::$$$message_0658_0034_0001$$$::Ele diz isso com tanto descaramento.[lr]::
+71625::$$$message_0658_0034_0002$$$::Fala como se não tivesse arrependimentos nem erros.::
+71626::$$$message_0658_0035_0000$$$::"......Sim. Entendi."[lr]::
+71627::$$$message_0658_0035_0001$$$::Agora eu entendo.[lr]::
+71628::$$$message_0658_0035_0002$$$::Eu jamais poderia concordar com esse homem. Quando o conheci, instintivamente me perguntei se um dia seria capaz de aceitá-lo.[lr]::
+71629::$$$message_0658_0035_0003$$$::E agora eu sei exatamente por quê.::
+71630::$$$message_0658_0036_0000$$$::Não quero admitir.[lr]::
+71631::$$$message_0658_0036_0001$$$::Mas acho que gostava de Kirei Kotomine.[lr]::
+71632::$$$message_0658_0036_0002$$$::Eu o enxergava com hostilidade, desesperado para negar isso, para fingir que não me sentia assim.::
+71633::$$$message_0658_0037_0000$$$::Ele disse que nós dois éramos parecidos.[lr]::
+71634::$$$message_0658_0037_0001$$$::Agora entendo por que.[lr]::
+71635::$$$message_0658_0037_0002$$$::Ambos nos vemos como pecadores.[lr]::
+71636::$$$message_0658_0037_0003$$$::Ambos vivemos tentando nos livrar dessas correntes.[lr]::
+71637::$$$message_0658_0037_0004$$$::Sabíamos que nossos métodos eram falhos, mas acreditávamos que aquele era o jeito certo de expiar, e buscávamos uma salvação que nunca obteríamos.::
+71638::$$$message_0658_0038_0000$$$::"...Então você não vai recuar."[lr]::
+71639::$$$message_0658_0038_0001$$$::Ele não vai, porque nós somos iguais.[lr]::
+71640::$$$message_0658_0038_0002$$$::Não é porque está prestes a morrer e quer ver o desejo se realizar.::
+71641::$$$message_0658_0039_0000$$$::...Isso mesmo. Ele não está defendendo um juramento porque chegou ao fim.[lr]::
+71642::$$$message_0658_0039_0001$$$::Essa sempre foi a forma como ele viveu.[lr]::
+71643::$$$message_0658_0039_0002$$$::Ele nunca trilhou outro caminho.[lr]::
+71644::$$$message_0658_0039_0003$$$::Mesmo que morra daqui a um minuto, ele não conhece nenhuma outra forma correta de viver.::
+71645::$$$message_0658_0040_0000$$$::"...Hmpf. Devo dizer que me sinto sentimental por ter confessado isso.[lr]::
+71646::$$$message_0658_0040_0001$$$::Eu já tinha suspeitado, mas agora que chegamos até aqui, percebi uma coisa."::
+71647::$$$message_0658_0041_0000$$$::Ele dá um passo à frente.[lr]::
 71648::$$$message_0658_0041_0001$$$::Nenhum de nós tem muito tempo sobrando.[lr]::
-71649::$$$message_0658_0041_0002$$$::Então resolveremos isso rapidamente.[lr]::
-71650::$$$message_0658_0041_0003$$$::I'm going to snuff out his flame before mine runs out.::
-71651::$$$message_0658_0042_0000$$$::"Irei libertar minhas emoções reprimidas aqui."::
-71652::$$$message_0658_0042_0001$$$::Invejo aquilo que procurei mas nunca consegui obter; aquilo que eu nunca poderia alcançar mesmo quando o tivesse; aqueles incontáveis ​​resíduos que escorregavam pelos meus dedos, independentemente da doutrina que eu seguisse."::
-71653::$$$message_0658_0043_0000$$$::'[w l=4][line4]Não me trouxe alegria alguma.'::
-71654::$$$message_0658_0044_0000$$$::...Sim. Ele está vazio porque não pôde obter isso, não importa quanto ele tentou.[lr]::
-71655::$$$message_0658_0045_0000$$$::"Entendo. Acho que eu fiz você desperdiçar o seu tempo, Kotomine."[lr]::
-71656::$$$message_0658_0046_0000$$$::"Não me importo. Não resta muito tempo para nenhum de nós."[lr]::
-71657::$$$message_0658_0046_0001$$$::A força entra no corpo do Kotomine.[lr]::
-71658::$$$message_0658_0046_0002$$$::De modo algum isso vai virar uma batalha de taumaturgia.[lr]::
-71659::$$$message_0658_0046_0003$$$::Estamos quase mortos.[lr]::
-71660::$$$message_0658_0047_0000$$$::Ele precisa me matar para realizar o seu desejo.[lr]::
-71661::$$$message_0658_0047_0001$$$::Eu preciso matá-lo para destruir o seu desejo.[lr]::
-71662::$$$message_0658_0047_0002$$$::Nós dois estamos colocando nossas vidas em jogo.[lr]::
-71663::$$$message_0658_0048_0000$$$::Ele chuta o chão com força e corre direto para a minha direção.[lr]::
-71664::$$$message_0658_0048_0001$$$::"Haa[w l=4][line4]"[lr]::
-71665::$$$message_0658_0048_0002$$$::Eu não tenho tanto poder sobrando nas minhas pernas.[lr]::
-71666::$$$message_0658_0048_0003$$$::Eu abaixo a minha postura, meus olhos fixados no peito que se aproxima, e...[lr]::
-71667::$$$message_0658_0048_0004$$$::"Ahhhhhhhh[w l=4][line4]!"[lr]::
-71668::$$$message_0658_0048_0005$$$::Ataco com o meu punho numa velocidade em que ele não conseguirá desviar...!::
-71669::$$$message_0658_0049_0000$$$::Mas o meu soco passa pelo vento, e eu sou o único que é atingido.::
-71670::$$$message_0658_0049_0001$$$::Vou matá-lo e destruir seu desejo.[lr]::
-71671::$$$message_0658_0049_0002$$$::Apostamos nossas vidas nesta aposta.[lr]::
-71672::$$$message_0658_0049_0003$$$::Antes que o tempo acabe, vou matá-lo e apagar a Sombra.::
-71673::$$$message_0658_0050_0000$$$::"Guh[w l=4][line4]!?"[lr]::
-71674::$$$message_0658_0050_0001$$$::Eu não vejo o Kotomine.[lr]::
-71675::$$$message_0658_0050_0002$$$::Essa velocidade. O inimigo que avançou contra mim desaparece da minha vista em um instante,[lr]::
-71676::$$$message_0658_0050_0003$$$::se agacha ao meu lado esquerdo, bate a palma da mão no meu estômago,[lr]::
-71677::$$$message_0658_0050_0004$$$::e chuta o meu corpo com a sua perna feito um relâmpago.::
-71678::$$$message_0658_0050_0005$$$::Golpeie-o o mais forte que puder, com um timing inescapável!::
-71679::$$$message_0658_0051_0000$$$::"Haa[w l=4][line4]guh......!"[lr]::
-71680::$$$message_0658_0052_0000$$$::"Gi[w l=4][line4]"[lr]::
-71681::$$$message_0658_0052_0001$$$::Fui chutado a quantos metros?[lr]::
-71682::$$$message_0658_0052_0002$$$::O impacto foi forte o suficiente para arrancar a minha cabeça.[lr]::
-71683::$$$message_0658_0052_0003$$$::Não, se for falar de impacto, então o segundo golpe no meu estômago foi forte o suficiente para pulverizar os meus órgãos.::
-71684::$$$message_0658_0052_0004$$$::chicoteia as pernas como um raio e me chuta no ar.::
-71685::$$$message_0658_0053_0000$$$::"Seu[w l=4][line4]"[lr]::
-71686::$$$message_0658_0053_0001$$$::Eu conheço isso.[lr]::
-71687::$$$message_0658_0053_0002$$$::Pegando o caminho mais curto sem nenhum movimento inicial. Um círculo e uma linha. Ele tenta danificar o interior e não o exterior.[lr]::
-71688::$$$message_0658_0054_0000$$$::"Isso não é verdade. Meus movimentos são apenas uma imitação. É uma imitação de taolu sem nada demais[w l=3][line3]mas parece que é o suficiente contra um moribundo."::
-71689::$$$message_0658_0054_0001$$$::Quantos metros fui lançado?[lr]::
-71690::$$$message_0658_0054_0002$$$::O impacto foi tão forte que eu não ficaria surpreso se minha cabeça se soltasse do torso.[lr]::
-71691::$$$message_0658_0054_0003$$$::Não, se continuarmos com isso, mesmo o segundo golpe no meu estômago teria destruído meus órgãos.::
-71692::$$$message_0658_0055_0000$$$::"......!"[lr]::
-71693::$$$message_0658_0055_0001$$$::Ele ataca novamente.[lr]::
-71694::$$$message_0658_0055_0002$$$::Forçando minhas articulações a entortarem, eu me levanto.::
+71649::$$$message_0658_0041_0002$$$::Então vamos resolver isso rápido.[lr]::
+71650::$$$message_0658_0041_0003$$$::Vou apagar a chama dele antes que a minha se apague.::
+71651::$$$message_0658_0042_0000$$$::"...Invejo todos vocês.[lr]::
+71652::$$$message_0658_0042_0001$$$::Invejo aquilo que busquei mas jamais pude obter; aquilo que não consegui alcançar nem quando o tinha em mãos; aqueles incontáveis resíduos que escorriam por entre meus dedos, não importava que doutrina eu seguisse."::
+71653::$$$message_0658_0043_0000$$$::[font italic=true]"As coisas que fazem vocês sentirem felicidade..."[font italic=false]::
+71654::$$$message_0658_0044_0000$$$::"Eu vou descarregar aqui toda essa frustração acumulada."::
+71655::$$$message_0658_0045_0000$$$::[font italic=true]"...nunca me trouxeram alegria."[font italic=false]::
+71656::$$$message_0658_0046_0000$$$::...Sim. Esse homem é vazio porque nunca obteve nada.[lr]::
+71657::$$$message_0658_0046_0001$$$::Procurou e procurou, mas não conquistou sequer um fragmento de felicidade.[lr]::
+71658::$$$message_0658_0046_0002$$$::A vida dele só trouxe morte a tudo o que obteve.[lr]::
+71659::$$$message_0658_0046_0003$$$::Se essa foi a única forma que ele conheceu de viver, como poderia abandoná-la agora?::
+71660::$$$message_0658_0047_0000$$$::"...Entendo. Fiz você perder tempo, Kotomine."[lr]::
+71661::$$$message_0658_0047_0001$$$::Retomo a respiração que eu havia esquecido.[lr]::
+71662::$$$message_0658_0047_0002$$$::Mando ar para dentro dos pulmões e coloco meu corpo de volta em modo de combate.::
+71663::$$$message_0658_0048_0000$$$::"Não me importo. Afinal, nenhum de nós tem tempo de sobra."[lr]::
+71664::$$$message_0658_0048_0001$$$::Kotomine põe força nos próprios músculos.[lr]::
+71665::$$$message_0658_0048_0002$$$::Isto não vai ser uma batalha de magia.[lr]::
+71666::$$$message_0658_0048_0003$$$::Nós dois somos mortos-vivos.[lr]::
+71667::$$$message_0658_0048_0004$$$::Tudo o que nos resta é trocar socos.[lr]::
+71668::$$$message_0658_0048_0005$$$::Já não temos táticas nem técnicas a que recorrer. Vamos esmagar um contra o outro o resto de vida que nos sobrou.::
+71669::$$$message_0658_0049_0000$$$::Ele vai me matar e realizar o desejo dele.[lr]::
+71670::$$$message_0658_0049_0001$$$::Eu vou matá-lo e destruir o desejo dele.[lr]::
+71671::$$$message_0658_0049_0002$$$::Estamos apostando nossas vidas nessa disputa.[lr]::
+71672::$$$message_0658_0049_0003$$$::Antes que o tempo se esgote, vou matá-lo e apagar a Sombra.::
+71673::$$$message_0658_0050_0000$$$::Corro e vou em linha reta na direção do meu oponente.[lr]::
+71674::$$$message_0658_0050_0001$$$::"...Hah."[lr]::
+71675::$$$message_0658_0050_0002$$$::Minhas pernas já não têm muita força.[lr]::
+71676::$$$message_0658_0050_0003$$$::Baixo o centro do corpo, fixo os olhos no peito do inimigo que se aproxima e...[lr]::
+71677::$$$message_0658_0050_0004$$$::"Aaaahhhhhhh!"[lr]::
+71678::$$$message_0658_0050_0005$$$::Acerte-o com toda a força, num timing impossível de esquivar!::
+71679::$$$message_0658_0051_0000$$$::Mas meu punho direito corta no vazio, e quem recebe o impacto é meu peito.::
+71680::$$$message_0658_0052_0000$$$::"Guh!?"[lr]::
+71681::$$$message_0658_0052_0001$$$::Kotomine sumiu.[lr]::
+71682::$$$message_0658_0052_0002$$$::O inimigo que ataquei com tanta velocidade e força desaparece do meu campo de visão.[lr]::
+71683::$$$message_0658_0052_0003$$$::Ele dobra o corpo alto para o meu flanco esquerdo, enterra um punho no meu estômago,[lr]::
+71684::$$$message_0658_0052_0004$$$::chicoteia as pernas como um relâmpago e me arremessa ao ar com um chute.::
+71685::$$$message_0658_0053_0000$$$::"Hah...zzh...!"[lr]::
+71686::$$$message_0658_0053_0001$$$::Os chutes dele são como baforadas de fogo.[lr]::
+71687::$$$message_0658_0053_0002$$$::Nessas últimas horas aqui, eu tinha esquecido como era sentir uma dor forte o bastante para me fazer desmaiar.::
+71688::$$$message_0658_0054_0000$$$::"Geegh..."[lr]::
+71689::$$$message_0658_0054_0001$$$::Quantos metros fui arremessado?[lr]::
+71690::$$$message_0658_0054_0002$$$::O impacto foi tão forte que eu não me surpreenderia se minha cabeça tivesse se desprendido do torso.[lr]::
+71691::$$$message_0658_0054_0003$$$::Melhor dizendo: só o segundo golpe no meu estômago já teria sido suficiente para destruir meus órgãos.::
+71692::$$$message_0658_0055_0000$$$::"Você..."[lr]::
+71693::$$$message_0658_0055_0001$$$::Eu conheço isso.[lr]::
+71694::$$$message_0658_0055_0002$$$::Movimentos econômicos, sem telegrafar nada. Linhas retas que também são círculos. Golpes voltados mais para o dano interno do que para o externo...[lr]::
 71695::$$$message_0658_0055_0003$$$::"Você é um padre que usa artes marciais chinesas...?"[lr]::
-71696::$$$message_0658_0055_0004$$$::E também no nível mais alto.[lr]::
-71697::$$$message_0658_0055_0005$$$::Isso não é algo que ele poderia ter percebido apenas observando as pessoas!::
-71698::$$$message_0658_0056_0000$$$::"......?"[lr]::
-71699::$$$message_0658_0057_0000$$$::"Haa[w l=4][line4]ah."[lr]::
-71700::$$$message_0658_0057_0001$$$::...Eu reúno a minha consciência e confronto o meu inimigo.[lr]::
-71701::$$$message_0658_0057_0002$$$::Isso não importa.[lr]::
-71702::$$$message_0658_0058_0000$$$::"Mas isso é uma boa desvantagem.[lr]::
-71703::$$$message_0658_0058_0001$$$::Resumindo, nossa batalha é..."::
-71704::$$$message_0658_0058_0002$$$::It's covered in red.[lr]::
-71705::$$$message_0658_0058_0003$$$::"Que corpo problemático. Cada ataque arrisca minha vida."[lr]::
-71706::$$$message_0658_0058_0004$$$::Essa é...[lr]::
-71707::$$$message_0658_0058_0005$$$::o que ele ganha por acertar um feixe de lâminas.::
-71708::$$$message_0658_0059_0000$$$::"[w l=4][line4]!"[lr]::
-71709::$$$message_0658_0059_0001$$$::Kotomine abaixa a sua postura.[lr]::
-71710::$$$message_0658_0059_0002$$$::O seu corpo treinado está se preparando para a explosão.::
-71711::$$$message_0658_0059_0003$$$::Ele não irá parar mesmo que seu oponente esteja coberto de espinhos letais.::
-71712::$$$message_0658_0060_0000$$$::"Não é uma batalha contra alguém, mas uma batalha com o seu próprio corpo em jogo[w l=4][line4]!"::
-71713::$$$message_0658_0060_0001$$$::An apt summary of our duel[line2]"::
-71714::$$$message_0658_0061_0000$$$::[w l=4][line4]O inimigo se aproxima.[lr]::
-71715::$$$message_0658_0061_0001$$$::Kotomine é muito mais forte do que eu.[lr]::
-71716::$$$message_0658_0061_0002$$$::Seu punho não irá quebrar.[lr]::
-71717::$$$message_0658_0062_0000$$$::"Haa[w l=4][line4]"[lr]::
-71718::$$$message_0658_0063_0000$$$::[w l=4][line4]Tudo o que consigo ouvir são as batidas do meu coração, batendo nos meus ouvidos.[lr]::
-71719::$$$message_0658_0063_0001$$$::Eu não reparo nos tremores ou nos pedaços de rocha que estão caindo.::
-71720::$$$message_0658_0063_0002$$$::His fists won't break.[lr]::
-71721::$$$message_0658_0063_0003$$$::Nesse ritmo, minha ampulheta vai quebrar antes mesmo de acabar.::
-71722::$$$message_0658_0064_0000$$$::Quem eu preciso derrotar está bem na minha frente.[lr]::
-71723::$$$message_0658_0064_0001$$$::Não me importo com o desejo de mil anos ou o fim desse pequeno mundo.[lr]::
-71724::$$$message_0658_0064_0002$$$::Para Emiya Shirou,[lr]::
-71725::$$$message_0658_0064_0003$$$::derrotar esse inimigo é o seu último propósito restante.::
-71726::$$$message_0658_0065_0000$$$::O único som nos lóbulos das minhas orelhas é o batimento cardíaco acelerado.[lr]::
-71727::$$$message_0658_0065_0001$$$::Não percebo de forma alguma os sons da caverna desabando e da chuva de escombros.::
+71696::$$$message_0658_0055_0004$$$::E no mais alto nível, ainda por cima.[lr]::
+71697::$$$message_0658_0055_0005$$$::Isso não é algo que ele poderia ter aprendido só observando os outros!::
+71698::$$$message_0658_0056_0000$$$::"Não exatamente. Eu apenas imito o [font italic=true]taolu[font italic=false] do meu mestre. Meus movimentos não têm força interna... mas isso basta contra um moribundo."::
+71699::$$$message_0658_0057_0000$$$::"...!"[lr]::
+71700::$$$message_0658_0057_0001$$$::Vem um golpe de seguimento.[lr]::
+71701::$$$message_0658_0057_0002$$$::Eu forço minhas articulações endurecidas a dobrarem e me levanto.::
+71702::$$$message_0658_0058_0000$$$::"...?"[lr]::
+71703::$$$message_0658_0058_0001$$$::Mas então Kotomine para e olha para o próprio punho.[lr]::
+71704::$$$message_0658_0058_0002$$$::Ele está coberto de vermelho.[lr]::
+71705::$$$message_0658_0058_0003$$$::"Que corpo problemático. Cada golpe põe minha vida em risco."[lr]::
+71706::$$$message_0658_0058_0004$$$::Isso é...[lr]::
+71707::$$$message_0658_0058_0005$$$::o que se ganha ao golpear um feixe de lâminas.::
+71708::$$$message_0658_0059_0000$$$::"Hah...ah..."[lr]::
+71709::$$$message_0658_0059_0001$$$::Reúno meus pensamentos espalhados e volto a encarar o inimigo.[lr]::
+71710::$$$message_0658_0059_0002$$$::Nada disso importa.[lr]::
+71711::$$$message_0658_0059_0003$$$::Ele não vai parar, mesmo que o oponente esteja coberto de espinhos letais.::
+71712::$$$message_0658_0060_0000$$$::"Mas é uma boa desvantagem.[lr]::
+71713::$$$message_0658_0060_0001$$$::Um resumo bastante apropriado do nosso duelo[line2]"::
+71714::$$$message_0658_0061_0000$$$::"Ngh..."[lr]::
+71715::$$$message_0658_0061_0001$$$::Kotomine abaixa a postura.[lr]::
+71716::$$$message_0658_0061_0002$$$::Seu corpo treinado se prepara para um golpe explosivo.::
+71717::$$$message_0658_0062_0000$$$::"Uma luta não contra uma ameaça externa, mas que põe em jogo nosso próprio ser!"::
+71718::$$$message_0658_0063_0000$$$::O inimigo se aproxima.[lr]::
+71719::$$$message_0658_0063_0001$$$::Kotomine tem uma vantagem esmagadora no combate corpo a corpo.[lr]::
+71720::$$$message_0658_0063_0002$$$::Os punhos dele não vão quebrar.[lr]::
+71721::$$$message_0658_0063_0003$$$::Nesse ritmo, minha ampulheta vai se estilhaçar antes mesmo de se esgotar.::
+71722::$$$message_0658_0064_0000$$$::"Hah..."[lr]::
+71723::$$$message_0658_0064_0001$$$::Não desvio o olhar; enfrento o inimigo que avança como um foguete.[lr]::
+71724::$$$message_0658_0064_0002$$$::Só há uma coisa a fazer.[lr]::
+71725::$$$message_0658_0064_0003$$$::Preciso enfiar meus punhos nele ainda mais rápido do que da última vez, mais rápido do que ele consegue esquivar.::
+71726::$$$message_0658_0065_0000$$$::O único som nos meus ouvidos é o do meu coração disparado.[lr]::
+71727::$$$message_0658_0065_0001$$$::Eu sequer percebo o barulho da caverna desabando e da chuva de escombros.::
 71728::$$$message_0658_0066_0000$$$::A coisa que preciso vencer está bem na minha frente.[lr]::
-71729::$$$message_0658_0066_0001$$$::Não me importo com nenhuma obsessão de séculos ou com o colapso de um mundo.[lr]::
-71730::$$$message_0658_0066_0002$$$::To Shirou Emiya...[lr]::
-71731::$$$message_0658_0066_0003$$$::A derrota deste inimigo é o seu propósito final.::
-
+71729::$$$message_0658_0066_0001$$$::Não me importo com nenhuma obsessão secular nem com o colapso de um mundo.[lr]::
+71730::$$$message_0658_0066_0002$$$::Para Shirou Emiya...[lr]::
+71731::$$$message_0658_0066_0003$$$::Derrotar esse inimigo é seu último propósito.::

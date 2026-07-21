@@ -1,6 +1,6 @@
 DAT
 id=qid::label=str::text=lstr::
-4857::$$$message_0044_0000_0000$$$::...não posso aceitar isso.[lr]::
+4857::$$$message_0044_0000_0000$$$::...Não posso aceitar isso.[lr]::
 4858::$$$message_0044_0000_0001$$$::Tais mortes sem valor são erradas.::
 4859::$$$message_0044_0001_0000$$$::"O que há de errado? Você vai lutar ou não? Diga agora, Emiya Shirou."[lr]::
 4860::$$$message_0044_0001_0001$$$::...ele nem mesmo precisa perguntar.[lr]::
@@ -41,9 +41,9 @@ id=qid::label=str::text=lstr::
 4895::$$$message_0044_0009_0001$$$::"Sim. Há três marcas no Selo de Comando. O Kirei tirou duas dessas de você. Como um doutor espiritual que remove a parte infectada sem machucar o corpo."::
 4896::$$$message_0044_0010_0000$$$::"Doutor espiritual...?"[lr]::
 4897::$$$message_0044_0010_0001$$$::Acho que é um mago especial que cura o corpo tratando o espirito.[lr]::
-4898::$$$message_0044_0010_0002$$$::Ouvi dizer que a mágica deles é uma "maldição" que consegue remover a parte infectada sem usar uma única faca cirúrgica no corpo...::
+4898::$$$message_0044_0010_0002$$$::Ouvi dizer que a mágica deles é uma "maldição" que consegue remover a parte infectada sem usar uma única faça cirúrgica no corpo...::
 4899::$$$message_0044_0011_0000$$$::"...estou surpreso. Tratamento espiritual é um ato incomum usado em áreas não civilizadas. Não é algo que um homem da igreja deveria saber."[lr]::
-4900::$$$message_0044_0011_0001$$$::"Não diga isso. Eu deixei de ser digno de ser um padre no momento em que usei magia.[lr]::
+4900::$$$message_0044_0011_0001$$$::"Não diga isso. Eu deixei de ser digno de ser um padre nNo momento em que usei magia.[lr]::
 4901::$$$message_0044_0011_0002$$$::Então não deveria importar se o tipo de magia que conheço é indigna para um padre. Não se preocupe com o tipo."::
 4902::$$$message_0044_0012_0000$$$::"Era a única coisa em que eu era bom. Eu aprendi várias magias, mas essa foi a única que serviu pra mim.[lr]::
 4903::$$$message_0044_0012_0001$$$::Meu atributo mágico é especializado em "abrir feridas", por bem ou por mal. Graças a isso, sou inferior até mesmo à minha aluna aqui."::
@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 4934::$$$message_0044_0020_0002$$$::Vou somente abandonar meu direito como Mestre: Não pedirei a ajuda dele depois disso.::
 4935::$$$message_0044_0021_0000$$$::"Eu recuso isso. Não precisarei da sua ajuda. Eu vou resolver as coisas com a Saber e depois de usar meu Selo de Comando, eu vou pra casa.[lr]::
 4936::$$$message_0044_0021_0001$$$::É isso. Nunca verei você de novo."::
-4937::$$$message_0044_0022_0000$$$::"Entendo. ...bem, certamente, nunca nos veremos novamente.[lr]::
+4937::$$$message_0044_0022_0000$$$::"Entendo. ...bem, certamente, nunca nós veremos novamente.[lr]::
 4938::$$$message_0044_0022_0001$$$::[line3]Adeus, Emiya Shirou. Esse é o caminho que você escolheu para si. Tenha orgulho dele."::
 4939::$$$message_0044_0023_0000$$$::"[line4]"[lr]::
 4940::$$$message_0044_0023_0001$$$::Ele não precisa me dizer isso.[lr]::
@@ -89,7 +89,7 @@ id=qid::label=str::text=lstr::
 4943::$$$message_0044_0024_0001$$$::Ela está lá no pátio pavimentado, embaixo do vasto céu.::
 4944::$$$message_0044_0025_0000$$$::"Você terminou sua conversa, Mestre?"[lr]::
 4945::$$$message_0044_0025_0001$$$::"Sim, eu aprendi o que é essa coisa de Guerra do Santo Graal.[lr]::
-4946::$$$message_0044_0025_0002$$$::...E levando isso em consideração, eu decidi. Saber, eu me abdico da posição de Mestre."[lr]::
+4946::$$$message_0044_0025_0002$$$::...E, levando isso em consideração, eu decidi. Saber, eu renuncio à posição de Mestre."[lr]::
 4947::$$$message_0044_0025_0003$$$::"[line8]"[lr]::
 4948::$$$message_0044_0025_0004$$$::A sobrancelha da Saber nem se mexe.[lr]::
 4949::$$$message_0044_0025_0005$$$::Seus olhos verdes parecem aceitar minha decisão, como se fosse natural.::
@@ -175,27 +175,27 @@ id=qid::label=str::text=lstr::
 5029::$$$message_0044_0050_0000$$$::"Entendo. Você está sozinho agora, Onii-chan."[lr]::
 5030::$$$message_0044_0050_0001$$$::Eu levanto minha cabeça ao som da voz da garota.[lr]::
 5031::$$$message_0044_0050_0002$$$::Debaixo da lua azul.[lr]::
-5032::$$$message_0044_0050_0003$$$::No topo da colina que deveria me levar pra casa,[lr]::
-5033::$$$message_0044_0050_0004$$$::está um garota e uma figura estranha.::
+5032::$$$message_0044_0050_0003$$$::o topo da colina que deveria me levar pra casa,[lr]::
+5033::$$$message_0044_0050_0004$$$::está um garota é uma figura estranha.::
 5034::$$$message_0044_0051_0000$$$::"Gi[line4]"[lr]::
-5035::$$$message_0044_0051_0001$$$::E eles estouram.[lr]::
+5035::$$$message_0044_0051_0001$$$::E então... não sei ao certo.[lr]::
 5036::$$$message_0044_0051_0002$$$::Nem mesmo tive a chance de ver, gritar, nem de virar e correr.::
 5037::$$$message_0044_0052_0000$$$::O gigante preto parado lá balança sua arma para cima, e a pura força da arma se mexendo causa meu braço[line4][lr]::
 5038::$$$message_0044_0052_0001$$$::"[line5]AAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!?"::
 5039::$$$message_0044_0053_0000$$$::"AH, AHHHHHHHH, AH, AH[line3]!"[lr]::
 5040::$$$message_0044_0053_0001$$$::Ele saiu voando. Ele saiu voando. Um dos meus braços saiu voando.[lr]::
 5041::$$$message_0044_0053_0002$$$::Ele saiu voando do meu ombro e sangue está derramando sem parar e a rua atrás de mim está vermelha como se tivesse sido manchada com tinta vermelha... e ossos, ossos estão saindo pra fora do meu ombro e...::
-5042::$$$message_0044_0054_0000$$$::"Berserker, não estou a fim de brincar de pega, então só esmague ele."[lr]::
+5042::$$$message_0044_0054_0000$$$::"Berserker, não estou a fim de brincar de péga, então só esmague ele."[lr]::
 5043::$$$message_0044_0054_0001$$$::Eu rolo.[lr]::
 5044::$$$message_0044_0054_0002$$$::Ambas as pernas estão dobradas como se eu estivesse sentado ao estilo Japonês.[lr]::
 5045::$$$message_0044_0054_0003$$$::Mas elas estão dobradas pro lado errado, com meus pés dobrando pra frente de meus joelhos.::
-5046::$$$message_0044_0055_0000$$$::"Ha... a, ah...!?"[lr]::
+5046::$$$message_0044_0055_0000$$$::"Há... a, ah...!?"[lr]::
 5047::$$$message_0044_0055_0001$$$::Meus pensamentos não conseguem processar os acontecimentos.[lr]::
 5048::$$$message_0044_0055_0002$$$::Meus pensamentos não conseguem processar os acontecimentos por causa da dor.[lr]::
 5049::$$$message_0044_0055_0003$$$::[line3]Berserker.[lr]::
 5050::$$$message_0044_0055_0004$$$::Eu definitivamente ouvi isso.[lr]::
 5051::$$$message_0044_0055_0005$$$::Então, o monstro em minha frente[line3]::
-5052::$$$message_0044_0056_0000$$$::"Heehee, você é bem educado, Onii-chan. Eu conheço isso, é aquilo que chamam de suicídio auxiliado, né? Meu avô disse que os japoneses são uma tribo cortadora de pescoços que morrem tendo seus pescoços cortados enquanto sentam ao estilo Japonês."[lr]::
+5052::$$$message_0044_0056_0000$$$::"Heehee, você é bem educado, Onii-chan. Eu conheço isso, é aquilo que chamam de suicídio auxiliado, né? Meu avô disse que os japoneses são uma tribo cortadora de péscoços que morrem tendo seus pescoços cortados enquanto sentam ao estilo Japonês."[lr]::
 5053::$$$message_0044_0056_0001$$$::[line3]Eu começo a desmaiar.[lr]::
 5054::$$$message_0044_0056_0002$$$::A voz inocente da garota não combina com essa situação.::
 5055::$$$message_0044_0057_0000$$$::"Ah[line3]não..."[lr]::
@@ -203,11 +203,11 @@ id=qid::label=str::text=lstr::
 5057::$$$message_0044_0057_0002$$$::Não consigo respirar.[lr]::
 5058::$$$message_0044_0057_0003$$$::Meu pulmão. Um dos meus pulmões foi jogado a 50 metros atrás de mim.::
 5059::$$$message_0044_0058_0000$$$::Eu caio de costas no chão.[lr]::
-5060::$$$message_0044_0058_0001$$$::Ambas as minhas pernas ficaram como lagartas. E elas estão quebradas, então não posso movê-las.[lr]::
+5060::$$$message_0044_0058_0001$$$::Minhas duas pernas ficaram dobradas como esteiras de lagarta. Estão quebradas, então não consigo movê-las.[lr]::
 5061::$$$message_0044_0058_0002$$$::Então uso meu braço esquerdo restante para me arrastar pra longe,::
-5062::$$$message_0044_0059_0000$$$::"Oh, então você ainda pode se mexer? Mas me desculpe. Você não pode fugir agora. E além disso, seria inútil mesmo que você consiga fugir.[lr]::
+5062::$$$message_0044_0059_0000$$$::"Oh, então você ainda pode se mexer? Mas me desculpe. Você não pode fugir agora. Além disso, seria inútil mesmo que você consiga fugir.[lr]::
 5063::$$$message_0044_0059_0001$$$::[line3]Porque mesmo se você conseguir, esse corpo seu vai morrer em questão de segundos."::
-5064::$$$message_0044_0060_0000$$$::"Ha[line4]"[lr]::
+5064::$$$message_0044_0060_0000$$$::"Há[line4]"[lr]::
 5065::$$$message_0044_0060_0001$$$::Meu corpo parece leve.[lr]::
 5066::$$$message_0044_0060_0002$$$::Eu perdi metade do meu sangue já.[lr]::
 5067::$$$message_0044_0060_0003$$$::É incrível eu ainda estar consciente.[lr]::
@@ -233,7 +233,7 @@ id=qid::label=str::text=lstr::
 5087::$$$message_0044_0066_0001$$$::A garota arqueja como se estivesse surpresa...[lr]::
 5088::$$$message_0044_0066_0002$$$::"[line3]Sim, e daí?"[lr]::
 5089::$$$message_0044_0066_0003$$$::Ela diz com um sorriso angelical.::
-5090::$$$message_0044_0067_0000$$$::"Ah[line3]ha."[lr]::
+5090::$$$message_0044_0067_0000$$$::"Ah[line3]há."[lr]::
 5091::$$$message_0044_0067_0001$$$::Minhas sensações congelam.[lr]::
 5092::$$$message_0044_0067_0002$$$::Não serei salvo não importa o que aconteça.[lr]::
 5093::$$$message_0044_0067_0003$$$::Eu compreendo totalmente que morrerei aqui.::
@@ -245,4 +245,3 @@ id=qid::label=str::text=lstr::
 5099::$$$message_0044_0069_0002$$$::Eles não vão morrer, então a razão congela.[lr]::
 5100::$$$message_0044_0069_0003$$$::Não sei por quanto tempo a cabeça vai aguentar.[lr]::
 5101::$$$message_0044_0069_0004$$$::Mas nesse instante, Emiya Shirou desiste definitivamente.::
-

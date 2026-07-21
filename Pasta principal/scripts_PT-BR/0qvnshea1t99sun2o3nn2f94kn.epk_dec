@@ -1,21 +1,21 @@
 DAT
 id=qid::label=str::text=lstr::
-22402::$$$message_0201_0000_0000$$$::Ainda são nove da manhã, mas o local que fica em frente à estação já está cheio de pessoas.::
+22402::$$$message_0201_0000_0000$$$::Ainda são nove da manhã, mas o local que fica em frente à estação já está cheio de péssoas.::
 22403::$$$message_0201_0001_0000$$$::A maioria das lojas abrem às dez, mas as cafeterias e as livrarias já estão abertas.[lr]::
-22404::$$$message_0201_0001_0001$$$::Aqui tem muito mais gente do que tinha na Cidade Miyama, sendo que está tão movimentado quanto nos finais de semana.::
+22404::$$$message_0201_0001_0001$$$::Aqui tem muito mais gente do que tinha na Cidade Miyama, sendo que está tão movimentado quanto nós finais de semana.::
 22405::$$$message_0201_0002_0000$$$::"......"[lr]::
 22406::$$$message_0201_0002_0001$$$::Depois de descer do ônibus, a Saber olha em volta com uma cara irritada.[lr]::
 22407::$$$message_0201_0002_0002$$$::...Não posso culpá-la.[lr]::
 22408::$$$message_0201_0002_0003$$$::Saber nunca concordou de verdade com essa história de encontro, e, além disso, todo mundo que passa lança sobre ela um olhar curioso.[lr]::
 22409::$$$message_0201_0002_0004$$$::Ela não deve se sentir muito confortável com isso.::
 22410::$$$message_0201_0003_0000$$$::"...Que droga. Pensando bem, eu já devia esperar que trazer a Saber para cá de manhã fosse chamar a atenção."[lr]::
-22411::$$$message_0201_0003_0001$$$::Esse é um problema que vai nos perseguir pelo resto do dia.[lr]::
+22411::$$$message_0201_0003_0001$$$::Esse é um problema que vai nós perseguir pelo resto do dia.[lr]::
 22412::$$$message_0201_0003_0002$$$::Se existe uma maneira de aliviar isso, é fazer com que a Saber se divirta tanto que pare de se importar com os olhares em volta.::
 22413::$$$message_0201_0004_0000$$$::"[line2]Certo."[lr]::
 22414::$$$message_0201_0004_0001$$$::Soco a palma da minha mão e então me viro para a Saber.::
 22415::$$$message_0201_0005_0000$$$::"Saber, deixa eu te perguntar uma coisa. Tem algum lugar que você esteja afim de ir? Agora que estamos aqui, nós devemos aproveitar para fazermos o que quiser."::
 22416::$$$message_0201_0006_0000$$$::"Não sei. Não tenho interesse em nenhum lugar específico. Aliás, eu nem tenho certeza de como deveria escolher um local para ir."::
-22417::$$$message_0201_0007_0000$$$::"É sério? ...Ai complica. Então vamos ter que deixar por conta da sorte mesmo. Acho que isso é um mau sinal, já que eu também não tenho muita noção de onde nós devemos ir."::
+22417::$$$message_0201_0007_0000$$$::"É sério? ...Aí complica. Então vamos ter que deixar por conta da sorte mesmo. Acho que isso é um mau sinal, já que eu também não tenho muita noção de onde nós devemos ir."::
 22418::$$$message_0201_0008_0000$$$::"...Não queria perguntar isso, mas por acaso você não tem nenhum plano, Shirou?"[lr]::
 22419::$$$message_0201_0008_0001$$$::"Hm? Bem, eu tenho algumas ideias, mas não é nada demais. Por enquanto, vamos só passar em algumas lojas."::
 22420::$$$message_0201_0009_0000$$$::Bem, isso ainda vai ser complicado.[lr]::
@@ -26,7 +26,7 @@ id=qid::label=str::text=lstr::
 22425::$$$message_0201_0011_0001$$$::...Essa é a primeira vez que ela reclama de alguma coisa fora do dojô.[lr]::
 22426::$$$message_0201_0011_0002$$$::Já sabia que a Saber estava estressada porque ela veio até aqui sem vontade e porque as pessoas estão olhando para ela, mas isso é mais do que esperava.::
 22427::$$$message_0201_0012_0000$$$::"Eu nunca gostei desse seu jeito de não planejar as coisas. Você se preocupa demais com as pessoas à sua volta, mas trata a si mesmo de um jeito relaxado demais.[lr]::
-22428::$$$message_0201_0012_0001$$$::E como resultado, você acaba pagando pelo preço do seu próprio descuido.[lr]::
+22428::$$$message_0201_0012_0001$$$::Como resultado, você acaba pagando pelo preço do seu próprio descuido.[lr]::
 22429::$$$message_0201_0012_0002$$$::[line2]Você está me ouvindo, Shirou!?"::
 22430::$$$message_0201_0013_0000$$$::"Estou. Basicamente, você não está feliz por ter vindo até aqui, não é Saber?[lr]::
 22431::$$$message_0201_0013_0001$$$::Bem, eu já sabia que você não iria gostar disso, porque é óbvio que ir comigo para qualquer lugar seria chato."::
@@ -45,7 +45,7 @@ id=qid::label=str::text=lstr::
 22444::$$$message_0201_0018_0002$$$::Acho que primeiro devia ser um aquário ou algo assim.[lr]::
 22445::$$$message_0201_0018_0003$$$::Certo, decidido. Tomo coragem e seguro a mão da Saber..::
 22446::$$$message_0201_0019_0000$$$::"E-Ei, Shirou! E-Eu não tenho nenhuma reclamação, mas você não precisa segurar a minha mão!"[lr]::
-22447::$$$message_0201_0019_0001$$$::"Hm? É que nós temos que nos apressar para não perdermos tempo. Eu vou te mostrar o caminho, então é só me seguir."::
+22447::$$$message_0201_0019_0001$$$::"Hm? É que nós temos que nós apressar para não perdermos tempo. Eu vou te mostrar o caminho, então é só me seguir."::
 22448::$$$message_0201_0020_0000$$$::"Eh... não, eu não posso fazer isso nessa situação...!"[lr]::
 22449::$$$message_0201_0020_0001$$$::Sem esperar a resposta da Saber, começo a correr.[lr]::
 22450::$$$message_0201_0020_0002$$$::Já que acabei de ter uma conversa séria com a Saber, eu não posso ficar com medo.[lr]::
@@ -63,16 +63,16 @@ id=qid::label=str::text=lstr::
 22462::$$$message_0201_0025_0001$$$::Parece mais uma disputa, uma briga até a morte, onde quem desistir primeiro perde.::
 22463::$$$message_0201_0026_0000$$$::A Saber faz a mesma cara em todos os lugares que eu a levo, e às vezes ela fica tão calada que eu começo a pensar que está brava comigo.[lr]::
 22464::$$$message_0201_0026_0001$$$::Ela não demonstrou nenhuma reação, então eu comecei a ficar desesperado para deixá-la feliz toda vez que a gente passava em um lugar diferente.::
-22465::$$$message_0201_0027_0000$$$::No final, eu fiquei tão teimoso em fazer com que a Saber se divertisse que fiquei correndo de um lado para o outro a manhã inteira. Mas já passou de meio-dia e eu não tive muito sucesso.::
+22465::$$$message_0201_0027_0000$$$::o final, eu fiquei tão teimoso em fazer com que a Saber se divertisse que fiquei correndo de um lado para o outro a manhã inteira. Mas já passou de meio-dia e eu não tive muito sucesso.::
 22466::$$$message_0201_0028_0000$$$::Então.[lr]::
 22467::$$$message_0201_0028_0001$$$::Como a Saber me avisou que já está na hora do almoço, eu resolvi dar uma parada, mas...::
 22468::$$$message_0201_0029_0000$$$::"...Mas que lugar é esse?"[lr]::
-22469::$$$message_0201_0029_0001$$$::Assim que nos conduzem até a mesa, deixo escapar a reclamação sem querer.::
+22469::$$$message_0201_0029_0001$$$::Assim que nós conduzem até a mesa, deixo escapar a reclamação sem querer.::
 22470::$$$message_0201_0030_0000$$$::'Se for para almoçar, recomendo o café à beira do rio.'[lr]::
 22471::$$$message_0201_0030_0001$$$::Esse foi o único conselho que a Tohsaka tinha me dado ontem à noite.[lr]::
 22472::$$$message_0201_0030_0002$$$::Confiei nela e decidi vir até aqui, mas não esperava que esse lugar fosse tão sofisticado.::
 22473::$$$message_0201_0031_0000$$$::"......"[lr]::
-22474::$$$message_0201_0031_0001$$$::Peo o cardápio e dou uma olhada.[lr]::
+22474::$$$message_0201_0031_0001$$$::Peço o cardápio e dou uma olhada.[lr]::
 22475::$$$message_0201_0031_0002$$$::Felizmente ele também tem uma versão em japonês, então eu consigo entendê-lo.[lr]::
 22476::$$$message_0201_0031_0003$$$::Mas o problema é que não consigo adivinhar o que é cada comida só pelo nome, isso sem falar que os preços daqui são um absurdo.::
 22477::$$$message_0201_0032_0000$$$::"...Será que estou em Marte? Eu não tenho a menor ideia do que pedir..."[lr]::
@@ -97,7 +97,7 @@ id=qid::label=str::text=lstr::
 22496::$$$message_0201_0041_0000$$$::Se a gente só está precisando comer um lanche simples, então não tem problema.[lr]::
 22497::$$$message_0201_0041_0001$$$::Escolho dois pratos que parecem ser do menu de almoço e decidimos comer sem enrolação::
 22498::$$$message_0201_0042_0000$$$::Fico pensando no que nós vamos fazer de tarde enquanto tomo o meu café pós-refeição.[lr]::
-22499::$$$message_0201_0042_0001$$$::A principal coisa que aprendi esta manhã é que atividades do tipo boliche e afins, em que se movimenta o corpo, não são uma ideia muito boa.::
+22499::$$$message_0201_0042_0001$$$::A principal coisa que aprendi está manhã é que atividades do tipo boliche e afins, em que se movimenta o corpo, não são uma ideia muito boa.::
 22500::$$$message_0201_0043_0000$$$::A Saber não se segura quando está competindo com alguém.[lr]::
 22501::$$$message_0201_0043_0001$$$::Eu acho isso legal, mas o problema é que, sendo alguém que já chama atenção naturalmente, ela acaba se destacando ainda mais.[lr]::
 22502::$$$message_0201_0043_0002$$$::Depois que nós terminamos um jogo, a Saber ficou estressada porque chamou a atenção de todo mundo.::
@@ -113,7 +113,7 @@ id=qid::label=str::text=lstr::
 22512::$$$message_0201_0047_0001$$$::A Saber está sentada tomando chá.[lr]::
 22513::$$$message_0201_0047_0002$$$::Ela não parece estar feliz e nem entediada.::
 22514::$$$message_0201_0048_0000$$$::Se tivesse que descrevê-la, eu diria que ela está se comportando naturalmente.[lr]::
-22515::$$$message_0201_0048_0001$$$::Ela está bebendo o seu chá, sentada bem onde a luz do Sol não está batendo.[lr]::
+22515::$$$message_0201_0048_0001$$$::Ela está bebêndo o seu chá, sentada bem onde a luz do Sol não está batendo.[lr]::
 22516::$$$message_0201_0048_0002$$$::Por mais que essa seja a primeira vez que eu estou vendo uma coisa assim, isso não me parece estranho. É como se eu já tivesse visto essa cena antes.[lr]::
 22517::$$$message_0201_0048_0003$$$::...Por que será que eu tenho essa impressão?[lr]::
 22518::$$$message_0201_0048_0004$$$::A Saber que eu conheço é uma garota rigorosa que está sempre lutando.::
@@ -124,11 +124,10 @@ id=qid::label=str::text=lstr::
 22523::$$$message_0201_0050_0000$$$::Essa cena parece ser natural para mim porque eu sei que ela é assim.[lr]::
 22524::$$$message_0201_0050_0001$$$::A Saber pode ser um cavaleiro incrível, mas no final ela sempre foi desse jeito.[lr]::
 22525::$$$message_0201_0050_0002$$$::Ou melhor, a parte estranha mesmo é ela segurar uma espada.::
-22526::$$$message_0201_0051_0000$$$::...Teve uma vez nos meus sonhos em que eu cheguei à conclusão de que ela não foi feita para lutar.[lr]::
+22526::$$$message_0201_0051_0000$$$::...Uma vez, num sonho, cheguei à conclusão de que ela foi feita para lutar.[lr]::
 22527::$$$message_0201_0051_0001$$$::Não acho que estava errado.[lr]::
 22528::$$$message_0201_0051_0002$$$::Para mim, não interessa que ela seja habilidosa ou que tenha presenciado muitas batalhas...[lr]::
 22529::$$$message_0201_0051_0003$$$::Do jeito que ela é, a sua vida de cavaleiro não deve ter sido nem um pouco agradável.::
 22530::$$$message_0201_0052_0000$$$::...Então isso é normal.[lr]::
 22531::$$$message_0201_0052_0001$$$::A Saber está descansando, e não segurando uma espada.[lr]::
 22532::$$$message_0201_0052_0002$$$::Essa cena tranquila mostra que é assim que ela deveria ser.::
-

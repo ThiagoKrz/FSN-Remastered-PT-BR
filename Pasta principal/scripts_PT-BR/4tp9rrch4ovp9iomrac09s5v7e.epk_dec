@@ -18,7 +18,7 @@ id=qid::label=str::text=lstr::
 9271::$$$message_0092_0006_0000$$$::"Obrigada. Na próxima me traz chá. Se for instantâneo, prefiro chá com leite. Se for qualquer outro, meu nível de gratidão cai, então fique avisado."[lr]::
 9272::$$$message_0092_0006_0001$$$::"Tá, se eu lembrar eu trago. Então, por que me chamou aqui? Vendo que escolheu um lugar isolado, assumo que seja sobre 'aquele' assunto."::
 9273::$$$message_0092_0007_0000$$$::"É-é claro. Sobre o que mais falaríamos?"[lr]::
-9274::$$$message_0092_0007_0001$$$::"Sim, tem razão. E então, o que é?"[lr]::
+9274::$$$message_0092_0007_0001$$$::"Sim, tem razão. Então, o que é?"[lr]::
 9275::$$$message_0092_0007_0002$$$::"...Nossa, você está bem tranquilo com tudo isso, hein?"::
 9276::$$$message_0092_0008_0000$$$::"Hã? Bem, está frio, então quero acabar com isso logo.[lr]::
 9277::$$$message_0092_0008_0001$$$::Você não se sente assim?"[lr]::
@@ -46,7 +46,7 @@ id=qid::label=str::text=lstr::
 9299::$$$message_0092_0017_0001$$$::"Isso. Há um inimigo à espreita. Entendeu, Emiya-kun? Se você não ficar esperto, vai acabar morto."::
 9300::$$$message_0092_0018_0000$$$::"[line5]"[lr]::
 9301::$$$message_0092_0018_0001$$$::Meus sentidos, que estavam relaxados, ficam em alerta.[lr]::
-9302::$$$message_0092_0018_0002$$$::"...E então? Você sabe quem é esse Mestre, Tohsaka?"::
+9302::$$$message_0092_0018_0002$$$::"...Então? Você sabe quem é esse Mestre, Tohsaka?"::
 9303::$$$message_0092_0019_0000$$$::"Não, mas tenho algumas suspeitas, só não tenho provas ainda. Eu sabia que tinha outro mago na escola, mas ser mago não significa necessariamente ser um Mestre."[lr]::
 9304::$$$message_0092_0019_0001$$$::"Já que existem amadores que viraram Mestres por acaso, tipo você, não posso ter certeza de nada ainda."::
 9305::$$$message_0092_0020_0000$$$::"Ei. Não sou um completo amador, sou um mago que se preza. Mas espera aí, Tohsaka. Tem outro mago na nossa escola!?"::
@@ -63,7 +63,7 @@ id=qid::label=str::text=lstr::
 9316::$$$message_0092_0026_0000$$$::"A sua casa é um caso especial. Acho que seu pai era um lobo solitário que se afastou da Associação. Ele deve ter gostado desta cidade e ficou por aqui, mas Fuyuki está sob supervisão dos Tohsakas.[lr]::
 9317::$$$message_0092_0026_0001$$$::Se descobríssemos, tomaríamos tudo o que pudéssemos dele, então acho que ele se escondia para evitar isso."::
 9318::$$$message_0092_0027_0000$$$::"O[line3]O que você quer dizer com 'tomar tudo o que pudesse'?"::
-9319::$$$message_0092_0028_0000$$$::"Ficou curioso? Eu venho coletar quando você amadurecer, então fique no aguardo."[lr]::
+9319::$$$message_0092_0028_0000$$$::"Ficou curioso? Eu venho coletar quando você amadurecer, então fique no águardo."[lr]::
 9320::$$$message_0092_0028_0001$$$::"...Puxa. Você realmente usa uma máscara na frente dos outros.[lr]::
 9321::$$$message_0092_0028_0002$$$::Como você consegue ser a aluna exemplar com essa personalidade de impostora?"::
 9322::$$$message_0092_0029_0000$$$::"Ah, tem algo errado nisso? É responsabilidade de um mago cuidar da sua aparência exterior, sabia?[lr]::
@@ -78,7 +78,7 @@ id=qid::label=str::text=lstr::
 9331::$$$message_0092_0032_0002$$$::Você está completamente certo, não tenho como argumentar contra isso."::
 9332::$$$message_0092_0033_0000$$$::Dizendo isso, a Tohsaka abre a lata que estava usando para aquecer as mãos.[lr]::
 9333::$$$message_0092_0033_0001$$$::...Ela toma pequenos goles do café.[lr]::
-9334::$$$message_0092_0033_0002$$$::Pelo que conheço dela, achei que beberia tudo de uma vez, mas ela é bem delicada com essas coisas.::
+9334::$$$message_0092_0033_0002$$$::Pelo que conheço dela, achei que bebêria tudo de uma vez, mas ela é bem delicada com essas coisas.::
 9335::$$$message_0092_0034_0000$$$::"Vamos voltar ao assunto.[lr]::
 9336::$$$message_0092_0034_0001$$$::Enfim, só existem dois magos em Fuyuki.[lr]::
 9337::$$$message_0092_0034_0002$$$::Outros Mestres devem ter vindo de fora, ou são 'irregulares' escolhidos por saberem o mínimo de magia."::
@@ -110,7 +110,7 @@ id=qid::label=str::text=lstr::
 9363::$$$message_0092_0048_0000$$$::"Eu tentei, mas sem sucesso. Descobri todos os pontos de origem, mas não posso destruí-los. Só consigo enfraquecê-los temporariamente para atrasar a ativação."::
 9364::$$$message_0092_0049_0000$$$::"Hm... então ele não vai ativar enquanto você estiver aqui cuidando disso?"::
 9365::$$$message_0092_0050_0000$$$::"...Seria bom, mas é puro otimismo. O Campo Limitado já está pronto e a energia mágica está se acumulando aos poucos. Segundo o Archer, deve ficar pronto em uns oito dias."::
-9366::$$$message_0092_0051_0000$$$::"Quando isso acontecer, esta escola vai virar um inferno assim que o Mestre ou o Servo quiserem."[lr]::
+9366::$$$message_0092_0051_0000$$$::"Quando isso acontecer, está escola vai virar um inferno assim que o Mestre ou o Servo quiserem."[lr]::
 9367::$$$message_0092_0051_0001$$$::"[line3]Então, antes que isso aconteça..."::
 9368::$$$message_0092_0052_0000$$$::"Temos que derrotar o Mestre que está se escondendo aqui."[lr]::
 9369::$$$message_0092_0052_0001$$$::"Mas encontrá-lo vai ser difícil. Ele já 'ganhou' assim que montou a armadilha. O Campo Limitado vai ativar mesmo que ele não faça nada, então ele não vai dar as caras até lá. A única chance que temos..."::
@@ -118,7 +118,7 @@ id=qid::label=str::text=lstr::
 9371::$$$message_0092_0053_0001$$$::"Exatamente. Então fique quieto por enquanto. Você vai ter que lutar quando a hora chegar, então seria burrice tentar caçá-lo agora e ser pego de surpresa."::
 9372::$$$message_0092_0054_0000$$$::O sinal da aula ecoa pelo telhado gelado.[lr]::
 9373::$$$message_0092_0054_0001$$$::O intervalo acabou.::
-9374::$$$message_0092_0055_0000$$$::"Isso que eu tinha por hoje. Tenho que ir para outro lugar, então vá para casa sozinho. E tente não se desviar do caminho de volta."[lr]::
+9374::$$$message_0092_0055_0000$$$::"Isso que eu tinha por hoje. Tenho que ir para outro lugar, então vá para casa sozinho. Tente não se desviar do caminho de volta."[lr]::
 9375::$$$message_0092_0055_0001$$$::A Tohsaka sai, me deixando com um "te vejo por aí".::
 9376::$$$message_0092_0056_0000$$$::"[line5]"[lr]::
 9377::$$$message_0092_0056_0001$$$::Não tem como eu me sentir bem com isso.[lr]::
@@ -134,4 +134,3 @@ id=qid::label=str::text=lstr::
 9387::$$$message_0092_0058_0004$$$::Querer que um "vilão" apareça só para eu ter quem derrotar... esse não é o meu desejo.::
 9388::$$$message_0092_0059_0000$$$::O período de aulas termina e os alunos começam a esvaziar as salas.[lr]::
 9389::$$$message_0092_0059_0001$$$::Eu normalmente iria para a sala do conselho estudantil, mas já que a Tohsaka me deu ordens diretas para ir para casa, vou obedecer.::
-

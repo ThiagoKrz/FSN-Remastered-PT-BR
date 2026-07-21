@@ -13,17 +13,17 @@ id=qid::label=str::text=lstr::
 1538::$$$message_0014_0003_0000$$$::Normalmente, não há caminhos no corpo humano que permitem o fluxo de energia mágica.[lr]::
 1539::$$$message_0014_0003_0001$$$::Pra artificialmente alterar o meu corpo e criar tais caminhos, eu preciso de concentração suficiente pra unificar o meu corpo inteiro e cada nervo dentro dele.::
 1540::$$$message_0014_0004_0000$$$::A magia é uma batalha consigo mesmo.[lr]::
-1541::$$$message_0014_0004_0001$$$::Por exemplo: nesse exato momento, eu estou inserindo uma haste de aço ardente na minha espinha.[lr]::
+1541::$$$message_0014_0004_0001$$$::Por exemplo: nesse exato momento, eu estou inserindo uma haste de ação ardente na minha espinha.[lr]::
 1542::$$$message_0014_0004_0002$$$::Essa haste de metal é o único "Circuito Mágico" que eu consigo preparar para mim.[lr]::
 1543::$$$message_0014_0004_0003$$$::Quando eu a insiro profundamente dentro do meu corpo e a conecto aos meus outros nervos, eu finalmente consigo me tornar um mago.::
 1544::$$$message_0014_0005_0000$$$::Isso não é uma metáfora.[lr]::
 1545::$$$message_0014_0005_0001$$$::Algo como um tenaz abrasado que não pode ser visto ou sentido está realmente sendo inserido na minha espinha.::
 1546::$$$message_0014_0006_0000$$$::[line4]Eu sou um mago.[lr]::
 1547::$$$message_0014_0006_0001$$$::Emiya Kiritsugu, o homem que disse isso, era um verdadeiro mago.[lr]::
-1548::$$$message_0014_0006_0002$$$::Um mago de verdade, um que realizou inúmeras maravilhas e já tocou a própria estrutura do mundo.[lr]::
+1548::$$$message_0014_0006_0002$$$::Um mago genuíno que estudou diversos Mistérios, se aproximou da própria estrutura do mundo e executou milagres.[lr]::
 1549::$$$message_0014_0006_0003$$$::Quando criança, eu o admirei e pedi a ele que me ensinasse magia.::
 1550::$$$message_0014_0007_0000$$$::Mas você não pode se tornar um mago apenas através de esforço. Isso requer tanto talento natural quanto conhecimento apropriado.[lr]::
-1551::$$$message_0014_0007_0001$$$::E claro, eu não possuo talento, e o Kiritsugu não me ensinou nada sobre magia.[lr]::
+1551::$$$message_0014_0007_0001$$$::É claro, eu não possuo talento, e o Kiritsugu não me ensinou nada sobre Magia.[lr]::
 1552::$$$message_0014_0007_0002$$$::Ele disse algo sobre eu não precisar desse tipo de conhecimento.::
 1553::$$$message_0014_0008_0000$$$::Eu ainda não sei o que ele quis dizer com aquilo.[lr]::
 1554::$$$message_0014_0008_0001$$$::Mas ainda assim, naquela época isso não importava.[lr]::
@@ -31,7 +31,7 @@ id=qid::label=str::text=lstr::
 1556::$$$message_0014_0009_0000$$$::Mas eu não nasci com talento ou com Circuitos Mágicos poderosos, e nem sequer possuo o conhecimento mágico acumulado que é passado de geração em geração em uma família.::
 1557::$$$message_0014_0010_0000$$$::A obra mágica que o Kiritsugu possuía, o Brasão Mágico passado pela família Emiya, só pode ser passado adiante para um parente de sangue.[lr]::
 1558::$$$message_0014_0010_0001$$$::Um Brasão Mágico rejeita aqueles com quem não possui ligação sanguínea.[lr]::
-1559::$$$message_0014_0010_0002$$$::E assim, por ser um filho adotivo, eu não pude receber o Brasão Mágico da família Emiya.::
+1559::$$$message_0014_0010_0002$$$::Por ser um filho adotivo, eu não pude receber o Brasão Mágico da família Emiya.::
 1560::$$$message_0014_0011_0000$$$::Bom, de qualquer modo...[lr]::
 1561::$$$message_0014_0011_0001$$$::Já que eu nem sequer sei o que um Brasão Mágico é, não importa se eu tenho um ou não.::
 1562::$$$message_0014_0012_0000$$$::Então agora, tudo depende de eu treinar naquilo que consigo fazer.[lr]::
@@ -46,7 +46,7 @@ id=qid::label=str::text=lstr::
 1571::$$$message_0014_0015_0001$$$::É como um filtro.[lr]::
 1572::$$$message_0014_0015_0002$$$::Um mago torna o seu corpo todo em um filtro, suga a mana do mundo ao seu redor, e a transforma em algo que ele pode usar.[lr]::
 1573::$$$message_0014_0015_0003$$$::Esse filtro é o que chamamos de Circuito Mágico.::
-1574::$$$message_0014_0016_0000$$$::Esse é o talento ao qual me refiro, e o número de Circuitos Mágicos dentro de você é algo determinado no momento em que você nasce.[lr]::
+1574::$$$message_0014_0016_0000$$$::Esse é o talento ao qual me refiro, e o número de Circuitos Mágicos dentro de você é algo determinado nNo momento em que você nasce.[lr]::
 1575::$$$message_0014_0016_0001$$$::Humanos normalmente não possuem muitos Circuitos Mágicos.[lr]::
 1576::$$$message_0014_0016_0002$$$::Pra começar, nós sempre possuímos muito pouco deles.[lr]::
 1577::$$$message_0014_0016_0003$$$::É por isso que os magos acumulam Circuitos geração após geração, para que seus filhos sejam mais aptos ao uso da magia.[lr]::
@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 1583::$$$message_0014_0018_0003$$$::Tudo que eu sei é que até mesmo eu tenho um tipo de magia que posso usar, e que se eu treinar essa magia, eu posso ser capaz de me tornar igual ao Kiritsugu.::
 1584::$$$message_0014_0019_0000$$$::É por isso que eu aprendi apenas aquela magia.[lr]::
 1585::$$$message_0014_0019_0001$$$::Isso foi oito anos atrás.[lr]::
-1586::$$$message_0014_0019_0002$$$::Depois de pensar muito sobre isso, o Kiritsugu enfim me aceitou como seu aprendiz.::
+1586::$$$message_0014_0019_0002$$$::Depois de pénsar muito sobre isso, o Kiritsugu enfim me aceitou como seu aprendiz.::
 1587::$$$message_0014_0020_0000$$$::[line3]Ouça bem, Shirou. Aprender magia significa afastar-se do senso comum. Você morre quando chegar a sua hora, e você mata quando for necessário.[lr]::
 1588::$$$message_0014_0020_0001$$$::A nossa essência não está na vida mas sim na morte. Magia é simplesmente um meio de se auto-destruir.::
 1589::$$$message_0014_0021_0000$$$::Acho que eu não tinha medo quando criança.[lr]::
@@ -81,7 +81,7 @@ id=qid::label=str::text=lstr::
 1606::$$$message_0014_0025_0004$$$::Eu não seria mais do que um amador se falhasse em uma parte tão básica...::
 1607::$$$message_0014_0025_0005$$$::"Hnnnh.... Haaah... Hrrk..."[lr]::
 1608::$$$message_0014_0025_0006$$$::Eu cerro os meus dentes e prossigo com a conexão.[lr]::
-1609::$$$message_0014_0025_0007$$$::Após uma batalha sobre uma montanha de agulhas, a haste de aço finalmente está profundamente dentro de mim, se fundindo então com o meu corpo.::
+1609::$$$message_0014_0025_0007$$$::Após uma batalha sobre uma montanha de agulhas, a haste de ação finalmente está profundamente dentro de mim, se fundindo então com o meu corpo.::
 1610::$$$message_0014_0025_0008$$$::Esse processo levou em torno de uma hora...[lr]::
 1611::$$$message_0014_0025_0009$$$::Depois de todo esse tempo, eu finalmente sou capaz de produzir um circuito artificial... um circuito capaz de produzir energia mágica.::
 1612::$$$message_0014_0026_0000$$$::"[line3]Estrutura básica, analisar."[lr]::
@@ -92,7 +92,7 @@ id=qid::label=str::text=lstr::
 1617::$$$message_0014_0027_0001$$$::Ela é...::
 1618::$$$message_0014_0028_0000$$$::"[line3]Composição, analisar."[lr]::
 1619::$$$message_0014_0028_0001$$$::Reforçar objetos.[lr]::
-1620::$$$message_0014_0028_0002$$$::É uma magia de "reforçamento" que, compreendendo a estrutura de um objeto, reforça a habilidade do mesmo através da canalização de energia mágica dentro dele.::
+1620::$$$message_0014_0028_0002$$$::É uma magia de "fortalecimento" que, compreendendo a estrutura de um objeto, reforça a habilidade do mesmo através da canalização de energia mágica dentro dele.::
 1621::$$$message_0014_0029_0000$$$::"[line3]Estrutura básica, alterar."[lr]::
 1622::$$$message_0014_0029_0001$$$::Em minha frente há um cano de metal.[lr]::
 1623::$$$message_0014_0029_0002$$$::Eu irei canalizar a minha energia mágica nele, realizarei a mais simples das magias, e com isso reforçarei a sua resistência.::
@@ -114,7 +114,7 @@ id=qid::label=str::text=lstr::
 1639::$$$message_0014_0035_0001$$$::O que eu estou tentando fazer é como tentar adicionar algo a uma obra de arte já concluída.::
 1640::$$$message_0014_0036_0000$$$::Adicionar a um objeto completo arrisca torná-lo menos perfeito.[lr]::
 1641::$$$message_0014_0036_0001$$$::Adicionar coisas desnecessárias na verdade diminui o seu valor.[lr]::
-1642::$$$message_0014_0036_0002$$$::É por isso que a magia de "reforçamento" é simples porém complexa, e apenas poucos magos a usam por escolha própria.::
+1642::$$$message_0014_0036_0002$$$::É por isso que a magia de "fortalecimento" é simples porém complexa, e apenas poucos magos a usam por escolha própria.::
 1643::$$$message_0014_0037_0000$$$::Não é como se eu fosse um desses, mas não tem outro jeito já que ela é a única magia com a qual eu sou bom...[lr]::
 1644::$$$message_0014_0037_0001$$$::Seria muito mais fácil se eu pudesse apenas formar algo a partir de argila pra usar ao invés disso, mas fazer algo com a mesma aparência externa não cobre as falhas na estrutura interna.::
 1645::$$$message_0014_0038_0000$$$::As tralhas aqui são um exemplo disso.[lr]::
@@ -143,17 +143,16 @@ id=qid::label=str::text=lstr::
 1668::$$$message_0014_0044_0002$$$::Um mago habilidoso apenas detecta o que é importante e canaliza energia mágica nisso sem causar desperdícios.::
 1669::$$$message_0014_0045_0000$$$::"Meu sonho é me tornar um herói da justiça."::
 1670::$$$message_0014_0046_0000$$$::Eu me lembro do que a Fuji-nee disse durante o jantar.[lr]::
-1671::$$$message_0014_0046_0001$$$::Eu não acho que seja envergonhante nem impossível.[lr]::
+1671::$$$message_0014_0046_0001$$$::Não acho que seja envergonhante nem impossível.[lr]::
 1672::$$$message_0014_0046_0002$$$::Isso já está determinado: Emiya Shirou irá suceder a Emiya Kiritsugu.::
 1673::$$$message_0014_0047_0000$$$::É por isso que mesmo sendo inexperiente, eu faço tudo que posso.[lr]::
-1674::$$$message_0014_0047_0001$$$::Eu não sei que tipo de pessoa um herói da justiça deveria ser.[lr]::
+1674::$$$message_0014_0047_0001$$$::Eu não sei que tipo de péssoa um herói da justiça deveria ser.[lr]::
 1675::$$$message_0014_0047_0002$$$::Então eu apenas sou capaz de tentar me tornar um ajudando os outros dentro do limite das minhas habilidades.::
 1676::$$$message_0014_0048_0000$$$::Eu caminhei em direção a esse objetivo pelos últimos cinco anos, mas quando as coisas dão errado como agora, eu tenho algumas dúvidas.[lr]::
-1677::$$$message_0014_0048_0001$$$::"Sigh... Eu não entendo, pai.[lr]::
+1677::$$$message_0014_0048_0001$$$::"Argh... Eu não entendo, pai.[lr]::
 1678::$$$message_0014_0048_0002$$$::Como é que eu posso me tornar um herói da justiça?"::
 1679::$$$message_0014_0049_0000$$$::Eu olho para o céu pela janela.[lr]::
 1680::$$$message_0014_0049_0001$$$::Não é como se eu pudesse simplesmente fazer boas ações aleatoriamente.[lr]::
 1681::$$$message_0014_0049_0002$$$::Eu acredito que ser um herói da justiça é diferente de apenas ajudar os outros.[lr]::
 1682::$$$message_0014_0049_0003$$$::Eu sei disso, mas a questão é: como me tornar um?[lr]::
 1683::$$$message_0014_0049_0004$$$::O que eu falhei em entender pelos últimos cinco anos é a diferença entre essas duas coisas.::
-

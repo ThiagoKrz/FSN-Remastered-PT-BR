@@ -1,131 +1,130 @@
 DAT
 id=qid::label=str::text=lstr::
-45394::$$$message_0401_0000_0000$$$::"Hah[line4]!"[lr]::
-45395::$$$message_0401_0000_0001$$$::Eu oponho a longa espada com uma longa espada.[lr]::
-45396::$$$message_0401_0000_0002$$$::As espadas quebram uma a outra e estilhaços voam.::
-45397::$$$message_0401_0001_0000$$$::"Droga, não[line4]"[lr]::
-45398::$$$message_0401_0001_0001$$$::Uma espada curvada aparece atrás dele.[lr]::
-45399::$$$message_0401_0001_0002$$$::"...Se superestima, criança[line4]!"[lr]::
-45400::$$$message_0401_0001_0003$$$::Mas eu empurro a espada curvada próxima aos meus pés mais rápido que ele.[lr]::
-45401::$$$message_0401_0001_0004$$$::E eu balanço ela diretamente nele[line3]!::
-45402::$$$message_0401_0002_0000$$$::"[line4]!"[lr]::
-45403::$$$message_0401_0002_0001$$$::O Gilgamesh recua.[lr]::
-45404::$$$message_0401_0002_0002$$$::Eu diminuo a distância mais uma vez, puxo uma espada, e balanço nele.::
-45405::$$$message_0401_0003_0000$$$::"Guh, por quê...![lr]::
-45406::$$$message_0401_0003_0001$$$::Por que que eu tô perdendo para a espada de um vira-lata...!?"[lr]::
-45407::$$$message_0401_0003_0002$$$::Eu colido minhas espadas contra os fantasmas nobres que aparecem.::
-45408::$$$message_0401_0004_0000$$$::"Haa[line4]haa, haa, haa, ha[line4]!"[lr]::
-45409::$$$message_0401_0004_0001$$$::Eu não tô pensando.[lr]::
-45410::$$$message_0401_0004_0002$$$::Meu corpo e minha mente vão falhar se eu parar.[lr]::
-45411::$$$message_0401_0004_0003$$$::É por isso que eu vou continuar seguindo em frente.[lr]::
-45412::$$$message_0401_0004_0004$$$::No instante que eu vejo o fantasma nobre dele, eu recrio o mesmo e balanço com toda minha força[line4]!::
-45413::$$$message_0401_0005_0000$$$::"Impossível[line3]eu estou sendo encurralado por uma farsa assim...!?"::
-45414::$$$message_0401_0006_0000$$$::"Fuh, hah[line4]!"[lr]::
-45415::$$$message_0401_0006_0001$$$::Os sons das minhas espadas chocando ecoam pela área.[lr]::
-45416::$$$message_0401_0006_0002$$$::Ele não consegue lidar com meus ataques e tem que destruir minha arma com a dele.::
-45417::$$$message_0401_0007_0000$$$::[line3]Essa vai ser a causa da derrota dele.[lr]::
-45418::$$$message_0401_0007_0001$$$::Ele é o espírito heroico mais grandioso, já que ele tem milhares de fantasmas nobres a mão.::
-45419::$$$message_0401_0008_0000$$$::Mas ele é somente um "dono".[lr]::
-45420::$$$message_0401_0008_0001$$$::Ele não possui uma única arma, então ele não é "portador" que consegue usar sua arma até o potencial máximo.::
-45421::$$$message_0401_0009_0000$$$::Até mesmo nesse mundo, eu não sou páreo pra nenhum outro servo.[lr]::
-45422::$$$message_0401_0009_0001$$$::Eu não posso lidar com o servo supremo até com espadas infinitas.[lr]::
-45423::$$$message_0401_0009_0002$$$::O Gilgamesh deve ter a habilidade, mas eu não.::
-45424::$$$message_0401_0010_0000$$$::Então[line3]esse é o único Servo que eu sou páreo.[lr]::
-45425::$$$message_0401_0010_0001$$$::Como nós temos a mesma habilidade, já que somos ambos "donos", eu tô sempre um passo a frente dele já que minhas espadas tão ali, prontas pra serem usadas...!::
-45426::$$$message_0401_0011_0000$$$::"Droga[line4]Droga, drogadrogadrogadroga...!!! Eu não pensei que precisaria usar minha espada contra um vira-lata como você...!"[lr]::
-45427::$$$message_0401_0011_0001$$$::O Gilgamesh levanta sua mão.[lr]::
-45428::$$$message_0401_0011_0002$$$::A espada aparecendo atrás dele é a espada demoníaca, a única espada que não existe nesse mundo[line4]!::
-45429::$$$message_0401_0012_0000$$$::"Eu não vou te deixar[line4]!"[lr]::
-45430::$$$message_0401_0012_0001$$$::"Gah[line4]!?"[lr]::
+45394::$$$message_0401_0000_0000$$$::"Hah...!"[lr]::
+45395::$$$message_0401_0000_0001$$$::Eu rebato os sucessivos golpes da espada longa com outra espada longa.[lr]::
+45396::$$$message_0401_0000_0002$$$::As espadas se anulam, e os estilhaços voam pelos ares. ::
+45397::$$$message_0401_0001_0000$$$::"Ei, não..."[lr]::
+45398::$$$message_0401_0001_0001$$$::O punho de uma espada curva surge atrás dele.[lr]::
+45399::$$$message_0401_0001_0002$$$::"...Não se ache demais, moleque...!"[lr]::
+45400::$$$message_0401_0001_0003$$$::Mas eu sou mais rápido...[lr]::
+45401::$$$message_0401_0001_0004$$$::Arranco a espada curva aos pés dele e a golpeio em cheio...!::
+45402::$$$message_0401_0002_0000$$$::"Ngh!"[lr]::
+45403::$$$message_0401_0002_0001$$$::Gilgamesh recua.[lr]::
+45404::$$$message_0401_0002_0002$$$::Eu encurto a distância de uma vez, puxo outra espada e o golpeio.::
+45405::$$$message_0401_0003_0000$$$::"Guh, por quê...!?[lr]::
+45406::$$$message_0401_0003_0001$$$::Por que estou perdendo para a espada de um vira-lata...!?"[lr]::
+45407::$$$message_0401_0003_0002$$$::Eu rebato a sucessão frenética de Fantasmas Nobres com a minha espada.::
+45408::$$$message_0401_0004_0000$$$::"Haaah... Haaah, haaah, haaah, haaah...!"[lr]::
+45409::$$$message_0401_0004_0001$$$::Não estou pensando.[lr]::
+45410::$$$message_0401_0004_0002$$$::Meu corpo e minha mente vão parar se eu parar.[lr]::
+45411::$$$message_0401_0004_0003$$$::Agora, eu só posso continuar avançando.[lr]::
+45412::$$$message_0401_0004_0004$$$::o instante em que vejo o Fantasma Nobre dele, puxo um igual que já tenho à mão e golpeio com toda a força...!::
+45413::$$$message_0401_0005_0000$$$::"Impossível... Estou sendo acuado por uma imitação dessas...!?"::
+45414::$$$message_0401_0006_0000$$$::"Ngh, hngh...!"[lr]::
+45415::$$$message_0401_0006_0001$$$::O som das espadas se chocando ecoa por toda a área.[lr]::
+45416::$$$message_0401_0006_0002$$$::Ele não consegue lidar com meus ataques e precisa destruir minha arma com a dele.::
+45417::$$$message_0401_0007_0000$$$::É isso que vai levá-lo à derrota.[lr]::
+45418::$$$message_0401_0007_0001$$$::Com mais de mil Fantasmas Nobres, ele é sem dúvida o maior Espírito Heroico.::
+45419::$$$message_0401_0008_0000$$$::Mas, no fim das contas, ele só as possui.[lr]::
+45420::$$$message_0401_0008_0001$$$::Ele não é um verdadeiro portador, alguém com um único Fantasma Nobre e capaz de extrair dele todo o seu potencial.::
+45421::$$$message_0401_0009_0000$$$::Se meu oponente fosse qualquer outro Servo, eu jamais conseguiria acompanhá-lo, mesmo criando um mundo como este.[lr]::
+45422::$$$message_0401_0009_0001$$$::Mesmo com espadas infinitas, eu não venceria um inimigo que possui um único Fantasma Nobre supremo.[lr]::
+45423::$$$message_0401_0009_0002$$$::Tenho certeza de que Gilgamesh conseguiria, mas eu não tenho capacidade física para isso.::
+45424::$$$message_0401_0010_0000$$$::Portanto... o único Servo de quem eu consigo me aproximar é este homem.[lr]::
+45425::$$$message_0401_0010_0001$$$::Se temos a mesma habilidade e ambos somos apenas possuidores, eu sempre estarei um passo à frente, porque minhas espadas já estão prontas para o uso...!::
+45426::$$$message_0401_0011_0000$$$::"Droga... Droga, droga droga droga droga droga...!!! Jamais pensei que teria de usar minha espada contra alguém como você...!"[lr]::
+45427::$$$message_0401_0011_0001$$$::Gilgamesh ergue o braço.[lr]::
+45428::$$$message_0401_0011_0002$$$::O punho que surge atrás dele pertence àquela espada demoníaca, a única espada que não existe neste mundo...!::
+45429::$$$message_0401_0012_0000$$$::"Não vou deixar...!"[lr]::
+45430::$$$message_0401_0012_0001$$$::"Guh...!?"[lr]::
 45431::$$$message_0401_0012_0002$$$::Eu balanço minhas espadas gêmeas.[lr]::
-45432::$$$message_0401_0012_0003$$$::A Kanshou e Bakuya que eu puxo cortam o braço do Gilgamesh enquanto ele tenta alcançar sua espada[line4]!::
-45433::$$$message_0401_0013_0000$$$::"Quê[line4]"[lr]::
-45434::$$$message_0401_0013_0001$$$::As armas param.[lr]::
-45435::$$$message_0401_0013_0002$$$::O braço e espada caem no chão, deixando ele indefeso.::
-45436::$$$message_0401_0014_0000$$$::"Haa[line4]!"[lr]::
+45432::$$$message_0401_0012_0003$$$::Saco Kanshou e Bakuya no mesmo instante e decepo o braço de Gilgamesh quando ele o estende para alcançar a espada demoníaca...!::
+45433::$$$message_0401_0013_0000$$$::"Qu...[line2]"[lr]::
+45434::$$$message_0401_0013_0001$$$::As armas cessam.[lr]::
+45435::$$$message_0401_0013_0002$$$::Ele perde sua melhor espada e fica completamente indefeso.::
+45436::$$$message_0401_0014_0000$$$::"Hah...!"[lr]::
 45437::$$$message_0401_0014_0001$$$::Meu corpo age antes que eu consiga pensar.[lr]::
-45438::$$$message_0401_0014_0002$$$::Confiante na minha vitória, meus membros se movem pra cortar o Rei dos Heróis[line4]::
-45439::$$$message_0401_0015_0000$$$::"[line7]!"[lr]::
-45440::$$$message_0401_0015_0001$$$::Ele pula pra trás.[lr]::
-45441::$$$message_0401_0015_0002$$$::Mal desviando das espadas gêmeas, o Gilgamesh recua ainda mais.::
-45442::$$$message_0401_0016_0000$$$::"Kuh[line3]você é mais forte do que eu aqui...!"[lr]::
-45443::$$$message_0401_0016_0001$$$::O Gilgamesh admite sua derrota e tenta recuar.::
-45444::$$$message_0401_0017_0000$$$::"Eu não vou deixar você escapar."[lr]::
-45445::$$$message_0401_0017_0001$$$::Eu não vou deixar ele escapar.[lr]::
-45446::$$$message_0401_0017_0002$$$::Eu vou perder se ele recompor a sua postura. Eu tenho que decidir a luta aqui mesmo[line4]![lr]::
-45447::$$$message_0401_0018_0000$$$::"Droga[line5]!"[lr]::
-45448::$$$message_0401_0018_0001$$$::Ele deve ter percebido que não vai conseguir escapar, já que ele puxa um fantasma nobre de trás dele.[lr]::
+45438::$$$message_0401_0014_0002$$$::Com a vitória assegurada, meus braços e minhas pernas me lançam ainda mais fundo no espação do Rei dos Heróis para parti-lo ao meio...!::
+45439::$$$message_0401_0015_0000$$$::"...Guh!"[lr]::
+45440::$$$message_0401_0015_0001$$$::Ele salta para trás.[lr]::
+45441::$$$message_0401_0015_0002$$$::Gilgamesh recua, escapando por um triz das minhas espadas gêmeas.::
+45442::$$$message_0401_0016_0000$$$::"Khh... Neste momento, você é mais forte do que eu...!"[lr]::
+45443::$$$message_0401_0016_0001$$$::Gilgamesh admite a derrota e tenta recuar.::
+45444::$$$message_0401_0017_0000$$$::"Não vou deixar você escapar."[lr]::
+45445::$$$message_0401_0017_0001$$$::Se ele recuperar a calma, eu perco. Tenho de decidir a luta agora, antes que esse ímpeto esfrie...![lr]::
+45446::$$$message_0401_0017_0002$$$::"Maldito..."::
+45447::$$$message_0401_0018_0000$$$::"Droga...!"[lr]::
+45448::$$$message_0401_0018_0001$$$::Ele deve ter percebido que não conseguiria escapar, porque com o braço que lhe resta ele puxa um Fantasma Nobre por trás de si.[lr]::
 45449::$$$message_0401_0018_0002$$$::Mas eu sou mais rápido.[lr]::
-45450::$$$message_0401_0018_0003$$$::Eu com certeza vou[line4]::
-45451::$$$message_0401_0019_0000$$$::"[line8]Huh?"[lr]::
-45452::$$$message_0401_0019_0001$$$::"O quê[line7]?"[lr]::
+45450::$$$message_0401_0018_0003$$$::Enquanto isso, eu com certeza vou...::
+45451::$$$message_0401_0019_0000$$$::"...Hã?"[lr]::
+45452::$$$message_0401_0019_0001$$$::"O quê...?"[lr]::
 45453::$$$message_0401_0019_0002$$$::Nossas vozes se sobrepõem.[lr]::
-45454::$$$message_0401_0019_0003$$$::A mudança acontece em um instante.::
-45455::$$$message_0401_0020_0000$$$::A luz vinda do lago elimina o morro de espadas.[lr]::
-45456::$$$message_0401_0020_0001$$$::Uma grande energia mágica esmagou a já desaparecida Projeção de Realidade.::
-45457::$$$message_0401_0021_0000$$$::[line4]Tudo bem.[lr]::
-45458::$$$message_0401_0021_0001$$$::A luta foi decidida.[lr]::
-45459::$$$message_0401_0021_0002$$$::Eu posso derrotar esse Servo cortando ele com minhas espadas gêmeas.[lr]::
-45460::$$$message_0401_0021_0003$$$::Mas depois da Projeção de Realidade ser deslumbrada...::
-45461::$$$message_0401_0022_0000$$$::Um vão negro.[lr]::
-45462::$$$message_0401_0022_0001$$$::Um vão grande o suficiente pra engolir um ser humano.[lr]::
-45463::$$$message_0401_0022_0002$$$::Isso aparece na minha frente[line4]bem em cima do Gilgamesh.::
-45464::$$$message_0401_0023_0000$$$::"O q[line4]uê?"[lr]::
-45465::$$$message_0401_0023_0001$$$::O Gilgamesh olha pro próprio corpo em espanto.[lr]::
-45466::$$$message_0401_0023_0002$$$::...O corpo dele está sendo engulido.[lr]::
-45467::$$$message_0401_0023_0003$$$::O servo dourado é engulido pelo vão aparecendo no corpo dele.::
-45468::$$$message_0401_0024_0000$$$::"Es[line4]"[lr]::
-45469::$$$message_0401_0024_0001$$$::Ele quis dizer "espera"?[lr]::
-45470::$$$message_0401_0024_0002$$$::O vão impiedosamente engole o servo.[lr]::
-45471::$$$message_0401_0024_0003$$$::...Não há como ele escapar disso.[lr]::
-45472::$$$message_0401_0024_0004$$$::O vão foi aberto no corpo dele.[lr]::
-45473::$$$message_0401_0024_0005$$$::Não tem como alguém escapar de algo que tá no seu próprio corpo.::
-45474::$$$message_0401_0025_0000$$$::"[line4]O que foi isso...?"[lr]::
-45475::$$$message_0401_0025_0001$$$::Eu fico parado ali, estupefato.[lr]::
-45476::$$$message_0401_0025_0002$$$::O vão na minha frente tá encolhendo.::
-45477::$$$message_0401_0026_0000$$$::...Eu não sei o que é.[lr]::
-45478::$$$message_0401_0026_0001$$$::Mas parece que a Tohsaka e a Saber foram capazes de destruir o santo graal.[lr]::
-45479::$$$message_0401_0026_0002$$$::Meu único chute é que o efeito consequente criou um vão negro pra eliminar o Gilgamesh.::
-45480::$$$message_0401_0027_0000$$$::"......Ufa. Enfim, agora..."[lr]::
+45454::$$$message_0401_0019_0003$$$::A mudança acontece num instante.::
+45455::$$$message_0401_0020_0000$$$::O clarão vindo do lago apaga a colina de espadas.[lr]::
+45456::$$$message_0401_0020_0001$$$::A massa colossal de Energia Mágica varre a Projeção de Realidade, que já estava se desfazendo.::
+45457::$$$message_0401_0021_0000$$$::Tudo bem.[lr]::
+45458::$$$message_0401_0021_0001$$$::A luta já está decidida.[lr]::
+45459::$$$message_0401_0021_0002$$$::Posso derrotar esse Servo apenas brandindo estas espadas gêmeas.[lr]::
+45460::$$$message_0401_0021_0003$$$::Mas depois disso...::
+45461::$$$message_0401_0022_0000$$$::Um buraco negro.[lr]::
+45462::$$$message_0401_0022_0001$$$::Um vazio redondo, grande o bastante para engolir uma pessoa inteira...[lr]::
+45463::$$$message_0401_0022_0002$$$::surge diante de mim... no corpo de Gilgamesh.::
+45464::$$$message_0401_0023_0000$$$::"Qu...ê?"[lr]::
+45465::$$$message_0401_0023_0001$$$::Gilgamesh baixa os olhos para o próprio corpo, horrorizado.[lr]::
+45466::$$$message_0401_0023_0002$$$::...O corpo dele está sendo engolido.[lr]::
+45467::$$$message_0401_0023_0003$$$::O Servo dourado está sendo engolido pelo buraco que se abriu dentro dele.::
+45468::$$$message_0401_0024_0000$$$::"Es[line2]"[lr]::
+45469::$$$message_0401_0024_0001$$$::Ele ia dizer "espera"?[lr]::
+45470::$$$message_0401_0024_0002$$$::O vazio engole o Servo sem piedade.[lr]::
+45471::$$$message_0401_0024_0003$$$::...Não havia como ele escapar.[lr]::
+45472::$$$message_0401_0024_0004$$$::Afinal, Não vazio se abriu dentro do próprio corpo dele.[lr]::
+45473::$$$message_0401_0024_0005$$$::Não havia como escapar de algo que estava dentro dele.::
+45474::$$$message_0401_0025_0000$$$::"...O que foi... isso?"[lr]::
+45475::$$$message_0401_0025_0001$$$::Fico parado ali, estupefato.[lr]::
+45476::$$$message_0401_0025_0002$$$::O vazio à minha frente diminui a cada instante.::
+45477::$$$message_0401_0026_0000$$$::...Não sei o que é isso.[lr]::
+45478::$$$message_0401_0026_0001$$$::Mas parece que Tohsaka e Saber conseguiram destruir o Santo Graal.[lr]::
+45479::$$$message_0401_0026_0002$$$::Meu único palpite é que esse vazio negro tenha surgido como efeito disso, e então ele simplesmente desapareceu.::
+45480::$$$message_0401_0027_0000$$$::"...Ufa. Enfim, agora..."[lr]::
 45481::$$$message_0401_0027_0001$$$::Tudo acabou.[lr]::
-45482::$$$message_0401_0027_0002$$$::Minhas espadas gêmeas desaparecem.[lr]::
-45483::$$$message_0401_0027_0003$$$::A energia mágica dentro de mim se esvai.[lr]::
-45484::$$$message_0401_0027_0004$$$::"Ah[line4]droga."[lr]::
-45485::$$$message_0401_0027_0005$$$::E ao mesmo tempo, fadiga me ataca.::
-45486::$$$message_0401_0027_0006$$$::"...Droga. Isso é ruim, eu não consigo andar."[lr]::
-45487::$$$message_0401_0027_0007$$$::Eu quero ver como a Tohsaka tá, mas meu corpo não se move.[lr]::
-45488::$$$message_0401_0027_0008$$$::...Bom, eu tenho certeza que ela vai ficar bem já que a Saber foi salvar ela.::
-45489::$$$message_0401_0027_0009$$$::"[line4]Certo. Eu acho..."[lr]::
-45490::$$$message_0401_0027_0010$$$::Eu posso descansar um pouco.[lr]::
-45491::$$$message_0401_0027_0011$$$::E depois de eu respirar fundo...[lr]::
-45492::$$$message_0401_0027_0012$$$::"O quê[line4]!?"[lr]::
-45493::$$$message_0401_0027_0013$$$::Uma corrente envolve meu braço.::
-45494::$$$message_0401_0028_0000$$$::"......!"[lr]::
-45495::$$$message_0401_0028_0001$$$::Eu arfo.[lr]::
-45496::$$$message_0401_0028_0002$$$::A corrente puxa meu corpo até o vão.::
-45497::$$$message_0401_0029_0000$$$::"Ah, kuh...!"[lr]::
-45498::$$$message_0401_0029_0001$$$::Eu ponho força no meu corpo, mas eu não consigo resistir.[lr]::
-45499::$$$message_0401_0029_0002$$$::Meus pés escorregam pelo chão até o vão...!::
-45500::$$$message_0401_0030_0000$$$::"Ku[line4]idiota. Isso não sabe que os servos não podem virar o núcleo......!?"[lr]::
+45482::$$$message_0401_0027_0002$$$::As espadas gêmeas desaparecem.[lr]::
+45483::$$$message_0401_0027_0003$$$::A Energia Mágica que preenchia meu corpo se esvai num instante e, ao mesmo tempo...[lr]::
+45484::$$$message_0401_0027_0004$$$::"Ah... Droga."[lr]::
+45485::$$$message_0401_0027_0005$$$::A fadiga me atinge.::
+45486::$$$message_0401_0027_0006$$$::"...Droga. Isso é ruim. Não consigo andar."[lr]::
+45487::$$$message_0401_0027_0007$$$::Quero ir ver como Tohsaka está imediatamente, mas meu corpo não se move.[lr]::
+45488::$$$message_0401_0027_0008$$$::...Bem, tenho certeza de que ela está bem, já que Saber foi até ela.::
+45489::$$$message_0401_0027_0009$$$::"...Certo. Acho..."[lr]::
+45490::$$$message_0401_0027_0010$$$::Posso descansar um pouco.[lr]::
+45491::$$$message_0401_0027_0011$$$::E, no instante em que respiro fundo...[lr]::
+45492::$$$message_0401_0027_0012$$$::"Qu...[line2]!?"[lr]::
+45493::$$$message_0401_0027_0013$$$::Uma corrente se enrola no meu braço.::
+45494::$$$message_0401_0028_0000$$$::"Guh...!"[lr]::
+45495::$$$message_0401_0028_0001$$$::Meu fôlego para.[lr]::
+45496::$$$message_0401_0028_0002$$$::A corrente enrolada sem piedade no meu braço me puxa em direção ao buraco negro...!::
+45497::$$$message_0401_0029_0000$$$::"Agh, khh...!"[lr]::
+45498::$$$message_0401_0029_0001$$$::Faço força com os membros, mas não consigo resistir nem um pouco.[lr]::
+45499::$$$message_0401_0029_0002$$$::Meus pés escorregam, arrastando o próprio chão em que se apoiam, em direção ao vazio...!::
+45500::$$$message_0401_0030_0000$$$::"Khh... Aquele idiota, ele nem sabe que Servos não podem virar o núcleo...!?"[lr]::
 45501::$$$message_0401_0030_0001$$$::"Você...!"::
-45502::$$$message_0401_0031_0000$$$::Ele está aparecendo do vão.[lr]::
-45503::$$$message_0401_0031_0001$$$::Mas[line3]o corpo dele foi derretido aqui e ali.[lr]::
-45504::$$$message_0401_0031_0002$$$::Então o vão deve derreter tudo que engole......!::
-45505::$$$message_0401_0032_0000$$$::"Guh, droga...!"[lr]::
-45506::$$$message_0401_0032_0001$$$::Eu tento tirar a corrente de mim, mas ela nem se mexe.[lr]::
-45507::$$$message_0401_0032_0002$$$::Essa corrente restringiu até o Berserker. Não é algo que eu consiga tirar...!::
-45508::$$$message_0401_0033_0000$$$::"Ah, guh[line4]"[lr]::
-45509::$$$message_0401_0033_0001$$$::Eu tô sendo puxado até isso...![lr]::
-45510::$$$message_0401_0033_0002$$$::Eu vou ser engulido como ele se eu chegar perto daquele vão...!::
-45511::$$$message_0401_0034_0000$$$::"Droga, você tá tentando me levar com você...!"[lr]::
-45512::$$$message_0401_0034_0001$$$::"Hah, eu não tenho intenção nenhuma de morrer...!![lr]::
-45513::$$$message_0401_0034_0002$$$::Fica aí onde você está até eu me puxar pra fora, seu vira-lata!"[lr]::
-45514::$$$message_0401_0034_0003$$$::"Você..."[lr]::
-45515::$$$message_0401_0034_0004$$$::Ele é arrogante até nessa situação...!::
-45516::$$$message_0401_0035_0000$$$::"Ah[line4]droga[line4]"[lr]::
-45517::$$$message_0401_0035_0001$$$::Mas o que eu posso fazer?[lr]::
-45518::$$$message_0401_0035_0002$$$::Eu não consigo tirar essa corrente de mim.[lr]::
-45519::$$$message_0401_0035_0003$$$::Eu vou ser engulido pelo vão se eu for com ele.[lr]::
-45520::$$$message_0401_0035_0004$$$::Mesmo que eu me aguente aqui, ele vai se puxar pra fora.::
-45521::$$$message_0401_0036_0000$$$::Isso significa que eu vou morrer dos dois jeitos[line4][lr]::
-
+45502::$$$message_0401_0031_0000$$$::Quem rasteja para fora do vazio é, sem dúvida, ele.[lr]::
+45503::$$$message_0401_0031_0001$$$::Mas... aquele corpo está derretido em vários pontos.[lr]::
+45504::$$$message_0401_0031_0002$$$::Aquele vazio deve derreter tudo o que engole...!::
+45505::$$$message_0401_0032_0000$$$::"Khh, seu desgraçado...!"[lr]::
+45506::$$$message_0401_0032_0001$$$::Tento arrancar a corrente, mas ela não sai do lugar.[lr]::
+45507::$$$message_0401_0032_0002$$$::Essa corrente conteve até Berserker. Não é algo que eu possa tirar, por mais que tente...!::
+45508::$$$message_0401_0033_0000$$$::"Agh, guh..."[lr]::
+45509::$$$message_0401_0033_0001$$$::Estou sendo arrastado para dentro...![lr]::
+45510::$$$message_0401_0033_0002$$$::Se eu chegar perto daquele vazio, vou ser engolido como ele...!::
+45511::$$$message_0401_0034_0000$$$::"Droga, você está tentando me levar junto...!?"[lr]::
+45512::$$$message_0401_0034_0001$$$::"Seu idiota, eu não tenho a menor intenção de morrer...![lr]::
+45513::$$$message_0401_0034_0002$$$::Fique aí até eu conseguir me puxar para fora, seu vira-lata!"[lr]::
+45514::$$$message_0401_0034_0003$$$::"Você...!"[lr]::
+45515::$$$message_0401_0034_0004$$$::Ele consegue ser arrogante até numa situação dessas...!::
+45516::$$$message_0401_0035_0000$$$::"Ah... Khh, droga..."[lr]::
+45517::$$$message_0401_0035_0001$$$::Mas... o que eu faço?[lr]::
+45518::$$$message_0401_0035_0002$$$::Não consigo me livrar dessa corrente, por mais que tente.[lr]::
+45519::$$$message_0401_0035_0003$$$::Desse jeito, vou cair no vazio junto com ele.[lr]::
+45520::$$$message_0401_0035_0004$$$::Mesmo que eu aguente firme, ele vai acabar se puxando para fora.::
+45521::$$$message_0401_0036_0000$$$::Ou seja, eu vou morrer de qualquer jeito...[lr]::
