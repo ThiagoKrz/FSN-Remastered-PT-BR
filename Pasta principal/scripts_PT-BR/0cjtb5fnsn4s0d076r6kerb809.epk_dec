@@ -1,79 +1,78 @@
 DAT
 id=qid::label=str::text=lstr::
-40105::$$$message_0345_0000_0000$$$::[line4]A noite está calma.[lr]::
-40106::$$$message_0345_0000_0001$$$::O vento que sopra na montanha é gentil, e o balançar das árvores é tão silencioso quanto um suspiro.[lr]::
+40105::$$$message_0345_0000_0000$$$::    É uma noite silenciosa.[lr]::
+40106::$$$message_0345_0000_0001$$$::O vento que sopra pela floresta da montanha é gentil, e o farfalhar das árvores é tão fraco quanto um sussurro.[lr]::
 40107::$$$message_0345_0000_0002$$$::Não há pássaros cantando sobre o inverno, nem feras uivando para a lua.[lr]::
-40108::$$$message_0345_0000_0003$$$::O único caminho que leva até o Templo Ryuudou...[lr]::
-40109::$$$message_0345_0000_0004$$$::A grande escadaria de pedra também preserva a sua tranquilidade nessa noite.::
+40108::$$$message_0345_0000_0003$$$::Há apenas um caminho que leva ao Templo Ryuudou.[lr]::
+40109::$$$message_0345_0000_0004$$$::A longa escadaria de pedra também permanece tranquila esta noite.::
 40110::$$$message_0345_0001_0000$$$::Mas os outros não sabem.[lr]::
-40111::$$$message_0345_0001_0001$$$::Esse lugar já testemunhou cinco batalhas, cada uma delas uma luta feroz.[lr]::
-40112::$$$message_0345_0001_0002$$$::Vários Servos desafiaram o Templo Ryuudou.[lr]::
-40113::$$$message_0345_0001_0003$$$::Berserker, Lancer, Rider, Saber, Archer.[lr]::
-40114::$$$message_0345_0001_0004$$$::O portão dessa montanha só é capaz de aproveitar a escuridão graças ao monstro que expulsou todos esses cinco inimigos.::
-40115::$$$message_0345_0002_0000$$$::A espada cumprida se move.[lr]::
-40116::$$$message_0345_0002_0001$$$::Ainda bem que a Lua está escondida atrás das nuvens.[lr]::
-40117::$$$message_0345_0002_0002$$$::O arco em forma de lua crescente produzido pelo movimento da espada é tão bonito que a própria Lua se envergonharia de si mesma se tivesse visto.::
-40118::$$$message_0345_0003_0000$$$::"Você me ouviu, Assassin? Eu disse que você vai continuar protegendo o portão."[lr]::
-40119::$$$message_0345_0003_0001$$$::Ele ignora o mago coberto de roxo, a Caster.[lr]::
-40120::$$$message_0345_0003_0002$$$::O Assassin abaixa a sua espada cumprida e olha para a floresta da montanha sem demonstrar interesse.[lr]::
-40121::$$$message_0345_0003_0003$$$::"Bem, havia um invasor. Eu vi um pássaro estranho, então acabei cortando. Ele não gritou e nem derramou sangue. Por acaso ele era um dos seus, Caster?"::
-40122::$$$message_0345_0004_0000$$$::"......! ...Entendo, esse era um familiar que estava nos espionando. Ele deve ser da Mestra do Berserker ou então daquela jovem. De qualquer forma, esse lugar não vai durar por muito tempo."[lr]::
-40123::$$$message_0345_0004_0001$$$::A Caster anda até a floresta e olha para a "coisa" que caiu no chão.[lr]::
-40124::$$$message_0345_0004_0002$$$::É o corpo de uma coruja.[lr]::
-40125::$$$message_0345_0004_0003$$$::Um pássaro feito de cristal. Ele pode ser simples, mas é ótimo para espionagem, e provavelmente foi criado pela Mestra do Archer.::
-40126::$$$message_0345_0005_0000$$$::"...Heh, que azar daquela moça. Se ela não fosse tão habilidosa assim, eu poderia tê-la tornado a minha aprendiz."[lr]::
-40127::$$$message_0345_0005_0001$$$::Ela pisa na criatura.[lr]::
-40128::$$$message_0345_0005_0002$$$::Os cristais de ametista são esmagados até virarem pó, se espalhando feito poeira estelar.::
-40129::$$$message_0345_0006_0000$$$::"É por causa de pessoas assim que eu estou te deixando encarregado de proteger o meu Mestre, Assassin. Se o meu Mestre morrer, eu vou desaparecer. Se isso acontecer, você também não poderá existir.[lr]::
-40130::$$$message_0345_0006_0001$$$::Se não quiser desaparecer, proteja o portão e esteja preparado para encarar a morte."::
-40131::$$$message_0345_0007_0000$$$::"Bem[line3]é difícil estar preparado para morrer. Eu nunca tive a sensação de estar 'vivo' mesmo.[lr]::
-40132::$$$message_0345_0007_0001$$$::Há algum sentido em pedir uma coisa dessas para alguém como eu, Caster?"[lr]::
-40133::$$$message_0345_0007_0002$$$::"[line4]Pare com essa conversa atrevida.[lr]::
-40134::$$$message_0345_0007_0003$$$::Não confunda as coisas, Assassin. Você é um Servo que eu invoquei nesse mundo. Um escravo deveria se comportar como um escravo.[lr]::
-40135::$$$message_0345_0007_0004$$$::Se você não pretende jurar a sua lealdade a mim, pode desaparecer agora mesmo."::
-40136::$$$message_0345_0008_0000$$$::As palavras da Caster estão cheias de ódio e desprezo.[lr]::
-40137::$$$message_0345_0008_0001$$$::Na visão dela, o Assassin não passa de uma ferramenta.[lr]::
-40138::$$$message_0345_0008_0002$$$::Já que uma ferramenta não deveria falar, não é surpresa ela ter ser irritado depois que o Assassin a respondeu de forma irônica.::
-40139::$$$message_0345_0009_0000$$$::"Entendo. Minha nossa. A minha vida é um desastre, mas seria inconveniente desaparecer agora. Eu fiz uma promessa. Se possível, eu gostaria de cumprir essa promessa."[lr]::
-40140::$$$message_0345_0009_0001$$$::"[line4]Então tome cuidado com o que fala. Você só precisa proteger esse lugar.[lr]::
-40141::$$$message_0345_0009_0002$$$::Se conseguir fazer isso, eu posso te tornar uma pessoa real. Um Servo de classe baixa e sem nenhum Fantasma Nobre como você pode se transformar em um espírito heroico. Deve valer à pena arriscar a sua própria vida para isso, não acha?"::
-40142::$$$message_0345_0010_0000$$$::"Não precisa se preocupar. Desde o começo, eu sempre pertenci ao outro mundo. Eu vou cumprir com o meu dever.[lr]::
-40143::$$$message_0345_0010_0001$$$::Mas não tem nenhuma problema, Caster? Eu posso não ser leal à minha Mestra, mas você não está sendo leal também. O seu Mestre não sabe sobre o que está acontecendo nessa noite, está?"[lr]::
-40144::$$$message_0345_0010_0002$$$::Nesse instante, o corpo do Assassin explode.[lr]::
-40145::$$$message_0345_0010_0003$$$::O barulho de um estouro.[lr]::
-40146::$$$message_0345_0010_0004$$$::A maldição, que foi colocada dentro do seu corpo no momento da invocação, acabou de explodir.::
+40111::$$$message_0345_0001_0001$$$::Este lugar já resistiu a cinco batalhas, cada uma delas uma luta até a morte.[lr]::
+40112::$$$message_0345_0001_0002$$$::Muitos Servos desafiaram o Templo Ryuudou.[lr]::
+40113::$$$message_0345_0001_0003$$$::Berserker, Lancer, Rider, Saber e Archer.[lr]::
+40114::$$$message_0345_0001_0004$$$::A montanha consegue desfrutar da escuridão em paz graças à feiticeira que repeliu completamente esses cinco.::
+40115::$$$message_0345_0002_0000$$$::A espada longa se move.[lr]::
+40116::$$$message_0345_0002_0001$$$::Felizmente, é uma noite sem lua.[lr]::
+40117::$$$message_0345_0002_0002$$$::O arco em forma de crescente desenhado pela espada em movimento é tão elegante que a própria lua se envergonharia se o visse.::
+40118::$$$message_0345_0003_0000$$$::"Está me ouvindo, Assassin? Eu disse que você vai continuar protegendo o portão."[lr]::
+40119::$$$message_0345_0003_0001$$$::Ele ignora a maga roxa, Caster.[lr]::
+40120::$$$message_0345_0003_0002$$$::Assassin abaixa a sua espada longa e lança um olhar desinteressado para a floresta.[lr]::
+40121::$$$message_0345_0003_0003$$$::"Bem, houve um invasor. Vi um pássaro estranho e tentei cortá-lo, mas ele não sangrou nem gritou. Era um dos seus, Caster?"::
+40122::$$$message_0345_0004_0000$$$::"Ah...! ...Sim, deve ter sido um familiar nos espionando. Deve ser da Mestra do Berserker ou daquela jovem. De qualquer forma, este lugar não vai durar muito."[lr]::
+40123::$$$message_0345_0004_0001$$$::Caster caminha até a floresta e olha para a coisa caída no chão.[lr]::
+40124::$$$message_0345_0004_0002$$$::É o cadáver de uma coruja.[lr]::
+40125::$$$message_0345_0004_0003$$$::Um pássaro feito de cristal. Uma criação simples, mas excelente para espionagem, provavelmente feita pela Mestra do Archer.::
+40126::$$$message_0345_0005_0000$$$::"...Heh. Aquela jovem não tem sorte. Eu poderia tê-la tornado minha aluna se ela fosse um pouco mais incompetente."[lr]::
+40127::$$$message_0345_0005_0001$$$::Ela pisa nele.[lr]::
+40128::$$$message_0345_0005_0002$$$::Os cristais de ametista são esmagados em pedaços e se espalham pelo chão, brilhando como estrelas.::
+40129::$$$message_0345_0006_0000$$$::"Há muitos sujeitos como esse por aí, então vou deixar você encarregado de proteger meu Mestre, Assassin. Se meu Mestre morrer, eu vou desaparecer. Se isso acontecer, você também não poderá existir.[lr]::
+40130::$$$message_0345_0006_0001$$$::Se não quiser desaparecer, proteja este portão com a sua vida."::
+40131::$$$message_0345_0007_0000$$$::"Bem... É difícil protegê-lo com a minha vida. Nunca senti que estava 'vivo' desde que nasci.[lr]::
+40132::$$$message_0345_0007_0001$$$:: Não é inútil ordenar uma coisa dessas a alguém como eu?"[lr]::
+40133::$$$message_0345_0007_0002$$$::"...Pare com essa conversa insolente.[lr]::
+40134::$$$message_0345_0007_0003$$$::Não se engane, Assassin. Você é um Servo que eu invoquei. Um Servo deve agir como um escravo.[lr]::
+40135::$$$message_0345_0007_0004$$$::Veja bem, se não pode jurar lealdade ao seu Mestre, pode desaparecer agora mesmo."::
+40136::$$$message_0345_0008_0000$$$::Há apenas hostilidade e desprezo na voz de Caster.[lr]::
+40137::$$$message_0345_0008_0001$$$::Para ela, Assassin não passa de uma ferramenta.[lr]::
+40138::$$$message_0345_0008_0002$$$::Já é irritante o bastante uma ferramenta falar, então é natural que ela se irrite quando ele começa a falar com sarcasmo.::
+40139::$$$message_0345_0009_0000$$$::"Entendo, céus. Minha vida é breve como a de uma efêmera, mas seria problemático desaparecer agora. Fiz uma promessa. Se possível, gostaria de cumpri-la."[lr]::
+40140::$$$message_0345_0009_0001$$$::"...Então cuidado com o que diz. Você só precisa proteger este lugar.[lr]::
+40141::$$$message_0345_0009_0002$$$::Sim, se for capaz disso, posso torná-lo real. Se alguém de classe baixa como você, sem um Fantasma Nobre, puder se tornar um Espírito Heroico, então deve valer a pena arriscar a vida, certo?"::
+40142::$$$message_0345_0010_0000$$$::"Não precisa se preocupar. Desde o começo, pertenço ao outro mundo, então cumprirei o papel que me foi dado.[lr]::
+40143::$$$message_0345_0010_0001$$$::Mas está tudo bem, Caster? Eu também não sou leal ao meu Mestre, mas você não está sendo desonesta? O assunto desta noite é segredo para o seu Mestre, correto?"[lr]::
+40144::$$$message_0345_0010_0002$$$::Nesse instante, o corpo de Assassin explode.[lr]::
+40145::$$$message_0345_0010_0003$$$::Um som explosivo.[lr]::
+40146::$$$message_0345_0010_0004$$$::A maldição que Caster implantou no corpo dele quando o invocou explode.::
 40147::$$$message_0345_0011_0000$$$::As árvores balançam.[lr]::
-40148::$$$message_0345_0011_0001$$$::O Assassin é arremessado para a floresta, com o seu peito perfurado pelas suas próprias costelas.[lr]::
-40149::$$$message_0345_0011_0002$$$::A sua imagem lembra uma flor que acabou de desabrochar.::
-40150::$$$message_0345_0012_0000$$$::"Guh[line3]minha nossa. Você está ficando cada dia pior, Caster."[lr]::
-40151::$$$message_0345_0012_0001$$$::"[line4]Calado. Se eu tiver que dizer isso mais uma vez, vou te eliminar sem esperar por cinco dias."[lr]::
-40152::$$$message_0345_0012_0002$$$::"...Caramba. Dizem por aí que mulheres e pessoas malvadas são incontroláveis, mas você está indo longe demais."::
-40153::$$$message_0345_0013_0000$$$::O Servo exposto se levanta.[lr]::
-40154::$$$message_0345_0013_0001$$$::Esse Servo não perde a elegância nem mesmo quando está com as suas costelas à mostra ou quando o seu corpo fica coberto de sangue.::
-40155::$$$message_0345_0014_0000$$$::"Ah, não fique me encarando assim. Você está desgastando a sua beleza, Caster. Eu já entendi, isso tem que ser mantido em segredo do seu Mestre, não é? Eu não vou contá-lo que você capturou a Saber e que estou protegendo esse lugar.[lr]::
-40156::$$$message_0345_0014_0001$$$::Essa é uma história comovente. Eu espero que um dia o seu Mestre perceba o quanto você se importa com ele."[lr]::
-40157::$$$message_0345_0014_0002$$$::"[line7]Assassin, seu..."::
-40158::$$$message_0345_0015_0000$$$::"Eu só estou agindo como um mal perdedor. Já que eu não posso te atacar, pelo menos me deixe fazer essas piadas.[lr]::
-40159::$$$message_0345_0015_0001$$$::[line3]Eu vou proteger o portão. Vou protegê-lo custe o que custar.[lr]::
-40160::$$$message_0345_0015_0002$$$::Mas para onde você está indo? Não confia na minha proteção?"::
-40161::$$$message_0345_0016_0000$$$::"[line4]Claro que não. Você serve apenas como um seguro.[lr]::
-40162::$$$message_0345_0016_0001$$$::Mas isso também vai acabar. Assim que eu conseguir controlar a Saber, não vou precisar mais usar esse lugar velho como o meu templo."[lr]::
-40163::$$$message_0345_0016_0002$$$::"...Hm, então você vai mudar de base? Nesse caso, eu não serei mais necessário. Por acaso existe um lugar sagrado melhor do que aqui?"[lr]::
-40164::$$$message_0345_0016_0003$$$::"Existe. Não é tão bom quanto esse lugar, mas serve perfeitamente para mim. [r]Além do mais[line3]eu pretendo me mudar para lá em pouco tempo de qualquer jeito. Não tem problema se eu fizer uma visita agora, não é mesmo?"::
-40165::$$$message_0345_0017_0000$$$::"[line4]"[lr]::
-40166::$$$message_0345_0017_0001$$$::O rosto do Assassin, que estava calmo até agora, começa a ficar triste.[lr]::
-40167::$$$message_0345_0017_0002$$$::A Caster dá um sorriso de satisfação.::
-40168::$$$message_0345_0018_0000$$$::"Sim. Já que a nossa vitória é certa, eu vou resgatar o prêmio antes da hora.[lr]::
-40169::$$$message_0345_0018_0001$$$::Um novo território e o Santo Graal. E eu também tenho outra peça chamada Saber. Com tudo isso em mãos, tenho certeza de que o meu Mestre desinteressado não iria reclamar sobre o que eu estou fazendo."::
+40148::$$$message_0345_0011_0001$$$::Assassin é lançado para trás e arremessado contra a floresta, com o peito perfurado pelas próprias costelas.[lr]::
+40149::$$$message_0345_0011_0002$$$::Sua figura parece uma flor desabrochando.::
+40150::$$$message_0345_0012_0000$$$::"Guh... Isso de novo. Você fica pior a cada dia, Caster."[lr]::
+40151::$$$message_0345_0012_0001$$$::"...Calado. Se eu tiver que repetir isso mais uma vez, vou eliminá-lo antes de esperar cinco dias."[lr]::
+40152::$$$message_0345_0012_0002$$$::"...Francamente. Dizem que mulheres e pessoas imorais são difíceis de lidar, mas você foi longe demais."::
+40153::$$$message_0345_0013_0000$$$::O Servo vistoso se levanta devagar.[lr]::
+40154::$$$message_0345_0013_0001$$$::Mesmo com as costelas saindo do peito e coberto de sangue, esse Servo não perde a elegância.::
+40155::$$$message_0345_0014_0000$$$::"Ah, não me encare com esses olhos. Seu belo rosto fica arruinado, Caster. Eu sei, tudo deve ser segredo para o seu Mestre, certo? Não contarei que você capturou Saber nem que me mantém como guarda.[lr]::
+40156::$$$message_0345_0014_0001$$$::É uma história comovente. Espero que esse espírito zeloso pelo seu Mestre chegue até ele."[lr]::
+40157::$$$message_0345_0014_0002$$$::"...Assassin, você..."::
+40158::$$$message_0345_0015_0000$$$::"O quê? Só estou sendo um mau perdedor. Não posso atacá-la, então ao menos me permita brincar assim.[lr]::
+40159::$$$message_0345_0015_0001$$$::...Vou proteger o portão. Vou protegê-lo custe o que custar.[lr]::
+40160::$$$message_0345_0015_0002$$$::Mas para onde vai? Não confia na minha proteção?"::
+40161::$$$message_0345_0016_0000$$$::"...É claro que não. Você é apenas um seguro.[lr]::
+40162::$$$message_0345_0016_0001$$$::Mas isso acabou. Assim que eu puser as mãos em Saber, não precisarei fazer deste lugar rústico o meu templo."[lr]::
+40163::$$$message_0345_0016_0002$$$::"...Hm, então vai se mudar? Nesse caso, eu certamente não serei necessário. Existe algum lugar sagrado superior a esta montanha?"[lr]::
+40164::$$$message_0345_0016_0003$$$::"Sim. É um pouco inferior, mas tenho um lugar que combina comigo. Além disso... eu acabaria indo para lá mais cedo ou mais tarde. Não há problema em ir agora, certo?"::
+40165::$$$message_0345_0017_0000$$$::[font italic=true]...[font italic=false][lr]::
+40166::$$$message_0345_0017_0001$$$::A expressão de Assassin, que permanecera fria até agora, fica sombria.[lr]::
+40167::$$$message_0345_0017_0002$$$::Caster parece se satisfazer ao ver isso, pois seus lábios lustrosos se curvam em um sorriso.::
+40168::$$$message_0345_0018_0000$$$::"Entendo. Nossa vitória é certa, então vou buscar meu prêmio antes da hora.[lr]::
+40169::$$$message_0345_0018_0001$$$::Um novo território e o Santo Graal. Agora também tenho outra peça chamada Saber. Com isso, tenho certeza de que meu Mestre relutante não vai reclamar da minha política, certo?"::
 40170::$$$message_0345_0019_0000$$$::Isso é verdade.[lr]::
-40171::$$$message_0345_0019_0001$$$::Por mais que o Mestre da Caster, Kuzuki Souichirou, não demonstre interesse nessa guerra, ele será obrigado a lutar se as condições forem tão favoráveis assim.[lr]::
-40172::$$$message_0345_0019_0002$$$::Porém, o que é ainda mais certo é que...::
-40173::$$$message_0345_0020_0000$$$::"[line3]Essa guerra chata vai chegar ao fim. Assim que eu conseguir o Santo Graal, não haverá mais nada a temer.[lr]::
-40174::$$$message_0345_0020_0001$$$::...Isso mesmo, ninguém será capaz de me impedir[line3]!"::
-40175::$$$message_0345_0021_0000$$$::Uma risada alta polui a noite.[lr]::
-40176::$$$message_0345_0021_0001$$$::A maga vestida de roxo declara a sua vitória.[lr]::
-40177::$$$message_0345_0021_0002$$$::O cavaleiro com a espada cumprida olha para o céu.::
-40178::$$$message_0345_0022_0000$$$::[line4]Está chegando a hora.[lr]::
-40179::$$$message_0345_0022_0001$$$::Independente do que acontecer, só restam cinco dias.[lr]::
-40180::$$$message_0345_0022_0002$$$::Mesmo se a Guerra do Santo Graal terminar antes disso, o espadachim que já presenciou o inferno sente que a batalha não será vencida tão fácil assim.::
-
+40171::$$$message_0345_0019_0001$$$::Por mais que o Mestre de Caster, Kuzuki Souichirou, queira permanecer calado, ele não terá escolha a não ser lutar se as condições estiverem tão perfeitamente alinhadas.[lr]::
+40172::$$$message_0345_0019_0002$$$::Mas o que é ainda mais certo que isso é...::
+40173::$$$message_0345_0020_0000$$$::"...Esta batalha tola vai acabar. Não haverá nada a temer assim que eu obtiver o Santo Graal.[lr]::
+40174::$$$message_0345_0020_0001$$$::...Sim, ninguém será capaz de me deter, não importa quem seja...!"::
+40175::$$$message_0345_0021_0000$$$::Sua risada alta mancha a noite.[lr]::
+40176::$$$message_0345_0021_0001$$$::A maga roxa expressa sua vitória com orgulho.[lr]::
+40177::$$$message_0345_0021_0002$$$::O espadachim com a espada longa lança-lhe um olhar de lado e ergue os olhos para o céu.::
+40178::$$$message_0345_0022_0000$$$::    A hora está próxima.[lr]::
+40179::$$$message_0345_0022_0001$$$::Seja qual for o resultado, restam apenas cinco dias.[lr]::
+40180::$$$message_0345_0022_0002$$$::Embora seja improvável que todos esses dias se esgotem, o espadachim que sobrevivera ao banho de sangue sentia que aquela seria uma batalha difícil de resolver.::

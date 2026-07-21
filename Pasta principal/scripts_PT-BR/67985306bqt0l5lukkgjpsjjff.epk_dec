@@ -1,123 +1,122 @@
 DAT
 id=qid::label=str::text=lstr::
-50116::$$$message_0433_0000_0000$$$::"Tô indo[line4]!"[lr]::
-50117::$$$message_0433_0000_0001$$$::Eu corro até a porta.[lr]::
+50116::$$$message_0433_0000_0000$$$::"Estou indo...!"[lr]::
+50117::$$$message_0433_0000_0001$$$::Corro até a porta.[lr]::
 50118::$$$message_0433_0000_0002$$$::É raro ter alguém visitando a essa hora.[lr]::
 50119::$$$message_0433_0000_0003$$$::A Fuji-nee não toca a campainha, e ela tem uma chave própria.[lr]::
-50120::$$$message_0433_0000_0004$$$::Eu não tenho muitos convidados, e como não tem muitas casas em volta, eu não tenho muitos vizinhos.::
-50121::$$$message_0433_0001_0000$$$::"...Quem que pode ser?"[lr]::
-50122::$$$message_0433_0001_0001$$$::Bom, não é ninguém hostil já que o Campo Limitado do meu pai não tá tocando, então eu aposto que é alguém da casa da Fuji-nee.::
+50120::$$$message_0433_0000_0004$$$::Não recebo muitas visitas e, como não há muitas casas por perto, também não tenho muitos vizinhos.::
+50121::$$$message_0433_0001_0000$$$::"...Quem será?"[lr]::
+50122::$$$message_0433_0001_0001$$$::Bom, não pode ser ninguém com rancor de mim, já que o alarme do Campo Limitado do meu velho não disparou. Deve ser algum jovem da casa da Fuji-nee.::
 50123::$$$message_0433_0002_0000$$$::"Quem é?"[lr]::
-50124::$$$message_0433_0002_0001$$$::Eu abro a porta.[lr]::
-50125::$$$message_0433_0002_0002$$$::Então.[lr]::
-50126::$$$message_0433_0002_0003$$$::Minha mente congela.::
-50127::$$$message_0433_0003_0000$$$::"[line12]"[lr]::
-50128::$$$message_0433_0003_0001$$$::"[line12]"[lr]::
-50129::$$$message_0433_0003_0002$$$::A gente se encara silenciosamente.[lr]::
-50130::$$$message_0433_0003_0003$$$::...Bom, eu só tô chocado, mas a Tohsaka parece brava.::
-50131::$$$message_0433_0004_0000$$$::"T-Tohsaka[line4]por que você tá aqui?"[lr]::
-50132::$$$message_0433_0004_0001$$$::"Você matou o nosso contato regular."::
-50133::$$$message_0433_0005_0000$$$::"Eu matei nosso contato regular? Bom, eu realmente esqueci de te ver,... mas a gente chegou a concordar em algo assim?"[lr]::
-50134::$$$message_0433_0005_0001$$$::"[line12]"::
+50124::$$$message_0433_0002_0001$$$::Digo isso e abro a porta.[lr]::
+50125::$$$message_0433_0002_0002$$$::De repente...[lr]::
+50126::$$$message_0433_0002_0003$$$::Minha mente fica em branco.::
+50127::$$$message_0433_0003_0000$$$::"..."[lr]::
+50128::$$$message_0433_0003_0001$$$::"..."[lr]::
+50129::$$$message_0433_0003_0002$$$::Nós nos encaramos em silêncio.[lr]::
+50130::$$$message_0433_0003_0003$$$::...Bom, Tohsaka parece brava. Eu ainda não sei bem o que pensar disso.::
+50131::$$$message_0433_0004_0000$$$::"T-Tohsaka... Por quê?"[lr]::
+50132::$$$message_0433_0004_0001$$$::"Você furou nosso contato regular."::
+50133::$$$message_0433_0005_0000$$$::"F-furei nosso contato regular? Eu realmente esqueci de te ver hoje, mas a gente chegou a combinar algo assim?"[lr]::
+50134::$$$message_0433_0005_0001$$$::"..."::
 50135::$$$message_0433_0006_0000$$$::A Tohsaka me encara silenciosamente.[lr]::
 50136::$$$message_0433_0006_0001$$$::...Isso é ruim.[lr]::
-50137::$$$message_0433_0006_0002$$$::Eu não sei porque ela tá brava, mas eu sinto que eu fiz algo muito ruim.::
-50138::$$$message_0433_0007_0000$$$::"...Desculpa. Eu peço desculpas por ter esquecido. Era um dever natural como seu aliado contatar você em uma frequência regular."[lr]::
-50139::$$$message_0433_0008_0000$$$::"[line3]Sim. Nossa situação não mudou, então é natural a gente checar um ao outro."::
-50140::$$$message_0433_0009_0000$$$::"[line8]"[lr]::
-50141::$$$message_0433_0009_0001$$$::Eu respiro aliviado.[lr]::
-50142::$$$message_0433_0009_0002$$$::É surpreendente o suficiente ver a Tohsaka na minha casa, então deixar ela brava aqui seria uma experiência de outro mundo.[lr]::
-50143::$$$message_0433_0010_0000$$$::"[line3]Eu entendo. Eu vou te contatar, então você pode voltar pra casa agora. Me desculpa por te fazer vir até aqui."[lr]::
-50144::$$$message_0433_0010_0001$$$::...Ei.[lr]::
-50145::$$$message_0433_0010_0002$$$::Por que você tá fazendo uma cara assim?::
-50146::$$$message_0433_0011_0000$$$::"...Tohsaka? Eu peguei a sua mensagem, então a gente vai se encontrar no parque em baixo da ponte?"[lr]::
-50147::$$$message_0433_0011_0001$$$::Eu tenho um mal pressentimento, então eu pergunto timidamente.[lr]::
-50148::$$$message_0433_0011_0002$$$::...Isso deve ter sido a última gota.[lr]::
-50149::$$$message_0433_0011_0003$$$::Já que a Tohsaka é boa em ler o que eu mais temo...::
-50150::$$$message_0433_0012_0000$$$::"Não, essa é um boa oportunidade, então a gente vai fazer a reunião aqui hoje.[lr]::
-50151::$$$message_0433_0012_0001$$$::Você não mandaria embora um amigo que veio te ver, mandaria?"[lr]::
-50152::$$$message_0433_0012_0002$$$::Ela sorri como o diabo e fala algo demoníaco.::
-50153::$$$message_0433_0013_0000$$$::"Que[line3]ter uma reunião aqui... Você vai vir dentro da minha casa...!?"[lr]::
+50137::$$$message_0433_0006_0002$$$::Não sei por que ela está brava, mas deve ser algo sério.::
+50138::$$$message_0433_0007_0000$$$::"...Desculpa. A culpa é minha por ter esquecido. Era meu dever como aliado entrar em contato com você regularmente."::
+50139::$$$message_0433_0008_0000$$$::"...Isso mesmo. Nossa situação não mudou, então é natural verificarmos como o outro está."::
+50140::$$$message_0433_0009_0000$$$::Suspiro de alívio.[lr]::
+50141::$$$message_0433_0009_0001$$$::Ver Tohsaka na minha porta já é surpreendente o bastante.[lr]::
+50142::$$$message_0433_0009_0002$$$::Mas ela aparecer assim, de armas em punho, poderia muito bem ser uma experiência fora do corpo.::
+50143::$$$message_0433_0010_0000$$$::"...Entendi. Vou entrar em contato agora mesmo, então você já pode ir para casa. Desculpa por fazer você vir até aqui."[lr]::
+50144::$$$message_0433_0010_0001$$$::...Uh.[lr]::
+50145::$$$message_0433_0010_0002$$$::Por que está fazendo essa cara, Tohsaka?::
+50146::$$$message_0433_0011_0000$$$::"...Tohsaka? Eu recebi o recado, então não vamos nos encontrar no parque embaixo da ponte mais tarde?"[lr]::
+50147::$$$message_0433_0011_0001$$$::Tenho um mau pressentimento...[lr]::
+50148::$$$message_0433_0011_0002$$$::E isso deve ter sido a gota d'água.[lr]::
+50149::$$$message_0433_0011_0003$$$::Tohsaka, que é boa em ler minhas fraquezas e medos...::
+50150::$$$message_0433_0012_0000$$$::"Não. Esta é uma boa oportunidade, então vamos fazer a reunião aqui hoje.[lr]::
+50151::$$$message_0433_0012_0001$$$::Você não mandaria embora uma amiga que veio até aqui para vê-lo, mandaria?"[lr]::
+50152::$$$message_0433_0012_0002$$$::...diz palavras dignas de um demônio, e sorri como um.::
+50153::$$$message_0433_0013_0000$$$::"Qu[line2]fazer a reunião aqui... Você está dizendo que vai entrar na minha casa...!?"[lr]::
 50154::$$$message_0433_0013_0001$$$::"O que? Você entrou na minha casa também. E não é como se fosse a minha primeira vez, então você não tem nada a esconder."::
 50155::$$$message_0433_0014_0000$$$::"Ah."[lr]::
 50156::$$$message_0433_0014_0001$$$::Isso é verdade.[lr]::
-50157::$$$message_0433_0014_0002$$$::Foi a Tohsaka que cuidou do meu machucado naquela noite que eu conheci a Saber.::
-50158::$$$message_0433_0015_0000$$$::Mas daquela vez, eu tava confuso sobre esse negócio de Mestre, e o fato de que a Tohsaka tava na minha casa não foi registrado.[lr]::
-50159::$$$message_0433_0015_0001$$$::Mesmo que estejamos cooperando, a Tohsaka é a Tohsaka. Ela é o ídolo da escola e uma garota da minha idade. É uma situação ultrajante ela vir pra minha casa... Pera, ela tá entrando!!!?::
-50160::$$$message_0433_0016_0000$$$::"Bom, eu tô entrando. A gente vai conversar, então a gente pode ir pra sala de estar, certo?"[lr]::
-50161::$$$message_0433_0016_0001$$$::"P-P-P-P-P-P-Pera aí, idiota! Vai ser terrível se você entrar pra minha casa!"::
-50162::$$$message_0433_0017_0000$$$::"Tá tudo bem, tá tudo bem. Ah, e eu ainda não almoçei, então eu tô contando com você."[lr]::
-50163::$$$message_0433_0017_0001$$$::O intruso, Tohsaka Rin, entra na casa.::
-50164::$$$message_0433_0018_0000$$$::"Uah, pera aí...! Para de fazer coisas sem pensar!"[lr]::
-50165::$$$message_0433_0018_0001$$$::Eu reclamo em voz alta, mas não tem efeito algum no meu inimigo.[lr]::
-50166::$$$message_0433_0018_0002$$$::O intruso descuidadamente entra na sala de estar, me deixando confuso no corredor.::
-50167::$$$message_0433_0019_0000$$$::...Então.[lr]::
-50168::$$$message_0433_0019_0001$$$::Depois de nós três almoçarmos, a gente fala sobre nossos futuros planos.::
-50169::$$$message_0433_0020_0000$$$::O tópico, obviamente, é a Caster.[lr]::
-50170::$$$message_0433_0020_0001$$$::A gente conversa por quatro horas sobre como derrotar ela no Templo Ryuudou, mas os resultados não são bons.::
-50171::$$$message_0433_0021_0000$$$::"...Aah. Eu acho que a única coisa que a gente pode fazer é lutar com eles de frente. Se o que a Saber falou é verdade, Servos só podem passar pela entrada da frente."::
-50172::$$$message_0433_0022_0000$$$::"Sim. Há um forte Campo Limitado contra espíritos naquela montanha. Minha única opção seria entrar pelo portão principal. ...Como o Archer tem ação independente como habilidade da classe, eu tenho certeza que ele consegue entrar lá usando força."::
-50173::$$$message_0433_0023_0000$$$::"E depois dele conseguir entrar com toda sua força, a Caster vai estar esperando por ele, certo? Isso não é nem um pouco bom."::
-50174::$$$message_0433_0024_0000$$$::"...Você está certa. Ele não pode ser o alvo quando ele é quem deveria estar atirando no alvo. Bom, eu tenho certeza que a Saber e o Archer ganhariam do Assassin juntos, mas encurralar a Caster depois de entrar no templo seria outro problema.[lr]::
-50175::$$$message_0433_0024_0001$$$::Pelo que ouvi do Emiya-kun, há uma grande piscina de energia mágica lá. Se a encurralarmos mal, ela poderá nos levar junto com todo o Templo Ryuudou..."::
-50176::$$$message_0433_0025_0000$$$::"Certamente. A Caster não parece ser alguém que vai graciosamente aceitar a morte. Se ela for morrer, ela vai tentar levar a gente junto com ela. Não precisa ser mencionado que o Templo Ryuudou vai ser destruído também nesse caso."::
-50177::$$$message_0433_0026_0000$$$::"Não fala coisas assustadoras, Saber.[lr]::
-50178::$$$message_0433_0026_0001$$$::Você tá querendo dizer que a Caster vai auto destruir se a gente encurralar ela?"[lr]::
-50179::$$$message_0433_0026_0002$$$::"Eu aposto que ela iria."[lr]::
+50157::$$$message_0433_0014_0002$$$::Foi Tohsaka quem cuidou de mim quando desmaiei na noite em que conheci Saber.::
+50158::$$$message_0433_0015_0000$$$::Mas eu estava confuso naquela época, pois acabara de me tornar Mestre, então não registrei direito que Tohsaka estava na minha casa.[lr]::
+50159::$$$message_0433_0015_0001$$$::Mesmo que estejamos em trégua, Tohsaka é Tohsaka. Ela é o ídolo da escola e uma garota da minha idade. É absurdo ela entrar na minha casa... Espera, por que ela já está no corredor!?::
+50160::$$$message_0433_0016_0000$$$::"Bom, com licença. Vamos conversar, então pode ser na sala de estar, certo?"[lr]::
+50161::$$$message_0433_0016_0001$$$::"E-e-espera, n-não tão rápido! Você está mesmo bem com isso? Vai ser terrível se entrar na minha casa!"::
+50162::$$$message_0433_0017_0000$$$::"Está tudo bem, está tudo bem. Ah, e eu também não almocei, então vou contar com você."[lr]::
+50163::$$$message_0433_0017_0001$$$::A invasora, Rin Tohsaka, entra sem cerimônia.::
+50164::$$$message_0433_0018_0000$$$::"Espera, espera...! Para de fazer as coisas sem pensar!"[lr]::
+50165::$$$message_0433_0018_0001$$$::Protesto em voz alta, mas isso não tem efeito algum sobre a inimiga.[lr]::
+50166::$$$message_0433_0018_0002$$$::A invasora segue tranquilamente até a sala de estar, deixando-me confuso no corredor.::
+50167::$$$message_0433_0019_0000$$$::...Então...[lr]::
+50168::$$$message_0433_0019_0001$$$::Ainda sem entender completamente o que está acontecendo, nós três almoçamos e depois conversamos sobre nossos planos futuros.::
+50169::$$$message_0433_0020_0000$$$::O assunto, é claro, é Caster.[lr]::
+50170::$$$message_0433_0020_0001$$$::Discutimos por quase quatro horas como derrotá-la no templo, mas os resultados não parecem bons.::
+50171::$$$message_0433_0021_0000$$$::"...Ugh. Então a única escolha é enfrentá-los de frente. Se o que Saber disse é verdade, Servos só conseguem entrar pela entrada principal."::
+50172::$$$message_0433_0022_0000$$$::"Sim. Há um forte Campo Limitado contra espíritos naquela montanha, então minha única opção é atacar pela entrada principal. Enquanto isso, Archer, cuja classe permite que se mova de forma mais independente, talvez consiga entrar à força."::
+50173::$$$message_0433_0023_0000$$$::"Então, depois que ele conseguir entrar gastando toda a energia, Caster vai estar esperando por ele, certo? Ele só vai virar isca."::
+50174::$$$message_0433_0024_0000$$$::"...É verdade. Ele não pode ser o alvo quando deveria ser quem atira. Bom, se for só Assassin, tenho certeza de que Saber e Archer conseguem derrotá-lo juntos, mas o problema é como encurralar Caster depois que entrarem no templo.[lr]::
+50175::$$$message_0433_0024_0001$$$::Pelo que você disse, há um grande reservatório de Energia Mágica lá. Se a encurralarmos, talvez ela tente nos arrastar junto com o templo."::
+50176::$$$message_0433_0025_0000$$$::"Essa possibilidade existe. Caster não parece ser do tipo que aceita a morte com graça. Se for morrer, é possível que aja por retaliação. Nesse caso, o Templo Ryuudou também seria destruído."::
+50177::$$$message_0433_0026_0000$$$::"Saber, não diz algo assustador assim tão casualmente.[lr]::
+50178::$$$message_0433_0026_0001$$$::Você está dizendo que Caster vai se autodestruir se a encurralarmos?"[lr]::
+50179::$$$message_0433_0026_0002$$$::"Sim, é isso que estamos dizendo."[lr]::
 50180::$$$message_0433_0026_0003$$$::"Ela provavelmente vai."::
 50181::$$$message_0433_0027_0000$$$::"......"[lr]::
-50182::$$$message_0433_0027_0001$$$::Elas tão em perfeita união.[lr]::
-50183::$$$message_0433_0027_0002$$$::Pensando a respeito, a Saber e a Tohsaka tem as mesmas opiniões, e parece que elas aprovam uma a outra em combate.[lr]::
-50184::$$$message_0433_0027_0003$$$::Ambas estão dizendo para não atacar lá, então desafiar o Templo Ryuudou deve ser realmente difícil.::
-50185::$$$message_0433_0028_0000$$$::"Ah, ja tá tão tarde assim?"[lr]::
+50182::$$$message_0433_0027_0001$$$::As duas estão em perfeita sintonia.[lr]::
+50183::$$$message_0433_0027_0002$$$::Pensando bem, Saber e Tohsaka sempre tiveram opiniões parecidas desde o início, e parecem aprovar uma à outra em combate.[lr]::
+50184::$$$message_0433_0027_0003$$$::Se as duas dizem que não devemos atacar lá, então atacar o templo deve ser realmente impossível.::
+50185::$$$message_0433_0028_0000$$$::"Ah. O quê, já está tão tarde?"[lr]::
 50186::$$$message_0433_0028_0001$$$::O som do relógio ecoa pela sala de estar.[lr]::
-50187::$$$message_0433_0028_0002$$$::É seis horas e o céu tá pintado de vermelho.::
-50188::$$$message_0433_0029_0000$$$::"[line3]Bom, eu acho que a reunião acabou.[lr]::
-50189::$$$message_0433_0029_0001$$$::Eu tenho que começar a preparar a janta."[lr]::
+50187::$$$message_0433_0028_0002$$$::Quando percebemos, já são seis da tarde, e o céu está tingido de vermelho.::
+50188::$$$message_0433_0029_0000$$$::"...Bom, acho que a reunião acabou.[lr]::
+50189::$$$message_0433_0029_0001$$$::Preciso começar a preparar o jantar."[lr]::
 50190::$$$message_0433_0029_0002$$$::Eu me levanto.[lr]::
-50191::$$$message_0433_0029_0003$$$::Eu vou fazer sopa de bacalhau hoje, então não vai demorar muito pra eu cozinhar.[lr]::
-50192::$$$message_0433_0029_0004$$$::Tudo que eu tenho que fazer é cozinhar o arroz e fazer algo que vai cair bem com a sopa[line4]::
-50193::$$$message_0433_0030_0000$$$::"O que? Por que você tá olhando pra mim?"[lr]::
-50194::$$$message_0433_0030_0001$$$::"[line8]"[lr]::
-50195::$$$message_0433_0030_0002$$$::...Bom.[lr]::
-50196::$$$message_0433_0030_0003$$$::Por que que ela tá acomodada como se estivesse em casa quando eu tô prestes a preparar a janta?::
-50197::$$$message_0433_0031_0000$$$::"E você tá sentando muito longe de mim. Eu não sei se é seu lugar comum, mas é inconveniente a não ser que você chegue mais perto quando a gente tá conversando. Por que você tava sentando logo lá?"::
-50198::$$$message_0433_0032_0000$$$::A Tohsaka, que está magnificamente sentando na mesa, encara a mim, que está sentando bem no canto.[lr]::
-50199::$$$message_0433_0032_0001$$$::...Só tem um motivo pra eu estar me distanciando da Tohsaka.::
-50200::$$$message_0433_0033_0000$$$::"Cala boca, meu lugar comum é onde você tá sentando! Eu tô aqui porque você roubou esse lugar!"[lr]::
-50201::$$$message_0433_0033_0001$$$::Eu reclamo com todo meu poder.::
-50202::$$$message_0433_0034_0000$$$::"Ahh. Entendi. Você não se importa com isso fora daqui já que somos Mestres, mas você volta ao normal em casa, huh?"::
-50203::$$$message_0433_0035_0000$$$::"I-Isso é ruim, idiota!? Isso é normal já que eu sou um cara...!"[lr]::
-50204::$$$message_0433_0035_0001$$$::É estranho não ficar nervoso quando é uma garota da minha idade, principalmente se for a Tohsaka.::
-50205::$$$message_0433_0036_0000$$$::Eu tenho participado da reunião normalmente, freneticamente me lembrando que nós dois somos Mestres.[lr]::
-50206::$$$message_0433_0036_0001$$$::É de dar dó, mas eu fiquei nervoso a reunião inteira, e eu não sei quantos copos de chá eu bebi.::
-50207::$$$message_0433_0037_0000$$$::"Mas isso não é estranho? A Saber é uma garota também, e pelo que eu ouvi, a Sakura e a Fujimura-sensei vem aqui também, certo? Então não devia ser diferente comigo."::
-50208::$$$message_0433_0038_0000$$$::"......"[lr]::
+50191::$$$message_0433_0029_0003$$$::Hoje vamos comer cozido de bacalhau, então não deve demorar muito para preparar.[lr]::
+50192::$$$message_0433_0029_0004$$$::Tudo que preciso fazer é cozinhar arroz e preparar algo que combine com o cozido, mas...::
+50193::$$$message_0433_0030_0000$$$::"O quê, Emiya? Por que está olhando para mim?"[lr]::
+50194::$$$message_0433_0030_0001$$$::[font italic=true]...[font italic=false][lr]::
+50195::$$$message_0433_0030_0002$$$::...Assim, sabe...[lr]::
+50196::$$$message_0433_0030_0003$$$::Por que ela está se sentindo em casa quando estamos prestes a jantar?::
+50197::$$$message_0433_0031_0000$$$::"E você está sentado longe demais de mim. Não sei se esse é o seu lugar de costume, mas fica inconveniente conversar se você não chega mais perto. Por que está lá do outro lado?"::
+50198::$$$message_0433_0032_0000$$$::Tohsaka, sentada de forma digna à mesa, me observa com atenção.[lr]::
+50199::$$$message_0433_0032_0001$$$::...Só há um motivo para eu estar me distanciando de Tohsaka.::
+50200::$$$message_0433_0033_0000$$$::"Não seja ridícula, você é que pegou meu lugar de sempre! Estou sentado aqui porque você está aí!"[lr]::
+50201::$$$message_0433_0033_0001$$$::Protesto com todas as forças.::
+50202::$$$message_0433_0034_0000$$$::"Heh, entendi. Você não se importava com isso lá fora porque nós dois somos Mestres, mas volta a ser você mesmo quando está em casa, hein?"::
+50203::$$$message_0433_0035_0000$$$::"I-isso é problema, idiota!? E, sabe, eu sou homem, então é natural!"[lr]::
+50204::$$$message_0433_0035_0001$$$::Seria mais estranho se eu não ficasse nervoso perto de uma garota da minha idade. Ainda mais Tohsaka.::
+50205::$$$message_0433_0036_0000$$$::Durante essas reuniões estratégicas, preciso me lembrar com frequência de que isso só está acontecendo porque nós dois somos Mestres.[lr]::
+50206::$$$message_0433_0036_0001$$$::É patético, mas até isso me deixa nervoso. Nem sei quantas xícaras de chá já bebi sentado aqui.::
+50207::$$$message_0433_0037_0000$$$::"Mas isso não é estranho? Saber também é uma garota e, pelo que ouvi, Fujimura-sensei e Sakura também vêm aqui, certo? Então eu não deveria ser diferente."::
+50208::$$$message_0433_0038_0000$$$::"..."[lr]::
 50209::$$$message_0433_0038_0001$$$::Não é![lr]::
-50210::$$$message_0433_0038_0002$$$::A Saber e a Tohsaka são diferentes, a Fuji-nee e a Tohsaka são diferentes, e a Sakura e a Tohsaka são diferentes.[lr]::
-50211::$$$message_0433_0038_0003$$$::Acima de tudo, eu consigo lidar com a Saber porque ela é alguém que luta ao meu lado.::
-50212::$$$message_0433_0039_0000$$$::"...Heh, só vai pra casa. A gente vai jantar agora. O Archer tá te esperando na sua casa também, certo?"[lr]::
-50213::$$$message_0433_0039_0001$$$::"Ah. Eu não posso ir pra casa enquanto a gente não tiver decidido nada ainda.[lr]::
-50214::$$$message_0433_0039_0002$$$::A gente não vai falar sobre nossos planos futuros depois de jantar?"::
-50215::$$$message_0433_0040_0000$$$::"[line8]"[lr]::
-50216::$$$message_0433_0040_0001$$$::Ah, eu me sinto bem tonto.::
-50217::$$$message_0433_0041_0000$$$::"Guh... isso já tá determinado, Tohsaka?"[lr]::
-50218::$$$message_0433_0041_0001$$$::"Eu tô errada? Eu não ligo se você não quiser. Então você tá bem deixando a Caster fazer o que quiser por um tempo, huh?"[lr]::
-50219::$$$message_0433_0041_0002$$$::"Gah[line4]"[lr]::
-50220::$$$message_0433_0041_0003$$$::Eu engulo minhas palavras.::
-50221::$$$message_0433_0042_0000$$$::"Shirou. Ela tem um bom ponto. Não há problema mesmo que ela fique aqui."[lr]::
-50222::$$$message_0433_0042_0001$$$::E pra fazer as coisas piores, a Saber tá do lado da Tohsaka.::
-50223::$$$message_0433_0043_0000$$$::"[line4]Tudo bem. Mas eu não vou ser responsabilizado se você não gostar da comida daqui. E a Fuji-nee[line3]Fujimura-sensei vai vir, então você tem que convencer ela."::
-50224::$$$message_0433_0044_0000$$$::"Eu sei, eu sei. Eu já sei o quão bom você é pelo almoço que você faz, e eu também sei sobre a Fujimura-sensei. Eu tô sabendo disso, então não se preocupa."::
-50225::$$$message_0433_0045_0000$$$::"[line4]Heh, eu não vou ser responsabilizado mesmo se você se arrepender mais tarde."[lr]::
-50226::$$$message_0433_0045_0001$$$::Eu viro a cabeça pra trás e vou pra cozinha.::
-50227::$$$message_0433_0046_0000$$$::[line4]Então.[lr]::
-50228::$$$message_0433_0046_0001$$$::Eu lavo as minhas mão, vou colocar meu avental, e percebo que ele não tá ali.[lr]::
+50210::$$$message_0433_0038_0002$$$::Saber e Tohsaka são diferentes, Fuji-nee e Tohsaka são diferentes, e Sakura e Tohsaka são diferentes.[lr]::
+50211::$$$message_0433_0038_0003$$$::E, mais que isso, só consigo agir normalmente perto de Saber porque estamos lutando juntos.::
+50212::$$$message_0433_0039_0000$$$::"...Hmph, vai para casa logo. Nós vamos jantar. Archer também está esperando por você em casa, certo?"[lr]::
+50213::$$$message_0433_0039_0001$$$::"Ah. Não posso ir para casa quando ainda não chegamos a nada.[lr]::
+50214::$$$message_0433_0039_0002$$$::Não vamos decidir nossos planos futuros depois de jantar?"::
+50215::$$$message_0433_0040_0000$$$::[font italic=true]...[font italic=false][lr]::
+50216::$$$message_0433_0040_0001$$$::Cara, estou seriamente ficando tonto.::
+50217::$$$message_0433_0041_0000$$$::"Guh... Isso já está decidido, Tohsaka?"[lr]::
+50218::$$$message_0433_0041_0001$$$::"Não está? Tudo bem se você não quiser. Então você não se importa em deixar Caster agir por um tempo?"[lr]::
+50219::$$$message_0433_0041_0002$$$::"Gah..."[lr]::
+50220::$$$message_0433_0041_0003$$$::Engulo a reclamação que ficou presa na garganta.::
+50221::$$$message_0433_0042_0000$$$::"Shirou. Ela tem razão. Não há problema em ela ficar aqui."[lr]::
+50222::$$$message_0433_0042_0001$$$::Para piorar, Saber ainda fica do lado de Tohsaka.::
+50223::$$$message_0433_0043_0000$$$::"...Tudo bem. Mas não me responsabilizo se você não gostar da minha comida. E a Fuji-nee[line2]Fujimura-sensei deve vir, então você vai ter que convencê-la."::
+50224::$$$message_0433_0044_0000$$$::"Eu sei, eu sei. Já sei que você cozinha bem pelo almoço, e também sei sobre Fujimura-sensei. Estou ciente das duas coisas, então não se preocupa."::
+50225::$$$message_0433_0045_0000$$$::"...Hmph. Também não me responsabilizo se você se arrepender depois."[lr]::
+50226::$$$message_0433_0045_0001$$$::Desvio o olhar e me volto para a cozinha.::
+50227::$$$message_0433_0046_0000$$$::    Então...[lr]::
+50228::$$$message_0433_0046_0001$$$::Lavo as mãos e vou colocar o avental, mas percebo que ele não está onde sempre fica.[lr]::
 50229::$$$message_0433_0046_0002$$$::...Não.[lr]::
-50230::$$$message_0433_0046_0003$$$::Primeiramente, eu nem me lembro de ter tirado ele depois de preparar o almoço na frente da Tohsaka.::
-50231::$$$message_0433_0047_0000$$$::"Huh?"[lr]::
-50232::$$$message_0433_0047_0001$$$::Eu olho ao redor.::
-50233::$$$message_0433_0048_0000$$$::A Tohsaka olha pra mim, ri, e...[lr]::
-50234::$$$message_0433_0048_0001$$$::"Ah, eu esqueci de te falar. Eu simplesmente não conheço nenhum garoto que anda por aí num avental, Emiya-kun."[lr]::
-50235::$$$message_0433_0048_0002$$$::...Fala com uma expressão de triunfo.::
-
+50230::$$$message_0433_0046_0003$$$::Para começo de conversa, nem lembro de tê-lo tirado depois de preparar o almoço preocupado com Tohsaka me observando.::
+50231::$$$message_0433_0047_0000$$$::"Hã?"[lr]::
+50232::$$$message_0433_0047_0001$$$::Olho ao redor.::
+50233::$$$message_0433_0048_0000$$$::Ela ri da minha confusão e...[lr]::
+50234::$$$message_0433_0048_0001$$$::"Ah, também esqueci de mencionar. Não sei o que pensar de um garoto que anda por aí de avental, Emiya-kun."[lr]::
+50235::$$$message_0433_0048_0002$$$::...dá um último golpe com um sorriso presunçoso no rosto.::

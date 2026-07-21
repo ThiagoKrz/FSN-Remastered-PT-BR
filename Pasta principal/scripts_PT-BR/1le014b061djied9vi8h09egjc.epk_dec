@@ -1,152 +1,151 @@
 DAT
 id=qid::label=str::text=lstr::
-40313::$$$message_0348_0000_0000$$$::Eu me sinto como se tivesse acabado de levar um soco.[lr]::
-40314::$$$message_0348_0000_0001$$$::"[line8], ah."[lr]::
-40315::$$$message_0348_0000_0002$$$::Eu acordo por conta da dor em meu ombro.[lr]::
-40316::$$$message_0348_0000_0003$$$::...O meu corpo ainda está no lugar.[lr]::
-40317::$$$message_0348_0000_0004$$$::Eu consigo sentir os meus braços e pernas, e também posso ouvir a minha própria respiração.[lr]::
-40318::$$$message_0348_0000_0005$$$::O meu ombro está coberto por ataduras, e eu estou deitado em uma cama confortável.::
-40319::$$$message_0348_0001_0000$$$::"[line4]Hã? Onde é que eu... estou...?"[lr]::
-40320::$$$message_0348_0001_0001$$$::...Eu não sei.[lr]::
-40321::$$$message_0348_0001_0002$$$::Mas[line4]me lembro de alguém ter dito...::
-40322::$$$message_0348_0002_0000$$$::[line3]Acabou. Você não precisa mais lutar, Shirou[line3]::
-40323::$$$message_0348_0003_0000$$$::"...!"[lr]::
+40313::$$$message_0348_0000_0000$$$::É como se eu tivesse acabado de levar um soco.[lr]::
+40314::$$$message_0348_0000_0001$$$::"...Ah."[lr]::
+40315::$$$message_0348_0000_0002$$$::Acordo por causa da dor no ombro.[lr]::
+40316::$$$message_0348_0000_0003$$$::...Meu corpo ainda está inteiro.[lr]::
+40317::$$$message_0348_0000_0004$$$::Ainda consigo sentir meus membros e ouvir o som da minha própria respiração.[lr]::
+40318::$$$message_0348_0000_0005$$$::Meu ombro está envolto em uma bandagem, e a cama em que estou deitado é macia.::
+40319::$$$message_0348_0001_0000$$$::"...Hã? Este lugar... é...?"[lr]::
+40320::$$$message_0348_0001_0001$$$::...Um quarto desconhecido.[lr]::
+40321::$$$message_0348_0001_0002$$$::Se bem me lembro... Alguém disse alguma coisa.::
+40322::$$$message_0348_0002_0000$$$::                      Acabou. Você não precisa mais lutar, Shirou...::
+40323::$$$message_0348_0003_0000$$$::"Guh...!"[lr]::
 40324::$$$message_0348_0003_0001$$$::Eu me levanto.[lr]::
-40325::$$$message_0348_0003_0002$$$::Eu começo a me lembrar do que aconteceu e salto da cam[line4][r]::
-40326::$$$message_0348_0003_0003$$$::"Guh[line4]!"[lr]::
-40327::$$$message_0348_0003_0004$$$::As minhas costas se contorcerem de dor.::
-40328::$$$message_0348_0004_0000$$$::"Ah[line4]hh.........!"[lr]::
-40329::$$$message_0348_0004_0001$$$::...Eu estou com dor no meu ombro esquerdo.[lr]::
-40330::$$$message_0348_0004_0002$$$::Ele está queimando.[lr]::
-40331::$$$message_0348_0004_0003$$$::É uma sensação muito pior do que romper o ligamento de um músculo.[lr]::
-40332::$$$message_0348_0004_0004$$$::Aliás, eu deveria agradecer por o meu braço ainda estar no lugar, já que uma espada foi cravada nele. Mas mesmo assim, está doendo demais.::
-40333::$$$message_0348_0005_0000$$$::"Guh... ah, ah, ha[line4]"[lr]::
-40334::$$$message_0348_0005_0001$$$::Eu me levanto da cama devagar.[lr]::
-40335::$$$message_0348_0005_0002$$$::Eu consigo aguentar essa dor se ranger os dentes.[lr]::
-40336::$$$message_0348_0005_0003$$$::Então[line4]::
-40337::$$$message_0348_0006_0000$$$::"[line8]"[lr]::
-40338::$$$message_0348_0006_0001$$$::...O calor do meu ombro sobe até a minha cabeça.[lr]::
-40339::$$$message_0348_0006_0002$$$::Eu ignoro isso e mexo as minhas pernas.::
-40340::$$$message_0348_0006_0003$$$::"[line4]Não há ninguém... aqui?"[lr]::
-40341::$$$message_0348_0006_0004$$$::Parece que há ninguém em casa.[lr]::
-40342::$$$message_0348_0006_0005$$$::Eu me lembro do que a Tohsaka disse.[lr]::
-40343::$$$message_0348_0006_0006$$$::Ela tinha dito aquelas palavras logo antes de sair.[lr]::
-40344::$$$message_0348_0006_0007$$$::Portanto, ela deve ter saído para lutar sozinha.::
-40345::$$$message_0348_0006_0008$$$::"Haa[line4]Haa, ah[line4]"[lr]::
-40346::$$$message_0348_0006_0009$$$::Eu ando até a porta.[lr]::
-40347::$$$message_0348_0006_0010$$$::Eu tenho que ir lá fora.[lr]::
-40348::$$$message_0348_0006_0011$$$::Eu preciso me encontrar com a Tohsaka.::
-40349::$$$message_0348_0006_0012$$$::"Kuh[line4]"[lr]::
-40350::$$$message_0348_0006_0013$$$::Eu perco o equilíbrio.[lr]::
-40351::$$$message_0348_0006_0014$$$::Quase caio no chão, mas consigo me segurar na cômoda à tempo.[lr]::
-40352::$$$message_0348_0006_0015$$$::"Guh[line4]"[lr]::
-40353::$$$message_0348_0006_0016$$$::...Não adiantou de nada.[lr]::
-40354::$$$message_0348_0006_0017$$$::Eu acabo caindo e derrubando a cômoda junto comigo.::
-40355::$$$message_0348_0007_0000$$$::"Me desculpa... Eu fiz uma bagunça, Tohsaka."[lr]::
-40356::$$$message_0348_0007_0001$$$::Eu me levanto em cima dos objetos espalhados pelo chão.[lr]::
-40357::$$$message_0348_0007_0002$$$::"......Hã?"[lr]::
-40358::$$$message_0348_0007_0003$$$::Eu encontro uma coisa que é familiar.[lr]::
-40359::$$$message_0348_0008_0000$$$::"...Onde eu já vi isso antes[line4]?"[lr]::
-40360::$$$message_0348_0008_0001$$$::Eu já vi esse pingente em algum lugar.[lr]::
-40361::$$$message_0348_0008_0002$$$::...É mesmo, foi naquela vez.[lr]::
-40362::$$$message_0348_0008_0003$$$::Na noite em que eu fui perfurado pelo Lancer...[lr]::
-40363::$$$message_0348_0008_0004$$$::Quando eu acordei, o meu ferimento fatal estava curado.[lr]::
-40364::$$$message_0348_0008_0005$$$::Eu peguei um objeto do chão e saí do corredor com o corpo exausto.::
+40325::$$$message_0348_0003_0002$$$::Lembro-me de tudo e salto da cama...[lr]::
+40326::$$$message_0348_0003_0003$$$::"Guh...!"[lr]::
+40327::$$$message_0348_0003_0004$$$::A dor faz minhas costas arquearem.::
+40328::$$$message_0348_0004_0000$$$::"Agh... Khh...!"[lr]::
+40329::$$$message_0348_0004_0001$$$::...Toco meu ombro esquerdo.[lr]::
+40330::$$$message_0348_0004_0002$$$::Ele ainda queima como fogo.[lr]::
+40331::$$$message_0348_0004_0003$$$::A sensação é muito pior do que um músculo distendido.[lr]::
+40332::$$$message_0348_0004_0004$$$::Bem, tenho sorte de meu braço ainda estar preso ao corpo depois de ter sido atravessado por uma espada, mas... Francamente... Dói demais.::
+40333::$$$message_0348_0005_0000$$$::"Guh... Ah, ah, ha..."[lr]::
+40334::$$$message_0348_0005_0001$$$::Saio da cama devagar.[lr]::
+40335::$$$message_0348_0005_0002$$$::Se eu cerrar os dentes, consigo suportar esta dor de algum modo.[lr]::
+40336::$$$message_0348_0005_0003$$$::Então...::
+40337::$$$message_0348_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
+40338::$$$message_0348_0006_0001$$$::...O calor do meu ombro chega à minha cabeça.[lr]::
+40339::$$$message_0348_0006_0002$$$::Eu o afasto e movo as pernas.::
+40340::$$$message_0348_0006_0003$$$::"...Não tem... ninguém aqui?"[lr]::
+40341::$$$message_0348_0006_0004$$$::Sim, não deveria haver ninguém.[lr]::
+40342::$$$message_0348_0006_0005$$$::Lembro-me das palavras de Tohsaka.[lr]::
+40343::$$$message_0348_0006_0006$$$::Ela disse aquelas palavras e foi embora.[lr]::
+40344::$$$message_0348_0006_0007$$$::Então deve ter saído para lutar sozinha.::
+40345::$$$message_0348_0006_0008$$$::"Haah... Haah, ah..."[lr]::
+40346::$$$message_0348_0006_0009$$$::Vou até a porta.[lr]::
+40347::$$$message_0348_0006_0010$$$::Preciso sair.[lr]::
+40348::$$$message_0348_0006_0011$$$::Preciso sair e encontrar Tohsaka.::
+40349::$$$message_0348_0006_0012$$$::"Khh..."[lr]::
+40350::$$$message_0348_0006_0013$$$::Vou cair.[lr]::
+40351::$$$message_0348_0006_0014$$$::Quase caio, então me apoio na penteadeira.[lr]::
+40352::$$$message_0348_0006_0015$$$::"Guh..."[lr]::
+40353::$$$message_0348_0006_0016$$$::...É inútil.[lr]::
+40354::$$$message_0348_0006_0017$$$::Caio no chão junto com a penteadeira em que me apoiei.::
+40355::$$$message_0348_0007_0000$$$::"Desculpa... Fiz uma bagunça, Tohsaka."[lr]::
+40356::$$$message_0348_0007_0001$$$::Recolho os acessórios espalhados e os coloco de volta.[lr]::
+40357::$$$message_0348_0007_0002$$$::"...Hã?"[lr]::
+40358::$$$message_0348_0007_0003$$$::Vejo algo familiar entre eles.::
+40359::$$$message_0348_0008_0000$$$::"...Eu já vi isto antes..."[lr]::
+40360::$$$message_0348_0008_0001$$$::Já vi isto em algum lugar.[lr]::
+40361::$$$message_0348_0008_0002$$$::...Sim, também foi assim naquela hora.[lr]::
+40362::$$$message_0348_0008_0003$$$::Na noite em que Lancer me perfurou o peito.[lr]::
+40363::$$$message_0348_0008_0004$$$::Recebi um ferimento fatal, e ele foi curado antes que eu percebesse.[lr]::
+40364::$$$message_0348_0008_0005$$$::Acho que havia algo que peguei quando deixei o corredor com o corpo entorpecido.::
 40365::$$$message_0348_0009_0000$$$::Está quente.[lr]::
-40366::$$$message_0348_0009_0001$$$::O veneno em meu ombro alcança o meu cérebro e me deixa com tontura.::
-40367::$$$message_0348_0010_0000$$$::"...Sim. Era esse pingente mesmo."[lr]::
-40368::$$$message_0348_0010_0001$$$::Eu sei disso, mas não estou conseguindo raciocinar sobre certas coisas.[lr]::
-40369::$$$message_0348_0010_0002$$$::Sobre aquilo que eu pensei que fosse apenas um sonho...[lr]::
-40370::$$$message_0348_0010_0003$$$::Sobre qual Servo estava lutando contra o Lancer naquele momento...[lr]::
-40371::$$$message_0348_0010_0004$$$::Sobre quem poderia ter me salvado e quem poderia estar no colégio naquela hora...::
-40372::$$$message_0348_0011_0000$$$::...Eu nem preciso pensar sobre isso, mas mesmo assim a minha cabeça está girando.::
-40373::$$$message_0348_0012_0000$$$::"...Droga. Ela sempre disse que ficaria me devendo, mas esse é um favor que eu jamais vou conseguir retribuir[line4]"[lr]::
-40374::$$$message_0348_0012_0001$$$::Eu me sinto tonto.[lr]::
-40375::$$$message_0348_0012_0002$$$::O meu corpo está todo bagunçado por causa da dor, do calor e da minha baixa auto-estima.::
-40376::$$$message_0348_0013_0000$$$::"Haa[line4]ah[line4]"[lr]::
-40377::$$$message_0348_0013_0001$$$::Eu mexo as minhas pernas.[lr]::
-40378::$$$message_0348_0013_0002$$$::Eu tenho que ir atrás dela.[lr]::
-40379::$$$message_0348_0013_0003$$$::Eu quero contar uma coisa para a Tohsaka. Há algo que ela precisa saber[lr]::
-40380::$$$message_0348_0013_0004$$$::Isso é tudo que eu consigo pensar com a minha mente confusa[line4]::
-40381::$$$message_0348_0014_0000$$$::"Haa[line4]Haa, haa, ah[line4]"[lr]::
-40382::$$$message_0348_0014_0001$$$::Antes que eu percebesse, já estava em frente à estação.[lr]::
-40383::$$$message_0348_0014_0002$$$::A minha mente confusa está agindo por conta própria, baseando-se em uma imagem vaga.[lr]::
-40384::$$$message_0348_0014_0003$$$::...De que "ela está aqui".[lr]::
-40385::$$$message_0348_0014_0004$$$::Já que eu quero encontrar a Tohsaka, a minha mente me mandou vir até esse lugar.::
-40386::$$$message_0348_0015_0000$$$::"[line8]"[lr]::
-40387::$$$message_0348_0015_0001$$$::...Eu não sei exatamente por que fui direcionado para cá.[lr]::
-40388::$$$message_0348_0015_0002$$$::Mas a minha cabeça em chamas só consegue pensar sobre esse edifício.::
-40389::$$$message_0348_0016_0000$$$::"[line7]!"[lr]::
-40390::$$$message_0348_0016_0001$$$::...Nesse caso, eu tenho que seguir os meus instintos.[lr]::
-40391::$$$message_0348_0016_0002$$$::Eu não tenho nenhuma pista de onde a Tohsaka poderia estar.[lr]::
-40392::$$$message_0348_0016_0003$$$::Por isso, eu não tenho outra escolha a não ser confiar na minha própria intuição.::
-40393::$$$message_0348_0017_0000$$$::[line4]Eu subo até o topo do edifício.[lr]::
-40394::$$$message_0348_0017_0001$$$::O vento frio que está soprando daqui de cima ajuda a esfriar a minha mente em chamas.[lr]::
-40395::$$$message_0348_0017_0002$$$::"[line6]O que você está fazendo aqui?"[lr]::
-40396::$$$message_0348_0017_0003$$$::Eu ouço alguém dar um suspiro.[lr]::
-40397::$$$message_0348_0017_0004$$$::A Tohsaka está olhando para a cidade daqui de cima, igual àquela noite.::
-40398::$$$message_0348_0018_0000$$$::"Volte para casa. Eu não sei o que você quer, mas saiba que está nos atrapalhando."[lr]::
-40399::$$$message_0348_0018_0001$$$::Ela expressa a sua raiva e fica me encarando.[lr]::
-40400::$$$message_0348_0018_0002$$$::Atrás dela,[lr]::
-40401::$$$message_0348_0018_0003$$$::está ele parado, me dizendo em silêncio que eu não sou útil aqui.::
-40402::$$$message_0348_0019_0000$$$::"Eu não vou voltar. Só farei isso quando estiver com você. Nós prometemos lutar juntos, não lembra?"[lr]::
-40403::$$$message_0348_0019_0001$$$::Eu organizo a minha mente confusa e mexo os meus lábios.::
-40404::$$$message_0348_0020_0000$$$::"Esqueça essa promessa. Para começar, o que você pode fazer? Sem a Saber, você não tem a menor chance de enfrentar um Mestre."[lr]::
-40405::$$$message_0348_0020_0001$$$::"[line6]Sobre isso..."::
-40406::$$$message_0348_0021_0000$$$::"Além do mais, você não precisa lutar.[lr]::
-40407::$$$message_0348_0021_0001$$$::Você não é mais um Mestre, então estará seguro se for até a igreja. Você só precisa ficar lá até a Guerra do Santo Graal terminar."::
-40408::$$$message_0348_0022_0000$$$::"[line8]"[lr]::
-40409::$$$message_0348_0022_0001$$$::As palavras dela quase me fazem desmaiar.[lr]::
-40410::$$$message_0348_0022_0002$$$::Isso me deixa nervoso.[lr]::
-40411::$$$message_0348_0022_0003$$$::"Não seja idiota! Eu não posso abandonar a Saber desse jeito...![lr]::
-40412::$$$message_0348_0023_0000$$$::"Guh[line4]!"[lr]::
-40413::$$$message_0348_0023_0001$$$::A minha visão fica avermelhada.[lr]::
-40414::$$$message_0348_0023_0002$$$::Eu não consigo mais falar.[lr]::
-40415::$$$message_0348_0023_0003$$$::Os meus músculos se contorcem apenas por ter gritado, e eu chego a correr risco de morrer.::
-40416::$$$message_0348_0024_0000$$$::"Escuta aqui. Você tinha a proteção da Saber até agora, mas ela não está mais aqui para te ajudar.[lr]::
-40417::$$$message_0348_0024_0001$$$::...Entenda uma coisa, Emiya-kun. As pessoas morrem quando elas são mortas. Esse seu ferimento poderia ter te matado, sabia?"::
-40418::$$$message_0348_0025_0000$$$::"Ah[line4]haa, ah[line4]ah."[lr]::
-40419::$$$message_0348_0025_0001$$$::...Droga.[lr]::
-40420::$$$message_0348_0025_0002$$$::Eu sei disso.[lr]::
-40421::$$$message_0348_0025_0003$$$::Eu sei, mas estou com tanta dor que não consigo falar[line4]::
-40422::$$$message_0348_0026_0000$$$::"Você diz que está preocupado com a Saber e tudo mais, mas isso deixou de ser um problema seu.[lr]::
-40423::$$$message_0348_0026_0001$$$::Você não é mais um Mestre, então não deveria se importar com que vai acontecer com ela."::
-40424::$$$message_0348_0027_0000$$$::"[line8]"[lr]::
-40425::$$$message_0348_0027_0001$$$::Eu me importo com ela sim.[lr]::
-40426::$$$message_0348_0027_0002$$$::Ainda mais se a Saber tiver me ajudado com as dores que eu estive sentindo até agora.::
-40427::$$$message_0348_0028_0000$$$::"...Não, mesmo... que eu não seja... mais um Mestre.[lr]::
-40428::$$$message_0348_0028_0001$$$::A Saber... não queria isso. Eu não posso deixar... que ela seja controlada...!"::
-40429::$$$message_0348_0029_0000$$$::"[line4]Eu entendo. Mas você não é capaz de fazer nada.[lr]::
-40430::$$$message_0348_0029_0001$$$::...Está bem. Já que você não quer admitir, eu vou te dizer.[lr]::
-40431::$$$message_0348_0029_0002$$$::Nesse seu estado, você não pode fazer nada para salvar a Saber."::
-40432::$$$message_0348_0030_0000$$$::"[line8]"[lr]::
-40433::$$$message_0348_0030_0001$$$::O calor do meu corpo desaparece.[lr]::
-40434::$$$message_0348_0030_0002$$$::As palavras frias dela congelam a minha mente que estava em chamas.::
-40435::$$$message_0348_0031_0000$$$::"Isso é tudo que eu tinha para falar.[lr]::
-40436::$$$message_0348_0031_0001$$$::Você perdeu a Saber e deixou de ser um Mestre.[lr]::
-40437::$$$message_0348_0031_0002$$$::Você não precisa mais se envolver no massacre da Guerra do Santo Graal. Você pode desistir aqui mesmo, Shirou."::
-40438::$$$message_0348_0032_0000$$$::A Tohsaka se vira de costas e sai andando.[lr]::
-40439::$$$message_0348_0033_0000$$$::"[line4]!"[lr]::
-40440::$$$message_0348_0033_0001$$$::Entre a ventania...[lr]::
-40441::$$$message_0348_0033_0002$$$::A Tohsaka pula do topo do edifício sem pensar duas vezes.[lr]::
-40442::$$$message_0348_0033_0003$$$::"Sua idiota[line4]! O que está fazendo[line4]!?"[lr]::
-40443::$$$message_0348_0033_0004$$$::Eu estico o meu braço em desespero.::
-40444::$$$message_0348_0034_0000$$$::"[line8]"[lr]::
-40445::$$$message_0348_0034_0001$$$::Mas eu não preciso me preocupar.[lr]::
-40446::$$$message_0348_0034_0002$$$::O cavaleiro vermelho aparece ao lado da Tohsaka para protegê-la.[lr]::
-40447::$$$message_0348_0034_0003$$$::Mesmo saltando dessa altura, ela deve conseguir aterrissar sem se machucar, pois está com o seu Servo ao seu lado.::
-40448::$$$message_0348_0035_0000$$$::"[line8]"[lr]::
-40449::$$$message_0348_0035_0001$$$::Os lábios da Tohsaka se mexem um pouco.[lr]::
-40450::$$$message_0348_0035_0002$$$::...Eu não consegui ouvir o que ela disse.[lr]::
-40451::$$$message_0348_0035_0003$$$::Mas os olhos dela...::
-40452::$$$message_0348_0036_0000$$$::[line3]Se você continuar se envolvendo nessa guerra, vai acabar morrendo.::
-40453::$$$message_0348_0037_0000$$$::...Me dizem isso como se fosse o último aviso.::
-40454::$$$message_0348_0038_0000$$$::"[line8]"[lr]::
-40455::$$$message_0348_0038_0001$$$::O calor do meu corpo retorna.[lr]::
-40456::$$$message_0348_0038_0002$$$::O calor e a dor fazem a minha mente ir à loucura.::
-40457::$$$message_0348_0039_0000$$$::[line4]Eu não posso salvar a Saber.[lr]::
-40458::$$$message_0348_0039_0001$$$::E o Emiya Shirou não precisa mais lutar.::
-40459::$$$message_0348_0040_0000$$$::"[line8]"[lr]::
-40460::$$$message_0348_0040_0001$$$::...O meu ferimento volta a doer.[lr]::
-40461::$$$message_0348_0040_0002$$$::Eu olho para onde a Tohsaka saltou e fico repetindo essas palavras dentro da minha cabeça.::
-
+40366::$$$message_0348_0009_0001$$$::O veneno do meu ombro circula até o cérebro e me deixa mole.::
+40367::$$$message_0348_0010_0000$$$::"...Sim. É o mesmo..."[lr]::
+40368::$$$message_0348_0010_0001$$$::Consigo entender, mas não consigo ordenar meus pensamentos.[lr]::
+40369::$$$message_0348_0010_0002$$$::Coisas que eu acreditava serem sonhos até agora...[lr]::
+40370::$$$message_0348_0010_0003$$$::Ou de quem era o Servo que lutava contra Lancer naquela hora...[lr]::
+40371::$$$message_0348_0010_0004$$$::Ou quem poderia me salvar quando eu estava morrendo, e quem tinha motivo para estar lá...::
+40372::$$$message_0348_0011_0000$$$::...Não há mais necessidade de pensar nessas coisas, e ainda assim minha cabeça gira.::
+40373::$$$message_0348_0012_0000$$$::"...Droga. Ela falou sobre me dever e tudo mais, mas isto é algo que eu nunca vou conseguir pagar..."[lr]::
+40374::$$$message_0348_0012_0001$$$::Sinto tontura.[lr]::
+40375::$$$message_0348_0012_0002$$$::Estou em frangalhos por causa da dor, do calor e da minha própria estupidez.::
+40376::$$$message_0348_0013_0000$$$::"Haah... Ah..."[lr]::
+40377::$$$message_0348_0013_0001$$$::Movo as pernas.[lr]::
+40378::$$$message_0348_0013_0002$$$::De qualquer forma, preciso procurá-la agora.[lr]::
+40379::$$$message_0348_0013_0003$$$::Tenho algo que quero dizer, e agora tenho algo que preciso contar a ela.[lr]::
+40380::$$$message_0348_0013_0004$$$::Isso é tudo em que consigo pensar com este cérebro mole como ensopado...::
+40381::$$$message_0348_0014_0000$$$::"Haah... Haah, haah, ah..."[lr]::
+40382::$$$message_0348_0014_0001$$$::Estou diante da estação de trem antes de perceber.[lr]::
+40383::$$$message_0348_0014_0002$$$::Minha mente nebulosa se move apenas com imagens vagas.[lr]::
+40384::$$$message_0348_0014_0003$$$::...De que ela está lá.[lr]::
+40385::$$$message_0348_0014_0004$$$::Ela me ordena ir até lá para procurá-la.::
+40386::$$$message_0348_0015_0000$$$::[font italic=true]...[font italic=false][lr]::
+40387::$$$message_0348_0015_0001$$$::...Não sei por que sou atraído para cá.[lr]::
+40388::$$$message_0348_0015_0002$$$::Meu cérebro fervido só pensou neste prédio.::
+40389::$$$message_0348_0016_0000$$$::"...!"[lr]::
+40390::$$$message_0348_0016_0001$$$::...Então só posso seguir meus instintos.[lr]::
+40391::$$$message_0348_0016_0002$$$::Para começo de conversa, não tenho nenhum outro meio de encontrar Tohsaka.[lr]::
+40392::$$$message_0348_0016_0003$$$::Seja o que for, só posso me agarrar a alguma coisa.::
+40393::$$$message_0348_0017_0000$$$::    Saio para o terraço.[lr]::
+40394::$$$message_0348_0017_0001$$$::O vento que sopra lá no alto é frio e esfria um pouco a minha cabeça aquecida.[lr]::
+40395::$$$message_0348_0017_0002$$$::"...Por que você está aqui?"[lr]::
+40396::$$$message_0348_0017_0003$$$::Um suspiro fraco.[lr]::
+40397::$$$message_0348_0017_0004$$$::Tohsaka olhava para a cidade do terraço, exatamente como naquela noite.::
+40398::$$$message_0348_0018_0000$$$::"Vá para casa. Não sei por que está aqui, mas você é uma pedra no meu sapato."[lr]::
+40399::$$$message_0348_0018_0001$$$::Ela olha para mim com raiva.[lr]::
+40400::$$$message_0348_0018_0002$$$::Atrás de mim...[lr]::
+40401::$$$message_0348_0018_0003$$$::Há alguém me dizendo em silêncio que não é a minha vez.::
+40402::$$$message_0348_0019_0000$$$::"Não vou embora. Vou embora com você. Prometemos lutar juntos, certo?"[lr]::
+40403::$$$message_0348_0019_0001$$$::Reúno minha mente nebulosa à força e, de algum modo, movo a boca.::
+40404::$$$message_0348_0020_0000$$$::"Esqueça essa promessa. Para começar, o que você pode fazer agora? Sem Saber, você não é páreo nem para um Mestre."[lr]::
+40405::$$$message_0348_0020_0001$$$::"...Isso é[line2]"::
+40406::$$$message_0348_0021_0000$$$::"Além disso, você não precisa mais lutar.[lr]::
+40407::$$$message_0348_0021_0001$$$::Você não é mais um Mestre, então estará seguro se fugir para a igreja. Só precisa ficar lá, e a Guerra do Santo Graal chegará ao fim."::
+40408::$$$message_0348_0022_0000$$$::[font italic=true]...[font italic=false][lr]::
+40409::$$$message_0348_0022_0001$$$::Quase desmaio ao ouvir essas palavras.[lr]::
+40410::$$$message_0348_0022_0002$$$::"Não seja ridícula, eu não posso deixar Saber assim...![lr]::
+40411::$$$message_0348_0022_0003$$$::Olha, eu já disse que vou lutar. Então vou lutar até o fim, não importa[line2]"::
+40412::$$$message_0348_0023_0000$$$::"Guh...!"[lr]::
+40413::$$$message_0348_0023_0001$$$::Minha visão fica vermelha.[lr]::
+40414::$$$message_0348_0023_0002$$$::Não consigo... falar.[lr]::
+40415::$$$message_0348_0023_0003$$$::Só de gritar, todos os músculos do meu corpo entram em cãibra e sinto que vou morrer.::
+40416::$$$message_0348_0024_0000$$$::"Olhe para si mesmo. Você teve a ajuda de Saber até agora, mas é isso que acontece sem ela.[lr]::
+40417::$$$message_0348_0024_0001$$$::...Veja bem, Emiya. Humanos morrem quando são feridos. Seu ferimento deveria ser fatal."::
+40418::$$$message_0348_0025_0000$$$::"Ah... Haah, ah... Ah"[lr]::
+40419::$$$message_0348_0025_0001$$$::[font italic=true]...Droga.[font italic=false][lr]::
+40420::$$$message_0348_0025_0002$$$::Eu já sei disso.[lr]::
+40421::$$$message_0348_0025_0003$$$::Eu sei, mas estou com tanta dor que as palavras que preciso dizer não saem...::
+40422::$$$message_0348_0026_0000$$$::"E quanto a Saber, esse não é um problema com que você deva se preocupar.[lr]::
+40423::$$$message_0348_0026_0001$$$::Você não é mais um Mestre, então o que acontecer com Saber não diz respeito a você."::
+40424::$$$message_0348_0027_0000$$$::[font italic=true]...[font italic=false][lr]::
+40425::$$$message_0348_0027_0001$$$::Diz... respeito a mim.[lr]::
+40426::$$$message_0348_0027_0002$$$::Esta dor é a prova de que fui salvo por Saber até agora.::
+40427::$$$message_0348_0028_0000$$$::"...Não, mesmo que eu não seja... um Mestre.[lr]::
+40428::$$$message_0348_0028_0001$$$::Saber odiou aquilo. Como posso deixar que ela seja controlada por alguém assim...!?"::
+40429::$$$message_0348_0029_0000$$$::"...Sim. Mas você é impotente.[lr]::
+40430::$$$message_0348_0029_0001$$$::...Tudo bem, se você se recusa a admitir, então eu digo por você.[lr]::
+40431::$$$message_0348_0029_0002$$$::Do jeito que está agora, você não pode salvar Saber."::
+40432::$$$message_0348_0030_0000$$$::[font italic=true]...[font italic=false][lr]::
+40433::$$$message_0348_0030_0001$$$::O calor desaparece.[lr]::
+40434::$$$message_0348_0030_0002$$$::Até o fervor da minha mente congelou com aquelas palavras cruéis.::
+40435::$$$message_0348_0031_0000$$$::"Fim da conversa.[lr]::
+40436::$$$message_0348_0031_0001$$$::Sem Saber, você não é mais um Mestre.[lr]::
+40437::$$$message_0348_0031_0002$$$::Não há motivo para você se envolver na matança chamada Guerra do Santo Graal, então retire-se agora."::
+40438::$$$message_0348_0032_0000$$$::Tohsaka se vira e vai embora.::
+40439::$$$message_0348_0033_0000$$$::"Ugh...!"[lr]::
+40440::$$$message_0348_0033_0001$$$::Em meio ao vento que sopra pelo prédio...[lr]::
+40441::$$$message_0348_0033_0002$$$::Tohsaka chuta o chão, sem nenhuma hesitação.[lr]::
+40442::$$$message_0348_0033_0003$$$::"Idio[line2]Idiota, o que está pensando...!?"[lr]::
+40443::$$$message_0348_0033_0004$$$::Estendo a mão desesperadamente.::
+40444::$$$message_0348_0034_0000$$$::[font italic=true]...[font italic=false][lr]::
+40445::$$$message_0348_0034_0001$$$::Não há necessidade disso.[lr]::
+40446::$$$message_0348_0034_0002$$$::O cavaleiro vermelho aparece ao lado de Tohsaka, como se fosse protegê-la.[lr]::
+40447::$$$message_0348_0034_0003$$$::Mesmo que ela salte desta altura, deve conseguir aterrissar sem problema se tiver um Servo.::
+40448::$$$message_0348_0035_0000$$$::[font italic=true]...[font italic=false][lr]::
+40449::$$$message_0348_0035_0001$$$::Os lábios de Tohsaka se movem levemente.[lr]::
+40450::$$$message_0348_0035_0002$$$::...Não consigo ouvir o que ela disse.[lr]::
+40451::$$$message_0348_0035_0003$$$::Mas os olhos dela, que olham para mim...::
+40452::$$$message_0348_0036_0000$$$::       Você vai morrer se continuar se envolvendo.::
+40453::$$$message_0348_0037_0000$$$::Ela me diz isso friamente, como se fosse o último aviso.::
+40454::$$$message_0348_0038_0000$$$::[font italic=true]...[font italic=false][lr]::
+40455::$$$message_0348_0038_0001$$$::O calor que havia esfriado retorna.[lr]::
+40456::$$$message_0348_0038_0002$$$::Meus pensamentos se confundem por causa da dor e do calor.::
+40457::$$$message_0348_0039_0000$$$::    Eu não posso salvar Saber.[lr]::
+40458::$$$message_0348_0039_0001$$$::    Não há motivo para Emiya Shirou lutar.::
+40459::$$$message_0348_0040_0000$$$::[font italic=true]...[font italic=false][lr]::
+40460::$$$message_0348_0040_0001$$$::...Meu ferimento dói.[lr]::
+40461::$$$message_0348_0040_0002$$$::Repito essas palavras na minha cabeça enquanto olho para a vista noturna que engoliu Tohsaka.::

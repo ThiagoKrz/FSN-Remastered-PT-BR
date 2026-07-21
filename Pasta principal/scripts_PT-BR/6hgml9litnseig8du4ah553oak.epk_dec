@@ -1,136 +1,136 @@
 DAT
 id=qid::label=str::text=lstr::
-39042::$$$message_0336_0000_0000$$$::"......Está bem."[lr]::
-39043::$$$message_0336_0000_0001$$$::Eu vou dar uma olhada.[lr]::
-39044::$$$message_0336_0000_0002$$$::Tenho que descobrir o que aconteceu com o pão, e caso a Tohsaka não esteja dentro do quarto, vou ter que procurar por ela.::
-39045::$$$message_0336_0001_0000$$$::Eu entro no quarto com nervosismo.[lr]::
-39046::$$$message_0336_0001_0001$$$::"Bem, com licença...?"[lr]::
-39047::$$$message_0336_0001_0002$$$::Eu pergunto em voz baixa, mas ninguém responde.::
-39048::$$$message_0336_0002_0000$$$::"[line4]Ah, então ela não estava aqui afinal."[lr]::
-39049::$$$message_0336_0002_0001$$$::O quarto de visitantes está do jeito de sempre.[lr]::
-39050::$$$message_0336_0002_0002$$$::Não há nada de errado aqui dentro.[lr]::
-39051::$$$message_0336_0002_0003$$$::A única coisa que me chama a atenção é um objeto retangular em cima da mesa.::
-39052::$$$message_0336_0003_0000$$$::"...O que é isso?"[lr]::
-39053::$$$message_0336_0003_0001$$$::Ele tem cerca de 15 centímetros de comprimento e 6 centímetros de altura. É feito de plástico e se parece com uma caixa de almoço.::
-39054::$$$message_0336_0004_0000$$$::"Aliás, isso realmente é uma caixa de almoço."[lr]::
-39055::$$$message_0336_0004_0001$$$::Há três delas.[lr]::
-39056::$$$message_0336_0004_0002$$$::Eu não sei o que elas estão fazendo aqui.::
+39042::$$$message_0336_0000_0000$$$::"...Certo."[lr]::
+39043::$$$message_0336_0000_0001$$$::Vou olhar lá dentro.[lr]::
+39044::$$$message_0336_0000_0002$$$::Preciso descobrir para onde foi o pão desaparecido, e se Tohsaka não estiver lá, preciso sair para procurá-la.::
+39045::$$$message_0336_0001_0000$$$::Entro, nervoso por algum motivo.[lr]::
+39046::$$$message_0336_0001_0001$$$::"Ah, com licença...?"[lr]::
+39047::$$$message_0336_0001_0002$$$::Pergunto num sussurro, mas não há resposta alguma.::
+39048::$$$message_0336_0002_0000$$$::"...Ah. Então ela não está aqui mesmo, como eu imaginei."[lr]::
+39049::$$$message_0336_0002_0001$$$::O quarto de hóspedes está igual a sempre.[lr]::
+39050::$$$message_0336_0002_0002$$$::Não há nada diferente do normal.[lr]::
+39051::$$$message_0336_0002_0003$$$::A única coisa é este misterioso objeto retangular sobre a mesa.::
+39052::$$$message_0336_0003_0000$$$::"...O que é isto?"[lr]::
+39053::$$$message_0336_0003_0001$$$::O comprimento e a largura são de cerca de quinze centímetros, e a altura é de uns seis. É feito de plástico e parece uma marmita.::
+39054::$$$message_0336_0004_0000$$$::"Na verdade, é uma marmita."[lr]::
+39055::$$$message_0336_0004_0001$$$::Há três delas empilhadas.[lr]::
+39056::$$$message_0336_0004_0002$$$::Não faço ideia para que servem nem por que estão aqui.::
 39057::$$$message_0336_0005_0000$$$::"Por que a Tohsaka..."[lr]::
-39058::$$$message_0336_0005_0001$$$::Já que estou curioso, eu estico o braço para pegá-las.[lr]::
-39059::$$$message_0336_0005_0002$$$::[line4]E então.[lr]::
+39058::$$$message_0336_0005_0001$$$::A curiosidade me vence, e eu estendo a mão.[lr]::
+39059::$$$message_0336_0005_0002$$$::    Então...[lr]::
 39060::$$$message_0336_0005_0003$$$::"Hã?"[lr]::
-39061::$$$message_0336_0005_0004$$$::Eu escuto um barulho vindo atrás de mim.::
-39062::$$$message_0336_0006_0000$$$::"Hm......"[lr]::
-39063::$$$message_0336_0006_0001$$$::O som delicado de respiração.[lr]::
-39064::$$$message_0336_0006_0002$$$::Ela contorce o seu corpo e se vira na minha direção, talvez por conta da luz do Sol.::
-39065::$$$message_0336_0007_0000$$$::"[line21][r]::
-39066::$$$message_0336_0007_0001$$$::[line21][r]::
-39067::$$$message_0336_0007_0002$$$::[line21]"::
-39068::$$$message_0336_0008_0000$$$::Eu esqueço tudo aquilo que estava pensando.[lr]::
-39069::$$$message_0336_0008_0001$$$::A minha mente fica branca.[lr]::
-39070::$$$message_0336_0008_0002$$$::Eu prendo a respiração na mesma hora, e não consigo tirar os olhos dela.::
-39071::$$$message_0336_0009_0000$$$::"[line4]!"[lr]::
-39072::$$$message_0336_0009_0001$$$::Eu engulo seco.[lr]::
-39073::$$$message_0336_0009_0002$$$::Acho que não vai fazer mais diferença se eu fizer algum barulho.[lr]::
-39074::$$$message_0336_0009_0003$$$::As batidas do meu coração já estão altas demais.[lr]::
-39075::$$$message_0336_0010_0000$$$::"[line4]!"[lr]::
-39076::$$$message_0336_0010_0001$$$::Não, se acalme.[lr]::
-39077::$$$message_0336_0010_0002$$$::Calma, calma.[lr]::
-39078::$$$message_0336_0010_0003$$$::Eu não posso cometer um erro aqui.[lr]::
-39079::$$$message_0336_0010_0004$$$::Se eu quiser que a nossa cooperação continue sem nenhum problema, tenho que sair desse quarto em silêncio, como se nada tivesse acontecido.[lr]::
-39080::$$$message_0336_0010_0005$$$::Acho que eu morreria se a Tohsaka acordasse agora, e [r]bem[line3]Não vou conseguir cooperar com ela se continuar a olhando desse jeito.::
-39081::$$$message_0336_0011_0000$$$::"Hm... desculpa... isso vai levar um tempinho..."::
-39082::$$$message_0336_0012_0000$$$::"......!"[lr]::
-39083::$$$message_0336_0012_0001$$$::Eu dou um salto para trás.[lr]::
-39084::$$$message_0336_0012_0002$$$::...A Tohsaka ainda não acordou.[lr]::
-39085::$$$message_0336_0012_0003$$$::Ela deve estar em um sono profundo, e parece que vai continuar dormindo.::
-39086::$$$message_0336_0013_0000$$$::"[line4]Ufa."[lr]::
-39087::$$$message_0336_0013_0001$$$::Eu dou um suspiro e vou saindo do quarto aos poucos.[lr]::
-39088::$$$message_0336_0013_0002$$$::...Enquanto faço isso...[lr]::
-39089::$$$message_0336_0013_0003$$$::Eu sei que não deveria ficar olhando para a Tohsaka, mas não consigo tirar os meus olhos dela.::
-39090::$$$message_0336_0014_0000$$$::...Uma garota está dormindo.[lr]::
-39091::$$$message_0336_0014_0001$$$::O fato da Tohsaka ser uma garota me faz esquecer que ela é uma maga e um Mestre.::
-39092::$$$message_0336_0015_0000$$$::A respiração e o pijama bagunçado dela.[lr]::
-39093::$$$message_0336_0015_0001$$$::Essa cena é tão frustrante.[lr]::
-39094::$$$message_0336_0016_0000$$$::"Ah... hm, está tão claro..."::
-39095::$$$message_0336_0017_0000$$$::"[line8]!"[lr]::
-39096::$$$message_0336_0017_0001$$$::Um rosto indefeso dormindo.[lr]::
-39097::$$$message_0336_0017_0002$$$::Eu vou lentamente em direção à porta, mas sem conseguir tirar os olhos dela.[lr]::
-39098::$$$message_0336_0017_0003$$$::...Qual é a distância que preciso atravessar até chegar lá?[lr]::
-39099::$$$message_0336_0017_0004$$$::Esses dois metros pareciam uma eternidade, e eu deslizo até o corredor com o meu coração quase explodindo.::
-39100::$$$message_0336_0018_0000$$$::"Haa[line8]Haa."[lr]::
-39101::$$$message_0336_0018_0001$$$::E então, eu respiro fundo.[lr]::
-39102::$$$message_0336_0018_0002$$$::Eu solto a respiração que estive prendendo por todo esse tempo.::
-39103::$$$message_0336_0019_0000$$$::Os meus joelhos enfraquecem e eu caio no chão.[lr]::
-39104::$$$message_0336_0019_0001$$$::"[line3]Cara, o que foi aquilo...?"[lr]::
-39105::$$$message_0336_0019_0002$$$::...Bem, a culpa foi minha.[lr]::
-39106::$$$message_0336_0019_0003$$$::A culpa foi minha, mas eu só entrei lá porque tinha um bom motivo, está bem?::
-39107::$$$message_0336_0020_0000$$$::"[line12]Desculpa, Tohsaka."[lr]::
-39108::$$$message_0336_0020_0001$$$::Assim que sussurro isso, eu começo a sentir fome.[lr]::
-39109::$$$message_0336_0020_0002$$$::"...Ah."[lr]::
-39110::$$$message_0336_0020_0003$$$::Enfim...[lr]::
-39111::$$$message_0336_0020_0004$$$::Ainda bem que eu consegui sair de lá antes de ficar sem oxigênio...::
-39112::$$$message_0336_0021_0000$$$::...Eu começo a preparar o café da manhã.[lr]::
-39113::$$$message_0336_0021_0001$$$::Com isso, eu vou matar dois coelhos com uma cajadada só, já que vou acalmar a minha mente e ao mesmo tempo deixar a Tohsaka feliz se a comida estiver gostosa.::
-39114::$$$message_0336_0022_0000$$$::"Bom dia, Shirou. Você parece estar de bom humor hoje."::
-39115::$$$message_0336_0023_0000$$$::"Hm? Ah, bom dia, Saber. Eu estou mais tranquilo porque hoje é domingo e não tenho aula. Já que eu estou me sentindo bem, o que acha da gente treinar no dojô depois do café da manhã?"[lr]::
-39116::$$$message_0336_0023_0001$$$::Eu dou bom dia para a Saber enquanto descasco algumas batatas.::
-39117::$$$message_0336_0024_0000$$$::"Sim, eu adoraria. Então Shirou, o seu corpo já está de volta ao normal?"[lr]::
-39118::$$$message_0336_0024_0001$$$::"Ah, sobre isso. Eu melhorei um pouco depois de dormir. Eu ainda sinto que o meu corpo está meio pesado, mas até amanhã já devo estar curado."::
-39119::$$$message_0336_0025_0000$$$::"Ainda bem. Eu não consigo ficar sossegada quando o meu Mestre está ferido. Mas depois de ver que você está na cozinha como sempre, eu me sinto tranquila."[lr]::
-39120::$$$message_0336_0025_0001$$$::A Saber se senta ao lado da mesa na sua posição de sempre.::
+39061::$$$message_0336_0005_0004$$$::Ouço o som de algo rolando atrás de mim.::
+39062::$$$message_0336_0006_0000$$$::"Mm..."[lr]::
+39063::$$$message_0336_0006_0001$$$::Um suspiro pequeno.[lr]::
+39064::$$$message_0336_0006_0002$$$::A luz do sol deve estar forte, pois ela se contorce como se não conseguisse dormir direito e se vira para este lado.::
+39065::$$$message_0336_0007_0000$$$::"...[r]::
+39066::$$$message_0336_0007_0001$$$::...[r]::
+39067::$$$message_0336_0007_0002$$$::..."::
+39068::$$$message_0336_0008_0000$$$::Meus pensamentos ficam brancos num instante.[lr]::
+39069::$$$message_0336_0008_0001$$$::Tudo branco.[lr]::
+39070::$$$message_0336_0008_0002$$$::Minha respiração para na mesma hora, e não consigo desviar os olhos.::
+39071::$$$message_0336_0009_0000$$$::"Ah... Ah..."[lr]::
+39072::$$$message_0336_0009_0001$$$::Engulo seco.[lr]::
+39073::$$$message_0336_0009_0002$$$::Nem acho que seria ruim se eu fizesse algum som.[lr]::
+39074::$$$message_0336_0009_0003$$$::Se for para falar de barulho, as batidas do meu coração são mais altas.::
+39075::$$$message_0336_0010_0000$$$::"Urgh..."[lr]::
+39076::$$$message_0336_0010_0001$$$::[font italic=true]Não, calma.[font italic=false][lr]::
+39077::$$$message_0336_0010_0002$$$::[font italic=true]Fique calmo, fique calmo.[font italic=false][lr]::
+39078::$$$message_0336_0010_0003$$$::Não posso cometer um erro agora.[lr]::
+39079::$$$message_0336_0010_0004$$$::Preciso sair deste quarto como se nada tivesse acontecido, para garantir que nossa cooperação continue tranquila no futuro.[lr]::
+39080::$$$message_0336_0010_0005$$$::Provavelmente vou morrer se Tohsaka acordar agora, então, hã... Se eu olhar para Tohsaka por mais tempo, não vou conseguir continuar cooperando com ela.::
+39081::$$$message_0336_0011_0000$$$::"Mm... Desculpa... Vai demorar um pouco mais..."::
+39082::$$$message_0336_0012_0000$$$::"Guh...!"[lr]::
+39083::$$$message_0336_0012_0001$$$::Meu corpo salta para trás.[lr]::
+39084::$$$message_0336_0012_0002$$$::...Tohsaka ainda está dormindo.[lr]::
+39085::$$$message_0336_0012_0003$$$::Ela deve ter o sono pesado, pois parece que continuaria dormindo se eu a deixasse assim.::
+39086::$$$message_0336_0013_0000$$$::"...Ufa."[lr]::
+39087::$$$message_0336_0013_0001$$$::Suspiro de alívio e recuo devagar.[lr]::
+39088::$$$message_0336_0013_0002$$$::...Enquanto isso...[lr]::
+39089::$$$message_0336_0013_0003$$$::Sei que não deveria olhar, mas não consigo tirar os olhos de Tohsaka.::
+39090::$$$message_0336_0014_0000$$$::...Ali, havia apenas uma garota dormindo.[lr]::
+39091::$$$message_0336_0014_0001$$$::Tohsaka é uma garota, e isso me faz esquecer que ela é maga ou Mestre.::
+39092::$$$message_0336_0015_0000$$$::A respiração dela é a de alguém que não consegue dormir direito, e seu pijama está desalinhado.[lr]::
+39093::$$$message_0336_0015_0001$$$::Se eu a vir assim, não vou conseguir falar com ela naturalmente como tenho feito até agora...::
+39094::$$$message_0336_0016_0000$$$::"Ah... Mm, que claro..."::
+39095::$$$message_0336_0017_0000$$$::"...Nngh."[lr]::
+39096::$$$message_0336_0017_0001$$$::Seu rosto adormecido e indefeso.[lr]::
+39097::$$$message_0336_0017_0002$$$::Recuo lentamente até a porta, incapaz de desviar os olhos.[lr]::
+39098::$$$message_0336_0017_0003$$$::[font italic=true]...Quanto tempo isso levou?[font italic=false][lr]::
+39099::$$$message_0336_0017_0004$$$::A mera distância de dois metros pareceu infinita, e deslizo para o corredor, contendo o coração prestes a explodir.::
+39100::$$$message_0336_0018_0000$$$::"Haah... Haah."[lr]::
+39101::$$$message_0336_0018_0001$$$::Respiro fundo.[lr]::
+39102::$$$message_0336_0018_0002$$$::Solto o ar que fiquei prendendo esse tempo todo.::
+39103::$$$message_0336_0019_0000$$$::Meus joelhos cedem, e eu caio no chão.[lr]::
+39104::$$$message_0336_0019_0001$$$::"...Caramba, que diabos?"[lr]::
+39105::$$$message_0336_0019_0002$$$::...Bom, a culpa é totalmente minha.[lr]::
+39106::$$$message_0336_0019_0003$$$::[font italic=true]A culpa é minha, mas circunstâncias atenuantes não deveriam ser levadas em conta?[font italic=false]::
+39107::$$$message_0336_0020_0000$$$::"...Desculpa, Tohsaka."[lr]::
+39108::$$$message_0336_0020_0001$$$::No instante em que murmuro isso do fundo do coração, de repente me sinto cansado.[lr]::
+39109::$$$message_0336_0020_0002$$$::"...Cara."[lr]::
+39110::$$$message_0336_0020_0003$$$::Bom, enfim...[lr]::
+39111::$$$message_0336_0020_0004$$$::Ainda bem que consegui sair antes de sufocar...::
+39112::$$$message_0336_0021_0000$$$::...De qualquer forma, decido ir preparar o café da manhã.[lr]::
+39113::$$$message_0336_0021_0001$$$::Isso resolve duas coisas de uma vez, porque posso me acalmar preparando uma refeição caprichada, e Tohsaka ficará feliz se estiver gostosa.::
+39114::$$$message_0336_0022_0000$$$::"Bom dia, Shirou. Você está tranquilo esta manhã."::
+39115::$$$message_0336_0023_0000$$$::"Hm? Ah, bom dia, Saber. Posso relaxar porque hoje é domingo e não tem aula. Meu corpo também está bem, então vamos ao dojô depois do café."[lr]::
+39116::$$$message_0336_0023_0001$$$::Cumprimento-a enquanto descasco as batatas.::
+39117::$$$message_0336_0024_0000$$$::"Sim, seria ótimo. Então sua dormência já sarou?"[lr]::
+39118::$$$message_0336_0024_0001$$$::"Ah, pensando bem, sim. Sarou enquanto eu dormia. Ainda está um pouco pesado, mas deve estar totalmente recuperado amanhã."::
+39119::$$$message_0336_0025_0000$$$::"Isso é bom. Não tenho lugar se meu Mestre ainda está ferido. Fico aliviada ao vê-lo de pé na cozinha como sempre."[lr]::
+39120::$$$message_0336_0025_0001$$$::Saber se senta em seu lugar de sempre ao lado da mesa.::
 39121::$$$message_0336_0026_0000$$$::São oito e meia da manhã.[lr]::
-39122::$$$message_0336_0026_0001$$$::A Fuji-nee e a Tohsaka ainda estão dormindo, mas eu não vou perturbá-las.::
-39123::$$$message_0336_0027_0000$$$::"[line3]É mesmo. Graças a isso, eu estou começando a me esquecer daquela cena."[lr]::
-39124::$$$message_0336_0027_0001$$$::A imagem da Tohsaka dormindo está sendo trocada por batatas e cebolas.::
-39125::$$$message_0336_0028_0000$$$::Mesmo se a Tohsaka aparecer aqui na cozinha, eu não devo ter nenhum problema em agir normalmente.[lr]::
-39126::$$$message_0336_0028_0001$$$::Eu devo ser capaz de conversar com ela sem a menor dificuld[line4][lr]::
-39127::$$$message_0336_0028_0002$$$::"Bom dia, Rin. Parece que você dormiu bem ontem à noite."[lr]::
-39128::$$$message_0336_0028_0003$$$::"!!!!!!!!"[lr]::
-39129::$$$message_0336_0028_0004$$$::Eu fico paralisado.[lr]::
-39130::$$$message_0336_0028_0005$$$::E-Eu estou com tanto medo que não consigo nem virar o meu rosto para a sala.::
-39131::$$$message_0336_0029_0000$$$::"...Bom dia. Não foi bem assim. A luz do Sol estava muito forte, e dava para ouvir pessoas lá fora mesmo depois da meia-noite."[lr]::
-39132::$$$message_0336_0029_0001$$$::...A Tohsaka responde a Saber enquanto anda até a sala.::
-39133::$$$message_0336_0030_0000$$$::"[line8]"[lr]::
-39134::$$$message_0336_0030_0001$$$::Esse é um momento decisivo.[lr]::
-39135::$$$message_0336_0030_0002$$$::Calma, calma.[lr]::
-39136::$$$message_0336_0030_0003$$$::Vai ser moleza. Eu só tenho que preparar um pouco de chá para nós três e cumprimentá-la logo em seguida.::
-39137::$$$message_0336_0031_0000$$$::"[line8]Está bem."[lr]::
-39138::$$$message_0336_0031_0001$$$::Eu ponho as xícaras numa bandeja e dou uma última respirada.::
-39139::$$$message_0336_0032_0000$$$::Eu saio da cozinha e vou até a sala.[lr]::
-39140::$$$message_0336_0032_0001$$$::E então, eu ponho a bandeja em cima da mesa.[lr]::
-39141::$$$message_0336_0032_0002$$$::"E-Eaí. Essa é uma manhã com batatas e cebolas, Tohsaka."[lr]::
-39142::$$$message_0336_0033_0000$$$::[line4]Eu paro de respirar.[lr]::
-39143::$$$message_0336_0033_0001$$$::A Tohsaka está vestindo uma roupa diferente de novo.::
-39144::$$$message_0336_0034_0000$$$::"[line4]!"[lr]::
-39145::$$$message_0336_0034_0001$$$::Acalme-se.[lr]::
-39146::$$$message_0336_0034_0002$$$::Está tudo bem, eu já vi a Tohsaka usando essas roupas ontem. Eu já devo ter algum tipo de resistência.::
-39147::$$$message_0336_0035_0000$$$::"Não, quero dizer, eu vou preparar comida japonesa para o café da manhã.[lr]::
-39148::$$$message_0336_0035_0001$$$::Ainda vai levar um tempinho, então por que vocês não tomam um pouco de chá enquanto aguardam?"[lr]::
-39149::$$$message_0336_0035_0002$$$::Eu coloco as xícaras na frente da Saber e da Tohsaka.[lr]::
-39150::$$$message_0336_0035_0003$$$::[line3]Porém.::
-39151::$$$message_0336_0036_0000$$$::"Por que você é tão lerdo? Hoje nós vamos sair, então se arruma logo."[lr]::
-39152::$$$message_0336_0036_0001$$$::A Tohsaka olha para mim como se dissesse que o café da manhã pode ficar para depois.::
-39153::$$$message_0336_0037_0000$$$::"Hã[line3]? Para onde nós vamos, exatamente?"[lr]::
-39154::$$$message_0336_0037_0001$$$::"Para a cidade vizinha. Eu queria ir para um lugar bem distante, mas nós não temos tanto tempo livre assim, não é mesmo? Então isso é um compromisso."::
+39122::$$$message_0336_0026_0001$$$::Tenho que dizer que Fuji-nee e Tohsaka são dorminhocas por ainda não terem acordado, mas hoje não posso reclamar.::
+39123::$$$message_0336_0027_0000$$$::"...É. Graças a isso, estou começando a esquecer."[lr]::
+39124::$$$message_0336_0027_0001$$$::O rosto adormecido de Tohsaka em minha mente vai desbotando, graças às batatas e cebolas.::
+39125::$$$message_0336_0028_0000$$$::Eu ficaria bem se Tohsaka aparecesse a qualquer momento agora.[lr]::
+39126::$$$message_0336_0028_0001$$$::Sem dúvida, eu lidaria com isso com calma, como sempre, como se nada tivesse acontecido...[lr]::
+39127::$$$message_0336_0028_0002$$$::"Bom dia, Rin. Parece que você conseguiu dormir bem ontem à noite."[lr]::
+39128::$$$message_0336_0028_0003$$$::"Guh...!!!!!!!!!"[lr]::
+39129::$$$message_0336_0028_0004$$$::Minha espinha congela.[lr]::
+39130::$$$message_0336_0028_0005$$$::E-Estou com medo demais para olhar de volta para a sala.::
+39131::$$$message_0336_0029_0000$$$::"...Bom dia. Não muito. A luz do sol estava forte, e havia algumas pessoas se mexendo mesmo depois da meia-noite."[lr]::
+39132::$$$message_0336_0029_0001$$$::...Tohsaka responde a Saber e entra na sala.::
+39133::$$$message_0336_0030_0000$$$::[font italic=true]...[font italic=false][lr]::
+39134::$$$message_0336_0030_0001$$$::Este é um momento crucial.[lr]::
+39135::$$$message_0336_0030_0002$$$::[font italic=true]Calma, calma.[font italic=false][lr]::
+39136::$$$message_0336_0030_0003$$$::É simples. Só preciso preparar chá para nós três e cumprimentá-la enquanto a encaro.::
+39137::$$$message_0336_0031_0000$$$::"...Certo."[lr]::
+39138::$$$message_0336_0031_0001$$$::Coloco as xícaras na bandeja e respiro uma última vez.::
+39139::$$$message_0336_0032_0000$$$::Da cozinha para a sala.[lr]::
+39140::$$$message_0336_0032_0001$$$::Coloco a bandeja na mesa onde elas estão reunidas.[lr]::
+39141::$$$message_0336_0032_0002$$$::"E-Ei. Hoje de manhã temos batatas e cebolas, Tohsaka."::
+39142::$$$message_0336_0033_0000$$$::    Minha respiração para.[lr]::
+39143::$$$message_0336_0033_0001$$$::Tohsaka está usando algo desconhecido de novo.::
+39144::$$$message_0336_0034_0000$$$::"Urgh..."[lr]::
+39145::$$$message_0336_0034_0001$$$::[font italic=true]Eu disse para ficar calmo.[font italic=false][lr]::
+39146::$$$message_0336_0034_0002$$$::Tudo bem. Eu também a vi com roupas normais ontem. Já devo ter alguma resistência agora.::
+39147::$$$message_0336_0035_0000$$$::"Não. Quero dizer, o café da manhã vai ser comida japonesa.[lr]::
+39148::$$$message_0336_0035_0001$$$::Vai demorar um pouco mais, então tomem chá por enquanto."[lr]::
+39149::$$$message_0336_0035_0002$$$::Coloco xícaras diante de Tohsaka e Saber.[lr]::
+39150::$$$message_0336_0035_0003$$$::   Então...::
+39151::$$$message_0336_0036_0000$$$::"Por que está enrolando? Vamos sair hoje, então se apresse e vá se arrumar."[lr]::
+39152::$$$message_0336_0036_0001$$$::Tohsaka me encara, como se dissesse que o café da manhã pode ficar para depois.::
+39153::$$$message_0336_0037_0000$$$::"Hã...? Hm, para onde vamos?"[lr]::
+39154::$$$message_0336_0037_0001$$$::"Para a cidade vizinha. Na verdade, eu queria ir mais longe, mas não temos folga, certo? Então é um meio-termo."::
 39155::$$$message_0336_0038_0000$$$::"...?"[lr]::
-39156::$$$message_0336_0038_0001$$$::Será que a Tohsaka está planejando algum ataque surpresa?[lr]::
-39157::$$$message_0336_0038_0002$$$::Eu não entendi qual é a intenção dela.::
-39158::$$$message_0336_0039_0000$$$::"Sei... Eu entendi o que você quer, mas o que nós vamos fazer lá?"[lr]::
-39159::$$$message_0336_0039_0001$$$::"Nós vamos nos divertir, não é claro? Isso será um encontro."::
-39160::$$$message_0336_0040_0000$$$::"Encontro[line3]quem vai se encontrar com quem?"[lr]::
-39161::$$$message_0336_0040_0001$$$::"Eu e o Shirou."[lr]::
-39162::$$$message_0336_0040_0002$$$::Ela diz isso com a maior tranquilidade do mundo.[lr]::
-39163::$$$message_0336_0040_0003$$$::"[line8]?"[lr]::
-39164::$$$message_0336_0040_0004$$$::Depois de inclinar a cabeça e pensar...::
-39165::$$$message_0336_0041_0000$$$::"EU E A TOHSAKA VAMOS TER UM E-ENCONTROOOO!?"[normal][lr]::
-39166::$$$message_0336_0041_0001$$$::"Quem além de nós teria um encontro? Eu te disse isso ontem, não se lembra?"[lr]::
-39167::$$$message_0336_0041_0002$$$::"Gah[line4]"::
-39168::$$$message_0336_0042_0000$$$::Eu estou com tontura.[lr]::
-39169::$$$message_0336_0042_0001$$$::Eu até queria questioná-la sobre isso, mas a Tohsaka está fazendo uma pose tão elegante que não consigo reclamar.::
-39170::$$$message_0336_0043_0000$$$::"Que isso, vamos lá. Eu sabia que você ia reagir assim, então já deixei o almoço preparado. Aqui, segura essa sacola e vem comigo."[lr]::
-39171::$$$message_0336_0043_0001$$$::Ela me entrega uma sacola verde e sai da sala logo em seguida.::
-39172::$$$message_0336_0044_0000$$$::"[line8]"[lr]::
-39173::$$$message_0336_0044_0001$$$::Eu fico olhando para ela, sem acreditar no que acabou de acontecer.[lr]::
-39174::$$$message_0336_0044_0002$$$::"Shirou...? Você não vai atrás da Rin?"[lr]::
-39175::$$$message_0336_0044_0003$$$::"Oh... Yeah, wait up, Tohsaka...!",�4
+39156::$$$message_0336_0038_0001$$$::[font italic=true]Isso é algum tipo de ataque preventivo?[font italic=false][lr]::
+39157::$$$message_0336_0038_0002$$$::Não consigo entender as intenções de Tohsaka.::
+39158::$$$message_0336_0039_0000$$$::"Certo. Entendi que é um meio-termo, mas para quê?"[lr]::
+39159::$$$message_0336_0039_0001$$$::"Nós vamos nos divertir, é claro. É um encontro."::
+39160::$$$message_0336_0040_0000$$$::"Um encontro... Quem com quem?"[lr]::
+39161::$$$message_0336_0040_0001$$$::"Você e eu."[lr]::
+39162::$$$message_0336_0040_0002$$$::Ela diz claramente.[lr]::
+39163::$$$message_0336_0040_0003$$$::"...?"[lr]::
+39164::$$$message_0336_0040_0004$$$::Depois que inclino a cabeça, confuso...::
+39165::$$$message_0336_0041_0000$$$:: "E-ENCONTRO... EU E A TOHSAKAAAAAAA!?"[lr]::
+39166::$$$message_0336_0041_0001$$$::"Quem mais seria? Eu te disse ontem à noite."[lr]::
+39167::$$$message_0336_0041_0002$$$::"Guh..."::
+39168::$$$message_0336_0042_0000$$$::Sinto tontura.[lr]::
+39169::$$$message_0336_0042_0001$$$::Quero responder alguma coisa, mas Tohsaka está tão imponente que não consigo nem contestar.::
+39170::$$$message_0336_0043_0000$$$::"Vamos, venha logo. Imaginei que isso aconteceria, então preparei o almoço. Aqui, segure isto e me siga."[lr]::
+39171::$$$message_0336_0043_0001$$$::Tohsaka empurra a sacola verde para cima de mim e sai da sala.::
+39172::$$$message_0336_0044_0000$$$::[font italic=true]...[font italic=false][lr]::
+39173::$$$message_0336_0044_0001$$$::Eu a vejo partir, atônito.[lr]::
+39174::$$$message_0336_0044_0002$$$::"Shirou...? Você não precisa ir atrás dela?"[lr]::
+39175::$$$message_0336_0044_0003$$$::"Ah... Sim, espera, Tohsaka...!"::

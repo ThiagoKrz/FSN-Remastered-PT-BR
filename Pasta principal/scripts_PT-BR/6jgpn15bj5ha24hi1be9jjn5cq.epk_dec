@@ -1,63 +1,62 @@
 DAT
 id=qid::label=str::text=lstr::
-34364::$$$message_0277_0000_0000$$$::Não tem ninguém em casa.[lr]::
-34365::$$$message_0277_0000_0001$$$::O corredor está silencioso.[lr]::
-34366::$$$message_0277_0000_0002$$$::Minhas orelhas talvez ainda estejam zoadas, já que eu não consigo nem ouvir meus próprios passos.[lr]::
-34367::$$$message_0277_0000_0003$$$::A dormência nos meus membros não acaba, e eu não sinto que estou pisando no chão.::
-34368::$$$message_0277_0001_0000$$$::"[line8]"[lr]::
-34369::$$$message_0277_0001_0001$$$::Surpreso que eu ainda consigo caminhar nessa condição, eu vou com a Saber pro meu quarto.::
-34370::$$$message_0277_0002_0000$$$::"Não vamos treinar hoje. Você deve estar cansada, certo?[lr]::
-34371::$$$message_0277_0002_0001$$$::Você foi fortemente ferida também."[lr]::
-34372::$$$message_0277_0002_0002$$$::Eu converso com a Saber quando chegamos no meu quarto.::
-34373::$$$message_0277_0003_0000$$$::"...Não, eu não tenho nenhum problema. Eu usei energia mágica para me curar, mas eu ainda sou capaz de reabastecer esta energia mágica.[lr]::
-34374::$$$message_0277_0003_0001$$$::Além disso, Shirou. Tem algo errado com o seu corpo?"::
-34375::$$$message_0277_0004_0000$$$::"...? Não, eu tô bem. Meus membros ainda estão pesados, mas é como dor muscular, então eu aposto que vai sarar até amanhã."::
-34376::$$$message_0277_0005_0000$$$::"......Tudo bem. Mas por favor me conte se seu corpo estiver doendo."::
-34377::$$$message_0277_0006_0000$$$::"Sim. Você pode me acordar também se algo acontecer. Se você ficar com fome a noite, eu vou te preparar algo."[lr]::
-34378::$$$message_0277_0006_0001$$$::Eu não posso prover energia mágica pra ela, então tudo que eu posso fazer é comida pra deixar ela feliz.::
-34379::$$$message_0277_0007_0000$$$::"...Shirou. Por favor não se esforçe demais."[lr]::
-34380::$$$message_0277_0007_0001$$$::A Saber vai para a próxima sala.::
-34381::$$$message_0277_0008_0000$$$::"......Sim. Acho que vou pra cama."[lr]::
-34382::$$$message_0277_0008_0001$$$::Eu abro meu futon no chão e deito nele.[lr]::
-34383::$$$message_0277_0008_0002$$$::Meus membros estão um pouco dormentes.[lr]::
-34384::$$$message_0277_0008_0003$$$::Talvez seja o efeito da magia que eu não estou acostumado a fazer, já que eu sinto que vou desmaiar se deixar minha guarda cair.::
-34385::$$$message_0277_0009_0000$$$::"...Hm. ...O que tá acontecendo[line4]?"[lr]::
-34386::$$$message_0277_0009_0001$$$::Eu acho... que tô cansado.[lr]::
-34387::$$$message_0277_0009_0002$$$::O zunido na minha orelha me irrita, mas eu acho que ainda vou conseguir uma boa noite de sono[line4]::
-34388::$$$message_0277_0010_0000$$$::"[line3]! [line3]Ah......"[normal]::
-34389::$$$message_0277_0011_0000$$$::"Ah, gu[line3], guh[line3]"[normal]::
-34390::$$$message_0277_0012_0000$$$::"Haa[line3]Haa[line3], ha, gi[line3]"[normal]::
-34391::$$$message_0277_0013_0000$$$::"Ah[line3]guh[line3]......!!!!!"[normal][lr]::
-34392::$$$message_0277_0013_0001$$$::Eu aperto o futon.[lr]::
-34393::$$$message_0277_0013_0002$$$::Eu sinto metal quente subindo pela minha garganta.[lr]::
-34394::$$$message_0277_0013_0003$$$::Todo músculo, todo osso do meu corpo tá bagunçado.::
-34395::$$$message_0277_0014_0000$$$::"Gi[line3]ah, guh[line3]!"[normal][lr]::
-34396::$$$message_0277_0014_0001$$$::Eu ouço um rangido com minhas dormentes orelhas.[lr]::
-34397::$$$message_0277_0014_0002$$$::O som de ossos rangendo tá vindo de dentro de mim.[lr]::
-34398::$$$message_0277_0014_0003$$$::Do que eles não gostam?[lr]::
-34399::$$$message_0277_0014_0004$$$::Meus ossos estão contraindo como se estivessem reclamando, e minhas costelas tremendo como se fossem explodir para fora do meu corpo.::
-34400::$$$message_0277_0015_0000$$$::"Guh[line3]haa[line3]......!"[normal][lr]::
-34401::$$$message_0277_0015_0001$$$::Dor corre pelo meu corpo.[lr]::
-34402::$$$message_0277_0015_0002$$$::Meu corpo inteiro é empurrado pra baixo com uma grande força, mas a dor tá vindo de dentro.[lr]::
-34403::$$$message_0277_0015_0003$$$::Tá condensada em um lugar pequeno, mas a contradição é que meu corpo tá expandindo.::
-34404::$$$message_0277_0016_0000$$$::"Gah[line3]......!"[normal][lr]::
-34405::$$$message_0277_0016_0001$$$::Dor corre pelo meu corpo.[lr]::
-34406::$$$message_0277_0016_0002$$$::Meu corpo inteiro é empurrado pra baixo com uma grande força, mas a dor tá vindo de dentro.[lr]::
-34407::$$$message_0277_0017_0000$$$::"Haa[line3]ah, ah[line3]"[normal][lr]::
-34408::$$$message_0277_0017_0001$$$::No topo do meu futon,[normal][lr]::
-34409::$$$message_0277_0017_0002$$$::Eu balanço como um inseto e tento lidar com a dor desconhecida.[normal][lr]::
-34410::$$$message_0277_0017_0003$$$::...Meu cérebro tá fritando.[lr]::
-34411::$$$message_0277_0018_0000$$$::"Guh[line3]ah[line3]........."[normal][lr]::
-34412::$$$message_0277_0018_0001$$$::Mas por algum motivo, eu não quero pedir ajuda pra Saber.[lr]::
-34413::$$$message_0277_0018_0002$$$::Eu não quero preocupar ela, e eu tenho que ser responsável pelo que eu fiz.[lr]::
-34414::$$$message_0277_0018_0003$$$::"...É natural... fazer isso[line3]"[normal][lr]::
-34415::$$$message_0277_0018_0004$$$::Eu suprimo meus gemidos enquanto eu suo.::
-34416::$$$message_0277_0019_0000$$$::...O relógio que eu observo com minha vaga mente diz que ainda não é meia noite.[lr]::
-34417::$$$message_0277_0019_0001$$$::Eu devo conseguir escapar dessa dor se eu dormir, mas eu tenho certeza que ela vai me acordar mesmo se eu conseguir.::
-34418::$$$message_0277_0020_0000$$$::"Ha[line3]Haa[line3]gu[line3]......!!!"[normal][lr]::
-34419::$$$message_0277_0020_0001$$$::...Eu tô entrando em transe.[lr]::
-34420::$$$message_0277_0020_0002$$$::Minha mente tá cozinhando.[lr]::
-34421::$$$message_0277_0020_0003$$$::A dor deve acabar assim que o sol aparecer.[lr]::
-34422::$$$message_0277_0020_0004$$$::Mas até então...[lr]::
-34423::$$$message_0277_0020_0005$$$::Eu tenho que lidar com essa dor por volta de sete horas, e esse fato sozinho parece um sonho ruim[line4]::
-�
+34364::$$$message_0277_0000_0000$$$::Não há ninguém em casa.[lr]::
+34365::$$$message_0277_0000_0001$$$::O corredor está em silêncio absoluto.[lr]::
+34366::$$$message_0277_0000_0002$$$::Meus ouvidos talvez ainda estejam ruins, pois não consigo ouvir nem meus próprios passos.[lr]::
+34367::$$$message_0277_0000_0003$$$::A dormência nos membros não passa, e não sinto o chão sob meus pés.::
+34368::$$$message_0277_0001_0000$$$::[font italic=true]...[font italic=false][lr]::
+34369::$$$message_0277_0001_0001$$$::Surpreso por ainda conseguir andar nesse estado, sigo direto para o meu quarto, sem conversar.::
+34370::$$$message_0277_0002_0000$$$::"Não vamos treinar hoje. Você também deve estar cansada, certo?[lr]::
+34371::$$$message_0277_0002_0001$$$::Você também foi gravemente ferida."[lr]::
+34372::$$$message_0277_0002_0002$$$::Saber me acompanha até o quarto.::
+34373::$$$message_0277_0003_0000$$$::"...Não, não há problema. Usei Energia Mágica para me curar, e ainda tenho o bastante para repô-la.[lr]::
+34374::$$$message_0277_0003_0001$$$::Mais importante, Shirou: sente alguma anormalidade no corpo?"::
+34375::$$$message_0277_0004_0000$$$::"Hm? Não, estou bem. Meus membros ainda estão pesados, mas acho que é só dor muscular. Deve passar até amanhã."::
+34376::$$$message_0277_0005_0000$$$::"...Entendido. Ainda assim, por favor, me avise se seu corpo doer."::
+34377::$$$message_0277_0006_0000$$$::"Sim. Você também pode me acordar se acontecer alguma coisa. Se ficar com fome no meio da noite, eu preparo um lanche ou algo assim."[lr]::
+34378::$$$message_0277_0006_0001$$$::Não posso fornecer Energia Mágica a Saber, então a única coisa que posso fazer é comida para animá-la.::
+34379::$$$message_0277_0007_0000$$$::"...Shirou. Por favor, não se esforce demais."[lr]::
+34380::$$$message_0277_0007_0001$$$::Ela vai para o quarto ao lado do meu.::
+34381::$$$message_0277_0008_0000$$$::"...Sim. Melhor eu dormir logo."[lr]::
+34382::$$$message_0277_0008_0001$$$::Eu arrumo o futon e me deito.[lr]::
+34383::$$$message_0277_0008_0002$$$::Meus membros ainda estão dormentes.[lr]::
+34384::$$$message_0277_0008_0003$$$::Talvez seja um efeito colateral da Magia à qual não estou acostumado, mas sinto que posso apagar a qualquer instante.::
+34385::$$$message_0277_0009_0000$$$::"...Hm... Não, idiota, eu..."[lr]::
+34386::$$$message_0277_0009_0001$$$::Na verdade, estou cansado.[lr]::
+34387::$$$message_0277_0009_0002$$$::O zumbido nos ouvidos incomoda, mas parece que vou conseguir dormir bem pela primeira vez em um bom tempo...::
+34388::$$$message_0277_0010_0000$$$::"Ugh... Ah..."::
+34389::$$$message_0277_0011_0000$$$::"Ah... Ugh... Guh..."::
+34390::$$$message_0277_0012_0000$$$::"Haah... haah... haah... Guh..."::
+34391::$$$message_0277_0013_0000$$$::"Ugh... Guh...!!!"[lr]::
+34392::$$$message_0277_0013_0001$$$::Arranho o futon.[lr]::
+34393::$$$message_0277_0013_0002$$$::Parece que aço derretido sobe pela minha garganta.[lr]::
+34394::$$$message_0277_0013_0003$$$::Cada músculo e cada osso do meu corpo estão destruídos.::
+34395::$$$message_0277_0014_0000$$$::"Ungh... Ugh... Guh...!"[lr]::
+34396::$$$message_0277_0014_0001$$$::Um som de trituração ecoa nos meus ouvidos dormentes.[lr]::
+34397::$$$message_0277_0014_0002$$$::O som de ossos rangendo vem de dentro de mim.[lr]::
+34398::$$$message_0277_0014_0003$$$::O que há de errado com eles?[lr]::
+34399::$$$message_0277_0014_0004$$$::Os ossos dos meus membros parecem se partir em protesto, e minhas costelas se contorcem como se tentassem atravessar os músculos do peito.::
+34400::$$$message_0277_0015_0000$$$::"Guh... Haah...!"[lr]::
+34401::$$$message_0277_0015_0001$$$::Agonia percorre meu corpo inteiro.[lr]::
+34402::$$$message_0277_0015_0002$$$::É como se meu corpo fosse esmagado por um torno gigantesco do lado de fora, mas a dor vem de dentro.[lr]::
+34403::$$$message_0277_0015_0003$$$::Estou sendo esmagado. Estou sendo despedaçado.::
+34404::$$$message_0277_0016_0000$$$::"Guh...!!!"[lr]::
+34405::$$$message_0277_0016_0001$$$::Em cima do futon...[lr]::
+34406::$$$message_0277_0016_0002$$$::Eu me contorço como um inseto e tento suportar a angústia.::
+34407::$$$message_0277_0017_0000$$$::"Haah... Ah, ah..."[lr]::
+34408::$$$message_0277_0017_0001$$$::...Minha testa está quente.[lr]::
+34409::$$$message_0277_0017_0002$$$::Meu cérebro deve ser incapaz de suportar essa dor. Ele queima como uma sauna.[lr]::
+34410::$$$message_0277_0017_0003$$$::Já não me importa se isso é o preço por usar uma Magia além da minha capacidade, ou se é a anormalidade sobre a qual Saber me avisou.::
+34411::$$$message_0277_0018_0000$$$::"Guh... Ah..."[lr]::
+34412::$$$message_0277_0018_0001$$$::Mas, por algum motivo, não quero chamar Saber para pedir ajuda.[lr]::
+34413::$$$message_0277_0018_0002$$$::Não quero preocupá-la por algo assim. Tenho que lidar com isso sozinho.[lr]::
+34414::$$$message_0277_0018_0003$$$::"...É assim... que tem que ser..."[lr]::
+34415::$$$message_0277_0018_0004$$$::Eu reprimo desesperadamente cada gemido enquanto suo sem parar.::
+34416::$$$message_0277_0019_0000$$$::...O relógio que olho distraidamente nem chegou à meia-noite.[lr]::
+34417::$$$message_0277_0019_0001$$$::Seria mais fácil se eu simplesmente dormisse, mas tenho certeza de que essa dor vai me acordar mesmo que eu consiga.::
+34418::$$$message_0277_0020_0000$$$::"Haah... Haah... Guh...!!!"[lr]::
+34419::$$$message_0277_0020_0001$$$::...Estou entrando em transe.[lr]::
+34420::$$$message_0277_0020_0002$$$::Minha consciência está se apagando.[lr]::
+34421::$$$message_0277_0020_0003$$$::A dor deve passar quando o sol nascer.[lr]::
+34422::$$$message_0277_0020_0004$$$::Mas, até lá...[lr]::
+34423::$$$message_0277_0020_0005$$$::Só o fato de eu ter que suportar essa dor por mais sete horas já parece um pesadelo...::

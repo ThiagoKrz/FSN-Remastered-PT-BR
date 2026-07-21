@@ -1,78 +1,77 @@
 DAT
 id=qid::label=str::text=lstr::
-49625::$$$message_0428_0000_0000$$$::[line3]O problema é a Tohsaka.[lr]::
-49626::$$$message_0428_0000_0001$$$::Tá ficando tarde, então eu tenho que fazer ela ir pra casa.::
-49627::$$$message_0428_0001_0000$$$::"Fuji-nee, você sabe aonde a Tohsaka tá?"[lr]::
-49628::$$$message_0428_0001_0001$$$::"Eu acho que a Tohsaka-san foi pro quintal. Ela me perguntou o que tava lá no canto."::
-49629::$$$message_0428_0002_0000$$$::"Canto do quintal...?"[lr]::
-49630::$$$message_0428_0002_0001$$$::Ela tá falando do galpão?[lr]::
-49631::$$$message_0428_0002_0002$$$::Mas por que a Tohsaka teria algo pra fazer lá?::
-49632::$$$message_0428_0003_0000$$$::"[line4]Tá muito frio."[lr]::
-49633::$$$message_0428_0003_0001$$$::O ar do inverno esfria meu corpo quente.[lr]::
-49634::$$$message_0428_0003_0002$$$::Eu não consigo ver as estrelas por causa das nuvens, e tem neve por toda a grama.::
-49635::$$$message_0428_0004_0000$$$::"...Cara. O que a Tohsaka tá fazendo aqui fora no frio?"[lr]::
-49636::$$$message_0428_0004_0001$$$::Eu ando pelo quintal, tremendo de frio.[lr]::
-49637::$$$message_0428_0004_0002$$$::Eu penso em comprar um casaco enquanto eu caminho até o galpão.::
-49638::$$$message_0428_0005_0000$$$::"Emiya-kun!?"[lr]::
-49639::$$$message_0428_0005_0001$$$::"E aí, o que você tá fazendo aqui? Tá ficando tarde, então a gente não tem tempo pra ficar brincando."::
-49640::$$$message_0428_0006_0000$$$::"Ah, sim. Esse lugar realmente tá frio."[lr]::
-49641::$$$message_0428_0006_0001$$$::"......"[lr]::
-49642::$$$message_0428_0006_0002$$$::Ela tá agindo de forma suspeita.[lr]::
-49643::$$$message_0428_0006_0003$$$::Ela parece tão surpresa que eu tô começando a ficar curioso.::
-49644::$$$message_0428_0007_0000$$$::"Tohsaka. A porta pro galpão tá aberta."[lr]::
-49645::$$$message_0428_0007_0001$$$::"N-Não fui eu! Tava aberta quando eu cheguei aqui!"::
-49646::$$$message_0428_0008_0000$$$::"Que estranho. Eu pensei que tinha trancado ela por fora."[lr]::
-49647::$$$message_0428_0008_0001$$$::"Isso é uma acusação falsa. Primeiramente, você só consegue trancar essa porta velha por dentro."::
-49648::$$$message_0428_0009_0000$$$::"Sim, tá certo. A porta tá sempre aberta e você só consegue trancar ela por dentro. Então, como você sabe disso, Tohsaka?"::
-49649::$$$message_0428_0010_0000$$$::"[line4]!"[lr]::
-49650::$$$message_0428_0010_0001$$$::Ela morde o lábio dela.[lr]::
-49651::$$$message_0428_0010_0002$$$::Eu tô começando a entender que a Tohsaka é bem fraca contra ataques surpresas vindos de lugares inesperados.::
-49652::$$$message_0428_0011_0000$$$::"Eu não ligo. Não tem nada ali dentro, certo?[lr]::
-49653::$$$message_0428_0011_0001$$$::Esse é o meu lugar de treino, mas tudo que eu faço é praticar minha taumaturgia de fortalecimento. Isso não é brincadeira de criança pra você?"[lr]::
-49654::$$$message_0428_0011_0002$$$::Incito a Tohsaka a voltar para casa.::
-49655::$$$message_0428_0012_0000$$$::...Então.[lr]::
-49656::$$$message_0428_0012_0001$$$::"[line3]Entendi. Então você não percebeu isso, huh?"[lr]::
-49657::$$$message_0428_0012_0002$$$::A Tohsaka me encara como se estivesse me desafiando.::
+49625::$$$message_0428_0000_0000$$$::   O problema é Tohsaka.[lr]::
+49626::$$$message_0428_0000_0001$$$::Já está tarde, então será perigoso se eu não a fizer voltar para casa logo.::
+49627::$$$message_0428_0001_0000$$$::"Fuji-nee, sabe onde Tohsaka está?"[lr]::
+49628::$$$message_0428_0001_0001$$$::"Acho que a Tohsaka foi para o quintal. Ela me perguntou o que havia naquele canto."::
+49629::$$$message_0428_0002_0000$$$::"O canto do quintal...?"[lr]::
+49630::$$$message_0428_0002_0001$$$::Ela quer dizer o galpão?[lr]::
+49631::$$$message_0428_0002_0002$$$::Mas por que ela teria algo para fazer lá?::
+49632::$$$message_0428_0003_0000$$$::"...Nossa, está frio."[lr]::
+49633::$$$message_0428_0003_0001$$$::O ar do inverno esfria rapidamente meu corpo aquecido.[lr]::
+49634::$$$message_0428_0003_0002$$$::As nuvens impedem as estrelas de brilhar, e há uma fina camada de neve no chão.::
+49635::$$$message_0428_0004_0000$$$::"...Cara, o que Tohsaka está fazendo aqui fora neste frio?"[lr]::
+49636::$$$message_0428_0004_0001$$$::Eu tremo e atravesso o quintal.[lr]::
+49637::$$$message_0428_0004_0002$$$::Enquanto sigo para o galpão, penso em comprar um casaco da próxima vez que for às compras.::
+49638::$$$message_0428_0005_0000$$$::"Hã, Emiya!?"[lr]::
+49639::$$$message_0428_0005_0001$$$::"Não venha com 'Emiya'. O que está fazendo aqui, Tohsaka? Está ficando tarde, então não temos tempo para brincar."::
+49640::$$$message_0428_0006_0000$$$::"Ah, sim. Este lugar certamente é frio."[lr]::
+49641::$$$message_0428_0006_0001$$$::"..."[lr]::
+49642::$$$message_0428_0006_0002$$$::Ela está suspeita.[lr]::
+49643::$$$message_0428_0006_0003$$$::Está agindo de um jeito tão suspeito que começo a ficar curioso sobre o que estava fazendo.::
+49644::$$$message_0428_0007_0000$$$::"Tohsaka, a porta do galpão está aberta."[lr]::
+49645::$$$message_0428_0007_0001$$$::"N-não fui eu! Já estava aberta desde o começo!"::
+49646::$$$message_0428_0008_0000$$$::"Que estranho. Achei que a tivesse trancado por fora."[lr]::
+49647::$$$message_0428_0008_0001$$$::"Idi[line2]você está tentando me acusar de alguma coisa. Para começar, aquela porta velha só pode ser trancada por dentro."::
+49648::$$$message_0428_0009_0000$$$::"Sim, é verdade. O galpão fica sempre aberto, e só dá para trancá-lo por dentro. Então como você sabe disso, Tohsaka?"::
+49649::$$$message_0428_0010_0000$$$::"Ugh..."[lr]::
+49650::$$$message_0428_0010_0001$$$::Ela estala a língua, reconhecendo que escorregou.[lr]::
+49651::$$$message_0428_0010_0002$$$::Começo a entender que Tohsaka é bem ruim para lidar com ataques surpresa que não havia previsto.::
+49652::$$$message_0428_0011_0000$$$::"Bem, tudo bem. Não havia nada lá dentro, certo?[lr]::
+49653::$$$message_0428_0011_0001$$$::É onde eu treino, mas tudo que faço lá é praticar Fortalecimento. Não é brincadeira de criança para você?"[lr]::
+49654::$$$message_0428_0011_0002$$$::Insisto para Tohsaka voltar para dentro.::
+49655::$$$message_0428_0012_0000$$$::Porém...[lr]::
+49656::$$$message_0428_0012_0001$$$::"...Entendo. Você realmente não percebeu."[lr]::
+49657::$$$message_0428_0012_0002$$$::Tohsaka me encara como se eu fosse um obstáculo a superar.::
 49658::$$$message_0428_0013_0000$$$::"Tohsaka...?"[lr]::
-49659::$$$message_0428_0013_0001$$$::Eu me preparo com a mudança repentina na atmosfera.[lr]::
-49660::$$$message_0428_0013_0002$$$::A Tohsaka estreita a visão dela depois de ver minha reação.::
-49661::$$$message_0428_0014_0000$$$::"Foi o que eu pensei. É natural a sua taumaturgia falhar se quem tá fazendo ela tá fazendo desse jeito."[lr]::
-49662::$$$message_0428_0014_0001$$$::"[line3]Pera. Você tá falando de taumaturgia de projeção?"::
-49663::$$$message_0428_0015_0000$$$::"Sim. Eu tô falando sobre as 'réplicas sem nada dentro' do galpão.[lr]::
-49664::$$$message_0428_0015_0001$$$::...Eu aposto que você não sabe o quão ridículo isso é. Você não tem processo ou simplificação. Você é ridículo de toda forma possível, tentando usar taumaturgia de projeção como uma extensão da taumaturgia de fortalecimento."::
-49665::$$$message_0428_0016_0000$$$::"[line3]Bom, me desculpa.[lr]::
-49666::$$$message_0428_0016_0001$$$::Mas eu não espero que dê certo já que a taumaturgia de projeção é só uma prática pra taumaturgia de fortalecimento. É só uma maneira pra eu confirmar o básico."::
-49667::$$$message_0428_0017_0000$$$::"Eu tô te falando que essa é a parte ridícula. Você tá usando projeção pra confirmar o básico? ...Tenta falar isso pra um mago além de mim. Eles vão te colocar em formalina junto com o seu cérebro."::
-49668::$$$message_0428_0018_0000$$$::"[line8]"[lr]::
-49669::$$$message_0428_0018_0001$$$::A Tohsaka parece séria, e não tem humor na voz dela.::
-49670::$$$message_0428_0019_0000$$$::"...Me desculpa, Tohsaka. Eu não entendo muito bem o que você quer dizer, mas você tá falando pra eu praticar mais?"::
-49671::$$$message_0428_0020_0000$$$::"Isso é óbvio. Tudo que você pode fazer é continuar treinando.[lr]::
-49672::$$$message_0428_0020_0001$$$::Mas sim[line3]se a gente quer te fazer mais forte, você talvez fique útil se nós mudarmos o processo só um pouco."[lr]::
-49673::$$$message_0428_0020_0002$$$::Aonde que foi aquela raiva? A Tohsaka começa a ponderar seriamente.::
-49674::$$$message_0428_0021_0000$$$::"Hm...? Mudar o processo? Você diz sobre a minha taumaturgia de fortalecimento?"[lr]::
-49675::$$$message_0428_0021_0001$$$::"O que você tava ouvindo, seu idiota!? É taumaturgia de projeção![lr]::
-49676::$$$message_0428_0021_0002$$$::A gente não pode contar com taumaturgia de fortalecimento feita por um amador, mas taumaturgia de projeção é diferente. Você foi capaz de temporariamente projetar as espadas do Archer, então você vai ser uma força imediatamente se você conseguir fazer aquilo de novo!"::
-49677::$$$message_0428_0022_0000$$$::"...Tohsaka. Isso é plausível, mas ontem foi só sorte. Eu não vou conseguir fazer aquilo de novo mesmo que você me peça."::
-49678::$$$message_0428_0023_0000$$$::"É por isso que você é um amador! Se você é capaz de fazer por acaso ou vontade, você deve conseguir fazer isso a qualquer hora![lr]::
-49679::$$$message_0428_0023_0001$$$::...Primeiramente, aquilo não foi sorte. Magos que trabalham no mundo exterior como eu tem várias taumaturgias que a gente não consegue usar. Mas você tá conseguindo todos os materiais necessários de dentro de si, então não deve existir nenhuma taumaturgia impossível pra você."::
-49680::$$$message_0428_0024_0000$$$::"Hm? Conseguindo de dentro...?"[lr]::
-49681::$$$message_0428_0024_0001$$$::...Isso não é natural?[lr]::
-49682::$$$message_0428_0024_0002$$$::Energia mágica é algo feito pelo circuito mágico dentro de você, então tá tudo vindo de dentro.::
-49683::$$$message_0428_0025_0000$$$::"......Aah. Eu acho que não tem o que fazer já que você aprendeu sozinho, mas isso é bem ruim. Projeção não precisa nem ser mencionada, mas eu acho que eu vou ter que te ensinar do zero sobre todo o resto também."[lr]::
-49684::$$$message_0428_0025_0001$$$::A Tohsaka suspira.::
-49685::$$$message_0428_0026_0000$$$::"[line8]"[lr]::
-49686::$$$message_0428_0026_0001$$$::Eu sei que eu sou um amador, mas me irrita quando a Tohsaka fala isso.::
-49687::$$$message_0428_0027_0000$$$::"Heh, Isso não é da sua conta. Eu fui capaz de me dar bem sozinho, então eu devo continuar bem sozinho no futuro. Mas o que a gente vai fazer sobre a reunião? Tá ficando tarde, então a gente não pode gastar tempo pra sempre."::
-49688::$$$message_0428_0028_0000$$$::"Huh? Que horas são?"[lr]::
-49689::$$$message_0428_0028_0001$$$::"É nove horas agora. Não é um horário que garotas deviam tar caminhando por aí."::
-49690::$$$message_0428_0029_0000$$$::"Ah, ainda tá cedo. [line3]Bom, vamos terminar a reunião rapidamente considerando o que você falou."[lr]::
-49691::$$$message_0428_0029_0001$$$::A Tohsaka se reafirma e volta pra casa.::
-49692::$$$message_0428_0030_0000$$$::"...Por que que ainda tá cedo?"[lr]::
-49693::$$$message_0428_0030_0001$$$::Pra uma garota, ficar fora as nove horas é como meia noite.[lr]::
-49694::$$$message_0428_0030_0002$$$::Mas ela ainda falou que tá cedo.... A Tohsaka não se vê como uma garota?[lr]::
-49695::$$$message_0428_0030_0003$$$::"[line3]Não, vamos parar com esse pensamento assustador."[lr]::
-49696::$$$message_0428_0030_0004$$$::Eu balanço minha cabeça e apago esse pensamento assombroso.::
-49697::$$$message_0428_0031_0000$$$::"Vamo lá!"[lr]::
-49698::$$$message_0428_0031_0001$$$::A Tohsaka me chama.[lr]::
-49699::$$$message_0428_0031_0002$$$::Eu corro até a varanda.::
-
+49659::$$$message_0428_0013_0001$$$::Eu me preparo diante da sensação desconfortável no ar.[lr]::
+49660::$$$message_0428_0013_0002$$$::Tohsaka estreita os olhos ao ver isso.::
+49661::$$$message_0428_0014_0000$$$::"Foi o que pensei. É natural sua Magia falhar se a pessoa responsável é assim."[lr]::
+49662::$$$message_0428_0014_0001$$$::"...Espera. Está falando da Magia de Projeção?"::
+49663::$$$message_0428_0015_0000$$$::"Isso mesmo. Estou falando das 'réplicas sem nada dentro' jogadas pelo galpão.[lr]::
+49664::$$$message_0428_0015_0001$$$::...Você nem sabe o quanto isso é ridículo. Não tem etapas nem fórmulas. Você está errado de todas as formas possíveis se acha que Fortalecimento é uma extensão de Projeção."::
+49665::$$$message_0428_0016_0000$$$::"...Foi mal, eu acho.[lr]::
+49666::$$$message_0428_0016_0001$$$::Mas tudo bem. Não espero que dê certo, já que Projeção é só treino para Fortalecimento. Não passa de um jeito de confirmar meus fundamentos."::
+49667::$$$message_0428_0017_0000$$$::"É [font italic=true]isso[font italic=false] que quero dizer quando digo que você está errado. Confirmar seus fundamentos por meio de Projeção? ...Olha, tente dizer isso a qualquer outro mago. Você seria pregado dentro de uma caixa de espécime para exposição."::
+49668::$$$message_0428_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
+49669::$$$message_0428_0018_0001$$$::As palavras de Tohsaka soam como piada, mas ela está completamente séria.::
+49670::$$$message_0428_0019_0000$$$::"...Desculpa, Tohsaka. Não entendi muito bem o que você está tentando dizer, mas está mandando eu treinar mais?"::
+49671::$$$message_0428_0020_0000$$$::"É óbvio. Tudo que você pode fazer é continuar treinando.[lr]::
+49672::$$$message_0428_0020_0001$$$::Mas, sim... Se quisermos aumentar nossa capacidade de luta agora, talvez você se torne útil se mudar um pouco o processo."[lr]::
+49673::$$$message_0428_0020_0002$$$::Não sei para onde foi a hostilidade dela, pois Tohsaka começa a ponderar com seriedade.::
+49674::$$$message_0428_0021_0000$$$::"Hm...? Mudar o processo... de Fortalecimento?"[lr]::
+49675::$$$message_0428_0021_0001$$$::"Ugh. O que você estava ouvindo, seu cabeça-dura!? É óbvio que estou falando de Projeção, não de Fortalecimento![lr]::
+49676::$$$message_0428_0021_0002$$$::Não podemos contar com Fortalecimento feito por um amador, mas sua Projeção é diferente. Você conseguiu projetar as espadas de Archer, mesmo que temporariamente, então será útil de imediato se recriar aquilo!"::
+49677::$$$message_0428_0022_0000$$$::"...Tohsaka. O que você está dizendo faria sentido, mas o que aconteceu ontem foi por acaso. Provavelmente não vou conseguir fazer de novo, mesmo que você me mande."::
+49678::$$$message_0428_0023_0000$$$::"É por isso que você é amador! Se consegue fazer, seja de propósito ou não, significa que é [font italic=true]capaz[font italic=false] de fazer quando quiser![lr]::
+49679::$$$message_0428_0023_0001$$$::...Para começar, aquilo não foi sorte nenhuma. Magos que trabalham com o mundo exterior, como eu, têm um monte de Magias que não conseguem recriar mesmo conhecendo-as. Mas você obtém todos os materiais necessários do seu mundo interior, então deve conseguir recriá-la enquanto estiver vivo."::
+49680::$$$message_0428_0024_0000$$$::"Hm? Do meu mundo interior...?"[lr]::
+49681::$$$message_0428_0024_0001$$$::...Mas isso não é óbvio?[lr]::
+49682::$$$message_0428_0024_0002$$$::Energia Mágica é criada pelo Circuito Mágico dentro de você, então tudo vem de dentro.::
+49683::$$$message_0428_0025_0000$$$::"...Pelo amor de Deus. Acho que não tem jeito porque você aprendeu sozinho, mas isto é ruim. Deixando Projeção de lado, acho que vou ter que ensinar todo o resto a você do zero."[lr]::
+49684::$$$message_0428_0025_0001$$$::Tohsaka suspira dramaticamente.::
+49685::$$$message_0428_0026_0000$$$::[font italic=true]...[font italic=false][lr]::
+49686::$$$message_0428_0026_0001$$$::Sei que sou amador, mas ouvir Tohsaka dizer isso me irrita.::
+49687::$$$message_0428_0027_0000$$$::"Hmph, isso não é da sua conta. Consegui me virar sozinho até agora, então devo conseguir continuar sozinho daqui para frente. Mas o que vamos fazer com nossa reunião? Já está tarde, não podemos perder tempo para sempre."::
+49688::$$$message_0428_0028_0000$$$::"Hã? Tarde? Que horas são?"[lr]::
+49689::$$$message_0428_0028_0001$$$::"São nove da noite. Está chegando ao ponto em que garotas não deviam ficar andando por aí sozinhas."::
+49690::$$$message_0428_0029_0000$$$::"Ah, ainda é cedo... Bem, vamos acabar logo com isso se você diz."[lr]::
+49691::$$$message_0428_0029_0001$$$::Tohsaka assente e volta em direção à casa.::
+49692::$$$message_0428_0030_0000$$$::"...Como ainda é cedo?"[lr]::
+49693::$$$message_0428_0030_0001$$$::É bem perigoso para uma garota ficar fora tão tarde. Nove horas é praticamente meia-noite.[lr]::
+49694::$$$message_0428_0030_0002$$$::Ainda assim, ela dizer que é cedo... será que Tohsaka não tem consciência de que é uma garota?[lr]::
+49695::$$$message_0428_0030_0003$$$::"...Não. É melhor eu parar de pensar em coisas assustadoras."[lr]::
+49696::$$$message_0428_0030_0004$$$::Balanço a cabeça e apago esse pensamento sinistro.::
+49697::$$$message_0428_0031_0000$$$::"Ei, anda logo."[lr]::
+49698::$$$message_0428_0031_0001$$$::Tohsaka me chama.[lr]::
+49699::$$$message_0428_0031_0002$$$::Em resposta, corro até a varanda.::

@@ -1,341 +1,341 @@
 DAT
 id=qid::label=str::text=lstr::
-39176::$$$message_0337_0000_0000$$$::"Ugh[line4]"[lr]::
-39177::$$$message_0337_0000_0001$$$::Assim que eu saio do ônibus, sou esmagado pela multidão.[lr]::
-39178::$$$message_0337_0000_0002$$$::A estação está cheia de pessoas.[lr]::
-39179::$$$message_0337_0000_0003$$$::Mas já que estamos em uma manhã ensolarada de domingo, seria estranho se não estivesse tão tumultuado assim.::
-39180::$$$message_0337_0001_0000$$$::"[line3]Estou surpresa. Não sabia que tantas pessoas vinham para cá no domingo."[lr]::
-39181::$$$message_0337_0001_0001$$$::Ela olha para a cidade com um rosto assustado.[lr]::
-39182::$$$message_0337_0001_0002$$$::Eu já esperava que a Saber fosse reagir assim, pois essa é a primeira vez que ela visita a cidade na parte do dia.::
-39183::$$$message_0337_0002_0000$$$::"......"[lr]::
-39184::$$$message_0337_0002_0001$$$::Até eu estou impressionado por essa quantidade de pessoas.[lr]::
-39185::$$$message_0337_0002_0002$$$::"Enfim, para onde nós vamos? Vocês têm alguma preferência?"[lr]::
-39186::$$$message_0337_0002_0003$$$::Porém.[lr]::
-39187::$$$message_0337_0002_0004$$$::Diferente de nós, a Tohsaka está toda empolgada.::
-39188::$$$message_0337_0003_0000$$$::"Uh... Essa é uma pergunta complicada. Eu não conheço nenhum lugar divertido."[lr]::
+39176::$$$message_0337_0000_0000$$$::"Ugh..."[lr]::
+39177::$$$message_0337_0000_0001$$$::Sou engolido pela multidão no instante em que descemos do ônibus.[lr]::
+39178::$$$message_0337_0000_0002$$$::A frente da estação está cheia de vida.[lr]::
+39179::$$$message_0337_0000_0003$$$::É uma bela manhã de fim de semana antes das dez, então seria estranho se não estivesse movimentada.::
+39180::$$$message_0337_0001_0000$$$::"...Estou surpresa. Tanta gente se reúne assim só por ser fim de semana."[lr]::
+39181::$$$message_0337_0001_0001$$$::Saber olha para a cidade, perplexa.[lr]::
+39182::$$$message_0337_0001_0002$$$::Ela nunca viu a cidade durante o dia, então sua reação é natural.::
+39183::$$$message_0337_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
+39184::$$$message_0337_0002_0001$$$::Digo isso, mas também estou atordoado com a multidão.[lr]::
+39185::$$$message_0337_0002_0002$$$::"Bom, para onde vamos? Vocês duas têm algum pedido?"[lr]::
+39186::$$$message_0337_0002_0003$$$::No entanto...[lr]::
+39187::$$$message_0337_0002_0004$$$::Ao contrário de nós, Tohsaka está cheia de energia.::
+39188::$$$message_0337_0003_0000$$$::"Hm... Complicado. Não conheço nenhum lugar divertido."[lr]::
 39189::$$$message_0337_0003_0001$$$::"Foi o que eu esperava. E você, Saber? Tem algum lugar que você queira visitar?"::
-39190::$$$message_0337_0004_0000$$$::"Eu...? Não, eu não tenho interesse em nenhum lugar em particular. Afinal, eu só estou aqui para proteger o Shirou.[lr]::
-39191::$$$message_0337_0004_0001$$$::Se vocês pretendem tirar o dia de folga, podem fingir que eu não estou aqui."::
-39192::$$$message_0337_0005_0000$$$::"Quê-"[lr]::
-39193::$$$message_0337_0005_0001$$$::"É sério? Nesse caso, eu posso escolher o lugar que quiser?[lr]::
-39194::$$$message_0337_0005_0002$$$::Ohh. Já que ninguém tem uma preferência, vocês vão seguir a minha sugestão sem questionar?"::
-39195::$$$message_0337_0006_0000$$$::"Quê, quê, quê-"[lr]::
-39196::$$$message_0337_0006_0001$$$::Eu estou com um mal pressentimento.[lr]::
-39197::$$$message_0337_0006_0002$$$::Os olhos da Tohsaka me dão medo.::
-39198::$$$message_0337_0007_0000$$$::"E-Espera, não diga isso de um jeito assustador![lr]::
-39199::$$$message_0337_0007_0001$$$::Para começar, eu disse que sairia com você, mas nunca mencionei nada sobre ter um e-encontro contigo. Nós três só estamos relaxando juntos[line4]"::
-39200::$$$message_0337_0008_0000$$$::"Sinto muito em te informar, mas isso é chamado de 'encontro' na nossa sociedade.[lr]::
-39201::$$$message_0337_0008_0001$$$::Vamos, desista de uma vez. Se você continuar sendo teimoso assim, as garotas vão passar a te odiar."::
-39202::$$$message_0337_0009_0000$$$::"Quê[line4]quem iria me odiar?"[lr]::
+39190::$$$message_0337_0004_0000$$$::"Eu...? Não, não há nenhum lugar pelo qual eu tenha interesse em especial. Antes de tudo, sou a guardiã do Shirou.[lr]::
+39191::$$$message_0337_0004_0001$$$::Se este é o dia de folga de você e do Shirou, por favor, considere que eu não estou aqui."::
+39192::$$$message_0337_0005_0000$$$::"Quê[line2]"[lr]::
+39193::$$$message_0337_0005_0001$$$::"Sério? Então podemos ir aonde eu quiser?[lr]::
+39194::$$$message_0337_0005_0002$$$::Ohh. Se vocês dois não têm opinião, isso quer dizer que vão obedecer ao meu plano sem questionar?"::
+39195::$$$message_0337_0006_0000$$$::"Quêêê[line2]"[lr]::
+39196::$$$message_0337_0006_0001$$$::Sinto um arrepio subir pela minha espinha.[lr]::
+39197::$$$message_0337_0006_0002$$$::Tohsaka sorri para nós com um olhar assustador.::
+39198::$$$message_0337_0007_0000$$$::"E-Espera, não fala isso desse jeito assustador![lr]::
+39199::$$$message_0337_0007_0001$$$::Para começar, eu disse que faria companhia, mas nunca disse que ia ter um e-encontro com você. Nós três só estamos passeando juntos."::
+39200::$$$message_0337_0008_0000$$$::"Que pena, isso é o que a sociedade chama de encontro.[lr]::
+39201::$$$message_0337_0008_0001$$$::Vamos, desista logo. As garotas vão odiar você se não souber a hora de ceder."::
+39202::$$$message_0337_0009_0000$$$::"O-Odiar? Quem?"[lr]::
 39203::$$$message_0337_0009_0001$$$::"Quem poderia ser? Algumas pessoas acham que ser teimoso é uma coisa boa. Não é mesmo, Saber?"::
-39204::$$$message_0337_0010_0000$$$::"Sim, o Shirou não aceita perder. Isso o deixa mais corajoso durante as batalhas."[lr]::
-39205::$$$message_0337_0010_0001$$$::"Viu só? Isso não é bom, Shirou?"::
-39206::$$$message_0337_0011_0000$$$::"Kuh[line4]"[lr]::
-39207::$$$message_0337_0011_0001$$$::A Tohsaka dá um sorriso.[lr]::
-39208::$$$message_0337_0011_0002$$$::Cara, qual é a graça de ficar zombando de mim!?::
-39209::$$$message_0337_0012_0000$$$::"Enfim, então vamos começar indo até o Verde. Vocês ainda não tomaram o café da manhã, não é? Vamos olhar algumas vitrines de lojas depois que tomarmos uma xícara de chá."::
-39210::$$$message_0337_0013_0000$$$::A Tohsaka sai andando.[lr]::
-39211::$$$message_0337_0013_0001$$$::Parece que 'Verde' é o nome do estabelecimento comercial que inaugurou há pouco tempo.::
-39212::$$$message_0337_0014_0000$$$::"Olha só, eu vou deixar vocês para trás. O café só vai até as dez da manhã, então nós temos que ir logo."::
-39213::$$$message_0337_0015_0000$$$::"Espe[line8]"[lr]::
-39214::$$$message_0337_0015_0001$$$::Mesmo depois de pedi-la para me esperar, a Tohsaka continua andando.[lr]::
-39215::$$$message_0337_0015_0002$$$::Parece que hoje eu não vou ter tempo para descansar.::
-39216::$$$message_0337_0016_0000$$$::"Shirou. A Rin está indo embora."[lr]::
-39217::$$$message_0337_0016_0001$$$::"Kuh[line3]está bem, já entendi! Eu vou para onde ela quiser agora!"[lr]::
-39218::$$$message_0337_0016_0002$$$::Eu dou um tapa nas minhas bochechas para ganhar coragem.::
-39219::$$$message_0337_0017_0000$$$::"Vamos nessa, Saber! Tente não ficar perdida!"[lr]::
-39220::$$$message_0337_0017_0001$$$::"Sim. Por favor, não perca a Rin de vista."::
+39204::$$$message_0337_0010_0000$$$::"Sim. Shirou não gosta de perder. Sua mente persistente é reconfortante em batalha."[lr]::
+39205::$$$message_0337_0010_0001$$$::"Viu? Não está feliz, Shirou?"::
+39206::$$$message_0337_0011_0000$$$::"Ugh..."[lr]::
+39207::$$$message_0337_0011_0001$$$::Tohsaka sorri.[lr]::
+39208::$$$message_0337_0011_0002$$$::[font italic=true]Caramba, o que há de tão divertido em zombar dos outros!?[font italic=false]::
+39209::$$$message_0337_0012_0000$$$::"Bom, por que não vamos primeiro ao Verde? Vocês dois ainda não tomaram café da manhã, certo? Depois de uma xícara rápida de chá para nos aquecer, podemos olhar vitrines."::
+39210::$$$message_0337_0013_0000$$$::Tohsaka começa a andar.[lr]::
+39211::$$$message_0337_0013_0001$$$::[font italic=true]Acho que Verde é o nome da loja de departamentos nova que abriram recentemente?[font italic=false]::
+39212::$$$message_0337_0014_0000$$$::"Ei, vou deixar vocês para trás se forem lentos. O café da manhã só vai até as dez, então precisamos correr antes que acabe."::
+39213::$$$message_0337_0015_0000$$$::"Espe..."[lr]::
+39214::$$$message_0337_0015_0001$$$::Ela não para, mesmo quando a chamo.[lr]::
+39215::$$$message_0337_0015_0002$$$::Parece que Tohsaka não tem tempo a perder e não vai me dar tempo para me acalmar.::
+39216::$$$message_0337_0016_0000$$$::"Shirou. Rin está indo embora."[lr]::
+39217::$$$message_0337_0016_0001$$$::Ugh... Caramba, tudo bem! Eu vou para onde você quiser![lr]::
+39218::$$$message_0337_0016_0002$$$::Dou tapas nas duas bochechas e me animo.::
+39219::$$$message_0337_0017_0000$$$::"Vamos, Saber! Não se perca!"[lr]::
+39220::$$$message_0337_0017_0001$$$::"Sim. Por favor, não perca Rin de vista também, Shirou."::
 39221::$$$message_0337_0018_0000$$$::Nós começamos a correr juntos.[lr]::
-39222::$$$message_0337_0018_0001$$$::Mesmo com a cidade cheia de gente, a Tohsaka não olha para trás.[lr]::
-39223::$$$message_0337_0018_0002$$$::É como se ela já tivesse certeza que nós vamos segui-la.::
-39224::$$$message_0337_0019_0000$$$::Então.[lr]::
-39225::$$$message_0337_0019_0001$$$::Antes que pudesse perceber, eu me meti em uma situação ainda mais complicada.::
-39226::$$$message_0337_0020_0000$$$::"O ambiente aqui é diferente da primeira loja que nós visitamos.[lr]::
-39227::$$$message_0337_0020_0001$$$::Rin, o que nós estamos fazendo nesse lugar?"[lr]::
-39228::$$$message_0337_0020_0002$$$::"Apenas relaxando um pouco. Eu imagino que vocês estejam cansados. Se nós não descansarmos agora, vocês vão acabar caindo aos pedaços."[lr]::
-39229::$$$message_0337_0020_0003$$$::"Hm? Tudo bem que essas duas horas foram agitadas, mas nós não fizemos tanta coisa assim para[line3]"::
-39230::$$$message_0337_0021_0000$$$::"Talvez você ache isso, Saber. Mas existem coisas escondidas em lugares que você não consegue enxergar.[lr]::
-39231::$$$message_0337_0021_0001$$$::O que para nós pode parecer um chão qualquer, para outros acaba sendo um pântano venenoso."::
-39232::$$$message_0337_0022_0000$$$::"Ah, eu vou querer esse parfait de banana. Saber, você vai tomar esse sundae de chocolate do diabo.[lr]::
-39233::$$$message_0337_0022_0001$$$::E quanto a você, Emiya-kun? Gosta de sobremesas?"::
-39234::$$$message_0337_0023_0000$$$::"Quem comeria algo assim a essa hora da manhã? Eu vou tomar um café."[lr]::
-39235::$$$message_0337_0023_0001$$$::"Minha nossa, que garoto atrevido. Tem certeza? Se você não reabastecer o seu HP, a sua energia vai acabar, sabia?"[lr]::
-39236::$$$message_0337_0023_0002$$$::"............"[lr]::
-39237::$$$message_0337_0023_0003$$$::Eu nem preciso dizer isso, mas vir até aqui para tomar sorvete com elas está em um nível completamente diferente para mim, sendo que eu nem estou com tanta fome assim.[lr]::
-39238::$$$message_0337_0023_0004$$$::Além do mais, como que alguém que não entende nada de eletrônicos sabe o que HP significa?::
-39239::$$$message_0337_0024_0000$$$::"Como você é teimoso. Bem, de certa forma também isso é divertido, então tudo bem."[lr]::
-39240::$$$message_0337_0024_0001$$$::Por que isso é 'divertido' para você, seu demônio vermelho traiçoeiro? Você é quem deveria tomar o sundae de chocolate do diabo.[lr]::
-39241::$$$message_0337_0024_0002$$$::"Shirou, você precisa levar o consumo de açúcar mais a sério. Se você estiver exausto como a Rin está dizendo, por que não pede esse 'creme batido de manga'?" [lr]::
-39242::$$$message_0337_0024_0003$$$::A Saber me recomenda uma das sobremesas do cardápio.::
-39243::$$$message_0337_0025_0000$$$::"...Sim. Eu não deveria dizer isso, mas durante as longas marchas do meu exército, eu comia frutas doces quando ninguém estava me observando. Aliás, o chocolate e os outros doces foram criados a partir da alquimia." [lr]::
+39222::$$$message_0337_0018_0001$$$::Na cidade lotada, Tohsaka não olha para trás.[lr]::
+39223::$$$message_0337_0018_0002$$$::Parece que ela tem certeza absoluta de que vamos segui-la.::
+39224::$$$message_0337_0019_0000$$$::E...[lr]::
+39225::$$$message_0337_0019_0001$$$::Antes que eu perceba, caí numa situação ainda mais sem saída.::
+39226::$$$message_0337_0020_0000$$$::"A atmosfera desta loja é completamente diferente da primeira.[lr]::
+39227::$$$message_0337_0020_0001$$$::Rin, por que estamos aqui?"[lr]::
+39228::$$$message_0337_0020_0002$$$::"É só uma pausa. Achei que vocês dois talvez estivessem cansados. Se não descansarmos agora, parece que as molas de vocês vão se desgastar."[lr]::
+39229::$$$message_0337_0020_0003$$$::"Oh? Sem dúvida foram duas horas agitadas, mas não foi exercício suficiente para precisarmos descansar..."::
+39230::$$$message_0337_0021_0000$$$::"Talvez para você, Saber. Mas há coisas que se desgastam em lugares que não dá para ver.[lr]::
+39231::$$$message_0337_0021_0001$$$::O que para nós parece um piso comum pode ser um pântano venenoso para outros."::
+39232::$$$message_0337_0022_0000$$$::"Ah, eu vou querer este parfait de banana. Saber, você deveria pedir este sundae do diabo.[lr]::
+39233::$$$message_0337_0022_0001$$$::E você, Emiya? Come doces?"::
+39234::$$$message_0337_0023_0000$$$::"Quem comeria isso logo de manhã? Vou querer este café blend."[lr]::
+39235::$$$message_0337_0023_0001$$$::"Nossa, que garoto. Mas tem certeza? Você vai se encrencar se não recuperar seu HP."[lr]::
+39236::$$$message_0337_0023_0002$$$::[font italic=true]...[font italic=false][lr]::
+39237::$$$message_0337_0023_0003$$$::Nem preciso dizer, mas tomar sorvete junto com elas aqui seria uma dimensão completamente diferente, e para começo de conversa eu nem tenho apetite.[lr]::
+39238::$$$message_0337_0023_0004$$$::Além disso, ela não se dá bem com tecnologia, mas sabe uma coisa dessas?::
+39239::$$$message_0337_0024_0000$$$::"Que teimoso. Bom, isso é divertido à sua maneira, então tudo bem."[lr]::
+39240::$$$message_0337_0024_0001$$$::Não sei o que há de divertido, mas o demônio vermelho está sorrindo. [font italic=true]Você é quem deveria comer o sundae do diabo.[font italic=false][lr]::
+39241::$$$message_0337_0024_0002$$$::"Shirou, ingestão de açúcar não deve ser subestimada. Se você está exausto como Rin diz, que tal este 'mango rush & cream'?"[lr]::
+39242::$$$message_0337_0024_0003$$$::Saber me oferece o cardápio de forma sutil.::
+39243::$$$message_0337_0025_0000$$$::"...Sim. Não posso dizer isto em voz alta, mas, quando viajávamos por dias no exército, eu me escondia dos outros para comer frutas doces. Dizem também que chocolate e coisas do tipo tiveram origem na alquimia."[lr]::
 39244::$$$message_0337_0025_0001$$$::"Essa é a primeira vez que eu ouço isso.[lr]::
-39245::$$$message_0337_0025_0002$$$::......Então, Saber. Você quer experimentar esse creme de manga, não quer?"[lr]::
-39246::$$$message_0337_0025_0003$$$::"Sim. Eu ficaria feliz se pudesse comê-lo."::
-39247::$$$message_0337_0026_0000$$$::"[line6]"[lr]::
-39248::$$$message_0337_0026_0001$$$::...Eu sinto que fui... abandonado.[lr]::
-39249::$$$message_0337_0026_0002$$$::A Saber caiu na influência maligna da Tohsaka e me deixou sozinho com o meu próprio nervosismo.::
-39250::$$$message_0337_0027_0000$$$::"Ah, você não precisa se segurar, Saber. Nós podemos pedir o bastante para nós duas."[wm canskip=0][wdash canskip=0][lr]::
-39251::$$$message_0337_0027_0001$$$::"Hm... por mais que eu queira pedir, o custo seria alto demais. Se eu estivesse com fome seria diferente, mas não posso pedir toda essa comida só para satisfazer a minha curiosidade..." [wm canskip=0][wdash canskip=0]::
-39252::$$$message_0337_0028_0000$$$::"Mas essa é a parte boa sobre os encontros.[lr]::
-39253::$$$message_0337_0028_0001$$$::Nesse caso, a ideia é que o Emiya-kun nos trate com um sorriso e se ofereça para pagar pelas sobremesas que nós queremos."[wm canskip=0][wdash canskip=0][lr]::
-39254::$$$message_0337_0028_0002$$$::"Entendi. Que incrível. Mais uma vez, eu estou impressionada com a sua inteligência, Rin."[wm canskip=0][wdash canskip=0]::
-39255::$$$message_0337_0029_0000$$$::"[line6]"[lr]::
+39245::$$$message_0337_0025_0002$$$::...Então. Saber, você também quer experimentar o mango rush?"[lr]::
+39246::$$$message_0337_0025_0003$$$::"Sim. Eu ficaria grata se pudesse provar um pouco."::
+39247::$$$message_0337_0026_0000$$$::[font italic=true]...[font italic=false][lr]::
+39248::$$$message_0337_0026_0001$$$::...Que solidão.[lr]::
+39249::$$$message_0337_0026_0002$$$::Saber deixou meu eu nervoso para trás e já caiu sob a influência maligna de Tohsaka.::
+39250::$$$message_0337_0027_0000$$$::"Ah, não precisa se segurar, Saber. Podemos pedir os dois."[wm canskip=0][wdash canskip=0][lr]::
+39251::$$$message_0337_0027_0001$$$::"Hm... por mais que eu queira, seria um pedido desnecessário. Se eu estivesse com fome seria diferente, mas não posso pedir comida em excesso apenas por curiosidade..." [wm canskip=0][wdash canskip=0]::
+39252::$$$message_0337_0028_0000$$$::"Essa responsabilidade é a melhor parte dos encontros.[lr]::
+39253::$$$message_0337_0028_0001$$$::Numa situação assim, a regra é o Emiya nos pagar com um sorriso, e nós sentirmos a generosidade dele."[wm canskip=0][wdash canskip=0][lr]::
+39254::$$$message_0337_0028_0002$$$::"Entendo. Que maravilhoso. Estou sempre admirada com sua condução, Rin."::
+39255::$$$message_0337_0029_0000$$$::[font italic=true]...[font italic=false][lr]::
 39256::$$$message_0337_0029_0001$$$::Isso já deixou de ser só uma influência maligna.[lr]::
-39257::$$$message_0337_0029_0002$$$::Agora a Saber é um inimigo que foi para o lado da Tohsaka.::
+39257::$$$message_0337_0029_0002$$$::Saber já era uma inimiga do lado de Tohsaka.::
 39258::$$$message_0337_0030_0000$$$::"Enfim, está na hora de fazer o pedido.[lr]::
 39259::$$$message_0337_0030_0001$$$::Um parfait de banana, um sundae de chocolate do diabo, um creme batido de manga e um café. Gostaria de algo mais, senhor?"[lr]::
-39260::$$$message_0337_0030_0002$$$::"...Por que está perguntando isso para mim? Não tem problema, podem pedir o que quiserem. Não é como se eu pudesse ir contra mesmo.[lr]::
-39261::$$$message_0337_0030_0003$$$::Por sinal, o bolo esponja de laranja é mais gostoso do que o creme de manga."[lr]::
-39262::$$$message_0337_0030_0004$$$::Acho que a Tohsaka e a Saber iriam gostar mais desse bolo.::
-39263::$$$message_0337_0031_0000$$$::"Nesse caso, eu vou seguir a sua recomendação. [lr]::
-39264::$$$message_0337_0031_0001$$$::Emiya-kun, não deixe de ser desse jeito."[lr]::
+39260::$$$message_0337_0030_0002$$$::"...Por que está perguntando para mim? Tudo bem, façam o que quiserem. Não é como se eu tivesse direito de veto, certo?[lr]::
+39261::$$$message_0337_0030_0003$$$::E, se quer minha opinião, o bolo esponja de laranja seria melhor que o mango rush."[lr]::
+39262::$$$message_0337_0030_0004$$$::Provavelmente combinaria melhor com o gosto de Tohsaka e Saber.::
+39263::$$$message_0337_0031_0000$$$::"Então vou seguir seu conselho.[lr]::
+39264::$$$message_0337_0031_0001$$$::Não perca esse seu lado, Emiya."[lr]::
 39265::$$$message_0337_0031_0002$$$::E assim, começa o descanso menos relaxante possível.::
-39266::$$$message_0337_0032_0000$$$::......Está bem, eu admito. Tudo o que eu fiz na primeira hora foi me sentir nervoso.[lr]::
-39267::$$$message_0337_0032_0001$$$::A Tohsaka se destaca mesmo quando está sozinha.[lr]::
-39268::$$$message_0337_0032_0002$$$::As roupas vermelhas dela agradam os olhos, assim como o seu cabelo escuro, liso e comprido.[lr]::
-39269::$$$message_0337_0032_0003$$$::As cores chamam a atenção,[rep fliplr=0 tops=450,-350,,21 storages=シネスコw1000b,シネスコw1000a,セイバー私服01a(近),凛私服03a(近) time=600 flipud=0 lefts=0,0,,13 poss=,,c, bg=i新都_ショッピングモール indexes=1000,2000,3000,4000 opacities=255,255,0,255][stopdash] mas a Tohsaka em si possui uma beleza impecável.[lr]::
-39270::$$$message_0337_0032_0004$$$::Com a Saber ao seu lado, elas se tornam uma dupla impressionante.::
-39271::$$$message_0337_0033_0000$$$::"Hmm? Por que você está olhando para mim?[lr]::
-39272::$$$message_0337_0033_0001$$$::Ah, será que você conseguiu se acalmar?"[lr]::
-39273::$$$message_0337_0033_0002$$$::"[line3] Hm. Bem, depois de ter sido arrastado para tudo quanto é lugar, você sabe."[lr]::
-39274::$$$message_0337_0033_0003$$$::......Droga. Eu odeio admitir isso, mas a Tohsaka teve uma boa ideia ao sugerir que a gente parasse para descansar.::
+39266::$$$message_0337_0032_0000$$$::...É. Para ser sincero, acho que na primeira hora eu só fiquei nervoso.[lr]::
+39267::$$$message_0337_0032_0001$$$::Tohsaka se destaca mesmo sozinha.[lr]::
+39268::$$$message_0337_0032_0002$$$::Suas roupas vermelhas, vívidas e chamativas, e seu longo cabelo preto e sedoso.[lr]::
+39269::$$$message_0337_0032_0003$$$::Só as cores já chamam atenção,[rep fliplr=0 tops=450,-406,,21 storages=シネスコw1000b,シネスコw1000a,セイバー私服01a(近),凛私服03a(近) time=600 flipud=0 lefts=0,0,,13 poss=,,c, bg=i新都_ショッピングモール indexes=1000,2000,3000,4000 opacities=255,255,0,255][stopdash] mas a própria Tohsaka é uma beleza impecável.[lr]::
+39270::$$$message_0337_0032_0004$$$::Com Saber ao lado dela, nem é preciso dizer que as duas formam uma dupla impressionante.::
+39271::$$$message_0337_0033_0000$$$::"Hm? O que você está olhando?[lr]::
+39272::$$$message_0337_0033_0001$$$::Ah, conseguiu acalmar os nervos?"[lr]::
+39273::$$$message_0337_0033_0002$$$::"...Hmph. Bom, depois de ser arrastado desse jeito todo, sim."[lr]::
+39274::$$$message_0337_0033_0003$$$::...Droga. Odeio admitir, mas a sugestão de Tohsaka para fazermos uma pausa estava irritantemente correta.::
 39275::$$$message_0337_0034_0000$$$::"Está bem. Então a partir de agora eu posso aumentar um pouco o ritmo, não posso?"::
-39276::$$$message_0337_0035_0000$$$::O meu maior inimigo dá um sorriso convencido.[lr]::
-39277::$$$message_0337_0035_0001$$$::Para ser sincero, eu também não consigo me entender.[lr]::
-39278::$$$message_0337_0035_0002$$$::Eu sou capaz de lutar junto com ela como um Mestre, mas nesse momento, até os gestos que estou acostumado a ver estão deixando o meu coração acelerado.[lr]::
-39279::$$$message_0337_0035_0003$$$::......Provavelmente eu fiquei muito próximo da Tohsaka sem perceber, e agora está difícil de me comunicar com ela.::
-39280::$$$message_0337_0036_0000$$$::"Ah, é mesmo. Já que nós temos a chance, vamos fazer isso.[lr]::
+39276::$$$message_0337_0035_0000$$$::A inimiga mais forte sorri.[lr]::
+39277::$$$message_0337_0035_0001$$$::Sinceramente, nem eu consigo me entender.[lr]::
+39278::$$$message_0337_0035_0002$$$::Consigo lutar lado a lado com ela como Mestre, mas agora até os gestos que me acostumei a ver fazem meu coração falhar uma batida.[lr]::
+39279::$$$message_0337_0035_0003$$$::...Deve ser porque me aproximei dela de forma precipitada, então agora é difícil interagir com ela normalmente.::
+39280::$$$message_0337_0036_0000$$$::"Ah, é. Já que temos a oportunidade, vamos fazer aquilo em seguida.[lr]::
 39281::$$$message_0337_0036_0001$$$::Saber, você tem interesse em acessórios?"[lr]::
 39282::$$$message_0337_0036_0002$$$::"Você quer dizer, ornamentos?[lr]::
-39283::$$$message_0337_0036_0003$$$::Eu não coleciono nenhum, mas também não me importaria em dar uma olhada."[lr]::
-39284::$$$message_0337_0036_0004$$$::"Nesse caso, vamos passar na loja que fica naquela direção. Lá tem vários acessórios que eu gostaria que você experimentasse."::
-39285::$$$message_0337_0037_0000$$$::"[line8]"[lr]::
-39286::$$$message_0337_0037_0001$$$::Eu não consigo me acalmar. O sorriso de alegria dela é deslumbrante demais.[lr]::
-39287::$$$message_0337_0037_0002$$$::Esse sentimento inexplicável de impaciência e ansiedade está me deixando com uma pequena dor no peito.[lr]::
-39288::$$$message_0337_0037_0003$$$::É por isso que, ao invés de ter um encontro, eu preferia voltar direto para casa e traçar estratégias para a Guerra do Santo Graal.::
-39289::$$$message_0337_0038_0000$$$::[line4]Então.[lr]::
-39290::$$$message_0337_0038_0001$$$::Que magia foi lançada para que as coisas acabassem desse jeito?::
+39283::$$$message_0337_0036_0003$$$::Não os coleciono, mas também não sou desinteressada em olhá-los."[lr]::
+39284::$$$message_0337_0036_0004$$$::"Então vamos a uma loja desse tipo em seguida. Quero fazer você experimentar um monte de coisas."::
+39285::$$$message_0337_0037_0000$$$::[font italic=true]...[font italic=false][lr]::
+39286::$$$message_0337_0037_0001$$$::Meus nervos não se acalmam. Só o sorriso radiante dela me deixa atordoado.[lr]::
+39287::$$$message_0337_0037_0002$$$::Um pânico ou agitação desconhecidos fazem meu peito doer um pouco.[lr]::
+39288::$$$message_0337_0037_0003$$$::Foi por isso que pensei que deveríamos voltar logo para casa e traçar uma estratégia, em vez de sair para um encontro.::
+39289::$$$message_0337_0038_0000$$$::    Mas...[lr]::
+39290::$$$message_0337_0038_0001$$$::[font italic=true]Hm, que tipo de Magia foi lançada para as coisas acabarem assim?[font italic=false]::
 39291::$$$message_0337_0039_0000$$$::"Nossa, eu morri de rir. Vocês me mostraram umas coisas bem engraçadas."::
-39292::$$$message_0337_0040_0000$$$::"É mesmo? Eu não teria tanta certeza. O Shirou até parecia ser uma outra pessoa."::
-39293::$$$message_0337_0041_0000$$$::"Essa foi a parte engraçada. Eu não esperava que ele de óculos fosse se parecer um garoto nerd e rico. Você deveria ter comprado aqueles óculos, Shirou."[lr]::
-39294::$$$message_0337_0041_0001$$$::A Tohsaka deve ter adorado me ver usando aquilo, já que ela está rindo até agora.::
+39292::$$$message_0337_0040_0000$$$::"É mesmo? Não sei dizer. Shirou não parecia ele mesmo antes."::
+39293::$$$message_0337_0041_0000$$$::"Isso é o bom. Não achei que ele fosse parecer tanto um filhinho de papai só por colocar óculos. Você devia ter comprado aqueles óculos, Shirou."[lr]::
+39294::$$$message_0337_0041_0001$$$::Tohsaka deve ter adorado, pois ainda está rindo.::
 39295::$$$message_0337_0042_0000$$$::...Tudo aconteceu dez minutos atrás.[lr]::
-39296::$$$message_0337_0042_0001$$$::Eu não sei de onde ela tirou essa ideia, mas a Tohsaka nos levou até uma loja de óculos e se divertiu fazendo a Saber experimentá-los.::
-39297::$$$message_0337_0043_0000$$$::Eu acabei sendo envolvido nisso, e um dos óculos que experimentei fez com que ela começasse a dar risada.[lr]::
-39298::$$$message_0337_0043_0001$$$::Ela me fez usar óculos formais e grossos.::
-39299::$$$message_0337_0044_0000$$$::"...Cara, esquece aquilo de uma vez. Olha só, eu nunca mais vou usar óculos de novo. Eu já tenho um rosto de criança, então não posso usar algo que me faça parecer mais jovem ainda."::
-39300::$$$message_0337_0045_0000$$$::"Hã? Ah, então você está ciente disso, não é? Não que seja um problema. Eu não tenho nada contra a sua aparência, Emiya-kun."::
-39301::$$$message_0337_0046_0000$$$::"A minha aparência é um problema sim! Não posso fazer nada quanto ao meu rosto, mas eu preciso crescer mais um pouco!"[lr]::
-39302::$$$message_0337_0046_0001$$$::"Ah. Eu acho que a sua altura está na média, Emiya-kun."[lr]::
-39303::$$$message_0337_0046_0002$$$::"Ela não está na média. Sem falar que eu teria um preparo físico melhor se fosse mais alto, não é? Eu preciso pelo menos ficar com a mesma altura do Issei."::
+39296::$$$message_0337_0042_0001$$$::Não sei o que Tohsaka estava pensando, mas ela nos levou a uma loja de óculos e se divertiu colocando óculos falsos em Saber.::
+39297::$$$message_0337_0043_0000$$$::Também virei vítima das circunstâncias, e um dos óculos que ela colocou em mim virou sucesso para ela.[lr]::
+39298::$$$message_0337_0043_0001$$$::Era um par de óculos falsos, de armação grossa e desenho formal.::
+39299::$$$message_0337_0044_0000$$$::"...Ugh, nem pensar. Olha, eu nunca vou usar óculos falsos. Já tenho rosto de criança, então não posso me dar ao luxo de parecer ainda mais moleque."::
+39300::$$$message_0337_0045_0000$$$::"Hã? Ah, entendi, você sabia disso. Mas acho que não precisa se preocupar. Não há nada de errado com você como é agora."::
+39301::$$$message_0337_0046_0000$$$::"Te[line2]Tem problema com o jeito que eu sou agora! Não posso fazer nada quanto ao meu rosto, mas preciso de um pouco mais de altura!"[lr]::
+39302::$$$message_0337_0046_0001$$$::"Oh? Acho que sua altura está na média."[lr]::
+39303::$$$message_0337_0046_0002$$$::"Não está. Eu conseguiria me firmar melhor se fosse mais alto. Preciso ter pelo menos a altura do Issei."::
 39304::$$$message_0337_0047_0000$$$::"Não se preocupe com isso. Você ainda está em fase de crescimento."[lr]::
-39305::$$$message_0337_0047_0001$$$::"...Fico feliz em ouvir isso. Mas Tohsaka, como você tem tanta certeza?"::
-39306::$$$message_0337_0048_0000$$$::"Hã? Bem, é que... você tem um bom porte físico, então seu corpo vai crescer se você consumir os nutrientes certos, não é mesmo? Talvez você possa ficar mais alto se começar a fazer fotossíntese."[lr]::
-39307::$$$message_0337_0048_0001$$$::"De que planta você está falando? Não fale comigo como se eu fosse algum tipo de flor."::
-39308::$$$message_0337_0049_0000$$$::"Ah. Emiya-kun, eu te deixei com raiva...?"[lr]::
-39309::$$$message_0337_0049_0001$$$::"Não. Vou deixar essa passar. ...Bem, mas já que você está dizendo, eu espero começar a crescer em breve."::
-39310::$$$message_0337_0050_0000$$$::"[line4]Sim. Eu não posso te dizer qual será a sua altura, mas você se tornará um grande homem. Isso eu te garanto, Shirou."[lr]::
-39311::$$$message_0337_0050_0001$$$::"Quê[line4]"[lr]::
-39312::$$$message_0337_0050_0002$$$::P-Por quê ela foi dizer uma coisa constrangedora como essa!?::
-39313::$$$message_0337_0051_0000$$$::"Hah, você está todo envergonhado. Eu gosto do jeito que você demonstra as suas emoções através do seu rosto."[lr]::
-39314::$$$message_0337_0051_0001$$$::"[line4]!"[lr]::
-39315::$$$message_0337_0051_0002$$$::E-Ela está zombando de mim.[lr]::
-39316::$$$message_0337_0051_0003$$$::Eu tenho certeza de que ela está zombando de mim.::
-39317::$$$message_0337_0052_0000$$$::"Guh, sua mulher traiçoeira! Acha engraçado zombar de um cara da mesma idade que você!?"::
+39305::$$$message_0337_0047_0001$$$::"...Fico feliz em ouvir isso, mas qual é o raciocínio por trás disso?"::
+39306::$$$message_0337_0048_0000$$$::"Hã... Ah, é. Você é bem constituído, então vai crescer se se nutrir direito, certo? Pensei que talvez crescesse se fizesse fotossíntese."[lr]::
+39307::$$$message_0337_0048_0001$$$::"Está falando de que tipo de folha? Não me trate como uma flor."::
+39308::$$$message_0337_0049_0000$$$::"Ah. Emiya, você ficou bravo...?"[lr]::
+39309::$$$message_0337_0049_0001$$$::"Não. Vou levar isso com um pé atrás... Bom, parece que posso criar expectativa se você diz isso."::
+39310::$$$message_0337_0050_0000$$$::"...Sim. Não posso fazer promessas sobre sua altura, mas tenho certeza de que você se tornará um bom homem. Isso eu posso garantir, Shirou."[lr]::
+39311::$$$message_0337_0050_0001$$$::"Quê[line2]"[lr]::
+39312::$$$message_0337_0050_0002$$$::[font italic=true]P-Por que ela diz coisas que fazem meu rosto ferver!?[font italic=false]::
+39313::$$$message_0337_0051_0000$$$::"Hah, você está corando. Gosto de você porque suas emoções sempre aparecem no seu rosto."[lr]::
+39314::$$$message_0337_0051_0001$$$::"Ugh..."[lr]::
+39315::$$$message_0337_0051_0002$$$::E-Ela está brincando comigo.[lr]::
+39316::$$$message_0337_0051_0003$$$::Ela está definitivamente brincando comigo.::
+39317::$$$message_0337_0052_0000$$$::"Guh, sua mulher maligna! É divertido provocar um cara da sua idade!?"::
 39318::$$$message_0337_0053_0000$$$::"Claro que sim. Depende de cada pessoa, mas as suas reações são as melhores."[lr]::
-39319::$$$message_0337_0053_0001$$$::......Meu Deus.[lr]::
-39320::$$$message_0337_0053_0002$$$::Por favor, mostre para ela toda a sua fúria e dê um castigo divino.[lr]::
-39321::$$$message_0337_0053_0003$$$::Não apenas pelo meu próprio bem, mas para o bem de todos os garotos da minha escola.::
-39322::$$$message_0337_0054_0000$$$::"Ah, vamos parar de brincar com o Shirou e levar esse encontro a sério. Que tal a gente liberar o estresse antes do almoço?"[lr]::
-39323::$$$message_0337_0054_0001$$$::Ela fecha a sua mão e a balança no ar.::
-39324::$$$message_0337_0055_0000$$$::"...Liberar o estresse? Não me diga que você quer...?"[lr]::
-39325::$$$message_0337_0055_0001$$$::Só pode ser. Ela está fazendo "aquele" gesto.[lr]::
-39326::$$$message_0337_0055_0002$$$::Mas será que uma garota diria que está com vontade de ir para um lugar daqueles...?::
-39327::$$$message_0337_0056_0000$$$::"Eu estou me referindo a uma gaiola de beisebol, Shirou. Você nunca ouviu falar?"[lr]::
-39328::$$$message_0337_0056_0001$$$::A minha (ex) ídolo da escola está me perguntando de verdade.::
+39319::$$$message_0337_0053_0001$$$::[font italic=true]...Meu Deus.[font italic=false][lr]::
+39320::$$$message_0337_0053_0002$$$::[font italic=true]Por favor, dê a ela um castigo divino.[font italic=false][lr]::
+39321::$$$message_0337_0053_0003$$$::[font italic=true]Não pelo meu bem, mas pelo bem de todos os caras da minha escola.[font italic=false]::
+39322::$$$message_0337_0054_0000$$$::"Ah, vamos parar de brincar com o Shirou e passar para a parte principal. Querem aliviar o estresse antes do almoço?"[lr]::
+39323::$$$message_0337_0054_0001$$$::Tohsaka junta os punhos e os balança.::
+39324::$$$message_0337_0055_0000$$$::"...Será que...?"[lr]::
+39325::$$$message_0337_0055_0001$$$::É óbvio pelo gesto dela.[lr]::
+39326::$$$message_0337_0055_0002$$$::[font italic=true]Bom, mas será possível uma garota sugerir isso como parte do roteiro de um encontro...?[font italic=false]::
+39327::$$$message_0337_0056_0000$$$::"O que mais poderia ser além de uma gaiola de rebatidas, Shirou? Não me diga que você não conhece."[lr]::
+39328::$$$message_0337_0056_0001$$$::Tohsaka, a (ex) ídolo da escola, pergunta se estou falando sério.::
 39329::$$$message_0337_0057_0000$$$::"Mas é claro que já![lr]::
-39330::$$$message_0337_0057_0001$$$::Eu quis dizer que as gaiolas de beisebol não são para garotas[line4]"[lr]::
-39331::$$$message_0337_0057_0002$$$::Depois de dizer isso, eu começo a imaginar a Tohsaka entrando numa gaiola de batedor.::
-39332::$$$message_0337_0058_0000$$$::"............"[lr]::
-39333::$$$message_0337_0058_0001$$$::...Droga. Parece estranho, mas por que será que ela passa a impressão de que seria uma boa batedora?::
-39334::$$$message_0337_0059_0000$$$::"Que foi? Você prefere visitar o aquário então? Acho que eles estão passando a atração Pinguim versus a Foca Gigante: A batalha da chama congelante. Porém, dizem que a qualidade é de terceira categoria."::
-39335::$$$message_0337_0060_0000$$$::"[line8]"[lr]::
-39336::$$$message_0337_0060_0001$$$::Na verdade, eu diria que é de segunda categoria, mas não estou com muita vontade de visitar o aquário em um dia ensolarado como o de hoje.::
+39330::$$$message_0337_0057_0001$$$::O que eu quero dizer é que gaiolas de rebatidas não são coisa de garotas..."[lr]::
+39331::$$$message_0337_0057_0002$$$::Dizendo isso, imagino Tohsaka na área do rebatedor.::
+39332::$$$message_0337_0058_0000$$$::[font italic=true]...[font italic=false][lr]::
+39333::$$$message_0337_0058_0001$$$::[font italic=true]...Droga. Parece estranho, mas por que ela parece tão confiável?[font italic=false]::
+39334::$$$message_0337_0059_0000$$$::"O quê, então prefere ir ao aquário? Acho que eles tinham Exército de Pinguins contra Foca Gigante do Mar do Norte, a batalha congelante em três rodadas flamejantes, mas é uma atração de terceira categoria."::
+39335::$$$message_0337_0060_0000$$$::[font italic=true]...[font italic=false][lr]::
+39336::$$$message_0337_0060_0001$$$::Bom, acho que é uma atração de segunda categoria, mas não sei se faz sentido ir ao aquário num dia tão bonito lá fora.::
 39337::$$$message_0337_0061_0000$$$::"Rin. Como é essa gaiola de beisebol que você está se referindo?"[lr]::
-39338::$$$message_0337_0061_0001$$$::"Hã? Bem, acho que você seria boa nisso. Se trata de uma integração com o físico do seu corpo. Para alguns, é considerado um treinamento."[lr]::
-39339::$$$message_0337_0061_0002$$$::Minha nossa.[lr]::
-39340::$$$message_0337_0061_0003$$$::A Tohsaka acabou de descrever a gaiola de beisebol de uma maneira bem ridícula.::
-39341::$$$message_0337_0062_0000$$$::"[line3]Hm. Eu não posso ignorar uma coisa dessas."[lr]::
+39338::$$$message_0337_0061_0001$$$::"Hã? Ah, bom, é algo em que você deve ser boa. Pode-se dizer que é um exercício físico completo, considerado treinamento especial em alguns casos."[lr]::
+39339::$$$message_0337_0061_0002$$$::[font italic=true]Uau.[font italic=false][lr]::
+39340::$$$message_0337_0061_0003$$$::Tohsaka está descrevendo isso de um jeito ridículo.::
+39341::$$$message_0337_0062_0000$$$::"...Hm. Não posso ignorar isso."[lr]::
 39342::$$$message_0337_0062_0001$$$::"Pois é, a sensação é ótima, acho que você deveria experimentar. Aposto que você seria capaz de ganhar todos os prêmios de lá."[lr]::
-39343::$$$message_0337_0062_0002$$$::Ela age de forma irresponsável e deixa a Saber empolgada, e em seguida sai andando de novo.::
-39344::$$$message_0337_0063_0000$$$::"[line4]Aff."[lr]::
-39345::$$$message_0337_0063_0001$$$::Eu olho para a Tohsaka e saio correndo atrás dela, já que não tenho outra escolha.[lr]::
-39346::$$$message_0337_0063_0002$$$::Não faz sentido discutir com a Tohsaka quando ela está animada desse jeito.[lr]::
-39347::$$$message_0337_0063_0003$$$::Eu não tenho como impedi-la, mas até que gosto de ser arrastado para vários lugares.::
+39343::$$$message_0337_0062_0002$$$::Tohsaka aumenta as expectativas de Saber de forma irresponsável e começa a andar de novo.::
+39344::$$$message_0337_0063_0000$$$::"...Ugh."[lr]::
+39345::$$$message_0337_0063_0001$$$::Observo suas costas e começo a correr, sem outra escolha.[lr]::
+39346::$$$message_0337_0063_0002$$$::Não adianta discutir com a energia de Tohsaka.[lr]::
+39347::$$$message_0337_0063_0003$$$::Não consigo pará-la, e ser arrastado assim não parece tão ruim.::
 39348::$$$message_0337_0064_0000$$$::Então é assim.[lr]::
-39349::$$$message_0337_0064_0001$$$::O meu nervosismo foi embora porque isso é divertido.[lr]::
-39350::$$$message_0337_0064_0002$$$::Eu fui arrastado sem parar para tantos lugares que a minha ansiedade acabou desaparecendo antes que eu pudesse perceber.[lr]::
-39351::$$$message_0337_0064_0003$$$::A Tohsaka me apressa para visitarmos o próximo lugar, eu respondo sem muita vontade, e a Saber nos observa sem dizer nada.::
-39352::$$$message_0337_0065_0000$$$::...Acabou sendo bem divertido.[lr]::
-39353::$$$message_0337_0065_0001$$$::Antes eu só andava por essa cidade sem nenhum destino em mente...[lr]::
-39354::$$$message_0337_0065_0002$$$::Não sabia que iria gostar tanto desses lugares que nunca havia visitado antes.::
-39355::$$$message_0337_0066_0000$$$::"[line8]"[lr]::
-39356::$$$message_0337_0066_0001$$$::Logo quando eu penso sobre isso, uma espécie de jaula cai sobre mim, e então começo a perceber uma coisa.[lr]::
-39357::$$$message_0337_0066_0002$$$::Eu não mereço essas coisas.[lr]::
-39358::$$$message_0337_0066_0003$$$::Eu não sou digno de aproveitar momentos como esse.[lr]::
-39359::$$$message_0337_0066_0004$$$::Isso é o que o meu mais profundo "eu" está me dizendo.::
-39360::$$$message_0337_0067_0000$$$::[line4]E-Eu estou exausto.[lr]::
-39361::$$$message_0337_0067_0001$$$::Não esperava que fosse disputar cinco partidas com trinta bolas cada, com um total de 150 rebatidas de beisebol.[lr]::
+39349::$$$message_0337_0064_0001$$$::Meus nervos se acalmam porque estou me divertindo.[lr]::
+39350::$$$message_0337_0064_0002$$$::Fui levado de um lado para o outro tanto que não tive tempo de descansar, e o nervosismo foi embora.[lr]::
+39351::$$$message_0337_0064_0003$$$::Tohsaka me apressa para o próximo lugar, e eu respondo relutante, enquanto Saber observa em silêncio.::
+39352::$$$message_0337_0065_0000$$$::...Foi realmente divertido.[lr]::
+39353::$$$message_0337_0065_0001$$$::A cidade pela qual eu só passava andando...[lr]::
+39354::$$$message_0337_0065_0002$$$::Eu não sabia que todas as coisas com que eu não me envolvia tinham tanto significado.::
+39355::$$$message_0337_0066_0000$$$::[font italic=true]...[font italic=false][lr]::
+39356::$$$message_0337_0066_0001$$$::Assim que penso nisso, algo como uma jaula cai sobre mim, e tudo faz sentido.[lr]::
+39357::$$$message_0337_0066_0002$$$::[font italic=true]Você não merece isto.[font italic=false][lr]::
+39358::$$$message_0337_0066_0003$$$::[font italic=true]Você não é digno disto.[font italic=false][lr]::
+39359::$$$message_0337_0066_0004$$$::Em algum lugar no fundo, digo isso a mim mesmo.::
+39360::$$$message_0337_0067_0000$$$::    E-Estou cansado.[lr]::
+39361::$$$message_0337_0067_0001$$$::Nunca imaginei que fosse rebater cinco vezes, trinta arremessos em cada, num total de 150 tacadas.[lr]::
 39362::$$$message_0337_0067_0002$$$::Tudo isso aconteceu porque...::
 39363::$$$message_0337_0068_0000$$$::"Q-Qual o problema, Shirou? Eu estou me sentindo constrangida com você me observando desse jeito."[lr]::
-39364::$$$message_0337_0068_0001$$$::...Ela não aceitava perder.::
-39365::$$$message_0337_0069_0000$$$::"Isso foi um erro de cálculo... Não esperava que a Saber ficaria tão obcecada em vencer."[lr]::
+39364::$$$message_0337_0068_0001$$$::É porque ela não aceita perder.::
+39365::$$$message_0337_0069_0000$$$::"Isso foi um erro de cálculo... Não achei que Saber fosse tão competitiva."[lr]::
 39366::$$$message_0337_0069_0001$$$::A Tohsaka suspira ao meu lado.[lr]::
 39367::$$$message_0337_0069_0002$$$::Além disso, ela...::
-39368::$$$message_0337_0070_0000$$$::"Ah, eu só vou disputar uma partida. As minhas mãos vão ficar duras se eu balançar o taco de beisebol muitas vezes."[lr]::
-39369::$$$message_0337_0070_0001$$$::...Ela disse alguma coisa assim, mas acabou disputando uma outra partida com a Saber, e depois reclamou que os seus ombros e mãos estavam cansados.::
-39370::$$$message_0337_0071_0000$$$::"Do que você está reclamando? Tohsaka, você só disputou duas partidas. Eu disputei cinco! Na velocidade mais rápida, ainda por cima![lr]::
-39371::$$$message_0337_0071_0001$$$::...Cara. A Saber ficou brava comigo quando eu peguei leve, mas ela também ficou cheia de desculpas depois que perdeu feio para mim. Essa última hora foi um inferno."::
-39372::$$$message_0337_0072_0000$$$::"E-Eu não fiquei dando desculpas! Só estava cheia de energia. Para começar, isso não foi nada demais comparado com as lutas do dojô. A culpa é sua por ficar cansado tão rápido."::
-39373::$$$message_0337_0073_0000$$$::"Agora eu entendi. A Saber é do tipo que fica irritada quando perde, não é?"[lr]::
-39374::$$$message_0337_0073_0001$$$::Eu suspiro e balanço a cabeça.::
-39375::$$$message_0337_0074_0000$$$::Essas foram as coisas que eu aprendi hoje. Primeiro, nunca aposte com a Saber para ver quem vai ganhar.[lr]::
-39376::$$$message_0337_0074_0001$$$::Segundo, uma regra onde o vencedor é quem tiver dez ou mais acertos do que o seu adversário pode virar uma eternidade infernal se as pessoas forem mais ou menos do mesmo nível.[lr]::
-39377::$$$message_0337_0074_0002$$$::E terceiro, a Saber é mais fraca do que nós quando ela não está usando a sua energia mágica.::
-39378::$$$message_0337_0075_0000$$$::...Ou será que eu deveria dizer que a Tohsaka é a pessoa estranha aqui, já que ela rebateu as bolas a 120 km/h como se não fosse nada demais?[lr]::
-39379::$$$message_0337_0075_0001$$$::Eu já esperava essa diferença porque a Saber é mais baixa do que nós dois, mas eu diria que a Tohsaka é forte demais para uma garota.::
+39368::$$$message_0337_0070_0000$$$::"Ah, vou jogar só uma partida. Minhas mãos vão ficar ásperas se eu segurar tanto o taco."[lr]::
+39369::$$$message_0337_0070_0001$$$::...Ela disse algo assim, mas acabou jogando outra partida com Saber, e depois reclamou que seus ombros estavam cansados e suas mãos doíam.::
+39370::$$$message_0337_0071_0000$$$::"O que você está dizendo? Você só jogou duas vezes e depois ficou segurando o taco lá atrás. Eu joguei cinco vezes. Cinco! E na velocidade mais alta ainda![lr]::
+39371::$$$message_0337_0071_0001$$$::...Cara, Saber ficava brava se eu pegasse leve demais, mas emburrava se eu vencesse com muita folga. Foi uma hora infernal."::
+39372::$$$message_0337_0072_0000$$$::"E-Eu não emburrei! Eu só estava cheia de espírito. Antes de tudo, isto não é nada comparado às nossas lutas no dojô. A culpa é sua por se cansar."::
+39373::$$$message_0337_0073_0000$$$::"...Entendi. Saber é do tipo que fica brava quando perde em jogos, hein?"[lr]::
+39374::$$$message_0337_0073_0001$$$::Suspiro e avanço cambaleando.::
+39375::$$$message_0337_0074_0000$$$::Eis o que descobri hoje. Primeiro, não aposte com Saber.[lr]::
+39376::$$$message_0337_0074_0001$$$::Segundo, uma regra em que vence quem consegue dez acertos a mais que o oponente vira um inferno eterno se as habilidades dos jogadores forem iguais.[lr]::
+39377::$$$message_0337_0074_0002$$$::Terceiro, Saber é mais fraca que nós se limitar sua Energia Mágica.::
+39378::$$$message_0337_0075_0000$$$::[font italic=true]...Ou melhor, Tohsaka é a anormal por rebater bolas a 120 km/h como se não fosse nada?[font italic=false][lr]::
+39379::$$$message_0337_0075_0001$$$::É natural, já que Saber é a menor de nós três, então nem é preciso dizer que Tohsaka é forte para uma garota.::
 39380::$$$message_0337_0076_0000$$$::"Quanta grosseria. Você não precisa ser forte para rebater uma bola.[lr]::
 39381::$$$message_0337_0076_0001$$$::Uma garota também pode conseguir acertar a bola se a velocidade da rebatida e o ângulo forem bons."::
-39382::$$$message_0337_0077_0000$$$::"Bem, isso vale para o primeiro ou o segundo arremesso. O problema está depois disso. Era para você estar com câimbras no braço. Por acaso você faz flexões antes de dormir? Eu não consigo pensar em outra explicação."[lr]::
-39383::$$$message_0337_0077_0001$$$::Eu estava sendo sarcástico.[lr]::
-39384::$$$message_0337_0077_0002$$$::Porém.::
+39382::$$$message_0337_0077_0000$$$::"Bom, isso vale para um ou dois arremessos. Normalmente, o braço da pessoa dá câimbra. Você faz flexões antes de dormir? É a única coisa em que consigo pensar."[lr]::
+39383::$$$message_0337_0077_0001$$$::Digo isso sarcasticamente, como se fosse uma revanche.[lr]::
+39384::$$$message_0337_0077_0002$$$::No entanto...::
 39385::$$$message_0337_0078_0000$$$::"...E-Eu faço sim. Por quê? Tem algum problema?"[lr]::
-39386::$$$message_0337_0078_0001$$$::"[line5]Ah, não. ...Ótimo."[lr]::
-39387::$$$message_0337_0078_0002$$$::Quando ela responde desse jeito, eu já sei que estou encrencado.::
+39386::$$$message_0337_0078_0001$$$::"...Ah, não... Legal."[lr]::
+39387::$$$message_0337_0078_0002$$$::Às vezes ela contra-ataca assim, então não consegui dar o troco de forma alguma.::
 39388::$$$message_0337_0079_0000$$$::"V-Vamos almoçar agora. Já passaram das duas da tarde. Eu estou começando a ficar tonto por ainda não ter comido nada."[lr]::
 39389::$$$message_0337_0079_0001$$$::Aquele restaurante para a família que fica perto da ponte parece ser um bom lugar.[lr]::
 39390::$$$message_0337_0079_0002$$$::Há várias opções no cardápio de lá, então tenho certeza de que a Saber não iria reclamar.::
 39391::$$$message_0337_0080_0000$$$::"O que acha, Tohsaka? Não é como se você já tivesse planejado onde nós vamos comer, não é?"[lr]::
 39392::$$$message_0337_0080_0001$$$::Eu pergunto para a Tohsaka.::
-39393::$$$message_0337_0081_0000$$$::"E-Eu planejei sim. Eu já deixei tudo preparado."[lr]::
-39394::$$$message_0337_0081_0001$$$::"Ah, então tudo bem. Onde você quer almoçar?"::
-39395::$$$message_0337_0082_0000$$$::"......Aqui."[lr]::
+39393::$$$message_0337_0081_0000$$$::"E-Eu tenho. Não é como se tivesse que ser lá, mas planejei uma coisa."[lr]::
+39394::$$$message_0337_0081_0001$$$::"Ah, certo. Então, onde é?"::
+39395::$$$message_0337_0082_0000$$$::"...Aqui."[lr]::
 39396::$$$message_0337_0082_0001$$$::"Hã? Como assim?"[lr]::
-39397::$$$message_0337_0082_0002$$$::"Eu disse para a gente almoçar aqui. Já que o dia está ensolarado, vamos aproveitar para comer no parque."::
+39397::$$$message_0337_0082_0002$$$::"Quero dizer [font italic=true]aqui[font italic=false]. O dia está bonito, então vamos fazer um piquenique no parque."::
 39398::$$$message_0337_0083_0000$$$::...Eu olho à minha volta.[lr]::
 39399::$$$message_0337_0083_0001$$$::Não estou vendo nenhuma cafeteria e nem uma barraca de cachorro-quente por perto.::
-39400::$$$message_0337_0084_0000$$$::"Tohsaka. Não me diga que você vai pedir comida por entrega."[lr]::
-39401::$$$message_0337_0084_0001$$$::"...Escuta aqui. O que acha que tem dentro da sacola que você esteve carregando esse tempo todo?"[lr]::
-39402::$$$message_0337_0084_0002$$$::"Hã[line4]?"::
-39403::$$$message_0337_0085_0000$$$::Ah.[lr]::
-39404::$$$message_0337_0085_0001$$$::Agora que a Tohsaka mencionou, eu me lembro dela ter pedido hoje de manhã para que eu carregasse uma sacola.::
+39400::$$$message_0337_0084_0000$$$::"Tohsaka, não me diga que está planejando pedir entrega."[lr]::
+39401::$$$message_0337_0084_0001$$$::"...Ora. O que você acha que é a sacola que esteve carregando esse tempo todo?"[lr]::
+39402::$$$message_0337_0084_0002$$$::"Hã...?"::
+39403::$$$message_0337_0085_0000$$$::[font italic=true]Ah.[font italic=false][lr]::
+39404::$$$message_0337_0085_0001$$$::Pensando bem, ela realmente me deu esta sacola para carregar de manhã.::
 39405::$$$message_0337_0086_0000$$$::"...Hm. Eu estou sentindo o cheiro de mostarda. Então, isso deve ser..."[lr]::
 39406::$$$message_0337_0086_0001$$$::"O nosso almoço, é claro. Eu não te disse mais cedo que já tinha preparado o almoço?"::
-39407::$$$message_0337_0087_0000$$$::Ela fica me encarando.[lr]::
-39408::$$$message_0337_0087_0001$$$::...Eu acho que ela disse algo assim mesmo.::
-39409::$$$message_0337_0088_0000$$$::"Nossa, eu estou impressionado. Não esperava que você fosse se dedicar tanto nisso."::
-39410::$$$message_0337_0089_0000$$$::"Claro que eu me dediquei. Fui eu que te convidei, então tive que planejar as coisas direito."::
+39407::$$$message_0337_0087_0000$$$::Ela me encara em protesto.[lr]::
+39408::$$$message_0337_0087_0001$$$::...Pensando bem, ela disse algo assim mesmo.::
+39409::$$$message_0337_0088_0000$$$::"Nossa, estou surpreso. Não achei que isso fosse tão bem planejado."::
+39410::$$$message_0337_0089_0000$$$::"Claro que foi. Eu convidei você, então me preparei de acordo."::
 39411::$$$message_0337_0090_0000$$$::"Ah, agora o mistério foi solucionado. Tohsaka, você usou o pão para preparar isso, não foi?[lr]::
-39412::$$$message_0337_0090_0001$$$::Eu achei que você tivesse comido tudo ontem à noite porque estava com fome. Parecia exagero comer uma sacola inteira de pão, porém no seu caso, isso seria possível."::
-39413::$$$message_0337_0091_0000$$$::Caramba, agora tudo está resolvido.[lr]::
-39414::$$$message_0337_0091_0001$$$::Não tenho mais nenhuma preocupação em meu peito.[lr]::
+39412::$$$message_0337_0090_0001$$$::Cara, eu achei mesmo que você tinha ficado com fome no meio da noite e comido tudo. Parece absurdo comer um pacote inteiro, mas pensei que talvez fosse possível no seu caso."::
+39413::$$$message_0337_0091_0000$$$::[font italic=true]Entendi, entendi.[font italic=false][lr]::
+39414::$$$message_0337_0091_0001$$$::Assinto duas vezes, sentindo um enorme peso sair do meu peito.[lr]::
 39415::$$$message_0337_0091_0002$$$::"Ah."[lr]::
-39416::$$$message_0337_0091_0003$$$::Quando eu olho de volta para cima, vejo que a Tohsaka está fazendo uma cara assustadora.::
+39416::$$$message_0337_0091_0003$$$::Quando levanto os olhos, Tohsaka está fazendo uma expressão assustadora.::
 39417::$$$message_0337_0092_0000$$$::"Emiya-kun?"[lr]::
 39418::$$$message_0337_0092_0001$$$::"S-Sim? O que foi, Tohsaka?"::
-39419::$$$message_0337_0093_0000$$$::"Poderia calar a sua boca e pegar o nosso almoço logo? Retire tudo o que estiver dentro dessa sacola. Ah, e se você demorar demais, eu vou te matar."[lr]::
-39420::$$$message_0337_0093_0001$$$::"Ah[line4]está bem, eu vou me esforçar."::
-39421::$$$message_0337_0094_0000$$$::Eu rapidamente arrumo um espaço em cima da grama.[lr]::
-39422::$$$message_0337_0094_0001$$$::...Cara, isso foi assustador.[lr]::
-39423::$$$message_0337_0094_0002$$$::O meu coração disparou depois que ela deu esse sorriso enquanto falava em um tom de voz sério...::
-39424::$$$message_0337_0095_0000$$$::Então.[lr]::
-39425::$$$message_0337_0095_0001$$$::Nós começamos a almoçar duas horas mais tarde do que o de costume.::
-39426::$$$message_0337_0096_0000$$$::"Ah, o que foi, Shirou? Por que você está tão distraído?[lr]::
+39419::$$$message_0337_0093_0000$$$::"Pode parar de falar e começar a preparar o almoço? Todos os utensílios estão dentro da sacola. E, se você demorar demais, eu vou te matar."[lr]::
+39420::$$$message_0337_0093_0001$$$::"Ah... Sim. Farei o meu melhor."::
+39421::$$$message_0337_0094_0000$$$::Garanto nosso lugar na grama.[lr]::
+39422::$$$message_0337_0094_0001$$$::[font italic=true]Cara, isso foi assustador.[font italic=false][lr]::
+39423::$$$message_0337_0094_0002$$$::Faz mal ao coração ela dizer uma piada que não soa como piada com aquele sorrisão...::
+39424::$$$message_0337_0095_0000$$$::E...[lr]::
+39425::$$$message_0337_0095_0001$$$::O almoço começa duas horas atrasado, mas...::
+39426::$$$message_0337_0096_0000$$$::"Hã? O que aconteceu, Shirou? Por que está distraído?[lr]::
 39427::$$$message_0337_0096_0001$$$::...Ah, por acaso você não gosta de comida apimentada?"::
-39428::$$$message_0337_0097_0000$$$::Ela está sentada ao meu lado.[lr]::
-39429::$$$message_0337_0097_0001$$$::A Tohsaka diz isso bem perto de mim.::
-39430::$$$message_0337_0098_0000$$$::"Eh[line4]não, está tudo bem. A pimenta é forte, mas está uma delícia."[lr]::
-39431::$$$message_0337_0098_0001$$$::Eu digo isso e dou mais uma mordida.::
-39432::$$$message_0337_0099_0000$$$::"É mesmo? Ainda bem. Você precisa ter talento para conseguir preparar um sanduíche ruim. Por um segundo, eu pensei que tivesse esse talento inútil."[lr]::
-39433::$$$message_0337_0099_0001$$$::A Tohsaka começa a rir.::
-39434::$$$message_0337_0100_0000$$$::"[line8]"[lr]::
-39435::$$$message_0337_0100_0001$$$::Se a Tohsaka acha que eu estou distraído, deve ser porque ela é tão deslumbrante que eu não consigo olhar diretamente para ela.::
-39436::$$$message_0337_0101_0000$$$::Nós estamos almoçando debaixo do céu azul e sentados na grama.[lr]::
-39437::$$$message_0337_0101_0001$$$::Essa era para ser uma paisagem relaxante, mas a Tohsaka está tão perto de mim que o meu nervosismo está voltando.::
+39428::$$$message_0337_0097_0000$$$::Bem ao meu lado...[lr]::
+39429::$$$message_0337_0097_0001$$$::Tohsaka diz isso sentada perto o bastante para eu tocá-la se estendesse a mão.::
+39430::$$$message_0337_0098_0000$$$::"Hã? Ah, não, estou bem. O sabor é intenso, mas está bom."[lr]::
+39431::$$$message_0337_0098_0001$$$::Digo minha opinião sincera e dou outra mordida.::
+39432::$$$message_0337_0099_0000$$$::"Sério? Que bom. Conseguir fazer um sanduíche ruim é um talento, não acha? Por um segundo, pensei que eu tivesse esse talento inútil."[lr]::
+39433::$$$message_0337_0099_0001$$$::Tohsaka ri alegremente.::
+39434::$$$message_0337_0100_0000$$$::[font italic=true]...[font italic=false][lr]::
+39435::$$$message_0337_0100_0001$$$::Se eu parecia distraído, provavelmente era porque ela estava deslumbrante.::
+39436::$$$message_0337_0101_0000$$$::Almoçamos na grama sob o céu azul claro.[lr]::
+39437::$$$message_0337_0101_0001$$$::Só isso já seria pacífico o bastante, mas ter Tohsaka ali é mais do que consigo aguentar, e o nervosismo desta manhã volta.::
 39438::$$$message_0337_0102_0000$$$::"Ah, tem um pedaço de tomate no seu lábio. Quer que eu limpe para você?"[lr]::
-39439::$$$message_0337_0102_0001$$$::"Bu...! O-O-O que você está dizendo!? Eu consigo me limpar sozinho!"[lr]::
-39440::$$$message_0337_0102_0002$$$::Eu limpo a minha boca com a manga da minha camisa.::
+39439::$$$message_0337_0102_0001$$$::"Bu...! O-O-O-O-O que está dizendo do nada!? Eu mesmo limpo!"[lr]::
+39440::$$$message_0337_0102_0002$$$::Limpo a boca com a manga.::
 39441::$$$message_0337_0103_0000$$$::"Ah."[lr]::
-39442::$$$message_0337_0103_0001$$$::...Droga.[lr]::
-39443::$$$message_0337_0103_0002$$$::Agora a minha manga ficou com uma mancha vermelha.::
-39444::$$$message_0337_0104_0000$$$::"Nossa, parece que eu exagerei. Desculpa, foi engraçado porque você reagiu exatamente do jeito que eu esperava."::
-39445::$$$message_0337_0105_0000$$$::A Tohsaka me entrega um guardanapo. Eu não tenho certeza se ela está se desculpando ou zombando de mim.::
-39446::$$$message_0337_0106_0000$$$::"[line4]Heh. Tanto faz. Você esteve fazendo isso o dia todo. Eu não me importo."[lr]::
-39447::$$$message_0337_0106_0001$$$::Eu pego o guardanapo e limpo a manga da minha camisa.[lr]::
+39442::$$$message_0337_0103_0001$$$::[font italic=true]Droga.[font italic=false][lr]::
+39443::$$$message_0337_0103_0002$$$::Agora tenho uma mancha vermelha infeliz na roupa.::
+39444::$$$message_0337_0104_0000$$$::"Ops, acho que brinquei demais. Desculpa, foi engraçado demais, já que você reage exatamente como eu espero."::
+39445::$$$message_0337_0105_0000$$$::Não sei se ela está se desculpando ou contendo o riso, mas ela me entrega um guardanapo enquanto segura a barriga.::
+39446::$$$message_0337_0106_0000$$$::"...Hmph. Tanto faz, passei o dia todo assim mesmo. Não me importo."[lr]::
+39447::$$$message_0337_0106_0001$$$::Aceito o guardanapo e limpo minha manga.[lr]::
 39448::$$$message_0337_0106_0002$$$::A mancha vermelha não está saindo.[lr]::
-39449::$$$message_0337_0106_0003$$$::...Hm. Parece que a Tohsaka usou um molho que ela mesma preparou.[lr]::
-39450::$$$message_0337_0106_0004$$$::A mancha continua ali e parece que não vai sair tão fácil.::
-39451::$$$message_0337_0107_0000$$$::"Você vai ver. Eu vou aprender com a experiência que ganhei hoje e ficar menos constrangido a partir de amanhã. Não pense que você vai conseguir zombar de mim para sempre."::
-39452::$$$message_0337_0108_0000$$$::"Heh. Então, a partir de amanhã eu não preciso mais me segurar?[lr]::
-39453::$$$message_0337_0108_0001$$$::Que bom. Eu estava ficando entendiada por ficar escondendo o meu lado verdadeiro."[lr]::
-39454::$$$message_0337_0108_0002$$$::O demônio vermelho sorri de volta para mim.::
-39455::$$$message_0337_0109_0000$$$::"...Uh, eu retiro o que disse. Ainda vai levar algum tempo para me acostumar, então eu agradeceria se você continuasse assim por enquanto."::
-39456::$$$message_0337_0110_0000$$$::"É mesmo? Já que você diz. Me avise quando estiver pronto para ir para o próximo nível, está bem? Eu vou te humilhar sem piedade."::
-39457::$$$message_0337_0111_0000$$$::"[line4]Droga. Um dia eu vou dar o troco em você."[lr]::
-39458::$$$message_0337_0111_0001$$$::Eu sei que isso parece uma desculpa, mas não estou tentando criar desculpas.[lr]::
-39459::$$$message_0337_0111_0002$$$::...Eu estou me sentindo bem frustrado, então começo a descontar no sanduíche que está na minha frente.::
+39449::$$$message_0337_0106_0003$$$::...Hm. Tohsaka deve ter usado um molho original.[lr]::
+39450::$$$message_0337_0106_0004$$$::A mancha é bem teimosa e não sai com facilidade.::
+39451::$$$message_0337_0107_0000$$$::"Mas você vai ver. Vou aprender com a lição de hoje e, a partir de amanhã, nada mais vai me abalar. Não pense que tudo vai continuar saindo do seu jeito para sempre."::
+39452::$$$message_0337_0108_0000$$$::"Ah. Então isso quer dizer que não preciso me segurar a partir de amanhã, hein?[lr]::
+39453::$$$message_0337_0108_0001$$$::Que bom, eu estava ficando cansada de manter essa fachada."[lr]::
+39454::$$$message_0337_0108_0002$$$::O demônio vermelho responde tranquilamente.::
+39455::$$$message_0337_0109_0000$$$::"...Ah, não, retiro o que disse. Vai levar algum tempo, então agradeceria se mantivesse esse nível."::
+39456::$$$message_0337_0110_0000$$$::"Sério? Se você diz. Mas me avise se quiser subir de nível. Vou derrubar você sem reservas."::
+39457::$$$message_0337_0111_0000$$$::"...Droga. Um dia eu te pego."[lr]::
+39458::$$$message_0337_0111_0001$$$::Não estou amargo por ter perdido, mas reclamo como se estivesse.[lr]::
+39459::$$$message_0337_0111_0002$$$::...De algum modo, isso é realmente irritante, então desconto no sanduíche à minha frente.::
 39460::$$$message_0337_0112_0000$$$::Eu como os sanduíches.[lr]::
-39461::$$$message_0337_0112_0001$$$::Eu estava com fome e a Tohsaka preparou isso com as suas próprias mãos, então tenho que comer todos os sanduíches sozinho.[lr]::
+39461::$$$message_0337_0112_0001$$$::Eu estava com fome, e é uma refeição feita pela própria Tohsaka, então vou comer tudo sozinho.[lr]::
 39462::$$$message_0337_0112_0002$$$::...Bem, na verdade, a Saber já comeu cerca de um terço deles.::
 39463::$$$message_0337_0113_0000$$$::Assim, eu e a Saber devoramos os sanduíches.[lr]::
-39464::$$$message_0337_0113_0001$$$::A Tohsaka deve estar satisfeita, já que ela apenas está nos vendo comer.::
-39465::$$$message_0337_0114_0000$$$::"Parece que o seu corpo está em um bom estado. Acho que não preciso me segurar agora de tarde."::
+39464::$$$message_0337_0113_0001$$$::Tohsaka deve estar cheia, pois apenas nos observa.::
+39465::$$$message_0337_0114_0000$$$::"Seu corpo parece estar bem. Pelo visto posso arrastar você sem me segurar durante a tarde."::
 39466::$$$message_0337_0115_0000$$$::Ela dá aquele sorriso maligno mais uma vez.[lr]::
-39467::$$$message_0337_0115_0001$$$::O problema está nesse sorriso.[lr]::
-39468::$$$message_0337_0115_0002$$$::A Tohsaka está mais ansiosa para me ver exausto do que fazer as atividades que ela planejou.::
-39469::$$$message_0337_0116_0000$$$::"Heh, não me subestime. Eu não vou ficar cansado só de você me arrastar para vários lugares. Diferente de ontem, hoje eu estou me sentindo bem."::
-39470::$$$message_0337_0117_0000$$$::"Entendo. Então parece que você já está melhor."[lr]::
-39471::$$$message_0337_0117_0001$$$::A Tohsaka suspira aliviada e estica o braço para pegar um sanduíche.[lr]::
-39472::$$$message_0337_0117_0002$$$::É como se ela estivesse dizendo que tirou um peso da consciência.::
-39473::$$$message_0337_0118_0000$$$::"......?"[lr]::
-39474::$$$message_0337_0118_0001$$$::Assim que eu começo a pensar sobre o motivo dela ter dito isso...[lr]::
+39467::$$$message_0337_0115_0001$$$::Isso parece mais...[lr]::
+39468::$$$message_0337_0115_0002$$$::Ela está mais ansiosa para me ver exausto de tanto ser arrastado do que pelas atividades em si.::
+39469::$$$message_0337_0116_0000$$$::"Hmph, não me subestime. Não vou reclamar só por ser arrastado por aí. Ontem à parte, hoje estou bem."::
+39470::$$$message_0337_0117_0000$$$::"Entendo. Então acho que está tudo bem."[lr]::
+39471::$$$message_0337_0117_0001$$$::Tohsaka suspira de alívio e pega um sanduíche.[lr]::
+39472::$$$message_0337_0117_0002$$$::É como se um peso tivesse saído dos ombros dela.::
+39473::$$$message_0337_0118_0000$$$::"...?"[lr]::
+39474::$$$message_0337_0118_0001$$$::No instante em que inclino a cabeça, perguntando-me por que ela diria isso...[lr]::
 39475::$$$message_0337_0118_0002$$$::"Ah."[lr]::
 39476::$$$message_0337_0118_0003$$$::Agora tudo faz sentido.::
-39477::$$$message_0337_0119_0000$$$::"[line8]"[lr]::
-39478::$$$message_0337_0119_0001$$$::Pensando bem, tudo isso foi estranho.[lr]::
-39479::$$$message_0337_0119_0002$$$::O motivo da Tohsaka ter ido até a minha casa...[lr]::
-39480::$$$message_0337_0119_0003$$$::O Archer sabia sobre o estado do meu corpo.[lr]::
-39481::$$$message_0337_0119_0004$$$::Ele deve ter ficado sabendo que eu projetei as espadas dele e percebeu que havia alguma coisa errada com o meu corpo.::
+39477::$$$message_0337_0119_0000$$$::[font italic=true]...[font italic=false][lr]::
+39478::$$$message_0337_0119_0001$$$::Pensando bem, foi realmente estranho.[lr]::
+39479::$$$message_0337_0119_0002$$$::O motivo de Tohsaka ter vindo à minha casa.[lr]::
+39480::$$$message_0337_0119_0003$$$::Archer sabia o que havia de errado com meu corpo.[lr]::
+39481::$$$message_0337_0119_0004$$$::Ele deve ter ouvido que eu Projetei suas espadas e sabia que havia algo errado com meu corpo.::
 39482::$$$message_0337_0120_0000$$$::Até aí, tudo bem.[lr]::
-39483::$$$message_0337_0120_0001$$$::O problema é que o Archer, que não estava lá naquele momento, ficou sabendo sobre a projeção porque a Tohsaka contou isso para ele.[lr]::
-39484::$$$message_0337_0120_0002$$$::Ou seja.[lr]::
-39485::$$$message_0337_0120_0003$$$::Já que a Tohsaka contou para o Archer sobre a nossa batalha contra a Caster, será que ele não avisou a Tohsaka sobre a penalidade do meu corpo[line4]?::
+39483::$$$message_0337_0120_0001$$$::Mas Archer, que não estava lá na hora, soube da Projeção porque Tohsaka contou a ele.[lr]::
+39484::$$$message_0337_0120_0002$$$::Então...[lr]::
+39485::$$$message_0337_0120_0003$$$::Assim como Tohsaka contou a Archer sobre nossa batalha contra Caster, será que Archer não contou a Tohsaka sobre a penalidade no meu corpo...?::
 39486::$$$message_0337_0121_0000$$$::"Tohsaka."[lr]::
-39487::$$$message_0337_0121_0001$$$::"Uh, o que foi?"[lr]::
-39488::$$$message_0337_0121_0002$$$::"Por que você foi até a minha casa ontem? Foi estranho você ter passado a noite por lá. Eu não tinha percebido isso antes por causa da Fuji-nee."::
-39489::$$$message_0337_0122_0000$$$::"[line8]"[lr]::
-39490::$$$message_0337_0122_0001$$$::Foi por pouco tempo.[lr]::
-39491::$$$message_0337_0122_0002$$$::Mas eu pude ouvir a Tohsaka suspirar.::
+39487::$$$message_0337_0121_0001$$$::"Hã? O quê?"[lr]::
+39488::$$$message_0337_0121_0002$$$::"Por que você veio à minha casa ontem? Também é estranho você passar a noite lá. Eu não percebi nada disso ontem porque a Fuji-nee bagunçou tudo."::
+39489::$$$message_0337_0122_0000$$$::[font italic=true]...[font italic=false][lr]::
+39490::$$$message_0337_0122_0001$$$::Um breve momento.[lr]::
+39491::$$$message_0337_0122_0002$$$::Mas ouço Tohsaka prender a respiração.::
 39492::$$$message_0337_0123_0000$$$::"Eu não tive nenhum motivo em particular. Só fiz isso porque estava com vontade. Eu pensei que poderia ser divertido fazer algo assim de vez em quando."[lr]::
 39493::$$$message_0337_0123_0001$$$::"Entendi. Ontem foi divertido mesmo."[lr]::
 39494::$$$message_0337_0123_0002$$$::"Não é?"[lr]::
 39495::$$$message_0337_0123_0003$$$::"Sim. Mas, obrigado."::
-39496::$$$message_0337_0124_0000$$$::"[line6]!"[lr]::
-39497::$$$message_0337_0124_0001$$$::Nossa.[lr]::
-39498::$$$message_0337_0124_0002$$$::Ela ficou com o rosto vermelho em um piscar de olhos.::
-39499::$$$message_0337_0125_0000$$$::"O-O-O-O que você está pensando...!? E-Eu não estava preocupada contigo, Shirou[line3]!"[lr]::
+39496::$$$message_0337_0124_0000$$$::"...!"[lr]::
+39497::$$$message_0337_0124_0001$$$::[font italic=true]Uau.[font italic=false][lr]::
+39498::$$$message_0337_0124_0002$$$::Ela ficou vermelha num instante.::
+39499::$$$message_0337_0125_0000$$$::"O-O-O-O que você está entendendo errado...!? E-Eu não estava preocupada com você...!"[lr]::
 39500::$$$message_0337_0125_0001$$$::"Eu sei, você não queria que o seu aliado morresse. Por isso que você foi ver como eu estava, não é?"::
-39501::$$$message_0337_0126_0000$$$::"Uh... I-Isso mesmo. Você é bem esperto."[lr]::
-39502::$$$message_0337_0126_0001$$$::"Sim. Mesmo assim, eu agradeço.[lr]::
-39503::$$$message_0337_0126_0002$$$::Eu não sei quais eram as suas intenções, mas tenho certeza que você pensou em mim."::
-39504::$$$message_0337_0127_0000$$$::"......"[lr]::
-39505::$$$message_0337_0127_0001$$$::Ela resmunga.[lr]::
-39506::$$$message_0337_0127_0002$$$::A reação dela é tão fofa que me faz sorrir.::
-39507::$$$message_0337_0128_0000$$$::"[line6]Entendi, então é assim."[lr]::
-39508::$$$message_0337_0128_0001$$$::Agora eu sei como a Tohsaka se sente.[lr]::
-39509::$$$message_0337_0128_0002$$$::Dá uma sensação ótima deixar a pessoa que você gosta envergonhada.::
-39510::$$$message_0337_0129_0000$$$::O tempo muda depois que a gente termina de almoçar.[lr]::
-39511::$$$message_0337_0129_0001$$$::O céu fica repleto de nuvens, dando a impressão de que pode chover a qualquer momento.::
-39512::$$$message_0337_0130_0000$$$::"...Acho que não temos escolha. Nós não trouxemos nenhum guarda-chuva, é melhor voltarmos para casa."[lr]::
-39513::$$$message_0337_0130_0001$$$::Nenhum de nós questiona.[lr]::
-39514::$$$message_0337_0130_0002$$$::Tohsaka foi quem começou isso, então também é dever dela encerrar o assunto.::
+39501::$$$message_0337_0126_0000$$$::"Ah... I-Isso mesmo. Você é bem esperto."[lr]::
+39502::$$$message_0337_0126_0001$$$::"É. Mas eu ainda agradeço.[lr]::
+39503::$$$message_0337_0126_0002$$$::Não sei o que você estava planejando, mas sei que se importou comigo."::
+39504::$$$message_0337_0127_0000$$$::[font italic=true]...[font italic=false][lr]::
+39505::$$$message_0337_0127_0001$$$::Ela geme insatisfeita, com o rosto ainda vermelho.[lr]::
+39506::$$$message_0337_0127_0002$$$::O gesto é tão fofo que me faz sorrir.::
+39507::$$$message_0337_0128_0000$$$::"...Entendi. Agora eu entendo."[lr]::
+39508::$$$message_0337_0128_0001$$$::Acho que entendo.[lr]::
+39509::$$$message_0337_0128_0002$$$::Pode ser de outro tipo, mas deixar a pessoa de quem você gosta envergonhada me deixa muito feliz.::
+39510::$$$message_0337_0129_0000$$$::O tempo muda assim que terminamos o almoço.[lr]::
+39511::$$$message_0337_0129_0001$$$::O céu, que estava limpo, agora está nublado e parece que pode chover a qualquer momento.::
+39512::$$$message_0337_0130_0000$$$::"...Acho que não tem jeito. Não temos guarda-chuvas, então vamos para casa."[lr]::
+39513::$$$message_0337_0130_0001$$$::Não há objeção.[lr]::
+39514::$$$message_0337_0130_0002$$$::Tohsaka começou tudo isso, então também é dever dela encerrar o dia.::

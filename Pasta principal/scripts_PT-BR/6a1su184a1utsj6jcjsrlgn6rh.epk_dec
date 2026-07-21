@@ -1,170 +1,169 @@
 DAT
 id=qid::label=str::text=lstr::
-49805::$$$message_0431_0000_0000$$$::A gente foge da Fuji-nee, que tá na sala de estar, e continuamos a reunião na varanda.[lr]::
-49806::$$$message_0431_0000_0001$$$::Eu espero que não iria acabar tão facilmente já que a gente conversou muito desde o meio dia, mas...::
+49805::$$$message_0431_0000_0000$$$::Escapamos da Fuji-nee, que está na sala de estar, e retomamos a reunião de antes na varanda.[lr]::
+49806::$$$message_0431_0000_0001$$$::Estamos discutindo desde o meio-dia, então me preparo para insistir, achando que não chegaríamos a uma conclusão tão fácil, mas...::
 49807::$$$message_0431_0001_0000$$$::"É impossível desafiar o Templo Ryuudou por enquanto.[lr]::
-49808::$$$message_0431_0001_0001$$$::A única coisa que a gente pode fazer é preparar algum tipo de armadilha pra atrair a Caster."[lr]::
-49809::$$$message_0431_0001_0002$$$::A Tohsaka conclui.::
-49810::$$$message_0431_0002_0000$$$::"[line4]Bom. Você tá... certa, mas..."[lr]::
+49808::$$$message_0431_0001_0001$$$::A única coisa que podemos fazer é preparar uma armadilha para atrair Caster."[lr]::
+49809::$$$message_0431_0001_0002$$$::Tohsaka começa pela conclusão.::
+49810::$$$message_0431_0002_0000$$$::"...Bom. Você está certa, mas..."[lr]::
 49811::$$$message_0431_0002_0001$$$::"O problema é a armadilha.[lr]::
-49812::$$$message_0431_0002_0002$$$::...Bom, eu tenho duas ou três ideia possíveis, então você pode esperar por enquanto. No pior dos casos, eu vou fazer você e a Saber de isca."::
+49812::$$$message_0431_0002_0002$$$::...Bom, tenho duas ou três ideias possíveis, então você pode ficar de prontidão por enquanto. No pior dos casos, vou fazer você e Saber servirem de isca."[wsay canskip=1]::
 49813::$$$message_0431_0003_0000$$$::Depois de falar algo perigoso, a Tohsaka abre a porta deslizante.[lr]::
 49814::$$$message_0431_0003_0001$$$::O ar frio entra.[lr]::
-49815::$$$message_0431_0003_0002$$$::Talvez essa varanda seja especial, já que só tá um pouco frio.[lr]::
-49816::$$$message_0431_0003_0003$$$::...É como aquela noite cinco anos atrás.[lr]::
-49817::$$$message_0431_0003_0004$$$::Essa varanda é quente o suficiente pra um conseguir se sentar e observar a lua mesmo durante o inverno.::
-49818::$$$message_0431_0004_0000$$$::"[line4]É um bom Campo Limitado. Eu sinto um pouco de emoção humana, ao contrário daquele da minha casa."[lr]::
-49819::$$$message_0431_0004_0001$$$::A Tohsaka murmura enquanto senta na varanda, encarando o quintal.[lr]::
-49820::$$$message_0431_0004_0002$$$::"Você quer sentar aqui comigo? Eu só quero conversar."::
-49821::$$$message_0431_0005_0000$$$::"[line8]"[lr]::
-49822::$$$message_0431_0005_0001$$$::Eu sento do lado dela silenciosamente.[lr]::
-49823::$$$message_0431_0005_0002$$$::Ela disse que quer conversar, mas não fala nada.[lr]::
-49824::$$$message_0431_0005_0003$$$::Eu não posso fazer mais nada, então eu encaro o quintal distraidamente.::
-49825::$$$message_0431_0006_0000$$$::"[line8]"[lr]::
+49815::$$$message_0431_0003_0002$$$::Mas esta varanda deve ser especial, pois está apenas um pouco fria.[lr]::
+49816::$$$message_0431_0003_0003$$$::...Igual àquela noite de cinco anos atrás.[lr]::
+49817::$$$message_0431_0003_0004$$$::Esta varanda é o único lugar quente o bastante para se observar a lua mesmo durante o inverno.::
+49818::$$$message_0431_0004_0000$$$::"...O Campo Limitado que você tem é bom. Sinto nele um pouco de emoção humana, diferente do da minha casa."[lr]::
+49819::$$$message_0431_0004_0001$$$::Ela se senta na varanda e encara o quintal.[lr]::
+49820::$$$message_0431_0004_0002$$$::"Pode me fazer companhia um pouco? Eu só quero conversar."::
+49821::$$$message_0431_0005_0000$$$::[font italic=true]...[font italic=false][lr]::
+49822::$$$message_0431_0005_0001$$$::Sento-me em silêncio ao lado dela.[lr]::
+49823::$$$message_0431_0005_0002$$$::Tohsaka disse que queria conversar, mas não diz nada.[lr]::
+49824::$$$message_0431_0005_0003$$$::Não há nada a fazer, então apenas encaro o quintal sem pensar.::
+49825::$$$message_0431_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
 49826::$$$message_0431_0006_0001$$$::Eu não consigo ver a lua.[lr]::
-49827::$$$message_0431_0006_0002$$$::Meu bafo sai branco, provavelmente porque nevou mais cedo.[lr]::
-49828::$$$message_0431_0006_0003$$$::Quando eu olho pro meu lado, a Tohsaka tá encarando o quintal com um bafo branco também.::
-49829::$$$message_0431_0007_0000$$$::"[line8]"[lr]::
-49830::$$$message_0431_0007_0001$$$::Eu consigo tocar no ombro dela se eu me mexer um pouco.[lr]::
-49831::$$$message_0431_0007_0002$$$::Eu não tô perturbado por esse fato.[lr]::
-49832::$$$message_0431_0007_0003$$$::Será que é porque eu tô acostumado ou graças a noite de inverno?[lr]::
-49833::$$$message_0431_0007_0004$$$::A Tohsaka tá tão perto de mim, mas eu me sinto tão calmo.::
-49834::$$$message_0431_0008_0000$$$::"[line4]Então, sobre o que você quer falar, Tohsaka?"[lr]::
-49835::$$$message_0431_0008_0001$$$::Eu pergunto pra ela, sentindo que ela tá esperando por essa pergunta.::
-49836::$$$message_0431_0009_0000$$$::"...Hm. Bom, esse lugar é um pouco especial. Eu só pensei que talvez você fique bem do jeito que você tá agora."::
-49837::$$$message_0431_0010_0000$$$::"Uah. Você quer dizer que eu tô bem sendo um amador?"[lr]::
-49838::$$$message_0431_0010_0001$$$::"Não exatamente, mas talvez sim.[lr]::
-49839::$$$message_0431_0010_0002$$$::Eu não sei que tipo de mago Emiya Kiritsugu era, mas esse lugar é realmente natural. É bem aberto mesmo sendo a oficina de um mago.[lr]::
-49840::$$$message_0431_0010_0003$$$::Todas as portas estão abertas, livres pra qualquer um entrar e sair. Ela provavelmente não tá limitada por nada porque não tem conhecimento aqui para proteger."::
-49841::$$$message_0431_0011_0000$$$::"Eu acho que é isso que seu pai quis dizer quando ele falava pra você virar um usuário de taumaturgia de não um mago. Você não tem nada, mas nesse lugar, você pode ir onde quiser."::
-49842::$$$message_0431_0012_0000$$$::"O que? Você não é assim?"[lr]::
-49843::$$$message_0431_0012_0001$$$::"Não, meu lugar é diferente. Minha mansão é chamada de casa assombrada, e realmente é. Ela rejeita qualquer um que vier, mas não solta todos que entram."::
-49844::$$$message_0431_0013_0000$$$::"...Eu as vezes penso que isso é errado, mas não é algo que eu consiga mudar.[lr]::
-49845::$$$message_0431_0013_0001$$$::Não é como se estivesse amaldiçoada, mas é assim que ela é. Eu provavelmente fui escolhida como sucessora por causa da minha personalidade. Mas foi meio chocante quando eu percebi."::
-49846::$$$message_0431_0014_0000$$$::"[line3]Hm. Isso é quando você percebeu que é uma valentona?"[lr]::
-49847::$$$message_0431_0014_0001$$$::"......Você não cuida do que tá falando, huh?"[lr]::
-49848::$$$message_0431_0014_0002$$$::"Sério? Eu pensei que tava sendo indireto, assim como você."[lr]::
-49849::$$$message_0431_0014_0003$$$::"...Aah. Eu tô te falando pra você que isso é direto."::
-49850::$$$message_0431_0015_0000$$$::Ela suspira e apoia a cabeça dela.[lr]::
-49851::$$$message_0431_0015_0001$$$::O bafo dela é branco e lentamente derrete na fria noite.::
-49852::$$$message_0431_0016_0000$$$::...Vendo o rosto dela me faz lembrar...[lr]::
+49827::$$$message_0431_0006_0002$$$::Minha respiração sai branca. Fez frio o bastante para nevar um pouco.[lr]::
+49828::$$$message_0431_0006_0003$$$::Quando olho para Tohsaka, ela também observa o quintal, a respiração igualmente branca.::
+49829::$$$message_0431_0007_0000$$$::[font italic=true]...[font italic=false][lr]::
+49830::$$$message_0431_0007_0001$$$::Nossos ombros vão se tocar se eu me mexer um pouco.[lr]::
+49831::$$$message_0431_0007_0002$$$::Curiosamente, essa proximidade já não me deixa nervoso.[lr]::
+49832::$$$message_0431_0007_0003$$$::Talvez eu tenha me acostumado. Ou talvez seja o encanto desta noite de inverno.[lr]::
+49833::$$$message_0431_0007_0004$$$::A garota que admiro tanto está bem perto de mim, mas me sinto estranhamente calmo.::
+49834::$$$message_0431_0008_0000$$$::"...Sobre o que queria conversar, Tohsaka?"[lr]::
+49835::$$$message_0431_0008_0001$$$::Sinto que ela queria me perguntar algo, então pergunto primeiro.::
+49836::$$$message_0431_0009_0000$$$::"...Bom, tem algo neste lugar. Acabo pensando que talvez você não precise aprender daquele jeito. Acho que, bem, talvez você esteja bem exatamente como é."::
+49837::$$$message_0431_0010_0000$$$::"Espera, está dizendo que eu posso continuar sendo amador?"[lr]::
+49838::$$$message_0431_0010_0001$$$::"Não exatamente, mas acho que...[lr]::
+49839::$$$message_0431_0010_0002$$$::Não sei que tipo de mago Emiya Kiritsugu era, mas esta casa parece muito natural. É bem aberta, mesmo sendo a oficina de um mago.[lr]::
+49840::$$$message_0431_0010_0003$$$::Todas as passagens estão abertas, e qualquer um pode entrar e sair à vontade. Provavelmente não é restrita por nada porque não há conhecimento algum a proteger."::
+49841::$$$message_0431_0011_0000$$$::"Acho que era isso que seu pai queria dizer quando falou para você ser alguém que usa Magia, em vez de ser um mago. Você não tem nada, mas, em troca, pode ir a qualquer lugar."::
+49842::$$$message_0431_0012_0000$$$::"Como assim? Não é assim com você?"[lr]::
+49843::$$$message_0431_0012_0001$$$::"Não, meu lugar é diferente. As pessoas chamam minha mansão de casa assombrada, mas isso é verdade. Ela rejeita qualquer um que se aproxime, mas não solta quem entra."::
+49844::$$$message_0431_0013_0000$$$::"...Às vezes acho que isso não é certo, mas não posso mudar.[lr]::
+49845::$$$message_0431_0013_0001$$$::Não é como se fosse amaldiçoada, e eu mesma gosto dela do jeito que é. Fui escolhida como sucessora por causa da minha personalidade, mas fiquei bem surpresa quando percebi."::
+49846::$$$message_0431_0014_0000$$$::"...Hm. Quer dizer quando percebeu que era uma valentona?"[lr]::
+49847::$$$message_0431_0014_0001$$$::"...Eu já vinha pensando nisso, mas você não mede as palavras, mede?"[lr]::
+49848::$$$message_0431_0014_0002$$$::"Sério? Achei que tinha encaixado bem, igual você faz."[lr]::
+49849::$$$message_0431_0014_0003$$$::"...Ugh, dava para ver de longe."::
+49850::$$$message_0431_0015_0000$$$::Ela suspira e deixa a cabeça pender.[lr]::
+49851::$$$message_0431_0015_0001$$$::O rastro branco de sua respiração se desfaz lentamente na noite fria.::
+49852::$$$message_0431_0016_0000$$$::...Roubo um olhar para seu perfil e me lembro.[lr]::
 49853::$$$message_0431_0016_0001$$$::A escola vermelha.[lr]::
-49854::$$$message_0431_0016_0002$$$::A Tohsaka não falou nada quando ela viu os estudantes inconscientes.[lr]::
-49855::$$$message_0431_0016_0003$$$::Mesmo com as pernas tremendo, ela mordeu o lábio e agiu firme como de comum.::
-49856::$$$message_0431_0017_0000$$$::...Eu percebi naquela vez.[lr]::
-49857::$$$message_0431_0017_0001$$$::Que ela talvez esteja matando seu verdadeiro eu ao tentar atuar como um mago perfeito.::
-49858::$$$message_0431_0018_0000$$$::"Foi difícil pra você, Tohsaka?"[lr]::
-49859::$$$message_0431_0018_0001$$$::Eu me sinto inquieto, então eu pergunto.::
-49860::$$$message_0431_0019_0000$$$::"Você quis dizer treinar? Desculpa, mas eu nunca pensei que foi difícil. Eu fui capaz de fazer a maior parte das coisas sem problema, e eu nunca me desanimei porque eu não conseguia fazer algo.[lr]::
-49861::$$$message_0431_0019_0001$$$::E foi divertido pra mim aprender novas coisas. Eu te falei, certo? Eu nasci com essa personalidade. Não tem porque você se preocupar."::
-49862::$$$message_0431_0020_0000$$$::Ela simplesmente fala isso.[lr]::
-49863::$$$message_0431_0020_0001$$$::Não tem nenhum blefe nem mentira nas palavras dela, e a Tohsaka tá sorrindo.::
-49864::$$$message_0431_0021_0000$$$::"Entendi. Então e sobre a escola? Se você vai viver como um mago, não é inútil ir pra escola?"::
-49865::$$$message_0431_0022_0000$$$::"Não é inútil, mas é desviar do meu caminho.[lr]::
-49866::$$$message_0431_0022_0001$$$::Mas não é sem motivo. Ser um estudante é divertido. Eu faço qualquer coisa que seja divertida. É minha função suceder meu pai, mas eu não faria isso se não fosse divertido.[lr]::
-49867::$$$message_0431_0022_0002$$$::Eu virei um Mestre porque eu queria testar meus poderes, e eu tô cooperando com você porque você é engraçado."::
-49868::$$$message_0431_0023_0000$$$::"[line8]"[lr]::
-49869::$$$message_0431_0023_0001$$$::Ignorando o comentário de que eu sou engraçado, minhas preocupações desaparecem.::
+49854::$$$message_0431_0016_0002$$$::Tohsaka não disse nada ao ver os estudantes caídos por causa de Rider.[lr]::
+49855::$$$message_0431_0016_0003$$$::Ela manteve a postura firme de sempre, mesmo com as pernas tremendo e mordendo o lábio.::
+49856::$$$message_0431_0017_0000$$$::...Foi então que percebi.[lr]::
+49857::$$$message_0431_0017_0001$$$::Quanto mais ela age como uma maga perfeita, mais parece estar matando seu verdadeiro eu.::
+49858::$$$message_0431_0018_0000$$$::"Foi difícil para você, Tohsaka?"[lr]::
+49859::$$$message_0431_0018_0001$$$::Fico inquieto e pergunto.::
+49860::$$$message_0431_0019_0000$$$::"Quer dizer o treinamento? Desculpa, mas nunca achei difícil. Eu conseguia fazer a maioria das coisas com facilidade. Nunca me senti intimidada por nada, já que tudo sempre veio fácil.[lr]::
+49861::$$$message_0431_0019_0001$$$::Além disso, aprender coisas novas era divertido. Eu te disse, certo? Nasci com essa personalidade. Então não precisa se preocupar."::
+49862::$$$message_0431_0020_0000$$$::Ela diz as coisas como as vê.[lr]::
+49863::$$$message_0431_0020_0001$$$::Não percebo blefe nem mentira. Em vez disso, vejo apenas um sorriso maravilhoso.::
+49864::$$$message_0431_0021_0000$$$::"Entendi. Então e a escola? Se você vai viver como maga, não é inútil ir para a escola?"::
+49865::$$$message_0431_0022_0000$$$::"Não é inútil, mas é um desvio.[lr]::
+49866::$$$message_0431_0022_0001$$$::Mas também não diria que é perda de tempo. Ser estudante é divertido. Acho que dá para dizer que sou epicurista. É meu dever suceder meu pai, mas eu nem isso faria se não fosse divertido.[lr]::
+49867::$$$message_0431_0022_0002$$$::Virei Mestre porque queria testar meus próprios poderes, e estou cooperando com você porque você é interessante."::
+49868::$$$message_0431_0023_0000$$$::[font italic=true]...[font italic=false][lr]::
+49869::$$$message_0431_0023_0001$$$::Deixando de lado a opinião dela de que sou interessante, isso tira um peso dos meus ombros.::
 49870::$$$message_0431_0024_0000$$$::Uma família de magos.[lr]::
-49871::$$$message_0431_0024_0001$$$::Eu pensei que a Tohsaka tava carregando uma sombra negra já que ela é limitada por uma história e sangue pesados.[lr]::
-49872::$$$message_0431_0024_0002$$$::Mas isso foi só meu preconceito.[lr]::
-49873::$$$message_0431_0024_0003$$$::A "família Tohsaka" não é um fardo pra ela, e ela fez o que quis até hoje::
-49874::$$$message_0431_0025_0000$$$::"[line4]Entendi. Eu tô feliz que você tá se divertindo."[lr]::
-49875::$$$message_0431_0025_0001$$$::"Obrigada. Então, eu tenho certeza que você tava se divertindo falando isso, certo? Você não conseguiria continuar com o treino a não ser que esse fosse o caso."[lr]::
-49876::$$$message_0431_0025_0002$$$::A Tohsaka fala isso como se fosse natural.[lr]::
+49871::$$$message_0431_0024_0001$$$::Eu achava que Tohsaka carregava uma sombra escura e pesada por estar presa a uma longa história e linhagem.[lr]::
+49872::$$$message_0431_0024_0002$$$::Mas acho que eu não entendo nada desse tipo de coisa.[lr]::
+49873::$$$message_0431_0024_0003$$$::A família Tohsaka não é um fardo para ela, e ela vem fazendo livremente o que quer.::
+49874::$$$message_0431_0025_0000$$$::"...Entendi. Fico feliz que você esteja se divertindo."[lr]::
+49875::$$$message_0431_0025_0001$$$::"Obrigada. Então você é igual se diz isso, certo? Não conseguiria continuar treinando se não estivesse se divertindo."[lr]::
+49876::$$$message_0431_0025_0002$$$::Suponho que essa seja a conclusão natural.[lr]::
 49877::$$$message_0431_0025_0003$$$::Mas...[lr]::
-49878::$$$message_0431_0025_0004$$$::"Hm[line4]"[lr]::
-49879::$$$message_0431_0025_0005$$$::Eu não posso concordar.::
-49880::$$$message_0431_0026_0000$$$::"...Ei. Por que você tá em silêncio? Seu pai não te forçou, certo? Mas você continuou treinando apesar disso, então isso quer dizer que foi divertido."::
-49881::$$$message_0431_0027_0000$$$::"Uh, bom[line5]"[lr]::
-49882::$$$message_0431_0027_0001$$$::Eu não acho que eu cheguei a considerar isso divertido.[lr]::
-49883::$$$message_0431_0027_0002$$$::Para Emiya Shirou, taumaturgia sempre foi um desafio com risco de vida.::
+49878::$$$message_0431_0025_0004$$$::"Hm..."[lr]::
+49879::$$$message_0431_0025_0005$$$::Não consigo assentir.::
+49880::$$$message_0431_0026_0000$$$::"...Ei, por que ficou quieto? Seu pai não te forçou, certo? Mas você continuou apesar disso, então não foi porque Magia era divertida?"::
+49881::$$$message_0431_0027_0000$$$::"Ah, bom..."[lr]::
+49882::$$$message_0431_0027_0001$$$::Nunca senti que fosse divertido.[lr]::
+49883::$$$message_0431_0027_0002$$$::Para mim, Magia sempre foi uma provação perigosa.::
 49884::$$$message_0431_0028_0000$$$::Eu sei que eu não tenho a aptidão.[lr]::
-49885::$$$message_0431_0028_0001$$$::Mas eu me agarrei nisso, querendo ser como o Kiritsugu.::
-49886::$$$message_0431_0029_0000$$$::No primeiro ano, eu treinei o tempo inteiro exceto quando eu tava comendo e dormindo.[lr]::
-49887::$$$message_0431_0029_0001$$$::Eu afiei minha sensibilidade, encarando a morte toda noite.[lr]::
-49888::$$$message_0431_0029_0002$$$::Eu só repeti isso por oito anos.[lr]::
-49889::$$$message_0431_0029_0003$$$::Eu não achei que foi difícil, mas não achei que foi divertido.::
-49890::$$$message_0431_0030_0000$$$::"...Pera. Me responde, Emiya-kun.[lr]::
-49891::$$$message_0431_0030_0001$$$::Eu talvez tenha severamente entendido você errado."[lr]::
-49892::$$$message_0431_0030_0002$$$::A Tohsaka me encara seriamente.::
-49893::$$$message_0431_0031_0000$$$::"......"[lr]::
-49894::$$$message_0431_0031_0001$$$::...Droga.[lr]::
-49895::$$$message_0431_0031_0002$$$::Eu tenho que responder ela se ela faz uma cara assim.::
-49896::$$$message_0431_0032_0000$$$::"[line3]Sim. Eu nunca pensei que treinar taumaturgia era divertido. Mas eu fiquei feliz em ter as pessoas ao meu redor felizes. Hm, eu pensei que poderia ajudar alguém se eu estudasse taumaturgia."::
-49897::$$$message_0431_0033_0000$$$::"[line8]"[lr]::
-49898::$$$message_0431_0033_0001$$$::"Eu queria ser um super herói como o Kiritsugu. Eu aprendi taumaturgia por essa razão. ...Bom, essa é minha razão."::
-49899::$$$message_0431_0034_0000$$$::"[line3]Então o que? Você não aprendeu taumaturgia pelo seu próprio bem?"[lr]::
-49900::$$$message_0431_0034_0001$$$::"Huh? ...Pera, isso não é pelo meu bem? Eu fico feliz em ajudar alguém."::
-49901::$$$message_0431_0035_0000$$$::"Ei espera. Você pode ficar feliz, mas você não tá se divertindo![lr]::
-49902::$$$message_0431_0035_0001$$$::Olha, eu tô falando sobre o que é divertido pra você. Eu tô te perguntando se tem algo que você considera divertido!"[lr]::
-49903::$$$message_0431_0035_0002$$$::A Tohsaka reclama.::
-49904::$$$message_0431_0036_0000$$$::"[line8]"[lr]::
-49905::$$$message_0431_0036_0001$$$::Mesmo que ela diga isso, eu não posso responder o que eu não sei.[lr]::
-49906::$$$message_0431_0036_0002$$$::Eu não consigo pensar em nada que é divertido pra mim, e acima de tudo[line3][lr]::
-49907::$$$message_0431_0036_0003$$$::[line3]Eu não sou qualificado pra ter um desejo assim.::
-49908::$$$message_0431_0037_0000$$$::"Isso me deixa brava! Resumindo, você só tá se importando com os outros e não consigo mesmo!"[lr]::
-49909::$$$message_0431_0037_0001$$$::Ela repentinamente se levanta e aponta pra mim.::
-49910::$$$message_0431_0038_0000$$$::"Huh? Pera, Tohsaka, seu dedo...!"[lr]::
-49911::$$$message_0431_0038_0001$$$::Seu dedo, não, sua unha tá tocando meu nariz!::
-49912::$$$message_0431_0039_0000$$$::"Cala boca! Não me responde! Aah, eu sempre achei que você eram parecidos, mas eu não sabia que era tanto assim!"[lr]::
-49913::$$$message_0431_0039_0001$$$::Rejeitando meu protesto, a Tohsaka me aperta ainda mais.::
-49914::$$$message_0431_0040_0000$$$::"Espera. Se acalma, Tohsaka. Por que você tá tão brava?"[lr]::
-49915::$$$message_0431_0040_0001$$$::"Eu tô brava porque você não consegue perceber! Aah, por que que ninguém te contou!?"[lr]::
-49916::$$$message_0431_0040_0002$$$::Ela balança o punho dela.::
-49917::$$$message_0431_0041_0000$$$::"[line8]"[lr]::
-49918::$$$message_0431_0041_0001$$$::Eu vou ficar silencioso por agora.[lr]::
-49919::$$$message_0431_0041_0002$$$::Eu vou ficar quieto até a raiva da Tohsaka sair.::
+49885::$$$message_0431_0028_0001$$$::Mesmo assim, desesperado para ser como Kiritsugu, me agarrei a isso.::
+49886::$$$message_0431_0029_0000$$$::No primeiro ano, fora o tempo em que dormia ou comia, passei todo o resto treinando.[lr]::
+49887::$$$message_0431_0029_0001$$$::Encarando a morte todas as noites, refinei minha sensibilidade.[lr]::
+49888::$$$message_0431_0029_0002$$$::E repeti isso por oito anos.[lr]::
+49889::$$$message_0431_0029_0003$$$::Não achei difícil, mas também não achei divertido.::
+49890::$$$message_0431_0030_0000$$$::"...Espera. Me responde, Emiya.[lr]::
+49891::$$$message_0431_0030_0001$$$::Talvez eu tenha entendido tudo errado."[lr]::
+49892::$$$message_0431_0030_0002$$$::Tohsaka me encara com seriedade.::
+49893::$$$message_0431_0031_0000$$$::"..."[lr]::
+49894::$$$message_0431_0031_0001$$$::...Estou encurralado.[lr]::
+49895::$$$message_0431_0031_0002$$$::Se ela faz uma expressão dessas, não tenho como não responder.::
+49896::$$$message_0431_0032_0000$$$::"...Sim. Nunca achei Magia divertida. Nunca achei o treinamento divertido. Mas, desde que as pessoas ao meu redor fiquem felizes, eu também fico. Então pensei que poderia ajudar alguém se aprendesse Magia."::
+49897::$$$message_0431_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+49898::$$$message_0431_0033_0001$$$::"Eu queria ser um herói da justiça como Kiritsugu. É por isso que venho aprendendo Magia. Achei que poderia fazer o certo se fizesse isso."::
+49899::$$$message_0431_0034_0000$$$::"...E daí? Você não aprendeu Magia por si mesmo?"[lr]::
+49900::$$$message_0431_0034_0001$$$::"Hã? ...Bom, isso não é por mim? Fico feliz se consigo ajudar alguém."::
+49901::$$$message_0431_0035_0000$$$::"Ei, calma lá. Você fica feliz, mas não se diverte![lr]::
+49902::$$$message_0431_0035_0001$$$::Escuta, estou falando do que isso tem para você. Não estou perguntando sobre os outros. Estou perguntando sobre você. Sobre o que [font italic=true]você[font italic=false] gosta."[lr]::
+49903::$$$message_0431_0035_0002$$$::Tohsaka praticamente ruge.::
+49904::$$$message_0431_0036_0000$$$::[font italic=true]...[font italic=false][lr]::
+49905::$$$message_0431_0036_0001$$$::Mesmo que ela diga isso, não consigo responder.[lr]::
+49906::$$$message_0431_0036_0002$$$::Não consigo pensar em nada que seja divertido para mim e, acima de tudo...[lr]::
+49907::$$$message_0431_0036_0003$$$::...Eu não tenho o direito de ter um desejo assim.::
+49908::$$$message_0431_0037_0000$$$::"Isso me irrita! Você se importa demais com os outros para se importar consigo mesmo!"[lr]::
+49909::$$$message_0431_0037_0001$$$::Tohsaka se levanta de repente e aponta para mim.::
+49910::$$$message_0431_0038_0000$$$::"Hã? Espera, Tohsaka, seu dedo...!"[lr]::
+49911::$$$message_0431_0038_0001$$$::O dedo dela, não, a unha dela está cravando na ponta do meu nariz!::
+49912::$$$message_0431_0039_0000$$$::"Cala a boca! Não me responde. Ugh, eu achei que vocês dois eram parecidos, mas não imaginei que fossem [font italic=true]tão[font italic=false] parecidos!"[lr]::
+49913::$$$message_0431_0039_0001$$$::Ela rejeita meu protesto e se aproxima ainda mais.::
+49914::$$$message_0431_0040_0000$$$::"Espera. Se acalma, Tohsaka. Por que está tão brava?"[lr]::
+49915::$$$message_0431_0040_0001$$$::"Estou furiosa porque você não percebe! Droga, por que ninguém te contou!?"[lr]::
+49916::$$$message_0431_0040_0002$$$::O punho dela treme.::
+49917::$$$message_0431_0041_0000$$$::[font italic=true]...[font italic=false][lr]::
+49918::$$$message_0431_0041_0001$$$::Tudo que posso fazer é ficar quieto.[lr]::
+49919::$$$message_0431_0041_0002$$$::Só posso obedecer Tohsaka até a raiva dela passar.::
 49920::$$$message_0431_0042_0000$$$::...Então.[lr]::
 49921::$$$message_0431_0042_0001$$$::Depois de reclamar por um tempo...[lr]::
-49922::$$$message_0431_0042_0002$$$::"[line3]Heh. Tudo bem, eu decidi.[lr]::
-49923::$$$message_0431_0042_0003$$$::Eu vou fazer você admitir derrota amanhã."[lr]::
-49924::$$$message_0431_0042_0004$$$::Ela fala isso me batendo com uma luva.::
-49925::$$$message_0431_0043_0000$$$::"...Isso é perturbador. Então a gente vai continuar aquela luta?"[lr]::
-49926::$$$message_0431_0043_0001$$$::"Aquela luta", obviamente, é quando ela me perseguiu pela escola.[lr]::
-49927::$$$message_0431_0043_0002$$$::Eu tava encurralado e tive que desistir, mas a partida foi decidida por causa da interrupção da Rider.::
-49928::$$$message_0431_0044_0000$$$::"Sim. É bom você se preparar. Eu vou bater bem em você."[lr]::
-49929::$$$message_0431_0044_0001$$$::A Tohsaka se anima antes de sair andando até a sala de estar.::
-49930::$$$message_0431_0045_0000$$$::"[line4]Hm."[lr]::
-49931::$$$message_0431_0045_0001$$$::Eu não sei o que vai acontecer.[lr]::
-49932::$$$message_0431_0045_0002$$$::Então eu devia ficar pronto pra qualquer coisa...?::
-49933::$$$message_0431_0046_0000$$$::Enfim, eu tenho que levar a Tohsaka pra casa.[lr]::
+49922::$$$message_0431_0042_0002$$$::"...Hmph. Certo, decidi.[lr]::
+49923::$$$message_0431_0042_0003$$$::Vou fazer você admitir derrota amanhã."[lr]::
+49924::$$$message_0431_0042_0004$$$::Ela diz isso como se me acertasse com uma luva.::
+49925::$$$message_0431_0043_0000$$$::"...Isso soa agourento. Vamos continuar a nossa luta?"[lr]::
+49926::$$$message_0431_0043_0001$$$::Nem preciso dizer que estou me referindo ao nosso confronto na escola.[lr]::
+49927::$$$message_0431_0043_0002$$$::Eu estava encurralado e prestes a me render, mas não conseguimos decidir o placar porque Rider interrompeu.::
+49928::$$$message_0431_0044_0000$$$::"Isso mesmo. Espere só para ver. Vou te dar uma amostra de algo especial que venho guardando!"[lr]::
+49929::$$$message_0431_0044_0001$$$::Tohsaka se empolga e sai andando em direção à sala de estar.::
+49930::$$$message_0431_0045_0000$$$::"...Hm."[lr]::
+49931::$$$message_0431_0045_0001$$$::Não sei o que vai acontecer.[lr]::
+49932::$$$message_0431_0045_0002$$$::Será que devo estar pronto para qualquer coisa...?::
+49933::$$$message_0431_0046_0000$$$::Enfim, preciso levar Tohsaka para casa.[lr]::
 49934::$$$message_0431_0046_0001$$$::É quase dez horas.[lr]::
-49935::$$$message_0431_0046_0002$$$::Eu não sei o que a Fuji-nee vai dizer se eu deixar uma garota em casa por tanto tempo.::
-49936::$$$message_0431_0047_0000$$$::"Huh? O que você falou, Shirou?"[lr]::
-49937::$$$message_0431_0047_0001$$$::"Eu disse que vou levar a Tohsaka pra casa. ...Onde que ela tá? Já tá na hora dela ir embora."::
-49938::$$$message_0431_0048_0000$$$::A Fuji-nee tá me assistindo com um espanto inexpressivo.[lr]::
+49935::$$$message_0431_0046_0002$$$::Não sei o que Fuji-nee vai dizer se eu deixar uma garota fora de casa até tão tarde.::
+49936::$$$message_0431_0047_0000$$$::"Hã? O que você disse, Shirou?"[lr]::
+49937::$$$message_0431_0047_0001$$$::"Eu disse que vou levar Tohsaka para casa... Mas onde ela está? Não é bom ela demorar mais para ir embora."::
+49938::$$$message_0431_0048_0000$$$::Fuji-nee olha para mim, atônita.[lr]::
 49939::$$$message_0431_0048_0001$$$::...Isso é estranho.[lr]::
-49940::$$$message_0431_0048_0002$$$::A Fuji-nee devia concordar instantaneamente, mas ela não parece tar com pressa.::
-49941::$$$message_0431_0049_0000$$$::"Hmm. Eu acho que a Tohsaka-san tá no anexo.[lr]::
-49942::$$$message_0431_0049_0001$$$::Ela é um convidado, então ela tem que ter um quarto de hóspede apropriado se ela for dormir, certo?"[lr]::
-49943::$$$message_0431_0049_0002$$$::"Tudo bem, o anexo[line3]pera, não seja ridícula, Fuji-nee. Você não acabou de falar algo estranho?"::
-49944::$$$message_0431_0050_0000$$$::"Aah, você que tá falando coisas estranhas, Shirou.[lr]::
-49945::$$$message_0431_0050_0001$$$::Você vai deixar a Tohsaka-san dormir aqui porque tá tarde, certo? A Tohsaka-san acabou de vir e me contar isso."[lr]::
-49946::$$$message_0431_0050_0002$$$::"Que[line4]a Tohsaka vai dormir aqui...!?"::
-49947::$$$message_0431_0051_0000$$$::"Sim. Mas você não pode fazer nada estranho, tudo bem?[lr]::
-49948::$$$message_0431_0051_0001$$$::Eu vou dormir na sala japonesa, então eu vou te matar em um corte se eu ouvir um grito do quarto de hóspede."::
-49949::$$$message_0431_0052_0000$$$::A Fuji-nee mastiga a bolacha.[lr]::
-49950::$$$message_0431_0052_0001$$$::Ela parece normal, e parece que ela não pensa nada a respeito da situação emergencial de ter a Tohsaka dormindo aqui.::
-49951::$$$message_0431_0053_0000$$$::"Maldita[line5]!"[lr]::
-49952::$$$message_0431_0053_0001$$$::Parece que a Fuji-nee se rendeu a Tohsaka.::
-49953::$$$message_0431_0054_0000$$$::"Ah, ótimo momento. Eu vou usar o quarto de hóspedes da direita emprestado."[lr]::
-49954::$$$message_0431_0054_0001$$$::[line4]Então.[lr]::
-49955::$$$message_0431_0054_0002$$$::O alien que eu esbarro no meu caminho até o anexo fala normalmente.::
-49956::$$$message_0431_0055_0000$$$::"Uh[line4]um."[lr]::
+49940::$$$message_0431_0048_0002$$$::Achei que Fuji-nee aprovaria na hora, mas ela não parece ter pressa nenhuma.::
+49941::$$$message_0431_0049_0000$$$::"Hmm. Acho que Tohsaka-san está no anexo.[lr]::
+49942::$$$message_0431_0049_0001$$$::Ela é uma convidada, então precisa de um quarto de hóspedes adequado se for dormir aqui, certo?"[lr]::
+49943::$$$message_0431_0049_0002$$$::"Tudo bem, o anexo[line2]Não, espera, você está aprontando alguma, Fuji-nee? O que acabou de dizer?"::
+49944::$$$message_0431_0050_0000$$$::"Você é que está tentando aprontar alguma.[lr]::
+49945::$$$message_0431_0050_0001$$$::Você vai deixar Tohsaka-san dormir aqui porque está tarde, certo? Tohsaka-san acabou de vir me contar isso."[lr]::
+49946::$$$message_0431_0050_0002$$$::"Qu[line2]a Tohsaka vai dormir aqui...!?"::
+49947::$$$message_0431_0051_0000$$$::"Sim? E, só para deixar claro, você não vai fazer nada com ela, entendido?[lr]::
+49948::$$$message_0431_0051_0001$$$::Vou dormir no outro quarto, então, se eu ouvir um grito vindo do quarto de hóspedes, você vira grama e eu sou o cortador."::
+49949::$$$message_0431_0052_0000$$$::Fuji-nee mastiga biscoitos de arroz.[lr]::
+49950::$$$message_0431_0052_0001$$$::Ela age normalmente, como se não pensasse nada da emergência que está descrevendo.::
+49951::$$$message_0431_0053_0000$$$::"Aquela garota...!"[lr]::
+49952::$$$message_0431_0053_0001$$$::Parece que Fuji-nee já se rendeu a Tohsaka.::
+49953::$$$message_0431_0054_0000$$$::"Ah, chegou na hora certa. Vou pegar emprestado o quarto de hóspedes da direita."[lr]::
+49954::$$$message_0431_0054_0001$$$::    Então...[lr]::
+49955::$$$message_0431_0054_0002$$$::Dou de cara com uma alienígena no caminho para o anexo dos quartos de hóspedes.::
+49956::$$$message_0431_0055_0000$$$::"Hã? Ah..."[lr]::
 49957::$$$message_0431_0055_0001$$$::A aparência dela faz minha cabeça girar.[lr]::
-49958::$$$message_0431_0055_0002$$$::Ela não tá de uniforme.[lr]::
-49959::$$$message_0431_0055_0003$$$::Essa pessoa tá no meu corredor, falando algo ridículo.::
-49960::$$$message_0431_0056_0000$$$::"Ah, isso? Eu vou dormir aqui, então eu fiz o Archer trazer minhas coisas. Eu não preciso de nenhum pijama emprestado."::
-49961::$$$message_0431_0057_0000$$$::"Uh[line4]Uh?"[lr]::
-49962::$$$message_0431_0057_0001$$$::"Você tá bem? Vai pra cama cedo se você tá cansado. Eu não vou te perdoar se você dormir até tarde amanhã."[lr]::
-49963::$$$message_0431_0057_0002$$$::Acenando tchau, ela desce o corredor que leva ao anexo.::
-49964::$$$message_0431_0058_0000$$$::Em confusão, eu observo ela e olho pra mim mesmo no espelho.[lr]::
-49965::$$$message_0431_0058_0001$$$::"[line7]"[lr]::
-49966::$$$message_0431_0058_0002$$$::Minha cara ta vermelha como uma maçã.[lr]::
+49958::$$$message_0431_0055_0002$$$::Tohsaka está usando roupas próprias, não o uniforme.[lr]::
+49959::$$$message_0431_0055_0003$$$::E está no corredor da minha casa dizendo uma loucura.::
+49960::$$$message_0431_0056_0000$$$::"Ah, isto? Decidi dormir aqui, então pedi para Archer trazer as coisas de que preciso. E não vou precisar pegar pijama emprestado."::
+49961::$$$message_0431_0057_0000$$$::"Ah... Ah?"[lr]::
+49962::$$$message_0431_0057_0001$$$::"Ei, você está bem? Vá dormir cedo se estiver cansado. Não vou te perdoar se dormir até tarde amanhã."[lr]::
+49963::$$$message_0431_0057_0002$$$::Ela acena e desaparece pelo corredor que leva ao anexo.::
+49964::$$$message_0431_0058_0000$$$::Eu a vejo partir, pasmo, e então olho para o espelho no corredor.[lr]::
+49965::$$$message_0431_0058_0001$$$::"..."[lr]::
+49966::$$$message_0431_0058_0002$$$::Meu rosto está vermelho como uma maçã.[lr]::
 49967::$$$message_0431_0058_0003$$$::...Droga.[lr]::
-49968::$$$message_0431_0058_0004$$$::O que ela tá pensando, dormindo na mesma casa mesmo que a gente esteja longe um do outro?::
-49969::$$$message_0431_0059_0000$$$::"...Eu devia tomar um banho de novo."[lr]::
-49970::$$$message_0431_0059_0001$$$::Vou jogar água gelada em mim e resfriar minha cara que tá queimando.[lr]::
-49971::$$$message_0431_0059_0002$$$::...Um, eu tenho que fazer isso ou eu não vou conseguir me concentrar no meu treino, tendo a Tohsaka na minha mente[line3]::
-
+49968::$$$message_0431_0058_0004$$$::O que ela está pensando, dormindo na mesma casa? Mesmo que, tecnicamente, ainda estejamos bem afastados...::
+49969::$$$message_0431_0059_0000$$$::"...Talvez eu vá tomar banho de novo."[lr]::
+49970::$$$message_0431_0059_0001$$$::Vou jogar água fria em mim e esfriar meu rosto ardendo.[lr]::
+49971::$$$message_0431_0059_0002$$$::...Hmm, sinto que preciso fazer isso ou a imagem de Tohsaka vai ficar presa na minha cabeça, e não vou conseguir me concentrar no treino...::

@@ -1,84 +1,83 @@
 DAT
 id=qid::label=str::text=lstr::
 40232::$$$message_0347_0000_0000$$$::O sol se põe.[lr]::
-40233::$$$message_0347_0000_0001$$$::O sol, que nem estava visível, começa a se pôr e o céu escuro fica menos iluminado ainda.::
-40234::$$$message_0347_0001_0000$$$::"[line3]Entendo. A Saber foi sequestrada."[lr]::
-40235::$$$message_0347_0001_0001$$$::O Archer só disse isso.[lr]::
-40236::$$$message_0347_0001_0002$$$::A Mestra dele contou o que aconteceu sem entrar em detalhes, mas a sua resposta foi ainda mais simples.::
-40237::$$$message_0347_0002_0000$$$::"...Só isso? Agora a Caster está controlando dois Servos. Você não vai dizer mais nada?"[lr]::
-40238::$$$message_0347_0002_0001$$$::"Bem, por enquanto eu não consigo pensar em nenhuma maneira de derrotá-la. Mas pelo lado positivo, nós descobrimos o Fantasma Nobre dela.[lr]::
-40239::$$$message_0347_0002_0002$$$::[line3]Desfazer o contrato entre o Servo e o Mestre, não é? Agora que nós sabemos sobre essa informação, temos mais chances de derrotá-la."[lr]::
-40240::$$$message_0347_0002_0003$$$::"Eu sei, mas...[lr]::
-40241::$$$message_0347_0002_0004$$$::...Você fala como se nem estivesse interessado, Archer. Você não se importa com a Saber?"::
-40242::$$$message_0347_0003_0000$$$::"[line3]Eu não me lembro de ter dito que me importo com ela. O que te fez pensar isso, Rin?"[lr]::
-40243::$$$message_0347_0003_0001$$$::"Deixa eu ver... será que a minha intuição de mulher serve?"[lr]::
-40244::$$$message_0347_0003_0002$$$::"Nem um pouco. Você é jovem demais para ser considerada uma mulher. Para começar, você não é tão atraente assim.[lr]::
-40245::$$$message_0347_0003_0003$$$::Você também não possui elegância.[lr]::
-40246::$$$message_0347_0003_0004$$$::E acima de tudo[line3]sim, isso é o mais importante... o seu charme é difícil de compreender."::
-40247::$$$message_0347_0004_0000$$$::"[line4]Heh. Estou vendo que o seu humor está de volta ao normal."[lr]::
-40248::$$$message_0347_0004_0001$$$::Ela dá um sorriso alegre.[lr]::
-40249::$$$message_0347_0004_0002$$$::O Archer precisa agir desse jeito.[lr]::
-40250::$$$message_0347_0004_0003$$$::A Rin não confia em um parceiro que não tenha emoções.[lr]::
-40251::$$$message_0347_0004_0004$$$::O parceiro dela precisa ser tranquilo e falar com os outros de forma irônica.::
-40252::$$$message_0347_0005_0000$$$::A Rin sabe que esse cavaleiro está, na verdade, tentando ser gentil.[lr]::
-40253::$$$message_0347_0005_0001$$$::Falar com os outros de forma irônica é como apontar os seus defeitos e dizer que eles precisam ser corrigidos.::
-40254::$$$message_0347_0006_0000$$$::"Está bem. Então, lá vai a primeira prova.[lr]::
-40255::$$$message_0347_0006_0001$$$::Quando a Saber apareceu pela primeira vez, você não lutou com ela a sério.[lr]::
-40256::$$$message_0347_0006_0002$$$::Por mais que a Saber seja forte, eu duvido que alguém que tem boa defesa como você seria derrotado com apenas um golpe."::
-40257::$$$message_0347_0007_0000$$$::"Aquilo foi um ataque surpresa. Diferente de você, eu não sou muito bom em lidar com coisas inesperadas."[lr]::
-40258::$$$message_0347_0007_0001$$$::"Não me interrompa. Lá vai a segunda prova.[lr]::
-40259::$$$message_0347_0007_0002$$$::Depois daquele incidente com a Rider, você deu uma provocada na Saber.[lr]::
-40260::$$$message_0347_0007_0003$$$::Você não é alguém que faria isso.[lr]::
-40261::$$$message_0347_0007_0004$$$::Depois de um tempo, eu percebi qual era a sua intenção. Você estava dando uma bronca na Saber, não estava?"::
-40262::$$$message_0347_0008_0000$$$::"............"[lr]::
-40263::$$$message_0347_0008_0001$$$::"Ah, acertei? Como eu pensava! Não sei se você já conhecia a Saber na sua vida passada, mas não é a sua característica agir daquela maneira tão fria."[lr]::
-40264::$$$message_0347_0008_0002$$$::"Tem certeza? Porque eu costumo ser assim com qualquer um."[lr]::
-40265::$$$message_0347_0008_0003$$$::"Isso é o que você pensa. As pessoas te acham um cara frio porque você é assim com elas. Mas no fundo, você é bem inseguro quando está lidando com coisas que te preocupam."::
-40266::$$$message_0347_0009_0000$$$::O Archer faz uma expressão séria.[lr]::
-40267::$$$message_0347_0009_0001$$$::Ele já deve ter percebido que costuma agir desse jeito.[lr]::
-40268::$$$message_0347_0009_0002$$$::O cavaleiro de roupa vermelha começa a pensar com um rosto envergonhado, e a sua Mestra olha para ele com um sorriso no rosto.[lr]::
-40269::$$$message_0347_0009_0003$$$::E de repente...[lr]::
-40270::$$$message_0347_0009_0004$$$::"Então, já se lembrou de quem você é? Já que você conhece a Saber, então deve ter vindo da mesma época que ela, não é mesmo?"[lr]::
-40271::$$$message_0347_0009_0005$$$::Ela diz isso como se quisesse fazer um teste.::
-40272::$$$message_0347_0010_0000$$$::"[line4]Não, o meu passado ainda está confuso.[lr]::
-40273::$$$message_0347_0010_0001$$$::Mas como você disse, eu me lembro da Saber. Já que ela não me reconheceu, talvez nós não fôssemos tão próximos um do outro."[lr]::
-40274::$$$message_0347_0010_0002$$$::"Hm. Parece que vocês não eram amigos e nem amantes.[lr]::
-40275::$$$message_0347_0010_0003$$$::Que pena. Porque se fosse o caso, eu teria descoberto a identidade dela."[lr]::
-40276::$$$message_0347_0010_0004$$$::A Rin não parece estar decepcionada.[lr]::
-40277::$$$message_0347_0010_0005$$$::Ela só fez uma observação.::
-40278::$$$message_0347_0011_0000$$$::"Bem, logo eu vou me lembrar.[lr]::
-40279::$$$message_0347_0011_0001$$$::A propósito, Rin. A pessoa que você trouxe até aqui está bem? Como ela está se sentindo?"::
-40280::$$$message_0347_0012_0000$$$::"...Sim. De alguma forma, ele ainda está vivo. Até ontem, os ferimentos dele estavam se curando sozinhos, mas agora não está melhorando nem um pouco. Ele deve ter perdido os poderes de cura da Saber depois que o contrato foi desfeito.[lr]::
-40281::$$$message_0347_0012_0001$$$::Mas ele não corre risco de vida. Por sorte, nenhum órgão vital foi atingido, então ele deve conseguir se levantar e comer daqui a uns três dias."::
-40282::$$$message_0347_0013_0000$$$::"Não, eu não estava falando dele. Me referi à outra pessoa."[lr]::
-40283::$$$message_0347_0013_0001$$$::"Hã? Ah, a Fujimura-sensei? Eu a deixei dormindo no quarto de visitantes. A Caster lançou uma magia de sono nela, mas o seu estado de saúde está muito bom. Eu já cuidei dela, então ela vai ficar bem mesmo se tiver que dormir por uma semana."::
-40284::$$$message_0347_0014_0000$$$::"[line4]Entendo. Mas se depender da magia da Caster, ela pode acabar virando uma bela adormecida. Os feitiços daquela mulher se parecem mais com maldições. A melhor maneira de garantir que o feitiço será desfeito é matando a Caster."[lr]::
-40285::$$$message_0347_0014_0001$$$::"Tem razão. De qualquer forma, o Santo Graal não vai durar por muito tempo. Nós temos que derrotar a Caster o mais rápido possível, e se eu conheço bem a Fujimura-sensei, aposto que ela vai acabar acordando sozinha."[lr]::
-40286::$$$message_0347_0014_0002$$$::O Archer acena com a cabeça.[lr]::
-40287::$$$message_0347_0014_0003$$$::E depois de uma pequena pausa na conversa...::
-40288::$$$message_0347_0015_0000$$$::"O mais importante é derrotar a Caster. Mesmo que haja um Mestre a menos, a Saber ainda está nesse mundo. ...Nós não podemos perder tempo, Rin."[lr]::
-40289::$$$message_0347_0015_0001$$$::"Eu sei. Vamos para a cidade agora mesmo.[lr]::
-40290::$$$message_0347_0015_0002$$$::Até mesmo a Caster deve levar algum tempo para conseguir controlar a Saber. Se possível, nós temos que derrotar a Caster antes que a Saber esteja sob o comando dela."::
-40291::$$$message_0347_0016_0000$$$::"Entendido. [line4]Então, o contrato daquele moleque já era, não é?"[lr]::
-40292::$$$message_0347_0016_0001$$$::"Hã[line4]?"[lr]::
-40293::$$$message_0347_0016_0002$$$::"Não me venha com 'hã'. O Emiya Shirou não é mais um Mestre, certo?[lr]::
-40294::$$$message_0347_0016_0003$$$::Nesse caso, ele não será mais útil e nós não precisamos mais protegê-lo. O segundo Selo de Comando já pode ser retirado de mim, não acha?"[lr]::
-40295::$$$message_0347_0016_0004$$$::"[line8]"[lr]::
-40296::$$$message_0347_0016_0005$$$::"Qual o problema? Não me diga que você quer cuidar dele só porque vocês trabalharam juntos."[lr]::
-40297::$$$message_0347_0016_0006$$$::"[line4]Claro que não. Eu não sou tão boazinha assim."::
-40298::$$$message_0347_0017_0000$$$::"Então..."[lr]::
-40299::$$$message_0347_0017_0001$$$::"Mas ainda não acabou. Eu não vou quebrar a minha promessa até que ele diga que vai abandonar essa guerra.[lr]::
-40300::$$$message_0347_0017_0002$$$::...Eu vou tentar convencê-lo a abandoná-la, mas não vou terminar a nossa cooperação até que ele tenha desistido de lutar."[lr]::
-40301::$$$message_0347_0017_0003$$$::Ela diz isso de forma teimosa.[lr]::
-40302::$$$message_0347_0017_0004$$$::O que o Archer poderia responder em troca?::
-40303::$$$message_0347_0018_0000$$$::"Essa é a minha decisão final. Tem algum problema, Archer?"[lr]::
-40304::$$$message_0347_0018_0001$$$::"[line4]Fazer o quê? Eu sabia que você era teimosa desse jeito."[lr]::
-40305::$$$message_0347_0018_0002$$$::Ele diz isso de forma irônica.[lr]::
-40306::$$$message_0347_0018_0003$$$::Ela ri e em seguida dá uma ordem.[lr]::
-40307::$$$message_0347_0018_0004$$$::"Vamos nessa, Archer. Eu estou com o pressentimento de que a Caster não voltou para o Templo Ryuudou.[lr]::
-40308::$$$message_0347_0018_0005$$$::Portanto[line4]vamos descobrir onde ela está e derrotá-la antes que esteja de volta no templo."[lr]::
-40309::$$$message_0347_0018_0006$$$::Ele nem precisa responder.[lr]::
-40310::$$$message_0347_0018_0007$$$::O cavaleiro de roupa vermelha acena com a cabeça e vai atrás da sua Mestra.::
-40311::$$$message_0347_0019_0000$$$::Ainda há nuvens cinzas no céu.[lr]::
-40312::$$$message_0347_0019_0001$$$::Uma noite sem Lua. Ela sai com o Archer para procurar pelo seu alvo.::
-
+40233::$$$message_0347_0000_0001$$$::O sol, que nem sequer estava visível, se põe, e o céu que já estava sombrio fica ainda mais escuro.::
+40234::$$$message_0347_0001_0000$$$::"...Entendo. Então Saber foi levada."[lr]::
+40235::$$$message_0347_0001_0001$$$::Essa foi a única resposta de Archer.[lr]::
+40236::$$$message_0347_0001_0002$$$::Sua Mestra, Tohsaka Rin, declarou a verdade de forma simples, mas a brevidade dele supera a dela.::
+40237::$$$message_0347_0002_0000$$$::"...Só isso? Agora Caster tem dois Servos sob seu controle. Não tem mais nada a dizer?"[lr]::
+40238::$$$message_0347_0002_0001$$$::"Sim, não consigo pensar em nenhuma saída para isso. Mas devemos considerar uma sorte termos descoberto o Fantasma Nobre dela.[lr]::
+40239::$$$message_0347_0002_0002$$$::   Quebra o contrato entre Servo e Mestre, hein? Saber disso de antemão deve nos permitir lidar melhor com ela."[lr]::
+40240::$$$message_0347_0002_0003$$$::"É verdade.[lr]::
+40241::$$$message_0347_0002_0004$$$::...Você parece bem desinteressado, Archer. Não estava apoiando Saber?"::
+40242::$$$message_0347_0003_0000$$$::"...Não creio ter demonstrado tal comportamento. O que faz você pensar isso, Rin?"[lr]::
+40243::$$$message_0347_0003_0001$$$::"Vejamos. Intuição feminina serve como motivo?"[lr]::
+40244::$$$message_0347_0003_0002$$$::"Não. Você não tem idade para ser chamada de mulher. Para começar, falta-lhe charme.[lr]::
+40245::$$$message_0347_0003_0003$$$::Também lhe falta elegância.[lr]::
+40246::$$$message_0347_0003_0004$$$::Além disso... Sim, isto é fatal, mas a sua fofura é difícil de compreender."::
+40247::$$$message_0347_0004_0000$$$::"...Heh. Entendo. Agora você finalmente voltou ao normal."[lr]::
+40248::$$$message_0347_0004_0001$$$::Ela sorri feliz.[lr]::
+40249::$$$message_0347_0004_0002$$$::Archer não é Archer se não for assim.[lr]::
+40250::$$$message_0347_0004_0003$$$::Um Archer sem emoção não é um parceiro em quem Rin confia.[lr]::
+40251::$$$message_0347_0004_0004$$$::Seu parceiro precisa estar sempre composto e falar sarcasticamente com qualquer um, seja quem for.::
+40252::$$$message_0347_0005_0000$$$::Rin percebe que essa é a gentileza do cavaleiro.[lr]::
+40253::$$$message_0347_0005_0001$$$::Falar com sarcasmo é como dizer indiretamente aos outros que consertem partes de si mesmos.::
+40254::$$$message_0347_0006_0000$$$::"Entendo. Então aqui vai a primeira prova.[lr]::
+40255::$$$message_0347_0006_0001$$$::Você pegou leve com Saber na primeira vez que a encontrou, não pegou?[lr]::
+40256::$$$message_0347_0006_0002$$$::Por mais forte que Saber seja, não acho que você, bom defensor como é, pudesse ser derrotado com um só golpe."::
+40257::$$$message_0347_0007_0000$$$::"Aquilo foi um ataque surpresa. Assim como você, sou fraco contra acontecimentos inesperados."[lr]::
+40258::$$$message_0347_0007_0001$$$::"Cale a boca. Então, próxima prova.[lr]::
+40259::$$$message_0347_0007_0002$$$::Você provocou Saber depois do incidente com Rider, certo?[lr]::
+40260::$$$message_0347_0007_0003$$$::Aquilo não combinava nada com você.[lr]::
+40261::$$$message_0347_0007_0004$$$::Percebi quando olhei por outro ângulo. Você estava repreendendo Saber naquela hora, não estava?"::
+40262::$$$message_0347_0008_0000$$$::"..."[lr]::
+40263::$$$message_0347_0008_0001$$$::"Ah, eu acertei? Eu sabia. Pensei que fosse isso mesmo. Mesmo que a conhecesse da sua vida anterior, é raro você agir de modo tão frio."[lr]::
+40264::$$$message_0347_0008_0002$$$::"Mesmo? Creio que ajo assim com qualquer pessoa."[lr]::
+40265::$$$message_0347_0008_0003$$$::"Você é o único que pensa isso. Acho que você fica desajeitado sempre que o assunto envolve algo que importa para você. Só que todo mundo foi enganado, porque normalmente você tem tato."::
+40266::$$$message_0347_0009_0000$$$::Archer franze a testa, como se refletisse sobre si mesmo.[lr]::
+40267::$$$message_0347_0009_0001$$$::Parece que ele tem consciência disso.[lr]::
+40268::$$$message_0347_0009_0002$$$::O cavaleiro vermelho se cala com uma expressão incomodada, e sua Mestra o observa com prazer.[lr]::
+40269::$$$message_0347_0009_0003$$$::Então, de repente...[lr]::
+40270::$$$message_0347_0009_0004$$$::"Então, já se lembrou de que tipo de herói você é? Se tem alguma ligação com Saber, deve ser um herói de uma época próxima à dela, certo?"[lr]::
+40271::$$$message_0347_0009_0005$$$::Ela pergunta como se o estivesse testando.::
+40272::$$$message_0347_0010_0000$$$::"...Não, ainda está nebuloso.[lr]::
+40273::$$$message_0347_0010_0001$$$::Mas, como você disse, eu me lembro de Saber. Ela não parece me conhecer, então não deve ter sido uma ligação profunda."[lr]::
+40274::$$$message_0347_0010_0002$$$::"Hmm. Então vocês não eram amigos nem amantes.[lr]::
+40275::$$$message_0347_0010_0003$$$::Que pena. Eu teria descoberto a identidade dela se fosse esse o caso."[lr]::
+40276::$$$message_0347_0010_0004$$$::Ela não parece decepcionada.[lr]::
+40277::$$$message_0347_0010_0005$$$::Uma fala forçada, sem sinceridade.::
+40278::$$$message_0347_0011_0000$$$::"Bem, vou me lembrar eventualmente.[lr]::
+40279::$$$message_0347_0011_0001$$$::Mais importante, Rin. Como está a pessoa que você trouxe para cá? Não corre risco de vida?"::
+40280::$$$message_0347_0012_0000$$$::"...Não, ele conseguiu escapar da morte. Até ontem, os ferimentos dele se curavam sozinhos, mas este ferimento não está sarando de jeito nenhum. Os poderes de cura que ele recebeu de Saber devem ter desaparecido depois que o contrato se rompeu.[lr]::
+40281::$$$message_0347_0012_0001$$$::Mas, de algum modo, deu tudo certo. Felizmente, não atingiu pontos vitais, então ele deve conseguir comer se descansar por uns três dias."::
+40282::$$$message_0347_0013_0000$$$::"Não, não esse. A outra."[lr]::
+40283::$$$message_0347_0013_0001$$$::"Hã? Ah, a Fujimura-sensei? Eu a deixei dormindo no quarto de hóspedes. Caster lançou uma Magia de sono nela, mas ela está completamente bem. Eu a tratei, então não deve haver problema mesmo que ela durma por uma semana."::
+40284::$$$message_0347_0014_0000$$$::"...Entendo. Mas ela pode acabar virando a bela adormecida com a Magia de Caster. A Magia dela é mais parecida com uma maldição. O jeito mais simples de dissipá-la é matar Caster."[lr]::
+40285::$$$message_0347_0014_0001$$$::"Sim. De qualquer forma, o Santo Graal não vai durar muito mais. Vamos derrotar Caster o quanto antes, e, conhecendo a Fujimura-sensei, ela talvez acabe acordando sozinha."[lr]::
+40286::$$$message_0347_0014_0002$$$::Archer concorda.[lr]::
+40287::$$$message_0347_0014_0003$$$::E, depois de uma breve pausa na conversa...::
+40288::$$$message_0347_0015_0000$$$::"Derrotar Caster é a prioridade. Mesmo com um Mestre a menos, Saber ainda existe. Não temos tempo a perder, Rin."[lr]::
+40289::$$$message_0347_0015_0001$$$::"Eu sei, vamos sair pela cidade imediatamente.[lr]::
+40290::$$$message_0347_0015_0002$$$:: Até Caster deve levar algum tempo para controlar Saber por completo. Se possível, precisamos derrotar Caster antes que Saber seja manipulada."::
+40291::$$$message_0347_0016_0000$$$::"Entendido. Então o contrato com aquele moleque acaba aqui, hein?"[lr]::
+40292::$$$message_0347_0016_0001$$$::"Hã...?"[lr]::
+40293::$$$message_0347_0016_0002$$$::"Não venha com 'hã' para cima de mim. Emiya Shirou não é mais um Mestre, certo?[lr]::
+40294::$$$message_0347_0016_0003$$$::Então ele não será de ajuda, e não haverá necessidade de protegê-lo. O segundo Selo de Comando que você usou pode ser encerrado agora."[lr]::
+40295::$$$message_0347_0016_0004$$$::[font italic=true]...[font italic=false][lr]::
+40296::$$$message_0347_0016_0005$$$::"O que foi? Não me diga que vai cuidar dele só porque lutaram juntos."[lr]::
+40297::$$$message_0347_0016_0006$$$::"...Claro que não. Não sou uma pessoa tão boa assim."::
+40298::$$$message_0347_0017_0000$$$::"Então[line2]"[lr]::
+40299::$$$message_0347_0017_0001$$$::"Mas ainda não acabou. Não vou quebrar nossa promessa até que ele diga que está desistindo.[lr]::
+40300::$$$message_0347_0017_0002$$$::...Vou tentar recusá-lo, mas não posso encerrar isso até que ele diga que desiste."[lr]::
+40301::$$$message_0347_0017_0003$$$::Ela declara, embora não esteja certa.[lr]::
+40302::$$$message_0347_0017_0004$$$::Além disso, como ele poderia se opor a isso?::
+40303::$$$message_0347_0018_0000$$$::"Essa é a minha política. Tem alguma objeção, Archer?"[lr]::
+40304::$$$message_0347_0018_0001$$$::"...Não tem jeito. Sei muito bem, por experiência própria, que você é esse tipo de pessoa."[lr]::
+40305::$$$message_0347_0018_0002$$$::A resposta dele é sarcástica.[lr]::
+40306::$$$message_0347_0018_0003$$$::Ela bufa enquanto lhe dá uma ordem.[lr]::
+40307::$$$message_0347_0018_0004$$$::"Vamos, Archer. Não sei por quê, mas Caster não está de volta ao Templo Ryuudou.[lr]::
+40308::$$$message_0347_0018_0005$$$::Então... Vamos encontrá-la e derrotá-la antes que ela volte."[lr]::
+40309::$$$message_0347_0018_0006$$$::Não há necessidade de responder.[lr]::
+40310::$$$message_0347_0018_0007$$$::O cavaleiro de vermelho assente em silêncio e segue atrás de sua Mestra.::
+40311::$$$message_0347_0019_0000$$$::Ainda há massas de nuvens sombrias no céu.[lr]::
+40312::$$$message_0347_0019_0001$$$::Uma noite sem lua. Ela parte com Archer para mirar em seu alvo.::
