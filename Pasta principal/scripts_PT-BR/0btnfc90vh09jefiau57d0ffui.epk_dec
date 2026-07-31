@@ -70,7 +70,7 @@ id=qid::label=str::text=lstr::
 77771::$$$message_0723_0018_0003$$$::Saber avança para interceptar a atacante macabra.::
 77772::$$$message_0723_0019_0000$$$::As duas sombras colidem.[lr]::
 77773::$$$message_0723_0019_0001$$$::Num instante, Saber já está armada e intercepta o outro Servo com sua espada invisível.::
-77774::$$$message_0723_0020_0000$$$::Ação contra ação.[lr]::
+77774::$$$message_0723_0020_0000$$$::Aço contra aço.[lr]::
 77775::$$$message_0723_0020_0001$$$::Saber, com a postura firme, enfrenta o Servo que salta e rodopia ao seu redor.::
 77776::$$$message_0723_0021_0000$$$::Ela não consegue acompanhar a velocidade da oponente, então finca os pés no chão e reforça a guarda.[lr]::
 77777::$$$message_0723_0021_0001$$$::Os longos cabelos da inimiga chicoteiam o ar, acuando sua presa cautelosa.::
@@ -138,7 +138,7 @@ id=qid::label=str::text=lstr::
 77839::$$$message_0723_0042_0003$$$::Rider desaparece sem deixar vestígios.::
 77840::$$$message_0723_0043_0000$$$::"...Que lamentável. Nunca esperei muito de você, mas isso é de fato patético. Lhe dei uma chance por ser meu neto, mas devia ter confiado no meu primeiro julgamento."[lr]::
 77841::$$$message_0723_0043_0001$$$::Onde ele esteve escondido esse tempo todo?[lr]::
-77842::$$$message_0723_0043_0002$$$::O velho, Zouken Matou, parece rastejar para fora da escuridão.::
+77842::$$$message_0723_0043_0002$$$::O velho, Matou Zouken, parece rastejar para fora da escuridão.::
 77843::$$$message_0723_0044_0000$$$::"V-Vovô? Foi você[line2]"[lr]::
 77844::$$$message_0723_0044_0001$$$::"Quem mais seria, seu tolo? Você quase fez seu Servo morrer. E ainda ousa dizer que tem o meu sangue?"::
 77845::$$$message_0723_0045_0000$$$::"...! P-por que você se meteu no que eu estava fazendo!? Tudo o que eu precisava era vencer! [font italic=true]Eu[font italic=false] sou o herdeiro da Família Matou, então sabia que não podia me dar ao luxo de perder para gente como ele!"::
@@ -194,21 +194,21 @@ id=qid::label=str::text=lstr::
 77895::$$$message_0723_0065_0000$$$::[font italic=true]...[font italic=false][lr]::
 77896::$$$message_0723_0065_0001$$$::Então... o quê?[lr]::
 77897::$$$message_0723_0065_0002$$$::Em regra, só magos se tornam Mestres.[lr]::
-77898::$$$message_0723_0065_0003$$$::O velho está dizendo que Shinji aprendeu magia como tradição de família?::
+77898::$$$message_0723_0065_0003$$$::O velho está dizendo que Shinji aprendeu Magia como tradição de família?::
 77899::$$$message_0723_0066_0000$$$::"A família Matou[line2]vocês são uma linhagem de magos?"[lr]::
 77900::$$$message_0723_0066_0001$$$::"Você não sabia? Tanto a família Tohsaka quanto a família Matou têm raízes profundas nesta terra.[lr]::
 77901::$$$message_0723_0066_0002$$$::Dito isso, nossa linhagem entrou em declínio há muito tempo.[lr]::
-77902::$$$message_0723_0066_0003$$$::Na prática, quem governa está terra é a família Tohsaka. Nós, Matou, apenas sobrevivemos à sombra de um antigo privilégio."::
+77902::$$$message_0723_0066_0003$$$::Na prática, quem governa esta terra é a família Tohsaka. Nós, Matou, apenas sobrevivemos à sombra de um antigo privilégio."::
 77903::$$$message_0723_0067_0000$$$::"Tohsaka...? E-então a Tohsaka sabe de vocês? Sabe que os Matou são uma família de magos!?"::
 77904::$$$message_0723_0068_0000$$$::"Claro que sabe. Nossas famílias são velhas conhecidas. Embora tenhamos nós desentendido desde que o ritual se tornou um conflito sangrento, já fomos camaradas em busca do mesmo grande sonho. Nossa ligação continuou de formas que vão além da Guerra do Santo Graal.[lr]::
 77905::$$$message_0723_0068_0001$$$::Ah, sim. Eles chegaram a nos deixar adotar uma de suas[r]::
 77906::$$$message_0723_0068_0002$$$:: filhas, certa vez.[lr]::
 77907::$$$message_0723_0068_0003$$$::Gostaria de saber o quanto a aprendiz deles evoluiu como maga nesses últimos dez anos."::
 77908::$$$message_0723_0069_0000$$$::Ele solta uma risada satisfeita.[lr]::
-77909::$$$message_0723_0069_0001$$$::Zouken Matou ri, divertido com o que quer que a família Tohsaka deva estar sentindo.::
+77909::$$$message_0723_0069_0001$$$::Matou Zouken ri, divertido com o que quer que a família Tohsaka deva estar sentindo.::
 77910::$$$message_0723_0070_0000$$$::"...Você disse que os Tohsaka são velhos conhecidos de vocês. Então isso quer dizer que os Matou estão aqui desde a primeira Guerra do Santo Graal?"::
 77911::$$$message_0723_0071_0000$$$::"Hm. Antes éramos chamados de Makiri.[lr]::
-77912::$$$message_0723_0071_0001$$$::Adotamos 'Matou' para nós assimilarmos a este país, mas isso parece ter sido um erro. O solo deste país não nós convém. Ao longo dos últimos dois séculos, nosso sangue se diluiu, culminando no herdeiro defeituoso que você acabou de ver."::
+77912::$$$message_0723_0071_0001$$$::Adotamos 'Matou' para nos assimilarmos a este país, mas isso parece ter sido um erro. O solo deste país não nos convém. Ao longo dos últimos dois séculos, nosso sangue se diluiu, culminando no herdeiro defeituoso que você acabou de ver."::
 77913::$$$message_0723_0072_0000$$$::"Matou..."[lr]::
 77914::$$$message_0723_0072_0001$$$::Era apenas uma adaptação do nosso antigo nome, Makiri.[lr]::
 77915::$$$message_0723_0072_0002$$$::Então, se Shinji pertence a uma família de magos, Sakura...::
@@ -233,25 +233,25 @@ id=qid::label=str::text=lstr::
 77934::$$$message_0723_0079_0000$$$::"Você disse que já se retiraram desta luta. Então Shinji não vai mais lutar, você se aposentou, e Sakura não tem nada a ver com a Guerra do Santo Graal."::
 77935::$$$message_0723_0080_0000$$$::"Sim. Mas não posso garantir que Shinji vá aceitar isso.[lr]::
 77936::$$$message_0723_0080_0001$$$::Aquele garoto é obcecado em se tornar mago.[lr]::
-77937::$$$message_0723_0080_0002$$$::Para nossa vergonha, o sangue Matou se enfraqueceu desde que nós estabelecemos nesta terra. O triste espetáculo que você viu agora há pouco é o nosso herdeiro derradeiro. As crianças da família Matou já não possuem Circuitos Mágicos dignos desse nome."::
+77937::$$$message_0723_0080_0002$$$::Para nossa vergonha, o sangue Matou se enfraqueceu desde que nos estabelecemos nesta terra. O triste espetáculo que você viu agora há pouco é o nosso herdeiro derradeiro. As crianças da família Matou já não possuem Circuitos Mágicos dignos desse nome."::
 77938::$$$message_0723_0081_0000$$$::"...Ora, onde foi que ele descobriu segredos assim? A cabeça dele está cheia dessas fantasias de ser um escolhido, ao mesmo tempo em que carrega o complexo de inferioridade de quem aprendeu desde cedo o quão defeituoso era ao nascer.[lr]::
 77939::$$$message_0723_0081_0001$$$::Talvez tenha sido um erro deixá-lo correr solto, mas agora já não há muito a fazer. Se ele se recusa a desistir mesmo depois de uma derrota tão evidente, então pouco posso fazer por ele."::
 77940::$$$message_0723_0082_0000$$$::O corpo do velho encolhe.[lr]::
 77941::$$$message_0723_0082_0001$$$::Não, é só impressão. É porque ele recuou sem fazer som algum.::
-77942::$$$message_0723_0083_0000$$$::"Em todo caso, Shinji perdeu. Pretendemos nós retirar desta guerra mais cedo desta vez... mas, ainda assim, você mataria este velho, Saber?"::
+77942::$$$message_0723_0083_0000$$$::"Em todo caso, Shinji perdeu. Pretendemos nos retirar desta guerra mais cedo desta vez... mas, ainda assim, você mataria este velho, Saber?"::
 77943::$$$message_0723_0084_0000$$$::"Se suas palavras forem confiáveis, prefiro evitar um combate desnecessário.[lr]::
 77944::$$$message_0723_0084_0001$$$::Mas não haverá próxima vez se forem mentira. O mesmo vale para sua prole. Se ele não aprender a lição e vier atrás do meu Mestre outra vez, eu o matarei sem piedade."::
 77945::$$$message_0723_0085_0000$$$::"Hrm. Entendido."[lr]::
 77946::$$$message_0723_0085_0001$$$::O velho desaparece.[lr]::
 77947::$$$message_0723_0085_0002$$$::...Que tipo de truque foi esse?[lr]::
-77948::$$$message_0723_0085_0003$$$::Zouken Matou se derrete de volta na escuridão, não muito diferente de como surgiu diante de nós.::
+77948::$$$message_0723_0085_0003$$$::Matou Zouken se derrete de volta na escuridão, não muito diferente de como surgiu diante de nós.::
 77949::$$$message_0723_0086_0000$$$::[font italic=true]...[font italic=false][lr]::
 77950::$$$message_0723_0086_0001$$$::Tudo o que ele deixa para trás é o cheiro de carne podre.[lr]::
 77951::$$$message_0723_0086_0002$$$::Ergo a mulher caída, lutando contra o nojo que sobe do meu peito.::
 77952::$$$message_0723_0087_0000$$$::"Vamos para a igreja, Saber. Ainda dá tempo. Ele vai saber o que fazer."[lr]::
 77953::$$$message_0723_0087_0001$$$::"Entendido. Eu posso carregar a mulher."[lr]::
 77954::$$$message_0723_0087_0002$$$::"...Ah, é mesmo. Obrigado, Saber."::
-77955::$$$message_0723_0088_0000$$$::Saber toma a mulher nós braços e começa a correr.[lr]::
+77955::$$$message_0723_0088_0000$$$::Saber toma a mulher nos braços e começa a correr.[lr]::
 77956::$$$message_0723_0088_0001$$$::Não há tempo a perder. Saber consegue cuidar disso. Mesmo sendo menor do que eu, ela é mais forte. Não devo deixar que meu orgulho atrapalhe.::
 77957::$$$message_0723_0089_0000$$$::"Eu vou na frente. Siga-me, e fique perto."[lr]::
 77958::$$$message_0723_0089_0001$$$::Saber dispara pela noite.[lr]::

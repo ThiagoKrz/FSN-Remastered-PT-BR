@@ -95,7 +95,7 @@ id=qid::label=str::text=lstr::
 31408::$$$message_0252_0031_0001$$$::Ela levanta a perna trêmula e dá um passo à frente.[lr]::
 31409::$$$message_0252_0031_0002$$$::Entre as carteiras...[lr]::
 31410::$$$message_0252_0031_0003$$$::Existe uma pessoa claramente viva.[lr]::
-31411::$$$message_0252_0031_0004$$$::Sentado, encolhido em meio aos estudantes caídos, Shinji Matou olha para Tohsaka.::
+31411::$$$message_0252_0031_0004$$$::Sentado, encolhido em meio aos estudantes caídos, Matou Shinji olha para Tohsaka.::
 31412::$$$message_0252_0032_0000$$$::"Shinji, seu...!"[lr]::
 31413::$$$message_0252_0032_0001$$$::Uma voz firme.[lr]::
 31414::$$$message_0252_0032_0002$$$::Ele deve ter reagido a isso.[lr]::
@@ -125,13 +125,13 @@ id=qid::label=str::text=lstr::
 31438::$$$message_0252_0040_0001$$$::Prendo a respiração.[lr]::
 31439::$$$message_0252_0040_0002$$$::A coisa desmoronada no chão está completamente morta.[lr]::
 31440::$$$message_0252_0040_0003$$$::Cabelos longos e roxos...[lr]::
-31441::$$$message_0252_0040_0004$$$::A mulher de preto... A Serva que me atacou, Rider.::
+31441::$$$message_0252_0040_0004$$$::A mulher de preto... O Servo que me atacou, Rider.::
 31442::$$$message_0252_0041_0000$$$::"Ela está... morta."[lr]::
 31443::$$$message_0252_0041_0001$$$::A voz de Tohsaka soa plana e sem emoção.[lr]::
 31444::$$$message_0252_0041_0002$$$::"Eu disse que não fui eu. Não fiz isso. Ativei o Campo Limitado e ninguém conseguia se mexer, mas a Rider... a Rider foi..."::
-31445::$$$message_0252_0042_0000$$$::Essa Serva de preto[line2]Rider[line2]foi morta com um único golpe.[lr]::
+31445::$$$message_0252_0042_0000$$$::Esse Servo de preto[line2]Rider[line2]foi morto com um único golpe.[lr]::
 31446::$$$message_0252_0042_0001$$$::Que tipo de arma foi essa? Como ela foi morta?::
-31447::$$$message_0252_0043_0000$$$::Apenas um golpe contra uma Serva.[lr]::
+31447::$$$message_0252_0043_0000$$$::Apenas um golpe contra um Servo.[lr]::
 31448::$$$message_0252_0043_0001$$$::Foi um único golpe no pescoço, que acabou despedaçado.[lr]::
 31449::$$$message_0252_0043_0002$$$::...Não consigo nem imaginar como isso aconteceu.[lr]::
 31450::$$$message_0252_0043_0003$$$::Ela deve ter sido pega de surpresa, mas o inimigo devia ser muito habilidoso para decepar a espinha dela com apenas um ataque.::
@@ -139,20 +139,20 @@ id=qid::label=str::text=lstr::
 31452::$$$message_0252_0044_0001$$$::É como se a cabeça dela tivesse sido presa num torno e então o pescoço fosse torcido, com músculos, ossos e tudo o mais.::
 31453::$$$message_0252_0045_0000$$$::Rider desaparece.[lr]::
 31454::$$$message_0252_0045_0001$$$::Ao mesmo tempo, o mundo vermelho se esvai.[lr]::
-31455::$$$message_0252_0045_0002$$$::Parece que o campo foi mesmo criado pela Serva.[lr]::
+31455::$$$message_0252_0045_0002$$$::Parece que o campo foi mesmo criado pelo Servo.[lr]::
 31456::$$$message_0252_0045_0003$$$::No entanto...::
 31457::$$$message_0252_0046_0000$$$::"Shinji. Quem fez isso?"[lr]::
 31458::$$$message_0252_0046_0001$$$::"Eek..."[lr]::
 31459::$$$message_0252_0046_0002$$$::Shinji recua até o corredor, encurralado pela Tohsaka.::
 31460::$$$message_0252_0047_0000$$$::"Eu te falei que havia mais um Mestre na escola. A culpa é sua por ignorar meu aviso e causar essa comoção.[lr]::
-31461::$$$message_0252_0047_0001$$$::...Heh. Parece que você abandonou sua Serva pra morrer e sobreviveu, mas agora que te encontrei, chegou a sua vez. Não sei que tipo de Mestre você é, mas com certeza vou acabar com você na próxima."::
-31462::$$$message_0252_0048_0000$$$::"Guh...! A-Até parece! Não tenho mais uma Serva! Eu não sou mais um Mestre, então vocês serão os únicos que serão os próximos alvos...!"::
+31461::$$$message_0252_0047_0001$$$::...Heh. Parece que você abandonou seu Servo pra morrer e sobreviveu, mas agora que te encontrei, chegou a sua vez. Não sei que tipo de Mestre você é, mas com certeza vou acabar com você na próxima."::
+31462::$$$message_0252_0048_0000$$$::"Guh...! A-Até parece! Não tenho mais um Servo! Eu não sou mais um Mestre, então vocês serão os únicos que serão os próximos alvos...!"::
 31463::$$$message_0252_0049_0000$$$::"Mmm, claro. Suponho que você tenha razão. Não há problema em deixá-lo ir, mesmo que ainda tenha seus Selos de Comando.[lr]::
 31464::$$$message_0252_0049_0001$$$::Pode ser detestável ver você correndo por aí, mas um mosquito inofensivo não vai matar ninguém.[lr]::
 31465::$$$message_0252_0049_0002$$$::...É. Não vou te matar aqui, dependendo do que você responder."::
 31466::$$$message_0252_0050_0000$$$::"I-Inofensivo? Um mosquito... eu...?"[lr]::
 31467::$$$message_0252_0050_0001$$$::"Ei, você é um nível [font italic=true]abaixo[font italic=false] de uma praga, na verdade.[lr]::
-31468::$$$message_0252_0050_0002$$$::Shinji Matou não é um mago e nem um Mestre. Você nem chega a ser um incômodo."::
+31468::$$$message_0252_0050_0002$$$::Matou Shinji não é um mago e nem um Mestre. Você nem chega a ser um incômodo."::
 31469::$$$message_0252_0051_0000$$$::"...Então. Me conta o que você viu. Esse é o seu único valor agora."[lr]::
 31470::$$$message_0252_0051_0001$$$::"...Guh, ungh...!"[lr]::
 31471::$$$message_0252_0051_0002$$$::Shinji recua, a mera presença da Tohsaka já é uma ameaça.::
@@ -160,7 +160,7 @@ id=qid::label=str::text=lstr::
 31473::$$$message_0252_0052_0001$$$::...Mas.[lr]::
 31474::$$$message_0252_0052_0002$$$::Ela está verdadeiramente irritada.[lr]::
 31475::$$$message_0252_0052_0003$$$::Perdeu o controle após presenciar esse pesadelo.::
-31476::$$$message_0252_0053_0000$$$::"Fala logo...! Que tipo de Servo acabou com a sua Serva, Shinji!?"[lr]::
+31476::$$$message_0252_0053_0000$$$::"Fala logo...! Que tipo de Servo acabou com seu Servo, Shinji!?"[lr]::
 31477::$$$message_0252_0053_0001$$$::"Ugh... E-Eu não sei, sua idiota! V-Vocês é que deveriam estar com medo! Vocês serão os próximos alvos...!!!"::
 31478::$$$message_0252_0054_0000$$$::"Seu...!"[lr]::
 31479::$$$message_0252_0054_0001$$$::Shinji corre para o corredor e Tohsaka começa a ir atrás dele.::
@@ -191,11 +191,11 @@ id=qid::label=str::text=lstr::
 31504::$$$message_0252_0063_0000$$$::Nós terminamos de contatar a Igreja e saímos.[lr]::
 31505::$$$message_0252_0063_0001$$$::Será um problema mais tarde se descobrirmos que somos os únicos ilesos, então o Kirei nos mandou fingir que não viemos para a escola hoje.::
 31506::$$$message_0252_0064_0000$$$::"Então, Saber, você estava lutando com a Caster?"[lr]::
-31507::$$$message_0252_0064_0001$$$::"Sim. Era a Serva da classe Caster controlando aqueles golems. Eu derrotei a Caster que estava escondida na escola, mas imagino que tenha sido apenas uma sombra dela."::
+31507::$$$message_0252_0064_0001$$$::"Sim. Era o Servo da classe Caster controlando aqueles golems. Eu derrotei a Caster que estava escondida na escola, mas imagino que tenha sido apenas uma sombra dela."::
 31508::$$$message_0252_0065_0000$$$::[font italic=true]...[font italic=false][lr]::
 31509::$$$message_0252_0065_0001$$$::...Entendi.[lr]::
 31510::$$$message_0252_0065_0002$$$::Isso quer dizer que a Caster estava controlando aqueles golems lá do Templo Ryudou.[lr]::
-31511::$$$message_0252_0065_0003$$$::Então não restam dúvidas de que foi a Caster quem atacou a Serva do Shinji.::
+31511::$$$message_0252_0065_0003$$$::Então não restam dúvidas de que foi a Caster quem atacou o Servo do Shinji.::
 31512::$$$message_0252_0066_0000$$$::"...Então o quarto Mestre na escola é o Mestre da Caster, hã? É possível que ela tenha usado o Shinji pra atrair a Rider pra uma armadilha."[lr]::
 31513::$$$message_0252_0066_0001$$$::"...Essa parece ser a situação mais provável. Você diz que a Rider teve a cabeça decepada com um só golpe. Só consigo imaginar que ela foi contida e morreu sem oferecer resistência."::
 31514::$$$message_0252_0067_0000$$$::"...Isso é preocupante. Mas agora sabemos que o Mestre da Caster tá na escola. Não foi um desperdício total."[lr]::
@@ -215,4 +215,3 @@ id=qid::label=str::text=lstr::
 31528::$$$message_0252_0073_0000$$$::Nós saímos.[lr]::
 31529::$$$message_0252_0073_0001$$$::Isso aqui vai ficar agitado assim que as ambulâncias chegarem.[lr]::
 31530::$$$message_0252_0073_0002$$$::Então vamos voltar para a floresta e sair de fininho por lá.::
-

@@ -1,452 +1,451 @@
 DAT
 id=qid::label=str::text=lstr::
-43869::$$$message_0392_0000_0000$$$::Só há silêncio.[lr]::
-43870::$$$message_0392_0000_0001$$$::Ninguém fala nada, e eu não tenho nada a falar de qualquer forma.[lr]::
-43871::$$$message_0392_0000_0002$$$::Kuzuki Souichirou morreu.[lr]::
-43872::$$$message_0392_0000_0003$$$::Ele era silencioso até o fim, e ele morreu no caminho que ele escolheu sem demonstrar arrependimento ou esperança.::
-43873::$$$message_0392_0001_0000$$$::...Eu tenho uma dor de cabeça.[lr]::
-43874::$$$message_0392_0001_0001$$$::Meu circuito mágico tá comprimindo meus nervos?[lr]::
-43875::$$$message_0392_0001_0002$$$::Ou eu que não consigo perdoar o Archer por matar o Kuzuki?[lr]::
-43876::$$$message_0392_0001_0003$$$::Ou eu tô bravo comigo mesmo por não ter o direito de falar algo pra ele?[lr]::
-43877::$$$message_0392_0002_0000$$$::"[line8]"[lr]::
-43878::$$$message_0392_0002_0001$$$::Eu me viro com o som.[lr]::
-43879::$$$message_0392_0002_0002$$$::Com o desaparecimento da Caster, as conexões devem ter sido quebradas.[lr]::
-43880::$$$message_0392_0002_0003$$$::A Saber tá no chão na frente do altar.::
-43881::$$$message_0392_0003_0000$$$::"Ah... Hm..."[lr]::
-43882::$$$message_0392_0003_0001$$$::A Saber dolorosamente respira no chão.[lr]::
-43883::$$$message_0392_0003_0002$$$::Isso me faz esquecer sobre minha dor de cabeça.::
-43884::$$$message_0392_0004_0000$$$::"Saber......!"[lr]::
-43885::$$$message_0392_0004_0001$$$::Eu corro até ela.[lr]::
-43886::$$$message_0392_0004_0002$$$::Até essa curta distância é irritante.::
-43887::$$$message_0392_0005_0000$$$::"[line3]Shirou."[lr]::
-43888::$$$message_0392_0005_0001$$$::Ela levanta sua cabeça.[lr]::
-43889::$$$message_0392_0005_0002$$$::A Saber respira em alívio quando ela me vê correr até ela e[line4]::
-43890::$$$message_0392_0006_0000$$$::"[line4]!"[lr]::
+43869::$$$message_0392_0000_0000$$$::Há apenas silêncio.[lr]::
+43870::$$$message_0392_0000_0001$$$::Ninguém consegue dizer nada, e eu também estou sem palavras.[lr]::
+43871::$$$message_0392_0000_0002$$$::Kuzuki Souichirou está morto.[lr]::
+43872::$$$message_0392_0000_0003$$$::Ele morreu no caminho que escolheu, como um fantasma que não deixou palavras de anseio, nem sentimentos de arrependimento ou esperança.::
+43873::$$$message_0392_0001_0000$$$::...Minha cabeça dói.[lr]::
+43874::$$$message_0392_0001_0001$$$::Não sei se é porque meu Circuito Mágico sobrecarregado pressiona meus nervos,[lr]::
+43875::$$$message_0392_0001_0002$$$::ou porque não consigo perdoar Archer por matar Kuzuki sem sequer piscar, ou porque estou furioso comigo mesmo por ser totalmente impotente para me opor.[lr]::
+43876::$$$message_0392_0001_0003$$$::Sem saber a causa, a dor aguda na minha cabeça fica ainda mais forte.::
+43877::$$$message_0392_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
+43878::$$$message_0392_0002_0001$$$::Viro a cabeça na direção do som.[lr]::
+43879::$$$message_0392_0002_0002$$$::Com Caster desaparecida, as maldições de restrição devem ter sido desfeitas.[lr]::
+43880::$$$message_0392_0002_0003$$$::Diante do altar no fundo da igreja, Saber cai no chão.::
+43881::$$$message_0392_0003_0000$$$::"ah... hn..."[lr]::
+43882::$$$message_0392_0003_0001$$$::Ainda deitada no chão, Saber respira com dificuldade e dor.[lr]::
+43883::$$$message_0392_0003_0002$$$::Vê-la daquele jeito me faz esquecer minha dor de cabeça.::
+43884::$$$message_0392_0004_0000$$$::"Saber...!"[lr]::
+43885::$$$message_0392_0004_0001$$$::Corro até ela.[lr]::
+43886::$$$message_0392_0004_0002$$$::Fico irritado por até os poucos metros entre nós parecerem tão distantes.::
+43887::$$$message_0392_0005_0000$$$::"...Shirou."[lr]::
+43888::$$$message_0392_0005_0001$$$::Saber ergue o olhar.[lr]::
+43889::$$$message_0392_0005_0002$$$::Ao me ver correndo até ela, Saber solta um suspiro de alívio...::
+43890::$$$message_0392_0006_0000$$$::"...!"[lr]::
 43891::$$$message_0392_0006_0001$$$::"Huh?"[lr]::
-43892::$$$message_0392_0006_0002$$$::Ela me golpeia com seus ombros e me empurra.::
-43893::$$$message_0392_0007_0000$$$::Ela me empurra forçadamente pro lado.[lr]::
-43894::$$$message_0392_0007_0001$$$::Meu corpo voa por alguns metros e pousa no chão.::
-43895::$$$message_0392_0008_0000$$$::"Gah......!"[lr]::
-43896::$$$message_0392_0008_0001$$$::Eu aterrisso nas minhas costas.[lr]::
-43897::$$$message_0392_0008_0002$$$::"Ku[line4]"[lr]::
-43898::$$$message_0392_0008_0003$$$::Eu balanço minha cabeça confusa e olho pra cima.[lr]::
-43899::$$$message_0392_0008_0004$$$::Nesse instante[line4][lr]::
-43900::$$$message_0392_0008_0005$$$::Eu ouço aço acertando aço.::
-43901::$$$message_0392_0009_0000$$$::"Quê[line4]"[lr]::
-43902::$$$message_0392_0009_0001$$$::A Saber tá ali, vestida com sua armadura.[lr]::
-43903::$$$message_0392_0009_0002$$$::...E...[lr]::
-43904::$$$message_0392_0009_0003$$$::Inúmeras espadas estão no chão, exatamente aonde eu tava antes da Saber me empurrar.::
-43905::$$$message_0392_0010_0000$$$::"[line3]Droga, eu errei."[lr]::
-43906::$$$message_0392_0010_0001$$$::Ele...[lr]::
-43907::$$$message_0392_0010_0002$$$::Fala numa voz entediada, encarando a Saber.::
-43908::$$$message_0392_0011_0000$$$::"[line8]"[lr]::
-43909::$$$message_0392_0011_0001$$$::A Saber, que mal consegue manter seu corpo de pé, encara o Archer.::
-43910::$$$message_0392_0012_0000$$$::"[line5]Você..."[lr]::
-43911::$$$message_0392_0012_0001$$$::Eu não preciso nem perguntar porque ela tá encarando ele.[lr]::
-43912::$$$message_0392_0012_0002$$$::Ele atirou aquelas espadas por trás pra me matar.[lr]::
-43913::$$$message_0392_0012_0003$$$::A Saber viu isso e instantaneamente me empurrou.::
-43914::$$$message_0392_0013_0000$$$::"......"[lr]::
-43915::$$$message_0392_0013_0001$$$::A Tohsaka olha pra ele em espanto, e a Saber prepara sua espada enquanto respira pesadamente.[lr]::
-43916::$$$message_0392_0013_0002$$$::As situações deles são diferentes, mas ambos tem contemplamento nos seus olhos.[lr]::
-43917::$$$message_0392_0013_0003$$$::Por que o Archer tá tentando matar Emiya Shirou quando a Caster já tá morta?::
-43918::$$$message_0392_0014_0000$$$::"[line8]"[lr]::
-43919::$$$message_0392_0014_0001$$$::Os únicos calmos são o Archer e eu.[lr]::
-43920::$$$message_0392_0014_0002$$$::...Não é tão surpreendente.[lr]::
-43921::$$$message_0392_0014_0003$$$::Nós nos odiamos desde o começo.[lr]::
-43922::$$$message_0392_0014_0004$$$::Nós nos opomos, incapazes de nos darmos bem.[lr]::
-43923::$$$message_0392_0014_0005$$$::Eu não sei porque, mas eu não consigo aprovar ele.::
-43924::$$$message_0392_0015_0000$$$::...A razão por trás disso...[lr]::
-43925::$$$message_0392_0015_0001$$$::Se "aquilo" for realmente a razão pela qual nós não conseguimos aprovar um ao outro...[lr]::
-43926::$$$message_0392_0015_0002$$$::É natural que ele queria me matar.::
-43927::$$$message_0392_0016_0000$$$::"Ku[line4]"[lr]::
-43928::$$$message_0392_0016_0001$$$::Eu me levanto.[lr]::
-43929::$$$message_0392_0016_0002$$$::A Saber deve ter ficado desesperada.[lr]::
-43930::$$$message_0392_0016_0003$$$::Ela me acertou sem se segurar, então eu não consigo respirar apropriadamente.::
-43931::$$$message_0392_0017_0000$$$::[line3]Isso só me deixa mais determinado.[lr]::
-43932::$$$message_0392_0017_0001$$$::Isso é tudo que ela conseguiu quando ela me acertou com toda sua força.[lr]::
-43933::$$$message_0392_0017_0002$$$::Ela não tem poder o suficiente nem pra lutar comigo.[lr]::
-43934::$$$message_0392_0017_0003$$$::É suicídio ela enfrentar o Archer nesse estado.::
-43935::$$$message_0392_0018_0000$$$::"Archer, o que você tá fazendo...!?"[lr]::
-43936::$$$message_0392_0018_0001$$$::A Tohsaka se aproxima do Archer.[lr]::
-43937::$$$message_0392_0018_0002$$$::...É natural.[lr]::
-43938::$$$message_0392_0018_0003$$$::O Archer foi pro lado da Caster pra me atacar de surpresa.[lr]::
-43939::$$$message_0392_0018_0004$$$::Agora que funcionou, não tem motivo pra ele me atacar.::
-43940::$$$message_0392_0019_0000$$$::"A atuação acabou, certo? Nós derrotamos a Caster, então eu não vou deixar você fazer algo egoísta agora...!"[lr]::
-43941::$$$message_0392_0019_0001$$$::"Me deixar...? Eu não entendo. Por que eu preciso pedir sua permissão? Você não é minha mestra nem nada."::
-43942::$$$message_0392_0020_0000$$$::"Eh... Archer...?"[lr]::
-43943::$$$message_0392_0020_0001$$$::"Nosso contrato acabou. Eu sou livre agora. Você acha que eu me submeteria a controle humano?"::
-43944::$$$message_0392_0021_0000$$$::"[line8]"[lr]::
-43945::$$$message_0392_0021_0001$$$::Depois de encarar o cavaleiro em espanto, a Tohsaka abre a boca em realização repentina.[lr]::
-43946::$$$message_0392_0021_0002$$$::"Sem chance, Archer..."::
-43947::$$$message_0392_0022_0000$$$::"Eu vou agir para alcançar meu objetivo.[lr]::
-43948::$$$message_0392_0022_0001$$$::Mas é problemático ter você ao redor."[lr]::
-43949::$$$message_0392_0022_0002$$$::"[line4]!"::
-43950::$$$message_0392_0023_0000$$$::A Tohsaka pula pra trás.[lr]::
-43951::$$$message_0392_0023_0001$$$::Ela se afasta do Archer, tenta correr até eu, que ainda estou nos meus joelhos, e...[lr]::
-43952::$$$message_0392_0023_0002$$$::O movimento dela é friamente parado.::
-43953::$$$message_0392_0024_0000$$$::Um enxame de espadas de aproximadamente dois metros.[lr]::
-43954::$$$message_0392_0024_0001$$$::Elas perfuram o chão, desenhando um círculo, e viram uma prisão circular.::
-43955::$$$message_0392_0025_0000$$$::"[line4]!"[lr]::
-43956::$$$message_0392_0025_0001$$$::É um círculo grande o suficiente para caber uma pessoa,[lr]::
-43957::$$$message_0392_0025_0002$$$::e a Tohsaka está presa dentro.::
-43958::$$$message_0392_0026_0000$$$::"Eu não vou deixar você interferir depois que eu cheguei tão longe. Nosso contrato acabou, então a ligação do selo de comando não existe mais.[lr]::
-43959::$$$message_0392_0026_0001$$$::Esse é o único motivo para eu ter tomado o lado da Caster. Eu precisava quebrar o contrato para anular o selo de comando."::
-43960::$$$message_0392_0027_0000$$$::Virando suas costas para Tohsaka presa, o Archer começa a caminhar.[lr]::
-43961::$$$message_0392_0027_0001$$$::Não até a Saber, mas até eu, ainda de joelhos.::
-43962::$$$message_0392_0028_0000$$$::"Foi o que eu pensei[line3]mas por quê, Archer!? Você ainda quer matar o Shirou...!?"[lr]::
-43963::$$$message_0392_0028_0001$$$::"[line3]Sim, eu vou matar Emiya Shirou com minhas próprias mãos.[lr]::
-43964::$$$message_0392_0028_0002$$$::Esse é o único desejo que eu tenho depois de ter sido reduzido a um guardião."::
-43965::$$$message_0392_0029_0000$$$::"O q[line4]uê?"[lr]::
-43966::$$$message_0392_0029_0001$$$::Poder retorna ao corpo da Saber.[lr]::
-43967::$$$message_0392_0029_0002$$$::Ela reúne a força dela e se move entre o Archer e eu.::
-43968::$$$message_0392_0030_0000$$$::"Archer. Não me fale que você é..."::
-43969::$$$message_0392_0031_0000$$$::"...Sim. Você me perguntou uma vez, certo? Se eu tinha orgulho como um herói ou não.[lr]::
-43970::$$$message_0392_0031_0001$$$::Óbvio que não. Eu não posso ter algo assim. Somente arrependimento preenche minha mente.[lr]::
-43971::$$$message_0392_0031_0002$$$::[line3]Saber, eu não devia ter virado um herói."::
-43972::$$$message_0392_0032_0000$$$::"[line8]"[lr]::
-43973::$$$message_0392_0032_0001$$$::A agressividade desvanece da Saber.[lr]::
-43974::$$$message_0392_0032_0002$$$::...O que ela descobriu? A hostilidade dela pelo Archer sumiu.::
-43975::$$$message_0392_0033_0000$$$::"É isso. Saia do caminho, rei dos cavaleiros. Você vai desaparecer imediatamente se você agir descuidadamente quando você não tem um mestre.[lr]::
-43976::$$$message_0392_0033_0001$$$::Emiya Shirou não tem seus direitos como um mestre. Seu desejo não pode ser realizado mesmo que você apoie ele."::
-43977::$$$message_0392_0034_0000$$$::"[line3]Eu não posso fazer isso. Mesmo que ele não seja um mestre, nosso contrato não desaparecerá. Eu prometi proteger ele e ser sua espada.[lr]::
-43978::$$$message_0392_0034_0001$$$::...Ele não sabia nada sobre a guerra do santo graal, mas ele respondeu meu juramento. Eu não posso trair a confiança dele."[lr]::
-43979::$$$message_0392_0034_0002$$$::Ela prepara a espada invisível dela.[lr]::
-43980::$$$message_0392_0034_0003$$$::Mas eu não vejo a bravura ou força de costume na postura dela.::
-43981::$$$message_0392_0035_0000$$$::"[line3]Entendo. Então você pode morrer aqui com o mestre falso."[lr]::
-43982::$$$message_0392_0035_0001$$$::Espadas gêmeas aparecem nas mãos do Archer.[lr]::
-43983::$$$message_0392_0035_0002$$$::"[line4]!"[lr]::
-43984::$$$message_0392_0035_0003$$$::...! A Saber não consegue nem lidar com essas espadas agora...!::
-43985::$$$message_0392_0036_0000$$$::"[line4]Sua idiota. Corre, Saber...!!"[lr]::
-43986::$$$message_0392_0036_0001$$$::Eu me levanto e me estico até a Saber.[lr]::
-43987::$$$message_0392_0036_0002$$$::Ela fez isso pra me afastar do alcance dela?[lr]::
-43988::$$$message_0392_0036_0003$$$::"Hah[line4]!"[lr]::
-43989::$$$message_0392_0036_0004$$$::A Saber se prepara, chuta o chão, e investe contra o Archer.::
-43990::$$$message_0392_0037_0000$$$::[line4]A batalha acaba depois de alguns golpes.[lr]::
-43991::$$$message_0392_0037_0001$$$::Saber, aquela que superou o Archer antes, cai em seus joelhos, incapaz de se manter em pé mesmo por alguns segundos.::
-43992::$$$message_0392_0038_0000$$$::...A espada não tá nem nas mãos da Saber agora.[lr]::
-43993::$$$message_0392_0038_0001$$$::Depois de resistir o selo de comando da Caster por tanto tempo, ela não tem mais energia mágica.[lr]::
-43994::$$$message_0392_0038_0002$$$::Incapaz até de respirar, ela coloca suas mãos no chão, desesperadamente tentando segurar o corpo dela que está desaparecendo.::
-43995::$$$message_0392_0039_0000$$$::"[line8]"[lr]::
-43996::$$$message_0392_0039_0001$$$::O Archer levanta suas espadas.[lr]::
-43997::$$$message_0392_0039_0002$$$::As espadas gêmeas descem até a Saber.[lr]::
-43998::$$$message_0392_0039_0003$$$::E...[lr]::
-43999::$$$message_0392_0039_0004$$$::"AHHHHHHHHHHHH[line8]!"[lr]::
-44000::$$$message_0392_0039_0005$$$::Eu pulo pelo lado e paro eles com toda minha força.::
-44001::$$$message_0392_0040_0000$$$::"[line4]!"[lr]::
-44002::$$$message_0392_0040_0001$$$::Eu preparo minhas espadas gêmeas.[lr]::
-44003::$$$message_0392_0040_0002$$$::Eu seguro as armas projetadas instantaneamente e encaro o cavaleiro em vermelho.::
-44004::$$$message_0392_0041_0000$$$::"...Hm. Eu pensei que você ficaria quieto mais um pouco. Mas eu acho que você não aguenta ver uma mulher sendo morta na sua frente."::
-44005::$$$message_0392_0042_0000$$$::"[line3]Cala boca. Sou eu quem você quer matar. Luta contra o oponente certo."[lr]::
-44006::$$$message_0392_0042_0001$$$::Eu confronto ele.[lr]::
-44007::$$$message_0392_0042_0002$$$::Nós dois temos espadas gêmeas em nossas mãos.[lr]::
-44008::$$$message_0392_0042_0003$$$::Nossos físicos são diferentes, mas nossas posturas são as mesmas em todo aspecto.::
-44009::$$$message_0392_0043_0000$$$::"É uma imitação real se vai tão longe assim. Mas[line3]seu corpo consegue aguentar essa taumaturgia?"[lr]::
-44010::$$$message_0392_0043_0001$$$::Uma voz de deboche.[lr]::
-44011::$$$message_0392_0043_0002$$$::...Meu limite tá próximo, como ele disse.[lr]::
-44012::$$$message_0392_0043_0003$$$::Minha dor de cabeça não para e meu circuito mágico tem seu limitador cheio por causa de toda essa taumaturgia de projeção.[lr]::
-44013::$$$message_0392_0043_0004$$$::...Meu cérebro vai explodir antes que eu seja cortado se eu lutar com ele enquanto mantenho a imagem das espadas gêmeas.::
-44014::$$$message_0392_0044_0000$$$::"[line4]Kuh."[lr]::
-44015::$$$message_0392_0044_0001$$$::"Eu te avisei antes. Eu te falei que você não consegue usar projeção. Uma taumaturgia além dos seus poderes vai destruir seu corpo. Você está agora pagando o preço da taumaturgia que lhe manteve vivo, Emiya Shirou."[lr]::
-44016::$$$message_0392_0044_0002$$$::O Archer ataca.::
-44017::$$$message_0392_0045_0000$$$::"Ku[line4]cala boca, desgraça[line4]!"[lr]::
-44018::$$$message_0392_0045_0001$$$::Para isso.[lr]::
-44019::$$$message_0392_0045_0002$$$::Eu freneticamente movo minhas espadas como se cortando a dor de cabeça pra longe.::
-44020::$$$message_0392_0046_0000$$$::[line4]Eu balanço meus braços.[lr]::
-44021::$$$message_0392_0046_0001$$$::Minhas técnicas são todas uma cópia do meu inimigo.[lr]::
-44022::$$$message_0392_0046_0002$$$::Minha arma é copiada e minha técnica é copiada.[lr]::
-44023::$$$message_0392_0046_0003$$$::Logo, eu não sou páreo para ele.[lr]::
-44024::$$$message_0392_0046_0004$$$::Eu não conseguiria ser páreo mesmo se eu estivesse na melhor condição.::
-44025::$$$message_0392_0047_0000$$$::Uma imitação pode se aproximar do original, mas nunca superar.[lr]::
-44026::$$$message_0392_0047_0001$$$::Eu não fui páreo pra este homem desde o começo.::
-44027::$$$message_0392_0048_0000$$$::O homem me falou para me afogar em meus ideais e morrer.[lr]::
-44028::$$$message_0392_0048_0001$$$::O homem disse que minha vida é uma vida falsa.[lr]::
-44029::$$$message_0392_0048_0002$$$::Eu não consegui contestar essas palavras porque ele era meu ideal.[lr]::
-44030::$$$message_0392_0048_0003$$$::Um poder para fazer o impossível possível.[lr]::
-44031::$$$message_0392_0048_0004$$$::Uma existência que salvou muitas pessoas e virou um espírito heroico.[lr]::
-44032::$$$message_0392_0048_0005$$$::Foi eu quem desejou virar uma pessoa assim.::
-44033::$$$message_0392_0049_0000$$$::É por isso que eu não sou páreo pra ele.[lr]::
-44034::$$$message_0392_0049_0001$$$::O homem a minha frente está no final desse caminho.[lr]::
-44035::$$$message_0392_0049_0002$$$::Ele é o meu ideal, virar forte para salvar pessoas, então[line4]::
-44036::$$$message_0392_0050_0000$$$::"Ah[line4]guh......!"[lr]::
-44037::$$$message_0392_0050_0001$$$::Minhas espadas se despedaçam.[lr]::
-44038::$$$message_0392_0050_0002$$$::Eu fui capaz de bloquear os ataques dele, mas minhas espadas gêmeas desaparecem.::
-44039::$$$message_0392_0051_0000$$$::...Eu não consigo me manter consciente.[lr]::
-44040::$$$message_0392_0051_0001$$$::Meu corpo não está machucado, mas meu interior está sangrando e prestes a desistir[line4]::
-44041::$$$message_0392_0052_0000$$$::"Você entende agora? Esse é o limite de Emiya Shirou. É um final apropriado para uma pessoa que sempre continuou se forçando, certo?"[lr]::
-44042::$$$message_0392_0052_0001$$$::Ele levanta sua espada.[lr]::
-44043::$$$message_0392_0052_0002$$$::"[line8]"[lr]::
-44044::$$$message_0392_0052_0003$$$::Enquanto eu tento entender com minha mente em transe se a espada vai vir da direita ou esquerda...::
-44045::$$$message_0392_0053_0000$$$::"Aqui proclamo![lr]::
-44046::$$$message_0392_0053_0001$$$::Nascido e mi arbítrio, ó vosso corpo, nascido de vossa espada, ó mi destino![line3]"::
-44047::$$$message_0392_0054_0000$$$::A galante voz da Tohsaka ecoa pelo templo.::
-44048::$$$message_0392_0055_0000$$$::"[line4]!"[lr]::
-44049::$$$message_0392_0055_0001$$$::Isso deve ter chamado a atenção dele.[lr]::
-44050::$$$message_0392_0055_0002$$$::A espada desacelera um pouco. Se esse é o caso[line4][lr]::
-44051::$$$message_0392_0055_0003$$$::"Kuh, ah[line4]"[lr]::
-44052::$$$message_0392_0055_0004$$$::Eu posso desviar mesmo com um corpo assim...!::
-44053::$$$message_0392_0056_0000$$$::Eu rolo no chão e fujo.[lr]::
-44054::$$$message_0392_0056_0001$$$::"Droga[line4]!"[lr]::
-44055::$$$message_0392_0056_0002$$$::O Archer cerra seus dentes, mas olha pra Saber ao invés de me perseguir.::
-44056::$$$message_0392_0057_0000$$$::"[line3]Se tu escutares o chamado do santo graal e curvares perante à minha vontade e justiça, então responda-me...!"[lr]::
-44057::$$$message_0392_0057_0001$$$::A Tohsaka se estica da prisão de espadas até a Saber.[lr]::
-44058::$$$message_0392_0057_0002$$$::A Saber corre usando suas últimas forças e...::
-44059::$$$message_0392_0058_0000$$$::"Eu irei aceitar seu juramento pelo nome de Saber...![lr]::
-44060::$$$message_0392_0058_0001$$$::Eu irei lhe aceitar como meu mestre, Rin[line3]!"[lr]::
-44061::$$$message_0392_0058_0002$$$::Um contrato que deveria ter sido feito originalmente...[lr]::
-44062::$$$message_0392_0058_0003$$$::A Saber finalmente obtém um mestre que é apropriado para ela.::
-44063::$$$message_0392_0059_0000$$$::Um violento vento intensifica.[lr]::
-44064::$$$message_0392_0059_0001$$$::Ela deve ter tido seus verdadeiros poderes de volta ao obter um verdadeiro mestre.[lr]::
-44065::$$$message_0392_0059_0002$$$::A Saber tá diferente de qualquer coisa que ela fosse antes.::
-44066::$$$message_0392_0060_0000$$$::"[line6], Quê-"[lr]::
-44067::$$$message_0392_0060_0001$$$::Eu não sou o único boquiaberto.[lr]::
-44068::$$$message_0392_0060_0002$$$::Até o Archer tá fascinado.[lr]::
-44069::$$$message_0392_0060_0003$$$::Espirais de energia mágica e armadura que nunca poderão ser danificados.[lr]::
-44070::$$$message_0392_0060_0004$$$::Não parece existir fim para esse poder esmagador.[lr]::
-44071::$$$message_0392_0060_0005$$$::[line3]Isso é a Saber.[lr]::
-44072::$$$message_0392_0060_0006$$$::O espírito heroico da espada conhecido por ser o mais forte [r]servo[line3]!::
-44073::$$$message_0392_0061_0000$$$::"[line3]Droga. Eu ia deixar ela fazer um contrato com a Rin, mas a ordem tá ficando bagunçada."[lr]::
-44074::$$$message_0392_0061_0001$$$::O Archer murmura enquanto olha pra Saber. Ele não tem atenção de sobra pra mim agora.::
-44075::$$$message_0392_0062_0000$$$::"Então, o que você vai fazer agora, Saber?[lr]::
-44076::$$$message_0392_0062_0001$$$::Como você fez um contrato com a Rin, você realmente não tem conexão com Emiya Shirou agora[line4]"[lr]::
-44077::$$$message_0392_0062_0002$$$::"Eu acredito ter lhe falado, Archer. Meu juramento para Emiya Shirou nunca desaparecerá."[lr]::
-44078::$$$message_0392_0062_0003$$$::A Saber é firme.[lr]::
-44079::$$$message_0392_0062_0004$$$::O Archer estrala sua língua e aperta suas espadas gêmeas de novo.::
-44080::$$$message_0392_0063_0000$$$::"Pelo contrário, o que você vai fazer agora, Archer? Eu vou parar você com toda minha força se você tentar matar o Shirou.[lr]::
-44081::$$$message_0392_0063_0001$$$::Agora vai ser a hora de repensar. Você não pensa que tem uma chance de ganhar contra mim agora, certo?"::
-44082::$$$message_0392_0064_0000$$$::O aviso da Saber é verdadeiro.[lr]::
-44083::$$$message_0392_0064_0001$$$::A Saber não perderia nem para o Berserker agora.[lr]::
-44084::$$$message_0392_0064_0002$$$::Não importa quem ele seja, o Archer não é páreo pra Saber.[lr]::
-44085::$$$message_0392_0064_0003$$$::Ele deve saber disso mais que qualquer um, mas...::
-44086::$$$message_0392_0065_0000$$$::"[line3]Hah. Como você pode ser tão confiante quando tudo que você conseguiu de volta é um pouco de energia mágica...!"[lr]::
-44087::$$$message_0392_0065_0001$$$::O Archer ataca.::
-44088::$$$message_0392_0066_0000$$$::As armas deles se confrontam.[lr]::
-44089::$$$message_0392_0066_0001$$$::O Archer investe contra Saber como uma bala vermelha e ataca ela com toda sua força.::
-44090::$$$message_0392_0067_0000$$$::"[line7]Hah!"[lr]::
-44091::$$$message_0392_0067_0001$$$::A Saber recebe o golpe como se fosse nada.[lr]::
-44092::$$$message_0392_0067_0002$$$::Nem as diferenças de tamanho nem o impulso do Archer importam.[lr]::
-44093::$$$message_0392_0067_0003$$$::A Saber repele Archer as espadas do Archer sem hesitar.::
-44094::$$$message_0392_0068_0000$$$::O Archer, aquele que atacou, é quem recua.[lr]::
-44095::$$$message_0392_0068_0001$$$::O ataque feito com toda sua força, um golpe que não deveria precisar ser repetido, é[line3][lr]::
-44096::$$$message_0392_0068_0002$$$::"Guh......!!!!"[lr]::
-44097::$$$message_0392_0068_0003$$$::[line3]Não só bloqueado, mas seu corpo perde o equilíbrio também.::
-44098::$$$message_0392_0069_0000$$$::"Mm[line4]!"[lr]::
-44099::$$$message_0392_0069_0001$$$::O Archer dá um passo pra trás.[lr]::
-44100::$$$message_0392_0069_0002$$$::Ali...[lr]::
-44101::$$$message_0392_0069_0003$$$::A espada da Saber ataca ele como ondas de fogo [r]violentas[line4]!::
-44102::$$$message_0392_0070_0000$$$::O Archer só pode defender contra os ataques dela.[lr]::
-44103::$$$message_0392_0070_0001$$$::A espada da Saber vai matar ele se ele tentar contra-atacar.::
-44104::$$$message_0392_0071_0000$$$::Não, acima de tudo, ele não tem como contra-atacar.[lr]::
-44105::$$$message_0392_0071_0001$$$::A única resistência que o Archer é permitido é bloquear os ataques da Saber até que ele esgote sua energia.::
-44106::$$$message_0392_0072_0000$$$::E isso não deve demorar muito.[lr]::
-44107::$$$message_0392_0072_0001$$$::A energia mágica na espada da Saber raspa a Kanshou e Bakuya com cada ataque.[lr]::
-44108::$$$message_0392_0072_0002$$$::As espada gêmeas não conseguem aguentar mais, e os braços do Archer deveriam estar inúteis por agora.::
-44109::$$$message_0392_0073_0000$$$::A partida é decidida rapidamente.[lr]::
-44110::$$$message_0392_0073_0001$$$::O Archer cai de joelhos, incapaz de resistir os ataques da Saber.[lr]::
-44111::$$$message_0392_0073_0002$$$::A Saber balança sua espada como se para finalizar ele.::
-44112::$$$message_0392_0074_0000$$$::O Archer bloqueia cruzando as espadas gêmeas na frente dele.[lr]::
-44113::$$$message_0392_0074_0001$$$::A batalha está no fim.[lr]::
-44114::$$$message_0392_0074_0002$$$::Mesmo que ele tenha bloqueado o golpe da Saber, o Archer não consegue se mover.[lr]::
-44115::$$$message_0392_0074_0003$$$::A espada da Saber vai cortar a cabeça dele em dois se ele afrouxar o seu poder nas espadas gêmeas.::
-44116::$$$message_0392_0075_0000$$$::"Nu[line4]hm......!"[lr]::
-44117::$$$message_0392_0075_0001$$$::O Archer põe força nos seus braços e para o golpe da Saber.[lr]::
-44118::$$$message_0392_0075_0002$$$::Suor forma na sua cabeça e ele tá respirando pesadamente.::
-44119::$$$message_0392_0076_0000$$$::"[line8]"[lr]::
-44120::$$$message_0392_0076_0001$$$::Em contraste, a respiração da Saber é normal.[lr]::
-44121::$$$message_0392_0076_0002$$$::É impossível o Archer derrotar a Saber em combate corpo a corpo.::
-44122::$$$message_0392_0077_0000$$$::"[line3]Isso é tudo, Archer.[lr]::
-44123::$$$message_0392_0078_0000$$$::"Você estava preocupado comigo antes,[se file=se099 nowait=true] mas o mesmo se aplica para você. Você não deve ter energia mágica já que você usou tantos fantasmas nobres para derrotar a Caster.[lr]::
-44124::$$$message_0392_0078_0001$$$::Além disso, você não tem um mestre para te manter nesse mundo. O que você pode fazer quando você não tem um fornecimento de energia mágica?"::
-44125::$$$message_0392_0079_0000$$$::"Hah[line3]isso é uma preocupação desnecessária, Saber.[lr]::
-44126::$$$message_0392_0079_0001$$$::O servo Archer tem a habilidade de se manter mesmo após o mestre desaparecer. Eu devo ser capaz de me manter nesse mundo por dois dias mesmo sem um mestre. Isso deve ser tempo suficiente pra matar aquela criança."::
-44127::$$$message_0392_0080_0000$$$::"Ridículo. Você ainda está falando sobre isso...!? Você está dizendo que seu desejo não é o santo graal, mas matar o Shirou...!?"[lr]::
-44128::$$$message_0392_0080_0001$$$::"[line8]"[lr]::
-44129::$$$message_0392_0080_0002$$$::O Archer não responde.[lr]::
-44130::$$$message_0392_0080_0003$$$::Seus frios olhos encaram a Saber atrapalhada.::
-44131::$$$message_0392_0081_0000$$$::"...Como pode ser? Archer, seu desejo é um erro.[lr]::
-44132::$$$message_0392_0081_0001$$$::Por que[line3]Por que você deseja um fim assim? Mesmo que você faça isso, você..."[lr]::
-44133::$$$message_0392_0081_0002$$$::[line2]Não vai ser salvo.[lr]::
-44134::$$$message_0392_0081_0003$$$::A Saber morde sua boca e para antes de falar isso.::
-44135::$$$message_0392_0082_0000$$$::"...Heh. Eu tô errado, huh?"[lr]::
-44136::$$$message_0392_0082_0001$$$::Os músculos nos braços do Archer tremem.[lr]::
-44137::$$$message_0392_0082_0002$$$::Ele olha para Saber uma vez,[lr]::
-44138::$$$message_0392_0082_0003$$$::"Essa é minha linha, Saber.[lr]::
-44139::$$$message_0392_0082_0004$$$::Por quanto tempo você vai segurar nesse seu desejo bobo?"[lr]::
-44140::$$$message_0392_0082_0005$$$::Ele fala com seus olhos encarando longe.::
-44141::$$$message_0392_0083_0000$$$::"[line5]Archer."[lr]::
-44142::$$$message_0392_0083_0001$$$::A espada da Saber afrouxa.[lr]::
-44143::$$$message_0392_0083_0002$$$::"Fu[line4]!"[lr]::
-44144::$$$message_0392_0083_0003$$$::Usando essa abertura, o Archer levanta e chuta a Saber com a perna livre...!::
-44145::$$$message_0392_0084_0000$$$::"[line4]!"[lr]::
-44146::$$$message_0392_0084_0001$$$::Mesmo ela tendo sido empurrada pra trás, a Saber aterrissa graciosamente.[lr]::
-44147::$$$message_0392_0084_0002$$$::A situação não mudou.[lr]::
-44148::$$$message_0392_0084_0003$$$::A Saber tá me protegendo e encarando o Archer, que tem a Tohsaka presa em uma jaula de espadas atrás dele.[lr]::
-44149::$$$message_0392_0084_0004$$$::A distância entre eles é de cinco metros de novo.::
-44150::$$$message_0392_0085_0000$$$::"...Ufa. Eu sabia, mas eu não sou páreo pra suas técnicas de espada, huh?"[lr]::
-44151::$$$message_0392_0085_0001$$$::As espadas gêmeas desaparecem e ele confronta a Saber desarmado.::
-44152::$$$message_0392_0086_0000$$$::"...Archer. Isso significa que você vai desistir agora[line4]?"[lr]::
-44153::$$$message_0392_0086_0001$$$::"Óbvio que não. Você entende errado. Eu sou um Archer. Eu não sou alguém que luta com uma espada pra começo de conversa."[lr]::
-44154::$$$message_0392_0086_0002$$$::Com essas palavras...::
-44155::$$$message_0392_0087_0000$$$::"Eu sou o osso da minha espada."::
-44156::$$$message_0392_0088_0000$$$::Ele começa esse encantamento em uma voz que eu não consigo ouvir.::
-44157::$$$message_0392_0089_0000$$$::"Pare, Archer! Eu não[line4]"[lr]::
-44158::$$$message_0392_0089_0001$$$::"Saber. Alguém vai aparecer eventualmente para te libertar.[lr]::
-44159::$$$message_0392_0089_0002$$$::Não parece ser essa vez[line3]e eu vou provavelmente ter uma conexão com você na próxima vez."::
-44160::$$$message_0392_0090_0000$$$::"Unknown to Death. Nor known to Life."::
-44161::$$$message_0392_0091_0000$$$::O encantamento dele ecoa pelo templo.[lr]::
-44162::$$$message_0392_0091_0001$$$::...Não há mudança.[lr]::
-44163::$$$message_0392_0091_0002$$$::Um encantamento longo como esse deveria afetar os arredores.[lr]::
-44164::$$$message_0392_0091_0003$$$::Taumaturgia influência o mundo.[lr]::
-44165::$$$message_0392_0091_0004$$$::Mas o encantamento dele não afeta o mundo, mas ao invés[line3]::
-44166::$$$message_0392_0092_0000$$$::"Mas isso ainda está longe. Por agora, meu objetivo é matar Emiya Shirou.[lr]::
-44167::$$$message_0392_0092_0001$$$::Se você vai tentar me parar[line4]eu não vou me segurar contra você mesmo nesse mundo."::
-44168::$$$message_0392_0093_0000$$$::Ele levanta seu braço esquerdo.[lr]::
-44169::$$$message_0392_0093_0001$$$::Isso completa o encantamento dele?::
-44170::$$$message_0392_0094_0000$$$::"[line3]Unlimited blade works."::
-44171::$$$message_0392_0095_0000$$$::Ele claramente fala e muda o mundo.::
-44172::$$$message_0392_0096_0000$$$::[line4]Fogo corre.[lr]::
-44173::$$$message_0392_0096_0001$$$::Ele corre pelo chão e parece uma linha branca.[lr]::
-44174::$$$message_0392_0096_0002$$$::O fogo nos arredores é uma linha de separação?[lr]::
-44175::$$$message_0392_0096_0003$$$::A cor do fogo preenche minha visão e pinta o templo.[lr]::
-44176::$$$message_0392_0096_0004$$$::Depois disso, meus arredores são trocados por esse estranho mundo.::
-44177::$$$message_0392_0097_0000$$$::"[line8]"[lr]::
-44178::$$$message_0392_0097_0001$$$::Dor preenche meu cérebro.::
-44179::$$$message_0392_0098_0000$$$::[line3]Eu percebo.[lr]::
-44180::$$$message_0392_0098_0001$$$::Eu entendo o que é essa taumaturgia, o que é essa absurdidade.[lr]::
-44181::$$$message_0392_0098_0002$$$::Eu não deveria ser capaz de entender, mas eu consigo querendo ou não.[lr]::
-44182::$$$message_0392_0098_0003$$$::E isso[line4][lr]::
-44183::$$$message_0392_0098_0004$$$::...Faz meu cérebro cozinhar.::
-44184::$$$message_0392_0099_0000$$$::Resumidamente, isso é uma fábrica de manufatura de aço.[lr]::
-44185::$$$message_0392_0099_0001$$$::Fogo queimando e rodas dentadas girando.[lr]::
-44186::$$$message_0392_0099_0002$$$::Um campo de espadas sem dono se estende ao horizonte do deserto.[lr]::
-44187::$$$message_0392_0099_0003$$$::Todas as espadas no chão são famosas.[lr]::
-44188::$$$message_0392_0099_0004$$$::Kanshou e Bakuya originalmente vieram desse mundo.::
-44189::$$$message_0392_0100_0000$$$::Uma projeção de espadas quase infinita.[lr]::
-44190::$$$message_0392_0100_0001$$$::Inúmeras armas fazem esse lugar parecer um lixão.[lr]::
-44191::$$$message_0392_0100_0002$$$::O cavaleiro em vermelho reina no centro desse reino de destroços.::
-44192::$$$message_0392_0101_0000$$$::"Isso é[line4]"[lr]::
-44193::$$$message_0392_0101_0001$$$::A voz confusa é da Saber.[lr]::
-44194::$$$message_0392_0101_0002$$$::Dentro do fogo ilusório que não é nem quente, ela observa o cavaleiro em espanto inexpressivo.::
-44195::$$$message_0392_0102_0000$$$::"[line3]Projeção de Realidade[lr]::
-44196::$$$message_0392_0102_0001$$$::Uma ótima taumaturgia proibida que dá forma a mente do usuário e viola a realidade.[lr]::
-44197::$$$message_0392_0102_0002$$$::Então você não é um espadachim nem um arqueiro, mas..."::
-44198::$$$message_0392_0103_0000$$$::"Sim. Eu fui um mago antes de virar um espírito heroico."[lr]::
-44199::$$$message_0392_0103_0001$$$::A Tohsaka soa desinteressada.[lr]::
-44200::$$$message_0392_0103_0002$$$::...Poderia ser?[lr]::
-44201::$$$message_0392_0103_0003$$$::Ela já... sabia da... verdadeira identidade do Archer?::
-44202::$$$message_0392_0104_0000$$$::"[line3]Então Archer. Seu fantasma nobre é..."::
-44203::$$$message_0392_0105_0000$$$::"Eu não tenho algo assim.[lr]::
-44204::$$$message_0392_0105_0001$$$::Eu não usei espadas sagradas nem espadas demoníacas. A única coisa que eu tenho é esse mundo.[lr]::
-44205::$$$message_0392_0105_0002$$$::Se um  fantasma	nobre é o símbolo de um espírito heroico, essa Projeção de Realidade é meu fantasma nobre.[lr]::
-44206::$$$message_0392_0105_0003$$$::Eu posso reproduzir e guardar qualquer arma que eu vi a versão original. Essa é minha habilidade como um espírito heroico."::
-44207::$$$message_0392_0106_0000$$$::"[line8]"[lr]::
-44208::$$$message_0392_0106_0001$$$::A Saber fica boquiaberta.[lr]::
-44209::$$$message_0392_0106_0002$$$::Ela olha em espanto para o extenso cemitério de espadas no deserto.[lr]::
-44210::$$$message_0392_0106_0003$$$::O cinzento céu e o lixão de aço, livre de qualquer vida.::
-44211::$$$message_0392_0107_0000$$$::"Esse é... seu mundo, Archer?"[lr]::
-44212::$$$message_0392_0107_0001$$$::"Sim. Eu não me importo se você quiser testar ele.[lr]::
-44213::$$$message_0392_0107_0002$$$::Eu irei reproduzir essa sua espada sagrada."::
-44214::$$$message_0392_0108_0000$$$::"Minha espada sagrada...? Você diz isso, sabendo da verdadeira identidade dela, Archer?"[lr]::
-44215::$$$message_0392_0108_0001$$$::"Obviamente. Um arma de classificação assim não pode ser perfeitamente reproduzia, mas eu posso chegar perto.[lr]::
-44216::$$$message_0392_0108_0002$$$::O que vai acontecer nesse caso? As pessoas ao nosso redor vão sobreviver quando duas espadas sagradas se confrontam?"::
-44217::$$$message_0392_0109_0000$$$::"Que[line4]Archer, você...!"[lr]::
-44218::$$$message_0392_0109_0001$$$::"Sim. Não use sua espada sagrada, Saber. Eu vou ter que te opor se você fizer isso.[lr]::
-44219::$$$message_0392_0109_0002$$$::Nesse caso, aqueles que desapareceriam não seriam nós, mas as pessoas ao nosso redor.[lr]::
-44220::$$$message_0392_0109_0003$$$::...Conhecendo você, você protegeria aquela criança sob o custo da sua própria vida. Até eu vou morrer se eu projetar a espada sagrada.[lr]::
-44221::$$$message_0392_0109_0004$$$::Nesse caso, somente Emiya Shirou sobreviveria. Isso seria inútil."::
-44222::$$$message_0392_0110_0000$$$::O Archer levanta sua mão esquerda.[lr]::
-44223::$$$message_0392_0110_0001$$$::As espadas atrás da capa dele flutuam uma a uma.::
-44224::$$$message_0392_0111_0000$$$::"[line3]Não se oponha a isso.[lr]::
-44225::$$$message_0392_0111_0001$$$::Você não vai morrer instantaneamente se for sortuda. Você pode fazer sua mestra te curar depois que tudo acabar."[lr]::
-44226::$$$message_0392_0111_0002$$$::O Archer aponta pra Saber.[lr]::
-44227::$$$message_0392_0111_0003$$$::As númeras espadas apontam para Saber.[lr]::
-44228::$$$message_0392_0111_0004$$$::Todas essas armas certamente vão matar.::
-44229::$$$message_0392_0112_0000$$$::"[line3]Você pode desviar delas, mas nesse caso, desista do garoto atrás de você."[lr]::
-44230::$$$message_0392_0112_0001$$$::E ele dá o comando.::
+43892::$$$message_0392_0006_0002$$$::De repente, ela me atinge de lado e me manda voando.::
+43893::$$$message_0392_0007_0000$$$::Um golpe súbito vindo da lateral; sou derrubado sem conseguir resistir.[lr]::
+43894::$$$message_0392_0007_0001$$$::Meu corpo é arremessado e quica com força contra o chão.::
+43895::$$$message_0392_0008_0000$$$::"Ack...!"[lr]::
+43896::$$$message_0392_0008_0001$$$::Minhas costas atingem o chão primeiro.[lr]::
+43897::$$$message_0392_0008_0002$$$::"Ugh...!"[lr]::
+43898::$$$message_0392_0008_0003$$$::Ainda confuso com o que acabou de acontecer, olho para cima...[lr]::
+43899::$$$message_0392_0008_0004$$$::Nesse instante...[lr]::
+43900::$$$message_0392_0008_0005$$$::Ouço novamente o som de metal colidindo.::
+43901::$$$message_0392_0009_0000$$$::"O quê..."[lr]::
+43902::$$$message_0392_0009_0001$$$::O que vejo é Saber revestindo-se de armadura.[lr]::
+43903::$$$message_0392_0009_0002$$$::...E.[lr]::
+43904::$$$message_0392_0009_0003$$$::Bem diante dela, no chão onde eu estava, há várias espadas cravadas no piso.::
+43905::$$$message_0392_0010_0000$$$::"Tch... errei."[lr]::
+43906::$$$message_0392_0010_0001$$$::É ele.[lr]::
+43907::$$$message_0392_0010_0002$$$::Ele deixa escapar uma voz decepcionada enquanto mantém os olhos em Saber.::
+43908::$$$message_0392_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
+43909::$$$message_0392_0011_0001$$$::Mal conseguindo ficar de pé, Saber encara Archer.::
+43910::$$$message_0392_0012_0000$$$::"...Seu desgraçado."[lr]::
+43911::$$$message_0392_0012_0001$$$::Não preciso adivinhar o motivo.[lr]::
+43912::$$$message_0392_0012_0002$$$::Ele disparou suas espadas e tentou me matar pelas costas.[lr]::
+43913::$$$message_0392_0012_0003$$$::Saber percebeu o que ele tentava fazer e me protegeu imediatamente.::
+43914::$$$message_0392_0013_0000$$$::"..."[lr]::
+43915::$$$message_0392_0013_0001$$$::Tohsaka fica ali, olhando para ele atônita, enquanto Saber empunha sua espada, ofegante.[lr]::
+43916::$$$message_0392_0013_0002$$$::Mesmo que suas posições sejam diferentes, elas carregam a mesma pergunta: [lr]::
+43917::$$$message_0392_0013_0003$$$::Agora que Caster foi derrotada, por que Archer está tentando matar Emiya Shirou?::
+43918::$$$message_0392_0014_0000$$$::[font italic=true]...[font italic=false][lr]::
+43919::$$$message_0392_0014_0001$$$::Somente Archer e eu permanecemos imperturbáveis diante disso.[lr]::
+43920::$$$message_0392_0014_0002$$$::...É verdade, não estou surpreso com o que acabou de acontecer.[lr]::
+43921::$$$message_0392_0014_0003$$$::Nós nos desprezamos desde o começo.[lr]::
+43922::$$$message_0392_0014_0004$$$::Ficamos um contra o outro sabendo que jamais nos daríamos bem.[lr]::
+43923::$$$message_0392_0014_0005$$$::Nós dois rejeitamos a existência um do outro sem sequer saber por quê.::
+43924::$$$message_0392_0015_0000$$$::...Por quê?[lr]::
+43925::$$$message_0392_0015_0001$$$::A razão pela qual precisamos rejeitar um ao outro[line2]se for mesmo o que penso que é.[lr]::
+43926::$$$message_0392_0015_0002$$$::É claro que ele iria querer me matar.::
+43927::$$$message_0392_0016_0000$$$::"Argh..."[lr]::
+43928::$$$message_0392_0016_0001$$$::Tento me levantar depois de ser jogado no chão.[lr]::
+43929::$$$message_0392_0016_0002$$$::Saber estava mesmo desesperada.[lr]::
+43930::$$$message_0392_0016_0003$$$::Ela provavelmente se lançou contra mim sem conseguir se conter. Por causa disso, mal consegue recuperar o fôlego.::
+43931::$$$message_0392_0017_0000$$$::...É por isso que preciso me levantar.[lr]::
+43932::$$$message_0392_0017_0001$$$::Se a Saber que eu conheço tivesse me atingido, não teria sido tão fraco.[lr]::
+43933::$$$message_0392_0017_0002$$$::Agora ela mal tem força suficiente até para me enfrentar.[lr]::
+43934::$$$message_0392_0017_0003$$$::Se enfrentar Archer com esse corpo, não será diferente de suicídio.::
+43935::$$$message_0392_0018_0000$$$::"Archer, no que você estava pensando!?"[lr]::
+43936::$$$message_0392_0018_0001$$$::Tohsaka se aproxima de Archer.[lr]::
+43937::$$$message_0392_0018_0002$$$::...É claro que ela está confusa.[lr]::
+43938::$$$message_0392_0018_0003$$$::Archer só ficou do lado de Caster para traí-la no final e matá-la.[lr]::
+43939::$$$message_0392_0018_0004$$$::Agora que conseguiu, não há razão para Archer me atacar.::
+43940::$$$message_0392_0019_0000$$$::"Sua encenaçãozinha já acabou, certo? Caster foi derrotada, então não vou mais deixar você agir por conta própria!"[lr]::
+43941::$$$message_0392_0019_0001$$$::"Não vai deixar? Não entendo. Por que eu teria que buscar sua aprovação para qualquer coisa? Especialmente quando você não é mais minha Mestra."::
+43942::$$$message_0392_0020_0000$$$::"O quê...? Archer...?"[lr]::
+43943::$$$message_0392_0020_0001$$$::"Meu contrato com você terminou. Agora que estou livre, acha que eu escolheria me rebaixar a lacaio de um humano?"::
+43944::$$$message_0392_0021_0000$$$::[font italic=true]...[font italic=false][lr]::
+43945::$$$message_0392_0021_0001$$$::Tohsaka olha para Archer como se ainda não pudesse acreditar no que acabou de ouvir, mas então uma súbita compreensão a atinge.[lr]::
+43946::$$$message_0392_0021_0002$$$::"Não me diga... Archer..." ::
+43947::$$$message_0392_0022_0000$$$::"Eu só ajo pelo meu próprio objetivo.[lr]::
+43948::$$$message_0392_0022_0001$$$::Mas será um tanto problemático ter você por perto."[lr]::
+43949::$$$message_0392_0022_0002$$$::"...!"::
+43950::$$$message_0392_0023_0000$$$::Tohsaka salta para trás.[lr]::
+43951::$$$message_0392_0023_0001$$$::Ela se distancia de Archer e começa a correr até mim enquanto ainda tento me levantar.[lr]::
+43952::$$$message_0392_0023_0002$$$::Mas Tohsaka não consegue fazer isso.::
+43953::$$$message_0392_0024_0000$$$::Uma tempestade de espadas de dois metros de altura desaba.[lr]::
+43954::$$$message_0392_0024_0001$$$::As espadas caem em um padrão circular, cravando-se no chão para formar uma gaiola.::
+43955::$$$message_0392_0025_0000$$$::"...Ugh!"[lr]::
+43956::$$$message_0392_0025_0001$$$::Uma gaiola circular com espaço mal suficiente para uma pessoa.[lr]::
+43957::$$$message_0392_0025_0002$$$::No instante em que a gaiola se forma, Tohsaka fica presa no centro dela.::
+43958::$$$message_0392_0026_0000$$$::"Depois de chegar tão longe, não vou deixar você interferir. O contrato foi rompido, então o Selo de Comando que usou em mim não funciona mais.[lr]::
+43959::$$$message_0392_0026_0001$$$::Esse foi o único motivo de eu ter ficado do lado de Caster. Para invalidar o Selo de Comando que usou em mim, eu também precisava invalidar o contrato."::
+43960::$$$message_0392_0027_0000$$$::Archer começa a andar, virando as costas para Tohsaka, agora presa em uma gaiola de espadas.[lr]::
+43961::$$$message_0392_0027_0001$$$::Ele não caminha até Saber, mas até mim, enquanto ainda estou com um joelho no chão.::
+43962::$$$message_0392_0028_0000$$$::"Eu sabia... Por quê, Archer!? Você ainda está tentando matar Shirou!?"[lr]::
+43963::$$$message_0392_0028_0001$$$::"...Isso mesmo. Vou matar Emiya Shirou com minhas próprias mãos.[lr]::
+43964::$$$message_0392_0028_0002$$$::Esse é meu único desejo, o desejo de um homem que caiu até se tornar um Guardião."::
+43965::$$$message_0392_0029_0000$$$::"O quê?"[lr]::
+43966::$$$message_0392_0029_0001$$$::A força retorna ao corpo de Saber.[lr]::
+43967::$$$message_0392_0029_0002$$$::Ela organiza os pensamentos, concentra a força e se coloca entre Archer e mim.::
+43968::$$$message_0392_0030_0000$$$::"Archer... Não me diga."::
+43969::$$$message_0392_0031_0000$$$::"...Isso me lembra. Saber, acho que você já me disse uma vez que eu não tinha orgulho de herói.[lr]::
+43970::$$$message_0392_0031_0001$$$::É claro que não. É impossível eu abrigar tal emoção. A única coisa que abrigo é arrependimento.[lr]::
+43971::$$$message_0392_0031_0002$$$::...Veja, Saber. Eu queria... nunca ter me tornado um herói."::
+43972::$$$message_0392_0032_0000$$$::[font italic=true]...[font italic=false][lr]::
+43973::$$$message_0392_0032_0001$$$::A vontade de lutar de Saber deixa seu corpo.[lr]::
+43974::$$$message_0392_0032_0002$$$::...Talvez ela tenha entendido algo de repente. Seja o que for, já não há animosidade alguma dela contra Archer.::
+43975::$$$message_0392_0033_0000$$$::"Já disse o bastante. Agora saia da frente, Rei dos Cavaleiros. Você não tem mais um Mestre, então, se fizer qualquer imprudência, desaparecerá.[lr]::
+43976::$$$message_0392_0033_0001$$$::Emiya Shirou já não tem o direito de ser Mestre. Seu desejo não será realizado mesmo que você o ajude."::
+43977::$$$message_0392_0034_0000$$$::"...Não posso fazer isso. Mesmo que ele não seja mais um Mestre, meu pacto com ele permanece. Jurei protegê-lo, jurei ser sua espada.[lr]::
+43978::$$$message_0392_0034_0001$$$::...Ele não sabia nada sobre a Guerra do Santo Graal, mas respondeu ao meu desejo unilateral. Não posso trair essa confiança tão facilmente."[lr]::
+43979::$$$message_0392_0034_0002$$$::Ela ergue sua espada invisível.[lr]::
+43980::$$$message_0392_0034_0003$$$::Mas a cavaleira brava e galante não está em lugar algum.::
+43981::$$$message_0392_0035_0000$$$::"...Entendo. Nesse caso, morra aqui junto com seu falso senhor."[lr]::
+43982::$$$message_0392_0035_0001$$$::Espadas aparecem nas mãos de Archer.[lr]::
+43983::$$$message_0392_0035_0002$$$::"...Guh."[lr]::
+43984::$$$message_0392_0035_0003$$$::O q...! Saber não consegue nem suportar o ataque de Archer do jeito que está agora!::
+43985::$$$message_0392_0036_0000$$$::"...Sua idiota, Saber, corra!"[lr]::
+43986::$$$message_0392_0036_0001$$$::Levanto-me e tento alcançar Saber.[lr]::
+43987::$$$message_0392_0036_0002$$$::Talvez ela esteja tentando ficar fora do meu alcance,[lr]::
+43988::$$$message_0392_0036_0003$$$::"Hah!"[lr]::
+43989::$$$message_0392_0036_0004$$$::Saber concentra toda a força nos pés e avança contra Archer.::
+43990::$$$message_0392_0037_0000$$$::...A luta termina depois de algumas trocas de golpes.[lr]::
+43991::$$$message_0392_0037_0001$$$::A Saber de antes certamente teria dominado Archer, mas agora ela mal consegue brandir a espada por alguns segundos antes de cair de joelhos.::
+43992::$$$message_0392_0038_0000$$$::...Saber nem sequer tem uma espada na mão agora.[lr]::
+43993::$$$message_0392_0038_0001$$$::No esforço para resistir à maldição de Caster, ela consumiu toda a sua Energia Mágica.[lr]::
+43994::$$$message_0392_0038_0002$$$::Para Saber agora, até respirar exige esforço. Ela está de cabeça baixa, de quatro no chão, tentando com todas as forças manter sua existência.::
+43995::$$$message_0392_0039_0000$$$::[font italic=true]...[font italic=false][lr]::
+43996::$$$message_0392_0039_0001$$$::Archer ergue os braços.[lr]::
+43997::$$$message_0392_0039_0002$$$::Ele baixa suas espadas sobre a Saber indefesa.[lr]::
+43998::$$$message_0392_0039_0003$$$::Eu avanço,[lr]::
+43999::$$$message_0392_0039_0004$$$::"Haaaaaaahhhhh!"[lr]::
+44000::$$$message_0392_0039_0005$$$::e junto todas as minhas forças para bloquear o ataque de Archer.::
+44001::$$$message_0392_0040_0000$$$::"...!"[lr]::
+44002::$$$message_0392_0040_0001$$$::Ergo minhas duas espadas.[lr]::
+44003::$$$message_0392_0040_0002$$$::Com as armas que Projetei instantaneamente nas mãos, fixo o olhar no cavaleiro vermelho.::
+44004::$$$message_0392_0041_0000$$$::"...Ora, ora. Achei que você ficaria comportado por mais um pouco. Parece que realmente não suporta ver uma mulher ser morta na sua frente."::
+44005::$$$message_0392_0042_0000$$$::"...Cale a boca. A pessoa que você realmente quer matar sou eu. Então aponte suas espadas para a pessoa certa."[lr]::
+44006::$$$message_0392_0042_0001$$$::Nós dois continuamos nos encarando.[lr]::
+44007::$$$message_0392_0042_0002$$$::Ambos seguramos espadas gêmeas nas mãos.[lr]::
+44008::$$$message_0392_0042_0003$$$::Mesmo que nossas estaturas sejam diferentes, nossas posturas são absolutamente idênticas.::
+44009::$$$message_0392_0043_0000$$$::"Quando se imita alguém por tempo suficiente, chega uma hora em que ninguém consegue diferenciar. No entanto, esse corpo aguenta usar tanta Magia?"[lr]::
+44010::$$$message_0392_0043_0001$$$::Um deboche claro.[lr]::
+44011::$$$message_0392_0043_0002$$$::...Mas, como ele disse, estou no limite.[lr]::
+44012::$$$message_0392_0043_0003$$$::Minha dor de cabeça não para, e meus Circuitos Mágicos acelerados estão no limite por causa das Projeções repetidas.[lr]::
+44013::$$$message_0392_0043_0004$$$::...No meu estado atual, se continuar trocando golpes com ele enquanto mantenho as espadas, meu cérebro explodirá antes que ele me corte.::
+44014::$$$message_0392_0044_0000$$$::"...Ngh."[lr]::
+44015::$$$message_0392_0044_0001$$$::"Eu já disse, você não é feito para usar Projeção. Usar uma Magia inadequada para você só levará à sua própria destruição. Parece que está pagando o preço por realizar milagres até aqui, Emiya Shirou."[lr]::
+44016::$$$message_0392_0044_0002$$$::Archer vem investindo contra mim.::
+44017::$$$message_0392_0045_0000$$$::"Ngh... Cala a boca, seu filho da[line2]"[lr]::
+44018::$$$message_0392_0045_0001$$$::Nesse momento.[lr]::
+44019::$$$message_0392_0045_0002$$$::Encontro as espadas de Archer com as minhas, com tanta intensidade que quase me faz esquecer a dor de cabeça.::
+44020::$$$message_0392_0046_0000$$$::Balanço minhas armas.[lr]::
+44021::$$$message_0392_0046_0001$$$::Meu movimento é apenas uma imitação do meu oponente.[lr]::
+44022::$$$message_0392_0046_0002$$$::Se minhas espadas são emprestadas, a habilidade para manejá-las também é.[lr]::
+44023::$$$message_0392_0046_0003$$$::É por isso que não há como eu igualá-lo.[lr]::
+44024::$$$message_0392_0046_0004$$$::Mesmo se eu estivesse em minha melhor condição, não conseguiria derrotá-lo.::
+44025::$$$message_0392_0047_0000$$$::Uma cópia pode chegar perto do original, mas jamais o superará.[lr]::
+44026::$$$message_0392_0047_0001$$$::É por isso que, desde o começo, eu nunca tive chance contra este homem.::
+44027::$$$message_0392_0048_0000$$$::Ele me disse para me afogar agarrado aos meus ideais.[lr]::
+44028::$$$message_0392_0048_0001$$$::Ele também disse que minha vida era uma mentira.[lr]::
+44029::$$$message_0392_0048_0002$$$::...Não consegui dizer nada a ele, porque ele era meu ideal.[lr]::
+44030::$$$message_0392_0048_0003$$$::O poder de realizar o impossível.[lr]::
+44031::$$$message_0392_0048_0004$$$::Um homem que se tornou um Espírito Heroico depois de salvar tantos outros.[lr]::
+44032::$$$message_0392_0048_0005$$$::Eu fui quem desejou me tornar alguém assim.::
+44033::$$$message_0392_0049_0000$$$::É por isso que não posso vencer.[lr]::
+44034::$$$message_0392_0049_0001$$$::O homem diante de mim é alguém que chegou ao fim do meu ideal.[lr]::
+44035::$$$message_0392_0049_0002$$$::Se este homem é realmente a mesma pessoa que queria ficar mais forte para salvar os outros, a personificação dos ideais de Emiya Shirou...::
+44036::$$$message_0392_0050_0000$$$::"Ah... ngh...!"[lr]::
+44037::$$$message_0392_0050_0001$$$::As espadas se estilhaçam.[lr]::
+44038::$$$message_0392_0050_0002$$$::Embora eu tenha conseguido bloquear o ataque dele, perdi minhas espadas no processo.::
+44039::$$$message_0392_0051_0000$$$::...Minha consciência... está... desaparecendo.[lr]::
+44040::$$$message_0392_0051_0001$$$::Meu corpo não está ferido, mas o que há dentro dele está sangrando, murchando lentamente...::
+44041::$$$message_0392_0052_0000$$$::"Agora entende? Este é o limite de Emiya Shirou. Um fim apropriado para alguém que se forçou além dos próprios limites até hoje."[lr]::
+44042::$$$message_0392_0052_0001$$$::Ele ergue a espada.[lr]::
+44043::$$$message_0392_0052_0002$$$::[font italic=true]...[font italic=false][lr]::
+44044::$$$message_0392_0052_0003$$$::No instante em que tento discernir, com a consciência se apagando, de que lado a espada virá...::
+44045::$$$message_0392_0053_0000$$$::"Atenda às minhas palavras![lr]::
+44046::$$$message_0392_0053_0001$$$::Minha vontade cria teu corpo, e tua espada cria meu destino! Se atendes ao chamado do Graal e obedeces à minha vontade e razão[line2]"::
+44047::$$$message_0392_0054_0000$$$::A voz digna de Tohsaka ecoa pela igreja.::
+44048::$$$message_0392_0055_0000$$$::"[line2]!"[lr]::
+44049::$$$message_0392_0055_0001$$$::Talvez aquilo o tenha distraído.[lr]::
+44050::$$$message_0392_0055_0002$$$::O golpe da espada perde impulso; se é assim...[lr]::
+44051::$$$message_0392_0055_0003$$$::"Gnh... hah!"[lr]::
+44052::$$$message_0392_0055_0004$$$::Mesmo com meu corpo atual, consigo desviar desse ataque!::
+44053::$$$message_0392_0056_0000$$$::Rolo pelo chão para criar distância.[lr]::
+44054::$$$message_0392_0056_0001$$$::"Tch!"[lr]::
+44055::$$$message_0392_0056_0002$$$::Archer estala a língua. Ele não vem atrás de mim e olha para Saber no chão.::
+44056::$$$message_0392_0057_0000$$$::"[line2]Então responda-me! Assim confiarei meu destino à tua espada!"[lr]::
+44057::$$$message_0392_0057_0001$$$::Tohsaka estende a mão até Saber de dentro da gaiola de espadas.[lr]::
+44058::$$$message_0392_0057_0002$$$::Respondendo ao chamado dela, Saber corre até Tohsaka com todas as forças...::
+44059::$$$message_0392_0058_0000$$$::"Em meu nome como Saber, aceito teu juramento...![lr]::
+44060::$$$message_0392_0058_0001$$$::Rin, eu a reconhecerei como minha Mestra!"[lr]::
+44061::$$$message_0392_0058_0002$$$::Este é o contrato que deveria ter acontecido.[lr]::
+44062::$$$message_0392_0058_0003$$$::Saber finalmente consegue a Mestra que merece.::
+44063::$$$message_0392_0059_0000$$$::Ventos se juntam e giram ao redor de Saber.[lr]::
+44064::$$$message_0392_0059_0001$$$::Talvez seja porque ela recuperou seu verdadeiro poder agora que tem uma Mestra apropriada.[lr]::
+44065::$$$message_0392_0059_0002$$$::A Saber que encara Archer agora não é a mesma pessoa de antes.::
+44066::$$$message_0392_0060_0000$$$::"...O que é isso?"[lr]::
+44067::$$$message_0392_0060_0001$$$::Não sou o único atônito com essa visão.[lr]::
+44068::$$$message_0392_0060_0002$$$::Até Archer está fascinado pelo que acontece.[lr]::
+44069::$$$message_0392_0060_0003$$$::Uma onda de Energia Mágica e um conjunto de armadura impermeável a danos.[lr]::
+44070::$$$message_0392_0060_0004$$$::Essa enorme Energia Mágica, suficiente para esmagar qualquer um, é verdadeiramente infinita.[lr]::
+44071::$$$message_0392_0060_0005$$$::ESSA é Saber.[lr]::
+44072::$$$message_0392_0060_0006$$$::O Espírito Heroico da Espada, dito como o mais poderoso dos Servos!::
+44073::$$$message_0392_0061_0000$$$::"...Tch. Eu pretendia fazê-la firmar outro contrato com Rin, mas não era bem assim que imaginei."[lr]::
+44074::$$$message_0392_0061_0001$$$::Talvez já não possa poupar esforço comigo, mas Archer está focado apenas em Saber.::
+44075::$$$message_0392_0062_0000$$$::"E então? O que vai fazer, Saber?[lr]::
+44076::$$$message_0392_0062_0001$$$::Agora que formou um contrato com Rin, o que acontecer com Emiya Shirou daqui em diante é irrelevante para você..."[lr]::
+44077::$$$message_0392_0062_0002$$$::"Eu já lhe disse, Archer. Meu juramento com Shirou permanece."[lr]::
+44078::$$$message_0392_0062_0003$$$::Saber diz com determinação.[lr]::
+44079::$$$message_0392_0062_0004$$$::Irritado com as palavras dela, Archer aperta suas espadas.::
+44080::$$$message_0392_0063_0000$$$::"Eu poderia perguntar o mesmo a você, Archer. O que vai fazer? Se ainda pretende matar Shirou, terá que passar por mim.[lr]::
+44081::$$$message_0392_0063_0001$$$::Agora é sua chance de repensar sua decisão. Se se voltar contra mim agora, bem, tenho certeza de que até você entende como suas chances são pequenas."::
+44082::$$$message_0392_0064_0000$$$::As palavras de Saber são verdadeiras.[lr]::
+44083::$$$message_0392_0064_0001$$$::Saber em sua condição atual poderia enfrentar Berserker sozinha e ainda sair vitoriosa.[lr]::
+44084::$$$message_0392_0064_0002$$$::Não importa quem Archer seja, ele não pode vencer Saber.[lr]::
+44085::$$$message_0392_0064_0003$$$::Ele entende isso melhor que qualquer um, e ainda assim...::
+44086::$$$message_0392_0065_0000$$$::"Hmph. Olhe só para você, transbordando confiança só porque recuperou um pouco de Energia Mágica...!"[lr]::
+44087::$$$message_0392_0065_0001$$$::Sem deixá-la responder, Archer investe contra Saber.::
+44088::$$$message_0392_0066_0000$$$::Espadas colidem.[lr]::
+44089::$$$message_0392_0066_0001$$$::Um raio carmesim dispara contra Saber, e Archer golpeia com toda a força.::
+44090::$$$message_0392_0067_0000$$$::"...Hah!"[lr]::
+44091::$$$message_0392_0067_0001$$$::Saber bloqueia esse ataque sem sequer estremecer.[lr]::
+44092::$$$message_0392_0067_0002$$$::A diferença de estatura e até a súbita explosão de velocidade de Archer não fazem diferença.[lr]::
+44093::$$$message_0392_0067_0003$$$::Saber apara o ataque de Archer com facilidade.::
+44094::$$$message_0392_0068_0000$$$::Ainda assim, Archer é quem recua, apesar de estar na ofensiva.[lr]::
+44095::$$$message_0392_0068_0001$$$::Um único golpe com poder e precisão extremos...[lr]::
+44096::$$$message_0392_0068_0002$$$::"Hngh... ugh..."[lr]::
+44097::$$$message_0392_0068_0003$$$::Não apenas foi bloqueado, como ele ainda perdeu o equilíbrio no processo.::
+44098::$$$message_0392_0069_0000$$$::"Ngh!"[lr]::
+44099::$$$message_0392_0069_0001$$$::Archer recua sem hesitar.[lr]::
+44100::$$$message_0392_0069_0002$$$::Ao ver uma abertura,[lr]::
+44101::$$$message_0392_0069_0003$$$::Saber ataca Archer com uma sequência feroz.::
+44102::$$$message_0392_0070_0000$$$::Archer não pode fazer nada além de bloquear os ataques de Saber.[lr]::
+44103::$$$message_0392_0070_0001$$$::Se tentar contra-atacar, a espada de Saber partirá seu crânio nessa abertura.::
+44104::$$$message_0392_0071_0000$$$::Não, ele nem tem folga para pensar em contra-atacar.[lr]::
+44105::$$$message_0392_0071_0001$$$::A única resistência permitida a Archer é bloquear os ataques de Saber até ficar sem forças.::
+44106::$$$message_0392_0072_0000$$$::Mesmo assim, isso não vai durar muito.[lr]::
+44107::$$$message_0392_0072_0001$$$::A Energia Mágica imbuída na espada de Saber está desgastando Kanshou e Bakuya.[lr]::
+44108::$$$message_0392_0072_0002$$$::As espadas gêmeas não aguentam mais ataques de Saber, e Archer também não tem muita força sobrando.::
+44109::$$$message_0392_0073_0000$$$::O fim vem antes do esperado.[lr]::
+44110::$$$message_0392_0073_0001$$$::Incapaz de resistir à ofensiva de Saber, Archer cai de joelhos.[lr]::
+44111::$$$message_0392_0073_0002$$$::Saber para por um breve momento e então baixa sua espada.::
+44112::$$$message_0392_0074_0000$$$::Archer detém esse golpe decisivo com a cruz formada por suas espadas.[lr]::
+44113::$$$message_0392_0074_0001$$$::A luta termina ali.[lr]::
+44114::$$$message_0392_0074_0002$$$::Embora Archer tenha detido o ataque de Saber, ele não consegue se mover nem mais um centímetro.[lr]::
+44115::$$$message_0392_0074_0003$$$::Se afrouxar sequer um pouco sua força, a espada de Saber o cortará ao meio a partir do crânio.::
+44116::$$$message_0392_0075_0000$$$::"Ngh... Hm..."[lr]::
+44117::$$$message_0392_0075_0001$$$::Colocando toda a força nos braços, Archer detém o golpe de Saber.[lr]::
+44118::$$$message_0392_0075_0002$$$::Suor escorre pela testa de Archer, e ele está ofegante.::
+44119::$$$message_0392_0076_0000$$$::[font italic=true]...[font italic=false][lr]::
+44120::$$$message_0392_0076_0001$$$::Em contraste, Saber está calma e composta.[lr]::
+44121::$$$message_0392_0076_0002$$$::Em combate de curta distância, é impossível para um Servo de classe Archer vencer um Servo de classe Saber.::
+44122::$$$message_0392_0077_0000$$$::"Este é o seu fim, Archer."::
+44123::$$$message_0392_0078_0000$$$::"Você estava preocupado comigo antes, mas devolvo essas palavras a você. Com Caster desaparecida e no ritmo em que vem usando seu Fantasma Nobre, não deve ter muita Energia Mágica sobrando.[lr]::
+44124::$$$message_0392_0078_0001$$$::Além disso, você não tem um Mestre, uma âncora para permanecer manifestado neste mundo. Nem sequer pode repor sua Energia Mágica. O que exatamente pode fazer em seu estado atual?"::
+44125::$$$message_0392_0079_0000$$$::"Hah. Não precisa se preocupar com isso, Saber.[lr]::
+44126::$$$message_0392_0079_0001$$$::Servos da classe Archer possuem uma habilidade única que lhes permite permanecer manifestados de forma independente. Eles conseguem sobreviver por pelo menos dois dias mesmo sem um Mestre. É tempo de sobra para eu matá-lo."::
+44127::$$$message_0392_0080_0000$$$::"Por que ainda fala esse absurdo!? Está dizendo que seu desejo não é o Graal, mas matar Shirou!?"[lr]::
+44128::$$$message_0392_0080_0001$$$::[font italic=true]...[font italic=false][lr]::
+44129::$$$message_0392_0080_0002$$$::Archer não responde.[lr]::
+44130::$$$message_0392_0080_0003$$$::Seus olhos frios apenas encaram a Saber perplexa e perturbada.::
+44131::$$$message_0392_0081_0000$$$::"...Como pode desejar algo assim? Archer, seu desejo está errado.[lr]::
+44132::$$$message_0392_0081_0001$$$::Por quê... Por que desejaria um fim desses? Mesmo que faça algo assim, você não..."[lr]::
+44133::$$$message_0392_0081_0002$$$::...será salvo.[lr]::
+44134::$$$message_0392_0081_0003$$$::Saber morde os lábios antes de terminar a frase.::
+44135::$$$message_0392_0082_0000$$$::"...Hmph. Meu desejo está errado... é?"[lr]::
+44136::$$$message_0392_0082_0001$$$::Archer põe mais força nos braços.[lr]::
+44137::$$$message_0392_0082_0002$$$::Ele encara Saber de volta,[lr]::
+44138::$$$message_0392_0082_0003$$$::"Digo o mesmo a você, Saber.[lr]::
+44139::$$$message_0392_0082_0004$$$::Até quando vai continuar se agarrando a esse seu desejo equivocado?"[lr]::
+44140::$$$message_0392_0082_0005$$$::Um breve instante de tristeza cintila nos olhos de Archer quando ele pergunta a Saber.::
+44141::$$$message_0392_0083_0000$$$::"Archer..."[lr]::
+44142::$$$message_0392_0083_0001$$$::A firmeza de Saber na espada enfraquece.[lr]::
+44143::$$$message_0392_0083_0002$$$::"Hngh!"[lr]::
+44144::$$$message_0392_0083_0003$$$::Archer aproveita a oportunidade para se libertar e usa a abertura para chutar Saber para longe!::
+44145::$$$message_0392_0084_0000$$$::"Ugh...!"[lr]::
+44146::$$$message_0392_0084_0001$$$::Saber é empurrada para trás pelo chute, mas aterrissa com graça.[lr]::
+44147::$$$message_0392_0084_0002$$$::A situação não mudou desde um minuto atrás.[lr]::
+44148::$$$message_0392_0084_0003$$$::Um impasse entre Saber, que me protege, e Archer, que está de costas para Tohsaka engaiolada.[lr]::
+44149::$$$message_0392_0084_0004$$$::A distância entre os dois aumentou para cerca de cinco metros.::
+44150::$$$message_0392_0085_0000$$$::"...Certo. Eu não achava que poderia igualar suas técnicas de espada, mas não pensei que fosse ficar tão óbvio."[lr]::
+44151::$$$message_0392_0085_0001$$$::As espadas em suas mãos desaparecem, e ele encara Saber desarmado.::
+44152::$$$message_0392_0086_0000$$$::"...Archer, tomo esse gesto como uma retirada[line2]"[lr]::
+44153::$$$message_0392_0086_0001$$$::"Não, e vou interromper essa suposição. Sou um Servo da classe Archer. Não existe arqueiro que prefira lutar com espadas."[lr]::
+44154::$$$message_0392_0086_0002$$$::Depois de dizer isso,::
+44155::$$$message_0392_0087_0000$$$::                                  "Eu sou o osso da minha espada."::
+44156::$$$message_0392_0088_0000$$$::Em um sussurro, Archer inicia o encantamento.::
+44157::$$$message_0392_0089_0000$$$::"Pare, Archer! Nós ainda temos[line2]"[lr]::
+44158::$$$message_0392_0089_0001$$$::"Saber. Um dia, alguém estará aqui para libertá-la.[lr]::
+44159::$$$message_0392_0089_0002$$$::Parece que esse momento ainda não chegou. Mas tenho certeza de que farei parte disso na próxima vez que você estiver envolvida."::
+44160::$$$message_0392_0090_0000$$$::                          "Desconhecido pela morte. Tampouco conhecido pela vida."::
+44161::$$$message_0392_0091_0000$$$::O encantamento ecoa pela igreja.[lr]::
+44162::$$$message_0392_0091_0001$$$::...Nada muda ao redor.[lr]::
+44163::$$$message_0392_0091_0002$$$::Um encantamento tão longo certamente afetaria o ambiente.[lr]::
+44164::$$$message_0392_0091_0003$$$::Magia é algo que funciona ao exercer influência sobre o próprio mundo.[lr]::
+44165::$$$message_0392_0091_0004$$$::No entanto, o encantamento dele não faz isso, mas...::
+44166::$$$message_0392_0092_0000$$$::"Bem, esse é um assunto para a próxima vez. Agora tenho apenas um objetivo, e é matar Emiya Shirou.[lr]::
+44167::$$$message_0392_0092_0001$$$::Se você ficar no meu caminho... então este mundo que estou criando não vai se conter em destruí-la."::
+44168::$$$message_0392_0093_0000$$$::Ele ergue o braço esquerdo.[lr]::
+44169::$$$message_0392_0093_0001$$$::Isso significa que está completando seu encantamento?::
+44170::$$$message_0392_0094_0000$$$::                                   "Unlimited Blade Works!"::
+44171::$$$message_0392_0095_0000$$$::Com uma frase clara, ele começa a exercer sua influência sobre o mundo.::
+44172::$$$message_0392_0096_0000$$$::...Chamas irrompem.[lr]::
+44173::$$$message_0392_0096_0001$$$::As chamas percorrem o chão, como se desenhassem uma linha.[lr]::
+44174::$$$message_0392_0096_0002$$$::Isso significa que as chamas estão criando uma fronteira ao redor da igreja?[lr]::
+44175::$$$message_0392_0096_0003$$$::A luminescência brilhante gerada pelas chamas envolve a igreja.[lr]::
+44176::$$$message_0392_0096_0004$$$::Em um instante, a igreja é substituída por uma paisagem estranha.::
+44177::$$$message_0392_0097_0000$$$::[font italic=true]...[font italic=false][lr]::
+44178::$$$message_0392_0097_0001$$$::Minha dor de cabeça domina meus pensamentos.::
+44179::$$$message_0392_0098_0000$$$::...Eu consigo entender.[lr]::
+44180::$$$message_0392_0098_0001$$$::Consigo entender esta Magia... este cenário bizarro.[lr]::
+44181::$$$message_0392_0098_0002$$$::Não deveria ser possível eu entender, mas consigo decifrar naturalmente o que acontece diante dos meus olhos.[lr]::
+44182::$$$message_0392_0098_0003$$$::E esse fato...[lr]::
+44183::$$$message_0392_0098_0004$$$::Esse fato machuca minha cabeça mais que qualquer coisa.::
+44184::$$$message_0392_0099_0000$$$::Resumindo em uma palavra, isto é uma forja.[lr]::
+44185::$$$message_0392_0099_0001$$$::Chamas ardentes e engrenagens girando no céu.[lr]::
+44186::$$$message_0392_0099_0002$$$::Espadas sem donos estão espalhadas por esta terra devastada.[lr]::
+44187::$$$message_0392_0099_0003$$$::Cada lâmina na paisagem é uma espada famosa.[lr]::
+44188::$$$message_0392_0099_0004$$$::Até Kanshou e Bakuya, que ele usa, foram forjadas a partir deste mundo.::
+44189::$$$message_0392_0100_0000$$$::Uma Projeção de armas aparentemente infinita.[lr]::
+44190::$$$message_0392_0100_0001$$$::As incontáveis armas fazem este lugar parecer um ferro-velho.[lr]::
+44191::$$$message_0392_0100_0002$$$::E, no meio deste reino arruinado, está o cavaleiro vermelho.::
+44192::$$$message_0392_0101_0000$$$::"O que é... isto?"[lr]::
+44193::$$$message_0392_0101_0001$$$::Há confusão evidente na voz de Saber.[lr]::
+44194::$$$message_0392_0101_0002$$$::De pé nas chamas fantasmas e frias, ela observa o cavaleiro vermelho, perplexa.::
+44195::$$$message_0392_0102_0000$$$::"...Projeção de Realidade.[lr]::
+44196::$$$message_0392_0102_0001$$$::Uma magia proibida que corrói o mundo ao materializar sobre ele a paisagem mental de alguém.[lr]::
+44197::$$$message_0392_0102_0002$$$::Isso significa que você não era apenas nem espadachim nem arqueiro."::
+44198::$$$message_0392_0103_0000$$$::"Sim. Eu era um mago antes de me tornar um Espírito Heroico, quando ainda estava vivo."[lr]::
+44199::$$$message_0392_0103_0001$$$::Tohsaka fala calmamente.[lr]::
+44200::$$$message_0392_0103_0002$$$::Isso significa... que ela já sabia?[lr]::
+44201::$$$message_0392_0103_0003$$$::Talvez ela já tenha discernido a identidade de Archer?::
+44202::$$$message_0392_0104_0000$$$::"...Então, Archer, seu Fantasma Nobre é[line2]"::
+44203::$$$message_0392_0105_0000$$$::"Não tenho nada desse tipo.[lr]::
+44204::$$$message_0392_0105_0001$$$::Isso porque nunca possuí espadas sagradas ou amaldiçoadas. Este mundo é a única coisa que tenho.[lr]::
+44205::$$$message_0392_0105_0002$$$::Se um Fantasma Nobre representa a essência de um Espírito Heroico, então esta Magia, esta Projeção de Realidade, é meu verdadeiro Fantasma Nobre.[lr]::
+44206::$$$message_0392_0105_0003$$$::Desde que se enquadre como arma, posso replicá-la e armazená-la neste mundo apenas olhando para o original. Essa é minha habilidade como Espírito Heroico."::
+44207::$$$message_0392_0106_0000$$$::[font italic=true]...[font italic=false][lr]::
+44208::$$$message_0392_0106_0001$$$::Saber não consegue acreditar no que ouviu.[lr]::
+44209::$$$message_0392_0106_0002$$$::Ela olha ao redor, perplexa, vendo apenas espadas nesta terra devastada, espadas que parecem lápides sem nome.[lr]::
+44210::$$$message_0392_0106_0003$$$::Este lugar cheio de terra arrasada e ferro, coberto por um céu cinzento e solitário.::
+44211::$$$message_0392_0107_0000$$$::"Está me dizendo... que este é o seu mundo, Archer?"[lr]::
+44212::$$$message_0392_0107_0001$$$::"De fato. Gostaria de testar, Saber?[lr]::
+44213::$$$message_0392_0107_0002$$$::Vou replicar sua espada sagrada em detalhes absolutos."::
+44214::$$$message_0392_0108_0000$$$::"Minha espada sagrada...? Está dizendo que sabe o que ela é, Archer?"[lr]::
+44215::$$$message_0392_0108_0001$$$::"Claro. Talvez eu não consiga replicar perfeitamente uma espada como essa, mas posso criar uma que chegue perto da verdadeira.[lr]::
+44216::$$$message_0392_0108_0002$$$::O que acontecerá então? Quando duas espadas sagradas se chocarem, acha que as pessoas ao redor viverão para contar a história?"::
+44217::$$$message_0392_0109_0000$$$::"Você...! Archer, como pôde!?"[lr]::
+44218::$$$message_0392_0109_0001$$$::"Agora entendeu. Então não saia balançando essa espada por aí, Saber. Se liberar seu poder, não terei escolha além de confrontá-la.[lr]::
+44219::$$$message_0392_0109_0002$$$::Se isso acontecer, não seremos nós que pereceremos, mas as pessoas ao nosso redor.[lr]::
+44220::$$$message_0392_0109_0003$$$::...Conhecendo você, sacrificaria a si mesma para proteger aquele garoto. Eu provavelmente não sobreviveria depois de Projetar uma espada sagrada.[lr]::
+44221::$$$message_0392_0109_0004$$$::Isso significa que apenas uma única pessoa, Emiya Shirou, sobreviveria. Então tudo teria sido em vão."::
+44222::$$$message_0392_0110_0000$$$::Archer ergue o braço esquerdo.[lr]::
+44223::$$$message_0392_0110_0001$$$::Ao sinal, espadas começam a levitar atrás dele.::
+44224::$$$message_0392_0111_0000$$$::"...Não resista.[lr]::
+44225::$$$message_0392_0111_0001$$$::Se tiver sorte, não morrerá. Basta pedir à sua Mestra que a cure depois que meus assuntos aqui terminarem."[lr]::
+44226::$$$message_0392_0111_0002$$$::O dedo de Archer aponta para Saber.[lr]::
+44227::$$$message_0392_0111_0003$$$::Incontáveis espadas se viram e apontam para Saber.[lr]::
+44228::$$$message_0392_0111_0004$$$::Cada uma daquelas espadas é capaz de desferir um golpe mortal.::
+44229::$$$message_0392_0112_0000$$$::"...Fique à vontade para desviar se quiser. Mas saiba que o homem atrás de você não terá a mesma sorte."[lr]::
+44230::$$$message_0392_0112_0001$$$::Ele dá sua ordem às espadas.::
 44231::$$$message_0392_0113_0000$$$::"......!"[lr]::
-44232::$$$message_0392_0113_0001$$$::As númeras espadas são atiradas.[lr]::
-44233::$$$message_0392_0113_0002$$$::A Saber não se move.[lr]::
-44234::$$$message_0392_0113_0003$$$::Ela confronta elas, com a intenção de repelir todas as armas usando sua espada, preparada até pra morte dela[line4]::
-44235::$$$message_0392_0114_0000$$$::"[line5]Trace, on."[lr]::
-44236::$$$message_0392_0114_0001$$$::Eu não consigo pensar por causa da minha cabeça.[lr]::
-44237::$$$message_0392_0114_0002$$$::Meu circuito mágico só consegue aguentar mais uma projeção.[lr]::
-44238::$$$message_0392_0114_0003$$$::Meu interior está queimado e quase derretido.[lr]::
-44239::$$$message_0392_0114_0004$$$::Mas preocupações assim sumiram quando eu vi esse mundo.[lr]::
-44240::$$$message_0392_0114_0005$$$::Antes de eu perceber, eu pulei, corri até a Saber, e estou encarando as espadas irritantes.::
-44241::$$$message_0392_0115_0000$$$::"Shirou!? Não, rápido[line4]"::
-44242::$$$message_0392_0116_0000$$$::Eu não ligo.[lr]::
-44243::$$$message_0392_0116_0001$$$::Por agora, as 18 espadas. Análise de todas elas não pode ser completada só com meus olhos, então meus sentidos enlouquecem e...[lr]::
-44244::$$$message_0392_0116_0002$$$::Vão além a velocidade mais rápida, vai mais rápido e rápido e rápido...::
-44245::$$$message_0392_0117_0000$$$::Eles se aproximam.[lr]::
-44246::$$$message_0392_0117_0001$$$::Algo como um martelo desce na minha cabeça.::
-44247::$$$message_0392_0118_0000$$$::"Não[line4]"[lr]::
-44248::$$$message_0392_0118_0001$$$::Eu estico meu braço esquerdo.[lr]::
-44249::$$$message_0392_0118_0002$$$::Eu não tenho dúvidas.[lr]::
-44250::$$$message_0392_0118_0003$$$::Eu copiei ele tantas vezes.[lr]::
-44251::$$$message_0392_0118_0004$$$::Se não há nada errado com a teoria...[lr]::
-44252::$$$message_0392_0118_0005$$$::"[line3]Seja ridículo, droga...[line4]!!!!"[lr]::
-44253::$$$message_0392_0118_0006$$$::...Não tem como eu reproduzir a chuva de espadas na minha frente[line4]!::
-44254::$$$message_0392_0119_0000$$$::...Peças quebradas voam.[lr]::
-44255::$$$message_0392_0119_0001$$$::Quando eu abro meus olhos, a Projeção de Realidade dele desapareceu.[lr]::
-44256::$$$message_0392_0119_0002$$$::As únicas que existem são os pedaços quebrados de espadas e...[lr]::
-44257::$$$message_0392_0119_0003$$$::"Haa[line4]ah[line4], ah, ha[line4]!"[lr]::
-44258::$$$message_0392_0119_0004$$$::...Uma náusea infernal como se meus órgãos tivessem vindo a minha garganta.::
-44259::$$$message_0392_0120_0000$$$::"[line8]"[lr]::
-44260::$$$message_0392_0120_0001$$$::Depois de me encarar enojado...[lr]::
-44261::$$$message_0392_0120_0002$$$::"Ei[line3]Archer, você[line4]!?"[lr]::
-44262::$$$message_0392_0120_0003$$$::Ele tira a Tohsaka da gaiola de espadas e restringe ela.::
-44263::$$$message_0392_0121_0000$$$::"......! ............!"[lr]::
-44264::$$$message_0392_0121_0001$$$::A Tohsaka se contorce pra tentar escapar do Archer.[lr]::
-44265::$$$message_0392_0121_0002$$$::"Ah[line4]huh......?"[lr]::
-44266::$$$message_0392_0121_0003$$$::O que ele fez? O Archer coloca a mão dele no pescoço da Tohsaka e deixa ela inconsciente.::
-44267::$$$message_0392_0122_0000$$$::...E ele deixa o templo.[lr]::
-44268::$$$message_0392_0122_0001$$$::Com a Tohsaka em seus braços, o Archer pula pelas escadas que sobem.::
-44269::$$$message_0392_0123_0000$$$::"...Onde você vai, Archer?"[lr]::
-44270::$$$message_0392_0123_0001$$$::"Para um lugar onde não haverão intrusos.[lr]::
-44271::$$$message_0392_0123_0002$$$::Eu esgotei minha energia mágica também. Eu não tenho poder o suficiente pra derrotar vocês dois."::
-44272::$$$message_0392_0124_0000$$$::"[line4]Você está levando a Rin como refém?"[lr]::
-44273::$$$message_0392_0124_0001$$$::"Não, ela é uma troca. Enquanto eu tiver ela, aquele garoto vai vir me derrotar.[lr]::
-44274::$$$message_0392_0124_0002$$$::Mas mais importante, a Rin é sua mestra agora. Mesmo que você queira proteger aquele garoto, você não deve conseguir pôr sua vida acima do seu mestre."::
-44275::$$$message_0392_0125_0000$$$::"[line8]"[lr]::
-44276::$$$message_0392_0125_0001$$$::Eu aguento minha náusea.[lr]::
-44277::$$$message_0392_0125_0002$$$::Eu tensiono minha mente e ouço o que ele quer dizer.[lr]::
-44278::$$$message_0392_0125_0003$$$::"[line4]A... periferia."[lr]::
-44279::$$$message_0392_0125_0004$$$::E.[lr]::
-44280::$$$message_0392_0125_0005$$$::Eu digo com uma garganta tremendo, incapaz de olhar pra cima.::
+44232::$$$message_0392_0113_0001$$$::A quantidade infinita de espadas inicia seu ataque.[lr]::
+44233::$$$message_0392_0113_0002$$$::Saber não pode se dar ao luxo de se mover um único centímetro do lugar.[lr]::
+44234::$$$message_0392_0113_0003$$$::Sabendo que um único erro poderia ser fatal, Saber segura firme a espada na mão e derruba cada espada que chove sobre ela.::
+44235::$$$message_0392_0114_0000$$$::"...Trace, on."[lr]::
+44236::$$$message_0392_0114_0001$$$::Minha dor de cabeça está roubando minha capacidade de pensar.[lr]::
+44237::$$$message_0392_0114_0002$$$::Meus Circuitos Mágicos só aguentarão mais uma tentativa.[lr]::
+44238::$$$message_0392_0114_0003$$$::Meu interior devastado está queimado além do reconhecimento e à beira de derreter.[lr]::
+44239::$$$message_0392_0114_0004$$$::Mas tudo isso deixou de importar no momento em que vi o mundo dele. [lr]::
+44240::$$$message_0392_0114_0005$$$::Quando percebo, estou concentrando minha força e correndo para o lado de Saber, fixando os olhos naquelas espadas irritantes.::
+44241::$$$message_0392_0115_0000$$$::"Shirou!? Você não pode ficar aqui, recue!"::
+44242::$$$message_0392_0116_0000$$$::E daí?[lr]::
+44243::$$$message_0392_0116_0001$$$::Se meus olhos não conseguem acompanhar a enxurrada de espadas, então o que preciso fazer agora é deixar meus sentidos assumirem e analisá-las.[lr]::
+44244::$$$message_0392_0116_0002$$$::Mesmo que minha cabeça não consiga processar mais rápido, ainda vou forçá-la além do limite.::
+44245::$$$message_0392_0117_0000$$$::A próxima onda de espadas se aproxima.[lr]::
+44246::$$$message_0392_0117_0001$$$::Parece que o cão de uma arma bate na parte de trás da minha cabeça.::
+44247::$$$message_0392_0118_0000$$$::"Não[line2]"[lr]::
+44248::$$$message_0392_0118_0001$$$::Estendo meu braço esquerdo.[lr]::
+44249::$$$message_0392_0118_0002$$$::Não tenho um pingo de dúvida.[lr]::
+44250::$$$message_0392_0118_0003$$$::Copiei tantas até agora.[lr]::
+44251::$$$message_0392_0118_0004$$$::Se a lógica e o método por trás do que fiz estavam corretos,[lr]::
+44252::$$$message_0392_0118_0005$$$::"[line2]então me dá essa porcaria, seu desgraçado!!!"[lr]::
+44253::$$$message_0392_0118_0006$$$::então não há como eu não conseguir copiar a enxurrada de espadas diante de mim!::
+44254::$$$message_0392_0119_0000$$$::...Fragmentos se estilhaçam ao nosso redor.[lr]::
+44255::$$$message_0392_0119_0001$$$::Quando abro os olhos, a Projeção de Realidade dele, ou seja lá como se chama, desapareceu.[lr]::
+44256::$$$message_0392_0119_0002$$$::O que resta são os fragmentos de espadas espalhados e...[lr]::
+44257::$$$message_0392_0119_0003$$$::"Hah... hngh... ah... hah...!"[lr]::
+44258::$$$message_0392_0119_0004$$$::Uma sensação infernal de náusea que me faz engasgar como se eu fosse vomitar meus próprios órgãos.::
+44259::$$$message_0392_0120_0000$$$::[font italic=true]...[font italic=false][lr]::
+44260::$$$message_0392_0120_0001$$$::Ele me encara com animosidade.[lr]::
+44261::$$$message_0392_0120_0002$$$::"Espera... O que pensa que está fazendo!? Archer!"[lr]::
+44262::$$$message_0392_0120_0003$$$::Archer tirou Tohsaka da gaiola de espadas e a imobilizou.::
+44263::$$$message_0392_0121_0000$$$::"Ugh! Hmm! Nnnngh!"[lr]::
+44264::$$$message_0392_0121_0001$$$::Tohsaka move o corpo violentamente, tentando escapar do aperto de Archer.[lr]::
+44265::$$$message_0392_0121_0002$$$::"Ah... eh...?"[lr]::
+44266::$$$message_0392_0121_0003$$$::Não sei o que ele fez, mas Archer colocou a mão na nuca de Tohsaka, e a consciência dela se apagou.::
+44267::$$$message_0392_0122_0000$$$::...Depois disso, ele decide deixar a igreja.[lr]::
+44268::$$$message_0392_0122_0001$$$::Ele leva Tohsaka nos braços enquanto salta pela escada que leva ao andar de cima.::
+44269::$$$message_0392_0123_0000$$$::"...Aonde pensa que vai, Archer?"[lr]::
+44270::$$$message_0392_0123_0001$$$::"Para um lugar onde ninguém interferirá.[lr]::
+44271::$$$message_0392_0123_0002$$$::Além disso, fiquei sem Energia Mágica. Não tenho força suficiente para acabar com aquele garoto enquanto você o protege."::
+44272::$$$message_0392_0124_0000$$$::"...Por que está levando Rin? Ela é sua refém?"[lr]::
+44273::$$$message_0392_0124_0001$$$::"Eu não colocaria nesses termos. Enquanto ela estiver comigo, aquele garoto não tem escolha a não ser me seguir.[lr]::
+44274::$$$message_0392_0124_0002$$$::Além disso, Rin agora é sua Mestra. Você pode ter aquele garoto em alta conta, mas a vida de sua Mestra é insubstituível."::
+44275::$$$message_0392_0125_0000$$$::[font italic=true]...[font italic=false][lr]::
+44276::$$$message_0392_0125_0001$$$::...Estou tentando lutar contra esta náusea.[lr]::
+44277::$$$message_0392_0125_0002$$$::Esforçando-me para não desmaiar, respondo ao absurdo dele.[lr]::
+44278::$$$message_0392_0125_0003$$$::"...Fora da cidade."[lr]::
+44279::$$$message_0392_0125_0004$$$::E então...[lr]::
+44280::$$$message_0392_0125_0005$$$::Exausto, digo isso sem sequer olhar para ele.::
 44281::$$$message_0392_0126_0000$$$::"O quê?"[lr]::
-44282::$$$message_0392_0126_0001$$$::"[line3]Eu disse a floresta na periferia da cidade. Tem um castelo vazio lá. A gente não vai causar problemas pra ninguém lá."[lr]::
+44282::$$$message_0392_0126_0001$$$::"...Eu disse, vá para a floresta fora da cidade. Há um castelo abandonado lá, e, se for lá, não incomodaremos ninguém."[lr]::
 44283::$$$message_0392_0126_0002$$$::"Shirou...!?"::
-44284::$$$message_0392_0127_0000$$$::"Você quer reclamar pra mim, certo? Tudo bem, eu vou ouvir.[lr]::
-44285::$$$message_0392_0127_0001$$$::Eu também tenho reclamações sobre você."[lr]::
-44286::$$$message_0392_0127_0002$$$::Minha visão pisca.[lr]::
-44287::$$$message_0392_0127_0003$$$::Mesmo enquanto eu falo, eu me sinto mal, como se em outra dimensão.::
-44288::$$$message_0392_0128_0000$$$::"A floresta fora da cidade... Entendo, o castelo Einzbern está lá.[lr]::
-44289::$$$message_0392_0128_0001$$$::Com certeza não haverão interrupções lá.[lr]::
-44290::$$$message_0392_0128_0002$$$::[line3]Hah, isso é uma boa determinação, Emiya Shirou."[lr]::
-44291::$$$message_0392_0128_0003$$$::"...Cala boca. Mas..."[lr]::
-44292::$$$message_0392_0128_0004$$$::Eu não quero ouvir coisas inúteis.[lr]::
-44293::$$$message_0392_0128_0005$$$::Se eu ouvir elas, eu não vou ser capaz de aguentar essa náusea e eu talvez vomite meus órgãos.::
-44294::$$$message_0392_0129_0000$$$::"[line3]Faça algo com a Tohsaka antes disso.[lr]::
-44295::$$$message_0392_0129_0001$$$::E eu vou te matar com a Saber com certeza."[lr]::
-44296::$$$message_0392_0129_0002$$$::Eu faço esse juramento.[lr]::
-44297::$$$message_0392_0129_0003$$$::Eu violentamente coço minha cabeça, rasgando a pele em um tentativa de silênciar minha dor de cabeça.::
-44298::$$$message_0392_0130_0000$$$::"Tudo bem. Eu vou garantir um dia de segurança em respeito a especificação do lugar.[lr]::
-44299::$$$message_0392_0130_0001$$$::[line3]Mas corre. Eu não tenho tempo, já que eu não tenho um mestre. Meu corpo não vai durar mais que dois dias.[lr]::
-44300::$$$message_0392_0130_0002$$$::Eu talvez mate meu refém por raiva se eu não conseguir te matar nesse tempo."::
-44301::$$$message_0392_0131_0000$$$::...Deixando uma risada irritante, o Archer desaparece.::
-44302::$$$message_0392_0132_0000$$$::"[line8]"[lr]::
-44303::$$$message_0392_0132_0001$$$::Eu caio no chão, incapaz de manter meus olhos nele.::
-44304::$$$message_0392_0133_0000$$$::"Shirou...! É muito cedo pra você usar a mesma projeção que o Archer...!"[lr]::
-44305::$$$message_0392_0133_0001$$$::Um braço vem e me apoia enquanto eu caio.::
-44306::$$$message_0392_0134_0000$$$::"......Me desculpa, Saber. Ele pegou a Tohsaka."[lr]::
-44307::$$$message_0392_0134_0001$$$::Eu suprimo minha dor de cabeça e fico de pé.::
-44308::$$$message_0392_0135_0000$$$::"Shirou... tudo bem. A Rin está segura. O Archer não deve fazer nada com a Rin.[lr]::
-44309::$$$message_0392_0135_0001$$$::Você não está mais em perigo. Você deve deixar a Rin comigo e descansar na sua casa."::
-44310::$$$message_0392_0136_0000$$$::"......Não. Eu não tenho tempo pra isso..."[lr]::
-44311::$$$message_0392_0136_0001$$$::Eu tento terminar, mas começo a desmaiar.[lr]::
+44284::$$$message_0392_0127_0000$$$::"Você tem algo que quer me dizer, certo? Tudo bem, vamos ouvir.[lr]::
+44285::$$$message_0392_0127_0001$$$::Eu também tenho coisas que quero dizer a você."[lr]::
+44286::$$$message_0392_0127_0002$$$::Minha consciência vai e volta.[lr]::
+44287::$$$message_0392_0127_0003$$$::Apesar da náusea terrível, consegui dizer isso a ele.::
+44288::$$$message_0392_0128_0000$$$::"A floresta fora da cidade... Entendo, o Castelo Einzbern.[lr]::
+44289::$$$message_0392_0128_0001$$$::De fato, ninguém interferiria conosco nesse castelo.[lr]::
+44290::$$$message_0392_0128_0002$$$::...Hmph, que determinação você tem, Emiya Shirou."[lr]::
+44291::$$$message_0392_0128_0003$$$::"...Cale a boca. Isso não importa."[lr]::
+44292::$$$message_0392_0128_0004$$$::Não quero ouvir seus elogios.[lr]::
+44293::$$$message_0392_0128_0005$$$::Se eu tiver que ouvir mais alguma coisa, minhas entranhas podem saltar para fora do corpo de tanta dor.::
+44294::$$$message_0392_0129_0000$$$::"...Eu o desafio a tentar tocar um dedo em Tohsaka.[lr]::
+44295::$$$message_0392_0129_0001$$$::Se fizer isso, vou matá-lo mesmo que tenha que pedir ajuda a Saber."[lr]::
+44296::$$$message_0392_0129_0002$$$::Uma dor aguda me ataca.[lr]::
+44297::$$$message_0392_0129_0003$$$::Eu o aviso com raiva e arranho minha cabeça para lutar contra a dor.::
+44298::$$$message_0392_0130_0000$$$::"Muito bem. Como recompensa pela localização, garantirei a segurança dela por um dia.[lr]::
+44299::$$$message_0392_0130_0001$$$::...Mas aconselho que se apresse. Não tenho muito tempo, já que não tenho mais um Mestre. Não durarei nem dois dias.[lr]::
+44300::$$$message_0392_0130_0002$$$::Se eu não conseguir matá-lo antes disso, quem sabe? Talvez mate a refém por ressentimento."::
+44301::$$$message_0392_0131_0000$$$::...Sua risada irritante permanece no meu ouvido enquanto ele vai embora.::
+44302::$$$message_0392_0132_0000$$$::[font italic=true]...[font italic=false][lr]::
+44303::$$$message_0392_0132_0001$$$::Caio de joelhos antes de conseguir vê-lo partir.::
+44304::$$$message_0392_0133_0000$$$::"Shirou...! Não importa o quanto se force, mesmo com suas habilidades, é cedo demais para você executar uma Projeção no mesmo nível de Archer!"[lr]::
+44305::$$$message_0392_0133_0001$$$::Ela me segura enquanto eu caio.::
+44306::$$$message_0392_0134_0000$$$::"...Desculpa, Saber. Deixei que ele levasse Tohsaka."[lr]::
+44307::$$$message_0392_0134_0001$$$::Tento me levantar segurando a cabeça.::
+44308::$$$message_0392_0135_0000$$$::"Shirou... Não se preocupe com isso. Rin está bem. Não acho que Archer vá encostar nela.[lr]::
+44309::$$$message_0392_0135_0001$$$::O que realmente deve preocupar você é seu corpo. Deixe Rin comigo, você deve apenas voltar para casa e descansar."::
+44310::$$$message_0392_0136_0000$$$::"...Não, não temos tempo... para..."[lr]::
+44311::$$$message_0392_0136_0001$$$::Sinto que vou desmaiar enquanto tento terminar a frase.[lr]::
 44312::$$$message_0392_0136_0002$$$::...Droga.[lr]::
-44313::$$$message_0392_0136_0003$$$::Eu não consigo nem reclamar, huh?::
-44314::$$$message_0392_0137_0000$$$::"Eu irei te ouvir mais tarde. Eu irei te levar para sua casa por agora. Tudo bem, certo?"[lr]::
-44315::$$$message_0392_0137_0001$$$::"[line4]Ei[line4]per-"[lr]::
-44316::$$$message_0392_0137_0002$$$::...Eu não consigo nem contestar.[lr]::
-44317::$$$message_0392_0137_0003$$$::A Saber me apoia e começa a andar até as escadas.::
-
+44313::$$$message_0392_0136_0003$$$::Não acredito nisso. Parece que nem tenho força sobrando para formar palavras.::
+44314::$$$message_0392_0137_0000$$$::"Vou ouvi-lo depois. Agora, preciso levá-lo de volta para sua casa. Suponho que não tenha problema com isso, certo, Shirou?"[lr]::
+44315::$$$message_0392_0137_0001$$$::"...Espera, o que você[line2]"[lr]::
+44316::$$$message_0392_0137_0002$$$::...Nem tenho tempo de responder.[lr]::
+44317::$$$message_0392_0137_0003$$$::Saber me oferece o ombro enquanto caminhamos até a escada.::

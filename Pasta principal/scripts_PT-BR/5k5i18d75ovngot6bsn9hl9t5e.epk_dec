@@ -1,59 +1,58 @@
 DAT
 id=qid::label=str::text=lstr::
-46372::$$$message_0410_0000_0000$$$::O céu ainda está cinza.[lr]::
-46373::$$$message_0410_0000_0001$$$::Nós saímos da agora vazia igreja.::
-46374::$$$message_0410_0001_0000$$$::"Ah. Então vocês estão prontos, huh?"[lr]::
-46375::$$$message_0410_0001_0001$$$::...Então.[lr]::
-46376::$$$message_0410_0001_0002$$$::Eu vejo um lanceiro familiar na minha frente.::
-46377::$$$message_0410_0002_0000$$$::"[line6]!"[lr]::
-46378::$$$message_0410_0002_0001$$$::A Saber encara ele enquanto me apoia.[lr]::
-46379::$$$message_0410_0002_0002$$$::Ela tá tão tensa que ela talvez corte ele se ele der mais um passo.::
-46380::$$$message_0410_0003_0000$$$::"...Não, você tá enganada, Saber. Ele nos ajudou."[lr]::
-46381::$$$message_0410_0003_0001$$$::"Huh...? O Lancer lhe ajudou, Shirou?"::
-46382::$$$message_0410_0004_0000$$$::"...Sim. ...Não luta com ele agora se possível."[lr]::
-46383::$$$message_0410_0004_0001$$$::A Saber encara o Lancer em choque.[lr]::
-46384::$$$message_0410_0004_0002$$$::...Parece que ele tá gostando da reação da Saber.::
-46385::$$$message_0410_0005_0000$$$::"Eu entendo,... mas por que, Lancer? Você tá conspirando?"::
-46386::$$$message_0410_0006_0000$$$::"Huh? Ah, você é idiota? É óbvio que eu tô conspirando. Eu não vou ajudar alguém a não ser que eu esteja planejando algo secretamente."::
+46372::$$$message_0410_0000_0000$$$::O céu ainda está cinzento.[lr]::
+46373::$$$message_0410_0000_0001$$$::Deixamos a igreja, agora deserta.::
+46374::$$$message_0410_0001_0000$$$::"Oh. Então terminou seus assuntos, garoto?"[lr]::
+46375::$$$message_0410_0001_0001$$$::...Ali.[lr]::
+46376::$$$message_0410_0001_0002$$$::Na clareira diante de nós está o lanceiro familiar.::
+46377::$$$message_0410_0002_0000$$$::"...!"[lr]::
+46378::$$$message_0410_0002_0001$$$::Saber o encara enquanto me apoia.[lr]::
+46379::$$$message_0410_0002_0002$$$::Ela está tão tensa que o cortaria sem hesitar se ele desse mais um passo.::
+46380::$$$message_0410_0003_0000$$$::"...Não, você está enganada, Saber. Ele nos ajudou."[lr]::
+46381::$$$message_0410_0003_0001$$$::"Huh...? Quer dizer que Lancer cooperou com você, Shirou?"::
+46382::$$$message_0410_0004_0000$$$::"...Sim, isso mesmo. Se puder, por favor, não lute com ele."[lr]::
+46383::$$$message_0410_0004_0001$$$::Saber encara Lancer em espanto.[lr]::
+46384::$$$message_0410_0004_0002$$$::...Parece que ele está aproveitando completamente a reação de Saber.::
+46385::$$$message_0410_0005_0000$$$::"Entendo, mas... por quê, Lancer? Cooperar com Shirou e Rin faz parte de algum plano?"::
+46386::$$$message_0410_0006_0000$$$::"Huh? Ah, você é burra? Claro que faz. Eu não ajudo ninguém se não estiver tramando alguma coisa em segredo."::
 46387::$$$message_0410_0007_0000$$$::"...Ha."[lr]::
-46388::$$$message_0410_0007_0001$$$::Eu sabia que ele era esse tipo de pessoa, mas ele é honesto enquanto ele brinca com a cara da Saber.::
-46389::$$$message_0410_0008_0000$$$::"Hm. O que é tão engraçado, Shirou?"[lr]::
-46390::$$$message_0410_0008_0001$$$::"Eh...? Eu tava rindo...?"::
-46391::$$$message_0410_0009_0000$$$::"Sim, estava. Eu acredito que estava errada. Aparentemente não há necessidade de te apoiar se você está bem o suficiente para rir."[lr]::
-46392::$$$message_0410_0009_0001$$$::A Saber tá brava.[lr]::
-46393::$$$message_0410_0010_0000$$$::A Saber ainda é a mesma.[lr]::
-46394::$$$message_0410_0010_0001$$$::A nossa conexão foi perdida, mas ela tá aqui assim como antes.[lr]::
-46395::$$$message_0410_0010_0002$$$::Então[line4]o que há para se arrepender?::
-46396::$$$message_0410_0011_0000$$$::"...Desculpa. Eu acho que deixei minha guarda cair. Agora não é a hora, certo?"::
-46397::$$$message_0410_0012_0000$$$::"[line3]Não. Nós deveríamos descansar por agora mesmo que precisemos resgatar a Rin. ...Lancer, eu não sei qual a sua intenção, mas seu trabalho deve ter acabado. Saia agora. Eu não vou lhe enfrentar aqui."[lr]::
-46398::$$$message_0410_0012_0001$$$::Com isso, a Saber desce até a clareira.::
-46399::$$$message_0410_0013_0000$$$::"......? Ei, tudo foi bem[line3]ou eu acho que não. O que aconteceu, garoto?"[lr]::
-46400::$$$message_0410_0013_0001$$$::"O Archer levou a Tohsaka. A gente vai ir resgatar ela."[lr]::
-46401::$$$message_0410_0013_0002$$$::Suprimindo minha tontura, eu encaro e respondo ele.::
-46402::$$$message_0410_0014_0000$$$::"...O quê? Calma, o que tá acontecendo?"[lr]::
-46403::$$$message_0410_0014_0001$$$::"[line8]"[lr]::
-46404::$$$message_0410_0014_0002$$$::...Me desculpa, mas eu não tenho energia sobrando.[lr]::
-46405::$$$message_0410_0014_0003$$$::Eu não sou capaz de contar uma história tão longa, eu devia ir pra casa [r]e[line4]::
-46406::$$$message_0410_0015_0000$$$::"O objetivo do Archer é matar o Shirou. Ele abduziu minha Mestra, Rin, e pediu uma luta um a um com o Shirou se quisermos ela de volta.[lr]::
-46407::$$$message_0410_0015_0001$$$::A vida dela não é garantida a não ser que nós encontremos ele em menos de um dia."::
-46408::$$$message_0410_0016_0000$$$::......Bom.[lr]::
-46409::$$$message_0410_0016_0001$$$::Me ajuda bastante se você der a explicação, mas não ajuda explicar a situação pro Lancer.::
-46410::$$$message_0410_0017_0000$$$::"[line4]Droga, ele realmente se superou dessa vez."[lr]::
+46388::$$$message_0410_0007_0001$$$::Eu sabia que ele era esse tipo de cara, mas ele é meticuloso até ao zombar de Saber.::
+46389::$$$message_0410_0008_0000$$$::"Mrgh. O que há de tão engraçado, Shirou?"[lr]::
+46390::$$$message_0410_0008_0001$$$::"Huh...? Eu estava rindo...?"::
+46391::$$$message_0410_0009_0000$$$::"Sim, estava. Suponho que eu estivesse enganada. Parece que não preciso apoiá-lo se está bem o bastante para rir."[lr]::
+46392::$$$message_0410_0009_0001$$$::...É ruim, mas isso me deixou um pouco aliviado.::
+46393::$$$message_0410_0010_0000$$$::Saber é a mesma de antes.[lr]::
+46394::$$$message_0410_0010_0001$$$::Nossa conexão se foi, mas ela está aqui exatamente como antes.[lr]::
+46395::$$$message_0410_0010_0002$$$::Então... do que há para me arrepender?::
+46396::$$$message_0410_0011_0000$$$::"...Foi mal, acho que baixei a guarda. Agora não é hora, né?"::
+46397::$$$message_0410_0012_0000$$$::"...Sim. Devemos descansar por enquanto, mesmo que precisemos trazer Rin de volta... Lancer, não sei qual é seu objetivo, mas seus assuntos devem estar concluídos. Então vá embora. Não lutarei com você agora."[lr]::
+46398::$$$message_0410_0012_0001$$$::Ela declara de modo digno e desce até a clareira.::
+46399::$$$message_0410_0013_0000$$$::"...Huh? Ei, deu tudo certo... ou acho que não. O que aconteceu, garoto?"[lr]::
+46400::$$$message_0410_0013_0001$$$::"Archer levou Tohsaka. Só vamos trazê-la de volta."[lr]::
+46401::$$$message_0410_0013_0002$$$::Suporto a tontura e respondo olhando nos olhos de Lancer.::
+46402::$$$message_0410_0014_0000$$$::"...O quê? Espera aí, o que está acontecendo?"[lr]::
+46403::$$$message_0410_0014_0001$$$::[font italic=true]...[font italic=false][lr]::
+46404::$$$message_0410_0014_0002$$$::...Desculpa, mas não tenho energia sobrando.[lr]::
+46405::$$$message_0410_0014_0003$$$::Não consigo dar uma explicação tão longa, então eu deveria ir para casa e...::
+46406::$$$message_0410_0015_0000$$$::"O objetivo de Archer é matar Shirou. Para isso, ele raptou minha Mestra, Rin, e exigiu um duelo com Shirou em troca.[lr]::
+46407::$$$message_0410_0015_0001$$$::A segurança dela não será garantida se não formos até ele em um dia."::
+46408::$$$message_0410_0016_0000$$$::...Bem.[lr]::
+46409::$$$message_0410_0016_0001$$$::Foi útil você explicar por mim, mas não há motivo para contar isso a Lancer, Saber.::
+46410::$$$message_0410_0017_0000$$$::"...Droga, ele realmente fez isso desta vez."[lr]::
 46411::$$$message_0410_0017_0001$$$::...Então.[lr]::
-46412::$$$message_0410_0017_0002$$$::Ele tira a cara amigável do rosto e range os dentes.::
+46412::$$$message_0410_0017_0002$$$::Ele tira do rosto a expressão amigável e range os dentes.::
 46413::$$$message_0410_0018_0000$$$::"...Lancer?"[lr]::
-46414::$$$message_0410_0018_0001$$$::"Então, o quê? Ele traiu aquela jovem dama não uma, mas duas vezes?"[lr]::
-46415::$$$message_0410_0018_0002$$$::"Uh... sim, esse seria o caso. Que que tem...?"::
-46416::$$$message_0410_0019_0000$$$::"[line3]Agora não é a hora pra isso. ...Droga, eu mudei de ideia.[lr]::
-46417::$$$message_0410_0019_0001$$$::Isso era a única ajuda que eu ia oferecer, mas deixa eu te ajudar mais um pouco. Eu não vou conseguir ficar em paz desse jeito."[lr]::
-46418::$$$message_0410_0019_0002$$$::Tendo dito isso, o Lancer começa a caminhar.::
-46419::$$$message_0410_0020_0000$$$::"[line8]"[lr]::
-46420::$$$message_0410_0020_0001$$$::A Saber assiste o Lancer silenciosamente.[lr]::
-46421::$$$message_0410_0020_0002$$$::...Eu entendo como ele se sente.[lr]::
-46422::$$$message_0410_0020_0003$$$::Ele tá dizendo que vai vir com a gente.::
-46423::$$$message_0410_0021_0000$$$::"...Eu gostaria de perguntar. Que tipo de magia vocês dois fizeram para trazer ele para o nosso lado?"::
-46424::$$$message_0410_0022_0000$$$::A Saber soa mais chocada do que maravilhada.[lr]::
-46425::$$$message_0410_0022_0001$$$::Infelizmente, eu não tenho energia pra responder, já que minhas feridas tão começando a doer de novo.::
-46426::$$$message_0410_0022_0002$$$::...Não, acima de tudo...[lr]::
-46427::$$$message_0410_0022_0003$$$::Sou eu quem quer perguntar isso.::
-
+46414::$$$message_0410_0018_0001$$$::"Então, o quê? Ele traiu a mocinha dele não uma, mas duas vezes?"[lr]::
+46415::$$$message_0410_0018_0002$$$::"Uh... sim, esse seria o caso. E daí...?"::
+46416::$$$message_0410_0019_0000$$$::"...Não me venha com 'e daí'... droga, mudei de ideia.[lr]::
+46417::$$$message_0410_0019_0001$$$::Essa era a única ajuda que eu pretendia oferecer, mas vou ajudar vocês por mais um pouco. Não vou conseguir ficar em paz desse jeito."[lr]::
+46418::$$$message_0410_0019_0002$$$::Lancer cospe as palavras e começa a andar.::
+46419::$$$message_0410_0020_0000$$$::[font italic=true]...[font italic=false][lr]::
+46420::$$$message_0410_0020_0001$$$::Saber encara Lancer em silêncio.[lr]::
+46421::$$$message_0410_0020_0002$$$::...Entendo como ela se sente.[lr]::
+46422::$$$message_0410_0020_0003$$$::As costas de Lancer pareciam nos dizer que ele viria conosco.::
+46423::$$$message_0410_0021_0000$$$::"...Estou perturbada. Que tipo de Magia você e Rin usaram para colocá-lo do nosso lado?"::
+46424::$$$message_0410_0022_0000$$$::A voz de Saber soa mais chocada que admirada.[lr]::
+46425::$$$message_0410_0022_0001$$$::Mas, infelizmente, não tenho energia para responder, e meus ferimentos estão começando a doer de novo.::
+46426::$$$message_0410_0022_0002$$$::...Não, antes de tudo...[lr]::
+46427::$$$message_0410_0022_0003$$$::Sou eu quem quer fazer essa pergunta.::

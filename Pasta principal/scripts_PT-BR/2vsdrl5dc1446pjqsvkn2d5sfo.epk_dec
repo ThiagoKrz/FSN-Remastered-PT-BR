@@ -1,40 +1,39 @@
 DAT
 id=qid::label=str::text=lstr::
-42548::$$$message_0373_0000_0000$$$::[line4]Eu vou procurar pela Tohsaka.[lr]::
-42549::$$$message_0373_0000_0001$$$::Ela me disse para abandonar essa guerra.[lr]::
-42550::$$$message_0373_0000_0002$$$::Já que eu vou ignorar o conselho dela e continuar lutando, tenho que fazer com que ela entenda uma coisa...[lr]::
-42551::$$$message_0373_0000_0003$$$::Eu não vou desistir, e a nossa cooperação ainda não terminou.[lr]::
-42552::$$$message_0373_0000_0004$$$::E também[line4]::
-42553::$$$message_0373_0001_0000$$$::Eu não posso deixá-la lutar sozinha.[lr]::
-42554::$$$message_0373_0001_0001$$$::Eu devo um favor enorme a ela.[lr]::
-42555::$$$message_0373_0001_0002$$$::Eu não posso parar de lutar até retribuir pelo o que ela fez por mim.::
-42556::$$$message_0373_0002_0000$$$::"...E ela sempre se atrapalha nos momentos mais importantes... Ela é tão desajeitada que não posso deixá-la por conta própria."[lr]::
-42557::$$$message_0373_0002_0001$$$::Eu coloco a minha bolsa de shinai sobre o ombro.[lr]::
-42558::$$$message_0373_0002_0002$$$::...Eu sei que a Tohsaka vai reclamar comigo e que não vou poder fazer muita coisa para ajudar.[lr]::
-42559::$$$message_0373_0002_0003$$$::Mas a minha mente não vai descansar até eu ver o rosto dela.::
-42560::$$$message_0373_0003_0000$$$::...Isso é apenas uma situação de "e se", mas...[lr]::
-42561::$$$message_0373_0003_0001$$$::Se ela se machucar quando estiver longe de mim, eu nem vou poder estar lá para ajudá-la[line3]::
-42562::$$$message_0373_0004_0000$$$::"[line5]Ufa."[lr]::
-42563::$$$message_0373_0004_0001$$$::Eu me sento num banco e descanso o meu corpo em chamas.[lr]::
+42548::$$$message_0373_0000_0000$$$::    Encontrar Tohsaka.[lr]::
+42549::$$$message_0373_0000_0001$$$::Ela me disse para me retirar agora.[lr]::
+42550::$$$message_0373_0000_0002$$$::Se vou me recusar e lutar, preciso avisá-la.[lr]::
+42551::$$$message_0373_0000_0003$$$::Que não vou me retirar por conta própria, e que ainda estamos cooperando.[lr]::
+42552::$$$message_0373_0000_0004$$$::E...::
+42553::$$$message_0373_0001_0000$$$::Não posso deixá-la lutar sozinha.[lr]::
+42554::$$$message_0373_0001_0001$$$::Devo muito a ela.[lr]::
+42555::$$$message_0373_0001_0002$$$::Não posso me afastar até retribuir isso.::
+42556::$$$message_0373_0002_0000$$$::"...E ela sempre acaba falhando no momento mais crucial... Ela é tão pouco confiável que não posso deixá-la sozinha."[lr]::
+42557::$$$message_0373_0002_0001$$$::Ajusto a bolsa no ombro.[lr]::
+42558::$$$message_0373_0002_0002$$$::...Sei que não vou ser de muita ajuda e que ela vai reclamar.[lr]::
+42559::$$$message_0373_0002_0003$$$::Mas não vou conseguir ficar tranquilo até ver o rosto da Tohsaka.::
+42560::$$$message_0373_0003_0000$$$::...É só uma hipótese, mas...[lr]::
+42561::$$$message_0373_0003_0001$$$::Se ela se machucar sem que eu saiba, nem sequer vou poder estar lá para ajudá-la...::
+42562::$$$message_0373_0004_0000$$$::"...Ufa."[lr]::
+42563::$$$message_0373_0004_0001$$$::Sento em um banco e descanso meu corpo em chamas.[lr]::
 42564::$$$message_0373_0004_0002$$$::Já passou de meio-dia.[lr]::
-42565::$$$message_0373_0004_0003$$$::Eu procurei por toda a cidade de Shinto, mas não tive nenhum sinal dela.::
-42566::$$$message_0373_0005_0000$$$::"...Que droga. Eu sabia que ia ser difícil, mas não esperava que não fosse encontrar nada."[lr]::
-42567::$$$message_0373_0005_0001$$$::No fundo, eu já sabia que não ia conseguir encontrar a Tohsaka.[lr]::
-42568::$$$message_0373_0005_0002$$$::Eu a procurei pela cidade na esperança de encontrá-la na sorte, mas não consegui achar nenhuma pista sobre ela.::
-42569::$$$message_0373_0006_0000$$$::"...Nenhum dos outros Mestres apareceu também... Talvez eles não tenham nenhum motivo para me atacar, já que perdi o meu Selo de Comando."[lr]::
-42570::$$$message_0373_0006_0001$$$::Eu dou um suspiro e me jogo para trás.::
-42571::$$$message_0373_0007_0000$$$::"[line8]"[lr]::
-42572::$$$message_0373_0007_0001$$$::Desse jeito, eu não vou chegar a lugar nenhum.[lr]::
-42573::$$$message_0373_0007_0002$$$::A Tohsaka não deixou nenhum rastro, e eu não consegui nem mesmo me usar como isca para atrair os outros Mestres.::
-42574::$$$message_0373_0008_0000$$$::...Eu estou me sentindo um pouco inseguro.[lr]::
-42575::$$$message_0373_0008_0001$$$::Talvez eu acabe não encontrando a Tohsaka, e talvez eu não possa fazer nada para salvar a Saber.[lr]::
-42576::$$$message_0373_0008_0002$$$::Pode ser que elas estejam em uma situação terrível assim que eu a encontrá-las[line4]::
-42577::$$$message_0373_0009_0000$$$::"[line4]Ainda é meio-dia. Eu não vou deixar isso acontecer tão fácil assim."[lr]::
-42578::$$$message_0373_0009_0001$$$::Eu me levanto.[lr]::
-42579::$$$message_0373_0009_0002$$$::Eu ignoro a dor pulsante em meu ombro e saio do parque.::
-42580::$$$message_0373_0010_0000$$$::Eu vou procurá-la mais uma vez.[lr]::
-42581::$$$message_0373_0010_0001$$$::Tenho certeza de que ela está aqui em Shinto.[lr]::
-42582::$$$message_0373_0010_0002$$$::É igual naquela noite.[lr]::
-42583::$$$message_0373_0010_0003$$$::Por algum motivo, eu tenho a sensação de que "ele" está por perto.[lr]::
-42584::$$$message_0373_0010_0004$$$::Não é nada tão ambíguo quanto uma premonição. É como se fosse uma certeza, uma convicção.::
-A
+42565::$$$message_0373_0004_0003$$$::Procurei por toda Shinto, mas não encontrei nada.::
+42566::$$$message_0373_0005_0000$$$::"...Droga. Eu sabia que não seria fácil, mas não achei que não encontraria nada."[lr]::
+42567::$$$message_0373_0005_0001$$$::Eu sabia desde o começo que não tinha como encontrar Tohsaka.[lr]::
+42568::$$$message_0373_0005_0002$$$::Testei minha sorte e vasculhei a cidade, mas não encontrei nem ela, nem vestígios dela.::
+42569::$$$message_0373_0006_0000$$$::"...Os outros Mestres também não estão aparecendo... Acho que nem precisam mais me atacar, agora que não tenho um Selo de Comando."[lr]::
+42570::$$$message_0373_0006_0001$$$::Respiro fundo e me encosto no banco.::
+42571::$$$message_0373_0007_0000$$$::[font italic=true]...[font italic=false][lr]::
+42572::$$$message_0373_0007_0001$$$::Não vou chegar a lugar nenhum desse jeito.[lr]::
+42573::$$$message_0373_0007_0002$$$::Tohsaka não é ingênua o bastante para dar as caras, e meu último recurso, usar a mim mesmo como isca para atrair outros Mestres, até agora não deu em nada.::
+42574::$$$message_0373_0008_0000$$$::...Fico um pouco inquieto.[lr]::
+42575::$$$message_0373_0008_0001$$$::Não consigo encontrar Tohsaka e não consigo salvar Saber.[lr]::
+42576::$$$message_0373_0008_0002$$$::Quando eu as encontrar, talvez elas já estejam em uma situação irreparável...::
+42577::$$$message_0373_0009_0000$$$::"...Ainda é meio-dia. Não vou deixar isso acontecer tão facilmente."[lr]::
+42578::$$$message_0373_0009_0001$$$::Levanto do banco.[lr]::
+42579::$$$message_0373_0009_0002$$$::Ignoro meu ombro esquerdo, que começa a esquentar de novo, e saio do parque.::
+42580::$$$message_0373_0010_0000$$$::Vou procurar mais uma vez desde o começo.[lr]::
+42581::$$$message_0373_0010_0001$$$::Não há dúvida de que ela está em Shinto.[lr]::
+42582::$$$message_0373_0010_0002$$$::É igual a ontem à noite.[lr]::
+42583::$$$message_0373_0010_0003$$$::Não sei por quê, mas sinto instintivamente que ela[line2]não, ele[line2]está por aqui.[lr]::
+42584::$$$message_0373_0010_0004$$$::Não é algo tão incerto quanto uma premonição, mas próximo de uma convicção.::

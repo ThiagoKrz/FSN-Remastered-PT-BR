@@ -1,28 +1,28 @@
 DAT
 id=qid::label=str::text=lstr::
 35719::$$$message_0294_0000_0000$$$::[line4]Então.[lr]::
-35720::$$$message_0294_0000_0001$$$::Essa é a sala de estar da casa da Tohsaka, o lugar onde Tohsaka Rin vive todo dia.::
+35720::$$$message_0294_0000_0001$$$::Essa é a sala de estar da casa Tohsaka, o lugar onde Tohsaka Rin vive todo dia.::
 35721::$$$message_0294_0001_0000$$$::"Me deixa ver seu braço."[lr]::
 35722::$$$message_0294_0001_0001$$$::Ela vai direto ao ponto.[lr]::
-35723::$$$message_0294_0001_0002$$$::"......Por favor."[lr]::
-35724::$$$message_0294_0001_0003$$$::Eu sento numa cadeira e mostro pra ela meu braço direito.::
-35725::$$$message_0294_0002_0000$$$::Ela tira a toalha que tá enrolada ao redor.[lr]::
-35726::$$$message_0294_0002_0001$$$::Eu acho que ela tá mais próxima de mim agora.[lr]::
-35727::$$$message_0294_0002_0002$$$::Eu não percebi isso antes, mas o cabelo preto dela é realmente bonito e faz meu coração bater mais rápido.::
-35728::$$$message_0294_0003_0000$$$::"...Huh? Isso é estranho. A ferida tá menor do que antes. Você tem algum amuleto de cura com você?"[lr]::
-35729::$$$message_0294_0003_0001$$$::"Huh[line4]não, i-isso não é verdade!"[lr]::
-35730::$$$message_0294_0003_0002$$$::"Sério? Mas sua ferida tá quase curada."[lr]::
-35731::$$$message_0294_0003_0003$$$::"Eu não falei nada sobre ela estar bonita[line3]huh? O que você falou, Tohsaka?"::
-35732::$$$message_0294_0004_0000$$$::"Eu disse que sua ferida tá quase curada. Eu só parei o sangramento, então ela não devia tar curada."::
-35733::$$$message_0294_0005_0000$$$::"Hm... Mas eu não sei nada sobre isso."[lr]::
-35734::$$$message_0294_0005_0001$$$::"...Sério? Bom, você é um amador, então não tem como você se curar. ...Então talvez tenha a ver com a habilidade da Saber..."::
-35735::$$$message_0294_0006_0000$$$::"O que a habilidade da Saber tem a ver com minha ferida se curando?"::
-35736::$$$message_0294_0007_0000$$$::"...Bom, isso é só um chute. Você talvez tenha feito um erro quando fez um contrato com a Saber, então o fluxo de poder pode ter sido revertido.[lr]::
-35737::$$$message_0294_0007_0001$$$::Eu não sei como você formou seu contrato, mas eu ouvi que tem servos que fazem o contratuante imortal.[lr]::
+35723::$$$message_0294_0001_0002$$$::"Desculpa, estou em suas mãos..."[lr]::
+35724::$$$message_0294_0001_0003$$$::Sento numa cadeira e mostro pra ela meu braço direito.::
+35725::$$$message_0294_0002_0000$$$::Ela tira a toalha que está enrolada ao redor.[lr]::
+35726::$$$message_0294_0002_0001$$$::Acho que ela está mais próxima de mim agora.[lr]::
+35727::$$$message_0294_0002_0002$$$::Não percebi isso antes, mas o cabelo preto dela é realmente bonito e faz meu coração bater mais rápido.::
+35728::$$$message_0294_0003_0000$$$::"...Ué? Que estranho. A ferida está menor do que antes. Emiya-kun, você tem algum tipo de encantamento de autorregeneração?"[lr]::
+35729::$$$message_0294_0003_0001$$$::"Huh[line4]Não, definitivamente não tenho algo assim!"[lr]::
+35730::$$$message_0294_0003_0002$$$::"Sério? Mas olha só, sua ferida está quase curada."[lr]::
+35731::$$$message_0294_0003_0003$$$::"Não, e eu também não disse nada sobre você ser bonita[line3]O quê? O que você acabou de falar, Tohsaka?"::
+35732::$$$message_0294_0004_0000$$$::"Acabei de dizer que sua ferida está quase curada. Eu só parei o sangramento, então ela não devia estar desse jeito."::
+35733::$$$message_0294_0005_0000$$$::"Hm... Eu também não faço a menor ideia sobre isso."[lr]::
+35734::$$$message_0294_0005_0001$$$::"...Sério? Bom, você é um amador, então não teria como você ter um encantamento de autorregeneração. ...Talvez tenha a ver com uma habilidade da Saber..."::
+35735::$$$message_0294_0006_0000$$$::"Hm? O que a habilidade da Saber tem a ver com minha ferida se curando?"::
+35736::$$$message_0294_0007_0000$$$::"...Bom, isso é só um chute. Você talvez tenha cometido um erro quando fez um contrato com a Saber, então o fluxo de poder pode ter sido revertido.[lr]::
+35737::$$$message_0294_0007_0001$$$::Não sei como você formou seu contrato, mas eu ouvi que tem Servos que fazem o contratuante imortal.[lr]::
 35738::$$$message_0294_0007_0002$$$::Os poderes de autocura da Saber podem estar fluindo para você."::
 35739::$$$message_0294_0008_0000$$$::"...Hmm. Isso significa que minhas feridas vão curar enquanto nosso contrato existir?"::
-35740::$$$message_0294_0009_0000$$$::"...Bom, eu acho que sim. A Saber tá curando suas feridas, então isso significa que você tá usando a energia mágica da Saber.[lr]::
-35741::$$$message_0294_0009_0001$$$::E mais importante, isso é um poder de curar suas feridas, mas não te trazer de volta a vida. Vai tudo acabar se você morrer, então não faz algo descuidado de novo."::
+35740::$$$message_0294_0009_0000$$$::"...Bom, eu acho que sim. Mas você não pode depender disso. Basicamente, se a Saber está curando suas feridas, então isso significa que você está usando a energia mágica da Saber.[lr]::
+35741::$$$message_0294_0009_0001$$$::E mais importante, isso é um poder de curar suas feridas, mas não vai te trazer de volta à vida. Vai tudo acabar se você morrer, então não faz algo descuidado de novo."::
 35742::$$$message_0294_0010_0000$$$::...Ah.[lr]::
-35743::$$$message_0294_0010_0001$$$::Eu não sei quando ela terminou, mas o curativo tá enrolado e o tratamento pronto.[lr]::
-35744::$$$message_0294_0010_0002$$$::Ela toca meu braço e se levanta.::
+35743::$$$message_0294_0010_0001$$$::Não sei quando ela terminou, mas o curativo está enrolado e o tratamento pronto.[lr]::
+35744::$$$message_0294_0010_0002$$$::Ela dá um tapinha no meu braço e se levanta.::

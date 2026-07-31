@@ -72,8 +72,8 @@ id=qid::label=str::text=lstr::
 37714::$$$message_0325_0016_0002$$$::Não consigo mexer meus membros nem um centímetro, mesmo com um inimigo bem na minha frente.[lr]::
 37715::$$$message_0325_0016_0003$$$::...É, ela é uma inimiga.[lr]::
 37716::$$$message_0325_0016_0004$$$::Não tenho a menor dúvida nem hesitação.::
-37717::$$$message_0325_0017_0000$$$::Aquilo é uma Serva... O Espírito Heroico que mais se destaca em Magia entre os sete Servos...[lr]::
-37718::$$$message_0325_0017_0001$$$::"...A Serva da classe Caster...!"[lr]::
+37717::$$$message_0325_0017_0000$$$::Aquilo é um Servo... O Espírito Heroico que mais se destaca em Magia entre os sete Servos...[lr]::
+37718::$$$message_0325_0017_0001$$$::"...O Servo da classe Caster...!"[lr]::
 37719::$$$message_0325_0017_0002$$$::Movimento minha garganta congelada com toda a força que me resta e, de algum jeito, consigo encarar minha inimiga.::
 37720::$$$message_0325_0018_0000$$$::"Sim, isso mesmo, garoto. Contemple o meu templo. Eu dou as boas-vindas a você, Mestre da Saber."[lr]::
 37721::$$$message_0325_0018_0001$$$::A voz fria me provoca ao mesmo tempo.::
@@ -167,7 +167,7 @@ id=qid::label=str::text=lstr::
 37809::$$$message_0325_0044_0002$$$::Então você não sabia."[lr]::
 37810::$$$message_0325_0044_0003$$$::Os lábios da Caster se curvam num sorriso radiante.[lr]::
 37811::$$$message_0325_0044_0004$$$::Como se estivesse imaginando o jeito de cozinhar a presa que acabou de pegar.::
-37812::$$$message_0325_0045_0000$$$::"Então vou te contar. Eu, a Serva Caster, possuo o privilégio de criar um território.[lr]::
+37812::$$$message_0325_0045_0000$$$::"Então vou te contar. Eu, como Servo Caster, possuo o privilégio de criar um território.[lr]::
 37813::$$$message_0325_0045_0001$$$::Alguns magos têm uma oficina, certo? Falo de algo desse tipo.[lr]::
 37814::$$$message_0325_0045_0002$$$::Eu construí um templo nesse lugar para me proteger da laia de vocês.[lr]::
 37815::$$$message_0325_0045_0003$$$::Felizmente, este local é desfavorável para os Servos.[lr]::
@@ -212,4 +212,3 @@ id=qid::label=str::text=lstr::
 37854::$$$message_0325_0057_0003$$$::Meus membros não se mexem. Eu tô como um prisioneiro prestes a ser executado...::
 37855::$$$message_0325_0058_0000$$$::   Um sorriso sinistro.[lr]::
 37856::$$$message_0325_0058_0001$$$::Os dedos com brilho sinistro se aproximam lentamente da minha mão esquerda feito uma aranha peçonhenta...::
-

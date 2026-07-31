@@ -9,7 +9,7 @@ id=qid::label=str::text=lstr::
 34525::$$$message_0279_0001_0003$$$::Tem que haver algum tipo de reação se Kuzuki-sensei for um Mestre.::
 34526::$$$message_0279_0002_0000$$$::"Droga...!"[lr]::
 34527::$$$message_0279_0002_0001$$$::Tohsaka se move.[lr]::
-34528::$$$message_0279_0002_0002$$$::...Kuzuki não reage. O Gandr de Tohsaka atinge impiedosamente a cabeça de Souichirou Kuzuki[line2][lr]::
+34528::$$$message_0279_0002_0002$$$::...Kuzuki não reage. O Gandr de Tohsaka atinge impiedosamente a cabeça de Kuzuki Souichirou[line2][lr]::
 34529::$$$message_0279_0002_0003$$$::Mas é interrompido logo antes disso.[lr]::
 34530::$$$message_0279_0002_0004$$$::Um manto surge de repente no espaço entre eles.::
 34531::$$$message_0279_0003_0000$$$::"...Hmm."[lr]::
@@ -60,7 +60,7 @@ id=qid::label=str::text=lstr::
 34576::$$$message_0279_0016_0002$$$::Eu tenho que fazer algo antes de lutar.[lr]::
 34577::$$$message_0279_0016_0003$$$::Isso é...::
 34578::$$$message_0279_0017_0000$$$::"Tohsaka e Emiya, hein? Então vocês dois também são Mestres, como Matou? Embora sejam magos, o destino certamente ainda brinca com vocês."[lr]::
-34579::$$$message_0279_0017_0001$$$::...Confirmar a identidade de Souichirou Kuzuki, aquele que Caster está protegendo.::
+34579::$$$message_0279_0017_0001$$$::...Confirmar a identidade de Kuzuki Souichirou, aquele que Caster está protegendo.::
 34580::$$$message_0279_0018_0000$$$::"O que foi, Emiya? Tem algo a perguntar?"[lr]::
 34581::$$$message_0279_0018_0001$$$::Ele pergunta do jeito de sempre.[lr]::
 34582::$$$message_0279_0018_0002$$$::Não sinto a presença de um mago vindo de Kuzuki-sensei.[lr]::
@@ -96,20 +96,20 @@ id=qid::label=str::text=lstr::
 34612::$$$message_0279_0027_0001$$$::Nós só vamos derrotar Caster."[lr]::
 34613::$$$message_0279_0027_0002$$$::"Não. Esta é a primeira vez que ouço falar disso."::
 34614::$$$message_0279_0028_0000$$$::Sua declaração não deixa espaço para interpretação.[lr]::
-34615::$$$message_0279_0028_0001$$$::Ele também não parece estar mentindo. Souichirou Kuzuki é o mesmo de quando dá aula na escola.::
+34615::$$$message_0279_0028_0001$$$::Ele também não parece estar mentindo. Kuzuki Souichirou é o mesmo de quando dá aula na escola.::
 34616::$$$message_0279_0029_0000$$$::"...Ufa."[lr]::
 34617::$$$message_0279_0029_0001$$$::Embora aliviado, continuo em guarda contra Caster.[lr]::
 34618::$$$message_0279_0029_0002$$$::Kuzuki-sensei também é uma vítima se estiver sendo manipulado.[lr]::
 34619::$$$message_0279_0029_0003$$$::Então só resta derrotar Caster[line2]::
 34620::$$$message_0279_0030_0000$$$::"Porém, Emiya, as ações de Caster são mesmo tão ruins?"[lr]::
 34621::$$$message_0279_0030_0001$$$::   E, ainda assim...[lr]::
-34622::$$$message_0279_0030_0002$$$::Souichirou Kuzuki também diz isso.::
+34622::$$$message_0279_0030_0002$$$::Kuzuki Souichirou também diz isso.::
 34623::$$$message_0279_0031_0000$$$::"O que... você...?"::
 34624::$$$message_0279_0032_0000$$$::"Não me importa quantos estranhos morram. Além disso, Caster não tirou a vida de ninguém.[lr]::
 34625::$$$message_0279_0032_0001$$$::Mas devo dizer, Caster, você escolheu uma medida incompleta. Se vai fazer algo assim, deveria tomar a vida deles de uma vez."::
 34626::$$$message_0279_0033_0000$$$::"Qu[line2]"[lr]::
 34627::$$$message_0279_0033_0001$$$::O jeito como ele diz isso não é nem um pouco diferente do normal.[lr]::
-34628::$$$message_0279_0033_0002$$$::Ele dá sua opinião honesta. Souichirou Kuzuki é o mesmo de quando dá aula na escola.::
+34628::$$$message_0279_0033_0002$$$::Ele dá sua opinião honesta. Kuzuki Souichirou é o mesmo de quando dá aula na escola.::
 34629::$$$message_0279_0034_0000$$$::"Você vai envolver pessoas inocentes nisso...!?"[lr]::
 34630::$$$message_0279_0034_0001$$$::"Outras pessoas são irrelevantes... Bem, suponho que você tenha adivinhado corretamente minha verdadeira natureza.[lr]::
 34631::$$$message_0279_0034_0002$$$::Não sou mago. Sou apenas um assassino, passando os dias a definhar."::
@@ -125,7 +125,7 @@ id=qid::label=str::text=lstr::
 34641::$$$message_0279_0039_0001$$$::Tohsaka estala a língua e não se move.[lr]::
 34642::$$$message_0279_0039_0002$$$::Não, ela não consegue se mover.[lr]::
 34643::$$$message_0279_0039_0003$$$::Em termos de habilidade como magos, nós dois juntos não somos páreo para Caster.[lr]::
-34644::$$$message_0279_0039_0004$$$::Para Mestres que se dizem magos, uma oponente como Caster excede em muito o que somos capazes de enfrentar.::
+34644::$$$message_0279_0039_0004$$$::Para Mestras que se dizem magos, uma oponente como Caster excede em muito o que somos capazes de enfrentar.::
 34645::$$$message_0279_0040_0000$$$::"...Entendo.[lr]::
 34646::$$$message_0279_0040_0001$$$::Então não se importa de morrer aqui, Mestre da Caster?"::
 34647::$$$message_0279_0041_0000$$$::"...Hã?"[lr]::
@@ -146,11 +146,11 @@ id=qid::label=str::text=lstr::
 34662::$$$message_0279_0045_0001$$$::Até Archer teve que desviar da Magia de Caster, mas Saber a está anulando apenas encarando-a.::
 34663::$$$message_0279_0046_0000$$$::Ainda assim, seu foco não é Caster.[lr]::
 34664::$$$message_0279_0046_0001$$$::O alvo dela...[lr]::
-34665::$$$message_0279_0046_0002$$$::O oponente que ela deve cortar não é outro senão o Mestre, Souichirou Kuzuki...!::
+34665::$$$message_0279_0046_0002$$$::O oponente que ela deve cortar não é outro senão o Mestre, Kuzuki Souichirou...!::
 34666::$$$message_0279_0047_0000$$$::Saber corta Kuzuki sem hesitação.[lr]::
 34667::$$$message_0279_0047_0001$$$::"Souichirou-sama..."[lr]::
 34668::$$$message_0279_0047_0002$$$::...A interseção fica silenciosa novamente.[lr]::
 34669::$$$message_0279_0047_0003$$$::Saber fica imóvel depois de desferir o corte.[lr]::
 34670::$$$message_0279_0047_0004$$$::Todos ali presumem que o combate foi decidido pela velocidade do ataque.::
 34671::$$$message_0279_0048_0000$$$::...Sim.[lr]::
-34672::$$$message_0279_0048_0001$$$::Todos, exceto Souichirou Kuzuki, que continua de pé calmamente.::
+34672::$$$message_0279_0048_0001$$$::Todos, exceto Kuzuki Souichirou, que continua de pé calmamente.::

@@ -1,79 +1,79 @@
 DAT
 id=qid::label=str::text=lstr::
-36327::$$$message_0303_0000_0000$$$::"Tô em casa."[lr]::
-36328::$$$message_0303_0000_0001$$$::Mesmo não tendo vontade, eu sigo meu hábito enquanto eu entro na minha casa.::
-36329::$$$message_0303_0001_0000$$$::Eu sinto a vivacidade da sala de estar.[lr]::
-36330::$$$message_0303_0001_0001$$$::Eu aposto que a Fuji-nee tá assistindo TV e a Sakura preparando o jantar.[lr]::
+36327::$$$message_0303_0000_0000$$$::"Cheguei em casa."[lr]::
+36328::$$$message_0303_0000_0001$$$::Mesmo não tendo vontade, sigo meu hábito ao entrar em casa.::
+36329::$$$message_0303_0001_0000$$$::A sala de estar parece estar agitada.[lr]::
+36330::$$$message_0303_0001_0001$$$::Aposto que a Fuji-nee está assistindo TV e a Sakura preparando o jantar.[lr]::
 36331::$$$message_0303_0001_0002$$$::A Saber[line4]ela tá na sala de estar?::
 36332::$$$message_0303_0002_0000$$$::"[line8]"[lr]::
-36333::$$$message_0303_0002_0001$$$::Eu relembro as palavras do Archer e balanço minha cabeça.::
-36334::$$$message_0303_0003_0000$$$::Eu não sei o que ele queria dizer, nem quero saber.[lr]::
-36335::$$$message_0303_0003_0001$$$::Mas tá preso na minha cabeça e não quer sair.[lr]::
-36336::$$$message_0303_0003_0002$$$::Um familiar chamado de servo.[lr]::
-36337::$$$message_0303_0003_0003$$$::A opinião honesta dele, reduzindo espíritos heroicos a meros limpadores.::
-36338::$$$message_0303_0004_0000$$$::"Ah. Bem vindo, Senpai."[lr]::
-36339::$$$message_0303_0004_0001$$$::Mesmo ela estando cozinhando, ela sai pra me cumprimentar.[lr]::
-36340::$$$message_0303_0005_0000$$$::"Eu acabei de começar a preparar. Mas eu não acho que preciso da sua ajuda. Nós vamos ter sopa hoje a noite devido ao pedido da Fujimura-sensei."::
-36341::$$$message_0303_0006_0000$$$::"Entendi. Com certeza não tem nada que eu possa ajudar com."[lr]::
-36342::$$$message_0303_0006_0001$$$::Olhando, eu vejo que tudo já foi cortado.[lr]::
-36343::$$$message_0303_0006_0002$$$::Sabendo do quão boa a Sakura é, eu aposto que tudo que falta fazer é cozinhar.::
-36344::$$$message_0303_0007_0000$$$::"[line3]Onde tá a Saber? Eu não vejo ela na sala de estar."[lr]::
-36345::$$$message_0303_0007_0001$$$::"A Saber-san tá dormindo. Ela disse que queria ser acordada quando você chegasse em casa..."[lr]::
-36346::$$$message_0303_0007_0002$$$::"...Hm. A Saber tava brava?"::
-36347::$$$message_0303_0008_0000$$$::"Uhm...... Eu não acho. A Saber-san sempre tem olhos afiados."::
-36348::$$$message_0303_0009_0000$$$::...Se a Sakura tá hesitando em dizer isso, deve significar que a Saber tá muito brava.[lr]::
-36349::$$$message_0303_0009_0001$$$::É natural porém, já que eu quebrei nossa promessa de que eu chegaria antes de escurecer.::
-36350::$$$message_0303_0010_0000$$$::"Ah, bem vindo a casa, Shirou. A Saber-chan tava muito brava. Ela disse que queria falar com você no dojo depois que você chegasse em casa."[lr]::
+36333::$$$message_0303_0002_0001$$$::Relembro as palavras do Archer e balanço minha cabeça.::
+36334::$$$message_0303_0003_0000$$$::Não sei o que ele queria dizer, nem quero saber.[lr]::
+36335::$$$message_0303_0003_0001$$$::Mas está preso na minha cabeça e não consigo parar de pensar nisso.[lr]::
+36336::$$$message_0303_0003_0002$$$::Um Familiar chamado de Servo.[lr]::
+36337::$$$message_0303_0003_0003$$$::A opinião honesta dele, reduzindo Espíritos Heroicos a meros zeladores.::
+36338::$$$message_0303_0004_0000$$$::"Ah. Bem-vindo de volta, Senpai."[lr]::
+36339::$$$message_0303_0004_0001$$$::Cheguei. Desculpa pelo atraso. Você está fazendo as preparações do jantar?::
+36340::$$$message_0303_0005_0000$$$::"Sim, eu acabei de começar a preparar. Mas não acho que preciso da sua ajuda, Senpai. Nós vamos ter sopa hoje devido ao pedido da Fujimura-sensei."::
+36341::$$$message_0303_0006_0000$$$::"Entendi. Então não tem nada com que eu possa ajudar."[lr]::
+36342::$$$message_0303_0006_0001$$$::Vejo que tudo já foi cortado.[lr]::
+36343::$$$message_0303_0006_0002$$$::Sabendo do quão boa a Sakura é, aposto que tudo que falta fazer é cozinhar.::
+36344::$$$message_0303_0007_0000$$$::"[line3]Onde está a Saber? Não vejo ela na sala de estar."[lr]::
+36345::$$$message_0303_0007_0001$$$::"A Saber-san está dormindo. Ela disse que queria ser acordada quando você chegasse em casa..."[lr]::
+36346::$$$message_0303_0007_0002$$$::"...Hm. Por acaso a Saber estava brava?"::
+36347::$$$message_0303_0008_0000$$$::"Uhm...... Eu não acho que ela estava. É costume da Saber-san agir de forma séria."::
+36348::$$$message_0303_0009_0000$$$::...Se a Sakura está hesitando em dizer, deve ser porque a Saber está muito brava.[lr]::
+36349::$$$message_0303_0009_0001$$$::Mas era de se esperar, já que quebrei a promessa de chegar antes de escurecer.::
+36350::$$$message_0303_0010_0000$$$::"Ah, bem-vindo de volta, Shirou. A Saber-chan estava muito brava. Ela disse que queria falar com você no dojô depois que você chegasse em casa."[lr]::
 36351::$$$message_0303_0010_0001$$$::A Fuji-nee diz algo muito assustador enquanto mastiga uma tangerina.::
-36352::$$$message_0303_0011_0000$$$::"[line3]Fuji-nee. Você não contou coisas estranhas pra Saber, certo? ...Uhm, tipo uma pessoa que quebra uma promessa tem que ser punido recebendo porradas com uma shinai..."::
-36353::$$$message_0303_0012_0000$$$::"Eu contei pra ela. Eu falei pra ela que ela não precisa se segurar."[lr]::
+36352::$$$message_0303_0011_0000$$$::"[line3]Fuji-nee. Você não contou coisas estranhas pra Saber, né? ...Uhm, tipo uma pessoa que quebra promessas precisar ser punida através de golpes de shinai..."::
+36353::$$$message_0303_0012_0000$$$::"Contei sim. Nós, atletas, não precisamos pegar leve nessas situações"[lr]::
 36354::$$$message_0303_0012_0001$$$::"[line8]"[lr]::
 36355::$$$message_0303_0012_0002$$$::Entendi.[lr]::
-36356::$$$message_0303_0012_0003$$$::Então meus inimigos não são só os outros mestres. Também tem outro escondido aqui.::
-36357::$$$message_0303_0013_0000$$$::"Posso te pedir algo? Você levou a Saber pro dojo? Você falou pra ela usar a shinai se ela quisesse treinar?"::
+36356::$$$message_0303_0012_0003$$$::Então meus inimigos não são só os outros Mestres. Também tem outro escondido aqui.::
+36357::$$$message_0303_0013_0000$$$::"Posso te perguntar algo? Fuji-nee, você levou a Saber pro dojô? Você falou pra ela usar a shinai se ela quisesse treinar?"::
 36358::$$$message_0303_0014_0000$$$::"Sim. Nós lutamos um pouco, mas ela é incrível. Ela não conhece kendo, mas ela parece mais com um espadachim do que eu. Ela faz esgrima ou algo assim?"::
-36359::$$$message_0303_0015_0000$$$::"Não, eu não acho que ela faz. Eu acho que ela é mais como você."[lr]::
-36360::$$$message_0303_0015_0001$$$::...Da mesma forma que ela balança uma espada inadequada pro tamanho ela, e como ela ataca inimigos como um animal selvagem.::
-36361::$$$message_0303_0016_0000$$$::"Bom, eu vou aceitar a punição já que é minha culpa.[lr]::
-36362::$$$message_0303_0016_0001$$$::Por sinal, sobre a Mitsuzuri. Você sabe se ela tá em casa ou não?"::
-36363::$$$message_0303_0017_0000$$$::"Huh? Como você sabe disso? Eu achava que as notícias ainda não tinham escapado."[lr]::
-36364::$$$message_0303_0017_0001$$$::"Eu ouvi sobre ela na sala do conselho estudantil. Então, como que tá? Alguém encontrou a Mitsuzuri?"::
+36359::$$$message_0303_0015_0000$$$::"Não, acho que ela não faz. Eu até diria que ela é bem parecida com você."[lr]::
+36360::$$$message_0303_0015_0001$$$::...Da mesma forma que ela balança uma espada inadequada pro tamanho dela, e como ela ataca inimigos como um animal selvagem.::
+36361::$$$message_0303_0016_0000$$$::"Bom, vou aceitar a punição já que é minha culpa.[lr]::
+36362::$$$message_0303_0016_0001$$$::Aliás, Fuji-nee, como vai a Mitsuzuri? Você sabe se ela está em casa ou não?"::
+36363::$$$message_0303_0017_0000$$$::"Hã? Como você sabe disso? Você não deveria saber sobre a notícia da Mitsuzuri-san."[lr]::
+36364::$$$message_0303_0017_0001$$$::"É que eu ouvi sobre ela na sala do conselho estudantil. Então, como ela está? Alguém já encontrou a Mitsuzuri?"::
 36365::$$$message_0303_0018_0000$$$::Eu encaro a Fuji-nee.[lr]::
 36366::$$$message_0303_0018_0001$$$::A Fuji-nee é uma professora, mesmo que ela não pareça uma.[lr]::
-36367::$$$message_0303_0018_0002$$$::Ela se mantém quieta sobre coisas que ela não devia falar sobre, e eu tenho certeza que ela mentiria pra consolar alguém.[lr]::
-36368::$$$message_0303_0018_0003$$$::Então eu tenho que encarar ela pra perceber qualquer mudança enquanto eu pergunto sobre a Mitsuzuri.::
-36369::$$$message_0303_0019_0000$$$::"Então, Fuji-nee. Nada mudou?"[lr]::
-36370::$$$message_0303_0019_0001$$$::"...Eu acho que não tem o que fazer. Você parece que vai correr se eu ficar quieta, e não é como se isso fosse um segredo.[lr]::
-36371::$$$message_0303_0019_0002$$$::Mas esse é um caso especial, sabe? Eu só tô te falando isso porque você é amigo dela."::
-36372::$$$message_0303_0020_0000$$$::"Eu sei. Eu aprecio isso, então me fala logo."[lr]::
-36373::$$$message_0303_0020_0001$$$::"Eu vou te contar os resultados. A Mitsuzuri-san foi encontrada mais cedo hoje. Eu tenho certeza que os exames acabaram e que ela tá em casa por agora.[lr]::
-36374::$$$message_0303_0020_0002$$$::Ela tá meio confusa, mas não parece ter nenhuma ferida e nem perigo a vida dela. [line3]Eu não posso te contar mais nada. Se você é amigo dela, pergunta pra ela a respeito."::
-36375::$$$message_0303_0021_0000$$$::"[line4]Entendo.[lr]::
-36376::$$$message_0303_0021_0001$$$::Então não era tão sério, huh?"::
-36377::$$$message_0303_0022_0000$$$::...Graças a Deus.[lr]::
-36378::$$$message_0303_0022_0001$$$::Eu não sei no que a Mitsuzuri se meteu, mas eu sei que tem algo a ver com os eventos estranhos acontecendo nessa cidade.[lr]::
-36379::$$$message_0303_0022_0002$$$::É provável que a origem é esse mestre na minha escola.[lr]::
-36380::$$$message_0303_0022_0003$$$::Eu não sei o que eu teria feito se algo tivesse acontecido com a Mitsuzuri.::
-36381::$$$message_0303_0023_0000$$$::"...Ah sim. Sakura, posso falar com você um pouco?"[lr]::
+36367::$$$message_0303_0018_0002$$$::Ela se mantém quieta sobre coisas que ela não devia falar sobre, e eu tenho certeza que ela mentiria para consolar alguém.[lr]::
+36368::$$$message_0303_0018_0003$$$::Então eu tenho que encará-la para perceber qualquer mudança enquanto eu pergunto sobre a Mitsuzuri.::
+36369::$$$message_0303_0019_0000$$$::"Então, Fuji-nee. A situação não mudou?"[lr]::
+36370::$$$message_0303_0019_0001$$$::"...Não tem o que fazer. Parece que você vai sair correndo daqui se eu ficar quieta, e não é como se isso fosse um segredo.[lr]::
+36371::$$$message_0303_0019_0002$$$::Ouça bem, Shirou, esse é um caso especial, entendeu? Só vou te falar porque você é amigo dela."::
+36372::$$$message_0303_0020_0000$$$::"Eu sei. Fico te devendo uma, então me conta logo."[lr]::
+36373::$$$message_0303_0020_0001$$$::"Eu vou te contar os resultados. A Mitsuzuri-san foi encontrada hoje mais cedo. Tenho certeza que os exames acabaram e que ela está em casa por agora.[lr]::
+36374::$$$message_0303_0020_0002$$$::Ela está meio confusa, mas não parece ter nenhuma ferida, nem corre perigo de vida. Não posso te contar mais nada. Se você é amigo dela, pergunta pra ela a respeito."::
+36375::$$$message_0303_0021_0000$$$::"[line4]Entendi.[lr]::
+36376::$$$message_0303_0021_0001$$$::Então a situação não era tão séria, não é?"::
+36377::$$$message_0303_0022_0000$$$::...Ainda bem.[lr]::
+36378::$$$message_0303_0022_0001$$$::Não sei no que a Mitsuzuri se meteu, mas eu sei que tem algo a ver com os eventos estranhos acontecendo nessa cidade.[lr]::
+36379::$$$message_0303_0022_0002$$$::É provável que a origem seja esse Mestre na minha escola.[lr]::
+36380::$$$message_0303_0022_0003$$$::Não sei o que eu teria feito se algo acontecesse com a Mitsuzuri.::
+36381::$$$message_0303_0023_0000$$$::"...Ah sim. Sakura, posso falar com você?"[lr]::
 36382::$$$message_0303_0023_0001$$$::"[line2]Sim? O que foi, Senpai?"[lr]::
-36383::$$$message_0303_0023_0002$$$::"Nada demais. Eu só tô me perguntando se você sabe algo sobre o Shinji."::
-36384::$$$message_0303_0024_0000$$$::"Uhm... Me desculpa, Senpai. Eu passei a última noite aqui, então eu não fui pra casa. Eu ouvi que ele matou aula hoje, mas..."::
-36385::$$$message_0303_0025_0000$$$::"Então você não sabe o que ele tá fazendo, huh? ...Sim, não é surpresa você não saber. Me desculpa. Eu te perguntei algo estúpido."::
-36386::$$$message_0303_0026_0000$$$::"Não, isso não e verdade...! Eu sei mais sobre o Nii-san do que qualquer um, então eu deveria saber porque ele matou aula, certo?"[lr]::
-36387::$$$message_0303_0026_0001$$$::"Eu não acho. E realmente me ajuda quando você tá aqui."::
+36383::$$$message_0303_0023_0002$$$::"Não é nada demais. Só queria perguntar se você sabe algo sobre o Shinji."::
+36384::$$$message_0303_0024_0000$$$::"Uhm... Me desculpa, Senpai. Eu passei a última noite aqui e fui direto para a escola, então não voltei para casa. Ouvi dizer que ele matou aula hoje, mas..."::
+36385::$$$message_0303_0025_0000$$$::"Então você não sabe o que ele está fazendo, né? ...Sim, não é surpresa você não saber. Me desculpa. Eu te perguntei algo estúpido."::
+36386::$$$message_0303_0026_0000$$$::"Não, isso não é verdade...! Eu sei mais sobre o Nii-san do que qualquer um, então eu deveria saber o motivo dele ter faltado, certo?"[lr]::
+36387::$$$message_0303_0026_0001$$$::"Não, isso não é sua responsabilidade. E você me ajuda bastante quando está aqui."::
 36388::$$$message_0303_0027_0000$$$::...O evento na floresta.[lr]::
-36389::$$$message_0303_0027_0001$$$::Se aquela pessoa realmente era o Shinji, ele tem que ter algum tipo de conexão com o servo de preto.[lr]::
-36390::$$$message_0303_0027_0002$$$::Então[line3]tem uma péssima possibilidade de que ele seja um mestre.[lr]::
-36391::$$$message_0303_0027_0003$$$::Se esse for o caso, não seria perigoso deixar a Sakura voltar pra casa?::
-36392::$$$message_0303_0028_0000$$$::"Senpai, o que isso significa[line4]?"[lr]::
+36389::$$$message_0303_0027_0001$$$::Se aquela pessoa realmente era o Shinji, ele tem que ter algum tipo de conexão com o Servo vestido preto.[lr]::
+36390::$$$message_0303_0027_0002$$$::No pior dos casos, é bem capaz dele ser um Mestre.[lr]::
+36391::$$$message_0303_0027_0003$$$::Se esse for o caso, não seria perigoso deixar a Sakura voltar para casa?::
+36392::$$$message_0303_0028_0000$$$::"Senpai, você quer dizer algo[line4]?"[lr]::
 36393::$$$message_0303_0028_0001$$$::"[line3]Sakura. Durma aqui hoje. Você pode usar as roupas da Fuji-nee se você não tiver uma extra."[lr]::
 36394::$$$message_0303_0028_0002$$$::"Eh[line4]S-Senpai, isso é[line3]"::
 36395::$$$message_0303_0029_0000$$$::"Me ajudaria se você ficasse aqui por um tempo.[lr]::
-36396::$$$message_0303_0029_0001$$$::Bom, você pode ir pra casa se for inconveniente pra você."[lr]::
+36396::$$$message_0303_0029_0001$$$::Bom, você pode voltar pra casa se for inconveniente."[lr]::
 36397::$$$message_0303_0029_0002$$$::...Ah.[lr]::
-36398::$$$message_0303_0029_0003$$$::Mas é absurdo. É problemático ser convidado a ficar tão repentinamente.::
-36399::$$$message_0303_0030_0000$$$::"Me desculpa por dizer coisas problemáticas pra você."[lr]::
+36398::$$$message_0303_0029_0003$$$::Eu estou pedindo algo absurdo. Claro que seria um incômodo ser convidada para passar a noite tão repentinamente.::
+36399::$$$message_0303_0030_0000$$$::"Me desculpa por pedir coisas tão problemáticas pra você."[lr]::
 36400::$$$message_0303_0030_0001$$$::Eu abaixo minha cabeça e me desculpo.[lr]::
 36401::$$$message_0303_0030_0002$$$::[line3]Então.[lr]::
-36402::$$$message_0303_0030_0003$$$::"...Tudo bem. Eu vou fazer como você quiser."[lr]::
-36403::$$$message_0303_0030_0004$$$::Sakura assente e concorda tão baixo que a voz dela se mistura ao som do ensopado fervendo.::
+36402::$$$message_0303_0030_0003$$$::"...Tudo bem. Eu vou aceitar sua proposta."[lr]::
+36403::$$$message_0303_0030_0004$$$::A Sakura responde com uma voz tão baixa que quase não consigo ouvi-la por causa do som do ensopado fervendo.::

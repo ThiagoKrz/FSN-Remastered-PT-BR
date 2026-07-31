@@ -1,153 +1,152 @@
 DAT
 id=qid::label=str::text=lstr::
-78029::$$$message_0725_0000_0000$$$::[w l=4][line4]Esperaremos até a noite para irmos para a cidade.[lr]::
-78030::$$$message_0725_0000_0001$$$::Depois de discutirmos, foi isso que decidimos.::
-78031::$$$message_0725_0001_0000$$$::Como o Kotomine disse, não posso sentir outros Mestres.[lr]::
-78032::$$$message_0725_0001_0001$$$::Saber é a única que pode sentir nossos inimigos, e mesmo assim, apenas Servos próximos.::
-78033::$$$message_0725_0002_0000$$$::Então naturalmente, nosso plano é andar um pouco e encontrar informação.[lr]::
-78034::$$$message_0725_0002_0001$$$::É como depender da sorte, mas é "arriscado mas certeiro", de acordo com a Saber.::
-78035::$$$message_0725_0003_0000$$$::Mestres não vão ficar enfiados no seus buracos o tempo todo.[lr]::
-78036::$$$message_0725_0003_0001$$$::Se a Guerra do Santo Graal é uma corrida, você precisa fazer alguma coisa pra ficar na frente.[lr]::
-78037::$$$message_0725_0003_0002$$$::Isso significa que Servos buscam por esconderijos inimigos enquanto Magos usam magia para fazer armadilhas.[lr]::
-78038::$$$message_0725_0003_0003$$$::Podemos usar isso em nossa vantagem.::
-78039::$$$message_0725_0004_0000$$$::Muita energia mágica é necessária se algum deles fizer algo. Embora eu não consiga sentir outros magos, posso detectar traços de seus poderes.[lr]::
-78040::$$$message_0725_0004_0001$$$::Se patrulharmos a cidade procurando por isso, tenho certeza que encontraremos sinais de outros Mestres.::
-78041::$$$message_0725_0005_0000$$$::...essa informação conseguirei usando a mim mesmo como isca.[lr]::
-78042::$$$message_0725_0005_0001$$$::Assim como o Kotomine disse, não tenho outros métodos além desse.::
-78043::$$$message_0725_0006_0000$$$::Vamos patrulhar hoje a noite.[lr]::
-78044::$$$message_0725_0006_0001$$$::A Saber pediu pra eu ficar em casa, mas recusei, dizendo que eu iria com ela.::
-78045::$$$message_0725_0007_0000$$$::Depois de uma longa, e nada produtiva conversa...[lr]::
-78046::$$$message_0725_0007_0001$$$::"...tudo bem. Mas por favor me prometa que você sempre ficará comigo. Promete que não vai sair a noite sozinho?"[lr]::
-78047::$$$message_0725_0007_0002$$$::...a Saber finalmente aceita meu ponto de vista.::
-78048::$$$message_0725_0008_0000$$$::Bem.[lr]::
-78049::$$$message_0725_0008_0001$$$::Nosso plano de ação foi decidido, mas temos mais dois problemas.::
-78050::$$$message_0725_0009_0000$$$::"Shirou. Expliquei pra você antes, mas eu não posso gastar muita energia mágica, especialmente se planejarmos patrulhar a noite."::
-78051::$$$message_0725_0010_0000$$$::"Sim. Você vai dormir o quanto puder para preservar energia mágica, sim?[lr]::
-78052::$$$message_0725_0010_0001$$$::Já que eu não posso te providenciar energia mágica, você precisa manter seu corpo sozinha.[lr]::
-78053::$$$message_0725_0010_0002$$$::Então, supondo que você tenha 8 unidades de energia mágica por dia e você precisa de 6 unidades diariamente. Essas duas a mais  são as unidades que podemos economizar.[lr]::
-78054::$$$message_0725_0010_0003$$$::E se você conservar bem, pode usar até 10 unidades na batalha, sim?"::
-78055::$$$message_0725_0011_0000$$$::"Isso é verdade, enquanto eu não estiver ferida ou com a armadura danificada, funciona assim. Mas contra espíritos heroicos desse calibre, é improvável.[lr]::
-78056::$$$message_0725_0011_0001$$$::Utilizando sua suposição, usei 50 unidades contra o Lancer, e 200 contra o Berserker."::
-78057::$$$message_0725_0012_0000$$$::Ela foi perfurada pelo Lancer, e seu estômago rasgado pelo Berserker.[lr]::
-78058::$$$message_0725_0012_0001$$$::Faz sentido que ela usou tanta energia para se curar.[lr]::
-78059::$$$message_0725_0012_0002$$$::Faz sentido, mas...::
-78060::$$$message_0725_0013_0000$$$::"Não usei tanta energia assim para me curar. Usei mais para restaurar a armadura. Boa parte da minha energia mágica está concentrada em minha defesa."::
-78061::$$$message_0725_0014_0000$$$::...é isso, de acordo com ela.::
-78062::$$$message_0725_0015_0000$$$::"Então sua armadura é parte do seu corpo, sim? Então manter seu copro e sua armadura é a mesma coisa. Você tirou a armadura agora para economizar energia, sim?"::
-78063::$$$message_0725_0016_0000$$$::"Sim. Mas coisas como essa não são necessárias para outros Servos. Posso apenas me desarmar já que não consigo me transformar em espírito, mas Servos como o Archer ou o Lancer podem virar espíritos para economizar a energia de seus Mestres."[lr]::
-78064::$$$message_0725_0016_0001$$$::"Entendo, entendo. ...ah, acho que é o suficiente."::
-78065::$$$message_0725_0017_0000$$$::"Shirou. Ajuda você preparar nossa comida, mas não acha que isso está tirando a tensão?"[lr]::
-78066::$$$message_0725_0017_0001$$$::"Huh? Não, não acho."::
-78067::$$$message_0725_0018_0000$$$::Eu não, mas é verdade que minha sensação de urgência sumiu.[lr]::
-78068::$$$message_0725_0018_0001$$$::Fiquei surpreso quando a Saber me contou sobre sua condição depois da reunião estratégica.[lr]::
-78069::$$$message_0725_0018_0002$$$::Como eu não providêncio ela com energia mágica, ela está com as mãos ocupadas mantendo seu corpo.[lr]::
-78070::$$$message_0725_0018_0003$$$::Tentei mudar nosso curso de ação, dizendo que seria impossível lutar nestas condições, mas...::
-78071::$$$message_0725_0019_0000$$$::"Ei Saber. Me deixe perguntar de novo, mas quanta energia mágica você tem no momento?"[lr]::
-78072::$$$message_0725_0019_0001$$$::"Em seus termos, tenho cerca de 1000 unidades."[lr]::
-78073::$$$message_0725_0019_0002$$$::[w l=3][line3]Então é algo ridículo assim.::
-78074::$$$message_0725_0020_0000$$$::Ela disse que gastou duzentas contra o Berserker, mas ela ainda tem esse tanto restante.[lr]::
-78075::$$$message_0725_0020_0001$$$::E ela diz que não está cheia. É assustador imaginar quanta energia ela teria com um Mestre apropriado.[lr]::
-78076::$$$message_0725_0020_0002$$$::A capacidade dela vai muito além de um mero humano, e eu paro de pensar em quantos 'eus' são necessários para encher ela igual um idiota.[lr]::
-78077::$$$message_0725_0020_0003$$$::Finalmente entendi o motivo da Tohsaka chamar a Saber de "A Serva mais poderosa".::
-78078::$$$message_0725_0021_0000$$$::"...Claro que não estou mais nervoso. Não há nada com que se preocupar se você tem esse tanto de energia sobrando e pensando que temos apenas que derrotar seis oponentes."::
-78079::$$$message_0725_0022_0000$$$::"[w l=4][line4]Isso só vale se eu só lutar com eles.[lr]::
-78080::$$$message_0725_0022_0001$$$::Como eu disse antes, usar um Fantasma Nobre gasta muita energia mágica. É difícil usar ele na minha atual condição. Logo, preciso economizar o máximo de energia possível."::
-78081::$$$message_0725_0023_0000$$$::Ela está brava.[lr]::
-78082::$$$message_0725_0023_0001$$$::Não sei se ela está brava por eu ser um fardo,[lr]::
-78083::$$$message_0725_0023_0002$$$::ou por que estou deixando ela acordada aqui quando ela precisa dormir.::
-78084::$$$message_0725_0024_0000$$$::"Entendo que sua energia mágica é importante, mas comida também é, né? Usei as sobras no almoço, então por favor coma direito na janta. Pode dormir o quanto quiser depois de comer."::
-78085::$$$message_0725_0025_0000$$$::"......[say storage=sak0408_sav_0090]Tudo bem. Não planejo usar meu Fantasma Nobre desnecessariamente. Iremos conversar sobre isso mais tarde quando você entender melhor o que são Servos."[lr]::
-78086::$$$message_0725_0025_0001$$$::Saber diz isso, insatisfeita, e senta.::
-78087::$$$message_0725_0026_0000$$$::Ótimo.[lr]::
-78088::$$$message_0725_0026_0001$$$::Ela pode reclamar, mas ela sempre me escuta.[lr]::
-78089::$$$message_0725_0026_0002$$$::Então o problema de "conservar energia mágica" está resolvido.[lr]::
-78090::$$$message_0725_0026_0003$$$::Em primeiro lugar, não é algo que possamos resolver, e o único jeito de nós ajudarmos é entender melhor a situação.[lr]::
-78091::$$$message_0725_0026_0004$$$::Então...::
-78092::$$$message_0725_0027_0000$$$::"Mas, Shirou.[lr]::
-78093::$$$message_0725_0027_0001$$$::Você disse que há dois problemas. Qual é o outro?"[lr]::
-78094::$$$message_0725_0027_0002$$$::"Huh? Ah, depois eu falo. Por favor, faça o que eu disse."[lr]::
-78095::$$$message_0725_0027_0003$$$::Corto alguns rabanetes brancos e coloco-os na panela.::
-78096::$$$message_0725_0028_0000$$$::"...?"[lr]::
-78097::$$$message_0725_0028_0001$$$::A Saber deita a cabeça, confusa.[lr]::
-78098::$$$message_0725_0028_0002$$$::Ali...[lr]::
-78099::$$$message_0725_0028_0003$$$::"Cheguei! Está cozinhando, Shirou!?"[lr]::
-78100::$$$message_0725_0028_0004$$$::"Com licença, Senpai."[lr]::
-78101::$$$message_0725_0028_0005$$$::...ouço as vozes de sempre na entrada.::
-78102::$$$message_0725_0029_0000$$$::"......"[lr]::
-78103::$$$message_0725_0029_0001$$$::"......"[lr]::
-78104::$$$message_0725_0029_0002$$$::"......"[lr]::
-78105::$$$message_0725_0029_0003$$$::O silêncio é ensurdecedor.[lr]::
-78106::$$$message_0725_0029_0004$$$::É normal. A Fuji-nee e Sakura estão confusas, e olham para mim em busca de respostas.::
-78107::$$$message_0725_0030_0000$$$::"Essa é a Saber. Ela ficará aqui a partir de hoje. Por favor, dê-em as boas vindas para ela."[lr]::
-78108::$$$message_0725_0030_0001$$$::Faz dez minutos desde que disse isso pra elas.::
-78109::$$$message_0725_0031_0000$$$::Esse silêncio incomoda.[lr]::
-78110::$$$message_0725_0031_0001$$$::Queria tomar um gole de chá, mas sinto que o som disso ecoaria pela sala, então o chá quente permanece intocado.[lr]::
-78111::$$$message_0725_0031_0002$$$::Mas sentar aqui não resolverá nada.[lr]::
-78112::$$$message_0725_0031_0003$$$::Tenho que ter coragem para seguir em frente.::
-78113::$$$message_0725_0032_0000$$$::"Não podemos mandar ela embora já que ela veio aqui atrás do meu pai. Ela não vai ficar aqui por muito tempo já que ela só veio visitar. E ela ficará no anexo, então não tem problema."::
-78114::$$$message_0725_0033_0000$$$::"......"[lr]::
-78115::$$$message_0725_0033_0001$$$::"......"[lr]::
-78116::$$$message_0725_0033_0002$$$::"......"::
-78117::$$$message_0725_0034_0000$$$::...o silêncio continua.[lr]::
-78118::$$$message_0725_0034_0001$$$::Falando nisso...[lr]::
-78119::$$$message_0725_0034_0002$$$::Entendo por que a Sakura e a Fuji-nee estão quietas, mas por que a Saber está surpresa?::
-78120::$$$message_0725_0035_0000$$$::"[w l=4][line4]Phew. Bem, se ela é uma conhecida do Kiritsugu-san, fazer o que. Ouvi dizer que ele tinha parentes no exterior, então, como era... Saber-san? Ela parece confiável, então por mim tudo bem."::
-78121::$$$message_0725_0036_0000$$$::"...Um. Fujimura-sensei, isso..."[lr]::
-78122::$$$message_0725_0036_0001$$$::"Sinto muito. Sei como se sente, mas essa é a casa do Kiritsugu-san. Seria desonroso para nós Japoneses jogar uma estrangeira na rua quando ela veio aqui confiando em nós, né? Está ficando perigoso aí fora ultimamente, então não podemos despejar essa linda jovem nas ruas."::
-78123::$$$message_0725_0037_0000$$$::"......é verdade, mas... tudo bem por você, Senpai?"[lr]::
-78124::$$$message_0725_0037_0001$$$::"Sim, foi isso que planejei. Vou deixar a Saber ficar aqui um tempo. Você é contra', Sakura?"[lr]::
-78125::$$$message_0725_0037_0002$$$::"...não, não ligo se uma conhecida sua ficar aqui, mas[w l=4][line4]um, a Saber é..."::
-78126::$$$message_0725_0038_0000$$$::"Hm? Ah, é um nome estranho, né? Ela é bruta como o nome sugere, mas garanto que ela é uma boa pessoa. Ela pode soar estranha porque ela não é daqui, mas seria ótimo se você pudesse ajudar ela, Sakura."::
-78127::$$$message_0725_0039_0000$$$::"......certo. Se está tudo bem por você, então pra mim também."[lr]::
-78128::$$$message_0725_0039_0001$$$::Ela está nervosa porque a Saber é estrangeira?[lr]::
-78129::$$$message_0725_0039_0002$$$::A Sakura concorda enquanto desvio o olhar dela.::
-78130::$$$message_0725_0040_0000$$$::Logo é hora do jantar.[lr]::
-78131::$$$message_0725_0040_0001$$$::Me esforcei ainda mais no jantar para receber a Saber e para compensar o almoço.::
-78132::$$$message_0725_0041_0000$$$::Fiz salada de bonito moído, frango frito com molho, carne, ensopado de batata, e muita tempura, inclusive tempura de camarão.::
-78133::$$$message_0725_0042_0000$$$::O jantar em que tanto me esforcei...[lr]::
-78134::$$$message_0725_0042_0001$$$::Não agrada minha convidada e minha aprendiz.::
-78135::$$$message_0725_0043_0000$$$::"Uau, qual é a dessa tempura!? 'Saborosa' e 'recheada' nem a descrevem! O que você fez, Shirou!? Passei a gosta mais de camarão agora!"::
-78136::$$$message_0725_0044_0000$$$::"............"[lr]::
-78137::$$$message_0725_0044_0001$$$::Bem...[lr]::
-78138::$$$message_0725_0044_0002$$$::Não tem problema já que a Fuji-nee está desfrutando por nós quatros.::
-78139::$$$message_0725_0045_0000$$$::O jantar acaba sem confusão graças a ela.[lr]::
-78140::$$$message_0725_0045_0001$$$::Não sei o que aconteceu, mas a Fuji-nee deu um pouco da comida dela pra Saber.[lr]::
-78141::$$$message_0725_0045_0002$$$::Acho que a Fuji-nee gosta da Saber porque ela é quieta.::
-78142::$$$message_0725_0046_0000$$$::"......"[lr]::
-78143::$$$message_0725_0046_0001$$$::A Saber e a Fuji-nee foram preparar o quarto da Saber.[lr]::
-78144::$$$message_0725_0046_0002$$$::E a Sakura e eu limpamos os restos.[lr]::
-78145::$$$message_0725_0046_0003$$$::Bem, não tem nada de anormal nisso, porque faz parte dos afazeres de sempre.::
-78146::$$$message_0725_0047_0000$$$::"Vou lavar os pratos, então pode limpar a mesa pra mim?[lr]::
-78147::$$$message_0725_0047_0001$$$::Ah, não precisa jogar o óleo de tempura fora. Só botar a tampa nele e guardar. É pesado. Consegue carregar?"[lr]::
-78148::$$$message_0725_0047_0002$$$::"Huh...? Ah, sim. Sou mais forte do que pareço, sabia?"::
-78149::$$$message_0725_0048_0000$$$::Ela pega a panela de óleo.[lr]::
-78150::$$$message_0725_0048_0001$$$::Ótimo, já que ela pratica arquearia, não preciso me preocupar.[lr]::
-78151::$$$message_0725_0048_0002$$$::"Bem, arquearia não é só força também..."[lr]::
-78152::$$$message_0725_0048_0003$$$::Eu lavo os pratos.::
+78029::$$$message_0725_0000_0000$$$::    Esperamos a noite cair, então saímos para a cidade.[lr]::
+78030::$$$message_0725_0000_0001$$$::Foi isso que Saber e eu decidimos depois de conversar.::
+78031::$$$message_0725_0001_0000$$$::Como Kotomine disse, não consigo sentir os outros Mestres.[lr]::
+78032::$$$message_0725_0001_0001$$$::Só Saber pode detectar nossos inimigos, e apenas quando está fisicamente próxima dos outros Servos.::
+78033::$$$message_0725_0002_0000$$$::Então, o caminho óbvio é patrulhar a cidade a pé.[lr]::
+78034::$$$message_0725_0002_0001$$$::Para mim pareceu uma boa ideia por acaso, mas Saber disse que era uma escolha "arriscada, porém certeira".::
+78035::$$$message_0725_0003_0000$$$::Um Mestre não deve ficar entocado no próprio esconderijo.[lr]::
+78036::$$$message_0725_0003_0001$$$::A Guerra do Santo Graal é uma competição entre Mestres, então todos farão o que puderem para chegar em primeiro.[lr]::
+78037::$$$message_0725_0003_0002$$$::Para isso, Servos procuram os esconderijos dos Mestres inimigos, enquanto Mestres montam armadilhas mágicas uns para os outros.[lr]::
+78038::$$$message_0725_0003_0003$$$::E todo mundo acaba se expondo um pouco nesse processo.::
+78039::$$$message_0725_0004_0000$$$::Servo ou Mestre, todos precisam de Energia Mágica para agir. Mesmo que eu não consiga sentir outros magos, ao menos posso farejar vestígios da energia que eles gastaram.[lr]::
+78040::$$$message_0725_0004_0001$$$::Se eu vasculhar a cidade atrás desses rastros, talvez encontre pistas que levem aos outros Mestres.::
+78041::$$$message_0725_0005_0000$$$::...Claro que isso exige que eu me ofereça como isca.[lr]::
+78042::$$$message_0725_0005_0001$$$::Como o padre Kotomine disse, é a única coisa que posso fazer.::
+78043::$$$message_0725_0006_0000$$$::Começaremos as patrulhas esta noite.[lr]::
+78044::$$$message_0725_0006_0001$$$::Saber insistiu que eu ficasse em casa enquanto ela patrulhava a cidade, mas rebati dizendo que deveríamos lutar lado a lado.::
+78045::$$$message_0725_0007_0000$$$::Depois de uma discussão longa e infrutífera...[lr]::
+78046::$$$message_0725_0007_0001$$$::"...Muito bem. Mas prometa que agirá comigo em todos os momentos. Jurará que não sairá sozinho à noite?"[r][wsay canskip=1]::
+78047::$$$message_0725_0007_0002$$$::Por fim, Saber cedeu.::
+78048::$$$message_0725_0008_0000$$$::Bem, então...[lr]::
+78049::$$$message_0725_0008_0001$$$::Já decidimos nosso plano de ação, então restam dois problemas a resolver.::
+78050::$$$message_0725_0009_0000$$$::"Shirou. Como expliquei antes, não posso fazer uso de Energia Mágica excedente. Isso se torna ainda mais verdadeiro se decidirmos sair esta noite."::
+78051::$$$message_0725_0010_0000$$$::"Sim, você comentou que vai dormir sempre que puder para economizar energia.[lr]::
+78052::$$$message_0725_0010_0001$$$::Como não recebe energia alguma de mim, precisa manter seu corpo físico por conta própria.[lr]::
+78053::$$$message_0725_0010_0002$$$::Você recupera oito pontos de Energia Mágica por dia, e manter o corpo custa seis. Isso deixa dois em reserva.[lr]::
+78054::$$$message_0725_0010_0003$$$::Em uma luta normal você gastaria, hum, uns dez pontos no melhor dos casos?"::
+78055::$$$message_0725_0011_0000$$$::"Somente se eu evitar ferimentos e minha armadura permanecer intacta. Mas isso é muito improvável se eu lutar contra um Espírito Heroico de força semelhante.[lr]::
+78056::$$$message_0725_0011_0001$$$::Usando seus termos, gastei cinquenta pontos na escaramuça com Lancer e duzentos lutando contra Berserker."::
+78057::$$$message_0725_0012_0000$$$::Lancer a perfurou no peito, e Berserker rasgou seu estômago.[lr]::
+78058::$$$message_0725_0012_0001$$$::Recuperar-se de tantos danos claramente exigiu muita Energia Mágica.[lr]::
+78059::$$$message_0725_0012_0002$$$::Ou foi o que pensei, mas...::
+78060::$$$message_0725_0013_0000$$$::"Curar meu corpo físico não exige tanta energia. Na verdade, custa mais restaurar minha armadura danificada. A maior parte da minha Energia Mágica é dedicada às minhas defesas."::
+78061::$$$message_0725_0014_0000$$$::...é assim que funciona, aparentemente.::
+78062::$$$message_0725_0015_0000$$$::"Então a armadura é como parte do seu corpo. Precisa de energia para manter os dois, e você a remove para conservar energia."::
+78063::$$$message_0725_0016_0000$$$::"Sim. Mas outros Servos não têm tal exigência. Ao contrário de Lancer ou Archer, que podem assumir forma espiritual fora de combate para reduzir o fardo de seus Mestres, eu só posso dissipar minha armadura."[lr]::
+78064::$$$message_0725_0016_0001$$$::"Entendi, faz sentido... Ah, acho que já chega de ingredientes."::
+78065::$$$message_0725_0017_0000$$$::"Shirou, agradeço por preparar nossas refeições, mas não deveria levar isso mais a sério?"[lr]::
+78066::$$$message_0725_0017_0001$$$::"Hã? Eu estou levando."::
+78067::$$$message_0725_0018_0000$$$::Tá, não totalmente, mas também não sinto exatamente que estou em perigo neste instante.[lr]::
+78068::$$$message_0725_0018_0001$$$::Fiquei surpreso ao ouvir a condição de Saber depois que voltamos para casa e fizemos nossa reunião estratégica.[lr]::
+78069::$$$message_0725_0018_0002$$$::Sem nenhuma Energia Mágica extra vindo de mim, todo o poder de Saber é gasto apenas para [font italic=true]existir[font italic=false].[lr]::
+78070::$$$message_0725_0018_0003$$$::Isso não soa como condição de luta alguma, mas, quando mencionei isso...::
+78071::$$$message_0725_0019_0000$$$::"Ei, Saber. Posso perguntar de novo quanta Energia Mágica você tem agora?"[lr]::
+78072::$$$message_0725_0019_0001$$$::"Nos seus termos, cerca de mil pontos."[lr]::
+78073::$$$message_0725_0019_0002$$$::   Bem, isso é simplesmente absurdo.::
+78074::$$$message_0725_0020_0000$$$::Ela ainda tem tudo isso no tanque, mesmo depois de gastar duzentos contra Berserker.[lr]::
+78075::$$$message_0725_0020_0001$$$::E isso é Saber em um dia [font italic=true]ruim[font italic=false]. Dá medo imaginar quanta força ela teria com um mago de verdade dando suporte.[lr]::
+78076::$$$message_0725_0020_0002$$$::Claramente, seria um número além da imaginação. Seria idiota até perguntar quantas vezes isso equivale a mim.[lr]::
+78077::$$$message_0725_0020_0003$$$::Acho que finalmente começo a entender por que Tohsaka chama Saber de melhor Servo.::
+78078::$$$message_0725_0021_0000$$$::"...Isso me deixa um pouco mais tranquilo. Só há seis inimigos para lutar, então você parece ter combustível de sobra por enquanto."::
+78079::$$$message_0725_0022_0000$$$::"Isso apenas se eu me limitar ao combate comum.[lr]::
+78080::$$$message_0725_0022_0001$$$::Como eu disse, meu Fantasma Nobre exige uma quantidade enorme de Energia Mágica. Seria bastante difícil usá-lo neste estado. Por isso devo tentar conservar energia sempre que possível."::
+78081::$$$message_0725_0023_0000$$$::Saber está irritada.[lr]::
+78082::$$$message_0725_0023_0001$$$::Não sei se é porque seu Mestre incompetente é um peso para ela,[lr]::
+78083::$$$message_0725_0023_0002$$$::ou porque não estou deixando que tenha uma boa noite de descanso.::
+78084::$$$message_0725_0024_0000$$$::"Eu sei que precisa economizar energia, mas refeições também são importantes. Ainda tenho algumas sobras do almoço, então deixa eu preparar seu jantar. Depois disso, você pode dormir."::
+78085::$$$message_0725_0025_0000$$$::"...[say storage=sak0408_sav_0090]Muito bem. De qualquer forma, não pretendo usar meu Fantasma Nobre por capricho. Voltaremos a esse assunto quando você entender melhor o que são Servos."[lr]::
+78086::$$$message_0725_0025_0001$$$::Parecendo um pouco contrariada, Saber se senta educadamente à mesa de jantar, com a postura perfeita.::
+78087::$$$message_0725_0026_0000$$$::Ótimo, ótimo.[lr]::
+78088::$$$message_0725_0026_0001$$$::Fico feliz que ela esteja disposta a me ouvir.[lr]::
+78089::$$$message_0725_0026_0002$$$::Enfim, chega do nosso problema de Energia Mágica por esta noite.[lr]::
+78090::$$$message_0725_0026_0003$$$::Não é algo para o qual temos solução, então o próximo passo é compreender melhor nossa situação.[lr]::
+78091::$$$message_0725_0026_0004$$$::E...::
+78092::$$$message_0725_0027_0000$$$::"Mas, Shirou...[lr]::
+78093::$$$message_0725_0027_0001$$$::Você disse que havia dois problemas. Qual é o outro?"[lr]::
+78094::$$$message_0725_0027_0002$$$::"Hm? Ah, ele deve chegar a qualquer segundo. Lembre-se da história que combinamos."[lr]::
+78095::$$$message_0725_0027_0003$$$::Começo a cortar rabanetes daikon e os jogo na wok.::
+78096::$$$message_0725_0028_0000$$$::"Hm?"[lr]::
+78097::$$$message_0725_0028_0001$$$::Saber inclina a cabeça, confusa.[lr]::
+78098::$$$message_0725_0028_0002$$$::E então,[lr]::
+78099::$$$message_0725_0028_0003$$$::"Voltamos! Shirou, você está fazendo jantar!?"[lr]::
+78100::$$$message_0725_0028_0004$$$::"Obrigada por me receber, Senpai."[lr]::
+78101::$$$message_0725_0028_0005$$$::Um par de vozes familiares ecoa da entrada da casa.::
+78102::$$$message_0725_0029_0000$$$::"..."[lr]::
+78103::$$$message_0725_0029_0001$$$::"..."[lr]::
+78104::$$$message_0725_0029_0002$$$::"..."[lr]::
+78105::$$$message_0725_0029_0003$$$::O silêncio chega a doer.[lr]::
+78106::$$$message_0725_0029_0004$$$::Como esperado, Fuji-nee e Sakura olham uma vez para Saber e depois miram em mim um olhar quente como laser.::
+78107::$$$message_0725_0030_0000$$$::"Esta é Saber. Ela ficará aqui a partir de hoje. Por favor, tratem-na bem."[r][wsay canskip=1]::
+78108::$$$message_0725_0030_0001$$$::Essa é toda a explicação que dou.::
+78109::$$$message_0725_0031_0000$$$::Ninguém se opõe, o que deixa o silêncio ainda mais pontiagudo.[lr]::
+78110::$$$message_0725_0031_0001$$$::Elas nem bebem o chá para evitar o som de um gole, deixando o chá quente esfriar.[lr]::
+78111::$$$message_0725_0031_0002$$$::Mas nunca vamos chegar a lugar algum nesse ritmo.[lr]::
+78112::$$$message_0725_0031_0003$$$::Só preciso reunir coragem e seguir em frente.::
+78113::$$$message_0725_0032_0000$$$::"Enfim, ela veio ver meu velho. Não posso simplesmente mandá-la embora. Ela só está aproveitando para fazer um pouco de turismo e não vai ficar tanto tempo. Podemos deixá-la em um dos quartos vagos."::
+78114::$$$message_0725_0033_0000$$$::"..."[lr]::
+78115::$$$message_0725_0033_0001$$$::"..."[lr]::
+78116::$$$message_0725_0033_0002$$$::"..."::
+78117::$$$message_0725_0034_0000$$$::...O silêncio se estende.[lr]::
+78118::$$$message_0725_0034_0001$$$::A propósito...[lr]::
+78119::$$$message_0725_0034_0002$$$::Consigo entender a reação de Fuji-nee e Sakura, mas por que Saber parece tão surpresa?::
+78120::$$$message_0725_0035_0000$$$::"Ufa. Bem, se ela conhece Kiritsugu, então vamos ter que deixá-la ficar. Ele já comentou que tinha alguns parentes no exterior. Hum, senhorita Saber? Ela parece bem-comportada, então acho que não posso dizer não."::
+78121::$$$message_0725_0036_0000$$$::"Hum... senhorita Fujimura? Quer dizer..."[lr]::
+78122::$$$message_0725_0036_0001$$$::"Desculpa. Sei como você se sente, Sakura, mas esta é a casa do Kiritsugu. Ela veio do exterior procurando um parente, então mancharia a reputação da hospitalidade japonesa se a mandássemos embora. Além disso, anda perigoso lá fora, e não podemos expulsar uma garota tão adorável."::
+78123::$$$message_0725_0037_0000$$$::"...É verdade. Você concorda, Senpai?"[lr]::
+78124::$$$message_0725_0037_0001$$$::"Sim. Vou deixar Saber ficar aqui por enquanto. Você tem algum problema com isso, Sakura?"[lr]::
+78125::$$$message_0725_0037_0002$$$::"...Não, acho que deve deixar sua conhecida ficar. Mas... hum, Saber?"::
+78126::$$$message_0725_0038_0000$$$::"Hm? Ah, sim. O nome dela soa meio estranho, mas garanto que ela é boa gente. Talvez aja de um jeito um pouco esquisito porque ainda não está acostumada ao Japão, então eu agradeceria se você a ajudasse."::
+78127::$$$message_0725_0039_0000$$$::"...Tudo bem. Se você diz, Senpai."[lr]::
+78128::$$$message_0725_0039_0001$$$::Sakura assente mansamente, sem encontrar os olhos de Saber.[lr]::
+78129::$$$message_0725_0039_0002$$$::Será que ela não gosta de Saber por ela ser estrangeira?::
+78130::$$$message_0725_0040_0000$$$::De qualquer modo, é hora do jantar.[lr]::
+78131::$$$message_0725_0040_0001$$$::Caprichei bastante no jantar para compensar o almoço, e porque é a refeição de boas-vindas da Saber.::
+78132::$$$message_0725_0041_0000$$$::A refeição começa com uma salada de tataki de atum e frango frito com um molho levemente picante de cebolinha. Depois vem um prato principal bem tradicional de ensopado de carne com batata, acompanhado por uma variedade de tempura frito, incluindo camarões bem fofinhos.::
+78133::$$$message_0725_0042_0000$$$::É definitivamente um exagero sem um tema claro para o menu, mas...[lr]::
+78134::$$$message_0725_0042_0001$$$::Parece mal recebido tanto pela convidada de honra quanto pela minha aprendiz.::
+78135::$$$message_0725_0043_0000$$$::"Uau, que tempura é essa!? Não é só macio e delicioso por dentro! Acho que você acabou de mudar toda a minha opinião sobre camarão, Shirou!"::
+78136::$$$message_0725_0044_0000$$$::"..."[lr]::
+78137::$$$message_0725_0044_0001$$$::Bem, hum...[lr]::
+78138::$$$message_0725_0044_0002$$$::Por outro lado, Fuji-nee aproveita a refeição o bastante por nós quatro.::
+78139::$$$message_0725_0045_0000$$$::Graças ao bom humor dela, o jantar termina sem incidentes.[lr]::
+78140::$$$message_0725_0045_0001$$$::Até pude ver Fuji-nee oferecer a Saber um pouco da própria comida, o que não é nada comum.[lr]::
+78141::$$$message_0725_0045_0002$$$::Ela parece ter se afeiçoado à nossa hóspede taciturna, o que eu deveria ter previsto.::
+78142::$$$message_0725_0046_0000$$$::"..."[lr]::
+78143::$$$message_0725_0046_0001$$$::Fuji-nee leva Saber para preparar seu quarto na casa de hóspedes.[lr]::
+78144::$$$message_0725_0046_0002$$$::Sakura e eu ficamos para limpar depois do jantar.[lr]::
+78145::$$$message_0725_0046_0003$$$::Dividimos as tarefas como sempre.::
+78146::$$$message_0725_0047_0000$$$::"Eu lavo a louça. Sakura, você se importa de limpar a mesa?[lr]::
+78147::$$$message_0725_0047_0001$$$::Ah, e não jogue fora o óleo da fritura ainda. Só tampe e guarde no fundo. Precisa de ajuda? É pesado."[lr]::
+78148::$$$message_0725_0047_0002$$$::"Hã...? Ah, consigo carregar. Sou mais forte do que pareço, sabia?"::
+78149::$$$message_0725_0048_0000$$$::Ela pega a panela com um pequeno suspiro de esforço.[lr]::
+78150::$$$message_0725_0048_0001$$$::Afinal, ela consegue puxar a corda de um arco, então eu não deveria ter me preocupado.[lr]::
+78151::$$$message_0725_0048_0002$$$::"Embora arco e flecha não seja só puxar a corda..."[lr]::
+78152::$$$message_0725_0048_0003$$$::Lavo a louça ao som da água espirrando.::
 78153::$$$message_0725_0049_0000$$$::Então...[lr]::
-78154::$$$message_0725_0049_0001$$$::"Huh? Há menos toalhas por aqui, Senpai. O rolo de papel toalha está vazio e os pratos foram revirados."[lr]::
-78155::$$$message_0725_0049_0002$$$::"Que? Vamos ver... Ah, tem razão. Alguém invadiu aqui?"::
-78156::$$$message_0725_0050_0000$$$::"Hmm. Acho que não tem ladrões que só roubam toalhas."[lr]::
-78157::$$$message_0725_0050_0001$$$::"Certo. Não é um ladrão."::
-78158::$$$message_0725_0051_0000$$$::Os pratos estão revirados.[lr]::
-78159::$$$message_0725_0051_0001$$$::O papel toalha sumiu.[lr]::
-78160::$$$message_0725_0051_0002$$$::Algumas toalhas também.[lr]::
-78161::$$$message_0725_0051_0003$$$::De acordo com isso...::
-78162::$$$message_0725_0051_0004$$$::"[w l=4][line4]Ah. Sim. A Tohsaka veio aqui."[lr]::
-78163::$$$message_0725_0051_0005$$$::Me lembrei.::
-78164::$$$message_0725_0052_0000$$$::A Tohsaka cuidou de mim depois do incidente com o Berserker.[lr]::
-78165::$$$message_0725_0052_0001$$$::Tenho certeza que ela usou papel toalha durante o tratamento.::
-78166::$$$message_0725_0053_0000$$$::"Senpai. Se refere a Tohsaka-Senpai?"[lr]::
-78167::$$$message_0725_0053_0001$$$::"Sim. Pedi pra ela vir aqui.[lr]::
-78168::$$$message_0725_0053_0002$$$::Um, sofri um acidente idiota e me machuquei. A Tohsaka acabou passando por aqui e cuidou de mim. Como esperado da aluna exemplar da nossa escola, né? Ela é tão carinhosa."::
-78169::$$$message_0725_0054_0000$$$::Menti nesse final, claro.[lr]::
-78170::$$$message_0725_0054_0001$$$::A orgulhosa aluna exemplar da escola morreu noite passada.[lr]::
-78171::$$$message_0725_0054_0002$$$::É uma triste verdade, mas a imagem da "Tohsaka Rin - Aluna Exemplar" morreu pra mim.::
-78172::$$$message_0725_0055_0000$$$::"...Por que?"[lr]::
+78154::$$$message_0725_0049_0001$$$::"Hã? Senpai, estão faltando algumas toalhas. Também acabou o papel-toalha, e alguns pratos não estão no lugar de sempre."[lr]::
+78155::$$$message_0725_0049_0002$$$::"Eh? Deixa eu ver... Ah, você tem razão. Será que entrou um ladrão?"::
+78156::$$$message_0725_0050_0000$$$::"Hmm... Duvido que exista ladrão que roube só panos de cozinha."[lr]::
+78157::$$$message_0725_0050_0001$$$::"Pois é. Que tipo de ladrão faria isso?"::
+78158::$$$message_0725_0051_0000$$$::Pratos fora do lugar.[lr]::
+78159::$$$message_0725_0051_0001$$$::Um rolo vazio de papel-toalha.[lr]::
+78160::$$$message_0725_0051_0002$$$::Vários panos de cozinha desaparecidos.[lr]::
+78161::$$$message_0725_0051_0003$$$::Finalmente, as peças se encaixam na minha cabeça.::
+78162::$$$message_0725_0051_0004$$$::"Ah, verdade. Tohsaka esteve aqui."[lr]::
+78163::$$$message_0725_0051_0005$$$::Bato o punho na palma da mão ao perceber.::
+78164::$$$message_0725_0052_0000$$$::Tohsaka cuidou de mim depois que desmaiei durante a luta contra Berserker.[lr]::
+78165::$$$message_0725_0052_0001$$$::Ela deve ter usado qualquer pano que estivesse por perto para me tratar.::
+78166::$$$message_0725_0053_0000$$$::"Senpai, quando diz Tohsaka, quer dizer... da escola?"[lr]::
+78167::$$$message_0725_0053_0001$$$::"Sim. Ela passou aqui outro dia.[lr]::
+78168::$$$message_0725_0053_0002$$$::Hum, eu fui idiota e acabei me machucando. Tohsaka estava passando e foi gentil o bastante para me dar primeiros socorros. Ela é mesmo a elegante aluna exemplar da nossa escola, hein."::
+78169::$$$message_0725_0054_0000$$$::Claro, eu não quis dizer de verdade essa última metade.[lr]::
+78170::$$$message_0725_0054_0001$$$::Qualquer fantasia que eu tinha sobre Tohsaka morreu ontem à noite.[lr]::
+78171::$$$message_0725_0054_0002$$$::Para meu profundo pesar, Tohsaka Rin, a aluna exemplar e ídolo da minha vida escolar, foi apagada ontem. Droga.::
+78172::$$$message_0725_0055_0000$$$::"...Por quê?"[lr]::
 78173::$$$message_0725_0055_0001$$$::"Hm?"[lr]::
-78174::$$$message_0725_0055_0002$$$::"Por que ela veio aqui? Que estranho. Ela não tem nada a ver com esse lugar. Eu estou aqui, e ela não tem nada com o Senpai, então por que?"::
-78175::$$$message_0725_0056_0000$$$::A Sakura abaixa a cabeça e tenta se controlar.[lr]::
-78176::$$$message_0725_0056_0001$$$::"......"[lr]::
-78177::$$$message_0725_0056_0002$$$::Estou sem palavras pra esse evento repentino.[lr]::
-78178::$$$message_0725_0056_0003$$$::Ela começa a se abraçar como se estivesse desconfortável.::
-
+78174::$$$message_0725_0055_0002$$$::"Por que ela estava aqui? É um pouco estranho. Ela não tem nada a ver conosco. Nem comigo, nem com você, então por quê?"::
+78175::$$$message_0725_0056_0000$$$::Sakura de repente fica imóvel, olhando para baixo.[lr]::
+78176::$$$message_0725_0056_0001$$$::"..."[lr]::
+78177::$$$message_0725_0056_0002$$$::É tão repentino que não sei o que dizer.[lr]::
+78178::$$$message_0725_0056_0003$$$::Ela se abraça, como se tentasse conter alguma ansiedade.::

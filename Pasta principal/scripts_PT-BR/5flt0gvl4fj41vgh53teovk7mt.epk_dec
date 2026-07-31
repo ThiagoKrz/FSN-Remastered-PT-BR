@@ -1,405 +1,404 @@
 DAT
 id=qid::label=str::text=lstr::
-77152::$$$message_0719_0000_0000$$$::"[w l=3][line3]Mestre. Simplifiquei as coisas, mas essa é toda explicação que posso dar."[lr]::
-77153::$$$message_0719_0000_0001$$$::"Okay. Foi breve, mas entendi agora. Desculpa, Saber."::
-77154::$$$message_0719_0001_0000$$$::"...Você não deve 'pedir desculpas'.[lr]::
-77155::$$$message_0719_0001_0001$$$::Se entende a situação, você deveria traçar um plano de ação."[lr]::
-77156::$$$message_0719_0001_0002$$$::Ela se inclina ansiosamente.::
-77157::$$$message_0719_0002_0000$$$::...entendo.[lr]::
-77158::$$$message_0719_0002_0001$$$::A Saber é como a Tohsaka: Ataca primeiro.[lr]::
-77159::$$$message_0719_0002_0002$$$::De certo modo, é algo bom, mas não posso decidir nada se não sei o que deveríamos estar fazendo.::
-77160::$$$message_0719_0003_0000$$$::"Hmm... Devemos esperar e aguardar... mas não temos tempo. Não sei nada sobre os demais Mestres e estou curioso a respeito da Illya. ...devemos sair em busca de outros Mestres, mas[w l=4][line4]"::
-77161::$$$message_0719_0004_0000$$$::Acho perigoso sairmos sem rumo.[lr]::
-77162::$$$message_0719_0004_0001$$$::...droga.[lr]::
-77163::$$$message_0719_0004_0002$$$::Eu devia ter cooperado com a Tohsaka.::
-77164::$$$message_0719_0005_0000$$$::"Illya...? O que tem a Mestra do Berserker, Shirou?"::
-77165::$$$message_0719_0006_0000$$$::"Huh...? Ah, nada. Estava apenas me perguntando por que ela está atrás de nós.[lr]::
-77166::$$$message_0719_0006_0001$$$::E não é a primeira vez que vejo ela. Encontrei ela antes, e ouvi o nome Einzbern também."::
-77167::$$$message_0719_0007_0000$$$::"......"[lr]::
-77168::$$$message_0719_0007_0001$$$::Então.[lr]::
-77169::$$$message_0719_0007_0002$$$::Depois de ouvir o nome "Einzbern", a Saber me dá um olhar duro.::
-77170::$$$message_0719_0008_0000$$$::"Saber? Conhece o nome Einzbern?"[lr]::
-77171::$$$message_0719_0008_0001$$$::"...sim, conheço. Deixe-me te perguntar agora. Você não conhece esse nome?"::
-77172::$$$message_0719_0009_0000$$$::"Bem, apenas ouvi ele. Alguém não relacionado me perguntou como a garota Einzbern estava antes mesmo de eu conhecer ela."[lr]::
-77173::$$$message_0719_0009_0001$$$::"......entendo. Então você não ouviu nada."[lr]::
-77174::$$$message_0719_0009_0002$$$::A Saber fecha seus olhos e pondera.::
-77175::$$$message_0719_0010_0000$$$::"...Deve ser o destino. Você deve ir a igreja se quiser saber sobre a família Einzbern.[lr]::
-77176::$$$message_0719_0010_0001$$$::Aquele padre poderá te responder suas dúvidas e te guiar ao caminho que deve seguir."::
-77177::$$$message_0719_0011_0000$$$::"A igreja...? Aquela de ontem? Mas ele me disse que não devemos voltar lá a não ser que eu queira abrir mão do Selo de Comando."::
-77178::$$$message_0719_0012_0000$$$::"Ele deve ter dito isso por conveniência. Essa regra é parte da fachada que ele usa com sua Associação. Não vale de nada se não fizer parte dela."[lr]::
+77152::$$$message_0719_0000_0000$$$::"...Mestre. Com isso, encerro minha explicação resumida."[lr]::
+77153::$$$message_0719_0000_0001$$$::"É. É muita coisa para absorver, mas acho que entendi. Desculpa pelo trabalho, Saber."::
+77154::$$$message_0719_0001_0000$$$::"...Não há motivo para se desculpar.[lr]::
+77155::$$$message_0719_0001_0001$$$::Você precisa entender a situação em que estamos para decidir nossos próximos passos."[lr]::
+77156::$$$message_0719_0001_0002$$$::Saber se inclina para a frente, atenta, esperando minhas próximas palavras.::
+77157::$$$message_0719_0002_0000$$$::Isso me diz uma coisa...[lr]::
+77158::$$$message_0719_0002_0001$$$::Saber provavelmente é como Tohsaka: do tipo que prefere atacar primeiro.[lr]::
+77159::$$$message_0719_0002_0002$$$::Isso faz sentido, mas não posso decidir o que vamos fazer sem entender direito o que eu devo fazer.::
+77160::$$$message_0719_0003_0000$$$::"Hmm... Acho que... ficar esperando também não dá. Eu não sei como são os outros Mestres, e a Illya me preocupa. Se quero impedir que mais vítimas apareçam, talvez a gente deva tentar encontrar os outros Mestres..."::
+77161::$$$message_0719_0004_0000$$$::Sair andando pela cidade sem rumo parece perigoso.[lr]::
+77162::$$$message_0719_0004_0001$$$::...Mas não consigo pensar em nada melhor.[lr]::
+77163::$$$message_0719_0004_0002$$$::Talvez eu devesse ter me unido à Tohsaka, afinal.::
+77164::$$$message_0719_0005_0000$$$::"Illya...? A Mestra de Berserker o preocupa, Shirou?"::
+77165::$$$message_0719_0006_0000$$$::"Hã...? Ah, não. Só estou tentando entender por que ela veio atrás da gente.[lr]::
+77166::$$$message_0719_0006_0001$$$::Na verdade, eu encontrei com ela antes de ontem. Foi só de passagem, mas já ouvi o nome 'Einzbern' antes também."::
+77167::$$$message_0719_0007_0000$$$::"..."[lr]::
+77168::$$$message_0719_0007_0001$$$::Isso parece chamar a atenção de Saber.[lr]::
+77169::$$$message_0719_0007_0002$$$::Ela faz uma expressão difícil de ler ao ouvir "Einzbern".::
+77170::$$$message_0719_0008_0000$$$::"Saber? Você também já ouviu falar do nome Einzbern?"[lr]::
+77171::$$$message_0719_0008_0001$$$::"...Conheço o nome. Você sabe algo sobre eles, Shirou?"::
+77172::$$$message_0719_0009_0000$$$::"Não, eu não diria isso. Só ouvi o nome por acaso. Antes de encontrarmos com ela, uma pessoa que não tem nada a ver com tudo isso perguntou se a filha dos Einzbern estava bem."[lr]::
+77173::$$$message_0719_0009_0001$$$::"...Entendo. Então você não sabe nada."[lr]::
+77174::$$$message_0719_0009_0002$$$::Saber fecha os olhos por um instante, pensativa.::
+77175::$$$message_0719_0010_0000$$$::"...Deve haver algum destino nisso. Se deseja saber mais sobre os Einzbern, então deve voltar à igreja.[lr]::
+77176::$$$message_0719_0010_0001$$$::Aquele padre poderá esclarecer suas dúvidas e apontar seu próximo caminho."::
+77177::$$$message_0719_0011_0000$$$::"A igreja...? Você quer dizer a mesma de ontem? Mas eu não deveria voltar lá. O padre disse para eu só aparecer de novo se fosse desistir de ser Mestre."::
+77178::$$$message_0719_0012_0000$$$::"Aquilo foi apenas uma mentira conveniente. As regras que aquele padre aplica são um artifício da Associação dos Magos para controlar uma disputa entre magos. Como você não pertence à Associação, não há motivo para obedecê-las."[lr]::
 77179::$$$message_0719_0012_0001$$$::"Hm..."::
-77180::$$$message_0719_0013_0000$$$::...é certamente verdade.[lr]::
-77181::$$$message_0719_0013_0001$$$::A Tohsaka pertence a Associação dos Magos, mas nós não.[lr]::
-77182::$$$message_0719_0013_0002$$$::Não ganharemos nada seguindo as ordens deles, então podemos ignorá-las.::
-77183::$$$message_0719_0014_0000$$$::"Entende? Aquele local pode ser seu último recurso, mas você não precisa seguir a ordem deles."[lr]::
-77184::$$$message_0719_0014_0001$$$::"Tem razão. Mas ainda quero evitar aquele lugar... e acho que devo evitar ver aquele padre muito também."::
+77180::$$$message_0719_0013_0000$$$::...Ela tem razão.[lr]::
+77181::$$$message_0719_0013_0001$$$::Tohsaka faz parte da Associação, mas a família Emiya é um bando de foras da lei que não tem nada a ver com eles.[lr]::
+77182::$$$message_0719_0013_0002$$$::Não ganho nada seguindo as regras da Associação, então posso ignorá-las como o velho fazia.::
+77183::$$$message_0719_0014_0000$$$::"Agora entende? Aquela igreja é um refúgio de último recurso para você, mas você não tem obrigação alguma de obedecer às leis deles."[lr]::
+77184::$$$message_0719_0014_0001$$$::"...Acho que você tem razão. Mas ainda quero evitar, se der. Tenho a sensação de que não devo ver aquele padre mais do que o necessário."::
 77185::$$$message_0719_0015_0000$$$::Kotomine Kirei.[lr]::
-77186::$$$message_0719_0015_0001$$$::Aquele padre é estranho.[lr]::
-77187::$$$message_0719_0015_0002$$$::Não é que sinto inimizade ou perigo.[lr]::
-77188::$$$message_0719_0015_0003$$$::...Não devo ver aquele homem.[lr]::
-77189::$$$message_0719_0015_0004$$$::Tenho medo porque posso quebrar na sua frente.::
-77190::$$$message_0719_0016_0000$$$::"Entendo como se sente. Não quero interagir com ele desnecessariamente."[lr]::
-77191::$$$message_0719_0016_0001$$$::Ela declara, com franqueza.[lr]::
-77192::$$$message_0719_0016_0002$$$::"...?"[lr]::
-77193::$$$message_0719_0016_0003$$$::Que inesperado.[lr]::
-77194::$$$message_0719_0016_0004$$$::Nunca pensei que espíritos heroicos teriam dificuldade em lidar com seres humanos, e acima disso[w l=4][line4]::
-77195::$$$message_0719_0017_0000$$$::"Eu sei que não gosto dele, mas por que você também não?[lr]::
-77196::$$$message_0719_0017_0001$$$::Você nem mesmo o conhece, não?"[lr]::
-77197::$$$message_0719_0017_0002$$$::"[w l=8][line8]"[lr]::
-77198::$$$message_0719_0017_0003$$$::A Saber hesita.[lr]::
-77199::$$$message_0719_0017_0004$$$::Depois de frangir, ela levanta o rosto como se livrasse de toda hesitação.::
-77200::$$$message_0719_0018_0000$$$::"Ele lutou na última Guerra do Santo Graal.[lr]::
-77201::$$$message_0719_0018_0001$$$::Não sei que Servo ele tinha, mas o Kiritsugu sempre o levou a sério."::
-77202::$$$message_0719_0019_0000$$$::"[w l=4][line4]Huh?"[lr]::
+77186::$$$message_0719_0015_0001$$$::Tenho um pressentimento de que há algo errado com ele.[lr]::
+77187::$$$message_0719_0015_0002$$$::Não é uma hostilidade simples, como não poder confiar nele ou enxergá-lo como ameaça.[lr]::
+77188::$$$message_0719_0015_0003$$$::...Eu não devia ficar perto dele.[lr]::
+77189::$$$message_0719_0015_0004$$$::Tenho medo de que, quanto mais tempo eu passar ao lado dele, mais aquilo que construí em mim vá desmoronar.::
+77190::$$$message_0719_0016_0000$$$::"Compreendo como se sente, Shirou. Concordo. Devemos evitar contato com ele sempre que possível."[lr]::
+77191::$$$message_0719_0016_0001$$$::Saber concorda com uma expressão digna.[lr]::
+77192::$$$message_0719_0016_0002$$$::"Hm?"[lr]::
+77193::$$$message_0719_0016_0003$$$::Isso me surpreende.[lr]::
+77194::$$$message_0719_0016_0004$$$::Eu não esperava que Saber, um Espírito Heroico, se sentisse desconfortável ao lidar com meros humanos. Afinal...::
+77195::$$$message_0719_0017_0000$$$::"Tudo bem comigo, mas por que você se sente assim?[lr]::
+77196::$$$message_0719_0017_0001$$$::Você nem conheceu ele ainda."[lr]::
+77197::$$$message_0719_0017_0002$$$::[font italic=true]...[font italic=false][lr]::
+77198::$$$message_0719_0017_0003$$$::Saber hesita.[lr]::
+77199::$$$message_0719_0017_0004$$$::Depois de franzir o cenho, indecisa, ela ergue a cabeça como se tivesse afastado suas dúvidas.::
+77200::$$$message_0719_0018_0000$$$::"Ele participou da Guerra do Santo Graal anterior.[lr]::
+77201::$$$message_0719_0018_0001$$$::Não sei de qual Servo ele era Mestre, mas Kiritsugu teve cautela com ele até o fim."::
+77202::$$$message_0719_0019_0000$$$::"Hã?"[lr]::
 77203::$$$message_0719_0019_0001$$$::Eu sei disso.[lr]::
-77204::$$$message_0719_0019_0002$$$::Eu sei disso, mas o que ela disse?[lr]::
-77205::$$$message_0719_0019_0003$$$::"Saber... Por que você conhece o nome do meu pai?"::
-77206::$$$message_0719_0020_0000$$$::"Eu era a Serva do Kiritsugu.[lr]::
-77207::$$$message_0719_0020_0001$$$::Emiya Kiritsugu era um Mestre na última Guerra do Santo Graal. Ele cooperou até a batalha final.[lr]::
-77208::$$$message_0719_0020_0002$$$::Durante a guerra, Emiya Kiritsugu via o padre como seu maior inimigo. Ele acreditava que o padre era o único capaz de nós derrotar."::
-77209::$$$message_0719_0021_0000$$$::"[w l=8][line8]"[lr]::
+77204::$$$message_0719_0019_0002$$$::Eu já sei disso, mas, Saber, você acabou de[line2][lr]::
+77205::$$$message_0719_0019_0003$$$::"Sa...ber... Como você sabe o nome do meu velho?"::
+77206::$$$message_0719_0020_0000$$$::"Eu disse que fui o Servo de Kiritsugu.[lr]::
+77207::$$$message_0719_0020_0001$$$::Emiya Kiritsugu foi um dos Mestres da última Guerra do Santo Graal. Eu lutei ao lado dele pelo Graal, e vencemos.[lr]::
+77208::$$$message_0719_0020_0002$$$::Kiritsugu julgava aquele padre a maior ameaça entre todos os participantes. Ele dizia que, se fôssemos derrotados, seria por ele."::
+77209::$$$message_0719_0021_0000$$$::[font italic=true]...[font italic=false][lr]::
 77210::$$$message_0719_0021_0001$$$::Espera.[lr]::
-77211::$$$message_0719_0021_0002$$$::Então que?[lr]::
-77212::$$$message_0719_0021_0003$$$::Meu pai era um Mestre na última Guerra do Santo Graal, lutou junto com a Saber e[w l=4][line4][lr]::
-77213::$$$message_0719_0021_0004$$$::Ele fez parte da causa daquele desastre?::
-77214::$$$message_0719_0022_0000$$$::"[w l=4][line4]Está mentindo. Não pode ser verdade. Então por que o Kotomine não me disse? Por que meu pai não me disse?"::
-77215::$$$message_0719_0023_0000$$$::"Não sei. Nunca compreendi o que o Kiritsugu pensava.[lr]::
-77216::$$$message_0719_0023_0001$$$::Mas tenho certeza que o padre não te disse pois você não o perguntou. Ele é um homem que responderá se você perguntar. Ele te dirá a verdade se inquirí-la."::
-77217::$$$message_0719_0024_0000$$$::"[w l=8][line8]"[lr]::
-77218::$$$message_0719_0024_0001$$$::A Saber me encara silenciosamente.[lr]::
-77219::$$$message_0719_0024_0002$$$::O significado de ser um Mestre.[lr]::
-77220::$$$message_0719_0024_0003$$$::Seus olhos verdes me dizem para ir até a igreja por vontade própria se eu quiser saber mais sobre o Emiya Kiritsugu.::
-77221::$$$message_0719_0025_0000$$$::"......"[lr]::
+77211::$$$message_0719_0021_0002$$$::Então isso significa...[lr]::
+77212::$$$message_0719_0021_0003$$$::Kiritsugu foi um Mestre na guerra anterior, lutou ao lado de Saber, e...[lr]::
+77213::$$$message_0719_0021_0004$$$::foi uma das pessoas que causaram aquele inferno?::
+77214::$$$message_0719_0022_0000$$$::"...Não. Não pode ser. Por que Kotomine não disse nada? Por que o velho nunca me contou?"::
+77215::$$$message_0719_0023_0000$$$::"Não sei. Eu nunca soube o que Kiritsugu pensava.[lr]::
+77216::$$$message_0719_0023_0001$$$::Se o padre não mencionou, então talvez você não tenha perguntado. Ele é o tipo de homem que responde a qualquer pergunta feita a ele. Creio que lhe dirá a verdade, caso toque no assunto."::
+77217::$$$message_0719_0024_0000$$$::[font italic=true]...[font italic=false][lr]::
+77218::$$$message_0719_0024_0001$$$::Saber me observa em silêncio.[lr]::
+77219::$$$message_0719_0024_0002$$$::Seus olhos verdes dizem qual é minha obrigação como Mestre: [lr]::
+77220::$$$message_0719_0024_0003$$$::se quero saber a verdade sobre Emiya Kiritsugu, devo ir à igreja por vontade própria.::
+77221::$$$message_0719_0025_0000$$$::"..."[lr]::
 77222::$$$message_0719_0025_0001$$$::Vou até a igreja.[lr]::
-77223::$$$message_0719_0025_0002$$$::A Saber deve planejar cuidar de mim, já que ela está me seguindo com essa roupa.::
-77224::$$$message_0719_0026_0000$$$::"......"[lr]::
-77225::$$$message_0719_0026_0001$$$::Eu olho para a igreja.[lr]::
-77226::$$$message_0719_0026_0002$$$::...embora a Saber tenha suplicado para eu vir até aqui, ainda não estou preparado.[lr]::
-77227::$$$message_0719_0026_0003$$$::Não tenho vontade de entrar lá para perguntar ao padre o que aconteceu a dez anos atrás.::
+77223::$$$message_0719_0025_0002$$$::Saber usa a mesma roupa de antes e fica me protegendo.::
+77224::$$$message_0719_0026_0000$$$::"..."[lr]::
+77225::$$$message_0719_0026_0001$$$::Meu olhar fica preso na igreja.[lr]::
+77226::$$$message_0719_0026_0002$$$::...Vim por sugestão de Saber, mas talvez ainda não esteja preparado.[lr]::
+77227::$$$message_0719_0026_0003$$$::Ao empurrar a porta, não sinto nenhuma vontade especial de perguntar ao padre o que aconteceu dez anos atrás.::
 77228::$$$message_0719_0027_0000$$$::"Mestre."[lr]::
-77229::$$$message_0719_0027_0001$$$::Eu olho para a garota atrás de mim.[lr]::
-77230::$$$message_0719_0027_0002$$$::"Eu aguardarei aqui. Por favor encare o padre sozinho."::
-77231::$$$message_0719_0028_0000$$$::"...eu sei. Vim tão longe, então não recuarei."[lr]::
-77232::$$$message_0719_0028_0001$$$::"Por favor não diga ao padre que eu fui invocada.[lr]::
-77233::$$$message_0719_0028_0002$$$::Você não deve dizer a ele que o mesmo espírito heroico foi invocado duas vezes."::
-77234::$$$message_0719_0029_0000$$$::"Okay. Perguntarei apenas sobre o Kiritsugu. Voltarei logo, então me espere aqui."[lr]::
-77235::$$$message_0719_0029_0001$$$::"...muito bem. Por favor tenha cuidado, Shirou. Me chame se o perigo se aproximar. Aquele padre me deixa desconfortável. Nâo sei o que acontecerá se você baixar a guarda."::
-77236::$$$message_0719_0030_0000$$$::"Sinto o mesmo. Não se preocupe, fugirei e te chamarei se qualquer coisa acontecer."[lr]::
-77237::$$$message_0719_0030_0001$$$::Eu começo a subir as escadas.[lr]::
-77238::$$$message_0719_0030_0002$$$::Entro na igreja, deixando a Saber sobre o céu de inverno.::
-77239::$$$message_0719_0031_0000$$$::Não vejo o padre na capela.[lr]::
-77240::$$$message_0719_0031_0001$$$::Em seu lugar, vejo um homem sentado em uma cadeira.[lr]::
-77241::$$$message_0719_0031_0002$$$::Seu cabelo é dourado.[lr]::
-77242::$$$message_0719_0031_0003$$$::Ele deve ser um estrangeiro.::
-77243::$$$message_0719_0032_0000$$$::"Com licença. O Pai Kotomine está?"[lr]::
-77244::$$$message_0719_0032_0001$$$::Pergunto-o, sem esperar uma resposta.::
-77245::$$$message_0719_0033_0000$$$::"[w l=8][line8]"[lr]::
-77246::$$$message_0719_0033_0001$$$::O homem lentamente levante.[lr]::
-77247::$$$message_0719_0033_0002$$$::Neste instante...[lr]::
-77248::$$$message_0719_0033_0003$$$::Todos os meus músculos endurecem.::
-77249::$$$message_0719_0034_0000$$$::Ele anda até mim.[lr]::
-77250::$$$message_0719_0034_0001$$$::Há algo estranho nessa simples ação.[lr]::
-77251::$$$message_0719_0034_0002$$$::Ele está andando até mim casualmente.[lr]::
-77252::$$$message_0719_0034_0003$$$::É tudo que ele está fazendo, então[w l=3][line3]por que estou me preparando para ser morto por este homem?::
-77253::$$$message_0719_0035_0000$$$::"Ah[w l=4][line4]"[lr]::
-77254::$$$message_0719_0035_0001$$$::O homem levanta seu braço.[lr]::
-77255::$$$message_0719_0035_0002$$$::Ele se aproxima do meu pescoço e[w l=4][line4][lr]::
-77256::$$$message_0719_0035_0003$$$::...para no meio do ar.::
-77257::$$$message_0719_0036_0000$$$::"[w l=4][line4]Hm. Você está encantado com algo desagradável."[lr]::
-77258::$$$message_0719_0036_0001$$$::Ele se afasta.[lr]::
-77259::$$$message_0719_0036_0002$$$::Sim, é normal.[lr]::
-77260::$$$message_0719_0036_0003$$$::Eu quem sou o estranho por pensar que ele ia me matar apenas por se aproximar.::
-77261::$$$message_0719_0037_0000$$$::"Espere aqui. Você quer falar com o Kotomine, sim?"[lr]::
-77262::$$$message_0719_0037_0001$$$::Ele desaparece atrás do altar.::
-77263::$$$message_0719_0038_0000$$$::"......"[lr]::
-77264::$$$message_0719_0038_0001$$$::Vários minutos se passam.[lr]::
-77265::$$$message_0719_0038_0002$$$::"Estou surpreso. Resolveu se aposentar depois de meio dia, Emiya Shirou?"[lr]::
-77266::$$$message_0719_0038_0003$$$::Kotomine aparece, me cumprimentando com aquele tom irritante de noite passada.::
-77267::$$$message_0719_0039_0000$$$::"[w l=3][line3]Não é isso. Vim aqui pois quero te perguntar algo. Não viria aqui por qualquer outro motivo."[lr]::
-77268::$$$message_0719_0039_0001$$$::"Muito bem. Sou um homem ocupado, então não quero as pessoas se apegando a mim."::
-77269::$$$message_0719_0040_0000$$$::O Kotomine se aproxima, seus passos firmes preenchendo o ambiente.[lr]::
-77270::$$$message_0719_0040_0001$$$::...é isso que chamam de pressão invisível?[lr]::
-77271::$$$message_0719_0040_0002$$$::Ele tem um ar severo que fazem as pessoas perceberem suas fraquezas.[lr]::
-77272::$$$message_0719_0040_0003$$$::Deve ser uma característica positiva para padres, mas poderia ser ela o maior defeito deles também?::
-77273::$$$message_0719_0041_0000$$$::"O que foi? Vá em frente, pergunte se tiver dúvidas. Não há necessidade de nós cumprimentarmos."[lr]::
-77274::$$$message_0719_0041_0001$$$::"[w l=8][line8]"::
-77275::$$$message_0719_0042_0000$$$::...ele está certo.[lr]::
-77276::$$$message_0719_0042_0001$$$::Não preciso ser amigo dele.[lr]::
-77277::$$$message_0719_0042_0002$$$::Vim confirmar o que a Saber quis dizer.[lr]::
-77278::$$$message_0719_0042_0003$$$::Devo fazer perguntas e ir embora logo.::
-77279::$$$message_0719_0043_0000$$$::"Só há uma coisa que preciso te perguntar. Por que não me disse sobre isso."[lr]::
-77280::$$$message_0719_0043_0001$$$::"Hmm. O que eu não disse?"[lr]::
-77281::$$$message_0719_0043_0002$$$::"[w l=4][line4]Sobre meu pai. Por que não me disse que Emiya Kiritsugu era um Mestre na Guerra do Santo Graal anterior?"[lr]::
-77282::$$$message_0719_0043_0003$$$::Ele não parece culpado. ...esse homem está se divertindo com o fato de eu ter dito o nome do Kiritsugu.::
-77283::$$$message_0719_0044_0000$$$::"Me responda. Você deve saber pois é o supervisor da Guerra do Santo Graal. Então por que não me disse antes?"::
-77284::$$$message_0719_0045_0000$$$::"Não é óbvio? Que diferença faria se você soubesse que seu pai era um Mestre? As conquistas de Emiya Kiritsugu pouco importam contigo."::
-77285::$$$message_0719_0046_0000$$$::A resposta de Kotomine não está errada.[lr]::
-77286::$$$message_0719_0046_0001$$$::Mesmo se meu pai era um grande Mestre, não ganho nada com isso.[lr]::
-77287::$$$message_0719_0046_0002$$$::Mas[w l=4][line4]::
-77288::$$$message_0719_0047_0000$$$::"...não, há uma conexão. Virei um Mestre porque sou o filho do Kiritsugu?"[lr]::
-77289::$$$message_0719_0047_0001$$$::Fui criado como seu filho, e estudei magia como seu aprendiz.[lr]::
-77290::$$$message_0719_0047_0002$$$::Me tornei um Mestre como ele, e fiz um contrato como o mesmo espírito heroico. Há que ter um significado atrás disso.::
-77291::$$$message_0719_0048_0000$$$::"Você disse que me tornei um Mestre ao acaso.[lr]::
-77292::$$$message_0719_0048_0001$$$::Teria escolhido lutar aqui e agora se tivesse me dito que o Kiritsugu era um Mestre. Por que não me disse?"::
-77293::$$$message_0719_0049_0000$$$::"Não era problema meu.[lr]::
-77294::$$$message_0719_0049_0001$$$::Nunca ouvi nada sobre o título de Mestre ser hereditário, e de qualquer caso, não sou o filho do Kiritsugu.[lr]::
-77295::$$$message_0719_0049_0002$$$::É raro uma pessoa despreparada ser escolhida como Mestre."::
-77296::$$$message_0719_0050_0000$$$::"O Selo de Comando normalmente não é dado para alguém que conhece nada sobre o Santo Graal. Nâo sei por que você foi escolhido como exceção."::
-77297::$$$message_0719_0051_0000$$$::"...então não tenho conexão alguma com meu pai?[lr]::
-77298::$$$message_0719_0051_0001$$$::Fui escolhido para ser um Mestre ao acaso, e meu pai me salvou porque..."[lr]::
-77299::$$$message_0719_0051_0002$$$::...ele me salvou por pura boa vontade?::
-77300::$$$message_0719_0052_0000$$$::"Pelo o que eu saiba. Mas não entendo as intenções do Santo Graal. Gostaria de dizer que você foi escolhido ao acaso, mas desconfio que há dedo do destino nisso.[lr]::
-77301::$$$message_0719_0052_0001$$$::O Graal pode querer que você pague pelo pecado de seu pai por negar seu poder."::
-77302::$$$message_0719_0053_0000$$$::"Que...? Meu pai negou o Santo Graal?"[lr]::
-77303::$$$message_0719_0053_0001$$$::"Exato. Seu pai veio até esta cidade para obté-lo.[lr]::
-77304::$$$message_0719_0053_0002$$$::Seu único propósito era obter o Santo Graal. O Santo Graal respondeu seu puro desejo, e talvez pensou que ele seria um dono adequado."::
-77305::$$$message_0719_0054_0000$$$::"Mas Emiya Kiritsugu traiu o Santo Graal.[lr]::
-77306::$$$message_0719_0054_0001$$$::Ele destruiu o Santo Graal no final. Para acabar com a Guerra, ele traiu o Santo Graal que colocou expectativas nele e em seu desejo."::
-77307::$$$message_0719_0055_0000$$$::"Ele destruiu[w l=4][line4]o Santo Graal...?"[lr]::
-77308::$$$message_0719_0055_0001$$$::Se for verdade, então o Santo Graal certamente não aprovaria Emiya Kiritsugu.::
-77309::$$$message_0719_0056_0000$$$::Mas ele está certo.[lr]::
-77310::$$$message_0719_0056_0001$$$::Um Santo Graal que atende qualquer desejo.[lr]::
-77311::$$$message_0719_0056_0002$$$::Magos se matam para obtê-lo.[lr]::
-77312::$$$message_0719_0056_0003$$$::...o Santo Gral é a causa do conflito.[lr]::
-77313::$$$message_0719_0056_0004$$$::Meu pai não traiu ninguém quando ele o destruiu.[lr]::
-77314::$$$message_0719_0056_0005$$$::Ele acabou com a Guerra como um super-herói que sempre admirei.::
-77315::$$$message_0719_0057_0000$$$::"...ele não traiu ninguém. Kiritsugu deve ter destruído o Santo Graal pois pensou que não tinha necessidade para ele. Ele não traiu ninguém."::
-77316::$$$message_0719_0058_0000$$$::"Hm. Talvez você desconheça como o Kiritsugu foi.[lr]::
-77317::$$$message_0719_0058_0001$$$::[w l=3][line3]Tudo bem. Não há motivo para tal, mas te direi a real identidade de Emiya Kiritsugu."[lr]::
-77318::$$$message_0719_0058_0002$$$::O padre sorri.[lr]::
-77319::$$$message_0719_0058_0003$$$::Um sorriso sombrio de alguém intoxicado com prazer.::
+77229::$$$message_0719_0027_0001$$$::Viro-me para a garota atrás de mim.[lr]::
+77230::$$$message_0719_0027_0002$$$::"Esperarei aqui. Você deve encarar o padre sozinho."::
+77231::$$$message_0719_0028_0000$$$::"...Eu sei. Não vou embora depois de vir até aqui."[lr]::
+77232::$$$message_0719_0028_0001$$$::"Por favor, não diga ao padre que me invocou.[lr]::
+77233::$$$message_0719_0028_0002$$$::Você não deve revelar que o mesmo Espírito Heroico foi invocado duas vezes."::
+77234::$$$message_0719_0029_0000$$$::"É. Vou só perguntar sobre Kiritsugu. Já volto, então aguenta aí."[lr]::
+77235::$$$message_0719_0029_0001$$$::"...Sim. Tenha cuidado, Shirou. Se houver perigo, chame-me imediatamente. Há algo perverso naquele padre. Não dá para saber o que pode acontecer se você baixar a guarda."::
+77236::$$$message_0719_0030_0000$$$::"Não discordo. Se acontecer alguma coisa, eu corro e chamo você."[lr]::
+77237::$$$message_0719_0030_0001$$$::Subo os degraus.[lr]::
+77238::$$$message_0719_0030_0002$$$::Saber fica sozinha sob o céu frio de inverno enquanto entro na igreja.::
+77239::$$$message_0719_0031_0000$$$::Não há sinal do padre na capela.[lr]::
+77240::$$$message_0719_0031_0001$$$::Em vez dele, há alguém sentado nos bancos.[lr]::
+77241::$$$message_0719_0031_0002$$$::Visto de costas, tem cabelos loiros.[lr]::
+77242::$$$message_0719_0031_0003$$$::Deve ser um estrangeiro aqui para rezar.::
+77243::$$$message_0719_0032_0000$$$::"Com licença. O padre Kotomine está aqui?"[lr]::
+77244::$$$message_0719_0032_0001$$$::Pergunto mesmo assim.::
+77245::$$$message_0719_0033_0000$$$::[font italic=true]...[font italic=false][lr]::
+77246::$$$message_0719_0033_0001$$$::A figura se levanta com preguiça.[lr]::
+77247::$$$message_0719_0033_0002$$$::Só de olhar, percebo que seus movimentos[lr]::
+77248::$$$message_0719_0033_0003$$$::são firmes e fortes.::
+77249::$$$message_0719_0034_0000$$$::Ele vem na minha direção.[lr]::
+77250::$$$message_0719_0034_0001$$$::Não há nada de estranho no modo como se move, mas há algo que não consigo definir.[lr]::
+77251::$$$message_0719_0034_0002$$$::O homem se aproxima como se nada estivesse acontecendo.[lr]::
+77252::$$$message_0719_0034_0003$$$::Então por que sinto como se estivesse prestes a lutar pela minha vida?::
+77253::$$$message_0719_0035_0000$$$::"Ah[line2]"[lr]::
+77254::$$$message_0719_0035_0001$$$::O homem ergue a mão.[lr]::
+77255::$$$message_0719_0035_0002$$$::Enquanto meu corpo congela, ele leva a mão devagar até meu pescoço...[lr]::
+77256::$$$message_0719_0035_0003$$$::...mas para no meio do ar.::
+77257::$$$message_0719_0036_0000$$$::"...Oh? [font italic=true]Algo[font italic=false] bastante desagradável parece ter se apegado a você."[lr]::
+77258::$$$message_0719_0036_0001$$$::O homem se vira para sair.[lr]::
+77259::$$$message_0719_0036_0002$$$::Não posso dizer que ele está errado.[lr]::
+77260::$$$message_0719_0036_0003$$$::Seria estranho dizer o contrário quando senti medo de morrer só porque alguém caminhou até mim.::
+77261::$$$message_0719_0037_0000$$$::"Espere aí. Você procura Kotomine, sim?"[lr]::
+77262::$$$message_0719_0037_0001$$$::O homem desaparece atrás do altar.::
+77263::$$$message_0719_0038_0000$$$::"..."[lr]::
+77264::$$$message_0719_0038_0001$$$::Depois de esperar alguns minutos...[lr]::
+77265::$$$message_0719_0038_0002$$$::"Estou surpreso. Pensar que você desistiria depois de apenas meio dia, Emiya Shirou."[lr]::
+77266::$$$message_0719_0038_0003$$$::O padre Kotomine aparece e me cumprimenta com seu tom desagradável de sempre.::
+77267::$$$message_0719_0039_0000$$$::"Não pretendo desistir. Só vim fazer uma pergunta. Como se eu fosse aparecer só pelos motivos que você deu."[lr]::
+77268::$$$message_0719_0039_0001$$$::"Por mim, tudo bem. Também sou um homem ocupado, então não gostaria que você se tornasse dependente."::
+77269::$$$message_0719_0040_0000$$$::Kotomine se aproxima, seus passos duros ecoando.[lr]::
+77270::$$$message_0719_0040_0001$$$::...É como se uma pressão invisível emanasse dele.[lr]::
+77271::$$$message_0719_0040_0002$$$::Ele exala uma severidade que me faz sentir cada falha minha só por estar perto.[lr]::
+77272::$$$message_0719_0040_0003$$$::Talvez isso ajude alguém na posição dele... embora, ao mesmo tempo, não seja meio contraproducente para um padre?::
+77273::$$$message_0719_0041_0000$$$::"Então? Faça sua pergunta. Mal nos conhecemos, e não vejo necessidade de trocar gentilezas."[lr]::
+77274::$$$message_0719_0041_0001$$$::[font italic=true]...[font italic=false]::
+77275::$$$message_0719_0042_0000$$$::...É verdade.[lr]::
+77276::$$$message_0719_0042_0001$$$::Eu não preciso fazer amizade com esse homem.[lr]::
+77277::$$$message_0719_0042_0002$$$::Só vim confirmar o que Saber me contou.[lr]::
+77278::$$$message_0719_0042_0003$$$::Depois disso, posso sair daqui e me dar por satisfeito.::
+77279::$$$message_0719_0043_0000$$$::"Uma pergunta. Por que você não me contou?"[lr]::
+77280::$$$message_0719_0043_0001$$$::"A que exatamente você se refere?"[lr]::
+77281::$$$message_0719_0043_0002$$$::"Sobre meu velho. Por que você não disse que Emiya Kiritsugu foi Mestre na última Guerra do Santo Graal?"[lr]::
+77282::$$$message_0719_0043_0003$$$::O padre não demonstra o menor sinal de culpa. Na verdade, parece se divertir ao me ouvir dizer o nome de Kiritsugu.::
+77283::$$$message_0719_0044_0000$$$::"Responda. Se você é o supervisor desta guerra, então deveria saber. Por que não me contou?"::
+77284::$$$message_0719_0045_0000$$$::"Porque quase não havia motivo. Que benefício você teria ao saber que seu pai foi Mestre? Os atos de Emiya Kiritsugu não dizem respeito a Emiya Shirou."::
+77285::$$$message_0719_0046_0000$$$::O que ele diz faz sentido.[lr]::
+77286::$$$message_0719_0046_0001$$$::Mesmo que o velho tenha sido um Mestre excelente, saber disso não me ajudaria em nada.[lr]::
+77287::$$$message_0719_0046_0002$$$::Mas...::
+77288::$$$message_0719_0047_0000$$$::"Não, [font italic=true]diz[font italic=false] respeito a mim. Eu me tornei Mestre por ser filho de Kiritsugu?"[lr]::
+77289::$$$message_0719_0047_0001$$$::Kiritsugu me criou como filho e me treinou em Magia como aprendiz.[lr]::
+77290::$$$message_0719_0047_0002$$$::Eu me tornei Mestre como ele e fiz contrato com Saber, o mesmo Espírito Heroico. Qualquer um ligaria uma coisa à outra.::
+77291::$$$message_0719_0048_0000$$$::"Você disse que foi coincidência eu me tornar Mestre.[lr]::
+77292::$$$message_0719_0048_0001$$$::Mas, se tivesse me contado sobre Kiritsugu, eu lutaria nessa guerra por vontade própria, exatamente como você quer. Por que não mencionou isso?"::
+77293::$$$message_0719_0049_0000$$$::"Isso está além do meu conhecimento.[lr]::
+77294::$$$message_0719_0049_0001$$$::Não conheço nenhuma sucessão genética da condição de Mestre e, para começar, você não é filho de sangue de Kiritsugu.[lr]::
+77295::$$$message_0719_0049_0002$$$::É muito raro que um humano sem intenção nem preparo seja escolhido como Mestre."::
+77296::$$$message_0719_0050_0000$$$::"Normalmente, os Selos de Comando não seriam concedidos a alguém ignorante sobre o Santo Graal, mesmo que esse alguém fosse mago. Não sei por que uma exceção como você ocorreria."::
+77297::$$$message_0719_0051_0000$$$::"...Então isso não tem nada a ver com meu pai?[lr]::
+77298::$$$message_0719_0051_0001$$$::Você está dizendo que virar Mestre foi coincidência, e que ele me salvou naquele dia só por..."[lr]::
+77299::$$$message_0719_0051_0002$$$::...pura bondade, porque queria salvar uma criança à beira da morte?::
+77300::$$$message_0719_0052_0000$$$::"Até onde sei. Mas não posso adivinhar a vontade do Santo Graal. Por mais que eu queira tratar sua escolha como mero acaso, sinto alguma ligação cármica em ação.[lr]::
+77301::$$$message_0719_0052_0001$$$::Talvez o Santo Graal tenha escolhido o filho de Emiya Kiritsugu para exigir expiação pela rejeição do Graal."::
+77302::$$$message_0719_0053_0000$$$::"O quê...? Meu velho... rejeitou o Graal?"[lr]::
+77303::$$$message_0719_0053_0001$$$::"Sim. Seu pai veio a esta cidade para obter o Santo Graal.[lr]::
+77304::$$$message_0719_0053_0002$$$::Esse era seu único objetivo. O Graal respondeu a esse desejo puro. Talvez estivesse disposto a se entregar às mãos dele."::
+77305::$$$message_0719_0054_0000$$$::"Mas Kiritsugu traiu o Graal.[lr]::
+77306::$$$message_0719_0054_0001$$$::No último instante possível, ele o destruiu. Voltou-se contra o próprio desejo e contra as expectativas do Graal para encerrar a Guerra do Santo Graal."::
+77307::$$$message_0719_0055_0000$$$::"Ele... destruiu...?"[lr]::
+77308::$$$message_0719_0055_0001$$$::Se isso for verdade, então o Santo Graal certamente não aprovaria.::
+77309::$$$message_0719_0056_0000$$$::Mas foi a coisa certa a fazer.[lr]::
+77310::$$$message_0719_0056_0001$$$::Um Santo Graal capaz de realizar qualquer desejo.[lr]::
+77311::$$$message_0719_0056_0002$$$::Magos lutando por ele para obter esse poder.[lr]::
+77312::$$$message_0719_0056_0003$$$::...Pensando bem, o Graal é a causa de toda a luta.[lr]::
+77313::$$$message_0719_0056_0004$$$::O velho não traiu nada ao destruí-lo.[lr]::
+77314::$$$message_0719_0056_0005$$$::Kiritsugu encerrou a guerra sendo fiel a si mesmo e fazendo o certo, sendo o campeão da justiça que eu sempre admirei.::
+77315::$$$message_0719_0057_0000$$$::"...Isso não é traição. Aposto que Kiritsugu destruiu o Santo Graal porque percebeu que não precisava dele. Ele não traiu nada."::
+77316::$$$message_0719_0058_0000$$$::"Hm. É verdade, você não conheceu o homem como ele era.[lr]::
+77317::$$$message_0719_0058_0001$$$::...Muito bem. Talvez seja perda de tempo, mas direi quem aquele homem realmente foi."[lr]::
+77318::$$$message_0719_0058_0002$$$::Os lábios do padre se curvam.[lr]::
+77319::$$$message_0719_0058_0003$$$::É um sorriso repulsivo, como se ele saboreasse o momento.::
 77320::$$$message_0719_0059_0000$$$::"Emiya Kiritsugu.[lr]::
-77321::$$$message_0719_0059_0001$$$::Ele era um mago sem relação alguma com a Guerra do Santo Graal. Ele vivia por seus desejos e objetivos, e como resultado, buscou o Santo Graal.[lr]::
-77322::$$$message_0719_0059_0002$$$::Um milagre que ele não poderia tornar realidade sozinho.[lr]::
-77323::$$$message_0719_0059_0003$$$::Um ideal que ele não podia implementar com mero poder humano.[lr]::
-77324::$$$message_0719_0059_0004$$$::Ele não pode deixar de lado seu sonho imaturo que deveria ter sido esquecido, e é por isso que ele buscou o Graal para tornar esse sonho real."::
-77325::$$$message_0719_0060_0000$$$::"[w l=3][line3]Desconheço onde ele ouviu sobre a Guerra do Santo Graal.[lr]::
-77326::$$$message_0719_0060_0001$$$::Deve ter sido de alguém que o julgou digno. Mas não ligo para isso."::
-77327::$$$message_0719_0061_0000$$$::"De qualquer modo, Emiya Kiritsugu foi contratado como Mestre.[lr]::
-77328::$$$message_0719_0061_0001$$$::Ele foi nomeado o maior Mestre pelos Einzberns[w l=3][line3]a família responsável por esse ritual."::
-77329::$$$message_0719_0062_0000$$$::"Tendo aprendido com as três guerras anteriores, a família Einzbern buscou um Mestre especializado em lutar.[lr]::
-77330::$$$message_0719_0062_0001$$$::A magia dos Einzberns não é apropriada para batalha. Então, depositaram sua confiança no Kiritsugu, um mago forte sem relação com a Associação dos Magos."::
-77331::$$$message_0719_0063_0000$$$::"Eles ensinaram o Kiritsugu sobre o Santo Graal, derão poder como Mestre, e uma mulher para produzir um successor mais apropriado para o combate.[lr]::
-77332::$$$message_0719_0063_0001$$$::Ele seria formalmente aceito na família Einzbern se obtesse o Santo Graal. Seria como um João Ningúem ser aceito em uma família de nobres.[lr]::
-77333::$$$message_0719_0063_0002$$$::Os Einzberns tratavam o Kiritsugu excepcionalmente, e era fácil imaginar a confiança que tinham nele."::
-77334::$$$message_0719_0064_0000$$$::"E Kiritsugu respondeu sua confiança.[lr]::
-77335::$$$message_0719_0064_0001$$$::Kiritsugu derrotou vários Mestres na guerra anterior. Sou o único que sobreviveu a ele. Todos os demais foram mortos.[lr]::
-77336::$$$message_0719_0064_0002$$$::Ele era preciso, cuidadoso, brutal, e cruel. Não mostrava piedade ao seus inimigos. Uma vez que a decisão fosse tomada, ele matava. Ele matou um Servo, deixou o Mestre implorando por ajuda enquanto se arrastava no chão, e impiedosamente atirou em sua cabeça. Ele não demonstrava emoção nem mesmo após matar. Nem a supremacia de sua força ou culpa por matar os fracos."::
-77337::$$$message_0719_0065_0000$$$::"Em suma, ele era uma máquina.[lr]::
-77338::$$$message_0719_0065_0001$$$::Ele não tinha emoção sequer. Não havia espaço para suas emoções humanas atuarem."::
-77339::$$$message_0719_0066_0000$$$::"Que[w l=4][line4]meu pai era uma máquina...?"[lr]::
-77340::$$$message_0719_0066_0001$$$::"Sim, ele matava.[lr]::
-77341::$$$message_0719_0066_0002$$$::Ele não ligava em envolver inocentes, diferente de você. Ele atacava a fraqueza de seus inimigos de todas as formas, não permitindo a oportunidade de um contrataque. Ele usava a família de seus inimigos como escudo e seus amigos como algemas para ganhar a guerra."::
-77342::$$$message_0719_0067_0000$$$::"Sim. Se ele estivesse nessa guerra, ele seria o Mestre que você mais odiaria. Se ser sem coração fosse um mal, ele seria o maior mal de todos."::
-77343::$$$message_0719_0068_0000$$$::"[w l=8][line8]"[lr]::
-77344::$$$message_0719_0068_0001$$$::"Que foi? Ainda não está satisfeito?[lr]::
-77345::$$$message_0719_0068_0002$$$::Entendo. Emiya Kiritsugu não era uma máquina.[lr]::
-77346::$$$message_0719_0068_0003$$$::Ele jogou tudo fora por seus objetivos. Era tanto sua força quanto sua fraqueza deixar suas emoções de lado sem mesmo usar auto-hipnose.[lr]::
-77347::$$$message_0719_0068_0004$$$::Seria fácil preparar outra personalidade 'fria' nele, mas ele acreditava que tal pessoa nunca obteria o Santo Graal."::
-77348::$$$message_0719_0069_0000$$$::"Ele foi tão longe, mas[w l=4][line4]essa mesma fraqueza o fez trair tudo.[lr]::
-77349::$$$message_0719_0069_0001$$$::Os Einzberns confiaram seu duradouro desejo ao Kiritsugu.[lr]::
-77350::$$$message_0719_0069_0002$$$::O Santo Graal apareceu depois dos cinco Mestres serem derrotados.[lr]::
-77351::$$$message_0719_0069_0003$$$::Era um desejo que nenhum humano poderia tornar realidade, um desejo que Emiya Kiritsugu desejava."::
-77352::$$$message_0719_0070_0000$$$::"Mas ele jogou tudo fora no último instante.[lr]::
-77353::$$$message_0719_0070_0001$$$::Esse foi o fim da última Guerra do Santo Graal[w l=4][line4]a verdadeira natureza do mago que você chama de pai."::
-77354::$$$message_0719_0071_0000$$$::"O Santo Graal desapareceu e a guerra acabou.[lr]::
-77355::$$$message_0719_0071_0001$$$::Os Einzberns recuaram após terem sido traídos pelo Kiritsugu, e passaram os últimos dez anos preparando o próximo Santo Graal."::
-77356::$$$message_0719_0072_0000$$$::"...Hm. Agora que penso nisso, ele devem ter visto essa guerra chegando.[lr]::
-77357::$$$message_0719_0072_0001$$$::A guerra anterior acabou sem resultado.[lr]::
-77358::$$$message_0719_0072_0002$$$::Energia mágica não utilizada se mantém na guerra seguinte. Eles sabiam que a próxima começaria logo."::
-77359::$$$message_0719_0073_0000$$$::"......"[lr]::
-77360::$$$message_0719_0073_0001$$$::Não posso aceitar a história do Kotomine.[lr]::
-77361::$$$message_0719_0073_0002$$$::Que o Kiritsugu era um mago sem coração...[lr]::
-77362::$$$message_0719_0073_0003$$$::E que uma família nobre de magos tinha conexão com meu pai...::
-77363::$$$message_0719_0074_0000$$$::Não tenho como aceitar tudo isso assim de repente.[lr]::
-77364::$$$message_0719_0074_0001$$$::...tudo que posso dizer é que Kotomine não mentiu, e[w l=3][line3][lr]::
-77365::$$$message_0719_0074_0002$$$::"[w l=3][line3]Kotomine. Você odeia o Kiritsugu?"[lr]::
-77366::$$$message_0719_0074_0003$$$::O homem diante de mim, aquele desinteressado em tudo, mostrou ódio ao Kiritsugu.::
-77367::$$$message_0719_0075_0000$$$::"Claro. Somos opostos em uma escala. Inimigos naturais. Makiri e Einzbern consideravam nós identicos, mas tratavamos um ao outro como inimigos naturais."::
-77368::$$$message_0719_0076_0000$$$::"...inimigos naturais? Você ficava alerta contra meu pai assim como ele ficava contra você?"[lr]::
-77369::$$$message_0719_0076_0001$$$::"Não. Simplesmente não podiamos nós ignorar."::
-77370::$$$message_0719_0077_0000$$$::"Ele era um santo irredimível.[lr]::
-77371::$$$message_0719_0077_0001$$$::Ele não podia perdoar mortes, mas matava para salvar outros. Se um sacríficio fosse necessário para salvar 10, ele o sacrificaria sem pensar duas vezes."::
-77372::$$$message_0719_0078_0000$$$::"Ele sempre preparava o minimo de sacrifíos para fazer seu mundo perfeito onde todos possam sorrir realidade.[lr]::
-77373::$$$message_0719_0078_0001$$$::[w l=4][line4]Essa contradição.[lr]::
-77374::$$$message_0719_0078_0002$$$::Um ideal contraditório é algo que também tenho, mas não somos iguais."::
-77375::$$$message_0719_0079_0000$$$::"Ele vivia por esse ideal. Ele perseguiu esse ideal até quando ele destruiu o Graal.[lr]::
-77376::$$$message_0719_0079_0001$$$::Por isso ele tinha orgulho de si, permitindo-o virar uma máquina sem hesitar."::
-77377::$$$message_0719_0080_0000$$$::"Essa é nossa similariedade e nossa diferença.[lr]::
-77378::$$$message_0719_0080_0001$$$::Ele tinha uma mente de aço livre de conflito interno.[lr]::
-77379::$$$message_0719_0080_0002$$$::A razão dele nunca se ferir[w l=3][line3]era que ele já estava ferido desde o principio.[lr]::
-77380::$$$message_0719_0080_0003$$$::Ele era um bruto artificial, assim como eu sou um padre artificial."::
-77381::$$$message_0719_0081_0000$$$::"......"[lr]::
-77382::$$$message_0719_0081_0001$$$::'Ele já estava ferido desde o principio'.[lr]::
-77383::$$$message_0719_0081_0002$$$::Então significa que a premissa que ele acreditava estava errada desde o começo.::
-77384::$$$message_0719_0082_0000$$$::"...então está dizendo que você é diferente? Você se fere, e não está ferido. Você é um humano normal que pode ser ferido se for cortado, certo? Está falando que você é diferente do Kiritsugu porque você é um padre...?"::
-77385::$$$message_0719_0083_0000$$$::"Hm. As pessoas não nós considerariam similares se fosse o caso.[lr]::
-77386::$$$message_0719_0083_0001$$$::As pessoas pensavam que eramos similares em outro aspecto.[lr]::
-77387::$$$message_0719_0083_0002$$$::...deixe eu ver. Se você diz similar, você é mais similar a ele do que eu."::
-77388::$$$message_0719_0084_0000$$$::"Ambos tem ideais infantis.[lr]::
-77389::$$$message_0719_0084_0001$$$::Acreditando na simplicididade e executando o papel de um criminoso por aquele ideal.[lr]::
-77390::$$$message_0719_0084_0002$$$::Transformando vocês mesmo no maior dos males para eliminar todos os males menores do mundo.[lr]::
-77391::$$$message_0719_0084_0003$$$::Você e o Kiritsugu agem como os salvadores que chamamos de 'anti-herois'."::
-77392::$$$message_0719_0085_0000$$$::"......? Como assim, anti-herói?"[lr]::
-77393::$$$message_0719_0085_0001$$$::"É como parece ser. O oposto de um herói, um assassino imperdoável."[lr]::
-77394::$$$message_0719_0085_0002$$$::"Ei, isso é um vilão. Está me zoando?"::
-77395::$$$message_0719_0086_0000$$$::"Ora ora. Parece que você me interpretou mal. Estou te dando boas vindas. Você é o filho do Kiritsugu. Pense como seria ter o filho do seu inimigo vindo até você querendo ajuda. É um sentimento complexo que é impossível decidir se é feliz ou triste."::
-77396::$$$message_0719_0087_0000$$$::O padre ri silenciosamente.[lr]::
-77397::$$$message_0719_0087_0001$$$::...não sei suas verdadeiras intenções, mas ele não parece entendiado.::
-77398::$$$message_0719_0088_0000$$$::"Bem, sobre o anti-herói.[lr]::
-77399::$$$message_0719_0088_0001$$$::São seres cuja existência é mal, mas suas ações são boas de acordo com o povo. São pessoas proclamadas como salvadores, mesmo que não queiram ser."::
-77400::$$$message_0719_0089_0000$$$::"Esses espíritos heroicos são chamados de anti-heróis. Um exemplo disso seria um sacrifício."::
-77401::$$$message_0719_0090_0000$$$::"Mesmo se o sacrificado for mal, ele seria um herói se todos no vilarejo fossem salvo por conta do sacrificio, não?[lr]::
-77402::$$$message_0719_0090_0001$$$::Nem importaria a ninguém se o sacrifício fosse comido ou enterrado.[lr]::
-77403::$$$message_0719_0090_0002$$$::Se aquele quem foi forçado a tal save as pessoas, ele seria um herói ao invés de um pecador."::
-77404::$$$message_0719_0091_0000$$$::"......seria como receber uma promoção ao morrer em combate?"::
-77405::$$$message_0719_0092_0000$$$::"[w l=4][line4]Não, se enganou.[lr]::
-77406::$$$message_0719_0092_0001$$$::A parte importante são as mentes das pessoas que escolhem o herói.[lr]::
-77407::$$$message_0719_0092_0002$$$::Um herói de fato é criado a partir do respeito, gratidão e sentimento de culpa. Você não pode virar um anti-herói a partir de gratidão ou culpa.[lr]::
-77408::$$$message_0719_0092_0003$$$::...Bem, humanos esquecem sua feiura e substituem farça com trágedia. Heróis quem morrem maléficos serão tratados como vítimas com os anos, e não serão mais puro mal."::
-77409::$$$message_0719_0093_0000$$$::"...não serão mais puro mal...?"[lr]::
-77410::$$$message_0719_0093_0001$$$::"Correto. Anti-heróis tem que ser tanto vítima quanto assaltante.[lr]::
-77411::$$$message_0719_0093_0002$$$::...eles são criados pelas pessoas, mas não fazem parte da humanidade. Essa contradição que permite que eles sejam o 'inimigo do mundo' livre de todas as forças que o segurariam."::
-77412::$$$message_0719_0094_0000$$$::"...mas então, não há muitos anti-heróis puros.[lr]::
-77413::$$$message_0719_0094_0001$$$::Eles são algo que não existem. São meramente o que as pessoas desejam a existência."::
-77414::$$$message_0719_0095_0000$$$::"São um ideal que humanos criaram, sacríficios para negar o pecado original.[lr]::
-77415::$$$message_0719_0095_0001$$$::Apenas pense sobre os anti-heróis como um desses desejados que nunca se tornaram realidade; a synonym for peace."[lr]::
-77416::$$$message_0719_0095_0002$$$::"......?"::
-77417::$$$message_0719_0096_0000$$$::"...Hah. Em suma, é um sonho inocente que nunca será real.[lr]::
-77418::$$$message_0719_0096_0001$$$::Você quer ser um superheroi como o Kiritsugu, sim?[lr]::
-77419::$$$message_0719_0096_0002$$$::Então você será um grande anti-herói. Que tal? Por que você não deseja se tornar um herói quando obter o Santo Graal?"::
-77420::$$$message_0719_0097_0000$$$::"...ei ei.[lr]::
-77421::$$$message_0719_0097_0001$$$::Um superheroi não é um mero herói. Não sei o que você está tentando me dizer, mas não cairei em seus truques baratos."::
-77422::$$$message_0719_0098_0000$$$::"Ah? E como seria diferente?"[lr]::
-77423::$$$message_0719_0098_0001$$$::"N-não sei!! Só seria, okay!? E um herói não é algo que você tenta ser, é algo que você é no fim. Aposto que a única coisa que o Santo Graal poderia me dar é poder além do que mereço."::
-77424::$$$message_0719_0099_0000$$$::"[w l=3][line3]Entendo. Você é filho dele mesmo, mesmo que não seja de sangue. Ambos são cabeça dura."[lr]::
-77425::$$$message_0719_0099_0001$$$::Ele deve estar tirando uma comigo, já que seu sorriso é amigável.::
-77426::$$$message_0719_0100_0000$$$::"Hm......"[lr]::
-77427::$$$message_0719_0100_0001$$$::...esse cara odeia meu pai.[lr]::
-77428::$$$message_0719_0100_0002$$$::Mas ele não me irrita porque...[lr]::
-77429::$$$message_0719_0100_0003$$$::...bem...[lr]::
-77430::$$$message_0719_0100_0004$$$::Ele ainda não falou mal dele.::
-77431::$$$message_0719_0101_0000$$$::"Ei. Você não teria se dado bem com meu pai?"[lr]::
-77432::$$$message_0719_0101_0001$$$::Pergunto a ele quando percebo isso.::
-77433::$$$message_0719_0102_0000$$$::"Ah. Por que você acha isso?"[lr]::
-77434::$$$message_0719_0102_0001$$$::"...por motivo algum. Só pensei nisso."::
-77435::$$$message_0719_0103_0000$$$::"Então está enganado. Eu odeio o Emiya Kiritsugu. Nunca falamos. Na única vez em que nós encontramos, tentamos matar um ao outro.[lr]::
-77436::$$$message_0719_0103_0001$$$::Já te disse que somos opostos em todos os sentidos.[lr]::
-77437::$$$message_0719_0103_0002$$$::Nossos desejos, dúvidas, são distintas. Uma pergunta feita por aquele que não a tem não será respondidade por aquele que a tem."[lr]::
-77438::$$$message_0719_0103_0003$$$::Seus olhos me dizem que isso é o motivo de eles não se darem bem.::
-77439::$$$message_0719_0104_0000$$$::"......? 'Aquele que não a tem'? Está dizendo que o Kiritsugu tinha algo que você não tinha?"::
-77440::$$$message_0719_0105_0000$$$::"Sim. Eu não conseguia mudar minha vontade por algo em que eu acreditava. Bem, não podemos ser comparados pois nossos objetivos eram diferentes."::
-77441::$$$message_0719_0106_0000$$$::"...?"[lr]::
-77442::$$$message_0719_0106_0001$$$::Mudar sua vontade por algo em que acreditava...[lr]::
-77443::$$$message_0719_0106_0002$$$::Seria isso aquele papo de matar dez para salvar um, como ele disse antes?::
-77444::$$$message_0719_0107_0000$$$::"Você não precisa entender. Emiya Kiritsugu desejava paz. Não é simples? Mas é simples demais para esse mundo complexo. Ele precisaria rejeitar as partes extras que não encaixam nesse molde perfeito."::
-77445::$$$message_0719_0108_0000$$$::"[w l=3][line3]Mas ele não podia tolerar isso.[lr]::
-77446::$$$message_0719_0108_0001$$$::Ele buscava o molde perfeito, mas ainda queria salvar as partes extras.[lr]::
-77447::$$$message_0719_0108_0002$$$::...mas esse é um milagre que excede poder humano.[lr]::
-77448::$$$message_0719_0108_0003$$$::Não existe algo como um mundo livre de conflitos. Ele buscava o Santo Graal para negar esse fato."::
-77449::$$$message_0719_0109_0000$$$::"Ele buscou esse ideal, e depois de encarar o fato que era impossível, não tinha outra escolha além de depender do Graal.[lr]::
-77450::$$$message_0719_0109_0001$$$::Esse foi o fim do homem encuralado por seu próprio ideal.[lr]::
-77451::$$$message_0719_0109_0002$$$::Seu sonho era uma feitiçaria impossível que só podia ser feita por 'algo que não existe' como o Santo Graal."::
-77452::$$$message_0719_0110_0000$$$::"[w l=8][line8]"[lr]::
-77453::$$$message_0719_0110_0001$$$::Um mundo livre de conflito.[lr]::
-77454::$$$message_0719_0110_0002$$$::Meu pai realmente acreditava nisso?[lr]::
-77455::$$$message_0719_0110_0003$$$::Ele trabalhou duro para se tornar forte, mas quanto mais amadurecia, mais a realidade o cercava. Mesmo assim, ele ainda continuou acreditando nesse ideal e no fim, obteve o milagroso Santo Graal, realizador de desejos.::
-77456::$$$message_0719_0111_0000$$$::Emiya Kiritsugu deve ter falhado muito.[lr]::
-77457::$$$message_0719_0111_0001$$$::Primeiramente, buscar o Santo Graal implica em saber que seu desejo é impossível por meios normais.::
-77458::$$$message_0719_0112_0000$$$::Ele cansou e se desviou de seu ideal.[lr]::
-77459::$$$message_0719_0112_0001$$$::Mas ele ainda buscava o Graal.[lr]::
-77460::$$$message_0719_0112_0002$$$::Por seu ideal, e por tudo que ele sacrificou.::
-77461::$$$message_0719_0113_0000$$$::"...mas meu pai destruiu o Santo Graal. Seu desejo nunca se realizou, não?"::
-77462::$$$message_0719_0114_0000$$$::"Correto. Foi ele mesmo quem o traiu no fim.[lr]::
-77463::$$$message_0719_0114_0001$$$::...nesse instante, passei a ter ódio dele.[lr]::
-77464::$$$message_0719_0114_0002$$$::Sendo sincero, não ligo pro desejo dele. Eu tinha interesse na 'paz' que os humanos desejavam."::
-77465::$$$message_0719_0115_0000$$$::"O mesmo não vale para você também? Afinal, você é um padre, não?"[lr]::
-77466::$$$message_0719_0115_0001$$$::O padre concorda,[lr]::
-77467::$$$message_0719_0115_0002$$$::dizendo que um mundo livre de conflito é o que todos desejam.::
-77468::$$$message_0719_0116_0000$$$::"Mas esse não é meu desejo. Primeiro, não tenho desejos tão ordinários."[lr]::
-77469::$$$message_0719_0116_0001$$$::"Você não tem desejos ordinários...?"::
-77470::$$$message_0719_0117_0000$$$::"Isso mesmo. Um mundo ideal é o mundo mais confortável para quem o deseja. Para Emiya Kiritsugu, era um mundo sem guerra. Desde o começo, sua expectativa era diferente da minha."::
-77471::$$$message_0719_0118_0000$$$::"...?"[lr]::
-77472::$$$message_0719_0118_0001$$$::"É simples. Nada me traz felicidade. Não importa, acreditar nos outros ou os outros acreditarem em mim. O que as demais pessoas chamam de felicidade não me traz nenhuma."::
-77473::$$$message_0719_0119_0000$$$::Ele diz isso sem esboçar emoção.[lr]::
-77474::$$$message_0719_0119_0001$$$::Ele não está falando comigo. Está praticamente monologando.::
-77475::$$$message_0719_0120_0000$$$::"[w l=3][line3]Bem, isso é tudo.[lr]::
-77476::$$$message_0719_0120_0001$$$::Respondi sua pergunta sobre se o Emiya Kiritsugu também era um Mestre."[lr]::
-77477::$$$message_0719_0120_0002$$$::"Uh[w l=3][line3]não, espera. Não é só do meu pai que quero saber. Um, bem..."::
-77478::$$$message_0719_0121_0000$$$::Sobre minha preparação para o papel de Mestre e sobre como eu devo lutar a partir de agora...[lr]::
-77479::$$$message_0719_0121_0001$$$::...aposto que ele rirá de mim se eu perguntar algo tão idiota.[lr]::
+77321::$$$message_0719_0059_0001$$$::Ele era um mago cuja vida nada tinha a ver com a Guerra do Santo Graal. Apenas viveu conforme os próprios desejos e objetivos, e isso acabou levando-o ao Graal.[lr]::
+77322::$$$message_0719_0059_0002$$$::Buscava um milagre que suas próprias forças não podiam alcançar.[lr]::
+77323::$$$message_0719_0059_0003$$$::Um ideal que mãos humanas jamais poderiam realizar.[lr]::
+77324::$$$message_0719_0059_0004$$$::Incapaz de abandonar seu sonho infantil, decidiu apostar suas esperanças em um realizador de desejos. Outros já teriam desistido muito antes."::
+77325::$$$message_0719_0060_0000$$$::"...Não sei onde ele ouviu falar pela primeira vez da Guerra do Santo Graal que ocorre nesta terra.[lr]::
+77326::$$$message_0719_0060_0001$$$::Talvez alguém interessado tenha visto utilidade em sua participação. Isso pouco importa."::
+77327::$$$message_0719_0061_0000$$$::"De todo modo, Emiya Kiritsugu foi contratado como Mestre.[lr]::
+77328::$$$message_0719_0061_0001$$$::A família Einzbern, uma das famílias fundadoras da Guerra do Santo Graal, escolheu-o para ser o Mestre definitivo."::
+77329::$$$message_0719_0062_0000$$$::"Depois das três guerras anteriores, os Einzbern passaram a buscar Mestres especializados em combate.[lr]::
+77330::$$$message_0719_0062_0001$$$::Na verdade, os próprios magos Einzbern não são feitos para lutar. O clã deles é especialmente inadequado para isso. Por isso depositaram suas esperanças em Kiritsugu, um assassino veterano sem laços com a Associação dos Magos."::
+77331::$$$message_0719_0063_0000$$$::"Eles ensinaram a ele[line2]um herege[line2]o conhecimento sobre o Santo Graal, deram-lhe os poderes de Mestre e o uniram à linhagem deles para gerar um herdeiro ainda mais apto ao combate.[lr]::
+77332::$$$message_0719_0063_0001$$$::Se Emiya Kiritsugu tivesse entregado o Santo Graal aos Einzbern, eles o teriam acolhido como membro oficial da família. Não muito diferente de uma casa nobre acolhendo um cavaleiro de linhagem e origem desconhecidas.[lr]::
+77333::$$$message_0719_0063_0002$$$::Eles trataram Kiritsugu com uma boa-fé sem precedentes. Confiaram nele por completo."::
+77334::$$$message_0719_0064_0000$$$::"Kiritsugu correspondeu a essas expectativas.[lr]::
+77335::$$$message_0719_0064_0001$$$::Na guerra anterior, Kiritsugu derrotou muitos Mestres. Eu fui o único que conseguiu sobreviver após enfrentá-lo. O restante quase certamente foi morto.[lr]::
+77336::$$$message_0719_0064_0002$$$::Ele era preciso, meticuloso, predatório e impiedoso. Não tinha misericórdia dos inimigos. Quando decidia matar alguém, essa pessoa morria. Abatia Servos e permitia que seus Mestres implorassem pela própria vida apenas para puxar o gatilho quando viravam as costas. Não sentia nada após cada morte. Nem orgulho do próprio domínio, nem culpa pelos caídos."::
+77337::$$$message_0719_0065_0000$$$::"Em uma palavra, ele era uma máquina.[lr]::
+77338::$$$message_0719_0065_0001$$$::Nunca teve emoções, para começar. Por isso alegria, raiva, melancolia ou prazer jamais passaram por sua mente."::
+77339::$$$message_0719_0066_0000$$$::"O quê...? Ele era uma... máquina...?"[lr]::
+77340::$$$message_0719_0066_0001$$$::"Sim. Entenda, ele era um assassino até a medula.[lr]::
+77341::$$$message_0719_0066_0002$$$::Nunca pensou em evitar danos colaterais a inocentes como você. Mirava agressivamente nas fraquezas das pessoas e não dava chance de retaliação. Usava carne e sangue dos inimigos como escudo e os prendia com os próprios amigos, tudo para alcançar uma vitória rápida."::
+77342::$$$message_0719_0067_0000$$$::"Dito de outra forma: se Kiritsugu participasse desta guerra, seria o pior Mestre possível para você enfrentar. Se considerar crueldade uma forma de mal, então ele teria sido a fonte mais evidente de mal na guerra anterior. Afinal, não tinha mais nada."::
+77343::$$$message_0719_0068_0000$$$::[font italic=true]...[font italic=false][lr]::
+77344::$$$message_0719_0068_0001$$$::"O que foi? Não está convencido?[lr]::
+77345::$$$message_0719_0068_0002$$$::Eu entendo. Claro que Kiritsugu não era literalmente uma máquina.[lr]::
+77346::$$$message_0719_0068_0003$$$::Essa era tanto sua maior força quanto sua vulnerabilidade. Ele cortou os próprios sentimentos em nome de seus objetivos. Não por autossugestão mágica, veja bem, mas pela própria força de vontade.[lr]::
+77347::$$$message_0719_0068_0004$$$::Alguém que pudesse ser alterado tão facilmente por sugestão mágica, ou apenas endurecendo o coração, não seria digno de obter o Graal. Esse deve ter sido o pensamento dele. Então ele assumiu por completo a identidade de assassino.::
+77348::$$$message_0719_0069_0000$$$::"Mas, ao ir tão longe, sua fraqueza traiu tudo que ele possuía: [lr]::
+77349::$$$message_0719_0069_0001$$$::a família Einzbern, que confiou a ele seu desejo cultivado por tanto tempo,[lr]::
+77350::$$$message_0719_0069_0002$$$::o Santo Graal, que surgiu diante do vencedor após cinco Mestres serem derrotados,[lr]::
+77351::$$$message_0719_0069_0003$$$::e o próprio sonho de Emiya Kiritsugu, que mãos humanas jamais poderiam realizar."::
+77352::$$$message_0719_0070_0000$$$::"Ele descartou tudo aquilo diante do altar.[lr]::
+77353::$$$message_0719_0070_0001$$$::Foi assim que a última Guerra do Santo Graal terminou, e essa é a verdade por trás do mago que você lembra como pai."::
+77354::$$$message_0719_0071_0000$$$::"Com isso, o Santo Graal desapareceu e a guerra chegou ao fim.[lr]::
+77355::$$$message_0719_0071_0001$$$::Após a traição de Kiritsugu, os Einzbern recuaram e passaram os últimos dez anos preparando-se para o próximo Santo Graal."::
+77356::$$$message_0719_0072_0000$$$::"...Hm. Pensando bem, os Einzbern devem ter previsto o início desta guerra.[lr]::
+77357::$$$message_0719_0072_0001$$$::A batalha anterior terminou sem um desfecho claro.[lr]::
+77358::$$$message_0719_0072_0002$$$::Provavelmente sabiam que a Energia Mágica não utilizada da vez passada aceleraria o cronograma."::
+77359::$$$message_0719_0073_0000$$$::"..."[lr]::
+77360::$$$message_0719_0073_0001$$$::Para ser sincero, as palavras de Kotomine não parecem muito reais.[lr]::
+77361::$$$message_0719_0073_0002$$$::Kiritsugu, o Mestre impiedoso.[lr]::
+77362::$$$message_0719_0073_0003$$$::Os Einzbern, uma grande família de magos profundamente ligada a ele.::
+77363::$$$message_0719_0074_0000$$$::Como eu simplesmente aceitaria tudo isso?[lr]::
+77364::$$$message_0719_0074_0001$$$::Mas a única coisa que sei com certeza é...[lr]::
+77365::$$$message_0719_0074_0002$$$::"...Kotomine. Você odiava Kiritsugu?"[lr]::
+77366::$$$message_0719_0074_0003$$$::Para alguém que parece não se importar com nada, ele soa irritado sempre que fala de Kiritsugu.::
+77367::$$$message_0719_0075_0000$$$::"Naturalmente. Estávamos em extremos opostos. Nascemos para ser nêmeses um do outro. Você poderia nos comparar aos Makiri e aos Einzbern, mas nós dois compreendíamos um ao outro como inimigos naturais."::
+77368::$$$message_0719_0076_0000$$$::"...Inimigos naturais? Então você tinha tanta cautela com ele quanto ele tinha com você?"[lr]::
+77369::$$$message_0719_0076_0001$$$::"Eu não tinha cautela com ele. Mas certamente também não podia ignorá-lo."::
+77370::$$$message_0719_0077_0000$$$::"Aquele homem era um santo incorrigível.[lr]::
+77371::$$$message_0719_0077_0001$$$::Não suportava a morte, mas matava para salvar pessoas. Se uma vida precisasse ser sacrificada para salvar dez, ele faria esse sacrifício sem hesitar."::
+77372::$$$message_0719_0078_0000$$$::"Sempre disposto a pagar o menor preço possível para criar uma utopia em que todos pudessem ser felizes.[lr]::
+77373::$$$message_0719_0078_0001$$$::Essa dissonância...[lr]::
+77374::$$$message_0719_0078_0002$$$::Esses ideais fracassados não eram tão diferentes dos meus, mas havia uma diferença crucial e irreconciliável entre nós."::
+77375::$$$message_0719_0079_0000$$$::"Ele escolheu viver por seus ideais. Até onde sei, manteve-se fiel a eles até o momento em que destruiu o Santo Graal.[lr]::
+77376::$$$message_0719_0079_0001$$$::Isso permitia que ele sentisse orgulho e nenhuma dúvida quanto à vida que levava como uma máquina impiedosa."::
+77377::$$$message_0719_0080_0000$$$::"Éramos parecidos, mas no fim incompatíveis.[lr]::
+77378::$$$message_0719_0080_0001$$$::Aquele homem tinha uma vontade inabalável.[lr]::
+77379::$$$message_0719_0080_0002$$$::Era capaz de lutar sem sofrer um único ferimento. E, ainda assim, estava profundamente ferido desde o início.[lr]::
+77380::$$$message_0719_0080_0003$$$::Deliberadamente, ele tomou um caminho inumano. Deliberadamente, eu me tornei um homem da Igreja."::
+77381::$$$message_0719_0081_0000$$$::"..."[lr]::
+77382::$$$message_0719_0081_0001$$$::Estava profundamente ferido desde o início.[lr]::
+77383::$$$message_0719_0081_0002$$$::Isso quer dizer que suas crenças fundamentais sempre foram falhas?::
+77384::$$$message_0719_0082_0000$$$::"...E você é diferente? Ele era alguém que evitava se ferir. Já você diz que se feriu ao tomar um caminho que abraça a humanidade. Tornar-se padre fez você ser diferente de Kiritsugu...?"::
+77385::$$$message_0719_0083_0000$$$::"Pergunto-me. Nesse caso, seria difícil nos considerar parecidos.[lr]::
+77386::$$$message_0719_0083_0001$$$::Os outros viam semelhanças entre mim e ele por outros motivos.[lr]::
+77387::$$$message_0719_0083_0002$$$::...Ah, sim. Em termos de humanidade, pelo menos, você tem semelhanças com Kiritsugu."::
+77388::$$$message_0719_0084_0000$$$::"Você desejou algo desde muito cedo.[lr]::
+77389::$$$message_0719_0084_0001$$$::Acredita em ideais doces e está disposto a sujar as mãos por eles.[lr]::
+77390::$$$message_0719_0084_0002$$$::Vê a si mesmo como um mal maior, agindo para eliminar todos os males menores.[lr]::
+77391::$$$message_0719_0084_0003$$$::Você e Kiritsugu são o tipo de salvador que se poderia chamar de Anti-Herói."::
+77392::$$$message_0719_0085_0000$$$::"...? O que é um Anti-Herói?"[lr]::
+77393::$$$message_0719_0085_0001$$$::"A palavra não explica por si? É o oposto de um herói: um assassino incorrigível."[lr]::
+77394::$$$message_0719_0085_0002$$$::"Isso só faz parecer que somos vilões. Você está tirando sarro de mim?"::
+77395::$$$message_0719_0086_0000$$$::"Nem pense nisso. Para que não me entenda mal, eu lhe dou as boas-vindas. Você é filho dele, afinal. O filho do meu nêmesis vem até mim pedir ajuda. Devo me alegrar ou lamentar? Meus sentimentos são tão misturados que mal posso suportá-los."::
+77396::$$$message_0719_0087_0000$$$::O padre ri baixo consigo mesmo.[lr]::
+77397::$$$message_0719_0087_0001$$$::...Não sei o que ele realmente quer, mas entediado ele não parece.::
+77398::$$$message_0719_0088_0000$$$::"Falávamos de Anti-Heróis.[lr]::
+77399::$$$message_0719_0088_0001$$$::Em outras palavras, sua existência é tratada como mal, mas seus feitos beneficiam outras pessoas. Independentemente de suas intenções, sua reputação os eleva como salvadores."::
+77400::$$$message_0719_0089_0000$$$::"Espíritos Heroicos assim costumam ser classificados como Anti-Heróis."::
+77401::$$$message_0719_0090_0000$$$::"Imagine o homem mais vil que conseguir. Se o sacrifício dele salvasse todos em uma vila, isso não o tornaria um herói?[lr]::
+77402::$$$message_0719_0090_0001$$$::Pouco importa se esse herói é devorado ou enterrado depois.[lr]::
+77403::$$$message_0719_0090_0002$$$::Aqueles azarados o bastante para tirar a palha curta, para receber o trabalho sujo de salvar as massas, não são culpados como pecadores, mas venerados como heróis."::
+77404::$$$message_0719_0091_0000$$$::"...Tipo um soldado sendo promovido depois de morrer em batalha?"::
+77405::$$$message_0719_0092_0000$$$::"Isso é bem diferente.[lr]::
+77406::$$$message_0719_0092_0001$$$::O ponto essencial é a consciência daqueles que veneram.[lr]::
+77407::$$$message_0719_0092_0002$$$::Quem é elevado por respeito, gratidão ou culpa é um herói legítimo. Alguém glorificado por esses motivos jamais pode se tornar um Anti-Herói.[lr]::
+77408::$$$message_0719_0092_0003$$$::...Bem, é [font italic=true]humano[font italic=false] esquecer a própria feiura e substituí-la por comédia ou tragédia. Com o tempo, até heróis odiados acabam tratados como vítimas e deixam de ser vistos como mal absoluto."::
+77409::$$$message_0719_0093_0000$$$::"...Deixam de ser mal absoluto?"[lr]::
+77410::$$$message_0719_0093_0001$$$::"Exato. Anti-Heróis devem ser os agressores definitivos, mesmo sendo vítimas.[lr]::
+77411::$$$message_0719_0093_0002$$$::...São algo criado por humanos, e crescem apenas graças ao envolvimento humano. Essa contradição é o que isenta esses inimigos do mundo das forças corretivas que, de outro modo, os eliminariam."::
+77412::$$$message_0719_0094_0000$$$::"...Claro, isso não se aplica a Anti-Heróis puros.[lr]::
+77413::$$$message_0719_0094_0001$$$::Eles não existem de verdade. São apenas a expressão do desejo humano de que seres assim existam."::
+77414::$$$message_0719_0095_0000$$$::"São sacrifícios que rejeitam a ideia do pecado original, uma conclusão ideal criada pelos humanos.[lr]::
+77415::$$$message_0719_0095_0001$$$::Saiba apenas que Anti-Heróis são um desejo que jamais pode ser realizado, tratados quase da mesma forma que a própria paz."[lr]::
+77416::$$$message_0719_0095_0002$$$::"...?"::
+77417::$$$message_0719_0096_0000$$$::"...Hmm. Em outras palavras, mais ideais impossíveis e doces.[lr]::
+77418::$$$message_0719_0096_0001$$$::Você quer ser um campeão da justiça que sempre faz a coisa certa, como Kiritsugu, não é?[lr]::
+77419::$$$message_0719_0096_0002$$$::Isso faz de você um Anti-Herói admirável. Já sei... quando conseguir o Santo Graal, por que não pede a ele para transformá-lo em herói?"::
+77420::$$$message_0719_0097_0000$$$::"...O que exatamente você está insinuando?[lr]::
+77421::$$$message_0719_0097_0001$$$::Um herói não é a mesma coisa que alguém que sempre faz o certo. Não faço ideia do que você está falando, mas não vou cair nos seus truques."::
+77422::$$$message_0719_0098_0000$$$::"Oh? E de que modo são diferentes?"[lr]::
+77423::$$$message_0719_0098_0001$$$::"E-Eu não sei! Mas sei que são diferentes. Além disso, herói não é algo que você tenta ser, é algo que você se torna depois que tudo acaba. Tudo que o Santo Graal pode fazer é dar a você um poder além dos seus meios, certo?"::
+77424::$$$message_0719_0099_0000$$$::"...Entendo. Tal pai, tal filho, mesmo sem laço de sangue. Você é feito do mesmo aço que seu pai."[lr]::
+77425::$$$message_0719_0099_0001$$$::O padre solta uma risada untuosa, como se zombasse de mim.::
+77426::$$$message_0719_0100_0000$$$::"Ugh..."[lr]::
+77427::$$$message_0719_0100_0001$$$::...Esse cara odeia Kiritsugu.[lr]::
+77428::$$$message_0719_0100_0002$$$::Mas algo vem me incomodando esse tempo todo: [lr]::
+77429::$$$message_0719_0100_0003$$$::ele, bem...[lr]::
+77430::$$$message_0719_0100_0004$$$::Falou muita coisa sobre Kiritsugu, mas nada disso pareceu diminuí-lo.::
+77431::$$$message_0719_0101_0000$$$::"Ei. Você gostava mesmo do velho?"[lr]::
+77432::$$$message_0719_0101_0001$$$::Antes que eu percebesse, meus pensamentos já tinham virado palavras.::
+77433::$$$message_0719_0102_0000$$$::"Oh? O que o faz pensar isso?"[lr]::
+77434::$$$message_0719_0102_0001$$$::"...Nada. Só me pareceu assim."::
+77435::$$$message_0719_0103_0000$$$::"Você está enganado. Desprezo Emiya Kiritsugu, e nós sequer conversamos. Só tentamos matar um ao outro uma vez.[lr]::
+77436::$$$message_0719_0103_0001$$$::Eu disse que éramos polos opostos, lembra?[lr]::
+77437::$$$message_0719_0103_0002$$$::Seus desejos e dúvidas eram diferentes dos meus. Como as perguntas de alguém que nada possuía poderiam ser as mesmas de alguém que teve tudo desde o início?"[lr]::
+77438::$$$message_0719_0103_0003$$$::Os olhos do padre declaram que eles são absoluta e fundamentalmente incompatíveis.::
+77439::$$$message_0719_0104_0000$$$::"...O que Kiritsugu tinha que você não tinha?"::
+77440::$$$message_0719_0105_0000$$$::"Bem, ao contrário de Kiritsugu, eu jamais conseguiria me obrigar a mudar por algo em que acredito. Embora nossos objetivos fossem diferentes, então mal podemos nos comparar."::
+77441::$$$message_0719_0106_0000$$$::"Hm?"[lr]::
+77442::$$$message_0719_0106_0001$$$::Obrigar a si mesmo a mudar por uma crença.[lr]::
+77443::$$$message_0719_0106_0002$$$::Ele está falando do que disse antes, sobre sacrificar uma pessoa para salvar dez?::
+77444::$$$message_0719_0107_0000$$$::"Você não precisa entender. O desejo de Emiya Kiritsugu era, em uma palavra, 'paz'. Muito simples, não acha? Simples a tal ponto que, em um mundo complexo, torna desnecessária muita coisa. Tudo que ele podia fazer era descartar ou ignorar todo excesso e toda hipocrisia que não coubessem em seu ideal perfeito."::
+77445::$$$message_0719_0108_0000$$$::"...Ele não suportava isso.[lr]::
+77446::$$$message_0719_0108_0001$$$::Buscava a perfeição enquanto tentava salvar tudo que ficava pelo caminho.[lr]::
+77447::$$$message_0719_0108_0002$$$::...Era um milagre que nenhum humano poderia realizar.[lr]::
+77448::$$$message_0719_0108_0003$$$::Um mundo sem conflitos não existe nesta terra. Ele buscou o Santo Graal porque não suportava esse fato."::
+77449::$$$message_0719_0109_0000$$$::"Perseguindo um ideal e confrontado com o fato de que jamais o alcançaria, ele não teve escolha senão buscar o Graal.[lr]::
+77450::$$$message_0719_0109_0001$$$::Foi o fim de um homem encurralado pelos próprios ideais.[lr]::
+77451::$$$message_0719_0109_0002$$$::O sonho de Emiya Kiritsugu era uma ideia mágica impossível, que só um dispositivo impossível como o Santo Graal poderia tornar realidade."::
+77452::$$$message_0719_0110_0000$$$::[font italic=true]...[font italic=false][lr]::
+77453::$$$message_0719_0110_0001$$$::Um mundo sem conflitos.[lr]::
+77454::$$$message_0719_0110_0002$$$::Kiritsugu acreditava mesmo nisso?[lr]::
+77455::$$$message_0719_0110_0003$$$::Ele se fortaleceu por esse objetivo, entrou em choque com a distância entre seus ideais e a realidade, e ainda assim se agarrou à esperança até chegar ao Santo Graal para tentar fazer um milagre acontecer.::
+77456::$$$message_0719_0111_0000$$$::Até lá, aquele homem deve ter conhecido incontáveis fracassos e frustrações sem fim.[lr]::
+77457::$$$message_0719_0111_0001$$$::Para começo de conversa, alguém só buscaria o Santo Graal por ter um desejo impossível de realizar sozinho.::
+77458::$$$message_0719_0112_0000$$$::Ele deve ter se desgastado até se tornar alguém muito distante dos próprios ideais.[lr]::
+77459::$$$message_0719_0112_0001$$$::E, apesar de tudo, ainda queria o Graal?[lr]::
+77460::$$$message_0719_0112_0002$$$::Tudo porque continuou sonhando o mesmo sonho: um ideal que não podia realizar sozinho, e pelo qual já havia sacrificado tantas pessoas.::
+77461::$$$message_0719_0113_0000$$$::"...Mas, no fim, ele destruiu o Santo Graal. Provavelmente porque ele não podia realizar seu desejo."::
+77462::$$$message_0719_0114_0000$$$::"Exato. No fim, ele traiu a si mesmo.[lr]::
+77463::$$$message_0719_0114_0001$$$::Deve ter sentido uma ira tremenda naquele instante.[lr]::
+77464::$$$message_0719_0114_0002$$$::Para ser sincero, eu ainda teria achado aceitável. Eu estava profundamente intrigado com a forma que sua ideia de 'paz' poderia assumir."::
+77465::$$$message_0719_0115_0000$$$::"E você não quer isso? Você ainda é padre."[lr]::
+77466::$$$message_0719_0115_0001$$$::O padre concorda com a cabeça,[lr]::
+77467::$$$message_0719_0115_0002$$$::afirmando que um mundo sem conflito ou sofrimento é algo que todos desejam.::
+77468::$$$message_0719_0116_0000$$$::"Não é algo que eu deseje pessoalmente. Não tenho desejo algum, ou pelo menos, não do tipo que uma pessoa normal conceberia."[lr]::
+77469::$$$message_0719_0116_0001$$$::"O que você quer dizer com isso?"::
+77470::$$$message_0719_0117_0000$$$::"Desejos são, em essência, o estado de existência mais confortável para alguém. No caso de Emiya Kiritsugu, era a ideia de um mundo sem conflitos. Ele e eu tínhamos valores fundamentalmente diferentes."::
+77471::$$$message_0719_0118_0000$$$::"Hm?"[lr]::
+77472::$$$message_0719_0118_0001$$$::"É simples. Nunca experimentei o que os outros chamam de felicidade. A confiança nos outros, assim como a confiança dos outros em mim, nunca significou nada para mim. As coisas que vocês consideram alegres jamais me deram prazer."::
+77473::$$$message_0719_0119_0000$$$::Ele murmura sem emoção.[lr]::
+77474::$$$message_0719_0119_0001$$$::O monólogo parece dirigido a alguém que não está aqui, e não a mim.::
+77475::$$$message_0719_0120_0000$$$::"Bem, creio que isso encerra nossa conversa.[lr]::
+77476::$$$message_0719_0120_0001$$$::Respondi suficientemente à sua pergunta sobre Emiya Kiritsugu ter sido Mestre."[lr]::
+77477::$$$message_0719_0120_0002$$$::"Ugh[line2]não, espera. Eu não queria perguntar só sobre ele. Hum..."::
+77478::$$$message_0719_0121_0000$$$::Como devo pensar enquanto Mestre? Como devo lutar no restante desta guerra?[lr]::
+77479::$$$message_0719_0121_0001$$$::...Se eu fizer perguntas idiotas assim, tenho certeza de que ele vai sorrir de canto e responder com sarcasmo e desprezo.[lr]::
 77480::$$$message_0719_0121_0002$$$::Quero evitar isso.[lr]::
-77481::$$$message_0719_0121_0003$$$::De fato, evitarei.::
-77482::$$$message_0719_0122_0000$$$::"Se você tem mais perguntas, seja breve. Isso demorou mais do que eu pensei."::
-77483::$$$message_0719_0123_0000$$$::"[w l=4][line4]!"[lr]::
-77484::$$$message_0719_0123_0001$$$::...não, há algo mais que quero perguntar a ele.[lr]::
-77485::$$$message_0719_0123_0002$$$::Não vi aqui para esta igreja porque queria uma resposta a esta questão?::
-77486::$$$message_0719_0124_0000$$$::"Não está preocupado com os Einzberns?[lr]::
-77487::$$$message_0719_0124_0001$$$::Pensaria eu que eles querem te matar, uma vez que você é o filho do Kiritsugu."::
-77488::$$$message_0719_0125_0000$$$::"...! É, sobre isso...! Primeiro, quem são esses Einzbern? Você disse que eles são a causa da Guerra do Santo Graal ou algo assim."::
-77489::$$$message_0719_0126_0000$$$::"Sim, eles são a causa. Eu te disse que a Guerra é um ritual, sim? Se há um ritual, é normal que tenha um ritualista."::
-77490::$$$message_0719_0127_0000$$$::"Houveram alguns magos 200 anos atrás que descobriram uma distorção nas linhas ley dessa terra. Eles ofereceram sua habilidades secretas enre si para criar o ciclo de ativação do Santo Graal.[lr]::
-77491::$$$message_0719_0127_0001$$$::Esse foi o início da Guerra do Santo Graal. As três famílias envolvidas em sua criação são os legitimos donos do Santo Graal."::
-77492::$$$message_0719_0128_0000$$$::"Eles quem criaram o Santo Graal. Eles que projetaram o Selo de Comando que abusa dos espíritos heroicos. Eles que ofereceram a terra e as habilidades para perfurar um buraco no mundo."::
-77493::$$$message_0719_0129_0000$$$::"Einzbern, Makiri, e Tohsaka.[lr]::
-77494::$$$message_0719_0129_0001$$$::São as três famílias que começaram tudo, com linhagem e história além das nossas. Os Tohsakas são os únicos dessa terra, mas seu mestre partriarcal é o Schweinorg. Bem, se o mestre for o tipo de pessoa que ouço falar que é, é ridículo agrupar eles de acordo com a raça."::
-77495::$$$message_0719_0130_0000$$$::"......Hm. Então os Einzberns são a família líder na Guerra do Santo Graal?"::
-77496::$$$message_0719_0131_0000$$$::"No passado, sim. Mas eles são os únicos participantes agora que a invocação do Santo Graal falhou e sua posse se tornou incerta.[lr]::
-77497::$$$message_0719_0131_0001$$$::Agora, seu único papel é criar o recipiente do Santo Graal.[lr]::
-77498::$$$message_0719_0131_0002$$$::O mesmo vale para os Tohsakas e os Makiris. São apenas famílias cujo membros possuem maior chance de serem escolhidos como Mestres."::
-77499::$$$message_0719_0132_0000$$$::"...mas o Santo Graal é o que a família Einzbern propôs em primeiro lugar. Sua história possuí mil anos. Uma família que durou mil anos sem gerar ramificações na família é rara."::
-77500::$$$message_0719_0133_0000$$$::"Entende, Emiya Shirou? A família Einzbern buscou apenas a satisfação do Santo Graal por mil anos.[lr]::
-77501::$$$message_0719_0133_0001$$$::Mil anos. Eles são loucos, mil anos. Ele são loucos, continuando seus hábitos de uma era onde barbaridades como genocidio eram permitidas para recuperar lugares sagrados.[lr]::
-77502::$$$message_0719_0133_0002$$$::Eles não são fanáticos, não são obstinados, nem loucos. Apenas carregam a cruz desesperada para impor o sem sentido."::
-77503::$$$message_0719_0134_0000$$$::"Por isso os magos Einzbern vão além do domínio da magia. Eles são monstros, nunca se distanciando de seu caminho, sempre tentando alcançar um objetivo em comum. Normalmente tais pessoas morrem depois de algumas decadas.[lr]::
-77504::$$$message_0719_0134_0001$$$::Não podemos imaginar seus sentimentos de desgraça e frustração quando chamaram um mago de fora de sua família."::
-77505::$$$message_0719_0135_0000$$$::"Mas o desejo deles de completarem o Graal era ainda mais forte.[lr]::
-77506::$$$message_0719_0135_0001$$$::Eles repetiram o erro deles por 500 anos. Levaram 300 anos para aceitar o fato de que eles não podiam obter o Santo Graal sozinhos.[lr]::
-77507::$$$message_0719_0135_0002$$$::E[w l=3][line3]levaram mais 200 para perceber que eles não poderiam obté-lo a não ser que eles usem seus próprios poderes."::
-77508::$$$message_0719_0136_0000$$$::"Os Einzberns literalmente mataram suas emoções para cooperar com os Makiris e os Tohsakas.[lr]::
-77509::$$$message_0719_0136_0001$$$::Como resultado, sua posse do Santo Graal foi tomada e eles foram reduzidos como meros participantes na guerra. Eles aguentaram a desgraça, indo tão longe ao ponto de contaminar sua linha sanguinea ao convidar um mago de fora. Mas inacreditavelmente, Emiya Kiritsugu traiu eles com o Santo Graal em sua frente."::
-77510::$$$message_0719_0137_0000$$$::"Essa é a conexão entre Kiritsugu e os Einzberns.[lr]::
-77511::$$$message_0719_0137_0001$$$::E essa é sua conexão com eles."::
-77512::$$$message_0719_0138_0000$$$::"[w l=7][line7]"[lr]::
-77513::$$$message_0719_0138_0001$$$::...entendo.[lr]::
-77514::$$$message_0719_0138_0002$$$::Então é normal que aquela garota venha atrás de mim.[lr]::
-77515::$$$message_0719_0138_0003$$$::É normal que eles não deixem o filho de um traira livre se ele for um Mestre.::
-77516::$$$message_0719_0139_0000$$$::"Entende agora? Todos os Mestres tem algum tipo de fardo, mas a obsessão dos Makiris e dos Einzberns não podem ser explicadas com palavras. Se a família Makiri carregou esse fardo por quinhentos anos, os Einzberns carregaram o deles por mil.[lr]::
-77517::$$$message_0719_0139_0001$$$::[w l=4][line4]Se alguém tem o direito de possuir o Santo Graal, seria um deles."::
-77518::$$$message_0719_0140_0000$$$::"......"[lr]::
-77519::$$$message_0719_0140_0001$$$::Estou sem palavras.[lr]::
-77520::$$$message_0719_0140_0002$$$::Nenhum homem pode ficar entre uma obsessão que durou por séculos.::
-77521::$$$message_0719_0141_0000$$$::"Não se deprima. Emiya Kiritsugu traiu eles, mas você não deve condená-lo por isso.[lr]::
-77522::$$$message_0719_0141_0001$$$::Em outras palavras, ele se segurou em sua crença, mesmo que significasse se opor a uma aparição de mil anos.[lr]::
-77523::$$$message_0719_0141_0002$$$::Ele jogou tudo fora por esse propósito.[lr]::
-77524::$$$message_0719_0141_0003$$$::Não é algo que você deveria se orgulhar?"::
-77525::$$$message_0719_0142_0000$$$::"[w l=8][line8]"[lr]::
-77526::$$$message_0719_0142_0001$$$::...pessoas que aceitaram ele...[lr]::
-77527::$$$message_0719_0142_0002$$$::Algo que ele protegeu ao se opor à 1000 anos de história...[lr]::
-77528::$$$message_0719_0142_0003$$$::Não acredito em tudo que o padre me disse, mas se realmente for verdade[w l=4][line4]::
-77529::$$$message_0719_0142_0004$$$::[w l=3][line3]Se eu quiser me chamar de filho dele, devo seguir minhas crenças como ele fez[w l=4][line4][lr]::
-77530::$$$message_0719_0143_0000$$$::"Que foi? Está com medo agora que ouviu sobre os mil anos?"::
-77531::$$$message_0719_0144_0000$$$::"[w l=3][line3]Não. Escolhi lutar, não importa o motivo. Não ligo para que os demais Mestres pensam. Não deixarei algo como o desastre de dez anos atrás se repetir."[lr]::
-77532::$$$message_0719_0144_0001$$$::Levanto minha cabeça com determinação.[lr]::
-77533::$$$message_0719_0144_0002$$$::O padre concorda, aparentemente satisfeito.::
-77534::$$$message_0719_0145_0000$$$::"Isso é bom. Se essa for sua razão para lutar, coloque sua vida no fogo cruzado enquanto a faça. Haverão mais vítimas o mais que essa guerra durar. Arrisque sua vida como Kiritsugu e atraia seus inimigos."::
-77535::$$$message_0719_0146_0000$$$::"...você está dizendo que o que eu quero não te interessa. Você está me dizendo para ser isca?"::
-77536::$$$message_0719_0147_0000$$$::"Não há mais nada para arriscar, então não há o que fazer.[lr]::
-77537::$$$message_0719_0147_0001$$$::Bem, não é totalmente desesperador. Você não tem a habilidade de detectar outros Mestres, mas Servos podem sentir outros Servos. Se você tem isso. Se você tem um Servo excelente, basta esperar."::
-77538::$$$message_0719_0148_0000$$$::"[w l=4][line4]"[lr]::
-77539::$$$message_0719_0148_0001$$$::Eu viro minhas costas pra ele.[lr]::
-77540::$$$message_0719_0148_0002$$$::Não há nada mais que preciso perguntar.[lr]::
-77541::$$$message_0719_0148_0003$$$::Deixei a Saber esperando, então devo voltar logo.::
-77542::$$$message_0719_0149_0000$$$::"Espera. Deixe-me te perguntar algo. Você conhece alguma magia de cura?"[lr]::
-77543::$$$message_0719_0149_0001$$$::"[w l=3][line3]Não. Por que?"::
-77544::$$$message_0719_0150_0000$$$::"Bem, então traga os feridos aqui.[lr]::
-77545::$$$message_0719_0150_0001$$$::Como parte da Igreja, não posso ignorar nenhuma vitíma. Posso tratá-los de todas as formas a não ser que estejam além do mundo dos vivos."[lr]::
-77546::$$$message_0719_0150_0002$$$::"[w l=4][line4]"[lr]::
-77547::$$$message_0719_0150_0003$$$::Eu paro.::
-77548::$$$message_0719_0151_0000$$$::"...estou surpreso. Você pode usar magia de cura? Isso é proibido na Igreja, não?"::
-77549::$$$message_0719_0152_0000$$$::"Está fora da minha jurisdição, mas eu a adquiri.[lr]::
-77550::$$$message_0719_0152_0001$$$::Uma vez alguém morreu em minha frente. Depois disso, comecei a estudá-la, e parece que sou mais compatível com ela do que pensei."::
-77551::$$$message_0719_0153_0000$$$::"Ah, mas pedirei compensação se eu te curar. Tenho que ser justo como supervisor."[lr]::
-77552::$$$message_0719_0153_0001$$$::"[w l=3][line3]Me recuso. Não virei até você pedir ajuda mesmo se minha vida dependesse disso."[lr]::
-77553::$$$message_0719_0153_0002$$$::Me viro, e dessa vez vou mesmo embora.::
-
+77481::$$$message_0719_0121_0003$$$::Na verdade, é melhor eu evitar mesmo.::
+77482::$$$message_0719_0122_0000$$$::"Se tiver outras dúvidas, seja breve. Esse assunto tomou mais tempo do que eu esperava."::
+77483::$$$message_0719_0123_0000$$$::"Ngh..."[lr]::
+77484::$$$message_0719_0123_0001$$$::...Não, ainda há algo que preciso confirmar.[lr]::
+77485::$$$message_0719_0123_0002$$$::Não voltei a esta igreja justamente para dissipar uma das minhas dúvidas? Não foi para perguntar como devo agir como Mestre.::
+77486::$$$message_0719_0124_0000$$$::"Não é sobre os Einzbern?[lr]::
+77487::$$$message_0719_0124_0001$$$::Como filho de Kiritsugu, creio que eles o considerariam um alvo a ser morto."::
+77488::$$$message_0719_0125_0000$$$::"...! Isso, é isso! Quem diabos são esses Einzbern? Você disse que eles estão por trás da Guerra do Santo Graal."::
+77489::$$$message_0719_0126_0000$$$::"Sim, estão. Eu disse que a Guerra do Santo Graal é um ritual. Portanto, alguém deve tê-lo concebido primeiro."::
+77490::$$$message_0719_0127_0000$$$::"Duzentos anos atrás, um grupo de magos descobriu uma distorção nas linhas ley desta terra. Compartilharam seus segredos uns com os outros e construíram um círculo nas profundezas da terra para ativar o Santo Graal.[lr]::
+77491::$$$message_0719_0127_0001$$$::Esse foi o ponto de partida da Guerra do Santo Graal. As três famílias envolvidas na criação do ritual de ativação são as proprietárias formais do Graal."::
+77492::$$$message_0719_0128_0000$$$::"Aqueles que criaram o Santo Graal. Aqueles que conceberam os Selos de Comando para submeter Espíritos Heroicos à própria vontade. Aqueles que forneceram a terra e o ritual para abrir um caminho além do mundo."::
+77493::$$$message_0719_0129_0000$$$::"As famílias Einzbern, Makiri e Tohsaka.[lr]::
+77494::$$$message_0719_0129_0001$$$::As três famílias fundadoras ostentam história e linhagens com as quais você e eu só poderíamos sonhar. Dentre elas, apenas os Tohsaka são nativos desta terra, mas seu grão-mestre é o célebre Schweinorg. Se ele é tão capaz quanto dizem as histórias, não espanta que sua excelência tenha persistido apesar da mistura de linhagens."::
+77495::$$$message_0719_0130_0000$$$::"...Mmm. Então os Einzbern são os chefões da guerra?"::
+77496::$$$message_0719_0131_0000$$$::"No passado. Mas, tendo falhado em invocar o Graal, foram reduzidos a meros participantes como o resto.[lr]::
+77497::$$$message_0719_0131_0001$$$::Seu papel atual é apenas criar um recipiente para o Santo Graal.[lr]::
+77498::$$$message_0719_0131_0002$$$::Isso vale também para os Makiri e os Tohsaka. Agora são simplesmente famílias privilegiadas, com maior chance de serem escolhidas como Mestres."::
+77499::$$$message_0719_0132_0000$$$::"...Dito isso, os Einzbern foram os primeiros a conceber este Santo Graal. Eles têm mil anos de história. Poucas linhagens de magos persistiram por um milênio sem fragmentar sua linhagem."::
+77500::$$$message_0719_0133_0000$$$::"Entende, Emiya Shirou? Por mil anos, os Einzbern perseguiram incansavelmente o Santo Graal.[lr]::
+77501::$$$message_0719_0133_0001$$$::[font italic=true]Mil anos.[font italic=false] Em nome de sua busca, eles mataram, mataram e mataram, cometendo atrocidades além da imaginação, agarrados à própria insanidade inumana desde a Idade Média.[lr]::
+77502::$$$message_0719_0133_0002$$$::Não é paixão, obsessão nem fanatismo que os move, mas uma cruz à qual se agarram desesperadamente em nome de alcançar um destino sem sentido."::
+77503::$$$message_0719_0134_0000$$$::"Os magos Einzbern foram além do domínio do mero mal. Ao longo dos séculos, aqueles monstros jamais se desviaram da busca obstinada por um objetivo comum esquecido poucas décadas depois de sua concepção.[lr]::
+77504::$$$message_0719_0134_0001$$$::Não podemos imaginar a obsessão que os levou a suportar a frustração e a humilhação de convidar um mago estrangeiro para dentro de sua linhagem."::
+77505::$$$message_0719_0135_0000$$$::"E, ainda assim, continuaram priorizando a obtenção do Santo Graal.[lr]::
+77506::$$$message_0719_0135_0001$$$::Cinco séculos de erros repetidos: três gastos pensando que não poderiam obter o Graal sozinhos,[lr]::
+77507::$$$message_0719_0135_0002$$$::e outros dois para perceber que só poderiam obtê-lo por meio da própria força."::
+77508::$$$message_0719_0136_0000$$$::"Os Einzbern estavam preparados para literalmente morrer pelo próprio objetivo e se associaram às duas casas menores para alcançá-lo.[lr]::
+77509::$$$message_0719_0136_0001$$$::Como resultado: perderam o direito de propriedade sobre o Santo Graal e foram reduzidos a disputar contra seus rivais por ele. Suportaram essa humilhação e até convidaram um forasteiro a contaminar sua linhagem. Então, quando aquele homem estava a um passo do prêmio, traiu seus benfeitores."::
+77510::$$$message_0719_0137_0000$$$::"Essa é a relação entre os Einzbern e Emiya Kiritsugu.[lr]::
+77511::$$$message_0719_0137_0001$$$::E os pecados do pai sustentam sua relação com eles."::
+77512::$$$message_0719_0138_0000$$$::"..."[lr]::
+77513::$$$message_0719_0138_0001$$$::...Ah.[lr]::
+77514::$$$message_0719_0138_0002$$$::Não é de se estranhar que ela tenha vindo direto para cima de mim.[lr]::
+77515::$$$message_0719_0138_0003$$$::O filho do homem que os traiu é um Mestre. Eles jamais deixariam isso passar.::
+77516::$$$message_0719_0139_0000$$$::"Parece que entendeu. Embora todos os Mestres tenham alguma ligação com este assunto, a obsessão dos Makiri e dos Einzbern não cabe em meras palavras. Os Makiri perseguem isso há quinhentos anos; os Einzbern, há mil.[lr]::
+77517::$$$message_0719_0139_0001$$$::Se a questão é posse legítima, então só será resolvida quando o Santo Graal cair nas mãos de uma dessas duas famílias."::
+77518::$$$message_0719_0140_0000$$$::"..."[lr]::
+77519::$$$message_0719_0140_0001$$$::Fico sem palavras.[lr]::
+77520::$$$message_0719_0140_0002$$$::Não é qualquer um que se deixa consumir por um único objetivo durante centenas de anos.::
+77521::$$$message_0719_0141_0000$$$::"Não faça essa cara abatida. Emiya Kiritsugu pode ter traído os Einzbern, mas não foi por malícia.[lr]::
+77522::$$$message_0719_0141_0001$$$::Pelo contrário, ele estava tão comprometido com o próprio desejo que se dispôs a desafiar fantasmas de mil anos.[lr]::
+77523::$$$message_0719_0141_0002$$$::Para isso, descartou tudo que lhe era próximo e precioso.[lr]::
+77524::$$$message_0719_0141_0003$$$::Não é algo de que se orgulhar?"::
+77525::$$$message_0719_0142_0000$$$::[font italic=true]...[font italic=false][lr]::
+77526::$$$message_0719_0142_0001$$$::...Eles o acolheram na família.[lr]::
+77527::$$$message_0719_0142_0002$$$::Mas ele foi tão determinado que transformou mil anos de história em inimigo.[lr]::
+77528::$$$message_0719_0142_0003$$$::Não pretendo aceitar as palavras do padre pelo valor de face, mas, se for verdade...[lr]::
+77529::$$$message_0719_0142_0004$$$::   Se me chamo filho do meu pai, então tenho que trilhar um caminho em que acredito, como ele trilhou...::
+77530::$$$message_0719_0143_0000$$$::"O que foi? A menção de mil anos desgastou sua vontade de lutar, Emiya Shirou?"::
+77531::$$$message_0719_0144_0000$$$::"Nem pensar. Não importa a história por trás desta guerra, eu já me decidi. O que quer que os outros Mestres estejam planejando, não vou deixar que repitam o que aconteceu dez anos atrás."[lr]::
+77532::$$$message_0719_0144_0001$$$::Ergo o olhar para deixar isso claro.[lr]::
+77533::$$$message_0719_0144_0002$$$::O padre assente de modo teatral, satisfeito.::
+77534::$$$message_0719_0145_0000$$$::"Isso basta. Se é isso que o move, lute como se sua vida dependesse disso. Quanto mais durar, mais vítimas haverá. Faça como Kiritsugu: pese vidas em uma balança para atrair seu objetivo."::
+77535::$$$message_0719_0146_0000$$$::"...Você fala como se não fosse problema seu. Como se estivesse me mandando virar isca."::
+77536::$$$message_0719_0147_0000$$$::"Afinal, você não tem mais nada a oferecer como garantia.[lr]::
+77537::$$$message_0719_0147_0001$$$::Eu não chamaria isso de medida desesperada. Você não tem capacidade de detectar outros Mestres, mas Servos conseguem sentir outros Servos. Se possui um Servo competente, basta esperar que ele encontre os demais."::
+77538::$$$message_0719_0148_0000$$$::[font italic=true]...[font italic=false][lr]::
+77539::$$$message_0719_0148_0001$$$::O padre me dá as costas.[lr]::
+77540::$$$message_0719_0148_0002$$$::Não tenho mais nada para perguntar.[lr]::
+77541::$$$message_0719_0148_0003$$$::Saber está esperando há bastante tempo, então devo voltar até ela.::
+77542::$$$message_0719_0149_0000$$$::"Espere. Agora eu tenho uma pergunta para você. Tem treinamento em Magia de cura?"[lr]::
+77543::$$$message_0719_0149_0001$$$::"Não. E daí?"::
+77544::$$$message_0719_0150_0000$$$::"Nesse caso, traga-me seus feridos.[lr]::
+77545::$$$message_0719_0150_0001$$$::A Igreja não deve ignorar vítima alguma. Eu os tratarei, se conseguir trazê-los aqui a tempo."[lr]::
+77546::$$$message_0719_0150_0002$$$::[font italic=true]...[font italic=false][lr]::
+77547::$$$message_0719_0150_0003$$$::Paro bruscamente a caminho da porta.::
+77548::$$$message_0719_0151_0000$$$::"...Que surpresa. Você sabe Magia de cura? Isso não vai contra as regras da Igreja?"::
+77549::$$$message_0719_0152_0000$$$::"Nunca foi minha especialidade, mas aprendi em algum momento.[lr]::
+77550::$$$message_0719_0152_0001$$$::Muito tempo atrás, vi alguém morrer de doença. Isso me levou a tentar a cura, e eu tinha mais talento para ela do que esperava."::
+77551::$$$message_0719_0153_0000$$$::"Ah, mas exigirei uma compensação sua pessoalmente. Como supervisor, devo tratar meu rebanho com igualdade."[lr]::
+77552::$$$message_0719_0153_0001$$$::"Não, obrigado. Eu não viria pedir sua ajuda nem se minha vida dependesse disso."[lr]::
+77553::$$$message_0719_0153_0002$$$::Viro-me de uma vez e só paro de andar quando já estou lá fora.::

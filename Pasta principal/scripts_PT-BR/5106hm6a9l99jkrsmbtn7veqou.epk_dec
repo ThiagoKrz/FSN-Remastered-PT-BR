@@ -43,9 +43,9 @@ id=qid::label=str::text=lstr::
 38035::$$$message_0328_0013_0000$$$::"Shinji. Foi você quem atacou aquela estudante ontem?"[lr]::
 38036::$$$message_0328_0013_0001$$$::Eu tenho que ter a resposta dessa pergunta.::
 38037::$$$message_0328_0014_0000$$$::"...Ah, aquilo? Não tinha o que fazer.[lr]::
-38038::$$$message_0328_0014_0001$$$::Minha Serva é uma mulher incontrolável, e ataca as pessoas se eu deixar ela solta.[lr]::
+38038::$$$message_0328_0014_0001$$$::Meu Servo é uma mulher incontrolável, e ataca as pessoas se eu deixar ela solta.[lr]::
 38039::$$$message_0328_0014_0002$$$::Eu sou só uma pessoa normal. Eu não sou como a Tohsaka, então é difícil fazer ela me obedecer."::
-38040::$$$message_0328_0015_0000$$$::"...Então o que aconteceu ontem foi um acidente? Sua Serva fez tudo sozinha?"::
+38040::$$$message_0328_0015_0000$$$::"...Então o que aconteceu ontem foi um acidente? Seu Servo agiu por conta própria?"::
 38041::$$$message_0328_0016_0000$$$::"Sim, tomarei cuidado de agora em diante. Também não quero nada acontecendo aqui. Me certificarei de que a única coisa que ela vai fazer é me proteger."::
 38042::$$$message_0328_0017_0000$$$::"...Você jura que isso é verdade, Shinji?"::
 38043::$$$message_0328_0018_0000$$$::"Sim. Por que eu mentiria? Eu poderia ter mantido isso um segredo, mas eu te contei.[lr]::
@@ -111,4 +111,3 @@ id=qid::label=str::text=lstr::
 38103::$$$message_0328_0045_0000$$$::Eu vou até o portão pra valer.[lr]::
 38104::$$$message_0328_0045_0001$$$::O prédio escolar é pintado pelo sol a se por...[lr]::
 38105::$$$message_0328_0045_0002$$$::O Shinji me vê ir sem soltar uma palavra.::
-

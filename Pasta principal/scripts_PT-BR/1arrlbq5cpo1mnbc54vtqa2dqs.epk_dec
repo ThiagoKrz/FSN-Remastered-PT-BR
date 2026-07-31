@@ -1,90 +1,89 @@
 DAT
 id=qid::label=str::text=lstr::
-43221::$$$message_0383_0000_0000$$$::[line4]Desde quando eu percebi o que esse sonho representava?::
-43222::$$$message_0383_0001_0000$$$::Um deserto tão grande quanto os olhos podem enxergar.[lr]::
-43223::$$$message_0383_0001_0001$$$::Há várias espadas fincadas no chão, sem ninguém para manuseá-las.[lr]::
-43224::$$$message_0383_0001_0002$$$::O céu está nublado e eu não vejo nenhuma floresta, cidade, ou mar por perto.[lr]::
-43225::$$$message_0383_0001_0003$$$::Uma colina de espadas que se estica ao infinito.[lr]::
-43226::$$$message_0383_0001_0004$$$::Um cemitério de aço sem nenhum dono ou portador.[lr]::
-43227::$$$message_0383_0001_0005$$$::Desde o começo, eu já sabia que...[lr]::
-43228::$$$message_0383_0001_0006$$$::Esse era o cenário dentro da cabeça daquele herói.::
-43229::$$$message_0383_0002_0000$$$::Depois de uma série de acontecimentos, uma pessoa que se torna um espírito heroico acaba indo parar naquele lugar.::
-43230::$$$message_0383_0003_0000$$$::Há aqueles que deixaram esse mundo amados pelo povo, e há aqueles que foram idolatrados como reis nobres.[lr]::
-43231::$$$message_0383_0003_0001$$$::Há aqueles que morreram em batalha, e há aqueles que morreram sem nenhum arrependimento.[lr]::
-43232::$$$message_0383_0003_0002$$$::...Mas pelo que parece, muitos foram idolatrados como heróis contra a sua própria vontade.::
-43233::$$$message_0383_0004_0000$$$::Se os heróis de verdade são aqueles que conquistaram esse título de forma legítima, esses são de uma categoria diferente.[lr]::
-43234::$$$message_0383_0004_0001$$$::Eles foram obrigados a assumir o trono dos heróis por conta do destino, sendo chamados de Vingador, o anti-herói.[lr]::
-43235::$$$message_0383_0004_0002$$$::Eles foram idolatrados como heróis, apesar de serem o oposto deles.[lr]::
-43236::$$$message_0383_0004_0003$$$::Aqueles que odeiam os humanos e que os humanos odeiam também podem ser invocados como guardiões.::
-43237::$$$message_0383_0005_0000$$$::...Porém, ele não é nenhum dos dois.[lr]::
-43238::$$$message_0383_0005_0001$$$::Ele não é um herói verdadeiro, e nem um dos raros anti-heróis.[lr]::
-43239::$$$message_0383_0005_0002$$$::Ele nunca foi recompensado pelos seus esforços e a sua vida terminou em traição, mas ele nunca guardou rancor dos humanos.[lr]::
-43240::$$$message_0383_0005_0003$$$::[line4]Porém, isso foi mudando com o passar do tempo.[lr]::
-43241::$$$message_0383_0005_0004$$$::Sim, provavelmente ele foi ficando cada vez mais desgastado.::
+43221::$$$message_0383_0000_0000$$$::  Quando percebi a verdade daquele sonho?::
+43222::$$$message_0383_0001_0000$$$::Um deserto até onde a vista alcança.[lr]::
+43223::$$$message_0383_0001_0001$$$::As infinitas espadas fincadas no chão não têm portador.[lr]::
+43224::$$$message_0383_0001_0002$$$::O céu está tempestuoso, e não há floresta, cidade ou oceano no horizonte distante.[lr]::
+43225::$$$message_0383_0001_0003$$$::A colina de espadas que continua sem fim.[lr]::
+43226::$$$message_0383_0001_0004$$$::Um cemitério de aço sem usuário nem dono.[lr]::
+43227::$$$message_0383_0001_0005$$$::Percebi desde o começo...[lr]::
+43228::$$$message_0383_0001_0006$$$::Aquela era a paisagem dentro da mente daquele herói.::
+43229::$$$message_0383_0002_0000$$$::Depois de uma série de muitos eventos, aquele que se torna um Espírito Heroico acaba naquele lugar.::
+43230::$$$message_0383_0003_0000$$$::Há aqueles que deixaram este mundo amados por muitas pessoas, e aqueles que deixaram este mundo elogiados como reis nobres.[lr]::
+43231::$$$message_0383_0003_0001$$$::Há aqueles que morreram em batalha desejando lutar, e aqueles que partem após levar uma vida longa e plena.[lr]::
+43232::$$$message_0383_0003_0002$$$::...No entanto, parece haver muitos que foram louvados contra a própria vontade.::
+43233::$$$message_0383_0004_0000$$$::Se heróis verdadeiros são aqueles que conquistaram legitimamente esse título, então estes são heróis diferentes.[lr]::
+43234::$$$message_0383_0004_0001$$$::Devem ser chamados de Avenger, anti-heróis que acabaram naquele lugar por causa de seu destino invertido.[lr]::
+43235::$$$message_0383_0004_0002$$$::Aqueles que estão na posição oposta à dos heróis, mas que, no fim, são venerados como heróis.[lr]::
+43236::$$$message_0383_0004_0003$$$::Mesmo aqueles tratados como Espíritos Heroicos, que odeiam os humanos e são odiados por eles, são usados como Guardiões.::
+43237::$$$message_0383_0005_0000$$$::...Mas ele está em uma área cinzenta.[lr]::
+43238::$$$message_0383_0005_0001$$$::Ele não é um herói verdadeiro, nem um Avenger raro.[lr]::
+43239::$$$message_0383_0005_0002$$$::Seus esforços não foram recompensados, e sua vida terminou em traição, mas ele nunca odiou os humanos até o fim.[lr]::
+43240::$$$message_0383_0005_0003$$$::  Mas isso também se desgastou.[lr]::
+43241::$$$message_0383_0005_0004$$$::Sim, ele deve ter se desgastado.::
 43242::$$$message_0383_0006_0000$$$::Eu estava enganada.[lr]::
-43243::$$$message_0383_0006_0001$$$::Espíritos heroicos, familiares que são chamados de Servos.[lr]::
-43244::$$$message_0383_0006_0002$$$::...O poder de controle da humanidade, conhecidos como "guardiões".[lr]::
-43245::$$$message_0383_0006_0003$$$::Eles são invocados de todas as épocas com a função de evitar a extinção da humanidade.[lr]::
-43246::$$$message_0383_0006_0004$$$::Mas a condição para eles serem invocados é que a destruição seja causada pelos próprios humanos.[lr]::
-43247::$$$message_0383_0006_0005$$$::Como era de se esperar, uma destruição causada por um fator externo não é resolvida pela força humana, mas sim pelo poder de restrição do planeta.::
-43248::$$$message_0383_0007_0000$$$::...Dessa forma, a única coisa que os espíritos heroicos guardiões veem são a auto-destruição da humanidade.[lr]::
-43249::$$$message_0383_0007_0001$$$::Eles existem para erradicar a destruição causada pela própria ganância dos humanos.[lr]::
-43250::$$$message_0383_0007_0002$$$::Ele fez um pacto com o próprio mundo para ser capaz de salvar outras pessoas e se tornar um herói.[lr]::
-43251::$$$message_0383_0007_0003$$$::Depois de morrer, ele se tornou um espírito heroico e foi apresentado à auto-destruição da humanidade várias vezes.[lr]::
-43252::$$$message_0383_0007_0004$$$::Ele é invocado na forma de um "espírito heroico" para salvar as pessoas, mas a missão dele é limpar a sujeira causada por essas mesmas pessoas.::
-43253::$$$message_0383_0008_0000$$$::...Não demorou muito até que ele percebesse que não havia sentido em fazer isso, e começasse a ter desprezo pelo mundo humano.[lr]::
-43254::$$$message_0383_0008_0001$$$::E no final...[lr]::
-43255::$$$message_0383_0008_0002$$$::Ele foi traído pelo ideal que protegeu até a morte.::
-43256::$$$message_0383_0009_0000$$$::"Rin. O que foi? Você está enjoada?"[lr]::
-43257::$$$message_0383_0009_0001$$$::"Hã[line4]?"[lr]::
-43258::$$$message_0383_0009_0002$$$::Depois de chamarem pelo seu nome, a Tohsaka Rin acorda.[lr]::
-43259::$$$message_0383_0009_0003$$$::...Ela olha ao seu redor devagar.[lr]::
-43260::$$$message_0383_0009_0004$$$::Esse é o cemitério dos estrangeiros.[lr]::
-43261::$$$message_0383_0009_0005$$$::Já se passaram das sete, mas não há ninguém por perto.[lr]::
-43262::$$$message_0383_0009_0006$$$::Bem, a ladeira da igreja sempre esteve vazia de qualquer forma.::
-43263::$$$message_0383_0010_0000$$$::"...Desculpa, eu acabei dormindo. Parece que estou cansada."[lr]::
-43264::$$$message_0383_0010_0001$$$::"Isso é compreensível. Você não dorme desde ontem à noite. Já que não está se sentindo bem, quer parar por hoje? Não precisamos ir atrás deles agora."[lr]::
-43265::$$$message_0383_0010_0002$$$::"...Não, nós não podemos perder tempo. Agora que sabemos onde a Caster está, temos que acabar com isso de uma vez por todas."[lr]::
-43266::$$$message_0383_0010_0003$$$::Depois de dizer isso, a Rin percebe que o seu corpo está quente.[lr]::
-43267::$$$message_0383_0010_0004$$$::O Archer, seu familiar, deve ter usado a sua capa para mantê-la aquecida.::
-43268::$$$message_0383_0011_0000$$$::"...Heh. Você percebeu que eu estava dormido? E mesmo assim não me acordou?"[lr]::
-43269::$$$message_0383_0011_0001$$$::"Bem, é difícil encontrar alguém dormindo em pé. Eu fiquei encantado, então tive que parar para observar."[lr]::
-43270::$$$message_0383_0011_0002$$$::"[line3]Isso só piora as coisas. Quem você pensa que é para olhar para o rosto de uma garota dormindo?"::
-43271::$$$message_0383_0012_0000$$$::"Não se preocupe. Eu não fiz nada indelicado contigo.[lr]::
-43272::$$$message_0383_0012_0001$$$::Mas eu pude ouvir você falando durante o sono. Eu posso fechar os meus olhos, mas não os meus ouvidos."[lr]::
-43273::$$$message_0383_0012_0002$$$::"......Entendo. O que foi que eu disse, Archer?"[lr]::
-43274::$$$message_0383_0012_0003$$$::"Eu ouvi algumas frases assustadoras, sobre como você estava irritada, por exemplo."::
-43275::$$$message_0383_0013_0000$$$::"[line6]Ah, ainda bem."[lr]::
-43276::$$$message_0383_0013_0001$$$::A Rin suspira aliviada.[lr]::
-43277::$$$message_0383_0013_0002$$$::Ela não deveria contar sobre o que viu no seu sonho.[lr]::
-43278::$$$message_0383_0013_0003$$$::Ela não pode deixar que o Archer saiba sobre isso.[lr]::
-43279::$$$message_0383_0013_0004$$$::Ela gosta da relação entre eles.[lr]::
-43280::$$$message_0383_0013_0005$$$::...E para preservá-la, ela precisa esconder que viu o passado do Archer.::
-43281::$$$message_0383_0014_0000$$$::"Vamos nessa, Archer. Eu conheço um pouco da igreja. Já tenho uma ideia de onde ela pode estar se escondendo."[lr]::
-43282::$$$message_0383_0014_0001$$$::Ela se afasta da capa do Archer.[lr]::
-43283::$$$message_0383_0014_0002$$$::O Archer protege as suas costas em silêncio.[lr]::
-43284::$$$message_0383_0014_0003$$$::E então...[lr]::
-43285::$$$message_0383_0014_0004$$$::"Ei, Archer. Por acaso você já se arrependeu daquilo fez no passado?"[lr]::
-43286::$$$message_0383_0014_0005$$$::Ela pergunta sem se virar para trás.::
-43287::$$$message_0383_0015_0000$$$::"[line8]"[lr]::
-43288::$$$message_0383_0015_0001$$$::"Sempre que possível, eu não quero me arrepender do que fiz. Eu prefiro ranger os dentes e continuar insistindo, mesmo se for completamente derrotada.[lr]::
-43289::$$$message_0383_0015_0002$$$::Mas tenho certeza de que é difícil fazer isso. Talvez até mais difícil do que eu possa imaginar."::
-43290::$$$message_0383_0016_0000$$$::"Depende de cada pessoa.[lr]::
-43291::$$$message_0383_0016_0001$$$::Há aqueles que conseguem insistir e outros não. Você se encaixa na primeira opção. Pessoas assim não cometem erros. Aliás, elas sequer pensam em cometê-los."::
-43292::$$$message_0383_0017_0000$$$::"...Ei. Falando assim, parece até que eu sou uma tirana arrogante."[lr]::
-43293::$$$message_0383_0017_0001$$$::"Bela observação, Rin.[lr]::
-43294::$$$message_0383_0017_0002$$$::Uma pessoa brilhante brilha mais do que as outras.[lr]::
-43295::$$$message_0383_0017_0003$$$::Pessoas assim jamais precisam ranger os dentes.[lr]::
-43296::$$$message_0383_0017_0004$$$::...Bem. Essa é só a minha opinião, mas acho você se encaixa nessa categoria. A Tohsaka Rin vai continuar seguindo o seu caminho até o final."::
-43297::$$$message_0383_0018_0000$$$::O cavaleiro de roupas vermelhas a elogia.[lr]::
-43298::$$$message_0383_0018_0001$$$::A Rin fica com o rosto envergonhado ao ouvir a resposta dele, mas continua a fazer perguntas sem se virar de costas.::
-43299::$$$message_0383_0019_0000$$$::"...Nesse caso, e quanto à você? Acha que seria capaz de acreditar em si mesmo até o final?"[lr]::
-43300::$$$message_0383_0019_0001$$$::"Hm? Me desculpe, mas essa pergunta não faz sentido."[lr]::
-43301::$$$message_0383_0019_0002$$$::"...Por quê? Por acaso isso é algo que você não pode responder?"[lr]::
-43302::$$$message_0383_0019_0003$$$::Ela parece estar um pouco nervosa.::
-43303::$$$message_0383_0020_0000$$$::Quanto a isso...[lr]::
-43304::$$$message_0383_0020_0001$$$::"A parte do 'até o final' não faz sentido.[lr]::
+43243::$$$message_0383_0006_0001$$$::Espíritos Heroicos, familiares chamados Servos.[lr]::
+43244::$$$message_0383_0006_0002$$$::...Posicionados como Guardiões, a Força Contrária da humanidade.[lr]::
+43245::$$$message_0383_0006_0003$$$::Eles são invocados a várias eras e impedem a destruição do mundo.[lr]::
+43246::$$$message_0383_0006_0004$$$::Mas a única condição que eles têm é a destruição causada por humanos.[lr]::
+43247::$$$message_0383_0006_0005$$$::A destruição causada pela natureza e por fatores externos não é resolvida pela Força Contrária da humanidade, mas pela do mundo.::
+43248::$$$message_0383_0007_0000$$$::...É por isso que a única coisa que Espíritos Heroicos que se tornam Guardiões veem é a autodestruição.[lr]::
+43249::$$$message_0383_0007_0001$$$::Uma existência apenas para eliminar a destruição criada pelos desejos humanos.[lr]::
+43250::$$$message_0383_0007_0002$$$::Ele fez um contrato com o mundo para salvar humanos e se tornou um herói.[lr]::
+43251::$$$message_0383_0007_0003$$$::Em troca, tornou-se um Guardião após a morte e viu a autodestruição da humanidade repetidas vezes.[lr]::
+43252::$$$message_0383_0007_0004$$$::Ele foi invocado como Espírito Heroico para salvar pessoas, mas foi forçado a limpar as consequências da má conduta delas.::
+43253::$$$message_0383_0008_0000$$$::...Não demorou muito para ele começar a pensar que aquilo era em vão e não conseguir evitar desprezar o mundo humano.[lr]::
+43254::$$$message_0383_0008_0001$$$::E no fim...[lr]::
+43255::$$$message_0383_0008_0002$$$::Mesmo depois de morrer, ele continuou sendo traído pelo ideal que protegeu.::
+43256::$$$message_0383_0009_0000$$$::"Rin. O que houve? Está tonta?"[lr]::
+43257::$$$message_0383_0009_0001$$$::"Hã...?"[lr]::
+43258::$$$message_0383_0009_0002$$$::Tohsaka Rin desperta ao ser chamada de repente.[lr]::
+43259::$$$message_0383_0009_0003$$$::...Ela olha lentamente ao redor.[lr]::
+43260::$$$message_0383_0009_0004$$$::Este é o cemitério dos estrangeiros.[lr]::
+43261::$$$message_0383_0009_0005$$$::Passou pouco das 19h, mas está deserto.[lr]::
+43262::$$$message_0383_0009_0006$$$::Bem, a colina onde fica a igreja está sempre deserta.::
+43263::$$$message_0383_0010_0000$$$::"...Desculpe, eu estava dormindo. Parece que estou um pouco cansada."[lr]::
+43264::$$$message_0383_0010_0001$$$::"É compreensível, você não dormiu desde ontem à noite. Se não está se sentindo bem, devemos adiar isto? Não há necessidade de atacar agora."[lr]::
+43265::$$$message_0383_0010_0002$$$::"...Não, não podemos perder tempo. Descobrimos onde Caster está, então devemos resolver isto agora."[lr]::
+43266::$$$message_0383_0010_0003$$$::Rin declara isso e percebe que seu corpo está quente.[lr]::
+43267::$$$message_0383_0010_0004$$$::Deve ser porque seu familiar, Archer, a protegeu do frio com a própria capa.::
+43268::$$$message_0383_0011_0000$$$::"...Heh. Você percebeu que eu estava dormindo. É rude da sua parte não me acordar."[lr]::
+43269::$$$message_0383_0011_0001$$$::"Bem, não vejo muitas pessoas dormindo em pé. Tive que observar, já que era tão raro."[lr]::
+43270::$$$message_0383_0011_0002$$$::"...Isso é ainda pior. Quem é você para ficar olhando o rosto de uma garota dormindo?"::
+43271::$$$message_0383_0012_0000$$$::"Não se preocupe, juro que não fiz nada tão rude.[lr]::
+43272::$$$message_0383_0012_0001$$$::Mas ouvi uma coisa. Posso fechar os olhos se tentar, mas isso não funciona com meus ouvidos."[lr]::
+43273::$$$message_0383_0012_0002$$$::"...Entendo. Eu disse alguma coisa, Archer?"[lr]::
+43274::$$$message_0383_0012_0003$$$::"Sim. Você murmurou várias coisas inquietantes, como que estava descontente e furiosa."::
+43275::$$$message_0383_0013_0000$$$::"...Ah, está bem."[lr]::
+43276::$$$message_0383_0013_0001$$$::Rin suspira de alívio.[lr]::
+43277::$$$message_0383_0013_0002$$$::O sonho que ela acabou de ver não pode ser discutido.[lr]::
+43278::$$$message_0383_0013_0003$$$::Ela não pode deixar Archer saber disso.[lr]::
+43279::$$$message_0383_0013_0004$$$::Ela gosta da relação deles.[lr]::
+43280::$$$message_0383_0013_0005$$$::...Para mantê-la, ela precisa esconder o fato de que conhece o passado de Archer.::
+43281::$$$message_0383_0014_0000$$$::"Vamos, Archer. Conheço um pouco da igreja. Tenho uma ideia de onde ela pode estar escondida."[lr]::
+43282::$$$message_0383_0014_0001$$$::Ela afasta a capa de Archer e se levanta.[lr]::
+43283::$$$message_0383_0014_0002$$$::Archer protege suas costas em silêncio.[lr]::
+43284::$$$message_0383_0014_0003$$$::Então...[lr]::
+43285::$$$message_0383_0014_0004$$$::"Ei, Archer. Você já se arrependeu do que fez?"[lr]::
+43286::$$$message_0383_0014_0005$$$::Ela pergunta sem se virar.::
+43287::$$$message_0383_0015_0000$$$::[font italic=true]...[font italic=false][lr]::
+43288::$$$message_0383_0015_0001$$$::"Se possível, não quero me arrepender até o fim. Mesmo quando eu for derrotada de verdade, quero cerrar os dentes e ser teimosa.[lr]::
+43289::$$$message_0383_0015_0002$$$::Mas aposto que isso é difícil. Mais difícil do que consigo imaginar, suponho."::
+43290::$$$message_0383_0016_0000$$$::"Esse tipo de idealismo depende da pessoa.[lr]::
+43291::$$$message_0383_0016_0001$$$::Há quem consiga e há quem não consiga. Você é do primeiro tipo. Pessoas assim não cometem erros e não pensam nos próprios erros."::
+43292::$$$message_0383_0017_0000$$$::"...Ei, você faz parecer que sou algum tipo de tirana descarada."[lr]::
+43293::$$$message_0383_0017_0001$$$::"Isso é boa autoconsciência, Rin.[lr]::
+43294::$$$message_0383_0017_0002$$$::Uma pessoa vibrante brilha mais que as outras.[lr]::
+43295::$$$message_0383_0017_0003$$$::Pessoas assim nunca cerram os dentes.[lr]::
+43296::$$$message_0383_0017_0004$$$::...Então. Esta é minha opinião pessoal, mas você com certeza é uma dessas pessoas. Tohsaka Rin acredita no próprio caminho até o fim."::
+43297::$$$message_0383_0018_0000$$$::O cavaleiro na capa vermelha diz, como se cantasse.[lr]::
+43298::$$$message_0383_0018_0001$$$::Rin cora com a resposta dele e lhe faz a pergunta principal sem olhar para trás.::
+43299::$$$message_0383_0019_0000$$$::"...Então e você? Acredita que está correto até o fim?"[lr]::
+43300::$$$message_0383_0019_0001$$$::"Hm? Desculpe, mas essa pergunta não tem sentido."[lr]::
+43301::$$$message_0383_0019_0002$$$::"...Por quê? Não é algo que você não possa responder, certo?"[lr]::
+43302::$$$message_0383_0019_0003$$$::A voz dela está ligeiramente nervosa.::
+43303::$$$message_0383_0020_0000$$$::A isso...[lr]::
+43304::$$$message_0383_0020_0001$$$::"A parte do 'até o fim' não tem sentido.[lr]::
 43305::$$$message_0383_0020_0002$$$::Você se esqueceu, Mestra?[lr]::
-43306::$$$message_0383_0020_0003$$$::[line3]Eu encarei o meu final muito tempo atrás."[lr]::
-43307::$$$message_0383_0020_0004$$$::...O cavaleiro com roupas vermelhas dá essa resposta.::
-�
+43306::$$$message_0383_0020_0003$$$::   Meu momento final terminou muito tempo atrás."[lr]::
+43307::$$$message_0383_0020_0004$$$::O cavaleiro vermelho responde com uma voz seca.::

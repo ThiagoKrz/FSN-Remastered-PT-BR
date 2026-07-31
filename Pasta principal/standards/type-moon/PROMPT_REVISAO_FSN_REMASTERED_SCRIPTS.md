@@ -102,6 +102,23 @@ Regras de estilo e adaptação:
 - **Regionalismo Neutro Nacional:** Foque num coloquialismo "neutro" brasileiro (padrão de boas dublagens). Evite usar "Tu" (para não gerar choque de conjugação verbal no meio do texto) e evite gírias fortemente atreladas a um único estado do país (ex: "Mermão", "Oxe", "Boto fé", "Uai").
 - **Geral:** Corrija sempre concordância, substitua aspas `「」『』` por `"`, e preserve estritamente os honoríficos asiáticos como parte do texto (`Senpai`, `Onii-chan`, `-san`, `-chan`, `-sensei`).
 
+## Nomes próprios japoneses
+
+Em Fate/stay night Remastered, nomes completos japoneses devem seguir a ordem japonesa do `scripts_JP/`: sobrenome antes do nome. A tradução inglesa costuma inverter para ordem ocidental; na revisão PT-BR, reverta para o padrão JP quando o nome completo aparecer.
+
+Exemplos obrigatórios:
+
+- `Shirou Emiya` -> `Emiya Shirou`
+- `Rin Tohsaka` -> `Tohsaka Rin`
+- `Sakura Matou` -> `Matou Sakura`
+- `Shinji Matou` -> `Matou Shinji`
+- `Kiritsugu Emiya` -> `Emiya Kiritsugu`
+- `Kirei Kotomine` -> `Kotomine Kirei`
+- `Souichirou Kuzuki` -> `Kuzuki Souichirou`
+- `Zouken Matou` -> `Matou Zouken`
+
+Não aplique isso a nomes estrangeiros, monônimos, epítetos, classes de Servo ou chamadas parciais em diálogo. Formas como `Emiya`, `Tohsaka`, `Sakura`, `Fuji-nee`, `Senpai` e honoríficos permanecem conforme o contexto da fala.
+
 ## Glossário obrigatório
 
 Use exatamente o glossário JSON. Termos recorrentes de FSN com alta prioridade:

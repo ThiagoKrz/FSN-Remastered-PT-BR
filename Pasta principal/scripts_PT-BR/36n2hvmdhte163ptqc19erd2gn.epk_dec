@@ -1,90 +1,89 @@
 DAT
 id=qid::label=str::text=lstr::
-42259::$$$message_0368_0000_0000$$$::O Sol se põe, e o saguão começa a ficar escuro.[lr]::
-42260::$$$message_0368_0000_0001$$$::...Nós viemos aqui para procurar por um aliado, mas depois de tudo o que aconteceu, a única coisa que restou foi esse castelo vazio.::
-42261::$$$message_0368_0001_0000$$$::"Então, o que vamos fazer agora? Nós podemos ficar aqui se quisermos usar esse lugar para nos defendermos.[lr]::
-42262::$$$message_0368_0001_0001$$$::Há comida e camas aqui. Se nós consertarmos essas paredes, esse castelo vai ser o suficiente para conseguirmos nos proteger."::
-42263::$$$message_0368_0002_0000$$$::"[line8]"[lr]::
-42264::$$$message_0368_0002_0001$$$::Essa seria a melhor opção se nós quiséssemos nos proteger.[lr]::
-42265::$$$message_0368_0002_0002$$$::Mas nós escolhemos lutar justamente porque não poderíamos ficar parados.::
-42266::$$$message_0368_0003_0000$$$::"...Não, mesmo se nós fortificarmos o castelo, não vai adiantar de nada.[lr]::
-42267::$$$message_0368_0003_0001$$$::Qualquer defesa poderá ser invadida pela Caster se ela conseguir controlar a Saber.[lr]::
-42268::$$$message_0368_0003_0002$$$::...E mesmo se nós sobrevivermos aqui, não fará nenhum sentido se a Caster conseguir o Santo Graal."::
-42269::$$$message_0368_0004_0000$$$::"Não só nós, mas pessoas inocentes também vão sofrer.[lr]::
-42270::$$$message_0368_0004_0001$$$::...Não temos outra escolha. Nós temos que pegar a Saber de volta antes que a Caster consiga controlá-la. Precisamos derrotar a Caster, o Archer, o Assassin, e o Kuzuki-sensei por conta própria."::
-42271::$$$message_0368_0005_0000$$$::"[line8]"[lr]::
+42259::$$$message_0368_0000_0000$$$::O sol está se pondo, e o saguão aos poucos é envolto pela escuridão.[lr]::
+42260::$$$message_0368_0000_0001$$$::...Viemos ao castelo para encontrar uma aliada, mas, depois de tantas reviravoltas, a única coisa restante são as ruínas de um castelo.::
+42261::$$$message_0368_0001_0000$$$::"Então, o que devemos fazer? Acho que podemos ficar aqui e reforçar nossa defesa, sem atacar.[lr]::
+42262::$$$message_0368_0001_0001$$$::Temos comida e podemos nos manter aquecidos aqui. Se consertarmos as paredes, conseguimos nos proteger dentro do castelo."::
+42263::$$$message_0368_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
+42264::$$$message_0368_0002_0001$$$::Essa é a melhor coisa a fazer se quisermos nos proteger.[lr]::
+42265::$$$message_0368_0002_0002$$$::Mas nós conseguimos uma aliada justamente para escolher o caminho da luta, porque não podíamos fazer isso.::
+42266::$$$message_0368_0003_0000$$$::"...Não, mesmo que reforcemos nossa defesa, não terá sentido.[lr]::
+42267::$$$message_0368_0003_0001$$$:: Qualquer defesa será quebrada quando Caster controlar Saber por completo.[lr]::
+42268::$$$message_0368_0003_0002$$$:: ...Mesmo que sobrevivamos aqui, se o Santo Graal cair nas mãos de Caster, então..."::
+42269::$$$message_0368_0004_0000$$$::"Não apenas nós, mas as pessoas da cidade também sofrerão.[lr]::
+42270::$$$message_0368_0004_0001$$$::...Então só há uma coisa a fazer. Vamos recuperar Saber antes que Caster a controle por completo. Temos que derrotar Caster, Archer, Assassin e o Sr. Kuzuki por conta própria."::
+42271::$$$message_0368_0005_0000$$$::[font italic=true]...[font italic=false][lr]::
 42272::$$$message_0368_0005_0001$$$::Eu aceno em silêncio.[lr]::
-42273::$$$message_0368_0005_0002$$$::Já que a gente não foi capaz de conseguir a ajuda da Illya, essa é a única coisa que nós podemos fazer.[lr]::
-42274::$$$message_0368_0005_0003$$$::...O céu vai escurecer em breve.[lr]::
-42275::$$$message_0368_0005_0004$$$::Nós temos que sair desse lugar antes disso e atacar a Caster antes que a Saber seja controlada por completo[line4]::
-42276::$$$message_0368_0006_0000$$$::[line3]O plano é simples.[lr]::
-42277::$$$message_0368_0006_0001$$$::Dependendo da situação, o processo pode mudar. Mas o nosso objetivo é mesmo: enfrentar a Caster.::
-42278::$$$message_0368_0007_0000$$$::Não importa se nós tivermos apenas um instante para executar o plano.[lr]::
-42279::$$$message_0368_0007_0001$$$::A Caster é a mais fraca em combate corpo-a-corpo.[lr]::
-42280::$$$message_0368_0007_0002$$$::Ainda que ela seja um Servo, há uma chance da gente vencer se nós partirmos para cima dela em uma batalha de dois contra um.[lr]::
-42281::$$$message_0368_0007_0003$$$::As joias da Tohsaka e a minha magia de projeção.[lr]::
-42282::$$$message_0368_0007_0004$$$::Se juntarmos as nossas habilidades, nós podemos vencer.::
-42283::$$$message_0368_0008_0000$$$::Esse é o plano que conseguimos bolar, e nós saímos da floresta acreditando que ele vai dar certo.[lr]::
-42284::$$$message_0368_0008_0001$$$::Nós não falamos mais nada depois disso.[lr]::
-42285::$$$message_0368_0008_0002$$$::...Há um motivo bem claro para ficarmos em silêncio.[lr]::
-42286::$$$message_0368_0008_0003$$$::Nós estamos blefando desesperadamente para tentarmos nos enganar.::
-42287::$$$message_0368_0009_0000$$$::O céu da manhã é cinzento.[lr]::
-42288::$$$message_0368_0009_0001$$$::A luz do Sol está bloqueada pelas nuvens, ofuscando o amanhecer.[lr]::
+42273::$$$message_0368_0005_0002$$$:: Como não conseguimos a ajuda de Illya, temos que fazer isso por conta própria.[lr]::
+42274::$$$message_0368_0005_0003$$$::...O sol vai se pôr por completo em breve.[lr]::
+42275::$$$message_0368_0005_0004$$$:: Teremos que sair deste lugar antes disso e atacar Caster antes que Saber se renda...::
+42276::$$$message_0368_0006_0000$$$::   É um plano simples.[lr]::
+42277::$$$message_0368_0006_0001$$$::O processo mudará dependendo da situação. Nosso único objetivo, no fim, é confrontar Caster.::
+42278::$$$message_0368_0007_0000$$$::Não importa se essa situação durar apenas um instante.[lr]::
+42279::$$$message_0368_0007_0001$$$::Caster é o Servo mais fraco em combate corpo a corpo.[lr]::
+42280::$$$message_0368_0007_0002$$$::Mesmo que ela seja um Servo, temos chance de vencer se pudermos lutar contra ela em duas contra uma.[lr]::
+42281::$$$message_0368_0007_0003$$$::As joias de Tohsaka e minha Magia de Projeção.[lr]::
+42282::$$$message_0368_0007_0004$$$::Não é uma batalha impossível de vencer se fizermos pleno uso de nossos poderes individuais. ::
+42283::$$$message_0368_0008_0000$$$::Essa foi a conclusão a que chegamos, e saímos da floresta acreditando nisso.[lr]::
+42284::$$$message_0368_0008_0001$$$::Não trocamos palavras depois disso.[lr]::
+42285::$$$message_0368_0008_0002$$$::...Há uma razão.[lr]::
+42286::$$$message_0368_0008_0003$$$::Estamos blefando desesperadamente para enganar a nós mesmos.::
+42287::$$$message_0368_0009_0000$$$::O nascer do sol é cinzento.[lr]::
+42288::$$$message_0368_0009_0001$$$::A luz do sol é bloqueada pelas nuvens, obscurecendo a luz da alvorada.[lr]::
 42289::$$$message_0368_0009_0002$$$::Um céu nublado está acima de nós.[lr]::
-42290::$$$message_0368_0009_0003$$$::O céu está mais cinza do que preto, e ele me faz lembrar daquele dia de dez anos atrás.::
-42291::$$$message_0368_0010_0000$$$::[line3]Deve começar a chover em breve.[lr]::
-42292::$$$message_0368_0010_0001$$$::Um céu cinzento e impuro.[lr]::
-42293::$$$message_0368_0010_0002$$$::O homem está parado debaixo do céu coberto de nuvens.::
-42294::$$$message_0368_0011_0000$$$::"Então vocês vieram mesmo. Eu conheço vocês. Eu sabia que vocês iriam voltar com algum plano em mente."[lr]::
-42295::$$$message_0368_0011_0001$$$::Ele encara a Tohsaka com um olhar frio.::
-42296::$$$message_0368_0012_0000$$$::"Desculpe, Archer. Eu não consegui atender às suas expectativas.[lr]::
-42297::$$$message_0368_0012_0001$$$::Nós não temos nenhum plano para início de conversa. Passamos o dia inteiro pensando sobre isso, mas não conseguimos bolar nada."::
-42298::$$$message_0368_0013_0000$$$::"[line4]O quê?"[lr]::
-42299::$$$message_0368_0013_0001$$$::"Você pode não acreditar em mim, mas nós estamos aqui para morrermos com honra.[lr]::
-42300::$$$message_0368_0013_0002$$$::...Mas parece que nós ainda temos um pouco de sorte. Se você está aqui, é porque a Saber ainda está resistindo à Caster."::
-42301::$$$message_0368_0014_0000$$$::Então nesse momento nós temos quatro inimigos.[lr]::
-42302::$$$message_0368_0014_0001$$$::Se nós conseguirmos passar pelo Archer, poderemos enfrentar a Caster e o Assassin cara a cara.[lr]::
-42303::$$$message_0368_0014_0002$$$::O nosso plano é lutarmos contra o Archer e em seguida enfrentarmos a Caster juntos.[lr]::
-42304::$$$message_0368_0014_0003$$$::...Pelo menos, essa é a mentira que a Tohsaka inventou.::
-42305::$$$message_0368_0015_0000$$$::"[line3]Entendo. Caster e Emiya Shirou. As chances estão mais favoráveis para a Caster, não acha?"[lr]::
-42306::$$$message_0368_0015_0001$$$::O Archer fez uma pergunta complexa.::
-42307::$$$message_0368_0016_0000$$$::"Sim. Eu odeio a minha personalidade, mas parece que não posso mudá-la, pois nasci assim. Eu serei desumana até o final."[lr]::
-42308::$$$message_0368_0016_0001$$$::Depois de dizer isso com uma voz sem emoção, a Tohsaka dá um passo à frente.::
-42309::$$$message_0368_0017_0000$$$::"[line3]Shirou. O Archer só vai atacar você. Eu não vou te ajudar. Eu vou tentar enfrentar a Caster enquanto você é morto."[lr]::
-42310::$$$message_0368_0017_0001$$$::A Tohsaka se desculpa comigo enquanto se mantém virada de costas...[lr]::
-42311::$$$message_0368_0017_0002$$$::Confessando que ela pretendia me usar como sacrifício desde o começo.::
-42312::$$$message_0368_0018_0000$$$::"[line8]"[lr]::
-42313::$$$message_0368_0018_0001$$$::Que idiotice da parte dela.[lr]::
-42314::$$$message_0368_0018_0002$$$::Ela não precisava me dizer uma coisa dessas.::
-42315::$$$message_0368_0019_0000$$$::"Não se preocupe com isso, sua idiota. Eu conheço você."[lr]::
-42316::$$$message_0368_0019_0001$$$::"Hã[line4]?"[lr]::
-42317::$$$message_0368_0019_0002$$$::"Tohsaka, você não é do tipo de fazer algo sem ter uma chance de vitória, não é? É por isso que eu já sabia. Eu sei que essa é a única forma de nós termos uma chance de vencer."::
-42318::$$$message_0368_0020_0000$$$::"[line4]Shirou."[lr]::
-42319::$$$message_0368_0020_0001$$$::As costas dela tremem um pouco.[lr]::
-42320::$$$message_0368_0020_0002$$$::...Ah.[lr]::
-42321::$$$message_0368_0020_0003$$$::Essa era a única desculpa que eu precisava.::
-42322::$$$message_0368_0021_0000$$$::"Agora vai! Eu vou deixar o Archer ocupado. Vou mantê-lo aqui até que pelo menos você consiga chegar até a igreja."[lr]::
-42323::$$$message_0368_0021_0001$$$::Eu controlo a minha respiração e giro as engrenagens do motor.[lr]::
-42324::$$$message_0368_0021_0002$$$::[line3]Eu me sinto ótimo.[lr]::
-42325::$$$message_0368_0021_0003$$$::Eu devo conseguir projetar as lâminas dele no meu estado atual.::
-42326::$$$message_0368_0022_0000$$$::"[line4]Obrigada. Me perdoe, Shirou."[lr]::
-42327::$$$message_0368_0022_0001$$$::A Tohsaka sai correndo.[lr]::
-42328::$$$message_0368_0022_0002$$$::...O Archer a deixa passar como se não tivesse interesse nela.[lr]::
-42329::$$$message_0368_0022_0003$$$::"Bom trabalho. Parece que você conhece os seus próprios poderes."[lr]::
-42330::$$$message_0368_0022_0004$$$::Ele demonstra intenção de matar.::
-42331::$$$message_0368_0023_0000$$$::"[line4]Trace, on."[lr]::
-42332::$$$message_0368_0023_0001$$$::...Eu projeto as lâminas gêmeas.[lr]::
-42333::$$$message_0368_0023_0002$$$::A batalha vai ser decidida em um piscar de olhos.[lr]::
-42334::$$$message_0368_0023_0003$$$::Eu apenas observo o Archer e as costas da Tohsaka correndo até a igreja.::
-42335::$$$message_0368_0024_0000$$$::...Será que acabou com apenas um golpe, ou eu consegui pelo menos durar por alguns segundos?[lr]::
-42336::$$$message_0368_0024_0001$$$::A batalha terminou, e eu olho para o céu incapaz de fazer nada.[lr]::
-42337::$$$message_0368_0024_0002$$$::Um céu cinzento está sobre a minha cabeça.[lr]::
+42290::$$$message_0368_0009_0003$$$::O céu, mais próximo do cinza do que do preto, me lembra aquela época de dez anos atrás.::
+42291::$$$message_0368_0010_0000$$$::   Será que vai começar a chover em breve?[lr]::
+42292::$$$message_0368_0010_0001$$$::Um céu branco e opaco.[lr]::
+42293::$$$message_0368_0010_0002$$$::Aquele homem estava de pé sob o céu nublado, que cheirava como se a chuva tivesse acabado de parar.::
+42294::$$$message_0368_0011_0000$$$::"Então vocês vieram mesmo. Conheço a sua personalidade. Pensei que voltaria com algum tipo de estratégia."[lr]::
+42295::$$$message_0368_0011_0001$$$::Ele encara Tohsaka com olhos frios.::
+42296::$$$message_0368_0012_0000$$$::"Desculpe, Archer. Não consigo corresponder a essas expectativas.[lr]::
+42297::$$$message_0368_0012_0001$$$::Como pode ver, estamos de mãos vazias. Quebramos a cabeça o dia inteiro, mas não conseguimos bolar plano algum."::
+42298::$$$message_0368_0013_0000$$$::"...O quê?"[lr]::
+42299::$$$message_0368_0013_0001$$$::"Você pode não acreditar em mim, mas viemos aqui para morrer com honra.[lr]::
+42300::$$$message_0368_0013_0002$$$::...Mas parece que ainda temos um pouco de sorte. Se você está aqui, isso significa que Saber ainda resiste a Caster."::
+42301::$$$message_0368_0014_0000$$$::Então, são quatro oponentes.[lr]::
+42302::$$$message_0368_0014_0001$$$:: Se atravessarmos Archer, o porteiro, poderemos enfrentar Caster e Assassin de frente.[lr]::
+42303::$$$message_0368_0014_0002$$$:: Nosso plano é atravessar Archer juntas e confrontar Caster com nós duas.[lr]::
+42304::$$$message_0368_0014_0003$$$::...Essa é a mentira que Tohsaka inventou.::
+42305::$$$message_0368_0015_0000$$$:: "...Entendo. Caster e Emiya Shirou. A balança pendeu para Caster, hein, Rin?"[lr]::
+42306::$$$message_0368_0015_0001$$$::A pergunta opressiva de Archer.::
+42307::$$$message_0368_0016_0000$$$::"Sim. Odeio minha própria personalidade, mas acho que não posso mudá-la, já que nasci com ela. Afinal, sou desumana nas horas decisivas." [lr]::
+42308::$$$message_0368_0016_0001$$$::Tohsaka responde com uma voz sem emoção e dá um passo à frente.::
+42309::$$$message_0368_0017_0000$$$::"...Shirou. Archer só vai atacar você. Eu não vou te dar apoio. Vou lutar contra Caster enquanto você é morto."[lr]::
+42310::$$$message_0368_0017_0001$$$::Como se isso fosse um crime...[lr]::
+42311::$$$message_0368_0017_0002$$$::Tohsaka se desculpa com as costas, como se pretendesse me usar como sacrifício desde o início.::
+42312::$$$message_0368_0018_0000$$$::[font italic=true]...[font italic=false][lr]::
+42313::$$$message_0368_0018_0001$$$::Que idiotice dela.[lr]::
+42314::$$$message_0368_0018_0002$$$::Ela não precisava dizer uma coisa dessas.::
+42315::$$$message_0368_0019_0000$$$::"Não se preocupe com isso, idiota. Eu também conheço a sua personalidade."[lr]::
+42316::$$$message_0368_0019_0001$$$::"Hã...?"[lr]::
+42317::$$$message_0368_0019_0002$$$::"Tohsaka, seu princípio é não fazer nada em que não tenha chance de vencer, certo? Foi por isso que eu soube. ...Com certeza, este é o único jeito de vencermos."::
+42318::$$$message_0368_0020_0000$$$::"...Shirou."[lr]::
+42319::$$$message_0368_0020_0001$$$::Suas costas, que não tinham qualquer hesitação, tremem um pouco.[lr]::
+42320::$$$message_0368_0020_0002$$$::[font italic=true]...Ah.[font italic=false][lr]::
+42321::$$$message_0368_0020_0003$$$::Esse é todo o pedido de desculpas de que preciso.::
+42322::$$$message_0368_0021_0000$$$::"Vá. Eu vou segurar Archer. Vou segurá-lo, nem que seja só com força de vontade, pelo menos até você entrar na igreja."[lr]::
+42323::$$$message_0368_0021_0001$$$::Controlo minha respiração e giro as engrenagens do meu motor.[lr]::
+42324::$$$message_0368_0021_0002$$$::   Minha condição está melhor do que nunca.[lr]::
+42325::$$$message_0368_0021_0003$$$::Consigo projetar as mesmas espadas que ele imediatamente neste estado.::
+42326::$$$message_0368_0022_0000$$$::"...Obrigada. Desculpa, Shirou."[lr]::
+42327::$$$message_0368_0022_0001$$$::Tohsaka corre.[lr]::
+42328::$$$message_0368_0022_0002$$$::...Archer a deixa ir como se ela não estivesse em seu campo de visão desde o início.[lr]::
+42329::$$$message_0368_0022_0003$$$::"Muito bem. Parece que você entende seus poderes, mesmo sendo incompetente."[lr]::
+42330::$$$message_0368_0022_0004$$$::Ele emite intenção de matar, como se dissesse que não me deixará escapar desta vez.::
+42331::$$$message_0368_0023_0000$$$::"Trace, on."[lr]::
+42332::$$$message_0368_0023_0001$$$::...Projeto as espadas gêmeas.[lr]::
+42333::$$$message_0368_0023_0002$$$::A luta deve ser decidida em um instante.[lr]::
+42334::$$$message_0368_0023_0003$$$::As únicas coisas no meu campo de visão são Archer e as costas de Tohsaka correndo para a igreja.::
+42335::$$$message_0368_0024_0000$$$::...Acabou em um só golpe, ou consegui resistir algumas vezes?[lr]::
+42336::$$$message_0368_0024_0001$$$::A batalha termina, e olho para o céu com o corpo sem forças.[lr]::
+42337::$$$message_0368_0024_0002$$$::Uma cor cinzenta cobre o céu.[lr]::
 42338::$$$message_0368_0024_0003$$$::Deve começar a chover em breve.[lr]::
-42339::$$$message_0368_0024_0004$$$::O céu está próximo, e as nuvens estão bloqueando o meu caminho como se fossem um muro.::
-42340::$$$message_0368_0025_0000$$$::"[line4]Tohsaka, por favor... fique... bem[line4]"[lr]::
-42341::$$$message_0368_0025_0001$$$::O meu corpo está queimando.[lr]::
-42342::$$$message_0368_0025_0002$$$::Eu ouço o barulho de chamas vindo da igreja.::
-42343::$$$message_0368_0026_0000$$$::"[line4]Ha, ah."[lr]::
-42344::$$$message_0368_0026_0001$$$::O céu está distante demais para a minha mão esticada.[lr]::
-42345::$$$message_0368_0026_0002$$$::Isso se parece com aquela cena de dez anos atrás...::
-�
+42339::$$$message_0368_0024_0004$$$::O céu nublado está próximo, e as nuvens bloqueiam minhas mãos como uma parede.::
+42340::$$$message_0368_0025_0000$$$::"...Tohsaka, por favor, fique bem..."[lr]::
+42341::$$$message_0368_0025_0001$$$::Meu corpo está queimando.[lr]::
+42342::$$$message_0368_0025_0002$$$::Ouço o som fraco de chamas vindo da igreja.::
+42343::$$$message_0368_0026_0000$$$::"...Haah, agh."[lr]::
+42344::$$$message_0368_0026_0001$$$::O sol está distante demais da minha mão estendida sem forças.[lr]::
+42345::$$$message_0368_0026_0002$$$::Aquele céu era como se eu tivesse voltado no tempo, para dez anos atrás.::

@@ -1,149 +1,149 @@
 DAT
 id=qid::label=str::text=lstr::
-78179::$$$message_0726_0000_0000$$$::A igreja está acesa, embora seja meia noite.[lr]::
-78180::$$$message_0726_0000_0001$$$::Pego a mulher da Saber e entro na igreja sozinho.[lr]::
-78181::$$$message_0726_0000_0002$$$::Quando chamo o Kotomine, ele rapidamente aparece e recua com a mulher inconsciente.[lr]::
-78182::$$$message_0726_0000_0003$$$::Ele disse que seu quarto era o único lugar onde ele poderia tratá-la.::
-78183::$$$message_0726_0001_0000$$$::"[w l=4][line4]Ufa."[lr]::
-78184::$$$message_0726_0001_0001$$$::Eu sento.[lr]::
-78185::$$$message_0726_0001_0002$$$::...fiz tudo que pude.[lr]::
-78186::$$$message_0726_0001_0003$$$::Agora, depende do Kotomine.[lr]::
-78187::$$$message_0726_0001_0004$$$::Acreditarei nele e esperarei.::
-78188::$$$message_0726_0002_0000$$$::"[w l=8][line8]"[lr]::
-78189::$$$message_0726_0002_0001$$$::...continuo esperando.[lr]::
-78190::$$$message_0726_0002_0002$$$::Estou preocupado com a Saber, que espera lá fora, mas não posso sair.::
-78191::$$$message_0726_0003_0000$$$::E[w l=4][line4]quero pensar um pouco sozinho.[lr]::
-78192::$$$message_0726_0003_0001$$$::A família Matou é uma família de magos.[lr]::
-78193::$$$message_0726_0003_0002$$$::Shinji virou um Mestre e obteve um Servo.[lr]::
-78194::$$$message_0726_0003_0003$$$::Matou Zouken fez seu sucessor participar na Guerra do Santo Graal, mesmo que ele tenha perdido seus poderes de mago.::
-78195::$$$message_0726_0004_0000$$$::"......"[lr]::
-78196::$$$message_0726_0004_0001$$$::A família Einzbern não é a única obcecada com o Santo Graal.[lr]::
+78179::$$$message_0726_0000_0000$$$::É madrugada, mas a igreja está fortemente iluminada.[lr]::
+78180::$$$message_0726_0000_0001$$$::Saber entrega a vítima inconsciente aos meus braços diante da igreja, e eu a levo para dentro.[lr]::
+78181::$$$message_0726_0000_0002$$$::Chamo Kotomine em voz alta. Ele aparece, dá uma olhada na vítima e a carrega para uma sala nos fundos.[lr]::
+78182::$$$message_0726_0000_0003$$$::Pelo visto, o único cômodo que pode servir como sala de tratamento são os aposentos do próprio Kotomine.::
+78183::$$$message_0726_0001_0000$$$::"Haah..."[lr]::
+78184::$$$message_0726_0001_0001$$$::Sento-me em um dos bancos.[lr]::
+78185::$$$message_0726_0001_0002$$$::...Por enquanto, fiz tudo que podia.[lr]::
+78186::$$$message_0726_0001_0003$$$::Agora depende de Kotomine se ela vai sobreviver.[lr]::
+78187::$$$message_0726_0001_0004$$$::Só me resta confiar nele e esperar pelo resultado.::
+78188::$$$message_0726_0002_0000$$$::[font italic=true]...[font italic=false][lr]::
+78189::$$$message_0726_0002_0001$$$::...O tempo passa.[lr]::
+78190::$$$message_0726_0002_0002$$$::Sei que Saber está me esperando lá fora, mas ainda não posso sair.::
+78191::$$$message_0726_0003_0000$$$::Além disso, quero um tempo para pensar sozinho.[lr]::
+78192::$$$message_0726_0003_0001$$$::A família Matou se revelou uma linhagem de magos.[lr]::
+78193::$$$message_0726_0003_0002$$$::Shinji tornou-se Mestre com um Servo sob seu comando.[lr]::
+78194::$$$message_0726_0003_0003$$$::Matou Zouken deixou o herdeiro da família lutar na Guerra do Santo Graal, mesmo depois de terem perdido seu poder.::
+78195::$$$message_0726_0004_0000$$$::"..."[lr]::
+78196::$$$message_0726_0004_0001$$$::Os Einzbern não são a única facção fixada no Santo Graal.[lr]::
 78197::$$$message_0726_0004_0002$$$::Makiri e Tohsaka.[lr]::
-78198::$$$message_0726_0004_0003$$$::Não, em primeiro lugar, os únicos que viram Mestres são aqueles interessados no Santo Graal.::
-78199::$$$message_0726_0005_0000$$$::...Saber não é exceção.[lr]::
-78200::$$$message_0726_0005_0001$$$::Os Einzberns buscaram o Santo Graal por mil anos.[lr]::
-78201::$$$message_0726_0005_0002$$$::Sua persistência é algo que não posso mudar.[lr]::
-78202::$$$message_0726_0005_0003$$$::Eles só serão salvos pelo Graal.::
-78203::$$$message_0726_0006_0000$$$::Meu pai foi contra eles e o destruiu.[lr]::
-78204::$$$message_0726_0006_0001$$$::Mas conseguirei eu ir tão longe pelo meu desejo?[lr]::
-78205::$$$message_0726_0006_0002$$$::Como os Einzberns e os Makiris...[lr]::
-78206::$$$message_0726_0006_0003$$$::Tenho o direito de competir contra aqueles que buscam o Santo Graal a séculos?::
-78207::$$$message_0726_0007_0000$$$::"Que surpreendente. Eu disse que você poderia trazer feridos aqui, mas não pensei que traria um no mesmo dia."[lr]::
-78208::$$$message_0726_0007_0001$$$::"Kotomine[w l=4][line4]"[lr]::
-78209::$$$message_0726_0007_0002$$$::Levanto minha cabeça.[lr]::
-78210::$$$message_0726_0007_0003$$$::Ele não parece amargurado.[lr]::
-78211::$$$message_0726_0007_0004$$$::Então significa que o tratamento foi bem sucedido.::
-78212::$$$message_0726_0008_0000$$$::"Kotomine. Como ela está?"[lr]::
-78213::$$$message_0726_0008_0001$$$::"Ela sobreviveu, mas o resto depende dela. Se você tivesse chegado uma hora mais tarde, eu teria atendido ela como padre."::
-78214::$$$message_0726_0009_0000$$$::"[w l=3][line3]Entendo. Sinto muito por te incomodar.[lr]::
-78215::$$$message_0726_0009_0001$$$::...um, que bom que você estava acordado."[lr]::
-78216::$$$message_0726_0009_0002$$$::"Está me agradecendo? Está tudo bem? Ouvirei se algo te preocupa."::
-78217::$$$message_0726_0010_0000$$$::"...estou preocupado com muitas coisas, e você é a causa da maioria delas. Vou deixar o papo longo contigo pra próxima."::
-78218::$$$message_0726_0011_0000$$$::"Ah, então nossa conversa anterior foi um incomôdo? ...Hm, pensei em te dar um empurrão, mas parece que só te dei mais preocupações, huh? Devo refletir minhas ações também."[lr]::
-78219::$$$message_0726_0011_0001$$$::Ele se cala, arrependido.::
-78220::$$$message_0726_0012_0000$$$::"......"[lr]::
-78221::$$$message_0726_0012_0001$$$::Não estou deixando ele me pegar, mas...[lr]::
-78222::$$$message_0726_0012_0002$$$::"......Um.[lr]::
-78223::$$$message_0726_0012_0003$$$::Um cara que conheço virou um Mestre."[lr]::
-78224::$$$message_0726_0012_0004$$$::...não conseguindo aguentar isso, digo a ele na lata.::
-78225::$$$message_0726_0013_0000$$$::O padre diz nada.[lr]::
-78226::$$$message_0726_0013_0001$$$::Apenas concorda.::
-78227::$$$message_0726_0014_0000$$$::"Então claro você derrotou o Mestre, sim?"[lr]::
-78228::$$$message_0726_0014_0001$$$::Concordo com a breve pergunta.::
-78229::$$$message_0726_0015_0000$$$::"Então não se arrependa. Pessoas não podem mudar o passado.[lr]::
-78230::$$$message_0726_0015_0001$$$::Tudo que podemos fazer é aceitar o que fizemos.[lr]::
-78231::$$$message_0726_0015_0002$$$::Se você ainda desejar carregar seus pecados, mostre isso em suas ações futuras. Como você observa algo que aconteceu é uma escolha sua."::
-78232::$$$message_0726_0016_0000$$$::"......"[lr]::
-78233::$$$message_0726_0016_0001$$$::Suas palavras são sensatas.[lr]::
-78234::$$$message_0726_0016_0002$$$::...o problema não é que Shinji é um Mestre, que os Matous são magos, ou que o Einzbern buscam incessantemente o Santo Graal.[lr]::
-78235::$$$message_0726_0016_0003$$$::O importante é o que eu farei a partir de agora.::
-78236::$$$message_0726_0017_0000$$$::"[w l=4][line4]Vou pra casa. Por favor, cuide daquela mulher."[lr]::
-78237::$$$message_0726_0017_0001$$$::Me levanto para deixar a igreja.[lr]::
-78238::$$$message_0726_0017_0002$$$::A Saber está me esperando lá fora.[lr]::
-78239::$$$message_0726_0017_0003$$$::Não tenho motivos pra ficar aqui se a mulher está bem.::
-78240::$$$message_0726_0018_0000$$$::"Espera, Emiya Shirou. Te darei mais um conselho."[lr]::
-78241::$$$message_0726_0018_0001$$$::"...O que? Eu te disse que não ouvirei suas baboseiras incessantes de novo."[lr]::
-78242::$$$message_0726_0018_0002$$$::"Serei breve, mas eu mereço uma recompensa por cuidar dessa mulher tão tarde da noite."[lr]::
-78243::$$$message_0726_0018_0003$$$::"......"[lr]::
-78244::$$$message_0726_0018_0004$$$::Não posso protestar uma colocação dessas.[lr]::
-78245::$$$message_0726_0018_0005$$$::Me viro, relutantemente, para o padre, e vejo ele bem atrás de mim.::
-78246::$$$message_0726_0019_0000$$$::"É algo que esqueci de te dizer.[lr]::
-78247::$$$message_0726_0019_0001$$$::Os Einzberns aguentarem mil anos em busca de seu único desejo. Sim, percebo agora como é algo sério. É normal que você esteja sobrecarregado."[lr]::
-78248::$$$message_0726_0019_0002$$$::"......"[lr]::
-78249::$$$message_0726_0019_0003$$$::...por isso odeio esse cara.[lr]::
-78250::$$$message_0726_0019_0004$$$::Ele aponta minhas dúvidas sem erro, mesmo quando eu não falo nada.::
-78251::$$$message_0726_0020_0000$$$::"...cala a boca. Vai falar isso de novo?"::
-78252::$$$message_0726_0021_0000$$$::"Não. Estou te dizendo para ficar despreocupado.[lr]::
-78253::$$$message_0726_0021_0001$$$::Não precisa ver isso como algo especial. Essa guerra é uma coisa normal.[lr]::
-78254::$$$message_0726_0021_0002$$$::A Guerra do Santo Graal é a materialização de nossa vida diária e de nossa felicidade. Não é crime participar."::
-78255::$$$message_0726_0022_0000$$$::"Todos desejam algo e lutam por esse algo. Isso é o que define a vida. É algo que todos possuem, mesmo se a escala desses desejos for diferente.[lr]::
-78256::$$$message_0726_0022_0001$$$::Não há uma pessoa no mundo que não quer realizar seu desejo.[lr]::
-78257::$$$message_0726_0022_0002$$$::O objetivo, claro, é outro assunto. As pessoas vivem para tornar seus desejos realidade, mas alguns deles morrem antes de alcançar isso."::
-78258::$$$message_0726_0023_0000$$$::"Há uma ordem nas coisas. Uma acumulação apropriada de esforços é necessária para tornar sonhos reais. É isso que as pessoas chamam de vida.[lr]::
-78259::$$$message_0726_0023_0001$$$::[w l=3][line3]O Santo Graal simplesmente remove a necessidade desse esforço.[lr]::
-78260::$$$message_0726_0023_0002$$$::É meramente uma simplificação da vida."::
-78261::$$$message_0726_0024_0000$$$::"Logo não há nada de especial nele.[lr]::
-78262::$$$message_0726_0024_0001$$$::Os sete Mestres tentam apenas reduzir a jornada de suas vidas por um atalho chamado 'Santo Graal'.[lr]::
-78263::$$$message_0726_0024_0002$$$::O resto é igual. É de natureza humana colocar seus desejos na frente dos demais.[lr]::
-78264::$$$message_0726_0024_0003$$$::A Guerra do Santo Graal não é diferente da sua vida.[lr]::
-78265::$$$message_0726_0024_0004$$$::Faça o que quiser durante a guerra e ganhe."::
-78266::$$$message_0726_0025_0000$$$::"......"[lr]::
-78267::$$$message_0726_0025_0001$$$::Diz ele alegremente...[lr]::
-78268::$$$message_0726_0025_0002$$$::Não há diferença entre um desejo vultar e um nobre.[lr]::
-78269::$$$message_0726_0025_0003$$$::A qualidade do desejo é irrelevante.[lr]::
-78270::$$$message_0726_0025_0004$$$::Só preciso pisar nos desejos dos outros[w l=4][line4][lr]::
-78271::$$$message_0726_0025_0005$$$::...não sei se foi sarcástico ou não.[lr]::
-78272::$$$message_0726_0025_0006$$$::Mas ele seriamente disse que até um Mestre incompleto como eu é digno de lutar.::
-78273::$$$message_0726_0026_0000$$$::"...isso não combina com você. Por que está tão preocupado com os outros?"[lr]::
-78274::$$$message_0726_0026_0001$$$::"Bem, por conta da nossa conversa mais cedo não ter ajudado. Não posso me chamar de padre se os preocupados saem mais preocupados depois de falarem comigo."[lr]::
-78275::$$$message_0726_0026_0002$$$::...cara.[lr]::
-78276::$$$message_0726_0026_0003$$$::Aposto que a Tohsaka diria que ele é um padre de araque pra começo de conversa.::
-78277::$$$message_0726_0027_0000$$$::"Não se preocupe com isso. Adeus, seu padre farsante."[lr]::
-78278::$$$message_0726_0027_0001$$$::"Sim. Volte de novo se não estiver satisfeito."[lr]::
-78279::$$$message_0726_0027_0002$$$::Eu solto uma risadinha e vou embora.[lr]::
-78280::$$$message_0726_0027_0003$$$::Deixo a igreja de vez agora.::
-78281::$$$message_0726_0028_0000$$$::A Saber me espera lá fora.[lr]::
-78282::$$$message_0726_0028_0001$$$::...foi assim mais cedo também.[lr]::
-78283::$$$message_0726_0028_0002$$$::A Saber me espera na noite fria de inverno sem reclamar.::
-78284::$$$message_0726_0029_0000$$$::Um Mestre e um Servo podem ter esse tipo de relação, mas a Saber está do meu lado pois ela está preocupada comigo.[lr]::
-78285::$$$message_0726_0029_0001$$$::Acredito que terei que responder ela o mais sinceramente possível.::
-78286::$$$message_0726_0030_0000$$$::"[w l=3][line3]Aquela mulher está bem graças a você, Saber."[lr]::
-78287::$$$message_0726_0030_0001$$$::"Não precisa me agradecer. Foi você quem a tentou salvar. Apenas segui suas ordens."[lr]::
-78288::$$$message_0726_0030_0002$$$::"[w l=4][line4]!"[lr]::
-78289::$$$message_0726_0030_0003$$$::A expressão dela é bem gentil.::
-78290::$$$message_0726_0031_0000$$$::"Ah... não, não é verdade. Você quem a salvou. Não queria chegado a tempo sozinho. E ainda por cima[w l=4][line4]"::
-78291::$$$message_0726_0032_0000$$$::Acredito que a Saber deixou o Matou Zouken ir para salvar aquela mulher.[lr]::
-78292::$$$message_0726_0032_0001$$$::Teríamos lutado com o velho se tivéssemos parado ele lá. Ela definitivamente teria morrido.[lr]::
-78293::$$$message_0726_0032_0002$$$::A Saber levou isso em consideração e o deixou ir.::
-78294::$$$message_0726_0033_0000$$$::"Q-que foi, Shirou? Um, parece que você está sorrindo a toa."[lr]::
-78295::$$$message_0726_0033_0001$$$::"Huh? Ah, tenho um motivo. Fico feliz por ver que você é a pessoa que pensei que era. Obrigado, Saber, por concordar com meu plano insensato."::
-78296::$$$message_0726_0034_0000$$$::"C-Como assim? Não achei seu plano insensato[w l=4][line4]"::
-78297::$$$message_0726_0035_0000$$$::"Jura? Você disse que eu estava sendo leniente demais e muito otimista.[lr]::
-78298::$$$message_0726_0035_0001$$$::Parecia que você não o seguiria quando chegasse a hora."::
-78299::$$$message_0726_0036_0000$$$::"N-Nunca pareci assim! Apenas disse que meu julgamento seria levado em conta se você estivesse em perigo! Como pôde duvidar de mim, Shirou?"[lr]::
-78300::$$$message_0726_0036_0001$$$::A Saber frange.::
-78301::$$$message_0726_0037_0000$$$::"[w l=4][line4]"[lr]::
-78302::$$$message_0726_0037_0001$$$::Eu sorrio, já que sua expressão mudou totalmente.::
-78303::$$$message_0726_0038_0000$$$::"Shirou. Parece que terei que te ensinar boas maneiras qualquer dia."[lr]::
-78304::$$$message_0726_0038_0001$$$::"Sim, por favor me ensine se tiver a oportunidade. Mas Saber... vamos acabar com essa guerra agora."::
-78305::$$$message_0726_0039_0000$$$::"Shirou...?"[lr]::
-78306::$$$message_0726_0039_0001$$$::"Não preciso do Santo Graal como você.[lr]::
-78307::$$$message_0726_0039_0002$$$::Antes, eu só queria acabar com a luta, e te dar o Santo Graal se sobrevivêssemos até o fim. Me perguntava se um amador como eu era apropriado pra você."::
-78308::$$$message_0726_0040_0000$$$::"[w l=3][line3]Entendo. Mas e agora? Hoje, você experimentou uma luta que você escolheu começar. Seus pensamentos mudaram?"::
-78309::$$$message_0726_0041_0000$$$::"Não, nem um pouco. Ainda sou contra a Guerra do Santo Graal.[lr]::
-78310::$$$message_0726_0041_0001$$$::[w l=3][line3]Mas definitivamente lutarei até o fim.[lr]::
-78311::$$$message_0726_0041_0002$$$::Não tenho desejo que precise do Santo Graal.[lr]::
-78312::$$$message_0726_0041_0003$$$::...mas quero proteger os outros, como um super-herói.[lr]::
-78313::$$$message_0726_0041_0004$$$::Não penso que meu desejo é inferior. Então lutarei contra os desejos dos demais, mesmo que tenham quinhentos ou mil anos."::
-78314::$$$message_0726_0042_0000$$$::"[w l=3][line3]Entendo. É compreensível."::
-78315::$$$message_0726_0043_0000$$$::"Então jurarei de novo.[lr]::
-78316::$$$message_0726_0043_0001$$$::Serei sua espada enquanto você for um mestre digno. Enquanto você continuar sendo si mesmo, Shirou,[w l=3][line3]Nunca trairei sua confiança."[lr]::
-78317::$$$message_0726_0043_0002$$$::"Ah[w l=3][line3]sim, farei o meu melhor, Saber."::
-78318::$$$message_0726_0044_0000$$$::Seu sorriso direto é envergonhante, então olho pra cima.[lr]::
-78319::$$$message_0726_0044_0001$$$::A brisa de inverno deixa o céu estrelado ainda mais belo.::
-78320::$$$message_0726_0045_0000$$$::'[w l=3][line3]Nunca te trairei.'::
-78321::$$$message_0726_0046_0000$$$::Olho para o céu noturno, um mundo distante dos eventos desta noite.[lr]::
-78322::$$$message_0726_0046_0001$$$::A garota que esperou por mim nesse tempo frio me disse isso.[lr]::
-78323::$$$message_0726_0046_0002$$$::Então acreditarei em mim mesmo...[lr]::
-78324::$$$message_0726_0046_0003$$$::...assim sempre serei digno da confiança dela.[lr]::
-78325::$$$message_0726_0046_0004$$$::No mínimo, espero poder olhar para este caminho um dia sem arrependimentos.::
+78198::$$$message_0726_0004_0003$$$::Na verdade, pessoas próximas ao próprio Graal estão destinadas a se tornar Mestres.::
+78199::$$$message_0726_0005_0000$$$::...Nem Saber é exceção.[lr]::
+78200::$$$message_0726_0005_0001$$$::Os Einzbern buscaram o Graal por mil anos.[lr]::
+78201::$$$message_0726_0005_0002$$$::Não consigo nem começar a imaginar esse nível de obsessão.[lr]::
+78202::$$$message_0726_0005_0003$$$::Há coisas que só podem ser salvas ou curadas pelo poder do Santo Graal.::
+78203::$$$message_0726_0006_0000$$$::Meu velho desafiou o Graal e escolheu destruí-lo.[lr]::
+78204::$$$message_0726_0006_0001$$$::Consigo levar isto até o fim com a mesma convicção?[lr]::
+78205::$$$message_0726_0006_0002$$$::Eu realmente tenho o direito de lutar na mesma guerra que os Einzbern e os Makiri,[lr]::
+78206::$$$message_0726_0006_0003$$$::que perseguem seu objetivo há centenas de anos...?::
+78207::$$$message_0726_0007_0000$$$::"Devo dizer que não esperava que você me trouxesse uma ferida no mesmo dia em que ofereci ajuda."[lr]::
+78208::$$$message_0726_0007_0001$$$::"Kotomine."[lr]::
+78209::$$$message_0726_0007_0002$$$::Ergo o olhar.[lr]::
+78210::$$$message_0726_0007_0003$$$::A expressão de Kotomine não é sombria.[lr]::
+78211::$$$message_0726_0007_0004$$$::Isso deve significar que o tratamento correu bem.::
+78212::$$$message_0726_0008_0000$$$::"Kotomine, o que aconteceu com a mulher?"[lr]::
+78213::$$$message_0726_0008_0001$$$::"Fiz o que pude. O resto depende dela. Se a tivesse trazido meia hora depois, eu teria realizado os ritos da minha ocupação verdadeira."::
+78214::$$$message_0726_0009_0000$$$::"...Entendo. Desculpa, e obrigado.[lr]::
+78215::$$$message_0726_0009_0001$$$::Eu... fico feliz que estivesse acordado."[lr]::
+78216::$$$message_0726_0009_0002$$$::"O que foi? Dói tanto assim expressar gratidão a mim? Se algo o incomoda, ouvirei."::
+78217::$$$message_0726_0010_0000$$$::"...Não sei. Tenho muita coisa na cabeça agora, e você é quem vive acrescentando mais. Estou farto dos seus sermões longos."::
+78218::$$$message_0726_0011_0000$$$::"Nossa conversa de hoje o perturbou? ...Hm. Eu pretendia motivá-lo, mas parece que só o confundi ainda mais. Isso é bastante lamentável."[lr]::
+78219::$$$message_0726_0011_0001$$$::O padre parece pesaroso, mas não consigo saber o quanto é sincero.::
+78220::$$$message_0726_0012_0000$$$::"..."[lr]::
+78221::$$$message_0726_0012_0001$$$::Mas não vou deixar esse silêncio constrangedor vencer.[lr]::
+78222::$$$message_0726_0012_0002$$$::"Então, hum...[lr]::
+78223::$$$message_0726_0012_0003$$$::Alguém que eu conheço é Mestre."[lr]::
+78224::$$$message_0726_0012_0004$$$::Murmuro de forma patética, incapaz de guardar isso para mim.::
+78225::$$$message_0726_0013_0000$$$::O padre não diz nada.[lr]::
+78226::$$$message_0726_0013_0001$$$::Apenas assente, reconhecendo.::
+78227::$$$message_0726_0014_0000$$$::"E você o derrotou, é claro."[lr]::
+78228::$$$message_0726_0014_0001$$$::Respondo à pergunta curta com meu próprio aceno.::
+78229::$$$message_0726_0015_0000$$$::"Então não há motivo para se desculpar. Pessoas não podem mudar o passado.[lr]::
+78230::$$$message_0726_0015_0001$$$::Tudo que podemos fazer é afirmar nossas próprias ações.[lr]::
+78231::$$$message_0726_0015_0002$$$::Se precisa carregar seus pecados, então questione suas próximas ações. Só você pode decidir como encarar as tragédias do passado."::
+78232::$$$message_0726_0016_0000$$$::"..."[lr]::
+78233::$$$message_0726_0016_0001$$$::O padre está certo, de novo.[lr]::
+78234::$$$message_0726_0016_0002$$$::O problema não é Shinji ter sido Mestre, nem as famílias Matou e Tohsaka serem magos, nem os Einzbern serem obcecados pelo Santo Graal.[lr]::
+78235::$$$message_0726_0016_0003$$$::O que importa são as escolhas que eu fizer a partir de agora.::
+78236::$$$message_0726_0017_0000$$$::"Vou para casa. Cuide dela."[lr]::
+78237::$$$message_0726_0017_0001$$$::Levanto-me e me preparo para sair da capela.[lr]::
+78238::$$$message_0726_0017_0002$$$::Saber está me esperando lá fora.[lr]::
+78239::$$$message_0726_0017_0003$$$::Agora que sei que a mulher ficará bem, não tenho motivo para continuar aqui.::
+78240::$$$message_0726_0018_0000$$$::"Um momento, Emiya Shirou. Permita-me oferecer um conselho."[lr]::
+78241::$$$message_0726_0018_0001$$$::"...O que foi agora? Eu já disse que chega de sermões."[lr]::
+78242::$$$message_0726_0018_0002$$$::"Não demorará. Já passei pelo trabalho de curar sua protegida no meio da noite, então considere isto o pagamento e escute."[lr]::
+78243::$$$message_0726_0018_0003$$$::"..."[lr]::
+78244::$$$message_0726_0018_0004$$$::Não posso discutir com isso.[lr]::
+78245::$$$message_0726_0018_0005$$$::Relutante, volto e fico diante do padre.::
+78246::$$$message_0726_0019_0000$$$::"Deixei de mencionar algo hoje.[lr]::
+78247::$$$message_0726_0019_0001$$$::Os Einzbern sobreviveram pelo último milênio em busca de seu desejo. É um feito bastante monumental, e você estava certo em se sentir intimidado por ele."[lr]::
+78248::$$$message_0726_0019_0002$$$::"..."[lr]::
+78249::$$$message_0726_0019_0003$$$::...É por isso que não sei lidar com esse cara.[lr]::
+78250::$$$message_0726_0019_0004$$$::Eu ainda nem disse nada, mas ele me atinge exatamente onde estou mais inseguro.::
+78251::$$$message_0726_0020_0000$$$::"...Você é irritante demais. Ainda está falando disso?"::
+78252::$$$message_0726_0021_0000$$$::"Esse não é meu ponto. Digo apenas que não precisa se preocupar excessivamente com isso.[lr]::
+78253::$$$message_0726_0021_0001$$$::Não é nada extraordinário. Na verdade, é uma circunstância bastante comum nesta guerra.[lr]::
+78254::$$$message_0726_0021_0002$$$::A Guerra do Santo Graal é uma cristalização dos feitos e bênçãos do homem. Não é preciso sentir culpa por entrar na guerra, nem por matar por ela."::
+78255::$$$message_0726_0022_0000$$$::"Todos os humanos têm seus respectivos desejos e competem para realizá-los. É disso que se trata a vida. Grandes ou pequenos, todos compartilhamos esse princípio fundamental.[lr]::
+78256::$$$message_0726_0022_0001$$$::Duvido que um dia você encontre exceção a essa regra.[lr]::
+78257::$$$message_0726_0022_0002$$$::Claro, sucesso e fracasso são outra questão. Embora todos vivamos perseguindo nossos objetivos, todos chegamos ao fim sem jamais alcançá-los."::
+78258::$$$message_0726_0023_0000$$$::"Todas as coisas têm uma ordem. Um desejo só pode ser realizado por meio de esforço e recursos suficientes. Chamamos esse esforço vão acumulado de 'vida'.[lr]::
+78259::$$$message_0726_0023_0001$$$::O Santo Graal simplesmente abrevia esse esforço necessário.[lr]::
+78260::$$$message_0726_0023_0002$$$::E a Guerra do Santo Graal é uma batalha mortal para simplificar o modo humano de viver."::
+78261::$$$message_0726_0024_0000$$$::"Em outras palavras, não é nada especial.[lr]::
+78262::$$$message_0726_0024_0001$$$::Os sete Mestres apenas tentam tomar o caminho mais curto para realizar algo que, de outro modo, exigiria suas vidas inteiras.[lr]::
+78263::$$$message_0726_0024_0002$$$::Mas não há nada particularmente extraordinário nisso. É absolutamente humano esmagar os desejos dos outros para realizar os próprios.[lr]::
+78264::$$$message_0726_0024_0003$$$::A Guerra do Santo Graal não é diferente da própria vida.[lr]::
+78265::$$$message_0726_0024_0004$$$::Você deve simplesmente fazer o que deseja e vencer, sem se atormentar com isso."::
+78266::$$$message_0726_0025_0000$$$::"..."[lr]::
+78267::$$$message_0726_0025_0001$$$::O tom do padre é agradável.[lr]::
+78268::$$$message_0726_0025_0002$$$::Para ele, não há diferença entre desejos nobres e mundanos.[lr]::
+78269::$$$message_0726_0025_0003$$$::Ele não julga a qualidade do desejo de ninguém.[lr]::
+78270::$$$message_0726_0025_0004$$$::Está dizendo que devo seguir meu coração e pisotear os desejos de todos os outros...[lr]::
+78271::$$$message_0726_0025_0005$$$::Não consigo saber se está sendo sarcástico ou não.[lr]::
+78272::$$$message_0726_0025_0006$$$::Mas o que ouço com clareza é sua declaração séria de que até um Mestre pela metade como eu pode encontrar sentido nesta guerra.::
+78273::$$$message_0726_0026_0000$$$::"...O inferno deve ter congelado se você está preocupado comigo."[lr]::
+78274::$$$message_0726_0026_0001$$$::"Oh, eu apenas lhe disse para não se preocupar. Afinal, eu seria um fracasso como padre se aumentasse os problemas do meu rebanho em vez de aliviá-los."[lr]::
+78275::$$$message_0726_0026_0002$$$::...Que figura.[lr]::
+78276::$$$message_0726_0026_0003$$$::Se Tohsaka ouvisse isso, diria que ele sempre foi um fracasso.::
+78277::$$$message_0726_0027_0000$$$::"Eu nunca pedi isso. Até mais, padre falso."[lr]::
+78278::$$$message_0726_0027_0001$$$::"Sim. Faça o favor de não aprender a lição e volte novamente."[lr]::
+78279::$$$message_0726_0027_0002$$$::Bufo, giro nos calcanhares e marcho para fora da igreja.[lr]::
+78280::$$$message_0726_0027_0003$$$::Desta vez, eu realmente vou embora, anunciando isso com passos altos e fortes.::
+78281::$$$message_0726_0028_0000$$$::Saber está me esperando do lado de fora da igreja.[lr]::
+78282::$$$message_0726_0028_0001$$$::...Pensando bem, minha visita de dia foi exatamente igual.[lr]::
+78283::$$$message_0726_0028_0002$$$::Saber esperou pacientemente por mim na noite gélida de inverno.::
+78284::$$$message_0726_0029_0000$$$::Talvez seja assim que uma relação Mestre-Servo deva funcionar, mas ela ainda está aqui por minha causa.[lr]::
+78285::$$$message_0726_0029_0001$$$::Espero poder retribuir sua boa vontade.::
+78286::$$$message_0726_0030_0000$$$::"Ela vai ficar bem. Tudo graças a você, Saber."[lr]::
+78287::$$$message_0726_0030_0001$$$::"Não preciso de agradecimentos. Você é quem salvou aquela mulher, Shirou. Eu apenas aceitei sua decisão."[lr]::
+78288::$$$message_0726_0030_0002$$$::"Ngh..."[lr]::
+78289::$$$message_0726_0030_0003$$$::Ela me mostra uma expressão surpreendentemente gentil.::
+78290::$$$message_0726_0031_0000$$$::"Ah, hum... isso não é verdade. Você a salvou. Eu nunca teria chegado a tempo, além disso..."::
+78291::$$$message_0726_0032_0000$$$::Ela deixou Matou Zouken escapar só para ajudar uma vítima.[lr]::
+78292::$$$message_0726_0032_0001$$$::Se tivéssemos impedido o velho de ir embora, haveria outra luta. A mulher estava em estado crítico e não resistiria.[lr]::
+78293::$$$message_0726_0032_0002$$$::Saber deve ter pensado nisso quando deixou Zouken ir.::
+78294::$$$message_0726_0033_0000$$$::"O-o que foi, Shirou? Você está sorrindo sem motivo."[lr]::
+78295::$$$message_0726_0033_0001$$$::"Hã? Ah, tem um bom motivo. Fico feliz que você correspondeu à minha primeira impressão. Obrigado, Saber. Estou feliz que tenha seguido minhas ordens idiotas."::
+78296::$$$message_0726_0034_0000$$$::"N-não fale disso! Eu jamais desafiaria sua[line2]"::
+78297::$$$message_0726_0035_0000$$$::"Ah, é mesmo? Lembro de você me chamar de ingênuo e mole, dizendo que eu não sei como é a guerra.[lr]::
+78298::$$$message_0726_0035_0001$$$::Saber, seu rosto dizia que tentaria cooperar o máximo possível, mas mudaria o plano se a situação exigisse."::
+78299::$$$message_0726_0036_0000$$$::"N-não dizia! Eu apenas disse que priorizaria minhas próprias decisões se você estivesse em perigo! Não use esse tom comigo, Shirou!"[lr]::
+78300::$$$message_0726_0036_0001$$$::Saber resmunga, indignada.::
+78301::$$$message_0726_0037_0000$$$::[font italic=true]...[font italic=false][lr]::
+78302::$$$message_0726_0037_0001$$$::Seu biquinho parece tão parecido e tão diferente da forma como vinha agindo que não consigo evitar sorrir.::
+78303::$$$message_0726_0038_0000$$$::"Shirou. Parece que você precisa de uma lição de boas maneiras."[lr]::
+78304::$$$message_0726_0038_0001$$$::"Então é melhor me ensinar quando tiver chance. Mas, mais importante que isso, precisamos acabar com esta guerra."::
+78305::$$$message_0726_0039_0000$$$::"Shirou?"[lr]::
+78306::$$$message_0726_0039_0001$$$::"Ao contrário de você, eu não preciso do Santo Graal.[lr]::
+78307::$$$message_0726_0039_0002$$$::Eu pensava em encerrar a guerra e entregar o Graal a você se sobrevivêssemos. Não tinha confiança de que minha convicção pela metade bastava para ser seu parceiro, Saber."::
+78308::$$$message_0726_0040_0000$$$::"Entendo. E agora? Você entrou em batalha por vontade própria. Mudou de ideia?"::
+78309::$$$message_0726_0041_0000$$$::"Nem um pouco. Ainda não aceito esta Guerra do Santo Graal.[lr]::
+78310::$$$message_0726_0041_0001$$$::...Mas vou lutar até o fim.[lr]::
+78311::$$$message_0726_0041_0002$$$::Não tenho um desejo para o Santo Graal, ao contrário dos outros.[lr]::
+78312::$$$message_0726_0041_0003$$$::Mas meu objetivo sempre foi proteger as pessoas. Fazer o que é certo.[lr]::
+78313::$$$message_0726_0041_0004$$$::Isso não significa que eu pense menos dos outros. Todos têm suas próprias razões para lutar. Alguns perseguem o Graal há quinhentos anos, ou até mil."::
+78314::$$$message_0726_0042_0000$$$::"Entendo. Sim, isso faz sentido."::
+78315::$$$message_0726_0043_0000$$$::"Então permita-me jurar a você.[lr]::
+78316::$$$message_0726_0043_0001$$$::Enquanto for digno do meu serviço, juro ser sua espada. Permaneça fiel a si mesmo, Shirou... e eu jamais o trairei."[lr]::
+78317::$$$message_0726_0043_0002$$$::"Ah... Sim. Vou dar o meu melhor, Saber."::
+78318::$$$message_0726_0044_0000$$$::O sorriso honesto dela me deixa um pouco sem jeito, então olho para o céu.[lr]::
+78319::$$$message_0726_0044_0001$$$::O céu estrelado de inverno me lembra um lago congelado. É lindo.::
+78320::$$$message_0726_0045_0000$$$::                                         [font italic=true]Eu jamais o trairei.[font italic=false]::
+78321::$$$message_0726_0046_0000$$$::Contemplo o céu noturno, tão distante da superfície e dos eventos desta noite.[lr]::
+78322::$$$message_0726_0046_0001$$$::Sob esse mesmo céu, ela me fez uma promessa como se fosse a coisa mais natural do mundo.[lr]::
+78323::$$$message_0726_0046_0002$$$::Preciso fazer tudo que puder para corresponder a essa confiança.[lr]::
+78324::$$$message_0726_0046_0003$$$::Para continuar fiel à pessoa que ela acredita que eu sou.[lr]::
+78325::$$$message_0726_0046_0004$$$::No mínimo, espero poder olhar para trás neste caminho um dia sem arrependimento.::

@@ -1,39 +1,39 @@
 DAT
 id=qid::label=str::text=lstr::
-77554::$$$message_0720_0000_0000$$$::As luzes desaparecem.[lr]::
-77555::$$$message_0720_0000_0001$$$::São onze da noite. Esperamos até a cidade adormecer antes de sair.::
-77556::$$$message_0720_0001_0000$$$::"Bem, Shirou. Estamos indo ao centro da cidade?"[lr]::
-77557::$$$message_0720_0001_0001$$$::"......"::
-77558::$$$message_0720_0002_0000$$$::......o estado da Sakura não mudou depois do jantar.[lr]::
-77559::$$$message_0720_0002_0001$$$::Se algo mudou, foi para pior.[lr]::
-77560::$$$message_0720_0002_0002$$$::Ela perdeu todas as suas energias e estava desligada, como se tivesse com febre.[lr]::
-77561::$$$message_0720_0002_0003$$$::E ainda por cima, não me deixou levar ela pra casa, então a Fuji-nee teve que fazer isso.::
-77562::$$$message_0720_0003_0000$$$::"Ou planeja ir para a outra cidade? Parece provável que os demais Mestres estejam lá."::
-77563::$$$message_0720_0004_0000$$$::"......"[lr]::
-77564::$$$message_0720_0004_0001$$$::Pensando bem, a Sakura estava estranha anteontem também.[lr]::
-77565::$$$message_0720_0004_0002$$$::Ela parecia deprimida e com medo de algo.::
-77566::$$$message_0720_0005_0000$$$::"Shirou? Está me ouvindo, Shirou?"[lr]::
-77567::$$$message_0720_0005_0001$$$::"......"[lr]::
-77568::$$$message_0720_0005_0002$$$::"Shirou! Estou perguntando o que devemos fazer hoje a noite!"[lr]::
-77569::$$$message_0720_0005_0003$$$::"Huh!?"[lr]::
-77570::$$$message_0720_0005_0004$$$::Levanto minha cabeça surpreso.[lr]::
-77571::$$$message_0720_0005_0005$$$::A Saber está bem na minha frente, nervosa.::
-77572::$$$message_0720_0006_0000$$$::"[w l=4][line4]Desculpa, estava desligado. Você está me perguntando o que devemos fazer, sim?"[lr]::
-77573::$$$message_0720_0006_0001$$$::"Nesse caso, não preciso me repetir.[lr]::
-77574::$$$message_0720_0006_0002$$$::[w l=3][line3]Há uma leve distorção nas linhas ley em ambas cidades. Estou certo de que os demais Mestres estão fazendo algo. Talvez conseguiremos derrotar um esta noite, dependendo de onde irmos."::
-77575::$$$message_0720_0007_0000$$$::"Então está dizendo que podemos lutar com um Mestre do nada?[lr]::
-77576::$$$message_0720_0007_0001$$$::...mas e se for aquela garota?[lr]::
-77577::$$$message_0720_0007_0002$$$::Você não pode vencer o Berserker, pode?"::
-77578::$$$message_0720_0008_0000$$$::"[w l=4][line4]Mestre. Estou em perfeitas condições agora. Embora eu não receba nenhuma energia mágica adicional, não perderei fácil.[lr]::
-77579::$$$message_0720_0008_0001$$$::...bem, tudo que podemos fazer contra a Illyasviel é recuar. Não sabemos o Fantasma Nobre deles, então não podemos usar o nosso ainda."::
-77580::$$$message_0720_0009_0000$$$::"[w l=8][line8]"[lr]::
-77581::$$$message_0720_0009_0001$$$::O único cuja Saber tem cuidado é do Berserker.[lr]::
-77582::$$$message_0720_0009_0002$$$::Ela não fala de outras possibilidades[w l=3][line3]como um possível encontro com a Tohsaka.[lr]::
-77583::$$$message_0720_0009_0003$$$::Para a Saber, a Tohsaka é meramente um inimigo que ela deve derrotar.[lr]::
-77584::$$$message_0720_0009_0004$$$::Mas para mim, Mestres são pessoas que precisamos impedir, não matar.::
-77585::$$$message_0720_0010_0000$$$::"Saber, me deixe confirmar. Pararemos de lutar quando os Mestres e Servos se renderem. Meu plano é fazer com que eles usem seus Selos de Comando para que eles deixem de ser Mestres. ...tudo bem?"::
-77586::$$$message_0720_0011_0000$$$::"...Entendido. Mas Shirou, se o inimigo não aceitar nossa proposta, então..."[lr]::
-77587::$$$message_0720_0011_0001$$$::"...sim, então seguiremos as regras da Guerra do Santo Graal. Devemos estar preparados se eles lutarem como Mestres."::
-77588::$$$message_0720_0012_0000$$$::Começamos a descer a colina.[lr]::
-77589::$$$message_0720_0012_0001$$$::[w l=3][line3]Podemos patrulhar essa cidade ou Shinto.[lr]::
-77590::$$$message_0720_0012_0002$$$::Tonight...[lr]�m�
+77554::$$$message_0720_0000_0000$$$::A luz parece diminuir assim que saio.[lr]::
+77555::$$$message_0720_0000_0001$$$::São onze da noite. Saber e eu partimos quando a cidade começa a adormecer. ::
+77556::$$$message_0720_0001_0000$$$::"Então, Shirou, vamos ao centro da cidade?"[lr]::
+77557::$$$message_0720_0001_0001$$$::"..."::
+77558::$$$message_0720_0002_0000$$$::...O estado da Sakura não melhorou depois que arrumamos tudo após o jantar.[lr]::
+77559::$$$message_0720_0002_0001$$$::Na verdade, ela parecia pior.[lr]::
+77560::$$$message_0720_0002_0002$$$::Estava sem muita energia e meio desligada, como se estivesse com febre.[lr]::
+77561::$$$message_0720_0002_0003$$$::Mesmo assim, ela não quis que eu a acompanhasse até casa e pediu para a Fuji-nee levá-la no meu lugar.::
+77562::$$$message_0720_0003_0000$$$::"Ou devemos tentar o outro lado da cidade? Acho provável que os outros Mestres estejam espreitando por lá."::
+77563::$$$message_0720_0004_0000$$$::"..."[lr]::
+77564::$$$message_0720_0004_0001$$$::Pensando bem, Sakura anda estranha há dois dias.[lr]::
+77565::$$$message_0720_0004_0002$$$::Parece que não está se sentindo bem. Ou talvez esteja com medo de alguma coisa.::
+77566::$$$message_0720_0005_0000$$$::"Shirou? Está ouvindo?"[lr]::
+77567::$$$message_0720_0005_0001$$$::"..."[lr]::
+77568::$$$message_0720_0005_0002$$$::"Shirou! Estou perguntando o que faremos esta noite!"[lr]::
+77569::$$$message_0720_0005_0003$$$::"Hã!?"[lr]::
+77570::$$$message_0720_0005_0004$$$::Ergo a cabeça, surpreso.[lr]::
+77571::$$$message_0720_0005_0005$$$::Saber faz bico bem na minha frente.::
+77572::$$$message_0720_0006_0000$$$::"...Desculpa. Eu estava longe. Você quer saber o que vamos fazer agora?"[lr]::
+77573::$$$message_0720_0006_0001$$$::"Sim, por favor não me faça repetir mais uma vez.[lr]::
+77574::$$$message_0720_0006_0002$$$::Podemos ir para qualquer lado da cidade, mas há uma leve perturbação no fluxo das linhas ley. Não há dúvida de que os outros Mestres estão ativos. Dependendo das nossas escolhas esta noite, talvez consigamos derrotar um deles."::
+77575::$$$message_0720_0007_0000$$$::"Então podemos acabar lutando contra um Mestre de repente, hein?[lr]::
+77576::$$$message_0720_0007_0001$$$::...Mas o que fazemos se encontrarmos aquela garota de novo?[lr]::
+77577::$$$message_0720_0007_0002$$$::Achei que não dava para vencer Berserker."::
+77578::$$$message_0720_0008_0000$$$::"...Mestre. Estou pronta para o combate. Embora me falte um suprimento de Energia Mágica, não cairei enquanto ainda tiver todos os membros presos ao corpo.[lr]::
+77579::$$$message_0720_0008_0001$$$::...Ainda assim, precisaríamos recuar se lutássemos contra Illyasviel. Não podemos revelar nosso Fantasma Nobre antes de saber qual é o de Berserker."::
+77580::$$$message_0720_0009_0000$$$::[font italic=true]...[font italic=false][lr]::
+77581::$$$message_0720_0009_0001$$$::Saber só demonstra cautela com Berserker.[lr]::
+77582::$$$message_0720_0009_0002$$$::Ela não menciona nenhum outro possível encontro, como Tohsaka.[lr]::
+77583::$$$message_0720_0009_0003$$$::Para Saber, Tohsaka é apenas uma inimiga que precisa ser derrotada.[lr]::
+77584::$$$message_0720_0009_0004$$$::Para mim, porém, os outros precisam ser detidos, não derrotados.::
+77585::$$$message_0720_0010_0000$$$::"Só para termos certeza de que estamos pensando igual... Saber, se um Mestre e seu Servo se renderem, pare. Quero forçar os outros Mestres a gastar seus Selos de Comando. Tudo bem para você?"::
+77586::$$$message_0720_0011_0000$$$::"...Entendo. Mas e se eles não aceitarem nossas condições?"[lr]::
+77587::$$$message_0720_0011_0001$$$::"...Então seguiremos as regras da guerra. Foi isso que eles aceitaram quando se tornaram Mestres."::
+77588::$$$message_0720_0012_0000$$$::Começamos a descer por uma rua próxima.[lr]::
+77589::$$$message_0720_0012_0001$$$::   Devemos patrulhar Miyama aqui por perto, ou Shinto do outro lado da ponte?[lr]::
+77590::$$$message_0720_0012_0002$$$::Esta noite...::

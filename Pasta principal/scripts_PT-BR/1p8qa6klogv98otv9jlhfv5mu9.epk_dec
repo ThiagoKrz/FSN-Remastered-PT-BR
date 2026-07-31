@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 35115::$$$message_0288_0002_0002$$$::E...[lr]::
 35116::$$$message_0288_0002_0003$$$::Pra ser mais preciso, tem três marcas de queimado do tamanho de um punho na parede.::
 35117::$$$message_0288_0003_0000$$$::"[line8]"[lr]::
-35118::$$$message_0288_0003_0001$$$::É uma arma de prójetil[line4]Não, essa coisa é uma "maldição" que vai infectar o alvo com uma doença.::
+35118::$$$message_0288_0003_0001$$$::É uma arma de projétil[line4]Não, essa coisa é uma "maldição" que vai infectar o alvo com uma doença.::
 35119::$$$message_0288_0004_0000$$$::Esse tiro de Gandr que a Tohsaka estava falando deve fazer parte de uma magia de runa, que veio do norte da Europa. Se me lembro bem, é uma maldição indireta, capaz de piorar a condição de alguém somente ao apontar para o alvo.[lr]::
 35120::$$$message_0288_0004_0001$$$::Seu efeito é deixar uma pessoa doente, mas não deveria ser capaz de causar um impacto explosivo como esse.::
 35121::$$$message_0288_0005_0000$$$::Mas o tiro de Gandr da Tohsaka é feito com uma energia mágica tão densa que poderia ser confundido com uma bala.[lr]::
@@ -31,14 +31,14 @@ id=qid::label=str::text=lstr::
 35133::$$$message_0288_0009_0002$$$::A Tohsaka está usando uma arma de projétil, então ela vai me atirar nas costas se eu correr ali.::
 35134::$$$message_0288_0010_0000$$$::"Não se mexe[line4]!"[lr]::
 35135::$$$message_0288_0010_0001$$$::Vejo a Tohsaka pulando das escadas.[lr]::
-35136::$$$message_0288_0010_0002$$$::Logo antes dela aterrisar...[lr]::
+35136::$$$message_0288_0010_0002$$$::Logo antes dela aterrissar...[lr]::
 35137::$$$message_0288_0010_0003$$$::Pulo na sala do meu lado, sala 2-F.::
 35138::$$$message_0288_0011_0000$$$::Ou tiros de Gandr preenchem o corredor.[lr]::
 35139::$$$message_0288_0011_0001$$$::Parece que ela atirou sem hesitar assim que chegou no corredor...!::
 35140::$$$message_0288_0012_0000$$$::"Droga, não consigo lutar contra isso...! Como que ela pode me dizer pra lutar!? Eu não sou páreo pra ela...!"[lr]::
 35141::$$$message_0288_0012_0001$$$::Olho apressadamente ao redor da sala.[lr]::
 35142::$$$message_0288_0012_0002$$$::Tem alguma proteção?[lr]::
-35143::$$$message_0288_0012_0003$$$::Não tem um escudo, uma armadura, ou algo pra usar como colete a prova de balas aqui...!?::
+35143::$$$message_0288_0012_0003$$$::Não tem um escudo, uma armadura, ou algo pra usar como colete à prova de balas aqui...!?::
 35144::$$$message_0288_0013_0000$$$::"Merda, ela tá aqui[line4]!"[lr]::
 35145::$$$message_0288_0013_0001$$$::Os passos dela param na frente da porta.[lr]::
 35146::$$$message_0288_0013_0002$$$::...Tenho certeza que ela me viu entrar aqui.[lr]::
@@ -53,7 +53,7 @@ id=qid::label=str::text=lstr::
 35155::$$$message_0288_0016_0001$$$::Teria me pegado se eu não tivesse me mexido.::
 35156::$$$message_0288_0017_0000$$$::"!? Sem chance! Por que você ainda tá de pé!?"[lr]::
 35157::$$$message_0288_0017_0001$$$::Tohsaka Rin pula pra dentro da sala.[lr]::
-35158::$$$message_0288_0017_0002$$$::Nós estamos separados por volta de 4 metros, na frente e no fundo da sala. Nós nós encaramos de novo[line4]Não, não tenho tempo pra isso...!::
+35158::$$$message_0288_0017_0002$$$::Nós estamos separados por volta de 4 metros, na frente e no fundo da sala. Nós nos encaramos de novo[line4]Não, não tenho tempo pra isso...!::
 35159::$$$message_0288_0018_0000$$$::Pulo para o corredor.[lr]::
 35160::$$$message_0288_0018_0001$$$::Correr em uma sala não é uma boa opção.[lr]::
 35161::$$$message_0288_0018_0002$$$::Nesse ponto, preciso correr até as escadas logo ali!::
@@ -61,7 +61,7 @@ id=qid::label=str::text=lstr::
 35163::$$$message_0288_0019_0001$$$::Cara, ela realmente é impiedosa![lr]::
 35164::$$$message_0288_0019_0002$$$::Acabou de raspar na minha cabeça! Ei, raspou no meu lado também!::
 35165::$$$message_0288_0020_0000$$$::"Ai, ai, ai...! Droga, você tá séria!? Não vou ficar bem se eu for acertado com essa coisa aí!"[lr]::
-35166::$$$message_0288_0020_0001$$$::"Exatamente. Não seja ingênuo ao ponto de pénsar que vai escapar ileso...![lr]::
+35166::$$$message_0288_0020_0001$$$::"Exatamente. Não seja ingênuo ao ponto de pensar que vai escapar ileso...![lr]::
 35167::$$$message_0288_0020_0002$$$::Pare agora se você não quer se machucar! Vou te finalizar rapidamente se você não se mexer[line3]!"::
 35168::$$$message_0288_0021_0000$$$::Os tiros voam pelo corredor.[lr]::
 35169::$$$message_0288_0021_0001$$$::Na verdade, por que os efeitos sonoros agora parecem com tiros de verdade!?::
@@ -85,7 +85,7 @@ id=qid::label=str::text=lstr::
 35187::$$$message_0288_0027_0002$$$::Ah.[lr]::
 35188::$$$message_0288_0027_0003$$$::Algumas veias apareceram na testa da Tohsaka agora.::
 35189::$$$message_0288_0028_0000$$$::É assustador como eu tô me acostumando com isso.[lr]::
-35190::$$$message_0288_0028_0001$$$::o instante que percebo que está vindo, eu pulo pro lado e ouço as balas acertando a parede atrás de mim.::
+35190::$$$message_0288_0028_0001$$$::No instante que percebo que está vindo, eu pulo pro lado e ouço as balas acertando a parede atrás de mim.::
 35191::$$$message_0288_0029_0000$$$::Começo a fugir na outra direção.[lr]::
 35192::$$$message_0288_0029_0001$$$::As boas notícias são que eu estou no segundo andar.[lr]::
 35193::$$$message_0288_0029_0002$$$::Se eu conseguir fugir e chegar no primeiro andar, eu tenho certeza que a Tohsaka não vai[line4]::
@@ -110,7 +110,7 @@ id=qid::label=str::text=lstr::
 35212::$$$message_0288_0034_0001$$$::Ouço a voz da Tohsaka do corredor.[lr]::
 35213::$$$message_0288_0034_0002$$$::Algo fino como uma membrana cerca a classe.::
 35214::$$$message_0288_0035_0000$$$::"[line6]O que é isso? Um Campo Limitado...?"[lr]::
-35215::$$$message_0288_0035_0001$$$::o instante em que notei que o Campo Limitado tem efeitos à prova de som, eu percebo o que a Tohsaka vai fazer.::
+35215::$$$message_0288_0035_0001$$$::No instante em que notei que o Campo Limitado tem efeitos à prova de som, eu percebo o que a Tohsaka vai fazer.::
 35216::$$$message_0288_0036_0000$$$::"!!!!!!!!!!!!"[lr]::
 35217::$$$message_0288_0036_0001$$$::Me pressiono contra a parede e, rapidamente, derrubo uma mesa, me agacho e fico escondido atrás dela.::
 35218::$$$message_0288_0037_0000$$$::[line4]Consigo sentir uma magia forte sendo ativada.::
@@ -118,7 +118,7 @@ id=qid::label=str::text=lstr::
 35220::$$$message_0288_0039_0000$$$::[line4]Isso não é como as balas de Gandr que ela atirou até agora.::
 35221::$$$message_0288_0040_0000$$$::Fecho meus olhos e coloco minha mão na mesa.::
 35222::$$$message_0288_0041_0000$$$::[line4]Ela está conjurando um encantamento.[lr]::
-35223::$$$message_0288_0041_0001$$$::Mesmo que ela tenha ajuda do Brasão Mágico, a Tohsaka está conjurando sua encantação.::
+35223::$$$message_0288_0041_0001$$$::Mesmo que ela tenha ajuda do Brasão Mágico, a Tohsaka está conjurando seu encantamento.::
 35224::$$$message_0288_0042_0000$$$::Vou conseguir? Não, eu tenho que conseguir.[lr]::
 35225::$$$message_0288_0042_0001$$$::Eu pulo o processo de manufatura, o processo de fazer outro nervo na minha coluna, e freneticamente despejo energia mágica na mesa...!::
 35226::$$$message_0288_0043_0000$$$::"Fixierung (Mirar), Eile Salve (Disparo Contínuo)[line4]!"::
@@ -135,9 +135,9 @@ id=qid::label=str::text=lstr::
 35237::$$$message_0288_0048_0000$$$::Talvez seja melhor descrever isso como um campo de guerra, não como uma pista de dança.[lr]::
 35238::$$$message_0288_0048_0001$$$::Mas mesmo assim, eu não vejo rachaduras nas janelas.[lr]::
 35239::$$$message_0288_0048_0002$$$::Deve ser o Campo Limitado que a Tohsaka preparou.[lr]::
-35240::$$$message_0288_0048_0003$$$::Essa sala é um espação fechado agora.[lr]::
-35241::$$$message_0288_0048_0004$$$::Parece que só se pode entrar nesse espação, mas não sair.::
-35242::$$$message_0288_0049_0000$$$::Os tiros aqui não são exceção, já que nem mesmos os sons estão escapando dessa sala.[lr]::
+35240::$$$message_0288_0048_0003$$$::Essa sala é um espaço fechado agora.[lr]::
+35241::$$$message_0288_0048_0004$$$::Parece que só se pode entrar nesse espaço, mas não sair.::
+35242::$$$message_0288_0049_0000$$$::Os tiros aqui não são exceção, já que nem mesmo os sons estão escapando dessa sala.[lr]::
 35243::$$$message_0288_0049_0001$$$::...Aargh.[lr]::
 35244::$$$message_0288_0049_0002$$$::A Tohsaka está brava, mas ela tem agido como um mago[line4]!::
 35245::$$$message_0288_0050_0000$$$::"[line4]!"[lr]::
@@ -165,17 +165,17 @@ id=qid::label=str::text=lstr::
 35267::$$$message_0288_0056_0002$$$::Não consigo ver a classe muito bem por causa da fumaça.[lr]::
 35268::$$$message_0288_0056_0003$$$::Eu ouço um som.[lr]::
 35269::$$$message_0288_0056_0004$$$::Minha mão bate em uma barra de ferro jogada no chão.::
-35270::$$$message_0288_0056_0005$$$::"É a perna de uma cadeira. Ela realmente destruíu esse lugar."[lr]::
+35270::$$$message_0288_0056_0005$$$::"É a perna de uma cadeira. Ela realmente destruiu esse lugar."[lr]::
 35271::$$$message_0288_0056_0006$$$::Bom, eu acho que isso pode ser usado como uma arma improvisada.[lr]::
 35272::$$$message_0288_0056_0007$$$::A perna da cadeira tem cerca de vinte centímetros. Vou usar como se fosse um bastão de ferro, colocando minha energia mágica restante.::
-35273::$$$message_0288_0056_0008$$$::"[line3]Funcionou. Uau, minha taxa de sucesso é perfeita nós momentos mais importantes."::
-35274::$$$message_0288_0057_0000$$$::Começo a testar o bastão de ferro fortalecido e crio coragem.[lr]::
+35273::$$$message_0288_0056_0008$$$::"[line3]Funcionou. Uau, minha taxa de sucesso é perfeita nos momentos mais importantes."::
+35274::$$$message_0288_0057_0000$$$::Começo a testar o bastão de ferro fortalecido enquanto crio coragem.[lr]::
 35275::$$$message_0288_0057_0001$$$::...Certo.[lr]::
 35276::$$$message_0288_0057_0002$$$::Não vai me fazer bem só ficar parado aqui. Vou morrer se ela me atacar de novo.[lr]::
 35277::$$$message_0288_0057_0003$$$::Talvez eu tenha usado muita energia mágica, já que não consigo nem levantar.::
 35278::$$$message_0288_0058_0000$$$::"[line4]Gah, kah."[lr]::
 35279::$$$message_0288_0058_0001$$$::E essa fumaça não me deixa respirar.::
-35280::$$$message_0288_0059_0000$$$::"Ela quer me defumaré Ela já planejou tudo."[lr]::
+35280::$$$message_0288_0059_0000$$$::"Ela quer me defumar, é? Ela já planejou tudo."[lr]::
 35281::$$$message_0288_0059_0001$$$::A Tohsaka tem experiência em lutar.[lr]::
 35282::$$$message_0288_0059_0002$$$::Ela vai me encurralar se eu ficar aqui.[lr]::
 35283::$$$message_0288_0059_0003$$$::...Sei que ela está me esperando no corredor, mas eu não consigo escapar pela janela por causa do Campo Limitado.::
@@ -187,7 +187,7 @@ id=qid::label=str::text=lstr::
 35289::$$$message_0288_0061_0001$$$::A Tohsaka está me esperando, os ombros dela arfando.::
 35290::$$$message_0288_0062_0000$$$::"......"[lr]::
 35291::$$$message_0288_0062_0001$$$::Encaro ela e consigo me recompor.[lr]::
-35292::$$$message_0288_0062_0002$$$::A dormência do meu pé é temporária, então eu acho que consigo mover eles se eu precisar.::
+35292::$$$message_0288_0062_0002$$$::A dormência do meu pé é temporária, então eu acho que consigo movê-los se eu precisar.::
 35293::$$$message_0288_0063_0000$$$::Mas não é como se mobilidade fosse ser o bastante.[lr]::
 35294::$$$message_0288_0063_0001$$$::A Tohsaka só está cansada de correr, mas ela ainda tem bastante energia mágica restante.[lr]::
 35295::$$$message_0288_0063_0002$$$::Diferente de mim, cuja energia mágica esgotou, a Tohsaka só não tem mais energia física.[lr]::
@@ -205,7 +205,7 @@ id=qid::label=str::text=lstr::
 35307::$$$message_0288_0067_0003$$$::Queria que ela não fizesse um sorriso assustador como esse.::
 35308::$$$message_0288_0068_0000$$$::"Hã? Por que se desculpar? Eu não vou te perdoar mesmo que você se desculpe."::
 35309::$$$message_0288_0069_0000$$$::"Não, eu estou me desculpando pelo que vai acontecer, Emiya-kun.[lr]::
-35310::$$$message_0288_0069_0001$$$::NâNão posso me segurar se você está resistindo, certo? Não consigo me desculpar com você se eu te matar acidentalmente."::
+35310::$$$message_0288_0069_0001$$$::Não posso me segurar se você está resistindo, certo? Não consigo me desculpar com você se eu te matar acidentalmente."::
 35311::$$$message_0288_0070_0000$$$::"[line4]......!"[lr]::
 35312::$$$message_0288_0070_0001$$$::Ela está séria...![lr]::
 35313::$$$message_0288_0070_0002$$$::Bom, ela já parecia realmente séria antes, mas eu acho que agora já deve ter sido o último gatilho. Sinto como se eu fosse um peixe em cima da tábua de cortar...!::
@@ -223,7 +223,7 @@ id=qid::label=str::text=lstr::
 35325::$$$message_0288_0075_0000$$$::"...Não. Não posso fazer isso."[lr]::
 35326::$$$message_0288_0075_0001$$$::"Hmm. Então me diga, qual o motivo?"::
 35327::$$$message_0288_0076_0000$$$::"Não posso te entregar meu Selo de Comando. Isso é como dizer para eu trair a Saber."[lr]::
-35328::$$$message_0288_0076_0001$$$::"...Entendi. Eu vou te dar três segundo. É a sua vida, então você decide."::
+35328::$$$message_0288_0076_0001$$$::"...Entendi. Eu vou te dar três segundos. É a sua vida, então você decide."::
 35329::$$$message_0288_0077_0000$$$::A Tohsaka levanta sua mão esquerda.[lr]::
 35330::$$$message_0288_0077_0001$$$::Aposto que ela vai soltar seu tiro de Gandr no instante que eu recusar.[lr]::
 35331::$$$message_0288_0077_0002$$$::Eu[line3][lr]::

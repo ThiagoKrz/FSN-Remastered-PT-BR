@@ -1,41 +1,40 @@
 DAT
 id=qid::label=str::text=lstr::
-42510::$$$message_0372_0000_0000$$$::"[line7]"[lr]::
-42511::$$$message_0372_0000_0001$$$::Eu abro os olhos.[lr]::
-42512::$$$message_0372_0000_0002$$$::Eu não abri os olhos apenas por abrir. A minha mente está acordada.::
-42513::$$$message_0372_0001_0000$$$::"O ferimento[line4]não vai me atrapalhar."[lr]::
-42514::$$$message_0372_0001_0001$$$::Eu verifico o ferimento no meu ombro esquerdo.[lr]::
-42515::$$$message_0372_0001_0002$$$::Ele continua doendo, mas a dor não está mais tão forte quanto estava ontem à noite.[lr]::
-42516::$$$message_0372_0001_0003$$$::De alguma forma, o calor dentro do meu corpo sumiu.[lr]::
-42517::$$$message_0372_0001_0004$$$::Eu não devo ter dificuldade para me mexer.::
-42518::$$$message_0372_0002_0000$$$::Eu como o café da manhã para matar a fome.[lr]::
-42519::$$$message_0372_0002_0001$$$::A comida vem em primeiro lugar. Eu não vou conseguir mexer o meu corpo sem ingerir os nutrientes necessários.::
-42520::$$$message_0372_0003_0000$$$::"[line4]Está bem."[lr]::
-42521::$$$message_0372_0003_0001$$$::Eu removo a atadura em volta do meu ombro.[lr]::
-42522::$$$message_0372_0003_0002$$$::O ferimento está com uma cor azul escura.[lr]::
-42523::$$$message_0372_0003_0003$$$::Ele ainda não curou, e eu posso ver a minha carne vermelha exposta.::
-42524::$$$message_0372_0004_0000$$$::"[line3]É claro que não curou. A Saber não está aqui."[lr]::
-42525::$$$message_0372_0004_0001$$$::Eu desinfecto o ferimento, passo gaze em cima dele, e então coloco ataduras em volta.[lr]::
-42526::$$$message_0372_0004_0002$$$::Eu sei que esse é um tratamento primitivo de primeiros-socorros de enrolar e comprimir o ferimento, mas tenho que fazer isso para não piorar.[lr]::
-42527::$$$message_0372_0004_0003$$$::"Pronto. Agora eu preciso de uma arma."::
-42528::$$$message_0372_0005_0000$$$::O dia está nublado hoje.[lr]::
-42529::$$$message_0372_0005_0001$$$::Deve estar bem frio lá fora, já que há pedaços de gelo em cima da grama.::
-42530::$$$message_0372_0006_0000$$$::"[line8]"[lr]::
-42531::$$$message_0372_0006_0001$$$::Mas isso não interessa para mim.[lr]::
-42532::$$$message_0372_0006_0002$$$::Eu não estou sentindo frio.[lr]::
-42533::$$$message_0372_0006_0003$$$::O meu corpo está queimando ao ponto de eu querer derramar água gelada em cima de mim.[lr]::
-42534::$$$message_0372_0006_0004$$$::Mas pelo menos estou me sentindo bem melhor do que ontem à noite.::
-42535::$$$message_0372_0007_0000$$$::Tudo o que eu consegui encontrar foram espadas de madeira.[lr]::
-42536::$$$message_0372_0007_0001$$$::Eu pego aquela que parece ser a melhor e a coloco dentro da minha bolsa de shinai.::
-42537::$$$message_0372_0008_0000$$$::Eu dou um tapa nas minhas bochechas.[lr]::
-42538::$$$message_0372_0008_0001$$$::Não sei se fiz isso para me dar coragem ou para afirmar a mim mesmo que não vou mais voltar aqui.[lr]::
-42539::$$$message_0372_0008_0002$$$::Eu sinceramente não sei porque fiz isso.::
-42540::$$$message_0372_0009_0000$$$::Eu coloco a minha bolsa de shinai sobre o meu ombro direito e vou para fora.[lr]::
-42541::$$$message_0372_0009_0001$$$::O lugar que eu estive vivendo por tanto tempo.[lr]::
-42542::$$$message_0372_0009_0002$$$::O galpão era como o meu próprio quarto, mas eu não olho mais para trás.::
-42543::$$$message_0372_0010_0000$$$::[line4]Bem, apesar de eu ter escolhido lutar, ainda há vários problemas.[lr]::
-42544::$$$message_0372_0010_0001$$$::Eu tenho que decidir o que vou fazer primeiro, ou então não vou conseguir chegar a lugar nenhum.[lr]::
-42545::$$$message_0372_0010_0002$$$::Há duas possibilidades. Eu[line3][lr]::
-42546::$$$message_0372_0010_0003$$$::Existem dois caminhos a seguir.[lr]::
-42547::$$$message_0372_0010_0004$$$::I...[lr]::
-�
+42510::$$$message_0372_0000_0000$$$::"..."[lr]::
+42511::$$$message_0372_0000_0001$$$::Abro os olhos.[lr]::
+42512::$$$message_0372_0000_0002$$$::Não são apenas meus olhos que despertam; minha mente adormecida também acorda.::
+42513::$$$message_0372_0001_0000$$$::"O ferimento... Não é um problema."[lr]::
+42514::$$$message_0372_0001_0001$$$::Verifico o ferimento no meu ombro esquerdo.[lr]::
+42515::$$$message_0372_0001_0002$$$::Ainda dói, mas não há aquela dor intensa de ontem à noite.[lr]::
+42516::$$$message_0372_0001_0003$$$::O calor no meu corpo também diminuiu.[lr]::
+42517::$$$message_0372_0001_0004$$$::Não deve haver problema em me mover por aí.::
+42518::$$$message_0372_0002_0000$$$::Tomo café da manhã e encho o estômago vazio.[lr]::
+42519::$$$message_0372_0002_0001$$$::Comida vem antes de tudo. Meu corpo não vai se mover como quero se não receber a nutrição necessária.::
+42520::$$$message_0372_0003_0000$$$::"...Certo."[lr]::
+42521::$$$message_0372_0003_0001$$$::Troco a bandagem do meu ombro esquerdo.[lr]::
+42522::$$$message_0372_0003_0002$$$::Minha pele exposta e o ferimento ficaram azul-escuros.[lr]::
+42523::$$$message_0372_0003_0003$$$::O ferimento ainda não cicatrizou, e consigo ver a pele vermelho-escura aparecendo.::
+42524::$$$message_0372_0004_0000$$$::"...É claro. Saber não está aqui agora."[lr]::
+42525::$$$message_0372_0004_0001$$$::Desinfeto por segurança, coloco gaze por cima e enrolo bandagens ao redor.[lr]::
+42526::$$$message_0372_0004_0002$$$::Enrolar bandagens e comprimir o ferimento é o tratamento de primeiros socorros mais primitivo, mas preciso fazer isso ou o ferimento vai abrir só de eu mover o braço esquerdo.[lr]::
+42527::$$$message_0372_0004_0003$$$::"Pronto. Agora só preciso de uma arma."::
+42528::$$$message_0372_0005_0000$$$::O céu está nublado.[lr]::
+42529::$$$message_0372_0005_0001$$$::Deve estar bem frio hoje, pois ainda há geada no quintal.::
+42530::$$$message_0372_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
+42531::$$$message_0372_0006_0001$$$::Mas isso não tem nada a ver comigo.[lr]::
+42532::$$$message_0372_0006_0002$$$::Não sinto frio nenhum.[lr]::
+42533::$$$message_0372_0006_0003$$$::Meu corpo está tão quente que quero derramar água gelada na cabeça.[lr]::
+42534::$$$message_0372_0006_0004$$$::Ainda assim, meu corpo está em condição muito melhor em comparação com ontem.::
+42535::$$$message_0372_0007_0000$$$::No fim, estes shinai são as únicas coisas que eu poderia usar como armas.[lr]::
+42536::$$$message_0372_0007_0001$$$::Escolho o que parece conduzir melhor Energia Mágica e o enrolo na minha bolsa.::
+42537::$$$message_0372_0008_0000$$$::Então dou um tapa nas minhas bochechas.[lr]::
+42538::$$$message_0372_0008_0001$$$::Não sei se foi para me animar de novo ou se eu estava me preparando para nunca mais voltar aqui.[lr]::
+42539::$$$message_0372_0008_0002$$$::Nem eu sei por que fiz isso.::
+42540::$$$message_0372_0009_0000$$$::Coloco a bolsa sobre o ombro direito e sigo para fora.[lr]::
+42541::$$$message_0372_0009_0001$$$::O lugar onde passei muitos anos.[lr]::
+42542::$$$message_0372_0009_0002$$$::Nem sequer olho para trás, para o galpão que poderia ser considerado meu próprio quarto.::
+42543::$$$message_0372_0010_0000$$$::    Bem...[lr]::
+42544::$$$message_0372_0010_0001$$$::Mesmo tendo decidido lutar, ainda há muitos problemas.[lr]::
+42545::$$$message_0372_0010_0002$$$::Preciso deixar claro o que devo priorizar e o que devo fazer, ou tudo terminará sem que eu consiga fazer nada.[lr]::
+42546::$$$message_0372_0010_0003$$$::Há dois caminhos a seguir.[lr]::
+42547::$$$message_0372_0010_0004$$$::Eu...[lr]::

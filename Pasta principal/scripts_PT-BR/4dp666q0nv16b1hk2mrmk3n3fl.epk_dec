@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 31243::$$$message_0251_0000_0000$$$::A Tohsaka me liga depois do jantar.[lr]::
 31244::$$$message_0251_0000_0001$$$::Acho que a escola não sofreu tantos danos quanto imaginávamos.[lr]::
-31245::$$$message_0251_0000_0002$$$::Deve ser porque a Rider, a Serva que preparou o Campo Limitado, foi derrotada rápido.::
+31245::$$$message_0251_0000_0002$$$::Deve ser porque a Rider, o Servo que preparou o Campo Limitado, foi derrotada rápido.::
 31246::$$$message_0251_0001_0000$$$::...Ouvi dizer que os alunos da mesma classe da Rider vão precisar ficar internados por um bom tempo, mas a maioria só tá com anemia.[lr]::
 31247::$$$message_0251_0001_0001$$$::A escola não vai fechar, e a gente vai ter aula normal amanhã.::
 31248::$$$message_0251_0002_0000$$$::"Shirou, o que a Rin disse?"[lr]::
@@ -38,7 +38,7 @@ id=qid::label=str::text=lstr::
 31278::$$$message_0251_0014_0001$$$::"Bom, aquele lugar deve ser bom o bastante pra me proteger enquanto eu durmo, não acha? Primeiro porque o inimigo não vai se arriscar se a gente dormir no mesmo quarto.[lr]::
 31279::$$$message_0251_0014_0002$$$::Se você estiver de prontidão no quarto ao lado, você vai conseguir atacar o inimigo no momento em que ele abaixar a guarda."[lr]::
 31280::$$$message_0251_0014_0003$$$::Ah, até que essa minha desculpa faz bastante sentido.::
-31281::$$$message_0251_0015_0000$$$::"Assim tá bom, não tá, Saber? Falando sério, a ideia de nós dois dormirmos num quarto tão pequeno não me agrada. Fisicamente não vamos caber. E eu acho que seria ruim para uma Serva causar insônia no próprio Mestre."::
+31281::$$$message_0251_0015_0000$$$::"Assim tá bom, não tá, Saber? Falando sério, a ideia de nós dois dormirmos num quarto tão pequeno não me agrada. Fisicamente não vamos caber. E eu acho que seria ruim para um Servo causar insônia no próprio Mestre."::
 31282::$$$message_0251_0016_0000$$$::"Hm... você está com a língua bem afiada hoje, Shirou.[lr]::
 31283::$$$message_0251_0016_0001$$$::Compreendido. Ainda soa como uma desculpa para mim, mas tudo bem. Concordarei com esse plano."::
 31284::$$$message_0251_0017_0000$$$::"...Ufa."[lr]::
@@ -73,4 +73,3 @@ id=qid::label=str::text=lstr::
 31313::$$$message_0251_0027_0002$$$::...Como eu posso dizer...[lr]::
 31314::$$$message_0251_0027_0003$$$::Eu queria poder fazer o que puder para apoiar uma garota tão perfeita.[lr]::
 31315::$$$message_0251_0027_0004$$$::Mas deve ter algum parafuso solto na minha cabeça pra eu pensar numa coisa dessas.::
-

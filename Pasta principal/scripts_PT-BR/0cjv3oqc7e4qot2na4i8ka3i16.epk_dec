@@ -19,7 +19,7 @@ id=qid::label=str::text=lstr::
 31547::$$$message_0253_0007_0001$$$::Enfim. Qual Servo foi eliminado?"::
 31548::$$$message_0253_0008_0000$$$::A expressão do Archer muda.[lr]::
 31549::$$$message_0253_0008_0001$$$::A atitude cáustica e relaxada de sempre dele some, e em seu lugar, surge um guerreiro racional.::
-31550::$$$message_0253_0009_0000$$$::"...A Serva Rider desapareceu. Nós não sabemos o que aconteceu, mas ela deve ter sido derrotada pela Caster."[lr]::
+31550::$$$message_0253_0009_0000$$$::"...O Servo Rider desapareceu. Nós não sabemos o que aconteceu, mas ela deve ter sido derrotada pela Caster."[lr]::
 31551::$$$message_0253_0009_0001$$$::"Pela Caster? E o que aconteceu com ela? Não me diga que ela saiu ilesa."::
 31552::$$$message_0253_0010_0000$$$::"Não sei. Mas a Rider foi derrotada com um só golpe, então eu diria que a Caster não sofreu nenhum arranhão."[lr]::
 31553::$$$message_0253_0010_0001$$$::Nós três concordávamos com isso.::
@@ -67,10 +67,10 @@ id=qid::label=str::text=lstr::
 31595::$$$message_0253_0028_0001$$$::"Isso aí. Parece que o Mestre da Caster não sabe que nós somos Mestres.[lr]::
 31596::$$$message_0253_0028_0002$$$::Se ele soubesse, não viria pra escola, certo?"::
 31597::$$$message_0253_0029_0000$$$::"Ah... É, faz sentido. Então o Mestre da Caster também não sabia que o Shinji era um Mestre?"::
-31598::$$$message_0253_0030_0000$$$::"...Não consigo achar uma explicação para isso, mas há uma grande chance. Só que uma burrice dessas não parece ser possível, considerando o quão bom o Servo dele é em feitiçaria..."::
+31598::$$$message_0253_0030_0000$$$::"...Não consigo achar uma explicação para isso, mas há uma grande chance. Só que uma burrice dessas não parece ser possível, considerando o quão bom o Servo dele é em Magia..."::
 31599::$$$message_0253_0031_0000$$$::...É verdade.[lr]::
 31600::$$$message_0253_0031_0001$$$::Até eu, que não tenho conhecimento nenhum como Mestre, cheguei tão longe graças à Saber.[lr]::
-31601::$$$message_0253_0031_0002$$$::Se a pessoa tem uma Serva como a Caster, tenho certeza de que não seria tão irresponsável a ponto de sair de casa.::
+31601::$$$message_0253_0031_0002$$$::Se a pessoa tem um Servo como a Caster, tenho certeza de que não seria tão irresponsável a ponto de sair de casa.::
 31602::$$$message_0253_0032_0000$$$::"Está errado. Toda a sua premissa está errada, Rin."[lr]::
 31603::$$$message_0253_0032_0001$$$::"Archer...?"::
 31604::$$$message_0253_0033_0000$$$::"Acho que o Mestre da Caster não possui livre-arbítrio.[lr]::
@@ -118,4 +118,3 @@ id=qid::label=str::text=lstr::
 31646::$$$message_0253_0050_0000$$$::...É.[lr]::
 31647::$$$message_0253_0050_0001$$$::Eu vou me recompor, ir comprar os ingredientes no distrito comercial, fazer um baita de um jantar e descansar um pouco.[lr]::
 31648::$$$message_0253_0050_0002$$$::Nós poderemos discutir sobre a Caster e o seu Mestre depois disso.::
-

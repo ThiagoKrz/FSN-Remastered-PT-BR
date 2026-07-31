@@ -28,8 +28,8 @@ id=qid::label=str::text=lstr::
 38131::$$$message_0329_0009_0000$$$::"Heh. Achei que você já estivesse morto, mas você é mais persistente do que eu pensava."[lr]::
 38132::$$$message_0329_0009_0001$$$::O Archer se posiciona na minha frente, como se fosse me proteger.::
 38133::$$$message_0329_0010_0000$$$::"Você... Por quê...?"[lr]::
-38134::$$$message_0329_0010_0001$$$::"Por quê? Isso não é óbvio?[lr]::
-38135::$$$message_0329_0010_0002$$$::A sua Mestre tem uma aliança com você. Isso significa que eu e você somos tecnicamente aliados.[lr]::
+38134::$$$message_0329_0010_0001$$$::"Nada demais, eu só estava de passagem. Não precisa se preocupar.[lr]::
+38135::$$$message_0329_0010_0002$$$::...Então, como está seu corpo? Se era o fio da Caster, aquele ataque deve ter cortado."::
 38136::$$$message_0329_0011_0000$$$::"Hã..."[lr]::
 38137::$$$message_0329_0011_0001$$$::Olho para a minha mão.[lr]::
 38138::$$$message_0329_0011_0002$$$::...Ela se move.[lr]::
@@ -91,7 +91,7 @@ id=qid::label=str::text=lstr::
 38194::$$$message_0329_0035_0000$$$::"Ah, é só um palpite. Mestres são magos.[lr]::
 38195::$$$message_0329_0035_0001$$$::Quando um mago invoca um conjurador que é superior a ele... imagino que o relacionamento deles não seja um relacionamento normal de Mestre e Servo.[lr]::
 38196::$$$message_0329_0035_0002$$$::O mago-Mestre sempre estaria em guarda contra a maga-Caster superior que ele invocou.[lr]::
-38197::$$$message_0329_0035_0003$$$::...Se eu fosse o seu Mestre, eu não estaria inclinado a deixar uma bruxa se mover livremente. De jeito nenhum eles permitiriam que você invocasse outro Servo que siga as suas ordens, em vez das deles."::
+38197::$$$message_0329_0035_0003$$$::...Se eu fosse o seu Mestre, não estaria inclinado a deixar uma bruxa se mover livremente. De jeito nenhum ele permitiria que você invocasse outro Servo que seguisse as suas ordens, em vez das dele."::
 38198::$$$message_0329_0036_0000$$$::"...Heh. Parece que você tem alguma inteligência.[lr]::
 38199::$$$message_0329_0036_0001$$$::Vou ignorar o seu insulto em troca da sua esperteza."::
 38200::$$$message_0329_0037_0000$$$::A Caster dá uma risadinha, embora observe o Archer com cuidado.[lr]::
@@ -380,7 +380,7 @@ id=qid::label=str::text=lstr::
 38483::$$$message_0329_0130_0001$$$::"Não é óbvio? Eu estou dizendo que vocês deveriam trabalhar comigo.[lr]::
 38484::$$$message_0329_0130_0002$$$::Posso oferecer a vocês dois algo melhor do que os parceiros atuais que vocês têm.[lr]::
 38485::$$$message_0329_0130_0003$$$::Você, garoto, eu posso te dar um Servo maior que a Saber.[lr]::
-38486::$$$message_0329_0130_0004$$$::E você, Archer, eu posso te dar um contrato com uma maga superior ao seu Mestre atual."::
+38486::$$$message_0329_0130_0004$$$::E você, Archer, posso lhe dar um contrato com uma maga superior à sua Mestra atual."::
 38487::$$$message_0329_0131_0000$$$::   Minha mente para.[lr]::
 38488::$$$message_0329_0131_0001$$$::Questiono sua sanidade e sua seriedade.::
 38489::$$$message_0329_0132_0000$$$::"Acho que é uma proposta tentadora. Eu tenho o que é preciso para encerrar esta guerra. Eu te disse que é fácil eu vencer.[lr]::
@@ -392,7 +392,7 @@ id=qid::label=str::text=lstr::
 38495::$$$message_0329_0134_0000$$$::"...Eu recuso. Não posso cooperar com uma bruxa como você."[lr]::
 38496::$$$message_0329_0134_0001$$$::É só isso mesmo.[lr]::
 38497::$$$message_0329_0134_0002$$$::Deveria ser óbvio a minha posição.[lr]::
-38498::$$$message_0329_0134_0003$$$::Eu não posso me aliar a essa Serva, nem posso trair aqueles com quem eu já tenho aliança.[lr]::
+38498::$$$message_0329_0134_0003$$$::Eu não posso me aliar a esse Servo, nem posso trair aqueles com quem eu já tenho aliança.[lr]::
 38499::$$$message_0329_0134_0004$$$::Eu vou lutar lado a lado da Saber e o Archer também nunca trairia a Tohsaka.::
 38500::$$$message_0329_0135_0000$$$::[font italic=true]...[font italic=false][lr]::
 38501::$$$message_0329_0135_0001$$$::...Pera.[lr]::
@@ -405,14 +405,14 @@ id=qid::label=str::text=lstr::
 38508::$$$message_0329_0137_0002$$$::Eu estava com um mau pressentimento, mas ele não é desse tipo.[lr]::
 38509::$$$message_0329_0137_0003$$$::Eu odeio ele, mas ele é firme nas suas crenças.::
 38510::$$$message_0329_0138_0000$$$::"Entendo. Então as negociações falharam, hmm?"[lr]::
-38511::$$$message_0329_0138_0001$$$::"É isso aí. Mas não tenho intenção de lutar contra você aqui. Estou aqui por vontade própria. Não foi ordem da minha Mestre, então não tenho motivos para te matar. Que tal a gente considerar isso um empate?"::
+38511::$$$message_0329_0138_0001$$$::"É isso aí. Mas não tenho intenção de lutar contra você aqui. Estou aqui por vontade própria. Não foi ordem da minha Mestra, então não tenho motivos para te matar. Que tal a gente considerar isso um empate?"::
 38512::$$$message_0329_0139_0000$$$::"Hã...?"[lr]::
 38513::$$$message_0329_0139_0001$$$::Duvido dos meus próprios ouvidos.[lr]::
 38514::$$$message_0329_0139_0002$$$::Ele acabou de dizer que vai deixar a Caster ir embora...?::
-38515::$$$message_0329_0140_0000$$$::"...Isso é surpreendente. Sua Mestre estava atrás de mim, não estava? Mesmo assim, você vai me deixar ir?"[lr]::
+38515::$$$message_0329_0140_0000$$$::"...Isso é surpreendente. Sua Mestra estava atrás de mim, não estava? Mesmo assim, você vai me deixar ir?"[lr]::
 38516::$$$message_0329_0140_0001$$$::"Sim. Eu não ligo pra quantas pessoas você matar aqui. Isso não é problema meu."::
 38517::$$$message_0329_0141_0000$$$::"...Ora, ora. Que homem terrível. Você acha que veneno tem suas utilidades?"[lr]::
-38518::$$$message_0329_0141_0001$$$::"Minha Mestre não está tão entusiasmada em matar os outros Mestres.[lr]::
+38518::$$$message_0329_0141_0001$$$::"Minha Mestra não está tão entusiasmada em matar os outros Mestres.[lr]::
 38519::$$$message_0329_0141_0002$$$::Então vai me ajudar muito se você puder fazer isso no lugar dela. A gente pode decidir a nossa luta depois disso."::
 38520::$$$message_0329_0142_0000$$$::"Argh... Pera aí, Caster...!"::
 38521::$$$message_0329_0143_0000$$$::A Caster parece ter aceitado a proposta do Archer, e então se vira.[lr]::
@@ -424,4 +424,3 @@ id=qid::label=str::text=lstr::
 38527::$$$message_0329_0145_0000$$$::"Ugh..."[lr]::
 38528::$$$message_0329_0145_0001$$$::Eu paro.[lr]::
 38529::$$$message_0329_0145_0002$$$::O manto negro da Caster ondula ao vento e desaparece como magia.[nolr]::
-

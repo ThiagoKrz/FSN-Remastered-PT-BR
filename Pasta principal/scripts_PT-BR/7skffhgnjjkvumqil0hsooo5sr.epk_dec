@@ -96,19 +96,19 @@ id=qid::label=str::text=lstr::
 52876::$$$message_0455_0037_0000$$$::"Por mim tudo bem, mas não tem nada demais."[lr]::
 52877::$$$message_0455_0037_0001$$$::"Só quero ver mesmo. Eu soube que esse lugar não tinha valor mágico algum quando entrei, então tudo que tem que fazer é me mostrá-lo."::
 52878::$$$message_0455_0038_0000$$$::Essa é a resposta dela.[lr]::
-52879::$$$message_0455_0038_0001$$$::Então acabo dando um tour da minha casa, mas...::
-52880::$$$message_0455_0039_0000$$$::"Hmm. Esse lugar é menor do que pensei. Um lado do corredor é de vidro. Será problemático quando você for atacado aqui."::
-52881::$$$message_0455_0039_0001$$$::for instance.::
-52882::$$$message_0455_0040_0000$$$::"Esse é o quarto do Shirou!? Não creio, uma pessoa não consegue morar aqui!"::
-52883::$$$message_0455_0040_0001$$$::for instance.::
-52884::$$$message_0455_0041_0000$$$::"Esse é o seu quintal? Magos japoneses devem sofrer. Não dá pra plantar nada num jardim tão pequeno."::
-52885::$$$message_0455_0041_0001$$$::for instance.::
+52879::$$$message_0455_0038_0001$$$::Então faço um tour da minha casa, enquanto a Illya...::
+52880::$$$message_0455_0039_0000$$$::"Hmm. Esse lugar é menor do que pensei. Um lado do corredor é de vidro. Será problemático quando você for atacado aqui."[lr]::
+52881::$$$message_0455_0039_0001$$$::Faz comentários como esse...::
+52882::$$$message_0455_0040_0000$$$::"Esse é o quarto do Shirou!? Não creio, uma pessoa não consegue morar aqui!"[lr]::
+52883::$$$message_0455_0040_0001$$$::E como esse...::
+52884::$$$message_0455_0041_0000$$$::"Esse é o seu quintal? Magos japoneses devem sofrer. Não dá pra plantar nada num jardim tão pequeno."[lr]::
+52885::$$$message_0455_0041_0001$$$::Mais esse...::
 52886::$$$message_0455_0042_0000$$$::"Eu sei o que é isso. É um dojo, né?[lr]::
-52887::$$$message_0455_0042_0001$$$::Meu avô disse que vocês são brutos que se batem descalçados."::
-52888::$$$message_0455_0042_0002$$$::for instance.::
-52889::$$$message_0455_0043_0000$$$::"Não! Não quero ver dentro do seu galpão! Você tem servos pra lidar com isso!"::
-52890::$$$message_0455_0043_0001$$$::for instance.::
-52891::$$$message_0455_0044_0000$$$::...ela reclama bastante.[lr]::
+52887::$$$message_0455_0042_0001$$$::Meu avô disse que vocês são brutos que se batem descalçados."[lr]::
+52888::$$$message_0455_0042_0002$$$::E mais esse...::
+52889::$$$message_0455_0043_0000$$$::"Não! Não quero ver dentro do seu galpão! Você tem servos pra lidar com isso!"[lr]::
+52890::$$$message_0455_0043_0001$$$::E esse também.::
+52891::$$$message_0455_0044_0000$$$::...Ela reclama bastante.[lr]::
 52892::$$$message_0455_0044_0001$$$::Mas parece estar se divertindo.::
 52893::$$$message_0455_0045_0000$$$::"O que tem ali!? Não fomos lá! Vamos, Shirou!"[lr]::
 52894::$$$message_0455_0045_0001$$$::Ela me pede.::
