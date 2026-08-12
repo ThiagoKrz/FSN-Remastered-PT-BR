@@ -11,7 +11,7 @@ id=qid::label=str::text=lstr::
 38003::$$$message_0328_0002_0001$$$::[font italic=true]...[font italic=false][lr]::
 38004::$$$message_0328_0002_0002$$$::Eu não acho que consigo ficar calmo encarando o Shinji aqui.[lr]::
 38005::$$$message_0328_0002_0003$$$::Eu ignoro ele e continuo andando.::
-38006::$$$message_0328_0003_0000$$$::"Entendi. Você tá tão cansado que não consegue nem cumprimentar seu amigo, huh?[lr]::
+38006::$$$message_0328_0003_0000$$$::"Entendi. Você tá tão cansado que não consegue nem cumprimentar seu amigo, né?[lr]::
 38007::$$$message_0328_0003_0001$$$::Você tá cansado porque você tá fazendo coisas enxeridas como destruir os encantamentos."[lr]::
 38008::$$$message_0328_0003_0002$$$::A voz dele soa maravilhada.[lr]::
 38009::$$$message_0328_0003_0003$$$::"...!"[lr]::
@@ -71,7 +71,7 @@ id=qid::label=str::text=lstr::
 38063::$$$message_0328_0026_0003$$$::Ela faz sentido, e é uma opção viável.[lr]::
 38064::$$$message_0328_0026_0004$$$::No entanto...::
 38065::$$$message_0328_0027_0000$$$::"...Shinji. A Sakura sabe que você é um Mestre?"::
-38066::$$$message_0328_0028_0000$$$::"Huh? Você realmente deve ser um amador, Emiya.[lr]::
+38066::$$$message_0328_0028_0000$$$::"Hã? Você realmente deve ser um amador, Emiya.[lr]::
 38067::$$$message_0328_0028_0001$$$::Olha, uma família de magos só ensina seus segredos ao filho mais velho. Os outros filhos são só órgãos extras.[lr]::
 38068::$$$message_0328_0028_0002$$$::É inútil ensinar Magia pra algo assim, e é uma perda de tempo.[lr]::
 38069::$$$message_0328_0028_0003$$$::...Aah. Uma mulher devagar como ela não seria capaz de usar Magia.[lr]::
@@ -92,7 +92,7 @@ id=qid::label=str::text=lstr::
 38084::$$$message_0328_0034_0003$$$::E...::
 38085::$$$message_0328_0035_0000$$$::"...Eu não pretendo matar ninguém. Mas eu tenho que ver essa coisa de Santo Graal por mim mesmo. Pra isso, eu tenho que sobreviver até o fim, certo?"[lr]::
 38086::$$$message_0328_0035_0001$$$::Eu me viro de costas pro Shinji.::
-38087::$$$message_0328_0036_0000$$$::"Entendi. Então você vai lutar não importa o quê, huh?[lr]::
+38087::$$$message_0328_0036_0000$$$::"Entendi. Então você vai lutar não importa o quê, né?[lr]::
 38088::$$$message_0328_0036_0001$$$::Não tem nada a ver comigo, mas você não tá planejando envolver a Sakura nisso, tá?"::
 38089::$$$message_0328_0037_0000$$$::"...Não tem chance de eu envolver ela. Você vai esconder isso dela também, certo?"::
 38090::$$$message_0328_0038_0000$$$::"Óbvio. Mas como o irmão mais velho dela, eu não posso deixar ela ficar na casa de um cara que vai lutar.[lr]::

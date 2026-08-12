@@ -1,51 +1,52 @@
 DAT
 id=qid::label=str::text=lstr::
-35775::$$$message_0296_0000_0000$$$::Tá ficando tarde.[lr]::
-35776::$$$message_0296_0000_0001$$$::Eu fui até o dojo com a Saber depois da janta pra receber minha punição[line3]A Saber chamou isso de treino, mas eu juro que ela só tava me batendo[line3]e quando nós acabamos, já era além das dez horas.[lr]::
-35777::$$$message_0296_0000_0002$$$::Parece que elas tão dormindo juntas de novo hoje, já que a Fuji-nee e a Sakura vão pra sala em estilo japonês.::
-35778::$$$message_0296_0001_0000$$$::"Shirou...? O que está errado? Você não vai voltar ao seu quarto?"[lr]::
-35779::$$$message_0296_0001_0001$$$::"Hm...? Sim, eu tô indo. Mas tem uma coisa que eu queria te pergunta antes disso."::
-35780::$$$message_0296_0002_0000$$$::"Por favor vá em frente. Eu vou responder tudo que eu puder."[lr]::
+35775::$$$message_0296_0000_0000$$$::Está ficando tarde.[lr]::
+35776::$$$message_0296_0000_0001$$$::Fui até o dojô com a Saber depois da janta pra receber minha punição. A Saber chamou aquilo de treino, mas eu podia jurar que ela estava me maltratando. Quando nós acabamos, já havia passado das dez horas.[lr]::
+35777::$$$message_0296_0000_0002$$$::Parece que as três garotas vão dormir juntas de novo, já que a Fuji-nee e a Sakura foram para o mesmo quarto.::
+35778::$$$message_0296_0001_0000$$$::"Shirou...? Tem algo errado? Você não vai voltar ao seu quarto?"[lr]::
+35779::$$$message_0296_0001_0001$$$::"Hm...? Sim, eu tô indo. Mas tem uma coisa que eu queria te perguntar antes disso."::
+35780::$$$message_0296_0002_0000$$$::"Tem algo te incomodando? Vá em frente, vou responder tudo que eu puder."[lr]::
 35781::$$$message_0296_0002_0001$$$::"[line8]"::
-35782::$$$message_0296_0003_0000$$$::Eu acho que eu vou direto ao ponto.[lr]::
+35782::$$$message_0296_0003_0000$$$::Acho que vou direto ao ponto.[lr]::
 35783::$$$message_0296_0003_0001$$$::O que o Archer disse...[lr]::
-35784::$$$message_0296_0003_0002$$$::Servos, os quais não possuem liberdade, procuram o santo graal para obter liberdade...[lr]::
-35785::$$$message_0296_0003_0003$$$::Tem que ser o caso pra Saber, mas ele disse que a Saber não desejaria por liberdade.::
-35786::$$$message_0296_0004_0000$$$::"...Saber. Você precisa do santo graal, certo?"[lr]::
-35787::$$$message_0296_0004_0001$$$::"[line3]Sim. Meu objetivo é obter o santo graal. Eu virei um espírito heroico por essa razão. Eu acredito já ter te contado isso antes."::
-35788::$$$message_0296_0005_0000$$$::"Eu sei. Mas por quê?[lr]::
-35789::$$$message_0296_0005_0001$$$::Um servo pode ficar nesse mundo sem um mestre se ele obter o santo graal, certo?[lr]::
-35790::$$$message_0296_0005_0002$$$::Então[line3]você vai obter o santo graal e fazer o que você quiser aqui, certo?"::
-35791::$$$message_0296_0006_0000$$$::"[line3]Não. Eu sairei desse mundo assim que eu obter o santo graal. Não é permitido a mim, alguém de uma época diferente, ficar nessa época. E acima de tudo, eu não possuo nada que eu gostaria de fazer."::
+35784::$$$message_0296_0003_0002$$$::Servos, os quais não possuem liberdade, procuram o Santo Graal para obter liberdade...[lr]::
+35785::$$$message_0296_0003_0003$$$::A Saber deveria ter o mesmo objetivo, mas ele disse que a Saber não desejaria por liberdade.::
+35786::$$$message_0296_0004_0000$$$::"...Saber. Você precisa do Santo Graal, certo?"[lr]::
+35787::$$$message_0296_0004_0001$$$::"[line3]Sim. Meu objetivo é obter o Santo Graal. Me tornei um Espírito Heroico por essa razão. Eu acredito já ter te contado isso antes."::
+35788::$$$message_0296_0005_0000$$$::"Contou sim. Mas qual o seu motivo?[lr]::
+35789::$$$message_0296_0005_0001$$$::Um Servo pode ficar nesse mundo sem um Mestre se ele obter o Santo Graal, certo?[lr]::
+35790::$$$message_0296_0005_0002$$$::Então, você vai obter o Santo Graal e permanecer aqui para fazer o que você quiser, certo?"::
+35791::$$$message_0296_0006_0000$$$::"[line3]Não. Eu sairei desse mundo assim que eu obter o Santo Graal. Não é permitido a mim, alguém de uma época diferente, ficar nessa época. E acima de tudo, não possuo nada que eu gostaria de fazer."::
 35792::$$$message_0296_0007_0000$$$::Os olhos dela mostram determinação.[lr]::
-35793::$$$message_0296_0007_0001$$$::Não mostram nem hesitação nem mentiras. Nesse caso, não tem nada que eu possa dizer pra ela.::
-35794::$$$message_0296_0008_0000$$$::"[line3]Entendi. Eu não posso te falar muito já que eu não sei qual é o seu desejo, mas..."::
-35795::$$$message_0296_0009_0000$$$::...Eu acho que não é da natureza da Saber fazer um desejo pro santo graal.[lr]::
-35796::$$$message_0296_0009_0001$$$::Eu não sei o que o santo graal é.[lr]::
-35797::$$$message_0296_0009_0002$$$::Mas eu vagamente acho que não é apropriado pra essa garota loira.::
-35798::$$$message_0296_0010_0000$$$::"[line2]Eu prometi pra você que a gente obteria o santo graal. ...Então eu vou acreditar nas suas palavras por agora."[lr]::
-35799::$$$message_0296_0010_0001$$$::"...? Há algo errado? Você não parece bem desde quando chegou em casa."::
-35800::$$$message_0296_0011_0000$$$::"Isso não é verdade[line3]Ah sim. Saber, sobre nosso curso de ação."[lr]::
+35793::$$$message_0296_0007_0001$$$::Não mostram nem hesitação nem mentiras. Nesse caso, não tem nada que eu possa dizer para ela.::
+35794::$$$message_0296_0008_0000$$$::"[line3]Entendi. Não posso te falar muito, já que eu não sei qual é o seu desejo, mas..."::
+35795::$$$message_0296_0009_0000$$$::...Acho que não é da natureza da Saber fazer um desejo para o Santo Graal.[lr]::
+35796::$$$message_0296_0009_0001$$$::Não sei o que o Santo Graal é.[lr]::
+35797::$$$message_0296_0009_0002$$$::Mas eu tenho um pressentimento que não seria algo apropriado para uma garota como ela.::
+35798::$$$message_0296_0010_0000$$$::"[line2]Eu prometi pra você que a gente obteria o Santo Graal. ...Então vou acreditar nas suas palavras por agora."[lr]::
+35799::$$$message_0296_0010_0001$$$::"...? Aconteceu alguma coisa, Shirou? Você não parece bem desde quando chegou em casa."::
+35800::$$$message_0296_0011_0000$$$::"Isso não é verdade[line3]Ah sim. Saber, sobre o que vamos fazer de agora em diante..."[lr]::
 35801::$$$message_0296_0011_0001$$$::A Saber parece séria agora.[lr]::
-35802::$$$message_0296_0011_0002$$$::Como esperado dela. A Saber é a Saber não importa o quão bem ela se dá com a Fuji-nee.[lr]::
-35803::$$$message_0296_0011_0003$$$::É irritante, mas a verdadeira natureza dela é revelada na luta dela, assim como o Archer disse.::
-35804::$$$message_0296_0012_0000$$$::"Eu fui pra escola hoje e descobri que tem um terceiro mestre lá. ...Uhm, eu tive uma briga com a Tohsaka. Muito aconteceu, e nós acabamos prometendo uma trégua até encontrarmos o mestre escondendo na nossa escola..."::
-35805::$$$message_0296_0013_0000$$$::Eu reporto o que aconteceu hoje apressadamente.[lr]::
-35806::$$$message_0296_0013_0001$$$::A Saber tava ouvindo seriamente no começo, mas enquanto a história discorre...[lr]::
-35807::$$$message_0296_0013_0002$$$::Ela começa a me olhar infeliz.::
-35808::$$$message_0296_0014_0000$$$::"...Hm. Você é contra cooperar com a Tohsaka?"[lr]::
+35802::$$$message_0296_0011_0002$$$::Como esperado dela. Não importa o quanto ela esteja se dando bem com a Fuji-nee, a Saber continuará agindo da mesma forma.[lr]::
+35803::$$$message_0296_0011_0003$$$::É irritante, mas a verdadeira natureza dela é revelada em batalha, assim como o Archer disse.::
+35804::$$$message_0296_0012_0000$$$::"Eu fui para a escola hoje e descobri que tem um terceiro Mestre lá. ...Uhm, eu tive uma briga com a Tohsaka. Algumas coisas aconteceram, e nós acabamos prometendo uma trégua até encontrarmos o Mestre que está escondido na escola..."::
+35805::$$$message_0296_0013_0000$$$::Reporto o que aconteceu hoje apressadamente.[lr]::
+35806::$$$message_0296_0013_0001$$$::A Saber estava ouvindo seriamente no começo, mas enquanto a história continuou...[lr]::
+35807::$$$message_0296_0013_0002$$$::Ela começa a me olhar com insatisfação.::
+35808::$$$message_0296_0014_0000$$$::"...Hm. Saber, você é contra a ideia de cooperar com a Tohsaka?"[lr]::
 35809::$$$message_0296_0014_0001$$$::"Não. Eu concordo que você deve aprender com a Rin, já que você não possui conhecimento.[lr]::
 35810::$$$message_0296_0014_0002$$$::Mas eu gostaria que você tivesse me contado isso mais cedo. E se você pudesse, ter me consultado antes também."[lr]::
 35811::$$$message_0296_0014_0003$$$::A Saber me olha severamente.[lr]::
-35812::$$$message_0296_0014_0004$$$::...Eu tô envergonhado de mim mesmo já que ela tá absolutamente certa.::
-35813::$$$message_0296_0015_0000$$$::"Então você vai cooperar com a Rin amanhã para procurar pela escola?"[lr]::
-35814::$$$message_0296_0015_0001$$$::"Sim. Eu vou te chamar se a gente encontrar algo estranho, então fica aqui até então."::
-35815::$$$message_0296_0016_0000$$$::"...Ufa.  É um plano muito brando, mas será perfeito para você se acostumar com batalhas.[lr]::
-35816::$$$message_0296_0016_0001$$$::Então nós vamos procurar o mestre que preparou um Campo Limitado na escola?"[lr]::
-35817::$$$message_0296_0016_0002$$$::Eu aceno sim com a cabeça.[lr]::
+35812::$$$message_0296_0014_0004$$$::...Estou envergonhado de mim mesmo, já que ela está absolutamente certa.::
+35813::$$$message_0296_0015_0000$$$::"Então você vai cooperar com a Rin amanhã para investigar a escola?"[lr]::
+35814::$$$message_0296_0015_0001$$$::"Esse é o plano. Eu vou te chamar se a gente encontrar algo estranho, então fica aqui até então."::
+35815::$$$message_0296_0016_0000$$$::"...Hmm. É um plano muito vago, mas será perfeito para você se acostumar com batalhas.[lr]::
+35816::$$$message_0296_0016_0001$$$::Por agora, o objetivo é procurar o Mestre que preparou um Campo Limitado na escola?"[lr]::
+35817::$$$message_0296_0016_0002$$$::Eu aceno com a cabeça.[lr]::
 35818::$$$message_0296_0016_0003$$$::Depois de pensar um pouco...::
 35819::$$$message_0296_0017_0000$$$::"[line3]Deixe-me confirmar.[lr]::
-35820::$$$message_0296_0017_0001$$$::Depois que nós derrotarmos o mestre na sua escola, sua cooperação com a Rin irá acabar, e ela será nosso inimigo novamente.[lr]::
-35821::$$$message_0296_0017_0002$$$::Correto?"[lr]::
+35820::$$$message_0296_0017_0001$$$::Depois que nós derrotarmos o Mestre na sua escola, sua cooperação com a Rin irá acabar, e ela será nosso inimigo novamente.[lr]::
+35821::$$$message_0296_0017_0002$$$::Estou errada em assumir isso?"[lr]::
 35822::$$$message_0296_0017_0003$$$::A Saber me pergunta para ter certeza.[lr]::
-35823::$$$message_0296_0017_0004$$$::Well...[lr]:k3E
+35823::$$$message_0296_0017_0004$$$::Bem...[lr]::
+
