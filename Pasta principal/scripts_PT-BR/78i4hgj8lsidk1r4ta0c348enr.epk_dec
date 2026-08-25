@@ -1,217 +1,216 @@
 DAT
 id=qid::label=str::text=lstr::
-61493::$$$message_0563_0000_0000$$$::...não me sinto doente, então acho que vou sair.[lr]::
-61494::$$$message_0563_0000_0001$$$::Tenho certeza que não compramos nada para o jantar, então vou ao distrito comercial.::
+61493::$$$message_0563_0000_0000$$$::...Estou me sentindo melhor, então talvez eu saia um pouco.[lr]::
+61494::$$$message_0563_0000_0001$$$::Ainda precisamos comprar mantimentos para o jantar, então vou dar um pulo no distrito comercial e voltar antes que alguém perceba.::
 61495::$$$message_0563_0001_0000$$$::"A Saber e a Sakura estão..."[lr]::
 61496::$$$message_0563_0001_0001$$$::Estão lavando louça juntas.[lr]::
-61497::$$$message_0563_0001_0002$$$::Não quero atrapalha-las, então deixarei uma nota e sairei de fininho[w l=4][line4]::
+61497::$$$message_0563_0001_0002$$$::Odiaria interromper o momento delas, então vou deixar uma nota e sair de fininho...::
 61498::$$$message_0563_0002_0000$$$::"[w l=4][line4]Ufa."[lr]::
-61499::$$$message_0563_0002_0001$$$::Consegui sair.[lr]::
-61500::$$$message_0563_0002_0002$$$::Deixei uma nota dizendo "Vou comprar coisas para o jantar. Volto em uma hora," então não há problema.[lr]::
-61501::$$$message_0563_0002_0003$$$::Aposto que elas não ficarão bravas se eu trouxer umas bobagens pra elas.::
-61502::$$$message_0563_0002_0004$$$::Se eu comprar um lanche às 3 horas para eles no caminho de volta, isso deve ser suficiente para acalmar seus ânimos, sim.::
-61503::$$$message_0563_0003_0000$$$::"Ufa..."[lr]::
-61504::$$$message_0563_0003_0001$$$::Eu deixo o mercado com sacola cheias de comida.[lr]::
+61499::$$$message_0563_0002_0001$$$::De algum modo, consegui sair sem que elas percebessem.[lr]::
+61500::$$$message_0563_0002_0002$$$::"Vou comprar comida para o jantar. Volto em uma hora."[r]::
+61501::$$$message_0563_0002_0003$$$::Foi isso que escrevi na nota, então devo ficar bem.[lr]::
+61502::$$$message_0563_0002_0004$$$::Se eu trouxer um lanche das três para elas na volta, deve bastar para acalmar os ânimos, sim.::
+61503::$$$message_0563_0003_0000$$$::"E... pronto."[lr]::
+61504::$$$message_0563_0003_0001$$$::Com uma sacola cheia de mantimentos, saio do supermercado Toyoetsu.[lr]::
 61505::$$$message_0563_0003_0002$$$::Não achei boas promoções, mas ainda comprei bastante coisa.[lr]::
-61506::$$$message_0563_0003_0003$$$::A Sakura vai ficar um tempo, então precisamo de mantimentos extras.::
+61506::$$$message_0563_0003_0003$$$::Agora que Sakura vai ficar aqui, teremos mais bocas para alimentar.::
 61507::$$$message_0563_0004_0000$$$::"Comemos udon no almoço, então talvez eu faça um pouco de carne pro jantar."[lr]::
-61508::$$$message_0563_0004_0001$$$::Eu paro de andar.[lr]::
+61508::$$$message_0563_0004_0001$$$::Volto para casa animado, mas algo me faz parar.[lr]::
 61509::$$$message_0563_0004_0002$$$::"...?"[lr]::
 61510::$$$message_0563_0004_0003$$$::Há alguém puxando minha camisa por trás.::
-61511::$$$message_0563_0005_0000$$$::"O que está acontecendo...?"[lr]::
+61511::$$$message_0563_0005_0000$$$::"Hã...?"[lr]::
 61512::$$$message_0563_0005_0001$$$::Ainda me perguntando, me viro.[lr]::
-61513::$$$message_0563_0005_0002$$$::Ali...[lr]::
+61513::$$$message_0563_0005_0002$$$::Dou de cara com[lr]::
 61514::$$$message_0563_0005_0003$$$::...há uma garotinha de cabelo prateado.::
 61515::$$$message_0563_0006_0000$$$::"O q-que[w l=4][line4]!?"[lr]::
-61516::$$$message_0563_0006_0001$$$::Rapidamente pulo pra trás.[lr]::
-61517::$$$message_0563_0006_0002$$$::Me preparo para agir, mas a garota só fica parada e sorri.::
+61516::$$$message_0563_0006_0001$$$::Solto um grito e salto para trás.[lr]::
+61517::$$$message_0563_0006_0002$$$::A garota apenas observa meu pânico.::
 61518::$$$message_0563_0007_0000$$$::"...?"[lr]::
 61519::$$$message_0563_0007_0001$$$::Não sinto intenção maligna ou hostilidade vindo dela.[lr]::
-61520::$$$message_0563_0007_0002$$$::"Que bom que você está vivo, Onii-chan."[lr]::
-61521::$$$message_0563_0007_0003$$$::Ela me olha com um grande sorriso.::
-61522::$$$message_0563_0007_0004$$$::She beams at me in genuine joy.::
-61523::$$$message_0563_0008_0000$$$::"Que[w l=4][line4]"[lr]::
+61520::$$$message_0563_0007_0002$$$::Em vez disso, ela diz,[lr]::
+61521::$$$message_0563_0007_0003$$$::"Que bom que você está vivo, Onii-chan."[lr]::
+61522::$$$message_0563_0007_0004$$$::Ela abre um sorriso para mim, genuinamente feliz.::
+61523::$$$message_0563_0008_0000$$$::"Quê..."[lr]::
 61524::$$$message_0563_0008_0001$$$::...tenho certeza. Ela é a Mestra do Berserker.[lr]::
-61525::$$$message_0563_0008_0002$$$::Ela controla o monstro que quase me matou.[lr]::
-61526::$$$message_0563_0008_0003$$$::A garota da família que iniciou essa guerra, a família que meu pai traiu.[lr]::
+61525::$$$message_0563_0008_0002$$$::Ela comanda aquele monstro que quase me partiu ao meio com um único golpe naquela noite.[lr]::
+61526::$$$message_0563_0008_0003$$$::Ela vem de uma antiga linhagem mágica que fundou a Guerra do Santo Graal, a mesma que meu velho Kiritsugu traiu.[lr]::
 61527::$$$message_0563_0008_0004$$$::Por que é que ela está aqui no distrito comercial durante o dia?::
-61528::$$$message_0563_0009_0000$$$::Ela não me parece uma estranha... deve de ser porque a história do padre foi tão vivída.[lr]::
-61529::$$$message_0563_0009_0001$$$::Por isso...[lr]::
+61528::$$$message_0563_0009_0000$$$::...Com as palavras do padre Kotomine ainda frescas na memória, ela já não é apenas uma estranha para mim.[lr]::
+61529::$$$message_0563_0009_0001$$$::Por isso, sem pensar, murmuro,[lr]::
 61530::$$$message_0563_0009_0002$$$::"[w l=4][line4]Illya...?"[lr]::
-61531::$$$message_0563_0009_0003$$$::"[w l=4][line4]Huh?"[lr]::
+61531::$$$message_0563_0009_0003$$$::"Hã?"[lr]::
 61532::$$$message_0563_0009_0004$$$::...eu digo o nome dela sem saber o que isto significa.::
-61533::$$$message_0563_0010_0000$$$::"Ah[w l=3][line3]desculpe, me enganei...![lr]::
-61534::$$$message_0563_0010_0001$$$::Illya[w l=3][line3]é, é Illyasviel...![lr]::
-61535::$$$message_0563_0010_0002$$$::M-Me desculpe por ter me enganado...!"::
-61536::$$$message_0563_0011_0000$$$::Rapidamente me desculpo.[lr]::
+61533::$$$message_0563_0010_0000$$$::"Ah[line2]não, quero dizer...![lr]::
+61534::$$$message_0563_0010_0001$$$::Illyas[line2]isso, você é Illyasviel![lr]::
+61535::$$$message_0563_0010_0002$$$::D-desculpa por errar seu nome!"::
+61536::$$$message_0563_0011_0000$$$::Faço uma reverência por reflexo.[lr]::
 61537::$$$message_0563_0011_0001$$$::Não importa se ela é a Mestra do Berserker ou a filha da família Einzbern.[lr]::
 61538::$$$message_0563_0011_0002$$$::É só que...[lr]::
-61539::$$$message_0563_0011_0003$$$::Não consigo ignorá-la quando ela parece tão triste.::
+61539::$$$message_0563_0011_0003$$$::...não consigo deixá-la sozinha quando ela parece prestes a chorar.::
 61540::$$$message_0563_0012_0000$$$::"......"[lr]::
-61541::$$$message_0563_0012_0001$$$::Ela está me encarando, provavelmente porque eu encurtei seu nome.[lr]::
-61542::$$$message_0563_0013_0000$$$::"......me diga seu nome."[lr]::
-61543::$$$message_0563_0013_0001$$$::"O que?"[lr]::
+61541::$$$message_0563_0012_0001$$$::"Ah, er, não falei por mal. Só pensei no seu nome, e..."::
+61542::$$$message_0563_0013_0000$$$::"...Qual é o seu nome?"[lr]::
+61543::$$$message_0563_0013_0001$$$::"Hã?"[lr]::
 61544::$$$message_0563_0013_0002$$$::"Me diga seu nome, Onii-chan. É injusto eu não saber o seu."[lr]::
-61545::$$$message_0563_0013_0003$$$::"[w l=8][line8]"[lr]::
+61545::$$$message_0563_0013_0003$$$::[font italic=true]...[font italic=false][lr]::
 61546::$$$message_0563_0013_0004$$$::Ah, ela tem razão.[lr]::
 61547::$$$message_0563_0013_0005$$$::Illyasviel me disse seu nome, mas eu não disse o meu de volta.::
 61548::$$$message_0563_0014_0000$$$::"Meu nome é Shirou. Emiya Shirou."[lr]::
 61549::$$$message_0563_0014_0001$$$::"Shi Roumiya? Que nome estranho, Onii-chan."[lr]::
 61550::$$$message_0563_0014_0002$$$::"Não. Emiya é meu sobrenome, e Shirou o nome. Se é difícil de dizer, pode me chamar de Shirou."[lr]::
 61551::$$$message_0563_0014_0003$$$::Eu corrijo sua pronúncia.::
-61552::$$$message_0563_0015_0000$$$::"[w l=8][line8]"[lr]::
-61553::$$$message_0563_0015_0001$$$::Aponto bem em seu nariz, e ela fica parada em choque.::
-61554::$$$message_0563_0016_0000$$$::"[w l=4][line4]"[lr]::
-61555::$$$message_0563_0016_0001$$$::Embora eu me arrependa, é tarde demais.[lr]::
-61556::$$$message_0563_0016_0002$$$::Parece que ela vai chorar...[lr]::
-61557::$$$message_0563_0016_0003$$$::"...Shirou, Shirou, huh? Sim, eu gostei do nome.[lr]::
-61558::$$$message_0563_0016_0004$$$::É simples, mas soa bela. Combina com você, Shirou.[lr]::
-61559::$$$message_0563_0016_0005$$$::Vou te perdoar pelo o que você acabou de fazer!"[lr]::
-61560::$$$message_0563_0016_0006$$$::...ela arraga meu braço.::
-61561::$$$message_0563_0017_0000$$$::"Que[w l=4][line4]!? E-E-Espera, Illyasviel! O que você está fazendo...!?"[lr]::
+61552::$$$message_0563_0015_0000$$$::[font italic=true]...[font italic=false][lr]::
+61553::$$$message_0563_0015_0001$$$::Chego até a apontar um dedo repreensivo para ela, o que a faz piscar de surpresa.::
+61554::$$$message_0563_0016_0000$$$::[font italic=true]...[font italic=false][lr]::
+61555::$$$message_0563_0016_0001$$$::Quando percebo o quanto estou sendo brusco, já é tarde demais.[lr]::
+61556::$$$message_0563_0016_0002$$$::Mais uma vez, ela parece prestes a chorar.[r]::
+61557::$$$message_0563_0016_0003$$$::"...Shirou. Shirou, hein? Tá, gostei.[lr]::
+61558::$$$message_0563_0016_0004$$$::É simples, mas soa bem. Shirou combina com você.[lr]::
+61559::$$$message_0563_0016_0005$$$::Vou perdoar sua grosseria de antes!"[lr]::
+61560::$$$message_0563_0016_0006$$$::De repente, ela agarra meu braço.::
+61561::$$$message_0563_0017_0000$$$::"Epa! E-e-espera, Illyasviel! O que você pensa que está fazendo!?"[lr]::
 61562::$$$message_0563_0017_0001$$$::"Não, pode me chamar de Illya, Shirou! Estou te chamando de Shirou, então nada mais justo!"::
-61563::$$$message_0563_0018_0000$$$::"Que[w l=3][line3]bem, é mais fácil de dizer, mas espera!!!"[lr]::
-61564::$$$message_0563_0018_0001$$$::Eu balanço meu braço, mas a Illya só grita feliz e se diverte.::
-61565::$$$message_0563_0019_0000$$$::"...!"[lr]::
+61563::$$$message_0563_0018_0000$$$::"Quê... Quer dizer, claro, é mais fácil de falar, mas espera!"[lr]::
+61564::$$$message_0563_0018_0001$$$::Tento tirar Illya do meu braço, mas ela apenas solta gritinhos de alegria.::
+61565::$$$message_0563_0019_0000$$$::"Guh...!"[lr]::
 61566::$$$message_0563_0019_0001$$$::Isso é mal. Os vizinhos podem começar a espalhar rumores se isso continuar.::
-61567::$$$message_0563_0020_0000$$$::"Droga, o que você quer...!? Quer lutar comigo agora...!?"[lr]::
-61568::$$$message_0563_0020_0001$$$::Eu arranco ela a força.[lr]::
-61569::$$$message_0563_0020_0002$$$::"[w l=8][line8]"[lr]::
+61567::$$$message_0563_0020_0000$$$::"Droga, o que você quer!? Está tentando me caçar em plena luz do dia!?"[lr]::
+61568::$$$message_0563_0020_0001$$$::Finalmente arranco meu braço das mãos dela.[lr]::
+61569::$$$message_0563_0020_0002$$$::[font italic=true]...[font italic=false][lr]::
 61570::$$$message_0563_0020_0003$$$::...Ah.[lr]::
 61571::$$$message_0563_0020_0004$$$::A Illya parece infeliz.::
-61572::$$$message_0563_0021_0000$$$::"Q-Que? Fazer essa cara não vai adiantar. Não sei quais são suas intenções, mas sou um Mestre. Você não pode me derrotar tão facilmente[w l=4][line4]"[lr]::
-61573::$$$message_0563_0021_0001$$$::Com as compras na mão, encaro ela.[lr]::
-61574::$$$message_0563_0021_0002$$$::...mas ela só encara de volta com um olhar perplexo.::
+61572::$$$message_0563_0021_0000$$$::"O-o quê? Não me olhe assim. Não sei o que você está fazendo aqui, mas eu também sou Mestre. [lr]::
+61573::$$$message_0563_0021_0001$$$::Illya lança um olhar para a sacola de compras na minha mão.[lr]::
+61574::$$$message_0563_0021_0002$$$::...Mas também continua me olhando com curiosidade.::
 61575::$$$message_0563_0022_0000$$$::"......hum, Illya?"[lr]::
 61576::$$$message_0563_0022_0001$$$::"Sim!? O que foi, Shirou!?"[lr]::
-61577::$$$message_0563_0022_0002$$$::"[w l=8][line8]Argh."::
-61578::$$$message_0563_0023_0000$$$::Ela parece diferente de antes.[lr]::
-61579::$$$message_0563_0023_0001$$$::...bem, ela estava rindo aquela hora, mas seu sorriso está diferente agora. Será que[w l=4][line4]?[lr]::
+61577::$$$message_0563_0022_0002$$$::"Urgh."::
+61578::$$$message_0563_0023_0000$$$::Ela é, um... diferente do que imaginei.[lr]::
+61579::$$$message_0563_0023_0001$$$::...Ela também riu naquela hora, mas a sensação por trás era diferente, como se talvez...[lr]::
 61580::$$$message_0563_0023_0002$$$::"...Illya. Você não veio lutar comigo...?"::
 61581::$$$message_0563_0023_0003$$$::Eu pergunto, timidamente.::
-61582::$$$message_0563_0024_0000$$$::"Que? Quer morrer?"[lr]::
-61583::$$$message_0563_0024_0001$$$::"[w l=4][line4]!"[lr]::
+61582::$$$message_0563_0024_0000$$$::"Por quê? Você quer que eu te mate?"[lr]::
+61583::$$$message_0563_0024_0001$$$::"Mrgh."[lr]::
 61584::$$$message_0563_0024_0002$$$::Seu olhar me dá calafrios.[lr]::
 61585::$$$message_0563_0024_0003$$$::Não importa o quão jovem ela seja, ela é a Mestra mais forte.[lr]::
-61586::$$$message_0563_0024_0004$$$::Ela ri inocentemente, mas ela também pode ser uma Mestra impiedosa.::
-61587::$$$message_0563_0025_0000$$$::"...Hmm. Não entendo, mas não me importo com sua pergunta, nem me importo em seguir adiante com meus planos. Você quer morrer com a Saber?"[lr]::
-61588::$$$message_0563_0025_0001$$$::"...não brinque com isso. Nem ferrando! Não quero morrer, nem lutar com você aqui."::
-61589::$$$message_0563_0026_0000$$$::"Né? Mestres não podem lutar durante o dia. Você não tem a Saber contigo, e eu não tenho o Berserker comigo."::
+61586::$$$message_0563_0024_0004$$$::Ela pode estar rindo inocentemente em um segundo e virar uma Mestra impiedosa no outro.::
+61587::$$$message_0563_0025_0000$$$::"...Hmm. Não entendo, mas tudo bem se é isso que você quer. Só adianta um pouco meus planos. Você quer morrer aqui junto com a Saber?"[lr]::
+61588::$$$message_0563_0025_0001$$$::"...Para de brincar, claro que não. Não quero morrer, e preferia não lutar aqui."::
+61589::$$$message_0563_0026_0000$$$::"Não é? Mestres não deviam lutar enquanto ainda está claro. Você não trouxe a Saber, e eu também não trouxe o Berserker."::
 61590::$$$message_0563_0027_0000$$$::"...tem razão. Então por que você veio aqui? Nos encontramos por acaso?"[lr]::
-61591::$$$message_0563_0027_0001$$$::"Não foi acaso. Fugi da Sella, e em especial, vim aqui te ver. É bom se sentir honrado."::
-61592::$$$message_0563_0027_0002$$$::A Illya está orgulhosa.::
-61593::$$$message_0563_0028_0000$$$::"[w l=4][line4]"[lr]::
-61594::$$$message_0563_0028_0001$$$::Me sinto tonto.[lr]::
-61595::$$$message_0563_0028_0002$$$::Toda vez que acho que ela se tornou a Mestra cruel, ela volta a ser uma garota inocente.[lr]::
-61596::$$$message_0563_0028_0003$$$::Não sei dizer qual é o verdadeira Illya.::
-61597::$$$message_0563_0029_0000$$$::"...certo. Então você veio me ver.[lr]::
-61598::$$$message_0563_0029_0001$$$::Mas não tem intenção de lutar comigo. Certo?"[lr]::
-61599::$$$message_0563_0029_0002$$$::"Sim. Vim conversar com você. Esperei todo esse tempo, então posso, né?"[lr]::
-61600::$$$message_0563_0029_0003$$$::"[w l=8][line8]"[lr]::
-61601::$$$message_0563_0029_0004$$$::Não sei o que ela quis dizer com "todo esse tempo", mas parece que ela só veio conversar comigo.::
-61602::$$$message_0563_0030_0000$$$::"Ou você não quer conversar comigo? ...eu vou embora se você não quiser. Realmente não quero ir, mas você vai me odiar se eu te forçar a fazer algo que você não quer."[lr]::
+61591::$$$message_0563_0027_0001$$$::"Não foi por acaso. Fugi da Sella e vim te encontrar. Você devia se sentir honrado."[lr]::
+61592::$$$message_0563_0027_0002$$$::Illya ri, orgulhosa.::
+61593::$$$message_0563_0028_0000$$$::[font italic=true]...[font italic=false][lr]::
+61594::$$$message_0563_0028_0001$$$::Acho que estou ficando tonto.[lr]::
+61595::$$$message_0563_0028_0002$$$::Logo quando acho que ela entrou no modo Mestre sério, ela volta a ser uma criança inocente.[lr]::
+61596::$$$message_0563_0028_0003$$$::Não tenho como saber qual desses lados é a verdadeira Illya.::
+61597::$$$message_0563_0029_0000$$$::"...Tá. Então você veio me ver.[lr]::
+61598::$$$message_0563_0029_0001$$$::Mas não veio para lutar... entendi certo?"[lr]::
+61599::$$$message_0563_0029_0002$$$::"Sim. Vim conversar com você, Shirou. Pelo menos isso você vai fazer, não vai? Eu esperei tanto tempo."[lr]::
+61600::$$$message_0563_0029_0003$$$::[font italic=true]...[font italic=false][lr]::
+61601::$$$message_0563_0029_0004$$$::Não sei o que ela quer dizer com "pelo menos", mas parece que ela realmente só veio conversar.::
+61602::$$$message_0563_0030_0000$$$::"Ou você não quer conversar? ...Se não quiser, eu vou para casa. Não quero ir, mas não gosto de forçar as pessoas a fazerem coisas."[lr]::
 61603::$$$message_0563_0030_0001$$$::A Illya me olha direto nos olhos.::
-61604::$$$message_0563_0031_0000$$$::"[w l=8][line8]!"[lr]::
-61605::$$$message_0563_0031_0001$$$::...como um Mestre, é perigoso passar tempo com a Illya. Se a Saber estivesse aqui, aposto que ela não hesitaram em reclamar.::
-61606::$$$message_0563_0032_0000$$$::"[w l=8][line8]"[lr]::
+61604::$$$message_0563_0031_0000$$$::"Ergh."[lr]::
+61605::$$$message_0563_0031_0001$$$::...Como Mestre, é perigoso continuar aqui com Illya. Se Saber estivesse aqui, tenho certeza de que seria veementemente contra esse curso de ação.::
+61606::$$$message_0563_0032_0000$$$::[font italic=true]...[font italic=false][lr]::
 61607::$$$message_0563_0032_0001$$$::...Mas não posso deixar ela sozinha com essa cara.[lr]::
-61608::$$$message_0563_0032_0002$$$::Sei que arriscado, mal pensado e precipitado, mas...::
-61609::$$$message_0563_0033_0000$$$::"Não me importo em falar com você. Sendo sincero, eu queria falar com você."::
-61610::$$$message_0563_0034_0000$$$::"Tudo bem! Então vamos ali! Encontrei um parquinho ali mais cedo[w l=4][line4]!"[lr]::
-61611::$$$message_0563_0034_0001$$$::A Illya começa a correr.::
+61608::$$$message_0563_0032_0002$$$::Sei que é imprudente, descuidado e precipitado, mas...::
+61609::$$$message_0563_0033_0000$$$::"Não sou contra conversar com você, Illya. Para ser honesto, eu também queria te encontrar."::
+61610::$$$message_0563_0034_0000$$$::"Viva! Então vem por aqui! Encontrei um parquinho mais cedo!"[lr]::
+61611::$$$message_0563_0034_0001$$$::Assim que concordo, Illya começa a correr, praticamente dançando de alegria.::
 61612::$$$message_0563_0035_0000$$$::"Vamos, vamos! Vou te deixar pra trás se você não correr!"::
-61613::$$$message_0563_0035_0001$$$::Ela rodopia enquanto corre.::
-61614::$$$message_0563_0036_0000$$$::"[w l=4][line4]Bem, fazer o que."[lr]::
-61615::$$$message_0563_0036_0001$$$::Eu aceito as coisas e sigo ela.[lr]::
+61613::$$$message_0563_0035_0001$$$::Illya dispara, dançando e girando em alegria inocente.::
+61614::$$$message_0563_0036_0000$$$::"Acho que, aconteça o que acontecer, aconteceu."[lr]::
+61615::$$$message_0563_0036_0001$$$::Eu me resigno ao meu destino e sigo Illya.[lr]::
 61616::$$$message_0563_0036_0002$$$::Ela me chamou de Shirou.[lr]::
-61617::$$$message_0563_0036_0003$$$::Então eu devia tratar ela como uma garotinha normal, não como Mestre.::
+61617::$$$message_0563_0036_0003$$$::Isso significa que devo lidar com ela da mesma forma, não como Mestre, mas como uma garota comum.::
 61618::$$$message_0563_0037_0000$$$::Não há ninguém no parque.[lr]::
 61619::$$$message_0563_0037_0001$$$::Ninguém está brincando na caixinha de areia ou nos balanços.[lr]::
-61620::$$$message_0563_0037_0002$$$::Parece desolador, mas sento no banco com a Illya.::
-61621::$$$message_0563_0038_0000$$$::...isso deve parecer estranho para os demais.[lr]::
-61622::$$$message_0563_0038_0001$$$::A Illya é uma estrangeira, então não parecemos parentes, e nossas idades divergem demais para sermos amigos.::
-61623::$$$message_0563_0039_0000$$$::"...então. Sobre o que você queria falar, Illya? Você veio me ver, então há algo que queira perguntar?"::
-61624::$$$message_0563_0040_0000$$$::"Por que? Não há nada que quero te perguntar."[lr]::
-61625::$$$message_0563_0040_0001$$$::"[w l=8][line8]"[lr]::
+61620::$$$message_0563_0037_0002$$$::O lugar parece solitário. Sento em um banco com Illya.::
+61621::$$$message_0563_0038_0000$$$::...Devemos parecer uma dupla esquisita.[lr]::
+61622::$$$message_0563_0038_0001$$$::Illya claramente não é minha irmã, já que veio de outro país, mas nossa diferença de idade é grande demais para parecermos amigos.::
+61623::$$$message_0563_0039_0000$$$::"Então, sobre o que você queria conversar, Illya? Você deve ter algo para me perguntar."::
+61624::$$$message_0563_0040_0000$$$::"Por quê? Eu não tenho nenhuma pergunta para você."[lr]::
+61625::$$$message_0563_0040_0001$$$::[font italic=true]...[font italic=false][lr]::
 61626::$$$message_0563_0040_0002$$$::Bem.[lr]::
-61627::$$$message_0563_0040_0003$$$::Como devo responder isto?::
-61628::$$$message_0563_0041_0000$$$::"...Illya. Era você quem queria falar.[lr]::
-61629::$$$message_0563_0041_0001$$$::Então por que está dizendo que não há nada a perguntar? Eu não teria vindo se você não tivesse nada a tratar, né?"[lr]::
-61630::$$$message_0563_0041_0002$$$::"A-Ah, sério? Não podemos conversar se não tivermos nada para tratar?"::
-61631::$$$message_0563_0042_0000$$$::"Uhh... não foi isso que eu quis dizer. Desculpa, me coloquei mal. Ainda podemos conversar. Na verdade, é melhor conversar casualmente.[lr]::
-61632::$$$message_0563_0042_0001$$$::...mas, cara. Mal te conheço, então não sei sobre o que devemos conversar. Não sei o que você gosta ou algo assim. Você não vai querer que eu pergunte algo que te incomode, né?"::
-61633::$$$message_0563_0043_0000$$$::"V-Você tem razão... mas o que eu deveria perguntar? Promete que não vai ficar bravo, não importa o que eu pergunte?"[lr]::
-61634::$$$message_0563_0043_0001$$$::"Tentarei. Sou seu Onii-chan, então tentarei agir como adulto."[lr]::
-61635::$$$message_0563_0043_0002$$$::"Entendo. Então Shirou, você gosta de mim?"::
-61636::$$$message_0563_0044_0000$$$::"QUE[w l=4][line4]!?"[lr]::
+61627::$$$message_0563_0040_0003$$$::Como eu devo responder isso, mocinha indecifrável?::
+61628::$$$message_0563_0041_0000$$$::"...Illya. Foi você quem disse que queria conversar.[lr]::
+61629::$$$message_0563_0041_0001$$$::Mas agora diz que não tem nada para conversar. Normalmente, ninguém chama outra pessoa para conversar sem ter algum assunto."[lr]::
+61630::$$$message_0563_0041_0002$$$::"Hã? S-sério? Não podemos conversar se não houver um assunto...?"::
+61631::$$$message_0563_0042_0000$$$::"Ahh... Não foi isso que eu quis dizer. Me expressei mal. Não precisamos falar de assunto sério. Na verdade, é mais divertido assim.[lr]::
+61632::$$$message_0563_0042_0001$$$::...Mas você me deixou sem saída. Não te conheço bem, então não sei do que devemos falar. Não sei do que você gosta ou não gosta. O mesmo vale para você, certo? Você ficaria desconfortável se eu perguntasse de repente sobre coisas das quais não quer falar, não ficaria?"::
+61633::$$$message_0563_0043_0000$$$::"Mm... É, talvez... mas então o que eu devo perguntar? Você não vai ficar bravo se eu perguntar qualquer coisa que eu quiser?"[lr]::
+61634::$$$message_0563_0043_0001$$$::"É, provavelmente não. Sou o Onii-chan aqui, então vou tentar agir como adulto."[lr]::
+61635::$$$message_0563_0043_0002$$$::"Tá. Então, Shirou... você gosta de mim?"::
+61636::$$$message_0563_0044_0000$$$::"Pfft!"[lr]::
 61637::$$$message_0563_0044_0001$$$::Q-Q-Q-Q-Que diabos ela está perguntando!?::
 61638::$$$message_0563_0045_0000$$$::"Ah, você é um mentiroso! Você disse que não ficaria bravo, mas está!"[lr]::
-61639::$$$message_0563_0045_0001$$$::"Ei, qualquer um ficaria chocado com essa pergunta! V-Você não deveria me perguntar isso quando você já me atacou!"::
-61640::$$$message_0563_0046_0000$$$::"Ei, aquilo foi diferente! Foi porque você se jogou na frente mesmo sendo fraco! Não foi minha culpa!"::
-61641::$$$message_0563_0047_0000$$$::"Foi sim! Você estava pronta pra me matar desde o começo! Então por que está me perguntando se gosto de você e tals!?"[lr]::
-61642::$$$message_0563_0047_0001$$$::A Illya se arrepia e fica quieta.::
+61639::$$$message_0563_0045_0001$$$::"Qualquer um ficaria chocado com isso, sua boba! V-você me partiu ao meio, sabia!? Eu nem sei como devo me sentir quanto a isso!"::
+61640::$$$message_0563_0046_0000$$$::"Não foi isso que aconteceu! Você que saiu correndo na frente mesmo sendo tão fraco! N-não foi culpa minha!"::
+61641::$$$message_0563_0047_0000$$$::"Claro que foi! Você apareceu pronta para nos assassinar! Isso é loucura! E por que importa se eu gosto de você ou não!?"[lr]::
+61642::$$$message_0563_0047_0001$$$::Os ombros de Illya tremem, e ela fica em silêncio.::
 61643::$$$message_0563_0048_0000$$$::"...ah."[lr]::
 61644::$$$message_0563_0048_0001$$$::...droga.[lr]::
-61645::$$$message_0563_0048_0002$$$::Decidi esquecer tudo sobre sermos Mestres, mas acho que falhei.::
+61645::$$$message_0563_0048_0002$$$::Decidi esquecer que somos Mestres, e aqui estou eu, falando besteira.::
 61646::$$$message_0563_0049_0000$$$::"...hum, Illya?"[lr]::
-61647::$$$message_0563_0049_0001$$$::"......é importante pra mim. Você é um idiota, Shirou! Se eu não tivesse impedido ele, você estaria morto agora, mas ainda quer pagar de herói."[lr]::
-61648::$$$message_0563_0049_0002$$$::A Illya olha, tremendo.::
-61649::$$$message_0563_0050_0000$$$::"......cara."[lr]::
-61650::$$$message_0563_0050_0001$$$::Parece que não tenho escolha.[lr]::
+61647::$$$message_0563_0049_0001$$$::"...Bem, importa para mim. Você é um idiota, Shirou, e só fala da boca para fora. Você teria morrido se eu não tivesse parado ele."[lr]::
+61648::$$$message_0563_0049_0002$$$::Os ombros de Illya tremem e ela encara o chão, mesmo dizendo algo sinistro.::
+61649::$$$message_0563_0050_0000$$$::"...Haah."[lr]::
+61650::$$$message_0563_0050_0001$$$::...Bem, ela tem razão.[lr]::
 61651::$$$message_0563_0050_0002$$$::Fui eu quem começou essa conversa. Sou o mais velho aqui, e ela uma garotinha.::
-61652::$$$message_0563_0051_0000$$$::"[w l=4][line4]Cof cof. hum, Illya..."[lr]::
-61653::$$$message_0563_0051_0001$$$::Me preparo para o que vou dizer.::
-61654::$$$message_0563_0052_0000$$$::"[w l=3][line3]Já passou. Já melhorei e você deixou eu ir.[lr]::
-61655::$$$message_0563_0052_0001$$$::...mas não vou comentar isso de novo se te incomodar, tá bom?"::
-61656::$$$message_0563_0053_0000$$$::"Ah... sim. Hum, então você não está bravo, Shirou...?"[lr]::
-61657::$$$message_0563_0053_0001$$$::"Eu deveria estar, mas não estou por algum motivo.[lr]::
+61652::$$$message_0563_0051_0000$$$::"Ahem. Bem, sobre isso..."[lr]::
+61653::$$$message_0563_0051_0001$$$::Tomo coragem e decido dizer.::
+61654::$$$message_0563_0052_0000$$$::"Isso tudo já passou, e eu não estou preso a isso. Você me deixou ir, e agora estou completamente curado.[lr]::
+61655::$$$message_0563_0052_0001$$$::...Um, se isso ainda te incomoda, Illya, eu nunca mais menciono. Tudo bem?"::
+61656::$$$message_0563_0053_0000$$$::"Ah... Mm-hm. Então você não está bravo, Shirou...?"[lr]::
+61657::$$$message_0563_0053_0001$$$::"Não. Eu devia ter mais juízo do que dizer isso, mas não estou bravo.[lr]::
 61658::$$$message_0563_0053_0002$$$::Na verdade, eu queria falar mais com você agora."::
 61659::$$$message_0563_0054_0000$$$::Ela estava prestes a chorar, mas agora ela sorri.[lr]::
-61660::$$$message_0563_0054_0001$$$::"[w l=8][line8]"[lr]::
+61660::$$$message_0563_0054_0001$$$::[font italic=true]...[font italic=false][lr]::
 61661::$$$message_0563_0054_0002$$$::Esse sorriso me alegra também.[lr]::
 61662::$$$message_0563_0054_0003$$$::Não sinto nenhuma hostilidade dela.[lr]::
-61663::$$$message_0563_0054_0004$$$::Então eu devia parar de pensar como um Mestre.[lr]::
-61664::$$$message_0563_0054_0005$$$::Acho que vou ter que conversar com ela, como ela quer[w l=4][line4]::
-61665::$$$message_0563_0055_0000$$$::Minha conversa com a Illya dura cerca de uma hora.[lr]::
-61666::$$$message_0563_0055_0001$$$::Ela escuta minhas reclamações sem sentido e histórias comuns.::
-61667::$$$message_0563_0056_0000$$$::...desde quando começou a ficar doloroso?[lr]::
+61663::$$$message_0563_0054_0004$$$::Então não preciso me forçar a pensar como Mestre.[lr]::
+61664::$$$message_0563_0054_0005$$$::Enquanto ela estiver aqui, vou conversar com calma, exatamente como ela quer.::
+61665::$$$message_0563_0055_0000$$$::Acho que eu e Illya conversamos por cerca de uma hora.[lr]::
+61666::$$$message_0563_0055_0001$$$::Illya ouviu feliz enquanto eu falava sobre assuntos sem importância e acontecimentos do dia a dia.::
+61667::$$$message_0563_0056_0000$$$::...Em algum momento, percebi como isso era doloroso.[lr]::
 61668::$$$message_0563_0056_0001$$$::Ela é uma criança inocente.[lr]::
-61669::$$$message_0563_0056_0002$$$::Ela é uma Mestra e não questiona isso...[lr]::
-61670::$$$message_0563_0056_0003$$$::Acho a falta de medo dela em lutar triste.::
-61671::$$$message_0563_0057_0000$$$::"[w l=8][line8]"[lr]::
-61672::$$$message_0563_0057_0001$$$::Uma família de magos chamados Einzbern.[lr]::
-61673::$$$message_0563_0057_0002$$$::Ela foi enviada como a melhor Mestra, resultado da história milenar de anos deles.::
+61669::$$$message_0563_0056_0002$$$::Ela não hesita quando se trata de ser Mestra.[lr]::
+61670::$$$message_0563_0056_0003$$$::É trágico ela não sentir medo algum de lutar em uma guerra.::
+61671::$$$message_0563_0057_0000$$$::[font italic=true]...[font italic=false][lr]::
+61672::$$$message_0563_0057_0001$$$::A linhagem mágica conhecida como Einzbern.[lr]::
+61673::$$$message_0563_0057_0002$$$::Esta menina foi quem eles enviaram para concretizar a obsessão de mil anos deles.::
 61674::$$$message_0563_0058_0000$$$::Se este é o objetivo da Illya, então...[lr]::
-61675::$$$message_0563_0058_0001$$$::"[w l=4][line4]Illya. Posso te perguntar algo?"[lr]::
+61675::$$$message_0563_0058_0001$$$::"...Illya. Posso te perguntar uma coisa?"[lr]::
 61676::$$$message_0563_0058_0002$$$::"O que?"[lr]::
 61677::$$$message_0563_0058_0003$$$::"Você reconhece o nome Emiya Kiritsugu?"[lr]::
 61678::$$$message_0563_0058_0004$$$::...tenho que questioná-la sobre isso.::
-61679::$$$message_0563_0059_0000$$$::"[w l=8][line8]"[lr]::
-61680::$$$message_0563_0059_0001$$$::A atmosfera congela.[lr]::
-61681::$$$message_0563_0059_0002$$$::O silêncio é ensurdecedor.::
+61679::$$$message_0563_0059_0000$$$::[font italic=true]...[font italic=false][lr]::
+61680::$$$message_0563_0059_0001$$$::O tempo para.[lr]::
+61681::$$$message_0563_0059_0002$$$::É um silêncio sem emoção, que parece apagar todo o tempo que passamos juntos até agora.::
 61682::$$$message_0563_0060_0000$$$::"Não. Não conheço ninguém com esse nome."[lr]::
 61683::$$$message_0563_0060_0001$$$::...seu cabelo prateado flutua.[lr]::
-61684::$$$message_0563_0060_0002$$$::Como uma fada, ela se levanta do banco e se vira.::
+61684::$$$message_0563_0060_0002$$$::Illya se levanta do banco e dá um pequeno giro, como uma fada.::
 61685::$$$message_0563_0061_0000$$$::"Está ficando tarde. O Berserker vai acordar a noite, então preciso ir logo."[lr]::
-61686::$$$message_0563_0061_0001$$$::"[w l=8][line8]"[lr]::
-61687::$$$message_0563_0061_0002$$$::A Illya dá tchau.::
+61686::$$$message_0563_0061_0001$$$::[font italic=true]...[font italic=false][lr]::
+61687::$$$message_0563_0061_0002$$$::Illya se despede de mim à sua maneira infantil.::
 61688::$$$message_0563_0062_0000$$$::"Sim, melhor eu ir também."[lr]::
 61689::$$$message_0563_0062_0001$$$::Me levanto.[lr]::
-61690::$$$message_0563_0062_0002$$$::Esse é todo o descanso que terei.[lr]::
+61690::$$$message_0563_0062_0002$$$::O intervalo acabou.[lr]::
 61691::$$$message_0563_0062_0003$$$::Seremos inimigos de novo quando o sol se pôr.::
-61692::$$$message_0563_0063_0000$$$::Mas...[lr]::
-61693::$$$message_0563_0063_0001$$$::"Podemos conversar de novo, Illya?"[lr]::
-61694::$$$message_0563_0063_0002$$$::...pergunto, como se fosse algo normal.::
-61695::$$$message_0563_0064_0000$$$::"[w l=3][line3]U-Um, não sei. Você quer me ver de novo, Shirou?"[lr]::
+61692::$$$message_0563_0063_0000$$$::E ainda assim, eu...[lr]::
+61693::$$$message_0563_0063_0001$$$::"Vamos nos encontrar de novo, Illya?"[lr]::
+61694::$$$message_0563_0063_0002$$$::A pergunta sai naturalmente dos meus lábios.::
+61695::$$$message_0563_0064_0000$$$::"U-um, não tenho certeza. Acho que não. Você quer me ver de novo, Shirou?"[lr]::
 61696::$$$message_0563_0064_0001$$$::"Claro. Não teria perguntado se não quisesse."[lr]::
-61697::$$$message_0563_0064_0002$$$::"......! Okay, então virei de novo se me der vontade. Mantenha as expectativas baixa e continue esperando, okay?"[lr]::
+61697::$$$message_0563_0064_0002$$$::"...! Tá! Então eu venho te procurar amanhã se estiver com vontade. Mas não fique me esperando."[lr]::
 61698::$$$message_0563_0064_0003$$$::Ela corre para fora do parque.::
 61699::$$$message_0563_0065_0000$$$::...mas.[lr]::
-61700::$$$message_0563_0065_0001$$$::Ela para repentinamente.::
+61700::$$$message_0563_0065_0001$$$::A garota pálida para, constrangida.::
 61701::$$$message_0563_0066_0000$$$::"Eu menti. Eu sei quem ele é."::
-61702::$$$message_0563_0067_0000$$$::"Illya[w l=4][line4]?"[lr]::
-61703::$$$message_0563_0067_0001$$$::"...eu nasci para ganhar a Guerra do Santo Graal. Minha missão é matar você e ele."::
-61704::$$$message_0563_0068_0000$$$::Ela corre.[lr]::
-61705::$$$message_0563_0068_0001$$$::Ela não olha pra trás.[lr]::
-61706::$$$message_0563_0068_0002$$$::Eu observo até ela sair do meu campo de visão.::
-
+61702::$$$message_0563_0067_0000$$$::"Illya...?"[lr]::
+61703::$$$message_0563_0067_0001$$$::"...Eu nasci para vencer a Guerra do Santo Graal, mas meu objetivo é matar você e Kiritsugu."::
+61704::$$$message_0563_0068_0000$$$::Os passos dela desaparecem no crepúsculo.[lr]::
+61705::$$$message_0563_0068_0001$$$::Deixando essas palavras para trás, ela vai embora sem olhar para trás,[lr]::
+61706::$$$message_0563_0068_0002$$$::e eu a observo partir.::

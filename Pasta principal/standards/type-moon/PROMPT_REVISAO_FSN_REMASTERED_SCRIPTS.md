@@ -101,6 +101,7 @@ Regras de estilo e adaptação:
 - **Termos de VN, Estrutura e Metalinguagem:** Quando o texto estiver falando da estrutura da obra como visual novel, use o vocabulário já consagrado nesse meio, e não a tradução literal mais genérica. Exemplo obrigatório: `route` em contexto de VN vira `rota`, nunca `percurso`, `trajeto` ou equivalente. Do mesmo modo, preserve termos como `final`, `final ruim`, `final bom` e `final verdadeiro` quando o assunto for a estrutura narrativa. Só use equivalentes literais de caminho/deslocamento quando o contexto for físico dentro da cena.
 - **Regionalismo Neutro Nacional:** Foque num coloquialismo "neutro" brasileiro (padrão de boas dublagens). Evite usar "Tu" (para não gerar choque de conjugação verbal no meio do texto) e evite gírias fortemente atreladas a um único estado do país (ex: "Mermão", "Oxe", "Boto fé", "Uai").
 - **Geral:** Corrija sempre concordância, substitua aspas `「」『』` por `"`, e preserve estritamente os honoríficos asiáticos como parte do texto (`Senpai`, `Onii-chan`, `-san`, `-chan`, `-sensei`).
+- **Termos de relação escolar típicos de VN:** Termos como `Senpai` e `Kouhai`/`kouhai` podem permanecer em PT-BR quando o contexto for de visual novel, anime ou dinâmica escolar japonesa. Não force traduções como "veterano", "calouro" ou "colega de um ano abaixo" se o termo original soar natural e familiar no registro de VN; adapte só quando a frase pedir clareza para leitura brasileira.
 
 ## Nomes próprios japoneses
 

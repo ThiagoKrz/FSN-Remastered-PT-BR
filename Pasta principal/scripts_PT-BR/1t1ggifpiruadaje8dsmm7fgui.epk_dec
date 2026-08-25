@@ -61,7 +61,7 @@ id=qid::label=str::text=lstr::
 78676::$$$message_0728_0018_0001$$$::O que Kiritsugu queria dizer com fazer o certo e defender a justiça? Como posso crescer mais rápido? Existe algum jeito mágico de realizar o sonho de Kiritsugu de 'fazer todo mundo feliz'? Sério, o que eu devo fazer quando me torno Mestre e não consigo tirar da cabeça a garota loira que está comigo[line2]::
 78677::$$$message_0728_0019_0000$$$::"...rgh."[lr]::
 78678::$$$message_0728_0019_0001$$$::Acordo no meu quarto.[lr]::
-78679::$$$message_0728_0019_0002$$$::"...Ugh... tem alguma coisa com gosto... horrível..."[lr]::
+78679::$$$message_0728_0019_0002$$$::"...Urgh... tem alguma coisa com gosto... horrível..."[lr]::
 78680::$$$message_0728_0019_0003$$$::O gosto metálico de sangue toma minha boca.[lr]::
 78681::$$$message_0728_0019_0004$$$::Ele se acumulou enquanto eu dormia, e, toda vez que respiro, um ar pesado e metálico enche meus pulmões.::
 78682::$$$message_0728_0020_0000$$$::[font italic=true]...[font italic=false][lr]::
@@ -71,11 +71,11 @@ id=qid::label=str::text=lstr::
 78686::$$$message_0728_0021_0001$$$::Levanto-me da cama.[lr]::
 78687::$$$message_0728_0021_0002$$$::A tontura faz minha cabeça girar.[lr]::
 78688::$$$message_0728_0021_0003$$$::Instável sobre os pés, apoio a mão na parede.[lr]::
-78689::$$$message_0728_0021_0004$$$::"...Ugh."[lr]::
+78689::$$$message_0728_0021_0004$$$::"...Urgh."[lr]::
 78690::$$$message_0728_0021_0005$$$::Tento me mover, mas isso só piora a náusea.[lr]::
 78691::$$$message_0728_0021_0006$$$::...Não, é mais dor do que náusea.::
 78692::$$$message_0728_0022_0000$$$::Meu corpo está pesado, e minhas entranhas parecem se revirar sempre que me mexo. Imagino que seria mais ou menos assim se alguém me obrigasse a engolir chumbo quente.[lr]::
-78693::$$$message_0728_0022_0001$$$::"Ugh... só imaginar isso já me faz sentir que vou ter febre."[lr]::
+78693::$$$message_0728_0022_0001$$$::"Urgh... só imaginar isso já me faz sentir que vou ter febre."[lr]::
 78694::$$$message_0728_0022_0002$$$::Enxugo o suor da testa e manco para fora do quarto, apoiado na parede.::
 78695::$$$message_0728_0023_0000$$$::"Certo, estou um pouco melhor."[lr]::
 78696::$$$message_0728_0023_0001$$$::Lavo o rosto e seco meu corpo encharcado de suor.[lr]::
@@ -97,7 +97,7 @@ id=qid::label=str::text=lstr::
 78712::$$$message_0728_0026_0003$$$::A sala está quieta, como em um domingo típico[line2][lr]::
 78713::$$$message_0728_0026_0004$$$::"Bom dia. Desculpa entrar sem pedir, Emiya."[lr]::
 78714::$$$message_0728_0026_0005$$$::...ou não.::
-78715::$$$message_0728_0027_0000$$$::"O quê...? Eh!?"[lr]::
+78715::$$$message_0728_0027_0000$$$::"O quê...? Hã!?"[lr]::
 78716::$$$message_0728_0027_0001$$$::Tohsaka Rin está sentada no chão, perto da mesa da sala.[lr]::
 78717::$$$message_0728_0027_0002$$$::Está tão calma, como se fosse dona do lugar. Tanto que [font italic=true]eu[font italic=false] me sinto o convidado aqui.::
 78718::$$$message_0728_0028_0000$$$::"..."[lr]::
@@ -112,7 +112,7 @@ id=qid::label=str::text=lstr::
 78727::$$$message_0728_0031_0001$$$::Agora eu me lembro.[lr]::
 78728::$$$message_0728_0031_0002$$$::Certo, não é hora de ficar respirando tranquilamente o ar da manhã.[lr]::
 78729::$$$message_0728_0031_0003$$$::Tentei ajudar Saber, e... Berserker me abriu como um peixe.::
-78730::$$$message_0728_0032_0000$$$::"...Ugh."[lr]::
+78730::$$$message_0728_0032_0000$$$::"...Urgh."[lr]::
 78731::$$$message_0728_0032_0001$$$::A náusea volta.[lr]::
 78732::$$$message_0728_0032_0002$$$::Um calafrio toma meu corpo inteiro quando me lembro da sensação de ter um buraco aberto em mim.::
 78733::$$$message_0728_0033_0000$$$::Espera, isso é estranho.[lr]::
@@ -372,7 +372,7 @@ id=qid::label=str::text=lstr::
 78987::$$$message_0728_0135_0001$$$::"Contei três vezes em que você quase morreu. Você é a primeira pessoa que conheço a conseguir isso em um único dia."::
 78988::$$$message_0728_0136_0000$$$::"Urgh. Mas..."[lr]::
 78989::$$$message_0728_0136_0001$$$::"Vou fazer valer a pena. Vou relevar o fato de você ter ferido Archer e ensinar o que precisa saber para ser Mestre. Ah, e, se tivermos tempo, posso até te dar algumas dicas sobre sua Magia. Fechado?"::
-78990::$$$message_0728_0137_0000$$$::Ugh.[lr]::
+78990::$$$message_0728_0137_0000$$$::Urgh.[lr]::
 78991::$$$message_0728_0137_0001$$$::É [font italic=true]mesmo[font italic=false] uma proposta atraente.[lr]::
 78992::$$$message_0728_0137_0002$$$::Eu não sei quase nada, e Tohsaka parece entender muito.::
 78993::$$$message_0728_0138_0000$$$::E eu gostaria de evitar lutar com ela, se puder.::

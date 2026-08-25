@@ -11,3 +11,4 @@ Regras inegociáveis:
 - Preserve a estrutura do EPUB/HTML.
 - Use PT-BR natural, com acentuação correta sempre.
 - Nunca faça troca cega de termos se isso quebrar concordância, regência ou naturalidade; reescreva a frase inteira quando necessário.
+- Em visual novels e dinâmicas escolares japonesas, termos consagrados como `Senpai` e `Kouhai`/`kouhai` podem permanecer quando soarem naturais; não force "veterano", "calouro" ou "colega de um ano abaixo" nesses casos.

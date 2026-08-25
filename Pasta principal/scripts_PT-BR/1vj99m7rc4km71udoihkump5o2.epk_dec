@@ -1,51 +1,50 @@
 DAT
 id=qid::label=str::text=lstr::
-58130::$$$message_0520_0000_0000$$$::Um som agudo toca.[lr]::
-58131::$$$message_0520_0000_0001$$$::A luz brilhante da lua se reflete na espada enquanto ela quica pela escada.[lr]::
-58132::$$$message_0520_0000_0002$$$::"[w l=8][line8]Hah."[lr]::
+58130::$$$message_0520_0000_0000$$$::Um som agudo corta o ar.[lr]::
+58131::$$$message_0520_0000_0001$$$::Uma lâmina branca cai ruidosamente no chão, espalhando fragmentos de luz ao refletir o brilho claro da lua.[lr]::
+58132::$$$message_0520_0000_0002$$$::"[line8]Hah."[lr]::
 58133::$$$message_0520_0000_0003$$$::Há sangue em seus lábios.[lr]::
-58134::$$$message_0520_0000_0004$$$::O homem de joelhos nos degraus da escada dá adeus a sua espada longa enquanto ela caí.::
-58135::$$$message_0520_0001_0000$$$::Seus braços são os próximos a cair.[lr]::
-58136::$$$message_0520_0001_0001$$$::Molhado de sangue, o tecido elegantemente estampado de sua roupa parece uma gigante flor vermelha.::
-58137::$$$message_0520_0002_0000$$$::"[w l=4][line4]Ora. não pensei que você fosse traiçoeiro como uma cobra."[lr]::
-58138::$$$message_0520_0002_0001$$$::Em um duro contraste ao seu corpo ensanguentado, seus lábios estão pálidos.[lr]::
-58139::$$$message_0520_0002_0002$$$::Nem sangue nem ar atravessam sua garganta mais.[lr]::
-58140::$$$message_0520_0002_0003$$$::Os orgãos internos de Sasaki Kojirou não servem mais seu propósito original.::
+58134::$$$message_0520_0000_0004$$$::O homem cai de joelhos nos degraus de pedra e se despede da própria espada longa enquanto ela afunda na escuridão.::
+58135::$$$message_0520_0001_0000$$$::Ele nunca mais erguerá aquela espada.[lr]::
+58136::$$$message_0520_0001_0001$$$::Seu manto está manchado de sangue; os fios recém-tingidos fazem o tecido parecer uma flor carmesim e soberba.::
+58137::$$$message_0520_0002_0000$$$::"[line4]Pensar que... eu encontraria meu fim... nas mãos de algo tão abominável."[lr]::
+58138::$$$message_0520_0002_0001$$$::Os lábios do homem parecem osso branco diante do sangue fresco que escorre de seu ventre.[lr]::
+58139::$$$message_0520_0002_0002$$$::O tremor vital da vida já abandonou sua garganta.[lr]::
+58140::$$$message_0520_0002_0003$$$::As entranhas de Sasaki Kojirou já funcionam como outra coisa.::
 58141::$$$message_0520_0003_0000$$$::O portão da montanha está quieto.[lr]::
-58142::$$$message_0520_0003_0001$$$::O Servo que guardava-o,[lr]::
-58143::$$$message_0520_0003_0002$$$::a sombra que apareceu...[lr]::
-58144::$$$message_0520_0003_0003$$$::Nenhum deles se movem.[lr]::
-58145::$$$message_0520_0003_0004$$$::[w l=3][line3]A luta já terminou.[lr]::
-58146::$$$message_0520_0003_0005$$$::Assassin foi derrotado por "alguém" que subiu as escadas de pedregulho.[lr]::
-58147::$$$message_0520_0003_0006$$$::Ele não teve tempo de identificar o intruso como inimigo, nem mesmo batalhá-lo.[lr]::
-58148::$$$message_0520_0003_0007$$$::Este "alguém" estava em um nuvem completamente distinto.::
-58149::$$$message_0520_0004_0000$$$::Seu corpo explode para fora.[lr]::
-58150::$$$message_0520_0004_0001$$$::Rasgado, mutilado e desarmado, ele nem mesmo pode tirar sua própria vida.[lr]::
-58151::$$$message_0520_0004_0002$$$::A sombra se aproxima.[lr]::
-58152::$$$message_0520_0004_0003$$$::Ela passa a mão na bochecha do Assassin com um gesto duro e querido.::
-58153::$$$message_0520_0005_0000$$$::Uma mão deformada e aracnidea saí se seu estomago.[lr]::
-58154::$$$message_0520_0005_0001$$$::Seu ossos racham.[lr]::
-58155::$$$message_0520_0005_0002$$$::Sua pele se rasga.[lr]::
-58156::$$$message_0520_0005_0003$$$::Parece que seus órgãos estão se transformando em de outrem.::
-58157::$$$message_0520_0006_0000$$$::"Guh[w l=3][line3]!"[lr]::
-58158::$$$message_0520_0006_0001$$$::Assassin suprime o sangue regurgitado.[lr]::
-58159::$$$message_0520_0006_0002$$$::O espadachim engole-o e sorri com seus lábios pálidos.::
-58160::$$$message_0520_0007_0000$$$::"...muito bem, como você deseja. Afinal, está saindo de mim. Tenho certeza de que não é nada nobre[w l=4][line4]"[lr]::
-58161::$$$message_0520_0007_0001$$$::Ele sorri, embora tenha sido negado uma morte honrosa.[lr]::
-58162::$$$message_0520_0007_0002$$$::Se alguém se referir a um grande espetáculo...[lr]::
-58163::$$$message_0520_0007_0003$$$::Seu sorriso é mais grandioso do que o nascimento desta abominação.::
+58142::$$$message_0520_0003_0001$$$::Nem o Servo que o guardava,[lr]::
+58143::$$$message_0520_0003_0002$$$::nem a sombra recém-surgida,[lr]::
+58144::$$$message_0520_0003_0003$$$::se movem.::
+58145::$$$message_0520_0003_0004$$$::[line3]A batalha já terminou.[lr]::
+58146::$$$message_0520_0003_0005$$$::Aquilo que subiu os degraus de pedra derrotou Assassin.[lr]::
+58147::$$$message_0520_0003_0006$$$::Não houve tempo para cruzar lâminas, nem sequer para reconhecer o inimigo.[lr]::
+58148::$$$message_0520_0003_0007$$$::Fosse o que fosse, existia em uma dimensão completamente diferente.::
+58149::$$$message_0520_0004_0000$$$::O corpo do guardião se rasga.[lr]::
+58150::$$$message_0520_0004_0001$$$::Com o torso aberto e sem arma, Assassin não tem sequer permissão para tirar a própria vida.[lr]::
+58151::$$$message_0520_0004_0002$$$::Ela caminha. Firme, constante.[lr]::
+58152::$$$message_0520_0004_0003$$$::A sombra acaricia a face do Servo chamado Assassin com ternura, ou talvez desprezo.::
+58153::$$$message_0520_0005_0000$$$::Um braço deformado, aracnídeo, irrompe de seu torso dilacerado.[lr]::
+58154::$$$message_0520_0005_0001$$$::Ossos se entrelaçam.[lr]::
+58155::$$$message_0520_0005_0002$$$::Carne se rasga.[lr]::
+58156::$$$message_0520_0005_0003$$$::Ele sente os órgãos e vísceras que antes lhe pertenciam se transformarem em algo de outra pessoa.::
+58157::$$$message_0520_0006_0000$$$::"Guh[line3]!"[lr]::
+58158::$$$message_0520_0006_0001$$$::Ele segura a onda de sangue que ameaça jorrar.[lr]::
+58159::$$$message_0520_0006_0002$$$::O espadachim a engole e deixa um sorriso sereno brincar em seus lábios.::
+58160::$$$message_0520_0007_0000$$$::"...Muito bem. Faça como quiser. Aquilo que nasce do meu ventre certamente não pode ser coisa boa[line4]"[lr]::
+58161::$$$message_0520_0007_0001$$$::Devorado por dentro e privado de uma morte misericordiosa, ele sorri.[lr]::
+58162::$$$message_0520_0007_0002$$$::É um gesto valoroso.[lr]::
+58163::$$$message_0520_0007_0003$$$::Seu sorriso vívido é ainda mais terrível que o nascimento da abominação dentro dele.::
 58164::$$$message_0520_0008_0000$$$::E assim, é invocado.[lr]::
-58165::$$$message_0520_0008_0001$$$::Tomando a pele do Servo falso como sua, o verdadeiro Assassin entra no nosso mundo.[lr]::
-58166::$$$message_0520_0008_0002$$$::"Ki[w l=4][line4]Kiki, kikikikiki[w l=8][line8]"[lr]::
-58167::$$$message_0520_0008_0003$$$::Suas primeiras palavras são como a de um inseto.[lr]::
-58168::$$$message_0520_0008_0004$$$::O inseto negro que saiu do estômago do espadachim devora o corpo que foi seu berço.::
-58169::$$$message_0520_0009_0000$$$::Ele ri enquanto rasga a pele.[lr]::
-58170::$$$message_0520_0009_0001$$$::Ele gargalha enquanto tritura os ossos.[lr]::
-58171::$$$message_0520_0009_0002$$$::Toda vez que assim o faz, o inseto se torna mais humano, e seu cérebro adquire conhecimento.[lr]::
-58172::$$$message_0520_0009_0003$$$::E depois de um tempo...[lr]::
-58173::$$$message_0520_0009_0004$$$::Ele termina de sugar cada gota de sangue e abençoa o nascimento de seu ser, o "assassin".::
-58174::$$$message_0520_0010_0000$$$::As únicas testemunhas são os cantos dos insetos e a luz do luar.[lr]::
-58175::$$$message_0520_0010_0001$$$::O grito agudo de nascimento se derrete na escuridão.::
-58176::$$$message_0520_0011_0000$$$::[w l=4][line4]Uma lua sombria.[lr]::
-58177::$$$message_0520_0011_0001$$$::Uma caveira branca ri sob o céu negro.::
-
+58165::$$$message_0520_0008_0001$$$::A coisa nascida do sangue e das vísceras de um falso Servo é, sem dúvida alguma, um Assassin.[lr]::
+58166::$$$message_0520_0008_0002$$$::"Ki[line4]Kiki, kikikikiki[line8]"[lr]::
+58167::$$$message_0520_0008_0003$$$::Seus gritos de nascimento lembram o crepitar de insetos.[lr]::
+58168::$$$message_0520_0008_0004$$$::O inseto que emerge do corpo do espadachim devora avidamente o próprio útero.::
+58169::$$$message_0520_0009_0000$$$::Ele cacareja enquanto talha,[lr]::
+58170::$$$message_0520_0009_0001$$$::e gargalha enquanto mastiga.[lr]::
+58171::$$$message_0520_0009_0002$$$::A cada mordida na carne, o inseto negro ganha forma humana, e seu cérebro vazio recebe conhecimento humano.[lr]::
+58172::$$$message_0520_0009_0003$$$::O banquete continua por meia hora.[lr]::
+58173::$$$message_0520_0009_0004$$$::O novo Assassin suga com cuidado até a última gota de sangue e celebra o próprio nascimento sobre degraus de pedra agora impecáveis.::
+58174::$$$message_0520_0010_0000$$$::Suas únicas testemunhas são os enxames de insetos cantando em coro no mato e a lua vasta e luminosa.[lr]::
+58175::$$$message_0520_0010_0001$$$::Os gritos agudos de nascimento se dissolvem.::
+58176::$$$message_0520_0011_0000$$$::[line4]É uma lua nefasta.[lr]::
+58177::$$$message_0520_0011_0001$$$::A caveira branca ri para a noite chamuscada de negro.::

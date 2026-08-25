@@ -37,7 +37,13 @@
       "Pretender",
       "Shielder",
       "Beast"
-    ]
+    ],
+    "termos_vn_relacao_escolar_preservaveis": [
+      "Senpai",
+      "Kouhai",
+      "kouhai"
+    ],
+    "nota_termos_vn_relacao_escolar": "Em visual novels e textos com dinamica escolar japonesa, termos como Senpai e Kouhai/kouhai podem permanecer em PT-BR quando soarem naturais no registro de VN. Nao force veterano, calouro ou colega de um ano abaixo se o termo original preservar melhor a voz e o contexto; adapte apenas quando a frase exigir clareza."
   },
   "diretrizes_operacionais": {
     "ordem_leitura_llm": [

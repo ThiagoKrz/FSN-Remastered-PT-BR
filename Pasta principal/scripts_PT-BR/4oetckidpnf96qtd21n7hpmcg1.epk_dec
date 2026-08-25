@@ -1,31 +1,31 @@
 DAT
 id=qid::label=str::text=lstr::
-62163::$$$message_0572_0000_0000$$$::[w l=4][line4]Não posso deixar a Sakura sozinho hoje a noite.[lr]::
-62164::$$$message_0572_0000_0001$$$::Não é como eu pudesse fazer algo, mas quero ficar aqui para que eu possa ajudá-la se preciso.::
+62163::$$$message_0572_0000_0000$$$::   Não posso deixar Sakura sozinha esta noite.[lr]::
+62164::$$$message_0572_0000_0001$$$::Minha presença por si só não vai fazê-la melhorar, mas quero poder ajudar imediatamente caso ela precise.::
 62165::$$$message_0572_0001_0000$$$::"Me desculpa, Saber. Não vamos patrulhar hoje. Estou preocupado com a Sakura."[lr]::
 62166::$$$message_0572_0001_0001$$$::"[w l=4][line4]Entendido. Seguirei suas ordens."[lr]::
 62167::$$$message_0572_0001_0002$$$::"O que?"::
 62168::$$$message_0572_0002_0000$$$::E-Estou surpreso.[lr]::
 62169::$$$message_0572_0002_0001$$$::Pensei que ela protestaria, mas ela rapidamente aceitou minha proposta.::
 62170::$$$message_0572_0003_0000$$$::"Não me entenda mal. A Sakura não é a única que está doente. Você também está exausto, então descanse por hoje.[lr]::
-62171::$$$message_0572_0003_0001$$$::O descanso extra ajudará a recuperar sua energia mágica. Você não deve se esforçar."[lr]::
+62171::$$$message_0572_0003_0001$$$::Sua energia mágica ainda não se recuperou por completo. Nem você nem Sakura devem se esforçar demais."[lr]::
 62172::$$$message_0572_0003_0002$$$::"[w l=3][line3]Obrigado, Saber."::
-62173::$$$message_0572_0004_0000$$$::"N-Não precisa me agradecer. Sou sua Serva. É normal eu colocar o bem-estar de meu Mestre em primeiro lugar."[lr]::
-62174::$$$message_0572_0004_0001$$$::A Saber pega seu chá.::
-62175::$$$message_0572_0005_0000$$$::"Então, Shirou. Você tem uma recompensa por eu ser uma Serva tão dedicada?"[lr]::
-62176::$$$message_0572_0005_0001$$$::A Saber faz um pedido fofo com os olhos cheios de expectativas.::
+62173::$$$message_0572_0004_0000$$$::"N-não preciso da sua gratidão. Sou seu Servo, Shirou. Sua segurança vem em primeiro lugar."[lr]::
+62174::$$$message_0572_0004_0001$$$::Com isso, Saber se senta na sala e serve para si um copo de água morna.::
+62175::$$$message_0572_0005_0000$$$::"Então, Shirou... como vai recompensar uma atendente tão compreensiva?"[lr]::
+62176::$$$message_0572_0005_0001$$$::Saber me faz a pergunta, o tom adoravelmente misturado com birra e expectativa.::
 62177::$$$message_0572_0006_0000$$$::"Ah[w l=4][line4]Entendo. Um minuto, Saber."[lr]::
 62178::$$$message_0572_0006_0001$$$::Eu percebo que ela quer algo para comer com o chá, então pego os biscoitos que a Fuji-nee comprou pra ela.::
-62179::$$$message_0572_0007_0000$$$::"[w l=8][line8]"[lr]::
+62179::$$$message_0572_0007_0000$$$::[font italic=true]...[font italic=false][lr]::
 62180::$$$message_0572_0007_0001$$$::Eu desligo meu Circuito Mágico.[lr]::
-62181::$$$message_0572_0007_0002$$$::Suspiro aliviado depois que o graveto flamejante saí de minha espinha.::
-62182::$$$message_0572_0008_0000$$$::Não pratiquei diarimente nesses últimos dias, mas tudo ocorreu bem hoje.[lr]::
-62183::$$$message_0572_0008_0001$$$::Embora antes fosse um sufoco, ativar meu Circuito Mágico é fácil agora. Talvez por conta do meu contrato com a Saber.::
+62181::$$$message_0572_0007_0002$$$::Quando a haste em brasa deixa minha espinha, suspiro de alívio.::
+62182::$$$message_0572_0008_0000$$$::Minha rotina diária, que tenho negligenciado ultimamente, termina sem problema, para minha surpresa.[lr]::
+62183::$$$message_0572_0008_0001$$$::Talvez seja graças ao meu contrato com Saber. Sempre tive dificuldade para formar meu Circuito Mágico, mas agora é fácil.::
 62184::$$$message_0572_0009_0000$$$::"[w l=3][line3]Mas não é bom se eu levar sempre um minuto pra conseguir."[lr]::
-62185::$$$message_0572_0009_0001$$$::A única arma que posso usar tem que ser preparada antes usando minha mágia de "fortalecimento".[lr]::
+62185::$$$message_0572_0009_0001$$$::Tudo que consigo fazer é Fortalecer algo para transformá-lo em arma.[lr]::
 62186::$$$message_0572_0009_0002$$$::Se eu for atacado de surpresa, não terei como contraatacar.[lr]::
 62187::$$$message_0572_0009_0003$$$::Se eu conseguir reduzir o tempo para uns 30 segundos, talvez eu possa fazer algo[w l=3][line3]::
-62188::$$$message_0572_0010_0000$$$::"Talvez eu pergunte para a Tohsaka sobre isso. Ela pode saber como criar um Circuito Mágico rápido."[lr]::
+62188::$$$message_0572_0010_0000$$$::"Talvez eu peça conselho à Tohsaka na próxima vez. Aposto que ela conhece um jeito mais eficiente de criar um Circuito Mágico."[lr]::
 62189::$$$message_0572_0010_0001$$$::Bem, não posso só perguntar assim. Quem sabe o que ela vai querer em troca?::
 62190::$$$message_0572_0011_0000$$$::"Hm...?"[lr]::
 62191::$$$message_0572_0011_0001$$$::Ouço passos.[lr]::
@@ -33,24 +33,24 @@ id=qid::label=str::text=lstr::
 62193::$$$message_0572_0011_0003$$$::...é meia-noite.[lr]::
 62194::$$$message_0572_0011_0004$$$::A pessoa que veio aqui sob o luar é...[lr]::
 62195::$$$message_0572_0011_0005$$$::"Senpai...? Ainda acordado?"[lr]::
-62196::$$$message_0572_0011_0006$$$::Sakura, que parece muito melhor do que agora mais cedo.::
-62197::$$$message_0572_0012_0000$$$::"[w l=8][line8]"[lr]::
+62196::$$$message_0572_0011_0006$$$::Sakura. A cor do rosto dela parece um pouco melhor.::
+62197::$$$message_0572_0012_0000$$$::[font italic=true]...[font italic=false][lr]::
 62198::$$$message_0572_0012_0001$$$::Minha mente desliga.[lr]::
 62199::$$$message_0572_0012_0002$$$::...a Sakura está vestindo algo que não reconheço.[lr]::
 62200::$$$message_0572_0012_0003$$$::Isso me pega desprevenido.[lr]::
 62201::$$$message_0572_0012_0004$$$::Deve ser as roupas que a Fuji-nee separou pra ela, mas vê-la em outra roupa sem ser seu uniforme me pega de surpresa.::
 62202::$$$message_0572_0013_0000$$$::"...Um, Senpai?"[lr]::
-62203::$$$message_0572_0013_0001$$$::"Ah[w l=3][line3]Sim, ainda acordado. Tudo bem, Sakura? Está frio aqui fora."[lr]::
+62203::$$$message_0572_0013_0001$$$::"Uh, sim. Estou acordado. Tem certeza de que devia estar de pé? Está frio lá fora."[lr]::
 62204::$$$message_0572_0013_0002$$$::"Sim, minha febre já passou quase toda. Vim aqui fora tomar um ar e ouvi algo, então pensei que fosse você."::
 62205::$$$message_0572_0014_0000$$$::"Entendo. Então tudo que resta a fazer é se aquecer e voltar a dormir. Que bom."[lr]::
 62206::$$$message_0572_0014_0001$$$::Ligo o fogão que acabei de consertar.::
 62207::$$$message_0572_0015_0000$$$::Ótimo, funciona.[lr]::
 62208::$$$message_0572_0015_0001$$$::Isso deve aquecer um pouco aqui.::
 62209::$$$message_0572_0016_0000$$$::"Aqui. Ainda está meio friozinho, mas é melhor do que aí fora.[lr]::
-62210::$$$message_0572_0016_0001$$$::...Um, se não estiver com sono, posso te fazer compania."[lr]::
-62211::$$$message_0572_0016_0002$$$::"[w l=4][line4]Okay. Então com licença, Senpai."::
+62210::$$$message_0572_0016_0001$$$::...Se quiser alguém para conversar antes de voltar para a cama, estou aqui."[lr]::
+62211::$$$message_0572_0016_0002$$$::"Certo. Se não for incômodo, Senpai."::
 62212::$$$message_0572_0017_0000$$$::A Sakura entra, com passos firmes.[lr]::
-62213::$$$message_0572_0017_0001$$$::...ótimo, parece que ela está bem melhor. Que alivio.::
+62213::$$$message_0572_0017_0001$$$::...Que bom. Ela realmente parece estar melhor.::
 62214::$$$message_0572_0018_0000$$$::"Está quente. Então dava pra consertar."[lr]::
 62215::$$$message_0572_0018_0001$$$::"De algum jeito. Eu quase não tentei já que era tão velho."::
 62216::$$$message_0572_0019_0000$$$::"É verdade. Você ficou bravo e disse que preferiria consertar o VHS que a Fujimura-sensei cortou ao meio.[lr]::
@@ -65,13 +65,13 @@ id=qid::label=str::text=lstr::
 62225::$$$message_0572_0023_0001$$$::Embora a Sakura esteja me criticando, ela está bem humorada.[lr]::
 62226::$$$message_0572_0023_0002$$$::...bem, estou bem feliz em ver ela bem o bastante para se importar com isto.::
 62227::$$$message_0572_0024_0000$$$::"...me desculpa. Eu estava irritado demais para pensar direito."[lr]::
-62228::$$$message_0572_0024_0001$$$::"Tem razão. Você estava tão irritado comigo quanto consigo mesmo. ...sim. Estou te causando problemas demais. Mas eu estava mesmo me desculpando pois pensei ter feito algo horrível."::
+62228::$$$message_0572_0024_0001$$$::"Isso mesmo. Você parecia muito assustador quando ficou irritado comigo e consigo mesmo... Sei que estou sempre dando trabalho, mas espero que perceba que passou do limite mais cedo."::
 62229::$$$message_0572_0025_0000$$$::"......"[lr]::
-62230::$$$message_0572_0025_0001$$$::A Sakura está perfeitamente calma.[lr]::
-62231::$$$message_0572_0025_0002$$$::Parcialment provável por ter melhorado do resfriado, mas ela não está só fingindo estar bem. Essa parece ser a "verdadeira" Sakura ao meu ver.::
+62230::$$$message_0572_0025_0001$$$::Sakura é tão gentil.[lr]::
+62231::$$$message_0572_0025_0002$$$::Ela ainda está se recuperando da doença, mas, como posso dizer, não é a Sakura de sempre tentando dar o melhor de si diante de mim. É como se eu estivesse vendo a verdadeira Sakura.::
 62232::$$$message_0572_0026_0000$$$::"Lembro quando eu era criança.[lr]::
-62233::$$$message_0572_0026_0001$$$::Sempre fiquei em casa e não podia dizer o que eu queria. Pensei que tudo daria certo se eu não dissesse nada."::
-62234::$$$message_0572_0027_0000$$$::"...mas não adiantou. Não queria preocupar ninguém, mas nunca falar preocupava o Nii-san e meu pai ainda mais."::
+62233::$$$message_0572_0026_0001$$$::Quando eu era menor, vivia trancada em casa e nunca conseguia dizer o que queria. Eu achava que seria melhor para todos se guardasse meus sentimentos verdadeiros, então nunca dizia nada."::
+62234::$$$message_0572_0027_0000$$$::"...Mas sei que isso não funciona. Fiquei calada porque não queria preocupar ninguém, mas isso só fez meu pai e meu irmão se preocuparem ainda mais."::
 62235::$$$message_0572_0028_0000$$$::"...entendo. Mas é verdade que você se importava com seu pai e o Shinji, então aposto que eles sabiam como você se sentia. Há coisas que podem ser ditas sem palavras."::
 62236::$$$message_0572_0029_0000$$$::"Sim. Espero que seja verdade.[lr]::
 62237::$$$message_0572_0029_0001$$$::...e você, Senpai? Não ouço muito sobre sua infância."::
@@ -79,48 +79,48 @@ id=qid::label=str::text=lstr::
 62239::$$$message_0572_0030_0001$$$::Fico envergonhado, então coço a bochecha.::
 62240::$$$message_0572_0030_0002$$$::...isso significa que falhei como homem já que eu não mudei muito desde então?::
 62241::$$$message_0572_0031_0000$$$::"Uau. Você corria pela cidade?"[lr]::
-62242::$$$message_0572_0031_0001$$$::"Sim... Eu pensava estar patrulhando a cidade. Admirava ajudar os mais fracos e acabar com os mais fortes."::
+62242::$$$message_0572_0031_0001$$$::"Mm... Eu brincava de patrulha. Sempre quis ser alguém forte que ajuda os fracos."::
 62243::$$$message_0572_0032_0000$$$::Meu campo de batalha principal era o parque.[lr]::
 62244::$$$message_0572_0032_0001$$$::Acho que era algo diário lutar com crianças da minha idade contra pessoas mais velhas.[lr]::
 62245::$$$message_0572_0032_0002$$$::...Hmm, agora que penso nisso, uma pessoa inteligente e meio diabólica estava no meu grupo também...::
-62246::$$$message_0572_0033_0000$$$::"Entendo, então você protegia a cidade dos valentões? Você era assim mesmo quando pequeno?[lr]::
+62246::$$$message_0572_0033_0000$$$::"Entendo. Você protegia a cidade dos valentões. Então você sempre foi esse tipo de pessoa."[lr]::
 62247::$$$message_0572_0033_0001$$$::"Sakura. Sorrir assim me lembra de todas as coisas idiotas que fiz, então por favor para. É bem vergonhoso."::
-62248::$$$message_0572_0034_0000$$$::"Não é não. Eu teria sido sua parceira se tivesse te conhecido quando criança.[lr]::
-62249::$$$message_0572_0034_0001$$$::Uma pessoa tímida como eu precisa de alguém para arrastá-la para fora."::
-62250::$$$message_0572_0035_0000$$$::"...uma parceira?"[lr]::
-62251::$$$message_0572_0035_0001$$$::...ah. Bem, eu teria treinado a Sakura todos os dias se ela estivesse comigo quando erámos criança.[lr]::
-62252::$$$message_0572_0035_0002$$$::Teria corrido nas margens do rio ou sentado no dojo com ela.::
-62253::$$$message_0572_0036_0000$$$::É basicamente o que uma parceira faria.[lr]::
-62254::$$$message_0572_0036_0001$$$::Sobres meus cuidados, a Sakura teria se tornado forte, e então acabaria uma diabinha igual...::
-62255::$$$message_0572_0036_0002$$$::Ela,[lr]::
-62256::$$$message_0572_0036_0003$$$::ou ela.::
-62257::$$$message_0572_0037_0000$$$::"[w l=4][line4]Ugh."[lr]::
+62248::$$$message_0572_0034_0000$$$::"Não há nada do que se envergonhar. Se eu tivesse te conhecido quando criança, teria pedido para ser uma das suas capangas.[lr]::
+62249::$$$message_0572_0034_0001$$$::Você sabe como sou tímida. Sempre precisei de alguém para me puxar para fora de casa."::
+62250::$$$message_0572_0035_0000$$$::"Minha capanga...?"[lr]::
+62251::$$$message_0572_0035_0001$$$::...Ah, pensando bem, aposto que Sakura teria treinado comigo todos os dias se nos conhecêssemos quando crianças.[lr]::
+62252::$$$message_0572_0035_0002$$$::Consigo até imaginar meu eu mais novo gritando frases motivacionais enquanto corríamos pela margem do rio ou meditávamos no dojo.::
+62253::$$$message_0572_0036_0000$$$::Qualquer um que olhasse pensaria que éramos chefe e subordinada.[lr]::
+62254::$$$message_0572_0036_0001$$$::Então Sakura teria crescido forte e robusta sob minha orientação,::
+62255::$$$message_0572_0036_0002$$$::assim...[lr]::
+62256::$$$message_0572_0036_0003$$$::...ou como um demônio em pele de menina, assim.::
+62257::$$$message_0572_0037_0000$$$::"Urgh..."[lr]::
 62258::$$$message_0572_0037_0001$$$::Um calafrio percorre meu corpo.[lr]::
-62259::$$$message_0572_0037_0002$$$::Ótimo. Estou muito feliz da Sakura ser modesta.::
+62259::$$$message_0572_0037_0002$$$::Graças a Deus ela se tornou tão modesta e graciosa.::
 62260::$$$message_0572_0038_0000$$$::"Um, Senpai?"[lr]::
-62261::$$$message_0572_0038_0001$$$::"Huh? Ah, estava distraído. Falando sozinho, então pode ficar tranquila."::
-62262::$$$message_0572_0039_0000$$$::"...Okay. Tudo bem, mas, um... Posso te perguntar algo incomodante?"[lr]::
-62263::$$$message_0572_0039_0001$$$::"...? Okay, o que?"::
+62261::$$$message_0572_0038_0001$$$::"Hm? Desculpa, me distraí por um segundo. Não liga, estou só falando sozinho."::
+62262::$$$message_0572_0039_0000$$$::"Tudo bem, então... Mas posso te fazer uma pergunta?"[lr]::
+62263::$$$message_0572_0039_0001$$$::"Claro. O que foi?"::
 62264::$$$message_0572_0040_0000$$$::"...ouvi da Fujimura-sensei. É verdade que você foi adotado pelos Emiya?"[lr]::
-62265::$$$message_0572_0040_0001$$$::"[w l=3][line3]Huh? Nunca te contei? Sou adotado, como a Fuji-nee te disse."::
+62265::$$$message_0572_0040_0001$$$::"Hm? Nunca mencionei isso antes? Sim, Kiritsugu me adotou."::
 62266::$$$message_0572_0041_0000$$$::"U-Um, Senpai? Isso significa..."[lr]::
 62267::$$$message_0572_0041_0001$$$::"Bem, é verdade, e é nada que devo esconder. Por que está me perguntando sobre isso?"::
 62268::$$$message_0572_0042_0000$$$::"...não se importa com isso? Você foi adotado numa família de estranhos, então, um... não havia coisas que você não gostava?"::
 62269::$$$message_0572_0043_0000$$$::"Ah, será que Fuji-nee te deu uma impressão errada?[lr]::
-62270::$$$message_0572_0043_0001$$$::...bem, poderia parecer assim quando vim aqui pela primeira vez, mas não foi difícil para mim, e não havia nada que eu não gostasse."[lr]::
+62270::$$$message_0572_0043_0001$$$::...Bem, pode ter parecido assim no primeiro ano, mas não acho que tenha sido tão ruim, e não havia nada de que eu realmente não gostasse."[lr]::
 62271::$$$message_0572_0043_0002$$$::"Então foi divertido para você, Senpai?"::
 62272::$$$message_0572_0044_0000$$$::[w l=4][line4]Hm.[lr]::
 62273::$$$message_0572_0044_0001$$$::Essa é a primeira vez que me perguntam isso.[lr]::
 62274::$$$message_0572_0044_0002$$$::Depois do fogo...[lr]::
-62275::$$$message_0572_0044_0003$$$::...meu primeiro ano aqui foi se recuperando da minhas feridas.::
+62275::$$$message_0572_0044_0003$$$::Meu primeiro ano com Kiritsugu foi difícil, passado quase todo me recuperando dos ferimentos.::
 62276::$$$message_0572_0045_0000$$$::...e depois disso...[lr]::
-62277::$$$message_0572_0045_0001$$$::Meu tempo até agora foi gasto em movimentos constantes.[lr]::
-62278::$$$message_0572_0045_0002$$$::Estudei mágica para ser mais como o Kiritsugu,[lr]::
-62279::$$$message_0572_0045_0003$$$::e corri pela cidade, buscando um motivo para ser o único que sobreviveu aquela noite.::
+62277::$$$message_0572_0045_0001$$$::Depois disso, passei dia após dia em movimento, como ainda faço agora.[lr]::
+62278::$$$message_0572_0045_0002$$$::Segui os passos de Kiritsugu para aprender Magia,[lr]::
+62279::$$$message_0572_0045_0003$$$::encontrei sentido em ajudar o maior número de pessoas possível, e passei meus dias vagando pela cidade.::
 62280::$$$message_0572_0046_0000$$$::Nunca tive tempo para ponderar se eu estava me divertindo.::
 62281::$$$message_0572_0046_0001$$$::Nunca tive o luxo de considerar essa questão.::
 62282::$$$message_0572_0047_0000$$$::"Hmm, não sei. Não sei se foi divertido ou não. Eu só queria ser como meu pai."::
-62283::$$$message_0572_0048_0000$$$::"Quer dizer ser um superherói, como a Fujimura-sensei disse?"[lr]::
+62283::$$$message_0572_0048_0000$$$::"Você queria ser um herói, como Fujimura-sensei comentou?"[lr]::
 62284::$$$message_0572_0048_0001$$$::A Sakura pergunta, timidamente.[lr]::
 62285::$$$message_0572_0048_0002$$$::Para isso...[lr]::
 62286::$$$message_0572_0048_0003$$$::"[w l=4][line4]Sim. É tão estranho?"[lr]::
@@ -143,29 +143,28 @@ id=qid::label=str::text=lstr::
 62303::$$$message_0572_0054_0001$$$::Sakura vai embora.[lr]::
 62304::$$$message_0572_0054_0002$$$::Enquanto vejo ela ir, tento lembrar onde já vi aquele sorriso antes, mas minha memória me deixa na mão.::
 62305::$$$message_0572_0055_0000$$$::Volto ao meu quarto.[lr]::
-62306::$$$message_0572_0055_0001$$$::Deito no futon, evitando acordar a Saber Saber, e assim que tento fechar meus olhos...::
-62307::$$$message_0572_0056_0000$$$::"[w l=4][line4]Me lembrei."[lr]::
-62308::$$$message_0572_0056_0001$$$::Num instante de lucidez, tudo volta.[lr]::
-62309::$$$message_0572_0056_0002$$$::Sim, foi quando[w l=4][line4]::
-62310::$$$message_0572_0057_0000$$$::[w l=4][line4]Foi no galpão, igual agora.[lr]::
+62306::$$$message_0572_0055_0001$$$::Entro quietamente no futon para não acordar Saber e fecho os olhos.::
+62307::$$$message_0572_0056_0000$$$::"[w l=4][line4]Eu me lembro."[lr]::
+62308::$$$message_0572_0056_0001$$$::Finalmente percebo o que vinha incomodando minha mente.[lr]::
+62309::$$$message_0572_0056_0002$$$::É isso, foi...::
+62310::$$$message_0572_0057_0000$$$::[w l=4][line4]Também foi no galpão naquela época.[lr]::
 62311::$$$message_0572_0057_0001$$$::Há dois anos... não, há um ano e meio para ser exato.::
 62312::$$$message_0572_0058_0000$$$::Aconteceu no verão de dois anos atrás.[lr]::
-62313::$$$message_0572_0058_0001$$$::Continuei a recusar a ajuda da Sakura em casa sempre que ela vinha.[lr]::
-62314::$$$message_0572_0058_0002$$$::Mas a Sakura não desistiu e continuou vindo aqui como uma insistência que você nunca esperaria dela.::
-62315::$$$message_0572_0059_0000$$$::Eu desisti[w l=3][line3]bem, os esforços dela me derrotaram para ser preciso, mas chamei a Sakura ao galpão e admiti derrota.[lr]::
-62316::$$$message_0572_0059_0001$$$::"Você venceu. Eu perdi, então te darei isto."[lr]::
+62313::$$$message_0572_0058_0001$$$::Sakura veio várias vezes pedir para ajudar em casa, e eu recusei todas.[lr]::
+62314::$$$message_0572_0058_0002$$$::Mas ela não recuou. Aparecia aqui todos os dias, mostrando uma teimosia que eu nem sabia que ela tinha.::
+62315::$$$message_0572_0059_0000$$$::No fim, cedi. A persistência dela me venceu, e um dia a chamei ao galpão para admitir minha derrota.[lr]::
+62316::$$$message_0572_0059_0001$$$::"Você venceu, Sakura. Então vou te dar isto."[r][wsay canskip=1]::
 62317::$$$message_0572_0059_0002$$$::Era uma chave velha.[lr]::
-62318::$$$message_0572_0059_0003$$$::Eu dei a Sakura a chave de casa que o Kiritsugu costumava a usar.::
-62319::$$$message_0572_0060_0000$$$::Chocada, ela tentou recusar.[lr]::
-62320::$$$message_0572_0060_0001$$$::Ela disse algo absurdo sobre como uma estranha não podia aceitar tal presente.::
-62321::$$$message_0572_0061_0000$$$::"Ei ei. Você vem me ajudar todos os dias, então você não é estranha.[lr]::
-62322::$$$message_0572_0061_0001$$$::Sinta-se a vontade para usar isso. ...bem, me ajudaria se usasse."::
-62323::$$$message_0572_0062_0000$$$::Eu forcei a chave em suas mãos.[lr]::
-62324::$$$message_0572_0062_0001$$$::E foi quando eu o vi.[lr]::
-62325::$$$message_0572_0062_0002$$$::"...Okay. Obrigdo, Senpai. Esse é o segundo presente que recebi de alguém querido para mim."[lr]::
-62326::$$$message_0572_0062_0003$$$::A Sakura sorria alegre enquanto concordava.::
-62327::$$$message_0572_0063_0000$$$::"Ah[w l=4][line4]entendo."[lr]::
-62328::$$$message_0572_0063_0001$$$::Isso que estava me incomodando.[lr]::
-62329::$$$message_0572_0063_0002$$$::A Sakura trabalha duro e está sempre sorrindo.[lr]::
-62330::$$$message_0572_0063_0003$$$::Mas essa foi a última vez que o sorriso dela parecia livre[w l=4][line4]::
-
+62318::$$$message_0572_0059_0003$$$::Kiritsugu costumava usá-la, e ela ficou guardada no galpão por anos. Eu a entreguei a Sakura.::
+62319::$$$message_0572_0060_0000$$$::Sakura ficou chocada e recusou com veemência, dizendo que não merecia tê-la.[lr]::
+62320::$$$message_0572_0060_0001$$$::Se não me falha a memória, ela insistiu que era estranha demais para ficar até com uma cópia da chave.::
+62321::$$$message_0572_0061_0000$$$::"Escuta, você não é uma estranha. Você vem aqui e me ajuda todos os dias.[lr]::
+62322::$$$message_0572_0061_0001$$$::Use isto para entrar e sair quando quiser... Isso me ajudaria muito."::
+62323::$$$message_0572_0062_0000$$$::Não aceitei um não como resposta e empurrei a chave nas mãos dela.[lr]::
+62324::$$$message_0572_0062_0001$$$::Foi então que eu vi.[lr]::
+62325::$$$message_0572_0062_0002$$$::"...Certo. Obrigada, Senpai. Esta é a segunda vez que alguém importante para mim me dá algo."[lr]::
+62326::$$$message_0572_0062_0003$$$::Sakura assentiu, radiante.::
+62327::$$$message_0572_0063_0000$$$::"É. Então era isso."[lr]::
+62328::$$$message_0572_0063_0001$$$::Era disso que eu estava tentando me lembrar.[lr]::
+62329::$$$message_0572_0063_0002$$$::Sakura sempre se esforça, e seu sorriso é sempre bondoso e gentil...[lr]::
+62330::$$$message_0572_0063_0003$$$::Mas eu não a via com uma expressão tão satisfeita desde aquele dia de verão.::

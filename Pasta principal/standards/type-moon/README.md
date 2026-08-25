@@ -281,6 +281,7 @@ Regra crítica:
 
 - nunca aplicar termo do glossário por substituição cega se isso quebrar concordância, regência, gênero, número, tom ou naturalidade da frase.
 - qualquer `?` indevido no lugar de acento, aspas ou caractere válido invalida a etapa até correção.
+- em visual novels e textos com dinâmica escolar japonesa, termos consagrados como `Senpai` e `Kouhai`/`kouhai` podem permanecer; não force "veterano", "calouro" ou "colega de um ano abaixo" quando o termo original preservar melhor o sabor de VN e soar natural ao leitor.
 
 ### Etapa 5. Validar cada etapa antes de avançar
 

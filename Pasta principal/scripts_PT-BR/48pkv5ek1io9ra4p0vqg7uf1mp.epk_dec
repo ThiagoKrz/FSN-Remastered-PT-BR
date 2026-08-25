@@ -1,100 +1,100 @@
 DAT
 id=qid::label=str::text=lstr::
-57955::$$$message_0517_0000_0000$$$::"Estou em casa... huh? A Fuji-nee já chegou?"[lr]::
+57955::$$$message_0517_0000_0000$$$::"Cheguei... espera, hã? A Fuji-nee já voltou?"[lr]::
 57956::$$$message_0517_0000_0001$$$::Eu tiro meus sapatos e entro no corredor.[lr]::
-57957::$$$message_0517_0000_0002$$$::O que a monitora do clube de arquearia está fazendo tão cedo aqui?::
-57958::$$$message_0517_0001_0000$$$::"Bem vindo, Shirou."[lr]::
-57959::$$$message_0517_0001_0001$$$::"...Hm, então você finalmente chegou, bobão."[lr]::
-57960::$$$message_0517_0001_0002$$$::A Saber está sentada ao estilo Japonês, demonstrando bons modos, enquanto a Fuji-nee está largada na mesa.::
-57961::$$$message_0517_0002_0000$$$::"[w l=8][line8]"[lr]::
-57962::$$$message_0517_0002_0001$$$::A Fuji-nee parece completamente derrotada.[lr]::
-57963::$$$message_0517_0002_0002$$$::...estou curioso, mas tenho certeza de que é nada importante.::
-57964::$$$message_0517_0003_0000$$$::"Estou em casa. Aconteceu algo enquanto eu estava fora, Saber?"[lr]::
-57965::$$$message_0517_0003_0001$$$::"Não, não vi nada fora do comum. E você, Shirou? Encontrou algo notório em sua escola?"::
-57966::$$$message_0517_0004_0000$$$::"Não, nem eu. O Shinji faltou, mas de resto estava como sempre. Acho que não precisamos nos preocupar com algo ocorrendo lá.[w l=4][line4]"[lr]::
-57967::$$$message_0517_0004_0001$$$::Com a Fuji-nee sentando logo ali, não posso ser direto e falar "não há um Mestre na minha escola."::
-57968::$$$message_0517_0005_0000$$$::"...hum, posso cheirar algo. Uma presença amarga, como uma nota velha de 10000 ienes que você esqueceu no bolso, uma presença oculta."[lr]::
-57969::$$$message_0517_0005_0001$$$::Um cachorro preguiçoso põe-se a cheirar o ar.::
-57970::$$$message_0517_0006_0000$$$::"Você cheira a correntes enferrujadas, Shirou. Muito suspeito.[lr]::
-57971::$$$message_0517_0006_0001$$$::Está escondendo algo de mim-nya?"[lr]::
-57972::$$$message_0517_0006_0002$$$::"Whoa."[lr]::
+57957::$$$message_0517_0000_0002$$$::Nem são seis da tarde ainda. Por que a orientadora do clube de kyudo já voltou tão cedo?::
+57958::$$$message_0517_0001_0000$$$::"Bem-vindo de volta, Shirou."[lr]::
+57959::$$$message_0517_0001_0001$$$::"...Mrgh. Até que enfim você chegou, seu cabeça-oca."[lr]::
+57960::$$$message_0517_0001_0002$$$::Saber me cumprimenta sentada em seiza, impecável, enquanto a Fuji-nee está largada com a cara na mesa.::
+57961::$$$message_0517_0002_0000$$$::"..."[lr]::
+57962::$$$message_0517_0002_0001$$$::Há uma sombra de derrota nos olhos da minha guardiã adotiva.[lr]::
+57963::$$$message_0517_0002_0002$$$::...fico curioso, mas a experiência diz que provavelmente não é nada sério.::
+57964::$$$message_0517_0003_0000$$$::"Desculpa a demora. Aconteceu alguma coisa estranha enquanto eu estava fora, Saber?"[lr]::
+57965::$$$message_0517_0003_0001$$$::"Nada em especial. E você, Shirou? Houve algo digno de nota na escola?"::
+57966::$$$message_0517_0004_0000$$$::"Nada do meu lado também. O Shinji não apareceu, e a escola seguiu como sempre. Acho que podemos tirar ele da lista de observação por enquanto..."[lr]::
+57967::$$$message_0517_0004_0001$$$::Usando uma linguagem indireta, aviso à Saber que não havia outros Mestres na escola.::
+57968::$$$message_0517_0005_0000$$$::"Hmm. Sinto um cheiro estranho. Esse aroma agridoce de depois da chuva, como uma nota de dez mil ienes que você escondeu no dia do pagamento e esqueceu onde pôs... sem dúvida, é o cheiro de segredos!"[lr]::
+57969::$$$message_0517_0005_0001$$$::Ela fareja o ar como um cão solto da coleira.::
+57970::$$$message_0517_0006_0000$$$::"Você está com cheiro de correntes enferrujadas, Shirou. Suspeitíssimo.[lr]::
+57971::$$$message_0517_0006_0001$$$::Está escondendo alguma coisa da sua irmã mais velha?"[lr]::
+57972::$$$message_0517_0006_0002$$$::"Uau."[lr]::
 57973::$$$message_0517_0006_0003$$$::Não creio.[lr]::
-57974::$$$message_0517_0006_0004$$$::Ela endoidou.::
-57975::$$$message_0517_0007_0000$$$::"...Saber, aconteceu algo com a Fuji-nee? Normalmente algo grande acontece pra ela ficar assim."[lr]::
-57976::$$$message_0517_0007_0001$$$::"Uh... não, eu não fiz nada. Acho que a Taiga está letárgica porque ela está com fome."[lr]::
-57977::$$$message_0517_0007_0002$$$::Ela diz essas palavras horríveis casualmente.::
-57978::$$$message_0517_0008_0000$$$::"Mentirosa! Você quem me quebrou, dizendo que queria saber o quão forte eu era, Saber-chan!"[lr]::
+57974::$$$message_0517_0006_0004$$$::Como ela conseguiu ficar tão bêbada a esta hora?::
+57975::$$$message_0517_0007_0000$$$::"...Saber. O que aconteceu com a Fuji-nee? Essa tigresa não fica assim tão bêbada sem algo bem absurdo acontecer."[lr]::
+57976::$$$message_0517_0007_0001$$$::"Er... não sei ao certo. Achei que Taiga estivesse indisposta por estar com fome."[lr]::
+57977::$$$message_0517_0007_0002$$$::Saber solta essa crueldade com uma naturalidade assustadora.::
+57978::$$$message_0517_0008_0000$$$::"Mentira deslavada! Saber-chan, você disse que queria ver minha habilidade e depois me moeu de pancada!"[lr]::
 57979::$$$message_0517_0008_0001$$$::A Fuji-nee bate na mesa.::
-57980::$$$message_0517_0009_0000$$$::...deve ter sido uma experiência horrível e humilhante, já que ela está se escondendo atrás de mim enquanto reclama com a Saber.[lr]::
-57981::$$$message_0517_0009_0001$$$::E nem sei quando ela começou a chamar a Saber de Saber-chan.::
-57982::$$$message_0517_0010_0000$$$::"...Saber. Você duelou com a Fuji-nee?"[lr]::
-57983::$$$message_0517_0010_0001$$$::"Um... Propus que nos exercitassemos um pouco se tivessemos tempo. Já que uma partida com shinai não seria fatal, ela concordou comigo[w l=4][line4]"::
-57984::$$$message_0517_0011_0000$$$::"Não deixe ela te enganar, Shirou. A Saber-chan estava pronta para me matar. Te garanto, sou expert em armas.[lr]::
-57985::$$$message_0517_0011_0001$$$::Ela estava prestes a me matar. Ela ia mesmo me matar. Ela vai me transformar em geleia se eu me distrair!"::
+57980::$$$message_0517_0009_0000$$$::...por frustração ou medo, ela se enfia atrás de mim e vaia Saber em protesto.[lr]::
+57981::$$$message_0517_0009_0001$$$::E ela ficou íntima da Saber rápido demais.::
+57982::$$$message_0517_0010_0000$$$::"Saber... você treinou com a Fuji-nee?"[lr]::
+57983::$$$message_0517_0010_0001$$$::"Ah... bem, sugeri que Taiga fizesse um pouco de exercício se tivesse tempo livre. Foi um treino com espadas de bambu por segurança, e ela aceitou, então[line2]"::
+57984::$$$message_0517_0011_0000$$$::"Não caia nas mentiras dela, Shirou. A Saber-chan veio para cima de mim com sede de sangue. Eu sei reconhecer. Conheço gente armada.[lr]::
+57985::$$$message_0517_0011_0001$$$::Ela queria me matar. Tenho certeza absoluta! Assim que baixei a guarda, ela me achatou..."::
 57986::$$$message_0517_0012_0000$$$::A Fuji-nee treme.[lr]::
-57987::$$$message_0517_0012_0001$$$::"...Saber, um..."[lr]::
-57988::$$$message_0517_0012_0002$$$::Será que ela não se segurou contra a Fuji-nee...?::
-57989::$$$message_0517_0013_0000$$$::"Eh... hum, acredito que baixei um pouco a minha guarda.[lr]::
-57990::$$$message_0517_0013_0001$$$::Eu estava nervosa porque você tinha se atrasado, e a Taiga era mais forte do que eu esperava, então meus reflexos entraram em ação[w l=4][line4]"[lr]::
-57991::$$$message_0517_0013_0002$$$::...uau, que medo.[lr]::
-57992::$$$message_0517_0013_0003$$$::A Fuji-nee é faixa preta em kendo, mas a Saber está em num nível completamente diferente.::
-57993::$$$message_0517_0014_0000$$$::"Enfim, não entre de fininho no quarto dela a noite ou de manhã se quiser viver![lr]::
-57994::$$$message_0517_0014_0001$$$::Você conhecerá o inferno se der em cima dela! Será sua culpa se você morrer!"[lr]::
-57995::$$$message_0517_0014_0002$$$::"......Ugh."::
-57996::$$$message_0517_0015_0000$$$::...Ah é.[lr]::
+57987::$$$message_0517_0012_0001$$$::"Saber. Você..."[lr]::
+57988::$$$message_0517_0012_0002$$$::Será que ela lutou contra a Fuji-nee pra valer...?::
+57989::$$$message_0517_0013_0000$$$::"Hã...? Bem, talvez eu tenha me empolgado um pouco.[lr]::
+57990::$$$message_0517_0013_0001$$$::Eu estava cansada de esperar você voltar, e a habilidade da Taiga era maior do que eu esperava, então talvez tenha agido por instinto..."[lr]::
+57991::$$$message_0517_0013_0002$$$::Uau. Isso soa assustador.[lr]::
+57992::$$$message_0517_0013_0003$$$::A Fuji-nee chegou a um impressionante 5-dan em kendo para a idade dela, mas Saber está em um nível completamente diferente.::
+57993::$$$message_0517_0014_0000$$$::"E-enfim, se dá valor à vida, nada de se enfiar no quarto da Saber de noite ou de manhã![lr]::
+57994::$$$message_0517_0014_0001$$$::O inferno vai desabar sobre este mundo se você der em cima dela! Você será apagado da face da Terra sem nem sobrar corpo para enterrar!"[lr]::
+57995::$$$message_0517_0014_0002$$$::"...Hmm."::
+57996::$$$message_0517_0015_0000$$$::Ela tem razão.[lr]::
 57997::$$$message_0517_0015_0001$$$::Tenho outro problema.[lr]::
-57998::$$$message_0517_0015_0002$$$::Tenho que fazer algo a respeito da Saber, que está teimando em dormir no mesmo quarto que eu.[lr]::
-57999::$$$message_0517_0015_0003$$$::Sou um adolescente. Não sei o que aconteceria se eu dormisse com alguém igual a ela no mesmo quarto[w l=4][line4]::
-58000::$$$message_0517_0016_0000$$$::"Não precisa se preocupar, Taiga. Se este é o comando do Shirou, só obedecerei. Nunca contra-atacarei."::
-58001::$$$message_0517_0017_0000$$$::"Hmmmm? Você disse algo absurdo?"[lr]::
-58002::$$$message_0517_0017_0001$$$::"Não. Taiga, Dormirei no mesmo quarto que o Shirou esta noite, mas por favor não entenda mal."[lr]::
-58003::$$$message_0517_0017_0002$$$::"[w l=8][line8]"[lr]::
+57998::$$$message_0517_0015_0002$$$::O que faço com a Saber, que insiste em dormir no mesmo quarto que eu?[lr]::
+57999::$$$message_0517_0015_0003$$$::Sou um rapaz em crescimento, e tenho... problemas com uma garota como a Saber dormindo no mesmo quarto.::
+58000::$$$message_0517_0016_0000$$$::"Não precisa se preocupar com isso, Taiga. Sirvo sob as ordens de Shirou. Jamais levantaria a mão contra ele."::
+58001::$$$message_0517_0017_0000$$$::"Hm? Hmmm? Você serve...? O que foi isso, Saber?"[lr]::
+58002::$$$message_0517_0017_0001$$$::"Não é nada. Mais importante, para evitar mal-entendidos, informo que me recolherei aos aposentos de Shirou esta noite."[lr]::
+58003::$$$message_0517_0017_0002$$$::"..."[lr]::
 58004::$$$message_0517_0017_0003$$$::A Fuji-nee congela.::
 58005::$$$message_0517_0018_0000$$$::"......"[lr]::
-58006::$$$message_0517_0018_0001$$$::Lá vem eu...[lr]::
-58007::$$$message_0517_0018_0002$$$::Considerando a diferença de poderes entre nós, será eu.::
-58008::$$$message_0517_0019_0000$$$::"Fuji-nee. Guardei segredo até agora, mas..."[lr]::
-58009::$$$message_0517_0019_0001$$$::Tento pacificar a Fuji-nee, que está parada atrás de mim. [lr]::
-58010::$$$message_0517_0019_0002$$$::"Tudo benzinho."[lr]::
-58011::$$$message_0517_0019_0003$$$::Ela me ignora completamente, e ouço sons dela empilhando listas telefônicas.::
+58006::$$$message_0517_0018_0001$$$::Ah, não...[lr]::
+58007::$$$message_0517_0018_0002$$$::Pela nossa posição e pela diferença de força entre nós, ela com certeza vai fazer aquilo...::
+58008::$$$message_0517_0019_0000$$$::"Fuji-nee. Na verdade, tem uma coisa que eu escondi de você desde ontem."[lr]::
+58009::$$$message_0517_0019_0001$$$::Ouço a Fuji-nee atrás de mim.[lr]::
+58010::$$$message_0517_0019_0002$$$::"Lá vou eu."[lr]::
+58011::$$$message_0517_0019_0003$$$::Uau. Ela está me ignorando completamente, e acabei de ouvir algo como uma lista telefônica sendo jogada na mesa.::
 58012::$$$message_0517_0020_0000$$$::"Me escute.[lr]::
-58013::$$$message_0517_0020_0001$$$::[w l=4][line4]A Saber não entende japonês."[lr]::
-58014::$$$message_0517_0020_0002$$$::"Aqui vou eu."[lr]::
-58015::$$$message_0517_0020_0003$$$::Ah, eu sabia.[lr]::
-58016::$$$message_0517_0020_0004$$$::Ela está tentando me dar um mata-leão.[lr]::
-58017::$$$message_0517_0020_0005$$$::Embora ela não saiba como pegar leve, então é um risco real ela acabar enforcando alguém[w l=4][line4]::
-58018::$$$message_0517_0021_0000$$$::"Não, não é hora pra isso! Ei, F-Fuji-nee, você me pegou! Eu vou desmaiar assim...!"[lr]::
-58019::$$$message_0517_0021_0001$$$::Ouço meus ossos rangirem.[lr]::
-58020::$$$message_0517_0021_0002$$$::O aperto continuo é a única resposta da Fuji-nee.::
-58021::$$$message_0517_0022_0000$$$::"Whoa, eu desisto...! Não, me jogue pra fora!"[lr]::
-58022::$$$message_0517_0022_0001$$$::Eu começo a desmaiar, e como última tentativa, começo a puxar.[lr]::
+58013::$$$message_0517_0020_0001$$$::A Saber não entende japonês."[lr]::
+58014::$$$message_0517_0020_0002$$$::"Preparar, e..."[lr]::
+58015::$$$message_0517_0020_0003$$$::Ah, aí está.[lr]::
+58016::$$$message_0517_0020_0004$$$::A sensação de levar um mata-leão por trás.[lr]::
+58017::$$$message_0517_0020_0005$$$::A Fuji-nee não sabe controlar a própria força. Quando ela pega meu pescoço, o perigo é sério[line2]::
+58018::$$$message_0517_0021_0000$$$::"Espera, agora não é hora disso! Ei! F-Fuji-nee, você venceu! Eu desisto, então[line2]ai, eu vou cair de verdade!"[lr]::
+58019::$$$message_0517_0021_0001$$$::Crac. Crac.[lr]::
+58020::$$$message_0517_0021_0002$$$::A resposta da Fuji-nee é apertar ainda mais, numa magnífica moagem de osso e carne.::
+58021::$$$message_0517_0022_0000$$$::"Uagh, eu desisto, desisto! Para! E não me arremessa depois!"[lr]::
+58022::$$$message_0517_0022_0001$$$::Com a consciência apagando, consigo bater de leve no braço da Fuji-nee.[lr]::
 58023::$$$message_0517_0022_0002$$$::Mas...::
-58024::$$$message_0517_0023_0000$$$::"Cara a boca, seu pirralho mimado! Eu não te eduquei assim!!!!"[lr]::
-58025::$$$message_0517_0023_0001$$$::[w l=4][line4]Ah, vou mesmo desmaiar agora.[lr]::
-58026::$$$message_0517_0023_0002$$$::...cara... por que meus problemas não chegam um de cada vez?::
-58027::$$$message_0517_0024_0000$$$::"[w l=4][line4]cara, que horror."[lr]::
-58028::$$$message_0517_0024_0001$$$::Eu estralho as juntas do meu pescoço.[lr]::
-58029::$$$message_0517_0024_0002$$$::Graças ao meu treinamento, só tenho alguns hematomas, mesmo depois de ter sido arremessado no chão.::
-58030::$$$message_0517_0025_0000$$$::"Um, me desculpa... Eu ia te soltar na metade para que você pudesse amortecer a queda, mas você era mais pesado que eu esperava e minhas mãos estavam ocupadas para te segurar."::
-58031::$$$message_0517_0026_0000$$$::"Claro. Não sou mais criança. Não tente me jogar com esses bracinhos. No pior dos casos, você teria caído comigo."[lr]::
-58032::$$$message_0517_0026_0001$$$::"...desculpa."::
-58033::$$$message_0517_0027_0000$$$::"E você também tem culpa, Saber. Você vai dormir no quarto ao meu lado, então tecnicamente não estamos no mesmo quarto."[lr]::
-58034::$$$message_0517_0027_0001$$$::"Uh... mas eu preciso te proteger, então..."::
-58035::$$$message_0517_0028_0000$$$::"Você pode me proteger bem de lá. Primeiramente, vai me cansar se dormirmos juntos. Me desculpa, mas é o máximo que posso fazer. Se quiser mais de mim, terá que lutar por isso."[lr]::
-58036::$$$message_0517_0028_0001$$$::"Hmm... que situação difícil."::
-58037::$$$message_0517_0029_0000$$$::"Que bom que as duas entenderam. Bem, acho que vou fazer a janta."[lr]::
-58038::$$$message_0517_0029_0001$$$::Me levanto enquanto tento relaxar o meu pescoço.::
+58024::$$$message_0517_0023_0000$$$::"Ah, cala a boca! Vai comer poeira, seu filho preguiçoso! Não foi assim que eu te criei! Uaaahhh!!!"[lr]::
+58025::$$$message_0517_0023_0001$$$::    Ah, agora eu vou para o chão.[lr]::
+58026::$$$message_0517_0023_0002$$$::Droga... é um problema atrás do outro...::
+58027::$$$message_0517_0024_0000$$$::"Nossa, isso foi horrível."[lr]::
+58028::$$$message_0517_0024_0001$$$::Meu pescoço estala.[lr]::
+58029::$$$message_0517_0024_0002$$$::Mesmo depois de quase dobrado num ângulo reto, escapei só com alguns hematomas graças ao meu treino diário.::
+58030::$$$message_0517_0025_0000$$$::"Urgh, que decepcionante... achei que conseguiria girar e te soltar para você cair rolando, mas você é mais pesado do que eu esperava. Precisei de tudo que tinha só para te arremessar."::
+58031::$$$message_0517_0026_0000$$$::"Óbvio. Eu não sou mais criança, sabia? Para de tentar me dar suplex com esses braços finos. Você podia ter se machucado."[lr]::
+58032::$$$message_0517_0026_0001$$$::"...aprendi a lição."::
+58033::$$$message_0517_0027_0000$$$::"Você também, Saber. Vamos dormir em quartos vizinhos, não no mesmo quarto."[lr]::
+58034::$$$message_0517_0027_0001$$$::"Mmm... mas é para protegê-lo, Shirou."::
+58035::$$$message_0517_0028_0000$$$::"Você já está me protegendo bastante. Eu não saberia o que fazer comigo mesmo se ficássemos no mesmo quarto. Desculpa, mas é o máximo que posso ceder. Nisso eu não abro mão."[lr]::
+58036::$$$message_0517_0028_0001$$$::"Mmrgh... você pede muito."::
+58037::$$$message_0517_0029_0000$$$::"Desde que vocês duas tenham entendido... certo, hora de preparar o jantar."[lr]::
+58038::$$$message_0517_0029_0001$$$::Levanto enquanto alongo o pescoço.::
 58039::$$$message_0517_0030_0000$$$::"Ah, Fuji-nee.[lr]::
-58040::$$$message_0517_0030_0001$$$::Estive pensando em deixar a Sakura ficar aqui a partir de hoje. O que acha? Percebi que posso deixar ela usar a casa anexa onde a Saber ficou noite passada."[lr]::
-58041::$$$message_0517_0030_0002$$$::"Você vai deixar a Sakura-chan ficar? Por mim tudo bem, mas por que? Você anda agindo meio esquisito ultimamente."::
-58042::$$$message_0517_0031_0000$$$::"...bem, erm, a Sakura não parece estar muito bem ultimamente. O Shinji não anda em casa também, então pensei que seria melhor ela ficar com a gente."::
-58043::$$$message_0517_0032_0000$$$::"Okay... por mim tudo bem, mas você perguntou pra ela? Ela parecia bem durante a prática do clube."::
-58044::$$$message_0517_0033_0000$$$::"Não, eu ia perguntar pra ela mais tarde[w l=3][line3]espera, o que houve no clube? Por que você foi embora mais cedo?"[lr]::
-58045::$$$message_0517_0033_0001$$$::"Hm? Ah, alguém se machucou, então deixei a Mitsuzuri-san tomando conta, levei a pessoa pra casa e vim pra cá."::
-58046::$$$message_0517_0034_0000$$$::...então foi isso o que aconteceu, huh?[lr]::
+58040::$$$message_0517_0030_0001$$$::Estou pensando em deixar a Sakura ficar aqui a partir de hoje. Tudo bem? Posso colocá-la na casa anexa onde a Saber ficou ontem."[lr]::
+58041::$$$message_0517_0030_0002$$$::"A Sakura-chan vai ficar aqui? Por mim tudo bem, mas por que essa mudança do nada? Você anda meio estranho ultimamente."::
+58042::$$$message_0517_0031_0000$$$::"...bem, hm, a Sakura não parece muito bem ultimamente. O Shinji também não anda ficando em casa, então achei melhor ela ficar com a gente."::
+58043::$$$message_0517_0032_0000$$$::"Tá... por mim tudo bem, mas você perguntou para ela? Ela parecia bem durante o treino do clube."::
+58044::$$$message_0517_0033_0000$$$::"Não, eu ia perguntar depois[line2]espera, o que aconteceu no clube? Por que você saiu mais cedo?"[lr]::
+58045::$$$message_0517_0033_0001$$$::"Hm? Ah, alguém se machucou, então deixei a Mitsuzuri-san cuidando de tudo, levei a pessoa para casa e vim pra cá."::
+58046::$$$message_0517_0034_0000$$$::...então foi isso que aconteceu, hein?[lr]::
 58047::$$$message_0517_0034_0001$$$::É perturbador ouvir que alguém se machucou lá, mas a Fuji-nee não estaria aqui se fosse sério.[lr]::
 58048::$$$message_0517_0034_0002$$$::Aposto que foi um dedo preso ou anemia.::
-58049::$$$message_0517_0035_0000$$$::"[w l=4][line4]"[lr]::
-58050::$$$message_0517_0035_0001$$$::Bem, é a minha chance.[lr]::
+58049::$$$message_0517_0035_0000$$$::"..."[lr]::
+58050::$$$message_0517_0035_0001$$$::Bom, essa é a minha chance.[lr]::
 58051::$$$message_0517_0035_0002$$$::A Fuji-nee considera a Sakura parte da família, assim como eu.[lr]::
-58052::$$$message_0517_0035_0003$$$::Então[w l=4][line4][lr]::
+58052::$$$message_0517_0035_0003$$$::Então[line4][lr]::

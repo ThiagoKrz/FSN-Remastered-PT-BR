@@ -44,18 +44,18 @@ id=qid::label=str::text=lstr::
 57414::$$$message_0511_0014_0002$$$::Meus colegas só se entendem nessas horas.::
 57415::$$$message_0511_0015_0000$$$::Os rapazes voltam, discutindo se camarão frito com gosto de carne é algo bom ou ruim.::
 57416::$$$message_0511_0016_0000$$$::Já é quase a quinta aula. Preciso me sentar e me preparar[w l=3][line3][lr]::
-57417::$$$message_0511_0016_0001$$$::"...o que é isso?"[lr]::
+57417::$$$message_0511_0016_0001$$$::"...O que é isso?"[lr]::
 57418::$$$message_0511_0016_0002$$$::[w l=3][line3]Encontro um pedaço de papel estranho na mesa.::
 57419::$$$message_0511_0017_0000$$$::"[w l=8][line8]"[lr]::
-57420::$$$message_0511_0017_0001$$$::...estou sem palavras.[lr]::
+57420::$$$message_0511_0017_0001$$$::...Estou sem palavras.[lr]::
 57421::$$$message_0511_0017_0002$$$::Ela deve ter disfarçado sua caligrafia, só para garantir.::
 57422::$$$message_0511_0018_0000$$$::"[w l=4][line4]Tohsaka."[lr]::
-57423::$$$message_0511_0018_0001$$$::...tem que ser ela.[lr]::
+57423::$$$message_0511_0018_0001$$$::...Tem que ser ela.[lr]::
 57424::$$$message_0511_0018_0002$$$::Ela é a única que sabe sobre "esta manhã".[lr]::
 57425::$$$message_0511_0018_0003$$$::"......"[lr]::
 57426::$$$message_0511_0018_0004$$$::Quero fingir que não vi nada, mas a última linha me chama a atenção.::
-57427::$$$message_0511_0019_0000$$$::"...ela deve saber que posso ver as palavras rabiscadas... ou não."[lr]::
-57428::$$$message_0511_0019_0001$$$::...realmente não quero, mas é ótimo ter uma chance de falar com ela.[lr]::
+57427::$$$message_0511_0019_0000$$$::"...Ela deve saber que posso ver as palavras rabiscadas... ou não."[lr]::
+57428::$$$message_0511_0019_0001$$$::...Realmente não quero, mas é ótimo ter uma chance de falar com ela.[lr]::
 57429::$$$message_0511_0019_0002$$$::Não sei o que fazer sobre a Sakura, então consultarei com a Tohsaka a respeito[w l=4][line4]::
 57430::$$$message_0511_0020_0000$$$::Com o fim da sexta aula, estamos livres.[lr]::
 57431::$$$message_0511_0020_0001$$$::É a hora.[lr]::
@@ -82,12 +82,12 @@ id=qid::label=str::text=lstr::
 57452::$$$message_0511_0026_0001$$$::Eu grito pra ela.[lr]::
 57453::$$$message_0511_0026_0002$$$::Minha voz ecoa pela floresta.::
 57454::$$$message_0511_0027_0000$$$::"Consigo sim! Não grite::
-57455::$$$message_0511_0027_0001$$$::meu nome tão alto!!"[normal][lr]::
+57455::$$$message_0511_0027_0001$$$:: meu nome tão alto!!"[normal][lr]::
 57456::$$$message_0511_0027_0002$$$::A voz dela ecoa de volta.[lr]::
 57457::$$$message_0511_0027_0003$$$::Ela grita comigo depois de ir até mim.[lr]::
 57458::$$$message_0511_0027_0004$$$::Sua voz ecoa ainda mais do que a minha.::
-57459::$$$message_0511_0028_0000$$$::"...uau, incrível, Tohsaka. Aposto que te escutaram no[r]campo de tiro."[lr]::
-57460::$$$message_0511_0028_0001$$$::"ah... droga, você me deixou sair do sério de novo."[lr]::
+57459::$$$message_0511_0028_0000$$$::"...Uau, incrível, Tohsaka. Aposto que te escutaram no[r]campo de tiro."[lr]::
+57460::$$$message_0511_0028_0001$$$::"Ah... droga, você me deixou sair do sério de novo."[lr]::
 57461::$$$message_0511_0028_0002$$$::Rangindo os dentes, ela se afasta.::
 57462::$$$message_0511_0029_0000$$$::"[w l=3][line3]Heh. Tudo bem, como esperado. Sabia que você viria indefeso."[lr]::
 57463::$$$message_0511_0029_0001$$$::Então...[lr]::
@@ -98,7 +98,7 @@ id=qid::label=str::text=lstr::
 57468::$$$message_0511_0031_0000$$$::Ela olha para mim.[lr]::
 57469::$$$message_0511_0031_0001$$$::Acho que eu devia ficar nervoso por estar sozinha com ela, mas por causa do localização, não estou.::
 57470::$$$message_0511_0032_0000$$$::"...? Como assim? Está insinuando que sou um lobo em pele de cordeiro?"[lr]::
-57471::$$$message_0511_0032_0001$$$::"Isso é uma imitação. Você pode ser um cordeiro, mas se transformou em algo que mataria um lobo."::
+57471::$$$message_0511_0032_0001$$$::"Você é só uma imitação. Você pode ser um cordeiro, mas é um cordeiro mutante que mataria um lobo."::
 57472::$$$message_0511_0033_0000$$$::"...???"[lr]::
 57473::$$$message_0511_0033_0001$$$::Estou mais confuso ainda.[lr]::
 57474::$$$message_0511_0033_0002$$$::Na verdade... um cordeiro mutante não é mais um cordeiro, é?::
@@ -112,12 +112,12 @@ id=qid::label=str::text=lstr::
 57482::$$$message_0511_0036_0002$$$::Mostro a ela o papel que estava em minha mesa.::
 57483::$$$message_0511_0037_0000$$$::"Geez, não me assusta assim. Pensei que outra pessoa além de mim tivesse te trazido aqui."::
 57484::$$$message_0511_0038_0000$$$::"Você é muito precipitado. É verdade que eu estava irritado, mas nunca amaldiçoaria um bilhete. É só uma mensagem qualquer[w l=4][line4][lr]::
-57485::$$$message_0511_0038_0001$$$::...ei, por que você está franzindo assim?"::
+57485::$$$message_0511_0038_0001$$$::...Ei, por que você está franzindo assim?"::
 57486::$$$message_0511_0039_0000$$$::"......"[lr]::
 57487::$$$message_0511_0039_0001$$$::Minha expressão é normal.[lr]::
 57488::$$$message_0511_0039_0002$$$::Ela honestamente pensa que é um bilhete qualquer.[lr]::
 57489::$$$message_0511_0039_0003$$$::Bem, não importa o que ela acha, mas a minha imagem dela vira pó.::
-57490::$$$message_0511_0040_0000$$$::"...uh... será que eu inconscientemente amaldiocei ela com meu Gandr...?"[lr]::
+57490::$$$message_0511_0040_0000$$$::"...Uh... será que eu inconscientemente amaldiocei ela com meu Gandr...?"[lr]::
 57491::$$$message_0511_0040_0001$$$::"Huh? Não, a carta em si era normal. Mas isso é uma ameaça, não importa como você leia. Qualquer outro aluno teria avisado um professor na hora."::
 57492::$$$message_0511_0041_0000$$$::"N-Não pude evitar. Não tive tempo, e nem queria escrever uma carta formal pra você. Então isso é tudo que pude fazer."::
 57493::$$$message_0511_0042_0000$$$::"Okay. ...mas não precisava ter mudado sua letra. E aquela última linha foi assustadora de verdade."::
@@ -125,7 +125,7 @@ id=qid::label=str::text=lstr::
 57495::$$$message_0511_0043_0001$$$::Você fugiu de manhã, então pensei em colocar algo a mais pra fazer você vir aqui. Estava sendo boazinha quando resolvi colocar emoção nela."::
 57496::$$$message_0511_0044_0000$$$::"Heh, ótimo. Não ligo se você pensou que fosse uma ameaça. Você está aqui e isso é tudo que importa."::
 57497::$$$message_0511_0045_0000$$$::Irritada, ela desvia o olhar.[lr]::
-57498::$$$message_0511_0045_0001$$$::...bom, estou feliz em saber que ela tinha conhecimento de que aquele bilhete parecia uma ameaça.::
+57498::$$$message_0511_0045_0001$$$::...Bom, estou feliz em saber que ela tinha conhecimento de que aquele bilhete parecia uma ameaça.::
 57499::$$$message_0511_0046_0000$$$::"[w l=3][line3]Ótimo. Então, o que você quer, Tohsaka? Me chamando num lugar desses... quer lutar comigo?"::
 57500::$$$message_0511_0047_0000$$$::"Se quiser. Mas não me entenda mal, não estou te atacando porque o Archer está se recuperando. Já teria tomado seu Selo de Comando esta manhã se ele estivesse bem.[lr]::
 57501::$$$message_0511_0047_0001$$$::...eu queria mesmo fazer isso quando vi você zanzeando por aí de manhã, depois de eu ter dito várias vezes para você tomar cuidado."::
@@ -133,7 +133,7 @@ id=qid::label=str::text=lstr::
 57503::$$$message_0511_0048_0001$$$::Estou chocado.[lr]::
 57504::$$$message_0511_0048_0002$$$::Então, a Tohsaka está irritada com...[lr]::
 57505::$$$message_0511_0048_0003$$$::"...? Então você estava preocupada comigo, Tohsaka?"[lr]::
-57506::$$$message_0511_0048_0004$$$::...não sei por que, mas seria esse o caso?::
+57506::$$$message_0511_0048_0004$$$::...Não sei por que, mas seria esse o caso?::
 57507::$$$message_0511_0049_0000$$$::"N-Não é isso! Eu queria falar com você porque eu estava preocupada com o que aconteceu esta manhã.[lr]::
 57508::$$$message_0511_0049_0001$$$::Você estava prestes a dizer algo, não é? Eu estava preocupada, então decidi te ouvir."::
 57509::$$$message_0511_0050_0000$$$::"[w l=8][line8]"[lr]::
@@ -151,25 +151,25 @@ id=qid::label=str::text=lstr::
 57521::$$$message_0511_0054_0001$$$::"Sim. Tenho certeza que é porque seu avô, Matou Zouken, me contou. Ouvi dizer que a família Matou era uma família de [r]magos[w l=3][line3]você sabia disso, Tohsaka?"::
 57522::$$$message_0511_0055_0000$$$::"Claro. O único mago nesta cidade que eu não conhecia era você. Mas nunca pensei que fosse possível. Porque o Shinji..."::
 57523::$$$message_0511_0056_0000$$$::"Ele não é um mago. Ele não tem um Circuito Mágico, né? Foi isso o que o Matou Zouken disse.[lr]::
-57524::$$$message_0511_0056_0001$$$::...mas essa é a condição para ser um mago.[lr]::
+57524::$$$message_0511_0056_0001$$$::...Mas essa é a condição para ser um mago.[lr]::
 57525::$$$message_0511_0056_0002$$$::Acho que as condições para se tornar um Mestre são diferentes. Sou como o Shinji. Você não deve presumir que só magos se tornam Mestres."::
-57526::$$$message_0511_0057_0000$$$::"......entendo. Então, e o Shinji? Você o derrotou?"[lr]::
+57526::$$$message_0511_0057_0000$$$::"......Entendo. Então, e o Shinji? Você o derrotou?"[lr]::
 57527::$$$message_0511_0057_0001$$$::"Sim. A Saber derrotou sua Serva, Rider. Seu livro, seu Selo de Comando, queimou, então ele não é mais um Mestre.[lr]::
 57528::$$$message_0511_0057_0002$$$::...mas não acho que ele desistiu. Isso sozinho é perigoso, mas ainda por cima, a Sakura tem que viver com ele."::
 57529::$$$message_0511_0058_0000$$$::"Ouvi do Zouken que a magia só é ensinada ao seu sucessor. A Sakura foi criada sem saber nada, então ela não sabe o que o Shinji está fazendo.[lr]::
 57530::$$$message_0511_0058_0001$$$::Enquanto ela não descobrir, ela não acabará envolvida nesta guerra entre Mestres."::
-57531::$$$message_0511_0059_0000$$$::"......você está certo. Então por que você acha que a Sakura está em perigo?"[lr]::
+57531::$$$message_0511_0059_0000$$$::"......Você está certo. Então por que você acha que a Sakura está em perigo?"[lr]::
 57532::$$$message_0511_0059_0001$$$::"Eu te disse que o Shinji está perigoso agora. Ele pode descontar sua raiva nela, e quem sabe o vai acontecer se ele fizer algo pior.[lr]::
-57533::$$$message_0511_0059_0002$$$::"Já te disse que ele está instável agora. Se continuar assim, quem sabe se a Sakura continuará inocente, já que ela mora com ele.[lr]::
+57533::$$$message_0511_0059_0002$$$::É por isso que..."::
 57534::$$$message_0511_0060_0000$$$::"Então você quer acabar com isso antes que haja uma chance dela se envolver? Sua ideia é boa, mas impossível. Apenas olhe o Templo Ryuudou. Os outros Mestres são traiçoeiros. Acho que essa Guerra do Santo Graal vai durar mais do que o esperado."[lr]::
 57535::$$$message_0511_0060_0001$$$::"[w l=8][line8]"::
-57536::$$$message_0511_0061_0000$$$::...entendo.[lr]::
+57536::$$$message_0511_0061_0000$$$::...Certo.[lr]::
 57537::$$$message_0511_0061_0001$$$::A melhor saída seria o Shinji desistir, mas isso é impossível.[lr]::
 57538::$$$message_0511_0061_0002$$$::A única opção é separar a Sakura dele[w l=4][line4]::
 57539::$$$message_0511_0062_0000$$$::"Então só há uma solução. Se você não quer envolver a Sakura, você terá que colocar ela sob sua proteção."[lr]::
 57540::$$$message_0511_0062_0001$$$::"[w l=2][line2]Eu pensei nisso, mas também sou um Mestre.[lr]::
 57541::$$$message_0511_0062_0002$$$::É perigoso demais ter ela na minha casa, e o Shinji nunca toleraria isso. Além disso, duvido que ela queira ficar lá."::
-57542::$$$message_0511_0063_0000$$$::"...meu Deus. Como você é denso, Emiya-kun."[lr]::
+57542::$$$message_0511_0063_0000$$$::"...Nossa. Como você é denso, Emiya-kun."[lr]::
 57543::$$$message_0511_0063_0001$$$::"Huh?"::
 57544::$$$message_0511_0064_0000$$$::"Esquece. Só vai e pergunta pra ela. Proteger a Sakura do Shinji e proteger ela dos outros Mestres são a mesma coisa.[lr]::
 57545::$$$message_0511_0064_0001$$$::Você não deveria optar pelo o que deixa você fazer algo a respeito disso? ...hum, se essa Sakura é importante pra você."::
@@ -191,14 +191,14 @@ id=qid::label=str::text=lstr::
 57561::$$$message_0511_0070_0001$$$::Já que eles estão ficando mais fortes diariamente, quero conseguir derrotá-los o mais breve possível, mas a ferida do Archer ainda não melhorou.[lr]::
 57562::$$$message_0511_0070_0002$$$::Bem, vou sentar e observar mais um pouco já que há um limite de energia mágica que eles podem usar de uma vez, não importa quanta energia eles guardem."::
 57563::$$$message_0511_0071_0000$$$::"[w l=8][line8]"[lr]::
-57564::$$$message_0511_0071_0001$$$::...um Mestre no Templo Ryuudou.[lr]::
+57564::$$$message_0511_0071_0001$$$::...Um Mestre no Templo Ryuudou.[lr]::
 57565::$$$message_0511_0071_0002$$$::A Tohsaka está tentando seu melhor como Mestra, embora seu Servo esteja mal ainda.::
 57566::$$$message_0511_0072_0000$$$::"Isso é tudo.[lr]::
 57567::$$$message_0511_0072_0001$$$::[w l=3][line3]Até mais, Emiya-kun. Você deveria ir pra casa logo e confortar sua junior logo."::
 57568::$$$message_0511_0073_0000$$$::"Ei, Tohsaka...!"[lr]::
 57569::$$$message_0511_0073_0001$$$::Eu paro-a, mas ela me ignora e vá até a área de tiro.::
 57570::$$$message_0511_0074_0000$$$::"...?"[lr]::
-57571::$$$message_0511_0074_0001$$$::...o que foi isso?[lr]::
+57571::$$$message_0511_0074_0001$$$::...O que foi isso?[lr]::
 57572::$$$message_0511_0074_0002$$$::A Tohsaka estava mal-humorada este tempo todo, mas algo estava diferente neste final.::
 57573::$$$message_0511_0075_0000$$$::"Ah, já é hora de ir... melhor eu ir pra casa logo."[lr]::
 57574::$$$message_0511_0075_0001$$$::Eu ouço o sinal das 17h.[lr]::

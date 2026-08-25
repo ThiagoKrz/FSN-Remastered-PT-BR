@@ -1,15 +1,14 @@
 DAT
 id=qid::label=str::text=lstr::
-61103::$$$message_0557_0000_0000$$$::...acho que não posso evitar.[lr]::
-61104::$$$message_0557_0000_0001$$$::Direi a ela os fatos sem detalhar muito.::
+61103::$$$message_0557_0000_0000$$$::...não tem mais como evitar.[lr]::
+61104::$$$message_0557_0000_0001$$$::Vou contar os fatos sem revelar demais.::
 61105::$$$message_0557_0001_0000$$$::"Quem estava em seu sonho, Senpai?"[lr]::
-61106::$$$message_0557_0001_0001$$$::"...bem, um. Era só a Tohsaka."[lr]::
-61107::$$$message_0557_0001_0002$$$::Confesso.::
-61108::$$$message_0557_0002_0000$$$::"[w l=3][line3]Entendo. A Tohsaka-Senpai veio aqui no outro dia também, né?"[lr]::
-61109::$$$message_0557_0002_0001$$$::"Ah... sim. Ela cuidou do meu ferimento, mas foi embora logo depois."::
-61110::$$$message_0557_0003_0000$$$::"...Okay. Então vou deixar o termômetro aqui."[lr]::
-61111::$$$message_0557_0003_0001$$$::A Sakura coloca o termômetro de lado e vai até a porta com passos pesados.::
-61112::$$$message_0557_0004_0000$$$::"Com licença, mas preciso fazer o almoço. Vou vir te chamar quando estiver pronto, então descanse até lá."[lr]::
-61113::$$$message_0557_0004_0001$$$::Ela fecha o shouji atrás dela.[lr]::
-61114::$$$message_0557_0004_0002$$$::Seus passos parecem mais frios do que de costume.::
-
+61106::$$$message_0557_0001_0001$$$::"Bem, uh, a única pessoa lá era a Tohsaka[line2]"[lr]::
+61107::$$$message_0557_0001_0002$$$::Ela me arranca a confissão na hora.::
+61108::$$$message_0557_0002_0000$$$::"Entendo. A Tohsaka-senpai veio aqui outro dia também, não veio?"[lr]::
+61109::$$$message_0557_0002_0001$$$::"Uh... sim. Ela só fez uns primeiros socorros e foi embora logo depois."::
+61110::$$$message_0557_0003_0000$$$::"...entendi. Então vou deixar o termômetro aqui."[lr]::
+61111::$$$message_0557_0003_0001$$$::Sakura põe o termômetro no chão e caminha até a porta do quarto com passos pesados.::
+61112::$$$message_0557_0004_0000$$$::"Vou preparar o almoço agora. Venho te chamar quando estiver pronto, então descanse até lá."[lr]::
+61113::$$$message_0557_0004_0001$$$::Ela fecha a porta com um baque suave.[lr]::
+61114::$$$message_0557_0004_0002$$$::O som dos passos dela se afastando parece mais frio que o normal.::

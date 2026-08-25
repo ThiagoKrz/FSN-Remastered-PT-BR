@@ -1,27 +1,26 @@
 DAT
 id=qid::label=str::text=lstr::
-57323::$$$message_0509_0000_0000$$$::"Ótimo. Se é assim, vamos acertar as coisas aqui e agora. Não acredito que você veio pra escola sem sua Serva[w l=4][line4]"[lr]::
-57324::$$$message_0509_0000_0001$$$::"Me desculpa! Eu imploro! Por favor vamos conversar!"[lr]::
-57325::$$$message_0509_0000_0002$$$::Eu me aproximo da Tohsaka e empurro-a contra a parede.[lr]::
-57326::$$$message_0509_0000_0003$$$::Não posso deixar os outros ouvirem isso.::
-57327::$$$message_0509_0001_0000$$$::"E-Ei, que ideia foi essa...!? Não foi isso que eu quis dizer, e há outras pessoas aqui...!"::
-57328::$$$message_0509_0002_0000$$$::"Por favor, você é a única em quem posso confiar. A Sakura pode acabar envolvida na Guerra do Santo Graal, e eu não sei o que fazer. Você sabe muita coisa, então me diga, há algum meio de proteger a Sakura sem dizer nada a ela[w l=3][line3]!?"[lr]::
-57329::$$$message_0509_0002_0001$$$::"[w l=4][line4]"::
-57330::$$$message_0509_0003_0000$$$::A Tohsaka me olha com completa surpresa.[lr]::
-57331::$$$message_0509_0003_0001$$$::"Ah... d-desculpa. Fiquei afobado porque você chegou na hora certa.[lr]::
-57332::$$$message_0509_0003_0002$$$::...um, a Sakura é minha junior. Ela pode acabar envolvida na Guerra do Santo Graal, e não quero isso. Mas não consigo pensar em nada, então..."::
-57333::$$$message_0509_0004_0000$$$::"[w l=4][line4]Não ligo pra suas desculpas. Pode me soltar logo?[lr]::
+57323::$$$message_0509_0000_0000$$$::"Certo. Se você quer resolver isso agora, eu resolvo. Não acredito que veio para a escola sem trazer seu Servo[line4]"[lr]::
+57324::$$$message_0509_0000_0001$$$::"Desculpa! Eu te imploro, Tohsaka, me ajuda!"[lr]::
+57325::$$$message_0509_0000_0002$$$::Eu me aproximo de Tohsaka e a encurralo contra a parede.[lr]::
+57326::$$$message_0509_0000_0003$$$::O assunto é sério demais; não posso deixar os alunos ao redor ouvirem.::
+57327::$$$message_0509_0001_0000$$$::"E-Ei, que ideia foi essa...!? Eu estava falando no sentido figurado, e ainda tem gente em volta...!"::
+57328::$$$message_0509_0002_0000$$$::"Por favor, você é a única em quem posso confiar. Sakura está prestes a ser arrastada para a Guerra do Santo Graal, e eu não sei o que fazer. Você sabe muita coisa, então deve ter algum jeito de protegê-la sem ela descobrir[line3]!?"[lr]::
+57329::$$$message_0509_0002_0001$$$::"[line4]"::
+57330::$$$message_0509_0003_0000$$$::Tohsaka fica me encarando, boquiaberta.[lr]::
+57331::$$$message_0509_0003_0001$$$::"Ah... d-desculpa. Você apareceu na hora tão certa que eu acabei perdendo a cabeça.[lr]::
+57332::$$$message_0509_0003_0002$$$::...Bom, a Sakura é minha kouhai. Ela pode acabar se envolvendo na Guerra do Santo Graal, e eu quero fazer alguma coisa. Só que não consigo pensar em nenhum jeito, então..."::
+57333::$$$message_0509_0004_0000$$$::"[line4]Chega de desculpas. Pode sair de cima de mim logo?[lr]::
 57334::$$$message_0509_0004_0001$$$::A aula já vai começar."[lr]::
-57335::$$$message_0509_0004_0002$$$::"...! A-Ah, me desculpa, não percebi...!"::
-57336::$$$message_0509_0005_0000$$$::Rapidamente solto a Tohsaka.[lr]::
-57337::$$$message_0509_0005_0001$$$::...sinto minha cara vermelha.[lr]::
-57338::$$$message_0509_0005_0002$$$::O que eu estava pensando, empurrando-a contra a parede assim...!?::
-57339::$$$message_0509_0006_0000$$$::"Me desculpa. Sei que estou pedindo muitas, mas por favor me escute. Eu[w l=4][line4]"[lr]::
-57340::$$$message_0509_0006_0001$$$::"...você quer me perguntar algo, sim? Tudo bem, ouvirei."[lr]::
-57341::$$$message_0509_0006_0002$$$::"Que? S-Sério!?"::
-57342::$$$message_0509_0007_0000$$$::"...ei ei. Parece que você vai morrer se eu não te ouvir. Venha ao telhado durante almoço. Te ouvirei lá."[lr]::
-57343::$$$message_0509_0007_0001$$$::A Tohsaka vira e sobe as escadas.::
-57344::$$$message_0509_0008_0000$$$::Enquanto olho-a chocado...[lr]::
-57345::$$$message_0509_0008_0001$$$::"[w l=4][line4]Idiota. Vai se atrasar se não correr."[lr]::
-57346::$$$message_0509_0008_0002$$$::...ela vai embora, deixando essas palavras.::
-
+57335::$$$message_0509_0004_0002$$$::"...! D-desculpa, eu nem percebi...!"::
+57336::$$$message_0509_0005_0000$$$::Eu me afasto de Tohsaka às pressas.[lr]::
+57337::$$$message_0509_0005_0001$$$::...Só depois é que minhas bochechas começam a queimar.[lr]::
+57338::$$$message_0509_0005_0002$$$::O que deu em mim para encurralar a Tohsaka contra a parede assim...!?::
+57339::$$$message_0509_0006_0000$$$::"...Desculpa. Eu sei que só estou me desculpando, mas por favor, me escuta. Eu[line4]"[lr]::
+57340::$$$message_0509_0006_0001$$$::"...Você quer minha ajuda, não é? Tudo bem, eu escuto."[lr]::
+57341::$$$message_0509_0006_0002$$$::"Hã[line3]é sério, Tohsaka!?"::
+57342::$$$message_0509_0007_0000$$$::"...Fala sério. Depois de fazer essa cara de quem vai morrer se eu disser não, você ainda pergunta se é sério? No telhado, na hora do almoço. Eu te escuto lá."[lr]::
+57343::$$$message_0509_0007_0001$$$::Tohsaka vira o rosto e sobe as escadas.::
+57344::$$$message_0509_0008_0000$$$::Enquanto fico olhando para ela, atordoado,[lr]::
+57345::$$$message_0509_0008_0001$$$::"[line4]Idiota. Vai se atrasar se não correr."[lr]::
+57346::$$$message_0509_0008_0002$$$::ela deixa essas palavras para trás, com um tom meio emburrado.::

@@ -2,36 +2,36 @@ DAT
 id=qid::label=str::text=lstr::
 61139::$$$message_0559_0000_0000$$$::"Obrigado pela refeição."[lr]::
 61140::$$$message_0559_0000_0001$$$::"Obrigado pela refeição."[lr]::
-61141::$$$message_0559_0000_0002$$$::Cumprimentos juntos.[lr]::
-61142::$$$message_0559_0000_0003$$$::"De nada. Uau, você dois comeram tudo que tinham nas suas tigelas."::
+61141::$$$message_0559_0000_0002$$$::Agradecemos juntos a quem cozinhou.[lr]::
+61142::$$$message_0559_0000_0003$$$::"Fico feliz que tenham gostado. Vocês dois comeram tudo, até o último grão."::
 61143::$$$message_0559_0001_0000$$$::A Sakura começa a limpar as coisas do almoço.[lr]::
-61144::$$$message_0559_0001_0001$$$::Há três tigelas e condimentos na mesa.::
-61145::$$$message_0559_0002_0000$$$::"Ah, eu limpo. Me sinto melhor, então por favor, pelo menos me deixa fazer isso."[lr]::
-61146::$$$message_0559_0002_0001$$$::"Sério? Então por favor, como teste para ver se está melhor, faça. Limparei os pratos, então leve-os para a cozinha e limpe a mesa."::
-61147::$$$message_0559_0003_0000$$$::Amarrando o avental, a Sakura vai para a cozinha.[lr]::
-61148::$$$message_0559_0003_0001$$$::Bem, devo carregar essas tigelas e panela daqui.::
+61144::$$$message_0559_0001_0001$$$::Sobre a mesa estão uma panela de barro, três tigelas e todos os acompanhamentos para udon.::
+61145::$$$message_0559_0002_0000$$$::"Ah, deixa que eu limpo. Minha febre melhorou, então é o mínimo que posso fazer."[lr]::
+61146::$$$message_0559_0002_0001$$$::"Sério? Então vou pedir uma ajudinha para ver quanto você já se recuperou. Eu lavo a louça, então leve os pratos sujos e limpe a mesa, por favor."::
+61147::$$$message_0559_0003_0000$$$::Sakura põe o avental e vai para a cozinha.[lr]::
+61148::$$$message_0559_0003_0001$$$::Então vou levar a panela de barro e as tigelas.::
 61149::$$$message_0559_0004_0000$$$::"Tudo bem, Shirou? Ouvi que sua febre abaixou, mas você ainda está pálido."[lr]::
-61150::$$$message_0559_0004_0001$$$::"Huh? Estou tão mal assim?"::
-61151::$$$message_0559_0005_0000$$$::"...Hm. Não, sua cara só está pálida.[lr]::
-61152::$$$message_0559_0005_0001$$$::Lhe falta energia mágica, a salva-vidas de um mago. Notei nada durante a batalha passada, mas aquele templo poderia estar modificado para sugar energia."::
-61153::$$$message_0559_0006_0000$$$::"[w l=4][line4]Hmm."[lr]::
-61154::$$$message_0559_0006_0001$$$::...agora que ela mencionou, algo realmente estava estranho no Templo Ryuudou.[lr]::
-61155::$$$message_0559_0006_0002$$$::Todos lá estavam enfraquecidos. É possível que a Caster tenha montado um Campo Limitado para sugar a vida de qualquer um dentro.::
-61156::$$$message_0559_0007_0000$$$::"Bem, me sinto melhor, então está tudo bem. Minha energia mágica deve voltar se eu em alimentar bem. Minha capacidade não é tão alta, então deve voltar ao normal assim que eu jantar."::
-61157::$$$message_0559_0008_0000$$$::"Geez. Não insistirei muito se assim quer. ...a Sakura tem razão. Parece que você leva as coisas na brincadeira quando se trata de si."[lr]::
-61158::$$$message_0559_0008_0001$$$::A Saber começa a empilhar as tigelas.::
-61159::$$$message_0559_0009_0000$$$::"Devo dar elas para a Sakura, correto? Levarei a panela também, então limpe a mesa por favor, Shirou."[lr]::
-61160::$$$message_0559_0009_0001$$$::A Saber vai a cozinha sem esperar minha resposta.::
+61150::$$$message_0559_0004_0001$$$::"Hã? Ainda estou pálido?"::
+61151::$$$message_0559_0005_0000$$$::"...hm. Não exatamente pálido, mas abatido.[lr]::
+61152::$$$message_0559_0005_0001$$$::Sua energia mágica, que pode ser considerada sua linha vital como Mestre[line2]como mago[line2]ainda está baixa. Não me lembro de a batalha de ontem ter exigido tanto de você, mas o inimigo talvez tenha preparado algum mecanismo para drenar sua energia no terreno do templo."::
+61153::$$$message_0559_0006_0000$$$::"Hmm..."[lr]::
+61154::$$$message_0559_0006_0001$$$::Agora que ela mencionou, o Templo Ryuudou realmente parecia estranho de algum modo.[lr]::
+61155::$$$message_0559_0006_0002$$$::Todas as pessoas lá dentro estavam enfraquecidas, então talvez Caster tenha montado um Campo Limitado para drenar energia vital dos humanos no interior.::
+61156::$$$message_0559_0007_0000$$$::"Estou me sentindo melhor agora, então não tem problema. Minha energia mágica volta se eu me alimentar direito. Minha capacidade de energia nem é grande coisa, então tenho certeza de que enche de novo depois do jantar."::
+61157::$$$message_0559_0008_0000$$$::"Você conhece melhor o próprio corpo, então não insistirei se diz isso. Ainda assim, Sakura tem razão. Você trata seu próprio estado com leviandade demais."[lr]::
+61158::$$$message_0559_0008_0001$$$::Saber empilha as três tigelas enquanto diz isso.::
+61159::$$$message_0559_0009_0000$$$::"Só preciso entregar isto à Sakura, correto? Também levarei a panela, então limpe a mesa, Shirou."[lr]::
+61160::$$$message_0559_0009_0001$$$::Ela vai para a cozinha sem esperar minha resposta.::
 61161::$$$message_0559_0010_0000$$$::"Devo colocar as tigelas aqui, Sakura?"[lr]::
-61162::$$$message_0559_0010_0001$$$::"Saber-san? Ah, sim. Por favor coloque a louça suja aqui."[lr]::
-61163::$$$message_0559_0010_0002$$$::"Entendo. Falando nisso, Sakura, o almoço estava muito gostoso. Aceite meus cumprimentos, por favor."[lr]::
-61164::$$$message_0559_0010_0003$$$::"Ahaha, tenho muito a aprender. O Senpai é o melhor de todos quando se trata de mingau de arroz e udon."::
+61162::$$$message_0559_0010_0001$$$::"Oh, Saber? Sim, pode deixar a louça suja aí."[lr]::
+61163::$$$message_0559_0010_0002$$$::"Entendo. Além disso, o almoço estava delicioso. Preciso agradecer novamente."[lr]::
+61164::$$$message_0559_0010_0003$$$::"Ahaha, ainda tenho muito a aprender. Quando o assunto é mingau de arroz e udon, o Senpai é o melhor de todos."::
 61165::$$$message_0559_0011_0000$$$::"......"[lr]::
 61166::$$$message_0559_0011_0001$$$::Posso ouvir uma conversa amigável vindo da cozinha.[lr]::
-61167::$$$message_0559_0011_0002$$$::"Ah. Então a Sakura está se dando bem com a Saber."[lr]::
-61168::$$$message_0559_0011_0003$$$::Talvez porque as duas se ajudaram a limpar de manhã.[lr]::
+61167::$$$message_0559_0011_0002$$$::"Ah. Então a Sakura está se dando bem com Saber."[lr]::
+61168::$$$message_0559_0011_0003$$$::Talvez porque as duas tenham arrumado a casa juntas de manhã.[lr]::
 61169::$$$message_0559_0011_0004$$$::De qualquer forma, é bom que as duas estejam se dando bem.::
-61170::$$$message_0559_0012_0000$$$::"Bem, devo fazer um pouco de chá."[lr]::
-61171::$$$message_0559_0012_0001$$$::Coloco folhas de chá e a chaleira na mesa.::
-61172::$$$message_0559_0012_0002$$$::São quase uma da tarde.[lr]::
-61173::$$$message_0559_0012_0003$$$::É uma boa hora para uma pausa, então[w l=4][line4][lr]::
+61170::$$$message_0559_0012_0000$$$::"Bem, vou fazer um pouco de chá."[lr]::
+61171::$$$message_0559_0012_0001$$$::Coloco um pequeno bule e as folhas de chá sobre a mesa.::
+61172::$$$message_0559_0012_0002$$$::É quase uma da tarde.[lr]::
+61173::$$$message_0559_0012_0003$$$::É o momento perfeito para uma pausa depois do almoço. Eu...[lr]::

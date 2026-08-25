@@ -1,30 +1,29 @@
 DAT
 id=qid::label=str::text=lstr::
-61887::$$$message_0566_0000_0000$$$::[w l=3][line3]Patrulharemos a cidade de Miyama.[lr]::
-61888::$$$message_0566_0000_0001$$$::É porque quero assegurar meu território, mas também, a cidade de Miyama não é tão populada como Shinto.[lr]::
-61889::$$$message_0566_0000_0002$$$::Temo que Servos terão mais liberdade de matar inocentes sem ninguém notar.::
-61890::$$$message_0566_0001_0000$$$::"Olharemos o distrito residencial por agora. ...sei que esta área é o território da Tohsaka e que outros Mestres não poderam fazer nada tão facilmente, mas queremos nos certificar."[lr]::
-61891::$$$message_0566_0001_0001$$$::"Entendido. Já verifiquei que não há inimigos por aqui, mas vamos patrulhar a colina oposta."::
-61892::$$$message_0566_0002_0000$$$::Ela deve estar se referindo ao bairro ocidental.[lr]::
-61893::$$$message_0566_0002_0001$$$::Parece que ela patrulhou a cidade enquanto eu estava na escola ontem.::
-61894::$$$message_0566_0003_0000$$$::"Shirou? Não estamos indo?"[lr]::
-61895::$$$message_0566_0003_0001$$$::"A-Ah, sim. Então me siga por favor, Saber."::
+61887::$$$message_0566_0000_0000$$$::   Vamos patrulhar Miyama.[lr]::
+61888::$$$message_0566_0000_0001$$$::Quero proteger nosso próprio território, mas, acima de tudo, Miyama não tem tanta gente quanto Shinto.[lr]::
+61889::$$$message_0566_0000_0002$$$::Tenho medo do que pode acontecer aos moradores indefesos se cruzarem com um Servo à espreita durante a noite. Podem virar vítimas sem ninguém nem perceber que sumiram.::
+61890::$$$message_0566_0001_0000$$$::"Vamos verificar os bairros residenciais esta noite... esta é a área da Tohsaka, então não é fácil para outros Mestres agirem aqui, mas quero tomar cuidado."[lr]::
+61891::$$$message_0566_0001_0001$$$::"Entendido. Já constatei que não há inimigos por perto, então investiguemos as colinas adiante."::
+61892::$$$message_0566_0002_0000$$$::Por "adiante", ela deve estar falando dos bairros em estilo europeu.[lr]::
+61893::$$$message_0566_0002_0001$$$::Saber deve ter tomado a iniciativa de verificar a área ao redor da nossa casa enquanto eu estava na escola ontem.::
+61894::$$$message_0566_0003_0000$$$::"Shirou? Não vamos sair em patrulha?"[lr]::
+61895::$$$message_0566_0003_0001$$$::"S-sim. Venha comigo, Saber."::
 61896::$$$message_0566_0004_0000$$$::Apago a luz da sala de estar.[lr]::
-61897::$$$message_0566_0004_0001$$$::Saimos em silêncio para não acordar a Sakura.::
-61898::$$$message_0566_0005_0000$$$::...não notamos nada de errado na cidade de Miyama.[lr]::
-61899::$$$message_0566_0005_0001$$$::Fomos a casa dos Matous, mas estava quieto, e não sentimos a presença de energia mágica nem de um Servo.::
-61900::$$$message_0566_0006_0000$$$::"...não venho nada de anormal. Faz um dia que Caster foi eliminada. Acredito que os demais Mestres estão de olho."[lr]::
+61897::$$$message_0566_0004_0001$$$::Para não acordar Sakura, saio de casa o mais silenciosamente possível.::
+61898::$$$message_0566_0005_0000$$$::...não encontramos nada fora do comum em Miyama.[lr]::
+61899::$$$message_0566_0005_0001$$$::Fui até a casa dos Matou por via das dúvidas, mas o terreno estava quieto, e não captamos nenhum traço de Servo nem de energia mágica.::
+61900::$$$message_0566_0006_0000$$$::"...nada parece particularmente errado. Já faz um dia desde que Caster foi eliminada. Imagino que os outros Mestres também estejam monitorando a situação."[lr]::
 61901::$$$message_0566_0006_0001$$$::"...sim. Espero que sim."::
-61902::$$$message_0566_0007_0000$$$::De acordo com a Saber, a energia de Caster, que permeava Shinto, está sumindo.[lr]::
-61903::$$$message_0566_0007_0001$$$::Não há tantos Mestres que sugaram energia mágica de inocentes agora.::
-61904::$$$message_0566_0007_0002$$$::Mas[w l=3][line3]o que é esse desconforto vago?::
+61902::$$$message_0566_0007_0000$$$::Segundo Saber, a maior parte dos fios mágicos que Caster espalhara pela cidade desapareceu.[lr]::
+61903::$$$message_0566_0007_0001$$$::Já não há um Mestre drenando energia mágica das pessoas na cidade.[lr]::
+61904::$$$message_0566_0007_0002$$$::Então... o que é essa vaga sensação de ansiedade?::
 61905::$$$message_0566_0008_0000$$$::A cidade está quieta.[lr]::
-61906::$$$message_0566_0008_0001$$$::Este lugar está deserto.[lr]::
-61907::$$$message_0566_0008_0002$$$::Parecia quieto ontem também, mas hoje está desolado, quase como se estivessemos preso em uma fotografia.::
+61906::$$$message_0566_0008_0001$$$::Não há uma alma nas ruas.[lr]::
+61907::$$$message_0566_0008_0002$$$::Ontem à noite também estava quieta, mas hoje a cidade parece tão fria e vazia de vida que é como olhar para uma pintura imóvel.::
 61908::$$$message_0566_0009_0000$$$::"Vamos voltar, Shirou. Não há nada de errado nesta área.[lr]::
-61909::$$$message_0566_0009_0001$$$::Você parece estar mal também, então vamos voltar e descansar por hoje."[lr]::
-61910::$$$message_0566_0009_0002$$$::"S-Sim, tem razão. É quase meia-noite, então vamos voltar."[lr]::
-61911::$$$message_0566_0009_0003$$$::Incitado pela Saber, subimos a colina.::
-61912::$$$message_0566_0010_0000$$$::...a cidade está quieta.[lr]::
-61913::$$$message_0566_0010_0001$$$::O céu escuro sufoca tudo, como se a lua tivesse congelado por completo.::
-g
+61909::$$$message_0566_0009_0001$$$::Você também parece mal, então deveria descansar esta noite."[lr]::
+61910::$$$message_0566_0009_0002$$$::"Ah... sim, tem razão. Também já é quase meia-noite. Vamos voltar."[lr]::
+61911::$$$message_0566_0009_0003$$$::A pedido de Saber, pegamos o caminho de volta pela colina.::
+61912::$$$message_0566_0010_0000$$$::...é uma cidade quieta.[lr]::
+61913::$$$message_0566_0010_0001$$$::O céu escuro sufoca tudo, como se a lua estivesse congelada por completo.::

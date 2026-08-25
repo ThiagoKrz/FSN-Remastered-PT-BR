@@ -1,228 +1,227 @@
 DAT
 id=qid::label=str::text=lstr::
-61268::$$$message_0562_0000_0000$$$::"[w l=4][line4]Ah é[w l=4][line4]"[lr]::
+61268::$$$message_0562_0000_0000$$$::"Ah, pensando bem..."[lr]::
 61269::$$$message_0562_0000_0001$$$::Eu esqueci disso por causa de tudo que aconteceu esta manhã, mas eu prometi que me encontraria com a Illya.[lr]::
-61270::$$$message_0562_0000_0002$$$::...bem, não foi bem uma promessa, mas seria desonesto não ir, já que fui eu quem perguntou se poderíamos nos ver de novo.::
+61270::$$$message_0562_0000_0002$$$::...Certo, não foi exatamente uma promessa, mas fui eu quem perguntou se poderia vê-la de novo. Seria muita falta de educação não esperar por ela no parque.::
 61271::$$$message_0562_0001_0000$$$::"A Saber e a Sakura estão..."[lr]::
 61272::$$$message_0562_0001_0001$$$::Estão lavando louça junto.[lr]::
-61273::$$$message_0562_0001_0002$$$::Se eu disser a elas que vou sair, elas vão me impedir ou insistir para que ir junto.::
+61273::$$$message_0562_0001_0002$$$::Se eu disser a elas que vou sair, elas vão me impedir ou insistir em vir comigo.::
 61274::$$$message_0562_0002_0000$$$::Se eu for ver a Illya, devo ir sozinho.[lr]::
-61275::$$$message_0562_0002_0001$$$::Me sinto mal, mas deixarei uma nota e vou escapulir[w l=4][line4]::
+61275::$$$message_0562_0002_0001$$$::Peço desculpas à Saber e à Sakura, mas vou deixar uma nota e escapulir...::
 61276::$$$message_0562_0003_0000$$$::"[w l=4][line4]Ufa."[lr]::
-61277::$$$message_0562_0003_0001$$$::Consegui sair.[lr]::
+61277::$$$message_0562_0003_0001$$$::De algum modo, consegui sair sem que elas percebessem.[lr]::
 61278::$$$message_0562_0003_0002$$$::Deixei uma nota dizendo, "Vou comprar algumas coisas para jantar. Volto em uma hora," então elas não devem se preocupar muito.::
-61279::$$$message_0562_0004_0000$$$::"Hm... Então ela não está aqui, como pensei."[lr]::
+61279::$$$message_0562_0004_0000$$$::"Parece... que a Illya não está aqui."[lr]::
 61280::$$$message_0562_0004_0001$$$::Não há ninguém no parque.[lr]::
-61281::$$$message_0562_0004_0002$$$::Mesmo com os apartamentos imponentes acima, esse lugar é tão frio que parece que vai começar a nevar a qualquer instante.::
-61282::$$$message_0562_0005_0000$$$::"...bem, não sei sobre o que falariamos mesmo se ela estivesse aqui."[lr]::
+61281::$$$message_0562_0004_0002$$$::O pequeno parque cercado por prédios parece desolado, e está tão frio que dá a sensação de que logo tudo ficará coberto de neve.::
+61282::$$$message_0562_0005_0000$$$::"...Bem, eu nem saberia sobre o que conversar se ela estivesse aqui."[lr]::
 61283::$$$message_0562_0005_0001$$$::Sento no banco.[lr]::
 61284::$$$message_0562_0005_0002$$$::Colocando a sacola de lado, olho para o céu escuro.[lr]::
-61285::$$$message_0562_0005_0003$$$::...parece que o presente que eu comprei no distrito comercial foi desperdício.::
-61286::$$$message_0562_0006_0000$$$::"[w l=8][line8]"[lr]::
+61285::$$$message_0562_0005_0003$$$::Parece que a lembrancinha que comprei no distrito comercial foi desperdício.::
+61286::$$$message_0562_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
 61287::$$$message_0562_0006_0001$$$::Olho para o céu, distraído.[lr]::
 61288::$$$message_0562_0006_0002$$$::Deve ser porque este lugar está cercado por prédios.[lr]::
 61289::$$$message_0562_0006_0003$$$::Só um quadradinho de céu está visível, e parece mais distante do que de costume.::
 61290::$$$message_0562_0007_0000$$$::"[w l=7][line7]Está frio."[lr]::
 61291::$$$message_0562_0007_0001$$$::Posso ver minha respiração.[lr]::
-61292::$$$message_0562_0007_0002$$$::O ar frio e seco está congelando, e não seria surpreendente se começásse a nevar.::
-61293::$$$message_0562_0008_0000$$$::"[w l=4][line4]Bem, devo ir para casa."[lr]::
+61292::$$$message_0562_0007_0002$$$::O ar frio e seco congela a pele, e eu não me surpreenderia se começasse a nevar.::
+61293::$$$message_0562_0008_0000$$$::"Acho que vou para casa, então."[lr]::
 61294::$$$message_0562_0008_0001$$$::Pego a sacola e me levanto.[lr]::
 61295::$$$message_0562_0008_0002$$$::Já passou das duas.[lr]::
-61296::$$$message_0562_0008_0003$$$::Tenho que ir embora agora se quiser chegar a tempo.::
-61297::$$$message_0562_0009_0000$$$::"Huh[w l=4][line4]?"[lr]::
+61296::$$$message_0562_0008_0003$$$::Se eu não voltar logo, elas vão saber que eu menti.::
+61297::$$$message_0562_0009_0000$$$::"Hã?"[lr]::
 61298::$$$message_0562_0009_0001$$$::Minhas pernas congelam.[lr]::
 61299::$$$message_0562_0009_0002$$$::Elas não se movem.[lr]::
-61300::$$$message_0562_0009_0003$$$::Nem um pouquinho, não importa o quanto eu tente[w l=4][line4]::
-61301::$$$message_0562_0010_0000$$$::"[w l=4][line4]"[lr]::
-61302::$$$message_0562_0010_0001$$$::Minha visão embaça.[lr]::
-61303::$$$message_0562_0010_0002$$$::Não, isso é pouco.[lr]::
-61304::$$$message_0562_0010_0003$$$::Ela nem mesmo funciona.[lr]::
-61305::$$$message_0562_0010_0004$$$::Meus olhos afundaram no meu crânio, e não consigo perceber a distância.::
-61306::$$$message_0562_0011_0000$$$::"[w l=4][line4]Ah[w l=8][line8]"[lr]::
+61300::$$$message_0562_0009_0003$$$::Por mais força que eu faça, elas continuam paradas.::
+61301::$$$message_0562_0010_0000$$$::[font italic=true]...[font italic=false][lr]::
+61302::$$$message_0562_0010_0001$$$::O mundo se distorce.[lr]::
+61303::$$$message_0562_0010_0002$$$::Não, não é isso que está acontecendo.[lr]::
+61304::$$$message_0562_0010_0003$$$::Minha visão está quebrada.[lr]::
+61305::$$$message_0562_0010_0004$$$::Meus olhos afundam no crânio, e perco qualquer noção de distância ao meu redor.::
+61306::$$$message_0562_0011_0000$$$::"Ngh... ah..."[lr]::
 61307::$$$message_0562_0011_0001$$$::Percebo que estou na pior situação possível.[lr]::
 61308::$$$message_0562_0011_0002$$$::Parece que meu corpo virou pedra.[lr]::
-61309::$$$message_0562_0011_0003$$$::Meus nervos estão disconectados, me desligando deste mundo.[lr]::
-61310::$$$message_0562_0011_0004$$$::É como se eu estivesse observando o mundo por uma câmera, me controlando como num video game.::
-61311::$$$message_0562_0012_0000$$$::"Sa... ber[w l=4][line4]"[lr]::
+61309::$$$message_0562_0011_0003$$$::Meus nervos foram cortados, e minha visão parece isolada do mundo.[lr]::
+61310::$$$message_0562_0011_0004$$$::É como olhar o mundo por uma câmera. Virei o protagonista de um videogame controlado por joystick, e isso me dá náusea.::
+61311::$$$message_0562_0012_0000$$$::"Sa... ber..."[lr]::
 61312::$$$message_0562_0012_0001$$$::Serei morto.[lr]::
 61313::$$$message_0562_0012_0002$$$::Foi um erro ter saído sozinho.::
-61314::$$$message_0562_0013_0000$$$::Não consigo ver o rosto do meu atacante, nem mesmo me mexer e[w l=4][line4][lr]::
-61315::$$$message_0562_0013_0001$$$::"Te assustei?[lr]::
-61316::$$$message_0562_0013_0002$$$::Você estava totalemte indefeso, então tive que te provocar um pouco."[lr]::
-61317::$$$message_0562_0013_0003$$$::[w l=3][line3]Um, estou sendo provocado por essa garota brincalhona?::
-61318::$$$message_0562_0014_0000$$$::"Ah, você voltou. Acho que te contactar pela visão não é tão eficiente."[lr]::
-61319::$$$message_0562_0014_0001$$$::"Ill[w l=4][line4]"::
+61314::$$$message_0562_0013_0000$$$::É assim que vou morrer, incapaz de resistir e sem nem saber quem fez isso[line2][lr]::
+61315::$$$message_0562_0013_0001$$$::"Brincadeira! Eu te assustei?[lr]::
+61316::$$$message_0562_0013_0002$$$::Você é tão vulnerável, Shirou. Achei que seria divertido te provocar um pouquinho."[lr]::
+61317::$$$message_0562_0013_0003$$$::   Então essa pestinha ficou brincando comigo?::
+61318::$$$message_0562_0014_0000$$$::"Ah, você voltou. Acho que se recuperou porque eu só te toquei pela visão."[lr]::
+61319::$$$message_0562_0014_0001$$$::"Ai..."::
 61320::$$$message_0562_0015_0000$$$::Ela aparece atrás de mim.[lr]::
-61321::$$$message_0562_0015_0001$$$::Ela está sorrindo, provavelmente porque ela já estava aqui e me observava de costas.::
-61322::$$$message_0562_0016_0000$$$::"Mas não é bom que você não consiga quebrar magia sozinho. Seu futuro parece sombrío se fatores externos são a única coisa que podem quebrar eles."[lr]::
-61323::$$$message_0562_0016_0001$$$::Ela me dá uma lição.[lr]::
-61324::$$$message_0562_0016_0002$$$::Mas suas palavras não estão entrando na minha cabeça.::
-61325::$$$message_0562_0017_0000$$$::"Illya[w l=4][line4]! O que está fazendo doing!? Ataques surpresas são injustos, mesmo se formos ambos Mestres!"::
+61321::$$$message_0562_0015_0001$$$::Illya sorri com ar presunçoso, como se estivesse no parque o tempo todo, me observando por trás.::
+61322::$$$message_0562_0016_0000$$$::"Você ainda tem muito a aprender se nem consegue dissipar maldições usando apenas seu mundo interno. Se precisa de intervenção externa para voltar a si, suas chances nesta guerra são bem sombrias."[lr]::
+61323::$$$message_0562_0016_0001$$$::Ela me dá uma bronca arrogante.[lr]::
+61324::$$$message_0562_0016_0002$$$::Claro, a piada passa direto por cima da minha cabeça.::
+61325::$$$message_0562_0017_0000$$$::"Illya! Por que fez isso!? Mesmo nós dois sendo Mestres, ataques surpresa não são justos!"::
 61326::$$$message_0562_0018_0000$$$::"Ei, isso não foi um ataque surpresa. Eu estava sentada do seu lado por um bom tempo. Mas você não me notou e para piorar ia embora. Isso tudo foi culpa sua, Shirou."[lr]::
 61327::$$$message_0562_0018_0001$$$::"...!? V-Você estava do meu lado este tempo todo?"::
-61328::$$$message_0562_0019_0000$$$::"Sim, eu estava me escondendo um pouco. Mas você é descuidado demais. Nem mesmo notou minha presença, e foi cativado por uma mágia que usa mero contato mágico direto. Você é um Mestre, então deveria prestar mais atenção ao seu redor."[lr]::
-61329::$$$message_0562_0019_0001$$$::A Illya me alerta, chocada.::
-61330::$$$message_0562_0020_0000$$$::"Ah[w l=4][line4]sim. Tem razão."[lr]::
+61328::$$$message_0562_0019_0000$$$::"Sim, eu estava escondida. Mas você ainda foi descuidado demais. Não conseguiu me detectar, e tudo que precisei fazer foi chocar nossas energias mágicas para te prender numa maldição. Você é um Mestre, então precisa prestar mais atenção ao que acontece ao seu redor."[lr]::
+61329::$$$message_0562_0019_0001$$$::Illya me repreende, exasperada.::
+61330::$$$message_0562_0020_0000$$$::"Ah. Certo. Entendi."[lr]::
 61331::$$$message_0562_0020_0001$$$::Ela parece tanto com uma professora que acabo por concordar.::
 61332::$$$message_0562_0021_0000$$$::"Que bom que entende.[lr]::
-61333::$$$message_0562_0021_0001$$$::[w l=3][line3]Então, o que aconteceu hoje? Você está vazio por dentro agora, mas não tem a Saber com você. Se está tentando descansar, não seria melhor fazer isso em casa?"::
-61334::$$$message_0562_0022_0000$$$::"Huh? Bem, não vim aqui descansar.[lr]::
+61333::$$$message_0562_0021_0001$$$::Então por que veio aqui hoje, Shirou? Você está todo vazio por dentro e nem trouxe a Saber. Não seria mais seguro descansar em casa?"::
+61334::$$$message_0562_0022_0000$$$::"Hã? Não, eu não vim ao parque para descansar.[lr]::
 61335::$$$message_0562_0022_0001$$$::E sim, está certa, foi um descuido não trazer a Saber comigo."::
-61336::$$$message_0562_0023_0000$$$::"Né? Eu não pude te deixar sozinho pois você parecia tão estranho. Eu não deveria falar com você mais depois de ontem, mas abrirei uma exceção hoje."[lr]::
+61336::$$$message_0562_0023_0000$$$::"Não é? Você estava agindo tão estranho que eu não podia te deixar sozinho. Ontem era o último dia em que eu devia falar com você, mas vou abrir uma exceção."[lr]::
 61337::$$$message_0562_0023_0001$$$::"...?"[lr]::
 61338::$$$message_0562_0023_0002$$$::Ela disse algo estranho.[lr]::
 61339::$$$message_0562_0023_0003$$$::Afinal, vim aqui neste parque porque...::
 61340::$$$message_0562_0024_0000$$$::"Então, por que estava sentado aí?[lr]::
-61341::$$$message_0562_0024_0001$$$::Você estaria morto se eu tivesse vindo como Mestre."[lr]::
-61342::$$$message_0562_0024_0002$$$::"Bem, eu vim te ver.[lr]::
+61341::$$$message_0562_0024_0001$$$::Se eu tivesse vindo como Mestre, você já estaria morto, sabia?"[lr]::
+61342::$$$message_0562_0024_0002$$$::"Eu só vim te ver, Illya.[lr]::
 61343::$$$message_0562_0024_0003$$$::Você disse ontem que poderíamos nos ver de novo."::
-61344::$$$message_0562_0025_0000$$$::"[w l=8][line8]Que?"[lr]::
-61345::$$$message_0562_0025_0001$$$::Ah, ela está chocada.[lr]::
+61344::$$$message_0562_0025_0000$$$::"...Hã?"[lr]::
+61345::$$$message_0562_0025_0001$$$::Ela fica surpresa.[lr]::
 61346::$$$message_0562_0025_0002$$$::...bem, não é como se fosse uma promessa de verdade.::
-61347::$$$message_0562_0026_0000$$$::"Por que...? Você veio me ver, embora eu tenha dito que tentaria te matar?"[lr]::
-61348::$$$message_0562_0026_0001$$$::"É escolha sua isso, não minha. Só queria conversar com você, não lutar. E de qualquer forma[w l=4][line4]"::
-61349::$$$message_0562_0027_0000$$$::A Illya disse que me mataria, mas ela acabou de deixar uma chance passar.[lr]::
-61350::$$$message_0562_0027_0001$$$::Ela poderia ter feito isso mesmo se ela tivesse mantido o feitiço dela em mim.[lr]::
+61347::$$$message_0562_0026_0000$$$::"Por quê...? Eu disse que ia te matar, Shirou. Por que você iria querer me ver?"[lr]::
+61348::$$$message_0562_0026_0001$$$::"Isso é problema seu, não meu. Eu quero falar com a Illya que não é Mestre, e..."::
+61349::$$$message_0562_0027_0000$$$::Illya teve uma chance de me matar, e não matou.[lr]::
+61350::$$$message_0562_0027_0001$$$::Se ela tivesse deixado a maldição continuar, eu provavelmente teria morrido.[lr]::
 61351::$$$message_0562_0027_0002$$$::Como ela não fez, não quero lutar com ela.::
-61352::$$$message_0562_0028_0000$$$::"[w l=4][line4]Mestres não lutam durante o dia, certo?[lr]::
-61353::$$$message_0562_0028_0001$$$::Então vamos esquecer disso por agora. Só vim aqui te ver. Sua vontade de me matar é maior do que a de conversar comigo?"::
-61354::$$$message_0562_0029_0000$$$::"Eh[w l=4][line4]?  E-Essa pergunta é injusta. Tenho que fazer ambos. É divertido falar com você, mas não posso te perdoar. Então não posso escolher só uma."::
+61352::$$$message_0562_0028_0000$$$::"De qualquer forma, Mestres não devem lutar em plena luz do dia.[lr]::
+61353::$$$message_0562_0028_0001$$$::Então vamos esquecer isso por enquanto. Eu só vim te ver, Illya. Você prefere conversar comigo ou me matar?"::
+61354::$$$message_0562_0029_0000$$$::"Hã!? E-eu não sei. Quero fazer as duas coisas. É divertido conversar com você, mas eu não devia. Tenho que escolher uma."::
 61355::$$$message_0562_0030_0000$$$::A Illya abaixa a cabeça e resmuga.[lr]::
 61356::$$$message_0562_0030_0001$$$::Ela parece séria, como se estivesse sofrendo ao invés de só incomodada.::
-61357::$$$message_0562_0031_0000$$$::"...entendo. Então não ligo. Não te farei escolher."[lr]::
+61357::$$$message_0562_0031_0000$$$::"...Tudo bem. Então escolha qualquer uma das duas. Eu não vou te dizer o que fazer."[lr]::
 61358::$$$message_0562_0031_0001$$$::"Ah... M-Mas eu..."[lr]::
 61359::$$$message_0562_0031_0002$$$::"Eu sei. Mas já que estamos aqui, vamos conversar.[lr]::
-61360::$$$message_0562_0031_0003$$$::Eu te trouxe um presente hoje, então lutaremos num outro dia."::
-61361::$$$message_0562_0032_0000$$$::Eu pego uma sacola com taiyaki.[lr]::
-61362::$$$message_0562_0032_0001$$$::Eles esfriaram enquanto eu esperava por ela, mas ainda estão um pouco quente.::
-61363::$$$message_0562_0033_0000$$$::"Aqui está uma oferenda. Te dou esses, então me deixe ir dessa vez."[lr]::
-61364::$$$message_0562_0033_0001$$$::Eu seguro o taiyaki.[lr]::
-61365::$$$message_0562_0033_0002$$$::"Ah[w l=4][line4]"[lr]::
-61366::$$$message_0562_0033_0003$$$::A Illya hesita, mas então pega-os e concorda.::
+61360::$$$message_0562_0031_0003$$$::Eu te trouxe um presente, então podemos lutar na próxima vez."::
+61361::$$$message_0562_0032_0000$$$::Tiro um saco de papel com taiyaki da sacola plástica.[lr]::
+61362::$$$message_0562_0032_0001$$$::Esfriaram enquanto eu esperava por Illya, mas ainda estão levemente mornos.::
+61363::$$$message_0562_0033_0000$$$::"Seu presente. Espero que você me perdoe por hoje."[lr]::
+61364::$$$message_0562_0033_0001$$$::Empurro o taiyaki para as mãos dela.[lr]::
+61365::$$$message_0562_0033_0002$$$::"Ah..."[lr]::
+61366::$$$message_0562_0033_0003$$$::Illya hesita, mas ainda pega o taiyaki sem dizer nada. Ela me dá um pequeno aceno.::
 61367::$$$message_0562_0034_0000$$$::Não me lembro do que falamos depois disso.[lr]::
-61368::$$$message_0562_0034_0001$$$::Falamos sobre coisas sem importância:[lr]::
-61369::$$$message_0562_0034_0002$$$::O que ela gosta de comer, o que não gosta, como ela ama passáros e odeia gatos, como ama a neve e odeia o frio, como ela quer brincar mas não pode, e de como ela não gosta das faxineiras dela mas quer gostar.::
+61368::$$$message_0562_0034_0001$$$::Comidas de que gostamos e de que não gostamos.[lr]::
+61369::$$$message_0562_0034_0002$$$::Ela gosta de aves e não gosta de gatos. Gosta de neve, mas não gosta do frio. Quer brincar, mas não pode. Não gosta da criada rabugenta que fica de olho nela, mas talvez consiga gostar. Bobagens assim.::
 61370::$$$message_0562_0035_0000$$$::Ela parece feliz só por conversar.[lr]::
-61371::$$$message_0562_0035_0001$$$::Ela está sentada no banco, comendo o taiyaki e balançando as pernas.[lr]::
-61372::$$$message_0562_0035_0002$$$::...parece uma criança esperando por seu pai.::
-61373::$$$message_0562_0036_0000$$$::"[w l=3][line3]Entendo. Então você não veio para cá sozinha?"[lr]::
-61374::$$$message_0562_0036_0001$$$::"Não, vi com a Sella e a Leysritt. Não preciso de pessoas cuidando de mim, mas preciso de pessoas para cuidar da casa, sabe?"::
-61375::$$$message_0562_0037_0000$$$::...então a Illya veio ao Japan com duas faxineiras.[lr]::
+61371::$$$message_0562_0035_0001$$$::Ela enche as bochechas com o taiyaki quase morno e balança os pés sentada no banco.[lr]::
+61372::$$$message_0562_0035_0002$$$::...Isso me faz pensar numa filha esperando o pai voltar para casa.::
+61373::$$$message_0562_0036_0000$$$::"Nossa. Então você não veio para cá sozinha?"[lr]::
+61374::$$$message_0562_0036_0001$$$::"Sella e Leysritt vieram comigo. Não preciso de ninguém para ficar de olho em mim, mas preciso de alguém para pôr meus assuntos em ordem."::
+61375::$$$message_0562_0037_0000$$$::Illya trouxe suas duas criadas até o Japão.[lr]::
 61376::$$$message_0562_0037_0001$$$::Elas estão num hotel ou algo assim?::
 61377::$$$message_0562_0038_0000$$$::"Que foi? Ficou curioso? Quer saber onde eu moro?"[lr]::
-61378::$$$message_0562_0038_0001$$$::"Eh... sim, fiquei. Você fica aparecendo insperadamente, mas o que eu faria se uma emergência acontecesse e eu não soubesse onde você mora?"::
+61378::$$$message_0562_0038_0001$$$::"Er... sim, estou. Você sempre aparece do nada. Eu não saberia onde te encontrar se precisasse."::
 61379::$$$message_0562_0039_0000$$$::Mesmo se ela se ferir e me pedir ajuda, não poderei fazer nada se não souber disto.[lr]::
-61380::$$$message_0562_0039_0001$$$::Me tranquilizaria um pouco se eu soubesse onde ela mora[w l=4][line4]::
-61381::$$$message_0562_0040_0000$$$::"[w l=4][line4]Tudo bem. Você é especial. Se quer saber tanto, te direi onde."[lr]::
-61382::$$$message_0562_0040_0001$$$::Então.[lr]::
-61383::$$$message_0562_0040_0002$$$::Ela levanta e coloca sua mão em minha testa.::
-61384::$$$message_0562_0041_0000$$$::"Whoa[w l=4][line4]ei, Illya..."[lr]::
+61380::$$$message_0562_0039_0001$$$::Se ela pelo menos me dissesse um endereço, eu ficaria um pouco mais tranquilo, mas...::
+61381::$$$message_0562_0040_0000$$$::"Tudo bem. Você é especial, Shirou. Se quer saber, eu te conto."[lr]::
+61382::$$$message_0562_0040_0001$$$::Ela concorda.[lr]::
+61383::$$$message_0562_0040_0002$$$::Illya se levanta do banco com leveza e põe a mão na minha testa.::
+61384::$$$message_0562_0041_0000$$$::"Epa[line2]espera, Illya[line2]"[lr]::
 61385::$$$message_0562_0041_0001$$$::"Fica quieto. Você vai acabar em algum outro lugar se resistir demais. Seria trabalhoso reverter isso se acontecer."[lr]::
-61386::$$$message_0562_0041_0002$$$::"Ah[w l=4][line4]okay."[lr]::
-61387::$$$message_0562_0041_0003$$$::Sob tanta pressão, só posso concordar obedientemente.::
-61388::$$$message_0562_0042_0000$$$::"Bom menino. Então feche os olhos. E não olhe demais, okay? Embora eu esteja te transferindo, você ficará tonto pois a visão é de outra pessoa."::
-61389::$$$message_0562_0043_0000$$$::"[w l=4][line4]!"[lr]::
+61386::$$$message_0562_0041_0002$$$::"Ah. C-certo."[lr]::
+61387::$$$message_0562_0041_0003$$$::Acabo assentindo por reflexo diante do tom severo dela.::
+61388::$$$message_0562_0042_0000$$$::"Bom menino. Agora feche os olhos. E não olhe demais para os lados. Estou 'enviando' você, mas na verdade só estou movendo seu ponto de vista, não seu corpo, então você pode ficar enjoado."::
+61389::$$$message_0562_0043_0000$$$::"...!"[lr]::
 61390::$$$message_0562_0043_0001$$$::A Illya coloca sua testa contra a minha.[lr]::
 61391::$$$message_0562_0043_0002$$$::Estou surpreso, mas fecho os olhos.[lr]::
-61392::$$$message_0562_0043_0003$$$::[w l=4][line4]Neste momento...::
-61393::$$$message_0562_0044_0000$$$::Minha visão acelera e se expande.[lr]::
-61394::$$$message_0562_0044_0001$$$::Não, não foi a minha consciência que se expandiu?[lr]::
-61395::$$$message_0562_0044_0002$$$::Quando percebo, estou olhando um lugar que nunca vi.::
-61396::$$$message_0562_0045_0000$$$::"Pode ver-lá? Transferi sua visão para a minha floresta."::
+61392::$$$message_0562_0043_0003$$$::   De repente,::
+61393::$$$message_0562_0044_0000$$$::meu campo de visão acelera a uma velocidade extrema e então se expande.[lr]::
+61394::$$$message_0562_0044_0001$$$::Não, é a minha consciência que se expande.[lr]::
+61395::$$$message_0562_0044_0002$$$::Quando percebo, estou olhando para uma cena que nunca vi, observando tudo de algum lugar alto...::
+61396::$$$message_0562_0045_0000$$$::"[font italic=true]Consegue ver? Agora, seu sentido da visão está conectado à minha floresta.[font italic=false]"::
 61397::$$$message_0562_0046_0000$$$::A voz da Illya ecoa em minha mente.[lr]::
 61398::$$$message_0562_0046_0001$$$::Não posso responder, nem concordar.[lr]::
-61399::$$$message_0562_0046_0002$$$::Esta "visão" é tudo que me é permitido.[lr]::
-61400::$$$message_0562_0046_0003$$$::Sou uma das árvores na floresta.[lr]::
-61401::$$$message_0562_0046_0004$$$::É normal que meu corpo não se mova.[lr]::
-61402::$$$message_0562_0046_0005$$$::Meu corpo se tornou uma árvore neste instante.::
-61403::$$$message_0562_0047_0000$$$::"Memorizou o caminho? Então te transferirei para o muro do castelo."::
+61399::$$$message_0562_0046_0002$$$::Neste momento, sou apenas meu sentido da visão.[lr]::
+61400::$$$message_0562_0046_0003$$$::Sou uma árvore, olhando para uma vasta floresta.[lr]::
+61401::$$$message_0562_0046_0004$$$::Não consigo mover meu corpo,[lr]::
+61402::$$$message_0562_0046_0005$$$::porque acabei de ser transformado em uma árvore silenciosa.::
+61403::$$$message_0562_0047_0000$$$::"[font italic=true]Memorizou o caminho? Vou te enviar para as muralhas do castelo em seguida.[font italic=false]"::
 61404::$$$message_0562_0048_0000$$$::O cenário muda.[lr]::
 61405::$$$message_0562_0048_0001$$$::Minha visão é o único sentido que tenho.[lr]::
-61406::$$$message_0562_0048_0002$$$::[w l=3][line3]Ainda existo, mas não posso sentir nada.::
-61407::$$$message_0562_0049_0000$$$::Sou uma parede agora.[lr]::
-61408::$$$message_0562_0049_0001$$$::Posso sentir meus membros, mas não tenho nenhum para mexer. Tenho um corpo que se move a vontade, mas não posso movê-lo.::
+61406::$$$message_0562_0048_0002$$$::   Ainda sou eu, mas não consigo me sentir.::
+61407::$$$message_0562_0049_0000$$$::Depois da árvore, vem uma muralha.[lr]::
+61408::$$$message_0562_0049_0001$$$::Ainda sinto meus braços e pernas, mas não tenho membros para mover. Sinto como se tivesse um corpo capaz de se mover, mas não sou livre para movê-lo.::
 61409::$$$message_0562_0050_0000$$$::"Leysritt. Não acho a Illyasviel-sama. Sabe onde ela está?"[lr]::
-61410::$$$message_0562_0050_0001$$$::"......Não. A Illya deve estar em algum lugar."[lr]::
-61411::$$$message_0562_0050_0002$$$::"Leysritt. Por favor não se refira a Milady de tal maneira. A Illyasviel-sama não é como nós. Esqueceu de nosso missão?"::
-61412::$$$message_0562_0051_0000$$$::"Sella é a professora da Illya. Eu devo vestir a Illya com o Heavens Feel, o terceiro vestido."[lr]::
-61413::$$$message_0562_0051_0001$$$::; Heavens Feel -> Sentimentos/Sensação do Paraíso? -Mat::
-61414::$$$message_0562_0051_0002$$$::"Correto. Parece que até sua péssima memória consegue guardar isto."[lr]::
-61415::$$$message_0562_0052_0000$$$::"......não esqueci. ...mas a Illya odeia vestir isto. Então não gosto."::
-61416::$$$message_0562_0052_0001$$$::"...entendo isto também. Mas precisamos que ela vista-o quando a hora chegar. Foi criadas com este propósito.[lr]::
-61417::$$$message_0562_0053_0000$$$::Ela deve estar preparada também."::
-61418::$$$message_0562_0053_0001$$$::"......Sella."[lr]::
-61419::$$$message_0562_0053_0002$$$::"Que foi, Leysritt?"[lr]::
-61420::$$$message_0562_0053_0003$$$::"......não se cansa?"[lr]::
-61421::$$$message_0562_0054_0000$$$::"Nem um pouco!"::
-61422::$$$message_0562_0054_0001$$$::...ouço duas faxineiras identícas conversarem.[lr]::
-61423::$$$message_0562_0055_0000$$$::Quando percebo que elas são as faxineiras que a Illya mencionou...::
-61424::$$$message_0562_0056_0000$$$::...finalmente volto ao meu corpo.::
-61425::$$$message_0562_0056_0001$$$::"Como foi? Foi uma bela mágia de transformação, né?"[lr]::
-61426::$$$message_0562_0057_0000$$$::"Uh[w l=4][line4]Uh..."::
-61427::$$$message_0562_0057_0001$$$::...seguro a boca e aguento a náusea.[lr]::
-61428::$$$message_0562_0058_0000$$$::Me sinto enjoado, sentindo o realismo repentino de meu corpo.::
-61429::$$$message_0562_0058_0001$$$::"Illya... O que foi isso?"[lr]::
-61430::$$$message_0562_0059_0000$$$::"Uma transferência de consciência. Movi sua visão em outro objeto."::
-61431::$$$message_0562_0059_0001$$$::"Há um nervo conectando seus olhos ao cerébro, certo? Conectei este nervo em algo que não fosse seus olhos.[lr]::
-61432::$$$message_0562_0060_0000$$$::Você estava recebendo informações das árvores na minha floresta ao invés de seus olhos."::
-61433::$$$message_0562_0061_0000$$$::"......Hm. Então não foi que virei uma árvore, mas recebi a visão delas e pensei que virei um?"::
-61434::$$$message_0562_0061_0001$$$::"Ah, pensei que você era denso, mas na verdade é bem esperto.[lr]::
-61435::$$$message_0562_0061_0002$$$::Sim, isso mesmo. Essa foi uma mágia para trocar a entrada sem mexer no equipamento chamado 'humano'.[lr]::
-61436::$$$message_0562_0062_0000$$$::Transformar alguém numa árvore é complicado, mas ainda está dentro dos ramos da magia conectar a consciência de alguém em uma árvore. Visão longa e possessão são aplicações desta magia."::
-61437::$$$message_0562_0063_0000$$$::"......entendo. Mas isso é algo impressionante. Não consegui fazer nada quando você me transferiu para a árvore. Não poderia usar isso para neutralizar um oponente?"::
-61438::$$$message_0562_0063_0001$$$::"Sim. Nossa especialidade está no fluxo e transferência de energia.[lr]::
-61439::$$$message_0562_0063_0002$$$::Por exemplo, a família Tohsaka pode transferir sua energia mágica em jóias sem diluir sua pureza. Usando esta mesma técnica, eles também poderiam transferir a consciência de alguém.[lr]::
-61440::$$$message_0562_0064_0000$$$::Se há um inimigos que eles quiserem selar, podem neutralizados ao transferir a consciência deles para uma joia ou boneco imóvel."::
-61441::$$$message_0562_0065_0000$$$::"Mas o índice de sucesso desta técnica é tão baixo que até mesmo nós, que somos especializados em transferências, não usaremos como ataque."::
-61442::$$$message_0562_0066_0000$$$::"Essa que fiz com você foi uma exceção. Você não resistiu, e aquela floresta é minha. Normalmente é muito mais difícil conectar as coisas."::
-61443::$$$message_0562_0066_0001$$$::"E sua consciência é forçada a voltar se o corpo original for estimulado de qualquer forma.[lr]::
-61444::$$$message_0562_0067_0000$$$::O corpo chamará sua consciência de volta quando presentir perigo, mesmo se a consciência não notar."::
-61445::$$$message_0562_0067_0001$$$::"Foi o que aconteceu com você agora.[lr]::
-61446::$$$message_0562_0068_0000$$$::Você não podia fazer nada enquanto sua mente estava na árvore, mas seu corpo te trouxe de volta quando o sacudi."::
-61447::$$$message_0562_0068_0001$$$::"...Hm. Então é como um sonho?"[lr]::
-61448::$$$message_0562_0068_0002$$$::Você nunca pode acordar de um sonho, não importa quanto tente.[lr]::
-61449::$$$message_0562_0068_0003$$$::Sonhos normalmente acabam quando a manhã chega[w l=3][line3]quando o corpo acorda por hábito.::
-61450::$$$message_0562_0069_0000$$$::"Hmm, é um pouco diferente. Você pode acordar de um sonho quando quiser.[lr]::
-61451::$$$message_0562_0069_0001$$$::Mas por isso transferência não serve para ofensivas. É mais para auto-proteção."::
-61452::$$$message_0562_0070_0000$$$::"Se transferir sua consciência para um familiar ou boneco que pode se mexer, pode fazer magia sem riscos."::
-61453::$$$message_0562_0071_0000$$$::"......então sua consciência volta ao corpo original mesmo se o oponente destruir seu familiar?"::
-61454::$$$message_0562_0072_0000$$$::"Sim. Magos que transferem suas mentes normalmente escondem seus corpos originais num lugar seguro.[lr]::
-61455::$$$message_0562_0072_0001$$$::Em casos como estes, você precisa tomar cuidado quando se transferir num familiar com alma própria."::
-61456::$$$message_0562_0073_0000$$$::"Quando se transfere sua consciência em algo com uma rede própria de comando, a iniciativa depende totalmente deles."::
-61457::$$$message_0562_0074_0000$$$::"Então mesmo se se transferir em humanos ou animais, só poderar ocupar um canto de seus cérebros e observar o que eles vêem. Eles servem como câmeras, não como robôs controlados remotamente."::
-61458::$$$message_0562_0075_0000$$$::"Mover sua consciência num ser vivo com sua própria vontade é mais como uma reencarnação do que transferência.[lr]::
-61459::$$$message_0562_0075_0001$$$::Isso sozinho é uma verdadeira magia, então nenhum mago ordinário conseguiria fazê-la."::
-61460::$$$message_0562_0076_0000$$$::...reencarnação.[lr]::
-61461::$$$message_0562_0076_0001$$$::Magia para criar um descendente com sua alma após a morte.[lr]::
-61462::$$$message_0562_0076_0002$$$::Alguns magos alcançaram este objetivo, mas ouvi dizer que copiar uma alma é difícil.::
-61463::$$$message_0562_0077_0000$$$::Mesmo se começar do zero ao nascer, se você não herdar todo o poder do seu eu anterior, você é uma cópia, não uma reencarnação.[lr]::
-61464::$$$message_0562_0077_0001$$$::Uma cópia é degrada por natureza.[lr]::
-61465::$$$message_0562_0077_0002$$$::Logo, um mago copiado é inferior ao seu eu anterior.::
-61466::$$$message_0562_0078_0000$$$::"Se você quer transferir si mesmo em um ser vivo, pode fabricar um familiar sem alma.[lr]::
-61467::$$$message_0562_0078_0001$$$::Mas os familiares desalmados de hoje são fracos. É como controlar um boneco cheio de algodão.[lr]::
-61468::$$$message_0562_0078_0002$$$::São úteis apenas como mensageiros."::
-61469::$$$message_0562_0079_0000$$$::"E mesmo se transferir sua alma num familiar ou boneco, você desaparecerá se seu corpo original envelhecer e morrer.[lr]::
-61470::$$$message_0562_0079_0001$$$::Não é imortalidade."::
-61471::$$$message_0562_0080_0000$$$::"As únicas coisas eternas neste mundo físico são almas.[lr]::
-61472::$$$message_0562_0080_0001$$$::Mas ninguém pode guardar almas para si. Uma alma não pode ficar neste mundo sem um corpo, e estará destinada a uma 'morte eventual' assim que obter um corpo.[lr]::
-61473::$$$message_0562_0080_0002$$$::Bem, esses são só os limites da magias dos Einzberns e Tohsaka."::
-61474::$$$message_0562_0081_0000$$$::[w l=3][line3]Então.[lr]::
-61475::$$$message_0562_0081_0001$$$::Um sino toca a hora.[lr]::
-61476::$$$message_0562_0081_0002$$$::O relógio do parque marca três.[lr]::
-61477::$$$message_0562_0081_0003$$$::Acho que já passou uma hora.::
-61478::$$$message_0562_0082_0000$$$::"Ah... tenho que ir. Está indo para casa também?"[lr]::
-61479::$$$message_0562_0082_0001$$$::"Hm? Sim, tenho que ir também."[lr]::
+61410::$$$message_0562_0050_0001$$$::"...Não faço ideia. Illya deve estar. Em algum lugar."[lr]::
+61411::$$$message_0562_0050_0002$$$::"Leysritt, pare de se referir à nossa senhora desse modo. Servimos [font italic=true]Lady Illyasviel[font italic=false]. Esqueceu o dever que nosso senhor nos confiou?"::
+61412::$$$message_0562_0051_0000$$$::"...Sella, você é tutora da Illya. Meu trabalho é ajudar Illya a vestir o Terceiro Vestido[line2]o Heaven's Feel."[lr]::
+61413::$$$message_0562_0051_0001$$$::"Correto. Fico feliz que você se lembre até disso, com essa sua memória ruim."[lr]::
+61414::$$$message_0562_0051_0002$$$::"...Eu não... esqueci. Porque Illya... não gosta de vestir isso. Eu também não quero. Fazê-la vestir."::
+61415::$$$message_0562_0052_0000$$$::"Estou bem ciente disso. Mas, quando a hora chegar, ela terá que vestir. Foi para isso que fomos criadas.[lr]::
+61416::$$$message_0562_0052_0001$$$::A senhora está determinada a cumprir seu dever."::
+61417::$$$message_0562_0053_0000$$$::"...Sella."[lr]::
+61418::$$$message_0562_0053_0001$$$::"O que foi, Leysritt?"[lr]::
+61419::$$$message_0562_0053_0002$$$::"...Isso não te cansa?"[lr]::
+61420::$$$message_0562_0053_0003$$$::"Nem um pouco!"::
+61421::$$$message_0562_0054_0000$$$::...Ouço duas criadas de mesmo rosto e uniforme conversando.[lr]::
+61422::$$$message_0562_0054_0001$$$::Assim que percebo que elas são as cuidadoras mencionadas por Illya,::
+61423::$$$message_0562_0055_0000$$$::finalmente volto ao meu corpo.::
+61424::$$$message_0562_0056_0000$$$::"Muito bem. Como foi? Isso foi um pouco de Magia de metamorfose."[lr]::
+61425::$$$message_0562_0056_0001$$$::"Agh... uff."::
+61426::$$$message_0562_0057_0000$$$::Ponho a mão sobre a boca e contenho a náusea.[lr]::
+61427::$$$message_0562_0057_0001$$$::Tudo ficou subitamente mais real quando as imagens voltaram a ser minhas, e isso me deixa enjoado.::
+61428::$$$message_0562_0058_0000$$$::"Ill... ya... O que foi aquilo?"[lr]::
+61429::$$$message_0562_0058_0001$$$::"Transferi sua consciência. Enviei seu sentido da visão para outra coisa."::
+61430::$$$message_0562_0059_0000$$$::"Seus olhos são conectados ao cérebro por nervos, certo? Eu conectei seu cérebro a outra coisa em vez dos seus olhos.[lr]::
+61431::$$$message_0562_0059_0001$$$::Por alguns instantes, sua informação visual não veio dos olhos, mas das árvores na minha floresta."::
+61432::$$$message_0562_0060_0000$$$::"...Mrgh. Então eu não virei uma árvore; eu recebia uma transmissão do que a árvore via, e por isso pensei que era a árvore?"::
+61433::$$$message_0562_0061_0000$$$::"Ah, você é mais afiado do que parece.[lr]::
+61434::$$$message_0562_0061_0001$$$::Sim, foi isso que aconteceu. É uma forma de Magia que trata humanos como hardware e troca a fonte de entrada deles.[lr]::
+61435::$$$message_0562_0061_0002$$$::Transformar alguém diretamente numa árvore é algo sério, mas a Magia ainda consegue conectar a consciência de uma pessoa a uma árvore. Essa Magia também é usada para vidência e possessão."::
+61436::$$$message_0562_0062_0000$$$::"...Acho que entendi. Mas isso é absurdo. Quando eu via pelo ponto de vista da árvore, não conseguia fazer nada. Você não pode usar essa transferência para atacar alguém e deixá-lo indefeso?"::
+61437::$$$message_0562_0063_0000$$$::"Sim. Nosso atributo mágico é o fluxo e a transferência de poder.[lr]::
+61438::$$$message_0562_0063_0001$$$::Por exemplo, os magos Tohsaka transferem sua energia para joias preciosas, preservando a pureza desse poder. Eles também podem aplicar a mesma lógica para transferir à força a consciência de alguém.[lr]::
+61439::$$$message_0562_0063_0002$$$::Se houver um inimigo que queiram selar, podem neutralizar o alvo definindo a fonte de entrada da consciência como o interior de uma joia, ou de um boneco incapaz de se mover."::
+61440::$$$message_0562_0064_0000$$$::"Mas transferir a consciência de outra pessoa tem uma taxa de sucesso muito baixa, então eu diria que a maioria dos magos não usaria isso ofensivamente, a menos que sejam especialistas como eu ou os Tohsaka."::
+61441::$$$message_0562_0065_0000$$$::"Funcionou em você porque você não resistiu, e porque a floresta pertence a mim. Normalmente é muito mais difícil fazer a conexão funcionar."::
+61442::$$$message_0562_0066_0000$$$::"Além disso, se o corpo original da pessoa transferida receber qualquer estímulo antes da transferência terminar, a consciência dela será forçada a voltar para casa.[lr]::
+61443::$$$message_0562_0066_0001$$$::Mesmo que a consciência remota não saiba que seu corpo original está em perigo, o corpo físico chamará a consciência separada de volta se sentir perigo."::
+61444::$$$message_0562_0067_0000$$$::"Foi isso que aconteceu antes, Shirou.[lr]::
+61445::$$$message_0562_0067_0001$$$::Você não conseguia fazer nada enquanto sua mente estava naquela árvore, mas tudo que precisei fazer foi te sacudir para que seu corpo chamasse sua alma de volta."::
+61446::$$$message_0562_0068_0000$$$::"...Hm. Então é como um sonho?"[lr]::
+61447::$$$message_0562_0068_0001$$$::Quando sonho, não consigo acordar sozinho por mais que tente.[lr]::
+61448::$$$message_0562_0068_0002$$$::Na maior parte das vezes, acordo quando a manhã chega.[lr]::
+61449::$$$message_0562_0068_0003$$$::Em outras palavras, as funções habituais do meu corpo me despertam.::
+61450::$$$message_0562_0069_0000$$$::"Mmm, eu diria que é um pouco diferente. Você pode despertar de um sonho usando seu próprio intelecto.[lr]::
+61451::$$$message_0562_0069_0001$$$::É por isso que a transferência não é adequada para uso ofensivo. Ela é usada principalmente para autopreservação."::
+61452::$$$message_0562_0070_0000$$$::"Se transferir sua própria consciência para um familiar ou um boneco que possa se mover, você pode controlar esse corpo e realizar trabalhos mágicos com segurança."::
+61453::$$$message_0562_0071_0000$$$::"...Então você está dizendo que, mesmo se um inimigo derrotar seu familiar robô controlado à distância, sua consciência simplesmente volta para o corpo real?"::
+61454::$$$message_0562_0072_0000$$$::"Sim. Um mago que transfere a própria consciência sempre toma o máximo cuidado para esconder seu corpo real em um lugar seguro.[lr]::
+61455::$$$message_0562_0072_0001$$$::Nesse caso, ele também precisa tomar cuidado se o familiar alvo tiver uma alma própria."::
+61456::$$$message_0562_0073_0000$$$::"Se o recipiente alvo tiver seu próprio sistema de comando[line2]sua própria mente[line2]então a mente do familiar com alma ficará no controle."::
+61457::$$$message_0562_0074_0000$$$::"É por isso que, ao nos transferirmos para um humano ou animal, acabamos apenas na borda do cérebro do alvo. Só observamos imagens junto com ele. Não é controle remoto, mas visão remota por uma câmera."::
+61458::$$$message_0562_0075_0000$$$::"Mover sua própria mente para um ser vivo[line2]um familiar com alma[line2]e dominá-lo não é transferência, mas Magia no nível da reencarnação.[lr]::
+61459::$$$message_0562_0075_0001$$$::É uma forma de grande Magia que a maioria dos magos nem pode sonhar em imitar."::
+61460::$$$message_0562_0076_0000$$$::Reencarnação...[lr]::
+61461::$$$message_0562_0076_0001$$$::Magia que permite a uma criança herdar a alma de alguém após a morte.[lr]::
+61462::$$$message_0562_0076_0002$$$::Ao que parece, alguns magos conseguiram isso, mas recriar a alma é um desafio por si só.::
+61463::$$$message_0562_0077_0000$$$::Alguém até pode conseguir recomeçar a vida como bebê, mas, se não herdar 100% das habilidades da vida passada, isso não é reencarnação, é mera duplicação.[lr]::
+61464::$$$message_0562_0077_0001$$$::Uma réplica. Uma cópia inferior.[lr]::
+61465::$$$message_0562_0077_0002$$$::O bebê seria inferior ao mago do qual renasceu.::
+61466::$$$message_0562_0078_0000$$$::"Se você vai se dar ao trabalho de se transferir para seres vivos, poderia criar um familiar sem mente e controlar essa casca.[lr]::
+61467::$$$message_0562_0078_0001$$$::Mas os magos modernos não conseguem criar recipientes sem alma muito poderosos. São apenas bonecos de pano que o mago controla com sua energia mágica.[lr]::
+61468::$$$message_0562_0078_0002$$$::Eles não servem para muito além de entregar mensagens."::
+61469::$$$message_0562_0079_0000$$$::"Além disso, mesmo que envie sua mente para um familiar ou um boneco móvel, isso não muda o fato de que sua própria mente desaparecerá quando seu corpo real morrer de velhice.[lr]::
+61470::$$$message_0562_0079_0001$$$::Não é um caminho para a imortalidade."::
+61471::$$$message_0562_0080_0000$$$::"Almas são a única coisa permanente no mundo material.[lr]::
+61472::$$$message_0562_0080_0001$$$::Mas ninguém consegue fazer almas existirem independentemente no mundo. Uma alma não pode permanecer aqui sem um corpo que a hospede, e, assim que adquire um corpo, fica presa à mortalidade dele.[lr]::
+61473::$$$message_0562_0080_0002$$$::A Magia que você acabou de experimentar é mais ou menos o melhor que nós, Einzberns e Tohsakas, conseguimos fazer."::
+61474::$$$message_0562_0081_0000$$$::   A explicação termina.[lr]::
+61475::$$$message_0562_0081_0001$$$::De repente, algo toca, anunciando a hora.[lr]::
+61476::$$$message_0562_0081_0002$$$::O relógio do parque marca 3:00 da tarde.[lr]::
+61477::$$$message_0562_0081_0003$$$::Uma hora inteira passou sem que eu percebesse.::
+61478::$$$message_0562_0082_0000$$$::"Ah... tenho que ir logo. Você vai para casa, Shirou?"[lr]::
+61479::$$$message_0562_0082_0001$$$::"Hm? Sim, é melhor eu voltar logo também, ou vou me encrencar."[lr]::
 61480::$$$message_0562_0082_0002$$$::A Illya concorda e anda para o meio do parque.::
-61481::$$$message_0562_0083_0000$$$::"...Okay. Eu não deveria dizer isso, mas..."[lr]::
-61482::$$$message_0562_0083_0001$$$::A menina, branca como a neve, me pergunta...::
+61481::$$$message_0562_0083_0000$$$::"...Certo. Eu realmente não deveria dizer isso, mas..."[lr]::
+61482::$$$message_0562_0083_0001$$$::Ela faz uma pausa, como se esperasse ser rejeitada.::
 61483::$$$message_0562_0083_0002$$$::"Você vem me ver amanhã de novo, Shirou?"[lr]::
-61484::$$$message_0562_0083_0003$$$::...como se ela soubesse que eu fosse recusar.::
-61485::$$$message_0562_0084_0000$$$::"[w l=8][line8]"[lr]::
-61486::$$$message_0562_0084_0001$$$::Idiota.[lr]::
-61487::$$$message_0562_0084_0002$$$::Nem mesmo preciso responder.::
-61488::$$$message_0562_0085_0000$$$::"[w l=3][line3]Claro que sim. Você me mostrou sua casa, então amanhã é minha vez."[lr]::
-61489::$$$message_0562_0085_0001$$$::"Okay! Então te chamarei primeiro amanhã!"::
+61484::$$$message_0562_0083_0003$$$::A pequena garota de cabelos brancos me pergunta.::
+61485::$$$message_0562_0084_0000$$$::[font italic=true]...[font italic=false][lr]::
+61486::$$$message_0562_0084_0001$$$::...Que idiota.[lr]::
+61487::$$$message_0562_0084_0002$$$::Eu sequer preciso responder?::
+61488::$$$message_0562_0085_0000$$$::"Estarei aqui amanhã. Hoje você me mostrou onde mora, então amanhã é a minha vez."[lr]::
+61489::$$$message_0562_0085_0001$$$::"Tá! Então é uma promessa! Amanhã eu com certeza vou te chamar!"::
 61490::$$$message_0562_0086_0000$$$::A Illya vai embora.[lr]::
-61491::$$$message_0562_0086_0001$$$::Sob o céu nublado...[lr]::
+61491::$$$message_0562_0086_0001$$$::O céu está cinzento.[lr]::
 61492::$$$message_0562_0086_0002$$$::A garota de cabelos brancos parece uma fada.::
-

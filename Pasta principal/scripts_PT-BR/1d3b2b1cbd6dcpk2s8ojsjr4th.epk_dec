@@ -1,18 +1,17 @@
 DAT
 id=qid::label=str::text=lstr::
-61253::$$$message_0561_0000_0000$$$::Eu devo me descansar depois de uma refeição.[lr]::
-61254::$$$message_0561_0000_0001$$$::Seu corpo precisa usar sua energia para digestão, e além disso, chá vai bem depois de uma refeição.[lr]::
-61255::$$$message_0561_0000_0002$$$::Eu sei que é vergonhoso deixar as duas lavando louça, mas elas tem uma boa atmosfera na cozinha.::
-61256::$$$message_0561_0001_0000$$$::Já que elas não tem interesses em comum, elas estão lavando louça juntas para se enturmar.::
-61257::$$$message_0561_0002_0000$$$::"[w l=3][line3]Uau, elas estão se dando bem."[lr]::
-61258::$$$message_0561_0002_0001$$$::Eu tranquilamente vejo o que está acontecendo na cozinha.[lr]::
-61259::$$$message_0561_0002_0002$$$::Há algum programa para donas de casa na TV.[lr]::
-61260::$$$message_0561_0002_0003$$$::Nesta atmosfera calma, aproveito plenamente o descanso após as refeições.::
-61261::$$$message_0561_0003_0000$$$::Meu corpo está quase totalmente recuperado ao terminar de descansar.[lr]::
-61262::$$$message_0561_0003_0001$$$::A febre provavelmente veio do cansaço, então até mesmo meio dia de descanso bastou.::
-61263::$$$message_0561_0004_0000$$$::"Então, usará esta tarde para treinar?"[lr]::
-61264::$$$message_0561_0004_0001$$$::Eu concordo.::
-61265::$$$message_0561_0005_0000$$$::Embora eu tenha acabado de me recuperar, não podemos pender tempo.[lr]::
-61266::$$$message_0561_0005_0001$$$::Habilidade mágica não melhora com só um dia de treinamento, mas habilidade física deve ser outra história.[lr]::
-61267::$$$message_0561_0005_0002$$$::Não seria problema treinar até a hora de jantar.::
-
+61253::$$$message_0561_0000_0000$$$::Depois de uma refeição, devo pegar leve e relaxar.[lr]::
+61254::$$$message_0561_0000_0001$$$::De qualquer forma, o cérebro desvia energia para a digestão, e, acima de tudo, gosto de tomar chá depois de comer.[lr]::
+61255::$$$message_0561_0000_0002$$$::Fico mal por fazer isso enquanto as outras duas lavam a louça, mas Saber e Sakura parecem estar se dando bem na cozinha.::
+61256::$$$message_0561_0001_0000$$$::Elas não têm muito assunto em comum, então trabalhar juntas nas tarefas da casa está ajudando a criar confiança.::
+61257::$$$message_0561_0002_0000$$$::"Essas duas se dão bem, hein?"[lr]::
+61258::$$$message_0561_0002_0001$$$::Observo as duas enquanto relaxo na sala.[lr]::
+61259::$$$message_0561_0002_0002$$$::Ligo a TV, que mostra a típica programação diurna para donas de casa.[lr]::
+61260::$$$message_0561_0002_0003$$$::Deixo a atmosfera acalmar meu corpo e minha mente, e simplesmente descanso sem fazer mais nada.::
+61261::$$$message_0561_0003_0000$$$::Depois da pausa, me sinto bem melhor.[lr]::
+61262::$$$message_0561_0003_0001$$$::Parece que minha febre veio do cansaço, então voltei ao normal depois de descansar meio dia.::
+61263::$$$message_0561_0004_0000$$$::"Shirou, usará o resto da tarde para treinar?"[lr]::
+61264::$$$message_0561_0004_0001$$$::Faço que sim para Saber.::
+61265::$$$message_0561_0005_0000$$$::Embora eu tenha acabado de me recuperar de uma doença, não quero perder tempo.[lr]::
+61266::$$$message_0561_0005_0001$$$::Não consigo melhorar minha Magia em poucos dias, mas posso trabalhar minhas habilidades de combate.[lr]::
+61267::$$$message_0561_0005_0002$$$::Treinar com Saber até o jantar deve ser um bom uso do meu tempo.::

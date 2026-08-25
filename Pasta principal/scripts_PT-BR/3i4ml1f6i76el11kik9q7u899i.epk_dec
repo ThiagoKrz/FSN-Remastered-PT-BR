@@ -1,53 +1,53 @@
 DAT
 id=qid::label=str::text=lstr::
-58707::$$$message_0526_0000_0000$$$::[w l=4][line4]A luz adentra.[lr]::
-58708::$$$message_0526_0000_0001$$$::O calor que sinto pelas minhas palpebras me informa que amanheceu.::
-58709::$$$message_0526_0001_0000$$$::Me viro para longe da luz.[lr]::
-58710::$$$message_0526_0001_0001$$$::"Hm[w l=4][line4]"[lr]::
-58711::$$$message_0526_0001_0002$$$::Me sinto cansado.[lr]::
+58707::$$$message_0526_0000_0000$$$::[line4]A luz entra.[lr]::
+58708::$$$message_0526_0000_0001$$$::Mesmo de olhos fechados, ela anuncia a chegada da manhã.::
+58709::$$$message_0526_0001_0000$$$::Viro na cama, afastando o rosto da luz.[lr]::
+58710::$$$message_0526_0001_0001$$$::"Hm[line4]"[lr]::
+58711::$$$message_0526_0001_0002$$$::Ainda estou com sono.[lr]::
 58712::$$$message_0526_0001_0003$$$::Julgando pela sensação do ar, devem ser umas 5:30.::
 58713::$$$message_0526_0002_0000$$$::"[w l=8][line8]"[lr]::
-58714::$$$message_0526_0002_0001$$$::Fui para cama tarde ontem a noite.[lr]::
-58715::$$$message_0526_0002_0002$$$::Voltei da igreja, forcei a Saber a dormir em outro lugar, e finalmente deitei por volta das 3.[lr]::
-58716::$$$message_0526_0002_0003$$$::...não sei se aguento só duas horas de sono.[lr]::
-58717::$$$message_0526_0002_0004$$$::Ontem foi um dia exaustivamente frenético.[lr]::
-58718::$$$message_0526_0002_0005$$$::Ninguém pode me culpar se eu dormir mais 30 minu[w l=3][line3]::
-58719::$$$message_0526_0003_0000$$$::"[w l=4][line4]Huh?"[lr]::
-58720::$$$message_0526_0003_0001$$$::Acho que vi algo.[lr]::
+58714::$$$message_0526_0002_0001$$$::Fui dormir tarde ontem à noite.[lr]::
+58715::$$$message_0526_0002_0002$$$::Quando Saber e eu voltamos da igreja e eu a mandei dormir no quarto de hóspedes, já passava das três da manhã.[lr]::
+58716::$$$message_0526_0002_0003$$$::...Acho que duas horas de sono não bastam.[lr]::
+58717::$$$message_0526_0002_0004$$$::Ainda por cima, ontem eu acabei comigo de tanto correr.[lr]::
+58718::$$$message_0526_0002_0005$$$::Se eu conseguir dormir pelo menos mais trinta minutos, então[line3]::
+58719::$$$message_0526_0003_0000$$$::"[line4]Hã?"[lr]::
+58720::$$$message_0526_0003_0001$$$::No meio da sonolência, acho que acabei de ver alguma coisa.[lr]::
 58721::$$$message_0526_0003_0002$$$::Ao lado do meu futon.[lr]::
-58722::$$$message_0526_0003_0003$$$::Parece que algo grande está ao lado do meu futon.::
+58722::$$$message_0526_0003_0003$$$::Em outras palavras, está bem ao meu lado. Alguma coisa enorme está ajoelhada ali, absurdamente fora de lugar.::
 58723::$$$message_0526_0004_0000$$$::"......"[lr]::
-58724::$$$message_0526_0004_0001$$$::...pensando bem, sinto a presença de alguém.[lr]::
-58725::$$$message_0526_0004_0002$$$::Me sinto desconfortável, como se alguém estivesse me observando. Então [r]significa[w l=4][line4]::
+58724::$$$message_0526_0004_0001$$$::...Pensando bem, isso me lembra uma pessoa.[lr]::
+58725::$$$message_0526_0004_0002$$$::Está me encarando tão intensamente que fico nervoso. Hum, isso quer dizer que[line4]::
 58726::$$$message_0526_0005_0000$$$::"Saber......!"[lr]::
 58727::$$$message_0526_0005_0001$$$::"Sim, o que foi, Shirou?"[lr]::
-58728::$$$message_0526_0005_0002$$$::"P-Por que você está no meu quarto!? Te dei um quarto separado noite passada[w l=3][line3]!"::
-58729::$$$message_0526_0006_0000$$$::Pulo pra fora do futon e me levanto[w l=3][line3]não, me impeço no último segundo.[lr]::
-58730::$$$message_0526_0006_0001$$$::Não posso mostrar minhas extremidades porque é... um... uma manhã.::
-58731::$$$message_0526_0007_0000$$$::"Sim, e penso que há um problema com ela. Você me direcionou para um quarto, mas aquele quarto nem é perto do seu. Preciso estar ao seu lado para eu possa te proteger."::
-58732::$$$message_0526_0008_0000$$$::"E-Espera, só fique longe de mim...![lr]::
-58733::$$$message_0526_0008_0001$$$::Longe, por favor, longe, não, ficarei longe se você não ficar...!"::
-58734::$$$message_0526_0009_0000$$$::Ainda enrolado no meu futon, me jogo longe da Saber.[lr]::
+58728::$$$message_0526_0005_0002$$$::"P-por que você está no meu quarto!? Eu te levei para um quarto de hóspedes ontem à noite[line3]!"::
+58729::$$$message_0526_0006_0000$$$::Dou um pulo e começo a sair do futon, mas paro antes que a metade de baixo deixe as cobertas.[lr]::
+58730::$$$message_0526_0006_0001$$$::Homens, bem... têm certas coisas com que lidar de manhã.::
+58731::$$$message_0526_0007_0000$$$::"Eu me oponho. O senhor me mostrou outro quarto, mas ele fica longe demais. Seria mais adequado que eu permanecesse por perto para protegê-lo."::
+58732::$$$message_0526_0008_0000$$$::"E-espera, primeiro se afasta de mim...![lr]::
+58733::$$$message_0526_0008_0001$$$::Se afasta, por favor, se afasta. Droga, Saber, se você não sair, eu saio...!"::
+58734::$$$message_0526_0009_0000$$$::Começo a rolar para longe dela, ainda enrolado no futon como um rocambole.[lr]::
 58735::$$$message_0526_0009_0001$$$::"...?"[lr]::
-58736::$$$message_0526_0009_0002$$$::A Saber me olha confusa.::
-58737::$$$message_0526_0010_0000$$$::[w l=3][line3]Cara, o que ela pensa de um rapaz saudável de minha idade!?[lr]::
-58738::$$$message_0526_0010_0001$$$::Fico nervoso só de ter ela por perto, então é chocante ter ela sentada ao meu lado quando acordo. E foi um ataque surpresa também! Se minha compostura fosse um exercito, isso teria aniquilado-o.::
-58739::$$$message_0526_0011_0000$$$::"Shirou. Como eu dizia."[lr]::
-58740::$$$message_0526_0011_0001$$$::"Ugh... o quarto?"::
-58741::$$$message_0526_0012_0000$$$::"Sim. Devemos dormir juntos por segurança.[lr]::
-58742::$$$message_0526_0012_0001$$$::O Campo Limitado desta casa é excelente, mas só serve de aviso. Não fará nada para te proteger se formos atacados aqui."[lr]::
+58736::$$$message_0526_0009_0002$$$::Saber me observa, curiosa.::
+58737::$$$message_0526_0010_0000$$$::[line3]Droga, será que ela não sabe que eu sou um adolescente saudável?[lr]::
+58738::$$$message_0526_0010_0001$$$::Eu já fico nervoso quando ela chega perto, mas acordar com Saber ajoelhada bem ao meu lado é morte certa para meus neurônios. É uma emboscada capaz de aniquilar todos os bravos soldados do meu lobo frontal!::
+58739::$$$message_0526_0011_0000$$$::"Shirou, posso continuar?"[lr]::
+58740::$$$message_0526_0011_0001$$$::"Urgh... Você quer ficar no meu quarto?"::
+58741::$$$message_0526_0012_0000$$$::"Sim. Devemos descansar no mesmo quarto para que eu possa defendê-lo a qualquer momento.[lr]::
+58742::$$$message_0526_0012_0001$$$::O Campo Limitado desta casa é excelente, mas funciona apenas como alarme contra intrusos. Ele não o protegerá durante um ataque."[lr]::
 58743::$$$message_0526_0012_0002$$$::"......"::
-58744::$$$message_0526_0013_0000$$$::A Saber tem razão, mas queria que ela considerasse minha situação.[lr]::
-58745::$$$message_0526_0013_0001$$$::Ficarei louco antes de um inimigo nos atacar se eu dormir junto a ela.[lr]::
-58746::$$$message_0526_0013_0002$$$::Não é como eu ficarei sempre com ela, então devemos nos distanciar[w l=4][line4]::
-58747::$$$message_0526_0014_0000$$$::"[w l=4][line4]Ah."[lr]::
+58744::$$$message_0526_0013_0000$$$::Saber está certa, claro, mas eu queria que ela considerasse minha estabilidade mental.[lr]::
+58745::$$$message_0526_0013_0001$$$::Se ela dormir no mesmo quarto que eu, talvez eu perca a sanidade antes de perder a vida para um inimigo.[lr]::
+58746::$$$message_0526_0013_0002$$$::Além disso, não posso ficar com Saber vinte e quatro horas por dia, então talvez seja melhor traçar alguns limites[line4]::
+58747::$$$message_0526_0014_0000$$$::"[line4]Ah."[lr]::
 58748::$$$message_0526_0014_0001$$$::Esqueci completamente.[lr]::
 58749::$$$message_0526_0014_0002$$$::Tenho aula hoje...!::
-58750::$$$message_0526_0015_0000$$$::"Shirou? Por que está tão pálido? Notei que você faz essa cara sempre que vai sugerir alguma tolice."::
-58751::$$$message_0526_0016_0000$$$::"[w l=8][line8]"[lr]::
+58750::$$$message_0526_0015_0000$$$::"O que houve, Shirou? Você ficou pálido de repente. Já percebi que, sempre que faz essa expressão, está prestes a sugerir algo imprudente."::
+58751::$$$message_0526_0016_0000$$$::"[line8]"[lr]::
 58752::$$$message_0526_0016_0001$$$::Ela é afiada.[lr]::
-58753::$$$message_0526_0016_0002$$$::Sua aura anterior de lealdade some, e ela me mantém quieto com um olhar desconfiado.::
-58754::$$$message_0526_0017_0000$$$::"Bem, há algo que esqueci de te dizer."[lr]::
-58755::$$$message_0526_0017_0001$$$::Eu me ajoelho e encaro-a.[lr]::
-58756::$$$message_0526_0017_0002$$$::...bem.[lr]::
-58757::$$$message_0526_0017_0003$$$::Como faço para convencer ela a me deixar ir à escola sozinho?::
+58753::$$$message_0526_0016_0002$$$::A aura de juramento leal que ela tinha até agora desaparece, e Saber me observa com olhos desconfiados.::
+58754::$$$message_0526_0017_0000$$$::"Bem... tem uma coisa que eu esqueci de te contar."[lr]::
+58755::$$$message_0526_0017_0001$$$::Eu me sento diante dela.[lr]::
+58756::$$$message_0526_0017_0002$$$::...Certo.[lr]::
+58757::$$$message_0526_0017_0003$$$::Como posso convencê-la a me deixar ir para a escola sozinho?::

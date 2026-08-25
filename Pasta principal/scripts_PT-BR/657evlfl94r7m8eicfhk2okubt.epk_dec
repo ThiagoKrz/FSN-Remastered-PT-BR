@@ -1,127 +1,126 @@
 DAT
 id=qid::label=str::text=lstr::
-58886::$$$message_0528_0000_0000$$$::Subimos os degraus de pedra.[lr]::
+58886::$$$message_0528_0000_0000$$$::Subo os degraus de pedra.[lr]::
 58887::$$$message_0528_0000_0001$$$::A Saber já está armada.::
-58888::$$$message_0528_0001_0000$$$::"[w l=8][line8]"[lr]::
-58889::$$$message_0528_0001_0001$$$::"[w l=8][line8]"[lr]::
-58890::$$$message_0528_0001_0002$$$::Estamos ambos pressionando os nervos em preparação para um ataque inimigo.[lr]::
-58891::$$$message_0528_0001_0003$$$::Os degraus são longos, e o vento quente mesmo estando próximo ao pico da montanha.::
+58888::$$$message_0528_0001_0000$$$::"..."[lr]::
+58889::$$$message_0528_0001_0001$$$::"..."[lr]::
+58890::$$$message_0528_0001_0002$$$::Nós dois estamos tensos, esperando um ataque inimigo a qualquer momento.[lr]::
+58891::$$$message_0528_0001_0003$$$::A escadaria até o portão da montanha é longa, e a brisa é agradavelmente morna apesar de estarmos nas colinas.::
 58892::$$$message_0528_0002_0000$$$::De acordo com a Saber, essa montanha tem um Campo Limitado que repele Servos.[lr]::
-58893::$$$message_0528_0002_0001$$$::Servos perderão grande parte de seu poder e energia mágica se entrarem na montanha por qualquer outro lugar que não seja o portão da frente.[lr]::
-58894::$$$message_0528_0002_0002$$$::Logo, a única maneira de entrarmos é pelo portão da frente, mas...::
-58895::$$$message_0528_0003_0000$$$::"...pensei que teria uma emboscada. Você sente outro Servo aqui, Saber?"[lr]::
+58893::$$$message_0528_0002_0001$$$::Se tentarem se aproximar do Templo Ryuudou por qualquer caminho que não seja o portão, a barreira os fere e reduz sua energia mágica.[lr]::
+58894::$$$message_0528_0002_0002$$$::Portanto, a única forma de entrar no Templo Ryuudou é subir estes degraus.::
+58895::$$$message_0528_0003_0000$$$::"Eu tinha certeza de que tentariam nos emboscar. Você não sente nenhum Servo, Saber?"[lr]::
 58896::$$$message_0528_0003_0001$$$::"Não.[lr]::
-58897::$$$message_0528_0003_0002$$$::Não há outros Servos por aqui[w l=4][line4]"[lr]::
+58897::$$$message_0528_0003_0002$$$::Sou o único Servo nestes degraus[line2]"[lr]::
 58898::$$$message_0528_0003_0003$$$::A Saber repentinamente para e olha para baixo.::
-58899::$$$message_0528_0004_0000$$$::"Saber...? Viu algo?"[lr]::
-58900::$$$message_0528_0004_0001$$$::"...não, deve ter sido imaginação. Pensei ter visto uma katana, mas não encontro-a.[lr]::
-58901::$$$message_0528_0004_0002$$$::O portão não está protegido. Vamos entrar no templo."::
-58902::$$$message_0528_0005_0000$$$::A Saber começa a correr de novo.[lr]::
-58903::$$$message_0528_0005_0001$$$::"...?"[lr]::
-58904::$$$message_0528_0005_0002$$$::Deito a cabeça perplexo, mas corro atrás dela.::
-58905::$$$message_0528_0006_0000$$$::...O campo está quieto demais.[lr]::
-58906::$$$message_0528_0006_0001$$$::O vento forte.[lr]::
-58907::$$$message_0528_0006_0002$$$::Em volta, uma densa escuridão.[lr]::
-58908::$$$message_0528_0006_0003$$$::Apesar da lua no céu, uma escuridão terrível permanece.::
-58909::$$$message_0528_0007_0000$$$::"[w l=8][line8]"[lr]::
+58899::$$$message_0528_0004_0000$$$::"Saber...? O que houve?"[lr]::
+58900::$$$message_0528_0004_0001$$$::"...deve ter sido imaginação. Pensei ter visto algo parecido com uma katana, mas não há nada assim aqui.[lr]::
+58901::$$$message_0528_0004_0002$$$::   O portão está desprotegido. Vamos entrar."::
+58902::$$$message_0528_0005_0000$$$::Saber sobe os degraus de pedra depressa.[lr]::
+58903::$$$message_0528_0005_0001$$$::"Hm?"[lr]::
+58904::$$$message_0528_0005_0002$$$::Depois de um instante confuso, corro atrás dela.::
+58905::$$$message_0528_0006_0000$$$::Lá dentro, há silêncio.[lr]::
+58906::$$$message_0528_0006_0001$$$::O vento é forte.[lr]::
+58907::$$$message_0528_0006_0002$$$::As sombras, profundas.[lr]::
+58908::$$$message_0528_0006_0003$$$::Está terrivelmente escuro, apesar de a lua estar no céu.::
+58909::$$$message_0528_0007_0000$$$::"..."[lr]::
 58910::$$$message_0528_0007_0001$$$::Olho para cima.[lr]::
 58911::$$$message_0528_0007_0002$$$::A lua está lá, claro.[lr]::
-58912::$$$message_0528_0007_0003$$$::Seus raios iluminam o campo.[lr]::
-58913::$$$message_0528_0007_0004$$$::Mas o mesmo se encontra encoberto em na escuridão.::
+58912::$$$message_0528_0007_0003$$$::Ela brilha intensamente, iluminando o terreno apagado do templo.[lr]::
+58913::$$$message_0528_0007_0004$$$::Mesmo assim, a área está engolida pelas sombras.::
 58914::$$$message_0528_0008_0000$$$::"Saber."[lr]::
-58915::$$$message_0528_0008_0001$$$::"Sim, há algo errado. Ninguém deixaria nos irmos tão longe sem resistência. E[w l=3][line3]está quieto demais."[lr]::
-58916::$$$message_0528_0008_0002$$$::"...vamos entrar. Há cerca de cinquenta pessoas morando no Templo Ryuudou.[lr]::
-58917::$$$message_0528_0008_0003$$$::Não poderia estar tão quieto."::
-58918::$$$message_0528_0009_0000$$$::Seguimos em direção am templo.[lr]::
-58919::$$$message_0528_0009_0001$$$::[w l=3][line3]Não há ninguém ao redor.[lr]::
-58920::$$$message_0528_0009_0002$$$::Depois de confirmarmos que o campo está vazio, entramos.::
-58921::$$$message_0528_0010_0000$$$::[w l=3][line3]Todos no templo estão dormindo.[lr]::
-58922::$$$message_0528_0010_0001$$$::Nem mesmo tremem.[lr]::
-58923::$$$message_0528_0010_0002$$$::Não reagem quando os tocamos.[lr]::
-58924::$$$message_0528_0010_0003$$$::Todos os monges, sem exceção, estão enfraquecidos.[lr]::
-58925::$$$message_0528_0010_0004$$$::Não importa o quanto tentamos mexê-los, eles ficam parados, respirando calmamente, como se estivessem sonhando.::
-58926::$$$message_0528_0011_0000$$$::E como esperado, meu colega está entre eles.[lr]::
-58927::$$$message_0528_0011_0001$$$::Ryuudou Issei está dormindo calmamente também.::
-58928::$$$message_0528_0012_0000$$$::"[w l=8][line8]"[lr]::
+58915::$$$message_0528_0008_0001$$$::"Sim, há algo errado. É inconcebível que ninguém reaja à nossa entrada. E está quieto demais."[lr]::
+58916::$$$message_0528_0008_0002$$$::"...vamos procurar lá dentro. Quase cinquenta pessoas vivem no Templo Ryuudou.[lr]::
+58917::$$$message_0528_0008_0003$$$::Não tem como estar tão quieto assim."::
+58918::$$$message_0528_0009_0000$$$::Entro no templo com Saber.[lr]::
+58919::$$$message_0528_0009_0001$$$::   Não há ninguém por perto.[lr]::
+58920::$$$message_0528_0009_0002$$$::Depois de confirmar que o terreno está vazio, eu e Saber avançamos mais fundo pelos prédios.::
+58921::$$$message_0528_0010_0000$$$::   Todos lá dentro estão dormindo.[lr]::
+58922::$$$message_0528_0010_0001$$$::Não mostram sinal de que vão acordar.[lr]::
+58923::$$$message_0528_0010_0002$$$::Não reagem nem quando os toco ou tento levantá-los.[lr]::
+58924::$$$message_0528_0010_0003$$$::Cada um dos cerca de cinquenta monges está em coma.[lr]::
+58925::$$$message_0528_0010_0004$$$::Todos jazem em um sono agradável, quase onírico, respirando com regularidade.::
+58926::$$$message_0528_0011_0000$$$::É claro que um dos meus colegas está entre eles.[lr]::
+58927::$$$message_0528_0011_0001$$$::Ryuudou Issei está adormecido. Só o vi tão relaxado poucas vezes, na privacidade da sala do conselho estudantil.::
+58928::$$$message_0528_0012_0000$$$::"..."[lr]::
 58929::$$$message_0528_0012_0001$$$::Rapidamente cruzamos o corredor de madeira.[lr]::
-58930::$$$message_0528_0012_0002$$$::...pois a Saber sentiu uma presença.[lr]::
-58931::$$$message_0528_0012_0003$$$::A Saber apontou para o templo principal.[lr]::
-58932::$$$message_0528_0012_0004$$$::O Mestre responsável por este desastre está lá.::
-58933::$$$message_0528_0013_0000$$$::Entramos no santuário.[lr]::
-58934::$$$message_0528_0013_0001$$$::A primeira coisa que vemos é sangue vermelho espalhado pelo chão.::
+58930::$$$message_0528_0012_0002$$$::Saber sente algo.[lr]::
+58931::$$$message_0528_0012_0003$$$::Ela nos conduz até o santuário principal mais ao fundo.[lr]::
+58932::$$$message_0528_0012_0004$$$::O Mestre por trás deste desastre deve estar à espreita no coração do templo.::
+58933::$$$message_0528_0013_0000$$$::Entramos no santuário principal.[lr]::
+58934::$$$message_0528_0013_0001$$$::De repente, meus olhos encontram sangue escarlate espalhado por todo o chão.::
 58935::$$$message_0528_0014_0000$$$::"...!?"[lr]::
-58936::$$$message_0528_0014_0001$$$::O centro do templo está molhado de sangue.[lr]::
+58936::$$$message_0528_0014_0001$$$::O centro do santuário está encharcado de vermelho.[lr]::
 58937::$$$message_0528_0014_0002$$$::Há um homem deitado lá também.[lr]::
-58938::$$$message_0528_0014_0003$$$::Seu peito deve ter sido perfurado, já que ele está tingindo o chão de vermelho.::
+58938::$$$message_0528_0014_0003$$$::Há uma poça vermelha se espalhando a partir dele. Talvez tenha sido perfurado no peito.::
 58939::$$$message_0528_0015_0000$$$::O ferimento é fatal, ele já perdeu sangue o bastante para morrer.[lr]::
 58940::$$$message_0528_0015_0001$$$::Ele já está morto.[lr]::
-58941::$$$message_0528_0015_0002$$$::Conheço esse homem, e parece que ele era o Mestre daquela ao seu lado.::
-58942::$$$message_0528_0016_0000$$$::A Serva está olhando para seu Mestre com uma misteriosa adaga em mãos.[lr]::
-58943::$$$message_0528_0016_0001$$$::"......!"[lr]::
-58944::$$$message_0528_0016_0002$$$::Dor cruza minha mente, acompanhando por um sentimento de apreensão.[lr]::
-58945::$$$message_0528_0016_0003$$$::Não temo esta cena, mas...::
-58946::$$$message_0528_0017_0000$$$::Aquela[w l=4][line4][lr]::
-58947::$$$message_0528_0017_0001$$$::Aquela adaga é sombria.[lr]::
-58948::$$$message_0528_0017_0002$$$::Parece que a Saber não sente nada, mas posso notar que ela possuí um poder perigoso.::
-58949::$$$message_0528_0018_0000$$$::"Caster...!"[lr]::
-58950::$$$message_0528_0018_0001$$$::A Saber se prepara.[lr]::
-58951::$$$message_0528_0018_0002$$$::A Serva de roxo, Caster, não responde.[lr]::
-58952::$$$message_0528_0018_0003$$$::Não sei se a Saber notou isso como uma abertura ou como insulto...[lr]::
-58953::$$$message_0528_0018_0004$$$::Mas ela tenta atacar[w l=4][line4]::
-58954::$$$message_0528_0019_0000$$$::"Não, espera, Saber...!"[lr]::
-58955::$$$message_0528_0019_0001$$$::"Shirou...!? Por que está me impedindo? É nossa melhor chance de derrotar a Cast[w l=4][line4]"::
-58956::$$$message_0528_0020_0000$$$::"Não, só não chegue perto daquela adaga...! Aquela coisa pode quebrar contratos. Pode até mesmo cortar a ligação entre Servo e Mestre."[lr]::
-58957::$$$message_0528_0020_0001$$$::"Então[w l=3][line3]a Caster matou seu Mestre?"::
-58958::$$$message_0528_0021_0000$$$::"......"[lr]::
-58959::$$$message_0528_0021_0001$$$::Não sei se ela matou.[lr]::
-58960::$$$message_0528_0021_0002$$$::Mas tenho certeza de que a adaga que ela tem possuí um poder impossível.::
-58961::$$$message_0528_0022_0000$$$::"Caster[w l=3][line3]você matou seu próprio mestre...!!"[lr]::
-58962::$$$message_0528_0022_0001$$$::A Saber avança com um rugido nervoso.[lr]::
-58963::$$$message_0528_0022_0002$$$::...a Caster se vira.[lr]::
-58964::$$$message_0528_0022_0003$$$::Sem vida, ela parece mais um fantasma do que um espírito heroico.::
+58941::$$$message_0528_0015_0002$$$::Ele parece familiar, e deve ser o Mestre da coisa parada ao lado dele.::
+58942::$$$message_0528_0016_0000$$$::O Servo está ali, olhando para o cadáver sem vida de seu Mestre.[lr]::
+58943::$$$message_0528_0016_0001$$$::"..."[lr]::
+58944::$$$message_0528_0016_0002$$$::Uma dor de cabeça me assalta, acompanhada de uma inquietação alarmante.[lr]::
+58945::$$$message_0528_0016_0003$$$::Não é a cena grotesca que me apavora, e sim[line2]::
+58946::$$$message_0528_0017_0000$$$::Aquela coisa...[lr]::
+58947::$$$message_0528_0017_0001$$$::Aquela adaga... é algo ruim.[lr]::
+58948::$$$message_0528_0017_0002$$$::Saber não parece senti-la, mas, de algum modo, sei que o poder naquela adaga não é coisa boa.::
+58949::$$$message_0528_0018_0000$$$::"Caster!"[lr]::
+58950::$$$message_0528_0018_0001$$$::Saber se põe pronta para lutar.[lr]::
+58951::$$$message_0528_0018_0002$$$::Caster, o Servo de vestes roxas, não reage.[lr]::
+58952::$$$message_0528_0018_0003$$$::Será porque a pegamos de surpresa, ou porque foi pega em flagrante?[lr]::
+58953::$$$message_0528_0018_0004$$$::Saber se agacha levemente, pronta para atacar Caster num só fôlego.::
+58954::$$$message_0528_0019_0000$$$::"Não, Saber! Espera!"[lr]::
+58955::$$$message_0528_0019_0001$$$::"Por que está me impedindo, Shirou!? Esta é nossa chance de derrotar Caster[line2]"::
+58956::$$$message_0528_0020_0000$$$::"Não é isso, eu quero dizer para não tocar naquela adaga! Ela destrói magecraft. Pode cortar até o contrato entre Mestre e Servo!"[lr]::
+58957::$$$message_0528_0020_0001$$$::"Então Caster, o seu Mestre..."::
+58958::$$$message_0528_0021_0000$$$::"..."[lr]::
+58959::$$$message_0528_0021_0001$$$::Não sabemos ao certo se ela matou o próprio Mestre.[lr]::
+58960::$$$message_0528_0021_0002$$$::Mas está claro para mim que a adaga na mão dela tem uma capacidade incomparável de desfazer efeitos mágicos.::
+58961::$$$message_0528_0022_0000$$$::"Caster, você mataria seu próprio Mestre!?"[lr]::
+58962::$$$message_0528_0022_0001$$$::Saber avança furiosa.[lr]::
+58963::$$$message_0528_0022_0002$$$::...Caster se vira para nos olhar.[lr]::
+58964::$$$message_0528_0022_0003$$$::Seu comportamento sem vida a faz parecer mais uma aparição do que um Espírito Heroico.::
 58965::$$$message_0528_0023_0000$$$::A espada atravessa o ar.[lr]::
-58966::$$$message_0528_0023_0001$$$::Corta a capa da Caster, mas ela consegue esquivar.::
-58967::$$$message_0528_0024_0000$$$::"[w l=3][line3]Saber...?[lr]::
-58968::$$$message_0528_0024_0001$$$::Entendo. Você deve ter vindo acabar comigo. Não sei de quem foi esse plano, mas ele é bem completo."::
-58969::$$$message_0528_0025_0000$$$::"Silêncio. Não quero nada da pessoa que traiu seu mestre. Se arrependa de suas ações e receba sua punição."[lr]::
-58970::$$$message_0528_0025_0001$$$::"Hah[w l=3][line3]eu matei meu Mestre? Eu matei o Souichirou-sama?[lr]::
-58971::$$$message_0528_0025_0002$$$::Fuh[w l=3][line3]haha, ahahahahaha! Que piada! Talvez eu devesse ter feito mesmo, se eu soubesse que acabaria assim...!"::
-58972::$$$message_0528_0026_0000$$$::Ela começa a rir loucamente.[lr]::
-58973::$$$message_0528_0026_0001$$$::A maga de capa escura coloca sua adaga de lado e aponta para a Saber.::
-58974::$$$message_0528_0027_0000$$$::"[w l=3][line3]Você me irrita, Saber. Suma junto ao seu mestre."[lr]::
-58975::$$$message_0528_0027_0001$$$::"[w l=8][line8]"[lr]::
-58976::$$$message_0528_0027_0002$$$::A Saber nem precisa responder.[lr]::
-58977::$$$message_0528_0027_0003$$$::Ela levanta sua espada sem hesitar.::
+58966::$$$message_0528_0023_0001$$$::A espada de Saber rasga o manto de Caster, dilacerando suas roupas enquanto ela salta para trás e se esquiva.::
+58967::$$$message_0528_0024_0000$$$::"Sa...ber...?[lr]::
+58968::$$$message_0528_0024_0001$$$::Você deve ter vindo acabar comigo. Não sei quem te mandou fazer isso, mas foi bem minucioso."::
+58969::$$$message_0528_0025_0000$$$::"Silêncio. Não quero ouvir as palavras de alguém que trai seu senhor. [lr]::
+58970::$$$message_0528_0025_0001$$$::"Ha! Você acha que eu matei meu Mestre? Que eu feriria Souichirou?[lr]::
+58971::$$$message_0528_0025_0002$$$::Heh... haha, hahahahahaha! Que divertido. Sim, se eu soubesse que acabaria assim, talvez eu mesma tivesse feito isso!"::
+58972::$$$message_0528_0026_0000$$$::Ela tosse sangue enquanto ri.[lr]::
+58973::$$$message_0528_0026_0001$$$::A maga vestida de preto esconde a estranha adaga sob o manto e estende uma mão contra Saber.::
+58974::$$$message_0528_0027_0000$$$::"Você me irrita, Saber. Desapareça junto com seu Mestre."[lr]::
+58975::$$$message_0528_0027_0001$$$::"..."[lr]::
+58976::$$$message_0528_0027_0002$$$::Não há mais nada a dizer.[lr]::
+58977::$$$message_0528_0027_0003$$$::Observando Caster com atenção, Saber balança a espada sem hesitar.::
 58978::$$$message_0528_0028_0000$$$::...e Caster desaparece.[lr]::
-58979::$$$message_0528_0028_0001$$$::A batalha entre ambas nem poderia ser chamada de tal.::
-58980::$$$message_0528_0029_0000$$$::A magia da Caster era surpresa, mas inútil contra Saber, que possuí alta resistência mágica.[lr]::
-58981::$$$message_0528_0029_0001$$$::A Saber anulou todos os feitiços da Caster e matou-a com um só golpe.::
-58982::$$$message_0528_0030_0000$$$::"Derrotei a Caster. Por favor me dê sua ordem, Mestre."[lr]::
-58983::$$$message_0528_0030_0001$$$::"Eh[w l=3][line3]? A-Ah. ...bem, não podemos fazer nada aqui. Vamos avisar o hospital... não, o Kotomine. Poderemos salvar as pessoas daqui assim."::
+58979::$$$message_0528_0028_0001$$$::O choque entre elas nem poderia ser chamado de luta.::
+58980::$$$message_0528_0029_0000$$$::Caster pode ter um magecraft extraordinário, mas ele foi completamente inútil contra a alta Resistência Mágica de Saber.[lr]::
+58981::$$$message_0528_0029_0001$$$::Saber ignorou a rajada de feitiços de Caster e a derrubou com um único golpe.::
+58982::$$$message_0528_0030_0000$$$::"Derrotei Caster. Suas ordens, Mestre."[lr]::
+58983::$$$message_0528_0030_0001$$$::"Uh. C-certo. Bem, não há mais nada a fazer aqui. Eu poderia chamar o hospital... ou melhor, devo deixar o Kotomine cuidar do resto. Ele deve conseguir ajudar todas as pessoas inconscientes."::
 58984::$$$message_0528_0031_0000$$$::...mas não podemos salvar o corpo em nossa frente.[lr]::
 58985::$$$message_0528_0031_0001$$$::A Caster se foi, deixando apenas o corpo do Mestre dela aos nossos pés.[lr]::
-58986::$$$message_0528_0031_0002$$$::...sua morte acabará sendo um segredo.[lr]::
-58987::$$$message_0528_0031_0003$$$::Ninguém saberá o que houve com ele, e ele desaparecerá da memória de todos.::
+58986::$$$message_0528_0031_0002$$$::...sua morte será enterrada na escuridão.[lr]::
+58987::$$$message_0528_0031_0003$$$::Esta noite, ele deu seu último suspiro, e um dia desaparecerá da memória das pessoas sem que seu fim seja conhecido.::
 58988::$$$message_0528_0032_0000$$$::"Shirou."[lr]::
-58989::$$$message_0528_0032_0001$$$::"...eu sei. Ainda há mais quatro Mestres. Não temos tempo a perder."[lr]::
-58990::$$$message_0528_0032_0002$$$::"Foi uma decisão sábia. Entendo seus sentimentos, mas não é hora para isso."::
-58991::$$$message_0528_0033_0000$$$::A Saber se vira e começa a andar.[lr]::
-58992::$$$message_0528_0033_0001$$$::"[w l=8][line8]"[lr]::
-58993::$$$message_0528_0033_0002$$$::Gravando a imagem do corpo em minha mente, sigo-a.::
-58994::$$$message_0528_0034_0000$$$::"[w l=4][line4]Huh?"[lr]::
+58989::$$$message_0528_0032_0001$$$::"...eu sei. Ainda há mais quatro Mestres. Não posso congelar aqui."[lr]::
+58990::$$$message_0528_0032_0002$$$::"É sábio da sua parte dizer isso. Entendo como se sente, mas tente não se prender ao sentimentalismo."::
+58991::$$$message_0528_0033_0000$$$::Saber dá as costas ao santuário.[lr]::
+58992::$$$message_0528_0033_0001$$$::"..."[lr]::
+58993::$$$message_0528_0033_0002$$$::Ao menos vou gravar na memória a visão do corpo caído antes de segui-la.::
+58994::$$$message_0528_0034_0000$$$::"Hã?"[lr]::
 58995::$$$message_0528_0034_0001$$$::Espera...[lr]::
 58996::$$$message_0528_0034_0002$$$::O que era aquilo...?::
 58997::$$$message_0528_0035_0000$$$::"Shirou? Por que parou?"[lr]::
-58998::$$$message_0528_0035_0001$$$::"Eh... um. Senti o olhar de alguém em mim, como se estivessemos sendo observados. Não o sentiu?"::
-58999::$$$message_0528_0036_0000$$$::"Não, não senti nada. Já determinamos que não tem ninguém aqui. Não é só sua imaginação?"[lr]::
-59000::$$$message_0528_0036_0001$$$::"Uh... talvez. Se pensar assim, é deve ser. Acho que foi só impressão minha."::
-59001::$$$message_0528_0037_0000$$$::"Então vamos correr. As pessoas vão acordar agora que a Caster morreu. Seria complicado se alguém nos visse aqui."::
+58998::$$$message_0528_0035_0001$$$::"Hã? Uh, hm, por um segundo senti como se estivéssemos sendo observados. Você não sentiu, Saber?"::
+58999::$$$message_0528_0036_0000$$$::"Não senti nada. Já verificamos os arredores em busca de outras pessoas. Tem certeza de que não foi só imaginação?"[lr]::
+59000::$$$message_0528_0036_0001$$$::"Urgh... talvez. Aposto que você tem razão, Saber. É, provavelmente não foi nada."::
+59001::$$$message_0528_0037_0000$$$::"Então vamos nos apressar. Agora que Caster caiu, suas vítimas começarão a acordar. Devemos sair antes que alguém nos veja."::
 59002::$$$message_0528_0038_0000$$$::...ela tem razão.[lr]::
-59003::$$$message_0528_0038_0001$$$::Esta noite deixará um mal gosto em minha boca, mas deve acabar com os incidentes de coma misteriosos.[lr]::
-59004::$$$message_0528_0038_0002$$$::Isso deve bastar por hoje.::
-59005::$$$message_0528_0039_0000$$$::"Certo. Vamos sair daqui e entrar em contato com o Kotomine, e então vamos[r]para casa descansar."[lr]::
+59003::$$$message_0528_0038_0001$$$::Isso deixa um gosto ruim na boca, mas deve pôr fim aos comas acontecendo pela cidade.[lr]::
+59004::$$$message_0528_0038_0002$$$::Ao menos posso considerar isso uma vitória.::
+59005::$$$message_0528_0039_0000$$$::"Certo. Vamos sair da montanha e avisar o Kotomine. Depois vamos para casa descansar."[lr]::
 59006::$$$message_0528_0039_0001$$$::A Saber concorda satisfeita e deixa o templo.::
-59007::$$$message_0528_0040_0000$$$::"[w l=8][line8]"[lr]::
-59008::$$$message_0528_0040_0001$$$::Sigo-a, embora seja muito difícil para mim deixar este lugar.[lr]::
-59009::$$$message_0528_0040_0002$$$::...o homem que era um Mestre descansa silenciosamente neste lugar sagrado.::
-t
+59007::$$$message_0528_0040_0000$$$::"..."[lr]::
+59008::$$$message_0528_0040_0001$$$::Ignoro o formigamento incômodo vindo de trás e sigo Saber.[lr]::
+59009::$$$message_0528_0040_0002$$$::...tudo que resta no santuário é o silêncio e o corpo do antigo Mestre.::

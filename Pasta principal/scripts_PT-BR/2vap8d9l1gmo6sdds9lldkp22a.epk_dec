@@ -2,40 +2,39 @@ DAT
 id=qid::label=str::text=lstr::
 58497::$$$message_0524_0000_0000$$$::As luzes se apagam.[lr]::
 58498::$$$message_0524_0000_0001$$$::São onze da noite e a cidade dorme.::
-58499::$$$message_0524_0001_0000$$$::"[w l=3][line3]Então há um Mestre no Templo Ryuudou?"[lr]::
-58500::$$$message_0524_0001_0001$$$::"De acordo com a Tohsaka. Ela disse que não deveriamos lutar com eles por serem inimigos problemáticos, mas parecem serem responsáveis pelos comas na cidade. ...não sei se é verdade, mas temos que descobrir."::
-58501::$$$message_0524_0002_0000$$$::"...Sim. Sinto algo intencional nas linhas ley apontando para o Templo Ryuudou. Tenho certeza de que há um Mestre naquela montanha."[lr]::
-58502::$$$message_0524_0002_0001$$$::"...? O que há de errado, Saber? Parece que há algo te incomodado. Está menos animada do que noite passada."::
-58503::$$$message_0524_0003_0000$$$::"[w l=3][line3]Sim. Aquela montanha é um lugar tenebroso para Servos.[lr]::
-58504::$$$message_0524_0003_0001$$$::Gostaria de evitar ataques descuidados."::
-58505::$$$message_0524_0004_0000$$$::"...Hm. Devemos patrulhar a cidade e evitar o ataque ao Templo até termos mais informações? É perigoso atacá-los quando não sabemos nada a respeito deles."::
-58506::$$$message_0524_0005_0000$$$::"Não, não é necessário. Um Mestre que montou sua base lá não revelaria sua identidade facilmente. Se formos derrotá-los rapidamente, devemos atacá-los diretamente sem pudor."::
-58507::$$$message_0524_0006_0000$$$::A Saber está determinada.[lr]::
-58508::$$$message_0524_0007_0000$$$::"[w l=3][line3]Certo, vamos ao Templo Ryuudou.[lr]::
-58509::$$$message_0524_0007_0001$$$::Mas apenas investigaremos hoje a noite.[lr]::
-58510::$$$message_0524_0007_0002$$$::Vamos recuar assim que descobrimos quem é o Mestre e qual é seu Servo. Queria fazer mais, mas não posso apoia-la, então quero ser cuidadoso."::
-58511::$$$message_0524_0008_0000$$$::Não posso permitir que a Saber seja ferida, como na luta contra o Berserker.[lr]::
-58512::$$$message_0524_0008_0001$$$::Se eu não puder ajudá-la diretamente, devo protegê-lá de outra forma.::
-58513::$$$message_0524_0009_0000$$$::"......Entendido. Confiarei em seu julgamento final. Por favor decida então se lutaremos ou recuaremos."[lr]::
-58514::$$$message_0524_0009_0001$$$::"...Hm. Fico feliz em ouvi isso, mas é assustador também. Posso me acovardar mesmo se o inimigo for graco."::
+58499::$$$message_0524_0001_0000$$$::"[line3]Então há um Mestre no Templo Ryuudou?"[lr]::
+58500::$$$message_0524_0001_0001$$$::"Pelo menos segundo Tohsaka. Ela disse para não mexermos com eles por serem problemáticos, mas parece que estão por trás dos casos de coma na cidade... Não sei se é verdade, mas acho que vale verificar."::
+58501::$$$message_0524_0002_0000$$$::"...Sim. Também sinto uma interferência deliberada nas linhas ley que levam ao Templo Ryuudou. Há pouca dúvida de que um Mestre se refugiou naquela montanha."[lr]::
+58502::$$$message_0524_0002_0001$$$::"...? O que foi, Saber? Você não parece muito animada em comparação com ontem."::
+58503::$$$message_0524_0003_0000$$$::"[line3]Sim. É melhor que Servos evitem aquela montanha.[lr]::
+58504::$$$message_0524_0003_0001$$$::Eu preferiria não lançar um ataque precipitado."::
+58505::$$$message_0524_0004_0000$$$::"...Hmm. Então devemos nos limitar à patrulha hoje e juntar mais informações sobre o Templo Ryuudou antes de investigar? Você tem razão, seria imprudente entrar lá sem saber nada sobre o Servo ou o Mestre."::
+58506::$$$message_0524_0005_0000$$$::"Não, isso não será necessário. Um Mestre que fez do Templo Ryuudou sua base dificilmente revelará a própria identidade. Se deseja resolver isso depressa, a única opção é um ataque frontal."::
+58507::$$$message_0524_0006_0000$$$::...Se Saber diz isso, então provavelmente temos chance de vitória. Além disso, se o Mestre do Templo Ryuudou está causando os comas, preciso detê-lo o quanto antes.[lr]::
+58508::$$$message_0524_0007_0000$$$::"[line3]Certo. Vamos ao Templo Ryuudou.[lr]::
+58509::$$$message_0524_0007_0001$$$::Mas, Saber, hoje só vamos fazer reconhecimento.[lr]::
+58510::$$$message_0524_0007_0002$$$::Assim que descobrirmos quem é o Mestre e qual Servo ele tem, recuamos... Sei que é patético, mas eu não consigo te dar apoio lá fora. Prefiro pecar pelo excesso de cautela."::
+58511::$$$message_0524_0008_0000$$$::Não posso deixar Saber se ferir sozinha como aconteceu contra Berserker.[lr]::
+58512::$$$message_0524_0008_0001$$$::Se não posso ajudá-la em combate, preciso protegê-la de outro jeito.::
+58513::$$$message_0524_0009_0000$$$::"...Entendido. Deixarei a decisão final entre lutar e recuar em suas mãos."[lr]::
+58514::$$$message_0524_0009_0001$$$::"...Hmm. Fico feliz em ouvir isso, mas também dá medo. Mesmo que o inimigo seja alguém que podemos vencer, sou capaz de me acovardar e fugir."::
 58515::$$$message_0524_0010_0000$$$::"Entendo. A possibilidade existe já que você é inexperiente em combate."[lr]::
 58516::$$$message_0524_0010_0001$$$::"Sim, isso mesmo. Quero evitar entrar num campo minado, então me alerte, por favor."::
-58517::$$$message_0524_0011_0000$$$::"Entendido. Assim o farei se você tomar a escolha errada.[lr]::
-58518::$$$message_0524_0011_0001$$$::Você aprenderá pouco se eu meramente te avisar, então te penalizarei se você cometer um erro."[lr]::
-58519::$$$message_0524_0011_0002$$$::"...ei, como assim penalizar?"::
-58520::$$$message_0524_0012_0000$$$::"Onde estaria a graça se eu te contasse? Será um segredo, já que é um dos poucos prazeres que tenho."[lr]::
-58521::$$$message_0524_0012_0001$$$::...Ugh.[lr]::
-58522::$$$message_0524_0012_0002$$$::Essa piada não é muito a cara dela. Deve ser a influência da Fuji-nee.[lr]::
-58523::$$$message_0524_0012_0003$$$::Espero que seja mesmo uma piada.::
-58524::$$$message_0524_0013_0000$$$::"Mas deixando isso de lado, Shirou... a Sakura ficará bem? Ela aparecia estranhamente mal."[lr]::
-58525::$$$message_0524_0013_0001$$$::"Pensei nisso também, mas não vi nada de errado quando medi sua temperatura. Deixarei ela ter uma boa noite de sono e verei como ela está amanhã."::
-58526::$$$message_0524_0014_0000$$$::"Entendo. Então podemos sair em luta sem preocupações."[lr]::
+58517::$$$message_0524_0011_0000$$$::"Muito bem. Então eu o avisarei caso tome uma decisão errada.[lr]::
+58518::$$$message_0524_0011_0001$$$::Naturalmente, só isso não o ajudaria a crescer. Portanto, se cometer um erro, que tal pensarmos em algum tipo de penalidade?"[lr]::
+58519::$$$message_0524_0011_0002$$$::"...Hmm. Que tipo de penalidade, exatamente?"::
+58520::$$$message_0524_0012_0000$$$::"Ora, contar estragaria a surpresa. É um dos poucos prazeres que tenho, então guardarei segredo por enquanto."[lr]::
+58521::$$$message_0524_0012_0001$$$::...Urgh.[lr]::
+58522::$$$message_0524_0012_0002$$$::Saber parece estar fazendo uma piada. Talvez seja influência da Fuji-nee.[lr]::
+58523::$$$message_0524_0012_0003$$$::De qualquer forma, espero mesmo que seja uma piada.::
+58524::$$$message_0524_0013_0000$$$::"Contudo, Shirou... Sakura ficará bem? O sofrimento dela parecia bastante incomum."[lr]::
+58525::$$$message_0524_0013_0001$$$::"Sim, eu também achei. Medi a temperatura dela, mas a febre não estava tão alta. Por enquanto, vou deixá-la descansar bem esta noite e ver como ela fica amanhã."::
+58526::$$$message_0524_0014_0000$$$::"Entendo. Então podemos partir para a batalha sem hesitação."[lr]::
 58527::$$$message_0524_0014_0001$$$::Eu concordo e olho para o edifício anexo.[lr]::
 58528::$$$message_0524_0014_0002$$$::O quarto da Sakura está no segundo andar.[lr]::
-58529::$$$message_0524_0014_0003$$$::Tenho que sair sem que ela perceba, e tenho que voltar como se nada tivesse acontecido.::
-58530::$$$message_0524_0015_0000$$$::"[w l=4][line4]Vamos, Saber. Tenho que agir como um Mestre agora. Não pensarei em mais nada."::
-58531::$$$message_0524_0016_0000$$$::Saio com a Saber ao meu lado.[lr]::
-58532::$$$message_0524_0016_0001$$$::Ar pesado, nuvens pairam sobre a luta, escurecendo a noite.[lr]::
-58533::$$$message_0524_0016_0002$$$::[w l=4][line4]O vento sopra as nuvens ao redor.[lr]::
-58534::$$$message_0524_0016_0003$$$::Iluminados pela fraca luz do luar, começamos a correr em direção do território inimigo.::
-
+58529::$$$message_0524_0014_0003$$$::Temos que sair e voltar para casa sem que ela perceba.::
+58530::$$$message_0524_0015_0000$$$::"[line4]Vamos, Saber. Daqui em diante, estou no tempo de Mestre. Não vou pensar em mais nada."::
+58531::$$$message_0524_0016_0000$$$::Saio de casa com Saber.[lr]::
+58532::$$$message_0524_0016_0001$$$::A lua está alta no céu, e a escuridão parece ainda mais densa.[lr]::
+58533::$$$message_0524_0016_0002$$$::[line4]Talvez por causa do vento, as nuvens passam depressa lá em cima.[lr]::
+58534::$$$message_0524_0016_0003$$$::Sob a luz pálida da lua, que aparece e desaparece entre as nuvens, partimos em ritmo acelerado rumo ao território inimigo.::
