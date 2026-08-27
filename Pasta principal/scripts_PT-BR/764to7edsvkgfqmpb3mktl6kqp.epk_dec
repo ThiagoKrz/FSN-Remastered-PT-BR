@@ -1,68 +1,67 @@
 DAT
 id=qid::label=str::text=lstr::
-59993::$$$message_0546_0000_0000$$$::Escalamos a cerca que diz "não ultrapasse" no templo.[lr]::
-59994::$$$message_0546_0000_0001$$$::O Templo Ryuudou é considerado uma importante evidência material no incidente do coma, e ninguém pode entrar.::
+59993::$$$message_0546_0000_0000$$$::Passamos por cima da cerca de "ENTRADA PROIBIDA" e entramos no pátio do templo.[lr]::
+59994::$$$message_0546_0000_0001$$$::Desde nosso encontro com Caster, o Templo Ryuudou passou a ser tratado como prova importante no caso dos comas em massa e foi fechado ao público.::
 59995::$$$message_0546_0001_0000$$$::"......"[lr]::
-59996::$$$message_0546_0001_0001$$$::O ar noturno não parece diferente.[lr]::
-59997::$$$message_0546_0001_0002$$$::Está quente, e cheira como uma fruta madura.::
-59998::$$$message_0546_0002_0000$$$::"...vamos, Saber."[lr]::
-59999::$$$message_0546_0002_0001$$$::"Sim. ...tenha cuidado, Shirou."[lr]::
+59996::$$$message_0546_0001_0001$$$::O ar daqui ainda provoca a mesma sensação na minha pele.[lr]::
+59997::$$$message_0546_0001_0002$$$::É morno de um jeito desagradável, com cheiro de fruta madura.::
+59998::$$$message_0546_0002_0000$$$::"...vamos entrar, Saber."[lr]::
+59999::$$$message_0546_0002_0001$$$::"Sim. Tenha cuidado, Shirou."[lr]::
 60000::$$$message_0546_0002_0002$$$::"Eu sei. Me avise imediatamente se presentir perigo."::
-60001::$$$message_0546_0003_0000$$$::...vamos pelo complexo e escalar para a entrada.[lr]::
-60002::$$$message_0546_0003_0001$$$::O corredor de madeira é escuro, e o chão range com cada passo.::
-60003::$$$message_0546_0004_0000$$$::"...nada parece estranho. O que acha, Saber?"[lr]::
-60004::$$$message_0546_0004_0001$$$::"...penso o mesmo. Mas tenho certeza que há algo anormal nesta região. Estamos cercado por um tipo distinto de senso comum desde que chegamos nesta montanha.[lr]::
-60005::$$$message_0546_0004_0002$$$::...é anormal pois está montanha está repleta de energia mágica e não achamos isso estranho."::
-60006::$$$message_0546_0005_0000$$$::"...tem razão. Certo, vamos investigar mais. Há um lago atrás do templo. Há mais edifícios lá."::
-60007::$$$message_0546_0006_0000$$$::...dizem que um dragão vive neste lago.[lr]::
-60008::$$$message_0546_0006_0001$$$::Pode haver pistas onde no lugar que as pessoas consideram sagrado.::
-60009::$$$message_0546_0007_0000$$$::Saímos pelo corredor e vamos em direção ao lago atrás do templo.[lr]::
-60010::$$$message_0546_0007_0001$$$::Neste instante...[lr]::
+60001::$$$message_0546_0003_0000$$$::...atravessamos o pátio e subimos por um corredor que leva ao interior do templo.[lr]::
+60002::$$$message_0546_0003_0001$$$::O corredor é escuro, e o piso de madeira range a cada passo.::
+60003::$$$message_0546_0004_0000$$$::"...não sinto nada especialmente estranho. E você, Saber?"[lr]::
+60004::$$$message_0546_0004_0001$$$::"...sinto o mesmo. Ainda assim, tenho certeza de que há algo estranho em toda esta área. Desde que pisamos nesta montanha, entramos num espaço regido por regras diferentes.[lr]::
+60005::$$$message_0546_0004_0002$$$::Na verdade, eu diria que não percebermos nada anormal, apesar da quantidade incomum de mana no ar, é estranho por si só."::
+60006::$$$message_0546_0005_0000$$$::"...é. Certo, vamos ver o que mais conseguimos encontrar. Há um lago nos fundos do templo, além de alguns prédios."::
+60007::$$$message_0546_0006_0000$$$::Dizem que o lago já foi morada de um dragão.[lr]::
+60008::$$$message_0546_0006_0001$$$::Talvez encontremos pistas ali, já que há muito tempo ele é considerado um lugar sagrado.::
+60009::$$$message_0546_0007_0000$$$::Saímos do corredor e seguimos para os fundos do templo.[lr]::
+60010::$$$message_0546_0007_0001$$$::De repente[line2][lr]::
 60011::$$$message_0546_0007_0002$$$::"Shirou!"[wsay canskip=1]::
-60012::$$$message_0546_0008_0000$$$::"Saber...!?"[lr]::
-60013::$$$message_0546_0008_0001$$$::Sou empurrado de volta no templo pela Saber.[lr]::
-60014::$$$message_0546_0008_0002$$$::Percebo que a Saber me empurrou, tento voltar ao corredor, e..[lr]::
-60015::$$$message_0546_0008_0003$$$::A saída foi firmemente fechada pela Saber.::
-60016::$$$message_0546_0009_0000$$$::"Saber!? Ei, o que está fazendo, sua idiota...!"[lr]::
-60017::$$$message_0546_0009_0001$$$::Eu bato na porta.[lr]::
-60018::$$$message_0546_0009_0002$$$::Não sei que tipo de magia é, mas a porta está dura como aço.::
-60019::$$$message_0546_0010_0000$$$::"Ei, o que está fazendo!? Abra a porta, Saber...!"[lr]::
-60020::$$$message_0546_0010_0001$$$::A porta se recusa a abrir, mesmo contra meu peso.::
-60021::$$$message_0546_0011_0000$$$::E do outro lado da porta dura como aço...[lr]::
-60022::$$$message_0546_0011_0001$$$::"Tome conta de si, por favor, Shirou...! Este oponente tentará te atingir apenas...!"::
-60023::$$$message_0546_0012_0000$$$::"Que[w l=4][line4]!? Quem seria ele!? Aquela sombra!?"[lr]::
-60024::$$$message_0546_0012_0001$$$::"Não! Mas este Servo é inimigo natural dos Mestres! Sinto muito, mas não posso te proteger se você estiver no campo de batalha.[lr]::
-60025::$$$message_0546_0012_0002$$$::Terei que lutar com Assassin sozinho, ou ele tentará te matar antes...!"::
-60026::$$$message_0546_0013_0000$$$::"Assassin...!?"[lr]::
-60027::$$$message_0546_0013_0001$$$::Nem mesmo o senti.[lr]::
-60028::$$$message_0546_0013_0002$$$::Apesar do ar aqui estar estranho, a presença de um Servo é outra história.[lr]::
-60029::$$$message_0546_0013_0003$$$::A energia mágica deveria ser aparente se um Servo tomasse forma próximo de nós.[lr]::
-60030::$$$message_0546_0013_0004$$$::Mesmo que ele oculte sua presença, eu deveria conseguir notar, sem falar na Saber[w l=4][line4]!::
-60031::$$$message_0546_0014_0000$$$::"Acabarei com a batalha usando um único golpe. Não se mexa até lá[w l=4][line4]!"[lr]::
-60032::$$$message_0546_0014_0001$$$::A presença de Saber some.[lr]::
-60033::$$$message_0546_0014_0002$$$::Seus passos são barulhentos. Ela deve ter repelido os ataques de Assassin enquanto avançava contra ele.::
-60034::$$$message_0546_0015_0000$$$::"Droga[w l=4][line4]"[lr]::
+60012::$$$message_0546_0008_0000$$$::"Saber!?"[lr]::
+60013::$$$message_0546_0008_0001$$$::Algo me arremessa do corredor para dentro do santuário principal.[lr]::
+60014::$$$message_0546_0008_0002$$$::Percebo que foi Saber e tento correr de volta para o lado dela,[lr]::
+60015::$$$message_0546_0008_0003$$$::mas Saber fecha a porta na minha cara.::
+60016::$$$message_0546_0009_0000$$$::"Saber!? O que você está fazendo...!?"[lr]::
+60017::$$$message_0546_0009_0001$$$::Bato na porta.[lr]::
+60018::$$$message_0546_0009_0002$$$::A porta parece dura como ferro. Talvez Saber tenha usado algum tipo de magia nela.::
+60019::$$$message_0546_0010_0000$$$::"Droga! Mas que inferno! Abra a porta, Saber!"[lr]::
+60020::$$$message_0546_0010_0001$$$::Bato e soco a porta, mas ela não se move. Nem cede quando jogo o corpo inteiro contra ela.::
+60021::$$$message_0546_0011_0000$$$::Do outro lado da porta dura como ferro...[lr]::
+60022::$$$message_0546_0011_0001$$$::"Defenda-se, Shirou! Este inimigo com certeza mirará em você!"::
+60023::$$$message_0546_0012_0000$$$::"Q-que inimigo!? A Sombra!?"[lr]::
+60024::$$$message_0546_0012_0001$$$::"Não! É o pior Servo que um Mestre poderia enfrentar! Sinto muito, mas não posso garantir sua segurança neste campo de batalha.[lr]::
+60025::$$$message_0546_0012_0002$$$::Esse Servo[line2]Assassin prefere matar Mestres primeiro, em vez de duelar com outros Servos!"::
+60026::$$$message_0546_0013_0000$$$::"Assassin!?"[lr]::
+60027::$$$message_0546_0013_0001$$$::Eu não senti nada.[lr]::
+60028::$$$message_0546_0013_0002$$$::Por mais estranho que esteja o ar do Templo Ryuudou, a aura de um Servo está em outro nível.[lr]::
+60029::$$$message_0546_0013_0003$$$::Quando um Servo se materializa por perto, ele emite uma aura densa e inconfundível.[lr]::
+60030::$$$message_0546_0013_0004$$$::Mesmo ocultando a própria aura, não há como Saber deixar de percebê-lo!::
+60031::$$$message_0546_0014_0000$$$::"Vou terminar isto com um único golpe. Por favor, fique aí!"[lr]::
+60032::$$$message_0546_0014_0001$$$::Sinto Saber se afastar.[lr]::
+60033::$$$message_0546_0014_0002$$$::Os passos de Saber são fracos, mas firmes. Talvez ela esteja se aproximando de Assassin enquanto repele seus ataques.::
+60034::$$$message_0546_0015_0000$$$::"Droga. É melhor eu..."[lr]::
 60035::$$$message_0546_0015_0001$$$::Olho ao redor.[lr]::
-60036::$$$message_0546_0015_0002$$$::Pego o graveto do tamanho de uma espada de madeira e o "fortaleço" imediatamente.::
-60037::$$$message_0546_0016_0000$$$::"[w l=4][line4]Anda..."[lr]::
-60038::$$$message_0546_0016_0001$$$::Tenho que transformar isto numa espada e arrebentar esta porta.[lr]::
-60039::$$$message_0546_0016_0002$$$::Um sentimento sombrio, um nervosismo misterioso, preenche minha mente.[lr]::
-60040::$$$message_0546_0016_0003$$$::[w l=3][line3]Este lugar.[lr]::
-60041::$$$message_0546_0016_0004$$$::Parece ser um erro fatal deixar a Saber sozinha nesta montanha, então preciso correr e[w l=4][line4]::
+60036::$$$message_0546_0015_0002$$$::Pego um bastão kyousaku que serve bem como arma e começo a fortalecê-lo imediatamente.::
+60037::$$$message_0546_0016_0000$$$::"Anda logo..."[lr]::
+60038::$$$message_0546_0016_0001$$$::Preciso usá-lo como espada para cortar a porta.[lr]::
+60039::$$$message_0546_0016_0002$$$::Um mau pressentimento, uma irritação que não consigo localizar, começa a tomar minha mente.[lr]::
+60040::$$$message_0546_0016_0003$$$::    Se eu deixá-la aqui...[lr]::
+60041::$$$message_0546_0016_0004$$$::Se eu deixar Saber sozinha nesta montanha, não haverá volta. Preciso me apressar e[line2]::
 60042::$$$message_0546_0017_0000$$$::"[w l=4][line4]!?"[lr]::
 60043::$$$message_0546_0017_0001$$$::As luzes se apagam.[lr]::
 60044::$$$message_0546_0017_0002$$$::Não, nem mesmo havia luz aqui.[lr]::
-60045::$$$message_0546_0017_0003$$$::O luar é ofuscado pelas nuvens.::
-60046::$$$message_0546_0018_0000$$$::"[w l=4][line4]!"[lr]::
-60047::$$$message_0546_0018_0001$$$::...sinto o cheio de algo.[lr]::
-60048::$$$message_0546_0018_0002$$$::Cheiro de carne podre e sons de insetos voando.::
+60045::$$$message_0546_0017_0003$$$::O luar que iluminava o santuário é apagado.::
+60046::$$$message_0546_0018_0000$$$::"Ngh..."[lr]::
+60047::$$$message_0546_0018_0001$$$::Algo fede.[lr]::
+60048::$$$message_0546_0018_0002$$$::É o odor de carne podre, misturado ao zumbido áspero de asas de inseto.::
 60049::$$$message_0546_0019_0000$$$::"[w l=4][line4]Matou Zouken."[lr]::
 60050::$$$message_0546_0019_0001$$$::Encaro a escuridão.[lr]::
-60051::$$$message_0546_0019_0002$$$::"[w l=3][line3]Hah. Isso que é cair em uma armadilha, meu rapaz."[lr]::
-60052::$$$message_0546_0019_0003$$$::Um riso.[lr]::
-60053::$$$message_0546_0019_0004$$$::É aquele mago velho. Ele está se escondendo em algum lugar.::
+60051::$$$message_0546_0019_0002$$$::"Heh. Como uma mariposa atraída pela chama, jovem pirralho Emiya."[lr]::
+60052::$$$message_0546_0019_0003$$$::Ele solta uma gargalhada.[lr]::
+60053::$$$message_0546_0019_0004$$$::Em algum ponto da escuridão, sinto a aura inconfundível e demoníaca do velho mago.::
 60054::$$$message_0546_0020_0000$$$::"......Saber."[lr]::
-60055::$$$message_0546_0020_0001$$$::Preparo a arma reforçada.[lr]::
-60056::$$$message_0546_0020_0002$$$::Não tenho medo, mesmo com o monstro de centenas de anos em minha frente.[lr]::
-60057::$$$message_0546_0020_0003$$$::Os únicos pensamentos em minha mente são de preocupação com a Saber.::
-
+60055::$$$message_0546_0020_0001$$$::Assumo postura com minha arma improvisada.[lr]::
+60056::$$$message_0546_0020_0002$$$::Não tenho medo desse monstro centenário.[lr]::
+60057::$$$message_0546_0020_0003$$$::Tudo que ocupa minha mente é o bem-estar de Saber, ausente do meu lado.::

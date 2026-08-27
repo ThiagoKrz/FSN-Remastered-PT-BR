@@ -49,7 +49,7 @@ id=qid::label=str::text=lstr::
 54779::$$$message_0486_0019_0000$$$::Os dedos do Shinji apertam o livro.[lr]::
 54780::$$$message_0486_0019_0001$$$::Deve ser assim que ele usa o seu Selo de Comando. Com movimentos trêmulos, a Rider tenta se levantar.::
 54781::$$$message_0486_0020_0000$$$::"Pare[w l=3][line3]já chega, Shinji, desista...! A Rider vai morrer se você forçá-la a lutar...!"[lr]::
-54782::$$$message_0486_0020_0001$$$::"Hah! Os Servos não morrem tão fácil assim! Apenas cale a boca e cuide daquele saco de lixo...!"::
+54782::$$$message_0486_0020_0001$$$::"Ha! Os Servos não morrem tão fácil assim! Apenas cale a boca e cuide daquele saco de lixo...!"::
 54783::$$$message_0486_0021_0000$$$::O Shinji não desiste.[lr]::
 54784::$$$message_0486_0021_0001$$$::"......!"[lr]::
 54785::$$$message_0486_0021_0002$$$::Eu saio de perto da Sakura e corro até ele.::
@@ -200,27 +200,27 @@ id=qid::label=str::text=lstr::
 54930::$$$message_0486_0076_0001$$$::...O meu peito está queimando.[lr]::
 54931::$$$message_0486_0076_0002$$$::Esse ar.[lr]::
 54932::$$$message_0486_0076_0003$$$::Esse mundo escarlate é um mundo separado criado pela magia.[lr]::
-54933::$$$message_0486_0076_0004$$$::Isso deve ser um Campo Taumatúrgico que derrete tudo ao seu redor.::
+54933::$$$message_0486_0076_0004$$$::Isso deve ser um Campo Limitado que derrete tudo ao seu redor.::
 54934::$$$message_0486_0077_0000$$$::"Tohsaka, isso é[w l=4][line4]"[lr]::
 54935::$$$message_0486_0077_0001$$$::Eu não consigo respirar.[lr]::
 54936::$$$message_0486_0077_0002$$$::Ou melhor, a névoa entope a minha garganta e me queima por dentro quando eu respiro.::
-54937::$$$message_0486_0078_0000$$$::"...Esse é o Campo Taumatúrgico que o Shinji armou aqui.[lr]::
+54937::$$$message_0486_0078_0000$$$::"...Esse é o Campo Limitado que o Shinji armou aqui.[lr]::
 54938::$$$message_0486_0078_0001$$$::Mas ele está muito mais forte, já que agora a Sakura é a Mestre da Rider."[lr]::
 54939::$$$message_0486_0078_0002$$$::"O qu[w l=6][line6]"::
 54940::$$$message_0486_0079_0000$$$::Eu olho em volta.[lr]::
 54941::$$$message_0486_0079_0001$$$::...Do outro lado do corredor está a Sakura, arranhando o seu peito em agonia,[lr]::
 54942::$$$message_0486_0079_0002$$$::e a Rider, que está enfrentando o Archer para proteger a Sakura.::
-54943::$$$message_0486_0080_0000$$$::"[w l=4][line4]Saia do caminho, Rider. A sua Mestre perdeu o controle. Ela vai ficar viciada nisso a menos que seja impedida antes de sentir o sabor da energia mágica de outra pessoa."[lr]::
+54943::$$$message_0486_0080_0000$$$::"[w l=4][line4]Saia do caminho, Rider. A sua Mestre perdeu o controle. Ela vai ficar viciada nisso a menos que seja impedida antes de sentir o sabor da Energia Mágica de outra pessoa."[lr]::
 54944::$$$message_0486_0080_0001$$$::"Eu me recuso. O meu papel é proteger a minha Mestre. Não posso te deixar passar enquanto estiver tentando matar a Sakura."::
-54945::$$$message_0486_0081_0000$$$::"...Ah. Então você vai ficar parada e deixar a sua Mestre morrer? A sua Mestre está usando energia mágica a uma taxa muito alta. Você entende que ela vai morrer se deixá-la desse jeito?"::
-54946::$$$message_0486_0082_0000$$$::"Não. Ela pode escapar da morte se sugar mais energia mágica do que está usando.[lr]::
+54945::$$$message_0486_0081_0000$$$::"...Ah. Então você vai ficar parada e deixar a sua Mestre morrer? A sua Mestre está usando Energia Mágica a uma taxa muito alta. Você entende que ela vai morrer se deixá-la desse jeito?"::
+54946::$$$message_0486_0082_0000$$$::"Não. Ela pode escapar da morte se sugar mais Energia Mágica do que está usando.[lr]::
 54947::$$$message_0486_0082_0001$$$::Felizmente, há dois magos aqui. O Shinji conseguiu escapar, mas eles não podem fugir agora. Eu irei pegar a sua Mestre antes que a Sakura seja consumida."::
-54948::$$$message_0486_0083_0000$$$::"Heh[w l=3][line3]então mesmo com um novo Mestre, a sua personalidade não mudou, não é?[lr]::
+54948::$$$message_0486_0083_0000$$$::"Ha[w l=3][line3]então mesmo com um novo Mestre, a sua personalidade não mudou, não é?[lr]::
 54949::$$$message_0486_0083_0001$$$::Parece que você valoriza a sua própria vida acima da vida dos outros."[lr]::
 54950::$$$message_0486_0083_0002$$$::"O mesmo vale pra você. Você está tentando proteger a sua Mestre enquanto ignora a minha."[lr]::
 54951::$$$message_0486_0083_0003$$$::"Entendo[w l=3][line3]então não há nenhum motivo para nós nos segurarmos[w l=3][line3]!"::
 54952::$$$message_0486_0084_0000$$$::O Archer avança.[lr]::
-54953::$$$message_0486_0084_0001$$$::...Sem se importar com o Campo Taumatúrgico corrosivo, ele avança para onde a Sakura está agachada no chão.[lr]::
+54953::$$$message_0486_0084_0001$$$::...Sem se importar com o Campo Limitado corrosivo, ele avança para onde Sakura está agachada no chão.[lr]::
 54954::$$$message_0486_0084_0002$$$::E ele se choca com a Rider, que bloqueia o seu caminho.::
 54955::$$$message_0486_0085_0000$$$::"Ei[w l=3][line3]você não vai fazer nada, Tohsaka!? Ele começou a lutar com a Rider...!"[lr]::
 54956::$$$message_0486_0085_0001$$$::"...É claro que eles precisam lutar. Nesse ritmo, nós não vamos sobreviver. ...E como uma maga, eu tenho que evitar que a Sakura se torne uma herege."::
@@ -228,8 +228,8 @@ id=qid::label=str::text=lstr::
 54958::$$$message_0486_0086_0001$$$::Herege...?[lr]::
 54959::$$$message_0486_0086_0002$$$::São aquelas pessoas que usam magia contra as leis da Associação, ou pessoas que não conseguem parar o Circuito Mágico e acabam se destruindo...?::
 54960::$$$message_0486_0087_0000$$$::"[w l=4][line4]Espera. Por que isso está acontecendo? Por que a Sakura?"[lr]::
-54961::$$$message_0486_0087_0001$$$::"Ela está fora de controle. Foi a Rider que criou esse Campo Taumatúrgico, mas quem está mantendo ele é a Sakura. Eu não sei o que o Shinji fez, mas nesse momento a Sakura está atacando sem se conter."::
-54962::$$$message_0486_0088_0000$$$::"...Aposto que a Sakura está na mesma situação que nós. É apenas doloroso e ela quer ar, por isso ela está roubando o ar das outras pessoas, ou no caso dela, energia mágica. [w l=3][line3]Já que eu sou a supervisora de Fuyuki, não posso deixá-la assim."::
+54961::$$$message_0486_0087_0001$$$::"Ela está fora de controle. Foi Rider quem criou esse Campo Limitado, mas quem está mantendo ele é Sakura. Eu não sei o que Shinji fez, mas nesse momento Sakura está atacando sem se conter."::
+54962::$$$message_0486_0088_0000$$$::"...Aposto que Sakura está na mesma situação que nós. Dói, e ela quer ar. Por isso está roubando o ar dos outros, ou, no caso dela, Energia Mágica. [w l=3][line3]Como supervisora de Fuyuki, não posso deixá-la assim."::
 54963::$$$message_0486_0089_0000$$$::"O qu[w l=4][line4]!? Você não pode deixá-la assim? O que vai fazer com a Sakura!?"[lr]::
 54964::$$$message_0486_0089_0001$$$::"...Pergunte ao Archer. Eu só conheço uma maneira de parar um mago nesse estado. Mas talvez o Archer saiba algum outro jeito."::
 54965::$$$message_0486_0090_0000$$$::"...Bem, antes disso, nós temos que fazer alguma coisa sobre a Rider. Pelo o que estou vendo, o Archer é mais forte, mas parece que a sua potência está caindo."[lr]::
@@ -254,7 +254,7 @@ id=qid::label=str::text=lstr::
 54984::$$$message_0486_0096_0001$$$::Eles estão perfeitamente equilibrados. O Archer não consegue avançar, a Rider não consegue fazê-lo recuar, e eles ficam se atacando sem nenhum progresso.::
 54985::$$$message_0486_0097_0000$$$::"Kuh[w l=4][line4]"[lr]::
 54986::$$$message_0486_0097_0001$$$::O Archer está impaciente.[lr]::
-54987::$$$message_0486_0097_0002$$$::Apesar da sua inimiga ser mais fraca, ele não consegue repeli-la, e o Campo Taumatúrgico está aos poucos roubando a sua energia mágica.::
+54987::$$$message_0486_0097_0002$$$::Mesmo com a inimiga mais fraca, ele não consegue repeli-la, e o Campo Limitado está aos poucos roubando sua Energia Mágica.::
 54988::$$$message_0486_0098_0000$$$::E pra piorar, eu e a Tohsaka estamos no nosso limite.[lr]::
 54989::$$$message_0486_0098_0001$$$::Parar de respirar é doloroso, portanto ficar no corredor é como uma apunhalada na nossa mente.[lr]::
 54990::$$$message_0486_0098_0002$$$::Se continuar assim, nós vamos desmaiar antes que o Archer consiga derrotar a Rider.::
@@ -269,10 +269,10 @@ id=qid::label=str::text=lstr::
 54999::$$$message_0486_0100_0002$$$::De qualquer forma, se você não vai usá-lo, então está decidido. Você não pode me vencer."::
 55000::$$$message_0486_0101_0000$$$::Pisando forte, a sua única arma, a Rider confronta o Archer.[lr]::
 55001::$$$message_0486_0101_0001$$$::...Ela parece tão indefesa que a luta poderia ser decidida se o Archer atacasse ela agora.::
-55002::$$$message_0486_0102_0000$$$::"...Hah. Eu não estou preocupado com a sua Mestre. Só acho que não há necessidade.[lr]::
-55003::$$$message_0486_0102_0001$$$::E você também não pode usar o seu Fantasma Nobre. Até pouco tempo atrás Matou Shinji era o seu Mestre, então você não tem energia mágica armazenada o suficiente para poder usá-lo."::
-55004::$$$message_0486_0103_0000$$$::"Tem razão. O Shinji não conseguia me fornecer energia mágica. Portanto, eu não posso usar o meu Fantasma Nobre agora."::
-55005::$$$message_0486_0104_0000$$$::"...Isso mesmo. Eu não preciso gastar minha energia mágica contra um oponente que não irá usá-lo. Eu vou te cortar com o meu próximo ataque, e então farei o mesmo com aquela menina, e tudo estará terminado."::
+55002::$$$message_0486_0102_0000$$$::"...Ha. Eu não estou preocupado com a sua Mestre. Só acho que não há necessidade.[lr]::
+55003::$$$message_0486_0102_0001$$$::E você também não pode usar o seu Fantasma Nobre. Até pouco tempo atrás Matou Shinji era o seu Mestre, então você não tem Energia Mágica armazenada o suficiente para usá-lo."::
+55004::$$$message_0486_0103_0000$$$::"Tem razão. Shinji não conseguia me fornecer Energia Mágica. Portanto, não posso usar meu Fantasma Nobre agora."::
+55005::$$$message_0486_0104_0000$$$::"...Isso mesmo. Não preciso gastar minha Energia Mágica contra um oponente que não vai usá-lo. Vou te cortar no próximo ataque, depois farei o mesmo com aquela garota, e tudo estará terminado."::
 55006::$$$message_0486_0105_0000$$$::"Sim. Vamos supor que isso vai acontecer, Archer.[lr]::
 55007::$$$message_0486_0105_0001$$$::Desse jeito, será mais fácil para eu te matar."[lr]::
 55008::$$$message_0486_0105_0002$$$::A Rider responde com calma.::
@@ -343,4 +343,3 @@ id=qid::label=str::text=lstr::
 55073::$$$message_0486_0120_0002$$$::A Tohsaka deve estar mais cativada do que eu, já que ela não consegue nem sequer dar um passo.[lr]::
 55074::$$$message_0486_0120_0003$$$::Sem conseguir desviar do ataque, ela vai ser empalada pela lança.[lr]::
 55075::$$$message_0486_0120_0004$$$::Com a cena de vários segundos no futuro dentro da minha mente, eu...[lr]::
-

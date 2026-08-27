@@ -5,7 +5,7 @@ id=qid::label=str::text=lstr::
 55776::$$$message_0495_0000_0002$$$::"[w l=4][line4]!"::
 55777::$$$message_0495_0001_0000$$$::"Então o que você pretende fazer...!?[lr]::
 55778::$$$message_0495_0001_0001$$$::Olha, a Sakura não vai conseguir viver a menos que ela lute como uma Mestre.[lr]::
-55779::$$$message_0495_0001_0002$$$::Ela precisa absorver a energia mágica de outras pessoas para sobreviver...![lr]::
+55779::$$$message_0495_0001_0002$$$::Ela precisa absorver a Energia Mágica de outras pessoas para sobreviver...![lr]::
 55780::$$$message_0495_0001_0003$$$::Não consegue ver como tudo isso vai terminar!? Matá-la aqui é para o bem dela...!"::
 55781::$$$message_0495_0002_0000$$$::"...Nem pensar! Por que você já está tirando conclusões quando ela ainda não fez nada!?"::
 55782::$$$message_0495_0003_0000$$$::"E como eu não poderia tirar? Se isso fosse apenas sobre a Sakura, ainda haveria esperança. Mas não é. Aquele velho maldito está com a vida dela nas mãos, ela será a sua marionete enquanto ele viver.[lr]::
@@ -65,7 +65,7 @@ id=qid::label=str::text=lstr::
 55836::$$$message_0495_0022_0002$$$::O verme mágico continua a corromper o seu corpo enquanto conversamos.[lr]::
 55837::$$$message_0495_0022_0003$$$::Seria fácil extraí-lo, mas o corpo dela não suportaria o choque. É como remover quatro décimos dos seus nervos. Ela morreria como ser humano antes que a dor fizesse ela morrer com o choque."::
 55838::$$$message_0495_0023_0000$$$::"Mas o resultado será o mesmo se ela continuar desse jeito.[lr]::
-55839::$$$message_0495_0023_0001$$$::A perda de energia mágica está lentamente acabando com a sua sanidade. Ela vai perder toda a razão em breve. Quando isso acontecer, ela não passará de uma Mestre enlouquecida.[lr]::
+55839::$$$message_0495_0023_0001$$$::A perda de Energia Mágica está lentamente acabando com a sua sanidade. Ela vai perder toda a razão em breve. Quando isso acontecer, ela não passará de uma Mestre enlouquecida.[lr]::
 55840::$$$message_0495_0023_0002$$$::Ela vai sacrificar muitas pessoas para manter o seu Servo, e quando a pressão foi demais para suportar, ela vai se autodestruir.[lr]::
 55841::$$$message_0495_0023_0003$$$::[w l=3][line3]Resumindo, você não será capaz de salvar aquela mulher, não importa o que você faça."::
 55842::$$$message_0495_0024_0000$$$::"[w l=8][line8]"[lr]::
@@ -238,14 +238,12 @@ id=qid::label=str::text=lstr::
 56009::$$$message_0495_0077_0001$$$::"Não, Senpai[w l=4][line4]Eu provavelmente vou acabar te machucando."[lr]::
 56010::$$$message_0495_0077_0002$$$::As palavras dela parecem uma confissão.::
 56011::$$$message_0495_0077_0003$$$::[line2]Então.[lr]::
-56012::$$$message_0495_0077_0004$$$::"I'm going to hurt you..."[lr]::
+56012::$$$message_0495_0077_0004$$$::"Eu vou acabar te machucando..."[lr]::
 56013::$$$message_0495_0077_0005$$$::Mas eu quero ficar aqui.[lr]::
-56014::$$$message_0495_0077_0006$$$::Sakura makes a choice, her cheeks wet.::
+56014::$$$message_0495_0077_0006$$$::Com o rosto molhado, Sakura faz sua escolha.::
 56015::$$$message_0495_0078_0000$$$::"[w l=8][line8]"[lr]::
 56016::$$$message_0495_0078_0001$$$::A chuva está parando.[lr]::
 56017::$$$message_0495_0079_0000$$$::[w l=4][line4]E com isso, a escolha foi feita.[lr]::
 56018::$$$message_0495_0079_0001$$$::Algo decisivo terminou.::
 56019::$$$message_0495_0079_0002$$$::É uma certa premonição que está presa no meu peito.::
-
-
 

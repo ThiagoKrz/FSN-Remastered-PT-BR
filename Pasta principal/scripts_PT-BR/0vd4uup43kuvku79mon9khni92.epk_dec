@@ -3,7 +3,7 @@ id=qid::label=str::text=lstr::
 56020::$$$message_0496_0000_0000$$$::Quando chegamos em casa, a chuva já tinha parado.[lr]::
 56021::$$$message_0496_0000_0001$$$::...Estivemos de mãos dadas desde que saímos do parque.[lr]::
 56022::$$$message_0496_0000_0002$$$::Nós nos acalmamos durante a caminhada, e ao chegar em casa começamos a ficar com vergonha, mas ainda continuamos de mãos dadas.::
-56023::$$$message_0496_0001_0000$$$::"Huh......? A luz da entrada está acesa. Você veio aqui antes, Sakura?"[lr]::
+56023::$$$message_0496_0001_0000$$$::"Hã...? A luz da entrada está acesa. Você veio aqui antes, Sakura?"[lr]::
 56024::$$$message_0496_0001_0001$$$::"...Hm, acho que não fui eu. Talvez tenha sido a Fujimura-sensei."::
 56025::$$$message_0496_0002_0000$$$::"É mesmo."[lr]::
 56026::$$$message_0496_0002_0001$$$::Nós vamos até a porta, de mãos dadas.[lr]::
@@ -53,7 +53,7 @@ id=qid::label=str::text=lstr::
 56070::$$$message_0496_0018_0000$$$::Ela passa por nós.[lr]::
 56071::$$$message_0496_0018_0001$$$::Para a minha surpresa, ela não mostra nenhuma hostilidade enquanto passa por nós.::
 56072::$$$message_0496_0019_0000$$$::"Tohsaka."[lr]::
-56073::$$$message_0496_0019_0001$$$::"......Hmph. Então a nossa aliança só durou um dia, huh? Não podemos cooperar enquanto você estiver protegendo a Sakura."[lr]::
+56073::$$$message_0496_0019_0001$$$::"......Hmpf. Então a nossa aliança só durou um dia, hein? Não podemos cooperar enquanto você estiver protegendo a Sakura."[lr]::
 56074::$$$message_0496_0019_0002$$$::"[w l=8][line8]"::
 56075::$$$message_0496_0020_0000$$$::"Mas não se esqueça. Não sabemos quando a Sakura pode sair do controle.[lr]::
 56076::$$$message_0496_0020_0001$$$::Será culpa sua se você morrer quando isso acontecer, mas você aceitou protegê-la, portanto certifique-se de ser a única vítima."[lr]::
@@ -77,7 +77,7 @@ id=qid::label=str::text=lstr::
 56094::$$$message_0496_0026_0001$$$::Espera.[lr]::
 56095::$$$message_0496_0026_0002$$$::Acho que a mão dela está quente demais.::
 56096::$$$message_0496_0027_0000$$$::"Sakura. A sua febre piorou de novo?"[lr]::
-56097::$$$message_0496_0027_0001$$$::"Huh...? U-Uh, como eu estou? Eu estou quente?"[lr]::
+56097::$$$message_0496_0027_0001$$$::"Hã...? U-Uh, como eu estou? Estou quente?"[lr]::
 56098::$$$message_0496_0027_0002$$$::Ela não deve ter percebido, já que me faz uma pergunta estranha.::
 56099::$$$message_0496_0028_0000$$$::"Não, não está tão quente, mas você está mais quente do que eu. Eu sinto que você fica quente quando eu te toco."[lr]::
 56100::$$$message_0496_0028_0001$$$::"Ah[w l=4][line4]p-provavelmente é um resfriado...! Eu acho que peguei um resfriado porque fiquei na chuva por muito tempo."[lr]::
@@ -89,4 +89,3 @@ id=qid::label=str::text=lstr::
 56106::$$$message_0496_0031_0000$$$::"...?"[lr]::
 56107::$$$message_0496_0031_0001$$$::Enfim.[lr]::
 56108::$$$message_0496_0031_0002$$$::Eu também vou ficar resfriado se ficar parado aqui, então é melhor ir tomar banho e me aquecer.::
-

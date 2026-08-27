@@ -31,7 +31,7 @@ id=qid::label=str::text=lstr::
 56137::$$$message_0497_0009_0001$$$::...Droga.[lr]::
 56138::$$$message_0497_0009_0002$$$::Não tem nada que eu possa usar como arma aqui. Acho que vou ter que atacar antes de[w l=4][line4]::
 56139::$$$message_0497_0010_0000$$$::"[w l=4][line4]S-Senpai. Uh, você está acordado...?"[lr]::
-56140::$$$message_0497_0010_0001$$$::"Huh...? Ah, é você, Sakura."[lr]::
+56140::$$$message_0497_0010_0001$$$::"Hã...? Ah, é você, Sakura."[lr]::
 56141::$$$message_0497_0010_0002$$$::Eu volto a me sentar.::
 56142::$$$message_0497_0011_0000$$$::"Você pode usar o banheiro quando quiser. Se precisar se trocar, você pode usar as roupas da Fuji-nee, não é?"[lr]::
 56143::$$$message_0497_0011_0001$$$::"...Sim. Eu já tomei banho e peguei emprestado as roupas da Fujimura-sensei."::
@@ -160,7 +160,7 @@ id=qid::label=str::text=lstr::
 56266::$$$message_0497_0046_0001$$$::A voz da Sakura é um pouco cativante.[lr]::
 56267::$$$message_0497_0046_0002$$$::A Sakura traz a minha mão para perto dela e[w l=3][line3]::
 56268::$$$message_0497_0047_0000$$$::Como se estivesse buscando alívio, ela morde o meu dedo.[lr]::
-56269::$$$message_0497_0047_0001$$$::"Huh[w l=6][line6]"[lr]::
+56269::$$$message_0497_0047_0001$$$::"Hã[w l=6][line6]"[lr]::
 56270::$$$message_0497_0047_0002$$$::A surpresa rouba as minhas forças.[lr]::
 56271::$$$message_0497_0047_0003$$$::Por que a Sakura está fazendo isso?::
 56272::$$$message_0497_0048_0000$$$::"...Ai."[lr]::
@@ -186,7 +186,7 @@ id=qid::label=str::text=lstr::
 56292::$$$message_0497_0053_0003$$$::Ela está apenas chupando o meu dedo, mas a sensação confortável passa pelo meu pulso e além do meu cotovelo.::
 56293::$$$message_0497_0054_0000$$$::"Mm... mmm..."[lr]::
 56294::$$$message_0497_0054_0001$$$::É como se as veias do meu coração até o meu dedo tivessem sido postos em alívio puro.[lr]::
-56295::$$$message_0497_0054_0002$$$::O sangue carregando minha energia mágica jorra na boca da Sakura e...::
+56295::$$$message_0497_0054_0002$$$::O sangue carregando minha Energia Mágica jorra na boca de Sakura e...::
 56296::$$$message_0497_0055_0000$$$::"Ah... aah..."[lr]::
 56297::$$$message_0497_0055_0001$$$::...Eu olho de forma objetiva para a realidade dessa situação.[lr]::
 56298::$$$message_0497_0055_0002$$$::A Sakura está bebendo o meu sangue enquanto suporta o constrangimento. E a sua condição está melhorando.[lr]::
@@ -208,20 +208,20 @@ id=qid::label=str::text=lstr::
 56314::$$$message_0497_0060_0002$$$::Sua voz está tão fraca que é como se ela estivesse prestes a desaparecer.[lr]::
 56315::$$$message_0497_0060_0003$$$::Quando eu me viro para encará-la, a Sakura abaixa a cabeça como se estivesse fugindo, com a sua mão no seu colo.[lr]::
 56316::$$$message_0497_0060_0004$$$::"...Você sabe, não é, Senpai?"::
-56317::$$$message_0497_0061_0000$$$::...Meu avô adulterou o meu corpo para que ele pudesse transformar uma criança de uma linhagem sanguínea diferente em um mago da família Matou. ...O resultado é esse corpo que fica sem controle quando eu fico sem energia mágica."[lr]::
+56317::$$$message_0497_0061_0000$$$::...Meu avô adulterou meu corpo para transformar uma criança de uma linhagem diferente em uma maga da família Matou. ...O resultado é esse corpo que fica sem controle quando eu fico sem Energia Mágica."[lr]::
 56318::$$$message_0497_0061_0001$$$::...Surge de dentro de mim uma onda de raiva em relação ao Matou Zouken.[lr]::
 56319::$$$message_0497_0061_0002$$$::Porém mais do que isso, a fala apaixonada da Sakura preenche o meu peito com dor.::
 56320::$$$message_0497_0061_0003$$$::Mas mais do que isso, as palavras lamentáveis ​​e emocionais de Sakura me comovem.::
 56321::$$$message_0497_0062_0000$$$::"Os vermes no meu corpo querem o poder de um mago, por isso eles começam a sentir dores. Quando isso acontece, eu não consigo mais me segurar.[lr]::
-56322::$$$message_0497_0062_0001$$$::Os vermes comem toda a minha energia mágica, e então dizem que não é o suficiente e que eles querem mais. ...Então eu..."[lr]::
+56322::$$$message_0497_0062_0001$$$::Os vermes comem toda a minha Energia Mágica, e então dizem que não é o suficiente e querem mais. ...Então eu..."[lr]::
 56323::$$$message_0497_0062_0002$$$::"Então o motivo de você ter bebido o meu sangue é..."[lr]::
 56324::$$$message_0497_0062_0003$$$::"..."::
 56325::$$$message_0497_0063_0000$$$::Ela acena de leve.[lr]::
 56326::$$$message_0497_0063_0001$$$::Nesse silêncio, isso é uma resposta bastante definitiva.::
-56327::$$$message_0497_0064_0000$$$::"O sangue de um mago contém muita energia mágica. Por isso, eu queria beber o seu sangue, Senpai. Se bebesse isso, eu iria repor minha energia mágica e iria aliviar as coisas estranhas acontecendo com o meu corpo."::
+56327::$$$message_0497_0064_0000$$$::"O sangue de um mago contém muita Energia Mágica. Por isso, eu queria beber o seu sangue, Senpai. Se bebesse, eu conseguiria repor minha Energia Mágica e aliviar as coisas estranhas acontecendo com o meu corpo."::
 56328::$$$message_0497_0065_0000$$$::...Entendo.[lr]::
-56329::$$$message_0497_0065_0001$$$::Voltar a ser a Mestre da Rider aumenta e muito o consumo de energia mágica da Sakura.[lr]::
-56330::$$$message_0497_0065_0002$$$::...Ela foi capaz de viver normalmente sem dificuldades até agora, mas nesse momento até isso consome energia mágica.::
+56329::$$$message_0497_0065_0001$$$::Voltar a ser a Mestre de Rider aumenta muito o consumo de Energia Mágica de Sakura.[lr]::
+56330::$$$message_0497_0065_0002$$$::...Ela conseguiu viver normalmente até agora sem grandes dificuldades, mas, neste momento, até isso consome Energia Mágica.::
 56331::$$$message_0497_0066_0000$$$::"Tem algo errado comigo, não tem? F-Faria sentido se você se afastasse de mim, Senpai.[lr]::
 56332::$$$message_0497_0066_0001$$$::Eu estive com dor desde que chegamos em casa juntos, e eu não podia pensar em nada além de você, e apesar de você estar tentando me ajudar, eu tomei de você à força[w l=4][line4]"[lr]::
 56333::$$$message_0497_0066_0002$$$::"[w l=6][line6]"::
@@ -244,7 +244,7 @@ id=qid::label=str::text=lstr::
 56350::$$$message_0497_0072_0000$$$::Eu ponho a mão no ombro dela.[lr]::
 56351::$$$message_0497_0072_0001$$$::A Sakura se apoia no meu ombro e chora em silêncio.::
 56352::$$$message_0497_0073_0000$$$::"E quer saber? Quando você estava chupando o meu sangue, eu fiquei feliz."[lr]::
-56353::$$$message_0497_0073_0001$$$::"...Huh? Mas, Senpai..."[lr]::
+56353::$$$message_0497_0073_0001$$$::"...Hã? Mas, Senpai..."[lr]::
 56354::$$$message_0497_0073_0002$$$::"Não tem nada de estranho isso. Mesmo não podendo te curar, eu fiquei feliz porque podia pelo menos te fazer se sentir melhor.[lr]::
 56355::$$$message_0497_0073_0003$$$::Então não se preocupe com isso. Como acha que eu ficaria se você recusasse a única coisa que eu posso fazer por você?"[lr]::
 56356::$$$message_0497_0073_0004$$$::Eu dou um tapinha nas costas da Sakura para animá-la.::
@@ -316,4 +316,3 @@ id=qid::label=str::text=lstr::
 56422::$$$message_0497_0092_0004$$$::Estou afogando, sabendo que esse é o calor do corpo da Sakura[line2]::
 56423::$$$message_0497_0093_0000$$$::...Eu tenho um sonho violento.[lr]::
 56424::$$$message_0497_0093_0001$$$::Eu tenho um sonho sinistro em um mar de brasa.::
-

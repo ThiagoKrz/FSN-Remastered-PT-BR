@@ -1,22 +1,21 @@
 DAT
 id=qid::label=str::text=lstr::
-53082::$$$message_0457_0000_0000$$$::Não posso evitar ter esquecido. Farei ela me perdoar.::
-53083::$$$message_0457_0001_0000$$$::"Me desculpa. Encontrei com alguém inesperado e esqueci de nossa promessa. Terei mais cuidado na próxima, então me desculpa."[lr]::
-53084::$$$message_0457_0001_0001$$$::Abaixo a cabeça, pedindo desculpas.::
-53085::$$$message_0457_0002_0000$$$::"...entendo. Está tentando se defender com palavras simples? Pensei que você era diferente do Kiritsugu, mas afinal, parece ser igual."[lr]::
-53086::$$$message_0457_0002_0001$$$::"Eh[w l=4][line4]Illya?"::
-53087::$$$message_0457_0003_0000$$$::"Não, isso deixa tudo ainda mais divertido pra mim. Te transformarei no meu boneco, como planejava."[lr]::
+53082::$$$message_0457_0000_0000$$$::Não há como mudar o fato de que esqueci. Vou pedir que ela deixe passar.::
+53083::$$$message_0457_0001_0000$$$::"Ah, desculpa. Encontrei alguém inesperado hoje e acabei esquecendo. Vou tomar cuidado da próxima vez, então você pode deixar passar?"[lr]::
+53084::$$$message_0457_0001_0001$$$::Inclino a cabeça em pedido de desculpas.::
+53085::$$$message_0457_0002_0000$$$::"...Ah, é? Vai tentar passar por cima disso com umas palavrinhas? Achei que você fosse diferente do Kiritsugu, mas no fim é igualzinho."[lr]::
+53086::$$$message_0457_0002_0001$$$::"Hã? Illya?"::
+53087::$$$message_0457_0003_0000$$$::"Tudo bem. Assim fica mais divertido para mim. Vou transformar você no meu brinquedo, como eu tinha planejado."[lr]::
 53088::$$$message_0457_0003_0001$$$::"...!?"[lr]::
 53089::$$$message_0457_0003_0002$$$::Sinto um calafrio.[lr]::
-53090::$$$message_0457_0003_0003$$$::Os olhos da Illya emitem uma intenção assasina, igual na noite em que nos encontramos pela primeira vez.::
-53091::$$$message_0457_0004_0000$$$::"Te vejo de novo, Onii-chan. Te deixarei ir hoje, mas terá que ter mais cuidado na próxima vez em que nos encontrarmos."[lr]::
+53090::$$$message_0457_0003_0003$$$::Os olhos de Illya irradiam a mesma hostilidade da noite em que nos encontramos pela primeira vez.::
+53091::$$$message_0457_0004_0000$$$::"Até a próxima, Onii-chan. Vou deixar você escapar hoje, mas é melhor tomar mais cuidado quando nos encontrarmos de novo."[lr]::
 53092::$$$message_0457_0004_0001$$$::Sem esperar uma resposta, ela se vira e corre.[lr]::
-53093::$$$message_0457_0004_0002$$$::"Ei, Illya...!"::
-53094::$$$message_0457_0005_0000$$$::Corro atrás dela, mas perco-a de vista.::
-53095::$$$message_0457_0006_0000$$$::"...acho que irritei-a."[lr]::
-53096::$$$message_0457_0006_0001$$$::...eu falhei.[lr]::
-53097::$$$message_0457_0006_0002$$$::Devia ter considerado mais antes de ter pedido desculpas.::
-53098::$$$message_0457_0007_0000$$$::"Cara. De qualquer jeito, preciso pensar em algo antes de vê-la novamente."[lr]::
-53099::$$$message_0457_0007_0001$$$::Não quero ficar de mão com a Illya.[lr]::
-53100::$$$message_0457_0007_0002$$$::Pensarei em algum jeito de compensar o que fiz[w l=4][line4]::
-
+53093::$$$message_0457_0004_0002$$$::"Espe[line2]Illya!"::
+53094::$$$message_0457_0005_0000$$$::Tento segui-la, mas a perco de vista antes de alcançá-la.::
+53095::$$$message_0457_0006_0000$$$::"...Será que deixei ela brava?"[lr]::
+53096::$$$message_0457_0006_0001$$$::Foi um fracasso.[lr]::
+53097::$$$message_0457_0006_0002$$$::Eu devia ter pedido desculpas a Illya sem tentar enrolar.::
+53098::$$$message_0457_0007_0000$$$::"Ai, ai. É melhor eu pensar em alguma coisa antes de vê-la de novo."[lr]::
+53099::$$$message_0457_0007_0001$$$::Não quero que as coisas desandem entre nós.[lr]::
+53100::$$$message_0457_0007_0002$$$::Vou pensar em um jeito de animá-la e compensar a promessa que quebrei.::

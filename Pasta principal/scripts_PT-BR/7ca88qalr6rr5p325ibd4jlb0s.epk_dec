@@ -1,180 +1,179 @@
 DAT
 id=qid::label=str::text=lstr::
 59770::$$$message_0544_0000_0000$$$::E a jovem[line3]Tohsaka Rin chega ao seu destino.[lr]::
-59771::$$$message_0544_0000_0001$$$::A casa dos Matous.[lr]::
-59772::$$$message_0544_0000_0002$$$::A oficina da antiga família de magos que vieram para esta cidade há duzentos anos.[lr]::
-59773::$$$message_0544_0000_0003$$$::Embora sua família tenha cedido terreno para eles como parceiros, a família Matou são estrangeiros que nunca deram a mínima.[lr]::
-59774::$$$message_0544_0000_0004$$$::As duas famílas formaram um pacto de não-agressão, e se comprometeram a não se meter nos assuntos dos outros.::
-59775::$$$message_0544_0001_0000$$$::"[line7]"[lr]::
-59776::$$$message_0544_0001_0001$$$::Ela caminha, sem se importar.[lr]::
-59777::$$$message_0544_0001_0002$$$::Se havia um pacto impedindo as duas famílas de se misturarem, ele foi quebrado há onze anos.[lr]::
-59778::$$$message_0544_0001_0003$$$::Foi originalmente formado pelos líderes de ambas as famílias.[lr]::
-59779::$$$message_0544_0001_0004$$$::Eles o seguiram por duzentos anos, embora seu próposito tenha sido esquecido.::
-59780::$$$message_0544_0002_0000$$$::Nem Tohsaka nem Matou obtiveram o Santo Graal neste tempo.[lr]::
-59781::$$$message_0544_0002_0001$$$::Seu pacto foi feito para obter o Santo Graal.[lr]::
-59782::$$$message_0544_0002_0002$$$::Mas já que ambos os desejos nunca se tornaram realidade, não há motivo para seguir um pacto tão antigo mais.::
-59783::$$$message_0544_0003_0000$$$::Ela entra pela porta da frente sem tocar a campanhia.[lr]::
+59771::$$$message_0544_0000_0001$$$::A residência Matou.[lr]::
+59772::$$$message_0544_0000_0002$$$::O ateliê de uma antiga linhagem de magos que imigrou para esta cidade há duzentos anos.[lr]::
+59773::$$$message_0544_0000_0003$$$::A família dela os recebeu como colaboradores e lhes cedeu terras, mas esses sujeitos continuam sendo forasteiros com quem nunca tiveram amizade.[lr]::
+59774::$$$message_0544_0000_0004$$$::Os Tohsaka e os Matou praticam não agressão mútua, com um pacto que os impede de se envolverem facilmente nos assuntos uns dos outros.::
+59775::$$$message_0544_0001_0000$$$::"..."[lr]::
+59776::$$$message_0544_0001_0001$$$::Ela não poderia se importar menos.[lr]::
+59777::$$$message_0544_0001_0002$$$::Esse pacto foi quebrado onze anos atrás.[lr]::
+59778::$$$message_0544_0001_0003$$$::E quem fez esse acordo foram os chefes de família de séculos atrás.[lr]::
+59779::$$$message_0544_0001_0004$$$::Por duzentos anos, seguiram um acordo cujas razões e conteúdo já nem são claros.::
+59780::$$$message_0544_0002_0000$$$::E durante todo esse tempo, nem os Tohsaka nem os Matou alcançaram seu objetivo: o Santo Graal.[lr]::
+59781::$$$message_0544_0002_0001$$$::Originalmente, o pacto existia apenas para obter o Santo Graal.[lr]::
+59782::$$$message_0544_0002_0002$$$::Como isso nunca aconteceu, ela não tem motivo para obedecer a uma regra velha e mofada.::
+59783::$$$message_0544_0003_0000$$$::Rin atravessa a porta da frente sem tocar a campainha.[lr]::
 59784::$$$message_0544_0003_0001$$$::Ela não veio aqui como convidada.[lr]::
-59785::$$$message_0544_0003_0002$$$::Ela veio como Mestra, para eliminar um de seus competidores deste jogo.::
+59785::$$$message_0544_0003_0002$$$::Ela veio apenas como Mestra, para eliminar seus inimigos na Guerra do Santo Graal.::
 59786::$$$message_0544_0004_0000$$$::"Bem, é verdade, mas..."[lr]::
-59787::$$$message_0544_0004_0001$$$::Rin busca pela casa dos Matous com uma expressão amarga.[lr]::
-59788::$$$message_0544_0004_0002$$$::...a Guerra do Santo Graal deu motivo para ela vir aqui.[lr]::
-59789::$$$message_0544_0004_0003$$$::Logo, ela não está amarrada ao pacto entre famílas.[lr]::
-59790::$$$message_0544_0004_0004$$$::[line3]Embora tente se convencer, ela não consegue mudar sua personalidade.::
-59791::$$$message_0544_0005_0000$$$::"...verdade. Esta é a primeira vez que fui contra as instruções de meu pai."[lr]::
-59792::$$$message_0544_0005_0001$$$::Ela resmunga para si.[lr]::
-59793::$$$message_0544_0005_0002$$$::Mas isso é nada de especial.[lr]::
-59794::$$$message_0544_0005_0003$$$::Não é como se algo importante fosse destruído por desobedecer seu pai.::
+59787::$$$message_0544_0004_0001$$$::Rin vasculha a mansão com a expressão de quem mastiga algo amargo.[lr]::
+59788::$$$message_0544_0004_0002$$$::...ela está aqui pela Guerra do Santo Graal.[lr]::
+59789::$$$message_0544_0004_0003$$$::Então não há necessidade de obedecer ao pacto Tohsaka-Matou.[lr]::
+59790::$$$message_0544_0004_0004$$$::    É o que ela diz a si mesma, mas não consegue mudar quem é.::
+59791::$$$message_0544_0005_0000$$$::"...ah. É a primeira vez que vou contra as instruções do meu pai."[lr]::
+59792::$$$message_0544_0005_0001$$$::Ela murmura distraidamente.[lr]::
+59793::$$$message_0544_0005_0002$$$::Não é nada particularmente notável.[lr]::
+59794::$$$message_0544_0005_0003$$$::Ela pode ter ido contra os ensinamentos do pai, mas não quebrou nada importante.::
 59795::$$$message_0544_0006_0000$$$::Se ela se arrepende de algo...[lr]::
-59796::$$$message_0544_0006_0001$$$::"...que burrice a minha. Devia ter vindo aqui antes se eu soubesse que quebraria o pacto."[lr]::
-59797::$$$message_0544_0006_0002$$$::...É o remorso que alguém aturou por mais de dez anos.::
-59798::$$$message_0544_0007_0000$$$::"[line3]Rin. Sobre o leiaute da casa. Há duas áreas em branco."[lr]::
-59799::$$$message_0544_0007_0001$$$::"Huh? Onde? No primeiro andar?"[lr]::
-59800::$$$message_0544_0007_0002$$$::"No segundo. É pequeno demais para ser uma escadaria, mas provavelmente vai até o porão."[lr]::
-59801::$$$message_0544_0007_0003$$$::"...Okay. Falando nisso, percebeu, Archer?"[lr]::
-59802::$$$message_0544_0007_0004$$$::"Claro. Mas não deve nos ferir. Se você escolher ignorá-lo, ignorarei também. Nosso alvo é aquele monstro."[lr]::
-59803::$$$message_0544_0007_0005$$$::Ela concorda com suas palavras e vai até o segundo andar.::
-59804::$$$message_0544_0008_0000$$$::[line3]Embora o cavalheiro vermelho esteja invisível, ele está do lado dela.[lr]::
-59805::$$$message_0544_0008_0001$$$::Ela o trouxe em caso de precisar lutar, mas ele parece perceber pequenos detalhes.[lr]::
-59806::$$$message_0544_0008_0002$$$::Depois de passar pela casa uma vez, ele elaborou um diagrama e pode apontar onde estão os espaços vazios.[lr]::
-59807::$$$message_0544_0008_0003$$$::Rin percebeu que as habilidades de Archer são analisar o design e estrutura dos objetos.::
-59808::$$$message_0544_0009_0000$$$::"...estive pensando. Seu ponto forte não é útil para um arqueiro."[lr]::
-59809::$$$message_0544_0009_0001$$$::"Pode chorar depois. Aqui, consegui abrir. Está escuro, então tome[line3]"[lr]::
+59796::$$$message_0544_0006_0001$$$::"...sou mesmo uma idiota. Se era para quebrar as regras de qualquer jeito, devia ter feito isso muito antes."[lr]::
+59797::$$$message_0544_0006_0002$$$::...a culpa que ela carrega em relação a certa pessoa pelos últimos dez anos.::
+59798::$$$message_0544_0007_0000$$$::"Rin. Há duas áreas em branco na planta da casa."[lr]::
+59799::$$$message_0544_0007_0001$$$::"Hã? Onde, no primeiro andar?"[lr]::
+59800::$$$message_0544_0007_0002$$$::"Começa no segundo andar. A escada é estreita, mas provavelmente leva ao subsolo."[lr]::
+59801::$$$message_0544_0007_0003$$$::"...certo. A propósito, Archer, você percebeu?"[lr]::
+59802::$$$message_0544_0007_0004$$$::"Claro. Mas não representa ameaça para nós. Se você não se importar, também não me preocuparei. Nosso objetivo é aquele demônio, Zouken."[lr]::
+59803::$$$message_0544_0007_0005$$$::Ela assente para a voz ao seu lado e segue até a passagem oculta no segundo andar.::
+59804::$$$message_0544_0008_0000$$$::    Rin não consegue vê-lo, mas o cavaleiro vermelho está ao seu lado.[lr]::
+59805::$$$message_0544_0008_0001$$$::Ela o trouxe caso houvesse uma luta, mas seu Servo parece ser do tipo meticuloso.[lr]::
+59806::$$$message_0544_0008_0002$$$::Depois de andar pela casa uma única vez, ele traçou uma planta mental e apontou cômodos que pareciam faltar.[lr]::
+59807::$$$message_0544_0008_0003$$$::Rin já tinha uma vaga noção disso, mas Archer tem a habilidade de compreender o desenho e a estrutura de objetos. É uma capacidade especializada que ninguém esperaria de um cavaleiro.::
+59808::$$$message_0544_0009_0000$$$::"...faz tempo que penso nisso, mas é bem estranho você ser tão bom nessas coisas, mesmo sendo um Archer."[lr]::
+59809::$$$message_0544_0009_0001$$$::"Guarde o sarcasmo para depois. Está aberta. Cuidado, está escuro lá dentro."[lr]::
 59810::$$$message_0544_0009_0002$$$::Eles param de falar.[lr]::
-59811::$$$message_0544_0009_0003$$$::Pela abertura na parede...[lr]::
-59812::$$$message_0544_0009_0004$$$::O ar úmido flui para fora do caminho para o porão.[lr]::
-59813::$$$message_0544_0009_0005$$$::O cheiro podre é demais até para Archer, que não tomou forma.::
-59814::$$$message_0544_0010_0000$$$::Eles chegam em um pavimento úmido de pedras.[lr]::
-59815::$$$message_0544_0010_0001$$$::Uma escuridão molenga esverdeado os cobrem.[lr]::
-59816::$$$message_0544_0010_0002$$$::Os diversos buracos devem ser para enterrar os mortos.[lr]::
-59817::$$$message_0544_0010_0003$$$::Nesta tumba, os corpos se decompoem e desaparecem, deixando os buracos vazios para seu próximo usuário.::
-59818::$$$message_0544_0010_0004$$$::É como o processo de enterro acima.[lr]::
-59819::$$$message_0544_0010_0005$$$::A única diferença é o processo de decomposição.[lr]::
-59820::$$$message_0544_0010_0006$$$::Não é o solo que os decompõe, mas a massa de vermes rastejantes.::
-59821::$$$message_0544_0011_0000$$$::"Este é o campo de treino dos Matous[line4]os Makiris[line4]"[lr]::
-59822::$$$message_0544_0011_0001$$$::Ela fica tonta.[lr]::
+59811::$$$message_0544_0009_0003$$$::A parede se abre.[lr]::
+59812::$$$message_0544_0009_0004$$$::Ar úmido sai da passagem que leva ao subsolo.[lr]::
+59813::$$$message_0544_0009_0005$$$::É um odor podre e insuportável, que Archer consegue sentir mesmo sem corpo material.::
+59814::$$$message_0544_0010_0000$$$::Rin desce os degraus de pedra molhada.[lr]::
+59815::$$$message_0544_0010_0001$$$::Ao redor dela, tudo é uma escuridão esverdeada.[lr]::
+59816::$$$message_0544_0010_0002$$$::Os incontáveis buracos nas paredes devem servir para sepultar os mortos.[lr]::
+59817::$$$message_0544_0010_0003$$$::Os corpos nos caixões de pedra se decompõem e se desgastam, deixando buracos vazios para seus próximos ocupantes.[lr]::
+59818::$$$message_0544_0010_0004$$$::Não é tão diferente dos sepultamentos acima da terra, exceto por uma coisa: [lr]::
+59819::$$$message_0544_0010_0005$$$::a forma como esses corpos se decompõem.[lr]::
+59820::$$$message_0544_0010_0006$$$::Aqui, não é a terra que desfaz os cadáveres, mas incontáveis insetos contorcidos.::
+59821::$$$message_0544_0011_0000$$$::"Então esta é a sala de treinamento dos Matou[line2]dos Makiri."[lr]::
+59822::$$$message_0544_0011_0001$$$::Ela murmura, tomada por tontura.[lr]::
 59823::$$$message_0544_0011_0002$$$::Não por desgosto ou arrepio.[lr]::
-59824::$$$message_0544_0011_0003$$$::É o ódio que causa nela tremedeira, arrependimento e vômito.[lr]::
+59824::$$$message_0544_0011_0003$$$::É a raiva que a faz tremer, se arrepender e vomitar.[lr]::
 59825::$$$message_0544_0011_0004$$$::Este é o campo de treino.[lr]::
 59826::$$$message_0544_0011_0005$$$::Um lugar desses é usado como campo de treino.[lr]::
-59827::$$$message_0544_0011_0006$$$::Este espaço com umidez podre, cheio de corpos, e vermes infinitas é o "quarto" dado ao sucessor dos Matous.::
-59828::$$$message_0544_0012_0000$$$::"[line8]!"[lr]::
-59829::$$$message_0544_0012_0001$$$::O que alguém consegue aprender aqui?[lr]::
-59830::$$$message_0544_0012_0002$$$::Este lugar só serve para reproduzir vermes.[lr]::
-59831::$$$message_0544_0012_0003$$$::Vermes para reproduzir. Vermes para criar. Vermes para treinar.[lr]::
-59832::$$$message_0544_0012_0004$$$::Os Matous treinaram, incentivaram, e reproduziram seu sucessor com este vermes[line4]::
-59833::$$$message_0544_0013_0000$$$::[line3]O quão diferente este mundo é do dela?::
-59834::$$$message_0544_0014_0000$$$::Os jeitos frios, a dificuldade nas tarefas, a dor de ter um Circuito Mágico gravado.[lr]::
-59835::$$$message_0544_0014_0001$$$::Ela não está comparado a severidade como sucessora.[lr]::
-59836::$$$message_0544_0014_0002$$$::Se alguém comentassem sobre as responsabilidades e dificuldades, o dela são incomparáveis.[lr]::
-59837::$$$message_0544_0014_0003$$$::Ela superou mais dificuldades e desafios do que qualquer um.[lr]::
-59838::$$$message_0544_0014_0004$$$::Por isso ela é uma maga genial e uma Única Comum, usuária dos cinco elementos, que a Associação dos Magos aceitou-a como aluna bolsista.::
-59839::$$$message_0544_0015_0000$$$::Se ordenaram ela a comandar os vermes desta sala, ela será capaz de criar uma magia superior em seis meses.[lr]::
-59840::$$$message_0544_0015_0001$$$::Rin pode criar uma magia que o sucessor dos Matous jamais conseguiria mesmo depois de dez anos tentando.::
-59841::$$$message_0544_0016_0000$$$::Mas[line3]esse método de ensino é insanidade.[lr]::
-59842::$$$message_0544_0016_0001$$$::Se questionada se ela poderia aguentar se violada por estes vermes, ela só poderia hesitar.::
-59843::$$$message_0544_0017_0000$$$::A herança da magia aqui não é um estudo, mas sim tortura.[lr]::
-59844::$$$message_0544_0017_0001$$$::A magia que é ensinada não é para a mente, mas para o corpo.[lr]::
-59845::$$$message_0544_0017_0002$$$::É assim que os Makiris passam sua magia, e esta é a preferência do velho mago, Matou Zouken.[lr]::
+59827::$$$message_0544_0011_0006$$$::Esta sala podre e úmida, cheia apenas de morte e insetos incontáveis, é o que os Matou entregam ao seu sucessor.::
+59828::$$$message_0544_0012_0000$$$::"...ngh!"[lr]::
+59829::$$$message_0544_0012_0001$$$::O que... o que alguém sequer aprende aqui?[lr]::
+59830::$$$message_0544_0012_0002$$$::Esta câmara serve apenas para reprodução.[lr]::
+59831::$$$message_0544_0012_0003$$$::Para alimentar, multiplicar e treinar insetos.[lr]::
+59832::$$$message_0544_0012_0004$$$::Então os Matou também devem usar insetos para educar, disciplinar e criar seus sucessores...::
+59833::$$$message_0544_0013_0000$$$::    O quanto o mundo deles é diferente do dela?::
+59834::$$$message_0544_0014_0000$$$::Ela pensa em sua educação rígida e difícil, e no Brasão Mágico gravado em seu braço.[lr]::
+59835::$$$message_0544_0014_0001$$$::Ela não está comparando a severidade da criação de sucessores.[lr]::
+59836::$$$message_0544_0014_0002$$$::Para começo de conversa, ninguém mais suportou dificuldades e superou obstáculos como ela.[lr]::
+59837::$$$message_0544_0014_0003$$$::Tohsaka Rin, sem dúvida, enfrentou desafios e adversidades maiores.[lr]::
+59838::$$$message_0544_0014_0004$$$::É isso que significa ser reconhecida como uma Average One[line2]uma maga que manipula os cinco grandes elementos[line2]e ser pessoalmente admitida na Associação dos Magos como prodígio.::
+59839::$$$message_0544_0015_0000$$$::Se lhe pedissem para comandar este ninho de insetos, ela criaria uma fórmula mais eficiente em exatos seis meses.[lr]::
+59840::$$$message_0544_0015_0001$$$::Tohsaka Rin poderia reescrever em meros seis meses a Magia que o herdeiro Matou não dominou nem depois de uma década.::
+59841::$$$message_0544_0016_0000$$$::Mas... esse método de ensino é idiota.[lr]::
+59842::$$$message_0544_0016_0001$$$::Se perguntassem se ela suportaria virar brinquedo desses insetos, ela só poderia engolir as próprias palavras.::
+59843::$$$message_0544_0017_0000$$$::A tradição mágica praticada aqui não é educação. É tortura.[lr]::
+59844::$$$message_0544_0017_0001$$$::É Magia ensinada diretamente ao corpo, não ao cérebro.[lr]::
+59845::$$$message_0544_0017_0002$$$::Deve ser uma tradição dos Makiri e uma preferência do velho mago Zouken.[lr]::
 59846::$$$message_0544_0017_0003$$$::Logo...[lr]::
-59847::$$$message_0544_0017_0004$$$::Ser escolhido o sucessor da família Matou significa ser torturado para sempre[line4]::
+59847::$$$message_0544_0017_0004$$$::Que quem é escolhido como herdeiro Matou passa por tortura sem fim.::
 59848::$$$message_0544_0018_0000$$$::"[line4]Rin."[lr]::
-59849::$$$message_0544_0018_0001$$$::"...eu sei. Zouken não está aqui. Ele fugiu ou tem outra base secreta. ...de qualquer forma, não há pistas aqui, então devemos ir."[lr]::
-59850::$$$message_0544_0018_0002$$$::Ela deixa a tumba, segurando sua vontade de gritar.::
-59851::$$$message_0544_0019_0000$$$::Seus passos somem.[lr]::
-59852::$$$message_0544_0019_0001$$$::...depois disso.[lr]::
-59853::$$$message_0544_0019_0002$$$::Vermes se arrastam por onde ela vomitou.::
-59854::$$$message_0544_0020_0000$$$::Ela volta ao térreo.[lr]::
-59855::$$$message_0544_0020_0001$$$::Terminado seu trabalho, ela vai até a porta, e[line4][lr]::
+59849::$$$message_0544_0018_0001$$$::"...eu sei. Zouken não está aqui. Não sei se fugiu quando cheguei ou se sua base fica em outro lugar. De qualquer forma, não temos pistas, então não precisamos ficar."[lr]::
+59850::$$$message_0544_0018_0002$$$::Ela engole a vontade de gritar e deixa a sala para trás.::
+59851::$$$message_0544_0019_0000$$$::Os passos da garota se perdem ao longe.[lr]::
+59852::$$$message_0544_0019_0001$$$::Mais tarde...[lr]::
+59853::$$$message_0544_0019_0002$$$::Os insetos se aglomeram ao redor do vômito que ela expeliu de repulsa.::
+59854::$$$message_0544_0020_0000$$$::Rin retorna à superfície.[lr]::
+59855::$$$message_0544_0020_0001$$$::Com o assunto encerrado, ela segue para fora, quando...[lr]::
 59856::$$$message_0544_0020_0002$$$::"Shinji. Você está aí, não está? Não adianta se esconder."[lr]::
-59857::$$$message_0544_0020_0003$$$::Ela chama a pessoa escondida no outro corredor secreto.::
-59858::$$$message_0544_0021_0000$$$::"[line4]! Tohsaka, sua`..."[lr]::
-59859::$$$message_0544_0021_0001$$$::"...Hmph. Eu ia te ignorar e voltar para casa, mas mudei de ideia. Vamos conversar um pouco, Matou-kun."[lr]::
-59860::$$$message_0544_0021_0002$$$::"[line8]!"[lr]::
-59861::$$$message_0544_0021_0003$$$::Matou Shinji encara Rin, mas atende seu pedido.::
-59862::$$$message_0544_0022_0000$$$::...ele claramente teme-a.[lr]::
-59863::$$$message_0544_0022_0001$$$::Seu medo não é por encarar um Servo e seu Mestre, mas por conta de sua atitude ameaçadora.::
-59864::$$$message_0544_0023_0000$$$::"N-Não brinque comigo. Não tenho nada para falar. Primeiro, a família Tohsaka nem mesmo devia se associar com a minha. Por que está aqui?"[lr]::
-59865::$$$message_0544_0023_0001$$$::"Ah? Vamos para a mesma escola. Não acho estranho eu passar aqui."::
-59866::$$$message_0544_0024_0000$$$::"Hah, não me faça rir. Você arrebentou a tranca, revirou minha casa, e chama isso de 'passar aqui'? ...Heh, então é verdade que você perdeu seus modos quando seu pai morreu. Que bando de idiotas. Desde quando os Tohsakas começaram a agir como ladrões?"::
-59867::$$$message_0544_0025_0000$$$::"Pareceu assim? ...Hmm, até que não é uma má ideia.[lr]::
-59868::$$$message_0544_0025_0001$$$::Não tem nada de valor aqui para roubar, mas ladrões fazem mais do que isso, não é?[lr]::
-59869::$$$message_0544_0025_0002$$$::Eles surtam quando são descobertos.[lr]::
-59870::$$$message_0544_0025_0003$$$::[line3]Sim, quero agir como uma ladra agora."[lr]::
-59871::$$$message_0544_0025_0004$$$::Ela está brincando.[lr]::
+59857::$$$message_0544_0020_0003$$$::Ela chama a pessoa escondida em outra passagem secreta nos fundos da sala.::
+59858::$$$message_0544_0021_0000$$$::"Tohsaka, sua..."[lr]::
+59859::$$$message_0544_0021_0001$$$::"Hmph. Eu ia te ignorar e voltar para casa, mas mudei de ideia. Vamos conversar, Matou."[lr]::
+59860::$$$message_0544_0021_0002$$$::"..."[lr]::
+59861::$$$message_0544_0021_0003$$$::Encarando Rin com ódio, Shinji obedece.::
+59862::$$$message_0544_0022_0000$$$::Ele claramente se mostrou porque tem medo dela.[lr]::
+59863::$$$message_0544_0022_0001$$$::Não por causa da ameaça que ela representa como Mestra com um Servo. Ele está simplesmente intimidado pela aura feroz que ela emana.::
+59864::$$$message_0544_0023_0000$$$::"N-não brinca comigo. Não tenho nada para falar. Além disso, os Tohsaka não deviam interferir nos Matou. O que você está fazendo aqui?"[lr]::
+59865::$$$message_0544_0023_0001$$$::"Ah, mas também somos colegas de escola. Não acho estranho eu vir fazer uma visita."::
+59866::$$$message_0544_0024_0000$$$::"Ha! Não me faça rir. Você arromba a entrada, revira tudo e chama isso de 'visita'? Hmph. Ouvi dizer que você perdeu os modos desde que seu pai morreu, e parece que é verdade. Os Tohsaka devem estar bem desesperados se chegaram ao ponto de roubar."::
+59867::$$$message_0544_0025_0000$$$::"Foi essa a impressão? Hmm... até que não parece tão ruim.[lr]::
+59868::$$$message_0544_0025_0001$$$::Não tem nada aqui para roubar, mas que tal um assalto?[lr]::
+59869::$$$message_0544_0025_0002$$$::Assalto é quando você arromba um lugar e parte para cima de quem encontra lá dentro.[lr]::
+59870::$$$message_0544_0025_0003$$$::...é. Acho que estou com vontade disso agora."[lr]::
+59871::$$$message_0544_0025_0004$$$::É obviamente uma piada,[lr]::
 59872::$$$message_0544_0025_0005$$$::Mas não está sorrindo.[lr]::
-59873::$$$message_0544_0025_0006$$$::Tohsaka Rin está friamente encarando Matou Shinji, que está com as costas contra a parede.::
-59874::$$$message_0544_0026_0000$$$::"......! S-Sua idiota, está enganada! Não tenho nada a ver com Zouken! Não sabia o que aquele velho de merda estava fazendo até agora...!"[lr]::
-59875::$$$message_0544_0026_0001$$$::"[line4]É? Então por que você virou um Mestre?"[lr]::
-59876::$$$message_0544_0026_0002$$$::"...! Porque[line4]"::
-59877::$$$message_0544_0027_0000$$$::Um rangindo.[lr]::
-59878::$$$message_0544_0027_0001$$$::Apesar de estar encurralado pela Tohsaka, ele engole suas palavras.[lr]::
-59879::$$$message_0544_0027_0002$$$::Ele estava disposto a dizer a ela qualquer coisa que ela quisesse sobre o velho.[lr]::
-59880::$$$message_0544_0027_0003$$$::Esta garota é perigosa no momento. Não há como saber o que ela faria com ele se ele ficasse quieto.[lr]::
-59881::$$$message_0544_0027_0004$$$::[line3]No pior dos casos...[lr]::
-59882::$$$message_0544_0027_0005$$$::Ela simplesmente o mataria de raiva.::
-59883::$$$message_0544_0028_0000$$$::"Por que?"[lr]::
-59884::$$$message_0544_0028_0001$$$::"[line4]Porque..."[lr]::
+59873::$$$message_0544_0025_0006$$$::Rin praticamente prende Shinji contra a parede com seu olhar gelado.::
+59874::$$$message_0544_0026_0000$$$::"...! V-você está errada, idiota! Não tenho nada a ver com ele. Não estou trabalhando com Zouken! Não faço ideia do que aquele velho fez esse tempo todo!"[lr]::
+59875::$$$message_0544_0026_0001$$$::"Tem certeza? Então como você virou Mestre?"[lr]::
+59876::$$$message_0544_0026_0002$$$::"Bem, eu..."::
+59877::$$$message_0544_0027_0000$$$::Ele engole em seco.[lr]::
+59878::$$$message_0544_0027_0001$$$::Shinji engole tudo que estava prestes a dizer, mesmo com Rin pressionando para que continue.[lr]::
+59879::$$$message_0544_0027_0002$$$::Se fosse sobre Zouken, ele provavelmente despejaria tudo de uma vez.[lr]::
+59880::$$$message_0544_0027_0003$$$::Tohsaka Rin está perigosa agora. Não dá para saber o que ela faria se ele dissesse uma palavra errada.[lr]::
+59881::$$$message_0544_0027_0004$$$::    Isso é péssimo.[lr]::
+59882::$$$message_0544_0027_0005$$$::Ela pode estar tão furiosa que talvez tente matá-lo de verdade.::
+59883::$$$message_0544_0028_0000$$$::"Você o quê?"[lr]::
+59884::$$$message_0544_0028_0001$$$::"Eu, ah..."[lr]::
 59885::$$$message_0544_0028_0002$$$::Mas ele não pode dizer o motivo.[lr]::
-59886::$$$message_0544_0028_0003$$$::Dizer o motivo de ter se tornado Mestre é como pedir para morrer.[lr]::
+59886::$$$message_0544_0028_0003$$$::Se contar como se tornou Mestre, estará praticamente morto.[lr]::
 59887::$$$message_0544_0028_0004$$$::Mesmo se...::
-59888::$$$message_0544_0029_0000$$$::"Então te direi. Você só queria agir como mago. Você é um fracassado e não pode ser um mago, então queria que o Santo Graal te transformasse em um.[lr]::
-59889::$$$message_0544_0029_0001$$$::Você não tem outro objetivo. É um covarde que queria prova para esconder sua fraqueza."::
-59890::$$$message_0544_0030_0000$$$::...é algo trivial para os demais.::
-59891::$$$message_0544_0031_0000$$$::"......! Tohsaka, sua...!"[lr]::
-59892::$$$message_0544_0031_0001$$$::"Estou errada? Você não tinha um Circuito Mágico mesmo sendo filho dos Matous. Mas isso não é sua culpa. O sangue dos Matous está sumindo. O dever da família Matou como buscadores estava sumindo quando chegaram nesta terra.[lr]::
-59893::$$$message_0544_0031_0002$$$::Mas você persistiu.[lr]::
-59894::$$$message_0544_0031_0003$$$::Pensou que era especial ser especial, e exigiu algo que não precisava. Você não pode ser um mago mesmo se obter um Circuito Mágico como esse, mas você se agarrou neste direito especial que devia ter sido lhe dado."::
-59895::$$$message_0544_0032_0000$$$::"N-Não fale como se soubesse de tudo...! Não fale merda! Não posso ser um mago...!? Como sabe disso[line4]!?"[lr]::
-59896::$$$message_0544_0032_0001$$$::"Posso dizer. Posso dizer com certeza que você nunca será um mago, mesmo se conseguir o Santo Graal.[lr]::
-59897::$$$message_0544_0032_0002$$$::Você simplesmente não tem talento. Esta é a diferença entre você e o Emiya-kun."::
-59898::$$$message_0544_0033_0000$$$::"Que...?"[lr]::
-59899::$$$message_0544_0033_0001$$$::Ele fica boquiaberto.[lr]::
-59900::$$$message_0544_0033_0002$$$::Ele não esperava por este nome.[lr]::
-59901::$$$message_0544_0033_0003$$$::É normal Tohsaka Rin se opor a ele como Mestre. Ele esperava por isto.::
-59902::$$$message_0544_0034_0000$$$::Mas não é possível que o nome de Emiya Shirou saia da boca dela.[lr]::
+59888::$$$message_0544_0029_0000$$$::"Então eu respondo por você. Você só está brincando de imitar os outros. É um fracassado que não consegue ser mago, então quer usar o Santo Graal para virar um.[lr]::
+59889::$$$message_0544_0029_0001$$$::Esse é o seu único objetivo. Um covarde tentando alcançar algo que nem deseja de verdade, só para esconder o quanto é impotente."::
+59890::$$$message_0544_0030_0000$$$::...para qualquer outra pessoa, talvez isso não passasse de uma bobagem.::
+59891::$$$message_0544_0031_0000$$$::"Nngh...! Tohsaka, como você ousa...!"[lr]::
+59892::$$$message_0544_0031_0001$$$::"Estou errada? Você nasceu na Família Matou sem nenhum Circuito Mágico. Mas isso não é culpa sua. O sangue dos Matou afinou há muito tempo. Desde que sua família criou raízes nesta terra, ela se afastou da busca original.[lr]::
+59893::$$$message_0544_0031_0002$$$::Mas você ficou obcecado por isso.[lr]::
+59894::$$$message_0544_0031_0003$$$::Enfiou na cabeça essa ideia ridícula de ser 'especial' e passou a implorar por algo de que nem precisa. Você não se tornaria mago nem se ganhasse Circuitos Mágicos, mas se agarra à ilusão de que, de algum modo, tem direito a eles."::
+59895::$$$message_0544_0032_0000$$$::"V-Você não sabe do que está falando...! Vai se ferrar! Está dizendo que eu não posso ser mago...!? Como sabe disso[line4]!?"[lr]::
+59896::$$$message_0544_0032_0001$$$::"Eu sei. Posso afirmar sem dúvida nenhuma que você não se tornaria mago nem com o Santo Graal.[lr]::
+59897::$$$message_0544_0032_0002$$$::Simplesmente falta talento a você. Ao contrário de Emiya."::
+59898::$$$message_0544_0033_0000$$$::"Hã...?"[lr]::
+59899::$$$message_0544_0033_0001$$$::A boca de Shinji se abre sem som.[lr]::
+59900::$$$message_0544_0033_0002$$$::Ele não esperava que aquele nome surgisse.[lr]::
+59901::$$$message_0544_0033_0003$$$::Tudo bem Tohsaka Rin ser sua inimiga como Mestre. Isso ele já esperava.::
+59902::$$$message_0544_0034_0000$$$::Mas é inconcebível que ela mencione Emiya Shirou.[lr]::
 59903::$$$message_0544_0034_0001$$$::Ele é só um amador.[lr]::
-59904::$$$message_0544_0034_0002$$$::Ele não veio de uma família de magos, nem é apropriado para ser um Mestre.[lr]::
-59905::$$$message_0544_0034_0003$$$::Já foi demais saber que ele tinha a Saber, então por que seu nome está vindo da boca de Tohsaka Rin[line4]!?::
-59906::$$$message_0544_0035_0000$$$::"Ha[line4]Hah. Que? Para, Tohsaka. Por que está falando do Emiya!?"[lr]::
-59907::$$$message_0544_0035_0001$$$::"Porque ele é mais forte do que você. E tem as qualidades certas para ser um mago. Emiya Shirou tem algo que Matou Shinji não tem.[lr]::
-59908::$$$message_0544_0035_0002$$$::...sim, ele não tem talento, igual você. Mas ele tem a qualidade para ser um mago. Ele é o melhor nisto, e é algo em que não perderá."::
-59909::$$$message_0544_0036_0000$$$::"O melhor!? Ele!? Hah, não me faça rir, Tohsaka...![lr]::
-59910::$$$message_0544_0036_0001$$$::Não há nada que ele tem que eu não tenho! Ele é quem não tem nada! Ele é só um arrombado sortudo que fez um contrato com Saber...!"::
-59911::$$$message_0544_0037_0000$$$::O ódio de Shinji por Shirou deve ter afagado seus medos, pois agora ele encara Rin diretamente.[lr]::
-59912::$$$message_0544_0037_0001$$$::A garota suspira e joga seus ombros.::
-59913::$$$message_0544_0038_0000$$$::"......entendo. Acho que você é mesmo incapaz de ser ajudado se não entende isso afinal. Pensei em lhe responsabilizar, mas você não valhe nem isso. Te deixarei fugir, então vá para a igreja antes que o Emiya-kun acabe contigo."::
-59914::$$$message_0544_0039_0000$$$::Ela dá as costas pra ele.[lr]::
-59915::$$$message_0544_0039_0001$$$::Dizendo a ele que ela não tem nada a tratar com ele.[lr]::
-59916::$$$message_0544_0039_0002$$$::Ela vai para a porta, sem mesmo considerar tratar o Shinji como inimigo.::
-59917::$$$message_0544_0040_0000$$$::"Eu[line4]Eu sou inferior ao Emiya...?"[lr]::
-59918::$$$message_0544_0040_0001$$$::Mas sua voz queima com ódio.[lr]::
-59919::$$$message_0544_0040_0002$$$::Mas ele não pode fazer nada além de vê-la ir.[lr]::
-59920::$$$message_0544_0040_0003$$$::Ele com certeza será morto se ele atacar ela aqui.[lr]::
-59921::$$$message_0544_0040_0004$$$::Até Matou Shinji pode notar a diferença entre seus poderes.::
-59922::$$$message_0544_0041_0000$$$::"Tohsaka[line4]sua, sua......!"[lr]::
-59923::$$$message_0544_0041_0001$$$::Uma voz repleta de resentimento profundo.[lr]::
-59924::$$$message_0544_0041_0002$$$::"[line6]aí aí, fazer o que."[lr]::
-59925::$$$message_0544_0041_0003$$$::Ela para, e diz adeus ao jovem que seria o sucessor.::
-59926::$$$message_0544_0042_0000$$$::"Tá bom, acabou, então vou te contar.[lr]::
-59927::$$$message_0544_0042_0001$$$::Aqueles que vão além pelos outros. Aqueles que pensam nos outros primeiro. ...e aqueles que odeiam a si mais do que os outros.[lr]::
-59928::$$$message_0544_0042_0002$$$::Essas são as qualidadades de um mago. Há um lugar que você nunca alcançará, não importa quanto talento tenha.[lr]::
-59929::$$$message_0544_0042_0003$$$::...humph. Nunca pensei que encontraria alguém nesta condição. É uma contradição que só poderá ter se nascer quebrado."::
-59930::$$$message_0544_0043_0000$$$::"Shinji. Você é um bom exemplo de alguém que nutre um complexo de inferioridade desnecessário por odiar os outros. Você se ama tanto que acredita que todos estão abaixo de ti, mesmo se forem melhores em todos os aspectos.[lr]::
-59931::$$$message_0544_0043_0001$$$::...você é vazio por dentro. O único que pensa que você tem algo é você mesmo, e você é igual a um balão. Seu destino muda de acordo com o vento."[lr]::
-59932::$$$message_0544_0043_0002$$$::"Uh[line6]guh."::
-59933::$$$message_0544_0044_0000$$$::"Entende? Alguém como você não é digno de ser um mago. Um Servo jamais obedeceria tal pessoa.[lr]::
-59934::$$$message_0544_0044_0001$$$::Este mundo não é relacionado à você. Não importa o quanto se considere um Mester, você nunca será um."::
-59935::$$$message_0544_0045_0000$$$::[line3]O som de passos recuando.[lr]::
-59936::$$$message_0544_0045_0001$$$::Tohsaka Rin deixa Matou Shinji sozinho no quarto escuro.::
-59937::$$$message_0544_0046_0000$$$::"[line4]Ha. Haha, hahaha."[lr]::
-59938::$$$message_0544_0046_0001$$$::Ele caí contra a parede.[lr]::
-59939::$$$message_0544_0046_0002$$$::Matou Shinji caí como um boneco que teve suas cordas cortadas, e continua rindo.::
-59940::$$$message_0544_0047_0000$$$::"Entendo. Então é assim?"[lr]::
-59941::$$$message_0544_0047_0001$$$::Sua língua lambe seus lábios secos.[lr]::
-59942::$$$message_0544_0047_0002$$$::Um barulho oco.[lr]::
-59943::$$$message_0544_0047_0003$$$::O rapaz bate sua cabeça com força contra a parede atrás dele, como se tentasse quebrá-la.[lr]::
-59944::$$$message_0544_0047_0004$$$::"[line4]Em suma...[lr]::
-59945::$$$message_0544_0047_0005$$$::Ele só precisa sumir, não é, Tohsaka?"[lr]::
-59946::$$$message_0544_0047_0006$$$::Sua risada continua.::
-
+59904::$$$message_0544_0034_0002$$$::Não passa de um vira-lata indigno, alguém que nem veio de uma linhagem de magos.[lr]::
+59905::$$$message_0544_0034_0003$$$::Já era irritante o bastante ele ter invocado Saber. Então por que justamente Tohsaka Rin está dizendo o nome dele[line4]!?::
+59906::$$$message_0544_0035_0000$$$::"Ha... ha... o quê? Para com isso, Tohsaka. Por que está falando do Emiya!?"[lr]::
+59907::$$$message_0544_0035_0001$$$::"Porque ele é mais forte que você. E tem a aptidão necessária para ser mago. Emiya Shirou tem algo que Matou Shinji não tem.[lr]::
+59908::$$$message_0544_0035_0002$$$::...sim, ele não tem talento mágico, igual a você. Mas a maior qualidade dele é indispensável para um mago: ele não se permite perder para ninguém."::
+59909::$$$message_0544_0036_0000$$$::"Maior qualidade!? Ele!? Ha, não me faça rir, Tohsaka...![lr]::
+59910::$$$message_0544_0036_0001$$$::Ele não tem nada que eu não tenha! Ele não tem nada! É só um vira-lata sortudo que conseguiu fazer um pacto com Saber...!"::
+59911::$$$message_0544_0037_0000$$$::Shinji encara Tohsaka de frente. Seu ódio por Shirou parece ter tomado o lugar do medo.[lr]::
+59912::$$$message_0544_0037_0001$$$::Rin apenas suspira e dá de ombros.::
+59913::$$$message_0544_0038_0000$$$::"...Certo. Se nem depois de eu explicar você entende, então não tem salvação mesmo. Pensei em fazer você assumir alguma responsabilidade, mas você nem vale o trabalho. Vou deixar você escapar desta vez, então corra para a igreja antes que Emiya acabe com você."::
+59914::$$$message_0544_0039_0000$$$::Rin se vira com um suspiro irritado.[lr]::
+59915::$$$message_0544_0039_0001$$$::O gesto declara que ela terminou ali.[lr]::
+59916::$$$message_0544_0039_0002$$$::Ela já nem considera Shinji um inimigo e deixa a casa Matou para trás.::
+59917::$$$message_0544_0040_0000$$$::"Eu... sou mais fraco que Emiya...?"[lr]::
+59918::$$$message_0544_0040_0001$$$::Ele repete as palavras tomado pelo mais puro rancor.[lr]::
+59919::$$$message_0544_0040_0002$$$::Mas, encurralado contra a parede, Shinji nem consegue mais ver Rin se afastando.[lr]::
+59920::$$$message_0544_0040_0003$$$::Se avançar contra ela, será morto sem dúvida.[lr]::
+59921::$$$message_0544_0040_0004$$$::Até Shinji entende a diferença incontestável entre os dois.::
+59922::$$$message_0544_0041_0000$$$::"Tohsaka... sua... sua vadia...!"[lr]::
+59923::$$$message_0544_0041_0001$$$::Um ressentimento sem fundo preenche o grito.[lr]::
+59924::$$$message_0544_0041_0002$$$::"...Argh, quer saber? Tanto faz."[lr]::
+59925::$$$message_0544_0041_0003$$$::Sem se virar, Rin para e se despede do rapaz que deveria herdar os Matou.::
+59926::$$$message_0544_0042_0000$$$::"Aqui vai uma última lição.[lr]::
+59927::$$$message_0544_0042_0001$$$::Almejar algo além de si mesmo, por algo que não seja você. Refletir sobre os outros mais do que sobre si... e odiar a si mesmo mais do que qualquer um.[lr]::
+59928::$$$message_0544_0042_0002$$$::Essa é a disposição de um mago. Não importa quanto talento ou quantos Circuitos Mágicos alguém tenha, sem essas qualidades há alturas que jamais alcançará.[lr]::
+59929::$$$message_0544_0042_0003$$$::...Hmph. Nem eu achei que um dia encontraria alguém que reunisse todas essas condições. É uma personalidade contraditória que só existiria em alguém nascido quebrado."::
+59930::$$$message_0544_0043_0000$$$::"Shinji. Você é o retrato de alguém que despreza os outros enquanto alimenta um complexo de inferioridade sem motivo. Você desdenha de tudo à sua volta, mas as pessoas que trata com superioridade são melhores que você. Está preso a esse sentimento inútil de inferioridade.[lr]::
+59931::$$$message_0544_0043_0001$$$::...você é vazio por dentro. O único que acha que você está preso é você mesmo; você é como um balão, levado para onde o vento soprar."[lr]::
+59932::$$$message_0544_0043_0002$$$::"Argh... guh..."::
+59933::$$$message_0544_0044_0000$$$::"Já entendeu? Um sujeito como você não dá conta de ser mago, e nenhum Servo obedeceria a você.[lr]::
+59934::$$$message_0544_0044_0001$$$::O que acontecer daqui em diante não diz respeito a Matou Shinji. Não importa o quanto insista que é Mestre, você nunca, jamais será um."::
+59935::$$$message_0544_0045_0000$$$::Os passos dela se afastam.[lr]::
+59936::$$$message_0544_0045_0001$$$::Rin deixa Shinji sozinho na casa escura, sem lhe dedicar outro olhar.::
+59937::$$$message_0544_0046_0000$$$::"Ha. Haha. Hahaha!"[lr]::
+59938::$$$message_0544_0046_0001$$$::Shinji escorrega pela parede.[lr]::
+59939::$$$message_0544_0046_0002$$$::Ele desaba no chão como um boneco de cordas cortadas, o rosto tremendo em risadas.::
+59940::$$$message_0544_0047_0000$$$::"Ah. Então é isso?"[lr]::
+59941::$$$message_0544_0047_0001$$$::Sua língua seca recolhe a saliva que escorre pelo queixo.[lr]::
+59942::$$$message_0544_0047_0002$$$::Um [font italic=true]baque[font italic=false] seco ecoa pelo cômodo.[lr]::
+59943::$$$message_0544_0047_0003$$$::O rapaz arremessa a cabeça contra a parede com tanta força que poderia quebrar um osso.[lr]::
+59944::$$$message_0544_0047_0004$$$::"Então o que você está dizendo é...[lr]::
+59945::$$$message_0544_0047_0005$$$::que eu ficaria bem sem ele por perto, certo?"[lr]::
+59946::$$$message_0544_0047_0006$$$::Uma risada sufocada e oca preenche o ar.::

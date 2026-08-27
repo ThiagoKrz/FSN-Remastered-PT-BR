@@ -2,50 +2,49 @@ DAT
 id=qid::label=str::text=lstr::
 53512::$$$message_0463_0000_0000$$$::Já são sete da manhã.[lr]::
 53513::$$$message_0463_0000_0001$$$::A Fuji-nee foi pra escola, e estamos limpando tudo agora.[lr]::
-53514::$$$message_0463_0000_0002$$$::A Sakura tem tempo também, então relaxmos e lavamos a louça.::
-53515::$$$message_0463_0001_0000$$$::Com nós dois, não demora muito.[lr]::
+53514::$$$message_0463_0000_0002$$$::Sakura também não precisa se apressar hoje, então lavamos a louça sem pressa.::
+53515::$$$message_0463_0001_0000$$$::A limpeza da manhã passa num instante quando nós dois ajudamos.[lr]::
 53516::$$$message_0463_0001_0001$$$::...estava de olho na Sakura por conta de sua saúde, mas ela parece realmente bem.[lr]::
 53517::$$$message_0463_0001_0002$$$::Parece que a febre se foi, e ela está cheia de energia.::
 53518::$$$message_0463_0002_0000$$$::"Um, Senpai...![lr]::
 53519::$$$message_0463_0002_0001$$$::T-Tenho algo para te dizer, então posso tomar uns minutos seus!?"::
-53520::$$$message_0463_0003_0000$$$::Então.[lr]::
-53521::$$$message_0463_0003_0001$$$::A Sakura martela uma pergunta, tão nervosa que parece que está invadindo a casa de alguém.::
+53520::$$$message_0463_0003_0000$$$::Ela solta a pergunta de repente,[lr]::
+53521::$$$message_0463_0003_0001$$$::como se fosse agora ou nunca.::
 53522::$$$message_0463_0004_0000$$$::"Claro, ainda temos tempo."[lr]::
-53523::$$$message_0463_0004_0001$$$::"O-Okay. ...U-Um, bem. Eu fiz, um, almoço pra você..."[lr]::
-53524::$$$message_0463_0004_0002$$$::Ela olha para baixo enquanto me entrega uma lancheira.::
+53523::$$$message_0463_0004_0001$$$::"C-certo. Bem... hum... eu tentei fazer almoço para você."[lr]::
+53524::$$$message_0463_0004_0002$$$::Sakura me entrega uma lancheira.::
 53525::$$$message_0463_0005_0000$$$::Não é a minha lancheira de costume, e parece que a Sakura a fez para mim.[lr]::
-53526::$$$message_0463_0005_0001$$$::Tem um formato bonito, e está embrulhado em cores vívidas.[lr]::
-53527::$$$message_0463_0005_0002$$$::O gosto é garantido se foi ela quem fez, e aprecio que alguém cozinhou para mim.::
+53526::$$$message_0463_0005_0001$$$::Ao contrário da minha lancheira sem graça, esta tem um formato bonito e ainda está embrulhada num pano de cor agradável.[lr]::
+53527::$$$message_0463_0005_0002$$$::Sou grato, e posso confiar que vai estar gostoso se foi Sakura quem fez.::
 53528::$$$message_0463_0006_0000$$$::"Uh, obrigado. ...espera, acordou cedo para fazer isso pra mim?"[lr]::
 53529::$$$message_0463_0006_0001$$$::A Sakura estava fazendo café quando cheguei na sala de estar hoje de manhã.[lr]::
 53530::$$$message_0463_0006_0002$$$::Admirei o quão cedo ela levantou, mas parece que foi mais cedo do que eu pensei.::
 53531::$$$message_0463_0007_0000$$$::"Ah, sim. Acordei cedo, e não tinha nada para fazer, então pensei em fazer o almoço. ...Um, e quero te perguntar algo[w l=4][line4]"[lr]::
 53532::$$$message_0463_0007_0001$$$::"...? Pra que tanta formalidade? Quer me consultar sobre algo importante?"::
 53533::$$$message_0463_0008_0000$$$::"N-Não, é nada de mais...![lr]::
-53534::$$$message_0463_0008_0001$$$::Não é, mas...... umm... ah, sim! S-Senpai, você não faz seu almoço com frequência. Você gosta de cozinhar, então queria saber o por quê!"[lr]::
-53535::$$$message_0463_0008_0002$$$::"...Sakura. não é como se eu gostasse de cozinhar."::
-53536::$$$message_0463_0009_0000$$$::Nunca vi o hobby de um cara ser cozinhar, então eu queria que ela pensasse nisso como algo só eu possa fazer.[lr]::
-53537::$$$message_0463_0009_0001$$$::Ah, espera. Estamos conversando sobre por que eu não faço meu almoço.::
-53538::$$$message_0463_0010_0000$$$::"Bem. Sei que é mais barato fazer o meu próprio almoço. Mas os caras na sala ficam em cima quando faço. Metade dele some antes que eu perceba."::
-53539::$$$message_0463_0011_0000$$$::Sakura concorda, satisfeita.[lr]::
-53540::$$$message_0463_0011_0001$$$::...sendo sincero, são as garotas quem pegam boa parte dele, mas não vou comentar pois é ridículo.::
+53534::$$$message_0463_0008_0001$$$::Acho que não, mas... hum... ah, sim! S-Senpai, você quase nunca faz almoço para levar à escola. Por quê, se gosta tanto de cozinhar?"[lr]::
+53535::$$$message_0463_0008_0002$$$::"...Sakura, eu não [font italic=true]gosto[font italic=false] exatamente de cozinhar, sabe."::
+53536::$$$message_0463_0009_0000$$$::Além disso, cozinhar não é bem um hobby que homens costumam ter. Eu só sei fazer, e prefiro deixar por isso mesmo.[lr]::
+53537::$$$message_0463_0009_0001$$$::Enfim, ela quer saber por que eu não faço meu próprio almoço, certo...::
+53538::$$$message_0463_0010_0000$$$::"Eu sei que economizaria dinheiro levando meu próprio almoço, mas os caras da sala se amontoam na minha mesa quando faço isso. Antes que eu perceba, metade da comida já sumiu."::
+53539::$$$message_0463_0011_0000$$$::Sakura assente devagar.[lr]::
+53540::$$$message_0463_0011_0001$$$::...Na verdade, são as garotas da sala que costumam pegar a maior parte, mas decido não comentar porque isso me faria parecer patético.::
 53541::$$$message_0463_0012_0000$$$::"Sim, então só cozinho quando posso usar a sala do conselho estudantil. Lá, posso comer sozinho com o Issei."::
-53542::$$$message_0463_0013_0000$$$::"...U-Um, Senpai? Que tal comer no campo de tiro ao alvo então?[lr]::
-53543::$$$message_0463_0013_0001$$$::Fica aberto durante o almoço, posso te fazer um pouco de chá, e é bem quieto[w l=4][line4]"::
+53542::$$$message_0463_0013_0000$$$::"...H-hum, Senpai? Que tal almoçar no dojô de arco, então?[lr]::
+53543::$$$message_0463_0013_0001$$$::O prédio do clube fica aberto durante o dia, dá para fazer chá lá, e, hum, é quieto e não tem ninguém por perto, então..."::
 53544::$$$message_0463_0014_0000$$$::...?[lr]::
 53545::$$$message_0463_0014_0001$$$::Ah, boa ideia.[lr]::
-53546::$$$message_0463_0014_0002$$$::O campo de arquearia não fica trancada, e os membros do clube quase nunca vão lá no almoço.[lr]::
-53547::$$$message_0463_0014_0003$$$::A Mitsuzuri pode estar lá, mas ela não é tão cruel ao ponto de comer o almoço de outra pessoa.::
-53548::$$$message_0463_0015_0000$$$::"...sim, tem razão. Que boa ideia."[lr]::
+53546::$$$message_0463_0014_0002$$$::O dojô de arco fica destrancado durante o dia, e é pouco provável que até os membros do clube apareçam por lá.[lr]::
+53547::$$$message_0463_0014_0003$$$::No máximo Mitsuzuri estaria por perto, e ela não é sem educação a ponto de mexer no almoço dos outros.::
+53548::$$$message_0463_0015_0000$$$::"...É. Pensando bem, acho que daria certo."[lr]::
 53549::$$$message_0463_0015_0001$$$::"S-Sim![lr]::
 53550::$$$message_0463_0015_0002$$$::É uma boa ideia!"[lr]::
-53551::$$$message_0463_0015_0003$$$::"Mas não sei se é uma boa ideia alguém de fora ir lá. Acho que precisaremos pedir a Mitsuzuri permissão."::
-53552::$$$message_0463_0016_0000$$$::"T-Tudo bem! O campo de tiro é parte da escola, então qualquer aluno deve poder usá-lo quando o clube não o estiver!"[lr]::
-53553::$$$message_0463_0016_0001$$$::A Sakura reafirma seu ponto.::
-53554::$$$message_0463_0017_0000$$$::"...Hmm, tem razão. Acho que não tem problema se ninguém se incomodar."[lr]::
-53555::$$$message_0463_0017_0001$$$::Concordo comigo mesmo.[lr]::
-53556::$$$message_0463_0017_0002$$$::Então.[lr]::
-53557::$$$message_0463_0017_0003$$$::Não sei por que, mas a Sakura está fazendo pose de vitória com um grande sorriso no rosto.::
+53551::$$$message_0463_0015_0003$$$::"Mas eu sou de fora. É melhor pedir permissão à Mitsuzuri primeiro."::
+53552::$$$message_0463_0016_0000$$$::"N-não, tudo bem! É um prédio da escola, então tenho certeza de que os alunos podem entrar e sair à vontade mesmo fora das atividades do clube!"[lr]::
+53553::$$$message_0463_0016_0001$$$::Sakura está sendo estranhamente firme.::
+53554::$$$message_0463_0017_0000$$$::"...Hmm... é, tudo bem. Desde que eu não incomode ninguém."[lr]::
+53555::$$$message_0463_0017_0001$$$::Aceito a proposta.[lr]::
+53556::$$$message_0463_0017_0002$$$::E, por algum motivo,[lr]::
+53557::$$$message_0463_0017_0003$$$::Sakura parece radiante, até fazendo pose de vitória.::
 53558::$$$message_0463_0018_0000$$$::"...?"[lr]::
 53559::$$$message_0463_0018_0001$$$::...Hmm. Talvez um pouco da energia da Fuji-nee passou pra Sakura.::
-

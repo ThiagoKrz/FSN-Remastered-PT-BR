@@ -1,88 +1,87 @@
 DAT
 id=qid::label=str::text=lstr::
-54262::$$$message_0475_0000_0000$$$::[w l=4][line4]Eu preciso decidir o que vou fazer de agora em diante.::
+54262::$$$message_0475_0000_0000$$$::    Preciso decidir o que vou fazer daqui em diante.::
 54263::$$$message_0475_0001_0000$$$::Eu escolhi continuar lutando.[lr]::
-54264::$$$message_0475_0001_0001$$$::Matou Zouken e Assassin.[lr]::
-54265::$$$message_0475_0001_0002$$$::Aquela sombra negra andando pela cidade.[lr]::
-54266::$$$message_0475_0001_0003$$$::A batalha entre Mestres pelo Santo Graal.[lr]::
-54267::$$$message_0475_0001_0004$$$::Eu escolhi dar um fim a tudo isso, mesmo não tendo mais a Saber.[lr]::
-54268::$$$message_0475_0001_0005$$$::Portanto, como eu irei fazer isso não importa.[lr]::
-54269::$$$message_0475_0001_0006$$$::Se eu quiser que não haja mais vítimas, vou precisar da ajuda da Tohsaka.::
-54270::$$$message_0475_0002_0000$$$::"[w l=3][line3]Tohsaka.[lr]::
-54271::$$$message_0475_0002_0001$$$::Eu perdi a Saber e o meu Selo de Comando. Nesse caso, eu não sou mais um Mestre, certo?"::
-54272::$$$message_0475_0003_0000$$$::"...Verdade. Tinha me esquecido disso. Você não é mais um Mestre. Você não tem motivo para se envolver na Guerra do Santo Graal, e é menos provável que os outros Mestres venham te atacar."::
-54273::$$$message_0475_0004_0000$$$::"Sim. Eu só queria o Santo Graal porque a Saber precisava dele. ...Agora que a Saber se foi, eu não tenho mais interesse nele."[lr]::
-54274::$$$message_0475_0004_0001$$$::"Entendo. Então você não vai mais lutar?"::
-54275::$$$message_0475_0005_0000$$$::Não há emoção nos olhos da Tohsaka.[lr]::
-54276::$$$message_0475_0005_0001$$$::As suas palavras são apenas algo que ela precisa perguntar como Mestre, sem qualquer interesse pessoal.::
-54277::$$$message_0475_0006_0000$$$::"[w l=8][line8]"[lr]::
+54264::$$$message_0475_0001_0001$$$::Matou Zouken e Assassin...[lr]::
+54265::$$$message_0475_0001_0002$$$::A Sombra Negra que vagueia pela cidade...[lr]::
+54266::$$$message_0475_0001_0003$$$::Mestres lutando entre si pelo Santo Graal...[lr]::
+54267::$$$message_0475_0001_0004$$$::Decidi pôr fim a tudo isso, mesmo tendo perdido Saber.[lr]::
+54268::$$$message_0475_0001_0005$$$::Esta não é hora de me preocupar com aparências.[lr]::
+54269::$$$message_0475_0001_0006$$$::Se quero impedir novas vítimas, preciso da ajuda de Tohsaka.::
+54270::$$$message_0475_0002_0000$$$::"Tohsaka.[lr]::
+54271::$$$message_0475_0002_0001$$$::Perdi Saber e meus Selos de Comando. Então não sou mais Mestre, certo?"::
+54272::$$$message_0475_0003_0000$$$::"...é. Eu tinha esquecido esse detalhe importante. Você não é mais Mestre. Não precisa se envolver com a Guerra do Santo Graal, e agora é menos provável que os outros Mestres venham atrás de você."::
+54273::$$$message_0475_0004_0000$$$::"Certo. Eu queria o Graal porque Saber dizia precisar dele. Agora que ela se foi, não tenho mais interesse nisso."[lr]::
+54274::$$$message_0475_0004_0001$$$::"Entendi. Então você vai parar de lutar?"::
+54275::$$$message_0475_0005_0000$$$::Os olhos de Tohsaka estão impassíveis.[lr]::
+54276::$$$message_0475_0005_0001$$$::Ela me faz a pergunta como Mestre, de modo equilibrado, sem deixar que as próprias emoções interfiram.::
+54277::$$$message_0475_0006_0000$$$::[font italic=true]...[font italic=false][lr]::
 54278::$$$message_0475_0006_0001$$$::Isso não é uma pergunta, mas sim um aviso.[lr]::
 54279::$$$message_0475_0006_0002$$$::Essa é a minha última chance.[lr]::
-54280::$$$message_0475_0006_0003$$$::Ela está me dando uma chance para voltar atrás, me dizendo que ainda posso sobreviver se eu me retirar da guerra.::
-54281::$$$message_0475_0007_0000$$$::"[w l=6][line6]Irei lutar."[lr]::
-54282::$$$message_0475_0007_0001$$$::Eu já me decidi.[lr]::
-54283::$$$message_0475_0007_0002$$$::Mas vou me lembrar da sua consideração.::
-54284::$$$message_0475_0008_0000$$$::"Eu irei lutar. Não vou parar de lutar só porque deixei de ser um Mestre. Eu decidi lutar para dar um fim a essa guerra."[lr]::
-54285::$$$message_0475_0008_0001$$$::"[w l=3][line3]Entendo. Então acho que ainda podemos manter o nosso trato.[lr]::
-54286::$$$message_0475_0008_0002$$$::Apesar de sermos inimigos, vamos manter a nossa trégua até aquela sombra ser derrotada."::
-54287::$$$message_0475_0009_0000$$$::"...?"[lr]::
+54280::$$$message_0475_0006_0003$$$::Ela está me avisando, de modo justo, que ainda não é tarde para voltar atrás.::
+54281::$$$message_0475_0007_0000$$$::"...não."[lr]::
+54282::$$$message_0475_0007_0001$$$::Mas minha resposta já estava decidida há muito tempo.[lr]::
+54283::$$$message_0475_0007_0002$$$::Vou me lembrar da consideração que ela teve ao perguntar.::
+54284::$$$message_0475_0008_0000$$$::"Claro que não. Não vou abandonar esta guerra só porque deixei de ser Mestre. Decidi lutar para pôr fim a ela."[lr]::
+54285::$$$message_0475_0008_0001$$$::"Certo. Então podemos continuar com nossa relação.[lr]::
+54286::$$$message_0475_0008_0002$$$::Somos inimigos, mas temos uma trégua até derrotarmos aquela coisa chamada 'Sombra'."::
+54287::$$$message_0475_0009_0000$$$::"Hm?"[lr]::
 54288::$$$message_0475_0009_0001$$$::A Tohsaka sorri de repente.[lr]::
-54289::$$$message_0475_0009_0002$$$::Ela parece amigável, como se alguma coisa boa tivesse acontecido.[lr]::
-54290::$$$message_0475_0009_0003$$$::Bem, eu não me importo, mas[w l=4][line4]::
-54291::$$$message_0475_0010_0000$$$::"[w l=3][line3]Espera aí. Por que nós somos inimigos?[lr]::
-54292::$$$message_0475_0010_0001$$$::Eu não sou mais um Mestre. Nós não temos nenhum motivo para nos enfrentarmos."::
-54293::$$$message_0475_0011_0000$$$::"Do que está falando? Mesmo sem o seu Selo de Comando e o seu Servo, você ainda é o antigo Mestre da Saber.[lr]::
-54294::$$$message_0475_0011_0001$$$::Você foi de alguma forma escolhido pelo Santo Graal, por isso você tem o direito de obtê-lo até o final. Mesmo sem forças, você ainda é o meu rival."::
-54295::$$$message_0475_0012_0000$$$::"É sério? Mesmo se eu não tiver a intenção de obter o Santo Graal?"::
-54296::$$$message_0475_0013_0000$$$::"Isso vai depender da situação, não é? É possível que você acabe precisando do Santo Graal quando estiver numa situação onde você pode consegui-lo, e acabar usando.[lr]::
-54297::$$$message_0475_0013_0001$$$::Pessoas altruístas são afetadas pelos outros justamente por quererem ajudá-las."::
-54298::$$$message_0475_0014_0000$$$::"Hum. Você está exagerando, Tohsaka. Mesmo se eu precisar usar o Santo Graal, isso não significa que eu vou conseguir obtê-lo."::
-54299::$$$message_0475_0015_0000$$$::"É apenas uma suposição. Mas a possibilidade existe.[lr]::
-54300::$$$message_0475_0015_0001$$$::Por isso que estou dizendo que somos inimigos, e é por isso que magos que deixaram de ser Mestres devem ir para a igreja.[lr]::
-54301::$$$message_0475_0015_0002$$$::Mesmo sem um Servo, eles são obstáculos para os outros Mestres. Mantenha isso em mente e tome cuidado. Não é só o Zouken que irá tentar te matar."::
-54302::$$$message_0475_0016_0000$$$::"Hum...... Eu agradeço pelo aviso, mas..."[lr]::
-54303::$$$message_0475_0016_0001$$$::É que... eu não gosto de ter a Tohsaka como inimiga.::
-54304::$$$message_0475_0017_0000$$$::"...? Por que está fazendo essa cara? Nós já somos inimigos. Você tem algum problema com isso?"[lr]::
-54305::$$$message_0475_0017_0001$$$::"Sim. Isso significa que eu não posso pedir a sua ajuda, afinal."::
+54289::$$$message_0475_0009_0002$$$::A impassibilidade de um instante atrás dá lugar a uma expressão amigável, como se algo bom tivesse acontecido.[lr]::
+54290::$$$message_0475_0009_0003$$$::...Tudo bem, eu acho. Não que eu saiba o motivo.::
+54291::$$$message_0475_0010_0000$$$::"Espera. Por que somos inimigos?[lr]::
+54292::$$$message_0475_0010_0001$$$::Não sou mais Mestre. Não tenho motivo nenhum para competir com você."::
+54293::$$$message_0475_0011_0000$$$::"Do que você está falando? Você pode ter perdido seu Servo e seus Selos de Comando, mas isso não significa que deixou de ser Mestre de Saber.[lr]::
+54294::$$$message_0475_0011_0001$$$::Você foi escolhido pelo Santo Graal, ainda que não do jeito planejado. Isso significa que também tem direito a ele. Pode estar neutralizado por enquanto, mas ainda é um concorrente."::
+54295::$$$message_0475_0012_0000$$$::"Eu? Mesmo que eu não ligue para conseguir o Santo Graal?"::
+54296::$$$message_0475_0013_0000$$$::"Isso depende da situação. É totalmente possível que você consiga o Santo Graal e acabe numa situação em que precise do poder dele.[lr]::
+54297::$$$message_0475_0013_0001$$$::Pessoas sem ganância são influenciadas por fatores externos justamente porque não têm desejos próprios."::
+54298::$$$message_0475_0014_0000$$$::"Hrm. Você está pensando demais, Tohsaka. Mesmo que eu precisasse do Graal, não tem como eu conseguir."::
+54299::$$$message_0475_0015_0000$$$::"É só uma hipótese, mas a possibilidade não é zero.[lr]::
+54300::$$$message_0475_0015_0001$$$::É por isso que considero nós dois inimigos. É por isso que magos que deixam de ser Mestres fogem para buscar abrigo na igreja.[lr]::
+54301::$$$message_0475_0015_0002$$$::Mesmo sem seus Servos, eles ainda são incômodos para os outros Mestres. É melhor tomar cuidado. Zouken não é o único que está atrás de você."::
+54302::$$$message_0475_0016_0000$$$::"Mrgh... aceito o conselho."[lr]::
+54303::$$$message_0475_0016_0001$$$::O problema é que não fico feliz em continuar sendo inimigo dela.::
+54304::$$$message_0475_0017_0000$$$::"Hm? Por que essa cara complicada? Eu disse que somos inimigos, mas as coisas vão continuar iguais. Qual é o problema?"[lr]::
+54305::$$$message_0475_0017_0001$$$::"Vários. Porque, assim, não posso pedir sua ajuda."::
 54306::$$$message_0475_0018_0000$$$::"Hã?"[lr]::
 54307::$$$message_0475_0018_0001$$$::Ela fica paralisada.[lr]::
-54308::$$$message_0475_0018_0002$$$::A Tohsaka olha para mim como se tivesse visto um fantasma.::
-54309::$$$message_0475_0019_0000$$$::"Por que você precisa da minha ajuda...?"::
-54310::$$$message_0475_0020_0000$$$::"Porque eu não consigo fazer isso sozinho. Acabar com a Guerra do Santo Graal significa derrotar os outros Mestres, mas eu não tenho o poder para fazer isso."::
-54311::$$$message_0475_0021_0000$$$::"...Eu sei que pareço lamentável tendo que pedir a sua ajuda, mas não ligo para isso. Eu estou sem opções, e acho que essa é a melhor coisa que posso fazer.[lr]::
-54312::$$$message_0475_0021_0001$$$::Por isso eu não posso ser seu inimigo.[lr]::
-54313::$$$message_0475_0021_0002$$$::[w l=3][line3]Eu preciso de você como aliada."::
-54314::$$$message_0475_0022_0000$$$::"...Ei. Você está falando sério, Emiya-kun?"[lr]::
-54315::$$$message_0475_0022_0001$$$::"Estou. Eu sou fraco demais para lutar ao seu lado, portanto posso acabar te atrapalhando.[lr]::
-54316::$$$message_0475_0022_0002$$$::Eu não posso oferecer nada em troca, então você não vai ganhar nada me ajudando.[lr]::
-54317::$$$message_0475_0022_0003$$$::...É mesmo, normalmente cooperar desse jeito não funciona."::
-54318::$$$message_0475_0023_0000$$$::"H-Heh. Então você está ciente disso.[lr]::
-54319::$$$message_0475_0023_0001$$$::Como você disse, a troca equivalente é uma norma para os magos. Eu não posso emprestar alguma coisa a alguém sem dinheiro, e não posso ajudar alguém que não possa retribuir o favor. Você sabe que isso é para o seu próprio bem também, não sabe?"::
-54320::$$$message_0475_0024_0000$$$::"Eu te dei um conselho porque estamos em trégua, mas seria completamente diferente se fôssemos aliados. Nesse caso, nós teríamos que dividir a recompensa também."::
-54321::$$$message_0475_0025_0000$$$::"Eu sei. Mas estou te pedindo isso mesmo assim.[lr]::
-54322::$$$message_0475_0025_0001$$$::[w l=3][line3]Por favor me ajude, Tohsaka. Eu irei te retribuir isso enquanto viver."::
-54323::$$$message_0475_0026_0000$$$::"Enquanto você viver[w l=4][line4]?"::
-54324::$$$message_0475_0027_0000$$$::...Eu sei que sou apenas um fardo para ela.[lr]::
-54325::$$$message_0475_0027_0001$$$::Mas a Tohsaka é a pessoa mais confiável que eu conheço, e sei que mesmo se ela conseguir o Santo Graal, não vai fazer nada de errado.[lr]::
-54326::$$$message_0475_0027_0002$$$::Por isso, a Tohsaka é a única que eu aceito que vença essa guerra, e a única com quem estou disposto a cooperar.::
-54327::$$$message_0475_0028_0000$$$::"Tohsaka. Eu quero ouvir a sua resposta."[lr]::
-54328::$$$message_0475_0028_0001$$$::Eu olho direto para ela.[lr]::
-54329::$$$message_0475_0028_0002$$$::"...I-Isso é óbvio, não é? Mesmo se eu me aliar com alguém que não seja um Mestre, eu..."::
+54308::$$$message_0475_0018_0002$$$::Tohsaka me encara como se tivesse visto um fantasma.::
+54309::$$$message_0475_0019_0000$$$::Você quer minha ajuda? Por quê...?::
+54310::$$$message_0475_0020_0000$$$::"Porque eu definitivamente não consigo fazer isso sozinho. Preciso derrotar os outros Mestres para parar a guerra, mas não tenho poder para isso."::
+54311::$$$message_0475_0021_0000$$$::"...eu sei que parece patético, mas não posso me preocupar com aparências. Entre as poucas opções que me restam, acho que esta é a melhor.[lr]::
+54312::$$$message_0475_0021_0001$$$::Por isso não posso ser seu inimigo, Tohsaka.[lr]::
+54313::$$$message_0475_0021_0002$$$::    Quero que você me ajude, não só que honre uma trégua."::
+54314::$$$message_0475_0022_0000$$$::"...espera. Você perdeu o juízo?"[lr]::
+54315::$$$message_0475_0022_0001$$$::"Estou perfeitamente lúcido. Não sou forte, e talvez acabe te atrapalhando.[lr]::
+54316::$$$message_0475_0022_0002$$$::Você não tem nada a ganhar se juntando a mim, e eu não tenho como retribuir.[lr]::
+54317::$$$message_0475_0022_0003$$$::...é. Normalmente, não haveria motivo nenhum para formar uma aliança."::
+54318::$$$message_0475_0023_0000$$$::"H-hmph. Então você entende pelo menos isso.[lr]::
+54319::$$$message_0475_0023_0001$$$::Como você disse, a troca equivalente é uma ideia fundamental na taumaturgia. Não posso ajudar alguém que não tem nada a oferecer em troca, nem alguém que não consegue contribuir para o trabalho em equipe. Você sabe tão bem quanto eu que isso também não seria bom para você."::
+54320::$$$message_0475_0024_0000$$$::"Eu deixei você me consultar durante nossa trégua, mas uma aliança é outra história. Se vamos ser aliados que se ajudam, precisa haver algo nisso para nós dois."::
+54321::$$$message_0475_0025_0000$$$::"Sim. Eu sabia disso quando pedi.[lr]::
+54322::$$$message_0475_0025_0001$$$::    Me ajude, Tohsaka. Vou te retribuir enquanto eu viver."::
+54323::$$$message_0475_0026_0000$$$::"Enquanto viver, hein?"::
+54324::$$$message_0475_0027_0000$$$::...sei muito bem o peso que eu seria para ela.[lr]::
+54325::$$$message_0475_0027_0001$$$::Mas Tohsaka é a pessoa mais confiável que conheço, e, se ela for a pessoa a obter o Santo Graal, posso confiar que nada dará errado.[lr]::
+54326::$$$message_0475_0027_0002$$$::Por isso ela é a única pessoa que consigo imaginar ajudando a vencer como Mestre.::
+54327::$$$message_0475_0028_0000$$$::"Tohsaka. Quero ouvir sua resposta."[lr]::
+54328::$$$message_0475_0028_0001$$$::Eu a encaro nos olhos.[lr]::
+54329::$$$message_0475_0028_0002$$$::"...i-isso é óbvio, não é? Eu não vou me aliar com alguém que não é Mestre[line2]"::
 54330::$$$message_0475_0029_0000$$$::"Tohsaka."[lr]::
-54331::$$$message_0475_0029_0001$$$::"Já disse que mesmo se você me pedir desse jeito, eu não posso te ajudar. Em primeiro lugar..."::
+54331::$$$message_0475_0029_0001$$$::"Eu já disse que, mesmo se você insistir, não posso te ajudar. Para começo de conversa[line2]"::
 54332::$$$message_0475_0030_0000$$$::"Tohsaka."[lr]::
-54333::$$$message_0475_0030_0001$$$::"...Isso é como um contrato de verdade."::
-54334::$$$message_0475_0031_0000$$$::E então.[lr]::
-54335::$$$message_0475_0031_0001$$$::A Tohsaka olha para baixo uma vez e...[lr]::
-54336::$$$message_0475_0031_0002$$$::"[w l=3][line3]"...Nossa, tá bom! Então aqui vão os termos para o nosso acordo!""[lr]::
-54337::$$$message_0475_0031_0003$$$::Ela me encara.::
-54338::$$$message_0475_0032_0000$$$::"...? O que você quer dizer com 'termos'?"[lr]::
-54339::$$$message_0475_0032_0001$$$::"Termos são termos![lr]::
-54340::$$$message_0475_0032_0002$$$::...Bem, esse será um contrato de verdade.[lr]::
-54341::$$$message_0475_0032_0003$$$::Portanto, eu posso considerar o seu pedido se você me prometer que vai seguir as coisas que irei te falar."::
-54342::$$$message_0475_0033_0000$$$::"...??? Tohsaka. Eu já te disse, eu não tenho nada que posso te oferecer em troca."[lr]::
-54343::$$$message_0475_0033_0001$$$::"Cala a boca e me escute!"[lr]::
-54344::$$$message_0475_0033_0002$$$::"......! E-Está bem, estou ouvindo."::
-54345::$$$message_0475_0034_0000$$$::"Ótimo. Esse é o primeiro termo. Eu não me importo em cooperar, mas você vai fazer o que eu mandar?[lr]::
-54346::$$$message_0475_0034_0001$$$::Você vai me obedecer, não importa o que eu diga para você fazer, durante uma batalha?"[lr]::
-�
+54333::$$$message_0475_0030_0001$$$::"...é como se estivéssemos falando de um contrato de verdade, sabe?"::
+54334::$$$message_0475_0031_0000$$$::Aí está.[lr]::
+54335::$$$message_0475_0031_0001$$$::Tohsaka faz questão de baixar os olhos.[lr]::
+54336::$$$message_0475_0031_0002$$$::"Ah, tá bom! Entendi! Então aqui vão minhas condições!"[lr]::
+54337::$$$message_0475_0031_0003$$$::Ela devolve meu olhar com firmeza.::
+54338::$$$message_0475_0032_0000$$$::"Que condições?"[lr]::
+54339::$$$message_0475_0032_0001$$$::"Minhas condições para esse acordo![lr]::
+54340::$$$message_0475_0032_0002$$$::...estou falando de um contrato apropriado.[lr]::
+54341::$$$message_0475_0032_0003$$$::Se você falou sério agora, então posso pensar num jeito de fazer isso funcionar."::
+54342::$$$message_0475_0033_0000$$$::"??? Tohsaka, eu venho dizendo esse tempo todo que não tenho nada com que te pagar."[lr]::
+54343::$$$message_0475_0033_0001$$$::"Só escute!"[lr]::
+54344::$$$message_0475_0033_0002$$$::"...! C-certo, pode falar."::
+54345::$$$message_0475_0034_0000$$$::"Certo. Primeiro: podemos formar uma aliança, mas você vai fazer o que eu mandar?[lr]::
+54346::$$$message_0475_0034_0001$$$::Se entrarmos em batalha, vai seguir minhas ordens sem discutir?"[lr]::

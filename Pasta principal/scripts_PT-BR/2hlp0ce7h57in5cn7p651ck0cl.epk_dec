@@ -1,57 +1,56 @@
 DAT
 id=qid::label=str::text=lstr::
-59054::$$$message_0531_0000_0000$$$::A aula acaba, e rapidamente volto para casa.[lr]::
-59055::$$$message_0531_0000_0001$$$::Já que os clubes pós-aula foram cancelados, o portão principal está lotado com alunos.::
-59056::$$$message_0531_0001_0000$$$::Olho ao redor, mas não vejo a Tohsaka.[lr]::
+59054::$$$message_0531_0000_0000$$$::Quando a aula termina, volto para casa sem demora.[lr]::
+59055::$$$message_0531_0000_0001$$$::Como todas as atividades de clubes foram suspensas, os alunos se acumulam no portão da escola.::
+59056::$$$message_0531_0001_0000$$$::Dou uma olhada rápida ao redor, mas não vejo ninguém que pareça ser Tohsaka.[lr]::
 59057::$$$message_0531_0001_0001$$$::Aposto que ela já foi para a casa dos Matous.::
-59058::$$$message_0531_0002_0000$$$::"A Sakura[w l=3][line3]não está por aqui."[lr]::
-59059::$$$message_0531_0002_0001$$$::Ela deve ter ido direto pra casa já que as atividades do clube foram canceladas.[lr]::
-59060::$$$message_0531_0002_0002$$$::Mas não prometi voltar para casa com ela, então aposto que ela já foi.::
+59058::$$$message_0531_0002_0000$$$::"A Sakura[w l=3][line3]não está por aqui, hein."[lr]::
+59059::$$$message_0531_0002_0001$$$::Sem treino de clube à tarde, Sakura pode ir direto para a minha casa.[lr]::
+59060::$$$message_0531_0002_0002$$$::Não combinamos de voltar juntos, então ela deve ter ido na frente.::
 59061::$$$message_0531_0003_0000$$$::Caminho pela colina vazia.[lr]::
 59062::$$$message_0531_0003_0001$$$::Já se passaram seis dias desde que a Guerra do Santo Graal começou.[lr]::
-59063::$$$message_0531_0003_0002$$$::A cidade parece estar perdendo sua vividez.::
-59064::$$$message_0531_0004_0000$$$::".........Whoa."[lr]::
-59065::$$$message_0531_0004_0001$$$::Fico tonto assim que subo a colina.[lr]::
-59066::$$$message_0531_0004_0002$$$::Parece tontura.[lr]::
-59067::$$$message_0531_0004_0003$$$::Um zumbido leve chega ao meus ouvidos.::
-59068::$$$message_0531_0005_0000$$$::"[w l=4][line4]Que barulho é esse?"[lr]::
-59069::$$$message_0531_0005_0001$$$::O som ecoa pelo meu ouvido mesmo se eu cobrí-los.[lr]::
+59063::$$$message_0531_0003_0002$$$::Pouco a pouco, parece que a vida está sendo drenada da cidade.::
+59064::$$$message_0531_0004_0000$$$::"Argh..."[lr]::
+59065::$$$message_0531_0004_0001$$$::Assim que chego ao topo da colina, sou tomado por uma tontura.[lr]::
+59066::$$$message_0531_0004_0002$$$::É como um frio oco dentro da cabeça, talvez algum tipo de anemia.[lr]::
+59067::$$$message_0531_0004_0003$$$::Ouço algo reverberando nos meus ouvidos.::
+59068::$$$message_0531_0005_0000$$$::"Que barulho é esse?"[lr]::
+59069::$$$message_0531_0005_0001$$$::Cubro os ouvidos, mas meus tímpanos continuam zumbindo.[lr]::
 59070::$$$message_0531_0005_0002$$$::Não estou alucinando.[lr]::
-59071::$$$message_0531_0005_0003$$$::Não posso ter ficado tonto e começado a ouvir isto ao mesmo tempo por sorte.[lr]::
-59072::$$$message_0531_0005_0004$$$::Se foi ao mesmo tempo, deve ter sido proposital.::
-59073::$$$message_0531_0006_0000$$$::"Algo aconteceu em casa...!?"[lr]::
-59074::$$$message_0531_0006_0001$$$::Ignoro a tontura e começo a correr.[lr]::
+59071::$$$message_0531_0005_0003$$$::Ninguém é atingido por vertigem e zumbido sem explicação do nada.[lr]::
+59072::$$$message_0531_0005_0004$$$::E se os dois surgiram ao mesmo tempo, só pode ter sido proposital.::
+59073::$$$message_0531_0006_0000$$$::"Será que aconteceu alguma coisa em casa...!?"[lr]::
+59074::$$$message_0531_0006_0001$$$::Sacudo a tontura para longe e começo a correr.[lr]::
 59075::$$$message_0531_0006_0002$$$::A Saber está em casa.[lr]::
-59076::$$$message_0531_0006_0003$$$::Enquanto ela estiver lá, o inimigo não conseguirá fazer uma emboscada...!::
-59077::$$$message_0531_0007_0000$$$::Só vejo os sapatos da Saber na entrada.[lr]::
-59078::$$$message_0531_0007_0001$$$::"Que bom, a Sakura ainda não chegou[w l=4][line4]!"[lr]::
-59079::$$$message_0531_0007_0002$$$::Então não preciso hesitar.[lr]::
-59080::$$$message_0531_0007_0003$$$::Mesmo se estivermos sobre ataque, a Saber e eu podemos lidar com ele...!::
-59081::$$$message_0531_0008_0000$$$::"Tudo bem, Saber...!?"[lr]::
+59076::$$$message_0531_0006_0003$$$::Mesmo que um inimigo ataque, não será tão fácil para ele enquanto Saber estiver lá...!::
+59077::$$$message_0531_0007_0000$$$::Os únicos sapatos na entrada são os de Saber.[lr]::
+59078::$$$message_0531_0007_0001$$$::"Graças a Deus a Sakura ainda não voltou!"[lr]::
+59079::$$$message_0531_0007_0002$$$::Então não preciso me preocupar em me conter.[lr]::
+59080::$$$message_0531_0007_0003$$$::Se essa situação estranha for um ataque inimigo, Saber e eu podemos dar um jeito enquanto estivermos sozinhos...!::
+59081::$$$message_0531_0008_0000$$$::"Saber, você está bem!?"[lr]::
 59082::$$$message_0531_0008_0001$$$::Corro até a sala de estar.[lr]::
-59083::$$$message_0531_0008_0002$$$::Neste instante...::
-59084::$$$message_0531_0009_0000$$$::...o força deixa minhas pernas, e caio de joelhos.::
+59083::$$$message_0531_0008_0002$$$::No instante em que chego,::
+59084::$$$message_0531_0009_0000$$$::não consigo mais ficar de pé, e desabo no chão.::
 59085::$$$message_0531_0010_0000$$$::"Que[w l=8][line8]"[lr]::
-59086::$$$message_0531_0010_0001$$$::Não consigo me mexer.[lr]::
-59087::$$$message_0531_0010_0002$$$::O zumbido atinge meus ouvidos, e perco meu equilíbrio.[lr]::
-59088::$$$message_0531_0010_0003$$$::Me sinto tonto e frio.[lr]::
-59089::$$$message_0531_0010_0004$$$::Desesperadamente, luto contra isto, forçando meu corpo a levantar...[lr]::
-59090::$$$message_0531_0010_0005$$$::...e percebo que meu Selo de Comando perdeu sua cor.::
-59091::$$$message_0531_0011_0000$$$::"[w l=8][line8]"[lr]::
+59086::$$$message_0531_0010_0001$$$::Minhas pernas não me obedecem.[lr]::
+59087::$$$message_0531_0010_0002$$$::O zumbido nos ouvidos rouba meu senso de equilíbrio.[lr]::
+59088::$$$message_0531_0010_0003$$$::Uma náusea opressiva e um frio esmagador tomam conta de mim.[lr]::
+59089::$$$message_0531_0010_0004$$$::Tento desesperadamente me apoiar nos braços,[lr]::
+59090::$$$message_0531_0010_0005$$$::quando percebo que a cor das marcas na minha mão esquerda está desaparecendo.::
+59091::$$$message_0531_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
 59092::$$$message_0531_0011_0001$$$::Minha mente congela.[lr]::
-59093::$$$message_0531_0011_0002$$$::A cor do Selo de Comando se foi.[lr]::
-59094::$$$message_0531_0011_0003$$$::Antes de perceber o que isto significa...::
-59095::$$$message_0531_0012_0000$$$::"Já acabei com a Saber. Não posso permitir que mais Servos vá para o lado deles."::
-59096::$$$message_0531_0013_0000$$$::Noto uma voz familiar perto de mim.::
-59097::$$$message_0531_0014_0000$$$::"[w l=9][line9]"[lr]::
-59098::$$$message_0531_0014_0001$$$::Aguento a náusea e olho para cima.::
-59099::$$$message_0531_0015_0000$$$::"Me perdoa, Onii-chan. Queria brincar com você mais um pouco, mas então a situação mudou. Se quer me amaldiçoar, amaldiçoe o Santo Graal imperfeito."::
-59100::$$$message_0531_0016_0000$$$::O zumbido no meus ouvidos invade minha mente.[lr]::
-59101::$$$message_0531_0016_0001$$$::O barulho imperceptível desliga minha vida ao se preencher por trás dos meus olhos.::
-59102::$$$message_0531_0016_0002$$$::"Mas não se preocupe. Não te matarei agora.[lr]::
-59103::$$$message_0531_0016_0003$$$::Você é meu trunfo contra essa pessoa. Destruirei seu corpo aqui, mas colocarei sua mente num boneco.[lr]::
-59104::$$$message_0531_0016_0004$$$::...Teehee. Você não vai conseguir se mexer depois disso, mas é melhor do que morrer. Né, Onii-chan?"::
-59105::$$$message_0531_0017_0000$$$::[w l=4][line4]O som permeia meu corpo.[lr]::
-59106::$$$message_0531_0017_0001$$$::Minha menta ainda está congelada.[lr]::
-59107::$$$message_0531_0017_0002$$$::Na escuridão com meus sentidos selados, encontro meu fim sem nem mesmo percebê-lo.::
-
+59093::$$$message_0531_0011_0002$$$::Os Selos de Comando estão pálidos.[lr]::
+59094::$$$message_0531_0011_0003$$$::Antes que eu consiga processar o que isso significa,::
+59095::$$$message_0531_0012_0000$$$::"Eu me livrei de Saber. Não posso deixar que eles tomem mais Servos para si."::
+59096::$$$message_0531_0013_0000$$$::Uma voz familiar fala bem perto de mim.::
+59097::$$$message_0531_0014_0000$$$::"..."[lr]::
+59098::$$$message_0531_0014_0001$$$::Luto contra a tontura e olho para cima.::
+59099::$$$message_0531_0015_0000$$$::"Desculpa, Onii-chan. Eu queria brincar mais com você, mas a situação mudou. Se for culpar alguém, culpe o Santo Graal defeituoso, não eu."::
+59100::$$$message_0531_0016_0000$$$::O zumbido invade meu cérebro.[lr]::
+59101::$$$message_0531_0016_0001$$$::Ondas sonoras que deveriam ser imperceptíveis se enterram atrás dos meus olhos e bloqueiam minha visão.::
+59102::$$$message_0531_0016_0002$$$::"Mas não se preocupe. Não vou te matar agora.[lr]::
+59103::$$$message_0531_0016_0003$$$::Você vai ser meu trunfo contra eles. Vou destruir seu corpo aqui, mas passarei sua mente para uma das minhas marionetes.[lr]::
+59104::$$$message_0531_0016_0004$$$::...Heehee. Você não vai conseguir se mexer depois disso, mas é melhor do que morrer, né?"::
+59105::$$$message_0531_0017_0000$$$::    O som permeia meu corpo inteiro.[lr]::
+59106::$$$message_0531_0017_0001$$$::Minha mente continua dura como pedra.[lr]::
+59107::$$$message_0531_0017_0002$$$::Na escuridão, privado dos cinco sentidos, nem consigo entender o quanto tudo acabou para mim.::

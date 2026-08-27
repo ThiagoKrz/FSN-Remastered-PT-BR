@@ -2,178 +2,177 @@ DAT
 id=qid::label=str::text=lstr::
 52552::$$$message_0451_0000_0000$$$::Só há um restaurante chinês no distrito comercial.[lr]::
 52553::$$$message_0451_0000_0001$$$::Koushuuensaikan: Taizan.[lr]::
-52554::$$$message_0451_0000_0002$$$::Uma masmóra sombria no distrito comercial, sem janelas para mostrar o que se passa dentro. Grande parte dos fregueses de primeira viagem fogem ao ver o lugar.[lr]::
-52555::$$$message_0451_0000_0003$$$::O gerente, amado pela associação do bairro, é um chinêszinho estranho apelidado de "mini-gerente." Batsu-san tem um hábito de tacar pimenta vermelha em todos os pratos.::
+52554::$$$message_0451_0000_0002$$$::Taizan tem uma reputação sinistra. Durante o dia, suas janelas de vidro ficam cobertas por persianas, escondendo a entrada e saída dos clientes. Não é raro ver marinheiros de primeira viagem fugindo do lugar.[lr]::
+52555::$$$message_0451_0000_0003$$$::O restaurante é comandado pela enigmática e baixinha Sra. Ba, querida pela associação do bairro. Ela maneja a wok para enfiar pimenta em todo prato possível.::
 52556::$$$message_0451_0001_0000$$$::Em outras palavras, a comida é quente.[lr]::
-52557::$$$message_0451_0001_0001$$$::Muito quente.[lr]::
-52558::$$$message_0451_0001_0002$$$::Imagine ser esfaqueado na língua e depois jogarem sal na ferida, é essa a sensação que terá.::
+52557::$$$message_0451_0001_0001$$$::[font italic=true]Muito[font italic=false] quente.[lr]::
+52558::$$$message_0451_0001_0002$$$::É tão apimentada que parece que mil palitos perfuram sua língua e depois jogam sal por cima.::
 52559::$$$message_0451_0002_0000$$$::O tempero infernal desse restaurante me deu um desgosto por comida chinesa.[lr]::
-52560::$$$message_0451_0002_0001$$$::E não ajuda o gerente anexar um "aru" no fim de cada frase.::
+52560::$$$message_0451_0002_0001$$$::E o sotaque exagerado da dona também não ajuda.::
 52561::$$$message_0451_0003_0000$$$::"......"[lr]::
-52562::$$$message_0451_0003_0001$$$::E agora entrarei nesta terrível masmóra por conta própria.[lr]::
-52563::$$$message_0451_0003_0002$$$::O gerente trará o menu assim que me vir.[lr]::
-52564::$$$message_0451_0003_0003$$$::E será o fim disso.[lr]::
-52565::$$$message_0451_0003_0004$$$::No minímo, terei que pedir algo que usa vinagre doce.::
-52566::$$$message_0451_0004_0000$$$::Seria horrível se eu pedisse algo como carne de porco duplamente cozida, e mapo tofu seria insanidade. Esse treco é perigoso. Ele derreteria minha língua. Dizem que o próprio diabo queima sua língua, de modo que uma comida tão ruim pode facilmente vir de lá. O gerente viajou pelo mundo para treinar suas habilidades culinárias, então talvez ele tenha treinado mesmo com demônios.::
+52562::$$$message_0451_0003_0001$$$::E agora estou prestes a entrar nesse buraco do inferno.[lr]::
+52563::$$$message_0451_0003_0002$$$::Se a dona me vir, um cardápio vai aparecer nas minhas mãos antes que eu consiga piscar.[lr]::
+52564::$$$message_0451_0003_0003$$$::E, se isso acontecer, estou ferrado.[lr]::
+52565::$$$message_0451_0003_0004$$$::É melhor pedir logo alguma entrada agridoce e evitar risco de morte.::
+52566::$$$message_0451_0004_0000$$$::Desde que provei o char siu e a carne de porco duas vezes cozida daqui, nunca mais consegui me convencer a voltar. E nem me faça falar do mapo tofu. Aquilo é o inferno na terra. Minha língua derreteria. É um sofrimento digno de ter a língua arrancada pelo Rei Enma. Talvez o nome do restaurante seja uma referência à provação espiritual necessária para comer aqui.::
 52567::$$$message_0451_0005_0000$$$::"[w l=4][line4]Ufa."[lr]::
 52568::$$$message_0451_0005_0001$$$::São quase duas e meia.[lr]::
 52569::$$$message_0451_0005_0002$$$::Prometi vir aqui logo depois da escola, então não posso hesitar mais.::
 52570::$$$message_0451_0006_0000$$$::"[w l=4][line4]Certo, entrando!"[lr]::
-52571::$$$message_0451_0006_0001$$$::Não sei por que preciso me energizar para entrar num restaurante, mas aqui é uma necessidade.[lr]::
-52572::$$$message_0451_0006_0002$$$::Não sei o que a Tohsaka estava pensando quando ela disse que deveríamos nos encontrar aqui, mas tenho certeza de que ela está arrependida agora.::
-52573::$$$message_0451_0007_0000$$$::[w l=4][line4]Espera.[lr]::
+52571::$$$message_0451_0006_0001$$$::É estranho precisar juntar coragem só para entrar num restaurante, mas esse lugar é exatamente assim.[lr]::
+52572::$$$message_0451_0006_0002$$$::Não sei qual é o plano, mas aposto que até Tohsaka já está arrependida de ter escolhido esse ponto de encontro.::
+52573::$$$message_0451_0007_0000$$$::    Lá dentro, dou de cara com...[lr]::
 52574::$$$message_0451_0007_0001$$$::"Hm? Finalmente chegou, Emiya? Eu vim mais cedo, então já comecei a comer."[lr]::
-52575::$$$message_0451_0007_0002$$$::O padre está comendo mapo tofu.::
+52575::$$$message_0451_0007_0002$$$::...um padre comendo mapo tofu.::
 52576::$$$message_0451_0008_0000$$$::"[w l=8][line8]"[lr]::
 52577::$$$message_0451_0008_0001$$$::Estou sem palavras.[lr]::
 52578::$$$message_0451_0008_0002$$$::Por que o Kotomine está aqui?[lr]::
-52579::$$$message_0451_0008_0003$$$::Por que ele está comendo mapo tofu que parece que veio de um pote fervente?[lr]::
-52580::$$$message_0451_0008_0004$$$::E por que ele está comendo tão rápido?[lr]::
-52581::$$$message_0451_0008_0005$$$::Ela está suando, mas nunca para para beber algo, e espirituosamente move suas mãos como se elas nunca mais fossem se mexer se ele parasse.::
-52582::$$$message_0451_0009_0000$$$::Na verdade... Será que é teimosia dele? Ele está comendo rápido demais.[lr]::
-52583::$$$message_0451_0009_0001$$$::Ou é tão bom assim? É como se olho picante e pimenta vermelha tivesse sindo cozinhas juntas por séculos só para serem usadas neste prato.::
-52584::$$$message_0451_0010_0000$$$::Então é ruim. Esse restaurante e o Kotomine são ruins.[lr]::
-52585::$$$message_0451_0010_0001$$$::Essa comida tem uma quantia perigosa de temperos. Não há outra explicativa.::
-52586::$$$message_0451_0011_0000$$$::"O que há de errado? Não fique parado aí, se sente."[lr]::
+52579::$$$message_0451_0008_0003$$$::Por que ele está comendo aquele mapo tofu que parece um caldeirão fervente?[lr]::
+52580::$$$message_0451_0008_0004$$$::E com um vigor absurdo, ainda por cima.[lr]::
+52581::$$$message_0451_0008_0005$$$::Ele enfia aquela lava derretida na boca com uma determinação infernal, suor escorrendo pelo rosto, sem se dar ao trabalho de beber água, como se soubesse que, se parasse, jamais conseguiria dar outra garfada.::
+52582::$$$message_0451_0009_0000$$$::E ele parece [font italic=true]desconfortável[font italic=false]. Cara, quem come tão rápido assim?[lr]::
+52583::$$$message_0451_0009_0001$$$::Será que ele está gostando mesmo? Aquele óleo vermelho e as pimentas parecem ter cozinhado no inferno por cem anos. Isso é gostoso para ele?::
+52584::$$$message_0451_0010_0000$$$::Se a resposta for sim... então tem algo errado. Com Kotomine e com este restaurante.[lr]::
+52585::$$$message_0451_0010_0001$$$::Definitivamente há uma quantidade absurda de tempero ali. É a única explicação que consigo dar.::
+52586::$$$message_0451_0011_0000$$$::"Como pretende conversar se vai ficar parado aí? Sente-se."[lr]::
 52587::$$$message_0451_0011_0001$$$::O padre diz enquanto come.::
 52588::$$$message_0451_0012_0000$$$::"......"[lr]::
-52589::$$$message_0451_0012_0001$$$::Eu tomo cuidado enquanto sento oposto à ele... Bem, não sei contra o que estou mantendo a guarda.::
+52589::$$$message_0451_0012_0001$$$::Com cautela[line2]na verdade, nem sei mais do que estou tentando me proteger[line2]sento-me diante de Kotomine.::
 52590::$$$message_0451_0013_0000$$$::"[w l=8][line8]"[lr]::
-52591::$$$message_0451_0013_0001$$$::Observo seus movimentos.[lr]::
-52592::$$$message_0451_0013_0002$$$::...incrível. Ele só tem mais duas colheradas sobrando.[lr]::
-52593::$$$message_0451_0013_0003$$$::Observo, perplexo, o momento em que o Kotomine deixa de comer.::
+52591::$$$message_0451_0013_0001$$$::Observo em silêncio os movimentos do padre.[lr]::
+52592::$$$message_0451_0013_0002$$$::...Incrível. Só restam duas colheradas de mapo.[lr]::
+52593::$$$message_0451_0013_0003$$$::Ele vai mesmo terminar o prato inteiro...? No instante em que limpo a garganta, a mão de Kotomine para de repente.::
 52594::$$$message_0451_0013_0004$$$::"[w l=8][line8]"[lr]::
 52595::$$$message_0451_0013_0005$$$::"[w l=8][line8]"[lr]::
-52596::$$$message_0451_0013_0006$$$::Nosso olhos se encontram.[lr]::
-52597::$$$message_0451_0013_0007$$$::Kotomine me observa com seus típicos olhos opressivos e...[lr]::
-52598::$$$message_0451_0013_0008$$$::"Quer um pouco[w l=4][line4]?"[lr]::
-52599::$$$message_0451_0013_0009$$$::"Não quero não[w l=4][line4]!"[lr]::
-52600::$$$message_0451_0013_0010$$$::Respondo com todas as minhas forças.::
-52601::$$$message_0451_0014_0000$$$::O padre franze um pouco antes de terminar de comer seu mapo tofu.[lr]::
-52602::$$$message_0451_0014_0001$$$::...Huh?[lr]::
+52596::$$$message_0451_0013_0006$$$::Nossos olhos se encontram.[lr]::
+52597::$$$message_0451_0013_0007$$$::Kotomine fixa em mim seu olhar opressivo de sempre e pergunta:[lr]::
+52598::$$$message_0451_0013_0008$$$::"Quer um pouco?"[lr]::
+52599::$$$message_0451_0013_0009$$$::"[font italic=true]Se eu quero!?[font italic=false]"[lr]::
+52600::$$$message_0451_0013_0010$$$::Na mesma hora, recuso com cada fibra do meu ser.::
+52601::$$$message_0451_0014_0000$$$::Kotomine franze a testa de leve e termina o resto do mapo tofu.[lr]::
+52602::$$$message_0451_0014_0001$$$::...Espera.[lr]::
 52603::$$$message_0451_0014_0002$$$::Minha resposta o decepcionou?::
-52604::$$$message_0451_0015_0000$$$::...o único esperando por mim é o Kotomine.[lr]::
+52604::$$$message_0451_0015_0000$$$::Agora está claro que o Padre Kotomine veio me ver.[lr]::
 52605::$$$message_0451_0015_0001$$$::Parece que ele pediu para a Tohsaka me convidar aqui.::
-52606::$$$message_0451_0016_0000$$$::"...então, o que você quer? Não é incomum você querer vir conversar com alguém?"[lr]::
-52607::$$$message_0451_0016_0001$$$::"Bem, ouvi dizer que você já tinha derrotado dois Servos. Vim aqui parabenizá-lo por suas conquistas."[lr]::
-52608::$$$message_0451_0016_0002$$$::...ele está mentido.[lr]::
+52606::$$$message_0451_0016_0000$$$::"...Então, o que você quer? É bem incomum você vir me procurar."[lr]::
+52607::$$$message_0451_0016_0001$$$::"Ouvi dizer que você já derrotou dois Servos. Vim elogiá-lo pelo feito impressionante."[lr]::
+52608::$$$message_0451_0016_0002$$$::...Olha quem fala.[lr]::
 52609::$$$message_0451_0016_0003$$$::Mesmo se fosse verdade, ele deveria ter escolhido um restaurante melhor.::
-52610::$$$message_0451_0017_0000$$$::"Entendo. Desculpe-me, mas acredito que suas palavras bastam.[lr]::
-52611::$$$message_0451_0017_0001$$$::Não estou lutando por você. Não tem porque me parabenizar."[lr]::
-52612::$$$message_0451_0017_0002$$$::"Hm. Acho que não precisava puxar saco.[lr]::
-52613::$$$message_0451_0017_0003$$$::[w l=3][line3]Então vamos direto ao assunto. Você ouviu da Rin que Caster ainda vive, certo?"::
-52614::$$$message_0451_0017_0004$$$::"...sim. Ela ainda vive, e ela está coletando energia das pessoas desta cidade, certo?"::
-52615::$$$message_0451_0017_0005$$$::"Sim. Não sei se há relação, mas havia outro Servo no Templo Ryuudou na noite em que derrotou-a.[lr]::
+52610::$$$message_0451_0017_0000$$$::"Ah, é? Então guarde a admiração para você.[lr]::
+52611::$$$message_0451_0017_0001$$$::Não estou lutando por sua causa, nem estou atrás de elogios."[lr]::
+52612::$$$message_0451_0017_0002$$$::"Hm. Parece que minha bajulação não foi bem-vinda.[lr]::
+52613::$$$message_0451_0017_0003$$$::Então, permita-me ir direto ao ponto. Imagino que Rin já tenha lhe dito que Caster ainda está viva?"::
+52614::$$$message_0451_0017_0004$$$::"...Sim. Caster ainda está neste mundo, drenando energia mágica das pessoas pela cidade."::
+52615::$$$message_0451_0017_0005$$$::"Correto. Não sei se os incidentes têm relação, mas havia outro Servo no Templo Ryuudou na noite em que você derrotou Caster.[lr]::
 52616::$$$message_0451_0017_0006$$$::Acredito que era Assassin, julgando por sua aparência e estilo de luta, mas não tenho certeza."::
 52617::$$$message_0451_0017_0007$$$::"Assassin... Então Assassin também estava no Templo Ryuudou? Mas Saber disse..."::
-52618::$$$message_0451_0018_0000$$$::"Ela não o sentiu, certo? Assassin não é um espírito heroico poderoso, mas sua classe possuí a habilidade especial de ocultar sua presença. Ações secretas são sua especialidade. Até mesmo Saber não conseguiria sentí-lo se ele ocultasse sua presença."::
+52618::$$$message_0451_0018_0000$$$::"Não o detectou. Sim, Assassins não são especialmente poderosos, mas têm a habilidade singular de ocultar a própria presença. Furtividade é a especialidade de Assassin. Mesmo com Saber ao seu lado, seria difícil localizar um se ele estivesse decidido a permanecer escondido."::
 52619::$$$message_0451_0019_0000$$$::"......"[lr]::
-52620::$$$message_0451_0019_0001$$$::Então significa que Assassin estava no Templo na noite em que derrotamos Caster.[lr]::
-52621::$$$message_0451_0019_0002$$$::Será que ele estava se escondendo próximo de nós, esperando uma brecha para [r]atacar[w l=4][line4]?::
-52622::$$$message_0451_0020_0000$$$::"...entendo. Mas por que está me dizendo isso? Pensei que o supervisor não ajudava um Mestre em específico."::
-52623::$$$message_0451_0021_0000$$$::"Estou meramente compartilhando informação contigo. Te disse tudo que sei. En troca, me diga pelo que passou nestes últimos dias. ...há algo estranho nesta Guerra do Santo Graal.[lr]::
-52624::$$$message_0451_0021_0001$$$::Algo mudou em relação a última guerra."::
+52620::$$$message_0451_0019_0001$$$::Então ele também estava lá na noite em que derrotamos Caster.[lr]::
+52621::$$$message_0451_0019_0002$$$::Será que ficou à espreita, esperando uma chance de me matar assim que eu baixasse a guarda depois de eliminar Caster?::
+52622::$$$message_0451_0020_0000$$$::"...Entendi. Mas por que me contar isso? Como supervisor, você não deveria evitar tomar partido?"::
+52623::$$$message_0451_0021_0000$$$::"Isto é uma simples troca de informações. Eu lhe disse o que sei. Em troca, quero que me conte o que vivenciou nestes últimos dias... Esta Guerra do Santo Graal parece diferente de alguma forma.[lr]::
+52624::$$$message_0451_0021_0001$$$::Acredito que há algo em ação que não existia nas guerras anteriores."::
 52625::$$$message_0451_0022_0000$$$::"[w l=8][line8]"[lr]::
-52626::$$$message_0451_0022_0001$$$::"Se não deseja me dizer, não o forçarei. Apenas pense no que eu disse."::
-52627::$$$message_0451_0023_0000$$$::"...não, pagarei seu preço. Afinal, você veio e me deu a informação de que eu precisava."::
-52628::$$$message_0451_0024_0000$$$::"[w l=3][line3]Hah. Você tem um forte senso de dever, como de costume, Emiya Shirou."[lr]::
+52626::$$$message_0451_0022_0001$$$::"Se preferir não falar, tudo bem. Pode considerar esta visita apenas um aviso."::
+52627::$$$message_0451_0023_0000$$$::"...Tá bom. Vou pagar o preço pela sua informação. Eu não pedi por ela, mas era algo que eu precisava saber."::
+52628::$$$message_0451_0024_0000$$$::"Heh. Você continua tão apegado à etiqueta, Emiya Shirou."[lr]::
 52629::$$$message_0451_0024_0001$$$::O padre sorri, satisfeito.[lr]::
-52630::$$$message_0451_0024_0002$$$::...Heh. Parece que ele sabe tudo que planejo fazer.[lr]::
+52630::$$$message_0451_0024_0002$$$::...Hmph. Ele está fazendo cara de quem sabia exatamente como eu reagiria.[lr]::
 52631::$$$message_0451_0024_0003$$$::Mas não vou cair em seus truques baratos tão facilmente.::
-52632::$$$message_0451_0025_0000$$$::"Te direi, mas antes, tenho uma pergunta.[lr]::
-52633::$$$message_0451_0025_0001$$$::Como sabe disso tudo?[lr]::
-52634::$$$message_0451_0025_0002$$$::Você não saberia que o Assassin esteve no Templo Ryuudou a não ser que voce tivesse um Servo."::
+52632::$$$message_0451_0025_0000$$$::"Eu vou falar. Mas antes tenho uma pergunta.[lr]::
+52633::$$$message_0451_0025_0001$$$::Como você sabe o que aconteceu, Kotomine?[lr]::
+52634::$$$message_0451_0025_0002$$$::Você não poderia saber que Assassin estava no Templo Ryuudou sem ter um Servo próprio."::
 52635::$$$message_0451_0026_0000$$$::Não, ele não deveria saber mesmo se tivesse um.[lr]::
 52636::$$$message_0451_0026_0001$$$::Nem Saber nem Archer, o Servo da Tohsaka, sabiam.::
-52637::$$$message_0451_0027_0000$$$::"É simpes. Meu Lancer foi derrotado por Assassin no templo. Como seu Mestre, só precisei extrair seus últimos momentos."[lr]::
-52638::$$$message_0451_0027_0001$$$::Então.[lr]::
-52639::$$$message_0451_0027_0002$$$::O padre simplesmente diz algo absurdo.::
-52640::$$$message_0451_0027_0003$$$::"[w l=4][line4]Que?"[lr]::
-52641::$$$message_0451_0027_0004$$$::"Eu disse que também sou um Mestre. Você mesmo disse, não teria como saber exceto se eu tivesse um Servo.[lr]::
-52642::$$$message_0451_0027_0005$$$::Bem, você está certamente correto."::
-52643::$$$message_0451_0027_0006$$$::"Huh[w l=4][line4]que[w l=4][line4]!?"[lr]::
-52644::$$$message_0451_0027_0007$$$::"Mas isso terminou na noite passada. Lancer foi eliminado, o que significa que não sou um Mestre. Não sou mais seu inimigo.[lr]::
-52645::$$$message_0451_0027_0008$$$::Bem, é só isso que queria me perguntar? Então é sua vez de falar. Me diga com quem andou e o que viu nestes últimos dias."::
+52637::$$$message_0451_0027_0000$$$::"O motivo é simples: Assassin derrotou meu Lancer no Templo Ryuudou. Eu apenas vi as imagens do que ocorreu pouco antes de sua morte."[lr]::
+52638::$$$message_0451_0027_0001$$$::Assim, sem mais nem menos.[lr]::
+52639::$$$message_0451_0027_0002$$$::O padre solta algo absurdo como se fosse a coisa mais natural do mundo.::
+52640::$$$message_0451_0027_0003$$$::"Hã?"[lr]::
+52641::$$$message_0451_0027_0004$$$::"Repito: eu também era um Mestre. Você mesmo disse que eu não poderia saber disso sem ter um Servo próprio.[lr]::
+52642::$$$message_0451_0027_0005$$$::E você acertou em cheio."::
+52643::$$$message_0451_0027_0006$$$::"Hã? O quê!?"[lr]::
+52644::$$$message_0451_0027_0007$$$::"Mas isso só foi verdade até ontem. Agora que Lancer se foi, não sou mais um Mestre da Guerra do Santo Graal. Já não sou seu inimigo.[lr]::
+52645::$$$message_0451_0027_0008$$$::Era só isso? Agora é sua vez. O que você viu nestes últimos dias?"::
 52646::$$$message_0451_0028_0000$$$::A atmosfera fica carregada num instante.[lr]::
 52647::$$$message_0451_0028_0001$$$::Ele não me permite perguntar mais nada.[lr]::
-52648::$$$message_0451_0028_0002$$$::Ele quer respostas.::
+52648::$$$message_0451_0028_0002$$$::Tudo que o Padre Kotomine quer de mim é uma resposta clara.::
 52649::$$$message_0451_0029_0000$$$::"......"[lr]::
-52650::$$$message_0451_0029_0001$$$::...tenho várias coisas que eu gostaria de perguntar, mas preciso respondê-lo primeiro.[lr]::
-52651::$$$message_0451_0029_0002$$$::No máximo de detalhes possíveis, conto o que aconteceu comigo depois de firmar o contrato com a Saber há quatro dias atrás.::
-52652::$$$message_0451_0030_0000$$$::...a história dura cerca de meia hora.[lr]::
+52650::$$$message_0451_0029_0001$$$::...Ainda tenho uma montanha de coisas que quero dizer, mas vou responder primeiro.[lr]::
+52651::$$$message_0451_0029_0002$$$::Com o máximo de detalhes possível, conto tudo o que aconteceu desde que fiz um pacto com Saber quatro dias atrás e conheci o padre.::
+52652::$$$message_0451_0030_0000$$$::...Levo cerca de trinta minutos para terminar minha história.[lr]::
 52653::$$$message_0451_0030_0001$$$::Não fiz muito como Mestre.[lr]::
-52654::$$$message_0451_0030_0002$$$::A informação que providenciei é praticamente inútil.[lr]::
-52655::$$$message_0451_0030_0003$$$::Mas o padre fica bastante interessado no Matou Zouken.::
-52656::$$$message_0451_0031_0000$$$::"Matou Zouken[w l=3][line3]Pensei que ele tivesse virado pó, mas ele ainda está na ativa? Acho que ele é mesmo um monstro chupa-cabra."::
-52657::$$$message_0451_0032_0000$$$::"Huh...? Aquele velho é um monstro chupa-cabra...?"[lr]::
-52658::$$$message_0451_0032_0001$$$::"Sim. A magia dos Matous é absorção. Ouvi dizer que Matou Zouken, um mago de seis gerações atrás, era um usuário prominiente de insetos."::
+52654::$$$message_0451_0030_0002$$$::Não deve ser algo muito interessante para Kotomine.[lr]::
+52655::$$$message_0451_0030_0003$$$::Ele só demonstra algum interesse quando menciono Matou Zouken.::
+52656::$$$message_0451_0031_0000$$$::"Matou Zouken. Eu o julgava velho e decrépito, mas ele ainda lidera a família. Então ele é mesmo um demônio que bebe sangue humano."::
+52657::$$$message_0451_0032_0000$$$::"O velho... bebe sangue?"[lr]::
+52658::$$$message_0451_0032_0001$$$::"Sim. Os Matou praticam Magia de Absorção. Ouvi dizer que, seis gerações atrás, Matou Zouken era um proeminente usuário de insetos."::
 52659::$$$message_0451_0033_0000$$$::...?[lr]::
-52660::$$$message_0451_0033_0001$$$::Insetos... Não significa que seu familiar é um inseto, certo?[lr]::
-52661::$$$message_0451_0033_0002$$$::Ou... outro meio de usar insetos é...::
-52662::$$$message_0451_0034_0000$$$::"Espera. Por usuário de insetos... quer dizer tipo aqueles caras que usam insetos como meio para envenenamento? Tipo, colocar centenas de insetos venenosos em uma panela, e usar o último vivo como uma maldição...?"::
-52663::$$$message_0451_0035_0000$$$::"Não, está equivocado. Desde o começo, amaldiçoar esteve fora da área de expertise dos Makiris.[lr]::
-52664::$$$message_0451_0035_0001$$$::O resultado de suas mágias sempre voltam ao seus corpos.[lr]::
-52665::$$$message_0451_0035_0002$$$::Amaldiçoar os outros só levaria a destruição mútua."::
-52666::$$$message_0451_0036_0000$$$::"...então ele usa insetos como familiares?"::
-52667::$$$message_0451_0037_0000$$$::"Sim. Matou Zouken é meramente um monstro que se alimenta do sangue dos outros.[lr]::
-52668::$$$message_0451_0037_0001$$$::Ouvi que ele manteve sua juventude transfigurando seu corpo e sugando sangue, e que ele já viveu por alguma centenas de anos[w l=3][line3]mas...[lr]::
-52669::$$$message_0451_0037_0002$$$::Pelo o que eu ouvi do pai da Rin, ele está a beira da morte, e não consegue mais sair durante o dia."::
-52670::$$$message_0451_0038_0000$$$::"...ele não consegue sair durante o dia? ...bem, encontrei ele ambas as vezes a noite[w l=4][line4]"[lr]::
+52660::$$$message_0451_0033_0001$$$::Ele não quer dizer... usar insetos literalmente como familiares, quer?[lr]::
+52661::$$$message_0451_0033_0002$$$::Então, se existe outro tipo de Magia que controla insetos...::
+52662::$$$message_0451_0034_0000$$$::"Espera. Quando você diz que ele usa insetos... quer dizer como catalisadores? Tipo aquele ritual em que se prendem centenas de insetos venenosos num pote e depois se lança uma maldição usando o último sobrevivente?"::
+52663::$$$message_0451_0035_0000$$$::"Não, não como kodoku. Maldições sempre estiveram fora da área de especialidade dos Makiri.[lr]::
+52664::$$$message_0451_0035_0001$$$::Eles usam Magia que certamente beneficia seus corpos físicos.[lr]::
+52665::$$$message_0451_0035_0002$$$::Maldições teriam maior chance de causar dano a ambos os lados."::
+52666::$$$message_0451_0036_0000$$$::"...Então ele usa insetos literalmente como familiares?"::
+52667::$$$message_0451_0037_0000$$$::"Sim. Matou Zouken é um demônio que existe apenas para beber o sangue dos outros.[lr]::
+52668::$$$message_0451_0037_0001$$$::Ele mantém a juventude e transforma a própria carne bebendo sangue humano. Foi assim que sobreviveu por séculos. No entanto...[lr]::
+52669::$$$message_0451_0037_0002$$$::O pai de Rin me disse que ele foi reduzido a um cadáver incapaz de sair à luz do dia."::
+52670::$$$message_0451_0038_0000$$$::"...Ele não pode sair durante o dia? ...Agora que você mencionou, até agora só o encontrei à noite."[lr]::
 52671::$$$message_0451_0038_0001$$$::Ele suga o sangue das pessoas para prolongar sua vida.[lr]::
-52672::$$$message_0451_0038_0002$$$::E não consegue andar mais no sol. É igual [r]a um[w l=4][line4]::
-52673::$$$message_0451_0039_0000$$$::"...Kotomine. Seria Matou Zouken um vampiro?"[lr]::
-52674::$$$message_0451_0039_0001$$$::"Heh. Ele é mais como um inseto parasita. Sua natureza e personalidade são idênticas a dessas criaturas rastejantes."[lr]::
-52675::$$$message_0451_0039_0002$$$::Ele insulta o Zouken.[lr]::
-52676::$$$message_0451_0039_0003$$$::Parece que o Kotomine o odeia profundamente.::
-52677::$$$message_0451_0040_0000$$$::"...você disse que ele está vivo há algumas centenas de anos. Então ele já foi um Mestre?"::
-52678::$$$message_0451_0041_0000$$$::"Não, Matou Zouken nunca foi um Mestre. Ele é como um conselheiro para a família Matou[w l=3][line3]mas ele é um monstro que viveu por centenas de anos. Ele deve ter planejado um meio de se tornar um Mestre de forma que desconhecemos."::
-52679::$$$message_0451_0042_0000$$$::"...então aquele quemf ez um contrato com a Caster depois que seu Mestre foi morto foi..."::
-52680::$$$message_0451_0043_0000$$$::"Quem sabe? Mas ele não é alguém com quem pode baixar a guarda.[lr]::
-52681::$$$message_0451_0043_0001$$$::Se ele está sob os holofortes, ele deve acreditar que ganhará. Significa que o Mestre da família Matou tem o apoio do pior diabo na história dos Makiris."::
+52672::$$$message_0451_0038_0002$$$::E não pode sair durante o dia. Isso faz ele parecer exatamente...::
+52673::$$$message_0451_0039_0000$$$::"...Kotomine. Você está dizendo que Matou Zouken é um vampiro?"[lr]::
+52674::$$$message_0451_0039_0001$$$::"Hm. Mais um inseto sugador de sangue do que a criatura que você está imaginando. Tanto sua natureza quanto sua personalidade são as de uma lesma maliciosa."[lr]::
+52675::$$$message_0451_0039_0002$$$::O tom de Kotomine é seco.[lr]::
+52676::$$$message_0451_0039_0003$$$::Ele deve desprezar muito o velho.::
+52677::$$$message_0451_0040_0000$$$::"...Você disse que ele vive há séculos. Então ele também já foi Mestre?"::
+52678::$$$message_0451_0041_0000$$$::"Não, Matou Zouken nunca foi Mestre. Ele é mais um conselheiro da Família Matou. De todo modo, é um monstro centenário. Talvez tenha arquitetado uma forma de se tornar Mestre sem que soubéssemos."::
+52679::$$$message_0451_0042_0000$$$::"Então, se ele fez um contrato com Caster, que não tem mais Mestre..."::
+52680::$$$message_0451_0043_0000$$$::"Ainda não posso afirmar. Mas ele não é alguém perto de quem você possa baixar a guarda.[lr]::
+52681::$$$message_0451_0043_0001$$$::Se ele entrou em cena, deve acreditar que tem uma chance concreta de vitória. O Mestre Matou desta vez deve contar com a bênção daquele patriarca maligno dos Makiri."::
 52682::$$$message_0451_0044_0000$$$::"[w l=8][line8]"[lr]::
-52683::$$$message_0451_0044_0001$$$::Shinji disse que ele não desistiu.[lr]::
-52684::$$$message_0451_0044_0002$$$::E ele tem o apoio de Matou Zouken.[lr]::
-52685::$$$message_0451_0044_0003$$$::Ele perdeu seu Selo de Comando, mas o velho deve ser capaz de arranjar um novo Servo pra ele.::
-52686::$$$message_0451_0045_0000$$$::"Você foi de grande ajuda. Todas essas abominações fazem sentidos se o velhote dos Makiris está envolvido. Como supervisor desta guerra, devo tentar suprimir os danos."[lr]::
-52687::$$$message_0451_0045_0001$$$::Kotomine concorda com si e relaxa.::
-52688::$$$message_0451_0045_0002$$$::"Supervisor, huh? Você tem muita cara de pau em dizer isso quando era um Mestre em secredo até ontem."::
-52689::$$$message_0451_0045_0003$$$::"Não diga isso. Não o desejava. Obtive Lancer porque eu queria dar o Santo Gral para um desejador mais apropriado.[lr]::
-52690::$$$message_0451_0045_0004$$$::Mas agora acabou. É algo para os Mestres restantes decidirem.[lr]::
-52691::$$$message_0451_0045_0005$$$::Bem, pessoalmente, eu gostaria que você ou a Rin obtivessem o Santo Graal."::
+52683::$$$message_0451_0044_0001$$$::Zouken disse que Shinji não desistiu.[lr]::
+52684::$$$message_0451_0044_0002$$$::Shinji tem o apoio de Zouken.[lr]::
+52685::$$$message_0451_0044_0003$$$::Ele pode ter perdido seus Selos de Comando, mas o velho talvez lhe dê um novo Servo.::
+52686::$$$message_0451_0045_0000$$$::"Foi esclarecedor. Se o ancião Makiri está em jogo, isso explica esta situação incomum. Como supervisor, devo me preparar para um aumento nos danos colaterais."[lr]::
+52687::$$$message_0451_0045_0001$$$::Kotomine murmura para si mesmo, agora parecendo mais relaxado.::
+52688::$$$message_0451_0045_0002$$$::"Supervisor, hein. Que cara de pau dizer isso quando você era um Mestre secreto até ontem."::
+52689::$$$message_0451_0045_0003$$$::"Não diga isso. Jamais desejei tal coisa. Só obtive Lancer porque queria entregar o Santo Graal a um buscador digno.[lr]::
+52690::$$$message_0451_0045_0004$$$::E, de todo modo, esse empreendimento acabou. O restante cabe aos Mestres decidir.[lr]::
+52691::$$$message_0451_0045_0005$$$::Embora, se posso expressar minha opinião, eu preferiria que ele ficasse com você ou Rin."::
 52692::$$$message_0451_0045_0006$$$::"[w l=8][line8]"[lr]::
-52693::$$$message_0451_0045_0007$$$::...eu franzo.[lr]::
-52694::$$$message_0451_0045_0008$$$::Ele falou sério.[lr]::
-52695::$$$message_0451_0045_0009$$$::Ele acabou de dizer que não precisa do Santo Graal.[lr]::
-52696::$$$message_0451_0045_0010$$$::Na verdade, ele claramente disse que quer que eu ou a Rin obtenham-o.::
-52697::$$$message_0451_0046_0000$$$::"...Por que? Você virou um Mestre pois queria o Santo Graal, certo? Não possuí um desejo que quer realizar?"::
-52698::$$$message_0451_0047_0000$$$::"Vamos ver. Não tenho um, mas tenho um objetivo. Meu objetivo não é sério, e é inútil mesmo que eu o consiga."[lr]::
+52693::$$$message_0451_0045_0007$$$::Acabo franzindo a testa.[lr]::
+52694::$$$message_0451_0045_0008$$$::O padre parece sincero.[lr]::
+52695::$$$message_0451_0045_0009$$$::Ele não quer o Santo Graal.[lr]::
+52696::$$$message_0451_0045_0010$$$::Ele acabou de dizer na minha cara que quer que eu ou Tohsaka fiquemos com ele.::
+52697::$$$message_0451_0046_0000$$$::"...Por quê? Se você era Mestre, então também queria o Graal. Não tinha um desejo para realizar?"::
+52698::$$$message_0451_0047_0000$$$::"Embora eu não tenha um desejo, tenho um objetivo. Não é algo que o Santo Graal possa conceder. Meu objetivo não é tão honesto assim, e perde o sentido se eu mesmo o realizar."[lr]::
 52699::$$$message_0451_0047_0001$$$::"...?"[lr]::
-52700::$$$message_0451_0047_0002$$$::Um objetivo que é inútil mesmo se ele o conseguir...?::
-52701::$$$message_0451_0048_0000$$$::"Como assim? Se quer contar charadas, fale com outro."[lr]::
-52702::$$$message_0451_0048_0001$$$::"Considere um aviso amigável. Somos iguais, eu e você. Como não temos desejos claros, não podemos buscar a salvação.[lr]::
-52703::$$$message_0451_0048_0002$$$::Simplesmente pensei que seria mais fácil para você se você percebesse logo"::
-52704::$$$message_0451_0049_0000$$$::"Que[w l=4][line4]?"[lr]::
-52705::$$$message_0451_0049_0001$$$::Eu sinto que ele pegou meu coração com as mãos.[lr]::
-52706::$$$message_0451_0049_0002$$$::As palavras do padre invadem minha mente, como uma maldição.::
-52707::$$$message_0451_0050_0000$$$::"Kotomine, seu[w l=4][line4]"[lr]::
-52708::$$$message_0451_0050_0001$$$::Eu aperto meus olhos hesitantes e olho para ele.[lr]::
-52709::$$$message_0451_0050_0002$$$::E então[w l=4][line4]::
-52710::$$$message_0451_0051_0000$$$::"Aqui está seu mapo tofu-aru!"::
-52711::$$$message_0451_0052_0000$$$::[w l=3][line3]O segundo e terceiro prato de mapo tofu são postos na mesa.::
-52712::$$$message_0451_0053_0000$$$::"[w l=8][line8]Hm."[lr]::
-52713::$$$message_0451_0053_0001$$$::Kotomine pega sua colher.[lr]::
-52714::$$$message_0451_0053_0002$$$::Estou certo disso.[lr]::
+52700::$$$message_0451_0047_0002$$$::Perde o sentido se ele mesmo realizar?::
+52701::$$$message_0451_0048_0000$$$::"Que diabos isso quer dizer? Vá brincar de charada com outra pessoa."[lr]::
+52702::$$$message_0451_0048_0001$$$::"Eu tentava demonstrar simpatia por você. Somos iguais, você e eu. Não temos desejos concretos, e tampouco buscamos salvação.[lr]::
+52703::$$$message_0451_0048_0002$$$::Pensei que perceber isso mais cedo talvez lhe trouxesse algum alívio."::
+52704::$$$message_0451_0049_0000$$$::"Hã?"[lr]::
+52705::$$$message_0451_0049_0001$$$::Sinto meu coração saltar no peito.[lr]::
+52706::$$$message_0451_0049_0002$$$::Por algum motivo, as palavras do padre se contorcem dentro do meu peito como uma maldição.::
+52707::$$$message_0451_0050_0000$$$::"Kotomine, você..."[lr]::
+52708::$$$message_0451_0050_0001$$$::Luto contra a vertigem repentina e o encaro.[lr]::
+52709::$$$message_0451_0050_0002$$$::E então...::
+52710::$$$message_0451_0051_0000$$$::                                          "Aqui está seu [font italic=true]mabo dofu[font italic=false]!"::
+52711::$$$message_0451_0052_0000$$$::A Sra. Ba coloca um segundo prato de mapo tofu na mesa, seguido por um terceiro.::
+52712::$$$message_0451_0053_0000$$$::"Hm."[lr]::
+52713::$$$message_0451_0053_0001$$$::Kotomine mergulha a colher no prato com um [font italic=true]clin[font italic=false].[lr]::
+52714::$$$message_0451_0053_0002$$$::Eu sabia.[lr]::
 52715::$$$message_0451_0053_0003$$$::Ele pediu mais de antemão.::
 52716::$$$message_0451_0054_0000$$$::"[w l=8][line8]"[lr]::
 52717::$$$message_0451_0054_0001$$$::"[w l=8][line8]"[lr]::
-52718::$$$message_0451_0054_0002$$$::...nossos olhos se encontram.::
-52719::$$$message_0451_0054_0003$$$::Kotomine me encara com seus olhos opressivos e...[lr]::
-52720::$$$message_0451_0054_0004$$$::"[w l=4][line4]Quer um pouco?"[lr]::
-52721::$$$message_0451_0054_0005$$$::"[w l=4][line4]Não."[lr]::
-52722::$$$message_0451_0054_0006$$$::Respondo-o francamente.::
-52723::$$$message_0451_0055_0000$$$::Eu deixo o Ensaikan: Taizan.[lr]::
-52724::$$$message_0451_0055_0001$$$::...porque o Kotomine não tem mais intenção de conversar e começou a comer o mapo tofu.::
-52725::$$$message_0451_0056_0000$$$::Enquanto deixo o restaurante com um aperto no coração...[lr]::
-52726::$$$message_0451_0056_0001$$$::"[w l=3][line3]Emiya. Me retirei da guerra, mas você e Rin ainda são Mestres. Zouken é traiçoeiro, então tenha cuidado."[lr]::
-52727::$$$message_0451_0056_0002$$$::...o padre me avisa, como se não fosse problema dele.::
-
+52718::$$$message_0451_0054_0002$$$::...Nossos olhos se encontram.::
+52719::$$$message_0451_0054_0003$$$::Kotomine fixa de novo em mim seu olhar opressivo e pergunta:[lr]::
+52720::$$$message_0451_0054_0004$$$::"Quer um pouco?"[lr]::
+52721::$$$message_0451_0054_0005$$$::"Não quero."[lr]::
+52722::$$$message_0451_0054_0006$$$::Com o rosto sério, dou a negativa mais firme que consigo.::
+52723::$$$message_0451_0055_0000$$$::Saio do Taizan.[lr]::
+52724::$$$message_0451_0055_0001$$$::...Porque Kotomine não tem mais intenção de conversar e começou a comer o mapo tofu.::
+52725::$$$message_0451_0056_0000$$$::Enquanto deixo o restaurante com um aperto no peito...[lr]::
+52726::$$$message_0451_0056_0001$$$::"Emiya. Eu me retirei da guerra, mas você e Rin ainda são Mestres. Zouken é traiçoeiro, então tenha cuidado."[lr]::
+52727::$$$message_0451_0056_0002$$$::...o padre me dá um aviso, embora soe como se mal se importasse.::

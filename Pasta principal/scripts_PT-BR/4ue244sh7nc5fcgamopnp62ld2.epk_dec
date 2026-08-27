@@ -1,55 +1,54 @@
 DAT
 id=qid::label=str::text=lstr::
-59345::$$$message_0538_0000_0000$$$::...devo usar meu Selo de Comando...?[lr]::
-59346::$$$message_0538_0000_0001$$$::Não penso que a Saber perderá para Assassin.[lr]::
-59347::$$$message_0538_0000_0002$$$::Mas esta situação é sombria demais.[lr]::
-59348::$$$message_0538_0000_0003$$$::Estamos lutando contra um monstro antigo. É perigoso demais deixar a Saber sozinha.::
-59349::$$$message_0538_0001_0000$$$::"Ah? Suprimiu sua intenção tosca de matar. Hm, parece que você tem um plano."::
-59350::$$$message_0538_0002_0000$$$::Ele ri, me zoando.[lr]::
-59351::$$$message_0538_0002_0001$$$::Ele está me ignorando, sem se importar com o plano que tenho.::
-59352::$$$message_0538_0003_0000$$$::"[w l=8][line8]"[lr]::
-59353::$$$message_0538_0003_0001$$$::...ótimo, ria o quanto quiser.[lr]::
-59354::$$$message_0538_0003_0002$$$::Se o Selo de Comando pode responder o desejo de seu Mestre, estou pronto para usá-lo para trazer a Saber até aqui...!::
-59355::$$$message_0538_0004_0000$$$::"Saber[w l=4][line4]"[lr]::
-59356::$$$message_0538_0004_0001$$$::Me concentro em minha mão esquerda enquanto encaro Zouken.[lr]::
-59357::$$$message_0538_0004_0002$$$::Só tenho um comando restante.[lr]::
-59358::$$$message_0538_0004_0003$$$::Para invocar Saber ao meu lado[w l=3][line3]!::
-59359::$$$message_0538_0005_0000$$$::"Mm......!?"[lr]::
+59345::$$$message_0538_0000_0000$$$::...devo tentar usar um Selo de Comando?[lr]::
+59346::$$$message_0538_0000_0001$$$::Não acho que Saber perderia para Assassin.[lr]::
+59347::$$$message_0538_0000_0002$$$::Mas esta situação é desfavorável demais.[lr]::
+59348::$$$message_0538_0000_0003$$$::Estamos falando daquele velho demônio. É perigoso demais deixar Saber lutar sozinha.::
+59349::$$$message_0538_0001_0000$$$::"Então conseguiu conter essa sua sede de sangue desajeitada. Deve estar tramando alguma coisa."::
+59350::$$$message_0538_0002_0000$$$::Sua risada é condescendente.[lr]::
+59351::$$$message_0538_0002_0001$$$::É uma risada de quem vai me deixar tentar qualquer coisa, porque tudo não passa de brincadeira de criança.::
+59352::$$$message_0538_0003_0000$$$::[font italic=true]...[font italic=false][lr]::
+59353::$$$message_0538_0003_0001$$$::Certo, ria o quanto quiser.[lr]::
+59354::$$$message_0538_0003_0002$$$::Se os Selos de Comando devem responder aos meus desejos, então usarei quantos forem necessários para trazer Saber de volta!::
+59355::$$$message_0538_0004_0000$$$::"Saber!"[lr]::
+59356::$$$message_0538_0004_0001$$$::Sem tirar os olhos das sombras diante de mim, concentro minha vontade na mão esquerda.[lr]::
+59357::$$$message_0538_0004_0002$$$::Dou uma ordem simples.[lr]::
+59358::$$$message_0538_0004_0003$$$::Chamo Saber de volta ao meu lado imediatamente!::
+59359::$$$message_0538_0005_0000$$$::"Mngh!?"[lr]::
 59360::$$$message_0538_0005_0001$$$::Mesmo que ele perceba o que está acontecendo, é tarde demais.[lr]::
-59361::$$$message_0538_0005_0002$$$::O calor emana de minha mão esquerda, e a energia mágica concentrada é libertada enquanto desejo, e...[lr]::
-59362::$$$message_0538_0005_0003$$$::...o Selo de Comando perde a cor com uma dor leve.::
-59363::$$$message_0538_0006_0000$$$::"Que[w l=4][line4]?"[lr]::
-59364::$$$message_0538_0006_0001$$$::[w l=3][line3]Quero pensar que foi porque falhei.[lr]::
-59365::$$$message_0538_0006_0002$$$::Quero pensei que usei-o errado pois não sei usar.::
+59361::$$$message_0538_0005_0002$$$::Minha mão esquerda arde em calor, liberando a Energia Mágica comprimida em resposta ao desejo de seu Mestre...[lr]::
+59362::$$$message_0538_0005_0003$$$::...e perde a cor depois de um breve instante de dor.::
+59363::$$$message_0538_0006_0000$$$::"Hã?"[lr]::
+59364::$$$message_0538_0006_0001$$$::    Queria que tivesse apenas falhado.[lr]::
+59365::$$$message_0538_0006_0002$$$::Quero acreditar que usei errado, porque não sei como funciona.::
 59366::$$$message_0538_0007_0000$$$::"...ufa. Parece que já acabou. Você me surpreendeu. Deve ter encurtado minha vida em uns dez anos."[lr]::
-59367::$$$message_0538_0007_0001$$$::Ele ri.[lr]::
-59368::$$$message_0538_0007_0002$$$::...ouço o vento a distância, como um sopro da morte.::
-59369::$$$message_0538_0008_0000$$$::Sinto uma dor em minha mão esquerda.[lr]::
-59370::$$$message_0538_0008_0001$$$::Minha mão esquerda está pinicando.[lr]::
-59371::$$$message_0538_0008_0002$$$::Meu Selo de Comando perde o calor, como se sangrasse.::
+59367::$$$message_0538_0007_0001$$$::A risada dele arranha meus ouvidos.[lr]::
+59368::$$$message_0538_0007_0002$$$::...ao longe, ouço o vento uivar como um grito de morte.::
+59369::$$$message_0538_0008_0000$$$::Minha mão esquerda lateja de dor.[lr]::
+59370::$$$message_0538_0008_0001$$$::O dorso da minha mão formiga.[lr]::
+59371::$$$message_0538_0008_0002$$$::Dói bem onde ficam os Selos de Comando, quase como se eu estivesse sangrando ali.::
 59372::$$$message_0538_0009_0000$$$::"Não[w l=5][line5]pode ser."[lr]::
-59373::$$$message_0538_0009_0001$$$::Tenho um mal pressentimento.[lr]::
-59374::$$$message_0538_0009_0002$$$::Tenho um mal pressentimento.[lr]::
-59375::$$$message_0538_0009_0003$$$::Tenho um mal pressentimento.[lr]::
+59373::$$$message_0538_0009_0001$$$::Sinto um pavor terrível.[lr]::
+59374::$$$message_0538_0009_0002$$$::Sinto um pavor terrível.[lr]::
+59375::$$$message_0538_0009_0003$$$::Sinto um pavor terrível.[lr]::
 59376::$$$message_0538_0009_0004$$$::A dor em minha mão esquerda.[lr]::
-59377::$$$message_0538_0009_0005$$$::O som do vento parou.[lr]::
-59378::$$$message_0538_0009_0006$$$::O velho mago está rindo com uma intenção de matar tão forte que é quase visível.::
-59379::$$$message_0538_0010_0000$$$::"É verdade. Você deve conseguir ver, como Mestre, que sua Serva foi eliminada deste mundo!"::
-59380::$$$message_0538_0011_0000$$$::"[w l=8][line8]"[lr]::
-59381::$$$message_0538_0011_0001$$$::Meu cerébro trava.[lr]::
+59377::$$$message_0538_0009_0005$$$::O vento uivante, agora calado.[lr]::
+59378::$$$message_0538_0009_0006$$$::O velho mago manipulador de insetos, enchendo a sala de risadas e sede de sangue.::
+59379::$$$message_0538_0010_0000$$$::"Não, é a mais dura realidade. Se você é Mestre dela, deve saber que sua Servo desapareceu deste mundo!"::
+59380::$$$message_0538_0011_0000$$$::[font italic=true]...[font italic=false][lr]::
+59381::$$$message_0538_0011_0001$$$::Minha mente fica paralisada.[lr]::
 59382::$$$message_0538_0011_0002$$$::Minha visão congela.[lr]::
-59383::$$$message_0538_0011_0003$$$::O que[w l=4][line4]ele disse?::
-59384::$$$message_0538_0012_0000$$$::"Por que está chocado? Saber morreu. Foi derrotada pelo Assassin, o oponente que ela subsestimou por achá-lo fraco. Não consegue perceber este fato simples?"[lr]::
-59385::$$$message_0538_0012_0001$$$::"Qu[w l=8][line8]e?"::
-59386::$$$message_0538_0013_0000$$$::Que diabos ele está falando?[lr]::
+59383::$$$message_0538_0011_0003$$$::Do que... ele está falando?::
+59384::$$$message_0538_0012_0000$$$::"Por que está tão chocado? Saber morreu. Ela subestimou Assassin e perdeu para ele. É tão difícil assim entender, rapaz?"[lr]::
+59385::$$$message_0538_0012_0001$$$::"Isso é..."::
+59386::$$$message_0538_0013_0000$$$::...mentira, não é?[lr]::
 59387::$$$message_0538_0013_0001$$$::Minha mão esquerda dói.[lr]::
-59388::$$$message_0538_0013_0002$$$::Minha mão esquerda certamente dói.[lr]::
-59389::$$$message_0538_0013_0003$$$::Mas meu Selo de Comando está lá.[lr]::
-59390::$$$message_0538_0013_0004$$$::Está apagado, mas ainda lá.[lr]::
-59391::$$$message_0538_0013_0005$$$::Então[w l=4][line4]a Saber deve chegar a qualquer instante [r]agora[w l=4][line4]!::
+59388::$$$message_0538_0013_0002$$$::Dói de verdade.[lr]::
+59389::$$$message_0538_0013_0003$$$::Mas meus Selos de Comando ainda estão lá.[lr]::
+59390::$$$message_0538_0013_0004$$$::Estão ficando mais fracos a cada segundo, como se fossem desaparecer, mas ainda não sumiram.[lr]::
+59391::$$$message_0538_0013_0005$$$::Então Saber ainda deve estar lá fora, pronta para vir até mim agora mesmo!::
 59392::$$$message_0538_0014_0000$$$::"Não[w l=4][line4]"[lr]::
-59393::$$$message_0538_0014_0001$$$::"Então vamos acabar logo com isso. Ainda tenho uso para a filha dos Tohsakas, mas não mais para você. Pode morrer junto a Saber em minha terra sagrada."[lr]::
-59394::$$$message_0538_0014_0002$$$::"[w l=4][line4]Fala merda, caralho[w l=4][line4]!"::
+59393::$$$message_0538_0014_0001$$$::"Vamos pôr um fim nisso. A jovem Tohsaka ainda tem potencial, mas não tenho mais uso para você. Morra em minha terra sagrada, junto com sua Servo!"[lr]::
+59394::$$$message_0538_0014_0002$$$::"...VAI FALAR ESSA MERDA PRA OUTRO, FILHO DA PUTA!"::
 59395::$$$message_0538_0015_0000$$$::Eu corro.[lr]::
-59396::$$$message_0538_0015_0001$$$::Avanço contra meu inimigo, como se tenasse me livrar deste pensamento sinistro e da dor em minha mão.::
-�
+59396::$$$message_0538_0015_0001$$$::Avanço contra o inimigo diante de mim, tentando expulsar a dor na mão esquerda e aquele pavor terrível.::

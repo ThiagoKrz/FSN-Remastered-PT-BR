@@ -4,7 +4,7 @@ id=qid::label=str::text=lstr::
 55456::$$$message_0492_0000_0001$$$::Eu sei o que é certo.[lr]::
 55457::$$$message_0492_0000_0002$$$::Aquilo que me mantém vivo.[lr]::
 55458::$$$message_0492_0000_0003$$$::Eu não posso dar as costas para aquilo que me manteve vivo.::
-55459::$$$message_0492_0001_0000$$$::"[w l=3][line3]Sinto muito, Illya. Eu não posso seguir uma coisa óbvia dessas."[lr]::
+55459::$$$message_0492_0001_0000$$$::"[w l=3][line3]Sinto muito, Illya. Eu não posso deixar de proteger algo tão óbvio."[lr]::
 55460::$$$message_0492_0001_0001$$$::Eu transformo a minha mente em aço.[lr]::
 55461::$$$message_0492_0001_0002$$$::É isso.[lr]::
 55462::$$$message_0492_0001_0003$$$::O suco gástrico subindo pela minha garganta, a dor no meu estômago e as lágrimas em meus olhos. Tudo para.::
@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 55464::$$$message_0492_0002_0001$$$::Por todos aqueles que não puderam ser salvos, eu não posso deixar mais nenhuma pessoa ter o mesmo destino que eles.::
 55465::$$$message_0492_0003_0000$$$::"...Entendo. Então você está escolhendo o mesmo método do Kiritsugu. Você irá sacrificar a pessoa que mais ama para salvar pessoas que você nem mesmo conhece."::
 55466::$$$message_0492_0004_0000$$$::"[w l=8][line8]"[lr]::
-55467::$$$message_0492_0004_0001$$$::O homem que traiu a família Einzbern por algo em que ele acreditava.[lr]::
+55467::$$$message_0492_0004_0001$$$::O homem que descartou as pessoas mais importantes para proteger aquilo em que acreditava.[lr]::
 55468::$$$message_0492_0004_0002$$$::Eu escolhi o mesmo caminho.[lr]::
 55469::$$$message_0492_0004_0003$$$::A Illya foi traída pela segunda vez.[lr]::
 55470::$$$message_0492_0004_0004$$$::Não escolher a Sakura também significa não escolher a Illya.::
@@ -23,7 +23,7 @@ id=qid::label=str::text=lstr::
 55475::$$$message_0492_0006_0001$$$::Eu neguei o desejo dela, então agora seria a hora perfeita pra se vingar do Kiritsugu.[lr]::
 55476::$$$message_0492_0006_0002$$$::Mas...::
 55477::$$$message_0492_0007_0000$$$::"Eu tenho pena de você, Shirou.[lr]::
-55478::$$$message_0492_0007_0001$$$::Você vai continuar mentindo para si mesmo com essa cara de quem está prestes a chorar."[l]::
+55478::$$$message_0492_0007_0001$$$::Você vai continuar mentindo para si mesmo com essa cara de quem está prestes a chorar."[lr]::
 55479::$$$message_0492_0007_0002$$$::A Illya me dá adeus com um sorriso triste.::
 55480::$$$message_0492_0008_0000$$$::Começa a chover.[lr]::
 55481::$$$message_0492_0008_0001$$$::Não há mais ninguém no parque.[lr]::
@@ -31,7 +31,7 @@ id=qid::label=str::text=lstr::
 55483::$$$message_0492_0009_0000$$$::[w l=3][line3]Eu abro a porta.[lr]::
 55484::$$$message_0492_0009_0001$$$::A Tohsaka já está aqui, parada no canto da capela.[lr]::
 55485::$$$message_0492_0009_0002$$$::Ela não está sentada, e sim de pé, e posso ver a sua determinação.[lr]::
-55486::$$$message_0492_0009_0003$$$::Ela tem o olhar frio de um mago, dizendo que a Sakura será a sua inimiga se o verme mágico não tiver sido removido.::
+55486::$$$message_0492_0009_0003$$$::Ela tem o olhar frio de uma maga, dizendo que Sakura será sua inimiga se o Verme do Brasão não tiver sido removido.::
 55487::$$$message_0492_0010_0000$$$::"......"[lr]::
 55488::$$$message_0492_0010_0001$$$::A Tohsaka não olha para mim, e eu também não tenho nada a dizer para ela.[lr]::
 55489::$$$message_0492_0010_0002$$$::[w l=3][line3]O barulho da chuva ecoa dentro da capela.[lr]::
@@ -42,7 +42,7 @@ id=qid::label=str::text=lstr::
 55494::$$$message_0492_0012_0001$$$::"Eu fiz tudo o que pude. É só isso o que posso dizer."[lr]::
 55495::$$$message_0492_0012_0002$$$::O resultado é como esperado.[lr]::
 55496::$$$message_0492_0012_0003$$$::Nunca houve uma chance da Sakura ser salva.::
-55497::$$$message_0492_0013_0000$$$::"A Matou Sakura está dormindo. Ela deve acordar amanhã de manhã.[lr]::
+55497::$$$message_0492_0013_0000$$$::"Matou Sakura está dormindo. Ela deve acordar amanhã de manhã.[lr]::
 55498::$$$message_0492_0013_0001$$$::O que você pretende fazer como a sucessora da família Tohsaka, Rin?"[lr]::
 55499::$$$message_0492_0013_0002$$$::"[w l=4][line4]Eu não preciso nem dizer. É o dever do supervisor eliminar um mago que virou um herege. Ainda mais se o mago for um parente meu."::
 55500::$$$message_0492_0014_0000$$$::Atrás da capela.[lr]::
@@ -61,24 +61,24 @@ id=qid::label=str::text=lstr::
 55513::$$$message_0492_0018_0000$$$::"...O que tem de tão interessante em ver o final? Está tentando adivinhar quem vai vencer?"[lr]::
 55514::$$$message_0492_0018_0001$$$::"Adivinhar? Não é preciso adivinhar nada.[lr]::
 55515::$$$message_0492_0018_0002$$$::[w l=3][line3]Quem vai vencer é você.[lr]::
-55516::$$$message_0492_0018_0003$$$::Agora que sacrificou a Matou Sakura, você usará quaisquer meios necessários para matar o Matou Zouken, a Illyasviel e a Rin. Eu estou ansioso para ver como isso vai acabar."::
+55516::$$$message_0492_0018_0003$$$::Agora que sacrificou Matou Sakura, você usará quaisquer meios necessários para matar Matou Zouken e Illyasviel, e para afastar Rin. Estou ansioso para ver como isso vai acabar."::
 55517::$$$message_0492_0019_0000$$$::"...Por quê? Eu não vou lutar contra a Tohsaka. Não há motivos para eu impedi-la, mesmo se ela conseguir o Santo Graal."::
-55518::$$$message_0492_0020_0000$$$::"Não, você vai lutar contra a Rin. Você será obrigado a lutar contra ela quando descobrir a verdadeira identidade do Santo Graal. Por ter matado a Matou Sakura, a Rin vai enlouquecer a menos que ela consiga o Santo Graal.[lr]::
+55518::$$$message_0492_0020_0000$$$::"Não, você vai lutar contra Rin. Será obrigado a enfrentá-la quando descobrir a verdadeira identidade do Santo Graal. Por ter matado Matou Sakura, Rin vai enlouquecer a menos que consiga o Santo Graal.[lr]::
 55519::$$$message_0492_0020_0001$$$::Ela vai tentar vencer pela sua crença, e você vai tentar destruir o Santo Graal pelo seu ideal.[lr]::
 55520::$$$message_0492_0020_0002$$$::Vocês dois são incompatíveis agora. Vocês irão atuar no palco final da Guerra do Santo Graal."::
 55521::$$$message_0492_0021_0000$$$::O padre também deixa a capela.[lr]::
 55522::$$$message_0492_0021_0001$$$::...A sala onde a Sakura e a Tohsaka estão.[lr]::
 55523::$$$message_0492_0021_0002$$$::Ele sabe que o que aconteceu lá já acabou.::
 55524::$$$message_0492_0022_0000$$$::"Está me dizendo que eu vou permanecer vivo até o final?"[lr]::
-55525::$$$message_0492_0022_0001$$$::"Mas é claro. Você se tornou Emiya Kiritsugu agora. Não tem como você não vencer."[l]::
-55526::$$$message_0492_0022_0002$$$::...O padre saiu.[lr]::
-55527::$$$message_0492_0022_0003$$$::O único que permanece na capela é Emiya Shirou, com uma mente de aço.::
+55525::$$$message_0492_0022_0001$$$::"Mas é claro. Você se tornou Emiya Kiritsugu agora. Não tem como você não vencer."[lr]::
+55526::$$$message_0492_0022_0002$$$::...O padre se vai, deixando para trás[lr]::
+55527::$$$message_0492_0022_0003$$$::apenas Emiya Shirou na capela, com uma mente feita de aço.::
 55528::$$$message_0492_0023_0000$$$::"[w l=8][line8]"[lr]::
 55529::$$$message_0492_0023_0001$$$::O que o padre disse é verdade.[lr]::
-55530::$$$message_0492_0023_0002$$$::Eu vou continuar lutando, vou derrotar o Zouken, a Illya e a Tohsaka, e vou destruir o Santo Graal.[lr]::
+55530::$$$message_0492_0023_0002$$$::Vou continuar lutando, derrotar Zouken e Illya, afastar Tohsaka e destruir o Santo Graal.[lr]::
 55531::$$$message_0492_0023_0003$$$::Esse será o fim dessa guerra.[lr]::
-55532::$$$message_0492_0023_0004$$$::Essa é a responsabilidade que eu recebi quando jurei ser um super-herói.[lr]::
-55533::$$$message_0492_0023_0005$$$::Esse é o primeiro preço que eu preciso pagar por me tornar o meu ideal.::
+55532::$$$message_0492_0023_0004$$$::Essa é a responsabilidade que assumi quando jurei fazer a coisa certa.[lr]::
+55533::$$$message_0492_0023_0005$$$::Esse é o primeiro preço que preciso pagar por me tornar meu ideal.::
 55534::$$$message_0492_0024_0000$$$::Não é preciso falar sobre o resultado óbvio.[lr]::
-55535::$$$message_0492_0024_0001$$$::O Emiya Shirou vai transformar a sua mente em aço,[lr]::
-55536::$$$message_0492_0024_0002$$$::e me tornar um campeão da justiça.::
+55535::$$$message_0492_0024_0001$$$::Emiya Shirou transformará sua mente em aço,[lr]::
+55536::$$$message_0492_0024_0002$$$::e se tornará um campeão da justiça.::

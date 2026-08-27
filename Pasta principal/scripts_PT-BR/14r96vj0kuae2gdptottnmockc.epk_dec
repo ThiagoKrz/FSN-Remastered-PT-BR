@@ -2,61 +2,60 @@ DAT
 id=qid::label=str::text=lstr::
 52493::$$$message_0450_0000_0000$$$::Subimos o morro.[lr]::
 52494::$$$message_0450_0000_0001$$$::Há mais alunos ao nosso redor do que de costume. Deve ser porque não há treinamento matinal hoje.::
-52495::$$$message_0450_0001_0000$$$::"Ainda temos tempo. Já faz um tempo desde que tivemos uma manhã onde podíamos pegar leve."[lr]::
-52496::$$$message_0450_0001_0001$$$::A Sakura está caminhando feliz ao meu lado.[lr]::
-52497::$$$message_0450_0001_0002$$$::Não sei o por que, mas ela está de bom humor.::
-52498::$$$message_0450_0002_0000$$$::"Isso é normal para mim, mas... acho que faz um tempo desde que fui à escola contigo."[lr]::
-52499::$$$message_0450_0002_0001$$$::"Sim. O clube de tiro com arco pratica todas as manhãs."::
-52500::$$$message_0450_0003_0000$$$::"Mas a participação é opcional, né? A maioria das pessoas só vai uma vez a cada dois dias, então você poderia faltar de vez em quando."[lr]::
-52501::$$$message_0450_0003_0001$$$::"Que? U-Um, iria junto comigo para a escola se eu faltasse?"::
-52502::$$$message_0450_0004_0000$$$::"...? Claro. Estamos indo para o mesmo lugar, então caminharíamos junto de qualquer jeito."[lr]::
-52503::$$$message_0450_0004_0001$$$::"Ah, então[w l=3][line3][lr]::
-52504::$$$message_0450_0004_0002$$$::Não, não posso fazer isso. Não sou tão boa, então não posso faltar um dia de treino sequer."[lr]::
-52505::$$$message_0450_0004_0003$$$::A Sakura solta o verbo contra si mesma.::
-52506::$$$message_0450_0005_0000$$$::"...? Tem certeza disso? Sem falar mal de ninguém, mas você é a melhor de sua turma. Tem ótimo forma, então não vejo problema mesmo se faltar um dia ou dois."::
-52507::$$$message_0450_0006_0000$$$::"Não, ainda sou inexperiente. Meus pensamentos desviam se eu baixar a guarda, e frequentemente não vejo o alvo.[lr]::
-52508::$$$message_0450_0006_0001$$$::No fundo sou preguiçosa, então acabo procrastinando se não me forçar a treinar um pouco todos os dias."[lr]::
+52495::$$$message_0450_0001_0000$$$::"Ainda temos bastante tempo. Faz tempo que eu não consigo passar uma manhã com calma assim."[lr]::
+52496::$$$message_0450_0001_0001$$$::Sakura caminha feliz ao meu lado.[lr]::
+52497::$$$message_0450_0001_0002$$$::Ela passou a manhã inteira de bom humor, embora eu não saiba bem por quê.::
+52498::$$$message_0450_0002_0000$$$::"Para mim isso é normal... mas não é sempre que consigo ir para a escola com você."[lr]::
+52499::$$$message_0450_0002_0001$$$::"É porque o clube de kyudo nunca tira folga."::
+52500::$$$message_0450_0003_0000$$$::"É verdade, mas o treino da manhã não era opcional? A maioria vai uma vez a cada dois dias. Você também devia pegar mais leve."[lr]::
+52501::$$$message_0450_0003_0001$$$::"Hã? E-espera, então se eu faltasse ao treino, você viria para a escola comigo?"::
+52502::$$$message_0450_0004_0000$$$::"? Claro. A gente vai para a mesma escola, então acabaríamos juntos querendo ou não."[lr]::
+52503::$$$message_0450_0004_0001$$$::"Ah. Então...[lr]::
+52504::$$$message_0450_0004_0002$$$::Não, não posso. Eu não sou boa no arco, então minhas habilidades podem enferrujar se eu faltar até um único dia de treino."[lr]::
+52505::$$$message_0450_0004_0003$$$::Sakura mostra a língua, como se repreendesse a si mesma.::
+52506::$$$message_0450_0005_0000$$$::"? Não sei, não. Não gosto de comparar as pessoas, mas suas habilidades são excelentes para alguém do primeiro ano. Você pode se dar ao luxo de tirar um ou dois dias."::
+52507::$$$message_0450_0006_0000$$$::"Não, ainda tenho muito a aprender. Se eu perder o foco, acabo me distraindo. Estou sempre perdendo meu objetivo de vista.[lr]::
+52508::$$$message_0450_0006_0001$$$::No fundo sou preguiçosa, então preciso ser dura comigo todos os dias, senão acabo me deixando levar."[lr]::
 52509::$$$message_0450_0006_0002$$$::...Hm.[lr]::
 52510::$$$message_0450_0006_0003$$$::Se é como ela se sente, quem sou eu para discordar?::
 52511::$$$message_0450_0007_0000$$$::Eu me separo da Sakura.[lr]::
-52512::$$$message_0450_0007_0001$$$::Minha sala fica no terceiro andar, e da dela no quarto.::
+52512::$$$message_0450_0007_0001$$$::As salas do segundo ano ficam no terceiro andar, enquanto Sakura e os outros alunos do primeiro ano ficam no quarto.::
 52513::$$$message_0450_0008_0000$$$::"Te vejo mais tarde, Senpai."[lr]::
-52514::$$$message_0450_0008_0001$$$::"Sim. Não durma na aula. As pessoas acabam sonolentas quando estão cheias."::
-52515::$$$message_0450_0009_0000$$$::"Ahaha, não precisa se preocupar. Não estou mais cheia."[lr]::
+52514::$$$message_0450_0008_0001$$$::"É. Não vai dormir na aula. Barriga cheia dá sono, sabia?"::
+52515::$$$message_0450_0009_0000$$$::"Ahaha. Não precisa se preocupar. Já digeri um quinto do café da manhã!"[lr]::
 52516::$$$message_0450_0009_0001$$$::A Sakura sobe as escadas.[lr]::
-52517::$$$message_0450_0009_0002$$$::Dou tchau à ela e vou para a minha sala.::
+52517::$$$message_0450_0009_0002$$$::Aceno em despedida e vou para a minha sala.::
 52518::$$$message_0450_0010_0000$$$::É hora de almoçar.[lr]::
 52519::$$$message_0450_0010_0001$$$::[w l=3][line3]Shinji faltou, e o Issei também.[lr]::
 52520::$$$message_0450_0010_0002$$$::...parece que o Issei está recebendo cuidados no hospital depois do incidente no Templo Ryuudou.[lr]::
-52521::$$$message_0450_0010_0003$$$::Agora que paro para olhar, vejo que há mais pessoas ausente.::
+52521::$$$message_0450_0010_0003$$$::Pensando bem, há vários outros alunos doentes também.::
 52522::$$$message_0450_0011_0000$$$::"[w l=8][line8]"[lr]::
 52523::$$$message_0450_0011_0001$$$::Mas pelo menos, o número de faltosos não deve mais subir.[lr]::
-52524::$$$message_0450_0011_0002$$$::O Servo que sugava a energia vital das pessoas da cidade foi eliminado.[lr]::
-52525::$$$message_0450_0011_0003$$$::Não deve haver mais comas repentinos.::
-52526::$$$message_0450_0012_0000$$$::"[w l=3][line3]Sim. As pessoas que Caster feriu melhorarão logo e voltarão."::
+52524::$$$message_0450_0011_0002$$$::Caster se foi. Não há mais um Servo drenando a energia vital das pessoas de Fuyuki.[lr]::
+52525::$$$message_0450_0011_0003$$$::Isso deve pôr fim aos comas misteriosos que causaram tanto alvoroço na cidade.::
+52526::$$$message_0450_0012_0000$$$::"...Certo. Todos que Caster feriu devem melhorar logo."::
 52527::$$$message_0450_0013_0000$$$::Me recomponho.[lr]::
 52528::$$$message_0450_0013_0001$$$::Há quatro Mestres restantes.[lr]::
-52529::$$$message_0450_0013_0002$$$::Dois, se não contar a Tohsaka e a Illya. Não posso abaixar a guarda até descobrir que tipo de pessoa são.::
-52530::$$$message_0450_0014_0000$$$::""Ah.""[lr]::
-52531::$$$message_0450_0014_0001$$$::Falamos ao mesmo tempo.[lr]::
-52532::$$$message_0450_0014_0002$$$::Esbarro na Tohsaka assim que saio pro corredor.::
-52533::$$$message_0450_0015_0000$$$::"Ei, como assim, 'ah'? Não é algo rude a se dizer? Ou está com a consciência pesada?"::
-52534::$$$message_0450_0016_0000$$$::"Ei, igualmente. Você estava surpresa também.[lr]::
-52535::$$$message_0450_0016_0001$$$::...e qual foi a daquele telefonema noite passada? Você estava sendo egoísta dizendo para eu não vir e vir."::
-52536::$$$message_0450_0017_0000$$$::"Bem... Ontem foi uma exceção. Você faltou no dia seguinte ao desaparecimento do Mestre no Templo Ryuudou. Claro que pensei que algo tivesse te acontecido.[lr]::
-52537::$$$message_0450_0017_0001$$$::...Um, eu te contei sobre o Templo Ryuudou, então me incomodaria se algo tivesse acontecido à você."::
+52529::$$$message_0450_0013_0002$$$::Tirando Tohsaka e Illya, não faço ideia de como são os outros dois Mestres, então ainda é cedo para relaxar.::
+52530::$$$message_0450_0014_0000$$$::"Ah!"[lr]::
+52531::$$$message_0450_0014_0001$$$::Nossos gritos de surpresa saem em perfeita harmonia.[lr]::
+52532::$$$message_0450_0014_0002$$$::Assim que piso no corredor, dou de cara com Tohsaka.::
+52533::$$$message_0450_0015_0000$$$::"Ei, o que isso quer dizer? Não acha meio rude reagir assim logo que me vê? Ou vai dizer que tem algum motivo para se sentir culpado perto de mim?"::
+52534::$$$message_0450_0016_0000$$$::"Digo o mesmo. Você também parecia bem surpresa.[lr]::
+52535::$$$message_0450_0016_0001$$$::...E para que foi aquele telefonema de ontem? Depois de reclamar porque fui ao templo, você exigiu que eu viesse encontrar você na escola. Você muda de ideia rápido demais, Tohsaka."::
+52536::$$$message_0450_0017_0000$$$::"Mrgh... O-ontem foi uma exceção.[lr]::
+52537::$$$message_0450_0017_0001$$$::...Fui eu que falei do Templo Ryuudou, então seria um problema para mim se alguma coisa acontecesse com você."::
 52538::$$$message_0450_0018_0000$$$::"[w l=8][line8]"[lr]::
-52539::$$$message_0450_0018_0001$$$::...estou surpreso.[lr]::
-52540::$$$message_0450_0018_0002$$$::Ela se sentiu responsável porque fiz algo que ela me disse?::
-52541::$$$message_0450_0019_0000$$$::"Entendo. Obrigado, Tohsaka. Você estava preocupada comigo, né?"[lr]::
-52542::$$$message_0450_0019_0001$$$::"N-Nada disso! Só queria saber os detalhes do que houve, já que te dei a informação!"::
-52543::$$$message_0450_0020_0000$$$::"Huh? Mas te disse ontem pelo telefone, não? Ambos Caster e seu Mestre foram derrotados. Não há mais nada no Templo Ryuudou."[lr]::
-52544::$$$message_0450_0020_0001$$$::Huh?[lr]::
-52545::$$$message_0450_0020_0002$$$::A Tohsaka tem um olhar sério repentino.::
-52546::$$$message_0450_0021_0000$$$::"O que foi, Tohsaka? Eu disse algo de errado?"[lr]::
-52547::$$$message_0450_0021_0001$$$::"[w l=3][line3]Sim, disse. Não é que não confio em você, mas deixe-me confirmar. Tem certeza absoluta de que derrotou Caster?"::
-52548::$$$message_0450_0022_0000$$$::"...Humph. Até eu pude ver isso.[lr]::
-52549::$$$message_0450_0022_0001$$$::A Saber eliminou completamente Caster. ...E o Mestre da Caster [r]está[w l=4][line4]"[lr]::
+52539::$$$message_0450_0018_0001$$$::...Estou surpreso.[lr]::
+52540::$$$message_0450_0018_0002$$$::Será que Tohsaka se sente responsável pelo que aconteceu?::
+52541::$$$message_0450_0019_0000$$$::"Ah. Bom, obrigado por se preocupar comigo, Tohsaka."[lr]::
+52542::$$$message_0450_0019_0001$$$::"N-não é por você! Eu só queria saber o que aconteceu com uma das minhas fontes de informação!"::
+52543::$$$message_0450_0020_0000$$$::"Hã? Eu te contei no telefonema de ontem. Caster e seu Mestre foram derrotados. Não há mais nada no Templo Ryuudou."[lr]::
+52544::$$$message_0450_0020_0001$$$::Espera.[lr]::
+52545::$$$message_0450_0020_0002$$$::Por que ela ficou tão séria de repente?::
+52546::$$$message_0450_0021_0000$$$::"O quê? Eu disse alguma coisa estranha?"[lr]::
+52547::$$$message_0450_0021_0001$$$::"Sim. Não é que eu não acredite em você, mas quero ter certeza. Você realmente derrotou Caster?"::
+52548::$$$message_0450_0022_0000$$$::"...Hm. Até eu sei dizer que vencemos aquela luta.[lr]::
+52549::$$$message_0450_0022_0001$$$::Saber eliminou Caster por completo. E o Mestre de Caster..."[lr]::
 52550::$$$message_0450_0022_0002$$$::...ele já estava morto quando chegamos lá.::
-52551::$$$message_0450_0023_0000$$$::"...certo. Há algo que quero conversar sobre isso. Pode vir ao telhado comigo?"::
-
+52551::$$$message_0450_0023_0000$$$::"...Certo. Então é sobre isso que quero conversar. Venha comigo até o telhado."::

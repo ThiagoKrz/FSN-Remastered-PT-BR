@@ -1,11 +1,10 @@
 DAT
 id=qid::label=str::text=lstr::
-54072::$$$message_0471_0000_0000$$$::"...Será que ele não queria me matar naquela hora?"::
-54073::$$$message_0471_0001_0000$$$::"...Bem, acho que esse é o motivo mais provável.[lr]::
-54074::$$$message_0471_0001_0001$$$::Eu presumo que o Zouken não queria que a Saber desaparecesse. O único efeito negativo da sua morte seria a Saber desaparecer."[lr]::
-54075::$$$message_0471_0001_0002$$$::"Tem razão. É só pra isso que eu sirvo."::
-54076::$$$message_0471_0002_0000$$$::"Ei, por que você ficou deprimido? E-Eu só estava falando sobre o Zouken, não precisa levar tão a sério."[lr]::
-54077::$$$message_0471_0002_0001$$$::"...? Não estou deprimido nem nada. De verdade. Por que você está ficando brava, Tohsaka?"::
-54078::$$$message_0471_0003_0000$$$::"...! [w l=4][line4]E-Eu não estou brava.[lr]::
-54079::$$$message_0471_0003_0001$$$::Você é que entendeu tudo errado."::
-
+54072::$$$message_0471_0000_0000$$$::"Então você está dizendo que ele não queria me matar?"::
+54073::$$$message_0471_0001_0000$$$::"Esse seria o motivo mais óbvio.[lr]::
+54074::$$$message_0471_0001_0001$$$::Só pode significar que Zouken não queria eliminar Saber. A única desvantagem da sua morte seria fazer Saber desaparecer."[lr]::
+54075::$$$message_0471_0001_0002$$$::"Faz sentido. Foi assim que ele me tratou."::
+54076::$$$message_0471_0002_0000$$$::"Ei, por que está fazendo bico? Estamos falando de como Zouken vê a situação, então não me ignore."[lr]::
+54077::$$$message_0471_0002_0001$$$::"Não estou fazendo bico. É a verdade. Mas por que você está tão brava?"::
+54078::$$$message_0471_0003_0000$$$::"N-não é como se eu estivesse brava![lr]::
+54079::$$$message_0471_0003_0001$$$::Você está entendendo errado, Emiya."::

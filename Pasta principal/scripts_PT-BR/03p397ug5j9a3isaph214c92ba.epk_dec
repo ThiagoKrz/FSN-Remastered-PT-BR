@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 56524::$$$message_0499_0009_0003$$$::O Shinji está na sala de aula do terceiro andar.::
 56525::$$$message_0499_0010_0000$$$::"Eu vou na frente. Você vem depois, Tohsaka."[lr]::
 56526::$$$message_0499_0010_0001$$$::"...Certo. Eu vou esperar dez minutos e então vou passar pelo portão.[lr]::
-56527::$$$message_0499_0010_0002$$$::Eu não te avisei isso antes, mas um Campo Taumatúrgico foi colocado aqui. Eu serei descoberta mesmo se tentar esconder a minha presença, então mantenha-os ocupados para não me notarem."::
+56527::$$$message_0499_0010_0002$$$::Eu não te avisei isso antes, mas um Campo Limitado foi colocado aqui. Eu serei descoberta mesmo se tentar esconder a minha presença, então mantenha-os ocupados para não me notarem."::
 56528::$$$message_0499_0011_0000$$$::Eu aceno e começo a correr.[lr]::
 56529::$$$message_0499_0011_0001$$$::[w l=4][line4]Há um aço fervendo em minhas costas.[lr]::
 56530::$$$message_0499_0011_0002$$$::O Circuito Mágico já foi criado.[lr]::
@@ -114,7 +114,7 @@ id=qid::label=str::text=lstr::
 56610::$$$message_0499_0038_0000$$$::"Mas seria entediante apenas lutar, não acha? Não seria justo pois eu não sou um mago, e é óbvio que eu venceria numa luta.[lr]::
 56611::$$$message_0499_0038_0001$$$::Então para ficar justo, eu vou fazer ela lutar contra você."::
 56612::$$$message_0499_0039_0000$$$::"[w l=8][line8]!"[lr]::
-56613::$$$message_0499_0039_0001$$$::...Heh.[lr]::
+56613::$$$message_0499_0039_0001$$$::...Ha.[lr]::
 56614::$$$message_0499_0039_0002$$$::Ele quer que eu lute de mãos vazias contra a Rider, não é?[lr]::
 56615::$$$message_0499_0039_0003$$$::Isso é o mesmo que me dizer para morrer.::
 56616::$$$message_0499_0040_0000$$$::"Eu não vou te matar. Eu pedi para a Rider pegar leve contigo.[lr]::
@@ -129,7 +129,7 @@ id=qid::label=str::text=lstr::
 56625::$$$message_0499_0043_0003$$$::E então estarei no alcance dela.::
 56626::$$$message_0499_0044_0000$$$::"...Hmpf. Eu não posso resistir, mas também não posso desmaiar rápido?[lr]::
 56627::$$$message_0499_0044_0001$$$::Você está se contradizendo, Shinji. O que você quer afinal?"::
-56628::$$$message_0499_0045_0000$$$::"Hah, não é óbvio...!?[lr]::
+56628::$$$message_0499_0045_0000$$$::"Ha, não é óbvio...!?[lr]::
 56629::$$$message_0499_0045_0001$$$::Eu só quero te encher de porrada...!!"::
 56630::$$$message_0499_0046_0000$$$::A Rider vem na minha direção.[lr]::
 56631::$$$message_0499_0046_0001$$$::"[w l=4][line4]"[lr]::
@@ -172,7 +172,7 @@ id=qid::label=str::text=lstr::
 56668::$$$message_0499_0053_0004$$$::Bem, ela já está pegando leve comigo por não estar mirando no meu rosto, mas mesmo assim tem algo errado.::
 56669::$$$message_0499_0054_0000$$$::"[w l=6][line6]!"[lr]::
 56670::$$$message_0499_0054_0001$$$::Em resumo, a força dela está muito diferente de antes.[lr]::
-56671::$$$message_0499_0054_0002$$$::A força de um Servo está diretamente ligada à energia mágica que você consegue sentir deles.::
+56671::$$$message_0499_0054_0002$$$::A força de um Servo está diretamente ligada à Energia Mágica que você consegue sentir deles.::
 56672::$$$message_0499_0055_0000$$$::A Rider era um Servo forte quando estava no Templo Ryuudou.[lr]::
 56673::$$$message_0499_0055_0001$$$::Mas a Rider que está na minha frente agora é a Rider que foi derrotada no parque.[lr]::
 56674::$$$message_0499_0055_0002$$$::Eu não sei o que aconteceu, mas já que é assim, eu ainda tenho chance de derrotar o Shinji[w l=3][line3]!::
@@ -237,7 +237,7 @@ id=qid::label=str::text=lstr::
 56733::$$$message_0499_0074_0002$$$::O impacto da queda não importa.[lr]::
 56734::$$$message_0499_0074_0003$$$::É um golpe forte o suficiente para mandar um humano pelos ares.[lr]::
 56735::$$$message_0499_0074_0004$$$::Não seria surpresa se o golpe formasse um buraco no meu peito.::
-56736::$$$message_0499_0075_0000$$$::"......Hah."[lr]::
+56736::$$$message_0499_0075_0000$$$::"......Ha."[lr]::
 56737::$$$message_0499_0075_0001$$$::Mas ainda estou vivo.[lr]::
 56738::$$$message_0499_0075_0002$$$::Qualquer um consegue pular para trás se fizer isso no momento certo.[lr]::
 56739::$$$message_0499_0075_0003$$$::Aquele ataque não era para me matar.[lr]::
@@ -245,7 +245,7 @@ id=qid::label=str::text=lstr::
 56741::$$$message_0499_0076_0000$$$::"[w l=4][line4]Agora."[lr]::
 56742::$$$message_0499_0076_0001$$$::A distância é perfeita.[lr]::
 56743::$$$message_0499_0076_0002$$$::Eu viro o meu corpo antes de acertar o chão, me endireito instantaneamente,::
-56744::$$$message_0499_0077_0000$$$::"Huh?"[lr]::
+56744::$$$message_0499_0077_0000$$$::"Hã?"[lr]::
 56745::$$$message_0499_0077_0001$$$::e seguro a faca na minha frente com a mão esquerda.::
 56746::$$$message_0499_0078_0000$$$::Eu a seguro pela lâmina.[lr]::
 56747::$$$message_0499_0078_0001$$$::Eu não ligo de cortar a minha mão, já que ela está dormente.::
@@ -253,4 +253,3 @@ id=qid::label=str::text=lstr::
 56749::$$$message_0499_0079_0001$$$::Eu levanto o outro braço.[lr]::
 56750::$$$message_0499_0079_0002$$$::Sem me preocupar com a dor...[lr]::
 56751::$$$message_0499_0079_0003$$$::Eu fecho o meu punho e dou um soco na cara do Shinji.::
-

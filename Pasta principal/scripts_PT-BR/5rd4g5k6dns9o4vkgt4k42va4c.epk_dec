@@ -1,58 +1,57 @@
 DAT
 id=qid::label=str::text=lstr::
-59290::$$$message_0537_0000_0000$$$::É óbvio que a situação piora a cada segundo.[lr]::
-59291::$$$message_0537_0000_0001$$$::Então vou fugir do perigo enquanto posso me mexer.[lr]::
-59292::$$$message_0537_0000_0002$$$::Vou derrotá-lo antes de que todas essas vermes possam rastejar sob meu corpo[line4]!::
-59293::$$$message_0537_0001_0000$$$::Meu ataque foi inefetivo.[lr]::
-59294::$$$message_0537_0001_0001$$$::Um corte diagonal acerta o velho mago do pescoço a cintura. Pedaços de carne se espalham pelo templo.::
-59295::$$$message_0537_0002_0000$$$::"Ora ora[line4]! Entendo, entendo. Você parece ser um rapaz determinado!"[lr]::
-59296::$$$message_0537_0002_0001$$$::A cabeça no chão ri.::
-59297::$$$message_0537_0003_0000$$$::"[line4], ......!"[lr]::
-59298::$$$message_0537_0003_0001$$$::Minha arma virá pó.[lr]::
-59299::$$$message_0537_0003_0002$$$::[line3]Droga.[lr]::
-59300::$$$message_0537_0003_0003$$$::Ele sacrificou seu corpo para apodrecer o graveto que fortaleci...!::
-59301::$$$message_0537_0004_0000$$$::"Acabou. Seu ardor juvenil lhe custou sua única arma. Aí aí, esses jovens de hoje, tão impacientes."[lr]::
+59290::$$$message_0537_0000_0000$$$::Está claro que, quanto mais eu esperar, maior será minha desvantagem.[lr]::
+59291::$$$message_0537_0000_0001$$$::Isso significa que devo escapar desta situação desesperadora enquanto ainda consigo me mover.[lr]::
+59292::$$$message_0537_0000_0002$$$::Vou avançar e derrubar o velho mago antes que os insetos ao meu redor subam pelo meu corpo[line4]!::
+59293::$$$message_0537_0001_0000$$$::Não parece que acertei de verdade.[lr]::
+59294::$$$message_0537_0001_0001$$$::Meu corte diagonal atravessa o corpo dele com a facilidade de cortar um tomate, e os pedaços caem no chão.::
+59295::$$$message_0537_0002_0000$$$::"Oh! Entendo, entendo. Você é bastante decidido, rapaz!"[lr]::
+59296::$$$message_0537_0002_0001$$$::Os pedaços caídos do velho mago riem de mim.::
+59297::$$$message_0537_0003_0000$$$::"Argh...!"[lr]::
+59298::$$$message_0537_0003_0001$$$::O bastão kyousaku apodrece e se desfaz nas minhas mãos.[lr]::
+59299::$$$message_0537_0003_0002$$$::    Ele me pegou.[lr]::
+59300::$$$message_0537_0003_0003$$$::Aquele velho maldito sacrificou o próprio corpo para destruir meu bastão reforçado...!::
+59301::$$$message_0537_0004_0000$$$::"Está encurralado. Em seu ímpeto, perdeu sua única arma. Os jovens são sempre tão impacientes."[lr]::
 59302::$$$message_0537_0004_0001$$$::"......!"::
 59303::$$$message_0537_0005_0000$$$::Eu corro.[lr]::
-59304::$$$message_0537_0005_0001$$$::Eu corro, pisando nas vermes em meu caminho.[lr]::
-59305::$$$message_0537_0005_0002$$$::A morte me alcança pelo calcanhar.[lr]::
-59306::$$$message_0537_0005_0003$$$::Tentando escapar das hordas de vermes me atacando.[lr]::
-59307::$$$message_0537_0005_0004$$$::Acerto a parede negra com meu ombro...!::
+59304::$$$message_0537_0005_0001$$$::Insetos estalam e se esmagam sob meus pés enquanto corro.[lr]::
+59305::$$$message_0537_0005_0002$$$::Sinto a morte se aproximando por trás,[lr]::
+59306::$$$message_0537_0005_0003$$$::e, numa tentativa desesperada de evitar a onda zumbidora de insetos,[lr]::
+59307::$$$message_0537_0005_0004$$$::atiro meu ombro contra uma das paredes escuras que levam para fora...!::
 59308::$$$message_0537_0006_0000$$$::"Escapei...!"[lr]::
-59309::$$$message_0537_0006_0001$$$::Incapaz de parar meu impulso, eu caio e rolo no chão.::
-59310::$$$message_0537_0007_0000$$$::"Hah, ah...!"[lr]::
-59311::$$$message_0537_0007_0001$$$::Os vermes não estão vindo atrás de mim.[lr]::
-59312::$$$message_0537_0007_0002$$$::Deve ser porque corri frenéticamente, já que acabou do lado oposto do complexo.::
+59309::$$$message_0537_0006_0001$$$::Rolo para fora da sala, ainda levado pelo impulso.::
+59310::$$$message_0537_0007_0000$$$::"Hah...!"[lr]::
+59311::$$$message_0537_0007_0001$$$::Os insetos não vêm atrás de mim.[lr]::
+59312::$$$message_0537_0007_0002$$$::Na corrida atordoada para escapar do santuário, acabei do lado oposto do pátio do templo.::
 59313::$$$message_0537_0008_0000$$$::"Aí......"[lr]::
-59314::$$$message_0537_0008_0001$$$::Devo ter caído de mal jeito, já que tudo dói.[lr]::
-59315::$$$message_0537_0008_0002$$$::"Mas e daí? O mais importante[line4]"::
-59316::$$$message_0537_0009_0000$$$::Tenho que encontrar a Saber o mais rápido que eu puder.[lr]::
-59317::$$$message_0537_0009_0001$$$::Tenho um mal pressentimento.[lr]::
-59318::$$$message_0537_0009_0002$$$::Tenho que ver o rosto da Saber, para garantir que ela esteja [r]bem[line4]::
+59314::$$$message_0537_0008_0001$$$::Sinto dor no corpo inteiro. Talvez tenha batido em algo ao cair para fora do prédio.[lr]::
+59315::$$$message_0537_0008_0002$$$::"Mas e daí? Mais importante, agora..."::
+59316::$$$message_0537_0009_0000$$$::Preciso encontrar Saber o mais rápido possível.[lr]::
+59317::$$$message_0537_0009_0001$$$::Um pressentimento terrível paira sobre mim.[lr]::
+59318::$$$message_0537_0009_0002$$$::A ansiedade só piora. Preciso ver o rosto de Saber logo, senão...::
 59319::$$$message_0537_0010_0000$$$::"[line4]!"[lr]::
 59320::$$$message_0537_0010_0001$$$::A superfície da água treme.[lr]::
-59321::$$$message_0537_0010_0002$$$::Presentindo perigo, me afasto.::
-59322::$$$message_0537_0011_0000$$$::Tenho que tirar meu pé da lama úmida.[lr]::
-59323::$$$message_0537_0011_0001$$$::"......!?"[lr]::
+59321::$$$message_0537_0010_0002$$$::Sentindo o perigo, salto para longe.::
+59322::$$$message_0537_0011_0000$$$::O solo úmido solta meus pés.[lr]::
+59323::$$$message_0537_0011_0001$$$::"Ngh...!?"[lr]::
 59324::$$$message_0537_0011_0002$$$::Mas só consigo me afastar por um instante.::
-59325::$$$message_0537_0012_0000$$$::[line3]Uma dor afiada.[lr]::
-59326::$$$message_0537_0012_0001$$$::Sinto algo estranho em meu calcanhar e olho para baixo.::
+59325::$$$message_0537_0012_0000$$$::    Uma dor surda.[lr]::
+59326::$$$message_0537_0012_0001$$$::Sinto algo errado nos meus calcanhares e olho para baixo.::
 59327::$$$message_0537_0013_0000$$$::"Que[line4]"[lr]::
-59328::$$$message_0537_0013_0001$$$::Está vermelho.[lr]::
-59329::$$$message_0537_0013_0002$$$::Meus pés sumiram do calcanhar para baixo.::
-59330::$$$message_0537_0014_0000$$$::"...deve ter sido isso."[lr]::
-59331::$$$message_0537_0014_0001$$$::Pisei em várias vermes enquanto fugia.[lr]::
-59332::$$$message_0537_0014_0002$$$::...o graveto fortalecido apodreceu só por cortar o Zouken.[lr]::
-59333::$$$message_0537_0014_0003$$$::Logo, é normal que o mesmo tenha acontecido com meus pés por terem pisado nelas.::
+59328::$$$message_0537_0013_0001$$$::Estão todos vermelhos.[lr]::
+59329::$$$message_0537_0013_0002$$$::Quando saltei, meus dois pés se desprenderam, como sapatos descartados...::
+59330::$$$message_0537_0014_0000$$$::"Aquelas coisas lá atrás..."[lr]::
+59331::$$$message_0537_0014_0001$$$::Quando escapei da sala do santuário, pisei em incontáveis insetos.[lr]::
+59332::$$$message_0537_0014_0002$$$::Recordo como meu bastão reforçado apodreceu quando o usei para cortar o corpo de Zouken.[lr]::
+59333::$$$message_0537_0014_0003$$$::Faz sentido que meus pés, que pisaram naqueles mesmos insetos, tenham tido o mesmo destino.::
 59334::$$$message_0537_0015_0000$$$::"Guh...!"[lr]::
-59335::$$$message_0537_0015_0001$$$::Tento me arrastar para fora da lava com meus braços.::
-59336::$$$message_0537_0016_0000$$$::"Hah. Passou perto, meu rapaz. Sua decisão foi acertada, mas lhe faltou habilidade."[lr]::
-59337::$$$message_0537_0016_0001$$$::A voz do usuário de vermes ecoa.[lr]::
-59338::$$$message_0537_0016_0002$$$::[line3]O chão lamacento.[lr]::
-59339::$$$message_0537_0016_0003$$$::Desde os tempos antigos, arranhas habitam os lugares úmidos da terra.::
-59340::$$$message_0537_0017_0000$$$::"[line3]Bem, obtive a Saber.[lr]::
-59341::$$$message_0537_0017_0001$$$::Que pena. O último motivo para te manter vivo desapareceu."::
-59342::$$$message_0537_0018_0000$$$::Minhocas que nunca vi antes aparecem repentinamente.[lr]::
-59343::$$$message_0537_0018_0001$$$::Milhares de venenos mordem minha pele, se arrastam por minha carne e derretem meus ossos.[lr]::
-59344::$$$message_0537_0018_0002$$$::[line3]Tive que aguentar uma dor insuportável até perder a consciência.::
-
+59335::$$$message_0537_0015_0001$$$::De quatro, tento escapar do lamaçal usando o que restou dos meus pés.::
+59336::$$$message_0537_0016_0000$$$::"Haha. Passou perto, rapaz. Sua decisão não estava errada, mas lhe faltou poder para sustentá-la."[lr]::
+59337::$$$message_0537_0016_0001$$$::A voz do manipulador de insetos ecoa.[lr]::
+59338::$$$message_0537_0016_0002$$$::[line3]O chão está lamacento.[lr]::
+59339::$$$message_0537_0016_0003$$$::Aranhas sempre viveram em lugares úmidos.::
+59340::$$$message_0537_0017_0000$$$::"Agora, Saber é minha.[lr]::
+59341::$$$message_0537_0017_0001$$$::Que pena. Você perdeu o único motivo que eu tinha para mantê-lo vivo."::
+59342::$$$message_0537_0018_0000$$$::Mais insetos que nunca vi antes descem esvoaçando.[lr]::
+59343::$$$message_0537_0018_0001$$$::Eles mordiscam minha carne, enterram-se nos músculos e injetam veneno centenas de vezes, dissolvendo meus ossos.[lr]::
+59344::$$$message_0537_0018_0002$$$::    Sou forçado a suportar uma dor gelada pior que o próprio inferno, até minha consciência finalmente se apagar.::

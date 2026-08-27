@@ -1,23 +1,22 @@
 DAT
 id=qid::label=str::text=lstr::
-59034::$$$message_0530_0000_0000$$$::A aula acaba, e rapidamente volto para casa.[lr]::
-59035::$$$message_0530_0000_0001$$$::Já que os clubes pós-aula foram cancelados, o portão principal está lotado com alunos.[lr]::
-59036::$$$message_0530_0000_0002$$$::Olho ao redor, mas não vejo a Tohsaka.[lr]::
+59034::$$$message_0530_0000_0000$$$::Quando a aula termina, volto para casa sem demora.[lr]::
+59035::$$$message_0530_0000_0001$$$::Como todas as atividades de clubes foram suspensas, os alunos se acumulam no portão da escola.[lr]::
+59036::$$$message_0530_0000_0002$$$::Dou uma olhada rápida ao redor, mas não vejo ninguém que pareça ser Tohsaka.[lr]::
 59037::$$$message_0530_0000_0003$$$::Aposto que ela já foi para a casa dos Matous.::
 59038::$$$message_0530_0001_0000$$$::"Senpai? Está procurando alguém?"[lr]::
-59039::$$$message_0530_0001_0001$$$::"Hm? Não, só estava olhando. É raridade ver todos voltando assim, né?"::
-59040::$$$message_0530_0002_0000$$$::"Sim. Mas podemos voltar por conta disso. Devemos dar uma passada no distrito comercial?"[lr]::
-59041::$$$message_0530_0002_0001$$$::"Sim, vamos comprar coisas para o jantar. A Fuji-nee não pode vir por um tempo, então será para mim, você e a Saber."::
-59042::$$$message_0530_0003_0000$$$::Passamos no parque depois das compras.[lr]::
-59043::$$$message_0530_0003_0001$$$::Não tem ninguém aqui.[lr]::
-59044::$$$message_0530_0003_0002$$$::Não há crianças brincando. Nem garota de cabelos prateados em um casaco.::
-59045::$$$message_0530_0004_0000$$$::"...não tem ninguém aqui. Ninguém vem aqui?"::
-59046::$$$message_0530_0005_0000$$$::"Acho que é assim. Quando eu era mais novo, haviam pessoas aqui até o sol se pôr, mas acho que agora é assim exceto nos feriados."[lr]::
+59039::$$$message_0530_0001_0001$$$::"Hm? Não, só estava olhando. Não é todo dia que a gente vê tanta gente indo embora ao mesmo tempo."::
+59040::$$$message_0530_0002_0000$$$::"Sim. Mas, graças a isso, podemos voltar juntos hoje. Quer passar no distrito comercial antes?"[lr]::
+59041::$$$message_0530_0002_0001$$$::"Sim, vamos comprar umas coisas para o jantar. A Fuji-nee não vai aparecer por um tempo, então compramos para três: eu, você e Saber."::
+59042::$$$message_0530_0003_0000$$$::Depois das compras, pegamos o caminho mais longo para casa e passamos pelo parque.[lr]::
+59043::$$$message_0530_0003_0001$$$::O parque está vazio.[lr]::
+59044::$$$message_0530_0003_0002$$$::Não há crianças no parquinho, nem uma garota de cabelos prateados usando casaco.::
+59045::$$$message_0530_0004_0000$$$::"...não tem ninguém aqui. Será que quase ninguém vem?"::
+59046::$$$message_0530_0005_0000$$$::"Ultimamente, acho que é assim. Quando eu era criança, sempre tinha alguém aqui durante o dia, mas hoje em dia só enche nos dias de folga."[lr]::
 59047::$$$message_0530_0005_0001$$$::"Entendo. É meio solitário."::
-59048::$$$message_0530_0006_0000$$$::Eu concordo e olho para o céu.[lr]::
-59049::$$$message_0530_0006_0001$$$::O céu noturno.[lr]::
-59050::$$$message_0530_0006_0002$$$::O céu avermelhado, sem passáros, parece tão solitário quanto este parque.::
-59051::$$$message_0530_0007_0000$$$::"Vamos. Não temos tempo livre com tanta frequência, então devíamos relaxar."[lr]::
-59052::$$$message_0530_0007_0001$$$::Vamos embora.[lr]::
-59053::$$$message_0530_0007_0002$$$::Com uma resposta energética, Sakura me segue.::
-�
+59048::$$$message_0530_0006_0000$$$::Concordo com um aceno e olho para cima.[lr]::
+59049::$$$message_0530_0006_0001$$$::O céu está tingido pelo crepúsculo.[lr]::
+59050::$$$message_0530_0006_0002$$$::A vastidão escura e avermelhada não tem um pássaro sequer. Parece tão solitária quanto o pequeno parque.::
+59051::$$$message_0530_0007_0000$$$::"Vamos voltar? Melhor aproveitar para relaxar um pouco em casa."[lr]::
+59052::$$$message_0530_0007_0001$$$::Deixamos o parque.[lr]::
+59053::$$$message_0530_0007_0002$$$::Sakura responde animada e me acompanha com passos leves.::

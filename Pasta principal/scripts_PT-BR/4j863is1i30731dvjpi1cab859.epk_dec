@@ -18,7 +18,7 @@ id=qid::label=str::text=lstr::
 56821::$$$message_0501_0005_0002$$$::O declínio deles começou quando começaram a morar aqui, e os Circuitos Mágicos foram diminuindo até que finalmente desapareceram nessa geração, quando o Shinji nasceu."::
 56822::$$$message_0501_0006_0000$$$::"...Com isso, a história da família Matou terminou.[lr]::
 56823::$$$message_0501_0006_0001$$$::Já que queriam continuar na sua missão, eles deveriam ter acolhido um aprendiz ou algo do tipo. Mas os Matous eram uma família respeitável, e eles se recusaram até o final a acolher alguém de fora."::
-56824::$$$message_0501_0007_0000$$$::"Como resultado, os seus sucessores foram nascendo com menos energia mágica, até que finalmente nasceram sem nenhuma.[lr]::
+56824::$$$message_0501_0007_0000$$$::"Como resultado, os seus sucessores foram nascendo com cada vez menos Energia Mágica, até que finalmente nasceram sem nenhuma.[lr]::
 56825::$$$message_0501_0007_0001$$$::...Quando isso aconteceu, eles finalmente começaram a procurar por um aprendiz, mas nenhum mago aceitaria ir para uma família arruinada. As centenas de anos de história dos Matous... ou melhor, dos Makiris deveriam ter acabado naquele momento."::
 56826::$$$message_0501_0008_0000$$$::"Mas eles não eram pessoas que poderiam desistir tão fácil assim. O pai do Shinji adotou uma criança e ensinou magia para ela."::
 56827::$$$message_0501_0009_0000$$$::"[w l=3][line3]Então.[lr]::
@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 56859::$$$message_0501_0019_0000$$$::"O[w l=3][line3]O que você está dizendo...!? A Sakura é a sua irmã, não é!? Nunca fale uma coisa dessas...!"::
 56860::$$$message_0501_0020_0000$$$::"A Sakura é uma criança da família Matou. Ela deixou de ser a minha irmã onze anos atrás."[lr]::
 56861::$$$message_0501_0020_0001$$$::"Tohsaka, você[w l=4][line4]"::
-56862::$$$message_0501_0021_0000$$$::"...Hmph. Eu faria a mesma coisa mesmo se a Sakura fosse da minha família. Não mudaria nada. Na verdade, isso daria menos motivo ainda pra você interferir."::
+56862::$$$message_0501_0021_0000$$$::"...Hmpf. Eu faria a mesma coisa mesmo se Sakura fosse da minha família. Não mudaria nada. Na verdade, isso daria menos motivo ainda pra você interferir."::
 56863::$$$message_0501_0022_0000$$$::"[w l=5][line5]Então você..."[lr]::
 56864::$$$message_0501_0022_0001$$$::Não é diferente do Shinji.[lr]::
 56865::$$$message_0501_0022_0002$$$::Mas antes que eu consiga dizer a pior coisa possível...::
@@ -64,7 +64,7 @@ id=qid::label=str::text=lstr::
 56867::$$$message_0501_0023_0001$$$::...O Kotomine aparece do outro lado do altar.::
 56868::$$$message_0501_0024_0000$$$::"...Minha nossa. Não tenho certeza se vocês estão de mal humor ou em perfeita harmonia."::
 56869::$$$message_0501_0025_0000$$$::"Ah[w l=4][line4]"[lr]::
-56870::$$$message_0501_0025_0001$$$::"[w l=4][line4]H-Hmph. Você está enganado."::
+56870::$$$message_0501_0025_0001$$$::"[w l=4][line4]H-Hmpf. Você está enganado."::
 56871::$$$message_0501_0026_0000$$$::"Entendo. Sentem-se. Eu irei explicar o estado em que a Matou Sakura se encontra."::
 56872::$$$message_0501_0027_0000$$$::"[w l=8][line8]"[lr]::
 56873::$$$message_0501_0027_0001$$$::"[w l=8][line8]"[lr]::
@@ -74,7 +74,7 @@ id=qid::label=str::text=lstr::
 56877::$$$message_0501_0029_0001$$$::Sanshi[w l=3][line3]um inseto que dizem habitar o corpo humano e que reporta as ações ruins da pessoa para o Juiz do Inferno.[lr]::
 56878::$$$message_0501_0029_0002$$$::Eu já ouvi falar sobre sanshi, mas nunca ouvi nada sobre verme mágico antes.::
 56879::$$$message_0501_0030_0000$$$::"Então vocês não conhecem. Bem, originalmente era apenas um parasita inofensivo.[lr]::
-56880::$$$message_0501_0030_0001$$$::É um familiar que vive às custas da energia mágica do hospedeiro. É do nível mais baixo do rank dos familiares, já que ele não faz nada além de reportar ao seu mestre se o hospedeiro está vivo ou morto."::
+56880::$$$message_0501_0030_0001$$$::É um familiar que vive às custas da Energia Mágica do hospedeiro. É o nível mais baixo entre os familiares, já que ele não faz nada além de informar ao mestre se o hospedeiro está vivo ou morto."::
 56881::$$$message_0501_0031_0000$$$::"...Entendo. Então é como um sistema de monitoramento.[lr]::
 56882::$$$message_0501_0031_0001$$$::Então o Zouken está monitorando a Sakura com isso?"[lr]::
 56883::$$$message_0501_0031_0002$$$::"Ah. Quando que foi decidido que o Matou Zouken é o mestre do verme mágico?"::
@@ -93,10 +93,10 @@ id=qid::label=str::text=lstr::
 56896::$$$message_0501_0037_0001$$$::O verme mágico que eu expliquei mais cedo está debilitando os nervos da Matou Sakura.[lr]::
 56897::$$$message_0501_0037_0002$$$::Deve ser o resultado de ter passado onze anos crescendo dentro dela. O verme virou um nervo, como um Circuito Mágico, e se misturou com os Circuitos Mágicos dela, se espalhando pelo seu corpo inteiro.[lr]::
 56898::$$$message_0501_0037_0003$$$::Ele se transformou no seu Brasão Mágico. Sob circunstâncias normais ele fica inativo, não tendo efeito algum no corpo da Matou Sakura.::
-56899::$$$message_0501_0038_0000$$$::"Mas assim que é ativado, ele começa a violar os nervos da Matou Sakura e fica se mexendo usando a sua energia mágica.[lr]::
-56900::$$$message_0501_0038_0001$$$::Foi o que aconteceu mais cedo. O verme mágico ficou percorrendo o seu corpo, absorvendo a energia mágica dela."::
+56899::$$$message_0501_0038_0000$$$::"Mas, assim que é ativado, ele começa a violar os nervos de Matou Sakura e se move usando a Energia Mágica dela.[lr]::
+56900::$$$message_0501_0038_0001$$$::Foi o que aconteceu mais cedo. O Verme do Brasão percorreu o corpo dela, absorvendo sua Energia Mágica."::
 56901::$$$message_0501_0039_0000$$$::"Se ela permanecesse naquele estado por doze horas, certamente teria morrido.[lr]::
-56902::$$$message_0501_0039_0001$$$::O verme sugaria toda a sua energia mágica, e então comeria a sua carne para se nutrir. Isso significa que o seu corpo seria consumido após ter toda a sua energia mágica sugada."::
+56902::$$$message_0501_0039_0001$$$::O verme sugaria toda a sua Energia Mágica e então devoraria sua carne para se nutrir. Isso significa que seu corpo seria consumido depois de ter toda a Energia Mágica drenada."::
 56903::$$$message_0501_0040_0000$$$::"Se você tem um Brasão Mágico, deve saber o quão doloroso isso é.[lr]::
 56904::$$$message_0501_0040_0001$$$::Até mesmo o menor traço de uma substância que não pertence ao seu corpo já lhe causa desconforto, e pode até ameaçar a sua própria vida. Ter outra criatura se entrelaçando com os nervos do seu corpo, se movendo dentro de você, seria suficiente para te matar."::
 56905::$$$message_0501_0041_0000$$$::"......A respeito disso, eu fico surpreso que a Matou Sakura estava consciente até agora.[lr]::
@@ -133,20 +133,20 @@ id=qid::label=str::text=lstr::
 56936::$$$message_0501_0051_0002$$$::"Nesse caso[w l=4][line4]! Será que ela não poderia deixar de ser uma Mestre? Se ela usar os Selos de Comando e cancelar o contrato com o seu Servo, ela não será mais uma Mestre[w l=3][line3]"::
 56937::$$$message_0501_0052_0000$$$::"Eu não recomendaria isso.[lr]::
 56938::$$$message_0501_0053_0000$$$::"Entendo. Então ela pode lutar e sobreviver, ou recusar lutar e ser morta pelo verme. Essas são as únicas opções que a Sakura tem, certo?"::
-56939::$$$message_0501_0053_0001$$$::Se isso continuar, a mente de Sakura Matou não permanecerá intacta, muito menos seu corpo. Afinal, ela tem cristas mágicas distribuídas por todo o corpo.[lr]::
+56939::$$$message_0501_0053_0001$$$::Se isso continuar, a mente de Matou Sakura não permanecerá intacta, muito menos seu corpo. Afinal, ela tem Vermes do Brasão distribuídos por todo o corpo.[lr]::
 56940::$$$message_0501_0053_0002$$$::Tenho certeza que você sabe o quão absurdo isso é, Rin."::
 56941::$$$message_0501_0054_0000$$$::"Sim. O verme mágico vai tormentar o seu hospedeiro enquanto a Guerra do Santo Graal continuar.[lr]::
 56942::$$$message_0501_0054_0001$$$::Se a sua condição continuar assim, o seu corpo não vai durar muito, e a sua mente será destruída. Afinal de contas, ela tem um Brasão Mágico no corpo inteiro.[lr]::
 56943::$$$message_0501_0054_0002$$$::Você deve entender o quão absurdo isso é, Rin."::
 56944::$$$message_0501_0055_0000$$$::"...Sim. Apesar dele ser algo familiar ao meu corpo, de vez em quando eu sinto vontade de arrancar o meu braço fora.[lr]::
 56945::$$$message_0501_0055_0001$$$::Se eu fico assim apenas por causa de um braço, a função dela como ser humano deveria ter sido destruída, já que ela tem isso no corpo inteiro.[lr]::
-56946::$$$message_0501_0055_0002$$$::Ela não é uma maga, mas um conjunto de Circuitos Mágicos. A mente humana deveria ter sido sobrescrita pela onda de energia mágica."::
+56946::$$$message_0501_0055_0002$$$::Ela não é uma maga, mas um conjunto de Circuitos Mágicos. A mente humana deveria ter sido sobrescrita pela onda de Energia Mágica."::
 56947::$$$message_0501_0056_0000$$$::"O qu[w l=3][line3]então a Sakura está..."[lr]::
 56948::$$$message_0501_0056_0001$$$::"Ela está em perigo se continuar assim.[lr]::
 56949::$$$message_0501_0056_0002$$$::Eu não sei por mais quantos dias ela consegue resistir, mas o verme mágico vai se espalhar mais ainda a cada dia. Ela vai morrer se não conseguirmos removê-lo antes que ele contamine o seu corpo inteiro, mas o corpo dela não vai durar muito de qualquer forma."::
-56950::$$$message_0501_0056_0003$$$::Minha conclusão é que, nesse ritmo, Sakura Matou não pode ser salva. Você pode aceitar isso, Shirou Emiya?"::
+56950::$$$message_0501_0056_0003$$$::Minha conclusão é que, nesse ritmo, Matou Sakura não pode ser salva. Você consegue aceitar isso, Emiya Shirou?"::
 56951::$$$message_0501_0057_0000$$$::"Tudo que eu fiz foi purificar o veneno.[lr]::
-56952::$$$message_0501_0057_0001$$$::A cirurgia para recuperar a sua energia mágica perdida e recuperar a sua mente vem em seguida, mas a chance de sucesso é muito baixa.[lr]::
+56952::$$$message_0501_0057_0001$$$::A cirurgia para recuperar a Energia Mágica perdida e restaurar a mente dela vem em seguida, mas a chance de sucesso é muito baixa.[lr]::
 56953::$$$message_0501_0057_0002$$$::[w l=3][line3]Isso é tudo.[lr]::
 56954::$$$message_0501_0057_0003$$$::Resumindo, Matou Sakura não pode ser salva. Está satisfeito, Emiya Shirou?"::
 56955::$$$message_0501_0057_0004$$$::Ela estava bem até ontem, então por que isso está acontecendo agora...!?::
@@ -163,38 +163,38 @@ id=qid::label=str::text=lstr::
 56966::$$$message_0501_0061_0001$$$::O Santo Graal.[lr]::
 56967::$$$message_0501_0062_0000$$$::"Eu entendo a situação agora, Kirei. Deixe-me agradecê-lo."[lr]::
 56968::$$$message_0501_0063_0000$$$::"Mas isso não é repentino demais? O verme mágico não foi implantado nela ontem. Então por que ela chegou ao seu limite assim de repente?"::
-56969::$$$message_0501_0063_0001$$$::Os Crest Worms foram dados a ela anos atrás. Ela até perdeu a cor dos olhos e do cabelo de Tohsaka, então as modificações devem ter começado em tenra idade. As mudanças não começaram recentemente."::
+56969::$$$message_0501_0063_0001$$$::Os Vermes do Brasão foram dados a ela anos atrás. Ela até perdeu a cor dos olhos e do cabelo dos Tohsaka, então as modificações devem ter começado quando ainda era muito pequena. As mudanças não começaram recentemente."::
 56970::$$$message_0501_0064_0000$$$::"Por que você pergunta isso agora?[lr]::
 56971::$$$message_0501_0064_0001$$$::O corpo de Matou Sakura foi adulterado muitos anos atrás. As mudanças foram tão drásticas que até mesmo seus cabelos e olhos já não refletem mais a sua linhagem. Isso não começou recentemente."::
 56972::$$$message_0501_0065_0000$$$::"Bem, parece que o verme nunca teve intenção de matá-la como está fazendo agora.[lr]::
-56973::$$$message_0501_0066_0000$$$::"Condições inesperadas, huh? ...Eu não sei quais são, mas isso significa que a Sakura ganhou a confiança do Zouken de repente?"::
+56973::$$$message_0501_0066_0000$$$::"Condições inesperadas, hein? ...Não sei quais são, mas isso significa que Sakura ganhou a confiança de Zouken de repente?"::
 56974::$$$message_0501_0066_0001$$$::Mas é apenas uma razão. Deve haver outras causas para suas mudanças repentinas.[lr]::
-56975::$$$message_0501_0066_0002$$$::Uma vez que ela começasse a usar um Servo, ele consumiria constantemente sua energia mágica. Se ela também se tornasse incapaz de alimentar seus Crest Worms, o que você acha que os vermes famintos fariam?"::
+56975::$$$message_0501_0066_0002$$$::Assim que ela começasse a usar um Servo, ele consumiria constantemente sua Energia Mágica. Se ela também ficasse incapaz de alimentar seus Vermes do Brasão, o que você acha que vermes famintos fariam?"::
 56976::$$$message_0501_0067_0000$$$::"Provavelmente. Suponho que ocorreu alguma mudança com ela que o Zouken não esperava.[lr]::
 56977::$$$message_0501_0067_0001$$$::Mas isso é apenas um dos fatores. Há outros motivos para a sua mudança drástica.[lr]::
-56978::$$$message_0501_0068_0000$$$::"...Entendo. Não importa as condições, o verme vai sugar o seu corpo para adquirir a energia mágica que ele não está conseguindo[w l=3][line3][lr]::
-56979::$$$message_0501_0068_0001$$$::Mas ela não vai perder energia mágica se ela não usar a Rider, então[w l=4][line4]"::
+56978::$$$message_0501_0068_0000$$$::"...Entendo. Não importa as condições, o verme vai sugar o corpo dela para obter a Energia Mágica que não está recebendo[w l=3][line3][lr]::
+56979::$$$message_0501_0068_0001$$$::Mas ela não vai perder Energia Mágica se não usar Rider, então[w l=4][line4]"::
 56980::$$$message_0501_0069_0000$$$::"Sim, ela deve ser capaz de viver como antes, por um tempo.[lr]::
 56981::$$$message_0501_0069_0001$$$::Mas eu duvido que aquele velho vai deixar a Matou Sakura em paz."::
-56982::$$$message_0501_0069_0002$$$::mas se ela lutar, ela usará energia mágica e seu corpo sofrerá erosão.[lr]::
+56982::$$$message_0501_0069_0002$$$::mas, se lutar, usará Energia Mágica e seu corpo sofrerá erosão.[lr]::
 56983::$$$message_0501_0069_0003$$$::...E isso não é tudo. Zouken pode usar Sakura da maneira que desejar, se assim desejar."::
 56984::$$$message_0501_0070_0000$$$::"......Verdade. Caso contrário, ele não teria plantado uma criatura dessas nela.[lr]::
 56985::$$$message_0501_0070_0001$$$::O verme vai matá-la se ela não lutar,[lr]::
-56986::$$$message_0501_0070_0002$$$::e seu corpo será destruído se ela lutar e usar energia mágica.[lr]::
+56986::$$$message_0501_0070_0002$$$::e seu corpo será destruído se ela lutar e usar Energia Mágica.[lr]::
 56987::$$$message_0501_0070_0003$$$::Não, não é apenas isso, o Zouken pode fazer o que quiser com a Sakura porque foi ele quem plantou o verme nela."::
 56988::$$$message_0501_0071_0000$$$::"[w l=3][line3]Ele pode fazer o que quiser com a Sakura...?"[lr]::
 56989::$$$message_0501_0071_0001$$$::"Sim. Zouken está com a vida da Sakura nas suas mãos. Por isso, derrotar o Zouken é o único jeito de salvar a Sakura.[lr]::
 56990::$$$message_0501_0071_0002$$$::[w l=3][line3]Mas Emiya-kun.[lr]::
-56991::$$$message_0501_0072_0000$$$::"Exatamente. Matou Sakura é uma ferramenta muito útil para o Zouken. Ele vai controlar a Matou Sakura assim como instigou Matou Shinji.[lr]::
-56992::$$$message_0501_0072_0001$$$::Na verdade, ela é superior como Mestre. Ela será pressionada pelo verme, e vai ficar mais descontrolada que o Matou Shinji, justamente como o Zouken quer."[lr]::
+56991::$$$message_0501_0072_0000$$$::"Exatamente. Matou Sakura é uma ferramenta muito útil para Zouken. Ele vai controlar Matou Sakura assim como instigou Matou Shinji.[lr]::
+56992::$$$message_0501_0072_0001$$$::Na verdade, ela é superior como Mestre. Ela será pressionada pelo verme e ficará mais descontrolada que Matou Shinji, exatamente como Zouken quer."[lr]::
 56993::$$$message_0501_0073_0000$$$::"...Mas eu ficarei meio irritado se tudo seguir de acordo com os planos dele.[lr]::
-56994::$$$message_0501_0073_0001$$$::Eu vou realizar a cirurgia na Matou Sakura. Eu já purifiquei o veneno e anestesiei o corpo dela. Irei realizar a cura e extração do verme mágico em seguida."::
+56994::$$$message_0501_0073_0001$$$::Vou realizar a cirurgia em Matou Sakura. Já purifiquei o veneno e anestesiei o corpo dela. Em seguida, farei a cura e a extração do Verme do Brasão."::
 56995::$$$message_0501_0074_0000$$$::"Hã...? Ei, Kirei..."[lr]::
 56996::$$$message_0501_0074_0001$$$::"É desesperador, mas farei o meu melhor. Não posso simplesmente deixar a Matou Sakura morrer. E que tipo de padre eu seria se tudo que pudesse fazer fosse depender do Santo Graal?"::
 56997::$$$message_0501_0074_0002$$$::Não conheço Kotomine há muito tempo, mas não esperava isso dele.[lr]::
-56998::$$$message_0501_0074_0003$$$::...It's not just a hunch.[lr]::
+56998::$$$message_0501_0074_0003$$$::...não é só um palpite.[lr]::
 56999::$$$message_0501_0074_0004$$$::Posso dizer que Kotomine pretende sinceramente e seriamente salvar Sakura.[lr]::
-57000::$$$message_0501_0074_0005$$$::It might be a matter of course for a priest, but I still feel like I'm witnessing something inconceivable.::
+57000::$$$message_0501_0074_0005$$$::Talvez isso seja natural para um padre, mas ainda sinto como se estivesse presenciando algo inconcebível.::
 57001::$$$message_0501_0075_0000$$$::"[w l=8][line8]"[lr]::
 57002::$$$message_0501_0075_0001$$$::A surpresa da Tohsaka é natural.[lr]::
 57003::$$$message_0501_0075_0002$$$::As suas palavras são inesperadas até mesmo para mim, e eu só conheço ele há pouco tempo.[lr]::
@@ -208,7 +208,7 @@ id=qid::label=str::text=lstr::
 57011::$$$message_0501_0078_0001$$$::O padre olha em silêncio para a Tohsaka, e eu nem consigo me levantar porque não sou capaz de pensar em nada.::
 57012::$$$message_0501_0079_0000$$$::"O que está fazendo? Você não vai me ajudar em nada ficando aqui. Eu não quero distrações. Vá matar o tempo até a cirurgia acabar."[lr]::
 57013::$$$message_0501_0079_0001$$$::"[w l=4][line4]Eu não vou te atrapalhar. Eu confio em você quando se trata de cirurgia. Você também ajudou aquela mulher antes."::
-57014::$$$message_0501_0080_0000$$$::"Hah. O nível de dificuldade dessa cirurgia é muito maior do que aquela.[lr]::
+57014::$$$message_0501_0080_0000$$$::"Ha. O nível de dificuldade dessa cirurgia é muito maior do que aquela.[lr]::
 57015::$$$message_0501_0081_0000$$$::"O procedimento que estou prestes a realizar é como fazer um coração que parou voltar a bater novamente. ...Bem, o verme mágico manteve o seu corpo vivo. Se tudo que eu precisar fazer for recuperar a sua mente, eu devo obter sucesso."::
 57016::$$$message_0501_0082_0000$$$::"Mas a sua presença aqui é um incômodo. Se você se intrometer quando ouvir os gritos dela, eu com certeza irei falhar. Em todo caso, você não é responsável pelo sofrimento dela. Você e Matou Sakura são estranhos agora."::
 57017::$$$message_0501_0082_0001$$$::"Você não deveria simpatizar com ela.[lr]::
@@ -223,12 +223,12 @@ id=qid::label=str::text=lstr::
 57026::$$$message_0501_0085_0001$$$::Eu não consigo terminar a minha frase.[lr]::
 57027::$$$message_0501_0086_0000$$$::"Matou Sakura sente algum tipo de culpa em relação a você. Se você estiver perto dela, ela pode se recusar a acordar."[lr]::
 57028::$$$message_0501_0086_0001$$$::"...Culpa em relação a mim...?"::
-57029::$$$message_0501_0086_0002$$$::Não é difícil imaginar que tipo de educação Zouken reservou para ela. Sakura Matou não é a donzela casta que você deseja que ela seja, mas uma bruxa suja manchada por seus vermes."::
+57029::$$$message_0501_0086_0002$$$::Não é difícil imaginar que tipo de criação Zouken reservou para ela. Matou Sakura não é a donzela casta que você deseja que ela seja, mas uma bruxa imunda, manchada por seus vermes."::
 57030::$$$message_0501_0087_0000$$$::"Sim. É mais arrependimento do que culpa.[lr]::
 57031::$$$message_0501_0087_0001$$$::[w l=3][line3]Ela é vítima de abuso sexual. É fácil imaginar que tipo de treinamento o Matou Zouken impôs sobre ela.[lr]::
 57032::$$$message_0501_0087_0002$$$::Sendo direto, a Matou Sakura não é uma menina virgem, mas sim uma mulher que conhece os homens."::
 57033::$$$message_0501_0087_0003$$$::[w l=3][line3]Como sucessora dos Matous, ela foi tratada como um objeto em experimentos prolongados.[lr]::
-57034::$$$message_0501_0087_0004$$$::É fácil imaginar que tipo de treinamento o Matou Zouken impôs sobre ela. Sendo direto, a Matou Sakura não é a donzela pura que você acredita ser, mas sim uma feiticeira corrompida por vermes."[w l=3]"::
+57034::$$$message_0501_0087_0004$$$::É fácil imaginar que tipo de treinamento Matou Zouken impôs a ela. Sendo direto, Matou Sakura não é a donzela pura que você acredita ser, mas uma feiticeira corrompida por vermes."[w l=3]"::
 57035::$$$message_0501_0088_0000$$$::"[w l=6][line6]"[lr]::
 57036::$$$message_0501_0088_0001$$$::Eu não estou surpreso.[lr]::
 57037::$$$message_0501_0089_0000$$$::"A menina tentou esconder esse fato de você, mas sempre buscou a salvação.[lr]::
@@ -245,7 +245,7 @@ id=qid::label=str::text=lstr::
 57048::$$$message_0501_0091_0003$$$::É só que[w l=3][line3]o que ele disse é verdade.[lr]::
 57049::$$$message_0501_0092_0000$$$::Eu dou as costas para o padre e ando em direção à porta.[lr]::
 57050::$$$message_0501_0093_0000$$$::"Aquele incidente que você mencionou mais cedo. Uma mulher foi atacada quando o Matou Shinji ainda controlava a Rider. Ela foi salva graças a você, mas teria morrido sob circunstâncias normais."::
-57051::$$$message_0501_0093_0001$$$::My temper rises.[lr]::
+57051::$$$message_0501_0093_0001$$$::Meu sangue ferve.[lr]::
 57052::$$$message_0501_0093_0002$$$::Por que percebo imediatamente o motivo pelo qual ele está me contando isso?::
 57053::$$$message_0501_0094_0000$$$::"[w l=8][line8]"[lr]::
 57054::$$$message_0501_0095_0000$$$::"Isso mesmo. Eu não preciso dizer quem foi responsável por isso. Quando o Servo ataca outras pessoas, a responsabilidade recai sobre o seu Mestre."::
@@ -254,7 +254,7 @@ id=qid::label=str::text=lstr::
 57057::$$$message_0501_0096_0001$$$::"É claro que não. Só estou falando sobre responsabilidade. Não estou falando sobre o bem e o mal. Na verdade, aquela mulher está viva por sua causa."::
 57058::$$$message_0501_0097_0000$$$::[w l=4][line4]Porém...[lr]::
 57059::$$$message_0501_0097_0001$$$::Se eu fizesse a escolha errada naquela hora, a Rider teria matado aquela mulher.::
-57060::$$$message_0501_0097_0002$$$::Mesmo que Sakura Matou se recupere, o resultado não mudará.[lr]::
+57060::$$$message_0501_0097_0002$$$::Mesmo que Matou Sakura se recupere, o resultado não mudará.[lr]::
 57061::$$$message_0501_0097_0003$$$::Mesmo que ela recupere a sanidade, a mesma coisa acontecerá novamente.[lr]::
 57062::$$$message_0501_0097_0004$$$::Quando isso acontecer... quem você protegerá?"[lr]::
 57063::$$$message_0501_0097_0005$$$::Não sei quando Sakura fará isso de novo.::
@@ -271,4 +271,3 @@ id=qid::label=str::text=lstr::
 57074::$$$message_0501_0102_0001$$$::Então faça a sua escolha.[lr]::
 90012::$$$message_0501_9999_0000$$$::"Kotomine, Sakura está bem...?"::
 90013::$$$message_0501_9999_0001$$$::"Kirei, como está Sakura...?"::
-

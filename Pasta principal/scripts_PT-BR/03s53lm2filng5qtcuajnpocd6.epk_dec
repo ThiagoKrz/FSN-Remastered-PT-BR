@@ -1,79 +1,79 @@
 DAT
 id=qid::label=str::text=lstr::
-59693::$$$message_0543_0000_0000$$$::"Sim. Concordo contigo.[lr]::
-59694::$$$message_0543_0000_0001$$$::Não posso ignorar esta sombra também. Não sei qual mago está por trás dela, mas não posso deixá-lo fugindo em meu território."::
+59693::$$$message_0543_0000_0000$$$::"É, concordo com sua leitura.[lr]::
+59694::$$$message_0543_0000_0001$$$::Não posso deixar essa Sombra solta por aí. Não sei que mago está por trás dela, mas precisa ter coragem para tocar o terror no meu território."::
 59695::$$$message_0543_0001_0000$$$::"Então mantemos a trégua?"[lr]::
-59696::$$$message_0543_0001_0001$$$::"Claro. Não temos muita escolha até eliminarmos a sombra."::
-59697::$$$message_0543_0002_0000$$$::[w l=3][line3]Nossa conversa acaba logo.[lr]::
-59698::$$$message_0543_0002_0001$$$::Fui para a sala da Tohsaka, sala 2-A, durante o almoço buscar ela.[lr]::
-59699::$$$message_0543_0002_0002$$$::Eu disse que queria fazer algo sobre a "sombra negra", e sua resposta foi simples.::
-59700::$$$message_0543_0003_0000$$$::"O que quer fazer? Devemos patrulhar juntos a partir de hoje ou trabalharmos sozinho?"::
-59701::$$$message_0543_0004_0000$$$::"Vamos ver... concordo, devemos dividir as tarefas.[lr]::
-59702::$$$message_0543_0004_0001$$$::Você continua patrulhando a noite. Investigue qualquer lugar que você ou a Saber acharem estranhos.[lr]::
-59703::$$$message_0543_0004_0002$$$::E eu vou atrás do Zouken enquanto vocês estão em ação."::
-59704::$$$message_0543_0005_0000$$$::"...Matou Zouken? O que ele tem a ver com aquela sombra?"::
-59705::$$$message_0543_0006_0000$$$::"Quem sabe? Não parece provável, já que ele estava mais assustado do que todos nós, mas algo está me incomodando.[lr]::
-59706::$$$message_0543_0006_0001$$$::...bem, mesmo assim, não podemos deixá-lo a solta. Ele age de modo suspeito, controlando o corpo da Caster e transformando um não-mago como o Shinji em Mestre."::
-59707::$$$message_0543_0007_0000$$$::"[w l=3][line3]Entendo. Tem razão. Pensando bem, nos juntamos contra a Caster. Então não podemos ignorar o velho."::
-59708::$$$message_0543_0008_0000$$$::"Certo. Vamos lutar com a sombra depois de cuidarmos de todo o resto. Mesmo se você a encontre, só investigue-a. Temos que nos preparar antes de matar."::
-59709::$$$message_0543_0009_0000$$$::"Certo, mas o que vai fazer? Você disse que seguiria Zouken, mas sabe onde ele está?"::
-59710::$$$message_0543_0010_0000$$$::"Huh...? Ah, não sei onde ele está, mas vou até a casa dos Matous. Minha família é conectada a eles, então sou mais do que qualificado."[lr]::
-59711::$$$message_0543_0010_0001$$$::Tohsaka diz abertamente.[lr]::
-59712::$$$message_0543_0010_0002$$$::Mas o plano dela não é tão simples.::
-59713::$$$message_0543_0011_0000$$$::"I-Ir até a casa dos Matous!? Significa ir até a base inimiga!"[lr]::
-59714::$$$message_0543_0011_0001$$$::"Eu sei. Por que está tão surpreso? Não vou lá lutar. Só investigar."::
-59715::$$$message_0543_0012_0000$$$::"Que[w l=3][line3]sua idiota!? E se o Zouken te pegar!?[lr]::
-59716::$$$message_0543_0012_0001$$$::Não posso deixar você ir sozinha. Eu vou também, então não seja doida!"::
-59717::$$$message_0543_0013_0000$$$::"Ei, você quem está sendo doido aqui.[lr]::
-59718::$$$message_0543_0013_0001$$$::Já te falei, conheço os Matous. Conheço suas magias, e posso dizer o quão forte o Zouken é a partir da batalha de ontem. Ele não é pâreo para mim.[lr]::
-59719::$$$message_0543_0013_0002$$$::Aquele velho mago está usando boa parte de sua magia para manter seu corpo, então ele não consegue me atacar diretamente."::
-59720::$$$message_0543_0014_0000$$$::"Na verdade, seria bem conveniente ele vir atrás de mim. E o Shinji é um nada já que ele não é mais um Mestre.[lr]::
-59721::$$$message_0543_0014_0001$$$::Pode deixar a luta chata entre magos comigo. Vá em frente e colete informação."::
-59722::$$$message_0543_0015_0000$$$::"[w l=7][line7]Mm."[lr]::
-59723::$$$message_0543_0015_0001$$$::Não posso contrariá-la se ela falar assim.[lr]::
-59724::$$$message_0543_0015_0002$$$::...o Archer estará com ela, então não preciso me preocupar.::
-59725::$$$message_0543_0016_0000$$$::"...certo. Vou deixar o Matou Zouken contigo. Saber e eu vamos atrás da sombra."[lr]::
-59726::$$$message_0543_0016_0001$$$::"Sim, por favor. ...e Emiya-kun. A Sakura está na sua casa, né?"::
-59727::$$$message_0543_0017_0000$$$::"...? Sim, ela está lá. Por que?"[lr]::
+59696::$$$message_0543_0001_0001$$$::"Claro. Não temos o luxo de brigar entre nós até eliminarmos essa Sombra."::
+59697::$$$message_0543_0002_0000$$$::    A conversa se encerra sem problemas.[lr]::
+59698::$$$message_0543_0002_0001$$$::Quando o intervalo do almoço começou, fui até a sala A de Tohsaka e a trouxe ao telhado.[lr]::
+59699::$$$message_0543_0002_0002$$$::Então comecei sugerindo que fizéssemos algo a respeito da Sombra, mas Tohsaka se mostrou ainda mais determinada do que eu.::
+59700::$$$message_0543_0003_0000$$$::"Então, qual é o plano? Patrulhamos juntos hoje à noite ou nos separamos para procurar?"::
+59701::$$$message_0543_0004_0000$$$::"Deixa eu pensar... acho melhor dividirmos as funções.[lr]::
+59702::$$$message_0543_0004_0001$$$::Você continua patrulhando à noite. Quero que vasculhe com cuidado qualquer lugar que pareça suspeito para um mago ou que chame a atenção de Saber.[lr]::
+59703::$$$message_0543_0004_0002$$$::Enquanto vocês agem abertamente, eu vou atrás de Zouken."::
+59704::$$$message_0543_0005_0000$$$::"...Matou Zouken? O que ele tem a ver com a Sombra?"::
+59705::$$$message_0543_0006_0000$$$::"Não faço ideia. Acho que é uma pista fraca, já que ele também estava com medo dela, mas algo nele me incomoda.[lr]::
+59706::$$$message_0543_0006_0001$$$::...além disso, mesmo sem a Sombra, não dá para ignorá-lo. Ele anda fazendo todo tipo de coisa suspeita, como controlar o cadáver de Caster e transformar Shinji em Mestre mesmo ele nem sendo mago."::
+59707::$$$message_0543_0007_0000$$$::"Ah. É, agora que você falou, nos juntamos para lidar com Caster por motivos parecidos. Não dá para deixar o velho agir à vontade."::
+59708::$$$message_0543_0008_0000$$$::"É. Vamos lidar com a Sombra depois de limpar a bagunça ao redor dela. Mesmo que a encontre, observe de longe. Não devemos enfrentá-la até podermos escolher os termos."::
+59709::$$$message_0543_0009_0000$$$::"Certo. Mas o que você vai fazer, exatamente? Sabe onde Zouken está?"::
+59710::$$$message_0543_0010_0000$$$::"Hã...? Ah, sim. Não sei exatamente onde ele está agora, mas posso ir direto à mansão Matou. Nossas famílias têm ligação, então sou mais indicada para isso do que você."[lr]::
+59711::$$$message_0543_0010_0001$$$::Tohsaka expõe o plano em tom leve.[lr]::
+59712::$$$message_0543_0010_0002$$$::Os detalhes, porém, não têm nada de leves.::
+59713::$$$message_0543_0011_0000$$$::"Você vai até a casa dos Matou!? Isso é entrar direto na base inimiga!"[lr]::
+59714::$$$message_0543_0011_0001$$$::"Eu sei. Por que está tão surpreso? Não vou lutar. Só vou sondar o território deles."::
+59715::$$$message_0543_0012_0000$$$::"Quê[line2]e o que você vai fazer se Zouken te emboscar!?[lr]::
+59716::$$$message_0543_0012_0001$$$::Não vou deixar você ir sozinha. Eu também vou, então não seja imprudente[line2]"::
+59717::$$$message_0543_0013_0000$$$::"O imprudente é você, idiota.[lr]::
+59718::$$$message_0543_0013_0001$$$::Eu disse que tenho ligação com os Matou, lembra? Conheço a Magia deles e descobri ontem o quão forte Zouken é. Para deixar claro, Zouken não é lá grande inimigo.[lr]::
+59719::$$$message_0543_0013_0002$$$::Ele usa a maior parte da Energia Mágica só para manter o corpo, e não tem meios diretos de ataque."::
+59720::$$$message_0543_0014_0000$$$::"Na verdade, se Zouken quiser uma luta direta, isso me favorece. Sem Shinji como Mestre, ele mal é uma ameaça.[lr]::
+59721::$$$message_0543_0014_0001$$$::Deixe os duelos antiquados entre magos comigo. Você deve reunir informações em campo."::
+59722::$$$message_0543_0015_0000$$$::"...mrgh."[lr]::
+59723::$$$message_0543_0015_0001$$$::Não consigo argumentar quando ela coloca as coisas desse jeito.[lr]::
+59724::$$$message_0543_0015_0002$$$::Tohsaka terá Archer com ela, então não adianta bancar o superprotetor.::
+59725::$$$message_0543_0016_0000$$$::"...tudo bem. Vou deixar Zouken com você. Saber e eu procuraremos a Sombra."[lr]::
+59726::$$$message_0543_0016_0001$$$::"Certo, obrigada... Ah, Emiya, queria perguntar uma coisa. Sakura está mesmo ficando na sua casa, não está?"::
+59727::$$$message_0543_0017_0000$$$::"? Sim, ela está dormindo lá. Por quê?"[lr]::
 59728::$$$message_0543_0017_0001$$$::"Por nada. Só estou aliviada em ouvir isso.[lr]::
-59729::$$$message_0543_0017_0002$$$::Não seria bom se ela estivesse lá quando eu fosse, né?"::
-59730::$$$message_0543_0018_0000$$$::"Ah, sim. ......estou surpreso. Você é bem géntil.[lr]::
-59731::$$$message_0543_0018_0001$$$::"E-Ei, por que está tão surpreso? Que tipo de pessoa pensou que eu fosse?"::
-59732::$$$message_0543_0019_0000$$$::"Bem, um..."[lr]::
-59733::$$$message_0543_0019_0001$$$::Tipo uma tempestade, vindo e sumindo num piscar de olhos.::
-59734::$$$message_0543_0020_0000$$$::"...Humph. não ligo pro que você pensa de mim.[lr]::
-59735::$$$message_0543_0020_0001$$$::Enfim, vou cuidar dos Matous, então fique quieto em casa até o anoitecer."::
-59736::$$$message_0543_0021_0000$$$::"Certo. Vou deixar isso contigo e ir treinar com a Saber. Ainda há tempo até o sol se pôr."[lr]::
+59729::$$$message_0543_0017_0002$$$::Seria complicado se eu encontrasse com ela na casa dos Matou. Ela não sabe de nada."::
+59730::$$$message_0543_0018_0000$$$::"Ah, é... Você é bem atenciosa, Tohsaka. Estou surpreso."[lr]::
+59731::$$$message_0543_0018_0001$$$::"P-para de olhar como se isso fosse um choque enorme. Que tipo de pessoa você acha que eu sou?"::
+59732::$$$message_0543_0019_0000$$$::"Bem, já que você perguntou..."[lr]::
+59733::$$$message_0543_0019_0001$$$::Um furacão humano que chega derrubando tudo e sai batendo a porta, eu acho.::
+59734::$$$message_0543_0020_0000$$$::"...hmph. Não ligo para o que você pensa.[lr]::
+59735::$$$message_0543_0020_0001$$$::Enfim, eu cuido do problema dos Matou, então se comporte pelo resto do dia."::
+59736::$$$message_0543_0021_0000$$$::"Entendido. Enquanto isso, vou usar o dia para treinar com Saber."[lr]::
 59737::$$$message_0543_0021_0001$$$::Me levanto e vou até a porta.[lr]::
 59738::$$$message_0543_0021_0002$$$::O intervalo está quase acabando, então preciso ir logo.::
 59739::$$$message_0543_0022_0000$$$::"Tchau, Tohsaka. Vamos nos encontrar aqui de novo amanhã."[lr]::
-59740::$$$message_0543_0022_0001$$$::"Sim. Vamos trocar informações.[lr]::
-59741::$$$message_0543_0022_0002$$$::Ah, mas Emiya-kun."[lr]::
-59742::$$$message_0543_0022_0003$$$::Tohsaka sorri.::
-59743::$$$message_0543_0023_0000$$$::"[w l=4][line4]"[lr]::
-59744::$$$message_0543_0023_0001$$$::...não é bom quando ela sorri assim.::
-59745::$$$message_0543_0024_0000$$$::Tenho esse mal pressentimento e corro até a porta, mas...[lr]::
-59746::$$$message_0543_0024_0001$$$::"Não sei sobre esse lance de treinar.[lr]::
-59747::$$$message_0543_0024_0002$$$::Não tem outra coisa que você poderia estar fazendo em seu tempo livre?[lr]::
-59748::$$$message_0543_0024_0003$$$::Tipo cuidar da garota que vive contigo?"[lr]::
-59749::$$$message_0543_0024_0004$$$::...estou vulnerável.::
-59750::$$$message_0543_0025_0000$$$::"C-Como assim, idiota...!![lr]::
-59751::$$$message_0543_0025_0001$$$::A S-Sakura não é assim, e só estou com ela lá porque o Shinji está mal humorado[w l=4][line4]"::
-59752::$$$message_0543_0026_0000$$$::"Ah. Quis dizer que você devia deixar a Saber descansar. Que inesperado a Sakura ser a primeira coisa que veio em sua mente quando eu disse 'garota'?"[lr]::
-59753::$$$message_0543_0026_0001$$$::Ela sorri.::
-59754::$$$message_0543_0027_0000$$$::"Ah[w l=4][line4], um, ugh[w l=4][line4]"[lr]::
-59755::$$$message_0543_0027_0001$$$::Posso sentir meu rosto queimando.[lr]::
-59756::$$$message_0543_0028_0000$$$::"Brincadeira. Só estou retribuindo o favor. Gostou?"[lr]::
-59757::$$$message_0543_0028_0001$$$::"......ei ei. Eu duvido da sua sanidade se você tiver gostado disso."::
-59758::$$$message_0543_0029_0000$$$::Força deixa meu corpo.[lr]::
-59759::$$$message_0543_0029_0001$$$::Me sinto uma marionete com as cordas cortadas.::
-59760::$$$message_0543_0030_0000$$$::"Ah, sim. Este é seu ponto fraco. Acho que foi uma piada de mal gosto."[lr]::
-59761::$$$message_0543_0030_0001$$$::"Heh, você é quem tem mal gosto aqui. Estou indo na frente!"::
-59762::$$$message_0543_0031_0000$$$::"Sim, pode ir por favor. Vou ficar aqui e rir mais um pouco."[lr]::
-59763::$$$message_0543_0031_0001$$$::"......! Droga, te vejo amanhã, Tohsaka!"::
-59764::$$$message_0543_0032_0000$$$::Eu entro de novo no prédio, batendo a porta atrás de mim.[lr]::
+59740::$$$message_0543_0022_0001$$$::"Certo. Vamos contar um ao outro o que descobrirmos.[lr]::
+59741::$$$message_0543_0022_0002$$$::Ah, mas, Emiya?"[lr]::
+59742::$$$message_0543_0022_0003$$$::Os lábios de Tohsaka se curvam em um sorriso.::
+59743::$$$message_0543_0023_0000$$$::[font italic=true]...[font italic=false][lr]::
+59744::$$$message_0543_0023_0001$$$::...quando ela sorri assim, nunca é coisa boa.::
+59745::$$$message_0543_0024_0000$$$::Vou direto para a porta, com uma sensação terrível crescendo no estômago.[lr]::
+59746::$$$message_0543_0024_0001$$$::"Talvez você não devesse passar todo o seu tempo treinando.[lr]::
+59747::$$$message_0543_0024_0002$$$::Não tem outra coisa que poderia estar fazendo?[lr]::
+59748::$$$message_0543_0024_0003$$$::Tipo, cuidar melhor da garota que mora sob o mesmo teto?"[lr]::
+59749::$$$message_0543_0024_0004$$$::Infelizmente, eu ainda estava dentro do alcance do ataque dela.::
+59750::$$$message_0543_0025_0000$$$::"Q-que diabos você está falando!?[lr]::
+59751::$$$message_0543_0025_0001$$$::E-eu e a Sakura não somos assim! Só estou cuidando dela enquanto Shinji está fazendo besteira[line2]"::
+59752::$$$message_0543_0026_0000$$$::"Ah, eu só estava dizendo que você devia deixar Saber descansar. Nossa, Emiya. Então Sakura é a primeira que vem à sua cabeça quando falo de garotas, é?"[lr]::
+59753::$$$message_0543_0026_0001$$$::Ela sorri de lado.::
+59754::$$$message_0543_0027_0000$$$::"Ah. Er. Uh..."[lr]::
+59755::$$$message_0543_0027_0001$$$::Meu rosto fica vermelho como brasa.::
+59756::$$$message_0543_0028_0000$$$::"Brincadeira, cara. Gostou dessa pequena vingança?"[lr]::
+59757::$$$message_0543_0028_0001$$$::"...só um maluco gostaria do jeito que você me trata."::
+59758::$$$message_0543_0029_0000$$$::Meus ombros caem.[lr]::
+59759::$$$message_0543_0029_0001$$$::Fico mole como uma marionete de cordas cortadas.::
+59760::$$$message_0543_0030_0000$$$::"Então esse é seu ponto fraco, Emiya. Acho que essa piada foi de mau gosto."[lr]::
+59761::$$$message_0543_0030_0001$$$::"Hmph! Quem tem mau gosto aqui é você! Vou na frente."::
+59762::$$$message_0543_0031_0000$$$::"Claro, pode ir. Vou ficar aqui rindo de você mais um pouquinho."[lr]::
+59763::$$$message_0543_0031_0001$$$::"Nngh! Droga, até amanhã, Tohsaka!"[wsay canskip=1]::
+59764::$$$message_0543_0032_0000$$$::Bato a porta atrás de mim e deixo o telhado.[lr]::
 59765::$$$message_0543_0032_0001$$$::...droga.[lr]::
-59766::$$$message_0543_0032_0002$$$::A Tohsaka está começando a se divertir me zoando.::
-59767::$$$message_0543_0033_0000$$$::O que ela quis dizer com "gostar"?[lr]::
-59768::$$$message_0543_0033_0001$$$::Primeiramente...[lr]::
-59769::$$$message_0543_0033_0002$$$::O que eu fiz para merecer isso?::
+59766::$$$message_0543_0032_0002$$$::Ela só veio aqui para apertar meus botões.::
+59767::$$$message_0543_0033_0000$$$::Gostar?[lr]::
+59768::$$$message_0543_0033_0001$$$::O que isso sequer quer dizer?[lr]::
+59769::$$$message_0543_0033_0002$$$::::

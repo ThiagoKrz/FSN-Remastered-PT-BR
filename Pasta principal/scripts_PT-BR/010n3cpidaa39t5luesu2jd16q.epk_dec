@@ -1,22 +1,21 @@
 DAT
 id=qid::label=str::text=lstr::
-54499::$$$message_0483_0000_0000$$$::...Estou preocupado com a Sakura.[lr]::
-54500::$$$message_0483_0000_0001$$$::Eu me sinto mal por isso, mas preciso contar a ela.::
-54501::$$$message_0483_0001_0000$$$::"Tohsaka? Se importaria em fazer isso na minha casa?"[lr]::
-54502::$$$message_0483_0001_0001$$$::"Hã? Na sua casa?"::
-54503::$$$message_0483_0002_0000$$$::"Sim. A Sakura está de cama na minha casa, eu quero ver como ela está. Eu não vou conseguir ficar tranquilo até ter certeza de que ela está bem."::
-54504::$$$message_0483_0003_0000$$$::"Droga[w l=3][line3]é verdade."[lr]::
-54505::$$$message_0483_0003_0001$$$::...Ela está espantada.[lr]::
-54506::$$$message_0483_0003_0002$$$::É natural. Qualquer um ficaria bravo se alguém pedisse para cooperar, mas dissesse logo em seguida que hoje é um dia ruim para treinar[w l=4][line4]::
+54499::$$$message_0483_0000_0000$$$::...estou mais preocupado com Sakura.[lr]::
+54500::$$$message_0483_0000_0001$$$::Preciso deixar isso claro para Tohsaka, mesmo me sentindo culpado.::
+54501::$$$message_0483_0001_0000$$$::"Tohsaka. Podemos fazer isso na minha casa?"[lr]::
+54502::$$$message_0483_0001_0001$$$::"Casa? Quer dizer, a sua casa?"::
+54503::$$$message_0483_0002_0000$$$::"Sim. Sakura está resfriada, então preciso cuidar dela. Se vou passar algumas noites aqui, não vou conseguir ficar tranquilo sem ver como ela está antes."::
+54504::$$$message_0483_0003_0000$$$::"Ah, droga. É verdade."[lr]::
+54505::$$$message_0483_0003_0001$$$::...Ela está exasperada comigo.[lr]::
+54506::$$$message_0483_0003_0002$$$::Claro que estaria. Fui eu que pedi ajuda, e agora estou dizendo que quero ir para casa porque isso não encaixa na minha agenda[line2]::
 54507::$$$message_0483_0004_0000$$$::"Seu idiota! Se você tivesse me contado antes, eu não te manteria aqui por tanto tempo...!"[lr]::
 54508::$$$message_0483_0004_0001$$$::".........Hein?"[lr]::
-54509::$$$message_0483_0004_0002$$$::Depois de gritar comigo, ela se levanta, atravessa o quarto e veste o seu casaco.::
-54510::$$$message_0483_0005_0000$$$::"Vamos andando. Já terminamos aqui, e podemos fazer o resto na sua casa. Vamos continuar assim que você terminar de cuidar da Sakura, então vamos depressa."[lr]::
-54511::$$$message_0483_0005_0001$$$::"Eh[w l=4][line4]t-tá bom. Isso me ajuda."::
-54512::$$$message_0483_0006_0000$$$::"...Humpf. Eu vou te avisar logo porque não quero ficar repetindo isso toda hora.[lr]::
-54513::$$$message_0483_0006_0001$$$::[w l=3][line3]A sua natureza está na projeção, e não no fortalecimento.[lr]::
-54514::$$$message_0483_0006_0002$$$::Eu não sei em que momento você confundiu as coisas, mas você é um mago que pertence ao 'lado que cria'."[lr]::
-54515::$$$message_0483_0006_0003$$$::A Tohsaka sai andando pelo corredor.::
-54516::$$$message_0483_0007_0000$$$::"...?"[lr]::
-54517::$$$message_0483_0007_0001$$$::Eu inclino a cabeça, confuso, mas sigo a Tohsaka e deixo a casa dela.::
-
+54509::$$$message_0483_0004_0002$$$::Assim que grita comigo, ela se levanta, atravessa o quarto e veste o casaco pendurado no cabide.::
+54510::$$$message_0483_0005_0000$$$::"Vamos. Já terminamos o que viemos fazer aqui, e podemos concluir o resto na sua casa. Continuamos depois que você cuidar de Sakura, então se apresse e volte para casa."[lr]::
+54511::$$$message_0483_0005_0001$$$::"Eh[line4]s-sim. Isso me ajuda."::
+54512::$$$message_0483_0006_0000$$$::"...hmpf. E, como me irrita lembrar disso, vou te dizer agora.[lr]::
+54513::$$$message_0483_0006_0001$$$::    Sua verdadeira especialidade não é Fortalecimento, mas Projeção.[lr]::
+54514::$$$message_0483_0006_0002$$$::Não sei quando nem como você confundiu isso, mas você deveria ser um mago que cria coisas."[lr]::
+54515::$$$message_0483_0006_0003$$$::Tohsaka avança pelo corredor a passos firmes.::
+54516::$$$message_0483_0007_0000$$$::"Hm?"[lr]::
+54517::$$$message_0483_0007_0001$$$::Um pouco confuso, eu a sigo, e deixamos a histórica mansão Tohsaka.::

@@ -1,73 +1,72 @@
 DAT
 id=qid::label=str::text=lstr::
 53560::$$$message_0464_0000_0000$$$::"Que[line4]Caster não desapareceu?"[lr]::
-53561::$$$message_0464_0000_0001$$$::"Correto. Você derrotou-a dois dias atrás, certo?[lr]::
+53561::$$$message_0464_0000_0001$$$::"Isso. Você derrotou Caster dois dias atrás, certo?[lr]::
 53562::$$$message_0464_0000_0002$$$::Mas os incidentes de coma aconteceram de novo ontem.[lr]::
-53563::$$$message_0464_0000_0003$$$::...as pessoas que tiveram sua energia mágica sugada ontem estão num coma pior do que antes."::
+53563::$$$message_0464_0000_0003$$$::...E as pessoas drenadas estão em estado ainda pior do que antes."::
 53564::$$$message_0464_0001_0000$$$::"Não pode ser. Definitivamente..."[lr]::
 53565::$$$message_0464_0001_0001$$$::"Eu sei. Você não mentiria, e não acho que se enganou. ...mas Archer e eu vimos uma sombra que parecia a Caster quando fomos até a cena do crime ontem."::
-53566::$$$message_0464_0002_0000$$$::"......entendo. Então a Caster ainda está viva e coletando energia mágica pela cidade?"::
-53567::$$$message_0464_0003_0000$$$::"...não tenho certeza, mas parece que sim. Mas posso te dizer que a atmosfera no Templo Ryuudou mudou.[lr]::
+53566::$$$message_0464_0002_0000$$$::"...Entendo. Então Caster ainda está viva e reunindo energia pela cidade?"::
+53567::$$$message_0464_0003_0000$$$::"...Não posso afirmar com certeza, mas parece que sim. Também senti a atmosfera do Templo Ryuudou mudar.[lr]::
 53568::$$$message_0464_0003_0001$$$::Vocês dois derrotaram a Caster. Mas ela ainda existe. Tenho certeza disso."::
 53569::$$$message_0464_0004_0000$$$::...isso explica porque ela está diferente de ontem.::
-53570::$$$message_0464_0005_0000$$$::A Tohsaka deve estar questionando detalhes desta guerra.[lr]::
-53571::$$$message_0464_0005_0001$$$::Um Servo desparece quando seu Mestre é derrotado.[lr]::
+53570::$$$message_0464_0005_0000$$$::Tohsaka provavelmente começou a duvidar desta guerra.[lr]::
+53571::$$$message_0464_0005_0001$$$::Um Servo deveria desaparecer quando seu Mestre é derrotado.[lr]::
 53572::$$$message_0464_0005_0002$$$::Um Servo não pode evitar a morte neste mundo se for completamente derrotado.[lr]::
-53573::$$$message_0464_0005_0003$$$::Mas Caster ainda existe, embora tenha recebido ambas estas penalidades.[lr]::
-53574::$$$message_0464_0005_0004$$$::Ela é um "erro", que joga todos os fundamentos da Guerra do Santo Graal pela janela.::
-53575::$$$message_0464_0006_0000$$$::"[line3]Entendo. Então, o que acha?"[lr]::
-53576::$$$message_0464_0006_0001$$$::"Huh? Eu?"::
+53573::$$$message_0464_0005_0003$$$::As duas penalidades se aplicam a Caster, e ainda assim ela continua existindo.[lr]::
+53574::$$$message_0464_0005_0004$$$::É uma violação clara e fundamental das regras que sustentam a Guerra do Santo Graal.::
+53575::$$$message_0464_0006_0000$$$::"Certo. Então, o que você acha?"[lr]::
+53576::$$$message_0464_0006_0001$$$::"Hã? Eu?"::
 53577::$$$message_0464_0007_0000$$$::"Isso. Você acha estranho, né?[lr]::
-53578::$$$message_0464_0007_0001$$$::Não penso que você desistirá da Guerra do Santo Graal, mas não quer esclarecer isso da Caster antes de lutar pelo Santo Graal? Quer deixar a luta com outros Mestres de lado até certificar isso, certo?"::
+53578::$$$message_0464_0007_0001$$$::Duvido que você vá desistir desta guerra. Imagino que esteja mais preocupado em resolver a bagunça da Caster do que com a competição em si, mesmo que isso signifique adiar os duelos contra os outros Mestres."::
 53579::$$$message_0464_0008_0000$$$::"Está certo.[lr]::
-53580::$$$message_0464_0008_0001$$$::Esta Guerra do Santo Graal é suspeita. Parece diferente daquela que ouvi de meu pai. Acho que há algo diferente acontencendo onde não conseguimos ver."::
-53581::$$$message_0464_0009_0000$$$::...diferente, huh?[lr]::
-53582::$$$message_0464_0009_0001$$$::Não tenho a liberdade de pensar em tal coisa pois a própria Guerra em si é algo de outro mundo para mim.[lr]::
-53583::$$$message_0464_0009_0002$$$::Mas se uma Mestra legitíma como a Tohsaka se sente assim, deve ser verdade.::
+53580::$$$message_0464_0008_0001$$$::Esta Guerra do Santo Graal é suspeita demais. Parece diferente do que ouvi do meu pai. É como se... houvesse outra coisa acontecendo nos bastidores."::
+53581::$$$message_0464_0009_0000$$$::Outra coisa, hein...?[lr]::
+53582::$$$message_0464_0009_0001$$$::Para mim, que sou de fora desse mundo todo, nem tive o luxo de pensar nisso.[lr]::
+53583::$$$message_0464_0009_0002$$$::Mas, se uma Mestra legítima como Tohsaka acha isso, então deve haver algo errado.::
 53584::$$$message_0464_0010_0000$$$::"Então, Tohsaka..."[lr]::
-53585::$$$message_0464_0010_0001$$$::"Sim. Não seguirei as regras da Guerra do Santo Graal até ter certeza. Não posso evitar se estiver sendo usada, mas não gosto de desconhecer o mal que posso estar impondo sob os outros.[lr]::
-53586::$$$message_0464_0010_0002$$$::Você não gosta disso, né? Então não lutarei com outros Mestres até esclarecer isso."::
+53585::$$$message_0464_0010_0001$$$::"Não vou seguir as regras da Guerra do Santo Graal enquanto não estiver satisfeita com a forma como ela está funcionando. Não posso impedir que alguém se aproveite disso, mas não vou aceitar ser usada sem saber que mal posso estar causando aos outros.[lr]::
+53586::$$$message_0464_0010_0002$$$::Você também não gostaria disso, certo? Por isso vou suspender as lutas contra os outros Mestres até isso ser resolvido."::
 53587::$$$message_0464_0011_0000$$$::Ela declara sua posição.[lr]::
-53588::$$$message_0464_0011_0001$$$::Seus olhos mostram determinação, e ela parece estar pedindo a minha.::
-53589::$$$message_0464_0012_0000$$$::"Entendo. Posso entender isto como uma oferta de paz?"[lr]::
-53590::$$$message_0464_0012_0001$$$::"Se aceitá-la. Se não lutar comigo até isto estiver resolvido, não te atacarei também."::
-53591::$$$message_0464_0013_0000$$$::Tohsaka me pergunta silenciosamente com seus olhos.[lr]::
-53592::$$$message_0464_0013_0001$$$::Ela nem precisa perguntar.::
-53593::$$$message_0464_0014_0000$$$::"Essa fala é minha. Não lutarei contra você portanto que não me ataque.[lr]::
-53594::$$$message_0464_0014_0001$$$::...e mesmo se chegar a hora de lutarmos, será justa e honesta. Até lá[line4]"[lr]::
-53595::$$$message_0464_0014_0002$$$::Quero trabalhar com a Tohsaka.::
+53588::$$$message_0464_0011_0001$$$::Os olhos de Tohsaka não vacilam. Ao mesmo tempo, parecem pedir minha decisão.::
+53589::$$$message_0464_0012_0000$$$::"Certo. Então posso entender isso como uma oferta de trégua?"[lr]::
+53590::$$$message_0464_0012_0001$$$::"Depende de você. Se aceitar pausar as hostilidades até isso ser resolvido, também não vou ferir você."::
+53591::$$$message_0464_0013_0000$$$::Ela fixa em mim um olhar questionador.[lr]::
+53592::$$$message_0464_0013_0001$$$::Minha resposta, claro, já estava decidida desde o começo.::
+53593::$$$message_0464_0014_0000$$$::"Essa fala é minha. Não vou lutar contra você enquanto você não vier atrás de mim.[lr]::
+53594::$$$message_0464_0014_0001$$$::E, se a gente acabar lutando, será de forma justa e honesta. Até lá..."[lr]::
+53595::$$$message_0464_0014_0002$$$::...Eu sempre quis ter uma relação de cooperação com Tohsaka.::
 53596::$$$message_0464_0015_0000$$$::"Então está decidido. Esperava que concordasse, mas fico feliz em ouvir isso."[lr]::
-53597::$$$message_0464_0015_0001$$$::"Huh...?"[lr]::
+53597::$$$message_0464_0015_0001$$$::"Hã...?"[lr]::
 53598::$$$message_0464_0015_0002$$$::A Tohsaka estende sua mão direita.[lr]::
 53599::$$$message_0464_0015_0003$$$::Percebo que ela quer apertar as mãos, e...[lr]::
-53600::$$$message_0464_0015_0004$$$::"I-Isso. P-Por favor me dê seu melhor."[lr]::
-53601::$$$message_0464_0015_0005$$$::Tento suprimir a vermelhidão no rosto enquanto aperto sua mão.::
-53602::$$$message_0464_0016_0000$$$::"Certo, nosso contrato está firmado. Por favor me dê seu melhor também, Emiya-kun."::
-53603::$$$message_0464_0017_0000$$$::...Tohsaka aperta minha mão, firmemente.[lr]::
-53604::$$$message_0464_0017_0001$$$::Sua mão é macia, muito mais delicada do que a minhã.[lr]::
+53600::$$$message_0464_0015_0004$$$::"A-ah. Sim, fechado."[lr]::
+53601::$$$message_0464_0015_0005$$$::Tento ignorar o rubor repentino no rosto e estendo a mão direita.::
+53602::$$$message_0464_0016_0000$$$::"Temos um acordo. Vai ser por pouco tempo, mas conto com você, Emiya."::
+53603::$$$message_0464_0017_0000$$$::Tohsaka aperta minha mão com firmeza.[lr]::
+53604::$$$message_0464_0017_0001$$$::A mão dela é muito mais delicada que a minha. Seu toque é macio e levemente frio.[lr]::
 53605::$$$message_0464_0017_0002$$$::"[line8]!"[lr]::
-53606::$$$message_0464_0017_0003$$$::S-SOU UM IDIOTA!!! O QUE DIABOS ESTOU PENSANDO NUMA HORA DESSAS!!!!?::
+53606::$$$message_0464_0017_0003$$$::Q-que diabos eu estou pensando numa hora dessas!? Se controla, Shirou!!!::
 53607::$$$message_0464_0018_0000$$$::"...? O que foi, Emiya-kun? Começou a suar de repente. ...parece que seu coração acelerou também."[lr]::
-53608::$$$message_0464_0018_0001$$$::"...!? N-Não, é nada, só estou resfriado. Vou melhorar se eu comer. Ficarei melhor se comer, então vamos comer!"::
+53608::$$$message_0464_0018_0001$$$::"...!? N-não é nada. Só um resfriado. Vou melhorar quando comer! Então vamos almoçar!"::
 53609::$$$message_0464_0019_0000$$$::Rapidamente solto a mão da Tohsaka.[lr]::
-53610::$$$message_0464_0019_0001$$$::Então.[lr]::
-53611::$$$message_0464_0019_0002$$$::A expressão da Tohsaka se torna maligna.::
-53612::$$$message_0464_0020_0000$$$::"Ahhhh. Suspeitei quando nos encontramos pela última vez, mas parece que minha impressão estava correta. Parece que você é experiente, mas na verdade não é, huh?[lr]::
-53613::$$$message_0464_0020_0001$$$::É surpreendente, ou deveria dizer que é como eu esperava?[lr]::
-53614::$$$message_0464_0020_0002$$$::...entendo, entendo. Entendoooooo."::
-53615::$$$message_0464_0021_0000$$$::A Tohsaka Rin me analisa da cabeça aos pés.::
-53616::$$$message_0464_0022_0000$$$::"Q-Que? Fala logo o que quer. N-Não é bom ficar quieta!"[lr]::
-53617::$$$message_0464_0022_0001$$$::"É nadaaaaaaaaaa. Relaxa, é só que descobri mais uma coisinha sobre você. Ah, não vou dizê-la, então não precisa ficar assustado."::
-53618::$$$message_0464_0023_0000$$$::"...! N-Não estou assustado! Vá em frente e diga, se quiser!"[lr]::
+53610::$$$message_0464_0019_0001$$$::Infelizmente...[lr]::
+53611::$$$message_0464_0019_0002$$$::Isso só faz o rosto de Tohsaka se retorcer num sorriso diabólico.::
+53612::$$$message_0464_0020_0000$$$::"Ah-ha. Eu já tinha desconfiado na última vez que conversamos, mas agora entendi. Você parece acostumado a falar com garotas, mas na verdade não é, né?[lr]::
+53613::$$$message_0464_0020_0001$$$::Nem sei se devo ficar surpresa ou não, já que combina totalmente com você.[lr]::
+53614::$$$message_0464_0020_0002$$$::Hmm... hmm. Hmmm?"::
+53615::$$$message_0464_0021_0000$$$::Com um sorrisinho, Tohsaka me avalia da cabeça aos pés.::
+53616::$$$message_0464_0022_0000$$$::"Q-que foi? Se tem algo para dizer, diga logo. Não fica me deixando nessa."[lr]::
+53617::$$$message_0464_0022_0001$$$::"Ah, não é nada demais. Só sinto que entendo você um pouquinho melhor agora. Não se assuste[line2]não vou contar a ninguém."::
+53618::$$$message_0464_0023_0000$$$::"Não estou assustado! Se quiser contar para todo mundo, então vá em frente!"[lr]::
 53619::$$$message_0464_0023_0001$$$::"Ah, posso?"[lr]::
-53620::$$$message_0464_0023_0002$$$::Ela sorri.[lr]::
+53620::$$$message_0464_0023_0002$$$::Ela ri de leve.[lr]::
 53621::$$$message_0464_0023_0003$$$::Cara[line3]como um sorriso tão diabólico pode existir neste mundo?::
-53622::$$$message_0464_0024_0000$$$::"...não diga."[normal][lr]::
-53623::$$$message_0464_0024_0001$$$::"Que, não consegui te ouvir?"::
-53624::$$$message_0464_0025_0000$$$::"...me desculpa. Não diga nada. Acho que será um choque se eu ouvir. Acho que vou ficar mais acabado ainda se ouvir vindo de você."::
-53625::$$$message_0464_0026_0000$$$::"Sério? Então acho que não direi[line4]"[lr]::
+53622::$$$message_0464_0024_0000$$$::"...Não conte."[normal][lr]::
+53623::$$$message_0464_0024_0001$$$::"O quê? Não ouvi direito."::
+53624::$$$message_0464_0025_0000$$$::"...Desculpa. Não conte a ninguém. Acho que vou entrar em choque se você fizer isso. Principalmente vindo de você, seria duas ou três vezes pior."::
+53625::$$$message_0464_0026_0000$$$::"Ah. Então talvez eu não conte."[lr]::
 53626::$$$message_0464_0026_0001$$$::A Tohsaka recua com uma expressão de vitória.[lr]::
-53627::$$$message_0464_0026_0002$$$::E no instante que recupero minha paz de espírito...[lr]::
-53628::$$$message_0464_0026_0003$$$::"Você é do tipo que se masturba pensando na garota que gosta, né?"[lr]::
-53629::$$$message_0464_0026_0004$$$::"Você é do tipo que fica todo vermelho e incomodado por dividir uma garrafa com a garota que gosta, né?"[lr]::
-
+53627::$$$message_0464_0026_0002$$$::Levo um segundo para recuperar a compostura.[lr]::
+53628::$$$message_0464_0026_0003$$$::"Emiya, aposto que você é daqueles garotos que fica encarando a flauta que a garota de quem gosta toca."[lr]::
+53629::$$$message_0464_0026_0004$$$::"Você disse que não ia contar nada, sua demônia!!!"::

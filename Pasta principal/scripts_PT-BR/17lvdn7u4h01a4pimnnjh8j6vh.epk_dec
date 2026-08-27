@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 55697::$$$message_0494_0008_0001$$$::Existe um ar ao redor da casa que parece rejeitar qualquer um que se aproxime desse lugar.::
 55698::$$$message_0494_0009_0000$$$::"Por que você parou de repente? A minha casa é por aqui."[lr]::
 55699::$$$message_0494_0009_0001$$$::"S[w l=3][line3]Sim, eu sei. É que eu me senti meio intimidado."::
-55700::$$$message_0494_0010_0000$$$::"...Ah, sim. A minha casa é diferente da sua. Até alguém que não conhece nada sobre energia mágica sente que essa casa passa um ar de frieza."[lr]::
+55700::$$$message_0494_0010_0000$$$::"...Ah, sim. A minha casa é diferente da sua. Até alguém que não conhece nada sobre Energia Mágica sente que essa casa passa um ar de frieza."[lr]::
 55701::$$$message_0494_0010_0001$$$::A Tohsaka entra na casa, falando em um tom entediado.::
 55702::$$$message_0494_0011_0000$$$::"Ei, pode vir. Eu não tenho nenhuma armadilha ativada, não precisa ficar com medo."[lr]::
 55703::$$$message_0494_0011_0001$$$::Ela acena para mim da porta da frente.::
@@ -52,12 +52,12 @@ id=qid::label=str::text=lstr::
 55721::$$$message_0494_0021_0000$$$::"Eu faço o que quiser. Pode ficar lá embaixo descansando depois disso. Eu e ele fizemos um pacto, então você não precisa ficar me protegendo."[lr]::
 55722::$$$message_0494_0021_0001$$$::"[w l=3][line3]É verdade. Duvido que ele tenha coragem de te trair. Eu vou me preparar para hoje à noite."::
 55723::$$$message_0494_0022_0000$$$::Esse deve ser o Archer.[lr]::
-55724::$$$message_0494_0022_0001$$$::A sua presença deve ser mínima na forma espiritual. Eu não senti muita energia mágica vindo dele.::
+55724::$$$message_0494_0022_0001$$$::A presença dele deve ser mínima na forma espiritual. Não senti muita Energia Mágica vindo dele.::
 55725::$$$message_0494_0023_0000$$$::"...Eu estou surpreso. Não tinha percebido que o Archer estava aqui no quarto."[lr]::
-55726::$$$message_0494_0023_0001$$$::"Ele fica assim quando está na forma espiritual. Mesmo se o Archer tomar forma física, a energia mágica dele não vai vazar para fora de casa se ele permanecer aqui dentro. É fundamental que a oficina de um mago consiga esconder a sua energia mágica."::
+55726::$$$message_0494_0023_0001$$$::"Ele fica assim quando está na forma espiritual. Mesmo se Archer tomar forma física, a Energia Mágica dele não vai vazar para fora de casa se ele permanecer aqui dentro. É fundamental que a oficina de um mago consiga esconder sua Energia Mágica."::
 55727::$$$message_0494_0024_0000$$$::"Ah. Então na casa da família Makiri... ou melhor, da família Matou, também funciona assim?"[lr]::
-55728::$$$message_0494_0024_0001$$$::"Isso mesmo. Mas aquele lugar já não precisa mais esconder energia mágica. Se eles estão escondendo alguma energia mágica, seria a energia vazando do mago em si, e não da casa."::
-55729::$$$message_0494_0025_0000$$$::"Bem, de qualquer forma, não é difícil esconder a energia mágica. Eu levaria o Archer comigo para a escola também, mas já que não está totalmente recuperado, estou deixando ele descansar."::
+55728::$$$message_0494_0024_0001$$$::"Isso mesmo. Mas aquele lugar já não precisa mais esconder Energia Mágica. Se há alguma Energia Mágica escondida ali, é a energia vazando do próprio mago, não da casa."::
+55729::$$$message_0494_0025_0000$$$::"Bem, de qualquer forma, não é difícil esconder Energia Mágica. Eu levaria Archer comigo para a escola também, mas, já que ele não está totalmente recuperado, vou deixá-lo descansando."::
 55730::$$$message_0494_0026_0000$$$::A Tohsaka vasculha o baú enquanto faz uma cara preocupada.[lr]::
 55731::$$$message_0494_0026_0001$$$::...Parece que ela não está conseguindo achar o que está procurando. Será que ela é do tipo que não mantém as suas coisas organizadas?::
 55732::$$$message_0494_0027_0000$$$::"...Fala sério, porque o ferimento que ele recebeu da Saber não se cura igual aos outros? Tenho certeza que eles tinham algum tipo de conexão... Droga, por que eu fui encontrar a joia do meu mestre logo agora? Eu nunca consigo achá-la quando estou precisando, maldição!"::
@@ -98,8 +98,7 @@ id=qid::label=str::text=lstr::
 55767::$$$message_0494_0041_0002$$$::Era só uma fita qualquer. Por que eu fiquei tão curioso sobre ela?::
 55768::$$$message_0494_0042_0000$$$::"Estou brincando. Era isso o que eu queria dizer, mas fitas são especiais. É o último recurso para um mago. É um item mágico conveniente, portanto não há substitutos para ele."[lr]::
 55769::$$$message_0494_0042_0001$$$::"...Uau. Então aquela fita é uma espécie de item mágico?"::
-55770::$$$message_0494_0043_0000$$$::"Sim. Prender o cabelo é uma maneira de manter a energia mágica no lugar. Já que a minha família não possui Olhos Místicos, nós precisamos pelo menos preservar a nossa reserva de energia mágica do cabelo.[lr]::
+55770::$$$message_0494_0043_0000$$$::"Sim. Prender o cabelo é uma maneira de manter a Energia Mágica no lugar. Já que a minha família não possui Olhos Místicos, nós precisamos pelo menos preservar a reserva de Energia Mágica no cabelo.[lr]::
 55771::$$$message_0494_0043_0001$$$::Como isso é uma coisa que controla o seu corpo, é melhor que seja feita por você mesmo, não acha?"::
 55772::$$$message_0494_0044_0000$$$::"Aquela foi a primeira fita que eu fiz. Era a minha favorita, mas me separei dela por vários motivos.[lr]::
 55773::$$$message_0494_0044_0001$$$::...Bem, vamos deixar esse assunto de lado. Vou começar a sua consagração, então sente naquela cadeira[w l=3][line3]"::
-

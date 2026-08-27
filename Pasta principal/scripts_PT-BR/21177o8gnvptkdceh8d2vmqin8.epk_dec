@@ -4,7 +4,7 @@ id=qid::label=str::text=lstr::
 53165::$$$message_0459_0000_0001$$$::As nuvens, sopradas pelo vento forte, escondem a lua branca.::
 53166::$$$message_0459_0001_0000$$$::Saímos com cuidado para não acordar a Sakura.[lr]::
 53167::$$$message_0459_0001_0001$$$::São onze da noite[w l=3][line3]decidimos patrulhar mais cedo para compensar por ontem.::
-53168::$$$message_0459_0002_0000$$$::A cidade continou a sofrer enquanto minha guarda estava baixa depois da derrota da Caster.[lr]::
+53168::$$$message_0459_0002_0000$$$::A cidade continuou sofrendo enquanto minha guarda estava baixa depois da derrota de Caster.[lr]::
 53169::$$$message_0459_0002_0001$$$::Se Caster ainda vive e coleta energia das pessoas, terei que derrotá-la de vez hoje.::
 53170::$$$message_0459_0003_0000$$$::Descemos a colina até a interseção.[lr]::
 53171::$$$message_0459_0003_0001$$$::A questão é, para onde ir daqui[w l=4][line4]::
@@ -65,11 +65,11 @@ id=qid::label=str::text=lstr::
 53226::$$$message_0459_0022_0001$$$::E Archer não deve ser páreo para você, assim como a Caster, que foi derrotada sem fazer nada."::
 53227::$$$message_0459_0023_0000$$$::"É só isso que tem a dizer?[lr]::
 53228::$$$message_0459_0023_0001$$$::Enganar nós é o menor dos seus crimes.[lr]::
-53229::$$$message_0459_0023_0002$$$::Apesar da Caster ser nossa inimiga, ela é um espírito heroico escolhido como Servo. É bom ter a determinação apropriada se vai ficar brincando com o corpo dela assim."::
+53229::$$$message_0459_0023_0002$$$::Mesmo que Caster seja nossa inimiga, ela é um Espírito Heroico escolhido como Servo. Se vai brincar com o corpo dela desse jeito, é melhor ter a determinação adequada."::
 53230::$$$message_0459_0024_0000$$$::"Ah. Só peguei o lixo que ninguém se importava mais.[lr]::
 53231::$$$message_0459_0024_0001$$$::Não ligo de ser chamado de herético por conta disso, mas você ficaria no patamar de um a bruta se fosse o caso.[lr]::
 53232::$$$message_0459_0024_0002$$$::Você é a maior Serva, afinal.[lr]::
-53233::$$$message_0459_0024_0003$$$::Então seria melhor transformar você, ao invés desse corpo, na minha escrava. Deixarei os vermes te comerem viva e fazer com que seu destino seja igual ao deste corpo."::
+53233::$$$message_0459_0024_0003$$$::Então talvez seja melhor transformar você, e não este corpo, na minha escrava. Vou deixar os vermes devorarem você viva e fazer seu destino ser igual ao deste corpo."::
 53234::$$$message_0459_0025_0000$$$::"Seu."[lr]::
 53235::$$$message_0459_0025_0001$$$::"Kakaka, por que está irritada!? Servos são meras ferramentas! Não importa como são usados! O resultado é igual, independentemente se forem presos com Selos de Comando ou se usá-los como corpos! Então não é pelo seu bem se transformar numa boneca sem alma!?"::
 53236::$$$message_0459_0026_0000$$$::[w l=3][line3]Os dois Servos avançam.[lr]::
@@ -119,7 +119,7 @@ id=qid::label=str::text=lstr::
 53280::$$$message_0459_0042_0002$$$::Algo ruim chegou.[lr]::
 53281::$$$message_0459_0042_0003$$$::Então tenho que fugir.[lr]::
 53282::$$$message_0459_0042_0004$$$::Não posso me preocupar com aquela coisa.[lr]::
-53283::$$$message_0459_0042_0005$$$::Meu corpo entende institivamente, mas se recusa a mover-se.::
+53283::$$$message_0459_0042_0005$$$::Meu corpo entende instintivamente, mas se recusa a se mover.::
 53284::$$$message_0459_0043_0000$$$::Não adianta fugir.[lr]::
 53285::$$$message_0459_0043_0001$$$::Meu corpo sabe que não pode escapar.::
 53286::$$$message_0459_0044_0000$$$::"[w l=4][line4]"[lr]::
@@ -133,7 +133,7 @@ id=qid::label=str::text=lstr::
 53294::$$$message_0459_0046_0000$$$::Nunca vi nada assim antes.[lr]::
 53295::$$$message_0459_0046_0001$$$::Não possuí substância, é como se uma sombra tivesse levantado.[lr]::
 53296::$$$message_0459_0046_0002$$$::Sua existência é tão leve que poderia ser soprada para longe.::
-53297::$$$message_0459_0046_0003$$$::Mas ainda sim, sua presença domina o ambiente.::
+53297::$$$message_0459_0046_0003$$$::Mas, ainda assim, sua presença domina o ambiente.::
 53298::$$$message_0459_0047_0000$$$::Ela não possuí inteligência ou consciência, e provavelmente nem está viva.[lr]::
 53299::$$$message_0459_0047_0001$$$::Aquela sombra negra fica parada lá como uma miragem.[lr]::
 53300::$$$message_0459_0047_0002$$$::Então...::
@@ -154,11 +154,11 @@ id=qid::label=str::text=lstr::
 53315::$$$message_0459_0052_0004$$$::[w l=4][line4]É como um monstro das profundezas do oceano.[lr]::
 53316::$$$message_0459_0052_0005$$$::A sombra balança num mundo silencioso onde tudo está parado.::
 53317::$$$message_0459_0053_0000$$$::E...[lr]::
-53318::$$$message_0459_0053_0001$$$::Pela primeira vez, ela demonstra algo similiar a vontade.::
+53318::$$$message_0459_0053_0001$$$::Pela primeira vez, ela demonstra algo semelhante a vontade própria.::
 53319::$$$message_0459_0054_0000$$$::"Ah[w l=4][line4]"[lr]::
 53320::$$$message_0459_0054_0001$$$::Ela não tem olhos, membros ou um corpo.[lr]::
 53321::$$$message_0459_0054_0002$$$::E apesar disso tem uma sombra em sua base.[lr]::
-53322::$$$message_0459_0054_0003$$$::Circulada pela luz do luar, a sombra começa a se esticar e alongar.[lr]::
+53322::$$$message_0459_0054_0003$$$::Sob a luz da lua, a Sombra projeta uma sombra longa, cada vez mais longa.[lr]::
 53323::$$$message_0459_0054_0004$$$::Como uma cobra que encontrou sua presa, ela aponta para a Tohsaka [r]e[w l=4][line4]::
 53324::$$$message_0459_0055_0000$$$::"[w l=8][line8]"[lr]::
 53325::$$$message_0459_0055_0001$$$::Desatenta a mudança, Tohsaka não reage.[lr]::
@@ -173,12 +173,12 @@ id=qid::label=str::text=lstr::
 53334::$$$message_0459_0058_0002$$$::No instante em que a empurro, algo me encobre.[lr]::
 53335::$$$message_0459_0058_0003$$$::Um som espirrante, e uma sensação de algo tentando esmagar meu corpo.::
 53336::$$$message_0459_0059_0000$$$::"[w l=4][line4], [w l=4][line4]Ah."::
-53337::$$$message_0459_0060_0000$$$::Meu presentimento não estava errado.[lr]::
+53337::$$$message_0459_0060_0000$$$::Meu pressentimento não estava errado.[lr]::
 53338::$$$message_0459_0060_0001$$$::Água cobre meu corpo, e agora estou afundando no oceano.::
 53339::$$$message_0459_0061_0000$$$::Mas está quente demais.[lr]::
 53340::$$$message_0459_0061_0001$$$::Esta água está quente demais.[lr]::
 53341::$$$message_0459_0061_0002$$$::Alcatrão de carvão fervente.[lr]::
-53342::$$$message_0459_0061_0003$$$::Ela gruda em minha pele e corta minha vida, e não sinto como se estivesse no mar.::
+53342::$$$message_0459_0061_0003$$$::Ela gruda na minha pele, interrompendo minhas funções vitais básicas. Mais do que estar submerso, é como se...::
 53343::$$$message_0459_0062_0000$$$::"Ah[w l=4][line4]guh."[lr]::
-53344::$$$message_0459_0062_0001$$$::Me sinto mal.::
-53345::$$$message_0459_0062_0002$$$::I feel nauseous. Repulsed. Nauseous. HAHAHA! R-repulsed. N-n-nau[line2][lr]�.iO
+53344::$$$message_0459_0062_0001$$$::Sinto náusea. Nojo.[lr]::
+53345::$$$message_0459_0062_0002$$$::Sinto náusea. Nojo. Náusea. HAHAHA! N-nojo. N-n-náu[line2][lr]::
