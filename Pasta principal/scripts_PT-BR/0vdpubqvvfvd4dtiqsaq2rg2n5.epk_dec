@@ -15,7 +15,7 @@ id=qid::label=str::text=lstr::
 26467::$$$message_0227_0004_0002$$$::"Hã? Inacreditável. Se é mago, devia pelo menos ter material de laboratório em casa."[lr]::
 26468::$$$message_0227_0004_0003$$$::Depois de reclamar, ela volta ocupada para o anexo.::
 26469::$$$message_0227_0005_0000$$$::"...A Tohsaka parece mesmo estar falando sério."[lr]::
-26470::$$$message_0227_0005_0001$$$::Ao que tudo indica, já está decidido que ela vai passar a noite aqui.[lr]::
+26470::$$$message_0227_0005_0001$$$::Ao que tudo indica, já está decidido que a Tohsaka vai ficar morando aqui.[lr]::
 26471::$$$message_0227_0005_0002$$$::Quando fui ao quarto de hóspedes do anexo mais cedo, o melhor quarto já estava ocupado por ela.[lr]::
 26472::$$$message_0227_0005_0003$$$::Ela até colocou uma placa dizendo: [r]::
 26473::$$$message_0227_0005_0004$$$::"Em reforma. Entrada proibida."::
@@ -60,7 +60,7 @@ id=qid::label=str::text=lstr::
 26512::$$$message_0227_0018_0001$$$::"É sobre o jantar. Shirou, você vinha morando sozinho esse tempo todo, né?"[lr]::
 26513::$$$message_0227_0018_0002$$$::"...? Bom, é."[lr]::
 26514::$$$message_0227_0018_0003$$$::"Então foi você mesmo que vinha fazendo as próprias refeições, certo?"[lr]::
-26515::$$$message_0227_0018_0004$$$::"Claro. Se eu não fizer, eu fico com fome.":: 
+26515::$$$message_0227_0018_0004$$$::"Claro. Se eu não comer, fico com fome.":: 
 26516::$$$message_0227_0019_0000$$$::"Entendo. Então tenho uma proposta. Que tal fazermos turnos pra preparar o jantar? Estaremos vivendo juntos por um tempo, então isso seria útil, né?"[lr]::
 26517::$$$message_0227_0019_0001$$$::"...Hmm. É, faz sentido. Eu tava pensando no automático de sempre, mas se a Tohsaka vai morar aqui, então é como se fosse da família. Fazer comida é o mínimo, e pra mim também fica mais fácil.":: 
 26518::$$$message_0227_0020_0000$$$::"Então está decidido. Hoje, o jantar fica por conta do Shirou.[lr]::
@@ -79,13 +79,13 @@ id=qid::label=str::text=lstr::
 26531::$$$message_0227_0024_0002$$$::Eu tinha posto o arroz pra cozinhar quando acordei, então deve ficar pronto em mais uns trinta minutos.::
 26532::$$$message_0227_0025_0000$$$::Espio a Saber e a Tohsaka da cozinha.[lr]::
 26533::$$$message_0227_0025_0001$$$::"...Hum."[lr]::
-26534::$$$message_0227_0025_0002$$$::Por mais que eu olhe, elas parecem preferir culinária ocidental do que comida japonesa.[lr]::
+26534::$$$message_0227_0025_0002$$$::Olhando pras duas, elas tem muito mais cara de culinária ocidental do que japonesa[lr]::
 26535::$$$message_0227_0025_0003$$$::A Tohsaka até vai, mas no caso da Saber, eu tenho sérias dúvidas se ela vai entender o sabor de tofu e natto.::
 26536::$$$message_0227_0026_0000$$$::"Não, pensando bem, será que a Saber sequer sabe usar hashi?"[lr]::
 26537::$$$message_0227_0026_0001$$$::Chego a hesitar um pouco, mas não adianta ficar pensando nisso.[lr]::
 26538::$$$message_0227_0026_0002$$$::De qualquer forma, com esses ingredientes, também não dá pra fazer muita coisa.::
 26539::$$$message_0227_0027_0000$$$::Pra começo de conversa, tinha tofu sobrando.[lr]::
-26540::$$$message_0227_0027_0001$$$::Depois de pensar um pouco, decido fazer um pouco de tofu bem-frito. Pra sopa, vou fazer sopa de miso com algas marinhas e tofu.[lr]::
+26540::$$$message_0227_0027_0001$$$::Primeiro, agedashi tofu. Para a sopa, um missoshiru simples de tofu e wakame[lr]::
 26541::$$$message_0227_0027_0002$$$::Também tem um frango já preparado, então vou fazer um teriyaki com ele e usar como prato principal.::
 26542::$$$message_0227_0028_0000$$$::Escorro a água do tofu, tempero o frango e, nesse meio-tempo, corto o daikon em tiras compridas pra fazer uma salada crocante. Ralo mais daikon pra fazer o molho e refogo os shishitos[line4]:: 
 26543::$$$message_0227_0029_0000$$$::"Você já decidiu o que fazer daqui pra frente, Rin?"[lr]::
@@ -127,7 +127,7 @@ id=qid::label=str::text=lstr::
 26579::$$$message_0227_0044_0001$$$::"[line4]"[lr]::
 26580::$$$message_0227_0044_0002$$$::Sei lá, isso me incomoda.[lr]::
 26581::$$$message_0227_0044_0003$$$::A pessoa aqui fazendo o jantar com toda a seriedade sou eu, então que intenção é essa de me deixar de lado e ficar conversando sem mim?:: 
-26582::$$$message_0227_0045_0000$$$::E, além disso, a Tohsaka está casual demais com a Saber.[lr]::
+26582::$$$message_0227_0045_0000$$$::E, além disso, a Tohsaka tá íntima demais da Saber.[lr]::
 26583::$$$message_0227_0045_0001$$$::...Não, quer dizer, é verdade que eu mesmo não consigo falar com a Saber desse jeito, então se a Tohsaka vai conversar com ela por mim, isso até facilita, mas[line4]:: 
 26584::$$$message_0227_0046_0000$$$::"[line4]Hm?"[lr]::
 26585::$$$message_0227_0046_0001$$$::O rosto refletido no vidro do armário estava com as sobrancelhas franzidas.[lr]::
@@ -227,7 +227,7 @@ id=qid::label=str::text=lstr::
 26679::$$$message_0227_0076_0000$$$::"...Entendido. Se é o que meu Mestre diz, então obedecerei."[lr]::
 26680::$$$message_0227_0076_0001$$$::A Saber assentiu, embora sem parecer convencida.::
 26681::$$$message_0227_0077_0000$$$::A noite vai avançando.[lr]::
-26682::$$$message_0227_0077_0001$$$::Enquanto eu estava arrumando tudo, a Tohsaka aparentemente foi lá e encheu a banheira por conta própria.[lr]::
+26682::$$$message_0227_0077_0001$$$::Enquanto eu estava arrumando tudo, a Tohsaka preparou o banho e entrou sem nem me avisar.[lr]::
 26683::$$$message_0227_0077_0002$$$::Francamente, já no primeiro dia ela está fazendo o que bem entende.::
 26684::$$$message_0227_0078_0000$$$::"...Pensando no futuro, eu devia tomar a iniciativa logo de uma vez..."[lr]::
 26685::$$$message_0227_0078_0001$$$::É o que eu sei, mas tenho a sensação de que tirar a iniciativa das mãos dela vai ser absurdamente difícil.::
@@ -240,7 +240,7 @@ id=qid::label=str::text=lstr::
 26692::$$$message_0227_0081_0000$$$::Na sala de estar, só sobrou eu.[lr]::
 26693::$$$message_0227_0081_0001$$$::Ainda falta um tempo até dormir, então talvez fosse melhor aproveitar agora e tentar conversar um pouco com a Saber.[lr]::
 26694::$$$message_0227_0081_0002$$$::...Pra falar a verdade, se eu não superar pelo menos um pouco esse desconforto, o que vem pela frente vai ficar difícil demais.::
-26695::$$$message_0227_0082_0000$$$::Afinal, Servo ou não, ela é só uma garota jovem.[lr]::
+26695::$$$message_0227_0082_0000$$$::Afinal, Servo ou não, ela é uma garota mais nova do que eu.[lr]::
 26696::$$$message_0227_0082_0001$$$::Se a gente conversar, talvez eu consiga entender várias coisas. E, acima de tudo,:: 
 26697::$$$message_0227_0083_0000$$$::"...Se eu não me acostumar logo, a Tohsaka vai ficar me zoando pra sempre..."[lr]::
 26698::$$$message_0227_0083_0001$$$::É, isso seria um problema.[lr]::

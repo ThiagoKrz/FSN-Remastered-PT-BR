@@ -20,7 +20,7 @@ id=qid::label=str::text=lstr::
 25724::$$$message_0222_0004_0002$$$::Não importa o que eu ache disso: agora que fui envolvido, vou ter de superar os outros para continuar vivo.[lr]::
 25725::$$$message_0222_0004_0003$$$::E, dependendo do método usado para eliminar a concorrência, até pessoas inocentes podem acabar sendo feridas.::
 25726::$$$message_0222_0005_0000$$$::É por isso que...[lr]::
-25727::$$$message_0222_0005_0001$$$::   [font italic=true]Alegre-se, rapaz.[font italic=false][lr]::
+25727::$$$message_0222_0005_0001$$$::   [font italic=true]Alegre-se, Emiya Shirou.[font italic=false][lr]::
 25728::$$$message_0222_0005_0002$$$::Minha razão para lutar nesta Guerra do Santo Graal não é sobreviver nem vencer.[lr]::
 25729::$$$message_0222_0005_0003$$$::   [font italic=true]Seu desejo finalmente será realizado.[font italic=false][lr]::
 25730::$$$message_0222_0005_0004$$$::É fazer tudo o que eu puder para impedir aqueles que tentarem vencer a qualquer custo.::
@@ -86,12 +86,12 @@ id=qid::label=str::text=lstr::
 25790::$$$message_0222_0023_0000$$$::Entro numa sala fechada, sem qualquer ornamentação.[lr]::
 25791::$$$message_0222_0023_0001$$$::Não é um cômodo para morar, e sim um dojô feito unicamente para o treinamento.[lr]::
 25792::$$$message_0222_0023_0002$$$::o interior daquela sala tranquila, iluminada pela luz do sol...::
-25793::$$$message_0222_0024_0000$$$::...ela está sentada ali, como se sempre tivesse pertencido àquele lugar.::
+25793::$$$message_0222_0024_0000$$$::...ela simplesmente estava ali, como se aquilo fosse a coisa mais natural do mundo.::
 25794::$$$message_0222_0025_0000$$$::[font italic=true]...[font italic=false][lr]::
 25795::$$$message_0222_0025_0001$$$::O lugar está em absoluto silêncio, sereno.[lr]::
 25796::$$$message_0222_0025_0002$$$::A luz que entra é branca e pura, como se fundisse a garota e o dojô numa coisa só.::
 25797::$$$message_0222_0026_0000$$$::É a mesma garota que, sem hesitar, empunhou a espada para me proteger do Lancer sob o luar da noite passada.[lr]::
-25798::$$$message_0222_0026_0001$$$::Aquela juba dourada, que antes absorvia a luz azulada da lua, agora brilha suavemente sob o sol.::
+25798::$$$message_0222_0026_0001$$$::Aqueles cabelos de areia dourada, que antes absorvia a luz azulada da lua, agora brilha suavemente sob o sol.::
 25799::$$$message_0222_0027_0000$$$::[font italic=true]...[font italic=false][lr]::
 25800::$$$message_0222_0027_0001$$$::E então eu me lembro.[lr]::
 25801::$$$message_0222_0027_0002$$$::Foi exatamente assim que me senti quando a vi pela primeira vez.[lr]::
@@ -109,10 +109,10 @@ id=qid::label=str::text=lstr::
 25813::$$$message_0222_0030_0003$$$::Minha voz sai com um tom de desapontamento e ecoa pelo dojô em meio ao silêncio.[lr]::
 25814::$$$message_0222_0030_0004$$$::Percebendo isso, Saber se põe de pé sem fazer um único ruído.::
 25815::$$$message_0222_0031_0000$$$::"..."[lr]::
-25816::$$$message_0222_0031_0001$$$::Antes mesmo que eu consiga pensar no que dizer, ela começa a caminhar em minha direção.::
+25816::$$$message_0222_0031_0001$$$::Antes mesmo que eu consiga pensar no que dizer, caminho até ela.::
 25817::$$$message_0222_0032_0000$$$::"Você acordou, Shirou."[lr]::
 25818::$$$message_0222_0032_0001$$$::Sua voz é calma.[lr]::
-25819::$$$message_0222_0032_0002$$$::Há algo de profundo e sereno em sua voz que permanece no ar.::
+25819::$$$message_0222_0032_0002$$$::Sua voz ressoa suavemente, como se penetrasse em mim. Ela combina com aquele dojo.::
 25820::$$$message_0222_0033_0000$$$::"Sim. Acabei de acordar."[lr]::
 25821::$$$message_0222_0033_0001$$$::Pelo menos consegui responder.::
 25822::$$$message_0222_0034_0000$$$::"Shirou? Há algo errado? Talvez você ainda não esteja totalmente recuperado...?"[lr]::
@@ -146,7 +146,7 @@ id=qid::label=str::text=lstr::
 25850::$$$message_0222_0045_0000$$$::"O-O quê?! Se eu não tivesse interferido, você teria sido cortada ao meio!"[lr]::
 25851::$$$message_0222_0045_0001$$$::"Talvez eu tivesse morrido. Mas você não teria se ferido. Vou repetir: não faça isso de novo. Meu Mestre não precisa me proteger, e não há razão para fazê-lo."::
 25852::$$$message_0222_0046_0000$$$::A garota fala com total franqueza.[lr]::
-25853::$$$message_0222_0046_0001$$$::Ela é... extremamente formal.[lr]::
+25853::$$$message_0222_0046_0001$$$::Ela fala de um jeito tão impessoal que...[lr]::
 25854::$$$message_0222_0046_0002$$$::"N-Não fala besteira! Eu não preciso de motivo nenhum para proteger uma garota!"[lr]::
 25855::$$$message_0222_0046_0003$$$::As palavras escapam antes mesmo que eu possa pensar.::
 25856::$$$message_0222_0047_0000$$$::Saber enrijece, como se estivesse surpresa por me ver irritado com ela.::
@@ -197,11 +197,11 @@ id=qid::label=str::text=lstr::
 25901::$$$message_0222_0063_0000$$$::[font italic=true]...[font italic=false][lr]::
 25902::$$$message_0222_0063_0001$$$::Ela tem razão.[lr]::
 25903::$$$message_0222_0063_0002$$$::Essa é justamente a razão de a Saber ser minha Serva.[lr]::
-25904::$$$message_0222_0063_0003$$$::Se é assim, então o mínimo que posso fazer é respeitar, Não melhor que puder, as decisões e necessidades dela.::
+25904::$$$message_0222_0063_0003$$$::Então só me resta fazer o possível para não sobrecarregar a Saber.::
 25905::$$$message_0222_0064_0000$$$::"Entendi. Então você aceita que eu seja seu Mestre."[lr]::
 25906::$$$message_0222_0064_0001$$$::"Sim. Mas também quero que saiba que não permitirei que meu Mestre seja derrotado.[lr]::
 25907::$$$message_0222_0064_0002$$$::Se você não tiver chance de vencer, então eu criarei uma.[lr]::
-25908::$$$message_0222_0064_0003$$$::Usarei todas as oportunidades ao meu alcance para que você obtenha o Santo Graal."::
+25908::$$$message_0222_0064_0003$$$::Usarei todos os meios possíveis para que você obtenha o Santo Graal."::
 25909::$$$message_0222_0065_0000$$$::Obter o Santo Graal...[lr]::
 25910::$$$message_0222_0065_0001$$$::A Tohsaka disse que os Servos também têm desejos que querem ver realizados.[lr]::
 25911::$$$message_0222_0065_0002$$$::A Saber não deve ser exceção.[lr]::

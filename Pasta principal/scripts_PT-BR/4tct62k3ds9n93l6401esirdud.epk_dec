@@ -275,7 +275,7 @@ id=qid::label=str::text=lstr::
 33169::$$$message_0265_0094_0002$$$::Para vencer, a forma mais eficaz de eliminar um Servo é matar o Mestre, e não o Servo...::
 33170::$$$message_0265_0095_0000$$$::"...Entendi. Para eliminar o Servo, derrotar o Mestre é mais rápido.[lr]::
 33171::$$$message_0265_0095_0001$$$::Mas então me diga uma coisa. Se um Servo for derrotado primeiro, o Mestre dele deixa de ser um Mestre? Só Servos podem tocar o Santo Graal, certo? Então Mestres que perderam seus Servos não teriam mais utilidade."::
-33172::$$$message_0265_0096_0000$$$::"Não. Enquanto tiverem Selos de Comando, seus direitos como Mestres e sua capacidade de formar contratos permanecem. Enquanto tiverem a marca, são livres para contrair contrato com qualquer outro Servo."::
+33172::$$$message_0265_0096_0000$$$::"Não. Enquanto tiverem Selos de Comando, seus direitos como Mestres e sua capacidade de formar contratos permanecem. Enquanto tiverem o Selo de Comando, é possível fazer um contrato com qualquer outro Servo."::
 33173::$$$message_0265_0097_0000$$$::"Um Servo que perde seu Mestre não desaparece imediatamente. Ele permanece neste mundo até que toda a energia mágica de seu corpo se esgote. Se encontrar um Mestre privado de seu Servo, pode formar um novo contrato e retornar ao campo de batalha.[lr]::
 33174::$$$message_0265_0097_0001$$$::É por isso que Mestres matam outros Mestres. Se você os deixar viver, há a possibilidade de se tornarem um obstáculo no futuro."::
 33175::$$$message_0265_0098_0000$$$::"...E se você gastar todos os seus Selos de Comando? Então não poderá mais formar contratos com outros Servos, e Servos libertos poderão ir com outros Mestres também."[lr]::
@@ -362,8 +362,8 @@ id=qid::label=str::text=lstr::
 33256::$$$message_0265_0128_0000$$$::"Não precisa se preocupar. Fico melhor depois de ver a cara engraçada que você está fazendo."[lr]::
 33257::$$$message_0265_0128_0001$$$::"...Ei. O que isso quer dizer?"[lr]::
 33258::$$$message_0265_0128_0002$$$::"Não quero dizer nada com isso. Foi literalmente o que eu disse, então não se preocupe."::
-33259::$$$message_0265_0129_0000$$$::"Tá bom... Ei. Isso conseguiu ser ainda pior, sua cabeça-dura!"[lr]::
-33260::$$$message_0265_0129_0001$$$::E então a suposta aluna exemplar número um da escola, Rin Tohsaka, me acerta na cabeça.[lr]::
+33259::$$$message_0265_0129_0000$$$::"Tá bom... Ei. Isso conseguiu ser ainda pior, seu cabeça-dura!"[lr]::
+33260::$$$message_0265_0129_0001$$$::E então a suposta aluna exemplar número um da escola, T, me acerta na cabeça.[lr]::
 33261::$$$message_0265_0129_0002$$$::O que acaba sendo suficiente.[lr]::
 33262::$$$message_0265_0129_0003$$$::A náusea e a raiva de antes desaparecem por completo.::
 33263::$$$message_0265_0130_0000$$$::"...Obrigado. Estou falando sério, Tohsaka, ajudou bastante. Mas ainda tenho algumas coisas para perguntar, então segura o resto aí por um segundo."[lr]::
@@ -410,7 +410,7 @@ id=qid::label=str::text=lstr::
 33304::$$$message_0265_0144_0004$$$::Mas... é realmente isso que eu quero?::
 33305::$$$message_0265_0145_0000$$$::"Você ainda está indeciso?[lr]::
 33306::$$$message_0265_0145_0001$$$::Entenda que ninguém se torna um Mestre só porque quer. Rin treina como maga há muito tempo, mas isso não quer dizer que estava predestinado que ela se tornaria um Mestre.[lr]::
-33307::$$$message_0265_0145_0002$$$::Tudo o que ela podia fazer era decidir se se prepararia ou não caso a oportunidade surgisse."::
+33307::$$$message_0265_0145_0002$$$::Tudo o que ela podia fazer era decidir entre se preparar ou não caso a oportunidade surgisse."::
 33308::$$$message_0265_0146_0000$$$::"Apenas magos são escolhidos como Mestres. Se você é um mago, já deveria estar preparado.[lr]::
 33309::$$$message_0265_0146_0001$$$::Se não estava, então suponho que nada mais possa ser feito.[lr]::
 33310::$$$message_0265_0146_0002$$$::Tanto você quanto seu instrutor são fracassos. Seria um incômodo um mago como você entrar em batalha, então deveria remover seus Selos de Comando agora mesmo."::

@@ -65,7 +65,7 @@ id=qid::label=str::text=lstr::
 15070::$$$message_0140_0017_0001$$$::Mesmo pensando tudo isso, não consigo me livrar dessa sensação de ansiedade.[lr]::
 15071::$$$message_0140_0017_0002$$$::Não é a mesma sensação de morte certa e inevitável que eu sentia diante do Berserker.[lr]::
 15072::$$$message_0140_0017_0003$$$::É só uma repulsa instintiva a ela ou um aviso de que algo perigoso vai acontecer?[lr]::
-15073::$$$message_0140_0017_0004$$$::Esqueça a mim... por algum motivo, minha mão esquerda pulsa como se tentasse me avisar de que a Saber deve ficar longe daquela coisa.::
+15073::$$$message_0140_0017_0004$$$::Esqueça de mim... por algum motivo, minha mão esquerda pulsa como se tentasse me avisar de que a Saber deve ficar longe daquela coisa.::
 15074::$$$message_0140_0018_0000$$$::"Gh[line2]!?"[lr]::
 15075::$$$message_0140_0018_0001$$$::Hesitei por tempo demais.[lr]::
 15076::$$$message_0140_0018_0002$$$::A Saber se lança contra a sombra escura.::
@@ -79,15 +79,15 @@ id=qid::label=str::text=lstr::
 15084::$$$message_0140_0020_0002$$$::"O quê...!?"[lr]::
 15085::$$$message_0140_0020_0003$$$::Ouço... e até sinto um impacto tremendo.[lr]::
 15086::$$$message_0140_0020_0004$$$::O chão cede como se algo gigantesco tivesse despencado sobre a Saber de cima.::
-15087::$$$message_0140_0021_0000$$$::"Não é possível... ela ativou algum tipo de Magia sem mover um músculo sequer!?"[lr]::
+15087::$$$message_0140_0021_0000$$$::"Não é possível... ela ativou algum tipo de magia sem mover um músculo sequer!?"[lr]::
 15088::$$$message_0140_0021_0001$$$::Na verdade, acho que ela murmurou algo parecido com um encantamento...[lr]::
-15089::$$$message_0140_0021_0002$$$::Encantamentos podem ser encurtados. Quanto mais simples a Magia, mais curta a fórmula pode ser.::
-15090::$$$message_0140_0022_0000$$$::Mas isso não é, de [font italic=true]forma alguma[font italic=false], uma Magia simples.[lr]::
+15089::$$$message_0140_0021_0002$$$::Encantamentos podem ser encurtados. Quanto mais simples a magia, mais curta a fórmula pode ser.::
+15090::$$$message_0140_0022_0000$$$::Mas isso não é, de [font italic=true]forma alguma[font italic=false], uma magia simples.[lr]::
 15091::$$$message_0140_0022_0001$$$::Poucos magos conseguiriam visualizar algo assim em um único fôlego.[lr]::
 15092::$$$message_0140_0022_0002$$$::Mesmo que isso fosse possível, ainda seria preciso preparar um catalisador de antemão, como a Tohsaka faz.::
-15093::$$$message_0140_0023_0000$$$::Mas Caster ativou a Magia com uma única palavra murmurada.[lr]::
+15093::$$$message_0140_0023_0000$$$::Mas Caster ativou uma Grande Magia com uma única palavra murmurada.[lr]::
 15094::$$$message_0140_0023_0001$$$::Nunca sequer ouvi falar de algo assim.[lr]::
-15095::$$$message_0140_0023_0002$$$::Se isso é a Magia da Caster, então ela não é uma simples maga.::
+15095::$$$message_0140_0023_0002$$$::Se isso é a magia da Caster, então ela não é uma simples maga.::
 15096::$$$message_0140_0024_0000$$$::"Saber!!!"[lr]::
 15097::$$$message_0140_0024_0001$$$::A Saber permanece ali, imóvel.[lr]::
 15098::$$$message_0140_0024_0002$$$::Os pés dela ainda se debatem no ar.[lr]::
@@ -102,9 +102,9 @@ id=qid::label=str::text=lstr::
 15107::$$$message_0140_0027_0001$$$::A Saber continua suspensa no ar, impotente.::
 15108::$$$message_0140_0028_0000$$$::"Oh? Então é só isso de que você é capaz, Caster?"::
 15109::$$$message_0140_0029_0000$$$::Ela descarta aquilo como se fosse um truque sem graça.::
-15110::$$$message_0140_0030_0000$$$::"Resistência Mágica!? Repele até a minha Magia!?"[lr]::
+15110::$$$message_0140_0030_0000$$$::"Resistência Mágica!? Repele até a minha magia!?"[lr]::
 15111::$$$message_0140_0030_0001$$$::Caster recua.[lr]::
-15112::$$$message_0140_0030_0002$$$::Depois de anular casualmente a Magia da Caster, Saber avança contra ela à velocidade de um raio.::
+15112::$$$message_0140_0030_0002$$$::Depois de anular casualmente a magia da Caster, Saber avança contra ela à velocidade de um raio.::
 15113::$$$message_0140_0031_0000$$$::[font italic=true]...[font italic=false][lr]::
 15114::$$$message_0140_0031_0001$$$::Mas eu...[lr]::
 

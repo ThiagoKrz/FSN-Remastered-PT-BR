@@ -34,7 +34,7 @@ id=qid::label=str::text=lstr::
 32149::$$$message_0259_0007_0002$$$::"No que você estava pensando!? Eu não mandei você fugir? Ficou surdo!?"[lr]::
 32150::$$$message_0259_0007_0003$$$::Ela está furiosa.::
 32151::$$$message_0259_0008_0000$$$::"Eu... ouvi, mas não posso simplesmente fugir, posso?"::
-32152::$$$message_0259_0009_0000$$$::"Quê!? Como foi que você chegou a essa conclusão!? Não está vendo que você não sabe lutar e só está atrapalhando!? Se morresse tentando fazer alguma diferença,[se file=se275 nowait=true][quake time=1000 vmax=15 hmax=10] ainda vá lá. Mas, se for morto antes mesmo de conseguir fazer qualquer coisa, aí vai ter morrido em vão!"::
+32152::$$$message_0259_0009_0000$$$::"Quê!? Como foi que você chegou a essa conclusão!? Não está vendo que você não sabe lutar e só está atrapalhando!? Se você morresse tentando fazer alguma diferença,[se file=se275 nowait=true][quake time=1000 vmax=15 hmax=10] então não tem o que fazer. Mas, se for morto antes mesmo de conseguir fazer qualquer coisa, aí vai ter morrido em vão!"::
 32153::$$$message_0259_0010_0000$$$::"...?"[lr]::
 32154::$$$message_0259_0010_0001$$$::...Não sei por quê, mas a Tohsaka está furiosa.[lr]::
 32155::$$$message_0259_0010_0002$$$::Estranhamente, não fico chateado com ela por estar gritando comigo.::

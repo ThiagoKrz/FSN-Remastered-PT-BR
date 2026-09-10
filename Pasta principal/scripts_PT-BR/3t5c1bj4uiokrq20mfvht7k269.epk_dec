@@ -11,19 +11,19 @@ id=qid::label=str::text=lstr::
 51676::$$$message_0445_0001_0005$$$::Ela range os dentes.[lr]::
 51677::$$$message_0445_0001_0006$$$::A escuridão está ajudando ela já que ela não enxerga bem.[lr]::
 51678::$$$message_0445_0001_0007$$$::O ar nesta sala tem um cheiro podrido de planta.::
-51679::$$$message_0445_0001_0008$$$::"...Que cheiro é esse? Pode me dizer, Archer?"[lr]::
+51679::$$$message_0445_0001_0008$$$::"...Que cheiro é esse? Archer, consegue me dizer?"[lr]::
 51680::$$$message_0445_0001_0009$$$::Abrindo a porta e as janelas, ela pergunta para alguém atrás dela.[lr]::
 51681::$$$message_0445_0001_0010$$$::Não há ninguém ali.[lr]::
 51682::$$$message_0445_0001_0011$$$::Mas há uma presença mais densa que o ar atrás dela.::
 51683::$$$message_0445_0001_0012$$$::"Deve ser unguento de bruxa[line2]o tipo feito de umbelíferas que destrói o amor."[lr]::
-51684::$$$message_0445_0001_0013$$$::"Isso é Cicuta, não é? 'Destruir o amor'... ah, então é isso. Será que a pessoa que armou esse desastre guarda algum tipo de rancor contra os homens?"
+51684::$$$message_0445_0001_0013$$$::"Isso é feito de cicuta, não é? 'Destruir o amor'... ah, então é isso. Será que a pessoa que armou esse desastre guarda algum tipo de rancor contra os homens?"::
 51685::$$$message_0445_0001_0014$$$::"Então deve ser uma mulher. Não sei que rancor ela tem, mas deve ser um dos grandes para continuar atacando pessoas mesmo após virar uma Serva."[lr]::
 51686::$$$message_0445_0001_0015$$$::"Pare de falar e abra a janela. ...Ainda estão respirando, acho que não faz diferença se forem achados hoje ou amanhã.[lr]::
 51687::$$$message_0445_0001_0016$$$::Vamos sair daqui quando terminamos, Archer."::
 51688::$$$message_0445_0001_0017$$$::Ela abre a janela e cuida dos mais afetados. Depois disso, ela vai embora.[lr]::
 51689::$$$message_0445_0001_0018$$$::"...Droga. Preciso lavar minha roupa a seco."[lr]::
 51690::$$$message_0445_0001_0019$$$::Ela cheira o casaco.[lr]::
-51691::$$$message_0445_0001_0020$$$::Ela não o tocou em particular, mas o casaco dela cheira como ferrugem.[lr]::
+51691::$$$message_0445_0001_0020$$$::Apesar dela ter tomado cuidado para não tocar nas coisas, o casaco dela cheira como ferrugem.[lr]::
 51692::$$$message_0445_0001_0021$$$::A sala estava selada.[lr]::
 51693::$$$message_0445_0001_0022$$$::E o chão daquela sala, coberto de sangue vomitado.::
 51694::$$$message_0445_0001_0023$$$::A presença atrás dela toma forma.[lr]::
@@ -71,7 +71,7 @@ id=qid::label=str::text=lstr::
 51736::$$$message_0445_0011_0001$$$::Mais importante, ela sentiu raiva dos inimigos que quebram as regras dos magos e envolvem pessoas inocentes.[lr]::
 51737::$$$message_0445_0011_0002$$$::Por isso ela destruiu todos.[lr]::
 51738::$$$message_0445_0011_0003$$$::Ela impiedosamente destruiu cada um deles.[lr]::
-51739::$$$message_0445_0011_0004$$$::...Ela não teve simpática, mesmo se esses ossos possam ter sidos um pessoa viva há algumas horas.::
+51739::$$$message_0445_0011_0004$$$::...Ela não teve simpatia, mesmo que esses ossos possam ter sido uma pessoa viva há algumas horas.::
 51740::$$$message_0445_0012_0000$$$::[font italic=true]...[font italic=false][lr]::
 51741::$$$message_0445_0012_0001$$$::Ela não se feriu na luta.[lr]::
 51742::$$$message_0445_0012_0002$$$::Com uma pequena exceção.[lr]::
@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 51745::$$$message_0445_0013_0001$$$::"Que? Estou surpreso. Pensei que você não fazia nada impossível."[lr]::
 51746::$$$message_0445_0013_0002$$$::"...Sim. Não faço nada que penso ser impossível.[lr]::
 51747::$$$message_0445_0013_0003$$$::Mas isso é diferente. Se formos atrás dela agora, tenho certeza de que seremos capazes de encontrar alguma pista, e acima de tudo[line2]"::
-51748::$$$message_0445_0014_0000$$$::"...Você não aguenta sem começar uma luta, huh?[lr]::
+51748::$$$message_0445_0014_0000$$$::"...Você não aguenta ficar sem começar uma luta, né?[lr]::
 51749::$$$message_0445_0014_0001$$$::Cara. Você está deixando inimigos fracos a solta enquanto vai atrás do inimigo mais poderoso?"[lr]::
 51750::$$$message_0445_0014_0002$$$::"...Ei ei. Podemos ignorar a Saber. Podemos acabar com eles a qualquer hora, então não precisamos nos preocupar.[lr]::
 51751::$$$message_0445_0014_0003$$$::Não precisamos fazer nada se eles não fizerem nada. Vou deixar eles livres enquanto ficarem escondidos em suas casas."::

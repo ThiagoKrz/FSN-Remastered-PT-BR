@@ -33,7 +33,7 @@ id=qid::label=str::text=lstr::
 31::$$$message_0000_0013_0000$$$::"[line3]Ah, não! Eu falei que ia acordar o Shirou, Sakura!"[lr]::
 32::$$$message_0000_0013_0001$$$::A Illya sai correndo pro depósito, reclamando.[lr]::
 33::$$$message_0000_0013_0002$$$::Hoje em dia, esse tipo de cena já é normal.::
-34::$$$message_0000_0014_0000$$$::A Illya disse que não ia voltar pro país dela, então falei com a Fuji-nee sobre deixar ela ficar aqui.[lr]::
+34::$$$message_0000_0014_0000$$$::A Illya disse que não ia voltar pra casa dela, então falei com a Fuji-nee sobre deixar ela ficar aqui.[lr]::
 35::$$$message_0000_0014_0001$$$::Ela foi totalmente contra, mas disse que seria melhor a Illya ficar na casa dos Fujimura, por isso acabou cuidando dela.::
 36::$$$message_0000_0014_0002$$$::A partir daí, a Illya está morando lá e vem aqui com a Fuji-nee de manhã e de noite.[lr]::
 37::$$$message_0000_0014_0003$$$::Nem preciso dizer que é por causa das refeições.::
@@ -50,7 +50,7 @@ id=qid::label=str::text=lstr::
 48::$$$message_0000_0018_0001$$$::"É. A Sakura voltou a sorrir."[lr]::
 49::$$$message_0000_0018_0002$$$::Fico muito feliz com isso.[lr]::
 50::$$$message_0000_0018_0003$$$::A Sakura é mais ela mesma quando sorri daquele jeito gentil.::
-51::$$$message_0000_0019_0000$$$::"Ugh... Illya é muito cruel. Eu até prometi aumentar a mesada dela se ela me acordasse todo dia..."[lr]::
+51::$$$message_0000_0019_0000$$$::"Ugh... Illya é muito cruel. Eu até te dei um bônus extra pra você me acordar custe o que custar..."[lr]::
 52::$$$message_0000_0019_0001$$$::A Fuji-nee está reclamando enquanto enfia comida na boca.::
 53::$$$message_0000_0020_0000$$$::"Não tive escolha. Se eu deixasse você dormir, ia acabar atrasando. Eu já faço o suficiente pelo valor que recebo. Se quiser mais, aumenta logo a mesada em vez de ficar dando extra de vez em quando."::
 54::$$$message_0000_0021_0000$$$::"Grr... mas você já recebe dinheiro do vovô! Por que essa criança é tão mão de vaca?"[lr]::
@@ -64,7 +64,7 @@ id=qid::label=str::text=lstr::
 62::$$$message_0000_0025_0000$$$::"Te dou até amanhã. Se não pagar, vou descontar da sua mesada, Taiga."[lr]::
 63::$$$message_0000_0025_0001$$$::"O quê!? Não acredito que o vovô te contou isso!"::
 64::$$$message_0000_0026_0000$$$::"Claro. Eu fico com ele o dia inteiro. Ele até disse que eu sou mais fofa que você, Taiga."[lr]::
-65::$$$message_0000_0026_0001$$$::"O quê...!? Shirou, o que você fez!? Essa garota é o demônio! Ela vai dominar os Fujimura!"::
+65::$$$message_0000_0026_0001$$$::"O quê...!? Shirou, o que você fez!? Essa garota é o demônio! Desse jeito ela vai tomar conta do clã Fujimura!"::
 66::$$$message_0000_0027_0000$$$::[font italic=true]...[font italic=false][lr]::
 67::$$$message_0000_0027_0001$$$::Mas mais importante que isso...[lr]::
 68::$$$message_0000_0027_0002$$$::Por que uma adulta ainda recebe mesada do avô?::
@@ -72,13 +72,13 @@ id=qid::label=str::text=lstr::
 70::$$$message_0000_0028_0001$$$::"Sim, vou tentar. Cuida da casa, Illya."::
 71::$$$message_0000_0029_0000$$$::"Hmph. Pra mim, ela podia muito bem morar aqui de vez... idiota."[lr]::
 72::$$$message_0000_0029_0001$$$::A Fuji-nee fica emburrada e se esconde atrás de mim.[lr]::
-73::$$$message_0000_0029_0002$$$::"Tá, tá. Levanta esse ânimo, Taiga. Não pega tão pesado com o Shirou."::
+73::$$$message_0000_0029_0002$$$::"Tá, tá. Se controla, Taiga. E não vá causar problemas pro Shirou lá fora."::
 74::$$$message_0000_0030_0000$$$::A Illya ignora completamente a reclamação da Taiga.[lr]::
 75::$$$message_0000_0030_0001$$$::Pelo visto, a Fuji-nee não tem muita moral contra a Illya.::
 76::$$$message_0000_0031_0000$$$::"Bom, tô indo. Não fica enrolando e acaba se atrasando pra escola, Shirou."[lr]::
 77::$$$message_0000_0031_0001$$$::A Fuji-nee acelera e some como uma bala.::
 78::$$$message_0000_0032_0000$$$::Ela tirou a carteira de motorista mês passado.[lr]::
-79::$$$message_0000_0032_0001$$$::Desde então, ela se atrasa bem menos... mas ganhou um apelido novo: Tigre Foguete... ou melhor, Mergulhadora Foguete. Só ela não sabe disso.::
+79::$$$message_0000_0032_0001$$$::Desde então, ela se atrasa bem menos... mas ganhou um apelido novo: Taiga Foguete... ou melhor, Mergulhadora Foguete. Só ela não sabe disso.::
 80::$$$message_0000_0033_0000$$$::"Ufa."[lr]::
 81::$$$message_0000_0033_0001$$$::Me espreguiço e respiro fundo.[lr]::
 82::$$$message_0000_0033_0002$$$::A Sakura já foi pra escola.[lr]::
@@ -118,8 +118,8 @@ id=qid::label=str::text=lstr::
 116::$$$message_0000_0044_0000$$$::"Do que você tá falando? Não tô cansada e nem me forçando.[lr]::
 117::$$$message_0000_0044_0001$$$::Por que você diria isso?"::
 118::$$$message_0000_0045_0000$$$::"Porque você não é uma pessoa matinal.[lr]::
-119::$$$message_0000_0045_0001$$$::Se vier pra escola meio dormindo, sua pose de certinha pode cair. E pior ainda se dormir na aula.[lr]::
-120::$$$message_0000_0045_0002$$$::Se alguém te acordar, você vai ficar brava e mostrar aquele lado assustador."::
+119::$$$message_0000_0045_0001$$$::Se vier pra escola sem dormir direito, sua máscara de boa moça vai cair. E se você cochilar na aula, ai ferrou.[lr]::
+120::$$$message_0000_0045_0002$$$::Se alguém tentar te acordar, vai aparecer a Tohsaka com aquela cara de demônio que você faz quando acorda."::
 121::$$$message_0000_0045_0003$$$::Tipo "quem ousa atrapalhar meu sono"... dá medo.::
 122::$$$message_0000_0046_0000$$$::"E-eu nunca faria isso! Não cometeria esse tipo de erro só por acordar trinta minutos mais cedo!"[lr]::
 123::$$$message_0000_0046_0001$$$::"Ah, então você acordou mais cedo mesmo."::
@@ -333,14 +333,14 @@ id=qid::label=str::text=lstr::
 331::$$$message_0000_0105_0005$$$::A mão dele para... e ele volta sem cumprir a ordem.::
 332::$$$message_0000_0106_0000$$$::Mais uma vez, o rei ordena que ele jogue a espada no lago.::
 333::$$$message_0000_0106_0001$$$::Quando ele mente dizendo que já fez isso, o rei apenas responde: "Faça como eu ordenei."::
-334::$$$message_0000_0106_0002$$$::Desobedecer o rei é um grande pecado para um cavaleiro.::
+334::$$$message_0000_0106_0002$$$::Desobedecer a uma ordem do rei é, para um cavaleiro, um pecado gravíssimo.::
 335::$$$message_0000_0106_0003$$$::Mas ele já fez isso duas vezes.::
-336::$$$message_0000_0106_0004$$$::Toda vez que encara o lago, ele não consegue aceitar perder o rei.::
+336::$$$message_0000_0106_0004$$$::Pois, toda vez que chegava diante do lago, não conseguia abrir mão da vida de seu rei.::
 337::$$$message_0000_0107_0000$$$::Mas dessa vez... não há mais volta.[lr]::
 338::$$$message_0000_0107_0001$$$::Na terceira tentativa, ele finalmente joga a espada no lago.::
 339::$$$message_0000_0107_0002$$$::A espada sagrada retorna à água.::
 340::$$$message_0000_0107_0003$$$::Uma mão branca surge do lago, segura a espada... e ela desaparece do mundo.::
-341::$$$message_0000_0108_0000$$$::[font italic=true]...[font italic=false][lr]::
+341::$$$message_0000_0108_0000$$$::...[lr]::
 342::$$$message_0000_0108_0001$$$::E então, o cavaleiro finalmente aceita.::
 343::$$$message_0000_0108_0002$$$::O fim do seu rei.::
 344::$$$message_0000_0108_0003$$$::O peso que ele carregava por tanto tempo finalmente chega ao fim.::
@@ -349,7 +349,7 @@ id=qid::label=str::text=lstr::
 347::$$$message_0000_0109_0002$$$::Não há mais sinais da guerra. Só uma leve névoa cobre o lugar.::
 348::$$$message_0000_0110_0000$$$::"Joguei a espada no lago. Ela voltou para as mãos da Senhora do Lago."[lr]::
 349::$$$message_0000_0110_0001$$$::Ao ouvir isso, o rei abre os olhos.::
-350::$$$message_0000_0110_0002$$$::"Entendo... então você cumpriu seu dever. Pode se orgulhar disso."::
+350::$$$message_0000_0110_0002$$$::"Entendo... então você cumpriu a ordem de seu rei. Pode se orgulhar disso."::
 351::$$$message_0000_0111_0000$$$::O cavaleiro apenas concorda em silêncio, sabendo que ela está à beira da morte.::
 352::$$$message_0000_0111_0001$$$::Tudo acabou.::
 353::$$$message_0000_0111_0002$$$::A guerra ainda vai continuar... o país ainda vai sofrer...::
@@ -363,7 +363,7 @@ id=qid::label=str::text=lstr::
 361::$$$message_0000_0112_0005$$$::Lentamente... como se estivesse apenas dormindo.::
 362::$$$message_0000_0113_0000$$$::A luz da manhã atravessa as árvores.[lr]::
 363::$$$message_0000_0113_0001$$$::Enquanto o rei parte para seu descanso eterno, o silêncio toma a floresta.::
-364::$$$message_0000_0114_0000$$$::[font italic=true]...[font italic=false][lr]::
+364::$$$message_0000_0114_0000$$$::...[lr]::
 365::$$$message_0000_0114_0001$$$::O cavaleiro permanece ali, ao lado do rei caído.::
 366::$$$message_0000_0114_0002$$$::O rei que ele sempre admirou.::
 367::$$$message_0000_0114_0003$$$::O rei solitário... acompanhado apenas por um único cavaleiro.::
@@ -378,5 +378,5 @@ id=qid::label=str::text=lstr::
 376::$$$message_0000_0117_0001$$$::Suas palavras são levadas pelo vento.::
 377::$$$message_0000_0117_0002$$$::O rei adormecido parece desaparecer no azul do céu.::
 378::$$$message_0000_0117_0003$$$::"Que seu sonho... continue..."[lr]::
-379::$$$message_0000_0117_0004$$$::Um sonho distante leva ela embora.::
+379::$$$message_0000_0117_0004$$$::um sonho distante, muito distante.::
 
