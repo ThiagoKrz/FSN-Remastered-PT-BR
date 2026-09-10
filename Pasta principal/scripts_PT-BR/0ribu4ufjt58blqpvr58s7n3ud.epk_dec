@@ -24,7 +24,7 @@ id=qid::label=str::text=lstr::
 22554::$$$message_0202_0005_0003$$$::A Saber nota uma coisa no meio do caminho e para de andar.[lr]::
 22555::$$$message_0202_0005_0004$$$::Na direção do olhar dela havia uma montanha de escombros.::
 22556::$$$message_0202_0006_0000$$$::Apesar de que chamar de "montanha" é até exagero.[lr]::
-22557::$$$message_0202_0006_0001$$$::Algumas estruturas de ação estão empilhadas perto da margem do rio e estão distorcendo um pouco o caminho que a água percorre.[lr]::
+22557::$$$message_0202_0006_0001$$$::Algumas estruturas de aço estão empilhadas perto da margem do rio e estão distorcendo um pouco o caminho que a água percorre.[lr]::
 22558::$$$message_0202_0006_0002$$$::Não sei ao certo o que aconteceu, mas parece que, muito tempo atrás, um navio que estava ancorado ali afundou, e os fragmentos foram sendo levados pela correnteza até se acumularem daquele jeito.[lr]::
 22559::$$$message_0202_0006_0003$$$::Ao que tudo indica, os moradores da região já pedem há tempos que removam os escombros dali, porque acabam estragando a paisagem.::
 22560::$$$message_0202_0007_0000$$$::"Hm? O que foi, Saber? Aquilo te chamou a atenção?"[lr]::
@@ -38,7 +38,7 @@ id=qid::label=str::text=lstr::
 22568::$$$message_0202_0009_0002$$$::Quando a Excalibur for usada, pelo menos tem que ser num lugar aberto desse tamanho, senão vira um desastre.::
 22569::$$$message_0202_0010_0000$$$::"Shirou...? Você ainda está bravo comigo?"::
 22570::$$$message_0202_0011_0000$$$::"Eh? Não, eu não estou bravo. Eu só fiquei surpreso. E também estava pensando sobre como a guerra passada deixou vários rastros para trás.[lr]::
-22571::$$$message_0202_0011_0001$$$::A montanha de ação no rio não é nada demais comparado com o que aconteceu com aquele parque. Bem, eu diria que isso foi uma pena para o dono daquele navio."::
+22571::$$$message_0202_0011_0001$$$::A montanha de aço no rio não é nada demais comparado com o que aconteceu com aquele parque. Bem, eu diria que isso foi uma pena para o dono daquele navio."::
 22572::$$$message_0202_0012_0000$$$::"Por favor não se preocupe, porque o Kiritsugu disse que o dono daquele navio recebe um seguro. Ele estacionou o navio lá como uma espécie de barreira para diminuir o dano causado pelo meu Fantasma Nobre."::
 22573::$$$message_0202_0013_0000$$$::"...Ah. Então você destruiu o navio sabendo que ele estava lá?"::
 22574::$$$message_0202_0014_0000$$$::"Eu não sabia! O Kiritsugu preparou aquilo sem me dizer nada.[lr]::
@@ -139,7 +139,7 @@ id=qid::label=str::text=lstr::
 22669::$$$message_0202_0045_0002$$$::Ela responde com uma voz firme.::
 22670::$$$message_0202_0046_0000$$$::"O juramento de um rei não pode ser quebrado. Tenho deveres que preciso cumprir como rei.[lr]::
 22671::$$$message_0202_0046_0001$$$::O objetivo do Rei Arthur é obter o Santo Graal. Mesmo que isso se cumpra, eu jamais voltarei a ser Artoria.[lr]::
-22672::$$$message_0202_0046_0002$$$::Meu desejo sempre foi um só. [line2]A partir dNo momento em que tirei a espada, meu voto nunca poderia mudar."::
+22672::$$$message_0202_0046_0002$$$::Meu desejo sempre foi um só. [line2]A partir do momento em que tirei a espada, meu voto nunca poderia mudar."::
 22673::$$$message_0202_0047_0000$$$::"...Por quê? Você não é obrigada a fazer uma coisa dessas.[lr]::
 22674::$$$message_0202_0047_0001$$$::Não é certo que, depois de tudo, você continue sem nunca ser recompensada.[lr]::
 22675::$$$message_0202_0047_0002$$$::Você não precisa do Santo Graal. Além do mais..."::
@@ -235,7 +235,7 @@ id=qid::label=str::text=lstr::
 22765::$$$message_0202_0078_0001$$$::E é isso que me frustra tanto a ponto de me encher de raiva de mim mesmo.[lr]::
 22766::$$$message_0202_0078_0002$$$::Eu não consigo fazer nada.[lr]::
 22767::$$$message_0202_0078_0003$$$::Disse que faria aquela garota sorrir.[lr]::
-22768::$$$message_0202_0078_0004$$$::Decidi que protegeria a Saber, e, nNo entanto, fui incapaz de fazer qualquer coisa. É isso que me enche de raiva.::
+22768::$$$message_0202_0078_0004$$$::Decidi que protegeria a Saber, e, no entanto, fui incapaz de fazer qualquer coisa. É isso que me enche de raiva.::
 22769::$$$message_0202_0079_0000$$$::"...Mas o que eu posso fazer? Se a própria Saber não está em busca da felicidade, ninguém jamais vai conseguir convencê-la."[lr]::
 22770::$$$message_0202_0079_0001$$$::Foi por isso que eu me esforcei para que ela conseguisse achar a sua própria felicidade.[lr]::
 22771::$$$message_0202_0079_0002$$$::Mas além da Saber me dizer que isso era inútil, ela me chamou de imbecil.::

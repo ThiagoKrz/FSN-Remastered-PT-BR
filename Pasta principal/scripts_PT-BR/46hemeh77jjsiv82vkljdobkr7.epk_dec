@@ -34,17 +34,17 @@ id=qid::label=str::text=lstr::
 32::$$$message_0000_0013_0001$$$::A Illya sai correndo pro depósito, reclamando.[lr]::
 33::$$$message_0000_0013_0002$$$::Hoje em dia, esse tipo de cena já é normal.::
 34::$$$message_0000_0014_0000$$$::A Illya disse que não ia voltar pra casa dela, então falei com a Fuji-nee sobre deixar ela ficar aqui.[lr]::
-35::$$$message_0000_0014_0001$$$::Ela foi totalmente contra, mas disse que seria melhor a Illya ficar na casa dos Fujimura, por isso acabou cuidando dela.::
+35::$$$message_0000_0014_0001$$$::Ela foi totalmente contra, mas disse que seria melhor a Illya ficar na casa dos Fujimura, por isso acabou cuidando dela.[lr]::
 36::$$$message_0000_0014_0002$$$::A partir daí, a Illya está morando lá e vem aqui com a Fuji-nee de manhã e de noite.[lr]::
-37::$$$message_0000_0014_0003$$$::Nem preciso dizer que é por causa das refeições.::
+37::$$$message_0000_0014_0003$$$::Nem preciso dizer que é por causa das refeições.[lr]::
 38::$$$message_0000_0014_0004$$$::Depois de dois meses, as duas já estão grudadas.::
 39::$$$message_0000_0015_0000$$$::Quando passo perto da parede do galpão...[lr]::
 40::$$$message_0000_0015_0001$$$::Consigo ouvir a Sakura e a Illya conversando.::
 41::$$$message_0000_0016_0000$$$::A Illya é bem direta, achei que ela não ia se dar bem com a Sakura, mas não foi o caso.[lr]::
-42::$$$message_0000_0016_0001$$$::Elas são tipo uma dupla estranha. A Illya é agitada, enquanto a Sakura é mais tranquila. Mesmo assim, combinam bem.::
+42::$$$message_0000_0016_0001$$$::Elas são tipo uma dupla estranha. A Illya é agitada, enquanto a Sakura é mais tranquila. Mesmo assim, combinam bem.[lr]::
 43::$$$message_0000_0016_0002$$$::Na verdade, foi graças à Illya que a Sakura voltou a sorrir normalmente.::
 44::$$$message_0000_0017_0000$$$::Depois que o irmão mais velho dela, o Shinji, sumiu e passou a ser dado como desaparecido, ela parou de sorrir.[lr]::
-45::$$$message_0000_0017_0001$$$::Ela deve ter percebido que ele tinha algo a ver com o incidente do coma coletivo na escola.::
+45::$$$message_0000_0017_0001$$$::Ela deve ter percebido que ele tinha algo a ver com o incidente do coma coletivo na escola.[lr]::
 46::$$$message_0000_0017_0002$$$::Preocupada com o Shinji, a Sakura acabou se fechando.::
 47::$$$message_0000_0018_0000$$$::Foi a Illya que forçou ela a sair disso, e agora a Sakura está sempre alegre quando está com ela.[lr]::
 48::$$$message_0000_0018_0001$$$::"É. A Sakura voltou a sorrir."[lr]::
@@ -59,7 +59,7 @@ id=qid::label=str::text=lstr::
 57::$$$message_0000_0023_0000$$$::"Eh!? C-como você sabe disso!?"[lr]::
 58::$$$message_0000_0023_0001$$$::"O Raiga me contou. Se quiser, posso repetir a conversa inteira."::
 59::$$$message_0000_0024_0000$$$::A Illya sorri de lado.[lr]::
-60::$$$message_0000_0024_0001$$$::Diferente da relação tranquila com a Sakura, com a Fuji-nee é puro caos.::
+60::$$$message_0000_0024_0001$$$::Diferente da relação tranquila com a Sakura, com a Fuji-nee é puro caos.[lr]::
 61::$$$message_0000_0024_0002$$$::A Illya pega pesado com ela. Até o sorriso dela lembra o de certa pessoa.::
 62::$$$message_0000_0025_0000$$$::"Te dou até amanhã. Se não pagar, vou descontar da sua mesada, Taiga."[lr]::
 63::$$$message_0000_0025_0001$$$::"O quê!? Não acredito que o vovô te contou isso!"::
@@ -82,7 +82,7 @@ id=qid::label=str::text=lstr::
 80::$$$message_0000_0033_0000$$$::"Ufa."[lr]::
 81::$$$message_0000_0033_0001$$$::Me espreguiço e respiro fundo.[lr]::
 82::$$$message_0000_0033_0002$$$::A Sakura já foi pra escola.[lr]::
-83::$$$message_0000_0033_0003$$$::Ela comeu um monte de arroz hoje cedo, então deve estar bem animada.::
+83::$$$message_0000_0033_0003$$$::Ela comeu um monte de arroz hoje cedo, então deve estar bem animada.[lr]::
 84::$$$message_0000_0033_0004$$$::Hoje é um dia importante pro clube de kyudo.[lr]::
 85::$$$message_0000_0033_0005$$$::Agora que ela é vice-capitã, deve estar super determinada.::
 86::$$$message_0000_0034_0000$$$::"Certo. Eu também devia..."[lr]::
@@ -94,7 +94,7 @@ id=qid::label=str::text=lstr::
 92::$$$message_0000_0036_0000$$$::O inverno acabou e agora é primavera.[lr]::
 93::$$$message_0000_0036_0001$$$::Essa é a maior mudança.::
 94::$$$message_0000_0036_0002$$$::Eu posso até ter crescido um pouco, mas continuo sendo eu mesmo.[lr]::
-95::$$$message_0000_0036_0003$$$::Então, no fim, não mudou muita coisa.::
+95::$$$message_0000_0036_0003$$$::Então, no fim, não mudou muita coisa.[lr]::
 96::$$$message_0000_0036_0004$$$::O Emiya Shirou ainda segue de forma desajeitada o caminho do Kiritsugu.::
 97::$$$message_0000_0037_0000$$$::"Bom dia, Emiya. Que coincidência te encontrar de manhã."[lr]::
 98::$$$message_0000_0037_0001$$$::"Oi. Tá um belo dia hoje, Tohsaka."[lr]::
@@ -128,7 +128,7 @@ id=qid::label=str::text=lstr::
 126::$$$message_0000_0047_0002$$$::A Tohsaka desvia o olhar.[lr]::
 127::$$$message_0000_0047_0003$$$::Ela tem razão, então deixo isso pra lá e continuamos andando.::
 128::$$$message_0000_0048_0000$$$::Subimos a ladeira.[lr]::
-129::$$$message_0000_0048_0001$$$::A cidade lá embaixo já tá com cara de primavera.::
+129::$$$message_0000_0048_0001$$$::A cidade lá embaixo já tá com cara de primavera.[lr]::
 130::$$$message_0000_0048_0002$$$::A brisa é agradável e as folhas das cerejeiras perto da escola balançam com o vento de vez em quando.[lr]::
 131::$$$message_0000_0048_0003$$$::Isso me faz sorrir.::
 132::$$$message_0000_0049_0000$$$::"Ei. Você vai trabalhar bastante essa semana?[lr]::
@@ -139,12 +139,12 @@ id=qid::label=str::text=lstr::
 137::$$$message_0000_0051_0000$$$::"Hã? Isso é ruim? Ela parecia entediada, então achei que seria bom pra distrair."[lr]::
 138::$$$message_0000_0051_0001$$$::"É ruim sim. De qualquer forma, eu também vou aparecer. É difícil ficar entediado com a Illya por perto... e além disso, é perigoso ignorar isso."::
 139::$$$message_0000_0052_0000$$$::Fico aliviado de ouvir isso.[lr]::
-140::$$$message_0000_0052_0001$$$::A Tohsaka entende a Illya muito melhor que eu ou a Sakura.::
+140::$$$message_0000_0052_0001$$$::A Tohsaka entende a Illya muito melhor que eu ou a Sakura.[lr]::
 141::$$$message_0000_0052_0002$$$::Não é só porque ela acompanha a saúde da Illya. As duas são magas de verdade.[lr]::
 142::$$$message_0000_0052_0003$$$::A Illya ainda não entende bem que precisa esconder isso, então a Tohsaka vem guiando ela nesse sentido.::
 143::$$$message_0000_0053_0000$$$::[font italic=true]...[font italic=false][lr]::
 144::$$$message_0000_0053_0001$$$::E assim, as coisas estão voltando aos seus lugares aos poucos.[lr]::
-145::$$$message_0000_0053_0002$$$::O novo padre enviado pela Igreja já consertou a maior parte dos danos da Guerra do Santo Graal, e estamos voltando à rotina.::
+145::$$$message_0000_0053_0002$$$::O novo padre enviado pela Igreja já consertou a maior parte dos danos da Guerra do Santo Graal, e estamos voltando à rotina.[lr]::
 146::$$$message_0000_0053_0003$$$::Tem coisas que se perderam e nunca vão voltar, claro.[lr]::
 147::$$$message_0000_0053_0004$$$::Mas as feridas estão cicatrizando aos poucos, e sinto que alguns arrependimentos também estão desaparecendo.::
 148::$$$message_0000_0054_0000$$$::"Mas isso foi inesperado."[lr]::
@@ -162,7 +162,7 @@ id=qid::label=str::text=lstr::
 160::$$$message_0000_0060_0000$$$::"Essas coisas acontecem. A pessoa alcança o objetivo da vida e depois simplesmente morre.[lr]::
 161::$$$message_0000_0060_0001$$$::Tipo ser atropelado ou cair de uma escada do nada."::
 162::$$$message_0000_0061_0000$$$::Hm.[lr]::
-163::$$$message_0000_0061_0001$$$::Isso é meio difícil de entender.::
+163::$$$message_0000_0061_0001$$$::Isso é meio difícil de entender.[lr]::
 164::$$$message_0000_0061_0002$$$::Acho que ela quer dizer morrer depois de cumprir tudo... tipo descansar em paz.::
 165::$$$message_0000_0062_0000$$$::"Por isso eu fiquei preocupada. Às vezes, o normal é ficar bem deprimido mesmo."[lr]::
 166::$$$message_0000_0062_0001$$$::"Ah é? Você ia me consolar se eu ficasse deprimido?"::
@@ -179,12 +179,12 @@ id=qid::label=str::text=lstr::
 177::$$$message_0000_0067_0000$$$::"Sim... não me arrependo... acho."[lr]::
 178::$$$message_0000_0067_0001$$$::Não estou fingindo. Eu mesmo me surpreendo com o quão tranquilo pareço.::
 179::$$$message_0000_0068_0000$$$::Não ficou nada por dizer, então não tenho arrependimentos.[lr]::
-180::$$$message_0000_0068_0001$$$::Tudo terminou naquele momento em que nos despedimos.::
+180::$$$message_0000_0068_0001$$$::Tudo terminou naquele momento em que nos despedimos.[lr]::
 181::$$$message_0000_0068_0002$$$::O que eu queria fazer...[lr]::
 182::$$$message_0000_0068_0003$$$::O que ela desejava...[lr]::
 183::$$$message_0000_0068_0004$$$::Talvez nós dois fôssemos teimosos... talvez eu devesse ter segurado a mão dela e realizado seu sonho.::
 184::$$$message_0000_0069_0000$$$::Mas havia algo que nós dois achávamos bonito... e protegemos isso até o fim.[lr]::
-185::$$$message_0000_0069_0001$$$::Eu não me arrependo.::
+185::$$$message_0000_0069_0001$$$::Eu não me arrependo.[lr]::
 186::$$$message_0000_0069_0002$$$::Ela encerrou seu tempo da forma certa...[lr]::
 187::$$$message_0000_0069_0003$$$::E eu não posso ficar preso a essas memórias pra sempre.::
 188::$$$message_0000_0070_0000$$$::"Hm. Então você resolveu isso sozinho.[lr]::
@@ -204,21 +204,21 @@ id=qid::label=str::text=lstr::
 202::$$$message_0000_0075_0003$$$::É cedo pra quem não tem clube, mas chegar cedo na escola não tem problema.::
 203::$$$message_0000_0076_0000$$$::Subo correndo a ladeira que parece levar até o céu e chego na escola mais cedo que o normal.::
 204::$$$message_0000_0077_0000$$$::Hoje é o primeiro dia do ano letivo.[lr]::
-205::$$$message_0000_0077_0001$$$::Se quero seguir em frente, preciso deixar as memórias pra trás.::
+205::$$$message_0000_0077_0001$$$::Se quero seguir em frente, preciso deixar as memórias pra trás.[lr]::
 206::$$$message_0000_0077_0002$$$::Mas elas nunca vão desaparecer completamente.[lr]::
 207::$$$message_0000_0077_0003$$$::Mesmo assim, preciso continuar... mesmo que esse vazio no peito doa.::
 208::$$$message_0000_0078_0000$$$::O céu azul está distante.[lr]::
 209::$$$message_0000_0078_0001$$$::Parece tão próximo...[lr]::
 210::$$$message_0000_0078_0002$$$::...mas mesmo que eu estenda a mão, nunca vou conseguir alcançar.::
 211::$$$message_0000_0079_0000$$$::Já olhei pras estrelas antes.[lr]::
-212::$$$message_0000_0079_0001$$$::Existem estrelas inalcançáveis e desejos que nunca se realizam.::
+212::$$$message_0000_0079_0001$$$::Existem estrelas inalcançáveis e desejos que nunca se realizam.[lr]::
 213::$$$message_0000_0079_0002$$$::Nada do que foi nosso permanece aqui.[lr]::
 214::$$$message_0000_0079_0003$$$::Então, um dia, até minhas memórias dela... até o rosto dela... vão desaparecer.[lr]::
 215::$$$message_0000_0079_0004$$$::[font italic=true]...[font italic=false][lr]::
 216::$$$message_0000_0079_0005$$$::Mas ainda assim.::
 217::$$$message_0000_0079_0006$$$::Mesmo que eu nunca mais consiga alcançá-la, algo vai continuar vivo dentro de nós.::
 218::$$$message_0000_0080_0000$$$::Pode não existir mais nada físico, mas nós compartilhamos um tempo juntos.[lr]::
-219::$$$message_0000_0080_0001$$$::Se eu lembrar disso... posso acreditar que ainda estamos conectados, mesmo tão distantes.::
+219::$$$message_0000_0080_0001$$$::Se eu lembrar disso... posso acreditar que ainda estamos conectados, mesmo tão distantes.[lr]::
 220::$$$message_0000_0080_0002$$$::Algumas coisas desaparecem... mas outras permanecem pra sempre.::
 221::$$$message_0000_0081_0000$$$::Então eu vou continuar correndo.[lr]::
 222::$$$message_0000_0081_0001$$$::Se eu seguir em frente o suficiente, talvez um dia eu alcance aquilo que busco.::
@@ -247,136 +247,136 @@ id=qid::label=str::text=lstr::
 245::$$$message_0000_0087_0004$$$::Enquanto tiver a espada sagrada, o rei jamais perecerá.::
 246::$$$message_0000_0088_0000$$$::"Ha... haaa... ha...!"[lr]::
 247::$$$message_0000_0088_0001$$$::Com a respiração pesada, o cavaleiro atravessa a montanha de corpos e segue pra uma floresta ainda não manchada de sangue.[lr]::
-248::$$$message_0000_0088_0002$$$::Ele acredita na imortalidade do seu rei.::
+248::$$$message_0000_0088_0002$$$::Ele acredita na imortalidade do seu rei.[lr]::
 249::$$$message_0000_0088_0003$$$::Por isso pensa que, se sair desse campo amaldiçoado e levar o rei pra um lugar puro, as feridas vão se curar.::
 250::$$$message_0000_0089_0000$$$::Ou melhor... ele quer acreditar nisso.[lr]::
-251::$$$message_0000_0089_0001$$$::Diferente dos outros cavaleiros, ele sempre acreditou no rei.::
+251::$$$message_0000_0089_0001$$$::Diferente dos outros cavaleiros, ele sempre acreditou no rei.[lr]::
 252::$$$message_0000_0089_0002$$$::O rei sempre foi solitário na corte, evitado pelos cavaleiros e temido pelo povo.[lr]::
 253::$$$message_0000_0089_0003$$$::Mas esse cavaleiro admirava o jovem rei, que nunca mostrava emoções e sempre seguia seus ideais.::
 254::$$$message_0000_0090_0000$$$::Ele não servia ao país.[lr]::
-255::$$$message_0000_0090_0001$$$::Por isso, dedicou sua espada ao rei, lutou por ele e acabou virando seu guarda pessoal, mesmo sendo jovem.::
+255::$$$message_0000_0090_0001$$$::Por isso, dedicou sua espada ao rei, lutou por ele e acabou virando seu guarda pessoal, mesmo sendo jovem.[lr]::
 256::$$$message_0000_0090_0002$$$::O rei cuja verdadeira face ninguém via.[lr]::
-257::$$$message_0000_0090_0003$$$::O jovem que tentava ser justo e não deixava sentimentos interferirem em seus deveres.::
+257::$$$message_0000_0090_0003$$$::O jovem que tentava ser justo e não deixava sentimentos interferirem em seus deveres.[lr]::
 258::$$$message_0000_0090_0004$$$::Ele acreditava que, se chegasse perto o suficiente, poderia ver o verdadeiro rosto do rei.::
 259::$$$message_0000_0091_0000$$$::Esse era seu maior desejo.[lr]::
-260::$$$message_0000_0091_0001$$$::Ele queria ver a verdadeira expressão do rei... não a face séria da batalha, mas um sorriso humano.::
+260::$$$message_0000_0091_0001$$$::Ele queria ver a verdadeira expressão do rei... não a face séria da batalha, mas um sorriso humano.[lr]::
 261::$$$message_0000_0091_0002$$$::Achava que isso aconteceria quando o rei estivesse livre de seus deveres na corte.[lr]::
-262::$$$message_0000_0091_0003$$$::Até o rei mais perfeito não pode viver sempre em tensão.::
+262::$$$message_0000_0091_0003$$$::Até o rei mais perfeito não pode viver sempre em tensão.[lr]::
 263::$$$message_0000_0092_0000$$$::Mas ele estava errado.[lr]::
-264::$$$message_0000_0092_0001$$$::A realidade foi diferente do que esperava.::
+264::$$$message_0000_0092_0001$$$::A realidade foi diferente do que esperava.[lr]::
 265::$$$message_0000_0092_0002$$$::Ele se tornou guarda imperial e passou a ficar sempre ao lado do rei.[lr]::
-266::$$$message_0000_0092_0003$$$::Observava cada ação do rei de perto.::
+266::$$$message_0000_0092_0003$$$::Observava cada ação do rei de perto.[lr]::
 267::$$$message_0000_0092_0004$$$::Mas aquele momento nunca chegou.[lr]::
-268::$$$message_0000_0092_0005$$$::O rei nunca sorriu.::
+268::$$$message_0000_0092_0005$$$::O rei nunca sorriu.[lr]::
 269::$$$message_0000_0093_0000$$$::"Ha... haaa... ha...!"[lr]::
 270::$$$message_0000_0093_0001$$$::Por que isso incomoda tanto ele?[lr]::
-271::$$$message_0000_0093_0002$$$::O rei deveria brilhar de orgulho após tanta vitória.::
-272::$$$message_0000_0093_0003$$$::Mas nunca parecia relaxado, nem por um instante.::
+271::$$$message_0000_0093_0002$$$::O rei deveria brilhar de orgulho após tanta vitória.[lr]::
+272::$$$message_0000_0093_0003$$$::Mas nunca parecia relaxado, nem por um instante.[lr]::
 273::$$$message_0000_0093_0004$$$::Ele não conseguia aceitar isso.[lr]::
-274::$$$message_0000_0093_0005$$$::Queria acreditar que aquilo não era certo.::
+274::$$$message_0000_0093_0005$$$::Queria acreditar que aquilo não era certo.[lr]::
 275::$$$message_0000_0093_0006$$$::Queria que o rei fosse recompensado com felicidade.::
 276::$$$message_0000_0094_0000$$$::Mas isso nunca aconteceu.[lr]::
-277::$$$message_0000_0094_0001$$$::O rei continuou sozinho.::
+277::$$$message_0000_0094_0001$$$::O rei continuou sozinho.[lr]::
 278::$$$message_0000_0094_0002$$$::E o cavaleiro se recusa a aceitar a morte dele.[lr]::
-279::$$$message_0000_0094_0003$$$::Não pode acabar assim.::
-280::$$$message_0000_0094_0004$$$::Se terminar agora, esse grande rei nunca será recompensado.::
+279::$$$message_0000_0094_0003$$$::Não pode acabar assim.[lr]::
+280::$$$message_0000_0094_0004$$$::Se terminar agora, esse grande rei nunca será recompensado.[lr]::
 281::$$$message_0000_0095_0000$$$::"Majestade, por favor fique aqui. Vou buscar reforços agora."[lr]::
-282::$$$message_0000_0095_0001$$$::Ao chegar na floresta, ele encosta o rei numa árvore grande.::
+282::$$$message_0000_0095_0001$$$::Ao chegar na floresta, ele encosta o rei numa árvore grande.[lr]::
 283::$$$message_0000_0095_0002$$$::É uma corrida contra o tempo.[lr]::
-284::$$$message_0000_0095_0003$$$::Mesmo indo rápido, levaria meio dia pra trazer tropas do porto.::
+284::$$$message_0000_0095_0003$$$::Mesmo indo rápido, levaria meio dia pra trazer tropas do porto.[lr]::
 285::$$$message_0000_0095_0004$$$::Qualquer um veria que o rei não sobreviveria até o amanhecer.::
 286::$$$message_0000_0096_0000$$$::"Por favor, aguente até lá. Eu volto com reforços."[lr]::
-287::$$$message_0000_0096_0001$$$::O cavaleiro se curva diante do rei semiconsciente e volta até o cavalo branco.::
+287::$$$message_0000_0096_0001$$$::O cavaleiro se curva diante do rei semiconsciente e volta até o cavalo branco.[lr]::
 288::$$$message_0000_0096_0002$$$::"...Bedivere."[lr]::
 289::$$$message_0000_0096_0003$$$::Antes que ele parta...[lr]::
 290::$$$message_0000_0096_0004$$$::...o rei, que ele achava estar inconsciente, chama por ele.::
 291::$$$message_0000_0097_0000$$$::"Majestade!? A senhora está acordada!?"[lr]::
 292::$$$message_0000_0097_0001$$$::"Sim... eu estava sonhando."[lr]::
-293::$$$message_0000_0097_0002$$$::A voz do rei é fraca.::
+293::$$$message_0000_0097_0002$$$::A voz do rei é fraca.[lr]::
 294::$$$message_0000_0097_0003$$$::Mas há calor nela.::
 295::$$$message_0000_0098_0000$$$::"Um sonho... Majestade?"[lr]::
-296::$$$message_0000_0098_0001$$$::A voz do cavaleiro quase implora.::
-297::$$$message_0000_0098_0002$$$::A vida do rei está por um fio. Se ele não responder, parece que ela pode desaparecer a qualquer momento.::
+296::$$$message_0000_0098_0001$$$::A voz do cavaleiro quase implora.[lr]::
+297::$$$message_0000_0098_0002$$$::A vida do rei está por um fio. Se ele não responder, parece que ela pode desaparecer a qualquer momento.[lr]::
 298::$$$message_0000_0098_0003$$$::"Sim. Eu quase nunca sonho... então foi algo precioso."[lr]::
 299::$$$message_0000_0098_0004$$$::"Isso é bom. Então descanse... vou buscar ajuda enquanto isso."::
 300::$$$message_0000_0099_0000$$$::"...":[lr]::
-301::$$$message_0000_0099_0001$$$::Um suspiro fraco.::
-302::$$$message_0000_0099_0002$$$::As palavras dele parecem ter surpreendido o rei.::
+301::$$$message_0000_0099_0001$$$::Um suspiro fraco.[lr]::
+302::$$$message_0000_0099_0002$$$::As palavras dele parecem ter surpreendido o rei.[lr]::
 303::$$$message_0000_0100_0000$$$::"Majestade...? Eu disse algo errado?"[lr]::
 304::$$$message_0000_0100_0001$$$::"Não... só achei curioso. É possível voltar ao mesmo sonho depois de acordar? Se eu fechar os olhos de novo... vou voltar para ele?"[lr]::
-305::$$$message_0000_0100_0002$$$::Agora é o cavaleiro que fica sem palavras.::
+305::$$$message_0000_0100_0002$$$::Agora é o cavaleiro que fica sem palavras.[lr]::
 306::$$$message_0000_0100_0003$$$::Por um instante, ele hesita. Mas responde mesmo sabendo que não é verdade.::
 307::$$$message_0000_0101_0000$$$::"Sim. Se desejar de verdade... você pode voltar ao mesmo sonho. Eu já passei por isso."[lr]::
-308::$$$message_0000_0101_0001$$$::Isso não é verdade.::
-309::$$$message_0000_0101_0002$$$::Sonhos desaparecem... não são algo ao qual se pode voltar.::
-310::$$$message_0000_0101_0003$$$::Mesmo assim, ele mente pela primeira vez para o rei.::
-311::$$$message_0000_0101_0004$$$::E também será a última.::
+308::$$$message_0000_0101_0001$$$::Isso não é verdade.[lr]::
+309::$$$message_0000_0101_0002$$$::Sonhos desaparecem... não são algo ao qual se pode voltar.[lr]::
+310::$$$message_0000_0101_0003$$$::Mesmo assim, ele mente pela primeira vez para o rei.[lr]::
+311::$$$message_0000_0101_0004$$$::E também será a última.[lr]::
 312::$$$message_0000_0102_0000$$$::"Entendo... você tem experiência, Bedivere."[lr]::
-313::$$$message_0000_0102_0001$$$::A voz do rei é suave.::
-314::$$$message_0000_0102_0002$$$::Ela mantém a cabeça baixa, sem olhar pra ele.::
-315::$$$message_0000_0102_0003$$$::A respiração é tão leve que quase não dá pra ouvir.::
+313::$$$message_0000_0102_0001$$$::A voz do rei é suave.[lr]::
+314::$$$message_0000_0102_0002$$$::Ela mantém a cabeça baixa, sem olhar pra ele.[lr]::
+315::$$$message_0000_0102_0003$$$::A respiração é tão leve que quase não dá pra ouvir.[lr]::
 316::$$$message_0000_0102_0004$$$::"Bedivere... pegue minha espada."[lr]::
-317::$$$message_0000_0102_0005$$$::O cavaleiro recebe a ordem final do seu rei.::
+317::$$$message_0000_0102_0005$$$::O cavaleiro recebe a ordem final do seu rei.[lr]::
 318::$$$message_0000_0103_0000$$$::"Escute. Atravesse a floresta e passe por aquela colina. Do outro lado, há um lago. Jogue minha espada nele."[lr]::
-319::$$$message_0000_0103_0001$$$::"O quê!? Majestade... isso quer dizer...!"::
+319::$$$message_0000_0103_0001$$$::"O quê!? Majestade... isso quer dizer...!"[lr]::
 320::$$$message_0000_0103_0002$$$::O cavaleiro entende o que isso significa.[lr]::
-321::$$$message_0000_0103_0003$$$::A espada no lago.::
-322::$$$message_0000_0103_0004$$$::Abandonar a espada que simboliza o rei... significa aceitar o fim dela.::
+321::$$$message_0000_0103_0003$$$::A espada no lago.[lr]::
+322::$$$message_0000_0103_0004$$$::Abandonar a espada que simboliza o rei... significa aceitar o fim dela.[lr]::
 323::$$$message_0000_0104_0000$$$::"Vá. Depois de fazer isso, volte e me diga o que viu."[lr]::
-324::$$$message_0000_0104_0001$$$::O rei não volta atrás em suas ordens.::
+324::$$$message_0000_0104_0001$$$::O rei não volta atrás em suas ordens.[lr]::
 325::$$$message_0000_0104_0002$$$::O cavaleiro pega a espada sagrada e desce a colina... com o coração pesado.::
 326::$$$message_0000_0105_0000$$$::Então...[lr]::
-327::$$$message_0000_0105_0001$$$::Três vezes, ele hesita em cumprir a ordem.::
-328::$$$message_0000_0105_0002$$$::O lago está diante dele.::
-329::$$$message_0000_0105_0003$$$::Mas ele não consegue jogar a espada fora.::
-330::$$$message_0000_0105_0004$$$::Fazer isso é como aceitar a morte do rei.::
+327::$$$message_0000_0105_0001$$$::Três vezes, ele hesita em cumprir a ordem.[lr]::
+328::$$$message_0000_0105_0002$$$::O lago está diante dele.[lr]::
+329::$$$message_0000_0105_0003$$$::Mas ele não consegue jogar a espada fora.[lr]::
+330::$$$message_0000_0105_0004$$$::Fazer isso é como aceitar a morte do rei.[lr]::
 331::$$$message_0000_0105_0005$$$::A mão dele para... e ele volta sem cumprir a ordem.::
 332::$$$message_0000_0106_0000$$$::Mais uma vez, o rei ordena que ele jogue a espada no lago.::
-333::$$$message_0000_0106_0001$$$::Quando ele mente dizendo que já fez isso, o rei apenas responde: "Faça como eu ordenei."::
-334::$$$message_0000_0106_0002$$$::Desobedecer a uma ordem do rei é, para um cavaleiro, um pecado gravíssimo.::
-335::$$$message_0000_0106_0003$$$::Mas ele já fez isso duas vezes.::
+333::$$$message_0000_0106_0001$$$::Quando ele mente dizendo que já fez isso, o rei apenas responde: "Faça como eu ordenei."[lr]::
+334::$$$message_0000_0106_0002$$$::Desobedecer a uma ordem do rei é, para um cavaleiro, um pecado gravíssimo.[lr]::
+335::$$$message_0000_0106_0003$$$::Mas ele já fez isso duas vezes.[lr]::
 336::$$$message_0000_0106_0004$$$::Pois, toda vez que chegava diante do lago, não conseguia abrir mão da vida de seu rei.::
 337::$$$message_0000_0107_0000$$$::Mas dessa vez... não há mais volta.[lr]::
-338::$$$message_0000_0107_0001$$$::Na terceira tentativa, ele finalmente joga a espada no lago.::
-339::$$$message_0000_0107_0002$$$::A espada sagrada retorna à água.::
+338::$$$message_0000_0107_0001$$$::Na terceira tentativa, ele finalmente joga a espada no lago.[lr]::
+339::$$$message_0000_0107_0002$$$::A espada sagrada retorna à água.[lr]::
 340::$$$message_0000_0107_0003$$$::Uma mão branca surge do lago, segura a espada... e ela desaparece do mundo.::
 341::$$$message_0000_0108_0000$$$::...[lr]::
-342::$$$message_0000_0108_0001$$$::E então, o cavaleiro finalmente aceita.::
-343::$$$message_0000_0108_0002$$$::O fim do seu rei.::
-344::$$$message_0000_0108_0003$$$::O peso que ele carregava por tanto tempo finalmente chega ao fim.::
+342::$$$message_0000_0108_0001$$$::E então, o cavaleiro finalmente aceita.[lr]::
+343::$$$message_0000_0108_0002$$$::O fim do seu rei.[lr]::
+344::$$$message_0000_0108_0003$$$::O peso que ele carregava por tanto tempo finalmente chega ao fim.[lr]::
 345::$$$message_0000_0109_0000$$$::Na terceira vez que atravessa a colina, a luz da manhã começa a iluminar a floresta.[lr]::
-346::$$$message_0000_0109_0001$$$::O campo de batalha já ficou para trás.::
-347::$$$message_0000_0109_0002$$$::Não há mais sinais da guerra. Só uma leve névoa cobre o lugar.::
+346::$$$message_0000_0109_0001$$$::O campo de batalha já ficou para trás.[lr]::
+347::$$$message_0000_0109_0002$$$::Não há mais sinais da guerra. Só uma leve névoa cobre o lugar.[lr]::
 348::$$$message_0000_0110_0000$$$::"Joguei a espada no lago. Ela voltou para as mãos da Senhora do Lago."[lr]::
-349::$$$message_0000_0110_0001$$$::Ao ouvir isso, o rei abre os olhos.::
-350::$$$message_0000_0110_0002$$$::"Entendo... então você cumpriu a ordem de seu rei. Pode se orgulhar disso."::
+349::$$$message_0000_0110_0001$$$::Ao ouvir isso, o rei abre os olhos.[lr]::
+350::$$$message_0000_0110_0002$$$::"Entendo... então você cumpriu a ordem de seu rei. Pode se orgulhar disso."[lr]::
 351::$$$message_0000_0111_0000$$$::O cavaleiro apenas concorda em silêncio, sabendo que ela está à beira da morte.::
 352::$$$message_0000_0111_0001$$$::Tudo acabou.::
-353::$$$message_0000_0111_0002$$$::A guerra ainda vai continuar... o país ainda vai sofrer...::
-354::$$$message_0000_0111_0003$$$::Mas a batalha dela terminou.::
-355::$$$message_0000_0111_0004$$$::Porque ela cumpriu seu papel até o fim.::
+353::$$$message_0000_0111_0002$$$::A guerra ainda vai continuar... o país ainda vai sofrer...[lr]::
+354::$$$message_0000_0111_0003$$$::Mas a batalha dela terminou.[lr]::
+355::$$$message_0000_0111_0004$$$::Porque ela cumpriu seu papel até o fim.[lr]::
 356::$$$message_0000_0112_0000$$$::A luz começa a desaparecer.[lr]::
-357::$$$message_0000_0112_0001$$$::Com tudo concluído, a última força que a mantinha viva se esgota.::
+357::$$$message_0000_0112_0001$$$::Com tudo concluído, a última força que a mantinha viva se esgota.[lr]::
 358::$$$message_0000_0112_0002$$$::"Preciso me desculpar... Bedivere...[lr]::
 359::$$$message_0000_0112_0003$$$::Este sono será... longo..."[lr]::
 360::$$$message_0000_0112_0004$$$::Ela fecha os olhos...[lr]::
 361::$$$message_0000_0112_0005$$$::Lentamente... como se estivesse apenas dormindo.::
 362::$$$message_0000_0113_0000$$$::A luz da manhã atravessa as árvores.[lr]::
-363::$$$message_0000_0113_0001$$$::Enquanto o rei parte para seu descanso eterno, o silêncio toma a floresta.::
+363::$$$message_0000_0113_0001$$$::Enquanto o rei parte para seu descanso eterno, o silêncio toma a floresta.[lr]::
 364::$$$message_0000_0114_0000$$$::...[lr]::
-365::$$$message_0000_0114_0001$$$::O cavaleiro permanece ali, ao lado do rei caído.::
-366::$$$message_0000_0114_0002$$$::O rei que ele sempre admirou.::
-367::$$$message_0000_0114_0003$$$::O rei solitário... acompanhado apenas por um único cavaleiro.::
+365::$$$message_0000_0114_0001$$$::O cavaleiro permanece ali, ao lado do rei caído.[lr]::
+366::$$$message_0000_0114_0002$$$::O rei que ele sempre admirou.[lr]::
+367::$$$message_0000_0114_0003$$$::O rei solitário... acompanhado apenas por um único cavaleiro.[lr]::
 368::$$$message_0000_0114_0004$$$::E então ele finalmente vê aquilo que sempre quis ver:[lr]::
-369::$$$message_0000_0114_0005$$$::Um rosto em paz.::
-370::$$$message_0000_0114_0006$$$::Pela primeira vez, o rei encontra descanso.::
+369::$$$message_0000_0114_0005$$$::Um rosto em paz.[lr]::
+370::$$$message_0000_0114_0006$$$::Pela primeira vez, o rei encontra descanso.[lr]::
 371::$$$message_0000_0115_0000$$$::O cavaleiro sorri, emocionado.[lr]::
 372::$$$message_0000_0115_0001$$$::Ele agradece a quem trouxe paz ao seu rei e observa com orgulho.::
 373::$$$message_0000_0116_0000$$$::O céu está alto e azul.[lr]::
 374::$$$message_0000_0116_0001$$$::A batalha realmente terminou.::
 375::$$$message_0000_0117_0000$$$::"Está vendo, Rei Arthur?"[lr]::
-376::$$$message_0000_0117_0001$$$::Suas palavras são levadas pelo vento.::
-377::$$$message_0000_0117_0002$$$::O rei adormecido parece desaparecer no azul do céu.::
+376::$$$message_0000_0117_0001$$$::Suas palavras são levadas pelo vento.[lr]::
+377::$$$message_0000_0117_0002$$$::O rei adormecido parece desaparecer no azul do céu.[lr]::
 378::$$$message_0000_0117_0003$$$::"Que seu sonho... continue..."[lr]::
 379::$$$message_0000_0117_0004$$$::um sonho distante, muito distante.::
 
