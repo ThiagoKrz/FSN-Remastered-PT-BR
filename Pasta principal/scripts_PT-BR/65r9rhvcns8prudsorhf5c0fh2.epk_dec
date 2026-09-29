@@ -70,7 +70,7 @@ id=qid::label=str::text=lstr::
 38597::$$$message_0330_0025_0002$$$::Eu o ignoro e começo a andar.[lr]::
 38598::$$$message_0330_0025_0003$$$::Meu destino é dentro do templo.[lr]::
 38599::$$$message_0330_0025_0004$$$::Se este é o território da Caster, então seu ateliê é dentro do templo.::
-38600::$$$message_0330_0026_0000$$$::"Não acredito. Você não é páreo para a Caster sozinho. Se quiser continuar vivo, dê Não meia volta."[lr]::
+38600::$$$message_0330_0026_0000$$$::"Não acredito. Você não é páreo para a Caster sozinho. Se quiser continuar vivo, dê meia volta."[lr]::
 38601::$$$message_0330_0026_0001$$$::"......"[lr]::
 38602::$$$message_0330_0026_0002$$$::O Archer me segue, reclamando pelo caminho todo.::
 38603::$$$message_0330_0027_0000$$$::"Puta merda, cê vai desperdiçar a vida que eu acabei de salvar?[lr]::
@@ -88,7 +88,7 @@ id=qid::label=str::text=lstr::
 38615::$$$message_0330_0030_0002$$$::O Archer desce sua espada sobre mim.::
 38616::$$$message_0330_0031_0000$$$::"Ah... Guh...!?"[lr]::
 38617::$$$message_0330_0031_0001$$$::Ele me corta no ombro.[lr]::
-38618::$$$message_0330_0031_0002$$$::Meu sangue jorra e sinto que vou desmaiar nNo momento em que meu foco fraquejar.[lr]::
+38618::$$$message_0330_0031_0002$$$::Meu sangue jorra e sinto que vou desmaiar no momento em que meu foco fraquejar.[lr]::
 38619::$$$message_0330_0031_0003$$$::A dor é tão aguda que sinto como se minha pele e músculos estivessem queimando.::
 38620::$$$message_0330_0032_0000$$$::"Haah... Ah..."[lr]::
 38621::$$$message_0330_0032_0001$$$::Eu recuo com passos vacilantes.[lr]::

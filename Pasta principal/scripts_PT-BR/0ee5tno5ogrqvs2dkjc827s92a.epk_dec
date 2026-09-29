@@ -85,7 +85,7 @@ id=qid::label=str::text=lstr::
 46864::$$$message_0414_0026_0004$$$::Ela se mantém próxima a mim e dá uma resposta que não seria adequada para um Servo.::
 46865::$$$message_0414_0027_0000$$$::"Você tem certeza? Aquela garota é sua Mestra agora, certo?[r]:: 
 46866::$$$message_0414_0027_0001$$$::Um Servo deve proteger seu Mestre."[lr]::
-46867::$$$message_0414_0027_0002$$$::"Eu entendo isso. Mas eu gostaria de ficar aqui. Eu preciso assistir essa luta."[lr]::               
+46867::$$$message_0414_0027_0002$$$::"Eu entendo isso. Mas eu gostaria de ficar aqui. Eu preciso assistir essa luta."[lr]::
 46868::$$$message_0414_0027_0003$$$::"É mesmo? Faça como quiser então."::
 46869::$$$message_0414_0028_0000$$$::Lancer sai.[lr]::
 46870::$$$message_0414_0028_0001$$$::O lanceiro vestido de azul facilmente pula até o terraço e desaparece no corredor sem olhar para trás.::
@@ -189,7 +189,7 @@ id=qid::label=str::text=lstr::
 46968::$$$message_0414_0063_0000$$$::O desejo para que ninguém fique triste.[lr]::
 46969::$$$message_0414_0063_0001$$$::O desejo de salvar o máximo de pessoas possível.[lr]::
 46970::$$$message_0414_0063_0002$$$::Quando estes dois coexistem e se contradizem, só há uma solução.::
-46971::$$$message_0414_0064_0000$$$::Um herói da justiça só pode salvar aqueles de cujo lado ficou.::
+46971::$$$message_0414_0064_0000$$$::Um herói da justiça só pode salvar aqueles que ele escolheu salvar.::
 46972::$$$message_0414_0065_0000$$$::Se tentar salvar todo mundo significa não conseguir salvar ninguém, então...::
 46973::$$$message_0414_0066_0000$$$::A escolha certa a se fazer é sacrificar alguém para salvar a maior quantidade possível.::
 46974::$$$message_0414_0067_0000$$$::"Ser um herói da justiça significa salvar muitas pessoas, certo? É por isso que eu matei. Com a esperança de que ninguém precisaria morrer, eu escolhi matar um para salvar vários outros.[lr]::
@@ -333,7 +333,7 @@ id=qid::label=str::text=lstr::
 47112::$$$message_0414_0108_0003$$$::...São daquela noite...[lr]::
 47113::$$$message_0414_0108_0004$$$::As simples espadas gêmeas que eu admirei no Templo Ryuudou.[lr]::
 47114::$$$message_0414_0108_0005$$$::Espadas extraordinárias, forjadas por um artesão lendário ao custo da vida de sua própria esposa.::
-47115::$$$message_0414_0109_0000$$$::"[line4]Trace, on. (Iniciar Projeção)"[lr]::
+47115::$$$message_0414_0109_0000$$$::"[line4]Trace, on. (Iniciar Projeção.)"[lr]::
 47116::$$$message_0414_0109_0001$$$::Usando uma imagem mental do diagrama que já estava completo, reproduzo as espadas gêmeas.::
 47117::$$$message_0414_0110_0000$$$::...Que trabalho ruim.[lr]::
 47118::$$$message_0414_0110_0001$$$::As espadas gêmeas, que eu um dia pensei serem perfeitas, são muito imprecisas comparadas às dele.[lr]::

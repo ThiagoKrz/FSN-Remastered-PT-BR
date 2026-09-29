@@ -1,73 +1,72 @@
 DAT
 id=qid::label=str::text=lstr::
-71319::$$$message_0655_0000_0000$$$::Ela é solta.[lr]::
-71320::$$$message_0655_0000_0001$$$::O Selo de Comando negro que cobria o seu corpo desaparece.::
-71321::$$$message_0655_0001_0000$$$::Um anulador de contratos.[lr]::
-71322::$$$message_0655_0001_0001$$$::Um Fantasma Nobre que anula todas as magias e anula o contrato com um Servo.[lr]::
-71323::$$$message_0655_0001_0002$$$::Sem tirar a vida da Sakura, ela destrói o contrato que a ligava à sombra.::
-71324::$$$message_0655_0002_0000$$$::[w l=4][line4]Minha visão não é mais contínua.[lr]::
+71319::$$$message_0655_0000_0000$$$::Ela é libertada.[lr]::
+71320::$$$message_0655_0000_0001$$$::O Selo de Comando negro que cobria o seu corpo se despedaça.::
+71321::$$$message_0655_0001_0000$$$::A adaga que rompe contratos.[lr]::
+71322::$$$message_0655_0001_0001$$$::Um Fantasma Nobre que anula todos os efeitos de magia e rompe contratos com Servos.[lr]::
+71323::$$$message_0655_0001_0002$$$::Sem tirar a vida da Sakura, ela rompeu apenas o contrato que a mantinha presa.::
+71324::$$$message_0655_0002_0000$$$::[w l=4][line4]A imagem não continua.[lr]::
 71325::$$$message_0655_0002_0001$$$::Sakura está viva.[lr]::
-71326::$$$message_0655_0002_0002$$$::Não sei se é uma reação por estar livre, mas ela está deitada no chão como se estivesse dormindo.::
-71327::$$$message_0655_0003_0000$$$::Tohsaka[w l=3][line3]Tohsaka irá sobreviver também.[lr]::
+71326::$$$message_0655_0002_0002$$$::Talvez seja o efeito de ter sido libertada da sombra, mas agora ela está deitada como se estivesse dormindo.::
+71327::$$$message_0655_0003_0000$$$::Tohsaka[w l=3][line3]Ainda dá tempo para a Tohsaka também.[lr]::
 71328::$$$message_0655_0003_0001$$$::Ela não está mais sangrando. Ela tem um Brasão Mágico legítimo.[lr]::
-71329::$$$message_0655_0003_0002$$$::O Brasão é a personificação da taumaturgia da família Tohsaka. Ele não deixará a sua sucessora morrer mesmo se ela estiver inconsciente.::
+71329::$$$message_0655_0003_0002$$$::O Brasão é a cristalização da magia que a família Tohsaka transmitiu ao longo das gerações. Mesmo que ela perca a consciência, ele não deixará a sua sucessora morrer tão facilmente.::
 71330::$$$message_0655_0004_0000$$$::"[w l=8][line8]"[lr]::
-71331::$$$message_0655_0004_0001$$$::A caverna está tremendo.[lr]::
+71331::$$$message_0655_0004_0001$$$::A grande caverna está tremendo.[lr]::
 71332::$$$message_0655_0004_0002$$$::Angra Mainyu.[lr]::
 71333::$$$message_0655_0004_0003$$$::Uma maldição ridícula chamada "todos os males do mundo" está se contorcendo.::
 71334::$$$message_0655_0005_0000$$$::...Droga.[lr]::
 71335::$$$message_0655_0005_0001$$$::Mesmo após perder a sua hospedeira, a sombra negra ainda não desapareceu.[lr]::
 71336::$$$message_0655_0005_0002$$$::Ele já cresceu demais.[lr]::
-71337::$$$message_0655_0005_0003$$$::Ele pode nascer sem a ajuda da Sakura.[lr]::
-71338::$$$message_0655_0005_0004$$$::Ele irá emergir enquanto o Grande Santo Graal existir.::
+71337::$$$message_0655_0005_0003$$$::Aquela sombra já consegue sair mesmo sem a Sakura.[lr]::
+71338::$$$message_0655_0005_0004$$$::Enquanto este Graal Maior existir, mais cedo ou mais tarde ela vai rastejar para fora por conta própria.::
 71339::$$$message_0655_0006_0000$$$::[w l=4][line4]Irei destruí-lo.[lr]::
 71340::$$$message_0655_0006_0001$$$::Irei destruir o círculo mágico gigante junto com a sombra.[lr]::
-71341::$$$message_0655_0006_0002$$$::A atividade fetal do Angra Mainyu está lentamente destruindo a caverna.[lr]::
-71342::$$$message_0655_0006_0003$$$::...Mas eu não acho que ele irá morrer mesmo se a caverna desabar.[lr]::
-71343::$$$message_0655_0006_0004$$$::Tenho que destruir aquela coisa aqui e agora.::
+71341::$$$message_0655_0006_0002$$$::Os movimentos fetais de Angra Mainyu estão destruindo a caverna aos poucos.[lr]::
+71342::$$$message_0655_0006_0003$$$::...Mas não acho que aquilo vá desaparecer mesmo que a caverna desabe.[lr]::
+71343::$$$message_0655_0006_0004$$$::Tenho que eliminar aquilo aqui, sem deixar nenhum vestígio.::
 71344::$$$message_0655_0007_0000$$$::Isso é possível?[lr]::
-71345::$$$message_0655_0007_0001$$$::...Sim, é possível.[lr]::
-71346::$$$message_0655_0007_0002$$$::Irei me aproximar dele o máximo que puder e atacarei com uma força gigantesca.::
+71345::$$$message_0655_0007_0001$$$::...É, não é impossível.[lr]::
+71346::$$$message_0655_0007_0002$$$::Irei me aproximar dos pés dele o máximo que puder e disparar um ataque com enorme poder.::
 71347::$$$message_0655_0008_0000$$$::Angra Mainyu não pode se mover enquanto estiver dentro das chamas negras.[lr]::
-71348::$$$message_0655_0008_0001$$$::Irei partí-lo em dois antes que ele possa emergir.[lr]::
+71348::$$$message_0655_0008_0001$$$::Irei parti-lo em dois antes que consiga sair e devolvê-lo ao seu estado original, o de uma "coisa inexistente".[lr]::
 71349::$$$message_0655_0008_0002$$$::Se existe algo capaz de fazer tal coisa, é[w l=4][line4][lr]::
-71350::$$$message_0655_0008_0003$$$::O Fantasma Nobre mais forte que eu conheço.::
-71351::$$$message_0655_0009_0000$$$::"[w l=8][line8]Guh."[lr]::
-71352::$$$message_0655_0009_0001$$$::Minha respiração parou por um momento.[lr]::
+71350::$$$message_0655_0008_0003$$$::Usar o Fantasma Nobre mais forte que eu conheço para varrer aquele monstro.::
+71351::$$$message_0655_0009_0000$$$::"[w l=8][line8]Cof."[lr]::
+71352::$$$message_0655_0009_0001$$$::Minha respiração parou.[lr]::
 71353::$$$message_0655_0009_0002$$$::Há cerca de cem metros até o Angra Mainyu.[lr]::
 71354::$$$message_0655_0009_0003$$$::...Está tudo bem, eu consigo caminhar essa distância.[lr]::
 71355::$$$message_0655_0009_0004$$$::Só mais uma vez.[lr]::
 71356::$$$message_0655_0009_0005$$$::Uma última projeção, e estará tudo acabado.[lr]::
 71357::$$$message_0655_0009_0006$$$::Está tudo bem, eu consigo.[lr]::
-71358::$$$message_0655_0009_0007$$$::Eu vou terminar isso, levar as duas lá pra cima e...::
+71358::$$$message_0655_0009_0007$$$::Vou acabar logo com isso e levar as duas de volta pra...::
 71359::$$$message_0655_0010_0000$$$::"Shirou, consegue me ouvir?"[lr]::
-71360::$$$message_0655_0010_0001$$$::Alguém toca o meu ombro.::
+71360::$$$message_0655_0010_0001$$$::Uma desconhecida toca o meu ombro.::
 71361::$$$message_0655_0011_0000$$$::"[w l=8][line8]"[lr]::
-71362::$$$message_0655_0011_0001$$$::...Quem é ela?[lr]::
+71362::$$$message_0655_0011_0001$$$::...Quem era ela mesmo?[lr]::
 71363::$$$message_0655_0011_0002$$$::Ela não pode ser uma desconhecida.[lr]::
 71364::$$$message_0655_0011_0003$$$::Eu a conheço. Ela parece perigosa, mas me lembro que ela é confiável.::
 71365::$$$message_0655_0012_0000$$$::"Ótimo. Você consegue pegar a Sakura e a Tohsaka e fugir daqui?"[lr]::
 71366::$$$message_0655_0012_0001$$$::"[w l=5][line5]Shirou?"[lr]::
-71367::$$$message_0655_0012_0002$$$::A mulher de cabelos longos me olha por alguns segundos.::
+71367::$$$message_0655_0012_0002$$$::A mulher de cabelos longos me encara por alguns segundos, como se estivesse me avaliando.::
 71368::$$$message_0655_0013_0000$$$::"Mas e você?"[lr]::
-71369::$$$message_0655_0013_0001$$$::"Eu irei depois de destruir aquela coisa. Será rápido, mas cada segundo é crucial para a Tohsaka. E a Sakura pode ser afetada pela sombra se ela permanecer aqui. Angra Mainyu pode ser persistente e tentar fazer a Sakura virar sua Mestra novamente."::
+71369::$$$message_0655_0013_0001$$$::"Eu irei depois de fechar aquilo. Deve ser rápido, mas o ferimento da Tohsaka não pode esperar. A Sakura também pode ser afetada por aquilo se ficar aqui. Esse tal de Angra Mainyu pode insistir em transformar a Sakura em Mestra de novo."::
 71370::$$$message_0655_0014_0000$$$::"[w l=4][line4]Entendido. Irei carregar a Rin e a Sakura.[lr]::
-71371::$$$message_0655_0014_0001$$$::Você pode ficar sossegado. Eu descansei o suficiente para fazer isso."[lr]::
+71371::$$$message_0655_0014_0001$$$::Fique tranquilo. Acho que já recuperei forças o bastante para isso."[lr]::
 71372::$$$message_0655_0014_0002$$$::"Por favor. Leve as duas para fora daqui. A caverna está desmoronando. Uhm, R[w l=3][line3]R- droga, com a sua velocidade você não terá problemas para desviar as rochas que estão caindo."::
 71373::$$$message_0655_0015_0000$$$::".....................[lr]::
 71374::$$$message_0655_0015_0001$$$::[w l=4][line4]Então estou indo. Virei te buscar depois de deixá-las em um local seguro."::
-71375::$$$message_0655_0016_0000$$$::"Uhm... Isso é gentil da sua parte, mas primeiro certifique-se de que elas estão bem. Você é a única pessoa em que posso confiar. Irei escapar sozinho, por isso cuide da Tohsaka por favor. A Sakura não será feliz sem ela."::
+71375::$$$message_0655_0016_0000$$$::"Uhm... É bom saber disso, mas primeiro cuide das duas. Você é a única em quem posso confiar. Eu vou me virar pra sair daqui sozinho, então cuide da Tohsaka, por favor. A Sakura não pode ser feliz sem ela."::
 71376::$$$message_0655_0017_0000$$$::...Eu não acho que essa mulher tenha alguma habilidade de curar pessoas.[lr]::
-71377::$$$message_0655_0017_0001$$$::Mas ainda assim devo confiar a vida da Tohsaka à ela.::
+71377::$$$message_0655_0017_0001$$$::Mesmo sabendo que é pedir demais, não tenho escolha a não ser confiar a vida da Tohsaka a ela.::
 71378::$$$message_0655_0018_0000$$$::"Certamente. Mas o mesmo vale pra você, Shirou.[lr]::
-71379::$$$message_0655_0018_0001$$$::Sakura precisa de você e da Rin. Por favor, lembre-se disso. ...Eu preciso que você apoie a Sakura."::
+71379::$$$message_0655_0018_0001$$$::A Sakura precisa de você e da Rin. Tenha isso em mente. ...Eu também não aceitaria que outra pessoa além de você fosse quem apoiasse a Sakura."::
 71380::$$$message_0655_0019_0000$$$::"......?"[lr]::
 71381::$$$message_0655_0019_0001$$$::"Irei me apressar. [w l=4][line4]Boa sorte."::
 71382::$$$message_0655_0020_0000$$$::A mulher de preto pega as duas com facilidade e desce o penhasco correndo.[lr]::
-71383::$$$message_0655_0020_0001$$$::[w l=3][line3]Passando entre as rochas que caem pela caverna, ela corre em direção à saída.::
+71383::$$$message_0655_0020_0001$$$::[w l=3][line3]Desviando dos pedaços do teto que caem enquanto a caverna desmorona, ela dispara em direção à saída.::
 71384::$$$message_0655_0021_0000$$$::"[w l=8][line8]Ufa."[lr]::
 71385::$$$message_0655_0021_0001$$$::...Não preciso me preocupar com elas agora.[lr]::
 71386::$$$message_0655_0021_0002$$$::Elas serão salvas se eu deixar ela tomar conta delas.[lr]::
 71387::$$$message_0655_0021_0003$$$::Então[w l=4][line4][lr]::
 71388::$$$message_0655_0021_0004$$$::Agora, só preciso cuidar de mais uma coisa.::
-9

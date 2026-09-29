@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 77704::$$$message_0723_0000_0000$$$::"Hah, hah!"[lr]::
 77705::$$$message_0723_0000_0001$$$::Disparo em direção ao parque sem olhar para trás.[lr]::
-77706::$$$message_0723_0000_0002$$$::A Energia Mágica que vaza dali é imensa e profundamente repulsiva.[lr]::
+77706::$$$message_0723_0000_0002$$$::A energia mágica que vaza dali é imensa e profundamente repulsiva.[lr]::
 77707::$$$message_0723_0000_0003$$$::É como uma mancha de óleo no meio de um riacho cristalino.[lr]::
 77708::$$$message_0723_0000_0004$$$::Até eu consigo sentir uma força [font italic=true]densa[font italic=false] assim.::
 77709::$$$message_0723_0001_0000$$$::Saber para.[lr]::
@@ -45,7 +45,7 @@ id=qid::label=str::text=lstr::
 77746::$$$message_0723_0010_0005$$$::Minha razão foi pelos ares.::
 77747::$$$message_0723_0011_0000$$$::"Se eu matei [font italic=true]ela[font italic=false]? Servos se alimentam de humanos, seu idiota! O que você esperava?"[lr]::
 77748::$$$message_0723_0011_0001$$$::[font italic=true]...[font italic=false]::
-77749::$$$message_0723_0012_0000$$$::"Acho de mau gosto, mas o que eu podia fazer? Eles precisam se alimentar de gente viva. A única forma de manter um Servo é continuar fornecendo Energia Mágica. Você também saiu por aí procurando presa, não saiu?"::
+77749::$$$message_0723_0012_0000$$$::"Acho de mau gosto, mas o que eu podia fazer? Eles precisam se alimentar de gente viva. A única forma de manter um Servo é continuar fornecendo energia mágica. Você também saiu por aí procurando presa, não saiu?"::
 77750::$$$message_0723_0013_0000$$$::O Servo vestido de preto não se move.[lr]::
 77751::$$$message_0723_0013_0001$$$::É como um cão de ataque bem treinado,[lr]::
 77752::$$$message_0723_0013_0002$$$::que não age sem receber ordens.[lr]::
@@ -194,7 +194,7 @@ id=qid::label=str::text=lstr::
 77895::$$$message_0723_0065_0000$$$::[font italic=true]...[font italic=false][lr]::
 77896::$$$message_0723_0065_0001$$$::Então... o quê?[lr]::
 77897::$$$message_0723_0065_0002$$$::Em regra, só magos se tornam Mestres.[lr]::
-77898::$$$message_0723_0065_0003$$$::O velho está dizendo que Shinji aprendeu Magia como tradição de família?::
+77898::$$$message_0723_0065_0003$$$::O velho está dizendo que Shinji aprendeu magia como tradição de família?::
 77899::$$$message_0723_0066_0000$$$::"A família Matou[line2]vocês são uma linhagem de magos?"[lr]::
 77900::$$$message_0723_0066_0001$$$::"Você não sabia? Tanto a família Tohsaka quanto a família Matou têm raízes profundas nesta terra.[lr]::
 77901::$$$message_0723_0066_0002$$$::Dito isso, nossa linhagem entrou em declínio há muito tempo.[lr]::

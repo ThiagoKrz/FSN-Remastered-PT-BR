@@ -2,8 +2,8 @@ DAT
 id=qid::label=str::text=lstr::
 46546::$$$message_0412_0000_0000$$$::                                      "...Você não pode salvar todo mundo."::
 46547::$$$message_0412_0001_0000$$$::Quando ouvi isso do homem que eu acreditava ser capaz de salvar todos, senti apenas repulsa.::
-46548::$$$message_0412_0002_0000$$$::                  "...Olha, Shirou.[lr]::
-46549::$$$message_0412_0002_0001$$$::                  Um herói da justiça só pode salvar aqueles de cujo lado ficou."::
+46548::$$$message_0412_0002_0000$$$::                  "...Escute, Shirou.[lr]::
+46549::$$$message_0412_0002_0001$$$::                  Um herói da justiça só pode salvar aqueles ele escolheu salvar."::
 46550::$$$message_0412_0003_0000$$$::Também não gostei dessas palavras.[lr]::
 46551::$$$message_0412_0003_0001$$$::Eu não queria que a pessoa que eu achava ser o próprio herói da justiça dissesse coisas tão realistas.::
 46552::$$$message_0412_0004_0000$$$::...Desde aquela época, minha vida tem sido apenas uma tentativa de derrubar essas palavras.[lr]::
@@ -11,7 +11,7 @@ id=qid::label=str::text=lstr::
 46554::$$$message_0412_0004_0002$$$::Ninguém se machucará se você trabalhar duro e der o seu melhor.[lr]::
 46555::$$$message_0412_0004_0003$$$::Meu velho também devia admirar isso desde sempre.[lr]::
 46556::$$$message_0412_0004_0004$$$::Então...::
-46557::$$$message_0412_0005_0000$$$::                                             "É... estou aliviado."::
+46557::$$$message_0412_0005_0000$$$::                                             "Sim[line3]que alívio..."::
 46558::$$$message_0412_0006_0000$$$::Não consigo desviar os olhos do último momento dele.::
 46559::$$$message_0412_0007_0000$$$::Tohsaka disse que uma vida assim é distorcida.[lr]::
 46560::$$$message_0412_0007_0001$$$::...Eu sei.[lr]::

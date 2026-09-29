@@ -26,7 +26,7 @@ id=qid::label=str::text=lstr::
 75483::$$$message_0695_0005_0003$$$::Esse é o motivo da preocupação dela.[lr]::
 75484::$$$message_0695_0005_0004$$$::Ela fugiu do castelo não com medo da sua própria derrota, mas com medo de perder o seu Servo.::
 75485::$$$message_0695_0006_0000$$$::Carregada nos braços do gigante negro, ela dispara pela floresta.[lr]::
-75486::$$$message_0695_0006_0001$$$::A sua preocupação não desaparece, mas ataca ela com mais peso ainda.[lr]::
+75486::$$$message_0695_0006_0001$$$::A sua preocupação não desaparece, mas a ataca com mais peso ainda.[lr]::
 75487::$$$message_0695_0006_0002$$$::[w l=3][line3]Ela não pode fugir.[lr]::
 75488::$$$message_0695_0006_0003$$$::A garota percebe vagamente que não pode escapar daquela ansiedade, daquele medo[w l=3][line3]e o gigante para.::
 75489::$$$message_0695_0007_0000$$$::"Ah. Que sensata. Você saiu porque sabia que não podia vencer."::
@@ -43,7 +43,7 @@ id=qid::label=str::text=lstr::
 75500::$$$message_0695_0011_0001$$$::A menina o encara friamente enquanto ele ri.[lr]::
 75501::$$$message_0695_0011_0002$$$::...O Santo Graal não escolhe, assim como o velho disse.[lr]::
 75502::$$$message_0695_0011_0003$$$::Os Mestres são escolhidos pelo Santo Graal, os Servos ganham forma física com o poder do Santo Graal, e eles permanecem nesse mundo com a ajuda dos Mestres.[lr]::
-75503::$$$message_0695_0011_0004$$$::Essa premissa, essa regra, foi deliberadamente distorcida antes de ser transmitida.[lr]::
+75503::$$$message_0695_0011_0004$$$::Essa premissa,estabelecida como uma regra, foi deliberadamente distorcida antes de ser transmitida.[lr]::
 75504::$$$message_0695_0011_0005$$$::A menina sabe que o objetivo da Guerra do Santo Graal é na verdade o oposto.::
 75505::$$$message_0695_0012_0000$$$::O Santo Graal é apenas algo para ser preenchido.[lr]::
 75506::$$$message_0695_0012_0001$$$::Os Mestres não são escolhidos, mas sim preparados como parte do ritual.[lr]::
@@ -53,7 +53,7 @@ id=qid::label=str::text=lstr::
 75510::$$$message_0695_0013_0002$$$::[w l=3][line3]Bem, tenho certeza que o sangue dos Makiris entrou em declínio porque você, um dos envolvidos, esqueceu de uma coisa dessas."[lr]::
 75511::$$$message_0695_0013_0003$$$::Sua voz é fria.[lr]::
 75512::$$$message_0695_0013_0004$$$::O velho aceita o seu desprezo com uma risada.::
-75513::$$$message_0695_0014_0000$$$::"Ah, n. O declínio dos Makiri termina aqui. As coisas já estão se encaminhando. Eu pretendia realizar isso no próximo ritual, mas desta vez fui agraciado com peças excelentes. Falta apenas um passo para realizar meu tão antigo desejo."[lr]::
+75513::$$$message_0695_0014_0000$$$::"Ah, não precisa se preocupar. O declínio dos Makiri termina aqui. As coisas já estão se encaminhando. Eu pretendia realizar isso no próximo ritual, mas desta vez fui agraciado com peças excelentes. Falta apenas um passo para realizar meu tão antigo desejo."[lr]::
 75514::$$$message_0695_0014_0001$$$::"Entendo. Então faça como quiser. Não estou interessada em você. Eu não gosto que haja outros recipientes além de mim, mas você vai falhar de qualquer jeito. Eu não vou te incomodar, então por que não volta para o buraco de onde você saiu?"::
 75515::$$$message_0695_0015_0000$$$::"Você não precisa me dizer isso. A luz do Sol é dolorosa nesse meu corpo velho, por isso vou voltar para o meu covil assim que eu resolver o meu assunto aqui.[lr]::
 75516::$$$message_0695_0015_0001$$$::Mas[w l=3][line3]eu fico preocupado quando as coisas dão certo demais desse jeito. Eu irei pegar o seu corpo, só como precaução. O meu maior desejo vai praticamente estar realizado se eu te capturar aqui."::
@@ -71,12 +71,12 @@ id=qid::label=str::text=lstr::
 75528::$$$message_0695_0017_0003$$$::O Assassin não fala, mas o seu mestre ri em seu lugar.::
 75529::$$$message_0695_0018_0000$$$::"É claro que eu valorizo a minha vida! O meu é desejo é a imortalidade. O desejo dele é que o seu nome permaneça para sempre nesse mundo. Nós lutamos juntos buscando o mesmo objetivo."[lr]::
 75530::$$$message_0695_0018_0001$$$::"...Você está louco? Você deseja o Santo Graal para ganhar imortalidade?"[lr]::
-75531::$$$message_0695_0018_0002$$$::O ódio é visível nos olhos da menina.[lr]::
-75532::$$$message_0695_0018_0003$$$::O sorriso dele fica ainda maior.[lr]::
+75531::$$$message_0695_0018_0002$$$::O nojo surge nos olhos da garota.[lr]::
+75532::$$$message_0695_0018_0003$$$::A boca do velho se contorce ainda mais.[lr]::
 75533::$$$message_0695_0018_0004$$$::É como se ele já estivesse esperando por essa reação de desprezo.::
 75534::$$$message_0695_0019_0000$$$::"É claro. Olhe para esse corpo. Ele apodrece a cada segundo, fede a decomposição, derrete minha carne e meus ossos, e meu cérebro deteriora perdendo a inteligência.[lr]::
 75535::$$$message_0695_0019_0001$$$::[w l=3][line3]Essa dor. Você entende a dor que é apodrecer vivo?"[lr]::
-75536::$$$message_0695_0019_0002$$$::"...Isso é culpa sua. O corpo humano não pode suportar centenas de anos. É preciso uma compensação se quiser ir além. Se é doloroso, você pode escapar disso morrendo."::
+75536::$$$message_0695_0019_0002$$$::"...Você mesmo provocou isso. O corpo humano não suporta cem anos. Se quer ultrapassar esse limite, precisa pagar um preço. Se não consegue suportá-lo, então desapareça. Se está sofrendo tanto, morrer não tornaria tudo mais fácil?"::
 75537::$$$message_0695_0020_0000$$$::"[w l=8][line8]Ka."[lr]::
 75538::$$$message_0695_0020_0001$$$::O corpo velho estremece.[lr]::
 75539::$$$message_0695_0020_0002$$$::O mago estremece, como se estivesse tossindo, e...[lr]::
@@ -84,44 +84,44 @@ id=qid::label=str::text=lstr::
 75541::$$$message_0695_0020_0004$$$::Ele ri do fundo do seu coração.::
 75542::$$$message_0695_0021_0000$$$::"...O que você disse?"[lr]::
 75543::$$$message_0695_0021_0001$$$::"[w l=4][line4]Idiota. Ouça bem, filha do inverno.[lr]::
-75544::$$$message_0695_0021_0002$$$::Para os humanos, não existe arrependimento maior do que a morte. A dor da minha carne podre se tornar o ninho de vermes é como ter uma infecção no meu cérebro comparado à morte.[lr]::
-75545::$$$message_0695_0021_0003$$$::A simples fuga da dor é para me manter vivo. Dizer que você vai fugir da dor se você morrer é a prova de que você não está vivo.[lr]::
+75544::$$$message_0695_0021_0002$$$::Para um ser humano, não existe pesar maior que a morte. Esta dor de servir de criadouro para vermes não chega nem à picada de um mosquito quando comparada à minha própria morte.[lr]::
+75545::$$$message_0695_0021_0003$$$::A continuidade da própria existência é a única verdade capaz de nos libertar do sofrimento. Dizer que a morte traz alívio não é justamente a prova de que você nunca esteve verdadeiramente viva?[lr]::
 75546::$$$message_0695_0021_0004$$$::Por isso você é apenas uma marionete. Esse seu corpo feito às pressas não deve durar mais do que um ano. Um produto artificial que viverá tão pouco nunca entenderá a paixão dos seres humanos...!"::
 75547::$$$message_0695_0022_0000$$$::"[w l=3][line3]Sim, eu não entendo. Você é uma exceção até mesmo para os humanos. Você não consegue aceitar a sua expectativa de vida apesar de já ter vivido tanto tempo. Só consigo pensar que você está louco.[lr]::
-75548::$$$message_0695_0022_0001$$$::Você quer tanto assim deixar de morrer?"::
-75549::$$$message_0695_0023_0000$$$::"É claro. Eu não posso morrer. Eu não quero morrer. Eu tenho que continuar vivendo nesse mundo. Mas estou no meu limite. O que eu preciso agora é de um corpo que possa durar para sempre sem apodrecer.[lr]::
+75548::$$$message_0695_0022_0001$$$::Você realmente não quer morrer de jeito nenhum??"::
+75549::$$$message_0695_0023_0000$$$::"É claro. Eu não posso morrer. Não quero morrer assim. Ainda preciso permanecer neste mundo e continuar vivendo. Mas este corpo já chegou ao limite. Por isso preciso de um corpo que não se desfaça, de um recipiente eterno que não apodreça. [lr]::
 75550::$$$message_0695_0023_0001$$$::[w l=4][line4]É por isso que..."[lr]::
 75551::$$$message_0695_0023_0002$$$::"É por isso que você quer obter o Santo Graal? Você busca o Santo Graal porque você tem medo da morte?"::
 75552::$$$message_0695_0024_0000$$$::"Hah, e existe alguém que não teme a morte?[lr]::
-75553::$$$message_0695_0024_0001$$$::Entenda, pouco importa em qual conclusão você chega na sua vida. Você não pode impedir o colapso do seu corpo ou o fim do mundo.[lr]::
-75554::$$$message_0695_0024_0002$$$::Que isso sirva de lição para você. Se houver um jeito de prolongar a sua vida e estiver ao seu alcance[w l=4][line4]os humanos são as criaturas que irão obtê-lo, mesmo se o preço for o mundo em si...!"::
+75553::$$$message_0695_0024_0001$$$::Entenda, não importa a que verdade ou estado de existência alguém chegue, tudo é inútil. É impossível superar o desaparecimento do próprio eu ou o fim do mundo.[lr]::
+75554::$$$message_0695_0024_0002$$$::Antes de morrer, grave isto. Se houver um jeito de prolongar a sua vida e estiver ao seu alcance[w l=4][line4]os humanos são as criaturas que irão obtê-lo, mesmo se o preço for o mundo em si...!"::
 75555::$$$message_0695_0025_0000$$$::"[w l=3][line3]Então você está dizendo que sacrificaria todas as outras pessoas para continuar vivo?"[lr]::
 75556::$$$message_0695_0025_0001$$$::"É claro. Eu mataria todo mundo nesse planeta sem problemas se isso realizasse o meu desejo.[lr]::
 75557::$$$message_0695_0025_0002$$$::Não há limites para a ganância humana.[lr]::
-75558::$$$message_0695_0025_0003$$$::Tenho certeza que você cortaria todas as árvores dessa floresta se elas fossem um remédio que prolongasse a sua vida. Mesmo que prolongasse por apenas um dia.[lr]::
-75559::$$$message_0695_0025_0004$$$::Matar uma parte do mundo para ganhar mais um dia de vida.[lr]::
-75560::$$$message_0695_0025_0005$$$::Esse desejo fará você matar todas as árvores desse mundo."::
-75561::$$$message_0695_0026_0000$$$::"Você não vai se importar se o mundo morrer por causa das suas ações.[lr]::
-75562::$$$message_0695_0026_0001$$$::Isso não é natural? Ao longo da história, a humanidade se expandiu, cresceu, prosperou e se alimentou desse jeito.[lr]::
+75558::$$$message_0695_0025_0003$$$::Tenho certeza de que você acabaria com esta floresta num piscar de olhos se cada uma de suas árvores pudesse prolongar sua vida. Mesmo que isso lhe desse menos de um dia a mais.[lr]::
+75559::$$$message_0695_0025_0004$$$::Você mataria uma parte do mundo só para ganhar mais um dia de vida.[lr]::
+75560::$$$message_0695_0025_0005$$$::E não pararia nesta floresta. Esse desejo acabaria levando você a matar todas as árvores do mundo.::
+75561::$$$message_0695_0026_0000$$$::"E que importa se, por causa desse ato, o mundo e todos os outros forem destruídos?.[lr]::
+75562::$$$message_0695_0026_0001$$$::Não é óbvio? Ao longo da história, a humanidade se expandiu, cresceu, prosperou e se alimentou desse jeito.[lr]::
 75563::$$$message_0695_0026_0002$$$::Não há tempo para reação em cadeia agora. Já que os humanos vão eventualmente desaparecer, ninguém vai ligar se eu não agir em consenso...!"::
 75564::$$$message_0695_0027_0000$$$::O velho fala alegremente.[lr]::
 75565::$$$message_0695_0027_0001$$$::Após olhar para ele com surpresa...[lr]::
-75566::$$$message_0695_0027_0002$$$::"[w l=3][line3]Estou sem palavras. Você se desviou tanto assim do seu caminho, Makiri?"[lr]::
-75567::$$$message_0695_0027_0003$$$::A menina fala com uma voz que não é dela.::
+75566::$$$message_0695_0027_0002$$$::"[w l=3][line3]Estou impressionada. Você perdeu de vista até isso, Makiri?"[lr]::
+75567::$$$message_0695_0027_0003$$$::A garota diz isso com uma voz que não parecia pertencer a uma menina.::
 75568::$$$message_0695_0028_0000$$$::"...O quê?"[lr]::
-75569::$$$message_0695_0028_0001$$$::"Lembre-se de onde veio o nosso desejo por um milagre.[lr]::
-75570::$$$message_0695_0028_0002$$$::Por que escolhemos ter essa forma humana, e por que estamos tentando alcançar aquele lugar mantendo a nossa forma humana."::
+75569::$$$message_0695_0028_0001$$$::"Lembre-se. De onde nasceu o nosso grande desejo, essa ânsia de alcançar um milagre?[lr]::
+75570::$$$message_0695_0028_0002$$$::Por que insistimos em continuar humanos e, ainda em corpos humanos, tentamos alcançar um ponto além da humanidade?"::
 75571::$$$message_0695_0029_0000$$$::"[w l=8][line8]"[lr]::
 75572::$$$message_0695_0029_0001$$$::A sua risada para.[lr]::
 75573::$$$message_0695_0029_0002$$$::Os olhos do mago perdem o foco, como se estivesse olhando para o céu distante.[lr]::
-75574::$$$message_0695_0029_0003$$$::"[w l=3][line3]Hah, falou muito bem para uma marionete. Então a imitação da Justeaze já está impressa em você."[lr]::
-75575::$$$message_0695_0029_0004$$$::Ele distorce o seu rosto com o ódio e encara a menina branca.::
+75574::$$$message_0695_0029_0003$$$::"[w l=3][line3]Hmph. Você fala bem para uma simples marionete. Então até a imitação de Justeaze já foi gravada em você."[lr]::
+75575::$$$message_0695_0029_0004$$$::Ele contorce o rosto de maneira repulsiva e encara fixamente a garota de branco.::
 75576::$$$message_0695_0030_0000$$$::"[w l=4][line4]Chega de conversa. Já brincamos o bastante. Eu preciso do seu corpo, mas não da sua mente. Eu, Makiri Zouken, vou pegar o Santo Graal dos Einzberns."[lr]::
 75577::$$$message_0695_0030_0001$$$::"[w l=8][line8]"[lr]::
 75578::$$$message_0695_0030_0002$$$::A sombra do velho rasteja pelo chão.[lr]::
 75579::$$$message_0695_0030_0003$$$::...Com isso, a pressão na menina aumenta.::
 75580::$$$message_0695_0031_0000$$$::"[wacky len=12]"[lr]::
-75581::$$$message_0695_0031_0001$$$::O gigante negro entra na batalha sem esperar pela ordem da menina.[lr]::
+75581::$$$message_0695_0031_0001$$$::O gigante negro parte para a batalha sem sequer esperar pela ordem da garota, sua Mestre.[lr]::
 75582::$$$message_0695_0031_0002$$$::"Não...! Volte, Berserker...!"[lr]::
 75583::$$$message_0695_0031_0003$$$::A voz da menina não chega até ele.[lr]::
 75584::$$$message_0695_0031_0004$$$::O gigante negro, acompanhado por um redemoinho, corta a sombra rastejante, porém[w l=4][line4]::
