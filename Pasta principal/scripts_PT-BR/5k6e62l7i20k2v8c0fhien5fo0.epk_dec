@@ -198,7 +198,7 @@ id=qid::label=str::text=lstr::
 49410::$$$message_0425_0068_0000$$$::"...Isso mesmo. Só há uma coisa que eu consigo fazer, e isso é dar forma para o que está em minha mente."[lr]::
 49411::$$$message_0425_0068_0001$$$::Lentamente movimento meu corpo.[lr]::
 49412::$$$message_0425_0068_0002$$$::Agarro meu braço direito estendido com a mão esquerda e olho para o Gilgamesh.::
-49413::$$$message_0425_0069_0000$$$::"[line4]I am the bone of my sword. (Meu corpo é feito de espadas.)"[lr]::
+49413::$$$message_0425_0069_0000$$$::"[line4][ruby text=Meu corpo é feito de espadas. char=26]I am the bone of my sword."[lr]::
 49414::$$$message_0425_0069_0001$$$::Eu conjuro o encantamento.[lr]::
 49415::$$$message_0425_0069_0002$$$::Conjurar é somente uma sugestão para causar mudanças em mim mesmo.[lr]::
 49416::$$$message_0425_0069_0003$$$::Essas são as palavras mais adequadas que existem para conectar Emiya Shirou.::
@@ -211,16 +211,16 @@ id=qid::label=str::text=lstr::
 49423::$$$message_0425_0071_0001$$$::O enxame de espadas bate no escudo.[lr]::
 49424::$$$message_0425_0071_0002$$$::Esse escudo é o próprio Emiya Shirou.[lr]::
 49425::$$$message_0425_0071_0003$$$::Meu corpo quebra enquanto cada uma das sete pétalas do meu escudo é perfurada e danificada.::
-49426::$$$message_0425_0072_0000$$$::"[line3]Steel is my body, and fire is my blood. ::
-49427::$$$message_0425_0072_0001$$$::(Meu sangue é de aço, meu coração é de vidro.)"[lr]::
+49426::$$$message_0425_0072_0000$$$::"[line3][ruby text=Meu sangue é de aço, char=17]Steel is my body, and fire is ::
+49427::$$$message_0425_0072_0001$$$::[ruby text=meu coração é de vidro. char=4]my blood."[lr]::
 49428::$$$message_0425_0072_0002$$$::Só há um lugar que eu preciso alcançar.[lr]::
 49429::$$$message_0425_0072_0003$$$::O poder fluindo preenche minha capacidade em um instante.::
 49430::$$$message_0425_0073_0000$$$::"O q[line4]uê?"[lr]::
 49431::$$$message_0425_0073_0001$$$::O que causou o choque dele?[lr]::
 49432::$$$message_0425_0073_0002$$$::São os Fantasmas Nobres que não conseguem penetrar pelo único escudo, ou é a energia mágica que está na nossa frente?::
-49433::$$$message_0425_0074_0000$$$::"[line3]I have created over a thousand blades. (Por diversos campos de batalha, permaneci invicto.)[r]::
-49434::$$$message_0425_0074_0001$$$::Unaware of loss. (Sem fugir sequer uma vez.)[r]::
-49435::$$$message_0425_0074_0002$$$::Nor aware of gain. (Sem sequer uma vitória.)"::
+49433::$$$message_0425_0074_0000$$$::"[line3][ruby text=Por diversos campos de batalha, permaneci invicto. char=38]I have created over a thousand blades.[r][r]::
+49434::$$$message_0425_0074_0001$$$::        [ruby text=Sem fugir sequer uma vez. char=16]Unaware of loss.[r][r]::
+49435::$$$message_0425_0074_0002$$$::        [ruby text=E sem sequer uma vitória. char=18]Nor aware of gain."::
 49436::$$$message_0425_0075_0000$$$::Vai quebrar.[lr]::
 49437::$$$message_0425_0075_0001$$$::A energia mágica transbordando não pode ser controlada.[lr]::
 49438::$$$message_0425_0075_0002$$$::Um único circuito é preenchido por energia mágica dez vezes maior que sua capacidade. Tentando escapar, a energia mágica quebra a fundação.::
@@ -229,8 +229,8 @@ id=qid::label=str::text=lstr::
 49441::$$$message_0425_0075_0005$$$::O escudo está cheio de buracos agora.[lr]::
 49442::$$$message_0425_0075_0006$$$::Mesmo que os Fantasmas Nobres não me alcancem, meu corpo está cheio de buracos.[lr]::
 49443::$$$message_0425_0075_0007$$$::Mas mesmo assim[line4]::
-49444::$$$message_0425_0075_0008$$$::"Withstood pain to create weapons. (O portador permanece aqui sozinho.)[r]::
-49445::$$$message_0425_0075_0009$$$::Waiting for one's arrival. (Forjando ferro na colina de espadas.)"::
+49444::$$$message_0425_0075_0008$$$::"[ruby text=O portador permanece aqui sozinho. char=33]Withstood pain to create weapons.[r][r]::
+49445::$$$message_0425_0075_0009$$$::        [ruby text=Forjando ferro na colina de espadas. char=26]Waiting for one's arrival."::
 49446::$$$message_0425_0075_0010$$$::Energia mágica fica descontrolada ao meu redor.[lr]::
 49447::$$$message_0425_0075_0011$$$::Mas eu não me importo.[lr]::
 49448::$$$message_0425_0075_0012$$$::Esse corpo é um circuito especializado em usar essa "única magia" desde o começo.[lr]::
@@ -241,9 +241,9 @@ id=qid::label=str::text=lstr::
 49453::$$$message_0425_0076_0002$$$::Não havia limitação para o circuito desde o começo.[lr]::
 49454::$$$message_0425_0076_0003$$$::Se foi uma escuridão, não uma parede, que parou a energia mágica...[lr]::
 49455::$$$message_0425_0076_0004$$$::Então o limite é algum lugar além da escuridão[line4]::
-49456::$$$message_0425_0077_0000$$$::"[line2]Sem arrependimentos ele seguiu seu caminho."::
+49456::$$$message_0425_0077_0000$$$::"[line2][ruby text=Então, minha vida não precisa de um sentido. char=41]I have no regrets. This is the only path."::
 49457::$$$message_0425_0078_0000$$$::Um único circuito é preenchido por energia mágica dez vezes maior que sua capacidade. Tentando escapar, a energia mágica quebra a fundação. Sendo assim, irei usar cem circuitos para concentrar mil vezes a capacidade de energia mágica.::
-49458::$$$message_0425_0079_0000$$$::"My whole life was unlimited blade works. (Este corpo é feito de espadas infinitas.)"::
+49458::$$$message_0425_0079_0000$$$::"[ruby text=Este corpo foi feito de espadas infinitas. char=40]My whole life was unlimited blade works."::
 49459::$$$message_0425_0080_0000$$$::Eu conjuro o Nome Verdadeiro.[lr]::
 49460::$$$message_0425_0080_0001$$$::E nesse instante.[lr]::
 49461::$$$message_0425_0080_0002$$$::Tudo quebra e tudo se regenera.::
@@ -265,7 +265,7 @@ id=qid::label=str::text=lstr::
 49477::$$$message_0425_0085_0002$$$::É a maior magia proibida que materializa o mundo interno do conjurador.[lr]::
 49478::$$$message_0425_0085_0003$$$::Esse é o Fantasma Nobre do Espírito Heroico Emiya, e a única arma que eu possuo.::
 49479::$$$message_0425_0086_0000$$$::Tudo existe neste lugar, mas temo que também seja um lugar que não tem posse de nada.[lr]::
-49480::$$$message_0425_0086_0001$$$::Consequentemente, o nome escolhido foi Criação Ilimitada de Espadas (Unlimited Blade Works).[r]::
+49480::$$$message_0425_0086_0001$$$::Consequentemente, o nome escolhido foi Criação [ruby text=Unlimited Blade Works char=12]Ilimitada de Espadas.[r]::
 49481::$$$message_0425_0086_0002$$$::Essa é a única resposta definitiva obtida por aquele que viveu como uma espada sua vida inteira.::
 49482::$$$message_0425_0087_0000$$$::"[line3]Projeção de Realidade. Então essa é sua habilidade...!"[lr]::
 49483::$$$message_0425_0087_0001$$$::Dou um passo para frente.[lr]::

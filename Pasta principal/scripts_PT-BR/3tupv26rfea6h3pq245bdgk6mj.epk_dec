@@ -169,10 +169,10 @@ id=qid::label=str::text=lstr::
 51972::$$$message_0447_0062_0000$$$::"...Ah que seja. Não preciso me preocupar com coisas assim.[lr]::
 51973::$$$message_0447_0062_0001$$$::Vou apenas perguntar o que eu preciso saber.[lr]::
 51974::$$$message_0447_0062_0002$$$::Então, Sakura. Como têm sido as coisas pra você? Já fazem dois anos. Acha que dá conta?"::
-51975::$$$message_0447_0063_0000$$$::"[w l=3][line3]Sim. É um processo lento, mas fui capaz de aceitar um 1monte de coisas. Acho que deixar meus sentimentos de culpa me esmagarem é o mesmo que fugir.[lr]::
+51975::$$$message_0447_0063_0000$$$::"[w l=3][line3]Sim. É um processo lento, mas fui capaz de aceitar um monte de coisas. Acho que deixar meus sentimentos de culpa me esmagarem é o mesmo que fugir.[lr]::
 51976::$$$message_0447_0063_0001$$$::Vou fazer o que eu posso e tentar fazer o meu melhor."::
 51977::$$$message_0447_0064_0000$$$::"Entendi. Eu dei uma olhada rápida, mas a cidade parece ter voltado ao normal. As cicatrizes de dois anos atrás sumiram, e não aconteceu mais nenhum incidente estranho.[lr]::
-51978::$$$message_0447_0064_0001$$$::...Eu joguei minhas responsabilidades em cima de você você e fui para a Associação, mas acho que tudo terminou bem no final."::
+51978::$$$message_0447_0064_0001$$$::...Eu joguei minhas responsabilidades em cima de você e fui para a Associação, mas acho que tudo terminou bem no final."::
 51979::$$$message_0447_0065_0000$$$::"Sim. Foi difícil assumir a sua posição. Acho que sou muito mais forte agora graças a isso."[lr]::
 51980::$$$message_0447_0065_0001$$$::Ela deve estar querendo dizer mentalmente.[lr]::
 51981::$$$message_0447_0065_0002$$$::Bom, isso só significa que é melhor que a pessoa esteja andando por aí fazendo coisas ao invés de ficar parada se preocupando.::
@@ -234,7 +234,7 @@ id=qid::label=str::text=lstr::
 52037::$$$message_0447_0087_0001$$$::E além disso, eu consegui um passe livre para a Torre do Relógio. Por isso eu nomeei a Sakura como supervisora de Fuyuki e fui para Londres.::
 52038::$$$message_0447_0088_0000$$$::Já se passou um ano desde então.[lr]::
 52039::$$$message_0447_0088_0001$$$::A vida na Torre foi um pouco cansativa, mas assim como a Sakura, eu estou expandindo o meu território lentamente.::
-52040::$$$message_0447_0089_0000$$$::"...Entendi. Então, Nee-san. Emiya[w l=3][line3]Senpai's..."::
+52040::$$$message_0447_0089_0000$$$::"...Entendi. Então, Nee-san. Quanto a casa dos Emiya[w l=3][line3]quanto ao Senpai..."::
 52041::$$$message_0447_0090_0000$$$::"...Isso não será um problema.[lr]::
 52042::$$$message_0447_0090_0001$$$::Eu não contei a eles sobre ele, e o Kirei havia reportado que ele era só uma pessoa comum que foi morta ao se envolver com a guerra. ...Eu não sei se devemos nos considerar sortudas, mas somos as únicas que sabemos sobre ele."::
 52043::$$$message_0447_0091_0000$$$::"[line12]"::
@@ -396,7 +396,7 @@ id=qid::label=str::text=lstr::
 52199::$$$message_0447_0142_0000$$$::Ela me dá um pouco da sua alegria, e eu olho para o céu.::
 52200::$$$message_0447_0143_0000$$$::O inverno passou em um piscar de olhos, e agora é primavera.[lr]::
 52201::$$$message_0447_0143_0001$$$::O cenário está pintado de rosa, sem qualquer vestígio dos dias frios.[lr]::
-52202::$$$message_0447_0143_0002$$$::Eu continuo caminhando, pensando no que eu perdi e no que u ganhei.::
+52202::$$$message_0447_0143_0002$$$::Eu continuo caminhando, pensando no que eu perdi e no que eu ganhei.::
 52203::$$$message_0447_0144_0000$$$::[w l=4][line4]Bom.[lr]::
 52204::$$$message_0447_0144_0001$$$::A história nessa cidade terminou, mas a nossa história está apenas começando.[lr]::
 52205::$$$message_0447_0144_0002$$$::O rolo final virá no futuro distante.[lr]::

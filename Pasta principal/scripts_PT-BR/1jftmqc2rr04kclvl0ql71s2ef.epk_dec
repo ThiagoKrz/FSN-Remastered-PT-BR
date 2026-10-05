@@ -820,7 +820,7 @@ id=qid::label=str::text=lstr::
 28061::$$$message_0234_0244_0001$$$::Não vou mais me segurar. Até parece que vou ter simpatia por um cara distorcido desses!::
 28062::$$$message_0234_0245_0000$$$::"Que... você não vai...!?"[lr]::
 28063::$$$message_0234_0245_0001$$$::"Exatamente o que você está pensando, escória insolente![lr]::
-28064::$$$message_0234_0245_0002$$$::Vertrag! Ein neuer Nagel.  Ein neues Gesetz.  Ein neues Verbrechen[line3]![r](Eu declaro ao Selo de Comando! Por ordem do Santo Graal, force a lei de obediência sobre meu Servo!)"::
+28064::$$$message_0234_0245_0002$$$::[r]                  [ruby text=Eu declaro ao Selo de Comando! char=8]Vertrag![r][r]                  [ruby text=Por ordem do Santo Graal, char=16]Ein neuer Nagel.[r][r]                  [ruby text=force a lei de obediência sobre meu Servo! char=38]Ein neues Gesetz. Ein neues Verbrechen[line3]!"::
 28065::$$$message_0234_0246_0000$$$::"Idio...! Espere, está falando sério, Mestra!? Quem usaria um Selo de Comando por algo assim...!?"[lr]::
 28066::$$$message_0234_0246_0001$$$::"Calado![lr]::
 28067::$$$message_0234_0246_0002$$$::Escute aqui, você é o meu Servo! De você eu exijo nada além de obediência absoluta, entendeu!?"::

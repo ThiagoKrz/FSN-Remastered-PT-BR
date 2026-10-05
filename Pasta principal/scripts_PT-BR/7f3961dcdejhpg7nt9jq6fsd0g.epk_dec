@@ -90,7 +90,7 @@ id=qid::label=str::text=lstr::
 47540::$$$message_0416_0027_0002$$$::Mas até mesmo essa máquina tinha um ideal que queria proteger, então ele aceitou sua função como uma ferramenta conveniente.::
 47541::$$$message_0416_0028_0000$$$::[line4]Por diversos campos de batalha, permaneci invicto.[lr]::
 47542::$$$message_0416_0028_0001$$$::Sem fugir uma única vez.[lr]::
-47543::$$$message_0416_0028_0002$$$::Sem ter sido compreendido uma única vez.::
+47543::$$$message_0416_0028_0002$$$::E sem ser compreendido uma única vez.::
 47544::$$$message_0416_0029_0000$$$::Não era uma convicção da qual ele podia proclamar.[lr]::
 47545::$$$message_0416_0029_0001$$$::Quanto mais ele matava e quanto mais ele era incapaz de salvar, menos ele podia falar sobre seu ideal.[lr]::
 47546::$$$message_0416_0029_0002$$$::A única coisa que sobrou para ele era obstinadamente proteger seu ideal até o fim.::
@@ -107,7 +107,7 @@ id=qid::label=str::text=lstr::
 47557::$$$message_0416_0033_0004$$$::Eu não vou sentir compaixão.[lr]::
 47558::$$$message_0416_0033_0005$$$::Eu não vou sentir compaixão, mas...[lr]::
 47559::$$$message_0416_0033_0006$$$::Meu coração parece que vai se partir quando sei que esse é o caminho que me espera.::
-47560::$$$message_0416_0034_0000$$$::[line4]E por causa disso, esta vida não possui sentido.::
+47560::$$$message_0416_0034_0000$$$::[line4]Portanto, esta vida não possui sentido.::
 47561::$$$message_0416_0035_0000$$$::O que você acreditou.[lr]::
 47562::$$$message_0416_0035_0001$$$::O que você acredita.[lr]::
 47563::$$$message_0416_0035_0002$$$::Mesmo quando lhe foi mostrado que tudo era somente uma fantasia coberta com mentiras, você ainda[line4]::
@@ -376,7 +376,7 @@ id=qid::label=str::text=lstr::
 47826::$$$message_0416_0109_0000$$$::Então...[lr]::
 47827::$$$message_0416_0109_0001$$$::Assim como você está me rejeitando...[lr]::
 47828::$$$message_0416_0109_0002$$$::Vou usar todas as minhas forças para derrotar a existência que você se tornou[line4]!::
-47829::$$$message_0416_0110_0000$$$::"[line4]Meu corpo é feito de espadas. (I am the bone of my sword.)"[lr]::
+47829::$$$message_0416_0110_0000$$$::"[line4][ruby text=Meu corpo é feito de espadas. char=26]I am the bone of my sword."[lr]::
 47830::$$$message_0416_0110_0001$$$::Eu múrmuro as palavras sem perceber.[lr]::
 47831::$$$message_0416_0110_0002$$$::Levanto minha cabeça.[lr]::
 47832::$$$message_0416_0110_0003$$$::Despejo determinação no meu corpo moribundo.[lr]::

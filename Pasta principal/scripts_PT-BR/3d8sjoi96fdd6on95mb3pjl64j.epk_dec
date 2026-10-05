@@ -1,13 +1,13 @@
 DAT
 id=qid::label=str::text=lstr::
 45248::$$$message_0398_0000_0000$$$::"O que é aquilo[line4]?"[lr]::
-45249::$$$message_0398_0000_0001$$$::Após dar a volta no templo e chegar no lago, a primeira coisa que Saber vê é uma gigante montanha de carne.::
+45249::$$$message_0398_0000_0001$$$::Após dar a volta no templo e chegar ao lago, a primeira coisa que Saber vê é uma gigante montanha de carne.::
 45250::$$$message_0398_0001_0000$$$::Ela não é um cavaleiro normal.[lr]::
 45251::$$$message_0398_0001_0001$$$::Saber lutou contra vários monstros na época em que ela era chamada de herói.[lr]::
 45252::$$$message_0398_0001_0002$$$::Incluindo até lutas contra "dragões", considerados os mais fortes das Espécies Fantasmas.[lr]::
 45253::$$$message_0398_0001_0003$$$::Mas até a Saber hesita contra essa montanha de carne.[lr]::
 45254::$$$message_0398_0001_0004$$$::Não é por causa da feiura do objeto.[lr]::
-45255::$$$message_0398_0001_0005$$$::É porque ela consegue perceber que a montanha de carne, e a maldição vazando dele, são os mesmo que ela.::
+45255::$$$message_0398_0001_0005$$$::É porque ela consegue perceber que a montanha de carne, e a maldição que vaza dequilo, são o mesmo que ela.::
 45256::$$$message_0398_0002_0000$$$::"É um Servo. Um Servo pode ficar diferente assim se a invocação for feita errada?"[lr]::
 45257::$$$message_0398_0002_0001$$$::Ou isso é o poder do Santo Graal?[lr]::
 45258::$$$message_0398_0002_0002$$$::Completamente surpresa, ela encara a montanha de carne e rapidamente balança a cabeça.::
@@ -31,18 +31,18 @@ id=qid::label=str::text=lstr::
 45276::$$$message_0398_0006_0002$$$::A Saber não consegue aceitar as palavras de sua Mestra.[lr]::
 45277::$$$message_0398_0006_0003$$$::...Ela consegue perceber que a montanha de carne está prestes a eclodir.[lr]::
 45278::$$$message_0398_0006_0004$$$::As contorções estão virando batidas e a lama está se espalhando ainda mais.::
-45279::$$$message_0398_0007_0000$$$::O lago ficou preto, e a lama está derramando no chão.[lr]::
+45279::$$$message_0398_0007_0000$$$::O lago ficou preto, e a lama está se derramando no chão.[lr]::
 45280::$$$message_0398_0007_0001$$$::...Essa coisa está crescendo.[lr]::
-45281::$$$message_0398_0007_0002$$$::Se a situação permencer assim, a Força de Contenção vai ser ativada.[lr]::
+45281::$$$message_0398_0007_0002$$$::Se a situação permanecer assim, a Força de Contenção vai ser ativada.[lr]::
 45282::$$$message_0398_0007_0003$$$::Antes que isso aconteça, a decisão correta é destruir isso usando sua espada sagrada.[lr]::
 45283::$$$message_0398_0007_0004$$$::Mas para fazer isso[line3][lr]::
 45284::$$$message_0398_0007_0005$$$::"Rin, saia daí...! Assim que você sair do lago, eu vou[line2]!"::
-45285::$$$message_0398_0008_0000$$$::"...Sim. Certo, conto com você. Mas caso eu não saia a tempo, faça a decisão necessária.[lr]::
+45285::$$$message_0398_0008_0000$$$::"...Sim. Certo, conto com você. Mas caso eu não saia a tempo, tome a decisão necessária.[lr]::
 45286::$$$message_0398_0008_0001$$$::...O contrato entre nós vai acabar, mas você deve ficar bem se o Shirou estiver vivo, não é?"[r][wsay canskip=1]::
 45287::$$$message_0398_0008_0002$$$::"Não seja tola...! Eu não ligo. Não importa no que isso me transforme, vou chutar uma maldição como essa para longe[line4]"[lr]::
 45288::$$$message_0398_0008_0003$$$::A Saber corre até a lama preta, com o objetivo de chegar até aquela montanha de carne.[lr]::
 45289::$$$message_0398_0008_0004$$$::Mas o corpo dela não se move.[lr]::
-45290::$$$message_0398_0008_0005$$$::O corpo dela para quando ela tenta chegar próximo do lago.::
+45290::$$$message_0398_0008_0005$$$::O corpo dela para quando ela tenta chegar próximo ao lago.::
 45291::$$$message_0398_0009_0000$$$::"Rin, você usou um Selo de Comando[line4]?"[lr]::
 45292::$$$message_0398_0009_0001$$$::"...Óbvio. Você é a única que consegue destruir o Santo Graal, não posso deixá-la morrer.[lr]::
 45293::$$$message_0398_0009_0002$$$::Já disse para não se preocupar. Ainda consigo me libertar facilmente e escapar de uma situação assim. Fique aí, com a tranquilidade de alguém que está prestes a embarcar em um cruzeiro, e prepare seu Fantasma Nobre."::
@@ -57,7 +57,7 @@ id=qid::label=str::text=lstr::
 45302::$$$message_0398_0011_0003$$$::Matou Shinji foi salvo.[lr]::
 45303::$$$message_0398_0011_0004$$$::...Ela cortou os vasos sanguíneos e nervos que haviam se mesclado ao corpo dele, e então separou Shinji do pedaço de carne.[lr]::
 45304::$$$message_0398_0011_0005$$$::Pode-se dizer que ele está "vivo", ignorando os efeitos consequentes que ele pode ter.[lr]::
-45305::$$$message_0398_0011_0006$$$::Na verdade, ele parece só estar inconsciente, então pode-se dizer que ele está mais saudável que a garota carregando ele.::
+45305::$$$message_0398_0011_0006$$$::Na verdade, ele parece só estar inconsciente, então pode-se dizer que ele está mais saudável que a garota que o carrega.::
 45306::$$$message_0398_0012_0000$$$::"...O problema é depois disso. Eu já esperava que isso agiria de forma violenta depois que o coração fosse roubado. Será que me deixam em paz se eu devolver o Shinji?"[lr]::
 45307::$$$message_0398_0012_0001$$$::Ela lentamente se move enquanto encara os tentáculos bloqueando o caminho.[lr]::
 45308::$$$message_0398_0012_0002$$$::Mas não há saída.[lr]::
@@ -71,47 +71,47 @@ id=qid::label=str::text=lstr::
 45316::$$$message_0398_0014_0001$$$::Ela aguenta a tontura enquanto reclama.[lr]::
 45317::$$$message_0398_0014_0002$$$::Mas claro, a reclamação não era sincera. Rin estava apenas dizendo da boca pra fora.::
 45318::$$$message_0398_0015_0000$$$::E não importaria mesmo se ela tivesse energia mágica sobrando.[lr]::
-45319::$$$message_0398_0015_0001$$$::Os tentáculos em volta dela não estão se movendo porque consideraram que o alvo não era uam ameaça.[lr]::
+45319::$$$message_0398_0015_0001$$$::Os tentáculos em volta dela não estão se movendo porque consideraram que o alvo não era uma ameaça.[lr]::
 45320::$$$message_0398_0015_0002$$$::Eles devem reagir quando descobrirem que o invasor no corpo deles é um veneno.[lr]::
 45321::$$$message_0398_0015_0003$$$::Tohsaka Rin e Matou Shinji estão vivos justamente porque não possuem nenhuma energia mágica que chamaria a atenção.::
-45322::$$$message_0398_0016_0000$$$::"......! ...Mas eu acho que isso é tudo... Tá ficando difícil para mim [r]ficar de pé[line4]"[lr]::
+45322::$$$message_0398_0016_0000$$$::"......! ...Mas acho que esse é o fim... Está ficando difícil para mim... ficar de pé[line4]"[lr]::
 45323::$$$message_0398_0016_0001$$$::A visão dela fica embaçada.[lr]::
-45324::$$$message_0398_0016_0002$$$::Mesmo que ela tenha uma plataforma, ela ainda está na lama.[lr]::
-45325::$$$message_0398_0016_0003$$$::Os nervos dela estão ficando mais afundados a cada segundo.[lr]::
-45326::$$$message_0398_0016_0004$$$::Ela vai virar o novo núcleo do Santo Graal se ela cair na carne.::
+45324::$$$message_0398_0016_0002$$$::Mesmo que ela tenha um lugar para se apoiar, não muda o fato de que ainda estão em cima da lama.[lr]::
+45325::$$$message_0398_0016_0003$$$::A cada segundo, a febre invadia seus nervos.[lr]::
+45326::$$$message_0398_0016_0004$$$::Ela se tornará o novo núcleo do Santo Graal se cair na plataforma de carne.::
 45327::$$$message_0398_0017_0000$$$::[line4]Mas antes disso...[lr]::
 45328::$$$message_0398_0017_0001$$$::"...Me desculpa, Saber. Você provavelmente não vai me obedecer, então eu vou te forçar a fazer isso."[lr]::
-45329::$$$message_0398_0017_0002$$$::Ela tem mais um selo de comando[lr]::
-45330::$$$message_0398_0017_0003$$$::Isso é o suficiente para ela mandar a Saber usar a sua espada sagrada.::
-45331::$$$message_0398_0018_0000$$$::"......E eu tenho que me desculpar com você também.[lr]::
-45332::$$$message_0398_0018_0001$$$::Eu não consegui... salvar... Shinji[line4]"::
-45333::$$$message_0398_0019_0000$$$::"Só corre. Eu não quero ouvir essa choradeira."::
+45329::$$$message_0398_0017_0002$$$::Ela tem mais um Selo de Comando.[lr]::
+45330::$$$message_0398_0017_0003$$$::Isso é o suficiente para mandar a Saber, que estava na margem oposta, usar a sua espada sagrada.::
+45331::$$$message_0398_0018_0000$$$::"......E eu tenho que me desculpar com ele também.[lr]::
+45332::$$$message_0398_0018_0001$$$::Eu não consegui... salvar... o Shinji[line4]"::
+45333::$$$message_0398_0019_0000$$$::"Para de reclamar e corra. Eu não quero ouvir essa choradeira."::
 45334::$$$message_0398_0020_0000$$$::"[line4]O quê?"[lr]::
-45335::$$$message_0398_0020_0001$$$::Ela para seu corpo que está a desabar.[lr]::
+45335::$$$message_0398_0020_0001$$$::Ela para seu corpo prestes a desabar.[lr]::
 45336::$$$message_0398_0020_0002$$$::Essa voz.[lr]::
 45337::$$$message_0398_0020_0003$$$::A voz vindo na cabeça dela é definitivamente a do Servo com quem ela fez um contrato.::
 45338::$$$message_0398_0021_0000$$$::"Esper[line4]"[lr]::
 45339::$$$message_0398_0021_0001$$$::Não há tempo a perder.[lr]::
 45340::$$$message_0398_0021_0002$$$::Ela conhece a personalidade dele muito bem.[lr]::
-45341::$$$message_0398_0021_0003$$$::Ele falou para ela correr, então ele deve ter feito algo que ela não vai escapar a não ser que ela faça o que ele falou[line3]!::
+45341::$$$message_0398_0021_0003$$$::Ele disse para correr, então ele deve ter feito algo de que ela não vai escapar, a não ser que faça o que ele disse[line3]!::
 45342::$$$message_0398_0022_0000$$$::"......!!!!!!"[lr]::
-45343::$$$message_0398_0022_0001$$$::Ela corre.[lr]::
-45344::$$$message_0398_0022_0002$$$::As flechas que estão caíndo do céu são literalmente uma chuva pesada.[lr]::
-45345::$$$message_0398_0022_0003$$$::Elas destroem os tentáculos, o chão, e tudo no caminho [r]dela[line4]!::
-45346::$$$message_0398_0023_0000$$$::"Ah, ku[line4]!"[lr]::
+45343::$$$message_0398_0022_0001$$$::Rin corre.[lr]::
+45344::$$$message_0398_0022_0002$$$::As flechas caem do céu como se fossem uma tempestade.[lr]::
+45345::$$$message_0398_0022_0003$$$::Rin esmaga tudo em seu caminho, sejam redes entrelaçadas, plataformas, ou tentáculos de carne[line4]!::
+45346::$$$message_0398_0023_0000$$$::"Ah, kh[line4]!"[lr]::
 45347::$$$message_0398_0023_0001$$$::Não há tempo para voltar atrás.[lr]::
 45348::$$$message_0398_0023_0002$$$::Ela corre em velocidade máxima enquanto carrega Shinji.::
 45349::$$$message_0398_0024_0000$$$::"[line4]!"[lr]::
 45350::$$$message_0398_0024_0001$$$::Ela pula no lago.[lr]::
-45351::$$$message_0398_0024_0002$$$::As flechas varreram a lama negra para torná-la uma rota de fuga.[lr]::
-45352::$$$message_0398_0024_0003$$$::É apenas por pouco tempo, mas só há água suja entre ela e a margem oposta.::
+45351::$$$message_0398_0024_0002$$$::As flechas varreram a lama preta para criar uma rota de fuga.[lr]::
+45352::$$$message_0398_0024_0003$$$::Apesar da lama ter sido repelida por pouco tempo, agora só há água suja entre ela e a margem oposta.::
 45353::$$$message_0398_0025_0000$$$::"Hah, hah[line4]!"[lr]::
 45354::$$$message_0398_0025_0001$$$::Ela corre pelo lago enquanto carrega Matou Shinji.[lr]::
-45355::$$$message_0398_0025_0002$$$::Ela corre com toda sua força, lama derramando ao redor dela.::
-45356::$$$message_0398_0026_0000$$$::"Por favor, Saber...!"[lr]::
+45355::$$$message_0398_0025_0002$$$::Até mesmo a própria Rin se surpreende com sua força latente. Ela corre até a margem completamente encharcada e desordenada.::
+45356::$$$message_0398_0026_0000$$$::"Saber, por favor...!"[lr]::
 45357::$$$message_0398_0026_0001$$$::A energia mágica dela responde ao grito.::
-45358::$$$message_0398_0026_0002$$$::Não há nada a checar.[lr]::
-45359::$$$message_0398_0026_0003$$$::A espada dourada ceifa tudo em seu caminho com seu poder esmagador.[lr]::
-45360::$$$message_0398_0026_0004$$$::A montanha de carne é cortada no meio e quebra.[lr]::
-45361::$$$message_0398_0026_0005$$$::A lama preta evapora, e a luz transforma o lago em uma planície.::
+45358::$$$message_0398_0026_0002$$$::Não há nada a se pensar.[lr]::
+45359::$$$message_0398_0026_0003$$$::A espada dourada é erguida, e seu poder esmagador ceifa tudo em seu caminho.[lr]::
+45360::$$$message_0398_0026_0004$$$::A montanha de carne é cortada ao meio e quebra.[lr]::
+45361::$$$message_0398_0026_0005$$$::A lama preta evapora, e faixas de luz transformam a estrutura do lago, deixando-o uma planície desolada.::
 

@@ -106,7 +106,7 @@ id=qid::label=str::text=lstr::
 35208::$$$message_0288_0033_0002$$$::...Bom, o que eu faço?[lr]::
 35209::$$$message_0288_0033_0003$$$::Devo ser capaz de pular do segundo andar.[lr]::
 35210::$$$message_0288_0033_0004$$$::Se eu vou levar um tiro, é melhor tentar escapar por aqui.::
-35211::$$$message_0288_0034_0000$$$::"[line4]Das Schlie[szlig]en (Preparação). Vogelk[auml]fig (Insonorização), Echo (Finalização)."[lr]::
+35211::$$$message_0288_0034_0000$$$::"[line4]Das Schlie[szlig][ruby text=Preparação. Insonorização, Finalização. char=10]en. Vogelk[auml]fig, Echo."[lr]::
 35212::$$$message_0288_0034_0001$$$::Ouço a voz da Tohsaka do corredor.[lr]::
 35213::$$$message_0288_0034_0002$$$::Algo fino como uma membrana cerca a classe.::
 35214::$$$message_0288_0035_0000$$$::"[line6]O que é isso? Um Campo Limitado...?"[lr]::
@@ -121,7 +121,7 @@ id=qid::label=str::text=lstr::
 35223::$$$message_0288_0041_0001$$$::Mesmo que ela tenha ajuda do Brasão Mágico, a Tohsaka está conjurando seu encantamento.::
 35224::$$$message_0288_0042_0000$$$::Vou conseguir? Não, eu tenho que conseguir.[lr]::
 35225::$$$message_0288_0042_0001$$$::Eu pulo o processo de manufatura, o processo de fazer outro nervo na minha coluna, e freneticamente despejo energia mágica na mesa...!::
-35226::$$$message_0288_0043_0000$$$::"Fixierung (Mirar), Eile Salve (Disparo Contínuo)[line4]!"::
+35226::$$$message_0288_0043_0000$$$::"[ruby text=Mirar, Disparo Contínuo char=21]Fixierung, Eile Salve[line4]!"::
 35227::$$$message_0288_0044_0000$$$::"Trace, on[line4]!"::
 35228::$$$message_0288_0045_0000$$$::Luzes e sons explodem.[lr]::
 35229::$$$message_0288_0045_0001$$$::É um dia ordinário depois da escola. A classe ordinária vira uma pista de dança em um instante.::

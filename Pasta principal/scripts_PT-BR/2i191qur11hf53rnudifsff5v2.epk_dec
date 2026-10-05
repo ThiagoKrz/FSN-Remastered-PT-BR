@@ -286,12 +286,12 @@ id=qid::label=str::text=lstr::
 44152::$$$message_0392_0086_0000$$$::"...Archer, tomo esse gesto como uma retirada[line2]"[lr]::
 44153::$$$message_0392_0086_0001$$$::"Não, e vou interromper essa suposição. Sou um Servo da classe Archer. Não existe arqueiro que prefira lutar com espadas."[lr]::
 44154::$$$message_0392_0086_0002$$$::Depois de dizer isso,::
-44155::$$$message_0392_0087_0000$$$::                                  "Eu sou o osso da minha espada."::
+44155::$$$message_0392_0087_0000$$$::                                     "[ruby text=Eu sou o osso da minha espada. char=26]I am the bone of my sword."::
 44156::$$$message_0392_0088_0000$$$::Em um sussurro, Archer inicia o encantamento.::
 44157::$$$message_0392_0089_0000$$$::"Pare, Archer! Nós ainda temos[line2]"[lr]::
 44158::$$$message_0392_0089_0001$$$::"Saber. Um dia, alguém estará aqui para libertá-la.[lr]::
 44159::$$$message_0392_0089_0002$$$::Parece que esse momento ainda não chegou. Mas tenho certeza de que farei parte disso na próxima vez que você estiver envolvida."::
-44160::$$$message_0392_0090_0000$$$::                          "Desconhecido pela morte. Tampouco conhecido pela vida."::
+44160::$$$message_0392_0090_0000$$$::                                          "[ruby text=Desconhecido pela morte. Tampouco conhecido pela vida. char=36]Unknown to death. Nor known to life."::
 44161::$$$message_0392_0091_0000$$$::O encantamento ecoa pela igreja.[lr]::
 44162::$$$message_0392_0091_0001$$$::...Nada muda ao redor.[lr]::
 44163::$$$message_0392_0091_0002$$$::Um encantamento tão longo certamente afetaria o ambiente.[lr]::
