@@ -91,7 +91,7 @@ id=qid::label=str::text=lstr::
 46205::$$$message_0409_0020_0005$$$::Caster está sempre cercada pelos mistérios divinos que fazem o mundo girar.[lr]::
 46206::$$$message_0409_0020_0006$$$::Para ela, Magia é apenas algo que comanda.[lr]::
 46207::$$$message_0409_0020_0007$$$::É como ordenar que um cão de guarda ataque.::
-46208::$$$message_0409_0021_0000$$$::"...Acht (Oitava)...!"[lr]::
+46208::$$$message_0409_0021_0000$$$::"...[ruby text=Oitava char=4]Acht...!"[lr]::
 46209::$$$message_0409_0021_0001$$$::Ela neutraliza aquilo com suas joias preciosas.[lr]::
 46210::$$$message_0409_0021_0002$$$::Ela não tem tempo para conjurar um feitiço, e não consegue igualar a Magia de Caster com feitiços simples.::
 46211::$$$message_0409_0022_0000$$$::As habilidades delas como magas estão tão distantes quanto o céu e a terra.[lr]::
@@ -105,7 +105,7 @@ id=qid::label=str::text=lstr::
 46219::$$$message_0409_0024_0002$$$::A diferença entre elas é óbvia.[lr]::
 46220::$$$message_0409_0024_0003$$$::Não sei quantas joias ela tem, mas devem ser por volta de dez ou vinte.[lr]::
 46221::$$$message_0409_0024_0004$$$::Não há como ela derrotar Caster com essa quantidade.::
-46222::$$$message_0409_0025_0000$$$::"...Sieben (Sétima)...!"[lr]::
+46222::$$$message_0409_0025_0000$$$::"...[ruby text=Sétima char=6]Sieben...!"[lr]::
 46223::$$$message_0409_0025_0001$$$::Ela neutraliza a carga elétrica com a sétima joia.[lr]::
 46224::$$$message_0409_0025_0002$$$::Restam seis joias.[lr]::
 46225::$$$message_0409_0025_0003$$$::Com mais seis feitiços de Caster, seu trunfo se esgotará.::
@@ -122,7 +122,7 @@ id=qid::label=str::text=lstr::
 46236::$$$message_0409_0028_0002$$$::Ela não pode deixá-lo morrer assim, e a premissa dessa estratégia é que ele detenha Kuzuki.::
 46237::$$$message_0409_0029_0000$$$::"Oh, ainda pretende continuar protegendo-o? Que convicção, mas eu me pergunto quanto tempo isso vai durar. O resultado é claro se tudo o que faz é defender, mocinha."[lr]::
 46238::$$$message_0409_0029_0001$$$::Os dedos de Caster se movem.::
-46239::$$$message_0409_0030_0000$$$:: "...Sechs (Sexta) Ein Flu[szlig], ein Halt (Rio de Inverno)...!"[lr]::
+46239::$$$message_0409_0030_0000$$$:: "...[ruby text=Sexta char=5]Sechs Ein Fluß, [ruby text=Rio de Inverno char=8]ein Halt...!"[lr]::
 46240::$$$message_0409_0030_0001$$$::Em resposta a isso, ela faz o primeiro movimento.[lr]::
 46241::$$$message_0409_0030_0002$$$::Suas joias se esgotarão e ela será morta se continuar defendendo.[lr]::
 46242::$$$message_0409_0030_0003$$$::A Magia de Caster e suas joias.[lr]::
@@ -135,8 +135,8 @@ id=qid::label=str::text=lstr::
 46249::$$$message_0409_0031_0005$$$::Isto é apenas um choque de poder contra poder.[lr]::
 46250::$$$message_0409_0031_0006$$$::A primeira a ceder nesse choque e ficar sem Energia Mágica perde.[lr]::
 46251::$$$message_0409_0031_0007$$$::Então...::
-46252::$$$message_0409_0032_0000$$$::"F[uuml]nf (Quinta), Drei (Terceira), Vier (Quarta)...![lr]::
-46253::$$$message_0409_0032_0001$$$::Der Rieseund (Finale) brennt (Espada de Chamas) das (Sinergia) ein Ende...!"[lr]::
+46252::$$$message_0409_0032_0000$$$::"[ruby text=Quinta, Terceira, Quarta char=20]Fünf, Drei, Vier...![lr]::
+46253::$$$message_0409_0032_0001$$$::[r][ruby text=Finale, Espada de Chamas, Sinergia char=33]Der Riese und brennt das ein Ende...!"[lr]::
 46254::$$$message_0409_0032_0002$$$::Ela só precisa abrir caminho à força.[lr]::
 46255::$$$message_0409_0032_0003$$$::Ela usa suas joias uma após a outra e rompe a Energia Mágica de Caster...![lr]::
 46256::$$$message_0409_0032_0004$$$::Três joias são liberadas.[lr]::
@@ -173,7 +173,7 @@ id=qid::label=str::text=lstr::
 46287::$$$message_0409_0038_0006$$$::Caster murmura lentamente a morte dela.[lr]::
 46288::$$$message_0409_0038_0007$$$::   Aquela abertura.[lr]::
 46289::$$$message_0409_0038_0008$$$::Ela estava esperando por aquele julgamento o tempo inteiro.[lr]::
-46290::$$$message_0409_0038_0009$$$::"Stark (Segunda)[line3]Gro[szlig] (Fortalecer) zwei"[lr]::
+46290::$$$message_0409_0038_0009$$$::"[ruby text=Segunda char=5]Stark[line3][ruby text=Fortalecer char=9]Groß zwei"[lr]::
 46291::$$$message_0409_0038_0010$$$::Ela só precisa de uma frase para liberar o feitiço.[lr]::
 46292::$$$message_0409_0038_0011$$$::Ela baixa a cabeça e sorri enquanto murmura.::
 46293::$$$message_0409_0039_0000$$$::"Hã?"[lr]::

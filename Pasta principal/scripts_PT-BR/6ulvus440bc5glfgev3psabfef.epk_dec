@@ -337,7 +337,7 @@ id=qid::label=str::text=lstr::
 68099::$$$message_0628_0094_0003$$$::Conheço bem os riscos.[lr]::
 68100::$$$message_0628_0094_0004$$$::Mais adiante.[lr]::
 68101::$$$message_0628_0094_0005$$$::Vou além deste vendaval e abaterei a mim mesmo...::
-68102::$$$message_0628_0095_0000$$$::"[font italic=true]Trace, on. (Iniciar Projeção.)[font italic=false]"[lr]::
+68102::$$$message_0628_0095_0000$$$::"[font italic=true]Ini[ruby text=Trace, on. char=10]ciar Projeção.[font italic=false]"[lr]::
 68103::$$$message_0628_0095_0001$$$::Eu o encaro.[lr]::
 68104::$$$message_0628_0095_0002$$$::Examino cada milímetro da espada gigante.[lr]::
 68105::$$$message_0628_0095_0003$$$::Abro a mão esquerda e seguro uma arma imaginária que ainda nem apareceu.[lr]::
@@ -368,7 +368,7 @@ id=qid::label=str::text=lstr::
 68130::$$$message_0628_0102_0002$$$::Minhas Projeções derivadas de Trace não funcionarão contra ele.[lr]::
 68131::$$$message_0628_0102_0003$$$::Não consigo derrotar esse gigante a menos que Projete algo além dos meus limites.[lr]::
 68132::$$$message_0628_0102_0004$$$::Então...::
-68133::$$$message_0628_0103_0000$$$::"...[font italic=true]Gatilho, desligado. (Carregar Projeção.)[font italic=false]"::
+68133::$$$message_0628_0103_0000$$$::"...[font italic=true][ruby text=Gatilho, desligado. char=17]Carregar Projeção.[font italic=false]"::
 68134::$$$message_0628_0104_0000$$$::Visualizo nove golpes.[lr]::
 68135::$$$message_0628_0104_0001$$$::Eu me abaixo do primeiro ataque e ativo de uma só vez os vinte e sete Circuitos Mágicos latentes do meu corpo.::
 68136::$$$message_0628_0105_0000$$$::[line10]Dois segundos.::
@@ -376,7 +376,7 @@ id=qid::label=str::text=lstr::
 68138::$$$message_0628_0106_0001$$$::A pressão do ar me açoita com violência.[lr]::
 68139::$$$message_0628_0106_0002$$$::Dou um passo à frente para enfrentar o ataque.[lr]::
 68140::$$$message_0628_0106_0003$$$::Minha mira se fixa em oito pontos vitais.[lr]::
-68141::$$$message_0628_0106_0004$$$::"[font italic=true]Pronto. (Projeção ômnica de processos, concluída.)[line4]Nine Lives Blade Works. (Agora, eu ceifo Cem Cabeças.)[font italic=false]"::
+68141::$$$message_0628_0106_0004$$$::"[font italic=true]Projeção ômnica [ruby text=Pronto. char=7]de processos, concluída.[line4]Ag[ruby text=Nine Lives Blade Works. char=23]ora, eu ceifo Cem Cabeças.[font italic=false]"::
 68142::$$$message_0628_0107_0000$$$::E ultrapasso sua velocidade supersônica com uma rapidez quase divina!::
 68143::$$$message_0628_0108_0000$$$::"[wacky len=5][line3]...!"[lr]::
 68144::$$$message_0628_0108_0001$$$::Ele não cai.[lr]::

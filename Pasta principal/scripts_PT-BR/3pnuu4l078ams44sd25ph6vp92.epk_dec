@@ -60,7 +60,7 @@ id=qid::label=str::text=lstr::
 70922::$$$message_0650_0019_0000$$$::Já sabíamos disso.[lr]::
 70923::$$$message_0650_0019_0001$$$::[w l=5][line5]Então farei ela vencer.[lr]::
 70924::$$$message_0650_0019_0002$$$::Se o Fantasma Nobre da Rider é inferior em força, eu irei compensar a diferença...!!!!::
-70925::$$$message_0650_0020_0000$$$::"[w l=3][line3]I am the bone of my sword."::
+70925::$$$message_0650_0020_0000$$$::"[w l=3][line3][ruby text=Meu corpo é feito de espadas. char=26]I am the bone of my sword."::
 70926::$$$message_0650_0021_0000$$$::Eu já sei o que tenho que usar.[lr]::
 70927::$$$message_0650_0021_0001$$$::A projeção é concluída em um instante.[lr]::
 70928::$$$message_0650_0021_0002$$$::A maior defesa que o Archer conhece, o Fantasma Nobre que levará a Rider à vitória...::

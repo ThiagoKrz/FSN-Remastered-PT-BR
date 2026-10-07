@@ -3,9 +3,9 @@ id=qid::label=str::text=lstr::
 63346::$$$message_0583_0000_0000$$$::"Sakura, eu estou entrando."[lr]::
 63347::$$$message_0583_0000_0001$$$::Ele abre a porta sem esperar por uma resposta.[lr]::
 63348::$$$message_0583_0000_0002$$$::Ele nunca esperou pela resposta da sua irmã mais nova antes de abrir a porta.::
-63349::$$$message_0583_0001_0000$$$::"O quê, ela ainda não voltou para casa? Ela é mesmo preguiçosa."[lr]::
+63349::$$$message_0583_0001_0000$$$::"O quê, ela ainda não voltou? O que eu faço com essa garota?"[lr]::
 63350::$$$message_0583_0001_0001$$$::Ele estala a língua e entra no quarto.[lr]::
-63351::$$$message_0583_0001_0002$$$::Matou Shinji começa a andar em círculos pelo quarto da irmã enquanto usa arrasta as unhas na parede, agindo como se fosse um cachorro cego.::
+63351::$$$message_0583_0001_0002$$$::Matou Shinji ronda o quarto da irmã como um cão cego, arrastando as unhas pelas paredes.::
 63352::$$$message_0583_0002_0000$$$::"Sakura. Você está no porão de novo? O que está fazendo aí, me ignorando?"[lr]::
 63353::$$$message_0583_0002_0001$$$::Ele continua fazendo perguntas que não serão respondidas.[lr]::
 63354::$$$message_0583_0002_0002$$$::Não tem ninguém no quarto.[lr]::
@@ -14,88 +14,88 @@ id=qid::label=str::text=lstr::
 63357::$$$message_0583_0003_0000$$$::"É como sempre foi. Haha, realmente é como sempre foi!"[lr]::
 63358::$$$message_0583_0003_0001$$$::Ele arremessa o relógio que toca a sua mão.[lr]::
 63359::$$$message_0583_0003_0002$$$::O barulho do vidro se estilhaçando é mais irritante do que ele imaginava.::
-63360::$$$message_0583_0004_0000$$$::"Onde foi que você se meteu? Guardando segredos do seu irmão? Por que todo mundo está fazendo o que bem entender...!?"[lr]::
-63361::$$$message_0583_0004_0001$$$::"Onde foi que você se meteu? Guardando segredos do seu irmão..."[lr]::
-63362::$$$message_0583_0004_0002$$$::Ele começa a arremessar coisas como se tivesse enlouquecido.[lr]::
-63363::$$$message_0583_0004_0003$$$::Ele começa a arremessar coisas para descontar a sua raiva.[lr]::
-63364::$$$message_0583_0004_0004$$$::...Isso também é como sempre foi.[lr]::
-63365::$$$message_0583_0005_0000$$$::[w l=4][line4]A linhagem sanguínea da família Matou chegou ao fim quando ele nasceu.::
+63360::$$$message_0583_0004_0000$$$::"Onde foi que você se meteu? Guardando segredos do seu irmão..."[lr]::
+63361::$$$message_0583_0004_0001$$$::Continua arremessando objetos, como se descarregasse a raiva.[lr]::
+63362::$$$message_0583_0004_0002$$$::...Isso também acontece sempre.[lr]::
+63363::$$$message_0583_0004_0003$$$::Há alguns anos, esse gesto de compensação se tornou parte de sua rotina.[lr]::
+63364::$$$message_0583_0004_0004$$$::É toda a resistência de que é capaz para perdoar a si mesmo e à irmã, desde que descobriu a verdade, três anos atrás.::
+63365::$$$message_0583_0005_0000$$$::Quando ele nasceu, o sangue dos Matou já havia cumprido seu papel.::
 63366::$$$message_0583_0006_0000$$$::A família nobre perdeu o seu poder, se tornando meros humanos.[lr]::
 63367::$$$message_0583_0006_0001$$$::A única coisa especial é o conhecimento acumulado.[lr]::
 63368::$$$message_0583_0006_0002$$$::A outrora família nobre de magos está destinada a morrer nesse país do Extremo Oriente.::
 63369::$$$message_0583_0007_0000$$$::Ele sabia disso desde que era criança.[lr]::
 63370::$$$message_0583_0007_0001$$$::A família Matou era uma família que passava as suas técnicas secretas para as gerações seguintes.[lr]::
 63371::$$$message_0583_0007_0002$$$::Mas tudo isso está no passado agora.[lr]::
-63372::$$$message_0583_0007_0003$$$::Como os Matous já não podem mais usar magia, eles irão se misturar na sociedade como pessoas normais.::
+63372::$$$message_0583_0007_0003$$$::Não restava ninguém nos Matou capaz de usar Magia. Dali em diante, viveriam na sociedade como pessoas comuns.::
 63373::$$$message_0583_0008_0000$$$::Mas ele não pensava assim.[lr]::
-63374::$$$message_0583_0008_0001$$$::Os seus Circuitos Mágicos desapareceram, deixando-os incapazes de realizar as suas técnicas secretas.[lr]::
+63374::$$$message_0583_0008_0001$$$::Era verdade que os tais Circuitos Mágicos haviam desaparecido da linhagem, impedindo a prática da Magia.[lr]::
 63375::$$$message_0583_0008_0002$$$::A linhagem sanguínea de magos terminou para a família Matou na geração de seu pai, e ele sabe que não tem o direito de herdar o nome dos Matous.[lr]::
 63376::$$$message_0583_0008_0003$$$::Mas a família Matou ainda tem os registros.[lr]::
 63377::$$$message_0583_0008_0004$$$::A linhagem sanguínea morreu, mas o conhecimento acumulado não foi perdido.::
-63378::$$$message_0583_0009_0000$$$::[w l=4][line4]Isso em si já era "especial" o bastante para o garoto.[lr]::
+63378::$$$message_0583_0009_0000$$$::Para o garoto, isso bastava para torná-lo especial.[lr]::
 63379::$$$message_0583_0009_0001$$$::Ele pensa que é diferente dos outros.[lr]::
 63380::$$$message_0583_0009_0002$$$::A família Matou foi escolhida.[lr]::
 63381::$$$message_0583_0009_0003$$$::Isso não irá mudar, mesmo se eles perderem o seu poder e deixarem de ser magos.[lr]::
 63382::$$$message_0583_0009_0004$$$::Ele tinha orgulho de si mesmo por ter nascido em uma família especial, por poder crescer de um modo especial.[lr]::
 63383::$$$message_0583_0009_0005$$$::Mesmo se ele for um fracasso como mago, ele é uma criança que nasceu numa família escolhida.::
 63384::$$$message_0583_0010_0000$$$::...Mas uma nova criança entrou na sua família escolhida.[lr]::
-63385::$$$message_0583_0010_0001$$$::O seu pai adotou uma menina que não tinha mais ninguém.[lr]::
+63385::$$$message_0583_0010_0001$$$::Seu pai disse que acolhera uma menina sem família e a adotara.[lr]::
 63386::$$$message_0583_0010_0002$$$::Tudo aconteceu há mais de dez anos.[lr]::
 63387::$$$message_0583_0010_0003$$$::A partir daquele dia, a menina chamada Sakura virou a sua irmã mais nova.::
 63388::$$$message_0583_0011_0000$$$::No início, ele odiou a sua nova irmã.[lr]::
 63389::$$$message_0583_0011_0001$$$::Ele não queria ninguém de fora entrando na sua família especial.[lr]::
 63390::$$$message_0583_0011_0002$$$::Mas o garoto começou a aceitar a sua irmã dia após dia.[lr]::
 63391::$$$message_0583_0011_0003$$$::A menina chamada Sakura era quieta e normal, ela não era melhor que um cão de guarda.[lr]::
-63392::$$$message_0583_0011_0004$$$::Seria uma perda de tempo ser hostil com alguém como ela, e era mais atraente que ela fosse tratada como um servo.::
-63393::$$$message_0583_0012_0000$$$::Ele olhava pelos livros, memorizando as magias que não podia usar, para se lembrar de que era o herdeiro dos Matous.[lr]::
+63392::$$$message_0583_0011_0004$$$::Hostilizar alguém assim era perda de tempo. Até certo ponto, a estupidez dela lhe parecia encantadora.::
+63393::$$$message_0583_0012_0000$$$::Mergulhava nos livros, aprendia artes mágicas que não conseguia praticar e se considerava o herdeiro dos Matou.[lr]::
 63394::$$$message_0583_0012_0001$$$::Ele era o único que podia entrar na sala de leitura.[lr]::
 63395::$$$message_0583_0012_0002$$$::A sua irmã adotada nunca poderia ser nomeada sucessora, portanto ela não tinha o direito de entrar lá.[lr]::
 63396::$$$message_0583_0012_0003$$$::A sua irmã viveria como um ser humano normal, nunca aprendendo sobre o conhecimento que restou da família Matou.[lr]::
 63397::$$$message_0583_0012_0004$$$::Esse fato satisfazia muito o seu orgulho.::
 63398::$$$message_0583_0013_0000$$$::Uma família de magos tem apenas um sucessor.[lr]::
 63399::$$$message_0583_0013_0001$$$::Ele sabia disso, e portanto nunca questionou sobre eles serem educados separadamente.[lr]::
-63400::$$$message_0583_0013_0002$$$::Apenas um poderia aprender magia.[lr]::
+63400::$$$message_0583_0013_0002$$$::Só um deles podia aprender Magia.[lr]::
 63401::$$$message_0583_0013_0003$$$::Então era esperado que a sua irmã fosse criada separadamente.::
 63402::$$$message_0583_0014_0000$$$::Isso mesmo.[lr]::
-63403::$$$message_0583_0014_0001$$$::Ele sentia simpatia pela sua irmã.[lr]::
-63404::$$$message_0583_0014_0002$$$::Eles viviam na mesma casa e tinha os mesmos pais, mas ele era o único que podia se chamar de especial, e lamentava pela sua irmã que não havia sido escolhida.[lr]::
-63405::$$$message_0583_0014_0003$$$::É como a compaixão de um ser superior que menospreza os [r]outros[w l=3][line3]e é o seu maior orgulho.::
-63406::$$$message_0583_0015_0000$$$::O irmão tratava a sua irmã como um fracasso.[lr]::
-63407::$$$message_0583_0015_0001$$$::A irmã tinha medo do seu irmão e sempre olhava para baixo, para evitar fazer contato visual.[lr]::
-63408::$$$message_0583_0015_0002$$$::Ele pensava que era por vergonha, e ele a desprezava e a amava por isso ao mesmo.[lr]::
-63409::$$$message_0583_0015_0003$$$::Em pouco tempo, o irmão começou a sentir afeto pela sua irmã por pena.[lr]::
-63410::$$$message_0583_0016_0000$$$::"Eh[w l=8][line8]?"[lr]::
+63403::$$$message_0583_0014_0001$$$::Na verdade, ele sentia pena da irmã.[lr]::
+63404::$$$message_0583_0014_0002$$$::Viviam na mesma casa e tinham os mesmos pais, mas só ele era especial. Alegrava-se com isso e lamentava pela irmã, que não fora escolhida.[lr]::
+63405::$$$message_0583_0014_0003$$$::Era uma compaixão condescendente, de quem se julgava superior. Para ele, também era a base do orgulho de ser um irmão em quem ela podia confiar.::
+63406::$$$message_0583_0015_0000$$$::Assim, por pena, o irmão passou a tratar a irmã com afeto.[lr]::
+63407::$$$message_0583_0015_0001$$$::Ela sempre abaixava a cabeça, desviando o olhar do irmão.[lr]::
+63408::$$$message_0583_0015_0002$$$::Ele pensava que era por vergonha e amava aquela irmã indefesa.[lr]::
+63409::$$$message_0583_0015_0003$$$::Até o dia em que descobriu a verdade.::
+63410::$$$message_0583_0016_0000$$$::"Hã...?"[r][wsay canskip=1]::
 63411::$$$message_0583_0016_0001$$$::Essa foi a única coisa que ele conseguiu dizer depois de encontrar a sala por acidente.::
 63412::$$$message_0583_0017_0000$$$::Uma sala cuja existência nunca foi lhe contada.[lr]::
 63413::$$$message_0583_0017_0001$$$::Conhecimento que não lhe ensinaram.[lr]::
 63414::$$$message_0583_0017_0002$$$::Talento que não lhe deram.[lr]::
 63415::$$$message_0583_0017_0003$$$::Tudo estava naquela sala.[lr]::
-63416::$$$message_0583_0017_0004$$$::Uma menina pelada estava no meio da sala.[lr]::
+63416::$$$message_0583_0017_0004$$$::No centro da sala, estava a menina.[lr]::
 63417::$$$message_0583_0017_0005$$$::Em volta dela, estavam um enxame de vermes negros e o seu avô aterrorizante.[lr]::
-63418::$$$message_0583_0017_0006$$$::Uma menina estava no meio da sala.[lr]::
+63418::$$$message_0583_0017_0006$$$::Seu pai lançou-lhe um olhar que ele nunca vira antes, como se enxergasse um intruso incômodo.::
 63419::$$$message_0583_0018_0000$$$::E assim acabou.[lr]::
 63420::$$$message_0583_0018_0001$$$::Tudo aquilo que ele acreditava, tudo aquilo que o construiu, foi virado de cabeça para baixo.::
 63421::$$$message_0583_0019_0000$$$::Não era ele que era especial.[lr]::
 63422::$$$message_0583_0019_0001$$$::Não era a sua irmã que havia sido deixada de lado.[lr]::
 63423::$$$message_0583_0019_0002$$$::Não era ela que era lamentável.[lr]::
-63424::$$$message_0583_0019_0003$$$::E não era ela que estava sendo [r]menosprezada[w l=4][line4]::
+63424::$$$message_0583_0019_0003$$$::E não era ele quem olhava para ela com uma pena condescendente...::
 63425::$$$message_0583_0020_0000$$$::A sua vida mudou completamente.[lr]::
-63426::$$$message_0583_0020_0001$$$::Já que ele não precisava mais esconder nada, o seu pai tomou uma atitude desafiadora em relação ao seu filho. Ele começou a passar mais tempo com a irmã do garoto.[lr]::
+63426::$$$message_0583_0020_0001$$$::Sem precisar esconder nada, seu pai passou a dar atenção apenas à irmã mais nova.[lr]::
 63427::$$$message_0583_0020_0002$$$::A sua irmã não dizia nada, apenas abaixava a cabeça como sempre.[lr]::
 63428::$$$message_0583_0020_0003$$$::Ela ainda agia como se estivesse fugindo do seu olhar quando dizia...[lr]::
 63429::$$$message_0583_0020_0004$$$::"Me desculpe, Nii-san."[lr]::
 63430::$$$message_0583_0020_0005$$$::...Como se estivesse com pena dele. Ela dizia com a mesma emoção que um dia ele sentiu pela sua irmã.::
-63431::$$$message_0583_0021_0000$$$::"Ha[w l=4][line4]Haha, hahahahahahahahahahahahahahahahahahahahaha!!!!!!"::
+63431::$$$message_0583_0021_0000$$$::"Ha... Haha, hahahahahahahahahahahahahahahahahahahahaha!!!!!!"::
 63432::$$$message_0583_0022_0000$$$::Ele riu.[lr]::
-63433::$$$message_0583_0022_0001$$$::Era engraçado.[lr]::
-63434::$$$message_0583_0022_0002$$$::Era tão engraçado que ele tinha vontade de matar.[lr]::
-63435::$$$message_0583_0022_0003$$$::Era tão engraçado que ele tinha vontade de quebrar tudo.[lr]::
-63436::$$$message_0583_0022_0004$$$::Aquela que ele pensou ser o seu bicho de estimação era a sua mestre, e ele era apenas um bobo.[lr]::
-63437::$$$message_0583_0022_0005$$$::Qual dos dois era engraçado?[lr]::
-63438::$$$message_0583_0022_0006$$$::Deveria ser ambos.[lr]::
+63433::$$$message_0583_0022_0001$$$::Riu sem conseguir parar.[lr]::
+63434::$$$message_0583_0022_0002$$$::Era tão engraçado que ele queria quebrar tudo.[lr]::
+63435::$$$message_0583_0022_0003$$$::Aquela que julgava um bicho de estimação era quem realmente mandava. Ele sempre fora apenas um palhaço.[lr]::
+63436::$$$message_0583_0022_0004$$$::Quem era louco, ele ou ela?[lr]::
+63437::$$$message_0583_0022_0005$$$::Provavelmente os dois.[lr]::
+63438::$$$message_0583_0022_0006$$$::Com a vida virada do avesso, voltou à casa e percebeu uma coisa.::
 63439::$$$message_0583_0023_0000$$$::O mundo não havia virado de cabeça para baixo.[lr]::
-63440::$$$message_0583_0023_0001$$$::Ele estava assim o tempo todo.[lr]::
-63441::$$$message_0583_0023_0002$$$::Quem estava invertido[w l=3][line3]quem havia entendido as coisas errado era ele.[lr]::
+63440::$$$message_0583_0023_0001$$$::Tudo ao seu redor sempre fora assim.[lr]::
+63441::$$$message_0583_0023_0002$$$::Só ele enxergava tudo ao contrário. Só ele havia entendido errado.[lr]::
 63442::$$$message_0583_0023_0003$$$::É só que ele finalmente havia percebido o quanto era miserável.::
 63443::$$$message_0583_0024_0000$$$::Os três anos seguintes foram apenas de dor para ele.[lr]::
 63444::$$$message_0583_0024_0001$$$::O seu pai morreu, e seu avô só se importava com a Sakura.[lr]::
@@ -105,39 +105,39 @@ id=qid::label=str::text=lstr::
 63448::$$$message_0583_0025_0001$$$::Ela se desculpava.[lr]::
 63449::$$$message_0583_0025_0002$$$::Apesar de nunca dizer em voz alta, ela se desculpava toda vez que o via.[lr]::
 63450::$$$message_0583_0025_0003$$$::Ela se desculpava por tomar o lugar do Matou Shinji.::
-63451::$$$message_0583_0026_0000$$$::"Por que você está pedindo desculpas[w l=4][line4]?"::
+63451::$$$message_0583_0026_0000$$$::"Por que você está pedindo desculpas?"::
 63452::$$$message_0583_0027_0000$$$::Ela poderia simplesmente ignorá-lo.[lr]::
-63453::$$$message_0583_0027_0001$$$::Assim, ele não a odiaria, e não ficaria preso à esperança.[lr]::
+63453::$$$message_0583_0027_0001$$$::Assim, poderia abandonar seu orgulho de irmão e não se agarraria a nenhuma esperança.[lr]::
 63454::$$$message_0583_0027_0002$$$::A Sakura pedia desculpas.[lr]::
-63455::$$$message_0583_0027_0003$$$::Pedir desculpas significa se submeter a algo.[lr]::
-63456::$$$message_0583_0028_0000$$$::"[w l=4][line4]Nesse caso, de agora em diante você é minha."::
-63457::$$$message_0583_0028_0001$$$::"[w l=4][line4]Eu sou o seu irmão mais velho gentil."[lr]::
-63458::$$$message_0583_0029_0000$$$::Considerando tudo o que teve que passar, ele não via nada de errado em aceitar isso.::
-63459::$$$message_0583_0030_0000$$$::"Hah[w l=4][line4]ela ainda está na casa do Emiya?[lr]::
-63460::$$$message_0583_0030_0001$$$::Você é a sucessora dos Matous. Você é a sucessora dos Matous. Você é a nobre sucessora dos Matous[w l=4][line4]!"::
+63455::$$$message_0583_0027_0003$$$::E isso só o deixava sem saber onde descarregar a torrente de emoções.::
+63456::$$$message_0583_0028_0000$$$::"Eu sou seu irmão gentil."[lr]::
+63457::$$$message_0583_0028_0001$$$::"Seu único irmão, em quem você pode confiar mais do que em qualquer outra pessoa."::
+63458::$$$message_0583_0029_0000$$$::Diante de tamanha humilhação, convenceu-se de que não havia nada de errado em impor isso à irmã.::
+63459::$$$message_0583_0030_0000$$$::"Ha... Ela ainda está na casa do Emiya?[lr]::
+63460::$$$message_0583_0030_0001$$$::Você é a sucessora dos Matou. A sucessora dos Matou! A nobre sucessora dos Matou!"::
 63461::$$$message_0583_0031_0000$$$::O quarto não mostra nenhum sinal de vida.[lr]::
 63462::$$$message_0583_0031_0001$$$::Mas isso já era esperado.[lr]::
 63463::$$$message_0583_0031_0002$$$::O "quarto" da Matou Sakura é o ninho de vermes no porão, e esse existe apenas para disfarçar.[lr]::
 63464::$$$message_0583_0031_0003$$$::A dona desse quarto não se importa com as coisas que ele quebrar.[lr]::
-63465::$$$message_0583_0031_0004$$$::Esse quarto não é diferente da placa com o número da casa que fica na entrada.::
-63466::$$$message_0583_0032_0000$$$::"Sim, mas você ainda pede desculpas...! 'Me desculpa, me desculpa'...! Se você está arrependida, então não me desobedeça...! Se você se sente culpada, então deveria compensar por isso! Já que você sabe que foi vendida para essa casa, seja minha...!"[lr]::
-63467::$$$message_0583_0032_0001$$$::"Sim, mas você ainda pede desculpas...! 'Me desculpa, me desculpa'...! Se você está arrependida, então não me desobedeça...! Você se sente culpada? Eu não dou a mínima. Se você sabe que é uma Matou, então ouça o seu irmão mais velho, já que é a irmã mais nova...!"[lr]::
-63468::$$$message_0583_0032_0002$$$::Ele arranha o lençol da cama.[lr]::
-63469::$$$message_0583_0032_0003$$$::Algo que era dele.[lr]::
-63470::$$$message_0583_0033_0000$$$::"[w l=4][line4]Você... você a levou, Emiya."[lr]::
+63465::$$$message_0583_0031_0004$$$::Aquele quarto era apenas uma placa com o nome de Matou Sakura, pendurada na entrada.::
+63466::$$$message_0583_0032_0000$$$::"E ainda fica pedindo desculpas...! 'Me desculpa, me desculpa'...! Se está arrependida, então faça o que eu mando...! Você se sente culpada? Não dou a mínima. Se sabe que é uma Matou, então tem que ouvir seu irmão mais velho! É isso que uma irmã mais nova faz...!"[lr]::
+63467::$$$message_0583_0032_0001$$$::Arranca os lençóis da cama.[lr]::
+63468::$$$message_0583_0032_0002$$$::Ela pertencia a ele.[lr]::
+63469::$$$message_0583_0032_0003$$$::Sakura nunca o contrariava, nunca pensava por conta própria. Apenas vivia ali, dia após dia. Por que se afastara dele agora?::
+63470::$$$message_0583_0033_0000$$$::"Você... você tirou ela de mim, Emiya."[lr]::
 63471::$$$message_0583_0033_0001$$$::Esse foi o seu erro.[lr]::
 63472::$$$message_0583_0033_0002$$$::Ele sabia que ela sentia atração pelo Emiya Shirou.[lr]::
 63473::$$$message_0583_0033_0003$$$::Aquela coisa que não tinha interesse em nada começou a ter opinião própria depois de conhecê-lo.[lr]::
 63474::$$$message_0583_0033_0004$$$::Ela aos poucos foi se recuperando, e no fim, ela o deixou.::
-63475::$$$message_0583_0034_0000$$$::Ele treinou a Sakura para não desobedecê-lo, mas agora ela escolheu um completo estranho ao invés do seu próprio irmão[w l=4][line4]::
-63476::$$$message_0583_0035_0000$$$::"É por isso que eu disse que não era seguro deixá-la na casa do Emiya. Mas aquele velho maldito disse algumas besteiras sobre ficar vigiando aquela [r]casa[w l=4][line4]!"[lr]::
+63475::$$$message_0583_0034_0000$$$::Depois de tanto esforço para fazer o papel de irmão gentil, como ela podia ficar do lado de um estranho como Emiya Shirou, e não dele...!?::
+63476::$$$message_0583_0035_0000$$$::"Eu avisei! Disse que ela não devia ir à casa dele! Mas aquele velho veio com uma besteira de que precisava vigiar o Emiya!"[lr]::
 63477::$$$message_0583_0035_0001$$$::O seu avô nem tentou trazer a Sakura de volta.[lr]::
-63478::$$$message_0583_0035_0002$$$::O seu avô nem tentou trazer a Sakura de volta para a casa dos Matous.[lr]::
-63479::$$$message_0583_0036_0000$$$::"[w l=4][line4]Você vai ver. Você vai pagar por isso, Sakura. Você jamais deveria me desobedecer[w l=4][line4]"[lr]::
-63480::$$$message_0583_0036_0001$$$::"[w l=4][line4]Você vai ver. Você vai pagar por isso, Emiya. Vou te fazer em pedacinhos enquanto a Sakura vê tudo[w l=4][line4]"[lr]::
-63481::$$$message_0583_0036_0002$$$::...Isso mesmo.[lr]::
-63482::$$$message_0583_0036_0003$$$::Se uma boneca é desobediente, ele só precisa resetar o relacionamento para voltar a ser como era antes.[lr]::
-63483::$$$message_0583_0037_0000$$$::"...Sim. Eu só tenho que destruir a esperança dela de novo, assim como antes."[lr]::
-63484::$$$message_0583_0037_0001$$$::"...Sim. Eu só preciso fazer as coisas voltarem a ser como eram antes. Justamente como eram antes."[lr]::
-63485::$$$message_0583_0037_0002$$$::Ele começa a rir.[lr]::
+63478::$$$message_0583_0035_0002$$$::Apenas dizia para deixá-la onde estava e ainda mandava Shinji se conter.::
+63479::$$$message_0583_0036_0000$$$::"Você vai ver. Vai pagar por isso, Emiya. Vou te despedaçar na frente da Sakura..."[lr]::
+63480::$$$message_0583_0036_0001$$$::...Isso mesmo.[lr]::
+63481::$$$message_0583_0036_0002$$$::Se Sakura se afastava dele, bastava forçá-la a voltar à relação de antes.[lr]::
+63482::$$$message_0583_0036_0003$$$::Se ela abandonava a família Matou por causa [font italic=true]dele[font italic=false]...::
+63483::$$$message_0583_0037_0000$$$::"...Sim. Basta voltarmos a ser como antes. Como éramos antes."[lr]::
+63484::$$$message_0583_0037_0001$$$::Ele solta uma risada estridente.[lr]::
+63485::$$$message_0583_0037_0002$$$::Seu rosto refletido na janela embaçada é tão sinistro quanto um crânio.::
 

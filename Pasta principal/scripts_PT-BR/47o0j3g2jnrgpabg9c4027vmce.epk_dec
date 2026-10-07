@@ -166,7 +166,7 @@ id=qid::label=str::text=lstr::
 28820::$$$message_0236_0057_0002$$$::O Brasão Mágico em meu braço esquerdo é o "livro de magias" da família Tohsaka.::
 28821::$$$message_0236_0058_0000$$$::Me concentro.[lr]::
 28822::$$$message_0236_0058_0001$$$::Injeto energia mágica no meu Brasão Mágico, leio a parte que explica sobre a eliminação de Campos Limitados, e agora só preciso ativá-lo.::
-28823::$$$message_0236_0059_0000$$$::"Abzug. (Eliminar.) Bedienung. (Extração cirúrgica.) Mittelstand. (Segunda seção.)"[lr]::
+28823::$$$message_0236_0059_0000$$$::            "[ruby text=Eliminar. Extração cirúrgica. Segunda seção. char=30]Abzug. Bedienung. Mittelstand."[lr]::
 28824::$$$message_0236_0059_0001$$$::Eu encosto na superfície com minha mão esquerda e deixo minha energia mágica fluir para fora.[lr]::
 28825::$$$message_0236_0059_0002$$$::Isso pelo menos vai tirar a cor desse símbolo, mas...[lr]::
 28826::$$$message_0236_0059_0003$$$::"Quê? Você vai apagá-lo? Que desperdício."[lr]::

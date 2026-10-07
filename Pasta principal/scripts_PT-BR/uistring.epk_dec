@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::string=lstr::
-4::string_title_back_warn::Voltar à tela de título?::
-5::string_save_overwrit_warn::Sobrescrever os dados salvos?::
+4::string_title_back_warn::Voltar à tela	de título?::
+5::string_save_overwrit_warn::Sobrescrever	os dados salvos?::
 6::string_load_data_warn::Carregar este jogo salvo e continuar?::
 26::string_app_reset_confirm::Restaurar configurações padrão?::
 27::string_route_str_prologue::Prólogo::
@@ -13,32 +13,32 @@ id=qid::label=str::string=lstr::
 39::string_shutdown_warn::Sair do jogo e voltar à área de trabalho?::
 40::string_scene_restart_confirm::Continuar o jogo desta cena?::
 41::string_scene_jump_confirm::Pular para esta cena?::
-42::string_back_title_warn::Voltar ao título? O progresso não salvo será perdido.::
+42::string_back_title_warn::Voltar à tela de título?	O progresso não salvo será perdido.::
 43::string_save_delete_warn::Excluir estes dados salvos?::
 44::string_msg_newroute::Uma nova rota foi desbloqueada.::
 45::string_msg_autosave::Jogo salvo automaticamente.::
 46::string_msg_jump::Pulando para a cena.::
-47::string_msg_newservant::Novo Servo adicionado.::
-48::string_msg_newweapon::Nova Arma adicionada.::
-49::string_msg_qsave::Jogo rápido salvo.::
-50::string_msg_qload::Jogo rápido carregado.::
+47::string_msg_newservant::Novas informações de Servo adicionadas.::
+48::string_msg_newweapon::Novas informações de Arma adicionadas.::
+49::string_msg_qsave::Salvamento rápido concluído.::
+50::string_msg_qload::Carregamento rápido concluído.::
 51::string_msg_loadscene1::Cena carregada.::
-52::string_msg_newdojo::Nova cena do Tiger Dojo adicionada.::
+52::string_msg_newdojo::Nova cena do Dojo do Tigre adicionada.::
 53::string_msg_newdata::Novos dados salvos criados.::
 54::string_msg_overwrite::Dados sobrescritos.::
 55::string_msg_deletedata::Dados salvos excluídos.::
 56::string_sys_saveslot_full::Não há espaços livres para salvar.	Sobrescreva um arquivo ou exclua um para liberar espaço.::
 57::stirng_continue_warn::Recomeçar do último ponto de decisão?::
-60::stirng_dojo_warn::Além daqui está o Tiger Dojo.	Gostaria de um conselho?::
+60::stirng_dojo_warn::O Dojo do Tigre fica logo adiante.	Gostaria de receber um conselho?::
 61::string_exit_warn::Sair do jogo?::
 62::string_reset_warn1::Mudar tudo para as opções recomendadas?::
 63::string_reset_warn2::Restaurar todas as configurações padrão?::
 64::string_scene_exit_warn::Terminar esta cena?::
-65::string_qload_warn::Carregar jogo rápido?::
+65::string_qload_warn::Carregar o salvamento rápido?::
 66::string_msg_sys_save::Salvando dados do sistema.::
 67::string_open_save_warn::Salvar o jogo?::
-68::string_pl_cntn_warn::Continuar do prólogo suspenso?::
-69::string_qjump_warn::Pulo rápido para esta linha?::
+68::string_pl_cntn_warn::Continuar o prólogo de onde parou?::
+69::string_qjump_warn::Ir direto para esta linha?::
 70::string_skip_warn::Pular esta cena?::
 71::string_scene_replay_confirm::Iniciar o flashback da cena?::
 72::string_scene_replay_end_confirm::Terminar o flashback da cena?::
@@ -63,13 +63,13 @@ id=qid::label=str::string=lstr::
 10003::m_cnf_txtspd_f::Rápido::
 10004::m_cnf_txtspd_n::Normal::
 10005::m_cnf_txtspd_s::Lento::
-10006::m_cnf_txtspd_c::Padrão::
-10007::m_cnf_sound::Mixagem de Volume::
+10006::m_cnf_txtspd_c::Personalizado::
+10007::m_cnf_sound::Equilíbrio de Volume::
 10008::m_cnf_sound_v::Vozes::
 10009::m_cnf_sound_n::Normal::
 10010::m_cnf_sound_b::Música::
-10011::m_cnf_sound_c::Padrão::
-10012::m_cnf_atsave::Salvar Auto.::
+10011::m_cnf_sound_c::Personalizado::
+10012::m_cnf_atsave::Salvamento	Automático::
 10013::m_cnf_atsave_t::LIGADO::
 10014::m_cnf_atsave_f::DESLIGADO::
 10015::m_cnf_language::Idioma::
@@ -93,24 +93,24 @@ id=qid::label=str::string=lstr::
 10033::m_cnf_gamepad_b::Duas Mãos::
 10034::m_cnf_gamepad_o::Uma Mão::
 10035::m_cnf_reset::Opções Recomendadas::
-10036::m_cnf_skip_ar::Pular cenas lidas::
+10036::m_cnf_skip_ar::Pular cenas	já lidas::
 11001::m_cnft_tab::Texto::
 11002::m_cnft_spd::Velocidade do Texto::
 11003::m_cnft_spd_f::Rápido::
 11004::m_cnft_spd_n::Normal::
 11005::m_cnft_spd_s::Lento::
-11006::m_cnft_spd_c::Padrão::
+11006::m_cnft_spd_c::Personalizado::
 11007::m_cnft_leterint::Intervalo de Exibição::
 11008::m_cnft_lint_fig::Linhas não lidas::
 11009::m_cnft_lint_sec::seg::
-11010::m_cnft_rowint::Atraso (Auto)::
+11010::m_cnft_rowint::Espera entre linhas	(Modo Auto)::
 11011::m_cnft_rint_sec::seg::
-11012::m_cnft_pageint::Atraso Pág. (Auto)::
+11012::m_cnft_pageint::Espera entre páginas	(Modo Auto)::
 11013::m_cnft_pint_sec::seg::
-11014::m_cnft_autoskip::Avançar cenas lidas::
+11014::m_cnft_autoskip::Avanço automático	de cenas lidas::
 11015::m_cnft_atskip_t::LIGADO::
 11016::m_cnft_atskip_f::DESLIGADO::
-11017::m_cnft_textcol::Destacar Texto Lido::
+11017::m_cnft_textcol::Destacar texto	já lido::
 11018::m_cnft_tcol_t::LIGADO::
 11019::m_cnft_tcol_f::DESLIGADO::
 11020::m_cnft_reset::Restaurar Padrões::
@@ -119,54 +119,54 @@ id=qid::label=str::string=lstr::
 11023::m_cnft_guid_mov::Mover::
 11024::m_cnft_guid_scl::Rolar::
 11025::m_cnft_guid_tab::Mudar página::
-11026::m_cnft_guid_pic::Segure e arraste.::
+11026::m_cnft_guid_pic::Segure e arraste o controle.::
 11027::m_cnft_prvwmsg::Sua voz ressoou na escuridão.::
 11028::m_cnft_skipcfg::Avanço Rápido::
 11029::m_cnft_read::Apenas texto lido::
 11030::m_cnft_all::Tudo::
-11031::m_cnft_unrd_pch::Veloc. (Não Lido)::
-11032::m_cnft_read_pch::Veloc. (Lido)::
+11031::m_cnft_unrd_pch::Velocidade do texto	(não lido)::
+11032::m_cnft_read_pch::Velocidade do texto	(lido)::
 11033::m_cnft_prnt_all::Exibir pág. instantaneamente::
-11034::m_cnft_clk_wait::Espera (Modo Auto)::
+11034::m_cnft_clk_wait::Espera para continuar	(Modo Auto)::
 11035::m_cnft_unit_ms::ms::
 11036::m_cnft_unit_s::s::
-11037::m_cnft_unrd_efc::Efeito (Não Lido)::
-11038::m_cnft_fadein::Fade-in::
-11039::m_cnft_fadein_n::Nenhum (Inst.)::
-11040::m_cnft_read_efc::Efeito (Lido)::
-11041::m_cnft_fadeout::Fade-out::
-11042::m_cnft_fadout_n::Nenhum (Inst.)::
+11037::m_cnft_unrd_efc::Efeito de exibição	(texto não lido)::
+11038::m_cnft_fadein::Aparecer gradualmente::
+11039::m_cnft_fadein_n::Nenhum (exibição imediata)::
+11040::m_cnft_read_efc::Efeito de exibição	(texto lido)::
+11041::m_cnft_fadeout::Desaparecer gradualmente::
+11042::m_cnft_fadout_n::Nenhum (remoção imediata)::
 11043::m_cnft_bg::Opacidade da Janela::
 11044::m_cnft_bg_per::%::
-11045::m_cnft_fig_fd::Fade-in do Texto::
-11046::m_cnft_read_fd::Fade-out do Texto::
-11047::m_cnft_tx_wait::Espera (Auto)::
-11048::m_cnft_shdw::Sombra de texto::::
-11049::m_cnft_shdw_t::ON::::
-11050::m_cnft_shdw_f::OFF::::
+11045::m_cnft_fig_fd::Aparição gradual	do texto::
+11046::m_cnft_read_fd::Desaparecimento	do texto lido::
+11047::m_cnft_tx_wait::Espera para avançar	(Modo Auto)::
+11048::m_cnft_shdw::Sombra do Texto::
+11049::m_cnft_shdw_t::LIGADO::
+11050::m_cnft_shdw_f::DESLIGADO::
 12001::m_cnfs_tab::Som::
 12002::m_cnfs_master::Volume Principal::
-12004::m_cnfs_balance::Mixagem de Volume::
+12004::m_cnfs_balance::Equilíbrio de Volume::
 12005::m_cnfs_bal_v::Vozes::
 12006::m_cnfs_bal_n::Normal::
 12007::m_cnfs_bal_b::Música::
-12008::m_cnfs_bal_c::Padrão::
+12008::m_cnfs_bal_c::Personalizado::
 12009::m_cnfs_voice::Vozes::
 12011::m_cnfs_se::Efeitos Sonoros::
 12013::m_cnfs_system::Sons do Sistema::
-12015::m_cnfs_bgmdec::Diminuir Música (Voz)::
+12015::m_cnfs_bgmdec::Diminuir música	durante as falas::
 12016::m_cnfs_bdec_t::LIGADO::
 12017::m_cnfs_bdec_f::DESLIGADO::
-12018::m_cnfs_voicecut::Parar Voz ao Avançar::
+12018::m_cnfs_voicecut::Parar as vozes	ao avançar o texto::
 12019::m_cnfs_vcut_t::LIGADO::
 12020::m_cnfs_vcut_f::DESLIGADO::
-12021::m_cnfs_vcnf::Volume (Vozes Indiv.)::
-12022::m_cnfs_vc_em::Shirou Emiya::
+12021::m_cnfs_vcnf::Volume de Cada Voz::
+12022::m_cnfs_vc_em::Emiya Shirou::
 12025::m_cnfs_vc_se::Saber::
-12028::m_cnfs_vc_ri::Rin Tohsaka::
-12031::m_cnfs_vc_sa::Sakura Matou::
+12028::m_cnfs_vc_ri::Tohsaka Rin::
+12031::m_cnfs_vc_sa::Matou Sakura::
 12034::m_cnfs_vc_ir::Illya::
-12037::m_cnfs_vc_ta::Taiga Fujimura::
+12037::m_cnfs_vc_ta::Fujimura Taiga::
 12040::m_cnfs_vc_ar::Archer::
 12043::m_cnfs_vc_la::Lancer::
 12046::m_cnfs_vc_ra::Rider::
@@ -175,16 +175,16 @@ id=qid::label=str::string=lstr::
 12055::m_cnfs_vc_ba::Berserker::
 12058::m_cnfs_vc_gi::Gilgamesh::
 12061::m_cnfs_vc_as::Assassin::
-12064::m_cnfs_vc_ek::Kiritsugu Emiya::
-12067::m_cnfs_vc_kk::Kirei Kotomine::
-12070::m_cnfs_vc_sh::Shinji Matou::
-12073::m_cnfs_vc_so::Souichirou Kuzuki::
-12076::m_cnfs_vc_is::Issei Ryudou::
-12079::m_cnfs_vc_zo::Zouken Matou::
-12082::m_cnfs_vc_ay::Ayako Mitsuzuri::
-12085::m_cnfs_vc_mi::Yukika Saegusa::
-12088::m_cnfs_vc_mk::Kaede Makidera::
-12091::m_cnfs_vc_hi::Kane Himuro::
+12064::m_cnfs_vc_ek::Emiya Kiritsugu::
+12067::m_cnfs_vc_kk::Kotomine Kirei::
+12070::m_cnfs_vc_sh::Matou Shinji::
+12073::m_cnfs_vc_so::Kuzuki Souichirou::
+12076::m_cnfs_vc_is::Ryuudou Issei::
+12079::m_cnfs_vc_zo::Matou Zouken::
+12082::m_cnfs_vc_ay::Mitsuzuri Ayako::
+12085::m_cnfs_vc_mi::Saegusa Yukika::
+12088::m_cnfs_vc_mk::Makidera Kaede::
+12091::m_cnfs_vc_hi::Himuro Kane::
 12094::m_cnfs_vc_sr::Sella::
 12097::m_cnfs_vc_rz::Leysritt::
 12100::m_cnfs_vc_ot::Outros::
@@ -196,31 +196,31 @@ id=qid::label=str::string=lstr::
 12106::m_cnfs_guid_mov::Mover::
 12107::m_cnfs_guid_scl::Rolar::
 12108::m_cnfs_guid_tab::Mudar página::
-12109::m_cnfs_guid_pic::Segure e arraste.::
+12109::m_cnfs_guid_pic::Segure e arraste o controle.::
 12110::m_cnfs_bgm::Música::
-12112::m_cnfs_voice_at::Sinc. Auto c/ Voz::
-12113::m_cnfs_voice_wt::Esperar voz (Auto)::
-13001::m_cnfsa_tab::Salvar Jogo::
-13002::m_cnfsa_auto::Salvar Auto.::
+12112::m_cnfs_voice_at::Sincronizar Modo Auto	com as vozes::
+12113::m_cnfs_voice_wt::Esperar o fim das falas	(Modo Auto)::
+13001::m_cnfsa_tab::Salvamento::
+13002::m_cnfsa_auto::Salvamento	Automático::
 13003::m_cnfsa_auto_t::LIGADO::
 13004::m_cnfsa_auto_f::DESLIGADO::
-13005::m_cnfsa_atstime::Quando Salvar Auto.::
+13005::m_cnfsa_atstime::Quando salvar	automaticamente::
 13006::m_cnfsa_atst_p::Por página::
 13007::m_cnfsa_atst_s::Toda cena::
-13008::m_cnfsa_atst_c::Antes de decisão::
+13008::m_cnfsa_atst_c::Antes de cada decisão::
 13009::m_cnfsa_atst_d::Todo dia::
-13010::m_cnfsa_atst_t::Voltar ao título::
+13010::m_cnfsa_atst_t::Ao voltar ao título::
 13011::m_cnfsa_reset::Restaurar Padrões::
 13012::m_cnfsa_gid_bak::Voltar::
 13013::m_cnfsa_gid_ent::Confirmar::
 13014::m_cnfsa_gid_mov::Mover::
 13015::m_cnfsa_gid_tab::Mudar página::
-13016::m_cnfsa_atst_j1::Pular para cena::
-13017::m_cnfsa_atst_j2::Pular (Fluxograma)::
-13018::m_cnfsa_atst_j3::Pular (Linha do Tempo)::
-13019::m_cnfsa_atst_t2::Voltar ao título::
-13020::m_cnfsa_atst_da::Salvar antes de mudar o dia::
-13021::m_cnfsa_atst_qt::Sair do jogo::
+13016::m_cnfsa_atst_j1::Ao pular para uma cena::
+13017::m_cnfsa_atst_j2::Ao pular pelo Fluxograma::
+13018::m_cnfsa_atst_j3::Ao pular pela Linha do Tempo::
+13019::m_cnfsa_atst_t2::Ao voltar ao título::
+13020::m_cnfsa_atst_da::Salvar antes	de mudar o dia::
+13021::m_cnfsa_atst_qt::Ao sair do jogo::
 20001::m_gal_title::Galeria::
 20002::m_gal_picture::Imagens::
 20003::m_gal_movie::Vídeos::
@@ -257,7 +257,7 @@ id=qid::label=str::string=lstr::
 23008::m_musc_guid_ent::Confirmar::
 23009::m_musc_guid_mov::Mover::
 23010::m_musc_guid_scl::Rolar::
-23011::m_musc_guid_pic::Segure e arraste.::
+23011::m_musc_guid_pic::Segure e arraste o controle.::
 24001::m_flow_title::Fluxograma::
 24002::m_flow_play::Jogar::
 24004::m_flow_route_f::Fate::
@@ -265,7 +265,7 @@ id=qid::label=str::string=lstr::
 24006::m_flow_route_h::Heaven's Feel::
 24007::m_flow_route_p::Prólogo::
 24008::m_flow_route_l::Last Episode::
-24009::m_flow_route_t::Tiger Dojo::
+24009::m_flow_route_t::Dojo do Tigre::
 24010::m_flow_d_1_31::31/1::
 24011::m_flow_d_2_01::1/2::
 24012::m_flow_d_2_02::2/2::
@@ -287,7 +287,7 @@ id=qid::label=str::string=lstr::
 24028::m_flow_guid_mov::Mover::
 24029::m_flow_guid_scl::Rolar::
 24030::m_flow_guid_zom::Zoom::
-24031::m_flow_unlock::Jogar Data::
+24031::m_flow_unlock::Jogar este dia::
 24032::m_flow_d_2_16::16/2::
 25001::m_serv_title::Servos::
 25002::m_serv_tab1_sa::Saber::
@@ -301,9 +301,9 @@ id=qid::label=str::string=lstr::
 25010::m_serv_tab1_as1::Assassin::
 25011::m_serv_tab1_sa1::Saber::
 25012::m_serv_tab2_cls::Status::
-25013::m_serv_tab2_dtl::Info. Herói::
+25013::m_serv_tab2_dtl::Perfil do Herói::
 25014::m_serv_tab2_skl::Perícias::
-25015::m_serv_tab2_sp::Fant. Nobre::
+25015::m_serv_tab2_sp::Fantasma Nobre::
 25016::m_serv_guid_bak::Voltar::
 25017::m_serv_guid_ent::Confirmar::
 25018::m_serv_guid_mov::Mover::
@@ -317,7 +317,7 @@ id=qid::label=str::string=lstr::
 25027::m_serv_subtit_5::F A N T A S M A     N O B R E::
 25028::m_serv_subtit_6::P E R Í C I A S     I N A T A S::
 25029::m_serv_stts_1::Mestre::
-25030::m_serv_stts_2::Nome Real::
+25030::m_serv_stts_2::Nome Verdadeiro::
 25031::m_serv_stts_3::Gênero::
 25032::m_serv_stts_4::Altura/Peso::
 25033::m_serv_stts_5::Alinhamento::
@@ -326,12 +326,12 @@ id=qid::label=str::string=lstr::
 25036::m_serv_stts1_3::RES::
 25037::m_serv_stts1_4::SOR::
 25038::m_serv_stts1_5::AGI::
-25039::m_serv_stts1_6::Fant. Nobre::
+25039::m_serv_stts1_6::Fantasma Nobre::
 25040::m_serv_stts2_01::A::
 25041::m_serv_stts2_02::A+::
 25042::m_serv_stts2_03::A++::
 25043::m_serv_stts2_04::B::
-25044::m_serv_stts2_05::B++::
+25044::m_serv_stts2_05::B+::
 25045::m_serv_stts2_06::C::
 25046::m_serv_stts2_07::D::
 25047::m_serv_stts2_08::E::
@@ -342,10 +342,10 @@ id=qid::label=str::string=lstr::
 25052::m_serv_npst_3::Alcance::
 25053::m_serv_npst_4::Máx. Alvos::
 25054::m_serv_npst_5::Protege::
-25055::m_serv_stts1_7::Fant. Nobre::
+25055::m_serv_stts1_7::Fantasma	Nobre::
 25056::m_serv_subtit_7::P E R Í C I A S::
 26001::m_wpn_title::Armas::
-26002::m_wpn_name_1::Espada Dourada da Vitória Certa::
+26002::m_wpn_name_1::Espada Dourada da Vitória Garantida::
 26003::m_wpn_ownr_1::Saber::
 26004::m_wpn_rubi_1::Caliburn::
 26005::m_wpn_name_2::Caladbolg II::
@@ -360,26 +360,26 @@ id=qid::label=str::string=lstr::
 26014::m_wpn_ownr_6::???::
 26015::m_wpn_name_7::Dáinsleif::
 26016::m_wpn_ownr_7::???::
-26017::m_wpn_name_8::O Vara-de-Secar-Roupa::
+26017::m_wpn_name_8::Vara de Secar Roupa::
 26018::m_wpn_ownr_8::Assassin::
 26019::m_wpn_name_9::Punhal::
-26020::m_wpn_ownr_9::V. Assassin::
+26020::m_wpn_ownr_9::Assassin verdadeiro::
 26021::m_wpn_name_10::Adaga sem nome::
 26022::m_wpn_ownr_10::Rider::
 26023::m_wpn_name_11::Espada-machado sem nome::
 26024::m_wpn_ownr_11::Berserker::
-26025::m_wpn_name_12::Lâmina Azoth::
+26025::m_wpn_name_12::Lâmina de Azoth::
 26026::m_wpn_ownr_12::Rin::
-26027::m_wpn_name_13::Espada Joia Zelretch::
+26027::m_wpn_name_13::Espada de Joias Zelretch::
 26028::m_wpn_ownr_13::Rin::
 26029::m_wpn_name_14::Kanshou e Bakuya::
 26030::m_wpn_ownr_14::Archer::
 26031::m_wpn_name_15::Alabarda Incinerante do Céu::
 26032::m_wpn_ownr_15::???::
 26033::m_wpn_name_16::Black Key::
-26034::m_wpn_ownr_16::Kirei Kotomine::
-26035::m_wpn_name_17::Espada de Bambu Tigre::
-26036::m_wpn_ownr_17::Taiga Fujimura::
+26034::m_wpn_ownr_16::Kotomine Kirei::
+26035::m_wpn_name_17::Espada de Bambu do Tigre::
+26036::m_wpn_ownr_17::Fujimura Taiga::
 26037::m_wpn_page::Página::
 26038::m_wpn_back::Voltar::
 26039::m_wpn_guid_bak::Voltar::
@@ -390,7 +390,7 @@ id=qid::label=str::string=lstr::
 26044::m_wpn_subtitle::D E T A L H E S::
 26045::m_wpn_subt_name::N O M E::
 26046::m_wpn_subt_user::U S U Á R I O::
-26047::m_wpn_name_1_1::Espada Dourada 	da Vitória Certa::
+26047::m_wpn_name_1_1::Espada Dourada	da Vitória Garantida::
 27001::m_end_ttl::L I S T A   D E   F I N A I S::
 27002::m_end_epilogue::Epílogo::
 27003::m_end_1_sub::O Sonho Continua::
@@ -452,13 +452,13 @@ id=qid::label=str::string=lstr::
 27059::m_end_meat1::1::
 27060::m_end_meat2::2::
 27061::m_end_meat3::3::
-27062::m_end_gao::RAWR!::
+27062::m_end_gao::GRAAAU!::
 27063::m_end_bak::Voltar::
 28001::m_lbr_ttl::Biblioteca::
 28002::m_lbr_guid_bak::Voltar::
 28003::m_lbr_guid_ent::Confirmar::
 28004::m_lbr_guid_mov::Mover::
-2B005::m_lbr_guid_scl::Rolar::
+28005::m_lbr_guid_scl::Rolar::
 28006::m_lbr_bak::Voltar::
 28007::m_lbr_tit::D E T A L H E S::
 30001::m_menu_title::MENU::
@@ -480,7 +480,7 @@ id=qid::label=str::string=lstr::
 31003::m_kgd_backpg::Pág. anterior::
 31004::m_kgd_longtap::(segurar)::
 31005::m_kgd_fastbak::Retroceder rápido::
-31006::m_kgd_outo::Iniciar/Parar auto.::
+31006::m_kgd_outo::Iniciar/Parar Modo Auto::
 31007::m_kgd_timeline::Linha do Tempo::
 31008::m_kgd_timelinec::Fechar linha do tempo::
 31009::m_kgd_next::Próxima linha/pág.::
@@ -489,7 +489,7 @@ id=qid::label=str::string=lstr::
 31012::m_kgd_nextpg::Próxima pág.::
 31013::m_kgd_fastpg::Avançar Rápido::
 31014::m_kgd_loopswtc::(alternar loop)::
-31015::m_kgd_outospd::Veloc. auto.::
+31015::m_kgd_outospd::Velocidade do Modo Auto::
 31016::m_kgd_spd10::Padrão::
 31017::m_kgd_spd13::x1.3::
 31018::m_kgd_spd20::x2::
@@ -513,7 +513,7 @@ id=qid::label=str::string=lstr::
 31036::m_kgd_5::5::
 31037::m_kgd_bs::Backspace::
 31038::m_kgd_enter::Enter::
-31039::m_kgd_space::S::
+31039::m_kgd_space::Espaço::
 31040::m_kgd_clickl::Clique Esq.::
 31041::m_kgd_clickr::Clique Dir.::
 31042::m_kgd_wheelup::Roda p/ Cima::
@@ -533,7 +533,7 @@ id=qid::label=str::string=lstr::
 31056::m_kgd_menuoc::Abrir/Fechar Menu::
 31057::m_kgd_menuv::Mostrar Menu::
 31058::m_kgd_menuh::Ocultar Menu::
-31059::m_kgd_flick::Tocar na Tela::
+31059::m_kgd_flick::Deslizar na Tela::
 31060::m_kgd_ok1::Confirmar::
 31061::m_kgd_ok2::OK::
 31062::m_kgd_kb::Teclado::
@@ -577,9 +577,9 @@ id=qid::label=str::string=lstr::
 31100::m_kgd_slhld::Botão SL (Segurar)::
 31101::m_kgd_sr::Botão SR::
 31102::m_kgd_srhld::Botão SR (Segurar)::
-31103::m_kgd_pshin1::Clique::
-31104::m_kgd_pshin2::Clique::
-31105::m_kgd_pshin3::Clique::
+31103::m_kgd_pshin1::Pressionar::
+31104::m_kgd_pshin2::Pressionar::
+31105::m_kgd_pshin3::Pressionar::
 31106::m_kgd_shft::Shift::
 31107::m_kgd_dtu::Deslizar p/ Cima::
 31108::m_kgd_utd::Deslizar p/ Baixo::
@@ -599,13 +599,13 @@ id=qid::label=str::string=lstr::
 31122::m_kgd_exit::Sair do jogo::
 31123::m_kgd_scmode::Mudar modo de tela::
 31124::m_kgd_crsr_top::Mover cursor p/ topo::
-31125::m_kgd_crsr_btm::Mover cursor p/ baixo::
+31125::m_kgd_crsr_btm::Mover cursor para o rodapé::
 31126::m_kgd_crsr_ltor::Deslizar cursor Esq. p/ Dir.::
-31127::m_kgd_drug_r::Arrastar p/ Direita::
-31128::m_kgd_drug_l::Arrastar p/ Esquerda::
+31127::m_kgd_drug_r::Arrastar do centro para a direita::
+31128::m_kgd_drug_l::Arrastar do centro para a esquerda::
 31129::m_kgd_swipe::Deslizar tela::
 31130::m_kgd_crsr_rtol::Deslizar cursor Dir. p/ Esq.::
-31131::m_kgd_qjump::Pulo rápido::
+31131::m_kgd_qjump::Salto rápido::
 31132::m_kgd_or::ou::
 31133::m_kgd_ctl::Controles::
 31134::m_kgd_opens::Abrir menu Salvar::
@@ -669,7 +669,7 @@ id=qid::label=str::string=lstr::
 50011::m_save_tag3::Unlimited Blade Works::
 50012::m_save_tag4::Heaven's Feel::
 50013::m_save_tag5::Last Episode::
-50014::m_save_tag6::Tiger Dojo::
+50014::m_save_tag6::Dojo do Tigre::
 60001::m_load_title::Carregar::
 60002::m_load_atslot::Auto::
 60003::m_load_qslot::Rápido::
@@ -679,8 +679,8 @@ id=qid::label=str::string=lstr::
 60007::m_ld_guid_mov::Mover::
 60008::m_ld_guid_scl::Rolar::
 60009::m_ld_guid_del::Excluir Dados::
-60010::m_load_atslot2::Salvo Auto.::
-60011::m_load_qslot2::Salvo Rápido::
+60010::m_load_atslot2::Salvamento Automático::
+60011::m_load_qslot2::Salvamento Rápido::
 60012::m_load_nodata::Sem Dados::
 70001::m_titl_conti::Continuar::
 70002::m_titl_load::Carregar::
@@ -692,7 +692,7 @@ id=qid::label=str::string=lstr::
 70008::m_titl_anykey::Pressione Qualquer Tecla::
 70009::m_titl_exit::Sair::
 70010::m_titl_quit::Sair::
-80001::m_boot_caution::Este jogo é uma obra de ficção. Nomes e grupos aqui representados são produtos da imaginação do autor ou usados de forma fictícia.	Qualquer semelhança com pessoas ou grupos reais, vivos ou mortos, é mera coincidência.		Este jogo contém cenas gráficas que podem ser perturbadoras para alguns jogadores.		A gravação e distribuição de quaisquer imagens, áudio ou vídeo contidos neste jogo sem permissão expressa dos detentores dos direitos é estritamente proibida.	No entanto, gravar ou transmitir o jogo usando a função de gravação dedicada da sua plataforma é permitido, exceto em sequências do jogo onde tais funções são restritas.	Caso contrário, por favor, aproveite o jogo dentro dos limites da lei.::
+80001::m_boot_caution::Este jogo é uma obra de ficção. Os nomes e grupos aqui representados são fruto da imaginação do autor ou usados de forma fictícia.	Qualquer semelhança com pessoas ou grupos reais, vivos ou mortos, é mera coincidência.		Este jogo contém cenas de violência explícita que podem ser perturbadoras para alguns jogadores.		A gravação e a distribuição de imagens, áudio ou vídeo deste jogo sem a permissão expressa dos detentores dos direitos são estritamente proibidas.	No entanto, é permitido gravar ou transmitir o jogo usando a função própria da plataforma, exceto nas sequências em que essas funções estejam bloqueadas.	Nos demais casos, aproveite o jogo dentro dos limites da lei.::
 100001::button_01::OK::
 100002::button_02::Cancelar::
 100003::button_03::SIM::
@@ -825,7 +825,7 @@ id=qid::label=str::string=lstr::
 100140::05_title_00a_01::Carregar Jogo::
 100141::05_title_00a_02::Continuar de um ponto salvo.::
 100142::05_title_00a_03::Salvar Jogo::
-100143::05_title_00a_04::Criar um ponto salvo.::
+100143::05_title_00a_04::Salvar o progresso atual.::
 100144::05_txt_00a::Dados::
 100145::05_txt_01a::Não é possível salvar agora.::
 100146::06_day_00a::31/1::
@@ -835,7 +835,7 @@ id=qid::label=str::string=lstr::
 100150::06_day_04a::4/2::
 100151::06_day_05a::5/2::
 100152::06_day_06a::6/2::
-100153::06_day_06b::6/2–7::
+100153::06_day_06b::6–7/2::
 100154::06_day_07a::7/2::
 100155::06_day_08a::8/2::
 100156::06_day_09a::9/2::
@@ -844,7 +844,7 @@ id=qid::label=str::string=lstr::
 100159::06_day_12a::12/2::
 100160::06_day_13a::13/2::
 100161::06_day_14a::14/2::
-100162::06_day_14b::14/2–16::
+100162::06_day_14b::14–16/2::
 100163::06_day_15a::15/2::
 100164::06_day_16a::16/2::
 100165::06_stitle_00a::Fate/stay night::
@@ -882,17 +882,17 @@ id=qid::label=str::string=lstr::
 100202::07_atrus_00a_31::DESLIGADO::
 100203::07_atrus_00a_32::Opções::
 100204::07_atrus_00a_33::Mudar configurações do sistema.::
-100208::07_atrus_01a_03::Fade do texto::
+100208::07_atrus_01a_03::Desaparecimento gradual do texto::
 100209::07_atrus_01a_04::Escuro::
 100210::07_atrus_01a_05::Claro::
 100211::07_cv_00b::???::
 100212::07_cv_00c::Outros::
-100213::07_cv_01b::Shirou Emiya::
+100213::07_cv_01b::Emiya Shirou::
 100214::07_cv_02b::Saber::
-100215::07_cv_03b::Rin Tohsaka::
-100216::07_cv_04b::Sakura Matou::
+100215::07_cv_03b::Tohsaka Rin::
+100216::07_cv_04b::Matou Sakura::
 100217::07_cv_05b::Illya::
-100218::07_cv_06b::Taiga Fujimura::
+100218::07_cv_06b::Fujimura Taiga::
 100219::07_cv_07b::Archer::
 100220::07_cv_08b::Lancer::
 100221::07_cv_09b::Rider::
@@ -901,24 +901,24 @@ id=qid::label=str::string=lstr::
 100224::07_cv_12b::Berserker::
 100225::07_cv_13b::Gilgamesh::
 100226::07_cv_14b::Assassin::
-100227::07_cv_15b::Kiritsugu Emiya::
-100228::07_cv_16b::Kirei Kotomine::
-100229::07_cv_17b::Shinji Matou::
-100230::07_cv_18b::Souichirou Kuzuki::
-100231::07_cv_19b::Issei Ryudou::
-100232::07_cv_20b::Zouken Matou::
-100233::07_cv_21b::Ayako Mitsuzuri::
-100234::07_cv_22b::Yukika Saegusa::
-100235::07_cv_23b::Kaede Makidera::
-100236::07_cv_24b::Kane Himuro::
+100227::07_cv_15b::Emiya Kiritsugu::
+100228::07_cv_16b::Kotomine Kirei::
+100229::07_cv_17b::Matou Shinji::
+100230::07_cv_18b::Kuzuki Souichirou::
+100231::07_cv_19b::Ryuudou Issei::
+100232::07_cv_20b::Matou Zouken::
+100233::07_cv_21b::Mitsuzuri Ayako::
+100234::07_cv_22b::Saegusa Yukika::
+100235::07_cv_23b::Makidera Kaede::
+100236::07_cv_24b::Himuro Kane::
 100237::07_cv_25b::Sella::
 100238::07_cv_26b::Leysritt::
 100239::07_cv_28a::Todos::
-100240::07_cv_all_01::Todos LIGADO::
-100241::07_cv_all_02::Todos DESLIGADO::
-100242::07_cv_all_03::LC_07_cv_all_03::
-100243::08_day_00a_01::LC_08_day_00a_01::
-100244::08_day_00a_02::LC_08_day_00a_02::
+100240::07_cv_all_01::Ativar todas::
+100241::07_cv_all_02::Desativar todas::
+100242::07_cv_all_03::Aplicar::
+100243::08_day_00a_01::Mês::
+100244::08_day_00a_02::Dia::
 100245::08_day_00a_03::1 Um Dia I::
 100246::08_day_00a_04::2 Um Dia II::
 100247::08_day_00a_05::3 Longo Dia, Longa Noite::
@@ -931,7 +931,7 @@ id=qid::label=str::string=lstr::
 100254::08_day_00a_12::10 Arranha-céu::
 100255::08_day_00a_13::11 Caça ao Dragão::
 100256::08_day_00a_14::12 Intervalo Nível 4::
-100257::08_day_00a_15::13 Braços Infinitos::
+100257::08_day_00a_15::13 Armas Infinitas::
 100258::08_day_00a_16::14 Luar (I)::
 100259::08_day_00a_17::15 Utopia::
 100260::08_day_00a_18::O Sonho Continua::
@@ -940,21 +940,21 @@ id=qid::label=str::string=lstr::
 100263::08_sub_01a_03::6 Farsante::
 100264::08_sub_01a_04::7 Valsa Fantasma::
 100265::08_sub_01a_05::8 Intervalo Nível 1::
-100266::08_sub_01a_06::9 Minha Querida, Morta Perdida::
+100266::08_sub_01a_06::9 Meu Querido, Morto Errante::
 100267::08_sub_01a_07::10 Amantes em Ataque::
 100268::08_sub_01a_08::11 Bruxaria::
 100269::08_sub_01a_09::12 Luar (II)::
 100270::08_sub_01a_10::13 VS Berserker::
-100271::08_sub_01a_11::14 Cavaleiro Fica Noite::
+100271::08_sub_01a_11::14 O Cavaleiro e a Noite::
 100272::08_sub_01a_12::15 Imagem Residual::
 100273::08_sub_01a_13::16 ÉDEN::
 100274::08_sub_01a_14::Anos Brilhantes::
 100275::08_sub_01a_15::Dia Ensolarado::
-100276::08_sub_02a_01::4 Vingador::
+100276::08_sub_02a_01::4 Avenger::
 100277::08_sub_02a_02::5 Presságio::
 100278::08_sub_02a_03::6 Belo (I)::
-100279::08_sub_02a_04::7 Diálogo Loop Perdido::
-100280::08_sub_02a_05::8 De:luz::
+100279::08_sub_02a_04::7 Diálogo: Ciclo Perdido::
+100280::08_sub_02a_05::8 De:light::
 100281::08_sub_02a_06::9 CHUVA::
 100282::08_sub_02a_07::10 Bosque Escuro, Bela Adormecida::
 100283::08_sub_02a_08::11 Belo (II)::
@@ -984,7 +984,7 @@ id=qid::label=str::string=lstr::
 100307::10_menu_02a_01::Prólogo::
 100308::10_menu_02a_02::Jogar o prólogo.::
 100309::10_menu_02a_03::Vídeos::
-100310::10_menu_02a_04::Tocar vídeos.::
+100310::10_menu_02a_04::Reproduzir vídeos.::
 100311::10_menu_02a_05::Lista de Finais::
 100312::10_menu_02a_06::Ver a lista de finais.::
 100313::10_menu_02a_07::Carimbos do Tigre::
@@ -1007,69 +1007,69 @@ id=qid::label=str::string=lstr::
 100330::10_title_03a_01::Status::
 100331::10_title_03a_02::Ver status.::
 100332::20_bgm_00a::??????::
-100333::20_bgm_01a::Dentro da noite::
-100334::20_bgm_02a::Hizashi No Nakade::
-100335::20_bgm_03a::Odayaka Na Mainichi::
-100336::20_bgm_04a::Yasashii Fuukei::
-100337::20_bgm_05a::Akaneiro No Machi::
-100338::20_bgm_06a::Egao Ni Kakomarete::
-100339::20_bgm_07a::Mayonaka No Hazama::
-100340::20_bgm_08a::Samayou Kage::
-100341::20_bgm_09a::Akumu::
-100342::20_bgm_10a::Unmei No Uzu::
-100343::20_bgm_11a::Unmei No Uzu2::
-100344::20_bgm_12a::Gekitotsu Suru Tamashii::
-100345::20_bgm_13a::Hametsu No Ashioto::
-100346::20_bgm_14a::Toppako::
-100347::20_bgm_15a::Oka No Ue No Kyokai::
-100348::20_bgm_16a::Kioku No Kanata::
-100349::20_bgm_17a::Kienai Omoi::
-100350::20_bgm_18a::Futari No Jikan::
-100351::20_bgm_19a::Embrace::
-100352::20_bgm_20a::Embrace 2::
-100353::20_bgm_21a::Motomeau Kokoro::
-100354::20_bgm_22a::Shippu No Kenshi::
-100355::20_bgm_23a::Yakusoku Sareta Shouri No Ken::
-1s0356::20_bgm_24a::Ougon No Ou::
+100333::20_bgm_01a::Into the Night::
+100334::20_bgm_02a::Sob a luz do sol::
+100335::20_bgm_03a::Dias tranquilos::
+100336::20_bgm_04a::Paisagem acolhedora::
+100337::20_bgm_05a::Cidade em tons de vermelho::
+100338::20_bgm_06a::Em meio a sorrisos::
+100339::20_bgm_07a::No limiar da meia-noite::
+100340::20_bgm_08a::Sombra errante::
+100341::20_bgm_09a::Pesadelo::
+100342::20_bgm_10a::Redemoinho do destino::
+100343::20_bgm_11a::Redemoinho do destino 2::
+100344::20_bgm_12a::Choque de almas::
+100345::20_bgm_13a::Passos da ruína::
+100346::20_bgm_14a::Brecha::
+100347::20_bgm_15a::Igreja no alto da colina::
+100348::20_bgm_16a::Além das lembranças::
+100349::20_bgm_17a::Sentimentos que não se apagam::
+100350::20_bgm_18a::Tempo a dois::
+100351::20_bgm_19a::Abraço::
+100352::20_bgm_20a::Abraço 2::
+100353::20_bgm_21a::Corações que se buscam::
+100354::20_bgm_22a::Espadachim do vendaval::
+100355::20_bgm_23a::Espada da Vitória Prometida::
+100356::20_bgm_24a::Rei dourado::
 100357::20_bgm_25a::EMIYA::
-100358::20_bgm_26a::Hikari To Yami::
-100359::20_bgm_27a::Konoyo Subete No Aku::
-100360::20_bgm_28a::Arata Na Yoake::
-100361::20_bgm_29a::Aratana Yoake2::
-100362::20_bgm_30a::Utsuriyuku Kisetsu2::
-100363::20_bgm_31a::ESTA ILUSÃO (inst.)::
-100364::20_bgm_32a::ESTA ILUSÃO (versão para piano.)::
-100365::20_bgm_33a::Shizuka Naru Koe::
-100366::20_bgm_34a::Arashi No Yokan::
+100358::20_bgm_26a::Luz e trevas::
+100359::20_bgm_27a::Todo o mal do mundo::
+100360::20_bgm_28a::Um novo amanhecer::
+100361::20_bgm_29a::Um novo amanhecer 2::
+100362::20_bgm_30a::Estações que se sucedem 2::
+100363::20_bgm_31a::THIS ILLUSION (inst.)::
+100364::20_bgm_32a::THIS ILLUSION (versão para piano)::
+100365::20_bgm_33a::Voz serena::
+100366::20_bgm_34a::Presságio de tempestade::
 100367::20_bgm_35a::Loreley::
-100368::20_bgm_36a::Kyo No Shokutaku::
+100368::20_bgm_36a::À mesa hoje::
 100369::20_bgm_37a::Extra::
-100370::20_bgm_38a::Uraraka Na Shirabe::
-100371::20_bgm_39a::Trouble Makers::
-100372::20_bgm_40a::Kokoro No Chime::
-100373::20_bgm_41a::Tiger Dojo No Theme::
-100374::20_bgm_42a::Makoku::
-100375::20_bgm_43a::Taiji::
+100370::20_bgm_38a::Melodia radiante::
+100371::20_bgm_39a::Encrenqueiros::
+100372::20_bgm_40a::Sino do coração::
+100373::20_bgm_41a::Tema do Dojo do Tigre::
+100374::20_bgm_42a::Hora demoníaca::
+100375::20_bgm_43a::Confronto::
 100376::20_bgm_44a::Sonic Barrage::
 100377::20_bgm_45a::Burst Up::
 100378::20_bgm_46a::Diver::
-100379::20_bgm_47a::Diver2::
-100380::20_bgm_48a::Kongen No Ryu::
-100381::20_bgm_49a::Shinshoku::
-100382::20_bgm_50a::Shinshoku2::
-100383::20_bgm_51a::Fukaki Nemuri::
+100379::20_bgm_47a::Diver 2::
+100380::20_bgm_48a::Dragão da Raiz::
+100381::20_bgm_49a::Corrosão::
+100382::20_bgm_50a::Corrosão 2::
+100383::20_bgm_51a::Sono profundo::
 100384::20_bgm_52a::Sorrow::
-100385::20_bgm_53a::Kamino Na No Motoni::
-100386::20_bgm_54a::Yomigaeru Shinwa::
-100387::20_bgm_55a::Futari No Ou::
-100388::20_bgm_56a::Saigo No Chikara::
+100385::20_bgm_53a::Em nome de Deus::
+100386::20_bgm_54a::Mito renascido::
+100387::20_bgm_55a::Dois reis::
+100388::20_bgm_56a::Últimas forças::
 100389::20_bgm_57a::Mighty Wind::
-100390::20_bgm_58a::Yakusoku Sareta Shouri No Ken (Black Saber mix)::
+100390::20_bgm_58a::Espada da Vitória Prometida (mix Saber Sombria)::
 100391::20_bgm_59a::Blue Sky::
-100392::20_bgm_60a::Utsuriyuku Kisetsu (Realta Nua ver.)::
-100393::20_bgm_61a::Ougon no Kagayaki (short ver.)::
-100394::20_bgm_62a::Link (Short Version)::
-100395::20_bgm_63a::Yume No Owari::
+100392::20_bgm_60a::Estações que se sucedem (versão Réalta Nua)::
+100393::20_bgm_61a::Brilho dourado (versão curta)::
+100394::20_bgm_62a::Link (versão curta)::
+100395::20_bgm_63a::Fim do sonho::
 100396::20_pic_00a::imagem não exibida::
 100397::20_pic_01a::Carregando::
 100398::20_title_00a_01::Imagens::
@@ -1081,7 +1081,7 @@ id=qid::label=str::string=lstr::
 100404::30_edlist_03a::Anos Brilhantes::
 100405::30_edlist_04a::Sonhando com Flores de Cerejeira::
 100406::30_edlist_05a::Retorno à Primavera::
-100407::30_gao_00a::RAWR!::
+100407::30_gao_00a::GRAAAU!::
 100408::30_move_00a::vídeo não exibido::
 100409::30_stitle_00a::???::
 100410::30_stitle_01a::Fate::
@@ -1099,7 +1099,7 @@ id=qid::label=str::string=lstr::
 100422::30_txt_02a::Final Bom::
 100423::30_txt_03a::Final Verdadeiro::
 100424::40_abi_00a::Resistência Mágica: A::
-100425::40_abi_00b::Cavalgar: B::
+100425::40_abi_00b::Montaria: B::
 100426::40_deta_00a::Artoria::
 100427::40_prof_00a_01::Artoria::
 100428::40_prof_00a_02::Feminino::
@@ -1116,8 +1116,8 @@ id=qid::label=str::string=lstr::
 100439::40_prof_01a_03::187cm::
 100440::40_prof_01a_04::78kg::
 100441::40_skiil_01a::Clarividência: C::
-100442::40_skiil_01b::Feitiçaria: C-::
-100443::40_skiil_01c::Olho da Mente (Ver.): B::
+100442::40_skiil_01b::Magia: C-::
+100443::40_skiil_01c::Olho da Mente (Verdadeiro): B::
 100444::40_abi_02a::Resistência Mágica: C::
 100445::40_deta_02a::Cú Chulainn::
 100446::40_prof_02a_01::Cú Chulainn::
@@ -1125,12 +1125,12 @@ id=qid::label=str::string=lstr::
 100448::40_prof_02a_03::185cm::
 100449::40_prof_02a_04::70kg::
 100450::40_skiil_02a::Continuação de Batalha: A::
-100451::40_skiil_02b::Desengajar: C::
+100451::40_skiil_02b::Retirada: C::
 100452::40_skiil_02c::Runas: B::
 100453::40_skiil_02d::Proteção contra Flechas: B::
 100454::40_skiil_02e::Divindade: B::
 100455::40_abi_03a::Resistência Mágica: B::
-100456::40_abi_03b::Cavalgar: A+::
+100456::40_abi_03b::Montaria: A+::
 100457::40_deta_03a::Medusa::
 100458::40_prof_03a_01::Medusa::
 100459::40_prof_03a_02::Feminino::
@@ -1141,14 +1141,14 @@ id=qid::label=str::string=lstr::
 100464::40_skiil_03c::Força Monstruosa: B::
 100465::40_skiil_03d::Divindade: E-::
 100466::40_abi_04a::Criação de Território: A::
-100467::40_abi_04b::Construção de Itens: A::
-100468::40_deta_04a::Medea::
-100469::40_prof_04a_01::Medea::
+100467::40_abi_04b::Criação de Itens: A::
+100468::40_deta_04a::Medeia::
+100469::40_prof_04a_01::Medeia::
 100470::40_prof_04a_02::Feminino::
 100471::40_prof_04a_03::163cm::
 100472::40_prof_04a_04::51kg::
 100473::40_skiil_04a::Palavras Divinas Rápidas: A::
-100474::40_skiil_04b::Argon Coin: EX::
+100474::40_skiil_04b::Velo de Ouro: EX::
 100475::40_abi_05a::Ocultação de Presença: D::
 100476::40_deta_05a::Sasaki Kojirou::
 100477::40_prof_05a_01::Sasaki Kojirou::
@@ -1157,11 +1157,11 @@ id=qid::label=str::string=lstr::
 100480::40_prof_05a_04::63kg::
 100481::40_skiil_05a::Reversão da Andorinha::
 100482::40_skiil_05b::Olho da Mente (Falso): A::
-100483::40_skiil_05c::Vitrificar: B+::
-100484::40_skiil_05d::Conhecimento do Sowa: B::
-100485::40_abi_06a::Aprimoramento de Loucura: B::
-100486::40_deta_06a::Heracles::
-100487::40_prof_06a_01::Heracles::
+100483::40_skiil_05c::Transparência: B+::
+100484::40_skiil_05d::Conhecimento de Sowa: B::
+100485::40_abi_06a::Aprimoramento da Loucura: B::
+100486::40_deta_06a::Héracles::
+100487::40_prof_06a_01::Héracles::
 100488::40_prof_06a_02::Masculino::
 100489::40_prof_06a_03::253cm::
 100490::40_prof_06a_04::311kg::
@@ -1170,7 +1170,7 @@ id=qid::label=str::string=lstr::
 100493::40_skiil_06c::Valor: A+::
 100494::40_skiil_06d::Divindade: A::
 100495::40_abi_07a::Resistência Mágica: B::
-100496::40_abi_07b::Cavalgar: -::
+100496::40_abi_07b::Montaria: -::
 100497::40_deta_07a::Artoria::
 100498::40_prof_07a_01::Artoria::
 100499::40_prof_07a_02::Feminino::
@@ -1186,8 +1186,8 @@ id=qid::label=str::string=lstr::
 100509::40_prof_08a_03::215cm::
 100510::40_prof_08a_04::62kg::
 100511::40_skiil_08a::Arremesso (Punhal): B::
-100512::40_skiil_08b::Proteção Contra o Vento: A::
-100513::40_skiil_08c::Auto-Modificação: C::
+100512::40_skiil_08b::Proteção contra o Vento: A::
+100513::40_skiil_08c::Automodificação: C::
 100514::40_abi_09a::Resistência Mágica: E::
 100515::40_abi_09b::Ação Independente: A+::
 100516::40_deta_09a::Gilgamesh::
@@ -1211,16 +1211,16 @@ id=qid::label=str::string=lstr::
 100534::40_gauge_02a_03::RES::
 100535::40_gauge_02a_04::SOR::
 100536::40_gauge_02a_05::AGI::
-100537::40_gauge_02a_06::Fant. Nobre::
-100538::40_master_00a::Shirou Emiya::
-100539::40_master_01a::Rin Tohsaka::
-100540::40_master_02a::Sakura Matou::
+100537::40_gauge_02a_06::Fantasma Nobre::
+100538::40_master_00a::Emiya Shirou::
+100539::40_master_01a::Tohsaka Rin::
+100540::40_master_02a::Matou Sakura::
 100541::40_master_03a::Illyasviel von Einzbern::
 100542::40_master_04a::Caster::
-100543::40_master_05a::Kirei Kotomine::
-100544::40_master_06a::Shinji Matou::
-100545::40_master_07a::Souichirou Kuzuki::
-100546::40_master_08a::Zouken Matou::
+100543::40_master_05a::Kotomine Kirei::
+100544::40_master_06a::Matou Shinji::
+100545::40_master_07a::Kuzuki Souichirou::
+100546::40_master_08a::Matou Zouken::
 100547::40_menu_00a::Perícias de Classe::
 100548::40_menu_01a::Detalhes::
 100549::40_menu_02a::Perícias Inatas::
@@ -1245,7 +1245,7 @@ id=qid::label=str::string=lstr::
 100568::40_pram_06a::C::
 100569::40_pram_07a::D::
 100570::40_pram_08a::E::
-100571::40_pram_09a::B++::
+100571::40_pram_09a::B+::
 100572::40_tab_02a_01::Perícias de Classe::
 100573::40_tab_02a_02::Perícia 1::
 100574::40_tab_02a_03::Perícia 2::
@@ -1265,106 +1265,106 @@ id=qid::label=str::string=lstr::
 100588::40_title_01a_01::Status::
 100589::40_title_01a_02::Ver informações de status do Servo.::
 100590::40_title_01b_01::Mestre::
-100591::40_title_01b_02::Nome Real::
+100591::40_title_01b_02::Nome Verdadeiro::
 100592::40_title_01b_03::Gênero::
 100593::40_title_01b_04::Altura/Peso::
 100594::40_title_01b_05::Alinhamento::
 100595::41_atrus_00a_01::Avalon::
 100596::41_atrus_00a_02::A Utopia Sempre Distante ::
 100597::41_atrus_00a_03::Rank: EX::
-100598::41_atrus_00a_04::Tipo NP: Anti-Mundo::
+100598::41_atrus_00a_04::Tipo: Campo Limitado::
 100599::41_atrus_00a_05::Protege: 1 pessoa::
 100600::41_atrus_01a_01::Excalibur::
-100601::41_atrus_01a_02::Yakusoku Sareta Shouri No Ken::
+100601::41_atrus_01a_02::Espada da Vitória Prometida::
 100602::41_atrus_01a_03::Rank: A++::
-100603::41_atrus_01a_04::Tipo NP: Anti-Fortaleza::
+100603::41_atrus_01a_04::Tipo: Anti-Fortaleza::
 100604::41_atrus_01a_05::Alcance: 1–99::
 100605::41_atrus_01a_06::Máx. alvos: 1000 pessoas::
 100606::41_atrus_02a_01::Enuma Elish::
 100607::41_atrus_02a_02::Estrela da Criação que Dividiu Céu e Terra::
 100608::41_atrus_02a_03::Rank: EX::
-100609::41_atrus_02a_04::Tipo NP: Anti-Mundo::
+100609::41_atrus_02a_04::Tipo: Anti-Mundo::
 100610::41_atrus_02a_05::Alcance: 1–99::
 100611::41_atrus_02a_06::Máx. alvos: 1000 pessoas::
 100612::41_atrus_03a_01::Gáe Bolg::
-100613::41_atrus_03a_02::Lança Farpada que Perfura com a Morte::
+100613::41_atrus_03a_02::Lança Voadora que Perfura com a Morte::
 100614::41_atrus_03a_03::Rank: B+::
-100615::41_atrus_03a_04::Tipo NP: Anti-Exército::
+100615::41_atrus_03a_04::Tipo: Anti-Exército::
 100616::41_atrus_03a_05::Alcance: 5–40::
 100617::41_atrus_03a_06::Máx. alvos: 50 pessoas::
 100618::41_atrus_04a_01::Gáe Bolg::
-100619::41_atrus_04a_02::Lança Ascendente que Mergulha com a Morte::
-1CH620::41_atrus_04a_03::Rank: B+::
-100621::41_atrus_04a_04::Tipo NP: Anti-Pessoal::
+100619::41_atrus_04a_02::Lança Farpada que Perfura com a Morte::
+100620::41_atrus_04a_03::Rank: B+::
+100621::41_atrus_04a_04::Tipo: Anti-Pessoal::
 100622::41_atrus_04a_05::Alcance: 2–4::
 100623::41_atrus_04a_06::Máx. alvos: 1 pessoa::
 100624::41_atrus_05a_01::Excalibur::
-100625::41_atrus_05a_02::Yakusoku Sareta Shouri No Ken::
+100625::41_atrus_05a_02::Espada da Vitória Prometida::
 100626::41_atrus_05a_03::Rank: A++::
-100627::41_atrus_05a_04::Tipo NP: Anti-Fortaleza::
+100627::41_atrus_05a_04::Tipo: Anti-Fortaleza::
 100628::41_atrus_05a_05::Alcance: 1–99::
 100629::41_atrus_05a_06::Máx. alvos: 1000 pessoas::
 100630::41_atrus_06a_01::Rule Breaker::
 100631::41_atrus_06a_02::Todas as Magias Devem Ser Quebradas::
 100632::41_atrus_06a_03::Rank: C::
-100633::41_atrus_06a_04::Tipo NP: Anti-Feitiçaria::
+100633::41_atrus_06a_04::Tipo: Anti-Magia::
 100634::41_atrus_06a_05::Alcance: 1::
 100635::41_atrus_06a_06::Máx. alvos: 1 pessoa::
 100636::41_atrus_07a_01::Breaker Gorgon::
-100637::41_atrus_07a_02::Templo Sombrio do Auto-Selo::
+100637::41_atrus_07a_02::Autosselo, Templo Sombrio::
 100638::41_atrus_07a_03::Rank: C-::
 100639::41_atrus_07a_04::Alcance: 0::
 100640::41_atrus_07a_05::Máx. alvos: 1 pessoa::
 100641::41_atrus_08a_01::Gate of Babylon::
-100642::41_atrus_08a_02::Tesouro do Rei::
+100642::41_atrus_08a_02::Tesouros do Rei::
 100643::41_atrus_08a_03::Rank: E ~ A++::
-100644::41_atrus_08a_04::Tipo NP: Anti-Pessoal::
+100644::41_atrus_08a_04::Tipo: Anti-Pessoal::
 100645::41_atrus_08a_05::Alcance: -::
 100646::41_atrus_09a_01::Kanshou e Bakuya::
 100647::41_atrus_09a_02::Rank: C::
-100648::41_atrus_09a_03::Tipo NP: Anti-Pessoal::
+100648::41_atrus_09a_03::Tipo: Anti-Pessoal::
 100649::41_atrus_09a_04::Alcance: 1–2::
 100650::41_atrus_09a_05::Máx. alvos: 2::
 100651::41_atrus_10a_01::Bellerophon::
 100652::41_atrus_10a_02::Rédea da Cavalaria::
-100653::4Z_atrus_10a_03::Rank: A+::
-100654::41_atrus_10a_04::Tipo NP: Anti-Exército::
+100653::41_atrus_10a_03::Rank: A+::
+100654::41_atrus_10a_04::Tipo: Anti-Exército::
 100655::41_atrus_10a_05::Alcance: 2–50::
 100656::41_atrus_10a_06::Máx. alvos: 300 pessoas::
 100657::41_atrus_11a_01::God Hand::
 100658::41_atrus_11a_02::Doze Trabalhos::
 100659::41_atrus_11a_03::Rank: B::
-100660::41_atrus_11a_04::Tipo NP: Anti-Pessoal::
+100660::41_atrus_11a_04::Tipo: Anti-Pessoal::
 100661::41_atrus_11a_05::Alcance: -::
 100662::41_atrus_11a_06::Máx. alvos: 1 pessoa::
 100663::41_atrus_12a_01::God Hand::
 100664::41_atrus_12a_02::Doze Trabalhos::
 100665::41_atrus_12a_03::Rank: B::
-100666::41_atrus_12a_04::Tipo NP: Anti-Pessoal::
+100666::41_atrus_12a_04::Tipo: Anti-Pessoal::
 100667::41_atrus_12a_05::Alcance: -::
 100668::41_atrus_12a_06::Máx. alvos: 1 pessoa::
-100669::41_atrus_13a_01::Blood Fort Andromeda::
-100670::41_atrus_13a_02::Templo de Sangue de Outro Selo::
+100669::41_atrus_13a_01::Forte de Sangue Andrômeda::
+100670::41_atrus_13a_02::Selo de Outrem, Templo de Sangue::
 100671::41_atrus_13a_03::Rank: B::
-100672::41_atrus_13a_04::Tipo NP: Anti-Exército::
+100672::41_atrus_13a_04::Tipo: Anti-Exército::
 100673::41_atrus_13a_05::Alcance: 10–40::
 100674::41_atrus_13a_06::Máx. alvos: 500 pessoas::
 100675::41_atrus_14a_01::Invisible Air::
-100676::41_atrus_14a_02::Barreira do Rei do Vento::
+100676::41_atrus_14a_02::Campo Limitado do Rei do Vento::
 100677::41_atrus_14a_03::Rank: C::
-100678::41_atrus_14a_04::Tipo NP: Anti-Pessoal::
+100678::41_atrus_14a_04::Tipo: Anti-Pessoal::
 100679::41_atrus_14a_05::Alcance: 1–2::
 100680::41_atrus_14a_06::Máx. alvos: 1 item::
 100681::41_atrus_15a_01::Unlimited Blade Works::
 100682::41_atrus_15a_02::Criação Infinita de Espadas::
 100683::41_atrus_15a_03::Rank: E ~ A++::
-100684::41_atrus_15a_04::Tipo NP: ???::
+100684::41_atrus_15a_04::Tipo: ???::
 100685::41_atrus_15a_05::Alcance: ???::
 100686::41_atrus_15a_06::Máx. alvos: ???::
 100687::41_atrus_16a_01::Zabaniya::
-100688::41_atrus_16a_02::Batimento Cardíaco Ilusório::
-1D0689::41_atrus_16a_03::Rank: C::
-100690::41_atrus_16a_04::Tipo NP: Anti-Pessoal::
+100688::41_atrus_16a_02::Batimento Delirante::
+100689::41_atrus_16a_03::Rank: C::
+100690::41_atrus_16a_04::Tipo: Anti-Pessoal::
 100691::41_atrus_16a_05::Alcance: 3–9::
 100692::41_atrus_16a_06::Máx. alvos: 1 pessoa::
 100693::41_atrus_99a_01::???::
@@ -1373,31 +1373,31 @@ id=qid::label=str::string=lstr::
 100696::50_chara_01a::Saber::
 100697::50_chara_02a::Archer::
 100698::50_chara_03a::Assassin::
-100699::50_chara_04a::V. Assassin::
+100699::50_chara_04a::Assassin verdadeiro::
 100700::50_chara_05a::Rider::
 100701::50_chara_06a::Berserker::
 100702::50_chara_07a::Rin::
-100703::50_chara_08a::Kirei Kotomine::
-100704::50_chara_09a::Taiga Fujimura::
+100703::50_chara_08a::Kotomine Kirei::
+100704::50_chara_09a::Fujimura Taiga::
 100705::50_name_00a::???::
 100706::50_name_01a_01::Caliburn::
-100707::50_name_01a_02::Espada Dourada da Vitória Certa::
+100707::50_name_01a_02::Espada Dourada da Vitória Garantida::
 100708::50_name_02a::Caladbolg II::
 100709::50_name_03a::Gram::
 100710::50_name_04a::Durandal::
 100711::50_name_05a::Harpe::
 100712::50_name_06a::Vajra::
 100713::50_name_07a::Dáinsleif::
-100714::50_name_08a::O Vara-de-Secar-Roupa::
+100714::50_name_08a::Vara de Secar Roupa::
 100715::50_name_09a::Punhal::
 100716::50_name_10a::Adaga sem nome::
 100717::50_name_11a::Espada-machado sem nome::
-100718::50_name_12a::Lâmina Azoth::
-100719::50_name_13a::Espada Joia Zelretch::
+100718::50_name_12a::Lâmina de Azoth::
+100719::50_name_13a::Espada de Joias Zelretch::
 100720::50_name_14a::Kanshou e Bakuya::
 100721::50_name_15a::Alabarda Incinerante do Céu::
 100722::50_name_16a::Black Key::
-100723::50_name_17a::Espada de Bambu Tigre::
+100723::50_name_17a::Espada de Bambu do Tigre::
 100724::50_slash_00a::/::
 100725::50_title_00a_01::Menu de Armas::
 100726::50_title_00a_02::Ver o glossário de armas.::
@@ -1464,7 +1464,7 @@ id=qid::label=str::string=lstr::
 100791::g_24hexp_savc10::Shirou::
 100792::g_24hexp_savc11::Se o Santo Graal for adquirido::
 100793::g_24hexp_savc12::Trono dos Heróis::
-100794::g_41curse::Apenas corte.::
+100794::g_41curse::É só cortar fora.::
 100795::g_80saber::Saber::
 100796::g_81lancer::Lancer::
 100797::g_82archer::Archer::
@@ -1474,61 +1474,61 @@ id=qid::label=str::string=lstr::
 100801::g_86assassin::Assassin::
 100802::g_12_17a::Srta. Caster (pseudônimo), 28 anos (estimado)::
 100803::12_17b::○○ da tarde	isso é tudo	TV::
-100804::g_203chain::203 chain	MARVELOUS::
+100804::g_203chain::203 em sequência	ESPETACULAR::
 100805::g_rinn03_150::Maga Furiosa	SEM PIEDADE VERMELHO E PRETO::
-100806::g_sakura03_150::Cozinheira Silenciosa	Cozinhando Você Descuidadamente::
+100806::g_sakura03_150::Cozinheira Silenciosa	Cozinhando Você por Acidente::
 100807::g_stagestart031::Não leve este castelo para o Japão::
-100808::g_stagestart032::Vá Para Casa Einzbern::
+100808::g_stagestart032::Vá para Casa, Einzbern::
 100809::g_stagestart033::ESTÁGIO #03::
-100810::g_tigerttl_rina::Tiger Dojo::
-100811::g_tigerttl_rinb::Tiger Dojo::
-100812::g_tigerttl_skrb::Tiger Dojo::
-100813::g_time544::0.2388888888888889::
-100814::g_time545::0.2465277777777778::
-100815::g_japunika1_1::Série Aniquilação de Crianças Boas::
+100810::g_tigerttl_rina::Dojo do Tigre::
+100811::g_tigerttl_rinb::Dojo do Tigre::
+100812::g_tigerttl_skrb::Dojo do Tigre::
+100813::g_time544::5:44::
+100814::g_time545::5:45::
+100815::g_japunika1_1::Série de Extermínio para Boas Crianças::
 100816::g_japunika1_2::Três Mortes por Dia::
 100817::g_japunika1_3::Manual de Assassinato Japunika::
 100818::g_japunika1_4::JAPUNIKA::
-100819::g_japunika1_5::Linha    22::
+100819::g_japunika1_5::22 linhas pautadas::
 100820::g_japunika1_6::Vingança::
 100821::g_japunika1_7::Legal com Shirou::
 100822::g_japunika1_8::Ano    Turma    Nome::
 100823::g_japunika1_9::Illya::
-100824::g_tigerstamp::Tiger Dojo::
-100825::g_tkmk_b::Tiger Dojo	Premonição de Palpitação::
-100826::g_tkmk_e::Tiger Dojo	Premonição de Palpitação::
-100827::g_rizstamp::Tiger Dojo::
+100824::g_tigerstamp::Dojo do Tigre::
+100825::g_tkmk_b::Dojo do Tigre	Presságio de Paixão::
+100826::g_tkmk_e::Dojo do Tigre	Presságio de Paixão::
+100827::g_rizstamp::Dojo do Tigre::
 100828::g_101curse_ca::Venha::
 100829::g_102curse_cab::...Venha...::
 100830::g_103curse_cac::Venha logo. Venha aqui, garoto.::
-100831::g_102ubr_a::Eu sou o osso da minha espada.::
+100831::g_102ubr_a::Meu corpo é feito de espadas.::
 100832::g_102ubr_b::Aço é meu corpo, e fogo é meu sangue.::
-100833::g_102ubrbg_b01::Eu sou o osso da minha espada.::
+100833::g_102ubrbg_b01::Meu corpo é feito de espadas.::
 100834::g_102ubrbg_b02::Aço é meu corpo, e fogo é meu sangue.::
-100835::g_102ubrbg_b03::Eu sou o osso da minha espada.::
+100835::g_102ubrbg_b03::Meu corpo é feito de espadas.::
 100836::g_102ubrbg_b04::Aço é meu corpo, e fogo é meu sangue.::
 100837::g_102ubrbg_b05::Eu criei mais de mil lâminas.::
 100838::g_102ubrbg_b06::Desconhecido pela Morte,::
 100839::g_102ubrbg_b07::nem conhecido pela Vida.::
 100840::g_102ubrbg_b08::Suportei a dor para criar muitas armas.::
 100841::g_102ubrbg_b09::Contudo, essas mãos nunca segurarão nada.::
-100842::g_102ubrbg_b10::Então, enquanto eu rezo, UNLIMITED BLADE WORKS.::
+100842::g_102ubrbg_b10::Assim, eu rogo: UNLIMITED BLADE WORKS.::
 100843::g_102ubr_c::Eu criei mais de mil lâminas.::
 100844::g_102ubr_d::Desconhecido pela Morte,::
 100845::g_102ubr_e::nem conhecido pela Vida.::
 100846::g_102ubr_f::Suportei a dor para criar muitas armas.::
 100847::g_102ubr_g::Contudo, essas mãos nunca segurarão nada.::
-100848::g_102ubr_h::Então, enquanto eu rezo, UNLIMITED BLADE WORKS.::
+100848::g_102ubr_h::Assim, eu rogo: UNLIMITED BLADE WORKS.::
 100849::g_epilogue_in::epílogo.::
 100850::g_epilogue_in2::epílogo.::
 100851::g_typemoon_b::TYPE-MOON APRESENTA::
 100857::g_question_a::?::
 100858::g_question_b::?::
-100864::g_decay_a::O sábio clama.	"Abram-se, Portões do Céu. Abençoe-nos e conceda-nos milagres!"	O sábio clama em arrependimento.	"Fechem-se, Portões do Céu. Salve-nos de todos os nossos pecados e do mal!"::
-100865::g_decay_b::A cortina se fecha.	O milênio chega a uma paralisação.	Nossos sonhos, nossas esperanças... eram um "fracasso" proibido desde o início.::
-100866::g_decay_c::As estrelas caem do céu.	O espaço se fecha no nada.	O caminho para o centro é envolto junto com nossos pecados.		...Eu estou, finalmente, cheio de alegria.::
-100867::g_decay_d::Tudo foi engolido pela escuridão.	Nada pode te machucar agora.	Pelo menos, você foi libertado da dor que carregou por tanto tempo.		Você pode agora descansar, sem nenhuma preocupação em sua mente.::
-100873::g_rinmemo::Depois da aula. Atrás do estande. No bosque.	 Não estou brava por hoje de manhã, então venha.	Se você não vier, eu te mato vou para casa.::
+100864::g_decay_a::O sábio clama.	"Abram-se, Portões do Céu. Abençoem-nos e concedam-nos milagres!"	O sábio clama, arrependido.	"Fechem-se, Portões do Céu. Salvem-nos de todos os nossos pecados e de todo o mal!"::
+100865::g_decay_b::A cortina se fecha.	O milênio se detém.	Nossos sonhos, nossas esperanças... eram um "fracasso" proibido desde o início.::
+100866::g_decay_c::As estrelas caem do céu.	O espaço se fecha e desaparece no nada.	O caminho para o centro se oculta junto com nossos pecados.		...Enfim, estou pleno de alegria.::
+100867::g_decay_d::Tudo foi engolido pela escuridão.	Nada pode machucar você agora.	Enfim, você se libertou da dor que carregou por tanto tempo.		Agora pode descansar, sem nenhuma preocupação.::
+100873::g_rinmemo::Depois da aula. Atrás do dojo de kyudo. No bosque.	Não estou brava por hoje de manhã, então venha.	Se não vier, eu te mato... vou para casa.::
 100874::g_epologue::epílogo.::
 100875::g_sab0203_1::3/2::
 100876::g_sab0203_2::Fate::
@@ -1559,7 +1559,7 @@ id=qid::label=str::string=lstr::
 100901::g_sab0211_3::12 Intervalo Nível 4::
 100902::g_sab0212_1::12/2::
 100903::g_sab0212_2::Fate::
-100904::g_sab0212_3::13 Braços Infinitos::
+100904::g_sab0212_3::13 Armas Infinitas::
 100905::g_sab0213_1::13/2::
 100906::g_sab0213_2::Fate::
 100907::g_sab0213_3::14 Luar (I)::
@@ -1581,7 +1581,7 @@ id=qid::label=str::string=lstr::
 100923::g_cmn0202_3::3 Longo Dia, Longa Noite::
 100924::g_skr0203_1::3/2::
 100925::g_skr0203_2::Heaven's Feel::
-100926::g_skr0203_3::4 Vingador::
+100926::g_skr0203_3::4 Avenger::
 100927::g_skr0204_1::4/2::
 100928::g_skr0204_2::Heaven's Feel::
 100929::g_skr0204_3::5 presságio::
@@ -1590,10 +1590,10 @@ id=qid::label=str::string=lstr::
 100932::g_skr0205_3::6 belo (I)::
 100933::g_skr0206_1::6/2::
 100934::g_skr0206_2::Heaven's Feel::
-100935::g_skr0206_3::7 Diálogo Loop Perdido::
+100935::g_skr0206_3::7 Diálogo: Ciclo Perdido::
 100936::g_skr0207_1::7/2::
 100937::g_skr0207_2::Heaven's Feel::
-100938::g_skr0207_3::8 De:luz::
+100938::g_skr0207_3::8 De:light::
 100939::g_skr0208_1::8/2::
 100940::g_skr0208_2::Heaven's Feel::
 100941::g_skr0208_3::9 CHUVA::
@@ -1611,14 +1611,14 @@ id=qid::label=str::string=lstr::
 100953::g_skr0212_3::13 ÚLTIMA CONVERSA::
 100954::g_skr0213_1::13/2::
 100955::g_skr0213_2::Heaven's Feel::
-100956::g_skr0213_3::14 devorador de servos::
+100956::g_skr0213_3::14 Devorador de Servos::
 100957::g_skr0214_1::14/2::
 100958::g_skr0214_2::Heaven's Feel::
 100959::g_skr0214_3::15 Limitado.::
 100960::g_skr0215_1::15/2::
 100961::g_skr0215_2::Heaven's Feel::
 100962::g_skr0215_3::16 FINAL::
-100963::g_skr_hint::A rota final, "Heaven's Feel", está agora aberta.::
+100963::g_skr_hint::A rota final, "Heaven's Feel", foi desbloqueada.::
 100964::g_rin0203_1::3/2::
 100965::g_rin0203_2::Unlimited Blade Works::
 100966::g_rin0203_3::4 Um Dia III::
@@ -1636,7 +1636,7 @@ id=qid::label=str::string=lstr::
 100978::g_rin0207_3::8 Intervalo Nível 1::
 100979::g_rin0208_1::8/2::
 100980::g_rin0208_2::Unlimited Blade Works::
-100981::g_rin0208_3::9 Minha Querida, Morta Perdida::
+100981::g_rin0208_3::9 Meu Querido, Morto Errante::
 100982::g_rin0209_1::9/2::
 100983::g_rin0209_2::Unlimited Blade Works::
 100984::g_rin0209_3::10 Amantes em Ataque::
@@ -1651,7 +1651,7 @@ id=qid::label=str::string=lstr::
 100993::g_rin0212_3::13 VS Berserker::
 100994::g_rin0213_1::13/2::
 100995::g_rin0213_2::Unlimited Blade Works::
-100996::g_rin0213_3::14 Cavaleiro Fica Noite::
+100996::g_rin0213_3::14 O Cavaleiro e a Noite::
 100997::g_rin0214_1::14/2::
 100998::g_rin0214_2::Unlimited Blade Works::
 100999::g_rin0214_3::15 ÉDEN::
@@ -1708,24 +1708,24 @@ id=qid::label=str::string=lstr::
 101050::g_dt_se0212_1::Fate::
 101051::g_dt_se0212_2::12 Intervalo Nível 4::
 101052::g_dt_se0213_1::Fate::
-101053::g_dt_se0213_2::13 Braços Infinitos::
+101053::g_dt_se0213_2::13 Armas Infinitas::
 101054::g_dt_se0214_1::Fate::
 101055::g_dt_se0214_2::14 Luar (I)::
 101056::g_dt_se0215_1::Fate::
 101057::g_dt_se0215_2::15 Utopia::
 101058::g_dt_seed_1::Fate::
 101059::g_dt_seed_2::O Sonho Continua::
-101060::g_dt_month::LC_08_day_00a_01::
+101060::g_dt_month::Mês::
 101061::g_dt_sa0203_1::Heaven's Feel::
-101062::g_dt_sa0203_2::4 Vingador::
+101062::g_dt_sa0203_2::4 Avenger::
 101063::g_dt_sa0204_1::Heaven's Feel::
 101064::g_dt_sa0204_2::5 Presságio::
 101065::g_dt_sa0205_1::Heaven's Feel::
 101066::g_dt_sa0205_2::6 Belo (I)::
 101067::g_dt_sa0206_1::Heaven's Feel::
-101068::g_dt_sa0206_2::7 Diálogo Loop Perdido::
+101068::g_dt_sa0206_2::7 Diálogo: Ciclo Perdido::
 101069::g_dt_sa0207_1::Heaven's Feel::
-101070::g_dt_sa0207_2::8 De:luz::
+101070::g_dt_sa0207_2::8 De:light::
 101071::g_dt_sa0208_1::Heaven's Feel::
 101072::g_dt_sa0208_2::9 CHUVA::
 101073::g_dt_sa0209_1::Heaven's Feel::
@@ -1746,19 +1746,19 @@ id=qid::label=str::string=lstr::
 101088::g_dt_saed1_2::Retorno à Primavera::
 101089::g_dt_saed2_1::Heaven's Feel::
 101090::g_dt_saed2_2::Sonhando com Flores de Cerejeira::
-101091::g_dt_date::LC_08_day_00a_02::
+101091::g_dt_date::Dia::
 101092::g_dt_ri0203_1::Unlimited Blade Works::
 101093::g_dt_ri0203_2::4 Um Dia III::
 101094::g_dt_ri0204_1::Unlimited Blade Works::
 101095::g_dt_ri0204_2::5 Bonnie e Clyde::
 101096::g_dt_ri0205_1::Unlimited Blade Works::
 101097::g_dt_ri0205_2::6 Farsante::
-1A1098::g_dt_ri0206_1::Unlimited Blade Works::
+101098::g_dt_ri0206_1::Unlimited Blade Works::
 101099::g_dt_ri0206_2::7 Valsa Fantasma::
 101100::g_dt_ri0207_1::Unlimited Blade Works::
 101101::g_dt_ri0207_2::8 Intervalo Nível 1::
 101102::g_dt_ri0208_1::Unlimited Blade Works::
-101103::g_dt_ri0208_2::9 Minha Querida, Morta Perdida::
+101103::g_dt_ri0208_2::9 Meu Querido, Morto Errante::
 101104::g_dt_ri0209_1::Unlimited Blade Works::
 101105::g_dt_ri0209_2::10 Amantes em Ataque::
 101106::g_dt_ri0210_1::Unlimited Blade Works::
@@ -1768,7 +1768,7 @@ id=qid::label=str::string=lstr::
 101110::g_dt_ri0212_1::Unlimited Blade Works::
 101111::g_dt_ri0212_2::13 VS Berserker::
 101112::g_dt_ri0213_1::Unlimited Blade Works::
-101113::g_dt_ri0213_2::14 Cavaleiro Fica Noite::
+101113::g_dt_ri0213_2::14 O Cavaleiro e a Noite::
 101114::g_dt_ri0214_1::Unlimited Blade Works::
 101115::g_dt_ri0214_2::15 Imagem Residual::
 101116::g_dt_ri0215_1::Unlimited Blade Works::
@@ -1776,7 +1776,7 @@ id=qid::label=str::string=lstr::
 101118::g_dt_ried1_1::Unlimited Blade Works::
 101119::g_dt_ried1_2::Anos Brilhantes::
 101120::g_dt_ried2_1::Unlimited Blade Works::
-1E1121::g_dt_ried2_2::Dia Ensolarado::
+101121::g_dt_ried2_2::Dia Ensolarado::
 101122::g_dti0131_0_d_1::Fate/stay night::
 101123::g_dti0131_0_d_2::1 Um Dia I::
 101124::g_dti0131_0_u::31/1::
@@ -1793,7 +1793,7 @@ id=qid::label=str::string=lstr::
 101135::g_dti0203_1_d_2::4 Um Dia III::
 101136::g_dti0203_1_u::3/2::
 101137::g_dti0203_2_d_1::Heaven's Feel::
-101138::g_dti0203_2_d_2::4 Vingador::
+101138::g_dti0203_2_d_2::4 Avenger::
 101139::g_dti0203_2_u::3/2::
 101140::g_dti0204_0_d_1::Fate::
 101141::g_dti0204_0_d_2::5 Nova Vida::
@@ -1820,22 +1820,22 @@ id=qid::label=str::string=lstr::
 101162::g_dti0206_1_d_2::7 Valsa Fantasma::
 101163::g_dti0206_1_u::6/2::
 101164::g_dti0206_2_d_1::Heaven's Feel::
-101165::g_dti0206_2_d_2::7 Diálogo Loop Perdido::
+101165::g_dti0206_2_d_2::7 Diálogo: Ciclo Perdido::
 101166::g_dti0206_2_u::6/2::
 101167::g_dti0207_0_d_1::Fate::
 101168::g_dti0207_0_d_2::8 Espada & Magia (II)::
 101169::g_dti0207_0_u::7/2::
 101170::g_dti0207_1_d_1::Unlimited Blade Works::
 101171::g_dti0207_1_d_2::8 Intervalo Nível 1::
-1I1172::g_dti0207_1_u::7/2::
+101172::g_dti0207_1_u::7/2::
 101173::g_dti0207_2_d_1::Heaven's Feel::
-101174::g_dti0207_2_d_2::8 De:luz::
+101174::g_dti0207_2_d_2::8 De:light::
 101175::g_dti0207_2_u::7/2::
 101176::g_dti0208_0_d_1::Fate::
 101177::g_dti0208_0_d_2::9 NEO::
 101178::g_dti0208_0_u::8/2::
 101179::g_dti0208_1_d_1::Unlimited Blade Works::
-101180::g_dti0208_1_d_2::9 Minha Querida, Morta Perdida::
+101180::g_dti0208_1_d_2::9 Meu Querido, Morto Errante::
 101181::g_dti0208_1_u::8/2::
 101182::g_dti0208_2_d_1::Heaven's Feel::
 101183::g_dti0208_2_d_2::9 CHUVA::
@@ -1874,10 +1874,10 @@ id=qid::label=str::string=lstr::
 101216::g_dti0212_2_d_2::13 ÚLTIMA CONVERSA::
 101217::g_dti0212_2_u::12/2::
 101218::g_dti0213_0_d_1::Fate::
-101219::g_dti0213_0_d_2::13 Braços Infinitos::
+101219::g_dti0213_0_d_2::13 Armas Infinitas::
 101220::g_dti0213_0_u::13/2::
 101221::g_dti0213_1_d_1::Unlimited Blade Works::
-101222::g_dti0213_1_d_2::14 Cavaleiro Fica Noite::
+101222::g_dti0213_1_d_2::14 O Cavaleiro e a Noite::
 101223::g_dti0213_1_u::13/2::
 101224::g_dti0213_2_d_1::Heaven's Feel::
 101225::g_dti0213_2_d_2::14 Devorador de Servos::
@@ -1916,7 +1916,7 @@ id=qid::label=str::string=lstr::
 101258::g_intld06-1sa_2::Heaven's Feel.::
 101259::g_intld06-1ri_1::interlúdio 6-1::
 101260::g_intld06-1ri_2::Unlimited Blade Works.::
-1m1261::g_intld06-2se_1::interlúdio 6-2::
+101261::g_intld06-2se_1::interlúdio 6-2::
 101262::g_intld06-2se_2::Fate.::
 101263::g_intld07-1sa_1::interlúdio 7-1::
 101264::g_intld07-1sa_2::Heaven's Feel.::
@@ -1980,7 +1980,7 @@ id=qid::label=str::string=lstr::
 101322::g_intld13-1sa_2::Heaven's Feel.::
 101323::g_intld13-1ri_1::interlúdio 13-1::
 101324::g_intld13-1ri_2::Unlimited Blade Works.::
-1Z1325::g_intld13-2sa_1::interlúdio 13-2::
+101325::g_intld13-2sa_1::interlúdio 13-2::
 101326::g_intld13-2sa_2::Heaven's Feel.::
 101327::g_intld13-2ri_1::interlúdio 13-2::
 101328::g_intld13-2ri_2::Unlimited Blade Works.::
@@ -2028,40 +2028,40 @@ id=qid::label=str::string=lstr::
 101370::g_intld16-4sa_1::interlúdio 16-4::
 101371::g_intld16-4sa_2::Heaven's Feel.::
 101372::g_intld_out::fim do interlúdio::
-101373::g_tigercaution::O Tiger Dojo é um segmento de dicas descontraído.	Jogadores que querem completar o jogo por conta própria ou	evitar situações fora de personagem devem prosseguir com cautela.::
+101373::g_tigercaution::O Dojo do Tigre é um quadro de dicas descontraído.	Se quiser terminar o jogo por conta própria ou	preservar a imagem dos personagens da história principal, prossiga com cautela.::
 101374::g_letext001::"Estou de volta, Saber."::
-101375::title00_17::REMASTERIZADO::
-101376::g_date_1_31::31 de Janeiro::
-101377::g_date_2_01::1 de Fevereiro::
-101378::g_date_2_02::2 de Fevereiro::
-101379::g_date_2_03::3 de Fevereiro::
-101380::g_date_2_04::4 de Fevereiro::
-101381::g_date_2_05::5 de Fevereiro::
-101382::g_date_2_06::6 de Fevereiro::
-101383::g_date_2_07::7 de Fevereiro::
-101384::g_date_2_08::8 de Fevereiro::
-101385::g_date_2_09::9 de Fevereiro::
-101386::g_date_2_10::10 de Fevereiro::
-101387::g_date_2_11::11 de Fevereiro::
-101388::g_date_2_12::12 de Fevereiro::
-101389::g_date_2_13::13 de Fevereiro::
-101390::g_date_2_14::14 de Fevereiro::
-101391::g_date_2_15::15 de Fevereiro::
+101375::title00_17::REMASTERED::
+101376::g_date_1_31::31 de janeiro::
+101377::g_date_2_01::1 de fevereiro::
+101378::g_date_2_02::2 de fevereiro::
+101379::g_date_2_03::3 de fevereiro::
+101380::g_date_2_04::4 de fevereiro::
+101381::g_date_2_05::5 de fevereiro::
+101382::g_date_2_06::6 de fevereiro::
+101383::g_date_2_07::7 de fevereiro::
+101384::g_date_2_08::8 de fevereiro::
+101385::g_date_2_09::9 de fevereiro::
+101386::g_date_2_10::10 de fevereiro::
+101387::g_date_2_11::11 de fevereiro::
+101388::g_date_2_12::12 de fevereiro::
+101389::g_date_2_13::13 de fevereiro::
+101390::g_date_2_14::14 de fevereiro::
+101391::g_date_2_15::15 de fevereiro::
 101392::g_saed_font01-1::A batalha acabou.::
 101393::g_saed_font01-2::Vamos depor nossas espadas e descansar na paz momentânea.::
-101394::g_saed_font01-3::Depois de cochilar em um sonho quente, um novo dia amanhecerá.::
+101394::g_saed_font01-3::Após repousar num sonho acolhedor, um novo dia amanhecerá.::
 101395::g_saed_font01-4::Os dias continuam...::
 101396::g_saed_font01-5::E ainda estamos seguindo a mesma estrela que vimos uma vez.::
 101397::g_sked_font01-1::O inverno se foi, e a primavera chegou.::
-101398::g_sked_font01-2::A natureza está em plena floração, e não há mais nada que lembre::
+101398::g_sked_font01-2::A natureza está em plena floração, e nada mais faz lembrar::
 101399::g_sked_font01-3::os dias frios e difíceis.::
 101400::g_sked_font01-4::Guarde o que você perdeu e ganhou, pois a vida continua.::
-101401::g_sked_font01-5::Agora então...::
+101401::g_sked_font01-5::Pois bem...::
 101402::g_sked_font01-6::A história que se desenrolou nesta cidade chegou à sua conclusão.::
-1Os403::g_sked_font01-7::Novos estágios e pessoas nos aguardam...::
+101403::g_sked_font01-7::Novos cenários e pessoas nos aguardam...::
 101404::g_rned_font01-1::Caminhe com o vento em seu rosto.::
 101405::g_rned_font01-2::Caminhe em direção ao futuro.::
-101406::g_rned_font01-3::Viva dias ocupados sem bússola para guiá-lo.::
+101406::g_rned_font01-3::Viva dias agitados, sem bússola que guie seus passos.::
 101407::g_rned_font01-4::Depois de viajar para países exóticos distantes...::
 101408::g_rned_font01-5::Você retornará para onde pertence, em um dia ensolarado.::
 

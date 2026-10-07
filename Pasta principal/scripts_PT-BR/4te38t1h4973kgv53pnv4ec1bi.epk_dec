@@ -64,8 +64,8 @@ id=qid::label=str::text=lstr::
 64822::$$$message_0596_0019_0001$$$::Ela ainda tá respirando com dificuldade.[lr]::
 64823::$$$message_0596_0019_0002$$$::...Será que até ficar deitada é difícil pra ela?[lr]::
 64824::$$$message_0596_0019_0003$$$::Parece que ela está tentando controlar a respiração para que eu não me preocupe.::
-64825::$$$message_0596_0020_0000$$$::"Entendo. Então continua descansando. Uh, você tem Energia Mágica suficiente, né?"[lr]::
-64826::$$$message_0596_0020_0001$$$::"Ah... s-sim! U-Uhm, graças a você, eu estou bem."::
+64825::$$$message_0596_0020_0000$$$::"Entendo. Então continue descansando. Uh, você tem energia mágica suficiente, né?"[lr]::
+64826::$$$message_0596_0020_0001$$$::"Ah... s-s...sim! U-Uhm, graças a você, eu estou bem."::
 64827::$$$message_0596_0021_0000$$$::"[w l=8][line8]"[lr]::
 64828::$$$message_0596_0021_0001$$$::Apesar de ter sido eu quem fez a pergunta, eu acabo corando.[lr]::
 64829::$$$message_0596_0021_0002$$$::...Mas isso era algo que eu precisava saber, e seria um problema se não fosse assim.::
@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 64838::$$$message_0596_0024_0002$$$::A Sakura se apega ao "papel dela".[lr]::
 64839::$$$message_0596_0024_0003$$$::Como acha que não pode fazer nada, pelo menos tenta continuar sendo a Matou Sakura de sempre.[lr]::
 64840::$$$message_0596_0024_0004$$$::Mas agora, nem uma coisa tão pequena assim é permitida à Sakura.::
-64841::$$$message_0596_0025_0000$$$::"Bem, aguenta por enquanto. Doente tem que descansar como doente, senão sai perdendo. Afinal, quando melhorar, vou deixar café da manhã, almoço e jantar por sua conta. Depois vai se arrepender de não ter descansado mais."::
+64841::$$$message_0596_0025_0000$$$::"Bem, aguente por enquanto. Já que está doente, aproveita e descanse enquanto pode, senão você é quem sai perdendo. Afinal, quando melhorar, vou deixar café da manhã, almoço e jantar por sua conta. Depois vai se arrepender de não ter descansado mais."::
 64842::$$$message_0596_0026_0000$$$::Em tom de brincadeira, falo sério sobre o que pretendo fazer daqui pra frente.[lr]::
 64843::$$$message_0596_0026_0001$$$::...Sim.[lr]::
 64844::$$$message_0596_0026_0002$$$::Vou deixá-la ficar com a cozinha por meio ano, se isso a deixa feliz.::
@@ -92,7 +92,7 @@ id=qid::label=str::text=lstr::
 64850::$$$message_0596_0028_0000$$$::"Ok, então é uma promessa. Quando eu melhorar, a primeira coisa que você vai fazer é comer a minha comida, tá?"[lr]::
 64851::$$$message_0596_0028_0001$$$::"Ok. Vou prometer o quanto você quiser."::
 64852::$$$message_0596_0029_0000$$$::Eu me levanto.[lr]::
-64853::$$$message_0596_0029_0001$$$::Eu não posso continuar falando com ela e fazendo ela se cansar.[lr]::
+64853::$$$message_0596_0029_0001$$$::Não posso continuar falando com ela e deixando a cansada.[lr]::
 64854::$$$message_0596_0029_0002$$$::Conversamos e confirmei que Sakura está segura.[lr]::
 64855::$$$message_0596_0029_0003$$$::Agora é melhor deixá-la descansar sozinha.::
 64856::$$$message_0596_0030_0000$$$::"Então eu te vejo depois. Eu vou voltar aqui na hora do almoço, então dorme até lá."[lr]::

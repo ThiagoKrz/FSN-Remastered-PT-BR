@@ -221,7 +221,7 @@ id=qid::label=str::text=lstr::
 48991::$$$message_0423_0038_0001$$$::"......!"[lr]::
 48992::$$$message_0423_0038_0002$$$::Em resposta à voz dele, uma espada que nunca vi antes aponta para mim.[lr]::
 48993::$$$message_0423_0038_0003$$$::O Fantasma Nobre carregado é solto em velocidade fatal[line4]::
-48994::$$$message_0423_0039_0000$$$::"[line4]Trace. (Projeção.)"::
+48994::$$$message_0423_0039_0000$$$::"[line4]P[ruby text=Trace. char=6]rojeção."::
 48995::$$$message_0423_0040_0000$$$::"[line4]Guh, gu[line4]!"[lr]::
 48996::$$$message_0423_0040_0001$$$::Incapaz de desviar o impacto inteiro, eu caio no chão.[lr]::
 48997::$$$message_0423_0040_0002$$$::Eu rapidamente desvio para o lado e me levanto, arrumando minha postura.::
@@ -247,7 +247,7 @@ id=qid::label=str::text=lstr::
 49017::$$$message_0423_0048_0001$$$::...Eu recupero meu fôlego.[lr]::
 49018::$$$message_0423_0048_0002$$$::Está tudo bem enquanto ele estiver gostando disso.[lr]::
 49019::$$$message_0423_0048_0003$$$::Enquanto ele continuar agindo dessa forma, ainda há uma chance para eu ganhar[line4]::
-49020::$$$message_0423_0049_0000$$$::"[line4]Trace, on. (Projeção, Iniciar.)"[lr]::
+49020::$$$message_0423_0049_0000$$$::"[line4]Pro[ruby text=Trace, on. char=10]jeção, Iniciar."[lr]::
 49021::$$$message_0423_0049_0001$$$::Concentro minha consciência em meu mundo interior.[lr]::
 49022::$$$message_0423_0049_0002$$$::Meus circuitos são limitados.[lr]::
 49023::$$$message_0423_0049_0003$$$::Mentalmente preparo o máximo de diagramas possível.[lr]::

@@ -140,10 +140,10 @@ id=qid::label=str::text=lstr::
 46034::$$$message_0408_0030_0003$$$::   Segundo a lenda...[lr]::
 46035::$$$message_0408_0030_0004$$$::Essa lança espalha numerosas pontas de flecha ao ser cravada no inimigo.[lr]::
 46036::$$$message_0408_0030_0005$$$::Em outras palavras...::
-46037::$$$message_0408_0031_0000$$$::"Gáe (Lança Ascendente que)..."[lr]::
+46037::$$$message_0408_0031_0000$$$::"Lança As[ruby text=Gáe char=3]cendente que..."[lr]::
 46038::$$$message_0408_0031_0001$$$::A lança da causalidade responde às palavras.[lr]::
 46039::$$$message_0408_0031_0002$$$::O lanceiro de azul se inclina para trás como se puxasse um arco,[lr]::
-46040::$$$message_0408_0031_0003$$$::"Bolg (Mergulha com a Morte)!!!!!"[lr]::
+46040::$$$message_0408_0031_0003$$$::"Mergulha[ruby text=Bolg char=4] com a Morte!!!!!"[lr]::
 46041::$$$message_0408_0031_0004$$$::e desfere aquele golpe para baixo com um rugido.::
 46042::$$$message_0408_0032_0000$$$::É um Fantasma Nobre feito para ser arremessado.[lr]::
 46043::$$$message_0408_0032_0001$$$::A lança que sempre perfura o coração depois de mirar.[lr]::
@@ -154,10 +154,10 @@ id=qid::label=str::text=lstr::
 46048::$$$message_0408_0033_0001$$$::Não há como sobreviver depois de ser tomado como alvo pela lança mágica...!::
 46049::$$$message_0408_0034_0000$$$::A bala mágica se aproxima.[lr]::
 46050::$$$message_0408_0034_0001$$$::Em uma fração de segundo, o cavaleiro de vermelho fecha os olhos como se aceitasse a morte...::
-46051::$$$message_0408_0035_0000$$$::"Eu sou o osso da minha espada."::
+46051::$$$message_0408_0035_0000$$$::"[ruby text=Meu corpo é feito de espadas. char=26]I am the bone of my sword."::
 46052::$$$message_0408_0036_0000$$$::O espinho de luz colide.[lr]::
 46053::$$$message_0408_0036_0001$$$::No instante em que o espinho da destruição cai do céu para atingir diretamente o cavaleiro de vermelho...[lr]::
-46054::$$$message_0408_0036_0002$$$::"Rho Aias (Sete Anéis que Embalam os Céus Ardentes)!"[lr]::
+46054::$$$message_0408_0036_0002$$$::"Sete Anéis que [ruby text=Rho Aias char=8]Embalam os Céus Ardentes!"[lr]::
 46055::$$$message_0408_0036_0003$$$::O Nome Verdadeiro é pronunciado, fazendo o ar estremecer.::
 46056::$$$message_0408_0037_0000$$$::A lança e o escudo colidem.[lr]::
 46057::$$$message_0408_0037_0001$$$::A lança da morte que atravessa toda parede protetora e toda evasão...[lr]::
