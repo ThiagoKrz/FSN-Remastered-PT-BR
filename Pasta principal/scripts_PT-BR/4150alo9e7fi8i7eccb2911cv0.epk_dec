@@ -1,7 +1,7 @@
 DAT
 id=qid::label=str::text=lstr::
 65508::$$$message_0602_0000_0000$$$::Eu falei pra você parar com as histórias assustadoras!::
-65509::$$$message_0602_0000_0001$$$::Ah, você não gosta de histórias de terror, mestra?::
+65509::$$$message_0602_0000_0001$$$::Ah, você não gosta de histórias de terror, Mestra?::
 65510::$$$message_0602_0000_0002$$$::Não, eu odeio elas. Elas podem pegar meu umbigo, então eu vou ir pra casa.::
 65511::$$$message_0602_0000_0003$$$::Ei, você não pode fazer isso, Taiga. Você é minha mestra, então você tem que ensinar.[lr]::
 65512::$$$message_0602_0000_0004$$$::O que você vai fazer se um desafiente vier pra esse dojo?::
@@ -10,7 +10,7 @@ id=qid::label=str::text=lstr::
 65515::$$$message_0602_0000_0007$$$::Por que falar com dialeto Kansai...?[lr]::
 65516::$$$message_0602_0000_0008$$$::Huh? Mestra, tem um desafiante.::
 65517::$$$message_0602_0000_0009$$$::Tudo bem, envie ele para casa.♪::
-65518::$$$message_0602_0000_0010$$$::Por quê!? Você geralmente diria algo tipo...::
+65518::$$$message_0602_0000_0010$$$::Por quê!? A Mestra de sempre diria algo tipo...::
 65519::$$$message_0602_0000_0011$$$::'Tudo bem! Eu nunca pensei que veria um desafiante enquanto eu estivesse viva!'[wsay canskip=1]::
 65520::$$$message_0602_0000_0012$$$::E estar maravilhada como se você tivesse acabado de encontrar uma máquina de vendas no deserto!::
 65521::$$$message_0602_0000_0013$$$::Eu tô dizendo que tenho um mal pressentimento.[lr]::
@@ -29,7 +29,7 @@ id=qid::label=str::text=lstr::
 65534::$$$message_0602_0000_0026$$$::Parece que a sombra negra está dominando, mas a Taiga está ficando provocativa.::
 65535::$$$message_0602_0000_0027$$$::Ah ela mordeu! A Taiga está sendo engolida, mas ela está tentando engolir de volta!::
 65536::$$$message_0602_0000_0028$$$::Ela tá enfrentando isso...![lr]::
-65537::$$$message_0602_0000_0029$$$::A mestra é párea...!::
+65537::$$$message_0602_0000_0029$$$::A Mestra é páreo...!::
 65538::$$$message_0602_0000_0030$$$::Guaaa! Deus da Babilônia, me dê seus poderes!::
 65539::$$$message_0602_0000_0031$$$::Bom, eu não me importo muito.[lr]::
 65540::$$$message_0602_0000_0032$$$::Você vai acabar perdendo se lutar com essa coisa, então nem pense nisso, tudo bem, Shirou?::
