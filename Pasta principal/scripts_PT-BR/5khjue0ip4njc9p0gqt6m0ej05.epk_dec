@@ -17,7 +17,7 @@ id=qid::label=str::text=lstr::
 64159::$$$message_0590_0005_0000$$$::Entro sem tocar a campainha.[lr]::
 64160::$$$message_0590_0005_0001$$$::...Faz um ano desde a última vez que eu vim aqui.[lr]::
 64161::$$$message_0590_0005_0002$$$::Guiado pela lembrança vaga que tenho do lugar, atravesso o corredor e sigo até a sala de estar no primeiro andar.::
-64162::$$$message_0590_0006_0000$$$::"Ah. Você veio mais cedo do que eu esperava, filho dos Emiya."[lr]::
+64162::$$$message_0590_0006_0000$$$::"Ah. Você veio mais cedo do que eu esperava, fedelho dos Emiya."[lr]::
 64163::$$$message_0590_0006_0001$$$::"[w l=8][line8]"[lr]::
 64164::$$$message_0590_0006_0002$$$::Zouken é o único que está aqui.[lr]::
 64165::$$$message_0590_0006_0003$$$::Eu não vejo o Assassin ou a Saber escura.[lr]::
@@ -57,14 +57,14 @@ id=qid::label=str::text=lstr::
 64199::$$$message_0590_0019_0000$$$::"Sim. Implantei nela o Santo Graal que recuperei. Mas nem eu sou tão desumano assim. Tomei medidas para que aquilo pudesse viver como um ser humano."::
 64200::$$$message_0590_0020_0000$$$::"[w l=4][line4]Então os Vermes de Brasão dentro do corpo da Sakura são..."[lr]::
 64201::$$$message_0590_0020_0001$$$::"Foram criados usando o Santo Graal como catalisador.[lr]::
-64202::$$$message_0590_0020_0002$$$::Com isso, o corpo dela virou um recipiente para receber as almas. Ela é uma ferramenta que se transformará no portão quando o ritual estiver completo.[lr]::
+64202::$$$message_0590_0020_0002$$$::[r]Com isso, o corpo dela virou um [ruby text=receptáculo char=11]Santo Graal para receber as almas e o catalisador que, quando o ritual se cumprir, se tornará o portão e abrirá o caminho.[lr]::
 64203::$$$message_0590_0020_0003$$$::É apenas uma cópia do Santo Graal que a família Einzbern cria.[lr]::
 64204::$$$message_0590_0020_0004$$$::Bem, como não tenho a mesma técnica que eles, cerca de 80% acabou sendo feito à minha maneira."::
 64205::$$$message_0590_0021_0000$$$::Ele solta uma risada satisfeita.[lr]::
 64206::$$$message_0590_0021_0001$$$::...Que "imitação dos Einzberns" é essa?[lr]::
 64207::$$$message_0590_0021_0002$$$::Tudo o que ele fez foi pegar um fragmento de algo já completo e implantá-lo na Sakura, que não tinha nada a ver com isso...!::
 64208::$$$message_0590_0022_0000$$$::"...Seu desgraçado! Você não conseguiu criar um Santo Graal, por isso usou um ser humano pra criar uma imitação...!?"::
-64209::$$$message_0590_0023_0000$$$::"Experimento. É apenas um experimento, filho dos Emiya.[lr]::
+64209::$$$message_0590_0023_0000$$$::"Experimento. É apenas um experimento, fedelho dos Emiya.[lr]::
 64210::$$$message_0590_0023_0001$$$::Isto não passa de um experimento para servir de base ao próximo. Originalmente, aquilo deveria se transformar lentamente, ao longo de décadas, em algo próximo de um Santo Graal.[lr]::
 64211::$$$message_0590_0023_0002$$$::Ela deveria continuar vivendo como humana e completar sua vida natural, embora tivesse a função de recipiente para armazenar almas. Esse deveria ser o primeiro passo para um Santo Graal ao estilo Makiri."::
 64212::$$$message_0590_0024_0000$$$::"Sakura[w l=4][line4]era só o primeiro passo...?"::
@@ -127,7 +127,7 @@ id=qid::label=str::text=lstr::
 64269::$$$message_0590_0042_0004$$$::O objetivo das três famílias era usar o Santo Graal completo para abrir um "portão" que levasse ao exterior.[lr]::
 64270::$$$message_0590_0042_0005$$$::Você pode imaginar o Santo Graal completo como um portão que conecta este mundo ao "lugar onde todos os desejos se realizam"."::
 64271::$$$message_0590_0043_0000$$$::"...Espera. Então o Santo Graal é..."[lr]::
-64272::$$$message_0590_0043_0001$$$::"Isso é óbvio. Nosso objetivo é chegar à Raiz.[lr]::
+64272::$$$message_0590_0043_0001$$$::"Isso é óbvio. O objetivo de todos nós, magos, é chegar à Raiz.[lr]::
 64273::$$$message_0590_0043_0002$$$::Mas eu não me interesso por isso. Os Einzberns também só buscavam completar o Santo Graal. Hoje, apenas os Tohsaka ainda almejam a Raiz."::
 64274::$$$message_0590_0044_0000$$$::"...Enfim.[lr]::
 64275::$$$message_0590_0044_0001$$$::De qualquer modo, o Santo Graal é um buraco ligado a uma "máquina de realizar desejos". Aquela sombra é algo que está vazando de lá para este lado.[lr]::
@@ -153,7 +153,7 @@ id=qid::label=str::text=lstr::
 64295::$$$message_0590_0050_0000$$$::"A Sakura[w l=4][line4]sobre isso..."[lr]::
 64296::$$$message_0590_0050_0001$$$::"Não, ela provavelmente não sabe.[lr]::
 64297::$$$message_0590_0050_0002$$$::Aquilo é a sombra do Santo Graal que se manifesta através da Sakura. Em princípio, não deveria adquirir uma forma assim, mas, ao surgir através do portão chamado Sakura, tomou-a como molde e apenas deu forma a uma existência deste lado.[lr]::
-64298::$$$message_0590_0050_0003$$$::O Santo Graal se manifestou daquela forma ao tomar emprestado o id que a Sakura mantém reprimido."::
+64298::$$$message_0590_0050_0003$$$::[r]O Santo Graal tomou emprestado o incon[ruby text=id char=2]sciente que a Sakura mantém reprimido e, assim, se manifestou daquela forma."::
 64299::$$$message_0590_0051_0000$$$::"Para ser sincero, nem eu esperava por isso. Cheguei a rejeitar essa possibilidade por considerá-la impossível, mas, como aquilo fica mais forte a cada dia, já não posso negar.[lr]::
 64300::$$$message_0590_0051_0001$$$::Aquilo é um Santo Graal com vontade própria. Por isso, continua buscando almas humanas para se alimentar e completar a si mesmo.[lr]::
 64301::$$$message_0590_0051_0002$$$::Só há uma maneira de deter aquilo. Se o Santo Graal está nascendo do inconsciente da Sakura, basta parar a própria Sakura."::
@@ -173,7 +173,7 @@ id=qid::label=str::text=lstr::
 64315::$$$message_0590_0056_0001$$$::Pense bem. Existe um enorme turbilhão de Energia Mágica, grande o bastante para "realizar qualquer desejo". O corpo humano dela está recebendo tudo o que flui desse turbilhão. A mente frágil da Sakura jamais suportaria uma torrente dessas."::
 64316::$$$message_0590_0057_0000$$$::"[w l=4][line4]Então, se continuar assim, a Sakura vai..."[lr]::
 64317::$$$message_0590_0057_0001$$$::"Ela não vai suportar ser um Santo Graal e acabará explodindo.[lr]::
-64318::$$$message_0590_0057_0002$$$::Não. Se a consciência da Sakura se esvaziar, o Santo Graal que tomou emprestado seu id virá à tona. Aquilo talvez seja engolido pela própria sombra."::
+64318::$$$message_0590_0057_0002$$$::[r]Não. O Santo Graal tomou emprestado o incon[ruby text=id char=2]sciente dela; se a consciência da Sakura se esvaziar, ele virá à tona. Aquilo talvez seja engolido pela própria sombra."::
 64319::$$$message_0590_0058_0000$$$::"Entendeu? Derrotar-me aqui também seria inútil.[lr]::
 64320::$$$message_0590_0058_0001$$$::Se me derrotar, a Guerra do Santo Graal terminará. Então só restará o Santo Graal entrar em funcionamento. Quando isso acontecer, a mente da Sakura se dissipará com facilidade.[lr]::
 64321::$$$message_0590_0058_0002$$$::Se quiser salvar aquilo, terá de aguentar até o prazo da Guerra do Santo Graal se esgotar. A conclusão do Graal Maior... o momento de abrir o portão não dura muito.[lr]::
@@ -207,7 +207,7 @@ id=qid::label=str::text=lstr::
 64349::$$$message_0590_0066_0002$$$::Não consigo respirar.::
 64350::$$$message_0590_0067_0000$$$::"[w l=8][line8]"[lr]::
 64351::$$$message_0590_0067_0001$$$::"[w l=3][line3]Eliminar o mal pelo bem de todos.[lr]::
-64352::$$$message_0590_0067_0002$$$::Você já deve saber. Se você carrega a vontade de Emiya Kiritsugu, Matou Sakura é a sua inimiga."[lr]::
+64352::$$$message_0590_0067_0002$$$::[r]Você já deve saber. Se pretende suceder E[ruby text=essa vontade char=12]miya Kiritsugu, Matou Sakura é a sua inimiga."[lr]::
 64353::$$$message_0590_0067_0003$$$::Não consigo pensar em absolutamente nada.::
 64354::$$$message_0590_0068_0000$$$::Sem conseguir responder nada, caminho pelo corredor que parece se retorcer como caramelo.[lr]::
 64355::$$$message_0590_0068_0001$$$::Não sinto firmeza alguma no chão sob os pés nem na parede em que apoio a mão.[lr]::
