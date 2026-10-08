@@ -1,25 +1,25 @@
 DAT
 id=qid::label=str::text=lstr::
 22533::$$$message_0202_0000_0000$$$::O dia tão diferente do habitual passou numa correria.[lr]::
-22534::$$$message_0202_0000_0001$$$::A Saber não deu nenhuma risada, e eu também não consegui rir de verdade.::
-22535::$$$message_0202_0001_0000$$$::O encontro de hoje não teve nenhum momento marcante, mas ele não chegou a ser chato a ponto de eu ter me arrependido.[lr]::
+22534::$$$message_0202_0000_0001$$$::A Saber não chegou a rir em voz alta, e eu também não consegui rir de verdade.::
+22535::$$$message_0202_0001_0000$$$::Não aconteceu nada divertido o bastante para ficar na memória, mas também não foi um dia tão tedioso a ponto de eu me arrepender.[lr]::
 22536::$$$message_0202_0001_0001$$$::Para ser sincero, ele não foi nada demais.[lr]::
 22537::$$$message_0202_0001_0002$$$::Pensando bem, talvez a Saber tivesse ficado mais feliz se tivéssemos ficado em casa treinando no dojô.::
 22538::$$$message_0202_0002_0000$$$::Mas hoje não foi um dia ruim.[lr]::
-22539::$$$message_0202_0002_0001$$$::Ainda que não tenha sido divertido nem interessante, no fim eu devo poder me orgulhar de ter levado a Saber por aí assim.[lr]::
+22539::$$$message_0202_0002_0001$$$::Mesmo que não tenha sido divertido nem interessante, no fim vou poder me orgulhar de ter levado a Saber por aí.[lr]::
 22540::$$$message_0202_0002_0002$$$::...Depois que essa guerra terminar e que tudo voltar ao normal...[lr]::
 22541::$$$message_0202_0002_0003$$$::Seria vazio demais pensar que todo o tempo que passei com a Saber foi só lutando.::
-22542::$$$message_0202_0003_0000$$$::Mesmo que tenha sido algo bobo, se ela não puder acumular momentos que não sejam de batalha, então não faz sentido ela estar aqui.[lr]::
+22542::$$$message_0202_0003_0000$$$::Mesmo que tenha sido algo bobo, se não passarmos algum tempo juntos fora das batalhas, então não faz sentido ela estar aqui.[lr]::
 22543::$$$message_0202_0003_0001$$$::Por isso, agora posso erguer a cabeça.[lr]::
 22544::$$$message_0202_0003_0002$$$::...O fim está próximo.[lr]::
 22545::$$$message_0202_0003_0003$$$::Depois que tudo acabar e nós não tivermos mais que lutar...[lr]::
 22546::$$$message_0202_0003_0004$$$::Se a Saber puder se lembrar que houve um dia como este, então isso já será motivo suficiente para eu me orgulhar.[line4]::
-22547::$$$message_0202_0004_0000$$$::Nós voltamos a pé.[lr]::
+22547::$$$message_0202_0004_0000$$$::Voltamos a pé.[lr]::
 22548::$$$message_0202_0004_0001$$$::Quando estávamos prestes a voltar de ônibus,[lr]::
 22549::$$$message_0202_0004_0002$$$::"Vamos voltar para casa andando."[lr]::
 22550::$$$message_0202_0004_0003$$$::Foi porque a Saber sugeriu isso.::
-22551::$$$message_0202_0005_0000$$$::Agora está ventando um pouco.[lr]::
-22552::$$$message_0202_0005_0001$$$::O pôr do sol intenso pinta a ponte de vermelho.[lr]::
+22551::$$$message_0202_0005_0000$$$::O vento começou a soprar.[lr]::
+22552::$$$message_0202_0005_0001$$$::O pôr do sol brilhante tinge a ponte de vermelho.[lr]::
 22553::$$$message_0202_0005_0002$$$::"[line2]Ah."[lr]::
 22554::$$$message_0202_0005_0003$$$::A Saber parece notar alguma coisa, para de andar e fica olhando para o meio do rio.[lr]::
 22555::$$$message_0202_0005_0004$$$::Na direção do olhar dela havia uma montanha de escombros.::
@@ -28,16 +28,16 @@ id=qid::label=str::text=lstr::
 22558::$$$message_0202_0006_0002$$$::Não sei ao certo o que aconteceu, mas parece que, muito tempo atrás, um navio que estava ancorado ali afundou, e os fragmentos foram sendo levados pela correnteza até se acumularem daquele jeito.[lr]::
 22559::$$$message_0202_0006_0003$$$::Ao que tudo indica, os moradores da região já pedem há tempos que removam os escombros dali, porque acabam estragando a paisagem.::
 22560::$$$message_0202_0007_0000$$$::"Hm? O que foi, Saber? Aquilo te chamou a atenção?"[lr]::
-22561::$$$message_0202_0007_0001$$$::"Não. Só percebi que aquilo ainda estava ali. Afinal, aquilo foi causado por mim. Na guerra anterior, fui forçada a lutar sobre a água e acabei usando meu Fantasma Nobre aqui.[lr]::
-22562::$$$message_0202_0007_0002$$$::Isso fez com que o rio secasse, mas além disso, eu destruí um navio que infelizmente estava ancorado por lá."::
-22563::$$$message_0202_0008_0000$$$::"Hã[line2]? Você quer dizer, a Excalibur!?"[lr]::
+22561::$$$message_0202_0007_0001$$$::"Não. Só percebi que aquilo ainda estava ali. Afinal, fui eu quem causou aquilo. Na guerra anterior, fui forçada a lutar sobre a água e acabei usando meu Fantasma Nobre aqui.[lr]::
+22562::$$$message_0202_0007_0002$$$::Isso fez com que o rio secasse, mas, infelizmente, também acabou atingindo um navio que estava ancorado por ali."::
+22563::$$$message_0202_0008_0000$$$::"Hã[line2]? Você quer dizer que foi a Excalibur!?"[lr]::
 22564::$$$message_0202_0008_0001$$$::"S-Sim. Mas, felizmente, não havia passageiros a bordo, e os danos também não foram tão grandes. O rio já voltou ao normal, então não há motivo para ficar tão zangado.[lr]::
 22565::$$$message_0202_0008_0002$$$::...Eu também me arrependi de ter feito isso."::
 22566::$$$message_0202_0009_0000$$$::"......"[lr]::
 22567::$$$message_0202_0009_0001$$$::...Tenho que tomar cuidado.[lr]::
 22568::$$$message_0202_0009_0002$$$::Quando a Excalibur for usada, pelo menos tem que ser num lugar aberto desse tamanho, senão vira um desastre.::
 22569::$$$message_0202_0010_0000$$$::"Shirou...? Você ainda está bravo comigo?"::
-22570::$$$message_0202_0011_0000$$$::"Eh? Não, eu não estou bravo. Eu só fiquei surpreso. E também estava pensando sobre como a guerra passada deixou vários rastros para trás.[lr]::
+22570::$$$message_0202_0011_0000$$$::"Eh? Não, não estou bravo. Só fiquei surpreso. E também estava pensando em como a guerra passada deixou vários rastros para trás.[lr]::
 22571::$$$message_0202_0011_0001$$$::Comparados ao terreno devastado do Parque Central, os escombros no rio não são nada demais. Bem, para o dono do navio deve ter sido uma bela desgraça.::
 22572::$$$message_0202_0012_0000$$$::"Pode ficar tranquilo. Kiritsugu disse que o dono do navio recebeu a indenização do seguro, e o navio já tinha sido deixado ali para servir de amortecedor. Usaram o casco como uma parede para reduzir a força do meu Fantasma Nobre."::
 22573::$$$message_0202_0013_0000$$$::"...Ah. Então você destruiu o navio sabendo que ele estava lá?"::
@@ -45,21 +45,21 @@ id=qid::label=str::text=lstr::
 22575::$$$message_0202_0014_0001$$$::"...Acho que Kiritsugu previu como a batalha se desenrolaria. Não percebi, porque ele não disse uma palavra nem antes nem depois de preparar o navio."::
 22576::$$$message_0202_0015_0000$$$::Então, com um ar saudoso, a Saber olha para o rio.[lr]::
 22577::$$$message_0202_0015_0001$$$::A superfície da água cintila ao refletir o pôr do sol.[lr]::
-22578::$$$message_0202_0015_0002$$$::O vento que vem do rio está um pouco forte e acaba levantando o cabelo da Saber.::
+22578::$$$message_0202_0015_0002$$$::O vento que vem do rio está um pouco forte e balança os cabelos da Saber.::
 22579::$$$message_0202_0016_0000$$$::...Talvez porque aquela imagem dela fosse bonita demais.[lr]::
 22580::$$$message_0202_0016_0001$$$::"Saber, você se divertiu hoje?"[lr]::
 22581::$$$message_0202_0016_0002$$$::Tomado pelo medo de que a Saber pudesse simplesmente desaparecer daquele jeito, acabei perguntando algo que nem precisava perguntar.::
 22582::$$$message_0202_0017_0000$$$::"Sim? Você disse alguma coisa, Shirou?"[lr]::
-22583::$$$message_0202_0017_0001$$$::"Sim. Eu perguntei se você se divertiu hoje."[lr]::
+22583::$$$message_0202_0017_0001$$$::"Falei. Perguntei se você se divertiu hoje."[lr]::
 22584::$$$message_0202_0017_0002$$$::...Prendo a respiração.[lr]::
-22585::$$$message_0202_0017_0003$$$::A Saber fica surpresa e arregala os olhos.::
+22585::$$$message_0202_0017_0003$$$::A Saber arregala os olhos, sem entender.::
 22586::$$$message_0202_0018_0000$$$::"Sim. Seria mentira dizer que não foi algo novo para mim."[lr]::
 22587::$$$message_0202_0018_0001$$$::Como se aquilo já fosse algo que nunca mais pudesse acontecer...[lr]::
 22588::$$$message_0202_0018_0002$$$::Ela respondeu com uma voz carregada de anseio.::
 22589::$$$message_0202_0019_0000$$$::"[line2]"[lr]::
 22590::$$$message_0202_0019_0001$$$::...Eu já sabia que ela iria responder algo assim.[lr]::
 22591::$$$message_0202_0019_0002$$$::Tudo o que me resta é assentir e voltar para casa.[lr]::
-22592::$$$message_0202_0019_0003$$$::Se eu parasse por aí, ainda daria para voltar atrás[line2]pelo menos, deveria dar.::
+22592::$$$message_0202_0019_0003$$$::Se eu parasse por aí, ainda[line2]deveria dar para voltar atrás.::
 22593::$$$message_0202_0020_0000$$$::"Entendi."[lr]::
 22594::$$$message_0202_0020_0001$$$::Assinto sem desviar os olhos da Saber.[lr]::
 22595::$$$message_0202_0020_0002$$$::"Então vamos vir aqui de novo. Essa não precisa ter sido a última vez."[lr]::
@@ -67,7 +67,7 @@ id=qid::label=str::text=lstr::
 22597::$$$message_0202_0021_0000$$$::"[line5]"[lr]::
 22598::$$$message_0202_0021_0001$$$::A expressão da Saber se enrijece.[lr]::
 22599::$$$message_0202_0021_0002$$$::...Ela provavelmente entendeu o que eu quis dizer.[lr]::
-22600::$$$message_0202_0021_0003$$$::Ela balança a cabeça enquanto olha para mim.[lr]::
+22600::$$$message_0202_0021_0003$$$::Ela balança a cabeça em silêncio, sem desviar os olhos de mim.[lr]::
 22601::$$$message_0202_0021_0004$$$::Como se quisesse dizer que não haverá uma próxima vez.[lr]::
 22602::$$$message_0202_0021_0005$$$::Como se esse 'erro' tivesse acontecido apenas no dia de hoje.::
 22603::$$$message_0202_0022_0000$$$::"[line2]Por quê?"[lr]::
@@ -75,39 +75,39 @@ id=qid::label=str::text=lstr::
 22605::$$$message_0202_0022_0002$$$::Mesmo assim, a resposta vem exatamente como eu esperava, e eu pergunto de novo porque não consigo aceitá-la.::
 22606::$$$message_0202_0023_0000$$$::"Não há motivo algum. Servos são seres que existem para lutar. Fazer algo como o que fizemos hoje significa negar a minha própria existência.[lr]::
 22607::$$$message_0202_0023_0001$$$::Apenas obedeci porque você julgou que era preciso descansar, mas daqui em diante já não haverá mais necessidade de repouso.[lr]::
-22608::$$$message_0202_0023_0002$$$::Restam poucos inimigos. Se você ordenar, eu sairia agora mesmo à procura do Lancer."::
-22609::$$$message_0202_0024_0000$$$::Ela me encara com os olhos cheios de espírito de luta.[lr]::
+22608::$$$message_0202_0023_0002$$$::Restam poucos inimigos. Se você ordenar, partirei agora mesmo em busca do Lancer."::
+22609::$$$message_0202_0024_0000$$$::Ela me encara com o olhar cheio de determinação para lutar.[lr]::
 22610::$$$message_0202_0024_0001$$$::A Saber está dizendo que bastaria uma ordem minha para ela partir para a batalha ali mesmo.[lr]::
 22611::$$$message_0202_0024_0002$$$::E isso...[lr]::
-22612::$$$message_0202_0024_0003$$$::...Faz finalmente incendiar tudo aquilo que eu não vinha conseguindo aceitar.::
-22613::$$$message_0202_0025_0000$$$::"[line2]Do que está falando? Você está tão ansiosa assim para lutar?"[lr]::
-22614::$$$message_0202_0025_0001$$$::"Mas é claro. Quanto mais eu luto, mais fico perto de ter o Santo Graal.[lr]::
+22612::$$$message_0202_0024_0003$$$::...acabou incendiando tudo aquilo que eu não vinha conseguindo aceitar.::
+22613::$$$message_0202_0025_0000$$$::"[line2]Que história é essa? Você quer tanto assim lutar?"[lr]::
+22614::$$$message_0202_0025_0001$$$::"Mas é claro. Quanto mais eu luto, mais me aproximo do Santo Graal.[lr]::
 22615::$$$message_0202_0025_0002$$$::Para mim, lutar deve vir antes de qualquer outra coisa. Você também deveria saber disso."::
-22616::$$$message_0202_0026_0000$$$::"Sim, eu sei. Por isso que é estranho.[lr]::
-22617::$$$message_0202_0026_0001$$$::Eu sempre quis te dizer isso, mas você está se contradizendo.[lr]::
-22618::$$$message_0202_0026_0002$$$::Você diz que o mais importante é lutar, mas não gosta de fazer isso. Você luta mesmo se for contra a sua própria vontade porque não tem outra escolha, não é?"::
+22616::$$$message_0202_0026_0000$$$::"Sim, eu sei. É por isso que é estranho.[lr]::
+22617::$$$message_0202_0026_0001$$$::Já faz tempo que eu queria te dizer isso: você está se contradizendo.[lr]::
+22618::$$$message_0202_0026_0002$$$::Você diz que lutar é importante, mas não quer lutar por vontade própria, quer? Só luta contra a própria vontade porque não tem outra escolha, não é?"::
 22619::$$$message_0202_0027_0000$$$::"Quê? Isso não é verdade. Eu não vou pensar duas vezes se tiver que lutar.[lr]::
 22620::$$$message_0202_0027_0001$$$::Já te disse que vou fazer qualquer coisa para vencer."[lr]::
 22621::$$$message_0202_0027_0002$$$::Sim, ela disse isso mesmo.[lr]::
-22622::$$$message_0202_0027_0003$$$::Mas esse não é um motivo para querer lutar.::
+22622::$$$message_0202_0027_0003$$$::Mas isso nem sequer é motivo para gostar de lutar.::
 22623::$$$message_0202_0028_0000$$$::"Mas só dentro do que você consegue fazer, não é? ...Escuta, Saber.[lr]::
 22624::$$$message_0202_0028_0001$$$::Se a única coisa necessária para obter o Santo Graal fosse derrotar os outros Mestres, então você já poderia ter feito isso atacando pessoas inocentes e absorvendo força, como a Rider fez. Mas você não faz isso."::
 22625::$$$message_0202_0029_0000$$$::"[line2]Isso é..."::
 22626::$$$message_0202_0030_0000$$$::"Não é porque você simplesmente não quer envolver inocentes. Você sabe melhor do que ninguém que, quando a luta começa, gente morre.[lr]::
-22627::$$$message_0202_0030_0001$$$::É por isso que você quer diminuir a quantidade de batalhas. As pessoas vão morrer se você lutar, então você quer que a batalha termine o mais rápido possível. [line2]Ou seja, você tem medo de que as batalhas tenham vítimas."::
+22627::$$$message_0202_0030_0001$$$::É por isso que você quer reduzir as batalhas ao mínimo. Se lutar, haverá mortos. Por isso quer acabar com tudo o mais rápido possível. [line2]Ou seja, você tem pavor de batalhas que fazem vítimas."::
 22628::$$$message_0202_0031_0000$$$::"[line5]"[lr]::
-22629::$$$message_0202_0031_0001$$$::Depois de arregalar os olhos como se tivesse visto um fantasma, ela range os dentes e me encara com mais força ainda.::
+22629::$$$message_0202_0031_0001$$$::Depois de arregalar os olhos como se tivesse visto um fantasma, ela range os dentes e firma o olhar em mim.::
 22630::$$$message_0202_0032_0000$$$::"Você está enganado. Não tenho medo de lutar."[lr]::
 22631::$$$message_0202_0032_0001$$$::"...É. Acho que você realmente não teve medo desde o começo. Provavelmente porque esse medo pessoal foi esmagado pelo que você chama de dever de rei."[lr]::
 22632::$$$message_0202_0032_0002$$$::"[line2]!"::
 22633::$$$message_0202_0033_0000$$$::"Mas, mesmo assim, você odeia lutar.[lr]::
 22634::$$$message_0202_0033_0001$$$::Você é forte e habilidosa em combate. Mas esse não é um talento que você queria ter, não é?[lr]::
-22635::$$$message_0202_0033_0002$$$::[line2]Vou falar na cara. Você não é feita para lutar. No fundo, você deve ter odiado até mesmo empunhar uma espada.[lr]::
-22636::$$$message_0202_0033_0003$$$::Você dizer que o seu único objetivo é lutar não passa de uma desculpa para tentar enganar a si mesma."::
+22635::$$$message_0202_0033_0002$$$::[line2]Vou ser direto. Você não é feita para lutar. No fundo, você deve ter odiado até mesmo empunhar uma espada.[lr]::
+22636::$$$message_0202_0033_0003$$$::Dizer que lutar é o seu único objetivo não passa de uma desculpa para enganar a si mesma."::
 22637::$$$message_0202_0034_0000$$$::[line2]Uma coisa dessas...[lr]::
-22638::$$$message_0202_0034_0001$$$::Como nem as pessoas ao seu redor nem você mesma conseguiram perceber isso até o fim?::
+22638::$$$message_0202_0034_0001$$$::Como foi que ninguém ao seu redor, nem você mesma, conseguiu perceber isso até o fim?::
 22639::$$$message_0202_0035_0000$$$::"[line2]Shirou. Eu não vou tolerar mais nenhum insulto, nem mesmo vindo de você."[lr]::
-22640::$$$message_0202_0035_0001$$$::"Você não consegue aceitar porque essa é a verdade, não é? Você não será mais capaz de lutar se admitir isso."::
+22640::$$$message_0202_0035_0001$$$::"Você não aguenta ouvir porque eu acertei em cheio, não é? Se admitir isso, não vai conseguir lutar."::
 22641::$$$message_0202_0036_0000$$$::Ela range os dentes.[lr]::
 22642::$$$message_0202_0036_0001$$$::A Saber reprime a raiva e me encara.[lr]::
 22643::$$$message_0202_0036_0002$$$::"[line5]"[lr]::
@@ -122,37 +122,37 @@ id=qid::label=str::text=lstr::
 22652::$$$message_0202_0040_0000$$$::"Idi[line2]"[lr]::
 22653::$$$message_0202_0040_0001$$$::Uma coisa que só existe para obter o Santo Graal.[lr]::
 22654::$$$message_0202_0040_0002$$$::Isso é o que mais me irrita.[lr]::
-22655::$$$message_0202_0040_0003$$$::Por que ela fica dizendo essas coisas absurdas como se estivesse querendo convencer a si mesma?[lr]::
-22656::$$$message_0202_0040_0004$$$::Todo mundo que era próximo da Saber aceitou isso porque ela não parava de dizer esse tipo de besteira.::
-22657::$$$message_0202_0041_0000$$$::"Sua idiota, isso não é verdade...! Existem quantos caminhos você quiser! Você está aqui. Não é mais a mesma que era naquela época...![lr]::
+22655::$$$message_0202_0040_0003$$$::Por que ela insiste em dizer essas coisas absurdas, como se precisasse convencer a si mesma?[lr]::
+22656::$$$message_0202_0040_0004$$$::É por ela ficar repetindo esse tipo de coisa que todo mundo ao redor acabou acreditando em suas palavras.::
+22657::$$$message_0202_0041_0000$$$::"Sua idiota, isso não é verdade...! Há muitos outros caminhos! Você está aqui. Não é mais a mesma que era naquela época...![lr]::
 22658::$$$message_0202_0041_0001$$$::Então[line3]daqui em diante, você precisa viver por si mesma.[lr]::
 22659::$$$message_0202_0041_0002$$$::Não faça isso. Não use o Santo Graal, de jeito nenhum..."::
 22660::$$$message_0202_0042_0000$$$::[line2]...Aquele último desejo que ainda lhe foi permitido ter.::
 22661::$$$message_0202_0043_0000$$$::"...não o use por causa de gente que não tem nada a ver com você.[lr]::
-22662::$$$message_0202_0043_0001$$$::Se você está aqui, você precisa ser feliz aqui e ponto final."::
-22663::$$$message_0202_0044_0000$$$::Ouço o barulho do vento.[lr]::
+22662::$$$message_0202_0043_0001$$$::Se está aqui, Saber, então tem que ser feliz aqui."::
+22663::$$$message_0202_0044_0000$$$::O som do vento ecoa nos meus ouvidos.[lr]::
 22664::$$$message_0202_0044_0001$$$::A Saber não responde.[lr]::
 22665::$$$message_0202_0044_0002$$$::Nem sequer assente.[lr]::
-22666::$$$message_0202_0044_0003$$$::Apenas me encara de volta.::
+22666::$$$message_0202_0044_0003$$$::Apenas me encara diretamente nos olhos,::
 22667::$$$message_0202_0045_0000$$$::"[line2]Não posso aceitar o que você acabou de dizer.[lr]::
 22668::$$$message_0202_0045_0001$$$::Fiz um contrato para te obedecer. Mas não entreguei meu coração a você, Mestre."[lr]::
 22669::$$$message_0202_0045_0002$$$::Ela responde com uma voz firme.::
 22670::$$$message_0202_0046_0000$$$::"O juramento de um rei não pode ser quebrado. Tenho deveres que preciso cumprir como rei.[lr]::
 22671::$$$message_0202_0046_0001$$$::O objetivo do Rei Arthur é obter o Santo Graal. Mesmo que isso se cumpra, eu jamais voltarei a ser Artoria.[lr]::
-22672::$$$message_0202_0046_0002$$$::Meu desejo sempre foi um só. [line2]Desde o momento em que empunhei a espada, esse juramento jamais mudou."::
-22673::$$$message_0202_0047_0000$$$::"...Por quê? Você não é obrigada a fazer uma coisa dessas.[lr]::
+22672::$$$message_0202_0046_0002$$$::Meu desejo sempre foi um só. [line2]Desde o momento em que empunhei a espada, esse juramento jamais mudará."::
+22673::$$$message_0202_0047_0000$$$::"...Por quê? Não é isso que você tem que fazer, Saber.[lr]::
 22674::$$$message_0202_0047_0001$$$::Não é certo que, depois de tudo, você continue sem nunca ser recompensada.[lr]::
 22675::$$$message_0202_0047_0002$$$::Você não precisa do Santo Graal. Além do mais..."::
-22676::$$$message_0202_0048_0000$$$::...O desejo da Saber jamais se tornaria realidade.[lr]::
+22676::$$$message_0202_0048_0000$$$::...O desejo da Saber não vai se realizar.[lr]::
 22677::$$$message_0202_0048_0001$$$::É impossível desfazer tudo o que aconteceu.::
 22678::$$$message_0202_0049_0000$$$::"Saber. Não dá para refazer o que já aconteceu. ...Não. Acho que isso é algo que não deveria ser feito. Você também já deve ter percebido isso."::
-22679::$$$message_0202_0050_0000$$$::"...Não. Isso não é verdade."::
-22680::$$$message_0202_0051_0000$$$::"[line2]Então fique sabendo.[lr]::
-22681::$$$message_0202_0051_0001$$$::Por mais que o resultado tenha sido ruim, você não pode mudar o que aconteceu![lr]::
+22679::$$$message_0202_0050_0000$$$::"...Não. De forma alguma..."::
+22680::$$$message_0202_0051_0000$$$::"[line2]Então eu vou te dizer.[lr]::
+22681::$$$message_0202_0051_0001$$$::Por pior que tenha sido o desfecho, você não pode mudar o que já aconteceu.[lr]::
 22682::$$$message_0202_0051_0002$$$::Tentar refazer alguma coisa só porque você falhou é apenas um egoísmo infantil...!"::
-22683::$$$message_0202_0052_0000$$$::...É aí que as palavras param.[lr]::
+22683::$$$message_0202_0052_0000$$$::...Foi aí que as palavras se interromperam.[lr]::
 22684::$$$message_0202_0052_0001$$$::A Saber não diz nada, e eu também não tenho mais nada a dizer para ela.[lr]::
-22685::$$$message_0202_0052_0002$$$::O vento também parou de soprar.[lr]::
+22685::$$$message_0202_0052_0002$$$::O som do vento que ecoava nos meus ouvidos também parou.[lr]::
 22686::$$$message_0202_0052_0003$$$::Não.[lr]::
 22687::$$$message_0202_0052_0004$$$::O vento não tinha parado de verdade. Só cessou por um instante.::
 22688::$$$message_0202_0053_0000$$$::Um assobio do vento.[lr]::
@@ -165,7 +165,7 @@ id=qid::label=str::text=lstr::
 22695::$$$message_0202_0055_0000$$$::"Não se ache tão importante. O que alguém como você poderia entender de mim?[lr]::
 22696::$$$message_0202_0055_0001$$$::Você não tem o direito de se intrometer no que me diz respeito.[lr]::
 22697::$$$message_0202_0055_0002$$$::Não lute, é isso? O que um Mestre imaturo, que precisa ser protegido por mim, pensa que está dizendo? Guarde esse tipo de absurdo para quando for capaz de lutar sozinho.[lr]::
-22698::$$$message_0202_0055_0003$$$::[line2]Humph. Embora eu duvide que esse dia venha algum dia."::
+22698::$$$message_0202_0055_0003$$$::[line2]Humph. Embora algo assim provavelmente nunca vá acontecer."::
 22699::$$$message_0202_0056_0000$$$::"Não[line2]Absurdo? Eu...!"::
 22700::$$$message_0202_0057_0000$$$::"É um completo absurdo. Pensar em mim mesma? Isso vale para você também, não vale?[lr]::
 22701::$$$message_0202_0057_0001$$$::Você nem leva a própria vida em consideração.[lr]::
@@ -177,22 +177,22 @@ id=qid::label=str::text=lstr::
 22707::$$$message_0202_0059_0001$$$::Eu mesma derrotarei os Mestres restantes e obterei o Santo Graal.[lr]::
 22708::$$$message_0202_0059_0002$$$::...Se odeia tanto assim lutar, então fique bem longe e esconda-se"::
 22709::$$$message_0202_0060_0000$$$::"Saber. Você está falando sério?"[lr]::
-22710::$$$message_0202_0060_0001$$$::Faço essa pergunta com a minha voz tremendo.[lr]::
+22710::$$$message_0202_0060_0001$$$::Pergunto com a voz trêmula.[lr]::
 22711::$$$message_0202_0060_0002$$$::Meus dentes batem porque estou reprimindo minhas emoções a um ponto que surpreende até a mim.::
-22712::$$$message_0202_0061_0000$$$::"Claro que sim. O meu objetivo é só o Santo Graal. Qualquer coisa além disso é desnecessária.[lr]::
+22712::$$$message_0202_0061_0000$$$::"Claro que sim. Meu único objetivo é o Santo Graal. Todo o resto é desnecessário.[lr]::
 22713::$$$message_0202_0061_0001$$$::[line2]Shirou. E você não é exceção."::
 22714::$$$message_0202_0062_0000$$$::Perco a respiração.[lr]::
-22715::$$$message_0202_0062_0001$$$::Suporto a visão ficando completamente branca e, de algum jeito, forço o coração que havia parado a voltar a bater.::
+22715::$$$message_0202_0062_0001$$$::Resisto enquanto tudo diante dos meus olhos fica completamente branco e, de algum jeito, forço o coração que havia parado a voltar a bater.::
 22716::$$$message_0202_0063_0000$$$::"Sua cabeça-dura...! Ótimo, se quer tanto lutar, então faça o que quiser! Eu não quero mais saber!"::
 22717::$$$message_0202_0064_0000$$$::Mas não consigo conter as emoções.[lr]::
-22718::$$$message_0202_0064_0001$$$::Grito algo que soa mais como fuga do que como resposta e, sem olhar para trás, disparo para longe da Saber.[lr]::
+22718::$$$message_0202_0064_0001$$$::Grito algo que soa mais como fuga do que como resposta e saio correndo para longe da Saber.[lr]::
 22719::$$$message_0202_0064_0002$$$::A figura dela ficando cada vez mais distante.[lr]::
 22720::$$$message_0202_0064_0003$$$::Mas, por um momento.[lr]::
 22721::$$$message_0202_0064_0004$$$::Tenho a impressão de ver a figura da Saber parada ali, imóvel, sem reação.::
 22722::$$$message_0202_0065_0000$$$::"Droga, droga, droga...!"[lr]::
 22723::$$$message_0202_0065_0001$$$::Eu corro.[lr]::
-22724::$$$message_0202_0065_0002$$$::Continuei correndo, tomado pela revolta, sem nem saber ao certo o que me frustrava tanto.::
-22725::$$$message_0202_0066_0000$$$::'Qualquer coisa além disso é desnecessária. E você, Shirou, não é uma exceção.'::
+22724::$$$message_0202_0065_0002$$$::Continuei correndo, tomado pela revolta, sem saber ao certo o que me frustrava tanto nem o que estava me deixando com tanta raiva.::
+22725::$$$message_0202_0066_0000$$$::'Qualquer coisa além disso é desnecessária. Shirou, você também...'::
 22726::$$$message_0202_0067_0000$$$::"...!"[lr]::
 22727::$$$message_0202_0067_0001$$$::Ranjo os dentes.[lr]::
 22728::$$$message_0202_0067_0002$$$::Sinceramente, só de lembrar disso minha visão começa a girar, e desse jeito ainda vou acabar dando de cara num poste ou coisa parecida.::
@@ -204,15 +204,15 @@ id=qid::label=str::text=lstr::
 22734::$$$message_0202_0069_0000$$$::...A Saber parada ali, atordoada.[lr]::
 22735::$$$message_0202_0069_0001$$$::No instante entre uma direção do vento e outra, as palavras que ela deixou escapar uma única vez.::
 22736::$$$message_0202_0070_0000$$$::'Eu pensei que você fosse entender, Shirou[line2]'::
-22737::$$$message_0202_0071_0000$$$::"...! Droga! É claro que eu não te entendo, sua idiota...!"[lr]::
+22737::$$$message_0202_0071_0000$$$::"...! Droga! Como é que eu ia entender isso, sua idiota...!"[lr]::
 22738::$$$message_0202_0071_0001$$$::Cuspo as palavras e quase tropeço de tanto arrependimento.[lr]::
 22739::$$$message_0202_0071_0002$$$::...Que tipo de desabafo foi aquele?[lr]::
-22740::$$$message_0202_0071_0003$$$::A voz da Saber, que parecia um adeus, soava como se ela estivesse chorando.[lr]::
+22740::$$$message_0202_0071_0003$$$::A voz da Saber, que parecia um adeus, soava ao mesmo tempo como se ela estivesse prestes a chorar.[lr]::
 22741::$$$message_0202_0071_0004$$$::Pensando bem, talvez aquela tenha sido a única coisa sincera de tudo o que ela disse.::
-22742::$$$message_0202_0072_0000$$$::Ela disse aquilo quando estava de cabeça baixa.[lr]::
-22743::$$$message_0202_0072_0001$$$::Uma voz misturada de expectativa, decepção e súplica.[lr]::
+22742::$$$message_0202_0072_0000$$$::Palavras murmuradas de cabeça baixa.[lr]::
+22743::$$$message_0202_0072_0001$$$::Uma voz carregada de expectativa, decepção e súplica.[lr]::
 22744::$$$message_0202_0072_0002$$$::[line2]Então...[lr]::
-22745::$$$message_0202_0072_0003$$$::Quem de nós foi o traidor, e quem de nós foi traído?::
+22745::$$$message_0202_0072_0003$$$::Qual de nós traiu, e qual foi traído?::
 22746::$$$message_0202_0073_0000$$$::Corro até o meu quarto e fecho a porta com força.[lr]::
 22747::$$$message_0202_0073_0001$$$::Caio no chão de braços e pernas abertos.[lr]::
 22748::$$$message_0202_0073_0002$$$::Ficar de pé já era insuportável.[lr]::
@@ -220,55 +220,55 @@ id=qid::label=str::text=lstr::
 22750::$$$message_0202_0074_0000$$$::"Haa[line2]Haa, haa, há[line2]"[lr]::
 22751::$$$message_0202_0074_0001$$$::Mas o meu corpo ainda está queimando.[lr]::
 22752::$$$message_0202_0074_0002$$$::O coração parece prestes a estourar, e os pulmões imploram desesperadamente por ar.[lr]::
-22753::$$$message_0202_0074_0003$$$::Corri na minha velocidade máxima desde a ponte até chegar aqui. O meu corpo está exausto.[lr]::
-22754::$$$message_0202_0074_0004$$$::Emocionalmente, ainda sinto que não corri o suficiente, mas o corpo inteiro insiste para que eu me acalme de uma vez.::
+22753::$$$message_0202_0074_0003$$$::Vim correndo a toda desde a ponte, sem parar. Não é de se admirar que meu corpo esteja exausto.[lr]::
+22754::$$$message_0202_0074_0004$$$::Por dentro, ainda sinto que não corri o bastante, mas meu corpo já implora para eu me acalmar.::
 22755::$$$message_0202_0075_0000$$$::"Haa... haa, haa, há[line2]"[lr]::
 22756::$$$message_0202_0075_0001$$$::Começo a me acalmar aos poucos.[lr]::
 22757::$$$message_0202_0075_0002$$$::Respiro fundo e solto o ar.::
 22758::$$$message_0202_0076_0000$$$::"Haa... haa... haa."[lr]::
 22759::$$$message_0202_0076_0001$$$::Depois que eu consigo controlar a minha respiração...[lr]::
-22760::$$$message_0202_0076_0002$$$::Depois que a respiração se acalma, só uma coisa ocupa a minha cabeça: por que eu estava com tanta raiva.::
+22760::$$$message_0202_0076_0002$$$::Só uma coisa ocupa a minha cabeça: o que estava me deixando com tanta raiva.::
 22761::$$$message_0202_0077_0000$$$::"[line5]"[lr]::
 22762::$$$message_0202_0077_0001$$$::...Nem preciso pensar sobre isso.[lr]::
 22763::$$$message_0202_0077_0002$$$::Corri como se tentasse deixar alguma coisa para trás porque me sentia impotente demais.::
 22764::$$$message_0202_0078_0000$$$::...Eu não consigo ajudar a Saber.[lr]::
-22765::$$$message_0202_0078_0001$$$::E é isso que me frustra tanto a ponto de me encher de raiva de mim mesmo.[lr]::
-22766::$$$message_0202_0078_0002$$$::Eu não consigo fazer nada.[lr]::
+22765::$$$message_0202_0078_0001$$$::Isso me frustrava e me deixava com raiva de mim mesmo.[lr]::
+22766::$$$message_0202_0078_0002$$$::Eu, incapaz de fazer qualquer coisa.[lr]::
 22767::$$$message_0202_0078_0003$$$::Disse que faria aquela garota sorrir.[lr]::
 22768::$$$message_0202_0078_0004$$$::Decidi que protegeria a Saber, e, no entanto, fui incapaz de fazer qualquer coisa. É isso que me enche de raiva.::
 22769::$$$message_0202_0079_0000$$$::"...Mas o que eu posso fazer? Enquanto a própria Saber não buscar a própria felicidade, não adianta outra pessoa dizer ou fazer nada."[lr]::
-22770::$$$message_0202_0079_0001$$$::Foi por isso que eu me esforcei para que ela conseguisse achar a sua própria felicidade.[lr]::
-22771::$$$message_0202_0079_0002$$$::Mas além da Saber me dizer que isso era inútil, ela me chamou de imbecil.::
+22770::$$$message_0202_0079_0001$$$::Foi por isso que fiz um esforço que nem combina comigo, para que ela conseguisse encontrar a própria felicidade.[lr]::
+22771::$$$message_0202_0079_0002$$$::E, como se não bastasse ela dizer que isso era inútil, ainda me tratou como um completo imbecil.::
 22772::$$$message_0202_0080_0000$$$::"Um imbecil que não percebe nem o valor da sua própria vida, não é?"[lr]::
 22773::$$$message_0202_0080_0001$$$::...Como é que eu poderia reagir depois que a Saber me disse isso?[lr]::
 22774::$$$message_0202_0080_0002$$$::Eu também valorizo a minha vida e não quero fazer nada que vá me levar à morte.::
 22775::$$$message_0202_0081_0000$$$::Mas isso não tem nada a ver com a Saber.[lr]::
-22776::$$$message_0202_0081_0001$$$::Trazer esse assunto à tona naquela hora foi injusto.[lr]::
+22776::$$$message_0202_0081_0001$$$::Trazer o meu caso à tona naquela hora foi golpe baixo.[lr]::
 22777::$$$message_0202_0081_0002$$$::Por mais que eu seja um idiota, tenho certeza de que a Saber está enganada.[lr]::
 22778::$$$message_0202_0081_0003$$$::Mas, se ela rejeita isso com tanta força, então já não há mais como eu fazer nada.[line2]::
 22779::$$$message_0202_0082_0000$$$::"...Droga. Está bem, que ela faça como quiser...!"[lr]::
 22780::$$$message_0202_0082_0001$$$::Me viro e deito de barriga para baixo.[lr]::
-22781::$$$message_0202_0082_0002$$$::Já que só estou vendo o chão, eu fecho os olhos para esvaziar a minha cabeça.::
+22781::$$$message_0202_0082_0002$$$::Já que só consigo ver o tatame, fecho os olhos e deixo também a cabeça completamente no escuro.::
 22782::$$$message_0202_0083_0000$$$::"......"[lr]::
-22783::$$$message_0202_0083_0001$$$::Chega. O problema da Saber não é mais problema meu.[lr]::
+22783::$$$message_0202_0083_0001$$$::Chega. Não quero mais saber da Saber.[lr]::
 22784::$$$message_0202_0083_0002$$$::Se o Santo Graal é tão importante assim para a Saber, que ela vá se casar com ele.[lr]::
-22785::$$$message_0202_0083_0003$$$::Se, depois de tudo o que eu disse, ela continua sendo tão teimosa, então me envolver mais só vai me queimar.::
+22785::$$$message_0202_0083_0003$$$::Se, depois de tudo o que eu disse, ela continua sendo tão teimosa, então me envolver mais só vai me queimar.[lr]::
 22786::$$$message_0202_0083_0004$$$::Não, queimadura é pouco. Um dano irreparável[line2]::
 22787::$$$message_0202_0084_0000$$$::"[line2]!"[lr]::
-22788::$$$message_0202_0084_0001$$$::Porque esse estrago eu já sofri faz tempo.[lr]::
+22788::$$$message_0202_0084_0001$$$::Esse estrago eu já tinha sofrido há muito tempo.[lr]::
 22789::$$$message_0202_0084_0002$$$::Isso está muito além de uma simples queimadura.[lr]::
 22790::$$$message_0202_0084_0003$$$::Eu a conheci, entrei em conflito com ela várias vezes e, para sobreviver, cheguei a vislumbrar as profundezas do coração dela.::
 22791::$$$message_0202_0085_0000$$$::...Aquele calor. Eu me lembro da luz que estava bem no seu interior.[lr]::
 22792::$$$message_0202_0085_0001$$$::Por que fui me lembrar de uma coisa dessas justo agora?[lr]::
-22793::$$$message_0202_0085_0002$$$::Uma pradaria distante. A lembrança da garota que deixei para trás.[lr]::
-22794::$$$message_0202_0085_0003$$$::Se eu começar a me lembrar daquilo, o que a Saber disse para mim não vai importar mais.::
+22793::$$$message_0202_0085_0002$$$::Uma pradaria distante. A lembrança de uma garota deixada para trás.[lr]::
+22794::$$$message_0202_0085_0003$$$::...Se eu me lembrar daquela beleza, não vai mais importar o que a Saber diga.::
 22795::$$$message_0202_0086_0000$$$::"...Uma coisa que só serve para lutar? Então não demonstre a sua fraqueza..."[lr]::
 22796::$$$message_0202_0086_0001$$$::...Enfim, a Saber é injusta.[lr]::
-22797::$$$message_0202_0086_0002$$$::Eu não sei o que é tão injusto assim, mas acho injusto não perceber o que é injusto.::
-22798::$$$message_0202_0087_0000$$$::Mesmo com toda essa raiva, não consigo odiá-la. E quanto mais penso em deixá-la em paz, mais impossível fica simplesmente abandoná-la. É uma contradição.::
+22797::$$$message_0202_0086_0002$$$::Nem sei o que exatamente é injusto nela, mas o fato de eu não conseguir descobrir já me parece trapaça.::
+22798::$$$message_0202_0087_0000$$$::Mesmo com toda essa raiva, não consigo odiá-la. E quanto mais penso em deixá-la em paz, menos consigo deixá-la em paz. É uma contradição.::
 22799::$$$message_0202_0088_0000$$$::"[line2]Droga. Então é isso que querem dizer com 'quem se apaixona, perde'."[lr]::
-22800::$$$message_0202_0088_0001$$$::...Mas eu não posso fazer nada.[lr]::
-22801::$$$message_0202_0088_0002$$$::Se não sou capaz de desistir da Saber não importa o quanto ela diga que é inútil, eu não tenho outra escolha a não ser continuar insistindo até o final.::
+22800::$$$message_0202_0088_0001$$$::...Mas não tem jeito.[lr]::
+22801::$$$message_0202_0088_0002$$$::Se não consigo desistir, por mais que ela diga que é inútil, só me resta continuar insistindo até o fim.::
 22802::$$$message_0202_0089_0000$$$::'Eu pensei que você fosse entender, Shirou[line2]'::
 22803::$$$message_0202_0090_0000$$$::"...!"[lr]::
 22804::$$$message_0202_0090_0001$$$::Eu me lembro do rosto dela, que estava prestes a chorar.[lr]::
@@ -277,3 +277,4 @@ id=qid::label=str::text=lstr::
 22807::$$$message_0202_0091_0000$$$::"...Mesmo assim, eu não consigo concordar com ela de jeito nenhum."[lr]::
 22808::$$$message_0202_0091_0001$$$::...Ainda que eu esteja errado e que a Saber tenha razão.[lr]::
 22809::$$$message_0202_0091_0002$$$::Se ela é realmente tão importante para mim, então eu jamais posso pedir desculpas a ela[line2]::
+

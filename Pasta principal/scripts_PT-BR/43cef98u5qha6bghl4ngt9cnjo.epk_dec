@@ -213,168 +213,168 @@ id=qid::label=str::text=lstr::
 30426::$$$message_0242_0074_0000$$$::"O que você vai fazer quando se formar, Emiya-kun? Você vai suceder seu pai?"[lr]::
 30427::$$$message_0242_0074_0001$$$::"Huh? ...Bom, isso é verdade, mas eu quero virar um mago adequado mais do que eu quero suceder meu pai. Eu não posso me gabar a não ser que eu seja um mago adequado."::
 30428::$$$message_0242_0075_0000$$$::"Ah? E pra quem você vai se gabar?"[lr]::
-30429::$$$message_0242_0075_0001$$$::Ela sorri enquanto me pergunta.[lr]::
-30430::$$$message_0242_0075_0002$$$::"......"[lr]::
-30431::$$$message_0242_0075_0003$$$::Isso.[lr]::
-30432::$$$message_0242_0076_0000$$$::Meu outro objetivo é fazer ela admitir derrota.::
-30433::$$$message_0242_0076_0001$$$::"N-Não importa, certo? Meu objetivo é virar um mago adequado, e é por isso que eu sou seu aprendiz agora. Por favor me dê suas melhores intenções para o próximo ano."[lr]::
-30434::$$$message_0242_0077_0000$$$::"Ah, você com certeza é otimista. Você acha que vai virar um mago adequado em um ano? Eu tava pronta pra te ensinar por dez anos quando você virou meu aprendiz... Mas entendi, você tá bem com só mais um ano, huh?"::
-30435::$$$message_0242_0077_0001$$$::"D-Dez anos...!?[lr]::
-30436::$$$message_0242_0078_0000$$$::I-Isso é ótimo, mas[line3]não, não é isso...! I-Isso ainda tá bem longe. Você não se cansaria?"::
-30437::$$$message_0242_0079_0000$$$::"Não. Assim como seu objetivo é virar um mago adequado, meu objetivo é te tornar um mago adequado. Eu tenho tudo planejado na minha cabeça, sabe? Eu devia escrever e te dar?"::
-30438::$$$message_0242_0079_0001$$$::"[line7]Uh, uhm..."[lr]::
-30439::$$$message_0242_0079_0002$$$::Bom, isso é...[lr]::
-30440::$$$message_0242_0080_0000$$$::Isso é ótimo, mas...::
-30441::$$$message_0242_0080_0001$$$::"Mas eu acho que isso é impossível. Você vai suceder seu pai, certo? Então isso significa que você vai ficar aqui depois de se formar."[lr]::
-30442::$$$message_0242_0081_0000$$$::"...Sim. Mas o que você vai fazer? Sua família supervisiona essa cidade. Você não pode sair dela, certo?"::
-30443::$$$message_0242_0081_0001$$$::"Eu? Eu vou ir pra Londres depois de me formar.[lr]::
-30444::$$$message_0242_0081_0002$$$::Eu consegui uma recomendação de admissão por causa do que aconteceu, então eu acho que eles vão me deixar entrar sem testes."[lr]::
-30445::$$$message_0242_0082_0000$$$::"Quê[line4]você quer dizer aquela Londres, o quartel general da associação dos magos...!?"::
-30446::$$$message_0242_0082_0001$$$::"Sim. Tem um limite sobre o que eu consigo fazer aqui, então eu tô pensando em estudar lá por volta de cinco anos.[lr]::
-30447::$$$message_0242_0083_0000$$$::Eu ouvi que meu pai fez a mesma coisa. E é natural ir pra maior instituição de educação se você quer ser um mago adequado, certo?"::
-30448::$$$message_0242_0083_0001$$$::"[line4]"[lr]::
-30449::$$$message_0242_0083_0002$$$::Eu tô chocado.[lr]::
-30450::$$$message_0242_0083_0003$$$::É tão repentino que minha mente fica em branco.[lr]::
-30451::$$$message_0242_0083_0004$$$::É natural pra Tohsaka, que é um mago legítimo.[lr]::
-30452::$$$message_0242_0084_0000$$$::Eu finalmente percebo a diferença nas nossas posições.::
-30453::$$$message_0242_0084_0001$$$::"Londres, huh? Isso é uma coisa incrível, certo?"[lr]::
-30454::$$$message_0242_0084_0002$$$::"Hmm, eu não sei.[lr]::
-30455::$$$message_0242_0085_0000$$$::É irritante, mas não é porque eles aprovam os meus poderes. Eu fui convidada por causa das conquistas do meu pai, e porque eu fui a última a sobreviver."::
-30456::$$$message_0242_0085_0001$$$::Ela fala casualmente, e eu tenho certeza que é algo incrível.[lr]::
-30457::$$$message_0242_0085_0002$$$::...Mas Londres, huh? ...Isso com certeza é longe.[lr]::
-30458::$$$message_0242_0086_0000$$$::Meu pai não tava na associação dos magos. Eu sou assim como ele, e eu não gosto de coisas formais.::
-30459::$$$message_0242_0087_0000$$$::"[line3]Mas você tem as qualificações pra entrar nesse caso. Eu tenho certeza que eles vão te testar se eu te recomendar[line3]"::
-30460::$$$message_0242_0087_0001$$$::...Eu talvez consiga me mudar pra lá.[lr]::
-30461::$$$message_0242_0088_0000$$$::Eu consigo trabalhar mais, estudar inglês, salvar custos de viagem e vivência, e encontrar um emprego lá...::
-30462::$$$message_0242_0088_0001$$$::"[line3]Eu sei que você não tá entusiasmado pra ir já que a associação dos magos é seu inimigo, mas a torre do relógio tem equipamentos adequados e é bem preparada pra treinamento.[lr]::
-30463::$$$message_0242_0089_0000$$$::Ah, mas você tem que manter sua realidade interior um segredo, então acho que eles vão testar seus básicos. ...Eita, será que um ano vai ser o suficiente[line3]?"::
-30464::$$$message_0242_0089_0001$$$::Não, não, vamos dizer que eu sou capaz de alugar um apartamento lá.[lr]::
-30465::$$$message_0242_0089_0002$$$::Eu não sei que tipo de lugar a torre do relógio é, mas eu tenho certeza que a Tohsaka vai ficar ainda mais ocupada. ...Então deve ser melhor eu ir pra lá depois de virar um mago adequado sozinho.[lr]::
-30466::$$$message_0242_0089_0003$$$::Sim, isso soa bem.[lr]::
-30467::$$$message_0242_0090_0000$$$::Acima de tudo, Londres não é pra mim. Eu aposto que vou desmaiar se eu for lá e tiver cheia de pessoas como o Kotomine[line4]::
-30468::$$$message_0242_0090_0001$$$::"......Ei. Você tá me ouvindo, Emiya-kun?"[lr]::
-30469::$$$message_0242_0090_0002$$$::"Huh? Você tava falando algo, Tohsaka?"[lr]::
-30470::$$$message_0242_0090_0003$$$::"............"[lr]::
-30471::$$$message_0242_0090_0004$$$::A Tohsaka faz um olhar severo e fecha sua boca.[lr]::
-30472::$$$message_0242_0090_0005$$$::[line3]Então.[lr]::
-30473::$$$message_0242_0091_0000$$$::Depois de respirar fundo, ela faz um rosto sério e...::
-30474::$$$message_0242_0091_0001$$$::"Eu esqueci de te contar, mas eu tô sendo convidada como a sucessora da família Tohsaka. Em outras palavras, eu posso ganhar um quarto adequado como um mago adequado."[lr]::
-30475::$$$message_0242_0092_0000$$$::...Ela diz algo estranho.::
-30476::$$$message_0242_0092_0001$$$::"...?"[lr]::
-30477::$$$message_0242_0092_0002$$$::"Eu tô te dizendo que eles me aprovam como um mago adequado. Então não é incomum eu ter um aprendiz ou dois, certo?[lr]::
-30478::$$$message_0242_0092_0003$$$::Tem disputas de facção lá, então eu tenho permissão pra trazer pelo menos um dos meus aprendizes."[lr]::
-30479::$$$message_0242_0093_0000$$$::A Tohsaka olha pra mim.::
-30480::$$$message_0242_0093_0001$$$::"[line4]Uhm, isso é..."[lr]::
-30481::$$$message_0242_0093_0002$$$::Eu talvez seja franco, mas eu sei o que a Tohsaka tá tentando dizer.[lr]::
-30482::$$$message_0242_0094_0000$$$::Em outras palavras...::
-30483::$$$message_0242_0094_0001$$$::"Sim. Eu posso incondicionalmente trazer um seguidor como um assistente. Você não vai ter que tomar o teste desse jeito, e você não vai ter que pagar taxas de estudo.[lr]::
-30484::$$$message_0242_0095_0000$$$::...Bom, mas você vai estar numa posição desvantajosa já que você vai ser um estudante da associação dos magos sem ser parte dela."::
-30485::$$$message_0242_0095_0001$$$::"[line8]"[lr]::
-30486::$$$message_0242_0095_0002$$$::Minha cabeça volta a pensar.[lr]::
-30487::$$$message_0242_0095_0003$$$::Não, eu forço ela a voltar a funcionar.[lr]::
-30488::$$$message_0242_0095_0004$$$::O que a Tohsaka tá me falando...[lr]::
-30489::$$$message_0242_0095_0005$$$::Eu ponho cada célula do meu cérebro pra funcionar pra pesar as opções que eu tenho.[lr]::
-30490::$$$message_0242_0096_0000$$$::Eu devo parecer engraçado, já que a Tohsaka tá rindo.::
-30491::$$$message_0242_0096_0001$$$::"O-O quê? Eu não tô considerando ir pra lá porque você me convenceu, tudo bem?"[lr]::
-30492::$$$message_0242_0097_0000$$$::"Isso é tudo que você quer me contar? Bom, eu tô indo pra Londres."::
-30493::$$$message_0242_0097_0001$$$::Ela me olha gentilmente.[lr]::
-30494::$$$message_0242_0097_0002$$$::Então, a Tohsaka faz uma expressão maliciosa.[lr]::
-30495::$$$message_0242_0097_0003$$$::"Então, o que você vai fazer, Shirou?"[lr]::
-30496::$$$message_0242_0098_0000$$$::Ela me pergunta gentilmente, com olhos que enxergam dentro de mim.::
-30497::$$$message_0242_0098_0001$$$::"[line8]"[lr]::
-30498::$$$message_0242_0098_0002$$$::Meu rosto fica vermelho.[lr]::
-30499::$$$message_0242_0098_0003$$$::As palavras e expressão dela destroem minha hostilidade e desgosto da associação dos magos.[lr]::
-30500::$$$message_0242_0098_0004$$$::...É isso que eu quis dizer sobre a Tohsaka segurar minha fraqueza.[lr]::
-30501::$$$message_0242_0099_0000$$$::Eu não posso fazer nada já que eu me apaixonei por ela.::
-30502::$$$message_0242_0099_0001$$$::"Ah, por que ficar silencioso agora? Eu não ouvi sua resposta ainda."[lr]::
-30503::$$$message_0242_0099_0002$$$::Ela continua sorrindo maliciosamente.[lr]::
-30504::$$$message_0242_0100_0000$$$::Ela sabe a minha resposta, mas ela impiedosamente continua me atacando.::
-30505::$$$message_0242_0100_0001$$$::"Uh... Eu, uhm..."[lr]::
-30506::$$$message_0242_0100_0002$$$::Pra ser honesto, Londres é longe, mas eu não consigo me imaginar sendo ensinado por alguém além da Tohsaka.[lr]::
-30507::$$$message_0242_0100_0003$$$::E eu nunca pensei em me separar dela.[lr]::
-30508::$$$message_0242_0101_0000$$$::Acima de tudo, eu quero ficar com a Tohsaka.::
-30509::$$$message_0242_0101_0001$$$::"Seja claro, isso é importante.[lr]::
-30510::$$$message_0242_0102_0000$$$::Você ainda vai vir comigo, mesmo que seja como meu assistente?"[lr]::
-30511::$$$message_0242_0103_0000$$$::Ela olha pros meus olhos.[lr]::
-30512::$$$message_0242_0103_0001$$$::Ela é tão atraente que eu sinto como se meu coração fosse sair pela minha boca.::
-30513::$$$message_0242_0103_0002$$$::"C-Cala boca, sua idiota...! Sua idiota, idiota, idiota! S-S-Se é tão importante, me conta em um lugar mais apropriado! Eu não posso te responder quando é tão repentino...!!!"::
-30514::$$$message_0242_0104_0000$$$::Eu não sei o que vai acontecer comigo se eu continuar encarando ela, então eu me viro. ...Eu ainda sinto a presença da Tohsaka.[lr]::
-30515::$$$message_0242_0104_0001$$$::Ela tá alegremente assistindo minha reação.::
-30516::$$$message_0242_0104_0002$$$::"Ei, Shirou. Qual é a sua resposta?"[lr]::
-30517::$$$message_0242_0104_0003$$$::Ela murmura gentilmente.[lr]::
-30518::$$$message_0242_0104_0004$$$::.........Ela me derrotou.[lr]::
-30519::$$$message_0242_0104_0005$$$::É tão difícil assim acenar com a cabeça e responder honestamente?[lr]::
-30520::$$$message_0242_0105_0000$$$::"..........."[lr]::
-30521::$$$message_0242_0105_0001$$$::Mas eu não consigo me virar a não ser que eu diga pra ela.::
-30522::$$$message_0242_0105_0002$$$::".....Sua idiota. Não me pergunta algo tão óbvio."[lr]::
-30523::$$$message_0242_0105_0003$$$::Eu encontro o olhar da Tohsaka e digo minha opinião honesta pra ela.[lr]::
-30524::$$$message_0242_0105_0004$$$::O sorriso dela aumenta com essas palavras.::
-30525::$$$message_0242_0106_0000$$$::"[line3]Tudo bem, então me dê suas melhores intenções daqui em diante, Emiya-kun.[lr]::
-30526::$$$message_0242_0106_0001$$$::Eu vou te treinar até você virar um mago adequado, então se prepara."::
-30527::$$$message_0242_0107_0000$$$::"...Eu te digo o mesmo. Eu levei isso a sério. Eu vou ser ensinado por você até eu virar um mago adequado."[lr]::
-30528::$$$message_0242_0107_0001$$$::"Óbvio. Eu vou fazer você virar um homem honesto e ter uma vida feliz. Eu não vou permitir você desistir só por ter sido levado até Londres."::
-30529::$$$message_0242_0108_0000$$$::Onde que foi a beleza anterior dela?[lr]::
-30530::$$$message_0242_0108_0001$$$::Ela fala isso com um sorriso desafiador e pula da cadeira.::
-30531::$$$message_0242_0108_0002$$$::...O por do sol deve acabar logo.[lr]::
-30532::$$$message_0242_0108_0003$$$::As férias de primavera vão acabar, abril vai chegar, e mais um ano vai passar rapidamente.[lr]::
-30533::$$$message_0242_0108_0004$$$::Nós vamos nos separar desse cenário até então.[lr]::
-30534::$$$message_0242_0109_0000$$$::Depois de um ano...[lr]::
-30535::$$$message_0242_0109_0001$$$::A Tohsaka e eu vamos gastar nossos últimos dias de vida de estudante aqui.::
-30536::$$$message_0242_0109_0002$$$::"Vamos pra casa. Vai ser um jantar animado na sua casa hoje."[lr]::
-30537::$$$message_0242_0109_0003$$$::Nós saímos da classe sem memórias remanescentes.[lr]::
-30538::$$$message_0242_0110_0000$$$::Nós ainda conseguimos ouvir as atividades de clube lá fora.[lr]::
-30539::$$$message_0242_0110_0001$$$::Os sons estão distantes, e eles me lembram da luta de espadas.::
-30540::$$$message_0242_0110_0002$$$::Eu não posso ficar no mesmo lugar para sempre.[lr]::
-30541::$$$message_0242_0111_0000$$$::A Tohsaka e eu vamos para um lugar novo em um ano.[lr]::
-30542::$$$message_0242_0111_0001$$$::Deve demorar um pouco até eu descobrir se foi a decisão correta ou não.::
-30543::$$$message_0242_0111_0002$$$::Eu relembro a figura vermelha mais uma vez.[lr]::
-30544::$$$message_0242_0111_0003$$$::Nem essa classe nem aquela luta vão mudar.[lr]::
-30545::$$$message_0242_0112_0000$$$::Tudo é o mesmo.[lr]::
-30546::$$$message_0242_0112_0001$$$::Tudo é uma ilusão assim como uma miragem que desaparece quando alguém se vira.::
-30547::$$$message_0242_0112_0002$$$::Mas eu consigo chegar lá se eu mirar alto.[lr]::
-30548::$$$message_0242_0113_0000$$$::Eu com certeza vou ser capaz de alcançar as costas dele com a ajuda da Tohsaka.[lr]::
-30549::$$$message_0242_0113_0001$$$::Então eu vou chegar a uma resposta nessa hora.::
-30550::$$$message_0242_0114_0000$$$::...As espadas que ecoam distantemente.[lr]::
-30551::$$$message_0242_0114_0001$$$::Dependendo destes sons, eu irei eventualmente chegar a aquele lugar.::
-30552::$$$message_0242_0115_0000$$$::[line3]O que veio e foi foram memórias distantes.[lr]::
-30553::$$$message_0242_0115_0001$$$::Elas eram sinais que ele esqueceu e jogou fora, algo que não podia ser retornado.::
-30554::$$$message_0242_0115_0002$$$::As faíscas das espadas colidindo.[lr]::
-30555::$$$message_0242_0115_0003$$$::Espíritos colidindo.[lr]::
-30556::$$$message_0242_0115_0004$$$::Várias dúzias de ataques e defesas não habilidosas.[lr]::
-30557::$$$message_0242_0116_0000$$$::Eles eram ataques desastrados que só tentavam negar um ao outro.[lr]::
-30558::$$$message_0242_0117_0000$$$::Por que algo assim reviveu uma promessa esgotada?::
-30559::$$$message_0242_0117_0001$$$::[line3]Eles foram ataques impossíveis.::
-30560::$$$message_0242_0117_0002$$$::O corpo impulsionado dele está coberto de feridas.[lr]::
-30561::$$$message_0242_0117_0003$$$::Os dedos dele estão quebrados, seus membros cortados, a respiração dele já parou embora o garoto ainda não saiba disso.[lr]::
-30562::$$$message_0242_0118_0000$$$::Mesmo em ímpeto, a velocidade dele é insignificante, e os ataques dele são medíocres.[lr]::
-30563::$$$message_0242_0118_0001$$$::Embora ele tenha absorvido a habilidade de combate dele, as técnicas dele agora estão tão desastradas quanto as de um amador novamente.::
-30564::$$$message_0242_0118_0002$$$::O ataque dele é executado aleatoriamente.[lr]::
-30565::$$$message_0242_0119_0000$$$::Mas...[lr]::
-30566::$$$message_0242_0119_0001$$$::O ataque dele é mais pesado do que qualquer um que veio antes.::
-30567::$$$message_0242_0119_0002$$$::Não há super herói.[lr]::
-30568::$$$message_0242_0119_0003$$$::A mente do garoto é obliterada por aquele que cresceu para perceber esse fato mais que qualquer um.[lr]::
-30569::$$$message_0242_0120_0000$$$::A mente distorcida deveria desabar pelo estresse.[lr]::
-30570::$$$message_0242_0120_0001$$$::É óbvio que o garoto vai ser devorado pela contradição dele.::
-30571::$$$message_0242_0121_0000$$$::Mas onde estão os sinais da derrota dele?[lr]::
-30572::$$$message_0242_0121_0001$$$::Ele move seu corpo ferido e arruma sua mente enfraquecida, mas não há hesitação nos ataques dele.::
-30573::$$$message_0242_0121_0002$$$::A fúria dele é incomparável a anterior.[lr]::
-30574::$$$message_0242_0121_0003$$$::O garoto balança sua espada descuidadamente.[lr]::
-30575::$$$message_0242_0121_0004$$$::Os ataques são igualmente parados.[lr]::
-30576::$$$message_0242_0122_0000$$$::O espaço é preenchido por faíscas e tudo entrando nele será cortado em pedaços.[lr]::
-30577::$$$message_0242_0122_0001$$$::É a encarnação da mente deles que funde mesmo eles repelindo um ao outro.::
-30578::$$$message_0242_0122_0002$$$::O ataque desesperado.[lr]::
-30579::$$$message_0242_0123_0000$$$::É somente uma faísca morrendo que um homem dá em seu último momento.[lr]::
-30580::$$$message_0242_0123_0001$$$::O garoto arfa com cada ataque, quase cai, se arruma, e ataca ainda de novo.::
-30581::$$$message_0242_0123_0002$$$::"[line8]"[lr]::
-30582::$$$message_0242_0123_0003$$$::Vendo isso, ele está confiante de que seu inimigo não possui mais poder.[lr]::
-30583::$$$message_0242_0123_0004$$$::O garoto na frente dele é um cadáver.[lr]::
-30584::$$$message_0242_0123_0005$$$::Mas...[lr]::
-30585::$$$message_0242_0124_0000$$$::Por que há um poder infinito nos braços dele segurando a espada?::
-30586::$$$message_0242_0124_0001$$$::Ele vê uma ilusão.[lr]::
-30587::$$$message_0242_0124_0002$$$::Deve ser porque ele ficou entediado em ver alguém atacando mesmo sabendo que é inútil.[lr]::
-30588::$$$message_0242_0125_0000$$$::A irritação ferve o impulso mais detestável dele.::
-30589::$$$message_0242_0126_0000$$$::...O que ele sentia era bonito e nobre?::
-30590::$$$message_0242_0126_0001$$$::O garoto disse que ele não quer ver pessoas morrerem insignificantemente.[lr]::
+30429::$$$message_0242_0075_0001$$$::"......"[lr]::
+30430::$$$message_0242_0075_0002$$$::Isso.[lr]::
+30431::$$$message_0242_0075_0003$$$::Meu outro objetivo é fazer ela admitir derrota.::
+30432::$$$message_0242_0076_0000$$$::"N-Não importa, certo? Meu objetivo é virar um mago adequado, e é por isso que eu sou seu aprendiz agora. Por favor me dê suas melhores intenções para o próximo ano."[lr]::
+30433::$$$message_0242_0076_0001$$$::"Ah, você com certeza é otimista. Você acha que vai virar um mago adequado em um ano? Eu tava pronta pra te ensinar por dez anos quando você virou meu aprendiz... Mas entendi, você tá bem com só mais um ano, huh?"::
+30434::$$$message_0242_0077_0000$$$::"D-Dez anos...!?[lr]::
+30435::$$$message_0242_0077_0001$$$::I-Isso é ótimo, mas[line3]não, não é isso...! I-Isso ainda tá bem longe. Você não se cansaria?"::
+30436::$$$message_0242_0078_0000$$$::"Não. Assim como seu objetivo é virar um mago adequado, meu objetivo é te tornar um mago adequado. Eu tenho tudo planejado na minha cabeça, sabe? Eu devia escrever e te dar?"::
+30437::$$$message_0242_0079_0000$$$::"[line7]Uh, uhm..."[lr]::
+30438::$$$message_0242_0079_0001$$$::Bom, isso é...[lr]::
+30439::$$$message_0242_0079_0002$$$::Isso é ótimo, mas...::
+30440::$$$message_0242_0080_0000$$$::"Mas eu acho que isso é impossível. Você vai suceder seu pai, certo? Então isso significa que você vai ficar aqui depois de se formar."[lr]::
+30441::$$$message_0242_0080_0001$$$::"...Sim. Mas o que você vai fazer? Sua família supervisiona essa cidade. Você não pode sair dela, certo?"::
+30442::$$$message_0242_0081_0000$$$::"Eu? Eu vou ir pra Londres depois de me formar.[lr]::
+30443::$$$message_0242_0081_0001$$$::Eu consegui uma recomendação de admissão por causa do que aconteceu, então eu acho que eles vão me deixar entrar sem testes."[lr]::
+30444::$$$message_0242_0081_0002$$$::"Quê[line4]você quer dizer aquela Londres, o quartel general da associação dos magos...!?"::
+30445::$$$message_0242_0082_0000$$$::"Sim. Tem um limite sobre o que eu consigo fazer aqui, então eu tô pensando em estudar lá por volta de cinco anos.[lr]::
+30446::$$$message_0242_0082_0001$$$::Eu ouvi que meu pai fez a mesma coisa. E é natural ir pra maior instituição de educação se você quer ser um mago adequado, certo?"::
+30447::$$$message_0242_0083_0000$$$::"[line4]"[lr]::
+30448::$$$message_0242_0083_0001$$$::Eu tô chocado.[lr]::
+30449::$$$message_0242_0083_0002$$$::É tão repentino que minha mente fica em branco.[lr]::
+30450::$$$message_0242_0083_0003$$$::É natural pra Tohsaka, que é um mago legítimo.[lr]::
+30451::$$$message_0242_0083_0004$$$::Eu finalmente percebo a diferença nas nossas posições.::
+30452::$$$message_0242_0084_0000$$$::"Londres, huh? Isso é uma coisa incrível, certo?"[lr]::
+30453::$$$message_0242_0084_0001$$$::"Hmm, eu não sei.[lr]::
+30454::$$$message_0242_0084_0002$$$::É irritante, mas não é porque eles aprovam os meus poderes. Eu fui convidada por causa das conquistas do meu pai, e porque eu fui a última a sobreviver."::
+30455::$$$message_0242_0085_0000$$$::Ela fala casualmente, e eu tenho certeza que é algo incrível.[lr]::
+30456::$$$message_0242_0085_0001$$$::...Mas Londres, huh? ...Isso com certeza é longe.[lr]::
+30457::$$$message_0242_0085_0002$$$::Meu pai não tava na associação dos magos. Eu sou assim como ele, e eu não gosto de coisas formais.::
+30458::$$$message_0242_0086_0000$$$::"[line3]Mas você tem as qualificações pra entrar nesse caso. Eu tenho certeza que eles vão te testar se eu te recomendar[line3]"::
+30459::$$$message_0242_0087_0000$$$::...Eu talvez consiga me mudar pra lá.[lr]::
+30460::$$$message_0242_0087_0001$$$::Eu consigo trabalhar mais, estudar inglês, salvar custos de viagem e vivência, e encontrar um emprego lá...::
+30461::$$$message_0242_0088_0000$$$::"[line3]Eu sei que você não tá entusiasmado pra ir já que a associação dos magos é seu inimigo, mas a torre do relógio tem equipamentos adequados e é bem preparada pra treinamento.[lr]::
+30462::$$$message_0242_0088_0001$$$::Ah, mas você tem que manter sua realidade interior um segredo, então acho que eles vão testar seus básicos. ...Eita, será que um ano vai ser o suficiente[line3]?"::
+30463::$$$message_0242_0089_0000$$$::Não, não, vamos dizer que eu sou capaz de alugar um apartamento lá.[lr]::
+30464::$$$message_0242_0089_0001$$$::Eu não sei que tipo de lugar a torre do relógio é, mas eu tenho certeza que a Tohsaka vai ficar ainda mais ocupada. ...Então deve ser melhor eu ir pra lá depois de virar um mago adequado sozinho.[lr]::
+30465::$$$message_0242_0089_0002$$$::Sim, isso soa bem.[lr]::
+30466::$$$message_0242_0089_0003$$$::Acima de tudo, Londres não é pra mim. Eu aposto que vou desmaiar se eu for lá e tiver cheia de pessoas como o Kotomine[line4]::
+30467::$$$message_0242_0090_0000$$$::"......Ei. Você tá me ouvindo, Emiya-kun?"[lr]::
+30468::$$$message_0242_0090_0001$$$::"Huh? Você tava falando algo, Tohsaka?"[lr]::
+30469::$$$message_0242_0090_0002$$$::"............"[lr]::
+30470::$$$message_0242_0090_0003$$$::A Tohsaka faz um olhar severo e fecha sua boca.[lr]::
+30471::$$$message_0242_0090_0004$$$::[line3]Então.[lr]::
+30472::$$$message_0242_0090_0005$$$::Depois de respirar fundo, ela faz um rosto sério e...::
+30473::$$$message_0242_0091_0000$$$::"Eu esqueci de te contar, mas eu tô sendo convidada como a sucessora da família Tohsaka. Em outras palavras, eu posso ganhar um quarto adequado como um mago adequado."[lr]::
+30474::$$$message_0242_0091_0001$$$::...Ela diz algo estranho.::
+30475::$$$message_0242_0092_0000$$$::"...?"[lr]::
+30476::$$$message_0242_0092_0001$$$::"Eu tô te dizendo que eles me aprovam como um mago adequado. Então não é incomum eu ter um aprendiz ou dois, certo?[lr]::
+30477::$$$message_0242_0092_0002$$$::Tem disputas de facção lá, então eu tenho permissão pra trazer pelo menos um dos meus aprendizes."[lr]::
+30478::$$$message_0242_0092_0003$$$::A Tohsaka olha pra mim.::
+30479::$$$message_0242_0093_0000$$$::"[line4]Uhm, isso é..."[lr]::
+30480::$$$message_0242_0093_0001$$$::Eu talvez seja franco, mas eu sei o que a Tohsaka tá tentando dizer.[lr]::
+30481::$$$message_0242_0093_0002$$$::Em outras palavras...::
+30482::$$$message_0242_0094_0000$$$::"Sim. Eu posso incondicionalmente trazer um seguidor como um assistente. Você não vai ter que tomar o teste desse jeito, e você não vai ter que pagar taxas de estudo.[lr]::
+30483::$$$message_0242_0094_0001$$$::...Bom, mas você vai estar numa posição desvantajosa já que você vai ser um estudante da associação dos magos sem ser parte dela."::
+30484::$$$message_0242_0095_0000$$$::"[line8]"[lr]::
+30485::$$$message_0242_0095_0001$$$::Minha cabeça volta a pensar.[lr]::
+30486::$$$message_0242_0095_0002$$$::Não, eu forço ela a voltar a funcionar.[lr]::
+30487::$$$message_0242_0095_0003$$$::O que a Tohsaka tá me falando...[lr]::
+30488::$$$message_0242_0095_0004$$$::Eu ponho cada célula do meu cérebro pra funcionar pra pesar as opções que eu tenho.[lr]::
+30489::$$$message_0242_0095_0005$$$::Eu devo parecer engraçado, já que a Tohsaka tá rindo.::
+30490::$$$message_0242_0096_0000$$$::"O-O quê? Eu não tô considerando ir pra lá porque você me convenceu, tudo bem?"[lr]::
+30491::$$$message_0242_0096_0001$$$::"Isso é tudo que você quer me contar? Bom, eu tô indo pra Londres."::
+30492::$$$message_0242_0097_0000$$$::Ela me olha gentilmente.[lr]::
+30493::$$$message_0242_0097_0001$$$::Então, a Tohsaka faz uma expressão maliciosa.[lr]::
+30494::$$$message_0242_0097_0002$$$::"Então, o que você vai fazer, Shirou?"[lr]::
+30495::$$$message_0242_0097_0003$$$::Ela me pergunta gentilmente, com olhos que enxergam dentro de mim.::
+30496::$$$message_0242_0098_0000$$$::"[line8]"[lr]::
+30497::$$$message_0242_0098_0001$$$::Meu rosto fica vermelho.[lr]::
+30498::$$$message_0242_0098_0002$$$::As palavras e expressão dela destroem minha hostilidade e desgosto da associação dos magos.[lr]::
+30499::$$$message_0242_0098_0003$$$::...É isso que eu quis dizer sobre a Tohsaka segurar minha fraqueza.[lr]::
+30500::$$$message_0242_0098_0004$$$::Eu não posso fazer nada já que eu me apaixonei por ela.::
+30501::$$$message_0242_0099_0000$$$::"Ah, por que ficar silencioso agora? Eu não ouvi sua resposta ainda."[lr]::
+30502::$$$message_0242_0099_0001$$$::Ela continua sorrindo maliciosamente.[lr]::
+30503::$$$message_0242_0099_0002$$$::Ela sabe a minha resposta, mas ela impiedosamente continua me atacando.::
+30504::$$$message_0242_0100_0000$$$::"Uh... Eu, uhm..."[lr]::
+30505::$$$message_0242_0100_0001$$$::Pra ser honesto, Londres é longe, mas eu não consigo me imaginar sendo ensinado por alguém além da Tohsaka.[lr]::
+30506::$$$message_0242_0100_0002$$$::E eu nunca pensei em me separar dela.[lr]::
+30507::$$$message_0242_0100_0003$$$::Acima de tudo, eu quero ficar com a Tohsaka.::
+30508::$$$message_0242_0101_0000$$$::"Seja claro, isso é importante.[lr]::
+30509::$$$message_0242_0101_0001$$$::Você ainda vai vir comigo, mesmo que seja como meu assistente?"[lr]::
+30510::$$$message_0242_0102_0000$$$::"C-Cala boca, sua idiota...! Sua idiota, idiota, idiota! S-S-Se é tão importante, me conta em um lugar mais apropriado! Eu não posso te responder quando é tão repentino...!!!"::
+30511::$$$message_0242_0103_0000$$$::Eu não sei o que vai acontecer comigo se eu continuar encarando ela, então eu me viro.[lr]::
+30512::$$$message_0242_0103_0001$$$::...Eu ainda sinto a presença da Tohsaka.[lr]::
+30513::$$$message_0242_0103_0002$$$::Ela tá alegremente assistindo minha reação.::
+30514::$$$message_0242_0104_0000$$$::"Ei, Shirou. Qual é a sua resposta?"[lr]::
+30515::$$$message_0242_0104_0001$$$::Ela murmura gentilmente.[lr]::
+30516::$$$message_0242_0104_0002$$$::.........Ela me derrotou.[lr]::
+30517::$$$message_0242_0104_0003$$$::É tão difícil assim acenar com a cabeça e responder honestamente?[lr]::
+30518::$$$message_0242_0104_0004$$$::"..........."[lr]::
+30519::$$$message_0242_0104_0005$$$::Mas eu não consigo me virar a não ser que eu diga pra ela.::
+30520::$$$message_0242_0105_0000$$$::".....Sua idiota. Não me pergunta algo tão óbvio."[lr]::
+30521::$$$message_0242_0105_0001$$$::Eu encontro o olhar da Tohsaka e digo minha opinião honesta pra ela.[lr]::
+30522::$$$message_0242_0105_0002$$$::O sorriso dela aumenta com essas palavras.::
+30523::$$$message_0242_0105_0003$$$::"[line3]Tudo bem, então me dê suas melhores intenções daqui em diante, Emiya-kun.[lr]::
+30524::$$$message_0242_0105_0004$$$::Eu vou te treinar até você virar um mago adequado, então se prepara."::
+30525::$$$message_0242_0106_0000$$$::"...Eu te digo o mesmo. Eu levei isso a sério. Eu vou ser ensinado por você até eu virar um mago adequado."[lr]::
+30526::$$$message_0242_0106_0001$$$::"Óbvio. Eu vou fazer você virar um homem honesto e ter uma vida feliz. Eu não vou permitir você desistir só por ter sido levado até Londres."::
+30527::$$$message_0242_0107_0000$$$::Onde que foi a beleza anterior dela?[lr]::
+30528::$$$message_0242_0107_0001$$$::Ela fala isso com um sorriso desafiador e pula da cadeira.::
+30529::$$$message_0242_0108_0000$$$::...O por do sol deve acabar logo.[lr]::
+30530::$$$message_0242_0108_0001$$$::As férias de primavera vão acabar, abril vai chegar, e mais um ano vai passar rapidamente.[lr]::
+30531::$$$message_0242_0108_0002$$$::Nós vamos nos separar desse cenário até então.[lr]::
+30532::$$$message_0242_0108_0003$$$::Depois de um ano...[lr]::
+30533::$$$message_0242_0108_0004$$$::A Tohsaka e eu vamos gastar nossos últimos dias de vida de estudante aqui.::
+30534::$$$message_0242_0109_0000$$$::"Vamos pra casa. Vai ser um jantar animado na sua casa hoje."[lr]::
+30535::$$$message_0242_0109_0001$$$::Nós saímos da classe sem memórias remanescentes.[lr]::
+30536::$$$message_0242_0109_0002$$$::Nós ainda conseguimos ouvir as atividades de clube lá fora.[lr]::
+30537::$$$message_0242_0109_0003$$$::Os sons estão distantes, e eles me lembram da luta de espadas.::
+30538::$$$message_0242_0110_0000$$$::Eu não posso ficar no mesmo lugar para sempre.[lr]::
+30539::$$$message_0242_0110_0001$$$::A Tohsaka e eu vamos para um lugar novo em um ano.[lr]::
+30540::$$$message_0242_0110_0002$$$::Deve demorar um pouco até eu descobrir se foi a decisão correta ou não.::
+30541::$$$message_0242_0111_0000$$$::Eu relembro a figura vermelha mais uma vez.[lr]::
+30542::$$$message_0242_0111_0001$$$::Nem essa classe nem aquela luta vão mudar.[lr]::
+30543::$$$message_0242_0111_0002$$$::Tudo é o mesmo.[lr]::
+30544::$$$message_0242_0111_0003$$$::Tudo é uma ilusão assim como uma miragem que desaparece quando alguém se vira.::
+30545::$$$message_0242_0112_0000$$$::Mas eu consigo chegar lá se eu mirar alto.::
+30546::$$$message_0242_0112_0001$$$::Eu com certeza vou ser capaz de alcançar as costas dele com a ajuda da Tohsaka.[lr]::
+30547::$$$message_0242_0112_0002$$$::Então eu vou chegar a uma resposta nessa hora.::
+30548::$$$message_0242_0113_0000$$$::...As espadas que ecoam distantemente.[lr]::
+30549::$$$message_0242_0113_0001$$$::Dependendo destes sons, eu irei eventualmente chegar a aquele lugar.::
+30550::$$$message_0242_0114_0000$$$::[line3]O que veio e foi foram memórias distantes.[lr]::
+30551::$$$message_0242_0114_0001$$$::Elas eram sinais que ele esqueceu e jogou fora, algo que não podia ser retornado.::
+30552::$$$message_0242_0115_0000$$$::As faíscas das espadas colidindo.[lr]::
+30553::$$$message_0242_0115_0001$$$::Espíritos colidindo.[lr]::
+30554::$$$message_0242_0115_0002$$$::Várias dúzias de ataques e defesas não habilidosas.[lr]::
+30555::$$$message_0242_0115_0003$$$::Eles eram ataques desastrados que só tentavam negar um ao outro.[lr]::
+30556::$$$message_0242_0115_0004$$$::Por que algo assim reviveu uma promessa esgotada?::
+30557::$$$message_0242_0116_0000$$$::[line3]Eles foram ataques impossíveis.::
+30558::$$$message_0242_0117_0000$$$::O corpo impulsionado dele está coberto de feridas.[lr]::
+30559::$$$message_0242_0117_0001$$$::Os dedos dele estão quebrados, seus membros cortados, a respiração dele já parou embora o garoto ainda não saiba disso.[lr]::
+30560::$$$message_0242_0117_0002$$$::Mesmo em ímpeto, a velocidade dele é insignificante, e os ataques dele são medíocres.[lr]::
+30561::$$$message_0242_0117_0003$$$::Embora ele tenha absorvido a habilidade de combate dele, as técnicas dele agora estão tão desastradas quanto as de um amador novamente.::
+30562::$$$message_0242_0118_0000$$$::O ataque dele é executado aleatoriamente.[lr]::
+30563::$$$message_0242_0118_0001$$$::Mas...[lr]::
+30564::$$$message_0242_0118_0002$$$::O ataque dele é mais pesado do que qualquer um que veio antes.::
+30565::$$$message_0242_0119_0000$$$::Não há super herói.[lr]::
+30566::$$$message_0242_0119_0001$$$::A mente do garoto é obliterada por aquele que cresceu para perceber esse fato mais que qualquer um.[lr]::
+30567::$$$message_0242_0119_0002$$$::A mente distorcida deveria desabar pelo estresse.[lr]::
+30568::$$$message_0242_0119_0003$$$::É óbvio que o garoto vai ser devorado pela contradição dele.::
+30569::$$$message_0242_0120_0000$$$::Mas onde estão os sinais da derrota dele?[lr]::
+30570::$$$message_0242_0120_0001$$$::Ele move seu corpo ferido e arruma sua mente enfraquecida, mas não há hesitação nos ataques dele.::
+30571::$$$message_0242_0121_0000$$$::A fúria dele é incomparável a anterior.[lr]::
+30572::$$$message_0242_0121_0001$$$::O garoto balança sua espada descuidadamente.[lr]::
+30573::$$$message_0242_0121_0002$$$::Os ataques são igualmente parados.[lr]::
+30574::$$$message_0242_0121_0003$$$::O espaço é preenchido por faíscas e tudo entrando nele será cortado em pedaços.[lr]::
+30575::$$$message_0242_0121_0004$$$::É a encarnação da mente deles que funde mesmo eles repelindo um ao outro.::
+30576::$$$message_0242_0122_0000$$$::O ataque desesperado.[lr]::
+30577::$$$message_0242_0122_0001$$$::É somente uma faísca morrendo que um homem dá em seu último momento.[lr]::
+30578::$$$message_0242_0122_0002$$$::O garoto arfa com cada ataque, quase cai, se arruma, e ataca ainda de novo.::
+30579::$$$message_0242_0123_0000$$$::"[line8]"[lr]::
+30580::$$$message_0242_0123_0001$$$::Vendo isso, ele fica confiante.[lr]::
+30581::$$$message_0242_0123_0002$$$::Seu inimigo não possui mais poder.[lr]::
+30582::$$$message_0242_0123_0003$$$::O garoto na frente dele é um cadáver.[lr]::
+30583::$$$message_0242_0123_0004$$$::Mas...[lr]::
+30584::$$$message_0242_0123_0005$$$::Por que há um poder infinito nos braços dele segurando a espada?::
+30585::$$$message_0242_0124_0000$$$::Ele vê uma ilusão.[lr]::
+30586::$$$message_0242_0124_0001$$$::Deve ser porque ele ficou entediado em ver alguém atacando mesmo sabendo que é inútil.[lr]::
+30587::$$$message_0242_0124_0002$$$::A irritação ferve o impulso mais detestável dele.::
+30588::$$$message_0242_0125_0000$$$::...O que ele sentia era bonito e nobre?::
+30589::$$$message_0242_0126_0000$$$::O garoto havia dito...[lr]::
+30590::$$$message_0242_0126_0001$$$::Ele não quer ver pessoas morrerem insignificantemente.[lr]::
 30591::$$$message_0242_0126_0002$$$::Ele quer salvar todo mundo que está em perigo se eles podem ser salvos.::
 30592::$$$message_0242_0127_0000$$$::É fora de questão.[lr]::
 30593::$$$message_0242_0127_0001$$$::Ele sabe que um desejo assim é uma hipocrisia sem sentido.[lr]::
