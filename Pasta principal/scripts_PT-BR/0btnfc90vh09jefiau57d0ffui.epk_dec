@@ -105,7 +105,7 @@ id=qid::label=str::text=lstr::
 77806::$$$message_0723_0030_0001$$$::Rider faz de tudo para se erguer do lago de sangue.[lr]::
 77807::$$$message_0723_0030_0002$$$::Mas não consegue se levantar.[lr]::
 77808::$$$message_0723_0030_0003$$$::O ferimento é fatal. Mesmo sendo um Servo, ela não vai sobreviver por muito tempo se não receber tratamento logo.::
-77809::$$$message_0723_0031_0000$$$::"Merda! Levanta e luta, sua morta-viva! Você nem está viva, então quem liga se se machucar!? Porra, por que está aí parada!? Você está me fazendo parecer um fracassado!"[lr]::
+77809::$$$message_0723_0031_0000$$$::"Merda! Levanta e luta, sua morta-viva! Você nem está viva, então quem liga se você se machucar!? Porra, por que está aí parada!? Você está me fazendo parecer um fracassado!"[lr]::
 77810::$$$message_0723_0031_0001$$$::Shinji despeja insultos em Rider.[lr]::
 77811::$$$message_0723_0031_0002$$$::Saber não aprova aquilo.::
 77812::$$$message_0723_0032_0000$$$::"Culpe a si mesmo antes de culpá-la. Por maior que seja um Espírito Heroico, ele não consegue mostrar seu verdadeiro valor sem um Mestre à altura."::
@@ -142,7 +142,7 @@ id=qid::label=str::text=lstr::
 77843::$$$message_0723_0044_0000$$$::"V-Vovô? Foi você[line2]"[lr]::
 77844::$$$message_0723_0044_0001$$$::"Quem mais seria, seu tolo? Você quase fez seu Servo morrer. E ainda ousa dizer que tem o meu sangue?"::
 77845::$$$message_0723_0045_0000$$$::"...! P-por que você se meteu no que eu estava fazendo!? Tudo o que eu precisava era vencer! [font italic=true]Eu[font italic=false] sou o herdeiro da Família Matou, então sabia que não podia me dar ao luxo de perder para gente como ele!"::
-77846::$$$message_0723_0046_0000$$$::Shinji se arrasta até o velho, como se se agarrasse às pernas dele.[lr]::
+77846::$$$message_0723_0046_0000$$$::Shinji se arrasta até o velho, como quem se agarra às pernas dele.[lr]::
 77847::$$$message_0723_0046_0001$$$::Agora que perdeu Rider e foi encurralado por nós, não lhe resta escolha a não ser depender do velho.[lr]::
 77848::$$$message_0723_0046_0002$$$::E, ainda assim...::
 77849::$$$message_0723_0047_0000$$$::"...Seu simplório. Nunca esperei que um fracassado como você tivesse sucesso. Só queria ver você enfrentar o desafio apesar da própria fraqueza, como convém à nossa linhagem.[lr]::

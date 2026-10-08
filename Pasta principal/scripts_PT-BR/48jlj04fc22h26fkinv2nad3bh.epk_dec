@@ -35,7 +35,7 @@ id=qid::label=str::text=lstr::
 44733::$$$message_0397_0011_0002$$$::Eu não tenho o elemento mágico, então eu não acho que conseguiria fazer isso.::
 44734::$$$message_0397_0012_0000$$$::"Se isso funcionasse, eu já teria feito isso. Mas eu sou a única que consegue converter minhas pedras, então isso tá fora.[lr]::
 44735::$$$message_0397_0012_0001$$$::...Mas o único jeito é esse.[lr]::
-44736::$$$message_0397_0012_0002$$$::Tem vários procedimentos para se usar a energia mágica de outra pessoa como a sua, mas a única coisa coisa que a gente pode fazer agora é essa, então[line3]"::
+44736::$$$message_0397_0012_0002$$$::Tem vários procedimentos para se usar a energia mágica de outra pessoa como a sua, mas a única coisa que a gente pode fazer agora é essa, então[line3]"::
 44737::$$$message_0397_0013_0000$$$::"...Ei, Tohsaka. Você pode ao menos me contar o que você tá pensando? Eu não consigo participar em uma discussão assim."[lr]::
 44738::$$$message_0397_0013_0001$$$::"Huh? [wait canskip=0 time=600][chgfg textoff=0 time=300 storage=凛私服14a(中)]N-Não tem chance alguma de eu te contar isso!"::
 44739::$$$message_0397_0014_0000$$$::...Hmpf.[lr]::
@@ -75,7 +75,7 @@ id=qid::label=str::text=lstr::
 44773::$$$message_0397_0026_0000$$$::E logo assim.[lr]::
 44774::$$$message_0397_0026_0001$$$::Eu tinha me preparado, mas ela rapidamente rejeita minha sugestão.::
 44775::$$$message_0397_0027_0000$$$::"P-Por quê?"[lr]::
-44776::$$$message_0397_0027_0001$$$::"Olha. Em primeiro lugar, a razão pela qual a gente tá transferindo energia mágica é pra que você consiga usar sua realidade interior, certo? Então por que que a gente tiraria os seus circuitos?[lr]::
+44776::$$$message_0397_0027_0001$$$::"Olha. Em primeiro lugar, a razão pela qual a gente tá transferindo energia mágica é pra que você consiga usar sua realidade interior, certo? Então por que a gente tiraria os seus circuitos?[lr]::
 44777::$$$message_0397_0027_0002$$$::Só com a minha energia mágica e todos os seus circuitos mágicos que você vai ser capaz de materializar aquela realidade interior."[lr]::
 44778::$$$message_0397_0027_0003$$$::"[line6]"::
 44779::$$$message_0397_0028_0000$$$::...Entendi.[lr]::

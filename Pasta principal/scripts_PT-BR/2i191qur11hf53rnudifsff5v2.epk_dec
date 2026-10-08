@@ -212,7 +212,7 @@ id=qid::label=str::text=lstr::
 44078::$$$message_0392_0062_0003$$$::Saber diz com determinação.[lr]::
 44079::$$$message_0392_0062_0004$$$::Irritado com as palavras dela, Archer aperta suas espadas.::
 44080::$$$message_0392_0063_0000$$$::"Eu poderia perguntar o mesmo a você, Archer. O que vai fazer? Se ainda pretende matar Shirou, terá que passar por mim.[lr]::
-44081::$$$message_0392_0063_0001$$$::Agora é sua chance de repensar sua decisão. Se se voltar contra mim agora, bem, tenho certeza de que até você entende como suas chances são pequenas."::
+44081::$$$message_0392_0063_0001$$$::Agora é sua chance de repensar sua decisão. Se você se voltar contra mim agora, bem, tenho certeza de que até você entende como suas chances são pequenas."::
 44082::$$$message_0392_0064_0000$$$::As palavras de Saber são verdadeiras.[lr]::
 44083::$$$message_0392_0064_0001$$$::Saber em sua condição atual poderia enfrentar Berserker sozinha e ainda sair vitoriosa.[lr]::
 44084::$$$message_0392_0064_0002$$$::Não importa quem Archer seja, ele não pode vencer Saber.[lr]::
@@ -301,7 +301,7 @@ id=qid::label=str::text=lstr::
 44167::$$$message_0392_0092_0001$$$::Se você ficar no meu caminho... então este mundo que estou criando não vai se conter em destruí-la."::
 44168::$$$message_0392_0093_0000$$$::Ele ergue o braço esquerdo.[lr]::
 44169::$$$message_0392_0093_0001$$$::Isso significa que está completando seu encantamento?::
-44170::$$$message_0392_0094_0000$$$::                                   "[ruby text=Este corpo, com certeza, era feito de espadas. char=21]Unlimited Blade Works!"::
+44170::$$$message_0392_0094_0000$$$::                                   "[ruby text=Este corpo, com certeza, foi feito de espadas. char=21]Unlimited Blade Works!"::
 44171::$$$message_0392_0095_0000$$$::Com uma frase clara, ele começa a exercer sua influência sobre o mundo.::
 44172::$$$message_0392_0096_0000$$$::...Chamas irrompem.[lr]::
 44173::$$$message_0392_0096_0001$$$::As chamas percorrem o chão, como se desenhassem uma linha.[lr]::
@@ -377,7 +377,7 @@ id=qid::label=str::text=lstr::
 44243::$$$message_0392_0116_0001$$$::Se meus olhos não conseguem acompanhar a enxurrada de espadas, então o que preciso fazer agora é deixar meus sentidos assumirem e analisá-las.[lr]::
 44244::$$$message_0392_0116_0002$$$::Mesmo que minha cabeça não consiga processar mais rápido, ainda vou forçá-la além do limite.::
 44245::$$$message_0392_0117_0000$$$::A próxima onda de espadas se aproxima.[lr]::
-44246::$$$message_0392_0117_0001$$$::Parece que o cão de uma arma bate na parte de trás da minha cabeça.::
+44246::$$$message_0392_0117_0001$$$::Sinto que recebi uma coronhada atrás da cabeça.::
 44247::$$$message_0392_0118_0000$$$::"Não[line2]"[lr]::
 44248::$$$message_0392_0118_0001$$$::Estendo meu braço esquerdo.[lr]::
 44249::$$$message_0392_0118_0002$$$::Não tenho um pingo de dúvida.[lr]::
