@@ -23,13 +23,13 @@ id=qid::label=str::string=lstr::
 49::string_msg_qsave::Salvamento rápido concluído.::
 50::string_msg_qload::Carregamento rápido concluído.::
 51::string_msg_loadscene1::Cena carregada.::
-52::string_msg_newdojo::Nova cena do Dojo do Tigre adicionada.::
+52::string_msg_newdojo::Nova cena do Dojô da Tigresa adicionada.::
 53::string_msg_newdata::Novos dados salvos criados.::
 54::string_msg_overwrite::Dados sobrescritos.::
 55::string_msg_deletedata::Dados salvos excluídos.::
 56::string_sys_saveslot_full::Não há espaços livres para salvar.	Sobrescreva um arquivo ou exclua um para liberar espaço.::
 57::stirng_continue_warn::Recomeçar do último ponto de decisão?::
-60::stirng_dojo_warn::O Dojo do Tigre fica logo adiante.	Gostaria de receber um conselho?::
+60::stirng_dojo_warn::O Dojô da Tigresa fica logo adiante.	Gostaria de receber um conselho?::
 61::string_exit_warn::Sair do jogo?::
 62::string_reset_warn1::Mudar tudo para as opções recomendadas?::
 63::string_reset_warn2::Restaurar todas as configurações padrão?::
@@ -265,7 +265,7 @@ id=qid::label=str::string=lstr::
 24006::m_flow_route_h::Heaven's Feel::
 24007::m_flow_route_p::Prólogo::
 24008::m_flow_route_l::Last Episode::
-24009::m_flow_route_t::Dojo do Tigre::
+24009::m_flow_route_t::Dojô da Tigresa::
 24010::m_flow_d_1_31::31/1::
 24011::m_flow_d_2_01::1/2::
 24012::m_flow_d_2_02::2/2::
@@ -669,7 +669,7 @@ id=qid::label=str::string=lstr::
 50011::m_save_tag3::Unlimited Blade Works::
 50012::m_save_tag4::Heaven's Feel::
 50013::m_save_tag5::Last Episode::
-50014::m_save_tag6::Dojo do Tigre::
+50014::m_save_tag6::Dojô da Tigresa::
 60001::m_load_title::Carregar::
 60002::m_load_atslot::Auto::
 60003::m_load_qslot::Rápido::
@@ -987,8 +987,8 @@ id=qid::label=str::string=lstr::
 100310::10_menu_02a_04::Reproduzir vídeos.::
 100311::10_menu_02a_05::Lista de Finais::
 100312::10_menu_02a_06::Ver a lista de finais.::
-100313::10_menu_02a_07::Carimbos do Tigre::
-100314::10_menu_02a_08::Verificar seus Carimbos do Tigre.::
+100313::10_menu_02a_07::Selos da Tigresa::
+100314::10_menu_02a_08::Verificar seus Selos da Tigresa.::
 100315::10_menu_03a_01::Personagem::
 100316::10_menu_03a_02::Ver os personagens.::
 100317::10_menu_03a_03::Arma::
@@ -1047,7 +1047,7 @@ id=qid::label=str::string=lstr::
 100370::20_bgm_38a::Melodia radiante::
 100371::20_bgm_39a::Encrenqueiros::
 100372::20_bgm_40a::Sino do coração::
-100373::20_bgm_41a::Tema do Dojo do Tigre::
+100373::20_bgm_41a::Tema do Dojô da Tigresa::
 100374::20_bgm_42a::Hora demoníaca::
 100375::20_bgm_43a::Confronto::
 100376::20_bgm_44a::Sonic Barrage::
@@ -1088,7 +1088,7 @@ id=qid::label=str::string=lstr::
 100411::30_stitle_02a::Unlimited Blade Works::
 100412::30_stitle_03a::Heaven's Feel::
 100413::30_text_00a::Vídeo::
-100414::30_title_00a_01::Carimbos do Tigre::
+100414::30_title_00a_01::Selos da Tigresa::
 100415::30_title_00a_02::Carimbos do Tigre::
 100416::30_title_01a_01::Lista de Finais::
 100417::30_title_01a_02::Ver a lista de finais.::
@@ -1480,9 +1480,9 @@ id=qid::label=str::string=lstr::
 100807::g_stagestart031::Não leve este castelo para o Japão::
 100808::g_stagestart032::Vá para Casa, Einzbern::
 100809::g_stagestart033::ESTÁGIO #03::
-100810::g_tigerttl_rina::Dojo do Tigre::
-100811::g_tigerttl_rinb::Dojo do Tigre::
-100812::g_tigerttl_skrb::Dojo do Tigre::
+100810::g_tigerttl_rina::Dojô da Tigresa::
+100811::g_tigerttl_rinb::Dojô da Tigresa::
+100812::g_tigerttl_skrb::Dojô da Tigresa::
 100813::g_time544::5:44::
 100814::g_time545::5:45::
 100815::g_japunika1_1::Série de Extermínio para Boas Crianças::
@@ -1494,10 +1494,10 @@ id=qid::label=str::string=lstr::
 100821::g_japunika1_7::Legal com Shirou::
 100822::g_japunika1_8::Ano    Turma    Nome::
 100823::g_japunika1_9::Illya::
-100824::g_tigerstamp::Dojo do Tigre::
-100825::g_tkmk_b::Dojo do Tigre	Presságio de Paixão::
-100826::g_tkmk_e::Dojo do Tigre	Presságio de Paixão::
-100827::g_rizstamp::Dojo do Tigre::
+100824::g_tigerstamp::Dojô da Tigresa::
+100825::g_tkmk_b::Dojô da Tigresa	Presságio de Paixão::
+100826::g_tkmk_e::Dojô da Tigresa	Presságio de Paixão::
+100827::g_rizstamp::Dojô da Tigresa::
 100828::g_101curse_ca::Venha::
 100829::g_102curse_cab::...Venha...::
 100830::g_103curse_cac::Venha logo. Venha aqui, garoto.::
@@ -2028,7 +2028,7 @@ id=qid::label=str::string=lstr::
 101370::g_intld16-4sa_1::interlúdio 16-4::
 101371::g_intld16-4sa_2::Heaven's Feel.::
 101372::g_intld_out::fim do interlúdio::
-101373::g_tigercaution::O Dojo do Tigre é um quadro de dicas descontraído.	Se quiser terminar o jogo por conta própria ou	preservar a imagem dos personagens da história principal, prossiga com cautela.::
+101373::g_tigercaution::O Dojô da Tigresa é um quadro de dicas descontraído.	Se quiser terminar o jogo por conta própria ou	preservar a imagem dos personagens da história principal, prossiga com cautela.::
 101374::g_letext001::"Estou de volta, Saber."::
 101375::title00_17::REMASTERED::
 101376::g_date_1_31::31 de janeiro::

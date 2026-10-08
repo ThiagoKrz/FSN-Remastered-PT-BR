@@ -17,7 +17,7 @@ id=qid::label=str::text=lstr::
 72281::$$$message_0664_0004_0000$$$::"Sem chance[w l=4][line4][l]::
 72282::$$$message_0664_0004_0001$$$::Es erz[auml]hlt[w l=3][line3]Mein Schatten nimmt sie...!"[lr]::
 72283::$$$message_0664_0004_0002$$$::"Você é muito persistente...! Geb[uuml]hr, Zweih[auml]nder......!"::
-72284::$$$message_0664_0005_0000$$$::A espada de jóias arde com a luz.[lr]::
+72284::$$$message_0664_0005_0000$$$::A Espada de Joias arde com a luz.[lr]::
 72285::$$$message_0664_0005_0001$$$::A lâmina incolor emite as sete cores prismáticas, surgindo um poder extraordinário de dentro do seu núcleo.::
 72286::$$$message_0664_0006_0000$$$::"Es l[auml]sst frei. Eilesalve[w l=4][line4]!"[lr]::
 72287::$$$message_0664_0006_0001$$$::Ela banha a caverna com uma luz dourada...!::
@@ -41,7 +41,7 @@ id=qid::label=str::text=lstr::
 72305::$$$message_0664_0015_0000$$$::"......É aquela espada? Não acho que seja possível, mas isso seria copiar o poder do Fantasma Nobre da Saber. Essa é uma arma limitada, ativada com a sua pequena energia mágica e que é especializada em matar sombras?"[lr]::
 72306::$$$message_0664_0015_0001$$$::"Huh? Você não sabe o que é isso? O que eles estiveram te ensinando, Sakura?"::
 72307::$$$message_0664_0016_0000$$$::"O qu[w l=4][line4]Não tire sarro de mim...! Essa é a única explicação plausível..."[lr]::
-72308::$$$message_0664_0016_0001$$$::"Não tem muito o que explicar. Isso não é uma cópia da espada da Saber, muito menos uma espada demoníaca matadora de sombras. Sakura. Isso é Zelretch, uma espada de jóias que foi passada através de gerações na família Tohsaka."::
+72308::$$$message_0664_0016_0001$$$::"Não tem muito o que explicar. Isso não é uma cópia da espada da Saber, muito menos uma espada demoníaca matadora de sombras. Sakura. Isso é Zelretch, uma Espada de Joias que foi passada através de gerações na família Tohsaka."::
 72309::$$$message_0664_0017_0000$$$::"Eh...? Zelretch...?"[lr]::
 72310::$$$message_0664_0017_0001$$$::"Não acredito nisso. Você nem sequer conhece o nome Zelretch?[lr]::
 72311::$$$message_0664_0017_0002$$$::...Eu não quero nem explicar, mas resumindo, ele é seu inimigo natural.[lr]::
@@ -71,7 +71,7 @@ id=qid::label=str::text=lstr::
 72335::$$$message_0664_0025_0000$$$::Matou Sakura está assustada e confusa.[lr]::
 72336::$$$message_0664_0025_0001$$$::É por isso que ela não percebe.[lr]::
 72337::$$$message_0664_0025_0002$$$::O suor na testa da Tohsaka Rin.[lr]::
-72338::$$$message_0664_0025_0003$$$::O alto custo em usar a espada de jóias, que rasga os músculos do seu braço a cada ataque.::
+72338::$$$message_0664_0025_0003$$$::O alto custo em usar a Espada de Joias, que rasga os músculos do seu braço a cada ataque.::
 72339::$$$message_0664_0026_0000$$$::"[w l=4][line4]Não vou perder em estoque, mas a questão é até quando o meu corpo vai aguentar[w l=4][line4]"::
 72340::$$$message_0664_0027_0000$$$::A luz purifica as sombras que atacam.[lr]::
 72341::$$$message_0664_0027_0001$$$::Mas seus poderes não são iguais.[lr]::
@@ -95,7 +95,7 @@ id=qid::label=str::text=lstr::
 72359::$$$message_0664_0031_0004$$$::Nem precisa ser dito que é a sua espada quem cria a competição que antes era impossível.::
 72360::$$$message_0664_0032_0000$$$::Uma espada de luz que libera mil unidades de energia mágica a cada ataque e recupera ainda mais energia.[lr]::
 72361::$$$message_0664_0032_0001$$$::Ela não está usando a energia mágica da Tohsaka Rin.[lr]::
-72362::$$$message_0664_0032_0002$$$::Ela está apenas coletando a mana saturada nessa caverna e liberando ela através da espada de jóias.::
+72362::$$$message_0664_0032_0002$$$::Ela está apenas coletando a mana saturada nessa caverna e liberando ela através da Espada de Joias.::
 72363::$$$message_0664_0033_0000$$$::Od é a energia dentro do mago, enquanto mana é a energia no ar.[lr]::
 72364::$$$message_0664_0033_0001$$$::É evidente por si só qual das duas é mais forte.[lr]::
 72365::$$$message_0664_0033_0002$$$::Como a Rin é inferior à Sakura, a única coisa em que ela pode confiar é na mana presente no ar.::
@@ -117,7 +117,7 @@ id=qid::label=str::text=lstr::
 72381::$$$message_0664_0040_0001$$$::A garota que está drenando um suprimento massivo do Santo Graal Maior ofega.::
 72382::$$$message_0664_0041_0000$$$::"Impossível. Isso é ridículo...!"[lr]::
 72383::$$$message_0664_0041_0001$$$::"Você entendeu, Sakura? Se você tem um estoque inesgotável, eu tenho um estoque ilimitado[w l=4][line4]!"::
-72384::$$$message_0664_0042_0000$$$::[w l=4][line4]Espada de Jóias Zelretch..[lr]::
+72384::$$$message_0664_0042_0000$$$::[w l=4][line4]Espada de Joias Zelretch..[lr]::
 72385::$$$message_0664_0042_0001$$$::É um "milagre" que cria um caminho entre os infinitos mundos paralelos.[lr]::
 72386::$$$message_0664_0042_0002$$$::Essa é a única habilidade da espada.[lr]::
 72387::$$$message_0664_0042_0003$$$::Um equipamento que cria uma abertura pequena demais para um humano passar e busca um possível mundo paralelo.[lr]::
@@ -132,7 +132,7 @@ id=qid::label=str::text=lstr::
 72396::$$$message_0664_0045_0002$$$::Um estoque inesgotável e um estoque infinito.[lr]::
 72397::$$$message_0664_0045_0003$$$::Como o poder dos seus Circuitos Mágicos são iguais, as duas magas estão igualadas[w l=4][line4]!::
 72398::$$$message_0664_0046_0000$$$::...Outro estrondo ecoa pelo espaço.[lr]::
-72399::$$$message_0664_0046_0001$$$::A espada de jóias da Rin não destrói apenas as sombras.[lr]::
+72399::$$$message_0664_0046_0001$$$::A Espada de Joias da Rin não destrói apenas as sombras.[lr]::
 72400::$$$message_0664_0046_0002$$$::Sua força excessiva traz lentamente a caverna para mais perto do seu colapso.::
 72401::$$$message_0664_0047_0000$$$::Quando isso acontecer, o altar e o Santo Graal Maior serão destruídos também.[lr]::
 72402::$$$message_0664_0047_0001$$$::Matou Sakura irá perder se ela continuar lutando.[lr]::

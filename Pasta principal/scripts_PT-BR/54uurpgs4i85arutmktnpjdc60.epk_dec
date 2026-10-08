@@ -84,12 +84,12 @@ id=qid::label=str::text=lstr::
 70156::$$$message_0641_0024_0002$$$::...Parece que a Sakura não é a única que está ficando sem tempo.::
 70157::$$$message_0641_0025_0000$$$::"[w l=4][line4]Shirou.[lr]::
 70158::$$$message_0641_0025_0001$$$::Você ouviu o que a Sakura disse. Mas o que você pretende fazer?[lr]::
-70159::$$$message_0641_0025_0002$$$::Se quiser fugir, eu não irei te impedir. Mas se for fazer isso, será depois de projetar a espada de jóias."::
-70160::$$$message_0641_0026_0000$$$::"Não precisa confirmar comigo. Eu não irei fugir, e irei de alguma forma projetar a espada de jóias.[lr]::
+70159::$$$message_0641_0025_0002$$$::Se quiser fugir, eu não irei te impedir. Mas se for fazer isso, será depois de projetar a Espada de Joias."::
+70160::$$$message_0641_0026_0000$$$::"Não precisa confirmar comigo. Eu não irei fugir, e irei de alguma forma projetar a Espada de Joias.[lr]::
 70161::$$$message_0641_0026_0001$$$::Estamos cooperando, não estamos? Então eu vou seguir em frente fazendo as coisas que você não consegue fazer."::
 70162::$$$message_0641_0027_0000$$$::"...Entendi. Isso é bom, mas você entende o que isso significa, Shirou?[lr]::
-70163::$$$message_0641_0027_0001$$$::Vir comigo significa matar a Sakura. O mesmo vale para a espada de jóias. Você vai preparar uma arma que irei usar para matá-la."::
-70164::$$$message_0641_0028_0000$$$::"...Sim. A espada de jóias em si é contraditória. Mas a Sakura está fora do nosso controle, e projetar a espada é uma promessa que eu fiz. Se projetar a espada significa poder enfrentar a sombra da Sakura, então é definitivamente algo que precisamos fazer."::
+70163::$$$message_0641_0027_0001$$$::Vir comigo significa matar a Sakura. O mesmo vale para a Espada de Joias. Você vai preparar uma arma que irei usar para matá-la."::
+70164::$$$message_0641_0028_0000$$$::"...Sim. A Espada de Joias em si é contraditória. Mas a Sakura está fora do nosso controle, e projetar a espada é uma promessa que eu fiz. Se projetar a espada significa poder enfrentar a sombra da Sakura, então é definitivamente algo que precisamos fazer."::
 70165::$$$message_0641_0029_0000$$$::"Ah. Então..."[lr]::
 70166::$$$message_0641_0029_0001$$$::"Sim, estou tomando a medida oposta. Irei terminar essa guerra salvando a Sakura. Eu já decidi que seria o aliado da Sakura."::
 70167::$$$message_0641_0030_0000$$$::"Mesmo se deixar a Sakura viver signifique matar todo mundo?"[lr]::
@@ -112,7 +112,7 @@ id=qid::label=str::text=lstr::
 70184::$$$message_0641_0036_0001$$$::...Hmpf. Tudo bem, faça como quiser. Eu não vou falar mais nada, então se esforça até ficar satisfeito."::
 70185::$$$message_0641_0037_0000$$$::"Hm...?"[lr]::
 70186::$$$message_0641_0037_0001$$$::Pra onde foi o seu nervosismo? A Tohsaka agora parece estar brava agora.::
-70187::$$$message_0641_0038_0000$$$::"Mas não me entenda mal. Isso é em troca de você fazer a espada de jóias.[lr]::
+70187::$$$message_0641_0038_0000$$$::"Mas não me entenda mal. Isso é em troca de você fazer a Espada de Joias.[lr]::
 70188::$$$message_0641_0038_0001$$$::Vou te deixar encarregado de salvar a Sakura enquanto estiver tentando. Eu não vou fazer nada até você não conseguir mais se mexer.[lr]::
 70189::$$$message_0641_0038_0002$$$::...Isso é suficiente, certo? Você talvez consiga salvar a Sakura se você se esforçar bastante."::
 70190::$$$message_0641_0039_0000$$$::Tohsaka vai embora após dizer isso.[lr]::

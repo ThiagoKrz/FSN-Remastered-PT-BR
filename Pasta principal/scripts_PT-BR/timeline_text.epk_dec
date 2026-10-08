@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 79080::$$$message_0053_0103_9002$$$::"Eu lhe pergunto: você é o meu Mestre?"[lr]::
 79081::$$$message_0054_0066_9000$$$::"Vou direto ao ponto. Emiya, você foi escolhido como Mestre.[lr]::
 79082::$$$message_0055_0000_9000$$$::Eu não vou fugir.[lr]::
-79083::$$$message_0056_0000_9000$$$::Olá!!! Sou Fujimura Taiga, instrutora do Dojo do Tigre, o quadro de resgate dos seus sonhos que treina você desde o começo depois de uma morte rápida!::
+79083::$$$message_0056_0000_9000$$$::Olá!!! Sou Fujimura Taiga, instrutora do Dojô da Tigresa, o quadro de resgate dos seus sonhos que treina você desde o começo depois de uma morte rápida!::
 79084::$$$message_0057_0000_9000$$$::O som das espadas de bambu ecoa pelo dojo.[lr]::
 79085::$$$message_0058_0000_9000$$$::Vou chamar a Tohsaka.[lr]::
 79086::$$$message_0059_0000_9000$$$::Vou apenas esperar aqui em silêncio.[lr]::
@@ -72,8 +72,8 @@ id=qid::label=str::text=lstr::
 79094::$$$message_0069_0036_9003$$$::Por algum motivo, a Rider pressiona sua adaga contra o próprio pescoço e...[lr]::
 79095::$$$message_0070_0000_9000$$$::Estou tendo aquele sonho.[lr]::
 79096::$$$message_0071_0000_9000$$$::Estou sonhando.[lr]::
-79097::$$$message_0072_0000_9000$$$::Boa noite! Este é o Dojo do Tigre, seu companheiro cheio de dicas para quem adora morrer de repente!::
-79098::$$$message_0073_0000_9000$$$::Parada aí, Tigre! Você comeu o bolo da Fleur que escondi na geladeira, não comeu!?::
+79097::$$$message_0072_0000_9000$$$::Boa noite! Este é o Dojô da Tigresa, seu companheiro cheio de dicas para quem adora morrer de repente!::
+79098::$$$message_0073_0000_9000$$$::Parada aí, Tigresa! Você comeu o bolo da Fleur que escondi na geladeira, não comeu!?::
 79099::$$$message_0074_0001_9001$$$::Não tenho ideia do porquê, mas essa é a única coisa que me vem à cabeça.[lr]::
 79100::$$$message_0075_0005_9000$$$::"Cheguei... Ah, só você está aqui, Fuji-nee?"[lr]::
 79101::$$$message_0076_0000_9000$$$::"Já que tenho um tempo, talvez eu faça outro prato."[lr]::
@@ -132,8 +132,8 @@ id=qid::label=str::text=lstr::
 79152::$$$message_0131_0088_9002$$$::"Não precisamos de muito tempo. Distraia-o para nós."[lr]::
 79153::$$$message_0132_0081_9001$$$::Minha consciência afunda cada vez mais.[lr]::
 79154::$$$message_0133_0000_9000$$$::Nós nos apressamos pelo longo corredor e saímos pelo portão.[lr]::
-79155::$$$message_0134_0000_9000$$$::Olááá! Acho que nem preciso lembrar, mas este é o Dojo do Tigre, uma gota de alívio no deserto para quem sofre com os finais ruins.::
-79156::$$$message_0135_0000_9000$$$::Oi, pessoal! Este é o Dojo do Tigre, o lugar que treina e resgata quem caiu direto no inferno dos gatos por um pequeno erro de escolha!::
+79155::$$$message_0134_0000_9000$$$::Olááá! Acho que nem preciso lembrar, mas este é o Dojô da Tigresa, uma gota de alívio no deserto para quem sofre com os finais ruins.::
+79156::$$$message_0135_0000_9000$$$::Oi, pessoal! Este é o Dojô da Tigresa, o lugar que treina e resgata quem caiu direto no inferno dos gatos por um pequeno erro de escolha!::
 79157::$$$message_0136_0000_9000$$$::Quando o sol se põe, a chuva já parou completamente.[lr]::
 79158::$$$message_0137_0000_9000$$$::A Saber pode cuidar da Caster.[lr]::
 79159::$$$message_0138_0000_9000$$$::Está claro quem é o inimigo.[lr]::
@@ -190,7 +190,7 @@ id=qid::label=str::text=lstr::
 78997::$$$message_0189_0000_9000$$$::"Qual é o problema? Por que hesita?...::
 79207::$$$message_0190_0033_9000$$$::Artoria buscou o Santo Graal.[lr]::
 79208::$$$message_0191_0000_9000$$$::Olá pessoal! Como vocês estão!?[lr]::
-79209::$$$message_0192_0000_9000$$$::Osu! Este é o Dojo do Tigre, onde ovelhas desgarradas como vocês refletem sobre suas ações!::
+79209::$$$message_0192_0000_9000$$$::Osu! Este é o Dojô da Tigresa, onde ovelhas desgarradas como vocês refletem sobre suas ações!::
 79210::$$$message_0193_0000_9000$$$::Estar desarmado no momento mais crucial...[lr]::
 79211::$$$message_0194_0002_9000$$$::"Desculpe a demora, Saber.[lr]::
 79212::$$$message_0196_0000_9000$$$::"Sa...ber..."[lr]::
@@ -212,7 +212,7 @@ id=qid::label=str::text=lstr::
 79225::$$$message_0212_0000_9000$$$::   Não posso deixar a Saber sozinha.[lr]::
 79226::$$$message_0213_0000_9000$$$::"Está feito.[lr]::
 79227::$$$message_0214_0026_9000$$$::"Por favor, sente-se naquele banco. Ouvirei o que tem a dizer depois."::
-79228::$$$message_0215_0000_9000$$$::Opa! Este é o Dojo do Tigre, um refúgio de paz para ajudar quem sofre com mortes injustas!::
+79228::$$$message_0215_0000_9000$$$::Opa! Este é o Dojô da Tigresa, um refúgio de paz para ajudar quem sofre com mortes injustas!::
 79229::$$$message_0216_0000_9000$$$::Inverno, cinco anos atrás.::
 79230::$$$message_0217_0000_9000$$$::Não há sentido em conversar até eu entender minha própria situação.[lr]::
 79231::$$$message_0218_0000_9002$$$::"Certo, quero ouvir sobre as coisas sérias primeiro. Me diga por que você ainda está por aqui."::
@@ -257,7 +257,7 @@ id=qid::label=str::text=lstr::
 79271::$$$message_0264_0004_9002$$$::Uma das marcas no dorso da minha mão esquerda desaparece.::
 79272::$$$message_0265_0055_9000$$$::"Eu estive te chamando, Rin, mas você não atendeu. Agora você me traz um convidado estranho. ...Hm, então ele é o sétimo, Rin?"::
 79273::$$$message_0266_0051_9002$$$::Na cidade coberta pelas sombras da noite, ergue-se algo terrível, que jamais deveria estar ali.::
-79274::$$$message_0267_0000_9000$$$::Chegamos ao Dojo do Tigre![lr]::
+79274::$$$message_0267_0000_9000$$$::Chegamos ao Dojô da Tigresa![lr]::
 79275::$$$message_0268_0000_9001$$$::A Tohsaka chegou bem na hora.::
 79276::$$$message_0269_0000_9001$$$::Este método é violento demais...!::
 79277::$$$message_0270_0000_9001$$$::...Cerro os dentes para suportar a angústia.[lr]::
@@ -271,7 +271,7 @@ id=qid::label=str::text=lstr::
 79285::$$$message_0278_0000_9000$$$::Para ele, aquele lugar não era agradável.[lr]::
 79286::$$$message_0279_0042_9002$$$::Saber, já vestida com a armadura de prata, avança contra Kuzuki como uma rajada de vento.::
 79287::$$$message_0280_0000_9000$$$::"...Droga. Agora não tem como o Kuzuki sair do templo."[lr]::
-79288::$$$message_0281_0000_9000$$$::Oi, está todo mundo bem? Este é o 19º Dojo do Tigre, onde resgatamos Shirou, que morreu de forma lamentável por um instante de descuido!::
+79288::$$$message_0281_0000_9000$$$::Oi, está todo mundo bem? Este é o 19º Dojô da Tigresa, onde resgatamos Shirou, que morreu de forma lamentável por um instante de descuido!::
 79289::$$$message_0282_0000_9000$$$::Inverno, cinco anos atrás.::
 79290::$$$message_0283_0000_9000$$$::Tenho que ir ver o que aconteceu com a Saber.[lr]::
 79291::$$$message_0284_0000_9000$$$::Vou ajudar a Sakura.[lr]::
@@ -295,7 +295,7 @@ id=qid::label=str::text=lstr::
 79308::$$$message_0302_0005_9000$$$::"Agora você ganhou meu respeito. Pelo menos sabe perceber uma intenção de matar. Achei que fosse um pacifista que não mataria nem um inseto."::
 79309::$$$message_0303_0004_9000$$$::"Oh. Bem-vindo de volta, Senpai."[lr]::
 79310::$$$message_0304_0000_9000$$$::Parabéns, pessoal!::
-79311::$$$message_0305_0000_9000$$$::Oi, aqui é o Dojo do Tigre, seu companheiro de sempre...[lr]::
+79311::$$$message_0305_0000_9000$$$::Oi, aqui é o Dojô da Tigresa, seu companheiro de sempre...[lr]::
 79312::$$$message_0306_0031_9001$$$::...Sério, esta manhã, passei do espanto à raiva.[lr]::
 79313::$$$message_0307_0007_9005$$$::"Issei. Não faça perguntas e tire a camisa."[lr]::
 79314::$$$message_0308_0000_9000$$$::...Vou tentar perguntar a ele.[lr]::
@@ -339,7 +339,7 @@ id=qid::label=str::text=lstr::
 79351::$$$message_0346_0000_9001$$$::E então eu desmaiei.[lr]::
 79352::$$$message_0347_0000_9000$$$::O sol se põe.[lr]::
 79353::$$$message_0348_0033_9001$$$::Em meio ao vento que sobe entre os prédios…[lr]::
-79354::$$$message_0349_0000_9001$$$::Este Dojo do Tigre foi cancelado porque a instrutora assistente foi sequestrada.::
+79354::$$$message_0349_0000_9001$$$::Este Dojô da Tigresa foi cancelado porque a instrutora assistente foi sequestrada.::
 79355::$$$message_0350_0001_9000$$$::"Então a Projeção tem suas limitações.[lr]::
 79356::$$$message_0351_0000_9000$$$::"...Não há mais planos para considerar.[lr]::
 79357::$$$message_0352_0000_9000$$$::...Vai acabar como hoje se lutarmos contra eles de frente.[lr]::
@@ -361,7 +361,7 @@ id=qid::label=str::text=lstr::
 79372::$$$message_0368_0011_9000$$$::"Então você veio mesmo. Conheço sua personalidade. Achei que você voltaria com algum tipo de estratégia."[lr]::
 79373::$$$message_0369_0000_9000$$$::Caminhamos na floresta à noite.[lr]::
 79006::$$$message_0370_0003_9001$$$::"...Nossa, estou farta mesmo já sabendo disso. Eles realmente construíram algo assim em um lugar como este."::
-79374::$$$message_0371_0000_9000$$$::Muito bem, apesar de tantos dizerem que não serve para nada, chegamos ao 23º Dojo do Tigre.::
+79374::$$$message_0371_0000_9000$$$::Muito bem, apesar de tantos dizerem que não serve para nada, chegamos ao 23º Dojô da Tigresa.::
 79375::$$$message_0372_0000_9001$$$::Abro meus olhos.[lr]::
 79376::$$$message_0373_0004_9001$$$::Sento num banco para descansar o corpo ainda quente.[lr]::
 79015::$$$message_0374_0000_9000$$$::É inútil. Com tão pouco poder, você não pode fugir de mim, não importa o que faça.[lr]::
@@ -490,7 +490,7 @@ id=qid::label=str::text=lstr::
 79494::$$$message_0502_0000_9001$$$::Se continuar avançando e mentindo para mim mesmo, com certeza vou me arrepender.::
 79495::$$$message_0503_0034_9000$$$::"Despertou. Precisa de uma explicação, Matou Sakura?"[lr]::
 79496::$$$message_0504_0000_9000$$$::Como vai todo mundo?[lr]::
-79497::$$$message_0505_0000_9000$$$::Hmm... Este é o Dojo do Tigre, mas esta edição não está estranha?::
+79497::$$$message_0505_0000_9000$$$::Hmm... Este é o Dojô da Tigresa, mas esta edição não está estranha?::
 79498::$$$message_0506_0000_9000$$$::Hmm... Não há muito que eu possa dizer desta vez.[lr]::
 79499::$$$message_0507_0000_9000$$$::Cobrança sem piedade! Chegou o cobrador de dívidas maligno!::
 79500::$$$message_0508_0000_9000$$$::Eu subo as escadas.[lr]::
@@ -655,7 +655,7 @@ id=qid::label=str::text=lstr::
 79655::$$$message_0667_0040_9000$$$::"Vamos para casa, Sakura. Corte seus laços com aquele cara."::
 79656::$$$message_0668_0023_9003$$$::"Diga-me, meu arqui-inimigo. Por que você não queria morrer?"[lr]::
 79657::$$$message_0669_0036_9000$$$::"Você venceu, Emiya Shirou. Não sei por quantos segundos seu corpo vai aguentar, mas, se tiver um objetivo, apresse-se."[lr]::
-79658::$$$message_0670_0000_9000$$$::O Dojo do Tigre chegou ao fim na edição anterior.[lr]::
+79658::$$$message_0670_0000_9000$$$::O Dojô da Tigresa chegou ao fim na edição anterior.[lr]::
 79659::$$$message_0671_0000_9000$$$::FASE EXTRAAAAA,::
 79660::$$$message_0672_0000_9000$$$::Acordo no horário de costume.[lr]::
 79661::$$$message_0673_0029_9001$$$::Meu dedo para antes de tocar a campainha.[lr]::
@@ -702,7 +702,7 @@ id=qid::label=str::text=lstr::
 79701::$$$message_0714_0014_9000$$$::"...Hã, Senpai? O que foi? Por que você está fazendo essa cara assustadora?"[lr]::
 79702::$$$message_0715_0000_9000$$$::Sonho dentro de uma caixa de criação de insetos.[lr]::
 79703::$$$message_0716_0000_9000$$$::Bem, isso é repentino.[lr]::
-79704::$$$message_0717_0000_9000$$$::Osu! Vai começar o Dojo do Tigre, onde salvamos os mortos que tentaram uma retirada estratégica, mas não conseguiram escapar!::
+79704::$$$message_0717_0000_9000$$$::Osu! Vai começar o Dojô da Tigresa, onde salvamos os mortos que tentaram uma retirada estratégica, mas não conseguiram escapar!::
 79705::$$$message_0718_0005_9000$$$::"Emiya. Eu quero ouvir sua resposta."[lr]::
 79706::$$$message_0719_0059_9001$$$::Ele era um mago cuja vida não tinha nada a ver com a Guerra do Santo Graal. Vivia por seus próprios desejos e objetivos, e foi isso que o levou a buscar o Graal.[lr]::
 79707::$$$message_0720_0000_9001$$$::São 23h. Saber e eu saímos quando a cidade começa a adormecer. ::
